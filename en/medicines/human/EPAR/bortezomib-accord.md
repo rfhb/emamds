@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 14:35:44
+document_datetime: 2026-03-25 09:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bortezomib-accord.html
 document_name: bortezomib-accord.html
 version: success
-processing_time: 0.1342409
-conversion_datetime: 2025-12-30 03:22:25.014854
+processing_time: 0.134482
+conversion_datetime: 2026-03-29 12:21:45.294622
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Bortezomib Accord
 
 [RSS](/en/individual-human-medicine.xml/65593)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-bortezomib Medicine Human Authorised
+bortezomib
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -112,9 +112,7 @@ Reference Number: EMA/404258/2018
 
 English (EN) (101.11 KB - PDF)
 
-**First published:** 27/07/2015
-
-**Last updated:** 14/06/2018
+**First published:** 27/07/2015 **Last updated:** 14/06/2018
 
 [View](/en/documents/overview/bortezomib-accord-epar-medicine-overview_en.pdf)
 
@@ -122,9 +120,7 @@ Bortezomib Accord : EPAR - Risk-management-plan summary
 
 English (EN) (69.94 KB - PDF)
 
-**First published:** 27/07/2015
-
-**Last updated:** 27/07/2015
+**First published:** 27/07/2015 **Last updated:** 27/07/2015
 
 [View](/en/documents/rmp-summary/bortezomib-accord-epar-risk-management-plan-summary_en.pdf)
 
@@ -132,305 +128,161 @@ English (EN) (69.94 KB - PDF)
 
 Bortezomib Accord : EPAR - Product Information
 
-English (EN) (1.09 MB - PDF)
+English (EN) (956.01 KB - PDF)
 
-**First published:** 27/07/2015
-
-**Last updated:** 29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/en/documents/product-information/bortezomib-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-457)
+[Other languages (24)](#file-language-dropdown-760)
 
-български (BG) (1.4 MB - PDF)
+български (BG) (1.42 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/bg/documents/product-information/bortezomib-accord-epar-product-information_bg.pdf)
 
-español (ES) (1.19 MB - PDF)
+español (ES) (1.05 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/es/documents/product-information/bortezomib-accord-epar-product-information_es.pdf)
 
-čeština (CS) (1.13 MB - PDF)
+čeština (CS) (1.05 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/cs/documents/product-information/bortezomib-accord-epar-product-information_cs.pdf)
 
-dansk (DA) (1.16 MB - PDF)
+dansk (DA) (1.1 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/da/documents/product-information/bortezomib-accord-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.33 MB - PDF)
+Deutsch (DE) (1.27 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/de/documents/product-information/bortezomib-accord-epar-product-information_de.pdf)
 
 eesti keel (ET) (1.09 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/et/documents/product-information/bortezomib-accord-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.41 MB - PDF)
+ελληνικά (EL) (1.34 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/el/documents/product-information/bortezomib-accord-epar-product-information_el.pdf)
 
-français (FR) (1.32 MB - PDF)
+français (FR) (1.04 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/fr/documents/product-information/bortezomib-accord-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.11 MB - PDF)
+hrvatski (HR) (1.18 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/hr/documents/product-information/bortezomib-accord-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.11 MB - PDF)
+íslenska (IS) (1.16 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/is/documents/product-information/bortezomib-accord-epar-product-information_is.pdf)
 
-italiano (IT) (1.21 MB - PDF)
+italiano (IT) (1.11 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/it/documents/product-information/bortezomib-accord-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (1.22 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/lv/documents/product-information/bortezomib-accord-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.37 MB - PDF)
+lietuvių kalba (LT) (1.43 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/lt/documents/product-information/bortezomib-accord-epar-product-information_lt.pdf)
 
-magyar (HU) (1.39 MB - PDF)
+magyar (HU) (1.09 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/hu/documents/product-information/bortezomib-accord-epar-product-information_hu.pdf)
 
-Malti (MT) (1.19 MB - PDF)
+Malti (MT) (1.51 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/mt/documents/product-information/bortezomib-accord-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.14 MB - PDF)
+Nederlands (NL) (853.14 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/nl/documents/product-information/bortezomib-accord-epar-product-information_nl.pdf)
 
-norsk (NO) (1.08 MB - PDF)
+norsk (NO) (1.15 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/no/documents/product-information/bortezomib-accord-epar-product-information_no.pdf)
 
-polski (PL) (1.21 MB - PDF)
+polski (PL) (1.24 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/pl/documents/product-information/bortezomib-accord-epar-product-information_pl.pdf)
 
-português (PT) (1.18 MB - PDF)
+português (PT) (1.08 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/pt/documents/product-information/bortezomib-accord-epar-product-information_pt.pdf)
 
-română (RO) (1.37 MB - PDF)
+română (RO) (1.26 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/ro/documents/product-information/bortezomib-accord-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.14 MB - PDF)
+slovenčina (SK) (1.28 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/sk/documents/product-information/bortezomib-accord-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.17 MB - PDF)
+slovenščina (SL) (1.16 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/sl/documents/product-information/bortezomib-accord-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.3 MB - PDF)
+Suomi (FI) (1.28 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/fi/documents/product-information/bortezomib-accord-epar-product-information_fi.pdf)
 
-svenska (SV) (1.16 MB - PDF)
+svenska (SV) (1.15 MB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-29/09/2025
+**First published:** 27/07/2015 **Last updated:** 25/03/2026
 
 [View](/sv/documents/product-information/bortezomib-accord-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000301240 25/09/2025
+**Latest procedure affecting product information:** VR/0000338604
+
+24/03/2026
 
 icon globe
 
@@ -450,305 +302,177 @@ Bortezomib Accord : EPAR - All Authorised presentations
 
 English (EN) (50.77 KB - PDF)
 
-**First published:** 27/07/2015
-
-**Last updated:** 05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/en/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-948)
+[Other languages (24)](#file-language-dropdown-207)
 
 български (BG) (59.64 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/bg/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (58.46 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/es/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (58.07 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/cs/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (52.05 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/da/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (52.83 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/de/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (50.03 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/et/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (67.3 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/el/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (50.97 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/fr/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (68.49 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/hr/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (52.14 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/is/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (49.83 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/it/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (69.93 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/lv/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (67.26 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/lt/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (55.73 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/hu/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (71.96 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/mt/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (51.84 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/nl/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (52.25 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/no/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (71.35 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/pl/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (52.67 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/pt/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (68.39 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/ro/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (65.2 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/sk/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (58.51 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/sl/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (49.15 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/fi/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (50.75 KB - PDF)
 
-**First published:**
-
-27/07/2015
-
-**Last updated:**
-
-05/08/2021
+**First published:** 27/07/2015 **Last updated:** 05/08/2021
 
 [View](/sv/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Bortezomib Accord Active substance bortezomib International non-proprietary name (INN) or common name bortezomib Therapeutic area (MeSH) Multiple Myeloma Anatomical therapeutic chemical (ATC) code L01XX32
+Name of medicine
+
+Bortezomib Accord
+
+Active substance
+
+bortezomib
+
+International non-proprietary name (INN) or common name
+
+bortezomib
+
+Therapeutic area (MeSH)
+
+Multiple Myeloma
+
+Anatomical therapeutic chemical (ATC) code
+
+L01XX32
 
 ### Pharmacotherapeutic group
 
@@ -766,7 +490,9 @@ Bortezomib Accord in combination with rituximab, cyclophosphamide, doxorubicin a
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/003984
+EMA product number
+
+EMEA/H/C/003984
 
 Generic
 
@@ -778,7 +504,17 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 21/05/2015 Marketing authorisation issued 20/07/2015 Revision 16
+Opinion adopted
+
+21/05/2015
+
+Marketing authorisation issued
+
+20/07/2015
+
+Revision
+
+17
 
 ## Assessment history
 
@@ -790,11 +526,9 @@ Collapse section
 
 Bortezomib Accord : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (655.09 KB - PDF)
+English (EN) (169.94 KB - PDF)
 
-**First published:** 01/04/2025
-
-**Last updated:** 29/09/2025
+**First published:** 01/04/2025 **Last updated:** 25/03/2026
 
 [View](/en/documents/procedural-steps-after/bortezomib-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -802,9 +536,7 @@ Bortezomib Accord : EPAR - Procedural steps taken and scientific information aft
 
 English (EN) (138.97 KB - PDF)
 
-**First published:** 20/06/2016
-
-**Last updated:** 01/04/2025
+**First published:** 20/06/2016 **Last updated:** 01/04/2025
 
 [View](/en/documents/procedural-steps-after/bortezomib-accord-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -832,37 +564,31 @@ English (EN) (66.7 KB - PDF)
 
 Bortezomib Accord : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/449381/2015
+Adopted Reference Number: EMA/449381/2015
 
 English (EN) (218.32 KB - PDF)
 
-**First published:** 27/07/2015
-
-**Last updated:** 27/07/2015
+**First published:** 27/07/2015 **Last updated:** 27/07/2015
 
 [View](/en/documents/assessment-report/bortezomib-accord-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Bortezomib Accord
 
-Adopted
-
-Reference Number: EMA/CHMP/288307/2015
+Adopted Reference Number: EMA/CHMP/288307/2015
 
 English (EN) (70.77 KB - PDF)
 
-**First published:** 22/05/2015
-
-**Last updated:** 22/05/2015
+**First published:** 22/05/2015 **Last updated:** 22/05/2015
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-bortezomib-accord_en.pdf)
 
-#### News on Bortezomib Accord
+## News on Bortezomib Accord
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 May 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-may-2015) 22/05/2015
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 May 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-may-2015)
 
-#### More information on Bortezomib Accord
+22/05/2015
+
+## More information on Bortezomib Accord
 
 Questions and answers on generic medicines
 
@@ -870,491 +596,309 @@ Reference Number: EMA/393905/2006 Rev. 2
 
 English (EN) (66.45 KB - PDF)
 
-**First published:** 09/07/2007
-
-**Last updated:** 07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-809)
 
 български (BG) (93.16 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
 
 español (ES) (68.3 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
 
 čeština (CS) (87.71 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
 
 dansk (DA) (66.79 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
 
 Deutsch (DE) (67.55 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
 
 eesti keel (ET) (65.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
 
 ελληνικά (EL) (91.29 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
 
 français (FR) (68.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
 
 hrvatski (HR) (87.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
 
 italiano (IT) (67.62 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
 
 latviešu valoda (LV) (111.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
 
 lietuvių kalba (LT) (86.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
 
 magyar (HU) (85.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
 
 Malti (MT) (89.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
 
 Nederlands (NL) (66.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
 
 polski (PL) (88.51 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
 
 português (PT) (68.32 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
 
 română (RO) (86.9 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
 
 slovenčina (SK) (87.73 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
 
 slovenščina (SL) (84.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
 
 Suomi (FI) (66.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
 
 svenska (SV) (67.11 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Bortezomib Accord : EPAR - Product information - tracked changes
 
-English (EN) (314.19 KB - DOCX)
+English (EN) (311 KB - DOCX)
 
-**First published:** 29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/en/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-986)
+[Other languages (24)](#file-language-dropdown-83)
 
-български (BG) (380.53 KB - DOCX)
+български (BG) (381.19 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/bg/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (314.38 KB - DOCX)
+español (ES) (314.68 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/es/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (332.32 KB - DOCX)
+čeština (CS) (328.71 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/cs/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (297.24 KB - DOCX)
+dansk (DA) (298.19 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/da/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (315.32 KB - DOCX)
+Deutsch (DE) (314.29 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/de/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (297.82 KB - DOCX)
+eesti keel (ET) (298.16 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/et/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (387.04 KB - DOCX)
+ελληνικά (EL) (379.82 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/el/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (305.7 KB - DOCX)
+français (FR) (290.76 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/fr/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (325.24 KB - DOCX)
+hrvatski (HR) (323.09 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/hr/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (296.27 KB - DOCX)
+íslenska (IS) (293.16 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/is/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (318.84 KB - DOCX)
+italiano (IT) (316.9 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/it/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (269.99 KB - DOCX)
+latviešu valoda (LV) (268.9 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/lv/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (314.63 KB - DOCX)
+lietuvių kalba (LT) (315.71 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/lt/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (318.09 KB - DOCX)
+magyar (HU) (315.32 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/hu/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (341.4 KB - DOCX)
+Malti (MT) (350.93 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/mt/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (314.15 KB - DOCX)
+Nederlands (NL) (306.04 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/nl/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (287.16 KB - DOCX)
+norsk (NO) (283.46 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/no/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (302.41 KB - DOCX)
+polski (PL) (301.92 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/pl/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (317.73 KB - DOCX)
+português (PT) (320.76 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/pt/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (326.63 KB - DOCX)
+română (RO) (322.69 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/ro/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (319.2 KB - DOCX)
+slovenčina (SK) (315.19 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/sk/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (327.07 KB - DOCX)
+slovenščina (SL) (323.48 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/sl/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (304.29 KB - DOCX)
+Suomi (FI) (300.42 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/fi/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (287.65 KB - DOCX)
+svenska (SV) (286.41 KB - DOCX)
 
-**First published:**
-
-29/09/2025
+**First published:** 29/09/2025 **Last updated:** 25/03/2026
 
 [View](/sv/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_sv.docx)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 29/09/2025
+**This page was last updated on**
+
+25/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

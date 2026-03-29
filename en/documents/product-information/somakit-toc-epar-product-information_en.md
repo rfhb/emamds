@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-04-04 12:53:16
-document_pages: 35
+document_datetime: 2026-03-25 14:49:45
+document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/somakit-toc-epar-product-information_en.pdf
 document_name: somakit-toc-epar-product-information_en.pdf
 version: success
-processing_time: 6.7923652
-conversion_datetime: 2025-12-17 15:24:41.341225
+processing_time: 7.196858
+conversion_datetime: 2026-03-29 12:45:52.412538
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -77,11 +77,11 @@ The safety and efficacy of gallium ( 68 Ga) edotreotide have not been establishe
 
 ## Method of administration
 
-## SomaKit TOC is for intravenous use and for single use only.
+SomaKit TOC is for intravenous use and for single use only.
 
 This medicinal product should be radiolabelled before administration to the patient.
 
-## The activity of gallium ( 68 Ga) edotreotide must be measured with an activimeter immediately prior to injection.
+The activity of gallium ( 68 Ga) edotreotide must be measured with an activimeter immediately prior to injection.
 
 The injection of gallium ( 68 Ga) edotreotide must be administered intravenously in order to avoid local extravasation resulting in inadvertent radiation to the patient and imaging artefacts.
 
@@ -91,7 +91,7 @@ For patient preparation, see section 4.4.
 
 ## Image acquisition
 
-Radiolabelled SomaKit TOC is suitable for PET medical imaging. The acquisition must include a whole body acquisition from skull to mid-thigh. The recommended time for imaging is 40 to 90 minutes post injection. Imaging acquisition start time and duration should be adapted according to the equipment used, the patient and the tumour characteristics in order to obtain the best image quality possible.
+Radiolabelled SomaKit TOC is suitable for PET medical imaging. The acquisition must include a whole-body acquisition from the top of the skull to mid-thigh. The recommended time for imaging is 40 to 90 minutes post injection. Imaging acquisition start time and duration should be adapted according to the equipment used, the patient and the tumour characteristics in order to obtain the best image quality possible.
 
 ## 4.3 Contraindications
 
@@ -119,7 +119,7 @@ For information on use in the paediatric population, see section 4.2.
 
 ## Patient preparation
 
-The patient should be well hydrated before the start of the examination and urged to void as often as possible during the first hours after examination in order to reduce radiation.
+The patient should be well hydrated before the start of the examination and urged to void as often as possible during the first hours after examination in order to reduce radiation exposure.
 
 ## Errors of interpretation of gallium ( 68 Ga) edotreotide images
 
@@ -163,7 +163,7 @@ Precautions with respect to environmental hazard are in section 6.6.
 
 Somatostatin and its analogues are probably competing to bind to the same somatostatin receptors. Therefore, when treating patients with somatostatin analogues, it is preferable to perform imaging with gallium ( 68 Ga) edotreotide the day(s) preceding the next administration of a somatostatin analogue. A long-term exposure to endogenous hypercortisolism may down-regulate somatostatin receptor expression and negatively influence the results of somatostatin receptor imaging with gallium ( 68 Ga) edotreotide. In patients with Cushing syndrome, the normalisation of hypercortisolism should be considered before performing PET with SomaKit TOC.
 
-Some evidence exists that corticosteroids can induce down-regulation of somatostatin subtype 2 receptors (SSTR2). Repeated administration of high-doses of glucocorticosteroids prior to gallium (68Ga) edotreotide administration may cause insufficient SSTR2 expression for adequate visualisation of somatostatin receptor-positive NETs.
+Some evidence exists that glucocorticoids can induce down-regulation of somatostatin subtype 2 receptors (SSTR2). Repeated administration of high doses of glucocorticoids prior to gallium ( 68 Ga) edotreotide administration may cause insufficient SSTR2 expression for adequate visualisation of somatostatin receptor-positive NETs.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -173,13 +173,13 @@ When an administration of radiopharmaceuticals to a woman of childbearing potent
 
 ## Pregnancy
 
-No data are available regarding the use of this medicinal product during pregnancy. Radionuclide procedures carried out on pregnant women also involve radiation doses to the fœtus. Only essential investigations should therefore be carried out during pregnancy, when the likely benefit far exceeds the risk incurred by the mother and fœtus.
-
-<div style=\"page-break-after: always\"></div>
+No data are available regarding the use of this medicinal product during pregnancy. Radionuclide procedures carried out on pregnant women also involve radiation doses to the foetus. Only essential investigations should therefore be carried out during pregnancy, when the likely benefit far exceeds the risk incurred by the mother and foetus.
 
 ## Breast-feeding
 
 Before administering radiopharmaceuticals to a mother who is breast-feeding, consideration should be given to the possibility of delaying the administration of radionuclide until the mother has ceased breast-feeding, and to what is the most appropriate choice of radiopharmaceuticals, bearing in mind the secretion of activity in breast milk. If the administration is considered necessary, breast-feeding should be interrupted for 12 hours and the expressed feeds discarded.
+
+<div style=\"page-break-after: always\"></div>
 
 Close contact with infants should be restricted during the initial 12 hours following injection.
 
@@ -195,11 +195,9 @@ Gallium ( 68 Ga) edotreotide has no or negligible influence on the ability to dr
 
 Exposure to ionising radiation is linked with cancer induction and a potential for development of hereditary defects. As the effective dose is about 4.5 mSv when the maximal recommended activity of 200 MBq is administered, these adverse reactions are expected to occur with a low probability.
 
-Adverse reactions are divided into groups according to the MedDRA convention frequencies: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the available data).
+Adverse reactions are divided into groups according to the MedDRA convention frequencies: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data).
 
-## General disorders and administration site conditions
-
-Not known: injection site pain
+General disorders and administration site conditions Not known: injection site pain
 
 ## Description of selected adverse reactions
 
@@ -211,9 +209,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-In the event of administration of a radiation overdose, the absorbed dose to the patient should be reduced where possible by increasing the elimination of the radionuclide from the body by reinforced hydration and by frequent micturition. It might be helpful to estimate the effective dose that was applied.
-
-<div style=\"page-break-after: always\"></div>
+In the event of administration of a radiation overdose, the absorbed dose to the patient should be reduced where possible by increasing the elimination of the radionuclide from the body through reinforced hydration and frequent micturition. It might be helpful to estimate the effective dose that was applied.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -221,25 +217,25 @@ In the event of administration of a radiation overdose, the absorbed dose to the
 
 Pharmacotherapeutic group: Diagnostic radiopharmaceuticals; other diagnostic radiopharmaceuticals for tumour detection. ATC code: V09IX09.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Mechanism of action
 
 Gallium ( 68 Ga) edotreotide binds to somatostatin receptors. In vitro , this radiopharmaceutical binds with high affinity mainly to SSTR2 but also, to a lesser extent, to SSTR5. In vivo , semiquantitative correlation was not assessed between gallium ( 68 Ga) edotreotide uptake in tumours and the density of SSTR in histopathological samples either in GEP-NET patients or in normal organs. Moreover, the in vivo binding of gallium ( 68 Ga) edotreotide to structures or receptors other than SSTR remains unknown.
 
 ## Pharmacodynamic effects
 
-At the chemical concentrations used for diagnostic examinations, gallium ( 68 Ga) edotreotide does not appear to have any clinically relevant pharmacodynamic effect.
-
-Edotreotide is a somatostatin analogue. Somatostatin is a neurotransmitter in the central nervous system, but also a hormone which binds to cells of neuroendocrine origin and inhibits the release of growth hormone, insulin, glucagon and gastrin. There are no data on whether the intravenous administration of edotreotide produces variation of serum gastrin and serum glucagon levels.
+At the chemical concentrations used for diagnostic examinations, gallium ( 68 Ga) edotreotide does not appear to have any clinically relevant pharmacodynamic effect. Edotreotide is a somatostatin analogue. Somatostatin is a neurotransmitter in the central nervous system, but also a hormone which binds to cells of neuroendocrine origin and inhibits the release of growth hormone, insulin, glucagon and gastrin. There are no data on whether the intravenous administration of edotreotide produces variation of serum gastrin and serum glucagon levels.
 
 ## Clinical efficacy and safety
 
 For the detection of the primary GEP-NET site in case of rising levels of a relevant biochemical tumour marker or in case of proven NET metastasis, patient-based sensitivity and specificity of gallium ( 68 Ga) edotreotide PET were 100% (4/4) and 89% (8/9), respectively, in the prospective study of Gabriel et al. 2007. Lesion-detection rate was 75% (3/4) in the subgroup of patients with unknown primary tumour site in the prospective study of Frilling et al. 2010. In the retrospective paper of Schreiter et al. 2014, the intra-individual comparison in a subgroup of 20 patients showed that gallium ( 68 Ga) edotreotide permitted to localise the primary tumour in 9/20 (45%) patients while indium ( 111 In) pentetreotide did in 2/20 (10%).
 
-A prospective intra-individual comparison showed that gallium ( 68 Ga) edotreotide is able to detect lesions better than indium ( 111 In) pentetreotide. A lesion detection rate of 100% (40/40) versus 85% (34/40) was observed in the study of Hofmann et al. 2001 recruiting patients with histologically proven bronchial (n=2) or midgut (n=6) NETs. In the study of Buchmann et al. 2007, conducted in 27 patients mostly with GEP-NET (59%) or NETs of unknown primary (30%), gallium ( 68 Ga) edotreotide identified 279 lesions versus 157 lesions seen with indium ( 111 In) pentetreotide. In the study of Van Binnebeek et al. 2015 in 53 patients with metastatic GEP-NET [mostly GEP-NET (n=39) or NET of unknown origin (n=6)], the lesion-based detection rate of gallium ( 68 Ga) edotreotide was 99.9% (1098/1099) versus 60% (660/1099) for indium ( 111 In) pentetreotide based on the follow-up scans. In the study of Lee et al. 2015 in 13 GEP-NET patients, a total of 35 positive lesions were detected in 10 patients on either gallium ( 68 Ga) edotreotide PET/CT or indium ( 111 In) pentetreotide SPECT/CT while 3 patients did not exhibit any positive lesions on either imaging method. Gallium ( 68 Ga) edotreotide detected 35/35 (100%) lesions vs 19/35=54% for indium ( 111 In) pentetreotide SPECT/CT. In the study of Kowalski et al. 2003 in 4 patients with GEP-NET, gallium ( 68 Ga) edotreotide showed a better patient-based detection rate (100%) than indium ( 111 In) pentetreotide (50%).
+A prospective intra-individual comparison showed that gallium ( 68 Ga) edotreotide is able to detect lesions better than indium ( 111 In) pentetreotide. A lesion detection rate of 100% (40/40) versus 85% (34/40) was observed in the study of Hofmann et al. 2001 recruiting patients with histologically proven bronchial (n=2) or midgut (n=6) NETs. In the study of Buchmann et al. 2007, conducted in 27 patients mostly with GEP-NET (59%) or NETs of unknown primary (30%), gallium ( 68 Ga) edotreotide identified 279 lesions versus 157 lesions seen with indium ( 111 In) pentetreotide. In the study of Van Binnebeek et al. 2015 in 53 patients with metastatic GEP-NET [mostly GEP-NET (n=39) or NET of unknown origin (n=6)], the lesion-based detection rate of gallium ( 68 Ga) edotreotide was 99.9% (1 098/1 099) versus 60% (660/1 099) for indium ( 111 In) pentetreotide based on the follow-up scans. In the study of Lee et al. 2015 in 13 GEP-NET patients, a total of 35 positive lesions were detected in 10 patients on either gallium ( 68 Ga) edotreotide PET/CT or indium ( 111 In) pentetreotide SPECT/CT while 3 patients did not exhibit any positive lesions on either imaging method. Gallium ( 68 Ga) edotreotide detected 35/35 (100%) lesions vs 19/35=54% for indium ( 111 In) pentetreotide SPECT/CT. In the study of Kowalski et al. 2003 in 4 patients with GEP-NET, gallium ( 68 Ga) edotreotide showed a better patient-based detection rate (100%) than indium ( 111 In) pentetreotide (50%).
+
+Data available on clinical efficacy of gallium ( 68 Ga) edotreotide for the indication of predicting and monitoring of therapeutic response to peptide receptor radionuclide therapy (PRRT) in histologically confirmed metastatic NET are limited. Five studies have been submitted, one of them prospective (Gabriel et al. 2009) and four retrospective (Kroiss et al. 2013, Ezziddin et al. 2012, Kratochwil et al. 2015 and Luboldt et al. 2010a). In the study by Gabriel et al. 2009 pre-PRRT gallium ( 68 Ga) edotreotide was compared with CT or MRI using the Response Evaluation Criteria in Solid Tumors (RECIST). Gallium ( 68 Ga) edotreotide PET and CT showed a concordant result in 32 patients (70%) and discrepancies in 14 patients (30%) presenting 9 with progressive disease and 5 with remission.
 
 <div style=\"page-break-after: always\"></div>
-
-Data available on clinical efficacy of gallium ( 68 Ga) edotreotide for the indication of predicting and monitoring of therapeutic response to peptide receptor radionuclide therapy (PRRT) in histologically confirmed metastatic NET are limited. Five studies have been submitted, one of them prospective (Gabriel et al. 2009) and four retrospective (Kroiss et al. 2013, Ezziddin et al. 2012, Kratochwil et al. 2015 and Luboldt et al.2010a). In the study by Gabriel et al. 2009 pre-PRRT gallium ( 68 Ga) edotreotide was compared with CT or MRI using the Response Evaluation Criteria in Solid Tumors (RECIST). Gallium ( 68 Ga) edotreotide PET and CT showed a concordant result in 32 patients (70%) and discrepancies in 14 patients (30%) presenting 9 with progressive disease and 5 with remission.
 
 The retrospective study of Kroiss et al. 2013 in 249 NET patients showed that PRRT does not significantly influence semiquantitative uptake of gallium ( 68 Ga) edotreotide PET, except in liver metastases of patients with NET, but the study lacked histological confirmation. The three remaining retrospective studies recruited small samples (ranging from 20 to 28 GEP-NET patients or those with cancer of unknown origin) and found that semiquantitative uptake in the pre-PRRT gallium ( 68 Ga) edotreotide PET scan correlated with the tumour-absorbed doses per injected activity of the subsequent first treatment cycle, differed between those lesions classified as responding and nonresponding after three PRRT cycles, and helped to separate hepatic metastases from normal liver tissue.
 
@@ -259,7 +255,7 @@ The organ uptake has been shown to be age-independent in normal adult human tiss
 
 No radioactive metabolites were detected in serum within 4 hours after intravenous injection of gallium ( 68 Ga) edotreotide.
 
-Approximately 16% of gallium ( 68 Ga) edotreotide activity is removed from the body in the urine within 2 to 4 hours. The peptide is excreted via the kidneys as intact compound.
+Approximately 16% of gallium ( 68 Ga) edotreotide activity is removed from the body in the urine in the first four hours post injection. The peptide is excreted via the kidneys as intact compound.
 
 ## Half-life
 
@@ -269,8 +265,6 @@ Given that the elimination rate is substantially slower than the physical half-l
 
 The pharmacokinetics in patients with renal or hepatic impairment have not been characterised.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.3 Preclinical safety data
 
 Non-clinical data did not reveal any special hazard for gallium ( 68 Ga) edotreotide in humans.
@@ -279,7 +273,9 @@ Local tolerance assessment resulted in mild to moderate inflammation signs in th
 
 No studies on fertility, embryology, mutagenicity or long-term carcinogenicity have been conducted.
 
-Regarding the novel excipient (1,10-phenanthroline), during the toxicity study conducted with the kit formulation of SomaKit TOC including 1,10-phenanthroline at a dose 400 fold higher than the human dose, no toxicity signs were observed.
+Regarding the novel excipient (1,10-phenanthroline), during the toxicity study conducted with the kit formulation of SomaKit TOC including 1,10-phenanthroline at a dose 400-fold higher than the human dose, no toxicity signs were observed.
+
+<div style=\"page-break-after: always\"></div>
 
 Genotoxicity studies on 1,10-phenanthroline available in the literature show negative results in bacterial mutation assay (Ames test), while in a mouse lymphoma assay an indication of possible genotoxicity was obtained at concentrations 750 times higher than the maximum 1,10-phenanthroline blood concentration achievable in patients. However, even taking as worst case reference the limits for genotoxic and carcinogenic impurities, the risk related to the trace amounts of 1,10-phenanthroline in SomaKit TOC formulation is considered negligible at the dose to be administered in patients: the exposure to 1,10-phenanthroline (5 µg/dose) is 24 fold lower than the acceptable daily intake for a genotoxic impurity (120 µg/day for exposures &lt;1 month).
 
@@ -287,11 +283,11 @@ Genotoxicity studies on 1,10-phenanthroline available in the literature show neg
 
 ## 6.1 List of excipients
 
-Powder
+## Powder
 
 1,10-phenanthroline Gentisic acid Mannitol (E421)
 
-Buffer
+## Buffer
 
 Formic acid Sodium hydroxide (E524) Water for injections
 
@@ -299,15 +295,13 @@ After radiolabelling, the solution obtained also contains, as excipient, hydroch
 
 ## 6.2 Incompatibilities
 
-Radiolabelling of carrier molecules with gallium ( 68 Ga) chloride is very sensitive to the presence of trace metal impurities. Only syringe and syringe needles able to minimise trace metal impurity levels (for example, non-metallic or coated with silicone needles) should be used.
+Radiolabelling of carrier molecules with gallium ( 68 Ga) chloride is very sensitive to the presence of trace metal impurities. Only syringes and syringe needles that minimise trace metal impurity levels (e.g. plastic syringes and non-metallic or silicone-coated needles) should be used.
 
 This medicinal product must not be mixed with other products except those mentioned in section 12.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.3 Shelf life
 
-## Kit as packaged for sale
+Kit as packaged for sale
 
 2 years.
 
@@ -321,11 +315,9 @@ From a microbiological point of view, the medicinal product should be used immed
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C to 8°C).
+Store in a refrigerator (2°C to 8°C). Store in the original package in order to protect from light. For storage conditions after radiolabelling of the medicinal product, see section 6.3.
 
-Store in the original package in order to protect from light.
-
-For storage conditions after radiolabelling of the medicinal product, see section 6.3.
+<div style=\"page-break-after: always\"></div>
 
 Storage of radiopharmaceuticals should be in accordance with national regulation on radioactive materials.
 
@@ -354,8 +346,6 @@ For instructions on radiolabelling of the medicinal product before administratio
 
 If at any time in the preparation of this medicinal product the integrity of the vials is compromised it should not be used.
 
-<div style=\"page-break-after: always\"></div>
-
 Administration procedures should be carried out in a way to minimise risk of contamination of the medicinal product and irradiation of the operators. Adequate shielding is mandatory.
 
 The content of the kit before radiolabelling is not radioactive. However, after gallium ( 68 Ga) chloride solution is added, adequate shielding of the final preparation must be maintained.
@@ -368,13 +358,15 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Advanced Accelerator Applications 8-10 Rue Henri Sainte-Claire Deville 92500 Rueil-Malmaison France
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/16/1141/001
+## EU/1/16/1141/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 08/12/2016 Date of latest renewal: 12/11/2021
+Date of first authorisation: 08 December 2016 Date of latest renewal: 12 November 2021
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -386,7 +378,7 @@ The dosimetry of gallium ( 68 Ga) edotreotide was calculated by Sandstrom et al.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 1: Dosimetry of gallium ( 68 Ga) edotreotide
+## Table 1 Dosimetry of gallium ( 68 Ga) edotreotide
 
 | Absorbed dose in selected organs   | mGy/MBq   |
 |------------------------------------|-----------|
@@ -420,7 +412,7 @@ Table 1: Dosimetry of gallium ( 68 Ga) edotreotide
 
 The effective dose resulting from the administration of an activity of 200 MBq to an adult weighing 70 kg is about 4.2 mSv.
 
-For an administered activity of 200 MBq the typical radiation dose to the critical organs, which are the urinary bladder wall, the spleen, the kidneys and the adrenals, are about 24, 22, 16 and 15 mGy, respectively.
+For an administered activity of 200 MBq the typical radiation absorbed dose to the critical organs, which are the urinary bladder wall, the spleen, the kidneys and the adrenals, is about 24, 22, 16 and 15 mGy, respectively.
 
 ## 12. INSTRUCTIONS FOR PREPARATION OF RADIOPHARMACEUTICALS
 
@@ -440,16 +432,18 @@ For administration, the solution should be withdrawn via the stopper using a sin
 
 ## Method of preparation
 
-SomaKit TOC is supplied as a kit containing two vials. It is intended to be radiolabelled with a gallium ( 68 Ga) chloride solution compliant with the Ph. Eur. monograph 2464 Gallium ( 68 Ga) chloride solution for radiolabelling and that, in addition, is sterile and has been tested for compatibility with SomaKit TOC. Only generators that have been authorised as medicinal products in the EU should be used. Refer to the Summary of Product Characteristics of the particular generator for more information.
+SomaKit TOC is supplied as a kit containing two vials. It is intended to be reconstituted and radiolabelled with a gallium ( 68 Ga) chloride solution from a generator authorised as a medicinal product and with an eluted activity up to 1 295 MBq (35 mCi).
 
 The following authorised generators have shown to be compatible with SomaKit TOC:
 
-- GalliaPharm, 0.74 - 1.85 GBq, radionuclide generator (Eckert &amp; Ziegler Radiopharma GmbH),
-- Galli Ad, 0.74 - 1.85 GBq, radionuclide generator (IRE-Elit).
+- GalliaPharm, germanium-68/gallium-68 ( 68 Ge/ 68 Ga) radionuclide generator (Eckert &amp; Ziegler Radiopharma GmbH),
+- Galli Ad, germanium-68/gallium-68 ( 68 Ge/ 68 Ga) radionuclide generator (IRE-ELiT).
+
+Refer to the Summary of Product Characteristics of the particular generator for more information.
 
 The gallium ( 68 Ga) edotreotide solution for intravenous injection must be prepared according to aseptic procedure, local regulation and the following instructions.
 
-## Reconstitution with GalliaPharm generator:
+## Reconstitution and radiolabelling with GalliaPharm generator:
 
 - a. If possible, for more convenience in the preparation of radiolabelled SomaKit TOC, the heating platform should be placed right beside the generator.
 - b. Set the temperature of the shielded dry bath with holes of 25 mm diameter at 95°C. Using a thermometer, ensure the temperature reaches the set point and stabilises before starting the reconstitution procedure.
@@ -458,7 +452,7 @@ The gallium ( 68 Ga) edotreotide solution for intravenous injection must be prep
 - e. Flip off the cap from vial 2 (reaction buffer) and swab the top of the vial closure with an appropriate antiseptic to disinfect the surface, then allow the stopper to dry. With a low dead space 1 ml sterile syringe carefully withdraw 0.5 ml reaction buffer, and keep the reaction buffer in the syringe for step 'i'.
 - f. Connect the male luer of the outlet line of the 68 Ge/ 68 Ga generator with a sterile needle (coated with silicone or other appropriate material able to reduce metal impurity trace).
 - g. Connect vial 1 to the outlet line of the generator by pushing the elution needle through the rubber septum. Keep the elution needle below the 0.2 µm sterile vent filter needle. Ensure that the needles do not come into contact with each other and do not submerge in the eluate at any time.
-- h. Elute the generator directly into vial 1 (through the needle) according to the generator manufacturer instructions for use, in order to reconstitute the powder with the eluate. The elution can be performed either manually or by means of a pump.
+- h. Elute the generator directly into vial 1 (through the needle) according to the generator manufacturer instructions for use, in order to reconstitute the powder with an eluted activity up to 1 295 MBq (35 mCi). The elution can be performed either manually or by means of a pump.
 - i. At the end of the elution, disconnect the generator from vial 1, withdrawing the needle from the rubber septum, and immediately add the reaction buffer previously dosed in the 1 ml sterile syringe. Withdraw the syringe and the 0.2 µm sterile vent filter and move the vial to the hole of the dry bath at 95°C, using pliers. Leave the vial at 95°C for at least 7 minutes (do not exceed 10 minutes heating) without agitation or stirring.
 - j. After 7 minutes, remove the vial from the dry bath, place it in an appropriately labelled lead shield and let it cool down at room temperature for approximately 10 minutes.
 
@@ -471,11 +465,11 @@ The gallium ( 68 Ga) edotreotide solution for intravenous injection must be prep
 
 A schematic representation of the radiolabelling procedure is shown in Figure 1.
 
-Figure 1: Radiolabelling procedure when using GalliaPharm generator
+Figure 1 Radiolabelling procedure when using GalliaPharm generator
 
 <!-- image -->
 
-Reconstitution with Galli Ad generator:
+Reconstitution and radiolabelling with Galli Ad generator:
 
 - a. If possible, for more convenience in the preparation of radiolabelled SomaKit TOC, the heating platform should be placed right beside the generator.
 - b. Set the temperature of the shielded dry bath with holes of 25 mm diameter at 95°C. Using a thermometer, ensure the temperature reaches the set point and stabilises before starting the reconstitution procedure.
@@ -489,7 +483,7 @@ Reconstitution with Galli Ad generator:
 - g. Add the reaction buffer previously dosed in the 1 ml sterile syringe.
 - h. Connect the male luer of the outlet line of the 68 Ge/ 68 Ga generator with a sterile needle (coated with silicone or other appropriate material able to reduce metal impurity trace).
 - i. Connect vial 1 to the outlet line of the generator by pushing the elution needle through the rubber septum. Keep the elution needle below the 0.2 µm sterile vent filter needle. Ensure that the needles do not come into contact with each other and do not submerge in the eluate at any time. Turn the button by 90° to the loading position, then wait 10 seconds before turning the button back to the initial position, according to the generator's instructions for use.
-- j. Connect vial 1 through the 0.2 µm sterile vent filter to a vacuum vial or to a pump to start the elution. Elute the generator directly into vial 1 (through the needle).
+- j. Connect vial 1 through the 0.2 µm sterile vent filter to a vacuum vial or to a pump to start the elution. Elute the generator directly into vial 1 (through the needle), with an eluted activity of up to 1 295 MBq (35 mCi).
 - k. At the end of the elution, first withdraw the needle from the vacuum vial in order to establish atmospheric pressure into vial 1, then disconnect vial 1 from the generator by removing the needle from the rubber septum. Finally, remove the 0.2 µm sterile vent filter and move the vial to the hole of the dry bath at 95°C, using pliers. Leave the vial at 95°C for at least 7 minutes (do not exceed 10 minutes heating) without agitation or stirring.
 - l. After 7 minutes, remove the vial from the dry bath, place it in an appropriately labelled lead shield and let it cool down at room temperature for approximately 10 minutes.
 - m. Assay the vial radioactivity using a suitable radioactivity calibration system and record the result. Report the activity value, the calibration time, the batch number and the expiry time on the shield label included in the pack to be applied on the lead shielding container after radiolabelling.
@@ -501,7 +495,7 @@ Reconstitution with Galli Ad generator:
 
 A schematic representation of the radiolabelling procedure is shown in Figure 2.
 
-Figure 2: Radiolabelling procedure when using Galli Ad generator
+Figure 2 Radiolabelling procedure when using Galli Ad generator
 
 <!-- image -->
 
@@ -513,7 +507,7 @@ After radiolabelling with the correct volume of reaction buffer and generator el
 
 ## Quality control
 
-Table 2: Specifications of the gallium ( 68 Ga) edotreotide
+Table 2 Specifications of the gallium ( 68 Ga) edotreotide
 
 | Test                                              | Acceptance Criteria                       | Method                                               |
 |---------------------------------------------------|-------------------------------------------|------------------------------------------------------|
@@ -531,9 +525,9 @@ Recommended method for determining labelling efficiency of gallium ( 68 Ga) edot
 ## Material
 
 - Glass-fibre ITLC paper (e.g. Agilent ITLC SGI001) pre-cut to 1 cm x 12 cm strips
-- Mobile phase: 77 g/L solution of ammonium acetate in water/methanol 50:50 V/V
+- Mobile phase: ammonium acetate 1M: Methanol (1:1 V/V)
 - Developing tank
-- Radiometric ITLC scanner
+- Radiometric TLC scanner
 
 <div style=\"page-break-after: always\"></div>
 
@@ -542,8 +536,8 @@ Recommended method for determining labelling efficiency of gallium ( 68 Ga) edot
 - a. The TLC developing tank is prepared by pouring the mobile phase to a depth of 3 to 4 mm. Cover the tank and allow to equilibrate.
 - b. Apply a drop of the gallium ( 68 Ga) edotreotide on a pencil line 1 cm from the bottom of the ITLC strip.
 - c. Place the ITLC strip in the developing tank and allow it to develop for a distance of 9 cm from the point of application.
-- d. Scan the ITLC with a radiometric ITLC scanner
-- e. The retention factor (Rf) specifications are as follows: Not complexed gallium ( 68 Ga) = 0 to 0.1 Gallium ( 68 Ga) edotreotide = 0.8 to 1
+- d. Scan the ITLC with a radiometric TLC scanner
+- e. The retention factor (Rf) specifications are as follows: Non-complexed gallium ( 68 Ga) = 0 to 0.1 Gallium ( 68 Ga) edotreotide = 0.8 to 1
 
 The labelling efficiency is calculated by integration of peak with Rf = 0 to 0.1 that must be ≤3%.
 
@@ -554,18 +548,18 @@ The labelling efficiency is calculated by integration of peak with Rf = 0 to 0.1
 - Glass-fibre ITLC paper (e.g. Agilent ITLC SGI001) pre-cut to 1 cm x 12 cm strips
 - Mobile phase: sodium citrate 0.1 M (pH 5) in water
 - Developing tank
-- Radiometric ITLC scanner
+- Radiometric TLC scanner
 
 ## Sample analysis
 
 - a. The TLC developing tank is prepared by pouring the mobile phase to a depth of 3 to 4 mm. Cover the tank and allow to equilibrate.
 - b. Apply a drop of the gallium ( 68 Ga) edotreotide solution on a pencil line 1 cm from the bottom of the ITLC strip.
 - c. Place the ITLC strip in the developing tank and allow it to develop for a distance of 9 cm from the point of application.
-- d. Scan the ITLC with a radiometric ITLC scanner The retention factor (Rf) specifications are as follows: Gallium ( 68 Ga) edotreotide = 0.1 to 0.2 Free gallium-68 = 0.9 to 1
+- d. Scan the ITLC with a radiometric TLC scanner The retention factor (Rf) specifications are as follows: Gallium ( 68 Ga) edotreotide = 0.1 to 0.2 Free gallium-68 = 0.9 to 1
 
 The labelling efficiency is calculated by integration of peak with Rf = 0.9 to 1.0 that must be ≤2%.
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -650,7 +644,7 @@ Each pack contains:
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-To be radiolabelled with the reaction buffer and a solution of Gallium-68 ( 68 Ga) in HCl provided by a germanium ( 68 Ge)/gallium ( 68 Ga) generator.
+To be radiolabelled with the reaction buffer and a solution of Gallium-68 ( 68 Ga) in HCl provided by a germanium-68/gallium-68 ( 68 Ge/ 68 Ga) generator.
 
 Read the package leaflet before use.
 
@@ -665,8 +659,6 @@ Keep out of the sight and reach of children.
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 Medicinal product radioactive after radiolabelling.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 8. EXPIRY DATE
 
@@ -706,12 +698,13 @@ Lot
 
 Justification for not including Braille accepted.
 
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 <div style=\"page-break-after: always\"></div>
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
-
 Not applicable.
+
+<div style=\"page-break-after: always\"></div>
 
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
@@ -748,7 +741,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS BUFFER VIAL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| BUFFER VIAL                                                        |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -769,7 +764,8 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL
 
@@ -816,9 +812,9 @@ Do not store above 25ºC.
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## SomaKit TOC 40 micrograms kit for radiopharmaceutical preparation
 
@@ -847,8 +843,6 @@ Gallium ( 68 Ga) edotreotide contains a small amount of radioactivity. After inj
 
 The use of SomaKit TOC involves exposure to small amounts of radioactivity. Your doctor and the nuclear medicine doctor have considered that the clinical benefit from the procedure with the radiopharmaceutical outweighs the risk due to radiation.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 2. What you need to know before SomaKit TOC is used
 
 ## SomaKit TOC must not be used
@@ -863,7 +857,12 @@ Talk to your nuclear medicine doctor before you are given SomaKit TOC:
 - -if you have kidney or liver problems (renal or hepatic disease);
 - -if you are under 18 years of age;
 - -if you have signs of dehydration before and after the examination;
-- -if you have other medical conditions, such as high level of cortisol in the body (Cushing syndrome), inflammation, thyroid disease, other type of tumour (of pituitary gland, lung, brain, breast, immune system, thyroid, adrenal gland or others) or disease of the spleen (including previous trauma or surgery involving the spleen). Such conditions may be visible and affect the interpretation of the images. Your doctor may therefore perform additional scans and tests to confirm the findings on gallium ( 68 Ga) edotreotide imaging.
+- -if you have other medical conditions, such as high level of cortisol in the body (Cushing syndrome), inflammation, thyroid disease, other type of tumour (of pituitary gland, lung, brain, breast, immune system, thyroid, adrenal gland or others) or disease of the spleen (including previous trauma or surgery involving the spleen). Such conditions may be visible and affect the
+
+<div style=\"page-break-after: always\"></div>
+
+interpretation of the images. Your doctor may therefore perform additional scans and tests to confirm the findings on gallium ( 68 Ga) edotreotide imaging.
+
 - -if you have been recently vaccinated. Enlarged lymph nodes due to vaccination may become visible during gallium ( 68 Ga) edotreotide imaging;
 - -if you have been taking other medicines, such as somatostatin analogues and glucocorticoids, which may interact with SomaKit TOC;
 - -if you are pregnant or believe you may be pregnant;
@@ -891,8 +890,6 @@ You must inform the nuclear medicine doctor before the administration of SomaKit
 
 There is no information about the safety and the efficacy of the use of this medicine during pregnancy. Only essential investigations should be carried out during pregnancy, when the likely benefit far exceeds any risk to the mother and foetus.
 
-<div style=\"page-break-after: always\"></div>
-
 If you are breast-feeding the nuclear medicine doctor may either delay the medical procedure until you are no longer breast-feeding or ask you to stop breast-feeding and to discard your milk until there is no radioactivity in your body (12 hours after the administration of SomaKit TOC). Please ask your nuclear medicine doctor when you can resume breast-feeding.
 
 ## Driving and using machines
@@ -905,7 +902,11 @@ This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say 
 
 ## 3. How SomaKit TOC is used
 
-There are strict laws on the use, handling and disposal of radiopharmaceutical products. SomaKit TOC will only be used in special controlled areas. This medicine will only be handled and given to you by people who are trained and qualified to use it safely. These persons will take special care for the safe use of this medicine and will keep you informed of their actions.
+There are strict laws on the use, handling and disposal of radiopharmaceutical products. SomaKit TOC will only be used in special controlled areas. This medicine will only be handled and given to you by
+
+<div style=\"page-break-after: always\"></div>
+
+people who are trained and qualified to use it safely. These persons will take special care for the safe use of this medicine and will keep you informed of their actions.
 
 The nuclear medicine doctor supervising the procedure will decide on the quantity of SomaKit TOC to be used in your case. It will be the smallest quantity necessary to get the desired information. The quantity to be administered usually recommended for an adult ranges from 100 MBq to 200 MBq (megabecquerel, the unit used to express radioactivity).
 
@@ -934,19 +935,21 @@ An overdose is unlikely because you will only receive a single dose under contro
 
 Should you have any further questions on the use of SomaKit TOC, please ask the nuclear medicine doctor who supervises the procedure.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
 Although no side effects have been reported, a potential risk of allergic reactions (hypersensitivity) exists with SomaKit TOC. Symptoms may include: warm flush, redness of the skin, swelling, itching, nausea and difficulty breathing. In the event of an allergic reaction you will receive the appropriate treatment from your medical staff.
 
-Not known (frequency cannot be estimated from the available data): -Stinging near the injection site
+## Not known (frequency cannot be estimated from the available data):
+
+- -Stinging near the injection site
 
 The spleen is an organ located in the abdomen (belly). Some people are born with an extra spleen (an accessory spleen). Extra spleen tissue may also be found in the abdomen following surgery or trauma to the spleen (this is known as splenosis). Gallium ( 68 Ga) edotreotide may make an accessory spleen or splenosis visible during medical imaging. There have been reports where this has been mistaken for a tumour. Your doctor may therefore perform additional scans and tests to confirm the findings on gallium ( 68 Ga) edotreotide imaging (see section 2).
 
 This radiopharmaceutical will deliver low amounts of ionising radiation associated with the least risk of cancer and hereditary abnormalities.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -960,17 +963,17 @@ The following information is intended for the specialist only.
 
 Keep this medicine out of the sight and reach of children.
 
-SomaKit TOC must not be used after the expiry date which is stated on the carton. The expiry date refers to the last day of that month.
+SomaKit TOC must not be used after the expiry date which is stated on the carton after 'EXP'.
 
-Store in a refrigerator (2°C to 8°C). Store in the original package in order to protect from light.
+Store in a refrigerator (2°C to 8°C).
+
+Store in the original package in order to protect from light.
 
 After radiolabelling, SomaKit TOC should be used within 4 hours. Do not store above 25°C after radiolabelling.
 
 SomaKit TOC must not be used if there are visible signs of deterioration.
 
 Do not throw away any medicines via wastewater or household waste. Wait for the level of radioactivity to decay adequately before throwing away radioactive products. These measures will help protect the environment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
@@ -990,11 +993,11 @@ SomaKit TOC is a kit for radiopharmaceutical preparation containing:
 
 The radioactive substance is not part of the kit and should be added during the preparation steps before injection.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Marketing authorisation holder
 
 Advanced Accelerator Applications 8-10 Rue Henri Sainte-Claire Deville 92500 Rueil-Malmaison France
+
+<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
@@ -1004,67 +1007,23 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
+
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas
+
+Tel: +370 5 269 16 50
 
 ## България
 
 Novartis Bulgaria EOOD
 
-Тел: +359 2 489 98 28
+Тел
 
-## Česká republika
-
-Novartis s.r.o.
-
-Tel: +420 225 775 111
-
-## Danmark
-
-Novartis Sverige AB
-
-Tel: +4
-
-6 8 732 32 00
-
-## Deutschland
-
-Novartis Pharma GmbH
-
-Tel: +49 911 273 0
-
-## Eesti
-
-SIA Novartis Baltics Eesti filiaal
-
-Tel: +372 66 30 810
-
-## Ελλάδα
-
-ΒΙΟΚΟΣΜΟΣ ΑΕΒΕ
-
-Τηλ: +30 22920 63900
-
-ή
-
-Novartis (Hellas) A.E.B.E.
-
-Τηλ: +30 210 281 17 12
-
-## España
-
-Novartis Farmacéutica, S.A.
-
-Tel: +34 93 306 42 00
-
-## France
-
-Novartis Pharma S.A.S.
-
-Tél: +33 1 55 47 6 6 00
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+: +359 2 489 98 28
 
 ## Luxembourg/Luxemburg
 
@@ -1072,11 +1031,23 @@ Novartis Pharma N.V.
 
 Tél/Tel: +32 2 246 16 11
 
+## Česká republika
+
+Novartis s.r.o.
+
+Tel: +420 225 775 111
+
 ## Magyarország
 
 Novartis Hungária Kft.
 
 Tel.: +36 1 457 65 00
+
+## Danmark
+
+Novartis Sverige AB
+
+Tlf.: +46 8 732 32 00
 
 ## Malta
 
@@ -1084,19 +1055,43 @@ Novartis Pharma Services Inc.
 
 Tel: +356 2122 2872
 
+## Deutschland
+
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
+
 ## Nederland
 
 Novartis Pharma B.V.
 
 Tel: +31 88 04 52 111
 
+## Eesti
+
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
+
 ## Norge
 
 Novartis Sverige AB
 
-Tlf: +
+Tlf: +46 8 732 32 00
 
-46 8 732 32 00
+## Ελλάδα
+
+ΒΙΟΚΟΣΜΟΣ ΑΕΒΕ
+
+Τηλ
+
+: +30 22920 63900
+
+ή
+
+Novartis (Hellas) A.E.B.E.
+
+Τηλ: +30 210 281 17 12
 
 ## Österreich
 
@@ -1104,13 +1099,23 @@ Novartis Pharma GmbH
 
 Tel: +43 1 86 6570
 
+## España
+
+Novartis Farmacéutica, S.A.
+
+Tel: +34 93 306 42 00
+
 ## Polska
 
 Novartis Poland Sp. z o.o.
 
-Tel.:
+Tel.: +48 22 375 4888
 
-+48 22 375 4888
+## France
+
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
 
 ## Portugal
 
@@ -1118,45 +1123,17 @@ Novartis Farma - Produtos Farmacêuticos, S.A.
 
 Tel: +351 21 000 8600
 
-## România
-
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
-
-## Suomi/Finland
-
-Novartis Sverige AB
-
-Puh/Tel: +
-
-46 8 732 32 00
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +
-
-46 8 732 32 00
-
 ## Hrvatska
 
 Novartis Hrvatska d.o.o.
 
 Tel. +385 1 6274 220
+
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
 
 ## Ireland
 
@@ -1164,13 +1141,23 @@ Novartis Ireland Limited
 
 Tel: +353 1 260 12 55
 
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
+
 ## Ísland
 
 Novartis Sverige AB
 
-Sími: +
+Sími: +46 8 732 32 00
 
-46 8 732 32 00
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
 
 ## Italia
 
@@ -1178,17 +1165,31 @@ Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
 
+## Suomi/Finland
+
+Novartis Sverige AB
+
+Puh/Tel: +46 8 732 32 00
+
 ## Κύπρος
 
 ΒΙΟΚΟΣΜΟΣ ΑΕΒΕ
 
-Τηλ: +30 22920 63900
+Τηλ
+
+: +30 22920 63900
 
 ή
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 ## Latvija
 
@@ -1202,7 +1203,7 @@ Tel: +371 67 887 070
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ------------------------------------------------------------------------------------------------------------------------
 

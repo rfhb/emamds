@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-01-17 10:21:46
-document_pages: 53
+document_datetime: 2026-03-25 10:31:57
+document_pages: 54
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bemfola-epar-product-information_en.pdf
 document_name: bemfola-epar-product-information_en.pdf
 version: success
-processing_time: 13.7289398
-conversion_datetime: 2025-12-28 09:54:45.513151
+processing_time: 13.8667554
+conversion_datetime: 2026-03-29 12:50:56.644878
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,15 +30,17 @@ Bemfola 75 IU/0.125 mL solution for injection in pre-filled pen Bemfola 150 IU/0
 
 Each mL of the solution contains 600 IU (equivalent to 44 micrograms) of follitropin alfa*.
 
-Bemfola 75 IU/0.125 mL solution for injection in pre-filled pen: Each pre-filled pen delivers 75 IU (equivalent to 5.5 micrograms) in 0.125 mL.
+Bemfola 75 IU/0.125 mL solution for injection in pre-filled pen: Each pre-filled pen delivers 75 IU (equivalent to 5.5 micrograms) in 0.125 mL. Each Bemfola 75 IU pen can deliver the following doses: 37.5 IU / 50 IU / 62.5 IU / 75 IU
 
-Bemfola 150 IU/0.25 mL solution for injection in pre-filled pen: Each pre-filled pen delivers 150 IU (equivalent to 11 micrograms) in 0.25 mL.
+Bemfola 150 IU/0.25 mL solution for injection in pre-filled pen: Each pre-filled pen delivers 150 IU (equivalent to 11 micrograms) in 0.25 mL. Each Bemfola 150 IU pen can deliver the following doses: 75 IU / 87.5 IU / 100 IU / 112.5 IU / 125 IU / 137.5 IU / 150 IU
 
-Bemfola 225 IU/0.375 mL solution for injection in pre-filled pen: Each pre-filled pen delivers 225 IU (equivalent to 16.5 micrograms) in 0.375 mL.
+Each pre-filled pen delivers 225 IU (equivalent to 16.5 micrograms) in 0.375 mL. Each Bemfola 225 IU pen can deliver the following doses: 150 IU / 162.5 IU / 175 IU / 187.5 IU /
 
-Bemfola 300 IU/0.50 mL solution for injection in pre-filled pen: Each pre-filled pen delivers 300 IU (equivalent to 22 micrograms) in 0.5 mL.
+Bemfola 225 IU/0.375 mL solution for injection in pre-filled pen: 200 IU / 212.5 IU / 225 IU
 
-Bemfola 450 IU/0.75 mL solution for injection in pre-filled pen: Each pre-filled pen delivers 450 IU (equivalent to 33 micrograms) in 0.75 mL.
+Bemfola 300 IU/0.50 mL solution for injection in pre-filled pen: Each pre-filled pen delivers 300 IU (equivalent to 22 micrograms) in 0.5 mL. Each Bemfola 300 IU pen can deliver the following doses: 225 IU / 237.5 IU / 250 IU / 262.5 IU / 275 IU / 287.5 IU / 300 IU
+
+Bemfola 450 IU/0.75 mL solution for injection in pre-filled pen: Each pre-filled pen delivers 450 IU (equivalent to 33 micrograms) in 0.75 mL. Each Bemfola 450 IU pen can deliver the following doses: 300 IU / 325 IU / 337.5 IU / 350 IU / 375 IU / 400 IU / 412.5 IU / 425 IU / 450 IU
 
 * recombinant human follicle stimulating hormone (r-hFSH) produced in Chinese Hamster Ovary (CHO) cells by recombinant DNA technology.
 
@@ -56,13 +58,13 @@ The pH of the solution is 6.7 to 7.3.
 
 ## 4.1 Therapeutic indications
 
-## In adult women
+In adult women
+
+<div style=\"page-break-after: always\"></div>
 
 - Anovulation (including polycystic ovarian syndrome) in women who have been unresponsive to treatment with clomiphene citrate.
 - Stimulation of multifollicular development in women undergoing superovulation for assisted reproductive technologies (ART) such as in vitro fertilisation (IVF), gamete intra-fallopian transfer and zygote intra-fallopian transfer.
 - Follitropin alfa in association with a luteinising hormone (LH) preparation is indicated for the stimulation of follicular development in women with severe LH and FSH deficiency.
-
-<div style=\"page-break-after: always\"></div>
 
 ## In adult men
 
@@ -76,31 +78,55 @@ Patients must be provided with the correct number of pens for their treatment co
 
 ## Posology
 
-The dose recommendations given for follitropin alfa are those in use for urinary FSH. Clinical assessment of follitropin alfa indicates that its daily doses, regimens of administration and treatment monitoring procedures should not be different from those currently used for urinary FSH-containing medicinal products. It is advised to adhere to the recommended starting doses indicated below.
-
-Comparative clinical studies have shown that on average patients require a lower cumulative dose and shorter treatment duration with follitropin alfa compared with urinary FSH. Therefore, it is considered appropriate to give a lower total dose of follitropin alfa than generally used for urinary FSH, not only in order to optimise follicular development but also to minimise the risk of unwanted ovarian hyperstimulation (see section 5.1).
+Clinical assessment of follitropin alfa indicates that its daily doses, regimens of administration and treatment monitoring procedures should be individualised to optimise follicular development and to minimise the risk of unwanted ovarian hyperstimulation. It is advised to adhere to the recommended starting doses indicated below.
 
 ## Women with anovulation (including polycystic ovarian syndrome)
 
 Follitropin alfa may be given as a course of daily injections. In menstruating women treatment should commence within the first 7 days of the menstrual cycle.
 
-A commonly used regimen commences at 75 to 150 IU FSH daily and is increased preferably by 37.5 or 75 IU at 7 or preferably 14-day intervals if necessary, to obtain an adequate, but not excessive, response. Treatment should be tailored to the individual patient's response as assessed by measuring follicle size by ultrasound and/or estrogen secretion. The maximal daily dose is usually not higher than 225 IU FSH. If a patient fails to respond adequately after 4 weeks of treatment, that cycle should be abandoned and the patient should undergo further evaluation after which she may recommence treatment at a higher starting dose than in the abandoned cycle.
+In the registration trials, a commonly used regimen commenced at 75 to 150 IU FSH daily and was increased preferably by 37.5 or 75 IU at 7 or preferably 14-day intervals if necessary, to obtain an adequate, but not excessive, response.
 
-When an optimal response is obtained, a single injection of 250 micrograms recombinant human choriogonadotropin alfa (r-hCG) or 5 000 IU up to 10 000 IU hCG should be administered 24 to 48 hours after the last follitropin alfa injection. The patient is recommended to have coitus on the day of, and the day following hCG administration. Alternatively, intrauterine insemination may be performed.
+In clinical practice, the starting dose is typically individualised based on the patient's clinical characteristics, such as markers of ovarian reserve, age, body mass index, and, if applicable, previous ovarian response to ovarian stimulation.
 
-If an excessive response is obtained, treatment should be stopped and hCG withheld (see section 4.4). Treatment should recommence in the next cycle at a dose lower than that of the previous cycle.
+## Starting dose
 
-## Women undergoing ovarian stimulation for multiple follicular development prior to in vitro fertilisation or other assisted reproductive technologies
+The starting dose can be adjusted in a stepwise manner (a) lower than 75 IU per day if an excessive ovarian response in terms of number of follicles is anticipated based on the patient's clinical profile (age, body mass index, ovarian reserve); or (b) higher than 75 up to a maximum of 150 IU per day may be considered if a low ovarian response is anticipated.
 
-A commonly used regimen for superovulation involves the administration of 150 to 225 IU of follitropin alfa daily commencing on days 2 or 3 of the cycle. Treatment is continued until adequate follicular development has been achieved (as assessed by monitoring of serum estrogen concentrations and/or ultrasound examination), with the dose adjusted according to the patient's response, to usually not higher than 450 IU daily. In general adequate follicular development is achieved on average by the tenth day of treatment (range 5 to 20 days).
+The patient's response should be closely monitored by measuring follicle size and number by ultrasound and/or estrogen secretion.
+
+## Dose adjustments
+
+If a patient fails to respond adequately (either low or excessive ovarian response), continuation of that treatment cycle should be evaluated and managed according to the physician's standard of care. In cases of low response, the daily dose should not exceed 225 IU FSH.
+
+If an excessive ovarian response is obtained according to the physician's assessment, treatment should be stopped and hCG withheld (see section 4.4). Treatment should recommence in the next cycle at a
 
 <div style=\"page-break-after: always\"></div>
 
-A single injection of 250 micrograms r-hCG or 5 000 IU up to 10 000 IU hCG is administered 24 to 48 hours after the last follitropin alfa injection to induce final follicular maturation.
+dose lower than that of the previous cycle.
 
-Down-regulation with a gonadotropin-releasing hormone (GnRH) agonist or antagonist is now commonly used in order to suppress the endogenous LH surge and to control tonic levels of LH. In a commonly used protocol, follitropin alfa is started approximately 2 weeks after the start of agonist treatment, both being continued until adequate follicular development is achieved. For example, following two weeks of treatment with an agonist, 150 to 225 IU follitropin alfa are administered for the first 7 days. The dose is then adjusted according to the ovarian response.
+## Final follicular maturation
 
-Overall experience with IVF indicates that in general the treatment success rate remains stable during the first four attempts and gradually declines thereafter.
+When an optimal ovarian response is obtained, a single injection of 250 micrograms recombinant human choriogonadotropin alfa (r-hCG) or 5 000 IU up to 10 000 IU hCG should be administered 24 to 48 hours after the last follitropin alfa injection. The patient is recommended to have coitus on the day of, and the day following hCG administration. Alternatively, intrauterine insemination may be performed.
+
+## Women undergoing ovarian stimulation for multiple follicular development prior to in vitro fertilisation or other assisted reproductive technologies
+
+In the registration trials, a commonly used regimen for superovulation involved the administration of 150 to 225 IU of follitropin alfa daily commencing on days 2 or 3 of the cycle.
+
+In clinical practice, the starting dose is typically individualised based on the patient's clinical characteristics, such as markers of ovarian reserve, age, body mass index, and, if applicable, previous ovarian response to ovarian stimulation.
+
+## Starting dose
+
+If a low ovarian response is anticipated, the starting dose may be adjusted in a stepwise manner to not higher than 450 IU daily. Conversely, if an excessive ovarian response is expected, the starting dose may be decreased below 150 IU.
+
+The patient's response should continue to be closely monitored by measuring follicle size and number by ultrasound and/or estrogen secretion until adequate follicular development has been achieved. Bemfola can be given either alone, or, to prevent premature luteinisation, in combination with a gonadotropin-releasing hormone (GnRH) agonist or antagonist.
+
+## Dose adjustments
+
+If a patient fails to respond adequately (either low or excessive ovarian response), continuation of that treatment cycle should be evaluated and managed according to the physician's standard of care. In cases of low response, the daily dose should not exceed 450 IU FSH.
+
+## Final follicular maturation
+
+When an optimal ovarian response is obtained, a single injection of 250 micrograms r-hCG or 5 000 IU up to 10 000 IU hCG is administered 24 to 48 hours after the last follitropin alfa injection to induce final follicular maturation.
 
 ## Women with severe LH and FSH deficiency
 
@@ -111,6 +137,8 @@ A recommended regimen commences at 75 IU of lutropin alfa daily with 75 to 150 I
 If an FSH dose increase is deemed appropriate, dose adaptation should preferably be after 7 to 14-day intervals and preferably by 37.5 to 75 IU increments. It may be acceptable to extend the duration of stimulation in any one cycle to up to 5 weeks.
 
 When an optimal response is obtained, a single injection of 250 micrograms r-hCG or 5 000 IU up to 10 000 IU hCG should be administered 24 to 48 hours after the last follitropin alfa and lutropin alfa injections. The patient is recommended to have coitus on the day of, and on the day following hCG administration. Alternatively, intrauterine insemination or another medically assisted reproduction procedure may be performed based on the physician's judgment of the clinical case.
+
+<div style=\"page-break-after: always\"></div>
 
 Luteal phase support may be considered since lack of substances with luteotrophic activity (LH/hCG) after ovulation may lead to premature failure of the corpus luteum.
 
@@ -131,8 +159,6 @@ There is no relevant use of follitropin alfa in the elderly population. Safety a
 Safety, efficacy and pharmacokinetics of follitropin alfa in patients with renal or hepatic impairment have not been established.
 
 ## Paediatric population
-
-<div style=\"page-break-after: always\"></div>
 
 There is no relevant use of follitropin alfa in the paediatric population.
 
@@ -165,6 +191,8 @@ Follitropin alfa must not be used when an effective response cannot be obtained,
 
 ## 4.4 Special warnings and precautions for use
 
+<div style=\"page-break-after: always\"></div>
+
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
@@ -177,11 +205,7 @@ Gonadotropin therapy requires a certain time commitment by physicians and suppor
 
 ## Porphyria
 
-Patients with porphyria or a family history of porphyria should be closely monitored during treatment with follitropin alfa. Deterioration or a first appearance of this condition may require cessation of
-
-<div style=\"page-break-after: always\"></div>
-
-treatment.
+Patients with porphyria or a family history of porphyria should be closely monitored during treatment with follitropin alfa. Deterioration or a first appearance of this condition may require cessation of treatment.
 
 ## Treatment in women
 
@@ -199,17 +223,15 @@ A certain degree of ovarian enlargement is an expected effect of controlled ovar
 
 In distinction to uncomplicated ovarian enlargement, OHSS is a condition that can manifest itself with increasing degrees of severity. It comprises marked ovarian enlargement, high serum sex steroids, and an increase in vascular permeability which can result in an accumulation of fluid in the peritoneal, pleural and, rarely, in the pericardial cavities.
 
+<div style=\"page-break-after: always\"></div>
+
 The following symptomatology may be observed in severe cases of OHSS: abdominal pain, abdominal distension, severe ovarian enlargement, weight gain, dyspnoea, oliguria and gastrointestinal symptoms including nausea, vomiting and diarrhoea. Clinical evaluation may reveal hypovolaemia, haemoconcentration, electrolyte imbalances, ascites, haemoperitoneum, pleural effusions, hydrothorax, or acute pulmonary distress. Very rarely, severe OHSS may be complicated by ovarian torsion or thromboembolic events such as pulmonary embolism, ischaemic stroke or myocardial infarction.
 
 Independent risk factors for developing OHSS include young age, lean body mass, polycystic ovarian syndrome, higher doses of exogenous gonadotropins, high absolute or rapidly rising serum estradiol levels and previous episodes of OHSS, large number of developing ovarian follicles and large number of oocytes retrieved in assisted reproductive technology (ART) cycles.
 
 Adherence to recommended follitropin alfa dose and regimen of administration can minimise the risk of ovarian hyperstimulation (see sections 4.2 and 4.8). Monitoring of stimulation cycles by ultrasound scans as well as estradiol measurements are recommended to early identify risk factors.
 
-There is evidence to suggest that hCG plays a key role in triggering OHSS and that the syndrome may be more severe and more protracted if pregnancy occurs. Therefore, if signs of ovarian hyperstimulation occur such as a serum estradiol level &gt; 5 500 pg/mL or &gt; 20 200 pmol/L and/or ≥ 40 follicles in total, it is recommended that hCG be withheld and the patient be advised to refrain from coitus or to use barrier contraceptive methods for at least 4 days. OHSS may progress rapidly (within 24 hours) or over several days to become a serious medical event. It most often occurs after
-
-<div style=\"page-break-after: always\"></div>
-
-hormonal treatment has been discontinued and reaches its maximum at about seven to ten days following treatment. Therefore, patients should be followed for at least two weeks after hCG administration.
+There is evidence to suggest that hCG plays a key role in triggering OHSS and that the syndrome may be more severe and more protracted if pregnancy occurs. Therefore, if signs of ovarian hyperstimulation occur, it is recommended that hCG be withheld and the patient be advised to refrain from coitus or to use barrier contraceptive methods for at least 4 days. OHSS may progress rapidly (within 24 hours) or over several days to become a serious medical event. It most often occurs after hormonal treatment has been discontinued and reaches its maximum at about seven to ten days following treatment. Therefore, patients should be followed for at least two weeks after hCG administration.
 
 In ART, aspiration of all follicles prior to ovulation may reduce the occurrence of hyperstimulation.
 
@@ -235,7 +257,11 @@ Women with a history of tubal disease are at risk of ectopic pregnancy, whether 
 
 ## Reproductive system neoplasms
 
-There have been reports of ovarian and other reproductive system neoplasms, both benign and malignant, in women who have undergone multiple treatment regimens for infertility treatment. It is not yet established whether or not treatment with gonadotropins increases the risk of these tumours in infertile women.
+There have been reports of ovarian and other reproductive system neoplasms, both benign and
+
+<div style=\"page-break-after: always\"></div>
+
+malignant, in women who have undergone multiple treatment regimens for infertility treatment. It is not yet established whether or not treatment with gonadotropins increases the risk of these tumours in infertile women.
 
 ## Congenital malformation
 
@@ -249,11 +275,7 @@ In women with recent or ongoing thromboembolic disease or women with generally r
 
 Elevated endogenous FSH levels are indicative of primary testicular failure. Such patients are unresponsive to follitropin alfa/hCG therapy. Follitropin alfa should not be used when an effective response cannot be obtained.
 
-Semen analysis is recommended 4 to 6 months after the beginning of treatment as part of the
-
-<div style=\"page-break-after: always\"></div>
-
-assessment of the response.
+Semen analysis is recommended 4 to 6 months after the beginning of treatment as part of the assessment of the response.
 
 ## Sodium content
 
@@ -279,6 +301,8 @@ Follitropin alfa is not indicated during breast-feeding.
 
 Follitropin alfa is indicated for use in infertility (see section 4.1).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 Follitropin alfa has no or negligible influence on the ability to drive and use machines.
@@ -295,9 +319,7 @@ Thromboembolism may occur very rarely (see section 4.4).
 
 ## List of adverse reactions
 
-The following definitions apply to the frequency terminology used hereafter: very common (≥ 1/10), c ommon (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), r are (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000).
-
-<div style=\"page-break-after: always\"></div>
+The following definitions apply to the frequency terminology used hereafter: very common (≥ 1/10), c ommon (≥ 1/100 to &lt; 1/10), u ncommon (≥ 1/1,000 to &lt; 1/100), r are (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000).
 
 ## Treatment in women
 
@@ -319,7 +341,7 @@ Very rare:
 
 Thromboembolism (both in association with and separate from OHSS)
 
-Respiratory, thoracic and mediastinal disorders
+## Respiratory, thoracic and mediastinal disorders
 
 Very rare:
 
@@ -363,7 +385,7 @@ Very rare:
 
 Mild to severe hypersensitivity reactions including anaphylactic reactions and shock
 
-## Respiratory, thoracic and mediastinal disorders
+Respiratory, thoracic and mediastinal disorders
 
 Very rare:
 
@@ -375,19 +397,19 @@ Common:
 
 Acne
 
-## Reproductive system and breast disorders
+Reproductive system and breast disorders
 
 Common:
 
 Gynaecomastia, varicocele
 
-## General disorders and administration site conditions
+General disorders and administration site conditions
 
 Very common:
 
 Injection site reactions (e.g. pain, erythema, haematoma, swelling and/or irritation at the site of injection)
 
-## Investigations
+Investigations
 
 Common:
 
@@ -395,9 +417,9 @@ Weight gain
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
 <div style=\"page-break-after: always\"></div>
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -409,7 +431,7 @@ The effects of an overdose of follitropin alfa are unknown, nevertheless, there 
 
 Pharmacotherapeutic group: Sex hormones and modulators of the genital systems, gonadotropins, ATC code: G03GA05.
 
-Bemfola is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Bemfola is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 ## Mechanism of action
 
@@ -420,6 +442,8 @@ Follicle stimulating hormone (FSH) and luteinising hormone (LH) are secreted fro
 Inhibin and estradiol (E2) levels are raised after administration of r-hFSH, with subsequent induction of follicular development. Inhibin serum level increase is rapid and can be observed as early as the third day of r-hFSH administration, while E2 levels take more time, and an increase is observed only from the fourth day of treatment. Total follicular volume starts to increase after 4 to 5 days of r-hFSH daily dosing, and, depending on patient response, the maximum effect is reached after about 10 days from the start of r-hFSH administration.
 
 ## Clinical efficacy and safety in women
+
+<div style=\"page-break-after: always\"></div>
 
 In clinical trials, patients with severe FSH and LH deficiency were defined by an endogenous serum LH level &lt; 1.2 IU/L as measured in a central laboratory. However, it should be taken into account that there are variations between LH measurements performed in different laboratories.
 
@@ -437,8 +461,6 @@ Table: Results of study GF 8407 (randomised parallel group study comparing effic
 | Need to increase the dose (%)                             | 56.2                         | 85.3                    |
 
 Differences between the 2 groups were statistically significant (p&lt; 0.05) for all criteria listed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy and safety in men
 
@@ -464,6 +486,8 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 Impaired fertility has been reported in rats exposed to pharmacological doses of follitropin alfa (≥ 40 IU/kg/day) for extended periods, through reduced fecundity.
 
+<div style=\"page-break-after: always\"></div>
+
 Given in high doses ( ≥ 5 IU/kg/day) follitropin alfa caused a decrease in the number of viable foetuses without being teratogenic, and dystocia similar to that observed with urinary menopausal gonadotropin (hMG). However, since follitropin alfa is not indicated in pregnancy, these data are of limited clinical relevance.
 
 ## 6. PHARMACEUTICAL PARTICULARS
@@ -476,11 +500,9 @@ Poloxamer 188 Sucrose Methionine Disodium phosphate dihydrate Sodium dihydrogen 
 
 Not applicable.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.3 Shelf life
 
-## 3 years
+3 years
 
 Once opened, the medicinal product should be injected immediately.
 
@@ -496,7 +518,7 @@ Store in the original package in order to protect from light.
 
 1.5 mL cartridge (type I glass), with a plunger stopper (halobutyl rubber) and an aluminium crimp cap with a rubber inlay, assembled in a pre-filled pen.
 
-## Bemfola 75 IU/0.125 mL:
+Bemfola 75 IU/0.125 mL:
 
 Each cartridge contains 0.125 mL solution for injection.
 
@@ -516,6 +538,8 @@ Each cartridge contains 0.5 mL solution for injection.
 
 Each cartridge contains 0.75 mL solution for injection.
 
+<div style=\"page-break-after: always\"></div>
+
 Pack sizes of 1, 5 and 10 pre-filled pens including one disposable needle and alcohol swab per pen. One needle and one alcohol swab to be used with the pen for administration.
 
 Not all pack sizes may be marketed.
@@ -534,13 +558,11 @@ For instructions on the administration with the pre-filled pen, see the package 
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Gedeon Richter Plc.
-
-<div style=\"page-break-after: always\"></div>
+Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-## Bemfola 75 IU/0.125 mL:
+Bemfola 75 IU/0.125 mL:
 
 EU/1/13/909/001
 
@@ -584,11 +606,13 @@ EU/1/13/909/015
 
 Date of first authorisation: 27/03/2014
 
-Date of latest renewal:
+Date of latest renewal: 12/11/2018
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -688,6 +712,10 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+Single use product
+
+Deliverable doses: 37.5 IU / 50 IU / 62.5 IU / 75 IU
+
 <div style=\"page-break-after: always\"></div>
 
 ## 8. EXPIRY DATE
@@ -704,7 +732,7 @@ Store in the original package in order to protect from light.
 
 Within its shelf-life, the unopened product may be stored at or below 25°C for up to 3 months without being refrigerated again and must be discarded if it has not been used after 3 months.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -730,9 +758,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-Medicinal product subject to medical prescription.
-
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -740,8 +766,8 @@ Bemfola 75 IU/0.125 mL
 
 <div style=\"page-break-after: always\"></div>
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -750,7 +776,7 @@ Bemfola 75 IU/0.125 mL
 
 PC: SN: NN:
 
-20
+21
 
 <div style=\"page-break-after: always\"></div>
 
@@ -826,9 +852,15 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+Single use product
+
+Deliverable doses: 75 IU / 87.5 IU / 100 IU / 112.5 IU / 125 IU / 137.5 IU / 150 IU
 
 <div style=\"page-break-after: always\"></div>
+
+## 8. EXPIRY DATE
+
+EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -840,7 +872,7 @@ Store in the original package in order to protect from light.
 
 Within its shelf-life, the unopened product may be stored at or below 25°C for up to 3 months without being refrigerated again and must be discarded if it has not been used after 3 months.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -865,8 +897,6 @@ EU/1/13/909/009
 Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-Medicinal product subject to medical prescription.
 
 ## 15. INSTRUCTIONS ON USE
 
@@ -960,9 +990,15 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+Single use product
+
+Deliverable doses: 150 IU / 162.5 IU / 175 IU / 187.5 IU / 200 IU / 212.5 IU / 225 IU
 
 <div style=\"page-break-after: always\"></div>
+
+## 8. EXPIRY DATE
+
+EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1000,8 +1036,6 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-Medicinal product subject to medical prescription.
-
 ## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1010,8 +1044,8 @@ Bemfola 225 IU/0.375 mL
 
 <div style=\"page-break-after: always\"></div>
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -1094,9 +1128,15 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+Single use product
+
+Deliverable doses: 225 IU / 237.5 IU / 250 IU / 262.5 IU / 275 IU / 287.5 IU / 300 IU
 
 <div style=\"page-break-after: always\"></div>
+
+## 8. EXPIRY DATE
+
+EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1134,8 +1174,6 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-Medicinal product subject to medical prescription.
-
 ## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1144,8 +1182,8 @@ Bemfola 300 IU/0.5 mL
 
 <div style=\"page-break-after: always\"></div>
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -1228,9 +1266,15 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+Single use product
+
+Deliverable doses: 300 IU / 325 IU / 337.5 IU / 350 IU / 375 IU / 400 IU / 412.5 IU / 425 IU / 450 IU
 
 <div style=\"page-break-after: always\"></div>
+
+## 8. EXPIRY DATE
+
+EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1268,8 +1312,6 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-Medicinal product subject to medical prescription.
-
 ## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1278,8 +1320,8 @@ Bemfola 450 IU/0.75 mL
 
 <div style=\"page-break-after: always\"></div>
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -1352,7 +1394,7 @@ Bemfola 75 IU/0.125 mL solution for injection in pre-filled pen Bemfola 150 IU/0
 
 ## What Bemfola is
 
-This medicine contains the active substance follitropin alfa, which is almost identical to a natural hormone produced by your body called 'follicle-stimulating hormone' (FSH). FSH is a gonadotropin, a type of hormone that plays an important role in human fertility and reproduction. In women, FSH is needed for the growth and development of the sacs (follicles) in the ovaries that contain the egg cells. In men, FSH is needed for the production of sperm.
+Bemfola contains a medicine called 'follitropin alfa'. Follitropin alfa is a type of 'follicle stimulating hormone' (FSH) which belongs to the family of hormones called 'gonadotropins'. Gonadotropins are involved in reproduction and fertility.
 
 ## What Bemfola is used for
 
@@ -1368,9 +1410,9 @@ This medicine contains the active substance follitropin alfa, which is almost id
 
 ## 2. What you need to know before you use Bemfola
 
-<div style=\"page-break-after: always\"></div>
-
 You and your partner's fertility should be evaluated before the treatment is started by a doctor experienced in treating fertility disorders.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Do not use Bemfola
 
@@ -1392,9 +1434,7 @@ Talk to your doctor or pharmacist before using Bemfola.
 
 ## Porphyria
 
-Tell your doctor before you start treatment, if you or any member of your family have porphyria (an inability to break down porphyrins that may be passed on from parents to children).
-
-Tell your doctor straight away if:
+Tell your doctor before you start treatment, if you or any member of your family have porphyria (an inability to break down porphyrins that may be passed on from parents to children). Tell your doctor straight away if:
 
 - your skin becomes fragile and easily blistered, especially skin that has been frequently in the sun, and/or
 - you have stomach, arm or leg pain.
@@ -1417,9 +1457,11 @@ When undergoing assisted reproductive technology or stimulation of your ovaries 
 
 ## Blood clotting problems (thromboembolic events)
 
+If you had in the past or recently blood clots in the leg or in the lung, or a heart attack or stroke, or if those happened in your family, then you might have a higher risk that these problems occur or become
+
 <div style=\"page-break-after: always\"></div>
 
-If you had in the past or recently blood clots in the leg or in the lung, or a heart attack or stroke, or if those happened in your family, then you might have a higher risk that these problems occur or become worse with Bemfola treatment.
+worse with Bemfola treatment.
 
 ## Men with too much FSH in their blood
 
@@ -1469,15 +1511,14 @@ Your doctor will decide how much medicine you will take and how often. The doses
 
 - Bemfola is usually given every day.
 - If you have irregular periods, start using Bemfola within the first 7 days of your menstrual cycle. If you do not have periods you can start using the medicine on any convenient day.
+- The starting dose of Bemfola is usually individualised and may be adjusted in a stepwise manner.
 
 <div style=\"page-break-after: always\"></div>
 
-- The usual starting dose of Bemfola is 75 to 150 IU (0.12 to 0.25 mL) each day.
-- Your dose of Bemfola may be increased every 7 or every 14 days by 37.5 to 75 IU, until you get the desired response.
-- The maximum daily dose of Bemfola is usually not higher than 225 IU (0.375 mL).
+- The daily dose of Bemfola should not exceed 225 IU (0.375 mL).
 - When you get the desired response, you will be given a single injection of 250 micrograms of 'recombinant hCG' (r-hCG, an hCG made in a laboratory by a special DNA technique), or 5 000 to 10 000 IU of hCG, 24 to 48 hours after your last Bemfola injection. The best time to have sex is on the day of the hCG injection and the day after.
 
-If your doctor cannot see a desired response after 4 weeks, that treatment cycle with Bemfola should be stopped. For the following treatment cycle, your doctor will give you a higher starting dose of Bemfola than before.
+If your doctor cannot see a desired response, the continuation of that treatment cycle with Bemfola should be evaluated and managed accordingly to the standard clinical practice.
 
 If your body responds too strongly, your treatment will be stopped and you will not be given any hCG (see section 2, 'Ovarian hyper-stimulation syndrome (OHSS)'). For the following cycle, your doctor will give you a lower dose of Bemfola than before.
 
@@ -1494,14 +1535,9 @@ If your body responds too strongly, your treatment with Bemfola will be stopped 
 
 ## If you need to develop several eggs for collection prior to any assisted reproductive technology
 
-- The usual starting dose of Bemfola is 150 to 225 IU (0.25 to 0.37 mL) each day, from day 2 or 3 of your treatment cycle.
-- Bemfola dose may be increased, depending on your response. The maximum daily dose is 450 IU (0.75 mL).
-- Treatment is continued until your eggs have developed to a desired point. This usually takes about 10 days but can take any time between 5 and 20 days. Your doctor will use blood tests and/or an ultrasound machine to check when this is.
+- The starting dose of Bemfola isusually individualised and may be adjusted in a stepwise manner to not higher than 450 IU (0.75 mL) daily.
+- Treatment is continued until your eggs have developed to a desired point. Your doctor will use blood tests and/or an ultrasound machine to check when this is.
 - When your eggs are ready, you will be given a single injection of 250 micrograms 'recombinant hCG' (r-hCG, an hCG made in a laboratory by a special recombinant DNA technique), or 5 000 IU to 10 000 IU of hCG, 24 to 48 hours after the last Bemfola injection. This gets your eggs ready for collection.
-
-In other cases, your doctor may first stop you from ovulating by using a gonadotropin-releasing hormone (GnRH) agonist or antagonist. Then Bemfola is started approximately two weeks after start of agonist treatment. The Bemfola and GnRH agonist are then both given until your follicles develop as desired. For example, after two weeks of GnRH agonist treatment, 150 to 225 IU Bemfola is administered for 7 days. The dose is then adjusted according to your ovarian response.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Men
 
@@ -1512,6 +1548,8 @@ In other cases, your doctor may first stop you from ovulating by using a gonadot
 ## If you use more Bemfola than you should
 
 The effects of taking too much Bemfola are unknown. Nevertheless, one could expect ovarian hyperstimulation syndrome (OHSS) to occur, which is described in section 4. However, the OHSS will only occur if hCG is also administered (see section 2, 'Ovarian hyper-stimulation syndrome (OHSS)').
+
+<div style=\"page-break-after: always\"></div>
 
 ## If you forget to use Bemfola
 
@@ -1528,7 +1566,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - Lower abdominal pain together with nausea or vomiting may be the symptoms of ovarian hyper-stimulation syndrome (OHSS). This may indicate that the ovaries over-reacted to the treatment and that large ovarian cysts developed (see also section 2 'Ovarian hyper-stimulation syndrome (OHSS)'). This side effect is common (may affect up to 1 in 10 people).
 - The OHSS may become severe with clearly enlarged ovaries, decreased urine production, weight gain, difficulty in breathing and/or possible fluid accumulation in your stomach or chest. This side effect is uncommon (may affect up to 1 in 100 people).
 - Complications of OHSS such as twisting of ovaries or blood clotting may occur rarely (may affect up to 1 in 1 000 people).
-- Serious blood clotting complications (thromboembolic events) sometimes independent of OHSS may be found very rarely (may affect up to 1 in 10 000 people). This could cause chest pain, breathlessness, stroke or heart attack (see also section 2, 'Blood clotting problems(thromboembolic events)').
+- Serious blood clotting complications (thromboembolic events) sometimes independent of OHSS may be found very rarely (may affect up to 1 in 10 000 people). This could cause chest pain, breathlessness, stroke or heart attack (see also section 2, 'Blood clotting problems (thromboembolic events)').
 
 ## Serious side effects in men and women
 
@@ -1549,8 +1587,6 @@ If you notice any of the above-listed side effects, you should immediately conta
 - Abdominal pain
 - Feeling sick, vomiting, diarrhoea, abdominal cramps and bloating
 
-<div style=\"page-break-after: always\"></div>
-
 ## Very rare (may affect up to 1 in 10,000 people):
 
 - Allergic reactions such as rash, red skin, hives, swelling of your face with difficulty breathing may occur. These reactions can sometimes be serious.
@@ -1563,6 +1599,8 @@ If you notice any of the above-listed side effects, you should immediately conta
 - Local reactions at the injection site, such as pain, redness, bruising, swelling and/or irritation
 
 ## Common (may affect up to 1 in 10 people):
+
+<div style=\"page-break-after: always\"></div>
 
 - Swelling of the veins above and behind the testicles (varicocele)
 - Breast development, acne or weight gain
@@ -1582,9 +1620,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date, which is stated on the pen label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C - 8°C). Do not freeze.
-
-Store in the original package in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Store in the original package in order to protect from light.
 
 Within its shelf life, the unopened pen may be stored at or below 25°C for up to 3 months without being refrigerated again and must be discarded if it has not been used after 3 months.
 
@@ -1600,17 +1636,16 @@ Do not throw any medicines away via wastewater or household waste. Ask your phar
 
 - The active substance is follitropin alfa.
 - Bemfola 75 IU/0.125 mL: Each cartridge contains 75 IU (equivalent to 5.5 micrograms) follitropin alfa in 0.125 mL solution.
-- Bemfola 150 IU/0.25 mL: Each cartridge contains 150 IU (equivalent to 11 micrograms)
-
-<div style=\"page-break-after: always\"></div>
-
-follitropin alfa in 0.25 mL solution.
-
+- Bemfola 150 IU/0.25 mL: Each cartridge contains 150 IU (equivalent to 11 micrograms) follitropin alfa in 0.25 mL solution.
 - Bemfola 225 IU/0.375 mL: Each cartridge contains 225 IU (equivalent to 16.5 micrograms) follitropin alfa in 0.375 mL solution.
 - Bemfola 300 IU/0.50 mL: Each cartridge contains 300 IU (equivalent to 22 micrograms) follitropin alfa in 0.50 mL solution.
 - Bemfola 450 IU/0.75 mL: Each cartridge contains 450 IU (equivalent to 33 micrograms) follitropin alfa in 0.75 mL solution.
 - Each mL of the solution contains 600 IU (equivalent to 44 micrograms) follitropin alfa.
-- The other ingredients are poloxamer 188, sucrose, methionine, disodium phosphate dihydrate, sodium dihydrogen phosphate dihydrate, phosphoric acid and water for injections.
+- The other ingredients are poloxamer 188, sucrose, methionine, disodium phosphate dihydrate,
+
+<div style=\"page-break-after: always\"></div>
+
+sodium dihydrogen phosphate dihydrate, phosphoric acid and water for injections.
 
 ## What Bemfola looks like and contents of the pack
 

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 07:31:29
+document_datetime: 2026-03-26 14:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/axumin.html
 document_name: axumin.html
 version: success
-processing_time: 0.1110151
-conversion_datetime: 2025-12-29 21:44:24.645487
+processing_time: 0.1149257
+conversion_datetime: 2026-03-29 12:23:15.375606
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Axumin
 
 [RSS](/en/individual-human-medicine.xml/66048)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-fluciclovine (18F) Medicine Human Authorised
+fluciclovine (18F)
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -111,275 +111,141 @@ Reference Number: EMA/240225/2017
 
 English (EN) (68.85 KB - PDF)
 
-**First published:** 06/07/2017
-
-**Last updated:** 06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/en/documents/overview/axumin-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-581)
+[Other languages (22)](#file-language-dropdown-300)
 
 български (BG) (93.96 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/bg/documents/overview/axumin-epar-summary-public_bg.pdf)
 
 español (ES) (68.5 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/es/documents/overview/axumin-epar-summary-public_es.pdf)
 
 čeština (CS) (92.71 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/cs/documents/overview/axumin-epar-summary-public_cs.pdf)
 
 dansk (DA) (67.82 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/da/documents/overview/axumin-epar-summary-public_da.pdf)
 
 Deutsch (DE) (69.01 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/de/documents/overview/axumin-epar-summary-public_de.pdf)
 
 eesti keel (ET) (67 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/et/documents/overview/axumin-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (94.96 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/el/documents/overview/axumin-epar-summary-public_el.pdf)
 
 français (FR) (68.8 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/fr/documents/overview/axumin-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (88.25 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/hr/documents/overview/axumin-epar-summary-public_hr.pdf)
 
 italiano (IT) (67.5 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/it/documents/overview/axumin-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (89.39 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/lv/documents/overview/axumin-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (90.35 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/lt/documents/overview/axumin-epar-summary-public_lt.pdf)
 
 magyar (HU) (86.31 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/hu/documents/overview/axumin-epar-summary-public_hu.pdf)
 
 Malti (MT) (93.49 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/mt/documents/overview/axumin-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (68.4 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/nl/documents/overview/axumin-epar-summary-public_nl.pdf)
 
 polski (PL) (94.49 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/pl/documents/overview/axumin-epar-summary-public_pl.pdf)
 
 português (PT) (68.14 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/pt/documents/overview/axumin-epar-summary-public_pt.pdf)
 
 română (RO) (88.51 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/ro/documents/overview/axumin-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (91.95 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/sk/documents/overview/axumin-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (86.37 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/sl/documents/overview/axumin-epar-summary-public_sl.pdf)
 
 Suomi (FI) (67.39 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/fi/documents/overview/axumin-epar-summary-public_fi.pdf)
 
 svenska (SV) (68.21 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-06/07/2017
+**First published:** 06/07/2017 **Last updated:** 06/07/2017
 
 [View](/sv/documents/overview/axumin-epar-summary-public_sv.pdf)
 
@@ -395,305 +261,161 @@ English (EN) (43.85 KB - PDF)
 
 Axumin : EPAR - Product Information
 
-English (EN) (351.02 KB - PDF)
+English (EN) (351.51 KB - PDF)
 
-**First published:** 06/07/2017
-
-**Last updated:** 14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/en/documents/product-information/axumin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-825)
+[Other languages (24)](#file-language-dropdown-751)
 
-български (BG) (465.24 KB - PDF)
+български (BG) (465.33 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/bg/documents/product-information/axumin-epar-product-information_bg.pdf)
 
-español (ES) (376.78 KB - PDF)
+español (ES) (11 bytes - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/es/documents/product-information/axumin-epar-product-information_es.pdf)
 
-čeština (CS) (450.55 KB - PDF)
+čeština (CS) (450.85 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/cs/documents/product-information/axumin-epar-product-information_cs.pdf)
 
-dansk (DA) (423.02 KB - PDF)
+dansk (DA) (424.07 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/da/documents/product-information/axumin-epar-product-information_da.pdf)
 
-Deutsch (DE) (377.58 KB - PDF)
+Deutsch (DE) (378.47 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/de/documents/product-information/axumin-epar-product-information_de.pdf)
 
-eesti keel (ET) (483.59 KB - PDF)
+eesti keel (ET) (11 bytes - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/et/documents/product-information/axumin-epar-product-information_et.pdf)
 
-ελληνικά (EL) (527.77 KB - PDF)
+ελληνικά (EL) (527.18 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/el/documents/product-information/axumin-epar-product-information_el.pdf)
 
-français (FR) (344.21 KB - PDF)
+français (FR) (11 bytes - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/fr/documents/product-information/axumin-epar-product-information_fr.pdf)
 
-hrvatski (HR) (451.04 KB - PDF)
+hrvatski (HR) (450 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/hr/documents/product-information/axumin-epar-product-information_hr.pdf)
 
-íslenska (IS) (396.94 KB - PDF)
+íslenska (IS) (398.41 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/is/documents/product-information/axumin-epar-product-information_is.pdf)
 
-italiano (IT) (352.11 KB - PDF)
+italiano (IT) (359.06 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/it/documents/product-information/axumin-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (474.15 KB - PDF)
+latviešu valoda (LV) (475.07 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/lv/documents/product-information/axumin-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (405.29 KB - PDF)
+lietuvių kalba (LT) (405.81 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/lt/documents/product-information/axumin-epar-product-information_lt.pdf)
 
-magyar (HU) (462.91 KB - PDF)
+magyar (HU) (467.94 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/hu/documents/product-information/axumin-epar-product-information_hu.pdf)
 
-Malti (MT) (510.88 KB - PDF)
+Malti (MT) (11 bytes - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/mt/documents/product-information/axumin-epar-product-information_mt.pdf)
 
-Nederlands (NL) (337.17 KB - PDF)
+Nederlands (NL) (11 bytes - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/nl/documents/product-information/axumin-epar-product-information_nl.pdf)
 
-norsk (NO) (420.9 KB - PDF)
+norsk (NO) (11 bytes - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/no/documents/product-information/axumin-epar-product-information_no.pdf)
 
-polski (PL) (531.12 KB - PDF)
+polski (PL) (536.86 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/pl/documents/product-information/axumin-epar-product-information_pl.pdf)
 
-português (PT) (335.33 KB - PDF)
+português (PT) (11 bytes - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/pt/documents/product-information/axumin-epar-product-information_pt.pdf)
 
-română (RO) (483.54 KB - PDF)
+română (RO) (483.7 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/ro/documents/product-information/axumin-epar-product-information_ro.pdf)
 
-slovenčina (SK) (442.7 KB - PDF)
+slovenčina (SK) (444.21 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/sk/documents/product-information/axumin-epar-product-information_sk.pdf)
 
-slovenščina (SL) (452.28 KB - PDF)
+slovenščina (SL) (453.18 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/sl/documents/product-information/axumin-epar-product-information_sl.pdf)
 
-Suomi (FI) (339.64 KB - PDF)
+Suomi (FI) (11 bytes - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/fi/documents/product-information/axumin-epar-product-information_fi.pdf)
 
-svenska (SV) (344.2 KB - PDF)
+svenska (SV) (344.68 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-14/07/2025
+**First published:** 06/07/2017 **Last updated:** 26/03/2026
 
 [View](/sv/documents/product-information/axumin-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000281183 11/07/2025
+**Latest procedure affecting product information:** VR/0000337203
+
+26/03/2026
 
 icon globe
 
@@ -713,310 +435,178 @@ Axumin : EPAR - All Authorised presentations
 
 English (EN) (27.78 KB - PDF)
 
-**First published:** 06/07/2017
-
-**Last updated:** 11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/en/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-953)
+[Other languages (24)](#file-language-dropdown-695)
 
 български (BG) (64.76 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/bg/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (26.46 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/es/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (55.87 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/cs/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (18.47 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/da/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (18.58 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/de/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (27.71 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/et/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (46.94 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/el/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (26.57 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/fr/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (46.9 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/hr/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (26.62 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/is/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (26.5 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/it/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (48.82 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/lv/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (45.81 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/lt/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (34.01 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/hu/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (46.72 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/mt/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (26.77 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/nl/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (29.48 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/no/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (66.72 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/pl/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (27.34 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/pt/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (46.3 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/ro/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (36.27 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/sk/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (36.74 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/sl/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (24.32 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/fi/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (29.26 KB - PDF)
 
-**First published:**
-
-06/07/2017
-
-**Last updated:**
-
-11/09/2018
+**First published:** 06/07/2017 **Last updated:** 11/09/2018
 
 [View](/sv/documents/all-authorised-presentations/axumin-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Axumin Active substance fluciclovine (18F) International non-proprietary name (INN) or common name fluciclovine (18F) Therapeutic area (MeSH)
+Name of medicine
+
+Axumin
+
+Active substance
+
+fluciclovine (18F)
+
+International non-proprietary name (INN) or common name
+
+fluciclovine (18F)
+
+Therapeutic area (MeSH)
 
 - Prostatic Neoplasms
 - Radionuclide Imaging
 
-Anatomical therapeutic chemical (ATC) code V09IX12
+Anatomical therapeutic chemical (ATC) code
+
+V09IX12
 
 ### Pharmacotherapeutic group
 
@@ -1030,13 +620,27 @@ Axumin is indicated for Positron Emission Tomography (PET) imaging to detect rec
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004197 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/004197
+
+Marketing authorisation holder
 
 Blue Earth Diagnostics Ireland Ltd
 
 6th Floor, 2 Grand Canal Square
 
-Opinion adopted 22/03/2017 Marketing authorisation issued 21/05/2017 Revision 19
+Opinion adopted
+
+22/03/2017
+
+Marketing authorisation issued
+
+21/05/2017
+
+Revision
+
+20
 
 ## Assessment history
 
@@ -1048,11 +652,9 @@ Collapse section
 
 Axumin : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (474.08 KB - PDF)
+English (EN) (138.94 KB - PDF)
 
-**First published:** 08/10/2024
-
-**Last updated:** 14/07/2025
+**First published:** 08/10/2024 **Last updated:** 26/03/2026
 
 [View](/en/documents/procedural-steps-after/axumin-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1060,9 +662,7 @@ Axumin : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (160.6 KB - PDF)
 
-**First published:** 27/03/2018
-
-**Last updated:** 08/10/2024
+**First published:** 27/03/2018 **Last updated:** 08/10/2024
 
 [View](/en/documents/procedural-steps-after/axumin-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1080,15 +680,11 @@ English (EN) (131.73 KB - PDF)
 
 Axumin : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/237809/2017 Corr.
+Adopted Reference Number: EMA/237809/2017 Corr.
 
 English (EN) (1.48 MB - PDF)
 
-**First published:** 06/07/2017
-
-**Last updated:** 05/06/2019
+**First published:** 06/07/2017 **Last updated:** 05/06/2019
 
 [View](/en/documents/assessment-report/axumin-epar-public-assessment-report_en.pdf)
 
@@ -1098,29 +694,31 @@ Reference Number: EMA/CHMP/144418/2017
 
 English (EN) (62.65 KB - PDF)
 
-**First published:** 24/03/2017
-
-**Last updated:** 24/03/2017
+**First published:** 24/03/2017 **Last updated:** 24/03/2017
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-axumin_en.pdf)
 
-#### News on Axumin
+## News on Axumin
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2020) 28/02/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2020)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 March 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-march-2017) 24/03/2017
+28/02/2020
 
-#### More information on Axumin
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 March 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-march-2017)
+
+24/03/2017
+
+## More information on Axumin
 
 - [EMEA-001644-PIP02-14-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001644-pip02-14-m03)
 - [Axumin - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/axumin)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 14/07/2025
+**This page was last updated on**
+
+26/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

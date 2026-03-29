@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-30 16:25:37
-document_pages: 59
+document_datetime: 2026-03-24 11:05:44
+document_pages: 57
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/jardiance-epar-product-information_en.pdf
 document_name: jardiance-epar-product-information_en.pdf
 version: success
-processing_time: 27.6506018
-conversion_datetime: 2025-12-20 15:44:50.644691
+processing_time: 26.3837184
+conversion_datetime: 2026-03-29 12:24:35.807265
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -71,11 +71,11 @@ Jardiance is indicated in adults and children aged 10 years and above for the tr
 
 For study results with respect to combination of therapies, effects on glycaemic control, cardiovascular and renal events, and the populations studied, see sections 4.4, 4.5 and 5.1.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Heart failure
 
 Jardiance is indicated in adults for the treatment of symptomatic chronic heart failure.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Chronic kidney disease
 
@@ -87,7 +87,7 @@ Jardiance is indicated in adults for the treatment of chronic kidney disease.
 
 ## Type 2 diabetes mellitus
 
-The recommended starting dose is 10 mg empagliflozin once daily for monotherapy and add-on combination therapy with other medicinal products for the treatment of diabetes. In patients tolerating empagliflozin 10 mg once daily who have an eGFR ≥60 ml/min/1.73 m 2  and need tighter glycaemic control, the dose can be increased to 25 mg once daily. The maximum daily dose is 25 mg (see below and section 4.4).
+The recommended starting dose is 10 mg empagliflozin once daily for monotherapy and add-on combination therapy with other medicinal products for the treatment of diabetes. In patients tolerating empagliflozin 10 mg once daily who have an eGFR ≥ 60 mL/min/1.73 m 2  and need tighter glycaemic control, the dose can be increased to 25 mg once daily. The maximum daily dose is 25 mg (see below and section 4.4).
 
 ## Heart failure
 
@@ -107,11 +107,11 @@ If a dose is missed, it should be taken as soon as the patient remembers; howeve
 
 ## Renal impairment
 
-Due to limited experience, it is not recommended to initiate treatment with empagliflozin in patients with an eGFR &lt;20 ml/min/1.73 m 2 .
+Due to limited experience, it is not recommended to initiate treatment with empagliflozin in patients with an eGFR &lt; 20 mL/min/1.73 m 2 .
 
-In patients with an eGFR &lt;60 ml/min/1.73 m 2 the daily dose of empagliflozin is 10 mg.
+In patients with an eGFR &lt; 60 mL/min/1.73 m 2 the daily dose of empagliflozin is 10 mg.
 
-In patients with type 2 diabetes mellitus, the glucose lowering efficacy of empagliflozin is reduced in patients with an eGFR &lt;45 ml/min/1.73 m 2 and likely absent in patients with an eGFR &lt;30 ml/min/1.73 m 2 . Therefore, if eGFR falls below 45 ml/min/1.73 m 2 , additional glucose lowering treatment should be considered if needed (see sections 4.4, 4.8, 5.1 and 5.2).
+In patients with type 2 diabetes mellitus, the glucose lowering efficacy of empagliflozin is reduced in patients with an eGFR &lt; 45 mL/min/1.73 m 2  and likely absent in patients with an eGFR &lt; 30 mL/min/1.73 m 2 . Therefore, if eGFR falls below 45 mL/min/1.73 m 2 , additional glucose lowering treatment should be considered if needed (see sections 4.4, 4.8, 5.1 and 5.2).
 
 ## Hepatic impairment
 
@@ -121,11 +121,11 @@ No dose adjustment is required for patients with hepatic impairment. Empaglifloz
 
 No dose adjustment is recommended based on age. In patients 75 years and older, an increased risk for volume depletion should be taken into account (see sections 4.4 and 4.8).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric population
 
-The recommended starting dose is 10 mg empagliflozin once daily. In patients tolerating empagliflozin 10 mg once daily and requiring additional glycaemic control, the dose can be increased to 25 mg once daily (see sections 5.1 and 5.2). No data are available for children with eGFR &lt;60 ml/min/1.73 m² and children below 10 years of age.
+The recommended starting dose is 10 mg empagliflozin once daily. In patients tolerating empagliflozin 10 mg once daily and requiring additional glycaemic control, the dose can be increased to 25 mg once daily (see sections 5.1 and 5.2). No data are available for children with eGFR &lt; 60 mL/min/1.73 m 2  and children below 10 years of age.
+
+<div style=\"page-break-after: always\"></div>
 
 The safety and efficacy of empagliflozin for the treatment of heart failure or for the treatment of chronic kidney disease in children under 18 years of age have not been established. No data are available.
 
@@ -145,7 +145,7 @@ Empagliflozin should not be used in patients with type 1 diabetes mellitus (see 
 
 ## Ketoacidosis
 
-Cases of ketoacidosis, including life-threatening and fatal cases, have been reported in patients with diabetes mellitus treated with SGLT2 inhibitors, including empagliflozin. In a number of cases, the presentation of the condition was atypical with only moderately increased blood glucose values, below 14 mmol/l (250 mg/dl). It is not known if ketoacidosis is more likely to occur with higher doses of empagliflozin. Although ketoacidosis is less likely to occur in patients without diabetes mellitus, cases have also been reported in these patients.
+Cases of ketoacidosis, including life-threatening and fatal cases, have been reported in patients with diabetes mellitus treated with SGLT2 inhibitors, including empagliflozin. In a number of cases, the presentation of the condition was atypical with only moderately increased blood glucose values, below 14 mmol/L (250 mg/dL). It is not known if ketoacidosis is more likely to occur with higher doses of empagliflozin. Although ketoacidosis is less likely to occur in patients without diabetes mellitus, cases have also been reported in these patients.
 
 The risk of ketoacidosis must be considered in the event of non-specific symptoms such as nausea, vomiting, anorexia, abdominal pain, excessive thirst, difficulty breathing, confusion, unusual fatigue or sleepiness. Patients should be assessed for ketoacidosis immediately if these symptoms occur, regardless of blood glucose level.
 
@@ -157,9 +157,9 @@ Before initiating empagliflozin, factors in the patient history that may predisp
 
 Prolonged ketoacidosis and prolonged glucosuria have been observed with empagliflozin. Ketoacidosis may last longer after discontinuation of empagliflozin than expected from the plasma half-life (see section 5.2). Empagliflozin-independent factors, such as insulin deficiency, might be involved in prolonged periods of ketoacidosis.
 
-<div style=\"page-break-after: always\"></div>
-
 Patients who may be at higher risk of ketoacidosis include patients with a low beta-cell function reserve (e.g. type 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or patients with a history of pancreatitis), patients with conditions that lead to restricted food intake or severe dehydration, patients for whom insulin doses are reduced and patients with increased insulin requirements due to acute medical illness, surgery or alcohol abuse. SGLT2 inhibitors should be used with caution in these patients.
+
+<div style=\"page-break-after: always\"></div>
 
 Restarting SGLT2 inhibitor treatment in patients with previous ketoacidosis while on SGLT2 inhibitor treatment is not recommended, unless another clear precipitating factor is identified and resolved.
 
@@ -167,11 +167,11 @@ Jardiance should not be used in patients with type 1 diabetes. Data from a clini
 
 ## Renal impairment
 
-Due to limited experience, it is not recommended to initiate treatment with empagliflozin in patients with an eGFR &lt;20 ml/min/1.73 m 2 .
+Due to limited experience, it is not recommended to initiate treatment with empagliflozin in patients with an eGFR &lt; 20 mL/min/1.73 m 2 .
 
-In patients with an eGFR &lt;60 ml/min/1.73 m 2 the daily dose of empagliflozin is 10 mg (see section 4.2).
+In patients with an eGFR &lt; 60 mL/min/1.73 m 2 the daily dose of empagliflozin is 10 mg (see section 4.2).
 
-The glucose lowering efficacy of empagliflozin is dependent on renal function, and is reduced in patients with an eGFR &lt;45 ml/min/1.73 m 2  and is likely absent in patients with an eGFR &lt;30 ml/min/1.73 m 2  (see section 4.2, 5.1 and 5.2).
+The glucose lowering efficacy of empagliflozin is dependent on renal function, and is reduced in patients with an eGFR &lt; 45 mL/min/1.73 m 2  and is likely absent in patients with an eGFR &lt; 30 mL/min/1.73 m 2  (see section 4.2, 5.1 and 5.2).
 
 ## Monitoring of renal function
 
@@ -192,9 +192,9 @@ The effect of empagliflozin on urinary glucose excretion is associated with osmo
 
 ## Complicated urinary tract infections
 
-<div style=\"page-break-after: always\"></div>
-
 Cases of complicated urinary tract infections including pyelonephritis and urosepsis have been reported in patients treated with empagliflozin (see section 4.8). Temporary interruption of empagliflozin should be considered in patients with complicated urinary tract infections.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Necrotising fasciitis of the perineum (Fournier's gangrene)
 
@@ -234,11 +234,11 @@ Monitoring glycaemic control with 1,5-AG assay is not recommended as measurement
 
 The tablets contain lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency, or glucose-galactose malabsorption should not take this medicinal product.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Sodium
 
 Each tablet contains less than 1 mmol sodium (23 mg), that is to say essentially 'sodium free'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -272,13 +272,13 @@ Interaction studies suggest that the pharmacokinetics of empagliflozin were not 
 
 ## Effects of empagliflozin on other medicinal products
 
-Empagliflozin may increase renal lithium excretion and the blood lithium levels may be decreased. Serum concentration of lithium should be monitored more frequently after empagliflozin initiation and
+Empagliflozin may increase renal lithium excretion and the blood lithium levels may be decreased. Serum concentration of lithium should be monitored more frequently after empagliflozin initiation and dose changes. Please refer the patient to the lithium prescribing doctor in order to monitor serum concentration of lithium.
+
+Based on in vitro studies, empagliflozin does not inhibit, inactivate, or induce CYP450 isoforms. Empagliflozin does not inhibit UGT1A1, UGT1A3, UGT1A8, UGT1A9, or UGT2B7. Drug-drug
 
 <div style=\"page-break-after: always\"></div>
 
-dose changes. Please refer the patient to the lithium prescribing doctor in order to monitor serum concentration of lithium.
-
-Based on in vitro studies, empagliflozin does not inhibit, inactivate, or induce CYP450 isoforms. Empagliflozin does not inhibit UGT1A1, UGT1A3, UGT1A8, UGT1A9, or UGT2B7. Drug-drug interactions involving the major CYP450 and UGT isoforms with empagliflozin and concomitantly administered substrates of these enzymes are therefore considered unlikely.
+interactions involving the major CYP450 and UGT isoforms with empagliflozin and concomitantly administered substrates of these enzymes are therefore considered unlikely.
 
 Empagliflozin does not inhibit P-gp at therapeutic doses. Based on in vitro studies, empagliflozin is considered unlikely to cause interactions with active substances that are P-gp substrates. Coadministration of digoxin, a P-gp substrate, with empagliflozin resulted in a 6% increase in AUC and 14% increase in Cmax of digoxin. These changes were not considered to be clinically meaningful.
 
@@ -308,8 +308,6 @@ No studies on the effect on human fertility have been conducted for Jardiance. A
 
 Jardiance has minor influence on the ability to drive and use machines. Patients should be advised to take precautions to avoid hypoglycaemia while driving and using machines, in particular when Jardiance is used in combination with a sulphonylurea and/or insulin.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
@@ -318,11 +316,15 @@ Jardiance has minor influence on the ability to drive and use machines. Patients
 
 A total of 15 582 patients with type 2 diabetes were included in clinical studies to evaluate the safety of empagliflozin, of which 10 004 patients received empagliflozin, either alone or in combination with metformin, a sulphonylurea, pioglitazone, DPP-4 inhibitors, or insulin.
 
-In 6 placebo-controlled trials of 18 to 24 weeks duration, 3 534 patients were included of which 1 183 were treated with placebo and 2 351 with empagliflozin. The overall incidence of adverse events in patients treated with empagliflozin was similar to placebo. The most frequently reported adverse reaction was hypoglycaemia when used with sulphonylurea or insulin (see description of selected adverse reactions).
+In 6 placebo-controlled trials of 18 to 24 weeks duration, 3 534 patients were included of which 1 183
+
+<div style=\"page-break-after: always\"></div>
+
+were treated with placebo and 2 351 with empagliflozin. The overall incidence of adverse events in patients treated with empagliflozin was similar to placebo. The most frequently reported adverse reaction was hypoglycaemia when used with sulphonylurea or insulin (see description of selected adverse reactions).
 
 ## Heart failure
 
-The EMPEROR studies included patients with heart failure and either reduced ejection fraction (N=3 726) or preserved ejection fraction (N=5 985) treated with empagliflozin 10 mg or placebo. Approximately half of the patients had type 2 diabetes mellitus. The most frequent adverse reaction of the pooled EMPEROR-Reduced and EMPEROR-Preserved studies was volume depletion (empagliflozin 10 mg: 11.4%. placebo: 9.7%).
+The EMPEROR studies included patients with heart failure and either reduced ejection fraction (N = 3 726) or preserved ejection fraction (N = 5 985) treated with empagliflozin 10 mg or placebo. Approximately half of the patients had type 2 diabetes mellitus. The most frequent adverse reaction of the pooled EMPEROR-Reduced and EMPEROR-Preserved studies was volume depletion (empagliflozin 10 mg: 11.4%. placebo: 9.7%).
 
 ## Chronic kidney disease
 
@@ -334,27 +336,28 @@ The overall safety profile of empagliflozin was generally consistent across the 
 
 Adverse reactions classified by system organ class and MedDRA preferred terms reported in patients who received empagliflozin in placebo-controlled studies are presented in the table below (Table 1).
 
-The adverse reactions are listed by absolute frequency. Frequencies are defined as very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), or very rare (&lt;1/10 000), and not known (cannot be estimated from the available data).
+The adverse reactions are listed by absolute frequency. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), or very rare (&lt; 1/10 000), and not known (cannot be estimated from the available data).
+
+Table 1: Tabulated list of adverse reactions (MedDRA) from reported placebo-controlled studies and from post-marketing experience
+
+| System organ class                     | Very common                                               | Common                                                                                                                                         | Uncommon             | Rare                                                         | Very Rare   |
+|----------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|--------------------------------------------------------------|-------------|
+| Infections and infestations            |                                                           | Vaginal moniliasis, vulvovaginitis, balanitis and other genital infection a Urinary tract infection (including pyelonephritis and urosepsis) a |                      | Necrotising fasciitis of the perineum (Fournier´s gangrene)* |             |
+| Metabolism and nutrition disorders     | Hypoglycaemia (when used with sulphonylurea or insulin) a | Thirst                                                                                                                                         | Ketoacidosis *       |                                                              |             |
+| Gastrointestinal disorders             |                                                           | Constipation                                                                                                                                   |                      |                                                              |             |
+| Skin and subcutaneous tissue disorders |                                                           | Pruritus (generalised) Rash                                                                                                                    | Urticaria Angioedema |                                                              |             |
+| Vascular disorders                     | Volume depletion a                                        |                                                                                                                                                |                      |                                                              |             |
+| Renal and                              |                                                           | Increased                                                                                                                                      | Dysuria              |                                                              | Tubulo-     |
 
 <div style=\"page-break-after: always\"></div>
 
-Table 1:  Tabulated list of adverse reactions (MedDRA) from reported placebo-controlled studies and from post-marketing experience
-
-| System organ class                     | Very common                                               | Common                                                                                                                                         | Uncommon                                                                                   | Rare                                                         | Very Rare                      |
-|----------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------|
-| Infections and infestations            |                                                           | Vaginal moniliasis, vulvovaginitis, balanitis and other genital infection a Urinary tract infection (including pyelonephritis and urosepsis) a |                                                                                            | Necrotising fasciitis of the perineum (Fournier´s gangrene)* |                                |
-| Metabolism and nutrition disorders     | Hypoglycaemia (when used with sulphonylurea or insulin) a | Thirst                                                                                                                                         | Ketoacidosis *                                                                             |                                                              |                                |
-| Gastrointestinal disorders             |                                                           | Constipation                                                                                                                                   |                                                                                            |                                                              |                                |
-| Skin and subcutaneous tissue disorders |                                                           | Pruritus (generalised) Rash                                                                                                                    | Urticaria Angioedema                                                                       |                                                              |                                |
-| Vascular disorders                     | Volume depletion a                                        |                                                                                                                                                |                                                                                            |                                                              |                                |
-| Renal and urinary disorders            |                                                           | Increased urination a                                                                                                                          | Dysuria                                                                                    |                                                              | Tubulo- interstitial nephritis |
-| Investigations                         |                                                           | Serum lipids increased a                                                                                                                       | Blood creatinine increased/ Glomerular filtration rate decreased a Haematocrit increased a |                                                              |                                |
+| urinary disorders   | urination a              |                                                                                            | interstitial nephritis   |
+|---------------------|--------------------------|--------------------------------------------------------------------------------------------|--------------------------|
+| Investigations      | Serum lipids increased a | Blood creatinine increased/ Glomerular filtration rate decreased a Haematocrit increased a |                          |
 
 a see subsections below for additional information
 
 * see section 4.4
-
-<div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse reactions
 
@@ -374,17 +377,15 @@ In the EMPEROR heart failure studies, major hypoglycaemia was observed at simila
 
 Vaginal moniliasis, vulvovaginitis, balanitis and other genital infections were reported more frequently in patients treated with empagliflozin (empagliflozin 10 mg: 4.0%, empagliflozin 25 mg: 3.9%) compared to placebo (1.0%). These infections were reported more frequently in females treated with empagliflozin compared to placebo, and the difference in frequency was less pronounced in males. The genital tract infections were mild or moderate in intensity.
 
+<div style=\"page-break-after: always\"></div>
+
 In the EMPEROR heart failure studies, the frequency of these infections was more pronounced in patients with diabetes mellitus (empagliflozin 10 mg: 2.3%; placebo: 0.8%) than in patients without diabetes mellitus (empagliflozin 10 mg: 1.7%; placebo: 0.7%) when treated with empagliflozin compared to placebo.
 
 Cases of phimosis/acquired phimosis have been reported concurrent with genital infections and in some cases, circumcision was required.
 
 ## Increased urination
 
-Increased urination (including the predefined terms pollakiuria, polyuria, and nocturia) was observed at higher frequencies in patients treated with empagliflozin (empagliflozin 10 mg: 3.5%, empagliflozin
-
-<div style=\"page-break-after: always\"></div>
-
-25 mg: 3.3%) compared to placebo (1.4%). Increased urination was mostly mild or moderate in intensity. The frequency of reported nocturia was similar for placebo and empagliflozin (&lt;1%).
+Increased urination (including the predefined terms pollakiuria, polyuria, and nocturia) was observed at higher frequencies in patients treated with empagliflozin (empagliflozin 10 mg: 3.5%, empagliflozin 25 mg: 3.3%) compared to placebo (1.4%). Increased urination was mostly mild or moderate in intensity. The frequency of reported nocturia was similar for placebo and empagliflozin (&lt; 1%).
 
 In the EMPEROR heart failure studies, increased urination was observed at similar frequencies in patients treated with empagliflozin and placebo (empagliflozin 10 mg: 0.9%, placebo 0.5%).
 
@@ -402,17 +403,19 @@ The overall frequency of patients with increased blood creatinine and decreased 
 
 Initial increases in creatinine and initial decreases in estimated glomerular filtration rates in patients treated with empagliflozin were generally transient during continuous treatment or reversible after drug discontinuation of treatment.
 
-Consistently, in the EMPA-REG OUTCOME study, patients treated with empagliflozin experienced an initial fall in eGFR (mean: 3 ml/min/1.73 m 2 ). Thereafter, eGFR was maintained during continued treatment. Mean eGFR returned to baseline after treatment discontinuation suggesting acute haemodynamic changes may play a role in these renal function changes. This phenomenon is also observed in the EMPEROR heart failure studies and the EMPA-KIDNEY study.
-
-<div style=\"page-break-after: always\"></div>
+Consistently, in the EMPA-REG OUTCOME study, patients treated with empagliflozin experienced an initial fall in eGFR (mean: 3 mL/min/1.73 m 2 ). Thereafter, eGFR was maintained during continued treatment. Mean eGFR returned to baseline after treatment discontinuation suggesting acute haemodynamic changes may play a role in these renal function changes. This phenomenon is also observed in the EMPEROR heart failure studies and the EMPA-KIDNEY study.
 
 ## Serum lipids increased
 
-Mean percent increases from baseline for empagliflozin 10 mg and 25 mg versus placebo, respectively, were total cholesterol 4.9% and 5.7% versus 3.5%; HDL-cholesterol 3.3% and 3.6% versus 0.4 %; LDL-cholesterol 9.5% and 10.0% versus 7.5%; triglycerides 9.2% and 9.9% versus 10.5%.
+Mean percent increases from baseline for empagliflozin 10 mg and 25 mg versus placebo, respectively, were total cholesterol 4.9% and 5.7% versus 3.5%; HDL-cholesterol 3.3% and 3.6% versus 0.4%; LDL-cholesterol 9.5% and 10.0% versus 7.5%; triglycerides 9.2% and 9.9% versus 10.5%.
 
 ## Haematocrit increased
 
-Mean changes from baseline in haematocrit were 3.4% and 3.6% for empagliflozin 10 mg and 25 mg, respectively, compared to 0.1% for placebo. In the EMPA-REG Outcome study, haematocrit values returned towards baseline values after a follow-up period of 30 days after treatment stop.
+Mean changes from baseline in haematocrit were 3.4% and 3.6% for empagliflozin 10 mg and 25 mg,
+
+<div style=\"page-break-after: always\"></div>
+
+respectively, compared to 0.1% for placebo. In the EMPA-REG Outcome study, haematocrit values returned towards baseline values after a follow-up period of 30 days after treatment stop.
 
 ## Paediatric population
 
@@ -440,13 +443,15 @@ In the event of an overdose, treatment should be initiated as appropriate to the
 
 Pharmacotherapeutic group: Drugs used in diabetes, Sodium-glucose co-transporter 2 (SGLT2) inhibitors, ATC code: A10BK03
 
-<div style=\"page-break-after: always\"></div>
-
 ## Mechanism of action
 
 Empagliflozin is a reversible, highly potent (IC50 of 1.3 nmol) and selective competitive inhibitor of sodium-glucose co-transporter 2 (SGLT2). Empagliflozin does not inhibit other glucose transporters important for glucose transport into peripheral tissues and is 5 000 times more selective for SGLT2 versus SGLT1, the major transporter responsible for glucose absorption in the gut. SGLT2 is highly expressed in the kidney, whereas expression in other tissues is absent or very low. It is responsible, as the predominant transporter, for the reabsorption of glucose from the glomerular filtrate back into the circulation. In patients with type 2 diabetes and hyperglycaemia a higher amount of glucose is filtered and reabsorbed.
 
-Empagliflozin improves glycaemic control in patients with type 2 diabetes by reducing renal glucose reabsorption. The amount of glucose removed by the kidney through this glucuretic mechanism is dependent on blood glucose concentration and GFR. Inhibition of SGLT2 in patients with type 2 diabetes and hyperglycaemia leads to excess glucose excretion in the urine. In addition, initiation of empagliflozin increases excretion of sodium resulting in osmotic diuresis and reduced intravascular volume.
+Empagliflozin improves glycaemic control in patients with type 2 diabetes by reducing renal glucose
+
+<div style=\"page-break-after: always\"></div>
+
+reabsorption. The amount of glucose removed by the kidney through this glucuretic mechanism is dependent on blood glucose concentration and GFR. Inhibition of SGLT2 in patients with type 2 diabetes and hyperglycaemia leads to excess glucose excretion in the urine. In addition, initiation of empagliflozin increases excretion of sodium resulting in osmotic diuresis and reduced intravascular volume.
 
 In patients with type 2 diabetes, urinary glucose excretion increased immediately following the first dose of empagliflozin and is continuous over the 24 hour dosing interval. Increased urinary glucose excretion was maintained at the end of the 4-week treatment period, averaging approximately 78 g/day. Increased urinary glucose excretion resulted in an immediate reduction in plasma glucose levels in patients with type 2 diabetes.
 
@@ -462,130 +467,134 @@ Both improvement of glycaemic control and reduction of cardiovascular morbidity 
 
 Glycaemic efficacy and cardiovascular outcomes have been assessed in a total of 14 663 patients with type 2 diabetes who were treated in 12 double-blind, placebo- and active-controlled clinical studies, of which 9 295 received empagliflozin (empagliflozin 10 mg: 4 165 patients; empagliflozin 25 mg: 5 130 patients). Five studies had treatment durations of 24 weeks; extensions of those and other studies had patients exposed to empagliflozin for up to 102 weeks.
 
-Treatment with empagliflozin as monotherapy and in combination with metformin, pioglitazone, a sulphonylurea, DPP-4 inhibitors, and insulin lead to clinically relevant improvements in HbA1c, fasting plasma glucose (FPG), body weight, and systolic and diastolic blood pressure. Administration of empagliflozin 25 mg resulted in a higher proportion of patients achieving HbA1c goal of less than
-
-<div style=\"page-break-after: always\"></div>
-
-7% and fewer patients needing glycaemic rescue compared to empagliflozin 10 mg and placebo. Higher baseline HbA1c was associated with a greater reduction in HbA1c. In addition, empagliflozin as adjunct to standard care therapy reduced cardiovascular mortality in patients with type 2 diabetes and established cardiovascular disease.
+Treatment with empagliflozin as monotherapy and in combination with metformin, pioglitazone, a sulphonylurea, DPP-4 inhibitors, and insulin lead to clinically relevant improvements in HbA1c, fasting plasma glucose (FPG), body weight, and systolic and diastolic blood pressure. Administration of empagliflozin 25 mg resulted in a higher proportion of patients achieving HbA1c goal of less than 7% and fewer patients needing glycaemic rescue compared to empagliflozin 10 mg and placebo. Higher baseline HbA1c was associated with a greater reduction in HbA1c. In addition, empagliflozin as adjunct to standard care therapy reduced cardiovascular mortality in patients with type 2 diabetes and established cardiovascular disease.
 
 ## Monotherapy
 
-The efficacy and safety of empagliflozin as monotherapy was evaluated in a double-blind, placebo- and active-controlled study of 24 weeks duration in treatment-naïve patients. Treatment with empagliflozin resulted in a statistically significant (p&lt;0.0001) reduction in HbA1c compared to placebo (Table 2) and a clinically meaningful decrease in FPG.
+The efficacy and safety of empagliflozin as monotherapy was evaluated in a double-blind, placebo- and active-controlled study of 24 weeks duration in treatment-naïve patients. Treatment with empagliflozin resulted in a statistically significant (p &lt; 0.0001) reduction in HbA1c compared to placebo (Table 2) and a clinically meaningful decrease in FPG.
 
-In a pre-specified analysis of patients (N=201) with a baseline HbA1c ≥8.5%, treatment resulted in a reduction in HbA1c from baseline of -1.44% for empagliflozin 10 mg, -1.43% for empagliflozin 25 mg, -1.04% for sitagliptin, and an increase of 0.01% for placebo.
+In a pre-specified analysis of patients (N = 201) with a baseline HbA1c ≥ 8.5%, treatment resulted in a
+
+<div style=\"page-break-after: always\"></div>
+
+reduction in HbA1c from baseline of -1.44% for empagliflozin 10 mg, -1.43% for empagliflozin 25 mg, -1.04% for sitagliptin, and an increase of 0.01% for placebo.
 
 In the double-blind placebo-controlled extension of this study, reductions of HbA1c, body weight and blood pressure were sustained up to Week 76.
 
-Table 2:  Efficacy results of a 24 week placebo-controlled study of empagliflozin as monotherapy a
+Table 2: Efficacy results of a 24 week placebo-controlled study of empagliflozin as monotherapy a
 
-|                                                            | Placebo   | Jardiance             | Jardiance             | Sitagliptin            |
-|------------------------------------------------------------|-----------|-----------------------|-----------------------|------------------------|
-|                                                            |           | 10 mg                 | 25 mg                 | 100 mg                 |
-| N                                                          | 228       | 224                   | 224                   | 223                    |
-| HbA1c (%)                                                  |           |                       |                       |                        |
-| Baseline (mean)                                            | 7.91      | 7.87                  | 7.86                  | 7.85                   |
-| Change from baseline 1                                     | 0.08      | -0.66                 | -0.78                 | -0.66                  |
-| Difference from placebo 1 (97.5% CI)                       |           | -0.74* (-0.90, -0.57) | -0.85* (-1.01, -0.69) | -0.73 (-0.88, -0.59) 3 |
-| N                                                          | 208       | 204                   | 202                   | 200                    |
-| Patients (%) achieving HbA1c <7% with baseline HbA1c ≥7% 2 | 12.0      | 35.3                  | 43.6                  | 37.5                   |
-| N                                                          | 228       | 224                   | 224                   | 223                    |
-| Body Weight (kg)                                           |           |                       |                       |                        |
-| Baseline (mean)                                            | 78.23     | 78.35                 | 77.80                 | 79.31                  |
-| Change from baseline 1                                     | -0.33     | -2.26                 | -2.48                 | 0.18                   |
-| Difference from placebo 1 (97.5% CI)                       |           | -1.93* (-2.48, -1.38) | -2.15* (-2.70,-1.60)  | 0.52 (-0.04, 1.00) 3   |
-| N                                                          | 228       | 224                   | 224                   | 223                    |
-| SBP (mmHg) 4                                               |           |                       |                       |                        |
-| Baseline (mean)                                            | 130.4     | 133.0                 | 129.9                 | 132.5                  |
-| Change from baseline 1                                     | -0.3      | -2.9                  | -3.7                  | 0.5                    |
-| Difference from placebo 1 (97.5% CI)                       |           | -2.6* (-5.2, -0.0)    | -3.4* (-6.0, -0.9)    | 0.8 (-1.4, 3.1) 3      |
+|                                                             |   Placebo | Jardiance             | Jardiance             | Sitagliptin            |
+|-------------------------------------------------------------|-----------|-----------------------|-----------------------|------------------------|
+|                                                             |           | 10 mg                 | 25 mg                 | 100 mg                 |
+| N                                                           |    228    | 224                   | 224                   | 223                    |
+| HbA1c (%)                                                   |           |                       |                       |                        |
+| Baseline (mean)                                             |      7.91 | 7.87                  | 7.86                  | 7.85                   |
+| Change from baseline 1                                      |      0.08 | -0.66                 | -0.78                 | -0.66                  |
+| Difference from placebo 1 (97.5% CI)                        |           | -0.74* (-0.90, -0.57) | -0.85* (-1.01, -0.69) | -0.73 (-0.88, -0.59) 3 |
+| N                                                           |    208    | 204                   | 202                   | 200                    |
+| Patients (%) achieving HbA1c < 7%with baseline HbA1c ≥ 7% 2 |     12    | 35.3                  | 43.6                  | 37.5                   |
+| N                                                           |    228    | 224                   | 224                   | 223                    |
+| Body Weight (kg)                                            |           |                       |                       |                        |
+| Baseline (mean)                                             |     78.23 | 78.35                 | 77.80                 | 79.31                  |
+| Change from baseline 1                                      |     -0.33 | -2.26                 | -2.48                 | 0.18                   |
+| Difference from placebo 1 (97.5% CI)                        |           | -1.93* (-2.48, -1.38) | -2.15* (-2.70, -1.60) | 0.52 (-0.04, 1.00) 3   |
+| N                                                           |    228    | 224                   | 224                   | 223                    |
+| SBP (mmHg) 4                                                |           |                       |                       |                        |
+| Baseline (mean)                                             |    130.4  | 133.0                 | 129.9                 | 132.5                  |
+| Change from baseline 1                                      |     -0.3  | -2.9                  | -3.7                  | 0.5                    |
+| Difference from placebo 1 (97.5% CI)                        |           | -2.6* (-5.2, -0.0)    | -3.4* (-6.0, -0.9)    | 0.8 (-1.4, 3.1) 3      |
 
-a Full analysis set (FAS) using last observation carried forward (LOCF) prior to glycaemic rescue therapy
+a Full analysis set (FAS) using last observation carried forward (LOCF) prior to glycaemic rescue therapy 1
 
-1 Mean adjusted for baseline value
+Mean adjusted for baseline value
 
-2 Not evaluated for statistical significance as a result of the sequential confirmatory testing procedure
-
-3  95% CI
+2 Not evaluated for statistical significance as a result of the sequential confirmatory testing procedure 3 95% CI
 
 4 LOCF, values after antihypertensive rescue censored
 
-*p-value &lt;0.0001
-
-<div style=\"page-break-after: always\"></div>
+* p-value &lt; 0.0001
 
 ## Combination therapy
 
 ## Empagliflozin as add-on to metformin, sulphonylurea, pioglitazone
 
-Empagliflozin as add-on to metformin, metformin and a sulphonylurea, or pioglitazone with or without metformin resulted in statistically significant (p&lt;0.0001) reductions in HbA1c and body weight compared to placebo (Table 3). In addition it resulted in a clinically meaningful reduction in FPG, systolic and diastolic blood pressure compared to placebo.
+Empagliflozin as add-on to metformin, metformin and a sulphonylurea, or pioglitazone with or without metformin resulted in statistically significant (p &lt; 0.0001) reductions in HbA1c and body weight compared to placebo (Table 3). In addition it resulted in a clinically meaningful reduction in FPG, systolic and diastolic blood pressure compared to placebo.
 
 In the double-blind placebo-controlled extension of these studies, reduction of HbA1c, body weight and blood pressure were sustained up to Week 76.
 
-Table 3:  Efficacy results of 24 week placebo-controlled studies a
+<div style=\"page-break-after: always\"></div>
 
-| Add-on to metformin therapy                                | Add-on to metformin therapy                     | Add-on to metformin therapy                     | Add-on to metformin therapy                     |
-|------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-|                                                            | Placebo                                         | Jardiance 10 mg                                 | 25 mg                                           |
-| N                                                          | 207                                             | 217                                             | 213                                             |
-| HbA1c (%)                                                  |                                                 |                                                 |                                                 |
-| Baseline (mean)                                            | 7.90                                            | 7.94                                            | 7.86                                            |
-| Change from baseline 1                                     | -0.13                                           | -0.70                                           | -0.77                                           |
-| Difference from placebo 1 (97.5% CI)                       |                                                 | -0.57* (-0.72, -0.42)                           | -0.64* (-0.79, -0.48)                           |
-| N                                                          | 184                                             | 199                                             | 191                                             |
-| Patients (%) achieving HbA1c <7% with baseline HbA1c ≥7% 2 | 12.5                                            | 37.7                                            | 38.7                                            |
-| N                                                          | 207                                             | 217                                             | 213                                             |
-| Body Weight (kg)                                           |                                                 |                                                 |                                                 |
-| Baseline (mean)                                            | 79.73                                           | 81.59                                           | 82.21                                           |
-| Change from baseline 1                                     | -0.45                                           | -2.08                                           | -2.46                                           |
-| Difference from placebo 1 (97.5% CI)                       |                                                 | -1.63* (-2.17, -1.08)                           | -2.01* (-2.56, -1.46)                           |
-| N                                                          | 207                                             | 217                                             | 213                                             |
-| SBP (mmHg) 2                                               |                                                 |                                                 |                                                 |
-| Baseline (mean)                                            | 128.6                                           | 129.6                                           | 130.0                                           |
-| Change from baseline 1                                     | -0.4                                            | -4.5                                            | -5.2                                            |
-| Difference from placebo 1 (95% CI)                         |                                                 | -4.1* (-6.2, -2.1)                              | -4.8* (-6.9, -2.7)                              |
-| Add-on to metformin and a sulphonylurea therapy            | Add-on to metformin and a sulphonylurea therapy | Add-on to metformin and a sulphonylurea therapy | Add-on to metformin and a sulphonylurea therapy |
-|                                                            | Placebo                                         | Jardiance 10 mg                                 | 25 mg                                           |
-| N                                                          | 225                                             | 225                                             | 216                                             |
-| HbA1c (%)                                                  |                                                 |                                                 |                                                 |
-| Baseline (mean)                                            | 8.15                                            | 8.07                                            | 8.10                                            |
-| Change from baseline 1                                     | -0.17                                           | -0.82                                           | -0.77                                           |
-| Difference from placebo 1 (97.5% CI)                       |                                                 | -0.64* (-0.79, -0.49)                           | -0.59* (-0.74, -0.44)                           |
-| N                                                          | 216                                             | 209                                             | 202                                             |
-| Patients (%) achieving HbA1c <7% with baseline HbA1c ≥7% 2 | 9.3                                             | 26.3                                            | 32.2                                            |
-| N                                                          | 225                                             | 225                                             | 216                                             |
-| Body Weight (kg)                                           |                                                 |                                                 |                                                 |
-| Baseline (mean)                                            | 76.23                                           | 77.08                                           | 77.50                                           |
-| Change from baseline 1                                     | -0.39                                           | -2.16                                           | -2.39                                           |
-| Difference from placebo 1 (97.5% CI)                       |                                                 | -1.76* (-2.25, -1.28)                           | -1.99* (-2.48, -1.50)                           |
-| N                                                          | 225                                             | 225                                             | 216                                             |
+Table 3: Efficacy results of 24 week placebo-controlled studies a
+
+|                                                             | Add-on to metformin therapy                     | Add-on to metformin therapy                     | Add-on to metformin therapy                     |
+|-------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+|                                                             | Placebo                                         | 10 mg                                           | 25 mg                                           |
+| N                                                           | 207                                             | 217                                             | 213                                             |
+| HbA1c (%)                                                   |                                                 |                                                 |                                                 |
+| Baseline (mean)                                             | 7.90                                            | 7.94                                            | 7.86                                            |
+| Change from baseline 1                                      | -0.13                                           | -0.70                                           | -0.77                                           |
+| Difference from placebo 1 CI)                               |                                                 | -0.57*                                          | -0.64*                                          |
+| (97.5%                                                      |                                                 | (-0.72, -0.42)                                  | (-0.79, -0.48)                                  |
+| N                                                           | 184                                             | 199                                             | 191                                             |
+| Patients (%) achieving HbA1c < 7%with baseline HbA1c ≥ 7% 2 | 12.5                                            | 37.7                                            | 38.7                                            |
+| N                                                           | 207                                             | 217                                             | 213                                             |
+| Body Weight (kg)                                            |                                                 |                                                 |                                                 |
+| Baseline (mean)                                             | 79.73                                           | 81.59                                           | 82.21                                           |
+| Change from baseline 1                                      | -0.45                                           | -2.08                                           | -2.46                                           |
+| Difference from placebo 1                                   |                                                 | -1.63*                                          | -2.01*                                          |
+| (97.5% CI)                                                  |                                                 | (-2.17, -1.08)                                  | (-2.56, -1.46)                                  |
+| N                                                           | 207                                             | 217                                             | 213                                             |
+| SBP (mmHg) 2                                                |                                                 |                                                 |                                                 |
+| Baseline (mean)                                             | 128.6                                           | 129.6                                           | 130.0                                           |
+| Change from baseline 1                                      | -0.4                                            | -4.5                                            | -5.2                                            |
+| Difference from placebo 1                                   |                                                 | -4.1*                                           | -4.8*                                           |
+| (95% CI)                                                    |                                                 | (-6.2, -2.1)                                    | (-6.9, -2.7)                                    |
+| Add-on to metformin and a sulphonylurea therapy             | Add-on to metformin and a sulphonylurea therapy | Add-on to metformin and a sulphonylurea therapy | Add-on to metformin and a sulphonylurea therapy |
+|                                                             | Placebo                                         | 10 mg                                           | 25 mg                                           |
+| N                                                           | 225                                             | 225                                             | 216                                             |
+| HbA1c (%)                                                   |                                                 |                                                 |                                                 |
+| Baseline (mean)                                             | 8.15                                            | 8.07                                            | 8.10                                            |
+| Change from baseline 1                                      | -0.17                                           | -0.82                                           | -0.77                                           |
+| Difference from placebo 1                                   |                                                 | -0.64*                                          | -0.59*                                          |
+| (97.5% CI)                                                  |                                                 | (-0.79, -0.49)                                  | (-0.74, -0.44)                                  |
+| N                                                           | 216                                             | 209                                             | 202                                             |
+| Patients (%) achieving HbA1c < 7%with baseline HbA1c ≥ 7% 2 | 9.3                                             | 26.3                                            | 32.2                                            |
+| N                                                           | 225                                             | 225                                             | 216                                             |
+| Body Weight (kg)                                            |                                                 |                                                 |                                                 |
+| Baseline (mean)                                             | 76.23                                           | 77.08                                           | 77.50                                           |
+| Change from baseline 1                                      | -0.39                                           | -2.16                                           | -2.39                                           |
+| Difference from placebo 1                                   |                                                 | -1.76*                                          | -1.99*                                          |
+| (97.5% CI)                                                  |                                                 | (-2.25, -1.28)                                  | (-2.48, -1.50)                                  |
+| N                                                           | 225                                             | 225                                             | 216                                             |
+| SBP (mmHg) 2                                                |                                                 |                                                 |                                                 |
+| Baseline (mean)                                             | 128.8                                           | 128.7                                           | 129.3                                           |
+| Change from baseline 1                                      | -1.4                                            | -4.1                                            | -3.5                                            |
+| Difference from placebo 1                                   |                                                 | -2.7                                            | -2.1                                            |
+| (95% CI)                                                    |                                                 | (-4.6, -0.8)                                    | (-4.0, -0.2)                                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| SBP (mmHg) 2                                               | SBP (mmHg) 2                                 | SBP (mmHg) 2                                 | SBP (mmHg) 2                                 |
-|------------------------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
-| Baseline (mean)                                            | 128.8                                        | 128.7                                        | 129.3                                        |
-| Change from baseline 1                                     | -1.4                                         | -4.1                                         | -3.5                                         |
-| Difference from placebo 1 (95% CI)                         |                                              | -2.7 (-4.6, -0.8)                            | -2.1 (-4.0, -0.2)                            |
-| Add-on to pioglitazone +/- metformin therapy               | Add-on to pioglitazone +/- metformin therapy | Add-on to pioglitazone +/- metformin therapy | Add-on to pioglitazone +/- metformin therapy |
-|                                                            | Placebo                                      | Jardiance                                    | Jardiance                                    |
-|                                                            |                                              | 10 mg                                        | 25 mg                                        |
-| N                                                          | 165                                          | 165                                          | 168                                          |
-| HbA1c (%)                                                  |                                              |                                              |                                              |
-| Baseline (mean)                                            | 8.16                                         | 8.07                                         | 8.06                                         |
-| Change from baseline 1                                     | -0.11                                        | -0.59                                        | -0.72                                        |
-| Difference from placebo 1 (97.5% CI)                       |                                              | -0.48* (-0.69, -0.27)                        | -0.61* (-0.82, -0.40)                        |
-| N                                                          | 155                                          | 151                                          | 160                                          |
-| Patients (%) achieving HbA1c <7% with baseline HbA1c ≥7% 2 | 7.7                                          | 24                                           | 30                                           |
-| N                                                          | 165                                          | 165                                          | 168                                          |
-| Body Weight (kg)                                           |                                              |                                              |                                              |
-| Baseline (mean)                                            | 78.1                                         | 77.97                                        | 78.93                                        |
-| Change from baseline 1                                     | 0.34                                         | -1.62                                        | -1.47                                        |
-| Difference from placebo 1 (97.5% CI)                       |                                              | -1.95* (-2.64, -1.27)                        | -1.81* (-2.49, -1.13)                        |
-| N                                                          | 165                                          | 165                                          | 168                                          |
-| SBP (mmHg) 3                                               |                                              |                                              |                                              |
-| Baseline (mean)                                            | 125.7                                        | 126.5                                        | 126                                          |
-| Change from baseline 1                                     | 0.7                                          | -3.1                                         | -4.0                                         |
-| Difference from placebo 1 (95% CI)                         |                                              | -3.9 (-6.23, -1.50)                          | -4.7 (-7.08, -2.37)                          |
+| Add-on to pioglitazone +/- metformin therapy                | Add-on to pioglitazone +/- metformin therapy   | Add-on to pioglitazone +/- metformin therapy   | Add-on to pioglitazone +/- metformin therapy   |
+|-------------------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
+|                                                             | Placebo                                        | Jardiance                                      | Jardiance                                      |
+|                                                             |                                                | 10 mg                                          | 25 mg                                          |
+| N                                                           | 165                                            | 165                                            | 168                                            |
+| HbA1c (%)                                                   |                                                |                                                |                                                |
+| Baseline (mean)                                             | 8.16                                           | 8.07                                           | 8.06                                           |
+| Change from baseline 1                                      | -0.11                                          | -0.59                                          | -0.72                                          |
+| Difference from placebo 1 (97.5% CI)                        |                                                | -0.48* (-0.69, -0.27)                          | -0.61* (-0.82, -0.40)                          |
+| N                                                           | 155                                            | 151                                            | 160                                            |
+| Patients (%) achieving HbA1c < 7%with baseline HbA1c ≥ 7% 2 | 7.7                                            | 24                                             | 30                                             |
+| N                                                           | 165                                            | 165                                            | 168                                            |
+| Body Weight (kg)                                            |                                                |                                                |                                                |
+| Baseline (mean)                                             | 78.1                                           | 77.97                                          | 78.93                                          |
+| Change from baseline 1                                      | 0.34                                           | -1.62                                          | -1.47                                          |
+| Difference from placebo 1 (97.5% CI)                        |                                                | -1.95* (-2.64, -1.27)                          | -1.81* (-2.49, -1.13)                          |
+| N                                                           | 165                                            | 165                                            | 168                                            |
+| SBP (mmHg) 3                                                |                                                |                                                |                                                |
+| Baseline (mean)                                             | 125.7                                          | 126.5                                          | 126                                            |
+| Change from baseline 1                                      | 0.7                                            | -3.1                                           | -4.0                                           |
+| Difference from placebo 1 (95% CI)                          |                                                | -3.9 (-6.23, -1.50)                            | -4.7 (-7.08, -2.37)                            |
 
 a Full analysis set (FAS) using last observation carried forward (LOCF) prior to glycaemic rescue therapy
 
@@ -595,167 +604,174 @@ a Full analysis set (FAS) using last observation carried forward (LOCF) prior to
 
 3 LOCF, values after antihypertensive rescue censored
 
-* p-value &lt;0.0001
+* p-value &lt; 0.0001
 
 ## In combination with metformin in drug-naïve patients
 
 A factorial design study of 24 weeks duration was conducted to evaluate the efficacy and safety of empagliflozin in drug-naïve patients. Treatment with empagliflozin in combination with metformin (5 mg and 500 mg; 5 mg and 1 000 mg; 12.5 mg and 500 mg, and 12.5 mg and 1 000 mg given twice daily) provided statistically significant improvements in HbA1c (Table 4) and led to greater reductions in FPG (compared to the individual components) and body weight (compared to metformin).
 
+Table 4: Efficacy results at 24 week comparing empagliflozin in combination with metformin to the
+
 <div style=\"page-break-after: always\"></div>
 
-Table 4:  Efficacy results at 24 week comparing empagliflozin in combination with metformin to the individual components a
+## individual components a
 
-|                                | Empagliflozin 10 mg b   | Empagliflozin 10 mg b   | Empagliflozin 10 mg b   | Empagliflozin 25 mg b   | Empagliflozin 25 mg b   | Empagliflozin 25 mg b   | Metformin c   | Metformin c   |
-|--------------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|---------------|---------------|
-|                                | + Met 1 000 mg c        | + Met 2 000 mg c        | No Met                  | + Met 1 000 mg c        | + Met 2 000 mg c        | No Met                  | 1 000 mg      | 2 000 mg      |
-| N                              | 161                     | 167                     | 169                     | 165                     | 169                     | 163                     | 167           | 162           |
-| HbA1c (%)                      |                         |                         |                         |                         |                         |                         |               |               |
-| Baseline (mean)                | 8.68                    | 8.65                    | 8.62                    | 8.84                    | 8.66                    | 8.86                    | 8.69          | 8.55          |
-| Change from baseline 1         | -1.98                   | -2.07                   | -1.35                   | -1.93                   | -2.08                   | -1.36                   | -1.18         | -1.75         |
-| Comparison vs. empa (95% CI) 1 | -0.63* (-0.86, -0.40)   | -0.72* (-0.96, -0.49)   |                         | -0.57* (-0.81, -0.34)   | -0.72* (-0.95, -0.48)   |                         |               |               |
-| Comparison vs. met (95% CI) 1  | -0.79* (-1.03, -0.56)   | -0.33* (-0.56, -0.09)   |                         | -0.75* (-0.98 -0.51)    | -0.33* (-0.56, -0.10)   |                         |               |               |
+|                                 | Empagliflozin 10 mg b   | Empagliflozin 10 mg b   | Empagliflozin 10 mg b   | Empagliflozin 25 mg b   | Empagliflozin 25 mg b   | Empagliflozin 25 mg b   | Metformin c   | Metformin c   |
+|---------------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|---------------|---------------|
+|                                 | + Met 1 000 mg c        | + Met 2 000 mg c        | No Met                  | + Met 1 000 mg c        | + Met 2 000 mg c        | No Met                  | 1 000m g      | 2 000m g      |
+| N                               | 161                     | 167                     | 169                     | 165                     | 169                     | 163                     | 167           | 162           |
+| HbA1c (%)                       |                         |                         |                         |                         |                         |                         |               |               |
+| Baseline (mean)                 | 8.68                    | 8.65                    | 8.62                    | 8.84                    | 8.66                    | 8.86                    | 8.69          | 8.55          |
+| Change from baseline 1          | -1.98                   | -2.07                   | -1.3 5                  | -1.93                   | -2.08                   | -1.3 6                  | -1.18         | -1.75         |
+| Compariso n vs. empa (95% CI) 1 | -0.63* (-0.86, -0.40)   | -0.72* (-0.96, -0.49)   |                         | -0.57* (-0.81, -0.34)   | -0.72* (-0.95, -0.48)   |                         |               |               |
+| Compariso n vs. met (95% CI) 1  | -0.79* (-1.03, -0.56)   | -0.33* (-0.56, -0.09)   |                         | -0.75* (-0.98 -0.51)    | -0.33* (-0.56, -0.10)   |                         |               |               |
 
 Met = metformin; empa = empagliflozin
 
-1 mean adjusted for baseline value
-
-a Analyses were performed on the full analysis set (FAS) using an observed cases (OC) approach
-
-b Given in two equally divided doses per day when given together with metformin
-
-c Given in two equally divided doses per day
-
-*p≤0.0062 for HbA1c
+- 1 mean adjusted for baseline value
+- a Analyses were performed on the full analysis set (FAS) using an observed cases (OC) approach
+- b Given in two equally divided doses per day when given together with metformin
+- c Given in two equally divided doses per day
+* p ≤ 0.0062 for HbA1c
 
 ## Empagliflozin in patients inadequately controlled with metformin and linagliptin
 
-In patients inadequately controlled with metformin and linagliptin 5 mg, treatment with both empagliflozin 10 mg or 25 mg resulted in statistically significant (p&lt;0.0001) reductions in HbA1c and body weight compared to placebo (Table 5). In addition it resulted in clinically meaningful reductions in FPG, systolic and diastolic blood pressure compared to placebo.
+In patients inadequately controlled with metformin and linagliptin 5 mg, treatment with both empagliflozin 10 mg or 25 mg resulted in statistically significant (p &lt; 0.0001) reductions in HbA1c and body weight compared to placebo (Table 5). In addition it resulted in clinically meaningful reductions in FPG, systolic and diastolic blood pressure compared to placebo.
+
+Table 5: Efficacy results of a 24 week placebo-controlled study in patients inadequately controlled
 
 <div style=\"page-break-after: always\"></div>
 
-Table 5:  Efficacy results of a 24 week placebo-controlled study in patients inadequately controlled with metformin and linagliptin 5 mg
+with metformin and linagliptin 5 mg
 
-| Add-on to metformin and linagliptin 5 mg                   | Add-on to metformin and linagliptin 5 mg   | Add-on to metformin and linagliptin 5 mg   | Add-on to metformin and linagliptin 5 mg   |
-|------------------------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|
-|                                                            | Placebo 5                                  | Empagliflozin 6                            | Empagliflozin 6                            |
-|                                                            |                                            | 10 mg                                      | 25 mg                                      |
-| N                                                          | 106                                        | 109                                        | 110                                        |
-| HbA1c (%) 3                                                |                                            |                                            |                                            |
-| Baseline (mean)                                            | 7.96                                       | 7.97                                       | 7.97                                       |
-| Change from baseline 1                                     | 0.14                                       | -0.65                                      | -0.56                                      |
-| Difference from placebo (95% CI)                           |                                            | -0.79* (-1.02, -0.55)                      | -0.70* (-0.93, -0.46)                      |
-| N                                                          | 100                                        | 100                                        | 107                                        |
-| Patients (%) achieving HbA1c <7% with baseline HbA1c ≥7% 2 | 17.0                                       | 37.0                                       | 32.7                                       |
-| N                                                          | 106                                        | 109                                        | 110                                        |
-| Body Weight (kg) 3                                         |                                            |                                            |                                            |
-| Baseline (mean)                                            | 82.3                                       | 88.4                                       | 84.4                                       |
-| Change from baseline 1                                     | -0.3                                       | -3.1                                       | -2.5                                       |
-| Difference from placebo (95% CI)                           |                                            | -2.8* (-3.5, -2.1)                         | -2.2* (-2.9, -1.5)                         |
-| N                                                          | 106                                        | 109                                        | 110                                        |
-| SBP (mmHg) 4                                               |                                            |                                            |                                            |
-| Baseline (mean)                                            | 130.1                                      | 130.4                                      | 131.0                                      |
-| Change from baseline 1                                     | -1.7                                       | -3.0                                       | -4.3                                       |
-| Difference from placebo (95% CI)                           |                                            | -1.3 (-4.2, 1.7)                           | -2.6 (-5.5, 0.4)                           |
+| Add-on to metformin and linagliptin 5 mg                    | Add-on to metformin and linagliptin 5 mg   | Add-on to metformin and linagliptin 5 mg   | Add-on to metformin and linagliptin 5 mg   |
+|-------------------------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|
+|                                                             | Placebo 5                                  | Empagliflozin 6                            | Empagliflozin 6                            |
+|                                                             |                                            | 10 mg                                      | 25 mg                                      |
+| N                                                           | 106                                        | 109                                        | 110                                        |
+| HbA1c (%) 3                                                 |                                            |                                            |                                            |
+| Baseline (mean)                                             | 7.96                                       | 7.97                                       | 7.97                                       |
+| Change from baseline 1                                      | 0.14                                       | -0.65                                      | -0.56                                      |
+| Difference from placebo (95% CI)                            |                                            | -0.79* (-1.02, -0.55)                      | -0.70* (-0.93, -0.46)                      |
+| N                                                           | 100                                        | 100                                        | 107                                        |
+| Patients (%) achieving HbA1c < 7%with baseline HbA1c ≥ 7% 2 | 17.0                                       | 37.0                                       | 32.7                                       |
+| N                                                           | 106                                        | 109                                        | 110                                        |
+| Body Weight (kg) 3                                          |                                            |                                            |                                            |
+| Baseline (mean)                                             | 82.3                                       | 88.4                                       | 84.4                                       |
+| Change from baseline 1                                      | -0.3                                       | -3.1                                       | -2.5                                       |
+| Difference from placebo (95% CI)                            |                                            | -2.8* (-3.5, -2.1)                         | -2.2* (-2.9, -1.5)                         |
+| N                                                           | 106                                        | 109                                        | 110                                        |
+| SBP (mmHg) 4                                                |                                            |                                            |                                            |
+| Baseline (mean)                                             | 130.1                                      | 130.4                                      | 131.0                                      |
+| Change from baseline 1                                      | -1.7                                       | -3.0                                       | -4.3                                       |
+| Difference from placebo (95% CI)                            |                                            | -1.3 (-4.2, 1.7)                           | -2.6 (-5.5, 0.4)                           |
 
 1 Mean adjusted for baseline value
 
 2 Not evaluated for statistical significance; not part of sequential testing procedure for the secondary endpoints
 
-3  MMRM model on FAS (OC) included baseline HbA1c, baseline eGFR (MDRD), geographical region, visit, treatment, and treatment by visit interaction. For weight, baseline weight was included.
+3 MMRM model on FAS (OC) included baseline HbA1c, baseline eGFR (MDRD), geographical region, visit, treatment, and treatment by visit interaction. For weight, baseline weight was included.
 
-4  MMRM model included baseline SBP and baseline HbA1c as linear covariate(s), and baseline eGFR, geographical region, treatment, visit, and visit by treatment interaction as fixed effects.
+4 MMRM model included baseline SBP and baseline HbA1c as linear covariate(s), and baseline eGFR, geographical region, treatment, visit, and visit by treatment interaction as fixed effects.
 
 5 Patients randomised to the placebo group were receiving the placebo plus linagliptin 5 mg with background metformin
 
 6 Patients randomised to the empagliflozin 10 mg or 25 mg groups were receiving empagliflozin 10 mg or 25 mg and linagliptin 5 mg with background metformin
 
-* p-value &lt;0.0001
+* p-value &lt; 0.0001
 
-In a pre-specified subgroup of patients with baseline HbA1c greater or equal than 8.5% the reduction from baseline in HbA1c was -1.3% with empagliflozin 10 mg or 25 mg at 24 weeks (p&lt;0.0001) compared to placebo.
+In a pre-specified subgroup of patients with baseline HbA1c greater or equal than 8.5% the reduction from baseline in HbA1c was -1.3% with empagliflozin 10 mg or 25 mg at 24 weeks (p &lt; 0.0001) compared to placebo.
 
 ## Empagliflozin 24 months data, as add-on to metformin in comparison to glimepiride
 
-In a study comparing the efficacy and safety of empagliflozin 25 mg versus glimepiride (up to 4 mg per day) in patients with inadequate glycaemic control on metformin alone, treatment with empagliflozin daily resulted in superior reduction in HbA1c (Table 6), and a clinically meaningful reduction in FPG, compared to glimepiride. Empagliflozin daily resulted in a statistically significant reduction in body weight, systolic and diastolic blood pressure and a statistically significantly lower proportion of patients with hypoglycaemic events compared to glimepiride (2.5% for empagliflozin, 24.2% for glimepiride, p&lt;0.0001).
+In a study comparing the efficacy and safety of empagliflozin 25 mg versus glimepiride (up to 4 mg per day) in patients with inadequate glycaemic control on metformin alone, treatment with empagliflozin daily resulted in superior reduction in HbA1c (Table 6), and a clinically meaningful reduction in FPG, compared to glimepiride. Empagliflozin daily resulted in a statistically significant reduction in body weight, systolic and diastolic blood pressure and a statistically significantly lower proportion of patients with hypoglycaemic events compared to glimepiride (2.5% for empagliflozin, 24.2% for glimepiride, p &lt; 0.0001).
+
+Table 6: Efficacy results at 104 week in an active controlled study comparing empagliflozin to glimepiride as add-on to metformin a
+
+|                 |   Empagliflozin 25 mg |   Glimepiride b |
+|-----------------|-----------------------|-----------------|
+| N               |                765    |          780    |
+| HbA1c (%)       |                       |                 |
+| Baseline (mean) |                  7.92 |            7.92 |
 
 <div style=\"page-break-after: always\"></div>
 
-Table 6:  Efficacy results at 104 week in an active controlled study comparing empagliflozin to glimepiride as add-on to metformin a
-
-|                                                            | Empagliflozin 25 mg    | Glimepiride b   |
-|------------------------------------------------------------|------------------------|-----------------|
-| N                                                          | 765                    | 780             |
-| HbA1c (%)                                                  |                        |                 |
-| Baseline (mean)                                            | 7.92                   | 7.92            |
-| Change from baseline 1                                     | -0.66                  | -0.55           |
-| Difference from glimepiride 1 (97.5% CI)                   | -0.11* (-0.20, -0.01)  |                 |
-| N                                                          | 690                    | 715             |
-| Patients (%) achieving HbA1c <7% with baseline HbA1c ≥7% 2 | 33.6                   | 30.9            |
-| N                                                          | 765                    | 780             |
-| Body Weight (kg)                                           |                        |                 |
-| Baseline (mean)                                            | 82.52                  | 83.03           |
-| Change from baseline 1                                     | -3.12                  | 1.34            |
-| Difference from glimepiride 1 (97.5% CI)                   | -4.46** (-4.87, -4.05) |                 |
-| N                                                          | 765                    | 780             |
-| SBP (mmHg) 2                                               |                        |                 |
-| Baseline (mean)                                            | 133.4                  | 133.5           |
-| Change from baseline 1                                     | -3.1                   | 2.5             |
-| Difference from glimepiride 1 (97.5% CI)                   | -5.6** (-7.0,-4.2)     |                 |
+| Change from baseline 1                                      | -0.66                  |   -0.55 |
+|-------------------------------------------------------------|------------------------|---------|
+| Difference from glimepiride 1 (97.5% CI)                    | -0.11* (-0.20, -0.01)  |         |
+| N                                                           | 690                    |  715    |
+| Patients (%) achieving HbA1c < 7%with baseline HbA1c ≥ 7% 2 | 33.6                   |   30.9  |
+| N                                                           | 765                    |  780    |
+| Body Weight (kg)                                            |                        |         |
+| Baseline (mean)                                             | 82.52                  |   83.03 |
+| Change from baseline 1                                      | -3.12                  |    1.34 |
+| Difference from glimepiride 1 (97.5% CI)                    | -4.46** (-4.87, -4.05) |         |
+| N                                                           | 765                    |  780    |
+| SBP (mmHg) 2                                                |                        |         |
+| Baseline (mean)                                             | 133.4                  |  133.5  |
+| Change from baseline 1                                      | -3.1                   |    2.5  |
+| Difference from glimepiride 1 (97.5% CI)                    | -5.6** (-7.0,-4.2)     |         |
 
 a Full analysis set (FAS) using last observation carried forward (LOCF) prior to glycaemic rescue therapy
 
 b Up to 4 mg glimepiride
 
-- 1 Mean adjusted for baseline value
-- 2 LOCF, values after antihypertensive rescue censored
-* p-value &lt;0.0001 for non-inferiority, and p-value = 0.0153 for superiority
+1 Mean adjusted for baseline value
 
-** p-value &lt;0.0001
+2 LOCF, values after antihypertensive rescue censored
+
+* p-value &lt; 0.0001 for non-inferiority, and p-value = 0.0153 for superiority
+
+** p-value &lt; 0.0001
 
 ## Add-on to insulin therapy
 
-Empagliflozin as add-on to multiple daily insulin
+## Empagliflozin as add-on to multiple daily insulin
 
-The efficacy and safety of empagliflozin as add-on to multiple daily insulin with or without concomitant metformin therapy was evaluated in a double-blind, placebo-controlled trial of 52 weeks duration. During the initial 18 weeks and the last 12 weeks, the insulin dose was kept stable, but was adjusted to achieve pre-prandial glucose levels &lt;100 mg/dl [5.5 mmol/l], and post-prandial glucose levels &lt;140 mg/dl [7.8 mmol/l] between Weeks 19 and 40.
+The efficacy and safety of empagliflozin as add-on to multiple daily insulin with or without concomitant metformin therapy was evaluated in a double-blind, placebo-controlled trial of 52 weeks duration. During the initial 18 weeks and the last 12 weeks, the insulin dose was kept stable, but was adjusted to achieve pre-prandial glucose levels &lt; 100 mg/dL [5.5 mmol/L], and post-prandial glucose levels &lt; 140 mg/dL [7.8 mmol/L] between Weeks 19 and 40.
 
 At Week 18, empagliflozin provided statistically significant improvement in HbA1c compared with placebo (Table 7).
 
 At Week 52, treatment with empagliflozin resulted in a statistically significant decrease in HbA1c and insulin sparing compared with placebo and a reduction in FPG and body weight.
 
+Table 7: Efficacy results at 18 and 52 weeks in a placebo-controlled study of empagliflozin as add on to multiple daily doses of insulin with or without metformin
+
+|                                       |   Placebo | Jardiance               | Jardiance             |
+|---------------------------------------|-----------|-------------------------|-----------------------|
+|                                       |           | 10 mg                   | 25 mg                 |
+| N                                     |    188    | 186                     | 189                   |
+| HbA1c (%) at week 18                  |           |                         |                       |
+| Baseline (mean)                       |      8.33 | 8.39                    | 8.29                  |
+| Change from baseline 1                |     -0.5  | -0.94                   | -1.02                 |
+| Difference from placebo 1 (97.5% CI)  |           | -0.44* (-0.61, -0.27)   | -0.52* (-0.69, -0.35) |
+| N                                     |    115    | 119                     | 118                   |
+| HbA1c (%) at week 52 2                |           |                         |                       |
+| Baseline (mean)                       |      8.25 | 8.40                    | 8.37                  |
+| Change from baseline 1                |     -0.81 | -1.18                   | -1.27                 |
+| Difference from placebo 1 (97.5% CI)  |           | -0.38*** (-0.62, -0.13) | -0.46* (-0.70, -0.22) |
+| N                                     |    113    | 118                     | 118                   |
+| Patients (%) achieving HbA1c < 7%with |     26.5  | 39.8                    | 45.8                  |
+
 <div style=\"page-break-after: always\"></div>
 
-Table 7:  Efficacy results at 18 and 52 weeks in a placebo-controlled study of empagliflozin as add on to multiple daily doses of insulin with or without metformin
+| baseline HbA1c ≥ 7% at week 52       |        |                         |                          |
+|--------------------------------------|--------|-------------------------|--------------------------|
+| N                                    | 115    | 118                     | 117                      |
+| Insulin dose (IU/day) at week 52 2   |        |                         |                          |
+| Baseline (mean)                      |  89.94 | 88.57                   | 90.38                    |
+| Change from baseline 1               |  10.16 | 1.33                    | -1.06                    |
+| Difference from placebo 1 (97.5% CI) |        | -8.83 # (-15.69, -1.97) | -11.22** (-18.09, -4.36) |
+| N                                    | 115    | 119                     | 118                      |
+| Body Weight (kg) at week 52 2        |        |                         |                          |
+| Baseline (mean)                      |  96.34 | 96.47                   | 95.37                    |
+| Change from baseline 1               |   0.44 | -1.95                   | -2.04                    |
+| Difference from placebo 1 (97.5% CI) |        | -2.39* (-3.54, -1.24)   | -2.48* (-3.63, -1.33)    |
 
 1 Mean adjusted for baseline value
 
-|                                                                     | Placebo   | Jardiance               | Jardiance                |
-|---------------------------------------------------------------------|-----------|-------------------------|--------------------------|
-|                                                                     |           | 10 mg                   | 25 mg                    |
-| N                                                                   | 188       | 186                     | 189                      |
-| HbA1c (%) at week 18                                                |           |                         |                          |
-| Baseline (mean)                                                     | 8.33      | 8.39                    | 8.29                     |
-| Change from baseline 1                                              | -0.50     | -0.94                   | -1.02                    |
-| Difference from placebo 1 (97.5% CI)                                |           | -0.44* (-0.61, -0.27)   | -0.52* (-0.69, -0.35)    |
-| N                                                                   | 115       | 119                     | 118                      |
-| HbA1c (%) at week 52 2                                              |           |                         |                          |
-| Baseline (mean)                                                     | 8.25      | 8.40                    | 8.37                     |
-| Change from baseline 1                                              | -0.81     | -1.18                   | -1.27                    |
-| Difference from placebo 1 (97.5% CI)                                |           | -0.38*** (-0.62, -0.13) | -0.46* (-0.70, -0.22)    |
-| N                                                                   | 113       | 118                     | 118                      |
-| Patients (%) achieving HbA1c <7% with baseline HbA1c ≥7% at week 52 | 26.5      | 39.8                    | 45.8                     |
-| N                                                                   | 115       | 118                     | 117                      |
-| Insulin dose (IU/day) at week 52 2                                  |           |                         |                          |
-| Baseline (mean)                                                     | 89.94     | 88.57                   | 90.38                    |
-| Change from baseline 1                                              | 10.16     | 1.33                    | -1.06                    |
-| Difference from placebo 1 (97.5% CI)                                |           | -8.83 # (-15.69, -1.97) | -11.22** (-18.09, -4.36) |
-| N                                                                   | 115       | 119                     | 118                      |
-| Body Weight (kg) at week 52 2                                       |           |                         |                          |
-| Baseline (mean)                                                     | 96.34     | 96.47                   | 95.37                    |
-| Change from baseline 1                                              | 0.44      | -1.95                   | -2.04                    |
-| Difference from placebo 1 (97.5% CI)                                |           | -2.39* (-3.54, -1.24)   | -2.48* (-3.63, -1.33)    |
+2 Week 19-40: treat-to-target regimen for insulin dose adjustment to achieve predefined glucose target levels (pre-prandial &lt; 100 mg/dL (5.5 mmol/L), post-prandial &lt; 140 mg/dL (7.8 mmol/L)
 
-2 Week 19-40: treat-to-target regimen for insulin dose adjustment to achieve predefined glucose target levels (pre-prandial &lt;100 mg/dl (5.5 mmol/l), post-prandial &lt;140 mg/dl (7.8 mmol/l)
-
-* p-value &lt;0.0001
+* p-value &lt; 0.0001
 
 ** p-value = 0.0003
 
@@ -765,88 +781,94 @@ Table 7:  Efficacy results at 18 and 52 weeks in a placebo-controlled study of e
 
 ## Empagliflozin as add-on to basal insulin
 
-The efficacy and safety of empagliflozin as add-on to basal insulin with or without metformin and/or a sulphonylurea was evaluated in a double-blind, placebo-controlled trial of 78 weeks duration. During the initial 18 weeks the insulin dose was kept stable, but was adjusted to achieve a FPG &lt;110 mg/dl in the following 60 weeks.
+The efficacy and safety of empagliflozin as add-on to basal insulin with or without metformin and/or a sulphonylurea was evaluated in a double-blind, placebo-controlled trial of 78 weeks duration. During the initial 18 weeks the insulin dose was kept stable, but was adjusted to achieve a FPG &lt; 110 mg/dL in the following 60 weeks.
 
 At week 18, empagliflozin provided statistically significant improvement in HbA1c (Table 8). At 78 weeks, empagliflozin resulted in a statistically significant decrease in HbA1c and insulin sparing compared to placebo. Furthermore, empagliflozin resulted in a reduction in FPG, body weight, and blood pressure.
 
+Table 8: Efficacy results at 18 and 78 weeks in a placebo-controlled study of empagliflozin as
+
 <div style=\"page-break-after: always\"></div>
 
-Table 8:  Efficacy results at 18 and 78 weeks in a placebo-controlled study of empagliflozin as add-on to basal insulin with or without metformin or a sulphonylurea a
+add-on to basal insulin with or without metformin or a sulphonylurea a
 
-|                                        | Placebo   | Empagliflozin 10 mg     | Empagliflozin 25 mg     |
+|                                        |   Placebo | Empagliflozin 10 mg     | Empagliflozin 25 mg     |
 |----------------------------------------|-----------|-------------------------|-------------------------|
-| N                                      | 125       | 132                     | 117                     |
+| N                                      |    125    | 132                     | 117                     |
 | HbA1c (%) at week 18                   |           |                         |                         |
-| Baseline (mean)                        | 8.10      | 8.26                    | 8.34                    |
-| Change from baseline 1                 | -0.01     | -0.57                   | -0.71                   |
+| Baseline (mean)                        |      8.1  | 8.26                    | 8.34                    |
+| Change from baseline 1                 |     -0.01 | -0.57                   | -0.71                   |
 | Difference from placebo 1 (97.5% CI)   |           | -0.56* (-0.78, -0.33)   | -0.70* (-0.93, -0.47)   |
-| N                                      | 112       | 127                     | 110                     |
+| N                                      |    112    | 127                     | 110                     |
 | HbA1c (%) at week 78                   |           |                         |                         |
-| Baseline (mean)                        | 8.09      | 8.27                    | 8.29                    |
-| Change from baseline 1                 | -0.02     | -0.48                   | -0.64                   |
+| Baseline (mean)                        |      8.09 | 8.27                    | 8.29                    |
+| Change from baseline 1                 |     -0.02 | -0.48                   | -0.64                   |
 | Difference from placebo 1 (97.5% CI)   |           | -0.46* (-0.73, -0.19)   | -0.62* (-0.90, -0.34)   |
-| N                                      | 112       | 127                     | 110                     |
+| N                                      |    112    | 127                     | 110                     |
 | Basal insulin dose (IU/day) at week 78 |           |                         |                         |
-| Baseline (mean)                        | 47.84     | 45.13                   | 48.43                   |
-| Change from baseline 1                 | 5.45      | -1.21                   | -0.47                   |
+| Baseline (mean)                        |     47.84 | 45.13                   | 48.43                   |
+| Change from baseline 1                 |      5.45 | -1.21                   | -0.47                   |
 | Difference from placebo 1 (97.5% CI)   |           | -6.66** (-11.56, -1.77) | -5.92** (-11.00, -0.85) |
 
 a Full analysis set (FAS) - Completers using last observation carried forward (LOCF) prior to glycaemic rescue therapy
 
 1 mean adjusted for baseline value
 
-* p-value &lt;0.0001
+* p-value &lt; 0.0001
 
-** p-value &lt;0.025
+**  p-value &lt; 0.025
 
 ## Patients with renal impairment, 52 week placebo controlled data
 
 The efficacy and safety of empagliflozin as add-on to antidiabetic therapy was evaluated in patients with renal impairment in a double-blind, placebo-controlled study for 52 weeks. Treatment with empagliflozin led to a statistically significant reduction of HbA1c (Table 9) and clinically meaningful improvement in FPG compared to placebo at Week 24. The improvement in HbA1c, body weight, and blood pressure was sustained up to 52 weeks.
 
+Table 9: Results at 24 week in a placebo-controlled study of empagliflozin in renally impaired type 2 diabetes patients a
+
+|                                                            | Placebo                          | Empagliflozin 10 mg              | Empagliflozin 25 mg              | Placebo                          | Empagliflozin 25 mg              |
+|------------------------------------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
+|                                                            | eGFR ≥ 60 to < 90 mL/min/1.73m 2 | eGFR ≥ 60 to < 90 mL/min/1.73m 2 | eGFR ≥ 60 to < 90 mL/min/1.73m 2 | eGFR ≥ 30 to < 60 mL/min/1.73m 2 | eGFR ≥ 30 to < 60 mL/min/1.73m 2 |
+| N                                                          | 95                               | 98                               | 97                               | 187                              | 187                              |
+| HbA1c (%)                                                  |                                  |                                  |                                  |                                  |                                  |
+| Baseline (mean)                                            | 8.09                             | 8.02                             | 7.96                             | 8.04                             | 8.03                             |
+| Change from baseline 1                                     | 0.06                             | -0.46                            | -0.63                            | 0.05                             | -0.37                            |
+| Difference from placebo 1 (95% CI)                         |                                  | -0.52* (-0.72, -0.32)            | -0.68* (-0.88, -0.49)            |                                  | -0.42* (-0.56, -0.28)            |
+| N                                                          | 89                               | 94                               | 91                               | 178                              | 175                              |
+| Patients (%) achieving HbA1c <7%with baseline HbA1c ≥ 7% 2 | 6.7                              | 17.0                             | 24.2                             | 7.9                              | 12.0                             |
+| N                                                          | 95                               | 98                               | 97                               | 187                              | 187                              |
+| Body Weight (kg) 2                                         |                                  |                                  |                                  |                                  |                                  |
+| Baseline (mean)                                            | 86.00                            | 92.05                            | 88.06                            | 82.49                            | 83.22                            |
+
 <div style=\"page-break-after: always\"></div>
 
-Table 9:  Results at 24 week in a placebo-controlled study of empagliflozin in renally impaired type 2 diabetes patients a
-
-|                                                            | Placebo                        | Empagliflozin 10 mg            | Empagliflozin 25 mg            | Placebo                        | Empagliflozin 25 mg            |
-|------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
-|                                                            | eGFR ≥60 to <90 ml/min/1.73 m² | eGFR ≥60 to <90 ml/min/1.73 m² | eGFR ≥60 to <90 ml/min/1.73 m² | eGFR ≥30 to <60 ml/min/1.73 m² | eGFR ≥30 to <60 ml/min/1.73 m² |
-| N                                                          | 95                             | 98                             | 97                             | 187                            | 187                            |
-| HbA1c (%)                                                  |                                |                                |                                |                                |                                |
-| Baseline (mean)                                            | 8.09                           | 8.02                           | 7.96                           | 8.04                           | 8.03                           |
-| Change from baseline 1                                     | 0.06                           | -0.46                          | -0.63                          | 0.05                           | -0.37                          |
-| Difference from placebo 1 (95% CI)                         |                                | -0.52* (-0.72, -0.32)          | -0.68* (-0.88, -0.49)          |                                | -0.42* (-0.56, -0.28)          |
-| N                                                          | 89                             | 94                             | 91                             | 178                            | 175                            |
-| Patients (%) achieving HbA1c <7% with baseline HbA1c ≥7% 2 | 6.7                            | 17.0                           | 24.2                           | 7.9                            | 12.0                           |
-| N                                                          | 95                             | 98                             | 97                             | 187                            | 187                            |
-| Body Weight (kg) 2                                         |                                |                                |                                |                                |                                |
-| Baseline (mean)                                            | 86.00                          | 92.05                          | 88.06                          | 82.49                          | 83.22                          |
-| Change from baseline 1                                     | -0.33                          | -1.76                          | -2.33                          | -0.08                          | -0.98                          |
-| Difference from placebo 1 (95% CI)                         |                                | -1.43 (-2.09, -0.77)           | -2.00 (-2.66, -1.34)           |                                | -0.91 (-1.41, -0.41)           |
-| N                                                          | 95                             | 98                             | 97                             | 187                            | 187                            |
-| SBP (mmHg) 2                                               |                                |                                |                                |                                |                                |
-| Baseline (mean)                                            | 134.69                         | 137.37                         | 133.68                         | 136.38                         | 136.64                         |
-| Change from baseline 1                                     | 0.65                           | -2.92                          | -4.47                          | 0.40                           | -3.88                          |
-| Difference from placebo 1 (95% CI)                         |                                | -3.57 (-6.86, -0.29)           | -5.12 (-8.41, -1.82)           |                                | -4.28 (-6.88, -1.68)           |
+| Change from baseline 1             | -0.33        | -1.76                | -2.33                | -0.08        | -0.98                |
+|------------------------------------|--------------|----------------------|----------------------|--------------|----------------------|
+| Difference from placebo 1 (95% CI) |              | -1.43 (-2.09, -0.77) | -2.00 (-2.66, -1.34) |              | -0.91 (-1.41, -0.41) |
+| N                                  | 95           | 98                   | 97                   | 187          | 187                  |
+| SBP (mmHg) 2                       | SBP (mmHg) 2 | SBP (mmHg) 2         | SBP (mmHg) 2         | SBP (mmHg) 2 | SBP (mmHg) 2         |
+| Baseline (mean)                    | 134.69       | 137.37               | 133.68               | 136.38       | 136.64               |
+| Change from baseline 1             | 0.65         | -2.92                | -4.47                | 0.40         | -3.88                |
+| Difference from placebo 1 (95% CI) |              | -3.57 (-6.86, -0.29) | -5.12 (-8.41, -1.82) |              | -4.28 (-6.88, -1.68) |
 
 a Full analysis set (FAS) using last observation carried forward (LOCF) prior to glycaemic rescue therapy
 
 1 Mean adjusted for baseline value
 
-2 Not evaluated for statistical significance as a result of the sequential confirmatory testing procedure * p&lt;0.0001
+2 Not evaluated for statistical significance as a result of the sequential confirmatory testing procedure
+
+* p &lt; 0.0001
 
 ## Cardiovascular outcome
 
-The double-blind, placebo-controlled EMPA-REG OUTCOME study compared pooled doses of empagliflozin 10 mg and 25 mg with placebo as adjunct to standard care therapy in patients with type 2 diabetes and established cardiovascular disease. A total of 7 020 patients were treated (empagliflozin 10 mg: 2 345, empagliflozin 25 mg: 2 342, placebo: 2 333) and followed for a median of 3.1 years. The mean age was 63 years, the mean HbA1c was 8.1%, and 71.5% were male. At baseline, 74% of patients were being treated with metformin, 48% with insulin, and 43% with a sulphonylurea. About half of the patients (52.2%) had an eGFR of 60-90 ml/min/1.73 m 2 , 17.8% of 45-60 ml/min/1.73 m 2  and 7.7% of 30-45 ml/min/1.73 m 2 .
+The double-blind, placebo-controlled EMPA-REG OUTCOME study compared pooled doses of empagliflozin 10 mg and 25 mg with placebo as adjunct to standard care therapy in patients with type 2 diabetes and established cardiovascular disease. A total of 7 020 patients were treated (empagliflozin 10 mg: 2 345, empagliflozin 25 mg: 2 342, placebo: 2 333) and followed for a median of 3.1 years. The mean age was 63 years, the mean HbA1c was 8.1%, and 71.5% were male. At baseline, 74% of patients were being treated with metformin, 48% with insulin, and 43% with a sulphonylurea. About half of the patients (52.2%) had an eGFR of 60-90 mL/min/1.73 m 2 , 17.8% of 45-60 mL/min/1.73 m 2  and 7.7% of 30-45 mL/min/1.73 m 2 .
 
 At week 12, an adjusted mean (SE) improvement in HbA1c when compared to baseline of 0.11% (0.02) in the placebo group, 0.65% (0.02) and 0.71% (0.02) in the empagliflozin 10 and 25 mg groups was observed. After the first 12 weeks glycaemic control was optimized independent of investigative treatment. Therefore the effect was attenuated at week 94, with an adjusted mean (SE) improvement in HbA1c of 0.08% (0.02) in the placebo group, 0.50% (0.02) and 0.55% (0.02) in the empagliflozin 10 and 25 mg groups.
 
-<div style=\"page-break-after: always\"></div>
-
-Empagliflozin was superior in preventing the primary combined endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke, as compared with placebo. The treatment effect was driven by a significant reduction in cardiovascular death with no significant change in non-fatal myocardial infarction, or non-fatal stroke. The reduction of cardiovascular death was comparable for empagliflozin 10 mg and 25 mg (Figure 1) and confirmed by an improved overall survival (Table 10). The effect of empagliflozin on the primary combined endpoint of CV death, non-fatal MI, or non-fatal stroke was largely independent of glycaemic control or renal function (eGFR) and generally consistent across eGFR categories down to an eGFR of 30 ml/min/1.73 m 2  in the EMPA-REG OUTCOME study.
+Empagliflozin was superior in preventing the primary combined endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke, as compared with placebo. The treatment effect was driven by a significant reduction in cardiovascular death with no significant change in non-fatal myocardial infarction, or non-fatal stroke. The reduction of cardiovascular death was comparable for empagliflozin 10 mg and 25 mg (Figure 1) and confirmed by an improved overall survival (Table 10). The effect of empagliflozin on the primary combined endpoint of CV death, non-fatal MI, or non-fatal stroke was largely independent of glycaemic control or renal function (eGFR) and generally consistent across eGFR categories down to an eGFR of 30 mL/min/1.73 m 2  in the EMPA-REG OUTCOME study.
 
 The efficacy for preventing cardiovascular mortality has not been conclusively established in patients using empagliflozin concomitantly with DPP-4 inhibitors or in Black patients because the representation of these groups in the EMPA-REG OUTCOME study was limited.
 
-Table 10:  Treatment effect for the primary composite endpoint, its components and mortality a
+<div style=\"page-break-after: always\"></div>
+
+Table 10: Treatment effect for the primary composite endpoint, its components and mortality a
 
 |                                                                         | Placebo    | Empagliflozin b   |
 |-------------------------------------------------------------------------|------------|-------------------|
@@ -856,7 +878,7 @@ Table 10:  Treatment effect for the primary composite endpoint, its components a
 | p-value for superiority                                                 |            | 0.0382            |
 | CV DeathN (%)                                                           | 137 (5.9)  | 172 (3.7)         |
 | Hazard ratio vs. placebo (95% CI)                                       |            | 0.62 (0.49, 0.77) |
-| p-value                                                                 |            | <0.0001           |
+| p-value                                                                 |            | < 0.0001          |
 | Non-fatal MI N(%)                                                       | 121 (5.2)  | 213 (4.5)         |
 | Hazard ratio vs. placebo (95% CI)                                       |            | 0.87 (0.70, 1.09) |
 | p-value                                                                 |            | 0.2189            |
@@ -865,49 +887,45 @@ Table 10:  Treatment effect for the primary composite endpoint, its components a
 | p-value                                                                 |            | 0.1638            |
 | All-cause mortality N (%)                                               | 194 (8.3)  | 269 (5.7)         |
 | Hazard ratio vs. placebo (95% CI)                                       |            | 0.68 (0.57, 0.82) |
-| p-value                                                                 |            | <0.0001           |
+| p-value                                                                 |            | < 0.0001          |
 | Non-CV mortality N (%)                                                  | 57 (2.4)   | 97 (2.1)          |
 | Hazard ratio vs. placebo (95% CI)                                       |            | 0.84 (0.60, 1.16) |
 
 CV = cardiovascular, MI = myocardial infarction
 
-a Treated set (TS), i.e. patients who had received at least one dose of study drug
+- a Treated set (TS), i.e. patients who had received at least one dose of study drug
 
-b  Pooled doses of empagliflozin 10 mg and 25 mg
+b Pooled doses of empagliflozin 10 mg and 25 mg
 
 * Since data from the trial were included in an interim analysis, a two-sided 95.02% confidence interval applied which corresponds to a p-value of less than 0.0498 for significance.
 
-<div style=\"page-break-after: always\"></div>
-
-Figure 1  Time to occurrence of cardiovascular death in the EMPA-REG OUTCOME study
-
-## Individual Empagliflozin Doses versus Placebo
+Figure 1 Time to occurrence of cardiovascular death in the EMPA-REG OUTCOME study Individual Empagliflozin Doses versus Placebo
 
 <!-- image -->
 
-## Heart failure requiring hospitalisation
+Heart failure requiring hospitalisation
 
-In the EMPA-REG OUTCOME study, empagliflozin reduced the risk of heart failure requiring hospitalisation compared with placebo (empagliflozin 2.7 %; placebo 4.1 %; HR 0.65, 95 % CI 0.50, 0.85).
+In the EMPA-REG OUTCOME study, empagliflozin reduced the risk of heart failure requiring hospitalisation compared with placebo (empagliflozin 2.7%; placebo 4.1%; HR 0.65, 95% CI 0.50, 0.85).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Nephropathy
 
-In the EMPA-REG OUTCOME study, for time to first nephropathy event, the HR was 0.61 (95 % CI 0.53, 0.70) for empagliflozin (12.7 %) vs placebo (18.8 %).
+In the EMPA-REG OUTCOME study, for time to first nephropathy event, the HR was 0.61 (95% CI 0.53, 0.70) for empagliflozin (12.7%) vs placebo (18.8%).
 
-In addition, empagliflozin showed a higher (HR 1.82, 95 % CI 1.40, 2.37) occurrence of sustained normo- or micro-albuminuria (49.7 %) in patients with baseline macro-albuminuria compared with placebo (28.8 %).
+In addition, empagliflozin showed a higher (HR 1.82, 95% CI 1.40, 2.37) occurrence of sustained normo- or micro-albuminuria (49.7%) in patients with baseline macro-albuminuria compared with placebo (28.8%).
 
 ## Fasting plasma glucose
 
-In four placebo-controlled studies, treatment with empagliflozin as monotherapy or add-on therapy to metformin, pioglitazone, or metformin plus a sulphonylurea resulted in mean changes from baseline in FPG of -20.5 mg/dl [-1.14 mmol/l] for empagliflozin 10 mg and -23.2 mg/dl [-1.29 mmol/l] for empagliflozin 25 mg compared to placebo (7.4 mg/dl [0.41 mmol/l]). This effect was observed after 24 weeks and maintained for 76 weeks.
+In four placebo-controlled studies, treatment with empagliflozin as monotherapy or add-on therapy to metformin, pioglitazone, or metformin plus a sulphonylurea resulted in mean changes from baseline in FPG of -20.5 mg/dL [-1.14 mmol/L] for empagliflozin 10 mg and -23.2 mg/dL [-1.29 mmol/L] for empagliflozin 25 mg compared to placebo (7.4 mg/dL [0.41 mmol/L]). This effect was observed after 24 weeks and maintained for 76 weeks.
 
 ## 2-hour post-prandial glucose
 
-Treatment with empagliflozin as add-on to metformin or metformin and a sulphonylurea resulted in a clinically meaningful reduction of 2-hour post-prandial glucose (meal tolerance test) at 24 weeks (add-on to metformin: placebo +5.9 mg/dl, empagliflozin 10 mg: -46.0 mg/dl, empagliflozin 25 mg: -44.6 mg/dl, add-on to metformin and a sulphonylurea: placebo -2.3 mg/dl, empagliflozin 10 mg: -35.7 mg/dl, empagliflozin 25 mg: -36.6 mg/dl).
+Treatment with empagliflozin as add-on to metformin or metformin and a sulphonylurea resulted in a clinically meaningful reduction of 2-hour post-prandial glucose (meal tolerance test) at 24 weeks (add-on to metformin: placebo +5.9 mg/dL, empagliflozin 10 mg: -46.0 mg/dL, empagliflozin 25 mg: -44.6 mg/dL, add-on to metformin and a sulphonylurea: placebo -2.3 mg/dL, empagliflozin 10 mg: -35.7 mg/dL, empagliflozin 25 mg: -36.6 mg/dL).
 
-## Patients with high baseline HbA1c &gt;10%
+## Patients with high baseline HbA1c &gt; 10%
 
-In a pre-specified pooled analysis of three phase 3 studies, treatment with open-label empagliflozin 25 mg in patients with severe hyperglycaemia (N=184, mean baseline HbA1c 11.15%) resulted in a clinically meaningful reduction in HbA1c from baseline of 3.27% at week 24; no placebo or empagliflozin 10 mg arms were included in these studies.
-
-<div style=\"page-break-after: always\"></div>
+In a pre-specified pooled analysis of three phase 3 studies, treatment with open-label empagliflozin 25 mg in patients with severe hyperglycaemia (N = 184, mean baseline HbA1c 11.15%) resulted in a clinically meaningful reduction in HbA1c from baseline of 3.27% at week 24; no placebo or empagliflozin 10 mg arms were included in these studies.
 
 ## Body weight
 
@@ -917,45 +935,51 @@ In a pre-specified pooled analysis of 4 placebo-controlled studies, treatment wi
 
 The efficacy and safety of empagliflozin was evaluated in a double-blind, placebo-controlled study of 12 weeks duration in patients with type 2 diabetes and high blood pressure on different antidiabetic and up to 2 antihypertensive therapies. Treatment with empagliflozin once daily resulted in statistically significant improvement in HbA1c, and 24 hour mean systolic and diastolic blood pressure as determined by ambulatory blood pressure monitoring (Table 11). Treatment with empagliflozin provided reductions in seated SBP and DBP.
 
-Table 11: Efficacy results at 12 week in a placebo-controlled study of empagliflozin in patients with type 2 diabetes and uncontrolled blood pressure a
+Table 11: Efficacy results at 12 week in a placebo-controlled study of empagliflozin in patients with
 
-|                                    | Placebo   | Jardiance              | Jardiance             |
+<div style=\"page-break-after: always\"></div>
+
+type 2 diabetes and uncontrolled blood pressure a
+
+|                                    |   Placebo | Jardiance              | Jardiance             |
 |------------------------------------|-----------|------------------------|-----------------------|
 |                                    |           | 10 mg                  | 25 mg                 |
-| N                                  | 271       | 276                    | 276                   |
+| N                                  |    271    | 276                    | 276                   |
 | HbA1c (%) at week 12 1             |           |                        |                       |
-| Baseline (mean)                    | 7.90      | 7.87                   | 7.92                  |
-| Change from baseline 2             | 0.03      | -0.59                  | -0.62                 |
+| Baseline (mean)                    |      7.9  | 7.87                   | 7.92                  |
+| Change from baseline 2             |      0.03 | -0.59                  | -0.62                 |
 | Difference from placebo 2 (95% CI) |           | -0.62* (-0.72, -0.52)  | -0.65* (-0.75, -0.55) |
 | 24 hour SBP at week 12 3           |           |                        |                       |
-| Baseline (mean)                    | 131.72    | 131.34                 | 131.18                |
-| Change from baseline 4             | 0.48      | -2.95                  | -3.68                 |
+| Baseline (mean)                    |    131.72 | 131.34                 | 131.18                |
+| Change from baseline 4             |      0.48 | -2.95                  | -3.68                 |
 | Difference from placebo 4 (95% CI) |           | -3.44* (-4.78, -2.09)  | -4.16* (-5.50, -2.83) |
 | 24 hour DBP at week 12 3           |           |                        |                       |
-| Baseline (mean)                    | 75.16     | 75.13                  | 74.64                 |
-| Change from baseline 5             | 0.32      | -1.04                  | -1.40                 |
+| Baseline (mean)                    |     75.16 | 75.13                  | 74.64                 |
+| Change from baseline 5             |      0.32 | -1.04                  | -1.40                 |
 | Difference from placebo 5 (95% CI) |           | -1.36** (-2.15, -0.56) | -1.72* (-2.51, -0.93) |
 
 - a Full analysis set (FAS)
 - 1 LOCF, values after taking antidiabetic rescue therapy censored
 - 2 Mean adjusted for baseline HbA1c, baseline eGFR, geographical region and number of antihypertensive medicinal products
 - 3 LOCF, values after taking antidiabetic rescue therapy or changing antihypertensive rescue therapy censored
-- 4  Mean adjusted for baseline SBP, baseline HbA1c, baseline eGFR, geographical region and number of antihypertensive medicinal products
-- 5  Mean adjusted for baseline DBP, baseline HbA1c, baseline eGFR, geographical region and number of antihypertensive medicinal products
-* p-value &lt;0.0001
-- ** p-value &lt;0.001
+- 4 Mean adjusted for baseline SBP, baseline HbA1c, baseline eGFR, geographical region and number of antihypertensive medicinal products
+- 5 Mean adjusted for baseline DBP, baseline HbA1c, baseline eGFR, geographical region and number of antihypertensive medicinal products
+* p-value &lt; 0.0001
+- ** p-value &lt; 0.001
 
 In a pre-specified pooled analysis of 4 placebo-controlled studies, treatment with empagliflozin resulted in a reduction in systolic blood pressure (empagliflozin 10 mg: -3.9 mmHg; empagliflozin 25 mg: -4.3 mmHg) compared with placebo (-0.5 mmHg) and in diastolic blood pressure (empagliflozin 10 mg: -1.8 mmHg; empagliflozin 25 mg: -2.0 mmHg) compared with placebo (-0.5 mmHg) at week 24 that were maintained up to week 52.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Heart failure
 
 ## Empagliflozin in patients with heart failure and reduced ejection fraction
 
-A randomised, double-blind, placebo-controlled study (EMPEROR-Reduced) was conducted in 3 730 patients with chronic heart failure (New York Heart Association [NYHA] II-IV) and reduced ejection fraction (LVEF ≤40%) to evaluate the efficacy and safety of empagliflozin 10 mg once daily as adjunct to standard of care heart failure therapy. The primary endpoint was the time to adjudicated first event of either cardiovascular (CV) death or hospitalisation for heart failure (HHF). Occurrence of adjudicated HHF (first and recurrent) and eGFR (CKD-EPI)cr slope of change from baseline were included in the confirmatory testing. Heart Failure therapy at baseline included ACE inhibitors/angiotensin receptor blockers/angiotensin receptor-neprilysin inhibitor (88.3%), beta blockers (94.7%), mineralocorticoid receptor antagonists (71.3%) and diuretics (95.0%).
+A randomised, double-blind, placebo-controlled study (EMPEROR-Reduced) was conducted in 3 730 patients with chronic heart failure (New York Heart Association [NYHA] II-IV) and reduced ejection fraction (LVEF ≤ 40%) to evaluate the efficacy and safety of empagliflozin 10 mg once daily as adjunct to standard of care heart failure therapy. The primary endpoint was the time to adjudicated first event of either cardiovascular (CV) death or hospitalisation for heart failure (HHF). Occurrence of adjudicated HHF (first and recurrent) and eGFR (CKD-EPI)cr slope of change from baseline were included in the confirmatory testing. Heart Failure therapy at baseline included ACE inhibitors/angiotensin receptor blockers/angiotensin receptor-neprilysin inhibitor (88.3%), beta blockers (94.7%), mineralocorticoid receptor antagonists (71.3%) and diuretics (95.0%).
 
-A total of 1 863 patients were randomised to empagliflozin 10 mg (placebo: 1 867) and followed for a median of 15.7 months. The study population consisted of 76.1% men and 23.9% women with a mean age of 66.8 years (range: 25-94 years), 26.8% were 75 years of age or older. 70.5% of the study population were White, 18.0% Asian and 6.9% Black/African American. At randomisation, 75.1% of patients were NYHA class II, 24.4% were class III and 0.5% were class IV. The mean LVEF was 27.5%. At baseline, the mean eGFR was 62.0 ml/min/1.73 m 2  and the median urinary albumin to creatinine ratio (UACR) was 22 mg/g. About half of the patients (51.7%) had an eGFR of ≥60 ml/min/1.73 m 2 , 24.1% of 45 to &lt;60 ml/min/1.73 m 2 , 18.6% of 30 to &lt;45 ml/min/1.73 m 2 and 5.3% 20 to &lt;30 ml/min/1.73 m 2 .
+A total of 1 863 patients were randomised to empagliflozin 10 mg (placebo: 1 867) and followed for a median of 15.7 months. The study population consisted of 76.1% men and 23.9% women with a mean age of 66.8 years (range: 25-94 years), 26.8% were 75 years of age or older. 70.5% of the study population were White, 18.0% Asian and 6.9% Black/African American. At randomisation, 75.1% of patients were NYHA class II, 24.4% were class III and 0.5% were class IV. The mean LVEF was 27.5%. At baseline, the mean eGFR was 62.0 mL/min/1.73 m 2  and the median urinary albumin to creatinine ratio (UACR) was 22 mg/g. About half of the patients (51.7%) had an eGFR of
+
+<div style=\"page-break-after: always\"></div>
+
+≥ 60 mL/min/1.73 m 2 , 24.1% of 45 to &lt; 60 mL/min/1.73 m 2 , 18.6% of 30 to &lt; 45 mL/min/1.73 m 2 and 5.3% 20 to &lt; 30 mL/min/1.73 m 2 .
 
 Empagliflozin was superior in reducing the risk of the primary composite endpoint of cardiovascular death or hospitalisation for heart failure compared with placebo. Additionally, empagliflozin significantly reduced the risk of occurrence of HHF (first and recurrent), and significantly reduced the rate of eGFR decline (Table 12; Figure 2).
 
@@ -966,7 +990,7 @@ Table 12: Treatment effect for the primary composite endpoint, its components an
 | N                                                                | 1 867      | 1 863                 |
 | Time to first event of CV death or HHF, N (%)                    | 462 (24.7) | 361 (19.4)            |
 | Hazard ratio vs. placebo (95% CI)*                               |            | 0.75 (0.65, 0.86)     |
-| p-value for superiority                                          |            | <0.0001               |
+| p-value for superiority                                          |            | < 0.0001              |
 | CV Death, N (%)                                                  | 202 (10.8) | 187 (10.0)            |
 | Hazard ratio vs. placebo (95% CI)                                |            | 0.92 (0.75, 1.12)     |
 | HHF(first occurrence), N(%)                                      | 342 (18.3) | 246 (13.2)            |
@@ -974,29 +998,29 @@ Table 12: Treatment effect for the primary composite endpoint, its components an
 | HHF(first and recurrent), N of events                            | 553        | 388                   |
 | Hazard ratio vs. placebo (95% CI)*                               |            | 0.70 (0.58, 0.85)     |
 | p-value                                                          |            | 0.0003                |
-| eGFR (CKD-EPI)cr slope**, Rate of decline (ml/min/1.73m 2 /year) | -2.28      | -0.55                 |
+| eGFR (CKD-EPI)cr slope**, Rate of decline (mL/min/1.73m 2 /year) | -2.28      | -0.55                 |
 | Treatment difference vs. placebo (95% CI)                        |            | 1.73 (1.10, 2.37)     |
 | p-value                                                          |            | < 0.0001              |
 
-CV = cardiovascular, HHF = hospitalisation for heart failure, eGFR = Estimated glomerular filtration rate, CKD EPI = Chronic kidney disease epidemiology collaboration equation
+CV = cardiovascular, HHF = hospitalisation for heart failure, eGFR = Estimated glomerular filtration rate, CKD-EPI = Chronic kidney disease epidemiology collaboration equation
 
 * CV death and HHF events were adjudicated by an independent clinical event committee and analysed based on the randomised set.
 
-**eGFR slope was analysed based on the treated set. Intercept is -0.95 ml/min/1.73 m 2 for placebo and -3.02 ml/min/1.73 m 2 for empagliflozin. The intercept represents the acute effect on eGFR while the slope represents the long-term effect.
+** eGFR slope was analysed based on the treated set. Intercept is -0.95 mL/min/1.73 m 2 for placebo and -3.02 mL/min/1.73 m 2  for empagliflozin. The intercept represents the acute effect on eGFR while the slope represents the long-term effect.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 2  Time to first event of adjudicated CV death or HHF
+Figure 2 Time to first event of adjudicated CV death or HHF
 
 <!-- image -->
 
-The results of the primary composite endpoint were generally consistent with a hazard ratio (HR) below 1 across the pre-specified subgroups, including patients with heart failure, with or without type 2 diabetes mellitus and with or without renal impairment (down to an eGFR of 20 ml/min/1.73 m 2 ).
+The results of the primary composite endpoint were generally consistent with a hazard ratio (HR) below 1 across the pre-specified subgroups, including patients with heart failure, with or without type 2 diabetes mellitus and with or without renal impairment (down to an eGFR of 20 mL/min/1.73 m 2 ).
 
 ## Empagliflozin in patients with heart failure and preserved ejection fraction
 
-A randomised, double-blind, placebo-controlled study (EMPEROR-Preserved) was conducted in 5 988 patients with chronic heart failure (NYHA II-IV) and preserved ejection fraction (LVEF &gt;40%) to evaluate the efficacy and safety of empagliflozin 10 mg once daily as adjunct to standard of care therapy. The primary endpoint was the time to adjudicated first event of either cardiovascular (CV) death or hospitalisation for heart failure (HHF). Occurrence of adjudicated HHF (first and recurrent), and eGFR (CKD-EPI)cr slope of change from baseline were included in the confirmatory testing. Baseline therapy included ACE inhibitors/angiotensin receptor blockers/angiotensin receptorneprilysin inhibitor (80.7%), beta blockers (86.3%), mineralocorticoid receptor antagonists (37.5%) and diuretics (86.2%).
+A randomised, double-blind, placebo-controlled study (EMPEROR-Preserved) was conducted in 5 988 patients with chronic heart failure (NYHA II-IV) and preserved ejection fraction (LVEF &gt; 40%) to evaluate the efficacy and safety of empagliflozin 10 mg once daily as adjunct to standard of care therapy. The primary endpoint was the time to adjudicated first event of either cardiovascular (CV) death or hospitalisation for heart failure (HHF). Occurrence of adjudicated HHF (first and recurrent), and eGFR (CKD-EPI)cr slope of change from baseline were included in the confirmatory testing. Baseline therapy included ACE inhibitors/angiotensin receptor blockers/angiotensin receptorneprilysin inhibitor (80.7%), beta blockers (86.3%), mineralocorticoid receptor antagonists (37.5%) and diuretics (86.2%).
 
-A total of 2 997 patients were randomised to empagliflozin 10 mg (placebo: 2 991) and followed for a median of 26.2 months. The study population consisted of 55.3% men and 44.7% women with a mean age of 71.9 years (range: 22-100 years), 43.0% were 75 years of age or older. 75.9% of the study population were White, 13.8% Asian and 4.3% Black/African American. At randomisation, 81.5% of patients were NYHA class II, 18.1% were class III and 0.3% were class IV. The EMPERORPreserved study population included patients with a LVEF &lt;50% (33.1%), with a LVEF 50 to &lt;60% (34.4%) and a LVEF ≥60% (32.5%). At baseline, the mean eGFR was 60.6 ml/min/1.73 m 2  and the median urinary albumin to creatinine ratio (UACR) was 21 mg/g. About half of the patients (50.1%) had an eGFR of ≥60 ml/min/1.73 m 2 , 26.1% of 45 to &lt;60 ml/min/1.73 m 2 , 18.6% of 30 to &lt;45 ml/min/1.73 m 2 and 4.9% 20 to &lt;30 ml/min/1.73 m 2 .
+A total of 2 997 patients were randomised to empagliflozin 10 mg (placebo: 2 991) and followed for a median of 26.2 months. The study population consisted of 55.3% men and 44.7% women with a mean age of 71.9 years (range: 22-100 years), 43.0% were 75 years of age or older. 75.9% of the study population were White, 13.8% Asian and 4.3% Black/African American. At randomisation, 81.5% of patients were NYHA class II, 18.1% were class III and 0.3% were class IV. The EMPERORPreserved study population included patients with a LVEF &lt; 50% (33.1%), with a LVEF 50 to &lt; 60% (34.4%) and a LVEF ≥ 60% (32.5%). At baseline, the mean eGFR was 60.6 mL/min/1.73 m 2  and the median urinary albumin to creatinine ratio (UACR) was 21 mg/g. About half of the patients (50.1%) had an eGFR of ≥ 60 mL/min/1.73 m 2 , 26.1% of 45 to &lt; 60 mL/min/1.73 m 2 , 18.6% of 30 to &lt; 45 mL/min/1.73 m 2  and 4.9% 20 to &lt; 30 mL/min/1.73 m 2 .
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1007,7 +1031,7 @@ Table 13: Treatment effect for the primary composite endpoint, its components an
 |                                                                  | Placebo    | Empagliflozin 10 mg   |
 |------------------------------------------------------------------|------------|-----------------------|
 | N                                                                | 2 991      | 2 997                 |
-| Time to first event of CV death or HHF, N (%)                    | 511 (17.1) | 415 (13.8)            |
+| Time to first event of CV death or HHF, N(%)                     | 511 (17.1) | 415 (13.8)            |
 | Hazard ratio vs. placebo (95% CI)*                               |            | 0.79 (0.69, 0.90)     |
 | p-value for superiority                                          |            | 0.0003                |
 | CV Death, N (%)                                                  | 244 (8.2)  | 219 (7.3)             |
@@ -1017,66 +1041,63 @@ Table 13: Treatment effect for the primary composite endpoint, its components an
 | HHF(first and recurrent), N of events                            | 541        | 407                   |
 | Hazard ratio vs. placebo (95% CI)*                               |            | 0.73 (0.61, 0.88)     |
 | p-value                                                          |            | 0.0009                |
-| eGFR (CKD-EPI)cr slope**, Rate of decline (ml/min/1.73m 2 /year) | -2.62      | -1.25                 |
+| eGFR (CKD-EPI)cr slope**, Rate of decline (mL/min/1.73m 2 /year) | -2.62      | -1.25                 |
 | Treatment difference vs. placebo (95% CI)                        |            | 1.36 (1.06, 1.66)     |
 | p-value                                                          |            | < 0.0001              |
 
-CV = cardiovascular, HHF = hospitalisation for heart failure, eGFR = Estimated glomerular filtration rate, CKD EPI = Chronic kidney disease epidemiology collaboration equation
+CV = cardiovascular, HHF = hospitalisation for heart failure, eGFR = Estimated glomerular filtration rate, CKD-EPI = Chronic kidney disease epidemiology collaboration equation
 
 * CV death and HHF events were adjudicated by an independent clinical event committee and analysed based on the randomised set.
 
-**eGFR slope was analysed based on the treated set. Intercept is -0.18 ml/min/1.73 m 2 for placebo and -3.02 ml/min/1.73 m 2 for empagliflozin. The intercept represents the acute effect on eGFR while the slope represents the long-term effect.
+** eGFR slope was analysed based on the treated set. Intercept is -0.18 mL/min/1.73 m 2 for placebo and -3.02 mL/min/1.73 m 2  for empagliflozin. The intercept represents the acute effect on eGFR while the slope represents the long-term effect.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 3  Time to first event of adjudicated CV death or HHF
+Figure 3 Time to first event of adjudicated CV death or HHF
 
 <!-- image -->
 
-The results of the primary composite endpoint were consistent across each of the pre-specified subgroups categorized by e.g., LVEF, diabetes status or renal function (down to an eGFR of 20 ml/min/1.73 m 2 ).
+The results of the primary composite endpoint were consistent across each of the pre-specified subgroups categorized by e.g., LVEF, diabetes status or renal function (down to an eGFR of 20 mL/min/1.73 m 2 ).
 
 ## Chronic kidney disease
 
-A randomised, double-blind, placebo-controlled study of empagliflozin 10 mg once daily (EMPAKIDNEY) was conducted in 6 609 patients with chronic kidney disease (eGFR ≥20 &lt;45 ml/min/1.73 m 2 ; or eGFR ≥45 - &lt;90 ml/min/1.73 m 2 with urinary albumin to creatinine ratio (UACR) ≥200 mg/g) to assess cardio-renal outcomes as adjunct to standard of care therapy. The primary endpoint was the time to first occurrence of kidney disease progression (sustained ≥40% eGFR decline from randomisation, sustained eGFR &lt;10 ml/min/1.73 m², end-stage kidney disease, or renal death) or CV death. First occurrence of hospitalisation for heart failure or CV death, all-cause hospitalisation (first and recurrent), and all-cause mortality were included in the confirmatory testing. Baseline therapy included an appropriate use of a RAS-inhibitor (85.2% ACE inhibitor or angiotensin receptor blocker).
+A randomised, double-blind, placebo-controlled study of empagliflozin 10 mg once daily (EMPA-KIDNEY) was conducted in 6 609 patients with chronic kidney disease (eGFR ≥ 20 - &lt; 45 mL/min/1.73 m 2 ; or eGFR ≥ 45 - &lt; 90 mL/min/1.73 m 2 with urinary albumin to creatinine ratio (UACR) ≥ 200 mg/g) to assess cardio-renal outcomes as adjunct to standard of care therapy. The primary endpoint was the time to first occurrence of kidney disease progression (sustained ≥ 40% eGFR decline from randomisation, sustained eGFR &lt; 10 mL/min/1.73 m 2 , end-stage kidney disease, or renal death) or CV death. First occurrence of hospitalisation for heart failure or CV death, all-cause hospitalisation (first and recurrent), and all-cause mortality were included in the confirmatory testing. Baseline therapy included an appropriate use of a RAS-inhibitor (85.2% ACE inhibitor or angiotensin receptor blocker).
 
 A total of 3 304 patients were randomised to empagliflozin 10 mg (placebo: 3 305) and followed for a median of 24.3 months. The study population consisted of 66.8% men and 33.2% women with a mean age of 63.3 years (range: 18-94 years), 23.0% were 75 years of age or older. 58.4% of the study population were White, 36.2% Asian and 4.0% Black/African American.
 
-At baseline, the mean eGFR was 37.3 ml/min/1.73 m 2 , 21.2% patients had an eGFR of ≥45 ml/min/1.73 m 2 , 44.3% of 30 to &lt;45 ml/min/1.73 m 2 and 34.5% &lt;30 ml/min/1.73 m 2  including 254 patients with an eGFR &lt;20 ml/min /1.73 m 2 . The median UACR was 329 mg/g, 20.1% patients had an UACR &lt;30 mg/g, 28.2% had an UACR 30 to ≤300 mg/g and 51.7% had an UACR &gt;300 mg/g; 41.1% of patients had an UACR &lt;200 mg/g. Primary causes of CKD were diabetic
+At baseline, the mean eGFR was 37.3 mL/min/1.73 m 2 , 21.2% patients had an eGFR of ≥ 45 mL/min/1.73 m 2 , 44.3% of 30 to &lt; 45 mL/min/1.73 m 2 and 34.5% &lt; 30 mL/min/1.73 m 2 including 254 patients with an eGFR &lt; 20 mL/min /1.73 m 2 . The median UACR was 329 mg/g, 20.1% patients had an UACR &lt; 30 mg/g, 28.2% had an UACR 30 to ≤ 300 mg/g and 51.7% had an UACR &gt; 300 mg/g; 41.1% of patients had an UACR &lt; 200 mg/g. Primary causes of CKD were diabetic nephropathy/diabetic kidney disease (31%), glomerular disease (25%), hypertensive/renovascular disease (22%) and other/unknown (22%).
 
 <div style=\"page-break-after: always\"></div>
 
-nephropathy/diabetic kidney disease (31%), glomerular disease (25%), hypertensive/renovascular disease (22%) and other/unknown (22%).
-
 Empagliflozin was superior in reducing the risk of the primary composite endpoint of kidney disease progression or CV death compared with placebo (see Table 14). Additionally, empagliflozin significantly reduced the risk of all-cause hospitalisation (first and recurrent).
 
-Table 14:  Treatment effect for the primary composite and key secondary endpoints included in the prespecified confirmatory testing and its components
+Table 14: Treatment effect for the primary composite and key secondary endpoints included in the pre-specified confirmatory testing and its components
 
-|                                                                                                                                                                                                                 | Placebo    | Empagliflozin 10 mg   |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------------|
-| N                                                                                                                                                                                                               | 3 305      | 3 304                 |
-| Time to first occurrence of kidney disease progression (sustained ≥40% eGFR decline from randomisation, sustained eGFR <10 ml/min/1.73m 2 , end-stage kidney disease* (ESKD), or renal death) or CV death, N(%) | 558 (16.9) | 432 (13.1)            |
-| Hazard ratio vs. placebo (99.83% CI)                                                                                                                                                                            |            | 0.72 (0.59, 0.89)     |
-| p-value for superiority                                                                                                                                                                                         |            | <0.0001               |
-| Sustained ≥40% eGFR decline from randomisation, N (%)                                                                                                                                                           | 474 (14.3) | 359 (10.9)            |
-| Hazard ratio vs. placebo (95% CI)                                                                                                                                                                               |            | 0.70 (0.61, 0.81)     |
-| p-value                                                                                                                                                                                                         |            | <0.0001               |
-| ESKD* or sustained eGFR <10 ml/min/1.73m 2 , N (%)                                                                                                                                                              | 221 (6.7)  | 157 (4.8)             |
-| Hazard ratio vs. placebo (95% CI)                                                                                                                                                                               |            | 0.69 (0.56, 0.84)     |
-| p-value                                                                                                                                                                                                         |            | 0.0003                |
-| Renal death, N (%)**                                                                                                                                                                                            | 4 (0.1)    | 4 (0.1)               |
-| Hazard ratio vs. placebo (95% CI)                                                                                                                                                                               |            |                       |
-| p-value                                                                                                                                                                                                         |            |                       |
-| CV Death, N (%)                                                                                                                                                                                                 | 69 (2.1)   | 59 (1.8)              |
-| Hazard ratio vs. placebo (95% CI)                                                                                                                                                                               |            | 0.84 (0.60, 1.19)     |
-| p-value                                                                                                                                                                                                         |            | 0.3366                |
-| ESKD or CV Death, N (%) #                                                                                                                                                                                       | 217 (6.6)  | 163 (4.9)             |
-| Hazard ratio vs. placebo (95% CI)                                                                                                                                                                               |            | 0.73 (0.59, 0.89)     |
-| p-value                                                                                                                                                                                                         |            | 0.0023                |
-| Occurrence of all-cause hospitalisation (first and recurrent), N of events                                                                                                                                      | 1 895      | 1 611                 |
-| Hazard ratio vs. placebo (99.03% CI)                                                                                                                                                                            |            | 0.86 (0.75, 0.98)     |
-| p-value                                                                                                                                                                                                         |            | 0.0025                |
+|                                                                                                                                                                                                                    | Placebo    | Empagliflozin 10 mg   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------------|
+| N                                                                                                                                                                                                                  | 3 305      | 3 304                 |
+| Time to first occurrence of kidney disease progression (sustained ≥ 40% eGFR decline from randomisation, sustained eGFR < 10 mL/min/1.73m 2 , end-stage kidney disease* (ESKD), or renal death) or CV death, N (%) | 558 (16.9) | 432 (13.1)            |
+| Hazard ratio vs. placebo (99.83% CI)                                                                                                                                                                               |            | 0.72 (0.59, 0.89)     |
+| p-value for superiority                                                                                                                                                                                            |            | < 0.0001              |
+| Sustained ≥ 40% eGFR decline from randomisation, N (%)                                                                                                                                                             | 474 (14.3) | 359 (10.9)            |
+| Hazard ratio vs. placebo (95% CI)                                                                                                                                                                                  |            | 0.70 (0.61, 0.81)     |
+| p-value                                                                                                                                                                                                            |            | < 0.0001              |
+| ESKD* or sustained eGFR < 10 mL/min/1.73m 2 , N(%)                                                                                                                                                                 | 221 (6.7)  | 157 (4.8)             |
+| Hazard ratio vs. placebo (95% CI)                                                                                                                                                                                  |            | 0.69 (0.56, 0.84)     |
+| p-value                                                                                                                                                                                                            |            | 0.0003                |
+| Renal death, N (%)**                                                                                                                                                                                               | 4 (0.1)    | 4 (0.1)               |
+| Hazard ratio vs. placebo (95% CI)                                                                                                                                                                                  |            |                       |
+| CV Death, N (%)                                                                                                                                                                                                    | 69 (2.1)   | 59 (1.8)              |
+| Hazard ratio vs. placebo (95% CI)                                                                                                                                                                                  |            | 0.84 (0.60, 1.19)     |
+| p-value                                                                                                                                                                                                            |            | 0.3366                |
+| ESKD or CV Death, N (%) #                                                                                                                                                                                          | 217 (6.6)  | 163 (4.9)             |
+| Hazard ratio vs. placebo (95% CI)                                                                                                                                                                                  |            | 0.73 (0.59, 0.89)     |
+| p-value                                                                                                                                                                                                            |            | 0.0023                |
+| Occurrence of all-cause hospitalisation (first and recurrent), N of events                                                                                                                                         | 1 895      | 1 611                 |
+| Hazard ratio vs. placebo (99.03% CI)                                                                                                                                                                               |            | 0.86 (0.75, 0.98)     |
+| p-value                                                                                                                                                                                                            |            | 0.0025                |
 
-CV = cardiovascular, HHF = hospitalisation for heart failure, eGFR = Estimated glomerular filtration rate
+CV = cardiovascular, eGFR = Estimated glomerular filtration rate
 
 * End-stage kidney disease (ESKD) is defined as the initiation of maintenance dialysis or receipt of a kidney transplant.
 
@@ -1086,23 +1107,21 @@ CV = cardiovascular, HHF = hospitalisation for heart failure, eGFR = Estimated g
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 4  Time to first event of kidney disease progression or adjudicated CV death, estimated cumulative incidence function
+Figure 4 Time to first event of kidney disease progression or adjudicated CV death, estimated cumulative incidence function
 
 <!-- image -->
 
 The results of the primary composite endpoint were generally consistent across the pre-specified subgroups, including eGFR categories, underlying cause of renal disease, diabetes status, or background use of RAS inhibitors. Treatment benefits were more clearly evident in patients with higher levels of albuminuria.
 
-During treatment, eGFR decline over time was slower in the empagliflozin group compared to the placebo group (Figure 5). Empagliflozin slowed the annual rate of eGFR decline compared to placebo by 1.37 ml/min/1.73 m 2 /year (95% CI 1.16, 1.59), based on a pre-specified analysis of all eGFR measurements taken from the 2-month visit to the final follow-up visit. Patients treated with empagliflozin experienced an initial drop in eGFR which returned towards baseline after treatment discontinuation as demonstrated in several of the empagliflozin studies, supporting that haemodynamic changes play a role in the acute effects of empagliflozin on eGFR.
+During treatment, eGFR decline over time was slower in the empagliflozin group compared to the placebo group (Figure 5). Empagliflozin slowed the annual rate of eGFR decline compared to placebo by 1.37 mL/min/1.73 m 2 /year (95% CI 1.16, 1.59), based on a pre-specified analysis of all eGFR measurements taken from the 2-month visit to the final follow-up visit. Patients treated with empagliflozin experienced an initial drop in eGFR which returned towards baseline after treatment discontinuation as demonstrated in several of the empagliflozin studies, supporting that haemodynamic changes play a role in the acute effects of empagliflozin on eGFR.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 5  Change in eGFR over time*
+Figure 5 Change in eGFR over time*
 
 <!-- image -->
 
-Planned study month
-
-*eGFR (CKD-EPI) (ml/min/1.73 m 2 ) MMRM results over time - randomised set.
+* eGFR (CKD-EPI) (mL/min/1.73 m 2 ) MMRM results over time - randomised set.
 
 ## Paediatric population
 
@@ -1110,7 +1129,7 @@ Planned study month
 
 The clinical efficacy and safety of empagliflozin (10 mg with a possible dose-increase to 25 mg) and linagliptin (5 mg) once daily has been studied in children and adolescents from 10 to 17 years of age with type 2 diabetes mellitus in a placebo-controlled study (DINAMO) over 26 weeks, with a safety extension period up to 52 weeks. Background therapies as adjunct to diet and exercise included metformin (51%), a combination of metformin and insulin (40.1%), insulin (3.2%), or none (5.7%).
 
-The adjusted mean change in HbA1c at week 26 between empagliflozin (N=52) and placebo (N=53) of -0.84% was clinically meaningful and statistically significant (95% CI -1.50, -0.19; p=0.0116). In addition, treatment with empagliflozin versus placebo resulted in a clinically meaningful adjusted mean change in FPG of -35.2 mg/dl (95% CI -58.6, -11.7) [-1.95 mmol/l (-3.25, -0.65)].
+The adjusted mean change in HbA1c at week 26 between empagliflozin (N = 52) and placebo (N = 53) of -0.84% was clinically meaningful and statistically significant (95% CI -1.50, -0.19; p = 0.0116). In addition, treatment with empagliflozin versus placebo resulted in a clinically meaningful adjusted mean change in FPG of -35.2 mg/dL (95% CI -58.6, -11.7) [-1.95 mmol/L (-3.25, -0.65)].
 
 ## Heart failure and chronic kidney disease
 
@@ -1120,17 +1139,17 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## Absorption
 
-The pharmacokinetics of empagliflozin have been extensively characterised in healthy volunteers and patients with type 2 diabetes. After oral administration, empagliflozin was rapidly absorbed with peak
+The pharmacokinetics of empagliflozin have been extensively characterised in healthy volunteers and patients with type 2 diabetes. After oral administration, empagliflozin was rapidly absorbed with peak plasma concentrations occurring at a median tmax of 1.5 hours post-dose. Thereafter, plasma
 
 <div style=\"page-break-after: always\"></div>
 
-plasma concentrations occurring at a median tmax of 1.5 hours post-dose. Thereafter, plasma concentrations declined in a biphasic manner with a rapid distribution phase and a relatively slow terminal phase. The steady state mean plasma AUC and Cmax were 1 870 nmol.h/l and 259 nmol/l with empagliflozin 10 mg and 4 740 nmol.h/l and 687 nmol/l with empagliflozin 25 mg once daily. Systemic exposure of empagliflozin increased in a dose-proportional manner. The single-dose and steady-state pharmacokinetic parameters of empagliflozin were similar suggesting linear pharmacokinetics with respect to time. There were no clinically relevant differences in empagliflozin pharmacokinetics between healthy volunteers and patients with type 2 diabetes.
+concentrations declined in a biphasic manner with a rapid distribution phase and a relatively slow terminal phase. The steady state mean plasma AUC and Cmax were 1 870 nmol.h/L and 259 nmol/L with empagliflozin 10 mg and 4 740 nmol.h/L and 687 nmol/L with empagliflozin 25 mg once daily. Systemic exposure of empagliflozin increased in a dose-proportional manner. The single-dose and steady-state pharmacokinetic parameters of empagliflozin were similar suggesting linear pharmacokinetics with respect to time. There were no clinically relevant differences in empagliflozin pharmacokinetics between healthy volunteers and patients with type 2 diabetes.
 
 Administration of empagliflozin 25 mg after intake of a high-fat and high calorie meal resulted in slightly lower exposure; AUC decreased by approximately 16% and Cmax by approximately 37% compared to fasted condition. The observed effect of food on empagliflozin pharmacokinetics was not considered clinically relevant and empagliflozin may be administered with or without food.
 
 ## Distribution
 
-The apparent steady-state volume of distribution was estimated to be 73.8 l based on the population pharmacokinetic analysis. Following administration of an oral [ 14 C]-empagliflozin solution to healthy volunteers, the red blood cell partitioning was approximately 37% and plasma protein binding was 86%.
+The apparent steady-state volume of distribution was estimated to be 73.8 L based on the population pharmacokinetic analysis. Following administration of an oral [ 14 C]-empagliflozin solution to healthy volunteers, the red blood cell partitioning was approximately 37% and plasma protein binding was 86%.
 
 ## Biotransformation
 
@@ -1138,19 +1157,19 @@ No major metabolites of empagliflozin were detected in human plasma and the most
 
 ## Elimination
 
-Based on the population pharmacokinetic analysis, the apparent terminal elimination half-life of empagliflozin was estimated to be 12.4 hours and apparent oral clearance was 10.6 l/hour. The inter-subject and residual variabilities for empagliflozin oral clearance were 39.1% and 35.8%, respectively. With once-daily dosing, steady-state plasma concentrations of empagliflozin were reached by the fifth dose. Consistent with the half-life, up to 22% accumulation, with respect to plasma AUC, was observed at steady-state. Following administration of an oral [ 14 C]-empagliflozin solution to healthy volunteers, approximately 96% of the drug-related radioactivity was eliminated in faeces (41%) or urine (54%). The majority of drug-related radioactivity recovered in faeces was unchanged parent drug and approximately half of drug related radioactivity excreted in urine was unchanged parent drug.
+Based on the population pharmacokinetic analysis, the apparent terminal elimination half-life of empagliflozin was estimated to be 12.4 hours and apparent oral clearance was 10.6 L/hour. The inter-subject and residual variabilities for empagliflozin oral clearance were 39.1% and 35.8%, respectively. With once-daily dosing, steady-state plasma concentrations of empagliflozin were reached by the fifth dose. Consistent with the half-life, up to 22% accumulation, with respect to plasma AUC, was observed at steady-state. Following administration of an oral [ 14 C]-empagliflozin solution to healthy volunteers, approximately 96% of the drug-related radioactivity was eliminated in faeces (41%) or urine (54%). The majority of drug-related radioactivity recovered in faeces was unchanged parent drug and approximately half of drug related radioactivity excreted in urine was unchanged parent drug.
 
 ## Special populations
 
 ## Renal impairment
 
-In patients with mild, moderate or severe renal impairment (eGFR &lt;30 - &lt;90 ml/min/1.73 m 2 ) and patients with kidney failure/end stage kidney disease (ESKD), AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively compared to subjects with normal renal function. Peak plasma levels of empagliflozin were similar in subjects with moderate renal impairment and kidney failure/ESKD compared to patients with normal renal function. Peak plasma levels of empagliflozin were roughly 20% higher in subjects with mild and severe renal impairment as compared to subjects with normal renal function. The population pharmacokinetic analysis showed that the apparent oral clearance of empagliflozin decreased with a decrease in eGFR leading to an increase in drug exposure.
-
-<div style=\"page-break-after: always\"></div>
+In patients with mild, moderate or severe renal impairment (eGFR &lt; 30 - &lt; 90 mL/min/1.73 m 2 ) and patients with kidney failure/end stage kidney disease (ESKD), AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively compared to subjects with normal renal function. Peak plasma levels of empagliflozin were similar in subjects with moderate renal impairment and kidney failure/ESKD compared to patients with normal renal function. Peak plasma levels of empagliflozin were roughly 20% higher in subjects with mild and severe renal impairment as compared to subjects with normal renal function. The population pharmacokinetic analysis showed that the apparent oral clearance of empagliflozin decreased with a decrease in eGFR leading to an increase in drug exposure.
 
 ## Hepatic impairment
 
 In subjects with mild, moderate, and severe hepatic impairment according to the Child-Pugh classification, AUC of empagliflozin increased approximately by 23%, 47%, and 75% and Cmax by approximately 4%, 23%, and 48%, respectively, compared to subjects with normal hepatic function.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Body Mass Index
 
@@ -1170,11 +1189,9 @@ Age did not have a clinically meaningful impact on the pharmacokinetics of empag
 
 ## Paediatric population
 
-A paediatric Phase 1 study examined the pharmacokinetics and pharmacodynamics of empagliflozin (5 mg, 10 mg and 25 mg) in children and adolescents ≥10 to &lt;18 years of age with type 2 diabetes mellitus. The observed pharmacokinetic and pharmacodynamic responses were consistent with those found in adult subjects.
+A paediatric phase 1 study examined the pharmacokinetics and pharmacodynamics of empagliflozin (5 mg, 10 mg and 25 mg) in children and adolescents ≥ 10 to &lt; 18 years of age with type 2 diabetes mellitus. The observed pharmacokinetic and pharmacodynamic responses were consistent with those found in adult subjects.
 
-A paediatric Phase 3 study examined the pharmacokinetics and pharmacodynamics (HbA1c change from baseline) of empagliflozin 10 mg with a possible dose-increase to 25 mg in children and adolescents 10 to 17 years of age with type 2 diabetes mellitus. The observed exposure-response relationship was overall comparable in adults and children and adolescents. Oral administration of empagliflozin resulted in an exposure within the range observed in adult patients.
-
-The observed geometric mean trough concentrations and geometric mean concentrations at 1.5 hours post-administration at steady state were 26.6 nmol/l and 308 nmol/l with empagliflozin 10 mg once daily and 67.0 nmol/l and 525 nmol/l with empagliflozin 25 mg once daily.
+A paediatric phase 3 study examined the pharmacokinetics and pharmacodynamics (HbA1c change from baseline) of empagliflozin 10 mg with a possible dose-increase to 25 mg in children and adolescents 10 to 17 years of age with type 2 diabetes mellitus. The observed exposure-response relationship was overall comparable in adults and children and adolescents. Oral administration of empagliflozin resulted in an exposure within the range observed in adult patients. The observed geometric mean trough concentrations and geometric mean concentrations at 1.5 hours post-administration at steady state were 26.6 nmol/L and 308 nmol/L with empagliflozin 10 mg once daily and 67.0 nmol/L and 525 nmol/L with empagliflozin 25 mg once daily.
 
 ## 5.3 Preclinical safety data
 
@@ -1182,11 +1199,13 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 In long term toxicity studies in rodents and dogs, signs of toxicity were observed at exposures greater than or equal to 10-times the clinical dose of empagliflozin. Most toxicity was consistent with secondary pharmacology related to urinary glucose loss and electrolyte imbalances including decreased body weight and body fat, increased food consumption, diarrhoea, dehydration, decreased serum glucose and increases in other serum parameters reflective of increased protein metabolism and gluconeogenesis, urinary changes such as polyuria and glucosuria, and microscopic changes including mineralisation in kidney and some soft and vascular tissues. Microscopic evidence of the effects of exaggerated pharmacology on the kidney observed in some species included tubular dilatation, and tubular and pelvic mineralisation at approximately 4-times the clinical AUC exposure of empagliflozin associated with the 25 mg dose.
 
+## Empagliflozin is not genotoxic.
+
+In a 2 year carcinogenicity study, empagliflozin did not increase the incidence of tumours in female rats up to the highest dose of 700 mg/kg/day, which corresponds to approximately 72-times the maximal clinical AUC exposure to empagliflozin. In male rats, treatment-related benign vascular proliferative lesions (haemangiomas) of the mesenteric lymph node were observed at the highest dose, but not at 300 mg/kg/day, which corresponds to approximately 26-times the maximal clinical exposure
+
 <div style=\"page-break-after: always\"></div>
 
-Empagliflozin is not genotoxic.
-
-In a 2 year carcinogenicity study, empagliflozin did not increase the incidence of tumours in female rats up to the highest dose of 700 mg/kg/day, which corresponds to approximately 72-times the maximal clinical AUC exposure to empagliflozin. In male rats, treatment-related benign vascular proliferative lesions (haemangiomas) of the mesenteric lymph node were observed at the highest dose, but not at 300 mg/kg/day, which corresponds to approximately 26-times the maximal clinical exposure to empagliflozin. Interstitial cell tumours in the testes were observed with a higher incidence in rats at 300 mg/kg/day and above, but not at 100 mg/kg/day which corresponds to approximately 18-times the maximal clinical exposure to empagliflozin. Both tumours are common in rats and are unlikely to be relevant to humans.
+to empagliflozin. Interstitial cell tumours in the testes were observed with a higher incidence in rats at 300 mg/kg/day and above, but not at 100 mg/kg/day which corresponds to approximately 18-times the maximal clinical exposure to empagliflozin. Both tumours are common in rats and are unlikely to be relevant to humans.
 
 Empagliflozin did not increase the incidence of tumours in female mice at doses up to 1 000 mg/kg/day, which corresponds to approximately 62-times the maximal clinical exposure to empagliflozin. Empagliflozin induced renal tumours in male mice at 1 000 mg/kg/day, but not at 300 mg/kg/day, which corresponds to approximately 11-times the maximal clinical exposure to empagliflozin. The mode of action for these tumours is dependent on the natural predisposition of the male mouse to renal pathology and a metabolic pathway not reflective of humans. The male mouse renal tumours are considered not relevant to humans.
 
@@ -1204,13 +1223,9 @@ In a juvenile toxicity study in the rat, when empagliflozin was administered fro
 
 Lactose monohydrate Microcrystalline cellulose Hydroxypropylcellulose Croscarmellose sodium Colloidal anhydrous silica Magnesium stearate
 
-<div style=\"page-break-after: always\"></div>
-
 ## Film coating
 
-Hypromellose Titanium dioxide (E171) Talc Macrogol (400)
-
-Iron oxide yellow (E172)
+Hypromellose Titanium dioxide (E171) Talc Macrogol (400) Iron oxide yellow (E172)
 
 ## 6.2 Incompatibilities
 
@@ -1220,15 +1235,17 @@ Not applicable.
 
 3 years
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.4 Special precautions for storage
 
 This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-PVC/aluminium perforated unit dose blisters.
-
-Pack sizes of 7 x 1, 10 x 1, 14 x 1, 28 x 1, 30 x 1, 60 x 1, 70 x 1, 90 x 1, and 100 x 1 film-coated tablets.
+```
+PVC/aluminium perforated unit dose blisters. Pack sizes of 7 × 1, 10 × 1, 14 × 1, 28 × 1, 30 × 1, 60 × 1, 70 × 1, 90 × 1, and 100 × 1 film-coated tablets.
+```
 
 Not all pack sizes may be marketed.
 
@@ -1248,33 +1265,13 @@ Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-## Jardiance 10 mg film-coated tablets
+```
+Jardiance 10 mg film-coated tablets EU/1/14/930/010 EU/1/14/930/011 EU/1/14/930/012 EU/1/14/930/013 EU/1/14/930/014 EU/1/14/930/015 EU/1/14/930/016 EU/1/14/930/017 EU/1/14/930/018 Jardiance 25 mg film-coated tablets EU/1/14/930/001 EU/1/14/930/002 EU/1/14/930/003 EU/1/14/930/004 EU/1/14/930/005 EU/1/14/930/006 EU/1/14/930/007 EU/1/14/930/008
+```
 
-EU/1/14/930/010
-
-EU/1/14/930/011
-
-EU/1/14/930/012
-
-EU/1/14/930/013
-
-EU/1/14/930/014
-
-EU/1/14/930/015
-
-EU/1/14/930/016
-
-EU/1/14/930/017
-
-EU/1/14/930/018
-
-Jardiance 25 mg film-coated tablets
-
-EU/1/14/930/001
-
-<div style=\"page-break-after: always\"></div>
-
-EU/1/14/930/002 EU/1/14/930/003 EU/1/14/930/004 EU/1/14/930/005 EU/1/14/930/006 EU/1/14/930/007 EU/1/14/930/008 EU/1/14/930/009
+```
+EU/1/14/930/009
+```
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1282,9 +1279,11 @@ Date of first authorisation: 22 May 2014
 
 Date of latest renewal: 14 February 2019
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1330,9 +1329,6 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
-
-<div style=\"page-break-after: always\"></div>
-
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
@@ -1365,22 +1361,19 @@ Contains lactose, see leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 7 x 1 film-coated tablets
-- 10 x 1 film-coated tablets
-- 14 x 1 film-coated tablets
-- 28 x 1 film-coated tablets
-- 30 x 1 film-coated tablets
-- 60 x 1 film-coated tablets
-- 70 x 1 film-coated tablets
-- 90 x 1 film-coated tablets
-
-100 x 1 film-coated tablets
+- 7 × 1 film-coated tablets
+- 10 × 1 film-coated tablets
+- 14 × 1 film-coated tablets
+- 28 × 1 film-coated tablets
+- 30 × 1 film-coated tablets
+- 60 × 1 film-coated tablets
+- 70 × 1 film-coated tablets
+- 90 × 1 film-coated tablets
+- 100 × 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use
+Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1404,9 +1397,11 @@ Boehringer Ingelheim International GmbH 55216 Ingelheim am Rhein Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/14/930/010 7 x 1 tablets EU/1/14/930/011 10 x 1 tablets EU/1/14/930/012 14 x 1 tablets EU/1/14/930/013 28 x 1 tablets EU/1/14/930/014 30 x 1 tablets EU/1/14/930/015 60 x 1 tablets EU/1/14/930/016 70 x 1 tablets EU/1/14/930/017 90 x 1 tablets
+```
+EU/1/14/930/010 7 × 1 tablets EU/1/14/930/011 10 × 1 tablets EU/1/14/930/012 14 × 1 tablets EU/1/14/930/013 28 × 1 tablets EU/1/14/930/014 30 × 1 tablets EU/1/14/930/015 60 × 1 tablets EU/1/14/930/016 70 × 1 tablets EU/1/14/930/017 90 × 1 tablets
+```
 
-EU/1/14/930/018 100 x 1 tablets
+EU/1/14/930/018 100 × 1 tablets
 
 ## 13. BATCH NUMBER
 
@@ -1459,6 +1454,8 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+44
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -1479,22 +1476,19 @@ Contains lactose, see leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 7 x 1 film-coated tablets
-- 10 x 1 film-coated tablets
-- 14 x 1 film-coated tablets
-- 28 x 1 film-coated tablets
-- 30 x 1 film-coated tablets
-- 60 x 1 film-coated tablets
-- 70 x 1 film-coated tablets
-- 90 x 1 film-coated tablets
-
-100 x 1 film-coated tablets
+- 7 × 1 film-coated tablets
+- 10 × 1 film-coated tablets
+- 14 × 1 film-coated tablets
+- 28 × 1 film-coated tablets
+- 30 × 1 film-coated tablets
+- 60 × 1 film-coated tablets
+- 70 × 1 film-coated tablets
+- 90 × 1 film-coated tablets
+- 100 × 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use
+Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1518,9 +1512,11 @@ Boehringer Ingelheim International GmbH 55216 Ingelheim am Rhein Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/14/930/001 7 x 1 tablets EU/1/14/930/002 10 x 1 tablets EU/1/14/930/003 14 x 1 tablets EU/1/14/930/004 28 x 1 tablets EU/1/14/930/005 30 x 1 tablets EU/1/14/930/006 60 x 1 tablets EU/1/14/930/007 70 x 1 tablets EU/1/14/930/008 90 x 1 tablets
+```
+EU/1/14/930/001 7 × 1 tablets EU/1/14/930/002 10 × 1 tablets EU/1/14/930/003 14 × 1 tablets EU/1/14/930/004 28 × 1 tablets EU/1/14/930/005 30 × 1 tablets EU/1/14/930/006 60 × 1 tablets EU/1/14/930/007 70 × 1 tablets EU/1/14/930/008 90 × 1 tablets
+```
 
-EU/1/14/930/009 100 x 1 tablets
+EU/1/14/930/009 100 × 1 tablets
 
 ## 13. BATCH NUMBER
 
@@ -1540,7 +1536,9 @@ Jardiance 25 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -1553,39 +1551,27 @@ NN
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
+Jardiance 25 mg tablets empagliflozin
+
 | 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
 |------|------------------------------------------|
+
+Boehringer Ingelheim
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
+EXP
+
 | 4.   | BATCH NUMBER   |
 |------|----------------|
+
+Lot
 
 | 5.   | OTHER   |
 |------|---------|
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-Blisters (perforated)
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Jardiance 25 mg tablets empagliflozin
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-Boehringer Ingelheim
-
-3. EXPIRY DATE
-
-EXP
-
-4. BATCH NUMBER
-
-Lot
-
-## 5. OTHER
+47
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1595,9 +1581,7 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Jardiance 10 mg film-coated tablets Jardiance 25 mg film-coated tablets
-
-## empagliflozin
+## Jardiance 10 mg film-coated tablets Jardiance 25 mg film-coated tablets empagliflozin
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1892,15 +1876,12 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Jardiance contains
 
 - -The active substance is empagliflozin.
-- -
-
-Each tablet contains 10 mg or 25 mg empagliflozin.
-
+- -Each tablet contains 10 mg or 25 mg empagliflozin.
 - -The other ingredients are:
+- -tablet core: lactose monohydrate (see end of section 2 under 'Jardiance contains lactose'), microcrystalline cellulose, hydroxypropylcellulose, croscarmellose sodium (see end of section 2 under 'Jardiance contains sodium'), colloidal anhydrous silica, magnesium stearate
 
 <div style=\"page-break-after: always\"></div>
 
-- -tablet core: lactose monohydrate (see end of section 2 under 'Jardiance contains lactose'), microcrystalline cellulose, hydroxypropylcellulose, croscarmellose sodium (see end of section 2 under 'Jardiance contains sodium'), colloidal anhydrous silica, magnesium stearate
 - -film-coating: hypromellose, titanium dioxide (E171), talc, macrogol (400), iron oxide yellow (E172)
 
 ## What Jardiance looks like and contents of the pack
@@ -1909,7 +1890,7 @@ Jardiance 10 mg film-coated tablets are round, pale yellow, biconvex and bevel-e
 
 Jardiance 25 mg film-coated tablets are oval, pale yellow and biconvex. They have 'S25' on one side and the Boehringer Ingelheim logo on the other side. The tablet is 11.1 mm long and has a width of 5.6 mm.
 
-Jardiance tablets are available in PVC/aluminium perforated unit dose blisters. The pack sizes are 7 x 1, 10 x 1, 14 x 1, 28 x 1, 30 x 1, 60 x 1, 70 x 1, 90 x 1, and 100 x 1 film-coated tablets.
+Jardiance tablets are available in PVC/aluminium perforated unit dose blisters. The pack sizes are 7 × 1, 10 × 1, 14 × 1, 28 × 1, 30 × 1, 60 × 1, 70 × 1, 90 × 1, and 100 × 1 film-coated tablets.
 
 Not all pack sizes may be marketed in your country.
 
@@ -1935,97 +1916,97 @@ For any information about this medicine, please contact the local representative
 
 Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
 
-## България
-
-Бьорингер Ингелхайм РЦВ ГмбХ и Ко. КГ - клон България Тел: +359 2 958 79 98
-
-## Česká republika
-
-Boehringer Ingelheim spol. s r.o. Tel: +420 234 655 111
-
-## Danmark
-
-Boehringer Ingelheim Danmark A/S Tlf: +45 39 15 88 88
-
-## Deutschland
-
-Boehringer Ingelheim Pharma GmbH &amp; Co. KG Tel: +49 (0) 800 77 90 900
-
-## Eesti
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Eesti filiaal Tel: +372 612 8000
-
-## Ελλάδα
-
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E. Tηλ: +30 2 10 89 06 300
-
-## España
-
-Boehringer Ingelheim España, S.A. Tel: +34 93 404 51 00
-
-## France
-
-Boehringer Ingelheim France S.A.S. Tél: +33 3 26 50 45 33
-
-## Hrvatska
-
-Boehringer Ingelheim Zagreb d.o.o. Tel: +385 1 2444 600
-
-## Ireland
-
-Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
-
-## Ísland
-
-Vistor ehf. Sími: +354 535 7000
-
 ## Lietuva
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas Tel: +370 5 2595942
+
+## България
+
+Бьорингер Ингелхайм РЦВ ГмбХ и Ко. КГ - клон България Тел.: +359 2 958 79 98
 
 ## Luxembourg/Luxemburg
 
 Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
 
+## Česká republika
+
+Boehringer Ingelheim spol. s r.o. Tel: +420 234 655 111
+
 ## Magyarország
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Magyarországi Fióktelepe Tel: +36 1 299 89 00
+Boehringer Ingelheim RCV GmbH &amp; Co KG Magyarországi Fióktelepe Tel.: +36 1 299 89 00
+
+## Danmark
+
+Boehringer Ingelheim Danmark A/S Tlf.: +45 39 15 88 88
 
 ## Malta
 
 Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 
+## Deutschland
+
+Boehringer Ingelheim Pharma GmbH &amp; Co. KG Tel: +49 (0) 800 77 90 900
+
 ## Nederland
 
 Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
+## Eesti
+
+Boehringer Ingelheim RCV GmbH &amp; Co KG Eesti filiaal Tel: +372 612 8000
+
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
+
+## Ελλάδα
+
+Boehringer Ingelheim Ελλάς Μονοπρόσωπη Α.Ε. Tηλ: +30 2 10 89 06 300
 
 ## Österreich
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Tel: +43 1 80 105-7870
 
+## España
+
+Boehringer Ingelheim España, S.A. Tel: +34 93 404 51 00
+
 ## Polska
 
-Boehringer Ingelheim Sp. z o.o. Tel: +48 22 699 0 699
+Boehringer Ingelheim Sp. z o.o. Tel.: +48 22 699 0 699
+
+## France
+
+Boehringer Ingelheim France S.A.S. Tél: +33 3 26 50 45 33
 
 ## Portugal
 
 Boehringer Ingelheim Portugal, Lda. Tel: +351 21 313 53 00
 
+## Hrvatska
+
+Boehringer Ingelheim Zagreb d.o.o. Tel: +385 1 2444 600
+
 ## România
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Viena - Sucursala Bucureşti Tel: +40 21 302 28 00
+
+## Ireland
+
+Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 
 ## Slovenija
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Podružnica Ljubljana Tel: +386 1 586 40 00
 
+## Ísland
+
+Vistor ehf. Sími: +354 535 7000
+
 ## Slovenská republika
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG organizačná zložka
+Boehringer Ingelheim RCV GmbH &amp; Co KG organizačná zložka Tel: +421 2 5810 1211
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2037,7 +2018,7 @@ Tel: +39 02 5355 1
 
 ## Κύπρος
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E. Tηλ: +30 2 10 89 06 300
+Boehringer Ingelheim Ελλάς Μονοπρόσωπη Α.Ε. Tηλ: +30 2 10 89 06 300
 
 ## Latvija
 
@@ -2047,9 +2028,7 @@ Tel: +371 67 240 011
 
 ## This leaflet was last revised in { MM/YYYY } .
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-Tel: +421 2 5810 1211
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Suomi/Finland
 
@@ -2060,9 +2039,3 @@ Boehringer Ingelheim Finland Ky Puh/Tel: +358 10 3102 800
 Boehringer Ingelheim AB
 
 Tel: +46 8 721 21 00
-
-## United Kingdom (Northern Ireland)
-
-Boehringer Ingelheim Ireland Ltd.
-
-Tel: +353 1 295 9620

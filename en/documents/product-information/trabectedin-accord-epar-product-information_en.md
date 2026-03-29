@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-15 11:55:46
+document_datetime: 2026-03-25 09:01:09
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/trabectedin-accord-epar-product-information_en.pdf
 document_name: trabectedin-accord-epar-product-information_en.pdf
 version: success
-processing_time: 7.6139785
-conversion_datetime: 2025-12-15 06:48:43.411365
+processing_time: 8.5335716
+conversion_datetime: 2026-03-29 12:37:51.941347
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -76,7 +76,7 @@ Trabectedin Accord must be administered under the supervision of a physician exp
 
 ## Posology
 
-For the treatment of soft tissue sarcoma, the recommended dose is 1.5 mg/m 2  body surface area, administered as an intravenous infusion over 24 hours with a three-week interval between cycles.
+For the treatment of soft tissue sarcoma, the recommended dose is 1.5 mg/m 2 body surface area, administered as an intravenous infusion over 24 hours with a three-week interval between cycles.
 
 For the treatment of ovarian cancer trabectedin is administered every three weeks as a 3-hour infusion at a dose of 1.1 mg/m 2 , immediately after PLD 30 mg/m 2 . To minimize the risk of PLD infusion reactions, the initial dose is administered at a rate no greater than 1 mg/minute. If no infusion reaction is observed, subsequent PLD infusions may be administered over a 1-hour period (see also PLD Summary of Product Characteristics [SmPC] for specific administration advice).
 
@@ -84,7 +84,7 @@ All patients must receive corticosteroids e.g. 20 mg of dexamethasone intravenou
 
 The following criteria are required to allow treatment with Trabectedin Accord:
 
-- -Absolute neutrophil count (ANC) ≥ 1,500/mm 3
+- -Ab solute neutrophil count (ANC) ≥ 1,500/mm 3
 - -Platelet count ≥ 100,000/mm 3
 - -Bilirubin ≤ upper limit of normal (ULN)
 - -Alkaline phosphatase ≤ 2.5 x ULN (consider hepatic isoenzymes 5-nucleotidase or gamma glutamyl transpeptidase (GGT), if the elevation could be osseous in origin).
@@ -176,7 +176,7 @@ Creatinine clearance must be monitored prior to and during treatment. Trabectedi
 
 Grades 3 or 4 neutropenia and thrombocytopenia associated with trabectedin therapy have been very commonly reported. A full blood cell count including differential and platelet count must be performed at baseline, weekly for the first two cycles and then once between cycles (see section 4.2). Patients who develop fever should promptly seek medical attention. If this occurs, active supportive therapy should be started immediately.
 
-Trabectedin Accord should not be administered to patients with baseline neutrophil counts of less than 1,500 cells/mm 3  and platelets count of less than 100,000 cells/mm 3 . If severe neutropenia (ANC &lt; 500 cells/mm 3 ) lasting more than 5 days or associated with fever or infection occurs, dose reduction is recommended (see section 4.2).
+Trabectedin Accord should not be administered to patients with baseline neutrophil counts of less than 1,500 cells/mm 3 and platelets count of less than 100,000 cells/mm 3 . If severe neutropenia (ANC &lt; 500 cells/mm 3 ) lasting more than 5 days or associated with fever or infection occurs, dose reduction is recommended (see section 4.2).
 
 ## Nausea and vomiting
 
@@ -232,7 +232,7 @@ The concomitant use of trabectedin with alcohol must be avoided (see section 4.5
 
 Women of childbearing potential must use effective contraception during treatment and 3 months thereafter, and immediately inform the treating physician if a pregnancy occurs (see section 5.3). Men in fertile age must use effective contraception during treatment and 5 months after treatment (see section 4.6).
 
-This medicine contains potassium, less than 1 mmol (39 mg) per vial, i.e. essentially 'potassium-free'.
+This medicine contains potassium, less than 1 mmol (39 mg) per vial, i.e. essentially 'potassium -free'.
 
 See also PLD Summary of Product Characteristics for more detailed information on warnings and precautions.
 
@@ -396,15 +396,15 @@ Trabectedin has been shown to exert antiproliferative in vitro and in vivo activ
 
 In a placebo-controlled QT/QTc study, trabectedin did not prolong the QTc interval in patients with advanced solid malignancies. Clinical efficacy and safety
 
-The efficacy and safety of trabectedin in soft tissue sarcoma is based in a randomised trial in patients with locally advanced or metastatic lipo- or leiomyosarcoma, whose disease had progressed or relapsed after treatment with at least anthracyclines and ifosfamide. In this trial trabectedin was administered either at 1.5 mg/m 2  as a 24-hour intravenous infusion every 3 weeks or at 0.58 mg/m 2 weekly as a 3-hour intravenous infusion for 3-weeks of a 4-week cycle. The protocol specified final time to progression (TTP) analysis showed a 26.6% reduction in the relative risk of progression for patients treated in the 24-h q3wk group [Hazard Ratio (HR)=0.734, Confidence Interval (CI): 0.5540.974]. Median TTP values were 3.7 months (CI: 2.1-5.4 m) in the 24-h q3wk group and 2.3 months (CI: 2.0-3.5 m) in the 3-h qwk group (p=0.0302). No significant differences were detected in overall survival (OS). Median OS with the 24-h q3wk regimen was 13.9 months (CI: 12.5-18.6) and 60.2% of patients were alive at 1 year (CI: 52.0-68.5%).
+The efficacy and safety of trabectedin in soft tissue sarcoma is based in a randomised trial in patients with locally advanced or metastatic lipo- or leiomyosarcoma, whose disease had progressed or relapsed after treatment with at least anthracyclines and ifosfamide. In this trial trabectedin was administered either at 1.5 mg/m 2 as a 24-hour intravenous infusion every 3 weeks or at 0.58 mg/m 2 weekly as a 3-hour intravenous infusion for 3-weeks of a 4-week cycle. The protocol specified final time to progression (TTP) analysis showed a 26.6% reduction in the relative risk of progression for patients treated in the 24-h q3wk group [Hazard Ratio (HR)=0.734, Confidence Interval (CI): 0.5540.974]. Median TTP values were 3.7 months (CI: 2.1-5.4 m) in the 24-h q3wk group and 2.3 months (CI: 2.0-3.5 m) in the 3-h qwk group (p=0.0302). No significant differences were detected in overall survival (OS). Median OS with the 24-h q3wk regimen was 13.9 months (CI: 12.5-18.6) and 60.2% of patients were alive at 1 year (CI: 52.0-68.5%).
 
 Additional efficacy data are available from 3 single-arm Phase II trials with similar populations treated with the same regimen. These trials evaluated a total of 100 patients with lipo- and leiomyosarcoma and 83 patients with other types of sarcoma.
 
 Results from an expanded access program for patients with STS (study ET743-SAR-3002) show that among the 903 subjects assessed for OS, the median survival time was 11.9 months (95% CI: 11.2, 13.8). The median survival by histology tumour type was 16.2 months [95% CI: 14.1, 19.5] for subjects with leiomyosarcomas and liposarcomas and 8.4 months [95% CI: 7.1, 10.7] for subjects with other types of sarcomas. The median survival for subjects with liposarcoma was 18.1 months [95% CI: 15.0, 26.4] and for subjects with leiomyosarcoma 16.2 months [95% CI: 11.7, 24.3].
 
-Additional efficacy data are available from a randomized active-controlled phase III study of trabectedin vs. dacarbazine (Study ET743-SAR-3007), in patients treated for unresectable or metastatic lipo- or leiomyosarcoma who have been previously treated with at least an anthracycline and ifosfamide containing regimen, or an anthracycline containing regimen and one additional cytotoxic chemotherapy regimen. Patients in the trabectedin arm were required to receive dexamethasone 20 mg intravenous injection prior to each trabectedin infusion. Overall, 384 patients were randomized to the trabectedin group [1.5 mg/m 2  once every 3 weeks (q3wk 24-h)] and 193 patients to the dacarbazine group (1 g/m 2  once every 3 weeks). The median patient age was 56 years (range 17 to 81), 30% were male, 77% Caucasian, 12% African American and 4% Asian. Patients in the trabectedin and dacarbazine arms received a median of 4 and 2 cycles respectively. The primary efficacy endpoint of the study was OS, which included 381 death events (66% of all randomized patients): 258 (67.2%) deaths in the trabectedin group and 123 (63.7%) deaths in the dacarbazine group (HR 0.927 [95% CI: 0.748, 1.150; p=0.4920]). The final analysis showed no significant difference with a median survival follow-up of 21.2 months resulted in a median of 13.7 months (95% CI: 12.2, 16.0) for the trabectedin arm and 13.1 months [95% CI: 9.1, 16.2] for the dacarbazine arm. The main secondary endpoints are summarized in the table below:
+Additional efficacy data are available from a randomized active-controlled phase III study of trabectedin vs. dacarbazine (Study ET743-SAR-3007), in patients treated for unresectable or metastatic lipo- or leiomyosarcoma who have been previously treated with at least an anthracycline and ifosfamide containing regimen, or an anthracycline containing regimen and one additional cytotoxic chemotherapy regimen. Patients in the trabectedin arm were required to receive dexamethasone 20 mg intravenous injection prior to each trabectedin infusion. Overall, 384 patients were randomized to the trabectedin group [1.5 mg/m 2 once every 3 weeks (q3wk 24-h)] and 193 patients to the dacarbazine group (1 g/m 2 once every 3 weeks). The median patient age was 56 years (range 17 to 81), 30% were male, 77% Caucasian, 12% African American and 4% Asian. Patients in the trabectedin and dacarbazine arms received a median of 4 and 2 cycles respectively. The primary efficacy endpoint of the study was OS, which included 381 death events (66% of all randomized patients): 258 (67.2%) deaths in the trabectedin group and 123 (63.7%) deaths in the dacarbazine group (HR 0.927 [95% CI: 0.748, 1.150; p=0.4920]). The final analysis showed no significant difference with a median survival follow-up of 21.2 months resulted in a median of 13.7 months (95% CI: 12.2, 16.0) for the trabectedin arm and 13.1 months [95% CI: 9.1, 16.2] for the dacarbazine arm. The main secondary endpoints are summarized in the table below:
 
-## Efficacy results from Study ET743-SAR-3007
+Efficacy results from Study ET743-SAR-3007
 
 | Endpoints / Study population   | Trabectedin   | Dacarbazine   | Hazard Ratio / Odds Ratio   | p value   |
 |--------------------------------|---------------|---------------|-----------------------------|-----------|
@@ -420,7 +420,7 @@ Additional efficacy data are available from a randomized active-controlled phase
 | DOR (months; 95% CI)               | 6.5         | 4.2         | 0.47 (0.17, 1.32)  | 0.14    |
 | CBR, n (% ); Odds ratio (95% CI)   | 34.2%       | 18.5%       | 2.3 (1.45, 3.7)    | <0.0002 |
 
-Additional efficacy data are available from a randomized, open-label, multicenter phase II study [JapicCTI-121850] conducted in Japanese patients with translocation-related sarcoma (TRS), most common being myxoid round-cell liposarcoma (n=24), synovial sarcoma (n=18), mesenchymal chondrosarcoma (n=6), and extraskeletal Ewing sarcoma/PNET, alveolar soft part sarcoma, alveolar rhabdomyosarcoma and clear cell sarcoma (n=5 each). The study assessed the efficacy and safety of trabectedin vs. best supportive care (BSC) as second-line or later therapy for patients with advanced TRS unresponsive or intolerant to standard chemotherapy regimen. The patients received the trabectedin dose of 1.2 mg/m 2  recommended for Japanese patients [1.2 mg/m 2  once every 3 weeks (q3wk 24-h)]. A total of 76 Japanese patients were enrolled in the study, among which 73 patients were included in the final analysis set. The study primary endpoint was PFS, that showed a statistically significant improvement in favour of trabectedin over BSC [HR=0.07; 95% CI: 0.03-0.16; p &lt;0.0001], with a median PFS in the trabectedin group of 5.6 months [95% CI: 4.1- 7.5] and in the BSC group of 0.9 months [95% CI: 0.7-1.0]. The secondary endpoints included objective response analysed using the RECIST and Choi criteria. Using the RECIST criteria the ORR among patients treated with trabectedin was 3 (8.1%; 95% CI: 1.7.21.9%) and 0 (0%, 95% CI: 0.0-9.7%) among patients treated with best supportive care, while the CBR was 24 (64.9%, 95% CI: 47.5-79.9%) versus 0 (0%, 95% CI: 0.0-9.7%), respectively. Using the Choi criteria the ORR among patients treated with trabectedin was 4 (10.8%; 95% CI: 3.0-25.4%) and 0 (0%, 95% CI: 0.0-9.7%) among patients treated with best supportive care, while the CBR was 7 (18.9%, 95% CI: 8.0-35.2%) versus 0 (0%, 95% CI: 0.0-9.7%), respectively.
+Additional efficacy data are available from a randomized, open-label, multicenter phase II study [JapicCTI-121850] conducted in Japanese patients with translocation-related sarcoma (TRS), most common being myxoid round-cell liposarcoma (n=24), synovial sarcoma (n=18), mesenchymal chondrosarcoma (n=6), and extraskeletal Ewing sarcoma/PNET, alveolar soft part sarcoma, alveolar rhabdomyosarcoma and clear cell sarcoma (n=5 each). The study assessed the efficacy and safety of trabectedin vs. best supportive care (BSC) as second-line or later therapy for patients with advanced TRS unresponsive or intolerant to standard chemotherapy regimen. The patients received the trabectedin dose of 1.2 mg/m 2 recommended for Japanese patients [1.2 mg/m 2 once every 3 weeks (q3wk 24-h)]. A total of 76 Japanese patients were enrolled in the study, among which 73 patients were included in the final analysis set. The study primary endpoint was PFS, that showed a statistically significant improvement in favour of trabectedin over BSC [HR=0.07; 95% CI: 0.03-0.16; p &lt;0.0001], with a median PFS in the trabectedin group of 5.6 months [95% CI: 4.1- 7.5] and in the BSC group of 0.9 months [95% CI: 0.7-1.0]. The secondary endpoints included objective response analysed using the RECIST and Choi criteria. Using the RECIST criteria the ORR among patients treated with trabectedin was 3 (8.1%; 95% CI: 1.7.21.9%) and 0 (0%, 95% CI: 0.0-9.7%) among patients treated with best supportive care, while the CBR was 24 (64.9%, 95% CI: 47.5-79.9%) versus 0 (0%, 95% CI: 0.0-9.7%), respectively. Using the Choi criteria the ORR among patients treated with trabectedin was 4 (10.8%; 95% CI: 3.0-25.4%) and 0 (0%, 95% CI: 0.0-9.7%) among patients treated with best supportive care, while the CBR was 7 (18.9%, 95% CI: 8.0-35.2%) versus 0 (0%, 95% CI: 0.0-9.7%), respectively.
 
 The efficacy of trabectedin/PLD combination in relapsed ovarian cancer is based on ET743-OVA-301, a randomized phase 3 study of 672 patients who received either trabectedin (1.1 mg/m 2 ) and PLD (30 mg/m 2 ) every 3 weeks or PLD (50 mg/m 2 ) every 4 weeks. The primary analysis of progression free survival (PFS) was performed in 645 patients with measurable disease and assessed by independent radiology review. Treatment with the combination arm resulted in a 21% risk reduction for disease progression compared to PLD alone (HR=0.79, CI: 0.65-0.96, p=0.0190). Secondary analyses of PFS and response rate also favoured the combination arm. The results of the main efficacy analyses are summarised in the table below:
 
@@ -448,15 +448,9 @@ Efficacy analyses from ET743 -OVA -301
 | Independent radiology review, all randomised                                    | n=337                                                                           | n=335                                                                           |                                                                                 |                                                                                 |
 | ORR (95% CI) (%)                                                                | 27.6 (22.9-32.7)                                                                | 18.8 (14.8-23.4)                                                                | 1.65 (1.14-2.37)                                                                | 0.0080 b                                                                        |
 
-* Primary efficacy analysis
+Based on independent oncology review, patients with platinum-free interval (PFI) &lt; 6 months (35% in trabectedin+PLD and 37% in PLD arm) had similar PFS in the two arms with both showing median PFS of 3.7 months (HR=0.89, CI: 0.67-1.20). In patients with PF I ≥ 6 months (65% in trabectedin +PLD and 63% in PLD arm), median PFS was 9.7 months in the Trabectedin +PLD arm compared with 7.2 months in the PLD monotherapy arm (HR=0.66, CI: 0.52-0.85).
 
-a Log rank test
-
-b Fisher's test
-
-Based on independent oncology review, patients with platinum-free interval (PFI) &lt; 6 months (35% in trabectedin+PLD and 37% in PLD arm) had similar PFS in the two arms with both showing median PFS of 3.7 months (HR=0.89, CI: 0.67-1.20). In patients with PFI ≥ 6 months (65% in trabectedin +PLD and 63% in PLD arm), median PFS was 9.7 months in the Trabectedin +PLD arm compared with 7.2 months in the PLD monotherapy arm (HR=0.66, CI: 0.52-0.85).
-
-In the final analysis, the effect of the trabectedin+PLD combination vs. PLD alone on overall survival was more pronounced in patients with PFI ≥ 6 months (platinum-sensitive population: 27.0 vs. 24.1 months, HR=0.83, CI: 0.67-1.04) than in those with PFI &lt; 6 months (platinum-resistant population: 14.2 vs. 12.4 months, HR=0.92, CI: 0. 70-1.21).
+In the final analysis, the effect of the trabectedin+PLD combination vs. PLD alone on overall survival was more pr onounced in patients with PFI ≥ 6 months (platinum-sensitive population: 27.0 vs. 24.1 months, HR=0.83, CI: 0.67-1.04) than in those with PFI &lt; 6 months (platinum-resistant population: 14.2 vs. 12.4 months, HR=0.92, CI: 0. 70-1.21).
 
 The benefit in OS with trabectedin plus PLD was not due to the effect of subsequent therapies, which were well balanced between the two treatment arms.
 
@@ -464,7 +458,7 @@ In the multivariate analyses including PFI, treatment effect on overall survival
 
 No statistically significant differences were found between treatment arms in global measures of Quality of Life.
 
-The trabectedin+PLD combination in relapsed ovarian cancer also was evaluated in study ET743-OVC-3006, a phase 3 study in which women with ovarian cancer after failure of a second platinum-containing regimen were randomized to trabectedin (1.1 mg/m 2 ) and PLD (30 mg/m 2 ) every 3 weeks or PLD (50 mg/m 2 ) every 4 weeks. Study participants were required to be platinum sensitive (PFI ≥ 6 months) following their first platinum-containing regimen and have a complete or partial response to a second line platinum-based chemotherapy (without PFI restrictions) meaning that these patients could be either platinum-sensitive (PFI ≥ 6 months) or platinum-resistant (PFI &lt; 6 months) following their second platinum-containing regimen. A post hoc analysis determined that 42% of enrolled subjects were platinum-resistant (PFI &lt; 6 months) following their last platinum-containing regimen.
+The trabectedin+PLD combination in relapsed ovarian cancer also was evaluated in study ET743-OVC-3006, a phase 3 study in which women with ovarian cancer after failure of a second platinum-containing regimen were randomized to trabectedin (1.1 mg/m 2 ) and PLD (30 mg/m 2 ) every 3 weeks or PLD (50 mg/m 2 ) every 4 weeks. Study participants were required to be platinum sensitive (PFI ≥ 6 months) following their first platinum-containing regimen and have a complete or partial response to a second line platinum-based chemotherapy (without PFI restrictions) meaning that these patients could be either platinumsensitive (PFI ≥ 6 months) or platinum-resistant (PFI &lt; 6 months) following their second platinum-containing regimen. A post hoc analysis determined that 42% of enrolled subjects were platinum-resistant (PFI &lt; 6 months) following their last platinum-containing regimen.
 
 The primary endpoint of study ET743-OVC-3006 was OS and secondary endpoints included PFS and ORR. The study was sized to enrol approximately 670 patients in order to observe 514 deaths to detect a HR of 0.78 for OS with 80% power given a two-sided significance level of 0.05 spread across two planned analyses on OS, at interim (60% or 308/514 deaths) and final analysis (514 deaths). Two early unscheduled futility analyses were performed at the request of the Independent Data Monitoring Committee (IDMC). Following the second futility analysis performed at 45% of planned events (232/514 deaths), the IDMC recommended discontinuing the study due to (1) futility of the primary analysis on OS and (2) excessive risk based on imbalance of adverse events not in favour of trabectedin+PLD. At early termination of the study, 9% (52/572 treated) of subjects stopped treatment, 45% (260/576 randomized) stopped follow-up, and 54% (310/576 randomized) were censored from OS assessment, precluding reliable estimates of PFS and OS endpoints.
 
@@ -474,7 +468,7 @@ No data are available comparing trabectedin +PLD to a platinum-based regimen in 
 
 ## Paediatric population
 
-In SAR-2005 phase I-II study, a total of 50 paediatric patients with rhabdomyosarcoma, Ewing sarcoma or non rhabdomyosarcoma soft tissue sarcoma were enrolled. Eight patients were treated with a dose of 1.3 mg/m 2  and 42 with 1.5 mg/m 2 . Trabectedin was administered as a 24-hour intravenous infusion every 21 days. Forty patients were fully evaluable for response. One partial response (PR) centrally confirmed was observed: overall RR: 2.5% CI95% (0.1%-13.2%). The PR corresponded to a patient with an alveolar rhabdomyosarcoma. Duration of the response was 6.5 months No responses were observed for Ewing sarcoma and NRSTS, [RR: 0% CI95% (0%-30.9%)]. Three patients achieved stable disease (one with rhabdomyosarcoma after 15 cycles, one with spindle cell sarcoma after 2 cycles, and one with Ewing sarcoma after 4 cycles.
+In SAR-2005 phase I-II study, a total of 50 paediatric patients with rhabdomyosarcoma, Ewing sarcoma or non rhabdomyosarcoma soft tissue sarcoma were enrolled. Eight patients were treated with a dose of 1.3 mg/m 2 and 42 with 1.5 mg/m 2 . Trabectedin was administered as a 24-hour intravenous infusion every 21 days. Forty patients were fully evaluable for response. One partial response (PR) centrally confirmed was observed: overall RR: 2.5% CI95% (0.1%-13.2%). The PR corresponded to a patient with an alveolar rhabdomyosarcoma. Duration of the response was 6.5 months No responses were observed for Ewing sarcoma and NRSTS, [RR: 0% CI95% (0%-30.9%)]. Three patients achieved stable disease (one with rhabdomyosarcoma after 15 cycles, one with spindle cell sarcoma after 2 cycles, and one with Ewing sarcoma after 4 cycles.
 
 Adverse  reactions,  included  reversible  elevation  of  liver  enzymes  and  haematological  events;  in addition, fever, infection, dehydration and thrombosis/embolism were also reported.
 
@@ -502,7 +496,7 @@ A population pharmacokinetic analysis indicated that the plasma clearance of tra
 
 <div style=\"page-break-after: always\"></div>
 
-area (range: 0.9 to 2.8 m 2 ). A population pharmacokinetic analysis showed that plasma trabectedin concentrations observed in the Japanese population at dose level 1.2 mg/m 2  were equivalent to those obtained in the non-Japanese western population at 1.5 mg/m².
+area (range: 0.9 to 2.8 m 2 ). A population pharmacokinetic analysis showed that plasma trabectedin concentrations observed in the Japanese population at dose level 1.2 mg/m 2 were equivalent to those obtained in the non-Japanese western population at 1.5 mg/m².
 
 ## Renal impairment
 
@@ -510,13 +504,13 @@ There is no relevant influence of renal function measured by creatinine clearanc
 
 ## Hepatic impairment
 
-The effect of hepatic impairment on the pharmacokinetics of trabectedin was assessed in 15 cancer patients at doses ranging from 0.58 to 1.3 mg/m 2  administered as 3-hour infusion. The geometric mean dose normalized trabectedin exposure (AUC) increased by 97% (90% CI: 20%, 222%) in 6 patients with moderate hepatic impairment (increased serum bilirubin levels from 1.5 to 3 x ULN and increase of aminotransferases (AST or ALT) &lt; 8 x ULN) following administration of a single trabectedin dose of 0.58 mg/m 2  (n=3) or 0.9 mg/m 2  (n=3) compared to 9 patients with normal liver function following administration of a single trabectedin dose of 1.3 mg/m 2  (see sections 4.2 and 4.4).
+The effect of hepatic impairment on the pharmacokinetics of trabectedin was assessed in 15 cancer patients at doses ranging from 0.58 to 1.3 mg/m 2 administered as 3-hour infusion. The geometric mean dose normalized trabectedin exposure (AUC) increased by 97% (90% CI: 20%, 222%) in 6 patients with moderate hepatic impairment (increased serum bilirubin levels from 1.5 to 3 x ULN and increase of aminotransferases (AST or ALT) &lt; 8 x ULN) following administration of a single trabectedin dose of 0.58 mg/m 2 (n=3) or 0.9 mg/m 2 (n=3) compared to 9 patients with normal liver function following administration of a single trabectedin dose of 1.3 mg/m 2 (see sections 4.2 and 4.4).
 
 ## 5.3 Preclinical safety data
 
 Preclinical data indicate that trabectedin has limited effect on the cardiovascular, respiratory and central nervous system at exposures below the therapeutic clinical range, in terms of AUC.
 
-The effects of trabectedin on cardiovascular and respiratory function have been investigated in vivo (anesthetised Cynomolgus monkeys). A 1 hour infusion schedule was selected to attain maximum plasma levels (Cmax values) in the range of those observed in the clinic. The plasma trabectedin levels attained were 10.6 ± 5.4 (Cmax), higher than those reached in patients after infusion of 1,500 µg/m 2  for 24 (Cmax of 1.8 ± 1.1 ng/ml) and similar to those reached after administration of the same dose by 3 hour infusion (Cmax of 10.8 ± 3.7 ng/ml).
+The effects of trabectedin on cardiovascular and respiratory function have been investigated in vivo (anesthetised Cynomolgus monkeys). A 1 hour infusion schedule was selected to attain maximum plasma levels (Cmax values) in the range of those observed in the clinic. The plasma trabectedin levels attained were 10.6 ± 5.4 (Cmax), higher than those reached in patients after infusion of 1,500 µg/m 2 for 24 (Cmax of 1.8 ± 1.1 ng/ml) and similar to those reached after administration of the same dose by 3 hour infusion (Cmax of 10.8 ± 3.7 ng/ml).
 
 Myelosupression and hepatoxicity were identified as the primary toxicity for trabectedin. Findings observed included haematopoietic toxicity (severe leukopenia, anaemia, and lymphoid and bone marrow depletion) as well as increases in liver function tests, hepatocellular degeneration, intestinal epithelial necrosis, and severe local reactions at the injection site. Renal toxicological findings were detected in multi-cycle toxicity studies conducted in monkeys. These findings were secondary to severe local reaction at the administration site, and therefore uncertainly attributable to trabectedin; however, caution must be guaranteed in the interpretation of these renal findings, and treatment-related toxicity cannot be excluded.
 
@@ -524,7 +518,7 @@ Trabectedin is genotoxic both in vitro and in vivo . Long-term carcinogenicity s
 
 Fertility studies with trabectedin were not performed but limited histopathological changes were observed in the gonads in the repeat dose toxicity studies. Considering the nature of the compound (cytotoxic and mutagenic), it is likely to affect the reproductive capacity.
 
-Placental transfer of trabectedin and fetal exposure to trabectedin were observed in a study in pregnant rats that received a single i.v.  14 C-trabectedin dose at 0.061 mg/kg. Maximum fetal tissue radioactivity concentration was similar to that in maternal plasma or blood.
+Placental transfer of trabectedin and fetal exposure to trabectedin were observed in a study in pregnant rats that received a single i.v. 14 C-trabectedin dose at 0.061 mg/kg. Maximum fetal tissue radioactivity concentration was similar to that in maternal plasma or blood.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -532,7 +526,7 @@ Placental transfer of trabectedin and fetal exposure to trabectedin were observe
 
 ## 6.1 List of excipients
 
-Sucrose
+## Sucrose
 
 Potassium dihydrogen phosphate Phosphoric acid (for pH-adjustment) Potassium hydroxide (for pH-adjustment)
 
@@ -546,7 +540,7 @@ Unopened vials
 
 ## Trabectedin Accord 0.25 mg
 
-18 months
+24 months
 
 ## Trabectedin Accord 1 mg
 
@@ -648,7 +642,7 @@ Trabectedin Accord 1 mg EU/1/24/1902/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 25 April 2025
 
 <div style=\"page-break-after: always\"></div>
 
@@ -689,20 +683,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
--  Periodic safety update reports (PSURs)
+- Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
--  Risk management plan (RMP)
+- Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -718,7 +712,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON 0.25 mg vial
+OUTER CARTON -0.25 mg vial
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -736,15 +730,11 @@ Also contains: sucrose, potassium dihydrogen phosphate, phosphoric acid and pota
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Powder for concentrate for solution for infusion
-
-1 vial
+Powder for concentrate for solution for infusion 1 vial
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For intravenous use after reconstitution and further dilution.
-
-Read the package leaflet before use.
+For intravenous use after reconstitution and further dilution. Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -787,7 +777,7 @@ Lot
 
 Justification for not including Braille accepted
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -803,7 +793,7 @@ NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-Vial label 0.25 mg vial
+Vial label -0.25 mg vial
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -811,13 +801,11 @@ Trabectedin Accord 0.25 mg powder for concentrate trabectedin i.v.
 
 ## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -825,14 +813,13 @@ Lot
 
 0.25 mg
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON 1 mg vial
+OUTER CARTON -1 mg vial
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -850,15 +837,11 @@ Also contains: sucrose, potassium dihydrogen phosphate, phosphoric acid and pota
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Powder for concentrate for solution for infusion
-
-1 vial
+Powder for concentrate for solution for infusion 1 vial
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For intravenous use after reconstitution and further dilution.
-
-Read the package leaflet before use.
+For intravenous use after reconstitution and further dilution. Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -890,12 +873,14 @@ Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n Edifici Est,
 
 EU/1/24/1902/002
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
@@ -906,7 +891,9 @@ Justification for not including Braille accepted
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -1057,15 +1044,15 @@ During your treatment with Trabectedin Accord you may feel tired and experience 
 
 ## Trabectedin Accord contains potassium
 
-This medicine contains potassium, less than 1 mmol (39 mg) per vial, and can therefore be considered as essentially 'potassium-free'.
+This medicine contains potassium, less than 1 mmol (39 mg) per vial, and can therefore be considered as essentially 'potassium -free'.
 
 ## 3. How to use Trabectedin Accord
 
 Trabectedin Accord is given to you under the supervision of a physician experienced in the use of chemotherapy. Its use should be confined to qualified oncologists or other health professionals specialised in the administration of cytotoxic medicines.
 
-For the treatment of soft tissue sarcoma, the usual dose is 1.5 mg/m 2  of body surface area. During the treatment period, your doctor will carefully monitor you and decide the most appropriate dosage of Trabectedin Accord to give to you. The recommended dose in Japanese patients is lower than the usual dose for all other races, and is 1.2 mg/m 2  of body surface area.
+For the treatment of soft tissue sarcoma, the usual dose is 1.5 mg/m 2 of body surface area. During the treatment period, your doctor will carefully monitor you and decide the most appropriate dosage of Trabectedin Accord to give to you. The recommended dose in Japanese patients is lower than the usual dose for all other races, and is 1.2 mg/m 2 of body surface area.
 
-For the treatment of ovarian cancer, the usual dose is 1.1 mg/m 2  body surface area after the administration of 30 mg/m 2  body surface area of PLD.
+For the treatment of ovarian cancer, the usual dose is 1.1 mg/m 2 body surface area after the administration of 30 mg/m 2 body surface area of PLD.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1212,7 +1199,7 @@ Accord Healthcare S.L.U. Tel: +34 93 301 00 64
 
 EL
 
-Win Medica Α.Ε.
+Win Medica Α . Ε .
 
 Τηλ: +30 210 74 88 821
 
@@ -1228,7 +1215,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 The following information is intended for healthcare professionals only:
 
-## Instructions for use - preparation, handling and disposal
+## Instructions for use -preparation, handling and disposal
 
 Appropriate procedures for proper handling and disposal of cytotoxic medicines must be followed. Any unused medicine or waste material should be disposed of in accordance with local requirements for cytotoxic medicines.
 

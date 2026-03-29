@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-28 15:58:08
+document_datetime: 2026-03-25 16:41:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zirabev.html
 document_name: zirabev.html
 version: success
-processing_time: 0.1351423
-conversion_datetime: 2026-02-01 20:14:08.589647
+processing_time: 0.1269353
+conversion_datetime: 2026-03-29 12:42:21.243782
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Zirabev
 
 [RSS](/en/individual-human-medicine.xml/67176)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-bevacizumab Medicine Human Authorised
+bevacizumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -114,239 +116,123 @@ Reference Number: EMA/11276/2020
 
 English (EN) (148.1 KB - PDF)
 
-**First published:** 16/04/2019
-
-**Last updated:** 11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/en/documents/overview/zirabev-epar-medicine-overview_en.pdf)
 
-[Other languages (19)](#file-language-dropdown-144)
+[Other languages (19)](#file-language-dropdown-929)
 
 български (BG) (174.07 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/bg/documents/overview/zirabev-epar-medicine-overview_bg.pdf)
 
 español (ES) (148.02 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/es/documents/overview/zirabev-epar-medicine-overview_es.pdf)
 
 čeština (CS) (170.63 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/cs/documents/overview/zirabev-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (146.24 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/da/documents/overview/zirabev-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (150.58 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/de/documents/overview/zirabev-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (135.46 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/et/documents/overview/zirabev-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (172.28 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/el/documents/overview/zirabev-epar-medicine-overview_el.pdf)
 
 français (FR) (148.58 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/fr/documents/overview/zirabev-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (168.43 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/hr/documents/overview/zirabev-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (146.66 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/it/documents/overview/zirabev-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (178.52 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/lv/documents/overview/zirabev-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (170.78 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/lt/documents/overview/zirabev-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (169.54 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/hu/documents/overview/zirabev-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (179.66 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/mt/documents/overview/zirabev-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (146.93 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/nl/documents/overview/zirabev-epar-medicine-overview_nl.pdf)
 
 polski (PL) (173.36 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/pl/documents/overview/zirabev-epar-medicine-overview_pl.pdf)
 
 português (PT) (148.19 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/pt/documents/overview/zirabev-epar-medicine-overview_pt.pdf)
 
 română (RO) (169.9 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/ro/documents/overview/zirabev-epar-medicine-overview_ro.pdf)
 
 Suomi (FI) (145.5 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-11/02/2020
+**First published:** 16/04/2019 **Last updated:** 11/02/2020
 
 [View](/fi/documents/overview/zirabev-epar-medicine-overview_fi.pdf)
 
@@ -362,305 +248,161 @@ English (EN) (1.17 MB - PDF)
 
 Zirabev : EPAR - Product Information
 
-English (EN) (454.57 KB - PDF)
+English (EN) (447.35 KB - PDF)
 
-**First published:** 16/04/2019
-
-**Last updated:** 28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/en/documents/product-information/zirabev-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-30)
+[Other languages (24)](#file-language-dropdown-975)
 
-български (BG) (494.54 KB - PDF)
+български (BG) (710.65 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/bg/documents/product-information/zirabev-epar-product-information_bg.pdf)
 
-español (ES) (451.53 KB - PDF)
+español (ES) (590.04 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/es/documents/product-information/zirabev-epar-product-information_es.pdf)
 
-čeština (CS) (468.49 KB - PDF)
+čeština (CS) (692.78 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/cs/documents/product-information/zirabev-epar-product-information_cs.pdf)
 
-dansk (DA) (445.39 KB - PDF)
+dansk (DA) (556.43 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/da/documents/product-information/zirabev-epar-product-information_da.pdf)
 
-Deutsch (DE) (497.25 KB - PDF)
+Deutsch (DE) (650.64 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/de/documents/product-information/zirabev-epar-product-information_de.pdf)
 
-eesti keel (ET) (442.13 KB - PDF)
+eesti keel (ET) (632.73 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/et/documents/product-information/zirabev-epar-product-information_et.pdf)
 
-ελληνικά (EL) (508.35 KB - PDF)
+ελληνικά (EL) (766.65 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/el/documents/product-information/zirabev-epar-product-information_el.pdf)
 
-français (FR) (511.06 KB - PDF)
+français (FR) (767.78 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/fr/documents/product-information/zirabev-epar-product-information_fr.pdf)
 
-hrvatski (HR) (447.14 KB - PDF)
+hrvatski (HR) (653.69 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/hr/documents/product-information/zirabev-epar-product-information_hr.pdf)
 
-íslenska (IS) (449.45 KB - PDF)
+íslenska (IS) (582.54 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/is/documents/product-information/zirabev-epar-product-information_is.pdf)
 
-italiano (IT) (442.1 KB - PDF)
+italiano (IT) (660.97 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/it/documents/product-information/zirabev-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (453.19 KB - PDF)
+latviešu valoda (LV) (733.81 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/lv/documents/product-information/zirabev-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (471.95 KB - PDF)
+lietuvių kalba (LT) (720.55 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/lt/documents/product-information/zirabev-epar-product-information_lt.pdf)
 
-magyar (HU) (475.32 KB - PDF)
+magyar (HU) (726.73 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/hu/documents/product-information/zirabev-epar-product-information_hu.pdf)
 
-Malti (MT) (583.6 KB - PDF)
+Malti (MT) (796.93 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/mt/documents/product-information/zirabev-epar-product-information_mt.pdf)
 
-Nederlands (NL) (456.88 KB - PDF)
+Nederlands (NL) (586.47 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/nl/documents/product-information/zirabev-epar-product-information_nl.pdf)
 
-norsk (NO) (481.94 KB - PDF)
+norsk (NO) (641.56 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/no/documents/product-information/zirabev-epar-product-information_no.pdf)
 
-polski (PL) (473 KB - PDF)
+polski (PL) (688.98 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/pl/documents/product-information/zirabev-epar-product-information_pl.pdf)
 
-português (PT) (458.23 KB - PDF)
+português (PT) (581.07 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/pt/documents/product-information/zirabev-epar-product-information_pt.pdf)
 
-română (RO) (493.84 KB - PDF)
+română (RO) (745.84 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/ro/documents/product-information/zirabev-epar-product-information_ro.pdf)
 
-slovenčina (SK) (478.4 KB - PDF)
+slovenčina (SK) (753.74 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/sk/documents/product-information/zirabev-epar-product-information_sk.pdf)
 
-slovenščina (SL) (460.76 KB - PDF)
+slovenščina (SL) (667.66 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/sl/documents/product-information/zirabev-epar-product-information_sl.pdf)
 
-Suomi (FI) (460.65 KB - PDF)
+Suomi (FI) (592.24 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/fi/documents/product-information/zirabev-epar-product-information_fi.pdf)
 
-svenska (SV) (532.82 KB - PDF)
+svenska (SV) (771.8 KB - PDF)
 
-**First published:**
-
-16/04/2019
-
-**Last updated:**
-
-28/01/2026
+**First published:** 16/04/2019 **Last updated:** 25/03/2026
 
 [View](/sv/documents/product-information/zirabev-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000274402 18/12/2025
+**Latest procedure affecting product information:** N/0000337578
+
+25/03/2026
 
 icon globe
 
@@ -684,203 +426,167 @@ English (EN) (35.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-614)
+[Other languages (24)](#file-language-dropdown-303)
 
 български (BG) (43.45 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/bg/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (32.23 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/es/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (35.45 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/cs/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (36.39 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/da/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (36.33 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/de/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (33.4 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/et/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (36.33 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/el/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (34.36 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/fr/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (34.21 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/hr/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (35.05 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/is/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (33.9 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/it/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (35.42 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/lv/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (35.1 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/lt/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (34.64 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/hu/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (35.5 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/mt/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (34.12 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/nl/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (35.53 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/no/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (36.8 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/pl/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (35.32 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/pt/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (34.44 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/ro/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (35.52 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/sk/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (34.11 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/sl/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (33.49 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/fi/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (34.44 KB - PDF)
 
-**First published:**
-
-16/04/2019
+**First published:** 16/04/2019
 
 [View](/sv/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Zirabev Active substance bevacizumab International non-proprietary name (INN) or common name bevacizumab Therapeutic area (MeSH)
+Name of medicine
+
+Zirabev
+
+Active substance
+
+bevacizumab
+
+International non-proprietary name (INN) or common name
+
+bevacizumab
+
+Therapeutic area (MeSH)
 
 - Colorectal Neoplasms
 - Breast Neoplasms
@@ -888,7 +594,9 @@ Name of medicine Zirabev Active substance bevacizumab International non-propriet
 - Carcinoma, Renal Cell
 - Uterine Cervical Neoplasms
 
-Anatomical therapeutic chemical (ATC) code L01XC07
+Anatomical therapeutic chemical (ATC) code
+
+L01XC07
 
 ### Pharmacotherapeutic group
 
@@ -908,7 +616,9 @@ Zirabev, in combination with paclitaxel and cisplatin or, alternatively, paclita
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004697
+EMA product number
+
+EMEA/H/C/004697
 
 Additional monitoring
 
@@ -924,7 +634,17 @@ Pfizer Europe MA EEIG
 
 Boulevard de la Plaine 17
 
-Opinion adopted 13/12/2018 Marketing authorisation issued 14/02/2019 Revision 18
+Opinion adopted
+
+13/12/2018
+
+Marketing authorisation issued
+
+14/02/2019
+
+Revision
+
+19
 
 ## Assessment history
 
@@ -936,11 +656,9 @@ Collapse section
 
 Zirabev : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (157.79 KB - PDF)
+English (EN) (159.62 KB - PDF)
 
-**First published:** 10/06/2025
-
-**Last updated:** 28/01/2026
+**First published:** 10/06/2025 **Last updated:** 25/03/2026
 
 [View](/en/documents/procedural-steps-after/zirabev-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -948,9 +666,7 @@ Zirabev : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (172.79 KB - PDF)
 
-**First published:** 14/05/2019
-
-**Last updated:** 10/06/2025
+**First published:** 14/05/2019 **Last updated:** 10/06/2025
 
 [View](/en/documents/procedural-steps-after/zirabev-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -966,9 +682,7 @@ English (EN) (215.71 KB - PDF)
 
 Zirabev-H-C-PSUSA-00000403-202202 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/921971/2022
+Adopted Reference Number: EMA/921971/2022
 
 English (EN) (125.12 KB - PDF)
 
@@ -980,9 +694,7 @@ English (EN) (125.12 KB - PDF)
 
 Zirabev : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/97237/2019
+Adopted Reference Number: EMA/97237/2019
 
 English (EN) (4.04 MB - PDF)
 
@@ -1000,15 +712,17 @@ English (EN) (108.18 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-zirabev_en.pdf)
 
-#### News on Zirabev
+## News on Zirabev
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 December 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-december-2018) 14/12/2018
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 December 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-december-2018)
 
-#### Related content
+14/12/2018
+
+## Related content
 
 - [Biosimilar medicines: Overview](/en/human-regulatory-overview/biosimilar-medicines-overview)
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1020,212 +734,164 @@ English (EN) (280.62 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-619)
+[Other languages (24)](#file-language-dropdown-665)
 
 български (BG) (309.97 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/bg/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (247.38 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/es/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (278.74 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/cs/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (274.47 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/da/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (296.24 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/de/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_de.docx)
 
 eesti keel (ET) (215.42 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/et/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (319.25 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/el/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (308.32 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/fr/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (236.12 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/hr/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_hr.docx)
 
 íslenska (IS) (229.26 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/is/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_is.docx)
 
 italiano (IT) (273.34 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/it/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_it.docx)
 
 latviešu valoda (LV) (283.13 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/lv/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_lv.docx)
 
 lietuvių kalba (LT) (288.88 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/lt/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (286.89 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/hu/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (314.77 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/mt/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (291.5 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/nl/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_nl.docx)
 
 norsk (NO) (308.04 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/no/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (303.59 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/pl/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (292.74 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/pt/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (304.64 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/ro/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (286.07 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/sk/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (280.27 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/sl/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_sl.docx)
 
 Suomi (FI) (234.92 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/fi/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (359.45 KB - DOCX)
 
-**First published:**
-
-17/09/2025
+**First published:** 17/09/2025
 
 [View](/sv/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Zirabev
+## More information on Zirabev
 
 - [Zirabev - supply shortage](/en/medicines/human/shortages/zirabev)
 - [Real-life data study of the French cohort of patients with Rendu Osler disease treatment with bevacizumab:the CoBevaRO study. - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000548)
 
-#### Topics
+## Topics
 
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 28/01/2026
+**This page was last updated on**
+
+25/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

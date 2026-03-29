@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-20 09:40:55
-document_pages: 83
+document_datetime: 2026-03-25 09:09:17
+document_pages: 87
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/evrysdi-epar-product-information_en.pdf
 document_name: evrysdi-epar-product-information_en.pdf
 version: success
-processing_time: 25.3266911
-conversion_datetime: 2026-01-20 20:13:06.983116
+processing_time: 23.5503467
+conversion_datetime: 2026-03-29 12:44:00.205055
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -69,7 +69,9 @@ Table 1. Evrysdi powder for oral solution dosing regimen by age and body weight
 
 <div style=\"page-break-after: always\"></div>
 
-There is an alternative film-coated tablet dosage form available for patients ≥ 2 years of age with ≥ 20 kg body weight. Refer to the Evrysdi film-coated tablet summary of product characteristics (SmPC). The tablet or the tablet mixture should not be administered via a nasogastric (NG-tube) or gastrostomy tube (G-tube), but the powder for oral solution may be administered via a nasogastric or gastrostomy tube. The physician should prescribe the appropriate pharmaceutical form according to the dose required and the patient's needs, including the patient's ability to swallow. For patients with difficulty swallowing a whole tablet, the tablet can be dispersed or the powder for oral solution can be prescribed.
+There is an alternative film-coated tablet dosage form available for patients ≥ 2 years of age with ≥ 20 kg body weight. Refer to the Evrysdi film-coated tablet summary of product characteristics (SmPC).
+
+The physician should prescribe the appropriate pharmaceutical form according to the dose required and the patient's needs, including the patient's ability to swallow. For patients with difficulty swallowing a whole tablet or who require administration via a nasogastric or gastrostomy tube, the film-coated tablet can be dispersed in water, or the powder for oral solution can be prescribed.
 
 Treatment with a daily dose above 5 mg has not been studied.
 
@@ -357,7 +359,7 @@ The primary endpoint was the change from baseline score at Month 12 on the Motor
 
 SUNFISH Part 2 is the randomized, double -blinded, placebo -controlled portion of the SUNFISH study in 180 non-ambulant patients with Type 2 (71%) or Type 3 (29%) SMA. Patients were randomized with 2:1 ratio to receive either risdiplam at the therapeutic dose (see section 4.2) or placebo. Randomization was stratified by age group (2 to 5, 6 to 11, 12 to 17, 18 to 25 years old).
 
-The median age of patients at the start of treatment was 9.0 years old (range 2 -25 years old), the median time between onset of initial SMA symptoms to first treatment was 102.6 (1 -275)  months. Overall, 30% were 2 to 5 years of age, 32% were 6 to 11 years of age, 26% were 12 -17 years of age, and 12% were 18 to 25 years of age at study enrolment. Of the 180 patients included in the study, 51% were female, 67% Caucasian and 19% Asian. At baseline, 67% of patients had scoliosis (32% of patients with severe scoliosis). Patients had a mean baseline MFM32 score of 46.1 and Revised Upper Limb Module (RULM) score of 20.1. The baseline demographic characteristics were balanced between risdiplam and placebo arms with the exception of scoliosis (63% of patients in the  risdiplam arm and 73% of patients in the placebo control).
+The median age of patients at the start of treatment was 9.0 years old (range 2 -25 years old), the median time between onset of initial SMA symptoms to first treatment was 102.6 (1 -275) months. Overall, 30% were 2 to 5 years of age, 32% were 6 to 11 years of age, 26% were 12 -17 years of age, and 12% were 18 to 25 years of age at study enrolment. Of the 180 patients included in the study, 51% were female, 67% Caucasian and 19% Asian. At baseline, 67% of patients had scoliosis (32% of patients with severe scoliosis). Patients had a mean baseline MFM32 score of 46.1 and Revised Upper Limb Module (RULM) score of 20.1. The baseline demographic characteristics were balanced between risdiplam and placebo arms with the exception of scoliosis (63% of patients in the risdiplam arm and 73% of patients in the placebo control).
 
 The primary analysis for SUNFISH Part 2, the change from baseline in MFM32 total score at Month 12, showed a clinically meaningful and statistically significant difference between patients treated with risdiplam and placebo. The results of the primary analysis and key secondary endpoints are shown in Table 4, Figure 3, and Figure 4.
 
@@ -376,7 +378,10 @@ Table 4. Summary of efficacy in patients with later -onset SMA at month 12 of tr
 | Change from baseline in RULM total score 5 at Month 12 LS mean (95% CI)                                       | 1.61 (1.00, 2.22)                 | 0.02 (-0.83, 0.87)                |
 | Difference from placebo estimate (95% CI) Adjusted (unadjusted) p - value 2,4                                 | 1.59 (0.55, 2.62) 0.0469          | (0.0028)                          |
 
+LS  least squares
+
 2. Data analysed using a mixed model repeated measure with baseline total score, treatment, visit, age group, treatment -by -visit and baseline -by -visit.
+
 4. The adjusted p -value was obtained for the endpoints included in the hierarchical testing and was derived based on all the p-values from endpoints in order of the hierarchy up to the current endpoint
 
 3. Data analysed using logistic regression with baseline total score, treatment and age group.
@@ -385,13 +390,11 @@ Table 4. Summary of efficacy in patients with later -onset SMA at month 12 of tr
 
 Upon completion of 12 months of treatment, 117 patients continued to receive risdiplam. At the time of the 24 month analysis, these patients who were treated with risdiplam for 24 months overall experienced maintenance of improvement in motor function between month 12 and month 24. The mean change from baseline for MFM32 was 1.83 (95% CI: 0.74, 2.92) and for RULM was 2.79 (95% CI: 1.94, 3.64).
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 3. Mean change from baseline in MFM32 total score over 12 months in SUNFISH Part 2 1
 
 <!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-1 The least squares (LS) mean difference for change from baseline in MFM32 score [95% CI]
 
 Figure 4. Mean change from baseline in RULM total score over 12 months in SUNFISH Part 2 1
 
@@ -400,6 +403,8 @@ Figure 4. Mean change from baseline in RULM total score over 12 months in SUNFIS
 ## SUNFISH Part 1
 
 Efficacy in later-onset SMA patients was also supported by results from Part 1, the dose-finding part of SUNFISH. In Part 1, 51 patients with Type 2 and 3 SMA (including 7 ambulatory patients) between 2 to 25 years of age were enrolled. After 1 year of treatment there was a clinically meaningful improvement in motor function as measured by MFM32, with a mean change from baseline of 2.7 points (95% CI: 1.5, 3.8). The improvement in MFM32 was maintained up to 2 years on treatment (mean change of 2.7 points [95% CI: 1.2, 4.2]).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Use in patients previously treated with other SMA -modifying therapies (JEWELFISH)
 
@@ -411,9 +416,7 @@ At the analysis at month 24 of treatment, patients 2 -60 years of age showed ove
 
 Study BN40703 (RAINBOWFISH) is an open -label, single -arm, multicenter clinical study to investigate the efficacy, safety, pharmacokinetics, and pharmacodynamics of risdiplam in infants from birth to 6 weeks of age (at first dose) who have been genetically diagnosed with SMA but do not yet present with symptoms.
 
-<div style=\"page-break-after: always\"></div>
-
-The efficacy in pre -symptomatic SMA patients was evaluated at Month 12 in 26 patients [intenttotreat (ITT) population] treated with risdiplam: eight patients, 13 patients, and 5 patients had 2, 3, and ≥ 4 copies of the SMN2 gene, respectively. The median age of these patients at first dose was 25 days (range: 16 to 41 days), 62% were female, and 85% were Caucasian. At baseline, the median CHOP -INTEND score was 51.5 (range: 35.0 to 62.0), the median HINE -2 score was 2.5 (range: 0 to 6.0), and the median ulnar nerve compound muscle action potential (CMAP) amplitude was 3.6 mV (range: 0.5 to 6.7 mV).
+The efficacy in pre -symptomatic SMA patients was evaluated at Month 12 in 26 patients [intent-totreat (ITT) population] treated with risdiplam: eight patients, 13 patients, and 5 patients had 2, 3, and ≥ 4 copies of the SMN2 gene, respectively. The median age of these patients at first dose was 25 days (range: 16 to 41 days), 62% were female, and 85% were Caucasian. At baseline, the median CHOP -INTEND score was 51.5 (range: 35.0 to 62.0), the median HINE -2 score was 2.5 (range: 0 to 6.0), and the median ulnar nerve compound muscle action potential (CMAP) amplitude was 3.6 mV (range: 0.5 to 6.7 mV).
 
 The primary efficacy population (N=5) included patients with 2 SMN2 copies and a baseline CMAP amplitude  1.5 mV. In these patients, the median CHOP -INTEND score was 48.0 (range: 36.0 to 52.0), the median HINE -2 score was 2.0 (range 1.0 to 3.0), and the median CMAP amplitude was 2.6 mV (range: 1.6 to 3.8 mV) at baseline.
 
@@ -428,11 +431,7 @@ Table 5. Sitting ability as defined by BSID -III Item 22 for pre-symptomatic pat
 |                                                                                                       | Primary Efficacy (N=5)          | Patients with 2 SMN2 copies a (N  8) | ITT (N=26)           |
 | Proportion of patients sitting without support for at least 5 seconds (BSID - III, Item 22); (90% CI) | 80% (34.3%, 99.0%) p  0.0001 b | 87.5% (52.9%, 99.4%)                  | 96.2% (83.0%, 99.8%) |
 
-Abbreviations: BSID -III = Bayley Scales of Infant and Toddler Development - Third Edition; CI=Confidence Interval; ITT=Intent-to-treat.
-
-a  Patients with 2 SMN2 copies had a median CMAP amplitude of 2.0 (range 0.5 - 3.8) at baseline.
-
-b  p-value is based on a one-sided exact binomial test. The result is compared to a threshold of 5%.
+<div style=\"page-break-after: always\"></div>
 
 Additionally, 80% (4/5) of the primary efficacy population, 87.5% (7/8) of patients with 2 SMN2 copies, and 80.8% (21/26) of patients in the ITT population achieved sitting without support for 30 seconds (BSID-III, Item 26).
 
@@ -475,7 +474,7 @@ Abbreviations: IQR  Interquartile range; SMN2  Survival of Motor Neuron 2.
 
 Pharmacokinetic parameters have been characterised in healthy adult subjects and in patients with SMA.
 
-After administration of treatment as an oral solution, PK of risdiplam were approximately linear between 0.6 and 18 mg. Risdiplam's PK was best described by a population PK model with three-transit-compartment absorption, two-compartment disposition and fi rst-order elimination. Body weight and age were found to have significant effect on the PK.
+After administration of treatment as an oral solution, PK of risdiplam were approximately linear between 0.6 and 18 mg. Risdiplam's PK was best described by a population PK model with three-transit-compartment absorption, two-compartment disposition and first-order elimination. Body weight and age were found to have significant effect on the PK.
 
 The estimated exposure (mean AUC0-24h) for infantile-onset SMA patients (age 2 -7 months at enrolment) at the therapeutic dose of 0.2 mg/kg once daily was 1930 ng.h/mL. The estimated mean exposure in pre-symptomatic infants (16 days to &lt;2 months of age) in the RAINBOWFISH study was 2020 ng.h/mL at 0.15 mg/kg after 2 weeks once daily administration. The estimated exposure for lateronset SMA patients (2 -25 years old at enrolment) in the SUNFISH (Part 2) study at the therapeutic dose (0.25 mg/kg once daily for patients with a body weight &lt;20 kg; 5 mg once daily for patients with a body weight ≥ 20 kg) was 2070 ng.h/mL after 1 year of treatment and 1940 ng.h/mL after 5 years of treatment. The estimated exposure (mean AUC0-24h) for SMA treatment non-naïve patients (age 1 -60 years at enrolment) was 1700 ng.h/mL at the therapeutic dose of 0.25 mg/kg or 5 mg. The observed maximum concentration (mean Cmax) was 194 ng/mL at 0.2 mg/kg in FIREFISH, 140 ng/mL in SUNFISH Part 2, 129 ng/mL in JEWELFISH, and the estimated maximum concentration at 0.15 mg/kg in RAINBOWFISH is 111 ng/mL.
 
@@ -573,9 +572,7 @@ Juvenile animal data reveal no special hazard for humans.
 
 ## 6.1 List of excipients
 
-mannitol (E 421) isomalt (E 953) tartaric acid (E 334) sodium benzoate (E 211) macrogol 6000 (E 1521) sucralose ascorbic acid (E 300) disodium edetate dihydrate
-
-strawberry flavour: natural flavouring substance(s), flavouring preparation(s), maize maltodextrin, modified waxy maize starch (E1450)
+mannitol (E 421) isomalt (E 953) strawberry flavour: natural flavouring substance(s), flavouring preparation(s), maize maltodextrin, modified waxy maize starch (E1450) tartaric acid (E 334) sodium benzoate (E 211) macrogol 6000 (E 1521) sucralose ascorbic acid (E 300) disodium edetate dihydrate
 
 ## 6.2 Incompatibilities
 
@@ -646,11 +643,13 @@ Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen, Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1531/001
+## EU/1/21/1531/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 26 March 2021 Date of latest renewal:
+Date of first authorisation: 26 March 2021
+
+Date of latest renewal: 08 January 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -670,7 +669,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-## Film -coated tablet.
+## Film -coated tablet (tablet).
 
 Pale yellow film -coated tablet, round and curved, approximately 6.5 mm in diameter, with EVR debossed on one side.
 
@@ -688,7 +687,9 @@ Posology
 
 The recommended once daily dose of risdiplam film-coated tablet for patients ≥ 2 years of age with ≥ 20 kg body weight is 5 mg.
 
-There is an alternative oral solution available for patients of all age groups or who may require the use of a nasogastric or gastrostomy tube. Refer to the Evrysdi powder for oral solution SmPC. The physician should prescribe the appropriate pharmaceutical form according to the dose required and the patient's needs, including the patient's ability to swallow. For patients with difficulty swallowing a whole tablet, the tablet can be dispersed or the powder for oral solution can be prescribed.
+There is an alternative oral solution available for patients of all age groups . Refer to the Evrysdi powder for oral solution SmPC.
+
+The physician should prescribe the appropriate pharmaceutical form according to the dose required and the patient's needs, including the patient's ability to swallow. For patients with difficulty swallowing a whole tablet or who require administration via a nasogastric or gastrostomy tube, the film-coated tablet can be dispersed in water, or the powder for oral solution can be prescribed.
 
 Treatment with a daily dose above 5 mg has not been studied.
 
@@ -698,9 +699,9 @@ If a planned dose is missed, it should be administered as soon as possible if st
 
 If a dose is not fully swallowed or vomiting occurs after taking a dose of risdiplam, another dose should not be administered to make up for the incomplete dose. The next dose should be administered at the regularly scheduled time.
 
-Elderly
-
 <div style=\"page-break-after: always\"></div>
+
+## Elderly
 
 No dose adjustment is required in elderly patients based on limited data in subjects aged 65 years and older (see section 5.2).
 
@@ -730,7 +731,9 @@ If Evrysdi is dispersed in water, take it immediately. Evrysdi must not be dispe
 
 If the prepared mixture of Evrysdi spills or gets on the skin, the area should be washed with soap and water.
 
-Do not administer the prepared mixture via a nasogastric or gastrostomy tube. If administration through a nasogastric or gastrostomy tube is required, Evrysdi powder for oral solution should be used.
+If administration through a nasogastric or gastrostomy tube is required, a tube that is 8 French or higher should be used to administer the prepared Evrysdi mixture after the dispersion is complete. After the administration of the Evrysdi mixture, the tube should be flushed with the water (at least 15 mL) used to rinse the dispersion cup.
+
+Detailed instructions on the administration of the tablet prepared as a mixture are given in the Instructions for Use (IFU) at the end of the package insert.
 
 ## 4.3 Contraindications
 
@@ -742,13 +745,11 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 Embryo -foetal toxicity has been observed in animal studies (see section 5.3). Patients of reproductive potential should be informed of the risks and must use highly effective contraception during treatment and until at least 1 month after the last dose in female patients, and 4 months after the last dose in male patients. The pregnancy status of female patients of reproductive potential should be verified prior to initiating risdiplam therapy (see section 4.6).
 
-## Potential effects on male fertility
-
-Based on observations from animal studies, male patients should not donate sperm while on treatment and for 4 months after the last dose of risdiplam. Prior to initiating treatment, fertility preservation
-
 <div style=\"page-break-after: always\"></div>
 
-strategies should be discussed with male patients of reproductive potential (see sections 4.6 and 5.3). The effects of risdiplam on male fertility have not been investigated in humans.
+## Potential effects on male fertility
+
+Based on observations from animal studies, male patients should not donate sperm while on treatment and for 4 months after the last dose of risdiplam. Prior to initiating treatment, fertility preservation strategies should be discussed with male patients of reproductive potential (see sections 4.6 and 5.3). The effects of risdiplam on male fertility have not been investigated in humans.
 
 ## Excipients
 
@@ -782,10 +783,10 @@ There is no efficacy or safety data to support the concomitant use of risdiplam 
 
 Male and female patients of reproductive potential should adhere to the following contraception requirements:
 
+<div style=\"page-break-after: always\"></div>
+
 - Female patients of childbearing potential should use highly effective contraception during treatment and for at least 1 month after the last dose.
 - Male patients, and their female partners of childbearing potential, should both ensure that highly effective contraception is achieved during treatment and for at least 4 months after the last dose.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy testing
 
@@ -989,20 +990,23 @@ Table 3. Summary of efficacy in patients with later -onset SMA at month 12 of tr
 | Change from baseline in RULM total score 5 at Month 12 LS mean (95% CI)                                       | 1.61 (1.00, 2.22)                 | 0.02 (-0.83, 0.87)                |
 | Difference from placebo estimate (95% CI) Adjusted (unadjusted) p-value 2,4                                   | 1.59 (0.55, 2.62) 0.0469          | (0.0028)                          |
 
+LS  least squares
+
 2. Data analysed using a mixed model repeated measure with baseline total score, treatment, visit, age group, treatmentby-visit and baseline-by-visit.
+
 4. The adjusted p -value was obtained for the endpoints included in the hierarchical testing and was derived based on all the p-values from endpoints in order of the hierarchy up to the current endpoint
+
 3. Data analysed using logistic regression with baseline total score, treatment and age group.
+
 5. Based on the missing data rule for RULM, 3 patients were excluded from the analysis (risdiplam n=119; placebo control n=58).
 
 Upon completion of 12 months of treatment, 117 patients continued to receive risdiplam. At the time of the 24 month analysis, these patients who were treated with risdiplam for 24 months overall experienced maintenance of improvement in motor function between month 12 and month 24. The mean change from baseline for MFM32 was 1.83 (95% CI: 0.74, 2.92) and for RULM was 2.79 (95% CI: 1.94, 3.64).
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 3. Mean change from baseline in MFM32 total score over 12 months in SUNFISH Part 2 1
 
 <!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-1 The least squares (LS) mean difference for change from baseline in MFM32 score [95% CI]
 
 Figure 4. Mean change from baseline in RULM total score over 12 months in SUNFISH Part 2 1
 
@@ -1012,17 +1016,17 @@ Figure 4. Mean change from baseline in RULM total score over 12 months in SUNFIS
 
 Efficacy in later -onset SMA patients was also supported by results from Part 1, the dose -finding part of SUNFISH. In Part 1, 51 patients with Type 2 and 3 SMA (including 7 ambulatory patients) between 2 to 25 years of age were enrolled. After 1 year of treatment there was a clinically meaningful improvement in motor function as measured by MFM32, with a mean change from baseline of 2.7 points (95% CI: 1.5, 3.8). The improvement in MFM32 was maintained up to 2 years on treatment (mean change of 2.7 points [95% CI: 1.2, 4.2]).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Use in patients previously treated with other SMA -modifying therapies (JEWELFISH)
 
 Study BP39054 (JEWELFISH, n = 174) is a single arm, open -label study to investigate the safety, tolerability, PK and PD of risdiplam in patients with infantile -onset and later -onset SMA (median age 14 years [range 1 -60 years]), who had previously received treatment with other approved (nusinersen n = 76, onasemnogene abeparvovec n = 14) or investigational SMA modifying therapies. At baseline, out of the 168 patients aged 2 -60 years, 83% of patients had scoliosis and 63% had a Hammersmith Functional Motor Scale Expanded (HFMSE) score  10 points.
 
 At the analysis at month 24 of treatment, patients 2 -60 years of age showed overall stabilization in motor function in MFM-32 and RULM (n = 137 and n = 133, respectively). Patients less than 2 years (n = 6) maintained or gained motor milestones such as head control, rolling and sitting independently. All ambulatory patients (aged 5 -46 years, n = 15) retained their ability to walk.
 
-## Pre-symptomatic SMA (RAINBOWFISH)
+Pre-symptomatic SMA (RAINBOWFISH)
 
 Study BN40703 (RAINBOWFISH) is an open -label, single -arm, multicenter clinical study to investigate the efficacy, safety, pharmacokinetics, and pharmacodynamics of risdiplam in infants from birth to 6 weeks of age (at first dose) who have been genetically diagnosed with SMA but do not yet present with symptoms.
-
-<div style=\"page-break-after: always\"></div>
 
 The efficacy in pre-symptomatic SMA patients was evaluated at Month 12 in 26 patients [intent -to -treat (ITT) population] treated with risdiplam: eight patients, 13 patients, and 5 patients had 2, 3, and ≥ 4 copies of the SMN2 gene, respectively. The median age of these patients at first dose was 25 days (range: 16 to 41 days), 62% were female, and 85% were Caucasian. At baseline, the median CHOP -INTEND score was 51.5 (range: 35.0 to 62.0), the median HINE -2 score was 2.5 (range: 0 to 6.0), and the median ulnar nerve compound muscle action potential (CMAP) amplitude was 3.6 mV (range: 0.5 to 6.7 mV).
 
@@ -1039,11 +1043,7 @@ Table 4. Sitting ability as defined by BSID -III Item 22 for pre -symptomatic pa
 |                                                                                                     | Primary Efficacy (N=5)          | Patients with 2 SMN2 copies a (N  8) | ITT (N=26)           |
 | Proportion of patients sitting without support for at least 5 seconds (BSID-III, Item 22); (90% CI) | 80% (34.3%, 99.0%) p  0.0001 b | 87.5% (52.9%, 99.4%)                  | 96.2% (83.0%, 99.8%) |
 
-Abbreviations: BSID -III = Bayley Scales of Infant and Toddler Development - Third Edition; CI=Confidence Interval; ITT=Intent -to -treat.
-
-a  Patients with 2 SMN2 copies had a median CMAP amplitude of 2.0 (range 0.5 - 3.8) at baseline.
-
-b  p-value is based on a one-sided exact binomial test. The result is compared to a threshold of 5%.
+<div style=\"page-break-after: always\"></div>
 
 Additionally, 80% (4/5) of the primary efficacy population, 87.5% (7/8) of patients with 2 SMN2 copies, and 80.8% (21/26) of patients in the ITT population achieved sitting without support for 30 seconds (BSID-III, Item 26).
 
@@ -1086,7 +1086,7 @@ Abbreviations: IQR  Interquartile range; SMN2  Survival of Motor Neuron 2.
 
 Pharmacokinetic parameters have been characterised in healthy adult subjects and in patients with SMA.
 
-After administration of treatment as an oral solution, PK of risdiplam were approximately linear between 0.6 and 18 mg. Risdiplam's PK was best described by a population PK model with three-transit-compartment absorption, two-compartment disposition and fi rst-order elimination. Body weight and age were found to have significant effect on the PK.
+After administration of treatment as an oral solution, PK of risdiplam were approximately linear between 0.6 and 18 mg. Risdiplam's PK was best described by a population PK model with three-transit-compartment absorption, two-compartment disposition and first-order elimination. Body weight and age were found to have significant effect on the PK.
 
 The estimated exposure (mean AUC0-24h) for infantile-onset SMA patients (age 2 -7 months at enrolment) at the therapeutic dose of 0.2 mg/kg once daily was 1930 ng.h/mL. The estimated mean exposure in pre-symptomatic infants (16 days to &lt;2 months of age) in the RAINBOWFISH study was 2020 ng.h/mL at 0.15 mg/kg after 2 weeks once daily administration. The estimated exposure for later -onset SMA patients (2 -25 years old at enrolment) in the SUNFISH (Part 2) study at the therapeutic dose (0.25 mg/kg once daily for patients with a body weight &lt;20 kg; 5 mg once daily for patients with a body weight ≥ 20 kg) was 2070 ng.h/mL after 1 year of treatment and 1940 ng.h/mL after 5 years of treatment. The estimated exposure (mean AUC0-24h) for SMA treatment non-naïve patients (age 1 -60 years at enrolment) was 1700 ng.h/mL at the therapeutic dose of 0.25 mg/kg or 5 mg. The observed maximum concentration (mean Cmax) was 194 ng/mL at 0.2 mg/kg in FIREFISH, 140 ng/mL in SUNFISH Part 2, 129 ng/mL in JEWELFISH, and the estimated maximum concentration at 0.15 mg/kg in RAINBOWFISH is 111 ng/mL.
 
@@ -1184,9 +1184,7 @@ Juvenile animal data reveal no special hazard for humans.
 
 ## 6.1 List of excipients
 
-Tablet core tartaric acid (E 334) mannitol (E 421) microcrystalline cellulose (E460) silica, colloidal anhydrous  (E 551) crospovidone sodium stearyl fumarate
-
-strawberry flavour: natural flavouring substance(s), flavouring preparation(s), maize maltodextrin, modified waxy maize starch (E1450)
+Tablet core tartaric acid (E 334) mannitol (E 421) microcrystalline cellulose (E460) silica, colloidal anhydrous (E 551) crospovidone sodium stearyl fumarate strawberry flavour: natural flavouring substance(s), flavouring preparation(s), maize maltodextrin, modified waxy maize starch (E1450)
 
 Film -coat polyvinyl alcohol titanium dioxide (E 171) macrogol 3350 (E 1521) talc (E 553b) yellow iron oxide (E 172)
 
@@ -1226,7 +1224,9 @@ EU/1/21/1531/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 26 March 2021 Date of latest renewal:
+Date of first authorisation: 26 March 2021
+
+Date of latest renewal: 08 January 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1480,7 +1480,7 @@ Keep out of the sight and reach of children
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1512,8 +1512,7 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1590,8 +1589,6 @@ Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
 ## 1. What Evrysdi is and what it is used for
 
-## What Evrysdi is and what it is used for
-
 Evrysdi contains the active substance risdiplam. It is part of a group of medicines known as ' premRNA splicing modifiers' .
 
 Evrysdi is used to treat spinal muscular atrophy (SMA) in adults and children.
@@ -1615,10 +1612,9 @@ In infants with SMA Type 1, Evrysdi may:
 
 -  increase how long they live
 -  reduce the need for a ventilator to help with breathing
+-  help them be able to keep being fed by mouth.
 
 <div style=\"page-break-after: always\"></div>
-
--  help them be able to keep being fed by mouth.
 
 In children (toddlers to adolescents) and adults with SMA Type 2 and 3, Evrysdi may:
 
@@ -1635,7 +1631,7 @@ If you are not sure, talk to your doctor, pharmacist, or nurse before you take E
 
 ## Warnings and precautions
 
-Talk to your doctor, pharmacist, or nurse before you  take Evrysdi.
+Talk to your doctor, pharmacist, or nurse before you take Evrysdi.
 
 Treatment with Evrysdi may harm your unborn baby or may affect male fertility. See ' Pregnancy', 'Contraception', and 'Male fertility ' for more information.
 
@@ -1672,9 +1668,9 @@ Talk to your doctor about highly effective methods of birth control that you and
 
 ## For men
 
-<div style=\"page-break-after: always\"></div>
-
 If your partner is a woman who can have children, she must not become pregnant. Use condoms:
+
+<div style=\"page-break-after: always\"></div>
 
 -  while taking this medicine and
 -  for 4 months after you stop taking this medicine.
@@ -1712,19 +1708,19 @@ Evrysdi powder for oral solution contains 2.97 mg of isomalt per mL.  If you hav
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
-If you get Evrysdi powder for oral solution, you should receive the medicine as a liquid in a bottle. Evrysdi is a liquid which is prepared by the pharmacist, and is referred to as a 'oral solution' or 'medicine' in this leaflet. Do not use if the medicine in the bottle is a powder, and contact your pharmacist.
+You should have received Evrysdi powder for oral solution as a liquid in a bottle. This medicine is a liquid which is prepared by the pharmacist, and is referred to as a 'oral solution' or 'medicine' in this leaflet. Do not use if the medicine in the bottle is a powder, and contact your pharmacist.
 
-Evrysdi is also available as a film-coated tablet. Your doctor will help you choose the right one for you.
+Evrysdi is also available as a film-coated tablet. Your doctor will have helped you choose the right one for you.
 
 ## How much Evrysdi to take
 
 Your doctor will choose the right dose of Evrysdi based on patient age and weight.
 
-<div style=\"page-break-after: always\"></div>
-
 You must take your daily dose as instructed by your doctor.
 
 -  Do not change the dose without speaking with your doctor.
+
+<div style=\"page-break-after: always\"></div>
 
 ## When and how to take Evrysdi
 
@@ -1749,7 +1745,7 @@ If Evrysdi gets on your skin, wash the area with soap and water.
 
 ## How long to take Evrysdi for
 
-Your doctor will tell you how long you need to take Evrysdi for. Do not stop treatment with Evrysdi unless your doctor tells you to.
+Your doctor will tell you how long you need to take Evrysdi. Do not stop treatment with Evrysdi unless your doctor tells you.
 
 ## If you take more Evrysdi than you should
 
@@ -1778,14 +1774,15 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Very common: may affect more than 1 in 10 people
-
-<div style=\"page-break-after: always\"></div>
+## Very common: may affect more than 1 in 10 people
 
 -  diarrhoea
 -  rash
 -  headache
--  fever
+
+<div style=\"page-break-after: always\"></div>
+
+##  fever
 
 Common: may affect up to 1 in 10 people
 
@@ -1886,7 +1883,7 @@ Tlf: +45 - 36 39 99 99
 
 Roche Nederland B.V.
 
-Tel: +31 (0) 348 438050
+Tel: +31 (0) 348 438000
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2337,9 +2334,6 @@ Figure A
 ## How to store Evrysdi
 
 -  Store the powder (unconstituted medicine) at room temperature (&lt; 25°C) and keep it in the carton with the bottle tightly closed in order to protect from moisture.
-
-.
-
 -  Store the solution (constituted medicine) in a refrigerator (2 to 8°C) and keep it in the carton upright.
 -  Keep the oral solution in the original bottle and always keep the bottle in an upright position with the cap tightly closed.
 
@@ -2365,7 +2359,7 @@ Gently tap the bottom of the bottle to loosen the powder (See Figure B).
 
 Remove the cap by pushing it down and then twisting to the left (counter-clockwise) (See Figure C). Do not throw away the cap.
 
-## Step 3
+Step 3
 
 Carefully pour 79 mL of Purified Water or Water for Injection into the medicine bottle (See Figure D).
 
@@ -2546,11 +2540,13 @@ Evrysdi contains a small amount of sodium (salt) - there is less than 1 mmol (23
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
-You will get blister packs of Evrysdi as film-coated tablets, referred to as a 'tablet' in this leaflet.  This medicne is also available as an oral solution. Your doctor will help you choose the right one for you.
+You have received blister packs of Evrysdi as film-coated tablets, referred to as a 'tablet' in this leaflet.  This medicine is also available as an oral solution. Your doctor will have helped you choose the right one for you.
 
 ## How much Evrysdi to take
 
-If you get Evrysdi film-coated tablets, the dose is 5 mg (one tablet) once daily.
+Evrysdi tablets are used in patients who are 2 years of age or older and weigh 20 kg or more.
+
+For Evrysdi tablets, the dose is 5 mg (one tablet) once daily.
 
 You must take your daily dose as instructed by your doctor.
 
@@ -2567,25 +2563,24 @@ Take Evrysdi:
 -  once a day, at around the same time - this will help you remember when to take your medicine
 -  with or without food.
 
-There are two ways your doctor may tell you to take Evrysdi film-coated tablets:
+There are two ways your doctor may tell you to take Evrysdi tablets:
+
+<div style=\"page-break-after: always\"></div>
 
 -  Take Evrysdi by mouth. Swallow each tablet whole with some water.
 - -Do not cut, crush or chew the tablets.
 
-Or
+## Or
 
-<div style=\"page-break-after: always\"></div>
-
--  Take Evrysdi by mouth after dispersing it in a small amount of room temperature water.
+-  Take Evrysdi by mouth or through a feeding tube that is 8 French or higher after dispersing it in a small amount of room temperature water.
 - -Do not mix Evrysdi with any liquids other than water.
-- -Take Evrysdi tablet straight away after mixing with water. If you do not take it within 10 minutes of adding water, throw the mixture away and make a new dose.
+- -Take Evrysdi tablet straight away after mixing fully with water. If you do not take it within 10 minutes of adding water, throw the mixture away and make a new dose.
 - -Do not expose the tablet mixture prepared from the Evrysdi tablet to sunlight.
 - -Do not get Evrysdi tablet mixture on your skin or in your eyes. If Evrysdi gets on your skin, wash the area with soap and water. If Evrysdi gets in your eyes, rinse your eyes with water.
-- -Do not administer the tablet mixture via a feeding tube
 
 ## How long to take Evrysdi for
 
-Your doctor will tell you how long you need to take Evrysdi for. Do not stop treatment with Evrysdi unless your doctor tells you to.
+Your doctor will tell you how long you need to take Evrysdi. Do not stop treatment with Evrysdi unless your doctor tells you.
 
 ## If you take more Evrysdi than you should
 
@@ -2621,20 +2616,20 @@ Very common: may affect more than 1 in 10 people
 -  headache
 -  fever
 
-Common: may affect up to 1 in 10 people
+## Common: may affect up to 1 in 10 people
 
 -  feeling sick (nausea)
 -  mouth sores
+
+<div style=\"page-break-after: always\"></div>
+
 -  bladder infection
 -  joint pain
+-  inflamed small blood vessels mainly in the skin (cutaneous vasculitis)
 
 Not known:
 
 it is not known how often these happen
-
-<div style=\"page-break-after: always\"></div>
-
--  inflamed small blood vessels mainly in the skin (cutaneous vasculitis)
 
 ## Reporting of side effects
 
@@ -2654,14 +2649,14 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Evrysdi contains
 
--  The active substance in the film-coated tablet is risdiplam.
--  Each film-coated tablet contains 5 mg risdiplam.
+-  The active substance in the tablet is risdiplam.
+-  Each tablet contains 5 mg risdiplam.
 -  The other ingredients are tartaric acid (E 334), mannitol (E 421), microcrystalline cellulose, silica, colloidal anhydrous (E 551), crospovidone, strawberry flavour [natural flavouring substance(s), flavouring preparation(s), maize maltodextrin, modified waxy maize starch (E1450)] and sodium stearyl fumarate, polyvinyl alcohol, titanium dioxide (E 171), macrogol 3350 (E 1521), talc (E 553b) and yellow iron oxide (E 172).
 
 ## What Evrysdi looks like and contents of the pack
 
 -  Evrysdi tablets are pale yellow film-coated tablets, round and curved, with EVR debossed on one side.
--  Evrysdi is supplied in packs containing 28 x 1 film-coated tablets. There are 4 aluminium perforated unit-dose blisters with 7 tablets each.
+-  Evrysdi is supplied in packs containing 28 x 1 tablets. There are 4 aluminium perforated unitdose blisters with 7 tablets each.
 - The blisters strips are each marked with abbreviated names of the day as a reminder to take a daily dose:
 
 Mon. Tue. Wed. Thu. Fri. Sat. Sun
@@ -2756,7 +2751,7 @@ Tel: +36 1 279 4500
 
 Roche Nederland B.V.
 
-Tel: +31 (0) 348 438050
+Tel: +31 (0) 348 438000
 
 ## Norge
 
@@ -2848,7 +2843,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Instructions for Use - Administration
 
-## Evrysdi film coated tablets
+## Evrysdi film-coated tablets
 
 This Instructions for Use contains information on how to prepare and take Evrysdi.
 
@@ -2858,9 +2853,7 @@ This Instructions for Use contains information on how to prepare and take Evrysd
 
 Read this Instructions for Use before taking Evrysdi film-coated tablets for the first time and each time you get a refill. There may be new information.
 
-Evrysdi film-coated tablets can be swallowed whole or mixed with a small amount of room temperature water and taken by mouth.
-
-Do not give Evrysdi film-coated tablets with a feeding tube.
+Evrysdi film-coated tablets can be swallowed whole or mixed with a small amount of room temperature water and taken by mouth or given through a feeding tube [i.e., a nasogastric (NG tube) or gastrostomy (G tube) tube] .
 
 ## Important Information
 
@@ -2912,31 +2905,122 @@ Figure B
 
 - 1 Evrysdi tablet
 - a small, clean empty cup
-- at least 1 teaspoon (5ml) of room temperature water for mixing
-- at least 1 tablespoon (15ml) of water for rinsing
+- at least 1 teaspoon (5 ml) of room temperature water for mixing
+- at least 1 tablespoon (15 ml) of water for rinsing
 
-| Step B1 Put at least 1 teaspoon (5ml) of water in a cup - and add 1 tablet. ● Do not use any liquids other than water, ● Keep the mixture out of sunlight.   | Figure C                                     |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| Step B2 Gently swirl the cup until it is fully mixed - this can take up to 3 minutes ( Figure C ).                                                           |                                              |
-| Step B3 Drink immediately within 10 minutes of adding water to the tablet ( Figure D ).                                                                      | Figure D                                     |
-| Step B4 Refill the cup with at least 1 tablespoon (15ml) of water and swirl to get any medicine left in the cup ( Figure E ).                                | Figure E                                     |
-| Step B5 Drink immediately ( Figure F ).                                                                                                                      | Figure F                                     |
-| Step B6 Wash your hands with soap and water.                                                                                                                 | Step B6 Wash your hands with soap and water. |
+## Step B1
 
-## Storing EVRYSDI
+Put at least 1 teaspoon (5 ml) of water in a cup - and add 1 tablet.
+
+- Do not use any liquids other than water,
+- Keep the mixture out of sunlight.
+
+## Step B2
+
+Gently swirl the cup until it is fully mixed - this can take up to 3 minutes. Some particles may remain after swirling ( Figure C ).
+
+## To take by mouth see Step C1
+
+To take by feeding tube see Step D1
+
+## Take Evrysdi by mouth
+
+## Step C1
+
+Drink immediately after mixing fully.
+
+Drink within 10 minutes of adding water to the tablet ( Figure D ).
+
+## Step C2
+
+Refill the cup with at least 1 tablespoon (15 ml) of water and swirl to get any medicine left in the cup ( Figure E ).
+
+## Step C3
+
+Drink immediately ( Figure F ).
+
+Go to Step E1 for clean-up instructions
+
+<!-- image -->
+
+Figure C
+
+<!-- image -->
+
+Figure D
+
+Figure E
+
+<!-- image -->
+
+Figure F
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Administration through a gastrostomy or nasogastric tube
+
+You can take or give the mixture through a gastrostomy or nasogastric tube placed by a healthcare professional. Check the manufacturer's instructions for the size and dimensions of the enteral tube. Ensure the tube size is at least 8 French or higher to prevent clogging.
+
+You will need:
+
+-  a small clean empty cup
+-  1 syringe (volume between 5 mL and 20 mL) compatible with the feeding tube (oral or enteral). Ask your pharmacist if you need help selecting the correct size.
+
+The syringe and medicine cup are not included in the package and can be obtained from the pharmacy.
+
+The syringe and cup may be reused if the manufacturer's instructions allow.
+
+## Step D1
+
+Administer immediately after mixing fully.
+
+Administer within 10 minutes of adding water to the tablet.
+
+Place the syringe tip into the cup and slowly pull up the plunger to draw up all the mixture ( Figure G ).
+
+## Step D2
+
+Place the syringe tip into the gastrostomy/nasogastric tube. Slowly press the plunger all the way down to give the full dose of Evrysdi ( Figure H1 and H2 ).
+
+## Step D3
+
+Check that there is no medicine left in the syringe ( Figure I ).
+
+<!-- image -->
+
+Figure G
+
+<!-- image -->
+
+Figure H1
+
+<!-- image -->
+
+Figure H2
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## After administering
+
+## Step E1
+
+Wash your hands with soap and water.
+
+Check with your pharmacist if the syringe and/or cup provided by the pharmacy is intended for single use only or can be re-used multiple times.
+
+-  Syringes or cups intended for single use must be disposed after use.
+-  Syringes or cups for multiple use must be cleaned immediately after use.  Ask your pharmacist for the manufacturer's instructions.
+
+Discard disposable items according to your local requirements.
+
+## Storing Evrysdi
 
 -  This medicinal product does not require any special temperature storage conditions.
 -  Store in the original package in order to protect from moisture.
 -  Keep Evrysdi and all medicines out of the sight and reach of children.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->

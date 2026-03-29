@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-05 11:44:02
+document_datetime: 2026-03-24 12:05:10
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/grasustek-epar-product-information_en.pdf
 document_name: grasustek-epar-product-information_en.pdf
 version: success
-processing_time: 8.7227924
-conversion_datetime: 2025-12-18 20:55:40.12549
+processing_time: 8.5146133
+conversion_datetime: 2026-03-29 12:43:23.482677
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -210,9 +210,9 @@ Pegfilgrastim has no or a negligible influence on the ability to drive and use m
 
 The most frequently reported adverse reactions were bone pain (very common [≥ 1/10]) and musculoskeletal pain (common) [≥ 1/100 to &lt; 1/10]). Bone pain was generally of mild to moderate severity, transient and could be controlled in most patients with standard analgesics.
 
-Hypersensitivity-type reactions, including skin rash, urticaria, angioedema dyspnoea, erythema, flushing, and hypotension occurred on initial or subsequent treatment with pegfilgrastim (uncommon [≥ 1/1,000 to &lt; 1/100]). Serious allerg ic reactions, including anaphylaxis can occur in patients receiving pegfilgrastim (uncommon) (see section 4.4).
+Hypersensitivity-type reactions, including skin rash, urticaria, angioedema dyspnoea, erythema, flushing, and hypotension occurred on initial or subsequent treatment with pegfilgrastim (uncommon [≥ 1/1,000 to &lt; 1/100]). Serious allergi c reactions, including anaphylaxis can occur in patients receiving pegfilgrastim (uncommon) (see section 4.4).
 
-Capillary Leak Syndrome, which can be life-threatening if treatment is delayed, has been reported as uncommon (≥ 1/1,000 to &lt; 1/100) in cancer patients undergoing chemotherapy following administration of G-CSF; see section 4.4 and section 'Description of selected adverse reactions' below.
+Capillary Leak Syndrome, which can be life-threatening if treatment is delayed, has been reported as uncommon (≥ 1/1,000 to &lt; 1/100) in cancer p atients undergoing chemotherapy following administration of G-CSF; see section 4.4 and section 'Description of selected adverse reactions' below.
 
 Splenomegaly, generally asymptomatic, is uncommon.
 
@@ -249,10 +249,6 @@ The data in the table below describe adverse reactions reported from clinical tr
 | Renal and urinary disorders                          |                                              | Glomerulonephritis 2                                                                                           |
 | General disorders and administration site conditions | Injection site pain 1 Non-cardiac chest pain | Injection site Reactions 2                                                                                     |
 | Investigations                                       |                                              | Elevations in lactate dehydrogenase and alkaline phosphatase 1 ; Transient elevations in LFTs for ALT or AST 1 |
-
-1 See section 'Description of selected adverse reactions' below.
-
-2 This adverse reaction was identified through post-marketing surveillance of pegfilgrastim but not observed in randomised, controlled clinical trials in adults. The frequency category was estimated from a statistical calculation based upon 1,576 patients receiving pegfilgrastim in nine randomised clinical trials.
 
 ## Description of selected adverse reactions
 
@@ -419,7 +415,7 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACT URER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturer(s) of the biological active substance(s)
 
@@ -516,17 +512,17 @@ Do not freeze.
 
 Keep the container in the outer carton to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS O R WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Juta Pharma GmbH, Gutenbergstr. 13, 24941 Flensburg, Germany
 
-## 12. MARKETING AUTHORISATION NUMB ER(S)
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/19/1375/001
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
@@ -611,8 +607,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME ORBYUNIT   |
-|------|------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
+|------|-----------------------------------------|
 
 0.6 ml
 
@@ -827,15 +823,15 @@ Each pack contains 1 glass pre-filled syringe with an attached stainless-steel n
 
 ## Marketing Authorisation Holder
 
-Juta Pharma GmbH, Gutenbergstr. 13, 24941Flensburg, Germany
+Juta Pharma GmbH Gutenbergstr. 13 24941Flensburg Germany
 
 ## Manufacturer
 
-Juta Pharma GmbH, Gutenbergstr. 13, 24941 Flensburg, Germany
+Juta Pharma GmbH Gutenbergstr. 13 24941 Flensburg Germany
 
 For  any  information  about  this  medicine,  please  contact  the  local  representative  of  the Marketing Authorisation Holder:
 
-Ελλάδα RAFARM A.E.B.E Κορίνθου 12, Ν. Ψυχικό, Ελλάδα τηλ 210 67 76550-1
+Ελλάδα RAFARM A.E.B.E Κορίνθου 12, Ν. Ψυχικό, Ελλάδα τηλ 210 6776550 -1
 
 Hrvatska Zentiva d.o.o. Av. V. Holjevca 40 , 10000 Zagreb, Hrvatska Tel:+385 1 6641 830
 
@@ -855,15 +851,17 @@ Tel: +421 2 32409422
 
 ## România
 
-Labormed Pharma Trading SRL 44B, Theodor Pallady Blvd. 3rd district, 032266 Bucharest, Romania
-
-Tel: +40 21 304 7597
+Zentiva Pharma Trading SRL B-dul Theodor Pallady nr. 44B, Etaj 2, Sector 3, București, România Tel: +40 21 304 7597
 
 ## Česká republika
 
 EGIS Praha, spol. s r.o., Praha1Staré Město,Ovocný trh 1096/8, PSČ 11000
 
 Tel: +420 227 129 111
+
+## Deutschland
+
+Juta Pharma GmbH Gutenbergstr. 13 24941 Flensburg Deutschland Tel: +49(0)461995799-0
 
 ## Slovenija
 
@@ -877,7 +875,11 @@ Zentiva France 35 Rue du Val de Marne 75013 Paris
 
 Tél: +33 (0) 800 089 219
 
-België / Belgique / Belgien, България,  Deutschland,  Eesti, España,  Ireland,   Ísland,  Italia , Κύπρος ,  Latvija, Lietuva, Luxembourg / Luxemburg, Magyarország, Malta, Nederland, Polska, Portugal, Sverige, Danmark, Norge, Suomi/Finland
+## България
+
+Зентива Фарма България ЕООД 1404 София, Община Триадица, 69 Бул. България, Бизнес Център 'Infinity Tower' етаж 7 Тел, +359 2 441 7136
+
+België / Belgique / Belgien,  Eesti,  España,  Ireland,  Ísland,  Italia, Κύπρος ,  Latvija,  Lietuva, Luxembourg / Luxemburg,  Magyarország,  Malta,  Nederland,  Polska,  Portugal, Sverige, Danmark, Norge, Suomi/Finland
 
 Juta Pharma GmbH
 

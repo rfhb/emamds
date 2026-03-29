@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-30 17:02:00
+document_datetime: 2026-03-26 17:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lenvima.html
 document_name: lenvima.html
 version: success
-processing_time: 0.1310535
-conversion_datetime: 2026-02-01 20:47:24.340749
+processing_time: 0.1150892
+conversion_datetime: 2026-03-29 12:20:18.042789
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Lenvima
 
 [RSS](/en/individual-human-medicine.xml/66871)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-lenvatinib Medicine Human Authorised
+lenvatinib
+
+Medicine Human Authorised
 
 Page contents
 
@@ -114,275 +116,141 @@ Reference Number: EMA/694337/2021
 
 English (EN) (145.19 KB - PDF)
 
-**First published:** 25/06/2015
-
-**Last updated:** 01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/en/documents/overview/lenvima-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-934)
+[Other languages (22)](#file-language-dropdown-731)
 
 български (BG) (166.66 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/bg/documents/overview/lenvima-epar-medicine-overview_bg.pdf)
 
 español (ES) (141.8 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/es/documents/overview/lenvima-epar-medicine-overview_es.pdf)
 
 čeština (CS) (165.06 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/cs/documents/overview/lenvima-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (140.46 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/da/documents/overview/lenvima-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (145.48 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/de/documents/overview/lenvima-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (129.71 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/et/documents/overview/lenvima-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (164.87 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/el/documents/overview/lenvima-epar-medicine-overview_el.pdf)
 
 français (FR) (143.79 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/fr/documents/overview/lenvima-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (164.39 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/hr/documents/overview/lenvima-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (140.66 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/it/documents/overview/lenvima-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (172.18 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/lv/documents/overview/lenvima-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (165.24 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/lt/documents/overview/lenvima-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (164.26 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/hu/documents/overview/lenvima-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (167.54 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/mt/documents/overview/lenvima-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (141.39 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/nl/documents/overview/lenvima-epar-medicine-overview_nl.pdf)
 
 polski (PL) (168.3 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/pl/documents/overview/lenvima-epar-medicine-overview_pl.pdf)
 
 português (PT) (142.71 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/pt/documents/overview/lenvima-epar-medicine-overview_pt.pdf)
 
 română (RO) (164.36 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/ro/documents/overview/lenvima-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (164.69 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/sk/documents/overview/lenvima-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (162.94 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/sl/documents/overview/lenvima-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (139 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/fi/documents/overview/lenvima-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (140.35 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-01/12/2021
+**First published:** 25/06/2015 **Last updated:** 01/12/2021
 
 [View](/sv/documents/overview/lenvima-epar-medicine-overview_sv.pdf)
 
@@ -390,9 +258,7 @@ Lenvima : EPAR - Risk management plan
 
 English (EN) (875.76 KB - PDF)
 
-**First published:** 25/06/2015
-
-**Last updated:** 30/04/2024
+**First published:** 25/06/2015 **Last updated:** 30/04/2024
 
 [View](/en/documents/rmp/lenvima-epar-risk-management-plan_en.pdf)
 
@@ -400,305 +266,161 @@ English (EN) (875.76 KB - PDF)
 
 Lenvima : EPAR - Product Information
 
-English (EN) (566.4 KB - PDF)
+English (EN) (565.33 KB - PDF)
 
-**First published:** 25/06/2015
-
-**Last updated:** 22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/en/documents/product-information/lenvima-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-207)
+[Other languages (24)](#file-language-dropdown-770)
 
-български (BG) (639.61 KB - PDF)
+български (BG) (648.02 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/bg/documents/product-information/lenvima-epar-product-information_bg.pdf)
 
-español (ES) (558.86 KB - PDF)
+español (ES) (567.8 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/es/documents/product-information/lenvima-epar-product-information_es.pdf)
 
-čeština (CS) (578.04 KB - PDF)
+čeština (CS) (588.38 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/cs/documents/product-information/lenvima-epar-product-information_cs.pdf)
 
-dansk (DA) (552.22 KB - PDF)
+dansk (DA) (567.46 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/da/documents/product-information/lenvima-epar-product-information_da.pdf)
 
-Deutsch (DE) (624.68 KB - PDF)
+Deutsch (DE) (639.82 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/de/documents/product-information/lenvima-epar-product-information_de.pdf)
 
-eesti keel (ET) (554.05 KB - PDF)
+eesti keel (ET) (557.43 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/et/documents/product-information/lenvima-epar-product-information_et.pdf)
 
-ελληνικά (EL) (649.27 KB - PDF)
+ελληνικά (EL) (657.62 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/el/documents/product-information/lenvima-epar-product-information_el.pdf)
 
-français (FR) (597.17 KB - PDF)
+français (FR) (608.91 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/fr/documents/product-information/lenvima-epar-product-information_fr.pdf)
 
-hrvatski (HR) (571.12 KB - PDF)
+hrvatski (HR) (584.33 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/hr/documents/product-information/lenvima-epar-product-information_hr.pdf)
 
-íslenska (IS) (540.98 KB - PDF)
+íslenska (IS) (552.6 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/is/documents/product-information/lenvima-epar-product-information_is.pdf)
 
-italiano (IT) (552.79 KB - PDF)
+italiano (IT) (563.05 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/it/documents/product-information/lenvima-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (589.79 KB - PDF)
+latviešu valoda (LV) (601.52 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/lv/documents/product-information/lenvima-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (581.12 KB - PDF)
+lietuvių kalba (LT) (592.85 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/lt/documents/product-information/lenvima-epar-product-information_lt.pdf)
 
-magyar (HU) (587.98 KB - PDF)
+magyar (HU) (594.34 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/hu/documents/product-information/lenvima-epar-product-information_hu.pdf)
 
-Malti (MT) (603.34 KB - PDF)
+Malti (MT) (603.05 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/mt/documents/product-information/lenvima-epar-product-information_mt.pdf)
 
-Nederlands (NL) (562.62 KB - PDF)
+Nederlands (NL) (566.92 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/nl/documents/product-information/lenvima-epar-product-information_nl.pdf)
 
-norsk (NO) (561.73 KB - PDF)
+norsk (NO) (572.02 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/no/documents/product-information/lenvima-epar-product-information_no.pdf)
 
-polski (PL) (579.19 KB - PDF)
+polski (PL) (589.36 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/pl/documents/product-information/lenvima-epar-product-information_pl.pdf)
 
-português (PT) (576.98 KB - PDF)
+português (PT) (587.91 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/pt/documents/product-information/lenvima-epar-product-information_pt.pdf)
 
-română (RO) (606.39 KB - PDF)
+română (RO) (619.04 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/ro/documents/product-information/lenvima-epar-product-information_ro.pdf)
 
-slovenčina (SK) (582.18 KB - PDF)
+slovenčina (SK) (593.96 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/sk/documents/product-information/lenvima-epar-product-information_sk.pdf)
 
-slovenščina (SL) (590.19 KB - PDF)
+slovenščina (SL) (605.29 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/sl/documents/product-information/lenvima-epar-product-information_sl.pdf)
 
-Suomi (FI) (567.92 KB - PDF)
+Suomi (FI) (579.31 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/fi/documents/product-information/lenvima-epar-product-information_fi.pdf)
 
-svenska (SV) (553.92 KB - PDF)
+svenska (SV) (560.74 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-22/04/2025
+**First published:** 25/06/2015 **Last updated:** 26/03/2026
 
 [View](/sv/documents/product-information/lenvima-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000254997 17/04/2025
+**Latest procedure affecting product information:** VR/0000328217
+
+26/03/2026
 
 icon globe
 
@@ -718,305 +440,177 @@ Lenvima : EPAR - All Authorised presentations
 
 English (EN) (35.5 KB - PDF)
 
-**First published:** 25/06/2015
-
-**Last updated:** 15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/en/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-782)
+[Other languages (24)](#file-language-dropdown-249)
 
 български (BG) (31.23 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/bg/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (28.25 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/es/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (27.43 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/cs/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (27.47 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/da/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (28 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/de/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (26.55 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/et/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (30.9 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/el/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (26.12 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/fr/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (26 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/hr/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (26.28 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/is/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (25.61 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/it/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (26.92 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/lv/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (35.21 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/lt/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (27.45 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/hu/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (27.52 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/mt/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (26.17 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/nl/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (37.16 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/no/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (27.23 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/pl/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (25.9 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/pt/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (25.92 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/ro/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (27 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/sk/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (28.88 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/sl/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (25.7 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/fi/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (26.25 KB - PDF)
 
-**First published:**
-
-25/06/2015
-
-**Last updated:**
-
-15/11/2019
+**First published:** 25/06/2015 **Last updated:** 15/11/2019
 
 [View](/sv/documents/all-authorised-presentations/lenvima-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Lenvima Active substance lenvatinib mesilate International non-proprietary name (INN) or common name lenvatinib Therapeutic area (MeSH) Thyroid Neoplasms Anatomical therapeutic chemical (ATC) code L01XE
+Name of medicine
+
+Lenvima
+
+Active substance
+
+lenvatinib mesilate
+
+International non-proprietary name (INN) or common name
+
+lenvatinib
+
+Therapeutic area (MeSH)
+
+Thyroid Neoplasms
+
+Anatomical therapeutic chemical (ATC) code
+
+L01XE
 
 ### Pharmacotherapeutic group
 
@@ -1030,7 +624,9 @@ Lenvima is indicated as monotherapy for the treatment of adult patients with adv
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/003727
+EMA product number
+
+EMEA/H/C/003727
 
 Accelerated assessment
 
@@ -1042,7 +638,17 @@ Eisai GmbH
 
 Edmund-Rumpler-Straße 3
 
-Opinion adopted 26/03/2015 Marketing authorisation issued 28/05/2015 Revision 27
+Opinion adopted
+
+26/03/2015
+
+Marketing authorisation issued
+
+28/05/2015
+
+Revision
+
+28
 
 ## Assessment history
 
@@ -1054,9 +660,9 @@ Collapse section
 
 Lenvima : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (141.81 KB - PDF)
+English (EN) (150.23 KB - PDF)
 
-**First published:** 22/04/2025
+**First published:** 22/04/2025 **Last updated:** 26/03/2026
 
 [View](/en/documents/procedural-steps-after/lenvima-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1064,17 +670,13 @@ Lenvima : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (254.47 KB - PDF)
 
-**First published:** 11/10/2016
-
-**Last updated:** 22/04/2025
+**First published:** 11/10/2016 **Last updated:** 22/04/2025
 
 [View](/en/documents/procedural-steps-after/lenvima-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Lenvima-PAM-0000279817 : Assessment report - Variation
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2219662
+Adopted Reference Number: EMADOC-1700519818-2219662
 
 English (EN) (1.34 MB - PDF)
 
@@ -1084,9 +686,7 @@ English (EN) (1.34 MB - PDF)
 
 Lenvima-H-C-003727-P46-023 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/433862/2024
+Adopted Reference Number: EMA/433862/2024
 
 English (EN) (2.64 MB - PDF)
 
@@ -1096,9 +696,7 @@ English (EN) (2.64 MB - PDF)
 
 Lenvima-H-C-003727-P46-022 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/367098/2023
+Adopted Reference Number: EMA/367098/2023
 
 English (EN) (2.85 MB - PDF)
 
@@ -1108,9 +706,7 @@ English (EN) (2.85 MB - PDF)
 
 Lenvima-H-C-003727-P46-020 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/433660/2024
+Adopted Reference Number: EMA/433660/2024
 
 English (EN) (5.18 MB - PDF)
 
@@ -1120,9 +716,7 @@ English (EN) (5.18 MB - PDF)
 
 Lenvima-H-C-003727-II-0042 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/618201/2021
+Adopted Reference Number: EMA/CHMP/618201/2021
 
 English (EN) (7.42 MB - PDF)
 
@@ -1132,9 +726,7 @@ English (EN) (7.42 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Lenvima (II-42)
 
-Adopted
-
-Reference Number: EMA/CHMP/565583/2021
+Adopted Reference Number: EMA/CHMP/565583/2021
 
 English (EN) (127.23 KB - PDF)
 
@@ -1164,9 +756,7 @@ English (EN) (262.84 KB - PDF)
 
 Lenvima-H-C-3727-II-0011-G : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/582721/2018
+Adopted Reference Number: EMA/582721/2018
 
 English (EN) (6.51 MB - PDF)
 
@@ -1176,15 +766,11 @@ English (EN) (6.51 MB - PDF)
 
 CHMP summary of positive opinion for Lenvima
 
-Adopted
-
-Reference Number: EMA/CHMP/156546/2015
+Adopted Reference Number: EMA/CHMP/156546/2015
 
 English (EN) (60.72 KB - PDF)
 
-**First published:** 27/03/2015
-
-**Last updated:** 27/03/2015
+**First published:** 27/03/2015 **Last updated:** 27/03/2015
 
 [View](/en/documents/smop/chmp-summary-positive-opinion-lenvima_en.pdf)
 
@@ -1192,29 +778,33 @@ English (EN) (60.72 KB - PDF)
 
 Lenvima : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/250082/2015
+Adopted Reference Number: EMA/250082/2015
 
 English (EN) (3.55 MB - PDF)
 
-**First published:** 25/06/2015
-
-**Last updated:** 25/06/2015
+**First published:** 25/06/2015 **Last updated:** 25/06/2015
 
 [View](/en/documents/assessment-report/lenvima-epar-public-assessment-report_en.pdf)
 
-#### News on Lenvima
+## News on Lenvima
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 October 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-october-2021) 15/10/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 October 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-october-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 June 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-june-2018) 29/06/2018
+15/10/2021
 
-[Accelerated assessment fast-tracks Lenvima to benefit patients with thyroid cancer](/en/news/accelerated-assessment-fast-tracks-lenvima-benefit-patients-thyroid-cancer) 27/03/2015
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 June 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-june-2018)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 March 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-march-2015) 27/03/2015
+29/06/2018
 
-#### More information on Lenvima
+[Accelerated assessment fast-tracks Lenvima to benefit patients with thyroid cancer](/en/news/accelerated-assessment-fast-tracks-lenvima-benefit-patients-thyroid-cancer)
+
+27/03/2015
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 March 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-march-2015)
+
+27/03/2015
+
+## More information on Lenvima
 
 This product is no longer an orphan medicine. It was originally designated an orphan medicine for the following indications:
 
@@ -1226,18 +816,18 @@ Lenvima for treatment of hepatocellular carcinoma was withdrawn from the Communi
 
 Lenvima for treatment of papillary thyroid cancer and treatment of follicular thyroid cancer was withdrawn from the Community register of orphan medicinal products in August 2018 upon request of the marketing authorisation holder.
 
-#### More information on Lenvima
+## More information on Lenvima
 
 - [EMEA-001119-PIP02-12-M08 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001119-pip02-12-m08)
 - [EMEA-001119-PIP03-19-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001119-pip03-19-m03)
 - [Post-marketing surveillance of Lenvima in patients with unresectable thyroid cancer in Japan (LEN01T) - post-authorisation study](https://catalogues.ema.europa.eu/study/33058)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 30/01/2026
+**This page was last updated on**
+
+26/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

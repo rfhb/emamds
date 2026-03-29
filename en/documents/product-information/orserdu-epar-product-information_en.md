@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-14 17:21:52
+document_datetime: 2026-03-25 15:52:38
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/orserdu-epar-product-information_en.pdf
 document_name: orserdu-epar-product-information_en.pdf
 version: success
-processing_time: 7.588043
-conversion_datetime: 2025-12-28 19:50:59.8418
+processing_time: 7.4599803
+conversion_datetime: 2026-03-29 12:31:51.788984
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -831,7 +831,8 @@ Tell your doctor if you take any of the following medicines:
 - -medicines for fungal infections (such as fluconazole, isavuconazole, itraconazole, ketoconazole, posaconazole, or voriconazole)
 - -medicines for HIV infection (such as efavirenz, etravirine, indinavir, lopinavir, ritonavir, nelfinavir, saquinavir, or telaprevir)
 - -medicines to treat irregular heartbeats (such as digoxin, dronedarone, or quinidine)
-- -medicines used in organ transplantation to prevent rejection (such as cyclosporine)
+- -
+- medicines used in organ transplantation to prevent rejection (such as cyclosporine)
 - -medicines to prevent cardiovascular events and to treat high levels of cholesterol (such as rosuvastatin)
 - -medicines used to prevent seizures (such as carbamazepine, cenobamate, phenobarbital, phenytoin, or primidone)
 - -medicines to treat vomiting (such as aprepitant)
@@ -1010,17 +1011,17 @@ Berlin Chemie AG Glienicker Weg 125 12489 Berlin Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien; България ;
+## België/Belgique/Belgien; България;
 
 Danmark; Eesti;
 
-Ελλάδα
+Ελλάδα;
 
-; Hrvatska; Ireland; Ísland;
+Hrvatska; Ireland; Ísland;
 
-Κύπρος
+Κύπρος;
 
-; Latvija; Lietuva;
+Latvija; Lietuva;
 
 Luxembourg/Luxemburg;
 
@@ -1028,7 +1029,7 @@ Magyarország; Malta; Nederland;
 
 Norge; Portugal;
 
-Slovenija; Slovenská republika;
+Slovenija;
 
 Suomi/Finland; Sverige
 
@@ -1044,7 +1045,9 @@ Berlin-Chemie/A.Menarini Ceska republika s.r.o. Tel: +420 267 199 333 office@ber
 
 ## Deutschland
 
-Menarini Stemline Deutschland GmbH Tel: +49 (0)800 0008974
+Menarini Stemline Deutschland GmbH
+
+Tel: +49 (0)800 0008974
 
 medicalinformation@menarinistemline.com
 
@@ -1077,3 +1080,7 @@ Berlin-Chemie/Menarini Polska Sp. z o.o. Tel.: +48 22 566 21 00 biuro@berlin-che
 ## România
 
 Berlin-Chemie A. Menarini S.R.L. Tel: +40 21 232 34 32 romania@berlin-chemie.com
+
+## Slovenská republika
+
+Berlin-Chemie / A. Menarini Distribution Slovakia s.r.o. Tel: +421 2 544 30 730 slovakia@berlin-chemie.com

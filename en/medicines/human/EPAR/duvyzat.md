@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:52:58
+document_datetime: 2026-03-27 15:48:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/duvyzat.html
 document_name: duvyzat.html
 version: success
-processing_time: 0.1063424
-conversion_datetime: 2025-12-30 21:26:54.852166
+processing_time: 0.1047567
+conversion_datetime: 2026-03-29 12:50:15.019332
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Duvyzat
 
 [RSS](/en/individual-human-medicine.xml/256950)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-givinostat Medicine Human Authorised
+givinostat
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -114,181 +114,137 @@ English (EN) (112.47 KB - PDF)
 
 [View](/en/documents/overview/duvyzat-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-87)
+[Other languages (22)](#file-language-dropdown-64)
 
 български (BG) (135.89 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/bg/documents/overview/duvyzat-epar-medicine-overview_bg.pdf)
 
 español (ES) (110.91 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/es/documents/overview/duvyzat-epar-medicine-overview_es.pdf)
 
 čeština (CS) (133.84 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/cs/documents/overview/duvyzat-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (111.78 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/da/documents/overview/duvyzat-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (114.38 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/de/documents/overview/duvyzat-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (108.75 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/et/documents/overview/duvyzat-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (134.8 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/el/documents/overview/duvyzat-epar-medicine-overview_el.pdf)
 
 français (FR) (112.24 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/fr/documents/overview/duvyzat-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (133.42 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/hr/documents/overview/duvyzat-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (110.45 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/it/documents/overview/duvyzat-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (140.54 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/lv/documents/overview/duvyzat-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (132.9 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/lt/documents/overview/duvyzat-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (134.23 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/hu/documents/overview/duvyzat-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (135.03 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/mt/documents/overview/duvyzat-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (112.41 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/nl/documents/overview/duvyzat-epar-medicine-overview_nl.pdf)
 
 polski (PL) (139.18 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/pl/documents/overview/duvyzat-epar-medicine-overview_pl.pdf)
 
 português (PT) (111.72 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/pt/documents/overview/duvyzat-epar-medicine-overview_pt.pdf)
 
 română (RO) (130.1 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/ro/documents/overview/duvyzat-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (132.86 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/sk/documents/overview/duvyzat-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (130.58 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/sl/documents/overview/duvyzat-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (109.16 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/fi/documents/overview/duvyzat-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (110.11 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/sv/documents/overview/duvyzat-epar-medicine-overview_sv.pdf)
 
@@ -304,305 +260,161 @@ English (EN) (440.74 KB - PDF)
 
 Duvyzat : EPAR - Product information
 
-English (EN) (624.4 KB - PDF)
+English (EN) (612.64 KB - PDF)
 
-**First published:** 09/07/2025
-
-**Last updated:** 27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/en/documents/product-information/duvyzat-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-220)
+[Other languages (24)](#file-language-dropdown-503)
 
-български (BG) (755.6 KB - PDF)
+български (BG) (712.94 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/bg/documents/product-information/duvyzat-epar-product-information_bg.pdf)
 
-español (ES) (645.39 KB - PDF)
+español (ES) (634.46 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/es/documents/product-information/duvyzat-epar-product-information_es.pdf)
 
-čeština (CS) (746.68 KB - PDF)
+čeština (CS) (719.94 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/cs/documents/product-information/duvyzat-epar-product-information_cs.pdf)
 
-dansk (DA) (673.65 KB - PDF)
+dansk (DA) (663.45 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/da/documents/product-information/duvyzat-epar-product-information_da.pdf)
 
-Deutsch (DE) (696.18 KB - PDF)
+Deutsch (DE) (683.74 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/de/documents/product-information/duvyzat-epar-product-information_de.pdf)
 
-eesti keel (ET) (669.01 KB - PDF)
+eesti keel (ET) (632.03 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/et/documents/product-information/duvyzat-epar-product-information_et.pdf)
 
-ελληνικά (EL) (716.03 KB - PDF)
+ελληνικά (EL) (702.29 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/el/documents/product-information/duvyzat-epar-product-information_el.pdf)
 
-français (FR) (725.55 KB - PDF)
+français (FR) (713.2 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/fr/documents/product-information/duvyzat-epar-product-information_fr.pdf)
 
-hrvatski (HR) (787.39 KB - PDF)
+hrvatski (HR) (746.62 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/hr/documents/product-information/duvyzat-epar-product-information_hr.pdf)
 
-íslenska (IS) (608.55 KB - PDF)
+íslenska (IS) (598.79 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/is/documents/product-information/duvyzat-epar-product-information_is.pdf)
 
-italiano (IT) (695.58 KB - PDF)
+italiano (IT) (683.72 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/it/documents/product-information/duvyzat-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (715.64 KB - PDF)
+latviešu valoda (LV) (689.44 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/lv/documents/product-information/duvyzat-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (697.52 KB - PDF)
+lietuvių kalba (LT) (671.74 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/lt/documents/product-information/duvyzat-epar-product-information_lt.pdf)
 
-magyar (HU) (758.16 KB - PDF)
+magyar (HU) (730.72 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/hu/documents/product-information/duvyzat-epar-product-information_hu.pdf)
 
-Malti (MT) (717.2 KB - PDF)
+Malti (MT) (704.68 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/mt/documents/product-information/duvyzat-epar-product-information_mt.pdf)
 
-Nederlands (NL) (693.77 KB - PDF)
+Nederlands (NL) (682.82 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/nl/documents/product-information/duvyzat-epar-product-information_nl.pdf)
 
-norsk (NO) (628.3 KB - PDF)
+norsk (NO) (617.89 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/no/documents/product-information/duvyzat-epar-product-information_no.pdf)
 
-polski (PL) (732.61 KB - PDF)
+polski (PL) (691.5 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/pl/documents/product-information/duvyzat-epar-product-information_pl.pdf)
 
-português (PT) (672.8 KB - PDF)
+português (PT) (662.09 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/pt/documents/product-information/duvyzat-epar-product-information_pt.pdf)
 
-română (RO) (747.98 KB - PDF)
+română (RO) (707.29 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/ro/documents/product-information/duvyzat-epar-product-information_ro.pdf)
 
-slovenčina (SK) (744.92 KB - PDF)
+slovenčina (SK) (705.85 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/sk/documents/product-information/duvyzat-epar-product-information_sk.pdf)
 
-slovenščina (SL) (766.16 KB - PDF)
+slovenščina (SL) (725.02 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/sl/documents/product-information/duvyzat-epar-product-information_sl.pdf)
 
-Suomi (FI) (675.78 KB - PDF)
+Suomi (FI) (665.68 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/fi/documents/product-information/duvyzat-epar-product-information_fi.pdf)
 
-svenska (SV) (608.09 KB - PDF)
+svenska (SV) (598.02 KB - PDF)
 
-**First published:**
-
-09/07/2025
-
-**Last updated:**
-
-27/10/2025
+**First published:** 09/07/2025 **Last updated:** 27/03/2026
 
 [View](/sv/documents/product-information/duvyzat-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000282569 17/07/2025
+**Latest procedure affecting product information:** VR/0000282569
+
+17/07/2025
 
 icon globe
 
@@ -626,203 +438,173 @@ English (EN) (44.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-373)
+[Other languages (24)](#file-language-dropdown-763)
 
 български (BG) (53.02 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/bg/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (45.92 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/es/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (53.16 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/cs/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (37.99 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/da/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (37.84 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/de/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (43.64 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/et/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (48.43 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/el/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (45.33 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/fr/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (83.38 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/hr/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (47.18 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/is/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (45.17 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/it/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (46.25 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/lv/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (46.43 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/lt/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (71.42 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/hu/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (51.61 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/mt/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (44.69 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/nl/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (47.54 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/no/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (46.74 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/pl/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (46.25 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/pt/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (45.68 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/ro/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (47.88 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/sk/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (43.81 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/sl/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (43.99 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/fi/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (47.3 KB - PDF)
 
-**First published:**
-
-09/07/2025
+**First published:** 09/07/2025
 
 [View](/sv/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Duvyzat Active substance givinostat hydrochloride monohydrate International non-proprietary name (INN) or common name givinostat Therapeutic area (MeSH) Muscular Dystrophy, Duchenne Anatomical therapeutic chemical (ATC) code M09AX14
+Name of medicine
+
+Duvyzat
+
+Active substance
+
+givinostat hydrochloride monohydrate
+
+International non-proprietary name (INN) or common name
+
+givinostat
+
+Therapeutic area (MeSH)
+
+Muscular Dystrophy, Duchenne
+
+Anatomical therapeutic chemical (ATC) code
+
+M09AX14
 
 ### Pharmacotherapeutic group
 
@@ -834,7 +616,9 @@ Duvyzat is indicated for the treatment of Duchenne muscular dystrophy (DMD) in a
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006079
+EMA product number
+
+EMEA/H/C/006079
 
 Additional monitoring
 
@@ -854,7 +638,17 @@ Italfarmaco S.p.A.
 
 Viale Fulvio Testi 330 20126 Milan Italy
 
-Opinion adopted 25/04/2025 Marketing authorisation issued 06/06/2025 Revision 1
+Opinion adopted
+
+25/04/2025
+
+Marketing authorisation issued
+
+06/06/2025
+
+Revision
+
+1
 
 ## Assessment history
 
@@ -876,9 +670,7 @@ English (EN) (175.39 KB - PDF)
 
 Duvyzat : Orphan maintenance assessment report (initial-authorisation)
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2104019
+Adopted Reference Number: EMADOC-1700519818-2104019
 
 English (EN) (353.78 KB - PDF)
 
@@ -888,9 +680,7 @@ English (EN) (353.78 KB - PDF)
 
 Duvyzat : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/176222/2025
+Adopted Reference Number: EMA/CHMP/176222/2025
 
 English (EN) (4.18 MB - PDF)
 
@@ -900,9 +690,7 @@ English (EN) (4.18 MB - PDF)
 
 CHMP summary of positive opinion for Duvyzat
 
-Adopted
-
-Reference Number: EMA/CHMP/90149/2025
+Adopted Reference Number: EMA/CHMP/90149/2025
 
 English (EN) (154.84 KB - PDF)
 
@@ -910,18 +698,22 @@ English (EN) (154.84 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-duvyzat_en.pdf)
 
-#### News on Duvyzat
+## News on Duvyzat
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025) 25/04/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025)
 
-[New treatment against Duchenne muscular dystrophy](/en/news/new-treatment-against-duchenne-muscular-dystrophy) 25/04/2025
+25/04/2025
 
-#### More information on Duvyzat
+[New treatment against Duchenne muscular dystrophy](/en/news/new-treatment-against-duchenne-muscular-dystrophy)
+
+25/04/2025
+
+## More information on Duvyzat
 
 - [EU/3/12/1009 - orphan designation for treatment of Duchenne muscular dystrophy](/en/medicines/human/orphan-designations/eu-3-12-1009)
 
-**This page was last updated on** 18/07/2025
+**This page was last updated on**
+
+27/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

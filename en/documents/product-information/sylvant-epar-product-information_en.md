@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-24 14:56:22
-document_pages: 32
+document_datetime: 2026-03-24 15:28:33
+document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sylvant-epar-product-information_en.pdf
 document_name: sylvant-epar-product-information_en.pdf
 version: success
-processing_time: 6.0896394
-conversion_datetime: 2025-12-27 23:28:28.094012
+processing_time: 7.0384077
+conversion_datetime: 2026-03-29 12:24:56.56706
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -507,6 +507,10 @@ Name and address of the manufacturer responsible for batch release
 
 Janssen Biologics B.V. Einsteinweg 101 NL-2333 CB Leiden The Netherlands
 
+Patheon Italia S.P.A. Via Morolense, 5 - 03013 Ferentino Italy
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
+
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal products subject to restricted medical prescription (See Annex I: Summary of Product Characteristics, section 4.2).
@@ -517,11 +521,9 @@ Medicinal products subject to restricted medical prescription (See Annex I: Summ
 
 The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND
-
 <div style=\"page-break-after: always\"></div>
 
-## EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk Management Plan (RMP)
 
@@ -658,7 +660,7 @@ Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-6. OTHER
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -867,6 +869,8 @@ Manufacturer Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden
 <div style=\"page-break-after: always\"></div>
 
 ## The Netherlands
+
+Patheon Italia S.P.A. Via Morolense, 5 - 03013 Ferentino Italy
 
 ## This leaflet was last revised in {MM/YYYY}.
 
@@ -1091,11 +1095,15 @@ Do not use if you see opaque or foreign particles and/or if the solution appears
 
 Recordati Netherlands B.V. Beechavenue 54, 1119PW Schiphol-Rijk Netherlands
 
+<div style=\"page-break-after: always\"></div>
+
 ## Manufacturer
 
 Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden The Netherlands
 
-<div style=\"page-break-after: always\"></div>
+Patheon Italia S.P.A. Via Morolense, 5 - 03013 Ferentino Italy
+
+## This leaflet was last revised in {MM/YYYY}.
 
 ## Other sources of information
 
@@ -1115,6 +1123,8 @@ This medicinal product is for single use only.
 6. The reconstituted solution should be kept for no more than 2 hours prior to addition into the intravenous bag. The infusion should be completed within 6 hours of the addition of the reconstituted solution to the infusion bag. Administer the diluted solution over a period of 1 hour using administration sets lined with PVC, or polyurethane (PU), or PE, containing a 0.2-micron inline polyethersulfone (PES) filter. SYLVANT does not contain preservatives; therefore do not store any unused portion of the infusion solution for re-use.
 7. No physical biochemical compatibility studies have been conducted to evaluate the co-administration of SYLVANT with other medicinal products. Do not infuse SYLVANT concomitantly in the same intravenous line with other agents.
 8. Any unused product or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Traceability
 

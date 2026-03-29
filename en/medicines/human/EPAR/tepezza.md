@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 09:09:35
+document_datetime: 2026-03-25 10:04:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tepezza.html
 document_name: tepezza.html
 version: success
-processing_time: 0.0929903
-conversion_datetime: 2025-12-30 10:31:22.247806
+processing_time: 0.0996862
+conversion_datetime: 2026-03-29 12:28:48.937419
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Tepezza
 
 [RSS](/en/individual-human-medicine.xml/258593)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-teprotumumab Medicine Human Authorised
+teprotumumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -115,181 +115,137 @@ English (EN) (129.96 KB - PDF)
 
 [View](/en/documents/overview/tepezza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-145)
+[Other languages (22)](#file-language-dropdown-52)
 
 български (BG) (150.15 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/bg/documents/overview/tepezza-epar-medicine-overview_bg.pdf)
 
 español (ES) (128.55 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/es/documents/overview/tepezza-epar-medicine-overview_es.pdf)
 
 čeština (CS) (153.09 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/cs/documents/overview/tepezza-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (127.66 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/da/documents/overview/tepezza-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (131.9 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/de/documents/overview/tepezza-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (126.14 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/et/documents/overview/tepezza-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (151.33 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/el/documents/overview/tepezza-epar-medicine-overview_el.pdf)
 
 français (FR) (131.4 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/fr/documents/overview/tepezza-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (152.65 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/hr/documents/overview/tepezza-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (126.53 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/it/documents/overview/tepezza-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (161.63 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/lv/documents/overview/tepezza-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (153.89 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/lt/documents/overview/tepezza-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (150.59 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/hu/documents/overview/tepezza-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (156.66 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/mt/documents/overview/tepezza-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (129.4 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/nl/documents/overview/tepezza-epar-medicine-overview_nl.pdf)
 
 polski (PL) (156.74 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/pl/documents/overview/tepezza-epar-medicine-overview_pl.pdf)
 
 português (PT) (129.14 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/pt/documents/overview/tepezza-epar-medicine-overview_pt.pdf)
 
 română (RO) (151.17 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/ro/documents/overview/tepezza-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (152.91 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/sk/documents/overview/tepezza-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (151.06 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/sl/documents/overview/tepezza-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (126.83 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/fi/documents/overview/tepezza-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (127.29 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/sv/documents/overview/tepezza-epar-medicine-overview_sv.pdf)
 
@@ -305,207 +261,161 @@ English (EN) (1.02 MB - PDF)
 
 Tepezza : EPAR - Product information
 
-English (EN) (363.53 KB - PDF)
+English (EN) (422.2 KB - PDF)
 
-**First published:** 14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/en/documents/product-information/tepezza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-757)
+[Other languages (24)](#file-language-dropdown-465)
 
-български (BG) (518.43 KB - PDF)
+български (BG) (507.92 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/bg/documents/product-information/tepezza-epar-product-information_bg.pdf)
 
-español (ES) (425.11 KB - PDF)
+español (ES) (479.96 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/es/documents/product-information/tepezza-epar-product-information_es.pdf)
 
-čeština (CS) (532.96 KB - PDF)
+čeština (CS) (510.81 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/cs/documents/product-information/tepezza-epar-product-information_cs.pdf)
 
-dansk (DA) (434.68 KB - PDF)
+dansk (DA) (470.58 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/da/documents/product-information/tepezza-epar-product-information_da.pdf)
 
-Deutsch (DE) (526.14 KB - PDF)
+Deutsch (DE) (513.6 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/de/documents/product-information/tepezza-epar-product-information_de.pdf)
 
-eesti keel (ET) (473.17 KB - PDF)
+eesti keel (ET) (470.45 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/et/documents/product-information/tepezza-epar-product-information_et.pdf)
 
-ελληνικά (EL) (517.25 KB - PDF)
+ελληνικά (EL) (512.07 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/el/documents/product-information/tepezza-epar-product-information_el.pdf)
 
-français (FR) (506.86 KB - PDF)
+français (FR) (500.97 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/fr/documents/product-information/tepezza-epar-product-information_fr.pdf)
 
-hrvatski (HR) (529.54 KB - PDF)
+hrvatski (HR) (510.31 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/hr/documents/product-information/tepezza-epar-product-information_hr.pdf)
 
-íslenska (IS) (430.67 KB - PDF)
+íslenska (IS) (467.39 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/is/documents/product-information/tepezza-epar-product-information_is.pdf)
 
-italiano (IT) (473.48 KB - PDF)
+italiano (IT) (475.3 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/it/documents/product-information/tepezza-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (499.64 KB - PDF)
+latviešu valoda (LV) (491.33 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/lv/documents/product-information/tepezza-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (496.03 KB - PDF)
+lietuvių kalba (LT) (491.01 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/lt/documents/product-information/tepezza-epar-product-information_lt.pdf)
 
-magyar (HU) (517.11 KB - PDF)
+magyar (HU) (506.57 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/hu/documents/product-information/tepezza-epar-product-information_hu.pdf)
 
-Malti (MT) (577.08 KB - PDF)
+Malti (MT) (557.49 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/mt/documents/product-information/tepezza-epar-product-information_mt.pdf)
 
-Nederlands (NL) (439.58 KB - PDF)
+Nederlands (NL) (475.4 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/nl/documents/product-information/tepezza-epar-product-information_nl.pdf)
 
-norsk (NO) (423.7 KB - PDF)
+norsk (NO) (461.03 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/no/documents/product-information/tepezza-epar-product-information_no.pdf)
 
-polski (PL) (496.49 KB - PDF)
+polski (PL) (496.71 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/pl/documents/product-information/tepezza-epar-product-information_pl.pdf)
 
-português (PT) (433.24 KB - PDF)
+português (PT) (468.79 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/pt/documents/product-information/tepezza-epar-product-information_pt.pdf)
 
-română (RO) (496.35 KB - PDF)
+română (RO) (492.38 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/ro/documents/product-information/tepezza-epar-product-information_ro.pdf)
 
-slovenčina (SK) (542.33 KB - PDF)
+slovenčina (SK) (520.01 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/sk/documents/product-information/tepezza-epar-product-information_sk.pdf)
 
-slovenščina (SL) (496.15 KB - PDF)
+slovenščina (SL) (511.83 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/sl/documents/product-information/tepezza-epar-product-information_sl.pdf)
 
-Suomi (FI) (427.63 KB - PDF)
+Suomi (FI) (464.09 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/fi/documents/product-information/tepezza-epar-product-information_fi.pdf)
 
-svenska (SV) (425.02 KB - PDF)
+svenska (SV) (461.79 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/sv/documents/product-information/tepezza-epar-product-information_sv.pdf)
 
-19/06/2025
+**Latest procedure affecting product information:** VR/0000337101
+
+25/03/2026
 
 icon globe
 
@@ -529,203 +439,173 @@ English (EN) (41.29 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-931)
+[Other languages (24)](#file-language-dropdown-693)
 
 български (BG) (46.86 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/bg/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (39.3 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/es/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (44.74 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/cs/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (41.17 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/da/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (42.23 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/de/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (37.7 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/et/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (44.07 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/el/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (40.42 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/fr/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (42.7 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/hr/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (41.94 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/is/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (38.51 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/it/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (43.99 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/lv/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (42.92 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/lt/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (42.42 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/hu/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (44.55 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/mt/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (38.5 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/nl/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (42.3 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/no/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (44.58 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/pl/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (40.53 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/pt/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (42.26 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/ro/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (44.89 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/sk/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (42.98 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/sl/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (38.84 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/fi/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (39.36 KB - PDF)
 
-**First published:**
-
-14/07/2025
+**First published:** 14/07/2025
 
 [View](/sv/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Tepezza Active substance teprotumumab International non-proprietary name (INN) or common name teprotumumab Therapeutic area (MeSH) Graves Ophthalmopathy Anatomical therapeutic chemical (ATC) code L04AG13
+Name of medicine
+
+Tepezza
+
+Active substance
+
+teprotumumab
+
+International non-proprietary name (INN) or common name
+
+teprotumumab
+
+Therapeutic area (MeSH)
+
+Graves Ophthalmopathy
+
+Anatomical therapeutic chemical (ATC) code
+
+L04AG13
 
 ### Pharmacotherapeutic group
 
@@ -738,7 +618,9 @@ Treatment of moderate to severe thyroid eye disease (TED).
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006396
+EMA product number
+
+EMEA/H/C/006396
 
 Additional monitoring
 
@@ -750,17 +632,39 @@ Amgen Europe B.V.
 
 Minervum 7061
 
-Opinion adopted 25/04/2025 Marketing authorisation issued 19/06/2025
+Opinion adopted
+
+25/04/2025
+
+Marketing authorisation issued
+
+19/06/2025
+
+Revision
+
+1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Tepezza : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (142.46 KB - PDF)
+
+**First published:** 25/03/2026
+
+[View](/en/documents/procedural-steps-after/tepezza-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Tepezza : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/175329/2025
+Adopted Reference Number: EMA/175329/2025
 
 English (EN) (2.7 MB - PDF)
 
@@ -770,9 +674,7 @@ English (EN) (2.7 MB - PDF)
 
 CHMP summary of positive opinion for Tepezza
 
-Adopted
-
-Reference Number: EMA/CHMP/126704/2025
+Adopted Reference Number: EMA/CHMP/126704/2025
 
 English (EN) (143.76 KB - PDF)
 
@@ -780,14 +682,18 @@ English (EN) (143.76 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-tepezza_en.pdf)
 
-#### News on Tepezza
+## News on Tepezza
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025) 25/04/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025)
 
-[First treatment against severe thyroid eye disease](/en/news/first-treatment-against-severe-thyroid-eye-disease) 25/04/2025
+25/04/2025
 
-**This page was last updated on** 14/07/2025
+[First treatment against severe thyroid eye disease](/en/news/first-treatment-against-severe-thyroid-eye-disease)
+
+25/04/2025
+
+**This page was last updated on**
+
+25/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

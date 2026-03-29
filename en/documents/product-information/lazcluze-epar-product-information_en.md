@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-29 12:40:53
+document_datetime: 2026-03-26 12:35:29
 document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lazcluze-epar-product-information_en.pdf
 document_name: lazcluze-epar-product-information_en.pdf
 version: success
-processing_time: 12.5016432
-conversion_datetime: 2025-12-30 09:27:12.011974
+processing_time: 13.6523413
+conversion_datetime: 2026-03-29 12:22:12.17467
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -279,56 +279,56 @@ Adverse reactions observed during clinical studies are listed below by frequency
 
 Table 3: Adverse reactions in patients receiving lazertinib in combination with amivantamab
 
-| System organ class Adverse reaction   | Frequency category   | Any grade (%)   | Grade 3-4 (%)   |
+| System organ class Adverse reaction   | Frequency category   |   Any grade (%) |   Grade 3-4 (%) |
 |---------------------------------------|----------------------|-----------------|-----------------|
 | Metabolism and nutrition disorders    |                      |                 |                 |
-| Hypoalbuminaemia a, b                 | Very common          | 48              | 5               |
-| Decreased appetite                    | Very common          | 24              | 1.0             |
+| Hypoalbuminaemia a, b                 | Very common          |              48 |               5 |
+| Decreased appetite                    | Very common          |              24 |               1 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Hypocalcaemia                                        |             | 21   | 2.1   |
+| Hypocalcaemia                                        |             |   21 |   2.1 |
 |------------------------------------------------------|-------------|------|-------|
-| Hypokalaemia                                         |             | 14   | 3.1   |
-| Hypomagnesaemia                                      | Common      | 5    | 0     |
+| Hypokalaemia                                         |             | 14   |   3.1 |
+| Hypomagnesaemia                                      | Common      |  5   |   0   |
 | Nervous system disorders                             |             |      |       |
-| Paraesthesia a                                       | Very common | 34   | 1.7   |
-| Dizziness a                                          |             | 13   | 0     |
+| Paraesthesia a                                       | Very common | 34   |   1.7 |
+| Dizziness a                                          |             | 13   |   0   |
 | Eye disorders                                        |             |      |       |
-| Other eye disorders a                                | Very common | 21   | 0.5   |
-| Visual impairment a                                  | Common      | 4.5  | 0     |
-| Keratitis                                            |             | 2.6  | 0.5   |
-| Growth of eyelashes a                                |             | 1.9  | 0     |
+| Other eye disorders a                                | Very common | 21   |   0.5 |
+| Visual impairment a                                  | Common      |  4.5 |   0   |
+| Keratitis                                            |             |  2.6 |   0.5 |
+| Growth of eyelashes a                                |             |  1.9 |   0   |
 | Vascular disorders                                   |             |      |       |
-| Venous thromboembolism a                             | Very common | 37   | 11    |
+| Venous thromboembolism a                             | Very common | 37   |  11   |
 | Respiratory, thoracic and mediastinal disorders      |             |      |       |
-| Interstitial lung disease/pneumonitis a              | Common      | 3.1  | 1.2   |
+| Interstitial lung disease/pneumonitis a              | Common      |  3.1 |   1.2 |
 | Gastrointestinal disorders                           |             |      |       |
-| Stomatitis a                                         | Very common | 43   | 2.4   |
-| Diarrhoea                                            |             | 29   | 2.1   |
-| Constipation                                         |             | 29   | 0     |
-| Nausea                                               |             | 21   | 1.2   |
-| Vomiting                                             |             | 12   | 0.5   |
-| Abdominal pain a                                     |             | 11   | 0     |
-| Haemorrhoids                                         | Common      | 10   | 0.2   |
+| Stomatitis a                                         | Very common | 43   |   2.4 |
+| Diarrhoea                                            |             | 29   |   2.1 |
+| Constipation                                         |             | 29   |   0   |
+| Nausea                                               |             | 21   |   1.2 |
+| Vomiting                                             |             | 12   |   0.5 |
+| Abdominal pain a                                     |             | 11   |   0   |
+| Haemorrhoids                                         | Common      | 10   |   0.2 |
 | Hepatobiliary disorders                              |             |      |       |
-| Hepatotoxicity a                                     | Very common | 47   | 9     |
+| Hepatotoxicity a                                     | Very common | 47   |   9   |
 | Skin and subcutaneous tissue disorders               |             |      |       |
-| Rash a                                               | Very common | 89   | 27    |
-| Nail toxicity a                                      |             | 71   | 11    |
-| Dry skin a                                           |             | 26   | 1.0   |
-| Pruritus                                             |             | 24   | 0.5   |
-| Palmar-plantar erythrodysaesthesia syndrome          | Common      | 6    | 0.2   |
-| Urticaria                                            |             | 1.2  | 0     |
+| Rash a                                               | Very common | 89   |  27   |
+| Nail toxicity a                                      |             | 71   |  11   |
+| Dry skin a                                           |             | 26   |   1   |
+| Pruritus                                             |             | 24   |   0.5 |
+| Palmar-plantar erythrodysaesthesia syndrome          | Common      |  6   |   0.2 |
+| Urticaria                                            |             |  1.2 |   0   |
 | Musculoskeletal and connective tissue disorders      |             |      |       |
-| Muscle spasms                                        | Very common | 17   | 0.5   |
-| Myalgia                                              |             | 13   | 0.7   |
+| Muscle spasms                                        | Very common | 17   |   0.5 |
+| Myalgia                                              |             | 13   |   0.7 |
 | General disorders and administration site conditions |             |      |       |
-| Oedema a, b                                          | Very common | 47   | 2.9   |
-| Fatigue a                                            |             | 32   | 3.8   |
-| Pyrexia                                              |             | 12   | 0     |
+| Oedema a, b                                          | Very common | 47   |   2.9 |
+| Fatigue a                                            |             | 32   |   3.8 |
+| Pyrexia                                              |             | 12   |   0   |
 | Injury, poisoning and procedural complications       |             |      |       |
-| Infusion-related reaction b                          | Very common | 63   | 6     |
+| Infusion-related reaction b                          | Very common | 63   |   6   |
 
 a grouped terms b applicable only to amivantamab.
 
@@ -358,7 +358,9 @@ Eye disorders, including keratitis (2.6%), occurred in patients treated with laz
 
 ## Hepatotoxicity
 
-Hepatotoxicity-related reactions occurred in 47% of patients treated with lazertinib in combination with amivantamab. Most events were Grade 1-2, with Grade 3-4 hepatotoxicity occurring in 9% of patients. Most events were related to elevations of serum transaminases (36% alanine aminotransferase increased and 29% aspartate aminotransferase increased). Most patients with elevations of transaminases were able to continue study treatment without modification of study treatment while a small number were managed with a dose interruption or with a dose reduction. There were no cases of liver failure or fatal cases of hepatotoxicity in clinical studies.
+Hepatotoxicity-related reactions occurred in 47% of patients treated with lazertinib in combination with amivantamab. Most events were Grade 1-2, with Grade 3-4 hepatotoxicity occurring in 9% of patients. Most events were related to elevations of serum transaminases (36% alanine aminotransferase increased and 29% aspartate aminotransferase increased). Most patients with elevations of transaminases were able to continue study treatment without modification of study treatment while a small number were managed with a dose interruption or with a dose reduction. There were no cases of liver failure or fatal cases of hepatotoxicity in clinical studies with lazertinib in combination with amivantamab.
+
+Isolated reports of alkaline phosphatase increased and prolonged elevated bilirubin have been identified with lazertinib monotherapy.
 
 ## Paraesthesia
 
@@ -404,9 +406,11 @@ Based on the exposure-response analyses for safety, paraesthesia and stomatitis 
 
 ## Cardiac electrophysiology
 
-The QTc interval prolongation potential of lazertinib was evaluated by exposure-response (E-R) analysis conducted with clinical data from 243 NSCLC patients who received 20, 40, 80, 120, 160, 240 or 320 mg lazertinib once daily in a phase 1/II study. The E-R analysis revealed no clinically relevant relationship between lazertinib plasma concentration and change in QTc interval.
+The QTc interval prolongation potential of lazertinib was evaluated by exposure-response (E-R) analysis conducted with clinical data from 243 NSCLC patients who received 20, 40, 80, 120, 160,
 
 <div style=\"page-break-after: always\"></div>
+
+240 or 320 mg lazertinib once daily in a phase 1/II study. The E-R analysis revealed no clinically relevant relationship between lazertinib plasma concentration and change in QTc interval.
 
 ## Clinical efficacy and safety
 
@@ -593,52 +597,33 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-## Lazcluze 80 mg film-coated tablets
-
-## Blister pack
-
-Polyvinyl chloride - polychlorotrifluoroethylene (PVC-PCTFE) film and aluminium push-through foil.
-
- One carton contains 56 film-coated tablets (2 wallet packs containing 28 tablets each).
-
-## Bottle
-
-White opaque high-density polyethylene (HDPE) bottle with polypropylene child-resistant closure containing either 60 or 90 tablets. Each carton contains one bottle.
-
-## Lazcluze 240 mg film-coated tablets
-
-## Blister pack
-
-Polyvinyl chloride - polychlorotrifluoroethylene (PVC-PCTFE) film and aluminium push-through foil.
-
--  One carton contains 14 film-coated tablets (1 wallet pack containing 14 tablets).
--  One carton contains 28 film-coated tablets (2 wallet packs containing 14 tablets each).
-
-## Bottle
-
-White opaque high-density polyethylene (HDPE) bottle with polypropylene child-resistant closure containing 30 film-coated tablets. Each carton contains one bottle.
-
-Not all pack sizes may be marketed.
-
-## 6.6 Special precautions for disposal
-
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-## 7. MARKETING AUTHORISATION HOLDER
-
-Janssen-Cilag International NV
-
-Turnhoutseweg 30
-
-B-2340 Beerse
-
-Belgium
-
-## 8. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/24/1886/001 EU/1/24/1886/002 EU/1/24/1886/003 EU/1/24/1886/004 EU/1/24/1886/005
-
-EU/1/24/1886/006
+| Lazcluze 80 mg film-coated tablets                                                                                                                                   | Lazcluze 80 mg film-coated tablets                                                                                                                                   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Blister pack                                                                                                                                                         | Blister pack                                                                                                                                                         |
+| Polyvinyl chloride - polychlorotrifluoroethylene (PVC-PCTFE) film and aluminium push-through foil.                                                                   | Polyvinyl chloride - polychlorotrifluoroethylene (PVC-PCTFE) film and aluminium push-through foil.                                                                   |
+|                                                                                                                                                                     | One carton contains 56 film-coated tablets (2 wallet packs containing 28 tablets each).                                                                              |
+| Bottle                                                                                                                                                               | Bottle                                                                                                                                                               |
+| White opaque high-density polyethylene (HDPE) bottle with polypropylene child-resistant closure containing either 60 or 90 tablets. Each carton contains one bottle. | White opaque high-density polyethylene (HDPE) bottle with polypropylene child-resistant closure containing either 60 or 90 tablets. Each carton contains one bottle. |
+| Lazcluze 240 mg film-coated tablets                                                                                                                                  | Lazcluze 240 mg film-coated tablets                                                                                                                                  |
+| Blister pack                                                                                                                                                         | Blister pack                                                                                                                                                         |
+| Polyvinyl chloride - polychlorotrifluoroethylene (PVC-PCTFE) film and aluminium push-through foil.                                                                   | Polyvinyl chloride - polychlorotrifluoroethylene (PVC-PCTFE) film and aluminium push-through foil.                                                                   |
+|                                                                                                                                                                     | One carton contains 14 film-coated tablets (1 wallet pack containing 14 tablets).                                                                                    |
+|                                                                                                                                                                     | One carton contains 28 film-coated tablets (2 wallet packs containing 14 tablets each).                                                                              |
+| Bottle                                                                                                                                                               | Bottle                                                                                                                                                               |
+| White opaque high-density polyethylene (HDPE) bottle with polypropylene child-resistant closure containing 30 film-coated tablets. Each carton contains one bottle.  | White opaque high-density polyethylene (HDPE) bottle with polypropylene child-resistant closure containing 30 film-coated tablets. Each carton contains one bottle.  |
+| Not all pack sizes may be marketed.                                                                                                                                  | Not all pack sizes may be marketed.                                                                                                                                  |
+| 6.6                                                                                                                                                                  | Special precautions for disposal                                                                                                                                     |
+| Any unused medicinal product or waste material should be disposed of in accordance with local                                                                        | Any unused medicinal product or waste material should be disposed of in accordance with local                                                                        |
+| 7.                                                                                                                                                                   | MARKETING AUTHORISATION HOLDER                                                                                                                                       |
+| Janssen-Cilag International NV                                                                                                                                       | Janssen-Cilag International NV                                                                                                                                       |
+| Turnhoutseweg 30 B-2340 Beerse                                                                                                                                       | Turnhoutseweg 30 B-2340 Beerse                                                                                                                                       |
+|                                                                                                                                                                      | Belgium                                                                                                                                                              |
+| 8. MARKETING AUTHORISATION                                                                                                                                           | 8. MARKETING AUTHORISATION                                                                                                                                           |
+| EU/1/24/1886/001                                                                                                                                                     | EU/1/24/1886/002                                                                                                                                                     |
+| EU/1/24/1886/003                                                                                                                                                     |                                                                                                                                                                      |
+|                                                                                                                                                                      | EU/1/24/1886/004                                                                                                                                                     |
+|                                                                                                                                                                      | EU/1/24/1886/005                                                                                                                                                     |
+|                                                                                                                                                                      | EU/1/24/1886/006                                                                                                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 

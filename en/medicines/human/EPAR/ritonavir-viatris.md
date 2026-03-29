@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 07:30:10
+document_datetime: 2026-03-26 13:51:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ritonavir-viatris.html
 document_name: ritonavir-viatris.html
 version: success
-processing_time: 0.3257288
-conversion_datetime: 2025-12-31 04:54:28.260061
+processing_time: 0.1195553
+conversion_datetime: 2026-03-29 12:33:15.706918
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Ritonavir Viatris (previously Ritonavir Mylan)
 
 [RSS](/en/individual-human-medicine.xml/67013)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-ritonavir Medicine Human Authorised
+ritonavir
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -105,589 +105,311 @@ Reference Number: EMA/621228/2017
 
 English (EN) (92.32 KB - PDF)
 
-**First published:** 20/11/2017
-
-**Last updated:** 20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/en/documents/overview/ritonavir-mylan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-776)
+[Other languages (22)](#file-language-dropdown-437)
 
 български (BG) (119.93 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/bg/documents/overview/ritonavir-mylan-epar-summary-public_bg.pdf)
 
 español (ES) (92.65 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/es/documents/overview/ritonavir-mylan-epar-summary-public_es.pdf)
 
 čeština (CS) (117.32 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/cs/documents/overview/ritonavir-mylan-epar-summary-public_cs.pdf)
 
 dansk (DA) (92.28 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/da/documents/overview/ritonavir-mylan-epar-summary-public_da.pdf)
 
 Deutsch (DE) (94.16 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/de/documents/overview/ritonavir-mylan-epar-summary-public_de.pdf)
 
 eesti keel (ET) (91.44 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/et/documents/overview/ritonavir-mylan-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (120.66 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/el/documents/overview/ritonavir-mylan-epar-summary-public_el.pdf)
 
 français (FR) (93.78 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/fr/documents/overview/ritonavir-mylan-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (111.99 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/hr/documents/overview/ritonavir-mylan-epar-summary-public_hr.pdf)
 
 italiano (IT) (91.84 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/it/documents/overview/ritonavir-mylan-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (112.86 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/lv/documents/overview/ritonavir-mylan-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (115.44 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/lt/documents/overview/ritonavir-mylan-epar-summary-public_lt.pdf)
 
 magyar (HU) (113.97 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/hu/documents/overview/ritonavir-mylan-epar-summary-public_hu.pdf)
 
 Malti (MT) (118.39 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/mt/documents/overview/ritonavir-mylan-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (93.13 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/nl/documents/overview/ritonavir-mylan-epar-summary-public_nl.pdf)
 
 polski (PL) (118.85 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/pl/documents/overview/ritonavir-mylan-epar-summary-public_pl.pdf)
 
 português (PT) (93.03 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/pt/documents/overview/ritonavir-mylan-epar-summary-public_pt.pdf)
 
 română (RO) (115.01 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/ro/documents/overview/ritonavir-mylan-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (117.26 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/sk/documents/overview/ritonavir-mylan-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (112.87 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/sl/documents/overview/ritonavir-mylan-epar-summary-public_sl.pdf)
 
 Suomi (FI) (92.17 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/fi/documents/overview/ritonavir-mylan-epar-summary-public_fi.pdf)
 
 svenska (SV) (92.31 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/sv/documents/overview/ritonavir-mylan-epar-summary-public_sv.pdf)
 
-Ritonavir Mylan : EPAR - Risk Management Plan summary
+Ritonavir Mylan : EPAR - Risk Management Plan
 
-English (EN) (139.51 KB - PDF)
+English (EN) (251.84 KB - PDF)
 
-**First published:** 12/10/2022
+**First published:** 12/10/2022 **Last updated:** 26/03/2026
 
-[View](/en/documents/rmp-summary/ritonavir-mylan-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/ritonavir-mylan-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Ritonavir Viatris : EPAR - Product Information
 
-English (EN) (517.42 KB - PDF)
+English (EN) (463.63 KB - PDF)
 
-**First published:** 20/11/2017
-
-**Last updated:** 08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/en/documents/product-information/ritonavir-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-455)
+[Other languages (24)](#file-language-dropdown-583)
 
-български (BG) (673.78 KB - PDF)
+български (BG) (747.21 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/bg/documents/product-information/ritonavir-viatris-epar-product-information_bg.pdf)
 
-español (ES) (615.67 KB - PDF)
+español (ES) (534.17 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/es/documents/product-information/ritonavir-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (603.17 KB - PDF)
+čeština (CS) (489.36 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/cs/documents/product-information/ritonavir-viatris-epar-product-information_cs.pdf)
 
-dansk (DA) (473.59 KB - PDF)
+dansk (DA) (506.53 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/da/documents/product-information/ritonavir-viatris-epar-product-information_da.pdf)
 
-Deutsch (DE) (527.93 KB - PDF)
+Deutsch (DE) (604.37 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/de/documents/product-information/ritonavir-viatris-epar-product-information_de.pdf)
 
-eesti keel (ET) (467.28 KB - PDF)
+eesti keel (ET) (578.86 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/et/documents/product-information/ritonavir-viatris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (491.18 KB - PDF)
+ελληνικά (EL) (853.01 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/el/documents/product-information/ritonavir-viatris-epar-product-information_el.pdf)
 
-français (FR) (645.29 KB - PDF)
+français (FR) (722.4 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/fr/documents/product-information/ritonavir-viatris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (699.18 KB - PDF)
+hrvatski (HR) (643.26 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/hr/documents/product-information/ritonavir-viatris-epar-product-information_hr.pdf)
 
-íslenska (IS) (494.82 KB - PDF)
+íslenska (IS) (506.53 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/is/documents/product-information/ritonavir-viatris-epar-product-information_is.pdf)
 
-italiano (IT) (683.86 KB - PDF)
+italiano (IT) (644.82 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/it/documents/product-information/ritonavir-viatris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (587.72 KB - PDF)
+latviešu valoda (LV) (783.24 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/lv/documents/product-information/ritonavir-viatris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (716.22 KB - PDF)
+lietuvių kalba (LT) (669.4 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/lt/documents/product-information/ritonavir-viatris-epar-product-information_lt.pdf)
 
-magyar (HU) (788.08 KB - PDF)
+magyar (HU) (722.4 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/hu/documents/product-information/ritonavir-viatris-epar-product-information_hu.pdf)
 
-Malti (MT) (896.93 KB - PDF)
+Malti (MT) (961.48 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/mt/documents/product-information/ritonavir-viatris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (638.83 KB - PDF)
+Nederlands (NL) (606.4 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/nl/documents/product-information/ritonavir-viatris-epar-product-information_nl.pdf)
 
-norsk (NO) (454.41 KB - PDF)
+norsk (NO) (444.35 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/no/documents/product-information/ritonavir-viatris-epar-product-information_no.pdf)
 
-polski (PL) (644.72 KB - PDF)
+polski (PL) (508.18 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/pl/documents/product-information/ritonavir-viatris-epar-product-information_pl.pdf)
 
-português (PT) (440.14 KB - PDF)
+português (PT) (596.7 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/pt/documents/product-information/ritonavir-viatris-epar-product-information_pt.pdf)
 
-română (RO) (742.29 KB - PDF)
+română (RO) (704.51 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/ro/documents/product-information/ritonavir-viatris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (774.25 KB - PDF)
+slovenčina (SK) (759.59 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/sk/documents/product-information/ritonavir-viatris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (423.86 KB - PDF)
+slovenščina (SL) (703.82 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/sl/documents/product-information/ritonavir-viatris-epar-product-information_sl.pdf)
 
-Suomi (FI) (666.2 KB - PDF)
+Suomi (FI) (530.79 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/fi/documents/product-information/ritonavir-viatris-epar-product-information_fi.pdf)
 
-svenska (SV) (389.67 KB - PDF)
+svenska (SV) (643.26 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-08/07/2025
+**First published:** 20/11/2017 **Last updated:** 26/03/2026
 
 [View](/sv/documents/product-information/ritonavir-viatris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000280244 07/07/2025
+**Latest procedure affecting product information:** VR/0000324243
+
+18/03/2026
 
 icon globe
 
@@ -707,281 +429,165 @@ Ritonavir Viatris : EPAR - All Authorised presentations
 
 English (EN) (11.15 KB - PDF)
 
-**First published:** 20/11/2017
-
-**Last updated:** 10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/en/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-886)
+[Other languages (22)](#file-language-dropdown-721)
 
 български (BG) (56.16 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/bg/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (34.67 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/es/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (51.8 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/cs/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_cs.pdf)
 
 Deutsch (DE) (11.37 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/de/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (12 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/et/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (54.96 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/el/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (12.86 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/fr/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (50.42 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/hr/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (20.76 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/is/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (11.6 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/it/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (51.73 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/lv/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (52.41 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/lt/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (69.3 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/hu/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (53.92 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/mt/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (11.63 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/nl/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (37.7 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/no/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (28.45 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/pl/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (12.37 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/pt/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (51.18 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/ro/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (59.92 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/sk/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_sk.pdf)
 
 Suomi (FI) (11.7 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/fi/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (37.98 KB - PDF)
 
-**First published:**
-
-20/11/2017
-
-**Last updated:**
-
-10/09/2024
+**First published:** 20/11/2017 **Last updated:** 10/09/2024
 
 [View](/sv/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Ritonavir Viatris (previously Ritonavir Mylan) Active substance ritonavir International non-proprietary name (INN) or common name ritonavir Therapeutic area (MeSH) HIV Infections Anatomical therapeutic chemical (ATC) code J05AE03
+Name of medicine
+
+Ritonavir Viatris (previously Ritonavir Mylan)
+
+Active substance
+
+ritonavir
+
+International non-proprietary name (INN) or common name
+
+ritonavir
+
+Therapeutic area (MeSH)
+
+HIV Infections
+
+Anatomical therapeutic chemical (ATC) code
+
+J05AE03
 
 ### Pharmacotherapeutic group
 
@@ -993,7 +599,9 @@ Ritonavir is indicated in combination with other antiretroviral agents for the t
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004549
+EMA product number
+
+EMEA/H/C/004549
 
 Generic
 
@@ -1005,7 +613,17 @@ Viatris Limited
 
 Damastown Industrial Park Dublin 15 Ireland
 
-Opinion adopted 14/09/2017 Marketing authorisation issued 09/11/2017 Revision 18
+Opinion adopted
+
+14/09/2017
+
+Marketing authorisation issued
+
+09/11/2017
+
+Revision
+
+19
 
 ## Assessment history
 
@@ -1017,11 +635,9 @@ Collapse section
 
 Ritonavir Viatris : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (115.94 KB - PDF)
+English (EN) (157.34 KB - PDF)
 
-**First published:** 10/09/2024
-
-**Last updated:** 08/07/2025
+**First published:** 10/09/2024 **Last updated:** 26/03/2026
 
 [View](/en/documents/procedural-steps-after/ritonavir-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1029,9 +645,7 @@ Ritonavir Mylan : EPAR - Procedural steps taken and scientific information after
 
 English (EN) (129.57 KB - PDF)
 
-**First published:** 12/06/2018
-
-**Last updated:** 10/01/2024
+**First published:** 12/06/2018 **Last updated:** 10/01/2024
 
 [View](/en/documents/procedural-steps-after/ritonavir-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1039,15 +653,11 @@ English (EN) (129.57 KB - PDF)
 
 Ritonavir Mylan : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/749789/2017
+Adopted Reference Number: EMA/CHMP/749789/2017
 
 English (EN) (381.21 KB - PDF)
 
-**First published:** 20/11/2017
-
-**Last updated:** 20/11/2017
+**First published:** 20/11/2017 **Last updated:** 20/11/2017
 
 [View](/en/documents/assessment-report/ritonavir-mylan-epar-public-assessment-report_en.pdf)
 
@@ -1057,17 +667,17 @@ Reference Number: EMA/CHMP/541227/2017
 
 English (EN) (68.18 KB - PDF)
 
-**First published:** 15/09/2017
-
-**Last updated:** 15/09/2017
+**First published:** 15/09/2017 **Last updated:** 15/09/2017
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-ritonavir-mylan_en.pdf)
 
-#### News on Ritonavir Viatris (previously Ritonavir Mylan)
+## News on Ritonavir Viatris (previously Ritonavir Mylan)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11 to 14 September 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-september-2017) 15/09/2017
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11 to 14 September 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-september-2017)
 
-#### More information on Ritonavir Mylan
+15/09/2017
+
+## More information on Ritonavir Mylan
 
 Questions and answers on generic medicines
 
@@ -1075,285 +685,151 @@ Reference Number: EMA/393905/2006 Rev. 2
 
 English (EN) (66.45 KB - PDF)
 
-**First published:** 09/07/2007
-
-**Last updated:** 07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-809)
 
 български (BG) (93.16 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
 
 español (ES) (68.3 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
 
 čeština (CS) (87.71 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
 
 dansk (DA) (66.79 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
 
 Deutsch (DE) (67.55 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
 
 eesti keel (ET) (65.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
 
 ελληνικά (EL) (91.29 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
 
 français (FR) (68.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
 
 hrvatski (HR) (87.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
 
 italiano (IT) (67.62 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
 
 latviešu valoda (LV) (111.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
 
 lietuvių kalba (LT) (86.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
 
 magyar (HU) (85.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
 
 Malti (MT) (89.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
 
 Nederlands (NL) (66.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
 
 polski (PL) (88.51 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
 
 português (PT) (68.32 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
 
 română (RO) (86.9 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
 
 slovenčina (SK) (87.73 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
 
 slovenščina (SL) (84.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
 
 Suomi (FI) (66.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
 
 svenska (SV) (67.11 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 08/07/2025
+**This page was last updated on**
+
+26/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

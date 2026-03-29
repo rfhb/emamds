@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-14 15:52:58
+document_datetime: 2026-03-25 09:45:33
 document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tepezza-epar-product-information_en.pdf
 document_name: tepezza-epar-product-information_en.pdf
 version: success
-processing_time: 7.2716937
-conversion_datetime: 2025-12-17 14:22:21.204985
+processing_time: 7.6657581
+conversion_datetime: 2026-03-29 12:34:26.516709
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -223,7 +223,7 @@ Adverse reactions reported in clinical trials and derived from spontaneous repor
 
 The adverse reactions are listed by MedDRA System Organ Class and by frequency. Frequencies are defined according to the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
-## Table 1. Adverse reactions
+Table 1. Adverse reactions
 
 | MedDRA system organ class          | Very common (> 1/10)   | Common (> 1/100 to < 1/10)                                                                                                                | Uncommon (> 1/1 000 to < 1/100)                                                   | Rare (> 1/10 000 to < 1/1 000)   | Not known/cannot be estimated from available data   |
 |------------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------|-----------------------------------------------------|
@@ -246,7 +246,7 @@ The adverse reactions are listed by MedDRA System Organ Class and by frequency. 
 
 1  See below description of selected adverse reactions
 
-2  Observed in the post-marketing setting - frequency cannot be estimated from the available data
+2  Observed in the post-marketing setting -frequency cannot be estimated from the available data
 
 ## Description of selected adverse reactions
 
@@ -320,7 +320,7 @@ Patients with active thyroid eye disease had a mean time since diagnosis of TED 
 
 The baseline demographic and disease characteristics of the study population of TED01RV, OPTIC and OPTIC-J studies were: median age 52.0 years (range: 20 to 79); 14.2% patients 65 years or older; 72.4% female; 76.0% non-smoker.
 
-The primary endpoint in phase II study TED01RV was the overall responder rate, defined as the percentage of participants with ≥ 2-point reduction in CAS and ≥ 2 mm reduction in proptosis measurement from baseline in the study eye, provided there is no corresponding deterioration (≥ 2-point increase in CAS or ≥ 2 mm increase in proptosis in the fellow eye) at week 24.
+The primary endpoint in phase II study TED01RV was the overall responder rate, defined as the percentage of participants with ≥ 2point reduction in CAS and ≥ 2 mm reduction in proptosis measurement from baseline in the study eye, provided there is no corresponding deterioration (≥ 2point increase in CAS or ≥ 2 mm increase in proptosis in the fellow eye) at week 24.
 
 Efficacy results of study TED01RV are summarised in table 2.
 
@@ -367,9 +367,7 @@ Table 3. Overview of efficacy parameters in study OPTIC at week 24 (ITT populati
 | Change from baseline in GO- QoL visual functioning, LS mean     | 15.40                   | 2.86                | 12.54 (3.14, 21.94)             | 0.010 b             |
 | Change from baseline in GO- QoL appearance, LS mean             | 18.84                   | 0.37                | 18.47 (9.95, 27.00)             | < 0.001 b           |
 
-CAS = Clinical Activity Score; CI = confidence interval; GO-QoL = Graves' Ophthalmopathy Quality of Life;
-
-ITT = intent-to-treat; LS = Least Squares
+CAS = Clinical Activity Score; CI = confidence interval; GO-QoL = Graves' Ophthalmopathy Quality of Life; ITT = intent-to-treat; LS = Least Squares
 
 Note: Results shown are those for the study eye for proptosis responder rate, overall responder rate, CAS responder rate, and diplopia responder rate.
 
@@ -379,7 +377,7 @@ CAS responder rate = CAS responders are defined as achieving a reduction to a CA
 
 Diplopia responder rate = Diplopia responders are defined as achieving ≥ 1 grade reduction in diplopia in the study eye without worsening by at least one grade in the fellow eye at week 24.
 
-a  Cochran-Mantel-Haenszel (CMH) test stratified by tobacco use status (smoker vs non-smoker).
+a  Cochran -Mantel -Haenszel (CMH) test stratified by tobacco use status (smoker vs non-smoker).
 
 b  Results obtained from mixed model repeated measurements (MMRM) analysis with an unstructured covariance matrix including baseline value, tobacco use status, treatment group, visit, visit by treatment, and visit by baseline value interactions. A change from baseline of 0 was imputed at the first post baseline visit for any patient without a post-baseline value at all.
 
@@ -418,21 +416,23 @@ The primary endpoint in study HZNP-TEP-403 was the mean change from baseline in 
 
 Efficacy results of HZNP-TEP-403 are summarised in table 5.
 
-Table 5. Overview of efficacy parameters in study HZNP-TEP-403 at week 24 (intent-to-treat population)
+Table 5. Overview of efficacy parameters in study HZNP-TEP-403 at week 24 (ITT population)
 
-|                                                            | Teprotumumab (N = 42)   | Placebo (N = 20)   | Treatment Difference (95% CI)   | p-value   |
+|                                                            |   Teprotumumab (N = 42) |   Placebo (N = 20) | Treatment Difference (95% CI)   | p-value   |
 |------------------------------------------------------------|-------------------------|--------------------|---------------------------------|-----------|
 | Primary endpoint                                           |                         |                    |                                 |           |
-| Change from baseline in proptosis at week 24, LS mean      | -2.41                   | -0.92              | -1.48 (-2.28, -0.69)            | 0.0004 a  |
+| Change from baseline in proptosis at week 24, LS mean      |                   -2.41 |              -0.92 | -1.48 (-2.28, -0.69)            | 0.0004 a  |
 | Secondary endpoint                                         |                         |                    |                                 |           |
-| Proptosis responder rate,%                                 | 61.9                    | 25.0               | 36.9 (5.4, 59.2)                | 0.0134 b  |
-| Change from baseline in GO-QoL visual functioning, LS mean | 8.73                    | 2.41               | 6.31 (0.57, 12.06)              | 0.0318 a  |
+| Proptosis responder rate,%                                 |                   61.9  |              25    | 36.9 (5.4, 59.2)                | 0.0134 b  |
+| Change from baseline in GO-QoL visual functioning, LS mean |                    8.73 |               2.41 | 6.31 (0.57, 12.06)              | 0.0318 a  |
 
-CI = confidence interval; GO-QoL = Graves' Ophthalmopathy Quality of Life; LS = least squares
+CI = confidence interval; GO-QoL = Graves' Ophthalmopathy Quality of Life; ITT = intent-to-treat; LS = least squares
+
+Note: For responder rates, a participant missing the week 24 evaluation was considered a non-responder.
 
 <div style=\"page-break-after: always\"></div>
 
-Note: For responder rates, a participant missing the week 24 evaluation was considered a non-responder. Note: Results shown are those for the study eye for the change from baseline in proptosis at week 24 and proptosis responder rate.
+Note: Results shown are those for the study eye for the change from baseline in proptosis at week 24 and proptosis responder rate.
 
 a  p-value is from mixed model repeated measurements analysis with an unstructured variance-covariance matrix including change from baseline value as the dependent variable and the following covariates: Baseline value, treatment group, visit, visit-by-treatment and visit-by-baseline value interactions.
 
@@ -464,7 +464,7 @@ Following the recommended teprotumumab dosing regimen, the population PK estimat
 
 ## Special populations
 
-No clinically relevant differences in the pharmacokinetics of teprotumumab were observed following administration of teprotumumab based on patient's age (18-80 years), gender, ethnicity, renal function, bilirubin levels, aspartate aminotransferase (AST) levels, or alanine aminotransferase (ALT) levels. No dose adjustments are considered necessary for patients with renal and hepatic impairment (see section 4.2).
+No clinically relevant differences in the pharmacokinetics of teprotumumab were observed following administration of teprotumumab based on patient's age (1880 years), gender, ethnicity, renal function, bilirubin levels, aspartate aminotransferase (AST) levels, or alanine aminotransferase (ALT) levels. No dose adjustments are considered necessary for patients with renal and hepatic impairment (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -506,19 +506,19 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## Lyophilised powder in unopened vial
 
-3 years
+4 years
 
 ## Reconstituted and diluted infusion solution
 
-Chemical and physical in-use stability of the reconstituted solution in the vial has been demonstrated for up to 4 hours at room temperature (20°C - 25°C) or up to 48 hours at 2°C to 8°C storage condition.
+Chemical and physical in-use stability of the reconstituted solution in the vial has been demonstrated for up to 4 hours at room temperature (20°C -25°C) or up to 48 hours at 2°C to 8°C storage condition.
 
-Chemical and physical in-use stability of the diluted solution in the infusion bag has been demonstrated for 24 hours at 2°C to 8ºC followed by 24 hours at room temperature (20°C - 25°C) storage condition.
+Chemical and physical in-use stability of the diluted solution in the infusion bag has been demonstrated for 24 hours at 2°C to 8ºC followed by 24 hours at room temperature (20°C -25°C) storage condition.
 
 From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C to 8°C, unless reconstitution and dilution has taken place in controlled and validated aseptic conditions. If refrigerated prior to administration, the diluted solution should be at room temperature prior to infusion.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2°C -8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
 For storage conditions after reconstitution and dilution of the medicinal product, see section 6.3.
 
@@ -560,7 +560,7 @@ EU/1/25/1941/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 19 June 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -585,7 +585,7 @@ AGC Biologics A/S Vandtårnsvej 83B Søborg 2860
 
 Denmark
 
-## Name and address of the manufacturers responsible for batch release
+Name and address of the manufacturers responsible for batch release
 
 Horizon Therapeutics Ireland DAC Pottery Road Dun Laoghaire Dublin A96 F2A8 Ireland
 
@@ -684,8 +684,6 @@ The MAH shall ensure that in each Member State where TEPEZZA is marketed, all he
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON
@@ -734,13 +732,12 @@ Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
+<!-- image -->
+
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
-
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -750,7 +747,7 @@ Amgen Europe B.V., Minervum 7061, 4817 ZK Breda, The Netherlands
 
 EU/1/25/1941/001
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
@@ -782,9 +779,7 @@ TEPEZZA 500 mg powder for concentrate teprotumumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each vial contains 500 mg teprotumumab.
-
-After reconstitution, each vial contains 47.6 mg/mL of teprotumumab.
+Each vial contains 500 mg teprotumumab. After reconstitution, each vial contains 47.6 mg/mL of teprotumumab.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -796,9 +791,7 @@ Powder for concentrate for solution for infusion. 1 vial
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-IV after reconstitution and dilution
-
-Read the package leaflet before use.
+IV after reconstitution and dilution Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -830,9 +823,9 @@ Amgen Europe B.V. Minervum 7061, 4817 ZK Breda, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1941/001
+## EU/1/25/1941/001
 
-## 13. BATCH NUMBER
+13. BATCH NUMBER
 
 Lot
 
@@ -856,9 +849,7 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## TEPEZZA 500 mg powder for concentrate for solution for infusion
-
-## teprotumumab
+## TEPEZZA 500 mg powder for concentrate for solution for infusion teprotumumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -892,7 +883,7 @@ The active substance in TEPEZZA, teprotumumab, blocks the IGF-1R protein, this k
 ## Do not use TEPEZZA
 
 - -if you are allergic to teprotumumab or any of the other ingredients of this medicine (listed in section 6).
-- -if you are pregnant (see section 'Pregnancy, breast-feeding and contraception').
+- -if you are pregnant (see section 'Pregnancy, breast -feeding and contraception').
 
 If you are not sure, talk to your doctor or nurse before being given TEPEZZA.
 
@@ -1103,7 +1094,13 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the outer carton and on the vial label after EXP. The expiry date refers to the last day of that month.
 
-Unopened vials: Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+## Unopened vials:
+
+Store in a refrigerator (2°C -8°C).
+
+Do not freeze.
+
+Keep the vial in the outer carton in order to protect from light.
 
 ## 6. Contents of the pack and other information
 
@@ -1112,7 +1109,7 @@ Unopened vials: Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the v
 - The active substance is teprotumumab.
 - Each vial contains 500 mg teprotumumab.
 
-The other ingredients are histidine, histidine hydrochloride monohydrate, polysorbate 20 (E432) and trehalose dihydrate. See section 2 'TEPEZZA contains polysorbate'.
+The other ingredients are histidine, histidine hydrochloride monohydrate, polysorbate 20 (E432) and trehalose dihydrate. See section 2 ' TEPEZZA contains polysorbate '.
 
 ## What TEPEZZA looks like and contents of the pack
 
@@ -1136,9 +1133,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-s.a. Amgen n.v.
-
-Tél/Tel: +32 (0)2 7752711
+s.a. Amgen n.v. Tél/Tel: +32 (0)2 7752711
 
 ## България Амджен България ЕООД
 
@@ -1146,7 +1141,9 @@ Tél/Tel: +32 (0)2 7752711
 
 ## Česká republika
 
-Amgen s.r.o. Tel: +420 221 773 500
+Amgen s.r.o.
+
+Tel: +420 221 773 500
 
 ## Danmark
 
@@ -1170,9 +1167,7 @@ Amgen S.A. Tel: +34 93 600 18 60
 
 ## France
 
-Amgen S.A.S.
-
-Tél: +33 (0)9 69 363 363
+Amgen S.A.S. Tél: +33 (0)9 69 363 363
 
 ## Hrvatska
 
@@ -1262,13 +1257,13 @@ Amgen AB
 
 Tel: +46 (0)8 6951100
 
+<div style=\"page-break-after: always\"></div>
+
 ## Latvija
 
 Amgen Switzerland AG Rīgas filiāle
 
 Tel: +371 257 25888
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -1304,9 +1299,9 @@ After reconstitution, TEPEZZA is a nearly colourless or slightly brown, clear to
 
 ## Storage of reconstituted and diluted infusion solution
 
-Chemical and physical in-use stability of the reconstituted solution in the vial has been demonstrated for up to 4 hours at room temperature (20°C - 25°C) or up to 48 hours at 2°C to 8°C storage condition.
+Chemical and physical in-use stability of the reconstituted solution in the vial has been demonstrated for up to 4 hours at room temperature (20°C -25°C) or up to 48 hours at 2°C to 8°C storage condition.
 
-Chemical and physical in-use stability of the diluted solution in the infusion bag has been demonstrated for 24 hours at 2°C to 8ºC followed by 24 hours at room temperature (20°C - 25°C) storage condition.
+Chemical and physical in-use stability of the diluted solution in the infusion bag has been demonstrated for 24 hours at 2°C to 8ºC followed by 24 hours at room temperature (20°C -25°C) storage condition.
 
 From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C to 8°C, unless reconstitution and dilution has taken place in controlled and validated aseptic conditions. If refrigerated prior to administration, the diluted solution should be at room temperature prior to infusion.
 

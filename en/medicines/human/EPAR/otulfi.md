@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:02:26
+document_datetime: 2026-03-25 16:43:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/otulfi.html
 document_name: otulfi.html
 version: success
-processing_time: 0.1128654
-conversion_datetime: 2025-12-31 02:28:40.044037
+processing_time: 0.1205436
+conversion_datetime: 2026-03-29 12:46:23.826247
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Otulfi
 
 [RSS](/en/individual-human-medicine.xml/246170)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-ustekinumab Medicine Human Authorised
+ustekinumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -38,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Otulfi](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-84692)
 
 - Application under evaluation
 - CHMP opinion
@@ -111,275 +112,141 @@ Otulfi : EPAR - Medicine overview
 
 English (EN) (133.85 KB - PDF)
 
-**First published:** 02/10/2024
-
-**Last updated:** 17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/en/documents/overview/otulfi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-521)
+[Other languages (22)](#file-language-dropdown-294)
 
 български (BG) (161.31 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/bg/documents/overview/otulfi-epar-medicine-overview_bg.pdf)
 
 español (ES) (134.1 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/es/documents/overview/otulfi-epar-medicine-overview_es.pdf)
 
 čeština (CS) (159.06 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/cs/documents/overview/otulfi-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (134.25 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/da/documents/overview/otulfi-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (138.11 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/de/documents/overview/otulfi-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (131.55 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/et/documents/overview/otulfi-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (161.49 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/el/documents/overview/otulfi-epar-medicine-overview_el.pdf)
 
 français (FR) (135.35 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/fr/documents/overview/otulfi-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (156.92 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/hr/documents/overview/otulfi-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (133.33 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/it/documents/overview/otulfi-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (163.49 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/lv/documents/overview/otulfi-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (157.13 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/lt/documents/overview/otulfi-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (156.75 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/hu/documents/overview/otulfi-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (159.09 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/mt/documents/overview/otulfi-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (135.58 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/nl/documents/overview/otulfi-epar-medicine-overview_nl.pdf)
 
 polski (PL) (160.03 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/pl/documents/overview/otulfi-epar-medicine-overview_pl.pdf)
 
 português (PT) (134.64 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/pt/documents/overview/otulfi-epar-medicine-overview_pt.pdf)
 
 română (RO) (154.25 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/ro/documents/overview/otulfi-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (158.77 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/sk/documents/overview/otulfi-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (154.23 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/sl/documents/overview/otulfi-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (131.12 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/fi/documents/overview/otulfi-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (132.2 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-17/10/2025
+**First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/sv/documents/overview/otulfi-epar-medicine-overview_sv.pdf)
 
@@ -387,9 +254,7 @@ Otulfi : EPAR - Risk management plan
 
 English (EN) (1.03 MB - PDF)
 
-**First published:** 02/10/2024
-
-**Last updated:** 26/05/2025
+**First published:** 02/10/2024 **Last updated:** 26/05/2025
 
 [View](/en/documents/rmp/otulfi-epar-risk-management-plan_en.pdf)
 
@@ -397,305 +262,161 @@ English (EN) (1.03 MB - PDF)
 
 Otulfi : EPAR - Product information
 
-English (EN) (1.37 MB - PDF)
+English (EN) (2.55 MB - PDF)
 
-**First published:** 02/10/2024
-
-**Last updated:** 11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/en/documents/product-information/otulfi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-268)
+[Other languages (24)](#file-language-dropdown-976)
 
-български (BG) (1.33 MB - PDF)
+български (BG) (3.65 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/bg/documents/product-information/otulfi-epar-product-information_bg.pdf)
 
-español (ES) (1.47 MB - PDF)
+español (ES) (2.65 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/es/documents/product-information/otulfi-epar-product-information_es.pdf)
 
-čeština (CS) (1.26 MB - PDF)
+čeština (CS) (2.58 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/cs/documents/product-information/otulfi-epar-product-information_cs.pdf)
 
-dansk (DA) (1.77 MB - PDF)
+dansk (DA) (2.52 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/da/documents/product-information/otulfi-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.3 MB - PDF)
+Deutsch (DE) (2.52 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/de/documents/product-information/otulfi-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.19 MB - PDF)
+eesti keel (ET) (2.56 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/et/documents/product-information/otulfi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.45 MB - PDF)
+ελληνικά (EL) (3.18 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/el/documents/product-information/otulfi-epar-product-information_el.pdf)
 
-français (FR) (1.33 MB - PDF)
+français (FR) (2.4 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/fr/documents/product-information/otulfi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.52 MB - PDF)
+hrvatski (HR) (2.91 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/hr/documents/product-information/otulfi-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.26 MB - PDF)
+íslenska (IS) (2.49 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/is/documents/product-information/otulfi-epar-product-information_is.pdf)
 
-italiano (IT) (1.38 MB - PDF)
+italiano (IT) (2.72 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/it/documents/product-information/otulfi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.75 MB - PDF)
+latviešu valoda (LV) (2.81 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/lv/documents/product-information/otulfi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.59 MB - PDF)
+lietuvių kalba (LT) (2.7 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/lt/documents/product-information/otulfi-epar-product-information_lt.pdf)
 
-magyar (HU) (1.2 MB - PDF)
+magyar (HU) (2.5 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/hu/documents/product-information/otulfi-epar-product-information_hu.pdf)
 
-Malti (MT) (1.5 MB - PDF)
+Malti (MT) (3.45 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/mt/documents/product-information/otulfi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.4 MB - PDF)
+Nederlands (NL) (2.41 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/nl/documents/product-information/otulfi-epar-product-information_nl.pdf)
 
-norsk (NO) (1.13 MB - PDF)
+norsk (NO) (2.33 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/no/documents/product-information/otulfi-epar-product-information_no.pdf)
 
-polski (PL) (1.33 MB - PDF)
+polski (PL) (2.66 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/pl/documents/product-information/otulfi-epar-product-information_pl.pdf)
 
-português (PT) (1.19 MB - PDF)
+português (PT) (2.39 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/pt/documents/product-information/otulfi-epar-product-information_pt.pdf)
 
-română (RO) (1.38 MB - PDF)
+română (RO) (2.86 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/ro/documents/product-information/otulfi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.96 MB - PDF)
+slovenčina (SK) (2.28 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/sk/documents/product-information/otulfi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.23 MB - PDF)
+slovenščina (SL) (2.4 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/sl/documents/product-information/otulfi-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.12 MB - PDF)
+Suomi (FI) (3.05 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/fi/documents/product-information/otulfi-epar-product-information_fi.pdf)
 
-svenska (SV) (1.4 MB - PDF)
+svenska (SV) (2.53 MB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/sv/documents/product-information/otulfi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000285631 09/09/2025
+**Latest procedure affecting product information:** VR/0000296289
+
+12/02/2026
 
 icon globe
 
@@ -713,312 +434,180 @@ Product information documents contain:
 
 Otulfi : EPAR - All authorised presentations
 
-English (EN) (77.11 KB - PDF)
+English (EN) (64.23 KB - PDF)
 
-**First published:** 02/10/2024
-
-**Last updated:** 26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/en/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-283)
+[Other languages (24)](#file-language-dropdown-278)
 
-български (BG) (64.71 KB - PDF)
+български (BG) (87.86 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/bg/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (67.08 KB - PDF)
+español (ES) (83.5 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/es/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (56.5 KB - PDF)
+čeština (CS) (78.57 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/cs/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (78.92 KB - PDF)
+dansk (DA) (71.83 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/da/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (79.86 KB - PDF)
+Deutsch (DE) (73.41 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/de/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (46.64 KB - PDF)
+eesti keel (ET) (68.05 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/et/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (92.91 KB - PDF)
+ελληνικά (EL) (67.14 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/el/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (48.07 KB - PDF)
+français (FR) (76.56 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/fr/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (64.67 KB - PDF)
+hrvatski (HR) (87.24 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/hr/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (49.2 KB - PDF)
+íslenska (IS) (77.62 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/is/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (47.82 KB - PDF)
+italiano (IT) (69.54 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/it/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (65.06 KB - PDF)
+latviešu valoda (LV) (74.16 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/lv/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (66.67 KB - PDF)
+lietuvių kalba (LT) (94.37 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/lt/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (67.76 KB - PDF)
+magyar (HU) (70.79 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/hu/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (68.41 KB - PDF)
+Malti (MT) (81.9 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/mt/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (48.31 KB - PDF)
+Nederlands (NL) (70.01 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/nl/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (49.56 KB - PDF)
+norsk (NO) (61.66 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/no/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (69.76 KB - PDF)
+polski (PL) (76.44 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/pl/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (44.28 KB - PDF)
+português (PT) (76.5 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/pt/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (64.03 KB - PDF)
+română (RO) (63.36 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/ro/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (67.08 KB - PDF)
+slovenčina (SK) (76.13 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/sk/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (50.59 KB - PDF)
+slovenščina (SL) (65.99 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/sl/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (46.05 KB - PDF)
+Suomi (FI) (81.7 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/fi/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (48.56 KB - PDF)
+svenska (SV) (73.76 KB - PDF)
 
-**First published:**
-
-02/10/2024
-
-**Last updated:**
-
-26/05/2025
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/sv/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Otulfi Active substance ustekinumab International non-proprietary name (INN) or common name ustekinumab Therapeutic area (MeSH)
+Name of medicine
+
+Otulfi
+
+Active substance
+
+ustekinumab
+
+International non-proprietary name (INN) or common name
+
+ustekinumab
+
+Therapeutic area (MeSH)
 
 - Crohn Disease
 - Colitis, Ulcerative
 
-Anatomical therapeutic chemical (ATC) code L04AC05
+Anatomical therapeutic chemical (ATC) code
+
+L04AC05
 
 ### Pharmacotherapeutic group
 
@@ -1040,7 +629,9 @@ Crohn's Disease Otulfi is indicated for the treatment of adult patients with mod
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006544
+EMA product number
+
+EMEA/H/C/006544
 
 Additional monitoring
 
@@ -1056,7 +647,17 @@ Fresenius Kabi Deutschland GmbH
 
 Else-Kroner-Strasse 1
 
-Opinion adopted 25/07/2024 Marketing authorisation issued 25/09/2024 Revision 4
+Opinion adopted
+
+25/07/2024
+
+Marketing authorisation issued
+
+25/09/2024
+
+Revision
+
+5
 
 ## Assessment history
 
@@ -1068,9 +669,9 @@ Collapse section
 
 Otulfi : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (149.3 KB - PDF)
+English (EN) (146.25 KB - PDF)
 
-**First published:** 11/09/2025
+**First published:** 11/09/2025 **Last updated:** 25/03/2026
 
 [View](/en/documents/procedural-steps-after/otulfi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1078,9 +679,7 @@ Otulfi : EPAR - Procedural steps taken and scientific information after the auth
 
 English (EN) (131.39 KB - PDF)
 
-**First published:** 06/01/2025
-
-**Last updated:** 06/05/2025
+**First published:** 06/01/2025 **Last updated:** 06/05/2025
 
 [View](/en/documents/procedural-steps-after/otulfi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1088,9 +687,7 @@ English (EN) (131.39 KB - PDF)
 
 Otulfi : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/378457/2024
+Adopted Reference Number: EMA/378457/2024
 
 English (EN) (7.88 MB - PDF)
 
@@ -1100,9 +697,7 @@ English (EN) (7.88 MB - PDF)
 
 CHMP summary of positive opinion for Otulfi
 
-Adopted
-
-Reference Number: EMA/CHMP/294331/2024
+Adopted Reference Number: EMA/CHMP/294331/2024
 
 English (EN) (141.97 KB - PDF)
 
@@ -1110,12 +705,172 @@ English (EN) (141.97 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-otulfi_en.pdf)
 
-#### News on Otulfi
+## News on Otulfi
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2024) 26/07/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2024)
 
-**This page was last updated on** 17/10/2025
+26/07/2024
+
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Otulfi : EPAR - Product information - tracked changes
+
+English (EN) (2.23 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/en/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-3)
+
+български (BG) (4.82 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/bg/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (3.54 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/es/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (4.45 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/cs/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (5.46 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/da/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (3.51 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/de/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (5.26 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/et/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (3.78 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/el/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (1.56 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/fr/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (3.11 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/hr/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (4 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/is/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (5.22 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/it/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (4.23 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/lv/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (4.75 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/lt/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (4.43 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/hu/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (4.51 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/mt/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (3.59 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/nl/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (4.25 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/no/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (2.21 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/pl/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (4.7 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/pt/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (4.78 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/ro/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (4.08 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/sk/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (2.63 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/sl/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (4.95 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/fi/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (3.88 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/sv/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_sv.docx)
+
+**This page was last updated on**
+
+25/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

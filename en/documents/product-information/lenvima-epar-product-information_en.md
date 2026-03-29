@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-04-22 12:30:27
+document_datetime: 2026-03-26 17:19:13
 document_pages: 64
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lenvima-epar-product-information_en.pdf
 document_name: lenvima-epar-product-information_en.pdf
 version: success
-processing_time: 18.516769
-conversion_datetime: 2025-12-22 17:32:25.541835
+processing_time: 19.8677191
+conversion_datetime: 2026-03-29 12:29:36.936519
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -144,8 +144,11 @@ For lenvatinib-related toxicities see Table 4. When administering LENVIMA in com
 
 ## Table 3 Dose modifications from recommended lenvatinib daily dose in EC patients a
 
-| Starting Dose in combination with pembrolizumab   | 20 mg orally once daily (two 10-mg capsules)   |
-|---------------------------------------------------|------------------------------------------------|
+Starting Dose in combination with pembrolizumab
+
+20 mg orally once daily
+
+(two 10-mg capsules)
 
 ## Persistent and Intolerable Grade 2 or Grade 3 Toxicities
 
@@ -176,7 +179,7 @@ b: Treatment should be discontinued in case of life-threatening reactions (e.g.,
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                                                              | Severity                             | Action      | Dose reduce and resume lenvatinib                           |
+| Table 4 Adverse reactions requiring Adverse reaction                                                         | Severity                             | Action      | Dose reduce and resume lenvatinib                           |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------------------------------------------------------------|
 | Posterior reversible encephalopathy syndrome (PRES)/reversible posterior leukoencephalopathy syndrome (RPLS) | Any grade                            | Interrupt   | Consider resuming at reduced dose if resolves to Grade 0-1. |
 | Hepatotoxicity                                                                                               | Grade 3                              | Interrupt   | Resolves to Grade 0-1 or baseline.                          |
@@ -578,8 +581,6 @@ Within each frequency category, undesirable effects are presented in order of de
 | Uncommon                                                                   | Impaired healing                                                           | Impaired healing                                                           |
 | Not known                                                                  | Non-gastrointestinal fistula o                                             |                                                                            |
 
-§: Adverse reaction frequencies presented in Table 6 may not be fully attributable to lenvatinib alone, but may contain contributions from the underlying disease or from other medicinal products used in a combination.
-
 - *: See section 4.8 Description of selected adverse reactions for further characterisation.
 - †: Includes cases with a fatal outcome.
 - ‡: Frequency based on laboratory data.
@@ -590,14 +591,11 @@ The following terms have been combined:
 - b: Hypomagnesaemia includes hypomagnesaemia and decreased blood magnesium. Hypercholesterolaemia includes hypercholesterolaemia and increased blood cholesterol.
 - c: Myocardial infarction includes myocardial infarction and acute myocardial infarction.
 - d: Includes all haemorrhage terms.
-- Haemorrhage terms that occurred in 5 or more subjects with DTC were: epistaxis, haemoptysis, haematuria, contusion, haematochezia, gingival bleeding, petechial, pulmonary haemorrhage, rectal haemorrhage, blood
 
-urine present, haematoma and vaginal haemorrhage.
+Haemorrhage terms that occurred in 5 or more subjects with DTC were: epistaxis, haemoptysis, haematuria, contusion, haematochezia, gingival bleeding, petechial, pulmonary haemorrhage, rectal haemorrhage, blood urine present, haematoma and vaginal haemorrhage.
 
 - Haemorrhage terms that occurred in 5 or more subjects with HCC were: epistaxis, haematuria, gingival bleeding, haemoptysis, oesophageal varices haemorrhage, haemorrhoidal haemorrhage, mouth haemorrhage, rectal haemorrhage and upper gastrointestinal haemorrhage.
-
-Haemorrhage term that occurred in 5 or more subjects with EC was: vaginal haemorrhage.
-
+- Haemorrhage term that occurred in 5 or more subjects with EC was: vaginal haemorrhage.
 - e: Hypertension includes: hypertension, hypertensive crisis, increased diastolic blood pressure, orthostatic hypertension, and increased blood pressure.
 - f: Gastrointestinal and abdominal pains includes: abdominal discomfort, abdominal pain, abdominal pain lower, abdominal pain upper, abdominal tenderness, epigastric discomfort, and gastrointestinal pain.
 - g: Oral inflammation includes: aphthous stomatitis, aphthous ulcer, gingival erosion, gingival ulceration, oral mucosal blistering, stomatitis, glossitis, mouth ulceration, and mucosal inflammation.
@@ -832,7 +830,7 @@ In the Phase 3 Study 309 (see section 5.1), diarrhoea was reported in 54.2% of l
 
 In the paediatric Studies 207, 216, 230, and 231 (see section 5.1), the overall safety profile of lenvatinib as a single agent or in combination with either ifosfamide and etoposide or everolimus was consistent with that observed in adults treated with lenvatinib.
 
-In patients with relapsed/refractory osteosarcoma, pneumothorax was reported at a frequency higher than that observed in adults with DTC, HCC, RCC and EC. In Study 207, pneumothorax occurred in 6 patients (10.9%) treated with single -agent lenvatinib and 7 patients (16.7%) treated with lenvatinib in combination with ifosfamide and etoposide. Overall, 2 patients discontinued study treatment due to pneumothorax. In Study 230, pneumothorax was reported in a total of 14 patients (11 patients [28.2%] treated with lenvatinib plus ifosfamide and etoposide, and 3 patients [7.7%] treated with ifosfamide and etoposide). In Study 216, pneumothorax was reported in 3 patients (4.7%) with Ewing sarcoma, rhabdomyosarcoma (RMS) and Wilms tumour; all 3 patients had lung metastases at baseline. In Study 231, pneumothorax was reported in 7 patients (5.5%) with spindle cell sarcoma, undifferentiated sarcoma, RMS, malignant peripheral nerve sheath tumour, synovial sarcoma, spindle cell carcinoma, and malignant fibromyxoid ossifying tumour; all 7 patients had lung metastases or primary disease in the chest wall or pleural cavity at baseline. For Studies 216, 230, and 231, no patient discontinued study treatment due to pneumothorax. Pneumothorax occurrence appeared to be mainly associated with pulmonary metastases and underlying disease.
+In patients with relapsed/refractory osteosarcoma, pneumothorax was reported at a frequency higher than that observed in adults with DTC, HCC, RCC and EC. In Study 207, pneumothorax occurred in 6 patients (10.9%) treated with single -agent lenvatinib and 7 patients (16.7%) treated with lenvatinib in combination with ifosfamide and etoposide. Overall, 2 patients discontinued study treatment due to pneumothorax. In Study 230, pneumothorax was reported in a total of 14 patients (11 patients [28.2%] treated with lenvatinib plus ifosfamide and etoposide, and 3 patients [7.7%] treated with ifosfamide and etoposide). In Study 216, pneumothorax was reported in 3 patients (4.7%) with Ewing sarcoma, rhabdomyosarcoma (RMS) and Wilms tumour; all 3 patients had lung metastases at baseline. In Study 231, pneumothorax was reported in 8 patients (6.3%) with spindle cell sarcoma, undifferentiated sarcoma, RMS, malignant peripheral nerve sheath tumour, synovial sarcoma, spindle cell carcinoma, and malignant fibromyxoid ossifying tumour; all 8 patients had lung metastases or primary disease in the chest wall or pleural cavity at baseline. For Studies 216 and 230, no patient discontinued study treatment due to pneumothorax; in Study 231, one patient discontinued study treatment due to pneumothorax. Pneumothorax occurrence appeared to be mainly associated with pulmonary metastases and underlying disease.
 
 In the single-agent dose-finding cohort of Study 207, the most frequently (≥40%) reported adverse drug reactions were decreased appetite, diarrhoea, hypothyroidism, vomiting, abdominal pain, pyrexia, hypertension, and weight decreased; and in the single-agent expansion cohort of patients with relapsed or refractory osteosarcoma, the most frequently (≥40%) reported adverse drug reactions were decreased appetite, headache, vomiting, hypothyroidism, and proteinuria.
 
@@ -842,9 +840,9 @@ In Phase 1 (combination dose-finding cohort) of Study 216, the most frequently (
 
 In the OLIE study (Study 230), the most frequently (≥35%) reported adverse drug reactions were hypothyroidism, anaemia, nausea, platelet count decreased, proteinuria, vomiting, back pain, febrile neutropenia, hypertension, constipation, diarrhoea, neutrophil count decreased, and pyrexia.
 
-In Study 231, the most frequently reported (≥15%) adverse drug reactions were hypothyroidism, hypertension, proteinuria, decreased appetite, diarrhoea, and platelet count decreased.
-
 <div style=\"page-break-after: always\"></div>
+
+In Study 231, the most frequently reported (≥15%) adverse drug reactions were hypothyroidism, hypertension, proteinuria, decreased appetite, diarrhoea, and platelet count decreased.
 
 ## Other special populations
 
@@ -1365,7 +1363,9 @@ EU/1/15/1002/004
 
 ## Lenvima 10 mg hard capsules
 
-EU/1/15/1002/002 EU/1/15/1002/005
+EU/1/15/1002/002
+
+EU/1/15/1002/005
 
 EU/1/15/1002/006
 

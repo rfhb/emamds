@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-18 13:28:29
-document_pages: 133
+document_datetime: 2026-03-25 15:47:11
+document_pages: 140
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lyrica-epar-product-information_en.pdf
 document_name: lyrica-epar-product-information_en.pdf
 version: success
-processing_time: 44.1019875
-conversion_datetime: 2025-12-21 16:31:44.355839
+processing_time: 41.0784569
+conversion_datetime: 2026-03-29 12:47:53.162103
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -100,7 +100,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-## Hard capsules
+Hard capsules
 
 ## Lyrica 25 mg hard capsules
 
@@ -204,7 +204,7 @@ BID = Two divided doses
 
 * Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose
 
-+ Supplementary dose is a single additional dose
++  Supplementary dose is a single additional dose
 
 ## Hepatic impairment
 
@@ -434,7 +434,7 @@ Table 2. Pregabalin Adverse Drug Reactions
 | Uncommon                                                                      | hypertension, hot flushes, flushing,                                                                                                                                                                                                                                   |
 |                                                                               | Hypotension, peripheral coldness                                                                                                                                                                                                                                       |
 | Respiratory, thoracic and mediastinal disorders                               | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                        |
-| Uncommon                                                                      | Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring, nasal dryness                                                                                                                                                                                         |
+| Uncommon Rare                                                                 | Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring, nasal dryness Pulmonary oedema , throat tightness                                                                                                                                                     |
 | Not known                                                                     | Respiratory depression                                                                                                                                                                                                                                                 |
 
 <div style=\"page-break-after: always\"></div>
@@ -505,7 +505,7 @@ The active substance, pregabalin, is a gamma-aminobutyric acid analogue [(S)-3-(
 
 ## Mechanism of action
 
-Pregabalin binds to an auxiliary subunit ( α 2δ protein) of voltage-gated calcium channels in the central nervous system.
+Pregabalin binds to an auxiliary subunit (  2 - protein) of voltage-gated calcium channels in the central nervous system.
 
 ## Clinical efficacy and safety
 
@@ -523,7 +523,9 @@ In the controlled clinical trial in central neuropathic pain 22% of the pregabal
 
 <div style=\"page-break-after: always\"></div>
 
-## Epilepsy Adjunctive Treatment
+## Epilepsy
+
+## Adjunctive Treatment
 
 Pregabalin has been studied in 3 controlled clinical trials of 12 week duration with either BID or TID dosing. Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
 
@@ -561,7 +563,7 @@ Pregabalin steady-state pharmacokinetics are similar in healthy volunteers, pati
 
 ## Absorption
 
-Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration. Pregabalin oral bioavailability is estimated to be ≥ 90% and is independent of dose. Following repeated administration, steady state is achieved within 24 to 48 hours. The rate of pregabalin absorption is decreased when given with food resulting in a decrease in Cmax by approximately 25-30% and a delay in tmax to approximately 2.5 hours. However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
+Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration. Pregabalin oral bioavailability is estimated to be  90% and is independent of dose. Following repeated administration, steady state is achieved within 24 to 48 hours. The rate of pregabalin absorption is decreased when given with food resulting in a decrease in Cmax by approximately 25-30% and a delay in tmax to approximately 2.5 hours. However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
 
 ## Distribution
 
@@ -651,7 +653,9 @@ Printing ink: Shellac Black iron oxide (E172) Propylene glycol Potassium hydroxi
 
 ## Lyrica 75 mg, 100 mg, 200 mg, 225 mg, 300 mg hard capsules
 
-Capsules content: Lactose monohydrate Maize starch Talc
+Capsules content: Lactose monohydrate Maize starch
+
+Talc
 
 Capsules shell: Gelatin Titanium dioxide (E171) Sodium laurilsulphate Silica, colloidal anhydrous Purified water Red iron oxide (E172)
 
@@ -673,15 +677,17 @@ This medicinal product does not require any special storage conditions.
 
 ## Lyrica 25 mg hard capsules
 
-PVC/Aluminium blisters containing 14, 21, 56, 84, 100, or 112 hard capsules.
-
-100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules. Not all pack sizes may be marketed.
+PVC/Aluminium blisters containing 14, 21, 56, 84, 100, or 112 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules. Not all pack sizes may be marketed.
 
 ## Lyrica 50 mg hard capsules
 
-PVC/Aluminium blisters containing 14, 21, 56, 84, or 100 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. Not all pack sizes may be marketed.
+PVC/Aluminium blisters containing 14, 21, 56, 84, or 100 hard capsules.
 
-Lyrica 75 mg hard capsules PVC/Aluminium blisters containing 14, 56, 70 100, or 112 hard capsules.
+100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. Not all pack sizes may be marketed.
+
+## Lyrica 75 mg hard capsules
+
+PVC/Aluminium blisters containing 14, 56, 70 100, or 112 hard capsules.
 
 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules. Not all pack sizes may be marketed.
 
@@ -691,17 +697,13 @@ Lyrica 100 mg hard capsules PVC/Aluminium blisters containing 21, 84, or 100 har
 
 Lyrica 150 mg hard capsules PVC/Aluminium blisters containing 14, 56, 100, or 112 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules. Not all pack sizes may be marketed.
 
-## Lyrica 200 mg hard capsules
-
-PVC/Aluminium blisters containing 21, 84, or 100 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. Not all pack sizes may be marketed.
+Lyrica 200 mg hard capsules PVC/Aluminium blisters containing 21, 84, or 100 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. Not all pack sizes may be marketed.
 
 ## Lyrica 225 mg hard capsules
 
 PVC/Aluminium blisters containing 14, 56, or 100 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. Not all pack sizes may be marketed.
 
-## Lyrica 300 mg hard capsules
-
-PVC/Aluminium blisters containing 14, 56, 100, or 112 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules. Not all pack sizes may be marketed.
+Lyrica 300 mg hard capsules PVC/Aluminium blisters containing 14, 56, 100, or 112 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules. Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -725,7 +727,9 @@ EU/1/04/279/036
 
 EU/1/04/279/046
 
-Lyrica 50 mg hard capsules EU/1/04/279/006-010 EU/1/04/279/037
+Lyrica 50 mg hard capsules EU/1/04/279/006-010
+
+EU/1/04/279/037
 
 ## Lyrica 75 mg hard capsules
 
@@ -739,11 +743,15 @@ EU/1/04/279/038
 
 EU/1/04/279/045
 
-Lyrica 100 mg hard capsules EU/1/04/279/014-016 EU/1/04/279/39
+## Lyrica 100 mg hard capsules
+
+EU/1/04/279/014-016
+
+EU/1/04/279/39
 
 <div style=\"page-break-after: always\"></div>
 
-## Lyrica 150 mg hard capsules
+Lyrica 150 mg hard capsules
 
 EU/1/04/279/017-019 EU/1/04/279/028 EU/1/04/279/031 EU/1/04/279/040
 
@@ -855,7 +863,7 @@ BID = Two divided doses
 
 * Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose
 
-+ Supplementary dose is a single additional dose
++  Supplementary dose is a single additional dose
 
 ## Hepatic impairment
 
@@ -875,7 +883,7 @@ Elderly patients may require a dose reduction of pregabalin due to a decreased r
 
 Lyrica may be taken with or without food.
 
-## Lyrica is for oral use only.
+Lyrica is for oral use only.
 
 A graduated oral syringe and a Press-In Bottle Adapter (PIBA) are provided with the product. See section 6.6 for information on administration.
 
@@ -985,7 +993,7 @@ Accordingly, in in vivo studies no clinically relevant pharmacokinetic interacti
 
 Co-administration of pregabalin with the oral contraceptives norethisterone and/or ethinyl oestradiol does not influence the steady-state pharmacokinetics of either substance.
 
-Central nervous system influencing medical products
+## Central nervous system influencing medical products
 
 Pregabalin may potentiate the effects of ethanol and lorazepam.
 
@@ -1091,7 +1099,8 @@ Table 2. Pregabalin Adverse Drug Reactions
 | Uncommon                                        | Hypotension, hypertension, hot flushes, flushing, peripheral coldness                                                                                                                                                                                                  |
 | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                        |
 | Uncommon                                        | Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring, nasal dryness                                                                                                                                                                                         |
-| Not known                                       | Respiratory depression                                                                                                                                                                                                                                                 |
+| Rare                                            | Pulmonary oedema , throat tightness Respiratory depression                                                                                                                                                                                                             |
+| Not known                                       |                                                                                                                                                                                                                                                                        |
 | Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                                                                                                                                                                             |
 | Common                                          | Vomiting, nausea , constipation, diarrhoea , flatulence, abdominal distension, dry mouth                                                                                                                                                                               |
 | Uncommon                                        | Gastrooesophageal reflux disease, salivary hypersecretion, hypoaesthesia oral                                                                                                                                                                                          |
@@ -1159,7 +1168,7 @@ The active substance, pregabalin, is a gamma-aminobutyric acid analogue [(S)-3-(
 
 ## Mechanism of action
 
-Pregabalin binds to an auxiliary subunit ( α 2δ protein) of voltage-gated calcium channels in the central nervous system.
+Pregabalin binds to an auxiliary subunit (  2 - protein) of voltage-gated calcium channels in the central nervous system.
 
 ## Clinical efficacy and safety
 
@@ -1217,7 +1226,7 @@ Pregabalin steady-state pharmacokinetics are similar in healthy volunteers, pati
 
 ## Absorption
 
-Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration. Pregabalin oral bioavailability is estimated to be ≥ 90% and is independent of dose. Following repeated administration, steady state is achieved within 24 to 48 hours. The rate of pregabalin absorption is decreased when given with food resulting in a decrease in Cmax by approximately 25-30% and a delay in tmax to approximately 2.5 hours. However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
+Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration. Pregabalin oral bioavailability is estimated to be  90% and is independent of dose. Following repeated administration, steady state is achieved within 24 to 48 hours. The rate of pregabalin absorption is decreased when given with food resulting in a decrease in Cmax by approximately 25-30% and a delay in tmax to approximately 2.5 hours. However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1474,7 +1483,7 @@ BID = Two divided doses
 
 * Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose
 
-+ Supplementary dose is a single additional dose
++  Supplementary dose is a single additional dose
 
 ## Hepatic impairment
 
@@ -1490,9 +1499,11 @@ The safety and efficacy of Lyrica in children below the age of 12 years and in a
 
 Elderly patients may require a dose reduction of pregabalin due to a decreased renal function (see section 5.2).
 
-Method of administration
+## Method of administration
 
-Lyrica may be taken with or without food. Lyrica is for oral use only.
+Lyrica may be taken with or without food.
+
+Lyrica is for oral use only.
 
 The orodispersible tablet can be disintegrated on the tongue before swallowing. The tablet can be taken with or without water.
 
@@ -1686,46 +1697,48 @@ Table 2. Pregabalin Adverse Drug Reactions
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                                   | Adverse drug reactions                                                                                                                                                                                                                                                 |
-|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nervous system disorders                                             | Nervous system disorders                                                                                                                                                                                                                                               |
-| Very Common                                                          | Dizziness, somnolence, headache                                                                                                                                                                                                                                        |
-| Common                                                               | Ataxia, coordination abnormal, tremor, dysarthria, amnesia, memory impairment, disturbance in attention, paraesthesia, hypoaesthesia, sedation, balance disorder, lethargy                                                                                             |
-| Uncommon                                                             | Syncope, stupor, myoclonus, loss of consciousness , psychomotor hyperactivity, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, mental impairment , speech disorder, hyporeflexia, hyperaesthesia, burning sensation, ageusia, malaise |
-| Rare                                                                 | Convulsions , parosmia, hypokinesia, dysgraphia, parkinsonism                                                                                                                                                                                                          |
-| Eye disorders                                                        | Eye disorders                                                                                                                                                                                                                                                          |
-| Common                                                               | Vision blurred, diplopia                                                                                                                                                                                                                                               |
-| Uncommon                                                             | Peripheral vision loss, visual disturbance, eye swelling, visual field defect, visual acuity reduced, eye pain, asthenopia, photopsia, dry eye, lacrimation increased, eye irritation                                                                                  |
-| Rare                                                                 | Vision loss , keratitis , oscillopsia, altered visual depth perception, mydriasis, strabismus, visual brightness                                                                                                                                                       |
-| Ear and labyrinth disorders                                          | Ear and labyrinth disorders                                                                                                                                                                                                                                            |
-| Common                                                               | Vertigo                                                                                                                                                                                                                                                                |
-| Uncommon                                                             | Hyperacusis                                                                                                                                                                                                                                                            |
-| Cardiac disorders                                                    | Cardiac disorders                                                                                                                                                                                                                                                      |
-| Uncommon                                                             | Tachycardia, atrioventricular block first degree, sinus bradycardia, congestive heart failure                                                                                                                                                                          |
-| Rare QT prolongation , sinus tachycardia, sinus arrhythmia disorders | Rare QT prolongation , sinus tachycardia, sinus arrhythmia disorders                                                                                                                                                                                                   |
-| Vascular Uncommon                                                    | Hypotension, hypertension, hot flushes, flushing, peripheral coldness                                                                                                                                                                                                  |
-| Respiratory, thoracic and mediastinal disorders                      | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                        |
-| Uncommon                                                             | Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring, nasal dryness                                                                                                                                                                                         |
-| Rare                                                                 | Pulmonary oedema , throat tightness                                                                                                                                                                                                                                    |
-| Not known                                                            | Respiratory depression                                                                                                                                                                                                                                                 |
-| Gastrointestinal disorders                                           | Gastrointestinal disorders                                                                                                                                                                                                                                             |
-| Common                                                               | Vomiting, nausea , constipation, diarrhoea , flatulence, abdominal distension, dry mouth                                                                                                                                                                               |
-| Uncommon                                                             | Gastrooesophageal reflux disease, salivary hypersecretion, hypoaesthesia oral                                                                                                                                                                                          |
-| Rare                                                                 | Ascites, pancreatitis, swollen tongue , dysphagia                                                                                                                                                                                                                      |
-| Hepatobiliary disorders                                              | Hepatobiliary disorders                                                                                                                                                                                                                                                |
-| Uncommon                                                             | Elevated liver enzymes*                                                                                                                                                                                                                                                |
-| Rare                                                                 | Jaundice                                                                                                                                                                                                                                                               |
-| Very rare                                                            | Hepatic failure, hepatitis                                                                                                                                                                                                                                             |
-| Skin and subcutaneous tissue disorders                               | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                 |
-| Uncommon                                                             | Rash papular, urticaria, hyperhidrosis, pruritus                                                                                                                                                                                                                       |
-| Rare                                                                 | Toxic epidermal necrolysis, Stevens-Johnson syndrome , cold sweat                                                                                                                                                                                                      |
-| Musculoskeletal and connective tissue disorders                      | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                        |
-| Common                                                               | Muscle cramp, arthralgia, back pain, pain in limb, cervical spasm                                                                                                                                                                                                      |
-| Uncommon                                                             | Joint swelling, myalgia, muscle twitching, neck pain, muscle stiffness                                                                                                                                                                                                 |
-| Rare Rhabdomyolysis Renal and urinary disorders                      | Rare Rhabdomyolysis Renal and urinary disorders                                                                                                                                                                                                                        |
-| Uncommon                                                             | Urinary incontinence, dysuria                                                                                                                                                                                                                                          |
-| Rare                                                                 | Renal failure, oliguria, urinary retention                                                                                                                                                                                                                             |
-| Reproductive system                                                  | breast disorders                                                                                                                                                                                                                                                       |
+| System Organ Class                                         | Adverse drug reactions                                                                                                                                                                                                                                                 |
+|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nervous system disorders                                   | Nervous system disorders                                                                                                                                                                                                                                               |
+| Very Common                                                | Dizziness, somnolence, headache                                                                                                                                                                                                                                        |
+| Common                                                     | Ataxia, coordination abnormal, tremor, dysarthria, amnesia, memory impairment, disturbance in attention, paraesthesia, hypoaesthesia, sedation, balance disorder, lethargy                                                                                             |
+| Uncommon                                                   | Syncope, stupor, myoclonus, loss of consciousness , psychomotor hyperactivity, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, mental impairment , speech disorder, hyporeflexia, hyperaesthesia, burning sensation, ageusia, malaise |
+| Rare                                                       | Convulsions , parosmia, hypokinesia, dysgraphia, parkinsonism                                                                                                                                                                                                          |
+| Eye disorders                                              | Eye disorders                                                                                                                                                                                                                                                          |
+| Common                                                     | Vision blurred, diplopia                                                                                                                                                                                                                                               |
+| Uncommon                                                   | Peripheral vision loss, visual disturbance, eye swelling, visual field defect, visual acuity reduced, eye pain, asthenopia, photopsia, dry eye, lacrimation increased, eye irritation                                                                                  |
+| Rare                                                       | Vision loss , keratitis , oscillopsia, altered visual depth perception, mydriasis, strabismus, visual brightness                                                                                                                                                       |
+| Ear and labyrinth disorders                                | Ear and labyrinth disorders                                                                                                                                                                                                                                            |
+| Common                                                     | Vertigo                                                                                                                                                                                                                                                                |
+| Uncommon                                                   | Hyperacusis                                                                                                                                                                                                                                                            |
+| Cardiac disorders                                          | Cardiac disorders                                                                                                                                                                                                                                                      |
+| Uncommon                                                   | Tachycardia, atrioventricular block first degree, sinus bradycardia, congestive heart failure                                                                                                                                                                          |
+| Rare QT prolongation , sinus tachycardia, sinus arrhythmia | Rare QT prolongation , sinus tachycardia, sinus arrhythmia                                                                                                                                                                                                             |
+| Vascular disorders Uncommon                                | Hypotension, hypertension, hot flushes, flushing, peripheral coldness                                                                                                                                                                                                  |
+| Respiratory, thoracic and mediastinal disorders            | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                        |
+| Uncommon                                                   | Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring, nasal dryness                                                                                                                                                                                         |
+| Rare                                                       | Pulmonary oedema , throat tightness                                                                                                                                                                                                                                    |
+| Not known                                                  | Respiratory depression                                                                                                                                                                                                                                                 |
+| Gastrointestinal disorders                                 | Gastrointestinal disorders                                                                                                                                                                                                                                             |
+| Common                                                     | Vomiting, nausea , constipation, diarrhoea , flatulence, abdominal distension, dry mouth                                                                                                                                                                               |
+| Uncommon                                                   | Gastrooesophageal reflux disease, salivary hypersecretion, hypoaesthesia oral                                                                                                                                                                                          |
+| Rare                                                       | Ascites, pancreatitis, swollen tongue , dysphagia                                                                                                                                                                                                                      |
+| Hepatobiliary disorders                                    | Hepatobiliary disorders                                                                                                                                                                                                                                                |
+| Uncommon                                                   | Elevated liver enzymes*                                                                                                                                                                                                                                                |
+| Rare                                                       | Jaundice                                                                                                                                                                                                                                                               |
+| Very rare                                                  | Hepatic failure, hepatitis                                                                                                                                                                                                                                             |
+| Skin and subcutaneous tissue disorders                     | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                 |
+| Uncommon                                                   | Rash papular, urticaria, hyperhidrosis, pruritus                                                                                                                                                                                                                       |
+| Rare                                                       | Toxic epidermal necrolysis, Stevens-Johnson syndrome , cold sweat                                                                                                                                                                                                      |
+| Musculoskeletal and connective tissue disorders            | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                        |
+| Common                                                     | Muscle cramp, arthralgia, back pain, pain in limb, cervical spasm                                                                                                                                                                                                      |
+| Uncommon                                                   | Joint swelling, myalgia, muscle twitching, neck pain, muscle stiffness                                                                                                                                                                                                 |
+| Rare Rhabdomyolysis Renal and urinary disorders            | Rare Rhabdomyolysis Renal and urinary disorders                                                                                                                                                                                                                        |
+| Uncommon                                                   | Urinary incontinence, dysuria                                                                                                                                                                                                                                          |
+|                                                            | Renal failure, oliguria, urinary retention                                                                                                                                                                                                                             |
+| Rare                                                       | breast disorders                                                                                                                                                                                                                                                       |
+| Reproductive system                                        | Erectile dysfunction                                                                                                                                                                                                                                                   |
+| Common                                                     |                                                                                                                                                                                                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1740,8 +1753,6 @@ Table 2. Pregabalin Adverse Drug Reactions
 | Common                                               | Weight increased                                                                                                                                                   |
 | Uncommon                                             | Blood creatine phosphokinase increased, blood glucose increased, platelet count decreased, blood creatinine increased, blood potassium decreased, weight decreased |
 | Rare                                                 | White blood cell count decreased                                                                                                                                   |
-
-* Alanine aminotransferase increased (ALT) and aspartate aminotransferase increased (AST).
 
 After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed. The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, suicidal ideation, pain , hyperhidrosis and dizziness. These symptoms may indicate drug dependence. The patient should be informed about this at the start of the treatment. Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related (see sections 4.2 and 4.4).
 
@@ -1773,7 +1784,7 @@ The active substance, pregabalin, is a gamma-aminobutyric acid analogue [(S)-3-(
 
 ## Mechanism of action
 
-Pregabalin binds to an auxiliary subunit ( α 2δ protein) of voltage-gated calcium channels in the central nervous system.
+Pregabalin binds to an auxiliary subunit (  2 - protein) of voltage-gated calcium channels in the central nervous system.
 
 ## Clinical efficacy and safety
 
@@ -1831,7 +1842,7 @@ Pregabalin steady-state pharmacokinetics are similar in healthy volunteers, pati
 
 ## Absorption
 
-Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration. Pregabalin oral bioavailability is estimated to be ≥ 90% and is independent of dose. Following repeated administration, steady state is achieved within 24 to 48 hours. The rate of pregabalin absorption is decreased when given with food resulting in a decrease in Cmax by approximately 25-30% and a delay in tmax to approximately 2.5 hours. However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
+Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration. Pregabalin oral bioavailability is estimated to be  90% and is independent of dose. Following repeated administration, steady state is achieved within 24 to 48 hours. The rate of pregabalin absorption is decreased when given with food resulting in a decrease in Cmax by approximately 25-30% and a delay in tmax to approximately 2.5 hours. However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
 
 ## Distribution
 
@@ -1913,9 +1924,29 @@ clinical signs of hyperactivity and bruxism and some changes in growth (transien
 
 ## Lyrica 25 mg, 75 mg, 150 mg orodispersible tablets
 
+Magnesium stearate  (E470b)
+
+Hydrogenated castor oil
+
+Glycerol dibehenate
+
+Talc (E553b)
+
+Microcrystalline cellulose (E460)
+
+D-Mannitol (E421)
+
+Crospovidone (E1202)
+
+Magnesium aluminometa silicate
+
+Saccharin sodium (E954)
+
+Sucralose (E955)
+
 Citrus flavour (Flavorings, Gum Arabic (E414), DL-alpha-tocopherol (E307), Dextrin (E1400) and Isomaltulose)
 
-Magnesium stearate  (E470b) Hydrogenated castor oil Glycerol dibehenate Talc (E553b) Microcrystalline cellulose (E460) D-Mannitol (E421) Crospovidone (E1202) Magnesium aluminometa silicate Saccharin sodium (E954) Sucralose (E955) Sodium stearyl fumarate (E470a)
+Sodium stearyl fumarate (E470a)
 
 ## 6.2 Incompatibilities
 
@@ -1923,7 +1954,11 @@ Not applicable.
 
 ## 6.3 Shelf life
 
+## PVC/PVDC/Aluminium blister in aluminium pouch
+
 3 years in the original aluminium pouch. 3 months after opening the aluminium pouch.
+
+Aluminium/Aluminium blister 3 years.
 
 ## 6.4 Special precautions for storage
 
@@ -1935,51 +1970,63 @@ Store in the original packaging in order to protect from moisture.
 
 Packaged in a clear PVC/PVDC/Aluminium blister. Each blister contains 10 orodispersible tablets and can be divided into strips with two tablets each.
 
-Pack sizes:
+Packaged in an Aluminium/Aluminium blister. Each blister contains 10 orodispersible tablets and can be divided into strips with two tablets each.
 
-20 orodispersible tablets packed in 1 aluminum pouch with 2 blisters. 60 orodispersible tablets packed in 1 aluminum pouch with 6 blisters. 200 orodispersible tablets packed in 2 aluminum pouches with 10 blisters in each. Not all pack sizes may be marketed.
+## PVC/PVDC/Aluminium blister in aluminium pouch pack sizes:
+
+20 orodispersible tablets packed in 1 aluminium pouch with 2 blisters.
+
+60 orodispersible tablets packed in 1 aluminium pouch with 6 blisters.
+
+200 orodispersible tablets packed in 2 aluminium pouches with 10 blisters in each.
+
+<div style=\"page-break-after: always\"></div>
+
+Aluminium/Aluminium blister pack sizes: 20 orodispersible tablets packed in 2 blisters. 60 orodispersible tablets packed in 6 blisters. 200 orodispersible tablets packed in 20 blisters.
+
+Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
 No special requirements for disposal.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+
+Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 ## Lyrica 25 mg orodispersible tablets
 
-EU/1/04/279/047
-
-EU/1/04/279/048
-
-EU/1/04/279/049
+```
+EU/1/04/279/047 EU/1/04/279/048 EU/1/04/279/049 EU/1/04/279/056 EU/1/04/279/057 EU/1/04/279/058
+```
 
 ## Lyrica 75 mg orodispersible tablets
 
-EU/1/04/279/050
+```
+EU/1/04/279/050 EU/1/04/279/051 EU/1/04/279/052 EU/1/04/279/059 EU/1/04/279/060
+```
 
-EU/1/04/279/051
-
-EU/1/04/279/052
+EU/1/04/279/061
 
 ## Lyrica 150 mg orodispersible tablets
 
-EU/1/04/279/053
+```
+EU/1/04/279/053 EU/1/04/279/054 EU/1/04/279/055 EU/1/04/279/062 EU/1/04/279/063
+```
 
-EU/1/04/279/054
-
-EU/1/04/279/055
+EU/1/04/279/064
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 06 July 2004
 
 Date of latest renewal: 29 May 2009
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -2010,9 +2057,7 @@ Oral Solution Viatris International Supply Point BV Terhulpsesteenweg 6A 1560 Ho
 
 Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary
 
-## Orodispersible Tablets
-
-Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary
+Orodispersible Tablets Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -2071,7 +2116,7 @@ This product contains lactose monohydrate. See the package leaflet for further i
 
 14 hard capsules
 
-- 21 hard capsules
+21 hard capsules
 
 56 hard capsules
 
@@ -2108,15 +2153,21 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10.
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Upjohn EESV Rivium Westlaan 142
 
 2909 LD Capelle aan den IJssel
 
-Upjohn EESV Rivium Westlaan 142 Netherlands
+Netherlands
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -2133,25 +2184,27 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
 Lyrica 25 mg
 
-| 17.   | UNIQUE IDENTIFIER-2D BARCODE   |
-|-------|--------------------------------|
+| 17. UNIQUE IDENTIFIER-2D BARCODE   |
+|------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
-|---------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2189,15 +2242,13 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+
+Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2219,10 +2270,11 @@ Lyrica 25 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
-|---------------------------------------------|
+## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
 
 PC SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -2237,8 +2289,8 @@ Blister pack (14, 21, 56, 84, 100, and 112) and perforated unit dose blister pac
 
 Lyrica 25 mg hard capsules pregabalin
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Upjohn
 
@@ -2277,11 +2329,15 @@ This product contains lactose monohydrate. See the package leaflet for further i
 
 14 hard capsules
 
-- 21 hard capsules
-- 56 hard capsules
-- 84 hard capsules
-- 100 hard capsules
-- 100 x 1 hard capsules
+21 hard capsules
+
+56 hard capsules
+
+84 hard capsules
+
+100 hard capsules
+
+100 x 1 hard capsules
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -2325,7 +2381,7 @@ EU/1/04/279/037
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2345,17 +2401,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS                                                         |
-|-----------------------------------------------------------------------------------------------------------|
-| Blister pack (14, 21, 56, 84 and 100) and perforated unit dose blister pack (100) for 50 mg hard capsules |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+Blister pack (14, 21, 56, 84 and 100) and perforated unit dose blister pack (100) for 50 mg hard capsules
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 Lyrica 50 mg hard capsules pregabalin
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Upjohn
 
@@ -2410,13 +2466,13 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+
+Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2441,6 +2497,8 @@ Lyrica 75 mg
 ## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
 
 PC SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -2501,14 +2559,23 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10.
+
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
+Upjohn EESV
+
+Rivium Westlaan 142
+
 2909 LD Capelle aan den IJssel
 
-Upjohn EESV Rivium Westlaan 142 Netherlands
+Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2528,8 +2595,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -2554,8 +2621,7 @@ NN
 
 Blister pack (14, 56, 70, 100 or 112) and perforated unit dose blister pack (100) for 75 mg hard capsules
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Lyrica 75 mg hard capsules pregabalin
 
@@ -2563,13 +2629,11 @@ Lyrica 75 mg hard capsules pregabalin
 
 Upjohn
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -2629,15 +2693,13 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
-2909 LD Capelle aan den IJssel
-
-Upjohn EESV Rivium Westlaan 142 Netherlands
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -2654,8 +2716,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -2667,16 +2729,14 @@ Lyrica 100 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
-|---------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|-------|-----------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS                                                 |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS                                               |
 |---------------------------------------------------------------------------------------------------|
 | Blister pack (21, 84 or 100) and perforated unit dose blister pack (100) for 100 mg hard capsules |
 
@@ -2685,8 +2745,8 @@ NN
 
 Lyrica 100 mg hard capsules pregabalin
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Upjohn
 
@@ -2737,7 +2797,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -2745,14 +2805,13 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+
+Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2762,7 +2821,7 @@ EU/1/04/279/031
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2777,6 +2836,8 @@ Lyrica 150 mg
 ## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
 
 PC SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -2835,15 +2896,21 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10.
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Upjohn EESV Rivium Westlaan 142
 
 2909 LD Capelle aan den IJssel
 
-Upjohn EESV Rivium Westlaan 142 Netherlands
+Netherlands
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -2860,16 +2927,16 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
 Lyrica 150 mg
 
-| 17.   | UNIQUE IDENTIFIER-2D BARCODE   |
-|-------|--------------------------------|
+| 17. UNIQUE IDENTIFIER-2D BARCODE   |
+|------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -2891,8 +2958,8 @@ Blister pack (14, 56, 100 or 112) and perforated unit dose blister pack (100) fo
 
 Lyrica 150 mg hard capsules pregabalin
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Upjohn
 
@@ -2962,15 +3029,13 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
-
-Netherlands
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -2987,8 +3052,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -3007,7 +3072,7 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS                                                 |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS                                               |
 |---------------------------------------------------------------------------------------------------|
 | Blister pack (21, 84 or 100) and perforated unit dose blister pack (100) for 200 mg hard capsules |
 
@@ -3016,8 +3081,8 @@ PC SN NN
 
 Lyrica 200 mg hard capsules pregabalin
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Upjohn
 
@@ -3087,15 +3152,15 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
-2909 LD Capelle aan den IJssel
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
 
-Upjohn EESV Rivium Westlaan 142 Netherlands
+Netherlands
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -3112,8 +3177,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -3125,16 +3190,14 @@ Lyrica 225 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
-|---------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|-------|-----------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS                                                 |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS                                               |
 |---------------------------------------------------------------------------------------------------|
 | Blister pack (14, 56 or 100) and perforated unit dose blister pack (100) for 225 mg hard capsules |
 
@@ -3143,8 +3206,8 @@ NN
 
 Lyrica 225 mg hard capsules pregabalin
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Upjohn
 
@@ -3201,13 +3264,13 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+
+Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3232,6 +3295,8 @@ Lyrica 300 mg
 ## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
 
 PC SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -3290,72 +3355,76 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+Upjohn EESV Rivium Westlaan 142
 
 2909 LD Capelle aan den IJssel
 
-Upjohn EESV Rivium Westlaan 142 Netherlands
+Netherlands
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
-EU/1/04/279/023-025 EU/1/04/279/029 EU/1/04/279/043
+EU/1/04/279/023-025 EU/1/04/279/029
 
-## 13. BATCH NUMBER
+EU/1/04/279/043
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
 Lyrica 300 mg
 
-| 17.   | UNIQUE IDENTIFIER-2D BARCODE   |
-|-------|--------------------------------|
+| 17. UNIQUE IDENTIFIER-2D BARCODE   |
+|------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
-|---------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 Blister pack (14, 56, 100 or 112) and perforated unit dose blister pack (100) for 300 mg hard capsules
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Lyrica 300 mg hard capsules pregabalin
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Upjohn
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3401,7 +3470,11 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+Upjohn EESV Rivium Westlaan 142
+
+2909 LD Capelle aan den IJssel
+
+Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3427,11 +3500,9 @@ Lyrica 20 mg/mL
 
 PC SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -3475,6 +3546,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
@@ -3493,8 +3566,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -3509,7 +3582,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-Carton of blister pack (20, 60 and 200) for 25 mg orodispersible tablets
+Carton of PVC/PVDC/Aluminium blister pack (20, 60 and 200) for 25 mg orodispersible tablets
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3599,37 +3672,103 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON SECONDARY PACKAGING                               |
-|-----------------------------------------------------------------------------------|
-| Aluminium pouch of blister pack (20, 60 and 200) for 25 mg orodispersible tablets |
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+Carton of Aluminium/Aluminium blister pack (20, 60 and 200) for 25 mg orodispersible tablets
+
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Lyrica 25 mg orodispersible tablets pregabalin
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Upjohn
+Each orodispersible tablet contains 25 mg pregabalin.
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. LIST OF EXCIPIENTS
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+See the package leaflet for further information.
 
-| 5.   | OTHER   |
-|------|---------|
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+20 orodispersible tablets
+
+60 orodispersible tablets
+
+200 orodispersible tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Sealed Pack
+
+Do not use if box has been opened.
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in the original packaging in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-Blister pack (20, 60 and 200) for 25 mg orodispersible tablets
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+Upjohn EESV Rivium Westlaan 142
+
+2909 LD Capelle aan den IJssel
+
+Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/04/279/056
+
+EU/1/04/279/057
+
+EU/1/04/279/058
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Lyrica 25 mg
+
+## 17. UNIQUE IDENTIFIER-2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SECONDARY PACKAGING
+
+Aluminium pouch of blister pack (20, 60 and 200) for 25 mg orodispersible tablets
+
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Lyrica 25 mg orodispersible tablets pregabalin
 
@@ -3637,24 +3776,43 @@ Lyrica 25 mg orodispersible tablets pregabalin
 
 Upjohn
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
-
-EXP
+3. EXPIRY DATE
+5. OTHER
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+PVC/PVDC/Aluminium blister pack (20, 60 and 200) for 25 mg orodispersible tablets
+
+Aluminium/Aluminium blister pack (20, 60 and 200) for 25 mg orodispersible tablets
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 25 mg orodispersible tablets pregabalin
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Upjohn
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-Carton of blister pack (20, 60 and 200) for 75 mg orodispersible tablets
+Carton of PVC/PVDC/Aluminium blister pack (20, 60 and 200) for 75 mg orodispersible tablets
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3708,7 +3866,11 @@ Store in the original packaging in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+Upjohn EESV
+
+Rivium Westlaan 142
+
+2909 LD Capelle aan den IJssel
 
 Netherlands
 
@@ -3719,6 +3881,96 @@ EU/1/04/279/050
 EU/1/04/279/051
 
 EU/1/04/279/052
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+- 16 . INFORMATION IN BRAILLE
+
+Lyrica 75 mg
+
+## 17. UNIQUE IDENTIFIER-2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Carton of Aluminium/Aluminium blister pack (20, 60 and 200) for 75 mg orodispersible tablets
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 75 mg orodispersible tablets pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each orodispersible tablet contains 75 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+See the package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+20 orodispersible tablets
+
+60 orodispersible tablets
+
+200 orodispersible tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Sealed Pack
+
+Do not use if box has been opened.
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in the original packaging in order to protect from moisture.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+
+Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/04/279/059
+
+EU/1/04/279/060
+
+EU/1/04/279/061
 
 ## 13. BATCH NUMBER
 
@@ -3738,69 +3990,65 @@ Lyrica 75 mg
 
 ## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
-<div style=\"page-break-after: always\"></div>
+## MINIMUM PARTICULARS TO APPEAR ON SECONDARY PACKAGING
 
-| MINIMUM PARTICULARS TO APPEARON SECONDARY PACKAGING                               |
-|-----------------------------------------------------------------------------------|
-| Aluminium pouch of blister pack (20, 60 and 200) for 75 mg orodispersible tablets |
+Aluminium pouch of blister pack (20, 60 and 200) for 75 mg orodispersible tablets
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Lyrica 75 mg orodispersible tablets pregabalin
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Upjohn
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+4. BATCH NUMBER
 
-| 5.   | OTHER   |
-|------|---------|
+5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS              |
-|----------------------------------------------------------------|
-| Blister pack (20, 60 and 200) for 75 mg orodispersible tablets |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+PVC/PVDC/Aluminium blister pack (20, 60 and 200) for 75 mg orodispersible tablets
+
+Aluminium/Aluminium blister pack (20, 60 and 200) for 75 mg orodispersible tablets
+
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Lyrica 75 mg orodispersible tablets pregabalin
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Upjohn
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-Carton of blister pack (20, 60 and 200) for 150 mg orodispersible tablets
+Carton of PVC/PVDC/Aluminium blister pack (20, 60 and 200) for 150 mg orodispersible tablets
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3854,7 +4102,9 @@ Store in the original packaging in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+
+Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3890,37 +4140,99 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Carton of Aluminium/Aluminium blister pack (20, 60 and 200) for 150 mg orodispersible tablets
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 150 mg orodispersible tablets pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each orodispersible tablet contains 150 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+See the package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+20 orodispersible tablets
+
+60 orodispersible tablets 200 orodispersible tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Sealed Pack
+
+Do not use if box has been opened.
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in the original packaging in order to protect from moisture.
+
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+
+Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/04/279/062
+
+EU/1/04/279/063
+
+EU/1/04/279/064
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Lyrica 150 mg
+
+## 17. UNIQUE IDENTIFIER-2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
 ## MINIMUM PARTICULARS TO APPEAR ON SECONDARY PACKAGING
 
 Aluminium pouch of blister pack (20, 60 and 200) for 150 mg orodispersible tablets
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
-
-Lyrica 150 mg orodispersible tablets pregabalin
-
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
-
-Upjohn
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-| 5.   | OTHER   |
-|------|---------|
-
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-Blister pack (20, 60 and 200) for 150 mg orodispersible tablets
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Lyrica 150 mg orodispersible tablets pregabalin
 
@@ -3928,18 +4240,39 @@ Lyrica 150 mg orodispersible tablets pregabalin
 
 Upjohn
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
+
+4. BATCH NUMBER
+
+5. OTHER
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+PVC/PVDC/Aluminium blister pack (20, 60 and 200) for 150 mg orodispersible tablets
+
+Aluminium/Aluminium blister pack (20, 60 and 200) for 150 mg orodispersible tablets
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 150 mg orodispersible tablets pregabalin
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Upjohn
+
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4016,8 +4349,8 @@ Some people may become dependent on Lyrica (a need to keep taking the medicine).
 If you notice any of the following signs whilst taking Lyrica, it could be a sign that you have become dependent:
 
 - You need to take the medicine for longer than advised by your prescriber
-- You feel you need to take more than the recommended dose
 - You are using the medicine for reasons other than prescribed
+- You feel you need to take more than the recommended dose
 - You have made repeated, unsuccessful attempts to quit or control the use of the medicine
 - When you stop taking the medicine you feel unwell, and you feel better once taking the medicine again
 
@@ -4116,17 +4449,17 @@ Dizziness, drowsiness, headache.
 ## Common: may affect up to 1 in 10 people
 
 - Increased appetite.
-- Feeling of elation, confusion, disorientation, decrease in sexual interest, irritability.
 - Disturbance in attention, clumsiness, memory impairment, loss of memory, tremor, difficulty with speaking, tingling feeling, numbness, sedation, lethargy, insomnia, fatigue, feeling abnormal.
+- Feeling of elation, confusion, disorientation, decrease in sexual interest, irritability.
 - Blurred vision, double vision.
-- Vertigo, problems with balance, fall.
 - Dry mouth, constipation, vomiting, flatulence, diarrhoea, nausea, swollen abdomen.
+- Vertigo, problems with balance, fall.
 - Difficulties with erection.
-- Swelling of the body including extremities.
 - Feeling drunk, abnormal style of walking.
+- Swelling of the body including extremities.
 - Weight gain.
-- Muscle cramp, joint pain, back pain, pain in limb.
 - Sore throat.
+- Muscle cramp, joint pain, back pain, pain in limb.
 
 ## Uncommon: may affect up to 1 in 100 people
 
@@ -4139,37 +4472,37 @@ Dizziness, drowsiness, headache.
 
 - Heart rhythm disturbances, increased heart rate, low blood pressure, high blood pressure, changes in heart beat, heart failure.
 - Flushing, hot flushes.
-- Difficulty breathing, dry nose, nasal congestion.
 - Increased saliva production, heartburn, numb around mouth.
+- Difficulty breathing, dry nose, nasal congestion.
 - Sweating, rash, chills, fever.
-- Muscle twitching, joint swelling, muscle stiffness, pain including muscle pain, neck pain.
 - Breast pain.
+- Muscle twitching, joint swelling, muscle stiffness, pain including muscle pain, neck pain.
 - Difficulty with or painful urination, incontinence.
-- Weakness, thirst, chest tightness.
 - Changes in blood and liver test results (blood creatinine phosphokinase increased, alanine amino transferase increased, aspartate aminotransferase increased, platelet count decreased, neutropaenia, increase in blood creatinine, decrease in blood potassium).
+- Weakness, thirst, chest tightness.
 - Hypersensitivity, swollen face, itchiness, hives, runny nose, nose bleed, cough, snoring.
-- Painful menstrual periods.
 - Coldness of hands and feet.
+- Painful menstrual periods.
 
 ## Rare: may affect up to 1 in 1,000 people
 
 - Abnormal sense of smell, swinging vision, altered perception of depth, visual brightness, vision loss.
 - Dilated pupils, cross eyes.
-- Cold sweat, tightness of the throat, swollen tongue.
 - Inflammation of the pancreas.
+- Cold sweat, tightness of the throat, swollen tongue.
 - Difficulty in swallowing.
-- Slow or reduced movement of the body.
 - Difficulty with writing properly.
+- Slow or reduced movement of the body.
 - Increased fluid in the abdomen.
-- Fluid in the lungs.
 - Convulsions.
+- Fluid in the lungs.
 - Changes in the recording of electrical changes (ECG) in the heart which correspond to heart rhythm disturbances.
 - Muscle damage.
-- Breast discharge, abnormal breast growth, breast growth in males.
 - Interrupted menstrual periods.
+- Breast discharge, abnormal breast growth, breast growth in males.
 - Kidney failure, reduced urine volume, urinary retention.
-- Decrease in white blood cell count.
 - Inappropriate behaviour, suicidal behaviour, suicidal thoughts.
+- Decrease in white blood cell count.
 - Allergic reactions which may include difficulty breathing, inflammation of the eyes (keratitis) and serious skin reactions characterized by reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome, toxic epidermal necrolysis).
 - Jaundice (yellowing of the skin and eyes).
 - Parkinsonism, that is symptoms resembling Parkinson's disease; such as tremor, bradykinesia (decreased ability to move), and rigidity (muscle stiffness).
@@ -4272,7 +4605,9 @@ Tel. +370 52051288
 
 ## България
 
-Майлан ЕООД Тел.: +359 2 44 55 400
+Майлан ЕООД
+
+Тел.: +359 2 44 55 400
 
 ## Česká republika
 
@@ -4280,9 +4615,7 @@ Viatris CZ s.r.o. Tel: +420 222 004 400
 
 ## Danmark
 
-Viatris ApS
-
-Tlf: +45 28 11 69 32
+Viatris ApS Tlf: +45 28 11 69 32
 
 ## Deutschland
 
@@ -4302,9 +4635,7 @@ Viatris Pharmaceuticals, S.L. Tel: +34 900 102 712
 
 ## France
 
-Viatris Santé
-
-Tél: +33 (0)4 37 25 75 00
+Viatris Santé Tél: +33 (0)4 37 25 75 00
 
 ## Hrvatska
 
@@ -4322,19 +4653,17 @@ Icepharma hf. Sími: +354 540 8000
 
 Viatris Pharma S.r.l. Tel: +39 02 612 46921
 
-Κύπρος CPO Pharmaceuticals Limited Τηλ: +357 22863100
+## Κύπρος
+
+CPO Pharmaceuticals Limited Τηλ: +357 22863100
 
 ## Latvija
 
-Viatris SIA
-
-Tel: +371 676 055 80
+Viatris SIA Tel: +371 676 055 80
 
 ## Luxembourg/Luxemburg
 
-Tél/Tel: +32 (0)2 658 61 00
-
-Viatris (Belgique/Belgien)
+Viatris Tél/Tel: +32 (0)2 658 61 00 (Belgique/Belgien)
 
 ## Magyarország
 
@@ -4350,9 +4679,7 @@ Mylan Healthcare BV Tel: +31 (0)20 426 3300
 
 ## Norge
 
-Viatris AS
-
-Tlf: +47 66 75 33 00
+Viatris AS Tlf: +47 66 75 33 00
 
 ## Österreich
 
@@ -4462,8 +4789,8 @@ Some people may become dependent on Lyrica (a need to keep taking the medicine).
 If you notice any of the following signs whilst taking Lyrica, it could be a sign that you have become dependent:
 
 - You need to take the medicine for longer than advised by your prescriber
-- You feel you need to take more than the recommended dose
 - You are using the medicine for reasons other than prescribed
+- You feel you need to take more than the recommended dose
 - You have made repeated, unsuccessful attempts to quit or control the use of the medicine
 - When you stop taking the medicine you feel unwell, and you feel better once taking the medicine again
 
@@ -4479,7 +4806,9 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Lyrica and certain other medicines may influence each other (interaction). When taken with certain other medicines which have sedative effects (including opioids), Lyrica may potentiate these effects, and could lead to respiratory failure, coma and death. The degree of dizziness, sleepiness and decreased concentration may be increased if Lyrica is taken together with medicines containing:
 
-Oxycodone - (used as a pain-killer) Lorazepam - (used for treating anxiety) Alcohol Lyrica may be taken with oral contraceptives.
+Oxycodone - (used as a pain-killer) Lorazepam - (used for treating anxiety) Alcohol
+
+Lyrica may be taken with oral contraceptives.
 
 ## Lyrica with food, drink and alcohol
 
@@ -4601,17 +4930,17 @@ Dizziness, drowsiness, headache.
 ## Common: may affect up to 1 in 10 people
 
 - Increased appetite.
-- Feeling of elation, confusion, disorientation, decrease in sexual interest, irritability.
 - Disturbance in attention, clumsiness, memory impairment, loss of memory, tremor, difficulty with speaking, tingling feeling, numbness, sedation, lethargy, insomnia, fatigue, feeling abnormal.
+- Feeling of elation, confusion, disorientation, decrease in sexual interest, irritability.
 - Blurred vision, double vision.
-- Vertigo, problems with balance, fall.
 - Dry mouth, constipation, vomiting, flatulence, diarrhoea, nausea, swollen abdomen.
+- Vertigo, problems with balance, fall.
 - Difficulties with erection.
-- Swelling of the body including extremities.
 - Feeling drunk, abnormal style of walking.
+- Swelling of the body including extremities.
 - Weight gain.
-- Muscle cramp, joint pain, back pain, pain in limb.
 - Sore throat.
+- Muscle cramp, joint pain, back pain, pain in limb.
 
 ## Uncommon: may affect up to 1 in 100 people
 
@@ -4621,40 +4950,40 @@ Dizziness, drowsiness, headache.
 - Dry eyes, eye swelling, eye pain, weak eyes, watery eyes, eye irritation.
 - Heart rhythm disturbances, increased heart rate, low blood pressure, high blood pressure, changes in heart beat, heart failure.
 - Flushing, hot flushes.
-- Difficulty breathing, dry nose, nasal congestion.
 - Increased saliva production, heartburn, numb around mouth.
+- Difficulty breathing, dry nose, nasal congestion.
 - Sweating, rash, chills, fever.
-- Muscle twitching, joint swelling, muscle stiffness, pain including muscle pain, neck pain.
 - Breast pain.
+- Muscle twitching, joint swelling, muscle stiffness, pain including muscle pain, neck pain.
 - Difficulty with or painful urination, incontinence.
-- Weakness, thirst, chest tightness.
 - Changes in blood and liver test results (blood creatinine phosphokinase increased, alanine amino transferase increased, aspartate aminotransferase increased, platelet count decreased, neutropaenia, increase in blood creatinine, decrease in blood potassium).
+- Weakness, thirst, chest tightness.
 - Hypersensitivity, swollen face, itchiness, hives, runny nose, nose bleed, cough, snoring.
-- Painful menstrual periods.
 - Coldness of hands and feet.
+- Painful menstrual periods.
 
 ## Rare: may affect up to 1 in 1,000 people
 
 - Abnormal sense of smell, swinging vision, altered perception of depth, visual brightness, vision loss.
 - Dilated pupils, cross eyes.
-- Cold sweat, tightness of the throat, swollen tongue.
 - Inflammation of the pancreas.
+- Cold sweat, tightness of the throat, swollen tongue.
 - Difficulty in swallowing.
 - Slow or reduced movement of the body.
 
 <div style=\"page-break-after: always\"></div>
 
 - Difficulty with writing properly.
-- Increased fluid in the abdomen.
 - Fluid in the lungs.
+- Increased fluid in the abdomen.
 - Convulsions.
 - Changes in the recording of electrical changes (ECG) in the heart which correspond to heart rhythm disturbances.
 - Muscle damage.
-- Breast discharge, abnormal breast growth, breast growth in males.
 - Interrupted menstrual periods.
+- Breast discharge, abnormal breast growth, breast growth in males.
 - Kidney failure, reduced urine volume, urinary retention.
-- Decrease in white blood cell count.
 - Inappropriate behaviour, suicidal behaviour, suicidal thoughts.
+- Decrease in white blood cell count.
 - Allergic reactions which may include difficulty breathing, inflammation of the eyes (keratitis) and serious skin reactions characterized by reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome, toxic epidermal necrolysis).
 - Jaundice (yellowing of the skin and eyes).
 - Parkinsonism, that is symptoms resembling Parkinson's disease; such as tremor, bradykinesia (decreased ability to move), and rigidity (muscle stiffness).
@@ -4768,77 +5097,11 @@ V.J. Salomone Pharma Limited
 
 Tel: (+356) 21 220 174
 
-<div style=\"page-break-after: always\"></div>
-
 ## Deutschland
 
 Viatris Healthcare GmbH
 
 Tel: +49 (0)800 0700 800
-
-## Eesti
-
-Viatris OÜ
-
-Tel: +372 6363 052
-
-## Ελλάδα
-
-Viatris Hellas Ltd
-
-Τηλ.: +30 2100 100 002
-
-## España
-
-Viatris Pharmaceuticals, S.L.
-
-Tel: +34 900 102 712
-
-## France
-
-Viatris Santé
-
-Tél: +33 (0)4 37 25 75 00
-
-## Hrvatska
-
-Viatris Hrvatska d.o.o.
-
-Tel: + 385 1 23 50 599
-
-## Ireland
-
-Viatris Limited
-
-Tel: +353 1 8711600
-
-## Ísland
-
-Icepharma hf.
-
-Sími: +354 540 8000
-
-## Italia
-
-Viatris Pharma S.r.l.
-
-Tel: +39 02 612 46921
-
-## Κύπρος
-
-CPO Pharmaceuticals Limited
-
-Τηλ: +357 22863100
-
-## Latvija
-
-Viatris SIA
-
-Tel: +371 676 055 80
-
-## This leaflet was last revised in:
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 ## Nederland
 
@@ -4846,11 +5109,23 @@ Mylan Healthcare BV
 
 Tel: +31 (0)20 426 3300
 
+## Eesti
+
+Viatris OÜ
+
+Tel: +372 6363 052
+
 ## Norge
 
 Viatris AS
 
 Tlf: +47 66 75 33 00
+
+## Ελλάδα
+
+Viatris Hellas Ltd
+
+Τηλ.: +30 2100 100 002
 
 ## Österreich
 
@@ -4858,11 +5133,23 @@ Viatris Austria GmbH
 
 Tel: +43 1 86390
 
+## España
+
+Viatris Pharmaceuticals, S.L.
+
+Tel: +34 900 102 712
+
 ## Polska
 
 Viatris Healthcare Sp. z o.o.
 
 Tel.: +48 22 546 64 00
+
+## France
+
+Viatris Santé
+
+Tél: +33 (0)4 37 25 75 00
 
 ## Portugal
 
@@ -4870,11 +5157,23 @@ Viatris Healthcare, Lda.
 
 Tel: +351 21 412 72 00
 
+## Hrvatska
+
+Viatris Hrvatska d.o.o.
+
+Tel: + 385 1 23 50 599
+
 ## România
 
 BGP Products SRL
 
 Tel: +40 372 579 000
+
+## Ireland
+
+Viatris Limited
+
+Tel: +353 1 8711600
 
 ## Slovenija
 
@@ -4882,11 +5181,23 @@ Viatris d.o.o.
 
 Tel: +386 1 236 31 80
 
+## Ísland
+
+Icepharma hf.
+
+Sími: +354 540 8000
+
 ## Slovenská republika
 
 Viatris Slovakia s.r.o.
 
 Tel: +421 2 32 199 100
+
+## Italia
+
+Viatris Pharma S.r.l.
+
+Tel: +39 02 612 46921
 
 ## Suomi/Finland
 
@@ -4894,11 +5205,29 @@ Viatris Oy
 
 Puh./Tel: +358 20 720 9555
 
+## Κύπρος
+
+CPO Pharmaceuticals Limited
+
+Τηλ: +357 22863100
+
 ## Sverige
 
 Viatris AB
 
 Tel: +46 (0)8 630 19 00
+
+## Latvija
+
+Viatris SIA
+
+Tel: +371 676 055 80
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in:
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 ## Package leaflet: Information for the user
 
@@ -4968,8 +5297,8 @@ Some people may become dependent on Lyrica (a need to keep taking the medicine).
 If you notice any of the following signs whilst taking Lyrica, it could be a sign that you have become dependent:
 
 - You need to take the medicine for longer than advised by your prescriber
-- You feel you need to take more than the recommended dose
 - You are using the medicine for reasons other than prescribed
+- You feel you need to take more than the recommended dose
 - You have made repeated, unsuccessful attempts to quit or control the use of the medicine
 - When you stop taking the medicine you feel unwell, and you feel better once taking the medicine again
 
@@ -4985,7 +5314,11 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Lyrica and certain other medicines may influence each other (interaction). When taken with certain other medicines which have sedative effects (including opioids), Lyrica may potentiate these effects, and could lead to respiratory failure, coma and death. The degree of dizziness, sleepiness and decreased concentration may be increased if Lyrica is taken together with medicines containing:
 
-Oxycodone - (used as a pain-killer) Lorazepam - (used for treating anxiety) Alcohol
+Oxycodone - (used as a pain-killer)
+
+Lorazepam - (used for treating anxiety)
+
+Alcohol
 
 Lyrica may be taken with oral contraceptives.
 
@@ -5064,17 +5397,17 @@ Dizziness, drowsiness, headache.
 ## Common: may affect up to 1 in 10 people
 
 - Increased appetite.
-- Feeling of elation, confusion, disorientation, decrease in sexual interest, irritability.
 - Disturbance in attention, clumsiness, memory impairment, loss of memory, tremor, difficulty with speaking, tingling feeling, numbness, sedation, lethargy, insomnia, fatigue, feeling abnormal.
+- Feeling of elation, confusion, disorientation, decrease in sexual interest, irritability.
 - Blurred vision, double vision.
-- Vertigo, problems with balance, fall.
 - Dry mouth, constipation, vomiting, flatulence, diarrhoea, nausea, swollen abdomen.
+- Vertigo, problems with balance, fall.
 - Difficulties with erection.
-- Swelling of the body including extremities.
 - Feeling drunk, abnormal style of walking.
+- Swelling of the body including extremities.
 - Weight gain.
-- Muscle cramp, joint pain, back pain, pain in limb.
 - Sore throat.
+- Muscle cramp, joint pain, back pain, pain in limb.
 
 ## Uncommon: may affect up to 1 in 100 people
 
@@ -5084,11 +5417,11 @@ Dizziness, drowsiness, headache.
 - Dry eyes, eye swelling, eye pain, weak eyes, watery eyes, eye irritation.
 - Heart rhythm disturbances, increased heart rate, low blood pressure, high blood pressure, changes in heart beat, heart failure.
 - Flushing, hot flushes.
-- Difficulty breathing, dry nose, nasal congestion.
 - Increased saliva production, heartburn, numb around mouth.
+- Difficulty breathing, dry nose, nasal congestion.
 - Sweating, rash, chills, fever.
-- Muscle twitching, joint swelling, muscle stiffness, pain including muscle pain, neck pain.
 - Breast pain.
+- Muscle twitching, joint swelling, muscle stiffness, pain including muscle pain, neck pain.
 - Difficulty with or painful urination, incontinence.
 - Weakness, thirst, chest tightness.
 
@@ -5096,28 +5429,28 @@ Dizziness, drowsiness, headache.
 
 - Changes in blood and liver test results (blood creatinine phosphokinase increased, alanine amino transferase increased, aspartate aminotransferase increased, platelet count decreased, neutropaenia, increase in blood creatinine, decrease in blood potassium).
 - Hypersensitivity, swollen face, itchiness, hives, runny nose, nose bleed, cough, snoring.
-- Painful menstrual periods.
 - Coldness of hands and feet.
+- Painful menstrual periods.
 
 ## Rare: may affect up to 1 in 1,000 people
 
 - Abnormal sense of smell, swinging vision, altered perception of depth, visual brightness, vision loss.
 - Dilated pupils, cross eyes.
-- Cold sweat, tightness of the throat, swollen tongue.
 - Inflammation of the pancreas.
+- Cold sweat, tightness of the throat, swollen tongue.
 - Difficulty in swallowing.
-- Slow or reduced movement of the body.
 - Difficulty with writing properly.
+- Slow or reduced movement of the body.
 - Increased fluid in the abdomen.
-- Fluid in the lungs.
 - Convulsions.
+- Fluid in the lungs.
 - Changes in the recording of electrical changes (ECG) in the heart which correspond to heart rhythm disturbances.
 - Muscle damage.
-- Breast discharge, abnormal breast growth, breast growth in males.
 - Interrupted menstrual periods.
+- Breast discharge, abnormal breast growth, breast growth in males.
 - Kidney failure, reduced urine volume, urinary retention.
-- Decrease in white blood cell count.
 - Inappropriate behaviour, suicidal behaviour, suicidal thoughts.
+- Decrease in white blood cell count.
 - Allergic reactions which may include difficulty breathing, inflammation of the eyes (keratitis) and serious skin reactions characterized by reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome, toxic epidermal necrolysis).
 - Jaundice (yellowing of the skin and eyes).
 - Parkinsonism, that is symptoms resembling Parkinson's disease; such as tremor, bradykinesia (decreased ability to move), and rigidity (muscle stiffness).
@@ -5153,7 +5486,7 @@ Do not use this medicine after the expiry date which is stated on the carton. Th
 
 Store in the original packaging in order to protect from moisture.
 
-After first opening the aluminium pouch, use within 3 months.
+PVC/PVDC/Aluminium blister in aluminium pouch: after first opening the aluminium pouch, use within 3 months.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -5176,6 +5509,8 @@ Lyrica is available in 3 pack sizes made of PVC/PVDC with an aluminium foil back
 <div style=\"page-break-after: always\"></div>
 
 10 blisters in each. Each blister contains 10 orodispersible tablets and can be divided into strips with two tablets each.
+
+Lyrica is available in 3 pack sizes made of aluminium with an aluminium foil backing with 20, 60 or 200 orodispersible tablets: the 20 tablet pack contains 2 blisters, the 60 tablet pack contains 6 blisters and the 200 tablet pack contains 20 blisters. Each blister contains 10 orodispersible tablets and can be divided into strips with two tablets each.
 
 Not all pack sizes may be marketed.
 
@@ -5361,9 +5696,11 @@ Viatris AB
 
 Tel: +46 (0)8 630 19 00
 
-<div style=\"page-break-after: always\"></div>
-
 ## Latvija
+
+Viatris SIA
+
+<div style=\"page-break-after: always\"></div>
 
 Viatris SIA
 

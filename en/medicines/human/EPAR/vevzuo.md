@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-02-17 18:00:00
+document_datetime: 2026-03-27 15:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vevzuo.html
 document_name: vevzuo.html
 version: success
-processing_time: 0.0812679
-conversion_datetime: 2026-02-21 12:33:23.799093
+processing_time: 0.1048272
+conversion_datetime: 2026-03-29 12:38:06.573776
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Vevzuo
 
 [RSS](/en/individual-human-medicine.xml/258602)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-denosumab Medicine Human Authorised
+denosumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -115,181 +117,137 @@ English (EN) (123 KB - PDF)
 
 [View](/en/documents/overview/vevzuo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-778)
+[Other languages (22)](#file-language-dropdown-541)
 
 български (BG) (147.76 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/bg/documents/overview/vevzuo-epar-medicine-overview_bg.pdf)
 
 español (ES) (123.03 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/es/documents/overview/vevzuo-epar-medicine-overview_es.pdf)
 
 čeština (CS) (146.2 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/cs/documents/overview/vevzuo-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (123.24 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/da/documents/overview/vevzuo-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (126.43 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/de/documents/overview/vevzuo-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (119.85 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/et/documents/overview/vevzuo-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (146.19 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/el/documents/overview/vevzuo-epar-medicine-overview_el.pdf)
 
 français (FR) (124.22 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/fr/documents/overview/vevzuo-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (144.34 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/hr/documents/overview/vevzuo-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (121.69 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/it/documents/overview/vevzuo-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (150.32 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/lv/documents/overview/vevzuo-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (143.14 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/lt/documents/overview/vevzuo-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (144.69 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/hu/documents/overview/vevzuo-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (147.15 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/mt/documents/overview/vevzuo-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (124.09 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/nl/documents/overview/vevzuo-epar-medicine-overview_nl.pdf)
 
 polski (PL) (150.47 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/pl/documents/overview/vevzuo-epar-medicine-overview_pl.pdf)
 
 português (PT) (123.47 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/pt/documents/overview/vevzuo-epar-medicine-overview_pt.pdf)
 
 română (RO) (141.36 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/ro/documents/overview/vevzuo-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (145.84 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/sk/documents/overview/vevzuo-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (142.92 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/sl/documents/overview/vevzuo-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (119.71 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/fi/documents/overview/vevzuo-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (121 KB - PDF)
 
-**First published:**
-
-21/08/2025
+**First published:** 21/08/2025
 
 [View](/sv/documents/overview/vevzuo-epar-medicine-overview_sv.pdf)
 
@@ -305,305 +263,161 @@ English (EN) (1.36 MB - PDF)
 
 Vevzuo : EPAR - Product information
 
-English (EN) (677.35 KB - PDF)
+English (EN) (611.74 KB - PDF)
 
-**First published:** 21/08/2025
-
-**Last updated:** 17/02/2026
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/en/documents/product-information/vevzuo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-778)
+[Other languages (24)](#file-language-dropdown-43)
 
-български (BG) (646.72 KB - PDF)
+български (BG) (683.63 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/bg/documents/product-information/vevzuo-epar-product-information_bg.pdf)
 
-español (ES) (600.34 KB - PDF)
+español (ES) (592.55 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/es/documents/product-information/vevzuo-epar-product-information_es.pdf)
 
-čeština (CS) (719.58 KB - PDF)
+čeština (CS) (636.11 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/cs/documents/product-information/vevzuo-epar-product-information_cs.pdf)
 
-dansk (DA) (600.24 KB - PDF)
+dansk (DA) (615.67 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/da/documents/product-information/vevzuo-epar-product-information_da.pdf)
 
-Deutsch (DE) (622.17 KB - PDF)
+Deutsch (DE) (644.79 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/de/documents/product-information/vevzuo-epar-product-information_de.pdf)
 
-eesti keel (ET) (582.54 KB - PDF)
+eesti keel (ET) (583.31 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/et/documents/product-information/vevzuo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (691.79 KB - PDF)
+ελληνικά (EL) (697.78 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/el/documents/product-information/vevzuo-epar-product-information_el.pdf)
 
-français (FR) (616.39 KB - PDF)
+français (FR) (614.21 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/fr/documents/product-information/vevzuo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (629.33 KB - PDF)
+hrvatski (HR) (633.9 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/hr/documents/product-information/vevzuo-epar-product-information_hr.pdf)
 
-íslenska (IS) (601.92 KB - PDF)
+íslenska (IS) (635.86 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/is/documents/product-information/vevzuo-epar-product-information_is.pdf)
 
-italiano (IT) (590.83 KB - PDF)
+italiano (IT) (653.86 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/it/documents/product-information/vevzuo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (631.17 KB - PDF)
+latviešu valoda (LV) (664.49 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/lv/documents/product-information/vevzuo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (672.98 KB - PDF)
+lietuvių kalba (LT) (711.42 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/lt/documents/product-information/vevzuo-epar-product-information_lt.pdf)
 
-magyar (HU) (642.33 KB - PDF)
+magyar (HU) (711.39 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/hu/documents/product-information/vevzuo-epar-product-information_hu.pdf)
 
-Malti (MT) (695.24 KB - PDF)
+Malti (MT) (732.13 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/mt/documents/product-information/vevzuo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (596.04 KB - PDF)
+Nederlands (NL) (646.33 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/nl/documents/product-information/vevzuo-epar-product-information_nl.pdf)
 
-norsk (NO) (582.47 KB - PDF)
+norsk (NO) (631.65 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/no/documents/product-information/vevzuo-epar-product-information_no.pdf)
 
-polski (PL) (657.53 KB - PDF)
+polski (PL) (708.05 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/pl/documents/product-information/vevzuo-epar-product-information_pl.pdf)
 
-português (PT) (642.86 KB - PDF)
+português (PT) (651.14 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/pt/documents/product-information/vevzuo-epar-product-information_pt.pdf)
 
-română (RO) (658.21 KB - PDF)
+română (RO) (705.78 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/ro/documents/product-information/vevzuo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (671.57 KB - PDF)
+slovenčina (SK) (699.76 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/sk/documents/product-information/vevzuo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (614.75 KB - PDF)
+slovenščina (SL) (652.89 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/sl/documents/product-information/vevzuo-epar-product-information_sl.pdf)
 
-Suomi (FI) (591.12 KB - PDF)
+Suomi (FI) (582.88 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/fi/documents/product-information/vevzuo-epar-product-information_fi.pdf)
 
-svenska (SV) (617.89 KB - PDF)
+svenska (SV) (633.04 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 27/03/2026
 
 [View](/sv/documents/product-information/vevzuo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000326544 13/02/2026
+**Latest procedure affecting product information:** VR/0000338067
+
+27/03/2026
 
 icon globe
 
@@ -623,310 +437,178 @@ Vevzuo : EPAR - All Authorised presentations
 
 English (EN) (60.11 KB - PDF)
 
-**First published:** 21/08/2025
-
-**Last updated:** 29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/en/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-846)
+[Other languages (24)](#file-language-dropdown-833)
 
 български (BG) (92.45 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/bg/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (84.32 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/es/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (102.34 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/cs/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (85.9 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/da/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (86.97 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/de/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (83.12 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/et/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (93.17 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/el/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (84.19 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/fr/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (123.87 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/hr/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (80.9 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/is/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (103.38 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/it/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (123.45 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/lv/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (93.83 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/lt/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (77.93 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/hu/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (102.89 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/mt/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (84.76 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/nl/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (85.53 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/no/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (103.27 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/pl/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (85.04 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/pt/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (100.12 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/ro/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (68.76 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/sk/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (112.34 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/sl/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (83.83 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/fi/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (85.49 KB - PDF)
 
-**First published:**
-
-21/08/2025
-
-**Last updated:**
-
-29/08/2025
+**First published:** 21/08/2025 **Last updated:** 29/08/2025
 
 [View](/sv/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Vevzuo Active substance denosumab International non-proprietary name (INN) or common name denosumab Therapeutic area (MeSH)
+Name of medicine
+
+Vevzuo
+
+Active substance
+
+denosumab
+
+International non-proprietary name (INN) or common name
+
+denosumab
+
+Therapeutic area (MeSH)
 
 - Neoplasms, Bone Tissue
 - Giant Cell Tumor of Bone
 
-Anatomical therapeutic chemical (ATC) code M05BX04
+Anatomical therapeutic chemical (ATC) code
+
+M05BX04
 
 ### Pharmacotherapeutic group
 
@@ -938,7 +620,9 @@ Prevention of skeletal related events (pathological fracture, radiation to bone,
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006534
+EMA product number
+
+EMEA/H/C/006534
 
 Additional monitoring
 
@@ -954,7 +638,17 @@ Biosimilar Collaborations Ireland Limited
 
 Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13, D13 R20R Ireland
 
-Opinion adopted 25/04/2025 Marketing authorisation issued 25/06/2025 Revision 2
+Opinion adopted
+
+25/04/2025
+
+Marketing authorisation issued
+
+25/06/2025
+
+Revision
+
+3
 
 ## Assessment history
 
@@ -966,11 +660,9 @@ Collapse section
 
 Vevzuo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (145.46 KB - PDF)
+English (EN) (154.65 KB - PDF)
 
-**First published:** 29/08/2025
-
-**Last updated:** 17/02/2026
+**First published:** 29/08/2025 **Last updated:** 27/03/2026
 
 [View](/en/documents/procedural-steps-after/vevzuo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -988,9 +680,7 @@ English (EN) (5.04 MB - PDF)
 
 CHMP summary of positive opinion for Vevzuo
 
-Adopted
-
-Reference Number: EMA/CHMP/133517/2025
+Adopted Reference Number: EMA/CHMP/133517/2025
 
 English (EN) (155.15 KB - PDF)
 
@@ -998,12 +688,14 @@ English (EN) (155.15 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-vevzuo_en.pdf)
 
-#### News on Vevzuo
+## News on Vevzuo
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025) 25/04/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025)
 
-**This page was last updated on** 17/02/2026
+25/04/2025
+
+**This page was last updated on**
+
+27/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

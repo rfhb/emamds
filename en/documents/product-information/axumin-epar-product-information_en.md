@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-14 16:49:42
+document_datetime: 2026-03-26 10:46:22
 document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/axumin-epar-product-information_en.pdf
 document_name: axumin-epar-product-information_en.pdf
 version: success
-processing_time: 5.329513
-conversion_datetime: 2025-12-25 06:38:14.868917
+processing_time: 5.4148995
+conversion_datetime: 2026-03-29 12:43:00.597137
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -194,7 +194,7 @@ Exposure to ionising radiation is linked with cancer induction and a potential f
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions were reported commonly ( ≥ 1/100 to &lt; 1/10) during clinical studies. They are listed below by MedDRA body system organ class.
+Adverse reactions were reported commonly (≥ 1/100 to &lt; 1/10) during clinical studies. They are listed below by MedDRA body system organ class.
 
 | MedDRA system organ class                            | Adverse reactions        |
 |------------------------------------------------------|--------------------------|
@@ -259,18 +259,18 @@ The patient-based diagnostic performance of fluciclovine ( 18 F) PET-CT by blood
 
 Table 2. Effect of blood PSA level on the patient-based diagnostic performance of fluciclovine ( 18 F) PET-CT at BED-001 Emory
 
-|                          | PSA (ng/mL)    | PSA (ng/mL)    | PSA (ng/mL)    | PSA (ng/mL)   |
-|--------------------------|----------------|----------------|----------------|---------------|
-|                          | ≤ 1.05         | >1.05 - ≤ 3.98 | >3.98 - ≤ 8.90 | >8.90         |
-| No. subjects in analysis | 16             | 31             | 25             | 27            |
-| True positive (%)        | 3 (18.8)       | 23 (74.2)      | 20 (80)        | 23 (85.2)     |
-| False positive (%)       | 4 (25)         | 5 (16.1)       | 4 (16)         | 4 (14.8)      |
-| True negative (%)        | 8 (50)         | 3 (9.7)        | 1 (4)          |               |
-| False negative (%)       | 1 (6.3)        | 0 (0)          | 0 (0)          |               |
-| Sensitivity              | 75% (3/4)      | 100% (23/23)   | 100% (20/20)   | 100% (23/23)  |
-| [95% CI]                 | [19.4 - 99.4%] | [85.2 - 100%]  | [83.2 - 100%]  | [85.2 - 100%] |
-| Specificity              | 66.7% (8/12)   | 37.5% (3/8)    | 20% (1/5)      |               |
-| [95% CI]                 | [34.9 - 90.1%] | [8.5 - 75.5%]  | [0.5 - 71.6%]  |               |
+|                          | PSA (ng/mL)    | PSA (ng/mL)   | PSA (ng/mL)   | PSA (ng/mL)   |
+|--------------------------|----------------|---------------|---------------|---------------|
+|                          | ≤1.05          | >1.05 - ≤3.98 | >3.98 - ≤8.90 | >8.90         |
+| No. subjects in analysis | 16             | 31            | 25            | 27            |
+| True positive (%)        | 3 (18.8)       | 23 (74.2)     | 20 (80)       | 23 (85.2)     |
+| False positive (%)       | 4 (25)         | 5 (16.1)      | 4 (16)        | 4 (14.8)      |
+| True negative (%)        | 8 (50)         | 3 (9.7)       | 1 (4)         |               |
+| False negative (%)       | 1 (6.3)        | 0 (0)         | 0 (0)         |               |
+| Sensitivity              | 75% (3/4)      | 100% (23/23)  | 100% (20/20)  | 100% (23/23)  |
+| [95% CI]                 | [19.4 - 99.4%] | [85.2 - 100%] | [83.2 - 100%] | [85.2 - 100%] |
+| Specificity              | 66.7% (8/12)   | 37.5% (3/8)   | 20% (1/5)     |               |
+| [95% CI]                 | [34.9 - 90.1%] | [8.5 - 75.5%] | [0.5 - 71.6%] |               |
 
 An additional study BED002 conducted a blinded read of fluciclovine ( 18 F) PET-CT images from the Emory subset data in BED-001 study by 3 readers. Blinded reads were compared with the histopathological standard of truth. The patient-based sensitivity of fluciclovine ( 18 F) was higher than 88.6% for all three readers while specificity ranged from 17.2-53.6%.
 
@@ -481,8 +481,6 @@ Curium PET Liège Allée du 6 Août, 8 Bâtiment 30 Liège 4000 Belgium
 
 Advanced Accelerator Applications Molecular Imaging Italy S.r.l. Via Piero Maroncelli 40 47014 Meldola (FC) Italy
 
-Synektik Pharma Sp. z o.o. ul. Keramzytowa 16 96-320 Mszczonów Poland
-
 Pharmazac S.A. 3 &amp; 3a Str Building Block Ot4b Industrial Zone Lamia 351 50 Greece
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
@@ -491,13 +489,13 @@ The printed package leaflet of the medicinal product must state the name and add
 
 Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+
+<div style=\"page-break-after: always\"></div>
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -658,8 +656,6 @@ Curium PET Liège, 4000 Liège, Belgium
 
 Advanced Accelerator Applications Molecular Imaging Italy S.r.l., 47014, Meldola (FC), Italy
 
-Synektik Pharma Sp. z o.o., 96-320 Mszczonów, Poland
-
 Pharmazac S.A., 351 50, Lamia, Greece
 
 <div style=\"page-break-after: always\"></div>
@@ -785,8 +781,6 @@ Norsk medisinsk syklotronsenter AS,  0372 Oslo, Norway
 Curium PET Liège, 4000 Liège, Belgium
 
 Advanced Accelerator Applications Molecular Imaging Italy S.r.l., 47014, Meldola (FC), Italy
-
-Synektik Pharma Sp. z o.o., 96-320 Mszczonów, Poland
 
 Pharmazac S.A., 351 50, Lamia, Greece
 
@@ -970,11 +964,9 @@ Curium PET Liège, 4000 Liège, Belgium
 
 Advanced Accelerator Applications Molecular Imaging Italy S.r.l., 47014, Meldola (FC), Italy
 
-Synektik Pharma Sp. z o.o., 96-320 Mszczonów, Poland
-
 Pharmazac S.A., 351 50, Lamia, Greece
 
-This leaflet was last revised in
+## This leaflet was last revised in
 
 ## Other sources of information
 

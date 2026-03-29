@@ -1,36 +1,30 @@
 ---
-document_datetime: 2025-04-04 12:54:27
-document_pages: 2
+document_datetime: 2026-03-25 14:50:10
+document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/somakit-toc-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: somakit-toc-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.2222301
-conversion_datetime: 2025-12-23 02:26:43.189542
+processing_time: 1.5577929
+conversion_datetime: 2026-03-29 12:40:43.212448
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## SomaKit TOC
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, please also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Application number   | Scope                               | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
-|----------------------|-------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| Article 61(3) /      | - Notification acc. Article 61(3) - | 04/04/2025                          |                                             | PL                               |           |
-
-1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
-
-2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
-
-3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+| Application number   | Scope                              | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type II /  | C.I HUMAN AND VETERINARY MEDICINAL | 19/02/2026                          |                                             | SmPC,                            |           |
 
 <!-- image -->
 
@@ -38,6 +32,13 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/N/0000263363                 | Update of the package leaflet with revised contact details of local representatives.                                                                                |            |    |
-|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----|
-| Article 61(3) / EMA/N/0000253848 | - Notification acc. Article 61(3) - Update of the package leaflet with revised contact details of local representatives. Additionally, the MAH took the opportunity | 03/03/2025 | PL |
+| EMA/VR/0000281217                | PRODUCTS - C.I.4 Change(s) in the Summary of Product Characteristics, Labelling or Package Leaflet due to new quality, preclinical, clinical or pharmacovigilance data - Accepted                                                                                                                                                                                                                                                                                           |            | Labelling and PL   |                   |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------------|-------------------|
+| Variation type IB /              | This was an application for a group of variations. B.I.a.3 Change in batch size (including batch size ranges) of active substance or intermediate used in the manufacturing process of the active substance - B.I.a.3.a Up to 10-fold increase compared to the originally approved batch size - Accepted B.I.a.2 Changes in the manufacturing process of the active substance - B.I.a.2.e Minor change to the restricted part of an Active Substance Master File - Accepted | 12/09/2025 |                    | EMA/VR/0000291699 |
+| Article 61(3) / EMA/N/0000263363 | - Notification acc. Article 61(3) - Accepted Update of the package leaflet with revised contact details of local representatives.                                                                                                                                                                                                                                                                                                                                           | 04/04/2025 | PL                 |                   |
+| Article 61(3) / EMA/N/0000253848 | - Notification acc. Article 61(3) - Accepted Update of the package leaflet with revised contact details of local representatives. Additionally, the MAH took the opportunity                                                                                                                                                                                                                                                                                                | 03/03/2025 | PL                 |                   |
+
+<div style=\"page-break-after: always\"></div>
+
+| to introduce a minor correction to the Slovak package leaflet.   |
+|------------------------------------------------------------------|

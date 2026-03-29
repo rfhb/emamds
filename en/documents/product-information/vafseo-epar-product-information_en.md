@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-27 15:29:36
-document_pages: 38
+document_datetime: 2026-03-24 11:54:45
+document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vafseo-epar-product-information_en.pdf
 document_name: vafseo-epar-product-information_en.pdf
 version: success
-processing_time: 9.2606985
-conversion_datetime: 2025-12-24 09:05:58.603905
+processing_time: 9.017468
+conversion_datetime: 2026-03-29 12:36:39.276399
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -108,12 +108,10 @@ Treatment should not be continued beyond 24 weeks of therapy if a clinically mea
 
 <div style=\"page-break-after: always\"></div>
 
-| Change in Hb Value                                                                | Less than 10 g/dL                                   | 10 to 12 g/dL                      | Greater than 12 g/dL but less than 13 g/dL   | 13 g/dL or greater                                                                                                                                |
-|-----------------------------------------------------------------------------------|-----------------------------------------------------|------------------------------------|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| No rise in Hb greater than 1 g/dL in 2-week period or more than 2 g/dL in 4 weeks | 150 mg increase if no dose increase in past 4 weeks | Maintain dose                      | 150 mg reduction                             | Interrupt the dose of Vafseo until Hb is less than or equal to 12 g/dL then resume with dose that is 150 mg less than dose prior to interruption. |
-| Hb rise more than 1 g/dL in any 2-week period or more than 2 g/dL in 4 weeks      | 150 mg reduction or maintain* dose                  | 150 mg reduction or maintain* dose | 150 mg reduction                             | If patient was on 150 mg prior to interruption, then resume with 150 mg.                                                                          |
-
-* Dose reduction may not be required in case of a single Hb value.
+| Change in Hb Value                                                                | Less than 10 g/dL                                   | 10 to 12 g/dL                      | Greater than 12 g/dL but less than 13 g/dL   | 13 g/dL or greater                                                                                                                                                                  |
+|-----------------------------------------------------------------------------------|-----------------------------------------------------|------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| No rise in Hb greater than 1 g/dL in 2-week period or more than 2 g/dL in 4 weeks | 150 mg increase if no dose increase in past 4 weeks | Maintain dose                      | 150 mg reduction                             | Interrupt the dose of Vafseo until Hb is less than or equal to 12 g/dL then resume with dose that is 150 mg less than dose prior to interruption. If patient was on 150 mg prior to |
+| Hb rise more than 1 g/dL in any 2-week period or more than 2 g/dL in 4 weeks      | 150 mg reduction or maintain* dose                  | 150 mg reduction or maintain* dose | 150 mg reduction                             | interruption, then resume with 150 mg.                                                                                                                                              |
 
 ## Monitoring
 
@@ -193,7 +191,7 @@ Convulsions were commonly reported in patients receiving vadadustat (see section
 
 ## Initial decrease in Hb levels in patients converting from ESA
 
-Hb levels may initially decrease when converting patients from an ESA to Vafseo especially in patients who were on high baseline ESA doses. Generally, the higher the baseline ESA dose, the deeper the initial decrease in Hb levels will be before levels gradually return to baseline Hb by Weeks 16 to 20 (see section 5.1 for course of Hb during treatment in individual studies). Rescue therapy such as RBC transfusion or ESA treatment may be considered during the transition phase if Hb values fall below 9.0 g/dL or if response is considered not acceptable. Patients receiving RBC transfusions are recommended to continue Vafseo treatment during the transfusion period. Vafseo should be paused temporarily during ESA rescue treatment and may be resumed when Hb levels are ≥10 g/dL (see section 4.2).
+Hb levels may initially decrease when converting patients from an ESA to Vafseo especially in patients who were on high baseline ESA doses. Generally, the higher the baseline ESA dose, the deeper the initial decrease in Hb levels will be before levels gradually return to baseline Hb by Weeks 16 to 20 (see section 5.1 for course of Hb during treatment in individual studies). Rescue therapy such as RBC transfusion or ESA treatment may be considered during the transition phase if Hb values fall below 9.0 g/dL or if response is considered not acceptable. Patients receiving RBC transfusions are recommended to continue Vafseo treatment during the transfusion period. Vafseo should be paused temporarily during ESA rescue treatment and may be resumed when Hb levels a re ≥10 g/dL (see section 4.2).
 
 ## Inadequate response to therapy
 
@@ -223,9 +221,9 @@ Iron supplements, phosphate binders, and other medicinal products whose primary 
 
 Co-administration with oral iron supplements (e.g., ferric citrate, ferrous sulphate, sodium ferrous citrate), products which contain iron, iron-containing phosphate binders (e.g., ferric citrate, sucroferric oxyhydroxide) and non-iron-containing phosphate binders (calcium acetate, sevelamer carbonate) decreases the exposure (Cmax and AUC) of vadadustat.
 
-The co-administration of oral iron-based medicinal products reduced the bioavailability of vadadustat up to 90% and 92% in terms of the AUC∞ and Cmax.
+The co-administration of oral iron-based medicinal products reduced the bioavailability of vadadustat up to 90% and 92% in terms of the AUC ∞ and Cmax.
 
-The co-administration of non-iron-containing phosphate binders reduced the bioavailability of vadadustat up to 55% and 52% for AUC∞ and Cmax.
+The co-administration of non-iron-containing phosphate binders reduced the bioavailability of vadadustat up to 55% and 52% for AUC ∞ and Cmax.
 
 Vafseo should be administered at least 1 hour before oral iron supplements, products whose primary component consists of iron or iron-containing phosphate binders. As vadadustat may form a chelate with multivalent cations, Vafseo should be administered at least 1 hour before or 2 hours after noniron-containing phosphate binders or other medicinal products whose primary component consists of multivalent cations such as calcium, magnesium or aluminium.
 
@@ -241,11 +239,11 @@ Vadadustat may increase the AUC of BCRP substrates, and some statins when co-adm
 
 Table 2: Potential clinically significant drug interactions between vadadustat and BCRP substrates, and select statins
 
-| Co-administered medicinal product   | Effect on concentration                                                            | Clinical comment                                                                                                                       |
-|-------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| sulfasalazine                       | 4.5-fold ↑ sulfasalazine AUC; no substantial change in active metabolites exposure | Monitor for signs of adverse events of sulfasalazine.                                                                                  |
-| simvastatin                         | ~2-fold ↑ simvastatin AUC                                                          | Limit the top dose of simvastatin in patients with CKD on Vafseo to 20 mg daily. Monitor for signs of adverse events of simvastatin.   |
-| rosuvastatin                        | 2- to 3-fold ↑rosuvastatin AUC and C max                                           | Limit the top dose of rosuvastatin in patients with CKD on Vafseo to 10 mg daily. Monitor for signs of adverse events of rosuvastatin. |
+| Co-administered medicinal product   | Effect on concentration                                                             | Clinical comment                                                                                                                       |
+|-------------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| sulfasalazine                       | 4.5- fold ↑ sulfasalazine AUC; no substantial change in active metabolites exposure | Monitor for signs of adverse events of sulfasalazine.                                                                                  |
+| simvastatin                         | ~2- fold ↑ simvastatin AUC                                                          | Limit the top dose of simvastatin in patients with CKD on Vafseo to 20 mg daily. Monitor for signs of adverse events of simvastatin.   |
+| rosuvastatin                        | 2- to 3- fold ↑rosuvastatin AUC and C max                                           | Limit the top dose of rosuvastatin in patients with CKD on Vafseo to 10 mg daily. Monitor for signs of adverse events of rosuvastatin. |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -318,10 +316,6 @@ Table 3: Adverse reactions
 | Respiratory, thoracic and mediastinal disorders |                                      | Cough                                             |                           |
 | Gastrointestinal disorders                      | Diarrhoea                            | Constipation Nausea Vomiting Abdominal pain upper |                           |
 | Investigations                                  |                                      | Elevated liver enzymes b                          | Blood bilirubin increased |
-
-a) for further details, please refer to 'Thromboembolic events' and 'Convulsions' below.
-
-b) Includes preferred terms transaminases increased, ALT increased, AST increased, hepatic enzyme increased, liver function test abnormal
 
 ## Description of selected adverse reactions
 
@@ -459,7 +453,7 @@ The half-life of vadadustat in DD-CKD patients was 9.2 hours. After a single ora
 
 ## Pharmacokinetics in special populations
 
-## Renal impairment
+Renal impairment
 
 <div style=\"page-break-after: always\"></div>
 
@@ -537,9 +531,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Medice Arzneimittel Pütter GmbH &amp; Co. KG Kuhloweg 37 D-58638 Iserlohn Germany
+Medice Arzneimittel Pütter GmbH &amp; Co. KG
 
-tel +49 2371 937-0
+Kuhloweg 37 D-58638 Iserlohn Germany tel +49 2371 937-0
 
 fax +49 2371 937-106
 
@@ -619,9 +613,7 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vafseo 150 mg film-coated tablets
-
-vadadustat
+Vafseo 150 mg film-coated tablets vadadustat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -639,7 +631,9 @@ Each film-coated tablet contains 150 mg vadadustat
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use
+Read the package leaflet before use.
+
+Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -657,8 +651,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -670,18 +663,15 @@ EU/1/23/1725/001 EU/1/23/1725/002 EU/1/23/1725/003 EU/1/23/1725/004 EU/1/23/1725
 
 EU/1/23/1725/006
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Vafseo 150 mg
 
@@ -689,8 +679,7 @@ Vafseo 150 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -731,9 +720,7 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vafseo 300 mg film-coated tablets
-
-vadadustat
+Vafseo 300 mg film-coated tablets vadadustat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -842,9 +829,7 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vafseo 450 mg film-coated tablets
-
-vadadustat
+Vafseo 450 mg film-coated tablets vadadustat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -952,6 +937,8 @@ Lot
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 ## Package leaflet: Information for the patient
 
@@ -1240,7 +1227,11 @@ MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel.: + 49 2371 937 0
 
 ## България
 
-MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Teл.: + 49 2371 937 0
+Er-Kim Pharmaceuticals Inc.
+
+Te л
+
+.: + 359 879 544 711
 
 ## Luxembourg/Luxemburg
 
@@ -1248,31 +1239,31 @@ MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tél/Tel: + 49 2371 937 0
 
 ## Česká republika
 
-MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel: + 49 2371 937 0
+Er-Kim Pharmaceuticals Inc.
+
+Tel: + 359 879 544 711
 
 ## Magyarország
 
-MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel.: + 49 2371 937 0
+Er-Kim Pharmaceuticals Inc.
+
+Tel.: + 359 879 544 711
 
 ## Danmark
 
-MEDICE Nordic Denmark ApS Tlf.: + 45 5786 2525
+MEDICE Nordic Denmark ApS
+
+Tlf.: + 45 5786 2525
 
 ## Malta
 
 MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel: + 49 2371 937 0
 
-## Deutschland
-
-MEDICE Arzneimittel Pütter GmbH &amp; Co. KG
-
-## Nederland
-
-MEDICE Arzneimittel Pütter GmbH &amp; Co. KG
-
 <div style=\"page-break-after: always\"></div>
 
-Tel.: + 49 2371 937 0
+## Deutschland
+
+MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel.: + 49 2371 937 0
 
 ## Eesti
 
@@ -1280,11 +1271,13 @@ MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel: + 49 2371 937 0
 
 ## Ελλάδα
 
-MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Τηλ: + 49 2371 937 0
+Specialty Therapeutics IKE Τηλ: + 30 213 0233913
 
 ## España
 
-MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel: + 49 2371 937 0
+MEDICE Ibérica, S.L.
+
+Tel: + 34 652 956502
 
 ## France
 
@@ -1292,7 +1285,7 @@ MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tél: + 49 2371 937 0
 
 ## Hrvatska
 
-MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel: + 49 2371 937 0
+Er-Kim Pharmaceuticals Inc. Tel: + 359 879 544 711
 
 ## Ireland
 
@@ -1308,7 +1301,7 @@ MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel: + 49 2371 937 0
 
 ## Κύπρος
 
-MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Τηλ: + 49 2371 937 0
+Specialty Therapeutics IKE Τηλ: + 30 213 0233913
 
 ## Latvija
 
@@ -1318,9 +1311,9 @@ MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel: + 49 2371 937 0
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+## Nederland
 
-Tel: + 31 20 2622948
+MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel: + 31 20 2622948
 
 ## Norge
 
@@ -1332,7 +1325,7 @@ MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel: + 49 2371 937 0
 
 ## Polska
 
-MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel.: + 49 2371 937 0
+Er-Kim Pharmaceuticals Inc. Tel.: + 359 879 544 711
 
 ## Portugal
 
@@ -1340,15 +1333,15 @@ MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel: + 49 2371 937 0
 
 ## România
 
-MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel: + 49 2371 937 0
+Er-Kim Pharmaceuticals Inc. Tel: + 359 879 544 711
 
 ## Slovenija
 
-MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel: + 49 2371 937 0
+Er-Kim Pharmaceuticals Inc. Tel: + 359 879 544 711
 
 ## Slovenská republika
 
-MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel: + 49 2371 937 0
+Er-Kim Pharmaceuticals Inc. Tel: + 359 879 544 711
 
 ## Suomi/Finland
 
@@ -1357,3 +1350,7 @@ MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Puh/Tel: + 49 2371 937 0
 ## Sverige
 
 MEDICE Nordic Sweden AB Tel: + 46 200898305
+
+<div style=\"page-break-after: always\"></div>
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.

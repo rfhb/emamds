@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-29 14:18:07
+document_datetime: 2026-03-25 08:36:27
 document_pages: 109
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bortezomib-accord-epar-product-information_en.pdf
 document_name: bortezomib-accord-epar-product-information_en.pdf
 version: success
-processing_time: 41.0565022
-conversion_datetime: 2025-12-31 04:36:17.856021
+processing_time: 47.25643
+conversion_datetime: 2026-03-29 12:45:16.535859
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -83,6 +83,12 @@ Table 1: Recommended* posology modifications for Bortezomib Accord-related neuro
 | Grade 2 with pain or Grade 3 (severe symptoms; limiting self care ADL***)                                  | Withhold Bortezomib Accord treatment until symptoms of toxicity have resolved. When toxicity resolves re-initiate Bortezomib Accord treatment and reduce dose to 0.7 mg/m 2 once per week. |
 | Grade 4 (life-threatening consequences; urgent intervention indicated) and/or severe autonomic neuropathy  | Discontinue Bortezomib Accord                                                                                                                                                              |
 
+* Based on posology modifications in Phase II and III multiple myeloma studies and post-marketing experience. Grading based on NCI Common Toxicity Criteria CTCAE v 4.0.
+
+** Instrumental ADL : refers to preparing meals, shopping for groceries or clothes, using telephone, managing money, etc;
+
+- *** Self care ADL : refers to bathing, dressing and undressing, feeding self, using the toilet, taking medicinal products, and not bedridden.
+
 ## Combination therapy with pegylated liposomal doxorubicin
 
 Bortezomib Accord is administered via intravenous or subcutaneous injection at the recommended dose of 1.3 mg/m 2 body surface area twice weekly for two weeks on days 1, 4, 8, and 11 in a 21-day treatment cycle. This 3-week period is considered a treatment cycle. At least 72 hours should elapse between consecutive doses of Bortezomib Accord.
@@ -133,8 +139,8 @@ Dose adjustments during treatment and re-initiation of treatment for combination
 
 Prior to initiating a new cycle of therapy:
 
--  Platelet counts should be ≥ 70 x 10 9 /l and the absolute neutrophils count should be ≥ 1.0 x 10 9 /l
--  Non-haematological toxicities should have resolved to Grade 1 or baseline
+- Platelet counts should be ≥ 70 x 10 9 /l and the absolute neutrophils count should be ≥ 1.0 x 10 9 /l
+- Non-haematological toxicities should have resolved to Grade 1 or baseline
 
 Table 3: Posology modifications during subsequent cycles of Bortezomib Accord therapy in combination with melphalan and prednisone
 
@@ -144,10 +150,10 @@ Table 3: Posology modifications during subsequent cycles of Bortezomib Accord th
 
 <div style=\"page-break-after: always\"></div>
 
-|  If prolonged Grade 4 neutropenia or thrombocytopenia, or thrombocytopenia with bleeding is observed in the previous cycle                           | Consider reduction of the melphalan dose by 25% in the next cycle.                                                                                                                                                                                                                                                                                                                             |
+| • If prolonged Grade 4 neutropenia or thrombocytopenia, or thrombocytopenia with bleeding is observed in the previous cycle                           | Consider reduction of the melphalan dose by 25% in the next cycle.                                                                                                                                                                                                                                                                                                                             |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  If platelet counts ≤ 30 x 10 9 /l or ANC ≤ 0.75 x 10 9 /l on a Bortezomib Accord dosing day (other than day 1)                                      | Bortezomib Accord therapy should be withheld                                                                                                                                                                                                                                                                                                                                                   |
-|  If several Bortezomib Accord doses in a cycle are withheld (≥ 3 doses during twice weekly administration or ≥ 2 doses during weekly administration) | Bortezomib Accord dose should be reduced by 1 dose level (from 1.3 mg/m 2 to 1 mg/m 2 , or from 1 mg/m 2 to 0.7 mg/m 2 )                                                                                                                                                                                                                                                                       |
+| • If platelet counts ≤ 30 x 10 9 /l or ANC ≤ 0.75 x 10 9 /l on a Bortezomib Accord dosing day (other than day 1)                                      | Bortezomib Accord therapy should be withheld                                                                                                                                                                                                                                                                                                                                                   |
+| • If several Bortezomib Accord doses in a cycle are withheld (≥ 3 doses during twice weekly administration or ≥ 2 doses during weekly administration) | Bortezomib Accord dose should be reduced by 1 dose level (from 1.3 mg/m 2 to 1 mg/m 2 , or from 1 mg/m 2 to 0.7 mg/m 2 )                                                                                                                                                                                                                                                                       |
 | Grade ≥ 3 non-haematological toxicities                                                                                                               | Bortezomib Accord therapy should be withheld until symptoms of the toxicity have resolved to Grade 1 or baseline. Then, Bortezomib Accord may be reinitiated with one dose level reduction (from 1.3 mg/m 2 to 1 mg/m 2 , or from 1 mg/m 2 to 0.7 mg/m 2 ). For bortezomib-related neuropathic pain and/or peripheral neuropathy, hold and/or modify Bortezomib Accord as outlined in Table 1. |
 
 For additional information concerning melphalan and prednisone, see the corresponding Summary of Product Characteristics.
@@ -214,10 +220,10 @@ Prednisone is administered orally at 100 mg/m 2 on days 1, 2, 3, 4 and 5 of each
 
 Dose adjustments during treatment for patients with previously untreated mantle cell lymphoma Prior to initiating a new cycle of therapy:
 
--  Platelet counts should be ≥ 100,000 cells/μL and the absolute neutrophils count (ANC) should be ≥ 1,500 cells/μL
--  Platelet counts should be ≥ 75,000 cells/μL in patients with bone marrow infiltration or splenic sequestration
--  Haemoglobin ≥ 8 g/dL
--  Non-haematological toxicities should have resolved to Grade 1 or baseline.
+- Platelet counts should be ≥ 100,000 cells/μL and the absolute neutrophils count (ANC) should be ≥ 1,500 cells/μL
+- Platelet counts should be ≥ 75,000 cells/μL in patients with bone marrow infiltration or splenic sequestration
+- Haemoglobin ≥ 8 g/dL
+- Non-haematological toxicities should have resolved to Grade 1 or baseline.
 
 Bortezomib treatment must be withheld at the onset of any ≥ Grade 3 bortezomib-related non-haematological toxicities (excluding neuropathy) or ≥ Grade 3 haematological toxicities (see also section 4.4). For dose adjustments, see Table 5 below.
 
@@ -230,8 +236,8 @@ Table 5: Dose adjustments during treatment for patients with previously untreate
 | Toxicity                                                                                                                         | Posology modification or delay                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Haematological toxicity                                                                                                          | Haematological toxicity                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|  ≥ Grade 3 neutropenia with fever, Grade 4 neutropenia lasting more than 7 days, a platelet count < 10,000 cells/μL             | Bortezomib Accord therapy should be withheld for up to 2 weeks until the patient has an ANC ≥ 750 cells/μL and a platelet count ≥ 25,000 cells/μL.  If, after Bortezomib Accord has been held, the toxicity does not resolve, as defined above, then Bortezomib Accord must be discontinued.  If toxicity resolves i.e. patient has an ANC ≥ 750 cells/μL and a platelet count ≥ 25,000 cells/μL, Bortezomib Accord may be reinitiated at a dose reduced by one dose level (from 1.3 mg/m 2 to 1 mg/m 2 , or from 1 mg/m 2 to 0.7 mg/m 2 ). |
-|  If platelet counts < 25,000 cells/μL. or ANC < 750 cells/μL on a Bortezomib Accord dosing day (other than Day 1 of each cycle) | Bortezomib Accord therapy should be withheld                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| • ≥ Grade 3 neutropenia with fever, Grade 4 neutropenia lasting more than 7 days, a platelet count < 10,000 cells/μL             | Bortezomib Accord therapy should be withheld for up to 2 weeks until the patient has an ANC ≥ 750 cells/μL and a platelet count ≥ 25,000 cells/μL. • If, after Bortezomib Accord has been held, the toxicity does not resolve, as defined above, then Bortezomib Accord must be discontinued. • If toxicity resolves i.e. patient has an ANC ≥ 750 cells/μL and a platelet count ≥ 25,000 cells/μL, Bortezomib Accord may be reinitiated at a dose reduced by one dose level (from 1.3 mg/m 2 to 1 mg/m 2 , or from 1 mg/m 2 to 0.7 mg/m 2 ). |
+| • If platelet counts < 25,000 cells/μL. or ANC < 750 cells/μL on a Bortezomib Accord dosing day (other than Day 1 of each cycle) | Bortezomib Accord therapy should be withheld                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Grade ≥ 3 non-haematological toxicities considered to be related to Bortezomib Accord                                            | Bortezomib Accord therapy should be withheld until symptoms of the toxicity have resolved to Grade 2 or better. Then, Bortezomib Accord may be reinitiated at a dose reduced by one dose level (from 1.3 mg/m 2 to 1 mg/m 2 , or from 1 mg/m 2 to 0.7 mg/m 2 ). For bortezomib-related neuropathic pain and/or peripheral neuropathy, hold and/or modify Bortezomib Accord as outlined in Table 1.                                                                                                                                            |
 
 In addition, when bortezomib is given in combination with other chemotherapeutic medicinal products, appropriate dose reductions for these medicinal products should be considered in the event of toxicities, according to the recommendations in the respective Summary of Product Characteristics.
@@ -248,7 +254,7 @@ In a study in previously untreated mantle cell lymphoma patients, 42.9% and 10.4
 
 ## Hepatic impairment
 
-Patients with mild hepatic impairment do not require a dose adjustment and should be treated per the recommended dose. Patients with moderate or severe hepatic impairment should be started on Bortezomib Accord at a reduced dose of 0.7 mg/m 2  per injection during the first treatment cycle, and a subsequent dose escalation to 1.0 mg/m 2 or further dose reduction to 0.5 mg/m 2  may be considered based on patient tolerability (see Table 6 and sections 4.4 and 5.2).
+Patients with mild hepatic impairment do not require a dose adjustment and should be treated per the recommended dose. Patients with moderate or severe hepatic impairment should be started on Bortezomib Accord at a reduced dose of 0.7 mg/m 2 per injection during the first treatment cycle, and a subsequent dose escalation to 1.0 mg/m 2 or further dose reduction to 0.5 mg/m 2 may be considered based on patient tolerability (see Table 6 and sections 4.4 and 5.2).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -256,8 +262,8 @@ Table 6: Recommended starting dose modification for Bortezomib Accord in patient
 
 | Grade of hepatic impairment*   | Bilirubin level                 | SGOT (AST) levels   | Modification of starting dose                                                                                                                                                                           |
 |--------------------------------|---------------------------------|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Mild                           | ≤ 1.0 x ULN > 1.0 x  1.5 x ULN | > ULN Any           | None None                                                                                                                                                                                               |
-| Moderate                       | > 1.5 x  3 x ULN               | Any                 | Reduce Bortezomib Accord to 0.7 mg/m 2 in the first treatment cycle. Consider dose escalation to 1.0 mg/m 2 or further dose reduction to 0.5 mg/m 2 in subsequent cycles based on patient tolerability. |
+| Mild                           | ≤ 1.0 x ULN > 1.0 x - 1.5 x ULN | > ULN Any           | None None                                                                                                                                                                                               |
+| Moderate                       | > 1.5 x - 3 x ULN               | Any                 | Reduce Bortezomib Accord to 0.7 mg/m 2 in the first treatment cycle. Consider dose escalation to 1.0 mg/m 2 or further dose reduction to 0.5 mg/m 2 in subsequent cycles based on patient tolerability. |
 | Severe                         | > 3 x ULN                       | Any                 |                                                                                                                                                                                                         |
 
 ## Renal impairment
@@ -480,26 +486,26 @@ Table 7:Adverse reactions in patients with multiple myeloma treated with bortezo
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                                  | Incidence   | Adverse reaction                                                                                                                                                                                                                                                                                                                                                                            |
-|---------------------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Rare        | Neoplasm malignant, Leukaemia plasmacytic, Renal cell carcinoma, Mass, Mycosis fungoides, Neoplasm benign*                                                                                                                                                                                                                                                                                  |
-| Blood and lymphatic system disorders                                | Very Common | Thrombocytopenia*, Neutropenia*, Anaemia*                                                                                                                                                                                                                                                                                                                                                   |
-| Blood and lymphatic system disorders                                | Common      | Leukopenia*, Lymphopenia*                                                                                                                                                                                                                                                                                                                                                                   |
-| Blood and lymphatic system disorders                                | Uncommon    | Pancytopenia*, Febrile neutropenia, Coagulopathy*, Leukocytosis*, Lymphadenopathy, Haemolytic anaemia #                                                                                                                                                                                                                                                                                     |
-| Blood and lymphatic system disorders                                | Rare        | Disseminated intravascular coagulation, Thrombocytosis*, Hyperviscosity syndrome, Platelet disorder NOS, Thrombotic microangiopathy (inc thrombocytopenic purpura) # , Blood disorder NOS, Haemorrhagic diathesis, Lymphocytic infiltration                                                                                                                                                 |
-| Immune system disorders                                             | Uncommon    | Angioedema # , Hypersensitivity*                                                                                                                                                                                                                                                                                                                                                            |
-| Immune system disorders                                             | Rare        | Anaphylactic shock, Amyloidosis, Type III immune complex mediated reaction                                                                                                                                                                                                                                                                                                                  |
-| Endocrine disorders                                                 | Uncommon    | Cushing's syndrome*, Hyperthyroidism*, Inappropriate antidiuretic hormone secretion                                                                                                                                                                                                                                                                                                         |
-| Endocrine disorders                                                 | Rare        | Hypothyroidism                                                                                                                                                                                                                                                                                                                                                                              |
-| Metabolism and nutrition disorders                                  | Very Common | Decreased appetite                                                                                                                                                                                                                                                                                                                                                                          |
-| Metabolism and nutrition disorders                                  | Uncommon    | glucose abnormal*, Hypocalcaemia*, Enzyme abnormality* Tumour lysis syndrome, Failure to thrive*, Hypomagnesaemia*, Hypophosphataemia*, Hyperkalaemia*, Hypercalcaemia*, Hypernatraemia*, Uric acid abnormal*,                                                                                                                                                                              |
-| Metabolism and nutrition disorders                                  | Rare        | Diabetes mellitus*, Fluid retention Hypermagnesaemia*, Acidosis, Electrolyte imbalance*, Fluid overload, Hypochloraemia*, Hypovolaemia, Hyperchloraemia*, Hyperphosphataemia*, Metabolic disorder, Vitamin B complex deficiency, Vitamin B12 deficiency, Gout, Increased appetite, Alcohol intolerance                                                                                      |
-| Psychiatric disorders                                               | Common      | Mood disorders and disturbances*, Anxiety disorder*, Sleep disorders and disturbances*                                                                                                                                                                                                                                                                                                      |
-| Psychiatric disorders                                               | Uncommon    | Mental disorder*, Hallucination*, Psychotic disorder*, Confusion*, Restlessness                                                                                                                                                                                                                                                                                                             |
-| Psychiatric disorders                                               | Rare        | Suicidal ideation*, Adjustment disorder, Delirium, Libido decreased                                                                                                                                                                                                                                                                                                                         |
-| Nervous system disorders                                            | Very Common | Neuropathies*, Peripheral sensory neuropathy, Dysaesthesia*, Neuralgia*                                                                                                                                                                                                                                                                                                                     |
-| Nervous system disorders                                            | Common      | Motor neuropathy*, Loss of consciousness (inc syncope), Dizziness*, Dysgeusia*, Lethargy, Headache*                                                                                                                                                                                                                                                                                         |
-| Nervous system disorders                                            | Uncommon    | Tremor, Peripheral sensorimotor neuropathy, Dyskinesia*, Cerebellar coordination and balance disturbances*, Memory loss (exc dementia)*, Encephalopathy*, Posterior Reversible Encephalopathy Syndrome # , Neurotoxicity, Seizure disorders*, Post herpetic neuralgia, Speech disorder*, Restless legs syndrome, Migraine, Sciatica, Disturbance in attention, Reflexes abnormal*, Parosmia |
+| System Organ Class                                                  | Incidence     | Adverse reaction                                                                                                                                                                                                                                                                                                                                                                            |
+|---------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Rare          | Neoplasm malignant, Leukaemia plasmacytic, Renal cell carcinoma, Mass, Mycosis fungoides, Neoplasm benign*                                                                                                                                                                                                                                                                                  |
+| Blood and lymphatic system disorders                                | Very Common   | Thrombocytopenia*, Neutropenia*, Anaemia*                                                                                                                                                                                                                                                                                                                                                   |
+| Blood and lymphatic system disorders                                | Common        | Leukopenia*, Lymphopenia*                                                                                                                                                                                                                                                                                                                                                                   |
+| Blood and lymphatic system disorders                                | Uncommon      | Pancytopenia*, Febrile neutropenia, Coagulopathy*, Leukocytosis*, Lymphadenopathy, Haemolytic anaemia #                                                                                                                                                                                                                                                                                     |
+| Blood and lymphatic system disorders                                | Rare          | Disseminated intravascular coagulation, Thrombocytosis*, Hyperviscosity syndrome, Platelet disorder NOS, Thrombotic microangiopathy (inc thrombocytopenic purpura) # , Blood disorder NOS, Haemorrhagic diathesis, Lymphocytic infiltration                                                                                                                                                 |
+| Immune system disorders                                             | Uncommon      | Angioedema # , Hypersensitivity*                                                                                                                                                                                                                                                                                                                                                            |
+| Immune system disorders                                             | Rare          | Anaphylactic shock, Amyloidosis, Type III immune complex mediated reaction                                                                                                                                                                                                                                                                                                                  |
+| Endocrine disorders                                                 | Uncommon      | Cushing's syndrome*, Hyperthyroidism*, Inappropriate antidiuretic hormone secretion                                                                                                                                                                                                                                                                                                         |
+| Endocrine disorders                                                 | Rare          | Hypothyroidism                                                                                                                                                                                                                                                                                                                                                                              |
+| Metabolism and nutrition disorders                                  | Very Common   | Decreased appetite                                                                                                                                                                                                                                                                                                                                                                          |
+| Metabolism and nutrition disorders                                  | Common        | Dehydration, Hypokalaemia*, Hyponatraemia*, Blood glucose abnormal*, Hypocalcaemia*, Enzyme abnormality* Tumour lysis syndrome, Failure to thrive*,                                                                                                                                                                                                                                         |
+| Metabolism and nutrition disorders                                  | Uncommon Rare | Hypomagnesaemia*, Hypophosphataemia*, Hyperkalaemia*, Hypercalcaemia*, Hypernatraemia*, Uric acid abnormal*, Diabetes mellitus*, Fluid retention Hypermagnesaemia*, Acidosis, Electrolyte imbalance*, Fluid overload, Hypochloraemia*, Hypovolaemia,                                                                                                                                        |
+| Psychiatric disorders                                               | Common        | Mood disorders and disturbances*, Anxiety disorder*, Sleep disorders and disturbances*                                                                                                                                                                                                                                                                                                      |
+| Psychiatric disorders                                               | Uncommon      | Mental disorder*, Hallucination*, Psychotic disorder*, Confusion*, Restlessness                                                                                                                                                                                                                                                                                                             |
+| Psychiatric disorders                                               | Rare          | Suicidal ideation*, Adjustment disorder, Delirium, Libido decreased                                                                                                                                                                                                                                                                                                                         |
+| Nervous system disorders                                            | Very Common   | Neuropathies*, Peripheral sensory neuropathy, Dysaesthesia*, Neuralgia*                                                                                                                                                                                                                                                                                                                     |
+| Nervous system disorders                                            | Common        | Motor neuropathy*, Loss of consciousness (inc syncope), Dizziness*, Dysgeusia*, Lethargy, Headache*                                                                                                                                                                                                                                                                                         |
+| Nervous system disorders                                            | Uncommon      | Tremor, Peripheral sensorimotor neuropathy, Dyskinesia*, Cerebellar coordination and balance disturbances*, Memory loss (exc dementia)*, Encephalopathy*, Posterior Reversible Encephalopathy Syndrome # , Neurotoxicity, Seizure disorders*, Post herpetic neuralgia, Speech disorder*, Restless legs syndrome, Migraine, Sciatica, Disturbance in attention, Reflexes abnormal*, Parosmia |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -523,25 +529,24 @@ Table 7:Adverse reactions in patients with multiple myeloma treated with bortezo
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                              | Incidence          | Adverse reaction                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|-------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Gastrointestinal disorders                      | Very Common Common | Nausea and vomiting symptoms*, Diarrhoea*, Constipation Gastrointestinal haemorrhage (inc mucosal)*, Dyspepsia, Stomatitis*, Abdominal distension, Oropharyngeal pain*, Abdominal pain (inc gastrointestinal and splenic pain)*, Oral                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Gastrointestinal disorders                      | Uncommon           | disorder*, Flatulence Pancreatitis (inc chronic)*, Haematemesis, Lip swelling*,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Gastrointestinal disorders                      |                    | Gastrointestinal obstruction (inc small intestinal obstruction, ileus)*, Abdominal discomfort, Oral ulceration*, Enteritis*, Gastritis*, Gingival bleeding, Gastrooesophageal reflux disease*, Colitis (inc clostridium difficile)*, Colitis ischaemic # , Gastrointestinal inflammation*, Dysphagia, Irritable bowel syndrome, Gastrointestinal disorder NOS, Tongue coated, Gastrointestinal motility disorder*, Salivary gland disorder* Pancreatitis acute, Peritonitis*, Tongue oedema*, Ascites, Oesophagitis, Cheilitis, Faecal incontinence, Anal sphincter atony, Faecaloma*, Gastrointestinal ulceration and perforation*, Gingival hypertrophy, Megacolon, Rectal discharge, Oropharyngeal blistering*, Lip pain, Periodontitis, |
-| Gastrointestinal disorders                      | Rare               | Anal fissure, Change of bowel habit, Proctalgia, Abnormal faeces                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Hepatobiliary disorders                         | Common             | Hepatic enzyme abnormality*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Hepatobiliary disorders                         | Uncommon           | Hepatotoxicity (inc liver disorder), Hepatitis*, Cholestasis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Hepatobiliary disorders                         | Rare               | Hepatic failure, Hepatomegaly, Budd-Chiari syndrome, Cytomegalovirus hepatitis, Hepatic haemorrhage, Cholelithiasis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Skin and subcutaneous tissue disorders          | Common             | Rash*, Pruritus*, Erythema, Dry skin                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Skin and subcutaneous tissue disorders          | Uncommon           | Erythema multiforme, Urticaria, Acute febrile neutrophilic dermatosis, Toxic skin eruption, Toxic epidermal necrolysis # , Stevens-Johnson syndrome # , Dermatitis*, Hair disorder*, Petechiae, Ecchymosis, Skin lesion, Purpura, Skin mass*, Psoriasis, Hyperhidrosis, Night sweats, Decubitus ulcer # , Acne*, Blister*, Pigmentation disorder*                                                                                                                                                                                                                                                                                                                                                                                           |
-| Skin and subcutaneous tissue disorders          | Rare               | Skin reaction, Jessner's lymphocytic infiltration, Palmar- plantar erythrodysaesthesia syndrome, Haemorrhage subcutaneous, Livedo reticularis, Skin induration, Papule, Photosensitivity reaction, Seborrhoea, Cold sweat, Skin disorder NOS, Erythrosis, Skin ulcer, Nail disorder                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Musculoskeletal and connective tissue disorders | Very Common        | Musculoskeletal pain*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Musculoskeletal and connective tissue disorders | Common             | Muscle spasms*, Pain in extremity, Muscular weakness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Musculoskeletal and connective tissue disorders | Uncommon           | Muscle twitching, Joint swelling, Arthritis*, Joint stiffness, Myopathies*,Sensation of heaviness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Musculoskeletal and connective tissue disorders | Rare               | Rhabdomyolysis, Temporomandibular joint syndrome, Fistula, Joint effusion, Pain in jaw, Bone disorder, Musculoskeletal and connective tissue infections and inflammations*, Synovial cyst                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Renal and urinary disorders                     | Common             | Renal impairment*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Renal and urinary disorders                     | Uncommon           | Renal failure acute, Renal failure chronic*, Urinary tract infection*, Urinary tract signs and symptoms*, Haematuria*, Urinary retention, Micturition disorder*, Proteinuria, Azotaemia, Oliguria*, Pollakisuria                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Renal and urinary disorders                     | Rare               | Bladder irritation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| System Organ Class                              | Incidence          | Adverse reaction                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|-------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Gastrointestinal disorders                      | Very Common Common | Nausea and vomiting symptoms*, Diarrhoea*, Constipation Gastrointestinal haemorrhage (inc mucosal)*, Dyspepsia, Stomatitis*, Abdominal distension, Oropharyngeal pain*, Abdominal pain (inc gastrointestinal and splenic pain)*, Oral disorder*, Flatulence                                                                                                                                                                                                                           |
+| Gastrointestinal disorders                      | Uncommon           | Pancreatitis (inc chronic)*, Haematemesis, Lip swelling*, Gastrointestinal obstruction (inc small intestinal obstruction, ileus)*, Abdominal discomfort, Oral ulceration*, Enteritis*, Gastritis*, Gingival bleeding, Gastrooesophageal reflux disease*, Colitis (inc clostridium difficile)*, Colitis ischaemic # , Gastrointestinal inflammation*, Dysphagia, Irritable bowel syndrome, Gastrointestinal disorder NOS, Tongue coated, Gastrointestinal motility disorder*, Salivary |
+| Gastrointestinal disorders                      | Rare               | Pancreatitis acute, Peritonitis*, Tongue oedema*, Ascites, Oesophagitis, Cheilitis, Faecal incontinence, Anal sphincter atony, Faecaloma*, Gastrointestinal ulceration and perforation*, Gingival hypertrophy, Megacolon, Rectal discharge, Oropharyngeal blistering*, Lip pain, Periodontitis, Anal fissure, Change of bowel habit, Proctalgia, Abnormal faeces                                                                                                                      |
+| Hepatobiliary disorders                         | Common             | Hepatic enzyme abnormality*                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Hepatobiliary disorders                         | Uncommon           | Hepatotoxicity (inc liver disorder), Hepatitis*, Cholestasis                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Hepatobiliary disorders                         | Rare               | Hepatic failure, Hepatomegaly, Budd-Chiari syndrome, Cytomegalovirus hepatitis, Hepatic haemorrhage, Cholelithiasis                                                                                                                                                                                                                                                                                                                                                                   |
+| Skin and subcutaneous tissue disorders          | Common             | Rash*, Pruritus*, Erythema, Dry skin                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Skin and subcutaneous tissue disorders          | Uncommon           | Erythema multiforme, Urticaria, Acute febrile neutrophilic dermatosis, Toxic skin eruption, Toxic epidermal necrolysis # , Stevens-Johnson syndrome # , Dermatitis*, Hair disorder*, Petechiae, Ecchymosis, Skin lesion, Purpura, Skin mass*, Psoriasis, Hyperhidrosis, Night sweats, Decubitus ulcer # , Acne*, Blister*, Pigmentation disorder*                                                                                                                                     |
+| Skin and subcutaneous tissue disorders          | Rare               | Skin reaction, Jessner's lymphocytic infiltration, Palmar- plantar erythrodysaesthesia syndrome, Haemorrhage subcutaneous, Livedo reticularis, Skin induration, Papule, Photosensitivity reaction, Seborrhoea, Cold sweat, Skin disorder NOS, Erythrosis, Skin ulcer, Nail disorder                                                                                                                                                                                                   |
+| Musculoskeletal and connective tissue disorders | Very Common        | Musculoskeletal pain*                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Musculoskeletal and connective tissue disorders | Common             | Muscle spasms*, Pain in extremity, Muscular weakness                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Musculoskeletal and connective tissue disorders | Uncommon           | Muscle twitching, Joint swelling, Arthritis*, Joint stiffness, Myopathies*,Sensation of heaviness                                                                                                                                                                                                                                                                                                                                                                                     |
+| Musculoskeletal and connective tissue disorders | Rare               | Rhabdomyolysis, Temporomandibular joint syndrome, Fistula, Joint effusion, Pain in jaw, Bone disorder, Musculoskeletal and connective tissue infections and inflammations*, Synovial cyst                                                                                                                                                                                                                                                                                             |
+| Renal and urinary disorders                     | Common             | Renal impairment*                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Renal and urinary disorders                     | Uncommon           | Renal failure acute, Renal failure chronic*, Urinary tract infection*, Urinary tract signs and symptoms*, Haematuria*, Urinary retention, Micturition disorder*, Proteinuria, Azotaemia, Oliguria*, Pollakisuria                                                                                                                                                                                                                                                                      |
+| Renal and urinary disorders                     | Rare               | Bladder irritation                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -581,33 +586,33 @@ Adverse reactions are listed below by system organ class and frequency grouping.
 
 Table 8 Adverse reactions in patients with mantle cell lymphoma treated with BzR-CAP in a clinical study
 
-| System Organ Class                    | Incidence   | Adverse reaction                                                                                                                                                                                                                                                          |
-|---------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations           | Very Common | Pneumonia*                                                                                                                                                                                                                                                                |
-| Infections and infestations           | Common      | Sepsis (inc septic shock)*, Herpes zoster (inc disseminated& ophthalmic), Herpes virus infection*, Bacterial infections*, Upper/lower respiratory tract infection*, Fungal infection*, Herpes simplex*                                                                    |
-| Infections and infestations           | Uncommon    | Hepatitis B, Infection*, Bronchopneumonia                                                                                                                                                                                                                                 |
-| Blood and lymphatic system disorders  | Very Common | Thrombocytopenia*, Febrile neutropenia, Neutropenia*, Leukopenia*, Anaemia*, Lymphopenia*                                                                                                                                                                                 |
-| Blood and lymphatic system disorders  | Uncommon    | Pancytopenia*                                                                                                                                                                                                                                                             |
-| Immune system disorders               | Common      | Hypersensitivity*                                                                                                                                                                                                                                                         |
-| Immune system disorders               | Uncommon    | Anaphylactic reaction                                                                                                                                                                                                                                                     |
-| Metabolism and nutrition disorders    | Very Common | Decreased appetite                                                                                                                                                                                                                                                        |
-| Metabolism and nutrition disorders    | Common      | Hypokalaemia*, Blood glucose abnormal*, Hyponatraemia*, Diabetes mellitus*, Fluid retention                                                                                                                                                                               |
-| Metabolism and nutrition disorders    | Uncommon    | Tumour lysis syndrome                                                                                                                                                                                                                                                     |
-| Psychiatric disorders                 | Common      | Sleep disorders and disturbances*                                                                                                                                                                                                                                         |
-| Nervous system disorders              | Very Common | Peripheral sensory neuropathy, Dysaesthesia*, Neuralgia*                                                                                                                                                                                                                  |
-| Nervous system disorders              | Common      | Neuropathies*, Motor neuropathy*, Loss of consciousness (inc syncope), Encephalopathy*, Peripheral sensorimotor neuropathy, Dizziness*, Dysgeusia*, Autonomic neuropathy                                                                                                  |
-| Nervous system disorders              | Uncommon    | Autonomic nervous system imbalance                                                                                                                                                                                                                                        |
-| Eye disorders                         | Common      | Vision abnormal*                                                                                                                                                                                                                                                          |
-| Ear and labyrinth disorders           | Common      | Dysacusis (inc tinnitus)*                                                                                                                                                                                                                                                 |
-| Ear and labyrinth disorders           | Uncommon    | Vertigo*, Hearing impaired (up to and inc deafness)                                                                                                                                                                                                                       |
-| Cardiac disorders                     | Common      | Cardiac fibrillation (inc atrial), Arrhythmia*, Cardiac failure (inc left and right ventricular)*, Myocardial ischaemia, Ventricular dysfunction*                                                                                                                         |
-| Cardiac disorders                     | Uncommon    | Cardiovascular disorder (inc cardiogenic shock)                                                                                                                                                                                                                           |
-| Vascular disorders                    | Common      | Hypertension*, Hypotension*, Orthostatic hypotension                                                                                                                                                                                                                      |
-| Respiratory, thoracic and mediastinal | Common      | Dyspnoea*, Cough*, Hiccups                                                                                                                                                                                                                                                |
-| disorders                             | Uncommon    | Acute respiratory distress syndrome, Pulmonary embolism, Pneumonitis, Pulmonary hypertension, Pulmonary oedema (inc acute)                                                                                                                                                |
-| Gastrointestinal disorders            | Very Common | Nausea and vomiting symptoms*, Diarrhoea*, Stomatitis*, Constipation                                                                                                                                                                                                      |
-| Gastrointestinal disorders            | Common      | Gastrointestinal haemorrhage (inc mucosal)*, Abdominal distension, Dyspepsia, Oropharyngeal pain*, Gastritis*, Oral ulceration*, Abdominal discomfort, Dysphagia, Gastrointestinal inflammation*, Abdominal pain (inc gastrointestinal and splenic pain)*, Oral disorder* |
-| Gastrointestinal disorders            | Uncommon    | Colitis (inc clostridium difficile)*                                                                                                                                                                                                                                      |
+| System Organ Class                   | Incidence       | Adverse reaction                                                                                                                                                                                                                                                          |
+|--------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations          | Very Common     | Pneumonia*                                                                                                                                                                                                                                                                |
+| Infections and infestations          | Common          | Sepsis (inc septic shock)*, Herpes zoster (inc disseminated& ophthalmic), Herpes virus infection*, Bacterial infections*, Upper/lower respiratory tract infection*, Fungal infection*, Herpes simplex*                                                                    |
+| Infections and infestations          | Uncommon        | Hepatitis B, Infection*, Bronchopneumonia                                                                                                                                                                                                                                 |
+| Blood and lymphatic system disorders | Very Common     | Thrombocytopenia*, Febrile neutropenia, Neutropenia*, Leukopenia*, Anaemia*, Lymphopenia*                                                                                                                                                                                 |
+| Blood and lymphatic system disorders | Uncommon        | Pancytopenia*                                                                                                                                                                                                                                                             |
+| Immune system disorders              | Common          | Hypersensitivity*                                                                                                                                                                                                                                                         |
+| Immune system disorders              | Uncommon        | Anaphylactic reaction                                                                                                                                                                                                                                                     |
+| Metabolism and nutrition disorders   | Very Common     | Decreased appetite                                                                                                                                                                                                                                                        |
+| Metabolism and nutrition disorders   | Common          | Hypokalaemia*, Blood glucose abnormal*, Hyponatraemia*, Diabetes mellitus*, Fluid retention                                                                                                                                                                               |
+| Metabolism and nutrition disorders   | Uncommon        | Tumour lysis syndrome                                                                                                                                                                                                                                                     |
+| Psychiatric disorders                | Common          | Sleep disorders and disturbances*                                                                                                                                                                                                                                         |
+| Nervous system disorders             | Very Common     | Peripheral sensory neuropathy, Dysaesthesia*, Neuralgia*                                                                                                                                                                                                                  |
+| Nervous system disorders             | Common          | Neuropathies*, Motor neuropathy*, Loss of consciousness (inc syncope), Encephalopathy*, Peripheral sensorimotor neuropathy, Dizziness*, Dysgeusia*, Autonomic neuropathy                                                                                                  |
+| Nervous system disorders             | Uncommon        | Autonomic nervous system imbalance                                                                                                                                                                                                                                        |
+| Eye disorders                        | Common          | Vision abnormal*                                                                                                                                                                                                                                                          |
+| Ear and labyrinth disorders          | Common          | Dysacusis (inc tinnitus)*                                                                                                                                                                                                                                                 |
+| Cardiac disorders                    | Uncommon Common | Vertigo*, Hearing impaired (up to and inc deafness) Cardiac fibrillation (inc atrial), Arrhythmia*, Cardiac failure (inc left and right ventricular)*, Myocardial ischaemia,                                                                                              |
+| Cardiac disorders                    |                 | Cardiovascular disorder (inc cardiogenic shock)                                                                                                                                                                                                                           |
+| Cardiac disorders                    | Uncommon        |                                                                                                                                                                                                                                                                           |
+| Vascular disorders                   | Common          | Hypertension*, Hypotension*, Orthostatic hypotension                                                                                                                                                                                                                      |
+| Respiratory, and                     | Common          | Dyspnoea*, Cough*, Hiccups                                                                                                                                                                                                                                                |
+| thoracic mediastinal disorders       | Uncommon        | Acute respiratory distress syndrome, Pulmonary embolism, Pneumonitis, Pulmonary hypertension, Pulmonary oedema (inc acute)                                                                                                                                                |
+| Gastrointestinal disorders           | Very Common     | Nausea and vomiting symptoms*, Diarrhoea*, Stomatitis*, Constipation                                                                                                                                                                                                      |
+| Gastrointestinal disorders           | Common          | Gastrointestinal haemorrhage (inc mucosal)*, Abdominal distension, Dyspepsia, Oropharyngeal pain*, Gastritis*, Oral ulceration*, Abdominal discomfort, Dysphagia, Gastrointestinal inflammation*, Abdominal pain (inc gastrointestinal and splenic pain)*, Oral disorder* |
+| Gastrointestinal disorders           | Uncommon        | Colitis (inc clostridium difficile)*                                                                                                                                                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -635,9 +640,7 @@ Antiviral prophylaxis was administered to 26% of the patients in the Bz+M+P arm.
 
 Antiviral prophylaxis was administered to 137 of 240 patients (57%) in the BzR-CAP arm. The incidence of herpes zoster among patients in the BzR-CAP arm was 10.7% for patients not administered antiviral prophylaxis compared to 3.6% for patients administered antiviral prophylaxis (see section 4.4).
 
-## Hepatitis B virus (HBV) reactivation and infection
-
-## Mantle cell lymphoma
+## Hepatitis B virus (HBV) reactivation and infection Mantle cell lymphoma
 
 HBV infection with fatal outcomes occurred in 0.8% (n=2) of patients in the non-bortezomib treatment group (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; R-CHOP) and 0.4% (n=1) of patients receiving bortezomib in combination with rituximab, cyclophosphamide, doxorubicin, and prednisone (BzR-CAP). The overall incidence of hepatitis B infections was similar in patients treated with BzR-CAP or with R-CHOP (0.8% vs 1.2% respectively).
 
@@ -670,13 +673,13 @@ In study LYM-3002 in which bortezomib was administered with rituximab, cyclophos
 
 Table 10: Incidence of peripheral neuropathy in study LYM-3002 by toxicity and treatment discontinuation due to peripheral neuropathy
 
-|                               | BzR-CAP (N=240)   | R-CHOP (N=242)   |
+|                               |   BzR-CAP (N=240) | R-CHOP (N=242)   |
 |-------------------------------|-------------------|------------------|
 | Incidence of PN (%)           |                   |                  |
-| All GradePN                   | 30                | 29               |
-|  Grade 2 PN                  | 18                | 9                |
-|  Grade 3 PN                  | 8                 | 4                |
-| Discontinuation due to PN (%) | 2                 | < 1              |
+| All GradePN                   |                30 | 29               |
+|  Grade 2 PN                  |                18 | 9                |
+|  Grade 3 PN                  |                 8 | 4                |
+| Discontinuation due to PN (%) |                 2 | < 1              |
 
 BzR-CAP=bortezomib, rituximab, cyclophosphamide, doxorubicin, and prednisone; R-CHOP= rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; PN=peripheral neuropathy
 
@@ -692,7 +695,7 @@ In the Phase III study patients who received bortezomib subcutaneously compared 
 
 Six percent of patients had an adverse local reaction to subcutaneous administration, mostly redness. Cases resolved in a median of 6 days, dose modification was required in two patients. Two (1%) of the patients had severe reactions; 1 case of pruritus and 1 case of redness.
 
-The incidence of death on treatment was 5% in the subcutaneous treatment group and 7% in the intravenous treatment group. Incidence of death from 'Progressive disease' was 18% in the subcutaneous group and 9% in the intravenous group.
+The incidence of death on treatment was 5% in the subcutaneous treatment group and 7% in the intravenous treatment group. Incidence of d eath from 'Progressive disease' was 18% in the subcutaneous group and 9% in the intravenous group.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -766,7 +769,7 @@ Table 11: Efficacy results following the final survival update to VISTA study
 | p-value d                                       | < 10 -10             | < 10 -10             |
 | Reduction in serum M-protein population g n=667 | n=336                | n=331                |
 | ≥ 90% n (%)                                     | 151 (45)             | 34 (10)              |
-| Time to first response inCR+ PR                 |                      |                      |
+| Time to first response inCR + PR                |                      |                      |
 | Median                                          | 1.4 mo               | 4.2 mo               |
 | Median a response duration                      |                      |                      |
 | CR f                                            | 24.0 mo              | 12.8 mo              |
@@ -779,9 +782,9 @@ Table 11: Efficacy results following the final survival update to VISTA study
 
 a Kaplan-Meier estimate.
 
-b Hazard ratio estimate is based on a Cox proportional-hazard model adjusted for stratification factors: β2-microglobulin, albumin, and region. A hazard ratio less than 1 indicates an advantage for VMP
+b Hazard ratio estimate is based on a Cox proportional-hazard model adjusted for stratification factors: β2 -microglobulin, albumin, and region. A hazard ratio less than 1 indicates an advantage for VMP
 
-c Nominal p-value based on the stratified log-rank test adjusted for stratification factors: β2-microglobulin, albumin, and region d p-value for Response Rate (CR+PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors
+c Nominal p-value based on the stratified log-rank test adjusted for stratification factors: β2 -microglobulin, albumin, and region d p-value for Response Rate (CR+PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors
 
 e Response population includes patients who had measurable disease at baseline f CR=Complete Response; PR=Partial Response. EBMT criteria
 
@@ -825,16 +828,17 @@ Note: An OR &gt; 1 indicates an advantage for Bz-containing induction therapy.
 
 In study MMY-3010 induction treatment with bortezomib combined with thalidomide and dexamethasone [BzTDx, n=130] was compared to thalidomide-dexamethasone [TDx, n=127]. Patients in the BzTDx group received six 4-week cycles, each consisting of bortezomib (1.3 mg/m 2 administered twice weekly days 1, 4, 8, and 11, followed by a 17-day rest period from day 12 to day 28), dexamethasone (40 mg administered orally on days 1 to 4 and days 8 to 11), and thalidomide (administered orally at 50 mg daily on days 1-14, increased to 100 mg on days 15-28 and thereafter to 200 mg daily).
 
-One single autologous stem cell transplant was received by 105 (81%) patients and 78 (61%) patients in the BzTDx and TDx groups, respectively. Patient demographic and baseline disease characteristics were similar between the treatment groups. Patients in the BzTDx and TDx groups respectively had a median age of 57 versus 56 years, 99% versus 98% patients were Caucasians, and 58% versus 54% were males. In the BzTDx group 12% of patients were cytogenetically classified as high risk versus 16% of patients in the TDx group. The median duration of treatment was 24.0 weeks and the median number of treatment cycles received was 6.0, and was consistent across treatment groups. The primary efficacy endpoints of the study were post-induction and post-transplant response rates (CR+nCR). A statistically significant difference in CR+nCR was observed in favour of the bortezomib combined with dexamethasone and thalidomide group. Secondary efficacy endpoints included Progression Free Survival and Overall Survival. Main efficacy results are presented in Table 13.
+One single autologous stem cell transplant was received by 105 (81%) patients and 78 (61%) patients in the BzTDx and TDx groups, respectively. Patient demographic and baseline disease characteristics were similar between the treatment groups. Patients in the BzTDx and TDx groups respectively had a median age of 57 versus 56 years, 99% versus 98% patients were Caucasians, and 58% versus 54% were males. In the BzTDx group 12% of patients were cytogenetically classified as high risk versus 16% of patients in the TDx group. The median duration of treatment was 24.0 weeks and the median number of treatment cycles received was 6.0, and was consistent across treatment groups.
+
+The primary efficacy endpoints of the study were post-induction and post-transplant response rates (CR+nCR). A statistically significant difference in CR+nCR was observed in favour of the bortezomib combined with dexamethasone and thalidomide group. Secondary efficacy endpoints included Progression Free Survival and Overall Survival. Main efficacy results are presented in Table 13.
 
 Table 13: Efficacy results from study MMY-3010
 
-| Endpoints                                   | BzTDx                               | TDx                                 | OR; 95% CI; P value a                                   |
-|---------------------------------------------|-------------------------------------|-------------------------------------|---------------------------------------------------------|
-| MMY-3010                                    | N=130 (ITT population)              | N=127 (ITT population)              |                                                         |
-| *RR (Post-induction) CR+nCR CR+nCR+PR %(95% | 49.2 (40.4, 58.1) 84.6 (77.2, 90.3) | 17.3 (11.2, 25.0) 61.4 (52.4, 69.9) | 4.63 (2.61, 8.22); < 0.001 a a                          |
-| CI) *RR (Post-transplant)                   |                                     |                                     | 3.46 (1.90, 6.27); < 0.001                              |
-| CR+nCR CR+nCR+PR %(95% CI)                  | 55.4 (46.4, 64.1) 77.7 (69.6, 84.5) | 34.6 (26.4, 43.6) 56.7 (47.6, 65.5) | 2.34 (1.42, 3.87); 0.001 a 2.66 (1.55, 4.57); < 0.001 a |
+| Endpoints                                        | BzTDx                               | TDx                                 | OR; 95% CI; P value a                                     |
+|--------------------------------------------------|-------------------------------------|-------------------------------------|-----------------------------------------------------------|
+| MMY-3010                                         | N=130 (ITT population)              | N=127 (ITT population)              |                                                           |
+| *RR (Post-induction) CR+nCR CR+nCR+PR %(95% CI)  | 49.2 (40.4, 58.1) 84.6 (77.2, 90.3) | 17.3 (11.2, 25.0) 61.4 (52.4, 69.9) | 4.63 (2.61, 8.22); < 0.001 a 3.46 (1.90, 6.27); < 0.001 a |
+| *RR (Post-transplant) CR+nCR CR+nCR+PR %(95% CI) | 55.4 (46.4, 64.1) 77.7 (69.6, 84.5) | 34.6 (26.4, 43.6) 56.7 (47.6, 65.5) | 2.34 (1.42, 3.87); 0.001 a 2.66 (1.55, 4.57); < 0.001 a   |
 
 CI=confidence interval; CR=complete response; nCR=near complete response; ITT=intent to treat; RR=response rate; Bz= bortezomib; BzTDx= bortezomib, thalidomide, dexamethasone; TDx=thalidomide, dexamethasone; PR=partial response; OR=odds ratio
 
@@ -913,15 +917,15 @@ Table 15: Summary of efficacy analyses comparing subcutaneous and intravenous ad
 | PR n (%)                                    | 25 (34)                      | 52 (36)                       |
 | nCR n (%)                                   | 4 (5)                        | 9 (6)                         |
 | Response rate at 8 cycles n (%) ORR (CR+PR) | 38 (52)                      | 76 (52)                       |
-| p-value a                                   | 0.0001                       | 0.0001                        |
+|                                             | 0.0001                       | 0.0001                        |
 | CR n (%)                                    | 9 (12)                       | 15 (10)                       |
 | PR n (%)                                    | 29 (40)                      | 61 (42)                       |
 | nCR n (%)                                   | 7 (10)                       | 14 (10)                       |
 | Intent to treat population b                | n=74                         | n=148                         |
 | TTP, months                                 | 9.4                          | 10.4                          |
 | (95% CI)                                    | (7.6, 10.6)                  | (8.5, 11.7)                   |
-| Hazard ratio (95% CI) c d                   | 0.839 (0.564, 1.249)         | 0.839 (0.564, 1.249)          |
-| p-value                                     | 0.38657                      | 0.38657                       |
+| Hazard ratio (95% CI) c                     | 0.839 (0.564, 1.249)         | 0.839 (0.564, 1.249)          |
+| p-value d                                   | 0.38657                      | 0.38657                       |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -955,7 +959,7 @@ The matched-pair analysis is a statistical method in which patients in the treat
 
 One hundred and twenty seven matched pairs of patients were identified. The analysis demonstrated improved ORR (CR+PR) (odds ratio 3.769; 95% CI 2.045-6.947; p &lt; 0.001), PFS (hazard ratio 0.511; 95% CI 0.309-0.845; p=0.008), TTP (hazard ratio 0.385; 95% CI 0.212-0.698; p=0.001) for bortezomib in combination with dexamethasone over bortezomib monotherapy.
 
-Limited information on bortezomib retreatment in relapsed multiple myeloma is available. Phase II study MMY-2036 (RETRIEVE), single arm, open-label study was conducted to determine the efficacy and safety of retreatment with bortezomib. One hundred and thirty patients (≥ 18 years of age) with multiple myeloma who previously had at least partial response on a bortezomib-containing regimen were retreated upon progression. At least 6 months after prior therapy, bortezomib was started at the last tolerated dose of 1.3 mg/m 2 (n=93) or ≤ 1.0 mg/m 2 (n=37) and given on days 1, 4, 8 and 11 every 3 weeks for maximum of 8 cycles either as single agent or in combination with dexamethasone
+Limited information on bortezomib retreatment in relapsed multiple myeloma is available. Phase II study MMY-2036 (RETRIEVE), single arm, open-label study was conducted to determine the efficacy and safety of retreatment with bortezomib . One hundred and thirty patients (≥ 18 years of age) with multiple myeloma who previously had at least partial response on a bortezomib-containing regimen were retreated upon progression. At least 6 months after prior therapy, bortezomib was started at the last tolerated dose of 1.3 mg/m 2 (n=93) or ≤ 1.0 mg/m 2 (n=37) and given on days 1, 4, 8 and 11 every 3 weeks for maximum of 8 cycles either as single agent or in combination with dexamethasone
 
 <div style=\"page-break-after: always\"></div>
 
@@ -965,7 +969,7 @@ The primary endpoint was best confirmed response to retreatment as assessed by E
 
 ## Clinical efficacy in previously untreated mantle cell lymphoma (MCL)
 
-Study LYM-3002 was a Phase III, randomised, open-label study comparing the efficacy and safety of the combination of bortezomib, rituximab, cyclophosphamide, doxorubicin, and prednisone (BzR-CAP; n=243) to that of rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP; n=244) in adult patients with previously untreated MCL (Stage II, III or IV). Patients in the BzR-CAP treatment arm received bortezomib (1.3 mg/m 2 ; on days 1, 4, 8, 11, rest period days 12-21), rituximab 375 mg/m 2  intravenous on day 1; cyclophosphamide 750 mg/m 2  intravenous on day 1; doxorubicin 50 mg/m 2  intravenous on day 1; and prednisone 100 mg/m 2 orally on day 1 through day 5 of the 21 day bortezomib treatment cycle. For patients with a response first documented at cycle 6, two additional treatment cycles were given.
+Study LYM-3002 was a Phase III, randomised, open-label study comparing the efficacy and safety of the combination of bortezomib, rituximab, cyclophosphamide, doxorubicin, and prednisone (BzR-CAP; n=243) to that of rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP; n=244) in adult patients with previously untreated MCL (Stage II, III or IV). Patients in the BzR-CAP treatment arm received bortezomib (1.3 mg/m 2 ; on days 1, 4, 8, 11, rest period days 12-21), rituximab 375 mg/m 2  intravenous on day 1; cyclophosphamide 750 mg/m 2 intravenous on day 1; doxorubicin 50 mg/m 2  intravenous on day 1; and prednisone 100 mg/m 2 orally on day 1 through day 5 of the 21 day bortezomib treatment cycle. For patients with a response first documented at cycle 6, two additional treatment cycles were given.
 
 The primary efficacy endpoint was progression-free survival based on Independent Review Committee (IRC) assessment. Secondary endpoints included, time to progression (TTP), time to next anti-lymphoma treatment (TNT), duration of treatment free interval (TFI), overall response rate (ORR) and complete response (CR/CRu) rate, overall survival (OS) and response duration.
 
@@ -992,7 +996,7 @@ in favour of the BzR-CAP treatment group over the R-CHOP group was observed for 
 
 ## Patients with previously treated light-chain (AL) Amyloidosis
 
-An open label non randomised Phase I/II study was conducted to determine the safety and efficacy of bortezomib in patients with previously treated light-chain (AL) Amyloidosis. No new safety concerns were observed during the study, and in particular bortezomib did not exacerbate target organ damage (heart, kidney and liver). In an exploratory efficacy analysis, a 67.3% response rate (including a 28.6% CR rate) as measured by haematologic response (M-protein) was reported in 49 evaluable patients treated with the maximum allowed doses of 1.6 mg/m 2  weekly and 1.3 mg/m 2 twice-weekly. For these dose cohorts, the combined 1-year survival rate was 88.1%.
+An open label non randomised Phase I/II study was conducted to determine the safety and efficacy of bortezomib in patients with previously treated light-chain (AL) Amyloidosis. No new safety concerns were observed during the study, and in particular bortezomib did not exacerbate target organ damage (heart, kidney and liver). In an exploratory efficacy analysis, a 67.3% response rate (including a 28.6% CR rate) as measured by haematologic response (M-protein) was reported in 49 evaluable patients treated with the maximum allowed doses of 1.6 mg/m 2 weekly and 1.3 mg/m 2 twice-weekly. For these dose cohorts, the combined 1-year survival rate was 88.1%.
 
 ## Paediatric population
 
@@ -1050,7 +1054,7 @@ analysis, clearance of bortezomib increased with increasing body surface area (B
 
 ## 5.3 Preclinical safety data
 
-Bortezomib showed genotoxic potential. Bortezomib was positive for clastogenic activity (structural chromosomal aberrations) in the in vitro chromosomal aberration assay using Chinese hamster ovary (CHO) cells at concentrations as low as 3.125 μg/mL, which was the lowest concentration evaluated. Bortezomib was not positive when tested in the in vitro mutagenicity assay (Ames assay) and in vivo micronucleus assay in mice.
+Bortezomib showed genotoxic potential. Bortezomib was positive for clastogenic activity (structural chromosomal aberrations) in the in vitro chromosomal aberration assay using Chinese hamster ovary (CHO) cells at concentrations as low as 3.125 μg/ mL, which was the lowest concentration evaluated. Bortezomib was not positive when tested in the in vitro mutagenicity assay (Ames assay) and in vivo micronucleus assay in mice.
 
 Developmental toxicity studies in the rat and rabbit have shown embryo-foetal lethality at maternally toxic doses, but no direct embryo-foetal toxicity below maternally toxic doses. Fertility studies were not performed but evaluation of reproductive tissues has been performed in the general toxicity studies. In the 6-month rat study, degenerative effects in both the testes and the ovary have been observed. It is, therefore, likely that bortezomib could have a potential effect on either male or female fertility. Peri- and postnatal development studies were not conducted.
 
@@ -1237,7 +1241,7 @@ Table 1: Recommended* posology modifications for Bortezomib Accord-related neuro
 
 ** Instrumental ADL : refers to preparing meals, shopping for groceries or clothes, using telephone, managing money, etc;
 
-- *** Self care ADL : refers to bathing, dressing and undressing, feeding self, using the toilet, taking medicinal products, and not bedridden.
+*** Self care ADL : refers to bathing, dressing and undressing, feeding self, using the toilet, taking medicinal products, and not bedridden.
 
 ## Combination therapy with pegylated liposomal doxorubicin
 
@@ -1267,15 +1271,15 @@ Dose adjustments for combination therapy for patients with progressive multiple 
 
 ## Combination therapy with melphalan and prednisone
 
-Bortezomib Accord is administered via intravenous or subcutaneous injection in combination with oral melphalan and oral prednisone as shown in Table 2. A 6-week period is considered a treatment cycle. In Cycles 1-4, Bortezomib Accord is administered twice weekly on days 1, 4, 8, 11, 22, 25, 29 and 32.
-
-In Cycles 5-9, Bortezomib Accord is administered once weekly on days 1, 8, 22 and 29. At least 72 hours should elapse between consecutive doses of Bortezomib Accord.
+Bortezomib Accord is administered via intravenous or subcutaneous injection in combination with oral melphalan and oral prednisone as shown in Table 2. A 6-week period is considered a treatment cycle. In Cycles 1-4, Bortezomib Accord is administered twice weekly on days 1, 4, 8, 11, 22, 25, 29 and 32. In Cycles 5-9, Bortezomib Accord is administered once weekly on days 1, 8, 22 and 29. At least 72 hours should elapse between consecutive doses of Bortezomib Accord.
 
 Melphalan and prednisone should both be given orally on days 1, 2, 3 and 4 of the first week of each Bortezomib Accord treatment cycle.
 
 Nine treatment cycles of this combination therapy are administered.
 
 Table 2: Recommended posology for Bortezomib Accord in combination with melphalan and prednisone
+
+Bz= Bortezomib Accord; M=melphalan, P=prednisone
 
 | Twice weekly Bortezomib Accord (cycles 1-4)   | Twice weekly Bortezomib Accord (cycles 1-4)   | Twice weekly Bortezomib Accord (cycles 1-4)   | Twice weekly Bortezomib Accord (cycles 1-4)   | Twice weekly Bortezomib Accord (cycles 1-4)   | Twice weekly Bortezomib Accord (cycles 1-4)   | Twice weekly Bortezomib Accord (cycles 1-4)   | Twice weekly Bortezomib Accord (cycles 1-4)   | Twice weekly Bortezomib Accord (cycles 1-4)   | Twice weekly Bortezomib Accord (cycles 1-4)   | Twice weekly Bortezomib Accord (cycles 1-4)   | Twice weekly Bortezomib Accord (cycles 1-4)   |
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
@@ -1287,14 +1291,12 @@ Table 2: Recommended posology for Bortezomib Accord in combination with melphala
 | Bz (1.3 mg/m 2)                               | Day 1                                         | --                                            | --                                            | --                                            | Day 8                                         | rest period                                   | Day 22                                        | Day 22                                        | Day 29                                        | Day 29                                        | rest period                                   |
 | M(9 mg/m 2 ) P (60 mg/m 2)                    | Day 1                                         | Day 2                                         | Day 3                                         | Day 4                                         | --                                            | rest period                                   | --                                            | --                                            |                                               |                                               | rest period                                   |
 
-Bz= Bortezomib Accord; M=melphalan, P=prednisone
-
 Dose adjustments during treatment and re-initiation of treatment for combination therapy with melphalan and prednisone
 
 Prior to initiating a new cycle of therapy:
 
--  Platelet counts should be ≥ 70 x 10 9 /l and the absolute neutrophils count should be ≥ 1.0 x 10 9 /l
--  Non-haematological toxicities should have resolved to Grade 1 or baseline
+- Platelet counts should be ≥ 70 x 10 9 /l and the absolute neutrophils count should be ≥ 1.0 x 10 9 /l
+- Non-haematological toxicities should have resolved to Grade 1 or baseline
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1303,14 +1305,14 @@ Table 3: Posology modifications during subsequent cycles of Bortezomib Accord th
 | Toxicity                                                                                                                                              | Posology modification or delay                                                                                                                                                                                                                                                                                                                                                                 |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Haematological toxicity during a cycle                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                |
-|  If prolonged Grade 4 neutropenia or thrombocytopenia, or thrombocytopenia with bleeding is observed in the previous cycle                           | Consider reduction of the melphalan dose by 25% in the next cycle.                                                                                                                                                                                                                                                                                                                             |
-|  If platelet counts ≤ 30 x 10 9 /l or ANC ≤ 0.75 x 10 9 /l on a Bortezomib Accord dosing day (other than day 1)                                      | Bortezomib Accord therapy should be withheld                                                                                                                                                                                                                                                                                                                                                   |
-|  If several Bortezomib Accord doses in a cycle are withheld (≥ 3 doses during twice weekly administration or ≥ 2 doses during weekly administration) | Bortezomib Accord dose should be reduced by 1 dose level (from 1.3 mg/m 2 to 1 mg/m 2 , or from 1 mg/m 2 to 0.7 mg/m 2 )                                                                                                                                                                                                                                                                       |
+| • If prolonged Grade 4 neutropenia or thrombocytopenia, or thrombocytopenia with bleeding is observed in the previous cycle                           | Consider reduction of the melphalan dose by 25% in the next cycle.                                                                                                                                                                                                                                                                                                                             |
+| • If platelet counts ≤ 30 x 10 9 /l or ANC ≤ 0.75 x 10 9 /l on a Bortezomib Accord dosing day (other than day 1)                                      | Bortezomib Accord therapy should be withheld                                                                                                                                                                                                                                                                                                                                                   |
+| • If several Bortezomib Accord doses in a cycle are withheld (≥ 3 doses during twice weekly administration or ≥ 2 doses during weekly administration) | Bortezomib Accord dose should be reduced by 1 dose level (from 1.3 mg/m 2 to 1 mg/m 2 , or from 1 mg/m 2 to 0.7 mg/m 2 )                                                                                                                                                                                                                                                                       |
 | Grade ≥ 3 non-haematological toxicities                                                                                                               | Bortezomib Accord therapy should be withheld until symptoms of the toxicity have resolved to Grade 1 or baseline. Then, Bortezomib Accord may be reinitiated with one dose level reduction (from 1.3 mg/m 2 to 1 mg/m 2 , or from 1 mg/m 2 to 0.7 mg/m 2 ). For bortezomib-related neuropathic pain and/or peripheral neuropathy, hold and/or modify Bortezomib Accord as outlined in Table 1. |
 
 For additional information concerning melphalan and prednisone, see the corresponding Summary of Product Characteristics.
 
-## Posology for previously untreated multiple myeloma patients eligible for haematopoietic stem cell transplantation (induction therapy)
+Posology for previously untreated multiple myeloma patients eligible for haematopoietic stem cell transplantation (induction therapy)
 
 ## Combination therapy with dexamethasone
 
@@ -1370,12 +1372,12 @@ Prednisone is administered orally at 100 mg/m 2 on days 1, 2, 3, 4 and 5 of each
 
 Dose adjustments during treatment for patients with previously untreated mantle cell lymphoma Prior to initiating a new cycle of therapy:
 
--  Platelet counts should be ≥ 100,000 cells/μL and the absolute neutrophils count (ANC) should be ≥ 1,500 cells/μL
--  Platelet counts should be ≥ 75,000 cells/μL in patients with bone marrow infiltration or splenic sequestration
--  Haemoglobin ≥ 8 g/dL
--  Non-haematological toxicities should have resolved to Grade 1 or baseline.
+- Platelet counts should be ≥ 100,000 cells/μL and the absolute neutrophils count (ANC) should be ≥ 1,500 cells/μL
+- Platelet counts should be ≥ 75,000 cells/μL in patients with bone marrow infiltration or splenic sequestration
+- Haemoglobin ≥ 8 g/dL
+- Non-haematological toxicities should have resolved to Grade 1 or baseline.
 
-Bortezomib treatment must be withheld at the onset of any ≥ Grade 3 bortezomib-related non-haematological toxicities (excluding neuropathy) or ≥ Grade 3 haematological toxicities (see also section 4.4). For dose adjustments, see Table 5 below.
+Bortezomib treatment must be withheld at the onset of any ≥ Grade 3 bortezomib-related nonhaematological toxicities (excluding neuropathy) or ≥ Grade 3 haematological toxicities (see also section 4.4). For dose adjustments, see Table 5 below.
 
 Granulocyte colony stimulating factors may be administered for haematologic toxicity according to local standard practice. Prophylactic use of granulocyte colony stimulating factors should be
 
@@ -1387,9 +1389,9 @@ Table 5: Dose adjustments during treatment for patients with previously untreate
 
 | Toxicity                                                                                                                         | Posology modification or delay                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Haematological toxicity                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|  ≥ Grade 3 neutropenia with fever, Grade 4 neutropenia lasting more than 7 days, a platelet count < 10,000 cells/μL             | Bortezomib Accord therapy should be withheld for up to 2 weeks until the patient has an ANC ≥ 750 cells/μL and a platelet count ≥ 25,000 cells/μL.  If, after Bortezomib Accord has been held, the toxicity does not resolve, as defined above, then Bortezomib Accord must be discontinued.  If toxicity resolves i.e. patient has an ANC ≥ 750 cells/μL and a platelet count ≥ 25,000 cells/μL, Bortezomib Accord may be reinitiated at a dose reduced by one dose level (from 1.3 mg/m 2 to 1 mg/m 2 , or from 1 mg/m 2 to 0.7 mg/m 2 ). |
-|  If platelet counts < 25,000 cells/μL. or ANC < 750 cells/μL on a Bortezomib Accord dosing day (other than Day 1 of each cycle) | Bortezomib Accord therapy should be withheld                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Haematological toxicity                                                                                                          | Haematological toxicity                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| • ≥ Grade 3 neutropenia with fever, Grade 4 neutropenia lasting more than 7 days, a platelet count < 10,000 cells/μL             | Bortezomib Accord therapy should be withheld for up to 2 weeks until the patient has an ANC ≥ 750 cells/μL and a platelet count ≥ 25,000 cells/μL. • If, after Bortezomib Accord has been held, the toxicity does not resolve, as defined above, then Bortezomib Accord must be discontinued. • If toxicity resolves i.e. patient has an ANC ≥ 750 cells/μL and a platelet count ≥ 25,000 cells/μL, Bortezomib Accord may be reinitiated at a dose reduced by one dose level (from 1.3 mg/m 2 to 1 mg/m 2 , or from 1 mg/m 2 to 0.7 mg/m 2 ). |
+| • If platelet counts < 25,000 cells/μL. or ANC < 750 cells/μL on a Bortezomib Accord dosing day (other than Day 1 of each cycle) | Bortezomib Accord therapy should be withheld                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Grade ≥ 3 non-haematological toxicities considered to be related to Bortezomib Accord                                            | Bortezomib Accord therapy should be withheld until symptoms of the toxicity have resolved to Grade 2 or better. Then, Bortezomib Accord may be reinitiated at a dose reduced by one dose level (from 1.3 mg/m 2 to 1 mg/m 2 , or from 1 mg/m 2 to 0.7 mg/m 2 ). For bortezomib-related neuropathic pain and/or peripheral neuropathy, hold and/or modify Bortezomib Accord as outlined in Table 1.                                                                                                                                            |
 
 In addition, when bortezomib is given in combination with other chemotherapeutic medicinal products, appropriate dose reductions for these medicinal products should be considered in the event of toxicities, according to the recommendations in the respective Summary of Product Characteristics.
@@ -1404,11 +1406,11 @@ There are no studies on the use of bortezomib in elderly patients with previousl
 
 Therefore no dose recommendations can be made in this population.
 
-In a study in previously untreated mantle cell lymphoma patients, 42.9% and 10.4% of patients exposed to bortezomib were in the range 65-74 years and ≥ 75 years of age, respectively. In patients aged ≥ 75 years, both regimens, BzR-CAP as well as R-CHOP, were less tolerated (see section 4.8).
+In a study in previously untreated mantle cell lymphoma patients, 42.9% and 10.4% of patients exposed to bortezomib were in the range 6574 years and ≥ 75 years of age, respectively. In patients aged ≥ 75 years, both regimens, BzR-CAP as well as R-CHOP, were less tolerated (see section 4.8).
 
 ## Hepatic impairment
 
-Patients with mild hepatic impairment do not require a dose adjustment and should be treated per the recommended dose. Patients with moderate or severe hepatic impairment should be started on Bortezomib Accord at a reduced dose of 0.7 mg/m 2  per injection during the first treatment cycle, and a subsequent dose escalation to 1.0 mg/m 2 or further dose reduction to 0.5 mg/m 2  may be considered based on patient tolerability (see Table 6 and sections 4.4 and 5.2).
+Patients with mild hepatic impairment do not require a dose adjustment and should be treated per the recommended dose. Patients with moderate or severe hepatic impairment should be started on Bortezomib Accord at a reduced dose of 0.7 mg/m 2 per injection during the first treatment cycle, and a subsequent dose escalation to 1.0 mg/m 2 or further dose reduction to 0.5 mg/m 2 may be considered based on patient tolerability (see Table 6 and sections 4.4 and 5.2).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1416,8 +1418,8 @@ Table 6: Recommended starting dose modification for Bortezomib Accord in patient
 
 | Grade of hepatic impairment*   | Bilirubin level                 | SGOT (AST) levels   | Modification of starting dose                                                                                                                                                                           |
 |--------------------------------|---------------------------------|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Mild                           | ≤ 1.0 x ULN > 1.0 x  1.5 x ULN | > ULN Any           | None None                                                                                                                                                                                               |
-| Moderate                       | > 1.5 x  3 x ULN               | Any                 | Reduce Bortezomib Accord to 0.7 mg/m 2 in the first treatment cycle. Consider dose escalation to 1.0 mg/m 2 or further dose reduction to 0.5 mg/m 2 in subsequent cycles based on patient tolerability. |
+| Mild                           | ≤ 1.0 x ULN > 1.0 x - 1.5 x ULN | > ULN Any           | None None                                                                                                                                                                                               |
+| Moderate                       | > 1.5 x - 3 x ULN               | Any                 | Reduce Bortezomib Accord to 0.7 mg/m 2 in the first treatment cycle. Consider dose escalation to 1.0 mg/m 2 or further dose reduction to 0.5 mg/m 2 in subsequent cycles based on patient tolerability. |
 | Severe                         | > 3 x ULN                       | Any                 |                                                                                                                                                                                                         |
 
 ## Renal impairment
@@ -1642,26 +1644,26 @@ Table 7:Adverse reactions in patients with multiple myeloma treated with bortezo
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                                  | Incidence       | Adverse reaction                                                                                                                                                                                                                                                                                                                                                                            |
-|---------------------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Rare            | Neoplasm malignant, Leukaemia plasmacytic, Renal cell carcinoma, Mass, Mycosis fungoides, Neoplasm benign*                                                                                                                                                                                                                                                                                  |
-| Blood and lymphatic system disorders                                | Very Common     | Thrombocytopenia*, Neutropenia*, Anaemia*                                                                                                                                                                                                                                                                                                                                                   |
-| Blood and lymphatic system disorders                                | Common          | Leukopenia*, Lymphopenia*                                                                                                                                                                                                                                                                                                                                                                   |
-| Blood and lymphatic system disorders                                | Uncommon        | Pancytopenia*, Febrile neutropenia, Coagulopathy*, Leukocytosis*, Lymphadenopathy, Haemolytic anaemia #                                                                                                                                                                                                                                                                                     |
-| Blood and lymphatic system disorders                                | Rare            | Disseminated intravascular coagulation, Thrombocytosis*, Hyperviscosity syndrome, Platelet disorder NOS, Thrombotic microangiopathy (inc thrombocytopenic purpura) # , Blood disorder NOS, Haemorrhagic diathesis, Lymphocytic infiltration                                                                                                                                                 |
-| Immune system disorders                                             | Uncommon        | Angioedema # , Hypersensitivity*                                                                                                                                                                                                                                                                                                                                                            |
-| Immune system disorders                                             | Rare            | Anaphylactic shock, Amyloidosis, Type III immune complex mediated reaction                                                                                                                                                                                                                                                                                                                  |
-| Endocrine disorders                                                 | Uncommon        | Cushing's syndrome*, Hyperthyroidism*, Inappropriate antidiuretic hormone secretion                                                                                                                                                                                                                                                                                                         |
-| Endocrine disorders                                                 | Rare            | Hypothyroidism                                                                                                                                                                                                                                                                                                                                                                              |
-| Metabolism and nutrition disorders                                  | Very Common     | Decreased appetite                                                                                                                                                                                                                                                                                                                                                                          |
-| Metabolism and nutrition disorders                                  | Common Uncommon | Dehydration, Hypokalaemia*, Hyponatraemia*, Blood glucose abnormal*, Hypocalcaemia*, Enzyme abnormality* Tumour lysis syndrome, Failure to thrive*, Hypomagnesaemia*, Hypophosphataemia*, Hyperkalaemia*,                                                                                                                                                                                   |
-| Metabolism and nutrition disorders                                  | Rare            | Diabetes mellitus*, Fluid retention Hypermagnesaemia*, Acidosis, Electrolyte imbalance*, Fluid overload, Hypochloraemia*, Hypovolaemia, Hyperchloraemia*, Hyperphosphataemia*, Metabolic disorder, Vitamin B complex deficiency, Vitamin B12 deficiency, Gout, Increased appetite, Alcohol intolerance                                                                                      |
-| Psychiatric disorders                                               | Common          | Mood disorders and disturbances*, Anxiety disorder*, Sleep disorders and disturbances*                                                                                                                                                                                                                                                                                                      |
-| Psychiatric disorders                                               | Uncommon        | Mental disorder*, Hallucination*, Psychotic disorder*, Confusion*, Restlessness                                                                                                                                                                                                                                                                                                             |
-| Psychiatric disorders                                               | Rare            | Suicidal ideation*, Adjustment disorder, Delirium, Libido decreased                                                                                                                                                                                                                                                                                                                         |
-| Nervous system disorders                                            | Very Common     | Neuropathies*, Peripheral sensory neuropathy, Dysaesthesia*, Neuralgia*                                                                                                                                                                                                                                                                                                                     |
-| Nervous system disorders                                            | Common          | Motor neuropathy*, Loss of consciousness (inc syncope), Dizziness*, Dysgeusia*, Lethargy, Headache*                                                                                                                                                                                                                                                                                         |
-| Nervous system disorders                                            | Uncommon        | Tremor, Peripheral sensorimotor neuropathy, Dyskinesia*, Cerebellar coordination and balance disturbances*, Memory loss (exc dementia)*, Encephalopathy*, Posterior Reversible Encephalopathy Syndrome # , Neurotoxicity, Seizure disorders*, Post herpetic neuralgia, Speech disorder*, Restless legs syndrome, Migraine, Sciatica, Disturbance in attention, Reflexes abnormal*, Parosmia |
+| System Organ Class                                                  | Incidence     | Adverse reaction                                                                                                                                                                                                                                                                                                                                                                            |
+|---------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Rare          | Neoplasm malignant, Leukaemia plasmacytic, Renal cell carcinoma, Mass, Mycosis fungoides, Neoplasm benign*                                                                                                                                                                                                                                                                                  |
+| Blood and lymphatic system disorders                                | Very Common   | Thrombocytopenia*, Neutropenia*, Anaemia*                                                                                                                                                                                                                                                                                                                                                   |
+| Blood and lymphatic system disorders                                | Common        | Leukopenia*, Lymphopenia*                                                                                                                                                                                                                                                                                                                                                                   |
+| Blood and lymphatic system disorders                                | Uncommon      | Pancytopenia*, Febrile neutropenia, Coagulopathy*, Leukocytosis*, Lymphadenopathy, Haemolytic anaemia #                                                                                                                                                                                                                                                                                     |
+| Blood and lymphatic system disorders                                | Rare          | Disseminated intravascular coagulation, Thrombocytosis*, Hyperviscosity syndrome, Platelet disorder NOS, Thrombotic microangiopathy (inc thrombocytopenic purpura) # , Blood disorder NOS, Haemorrhagic diathesis, Lymphocytic infiltration                                                                                                                                                 |
+| Immune system disorders                                             | Uncommon      | Angioedema # , Hypersensitivity*                                                                                                                                                                                                                                                                                                                                                            |
+| Immune system disorders                                             | Rare          | Anaphylactic shock, Amyloidosis, Type III immune complex mediated reaction                                                                                                                                                                                                                                                                                                                  |
+| Endocrine disorders                                                 | Uncommon      | Cushing's syndrome*, Hyperthyroidism*, Inappropriate antidiuretic hormone secretion                                                                                                                                                                                                                                                                                                         |
+| Endocrine disorders                                                 | Rare          | Hypothyroidism                                                                                                                                                                                                                                                                                                                                                                              |
+| Metabolism and nutrition disorders                                  | Very Common   | Decreased appetite                                                                                                                                                                                                                                                                                                                                                                          |
+| Metabolism and nutrition disorders                                  | Common        | Dehydration, Hypokalaemia*, Hyponatraemia*, Blood glucose abnormal*, Hypocalcaemia*, Enzyme abnormality* Tumour lysis syndrome, Failure to thrive*,                                                                                                                                                                                                                                         |
+| Metabolism and nutrition disorders                                  | Uncommon Rare | Hypomagnesaemia*, Hypophosphataemia*, Hyperkalaemia*, Hypercalcaemia*, Hypernatraemia*, Uric acid abnormal*, Diabetes mellitus*, Fluid retention Hypermagnesaemia*, Acidosis, Electrolyte imbalance*, Fluid overload, Hypochloraemia*, Hypovolaemia, Hyperchloraemia*, Hyperphosphataemia*, Metabolic                                                                                       |
+| Psychiatric disorders                                               | Common        | Mood disorders and disturbances*, Anxiety disorder*, Sleep disorders and disturbances*                                                                                                                                                                                                                                                                                                      |
+| Psychiatric disorders                                               | Uncommon      | Mental disorder*, Hallucination*, Psychotic disorder*, Confusion*, Restlessness                                                                                                                                                                                                                                                                                                             |
+| Psychiatric disorders                                               | Rare          | Suicidal ideation*, Adjustment disorder, Delirium, Libido decreased                                                                                                                                                                                                                                                                                                                         |
+| Nervous system disorders                                            | Very Common   | Neuropathies*, Peripheral sensory neuropathy, Dysaesthesia*, Neuralgia*                                                                                                                                                                                                                                                                                                                     |
+| Nervous system disorders                                            | Common        | Motor neuropathy*, Loss of consciousness (inc syncope), Dizziness*, Dysgeusia*, Lethargy, Headache*                                                                                                                                                                                                                                                                                         |
+| Nervous system disorders                                            | Uncommon      | Tremor, Peripheral sensorimotor neuropathy, Dyskinesia*, Cerebellar coordination and balance disturbances*, Memory loss (exc dementia)*, Encephalopathy*, Posterior Reversible Encephalopathy Syndrome # , Neurotoxicity, Seizure disorders*, Post herpetic neuralgia, Speech disorder*, Restless legs syndrome, Migraine, Sciatica, Disturbance in attention, Reflexes abnormal*, Parosmia |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1685,25 +1687,24 @@ Table 7:Adverse reactions in patients with multiple myeloma treated with bortezo
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                              | Incidence          | Adverse reaction                                                                                                                                                                                                                                                                                                                                  |
-|-------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Gastrointestinal disorders                      | Very Common Common | Nausea and vomiting symptoms*, Diarrhoea*, Constipation Gastrointestinal haemorrhage (inc mucosal)*, Dyspepsia, Stomatitis*, Abdominal distension, Oropharyngeal pain*, Abdominal pain (inc gastrointestinal and splenic pain)*, Oral                                                                                                             |
-| Gastrointestinal disorders                      | Uncommon           | disorder*, Flatulence Pancreatitis (inc chronic)*, Haematemesis, Lip swelling*, Gastrointestinal obstruction (inc small intestinal obstruction, ileus)*, Abdominal discomfort, Oral ulceration*, Enteritis*, Gastritis*, Gingival bleeding, Gastrooesophageal reflux disease*, Colitis (inc clostridium difficile)*, Colitis                      |
-| Gastrointestinal disorders                      | Rare               | Pancreatitis acute, Peritonitis*, Tongue oedema*, Ascites, Cheilitis, Faecal incontinence, Anal sphincter Faecaloma*, Gastrointestinal ulceration and Gingival hypertrophy, Megacolon, Rectal Oropharyngeal blistering*, Lip pain, Periodontitis, fissure, Change of bowel habit, Proctalgia, Abnormal faeces                                     |
-| Gastrointestinal disorders                      |                    | Oesophagitis, atony, perforation*, discharge, Anal                                                                                                                                                                                                                                                                                                |
-| Hepatobiliary disorders                         | Common             | Hepatic enzyme abnormality*                                                                                                                                                                                                                                                                                                                       |
-| Hepatobiliary disorders                         | Uncommon           | Hepatotoxicity (inc liver disorder), Hepatitis*, Cholestasis                                                                                                                                                                                                                                                                                      |
-| Hepatobiliary disorders                         | Rare               | Hepatic failure, Hepatomegaly, Budd-Chiari syndrome, Cytomegalovirus hepatitis, Hepatic haemorrhage, Cholelithiasis                                                                                                                                                                                                                               |
-| Skin and subcutaneous tissue disorders          | Common             | Rash*, Pruritus*, Erythema, Dry skin                                                                                                                                                                                                                                                                                                              |
-| Skin and subcutaneous tissue disorders          | Uncommon           | Erythema multiforme, Urticaria, Acute febrile neutrophilic dermatosis, Toxic skin eruption, Toxic epidermal necrolysis # , Stevens-Johnson syndrome # , Dermatitis*, Hair disorder*, Petechiae, Ecchymosis, Skin lesion, Purpura, Skin mass*, Psoriasis, Hyperhidrosis, Night sweats, Decubitus ulcer # , Acne*, Blister*, Pigmentation disorder* |
-| Skin and subcutaneous tissue disorders          | Rare               | Skin reaction, Jessner's lymphocytic infiltration, Palmar- plantar erythrodysaesthesia syndrome, Haemorrhage subcutaneous, Livedo reticularis, Skin induration, Papule, Photosensitivity reaction, Seborrhoea, Cold sweat, Skin disorder NOS, Erythrosis, Skin ulcer, Nail disorder                                                               |
-| Musculoskeletal and connective tissue disorders | Very Common        | Musculoskeletal pain*                                                                                                                                                                                                                                                                                                                             |
-| Musculoskeletal and connective tissue disorders | Common             | Muscle spasms*, Pain in extremity, Muscular weakness                                                                                                                                                                                                                                                                                              |
-| Musculoskeletal and connective tissue disorders | Uncommon           | Muscle twitching, Joint swelling, Arthritis*, Joint stiffness, Myopathies*,Sensation of heaviness                                                                                                                                                                                                                                                 |
-| Musculoskeletal and connective tissue disorders | Rare               | Rhabdomyolysis, Temporomandibular joint syndrome, Fistula, Joint effusion, Pain in jaw, Bone disorder, Musculoskeletal and connective tissue infections and inflammations*, Synovial cyst                                                                                                                                                         |
-| Renal and urinary disorders                     | Common             | Renal impairment*                                                                                                                                                                                                                                                                                                                                 |
-| Renal and urinary disorders                     | Uncommon           | Renal failure acute, Renal failure chronic*, Urinary tract infection*, Urinary tract signs and symptoms*, Haematuria*, Urinary retention, Micturition disorder*, Proteinuria, Azotaemia, Oliguria*, Pollakisuria                                                                                                                                  |
-| Renal and urinary disorders                     | Rare               | Bladder irritation                                                                                                                                                                                                                                                                                                                                |
+| System Organ Class                              | Incidence          | Adverse reaction                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|-------------------------------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Gastrointestinal disorders                      | Very Common Common | Nausea and vomiting symptoms*, Diarrhoea*, Constipation Gastrointestinal haemorrhage (inc mucosal)*, Dyspepsia, Stomatitis*, Abdominal distension, Oropharyngeal pain*, Abdominal pain (inc gastrointestinal and splenic pain)*, Oral disorder*, Flatulence                                                                                                                                                                                                                                           |
+| Gastrointestinal disorders                      | Uncommon           | Pancreatitis (inc chronic)*, Haematemesis, Lip swelling*, Gastrointestinal obstruction (inc small intestinal obstruction, ileus)*, Abdominal discomfort, Oral ulceration*, Enteritis*, Gastritis*, Gingival bleeding, Gastrooesophageal reflux disease*, Colitis (inc clostridium difficile)*, Colitis ischaemic # , Gastrointestinal inflammation*, Dysphagia, Irritable bowel syndrome, Gastrointestinal disorder NOS, Tongue coated, Gastrointestinal motility disorder*, Salivary gland disorder* |
+| Gastrointestinal disorders                      | Rare               | Pancreatitis acute, Peritonitis*, Tongue oedema*, Ascites, Oesophagitis, Cheilitis, Faecal incontinence, Anal sphincter atony, Faecaloma*, Gastrointestinal ulceration and perforation*, Gingival hypertrophy, Megacolon, Rectal discharge, Oropharyngeal blistering*, Lip pain, Periodontitis, Anal fissure, Change of bowel habit, Proctalgia, Abnormal faeces                                                                                                                                      |
+| Hepatobiliary disorders                         | Common             | Hepatic enzyme abnormality*                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Hepatobiliary disorders                         | Uncommon           | Hepatotoxicity (inc liver disorder), Hepatitis*, Cholestasis                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Hepatobiliary disorders                         | Rare               | Hepatic failure, Hepatomegaly, Budd-Chiari syndrome, Cytomegalovirus hepatitis, Hepatic haemorrhage, Cholelithiasis                                                                                                                                                                                                                                                                                                                                                                                   |
+| Skin and subcutaneous tissue disorders          | Common             | Rash*, Pruritus*, Erythema, Dry skin                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Skin and subcutaneous tissue disorders          | Uncommon           | Erythema multiforme, Urticaria, Acute febrile neutrophilic dermatosis, Toxic skin eruption, Toxic epidermal necrolysis # , Stevens-Johnson syndrome # , Dermatitis*, Hair disorder*, Petechiae, Ecchymosis, Skin lesion, Purpura, Skin mass*, Psoriasis, Hyperhidrosis, Night sweats, Decubitus ulcer # , Acne*, Blister*, Pigmentation disorder*                                                                                                                                                     |
+| Skin and subcutaneous tissue disorders          | Rare               | Skin reaction, Jessner's lymphocytic infiltration, Palmar- plantar erythrodysaesthesia syndrome, Haemorrhage subcutaneous, Livedo reticularis, Skin induration, Papule, Photosensitivity reaction, Seborrhoea, Cold sweat, Skin disorder NOS, Erythrosis, Skin ulcer, Nail disorder                                                                                                                                                                                                                   |
+| Musculoskeletal and connective tissue disorders | Very Common        | Musculoskeletal pain*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Musculoskeletal and connective tissue disorders | Common             | Muscle spasms*, Pain in extremity, Muscular weakness                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Musculoskeletal and connective tissue disorders | Uncommon           | Muscle twitching, Joint swelling, Arthritis*, Joint stiffness, Myopathies*,Sensation of heaviness                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Musculoskeletal and connective tissue disorders | Rare               | Rhabdomyolysis, Temporomandibular joint syndrome, Fistula, Joint effusion, Pain in jaw, Bone disorder, Musculoskeletal and connective tissue infections and inflammations*, Synovial cyst                                                                                                                                                                                                                                                                                                             |
+| Renal and urinary disorders                     | Common             | Renal impairment*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Renal and urinary disorders                     | Uncommon           | Renal failure acute, Renal failure chronic*, Urinary tract infection*, Urinary tract signs and symptoms*, Haematuria*, Urinary retention, Micturition disorder*, Proteinuria, Azotaemia, Oliguria*, Pollakisuria                                                                                                                                                                                                                                                                                      |
+| Renal and urinary disorders                     | Rare               | Bladder irritation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1743,33 +1744,33 @@ Adverse reactions are listed below by system organ class and frequency grouping.
 
 Table 8 Adverse reactions in patients with mantle cell lymphoma treated with BzR-CAP in a clinical study
 
-| System Organ Class                    | Incidence   | Adverse reaction                                                                                                                                                                                                                                                          |
-|---------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations           | Very Common | Pneumonia*                                                                                                                                                                                                                                                                |
-| Infections and infestations           | Common      | Sepsis (inc septic shock)*, Herpes zoster (inc disseminated& ophthalmic), Herpes virus infection*, Bacterial infections*, Upper/lower respiratory tract infection*, Fungal infection*, Herpes simplex*                                                                    |
-| Infections and infestations           | Uncommon    | Hepatitis B, Infection*, Bronchopneumonia                                                                                                                                                                                                                                 |
-| Blood and lymphatic system disorders  | Very Common | Thrombocytopenia*, Febrile neutropenia, Neutropenia*, Leukopenia*, Anaemia*, Lymphopenia*                                                                                                                                                                                 |
-| Blood and lymphatic system disorders  | Uncommon    | Pancytopenia*                                                                                                                                                                                                                                                             |
-| Immune system disorders               | Common      | Hypersensitivity*                                                                                                                                                                                                                                                         |
-| Immune system disorders               | Uncommon    | Anaphylactic reaction                                                                                                                                                                                                                                                     |
-| Metabolism and nutrition disorders    | Very Common | Decreased appetite                                                                                                                                                                                                                                                        |
-| Metabolism and nutrition disorders    | Common      | Hypokalaemia*, Blood glucose abnormal*, Hyponatraemia*, Diabetes mellitus*, Fluid retention                                                                                                                                                                               |
-| Metabolism and nutrition disorders    | Uncommon    | Tumour lysis syndrome                                                                                                                                                                                                                                                     |
-| Psychiatric disorders                 | Common      | Sleep disorders and disturbances*                                                                                                                                                                                                                                         |
-| Nervous system disorders              | Very Common | Peripheral sensory neuropathy, Dysaesthesia*, Neuralgia*                                                                                                                                                                                                                  |
-| Nervous system disorders              | Common      | Neuropathies*, Motor neuropathy*, Loss of consciousness (inc syncope), Encephalopathy*, Peripheral sensorimotor neuropathy, Dizziness*, Dysgeusia*, Autonomic neuropathy                                                                                                  |
-| Nervous system disorders              | Uncommon    | Autonomic nervous system imbalance                                                                                                                                                                                                                                        |
-| Eye disorders                         | Common      | Vision abnormal*                                                                                                                                                                                                                                                          |
-| Ear and labyrinth disorders           | Common      | Dysacusis (inc tinnitus)*                                                                                                                                                                                                                                                 |
-| Ear and labyrinth disorders           | Uncommon    | Vertigo*, Hearing impaired (up to and inc deafness)                                                                                                                                                                                                                       |
-| Cardiac disorders                     | Common      | Cardiac fibrillation (inc atrial), Arrhythmia*, Cardiac failure (inc left and right ventricular)*, Myocardial ischaemia, Ventricular dysfunction*                                                                                                                         |
-| Cardiac disorders                     | Uncommon    | Cardiovascular disorder (inc cardiogenic shock)                                                                                                                                                                                                                           |
-| Vascular disorders                    | Common      | Hypertension*, Hypotension*, Orthostatic hypotension                                                                                                                                                                                                                      |
-| Respiratory, thoracic and mediastinal | Common      | Dyspnoea*, Cough*, Hiccups                                                                                                                                                                                                                                                |
-| disorders                             | Uncommon    | Acute respiratory distress syndrome, Pulmonary embolism, Pneumonitis, Pulmonary hypertension, Pulmonary oedema (inc acute)                                                                                                                                                |
-| Gastrointestinal disorders            | Very Common | Nausea and vomiting symptoms*, Diarrhoea*, Stomatitis*, Constipation                                                                                                                                                                                                      |
-| Gastrointestinal disorders            | Common      | Gastrointestinal haemorrhage (inc mucosal)*, Abdominal distension, Dyspepsia, Oropharyngeal pain*, Gastritis*, Oral ulceration*, Abdominal discomfort, Dysphagia, Gastrointestinal inflammation*, Abdominal pain (inc gastrointestinal and splenic pain)*, Oral disorder* |
-| Gastrointestinal disorders            | Uncommon    | Colitis (inc clostridium difficile)*                                                                                                                                                                                                                                      |
+| System Organ Class                     | Incidence   | Adverse reaction                                                                                                                                                                                                                                                          |
+|----------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations            | Very Common | Pneumonia*                                                                                                                                                                                                                                                                |
+| Infections and infestations            | Common      | Sepsis (inc septic shock)*, Herpes zoster (inc disseminated& ophthalmic), Herpes virus infection*, Bacterial infections*, Upper/lower respiratory tract infection*, Fungal infection*, Herpes simplex*                                                                    |
+| Infections and infestations            | Uncommon    | Hepatitis B, Infection*, Bronchopneumonia                                                                                                                                                                                                                                 |
+| Blood and lymphatic system disorders   | Very Common | Thrombocytopenia*, Febrile neutropenia, Neutropenia*, Leukopenia*, Anaemia*, Lymphopenia*                                                                                                                                                                                 |
+| Blood and lymphatic system disorders   | Uncommon    | Pancytopenia*                                                                                                                                                                                                                                                             |
+| Immune system disorders Metabolism and | Common      | Hypersensitivity*                                                                                                                                                                                                                                                         |
+| Immune system disorders Metabolism and | Uncommon    | Anaphylactic reaction                                                                                                                                                                                                                                                     |
+| nutrition disorders                    | Very Common | Decreased appetite                                                                                                                                                                                                                                                        |
+| nutrition disorders                    | Common      | Hypokalaemia*, Blood glucose abnormal*, Hyponatraemia*, Diabetes mellitus*, Fluid retention                                                                                                                                                                               |
+| nutrition disorders                    | Uncommon    | Tumour lysis syndrome                                                                                                                                                                                                                                                     |
+| Psychiatric disorders                  | Common      | Sleep disorders and disturbances*                                                                                                                                                                                                                                         |
+| Nervous system disorders               | Very Common | Peripheral sensory neuropathy, Dysaesthesia*, Neuralgia*                                                                                                                                                                                                                  |
+| Nervous system disorders               | Common      | Neuropathies*, Motor neuropathy*, Loss of consciousness (inc syncope), Encephalopathy*, Peripheral sensorimotor neuropathy, Dizziness*, Dysgeusia*, Autonomic neuropathy                                                                                                  |
+| Nervous system disorders               | Uncommon    | Autonomic nervous system imbalance                                                                                                                                                                                                                                        |
+| Eye disorders                          | Common      | Vision abnormal*                                                                                                                                                                                                                                                          |
+| Ear and labyrinth disorders            | Common      | Dysacusis (inc tinnitus)*                                                                                                                                                                                                                                                 |
+| Ear and labyrinth disorders            | Uncommon    | Vertigo*, Hearing impaired (up to and inc deafness)                                                                                                                                                                                                                       |
+| Cardiac disorders                      | Common      | Cardiac fibrillation (inc atrial), Arrhythmia*, Cardiac failure (inc left and right ventricular)*, Myocardial ischaemia, Ventricular dysfunction*                                                                                                                         |
+| Cardiac disorders                      | Uncommon    | Cardiovascular disorder (inc cardiogenic shock)                                                                                                                                                                                                                           |
+| Vascular disorders                     | Common      | Hypertension*, Hypotension*, Orthostatic hypotension                                                                                                                                                                                                                      |
+| Respiratory, thoracic and mediastinal  | Common      | Dyspnoea*, Cough*, Hiccups                                                                                                                                                                                                                                                |
+| disorders                              | Uncommon    | Acute respiratory distress syndrome, Pulmonary embolism, Pneumonitis, Pulmonary hypertension, Pulmonary oedema (inc acute)                                                                                                                                                |
+| Gastrointestinal disorders             | Very Common | Nausea and vomiting symptoms*, Diarrhoea*, Stomatitis*, Constipation                                                                                                                                                                                                      |
+| Gastrointestinal disorders             | Common      | Gastrointestinal haemorrhage (inc mucosal)*, Abdominal distension, Dyspepsia, Oropharyngeal pain*, Gastritis*, Oral ulceration*, Abdominal discomfort, Dysphagia, Gastrointestinal inflammation*, Abdominal pain (inc gastrointestinal and splenic pain)*, Oral disorder* |
+| Gastrointestinal disorders             | Uncommon    | Colitis (inc clostridium difficile)*                                                                                                                                                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1832,13 +1833,13 @@ In study LYM-3002 in which bortezomib was administered with rituximab, cyclophos
 
 Table 10: Incidence of peripheral neuropathy in study LYM-3002 by toxicity and treatment discontinuation due to peripheral neuropathy
 
-|                               | BzR-CAP (N=240)   | R-CHOP (N=242)   |
+|                               |   BzR-CAP (N=240) | R-CHOP (N=242)   |
 |-------------------------------|-------------------|------------------|
 | Incidence of PN (%)           |                   |                  |
-| All GradePN                   | 30                | 29               |
-|  Grade 2 PN                  | 18                | 9                |
-|  Grade 3 PN                  | 8                 | 4                |
-| Discontinuation due to PN (%) | 2                 | < 1              |
+| All GradePN                   |                30 | 29               |
+|  Grade 2 PN                  |                18 | 9                |
+|  Grade 3 PN                  |                 8 | 4                |
+| Discontinuation due to PN (%) |                 2 | < 1              |
 
 BzR-CAP=bortezomib, rituximab, cyclophosphamide, doxorubicin, and prednisone; R-CHOP= rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; PN=peripheral neuropathy
 
@@ -1846,7 +1847,7 @@ Peripheral neuropathy included the preferred terms: peripheral sensory neuropath
 
 ## Elderly MCL patients
 
-42.9% and 10.4% of patients in the BzR-CAP arm were in the range 65-74 years and ≥ 75 years of age, respectively. Although in patients aged ≥ 75 years, both BzR-CAP and R-CHOP were less tolerated, the serious adverse reaction rate in the BzR-CAP groups was 68%, compared to 42% in the R-CHOP group.
+42.9% and 10.4% of patients in the BzR-CAP arm were in the range 6574 years and ≥ 75 years of age, respectively. Although in patients aged ≥ 75 years, both BzR-CAP and R-CHOP were less tolerated, the serious adverse reaction rate in the BzR-CAP groups was 68%, compared to 42% in the R-CHOP group.
 
 ## Notable differences in the safety profile of bortezomib administered subcutaneously versus intravenously as single agent
 
@@ -1928,7 +1929,7 @@ Table 11: Efficacy results following the final survival update to VISTA study
 | p-value d                                       | < 10 -10             | < 10 -10             |
 | Reduction in serum M-protein population g n=667 | n=336                | n=331                |
 | ≥ 90% n (%)                                     | 151 (45)             | 34 (10)              |
-| Time to first response inCR+ PR                 |                      |                      |
+| Time to first response inCR + PR                |                      |                      |
 | Median                                          | 1.4 mo               | 4.2 mo               |
 | Median a response duration                      |                      |                      |
 | CR f                                            | 24.0 mo              | 12.8 mo              |
@@ -1941,9 +1942,9 @@ Table 11: Efficacy results following the final survival update to VISTA study
 
 a Kaplan-Meier estimate.
 
-b Hazard ratio estimate is based on a Cox proportional-hazard model adjusted for stratification factors: β2-microglobulin, albumin, and region. A hazard ratio less than 1 indicates an advantage for VMP
+b Hazard ratio estimate is based on a Cox proportionalhazard model adjusted for stratification factors: β2 -microglobulin, albumin, and region. A hazard ratio less than 1 indicates an advantage for VMP
 
-c Nominal p-value based on the stratified log-rank test adjusted for stratification factors: β2-microglobulin, albumin, and region d p-value for Response Rate (CR+PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors
+c Nominal p-value based on the stratified logrank test adjusted for stratification factors: β2 -microglobulin, albumin, and region d p-value for Response Rate (CR+PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors
 
 e Response population includes patients who had measurable disease at baseline f CR=Complete Response; PR=Partial Response. EBMT criteria
 
@@ -1987,16 +1988,18 @@ Note: An OR &gt; 1 indicates an advantage for Bz-containing induction therapy.
 
 In study MMY-3010 induction treatment with bortezomib combined with thalidomide and dexamethasone [BzTDx, n=130] was compared to thalidomide-dexamethasone [TDx, n=127]. Patients in the BzTDx group received six 4-week cycles, each consisting of bortezomib (1.3 mg/m 2 administered twice weekly days 1, 4, 8, and 11, followed by a 17-day rest period from day 12 to day 28), dexamethasone (40 mg administered orally on days 1 to 4 and days 8 to 11), and thalidomide (administered orally at 50 mg daily on days 1-14, increased to 100 mg on days 15-28 and thereafter to 200 mg daily).
 
-One single autologous stem cell transplant was received by 105 (81%) patients and 78 (61%) patients in the BzTDx and TDx groups, respectively. Patient demographic and baseline disease characteristics were similar between the treatment groups. Patients in the BzTDx and TDx groups respectively had a median age of 57 versus 56 years, 99% versus 98% patients were Caucasians, and 58% versus 54% were males. In the BzTDx group 12% of patients were cytogenetically classified as high risk versus 16% of patients in the TDx group. The median duration of treatment was 24.0 weeks and the median number of treatment cycles received was 6.0, and was consistent across treatment groups. The primary efficacy endpoints of the study were post-induction and post-transplant response rates (CR+nCR). A statistically significant difference in CR+nCR was observed in favour of the bortezomib combined with dexamethasone and thalidomide group. Secondary efficacy endpoints included Progression Free Survival and Overall Survival. Main efficacy results are presented in Table 13.
+One single autologous stem cell transplant was received by 105 (81%) patients and 78 (61%) patients in the BzTDx and TDx groups, respectively. Patient demographic and baseline disease characteristics were similar between the treatment groups. Patients in the BzTDx and TDx groups respectively had a median age of 57 versus 56 years, 99% versus 98% patients were Caucasians, and 58% versus 54% were males. In the BzTDx group 12% of patients were cytogenetically classified as high risk versus 16% of patients in the TDx group. The median duration of treatment was 24.0 weeks and the median number of treatment cycles received was 6.0, and was consistent across treatment groups.
+
+The primary efficacy endpoints of the study were post-induction and post-transplant response rates (CR+nCR). A statistically significant difference in CR+nCR was observed in favour of the bortezomib combined with dexamethasone and thalidomide group. Secondary efficacy endpoints included Progression Free Survival and Overall Survival. Main efficacy results are presented in Table 13.
 
 Table 13: Efficacy results from study MMY-3010
 
-| Endpoints                                   | BzTDx                               | TDx                                 | OR; 95% CI; P value a                                   |
-|---------------------------------------------|-------------------------------------|-------------------------------------|---------------------------------------------------------|
-| MMY-3010                                    | N=130 (ITT population)              | N=127 (ITT population)              |                                                         |
-| *RR (Post-induction) CR+nCR CR+nCR+PR %(95% | 49.2 (40.4, 58.1) 84.6 (77.2, 90.3) | 17.3 (11.2, 25.0) 61.4 (52.4, 69.9) | 4.63 (2.61, 8.22); < 0.001 a a                          |
-| CI) *RR (Post-transplant)                   |                                     |                                     | 3.46 (1.90, 6.27); < 0.001                              |
-| CR+nCR CR+nCR+PR %(95% CI)                  | 55.4 (46.4, 64.1) 77.7 (69.6, 84.5) | 34.6 (26.4, 43.6) 56.7 (47.6, 65.5) | 2.34 (1.42, 3.87); 0.001 a 2.66 (1.55, 4.57); < 0.001 a |
+| Endpoints                                       | BzTDx                               | TDx                                 | OR; 95% CI; P value a                                     |
+|-------------------------------------------------|-------------------------------------|-------------------------------------|-----------------------------------------------------------|
+| MMY-3010                                        | N=130 (ITT population)              | N=127 (ITT population)              |                                                           |
+| *RR (Post-induction) CR+nCR CR+nCR+PR %(95% CI) | 49.2 (40.4, 58.1) 84.6 (77.2, 90.3) | 17.3 (11.2, 25.0) 61.4 (52.4, 69.9) | 4.63 (2.61, 8.22); < 0.001 a 3.46 (1.90, 6.27); < 0.001 a |
+| CR+nCR CR+nCR+PR %(95% CI)                      | 55.4 (46.4, 64.1) 77.7 (69.6, 84.5) | 34.6 (26.4, 43.6) 56.7 (47.6, 65.5) | 2.34 (1.42, 3.87); 0.001 a 2.66 (1.55, 4.57); < 0.001     |
+| *RR (Post-transplant)                           |                                     |                                     | a                                                         |
 
 CI=confidence interval; CR=complete response; nCR=near complete response; ITT=intent to treat; RR=response rate; Bz= bortezomib; BzTDx= bortezomib, thalidomide, dexamethasone; TDx=thalidomide, dexamethasone; PR=partial response; OR=odds ratio
 
@@ -2064,24 +2067,26 @@ This study met its primary objective of non-inferiority for response rate (CR+PR
 
 Table 15: Summary of efficacy analyses comparing subcutaneous and intravenous administrations of bortezomib
 
-|                                             | bortezomib intravenous arm   | bortezomib subcutaneous arm   |
-|---------------------------------------------|------------------------------|-------------------------------|
-| Response evaluable population               | n=73                         | n=145                         |
-| Response Rate at 4 cycles n (%) ORR (CR+PR) | 31 (42)                      | 61 (42)                       |
-| p-value a                                   | 0.00201                      | 0.00201                       |
-| CR n (%)                                    | 6 (8)                        | 9 (6)                         |
-| PR n (%)                                    | 25 (34)                      | 52 (36)                       |
-| nCR n (%)                                   | 4 (5)                        | 9 (6)                         |
-| Response rate at 8 cycles n (%) ORR (CR+PR) | 38 (52)                      | 76 (52)                       |
-| p-value a                                   | 0.0001                       | 0.0001                        |
-| CR n (%)                                    | 9 (12)                       | 15 (10)                       |
-| PR n (%)                                    | 29 (40)                      | 61 (42)                       |
-| nCR n (%)                                   | 7 (10)                       | 14 (10)                       |
-| Intent to treat population b                | n=74                         | n=148                         |
-| TTP, months                                 | 9.4                          | 10.4                          |
-| (95% CI)                                    | (7.6, 10.6)                  | (8.5, 11.7)                   |
-| Hazard ratio (95% CI) c d                   | 0.839 (0.564, 1.249)         | 0.839 (0.564, 1.249)          |
-| p-value                                     | 0.38657                      | 0.38657                       |
+|                                 | bortezomib intravenous arm   | bortezomib subcutaneous arm   |
+|---------------------------------|------------------------------|-------------------------------|
+| Response evaluable population   | n=73                         | n=145                         |
+| Response Rate at 4 cycles n (%) |                              |                               |
+| ORR (CR+PR)                     | 31 (42)                      | 61 (42)                       |
+| p-value a                       | 0.00201                      | 0.00201                       |
+| CR n (%)                        | 6 (8)                        | 9 (6)                         |
+| PR n (%)                        | 25 (34)                      | 52 (36)                       |
+| nCR n (%)                       | 4 (5)                        | 9 (6)                         |
+| Response rate at 8 cycles n (%) |                              |                               |
+| ORR (CR+PR)                     | 38 (52)                      | 76 (52)                       |
+| p-value a                       | 0.0001                       | 0.0001                        |
+| CR n (%)                        | 9 (12)                       | 15 (10)                       |
+| PR n (%)                        | 29 (40)                      | 61 (42)                       |
+| nCR n (%)                       | 7 (10)                       | 14 (10)                       |
+| Intent to treat population b    | n=74                         | n=148                         |
+| TTP, months                     | 9.4                          | 10.4                          |
+| (95% CI)                        | (7.6, 10.6)                  | (8.5, 11.7)                   |
+| Hazard ratio (95% CI) c         | 0.839 (0.564, 1.249)         | 0.839 (0.564, 1.249)          |
+| p-value d                       | 0.38657                      | 0.38657                       |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2095,9 +2100,7 @@ Table 15: Summary of efficacy analyses comparing subcutaneous and intravenous ad
 
 a p-value is for the non-inferiority hypothesis that the subcutaneous arm retains at least 60% of the response rate in the intravenous arm.
 
-b 222 subjects were enrolled into the study; 221 subjects were treated with bortezomib c Hazards ratio estimate is based on a Cox model adjusted for stratification factors: ISS staging and number of prior lines.
-
-d Log rank test adjusted for stratification factors: ISS staging and number of prior lines.
+b 222 subjects were enrolled into the study; 221 subjects were treated with bortezomib c Hazards ratio estimate is based on a Cox model adjusted for stratification factors: ISS staging and number of prior lines. d Log rank test adjusted for stratification factors: ISS staging and number of prior lines.
 
 e Median duration of follow up is 11.8 months
 
@@ -2115,7 +2118,7 @@ The matched-pair analysis is a statistical method in which patients in the treat
 
 One hundred and twenty seven matched pairs of patients were identified. The analysis demonstrated improved ORR (CR+PR) (odds ratio 3.769; 95% CI 2.045-6.947; p &lt; 0.001), PFS (hazard ratio 0.511; 95% CI 0.309-0.845; p=0.008), TTP (hazard ratio 0.385; 95% CI 0.212-0.698; p=0.001) for bortezomib in combination with dexamethasone over bortezomib monotherapy.
 
-Limited information on bortezomib retreatment in relapsed multiple myeloma is available. Phase II study MMY-2036 (RETRIEVE), single arm, open-label study was conducted to determine the efficacy and safety of retreatment with bortezomib. One hundred and thirty patients (≥ 18 years of age) with multiple myeloma who previously had at least partial response on a bortezomib-containing regimen were retreated upon progression. At least 6 months after prior therapy, bortezomib was started at the last tolerated dose of 1.3 mg/m 2 (n=93) or ≤ 1.0 mg/m 2 (n=37) and given on days 1, 4, 8 and 11 every 3 weeks for maximum of 8 cycles either as single agent or in combination with dexamethasone
+Limited information on bortezomib retreatment in relapsed multiple myeloma is available. Phase II study MMY-2036 (RETRIEVE), single arm, open-label study was conducted to determine the efficacy and safety of retreatment with bortezomib . One hundred and thirty patients (≥ 18 years of age) with multiple myeloma who previously had at least partial response on a bortezomib-containing regimen were retreated upon progression. At least 6 months after prior therapy, bortezomib was started at the last tolerated dose of 1.3 mg/m 2 (n=93) or ≤ 1.0 mg/m 2 (n=37) and given on days 1, 4, 8 and 11 every 3 weeks for maximum of 8 cycles either as single agent or in combination with dexamethasone
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2125,7 +2128,7 @@ The primary endpoint was best confirmed response to retreatment as assessed by E
 
 ## Clinical efficacy in previously untreated mantle cell lymphoma (MCL)
 
-Study LYM-3002 was a Phase III, randomised, open-label study comparing the efficacy and safety of the combination of bortezomib, rituximab, cyclophosphamide, doxorubicin, and prednisone (BzR-CAP; n=243) to that of rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP; n=244) in adult patients with previously untreated MCL (Stage II, III or IV). Patients in the BzR-CAP treatment arm received bortezomib (1.3 mg/m 2 ; on days 1, 4, 8, 11, rest period days 12-21), rituximab 375 mg/m 2  intravenous on day 1; cyclophosphamide 750 mg/m 2  intravenous on day 1; doxorubicin 50 mg/m 2  intravenous on day 1; and prednisone 100 mg/m 2 orally on day 1 through day 5 of the 21 day bortezomib treatment cycle. For patients with a response first documented at cycle 6, two additional treatment cycles were given.
+Study LYM-3002 was a Phase III, randomised, open-label study comparing the efficacy and safety of the combination of bortezomib, rituximab, cyclophosphamide, doxorubicin, and prednisone (BzR-CAP; n=243) to that of rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP; n=244) in adult patients with previously untreated MCL (Stage II, III or IV). Patients in the BzR-CAP treatment arm received bortezomib (1.3 mg/m 2 ; on days 1, 4, 8, 11, rest period days 12-21), rituximab 375 mg/m 2  intravenous on day 1; cyclophosphamide 750 mg/m 2 intravenous on day 1; doxorubicin 50 mg/m 2  intravenous on day 1; and prednisone 100 mg/m 2 orally on day 1 through day 5 of the 21 day bortezomib treatment cycle. For patients with a response first documented at cycle 6, two additional treatment cycles were given.
 
 The primary efficacy endpoint was progression-free survival based on Independent Review Committee (IRC) assessment. Secondary endpoints included, time to progression (TTP), time to next anti-lymphoma treatment (TNT), duration of treatment free interval (TFI), overall response rate (ORR) and complete response (CR/CRu) rate, overall survival (OS) and response duration.
 
@@ -2152,7 +2155,7 @@ in favour of the BzR-CAP treatment group over the R-CHOP group was observed for 
 
 ## Patients with previously treated light-chain (AL) Amyloidosis
 
-An open label non randomised Phase I/II study was conducted to determine the safety and efficacy of bortezomib in patients with previously treated light-chain (AL) Amyloidosis. No new safety concerns were observed during the study, and in particular bortezomib did not exacerbate target organ damage (heart, kidney and liver). In an exploratory efficacy analysis, a 67.3% response rate (including a 28.6% CR rate) as measured by haematologic response (M-protein) was reported in 49 evaluable patients treated with the maximum allowed doses of 1.6 mg/m 2  weekly and 1.3 mg/m 2 twice-weekly. For these dose cohorts, the combined 1-year survival rate was 88.1%.
+An open label non randomised Phase I/II study was conducted to determine the safety and efficacy of bortezomib in patients with previously treated light-chain (AL) Amyloidosis. No new safety concerns were observed during the study, and in particular bortezomib did not exacerbate target organ damage (heart, kidney and liver). In an exploratory efficacy analysis, a 67.3% response rate (including a 28.6% CR rate) as measured by haematologic response (M-protein) was reported in 49 evaluable patients treated with the maximum allowed doses of 1.6 mg/m 2 weekly and 1.3 mg/m 2 twice-weekly. For these dose cohorts, the combined 1-year survival rate was 88.1%.
 
 ## Paediatric population
 
@@ -2236,7 +2239,7 @@ Unopened vial
 
 3 years
 
-## After reconstitution
+After reconstitution
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2258,7 +2261,7 @@ For storage conditions after reconstitution of the medicinal product, see sectio
 
 ## 6.5 Nature and contents of container
 
-Bortezomib Accord 1 mg powder for solution for injection
+## Bortezomib Accord 1 mg powder for solution for injection
 
 Type 1 glass 6 ml-vial with a grey chlorobutyl stopper and an aluminium seal, with a blue cap containing 1 mg bortezomib.
 
@@ -2304,9 +2307,11 @@ The reconstituted solution must be inspected visually for particulate matter and
 
 ## Bortezomib Accord 3.5 mg powder for solution for injection
 
-Each 10 ml vial of Bortezomib Accord must be carefully reconstituted with 1.4 ml of sodium chloride 9 mg/ml (0.9%) solution for injection, by using a syringe of the appropriate size, without removing the vial stopper. Dissolution of the lyophilised powder is completed in less than 2 minutes.
+Each 10 ml vial of Bortezomib Accord must be carefully reconstituted with 1.4 ml of sodium chloride vial stopper. Dissolution of the lyophilised powder is completed in less than 2 minutes.
 
-After reconstitution, each ml solution contains 2.5 mg bortezomib. The reconstituted solution is clear and colourless, with a final pH of 4 to 7. The reconstituted solution must be inspected visually for particulate matter and discolouration prior to administration. If any discolouration or particulate matter is observed, the reconstituted solution must be discarded.
+After reconstitution, each ml solution contains 2.5 mg bortezomib. The reconstituted solution is clear and colourless, with a final pH of 4 to 7. The reconstituted solution must be inspected visually for is observed, the reconstituted solution must be discarded.
+
+9 mg/ml (0.9%) solution for injection, by using a syringe of the appropriate size, without removing the particulate matter and discolouration prior to administration. If any discolouration or particulate matter
 
 ## Disposal
 
@@ -2350,6 +2355,12 @@ Detailed information on this medicinal product is available on the website of th
 Name and address of the manufacturers responsible for batch release
 
 Accord Healthcare Polska Sp.z o.o., ul. Lutomierska 50,95-200 Pabianice Poland
+
+Accord Healthcare single member S.A., 64th Km National Road Athens, Lamia, Schimatari, 32009,
+
+Greece
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -2434,7 +2445,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## CYTOTOXIC.
+CYTOTOXIC.
 
 ## 8. EXPIRY DATE
 
@@ -2490,9 +2501,7 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON SMALL IMMEDIATE PACKAGING UNITS   |
-|-------------------------------------------------------------------|
-| VIAL                                                              |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
@@ -2618,27 +2627,37 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL 1 mg
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| VIAL 1 mg                                                        |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
-Bortezomib Accord 1 mg powder for solution for injection bortezomib IV only
+Bortezomib Accord 1 mg powder for solution for injection bortezomib
 
-## 2. METHOD OF ADMINISTRATION
+IV only
 
-## 3. EXPIRY DATE
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP:
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot:
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1 mg
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 For single use only.
 
@@ -2682,7 +2701,9 @@ For single use only.
 
 May be fatal if given by other routes.
 
-Subcutaneous use : Add 1.4 ml 0.9% Sodium Chloride to make 2.5 mg/ml final concentration.
+Subcutaneous use
+
+: Add 1.4 ml 0.9% Sodium Chloride to make 2.5 mg/ml final concentration.
 
 Intravenous use
 
@@ -2708,9 +2729,9 @@ Keep the vial in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est 6ª planta, 08039 Barcelona,
+Accord Healthcare S.L.U.
 
-Spain
+World Trade Center, Moll de Barcelona, s/n, Edifici Est 6ª planta, 08039 Barcelona, Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2801,7 +2822,7 @@ Subcutaneous use: Add 1.4 ml 0.9% Sodium Chloride to make 2.5 mg/ml final concen
 
 ## 1. What Bortezomib Accord is and what it is used for
 
-Bortezomib Accord contains the active substance bortezomib, a so-called 'proteasome inhibitor'. Proteasomes play an important role in controlling cell function and growth. By interfering with their function, bortezomib can kill cancer cells.
+Bortezomib Accord contains the active substance bortezomib, a socalled 'proteasome inhibitor'. Proteasomes play an important role in controlling cell function and growth. By interfering with their function, bortezomib can kill cancer cells.
 
 Bortezomib Accord is used for the treatment of multiple myeloma (a cancer of the bone marrow) in patients older than 18 years:
 
@@ -2822,28 +2843,28 @@ Bortezomib Accord is used for the treatment of mantle cell lymphoma (a type of c
 
 You should tell your doctor if you have any of the following:
 
--  low numbers of red or white blood cells
--  bleeding problems and/or low number of platelets in your blood
--  diarrhoea, constipation, nausea or vomiting
+- low numbers of red or white blood cells
+- bleeding problems and/or low number of platelets in your blood
+- diarrhoea, constipation, nausea or vomiting
 
 <div style=\"page-break-after: always\"></div>
 
--  fainting, dizziness or light-headedness in the past
--  kidney problems
--  moderate to severe liver problems
--  numbness, tingling, or pain in the hands or feet (neuropathy) in the past
--  heart or blood pressure problems
--  shortness of breath or cough
--  seizures
--  shingles (localised including around the eyes or spread across the body)
--  symptoms of tumour lysis syndrome such as muscle cramping, muscle weakness, confusion, visual loss or disturbances and shortness of breath
--  memory loss, trouble thinking, difficulty with walking or loss of vision. These may be signs of a serious brain infection and your doctor may suggest further testing and follow-up.
+- fainting, dizziness or light-headedness in the past
+- kidney problems
+- moderate to severe liver problems
+- numbness, tingling, or pain in the hands or feet (neuropathy) in the past
+- heart or blood pressure problems
+- shortness of breath or cough
+- seizures
+- shingles (localised including around the eyes or spread across the body)
+- symptoms of tumour lysis syndrome such as muscle cramping, muscle weakness, confusion, visual loss or disturbances and shortness of breath
+- memory loss, trouble thinking, difficulty with walking or loss of vision. These may be signs of a serious brain infection and your doctor may suggest further testing and follow-up.
 
 You will have to take regular blood tests before and during your treatment with Bortezomib Accord, to check your blood cell counts regularly.
 
 If you have mantle cell lymphoma and are given the medicine rituximab with Bortezomib Accord you should tell your doctor:
 
--  if you think you have hepatitis infection now or have had it in the past. In a few cases, patients who have had hepatitis B might have a repeated attack of hepatitis, which can be fatal. If you have a history of hepatitis B infection you will be carefully checked by your doctor for signs of active hepatitis B.
+- if you think you have hepatitis infection now or have had it in the past. In a few cases, patients who have had hepatitis B might have a repeated attack of hepatitis, which can be fatal. If you have a history of hepatitis B infection you will be carefully checked by your doctor for signs of active hepatitis B.
 
 You must read the package leaflets of all medicines to be taken in combination with Bortezomib Accord for information related to these medicines before starting treatment with Bortezomib Accord. When thalidomide is used, particular attention to pregnancy testing and prevention requirements is needed (see Pregnancy and breast-feeding in this section).
 
@@ -2890,7 +2911,7 @@ Your doctor may change the dose and total number of treatment cycles, depending 
 
 ## Progressive multiple myeloma
 
-When Bortezomib Accord is given alone, you will receive 4 doses of Bortezomib Accord intravenously or subcutaneously on days 1, 4, 8 and 11, followed by a 10-day 'rest period' without treatment. This 21-day period (3 weeks) corresponds to one treatment cycle. You might receive up to 8 cycles (24 weeks).
+When Bortezomib Accord is given alone, you will receive 4 doses of Bortezomib Accord intravenously or subcutaneously on days 1, 4, 8 and 11, followed by a 10day 'rest period' without treatment. This 21-day period (3 weeks) corresponds to one treatment cycle. You might receive up to 8 cycles (24 weeks).
 
 You may also be given Bortezomib Accord together with the medicines pegylated liposomal doxorubicin or dexamethasone.
 
@@ -2904,8 +2925,8 @@ If you have not been treated before for multiple myeloma, and you are not suitab
 
 In this case, the duration of a treatment cycle is 42 days (6 weeks). You will receive 9 cycles (54 weeks).
 
--  In cycles 1 to 4, Bortezomib Accord is administered twice weekly on days 1, 4, 8, 11, 22, 25, 29 and 32.
--  In cycles 5 to 9, Bortezomib Accord is administered once weekly on days 1, 8, 22 and 29.
+- In cycles 1 to 4, Bortezomib Accord is administered twice weekly on days 1, 4, 8, 11, 22, 25, 29 and 32.
+- In cycles 5 to 9, Bortezomib Accord is administered once weekly on days 1, 8, 22 and 29.
 
 Melphalan (9 mg/m 2 ) and prednisone (60 mg/m 2 ) are both given orally on days 1, 2, 3 and 4 of the first week of each cycle.
 
@@ -2927,7 +2948,7 @@ If you have not been treated before for mantle cell lymphoma, you will receive B
 
 Bortezomib Accord is given intravenously or subcutaneously on days 1, 4, 8 and 11, followed by a 'rest period' without treatment. The duration of a treatment cycle is 21 days (3 weeks). You might receive up to 8 cycles (24 weeks).
 
-The following medicines are given on day 1 of each Bortezomib Accord 21-day treatment cycle as intravenous infusions:
+## The following medicines are given on day 1 of each Bortezomib Accord 21-day treatment cycle as intravenous infusions:
 
 Rituximab at 375 mg/m 2 , cyclophosphamide at 750 mg/m 2 and doxorubicin at 50 mg/m 2 . Prednisone is given orally at 100 mg/m 2 on days 1, 2, 3, 4 and 5 of the Bortezomib Accord treatment cycle.
 
@@ -2965,220 +2986,221 @@ If you are given Bortezomib Accord for the treatment of multiple myeloma the sid
 
 ## Very common side effects (may affect more than 1 in 10 people)
 
--  Sensitivity, numbness, tingling or burning sensation of the skin, or pain in the hands or feet, due to nerve damage
--  Reduction in the number of red blood cells and or white blood cells (see above)
--  Fever
--  Feeling sick (nausea) or vomiting, loss of appetite
--  Constipation with or without bloating (can be severe)
--  Diarrhoea: if this happens, it is important that you drink more water than usual. Your doctor may give you another medicine to control diarrhoea
--  Tiredness (fatigue), feeling weak
--  Muscle pain, bone pain
+- Sensitivity, numbness, tingling or burning sensation of the skin, or pain in the hands or feet, due to nerve damage
+- Reduction in the number of red blood cells and or white blood cells (see above)
+- Fever
+- Feeling sick (nausea) or vomiting, loss of appetite
+- Constipation with or without bloating (can be severe)
+- Diarrhoea: if this happens, it is important that you drink more water than usual. Your doctor may give you another medicine to control diarrhoea
+- Tiredness (fatigue), feeling weak
+- Muscle pain, bone pain
 
 ## Common side effects (may affect up to 1 in 10 people)
 
--  Low blood pressure, sudden fall of blood pressure on standing which may lead to fainting
--  High blood pressure
--  Reduced functioning of your kidneys
--  Headache
--  General ill feeling, pain, vertigo, light-headedness, a feeling of weakness or loss of consciousness
--  Shivering
--  Infections, including pneumonia, respiratory infections, bronchitis, fungal infections, coughing with phlegm, flu like illness
--  Shingles (localised including around the eyes or spread across the body)
--  Chest pains or shortness of breath with exercise
--  Different types of rash
--  Itching of the skin, lumps on the skin or dry skin
--  Facial blushing or tiny broken capillaries
--  Redness of the skin
--  Dehydration
--  Heartburn, bloating, belching, wind, stomach pain, bleeding from your bowels or stomach
--  Alteration of liver functioning
--  A sore mouth or lip, dry mouth, mouth ulcers or throat pain
--  Weight loss, loss of taste
--  Muscle cramps, muscle spasms, muscle weakness, pain in your limbs
--  Blurred vision
--  Infection of the outermost layer of the eye and the inner surface of the eyelids (conjunctivitis)
--  Nose bleeds
+- Low blood pressure, sudden fall of blood pressure on standing which may lead to fainting
+- High blood pressure
+- Reduced functioning of your kidneys
+- Headache
+- General ill feeling, pain, vertigo, light-headedness, a feeling of weakness or loss of consciousness
+- Shivering
+- Infections, including pneumonia, respiratory infections, bronchitis, fungal infections, coughing with phlegm, flu like illness
+- Shingles (localised including around the eyes or spread across the body)
+- Chest pains or shortness of breath with exercise
+- Different types of rash
+- Itching of the skin, lumps on the skin or dry skin
+- Facial blushing or tiny broken capillaries
+- Redness of the skin
+- Dehydration
+- Heartburn, bloating, belching, wind, stomach pain, bleeding from your bowels or stomach
+- Alteration of liver functioning
+- A sore mouth or lip, dry mouth, mouth ulcers or throat pain
+- Weight loss, loss of taste
+- Muscle cramps, muscle spasms, muscle weakness, pain in your limbs
+- Blurred vision
+- Infection of the outermost layer of the eye and the inner surface of the eyelids (conjunctivitis)
+- Nose bleeds
 
 <div style=\"page-break-after: always\"></div>
 
--  Difficulty or problems in sleeping, sweating, anxiety, mood swings, depressed mood, restlessness or agitation, changes in your mental status, disorientation
--  Swelling of body, to include around eyes and other parts of the body
+- Difficulty or problems in sleeping, sweating, anxiety, mood swings, depressed mood, restlessness or agitation, changes in your mental status, disorientation
+- Swelling of body, to include around eyes and other parts of the body
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
--  Heart failure, heart attack, chest pain, chest discomfort, increased or reduced heart rate
--  Failing of your kidneys
--  Inflammation of a vein, blood clots in your veins and lungs
--  Problems with blood clotting
--  Insufficient circulation
--  Inflammation of the lining around your heart or fluid around your heart
--  Infections including urinary tract infections, the flu, herpes virus infections, ear infection and cellulitis
--  Bloody stools, or bleeding from mucosal membranes, e.g., mouth, vagina
--  Cerebrovascular disorders
--  Paralysis, seizures, falling, movement disorders, abnormal or change in, or reduced sensation (feeling, hearing, tasting, smelling), attention disturbance, trembling, twitching
--  Arthritis, including inflammation of the joints in the fingers, toes, and the jaw
--  Disorders that affect your lungs, preventing your body from getting enough oxygen. Some of these include difficulty breathing, shortness of breath, shortness of breath without exercise, breathing that becomes shallow, difficult or stops, wheezing
--  Hiccups, speech disorders
--  Increased or decreased urine production (due to kidney damage), painful passing of urine or blood/proteins in the urine, fluid retention
--  Altered levels of consciousness, confusion, memory impairment or loss
--  Hypersensitivity
--  Hearing loss, deafness or ringing in the ears, ear discomfort
--  Hormone abnormality which may affect salt and water absorption
--  Overactive thyroid gland
--  Inability to produce enough insulin or resistance to normal levels of insulin
--  Irritated or inflamed eyes, excessively wet eyes, painful eyes, dry eyes, eye infections, lump in the eyelid (chalazion), red and swollen eyelids, discharge from the eyes, abnormal vision, bleeding of the eye
--  Swelling of your lymph glands
--  Joint or muscle stiffness, sense of heaviness, pain in your groin
--  Hair loss and abnormal hair texture
--  Allergic reactions
--  Redness or pain at the injection site
--  Mouth pain
--  Infections or inflammation of the mouth, mouth ulcers, oesophagus, stomach and intestines, sometimes associated with pain or bleeding, poor movement of the intestines (including blockage), abdominal or oesophageal discomfort, difficulty swallowing, vomiting of blood
--  Skin infections
--  Bacterial and viral infections
--  Tooth infection
--  Inflammation of the pancreas, obstruction of the bile duct
--  Genital pain, problem having an erection
--  Weight increase
--  Thirst
--  Hepatitis
--  Injection site or injection device related disorders
--  Skin reactions and disorders (which may be severe and life threatening), skin ulcers
--  Bruises, falls and injuries
+- Heart failure, heart attack, chest pain, chest discomfort, increased or reduced heart rate
+- Failing of your kidneys
+- Inflammation of a vein, blood clots in your veins and lungs
+- Problems with blood clotting
+- Insufficient circulation
+- Inflammation of the lining around your heart or fluid around your heart
+- Infections including urinary tract infections, the flu, herpes virus infections, ear infection and cellulitis
+- Bloody stools, or bleeding from mucosal membranes, e.g., mouth, vagina
+- Cerebrovascular disorders
+- Paralysis, seizures, falling, movement disorders, abnormal or change in, or reduced sensation (feeling, hearing, tasting, smelling), attention disturbance, trembling, twitching
+- Arthritis, including inflammation of the joints in the fingers, toes, and the jaw
+- Disorders that affect your lungs, preventing your body from getting enough oxygen. Some of these include difficulty breathing, shortness of breath, shortness of breath without exercise, breathing that becomes shallow, difficult or stops, wheezing
+- Hiccups, speech disorders
+- Increased or decreased urine production (due to kidney damage), painful passing of urine or blood/proteins in the urine, fluid retention
+- Altered levels of consciousness, confusion, memory impairment or loss
+- Hypersensitivity
+- Hearing loss, deafness or ringing in the ears, ear discomfort
+- Hormone abnormality which may affect salt and water absorption
+- Overactive thyroid gland
+- Inability to produce enough insulin or resistance to normal levels of insulin
+- Irritated or inflamed eyes, excessively wet eyes, painful eyes, dry eyes, eye infections, lump in the eyelid (chalazion), red and swollen eyelids, discharge from the eyes, abnormal vision, bleeding of the eye
+- Swelling of your lymph glands
+- Joint or muscle stiffness, sense of heaviness, pain in your groin
+- Hair loss and abnormal hair texture
+- Allergic reactions
+- Redness or pain at the injection site
+- Mouth pain
+- Infections or inflammation of the mouth, mouth ulcers, oesophagus, stomach and intestines, sometimes associated with pain or bleeding, poor movement of the intestines (including blockage), abdominal or oesophageal discomfort, difficulty swallowing, vomiting of blood
+- Skin infections
+- Bacterial and viral infections
+- Tooth infection
+- Inflammation of the pancreas, obstruction of the bile duct
+- Genital pain, problem having an erection
+- Weight increase
+- Thirst
+- Hepatitis
+- Injection site or injection device related disorders
+- Skin reactions and disorders (which may be severe and life threatening), skin ulcers
+- Bruises, falls and injuries
 
 <div style=\"page-break-after: always\"></div>
 
--  Inflammation or haemorrhage of the blood vessels that can appear as small red or purple dots (usually on the legs) to large bruise-like patches under the skin or tissue
--  Benign cysts
--  A severe reversible brain condition which includes seizures, high blood pressure, headaches, tiredness, confusion, blindness or other vision problems.
+- Inflammation or haemorrhage of the blood vessels that can appear as small red or purple dots (usually on the legs) to large bruise-like patches under the skin or tissue
+- Benign cysts
+- A severe reversible brain condition which includes seizures, high blood pressure, headaches, tiredness, confusion, blindness or other vision problems.
 
 ## Rare side effects (may affect up to 1 in 1,000 people)
 
--  Heart problems to include heart attack, angina
--  Serious nerve inflammation, which may cause paralysis and difficulty breathing (Guillain-Barré syndrome)
--  Flushing
--  Discolouration of the veins
--  Inflammation of the spinal nerve
--  Problems with your ear, bleeding from your ear
--  Underactivity of your thyroid gland
--  Budd-Chiari syndrome (the clinical symptoms caused by blockage of the hepatic veins)
--  Changes in or abnormal bowel function
--  Bleeding in the brain
--  Yellow discolouration of eyes and skin (jaundice)
--  Serious allergic reaction (anaphylactic shock) signs of which may include difficulty breathing, chest pain or chest tightness, and/or feeling dizzy/faint, severe itching of the skin or raised lumps on the skin, swelling of the face, lips, tongue and /or throat, which may cause difficulty in swallowing, collapse
--  Breast disorders
--  Vaginal tears
--  Genital swelling
--  Inability to tolerate alcohol consumption
--  Wasting, or loss of body mass
--  Increased appetite
--  Fistula
--  Joint effusion
--  Cysts in the lining of joints (synovial cysts)
--  Fracture
--  Breakdown of muscle fibers leading to other complications
--  Swelling of the liver, bleeding from the liver
--  Cancer of the kidney
--  Psoriasis like skin condition
--  Cancer of the skin
--  Paleness of the skin
--  Increase of platelets or plasma cells (a type of white cell) in the blood
--  Blood clot in small blood vessels (thrombotic microangiopathy)
--  Abnormal reaction to blood transfusions
--  Partial or total loss of vision
--  Decreased sex drive
--  Drooling
--  Bulging eyes
--  Sensitivity to light
--  Rapid breathing
--  Rectal pain
--  Gallstones
--  Hernia
--  Injuries
--  Brittle or weak nails
--  Abnormal protein deposits in your vital organs
+- Heart problems to include heart attack, angina
+- Serious nerve inflammation, which may cause paralysis and difficulty breathing (Guillain-Barré syndrome)
+- Flushing
+- Discolouration of the veins
+- Inflammation of the spinal nerve
+- Problems with your ear, bleeding from your ear
+- Underactivity of your thyroid gland
+- Budd -Chiari syndrome (the clinical symptoms caused by blockage of the hepatic veins)
+- Changes in or abnormal bowel function
+- Bleeding in the brain
+- Yellow discolouration of eyes and skin (jaundice)
+- Serious allergic reaction (anaphylactic shock) signs of which may include difficulty breathing, chest pain or chest tightness, and/or feeling dizzy/faint, severe itching of the skin or raised lumps on the skin, swelling of the face, lips, tongue and /or throat, which may cause difficulty in swallowing, collapse
+- Breast disorders
+- Vaginal tears
+- Genital swelling
+- Inability to tolerate alcohol consumption
+- Wasting, or loss of body mass
+- Increased appetite
+- Fistula
+- Joint effusion
+- Cysts in the lining of joints (synovial cysts)
+- Fracture
+- Breakdown of muscle fibers leading to other complications
+- Swelling of the liver, bleeding from the liver
+- Cancer of the kidney
+- Psoriasis like skin condition
+- Cancer of the skin
+- Paleness of the skin
+- Increase of platelets or plasma cells (a type of white cell) in the blood
+- Blood clot in small blood vessels (thrombotic microangiopathy)
+- Abnormal reaction to blood transfusions
+- Partial or total loss of vision
+- Decreased sex drive
+- Drooling
+- Bulging eyes
+- Sensitivity to light
+- Rapid breathing
+- Rectal pain
+- Gallstones
+- Hernia
+- Injuries
+- Brittle or weak nails
+- Abnormal protein deposits in your vital organs
 
 <div style=\"page-break-after: always\"></div>
 
--  Coma
--  Intestinal ulcers
--  Multi-organ failure
--  Death
+- Coma
+- Intestinal ulcers
+- Multi-organ failure
+- Death
 
 If you are given Bortezomib Accord together with other medicines for the treatment of mantle cell lymphoma the side effects you may get are listed below:
 
 ## Very common side effects (may affect more than 1 in 10 people)
 
--  Pneumonia
--  Loss of appetite
--  Sensitivity, numbness, tingling or burning sensation of the skin, or pain in the hands or feet, due to nerve damage
--  Nausea and vomiting
--  Diarrhoea
--  Mouth ulcers
--  Constipation
--  Muscle pain, bone pain
--  Hair loss and abnormal hair texture
--  Tiredness, feeling weak
--  Fever
+- Pneumonia
+- Loss of appetite
+- Sensitivity, numbness, tingling or burning sensation of the skin, or pain in the hands or feet, due to nerve damage
+- Nausea and vomiting
+- Diarrhoea
+- Mouth ulcers
+- Constipation
+- Muscle pain, bone pain
+- Hair loss and abnormal hair texture
+- Tiredness, feeling weak
+- Fever
 
 ## Common side effects (may affect up to 1 in 10 people)
 
--  Shingles (localised including around the eyes or spread across the body)
--  Herpes virus infections
--  Bacterial and viral infections
--  Respiratory infections, bronchitis, coughing with phlegm, flu like illness
--  Fungal infections
--  Hypersensitivity (allergic reaction)
--  Inability to produce enough insulin or resistance to normal levels of insulin
--  Fluid retention
--  Difficulty or problems in sleeping
--  Loss of consciousness
--  Altered level of consciousness, confusion
--  Feeling dizzy
--  Increased heartbeat, high blood pressure, sweating,
--  Abnormal vision, blurred vision
--  Heart failure, heart attack, chest pain, chest discomfort, increased or reduced heart rate
--  High or low blood pressure
--  Sudden fall of blood pressure upon standing which may lead to fainting
--  Shortness of breath with exercise
--  Cough
--  Hiccups
--  Ringing in the ears, ear discomfort
--  Bleeding from your bowels or stomach
--  Heartburn
--  Stomach pain, bloating
--  Difficulty swallowing
--  Infection or inflammation of the stomach and intestines
--  Stomach pain
--  Sore mouth or lip, throat pain
--  Alteration of liver function
--  Itching of skin
--  Redness of skin
+- Shingles (localised including around the eyes or spread across the body)
+- Herpes virus infections
+- Bacterial and viral infections
+- Respiratory infections, bronchitis, coughing with phlegm, flu like illness
+- Fungal infections
+- Hypersensitivity (allergic reaction)
+- Inability to produce enough insulin or resistance to normal levels of insulin
+- Fluid retention
+- Difficulty or problems in sleeping
+- Loss of consciousness
+- Altered level of consciousness, confusion
+- Feeling dizzy
+- Increased heartbeat, high blood pressure, sweating,
+- Abnormal vision, blurred vision
+- Heart failure, heart attack, chest pain, chest discomfort, increased or reduced heart rate
+- High or low blood pressure
+- Sudden fall of blood pressure upon standing which may lead to fainting
+- Shortness of breath with exercise
+- Cough
+- Hiccups
+- Ringing in the ears, ear discomfort
+- Bleeding from your bowels or stomach
+- Heartburn
+- Stomach pain, bloating
+- Difficulty swallowing
+- Infection or inflammation of the stomach and intestines
+- Stomach pain
+- Sore mouth or lip, throat pain
+- Alteration of liver function
+- Itching of skin
+- Redness of skin
 
 <div style=\"page-break-after: always\"></div>
 
--  Rash
--  Muscle spasms
--  Infection of the urinary tract
--  Pain in limbs
--  Swelling of body, to include eyes and other parts of the body
--  Shivering
--  Redness and pain at injection site
--  General ill feeling
--  Weight loss
--  Weight increase
+- Rash
+- Muscle spasms
+- Infection of the urinary tract
+- Pain in limbs
+- Swelling of body, to include eyes and other parts of the body
+- Shivering
+- Redness and pain at injection site
+- General ill feeling
+- Weight loss
+- Weight increase
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
--  Hepatitis
--  Severe allergic reaction (anaphylactic reaction) signs of which may include difficulty breathing, chest pain or chest tightness, and/or feeling dizzy/faint, severe itching of the skin or raised lumps on the skin, swelling of the face, lips, tongue and /or throat, which may cause difficulty in swallowing, collapse
--  Movement disorders, paralysis, twitching
--  Vertigo
--  Hearing loss, deafness
--  Disorders that affect your lungs, preventing your body from getting enough oxygen. Some of these include difficulty breathing, shortness of breath, shortness of breath without exercise, breathing that becomes shallow, difficult or stops, wheezing
--  Blood clots in your lungs
--  Yellow discolouration of the eyes and skin (jaundice)
--  Lump in the eyelid (chalazion), red and swollen eyelids
+- Hepatitis
+- Severe allergic reaction (anaphylactic reaction) signs of which may include difficulty breathing, chest pain or chest tightness, and/or feeling dizzy/faint, severe itching of the skin or raised lumps on the skin, swelling of the face, lips, tongue and /or throat, which may cause difficulty in swallowing, collapse
+- Movement disorders, paralysis, twitching
+- Vertigo
+- ·
+- Hearing loss, deafness
+- Disorders that affect your lungs, preventing your body from getting enough oxygen. Some of these include difficulty breathing, shortness of breath, shortness of breath without exercise, breathing that becomes shallow, difficult or stops, wheezing
+- Blood clots in your lungs
+- Yellow discolouration of the eyes and skin (jaundice)
+- Lump in the eyelid (chalazion), red and swollen eyelids
 
 ## Rare side effects (may affect up to 1 in 1,000 people)
 
@@ -3211,8 +3233,8 @@ Bortezomib Accord is for single use only. Any unused product or waste material s
 
 ## What Bortezomib Accord contains
 
--  the active substance is bortezomib. Each vial contains 1 mL or 1.4 mL solution for injection which contains 2.5 mg per mL of bortezomib (as a mannitol boronic ester).
--  the other ingredients are mannitol (E421) and water for injections.
+- the active substance is bortezomib. Each vial contains 1 mL or 1.4 mL solution for injection which contains 2.5 mg per mL of bortezomib (as a mannitol boronic ester).
+- the other ingredients are mannitol (E421) and water for injections.
 
 ## Intravenous use:
 
@@ -3232,9 +3254,7 @@ Clear glass vial with grey rubber stopper and an aluminium seal, with red cap, c
 
 ## Pack sizes
 
-1 x 1 mL vial 4 x 1 mL vials 1 x 1.4 mL vial
-
-4 x 1.4 mL vials
+1 x 1 mL vial 4 x 1 mL vials 1 x 1.4 mL vial 4 x 1.4 mL vials
 
 Not all pack sizes may be marketed.
 
@@ -3246,11 +3266,15 @@ Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona s/n, Edifici Est 
 
 Accord Healthcare Polska Sp.z o.o., ul. Lutomierska 50,95-200 Pabianice Poland
 
+Accord Healthcare single member S.A., 64th Km National Road Athens, Lamia, Schimatari, 32009, Greece
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PT / PL / RO / SE / SI / SK / ES
 
 Accord Healthcare S.L.U.
+
+<div style=\"page-break-after: always\"></div>
 
 Tel: +34 93 301 00 64
 
@@ -3259,8 +3283,6 @@ EL
 Win Medica A.E.
 
 Tel: +30 210 7488 821
-
-<div style=\"page-break-after: always\"></div>
 
 This leaflet was last revised in
 
@@ -3313,7 +3335,7 @@ The diluted solution is preservative-free and should be used immediately after p
 
 ## 4. ADMINISTRATION FOR SUBCUTANEOUS INJECTION
 
-- 4.1 Withdraw the appropriate amount of the solution according to calculated dose based upon the patient's body surface area.
+- 4.1 Withdraw the appropriate amount of the solution according to calculated dose based upon the patient' s body surface area.
 - 4.2 Confirm the dose and concentration in the syringe prior to use (check that the syringe is marked as subcutaneous administration).
 - 4.3 Inject the solution subcutaneously, under a 45°-90°angle.
 - 4.4 The solution is administered subcutaneously through the thighs (right or left) or abdomen (right or left).
@@ -3330,7 +3352,9 @@ A vial is for single use only and the remaining solution must be discarded. Any 
 
 ## Bortezomib Accord 1 mg powder for solution for injection
 
-## Bortezomib Accord 3.5 mg powder for solution for injection bortezomib
+## Bortezomib Accord 3.5 mg powder for solution for injection
+
+bortezomib
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you .
 
@@ -3349,7 +3373,7 @@ A vial is for single use only and the remaining solution must be discarded. Any 
 
 ## 1. What Bortezomib Accord is and what it is used for
 
-Bortezomib Accord contains the active substance bortezomib, a so-called 'proteasome inhibitor'. Proteasomes play an important role in controlling cell function and growth. By interfering with their function, bortezomib can kill cancer cells.
+Bortezomib Accord contains the active substance bortezomib, a socalled 'proteasome inhibitor'. Proteasomes play an important role in controlling cell function and growth. By interfering with their function, bortezomib can kill cancer cells.
 
 Bortezomib Accord is used for the treatment of multiple myeloma (a cancer of the bone marrow) in patients older than 18 years:
 
@@ -3370,28 +3394,28 @@ Bortezomib Accord is used for the treatment of mantle cell lymphoma (a type of c
 
 You should tell your doctor if you have any of the following:
 
--  low numbers of red or white blood cells
--  bleeding problems and/or low number of platelets in your blood
+- low numbers of red or white blood cells
+- bleeding problems and/or low number of platelets in your blood
 
 <div style=\"page-break-after: always\"></div>
 
--  diarrhoea, constipation, nausea or vomiting
--  fainting, dizziness or light-headedness in the past
--  kidney problems
--  moderate to severe liver problems
--  numbness, tingling, or pain in the hands or feet (neuropathy) in the past
--  heart or blood pressure problems
--  shortness of breath or cough
--  seizures
--  shingles (localised including around the eyes or spread across the body)
--  symptoms of tumour lysis syndrome such as muscle cramping, muscle weakness, confusion, visual loss or disturbances and shortness of breath
--  memory loss, trouble thinking, difficulty with walking or loss of vision. These may be signs of a serious brain infection and your doctor may suggest further testing and follow-up.
+- diarrhoea, constipation, nausea or vomiting
+- fainting, dizziness or light-headedness in the past
+- kidney problems
+- moderate to severe liver problems
+- numbness, tingling, or pain in the hands or feet (neuropathy) in the past
+- heart or blood pressure problems
+- shortness of breath or cough
+- seizures
+- shingles (localised including around the eyes or spread across the body)
+- symptoms of tumour lysis syndrome such as muscle cramping, muscle weakness, confusion, visual loss or disturbances and shortness of breath
+- memory loss, trouble thinking, difficulty with walking or loss of vision. These may be signs of a serious brain infection and your doctor may suggest further testing and follow-up.
 
 You will have to take regular blood tests before and during your treatment with Bortezomib Accord, to check your blood cell counts regularly.
 
 If you have mantle cell lymphoma and are given the medicine rituximab with Bortezomib Accord you should tell your doctor:
 
--  if you think you have hepatitis infection now or have had it in the past. In a few cases, patients who have had hepatitis B might have a repeated attack of hepatitis, which can be fatal. If you have a history of hepatitis B infection you will be carefully checked by your doctor for signs of active hepatitis B.
+- if you think you have hepatitis infection now or have had it in the past. In a few cases, patients who have had hepatitis B might have a repeated attack of hepatitis, which can be fatal. If you have a history of hepatitis B infection you will be carefully checked by your doctor for signs of active hepatitis B.
 
 You must read the package leaflets of all medicinal products to be taken in combination with Bortezomib Accord for information related to these medicines before starting treatment with Bortezomib Accord. When thalidomide is used, particular attention to pregnancy testing and prevention requirements is needed (see Pregnancy and breast-feeding in this section).
 
@@ -3438,7 +3462,7 @@ Your doctor may change the dose and total number of treatment cycles, depending 
 
 ## Progressive multiple myeloma
 
-When Bortezomib Accord is given alone, you will receive 4 doses of Bortezomib Accord intravenously or subcutaneously on days 1, 4, 8 and 11, followed by a 10-day 'rest period' without treatment. This 21-day period (3 weeks) corresponds to one treatment cycle. You might receive up to 8 cycles (24 weeks).
+When Bortezomib Accord is given alone, you will receive 4 doses of Bortezomib Accord intravenously or subcutaneously on days 1, 4, 8 and 11, followed by a 10day 'rest period' without treatment. This 21-day period (3 weeks) corresponds to one treatment cycle. You might receive up to 8 cycles (24 weeks).
 
 You may also be given Bortezomib Accord together with the medicines pegylated liposomal doxorubicin or dexamethasone.
 
@@ -3452,8 +3476,8 @@ If you have not been treated before for multiple myeloma, and you are not suitab
 
 In this case, the duration of a treatment cycle is 42 days (6 weeks). You will receive 9 cycles (54 weeks).
 
--  In cycles 1 to 4, Bortezomib Accord is administered twice weekly on days 1, 4, 8, 11, 22, 25, 29 and 32.
--  In cycles 5 to 9, Bortezomib Accord is administered once weekly on days 1, 8, 22 and 29. Melphalan (9 mg/m 2 ) and prednisone (60 mg/m 2 ) are both given orally on days 1, 2, 3 and 4 of the first week of each cycle.
+- In cycles 1 to 4, Bortezomib Accord is administered twice weekly on days 1, 4, 8, 11, 22, 25, 29 and 32.
+- In cycles 5 to 9, Bortezomib Accord is administered once weekly on days 1, 8, 22 and 29. Melphalan (9 mg/m 2 ) and prednisone (60 mg/m 2 ) are both given orally on days 1, 2, 3 and 4 of the first week of each cycle.
 
 If you have not been treated before for multiple myeloma, and you are suitable for blood stem cell transplantation you will receive Bortezomib Accord intravenously or subcutaneously together with the medicines dexamethasone, or dexamethasone and thalidomide, as induction treatment.
 
@@ -3512,224 +3536,224 @@ If you are given Bortezomib Accord for the treatment of multiple myeloma the sid
 
 ## Very common side effects (may affect more than 1 in 10 people)
 
--  Sensitivity, numbness, tingling or burning sensation of the skin, or pain in the hands or feet, due to nerve damage
--  Reduction in the number of red blood cells and or white blood cells (see above)
--  Fever
--  Feeling sick (nausea) or vomiting, loss of appetite
--  Constipation with or without bloating (can be severe)
--  Diarrhoea: if this happens, it is important that you drink more water than usual. Your doctor may give you another medicine to control diarrhoea
--  Tiredness (fatigue), feeling weak
--  Muscle pain, bone pain
+- Sensitivity, numbness, tingling or burning sensation of the skin, or pain in the hands or feet, due to nerve damage
+- Reduction in the number of red blood cells and or white blood cells (see above)
+- Fever
+- Feeling sick (nausea) or vomiting, loss of appetite
+- Constipation with or without bloating (can be severe)
+- Diarrhoea: if this happens, it is important that you drink more water than usual. Your doctor may give you another medicine to control diarrhoea
+- Tiredness (fatigue), feeling weak
+- Muscle pain, bone pain
 
 ## Common side effects (may affect up to 1 in 10 people)
 
--  Low blood pressure, sudden fall of blood pressure on standing which may lead to fainting
--  High blood pressure
--  Reduced functioning of your kidneys
--  Headache
--  General ill feeling, pain, vertigo, light-headedness, a feeling of weakness or loss of consciousness
--  Shivering
--  Infections, including pneumonia, respiratory infections, bronchitis, fungal infections, coughing with phlegm, flu like illness
--  Shingles (localised including around the eyes or spread across the body)
--  Chest pains or shortness of breath with exercise
--  Different types of rash
--  Itching of the skin, lumps on the skin or dry skin
--  Facial blushing or tiny broken capillaries
--  Redness of the skin
--  Dehydration
--  Heartburn, bloating, belching, wind, stomach pain, bleeding from your bowels or stomach
--  Alteration of liver functioning
--  A sore mouth or lip, dry mouth, mouth ulcers or throat pain
--  Weight loss, loss of taste
--  Muscle cramps, muscle spasms, muscle weakness, pain in your limbs
--  Blurred vision
--  Infection of the outermost layer of the eye and the inner surface of the eyelids (conjunctivitis)
--  Nose bleeds
--  Difficulty or problems in sleeping, sweating, anxiety, mood swings, depressed mood, restlessness or agitation, changes in your mental status, disorientation
--  Swelling of body, to include around eyes and other parts of the body
+- Low blood pressure, sudden fall of blood pressure on standing which may lead to fainting
+- High blood pressure
+- Reduced functioning of your kidneys
+- Headache
+- General ill feeling, pain, vertigo, light-headedness, a feeling of weakness or loss of consciousness
+- Shivering
+- Infections, including pneumonia, respiratory infections, bronchitis, fungal infections, coughing with phlegm, flu like illness
+- Shingles (localised including around the eyes or spread across the body)
+- Chest pains or shortness of breath with exercise
+- Different types of rash
+- Itching of the skin, lumps on the skin or dry skin
+- Facial blushing or tiny broken capillaries
+- Redness of the skin
+- Dehydration
+- Heartburn, bloating, belching, wind, stomach pain, bleeding from your bowels or stomach
+- Alteration of liver functioning
+- A sore mouth or lip, dry mouth, mouth ulcers or throat pain
+- Weight loss, loss of taste
+- Muscle cramps, muscle spasms, muscle weakness, pain in your limbs
+- Blurred vision
+- Infection of the outermost layer of the eye and the inner surface of the eyelids (conjunctivitis)
+- Nose bleeds
+- Difficulty or problems in sleeping, sweating, anxiety, mood swings, depressed mood, restlessness or agitation, changes in your mental status, disorientation
+- Swelling of body, to include around eyes and other parts of the body
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
--  Heart failure, heart attack, chest pain, chest discomfort, increased or reduced heart rate
--  Failing of your kidneys
--  Inflammation of a vein, blood clots in your veins and lungs
--  Problems with blood clotting
+- Heart failure, heart attack, chest pain, chest discomfort, increased or reduced heart rate
+- Failing of your kidneys
+- Inflammation of a vein, blood clots in your veins and lungs
+- Problems with blood clotting
 
 <div style=\"page-break-after: always\"></div>
 
--  Insufficient circulation
--  Inflammation of the lining around your heart or fluid around your heart
--  Infections including urinary tract infections, the flu, herpes virus infections, ear infection and cellulitis
--  Bloody stools, or bleeding from mucosal membranes, e.g., mouth, vagina
--  Cerebrovascular disorders
--  Paralysis, seizures, falling, movement disorders, abnormal or change in, or reduced sensation (feeling, hearing, tasting, smelling), attention disturbance, trembling, twitching
--  Arthritis, including inflammation of the joints in the fingers, toes, and the jaw
--  Disorders that affect your lungs, preventing your body from getting enough oxygen. Some of these include difficulty breathing, shortness of breath, shortness of breath without exercise, breathing that becomes shallow, difficult or stops, wheezing
--  Hiccups, speech disorders
--  Increased or decreased urine production (due to kidney damage), painful passing of urine or blood/proteins in the urine, fluid retention
--  Altered levels of consciousness, confusion, memory impairment or loss
--  Hypersensitivity
--  Hearing loss, deafness or ringing in the ears, ear discomfort
--  Hormone abnormality which may affect salt and water absorption
--  Overactive thyroid gland
--  Inability to produce enough insulin or resistance to normal levels of insulin
--  Irritated or inflamed eyes, excessively wet eyes, painful eyes, dry eyes, eye infections, lump in the eyelid (chalazion), red and swollen eyelids, discharge from the eyes, abnormal vision, bleeding of the eye
--  Swelling of your lymph glands
--  Joint or muscle stiffness, sense of heaviness, pain in your groin
--  Hair loss and abnormal hair texture
--  Allergic reactions
--  Redness or pain at the injection site
--  Mouth pain
--  Infections or inflammation of the mouth, mouth ulcers, oesophagus, stomach and intestines, sometimes associated with pain or bleeding, poor movement of the intestines (including blockage), abdominal or oesophageal discomfort, difficulty swallowing, vomiting of blood
--  Skin infections
--  Bacterial and viral infections
--  Tooth infection
--  Inflammation of the pancreas, obstruction of the bile duct
--  Genital pain, problem having an erection
--  Weight increase
--  Thirst
--  Hepatitis
--  Injection site or injection device related disorders
--  Skin reactions and disorders (which may be severe and life threatening), skin ulcers
--  Bruises, falls and injuries
--  Inflammation or haemorrhage of the blood vessels that can appear as small red or purple dots (usually on the legs) to large bruise-like patches under the skin or tissue
--  Benign cysts
--  A severe reversible brain condition which includes seizures, high blood pressure, headaches, tiredness, confusion, blindness or other vision problems.
+- Insufficient circulation
+- Inflammation of the lining around your heart or fluid around your heart
+- Infections including urinary tract infections, the flu, herpes virus infections, ear infection and cellulitis
+- Bloody stools, or bleeding from mucosal membranes, e.g., mouth, vagina
+- Cerebrovascular disorders
+- Paralysis, seizures, falling, movement disorders, abnormal or change in, or reduced sensation (feeling, hearing, tasting, smelling), attention disturbance, trembling, twitching
+- Arthritis, including inflammation of the joints in the fingers, toes, and the jaw
+- Disorders that affect your lungs, preventing your body from getting enough oxygen. Some of these include difficulty breathing, shortness of breath, shortness of breath without exercise, breathing that becomes shallow, difficult or stops, wheezing
+- Hiccups, speech disorders
+- Increased or decreased urine production (due to kidney damage), painful passing of urine or blood/proteins in the urine, fluid retention
+- Altered levels of consciousness, confusion, memory impairment or loss
+- Hypersensitivity
+- Hearing loss, deafness or ringing in the ears, ear discomfort
+- Hormone abnormality which may affect salt and water absorption
+- Overactive thyroid gland
+- Inability to produce enough insulin or resistance to normal levels of insulin
+- Irritated or inflamed eyes, excessively wet eyes, painful eyes, dry eyes, eye infections, lump in the eyelid (chalazion), red and swollen eyelids, discharge from the eyes, abnormal vision, bleeding of the eye
+- Swelling of your lymph glands
+- Joint or muscle stiffness, sense of heaviness, pain in your groin
+- Hair loss and abnormal hair texture
+- Allergic reactions
+- Redness or pain at the injection site
+- Mouth pain
+- Infections or inflammation of the mouth, mouth ulcers, oesophagus, stomach and intestines, sometimes associated with pain or bleeding, poor movement of the intestines (including blockage), abdominal or oesophageal discomfort, difficulty swallowing, vomiting of blood
+- Skin infections
+- Bacterial and viral infections
+- Tooth infection
+- Inflammation of the pancreas, obstruction of the bile duct
+- Genital pain, problem having an erection
+- Weight increase
+- Thirst
+- Hepatitis
+- Injection site or injection device related disorders
+- Skin reactions and disorders (which may be severe and life threatening), skin ulcers
+- Bruises, falls and injuries
+- Inflammation or haemorrhage of the blood vessels that can appear as small red or purple dots (usually on the legs) to large bruise-like patches under the skin or tissue
+- Benign cysts
+- A severe reversible brain condition which includes seizures, high blood pressure, headaches, tiredness, confusion, blindness or other vision problems.
 
 ## Rare side effects (may affect up to 1 in 1,000 people)
 
--  Heart problems to include heart attack, angina
--  Serious nerve inflammation, which may cause paralysis and difficulty breathing (Guillain-Barré syndrome)
--  Flushing
+- Heart problems to include heart attack, angina
+- Serious nerve inflammation, which may cause paralysis and difficulty breathing (Guillain-Barré syndrome)
+- Flushing
 
 <div style=\"page-break-after: always\"></div>
 
--  Discolouration of the veins
--  Inflammation of the spinal nerve
--  Problems with your ear, bleeding from your ear
--  Underactivity of your thyroid gland
--  Budd-Chiari syndrome (the clinical symptoms caused by blockage of the hepatic veins)
--  Changes in or abnormal bowel function
--  Bleeding in the brain
--  Yellow discolouration of eyes and skin (jaundice)
--  Serious allergic reaction (anaphylactic shock) signs of which may include difficulty breathing, chest pain or chest tightness, and/or feeling dizzy/faint, severe itching of the skin or raised lumps on the skin, swelling of the face, lips, tongue and /or throat, which may cause difficulty in swallowing, collapse
--  Breast disorders
--  Vaginal tears
--  Genital swelling
--  Inability to tolerate alcohol consumption
--  Wasting, or loss of body mass
--  Increased appetite
--  Fistula
--  Joint effusion
--  Cysts in the lining of joints (synovial cysts)
--  Fracture
--  Breakdown of muscle fibers leading to other complications
--  Swelling of the liver, bleeding from the liver
--  Cancer of the kidney
--  Psoriasis like skin condition
--  Cancer of the skin
--  Paleness of the skin
--  Increase of platelets or plasma cells (a type of white cell) in the blood
--  Blood clot in small blood vessels (thrombotic microangiopathy)
--  Abnormal reaction to blood transfusions
--  Partial or total loss of vision
--  Decreased sex drive
--  Drooling
--  Bulging eyes
--  Sensitivity to light
--  Rapid breathing
--  Rectal pain
--  Gallstones
--  Hernia
--  Injuries
--  Brittle or weak nails
--  Abnormal protein deposits in your vital organs
--  Coma
--  Intestinal ulcers
--  Multi-organ failure
--  Death
+- Discolouration of the veins
+- Inflammation of the spinal nerve
+- Problems with your ear, bleeding from your ear
+- Underactivity of your thyroid gland
+- Budd -Chiari syndrome (the clinical symptoms caused by blockage of the hepatic veins)
+- Changes in or abnormal bowel function
+- Bleeding in the brain
+- Yellow discolouration of eyes and skin (jaundice)
+- Serious allergic reaction (anaphylactic shock) signs of which may include difficulty breathing, chest pain or chest tightness, and/or feeling dizzy/faint, severe itching of the skin or raised lumps on the skin, swelling of the face, lips, tongue and /or throat, which may cause difficulty in swallowing, collapse
+- Breast disorders
+- Vaginal tears
+- Genital swelling
+- Inability to tolerate alcohol consumption
+- Wasting, or loss of body mass
+- Increased appetite
+- Fistula
+- Joint effusion
+- Cysts in the lining of joints (synovial cysts)
+- Fracture
+- Breakdown of muscle fibers leading to other complications
+- Swelling of the liver, bleeding from the liver
+- Cancer of the kidney
+- Psoriasis like skin condition
+- Cancer of the skin
+- Paleness of the skin
+- Increase of platelets or plasma cells (a type of white cell) in the blood
+- Blood clot in small blood vessels (thrombotic microangiopathy)
+- Abnormal reaction to blood transfusions
+- Partial or total loss of vision
+- Decreased sex drive
+- Drooling
+- Bulging eyes
+- Sensitivity to light
+- Rapid breathing
+- Rectal pain
+- Gallstones
+- Hernia
+- Injuries
+- Brittle or weak nails
+- Abnormal protein deposits in your vital organs
+- Coma
+- Intestinal ulcers
+- Multi-organ failure
+- Death
 
 If you are given Bortezomib Accord together with other medicines for the treatment of mantle cell lymphoma the side effects you may get are listed below:
 
 ## Very common side effects (may affect more than 1 in 10 people)
 
--  Pneumonia
--  Loss of appetite
+- Pneumonia
+- Loss of appetite
 
 <div style=\"page-break-after: always\"></div>
 
--  Sensitivity, numbness, tingling or burning sensation of the skin, or pain in the hands or feet, due to nerve damage
--  Nausea and vomiting
--  Diarrhoea
--  Mouth ulcers
--  Constipation
--  Muscle pain, bone pain
--  Hair loss and abnormal hair texture
--  Tiredness, feeling weak
--  Fever
+- Sensitivity, numbness, tingling or burning sensation of the skin, or pain in the hands or feet, due to nerve damage
+- Nausea and vomiting
+- Diarrhoea
+- Mouth ulcers
+- Constipation
+- Muscle pain, bone pain
+- Hair loss and abnormal hair texture
+- Tiredness, feeling weak
+- Fever
 
 ## Common side effects (may affect up to 1 in 10 people)
 
--  Shingles (localised including around the eyes or spread across the body)
--  Herpes virus infections
--  Bacterial and viral infections
--  Respiratory infections, bronchitis, coughing with phlegm, flu like illness
--  Fungal infections
--  Hypersensitivity (allergic reaction)
--  Inability to produce enough insulin or resistance to normal levels of insulin
--  Fluid retention
--  Difficulty or problems in sleeping
--  Loss of consciousness
--  Altered level of consciousness, confusion
--  Feeling dizzy
--  Increased heartbeat, high blood pressure, sweating,
--  Abnormal vision, blurred vision
--  Heart failure, heart attack, chest pain, chest discomfort, increased or reduced heart rate
--  High or low blood pressure
--  Sudden fall of blood pressure upon standing which may lead to fainting
--  Shortness of breath with exercise
--  Cough
--  Hiccups
--  Ringing in the ears, ear discomfort
--  Bleeding from your bowels or stomach
--  Heartburn
--  Stomach pain, bloating
--  Difficulty swallowing
--  Infection or inflammation of the stomach and intestines
--  Stomach pain
--  Sore mouth or lip, throat pain
--  Alteration of liver function
--  Itching of skin
--  Redness of skin
--  Rash
--  Muscle spasms
--  Infection of the urinary tract
--  Pain in limbs
--  Swelling of body, to include eyes and other parts of the body
--  Shivering
--  Redness and pain at injection site
--  General ill feeling
--  Weight loss
--  Weight increase
+- Shingles (localised including around the eyes or spread across the body)
+- Herpes virus infections
+- Bacterial and viral infections
+- Respiratory infections, bronchitis, coughing with phlegm, flu like illness
+- Fungal infections
+- Hypersensitivity (allergic reaction)
+- Inability to produce enough insulin or resistance to normal levels of insulin
+- Fluid retention
+- Difficulty or problems in sleeping
+- Loss of consciousness
+- Altered level of consciousness, confusion
+- Feeling dizzy
+- Increased heartbeat, high blood pressure, sweating,
+- Abnormal vision, blurred vision
+- Heart failure, heart attack, chest pain, chest discomfort, increased or reduced heart rate
+- High or low blood pressure
+- Sudden fall of blood pressure upon standing which may lead to fainting
+- Shortness of breath with exercise
+- Cough
+- Hiccups
+- Ringing in the ears, ear discomfort
+- Bleeding from your bowels or stomach
+- Heartburn
+- Stomach pain, bloating
+- Difficulty swallowing
+- Infection or inflammation of the stomach and intestines
+- Stomach pain
+- Sore mouth or lip, throat pain
+- Alteration of liver function
+- Itching of skin
+- Redness of skin
+- Rash
+- Muscle spasms
+- Infection of the urinary tract
+- Pain in limbs
+- Swelling of body, to include eyes and other parts of the body
+- Shivering
+- Redness and pain at injection site
+- General ill feeling
+- Weight loss
+- Weight increase
 
 <div style=\"page-break-after: always\"></div>
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
--  Hepatitis
--  Severe allergic reaction (anaphylactic reaction) signs of which may include difficulty breathing, chest pain or chest tightness, and/or feeling dizzy/faint, severe itching of the skin or raised lumps on the skin, swelling of the face, lips, tongue and /or throat, which may cause difficulty in swallowing, collapse
--  Movement disorders, paralysis, twitching
--  Vertigo
--  Hearing loss, deafness
--  Disorders that affect your lungs, preventing your body from getting enough oxygen. Some of these include difficulty breathing, shortness of breath, shortness of breath without exercise, breathing that becomes shallow, difficult or stops, wheezing
--  Blood clots in your lungs
--  Yellow discolouration of the eyes and skin (jaundice)
--  Lump in the eyelid (chalazion), red and swollen eyelids
+- Hepatitis
+- Severe allergic reaction (anaphylactic reaction) signs of which may include difficulty breathing, chest pain or chest tightness, and/or feeling dizzy/faint, severe itching of the skin or raised lumps on the skin, swelling of the face, lips, tongue and /or throat, which may cause difficulty in swallowing, collapse
+- Movement disorders, paralysis, twitching
+- Vertigo
+- Hearing loss, deafness
+- Disorders that affect your lungs, preventing your body from getting enough oxygen. Some of these include difficulty breathing, shortness of breath, shortness of breath without exercise, breathing that becomes shallow, difficult or stops, wheezing
+- Blood clots in your lungs
+- Yellow discolouration of the eyes and skin (jaundice)
+- Lump in the eyelid (chalazion), red and swollen eyelids
 
 ## Rare side effects (may affect up to 1 in 1,000 people)
 
--  Blood clot in small blood vessels (thrombotic microangiopathy)
--  Serious nerve inflammation, which may cause paralysis and difficulty breathing (Guillain-Barré syndrome)
+- Blood clot in small blood vessels (thrombotic microangiopathy)
+- Serious nerve inflammation, which may cause paralysis and difficulty breathing (Guillain-Barré syndrome)
 
 ## Reporting of side effects
 
@@ -3793,19 +3817,21 @@ Each carton of Bortezomib Accord 3.5 mg powder for solution for injection contai
 
 ## Marketing Authorisation Holder
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona s/n, Edifici Est 6ª planta 08039 Barcelona
-
-Spain
+Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona s/n, Edifici Est 6ª planta 08039 Barcelona Spain
 
 ## Manufacturer
 
 Accord Healthcare Polska Sp.z o.o., ul. Lutomierska 50,95-200 Pabianice Poland
 
+Accord Healthcare single member S.A., 64th Km National Road Athens, Lamia, Schimatari, 32009,
+
+Greece
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PT / PL / RO / SE / SI / SK / ES
+<div style=\"page-break-after: always\"></div>
 
-Accord Healthcare S.L.U.
+AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PT / PL / RO / SE / SI / SK / ES Accord Healthcare S.L.U.
 
 Tel: +34 93 301 00 64
 
@@ -3813,7 +3839,7 @@ EL
 
 Win Medica A.E.
 
-<div style=\"page-break-after: always\"></div>
+Tel: +30 210 7488 821
 
 ## This leaflet was last revised in
 
@@ -3844,10 +3870,10 @@ It is not necessary to protect the reconstituted medicinal product from light.
 
 ## 2. ADMINISTRATION
 
--  Once dissolved, withdraw the appropriate amount of the reconstituted solution according to calculated dose based upon the patient´s Body Surface Area.
--  Confirm the dose and concentration in the syringe prior to use (check that the syringe is marked as intravenous administration).
--  Inject the solution as a 3-5 second bolus intravenous injection through a peripheral or central intravenous catheter into a vein.
--  Flush the peripheral or intravenous catheter with sterile, 9 mg/ml (0.9%) sodium chloride solution.
+- Once dissolved, withdraw the appropriate amount of the reconstituted solution according to calculated dose based upon the patient´s Body Surface Area.
+- Confirm the dose and concentration in the syringe prior to use (check that the syringe is marked as intravenous administration).
+- Inject the solution as a 3-5 second bolus intravenous injection through a peripheral or central intravenous catheter into a vein.
+- Flush the peripheral or intravenous catheter with sterile, 9 mg/ml (0.9%) sodium chloride solution.
 
 Bortezomib Accord 1 mg powder for solution for injection IS FOR INTRAVENOUS USE ONLY, while Bortezomib Accord 3.5 mg powder for solution for injection IS FOR SUBCUTANEOUS OR INTRAVENOUS USE. Do not give by other routes. Intrathecal administration has resulted in death.
 
@@ -3876,17 +3902,15 @@ It is not necessary to protect the reconstituted medicinal product from light.
 
 ## 2. ADMINISTRATION
 
--  Once dissolved, withdraw the appropriate amount of the reconstituted solution according to calculated dose based upon the patient´s Body Surface Area.
--  Confirm the dose and concentration in the syringe prior to use. (check that the syringe is marked as subcutaneous administration).
--  Inject the solution subcutaneously, under a 45-90°angle.
--  The reconstituted solution is administered subcutaneously through the thighs (right or left) or abdomen (right or left).
--  Injection sites should be rotated for successive injections.
--  If local injection site reactions occur following Bortezomib Accord injection subcutaneously, either a less concentrated Bortezomib Accord solution (1 mg/ml instead of 2.5 mg/ml) may be administered subcutaneously or a switch to intravenous injection is recommended.
+- Once dissolved, withdraw the appropriate amount of the reconstituted solution according to calculated dose based upon the patient´s Body Surface Area.
+- Confirm the dose and concentration in the syringe prior to use. (check that the syringe is marked as subcutaneous administration).
+- Inject the solution subcutaneously, under a 45-90°angle.
+- The reconstituted solution is administered subcutaneously through the thighs (right or left) or abdomen (right or left).
+- Injection sites should be rotated for successive injections.
+- If local injection site reactions occur following Bortezomib Accord injection subcutaneously, either a less concentrated Bortezomib Accord solution (1 mg/ml instead of 2.5 mg/ml) may be administered subcutaneously or a switch to intravenous injection is recommended.
 
 Bortezomib Accord 3.5 mg powder for solution for injection IS FOR SUBCUTANEOUS OR INTRAVENOUS USE. Do not give by other routes. Intrathecal administration has resulted in death.
 
 ## 3. DISPOSAL
 
-A vial is for single use only and the remaining solution must be discarded.
-
-Any unused product or waste material should be disposed of in accordance with local requirements.
+A vial is for single use only and the remaining solution must be discarded. Any unused product or waste material should be disposed of in accordance with local requirements.

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-05 15:50:15
-document_pages: 42
+document_datetime: 2026-03-27 15:31:28
+document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/wakix-epar-product-information_en.pdf
 document_name: wakix-epar-product-information_en.pdf
 version: success
-processing_time: 8.4477645
-conversion_datetime: 2025-12-28 03:25:19.777971
+processing_time: 9.2766424
+conversion_datetime: 2026-03-29 12:27:20.942646
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -626,27 +626,17 @@ An updated RMP should be submitted:
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-## · Obligation to conduct post-authorisation measures
-
-The MAH shall complete, within the stated timeframe, the below measures:
-
 <div style=\"page-break-after: always\"></div>
 
-| Description                                                                                                                                                                                                                                              | Due date              |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
-| Non-interventional post-authorisation safety study (PASS): A multi-center, observational post-authorization safety study to document the drug utilisation of Wakixand to collect information on the safety of Wakixwhen used in routine medical practice | Final report: 1Q 2025 |
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX III
-
-## LABELLING AND PACKAGE LEAFLET
+## ANNEX III LABELLING AND PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
 - A. LABELLING
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING CARTON
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -660,7 +650,7 @@ Each film-coated tablet contains pitolisant hydrochloride, equivalent to 4.45 mg
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 30 film-coated tablets
+30 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -702,8 +692,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -742,8 +732,7 @@ BN
 
 30 tablets
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -825,9 +814,9 @@ PC:
 
 SN:
 
-<div style=\"page-break-after: always\"></div>
-
 NN:
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -843,7 +832,7 @@ Wakix 18 mg film-coated tablets pitolisant
 
 Each film-coated tablet contains pitolisant hydrochloride equivalent to 17.8 mg of pitolisant.
 
-3. LIST OF EXCIPIENTS
+## 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1138,7 +1127,7 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. If you notice any side effects, contact your doctor.
 
-## Common side effects (may affect up to 1 in 10 people):
+Common side effects (may affect up to 1 in 10 people):
 
 - -Difficulty in sleeping, feeling anxious, feeling irritable, feeling depressed, sleeping problems
 - -Headaches, feeling of 'spinning' (vertigo), loss of balance, trembling
@@ -1154,11 +1143,7 @@ Uncommon side effects (may affect up to 1 in 100 people):
 - -Changing emotions
 - -Abnormal dreams
 - -Tension
-
--
-
-Difficulty in falling asleep at the beginning of the night or in the middle of the night or at the end of the night, difficulty in staying asleep, excessive sleepiness, somnolence
-
+- -Difficulty in falling asleep at the beginning of the night or in the middle of the night or at the end of the night, difficulty in staying asleep, excessive sleepiness, somnolence
 - -State of indifference with lack of emotion
 - -Nightmare
 - -Feeling restless and unable to keep still
@@ -1288,11 +1273,17 @@ BIOXA Therapeutics (Czech) s.r.o. +420 606 501 778 info@bioxa.cz
 
 ## Magyarország
 
-UAB Norameda +370 5 2306499 info@norameda.com
+UAB Norameda +370 5 2306499
+
+info@norameda.com
 
 ## Danmark
 
-Zambon Sweden, filial of Zambon Nederland B.V. +46 (0)10 33 50 800
+Zambon Sweden, filial of Zambon Nederland
+
+B.V.
+
++46 (0)10 33 50 800
 
 contact@zambongroup.com
 
@@ -1314,9 +1305,7 @@ UAB Norameda Eesti filiaal +372 514 2118 info@norameda.com
 
 Bioprojet Pharma
 
-0033 (0)1 47 03 66 33
-
-contact@bioprojet.com
+0033 (0)1 47 03 66 33 contact@bioprojet.com
 
 ## España
 
@@ -1398,13 +1387,9 @@ contact@zambongroup.com
 
 ## Sverige
 
-Zambon Sweden, filial of Zambon Nederland B.V.
+Zambon Sweden, filial of Zambon Nederland B.V. +46 (0)10 33 50 800 contact@zambongroup.com
 
-+46 (0)10 33 50 800
-
-contact@zambongroup.com
-
-United Kingdom (Northern Ireland)
+## United Kingdom (Northern Ireland)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1419,3 +1404,31 @@ Detailed information on this medicine is available on the European Medicines Age
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
 
 Bioprojet Pharma 0033 (0)1 47 03 66 33 contact@bioprojet.com
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report for the non-interventional imposed PASS final study report for the medicinal product(s) mentioned above, the scientific conclusions of CHMP are as follows:
+
+The MAH has fulfilled the commitment to present the final results of a non-interventional postauthorisation safety study:
+
+A 5-year multi-center, observational post-authorisation safety study to document the utilisation of Wakix in the treatment of narcolepsy with and without cataplexy and to collect information on its long-term safety when used in routine medical practice.
+
+The study has provided data on the long-term use and safety of pitolisant in real-world setting. The final data do not indicate any new and unexpected safety findings with pitolisant.
+
+Therefore, in view of available data regarding the PASS final study report, the PRAC considered that changes to the conditions of the marketing authorisation were warranted.
+
+The CHMP agrees with the scientific conclusions made by the PRAC.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for the results of the study for the medicinal product(s) mentioned above, the CHMP is of the opinion that the benefit-risk balance of these medicinal product(s) is unchanged, subject to the proposed changes to the product information.
+
+The CHMP is of the opinion that the terms of the marketing authorisation(s) of the medicinal product(s) mentioned above should be varied.

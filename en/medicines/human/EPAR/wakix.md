@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:53:40
+document_datetime: 2026-03-27 16:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/wakix.html
 document_name: wakix.html
 version: success
-processing_time: 0.103853
-conversion_datetime: 2025-12-30 12:52:11.190801
+processing_time: 0.0900293
+conversion_datetime: 2026-03-29 12:28:34.313365
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Wakix
 
 [RSS](/en/individual-human-medicine.xml/65663)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-pitolisant Medicine Human Authorised
+pitolisant
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -113,275 +113,141 @@ Reference Number: EMA/63272/2023
 
 English (EN) (122.09 KB - PDF)
 
-**First published:** 13/04/2016
-
-**Last updated:** 20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/en/documents/overview/wakix-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-897)
+[Other languages (22)](#file-language-dropdown-13)
 
 български (BG) (149.89 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/bg/documents/overview/wakix-epar-summary-public_bg.pdf)
 
 español (ES) (123.73 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/es/documents/overview/wakix-epar-summary-public_es.pdf)
 
 čeština (CS) (145.99 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/cs/documents/overview/wakix-epar-summary-public_cs.pdf)
 
 dansk (DA) (122.71 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/da/documents/overview/wakix-epar-summary-public_da.pdf)
 
 Deutsch (DE) (126.03 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/de/documents/overview/wakix-epar-summary-public_de.pdf)
 
 eesti keel (ET) (122.3 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/et/documents/overview/wakix-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (148.1 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/el/documents/overview/wakix-epar-summary-public_el.pdf)
 
 français (FR) (124.55 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/fr/documents/overview/wakix-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (147.28 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/hr/documents/overview/wakix-epar-summary-public_hr.pdf)
 
 italiano (IT) (122.17 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/it/documents/overview/wakix-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (155.53 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/lv/documents/overview/wakix-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (151.99 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/lt/documents/overview/wakix-epar-summary-public_lt.pdf)
 
 magyar (HU) (146.92 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/hu/documents/overview/wakix-epar-summary-public_hu.pdf)
 
 Malti (MT) (149.73 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/mt/documents/overview/wakix-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (124.57 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/nl/documents/overview/wakix-epar-summary-public_nl.pdf)
 
 polski (PL) (147.62 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/pl/documents/overview/wakix-epar-summary-public_pl.pdf)
 
 português (PT) (124.43 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/pt/documents/overview/wakix-epar-summary-public_pt.pdf)
 
 română (RO) (146.43 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/ro/documents/overview/wakix-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (146.11 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/sk/documents/overview/wakix-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (145.2 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/sl/documents/overview/wakix-epar-summary-public_sl.pdf)
 
 Suomi (FI) (120.55 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/fi/documents/overview/wakix-epar-summary-public_fi.pdf)
 
 svenska (SV) (122.02 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/sv/documents/overview/wakix-epar-summary-public_sv.pdf)
 
@@ -389,9 +255,7 @@ Wakix : EPAR - Risk-management-plan summary
 
 English (EN) (252.36 KB - PDF)
 
-**First published:** 13/04/2016
-
-**Last updated:** 20/04/2023
+**First published:** 13/04/2016 **Last updated:** 20/04/2023
 
 [View](/en/documents/rmp-summary/wakix-epar-risk-management-plan-summary_en.pdf)
 
@@ -399,305 +263,161 @@ English (EN) (252.36 KB - PDF)
 
 Wakix : EPAR - Product Information
 
-English (EN) (551.47 KB - PDF)
+English (EN) (552 KB - PDF)
 
-**First published:** 13/04/2016
-
-**Last updated:** 05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/en/documents/product-information/wakix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-632)
+[Other languages (24)](#file-language-dropdown-528)
 
-български (BG) (765.75 KB - PDF)
+български (BG) (770.45 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/bg/documents/product-information/wakix-epar-product-information_bg.pdf)
 
-español (ES) (564.62 KB - PDF)
+español (ES) (552.6 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/es/documents/product-information/wakix-epar-product-information_es.pdf)
 
-čeština (CS) (629.45 KB - PDF)
+čeština (CS) (638.12 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/cs/documents/product-information/wakix-epar-product-information_cs.pdf)
 
-dansk (DA) (619.61 KB - PDF)
+dansk (DA) (617.47 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/da/documents/product-information/wakix-epar-product-information_da.pdf)
 
-Deutsch (DE) (629.92 KB - PDF)
+Deutsch (DE) (620.13 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/de/documents/product-information/wakix-epar-product-information_de.pdf)
 
-eesti keel (ET) (605.63 KB - PDF)
+eesti keel (ET) (594.75 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/et/documents/product-information/wakix-epar-product-information_et.pdf)
 
-ελληνικά (EL) (679.41 KB - PDF)
+ελληνικά (EL) (662.06 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/el/documents/product-information/wakix-epar-product-information_el.pdf)
 
-français (FR) (619.84 KB - PDF)
+français (FR) (612.85 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/fr/documents/product-information/wakix-epar-product-information_fr.pdf)
 
-hrvatski (HR) (630.78 KB - PDF)
+hrvatski (HR) (631.46 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/hr/documents/product-information/wakix-epar-product-information_hr.pdf)
 
-íslenska (IS) (601.92 KB - PDF)
+íslenska (IS) (589.99 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/is/documents/product-information/wakix-epar-product-information_is.pdf)
 
-italiano (IT) (575.13 KB - PDF)
+italiano (IT) (569 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/it/documents/product-information/wakix-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (660.35 KB - PDF)
+latviešu valoda (LV) (652.27 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/lv/documents/product-information/wakix-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (663.99 KB - PDF)
+lietuvių kalba (LT) (670.07 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/lt/documents/product-information/wakix-epar-product-information_lt.pdf)
 
-magyar (HU) (667.63 KB - PDF)
+magyar (HU) (661.97 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/hu/documents/product-information/wakix-epar-product-information_hu.pdf)
 
-Malti (MT) (653 KB - PDF)
+Malti (MT) (642.44 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/mt/documents/product-information/wakix-epar-product-information_mt.pdf)
 
-Nederlands (NL) (585.2 KB - PDF)
+Nederlands (NL) (553.02 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/nl/documents/product-information/wakix-epar-product-information_nl.pdf)
 
-norsk (NO) (557.05 KB - PDF)
+norsk (NO) (546.37 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/no/documents/product-information/wakix-epar-product-information_no.pdf)
 
-polski (PL) (696.18 KB - PDF)
+polski (PL) (694.72 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/pl/documents/product-information/wakix-epar-product-information_pl.pdf)
 
-português (PT) (638.01 KB - PDF)
+português (PT) (625.13 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/pt/documents/product-information/wakix-epar-product-information_pt.pdf)
 
-română (RO) (631.14 KB - PDF)
+română (RO) (615.44 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/ro/documents/product-information/wakix-epar-product-information_ro.pdf)
 
-slovenčina (SK) (658.31 KB - PDF)
+slovenčina (SK) (669.37 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/sk/documents/product-information/wakix-epar-product-information_sk.pdf)
 
-slovenščina (SL) (640.92 KB - PDF)
+slovenščina (SL) (637.27 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/sl/documents/product-information/wakix-epar-product-information_sl.pdf)
 
-Suomi (FI) (602.47 KB - PDF)
+Suomi (FI) (591.47 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/fi/documents/product-information/wakix-epar-product-information_fi.pdf)
 
-svenska (SV) (583.1 KB - PDF)
+svenska (SV) (570.62 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-05/09/2025
+**First published:** 13/04/2016 **Last updated:** 27/03/2026
 
 [View](/sv/documents/product-information/wakix-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000286030 04/09/2025
+**Latest procedure affecting product information:** PASS/0000281790
+
+19/01/2026
 
 icon globe
 
@@ -717,305 +437,177 @@ Wakix : EPAR - All Authorised presentations
 
 English (EN) (63.41 KB - PDF)
 
-**First published:** 13/04/2016
-
-**Last updated:** 14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/en/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-620)
+[Other languages (24)](#file-language-dropdown-314)
 
 български (BG) (58.83 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/bg/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (65.39 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/es/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (67.02 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/cs/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (64.49 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/da/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (64.44 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/de/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (64.75 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/et/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (73.06 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/el/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (64.23 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/fr/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (65.92 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/hr/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (65.36 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/is/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (64.27 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/it/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (66.45 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/lv/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (67.28 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/lt/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (67.3 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/hu/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (65.57 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/mt/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (63.61 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/nl/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (63.34 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/no/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (68.31 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/pl/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (65.55 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/pt/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (65.21 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/ro/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (68.31 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/sk/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (65.99 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/sl/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (63.54 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/fi/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (64.36 KB - PDF)
 
-**First published:**
-
-13/04/2016
-
-**Last updated:**
-
-14/01/2019
+**First published:** 13/04/2016 **Last updated:** 14/01/2019
 
 [View](/sv/documents/all-authorised-presentations/wakix-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Wakix Active substance pitolisant International non-proprietary name (INN) or common name pitolisant Therapeutic area (MeSH) Narcolepsy Anatomical therapeutic chemical (ATC) code N07XX11
+Name of medicine
+
+Wakix
+
+Active substance
+
+pitolisant
+
+International non-proprietary name (INN) or common name
+
+pitolisant
+
+Therapeutic area (MeSH)
+
+Narcolepsy
+
+Anatomical therapeutic chemical (ATC) code
+
+N07XX11
 
 ### Pharmacotherapeutic group
 
@@ -1027,7 +619,9 @@ Wakix is indicated in adults, adolescents and children from the age of 6 years f
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/002616
+EMA product number
+
+EMEA/H/C/002616
 
 Additional monitoring
 
@@ -1043,7 +637,17 @@ Bioprojet Pharma
 
 9 rue Rameau
 
-Opinion adopted 19/11/2015 Marketing authorisation issued 31/03/2016 Revision 18
+Opinion adopted
+
+19/11/2015
+
+Marketing authorisation issued
+
+31/03/2016
+
+Revision
+
+19
 
 ## Assessment history
 
@@ -1055,9 +659,9 @@ Collapse section
 
 Wakix : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.41 KB - PDF)
+English (EN) (172.32 KB - PDF)
 
-**First published:** 05/09/2025
+**First published:** 05/09/2025 **Last updated:** 27/03/2026
 
 [View](/en/documents/procedural-steps-after/wakix-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1065,17 +669,23 @@ Wakix : EPAR - Procedural steps taken and scientific information after authorisa
 
 English (EN) (145.84 KB - PDF)
 
-**First published:** 30/11/2016
-
-**Last updated:** 05/09/2025
+**First published:** 30/11/2016 **Last updated:** 05/09/2025
 
 [View](/en/documents/procedural-steps-after/wakix-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Wakix-PASS-0000281790 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1829012207-47705
+
+English (EN) (148.21 KB - PDF)
+
+**First published:** 27/03/2026
+
+[View](/en/documents/scientific-conclusion/wakix-pass-0000281790-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
+
 Wakix-H-C-2616-II-0030 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/180217/2023
+Adopted Reference Number: EMA/CHMP/180217/2023
 
 English (EN) (1.98 MB - PDF)
 
@@ -1095,9 +705,7 @@ English (EN) (119.08 KB - PDF)
 
 CHMP post-authorisation summary of opinion for Wakix (II-30)
 
-Adopted
-
-Reference Number: EMA/CHMP/7134/2023
+Adopted Reference Number: EMA/CHMP/7134/2023
 
 English (EN) (126.72 KB - PDF)
 
@@ -1119,52 +727,50 @@ English (EN) (160.28 KB - PDF)
 
 Wakix : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/828546/2015
+Adopted Reference Number: EMA/828546/2015
 
 English (EN) (3.37 MB - PDF)
 
-**First published:** 13/04/2016
-
-**Last updated:** 13/04/2016
+**First published:** 13/04/2016 **Last updated:** 13/04/2016
 
 [View](/en/documents/assessment-report/wakix-epar-public-assessment-report_en.pdf)
 
 CHMP summary of opinion for Wakix
 
-Adopted
-
-Reference Number: EMA/CHMP/759419/2015
+Adopted Reference Number: EMA/CHMP/759419/2015
 
 English (EN) (66.8 KB - PDF)
 
-**First published:** 20/11/2015
-
-**Last updated:** 20/11/2015
+**First published:** 20/11/2015 **Last updated:** 20/11/2015
 
 [View](/en/documents/smop-initial/chmp-summary-opinion-wakix_en.pdf)
 
-#### News on Wakix
+## News on Wakix
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 January 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-january-2023) 27/01/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 January 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-january-2023)
 
-[Narcolepsy treatment recommended for approval](/en/news/narcolepsy-treatment-recommended-approval) 20/11/2015
+27/01/2023
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 November 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-november-2015) 20/11/2015
+[Narcolepsy treatment recommended for approval](/en/news/narcolepsy-treatment-recommended-approval)
 
-#### More information on Wakix
+20/11/2015
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 November 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-november-2015)
+
+20/11/2015
+
+## More information on Wakix
 
 - [EU/3/07/459 - orphan designation for treatment of narcolepsy](/en/medicines/human/orphan-designations/eu-3-07-459)
 - [EMEA-001176-PIP01-11-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001176-pip01-11-m06)
 - [A 5-year multi-center, observational post-authorization safety study to document the drug utilisation of Wakix® in the treatment of narcolepsy with or without cataplexy and to collect information on its long termthe safety of Wakix® when used in routine medical practice (WAKIX PASS) - post-authorisation study](https://catalogues.ema.europa.eu/study/40614)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 05/09/2025
+**This page was last updated on**
+
+27/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

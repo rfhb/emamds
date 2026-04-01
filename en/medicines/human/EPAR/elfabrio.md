@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-17 17:10:00
+document_datetime: 2026-03-31 17:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/elfabrio.html
 document_name: elfabrio.html
 version: success
-processing_time: 0.0948205
-conversion_datetime: 2026-03-21 13:27:38.644296
+processing_time: 0.1117628
+conversion_datetime: 2026-04-01 12:25:41.362592
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.81.0
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
   docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Elfabrio
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-pegunigalsidase alfa Medicine Human Authorised
+pegunigalsidase alfa
+
+Medicine Human Authorised
 
 Page contents
 
@@ -57,7 +59,7 @@ Collapse section
 
 Elfabrio can only be obtained with a prescription and treatment should be supervised by a doctor with experience in treating Fabry disease.
 
-Elfabrio is available as an infusion (drip) into a vein, which is given once every two weeks. It is intended for long-term use. All patients are monitored for any reactions during the infusion and for at least one to two hours afterwards. To reduce the risk of infusion-related reactions, patients may be given other medicines before or during treatment with Elfabrio or the infusion time may be slowed down. The infusions are given in hospital but may be given at home if the patient is tolerating the infusions well.
+Elfabrio is available as an infusion (drip) into a vein, which is given once every two or four weeks. It is intended for long-term use. All patients are monitored for any reactions during the infusion and for at least one to two hours afterwards. To reduce the risk of infusion-related reactions, patients may be given other medicines before or during treatment with Elfabrio or the infusion time may be slowed down. The infusions are given in hospital but may be given at home if the patient is tolerating the infusions well.
 
 For more information about using Elfabrio, see the package leaflet or contact your doctor or pharmacist.
 
@@ -67,13 +69,15 @@ Elfabrio is an enzyme replacement therapy. This type of therapy provides patient
 
 ## What benefits of Elfabrio have been shown in studies?
 
-The benefits of Elfabrio were evaluated in one main study, involving 78 patients with Fabry disease. The study compared Elfabrio with Fabrazyme, another enzyme replacement therapy used to treat patients with Fabry disease. The main measure of effectiveness was based on glomerular filtration rate (GFR; a measure of how well the kidneys are working), which decreases as a patient's kidney function gets worse. The average GFR reduced by 2.5 mL/min/1.73m2 per year after both 12 and 24 months of treatment with Elfabrio compared with 1.7 mL/min/1.73m2 and 2.2 mL/min/1.73m2 in those who received Fabrazyme. Supportive data showed a significant decrease in the levels of Gb3 in the kidneys and blood of patients treated with Elfabrio.
+The benefits of Elfabrio were evaluated in one main study, involving 78 patients with Fabry disease. The study compared Elfabrio with Fabrazyme, another enzyme replacement therapy used to treat patients with Fabry disease. The main measure of effectiveness was based on glomerular filtration rate (GFR; a measure of how well the kidneys are working), which decreases as a patient's kidney function gets worse. The average GFR reduced by 2.5 mL/min/1.73m 2 per year after both 12 and 24 months of treatment with Elfabrio compared with 1.7 mL/min/1.73m 2 and 2.2 mL/min/1.73m 2 in those who received Fabrazyme. Supportive data showed a significant decrease in the levels of Gb3 in the kidneys and blood of patients treated with Elfabrio.
 
-## What are the risks associated with Elfabrio?
+Studies carried out with Elfabrio are described in more detail in the medicine's assessment reports.
+
+## What are the side effects and restrictions with Elfabrio?
 
 For the full list of side effects and restrictions with Elfabrio, see the package leaflet.
 
-The most common side effects with Elfabrio (which may affect up to 1 in 10 people) include hypersensitivity (allergic reactions), asthenia (weakness) and infusion-associated reactions.
+The most common side effects with Elfabrio (which may affect up to 1 in 10 people) include infusion-associated reactions, nausea (feeling sick), asthenia (weakness) and headache.
 
 Allergic reactions, including excessive and prolonged contraction of the airway muscles causing breathing difficulty (bronchospasm), can occur in people receiving Elfabrio.
 
@@ -97,189 +101,143 @@ Elfabrio received a marketing authorisation valid throughout the EU on 4 May 202
 
 Elfabrio : EPAR - Medicine Overview
 
-Reference Number: EMA/210775/2023
+English (EN) (133.15 KB - PDF)
 
-English (EN) (95.92 KB - PDF)
-
-**First published:** 08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/en/documents/overview/elfabrio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-508)
+[Other languages (22)](#file-language-dropdown-154)
 
-български (BG) (119.58 KB - PDF)
+български (BG) (147.54 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/bg/documents/overview/elfabrio-epar-medicine-overview_bg.pdf)
 
-español (ES) (96.62 KB - PDF)
+español (ES) (122.58 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/es/documents/overview/elfabrio-epar-medicine-overview_es.pdf)
 
-čeština (CS) (114.88 KB - PDF)
+čeština (CS) (144.77 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/cs/documents/overview/elfabrio-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (96.01 KB - PDF)
+dansk (DA) (121.31 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/da/documents/overview/elfabrio-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (96.91 KB - PDF)
+Deutsch (DE) (125.54 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/de/documents/overview/elfabrio-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (94.62 KB - PDF)
+eesti keel (ET) (118.98 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/et/documents/overview/elfabrio-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (128.17 KB - PDF)
+ελληνικά (EL) (145.5 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/el/documents/overview/elfabrio-epar-medicine-overview_el.pdf)
 
-français (FR) (97.02 KB - PDF)
+français (FR) (123.96 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/fr/documents/overview/elfabrio-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (109.89 KB - PDF)
+hrvatski (HR) (143.81 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/hr/documents/overview/elfabrio-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (103.87 KB - PDF)
+italiano (IT) (133.17 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/it/documents/overview/elfabrio-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (124.81 KB - PDF)
+latviešu valoda (LV) (161.13 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/lv/documents/overview/elfabrio-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (121.93 KB - PDF)
+lietuvių kalba (LT) (151.27 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/lt/documents/overview/elfabrio-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (109.96 KB - PDF)
+magyar (HU) (145.27 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/hu/documents/overview/elfabrio-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (115.79 KB - PDF)
+Malti (MT) (147.74 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/mt/documents/overview/elfabrio-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (96.63 KB - PDF)
+Nederlands (NL) (122.2 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/nl/documents/overview/elfabrio-epar-medicine-overview_nl.pdf)
 
-polski (PL) (115.95 KB - PDF)
+polski (PL) (146.15 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/pl/documents/overview/elfabrio-epar-medicine-overview_pl.pdf)
 
-português (PT) (96.47 KB - PDF)
+português (PT) (123.47 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/pt/documents/overview/elfabrio-epar-medicine-overview_pt.pdf)
 
-română (RO) (121.65 KB - PDF)
+română (RO) (141.42 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/ro/documents/overview/elfabrio-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (114.06 KB - PDF)
+slovenčina (SK) (144.63 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/sk/documents/overview/elfabrio-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (109.62 KB - PDF)
+slovenščina (SL) (143.68 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/sl/documents/overview/elfabrio-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (95.66 KB - PDF)
+Suomi (FI) (120.5 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/fi/documents/overview/elfabrio-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (95.81 KB - PDF)
+svenska (SV) (121.47 KB - PDF)
 
-**First published:**
-
-08/05/2023
+**First published:** 08/05/2023 **Last updated:** 31/03/2026
 
 [View](/sv/documents/overview/elfabrio-epar-medicine-overview_sv.pdf)
 
@@ -287,9 +245,7 @@ Elfabrio : EPAR - Risk management plan
 
 English (EN) (618.48 KB - PDF)
 
-**First published:** 08/05/2023
-
-**Last updated:** 17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/en/documents/rmp/elfabrio-epar-risk-management-plan_en.pdf)
 
@@ -299,303 +255,159 @@ Elfabrio : EPAR - Product Information
 
 English (EN) (332.15 KB - PDF)
 
-**First published:** 08/05/2023
-
-**Last updated:** 17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/en/documents/product-information/elfabrio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-42)
+[Other languages (24)](#file-language-dropdown-928)
 
 български (BG) (447.66 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/bg/documents/product-information/elfabrio-epar-product-information_bg.pdf)
 
 español (ES) (339.06 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/es/documents/product-information/elfabrio-epar-product-information_es.pdf)
 
 čeština (CS) (425.25 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/cs/documents/product-information/elfabrio-epar-product-information_cs.pdf)
 
 dansk (DA) (337.79 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/da/documents/product-information/elfabrio-epar-product-information_da.pdf)
 
 Deutsch (DE) (358.74 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/de/documents/product-information/elfabrio-epar-product-information_de.pdf)
 
 eesti keel (ET) (339.3 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/et/documents/product-information/elfabrio-epar-product-information_et.pdf)
 
 ελληνικά (EL) (454.19 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/el/documents/product-information/elfabrio-epar-product-information_el.pdf)
 
 français (FR) (278.42 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/fr/documents/product-information/elfabrio-epar-product-information_fr.pdf)
 
 hrvatski (HR) (415.12 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/hr/documents/product-information/elfabrio-epar-product-information_hr.pdf)
 
 íslenska (IS) (331.82 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/is/documents/product-information/elfabrio-epar-product-information_is.pdf)
 
 italiano (IT) (344.92 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/it/documents/product-information/elfabrio-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (426.16 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/lv/documents/product-information/elfabrio-epar-product-information_lv.pdf)
 
 lietuvių kalba (LT) (420.49 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/lt/documents/product-information/elfabrio-epar-product-information_lt.pdf)
 
 magyar (HU) (426.72 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/hu/documents/product-information/elfabrio-epar-product-information_hu.pdf)
 
 Malti (MT) (371.65 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/mt/documents/product-information/elfabrio-epar-product-information_mt.pdf)
 
 Nederlands (NL) (346.63 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/nl/documents/product-information/elfabrio-epar-product-information_nl.pdf)
 
 norsk (NO) (332.68 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/no/documents/product-information/elfabrio-epar-product-information_no.pdf)
 
 polski (PL) (434.51 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/pl/documents/product-information/elfabrio-epar-product-information_pl.pdf)
 
 português (PT) (346.66 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/pt/documents/product-information/elfabrio-epar-product-information_pt.pdf)
 
 română (RO) (432.08 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/ro/documents/product-information/elfabrio-epar-product-information_ro.pdf)
 
 slovenčina (SK) (428.16 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/sk/documents/product-information/elfabrio-epar-product-information_sk.pdf)
 
 slovenščina (SL) (409.73 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/sl/documents/product-information/elfabrio-epar-product-information_sl.pdf)
 
 Suomi (FI) (339.23 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/fi/documents/product-information/elfabrio-epar-product-information_fi.pdf)
 
 svenska (SV) (333.61 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-17/03/2026
+**First published:** 08/05/2023 **Last updated:** 17/03/2026
 
 [View](/sv/documents/product-information/elfabrio-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0007 05/03/2026
+**Latest procedure affecting product information:** II/0007
+
+05/03/2026
 
 icon globe
 
@@ -615,305 +427,177 @@ Elfabrio : EPAR - All authorised presentations
 
 English (EN) (50.15 KB - PDF)
 
-**First published:** 08/05/2023
-
-**Last updated:** 20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/en/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-936)
+[Other languages (24)](#file-language-dropdown-348)
 
 български (BG) (37.78 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/bg/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (13.82 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/es/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (43.97 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/cs/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (23.9 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/da/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (14.54 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/de/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (14.38 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/et/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (37.78 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/el/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (21.88 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/fr/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (33.87 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/hr/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (21.85 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/is/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (14.12 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/it/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (35.58 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/lv/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (40.3 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/lt/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (22.06 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/hu/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (43.98 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/mt/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (22.34 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/nl/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (22.57 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/no/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (33.73 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/pl/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (14.28 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/pt/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (43.53 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/ro/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (30.88 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/sk/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (21.98 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/sl/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (14.09 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/fi/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (14.28 KB - PDF)
 
-**First published:**
-
-08/05/2023
-
-**Last updated:**
-
-20/11/2024
+**First published:** 08/05/2023 **Last updated:** 20/11/2024
 
 [View](/sv/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Elfabrio Active substance pegunigalsidase alfa International non-proprietary name (INN) or common name pegunigalsidase alfa Therapeutic area (MeSH) Fabry Disease Anatomical therapeutic chemical (ATC) code A16AB20
+Name of medicine
+
+Elfabrio
+
+Active substance
+
+pegunigalsidase alfa
+
+International non-proprietary name (INN) or common name
+
+pegunigalsidase alfa
+
+Therapeutic area (MeSH)
+
+Fabry Disease
+
+Anatomical therapeutic chemical (ATC) code
+
+A16AB20
 
 ### Pharmacotherapeutic group
 
@@ -925,13 +609,27 @@ Elfabrio is indicated for long-term enzyme replacement therapy in adult patients
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005618 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/005618
+
+Marketing authorisation holder
 
 Chiesi Farmaceutici S.p.A
 
 Via Palermo 26/A
 
-Opinion adopted 23/02/2023 Marketing authorisation issued 04/05/2023 Revision 4
+Opinion adopted
+
+23/02/2023
+
+Marketing authorisation issued
+
+04/05/2023
+
+Revision
+
+4
 
 ## Assessment history
 
@@ -953,17 +651,13 @@ Elfabrio : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (150.8 KB - PDF)
 
-**First published:** 20/11/2024
-
-**Last updated:** 17/03/2026
+**First published:** 20/11/2024 **Last updated:** 17/03/2026
 
 [View](/en/documents/procedural-steps-after/elfabrio-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Elfabrio-H-C-005618-II-0007 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/43656/2026
+Adopted Reference Number: EMA/43656/2026
 
 English (EN) (3.61 MB - PDF)
 
@@ -975,9 +669,7 @@ English (EN) (3.61 MB - PDF)
 
 Elfabrio : Orphan designation withdrawal assessment report (initial-authorisation)
 
-Adopted
-
-Reference Number: EMA/OD/0000109504
+Adopted Reference Number: EMA/OD/0000109504
 
 English (EN) (515.99 KB - PDF)
 
@@ -987,9 +679,7 @@ English (EN) (515.99 KB - PDF)
 
 Elfabrio : EPAR - Public Assessment Report
 
-Adopted
-
-Reference Number: EMA/58745/2023
+Adopted Reference Number: EMA/58745/2023
 
 English (EN) (3.85 MB - PDF)
 
@@ -999,9 +689,7 @@ English (EN) (3.85 MB - PDF)
 
 CHMP summary of positive opinion for Elfabrio
 
-Adopted
-
-Reference Number: EMA/CHMP/60808/2023
+Adopted Reference Number: EMA/CHMP/60808/2023
 
 English (EN) (96.68 KB - PDF)
 
@@ -1011,7 +699,9 @@ English (EN) (96.68 KB - PDF)
 
 ## News on Elfabrio
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20 - 23 February 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-february-2023) 24/02/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20 - 23 February 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-february-2023)
+
+24/02/2023
 
 ## More information on Elfabrio
 
@@ -1021,8 +711,8 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 - [EMEA-001828-PIP01-15-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001828-pip01-15-m03)
 
-**This page was last updated on** 17/03/2026
+**This page was last updated on**
+
+31/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

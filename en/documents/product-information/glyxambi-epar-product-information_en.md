@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-30 15:38:50
-document_pages: 51
+document_datetime: 2026-03-30 15:39:36
+document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/glyxambi-epar-product-information_en.pdf
 document_name: glyxambi-epar-product-information_en.pdf
 version: success
-processing_time: 10.7333912
-conversion_datetime: 2025-12-27 22:38:41.653737
+processing_time: 12.4168843
+conversion_datetime: 2026-04-01 12:40:24.520903
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -87,26 +87,26 @@ If a dose is missed, and it is 12 hours or more until the next dose, the dose sh
 
 ## Renal impairment
 
-The glycaemic efficacy of empagliflozin is dependent on renal function. For cardiovascular risk reduction as add on to standard of care, a dose of 10 mg empagliflozin once daily should be used in patients with an eGFR below 60 ml/min/1.73 m 2  (see Table 1). Because the glycaemic lowering efficacy of empagliflozin is reduced in patients with moderate renal impairment and likely absent in patients with severe renal impairment, if further glycaemic control is needed, the addition of other anti-hyperglycaemic agents should be considered.
+The glycaemic efficacy of empagliflozin is dependent on renal function. For cardiovascular risk reduction as add on to standard of care, a dose of 10 mg empagliflozin once daily should be used in patients with an eGFR below 60 mL/min/1.73 m 2  (see Table 1). Because the glycaemic lowering efficacy of empagliflozin is reduced in patients with moderate renal impairment and likely absent in patients with severe renal impairment, if further glycaemic control is needed, the addition of other anti-hyperglycaemic agents should be considered.
 
 For dose adjustment recommendations according to eGFR or CrCL refer to Table 1.
 
 Table 1: Dose adjustment recommendations a
 
-| eGFR [ml/min/1.73 m²] or CrCL [ml/min]   | Empagliflozin                                                                                                                     | Linagliptin                                          |
+| eGFR [ml/min/1.73 m²] or CrCL [mL/min]   | Empagliflozin                                                                                                                     | Linagliptin                                          |
 |------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
-| ≥60                                      | Initiate with 10 mg. In patients tolerating 10 mg and requiring additional glycaemic control, the dose can be increased to 25 mg. | 5 mg No dose adjustment for linagliptin is required. |
-| 45 to <60                                | Initiate with 10 mg. b Continue with 10 mg in patients already taking empagliflozin.                                              | 5 mg No dose adjustment for linagliptin is required. |
-| 30 to <45                                | Initiate with 10 mg. b Continue with 10 mg in patients already taking empagliflozin. b                                            | 5 mg No dose adjustment for linagliptin is required. |
-| <30                                      | Empagliflozin is not recommended.                                                                                                 | 5 mg No dose adjustment for linagliptin is required. |
+| ≥ 60                                     | Initiate with 10 mg. In patients tolerating 10 mg and requiring additional glycaemic control, the dose can be increased to 25 mg. | 5 mg No dose adjustment for linagliptin is required. |
+| 45 to < 60                               | Initiate with 10 mg. b Continue with 10 mg in patients already taking empagliflozin.                                              | 5 mg No dose adjustment for linagliptin is required. |
+| 30 to < 45                               | Initiate with 10 mg. b Continue with 10 mg in patients already taking empagliflozin. b                                            | 5 mg No dose adjustment for linagliptin is required. |
+| < 30                                     | Empagliflozin is not recommended.                                                                                                 | 5 mg No dose adjustment for linagliptin is required. |
 
 Glyxambi should not be used in patients with end stage renal disease (ESRD) or in patients on dialysis, as there are insufficient data on empagliflozin to support use in these patients (see sections 4.4, 5.1 and 5.2).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Hepatic impairment
 
 No dose adjustment is required in patients with mild to moderate hepatic impairment.
+
+<div style=\"page-break-after: always\"></div>
 
 Empagliflozin exposure is increased in patients with severe hepatic impairment and therapeutic experience in such patients is limited (see section 5.2). Therefore, Glyxambi is not recommended for use in this population.
 
@@ -140,11 +140,9 @@ Treatment should be interrupted in patients who are hospitalised for major surgi
 
 Before initiating empagliflozin, factors in the patient history that may predispose to ketoacidosis should be considered.
 
-Prolonged diabetic ketoacidosis and prolonged glucosuria have been observed with
+Prolonged diabetic ketoacidosis and prolonged glucosuria have been observed with empagliflozin. Diabetic ketoacidosis may last longer after discontinuation of empagliflozin than expected from the plasma half-life (see section 5.2). Empagliflozin-independent factors, such as insulin deficiency, might be involved in prolonged periods of diabetic ketoacidosis.
 
 <div style=\"page-break-after: always\"></div>
-
-empagliflozin. Diabetic ketoacidosis may last longer after discontinuation of empagliflozin than expected from the plasma half-life (see section 5.2). Empagliflozin-independent factors, such as insulin deficiency, might be involved in prolonged periods of diabetic ketoacidosis.
 
 Patients who may be at higher risk of DKA include patients with a low beta-cell function reserve (e.g. type 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or patients with a history of pancreatitis), patients with conditions that lead to restricted food intake or severe dehydration, patients for whom insulin doses are reduced and patients with increased insulin requirements due to acute medical illness, surgery or alcohol abuse. SGLT2 inhibitors should be used with caution in these patients.
 
@@ -154,13 +152,13 @@ Glyxambi should not be used in patients with type 1 diabetes. Data from a clinic
 
 ## Renal impairment
 
-In patients with an eGFR below 60 mL/min/1.73 m 2  or CrCl &lt;60 mL/min, the daily dose of empagliflozin/linagliptin is limited to 10 mg/5 mg (see section 4.2). Empagliflozin/linagliptin is not recommended when eGFR is below 30 mL/min/1.73 m 2  or CrCl is below 30 mL/min. Empagliflozin/linagliptin should not be used in patients with ESRD or in patients on dialysis. There are insufficient data to support use in these patients (see sections 4.2, 5.1 and 5.2).
+In patients with an eGFR below 60 mL/min/1.73 m 2  or CrCl &lt; 60 mL/min, the daily dose of empagliflozin/linagliptin is limited to 10 mg/5 mg (see section 4.2). Empagliflozin/linagliptin is not recommended when eGFR is below 30 mL/min/1.73 m 2  or CrCl is below 30 mL/min. Empagliflozin/linagliptin should not be used in patients with ESRD or in patients on dialysis. There are insufficient data to support use in these patients (see sections 4.2, 5.1 and 5.2).
 
 ## Monitoring of renal function
 
 Assessment of renal function is recommended as follows:
 
-- prior to empagliflozin/linagliptin  initiation and periodically during treatment, i.e. at least yearly (see sections 4.2, 5.1 and 5.2).
+- prior to empagliflozin/linagliptin initiation and periodically during treatment, i.e. at least yearly (see sections 4.2, 5.1 and 5.2).
 - prior to initiation of any concomitant medicinal product that may have a negative impact on renal function.
 
 ## Hepatic injury
@@ -173,17 +171,17 @@ Haematocrit increase was observed with empagliflozin treatment (see section 4.8)
 
 ## Chronic kidney disease
 
-There is experience with empagliflozin for the treatment of diabetes in patients with chronic kidney disease (eGFR ≥30 mL/min/1.73 m 2 ) both with and without albuminuria. Patients with albuminuria may benefit more from treatment with empagliflozin.
+There is experience with empagliflozin for the treatment of diabetes in patients with chronic kidney disease (eGFR ≥ 30 mL/min/1.73 m 2 ) both with and without albuminuria. Patients with albuminuria may benefit more from treatment with empagliflozin.
 
 ## Risk for volume depletion
 
-Based on the mode of action of SGLT2 inhibitors, osmotic diuresis accompanying therapeutic glucosuria may lead to a modest decrease in blood pressure (see section 5.1). Therefore, caution should be exercised in patients for whom an empagliflozin-induced drop in blood pressure could pose a risk, such as patients with known cardiovascular disease, patients on anti-hypertensive therapy (e.g.
+Based on the mode of action of SGLT2 inhibitors, osmotic diuresis accompanying therapeutic glucosuria may lead to a modest decrease in blood pressure (see section 5.1). Therefore, caution should be exercised in patients for whom an empagliflozin-induced drop in blood pressure could pose a risk, such as patients with known cardiovascular disease, patients on anti-hypertensive therapy (e.g. thiazide and loop diuretics, see also section 4.5) with a history of hypotension or patients aged 75 years and older.
+
+In case of conditions that may lead to fluid loss (e.g. gastrointestinal illness), careful monitoring of
 
 <div style=\"page-break-after: always\"></div>
 
-thiazide and loop diuretics, see also section 4.5) with a history of hypotension or patients aged 75 years and older.
-
-In case of conditions that may lead to fluid loss (e.g. gastrointestinal illness), careful monitoring of volume status (e.g. physical examination, blood pressure measurements, laboratory tests including haematocrit) and electrolytes is recommended for patients receiving empagliflozin. Temporary interruption of treatment with Glyxambi should be considered until the fluid loss is corrected.
+volume status (e.g. physical examination, blood pressure measurements, laboratory tests including haematocrit) and electrolytes is recommended for patients receiving empagliflozin. Temporary interruption of treatment with Glyxambi should be considered until the fluid loss is corrected.
 
 ## Elderly
 
@@ -209,11 +207,11 @@ An increase in cases of lower limb amputation (primarily of the toe) has been ob
 
 Due to the mechanism of action of empagliflozin, patients taking Glyxambi will test positive for glucose in their urine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Interference with 1,5-anhydroglucitol (1,5-AG) assay
 
 Monitoring glycaemic control with 1,5-AG assay is not recommended as measurements of 1,5-AG are unreliable in assessing glycaemic control in patients taking SGLT2 inhibitors. Use of alternative methods to monitor glycaemic control is advised.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Acute pancreatitis
 
@@ -245,13 +243,15 @@ Insulin and sulphonylureas may increase the risk of hypoglycaemia. Therefore, a 
 
 Empagliflozin may add to the diuretic effect of thiazide and loop diuretics and may increase the risk of dehydration and hypotension (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pharmacokinetic interactions
 
 ## Effects of other medicinal products on empagliflozin
 
-Empagliflozin is mainly excreted unchanged. A minor fraction is metabolised via uridine 5'diphosphoglucuronosyltransferases (UGT); therefore, a clinically relevant effect of UGT inhibitors on empagliflozin is not expected (see section 5.2). The effect of UGT induction on empagliflozin (e.g. induction by rifampicin or phenytoin) has not been studied. Co-treatment with known inducers of UGT enzymes is not recommended due to a potential risk of decreased efficacy of empagliflozin. If an inducer of these UGT enzymes must be co-administered, monitoring of glycaemic control to assess response to Glyxambi is appropriate.
+Empagliflozin is mainly excreted unchanged. A minor fraction is metabolised via uridine 5'-diphosphoglucuronosyltransferases (UGT); therefore, a clinically relevant effect of UGT inhibitors on empagliflozin is not expected (see section 5.2). The effect of UGT induction on empagliflozin (e.g.
+
+<div style=\"page-break-after: always\"></div>
+
+induction by rifampicin or phenytoin) has not been studied. Co-treatment with known inducers of UGT enzymes is not recommended due to a potential risk of decreased efficacy of empagliflozin. If an inducer of these UGT enzymes must be co-administered, monitoring of glycaemic control to assess response to Glyxambi is appropriate.
 
 Co-administration of empagliflozin with probenecid, an inhibitor of UGT enzymes and OAT3, resulted in a 26% increase in peak empagliflozin plasma concentrations (Cmax) and a 53% increase in area under the concentration-time curve (AUC). These changes were not considered to be clinically meaningful.
 
@@ -273,13 +273,15 @@ Co-administration of rifampicin decreased linagliptin exposure by 40%, suggestin
 
 Co-administration of a single 5 mg oral dose of linagliptin and multiple 200 mg oral doses of ritonavir, a potent inhibitor of P-glycoprotein and CYP3A4, increased the AUC and Cmax of linagliptin approximately twofold and threefold, respectively. The unbound concentrations, which are usually less than 1% at the therapeutic dose of linagliptin, were increased 4 to 5-fold after co-administration with ritonavir. Simulations of steady-state plasma concentrations of linagliptin with and without ritonavir indicated that the increase in exposure will be not associated with an increased accumulation. These changes in linagliptin pharmacokinetics were not considered to be clinically relevant. Therefore, clinically relevant interactions would not be expected with other P-glycoprotein/CYP3A4 inhibitors.
 
-<div style=\"page-break-after: always\"></div>
-
 Interaction studies conducted in healthy volunteers suggest that the pharmacokinetics of linagliptin were not influenced by co-administration with metformin and glibenclamide.
 
 ## Effects of linagliptin on other medicinal products
 
-Linagliptin is a weak competitive and a weak to moderate mechanism-based inhibitor of CYP isozyme CYP3A4, but does not inhibit other CYP isozymes. It is not an inducer of CYP isozymes. Linagliptin is a P-glycoprotein substrate, and inhibits P-glycoprotein mediated transport of digoxin with low potency.
+Linagliptin is a weak competitive and a weak to moderate mechanism-based inhibitor of CYP isozyme CYP3A4, but does not inhibit other CYP isozymes. It is not an inducer of CYP isozymes. Linagliptin
+
+<div style=\"page-break-after: always\"></div>
+
+is a P-glycoprotein substrate, and inhibits P-glycoprotein mediated transport of digoxin with low potency.
 
 Linagliptin had no clinically relevant effect on the pharmacokinetics of metformin, glibenclamide, simvastatin, pioglitazone, warfarin, digoxin, empagliflozin or oral contraceptives providing in vivo evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C9, CYP2C8, P-gp and organic cationic transporter (OCT).
 
@@ -309,13 +311,13 @@ The most frequent adverse reaction was urinary tract infection (7.5% with Glyxam
 
 Overall, the safety profile of Glyxambi was in line with the safety profiles of the individual active substances (empagliflozin and linagliptin). No additional adverse reactions were identified with Glyxambi.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tabulated list of adverse reactions
 
-The adverse reactions shown in the table below (see Table 2) are listed by system organ class and are based on the safety profiles of empagliflozin and linagliptin monotherapy. Frequency categories are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1  000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1  000), very rare (&lt; 1/10 000 ) and not known (cannot be estimated from the available data).
+The adverse reactions shown in the table below (see Table 2) are listed by system organ class and are based on the safety profiles of empagliflozin and linagliptin monotherapy. Frequency categories are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100),
 
 <div style=\"page-break-after: always\"></div>
+
+rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data).
 
 Table 2 Tabulated list of adverse reactions (MedDRA) from reported placebo-controlled trials and from post-marketing experience
 
@@ -330,6 +332,16 @@ Table 2 Tabulated list of adverse reactions (MedDRA) from reported placebo-contr
 | Skin and subcutaneous tissue disorders          | Common Common Not known                  | Pruritus 1 Rash 3,4 Bullous pemphigoid 2,a                                                                                                                                                                                            |
 | Renal and urinary disorders                     | Common Uncommon Very rare                | Increased urination 1,* Dysuria 1 Tubulointerstitial nephritis 4                                                                                                                                                                      |
 | Investigations                                  | Common Common Uncommon Uncommon Uncommon | Amylase increased 2 Lipase increased 2 Haematocrit increased 1,5 Serum lipids increased 1,6 Blood creatinine increased/Glomerular filtration rate decreased 1,*                                                                       |
+
+- 2 derived from linagliptin experiences
+- 3 derived from linagliptin postmarketing experience
+- 4 derived from empagliflozin postmarketing experience
+- 5 Mean changes from baseline in haematocrit were 3.3% and 4.2% for Glyxambi 10 mg/5 mg and 25 mg/5 mg, respectively, compared to 0.2% for placebo. In a clinical trial with empagliflozin, haematocrit values returned towards baseline values after a follow-up period of 30 days after treatment stop.
+- 6 Mean percent increases from baseline for Glyxambi 10 mg/5 mg and 25 mg/5 mg versus placebo, respectively, were total cholesterol 3.2% and 4.6% versus 0.5%; HDL-cholesterol 8.5% and 6.2% versus 0.4%; LDL-cholesterol 5.8% and 11.0% versus 3.3%; triglycerides -0.5% and 3.3% versus 6.4%.
+- a In the CARMELINA trial (see section 5.1), bullous pemphigoid was reported in 0.2% patients treated with linagliptin and in no patients treated with placebo.
+- b Pooled data of empagliflozin trials in patients with heart failure (where half of the patients had type 2 diabetes mellitus) showed a higher frequency of volume depletion ('very common': 11.4% for empagliflozin versus 9.7% for placebo).
+- # see section 4.4
+* see subsection below for additional information
 
 <div style=\"page-break-after: always\"></div>
 
@@ -357,13 +369,15 @@ The frequency of patients with major hypoglycaemic events was increased in patie
 
 The most frequently reported adverse event in clinical trials with linagliptin was hypoglycaemia observed under the triple combination, linagliptin plus metformin plus sulphonylurea (22.9% vs 14.8% in placebo).
 
-Hypoglycaemias in the placebo-controlled trials (10.9%; N=471) were mild (80%; N=384), moderate (16.6%; N=78) or severe (1.9%; N=9) in intensity.
-
-<div style=\"page-break-after: always\"></div>
+Hypoglycaemias in the placebo-controlled trials (10.9%; N = 471) were mild (80%; N = 384), moderate (16.6%; N = 78) or severe (1.9%; N = 9) in intensity.
 
 ## Urinary tract infection
 
-In clinical trials with Glyxambi, there was no notable difference of the frequency of urinary tract infections in patients treated with Glyxambi (Glyxambi 25 mg/5 mg: 8.5%; Glyxambi 10 mg/5 mg: 7.5%) compared to the patients treated with empagliflozin and linagliptin. The frequencies have been comparable to those reported from the empagliflozin clinical trials (see also section 4.4).
+In clinical trials with Glyxambi, there was no notable difference of the frequency of urinary tract infections in patients treated with Glyxambi (Glyxambi 25 mg/5 mg: 8.5%; Glyxambi 10 mg/5 mg: 7.5%) compared to the patients treated with empagliflozin and linagliptin. The frequencies have been
+
+<div style=\"page-break-after: always\"></div>
+
+comparable to those reported from the empagliflozin clinical trials (see also section 4.4).
 
 In empagliflozin trials, the overall frequency of urinary tract infection was similar in patients treated with empagliflozin 25 mg and placebo (7.0% and 7.2%), and higher in patients treated with empagliflozin 10 mg (8.8%). Similar to placebo, urinary tract infection was reported more frequently for empagliflozin in patients with a history of chronic or recurrent urinary tract infections. The intensity of urinary tract infections was similar to placebo for mild, moderate and severe intensity reports. Urinary tract infection was reported more frequently in female patients treated with empagliflozin compared to placebo, but not in male patients.
 
@@ -383,21 +397,23 @@ In clinical trials with empagliflozin, increased urination (including the predef
 
 ## Volume depletion
 
-In clinical trials with Glyxambi, there was no notable difference in the frequency of volume depletion in patients treated with Glyxambi (Glyxambi 25  mg/5 mg: 0.4%; Glyxambi 10 mg/5 mg: 0.8%) compared to the patients treated with empagliflozin and linagliptin. The frequencies have been comparable to those reported from the empagliflozin clinical trials.
+In clinical trials with Glyxambi, there was no notable difference in the frequency of volume depletion in patients treated with Glyxambi (Glyxambi 25 mg/5 mg: 0.4%; Glyxambi 10 mg/5 mg: 0.8%) compared to the patients treated with empagliflozin and linagliptin. The frequencies have been comparable to those reported from the empagliflozin clinical trials.
 
 In clinical trials with empagliflozin, the overall frequency of volume depletion (including the predefined terms blood pressure (ambulatory) decreased, blood pressure systolic decreased, dehydration, hypotension, hypovolaemia, orthostatic hypotension, and syncope) was similar in patients treated with empagliflozin (empagliflozin 10 mg: 0.6%, empagliflozin 25 mg: 0.4%) and placebo (0.3%). The frequency of volume depletion events was increased in patients 75 years and older treated with empagliflozin 10 mg (2.3%) or empagliflozin 25 mg (4.3%) compared to placebo (2.1%).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Blood creatinine increased/Glomerular filtration rate decreased
 
-In clinical trials with Glyxambi, the frequency of patients with increased blood creatinine (Glyxambi 25 mg/5 mg: 0.4%; Glyxambi 10 mg/5 mg: 0%) and decreased glomerular filtration rate (Glyxambi 25 mg/5 mg: 0.4%; Glyxambi 10 mg/5 mg: 0.6%) has been comparable to those reported from the empagliflozin clinical trials.
+In clinical trials with Glyxambi, the frequency of patients with increased blood creatinine (Glyxambi 25 mg/5 mg: 0.4%; Glyxambi 10 mg/5 mg: 0%) and decreased glomerular filtration rate (Glyxambi
+
+<div style=\"page-break-after: always\"></div>
+
+25 mg/5 mg: 0.4%; Glyxambi 10 mg/5 mg: 0.6%) has been comparable to those reported from the empagliflozin clinical trials.
 
 In clinical trials with empagliflozin, the overall frequency of patients with increased blood creatinine and decreased glomerular filtration rate were similar between empagliflozin and placebo (blood creatinine increased: empagliflozin 10 mg 0.6%, empagliflozin 25 mg 0.1%, placebo 0.5%; glomerular filtration rate decreased: empagliflozin 10 mg 0.1%, empagliflozin 25 mg 0%, placebo 0.3%).
 
 ## Elderly
 
-In clinical trials, nineteen patients 75 years or older were treated with Glyxambi. No patient was older than 85 years. The safety profile of Glyxambi did not differ in the elderly. Based on empagliflozin experiences, elderly patients may be at increased risk of volume depletion (see sections 4.2, 4.4 and 5.2)
+In clinical trials, nineteen patients 75 years or older were treated with Glyxambi. No patient was older than 85 years.  The  safety profile  of  Glyxambi  did  not  differ  in the elderly.  Based  on  empagliflozin experiences, elderly patients may be at increased risk of volume depletion (see sections 4.2, 4.4 and 5.2)
 
 ## Paediatric population
 
@@ -435,7 +451,7 @@ Glyxambi combines two antihyperglycaemic medicinal products with complementary m
 
 ## Empagliflozin
 
-Empagliflozin is a reversible, highly potent (IC50 of 1.3 nmol) and selective competitive inhibitor of SGLT2. Empagliflozin does not inhibit other glucose transporters important for glucose transport into peripheral tissues and is 5  000 times more selective for SGLT2 versus SGLT1, the major transporter responsible for glucose absorption in the gut.
+Empagliflozin is a reversible, highly potent (IC50 of 1.3 nmol) and selective competitive inhibitor of SGLT2. Empagliflozin does not inhibit other glucose transporters important for glucose transport into peripheral tissues and is 5 000 times more selective for SGLT2 versus SGLT1, the major transporter responsible for glucose absorption in the gut.
 
 SGLT2 is highly expressed in the kidney, whereas expression in other tissues is absent or very low. It is responsible, as the predominant transporter, for the reabsorption of glucose from the glomerular filtrate back into the circulation. In patients with type 2 diabetes and hyperglycaemia a higher amount of glucose is filtered and reabsorbed.
 
@@ -447,15 +463,15 @@ Empagliflozin improves both fasting and post prandial plasma glucose levels. The
 
 ## Linagliptin
 
-Linagliptin is an inhibitor of DPP-4 an enzyme which is involved in the inactivation of the incretin hormones GLP-1 and GIP (glucagon-like peptide-1, glucose-dependent insulinotropic polypeptide). These hormones are rapidly degraded by the enzyme DPP-4. Both incretin hormones are involved in the physiological regulation of glucose homeostasis. Incretins are secreted at a low basal level throughout the day and levels rise immediately after meal intake. GLP-1 and GIP increase insulin biosynthesis and secretion from pancreatic beta cells in the presence of normal and elevated blood
+Linagliptin is an inhibitor of DPP-4 an enzyme which is involved in the inactivation of the incretin hormones GLP-1 and GIP (glucagon-like peptide-1, glucose-dependent insulinotropic polypeptide). These hormones are rapidly degraded by the enzyme DPP-4. Both incretin hormones are involved in the physiological regulation of glucose homeostasis. Incretins are secreted at a low basal level throughout the day and levels rise immediately after meal intake. GLP-1 and GIP increase insulin biosynthesis and secretion from pancreatic beta cells in the presence of normal and elevated blood glucose levels. Furthermore GLP-1 also reduces glucagon secretion from pancreatic alpha cells, resulting in a reduction in hepatic glucose output. Linagliptin binds very effectively to DPP-4 in a
 
 <div style=\"page-break-after: always\"></div>
 
-glucose levels. Furthermore GLP-1 also reduces glucagon secretion from pancreatic alpha cells, resulting in a reduction in hepatic glucose output. Linagliptin binds very effectively to DPP-4 in a reversible manner and thus leads to a sustained increase and a prolongation of active incretin levels. Linagliptin glucose-dependently increases insulin secretion and lowers glucagon secretion thus resulting in an overall improvement in the glucose homeostasis. Linagliptin binds selectively to DPP-4 and exhibits a &gt; 10,000-fold selectivity versus DPP-8 or DPP-9 activity in vitro .
+reversible manner and thus leads to a sustained increase and a prolongation of active incretin levels. Linagliptin glucose-dependently increases insulin secretion and lowers glucagon secretion thus resulting in an overall improvement in the glucose homeostasis. Linagliptin binds selectively to DPP-4 and exhibits a &gt; 10,000-fold selectivity versus DPP-8 or DPP-9 activity in vitro .
 
 ## Clinical efficacy and safety
 
-A total of 2  173 patients with type 2 diabetes mellitus and inadequate glycaemic control were treated in clinical trials to evaluate the safety and efficacy of Glyxambi; 1  005 patients were treated with Glyxambi 10 mg empagliflozin/5 mg linagliptin or 25 mg empagliflozin/5 mg linagliptin . In clinical trials, patients were treated for up to 24 or 52 weeks.
+A total of 2 173 patients with type 2 diabetes mellitus and inadequate glycaemic control were treated in clinical trials to evaluate the safety and efficacy of Glyxambi; 1 005 patients were treated with Glyxambi 10 mg empagliflozin/5 mg linagliptin or 25 mg empagliflozin/5 mg linagliptin . In clinical trials, patients were treated for up to 24 or 52 weeks.
 
 ## Glyxambi added to metformin
 
@@ -463,84 +479,91 @@ In a factorial design trial patients inadequately controlled on metformin were t
 
 Table 3 Efficacy parameters in clinical trial comparing Glyxambi to individual active substances as add-on therapy in patients inadequately controlled on metformin
 
-|                                                                                 | Glyxambi 25 mg/5m g                         | Glyxambi 10 mg/5m g                         | Empagliflo zin 25 mg                     | Empagliflo zin 10 mg                     | Linaglipti n 5 mg                        |
-|---------------------------------------------------------------------------------|---------------------------------------------|---------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
-| Primary endpoint: HbA 1c ( %) - 24 weeks                                        | Primary endpoint: HbA 1c ( %) - 24 weeks    | Primary endpoint: HbA 1c ( %) - 24 weeks    | Primary endpoint: HbA 1c ( %) - 24 weeks | Primary endpoint: HbA 1c ( %) - 24 weeks | Primary endpoint: HbA 1c ( %) - 24 weeks |
-| Number of patients analysed                                                     | 134                                         | 135                                         | 140                                      | 137                                      | 128                                      |
-| Baseline mean (SE)                                                              | 7.90 (0.07)                                 | 7.95 (0.07)                                 | 8.02 (0.07)                              | 8.00 (0.08)                              | 8.02 (0.08)                              |
-| Change from baseline at week 24 1 : - adjusted mean 2 (SE)                      | -1.19 (0.06)                                | -1.08 (0.06)                                | -0.62 (0.06)                             | -0.66 (0.06)                             | -0.70 (0.06)                             |
-| Comparison vs. empagliflozin 1 : - adjusted mean 2 (SE) - 95.0 %CI - p-value    | vs. 25 mg -0.58 (0.09) -0.75, -0.41 <0.0001 | vs. 10 mg -0.42 (0.09) -0.59, -0.25 <0.0001 | --                                       | --                                       | --                                       |
-| Comparison vs. linagliptin 5 mg 1 : - adjusted mean 2 (SE) - 95.0 %CI - p-value | -0.50 (0.09) -0.67, -0.32 <0.0001           | -0.39 (0.09) -0.56, -0.21 <0.0001           | --                                       | --                                       | --                                       |
+|                                                                                 | Glyxambi 25 mg/5 mg                          | Glyxambi 10 mg/5 mg                          | Empagliflo zin 25 mg                    | Empagliflo zin 10 mg                    | Linagliptin 5 mg                        |
+|---------------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
+| Primary endpoint: HbA 1c (%) - 24 weeks                                         | Primary endpoint: HbA 1c (%) - 24 weeks      | Primary endpoint: HbA 1c (%) - 24 weeks      | Primary endpoint: HbA 1c (%) - 24 weeks | Primary endpoint: HbA 1c (%) - 24 weeks | Primary endpoint: HbA 1c (%) - 24 weeks |
+| Number of patients analysed                                                     | 134                                          | 135                                          | 140                                     | 137                                     | 128                                     |
+| Baseline mean (SE)                                                              | 7.90 (0.07)                                  | 7.95 (0.07)                                  | 8.02 (0.07)                             | 8.00 (0.08)                             | 8.02 (0.08)                             |
+| Change from baseline at week 24 1 : - adjusted mean 2 (SE)                      | -1.19 (0.06)                                 | -1.08 (0.06)                                 | -0.62 (0.06)                            | -0.66 (0.06)                            | -0.70 (0.06)                            |
+| Comparison vs. empagliflozin 1 : - adjusted mean 2 (SE) - 95.0% CI - p-value    | vs. 25 mg -0.58 (0.09) -0.75, -0.41 < 0.0001 | vs. 10 mg -0.42 (0.09) -0.59, -0.25 < 0.0001 | --                                      | --                                      | --                                      |
+| Comparison vs. linagliptin 5 mg 1 : - adjusted mean 2 (SE) - 95.0% CI - p-value | -0.50 (0.09) -0.67, -0.32 < 0.0001           | -0.39 (0.09) -0.56, -0.21 < 0.0001           | --                                      | --                                      | --                                      |
 
-1 Last observation (prior to glycaemic rescue ) carried forward (LOCF)
+1 Last observation (prior to glycaemic rescue) carried forward (LOCF)
 
 2 Mean adjusted for baseline value and stratification
 
-In a pre-specified subgroup of patients with baseline HbA1c greater or equal than 8.5%, the reduction from baseline in HbA1c at 24 weeks with Glyxambi 25 mg/5 mg was -1.8% (p&lt;0.0001 versus linagliptin 5 mg, p&lt;0.001 versus empagliflozin 25 mg) and with Glyxambi 10 mg/5 mg -1.6% (p&lt;0.01 versus linagliptin 5 mg, n.s. versus empagliflozin 10 mg).
-
-<div style=\"page-break-after: always\"></div>
+In a pre-specified subgroup of patients with baseline HbA1c greater or equal than 8.5%, the reduction from baseline in HbA1c at 24 weeks with Glyxambi 25 mg/5 mg was -1.8% (p &lt; 0.0001 versus linagliptin 5 mg, p &lt; 0.001 versus empagliflozin 25 mg) and with Glyxambi 10 mg/5 mg -1.6% (p &lt; 0.01 versus linagliptin 5 mg, n.s. versus empagliflozin 10 mg).
 
 Overall, the effects on HbA1c reduction observed at 24 weeks were sustained at week 52.
 
 ## Empagliflozin in patients inadequately controlled on metformin and linagliptin
 
-In patients inadequately controlled on maximally tolerated doses of metformin, open label linagliptin 5 mg was added for 16 weeks. In patients inadequately controlled after this 16 week period, patients received double-blind treatment with either empagliglozin 10 mg, empagliflozin 25 mg or placebo for 24-weeks. After this double-blind period, treatment with both empagliflozin 10 mg and empagliflozin 25 mg provided statistically significant improvements in HbA1c, FPG and body weight compared to placebo; all patients continued treatment with metformin and linagliptin 5 mg during the trial. A statistically significant greater number of patients with a baseline HbA1c ≥7.0% treated with both doses of empagliflozin achieved a target HbA1c of &lt;7% compared to placebo (see Table 4). After 24-weeks treatment with empagliflozin, both systolic and diastolic blood pressures were reduced, -2.6/-1.1 mmHg (n.s. versus placebo for SBP and DBP) for empagliflozin 25 mg and -1.3/-0.1 mmHg (n.s. versus placebo for SBP and DBP) for empagliflozin 10 mg.
+In patients inadequately controlled on maximally tolerated doses of metformin, open label linagliptin 5 mg was added for 16 weeks. In patients inadequately controlled after this 16 week period, patients
+
+<div style=\"page-break-after: always\"></div>
+
+received double-blind treatment with either empagliflozin 10 mg, empagliflozin 25 mg or placebo for 24-weeks. After this double-blind period, treatment with both empagliflozin 10 mg and empagliflozin 25 mg provided statistically significant improvements in HbA1c, FPG and body weight compared to placebo; all patients continued treatment with metformin and linagliptin 5 mg during the trial. A statistically significant greater number of patients with a baseline HbA1c ≥ 7.0% treated with both doses of empagliflozin achieved a target HbA1c of &lt; 7% compared to placebo (see Table 4). After 24-weeks treatment with empagliflozin, both systolic and diastolic blood pressures were reduced, -2.6/-1.1 mmHg (n.s. versus placebo for SBP and DBP) for empagliflozin 25 mg and -1.3/-0.1 mmHg (n.s. versus placebo for SBP and DBP) for empagliflozin 10 mg.
 
 After 24 weeks, rescue therapy was used in 4 (3.6%) patients treated with empagliflozin 25 mg and in 2 (1.8%) patients treated with empagliflozin 10 mg, compared to 13 (12.0%) patients treated with placebo (all patients on background metformin + linagliptin 5 mg).
 
-Table  4 Efficacy parameters in the clinical trial comparing empagliflozin to placebo as add-on therapy in patients inadequately controlled on metformin and linagliptin 5 mg
+Table 4 Efficacy parameters in the clinical trial comparing empagliflozin to placebo as add-on therapy in patients inadequately controlled on metformin and linagliptin 5 mg
 
-|                                                                         | Metformin + linagliptin 5 mg   | Metformin + linagliptin 5 mg   | Metformin + linagliptin 5 mg   |
-|-------------------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------|
-|                                                                         | Empagliflozin 10 mg 1          | Empagliflozin 25 mg 1          | Placebo 2                      |
-| HbA 1c ( %) - 24 weeks 3                                                |                                |                                |                                |
-| N                                                                       | 109                            | 110                            | 106                            |
-| Baseline (mean)                                                         | 7.97                           | 7.97                           | 7.96                           |
-| Change from baseline (adjusted mean)                                    | -0.65                          | -0.56                          | 0.14                           |
-| Comparison vs. placebo (adjusted mean) (95 %CI) 2                       | -0.79 (-1.02, -0.55) p<0.0001  | -0.70 (-0.93, -0.46) p<0.0001  |                                |
-| Body Weight-24 weeks 3                                                  |                                |                                |                                |
-| N                                                                       | 109                            | 110                            | 106                            |
-| Baseline (mean) in kg                                                   | 88.4                           | 84.4                           | 82.3                           |
-| Change from baseline (adjusted mean)                                    | -3.1                           | -2.5                           | -0.3                           |
-| Comparison vs. placebo (adjusted mean) (95 %CI) 1                       | -2.8 (-3.5, -2.1) p<0.0001     | -2.2 (-2.9, -1.5) p<0.0001     |                                |
-| Patients ( %) achieving HbA 1c <7 %with baseline HbA 1c ≥7 %-24 weeks 4 |                                |                                |                                |
-| N                                                                       | 100                            | 107                            | 100                            |
-| Patients ( %) achieving A1C <7%                                         | 37.0                           | 32.7                           | 17.0                           |
-| Comparison vs. placebo (odds ratio) (95 %CI) 5                          | 4.0 (1.9, 8.7)                 | 2.9 (1.4, 6.1)                 |                                |
+|                                                                          | Metformin + linagliptin 5 mg    | Metformin + linagliptin 5 mg    | Metformin + linagliptin 5 mg   |
+|--------------------------------------------------------------------------|---------------------------------|---------------------------------|--------------------------------|
+|                                                                          | Empagliflozin 10 mg 1           | Empagliflozin 25 mg 1           | Placebo 2                      |
+| HbA 1c (%) - 24 weeks 3                                                  |                                 |                                 |                                |
+| N                                                                        | 109                             | 110                             | 106                            |
+| Baseline (mean)                                                          | 7.97                            | 7.97                            | 7.96                           |
+| Change from baseline (adjusted mean)                                     | -0.65                           | -0.56                           | 0.14                           |
+| Comparison vs. placebo (adjusted mean) (95% CI) 2                        | -0.79 (-1.02, -0.55) p < 0.0001 | -0.70 (-0.93, -0.46) p < 0.0001 |                                |
+| Body Weight-24 weeks 3                                                   |                                 |                                 |                                |
+| N                                                                        | 109                             | 110                             | 106                            |
+| Baseline (mean) in kg                                                    | 88.4                            | 84.4                            | 82.3                           |
+| Change from baseline (adjusted mean)                                     | -3.1                            | -2.5                            | -0.3                           |
+| Comparison vs. placebo (adjusted mean) (95% CI) 1                        | -2.8 (-3.5, -2.1) p < 0.0001    | -2.2 (-2.9, -1.5) p < 0.0001    |                                |
+| Patients (%) achieving HbA 1c < 7%with baseline HbA 1c ≥ 7% - 24 weeks 4 |                                 |                                 |                                |
+| N                                                                        | 100                             | 107                             | 100                            |
+| Patients (%) achieving A1C < 7%                                          | 37.0                            | 32.7                            | 17.0                           |
+| Comparison vs. placebo (odds ratio) (95% CI) 5                           | 4.0 (1.9, 8.7)                  | 2.9 (1.4, 6.1)                  |                                |
 
 1 Patients randomised to the empagliflozin 10 mg or 25 mg groups were receiving Glyxambi 10 mg/5 mg or 25 mg/5 mg with background metformin
 
+2 Patients randomised to the placebo group were receiving the placebo plus linagliptin 5 mg with background metformin
+
+3 Mixed-effects models for repeated measurements (MMRM) on FAS (OC) includes baseline HbA1c, baseline eGFR (MDRD), geographical region, visit treatment, and treatment by visit interaction. For FPG, baseline FPG is also included. For weight, baseline weight is also included.
+
+4 Not evaluated for statistical significance; not part of sequential testing procedure for the secondary endpoints
+
+5 Logistic regression on FAS (NCF) includes baseline HbA1c, baseline eGFR (MDRD), geographical region, and treatment; based on patients with HbA1c of 7 % and above at baseline
+
+In a pre-specified subgroup of patients with baseline HbA1c greater or equal than 8.5% the reduction
+
 <div style=\"page-break-after: always\"></div>
 
-- 2 Patients randomised to the placebo group were receiving the placebo plus linagliptin 5 mg with background metformin
-- 3 Mixed-effects models for repeated measurements ( MMRM) on FAS (OC) includes baseline HbA1c, baseline eGFR (MDRD), geographical region, visit treatment,and treatment by visit interaction. For FPG, baseline FPG is also included. For weight, baseline weight is also included.
-- 4 Not evaluated for statistical significance; not part of sequential testing procedure for the secondary endpoints
-- 5 Logistic regression on FAS (NCF) includes baseline HbA1c, baseline eGFR (MDRD), geographical region, and treatment; based on patients with HbA1c of 7 % and above at baseline
-
-In a pre-specified subgroup of patients with baseline HbA1c greater or equal than 8.5% the reduction from baseline in HbA1c with empagliflozin 25 mg/linagliptin 5 mg was -1.3% at 24 weeks (p&lt;0.0001 versus placebo and linagliptin 5 mg) and with empagliflozin 10 mg/linagliptin 5 mg -1.3% at 24 weeks (p&lt;0.0001 versus placebo and linagliptin 5 mg).
+from baseline in HbA1c with empagliflozin 25 mg/linagliptin 5 mg was -1.3% at 24 weeks (p &lt; 0.0001 versus placebo and linagliptin 5 mg) and with empagliflozin 10 mg/linagliptin 5 mg -1.3% at 24 weeks (p &lt; 0.0001 versus placebo and linagliptin 5 mg).
 
 ## Linagliptin 5 mg in patients inadequately controlled on metformin and empagliflozin 10 mg or empagliflozin 25 mg
 
-In patients inadequately controlled on maximally tolerated doses of metformin, open label empagliflozin 10 mg or empagliflozin 25 mg was added for 16 weeks. In patients inadequately controlled after this 16 week period, patients received double-blind treatment with either linagliptin 5 mg or placebo for 24-weeks. After this double-blind period, treatment in both populations (metformin + empagliflozin 10 mg and metformin + empagliflozin 25 mg) linagliptin 5 mg provided statistically significant improvements in HbA1c compared to placebo; all patients continued treatment with metformin and empagliflozin during the trial. A statistically significant greater number of patients with a baseline HbA1c ≥7.0% and treated with linagliptin achieved a target HbA1c of &lt;7% compared to placebo (see Table 5).
+In patients inadequately controlled on maximally tolerated doses of metformin, open label empagliflozin 10 mg or empagliflozin 25 mg was added for 16 weeks. In patients inadequately controlled after this 16 week period, patients received double-blind treatment with either linagliptin 5 mg or placebo for 24-weeks. After this double-blind period, treatment in both populations (metformin + empagliflozin 10 mg and metformin + empagliflozin 25 mg) linagliptin 5 mg provided statistically significant improvements in HbA1c compared to placebo; all patients continued treatment with metformin and empagliflozin during the trial. A statistically significant greater number of patients with a baseline HbA1c ≥ 7.0% and treated with linagliptin achieved a target HbA1c of &lt; 7% compared to placebo (see Table 5).
 
-<div style=\"page-break-after: always\"></div>
-
-Table  5 Efficacy parameters in clinical trials comparing Glyxambi 10 mg/5 mg to empagliflozin 10 mg as well as Glyxambi 25 mg/5 mg to empagliflozin 25 mg as add-on therapy in patients inadequately controlled on empagliflozin 10 mg/25 mg and metformin
+Table 5 Efficacy parameters in clinical trials comparing Glyxambi 10 mg/5 mg to empagliflozin 10 mg as well as Glyxambi 25 mg/5 mg to empagliflozin 25 mg as add-on therapy in patients inadequately controlled on empagliflozin 10 mg/25 mg and metformin
 
 |                                                                        | Metformin + empagliflozin 10 mg   | Metformin + empagliflozin 10 mg   | Metformin + empagliflozin 25 mg   | Metformin + empagliflozin 25 mg   |
 |------------------------------------------------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 |                                                                        | Linagliptin 5 mg                  | Placebo                           | Linagliptin 5 mg                  | Placebo                           |
-| HbA 1c ( %) - 24 weeks 1                                               |                                   |                                   |                                   |                                   |
+| HbA 1c (%) - 24 weeks 1                                                |                                   |                                   |                                   |                                   |
 | N                                                                      | 122                               | 125                               | 109                               | 108                               |
 | Baseline (mean)                                                        | 8.04                              | 8.03                              | 7.82                              | 7.88                              |
 | Change from baseline (adjusted mean)                                   | -0.53                             | -0.21                             | -0.58                             | -0.10                             |
-| Comparison vs. placebo (adjusted mean) (95 %CI)                        | -0.32 (-0.52, - 0.13) p=0.0013    |                                   | -0.47 (-0.66, - 0.28) p<0.0001    |                                   |
-| Patients ( %) achieving HbA 1c <7 %with baseline HbA 1c ≥7 %-24weeks 2 |                                   |                                   |                                   |                                   |
+| Comparison vs. placebo (adjusted mean) (95 %CI)                        | -0.32 (-0.52, -0.13) p = 0.0013   |                                   | -0.47 (-0.66, -0.28) p < 0.0001   |                                   |
+| Patients (%) achieving HbA 1c <7%with baseline HbA 1c ≥ 7%- 24 weeks 2 |                                   |                                   |                                   |                                   |
 | N                                                                      | 116                               | 119                               | 100                               | 107                               |
-| Patients ( %) achieving HbA 1c <7%                                     | 25.9                              | 10.9                              | 36.0                              | 15.0                              |
-| Comparison vs. placebo (odds ratio) (95 %CI) 3                         | 3.965 (1.771, 8.876) p=0.0008     |                                   | 4.429 (2.097, 9.353) p<0.0001     |                                   |
+| Patients (%) achieving HbA 1c < 7%                                     | 25.9                              | 10.9                              | 36.0                              | 15.0                              |
+| Comparison vs. placebo (odds ratio) (95% CI) 3                         | 3.965 (1.771, 8.876) p = 0.0008   |                                   | 4.429 (2.097, 9.353) p < 0.0001   |                                   |
 
-Patients randomised to the linagliptin 5 mg group were receiving either fixed dose combination tablets Glyxambi 10 mg/5 mg plus metformin or fixed dose combination tablets Glyxambi 25 mg/5 mg plus metformin; patients randomised to the placebo group were receiving placebo plus empagliflozin 10 mg plus metformin or placebo plus empagliflozin 25 mg plus metformin 1 MMRM model on FAS (OC) includes baseline HbA1c, baseline eGFR (MDRD), geographical region, visit, treatment, and treatment by visit interaction. For FPG, baseline FPG is also included.
+Patients randomised to the linagliptin 5 mg group were receiving either fixed dose combination tablets Glyxambi 10 mg/5 mg plus metformin or fixed dose combination tablets Glyxambi 25 mg/5 mg plus metformin; patients randomised to the placebo group were receiving placebo plus empagliflozin 10 mg plus metformin or placebo plus empagliflozin 25 mg plus metformin
+
+1 MMRM model on FAS (OC) includes baseline HbA1c, baseline eGFR (MDRD), geographical region, visit, treatment, and treatment by visit interaction. For FPG, baseline FPG is also included.
 
 2 Not evaluated for statistical significance; not part of sequential testing procedure for the secondary endpoints
 
@@ -550,15 +573,15 @@ Patients randomised to the linagliptin 5 mg group were receiving either fixed do
 
 ## Empagliflozin cardiovascular outcome (EMPA-REG OUTCOME) trial
 
-The double-blind, placebo-controlled EMPA-REG OUTCOME trial compared pooled doses of empagliflozin 10 mg and 25 mg with placebo as adjunct to standard care therapy in patients with type 2 diabetes and established cardiovascular disease. A total of 7 020 patients were treated (empagliflozin 10 mg: 2 345, empagliflozin 25 mg: 2 342, placebo: 2 333) and followed for a median of 3.1  years. The mean age was 63 years, the mean HbA1c was 8.1%, and 71.5% were male. At baseline, 74% of patients were being treated with metformin, 48% with insulin, and 43% with a sulfonylurea. About half of the patients (52.2%) had an eGFR of 60-90 ml/min/1.73 m 2 , 17.8% of 45-60  ml/min/1.73 m 2 and 7.7% of 30-45 ml/min/1.73 m 2 .
-
-At week 12, an adjusted mean (SE) improvement in HbA1c when compared to baseline of 0.11% (0.02) in the placebo group, 0.65% (0.02) and 0.71% (0.02) in the empagliflozin 10 and 25 mg groups was observed. After the first 12 weeks glycaemic control was optimized independent of investigative treatment. Therefore the effect was attenuated at week 94, with an adjusted mean (SE) improvement in HbA1c of 0.08% (0.02) in the placebo group, 0.50% (0.02) and 0.55% (0.02) in the empagliflozin 10 and 25 mg groups.
-
-Empagliflozin was superior in preventing the primary combined endpoint of cardiovascular death, nonfatal myocardial infarction, or non-fatal stroke, as compared with placebo. The treatment effect was driven by a significant reduction in cardiovascular death with no significant change in non-fatal myocardial infarction, or non-fatal stroke. The reduction of cardiovascular death was comparable for empagliflozin 10 mg and 25 mg and confirmed by an improved overall survival (see Table 6). The effect of empagliflozin on the primary combined endpoint of CV death, non-fatal MI, or non-fatal
+The double-blind, placebo-controlled EMPA-REG OUTCOME trial compared pooled doses of empagliflozin 10 mg and 25 mg with placebo as adjunct to standard care therapy in patients with type 2 diabetes and established cardiovascular disease. A total of 7 020 patients were treated
 
 <div style=\"page-break-after: always\"></div>
 
-stroke was largely independent of glycaemic control or renal function (eGFR) and generally consistent across eGFR categories down to an eGFR of 30 ml/min/1.73 m 2  in the EMPA-REG OUTCOME study.
+(empagliflozin 10 mg: 2 345, empagliflozin 25 mg: 2 342, placebo: 2 333) and followed for a median of 3.1 years. The mean age was 63 years, the mean HbA1c was 8.1%, and 71.5% were male. At baseline, 74% of patients were being treated with metformin, 48% with insulin, and 43% with a sulfonylurea. About half of the patients (52.2%) had an eGFR of 60-90 mL/min/1.73 m 2 , 17.8% of 45-60 mL/min/1.73 m 2  and 7.7% of 30-45 mL/min/1.73 m 2 .
+
+At week 12, an adjusted mean (SE) improvement in HbA1c when compared to baseline of 0.11% (0.02) in the placebo group, 0.65% (0.02) and 0.71% (0.02) in the empagliflozin 10 and 25 mg groups was observed. After the first 12 weeks glycaemic control was optimized independent of investigative treatment. Therefore the effect was attenuated at week 94, with an adjusted mean (SE) improvement in HbA1c of 0.08% (0.02) in the placebo group, 0.50% (0.02) and 0.55% (0.02) in the empagliflozin 10 and 25 mg groups.
+
+Empagliflozin was superior in preventing the primary combined endpoint of cardiovascular death, nonfatal myocardial infarction, or non-fatal stroke, as compared with placebo. The treatment effect was driven by a significant reduction in cardiovascular death with no significant change in non-fatal myocardial infarction, or non-fatal stroke. The reduction of cardiovascular death was comparable for empagliflozin 10 mg and 25 mg and confirmed by an improved overall survival (see Table 6). The effect of empagliflozin on the primary combined endpoint of CV death, non-fatal MI, or non-fatal stroke was largely independent of glycaemic control or renal function (eGFR) and generally consistent across eGFR categories down to an eGFR of 30 mL/min/1.73 m 2  in the EMPA-REG OUTCOME study.
 
 Table 6 Treatment effect for the primary composite endpoint, its components and mortality a
 
@@ -570,7 +593,7 @@ Table 6 Treatment effect for the primary composite endpoint, its components and 
 | p-value for superiority                                                 |            | 0.0382            |
 | CV DeathN (%)                                                           | 137 (5.9)  | 172 (3.7)         |
 | Hazard ratio vs. placebo (95% CI)                                       |            | 0.62 (0.49, 0.77) |
-| p-value                                                                 |            | <0.0001           |
+| p-value                                                                 |            | < 0.0001          |
 | Non-fatal MI N(%)                                                       | 121 (5.2)  | 213 (4.5)         |
 | Hazard ratio vs. placebo (95% CI)                                       |            | 0.87 (0.70, 1.09) |
 | p-value                                                                 |            | 0.2189            |
@@ -579,11 +602,13 @@ Table 6 Treatment effect for the primary composite endpoint, its components and 
 | p-value                                                                 |            | 0.1638            |
 | All-cause mortality N (%)                                               | 194 (8.3)  | 269 (5.7)         |
 | Hazard ratio vs. placebo (95% CI)                                       |            | 0.68 (0.57, 0.82) |
-| p-value                                                                 |            | <0.0001           |
+| p-value                                                                 |            | < 0.0001          |
 | Non-CV mortality N (%)                                                  | 57 (2.4)   | 97 (2.1)          |
 | Hazard ratio vs. placebo (95% CI)                                       |            | 0.84 (0.60, 1.16) |
 
 The efficacy for preventing cardiovascular mortality has not been conclusively established in patients using empagliflozin concomitantly with DPP-4 inhibitors or in Black patients because the representation of these groups in the EMPA-REG OUTCOME trial was limited.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Heart failure requiring hospitalization
 
@@ -597,23 +622,23 @@ In addition, empagliflozin showed a higher (HR 1.82, 95% CI 1.40, 2.37) occurren
 
 ## Linagliptin cardiovascular and renal safety (CARMELINA) trial
 
-The double-blind, placebo-controlled CARMELINA trial evaluated the cardiovascular and renal safety of linagliptin versus placebo as adjunct to standard care therapy in patients with type 2 diabetes and with increased CV risk evidenced by a history of established macrovascular or renal disease. A total of 6 979 patients were treated (linagliptin 5 mg: 3 494, placebo: 3 485) and followed for a median of 2.2 years. The trial population included 1  211 (17.4%) patients ≥ 75 years of age, the mean HbA1c was 8.0%, 63% were male. Approximately 19% of the population had an eGFR of 45-60 mL/min/1.73 m 2 , 28% of 30-45 mL/min/1.73 m 2  and 15% of &lt;30 mL/min/1.73 m².
+The double-blind, placebo-controlled CARMELINA trial evaluated the cardiovascular and renal safety of linagliptin versus placebo as adjunct to standard care therapy in patients with type 2 diabetes and with increased CV risk evidenced by a history of established macrovascular or renal disease. A total of 6 979 patients were treated (linagliptin 5 mg: 3 494, placebo: 3 485) and followed for a median of 2.2 years. The trial population included 1 211 (17.4%) patients ≥ 75 years of age, the mean HbA1c was 8.0%, 63% were male. Approximately 19% of the population had an eGFR of 45-60 mL/min/1.73 m 2 , 28% of 30-45 mL/min/1.73 m 2  and 15% of &lt; 30 mL/min/1.73 m².
 
-<div style=\"page-break-after: always\"></div>
-
-Linagliptin did not increase the risk of the combined endpoint of CV death, non-fatal myocardial infarction or non-fatal stroke (MACE-3) [HR=1.02; (95% CI 0.89, 1.17); p=0.0002 for noninferiority], or the risk of combined endpoint of renal death, ESRD, 40% or more sustained decrease in eGFR [HR=1.04; (95% CI 0.89, 1.22)]. In analyses for albuminuria progression (change from normoalbuminuria to micro-or macroalbuminuria, or from microalbuminuria to macroalbuminuria) the estimated hazard ratio was 0.86 (95% CI 0.78, 0.95) for linagliptin versus placebo. In addition, linagliptin did not increase the risk of hospitalization for heart failure [HR=0.90; (95% CI 0.74, 1.08)]. No increased risk of CV death or all-cause mortality was observed.
+Linagliptin did not increase the risk of the combined endpoint of CV death, non-fatal myocardial infarction or non-fatal stroke (MACE-3) [HR = 1.02; (95% CI 0.89, 1.17); p = 0.0002 for noninferiority], or the risk of combined endpoint of renal death, ESRD, 40% or more sustained decrease in eGFR [HR = 1.04; (95% CI 0.89, 1.22)]. In analyses for albuminuria progression (change from normoalbuminuria to micro-or macroalbuminuria, or from microalbuminuria to macroalbuminuria) the estimated hazard ratio was 0.86 (95% CI 0.78, 0.95) for linagliptin versus placebo. In addition, linagliptin did not increase the risk of hospitalization for heart failure [HR = 0.90; (95% CI 0.74, 1.08)]. No increased risk of CV death or all-cause mortality was observed.
 
 Safety data from this trial was in line with previous known safety profile of linagliptin.
 
 ## Linagliptin cardiovascular safety (CAROLINA) trial
 
-The double-blind parallel group CAROLINA trial evaluated the cardiovascular safety of linagliptin versus glimepiride as adjunct to standard care therapy in patients with type 2 diabetes and with increased CV risk. A total of 6 033 patients were treated (linagliptin 5 mg: 3 023, glimepiride 1 mg to 4 mg: 3 010) and followed for a median of 6.25 years. The mean age was 64 years, the mean HbA1c was 7.15%, and 60% were male. Approximately 19% of the population had an eGFR &lt;60 mL/min/1.73 m 2 .
+The double-blind parallel group CAROLINA trial evaluated the cardiovascular safety of linagliptin versus glimepiride as adjunct to standard care therapy in patients with type 2 diabetes and with increased CV risk. A total of 6 033 patients were treated (linagliptin 5 mg: 3 023, glimepiride 1 mg to 4 mg: 3 010) and followed for a median of 6.25 years. The mean age was 64 years, the mean HbA1c was 7.15%, and 60% were male. Approximately 19% of the population had an eGFR &lt; 60 mL/min/1.73 m 2 .
 
-The trial was designed to demonstrate non-inferiority for the primary cardiovascular endpoint which was a composite of the first occurrence of cardiovascular death or a non-fatal myocardial infarction (MI) or a non-fatal stroke (3P-MACE). Linagliptin did not increase the risk of the combined endpoint of CV death, non-fatal myocardial infarction or non-fatal stroke (MACE-3) [Hazard Ratio (HR)=0.98; (95% CI 0.84, 1.14); p&lt;0.0001 for non-inferiority], when added to standard of care in adult patients with type 2 diabetes with increased CV risk compared to glimepiride (see Table 7).
+The trial was designed to demonstrate non-inferiority for the primary cardiovascular endpoint which was a composite of the first occurrence of cardiovascular death or a non-fatal myocardial infarction (MI) or a non-fatal stroke (3P-MACE). Linagliptin did not increase the risk of the combined endpoint of CV death, non-fatal myocardial infarction or non-fatal stroke (MACE-3) [Hazard Ratio (HR) = 0.98; (95% CI 0.84, 1.14); p &lt; 0.0001 for non-inferiority], when added to standard of care in adult patients with type 2 diabetes with increased CV risk compared to glimepiride (see Table 7).
+
+<div style=\"page-break-after: always\"></div>
 
 Table 7 Major adverse cardiovascular events (MACE) and mortality by treatment group in the CAROLINA trial
 
-|                                                                             | Linagliptin 5mg        | Linagliptin 5mg             | Glimepiride (1-4mg)    | Glimepiride (1-4mg)         | Hazard ratio        |
+|                                                                             | Linagliptin 5 mg       | Linagliptin 5 mg            | Glimepiride (1-4 mg)   | Glimepiride (1-4 mg)        | Hazard ratio        |
 |-----------------------------------------------------------------------------|------------------------|-----------------------------|------------------------|-----------------------------|---------------------|
 |                                                                             | Number of Subjects (%) | Incidence Rate per 1000 PY* | Number of Subjects (%) | Incidence Rate per 1000 PY* | (95% CI)            |
 | Number of patients                                                          | 3023                   | 3023                        | 3010                   | 3010                        |                     |
@@ -628,25 +653,23 @@ Table 7 Major adverse cardiovascular events (MACE) and mortality by treatment gr
 
 ## Paediatric population
 
-Glyxambi is not recommended for use in children below 18 years of age as the safety and effectiveness have not been established (see section 4.2 for information on paediatric use). The clinical efficacy and safety of empagliflozin 10 mg with possible dose-increase to 25 mg or linagliptin 5 mg once daily has been studied in children and adolescents from 10 to 17 years with type 2 diabetes mellitus in a double-blind, randomised, placebo-controlled, parallel group study (DINAMO) over 26 weeks, with a double-blind active treatment safety extension period up to 52 weeks. The mean HbA1c was 8.03% at baseline. The primary endpoint of the study was the change
-
-<div style=\"page-break-after: always\"></div>
-
-in HbA1c from baseline to the end of 26 weeks, regardless of glycaemic rescue or treatment discontinuation.
+Glyxambi is not recommended for use in children below 18 years of age as the safety and effectiveness have not been established (see section 4.2 for information on paediatric use). The clinical efficacy and safety of empagliflozin 10 mg with possible dose-increase to 25 mg or linagliptin 5 mg once daily has been studied in children and adolescents from 10 to 17 years with type 2 diabetes mellitus in a double-blind, randomised, placebo-controlled, parallel group study (DINAMO) over 26 weeks, with a double-blind active treatment safety extension period up to 52 weeks. The mean HbA1c was 8.03% at baseline. The primary endpoint of the study was the change in HbA1c from baseline to the end of 26 weeks, regardless of glycaemic rescue or treatment discontinuation.
 
 ## Empagliflozin
 
-Empagliflozin was superior to placebo in reducing HbA1c. The treatment difference of adjusted mean change in HbA1c between empagliflozin and placebo was -0.84% (95% CI -1.50, -0.19; p=0.0116). The adjusted mean change in HbA1c from baseline in patients treated with empagliflozin (N=52) was -0.17% and 0.68% in patients treated with placebo (N=53).
+Empagliflozin was superior to placebo in reducing HbA1c. The treatment difference of adjusted mean change in HbA1c between empagliflozin and placebo was -0.84% (95% CI -1.50, -0.19; p = 0.0116). The adjusted mean change in HbA1c from baseline in patients treated with empagliflozin (N = 52) was -0.17% and 0.68% in patients treated with placebo (N = 53).
 
 ## Linagliptin
 
-Treatment with linagliptin did not provide significant improvement in HbA1c. The treatment difference of adjusted mean change in HbA1c between linagliptin and placebo was -0.34% (95% CI 0.99, 0.30; p=0.2935). The adjusted mean change in HbA1c from baseline was 0.33% in patients treated with linagliptin and 0.68% in patients treated with placebo.
+Treatment with linagliptin did not provide significant improvement in HbA1c. The treatment difference of adjusted mean change in HbA1c between linagliptin and placebo was -0.34% (95% CI -0.99, 0.30; p = 0.2935). The adjusted mean change in HbA1c from baseline was 0.33% in patients treated with linagliptin and 0.68% in patients treated with placebo.
 
 ## 5.2 Pharmacokinetic properties
 
-The rate and extent of absorption of empagliflozin and linagliptin in Glyxambi are equivalent to the bioavailability of empagliflozin and linagliptin when administered as individual tablets.The pharmacokinetics of empagliflozin and linagliptin as single agents have been extensively characterized in healthy subjects and patients with type 2 diabetes. Pharmacokinetics were generally similar in healthy subjects and in patients with type 2 diabetes.
+The rate and extent of absorption of empagliflozin and linagliptin in Glyxambi are equivalent to the bioavailability of empagliflozin and linagliptin when administered as individual tablets. The pharmacokinetics of empagliflozin and linagliptin as single agents have been extensively characterized in healthy subjects and patients with type 2 diabetes. Pharmacokinetics were generally similar in healthy subjects and in patients with type 2 diabetes.
 
 Glyxambi showed a similar food effect as the individual active substances. Glyxambi can therefore be taken with or without food.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Empagliflozin
 
@@ -662,11 +685,7 @@ The apparent steady-state volume of distribution was estimated to be 73.8 L base
 
 ## Biotransformation
 
-No major metabolites of empagliflozin were detected in human plasma and the most abundant metabolites were three glucuronide conjugates (2-, 3-, and 6-O-glucuronide). Systemic exposure of each metabolite was less than 10% of total drug-related material. In vitro studies suggest that the primary route of metabolism of empagliflozin in humans is glucuronidation by the uridine 5'-
-
-<div style=\"page-break-after: always\"></div>
-
-diphospho-glucuronosyltransferases UGT2B7, UGT1A3, UGT1A8 and UGT1A9.
+No major metabolites of empagliflozin were detected in human plasma and the most abundant metabolites were three glucuronide conjugates (2-, 3-, and 6-O-glucuronide). Systemic exposure of each metabolite was less than 10% of total drug-related material. In vitro studies suggest that the primary route of metabolism of empagliflozin in humans is glucuronidation by the uridine 5'-diphospho-glucuronosyltransferases UGT2B7, UGT1A3, UGT1A8 and UGT1A9.
 
 ## Elimination
 
@@ -680,7 +699,11 @@ Following administration of an oral [ 14 C]-empagliflozin solution to healthy vo
 
 After oral administration of a 5 mg dose to healthy volunteers or patients, linagliptin was rapidly absorbed, with peak plasma concentrations (median Tmax) occurring 1.5 hours post-dose.
 
-After once daily dosing of 5 mg linagliptin, steady-state plasma concentrations are reached by the third dose. Plasma AUC of linagliptin increased approximately 33% following 5 mg doses at steady-state compared to the first dose. The intra-subject and inter-subject coefficients of variation for linagliptin AUC were small (12.6% and 28.5%, respectively). Due to the concentration dependent binding of linagliptin to DPP-4, the pharmacokinetics of linagliptin based on total exposure is not linear; indeed total plasma AUC of linagliptin increased in a less than dose-proportional manner while unbound AUC increases in a roughly dose-proportional manner.
+After once daily dosing of 5 mg linagliptin, steady-state plasma concentrations are reached by the third dose. Plasma AUC of linagliptin increased approximately 33% following 5 mg doses at steady-state compared to the first dose. The intra-subject and inter-subject coefficients of variation for linagliptin AUC were small (12.6% and 28.5%, respectively). Due to the concentration dependent binding of
+
+<div style=\"page-break-after: always\"></div>
+
+linagliptin to DPP-4, the pharmacokinetics of linagliptin based on total exposure is not linear; indeed total plasma AUC of linagliptin increased in a less than dose-proportional manner while unbound AUC increases in a roughly dose-proportional manner.
 
 The absolute bioavailability of linagliptin is approximately 30%. Co-administration of a high-fat meal with linagliptin prolonged the time to reach Cmax by 2 hours and lowered Cmax by 15% but no influence on AUC0-72h was observed. No clinically relevant effect of Cmax and Tmax changes is expected; therefore linagliptin may be administered with or without food.
 
@@ -688,13 +711,11 @@ The steady state plasma AUCτ,ss and Cmax,ss concentrations of linagliptin were 
 
 ## Distribution
 
-As a result of tissue binding, the mean apparent volume of distribution at steady-state following a single 5 mg intravenous dose of linagliptin to healthy subjects is approximately 1,110 litres, indicating that linagliptin extensively distributes to the tissues. Plasma protein binding of linagliptin is concentration-dependent, decreasing from about 99% at 1 nmol/L to 75-89% at ≥30 nmol/L, reflecting saturation of binding to DPP-4 with increasing concentration of linagliptin. At high concentrations, where DPP-4 is fully saturated, 70-80% of linagliptin was bound to other plasma proteins than DPP-4, hence 30-20% were unbound in plasma.
+As a result of tissue binding, the mean apparent volume of distribution at steady-state following a single 5 mg intravenous dose of linagliptin to healthy subjects is approximately 1 110 litres, indicating that linagliptin extensively distributes to the tissues. Plasma protein binding of linagliptin is concentration-dependent, decreasing from about 99% at 1 nmol/L to 75-89% at ≥ 30 nmol/L, reflecting saturation of binding to DPP-4 with increasing concentration of linagliptin. At high concentrations, where DPP-4 is fully saturated, 70-80% of linagliptin was bound to other plasma proteins than DPP-4, hence 30-20% were unbound in plasma.
 
 ## Biotransformation
 
 Following a [ 14 C] linagliptin oral 10 mg dose, approximately 5% of the radioactivity was excreted in urine. Metabolism plays a subordinate role in the elimination of linagliptin. One main metabolite with a relative exposure of 13.3% of linagliptin at steady-state was detected which was found to be pharmacologically inactive and thus to not contribute to the plasma DPP-4 inhibitory activity of linagliptin.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Elimination
 
@@ -706,23 +727,23 @@ Following administration of an oral [ 14 C] linagliptin dose to healthy subjects
 
 ## Empagliflozin
 
-In patients with mild, moderate or severe renal impairment (eGFR &lt;30 to &lt;90 mL/min/1.73 m 2 ) and patients with kidney failure or end stage renal disease (ESRD), AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively compared to subjects with normal renal function. Peak plasma levels of empagliflozin were similar in subjects with moderate renal impairment and kidney failure/ESRD compared to patients with normal renal function. Peak plasma levels of empagliflozin were roughly 20% higher in subjects with mild and severe renal impairment as compared to subjects with normal renal function. The population pharmacokinetic analysis showed that the apparent oral clearance of empagliflozin decreased with a decrease in eGFR leading to an increase in drug exposure (see section 4.2).
+In patients with mild, moderate or severe renal impairment (eGFR &lt; 30 to &lt; 90 mL/min/1.73 m 2 ) and patients with kidney failure or end stage renal disease (ESRD), AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively compared to subjects with normal renal function. Peak plasma levels of empagliflozin were similar in subjects with moderate renal impairment and kidney failure/ESRD compared to patients with normal renal function. Peak plasma levels of empagliflozin were roughly 20% higher in subjects with mild and severe renal impairment as compared to subjects with normal renal function. The population pharmacokinetic analysis showed that the apparent oral clearance of empagliflozin decreased with a decrease in eGFR leading to an increase in drug exposure (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Linagliptin
 
-A multiple-dose, open-label trial was conducted to evaluate the pharmacokinetics of linagliptin (5 mg dose) in patients with varying degrees of chronic renal insufficiency compared to subjects with normal renal function. The trial included patients with renal insufficiency classified on the basis of creatinine clearance as mild (50 to &lt;80 mL/min), moderate (30 to &lt;50 mL/min), and severe (&lt;30 mL/min), as well as patients with ESRD on haemodialysis. In addition patients with T2DM and severe renal impairment (&lt;30 mL/min) were compared to T2DM patients with normal renal function. Under steady-state conditions, linagliptin exposure in patients with mild renal impairment was comparable to healthy subjects. In moderate renal impairment, a moderate increase in exposure of about 1.7-fold was observed compared with control. Exposure in T2DM patients with severe RI was increased by about 1.4-fold compared to T2DM patients with normal renal function. Steady-state predictions for AUC of linagliptin in patients with ESRD indicated comparable exposure to that of patients with moderate or severe renal impairment. In addition, linagliptin is not expected to be eliminated to a therapeutically significant degree by haemodialysis or peritoneal dialysis (see section 4.2).
+A multiple-dose, open-label trial was conducted to evaluate the pharmacokinetics of linagliptin (5 mg dose) in patients with varying degrees of chronic renal insufficiency compared to subjects with normal renal function. The trial included patients with renal insufficiency classified on the basis of creatinine clearance as mild (50 to &lt; 80 mL/min), moderate (30 to &lt; 50 mL/min), and severe (&lt; 30 mL/min), as well as patients with ESRD on haemodialysis. In addition patients with T2DM and severe renal impairment (&lt; 30 mL/min) were compared to T2DM patients with normal renal function. Under steady-state conditions, linagliptin exposure in patients with mild renal impairment was comparable to healthy subjects. In moderate renal impairment, a moderate increase in exposure of about 1.7-fold was observed compared with control. Exposure in T2DM patients with severe RI was increased by about 1.4-fold compared to T2DM patients with normal renal function. Steady-state predictions for AUC of linagliptin in patients with ESRD indicated comparable exposure to that of patients with moderate or severe renal impairment. In addition, linagliptin is not expected to be eliminated to a therapeutically significant degree by haemodialysis or peritoneal dialysis (see section 4.2).
 
 ## Hepatic impairment
 
 ## Empagliflozin
 
-In patients with mild, moderate and severe hepatic insufficiency (Child-Pugh classification), mean AUC and Cmax of empagliflozin increased (AUC by 23%, 47%, 75% and Cmax by 4%, 23%,48%) compared to subjects with normal hepatic function (see section 4.2).
+In patients with mild, moderate and severe hepatic insufficiency (Child-Pugh classification), mean AUC and Cmax of empagliflozin increased (AUC by 23%, 47%, 75% and Cmax by 4%, 23%, 48%) compared to subjects with normal hepatic function (see section 4.2).
 
 ## Linagliptin
 
 In non-diabetic patients with mild, moderate and severe hepatic insufficiency (according to the ChildPugh classification), mean AUC and Cmax of linagliptin were similar to healthy subjects following administration of multiple 5 mg doses of linagliptin.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Body mass index
 
@@ -740,23 +761,21 @@ No clinically relevant difference in pharmacokinetics of empagliflozin and linag
 
 Age did not have a clinically meaningful impact on the pharmacokinetics of empagliflozin or linagliptin based on population pharmacokinetic analysis. Elderly subjects (65 to 80 years) had comparable plasma concentrations of linagliptin compared to younger subjects.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric patients
 
 ## Empagliflozin
 
-A paediatric Phase 1 trial examined the pharmacokinetics and pharmacodynamics of empagliflozin (5 mg, 10 mg and 25 mg) in children and adolescents ≥10 to &lt;18 years of age with type 2 diabetes mellitus. The observed pharmacokinetic and pharmacodynamic responses were consistent with those found in adult subjects.
+A paediatric Phase 1 trial examined the pharmacokinetics and pharmacodynamics of empagliflozin (5 mg, 10 mg and 25 mg) in children and adolescents ≥ 10 to &lt; 18 years of age with type 2 diabetes mellitus. The observed pharmacokinetic and pharmacodynamic responses were consistent with those found in adult subjects.
 
-A paediatric Phase 3 trial examined the pharmacokinetics and pharmacodynamics (HbA1c change from baseline) of empagliflozin 10 mg with a possible dose-increase to 25 mg in children and adolescents 10 to 17 years of age with type 2 diabetes mellitus. The observed exposure-response relationship was overall comparable in adults and children and adolescents. Oral administration of empagliflozin resulted in exposure within the range observed in adult patients. The observed geometric mean trough concentrations and geometric mean concentrations at 1.5 hours postadministration at steady state were 26.6 nmol/L and 308 nmol/L with empagliflozin 10 mg once daily and 67.0 nmol/L and 525 nmol/L with empagliflozin 25 mg once daily.
+A paediatric Phase 3 trial examined the pharmacokinetics and pharmacodynamics (HbA1c change from baseline) of empagliflozin 10 mg with a possible dose-increase to 25 mg in children and adolescents 10 to 17 years of age with type 2 diabetes mellitus. The observed exposure-response relationship was overall comparable in adults and children and adolescents. Oral administration of empagliflozin resulted in exposure within the range observed in adult patients. The observed geometric mean trough concentrations and geometric mean concentrations at 1.5 hours post-administration at steady state were 26.6 nmol/L and 308 nmol/L with empagliflozin 10 mg once daily and 67.0 nmol/L and 525 nmol/L with empagliflozin 25 mg once daily.
 
 ## Linagliptin
 
-A paediatric Phase 2 trial examined the pharmacokinetics and pharmacodynamics of 1 mg and 5 mg linagliptin in children and adolescents ≥10 to &lt;18 years of age with type 2 diabetes mellitus. The observed pharmacokinetic and pharmacodynamic responses were consistent with those found in adult subjects. Linagliptin 5 mg showed superiority over 1 mg with regard to trough DPP-4 inhibition (72% vs 32%, p=0.0050) and a numerically larger reduction with regard to adjusted mean change from baseline in HbA1c (-0.63% vs -0.48%, n.s.). Due to the limited nature of the data set the results should be interpreted cautiously.
+A paediatric Phase 2 trial examined the pharmacokinetics and pharmacodynamics of 1 mg and 5 mg linagliptin in children and adolescents ≥ 10 to &lt; 18 years of age with type 2 diabetes mellitus. The observed pharmacokinetic and pharmacodynamic responses were consistent with those found in adult subjects. Linagliptin 5 mg showed superiority over 1 mg with regard to trough DPP-4 inhibition (72% vs 32%, p = 0.0050) and a numerically larger reduction with regard to adjusted mean change from baseline in HbA1c (-0.63% vs -0.48%, n.s.). Due to the limited nature of the data set the results should be interpreted cautiously.
 
-A paediatric Phase 3 trial examined the pharmacokinetics and pharmacodynamics (HbA1c change from baseline) of 5 mg linagliptin in children and adolescents 10 to 17 years of age with type 2 diabetes mellitus. The observed exposure-response relationship was overall comparable in paediatric and adult patients. Oral administration of linagliptin resulted in exposure within the range observed in adult patients. The observed geometric mean trough concentrations and geometric mean concentrations at 1.5 hours post-administration at steady state were 4.30 nmol/L and 12.6 nmol/L,
-
-<div style=\"page-break-after: always\"></div>
-
-respectively.
+A paediatric Phase 3 trial examined the pharmacokinetics and pharmacodynamics (HbA1c change from baseline) of 5 mg linagliptin in children and adolescents 10 to 17 years of age with type 2 diabetes mellitus. The observed exposure-response relationship was overall comparable in paediatric and adult patients. Oral administration of linagliptin resulted in exposure within the range observed in adult patients. The observed geometric mean trough concentrations and geometric mean concentrations at 1.5 hours post-administration at steady state were 4.30 nmol/L and 12.6 nmol/L, respectively.
 
 ## Drug interactions
 
@@ -770,19 +789,23 @@ In vitro data suggest that the primary route of metabolism of empagliflozin in h
 
 Empagliflozin is a substrate of the human uptake transporters OAT3, OATP1B1, and OATP1B3, but not Organic Anion Transporter 1 (OAT1) and Organic Cation Transporter 2 (OCT2). Empagliflozin is a substrate of P-glycoprotein (P-gp) and breast cancer resistance protein (BCRP).
 
-Empagliflozin does not inhibit P-gp at therapeutic doses. Based on in vitro studies, empagliflozin is considered unlikely to cause interactions with medicinal products that are P-gp substrates. Coadministration of digoxin, a P-gp substrate, with empagliflozin resulted in a 6% increase in AUC and 14% increase in Cmax of digoxin. These changes were not considered to be clinically meaningful.
+Empagliflozin does not inhibit P-gp at therapeutic doses. Based on in vitro studies, empagliflozin is considered unlikely to cause interactions with medicinal products that are P-gp substrates. Co-
+
+<div style=\"page-break-after: always\"></div>
+
+administration of digoxin, a P-gp substrate, with empagliflozin resulted in a 6% increase in AUC and 14% increase in Cmax of digoxin. These changes were not considered to be clinically meaningful.
 
 Empagliflozin does not inhibit human uptake transporters such as OAT3, OATP1B1, and OATP1B3 in vitro at clinically relevant plasma concentrations and, as such, drug-drug interactions with substrates of these uptake transporters are considered unlikely.
 
 ## In vitro assessment of linagliptin
 
-Linagliptin was a substrate for OATP8-, OCT2-, OAT4-, OCTN1- and OCTN2, suggesting a possible OATP8-mediated hepatic uptake, OCT2-mediated renal uptake and OAT4-, OCTN1- and OCTN2mediated renal secretion and reabsorption of linagliptin in vivo . OATP2, OATP8, OCTN1, OCT1 and OATP2 activities were slightly to weakly inhibited by linagliptin.
+Linagliptin was a substrate for OATP8-, OCT2-, OAT4-, OCTN1- and OCTN2, suggesting a possible OATP8-mediated hepatic uptake, OCT2-mediated renal uptake and OAT4-, OCTN1- and OCTN2-mediated renal secretion and reabsorption of linagliptin in vivo . OATP2, OATP8, OCTN1, OCT1 and OATP2 activities were slightly to weakly inhibited by linagliptin.
 
 ## 5.3 Preclinical safety data
 
 General toxicity studies in rats up to 13 weeks were performed with the combination of empagliflozin and linagliptin.
 
-Focal  areas  of  hepatocellular  necrosis  were  found  in  the  combination  groups  at  ≥15:  30 mg/kg linagliptin:  empagliflozin  (3.8  times  the  clinical  exposure  for  linagliptin  and  7.8  times  the  clinical exposure for empagliflozin) as well as in the group treated with empagliflozin alone but not in the control group. The clinical relevance of this finding remains uncertain.
+Focal  areas  of  hepatocellular  necrosis  were  found  in  the  combination  groups  at  ≥ 15:  30 mg/kg linagliptin:  empagliflozin  (3.8 times  the  clinical  exposure  for  linagliptin  and  7.8 times  the  clinical exposure for empagliflozin) as well as in the group treated with empagliflozin alone but not in the control group. The clinical relevance of this finding remains uncertain.
 
 At exposures sufficiently in excess of exposure in humans after therapeutic doses, the combination of empagliflozin and linagliptin was not teratogenic and did not show maternal toxicity. Adverse effects on renal development were not observed after administration of empagliflozin alone, linagliptin alone or after administration of the combined products.
 
@@ -790,13 +813,15 @@ At exposures sufficiently in excess of exposure in humans after therapeutic dose
 
 Non clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, genotoxicity, fertility and early embryonic development.
 
-<div style=\"page-break-after: always\"></div>
-
 In long-term toxicity studies in rodents and dogs, signs of toxicity were observed at exposures greater than or equal to 10-times the clinical dose of empagliflozin. Most toxicity was consistent with secondary pharmacology related to urinary glucose loss and electrolyte imbalances including decreased body weight and body fat, increased food consumption, diarrhoea, dehydration, decreased serum glucose and increases in other serum parameters reflective of increased protein metabolism and gluconeogenesis, urinary changes such as polyuria and glucosuria, and microscopic changes including mineralisation in kidney and some soft and vascular tissues. Microscopic evidence of the effects of exaggerated pharmacology on the kidney observed in some species included tubular dilatation, and tubular and pelvic mineralisation at approximately 4-times the clinical AUC exposure of empagliflozin associated with the 25 mg dose.
 
 In a 2 year carcinogenicity study, empagliflozin did not increase the incidence of tumours in female rats up to the highest dose of 700 mg/kg/day, which corresponds to approximately 72 times the maximal clinical AUC exposure to empagliflozin. In male rats, treatment related benign vascular proliferative lesions (haemangiomas) of the mesenteric lymph node were observed at the highest dose, but not at 300 mg/kg/day, which corresponds to approximately 26 times the maximal clinical exposure to empagliflozin. Interstitial cell tumours in the testes were observed with a higher incidence in rats at 300 mg/kg/day and above, but not at 100 mg/kg/day which corresponds to approximately 18 times the maximal clinical exposure to empagliflozin. Both tumours are common in rats and are unlikely to be relevant to humans.
 
-Empagliflozin did not increase the incidence of tumours in female mice at doses up to 1 000 mg/kg/day, which corresponds to approximately 62-times the maximal clinical exposure to empagliflozin. Empagliflozin induced renal tumours in male mice at 1 000 mg/kg/day, but not at 300 mg/kg/day, which corresponds to approximately 11-times the maximal clinical exposure to empagliflozin. The mode of action for these tumours is dependent on the natural predisposition of the male mouse to renal pathology and a metabolic pathway not reflective of humans. The male mouse renal tumours are considered not relevant to humans.
+Empagliflozin did not increase the incidence of tumours in female mice at doses up to 1 000 mg/kg/day, which corresponds to approximately 62-times the maximal clinical exposure to
+
+<div style=\"page-break-after: always\"></div>
+
+empagliflozin. Empagliflozin induced renal tumours in male mice at 1 000 mg/kg/day, but not at 300 mg/kg/day, which corresponds to approximately 11-times the maximal clinical exposure to empagliflozin. The mode of action for these tumours is dependent on the natural predisposition of the male mouse to renal pathology and a metabolic pathway not reflective of humans. The male mouse renal tumours are considered not relevant to humans.
 
 At exposures sufficiently in excess of exposure in humans after therapeutic doses, empagliflozin had no adverse effects on fertility or early embryonic development. Empagliflozin administered during the period of organogenesis was not teratogenic. Only at maternally toxic doses, empagliflozin also caused bent limb bones in the rat and increased embryofetal loss in the rabbit.
 
@@ -810,17 +835,15 @@ Non clinical data reveal no special hazard for humans based on conventional stud
 
 In long-term toxicity studies in rodents and Cynomolgus monkeys, signs of toxicity were observed at exposures greater than 300-times the clinical dose of linagliptin.
 
-Liver, kidneys and gastrointestinal tract are the principal target organs of toxicity in mice and rats. At exposures greater than 1 500-times the clinical exposure, adverse reactions on reproductive organs, thyroid and the lymphoid organs were seen in rats. Strong pseudo-allergic reactions were observed in dogs at medium doses, secondarily causing cardiovascular changes, which were considered dog-
+Liver, kidneys and gastrointestinal tract are the principal target organs of toxicity in mice and rats. At exposures greater than 1 500-times the clinical exposure, adverse reactions on reproductive organs, thyroid and the lymphoid organs were seen in rats. Strong pseudo-allergic reactions were observed in dogs at medium doses, secondarily causing cardiovascular changes, which were considered dogspecific. Liver, kidneys, stomach, reproductive organs, thymus, spleen, and lymph nodes were target organs of toxicity in Cynomolgus monkeys at more than 450-times the clinical exposure. At more than 100-times clinical exposure, irritation of the stomach was the major finding in monkeys.
 
-<div style=\"page-break-after: always\"></div>
-
-specific. Liver, kidneys, stomach, reproductive organs, thymus, spleen, and lymph nodes were target organs of toxicity in Cynomolgus monkeys at more than 450-times the clinical exposure. At more than 100-times clinical exposure, irritation of the stomach was the major finding in monkeys.
-
-Oral 2-year carcinogenicity studies in rats and mice revealed no evidence of carcinogenicity in rats or male mice. A significantly higher incidence of malignant lymphomas only in female mice at the highest dose (&gt;200-times human exposure) is not considered relevant for humans. Based on these studies there is no concern for carcinogenicity in humans.
+Oral 2-year carcinogenicity studies in rats and mice revealed no evidence of carcinogenicity in rats or male mice. A significantly higher incidence of malignant lymphomas only in female mice at the highest dose (&gt; 200-times human exposure) is not considered relevant for humans. Based on these studies there is no concern for carcinogenicity in humans.
 
 Linagliptin had no adverse effects on fertility or early embryonic development at exposures greater than 900-times the clinical exposure. Linagliptin administered during the period of organogenesis was not teratogenic. Only at maternally toxic doses, linagliptin caused a slight retardation of skeletal ossification in the rat and increased embryofoetal loss in the rabbit.
 
 In the pre- and postnatal toxicity study with linagliptin in rats, reduced weight gain in offspring was observed at maternal exposures approximately 1 500-times the maximal clinical exposure to linagliptin. No such effect was seen at systemic exposure 49-times the maximal clinical exposure to linagliptin.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -834,15 +857,15 @@ Mannitol (E421) Pre-gelatinised starch (maize) Maize starch Copovidone (K-value 
 
 ## Film coating
 
-Hypromellose 2910 Mannitol (E421) Talc Titanium dioxide (E171) Macrogol 6000 Iron oxide yellow (E172)
+Hypromellose 2910 Mannitol (E421) Talc Titanium dioxide (E171) Macrogol 6000
+
+Iron oxide yellow (E172)
 
 ## Glyxambi 25 mg/5 mg film-coated tablets
 
 ## Tablet core
 
 Mannitol (E421) Pre-gelatinised starch (maize) Maize starch Copovidone (K-value nominally 28) Crospovidone (Type B) Talc Magnesium stearate
-
-<div style=\"page-break-after: always\"></div>
 
 ## Film coating
 
@@ -860,11 +883,15 @@ Not applicable.
 
 This medicinal product does not require any special storage conditions.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
+```
 PVC/PVDC/aluminium perforated unit dose blisters.
+```
 
-Pack sizes of 7 x 1, 10 x 1, 14 x 1, 28 x 1, 30 x 1, 60 x 1, 70 x 1, 90 x 1 and 100 x 1 film-coated tablets.
+Pack sizes of 7 × 1, 10 × 1, 14 × 1, 28 × 1, 30 × 1, 60 × 1, 70 × 1, 90 × 1 and 100 × 1 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
@@ -874,27 +901,29 @@ No special requirements for disposal.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Boehringer Ingelheim International GmbH Binger Str. 173 55216 Ingelheim am Rhein Germany
+Boehringer Ingelheim International GmbH
+
+Binger Str. 173
+
+55216 Ingelheim am Rhein
+
+Germany
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
 ## Glyxambi 10 mg/5 mg film-coated tablets
 
 ```
-EU/1/16/1146/001 (7 x 1 film-coated tablets) EU/1/16/1146/002 (10 x 1 film-coated tablets) EU/1/16/1146/003 (14 x 1 film-coated tablets) EU/1/16/1146/004 (28 x 1 film-coated tablets) EU/1/16/1146/005 (30 x 1 film-coated tablets) EU/1/16/1146/006 (60 x 1 film-coated tablets) EU/1/16/1146/007 (70 x 1 film-coated tablets) EU/1/16/1146/008 (90 x 1 film-coated tablets)
+EU/1/16/1146/001 (7 × 1 film-coated tablets) EU/1/16/1146/002 (10 × 1 film-coated tablets) EU/1/16/1146/003 (14 × 1 film-coated tablets) EU/1/16/1146/004 (28 × 1 film-coated tablets) EU/1/16/1146/005 (30 × 1 film-coated tablets) EU/1/16/1146/006 (60 × 1 film-coated tablets) EU/1/16/1146/007 (70 × 1 film-coated tablets) EU/1/16/1146/008 (90 × 1 film-coated tablets) EU/1/16/1146/009 (100 × 1 film-coated tablets)
 ```
-
-EU/1/16/1146/009 (100 x 1 film-coated tablets)
-
-<div style=\"page-break-after: always\"></div>
 
 ## Glyxambi 25 mg/5 mg film-coated tablets
 
 ```
-EU/1/16/1146/010 (7 x 1 film-coated tablets) EU/1/16/1146/011 (10 x 1 film-coated tablets) EU/1/16/1146/012 (14 x 1 film-coated tablets) EU/1/16/1146/013 (28 x 1 film-coated tablets) EU/1/16/1146/014 (30 x 1 film-coated tablets) EU/1/16/1146/015 (60 x 1 film-coated tablets) EU/1/16/1146/016 (70 x 1 film-coated tablets) EU/1/16/1146/017 (90 x 1 film-coated tablets)
+EU/1/16/1146/010 (7 × 1 film-coated tablets) EU/1/16/1146/011 (10 × 1 film-coated tablets) EU/1/16/1146/012 (14 × 1 film-coated tablets) EU/1/16/1146/013 (28 × 1 film-coated tablets) EU/1/16/1146/014 (30 × 1 film-coated tablets) EU/1/16/1146/015 (60 × 1 film-coated tablets) EU/1/16/1146/016 (70 × 1 film-coated tablets) EU/1/16/1146/017 (90 × 1 film-coated tablets)
 ```
 
-EU/1/16/1146/018 (100 x 1 film-coated tablets)
+EU/1/16/1146/018 (100 × 1 film-coated tablets)
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -902,9 +931,11 @@ Date of first authorisation: 11 November 2016
 
 Date of latest renewal: 16 July 2021
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -935,9 +966,9 @@ Medicinal product subject to medical prescription.
 
 ## · Periodic safety update reports (PSURs)
 
-The requirements for submission of PSURs  for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-The marketing authorisation holder (MAH) shall submit the first PSUR  for this product within 6 months following authorisation.
+The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -980,15 +1011,15 @@ Each tablet contains 10 mg empagliflozin and 5 mg linagliptin.
 
 ## film-coated tablet
 
-- 7 x 1 film-coated tablets
-- 10 x 1 film-coated tablets
-- 14 x 1 film-coated tablets
-- 28 x 1 film-coated tablets
-- 30 x 1 film-coated tablets
-- 60 x 1 film-coated tablets
-- 70 x 1 film-coated tablets
-- 90 x 1 film-coated tablets
-- 100 x 1 film-coated tablets
+- 7 × 1 film-coated tablets
+- 10 × 1 film-coated tablets
+- 14 × 1 film-coated tablets
+- 28 × 1 film-coated tablets
+- 30 × 1 film-coated tablets
+- 60 × 1 film-coated tablets
+- 70 × 1 film-coated tablets
+- 90 × 1 film-coated tablets
+- 100 × 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1018,23 +1049,23 @@ Boehringer Ingelheim International GmbH
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
-EU/1/16/1146/001 7 x 1 film-coated tablets
+EU/1/16/1146/001 7 × 1 film-coated tablets
 
-EU/1/16/1146/002 10 x 1 film-coated tablets
+EU/1/16/1146/002 10 × 1 film-coated tablets
 
-EU/1/16/1146/003 14 x 1 film-coated tablets
+EU/1/16/1146/003 14 × 1 film-coated tablets
 
-EU/1/16/1146/004 28 x 1 film-coated tablets
+EU/1/16/1146/004 28 × 1 film-coated tablets
 
-EU/1/16/1146/005 30 x 1 film-coated tablets
+EU/1/16/1146/005 30 × 1 film-coated tablets
 
-EU/1/16/1146/006 60 x 1 film-coated tablets
+EU/1/16/1146/006 60 × 1 film-coated tablets
 
-EU/1/16/1146/007 70 x 1 film-coated tablets
+EU/1/16/1146/007 70 × 1 film-coated tablets
 
-EU/1/16/1146/008 90 x 1 film-coated tablets
+EU/1/16/1146/008 90 × 1 film-coated tablets
 
-EU/1/16/1146/009 100 x 1 film-coated tablets
+EU/1/16/1146/009 100 × 1 film-coated tablets
 
 ## 13. BATCH NUMBER
 
@@ -1054,7 +1085,9 @@ Glyxambi 10 mg/5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -1107,15 +1140,15 @@ Each tablet contains 25 mg empagliflozin and 5 mg linagliptin.
 
 ## film-coated tablet
 
-- 7 x 1 film-coated tablets
-- 10 x 1 film-coated tablets
-- 14 x 1 film-coated tablets
-- 28 x 1 film-coated tablets
-- 30 x 1 film-coated tablets
-- 60 x 1 film-coated tablets
-- 70 x 1 film-coated tablets
-- 90 x 1 film-coated tablets
-- 100 x 1 film-coated tablets
+- 7 × 1 film-coated tablets
+- 10 × 1 film-coated tablets
+- 14 × 1 film-coated tablets
+- 28 × 1 film-coated tablets
+- 30 × 1 film-coated tablets
+- 60 × 1 film-coated tablets
+- 70 × 1 film-coated tablets
+- 90 × 1 film-coated tablets
+- 100 × 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1131,6 +1164,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
@@ -1143,23 +1178,23 @@ Boehringer Ingelheim International GmbH
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
-EU/1/16/1146/010 7 x 1 film-coated tablets
+EU/1/16/1146/010 7 × 1 film-coated tablets
 
-EU/1/16/1146/011 10 x 1 film-coated tablets
+EU/1/16/1146/011 10 × 1 film-coated tablets
 
-EU/1/16/1146/012 14 x 1 film-coated tablets
+EU/1/16/1146/012 14 × 1 film-coated tablets
 
-EU/1/16/1146/013 28 x 1 film-coated tablets
+EU/1/16/1146/013 28 × 1 film-coated tablets
 
-EU/1/16/1146/014 30 x 1 film-coated tablets
+EU/1/16/1146/014 30 × 1 film-coated tablets
 
-EU/1/16/1146/015 60 x 1 film-coated tablets
+EU/1/16/1146/015 60 × 1 film-coated tablets
 
-EU/1/16/1146/016 70 x 1 film-coated tablets
+EU/1/16/1146/016 70 × 1 film-coated tablets
 
-EU/1/16/1146/017 90 x 1 film-coated tablets
+EU/1/16/1146/017 90 × 1 film-coated tablets
 
-EU/1/16/1146/018 100 x 1 film-coated tablets
+EU/1/16/1146/018 100 × 1 film-coated tablets
 
 ## 13. BATCH NUMBER
 
@@ -1167,7 +1202,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1182,8 +1217,6 @@ Glyxambi 25 mg/5 mg
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1261,7 +1294,7 @@ Empagliflozin belongs to a group of medicines called sodium glucose co-transport
 ## What Glyxambi is used for
 
 - Glyxambi is added to metformin and/or sulphonylurea (SU) to treat type 2 diabetes in adult patients aged 18 years and older whose diabetes cannot be controlled when treated with metformin and/or sulphonylurea in combination with empagliflozin, or when treated with metformin and/or sulphonylurea in combination with linagliptin.
-- Glyxambi can also be used as an alternative to taking both empagliflozin and linagliptin as single tablets. To avoid overdose, do not continue taking  empagliflozin and linagliptin tablets separately, if your are taking this medicine.
+- Glyxambi can also be used as an alternative to taking both empagliflozin and linagliptin as single tablets. To avoid overdose, do not continue taking empagliflozin and linagliptin tablets separately, if you are taking this medicine.
 
 It is important that you continue with your diet and exercise plan as recommended by your doctor,
 
@@ -1339,7 +1372,7 @@ It is not known whether Glyxambi is harmful to the unborn child. As a precaution
 
 It is not known whether the active substances of Glyxambi pass into human breast milk. Do not use this medicine if you are breast-feeding.
 
-It is not known wheather Glyxambi has an effect on the fertility in humans.
+It is not known whether Glyxambi has an effect on the fertility in humans.
 
 ## Driving and using machines
 
@@ -1375,7 +1408,7 @@ Talk to your doctor in case you suffer from severe hepatic impairment. Glyxambi 
 
 Your doctor may prescribe Glyxambi together with another anti-diabetic medicine. Remember to take all medicines as directed by your doctor to achieve the best results for your health.
 
-Appropriate diet and exercise  help your body to use its blood sugar better. It is important to stay on the diet and exercise program recommended by your doctor while taking Glyxambi.
+Appropriate diet and exercise help your body to use its blood sugar better. It is important to stay on the diet and exercise program recommended by your doctor while taking Glyxambi.
 
 ## If you take more Glyxambi than you should
 
@@ -1403,7 +1436,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Contact a doctor or the nearest hospital straight away if you have any of the following side effects:
 
-## Diabetic ketoacidosis, seen rarely (may affect up to 1 in 1  000 people)
+## Diabetic ketoacidosis, seen rarely (may affect up to 1 in 1 000 people)
 
 These are the signs of diabetic ketoacidosis (see also section 2, 'Warnings and precautions'):
 
@@ -1529,17 +1562,15 @@ Film coating: hypromellose, mannitol (E421), talc, titanium dioxide (E171), macr
 
 ## What Glyxambi looks like and contents of the pack
 
-Glyxambi 10 mg/5 mg film-coated tablets (tablets) are pale yellow, arc triangular, flat faced and bevel-edged. They have '10/5' on one side and the Boehringer Ingelheim logo on the other side.Each side of the tablet is 8 mm long.
+Glyxambi 10 mg/5 mg film-coated tablets (tablets) are pale yellow, arc triangular, flat faced and bevel-edged. They have '10/5' on one side and the Boehringer Ingelheim logo on the other side. Each side of the tablet is 8 mm long.
 
 Glyxambi 25 mg/5 mg film-coated tablets (tablets) are pale pink, arc triangular, flat faced and beveledged. They have '25/5' on one side and the Boehringer Ingelheim logo on the other side. Each side of the tablet is 8 mm long.
 
 Glyxambi is available in PVC/PVDC/aluminium perforated unit dose blisters.
 
-The pack sizes are 7 x 1, 10 x 1, 14 x 1, 28 x 1, 30 x 1, 60 x 1, 70 x 1, 90 x 1 and 100 x 1 film-coated tablets.
+The pack sizes are 7 × 1, 10 × 1, 14 × 1, 28 × 1, 30 × 1, 60 × 1, 70 × 1, 90 × 1 and 100 × 1 film-coated tablets.
 
 Not all pack sizes may be marketed in your country.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -1548,6 +1579,8 @@ Boehringer Ingelheim International GmbH Binger Str. 173 55216 Ingelheim am Rhein
 ## Manufacturer
 
 Boehringer Ingelheim Pharma GmbH &amp; Co. KG Binger Strasse 173 55216 Ingelheim am Rhein Germany
+
+<div style=\"page-break-after: always\"></div>
 
 Rottendorf Pharma GmbH Ostenfelder Strasse 51 - 61 59320 Ennigerloh Germany
 
@@ -1559,85 +1592,85 @@ For any information about this medicine, please contact the local representative
 
 Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
 
-## България
-
-Бьорингер Ингелхайм РЦВ ГмбХ и Ко. КГ клон България Тел: +359 2 958 79 98
-
-## Česká republika
-
-Boehringer Ingelheim spol. s r.o. Tel: +420 234 655 111
-
-## Danmark
-
-Boehringer Ingelheim Danmark A/S Tlf: +45 39 15 88 88
-
-## Deutschland
-
-Boehringer Ingelheim Pharma GmbH &amp; Co. KG Tel: +49 (0) 800 77 90 900
-
-## Eesti
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Eesti filiaal Tel: +372 612 8000
-
-## Ελλάδα
-
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E. Tηλ: +30 2 10 89 06 300
-
-## España
-
-Boehringer Ingelheim España, S.A. Tel: +34 93 404 51 00
-
-## France
-
-Boehringer Ingelheim France S.A.S. Tél: +33 3 26 50 45 33
-
-## Hrvatska
-
-Boehringer Ingelheim Zagreb d.o.o. Tel: +385 1 2444 600
-
-## Ireland
-
-Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
-
 ## Lietuva
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas Tel: +370 5 2595942
+
+## България
+
+Бьорингер Ингелхайм РЦВ ГмбХ и Ко. КГ - клон България Тел.: +359 2 958 79 98
 
 ## Luxembourg/Luxemburg
 
 Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
 
+## Česká republika
+
+Boehringer Ingelheim spol. s r.o. Tel: +420 234 655 111
+
 ## Magyarország
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Magyarországi Fióktelepe Tel: +36 1 299 89 00
+Boehringer Ingelheim RCV GmbH &amp; Co KG Magyarországi Fióktelepe Tel.: +36 1 299 89 00
+
+## Danmark
+
+Boehringer Ingelheim Danmark A/S Tlf.: +45 39 15 88 88
 
 ## Malta
 
 Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 
+## Deutschland
+
+Boehringer Ingelheim Pharma GmbH &amp; Co. KG Tel: +49 (0) 800 77 90 900
+
 ## Nederland
 
 Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
+## Eesti
+
+Boehringer Ingelheim RCV GmbH &amp; Co KG Eesti filiaal Tel: +372 612 8000
+
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
+
+## Ελλάδα
+
+Boehringer Ingelheim Ελλάς Μονοπρόσωπη Α.Ε. Tηλ: +30 2 10 89 06 300
 
 ## Österreich
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Tel: +43 1 80 105-7870
 
+## España
+
+Boehringer Ingelheim España, S.A. Tel: +34 93 404 51 00
+
 ## Polska
 
-Boehringer Ingelheim Sp. z o.o. Tel: +48 22 699 0 699
+Boehringer Ingelheim Sp. z o.o. Tel.: +48 22 699 0 699
+
+## France
+
+Boehringer Ingelheim France S.A.S. Tél: +33 3 26 50 45 33
 
 ## Portugal
 
 Boehringer Ingelheim Portugal, Lda. Tel: +351 21 313 53 00
 
+## Hrvatska
+
+Boehringer Ingelheim Zagreb d.o.o. Tel: +385 1 2444 600
+
 ## România
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Viena - Sucursala Bucureşti Tel: +40 21 302 28 00
+
+## Ireland
+
+Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 
 ## Slovenija
 
@@ -1659,7 +1692,7 @@ Tel: +39 02 5355 1
 
 ## Κύπρος
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E. Tηλ: +30 2 10 89 06 300
+Boehringer Ingelheim Ελλάς Μονοπρόσωπη Α.Ε. Tηλ: +30 2 10 89 06 300
 
 ## Latvija
 
@@ -1669,13 +1702,11 @@ Tel: +371 67 240 011
 
 ## This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Slovenská republika
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG organizačná zložka
-
-Tel: +421 2 5810 1211
+Boehringer Ingelheim RCV GmbH &amp; Co KG organizačná zložka Tel: +421 2 5810 1211
 
 ## Suomi/Finland
 
@@ -1688,9 +1719,3 @@ Puh/Tel: +358 10 3102 800
 Boehringer Ingelheim AB
 
 Tel: +46 8 721 21 00
-
-## United Kingdom (Northern Ireland)
-
-Boehringer Ingelheim Ireland Ltd.
-
-Tel: +353 1 295 9620

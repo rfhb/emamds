@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-21 11:52:37
-document_pages: 48
+document_datetime: 2026-03-30 16:47:11
+document_pages: 51
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/finlee-epar-product-information_en.pdf
 document_name: finlee-epar-product-information_en.pdf
 version: success
-processing_time: 11.1694164
-conversion_datetime: 2026-01-22 21:20:46.398325
+processing_time: 12.0636314
+conversion_datetime: 2026-04-01 12:30:07.194482
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -89,7 +89,9 @@ Table 1 Dosing regimen by body weight
 
 *Round body weight to the nearest kg, if necessary.
 
-The recommended dose for patients with a body weight less than 8 kg has not been established. Please refer to the trametinib powder for oral solution SmPC, 'Posology' and 'Method of administration', for dosing instructions for treatment with trametinib when used in combination with Finlee.
+The recommended dose for patients with a body weight less than 8 kg has not been established.
+
+Please refer to the trametinib powder for oral solution SmPC, 'Posology' and 'Method of administration', for dosing instructions for treatment with trametinib when used in combination with Finlee.
 
 ## Duration of treatment
 
@@ -136,13 +138,13 @@ Table 3 Recommended dose reduction levels for adverse reactions
 | 46 to 50 kg   | 130 mg                             | 9                                                    | 7                                                    | 4                                                    |
 | ≥51 kg        | 150 mg                             | 10                                                   | 8                                                    | 5                                                    |
 
+N/A=not applicable
+
 Permanently discontinue Finlee if unable to tolerate 10 mg twice daily or a maximum of 3 dose reductions.
 
 When an individual's adverse reactions are under effective management, dose re -escalation following the same dosing steps as de-escalation may be considered. The dabrafenib dose should not exceed the recommended dose indicated in Table 1.
 
-## Dose modifications for selected adverse reactions
-
-Pyrexia
+## Dose modifications for selected adverse reactions Pyrexia
 
 If a patient's temperature is ≥38 °C, therapy with dabrafenib and trametinib should be interrupted. In case of recurrence, therapy can also be interrupted at the first symptom of pyrexia. Treatment with anti-pyretics such as ibuprofen or acetaminophen/paracetamol should be initiated. The use of oral corticosteroids should be considered in those instances in which anti-pyretics are insufficient. Patients should be evaluated for signs and symptoms of infection and, if necessary, treated in line with local practice (see section 4.4). Therapy should be restarted if the patient is symptom-free for at least 24 hours either (1) at the same dose level, or (2) reduced by one dose level if the pyrexia is recurrent and/or was accompanied by other severe symptoms including dehydration, hypotension or renal failure.
 
@@ -220,13 +222,11 @@ Cutaneous malignancies such as cutaneous squamous cell carcinoma (cuSCC) includi
 
 Suspicious skin lesions should be managed with dermatological excision and do not require treatment modifications. Patients should be instructed to inform their physicians immediately if new skin lesions develop.
 
-## Non-cutaneous malignancies
-
-In vitro experiments have demonstrated paradoxical activation of mitogen-activated protein kinase (MAP kinase) signalling in BRAF wild-type cells with RAS mutations when exposed to BRAF inhibitors. This may lead to increased risk of non-cutaneous malignancies with dabrafenib exposure (see section 4.8) when RAS mutations are present. RAS-associated malignancies have been reported in adult clinical studies, both with another BRAF inhibitor (chronic myelomonocytic leukaemia and
-
 <div style=\"page-break-after: always\"></div>
 
-non-cutaneous SCC of the head and neck) as well as with dabrafenib monotherapy (pancreatic adenocarcinoma, bile duct adenocarcinoma) and with dabrafenib in combination with trametinib (colorectal cancer, pancreatic cancer).
+## Non-cutaneous malignancies
+
+In vitro experiments have demonstrated paradoxical activation of mitogen-activated protein kinase (MAP kinase) signalling in BRAF wild-type cells with RAS mutations when exposed to BRAF inhibitors. This may lead to increased risk of non-cutaneous malignancies with dabrafenib exposure (see section 4.8) when RAS mutations are present. RAS-associated malignancies have been reported in adult clinical studies, both with another BRAF inhibitor (chronic myelomonocytic leukaemia and non-cutaneous SCC of the head and neck) as well as with dabrafenib monotherapy (pancreatic adenocarcinoma, bile duct adenocarcinoma) and with dabrafenib in combination with trametinib (colorectal cancer, pancreatic cancer).
 
 The benefits and risks should be considered before administering dabrafenib in patients with a prior or concurrent cancer associated with RAS mutations. Patients should be screened for occult pre-existing malignancies.
 
@@ -246,11 +246,11 @@ Cases of biocular panuveitis or biocular iridocyclitis suggestive of Vogt-Koyana
 
 RPED and RVO may occur with dabrafenib in combination with trametinib. Please refer to the trametinib powder for oral solution SmPC (section 4.4). No dose modification of dabrafenib is required when taken in combination with trametinib following diagnosis of RVO or RPED.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pyrexia
 
 Fever has been reported in adult and paediatric clinical studies with dabrafenib (see section 4.8). Serious non-infectious febrile events were identified (defined as fever accompanied by severe rigors, dehydration, hypotension and/or acute renal insufficiency of pre-renal origin in patients with normal baseline renal function). In paediatric patients who received dabrafenib in combination with trametinib, the median time to onset of the first occurrence of pyrexia was 1.5 months. In adult patients with unresectable or metastatic melanoma who received dabrafenib in combination with trametinib and developed pyrexia, approximately half of the first occurrences of pyrexia happened within the first month of therapy and approximately one third of the patients had 3 or more events. Patients with serious non-infectious febrile events responded well to dose interruption and/or dose reduction and supportive care.
-
-<div style=\"page-break-after: always\"></div>
 
 Therapy with dabrafenib and trametinib should be interrupted if the patient's temperature is ≥38ºC (see section 5.1). In case of recurrence, therapy can also be interrupted at the first symptom of pyrexia. Treatment with anti-pyretics such as ibuprofen or acetaminophen/paracetamol should be initiated. The use of oral corticosteroids should be considered in those instances in which anti-pyretics are insufficient. Patients should be evaluated for signs and symptoms of infection. Therapy can be restarted once the fever resolves. If fever is associated with other severe signs or symptoms, therapy should be restarted at a reduced dose once fever resolves and as clinically appropriate (see section 4.2).
 
@@ -268,6 +268,8 @@ Renal failure has been identified in ≤1% of adult patients treated with dabraf
 
 Hepatic adverse reactions have been reported in adult and paediatric patients in clinical studies with dabrafenib in combination with trametinib (see section 4.8). It is recommended that patients have liver function monitored every four weeks for 6 months after treatment initiation. Liver monitoring may be continued thereafter as clinically indicated.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Blood pressure changes
 
 Both hypertension and hypotension have been reported in patients in clinical studies with dabrafenib in combination with trametinib (see section 4.8). Blood pressure should be measured at baseline and monitored during treatment, with control of hypertension by standard therapy as appropriate.
@@ -275,8 +277,6 @@ Both hypertension and hypotension have been reported in patients in clinical stu
 ## Interstitial lung disease (ILD)/Pneumonitis
 
 Cases of pneumonitis or ILD have been reported in adult patients in clinical studies with dabrafenib in combination with trametinib. Please refer to the trametinib powder for oral solution SmPC for additional information.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Rash
 
@@ -302,6 +302,8 @@ Pulmonary embolism or deep vein thrombosis can occur. If patients develop sympto
 
 Colitis and enterocolitis have been reported in paediatric patients treated with dabrafenib in combination with trametinib (see section 4.8). Colitis and gastrointestinal perforation, including fatal outcome, have been reported in adult patients taking dabrafenib in combination with trametinib. Please refer to the trametinib powder for oral solution SmPC for additional information.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Sarcoidosis
 
 Cases of sarcoidosis have been reported in adult patients treated with dabrafenib in combination with trametinib, mostly involving the skin, lung, eye and lymph nodes. In the majority of the cases, treatment with dabrafenib and trametinib was maintained. In case of a diagnosis of sarcoidosis, relevant treatment should be considered.
@@ -309,8 +311,6 @@ Cases of sarcoidosis have been reported in adult patients treated with dabrafeni
 ## Women of childbearing potential/Fertility in males
 
 Before initiating treatment in women of childbearing potential, appropriate advice on effective methods of contraception should be provided. Women of childbearing potential must use effective methods of contraception during therapy and for 2 weeks following discontinuation of dabrafenib and for 16 weeks following discontinuation of trametinib. Male patients taking dabrafenib in combination with trametinib should be informed of the potential risk for impaired spermatogenesis, which may be irreversible (see section 4.6).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Haemophagocytic lymphohistiocytosis
 
@@ -332,6 +332,8 @@ Concomitant administration of dabrafenib with warfarin results in decreased warf
 
 Concomitant administration of dabrafenib with digoxin may result in decreased digoxin exposure. Caution should be exercised and additional monitoring of digoxin is recommended when digoxin (a transporter substrate) is used concomitantly with dabrafenib and at discontinuation of dabrafenib (see section 4.5).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Excipients
 
 ## Potassium
@@ -350,8 +352,6 @@ Patients who are, or may become, pregnant should be advised of the potential ris
 
 Dabrafenib dispersible tablets should be used with caution in patients with hepatic or renal impairment, as benzyl alcohol may accumulate over time and cause metabolic acidosis.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Interaction studies have only been performed in adults.
@@ -368,13 +368,13 @@ Administration of rifampin (a CYP3A4/CYP2C8 inducer) 600 mg once daily, with dab
 
 Co-administration of repeat doses of dabrafenib 150 mg twice daily and the pH-elevating agent rabeprazole 40 mg once daily resulted in a 3% increase in AUC and a 12% decrease in dabrafenib Cmax. These changes in dabrafenib AUC and Cmax are considered not clinically meaningful. Medicinal products that alter the pH of the upper gastrointestinal (GI) tract (e.g. proton pump inhibitors, H2receptor antagonists, antacids) are not expected to reduce the bioavailability of dabrafenib.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effect of dabrafenib on other medicinal products
 
 Dabrafenib is an enzyme inducer and increases the synthesis of drug-metabolising enzymes including CYP3A4, CYP2Cs and CYP2B6 and may increase the synthesis of transporters. This results in reduced plasma levels of medicinal products metabolised by these enzymes and may affect some transported medicinal products. The reduction in plasma concentrations can lead to lost or reduced clinical effect of these medicinal products. There is also a risk of increased formation of active metabolites of these medicinal products. Enzymes that may be induced include CYP3A in the liver and gut, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and UGTs (glucuronide conjugating enzymes). The transport protein P-gp may also be induced as well as other transporters, e.g. MRP-2. Induction of OATP1B1/1B3 and BCRP is not likely based on the observations from a clinical study with rosuvastatin.
 
 In vitro , dabrafenib produced dose-dependent increases in CYP2B6 and CYP3A4. In a clinical drug interaction study, Cmax and AUC of oral midazolam (a CYP3A4 substrate) decreased by 47% and 65%, respectively with co-administration of repeat-dose dabrafenib.
-
-<div style=\"page-break-after: always\"></div>
 
 Administration of dabrafenib and warfarin resulted in a decrease in AUC of S- and R-warfarin of 37% and 33%, respectively, compared to administration of warfarin alone. Cmax of S- and R-warfarin increased 18% and 19%.
 
@@ -401,6 +401,8 @@ Onset of induction is likely to occur after 3 days of repeat dosing with dabrafe
 
 In vitro , dabrafenib is a mechanism based inhibitor of CYP3A4. Therefore, transient inhibition of CYP3A4 may be observed during the first few days of treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effects of dabrafenib on substance transport systems
 
 Dabrafenib is an in vitro inhibitor of human organic anion transporting polypeptide (OATP) 1B1 (OATP1B1), OATP1B3 and BCRP. Following co-administration of a single dose of rosuvastatin (OATP1B1, OATP1B3 and BCRP substrate) with repeat-dose dabrafenib in adult patients, Cmax of rosuvastatin increased 2.6-fold whereas the AUC was only minimally changed (7% increase). The increased Cmax of rosuvastatin is unlikely to have clinical relevance.
@@ -412,8 +414,6 @@ Also refer to the guidance for medicinal product interactions for trametinib fou
 ## Women of childbearing potential/Contraception in females
 
 Women of childbearing potential must use effective methods of contraception during therapy and for 2 weeks following discontinuation of dabrafenib and for 16 weeks following discontinuation of trametinib.
-
-<div style=\"page-break-after: always\"></div>
 
 Dabrafenib may decrease the efficacy of oral or any systemic hormonal contraceptives and an effective alternative method of contraception, such as a barrier method, should be used (see section 4.5).
 
@@ -433,17 +433,15 @@ There are no data in humans for dabrafenib in combination with trametinib. Dabra
 
 Dabrafenib has minor influence on the ability to drive and use machines. The clinical status of the patient and the adverse reaction profile of dabrafenib should be borne in mind when considering the patient's ability to perform tasks that require judgement, motor or cognitive skills. Patients should be made aware of the potential for fatigue, dizziness or eye problems to affect these activities.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
 In clinical studies of paediatric patients treated with dabrafenib in combination with trametinib, the most common adverse reactions (reported at a frequency ≥20%) were: pyrexia (70%), rash (49%), headache (47%), vomiting (40%), fatigue (36%), dry skin (35%), diarrhoea (34%), haemorrhage (34%), nausea (29%), dermatitis acneiform (29%), abdominal pain (28%), neutropenia (26%), cough (24%) and transaminases increased (22%). The most frequently reported severe (Grade 3/4) adverse reactions were: neutropenia (15%), pyrexia (11%), transaminases increased (6%) and weight increased (5%). Long-term data on growth and skeletal maturation in paediatric patients are currently limited (see section 5.3).
 
-The safety profile in paediatric patients was largely consistent with the safety profile previously established in adult patients. The following additional adverse reactions have so far only been reported in adult patients treated with dabrafenib capsules and trametinib tablets: cutaneous squamous cell carcinoma, seborrhoeic keratosis, peripheral neuropathy (including sensory and motor neuropathy), lymphoedema, dry mouth, actinic keratosis, renal failure (common), melanoma, acrochordon, sarcoidosis, chorioretinopathy, pneumonitis, acute renal failure, nephritis, cardiac failure, left ventricular dysfunction, interstitial lung disease, rhabdomyolysis (uncommon), gastrointestinal perforation, haemophagocytic lymphohistiocytosis (rare), tumour lysis syndrome, myocarditis,
-
-<div style=\"page-break-after: always\"></div>
-
-Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms, tattoo-associated skin reactions (frequency not known). In addition, cases of biocular panuveitis or biocular iridocyclitis suggestive of Vogt-Koyanagi-Harada syndrome have been reported in adult patients.
+The safety profile in paediatric patients was largely consistent with the safety profile previously established in adult patients. The following additional adverse reactions have so far only been reported in adult patients treated with dabrafenib capsules and trametinib tablets: cutaneous squamous cell carcinoma, seborrhoeic keratosis, peripheral neuropathy (including sensory and motor neuropathy), lymphoedema, dry mouth, actinic keratosis, renal failure, potentiation of radiation toxicity (common), melanoma, acrochordon, sarcoidosis, chorioretinopathy, pneumonitis, acute renal failure, nephritis, cardiac failure, left ventricular dysfunction, interstitial lung disease, rhabdomyolysis (uncommon), gastrointestinal perforation, haemophagocytic lymphohistiocytosis (rare), tumour lysis syndrome, myocarditis, Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms, tattoo-associated skin reactions (frequency not known). In addition, cases of biocular panuveitis or biocular iridocyclitis suggestive of Vogt-Koyanagi-Harada syndrome have been reported in adult patients.
 
 ## Tabulated list of adverse reactions
 
@@ -453,55 +451,74 @@ Adverse reactions (Table 4) are listed below by MedDRA system organ class ranked
 
 Table 4 Adverse reactions with dabrafenib in combination with trametinib
 
-| Infections and infestations                                         | Infections and infestations                                                                                                                                                   |
-|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Very common                                                         | Paronychia, nasopharyngitis* 1                                                                                                                                                |
-| Common                                                              | Urinary tract infection, cellulitis                                                                                                                                           |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Neoplasms benign, malignant and unspecified (incl cysts and polyps)                                                                                                           |
-| Very common                                                         | Skin papilloma                                                                                                                                                                |
-| Blood and lymphatic system disorders                                | Blood and lymphatic system disorders                                                                                                                                          |
-| Very common                                                         | Neutropenia* 2 , anaemia, leukopenia*                                                                                                                                         |
-| Common                                                              | Thrombocytopenia*                                                                                                                                                             |
-| Immune system disorders                                             | Immune system disorders                                                                                                                                                       |
-| Common                                                              | Hypersensitivity                                                                                                                                                              |
-| Metabolism and nutrition disorders                                  | Metabolism and nutrition disorders                                                                                                                                            |
-| Common                                                              | Dehydration, decreased appetite                                                                                                                                               |
-| Nervous system disorders                                            | Nervous system disorders                                                                                                                                                      |
-| Very common                                                         | Headache, dizziness* 3                                                                                                                                                        |
-| Eye disorders                                                       | Eye disorders                                                                                                                                                                 |
-| Common                                                              | Vision blurred, visual impairment, uveitis* 4                                                                                                                                 |
-| Uncommon                                                            | Retinal detachment, periorbital oedema                                                                                                                                        |
-| Cardiac disorders                                                   | Cardiac disorders                                                                                                                                                             |
-| Common                                                              | Ejection fraction decreased, bradycardia*                                                                                                                                     |
-| Uncommon                                                            | Atrioventricular block 5                                                                                                                                                      |
-| Vascular disorders                                                  | Vascular disorders                                                                                                                                                            |
-| Very common                                                         | Haemorrhage* 6                                                                                                                                                                |
-| Common                                                              | Hypertension, hypotension                                                                                                                                                     |
-| Respiratory, thoracic and mediastinal disorders                     | Respiratory, thoracic and mediastinal disorders                                                                                                                               |
-| Very common                                                         | Cough*                                                                                                                                                                        |
-| Common                                                              | Dyspnoea                                                                                                                                                                      |
-| Gastrointestinal disorders                                          | Gastrointestinal disorders                                                                                                                                                    |
-| Very common                                                         | Abdominal pain*, constipation, diarrhoea, nausea, vomiting                                                                                                                    |
-| Common                                                              | Pancreatitis, stomatitis                                                                                                                                                      |
-| Uncommon                                                            | Colitis*                                                                                                                                                                      |
-| Skin and subcutaneous tissue disorders                              | Skin and subcutaneous tissue disorders                                                                                                                                        |
-| Very common                                                         | Dermatitis acneiform* 7 , dry skin* 8 , pruritus, rash* 9 , erythema                                                                                                          |
-| Common                                                              | Dermatitis exfoliative generalised* 10 , alopecia, palmar-plantar erythrodysaesthesia syndrome, folliculitis, skin lesion, panniculitis, hyperkeratosis, photosensitivity* 11 |
-| Uncommon                                                            | Acute febrile neutrophilic dermatosis 12 , skin fissures, night sweats, hyperhidrosis                                                                                         |
+| Infections and infestations                                         | Infections and infestations                                         |
+|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| Very common                                                         | Paronychia, nasopharyngitis* 1                                      |
+| Common                                                              | Urinary tract infection, cellulitis                                 |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Neoplasms benign, malignant and unspecified (incl cysts and polyps) |
+| Very common                                                         | Skin papilloma                                                      |
+| Blood and lymphatic system disorders                                | Blood and lymphatic system disorders                                |
+| Very common                                                         | Neutropenia* 2 , anaemia, leukopenia*                               |
+| Common                                                              | Thrombocytopenia*                                                   |
+| Immune system disorders                                             | Immune system disorders                                             |
+| Common                                                              | Hypersensitivity                                                    |
+| Metabolism and nutrition disorders                                  | Metabolism and nutrition disorders                                  |
+| Common                                                              | Dehydration, decreased appetite                                     |
+| Nervous system disorders                                            | Nervous system disorders                                            |
+| Very common                                                         | Headache, dizziness* 3                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Very common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Arthralgia, pain in extremity                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Myalgia*, muscle spasms* 13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| General disorders and administration site conditions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | General disorders and administration site conditions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Very common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Pyrexia*, fatigue* 14 , weight increased                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Mucosal inflammation, face oedema*, chills, oedema peripheral, influenza-like illness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Investigations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Investigations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Very common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Transaminases increased* 15                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Hyponatraemia, hypophosphataemia, hyperglycaemia, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, blood creatine phosphokinase increased                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| *Denotes grouped term of two or more MedDRA preferred terms that were considered clinically similar. 1 nasopharyngitis includes pharyngitis 2 neutropenia includes neutrophil count decreased and febrile neutropenia 3 dizziness includes vertigo 4 uveitis includes iridocyclitis 5 atrioventricular block includes atrioventricular block first degree 6 haemorrhage includes epistaxis, haematuria, contusion, haematoma, international normalised ratio increased, anal haemorrhage, catheter site haemorrhage, cerebral haemorrhage, ecchymosis, extradural haematoma, gastrointestinal haemorrhage, haematochezia, petechiae, post-procedural haemorrhage, rectal haemorrhage, red blood cell count decreased, upper gastrointestinal haemorrhage, uterine haemorrhage, | *Denotes grouped term of two or more MedDRA preferred terms that were considered clinically similar. 1 nasopharyngitis includes pharyngitis 2 neutropenia includes neutrophil count decreased and febrile neutropenia 3 dizziness includes vertigo 4 uveitis includes iridocyclitis 5 atrioventricular block includes atrioventricular block first degree 6 haemorrhage includes epistaxis, haematuria, contusion, haematoma, international normalised ratio increased, anal haemorrhage, catheter site haemorrhage, cerebral haemorrhage, ecchymosis, extradural haematoma, gastrointestinal haemorrhage, haematochezia, petechiae, post-procedural haemorrhage, rectal haemorrhage, red blood cell count decreased, upper gastrointestinal haemorrhage, uterine haemorrhage, |
+| Eye disorders                                        | Eye disorders                                                                                                                                                                 |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Common                                               | Vision blurred, visual impairment, uveitis* 4                                                                                                                                 |
+| Uncommon                                             | Retinal detachment, periorbital oedema                                                                                                                                        |
+| Cardiac disorders                                    | Cardiac disorders                                                                                                                                                             |
+| Common                                               | Ejection fraction decreased, bradycardia*                                                                                                                                     |
+| Uncommon                                             | Atrioventricular block 5                                                                                                                                                      |
+| Vascular disorders                                   | Vascular disorders                                                                                                                                                            |
+| Very common                                          | Haemorrhage* 6                                                                                                                                                                |
+| Common                                               | Hypertension, hypotension                                                                                                                                                     |
+| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders                                                                                                                               |
+| Very common                                          | Cough*                                                                                                                                                                        |
+| Common                                               | Dyspnoea                                                                                                                                                                      |
+| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                                                    |
+| Very common                                          | Abdominal pain*, constipation, diarrhoea, nausea, vomiting                                                                                                                    |
+| Common                                               | Pancreatitis, stomatitis                                                                                                                                                      |
+| Uncommon                                             | Colitis*                                                                                                                                                                      |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                                        |
+| Very common                                          | Dermatitis acneiform* 7 , dry skin* 8 , pruritus, rash* 9 , erythema                                                                                                          |
+| Common                                               | Dermatitis exfoliative generalised* 10 , alopecia, palmar-plantar erythrodysaesthesia syndrome, folliculitis, skin lesion, panniculitis, hyperkeratosis, photosensitivity* 11 |
+| Uncommon                                             | Acute febrile neutrophilic dermatosis 12 , skin fissures, night sweats, hyperhidrosis                                                                                         |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                               |
+| Very common                                          | Arthralgia, pain in extremity                                                                                                                                                 |
+| Common                                               | Myalgia*, muscle spasms* 13                                                                                                                                                   |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                          |
+| Very common                                          | Pyrexia*, fatigue* 14 , weight increased                                                                                                                                      |
+| Common                                               | Mucosal inflammation, face oedema*, chills, oedema peripheral, influenza-like illness                                                                                         |
+| Investigations                                       | Investigations                                                                                                                                                                |
+| Very common                                          | Transaminases increased* 15                                                                                                                                                   |
+| Common                                               | Hyponatraemia, hypophosphataemia, hyperglycaemia, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, blood creatine phosphokinase increased           |
+
+*Denotes grouped term of two or more MedDRA preferred terms that were considered clinically similar.
+
+- 1 nasopharyngitis includes pharyngitis
+- 2 neutropenia includes neutrophil count decreased and febrile neutropenia
+- 3 dizziness includes vertigo
+- 4 uveitis includes iridocyclitis
+- 5 atrioventricular block includes atrioventricular block first degree
+- 6 haemorrhage includes epistaxis, haematuria, contusion, haematoma, international normalised ratio increased, anal haemorrhage, catheter site haemorrhage, cerebral haemorrhage, ecchymosis, extradural haematoma, gastrointestinal haemorrhage, haematochezia, petechiae, post-procedural haemorrhage, rectal haemorrhage, red blood cell count decreased, upper gastrointestinal haemorrhage, uterine haemorrhage, heavy menstrual bleeding and purpura
+- 7 dermatitis acneiform includes acne and acne pustular
+- 8 dry skin includes xerosis and xeroderma
+- 9 rash includes rash maculo-papular, rash pustular, rash erythematous, rash papular, rash macular
+- 10 dermatitis exfoliative generalised includes skin exfoliation and dermatitis exfoliative
+- 11 photosensitivity includes photosensitivity reaction and sunburn
+- 12 acute febrile neutrophilic dermatosis is an adverse drug reaction seen also with dabrafenib monotherapy (Tafinlar)
+- 13 muscle spasms include musculoskeletal stiffness
+- 14 fatigue includes malaise and asthenia
+- 15 transaminases increased includes aspartate aminotransferase (AST) increased, alanine aminotransferase (ALT) increased and hypertransaminasaemia
+
+<div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse reactions
 
@@ -519,8 +536,6 @@ The risk of haemorrhage may be increased with concomitant use of antiplatelet or
 
 Decreased LVEF has been reported in 5.3% of paediatric patients, with Grade 3 events occurring in &lt;1% of patients. The median time to onset of the first occurrence of LVEF decrease was around one month.
 
-<div style=\"page-break-after: always\"></div>
-
 Patients with LVEF lower than the institutional lower limit of normal were not included in clinical studies with dabrafenib. Dabrafenib in combination with trametinib should be used with caution in patients with conditions that could impair left ventricular function (see sections 4.2 and 4.4). Please refer to the trametinib powder for oral solution SmPC (section 4.4).
 
 ## Pyrexia
@@ -537,6 +552,8 @@ Hypertension was reported in 2.3% of paediatric patients, with Grade 3 events oc
 
 Hypotension was reported in 4.1% of paediatric patients, with Grade ≥ 3 events occurring in 2.3% of patients. The median time to onset of the first occurrence of hypotension in paediatric patients was 2.2 months.
 
+<div style=\"page-break-after: always\"></div>
+
 Blood pressure should be measured at baseline and monitored during treatment, with control of hypertension by standard therapy as appropriate (see section 4.4).
 
 ## Arthralgia
@@ -550,8 +567,6 @@ Hypophosphataemia has been reported commonly in the integrated adult and paediat
 ## Pancreatitis
 
 Pancreatitis was reported in 1.2% of paediatric patients, with &lt;1% of patients with Grade 3 severity. In clinical studies in adult patients, one pancreatitis event occurred on the first day of dabrafenib dosing of a metastatic melanoma patient and recurred following rechallenge at a reduced dose. Unexplained abdominal pain should be promptly investigated to include measurement of serum amylase and lipase. Patients should be closely monitored when restarting treatment after an episode of pancreatitis (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Cutaneous malignancies
 
@@ -573,6 +588,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 No acute overdose symptoms have been reported in paediatric patients who received dabrafenib in combination with trametinib in clinical studies. There is no specific treatment for overdose. If overdose occurs, the patient should be treated supportively with appropriate monitoring as necessary.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -586,8 +603,6 @@ Dabrafenib is an inhibitor of RAF kinases. Oncogenic mutations in BRAF lead to c
 ## Combination with trametinib
 
 Trametinib is a reversible, highly selective, allosteric inhibitor of mitogen-activated extracellular signal regulated kinase 1 (MEK1) and MEK2 activation and kinase activity. MEK proteins are components of the extracellular signal-related kinase (ERK) pathway. In human cancers, this pathway is often activated by mutated forms of BRAF which activates MEK. Trametinib inhibits activation of MEK by BRAF and inhibits MEK kinase activity.
-
-<div style=\"page-break-after: always\"></div>
 
 Thus, trametinib and dabrafenib inhibit two kinases in this pathway, MEK and RAF, and therefore the combination provides concomitant inhibition of the pathway. The combination of dabrafenib with trametinib has shown anti-tumour activity in BRAF V600 mutation-positive cancer cell lines in vitro and delays the emergence of resistance in vivo in BRAF V600 mutation-positive xenografts.
 
@@ -611,6 +626,8 @@ The clinical efficacy and safety of dabrafenib plus trametinib combination thera
 
 BRAF mutation status was identified prospectively via a local test, or a central laboratory real-time polymerase chain reaction (PCR) test when a local test was not available. In addition, retrospective testing of available tumour samples by the central laboratory was performed to confirm the BRAF V600E mutation.
 
+<div style=\"page-break-after: always\"></div>
+
 Dabrafenib and trametinib dosing in the clinical study was age- and weight-dependent, with dabrafenib dosed orally at 2.625 mg/kg twice daily for ages &lt;12 years and at 2.25 mg/kg twice daily for ages 12 years and older; trametinib was dosed orally at 0.032 mg/kg once daily for ages &lt;6 years and at 0.025 mg/kg once daily for ages 6 years and older. Dabrafenib doses were capped at 150 mg twice daily and trametinib doses at 2 mg once daily. Carboplatin and vincristine were dosed based on age and body surface area at doses of 175 mg/m 2 and 1.5 mg/m 2 , respectively, as weekly infusions. Carboplatin and vincristine were administered in one 10-week induction course followed by eight 6week cycles of maintenance therapy.
 
 The primary efficacy endpoint in both cohorts was overall response rate (ORR, sum of confirmed complete/CR and partial responses/PR) by independent review based on RANO (2017) criteria for the LGG cohort and RANO (2010) criteria for the HGG cohort. The primary analysis was performed when all patients in both cohorts had completed at least 32 weeks of therapy. The final analysis was performed 2 years after completion of enrolment in both cohorts.
@@ -618,8 +635,6 @@ The primary efficacy endpoint in both cohorts was overall response rate (ORR, su
 ## BRAF mutation-positive paediatric low-grade glioma (WHO Grades 1 and 2)
 
 In the low-grade glioma cohort, 110 patients were randomised to dabrafenib plus trametinib (n=73) or carboplatin plus vincristine (n=37). Median age was 9.5 years, with 34 patients (30.9%) aged 12 months to &lt;6 years, 36 patients (32.7%) aged 6 to &lt;12 years and 40 patients (36.4%) aged 12 to &lt;18 years; 60% were female. The majority of patients (80%) had Grade 1 glioma at initial diagnosis. The most common pathologies were pilocytic astrocytoma (30.9%), ganglioglioma (27.3%) and LGG not otherwise specified (NOS) (18.2%). Metastatic sites were present in 9 patients (8.2%). Prior surgery was reported in 91 patients (82.7%), among those patients the procedure at last surgery was resection in 28 patients (25.5%). Systemic corticosteroid use was reported in 44 patients (41.5%).
-
-<div style=\"page-break-after: always\"></div>
 
 At the time of the primary analysis, the ORR in the dabrafenib plus trametinib arm showed a statistically significant improvement over carboplatin plus vincristine. The subsequent hierarchical testing also demonstrated a statistically significant improvement in progression-free survival (PFS) over chemotherapy (Table 6).
 
@@ -643,15 +658,11 @@ Table 6 Response and progression-free survival based on independent review in th
 | Median (months), (95% CI)       | 20.1 (12.8 - NE)                     | 7.4 (3.6 - 11.8)                       |
 | Hazard ratio (95% CI), p-value  | 0.31 (0.17 - 0.55), p<0.001          | 0.31 (0.17 - 0.55), p<0.001            |
 
-NE=not estimable
-
-1 4 patients randomised to C+V discontinued prior to receiving treatment.
+<div style=\"page-break-after: always\"></div>
 
 2 Odds ratio (D+T vs C+V) and 95% CI are from a logistic regression with treatment as the only covariate, i.e. it is the odds of observing a response in the D+T arm compared to the odds of observing a response in the C+V arm. Odds ratio &gt;1 favours D+T.
 
 At the time of the final analysis (median duration of follow-up: 39.0 months), the ORR based on independent review was 54.8% in the D+T arm and 16.2% in the C+V arm with an odds ratio of 6.26. The analysis also confirmed improved PFS over chemotherapy based on independent review with an estimated 64% risk reduction in progression/death (hazard ratio 0.36). The median PFS was 24.9 months in the D+T arm and 7.2 months in the C+V arm. No additional deaths were reported in either arm at the time of the final analysis.
-
-<div style=\"page-break-after: always\"></div>
 
 Figure 1 Kaplan-Meier curves for progression-free survival based on independent review in the pivotal study G2201 (LGG cohort, final analysis)
 
@@ -663,17 +674,15 @@ In the single-arm high-grade glioma cohort, 41 patients with relapsed or refract
 
 At the time of the final analysis (median duration of follow-up: 45.2 months), the ORR based on independent review was 56.1% (23/41), (95% CI: 39.7, 71.5): CR in 14 patients (34.1%) and PR in 9 patients (22.0%). The median duration of response (DoR) was 27.4 months (95% CI: 9.2, NE).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.2 Pharmacokinetic properties
 
 The pharmacokinetic properties of dabrafenib have mostly been determined in adult patients using the solid (capsule) formulation. The pharmacokinetics of dabrafenib following single or repeat weightadjusted dosing were also evaluated in 243 paediatric patients. The population pharmacokinetic analysis included 61 patients aged 1 to &lt;6 years, 77 patients aged 6 to &lt;12 years and 105 patients aged 12 to &lt;18 years. Clearance was comparable with clearance in adult patients. Weight was identified as a significant covariate of dabrafenib clearance. Age was not a significant additional covariate. The pharmacokinetic exposures of dabrafenib at the recommended weight-adjusted dose in paediatric patients were within range of those observed in adults.
 
 ## Absorption
 
-The dabrafenib dispersible tablet suspension was absorbed rapidly with a median time to achieve peak plasma concentration of 1.5 hours post-dose. The mean absolute oral bioavailability of dabrafenib capsules was 94.5%. The suspension is expected to have 20% lower bioavailability. Based on data
-
-<div style=\"page-break-after: always\"></div>
-
-from adult patients with the capsule formulation, a decrease in exposure was observed with repeat dosing, likely due to induction of its own metabolism. Mean accumulation AUC Day 18/Day 1 ratio was 0.73.
+The dabrafenib dispersible tablet suspension was absorbed rapidly with a median time to achieve peak plasma concentration of 1.5 hours post-dose. The mean absolute oral bioavailability of dabrafenib capsules was 94.5%. The suspension is expected to have 20% lower bioavailability. Based on data from adult patients with the capsule formulation, a decrease in exposure was observed with repeat dosing, likely due to induction of its own metabolism. Mean accumulation AUC Day 18/Day 1 ratio was 0.73.
 
 Dabrafenib exposure (Cmax and AUC) increased in a dose-proportional manner between 12 mg and 300 mg following single-dose administration, but the increase was less than dose-proportional after repeat twice-daily dosing.
 
@@ -691,6 +700,8 @@ Dabrafenib binds to human plasma proteins and is 99.7% bound. The steady-state v
 
 The metabolism of dabrafenib is primarily mediated by CYP2C8 and CYP3A4 to form hydroxydabrafenib, which is further oxidised via CYP3A4 to form carboxy-dabrafenib. Carboxy-dabrafenib can be decarboxylated via a non-enzymatic process to form desmethyl-dabrafenib. Carboxydabrafenib is excreted in bile and urine. Desmethyl-dabrafenib may also be formed in the gut and reabsorbed. Desmethyl-dabrafenib is metabolised by CYP3A4 to oxidative metabolites. Hydroxydabrafenib terminal half-life parallels that of parent with a half-life of 10 hrs while the carboxy- and desmethyl- metabolites exhibited longer half-lives (21 to 22 hours). In paediatric patients, the mean metabolite-to-parent AUC ratios (%CV) following repeat-dose administration of the capsules or of the dispersible tablet suspension were 0.64 (28%), 15.6 (49%) and 0.69 (62%) for hydroxy-, carboxy-, and desmethyl-dabrafenib, respectively. Based on exposure, relative potency, and pharmacokinetic properties, both hydroxy- and desmethyl-dabrafenib are likely to contribute to the clinical activity of dabrafenib while the activity of carboxy-dabrafenib is not likely to be significant.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elimination
 
 Terminal half-life of dabrafenib following an intravenous single microdose in adult patients was 2.6 hours. Dabrafenib terminal half-life after a single oral dose of the dispersible tablet formulation was 11.5 hours (CV of 67.7%) in an adult healthy volunteer study. The apparent clearance of dabrafenib in paediatric patients (median body weight: 38.7 kg) was 11.8 L/h (CV of 49%).
@@ -702,8 +713,6 @@ After an oral dose, the major route of elimination of dabrafenib is metabolism, 
 ## Effects of other medicinal products on dabrafenib
 
 Dabrafenib is a substrate of human P-glycoprotein (P-gp) and human BCRP in vitro . However, these transporters have minimal impact on dabrafenib oral bioavailability and elimination and the risk for clinically relevant drug-drug interactions with inhibitors of P-gp or BCRP is low. Neither dabrafenib nor its 3 main metabolites were demonstrated to be inhibitors of P-gp in vitro .
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effects of dabrafenib on other medicinal products
 
@@ -727,6 +736,8 @@ A population pharmacokinetic analysis in adult patients showed no significant di
 
 Based on population pharmacokinetic analyses in adult and paediatric patients, estimated clearance of dabrafenib was slightly lower in female patients, but the difference was not considered clinically relevant.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.3 Preclinical safety data
 
 Carcinogenicity studies with dabrafenib have not been conducted. Dabrafenib was not mutagenic or clastogenic using in vitro tests in bacteria and cultured mammalian cells, and an in vivo rodent micronucleus assay.
@@ -735,11 +746,7 @@ In combined female fertility, early embryonic and embryo-foetal development stud
 
 Male fertility studies with dabrafenib have not been conducted. However, in repeat dose studies, testicular degeneration/depletion was seen in rats and dogs (≥0.2 times human clinical exposure based on AUC). Testicular changes in rat and dog were still present following a 4-week recovery period (see section 4.6).
 
-Cardiovascular effects, including coronary arterial degeneration/necrosis and/or haemorrhage, cardiac atrioventricular valve hypertrophy/haemorrhage and atrial fibrovascular proliferation were seen in dogs (≥2 times human clinical exposure based on AUC). Focal arterial/perivascular inflammation in various tissues was observed in mice and an increased incidence of hepatic arterial degeneration and
-
-<div style=\"page-break-after: always\"></div>
-
-spontaneous cardiomyocyte degeneration with inflammation (spontaneous cardiomyopathy) was observed in rats (≥0.5 and 0.6 times human clinical exposure for rats and mice, respectively). Hepatic effects, including hepatocellular necrosis and inflammation, were observed in mice (≥0.6 times human clinical exposure). Bronchoalveolar inflammation of the lungs was observed in several dogs at ≥20 mg/kg/day (≥9 times human clinical exposure based on AUC) and was associated with shallow and/or laboured breathing.
+Cardiovascular effects, including coronary arterial degeneration/necrosis and/or haemorrhage, cardiac atrioventricular valve hypertrophy/haemorrhage and atrial fibrovascular proliferation were seen in dogs (≥2 times human clinical exposure based on AUC). Focal arterial/perivascular inflammation in various tissues was observed in mice and an increased incidence of hepatic arterial degeneration and spontaneous cardiomyocyte degeneration with inflammation (spontaneous cardiomyopathy) was observed in rats (≥0.5 and 0.6 times human clinical exposure for rats and mice, respectively). Hepatic effects, including hepatocellular necrosis and inflammation, were observed in mice (≥0.6 times human clinical exposure). Bronchoalveolar inflammation of the lungs was observed in several dogs at ≥20 mg/kg/day (≥9 times human clinical exposure based on AUC) and was associated with shallow and/or laboured breathing.
 
 Reversible haematological effects have been observed in dogs and rats given dabrafenib. In studies of up to 13 weeks, decreases in reticulocyte counts and/or red cell mass were observed in dogs and rats (≥10 and 1.4 times human clinical exposure, respectively).
 
@@ -751,11 +758,27 @@ Dabrafenib was phototoxic in an in vitro mouse fibroblast 3T3 Neutral Red Uptake
 
 In a study in dogs in which dabrafenib and trametinib were given in combination for 4 weeks, signs of gastrointestinal toxicity and decreased lymphoid cellularity of the thymus were observed at lower exposures than in dogs given trametinib alone. Otherwise, similar toxicities were observed as in comparable monotherapy studies.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Mannitol (E 421) Microcrystalline cellulose (E 460) Crospovidone (E 1202) Hypromellose (E 464) Acesulfame potassium (E 950) Magnesium stearate (E 470b) Artificial berry flavour (maltodextrin, propylene glycol [E 1520], artificial flavours, triethyl citrate [E 1505], benzyl alcohol [E 1519]) Silica, colloidal anhydrous (E 551)
+Mannitol (E 421)
+
+Microcrystalline cellulose (E 460)
+
+Crospovidone (E 1202)
+
+Hypromellose (E 464)
+
+Acesulfame potassium (E 950)
+
+Magnesium stearate (E 470b)
+
+Artificial berry flavour (maltodextrin, propylene glycol [E 1520], artificial flavours, triethyl citrate [E 1505], benzyl alcohol [E 1519])
+
+Silica, colloidal anhydrous (E 551)
 
 ## 6.2 Incompatibilities
 
@@ -763,15 +786,13 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-## Dispersible tablet
+Dispersible tablet
 
 2 years.
 
-## Dispersible tablet suspension
+Dispersible tablet suspension
 
 Use within 30 minutes of preparation.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -792,6 +813,8 @@ Each dosing cup is 30 ml in volume with 5 ml graduated increments.
 
 Not all pack sizes may be marketed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.6 Special precautions for disposal and other handling
 
 ## Preparation of the dispersible tablet suspension
@@ -811,8 +834,6 @@ Not all pack sizes may be marketed.
 
 A complete and illustrated set of instructions for use is provided at the end of the package leaflet 'Instructions for use'.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Disposal
 
 The dosing cup can be used for up to 4 months after first use. After 4 months, the dosing cup can be thrown away in the household waste.
@@ -826,6 +847,8 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/23/1767/001-002
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -848,7 +871,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 
-## Name and address of the manufacturers responsible for batch release
+Name and address of the manufacturers responsible for batch release
 
 Lek Pharmaceuticals d.d. Verovškova ulica 57 1526, Ljubljana Slovenia
 
@@ -870,13 +893,13 @@ Medicinal product subject to restricted medical prescription (See Annex I: Summa
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
+<div style=\"page-break-after: always\"></div>
+
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
-
-<div style=\"page-break-after: always\"></div>
 
 An updated RMP should be submitted:
 
@@ -969,7 +992,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Finlee 10 mg
 
@@ -1037,38 +1060,39 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROM SUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAME AND ADDRESS OFTHEMARKETING AUTHORISATION HOLDER   |
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
 Novartis Europharm Limited
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
-EU/1/23/1767/001 1 bottle of 210 dispersible tablets + 2 cups EU/1/23/1767/002 420 (2 bottles of 210) dispersible tablets + 2 cups
+EU/1/23/1767/001 EU/1/23/1767/002
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+1 bottle of 210 dispersible tablets + 2 cups 420 (2 bottles of 210) dispersible tablets + 2 cups
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATIONFOR SUPPLY   |
-|-------|------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-| 17. UNIQUE IDENTIFIER - 2DBARCODE   |
-|-------------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1363,6 +1387,7 @@ In addition to the side effects described above, the following side effects have
 - a hole (perforation) in the stomach or intestines
 - inflammation of the heart muscle which can result in breathlessness, fever, palpitations and chest pain
 - skin reactions localised in tattoos
+- worsening of radiation treatment side effects
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1419,7 +1444,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
 
 ## Lietuva
 
@@ -1427,11 +1454,17 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
-Novartis Bulgaria EOOD Тел : +359 2 489 98 28
+Novartis Bulgaria EOOD
+
+Тел
+
+: +359 2 489 98 28
 
 ## Luxembourg/Luxemburg
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
@@ -1441,11 +1474,15 @@ Tel: +420 225 775 111
 
 ## Magyarország
 
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
 
 ## Danmark
 
-Novartis Healthcare A/S Tlf.: +45 39 16 84 00
+Novartis Healthcare A/S
+
+Tlf.: +45 39 16 84 00
 
 ## Malta
 
@@ -1453,11 +1490,15 @@ Novartis Pharma Services Inc. Tel: +356 2122 2872
 
 ## Deutschland
 
-Novartis Pharma GmbH Tel: +49 911 273 0
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
 
 ## Nederland
 
-Novartis Pharma B.V. Tel: +31 88 04 52 111
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
 
 ## Eesti
 
@@ -1465,23 +1506,33 @@ SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
 ## Norge
 
-Novartis Norge AS Tlf: +47 23 05 20 00
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E.
+
+Τηλ: +30 210 281 17 12
 
 ## Österreich
 
-Novartis Pharma GmbH Tel: +43 1 86 6570
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
 
 ## España
 
-Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
+Novartis Farmacéutica, S.A.
+
+Tel: +34 93 306 42 00
 
 ## Polska
 
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
 
 ## France
 
@@ -1493,17 +1544,13 @@ Tél: +33 1 55 47 66 00
 
 Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hrvatska
 
 Novartis Hrvatska d.o.o.
 
 Tel. +385 1 6274 220
-
-## România
-
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
 
 ## Ireland
 
@@ -1511,23 +1558,11 @@ Novartis Ireland Limited
 
 Tel: +353 1 260 12 55
 
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
-
 ## Ísland
 
 Vistor hf.
 
 Sími: +354 535 7000
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
 
 ## Italia
 
@@ -1535,23 +1570,11 @@ Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
 
-## Suomi/Finland
-
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
-
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
 
 ## Latvija
 
@@ -1559,13 +1582,41 @@ SIA Novartis Baltics
 
 Tel: +371 67 887 070
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.
+
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
+
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
+
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1631,31 +1682,31 @@ Add still drinking water to the dosing cup:
 
 <!-- image -->
 
-| SECTION B                                                                                                                | ADMINISTRATION VIAORAL SYRINGE ORFEEDINGTUBE                                                                             | ADMINISTRATION VIAORAL SYRINGE ORFEEDINGTUBE   |
-|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| Feeding tube minimum size:                                                                                               | Feeding tube minimum size:                                                                                               | Feeding tube minimum size:                     |
-| Your dose                                                                                                                | Minimum size                                                                                                             |                                                |
-| 1 to 3 tablets                                                                                                           | 10 French gauge                                                                                                          |                                                |
-| 4 to 15 tablets                                                                                                          | 12 French gauge                                                                                                          |                                                |
-| 1 Follow Steps 1 to 5 in 'SECTION A' to dissolve the tablets, then move to Step 2 in this section.                       | 1 Follow Steps 1 to 5 in 'SECTION A' to dissolve the tablets, then move to Step 2 in this section.                       |                                                |
-| 2 Withdraw all of the solution from the dosing cup into a syringe compatible with a feeding tube or oral administration. | 2 Withdraw all of the solution from the dosing cup into a syringe compatible with a feeding tube or oral administration. |                                                |
+| SECTION B                                                                                                                | ADMINISTRATION VIA ORAL SYRINGE ORFEEDING TUBE                                                                           | ADMINISTRATION VIA ORAL SYRINGE ORFEEDING TUBE   |
+|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| Feeding tube minimum size:                                                                                               | Feeding tube minimum size:                                                                                               | Feeding tube minimum size:                       |
+| Your dose                                                                                                                | Minimum size                                                                                                             |                                                  |
+| 1 to 3 tablets                                                                                                           | 10 French gauge                                                                                                          |                                                  |
+| 4 to 15 tablets                                                                                                          | 12 French gauge                                                                                                          |                                                  |
+| 1 Follow Steps 1 to 5 in 'SECTION A' to dissolve the tablets, then move to Step 2 in this section.                       | 1 Follow Steps 1 to 5 in 'SECTION A' to dissolve the tablets, then move to Step 2 in this section.                       |                                                  |
+| 2 Withdraw all of the solution from the dosing cup into a syringe compatible with a feeding tube or oral administration. | 2 Withdraw all of the solution from the dosing cup into a syringe compatible with a feeding tube or oral administration. |                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-| Administering via oral syringe: Place the end of the oral syringe inside the mouth with the tip touching the inside of either cheek. Slowly push the plunger all the way down to give the full dose. WARNING: Administering Finlee to the throat or pushing the plunger too fast may cause choking.   | 3a   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
-| 3b Administering via feeding tube: Dispense the solution into the feeding tube as per the feeding tube manufacturer's instructions.                                                                                                                                                                   |      |
-| 4 Add about 5 ml of still drinking water to the empty dosing cup and stir with the handle of the stainless steel teaspoon to loosen the residue (there will be tablet residue inside the cup which may be difficult to see).                                                                          |      |
-| 5 Withdraw all of the solution from the dosing cup into a syringe compatible with a feeding tube or oral administration.                                                                                                                                                                              |      |
-| 6 Dispense the solution into the feeding tube or into the inside of the cheek.                                                                                                                                                                                                                        |      |
-| 7 Repeat Steps 4 to 6 a total of 3 times to give a full dose.                                                                                                                                                                                                                                         |      |
-| 8 For cleaning instructions, see 'SECTION C'.                                                                                                                                                                                                                                                         |      |
+| 3a Administering via oral syringe: Place the end of the oral syringe inside the mouth with the tip touching the inside of either cheek. Slowly push the plunger all the way down to give the full dose. WARNING: Administering Finlee to the throat or pushing the plunger too fast may cause choking.   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3b Administering via feeding tube: Dispense the solution into the feeding tube as per the feeding tube manufacturer's instructions.                                                                                                                                                                      |
+| 4 Add about 5 ml of still drinking water to the empty dosing cup and stir with the handle of the stainless steel teaspoon to loosen the residue (there will be tablet residue inside the cup which may be difficult to see).                                                                             |
+| 5 Withdraw all of the solution from the dosing cup into a syringe compatible with a feeding tube or oral administration.                                                                                                                                                                                 |
+| 6 Dispense the solution into the feeding tube or into the inside of the cheek.                                                                                                                                                                                                                           |
+| 7 Repeat Steps 4 to 6 a total of 3 times to give a full dose.                                                                                                                                                                                                                                            |
+| 8 For cleaning instructions, see 'SECTION C'.                                                                                                                                                                                                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-## SECTION C CLEANING
+## SECTION C
 
 ## Dosing cup
 
@@ -1692,3 +1743,27 @@ Follow these steps if you spill any Finlee solution:
 5. Throw away all the disposable materials used to clean the spillage into a sealable plastic bag.
 6. Ask the pharmacist how to throw away the plastic bag.
 7. Wash your hands well with soap and water.
+
+## CLEANING
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for dabrafenib, the scientific conclusions of PRAC are as follows:
+
+In view of available data on events of radiation recall and sensitisation from clinical trials, the literature, spontaneous reports including in some cases a close temporal relationship, localisation of the event within the irradiated field and in view of a plausible mechanism of action, the PRAC considers a causal relationship between dabrafenib and potentiation of radiation toxicity at least a reasonable possibility. The PRAC concluded that the product information of products containing dabrafenib should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the Marketing Authorisation(s)
+
+On the basis of the scientific conclusions for dabrafenib the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing dabrafenib is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

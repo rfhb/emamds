@@ -1,36 +1,30 @@
 ---
-document_datetime: 2025-09-04 13:50:19
+document_datetime: 2026-03-31 14:13:47
 document_pages: 2
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/topotecan-hospira-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: topotecan-hospira-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 3.1916049
-conversion_datetime: 2025-12-18 22:48:19.691362
+processing_time: 1.3477819
+conversion_datetime: 2026-04-01 12:24:47.269082
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## Topotecan Hospira
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency' s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessmenthistory'section.Forthe completeproduct lifecycleprocedures,you mayneedtoalsorefertoEPAR-Proceduralsteps taken andscientific information after authorisation (archive).
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Applicationnumber    | Scope                               | Opinion/ Notification 1 issued on   | Commission Decision Issued²/ amendedon   | Product Information affected3   | Summary   |
-|----------------------|-------------------------------------|-------------------------------------|------------------------------------------|---------------------------------|-----------|
-| Variation typeIA_IN/ | B.II.b.2.cReplacementor additionofa | 03/09/2025                          |                                          | Annex II and                    |           |
-
-1 Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions areissuedforallotherprocedures.
-
-3SmPC(Summary ofProductCharacteristics),AnnexII,Labelling,PL(PackageLeaflet).
-
-2 A Commission decision(CD) is issued for procedures that affect the terms of the marketing authorisation(e.g.summary of product characteristics, annexII, labelling,package leaflet).The CDisissuedwithintwomonths of the opinionforvariationsfallingunderthescope ofArticle23.1a(a)ofRegulation(EU)No.712/2012,orwithinoneyearforotherprocedures.
+| Application number   | Scope                                        | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|----------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Article 61(3) /      | - Notification acc. Article 61(3) - Accepted | 31/03/2026                          |                                             | PL                               |           |
 
 <!-- image -->
 
@@ -38,6 +32,8 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/VR/0000294977                     | manufacturerresponsibleforimportation and/or batch release - B.11.b.2.c.1 Not includingbatchcontrol/testing-Accepted                                                                                      |            |     | PL   |
-|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|------|
-| Variation type IB / EMA/VR/0000248055 | B.11.b.3 Change in the manufacturing process of the finished product, including an intermediateusedinthemanufactureof the finished product-B.II.b.3.a Minor change in the manufacturing process- Accepted | 03/03/2025 | N/A |      |
+| EMA/N/0000339309                         | Update of the package leaflet with revised contact details of local representatives.                                                                                                                              |            |            |                 |             |
+|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|-----------------|-------------|
+| Variation type IA_IN / EMA/VR/0000294977 | B.II.b.2.c Replacement or addition of a manufacturer responsible for importation and/or batch release - B.II.b.2.c.1 Not including batch control/testing - Accepted                                               | 03/09/2025 | 19/12/2025 | Annex II and PL |             |
+| Variation type IB / EMA/VR/0000248055    | B.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - B.II.b.3.a Minor change in the manufacturing process - Accepted | 03/03/2025 |            |                 |             |
+| PSUR / EMA/PSUR/0000296506               |                                                                                                                                                                                                                   |            |            |                 | Maintenance |

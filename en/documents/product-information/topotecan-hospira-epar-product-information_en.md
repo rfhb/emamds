@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-04 13:49:03
+document_datetime: 2026-03-31 14:13:22
 document_pages: 30
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/topotecan-hospira-epar-product-information_en.pdf
 document_name: topotecan-hospira-epar-product-information_en.pdf
 version: success
-processing_time: 6.4453989
-conversion_datetime: 2025-12-24 07:06:49.650667
+processing_time: 6.454122
+conversion_datetime: 2026-04-01 12:42:37.623824
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -44,8 +44,8 @@ A clear yellow to yellow-green solution.
 
 Topotecan monotherapy is indicated for the treatment of:
 
--  patients with metastatic carcinoma of the ovary after failure of first-line or subsequent therapy.
--  patients with relapsed small cell lung cancer (SCLC) for whom re-treatment with the first-line regimen is not considered appropriate (see section 5.1).
+- patients with metastatic carcinoma of the ovary after failure of first-line or subsequent therapy.
+- patients with relapsed small cell lung cancer (SCLC) for whom re-treatment with the first-line regimen is not considered appropriate (see section 5.1).
 
 Topotecan in combination with cisplatin is indicated for patients with carcinoma of the cervix recurrent after radiotherapy and for patients with Stage IVB disease. Patients with prior exposure to cisplatin require a sustained treatment-free interval to justify treatment with the combination (see section 5.1).
 
@@ -63,7 +63,7 @@ Prior to administration of the first course of topotecan, patients must have a b
 
 ## Initial dose
 
-The recommended dose of topotecan is 1.5 mg/m 2 body surface area per day administered by intravenous infusion over 30 minutes daily for five consecutive days with a three-week interval between the start of each course. If well tolerated, treatment may continue until disease progression (see sections 4.8 and 5.1).
+The recommended dose of topotecan is 1.5 mg/m 2  body surface area per day administered by intravenous infusion over 30 minutes daily for five consecutive days with a three-week interval between the start of each course. If well tolerated, treatment may continue until disease progression (see sections 4.8 and 5.1).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -241,12 +241,6 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Very rare                                            | Extravasation 3                                                                                         |
 | Not known                                            | Mucosal inflammation                                                                                    |
 
-1 Fatalities due to sepsis have been reported in patients treated with topotecan (see section 4.4).
-
-2 Neutropenic colitis, including fatal neutropenic colitis, has been reported to occur as a complication of topotecan-induced neutropenia (see section 4.4).
-
-3 Reactions have been mild and have not generally required specific therapy.
-
 The adverse events listed above have the potential to occur with a higher frequency in patients who have a poor performance status (see section 4.4).
 
 The frequencies associated with the haematological and non-haematological adverse events listed below represent the adverse event reports considered to be related/possibly related to topotecan therapy.
@@ -259,9 +253,7 @@ Severe (neutrophil count &lt;0.5 x 10 9 /l) during course 1 in 55% of patients, 
 
 ## Thrombocytopenia
 
-Severe (platelets &lt;25 x 10 9 /l) in 25% of patients (8% of courses); moderate (platelets between
-
-25.0 and 50.0 x 10 9 /l) in 25% of patients (15% of courses). Median time to onset of severe thrombocytopenia, was day 15 and the median duration was five days.
+Severe (platelets &lt;25 x 10 9 /l) in 25% of patients (8% of courses); moderate (platelets between 25.0 and 50.0 x 10 9 /l) in 25% of patients (15% of courses). Median time to onset of severe thrombocytopenia, was day 15 and the median duration was five days.
 
 Platelet transfusions were given in 4% of courses. Reports of significant sequelae associated with thrombocytopenia including fatalities due to tumour bleeds, have been infrequent.
 
@@ -339,14 +331,10 @@ Table 1. Summary of survival, response rate, and time to progression in SCLC pat
 
 <div style=\"page-break-after: always\"></div>
 
-| Median time to progression (weeks) (95% CI)   | 14.9              | 13.1              | 11.9              | 14.6              |
-|-----------------------------------------------|-------------------|-------------------|-------------------|-------------------|
-|                                               | (8.3, 21.3)       | (11.6, 18.3)      | (9.7, 14.1)       | (13.3, 18.9)      |
-| Hazard ratio (95% CI)                         | 0.90 (0.60, 1.35) | 0.90 (0.60, 1.35) | 1.21 (0.96, 1.53) | 1.21 (0.96, 1.53) |
-
-N = total number of patients treated
-
-CI = Confidence interval
+| Median time to progression (weeks)   | 14.9              | 13.1              | 11.9              | 14.6              |
+|--------------------------------------|-------------------|-------------------|-------------------|-------------------|
+| (95% CI)                             | (8.3, 21.3)       | (11.6, 18.3)      | (9.7, 14.1)       | (13.3, 18.9)      |
+| Hazard ratio (95% CI)                | 0.90 (0.60, 1.35) | 0.90 (0.60, 1.35) | 1.21 (0.96, 1.53) | 1.21 (0.96, 1.53) |
 
 In another randomised Phase III study which compared intravenous (IV) topotecan to cyclophosphamide, doxorubicin and vincristine (CAV) in patients with relapsed, sensitive SCLC, the overall response rate was 24.3% for topotecan compared to 18.3% for the CAV group. Median time to progression was similar in the two groups (13.3 weeks and 12.3 weeks, respectively). Median survivals for the two groups were 25.0 and 24.7 weeks, respectively. The hazard ratio for survival with IV topotecan relative to CAV was 1.04 (95% CI: 0.78 - 1.40).
 
@@ -460,9 +448,7 @@ Chemical and physical in-use stability has been demonstrated for 24 hours at 25�
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C-8°C). Do not freeze.
-
-Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2°C-8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
 For storage conditions of the diluted medicinal product, see section 6.3.
 
@@ -536,20 +522,20 @@ Medicinal product subject to restricted medical prescription (See Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference  dates  (EURD  list)  provided  for  under  Article  107c(7)  of  Directive  2001/83/EC  and  any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2. of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -660,30 +646,25 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL                                                       |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Topotecan Hospira 4 mg/4 ml sterile concentrate topotecan Intravenous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 Dilute before use.
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 BN
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 4 mg/4 ml
 
@@ -700,7 +681,9 @@ Pfizer Europe MA EEIG
 
 <div style=\"page-break-after: always\"></div>
 
-## Topotecan Hospira 4 mg/4 ml concentrate for solution for infusion topotecan
+## Topotecan Hospira 4 mg/4 ml concentrate for solution for infusion
+
+## topotecan
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -723,8 +706,8 @@ Topotecan Hospira helps to destroy tumours. A doctor or a nurse will give you th
 
 ## Topotecan Hospira is used to treat:
 
--  ovarian cancer or small cell lung cancer that has come back after chemotherapy.
--  advanced cervical cancer if surgery or radiotherapy treatment is not possible. When treating cervical cancer, Topotecan Hospira is combined with another medicine called cisplatin.
+- ovarian cancer or small cell lung cancer that has come back after chemotherapy.
+- advanced cervical cancer if surgery or radiotherapy treatment is not possible. When treating cervical cancer, Topotecan Hospira is combined with another medicine called cisplatin.
 
 Your doctor will decide with you whether Topotecan Hospira therapy is better than further treatment with your initial chemotherapy.
 
@@ -732,9 +715,9 @@ Your doctor will decide with you whether Topotecan Hospira therapy is better tha
 
 ## You should not receive Topotecan Hospira:
 
--  if you are allergic to topotecan or any of the other ingredients of this medicine (listed in section 6)
--  if you are breast-feeding
--  if your blood cell counts are too low. Your doctor will tell you whether this is the case, based on the results of your last blood test.
+- if you are allergic to topotecan or any of the other ingredients of this medicine (listed in section 6)
+- if you are breast-feeding
+- if your blood cell counts are too low. Your doctor will tell you whether this is the case, based on the results of your last blood test.
 
 Tell your doctor if any of these applies to you.
 
@@ -742,13 +725,11 @@ Tell your doctor if any of these applies to you.
 
 Before you are given this medicine your doctor needs to know:
 
--  if you have any kidney or liver problems. Your dose of Topotecan Hospira may need to be adjusted.
--  if you are pregnant or plan to become pregnant. See section 'Pregnancy and breast-feeding' below.
--  if you plan to father a child. See section 'Pregnancy and breast-feeding' below.
+- if you have any kidney or liver problems. Your dose of Topotecan Hospira may need to be adjusted.
+- if you are pregnant or plan to become pregnant. See section 'Pregnancy and breast-feeding' below.
+- if you plan to father a child. See section 'Pregnancy and breast-feeding' below.
 
-Tell your doctor
-
-if any of these applies to you.
+Tell your doctor if any of these applies to you.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -778,14 +759,14 @@ This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say 
 
 The dose of topotecan you are given will be worked out by your doctor, based on:
 
--  your body size (surface area measured in square metres)
--  the results of blood tests carried out before treatment
--  the disease being treated.
+- your body size (surface area measured in square metres)
+- the results of blood tests carried out before treatment
+- the disease being treated.
 
 ## The usual dose
 
--  Ovarian and small cell lung cancer: 1.5 mg per square metre of body surface area per day. You will have treatment once a day for 5 days. This pattern of treatment will normally be repeated every 3 weeks.
--  Cervical cancer: 0.75 mg per square metre of body surface area per day. You will have treatment once a day for 3 days. This pattern of treatment will normally be repeated every 3 weeks.
+- Ovarian and small cell lung cancer: 1.5 mg per square metre of body surface area per day. You will have treatment once a day for 5 days. This pattern of treatment will normally be repeated every 3 weeks.
+- Cervical cancer: 0.75 mg per square metre of body surface area per day. You will have treatment once a day for 3 days. This pattern of treatment will normally be repeated every 3 weeks.
 
 When treating cervical cancer, Topotecan Hospira is combined with another medicine, called cisplatin. Your doctor will determine the correct dose of cisplatin.
 
@@ -806,17 +787,17 @@ Like all medicines, this medicine can cause side effects, although not everybody
 These very common side effects may affect more than 1 in 10 people treated with Topotecan Hospira:
 
 - Signs of infection: Topotecan may reduce the number of white blood cells and lower your resistance to infection. This can even be life threatening. Signs include:
--  fever
--  serious deterioration of your general condition
--  local symptoms such as sore throat or urinary problems (for example, a burning sensation when urinating, which may be a urinary infection).
--  Occasionally severe stomach pain, fever and possibly diarrhoea (rarely with blood) can be signs of bowel inflammation ( colitis )
+- -fever
+- -serious deterioration of your general condition
+- -local symptoms such as sore throat or urinary problems (for example, a burning sensation when urinating, which may be a urinary infection).
+- Occasionally severe stomach pain, fever and possibly diarrhoea (rarely with blood) can be signs of bowel inflammation ( colitis )
 
 This rare side effect may affect up to 1 in 1,000 people treated with Topotecan Hospira:
 
--  Lung inflammation ( interstitial lung disease ): You are most at risk if you have existing lung disease, have had radiation treatment to your lungs, or have previously taken medicines that caused lung damage. Signs include:
--  difficulty breathing
--  cough
--  fever
+- Lung inflammation ( interstitial lung disease ): You are most at risk if you have existing lung disease, have had radiation treatment to your lungs, or have previously taken medicines that caused lung damage. Signs include:
+- -difficulty breathing
+- -cough
+- -fever
 
 Tell your doctor immediately if you get any symptoms of these conditions, as hospitalisation may be necessary.
 
@@ -824,31 +805,31 @@ Tell your doctor immediately if you get any symptoms of these conditions, as hos
 
 These may affect more than 1 in 10 people treated with Topotecan Hospira:
 
--  Feeling generally weak and tired (temporary anaemia ). In some cases you may need a blood transfusion.
--  Unusual bruising or bleeding, caused by a decrease in the number of clotting cells in the blood. This can lead to severe bleeding from relatively small injuries such as a small cut. Rarely, it can lead to more severe bleeding ( haemorrhage ). Talk to your doctor for advice on how to minimise the risk of bleeding.
--  Weight loss and loss of appetite ( anorexia ); tiredness; weakness.
--  Feeling sick ( nausea), being sick ( vomiting ); diarrhoea; stomach pain; constipation.
--  Inflammation and ulcers of the mouth, tongue or gums.
--  High body temperature (fever).
--  Hair loss.
+- Feeling generally weak and tired (temporary anaemia ). In some cases you may need a blood transfusion.
+- Unusual bruising or bleeding, caused by a decrease in the number of clotting cells in the blood. This can lead to severe bleeding from relatively small injuries such as a small cut. Rarely, it can lead to more severe bleeding ( haemorrhage ). Talk to your doctor for advice on how to minimise the risk of bleeding.
+- Weight loss and loss of appetite ( anorexia ); tiredness; weakness.
+- Feeling sick ( nausea), being sick ( vomiting ); diarrhoea; stomach pain; constipation.
+- Inflammation and ulcers of the mouth, tongue or gums.
+- High body temperature (fever).
+- Hair loss.
 
 ## Common side effects
 
 These may affect up to 1 in 10 people treated with Topotecan Hospira:
 
--  Allergic or hypersensitivity reactions (including rash).
--  Yellow skin.
--  Feeling unwell.
--  Itching sensation.
+- Allergic or hypersensitivity reactions (including rash).
+- Yellow skin.
+- Feeling unwell.
+- Itching sensation.
 
 ## Rare side effects
 
 These may affect up to 1 in 1,000 people treated with Topotecan Hospira:
 
--  Severe allergic or anaphylactic reactions.
--  Swelling caused by fluid build-up ( angioedema ).
--  Mild pain and inflammation at the site of injection.
--  Itchy rash (or hives ).
+- Severe allergic or anaphylactic reactions.
+- Swelling caused by fluid build-up ( angioedema ).
+- Mild pain and inflammation at the site of injection.
+- Itchy rash (or hives ).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -856,8 +837,8 @@ These may affect up to 1 in 1,000 people treated with Topotecan Hospira:
 
 The frequency of some side effects is not known (events from spontaneous reports and the frequency cannot be estimated from the available data):
 
--  Severe stomach pain, nausea, vomiting of blood, black or bloody stools (possible symptoms of gastrointestinal perforation).
--  Mouth sores, difficulty swallowing, abdominal pain, nausea, vomiting, diarrhoea, bloody stools (possible signs and symptoms of inflammation of the inner lining of the mouth, stomach and/or gut [mucosal inflammation]).
+- Severe stomach pain, nausea, vomiting of blood, black or bloody stools (possible symptoms of gastrointestinal perforation).
+- Mouth sores, difficulty swallowing, abdominal pain, nausea, vomiting, diarrhoea, bloody stools (possible signs and symptoms of inflammation of the inner lining of the mouth, stomach and/or gut [mucosal inflammation]).
 
 If you are being treated for cervical cancer , you may get side effects from the other medicine (cisplatin) that you will be given along with Topotecan Hospira. Those effects are described in the cisplatin patient leaflet.
 
@@ -913,19 +894,9 @@ Pfizer NV/SA
 
 Tél/Tel: +32 (0)2 554 62 11
 
-## Lietuva
-
-Pfizer Luxembourg SARL filialas Lietuvoje Tel. +370 5 251 4000
-
 ## България
 
 Пфайзер Люксембург САРЛ, Клон България Тел.: +359 2 970 4333
-
-## Magyarország
-
-Pfizer Kft.
-
-Tel.: + 36 1 488 37 00
 
 ## Česká republika
 
@@ -933,23 +904,11 @@ Pfizer, spol. s r.o.
 
 Tel: +420 283 004 111
 
-## Malta
-
-Drugsales Ltd
-
-Tel: +356 21419070/1/2
-
 ## Danmark
 
 Pfizer ApS
 
 Tlf.: +45 44 20 11 00
-
-## Nederland
-
-Pfizer bv
-
-Tel: +31 (0)800 63 34 636
 
 ## Deutschland
 
@@ -957,23 +916,9 @@ PFIZER PHARMA GmbH
 
 Tel: +49 (0)30 550055-51000
 
-## Norge
-
-Pfizer AS
-
-Tlf: +47 67 52 61 00
-
 ## Eesti
 
-Pfizer Luxembourg SARL Eesti filiaal
-
-Tel: +372 666 7500
-
-## Österreich
-
-Pfizer Corporation Austria Ges.m.b.H.
-
-Tel: +43 (0)1 521 15-0
+Pfizer Luxembourg SARL Eesti filiaal Tel: +372 666 7500
 
 ## Ελλάδα
 
@@ -981,23 +926,11 @@ Pfizer Ελλάς A.E.
 
 Τηλ: +30 210 6785800
 
-## Polska
-
-Pfizer Polska Sp. z o.o.
-
-Tel.: +48 22 335 61 00
-
 ## España
 
 Pfizer, S.L.
 
 Tel: +34 91 490 99 00
-
-## Portugal
-
-Laboratórios Pfizer, Lda.
-
-Tel: +351 21 423 5500
 
 ## France
 
@@ -1005,17 +938,61 @@ Pfizer
 
 Tél: +33 (0)1 58 07 34 40
 
-## România
-
-Pfizer Romania S.R.L.
-
-Tel: +40 (0) 21 207 28 00
-
 ## Hrvatska
 
 Pfizer Croatia d.o.o.
 
 Tel: +385 1 3908 777
+
+## Lietuva
+
+Pfizer Luxembourg SARL filialas Lietuvoje Tel. +370 5 251 4000
+
+## Magyarország
+
+Pfizer Kft.
+
+Tel.: + 36 1 488 37 00
+
+## Malta
+
+Vivian CorporationDrugsales Ltd.
+
+Tel: + 356 2134 4610419070/1/2
+
+## Nederland
+
+Pfizer bv
+
+Tel: +31 (0)800 63 34 636
+
+## Norge
+
+Pfizer AS
+
+Tlf: +47 67 52 61 00
+
+## Österreich
+
+Pfizer Corporation Austria Ges.m.b.H. Tel: +43 (0)1 521 15-0
+
+## Polska
+
+Pfizer Polska Sp. z o.o.
+
+Tel.: +48 22 335 61 00
+
+## Portugal
+
+Laboratórios Pfizer, Lda.
+
+Tel: +351 21 423 5500
+
+## România
+
+Pfizer Romania S.R.L.
+
+Tel: +40 (0) 21 207 28 00
 
 ## Slovenija
 
@@ -1125,9 +1102,9 @@ Chemical and physical in-use stability has been demonstrated for 24 hours at 25�
 
 The normal procedures for proper handling and disposal of anti-tumour medicinal products should be adopted:
 
--  Staff should be adequately trained in the preparation, administration and disposal of cytotoxics.
--  Pregnant staff should be excluded from working with this medicinal product.
--  Staff handling this medicinal product should wear adequate protective clothing including mask, goggles and gloves.
--  All items used in the preparation, administration, and cleaning of the medicinal product, including gloves, should be placed in high-risk, waste disposal bags for high-temperature incineration. Liquid waste may be flushed with large amounts of water.
--  Accidental contact with the skin or eyes should be treated immediately with copious amounts of water. If there is lasting irritation, a doctor should be consulted.
--  Any unused product or waste material should be disposed of in accordance with local requirements.
+- Staff should be adequately trained in the preparation, administration and disposal of cytotoxics.
+- Pregnant staff should be excluded from working with this medicinal product.
+- Staff handling this medicinal product should wear adequate protective clothing including mask, goggles and gloves.
+- All items used in the preparation, administration, and cleaning of the medicinal product, including gloves, should be placed in high-risk, waste disposal bags for high-temperature incineration. Liquid waste may be flushed with large amounts of water.
+- Accidental contact with the skin or eyes should be treated immediately with copious amounts of water. If there is lasting irritation, a doctor should be consulted.
+- Any unused product or waste material should be disposed of in accordance with local requirements.

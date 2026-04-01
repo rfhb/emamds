@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-14 15:18:50
+document_datetime: 2026-03-30 10:54:27
 document_pages: 30
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/flucelvax-epar-product-information_en.pdf
 document_name: flucelvax-epar-product-information_en.pdf
 version: success
-processing_time: 9.272626
-conversion_datetime: 2025-12-28 12:26:57.195543
+processing_time: 9.2411512
+conversion_datetime: 2026-04-01 12:29:40.050954
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -73,9 +73,10 @@ Adults and children from 6 months of age
 
 <div style=\"page-break-after: always\"></div>
 
-|                          |                 | 4 weeks apart   |
-|--------------------------|-----------------|-----------------|
-| 9 years of age and older | One 0.5 mL dose | Not applicable  |
+| Age group                | Dose            | Schedule       |
+|--------------------------|-----------------|----------------|
+|                          |                 | 4 weeks apart  |
+| 9 years of age and older | One 0.5 mL dose | Not applicable |
 
 ## Children below 6 months of age
 
@@ -83,7 +84,7 @@ The safety and efficacy of Flucelvax in children from birth to less than 6 month
 
 ## Method of administration
 
-## For intramuscular injection only.
+For intramuscular injection only.
 
 The preferred site for injection is the deltoid muscle of the upper arm. Young children with insufficient deltoid mass should be vaccinated in the anterolateral aspect of the thigh.
 
@@ -117,9 +118,9 @@ As with all injectable vaccines, Flucelvax must be administered with caution to 
 
 Syncope (fainting) can occur following, or even before, any vaccination as a psychogenic response to the needle injection. This can be accompanied by several neurological signs such as transient visual disturbance, paraesthesia and tonic-clonic limb movements during recovery. It is important that procedures are in place to avoid injury from faints.
 
-## Immunocompromised patients
-
 <div style=\"page-break-after: always\"></div>
+
+## Immunocompromised patients
 
 Antibody response in patients with endogenous or iatrogenic immunosuppression may be insufficient to prevent influenza.
 
@@ -157,9 +158,9 @@ Animal studies do not indicate reproductive toxicity (see section 5.3).
 
 ## Breast-feeding
 
-It is unknown whether Flucelvax is excreted in human milk. No effects on breastfed newborn/infant are anticipated. Flucelvax may be given during lactation.
-
 <div style=\"page-break-after: always\"></div>
+
+It is unknown whether Flucelvax is excreted in human milk. No effects on breastfed newborn/infant are anticipated. Flucelvax may be given during lactation.
 
 ## Fertility
 
@@ -193,7 +194,7 @@ Table 1: Adverse reactions reported following vaccination in adults 18 years and
 |------------------------------------------------------|------------------------------------------------------|-------------------------------|-----------------------------------|--------------------------------------------------------------------------------|
 | Immune system disorders                              |                                                      |                               |                                   | Allergic or immediate hypersensitivity reactions, including anaphylactic shock |
 | Metabolism and nutrition disorders                   |                                                      | Loss of appetite              |                                   |                                                                                |
-| Nervous system disorders                             | Headache 1                                           |                               |                                   | Paraesthesia, Guillain-Barre Syndrome                                          |
+| Nervous system disorders                             | Headache 1                                           |                               |                                   | Paraesthesia, Guillain-Barre Syndrome, febrile convulsion                      |
 | Gastrointestinal disorders                           |                                                      | Nausea, Diarrhoea, Vomiting 2 |                                   |                                                                                |
 | Skin and subcutaneous tissue disorders               |                                                      |                               |                                   | Generalised skin reactions including pruritus, urticaria or non- specific rash |
 | Musculoskeletal and connective tissue disorders      | Myalgia 1                                            | Arthralgia                    |                                   |                                                                                |
@@ -293,7 +294,7 @@ Immunogenicity in Adults 18 years of age and older
 
 Immunogenicity was evaluated in adults 18 years of age and older in a randomised, doubleblind, controlled study (V130\\_01). In this study, subjects received cell-based quadrivalent influenza vaccine (N = 1 334) or one of the two formulations of comparator cell-based trivalent influenza vaccine with either the same strain  composition as Flucelvax, TIV1c (N=677), or an alternate B strain, TIV2c (N = 669). The immune response to each of the vaccine antigens was assessed, 21 days after vaccination.
 
-The immunogenicity endpoints were geometric mean antibody titres (GMTs) of haemagglutination inhibition (HI) antibodies response and percentage of subjects who achieved seroconversions, defined as a prevaccination HI titre of &lt;1:10 with a post vaccination titre ≥1:40 or with a pre -vaccination HI titre of ≥10 and a minimum 4 -fold increase in serum HI antibody titre.
+The immunogenicity endpoints were geometric mean antibody titres (GMTs) of haemagglutination inhibition (HI) antibodies response and percentage of subjects who achieved seroconversions, defined as a pre-vaccination HI titre of &lt;1:10 with a post vaccination titre ≥1:40 or with a pre -vaccination HI titre of ≥10 and a minimum 4 -fold increase in serum HI antibody titre.
 
 Immunogenicity data  are summarised in Table 4.
 
@@ -305,18 +306,15 @@ Table 4: GMTs and seroconversion rates (with 95% CI) in adults 18 years of age a
 
 <div style=\"page-break-after: always\"></div>
 
-|        | Seroconversion Rate a (95% CI)   | 49.2% (46.4-52.0)   | 48.7% (44.7-52.6)   |
-|--------|----------------------------------|---------------------|---------------------|
-| A/H3N2 | GMT (95% CI)                     | 372.3 (349.2-396.9) | 378.4 (345.1-414.8) |
-| A/H3N2 | Seroconversion Rate a (95% CI)   | 38.3% (35.6-41.1)   | 35.6% (31.9-39.5)   |
-|        | GMT (95% CI)                     | 133.2 (125.3-141.7) | 115.6 (106.4-125.6) |
-|        | Seroconversion Rate a (95% CI)   | 36.6% (33.9-39.3)   | 34.8% (31.1-38.7)   |
-|        | GMT (95% CI)                     | 177.2               | 164.0               |
-|        | Rate (95% CI)                    | (167.6-187.5)       | (151.4-177.7)       |
-| B2     |                                  |                     |                     |
-| B2     | Seroconversion a                 | 39.8%               | 35.4%               |
-| B2     |                                  | (37.0-42.5)         | (31.7-39.2)         |
-| B2     |                                  |                     |                     |
+|        |                                | Cell-based quadrivalent influenza vaccine N = 1250   | TIV1c/TIV2c N = 635/N = 639   |
+|--------|--------------------------------|------------------------------------------------------|-------------------------------|
+|        | Seroconversion Rate a (95% CI) | 49.2% (46.4-52.0)                                    | 48.7% (44.7-52.6)             |
+| A/H3N2 | GMT (95% CI)                   | 372.3 (349.2-396.9)                                  | 378.4 (345.1-414.8)           |
+| A/H3N2 | Seroconversion Rate a (95% CI) | 38.3% (35.6-41.1)                                    | 35.6% (31.9-39.5)             |
+| B1     | GMT (95% CI)                   | 133.2 (125.3-141.7)                                  | 115.6 (106.4-125.6)           |
+| B1     | Seroconversion Rate a (95% CI) | 36.6% (33.9-39.3)                                    | 34.8% (31.1-38.7)             |
+| B2     | GMT (95% CI)                   | 177.2 (167.6-187.5)                                  | 164.0 (151.4-177.7)           |
+| B2     | Seroconversion Rate a (95% CI) | 39.8% (37.0-42.5)                                    | 35.4% (31.7-39.2)             |
 
 Abbreviations: GMT = geometric mean titre; CI = confidence interval.
 
@@ -417,9 +415,9 @@ Sodium chloride Potassium chloride Magnesium chloride hexahydrate Disodium phosp
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
 
-## 6.3 Shelf life
-
 <div style=\"page-break-after: always\"></div>
+
+## 6.3 Shelf life
 
 1 year
 
@@ -459,9 +457,9 @@ EU/1/24/1879/001 EU/1/24/1879/002 EU/1/24/1879/003 EU/1/24/1879/004
 
 Date of first authorisation: 15 November 2024
 
-## 10. DATE OF REVISION OF THE TEXT
-
 <div style=\"page-break-after: always\"></div>
+
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -569,6 +567,8 @@ Read the package leaflet before use.
 
 Shake before use.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
@@ -616,8 +616,6 @@ Lot:
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 ## 15. INSTRUCTIONS ON USE
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -825,6 +823,7 @@ Vomiting was uncommon in the elderly.
 Not known (frequency cannot be estimated from the available data)
 
 - Numbness and tingling sensation (paraesthesia)
+- Seizure associated with fever (febrile convulsion)
 - Generalised skin reactions including itching, bumps on the skin (pruritis, urticaria) or non-specific rash
 
 ## Reporting of side effects
@@ -939,8 +938,6 @@ Seqirus Netherlands B.V. Holland Sími: +31 (0) 20 204 6900
 
 Seqirus S.r.l. Siena Tel: +39 0577 096400
 
-## Κύπρος
-
 ## Lietuva
 
 Seqirus Netherlands B.V. Nyderlandai Tel: +31 (0) 20 204 6900
@@ -959,9 +956,7 @@ Seqirus Netherlands B.V. In-Netherlands Tel: +31 (0) 20 204 6900
 
 ## Nederland
 
-Seqirus Netherlands B.V. Amsterdam
-
-Tel: +31 (0) 20 204 6900
+Seqirus Netherlands B.V. Amsterdam Tel: +31 (0) 20 204 6900
 
 ## Norge
 
@@ -995,7 +990,7 @@ Seqirus Netherlands B.V. Holandsko Tel: +31 (0) 20 204 6900
 
 Seqirus Netherlands B.V. Alankomaat Puh/Tel: +31 (0) 20 204 6900
 
-## Sverige
+## Κύπρος
 
 Seqirus Netherlands B.V. Ολλανδία
 
@@ -1003,13 +998,13 @@ Seqirus Netherlands B.V. Ολλανδία
 
 : +31 (0) 20 204 6900
 
-<div style=\"page-break-after: always\"></div>
-
-Latvija
+## Latvija
 
 Seqirus Netherlands B.V. Nīderlande
 
 Tel: +31 (0) 20 204 6900
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -1026,6 +1021,8 @@ Appropriate medical treatment and supervision should always be readily available
 Shake before use. After shaking, the normal appearance of the vaccine is a clear to slightly opalescent suspension.
 
 The vaccine should be visually inspected for particulate matter and discoloration prior to administration. In the event of any foreign particulate matter and/or variation of physical aspect being observed, do not administer the vaccine.
+
+## Sverige
 
 Seqirus Netherlands B.V. Nederländerna
 

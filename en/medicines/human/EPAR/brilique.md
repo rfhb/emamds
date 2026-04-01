@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 08:58:07
+document_datetime: 2026-03-31 15:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/brilique.html
 document_name: brilique.html
 version: success
-processing_time: 0.1180095
-conversion_datetime: 2025-12-30 02:56:43.187892
+processing_time: 0.1353471
+conversion_datetime: 2026-04-01 12:37:12.165272
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Brilique
 
 [RSS](/en/individual-human-medicine.xml/65837)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-ticagrelor Medicine Human Authorised
+ticagrelor
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -38,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Brilique](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-84908)
 - [More information on Brilique](#related-medicines)
 - [Topics](#topics)
 
@@ -109,275 +110,141 @@ Brilique : EPAR - Summary for the public
 
 English (EN) (78 KB - PDF)
 
-**First published:** 07/01/2011
-
-**Last updated:** 29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/en/documents/overview/brilique-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-169)
+[Other languages (22)](#file-language-dropdown-65)
 
 български (BG) (105.35 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/bg/documents/overview/brilique-epar-summary-public_bg.pdf)
 
 español (ES) (77.91 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/es/documents/overview/brilique-epar-summary-public_es.pdf)
 
 čeština (CS) (105.11 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/cs/documents/overview/brilique-epar-summary-public_cs.pdf)
 
 dansk (DA) (76.71 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/da/documents/overview/brilique-epar-summary-public_da.pdf)
 
 Deutsch (DE) (78.91 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/de/documents/overview/brilique-epar-summary-public_de.pdf)
 
 eesti keel (ET) (76.38 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/et/documents/overview/brilique-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (106.51 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/el/documents/overview/brilique-epar-summary-public_el.pdf)
 
 français (FR) (78.11 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/fr/documents/overview/brilique-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (95.08 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/hr/documents/overview/brilique-epar-summary-public_hr.pdf)
 
 italiano (IT) (76.75 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/it/documents/overview/brilique-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (100.05 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/lv/documents/overview/brilique-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (102.12 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/lt/documents/overview/brilique-epar-summary-public_lt.pdf)
 
 magyar (HU) (99.89 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/hu/documents/overview/brilique-epar-summary-public_hu.pdf)
 
 Malti (MT) (104.69 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/mt/documents/overview/brilique-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (77.29 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/nl/documents/overview/brilique-epar-summary-public_nl.pdf)
 
 polski (PL) (105.18 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/pl/documents/overview/brilique-epar-summary-public_pl.pdf)
 
 português (PT) (77.46 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/pt/documents/overview/brilique-epar-summary-public_pt.pdf)
 
 română (RO) (99.63 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/ro/documents/overview/brilique-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (102.87 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/sk/documents/overview/brilique-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (95.78 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/sl/documents/overview/brilique-epar-summary-public_sl.pdf)
 
 Suomi (FI) (76.92 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/fi/documents/overview/brilique-epar-summary-public_fi.pdf)
 
 svenska (SV) (77.31 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-29/03/2016
+**First published:** 07/01/2011 **Last updated:** 29/03/2016
 
 [View](/sv/documents/overview/brilique-epar-summary-public_sv.pdf)
 
@@ -385,305 +252,161 @@ svenska (SV) (77.31 KB - PDF)
 
 Brilique : EPAR - Product Information
 
-English (EN) (2.89 MB - PDF)
+English (EN) (1.5 MB - PDF)
 
-**First published:** 07/01/2011
-
-**Last updated:** 24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/en/documents/product-information/brilique-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-415)
+[Other languages (24)](#file-language-dropdown-449)
 
-български (BG) (1.16 MB - PDF)
+български (BG) (1.55 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/bg/documents/product-information/brilique-epar-product-information_bg.pdf)
 
-español (ES) (1.49 MB - PDF)
+español (ES) (1.34 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/es/documents/product-information/brilique-epar-product-information_es.pdf)
 
-čeština (CS) (1 MB - PDF)
+čeština (CS) (1.42 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/cs/documents/product-information/brilique-epar-product-information_cs.pdf)
 
-dansk (DA) (1.63 MB - PDF)
+dansk (DA) (1019.25 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/da/documents/product-information/brilique-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.62 MB - PDF)
+Deutsch (DE) (1.91 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/de/documents/product-information/brilique-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.92 MB - PDF)
+eesti keel (ET) (1013.37 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/et/documents/product-information/brilique-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.03 MB - PDF)
+ελληνικά (EL) (1.31 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/el/documents/product-information/brilique-epar-product-information_el.pdf)
 
-français (FR) (1.01 MB - PDF)
+français (FR) (1.32 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/fr/documents/product-information/brilique-epar-product-information_fr.pdf)
 
-hrvatski (HR) (934.51 KB - PDF)
+hrvatski (HR) (1.25 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/hr/documents/product-information/brilique-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.47 MB - PDF)
+íslenska (IS) (1.07 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/is/documents/product-information/brilique-epar-product-information_is.pdf)
 
-italiano (IT) (990.58 KB - PDF)
+italiano (IT) (1.13 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/it/documents/product-information/brilique-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.63 MB - PDF)
+latviešu valoda (LV) (1.53 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/lv/documents/product-information/brilique-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (967.05 KB - PDF)
+lietuvių kalba (LT) (1.18 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/lt/documents/product-information/brilique-epar-product-information_lt.pdf)
 
-magyar (HU) (991.58 KB - PDF)
+magyar (HU) (1.27 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/hu/documents/product-information/brilique-epar-product-information_hu.pdf)
 
-Malti (MT) (3.34 MB - PDF)
+Malti (MT) (1.56 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/mt/documents/product-information/brilique-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.71 MB - PDF)
+Nederlands (NL) (1.34 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/nl/documents/product-information/brilique-epar-product-information_nl.pdf)
 
-norsk (NO) (1.51 MB - PDF)
+norsk (NO) (1.07 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/no/documents/product-information/brilique-epar-product-information_no.pdf)
 
-polski (PL) (1.59 MB - PDF)
+polski (PL) (1.3 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/pl/documents/product-information/brilique-epar-product-information_pl.pdf)
 
-português (PT) (1.37 MB - PDF)
+português (PT) (1.13 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/pt/documents/product-information/brilique-epar-product-information_pt.pdf)
 
-română (RO) (947.01 KB - PDF)
+română (RO) (1.21 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/ro/documents/product-information/brilique-epar-product-information_ro.pdf)
 
-slovenčina (SK) (7.63 MB - PDF)
+slovenčina (SK) (1.56 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/sk/documents/product-information/brilique-epar-product-information_sk.pdf)
 
-slovenščina (SL) (920.83 KB - PDF)
+slovenščina (SL) (1.24 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/sl/documents/product-information/brilique-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.42 MB - PDF)
+Suomi (FI) (1.21 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/fi/documents/product-information/brilique-epar-product-information_fi.pdf)
 
-svenska (SV) (11.98 MB - PDF)
+svenska (SV) (1.26 MB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-24/04/2025
+**First published:** 07/01/2011 **Last updated:** 31/03/2026
 
 [View](/sv/documents/product-information/brilique-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0063 05/09/2024
+**Latest procedure affecting product information:** VR/0000302037
+
+19/02/2026
 
 icon globe
 
@@ -703,310 +426,178 @@ Brilique : EPAR - All Authorised presentations
 
 English (EN) (32.21 KB - PDF)
 
-**First published:** 07/01/2011
-
-**Last updated:** 30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/en/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-676)
+[Other languages (24)](#file-language-dropdown-385)
 
 български (BG) (35.51 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/bg/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (51.79 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/es/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (31.68 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/cs/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (36.7 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/da/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (34.48 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/de/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (33.23 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/et/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (44.02 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/el/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (29.53 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/fr/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (31.73 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/hr/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (31.63 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/is/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (36.52 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/it/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (34.46 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/lv/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (38.9 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/lt/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (35.6 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/hu/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (32.54 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/mt/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (33.3 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/nl/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (36.17 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/no/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (34.69 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/pl/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (36.35 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/pt/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (30.17 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/ro/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (34.6 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/sk/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (30.3 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/sl/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (36.05 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/fi/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (34.92 KB - PDF)
 
-**First published:**
-
-07/01/2011
-
-**Last updated:**
-
-30/05/2017
+**First published:** 07/01/2011 **Last updated:** 30/05/2017
 
 [View](/sv/documents/all-authorised-presentations/brilique-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Brilique Active substance ticagrelor International non-proprietary name (INN) or common name ticagrelor Therapeutic area (MeSH)
+Name of medicine
+
+Brilique
+
+Active substance
+
+ticagrelor
+
+International non-proprietary name (INN) or common name
+
+ticagrelor
+
+Therapeutic area (MeSH)
 
 - Peripheral Vascular Diseases
 - Acute Coronary Syndrome
 
-Anatomical therapeutic chemical (ATC) code B01AC24
+Anatomical therapeutic chemical (ATC) code
+
+B01AC24
 
 ### Pharmacotherapeutic group
 
@@ -1023,13 +614,23 @@ Brilique, co-administered with acetyl salicylic acid (ASA), is indicated for the
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/001241 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/001241
+
+Marketing authorisation holder
 
 AstraZeneca AB
 
 151 85 Södertälje
 
-Marketing authorisation issued 03/12/2010 Revision 23
+Marketing authorisation issued
+
+03/12/2010
+
+Revision
+
+24
 
 ## Assessment history
 
@@ -1041,13 +642,19 @@ Collapse section
 
 Brilique : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (242.59 KB - PDF)
+English (EN) (146.11 KB - PDF)
 
-**First published:** 29/06/2012
-
-**Last updated:** 24/04/2025
+**First published:** 31/03/2026
 
 [View](/en/documents/procedural-steps-after/brilique-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Brilique : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (242.59 KB - PDF)
+
+**First published:** 29/06/2012 **Last updated:** 31/03/2026
+
+[View](/en/documents/procedural-steps-after/brilique-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Brilique-PSUSA-00002948-20201: EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1061,15 +668,11 @@ English (EN) (118.43 KB - PDF)
 
 Brilique -H-C-001241-P46-023: EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/581260/2018
+Adopted Reference Number: EMA/581260/2018
 
 English (EN) (1.62 MB - PDF)
 
-**First published:** 31/08/2018
-
-**Last updated:** 31/08/2018
+**First published:** 31/08/2018 **Last updated:** 31/08/2018
 
 [View](/en/documents/variation-report/brilique-h-c-001241-p46-023-epar-assessment-report_en.pdf)
 
@@ -1079,37 +682,27 @@ Reference Number: EMA/274695/2017
 
 English (EN) (639.32 KB - PDF)
 
-**First published:** 30/05/2017
-
-**Last updated:** 30/05/2017
+**First published:** 30/05/2017 **Last updated:** 30/05/2017
 
 [View](/en/documents/variation-report/brilique-h-c-1241-x-0034-epar-assessment-report-extension_en.pdf)
 
 Brilique : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/18297/2016
+Adopted Reference Number: EMA/CHMP/18297/2016
 
 English (EN) (2.66 MB - PDF)
 
-**First published:** 29/03/2016
-
-**Last updated:** 29/03/2016
+**First published:** 29/03/2016 **Last updated:** 29/03/2016
 
 [View](/en/documents/variation-report/brilique-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Brilique
 
-Adopted
-
-Reference Number: EMA/CHMP/730883/2015
+Adopted Reference Number: EMA/CHMP/730883/2015
 
 English (EN) (65.04 KB - PDF)
 
-**First published:** 18/12/2015
-
-**Last updated:** 18/12/2015
+**First published:** 18/12/2015 **Last updated:** 18/12/2015
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-brilique_en.pdf)
 
@@ -1119,33 +712,189 @@ Brilique : EPAR - Public assessment report
 
 English (EN) (603.39 KB - PDF)
 
-**First published:** 07/01/2011
-
-**Last updated:** 07/01/2011
+**First published:** 07/01/2011 **Last updated:** 07/01/2011
 
 [View](/en/documents/assessment-report/brilique-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Brilique
 
-Adopted
-
-Reference Number: EMA/536945/2010
+Adopted Reference Number: EMA/536945/2010
 
 English (EN) (50.54 KB - PDF)
 
-**First published:** 24/09/2010
-
-**Last updated:** 24/09/2010
+**First published:** 24/09/2010 **Last updated:** 24/09/2010
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-brilique_en.pdf)
 
-#### News on Brilique
+## News on Brilique
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 January 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-january-2022) 28/01/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 January 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-january-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 March 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-march-2021) 26/03/2021
+28/01/2022
 
-#### More information on Brilique
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 March 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-march-2021)
+
+26/03/2021
+
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Brilique : EPAR - Product information - tracked changes
+
+English (EN) (909.57 KB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/en/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-970)
+
+български (BG) (1.75 MB - DOC)
+
+**First published:** 31/03/2026
+
+[View](/bg/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_bg.doc)
+
+español (ES) (1.41 MB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/es/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (689.71 KB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/cs/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (355.37 KB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/da/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (1.45 MB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/de/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (341.97 KB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/et/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (1.2 MB - DOC)
+
+**First published:** 31/03/2026
+
+[View](/el/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_el.doc)
+
+français (FR) (585.21 KB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/fr/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (459.48 KB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/hr/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (411.3 KB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/is/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (1.13 MB - DOC)
+
+**First published:** 31/03/2026
+
+[View](/it/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_it.doc)
+
+latviešu valoda (LV) (2.86 MB - DOC)
+
+**First published:** 31/03/2026
+
+[View](/lv/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_lv.doc)
+
+lietuvių kalba (LT) (395.92 KB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/lt/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (409.89 KB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/hu/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (555.01 KB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/mt/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (330.68 KB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/nl/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (333.2 KB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/no/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (450.71 KB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/pl/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (375.7 KB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/pt/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (388.77 KB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/ro/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (770.31 KB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/sk/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (2.11 MB - DOC)
+
+**First published:** 31/03/2026
+
+[View](/sl/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_sl.doc)
+
+Suomi (FI) (521.6 KB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/fi/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (569.12 KB - DOCX)
+
+**First published:** 31/03/2026
+
+[View](/sv/documents/product-information-tracked-changes/brilique-epar-product-information-tracked-changes_sv.docx)
+
+## More information on Brilique
 
 - [EMEA-000480-PIP01-08-M14 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000480-pip01-08-m14)
 - [Brilique - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/brilique)
@@ -1153,12 +902,12 @@ English (EN) (50.54 KB - PDF)
 - [Comparative Effectiveness of Ticagrelor vs. Prasugrel in Patients With Acute Coronary Syndrome Undergoing Percutaneous Coronary Intervention - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000551)
 - [Health outcomes of patients with acute coronary syndromes prescribed ticagrelor in UK primary care: a retrospective cohort study (Outcomes in UK ACS patients prescribed ticagrelor) - post-authorisation study](https://catalogues.ema.europa.eu/study/30120)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 24/04/2025
+**This page was last updated on**
+
+31/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

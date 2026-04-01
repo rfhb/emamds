@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-13 15:40:04
+document_datetime: 2026-03-30 10:49:06
 document_pages: 111
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/wegovy-epar-product-information_en.pdf
 document_name: wegovy-epar-product-information_en.pdf
 version: success
-processing_time: 43.0002312
-conversion_datetime: 2026-03-17 19:24:39.865123
+processing_time: 34.1587139
+conversion_datetime: 2026-04-01 12:32:30.643945
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.80.0
-  docling-core: 2.70.1
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -1123,19 +1123,9 @@ Wegovy may be stored unrefrigerated for up to 28 days at a temperature not above
 
 ## Pre-filled pen, FlexTouch
 
-Wegovy 0.25 mg FlexTouch solution for injection in pre-filled pen
+Wegovy 0.25 mg FlexTouch solution for injection in pre-filled pen Wegovy 0.5 mg FlexTouch solution for injection in pre-filled pen Wegovy 1 mg FlexTouch solution for injection in pre-filled pen Wegovy 1.7 mg FlexTouch solution for injection in pre-filled pen Wegovy 2.4 mg FlexTouch solution for injection in pre-filled pen
 
-Before use: 2 years.
-
-After first use: 6 weeks. Store below 30°C or in a refrigerator (2°C to 8°C).
-
-Wegovy 0.5 mg FlexTouch solution for injection in pre-filled pen
-
-Wegovy 1 mg FlexTouch solution for injection in pre-filled pen
-
-Wegovy 1.7 mg FlexTouch solution for injection in pre-filled pen
-
-Wegovy 2.4 mg FlexTouch solution for injection in pre-filled pen
+Wegovy can be distributed to the patient at a temperature below 30°C for up to 48 hours.
 
 Before use: 3 years.
 
@@ -1165,11 +1155,9 @@ Keep the pen cap on when the pen is not in use in order to protect it from light
 
 ## Pre-filled pen, FlexTouch (0.5 1, 1.7 and 2.4 mg) 3 mL pre-filled pen
 
-3 mL glass cartridge (type I glass) closed at the one end with a rubber plunger (chlorobutyl) and at the other end with an aluminium cap with a laminated rubber sheet (bromobutyl/polyisoprene) inserted.
+3 mL glass cartridge (type I glass) closed at the one end with a rubber plunger (chlorobutyl) and at the other end with an aluminium cap with a laminated rubber sheet (bromobutyl/polyisoprene) inserted. The cartridge is assembled into a disposable pre-filled pen made of polypropylene, polyoxymethylene, polycarbonate and acrylonitrile butadiene styrene.
 
 <div style=\"page-break-after: always\"></div>
-
-The cartridge is assembled into a disposable pre-filled pen made of polypropylene, polyoxymethylene, polycarbonate and acrylonitrile butadiene styrene.
 
 ## Pack sizes
 
@@ -1197,11 +1185,11 @@ Wegovy should not be used if it does not appear clear and colourless. The pen sh
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## Pre-filled pen, single-dose
+Pre-filled pen, single-dose
 
 The pen is for single-dose only.
 
-## Pre-filled pen, FlexTouch
+Pre-filled pen, FlexTouch
 
 This pen is for multi-use. It contains 4 doses. After having injected the 4 doses, there might still be solution left in the pen despite having administered correctly. Any solution left is insufficient for a dose and the pen should be disposed of.
 
@@ -3710,7 +3698,11 @@ The dose selector clicks differently when turned forward, backwards or past your
 
 (See figure J).
 
-When your prescribed dose lines up with the dose pointer, you have selected your dose. In this picture, the dose 0.25 mg is shown as an example.
+When your prescribed dose lines up with the dose pointer, you
+
+<!-- image -->
+
+have selected your dose. In this picture, the dose 0.25 mg is shown as an example.
 
 If the dose counter stops before you reach your prescribed dose, see the section 'Do you have enough Wegovy?' below these instructions.
 

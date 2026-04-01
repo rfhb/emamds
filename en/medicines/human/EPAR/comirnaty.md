@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-17 15:18:00
+document_datetime: 2026-03-31 13:39:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/comirnaty.html
 document_name: comirnaty.html
 version: success
-processing_time: 0.1767601
-conversion_datetime: 2026-03-21 12:16:17.0115
+processing_time: 0.2220509
+conversion_datetime: 2026-04-01 12:31:41.206479
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.81.0
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
   docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Comirnaty
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-COVID-19 mRNA vaccine Medicine Human Authorised
+COVID-19 mRNA vaccine
+
+Medicine Human Authorised
 
 Page contents
 
@@ -221,275 +223,141 @@ Reference Number: EMADOC-1829012207-27807
 
 English (EN) (165.99 KB - PDF)
 
-**First published:** 23/12/2020
-
-**Last updated:** 10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/en/documents/overview/comirnaty-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-186)
+[Other languages (22)](#file-language-dropdown-777)
 
 български (BG) (204.05 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/bg/documents/overview/comirnaty-epar-medicine-overview_bg.pdf)
 
 español (ES) (171.43 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/es/documents/overview/comirnaty-epar-medicine-overview_es.pdf)
 
 čeština (CS) (202.52 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/cs/documents/overview/comirnaty-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (165.62 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/da/documents/overview/comirnaty-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (172.24 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/de/documents/overview/comirnaty-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (174.55 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/et/documents/overview/comirnaty-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (206.93 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/el/documents/overview/comirnaty-epar-medicine-overview_el.pdf)
 
 français (FR) (173.27 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/fr/documents/overview/comirnaty-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (196.53 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/hr/documents/overview/comirnaty-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (167.73 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/it/documents/overview/comirnaty-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (199.53 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/lv/documents/overview/comirnaty-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (194.3 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/lt/documents/overview/comirnaty-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (195.63 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/hu/documents/overview/comirnaty-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (208.02 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/mt/documents/overview/comirnaty-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (169.99 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/nl/documents/overview/comirnaty-epar-medicine-overview_nl.pdf)
 
 polski (PL) (203.31 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/pl/documents/overview/comirnaty-epar-medicine-overview_pl.pdf)
 
 português (PT) (167.67 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/pt/documents/overview/comirnaty-epar-medicine-overview_pt.pdf)
 
 română (RO) (195.42 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/ro/documents/overview/comirnaty-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (203.15 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/sk/documents/overview/comirnaty-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (195.63 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/sl/documents/overview/comirnaty-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (165.23 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/fi/documents/overview/comirnaty-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (177.37 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-10/09/2025
+**First published:** 23/12/2020 **Last updated:** 10/09/2025
 
 [View](/sv/documents/overview/comirnaty-epar-medicine-overview_sv.pdf)
 
@@ -497,9 +365,7 @@ Comirnaty : EPAR - Risk management plan
 
 English (EN) (4.15 MB - PDF)
 
-**First published:** 23/12/2020
-
-**Last updated:** 05/07/2024
+**First published:** 23/12/2020 **Last updated:** 05/07/2024
 
 [View](/en/documents/rmp/comirnaty-epar-risk-management-plan_en.pdf)
 
@@ -509,303 +375,159 @@ Comirnaty : EPAR - Product information
 
 English (EN) (2.41 MB - PDF)
 
-**First published:** 12/01/2021
-
-**Last updated:** 14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/en/documents/product-information/comirnaty-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-246)
+[Other languages (24)](#file-language-dropdown-433)
 
 български (BG) (2.92 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/bg/documents/product-information/comirnaty-epar-product-information_bg.pdf)
 
 español (ES) (2.45 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/es/documents/product-information/comirnaty-epar-product-information_es.pdf)
 
 čeština (CS) (2.85 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/cs/documents/product-information/comirnaty-epar-product-information_cs.pdf)
 
 dansk (DA) (2.41 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/da/documents/product-information/comirnaty-epar-product-information_da.pdf)
 
 Deutsch (DE) (2.55 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/de/documents/product-information/comirnaty-epar-product-information_de.pdf)
 
 eesti keel (ET) (2.38 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/et/documents/product-information/comirnaty-epar-product-information_et.pdf)
 
 ελληνικά (EL) (3.07 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/el/documents/product-information/comirnaty-epar-product-information_el.pdf)
 
 français (FR) (2.63 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/fr/documents/product-information/comirnaty-epar-product-information_fr.pdf)
 
 hrvatski (HR) (2.71 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/hr/documents/product-information/comirnaty-epar-product-information_hr.pdf)
 
 íslenska (IS) (2.42 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/is/documents/product-information/comirnaty-epar-product-information_is.pdf)
 
 italiano (IT) (2.68 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/it/documents/product-information/comirnaty-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (2.79 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/lv/documents/product-information/comirnaty-epar-product-information_lv.pdf)
 
 lietuvių kalba (LT) (2.89 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/lt/documents/product-information/comirnaty-epar-product-information_lt.pdf)
 
 magyar (HU) (2.91 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/hu/documents/product-information/comirnaty-epar-product-information_hu.pdf)
 
 Malti (MT) (3.24 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/mt/documents/product-information/comirnaty-epar-product-information_mt.pdf)
 
 Nederlands (NL) (2.47 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/nl/documents/product-information/comirnaty-epar-product-information_nl.pdf)
 
 norsk (NO) (2.41 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/no/documents/product-information/comirnaty-epar-product-information_no.pdf)
 
 polski (PL) (3.04 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/pl/documents/product-information/comirnaty-epar-product-information_pl.pdf)
 
 português (PT) (2.4 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/pt/documents/product-information/comirnaty-epar-product-information_pt.pdf)
 
 română (RO) (3 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/ro/documents/product-information/comirnaty-epar-product-information_ro.pdf)
 
 slovenčina (SK) (2.87 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/sk/documents/product-information/comirnaty-epar-product-information_sk.pdf)
 
 slovenščina (SL) (2.66 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/sl/documents/product-information/comirnaty-epar-product-information_sl.pdf)
 
 Suomi (FI) (2.52 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/fi/documents/product-information/comirnaty-epar-product-information_fi.pdf)
 
 svenska (SV) (2.42 MB - PDF)
 
-**First published:**
-
-12/01/2021
-
-**Last updated:**
-
-14/11/2025
+**First published:** 12/01/2021 **Last updated:** 14/11/2025
 
 [View](/sv/documents/product-information/comirnaty-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000303772 04/11/2025
+**Latest procedure affecting product information:** VR/0000303772
+
+04/11/2025
 
 icon globe
 
@@ -825,305 +547,177 @@ Comirnaty : EPAR - All authorised presentations
 
 English (EN) (43.71 KB - PDF)
 
-**First published:** 23/12/2020
-
-**Last updated:** 14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/en/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-312)
+[Other languages (24)](#file-language-dropdown-814)
 
 български (BG) (85.87 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/bg/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (47.07 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/es/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (79.78 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/cs/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (50.09 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/da/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (51.75 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/de/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (46.99 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/et/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (85.98 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/el/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (74 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/fr/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (68.73 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/hr/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (43.04 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/is/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (52.47 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/it/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (83.94 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/lv/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (84.33 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/lt/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (71.67 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/hu/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (85.11 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/mt/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (53.82 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/nl/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (42.53 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/no/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (83.4 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/pl/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (42.65 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/pt/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (78.58 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/ro/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (83.18 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/sk/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (73.59 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/sl/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (51.02 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/fi/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (64.65 KB - PDF)
 
-**First published:**
-
-23/12/2020
-
-**Last updated:**
-
-14/11/2025
+**First published:** 23/12/2020 **Last updated:** 14/11/2025
 
 [View](/sv/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Comirnaty Active substance single-stranded, 5'-capped messenger RNA produced using a cell-free in vitro transcription from the corresponding DNA templates, encoding the viral spike (S) protein of SARS-CoV-2 International non-proprietary name (INN) or common name COVID-19 mRNA vaccine Therapeutic area (MeSH) COVID-19 virus infection Anatomical therapeutic chemical (ATC) code J07BN01
+Name of medicine
+
+Comirnaty
+
+Active substance
+
+single-stranded, 5'-capped messenger RNA produced using a cell-free in vitro transcription from the corresponding DNA templates, encoding the viral spike (S) protein of SARS-CoV-2
+
+International non-proprietary name (INN) or common name
+
+COVID-19 mRNA vaccine
+
+Therapeutic area (MeSH)
+
+COVID-19 virus infection
+
+Anatomical therapeutic chemical (ATC) code
+
+J07BN01
 
 ### Pharmacotherapeutic group
 
@@ -1145,7 +739,9 @@ Comirnaty LP.8.1 concentrate for dispersion for injection is indicated for activ
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005735
+EMA product number
+
+EMEA/H/C/005735
 
 Additional monitoring
 
@@ -1157,7 +753,17 @@ BioNTech Manufacturing GmbH
 
 An der Goldgrube 12
 
-Opinion adopted 21/12/2020 Marketing authorisation issued 21/12/2020 Revision 58
+Opinion adopted
+
+21/12/2020
+
+Marketing authorisation issued
+
+21/12/2020
+
+Revision
+
+58
 
 ## Assessment history
 
@@ -1171,9 +777,7 @@ Comirnaty : EPAR - Procedural steps taken and scientific information after autho
 
 English (EN) (260.36 KB - PDF)
 
-**First published:** 08/10/2024
-
-**Last updated:** 14/11/2025
+**First published:** 08/10/2024 **Last updated:** 14/11/2025
 
 [View](/en/documents/procedural-steps-after/comirnaty-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1181,17 +785,13 @@ Comirnaty : EPAR - Procedural steps taken and scientific information after autho
 
 English (EN) (637.91 KB - PDF)
 
-**First published:** 12/01/2021
-
-**Last updated:** 28/11/2024
+**First published:** 12/01/2021 **Last updated:** 28/11/2024
 
 [View](/en/documents/procedural-steps-after/comirnaty-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Comirnaty-PAM-0000309529 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2611525
+Adopted Reference Number: EMADOC-1700519818-2611525
 
 English (EN) (741.18 KB - PDF)
 
@@ -1201,9 +801,7 @@ English (EN) (741.18 KB - PDF)
 
 Comirnaty-VR-0000231586 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMADOC-1700519818-1717428
+Adopted Reference Number: EMADOC-1700519818-1717428
 
 English (EN) (2.32 MB - PDF)
 
@@ -1213,9 +811,7 @@ English (EN) (2.32 MB - PDF)
 
 Comirnaty-VR-0000224683 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-1645300
+Adopted Reference Number: EMADOC-1700519818-1645300
 
 English (EN) (5.14 MB - PDF)
 
@@ -1235,9 +831,7 @@ English (EN) (2.43 MB - PDF)
 
 Comirnaty-H-C-005735-II-0188-G : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/446369/2023
+Adopted Reference Number: EMA/CHMP/446369/2023
 
 English (EN) (5.23 MB - PDF)
 
@@ -1257,9 +851,7 @@ English (EN) (1.15 MB - PDF)
 
 Comirnaty-H-C-005735-P46-067 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/440372/2023
+Adopted Reference Number: EMA/440372/2023
 
 English (EN) (1.72 MB - PDF)
 
@@ -1269,9 +861,7 @@ English (EN) (1.72 MB - PDF)
 
 Comirnaty-H-C-PSUSA-00010898-202212 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
 
-Adopted
-
-Reference Number: EMA/355994/2023
+Adopted Reference Number: EMA/355994/2023
 
 English (EN) (168.05 KB - PDF)
 
@@ -1281,9 +871,7 @@ English (EN) (168.05 KB - PDF)
 
 Comirnaty-H-C-005735-X-0180 : EPAR - Assessment report - Extension
 
-Adopted
-
-Reference Number: EMA/355551/2023
+Adopted Reference Number: EMA/355551/2023
 
 English (EN) (324.53 KB - PDF)
 
@@ -1293,9 +881,7 @@ English (EN) (324.53 KB - PDF)
 
 Comirnaty-H-C-005735-X-0176 : EPAR - Assessment report - Extension
 
-Adopted
-
-Reference Number: EMA/355550/2023
+Adopted Reference Number: EMA/355550/2023
 
 English (EN) (5.96 MB - PDF)
 
@@ -1305,9 +891,7 @@ English (EN) (5.96 MB - PDF)
 
 Comirnaty-H-C-005735-II-0177-G : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/355553/2023
+Adopted Reference Number: EMA/355553/2023
 
 English (EN) (6.57 MB - PDF)
 
@@ -1317,9 +901,7 @@ English (EN) (6.57 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Comirnaty (I-177-G-X-176)
 
-Adopted
-
-Reference Number: EMA/CHMP/284978/2023
+Adopted Reference Number: EMA/CHMP/284978/2023
 
 English (EN) (147.47 KB - PDF)
 
@@ -1329,9 +911,7 @@ English (EN) (147.47 KB - PDF)
 
 Comirnaty-H-C-005735-P46-046: EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/287266/2022
+Adopted Reference Number: EMA/287266/2022
 
 English (EN) (1.43 MB - PDF)
 
@@ -1341,9 +921,7 @@ English (EN) (1.43 MB - PDF)
 
 Comirnaty-H-C-005735-II-0129 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/890825/2022
+Adopted Reference Number: EMA/890825/2022
 
 English (EN) (3.26 MB - PDF)
 
@@ -1353,9 +931,7 @@ English (EN) (3.26 MB - PDF)
 
 Comirnaty-H-C-005735-II-0140 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/890789/2022
+Adopted Reference Number: EMA/890789/2022
 
 English (EN) (9.32 MB - PDF)
 
@@ -1365,9 +941,7 @@ English (EN) (9.32 MB - PDF)
 
 Comirnaty-H-C-005735-X-0138 : EPAR - Assessment report - Extension
 
-Adopted
-
-Reference Number: EMA/890761/2022
+Adopted Reference Number: EMA/890761/2022
 
 English (EN) (5.43 MB - PDF)
 
@@ -1377,9 +951,7 @@ English (EN) (5.43 MB - PDF)
 
 Comirnaty-H-C-005735-II-0143 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/895061/2022
+Adopted Reference Number: EMA/895061/2022
 
 English (EN) (3.52 MB - PDF)
 
@@ -1389,9 +961,7 @@ English (EN) (3.52 MB - PDF)
 
 Comirnaty-H-C-5735-X-0147 : EPAR - Assessment report - Extension
 
-Adopted
-
-Reference Number: EMA/889536/2022
+Adopted Reference Number: EMA/889536/2022
 
 English (EN) (1.01 MB - PDF)
 
@@ -1401,9 +971,7 @@ English (EN) (1.01 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Comirnaty (X-147)
 
-Adopted
-
-Reference Number: EMA/873797/2022
+Adopted Reference Number: EMA/873797/2022
 
 English (EN) (132.71 KB - PDF)
 
@@ -1413,9 +981,7 @@ English (EN) (132.71 KB - PDF)
 
 Comirnaty-H-C-5735-R-0137 : EPAR - Assessment report - Renewal
 
-Adopted
-
-Reference Number: EMA/853699/2022
+Adopted Reference Number: EMA/853699/2022
 
 English (EN) (956.53 KB - PDF)
 
@@ -1425,9 +991,7 @@ English (EN) (956.53 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Comirnaty (X-0138)
 
-Adopted
-
-Reference Number: EMA/838787/2022
+Adopted Reference Number: EMA/838787/2022
 
 English (EN) (132.12 KB - PDF)
 
@@ -1437,9 +1001,7 @@ English (EN) (132.12 KB - PDF)
 
 Comirnaty-H-C-5735-II-0111 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/134030/2022
+Adopted Reference Number: EMA/134030/2022
 
 English (EN) (272.3 KB - PDF)
 
@@ -1449,9 +1011,7 @@ English (EN) (272.3 KB - PDF)
 
 Comirnaty-H-C-5735-II-0093 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/134008/2022
+Adopted Reference Number: EMA/134008/2022
 
 English (EN) (2.36 MB - PDF)
 
@@ -1461,23 +1021,17 @@ English (EN) (2.36 MB - PDF)
 
 Comirnaty-H-C-5735-X-0077 : EPAR - Assessment report - Extension
 
-Adopted
-
-Reference Number: EMA/719541/2021 Corr.
+Adopted Reference Number: EMA/719541/2021 Corr.
 
 English (EN) (4.9 MB - PDF)
 
-**First published:** 15/12/2021
-
-**Last updated:** 07/01/2022
+**First published:** 15/12/2021 **Last updated:** 07/01/2022
 
 [View](/en/documents/variation-report/comirnaty-h-c-5735-x-0077-epar-assessment-report-extension_en.pdf)
 
 Comirnaty-H-C-5735-X-0044-G : EPAR - Assessment report - Extension
 
-Adopted
-
-Reference Number: EMA/594686/2021
+Adopted Reference Number: EMA/594686/2021
 
 English (EN) (470.38 KB - PDF)
 
@@ -1487,9 +1041,7 @@ English (EN) (470.38 KB - PDF)
 
 Comirnaty-H-C-5735-R-0046 : EPAR - Assessment report - Renewal
 
-Adopted
-
-Reference Number: EMA/596333/2021
+Adopted Reference Number: EMA/596333/2021
 
 English (EN) (1.57 MB - PDF)
 
@@ -1499,9 +1051,7 @@ English (EN) (1.57 MB - PDF)
 
 Comirnaty-H-C-5735-II-0067 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/497785/2021
+Adopted Reference Number: EMA/497785/2021
 
 English (EN) (2.26 MB - PDF)
 
@@ -1511,9 +1061,7 @@ English (EN) (2.26 MB - PDF)
 
 Comirnaty-H-C-5735-II-0062 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/472994/2021
+Adopted Reference Number: EMA/472994/2021
 
 English (EN) (461.93 KB - PDF)
 
@@ -1523,23 +1071,17 @@ English (EN) (461.93 KB - PDF)
 
 Comirnaty-H-C-5735-II-0030 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/282047/2021 Rev.1
+Adopted Reference Number: EMA/CHMP/282047/2021 Rev.1
 
 English (EN) (6.78 MB - PDF)
 
-**First published:** 30/06/2021
-
-**Last updated:** 24/08/2021
+**First published:** 30/06/2021 **Last updated:** 24/08/2021
 
 [View](/en/documents/variation-report/comirnaty-h-c-5735-ii-0030-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Comirnaty (II-30)
 
-Adopted
-
-Reference Number: EMA/303424/2021
+Adopted Reference Number: EMA/303424/2021
 
 English (EN) (153.07 KB - PDF)
 
@@ -1551,23 +1093,17 @@ English (EN) (153.07 KB - PDF)
 
 Comirnaty : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/707383/2020 Corr.2
+Adopted Reference Number: EMA/707383/2020 Corr.2
 
 English (EN) (3.77 MB - PDF)
 
-**First published:** 23/12/2020
-
-**Last updated:** 23/10/2023
+**First published:** 23/12/2020 **Last updated:** 23/10/2023
 
 [View](/en/documents/assessment-report/comirnaty-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Comirnaty
 
-Adopted
-
-Reference Number: EMA/660602/2020
+Adopted Reference Number: EMA/660602/2020
 
 English (EN) (130.67 KB - PDF)
 
@@ -1619,15 +1155,11 @@ English (EN) (35.69 MB - PDF)
 
 COVID-19 vaccines - Safety update: 14 July 2022
 
-Adopted
-
-Reference Number: Rev. 1
+Adopted Reference Number: Rev. 1
 
 English (EN) (263.34 KB - PDF)
 
-**First published:** 14/07/2022
-
-**Last updated:** 09/08/2024
+**First published:** 14/07/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-14-july-2022_en.pdf)
 
@@ -1637,9 +1169,7 @@ Adopted
 
 English (EN) (257.73 KB - PDF)
 
-**First published:** 08/09/2022
-
-**Last updated:** 09/08/2024
+**First published:** 08/09/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-8-september-2022_en.pdf)
 
@@ -1649,9 +1179,7 @@ Adopted
 
 English (EN) (237.65 KB - PDF)
 
-**First published:** 17/03/2022
-
-**Last updated:** 09/08/2024
+**First published:** 17/03/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-17-march-2022_en.pdf)
 
@@ -1661,9 +1189,7 @@ Adopted
 
 English (EN) (237.46 KB - PDF)
 
-**First published:** 06/10/2022
-
-**Last updated:** 09/08/2024
+**First published:** 06/10/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-6-october-2022_en.pdf)
 
@@ -1673,9 +1199,7 @@ Adopted
 
 English (EN) (239.73 KB - PDF)
 
-**First published:** 08/12/2022
-
-**Last updated:** 09/08/2024
+**First published:** 08/12/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-8-december-2022_en.pdf)
 
@@ -1685,9 +1209,7 @@ Adopted
 
 English (EN) (254.94 KB - PDF)
 
-**First published:** 10/11/2022
-
-**Last updated:** 09/08/2024
+**First published:** 10/11/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-10-november-2022_en.pdf)
 
@@ -1697,9 +1219,7 @@ Adopted
 
 English (EN) (214.22 KB - PDF)
 
-**First published:** 12/05/2022
-
-**Last updated:** 09/08/2024
+**First published:** 12/05/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-12-may-2022_en.pdf)
 
@@ -1709,9 +1229,7 @@ Adopted
 
 English (EN) (228.5 KB - PDF)
 
-**First published:** 13/04/2022
-
-**Last updated:** 09/08/2024
+**First published:** 13/04/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-13-april-2022_en.pdf)
 
@@ -1721,9 +1239,7 @@ Adopted
 
 English (EN) (226.15 KB - PDF)
 
-**First published:** 17/02/2022
-
-**Last updated:** 09/08/2024
+**First published:** 17/02/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-17-february-2022_en.pdf)
 
@@ -1733,9 +1249,7 @@ Adopted
 
 English (EN) (249.16 KB - PDF)
 
-**First published:** 17/06/2022
-
-**Last updated:** 09/08/2024
+**First published:** 17/06/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-17-june-2022_en.pdf)
 
@@ -1745,9 +1259,7 @@ Adopted
 
 English (EN) (251.15 KB - PDF)
 
-**First published:** 20/01/2022
-
-**Last updated:** 09/08/2024
+**First published:** 20/01/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-20-january-2022_en.pdf)
 
@@ -1777,9 +1289,7 @@ Adopted
 
 English (EN) (12.79 MB - PDF)
 
-**First published:** 14/08/2023
-
-**Last updated:** 12/10/2023
+**First published:** 14/08/2023 **Last updated:** 12/10/2023
 
 [View](/en/documents/covid-19-vaccine-safety-update/comirnaty-periodic-safety-update-report-assessment-19-december-2021-18-june-2022_en.pdf-0)
 
@@ -1905,111 +1415,207 @@ English (EN) (163.12 KB - PDF)
 
 ## News on Comirnaty
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025) 25/07/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025)
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 4-7 March 2024](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-4-7-march-2024) 08/03/2024
+25/07/2025
 
-[Comirnaty: EMA recommends approval of adapted COVID-19 vaccine targeting Omicron XBB.1.5](/en/news/comirnaty-ema-recommends-approval-adapted-covid-19-vaccine-targeting-omicron-xbb15) 30/08/2023
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 4-7 March 2024](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-4-7-march-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 June 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-june-2023) 23/06/2023
+08/03/2024
 
-[ETF concludes that bivalent original/Omicron BA.4-5 mRNA vaccines may be used for primary vaccination](/en/news/etf-concludes-bivalent-original-omicron-ba4-5-mrna-vaccines-may-be-used-primary-vaccination) 06/12/2022
+[Comirnaty: EMA recommends approval of adapted COVID-19 vaccine targeting Omicron XBB.1.5](/en/news/comirnaty-ema-recommends-approval-adapted-covid-19-vaccine-targeting-omicron-xbb15)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2022) 11/11/2022
+30/08/2023
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 24 - 27 October 2022](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-24-27-october-2022) 28/10/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 June 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-june-2023)
 
-[EMA recommends approval of Comirnaty and Spikevax COVID-19 vaccines for children from 6 months of age](/en/news/ema-recommends-approval-comirnaty-spikevax-covid-19-vaccines-children-6-months-age) 19/10/2022
+23/06/2023
 
-[EMA recommends standard marketing authorisations for Comirnaty and Spikevax COVID-19 vaccines](/en/news/ema-recommends-standard-marketing-authorisations-comirnaty-spikevax-covid-19-vaccines) 16/09/2022
+[ETF concludes that bivalent original/Omicron BA.4-5 mRNA vaccines may be used for primary vaccination](/en/news/etf-concludes-bivalent-original-omicron-ba4-5-mrna-vaccines-may-be-used-primary-vaccination)
 
-[Adapted vaccine targeting BA.4 and BA.5 Omicron variants and original SARS-CoV-2 recommended for approval](/en/news/adapted-vaccine-targeting-ba4-ba5-omicron-variants-original-sars-cov-2-recommended-approval) 12/09/2022
+06/12/2022
 
-[ECDC-EMA statement on booster vaccination with Omicron adapted bivalent COVID-19 vaccines](/en/news/ecdc-ema-statement-booster-vaccination-omicron-adapted-bivalent-covid-19-vaccines) 06/09/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2022)
 
-[First adapted COVID-19 booster vaccines recommended for approval in the EU](/en/news/first-adapted-covid-19-booster-vaccines-recommended-approval-eu) 01/09/2022
+11/11/2022
 
-[Start of rolling review for adapted Comirnaty COVID-19 vaccine](/en/news/start-rolling-review-adapted-comirnaty-covid-19-vaccine) 15/06/2022
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 24 - 27 October 2022](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-24-27-october-2022)
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 4-7 April 2022](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-4-7-april-2022) 08/04/2022
+28/10/2022
 
-[ECDC and EMA issue advice on fourth doses of mRNA COVID-19 vaccines](/en/news/ecdc-ema-issue-advice-fourth-doses-mrna-covid-19-vaccines) 06/04/2022
+[EMA recommends approval of Comirnaty and Spikevax COVID-19 vaccines for children from 6 months of age](/en/news/ema-recommends-approval-comirnaty-spikevax-covid-19-vaccines-children-6-months-age)
 
-[EMA recommends authorisation of booster doses of Comirnaty from 12 years of age](/en/news/ema-recommends-authorisation-booster-doses-comirnaty-12-years-age) 24/02/2022
+19/10/2022
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 7 - 10 February 2022](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-7-10-february-2022) 11/02/2022
+[EMA recommends standard marketing authorisations for Comirnaty and Spikevax COVID-19 vaccines](/en/news/ema-recommends-standard-marketing-authorisations-comirnaty-spikevax-covid-19-vaccines)
 
-[EMA evaluating data on booster dose of COVID-19 vaccine Comirnaty in adolescents](/en/news/ema-evaluating-data-booster-dose-covid-19-vaccine-comirnaty-adolescents) 08/02/2022
+16/09/2022
 
-[COVID-19: latest safety data provide reassurance about use of mRNA vaccines during pregnancy](/en/news/covid-19-latest-safety-data-provide-reassurance-about-use-mrna-vaccines-during-pregnancy) 18/01/2022
+[Adapted vaccine targeting BA.4 and BA.5 Omicron variants and original SARS-CoV-2 recommended for approval](/en/news/adapted-vaccine-targeting-ba4-ba5-omicron-variants-original-sars-cov-2-recommended-approval)
 
-[Increase in manufacturing capacity for COVID-19 vaccines from Janssen, Moderna and BioNTech/Pfizer](/en/news/increase-manufacturing-capacity-covid-19-vaccines-janssen-moderna-biontech-pfizer) 16/12/2021
+12/09/2022
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 29 November - 2 December 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-29-november-2-december-2021) 03/12/2021
+[ECDC-EMA statement on booster vaccination with Omicron adapted bivalent COVID-19 vaccines](/en/news/ecdc-ema-statement-booster-vaccination-omicron-adapted-bivalent-covid-19-vaccines)
 
-[Comirnaty COVID-19 vaccine: EMA recommends approval for children aged 5 to 11](/en/news/comirnaty-covid-19-vaccine-ema-recommends-approval-children-aged-5-11) 25/11/2021
+06/09/2022
 
-[EMA starts evaluating use of COVID-19 vaccine Comirnaty in children aged 5 to 11](/en/news/ema-starts-evaluating-use-covid-19-vaccine-comirnaty-children-aged-5-11) 18/10/2021
+[First adapted COVID-19 booster vaccines recommended for approval in the EU](/en/news/first-adapted-covid-19-booster-vaccines-recommended-approval-eu)
 
-[New manufacturing sites and new formulation approved for COVID-19 vaccine from BioNTech/Pfizer](/en/news/new-manufacturing-sites-and-new-formulation-approved-covid-19-vaccine-biontech-pfizer) 18/10/2021
+01/09/2022
 
-[Comirnaty and Spikevax: EMA recommendations on extra doses and boosters](/en/news/comirnaty-spikevax-ema-recommendations-extra-doses-boosters) 04/10/2021
+[Start of rolling review for adapted Comirnaty COVID-19 vaccine](/en/news/start-rolling-review-adapted-comirnaty-covid-19-vaccine)
 
-[Increase in manufacturing capacity for COVID-19 vaccine from BioNTech/Pfizer](/en/news/increase-manufacturing-capacity-covid-19-vaccine-biontech-pfizer) 09/09/2021
+15/06/2022
 
-[EMA evaluating data on booster dose of COVID-19 vaccine Comirnaty](/en/news/ema-evaluating-data-booster-dose-covid-19-vaccine-comirnaty) 06/09/2021
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 4-7 April 2022](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-4-7-april-2022)
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 30 August - 2 September 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-30-august-2-september-2021) 03/09/2021
+08/04/2022
 
-[Increase in vaccine manufacturing capacity for COVID-19 vaccines from BioNTech / Pfizer and Moderna](/en/news/increase-vaccine-manufacturing-capacity-covid-19-vaccines-biontech-pfizer-and-moderna) 24/08/2021
+[ECDC and EMA issue advice on fourth doses of mRNA COVID-19 vaccines](/en/news/ecdc-ema-issue-advice-fourth-doses-mrna-covid-19-vaccines)
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 5-8 July 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-5-8-july-2021) 09/07/2021
+06/04/2022
 
-[Comirnaty and Spikevax: possible link to very rare cases of myocarditis and pericarditis](/en/news/comirnaty-spikevax-possible-link-very-rare-cases-myocarditis-pericarditis) 09/07/2021
+[EMA recommends authorisation of booster doses of Comirnaty from 12 years of age](/en/news/ema-recommends-authorisation-booster-doses-comirnaty-12-years-age)
 
-[Two additional manufacturing sites for BioNTech/Pfizer's COVID-19 vaccine](/en/news/two-additional-manufacturing-sites-biontech-pfizers-covid-19-vaccine) 22/06/2021
+24/02/2022
 
-[COVID-19 vaccines: update on ongoing evaluation of myocarditis and pericarditis](/en/news/covid-19-vaccines-update-ongoing-evaluation-myocarditis-pericarditis) 11/06/2021
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 7 - 10 February 2022](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-7-10-february-2022)
 
-[Additional manufacturing capacity for BioNTech/Pfizer's COVID-19 vaccine](/en/news/additional-manufacturing-capacity-biontech-pfizers-covid-19-vaccine) 01/06/2021
+11/02/2022
 
-[First COVID-19 vaccine approved for children aged 12 to 15 in EU](/en/news/first-covid-19-vaccine-approved-children-aged-12-15-eu) 28/05/2021
+[EMA evaluating data on booster dose of COVID-19 vaccine Comirnaty in adolescents](/en/news/ema-evaluating-data-booster-dose-covid-19-vaccine-comirnaty-adolescents)
 
-[More flexible storage conditions for BioNTech/Pfizer's COVID-19 vaccine](/en/news/more-flexible-storage-conditions-biontech-pfizers-covid-19-vaccine) 17/05/2021
+08/02/2022
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 3-6 May 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-3-6-may-2021) 07/05/2021
+[COVID-19: latest safety data provide reassurance about use of mRNA vaccines during pregnancy](/en/news/covid-19-latest-safety-data-provide-reassurance-about-use-mrna-vaccines-during-pregnancy)
 
-[EMA starts evaluating use of COVID-19 vaccine Comirnaty in young people aged 12 to 15](/en/news/ema-starts-evaluating-use-covid-19-vaccine-comirnaty-young-people-aged-12-15) 03/05/2021
+18/01/2022
 
-[Increase in vaccine manufacturing capacity and supply for COVID-19 vaccines from BioNTech/Pfizer and Moderna](/en/news/increase-vaccine-manufacturing-capacity-supply-covid-19-vaccines-biontech-pfizer-moderna) 23/04/2021
+[Increase in manufacturing capacity for COVID-19 vaccines from Janssen, Moderna and BioNTech/Pfizer](/en/news/increase-manufacturing-capacity-covid-19-vaccines-janssen-moderna-biontech-pfizer)
 
-[Increase in vaccine manufacturing capacity and supply for COVID-19 vaccines from AstraZeneca, BioNTech/Pfizer and Moderna](/en/news/increase-vaccine-manufacturing-capacity-supply-covid-19-vaccines-astrazeneca-biontech-pfizer-moderna) 26/03/2021
+16/12/2021
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 8-11 March 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-march-2021) 12/03/2021
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 29 November - 2 December 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-29-november-2-december-2021)
 
-[First COVID-19 vaccine safety update published](/en/news/first-covid-19-vaccine-safety-update-published) 29/01/2021
+03/12/2021
 
-[Clarification of Comirnaty dosage interval](/en/news/clarification-comirnaty-dosage-interval) 28/01/2021
+[Comirnaty COVID-19 vaccine: EMA recommends approval for children aged 5 to 11](/en/news/comirnaty-covid-19-vaccine-ema-recommends-approval-children-aged-5-11)
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 11-14 January 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-11-14-january-2021) 15/01/2021
+25/11/2021
 
-[Extra dose from vials of Comirnaty COVID-19 vaccine](/en/news/extra-dose-vials-comirnaty-covid-19-vaccine) 08/01/2021
+[EMA starts evaluating use of COVID-19 vaccine Comirnaty in children aged 5 to 11](/en/news/ema-starts-evaluating-use-covid-19-vaccine-comirnaty-children-aged-5-11)
 
-[EMA recommends first COVID-19 vaccine for authorisation in the EU](/en/news/ema-recommends-first-covid-19-vaccine-authorisation-eu) 21/12/2020
+18/10/2021
 
-[Update on assessment of the BioNTech and Pfizer BNT162b2 vaccine marketing authorisation application](/en/news/update-assessment-biontech-pfizer-bnt162b2-vaccine-marketing-authorisation-application) 15/12/2020
+[New manufacturing sites and new formulation approved for COVID-19 vaccine from BioNTech/Pfizer](/en/news/new-manufacturing-sites-and-new-formulation-approved-covid-19-vaccine-biontech-pfizer)
 
-[EMA receives application for conditional marketing authorisation of COVID-19 mRNA vaccine BNT162b2](/en/news/ema-receives-application-conditional-marketing-authorisation-covid-19-mrna-vaccine-bnt162b2) 01/12/2020
+18/10/2021
 
-[EMA starts second rolling review of a COVID-19 vaccine](/en/news/ema-starts-second-rolling-review-covid-19-vaccine) 06/10/2020
+[Comirnaty and Spikevax: EMA recommendations on extra doses and boosters](/en/news/comirnaty-spikevax-ema-recommendations-extra-doses-boosters)
+
+04/10/2021
+
+[Increase in manufacturing capacity for COVID-19 vaccine from BioNTech/Pfizer](/en/news/increase-manufacturing-capacity-covid-19-vaccine-biontech-pfizer)
+
+09/09/2021
+
+[EMA evaluating data on booster dose of COVID-19 vaccine Comirnaty](/en/news/ema-evaluating-data-booster-dose-covid-19-vaccine-comirnaty)
+
+06/09/2021
+
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 30 August - 2 September 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-30-august-2-september-2021)
+
+03/09/2021
+
+[Increase in vaccine manufacturing capacity for COVID-19 vaccines from BioNTech / Pfizer and Moderna](/en/news/increase-vaccine-manufacturing-capacity-covid-19-vaccines-biontech-pfizer-and-moderna)
+
+24/08/2021
+
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 5-8 July 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-5-8-july-2021)
+
+09/07/2021
+
+[Comirnaty and Spikevax: possible link to very rare cases of myocarditis and pericarditis](/en/news/comirnaty-spikevax-possible-link-very-rare-cases-myocarditis-pericarditis)
+
+09/07/2021
+
+[Two additional manufacturing sites for BioNTech/Pfizer's COVID-19 vaccine](/en/news/two-additional-manufacturing-sites-biontech-pfizers-covid-19-vaccine)
+
+22/06/2021
+
+[COVID-19 vaccines: update on ongoing evaluation of myocarditis and pericarditis](/en/news/covid-19-vaccines-update-ongoing-evaluation-myocarditis-pericarditis)
+
+11/06/2021
+
+[Additional manufacturing capacity for BioNTech/Pfizer's COVID-19 vaccine](/en/news/additional-manufacturing-capacity-biontech-pfizers-covid-19-vaccine)
+
+01/06/2021
+
+[First COVID-19 vaccine approved for children aged 12 to 15 in EU](/en/news/first-covid-19-vaccine-approved-children-aged-12-15-eu)
+
+28/05/2021
+
+[More flexible storage conditions for BioNTech/Pfizer's COVID-19 vaccine](/en/news/more-flexible-storage-conditions-biontech-pfizers-covid-19-vaccine)
+
+17/05/2021
+
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 3-6 May 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-3-6-may-2021)
+
+07/05/2021
+
+[EMA starts evaluating use of COVID-19 vaccine Comirnaty in young people aged 12 to 15](/en/news/ema-starts-evaluating-use-covid-19-vaccine-comirnaty-young-people-aged-12-15)
+
+03/05/2021
+
+[Increase in vaccine manufacturing capacity and supply for COVID-19 vaccines from BioNTech/Pfizer and Moderna](/en/news/increase-vaccine-manufacturing-capacity-supply-covid-19-vaccines-biontech-pfizer-moderna)
+
+23/04/2021
+
+[Increase in vaccine manufacturing capacity and supply for COVID-19 vaccines from AstraZeneca, BioNTech/Pfizer and Moderna](/en/news/increase-vaccine-manufacturing-capacity-supply-covid-19-vaccines-astrazeneca-biontech-pfizer-moderna)
+
+26/03/2021
+
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 8-11 March 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-march-2021)
+
+12/03/2021
+
+[First COVID-19 vaccine safety update published](/en/news/first-covid-19-vaccine-safety-update-published)
+
+29/01/2021
+
+[Clarification of Comirnaty dosage interval](/en/news/clarification-comirnaty-dosage-interval)
+
+28/01/2021
+
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 11-14 January 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-11-14-january-2021)
+
+15/01/2021
+
+[Extra dose from vials of Comirnaty COVID-19 vaccine](/en/news/extra-dose-vials-comirnaty-covid-19-vaccine)
+
+08/01/2021
+
+[EMA recommends first COVID-19 vaccine for authorisation in the EU](/en/news/ema-recommends-first-covid-19-vaccine-authorisation-eu)
+
+21/12/2020
+
+[Update on assessment of the BioNTech and Pfizer BNT162b2 vaccine marketing authorisation application](/en/news/update-assessment-biontech-pfizer-bnt162b2-vaccine-marketing-authorisation-application)
+
+15/12/2020
+
+[EMA receives application for conditional marketing authorisation of COVID-19 mRNA vaccine BNT162b2](/en/news/ema-receives-application-conditional-marketing-authorisation-covid-19-mrna-vaccine-bnt162b2)
+
+01/12/2020
+
+[EMA starts second rolling review of a COVID-19 vaccine](/en/news/ema-starts-second-rolling-review-covid-19-vaccine)
+
+06/10/2020
 
 ## Signal assessment report
 
 Signal assessment report on myocarditis, pericarditis with Tozinameran (COVID-19 mRNA vaccine (nucleosidemodified) - Comirnaty)
 
-Adopted
-
-Reference Number: EMA/PRAC/575791/2021
+Adopted Reference Number: EMA/PRAC/575791/2021
 
 English (EN) (1.62 MB - PDF)
 
@@ -2019,9 +1625,7 @@ English (EN) (1.62 MB - PDF)
 
 Updated signal assessment report on myocarditis, pericarditis with Tozinameran (COVID-19 mRNA vaccine (nucleoside-modified) - Comirnaty)
 
-Adopted
-
-Reference Number: EMA/PRAC/325882/2021
+Adopted Reference Number: EMA/PRAC/325882/2021
 
 English (EN) (2.02 MB - PDF)
 
@@ -2031,9 +1635,7 @@ English (EN) (2.02 MB - PDF)
 
 Signal assessment report on heavy menstrual bleeding with tozinameran / Comirnaty (COVID-19 mRNA vaccine)
 
-Adopted
-
-Reference Number: EMA/PRAC/897622/2022
+Adopted Reference Number: EMA/PRAC/897622/2022
 
 English (EN) (1.39 MB - PDF)
 
@@ -2089,19 +1691,15 @@ Comirnaty : 2.3.P drug product
 
 English (EN) (3.84 MB - ZIP)
 
-**First published:** 25/07/2025
-
-**Last updated:** 19/11/2025
+**First published:** 25/07/2025 **Last updated:** 19/11/2025
 
 [View](/en/documents/other/comirnaty-23p-drug-product_en.zip)
 
 Comirnaty : 2.3.S drug substance
 
-English (EN) (15.46 MB - ZIP)
+English (EN) (20.14 MB - ZIP)
 
-**First published:** 25/07/2025
-
-**Last updated:** 27/02/2026
+**First published:** 25/07/2025 **Last updated:** 31/03/2026
 
 [View](/en/documents/other/comirnaty-23s-drug-substance_en.zip)
 
@@ -2121,9 +1719,7 @@ Comirnaty : 2.6. non-clinical summary
 
 English (EN) (10.54 MB - ZIP)
 
-**First published:** 30/06/2025
-
-**Last updated:** 28/11/2025
+**First published:** 30/06/2025 **Last updated:** 28/11/2025
 
 [View](/en/documents/other/comirnaty-26-non-clinical-summary_en.zip)
 
@@ -2143,9 +1739,7 @@ Comirnaty : 3.2.P drug product
 
 English (EN) (76.52 MB - ZIP)
 
-**First published:** 20/08/2025
-
-**Last updated:** 19/12/2025
+**First published:** 20/08/2025 **Last updated:** 19/12/2025
 
 [View](/en/documents/other/comirnaty-32p-drug-product_en.zip)
 
@@ -2153,9 +1747,7 @@ Comirnaty : 3.2.S Drug substance
 
 English (EN) (53.52 MB - ZIP)
 
-**First published:** 02/09/2025
-
-**Last updated:** 19/12/2025
+**First published:** 02/09/2025 **Last updated:** 19/12/2025
 
 [View](/en/documents/other/comirnaty-32s-drug-substance_en.zip)
 
@@ -2163,9 +1755,7 @@ Comirnaty : 3.2.S.2.2 description of manufacturing process
 
 English (EN) (7.72 MB - ZIP)
 
-**First published:** 17/07/2025
-
-**Last updated:** 25/07/2025
+**First published:** 17/07/2025 **Last updated:** 25/07/2025
 
 [View](/en/documents/other/comirnaty-32s22-description-manufacturing-process_en.zip)
 
@@ -2173,9 +1763,7 @@ Comirnaty : 3.2.S.2.3 control of materials
 
 English (EN) (6 MB - ZIP)
 
-**First published:** 17/07/2025
-
-**Last updated:** 25/07/2025
+**First published:** 17/07/2025 **Last updated:** 25/07/2025
 
 [View](/en/documents/other/comirnaty-32s23-control-materials_en.zip)
 
@@ -2250,11 +1838,11 @@ English (EN) (813.79 KB - PDF)
 - [EMA/PE/0000221583 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000221583)
 - [Comirnaty / Spikevax (previously COVID-19 Vaccine Moderna) - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/comirnaty-spikevax-previously-covid-19-vaccine-moderna)
 - [Non-Interventional Postmarketing Safety Study of the COMIRNATY 2025-2026 Formula (LP.8.1) in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000932)
+- [id.DRIVE (former COVIDRIVE) study of brand-specific COVID-19 vaccine effectiveness against severe COVID-19 disease in Europe - post-authorisation study](https://catalogues.ema.europa.eu/study/49374)
 - [Post Conditional Approval Active Surveillance Study Among Individuals in Europe Receiving the Pfizer-BioNTech Coronavirus Disease 2019 (COVID-19) Vaccine - post-authorisation study](https://catalogues.ema.europa.eu/study/46939)
 - [Human genetics of myocarditis: overall, after mRNA COVID-19 vaccination, and after SARS-CoV-2 infection - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000728)
 - [Assessment of risk factors for Myocarditis in the United States (US) using Electronic Health Records and Claims data - post-authorisation study](https://catalogues.ema.europa.eu/study/104404)
 - [Post-Authorisation Active Surveillance Study of Myocarditis and Pericarditis Among Individuals in Europe Receiving the Pfizer-BioNTech Coronavirus Disease 2019 (COVID-19) Vaccine - post-authorisation study](https://catalogues.ema.europa.eu/study/47709)
-- [id.DRIVE (former COVIDRIVE) study of brand-specific COVID-19 vaccine effectiveness against severe COVID-19 disease in Europe - post-authorisation study](https://catalogues.ema.europa.eu/study/49374)
 - [Interim Analysis of Myocarditis and Pericarditis Associated with COMIRNATY in Persons Less Than 21 Years of Age - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000600)
 - [Post-Authorisation Safety Study of Comirnaty Original/Omicron BA.1 and Comirnaty Original/Omicron BA.4-5 in Europe - post-authorisation study](https://catalogues.ema.europa.eu/study/199012)
 - [Post-Authorisation Safety Study of Comirnaty Original/Omicron BA.1 and Comirnaty Original/Omicron BA.4-5 in Europe - post-authorisation study](https://catalogues.ema.europa.eu/study/199012)
@@ -2273,8 +1861,8 @@ English (EN) (813.79 KB - PDF)
 - [A Non-Interventional Post-Authorization Safety Study (PASS) for Active Safety Surveillance of Recipients of the Pfizer-BioNTech COVID-19 mRNA vaccine in the EU - post-authorisation study](https://catalogues.ema.europa.eu/study/47010)
 - [Real-world effectiveness of different COVID-19 vaccines in Spain: a cohort study based on public electronic health records (BIFAP) (effectiveness of COVID-19 vaccines in Spain) - post-authorisation study](https://catalogues.ema.europa.eu/study/42710)
 
-**This page was last updated on** 17/03/2026
+**This page was last updated on**
+
+31/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

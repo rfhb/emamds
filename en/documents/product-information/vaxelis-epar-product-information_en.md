@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-16 15:55:28
+document_datetime: 2026-03-31 14:02:41
 document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vaxelis-epar-product-information_en.pdf
 document_name: vaxelis-epar-product-information_en.pdf
 version: success
-processing_time: 10.6035393
-conversion_datetime: 2026-02-18 17:52:54.464643
+processing_time: 9.7355543
+conversion_datetime: 2026-04-01 12:34:07.19303
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -32,22 +32,22 @@ Diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), polio
 
 One dose (0.5 mL) contains:
 
-| Diphtheria Toxoid 1                          | not less than 20 IU 6   |
-|----------------------------------------------|-------------------------|
-| Tetanus Toxoid 1                             | not less than 40 IU 6   |
-| Bordetella pertussis antigens 1              |                         |
-| Pertussis Toxoid (PT)                        | 20 micrograms           |
-| Filamentous Haemagglutinin (FHA)             | 20 micrograms           |
-| Pertactin (PRN)                              | 3 micrograms            |
-| Fimbriae Types 2 and 3 (FIM)                 | 5 micrograms            |
-| HepatitisB surface antigen 2,3               | 10 micrograms           |
-| Poliovirus (Inactivated) 4                   |                         |
-| Type 1 (Mahoney)                             | 29 D antigen units 5    |
-| Type 2 (MEF-1)                               | 7 D antigen units 5     |
-| Type 3 (Saukett)                             | 26 D antigen units 5    |
-| Haemophilus influenzae type b polysaccharide |                         |
-| (Polyribosylribitol Phosphate)               | 3 micrograms            |
-| Conjugated to meningococcal protein 2        | 50 micrograms           |
+| Diphtheria Toxoid 1                          | 15 Lf(≥ 20 IU) 6    |
+|----------------------------------------------|---------------------|
+| Tetanus Toxoid 1                             | 5 Lf(≥ 40 IU) 6     |
+| Bordetella pertussis antigens 1              |                     |
+| Pertussis Toxoid (PT)                        | 20 micrograms       |
+| Filamentous Haemagglutinin (FHA)             | 20 micrograms       |
+| Pertactin (PRN)                              | 3 micrograms        |
+| Fimbriae Types 2 and 3 (FIM)                 | 5 micrograms        |
+| Hepatitis B surface antigen 2,3              | 10 micrograms       |
+| Poliovirus (Inactivated) 4                   |                     |
+| Type 1 (Mahoney)                             | 29 D antigen units  |
+| Type 2 (MEF-1)                               | 7 D antigen units 5 |
+| Type 3 (Saukett)                             | 26 D antigen units  |
+| Haemophilus influenzae type b polysaccharide |                     |
+| (Polyribosylribitol Phosphate)               | 3 micrograms        |
+| Conjugated to meningococcal protein 2        | 50 micrograms       |
 
 The vaccine may contain traces of glutaraldehyde, formaldehyde, neomycin, streptomycin, polymyxin B, and bovine serum albumin which are used during the manufacturing process (see section 4.3).
 
@@ -55,9 +55,7 @@ For the full list of  excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Suspension for injection (injection).
-
-Uniform, cloudy, white to off-white suspension.
+Suspension for injection (injection). Uniform, cloudy, white to off-white suspension.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -66,6 +64,10 @@ Uniform, cloudy, white to off-white suspension.
 Vaxelis (DTaP-HB-IPV-Hib) is indicated for primary and booster vaccination in infants and toddlers from the age of 6 weeks, against diphtheria, tetanus, pertussis, hepatitis B, poliomyelitis and invasive diseases caused by Haemophilus influenzae type b (Hib).
 
 The use of Vaxelis should be in accordance with official recommendations.
+
+5
+
+5
 
 <div style=\"page-break-after: always\"></div>
 
@@ -77,7 +79,7 @@ The use of Vaxelis should be in accordance with official recommendations.
 
 The primary vaccination schedule consists of two or three doses, with an interval of at least 1 month between doses, and may be given from 6 weeks of age, in accordance with the official recommendations.
 
-Where a dose of hepatitis B vaccine is given at birth, Vaxelis can be used for supplementary doses of hepatitis B vaccine f rom the age of 6 weeks. If a second dose of hepatitis B vaccine is required before this age, monovalent hepatitis B vaccine should be used. Vaxelis can be used for a mixed hexavalent/pentavalent/hexavalent combined vaccine immunisation schedule.
+Where a dose of hepatitis B vaccine is given at birth, Vaxelis can be used for supplementary doses of hepatitis B vaccine f rom the age of  6 weeks. If a second dose of hepatitis B vaccine is required before this age, monovalent hepatitis B vaccine should be used. Vaxelis can be used for a mixed hexavalent/pentavalent/hexavalent combined vaccine immunisation schedule.
 
 ## Booster vaccination:
 
@@ -85,7 +87,7 @@ After a 2-dose or a 3-dose primary series vaccination with Vaxelis, a booster do
 
 ## Other paediatric population
 
-The safety and efficacy of Vaxelis in infants less than 6 weeks of age have not been established. No data are available.
+The safety and efficacy of Vaxelis in infants less than 6 weeks of  age have not been established. No data are available.
 
 No data are available in older children (see sections 4.8 and 5.1).
 
@@ -97,7 +99,7 @@ For instructions on handling of the medicinal product before administration, see
 
 ## 4.3 Contraindications
 
-History of an anaphylactic reaction after a previous administration of Vaxelis or a vaccine containing the same components or constituents.
+History of an anaphylactic reaction af ter a previous administration of Vaxelis or a vaccine containing the same components or constituents.
 
 Hypersensitivity to the active substances or to any of the excipients listed in section 6.1, or to trace residuals (glutaraldehyde, f ormaldehyde, neomycin, streptomycin, polymyxin B, and bovine serum albumin).
 
@@ -133,7 +135,7 @@ As with all injectable vaccines, appropriate medical treatment and supervision s
 
 As with other vaccines, administration of Vaxelis should be postponed in children suffering from moderate to severe acute disease, with or without fever. The presence of a minor illness and /or lowgrade fever does not constitute a contraindication.
 
-If any of the following events have occurred after administration of a pertussis-containing vaccine, the decision to administer further doses of a pertussis-containing vaccine should be carefully considered:
+If any of the f ollowing events have occurred af ter administration of a pertussis-containing vaccine, the decision to administer further doses of  a pertussis-containing vaccine should be carefully considered:
 
 - Temperature of ≥ 40.5°C within 48 hours, not attributable to another identifiable cause
 - Collapse or shock-like state (hypotonic-hyporesponsive episode [HHE]) within 48 hours of vaccination
@@ -142,13 +144,13 @@ If any of the following events have occurred after administration of a pertussis
 
 There may be some circumstances, such as high incidence of pertussis, when the potential benefits outweigh possible risks.
 
-If  Guillain-Barré syndrome has occurred within 6 weeks of receipt of prior vaccine containing tetanus toxoid, the decision to give any vaccine containing tetanus toxoid, including Vaxelis, should be based on careful consideration of the potential benefits and possible risks.
+If Guillain-Barré syndrome has occurred within 6 weeks of receipt of prior vaccine containing tetanus toxoid, the decision to give any vaccine containing tetanus toxoid, including Vaxelis, should be based on careful consideration of the potential benef its and possible risks.
 
 A history of f ebrile convulsions, a f amily history of convulsions, or Sudden Infant Death Syndrome
 
 <div style=\"page-break-after: always\"></div>
 
-(SIDS) do not constitute a contraindication for the use of Vaxelis. Individuals with a history of f ebrile convulsions should be closely followed up as febrile convulsions may occur within 2 to 3 days post vaccination.
+(SIDS) do not constitute a contraindication for the use of  Vaxelis. Individuals with a history of f ebrile convulsions should be closely followed up as febrile convulsions may occur within 2 to 3 days post vaccination.
 
 Do not administer by intravascular, intradermal or subcutaneous injection.
 
@@ -158,7 +160,7 @@ Do not administer by intravascular, intradermal or subcutaneous injection.
 
 Limited data from 111 pre-term newborn infants in clinical trials indicate that Vaxelis can be given to premature infants. The immune responses to Vaxelis in these infants were generally similar to those of the overall study population. However, a lower immune response may be observed, and the level of clinical protection is unknown.
 
-The potential risk of apnoea and the need for respiratory monitoring for 48-72 hours should be considered when administering the primary immunisation series to very premature infants (born ≤ 28 weeks of gestation) and particularly for those with a previous history of respiratory immaturity. As the benefit of vaccination is high in this group of infants, vaccination should not be withheld or delayed.
+The potential risk of apnoea and the need for respiratory monitoring for 48-72 hours should be considered when administering the primary immunisation series to very premature infants (born ≤ 28 weeks of gestation) and particularly for those with a previous history of respiratory immaturity. As the benefit of  vaccination is high in this group of infants, vaccination should not be withheld or delayed.
 
 ## Genetic Polymorphism
 
@@ -166,7 +168,7 @@ Immune responses to the vaccine have not been studied in the context of genetic 
 
 ## Immunocompromised children
 
-The immunogenicity of the vaccine may be reduced by immunosuppressive treatment or immunodeficiency. It is recommended to postpone vaccination until the end of such treatment or disease. Nevertheless, vaccination of  individuals with chronic immunodeficiency such as HIV infection is recommended even if the antibody response may be limited.
+The immunogenicity of the vaccine may be reduced by immunosuppressive treatment or immunodeficiency. It is recommended to postpone vaccination until the end of such treatment or disease. Nevertheless, vaccination of individuals with chronic immunodeficiency such as HIV infection is recommended even if the antibody response may be limited.
 
 ## Blood disorders
 
@@ -174,7 +176,7 @@ As with all injectable vaccines, the vaccine must be administered with caution t
 
 ## Interf erence with laboratory testing
 
-Since the Hib capsular polysaccharide antigen is excreted in the urine, a f alse positive urine test can be observed using sensitive tests, f or at least 30 days following vaccination. Other tests should be performed in order to conf irm Hib inf ection during this period.
+Since the Hib capsular polysaccharide antigen is excreted in the urine, a false positive urine test can be observed using sensitive tests, f or at least 30 days following vaccination. Other tests should be performed in order to confirm Hib infection during this period.
 
 ## Sodium
 
@@ -196,11 +198,11 @@ Vaxelis should not be mixed with any other vaccine or other parenterally adminis
 
 Immunosuppressive therapy may interfere with the development of expected immune response (see section 4.4).
 
-Due to an increased risk of fever, tenderness at the injection site, change in eating habits and irritability when a dif f erent hexavalent vaccine with a similar reactogenicity prof ile to Vaxelis was coadministered with Meningococcal B vaccine, separate vaccinations can be considered.
+Due to an increased risk of  fever, tenderness at the injection site, change in eating habits and irritability when a dif f erent hexavalent vaccine with a similar reactogenicity prof ile to Vaxelis was coadministered with Meningococcal B vaccine, separate vaccinations can be considered.
 
 ## 4.6 Fertility, pregnancy and lactation
 
-This vaccine is not intended f or administration to women of  child-bearing potential.
+This vaccine is not intended for administration to women of child-bearing potential.
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -216,7 +218,7 @@ The safety of Vaxelis in children over 15 months of age has not been studied in 
 
 In a clinical study where Vaxelis was administered concomitantly with Prevenar 13 (PCV13) as a booster dose of  both vaccines, f ever ≥38.0°C was reported in 52.5% of children, compared to 33.1% to 40.7% of children during the primary series. Fever ≥39.5°C was observed in 3.7% of  children (post -booster) and 0.2% to 0.8% of children (post-primary) receiving Vaxelis with PCV13 (see sections 4.4 and 4.5). Almost all fevers after primary and booster doses were mild or moderate (&lt;39.5°C) and transient (duration of  ≤2 days).
 
-## Tabulated list of  adverse reactions
+## Tabulated list of adverse reactions
 
 The following convention has been used for the classification of adverse reactions:
 
@@ -244,7 +246,7 @@ Not known
 
 (cannot be estimated from the available data)
 
-Table 1: List of Adverse Reactions from clinical trials and post -marketing surveillance
+## Table 1: List of Adverse Reactions from clinical trials and post -marketing surveillance
 
 | MedDRASystem Organ Class             | Frequency   | Adverse Reactions                         |
 |--------------------------------------|-------------|-------------------------------------------|
@@ -295,48 +297,46 @@ Pharmacotherapeutic group: Vaccines, Bacterial and viral vaccines combined, ATC 
 
 ## Immunogenicity after primary series and booster doses
 
-The primary vaccination schedules used in clinical studies were: 2, 4 months of age without hepatitis B vaccination at birth; 2, 3, 4 months of age without hepatitis B vaccination at birth; and 2, 4, 6 months of age with and without hepatitis B vaccination at birth. The booster dose in clinical studies was given at 11-12 months of age after a 2-dose primary series, at 12 months of age after a 3-dose primary series (2, 3, 4 months), and at 15 months of age af ter a 3-dose primary series (2, 4, 6 months). Results obtained for each component of the vaccine are summarised in Table 2 and Table 3.
+The primary vaccination schedules used in clinical studies were: 2, 4 months of  age without hepatitis B vaccination at birth; 2, 3, 4 months of  age without hepatitis B vaccination at birth; and 2, 4, 6 months of age with and without hepatitis B vaccination at birth. The booster dose in clinical studies was given at 11-12 months of age after a 2-dose primary series, at 12 months of age after a 3-dose primary series (2, 3, 4 months), and at 15 months of age af ter a 3-dose primary series (2, 4, 6 months). Results obtained for each component of the vaccine are summarised in Table 2 and Table 3.
 
 Table 2: Seroprotection/Vaccine Response Rates One Month After the Primary Vaccination Series
 
-|                                    |                                          | Two doses   | Three doses    | Three doses    |
-|------------------------------------|------------------------------------------|-------------|----------------|----------------|
-|                                    |                                          | 2, 4 months | 2, 3, 4 months | 2, 4, 6 months |
-| Antibody Thresholds                | Antibody Thresholds                      | N=319-609 % | N=498-550 %    | N=2455-2696 %  |
-| Anti-diphtheria (≥ 0.01 IU/mL)     | Anti-diphtheria (≥ 0.01 IU/mL)           | 98.3        | 99.8           | 99.8           |
-| Anti-tetanus (≥ 0.01 IU/mL)        | Anti-tetanus (≥ 0.01 IU/mL)              | 100.0       | 100.0          | 100.0          |
-| Anti-PT (vaccine response) a       | Anti-PT (vaccine response) a             | 98.1        | 99.4           | 98.9           |
-| Anti-FHA (vaccine response) a      | Anti-FHA (vaccine response) a            | 89.0        | 89.0           | 88.1           |
-| Anti-PRN (vaccine response) a      | Anti-PRN (vaccine response) a            | 80.3        | 86.7           | 84.0           |
-| Anti-FIM (vaccine response) a      | Anti-FIM (vaccine response) a            | 93.3        | 97.2           | 90.0           |
-| Anti-Polio type 1 (≥ 1:8 dilution) | Anti-Polio type 1 (≥ 1:8 dilution)       | 93.8        | 100.0          | 100.0          |
-| Anti-Polio type 2 (≥ 1:8 dilution) | Anti-Polio type 2 (≥ 1:8 dilution)       | 98.0        | 99.8           | 100.0          |
-| Anti-Polio type 3 (≥ 1:8 dilution) | Anti-Polio type 3 (≥ 1:8 dilution)       | 92.9        | 100.0          | 100.0          |
-| Anti-HBs Ag (≥ 10 mIU/mL)          | With hepatitis B vaccination at birth    | /           | /              | 99.8           |
-|                                    | Without hepatitis B vaccination at birth | 98.1        | 97.8           | 97.8 b         |
-| Anti-PRP (≥ 0.15 µg/mL)            | Anti-PRP (≥ 0.15 µg/mL)                  | 96.6        | 98.4           | 98.1           |
+|                                    |                                          | Two doses Three   | doses          | doses          |
+|------------------------------------|------------------------------------------|-------------------|----------------|----------------|
+|                                    |                                          | 2, 4 months       | 2, 3, 4 months | 2, 4, 6 months |
+| Antibody Thresholds                |                                          | N=319-609 %       | N=498-550 %    | N=2455-2696 %  |
+| Anti-diphtheria (≥ 0.01 IU/mL)     | Anti-diphtheria (≥ 0.01 IU/mL)           | 98.3              | 99.8           | 99.8           |
+| Anti-tetanus (≥ 0.01 IU/mL)        | Anti-tetanus (≥ 0.01 IU/mL)              | 100.0             | 100.0          | 100.0          |
+| Anti-PT (vaccine response) a       | Anti-PT (vaccine response) a             | 98.1              | 99.4           | 98.9           |
+| Anti-FHA (vaccine response) a      | Anti-FHA (vaccine response) a            | 89.0              | 89.0           | 88.1           |
+| Anti-PRN (vaccine response) a      | Anti-PRN (vaccine response) a            | 80.3              | 86.7           | 84.0           |
+| Anti-FIM (vaccine response) a      | Anti-FIM (vaccine response) a            | 93.3              | 97.2           | 90.0           |
+| Anti-Polio type 1 (≥ 1:8 dilution) | Anti-Polio type 1 (≥ 1:8 dilution)       | 93.8              | 100.0          | 100.0          |
+| Anti-Polio type 2 (≥ 1:8 dilution) | Anti-Polio type 2 (≥ 1:8 dilution)       | 98.0              | 99.8           | 100.0          |
+| Anti-Polio type 3 (≥ 1:8 dilution) | Anti-Polio type 3 (≥ 1:8 dilution)       | 92.9              | 100.0          | 100.0          |
+| Anti-HBs Ag (≥ 10 mIU/mL)          | With hepatitis B vaccination at birth    | /                 | /              | 99.8           |
+|                                    | Without hepatitis B vaccination at birth | 98.1              | 97.8           | 97.8 b         |
+| Anti-PRP (≥ 0.15 µg/mL)            | Anti-PRP (≥ 0.15 µg/mL)                  | 96.6              | 98.4           | 98.1           |
 
 <div style=\"page-break-after: always\"></div>
 
 Table 3: Seroprotection/Vaccine Response Rates One Month After Booster Vaccination
 
-| Booster at                         | Booster at                         | 11-12 months, after primary doses at 2, 4, months N=377-591   | Booster at 12 months after primary doses at 2, 3, 4 months N=439-551   |
-|------------------------------------|------------------------------------|---------------------------------------------------------------|------------------------------------------------------------------------|
-|                                    | Thresholds                         | %                                                             | %                                                                      |
-| Anti-diphtheria (≥ 0.1 IU/mL)      | Anti-diphtheria (≥ 0.1 IU/mL)      | 98.6                                                          | 99.8                                                                   |
-| Anti-tetanus (≥ 0.1 IU/mL)         | Anti-tetanus (≥ 0.1 IU/mL)         | 99.8                                                          | 100.0                                                                  |
-| Anti-PT (vaccine response) a       | Anti-PT (vaccine response) a       | 99.1                                                          | 99.8                                                                   |
-| Anti-FHA (vaccine response) a      | Anti-FHA (vaccine response) a      | 97.4                                                          | 97.2                                                                   |
-| Anti-PRN (vaccine response) a      | Anti-PRN (vaccine response) a      | 96.9                                                          | 99.3                                                                   |
-| Anti-FIM (vaccine response) a      | Anti-FIM (vaccine response) a      | 98.3                                                          | 99.6                                                                   |
-| Anti-Polio type 1 (≥ 1:8 dilution) | Anti-Polio type 1 (≥ 1:8 dilution) | 99.3                                                          | 99.8                                                                   |
-| Anti-Polio type 2 (≥ 1:8 dilution) | Anti-Polio type 2 (≥ 1:8 dilution) | 99.8                                                          | 100.0                                                                  |
-| Anti-Polio type 3 (≥ 1:8 dilution) | Anti-Polio type 3 (≥ 1:8 dilution) | 99.5                                                          | 100.0                                                                  |
-| Anti-HBs Ag (≥ 10 mIU/mL) b        | Anti-HBs Ag (≥ 10 mIU/mL) b        | 98.1                                                          | 99.6                                                                   |
-| Anti-PRP                           | (≥ 0.15 µg/mL)                     | 99.6                                                          | 99.5                                                                   |
-| Anti-PRP                           | (≥ 1.0 µg/mL)                      | 89.9                                                          | 95.0                                                                   |
-
-a Vaccine response: If pre-dose 1 antibody concentration &lt; LLOQ, then post-booster antibody concentration should be ≥ LLOQ; If pre-dose 1 antibody concentration ≥ LLOQ, then the post-booster antibody concentration should be ≥ pre-dose 1 levels. LLOQ = 4 EU/mL are for anti-PT, anti-PRN and anti-FIM; and LLOQ = 3 EU/mL for anti-FHA b Did not receive hepatitis B vaccine at birth
+|                                    |                                    | Booster at 11-12 months, after primary doses at 2, 4, months   | Booster at 12 months after primary doses at 2, 3, 4 months   |
+|------------------------------------|------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------|
+|                                    | Thresholds                         | N=377-591 %                                                    | N=439-551 %                                                  |
+| Anti-diphtheria (≥ 0.1 IU/mL)      | Anti-diphtheria (≥ 0.1 IU/mL)      | 98.6                                                           | 99.8                                                         |
+| Anti-tetanus (≥ 0.1 IU/mL)         | Anti-tetanus (≥ 0.1 IU/mL)         | 99.8                                                           | 100.0                                                        |
+| Anti-PT (vaccine response) a       | Anti-PT (vaccine response) a       | 99.1                                                           | 99.8                                                         |
+| Anti-FHA (vaccine response) a      | Anti-FHA (vaccine response) a      | 97.4                                                           | 97.2                                                         |
+| Anti-PRN (vaccine response) a      | Anti-PRN (vaccine response) a      | 96.9                                                           | 99.3                                                         |
+| Anti-FIM (vaccine response) a      | Anti-FIM (vaccine response) a      | 98.3                                                           | 99.6                                                         |
+| Anti-Polio type 1 (≥ 1:8 dilution) | Anti-Polio type 1 (≥ 1:8 dilution) | 99.3                                                           | 99.8                                                         |
+| Anti-Polio type 2 (≥ 1:8 dilution) | Anti-Polio type 2 (≥ 1:8 dilution) | 99.8                                                           | 100.0                                                        |
+| Anti-Polio type 3 (≥ 1:8 dilution) | Anti-Polio type 3 (≥ 1:8 dilution) | 99.5                                                           | 100.0                                                        |
+| Anti-HBs Ag (≥ 10 mIU/mL) b        | Anti-HBs Ag (≥ 10 mIU/mL) b        | 98.1                                                           | 99.6                                                         |
+| Anti-PRP                           | (≥ 0.15 µg/mL)                     | 99.6                                                           | 99.5                                                         |
+| Anti-PRP                           | (≥ 1.0 µg/mL)                      | 89.9                                                           | 95.0                                                         |
 
 Regarding PT and FIM, similar response rates and higher GMCs were observed both post-primary and post-booster in comparison to control vaccine. Lower FHA, PRN, IPV1 (Inactivated poliovirus vaccine) and IPV3 immune responses were observed after a 2-dose primary schedule (2, 4 months), although the clinical relevance of these data remains uncertain. Pertussis response rates were similar to the control vaccine for all pertussis antigens af ter the booster dose.
 
@@ -348,18 +348,18 @@ In an open-label study, Vaxelis was given as a booster dose to 167 healthy child
 
 ## Hepatitis B immune memory
 
-The persistence of immune responses was evaluated in children up to 8 years after primary vaccination with Vaxelis. The proportions of these children with antiHBsAg ≥ 10 mIU/mL after having received Vaxelis either at 2, 4, and 11-12 months or at 2, 3, 4, and 12 months of age, respectively, were:
+The persistence of immune responses was evaluated in children up to 8 years after primary vaccination with Vaxelis. The proportions of these children with antiHBsAg ≥ 10 mIU/mL after having received Vaxelis either at 2, 4, and 11-12 months or at 2, 3, 4, and 12 months of  age, respectively, were:
 
 - 65.8% (119 of 181) and 70.2% (134 of 191), respectively, at 4 or 5 years of age;
-- 40.9% (38 of 93) and 49.1% (55 of 112), respectively, at 8 or 9 years of age.
+- 40.9% (38 of 93) and 49.1% (55 of 112), respectively, at 8 or 9 years of  age.
 
-A hepatitis B vaccine challenge dose was given to children 8 or 9 years of age. Approximately 1 month after this challenge dose, the proportions with antiHBsAg ≥ 10 mIU/mL were 100% (93 of 93) and 99.1% (108 of 109), respectively. These data demonstrate an anamnestic response after a challenge dose, indicating the persistence of hepatitis B immune memory in persons who previously received Vaxelis.
+A hepatitis B vaccine challenge dose was given to children 8 or 9 years of  age. Approximately 1 month after this challenge dose, the proportions with antiHBsAg ≥ 10 mIU/mL were 100% (93 of 93) and 99.1% (108 of 109), respectively. These data demonstrate an anamnestic response after a challenge dose, indicating the persistence of hepatitis B immune memory in persons who previously received Vaxelis.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Persistence of antibodies to pertussis antigens
 
-The persistence of pertussis antibodies was measured in children 4 or 5 years of age who had received Vaxelis at 2, 4, and 11-12 months of age. The percentages of these children with anti-pertussis antibodies ≥ the lower limit of  quantif ication were: anti-PT 58.4%, anti-FHA 80.9%, anti-PRN 66.1%, and anti-FIM 94.4%.
+The persistence of pertussis antibodies was measured in children 4 or 5 years of  age who had received Vaxelis at 2, 4, and 11-12 months of age. The percentages of these children with anti-pertussis antibodies ≥ the lower limit of  quantif ication were: anti-PT 58.4%, anti-FHA 80.9%, anti-PRN 66.1%, and anti-FIM 94.4%.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -373,7 +373,9 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 ## 6.1 List of excipients
 
-Sodium phosphate Water for injections
+Sodium phosphate
+
+Water for injections
 
 For adjuvants, see section 2.
 
@@ -391,19 +393,19 @@ Store in a ref rigerator (2°C -8°C).
 
 Do not freeze.
 
-Keep the pre-filled syringe in the outer carton in order to protect f rom light.
+Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 Stability data indicate that the vaccine is stable at temperatures up to 25°C for 228 hours. At the end of this period Vaxelis should be used or discarded. These data are intended to guide healthcare professionals in case of a temporary temperature excursion only.
 
 ## 6.5 Nature and contents of container
 
-0.5 mL suspension in pre-f illed syringe (type I glass) with plunger stopper (butyl) and tip cap (butyl), without needle -pack size of 1 or 10.
+0.5 mL suspension in pre-filled syringe (type I glass) with plunger stopper (butyl) and tip cap (butyl), without needle -pack size of 1 or 10.
 
-0.5 mL suspension in pre-f illed syringe (type I glass) with plunger stopper (butyl) and tip cap (butyl), without needle -multipack of 5 packs of 10.
+0.5 mL suspension in pre-filled syringe (type I glass) with plunger stopper (butyl) and tip cap (butyl), without needle -multipack of 5 packs of 10.
 
-0.5 mL suspension in pre-f illed syringe (type I glass) with plunger stopper (butyl) and tip cap (butyl), with 1 separate needle -pack size of 1 or 10.
+0.5 mL suspension in pre-filled syringe (type I glass) with plunger stopper (butyl) and tip cap (butyl), with 1 separate needle -pack size of 1 or 10.
 
-0.5 mL suspension in pre-f illed syringe (type I glass) with plunger stopper (butyl) and tip cap (butyl), with 2 separate needles -pack size of 1 or 10.
+0.5 mL suspension in pre-filled syringe (type I glass) with plunger stopper (butyl) and tip cap (butyl), with 2 separate needles -pack size of 1 or 10.
 
 Not all pack sizes may be marketed.
 
@@ -413,11 +415,11 @@ Not all pack sizes may be marketed.
 
 ## Instructions for use
 
-Prior to administration, the pre-f illed syringe should be shaken gently in order to obtain a homogeneous, whitish, cloudy suspension.
+Prior to administration, the pre-filled syringe should be shaken gently in order to obtain a homogeneous, whitish, cloudy suspension.
 
-The suspension should be visually inspected, prior to administration, f or foreign particulate matter and/or variation of physical appearance. If either is observed, discard the pre-filled syringe.
+The suspension should be visually inspected, prior to administration, for foreign particulate matter and/or variation of physical appearance. If either is observed, discard the pre-filled syringe.
 
-The needle must be fitted f irmly on to the pre-filled syringe, rotating it by a one-quarter turn.
+The needle must be fitted firmly on to the pre-f illed syringe, rotating it by a one-quarter turn.
 
 ## Disposal
 
@@ -425,7 +427,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-MCM Vaccine B.V. Robert Boyleweg 4 2333 CG Leiden The Netherlands
+MCM Vaccine B.V. Robert Boyleweg 4 2333 CG Leiden
+
+The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -439,9 +443,9 @@ Date of latest renewal: 24 September 2020
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-## {MM/YYYY}
+{MM/YYYY}
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of  the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -449,9 +453,7 @@ Detailed information on this medicinal product is available on the website of th
 
 - A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCES AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -494,7 +496,7 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
+- At the request of  the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
@@ -515,7 +517,7 @@ Carton for prefilled syringe without needle, with one separate needle, with two 
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vaxelis suspension f or injection in pre-f illed syringe
+Vaxelis suspension for injection in pre-f illed syringe
 
 Diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), poliomyelitis (inactivated), and Haemophilus type b conjugate vaccine (adsorbed).
 
@@ -523,22 +525,22 @@ DTaP-HB-IPV-Hib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-| 1 dose (0.5 mL):                                                                |               |
-|---------------------------------------------------------------------------------|---------------|
-| Diphtheria Toxoid 1                                                             | ≥ 20 IU       |
-| Tetanus Toxoid 1                                                                | ≥ 40 IU       |
-| Bordetella pertussis antigens 1                                                 |               |
-| (Pertussis Toxoid/Filamentous Haemagglutinin/ Fimbriae types 2 and 3/Pertactin) | 20/20/5/3 µg  |
-| HepatitisB surface antigen 2                                                    | 10 µg         |
-| Poliovirus (Inactivated) Types 1/2/3                                            | 29/7/26DU     |
-| Haemophilus influenzae type b polysaccharide                                    | 3 µg          |
-| conjugated to meningococcal protein 2                                           | 50 µg         |
-| 1 adsorbed on AlPO 4                                                            | 0.17 mg Al 3+ |
-| 2 adsorbed on AlHO 9 PS -3                                                      | 0.15 mg Al 3+ |
+| 1 dose (0.5 mL):                                                                |                 |
+|---------------------------------------------------------------------------------|-----------------|
+| Diphtheria Toxoid 1                                                             | 15 Lf( ≥ 20 IU) |
+| Tetanus Toxoid 1                                                                | 5 Lf( ≥ 40 IU)  |
+| Bordetella pertussis antigens 1                                                 |                 |
+| (Pertussis Toxoid/Filamentous Haemagglutinin/ Fimbriae types 2 and 3/Pertactin) | 20/20/5/3 µg    |
+| Hepatitis B surface antigen 2                                                   | 10 µg           |
+| Poliovirus (Inactivated) Types 1/2/3                                            | 29/7/26DU       |
+| Haemophilus influenzae type b polysaccharide                                    | 3 µg            |
+| conjugated to meningococcal protein 2                                           | 50 µg           |
+| 1 adsorbed on AlPO 4                                                            | 0.17 mg Al 3+   |
+| 2 adsorbed on AlHO 9 PS -3                                                      | 0.15 mg Al 3+   |
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients:
+## Excipients:
 
 Sodium phosphate
 
@@ -548,17 +550,17 @@ Water for injections
 
 ## Suspension for injection
 
-1 pre-f illed syringe (0.5 mL) without needle
+1 pre-filled syringe (0.5 mL) without needle
 
 10 pre-filled syringes (0.5 mL) without needle
 
-1 pre-filled syringe (0.5 mL) with 1 needle
+1 pre-f illed syringe (0.5 mL) with 1 needle
 
-1 pre-filled syringe (0.5 mL) with 2 needles
+- 1 pre-f illed syringe (0.5 mL) with 2 needles
 
 10 pre-filled syringes (0.5 mL) with 10 needles
 
-10 pre-filled syringes (0.5 mL) with 20 needles
+- 10 pre-filled syringes (0.5 mL) with 20 needles
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -582,19 +584,13 @@ EXP
 
 Store in a ref rigerator. Do not f reeze.
 
-Keep the vaccine in the outer carton in order to protect f rom light.
+Keep the vaccine in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-MCM Vaccine B.V.
-
-Robert Boyleweg 4
-
-2333 CG Leiden
-
-The Netherlands
+MCM Vaccine B.V. Robert Boyleweg 4 2333 CG Leiden The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -627,8 +623,8 @@ Lot
 
 Justif ication f or not including Braille accepted
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -645,7 +641,7 @@ Carton for prefilled syringes without needle. Pack of 10 (without blue box). Com
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vaxelis suspension f or injection in pre-f illed syringe
+Vaxelis suspension for injection in pre-f illed syringe
 
 Diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), poliomyelitis (inactivated), and Haemophilus type b conjugate vaccine (adsorbed).
 
@@ -653,18 +649,18 @@ DTaP-HB-IPV-Hib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-| 1 dose (0.5 mL)                                                                 |               |
-|---------------------------------------------------------------------------------|---------------|
-| Diphtheria Toxoid 1                                                             | ≥ 20 IU       |
-| Tetanus Toxoid 1                                                                | ≥ 40 IU       |
-| Bordetella pertussis antigens 1                                                 |               |
-| (Pertussis Toxoid/Filamentous Haemagglutinin/ Fimbriae types 2 and 3/Pertactin) | 20/20/5/3 µg  |
-| HepatitisB surface antigen 2                                                    | 10 µg         |
-| Poliovirus (Inactivated) Types 1/2/3                                            | 29/7/26DU     |
-| Haemophilus influenzae type b polysaccharide                                    | 3 µg          |
-| conjugated to meningococcal protein 2                                           | 50 µg         |
-| 1 adsorbed on AlPO 4                                                            | 0.17 mg Al 3+ |
-| 2 adsorbed on AlHO 9 PS -3                                                      | 0.15 mg Al 3+ |
+| 1 dose (0.5 mL)                                                                 |                 |
+|---------------------------------------------------------------------------------|-----------------|
+| Diphtheria Toxoid 1                                                             | 15 Lf( ≥ 20 IU) |
+| Tetanus Toxoid 1                                                                | 5 Lf( ≥ 40 IU)  |
+| Bordetella pertussis antigens 1                                                 |                 |
+| (Pertussis Toxoid/Filamentous Haemagglutinin/ Fimbriae types 2 and 3/Pertactin) | 20/20/5/3 µg    |
+| Hepatitis B surface antigen 2                                                   | 10 µg           |
+| Poliovirus (Inactivated) Types 1/2/3                                            | 29/7/26DU       |
+| Haemophilus influenzae type b polysaccharide                                    | 3 µg            |
+| conjugated to meningococcal protein 2                                           | 50 µg           |
+| 1 adsorbed on AlPO 4                                                            | 0.17 mg Al 3+   |
+| 2 adsorbed on AlHO 9 PS -3                                                      | 0.15 mg Al 3+   |
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -704,7 +700,7 @@ EXP
 
 Store in a ref rigerator. Do not f reeze.
 
-Keep the vaccine in the outer carton in order to protect f rom light.
+Keep the vaccine in the outer carton in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -720,7 +716,7 @@ EU/1/15/1079/007
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -751,7 +747,7 @@ Carton for multipack containing 5 packs of 10 prefilled syringes without needle.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vaxelis suspension f or injection in pre-f illed syringe
+Vaxelis suspension for injection in pre-f illed syringe
 
 Diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), poliomyelitis (inactivated), and Haemophilus type b conjugate vaccine (adsorbed).
 
@@ -759,17 +755,18 @@ DTaP-HB-IPV-Hib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-| 1 dose (0.5 mL)                                                               |                              |
-|-------------------------------------------------------------------------------|------------------------------|
-| Diphtheria Toxoid 1                                                           | ≥ 20 IU                      |
-| Tetanus Toxoid 1                                                              | ≥ 40 IU                      |
-| Bordetella pertussis antigens 1 (Pertussis Toxoid/Filamentous Haemagglutinin/ | 20/20/5/3 µg 10 µg 29/7/26DU |
-| HepatitisB surface antigen 2                                                  |                              |
-| Poliovirus (Inactivated) Types 1/2/3                                          |                              |
-| Haemophilus influenzae type b polysaccharide                                  | 3 µg                         |
-| conjugated to meningococcal protein 2                                         | 50 µg                        |
-| 1 adsorbed on AlPO 4                                                          | 0.17 mg Al 3+                |
-| 2 adsorbed on AlHO 9 PS -3                                                    | 0.15 mg Al 3+                |
+| 1 dose (0.5 mL)                                                                 |                 |
+|---------------------------------------------------------------------------------|-----------------|
+| Diphtheria Toxoid 1                                                             | 15 Lf( ≥ 20 IU) |
+| Tetanus Toxoid 1                                                                | 5 Lf( ≥ 40 IU)  |
+| Bordetella pertussis antigens 1                                                 |                 |
+| (Pertussis Toxoid/Filamentous Haemagglutinin/ Fimbriae types 2 and 3/Pertactin) | 20/20/5/3 µg    |
+| Hepatitis B surface antigen 2                                                   | 10 µg           |
+| Poliovirus (Inactivated) Types 1/2/3                                            | 29/7/26DU       |
+| Haemophilus influenzae type b polysaccharide                                    | 3 µg            |
+| conjugated to meningococcal protein 2                                           | 50 µg           |
+| 1 adsorbed on AlPO 4                                                            | 0.17 mg Al 3+   |
+| 2 adsorbed on AlHO 9 PS -3                                                      | 0.15 mg Al 3+   |
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -781,7 +778,7 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Suspension for injection
+## Suspension for injection
 
 Multipack: 50 (5 packs of 10) pre-filled syringes (0.5 mL) without needle
 
@@ -797,7 +794,7 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -807,9 +804,9 @@ EXP
 
 Store in a ref rigerator. Do not f reeze.
 
-Keep the vaccine in the outer carton in order to protect f rom light.
+Keep the vaccine in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -835,8 +832,8 @@ Justif ication f or not including Braille accepted
 
 <div style=\"page-break-after: always\"></div>
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -851,31 +848,25 @@ PC SN NN
 |---------------------------------------------------------------|
 | Label - Prefilled Syringe                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Vaxelis injection IM DTaP-HB-IPV-Hib
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|--------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 1 dose
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 MCM Vaccine B.V.
 
@@ -896,7 +887,7 @@ Diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), polio
 - Keep this leaflet. You may need to read it again.
 - If you have any further questions, ask your doctor, pharmacist or nurse.
 - This medicine has been prescribed for your child only. Do not pass it on to others.
-- If  your child get any side ef f ects, talk to your doctor, pharmacist or nurse. This includes any possible side eff ects not listed in this leaf let. See section 4.
+- If your child get any side ef f ects, talk to your doctor, pharmacist or nurse. This includes any possible side eff ects not listed in this leaf let. See section 4.
 
 ## What is in this leaflet
 
@@ -909,16 +900,16 @@ Diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), polio
 
 ## 1. What is Vaxelis and what it is used for
 
-Vaxelis is a vaccine, which helps to protect your child against diphtheria, tetanus, pertussis, hepatitis B, poliomyelitis and serious diseases caused by Haemophilus influenzae type b. Vaxelis is given to children from the age of  six weeks.
+Vaxelis is a vaccine, which helps to protect your child against diphtheria, tetanus, pertussis, hepatitis B, poliomyelitis and serious diseases caused by Haemophilus influenzae type b. Vaxelis is given to children f rom the age of six weeks.
 
 The vaccine works by causing the body to produce its own protection (antibodies) against the bacteria and viruses that cause the f ollowing diseases:
 
 - Diphtheria: a bacterial infection that usually f irst af f ects the throat, causing pain and swelling which can lead to suffocation. The bacteria also make a toxin (poison) that can damage the heart, kidneys and nerves.
 - Tetanus (often called lock jaw): caused by the tetanus bacteria entering a deep wound. The bacteria make a toxin (poison) that causes spasms of the muscles, leading to inability to breathe and the possibility of  suf f ocation.
-- Pertussis (of ten called whooping cough): a highly infectious illness that af fects the airways. It causes severe coughing that may lead to problems with breathing. The coughing often has a 'whooping' sound. The cough may last f or one to two months or longer. Whooping cough can also cause ear inf ections, chest infections (bronchitis) which may last a long time, lung infections (pneumonia), fits, brain damage and even death.
+- Pertussis (of ten called whooping cough): a highly infectious illness that af fects the airways. It causes severe coughing that may lead to problems with breathing. The coughing often has a 'whooping' sound. The cough may last f or one to two months or longer. Whooping cough can also cause ear inf ections, chest inf ections (bronchitis) which may last a long time, lung infections (pneumonia), fits, brain damage and even death.
 - Hepatitis B: caused by the hepatitis B virus. It causes the liver to become swollen (inflamed). In some people, the virus can stay in the body f or a long time, and can eventually lead to serious liver problems, including liver cancer.
 - Poliomyelitis (of ten just called polio): caused by viruses that aff ect the nerves. It can lead to paralysis or muscle weakness most commonly of the legs. Paralysis of the muscles that control breathing and swallowing can be fatal.
-- Haemophilus influenzae type b infections (of ten just called Hib inf ections): serious bacterial infections causing meningitis (inflammation of the outer covering of the brain), which can lead to brain damage, deafness, epilepsy, or partial blindness. Infection can also cause inflammation and swelling of the throat, leading to diff iculties in swallowing and breathing, and infection can affect other parts of the body such as the blood, lungs, skin, bones, and joints.
+- Haemophilus influenzae type b infections (of ten just called Hib inf ections): serious bacterial infections causing meningitis (inflammation of the outer covering of the brain), which can lead to brain damage, deafness, epilepsy, or partial blindness. Infection can also cause inflammation and swelling of the throat, leading to diff iculties in swallowing and breathing, and infection can affect other parts of  the body such as the blood, lungs, skin, bones, and joints.
 
 ## Important information about the protection provided
 
@@ -933,7 +924,7 @@ the vaccine. Vaxelis does not protect your child against diseases caused by othe
 
 ## 2. What you need to know before Vaxelis is given to your child
 
-To make sure that Vaxelis is suitable f or your child, it is important to talk to your doctor or nurse if  any of the points below apply to your child. If  there is anything you do not understand, ask your doctor, pharmacist or nurse to explain.
+To make sure that Vaxelis is suitable for your child, it is important to talk to your doctor or nurse if  any of the points below apply to your child. If there is anything you do not understand, ask your doctor, pharmacist or nurse to explain.
 
 ## Do not use Vaxelis if your child:
 
@@ -942,20 +933,20 @@ To make sure that Vaxelis is suitable f or your child, it is important to talk t
 - -to Vaxelis vaccine or any diphtheria, tetanus, pertussis, poliomyelitis, hepatitis B or Hib containing vaccines,
 - -to any ingredients listed in section 6,
 - -to glutaraldehyde, formaldehyde, neomycin, streptomycin, polymyxin B (antibiotics) and bovine serum albumin, as these substances are used during the manufacturing process.
-- has suffered f rom a severe reaction af fecting the brain (encephalopathy) within 7 days of  a prior dose of a pertussis vaccine (acellular or whole cell pertussis).
+- has suffered f rom a severe reaction af fecting the brain (encephalopathy) within 7 days of a prior dose of a pertussis vaccine (acellular or whole cell pertussis).
 - has an uncontrolled condition or severe illness affecting the brain and nervous system (uncontrolled neurologic disorder) or uncontrolled epilepsy.
 
 ## Warnings and precautions
 
-Talk to your doctor, pharmacist or nurse bef ore vaccination if  your child:
+Talk to your doctor, pharmacist or nurse bef ore vaccination if your child:
 
-- has a moderate to severe acute disease, with or without f ever (e.g. sore throat, cough, cold or flu). Vaccination with Vaxelis may need to be delayed until your child is better.
+- has a moderate to severe acute disease, with or without fever (e.g. sore throat, cough, cold or flu). Vaccination with Vaxelis may need to be delayed until your child is better.
 - has had any of the following events after receiving a vaccine against pertussis (whooping cough), as the decision to give further doses of pertussis containing vaccine will need to be carefully considered:
 - -had a fever of 40.5°C or above within 48 hours not due to another identif iable cause.
 - -became floppy, unresponsive or unconscious after the previous vaccination, within 48 hours of vaccination.
 - -cried continuously and could not be comforted for more than 3 hours within 48 hours of vaccination.
-- -had a fit (convulsions) with or without f ever, within 3 days of  vaccination.
-- previously had Guillain-Barré syndrome (temporary loss of feeling and movement) af ter being given a vaccine containing tetanus toxoid (an inactivated form of tetanus toxin). Your doctor will decide whether to give Vaxelis to your child.
+- -had a fit (convulsions) with or without f ever, within 3 days of vaccination.
+- previously had Guillain-Barré syndrome (temporary loss of feeling and movement) after being given a vaccine containing tetanus toxoid (an inactivated form of tetanus toxin). Your doctor will decide whether to give Vaxelis to your child.
 - is receiving a treatment (such as steroids, chemotherapy or radiotherapy) or has a disease that suppresses or weakens the body's ability to f ight  inf ections . It is recommended to postpone vaccination until the end of  such treatment or disease. However, children with long standing problems with their immune system such as HIV infection (AIDS) may still be given Vaxelis but the protection may not be as good as in children with a healthy immune system.
 - suffers f rom any undiagnosed illness of the brain or epilepsy which is not controlled. Your doctor or nurse will assess the potential benef it of f ered by vaccination, once the condition is stabilised.
 - suffers f rom f its during a f ever, or there is f amily history of  f its occurring during a f ever.
@@ -984,33 +975,33 @@ This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say 
 
 Vaxelis will be given to your child by a doctor or nurse trained in the use of vaccines and who are equipped to deal with any uncommon severe allergic reaction to the injection (see section 4 Possible side ef f ects).
 
-Your doctor or nurse will inject Vaxelis into your child's thigh (in infants from the age of 6 weeks) or arm (in children older than one year).
+Your doctor or nurse will inject Vaxelis into your child's thigh (in infants f rom the age of  6 weeks) or arm (in children older than one year).
 
 The recommended dose is as follows:
 
-## First course of  vaccination (primary vaccination)
+## First course of vaccination (primary vaccination)
 
 Your child will receive two or three injections given at least one month apart. Your doctor or nurse will tell you when your child should come back for their next injection as per the local vaccination program.
 
 ## Additional injection (booster)
 
-After the f irst course of  injections, your child will receive a booster dose, in accordance with local recommendations, at least 6 months after the last dose of the f irst course. Your doctor will tell you when this dose should be given.
+After the first course of injections, your child will receive a booster dose, in accordance with local recommendations, at least 6 months after the last dose of the f irst course. Your doctor will tell you when this dose should be given.
 
 ## If your child misses a dose of Vaxelis
 
-If  your child misses a scheduled injection, it is important that you discuss with your doctor or nurse who will decide when to give the missed dose.
+If your child misses a scheduled injection, it is important that you discuss with your doctor or nurse who will decide when to give the missed dose.
 
-It is important to f ollow the instructions f rom the doctor or nurse so that your child completes the course of injections. If  not, your child may not be f ully protected against the diseases.
+It is important to f ollow the instructions f rom the doctor or nurse so that your child completes the course of injections. If not, your child may not be fully protected against the diseases.
 
-If  you have any f urther questions on the use of  this vaccine, ask your doctor, pharmacist or nurse.
+If you have any further questions on the use of this vaccine, ask your doctor, pharmacist or nurse.
 
 ## 4. Possible side effects
 
-Like all medicines, this vaccine can cause side eff ects, although not everybody gets them.
+Like all medicines, this vaccine can cause side ef f ects, although not everybody gets them.
 
 ## Serious allergic reactions
 
-If  any of  these symptoms occur af ter leaving the place where your child received his/her injection, you must consult a doctor IMMEDIATELY:
+If any of these symptoms occur after leaving the place where your child received his/her injection, you must consult a doctor IMMEDIATELY:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1022,11 +1013,11 @@ If  any of  these symptoms occur af ter leaving the place where your child recei
 
 When these signs or symptoms occur they usually develop quickly after the injection is given and while the child is still in the clinic or doctor's surgery.
 
-Serious allergic reactions are very rare (may af f ect up to 1 in 10,000 people) and can occur af ter receiving any vaccine.
+Serious allergic reactions are very rare (may af fect up to 1 in 10,000 people) and can occur af ter receiving any vaccine.
 
 ## Other side effects
 
-If  your child experiences any of  the f ollowing side ef f ects, please tell your doctor, nurse or pharmacist.
+If your child experiences any of the following side eff ects, please tell your doctor, nurse or pharmacist.
 
 - Very common side effects (may affect more than 1 in 10 people) are:
 - decreased appetite
@@ -1054,9 +1045,7 @@ If  your child experiences any of  the f ollowing side ef f ects, please tell yo
 - swollen glands in the neck, armpit or groin
 - feeling tired
 - floppiness
-
-Rare side effects (may affect up to 1 in 1,000 people) are:
-
+- Rare side effects (may aff ect up to 1 in 1,000 people) are:
 - allergic reaction, serious allergic reaction (anaphylactic reaction)
 - extensive swelling of the vaccinated limb
 - Side effects with f requency not known (f requency cannot be estimated from the available data) are:
@@ -1069,9 +1058,7 @@ Other side effects not listed above have been reported with other diphtheria, te
 
 ## Reporting of side effects
 
-If  your child gets any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side ef f ects not listed in this leaf let. You can also report side ef f ects directly via the national reporting
-
-•
+If your child gets any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side ef f ects not listed in this leaf let. You can also report side ef f ects directly via the national reporting
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1083,7 +1070,7 @@ Keep this vaccine out of the sight and reach of children.
 
 Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vaccine in the outer carton in order to protect f rom light.
 
-Do not use this vaccine after the expiry date which is stated on the carton and the label af ter EXP. The expiry date refers to the last day of  that month.
+Do not use this vaccine af ter the expiry date which is stated on the carton and the label af ter EXP. The expiry date refers to the last day of  that month.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
@@ -1091,39 +1078,43 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Vaxelis contains
 
-| The active substances per dose (0.5 mL):     |                       |
-|----------------------------------------------|-----------------------|
-| Diphtheria Toxoid 1                          | not less than 20 IU 6 |
-| Tetanus Toxoid 1                             | not less than 40 IU 6 |
-| Bordetella pertussis antigens 1              |                       |
-| Pertussis Toxoid (PT)                        | 20 micrograms         |
-| Filamentous Haemagglutinin (FHA)             | 20 micrograms         |
-| Pertactin (PRN)                              | 3 micrograms          |
-| Fimbriae Types 2 and 3 (FIM)                 | 5 micrograms          |
-| HepatitisB surface antigen 2,3               | 10 micrograms         |
-| Poliovirus (Inactivated) 4                   |                       |
-| Type 1 (Mahoney)                             | 29 D antigen units 5  |
-| Type 2 (MEF-1)                               | 7 D antigen units 5   |
-| Type 3 (Saukett)                             | 26 D antigen units 5  |
-| Haemophilus influenzae type b polysaccharide |                       |
-| (Polyribosylribitol Phosphate)               | 3 micrograms          |
-| Conjugated to meningococcal protein 2        | 50 micrograms         |
+| The active substances per dose (0.5 mL):     |                     |
+|----------------------------------------------|---------------------|
+| Diphtheria Toxoid 1                          | 15 Lf(≥ 20 IU) 6    |
+| Tetanus Toxoid 1                             | 5 Lf(≥ 40 IU) 6     |
+| Bordetella pertussis antigens 1              |                     |
+| Pertussis Toxoid (PT)                        | 20 micrograms       |
+| Filamentous Haemagglutinin (FHA)             | 20 micrograms       |
+| Pertactin (PRN)                              | 3 micrograms        |
+| Fimbriae Types 2 and 3 (FIM)                 | 5 micrograms        |
+| Hepatitis B surface antigen 2,3              | 10 micrograms       |
+| Poliovirus (Inactivated) 4                   |                     |
+| Type 1 (Mahoney)                             | 29 D antigen units  |
+| Type 2 (MEF-1)                               | 7 D antigen units 5 |
+| Type 3 (Saukett)                             | 26 D antigen units  |
+| Haemophilus influenzae type b polysaccharide |                     |
+| (Polyribosylribitol Phosphate)               | 3 micrograms        |
+| Conjugated to meningococcal protein 2        | 50 micrograms       |
 
 Aluminium phosphate and amorphous aluminium hydroxyphosphate sulphate are included in the vaccine as adjuvants. Adjuvants are included to improve the immune response of vaccines.
 
 The other ingredients are:
 
-Sodium phosphate, water f or injections
+Sodium phosphate, water for injections
 
 The vaccine may contain traces of glutaraldehyde, formaldehyde, neomycin, streptomycin, polymyxin B, and bovine serum albumin.
+
+5
+
+5
 
 <div style=\"page-break-after: always\"></div>
 
 ## What Vaxelis looks like and contents of the pack
 
-The normal appearance of the vaccine is a unif orm, cloudy, white to off-white suspension, which may settle down during storage.
+The normal appearance of the vaccine is a unif orm, cloudy, white to of f-white suspension, which may settle down during storage.
 
-Vaxelis is provided as a suspension f or injection in pre-f illed syringe.
+Vaxelis is provided as a suspension for injection in pre-filled syringe.
 
 Pack size of 1 or 10 pre-f illed syringes, without attached needle, with 1 separate needle or with 2 separate needles.
 
@@ -1153,9 +1144,7 @@ Tel.: +420 277 050 000 dpoc\\_czechslovak@msd.com
 
 ## Danmark
 
-MSD Danmark ApS
-
-Tlf.: +45 4482 4000 dkmail@msd.com
+MSD Danmark ApS Tlf.: +45 4482 4000 dkmail@msd.com
 
 ## Deutschland
 
@@ -1203,9 +1192,7 @@ Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153) medicalinfo.nl@m
 
 ## Norge
 
-MSD (Norge) AS
-
-Tlf: +47 32 20 73 00 medinfo.norway@msd.com
+MSD (Norge) AS Tlf: +47 32 20 73 00 medinfo.norway@msd.com
 
 ## Österreich
 
@@ -1215,7 +1202,9 @@ Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@msd.com
 
 MSD Polska Sp. z o.o.
 
-Tel.: +48 22 549 51 00 msdpolska@msd.com
+Tel.: +48 22 549 51 00
+
+msdpolska@msd.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1227,17 +1216,11 @@ Tél: + 33 (0) 1 80 46 40 40
 
 ## Hrvatska
 
-Merck Sharp &amp; Dohme d.o.o.
-
-Tel: + 385 1 66 11 333
-
-dpoc.croatia@msd.com
+Merck Sharp &amp; Dohme d.o.o. Tel: + 385 1 66 11 333 dpoc.croatia@msd.com
 
 ## Ireland
 
-Merck Sharp &amp; Dohme Ireland (Human
-
-Health) Limited Tel: +353 (0)1 2998700 medinfo\\_ireland@msd.com
+Merck Sharp &amp; Dohme Ireland (Human Health) Limited Tel: +353 (0)1 2998700 medinfo\\_ireland@msd.com
 
 ## Ísland
 
@@ -1257,9 +1240,7 @@ dpoc.italy@msd.com
 
 Merck Sharp &amp; Dohme Cyprus Limited
 
-Τηλ.: 800 00 673 (+357 22866700)
-
-dpoccyprus@msd.com
+Τηλ.: 800 00 673 (+357 22866700) dpoccyprus@msd.com
 
 ## Latvija
 
@@ -1287,17 +1268,11 @@ The suspension should be visually inspected, prior to administration, for foreig
 
 Merck Sharp &amp; Dohme, Lda
 
-Tel: +351 21 4465700
-
-inform\\_pt@msd.com
+Tel: +351 21 4465700 inform\\_pt@msd.com
 
 ## România
 
-Merck Sharp &amp; Dohme Romania S.R.L.
-
-Tel: +40 21 529 29 00
-
-msdromania@msd.com
+Merck Sharp &amp; Dohme Romania S.R.L. Tel: +40 21 529 29 00 msdromania@msd.com
 
 ## Slovenija
 
@@ -1307,15 +1282,11 @@ Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 520 4201 msd.slo
 
 Merck Sharp &amp; Dohme, s. r. o.
 
-Tel: +421 2 58282010
-
-dpoc\\_czechslovak@msd.com
+Tel: +421 2 58282010 dpoc\\_czechslovak@msd.com
 
 ## Suomi/Finland
 
-MSD Finland Oy
-
-Puh/Tel: +358 (0)9 804 650 info@msd.fi
+MSD Finland Oy Puh/Tel: +358 (0)9 804 650 info@msd.fi
 
 ## Sverige
 

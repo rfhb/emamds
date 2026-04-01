@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-27 14:21:00
+document_datetime: 2026-03-31 13:48:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spikevax.html
 document_name: spikevax.html
 version: success
-processing_time: 0.1850937
-conversion_datetime: 2026-03-01 20:22:12.068366
+processing_time: 0.2095455
+conversion_datetime: 2026-04-01 12:22:00.247675
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Spikevax (previously COVID-19 Vaccine Moderna)
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-COVID-19 mRNA vaccine Medicine Human Authorised
+COVID-19 mRNA vaccine
+
+Medicine Human Authorised
 
 Page contents
 
@@ -225,275 +227,141 @@ Reference Number: EMADOC-1829012207-27805
 
 English (EN) (179.32 KB - PDF)
 
-**First published:** 20/01/2021
-
-**Last updated:** 04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/en/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-601)
+[Other languages (22)](#file-language-dropdown-220)
 
 български (BG) (235.49 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/bg/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_bg.pdf)
 
 español (ES) (198.78 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/es/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_es.pdf)
 
 čeština (CS) (232.22 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/cs/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (192.81 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/da/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (190.94 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/de/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (181.43 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/et/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (237.37 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/el/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_el.pdf)
 
 français (FR) (200.78 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/fr/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (227.2 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/hr/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (197.29 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/it/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (209.86 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/lv/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (225.12 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/lt/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (210.85 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/hu/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (236.72 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/mt/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (198.34 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/nl/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_nl.pdf)
 
 polski (PL) (233.2 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/pl/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_pl.pdf)
 
 português (PT) (197.28 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/pt/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_pt.pdf)
 
 română (RO) (225.49 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/ro/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (216.42 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/sk/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (223.4 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/sl/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (195.57 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/fi/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (175.89 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-04/09/2025
+**First published:** 20/01/2021 **Last updated:** 04/09/2025
 
 [View](/sv/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_sv.pdf)
 
@@ -501,9 +369,7 @@ Spikevax (previously COVID-19 Vaccine Moderna): EPAR - Risk-management-plan
 
 English (EN) (1.55 MB - PDF)
 
-**First published:** 20/01/2021
-
-**Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/en/documents/rmp/spikevax-previously-covid-19-vaccine-moderna-epar-risk-management-plan_en.pdf)
 
@@ -513,303 +379,159 @@ Spikevax : EPAR - Product information
 
 English (EN) (1.14 MB - PDF)
 
-**First published:** 20/01/2021
-
-**Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/en/documents/product-information/spikevax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-358)
+[Other languages (24)](#file-language-dropdown-721)
 
 български (BG) (1.45 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/bg/documents/product-information/spikevax-epar-product-information_bg.pdf)
 
 español (ES) (1.18 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/es/documents/product-information/spikevax-epar-product-information_es.pdf)
 
 čeština (CS) (1.12 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/cs/documents/product-information/spikevax-epar-product-information_cs.pdf)
 
 dansk (DA) (1.15 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/da/documents/product-information/spikevax-epar-product-information_da.pdf)
 
 Deutsch (DE) (1.28 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/de/documents/product-information/spikevax-epar-product-information_de.pdf)
 
 eesti keel (ET) (1.05 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/et/documents/product-information/spikevax-epar-product-information_et.pdf)
 
 ελληνικά (EL) (1.37 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/el/documents/product-information/spikevax-epar-product-information_el.pdf)
 
 français (FR) (1.41 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/fr/documents/product-information/spikevax-epar-product-information_fr.pdf)
 
 hrvatski (HR) (1.25 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/hr/documents/product-information/spikevax-epar-product-information_hr.pdf)
 
 íslenska (IS) (1.14 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/is/documents/product-information/spikevax-epar-product-information_is.pdf)
 
 italiano (IT) (1.17 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/it/documents/product-information/spikevax-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (1.19 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/lv/documents/product-information/spikevax-epar-product-information_lv.pdf)
 
 lietuvių kalba (LT) (1.43 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/lt/documents/product-information/spikevax-epar-product-information_lt.pdf)
 
 magyar (HU) (1.47 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/hu/documents/product-information/spikevax-epar-product-information_hu.pdf)
 
 Malti (MT) (1.35 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/mt/documents/product-information/spikevax-epar-product-information_mt.pdf)
 
 Nederlands (NL) (1.1 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/nl/documents/product-information/spikevax-epar-product-information_nl.pdf)
 
 norsk (NO) (1.19 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/no/documents/product-information/spikevax-epar-product-information_no.pdf)
 
 polski (PL) (1.52 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/pl/documents/product-information/spikevax-epar-product-information_pl.pdf)
 
 português (PT) (1.24 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/pt/documents/product-information/spikevax-epar-product-information_pt.pdf)
 
 română (RO) (1.4 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/ro/documents/product-information/spikevax-epar-product-information_ro.pdf)
 
 slovenčina (SK) (1.4 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/sk/documents/product-information/spikevax-epar-product-information_sk.pdf)
 
 slovenščina (SL) (1.2 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/sl/documents/product-information/spikevax-epar-product-information_sl.pdf)
 
 Suomi (FI) (1.21 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/fi/documents/product-information/spikevax-epar-product-information_fi.pdf)
 
 svenska (SV) (1.13 MB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-24/02/2026
+**First published:** 20/01/2021 **Last updated:** 24/02/2026
 
 [View](/sv/documents/product-information/spikevax-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000316350 20/01/2026
+**Latest procedure affecting product information:** VR/0000316350
+
+20/01/2026
 
 icon globe
 
@@ -829,305 +551,177 @@ Spikevax (previously COVID-19 Vaccine Moderna): EPAR - All authorised presentati
 
 English (EN) (90.22 KB - PDF)
 
-**First published:** 20/01/2021
-
-**Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/en/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-289)
+[Other languages (24)](#file-language-dropdown-394)
 
 български (BG) (126.99 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/bg/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (99.08 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/es/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (117.7 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/cs/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (93.32 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/da/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (103.29 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/de/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (100.49 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/et/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (128.42 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/el/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (123.75 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/fr/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (126.07 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/hr/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (102.53 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/is/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (91.71 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/it/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (129.34 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/lv/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (137.04 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/lt/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (123.43 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/hu/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (133.37 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/mt/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (92.53 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/nl/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (102.94 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/no/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (123.85 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/pl/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (102.96 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/pt/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (128.11 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/ro/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (127.7 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/sk/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (130.47 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/sl/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (89.88 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/fi/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (91.94 KB - PDF)
 
-**First published:**
-
-20/01/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 20/01/2021 **Last updated:** 20/01/2026
 
 [View](/sv/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Spikevax (previously COVID-19 Vaccine Moderna) Active substance single-stranded, 5'-capped messenger RNA (mRNA) produced using a cell-free in vitro transcription from the corresponding DNA templates, encoding the viral spike (S) protein of SARS-CoV-2 International non-proprietary name (INN) or common name COVID-19 mRNA vaccine Therapeutic area (MeSH) COVID-19 virus infection Anatomical therapeutic chemical (ATC) code J07BN01
+Name of medicine
+
+Spikevax (previously COVID-19 Vaccine Moderna)
+
+Active substance
+
+single-stranded, 5'-capped messenger RNA (mRNA) produced using a cell-free in vitro transcription from the corresponding DNA templates, encoding the viral spike (S) protein of SARS-CoV-2
+
+International non-proprietary name (INN) or common name
+
+COVID-19 mRNA vaccine
+
+Therapeutic area (MeSH)
+
+COVID-19 virus infection
+
+Anatomical therapeutic chemical (ATC) code
+
+J07BN01
 
 ### Pharmacotherapeutic group
 
@@ -1149,7 +743,9 @@ Spikevax LP.8.1 is indicated for active immunisation to prevent COVID 19 caused 
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005791
+EMA product number
+
+EMEA/H/C/005791
 
 Additional monitoring
 
@@ -1161,7 +757,17 @@ Moderna Biotech Spain, S.L.
 
 C/ Julián Camarillo nº 31
 
-Opinion adopted 04/01/2021 Marketing authorisation issued 06/01/2021 Revision 61
+Opinion adopted
+
+04/01/2021
+
+Marketing authorisation issued
+
+06/01/2021
+
+Revision
+
+61
 
 ## Assessment history
 
@@ -1175,9 +781,7 @@ Spikevax (previously COVID-19 Vaccine Moderna): EPAR - Procedural steps taken an
 
 English (EN) (207.3 KB - PDF)
 
-**First published:** 16/04/2025
-
-**Last updated:** 24/02/2026
+**First published:** 16/04/2025 **Last updated:** 24/02/2026
 
 [View](/en/documents/procedural-steps-after/spikevax-previously-covid-19-vaccine-moderna-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1185,17 +789,13 @@ Spikevax (previously COVID-19 Vaccine Moderna): EPAR - Procedural steps taken an
 
 English (EN) (517.36 KB - PDF)
 
-**First published:** 23/03/2021
-
-**Last updated:** 05/05/2025
+**First published:** 23/03/2021 **Last updated:** 05/05/2025
 
 [View](/en/documents/procedural-steps-after/spikevax-previously-covid-19-vaccine-moderna-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Spikevax-VR-0000264109 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2079527
+Adopted Reference Number: EMADOC-1700519818-2079527
 
 English (EN) (845.75 KB - PDF)
 
@@ -1205,9 +805,7 @@ English (EN) (845.75 KB - PDF)
 
 Spikevax-PAM-0000291853 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2360320
+Adopted Reference Number: EMADOC-1700519818-2360320
 
 English (EN) (1.47 MB - PDF)
 
@@ -1217,9 +815,7 @@ English (EN) (1.47 MB - PDF)
 
 Spikevax-VR-0000272245 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2137510
+Adopted Reference Number: EMADOC-1700519818-2137510
 
 English (EN) (532.33 KB - PDF)
 
@@ -1229,9 +825,7 @@ English (EN) (532.33 KB - PDF)
 
 Spikevax-VR-0000245103 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMADOC-1700519818-1857217
+Adopted Reference Number: EMADOC-1700519818-1857217
 
 English (EN) (1.55 MB - PDF)
 
@@ -1241,9 +835,7 @@ English (EN) (1.55 MB - PDF)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-5791-II-0149 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/87565/2025
+Adopted Reference Number: EMA/87565/2025
 
 English (EN) (2.65 MB - PDF)
 
@@ -1263,9 +855,7 @@ English (EN) (8.27 MB - PDF)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-005791-II-0111-G : EPAR - Assessment report - Variation
 
-Draft
-
-Reference Number: EMA/429527/2023
+Draft Reference Number: EMA/429527/2023
 
 English (EN) (2.92 MB - PDF)
 
@@ -1285,9 +875,7 @@ English (EN) (146.95 KB - PDF)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-005791-II-0104-G : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/384132/2023
+Adopted Reference Number: EMA/384132/2023
 
 English (EN) (2.35 MB - PDF)
 
@@ -1307,9 +895,7 @@ English (EN) (110.22 KB - PDF)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-005791-II-0097-G : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/230596/2023
+Adopted Reference Number: EMA/230596/2023
 
 English (EN) (3.58 MB - PDF)
 
@@ -1319,9 +905,7 @@ English (EN) (3.58 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Spikevax (II-97-G)
 
-Adopted
-
-Reference Number: EMA/CHMP/181335/2023
+Adopted Reference Number: EMA/CHMP/181335/2023
 
 English (EN) (127.79 KB - PDF)
 
@@ -1331,9 +915,7 @@ English (EN) (127.79 KB - PDF)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-005791-II-0083-G : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/3578/2023
+Adopted Reference Number: EMA/3578/2023
 
 English (EN) (5.56 MB - PDF)
 
@@ -1343,9 +925,7 @@ English (EN) (5.56 MB - PDF)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-005791-II-0075-G : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/896245/2022
+Adopted Reference Number: EMA/896245/2022
 
 English (EN) (9.67 MB - PDF)
 
@@ -1355,9 +935,7 @@ English (EN) (9.67 MB - PDF)
 
 CHMP post-authorisation summary of opinion for Spikevax (II-83-G)
 
-Adopted
-
-Reference Number: EMA/CHMP/931797/2022
+Adopted Reference Number: EMA/CHMP/931797/2022
 
 English (EN) (123.33 KB - PDF)
 
@@ -1367,9 +945,7 @@ English (EN) (123.33 KB - PDF)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-005791-II-0057 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/686295/2022
+Adopted Reference Number: EMA/686295/2022
 
 English (EN) (13.68 MB - PDF)
 
@@ -1379,9 +955,7 @@ English (EN) (13.68 MB - PDF)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-005791-II-0067 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/895850/2022
+Adopted Reference Number: EMA/895850/2022
 
 English (EN) (7.8 MB - PDF)
 
@@ -1391,9 +965,7 @@ English (EN) (7.8 MB - PDF)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-5791-II-84-G : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/884918/2022
+Adopted Reference Number: EMA/884918/2022
 
 English (EN) (1.52 MB - PDF)
 
@@ -1403,9 +975,7 @@ English (EN) (1.52 MB - PDF)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-5791-R-0074: EPAR - Assessment report - Renewal
 
-Adopted
-
-Reference Number: EMA/850007/2022
+Adopted Reference Number: EMA/850007/2022
 
 English (EN) (750.23 KB - PDF)
 
@@ -1425,9 +995,7 @@ English (EN) (119.05 KB - PDF)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-5791-II-41 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/137337/2022 - Rev.1
+Adopted Reference Number: EMA/137337/2022 - Rev.1
 
 English (EN) (3.38 MB - PDF)
 
@@ -1437,9 +1005,7 @@ English (EN) (3.38 MB - PDF)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-5791-II-42 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/137482/2022
+Adopted Reference Number: EMA/137482/2022
 
 English (EN) (6.38 MB - PDF)
 
@@ -1449,9 +1015,7 @@ English (EN) (6.38 MB - PDF)
 
 CHMP post-authorisation summary of opinion for Spikevax (II-41)
 
-Adopted
-
-Reference Number: EMA/CHMP/70705/2022
+Adopted Reference Number: EMA/CHMP/70705/2022
 
 English (EN) (125.13 KB - PDF)
 
@@ -1471,9 +1035,7 @@ English (EN) (120.15 KB - PDF)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-5791-II-34 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/618924/2021
+Adopted Reference Number: EMA/618924/2021
 
 English (EN) (15.87 MB - PDF)
 
@@ -1483,9 +1045,7 @@ English (EN) (15.87 MB - PDF)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-5791-II-31 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/572648/2021
+Adopted Reference Number: EMA/572648/2021
 
 English (EN) (1.1 MB - PDF)
 
@@ -1495,9 +1055,7 @@ English (EN) (1.1 MB - PDF)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-5791-R-0025: EPAR - Assessment report - Renewal
 
-Adopted
-
-Reference Number: EMA/571969/2021
+Adopted Reference Number: EMA/571969/2021
 
 English (EN) (587.34 KB - PDF)
 
@@ -1507,9 +1065,7 @@ English (EN) (587.34 KB - PDF)
 
 Spikevax (previously COVID-19 Vaccine Moderna)-H-C-5791-II-0021 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/439844/2021
+Adopted Reference Number: EMA/439844/2021
 
 English (EN) (2.67 MB - PDF)
 
@@ -1519,9 +1075,7 @@ English (EN) (2.67 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Spikevax (II-21)
 
-Adopted
-
-Reference Number: EMA/CHMP/325680/2021
+Adopted Reference Number: EMA/CHMP/325680/2021
 
 English (EN) (125.84 KB - PDF)
 
@@ -1533,9 +1087,7 @@ English (EN) (125.84 KB - PDF)
 
 Spikevax (previously COVID-19 Vaccine Moderna) : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/15689/2021
+Adopted Reference Number: EMA/15689/2021
 
 English (EN) (3.24 MB - PDF)
 
@@ -1545,9 +1097,7 @@ English (EN) (3.24 MB - PDF)
 
 CHMP summary of positive opinion for COVID-19 Vaccine Moderna
 
-Adopted
-
-Reference Number: EMA/704372/2020
+Adopted Reference Number: EMA/704372/2020
 
 English (EN) (133.41 KB - PDF)
 
@@ -1579,15 +1129,11 @@ English (EN) (31.35 MB - PDF)
 
 COVID-19 vaccines - Safety update: 14 July 2022
 
-Adopted
-
-Reference Number: Rev. 1
+Adopted Reference Number: Rev. 1
 
 English (EN) (263.34 KB - PDF)
 
-**First published:** 14/07/2022
-
-**Last updated:** 09/08/2024
+**First published:** 14/07/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-14-july-2022_en.pdf)
 
@@ -1597,9 +1143,7 @@ Adopted
 
 English (EN) (257.73 KB - PDF)
 
-**First published:** 08/09/2022
-
-**Last updated:** 09/08/2024
+**First published:** 08/09/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-8-september-2022_en.pdf)
 
@@ -1609,9 +1153,7 @@ Adopted
 
 English (EN) (237.65 KB - PDF)
 
-**First published:** 17/03/2022
-
-**Last updated:** 09/08/2024
+**First published:** 17/03/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-17-march-2022_en.pdf)
 
@@ -1621,9 +1163,7 @@ Adopted
 
 English (EN) (237.46 KB - PDF)
 
-**First published:** 06/10/2022
-
-**Last updated:** 09/08/2024
+**First published:** 06/10/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-6-october-2022_en.pdf)
 
@@ -1633,9 +1173,7 @@ Adopted
 
 English (EN) (239.73 KB - PDF)
 
-**First published:** 08/12/2022
-
-**Last updated:** 09/08/2024
+**First published:** 08/12/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-8-december-2022_en.pdf)
 
@@ -1645,9 +1183,7 @@ Adopted
 
 English (EN) (254.94 KB - PDF)
 
-**First published:** 10/11/2022
-
-**Last updated:** 09/08/2024
+**First published:** 10/11/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-10-november-2022_en.pdf)
 
@@ -1657,9 +1193,7 @@ Adopted
 
 English (EN) (214.22 KB - PDF)
 
-**First published:** 12/05/2022
-
-**Last updated:** 09/08/2024
+**First published:** 12/05/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-12-may-2022_en.pdf)
 
@@ -1669,9 +1203,7 @@ Adopted
 
 English (EN) (228.5 KB - PDF)
 
-**First published:** 13/04/2022
-
-**Last updated:** 09/08/2024
+**First published:** 13/04/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-13-april-2022_en.pdf)
 
@@ -1681,9 +1213,7 @@ Adopted
 
 English (EN) (226.15 KB - PDF)
 
-**First published:** 17/02/2022
-
-**Last updated:** 09/08/2024
+**First published:** 17/02/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-17-february-2022_en.pdf)
 
@@ -1693,9 +1223,7 @@ Adopted
 
 English (EN) (249.16 KB - PDF)
 
-**First published:** 17/06/2022
-
-**Last updated:** 09/08/2024
+**First published:** 17/06/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-17-june-2022_en.pdf)
 
@@ -1705,9 +1233,7 @@ Adopted
 
 English (EN) (251.15 KB - PDF)
 
-**First published:** 20/01/2022
-
-**Last updated:** 09/08/2024
+**First published:** 20/01/2022 **Last updated:** 09/08/2024
 
 [View](/en/documents/covid-19-vaccine-safety-update/covid-19-vaccines-safety-update-20-january-2022_en.pdf)
 
@@ -1843,103 +1369,191 @@ English (EN) (189.9 KB - PDF)
 
 ## News on Spikevax (previously COVID-19 Vaccine Moderna)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025) 25/07/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025)
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 4-7 March 2024](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-4-7-march-2024) 08/03/2024
+25/07/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 September 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-september-2023) 15/09/2023
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 4-7 March 2024](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-4-7-march-2024)
 
-[Spikevax: EMA recommends approval of adapted  COVID-19 vaccine targeting Omicron XBB.1.5](/en/news/spikevax-ema-recommends-approval-adapted-covid-19-vaccine-targeting-omicron-xbb15) 14/09/2023
+08/03/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2023) 21/07/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 September 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-september-2023)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24 - 26 April 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-26-april-2023) 26/04/2023
+15/09/2023
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2022) 16/12/2022
+[Spikevax: EMA recommends approval of adapted  COVID-19 vaccine targeting Omicron XBB.1.5](/en/news/spikevax-ema-recommends-approval-adapted-covid-19-vaccine-targeting-omicron-xbb15)
 
-[ETF concludes that bivalent original/Omicron BA.4-5 mRNA vaccines may be used for primary vaccination](/en/news/etf-concludes-bivalent-original-omicron-ba4-5-mrna-vaccines-may-be-used-primary-vaccination) 06/12/2022
+14/09/2023
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 24 - 27 October 2022](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-24-27-october-2022) 28/10/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2023)
 
-[EMA recommends approval of Comirnaty and Spikevax COVID-19 vaccines for children from 6 months of age](/en/news/ema-recommends-approval-comirnaty-spikevax-covid-19-vaccines-children-6-months-age) 19/10/2022
+21/07/2023
 
-[EMA recommends approval of second adapted Spikevax vaccine](/en/news/ema-recommends-approval-second-adapted-spikevax-vaccine) 19/10/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24 - 26 April 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-26-april-2023)
 
-[EMA recommends standard marketing authorisations for Comirnaty and Spikevax COVID-19 vaccines](/en/news/ema-recommends-standard-marketing-authorisations-comirnaty-spikevax-covid-19-vaccines) 16/09/2022
+26/04/2023
 
-[ECDC-EMA statement on booster vaccination with Omicron adapted bivalent COVID-19 vaccines](/en/news/ecdc-ema-statement-booster-vaccination-omicron-adapted-bivalent-covid-19-vaccines) 06/09/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2022)
 
-[First adapted COVID-19 booster vaccines recommended for approval in the EU](/en/news/first-adapted-covid-19-booster-vaccines-recommended-approval-eu) 01/09/2022
+16/12/2022
 
-[Start of rolling review for adapted Spikevax COVID-19 vaccine](/en/news/start-rolling-review-adapted-spikevax-covid-19-vaccine) 17/06/2022
+[ETF concludes that bivalent original/Omicron BA.4-5 mRNA vaccines may be used for primary vaccination](/en/news/etf-concludes-bivalent-original-omicron-ba4-5-mrna-vaccines-may-be-used-primary-vaccination)
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 4-7 April 2022](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-4-7-april-2022) 08/04/2022
+06/12/2022
 
-[ECDC and EMA issue advice on fourth doses of mRNA COVID-19 vaccines](/en/news/ecdc-ema-issue-advice-fourth-doses-mrna-covid-19-vaccines) 06/04/2022
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 24 - 27 October 2022](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-24-27-october-2022)
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 7-10 March 2022](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-7-10-march-2022) 11/03/2022
+28/10/2022
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 February 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-february-2022) 25/02/2022
+[EMA recommends approval of Comirnaty and Spikevax COVID-19 vaccines for children from 6 months of age](/en/news/ema-recommends-approval-comirnaty-spikevax-covid-19-vaccines-children-6-months-age)
 
-[EMA recommends approval of Spikevax for children aged 6 to 11](/en/news/ema-recommends-approval-spikevax-children-aged-6-11) 24/02/2022
+19/10/2022
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 7 - 10 February 2022](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-7-10-february-2022) 11/02/2022
+[EMA recommends approval of second adapted Spikevax vaccine](/en/news/ema-recommends-approval-second-adapted-spikevax-vaccine)
 
-[COVID-19: latest safety data provide reassurance about use of mRNA vaccines during pregnancy](/en/news/covid-19-latest-safety-data-provide-reassurance-about-use-mrna-vaccines-during-pregnancy) 18/01/2022
+19/10/2022
 
-[Increase in manufacturing capacity for COVID-19 vaccines from Janssen, Moderna and BioNTech/Pfizer](/en/news/increase-manufacturing-capacity-covid-19-vaccines-janssen-moderna-biontech-pfizer) 16/12/2021
+[EMA recommends standard marketing authorisations for Comirnaty and Spikevax COVID-19 vaccines](/en/news/ema-recommends-standard-marketing-authorisations-comirnaty-spikevax-covid-19-vaccines)
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 29 November - 2 December 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-29-november-2-december-2021) 03/12/2021
+16/09/2022
 
-[EMA starts evaluating use of COVID-19 vaccine Spikevax in children aged 6 to 11](/en/news/ema-starts-evaluating-use-covid-19-vaccine-spikevax-children-aged-6-11) 10/11/2021
+[ECDC-EMA statement on booster vaccination with Omicron adapted bivalent COVID-19 vaccines](/en/news/ecdc-ema-statement-booster-vaccination-omicron-adapted-bivalent-covid-19-vaccines)
 
-[Spikevax: EMA recommendation on booster](/en/news/spikevax-ema-recommendation-booster) 25/10/2021
+06/09/2022
 
-[Comirnaty and Spikevax: EMA recommendations on extra doses and boosters](/en/news/comirnaty-spikevax-ema-recommendations-extra-doses-boosters) 04/10/2021
+[First adapted COVID-19 booster vaccines recommended for approval in the EU](/en/news/first-adapted-covid-19-booster-vaccines-recommended-approval-eu)
 
-[EMA evaluating data on booster dose of COVID-19 vaccine Spikevax](/en/news/ema-evaluating-data-booster-dose-covid-19-vaccine-spikevax) 27/09/2021
+01/09/2022
 
-[Increase in vaccine manufacturing capacity for COVID-19 vaccines from BioNTech / Pfizer and Moderna](/en/news/increase-vaccine-manufacturing-capacity-covid-19-vaccines-biontech-pfizer-and-moderna) 24/08/2021
+[Start of rolling review for adapted Spikevax COVID-19 vaccine](/en/news/start-rolling-review-adapted-spikevax-covid-19-vaccine)
 
-[Increased manufacturing capacity and supply for Spikevax](/en/news/increased-manufacturing-capacity-supply-spikevax) 30/07/2021
+17/06/2022
 
-[COVID-19 vaccine Spikevax approved for children aged 12 to 17 in EU](/en/news/covid-19-vaccine-spikevax-approved-children-aged-12-17-eu) 23/07/2021
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 4-7 April 2022](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-4-7-april-2022)
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 5-8 July 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-5-8-july-2021) 09/07/2021
+08/04/2022
 
-[Comirnaty and Spikevax: possible link to very rare cases of myocarditis and pericarditis](/en/news/comirnaty-spikevax-possible-link-very-rare-cases-myocarditis-pericarditis) 09/07/2021
+[ECDC and EMA issue advice on fourth doses of mRNA COVID-19 vaccines](/en/news/ecdc-ema-issue-advice-fourth-doses-mrna-covid-19-vaccines)
 
-[Additional manufacturing capacity for Moderna's COVID-19 vaccine](/en/news/additional-manufacturing-capacity-modernas-covid-19-vaccine) 11/06/2021
+06/04/2022
 
-[COVID-19 vaccines: update on ongoing evaluation of myocarditis and pericarditis](/en/news/covid-19-vaccines-update-ongoing-evaluation-myocarditis-pericarditis) 11/06/2021
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 7-10 March 2022](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-7-10-march-2022)
 
-[EMA evaluating the use of COVID-19 Vaccine Moderna in young people aged 12 to 17](/en/news/ema-evaluating-use-covid-19-vaccine-moderna-young-people-aged-12-17) 08/06/2021
+11/03/2022
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 3-6 May 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-3-6-may-2021) 07/05/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 February 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-february-2022)
 
-[Increase in vaccine manufacturing capacity and supply for COVID-19 vaccines from BioNTech/Pfizer and Moderna](/en/news/increase-vaccine-manufacturing-capacity-supply-covid-19-vaccines-biontech-pfizer-moderna) 23/04/2021
+25/02/2022
 
-[Increase in vaccine manufacturing capacity and supply for COVID-19 vaccines from AstraZeneca, BioNTech/Pfizer and Moderna](/en/news/increase-vaccine-manufacturing-capacity-supply-covid-19-vaccines-astrazeneca-biontech-pfizer-moderna) 26/03/2021
+[EMA recommends approval of Spikevax for children aged 6 to 11](/en/news/ema-recommends-approval-spikevax-children-aged-6-11)
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 8-11 March 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-march-2021) 12/03/2021
+24/02/2022
 
-[EMA and Health Canada publish clinical data used to support their authorisations of the Moderna COVID-19 vaccine](/en/news/ema-health-canada-publish-clinical-data-used-support-their-authorisations-moderna-covid-19-vaccine) 02/03/2021
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 7 - 10 February 2022](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-7-10-february-2022)
 
-[EMA recommends COVID-19 Vaccine Moderna for authorisation in the EU](/en/news/ema-recommends-covid-19-vaccine-moderna-authorisation-eu) 06/01/2021
+11/02/2022
 
-[Update on assessment of marketing authorisation application for Moderna's mRNA-1273 COVID-19 vaccine](/en/news/update-assessment-marketing-authorisation-application-modernas-mrna-1273-covid-19-vaccine) 17/12/2020
+[COVID-19: latest safety data provide reassurance about use of mRNA vaccines during pregnancy](/en/news/covid-19-latest-safety-data-provide-reassurance-about-use-mrna-vaccines-during-pregnancy)
 
-[EMA receives application for conditional marketing authorisation of    Moderna COVID-19 vaccine](/en/news/ema-receives-application-conditional-marketing-authorisation-moderna-covid-19-vaccine) 01/12/2020
+18/01/2022
 
-[EMA starts rolling review of mRNA COVID-19 vaccine by Moderna Biotech Spain, S.L.](/en/news/ema-starts-rolling-review-mrna-covid-19-vaccine-moderna-biotech-spain-sl) 16/11/2020
+[Increase in manufacturing capacity for COVID-19 vaccines from Janssen, Moderna and BioNTech/Pfizer](/en/news/increase-manufacturing-capacity-covid-19-vaccines-janssen-moderna-biontech-pfizer)
+
+16/12/2021
+
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 29 November - 2 December 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-29-november-2-december-2021)
+
+03/12/2021
+
+[EMA starts evaluating use of COVID-19 vaccine Spikevax in children aged 6 to 11](/en/news/ema-starts-evaluating-use-covid-19-vaccine-spikevax-children-aged-6-11)
+
+10/11/2021
+
+[Spikevax: EMA recommendation on booster](/en/news/spikevax-ema-recommendation-booster)
+
+25/10/2021
+
+[Comirnaty and Spikevax: EMA recommendations on extra doses and boosters](/en/news/comirnaty-spikevax-ema-recommendations-extra-doses-boosters)
+
+04/10/2021
+
+[EMA evaluating data on booster dose of COVID-19 vaccine Spikevax](/en/news/ema-evaluating-data-booster-dose-covid-19-vaccine-spikevax)
+
+27/09/2021
+
+[Increase in vaccine manufacturing capacity for COVID-19 vaccines from BioNTech / Pfizer and Moderna](/en/news/increase-vaccine-manufacturing-capacity-covid-19-vaccines-biontech-pfizer-and-moderna)
+
+24/08/2021
+
+[Increased manufacturing capacity and supply for Spikevax](/en/news/increased-manufacturing-capacity-supply-spikevax)
+
+30/07/2021
+
+[COVID-19 vaccine Spikevax approved for children aged 12 to 17 in EU](/en/news/covid-19-vaccine-spikevax-approved-children-aged-12-17-eu)
+
+23/07/2021
+
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 5-8 July 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-5-8-july-2021)
+
+09/07/2021
+
+[Comirnaty and Spikevax: possible link to very rare cases of myocarditis and pericarditis](/en/news/comirnaty-spikevax-possible-link-very-rare-cases-myocarditis-pericarditis)
+
+09/07/2021
+
+[Additional manufacturing capacity for Moderna's COVID-19 vaccine](/en/news/additional-manufacturing-capacity-modernas-covid-19-vaccine)
+
+11/06/2021
+
+[COVID-19 vaccines: update on ongoing evaluation of myocarditis and pericarditis](/en/news/covid-19-vaccines-update-ongoing-evaluation-myocarditis-pericarditis)
+
+11/06/2021
+
+[EMA evaluating the use of COVID-19 Vaccine Moderna in young people aged 12 to 17](/en/news/ema-evaluating-use-covid-19-vaccine-moderna-young-people-aged-12-17)
+
+08/06/2021
+
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 3-6 May 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-3-6-may-2021)
+
+07/05/2021
+
+[Increase in vaccine manufacturing capacity and supply for COVID-19 vaccines from BioNTech/Pfizer and Moderna](/en/news/increase-vaccine-manufacturing-capacity-supply-covid-19-vaccines-biontech-pfizer-moderna)
+
+23/04/2021
+
+[Increase in vaccine manufacturing capacity and supply for COVID-19 vaccines from AstraZeneca, BioNTech/Pfizer and Moderna](/en/news/increase-vaccine-manufacturing-capacity-supply-covid-19-vaccines-astrazeneca-biontech-pfizer-moderna)
+
+26/03/2021
+
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 8-11 March 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-march-2021)
+
+12/03/2021
+
+[EMA and Health Canada publish clinical data used to support their authorisations of the Moderna COVID-19 vaccine](/en/news/ema-health-canada-publish-clinical-data-used-support-their-authorisations-moderna-covid-19-vaccine)
+
+02/03/2021
+
+[EMA recommends COVID-19 Vaccine Moderna for authorisation in the EU](/en/news/ema-recommends-covid-19-vaccine-moderna-authorisation-eu)
+
+06/01/2021
+
+[Update on assessment of marketing authorisation application for Moderna's mRNA-1273 COVID-19 vaccine](/en/news/update-assessment-marketing-authorisation-application-modernas-mrna-1273-covid-19-vaccine)
+
+17/12/2020
+
+[EMA receives application for conditional marketing authorisation of    Moderna COVID-19 vaccine](/en/news/ema-receives-application-conditional-marketing-authorisation-moderna-covid-19-vaccine)
+
+01/12/2020
+
+[EMA starts rolling review of mRNA COVID-19 vaccine by Moderna Biotech Spain, S.L.](/en/news/ema-starts-rolling-review-mrna-covid-19-vaccine-moderna-biotech-spain-sl)
+
+16/11/2020
 
 ## Signal assessment report
 
 Signal assessment report on myocarditis and pericarditis with Spikevax  (previously COVID-19 Vaccine Moderna) - COVID-19 mRNA vaccine (nucleosidemodified)
 
-Adopted
-
-Reference Number: EMA/PRAC/759618/2021
+Adopted Reference Number: EMA/PRAC/759618/2021
 
 English (EN) (1.37 MB - PDF)
 
@@ -1949,9 +1563,7 @@ English (EN) (1.37 MB - PDF)
 
 Signal assessment report on myocarditis and pericarditis with Spikevax (previously COVID-19 Vaccine Moderna)
 
-Adopted
-
-Reference Number: EMA/PRAC/326194/2021
+Adopted Reference Number: EMA/PRAC/326194/2021
 
 English (EN) (2.6 MB - PDF)
 
@@ -1961,9 +1573,7 @@ English (EN) (2.6 MB - PDF)
 
 Signal assessment on heavy menstrual bleeding with COVID-19 mRNA vaccine (Spikevax)
 
-Adopted
-
-Reference Number: EMA/PRAC/897385/2022
+Adopted Reference Number: EMA/PRAC/897385/2022
 
 English (EN) (1.17 MB - PDF)
 
@@ -1983,15 +1593,43 @@ This structure divides the types of documents into 5 modules, of which the sub-m
 
 You can subscribe to update notifications by selecting the RSS option available at the top of this page. You will need a news reader or other similar device. To learn more about RSS and news readers, see our [RSS user guide](https://www.ema.europa.eu/en/news-event/rss-feeds#user-guide-section) .
 
+### Reading guide
+
+In the context of these exceptional transparency measures, documents published by EMA that contain Commercially Confidential Information (CCI) and Protected Personal Data (PPD) shall be subject to redaction prior to their disclosure.
+
+CCI and PPD are redacted here following the principles laid out in the [HMA/EMA guidance document on the identification of personal data and commercially confidential information within the structure of the marketing authorisation application (MAA) dossier](/en/documents/other/heads-medicines-agencies-european-medicines-agency-guidance-document-identification-commercially-confidential-information-personal-data-within-structure-marketing-authorisation-application_en.pdf) . This entails consultation with the Marketing Authorisation Holder (MAH) and a thorough assessment of their justified proposal of redaction by EMA.
+
+In this guidance, Heads of Medicines Agencies (HMA) and the European Medicines Agency (EMA) agreed on a common approach on what should be considered personal data (PD) and CCI in the Marketing Authorisation Application (MAA) dossier of medicinal products for human use. The definition of CCI and PPD and the principles for the redaction of this information are set out from pages 5 to 13.The Annex to the above-mentioned guidance provides a non-exhaustive list of information that may be considered PPD or CCI in each of the modules of the MAA dossier based on the agreed Common Technical Document (CTD) laid out in the [ICH guideline on common technical documents (CTD) for the registration of pharmaceuticals for human use](/en/ich-m4-common-technical-document-ctd-registration-pharmaceuticals-human-use-organisation-ctd-scientific-guideline) .
+
+As regards the documents published under the exceptional transparency measures, the following pages of the Annex are of relevance:
+
+- For Module 2.3 - Quality Overall Summary: pages 30-33
+- For Module 2.4 - Nonclinical Overview: pages 33-34
+- For Module 2.6 - Nonclinical Summary: pages 37-39
+- For Module 3.2 - Body of quality data: pages 42-47
+- For Module 4.2 - Nonclinical study reports: pages 47-49
+
+Therefore, the documents **published under the exceptional transparency measures** may contain redactions, which are coloured and labelled as follows:
+
+- for CCI: black background with \"CCI\" overlay text
+- for PPD: blue background with \"PPD\" overlay text
+
+CCI and PPD
+
+<!-- image -->
+
+Documents published within the scope of the exceptional transparency measures that have been **previously released under an access to document procedure** under [Regulation (EC) No 1049/2001](https://eur-lex.europa.eu/eli/reg/2001/1049/oj/eng) follow the above-referred principles regarding the redaction of CCI and PPD. However, the formatting of these labels is different, and the overlay text states the exceptions applied in accordance with Article 4 of [Regulation (EC) No 1049/2001](https://eur-lex.europa.eu/eli/reg/2001/1049/oj/eng) .
+
+- for CCI: black background with \"4.2 1 ind.\" overlay text (corresponding to Article 4.2 1 st indent of Regulation (EC) No1049/2001) 4.2 1 ind.
+- for PPD: black background with \"4.1(b)\" overlay text (corresponding to Article 4.1 (b) of Regulation (EC) No1049/2001) 4.1(b)
+
 **Module 2.3 quality overall summary**
 
-Spikevax : Module 2.3.S quality overall summary
+Spikevax : Module 2.3.S drug substance
 
-English (EN) (8.42 MB - ZIP)
+English (EN) (10.4 MB - ZIP)
 
-**First published:** 30/01/2026
-
-**Last updated:** 27/02/2026
+**First published:** 30/01/2026 **Last updated:** 31/03/2026
 
 [View](/en/documents/other/spikevax-module-23-quality-overall-summary_en.zip)
 
@@ -2164,8 +1802,8 @@ English (EN) (2.01 MB - DOCX)
 - [Effectiveness of monovalent XBB.1.5-containing Covid-19 mRNA vaccines in the Nordic countries - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000043)
 - [mRNA-1273-P911: Long-term Outcomes of Myocarditis Following Administration of SPIKEVAX (COVID-19 Vaccine mRNA) - post-authorisation study](https://catalogues.ema.europa.eu/study/107257)
 
-**This page was last updated on** 27/02/2026
+**This page was last updated on**
+
+31/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

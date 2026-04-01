@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-06 11:46:57
+document_datetime: 2026-03-30 11:19:30
 document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/increlex-epar-product-information_en.pdf
 document_name: increlex-epar-product-information_en.pdf
 version: success
-processing_time: 7.4709046
-conversion_datetime: 2025-12-20 17:35:49.475399
+processing_time: 7.8267358
+conversion_datetime: 2026-04-01 12:31:26.119676
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -444,7 +444,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-5 years
+## 5 years
 
 ## After opening
 
@@ -1044,9 +1044,9 @@ Tel: +34 93 446 60 00
 
 ## Česká republika
 
-Esteve Pharmaceuticals S.A.
+Akacia Group, s.r.o.
 
-Tel: +34 93 446 60 00
+Tel: +220 610 491
 
 ## Hrvatska
 
@@ -1068,7 +1068,7 @@ Tlf/Puh/Tel/Sími: +34 93 446 60 00
 
 Esteve Pharmaceuticals GmbH Deutschland
 
-Tel.:  +49 30 338427-100
+Tel.: +49 30 338427-100
 
 ## Eesti
 
@@ -1106,9 +1106,9 @@ Tel: +34 93 446 60 00
 
 ## Polska
 
-Esteve Pharmaceuticals S.A.
+Imed Poland Sp. z o.o.
 
-Tel.: +34 93 446 60 00
+Tel.: + 48 691 702 426
 
 ## Ελλάδα, Κύπρος
 

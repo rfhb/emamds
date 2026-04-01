@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-03 11:56:52
+document_datetime: 2026-03-31 10:08:48
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ogsiveo-epar-product-information_en.pdf
 document_name: ogsiveo-epar-product-information_en.pdf
 version: success
-processing_time: 8.0309654
-conversion_datetime: 2025-12-30 08:52:45.346906
+processing_time: 8.9040205
+conversion_datetime: 2026-04-01 12:37:35.320039
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -612,7 +612,7 @@ EU/1/25/1932/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of First Authorization: 14 August 2025
+Date of first authorization: 14 August 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -636,11 +636,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Patheon France S.A.S 40 Boulevard de Champaret 38300 Bourgoin Jallieu France
-
-Rottendorf Pharma GmbH Ostenfelder Strasse 51-61 D-59320 Ennigerloh Germany
-
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
+MIAS Pharma Limited Suite 1 First Floor, Stafford House Strand Road, Portmarnock DI3 WC83 Ireland
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -669,9 +665,9 @@ Prior to the launch of Ogsiveo (nirogacestat) in each Member State the Marketing
 
 The educational programme is aimed at minimising in utero exposure to Ogsiveo (nirogacestat) and the subsequent potential risk of embryo-fetal toxicity.
 
-<div style=\"page-break-after: always\"></div>
-
 The MAH shall ensure that in each Member State where Ogsiveo (nirogacestat) is marketed, all healthcare professionals who are expected to prescribe or patients who are expected to use Ogsiveo (nirogacestat) have access to/are provided with the following educational materials:
+
+<div style=\"page-break-after: always\"></div>
 
 - Physician educational material
 - Patient card
@@ -702,12 +698,10 @@ The patient card should contain the following key elements:
 - Nirogacestat may cause embryo-foetal harm, including foetal loss, when used during pregnancy.
 - Patients who are women of childbearing potential, and male patients with female partners who are of childbearing potential, have to use highly effective contraceptive methods during treatment with nirogacestat and for 1 week after the last dose.
 - If you are a woman who can become pregnant or a man with a partner who can become pregnant, you must use at least one highly effective method of contraception (such as an intrauterine device) or two complementary forms of contraception including a barrier method.
+- If you suspect that you may be pregnant during treatment with nirogacestat, contact your treating oncologist immediately. If you are pregnant, you must not take nirogacestat.
+- Obligation to conduct post-authorisation measure
 
 <div style=\"page-break-after: always\"></div>
-
-- If you suspect that you may be pregnant during treatment with nirogacestat, contact your treating oncologist immediately. If you are pregnant, you must not take nirogacestat.
-
-## · Obligation to conduct post-authorisation measure
 
 The MAH shall complete, within the stated timeframe, the below measure:
 
@@ -1352,11 +1346,9 @@ The tablets are supplied in cartons containing 56 film -coated tablets in clear 
 
 SpringWorks Therapeutics Ireland Limited Hamilton House, 28 Fitzwilliam Place Dublin 2, D02 P283 Ireland Tel: +49 800 428 3289
 
-## Manufacturers
+## Manufacturer
 
-Patheon France S.A.S 40 Boulevard de Champaret 38300 Bourgoin Jallieu France
-
-Rottendorf Pharma GmbH Ostenfelder Strasse 51-61 D-59320 Ennigerloh Germany
+MIAS Pharma Limited Suite 1 First Floor, Stafford House Strand Road, Portmarnock DI3 WC83 Ireland
 
 ## This leaflet was last revised in
 

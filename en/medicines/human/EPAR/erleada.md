@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-24 16:32:00
+document_datetime: 2026-03-31 16:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/erleada.html
 document_name: erleada.html
 version: success
-processing_time: 0.1116438
-conversion_datetime: 2026-02-25 11:44:34.647097
+processing_time: 0.1179232
+conversion_datetime: 2026-04-01 12:25:56.075249
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Erleada
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-apalutamide Medicine Human Authorised
+apalutamide
+
+Medicine Human Authorised
 
 Page contents
 
@@ -104,191 +106,145 @@ English (EN) (122.39 KB - PDF)
 
 [View](/en/documents/overview/erleada-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-495)
+[Other languages (22)](#file-language-dropdown-653)
 
 български (BG) (144.88 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/bg/documents/overview/erleada-epar-medicine-overview_bg.pdf)
 
 español (ES) (121.81 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/es/documents/overview/erleada-epar-medicine-overview_es.pdf)
 
 čeština (CS) (142.8 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/cs/documents/overview/erleada-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (120.42 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/da/documents/overview/erleada-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (124.16 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/de/documents/overview/erleada-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (108.9 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/et/documents/overview/erleada-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (143.24 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/el/documents/overview/erleada-epar-medicine-overview_el.pdf)
 
 français (FR) (122.83 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/fr/documents/overview/erleada-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (141.76 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/hr/documents/overview/erleada-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (120.35 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/it/documents/overview/erleada-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (159.39 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/lv/documents/overview/erleada-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (140.97 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/lt/documents/overview/erleada-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (141.05 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/hu/documents/overview/erleada-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (145.98 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/mt/documents/overview/erleada-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (120.95 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/nl/documents/overview/erleada-epar-medicine-overview_nl.pdf)
 
 polski (PL) (144.26 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/pl/documents/overview/erleada-epar-medicine-overview_pl.pdf)
 
 português (PT) (122.14 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/pt/documents/overview/erleada-epar-medicine-overview_pt.pdf)
 
 română (RO) (140.21 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/ro/documents/overview/erleada-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (143.48 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/sk/documents/overview/erleada-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (140.68 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/sl/documents/overview/erleada-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (118.99 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/fi/documents/overview/erleada-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (121.8 KB - PDF)
 
-**First published:**
-
-19/03/2019
+**First published:** 19/03/2019
 
 [View](/sv/documents/overview/erleada-epar-medicine-overview_sv.pdf)
 
 Erleada : EPAR - Risk-management-plan
 
-English (EN) (463.25 KB - PDF)
+English (EN) (383.79 KB - PDF)
 
-**First published:** 09/01/2025
-
-**Last updated:** 19/11/2025
+**First published:** 09/01/2025 **Last updated:** 31/03/2026
 
 [View](/en/documents/rmp/erleada-epar-risk-management-plan_en.pdf)
 
@@ -298,303 +254,159 @@ Erleada : EPAR - Product information
 
 English (EN) (1.4 MB - PDF)
 
-**First published:** 19/03/2019
-
-**Last updated:** 24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/en/documents/product-information/erleada-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-595)
+[Other languages (24)](#file-language-dropdown-405)
 
-български (BG) (865.67 KB - PDF)
+български (BG) (868.52 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/bg/documents/product-information/erleada-epar-product-information_bg.pdf)
 
-español (ES) (980.87 KB - PDF)
+español (ES) (983.02 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/es/documents/product-information/erleada-epar-product-information_es.pdf)
 
-čeština (CS) (1.06 MB - PDF)
+čeština (CS) (1.07 MB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/cs/documents/product-information/erleada-epar-product-information_cs.pdf)
 
-dansk (DA) (1.29 MB - PDF)
+dansk (DA) (1.3 MB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/da/documents/product-information/erleada-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.22 MB - PDF)
+Deutsch (DE) (1.23 MB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/de/documents/product-information/erleada-epar-product-information_de.pdf)
 
 eesti keel (ET) (1.23 MB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/et/documents/product-information/erleada-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.37 MB - PDF)
+ελληνικά (EL) (1.38 MB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/el/documents/product-information/erleada-epar-product-information_el.pdf)
 
 français (FR) (1.53 MB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/fr/documents/product-information/erleada-epar-product-information_fr.pdf)
 
 hrvatski (HR) (1.27 MB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/hr/documents/product-information/erleada-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.17 MB - PDF)
+íslenska (IS) (1.18 MB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/is/documents/product-information/erleada-epar-product-information_is.pdf)
 
 italiano (IT) (1.35 MB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/it/documents/product-information/erleada-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.91 MB - PDF)
+latviešu valoda (LV) (2.92 MB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/lv/documents/product-information/erleada-epar-product-information_lv.pdf)
 
 lietuvių kalba (LT) (1.64 MB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/lt/documents/product-information/erleada-epar-product-information_lt.pdf)
 
-magyar (HU) (883.42 KB - PDF)
+magyar (HU) (886.55 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/hu/documents/product-information/erleada-epar-product-information_hu.pdf)
 
 Malti (MT) (1.07 MB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/mt/documents/product-information/erleada-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.21 MB - PDF)
+Nederlands (NL) (1.22 MB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/nl/documents/product-information/erleada-epar-product-information_nl.pdf)
 
-norsk (NO) (1.35 MB - PDF)
+norsk (NO) (1.33 MB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/no/documents/product-information/erleada-epar-product-information_no.pdf)
 
 polski (PL) (1.57 MB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/pl/documents/product-information/erleada-epar-product-information_pl.pdf)
 
 português (PT) (1.34 MB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/pt/documents/product-information/erleada-epar-product-information_pt.pdf)
 
-română (RO) (861.38 KB - PDF)
+română (RO) (862.7 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/ro/documents/product-information/erleada-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1007.2 KB - PDF)
+slovenčina (SK) (1008.97 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/sk/documents/product-information/erleada-epar-product-information_sk.pdf)
 
-slovenščina (SL) (958.59 KB - PDF)
+slovenščina (SL) (960.08 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/sl/documents/product-information/erleada-epar-product-information_sl.pdf)
 
-Suomi (FI) (890.42 KB - PDF)
+Suomi (FI) (891.93 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/fi/documents/product-information/erleada-epar-product-information_fi.pdf)
 
-svenska (SV) (1.1 MB - PDF)
+svenska (SV) (1.11 MB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-24/02/2026
+**First published:** 19/03/2019 **Last updated:** 31/03/2026
 
 [View](/sv/documents/product-information/erleada-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000323347 12/02/2026
+**Latest procedure affecting product information:** VR/0000296280
+
+26/03/2026
 
 icon globe
 
@@ -614,305 +426,177 @@ Erleada : EPAR - All authorised presentations
 
 English (EN) (30.98 KB - PDF)
 
-**First published:** 19/03/2019
-
-**Last updated:** 08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/en/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-527)
+[Other languages (24)](#file-language-dropdown-746)
 
 български (BG) (32.71 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/bg/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (31.07 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/es/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (32.11 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/cs/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (31.19 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/da/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (25.77 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/de/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (24.84 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/et/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (33.12 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/el/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (30.52 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/fr/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (29.91 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/hr/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (30.99 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/is/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (30.86 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/it/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (25.8 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/lv/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (26.01 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/lt/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (31.93 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/hu/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (32.14 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/mt/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (30.24 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/nl/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (31.41 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/no/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (31.7 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/pl/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (31.51 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/pt/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (30.74 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/ro/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (32.18 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/sk/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (31.32 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/sl/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (30.66 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/fi/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (30.2 KB - PDF)
 
-**First published:**
-
-19/03/2019
-
-**Last updated:**
-
-08/07/2025
+**First published:** 19/03/2019 **Last updated:** 08/07/2025
 
 [View](/sv/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Erleada Active substance apalutamide International non-proprietary name (INN) or common name apalutamide Therapeutic area (MeSH) Prostatic Neoplasms Anatomical therapeutic chemical (ATC) code L02BB05
+Name of medicine
+
+Erleada
+
+Active substance
+
+apalutamide
+
+International non-proprietary name (INN) or common name
+
+apalutamide
+
+Therapeutic area (MeSH)
+
+Prostatic Neoplasms
+
+Anatomical therapeutic chemical (ATC) code
+
+L02BB05
 
 ### Pharmacotherapeutic group
 
@@ -927,13 +611,27 @@ Erleada is indicated:
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004452 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/004452
+
+Marketing authorisation holder
 
 Janssen-Cilag International NV
 
 Turnhoutseweg 30
 
-Opinion adopted 15/11/2018 Marketing authorisation issued 14/01/2019 Revision 21
+Opinion adopted
+
+15/11/2018
+
+Marketing authorisation issued
+
+14/01/2019
+
+Revision
+
+22
 
 ## Assessment history
 
@@ -945,11 +643,9 @@ Collapse section
 
 Erleada : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (177.98 KB - PDF)
+English (EN) (191.18 KB - PDF)
 
-**First published:** 19/11/2025
-
-**Last updated:** 24/02/2026
+**First published:** 19/11/2025 **Last updated:** 31/03/2026
 
 [View](/en/documents/procedural-steps-after/erleada-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -957,9 +653,7 @@ Erleada : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (245.11 KB - PDF)
 
-**First published:** 18/02/2020
-
-**Last updated:** 19/11/2025
+**First published:** 18/02/2020 **Last updated:** 19/11/2025
 
 [View](/en/documents/procedural-steps-after/erleada-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -975,9 +669,7 @@ English (EN) (116.15 KB - PDF)
 
 Erleada-H-C-PSUSA-00010745-202402 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/563609/2024
+Adopted Reference Number: EMA/563609/2024
 
 English (EN) (110.36 KB - PDF)
 
@@ -997,9 +689,7 @@ English (EN) (187.01 KB - PDF)
 
 Erleada-H-C-004452-X-0028-G : EPAR - Assessment report - Extension
 
-Adopted
-
-Reference Number: EMA/317740/2023
+Adopted Reference Number: EMA/317740/2023
 
 English (EN) (1.09 MB - PDF)
 
@@ -1009,9 +699,7 @@ English (EN) (1.09 MB - PDF)
 
 Erleada-H-C-PSUSA-00010745-202202 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/129416/2023
+Adopted Reference Number: EMA/129416/2023
 
 English (EN) (105.77 KB - PDF)
 
@@ -1021,9 +709,7 @@ English (EN) (105.77 KB - PDF)
 
 Erleada-H-C-4452-II-0001 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/3945/2020
+Adopted Reference Number: EMA/CHMP/3945/2020
 
 English (EN) (5.86 MB - PDF)
 
@@ -1033,9 +719,7 @@ English (EN) (5.86 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Erleada (II-01)
 
-Adopted
-
-Reference Number: EMA/CHMP/672735/2019
+Adopted Reference Number: EMA/CHMP/672735/2019
 
 English (EN) (136.99 KB - PDF)
 
@@ -1047,9 +731,7 @@ English (EN) (136.99 KB - PDF)
 
 Erleada : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/879617/2018
+Adopted Reference Number: EMA/879617/2018
 
 English (EN) (7.96 MB - PDF)
 
@@ -1059,9 +741,7 @@ English (EN) (7.96 MB - PDF)
 
 CHMP summary of positive opinion for Erleada
 
-Adopted
-
-Reference Number: EMA/CHMP/784876/2018
+Adopted Reference Number: EMA/CHMP/784876/2018
 
 English (EN) (61.01 KB - PDF)
 
@@ -1071,16 +751,20 @@ English (EN) (61.01 KB - PDF)
 
 ## News on Erleada
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2019) 13/12/2019
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2019)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 November 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-november-2018) 16/11/2018
+13/12/2019
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 November 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-november-2018)
+
+16/11/2018
 
 ## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 24/02/2026
+**This page was last updated on**
+
+31/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

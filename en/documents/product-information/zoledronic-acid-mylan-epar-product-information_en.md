@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-07 10:10:27
+document_datetime: 2026-03-31 13:23:27
 document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zoledronic-acid-mylan-epar-product-information_en.pdf
 document_name: zoledronic-acid-mylan-epar-product-information_en.pdf
 version: success
-processing_time: 13.2314919
-conversion_datetime: 2025-12-23 07:51:33.324515
+processing_time: 13.4615613
+conversion_datetime: 2026-04-01 12:30:34.78881
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -51,7 +51,7 @@ Zoledronic acid Mylan must only be prescribed and administered to patients by he
 
 ## Posology
 
-## Prevention of skeletal related events in patients with advanced malignancies involving bone Adults and elderly people
+Prevention of skeletal related events in patients with advanced malignancies involving bone Adults and elderly people
 
 The recommended dose in the prevention of skeletal related events in patients with advanced malignancies involving bone is 4 mg zoledronic acid every 3 to 4 weeks.
 
@@ -105,7 +105,7 @@ In patients with mild to moderate renal impairment, reduced zoledronic acid dose
 
 <div style=\"page-break-after: always\"></div>
 
-Instructions for preparing reduced doses of Zoledronic acid Mylan
+## Instructions for preparing reduced doses of Zoledronic acid Mylan
 
 Withdraw an appropriate volume of the concentrate needed, as follows:
 
@@ -121,8 +121,8 @@ Patients must be maintained well hydrated prior to and following administration 
 
 ## 4.3. Contraindications
 
--  Hypersensitivity to the active substance, to other bisphosphonates or to any of the excipients listed in section 6.1
--  Breast-feeding (see section 4.6
+- Hypersensitivity to the active substance, to other bisphosphonates or to any of the excipients listed in section 6.1
+- Breast-feeding (see section 4.6
 
 ## 4.4. Special warnings and precautions for use
 
@@ -251,59 +251,59 @@ The following adverse reactions, listed in Table 1, have been accumulated from c
 
 Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100), rare ( ≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the available data).
 
-| Blood and lymphatic system disorders            | Blood and lymphatic system disorders            | Blood and lymphatic system disorders                                                                                                                                    |
-|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                 | Common:                                         | Anaemia                                                                                                                                                                 |
-|                                                 | Uncommon:                                       | Thrombocytopenia, leukopenia                                                                                                                                            |
-|                                                 | Rare:                                           | Pancytopenia                                                                                                                                                            |
-| Immune system disorders                         | Immune system disorders                         | Immune system disorders                                                                                                                                                 |
-|                                                 | Uncommon:                                       | Hypersensitivity reaction                                                                                                                                               |
-|                                                 | Rare:                                           | Angioneurotic oedema                                                                                                                                                    |
-| Psychiatric disorders                           | Psychiatric disorders                           |                                                                                                                                                                         |
-|                                                 | Uncommon:                                       | Anxiety, sleep disturbance                                                                                                                                              |
-|                                                 | Rare:                                           | Confusion                                                                                                                                                               |
-| Nervous system disorders                        | Nervous system disorders                        |                                                                                                                                                                         |
-|                                                 | Common:                                         | Headache                                                                                                                                                                |
-|                                                 | Uncommon:                                       | Dizziness, paraesthesia, dysgeusia, hypoaesthesia, hyperaesthesia, tremor, somnolence                                                                                   |
-|                                                 | Very rare:                                      | Convulsions, hypoaesthesia and tetany                                                                                                                                   |
-|                                                 |                                                 | (secondary to hypocalcaemia)                                                                                                                                            |
-| Eye disorders                                   |                                                 |                                                                                                                                                                         |
-|                                                 | Common:                                         | Conjunctivitis                                                                                                                                                          |
-|                                                 | Uncommon:                                       | Blurred vision, scleritis and orbital inflammation                                                                                                                      |
-|                                                 | Rare:                                           | Uveitis                                                                                                                                                                 |
-|                                                 | Very rare:                                      | Episcleritis                                                                                                                                                            |
-| Cardiac disorders                               | Cardiac disorders                               |                                                                                                                                                                         |
-|                                                 | Uncommon:                                       | Hypertension, hypotension, atrial fibrillation,                                                                                                                         |
-|                                                 | Rare:                                           | hypotension leading to syncope or circulatory collapse                                                                                                                  |
-|                                                 |                                                 | Bradycardia, cardiac arrhythmia (secondary to hypocalcaemia)                                                                                                            |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders |                                                                                                                                                                         |
-|                                                 | Uncommon:                                       | Dyspnoea, cough, bronchoconstriction                                                                                                                                    |
-|                                                 | Rare:                                           | Interstitial lung disease                                                                                                                                               |
-| Gastrointestinal disorders                      | Gastrointestinal disorders                      |                                                                                                                                                                         |
-|                                                 | Common:                                         | Nausea, vomiting, decreased appetite                                                                                                                                    |
-|                                                 | Uncommon:                                       | Diarrhoea, constipation, abdominal pain, dyspepsia, stomatitis, dry mouth                                                                                               |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          |                                                                                                                                                                         |
-|                                                 | Uncommon:                                       | Pruritus, rash (including erythematous and macular rash), increased sweating                                                                                            |
-|                                                 | Common:                                         | Bone pain, myalgia, arthralgia, generalised pain Muscle spasms, osteonecrosis of the jaw Osteonecrosis of the external auditory (bisphosphonate class adverse reaction) |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders |                                                                                                                                                                         |
-|                                                 |                                                 | and other anatomical sites including femur and hip                                                                                                                      |
-|                                                 | Uncommon: Very rare:                            | canal                                                                                                                                                                   |
+| Blood and lymphatic system disorders            | Blood and lymphatic system disorders            | Blood and lymphatic system disorders                                                                                                  |
+|-------------------------------------------------|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+|                                                 | Common:                                         | Anaemia                                                                                                                               |
+|                                                 | Uncommon:                                       | Thrombocytopenia, leukopenia                                                                                                          |
+|                                                 | Rare:                                           | Pancytopenia                                                                                                                          |
+| Immune system disorders                         | Immune system disorders                         | Immune system disorders                                                                                                               |
+|                                                 | Uncommon:                                       | Hypersensitivity reaction                                                                                                             |
+|                                                 | Rare:                                           | Angioneurotic oedema                                                                                                                  |
+| Psychiatric disorders                           | Psychiatric disorders                           |                                                                                                                                       |
+|                                                 | Uncommon:                                       | Anxiety, sleep disturbance                                                                                                            |
+|                                                 | Rare:                                           | Confusion                                                                                                                             |
+| Nervous system disorders                        | Nervous system disorders                        |                                                                                                                                       |
+|                                                 | Common:                                         | Headache                                                                                                                              |
+|                                                 | Uncommon:                                       | Dizziness, paraesthesia, dysgeusia, hypoaesthesia, hyperaesthesia, tremor, somnolence                                                 |
+|                                                 | Very rare:                                      | Convulsions, hypoaesthesia and tetany                                                                                                 |
+|                                                 |                                                 | (secondary to hypocalcaemia)                                                                                                          |
+| Eye disorders                                   |                                                 |                                                                                                                                       |
+|                                                 | Common:                                         | Conjunctivitis                                                                                                                        |
+|                                                 | Uncommon:                                       | Blurred vision, scleritis and orbital                                                                                                 |
+|                                                 | Rare:                                           | Uveitis                                                                                                                               |
+|                                                 | Very rare:                                      | Episcleritis                                                                                                                          |
+| Cardiac disorders                               | Cardiac disorders                               |                                                                                                                                       |
+|                                                 | Uncommon:                                       | Hypertension, hypotension, atrial fibrillation, hypotension leading to syncope or circulatory                                         |
+|                                                 | Rare:                                           | collapse                                                                                                                              |
+|                                                 |                                                 | Bradycardia, cardiac arrhythmia (secondary to hypocalcaemia)                                                                          |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders |                                                                                                                                       |
+|                                                 | Uncommon:                                       | Dyspnoea, cough, bronchoconstriction                                                                                                  |
+|                                                 | Rare:                                           | Interstitial lung disease                                                                                                             |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                      |                                                                                                                                       |
+|                                                 | Common:                                         | Nausea, vomiting, decreased appetite                                                                                                  |
+|                                                 | Uncommon:                                       | Diarrhoea, constipation, abdominal pain,                                                                                              |
+| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          |                                                                                                                                       |
+|                                                 | Uncommon:                                       | Pruritus, rash (including erythematous and                                                                                            |
+|                                                 |                                                 | macular rash), increased sweating                                                                                                     |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders |                                                                                                                                       |
+|                                                 | Common:                                         | Bone pain, myalgia, arthralgia, generalised pain Muscle spasms, osteonecrosis of the jaw Osteonecrosis of the external auditory canal |
+|                                                 | Uncommon: Very rare:                            | (bisphosphonate class adverse reaction) and other anatomical sites including femur and                                                |
 
 <div style=\"page-break-after: always\"></div>
 
-| Renal and urinary disorders                          |                                                      |                                                                                                                                                                                                                            |
+| Renal and urinary disorders                          |                                                      | Renal impairment Acute renal failure, haematuria, proteinuria Acquired Fanconi syndrome                                                                                                                                    |
 |------------------------------------------------------|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                      | Common:                                              | Renal impairment                                                                                                                                                                                                           |
-|                                                      | Uncommon:                                            | Acute renal failure, haematuria, proteinuria                                                                                                                                                                               |
-|                                                      | Rare:                                                | Acquired Fanconi syndrome                                                                                                                                                                                                  |
+|                                                      | Common:                                              |                                                                                                                                                                                                                            |
+|                                                      | Uncommon:                                            |                                                                                                                                                                                                                            |
+|                                                      | Rare:                                                |                                                                                                                                                                                                                            |
 |                                                      | Not known:                                           | Tubulointerstitial nephritis                                                                                                                                                                                               |
 | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                                                                       |
 |                                                      | Common:                                              | Fever, flu-like syndrome (including fatigue, rigors, malaise and flushing)                                                                                                                                                 |
 |                                                      | Uncommon:                                            | Asthenia, peripheral oedema, injection site reactions (including pain, irritation, swelling, induration), chest pain, weight increase, anaphylactic reaction/shock, urticaria Arthritis and joint swelling as a symptom of |
 |                                                      | Rare:                                                | acute phase reaction                                                                                                                                                                                                       |
 | Investigations                                       | Investigations                                       | Investigations                                                                                                                                                                                                             |
-|                                                      | Very common:                                         | Hypophosphataemia                                                                                                                                                                                                          |
-|                                                      | Common:                                              | Blood creatinine and blood urea increased, hypocalcaemia                                                                                                                                                                   |
+|                                                      | Very common:                                         | Hypophosphataemia Blood creatinine and blood urea increased, hypocalcaemia                                                                                                                                                 |
+|                                                      | Common:                                              |                                                                                                                                                                                                                            |
 |                                                      | Uncommon:                                            | Hypomagnesaemia, hypokalaemia                                                                                                                                                                                              |
 |                                                      | Rare:                                                | Hyperkalaemia, hypernatraemia                                                                                                                                                                                              |
 
@@ -379,10 +379,6 @@ Table 2: Efficacy results (prostate cancer patients receiving hormonal therapy)
 | Risk reduction of suffering from multiple events** (%) | 36                   | -                | NA                   | NA           | NA                          | NA                          |
 | p-value                                                | 0.002                | 0.002            | NA                   | NA           | NA                          | NA                          |
 
-* Includes vertebral and non-vertebral fractures
-
-** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
-
 NA Not Applicable
 
 <div style=\"page-break-after: always\"></div>
@@ -401,10 +397,6 @@ Table 3: Efficacy results (solid tumours other than breast or prostate cancer)
 | p-value                                                | 0.012                | 0.012            | 0.066                | 0.066        | 0.099                       | 0.099                       |
 | Risk reduction of suffering from multiple events** (%) | 30.7                 | -                | NA                   | NA           | NA                          | NA                          |
 | p-value                                                | 0.003                | 0.003            | NA                   | NA           | NA                          | NA                          |
-
-* Includes vertebral and non-vertebral fractures
-
-** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
 
 NA Not Applicable
 
@@ -425,9 +417,7 @@ Table 4: Efficacy results (breast cancer and multiple myeloma patients)
 | Risk reduction of suffering from multiple events** (%) | 16                   | -                | NA                   | NA           | NA                          | NA                          |
 | p-value                                                | 0.030                | 0.030            | NA                   | NA           | NA                          | NA                          |
 
-* Includes vertebral and non-vertebral fractures
-
-** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
+NR Not Reached
 
 NA Not Applicable
 
@@ -506,8 +496,6 @@ Table 6: Adverse reactions observed in paediatric patients with severe osteogene
 | Investigations                                       |                                                       |
 | Very common:                                         | Hypocalcaemia                                         |
 | Common:                                              | Hypophosphataemia                                     |
-
-1 Adverse events occurring with frequencies &lt; 5% were medically assessed and it was shown that these cases are consistent with the well established safety profile of zoledronic acid (see section 4.8)
 
 In paediatric patients with severe osteogenesis imperfecta, zoledronic acid seems to be associated with more pronounced risks for acute phase reaction, hypocalcaemia and unexplained tachycardia, in comparison to pamidronate, but this difference declined after subsequent infusions.
 
@@ -599,9 +587,7 @@ Packs containing 1, 4 or 10 vials or multipacks containing 4 (4 cartons of 1) vi
 
 Not all pack sizes may be marketed.
 
-6.6.
-
-Special precautions for disposal and other handling
+## 6.6. Special precautions for disposal and other handling
 
 Prior to administration, 5 ml concentrate from one vial or the volume of the concentrate withdrawn as required must be further diluted with 100 ml of calcium-free infusion solution (sodium chloride
 
@@ -670,13 +656,13 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
--  Periodic Safety Update Reports
+- Periodic Safety Update Reports
 
 The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
--  Risk Management Plan (RMP)
+- Risk Management Plan (RMP)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -684,8 +670,8 @@ The MAH shall perform the required pharmacovigilance activities and intervention
 
 ## An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
 
 ## Additional risk minimisation measures
 
@@ -753,8 +739,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -774,21 +760,21 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Justification for not including Braille accepted
+Zoledronic acid Mylan 4 mg/5 ml
 
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC: SN: NN:
 
@@ -826,8 +812,7 @@ Intravenous use after dilution.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 8. EXPIRY DATE
 
 EXP
@@ -858,13 +843,13 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Justification for not including Braille accepted
+Zoledronic acid Mylan 4 mg/5 ml
 
 <div style=\"page-break-after: always\"></div>
 
@@ -912,43 +897,38 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/12/786/004 Multipack: 4 vials (4 packs of 1)
+EU/1/12/786/004
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+Multipack: 4 vials (4 packs of 1)
+
+13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
-
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 
-Justification for not including Braille accepted
+Zoledronic acid Mylan 4 mg/5 ml
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC: SN: NN:
+PC: SN:
+
+NN:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -976,9 +956,9 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package Leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Zoledronic acid Mylan 4 mg/5 ml concentrate for solution for infusion Zoledronic acid
 
@@ -1221,11 +1201,13 @@ Viatris Tél/Tel: + 32 (0)2 658 61 00
 
 ## България
 
-Майлан ЕООД Te л : +359 2 44 55 400
+Виатрис ЕООД Te л : +359 2 44 55 400
 
 ## Č eská republika
 
-Viatris CZ s.r.o. Tel: + 420 222 004 400
+Viatris CZ s.r.o.
+
+Tel: + 420 222 004 400
 
 ## Danmark
 
@@ -1245,9 +1227,7 @@ Viatris Hellas Ltd Τηλ :  +30 2100 100 002
 
 ## Lietuva
 
-Viatris UAB
-
-Tel: +370 5 205 1288
+Viatris UAB Tel: +370 5 205 1288
 
 ## Luxembourg/Luxemburg
 
@@ -1263,7 +1243,9 @@ V.J. Salomone Pharma Ltd Tel: + 356 21 22 01 74
 
 ## Nederland
 
-Mylan BV Tel: +31 (0)20 426 3300
+Mylan BV
+
+Tel: +31 (0)20 426 3300
 
 ## Norge
 
@@ -1277,9 +1259,7 @@ Viatris Austria GmbH Tel: + 43 1 86390
 
 ## España
 
-Viatris Pharmaceuticals, S.L.
-
-Tel: + 34 900 102 712
+Viatris Pharmaceuticals, S.L. Tel: + 34 900 102 712
 
 ## France
 
@@ -1299,7 +1279,9 @@ Icepharma hf. Sími: +354 540 8000
 
 ## Italia
 
-Viatris Italia S.r.l. Tel: + 39 (0) 2 612 46921
+Viatris Italia S.r.l.
+
+Tel: + 39 (0) 2 612 46921
 
 ## Κύπρος
 
@@ -1319,7 +1301,9 @@ Tel: +371 676 055 80
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+http://www.ema.europa.eu
 
 ## Polska
 
@@ -1337,11 +1321,15 @@ BGP Products SRL Tel: +40 372 579 000
 
 ## Slovenija
 
-Viatris d.o.o. Tel: + 386 1 23 63 180
+Viatris d.o.o.
+
+Tel: + 386 1 23 63 180
 
 ## Slovenská republika
 
-Viatris Slovakia s.r.o. Tel: +421 2 32 199 100
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
 
 ## Suomi/Finland
 
@@ -1361,7 +1349,9 @@ Viatris AB Tel: +46 (0)8 630 19 00
 
 ## Do not mix Zoledronic acid Mylan concentrate with calcium-containing or other divalent cation-containing solutions such as lactated Ringer's solution.
 
-Instructions for preparing reduced doses of Zoledronic acid Mylan: Withdraw the appropriate volume of the liquid concentrate, as follows:
+Instructions for preparing reduced doses of Zoledronic acid Mylan:
+
+Withdraw the appropriate volume of the liquid concentrate, as follows:
 
 - -4.4 ml for 3.5 mg dose
 - -4.1 ml for 3.3 mg dose

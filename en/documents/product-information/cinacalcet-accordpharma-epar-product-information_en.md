@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:58:21
-document_pages: 51
+document_datetime: 2026-03-31 13:01:47
+document_pages: 52
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cinacalcet-accordpharma-epar-product-information_en.pdf
 document_name: cinacalcet-accordpharma-epar-product-information_en.pdf
 version: success
-processing_time: 9.3823922
-conversion_datetime: 2025-12-17 08:44:11.877749
+processing_time: 10.3650722
+conversion_datetime: 2026-04-01 12:33:44.440815
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -66,8 +66,8 @@ Cinacalcet Accordpharma may be used as part of a therapeutic regimen including p
 
 Reduction of hypercalcaemia in adult patients with:
 
--  parathyroid carcinoma.
--  primary HPT for whom parathyroidectomy would be indicated on the basis of serum calcium levels (as defined by relevant treatment guidelines), but in whom parathyroidectomy is not clinically appropriate or is contraindicated.
+- parathyroid carcinoma.
+- primary HPT for whom parathyroidectomy would be indicated on the basis of serum calcium levels (as defined by relevant treatment guidelines), but in whom parathyroidectomy is not clinically appropriate or is contraindicated.
 
 ## 4.2 Posology and method of administration
 
@@ -105,14 +105,14 @@ The dose can be increased to achieve a desired target iPTH range. The dose shoul
 
 Table 1. Cinacalcet daily dose in paediatric patients
 
-| Patient dry weight (kg)   | Starting dose (mg)   | Available sequential dose levels (mg)   |
+| Patient dry weight (kg)   |   Starting dose (mg) | Available sequential dose levels (mg)   |
 |---------------------------|----------------------|-----------------------------------------|
-| 10 to < 12.5              | 1                    | 1, 2.5, 5, 7.5, 10 and 15               |
-| ≥ 12.5 to < 25            | 2.5                  | 2.5, 5, 7.5, 10, 15, and 30             |
+| 10 to < 12.5              |                  1   | 1, 2.5, 5, 7.5, 10 and 15               |
+| ≥ 12.5 to < 25            |                  2.5 | 2.5, 5, 7.5, 10, 15, and 30             |
 | ≥ 25 to < 36              |                      | 5, 10, 15, 30, and 60                   |
-| ≥ 36 to < 50              | 5                    | 5, 10, 15, 30, 60, and 90               |
-| ≥ 50 to < 75              | 10                   | 10, 15, 30, 60, 90, and 120             |
-| ≥ 75                      | 15                   | 15, 30, 60, 90, 120, and 180            |
+| ≥ 36 to < 50              |                  5   | 5, 10, 15, 30, 60, and 90               |
+| ≥ 50 to < 75              |                 10   | 10, 15, 30, 60, 90, and 120             |
+| ≥ 75                      |                 15   | 15, 30, 60, 90, 120, and 180            |
 
 Cinacalcet Accordpharma is only available as film-coated tablet. Thus, it is not possible to administer cinacalcet Accordpharma to paediatric patients that require less than a full 30 mg dose. If an alternate dose is required, other cinacalcet products offering such an option should be used.
 
@@ -122,8 +122,8 @@ PTH levels should be assessed at least 12 hours after dosing with cinacalcet and
 
 The dose should be adjusted based on iPTH as shown below:
 
--  If iPTH is &lt; 150 pg/mL (15.9 pmol/L) and ≥ 100 pg/mL (10.6 pmol/L), decrease the dose of cinacalcet to the next lower dose.
--  If iPTH &lt; 100 pg/mL (10.6 pmol/L), stop cinacalcet treatment, restart cinacalcet at the next lower dose once the iPTH is &gt; 150 pg/mL (15.9 pmol/L). If cinacalcet treatment has been stopped for more than 14 days, restart at the recommended starting dose.
+- If iPTH is &lt; 150 pg/mL (15.9 pmol/L) and ≥ 100 pg/mL (10.6 pmol/L), decrease the dose of cinacalcet to the next lower dose.
+- If iPTH &lt; 100 pg/mL (10.6 pmol/L), stop cinacalcet treatment, restart cinacalcet at the next lower dose once the iPTH is &gt; 150 pg/mL (15.9 pmol/L). If cinacalcet treatment has been stopped for more than 14 days, restart at the recommended starting dose.
 
 ## Dose adjustment based on serum calcium levels
 
@@ -139,8 +139,6 @@ Table 2. Dose adjustment in paediatric patients ≥ 3 to &lt; 18 years of age
 |------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Corrected serum calcium is at or below age-specified lower limit of normal or if symptoms of hypocalcaemia occur, regardless of calcium level. | Stop treatment with cinacalcet.* Administer calcium supplements, calcium-containing phosphate binders and/or vitamin D sterols, as clinically indicated.                                                                                                     |
 | Corrected total serum calcium is above age-specified lower limit of normal, and Symptoms of hypocalcaemia have resolved.                       | Restart at the next lower dose. If cinacalcet treatment has been stopped for more than 14 days, restart at the recommended starting dose. If patient was receiving the lowest dose (1 mg/day) prior to discontinuation, restart at the same dose (1 mg/day). |
-
-*If the dose has been stopped, corrected serum calcium should be measured within 5 to 7 days
 
 The safety and efficacy of cinacalcet in children aged less than 3 years for the treatment of secondary hyperparathyroidism have not been established. Insufficient data are available.
 
@@ -302,7 +300,7 @@ Based on available data from patients receiving cinacalcet in placebo-controlled
 
 ## b) Tabulated list of adverse reactions
 
-Adverse reactions, considered at least possibly attributable to cinacalcet treatment in the placebocontrolled studies and single-arm studies based on best-evidence assessment of causality are listed below using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000).
+Adverse reactions, considered at least possibly attributable to cinacalcet treatment in the placebocontrolled studies and single-arm studies based on best-evidence assessment of causality are listed below using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,0 00); very rare (&lt; 1/10,000).
 
 Incidence of adverse reactions from controlled clinical studies and post-marketing experience are:
 
@@ -380,7 +378,7 @@ After steady state is reached, serum calcium concentrations remain constant over
 
 ## Adults
 
-Three, 6-month, double-blind, placebo-controlled clinical studies were conducted in ESRD patients with uncontrolled secondary HPT receiving dialysis (n = 1,136). Demographic and baseline characteristics were representative of the dialysis patient population with secondary HPT. Mean baseline iPTH concentrations across the 3 studies were 733 and 683 pg/mL (77.8 and 72.4 pmol/L) for the cinacalcet and placebo groups, respectively. 66% of patients were receiving vitamin D sterols at study entry, and &gt; 90% were receiving phosphate binders. Significant reductions in iPTH, serum calcium-phosphorus product (Ca x P), calcium, and phosphorus were observed in the cinacalcettreated patients compared with placebo-treated patients receiving standard of care, and the results were consistent across the 3 studies. In each of the studies, the primary endpoint (proportion of patients with an iPTH ≤ 250 pg/mL (≤ 26.5 pmol/L)) was achieved by 41%, 46%, and 35% of patients receiving cinacalcet, compared with 4%, 7%, and 6% of patients receiving placebo. Approximately 60% of cinacalcet-treated patients achieved a ≥ 30% reduction in iPTH levels, and this effect was consistent across the spectrum of baseline iPTH levels. The mean reductions in serum Ca x P, calcium, and phosphorus were 14%, 7% and 8%, respectively.
+Three, 6-month, double-blind, placebo-controlled clinical studies were conducted in ESRD patients with uncontrolled secondary HPT receiving dialysis (n = 1,136). Demographic and baseline characteristics were representative of the dialysis patient population with secondary HPT. Mean baseline iPTH concentrations across the 3 studies were 733 and 683 pg/mL (77.8 and 72.4 pmol/L) for the cinacalcet and placebo groups, respectively. 66% of patients were receiving vitamin D sterols at study entry, and &gt; 90% were receiving phosphate binders. Significant reductions in iPTH, serum calcium-phosphorus product (Ca x P), calcium, and phosphorus were observed in the cinacalcettreated patients compared with placebo-treated patients receiving standard of care, and the results were consistent across the 3 studies. In each of the studies, the primary endpoint (proportion of patients with an iPTH ≤ 250 pg/mL (≤ 26.5 pmol/L)) was achieved by 41%, 46%, and 35% of patients receiving cinacalcet, compared with 4%, 7%, and 6% of patients receiving placebo. Approximately 60% of cinacalcettreated patients achieved a ≥ 30% reduction in iPTH levels, and this effect was consistent across the spectrum of baseline iPTH levels. The mean reductions in serum Ca x P, calcium, and phosphorus were 14%, 7% and 8%, respectively.
 
 Reductions in iPTH and Ca x P were maintained for up to 12 months of treatment. Cinacalcet decreased iPTH and Ca x P, calcium and phosphorus levels regardless of baseline iPTH or Ca x P level, dialysis modality (PD versus HD), duration of dialysis, and whether or not vitamin D sterols were administered.
 
@@ -414,7 +412,7 @@ Seventeen patients received at least one dose of cinacalcet and 11 completed at 
 
 In one study, 46 adult patients (29 with parathyroid carcinoma and 17 with primary HPT and severe hypercalcaemia who had failed or had contraindications to parathyroidectomy) received cinacalcet for up to 3 years (mean of 328 days for patients with parathyroid carcinoma and mean of 347 days for patients with primary HPT). Cinacalcet was administered at doses ranging from 30 mg twice daily to 90 mg four times daily. The primary endpoint of the study was a reduction of serum calcium of ≥ 1 mg/dL (≥ 0.25 mmol/L). In patients with parathyroid carcinoma, mean serum calcium declined from 14.1 mg/dL to 12.4 mg/dL (3.5 mmol/L to 3.1 mmol/L), while in patients with primary HPT, serum calcium levels declined from 12.7 mg/dL to 10.4 mg/dL (3.2 mmol/L to 2.6 mmol/L). Eighteen (18) of 29 patients (62%) with parathyroid carcinoma and 15 of 17 subjects (88%) with primary HPT achieved a reduction in serum calcium of ≥ 1 mg/dL (≥ 0.25 mmol/L).
 
-In a 28 week placebo-controlled study, 67 adult patients with primary HPT who met criteria for parathyroidectomy on the basis of corrected total serum calcium (&gt; 11.3 mg/dL (2.82 mmol/L) but ≤ 12.5 mg/dL (3.12 mmol/L), but who were unable to undergo parathyroidectomy were included. Cinacalcet was initiated at a dose of 30 mg twice daily and titrated to maintain a corrected total serum calcium concentration within the normal range. A significantly higher percentage of cinacalcet-treated patients achieved mean corrected total serum calcium concentration ≤ 10.3 mg/dL (2.57 mmol/L) and ≥ 1 mg/dL (0.25 mmol/L) decrease from baseline in mean corrected total serum calcium concentration, when compared with the placebo-treated patients (75.8% versus 0% and 84.8% versus 5.9% respectively).
+In a 28 week placebo-controlled study, 67 adult patients with primary HPT who met criteria for parathyroidectomy on the basis of corrected total serum calcium (&gt; 11.3 mg/dL (2.82 mmol/L) but ≤ 12.5 mg/dL (3.12 mmol/L), but who were unable to undergo parathyroidectomy were included. Cinacalcet was initiated at a dose of 30 mg twice daily and titrated to maintain a corrected total serum calcium concentration within the normal range. A significantly higher percentage of cinacalcet-treated patients achieved mea n corrected total serum calcium concentration ≤ 10.3 mg/dL (2.57 mmol/L) and ≥ 1 mg/dL (0.25 mmol/L) decrease from baseline in mean corrected total serum calcium concentration, when compared with the placebo-treated patients (75.8% versus 0% and 84.8% versus 5.9% respectively).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -514,7 +512,7 @@ Not applicable.
 
 36 months.
 
-Bottle
+## Bottle
 
 36 months.
 
@@ -540,7 +538,9 @@ No special requirements for disposal.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a planta, 08039 Barcelona, Spain
+Accord Healthcare S.L.U World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a planta,
+
+08039 Barcelona, Spain
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -578,26 +578,23 @@ Date of first authorisation: 3
 
 rd April 2020
 
-10.
+Date of latest renewal: 12
 
-DATE OF REVISION OF THE TEXT
+th December 2024
+
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this product is available on the website of the European Medicines Agency http://www.ema.europa.eu
 
-## ANNEX II
+<div style=\"page-break-after: always\"></div>
 
-MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+- A.
+- B.
+- C.
 
-A.
+## ANNEX II MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
-D.
-
-CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND
-
-EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -610,6 +607,8 @@ LABORATORI FUNDACIÓ DAU C/ C, 12-14 Pol. Ind. Zona Franca, Barcelona, 08040, Sp
 Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park Paola, PLA 3000 Malta
 
 Accord Healthcare Polska Sp. z o.o., ul. Lutomierska 50, Pabianice, 95-200, Poland
+
+Accord Healthcare single member S.A. 64th Km National Road Athens, Lamia, Schimatari, 32009, Greece
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -648,7 +647,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON FOR BLISTER
+OUTER CARTON FOR BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -743,7 +742,7 @@ NN:
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-BLISTER
+## BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -771,12 +770,13 @@ Lot
 
 ## UNIT DOSE BLISTER
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
-|------|--------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Cinacalcet Accordpharma 30 mg Tablets cinacalcet
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Accord Healthcare S.L.U.
 
@@ -797,7 +797,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON FOR BOTTLE
+## OUTER CARTON FOR BOTTLE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -865,9 +865,9 @@ PC:
 
 SN:
 
-NN:
-
 <div style=\"page-break-after: always\"></div>
+
+NN:
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -903,7 +903,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-9. SPECIAL STORAGE CONDITIONS
+## 9. SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -937,7 +937,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON FOR BLISTER
+OUTER CARTON FOR BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1032,7 +1032,7 @@ NN:
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-BLISTER
+## BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1108,7 +1108,7 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -1134,7 +1134,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1188,7 +1188,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-9. SPECIAL STORAGE CONDITIONS
+## 9. SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1222,7 +1222,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON FOR BLISTER
+OUTER CARTON FOR BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1297,7 +1297,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1317,7 +1317,7 @@ NN:
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-BLISTER
+## BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1339,29 +1339,31 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 ## UNIT DOSE BLISTER
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Cinacalcet Accordpharma 90 mg Tablets cinacalcet
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Accord Healthcare S.L.U.
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
-
-## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
 
 | 5.   | OTHER   |
 |------|---------|
@@ -1396,7 +1398,7 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -1422,7 +1424,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1466,7 +1468,7 @@ For oral use.
 
 Read the package leaflet before use.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -1476,7 +1478,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-9. SPECIAL STORAGE CONDITIONS
+## 9. SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1518,10 +1520,10 @@ Cinacalcet Accordpharma 30 mg film-coated tablets Cinacalcet Accordpharma 60 mg 
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor, pharmacist or nurse.
--  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
--  If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1536,7 +1538,7 @@ Cinacalcet Accordpharma 30 mg film-coated tablets Cinacalcet Accordpharma 60 mg 
 
 Cinacalcet Accordpharma contains the active ingredient cinacalcet, which works by controlling the levels of parathyroid hormone (PTH), calcium and phosphorous in your body. It is used to treat problems with organs called parathyroid glands. The parathyroids are four small glands in the neck, near the thyroid gland, that produce parathyroid hormone (PTH).
 
-Cinacalcet Accordpharma is used in adults:
+## Cinacalcet Accordpharma is used in adults:
 
 - -to treat secondary hyperparathyroidism in adults with serious kidney disease who need dialysis to clear their blood of waste products.
 - -to reduce high levels of calcium in the blood (hypercalcaemia) in adult patients with parathyroid cancer.
@@ -1550,7 +1552,7 @@ In primary and secondary hyperparathyroidism too much PTH is produced by the par
 
 ## 2. What you need to know before you take Cinacalcet Accordpharma
 
-Do not take Cinacalcet Accordpharma:
+## Do not take Cinacalcet Accordpharma:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1745,7 +1747,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Cinacalcet Accordpharma looks like and contents of the pack
 
-Cinacalcet Accordpharma 30 mg film-coated tablets (tablet)
+## Cinacalcet Accordpharma 30 mg film-coated tablets (tablet)
 
 Light green colored, oval shaped (approximately 9.65 mm long and 6.00 mm wide), biconvex, filmcoated tablets debossed with \"HB1\" on one side and plain on other side.
 
@@ -1777,7 +1779,9 @@ Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park Paola, PLA 3000 Malta
 
 Accord Healthcare Polska Sp. z o.o., ul. Lutomierska 50, Pabianice, 95-200, Poland
 
-## This leaflet was last revised in {MM/YYYY}
+Accord Healthcare single member S.A. 64th Km National Road Athens, Lamia, Schimatari, 32009, Greece
+
+## This leaflet was last revised in
 
 ## Other sources of information
 

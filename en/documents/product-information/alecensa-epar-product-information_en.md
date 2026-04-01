@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-27 11:00:27
-document_pages: 48
+document_datetime: 2026-03-31 13:13:01
+document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/alecensa-epar-product-information_en.pdf
 document_name: alecensa-epar-product-information_en.pdf
 version: success
-processing_time: 14.4517958
-conversion_datetime: 2026-03-01 20:00:08.259943
+processing_time: 14.6166377
+conversion_datetime: 2026-04-01 12:20:35.972945
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -109,13 +109,13 @@ Table 1 Dose reduction schedule
 
 <div style=\"page-break-after: always\"></div>
 
-| CTCAE grade                                                                                                                                                                                                 | Alecensa treatment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bradycardia a Grade 4 (life-threatening consequences, urgent intervention indicated)                                                                                                                        | bradycardia or to a heart rate of ≥ 60 bpm. Permanently discontinue if no contributing concomitant medicinal product is identified. If a contributing concomitant medicinal product is identified and discontinued, or its dose is adjusted, resume at reduced dose (see Table 1) upon recovery to  Grade 1 (asymptomatic) bradycardia or to a heart rate of ≥ 60 bpm, with frequent monitoring as clinically indicated. Permanently discontinue in case of recurrence.                                                                 |
-| CPK elevation > 5 times ULN                                                                                                                                                                                 | Temporarily withhold until recovery to baseline or to ≤ 2.5 times ULN, then resume at the same dose.                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| CPK elevation > 10 times ULN or second occurrence of CPK elevation of > 5 times ULN                                                                                                                         | Temporarily withhold until recovery to baseline or to ≤ 2.5 times ULN, then resume at reduced dose as per Table 1.                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Haemolytic anaemia with haemoglobin of < 10 g/dL (Grade ≥ 2)                                                                                                                                                | Temporarily withhold until resolution, then resume at reduced dose (see Table 1).                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Severe hypertriglyceridaemia (blood triglycerides from 501 to 1,000 mg/dL or from 5.71 to 11.4 mmol/L) OR Life-threatening hypertriglyceridaemia (blood triglycerides over 1,000 mg/dL or over 11.4 mmol/L) | Temporarily withhold until recovery to at least moderate hypertriglyceridaemia (i.e. until blood triglycerides are ≤ 500 mg/dL or ≤ 5.7 mmol/L). Risk factors for pancreatitis are to be evaluated, and treatable risk factors are to be addressed before resuming treatment with Alecensa. If an acute episode of pancreatitis occurs, temporarily withhold until full recovery before resuming treatment with Alecensa. Alecensa may be resumed at the same dose, with blood triglyceride levels monitored regularly in such patients. |
+| CTCAE grade                                                                          | Alecensa treatment                                                                                                                                                                                                                                                                                                                                                                                                           |
+|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                      | modified, resume at reduced dose (see Table 1) upon recovery to ≤ Grade 1 (asymptomatic) bradycardia or to a heart rate of ≥ 60 bpm.                                                                                                                                                                                                                                                                                         |
+| Bradycardia a Grade 4 (life-threatening consequences, urgent intervention indicated) | Permanently discontinue if no contributing concomitant medicinal product is identified. If a contributing concomitant medicinal product is identified and discontinued, or its dose is adjusted, resume at reduced dose (see Table 1) upon recovery to  Grade 1 (asymptomatic) bradycardia or to a heart rate of ≥ 60 bpm, with frequent monitoring as clinically indicated. Permanently discontinue in case of recurrence. |
+| CPK elevation > 5 times ULN                                                          | Temporarily withhold until recovery to baseline or to ≤ 2.5 times ULN, then resume at the same dose.                                                                                                                                                                                                                                                                                                                         |
+| CPK elevation > 10 times ULN or second occurrence of CPK elevation of > 5 times ULN  | Temporarily withhold until recovery to baseline or to ≤ 2.5 times ULN, then resume at reduced dose as per Table 1.                                                                                                                                                                                                                                                                                                           |
+| Haemolytic anaemia with haemoglobin of < 10 g/dL (Grade ≥ 2)                         | Temporarily withhold until resolution, then resume at reduced dose (see Table 1).                                                                                                                                                                                                                                                                                                                                            |
 
 ALT = alanine aminotransferase; AST = aspartate aminotransferase; CPK = creatine phosphokinase;
 
@@ -126,8 +126,6 @@ CTCAE = NCI Common Terminology Criteria for Adverse Events; ILD = interstitial l
 ## Hepatic impairment
 
 No starting dose adjustment is required in patients with underlying mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment. Patients with underlying severe hepatic impairment (Child-Pugh C) should receive a starting dose of 450 mg taken twice daily (total dose of 900 mg) (see section 5.2). For all patients with hepatic impairment, appropriate monitoring (e.g. markers of liver function) is advised, see section 4.4.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -140,6 +138,8 @@ The limited data on the safety and efficacy of Alecensa in patients aged 65 year
 ## Paediatric population
 
 The safety and efficacy of Alecensa in children and adolescents below 18 years of age have not been established. No data are available.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Extreme body weight (&gt; 130 kg)
 
@@ -169,11 +169,11 @@ Liver function, including ALT, AST, and total bilirubin should be monitored at b
 
 Myalgia or musculoskeletal pain was reported in patients in pivotal trials with Alecensa, including Grade 3 events (see section 4.8).
 
-<div style=\"page-break-after: always\"></div>
-
 Elevations of CPK occurred in pivotal trials with Alecensa, including Grade 3 events (see section 4.8). Median time to Grade ≥ 3 CPK elevation was 15 days across clinical trials (BO40336, BO28984, NP28761, NP28673).
 
 Patients should be advised to report any unexplained muscle pain, tenderness, or weakness. CPK levels should be assessed every two weeks for the first month of treatment and as clinically indicated in patients reporting symptoms. Based on the severity of the CPK elevation, Alecensa should be withheld, then resumed or dose reduced (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Bradycardia
 
@@ -182,10 +182,6 @@ Symptomatic bradycardia can occur with Alecensa (see section 4.8). Heart rate an
 ## Haemolytic anaemia
 
 Haemolytic anaemia has been reported with Alecensa (see section 4.8). If haemoglobin concentration is below 10 g/dL and haemolytic anaemia is suspected, Alecensa should be withheld and appropriate laboratory testing should be initiated. If haemolytic anaemia is confirmed, Alecensa should be resumed at a reduced dose upon resolution as described in Table 2 (see section 4.2).
-
-## Severe Hypertriglyceridaemia
-
-Hypertriglyceridaemia, including severe cases associated with life-threatening acute pancreatitis, has been reported in patients treated with Alecensa (see section 4.8). Blood triglycerides are to be monitored before initiation and periodically during treatment. Patients are to be monitored for symptoms indicative of acute pancreatitis, especially patients at increased risk for pancreatitis. If an acute episode of pancreatitis occurs, temporarily withhold until full recovery before resuming treatment with Alecensa. If patients experience severe or life-threatening hypertriglyceridaemia, withhold Alecensa and evaluate risk factors for pancreatitis before resuming Alecensa, as described in Table 2 (see section 4.2).
 
 ## Gastrointestinal perforation
 
@@ -198,8 +194,6 @@ Photosensitivity to sunlight has been reported with Alecensa administration (see
 ## Embryo-foetal toxicity
 
 Alecensa may cause foetal harm when administered to a pregnant woman. Female patients of childbearing potential receiving Alecensa, must use highly effective contraceptive methods during treatment and for at least 5 weeks following the last dose of Alecensa (see sections 4.5, 4.6 and 5.3). Male patients with female partners of childbearing potential must use highly effective contraceptive methods during treatment and for at least 3 months following the last dose of Alecensa (see sections 4.6 and 5.3).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Lactose intolerance
 
@@ -217,7 +211,11 @@ Based on in vitro data, CYP3A4 is the primary enzyme mediating the metabolism of
 
 ## CYP3A inducers
 
-Co-administration of multiple oral doses of 600 mg rifampicin once daily, a strong CYP3A inducer, with a single oral dose of 600 mg alectinib reduced alectinib Cmax, and AUCinf by 51 % and 73 % respectively and increased M4 Cmax and AUCinf 2.20 and 1.79-fold respectively. The effect on the combined exposure of alectinib and M4 was minor, reducing Cmax and AUCinf by 4 % and 18 %, respectively. Based on the effects on the combined exposure of alectinib and M4, no dose adjustments are required when Alecensa is co-administered with CYP3A inducers. Appropriate monitoring is recommended for patients taking concomitant strong CYP3A inducers (including, but not limited to, carbamazepine, phenobarbital, phenytoin, rifabutin, rifampicin and St. John's Wort (Hypericum perforatum)).
+Co-administration of multiple oral doses of 600 mg rifampicin once daily, a strong CYP3A inducer, with a single oral dose of 600 mg alectinib reduced alectinib Cmax, and AUCinf by 51 % and 73 % respectively and increased M4 Cmax and AUCinf 2.20 and 1.79-fold respectively. The effect on the
+
+<div style=\"page-break-after: always\"></div>
+
+combined exposure of alectinib and M4 was minor, reducing Cmax and AUCinf by 4 % and 18 %, respectively. Based on the effects on the combined exposure of alectinib and M4, no dose adjustments are required when Alecensa is co-administered with CYP3A inducers. Appropriate monitoring is recommended for patients taking concomitant strong CYP3A inducers (including, but not limited to, carbamazepine, phenobarbital, phenytoin, rifabutin, rifampicin and St. John's Wort (Hypericum perforatum)).
 
 ## CYP3A inhibitors
 
@@ -237,11 +235,7 @@ M4 is a substrate of P-glycoprotein (P-gp). As alectinib inhibits P-gp, it is no
 
 In vitro , alectinib and M4 show weak time-dependent inhibition of CYP3A4, and alectinib exhibits a weak induction potential of CYP3A4 and CYP2B6 at clinical concentrations.
 
-Multiple doses of 600 mg alectinib had no influence on the exposure of midazolam (2 mg), a sensitive CYP3A substrate. Therefore, no dose adjustment is required for co-administered CYP3A substrates.
-
-<div style=\"page-break-after: always\"></div>
-
-A risk for induction of CYP2B6 and pregnane X receptor (PXR) regulated enzymes apart from CYP3A4 cannot be completely excluded. The effectiveness of concomitant administration of oral contraceptives may be reduced.
+Multiple doses of 600 mg alectinib had no influence on the exposure of midazolam (2 mg), a sensitive CYP3A substrate. Therefore, no dose adjustment is required for co-administered CYP3A substrates. A risk for induction of CYP2B6 and pregnane X receptor (PXR) regulated enzymes apart from CYP3A4 cannot be completely excluded. The effectiveness of concomitant administration of oral contraceptives may be reduced.
 
 ## P-gp substrates
 
@@ -250,6 +244,8 @@ In vitro , alectinib and its major active metabolite M4 are inhibitors of the ef
 ## Breast cancer resistance protein ( BCRP) substrates
 
 In vitro , alectinib and M4 are inhibitors of the efflux transporter BCRP. Therefore, alectinib and M4 may have the potential to increase plasma concentrations of co-administered substrates of BCRP. When Alecensa is co-administered with BCRP substrates (e.g., methotrexate, mitoxantrone, topotecan and lapatinib), appropriate monitoring is recommended.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -281,8 +277,6 @@ It is unknown whether alectinib and/or its metabolites are excreted in human mil
 
 No fertility studies in animals have been performed to evaluate the effect of alectinib. No adverse effects on male and female reproductive organs were observed in general toxicology studies (see section 5.3).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.7 Effects on ability to drive and use machines
 
 Alecensa has minor influence on the ability to drive and use machines. Caution should be exercised when driving or operating machines as patients may experience symptomatic bradycardia (e.g., syncope, dizziness, hypotension) or vision disorders while taking Alecensa (see section 4.8).
@@ -293,7 +287,11 @@ Alecensa has minor influence on the ability to drive and use machines. Caution s
 
 The data described below reflect exposure to Alecensa in 533 patients with resected or advanced ALK-positive NSCLC. These patients received Alecensa at the recommended dose of 600 mg twice daily in pivotal clinical trials for adjuvant treatment of resected NSCLC (BO40336, ALINA) or for treatment of advanced NSCLC (BO28984, ALEX; NP28761; NP28673). See section 5.1 for further information on clinical trial participants.
 
-In BO40336 (ALINA; N = 128), the median duration of exposure to Alecensa was 23.9 months. In BO28984 (ALEX; N = 152) the median duration of exposure to Alecensa was 28.1 months. In the phase II clinical trials (NP28761, NP28673; N = 253), the median duration of exposure to Alecensa was 11.2 months.
+In BO40336 (ALINA; N = 128), the median duration of exposure to Alecensa was 23.9 months. In BO28984 (ALEX; N = 152) the median duration of exposure to Alecensa was 28.1 months. In the
+
+<div style=\"page-break-after: always\"></div>
+
+phase II clinical trials (NP28761, NP28673; N = 253), the median duration of exposure to Alecensa was 11.2 months.
 
 The most common adverse drug reactions (ADRs) ( ≥ 20 %) were constipation, myalgia, oedema, increased bilirubin, increased AST, anaemia, rash and increased ALT.
 
@@ -305,41 +303,41 @@ The ADRs listed in Table 3 are presented by system organ class and frequency cat
 
 Table 3 ADRs reported in Alecensa clinical trials (BO40336, BO28984, NP28761, NP28673; N = 533)
 
-| System organ class ADRs (MedDRA)     | Alecensa N = 533                | Alecensa N = 533                |
-|--------------------------------------|---------------------------------|---------------------------------|
-|                                      | Frequency category (all grades) | Frequency category (grades 3-4) |
-| Blood and lymphatic system disorders |                                 |                                 |
-| Anaemia 1)                           | Very common                     | Common                          |
-| Haemolytic anaemia 2)                | Common                          | - *                             |
-| Nervous system disorders             |                                 |                                 |
-| Dysgeusia 3)                         | Common                          | Uncommon                        |
-| Eye disorders                        |                                 |                                 |
-| Vision disorders 4)                  | Common                          | - *                             |
-| Cardiac disorders                    |                                 |                                 |
-| Bradycardia 5)                       | Very common                     | - *                             |
+| System organ class ADRs (MedDRA)                | Alecensa N = 533                                | Alecensa N = 533                                |
+|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+|                                                 | Frequency category (all grades)                 | Frequency category (grades 3-4)                 |
+| Blood and lymphatic system disorders            | Blood and lymphatic system disorders            | Blood and lymphatic system disorders            |
+| Anaemia 1)                                      | Very common                                     | Common                                          |
+| Haemolytic anaemia 2)                           | Common                                          | - *                                             |
+| Nervous system disorders                        | Nervous system disorders                        | Nervous system disorders                        |
+| Dysgeusia 3)                                    | Common                                          | Uncommon                                        |
+| Eye disorders                                   | Eye disorders                                   | Eye disorders                                   |
+| Vision disorders 4)                             | Common                                          | - *                                             |
+| Cardiac disorders                               | Cardiac disorders                               | Cardiac disorders                               |
+| Bradycardia 5)                                  | Very common                                     | - *                                             |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders |
+| Interstitial lung disease / pneumonitis         | Common                                          | Uncommon                                        |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      |
+| Diarrhoea                                       | Very common                                     | Common                                          |
+| Vomiting                                        | Very common                                     | Uncommon                                        |
+| Constipation                                    | Very common                                     | Uncommon                                        |
+| Nausea                                          | Very common                                     | Uncommon                                        |
+| Stomatitis 6)                                   | Common                                          | Uncommon                                        |
+| Hepatobiliary disorders                         | Hepatobiliary disorders                         | Hepatobiliary disorders                         |
+| Increased AST                                   | Very common                                     | Common                                          |
+| Increased ALT                                   | Very common                                     | Common                                          |
+| Increased bilirubin 7)                          | Very common                                     | Common                                          |
+| Increased alkaline phosphatase                  | Very Common                                     | Uncommon                                        |
+| Drug-induced liver injury 8)                    | Uncommon                                        | Uncommon                                        |
+| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          |
+| Rash 9)                                         | Very common                                     | Common                                          |
+| Photosensitivity                                | Common                                          | Uncommon                                        |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class ADRs (MedDRA)                     | Alecensa N = 533                                     | Alecensa N = 533                                     |
 |------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 |                                                      | Frequency category (all grades)                      | Frequency category (grades 3-4)                      |
-| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders      |
-| Interstitial lung disease / pneumonitis              | Common                                               | Uncommon                                             |
-| Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           |
-| Diarrhoea                                            | Very common                                          | Common                                               |
-| Vomiting                                             | Very common                                          | Uncommon                                             |
-| Constipation                                         | Very common                                          | Uncommon                                             |
-| Nausea                                               | Very common                                          | Uncommon                                             |
-| Stomatitis 6)                                        | Common                                               | Uncommon                                             |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                              | Hepatobiliary disorders                              |
-| Increased AST                                        | Very common                                          | Common                                               |
-| Increased ALT                                        | Very common                                          | Common                                               |
-| Increased bilirubin 7)                               | Very common                                          | Common                                               |
-| Increased alkaline phosphatase                       | Very Common                                          | Uncommon                                             |
-| Drug-induced liver injury 8)                         | Uncommon                                             | Uncommon                                             |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
-| Rash 9)                                              | Very common                                          | Common                                               |
-| Photosensitivity                                     | Common                                               | Uncommon                                             |
 | Musculoskeletal and connective tissues disorders     | Musculoskeletal and connective tissues disorders     | Musculoskeletal and connective tissues disorders     |
 | Myalgia 10)                                          | Very common                                          | Uncommon                                             |
 | Increased blood creatine phosphokinase               | Very common                                          | Common                                               |
@@ -351,10 +349,7 @@ Table 3 ADRs reported in Alecensa clinical trials (BO40336, BO28984, NP28761, NP
 | Investigations                                       | Investigations                                       | Investigations                                       |
 | Weight increased                                     | Very common                                          | Uncommon                                             |
 | Metabolism and Nutrition Disorders                   | Metabolism and Nutrition Disorders                   | Metabolism and Nutrition Disorders                   |
-| Hypertriglyceridaemia 12)                            | Common                                               | Common                                               |
-| Hyperuricaemia 13)                                   | Common                                               | - *                                                  |
-
-<div style=\"page-break-after: always\"></div>
+| Hyperuricaemia 12)                                   | Common                                               | - *                                                  |
 
 ## Description of selected adverse drug reactions
 
@@ -364,7 +359,11 @@ Across clinical trials, ILD/pneumonitis occurred in 1.7 % of patients treated wi
 
 ## Hepatotoxicity
 
-Across clinical trials, three patients had a documented drug-induced liver injury (including two patients with the reported term drug-induced liver injury and one patient with reported Grade 4 increased AST and ALT who had documented drug-induced liver injury by liver biopsy). Adverse reactions of increased AST and ALT levels (23.6 % and 20.5 % respectively) were reported in patients treated with Alecensa across clinical trials. The majority of these events were of Grade 1 and 2 intensity, and events of Grade ≥ 3 were reported in 3.0 % and 3.2 % of the patients for increased AST and ALT levels, respectively. The events generally occurred during the first 3 months of treatment, were usually transient and resolved upon temporary interruption of Alecensa treatment (reported for 2.3 % and 3.6 % of the patients, respectively) or dose reduction (1.7 % and 1.5 %, respectively). In 1.3 % and 1.5 % of the patients, AST and ALT elevations, respectively, led to withdrawal from Alecensa treatment. Grade 3 or 4 ALT or AST elevations were observed in 4.6 % and 5.3 % of patients receiving Alecensa versus 16.6 % and 10.6 % of patients receiving crizotinib in the phase III clinical trial BO28984.
+Across clinical trials, three patients had a documented drug-induced liver injury (including two patients with the reported term drug-induced liver injury and one patient with reported Grade 4 increased AST and ALT who had documented drug-induced liver injury by liver biopsy). Adverse reactions of increased AST and ALT levels (23.6 % and 20.5 % respectively) were reported in patients treated with Alecensa across clinical trials. The majority of these events were of Grade 1 and 2 intensity, and events of Grade ≥ 3 were reported in 3.0 % and 3.2 % of the patients for increased AST and ALT levels, respectively. The events generally occurred during the first 3 months of treatment, were usually transient and resolved upon temporary interruption of Alecensa treatment (reported for
+
+<div style=\"page-break-after: always\"></div>
+
+2.3 % and 3.6 % of the patients, respectively) or dose reduction (1.7 % and 1.5 %, respectively). In 1.3 % and 1.5 % of the patients, AST and ALT elevations, respectively, led to withdrawal from Alecensa treatment. Grade 3 or 4 ALT or AST elevations were observed in 4.6 % and 5.3 % of patients receiving Alecensa versus 16.6 % and 10.6 % of patients receiving crizotinib in the phase III clinical trial BO28984.
 
 Adverse reactions of bilirubin elevations were reported in 25.9 % of the patients treated with Alecensa across clinical trials. The majority of the events were of Grade 1 and 2 intensity; Grade ≥ 3 events were reported in 3.9 % of the patients. The events generally occurred during the first 3 months of treatment, were usually transient and the majority resolved upon dose modification. In 8.3 % of patients, bilirubin elevations led to dose modifications and in 2.1 % of patients, bilirubin elevations led to withdrawal from Alecensa treatment. In the phase III clinical trial BO28984, Grade 3 or 4 bilirubin elevations occurred in 5.9 % of patients receiving Alecensa versus no patient receiving crizotinib.
 
@@ -376,8 +375,6 @@ Patients should be monitored for liver function including ALT, AST, and total bi
 
 Cases of bradycardia (11.3 %) of Grade 1 or 2 have been reported in patients treated with Alecensa across clinical trials. No patients had events of Grade  3 severity. There were 102 of 521 patients (19.6 %) treated with Alecensa, for whom serial ECGs were available, had post-dose heart rate values below 50 beats per minute (bpm). In the phase III clinical trial BO28984 12.4 % of patients treated with Alecensa had post-dose heart rate values below 50 bpm versus 17.6 % of patients treated with crizotinib. Patients who develop symptomatic bradycardia should be managed as recommended in sections 4.2 and 4.4. No case of bradycardia led to withdrawal from Alecensa treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Severe myalgia and CPK elevations
 
 Cases of myalgia (35.3 %) including myalgia events (24.2 %), arthralgia (16.3 %), and musculoskeletal pain (0.8 %) have been reported in patients treated with Alecensa across clinical trials. The majority of events were Grades 1 or 2 and five patients (0.9 %) had a Grade 3 event. Dose modifications of Alecensa treatment due to these adverse events were required for nine patients (1.7 %); Alecensa treatment was not withdrawn due to these events of myalgia. Elevations of CPK occurred in 56.2 % of 491 patients with CPK laboratory data available across clinical trials with Alecensa. The incidence of Grade ≥ 3 elevations of CPK was 5.5 %. Median time to Grade ≥ 3 CPK elevation was 15 days across trials. Dose modifications for elevation of CPK occurred in 5.4 % of patients; withdrawal from Alecensa treatment did not occur due to CPK elevations. In the clinical trial BO28984, severe arthralgia was reported in one patient (0.7 %) in the alectinib arm and in two patients (1.3 %) in the crizotinib arm. Grade ≥ 3 elevation of CPK was reported for 3.3 % of patients receiving Alecensa and 4.6 % of patients receiving crizotinib.
@@ -386,13 +383,13 @@ Cases of myalgia (35.3 %) including myalgia events (24.2 %), arthralgia (16.3 %)
 
 Haemolytic anaemia has been observed in 3.1 % of patients treated with Alecensa in the clinical trial setting. These cases were Grade 1 or 2 (non-serious) and did not lead to treatment discontinuation (see sections 4.2 and 4.4).
 
-## Hypertriglyceridaemia
-
-Hypertriglyceridaemia has been observed in patients treated with Alecensa across clinical trials and through post marketing experience. In clinical trials, the majority of the events were Grade 1 or 2; all Grade events were reported in 4.3% of patients, and Grade ≥ 3 events were reported in 1.5 % of patients. The median time to onset to Grade ≥ 3 hypertriglyceridaemia events was 263 days (range: 106 to 1001 days). Dose modifications (including interruptions and/or dose reductions) due to hypertriglyceridaemia occurred in 0.9 % of patients, and in 0.2 % of patients, hypertriglyceridaemia led to discontinuation of Alecensa treatment.
-
 ## Gastrointestinal effects
 
-Constipation (39.6 %), diarrhoea (18.8 %), nausea (17.6 %), and vomiting (12.4 %) were the most commonly reported gastrointestinal (GI) reactions. Most of these events were of mild or moderate severity; Grade 3 events were reported for diarrhoea (1.1 %), nausea (0.4 %), constipation (0.4 %), and vomiting (0.2 %). These events did not lead to withdrawal from Alecensa treatment. Median time to onset for constipation, nausea, diarrhoea, and/or vomiting events across clinical trials was 21 days. The events declined in frequency after the first month of treatment. In the phase III clinical trial BO28984, Grade 3 and 4 events of nausea and constipation were reported in one patient each (0.7 %), while diarrhoea was reported in 2 patients (1.3 %) in the alectinib arm; the incidence of Grade 3 and 4 events of nausea, vomiting and diarrhoea was 3.3 %, 3.3 % and 2.0 %, respectively, in the crizotinib arm.
+Constipation (39.6 %), diarrhoea (18.8 %), nausea (17.6 %), and vomiting (12.4 %) were the most commonly reported gastrointestinal (GI) reactions. Most of these events were of mild or moderate severity; Grade 3 events were reported for diarrhoea (1.1 %), nausea (0.4 %), constipation (0.4 %), and vomiting (0.2 %). These events did not lead to withdrawal from Alecensa treatment. Median time to onset for constipation, nausea, diarrhoea, and/or vomiting events across clinical trials was 21 days. The events declined in frequency after the first month of treatment. In the phase III clinical trial BO28984, Grade 3 and 4 events of nausea and constipation were reported in one patient each (0.7 %),
+
+<div style=\"page-break-after: always\"></div>
+
+while diarrhoea was reported in 2 patients (1.3 %) in the alectinib arm; the incidence of Grade 3 and 4 events of nausea, vomiting and diarrhoea was 3.3 %, 3.3 % and 2.0 %, respectively, in the crizotinib arm.
 
 ## Reporting of suspected adverse reactions
 
@@ -407,8 +404,6 @@ Patients who experience overdose should be closely supervised and general suppor
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: anti-neoplastic agents, protein kinase inhibitor; ATC code: L01ED03.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -426,15 +421,17 @@ The efficacy of Alecensa for the adjuvant treatment of patients with ALK-positiv
 
 The following selection criteria define patients with high risk of recurrence who are included in the therapeutic indication and are reflective of the patient population with Stage IB (tumours ≥ 4 cm) - IIIA NSCLC according to the 7th Edition UICC/AJCC staging criteria:
 
-Tumour size ≥ 4 cm; or tumours of any size that are either accompanied by N1 or N2 status; or tumours that are invasive of thoracic structures (directly invade the parietal pleura, chest wall, diaphragm, phrenic nerve, mediastinal pleura, parietal pericardium, mediastinum, heart, great vessels, trachea, recurrent laryngeal nerve, oesophagus, vertebral body, carina); or tumours that involve the main bronchus &lt; 2 cm distal to the carina but without involvement of the carina; or tumours that are associated with atelectasis or obstructive pneumonitis of the entire lung; or tumours with separate nodule(s) in the same lobe or different ipsilateral lobe as the primary.
+Tumour size ≥ 4 cm; or tumours of any size that are either accompanied by N1 or N2 status; or tumours that are invasive of thoracic structures (directly invade the parietal pleura, chest wall, diaphragm, phrenic nerve, mediastinal pleura, parietal pericardium, mediastinum, heart, great vessels, trachea, recurrent laryngeal nerve, oesophagus, vertebral body, carina); or tumours that involve the
+
+<div style=\"page-break-after: always\"></div>
+
+main bronchus &lt; 2 cm distal to the carina but without involvement of the carina; or tumours that are associated with atelectasis or obstructive pneumonitis of the entire lung; or tumours with separate nodule(s) in the same lobe or different ipsilateral lobe as the primary.
 
 The study did not include patients who had N2 status with tumours also invading the mediastinum, heart, great vessels, trachea, recurrent laryngeal nerve, oesophagus, vertebral body, carina, or with separate tumour nodule(s) in a different ipsilateral lobe.
 
 Patients were randomised (1:1) to receive Alecensa or platinum-based chemotherapy following tumour resection. Randomisation was stratified by race (Asian and non-Asian) and stage of disease (IB, II and IIIA). Alecensa was administered at the recommended oral dose of 600 mg twice daily for a total of 2 years, or until disease recurrence or unacceptable toxicity. Platinum-based chemotherapy was administered intravenously for 4 cycles, with each cycle lasting 21 days, according to one of the following regimens:
 
 Cisplatin 75 mg/m 2 on Day 1 plus vinorelbine 25 mg/m 2  on Days 1 and 8 Cisplatin 75 mg/m 2 on Day 1 plus gemcitabine 1250 mg/m 2  on Days 1 and 8 Cisplatin 75 mg/m 2  on Day 1 plus pemetrexed 500 mg/m 2  on Day 1
-
-<div style=\"page-break-after: always\"></div>
 
 In the event of intolerance to a cisplatin-based regimen, carboplatin was administered instead of cisplatin in the above combinations at a dose of area under the free carboplatin plasma versus time curve (AUC) 5 mg/mL/min or AUC 6 mg/mL/min.
 
@@ -445,6 +442,8 @@ A total of 257 patients were studied: 130 patients were randomised to the Alecen
 ALINA demonstrated a statistically significant improvement in DFS for patients treated with Alecensa compared to patients treated with chemotherapy in the Stage II-IIIA and the Stage IB ( ≥ 4 cm) - IIIA (ITT) patient populations. OS data were not mature at the time of DFS analysis with 2.3 % of deaths reported overall. The median duration of survival follow-up was 27.8 months in the Alecensa arm and 28.4 months in the chemotherapy arm.
 
 The DFS efficacy results are summarised in Table 4 and Figure 1.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 4 Investigator assessed DFS results in ALINA
 
@@ -458,8 +457,6 @@ Table 4 Investigator assessed DFS results in ALINA
 
 DFS = Disease-Free  Survival;  ITT = Intent-to-Treat;  CI = Confidence  Interval;  NE = Not  Estimable;  HR = Hazard  Ratio * Stratified by race in Stage II-IIIA, stratified by race and stage in Stage IB-IIIA.
 
-<div style=\"page-break-after: always\"></div>
-
 Figure 1: Kaplan-Meier curve of investigator assessed DFS in the ITT population
 
 <!-- image -->
@@ -472,61 +469,68 @@ The safety and efficacy of Alecensa were studied in a global randomised Phase II
 
 A total of 303 patients were included in the Phase III trial, 151 patients randomised to the crizotinib arm and 152 patients randomised to the Alecensa arm receiving Alecensa orally, at the recommended dose of 600 mg twice daily.
 
-Eastern Cooperative Oncology Group performance status ((ECOG PS) (0/1 vs. 2)), race (Asian vs. non-Asian), and central nervous system (CNS) metastases at baseline (yes vs. no) were stratification factors for randomisation. The primary endpoint of the trial was to demonstrate superiority of Alecensa versus crizotinib based on Progression Free survival (PFS) as per investigator assessment using Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1. Baseline demographic and disease characteristics for Alecensa were median age 58 years (54 years for crizotinib), 55 % female (58 % for crizotinib), 55 % non-Asian (54 % for crizotinib), 61 % with no smoking history (65 % for crizotinib), 93 % ECOG PS of 0 or 1 (93 % for crizotinib), 97 % Stage IV disease (96 % for crizotinib), 90 % adenocarcinoma histology (94 % for crizotinib), 40 % CNS metastases at baseline (38 % for crizotinib) and 17 % having received prior CNS radiation (14 % for crizotinib).
+Eastern Cooperative Oncology Group performance status ((ECOG PS) (0/1 vs. 2)), race (Asian vs. non-Asian), and central nervous system (CNS) metastases at baseline (yes vs. no) were stratification factors for randomisation. The primary endpoint of the trial was to demonstrate superiority of Alecensa versus crizotinib based on Progression Free survival (PFS) as per investigator assessment using Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1. Baseline demographic and disease characteristics for Alecensa were median age 58 years (54 years for
+
+<div style=\"page-break-after: always\"></div>
+
+crizotinib), 55 % female (58 % for crizotinib), 55 % non-Asian (54 % for crizotinib), 61 % with no smoking history (65 % for crizotinib), 93 % ECOG PS of 0 or 1 (93 % for crizotinib), 97 % Stage IV disease (96 % for crizotinib), 90 % adenocarcinoma histology (94 % for crizotinib), 40 % CNS metastases at baseline (38 % for crizotinib) and 17 % having received prior CNS radiation (14 % for crizotinib).
 
 The trial met its primary endpoint at the primary analysis, demonstrating a statistically significant improvement in PFS by investigator. Efficacy data are summarised in Table 5 and the Kaplan-Meier curve for investigator assessed PFS is shown in Figure 2. Additionally, the Kaplan-Meier plot of overall survival from the final OS analysis is presented in Figure 3.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 5 Summary of efficacy results from study BO28984 (ALEX)
 
-|                                                                                                                                                                                                                            | Crizotinib n = 151                                                    | Alecensa n = 152                                                      |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
-| Median duration of follow-up (months) ‡                                                                                                                                                                                    | 23.3 (range 0.3 - 123.5)                                              | 53.5(range 0.5 - 126.8)                                               |
-| Primary efficacy parameter PFS (INV) † Number of patients with event n (%) Median (months) [95 %CI]                                                                                                                        | 102 (68 %) 11.1 [9.1; 13.1] 62 (41 %) NE [17.7; NE] 0.47 [0.34, 0.65] | 102 (68 %) 11.1 [9.1; 13.1] 62 (41 %) NE [17.7; NE] 0.47 [0.34, 0.65] |
-| Secondary efficacy parameters PFS (IRC)*, † Number of patients with event n (%) Median (months) [95 %CI] HR [95 %CI] Stratified log-rank p-value Time to CNS progression (IRC)*, **, † Number of patients with event n (%) | 92 (61 %) 10.4 [7.7; 14.6] 0.50 [0.36; p < 0.0001 68 (45 %)           | 63 (41 %) 0.70] 18 (12 %)                                             |
-| Cause-specific HR [95 %CI] Stratified log-rank p-value 12-month cumulative incidence of progression (IRC) [95 %CI]                                                                                                         | 25.7 [19.9; NE] 0.16 [0.10; p < 0.0001                                | 0.28] 9.4%                                                            |
-| CNS                                                                                                                                                                                                                        |                                                                       |                                                                       |
-| ORR (INV)*, ***, † Responders n (%) [95 %CI] ‡                                                                                                                                                                             | 41.4% [33.2; 49.4] 114 (75.5 %) [67.8; 82.1]                          | [5.4; 14.7] 126 (82.9 %) [76.0; 88.5]                                 |
-| Overall survival*, Number of patients with event n (%) Median (months) [95 %CI]                                                                                                                                            | 73 (48.3 %) 54.2 [34.6; 75.6]                                         | 76 (50.0 %) 81.1 [62.3; NE]                                           |
-| HR [95 %CI]                                                                                                                                                                                                                | 0.78 [0.56; 1.08]                                                     | n = 126 42.3 [31.3; 51.3]                                             |
-| Duration of response (INV) ‡ Median (months) [95 %CI]                                                                                                                                                                      |                                                                       |                                                                       |
-|                                                                                                                                                                                                                            | n = 115 11.1 [7.9; 13.0]                                              |                                                                       |
+|                                                                                            | Crizotinib n = 151            | Alecensa n = 152                     |
+|--------------------------------------------------------------------------------------------|-------------------------------|--------------------------------------|
+| Median duration of follow-up (months) ‡                                                    | 23.3 (range 0.3 - 123.5)      | 53.5(range 0.5 - 126.8)              |
+| Primary efficacy parameter                                                                 |                               |                                      |
+| PFS (INV) † Number of patients with event n (%) Median (months) [95 %CI]                   | 102 (68 %) 11.1               | 62 (41 %) NE [17.7; NE]              |
+| HR                                                                                         | [9.1; 13.1]                   | [9.1; 13.1]                          |
+| [95 %CI]                                                                                   | 0.47 [0.34, 0.65]             | 0.47 [0.34, 0.65]                    |
+| Stratified log-rank                                                                        | p < 0.0001                    | p < 0.0001                           |
+| p-value                                                                                    |                               |                                      |
+| Secondary efficacy parameters                                                              |                               |                                      |
+| PFS (IRC)*, †                                                                              |                               |                                      |
+| Number of patients with event n (%)                                                        | 92 (61 %)                     | 63 (41 %)                            |
+| Median (months)                                                                            | 10.4                          | 25.7                                 |
+| [95 %CI]                                                                                   | [7.7; 14.6]                   | [19.9; NE]                           |
+| HR                                                                                         | 0.50                          | 0.50                                 |
+| [95 %CI]                                                                                   | [0.36; 0.70]                  | [0.36; 0.70]                         |
+| Stratified log-rank                                                                        | p < 0.0001                    | p < 0.0001                           |
+| p-value                                                                                    |                               |                                      |
+| Time to CNS progression (IRC)*, **, † Number of patients with event n (%)                  | 68 (45 %) 18 (12 %)           | 68 (45 %) 18 (12 %)                  |
+| Cause-specific HR                                                                          | 0.16                          | 0.16                                 |
+| [95 %CI]                                                                                   | [0.10; 0.28] p < 0.0001       | [0.10; 0.28] p < 0.0001              |
+| 12-month cumulative incidence of CNS (IRC)                                                 | 41.4%                         | 9.4%                                 |
+| progression [95 %CI]                                                                       | [33.2; 49.4]                  | [5.4; 14.7]                          |
+| ORR (INV)*, ***, † Responders n (%)                                                        | 114 (75.5 %) [67.8; 82.1]     | 126 (82.9 %) [76.0; 88.5] [62.3; NE] |
+| [95 %CI] Overall survival*, ‡ Number of patients with event n (%) Median (months) [95 %CI] | 73 (48.3 %) 54.2 [34.6; 75.6] | 76 (50.0 %) 81.1                     |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                                           | Crizotinib n = 151   | Alecensa n = 152   |
-|-------------------------------------------------------------------------------------------|----------------------|--------------------|
-| CNS-ORR in patients with measurable CNS metastases at baseline †                          | n = 22               | n = 21             |
-| CNS responders n (%)                                                                      | 11 (50.0 %)          | 17 (81.0 %)        |
-| [95 %CI]                                                                                  | [28.2; 71.8]         | [58.1; 94.6]       |
-| CNS-CR n (%)                                                                              | 1 (5 %)              | 8 (38 %)           |
-| CNS-DOR, median (months)                                                                  | 5.5                  | 17.3               |
-| [95 %CI]                                                                                  | [2.1, 17.3]          | [14.8, NE]         |
-| CNS-ORR in patients with measurable and non-measurable CNS metastases at baseline (IRC) † | n = 58               | n = 64             |
-| CNS responders n (%)                                                                      | 15 (25.9 %)          | 38 (59.4 %)        |
-| [95 %CI]                                                                                  | [15.3; 39.0]         | [46.4; 71.5]       |
-| CNS-CR n (%)                                                                              | 5 (9 %)              | 29 (45 %)          |
-| CNS-DOR, median (months)                                                                  | 3.7                  | NE                 |
-| [95 %CI]                                                                                  | [3.2, 6.8]           | [17.3, NE]         |
-
-* Key secondary endpoints part of the hierarchical testing
-
-** Competing risk analysis of CNS progression, systemic progression and death as competing events
-
-*** 2 patients in the crizotinib arm and 6 patients in the alectinib arm had CR
-
-† Data from primary analysis
-
-‡  Data from final OS analysis, which was conducted after 149 deaths had occurred.
+|                                                                                     | Crizotinib n = 151       | Alecensa n = 152          |
+|-------------------------------------------------------------------------------------|--------------------------|---------------------------|
+| HR [95 %CI]                                                                         | 0.78 [0.56; 1.08]        | 0.78 [0.56; 1.08]         |
+| Duration of response (INV) ‡ Median (months)                                        | n = 115 11.1 [7.9; 13.0] | n = 126 42.3 [31.3; 51.3] |
+| CNS metastases at baseline †                                                        | 11 (50.0 %)              | 17 (81.0 %)               |
+| [95 %CI]                                                                            |                          |                           |
+|                                                                                     |                          | n = 21                    |
+| CNS-ORR in patients with measurable CNS responders n (%)                            | n = 22                   |                           |
+| [95 %CI]                                                                            | [28.2; 71.8]             | [58.1; 94.6]              |
+| CNS-CR n (%)                                                                        | 1 (5 %)                  | 8 (38 %)                  |
+| CNS-DOR, median (months)                                                            | 5.5                      | 17.3                      |
+| [95 %CI]                                                                            | [2.1, 17.3]              | [14.8, NE]                |
+| CNS-ORR in patients with measurable and non-measurable CNS metastases at baseline † | n = 58                   | n = 64                    |
+| (IRC) CNS responders n (%)                                                          | 15 (25.9 %) [15.3; 39.0] | 38 (59.4 %)               |
+| [95 %CI]                                                                            |                          | [46.4; 71.5]              |
+| CNS-CR n (%)                                                                        | 5 (9 %)                  | 29 (45 %)                 |
+| CNS-DOR, median (months)                                                            | 3.7                      | NE                        |
+| [95 %CI]                                                                            | [3.2, 6.8]               | [17.3, NE]                |
 
 CI = confidence interval; CNS = central nervous system; CR = complete response; DOR  duration of response;
 
 HR = hazard ratio; IRC = Independent Review Committee; INV = investigator; NE = not estimable;
 
-ORR 
-
-objective response rate; PFS = progression free survival
+ORR  objective response rate; PFS = progression free survival
 
 The PFS benefit was consistent for patients with CNS metastases at baseline (hazard ratio (HR) = 0.40, 95 % confidence interval (CI): 0.25-0.64, median PFS for Alecensa = not estimable (NE), 95 % CI: 9.2-NE, median PFS for crizotinib = 7.4 months, 95 %CI: 6.6-9.6) and without CNS metastases at baseline (HR = 0.51, 95 % CI: 0.33-0.80, median PFS for Alecensa = NE, 95 % CI: NE, NE, median PFS for crizotinib = 14.8 months, 95 % CI:10.8-20.3), indicating benefit of Alecensa over crizotinib in both subgroups.
 
@@ -550,7 +554,7 @@ Study NP28673 was a Phase I/II single arm, multicentre study conducted in patien
 
 The primary endpoint was to evaluate the efficacy of Alecensa by Objective Response Rate (ORR) as per central Independent Review Committee (IRC) assessment using RECIST version 1.1 in the overall population (with and without prior exposure of cytotoxic chemotherapy treatments). The co-primary endpoint was to evaluate the ORR as per central IRC assessment using RECIST 1.1 in patients with
 
-Duration of Survival (Months)
+Durationof Survival(Months)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -572,19 +576,24 @@ The main efficacy results from studies NP28673 and NP28761 are summarised in Tab
 
 Table 6 Efficacy results from studies NP28673 and NP28761
 
-|                                                                                                                                                                                        | NP28673 Alecensa 600 mg twice daily                                        | NP28761 Alecensa 600 mg twice daily                                  |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------|
-| Median duration of follow-up (months)                                                                                                                                                  | 21 (range 1 - 30)                                                          | 17 (range 1 - 29)                                                    |
-| Primary efficacy parameters ORR (IRC) in RE population Responders n (%) [95 %CI] ORR (IRC) in patients pre-treated with chemotherapy Responders n (%) [95 %CI]                         | n = 122 a 62 (50.8 %) [41.6 %, 60.0 %] n = 96 43 (44.8 %) [34.6 %, 55.3 %] | n  67 b 35 (52.2 %) [39.7 %, 64.6 %]                                |
-| Secondary efficacy parameters DOR (IRC) Number of patients with events n (%) Median (months) [95 %CI] PFS (IRC) Number of patients with events n (%) Median duration (months) [95 %CI] | n  62 36 (58.1 %) 15.2 [11.2, 24.9] n = 138 98 (71.0 %) 8.9 [5.6, 12.8]   | n  35 20 (57.1 %) 14.9 [6.9, NE] n  87 58 (66.7 %) 8.2 [6.3, 12.6] |
+|                                                                                                                                                                           | NP28673 Alecensa 600 mg twice daily                       | NP28761 Alecensa 600 mg twice daily   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------|
+| Median duration of follow-up (months)                                                                                                                                     | 21 (range 1 - 30)                                         | 17 (range 1 - 29)                     |
+| Primary efficacy parameters ORR (IRC) in RE population Responders n (%) [95 %CI] ORR (IRC) in patients pre-treated chemotherapy Responders n (%) [95 %CI]                 | n = 122 a 62 (50.8 %) [41.6 %, 60.0 %] n = 96 43 (44.8 %) | n  67 b 35 (52.2 %) [39.7 %, 64.6 %] |
+| Secondary efficacy parameters DOR (IRC) Number of patients with events n Median (months) [95 %CI] PFS (IRC) Number of patients with events n (%) Median duration (months) | n  62 36 (58.1 %) 15.2 [11.2, 24.9] n = 138              | n  35 20 (57.1 %) 14.9 [6.9, NE]     |
+| (%)                                                                                                                                                                       | [34.6 %, 55.3 %]                                          |                                       |
+| with                                                                                                                                                                      |                                                           | n  87                                |
+|                                                                                                                                                                           |                                                           | 58 (66.7 %)                           |
+| [95 %CI]                                                                                                                                                                  | 98 (71.0 %) 8.9                                           | 8.2                                   |
+|                                                                                                                                                                           | [5.6, 12.8]                                               | [6.3, 12.6]                           |
 
-CI  confidence interval; DOR = duration of response; IRC  independent review committee; NE = not estimable; ORR = objective response rate; PFS = progression free survival; RE  response evaluable
-
-a 16 patients did not have measurable disease at baseline according to the IRC and were not included in the IRC response evaluable population.
+CI  confidence interval; DOR = duration of response; IRC  independent review committee; NE = not estimable; ORR = objective response rate; PFS = progression free survival; RE  response evaluable a 16 patients did not have measurable disease at baseline according to the IRC and were not included in the IRC response evaluable population.
 
 b 20 patients did not have measurable disease at baseline according to the IRC and were not included in the IRC response evaluable population
 
 ORR results for studies NP28673 and NP28761 were consistent across subgroups of baseline patient characteristics such as age, gender, race, ECOG PS, CNS metastasis and prior chemotherapy use, especially when considering the small number of patients in some subgroups.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 7 Summary of the pooled analysis of CNS endpoints from studies NP28673 and NP28761
 
@@ -603,8 +612,6 @@ Table 7 Summary of the pooled analysis of CNS endpoints from studies NP28673 and
 | [95 %CI]                                         | [7.6, NE]                     |
 
 CI  confidence interval; DOR  duration of response; IRC  independent review committee; ORR  objective response rate; NE = not estimable
-
-<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -628,6 +635,8 @@ Following a single oral administration of 600 mg with a high-fat, high-calorie m
 
 Alectinib and its major metabolite M4 are highly bound to human plasma proteins (&gt; 99 %), independent of active substance concentration. The mean in vitro human blood-to-plasma concentration ratios of alectinib and M4 are 2.64 and 2.50, respectively, at clinically relevant concentrations.
 
+<div style=\"page-break-after: always\"></div>
+
 The geometric mean volume of distribution at steady state (Vss) of alectinib following intravenous administration was 475 L, indicating extensive distribution into tissues.
 
 Based on in vitro data, alectinib is not a substrate of P-gp. Alectinib and M4 are not substrates of BCRP or organic anion-transporting polypeptide (OATP) 1B1/B3.
@@ -639,8 +648,6 @@ In vitro metabolism studies showed that CYP3A4 is the main CYP isozyme mediating
 Metabolite M1b was detected as a minor metabolite from in vitro and in human plasma in healthy subjects. Formation of metabolite M1b and its minor isomer M1a is likely to be catalysed by a combination of CYP isozymes (including isozymes other than CYP3A) and aldehyde dehydrogenase (ALDH) enzymes.
 
 In vitro studies indicate that neither alectinib nor its major active metabolite (M4) inhibits CYP1A2, CYP2B6, CYP2C9, CYP2C19, or CYP2D6 at clinically relevant concentrations. Alectinib did not inhibit OATP1B1/OATP1B3, OAT1, OAT3 or OCT2 at clinically relevant concentrations in vitro.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Elimination
 
@@ -662,6 +669,8 @@ Following administration of a single oral dose of 300 mg alectinib in subjects w
 
 The hepatic impairment study also included a group with moderate (Child-Pugh B) hepatic impairment, and a modestly higher alectinib exposure was observed in this group compared with matched healthy subjects. The subjects in the Child Pugh B group however did in general not suffer from abnormal bilirubin, albumin or prothrombin time, indicating that they may not be fully representative of moderately hepatically impaired subjects with decreased metabolic capacity.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effects of age, body weight, race and gender
 
 Age, body weight, race and gender had no clinically meaningful effect on the systemic exposure of alectinib and M4. The range of body weights for patients enrolled in clinical studies is 36.9-123 kg. There are no available data on patients with extreme body weight (&gt;130 kg) (see section 4.2).
@@ -678,11 +687,7 @@ Alectinib was not mutagenic in vitro in the bacterial reverse mutation (Ames) as
 
 ## Impairment of fertility
 
-No fertility studies in animals have been performed to evaluate the effect of alectinib. No adverse effects on male and female reproductive organs were observed in general toxicology studies. These
-
-<div style=\"page-break-after: always\"></div>
-
-studies were conducted in rats and monkeys at exposures equal to or greater than 2.6- and 0.5-fold, respectively, of the human exposure, measured by area under the curve (AUC), at the recommended dose of 600 mg twice daily.
+No fertility studies in animals have been performed to evaluate the effect of alectinib. No adverse effects on male and female reproductive organs were observed in general toxicology studies. These studies were conducted in rats and monkeys at exposures equal to or greater than 2.6- and 0.5-fold, respectively, of the human exposure, measured by area under the curve (AUC), at the recommended dose of 600 mg twice daily.
 
 ## Teratogenicity
 
@@ -799,7 +804,7 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## ● Risk management plan (RMP)
 
-The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreeed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
@@ -1009,9 +1014,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-34
-
-<div style=\"page-break-after: always\"></div>
+33
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1054,6 +1057,8 @@ EXP
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original package and keep the bottle tightly closed in order to protect from moisture
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1140,7 +1145,8 @@ Store in the original package and keep the bottle tightly closed in order to pro
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF   |
 |-------|-------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
@@ -1154,12 +1160,17 @@ EU/1/16/1169/002
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 | 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
 |-------|----------------------------------------|
@@ -1234,7 +1245,7 @@ If you are not sure, talk to your doctor, pharmacist or nurse before taking Alec
 
 Talk to your doctor right away after having taken Alecensa:
 
--  if you are experiencing severe stomach or abdominal pain, fever, chills, sickness, vomiting, or abdominal rigidity or bloating, as these could be symptoms of a hole in the wall of your gut and/or symptoms of an inflammation of the pancreas.
+-  if you are experiencing severe stomach or abdominal pain, fever, chills, sickness, vomiting, or abdominal rigidity or bloating, as these could be symptoms of a hole in the wall of your gut.
 
 Alecensa can cause side effects that you need to tell your doctor about straight away. These include:
 
@@ -1243,19 +1254,18 @@ Alecensa can cause side effects that you need to tell your doctor about straight
 -  lung inflammation (pneumonitis). Alecensa may cause severe or life-threatening swelling (inflammation) of the lungs during treatment. The signs may be similar to those from your lung cancer. Tell your doctor straight away if you have any new or worsening signs including difficulty in breathing, shortness of breath, or cough with or without mucus, or fever.
 -  severe muscle pain, tenderness, and weakness (myalgia). Your doctor will do blood tests at least every 2 weeks for the first month and as needed during treatment with Alecensa. Tell your doctor straight away if you get new or worsening signs of muscle problems, including unexplained muscle pain or muscle pain that does not go away, tenderness, or weakness.
 -  abnormal breakdown of red blood cells (haemolytic anaemia). Tell your doctor straight away if you feel tired, weak or short of breath.
--  severe increase in blood triglycerides, the most common type of fat in the blood, which can lead to an inflammation of the pancreas (pancreatitis). Your doctor will take blood tests before you start treatment, as well as periodically during treatment. Tell your doctor straight away if you get any of the following signs: sudden, severe abdominal pain, accompanied by nausea, vomiting, fast heart rate, fast breathing and/or fever, as these symptoms could be signs of pancreatitis.
 
 Look out for these while you are taking Alecensa. See 'Side effects' in section 4 for more information.
 
 ## Sensitivity to sunlight
 
-<div style=\"page-break-after: always\"></div>
-
 Do not expose yourself to the sun for any long period of time while you are taking Alecensa and for 7 days after you stop. You need to apply sunscreen and lip balm with a sun protection factor (SPF) of 50 or higher to help prevent sunburn.
 
 ## Tests and checks
 
-When you take Alecensa your doctor will do blood tests before you start treatment, then every 2 weeks for the first 3 months of your treatment and then less often. This is to check you do not have any liver or muscle problems while taking Alecensa. Your doctor will also do blood tests before you start treatment and then regularly on treatment to check you do not have any elevations of triglycerides, the most common fat in the blood.
+When you take Alecensa your doctor will do blood tests before you start treatment, then every 2 weeks for the first 3 months of your treatment and then less often. This is to check you do not have any liver or muscle problems while taking Alecensa.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Children and adolescents
 
@@ -1289,8 +1299,6 @@ If you take Alecensa whilst using oral contraceptives, the oral contraceptives m
 
 ## Alecensa with food and drink
 
-<div style=\"page-break-after: always\"></div>
-
 Tell your doctor or pharmacist if you drink grapefruit juice or eat grapefruit or Seville oranges while on treatment with Alecensa as they may change the amount of Alecensa in your body.
 
 ## Contraception, pregnancy, and breast-feeding
@@ -1298,6 +1306,8 @@ Tell your doctor or pharmacist if you drink grapefruit juice or eat grapefruit o
 ## Contraception - information for women
 
 -  You should not become pregnant while taking this medicine. If you are able to become pregnant, you must use highly effective contraception while on treatment and for at least 5 weeks after stopping treatment. If you take Alecensa whilst using oral contraceptives, the oral contraceptives may be less effective.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Contraception - information for men
 
@@ -1331,8 +1341,6 @@ This medicine contains 48 mg sodium (main component of cooking/table salt) per r
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor, pharmacist or nurse if you are not sure.
 
-<div style=\"page-break-after: always\"></div>
-
 ## How much to take
 
 -  The recommended dose is 4 capsules (600 mg) twice a day.
@@ -1344,6 +1352,8 @@ If you have severe liver problems before starting your treatment with Alecensa:
 -  This means you take a total of 6 capsules (900 mg) each day.
 
 Sometimes your doctor may lower your dose, stop your treatment for a short time or stop your treatment completely if you feel unwell.
+
+<div style=\"page-break-after: always\"></div>
 
 ## How to take
 
@@ -1379,12 +1389,8 @@ Tell your doctor straight away if you notice any of the following side effects. 
 -  New or worsening signs including difficulty in breathing, shortness of breath, or cough with or without mucus, or fever - the signs may be similar to those from your lung cancer (potential signs of lung inflammation - pneumonitis). Alecensa can cause severe or life-threatening inflammation of the lungs during treatment.
 -  Yellowing of your skin or the whites of your eyes, pain on the right side of your stomach area, dark urine, itchy skin, feeling less hungry than usual, nausea or vomiting, feeling tired, bleeding or bruising more easily than normal (potential signs of liver problems)
 -  New or worsening signs of muscle problems, including unexplained muscle pain or muscle pain that does not go away, tenderness, or weakness (potential signs of muscle problems).
-
-<div style=\"page-break-after: always\"></div>
-
 -  Fainting, dizziness and low blood pressure (potential signs of slow heart beat)
 -  Feeling tired, weak or short of breath (potential signs of an abnormal breakdown of red blood cells, known as haemolytic anaemia).
--  Sudden, severe abdominal pain, accompanied by nausea, vomiting, fast heart rate, fast breathing and/or fever, as these symptoms could be signs of inflammation of the pancreas (pancreatitis).
 
 ## Other side effects
 
@@ -1393,6 +1399,9 @@ Tell your doctor, pharmacist or nurse if you notice any of the following side ef
 ## Very common (may affect more than 1 in 10 people):
 
 -  abnormal results of blood tests to check for liver problems (high levels of alanine aminotransferase, aspartate aminotransferase and bilirubin)
+
+<div style=\"page-break-after: always\"></div>
+
 -  abnormal results of blood tests to check for muscle damage (high level of creatine phosphokinase)
 -  abnormal results of blood tests to check for liver disease or bone disorders (high level of alkaline phosphatase)
 -  you may feel tired, weak or short of breath due to a reduction in the number of red blood cells, known as anaemia
@@ -1423,9 +1432,6 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 -  Keep this medicine out of the sight and reach of children.
 -  Do not take this medicine after the expiry date which is stated on the carton and either the blister or the bottle after EXP. The expiry date refers to the last day of that month.
 -  If Alecensa is packed in blisters, store in the original package in order to protect from moisture.
-
-<div style=\"page-break-after: always\"></div>
-
 -  If Alecensa is packed in bottles, store in the original package and keep the bottle tightly closed to protect from moisture.
 -  Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1435,6 +1441,9 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 -  The active substance is alectinib. Each hard capsule contains alectinib hydrochloride equivalent to 150 mg alectinib.
 -  The other ingredients are:
+
+<div style=\"page-break-after: always\"></div>
+
 - -Capsule content: lactose monohydrate (see section 2 'Alecensa contains lactose'), hydroxypropylcellulose, sodium laurilsulfate (see section 2 'Alecensa contains sodium'), magnesium stearate and carmellose calcium
 - -Capsule shell: hypromellose, carrageenan, potassium chloride, titanium dioxide (E171), maize starch and carnauba wax
 - -Printing ink: red iron oxide (E172), yellow iron oxide (E172), indigo carmine aluminium lake (E132), carnauba wax, white shellac and glyceryl monooleate.
@@ -1453,138 +1462,29 @@ Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 Roche Pharma AG Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
-<div style=\"page-break-after: always\"></div>
-
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien, Luxembourg/Luxemburg
-
-N.V. Roche S.A. België/Belgique/Belgien
-
-Tél/Tel: +32 (0) 2 525 82 11
-
-## България
-
-Рош България ЕООД
-
-Тел : +359 2 474 5444
-
-## Č eská republika
-
-Roche s. r. o.
-
-Tel: +420 - 2 20382111
-
-## Danmark
-
-Roche Pharmaceuticals A/S Tlf.: +45 - 36 39 99 99
-
-## Deutschland
-
-Roche Pharma AG
-
-Tel: +49 (0) 7624 140
-
-## Eesti
-
-Roche Eesti OÜ Tel: + 372 - 6 177 380
-
-## Ελλάδα , K ύπρος
-
-Roche (Hellas) A.E. Ελλάδα Τηλ : +30 210 61 66 100
-
-## España
-
-Roche Farma S.A. Tel: +34 - 91 324 81 00
-
-## France
-
-Roche
-
-Tél: +33 (0) 1 47 61 40 00
-
-## Hrvatska
-
-Roche d.o.o.
-
-Tel: +385 1 4722 333
-
-## Ireland, Malta
-
-Roche Products (Ireland) Ltd Ireland/L-Irlanda Tel: +353 (0) 1 469 0700
-
-## Ísland
-
-Roche Pharmaceuticals A/S c/o Icepharma hf Sími: +354 540 8000
-
-## Latvija
-
-Roche Latvija SIA
-
-Tel: +371 - 6 7039831
-
-## Lietuva
-
-UAB 'Roche Lietuva' Tel: +370 5 2546799
-
-## Magyarország
-
-Roche (Magyarország) Kft. Tel: +36 - 1 279 4500
-
-## Nederland
-
-Roche Nederland B.V. Tel: +31 (0) 348 438000
-
-## Norge
-
-Roche Norge AS
-
-Tlf: +47 - 22 78 90 00
-
-## Österreich
-
-Roche Austria GmbH Tel: +43 (0) 1 27739
-
-## Polska
-
-Roche Polska Sp.z o.o. Tel: +48 - 22 345 18 88
-
-## Portugal
-
-Roche Farmacêutica Química, Lda Tel: +351 - 21 425 70 00
-
-## România
-
-Roche România S.R.L. Tel: +40 21 206 47 01
-
-## Slovenija
-
-Roche farmacevtska družba d.o.o. Tel: +386 - 1 360 26 00
-
-## Slovenská republika
-
-Roche Slovensko, s.r.o.
-
-Tel: +421 - 2 52638201
-
-## Suomi/Finland
-
-Roche Oy
-
-Puh/Tel: +358 (0) 10 554 500
+| België/Belgique/Belgien, Luxembourg/Luxemburg N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11   | Latvija Roche Latvija SIA Tel: +371 - 6 7039831              |
+|----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| България Рош България ЕООД Тел : +359 2 474 5444                                                                     | Lietuva UAB 'Roche Lietuva' Tel: +370 5 2546799              |
+| Č eská republika Roche s. r. o. Tel: +420 - 2 20382111                                                               | Magyarország Roche (Magyarország) Kft. Tel: +36 - 1 279 4500 |
+| Danmark Roche Pharmaceuticals A/S Tlf.: +45 - 36 39 99 99                                                            | Nederland Roche Nederland B.V. Tel: +31 (0) 348 438000       |
 
 <div style=\"page-break-after: always\"></div>
 
-## Italia
-
-Roche S.p.A.
-
-Tel: +39 - 039 2471
+| Deutschland Roche Pharma AG Tel: +49 (0) 7624 140                                      | Norge Roche Norge AS Tlf: +47 - 22 78 90 00                        |
+|----------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Eesti Roche Eesti OÜ Tel: + 372 - 6 177 380                                            | Österreich Roche Austria GmbH Tel: +43 (0) 1 27739                 |
+| Ελλάδα ,K ύπρος Roche (Hellas) A.E. Ελλάδα Τηλ : +30 210 61 66 100                     | Polska Roche Polska Sp.z o.o. Tel: +48 - 22 345 18 88              |
+| España Roche Farma S.A. Tel: +34 - 91 324 81 00                                        | Portugal Roche Farmacêutica Química, Lda Tel: +351 - 21 425 70 00  |
+| France Roche Tél: +33 (0) 1 47 61 40 00                                                | România Roche România S.R.L. Tel: +40 21 206 47 01                 |
+| Hrvatska Roche d.o.o. Tel: +385 1 4722 333                                             | Slovenija Roche farmacevtska družba d.o.o. Tel: +386 - 1 360 26 00 |
+| Ireland, Malta Roche Products (Ireland) Ltd Ireland/L-Irlanda Tel: +353 (0) 1 469 0700 | Slovenská republika Roche Slovensko, s.r.o. Tel: +421 - 2 52638201 |
+| Ísland Roche Pharmaceuticals A/S c/o Icepharma hf Sími: +354 540 8000                  | Suomi/Finland Roche Oy Puh/Tel: +358 (0) 10 554 500                |
+| Italia Roche S.p.A. Tel: +39 - 039 2471                                                | Sverige Roche AB Tel: +46 (0) 8 726 1200                           |
 
 ## This leaflet was last revised in { MM/YYYY }.
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web-site: https://www.ema.europa.eu.
-
-Sverige Roche AB Tel: +46 (0) 8 726 1200

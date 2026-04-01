@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-25 14:56:00
+document_datetime: 2026-03-31 16:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hepcludex.html
 document_name: hepcludex.html
 version: success
-processing_time: 0.0865237
-conversion_datetime: 2026-03-01 20:28:49.313564
+processing_time: 0.1187812
+conversion_datetime: 2026-04-01 12:31:04.859405
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Hepcludex
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-bulevirtide Medicine Human Authorised
+bulevirtide
+
+Medicine Human Authorised
 
 Page contents
 
@@ -121,285 +123,149 @@ Reference Number: EMA/503828/2024
 
 English (EN) (109.31 KB - PDF)
 
-**First published:** 12/08/2020
-
-**Last updated:** 16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/en/documents/overview/hepcludex-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-98)
+[Other languages (22)](#file-language-dropdown-776)
 
 български (BG) (138.19 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/bg/documents/overview/hepcludex-epar-medicine-overview_bg.pdf)
 
 español (ES) (113.91 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/es/documents/overview/hepcludex-epar-medicine-overview_es.pdf)
 
 čeština (CS) (137.25 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/cs/documents/overview/hepcludex-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (111.88 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/da/documents/overview/hepcludex-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (116.21 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/de/documents/overview/hepcludex-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (111.52 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/et/documents/overview/hepcludex-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (136.98 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/el/documents/overview/hepcludex-epar-medicine-overview_el.pdf)
 
 français (FR) (114.3 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/fr/documents/overview/hepcludex-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (136.38 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/hr/documents/overview/hepcludex-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (112.5 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/it/documents/overview/hepcludex-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (125.31 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/lv/documents/overview/hepcludex-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (136.63 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/lt/documents/overview/hepcludex-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (138.23 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/hu/documents/overview/hepcludex-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (139.58 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/mt/documents/overview/hepcludex-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (113.02 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/nl/documents/overview/hepcludex-epar-medicine-overview_nl.pdf)
 
 polski (PL) (138.25 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/pl/documents/overview/hepcludex-epar-medicine-overview_pl.pdf)
 
 português (PT) (114.99 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/pt/documents/overview/hepcludex-epar-medicine-overview_pt.pdf)
 
 română (RO) (134.13 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/ro/documents/overview/hepcludex-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (137.48 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/sk/documents/overview/hepcludex-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (135.12 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/sl/documents/overview/hepcludex-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (111.1 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/fi/documents/overview/hepcludex-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (112.5 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-16/12/2024
+**First published:** 12/08/2020 **Last updated:** 16/12/2024
 
 [View](/sv/documents/overview/hepcludex-epar-medicine-overview_sv.pdf)
 
 Hepcludex : EPAR - Risk management plan
 
-English (EN) (360.03 KB - PDF)
+English (EN) (574.04 KB - PDF)
 
-**First published:** 12/08/2020
-
-**Last updated:** 04/02/2025
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/en/documents/rmp/hepcludex-epar-risk-management-plan_en.pdf)
 
@@ -407,305 +273,161 @@ English (EN) (360.03 KB - PDF)
 
 Hepcludex : EPAR - Product information
 
-English (EN) (970.88 KB - PDF)
+English (EN) (972.36 KB - PDF)
 
-**First published:** 12/08/2020
-
-**Last updated:** 25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/en/documents/product-information/hepcludex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-769)
+[Other languages (24)](#file-language-dropdown-864)
 
 български (BG) (1.08 MB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/bg/documents/product-information/hepcludex-epar-product-information_bg.pdf)
 
-español (ES) (920.37 KB - PDF)
+español (ES) (927.13 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/es/documents/product-information/hepcludex-epar-product-information_es.pdf)
 
 čeština (CS) (1.06 MB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/cs/documents/product-information/hepcludex-epar-product-information_cs.pdf)
 
-dansk (DA) (966.11 KB - PDF)
+dansk (DA) (2.19 MB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/da/documents/product-information/hepcludex-epar-product-information_da.pdf)
 
-Deutsch (DE) (982.22 KB - PDF)
+Deutsch (DE) (947.01 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/de/documents/product-information/hepcludex-epar-product-information_de.pdf)
 
-eesti keel (ET) (966.19 KB - PDF)
+eesti keel (ET) (976.01 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/et/documents/product-information/hepcludex-epar-product-information_et.pdf)
 
 ελληνικά (EL) (1.08 MB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/el/documents/product-information/hepcludex-epar-product-information_el.pdf)
 
-français (FR) (976.13 KB - PDF)
+français (FR) (977.95 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/fr/documents/product-information/hepcludex-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.04 MB - PDF)
+hrvatski (HR) (1.05 MB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/hr/documents/product-information/hepcludex-epar-product-information_hr.pdf)
 
-íslenska (IS) (966.15 KB - PDF)
+íslenska (IS) (975.71 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/is/documents/product-information/hepcludex-epar-product-information_is.pdf)
 
-italiano (IT) (970.41 KB - PDF)
+italiano (IT) (979.79 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/it/documents/product-information/hepcludex-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.05 MB - PDF)
+latviešu valoda (LV) (1.06 MB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/lv/documents/product-information/hepcludex-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.04 MB - PDF)
+lietuvių kalba (LT) (1.05 MB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/lt/documents/product-information/hepcludex-epar-product-information_lt.pdf)
 
-magyar (HU) (1.03 MB - PDF)
+magyar (HU) (1.04 MB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/hu/documents/product-information/hepcludex-epar-product-information_hu.pdf)
 
-Malti (MT) (1.06 MB - PDF)
+Malti (MT) (1.07 MB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/mt/documents/product-information/hepcludex-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.5 MB - PDF)
+Nederlands (NL) (892.82 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/nl/documents/product-information/hepcludex-epar-product-information_nl.pdf)
 
-norsk (NO) (951.99 KB - PDF)
+norsk (NO) (960.35 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/no/documents/product-information/hepcludex-epar-product-information_no.pdf)
 
-polski (PL) (1.01 MB - PDF)
+polski (PL) (1.06 MB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/pl/documents/product-information/hepcludex-epar-product-information_pl.pdf)
 
-português (PT) (894.93 KB - PDF)
+português (PT) (971.85 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/pt/documents/product-information/hepcludex-epar-product-information_pt.pdf)
 
-română (RO) (1.05 MB - PDF)
+română (RO) (1.06 MB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/ro/documents/product-information/hepcludex-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.06 MB - PDF)
+slovenčina (SK) (1.07 MB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/sk/documents/product-information/hepcludex-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.04 MB - PDF)
+slovenščina (SL) (1.05 MB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/sl/documents/product-information/hepcludex-epar-product-information_sl.pdf)
 
-Suomi (FI) (964.52 KB - PDF)
+Suomi (FI) (975.31 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/fi/documents/product-information/hepcludex-epar-product-information_fi.pdf)
 
-svenska (SV) (968.51 KB - PDF)
+svenska (SV) (975.88 KB - PDF)
 
-**First published:**
-
-12/08/2020
-
-**Last updated:**
-
-25/02/2026
+**First published:** 12/08/2020 **Last updated:** 31/03/2026
 
 [View](/sv/documents/product-information/hepcludex-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000315447 24/02/2026
+**Latest procedure affecting product information:** VR/0000320140
+
+12/03/2026
 
 icon globe
 
@@ -729,203 +451,173 @@ English (EN) (51.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-474)
+[Other languages (24)](#file-language-dropdown-985)
 
 български (BG) (62.4 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/bg/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (50.89 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/es/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (58.9 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/cs/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (54.49 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/da/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (54.04 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/de/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (50.36 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/et/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (65.35 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/el/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (51.46 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/fr/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (67.37 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/hr/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (38.55 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/is/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (50.96 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/it/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (76.48 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/lv/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (67.11 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/lt/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (59.53 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/hu/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (69.89 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/mt/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (51.21 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/nl/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (38.59 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/no/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (70.08 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/pl/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (52.21 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/pt/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (57.92 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/ro/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (67.24 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/sk/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (58.97 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/sl/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (50.26 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/fi/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (51.62 KB - PDF)
 
-**First published:**
-
-12/08/2020
+**First published:** 12/08/2020
 
 [View](/sv/documents/all-authorised-presentations/hepcludex-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Hepcludex Active substance bulevirtide acetate International non-proprietary name (INN) or common name bulevirtide Therapeutic area (MeSH) Hepatitis D, Chronic Anatomical therapeutic chemical (ATC) code J05A
+Name of medicine
+
+Hepcludex
+
+Active substance
+
+bulevirtide acetate
+
+International non-proprietary name (INN) or common name
+
+bulevirtide
+
+Therapeutic area (MeSH)
+
+Hepatitis D, Chronic
+
+Anatomical therapeutic chemical (ATC) code
+
+J05A
 
 ### Pharmacotherapeutic group
 
@@ -937,7 +629,9 @@ Hepcludex is indicated for the treatment of chronic hepatitis delta virus (HDV) 
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004854
+EMA product number
+
+EMEA/H/C/004854
 
 Additional monitoring
 
@@ -957,7 +651,13 @@ Gilead Sciences Ireland UC
 
 Carrigtohill
 
-Marketing authorisation issued 31/07/2020 Revision 17
+Marketing authorisation issued
+
+31/07/2020
+
+Revision
+
+18
 
 ## Assessment history
 
@@ -969,11 +669,9 @@ Collapse section
 
 Hepcludex : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (170.54 KB - PDF)
+English (EN) (156.02 KB - PDF)
 
-**First published:** 03/09/2025
-
-**Last updated:** 25/02/2026
+**First published:** 03/09/2025 **Last updated:** 31/03/2026
 
 [View](/en/documents/procedural-steps-after/hepcludex-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -981,17 +679,13 @@ Hepcludex  : EPAR - Procedural steps taken and scientific information after auth
 
 English (EN) (225.2 KB - PDF)
 
-**First published:** 07/10/2020
-
-**Last updated:** 04/02/2025
+**First published:** 07/10/2020 **Last updated:** 04/02/2025
 
 [View](/en/documents/procedural-steps-after/hepcludex-epar-procedural-steps-taken-scientific-information-after-authorisation-archived_en.pdf)
 
 Hepcludex-H-C-004854-II-0031 : EPAR - Assessment report - variation
 
-Adopted
-
-Reference Number: EMA/542920/2024
+Adopted Reference Number: EMA/542920/2024
 
 English (EN) (1.43 MB - PDF)
 
@@ -1001,9 +695,7 @@ English (EN) (1.43 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Hepcludex (II-31)
 
-Adopted
-
-Reference Number: EMA/CHMP/447783/2024
+Adopted Reference Number: EMA/CHMP/447783/2024
 
 English (EN) (140.56 KB - PDF)
 
@@ -1013,9 +705,7 @@ English (EN) (140.56 KB - PDF)
 
 Hepcludex-H-C-004854-P46-005 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/435968/2023
+Adopted Reference Number: EMA/435968/2023
 
 English (EN) (449.6 KB - PDF)
 
@@ -1025,9 +715,7 @@ English (EN) (449.6 KB - PDF)
 
 Hepcludex-H-C-004854-II-0019 : EPAR - Assessment report - variation
 
-Adopted
-
-Reference Number: EMA/763187/2022
+Adopted Reference Number: EMA/763187/2022
 
 English (EN) (1.62 MB - PDF)
 
@@ -1039,9 +727,7 @@ English (EN) (1.62 MB - PDF)
 
 Hepcludex : Orphan maintenance assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-471852
+Adopted Reference Number: EMADOC-1700519818-471852
 
 English (EN) (278.8 KB - PDF)
 
@@ -1051,9 +737,7 @@ English (EN) (278.8 KB - PDF)
 
 Hepcludex : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/326446/2020
+Adopted Reference Number: EMA/326446/2020
 
 English (EN) (5.08 MB - PDF)
 
@@ -1063,9 +747,7 @@ English (EN) (5.08 MB - PDF)
 
 CHMP summary of positive opinion for Hepcludex
 
-Adopted
-
-Reference Number: EMA/CHMP/270357/2020
+Adopted Reference Number: EMA/CHMP/270357/2020
 
 English (EN) (139.4 KB - PDF)
 
@@ -1075,9 +757,13 @@ English (EN) (139.4 KB - PDF)
 
 ## News on Hepcludex
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 October 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-october-2024) 18/10/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 October 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-october-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 May 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-may-2020) 29/05/2020
+18/10/2024
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 May 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-may-2020)
+
+29/05/2020
 
 ## More information on Hepcludex
 
@@ -1091,8 +777,8 @@ English (EN) (139.4 KB - PDF)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Rare diseases](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A64)
 
-**This page was last updated on** 25/02/2026
+**This page was last updated on**
+
+31/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

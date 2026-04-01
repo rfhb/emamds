@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-02-03 10:45:00
+document_datetime: 2026-03-30 17:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/uzpruvo.html
 document_name: uzpruvo.html
 version: success
-processing_time: 0.1163035
-conversion_datetime: 2026-02-04 15:10:04.458869
+processing_time: 0.1041673
+conversion_datetime: 2026-04-01 12:39:57.430031
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
-  python: cpython-313 (3.13.12)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Uzpruvo
 
 [RSS](/en/individual-human-medicine.xml/89046)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-ustekinumab Medicine Human Authorised
+ustekinumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -111,187 +113,143 @@ Uzpruvo : EPAR - Medicine overview
 
 Reference Number: EMA/510375/2023
 
-English (EN) (146.58 KB - PDF)
+English (EN) (136.19 KB - PDF)
 
-**First published:** 07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/en/documents/overview/uzpruvo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-347)
+[Other languages (22)](#file-language-dropdown-57)
 
-български (BG) (154.79 KB - PDF)
+български (BG) (162.23 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/bg/documents/overview/uzpruvo-epar-medicine-overview_bg.pdf)
 
-español (ES) (135.86 KB - PDF)
+español (ES) (136.08 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/es/documents/overview/uzpruvo-epar-medicine-overview_es.pdf)
 
-čeština (CS) (151.4 KB - PDF)
+čeština (CS) (161.07 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/cs/documents/overview/uzpruvo-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (126.75 KB - PDF)
+dansk (DA) (136.83 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/da/documents/overview/uzpruvo-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (130.25 KB - PDF)
+Deutsch (DE) (140.2 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/de/documents/overview/uzpruvo-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (143.09 KB - PDF)
+eesti keel (ET) (133.66 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/et/documents/overview/uzpruvo-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (164.69 KB - PDF)
+ελληνικά (EL) (162.14 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/el/documents/overview/uzpruvo-epar-medicine-overview_el.pdf)
 
-français (FR) (136.87 KB - PDF)
+français (FR) (137.25 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/fr/documents/overview/uzpruvo-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (168.77 KB - PDF)
+hrvatski (HR) (159.63 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/hr/documents/overview/uzpruvo-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (135.1 KB - PDF)
+italiano (IT) (135.23 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/it/documents/overview/uzpruvo-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (175.87 KB - PDF)
+latviešu valoda (LV) (154.37 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/lv/documents/overview/uzpruvo-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (169.43 KB - PDF)
+lietuvių kalba (LT) (159.2 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/lt/documents/overview/uzpruvo-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (159.41 KB - PDF)
+magyar (HU) (160.59 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/hu/documents/overview/uzpruvo-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (169.48 KB - PDF)
+Malti (MT) (161.08 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/mt/documents/overview/uzpruvo-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (137.18 KB - PDF)
+Nederlands (NL) (137.74 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/nl/documents/overview/uzpruvo-epar-medicine-overview_nl.pdf)
 
-polski (PL) (163.06 KB - PDF)
+polski (PL) (162.33 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/pl/documents/overview/uzpruvo-epar-medicine-overview_pl.pdf)
 
-português (PT) (136.41 KB - PDF)
+português (PT) (136.99 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/pt/documents/overview/uzpruvo-epar-medicine-overview_pt.pdf)
 
-română (RO) (155.82 KB - PDF)
+română (RO) (155.14 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/ro/documents/overview/uzpruvo-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (160.2 KB - PDF)
+slovenčina (SK) (159.89 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/sk/documents/overview/uzpruvo-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (156.69 KB - PDF)
+slovenščina (SL) (156.22 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/sl/documents/overview/uzpruvo-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (132.63 KB - PDF)
+Suomi (FI) (133.01 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/fi/documents/overview/uzpruvo-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (134.2 KB - PDF)
+svenska (SV) (134.5 KB - PDF)
 
-**First published:**
-
-07/02/2024
+**First published:** 07/02/2024 **Last updated:** 30/03/2026
 
 [View](/sv/documents/overview/uzpruvo-epar-medicine-overview_sv.pdf)
 
@@ -299,9 +257,7 @@ Uzpruvo : EPAR - Risk management plan
 
 English (EN) (894.47 KB - PDF)
 
-**First published:** 07/02/2024
-
-**Last updated:** 11/03/2025
+**First published:** 07/02/2024 **Last updated:** 11/03/2025
 
 [View](/en/documents/rmp/uzpruvo-epar-risk-management-plan_en.pdf)
 
@@ -311,303 +267,159 @@ Uzpruvo : EPAR - Product information
 
 English (EN) (1.98 MB - PDF)
 
-**First published:** 07/02/2024
-
-**Last updated:** 03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/en/documents/product-information/uzpruvo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-580)
+[Other languages (24)](#file-language-dropdown-78)
 
 български (BG) (1.99 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/bg/documents/product-information/uzpruvo-epar-product-information_bg.pdf)
 
 español (ES) (2.16 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/es/documents/product-information/uzpruvo-epar-product-information_es.pdf)
 
 čeština (CS) (2.02 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/cs/documents/product-information/uzpruvo-epar-product-information_cs.pdf)
 
 dansk (DA) (2.03 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/da/documents/product-information/uzpruvo-epar-product-information_da.pdf)
 
 Deutsch (DE) (1.92 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/de/documents/product-information/uzpruvo-epar-product-information_de.pdf)
 
 eesti keel (ET) (2.21 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/et/documents/product-information/uzpruvo-epar-product-information_et.pdf)
 
 ελληνικά (EL) (2.09 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/el/documents/product-information/uzpruvo-epar-product-information_el.pdf)
 
 français (FR) (2 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/fr/documents/product-information/uzpruvo-epar-product-information_fr.pdf)
 
 hrvatski (HR) (2.01 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/hr/documents/product-information/uzpruvo-epar-product-information_hr.pdf)
 
 íslenska (IS) (1.88 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/is/documents/product-information/uzpruvo-epar-product-information_is.pdf)
 
 italiano (IT) (1.92 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/it/documents/product-information/uzpruvo-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (2.03 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/lv/documents/product-information/uzpruvo-epar-product-information_lv.pdf)
 
 lietuvių kalba (LT) (2.11 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/lt/documents/product-information/uzpruvo-epar-product-information_lt.pdf)
 
 magyar (HU) (2.05 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/hu/documents/product-information/uzpruvo-epar-product-information_hu.pdf)
 
 Malti (MT) (2.19 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/mt/documents/product-information/uzpruvo-epar-product-information_mt.pdf)
 
 Nederlands (NL) (2.06 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/nl/documents/product-information/uzpruvo-epar-product-information_nl.pdf)
 
 norsk (NO) (1.93 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/no/documents/product-information/uzpruvo-epar-product-information_no.pdf)
 
 polski (PL) (2.05 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/pl/documents/product-information/uzpruvo-epar-product-information_pl.pdf)
 
 português (PT) (1.9 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/pt/documents/product-information/uzpruvo-epar-product-information_pt.pdf)
 
 română (RO) (2.03 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/ro/documents/product-information/uzpruvo-epar-product-information_ro.pdf)
 
 slovenčina (SK) (2.02 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/sk/documents/product-information/uzpruvo-epar-product-information_sk.pdf)
 
 slovenščina (SL) (1.92 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/sl/documents/product-information/uzpruvo-epar-product-information_sl.pdf)
 
 Suomi (FI) (1.91 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/fi/documents/product-information/uzpruvo-epar-product-information_fi.pdf)
 
 svenska (SV) (1.91 MB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-03/02/2026
+**First published:** 07/02/2024 **Last updated:** 03/02/2026
 
 [View](/sv/documents/product-information/uzpruvo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000316264 30/01/2026
+**Latest procedure affecting product information:** VR/0000316264
+
+30/01/2026
 
 icon globe
 
@@ -627,312 +439,180 @@ Uzpruvo : EPAR - All authorised presentations
 
 English (EN) (64.32 KB - PDF)
 
-**First published:** 07/02/2024
-
-**Last updated:** 26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/en/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-603)
+[Other languages (24)](#file-language-dropdown-173)
 
 български (BG) (57.37 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/bg/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (46.89 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/es/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (56.95 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/cs/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (49.55 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/da/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (49.17 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/de/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (45.54 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/et/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (63.16 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/el/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (46.52 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/fr/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (63.62 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/hr/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (47.63 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/is/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (46.42 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/it/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (63.87 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/lv/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (65.91 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/lt/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (66.95 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/hu/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (68.35 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/mt/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (46.84 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/nl/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (47.82 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/no/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (69.1 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/pl/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (48.07 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/pt/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (55.72 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/ro/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (63.91 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/sk/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (54.28 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/sl/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (45.1 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/fi/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (47.04 KB - PDF)
 
-**First published:**
-
-07/02/2024
-
-**Last updated:**
-
-26/03/2025
+**First published:** 07/02/2024 **Last updated:** 26/03/2025
 
 [View](/sv/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Uzpruvo Active substance ustekinumab International non-proprietary name (INN) or common name ustekinumab Therapeutic area (MeSH)
+Name of medicine
+
+Uzpruvo
+
+Active substance
+
+ustekinumab
+
+International non-proprietary name (INN) or common name
+
+ustekinumab
+
+Therapeutic area (MeSH)
 
 - Psoriasis
 - Arthritis, Psoriatic
 - Crohn Disease
 - Colitis, Ulcerative
 
-Anatomical therapeutic chemical (ATC) code L04AC05
+Anatomical therapeutic chemical (ATC) code
+
+L04AC05
 
 ### Pharmacotherapeutic group
 
@@ -946,7 +626,9 @@ Paediatric Crohn's Disease Uzpruvo is indicated for the treatment of moderately 
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006101
+EMA product number
+
+EMEA/H/C/006101
 
 Biosimilar
 
@@ -958,7 +640,17 @@ Stada Arzneimittel AG
 
 Stadastrasse 2-18
 
-Opinion adopted 09/11/2023 Marketing authorisation issued 05/01/2024 Revision 9
+Opinion adopted
+
+09/11/2023
+
+Marketing authorisation issued
+
+05/01/2024
+
+Revision
+
+10
 
 ## Assessment history
 
@@ -972,9 +664,7 @@ Uzprovo : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (157.16 KB - PDF)
 
-**First published:** 11/03/2025
-
-**Last updated:** 03/02/2026
+**First published:** 11/03/2025 **Last updated:** 03/02/2026
 
 [View](/en/documents/procedural-steps-after/uzprovo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -982,9 +672,7 @@ Uzprovo : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (160.65 KB - PDF)
 
-**First published:** 27/06/2024
-
-**Last updated:** 11/03/2025
+**First published:** 27/06/2024 **Last updated:** 11/03/2025
 
 [View](/en/documents/procedural-steps-after/uzprovo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -992,9 +680,7 @@ English (EN) (160.65 KB - PDF)
 
 Uzprovo : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/549260/2023
+Adopted Reference Number: EMA/549260/2023
 
 English (EN) (4.32 MB - PDF)
 
@@ -1012,12 +698,14 @@ English (EN) (151.71 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-uzpruvo_en.pdf)
 
-#### News on Uzpruvo
+## News on Uzpruvo
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 6-9 November 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-6-9-november-2023) 10/11/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 6-9 November 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-6-9-november-2023)
 
-**This page was last updated on** 03/02/2026
+10/11/2023
+
+**This page was last updated on**
+
+30/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

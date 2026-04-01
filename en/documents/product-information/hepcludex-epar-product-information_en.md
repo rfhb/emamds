@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-25 13:01:54
+document_datetime: 2026-03-31 13:16:20
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/hepcludex-epar-product-information_en.pdf
 document_name: hepcludex-epar-product-information_en.pdf
 version: success
-processing_time: 7.4884051
-conversion_datetime: 2026-03-01 19:31:04.729993
+processing_time: 7.1671936
+conversion_datetime: 2026-04-01 12:29:17.096628
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -235,13 +235,13 @@ Asymptomatic bile salt elevations, associated with the mechanism of action of bu
 
 Due to renal excretion of bile salts, elevation of bile salts may be greater in patients with renal impairment.
 
-There are no data available on the long-term impact (&gt; 96 weeks) of this bile salt increase induced by bulevirtide.
+## Injection Site Reactions
+
+Bulevirtide is intended for subcutaneous injection which is associated with risks for injection site reactions including swelling, redness, irritation, itchiness, infection, haematoma, rash, induration and
 
 <div style=\"page-break-after: always\"></div>
 
-## Injection Site Reactions
-
-Bulevirtide is intended for subcutaneous injection which is associated with risks for injection site reactions including swelling, redness, irritation, itchiness, infection, haematoma, rash, induration and local pain. These local reactions are more likely to appear if the injection is accidentally misplaced or the solution is accidentally misdirected to the soft tissue.
+local pain. These local reactions are more likely to appear if the injection is accidentally misplaced or the solution is accidentally misdirected to the soft tissue.
 
 ## Eosinophilia
 
@@ -275,11 +275,9 @@ In Study 301, 100 of 150 patients with chronic HDV infection were randomised to 
 
 Of the 49 patients in the immediate treatment group, mean age was 44 years; 61% were male, 84% were White, and 16% were Asian. Of the 51 patients in the delayed treatment group, mean age was 41 years; 51% were male, 78% were White and 22% were Asian. All 100 patients had infection with HDV genotype 1.
 
-Baseline characteristics were balanced among the immediate and delayed treatment groups. Of the patients who received 2 mg bulevirtide at baseline, mean plasma HDV RNA was 5.1 log10 IU/mL, mean ALT was 108 U/L, 47% of patients had a history of cirrhosis, and 53% were interferon experienced. During the study (through Week 48), 63% of these patients, received concomitant therapy according to the standard care for their underlying HBV infection: the most common
+Baseline characteristics were balanced among the immediate and delayed treatment groups. Of the patients who received 2 mg bulevirtide at baseline, mean plasma HDV RNA was 5.1 log10 IU/mL, mean ALT was 108 U/L, 47% of patients had a history of cirrhosis, and 53% were interferon experienced. During the study (through Week 48), 63% of these patients, received concomitant therapy according to the standard care for their underlying HBV infection: the most common concomitant medications were tenofovir disoproxil fumarate-containing or tenofovir alafenamidecontaining products (49%) and entecavir (14%).
 
 <div style=\"page-break-after: always\"></div>
-
-concomitant medications were tenofovir disoproxil fumarate-containing or tenofovir alafenamidecontaining products (49%) and entecavir (14%).
 
 The table below presents the virologic and biochemical outcomes for immediate treatment with bulevirtide 2 mg once daily and delayed treatment at Week 48.
 
@@ -314,11 +312,11 @@ There is no evidence that the pharmacokinetics, safety, or effectiveness of bule
 
 See section 4.2 and 5.2 for information on paediatric use.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.2 Pharmacokinetic properties
 
 The pharmacokinetic properties of bulevirtide were characterised after intravenous and subcutaneous administration. The exposure of bulevirtide increased disproportionally while the apparent clearance and apparent volume of distribution decreased with higher doses.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
@@ -356,13 +354,13 @@ No data is available in patients older than 65 years of age.
 
 The pharmacokinetics of bulevirtide in paediatric patients have not been evaluated in a clinical study. Dosing recommendations for paediatric patients 3 years of age and older weighing at least 10 kg are based on exposure matching the paediatric bulevirtide concentration to concentrations observed in adults with HDV infection treated with bulevirtide 2 mg once daily. Simulated steady-state plasma exposures of bulevirtide weight-based dosing (see section 4.2) once daily by subcutaneous injection in paediatric patients are predicted to be within the safe and efficacious exposures associated with 2 mg bulevirtide once daily by subcutaneous injection in adults.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, single and repeated dose toxicity, and toxicity to reproduction and development.
 
 No genotoxicity and carcinogenicity studies were conducted due to the nature and mechanism of action of the product.
+
+<div style=\"page-break-after: always\"></div>
 
 A pre and post-natal development study (PPND) has been completed in rats and did not show any bulevirtide-related toxicity.
 
@@ -398,13 +396,11 @@ Each vial is intended for single use only and the excess of unused product must 
 
 ## Instructions for use
 
-The bulevirtide vial should be taken from the refrigerator shortly before the injection and the blue flipoff cap has to be removed. A single-use syringe should be taken and a needle tip attached to the syringe head in order to extract 1 ml of sterile water for injection into the syringe. The syringe needle
-
-<div style=\"page-break-after: always\"></div>
-
-with the syringe containing the sterile water for injection should then be inserted into the bulevirtide vial through the rubber stopper. The sterile water for injection inside the syringe will then be injected into the bulevirtide vial and the bulevirtide vial has to be carefully swayed until a clear solution is obtained. The required content for the dose to be administered from the bulevirtide vial has to be extracted back into the same syringe with the same needle tip (See Table below).
+The bulevirtide vial should be taken from the refrigerator shortly before the injection and the blue flipoff cap has to be removed. A single-use syringe should be taken and a needle tip attached to the syringe head in order to extract 1 ml of sterile water for injection into the syringe. The syringe needle with the syringe containing the sterile water for injection should then be inserted into the bulevirtide vial through the rubber stopper. The sterile water for injection inside the syringe will then be injected into the bulevirtide vial and the bulevirtide vial has to be carefully swayed until a clear solution is obtained. The required content for the dose to be administered from the bulevirtide vial has to be extracted back into the same syringe with the same needle tip (See Table below).
 
 ## Required dose volumes to be extracted for administration of bulevirtide
+
+<div style=\"page-break-after: always\"></div>
 
 | Bulevirtide Dose   | Required volume of reconstituted bulevirtide to be extracted   |
 |--------------------|----------------------------------------------------------------|
@@ -414,7 +410,7 @@ with the syringe containing the sterile water for injection should then be inser
 
 The needle tip has then to be detached from the syringe. To this syringe, a needle tip for subcutaneous injection has to be attached and any remaining air bubbles have to be removed from the syringe prior to injection. The content of the bulevirtide vial will then be administered subcutaneously.
 
-## Disposal of medicinal product and auxiliary components
+Disposal of medicinal product and auxiliary components
 
 All used components/ waste should be handled according to the current regulation.
 
@@ -1001,11 +997,9 @@ Upper thighs
 
 ## 1. Before you inject
 
+1A Storage
+
 <!-- image -->
-
-1A
-
-Storage
 
 Hepcludex vials must be stored in the original packaging in the refrigerator (28 °C) in order to protect Hepcludex from light.
 

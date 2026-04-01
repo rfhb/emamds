@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-24 09:51:46
+document_datetime: 2026-03-31 13:07:49
 document_pages: 103
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/erleada-epar-product-information_en.pdf
 document_name: erleada-epar-product-information_en.pdf
 version: success
-processing_time: 25.4991847
-conversion_datetime: 2026-02-25 11:39:02.52972
+processing_time: 25.0013122
+conversion_datetime: 2026-04-01 12:25:26.524641
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -79,7 +79,7 @@ Caution is required in patients with severe renal impairment as apalutamide has 
 
 No dose adjustment is necessary for patients with baseline mild or moderate hepatic impairment (Child-Pugh Class A and B, respectively).
 
-Erleada is not recommended in patients with severe hepatic impairment as there are no data in this patient population and apalutamide is primarily hepatically eliminated (see section 5.2).
+For patients with severe hepatic impairment (Child-Pugh Class C), the recommended dose is 120 mg (two 60 mg tablets) administered orally once daily (see section 5.2).
 
 ## Paediatric population
 
@@ -212,9 +212,9 @@ Apalutamide was shown to be a weak inducer of P-glycoprotein (P-gp), breast canc
 
 Based on in vitro data, inhibition of organic cation transporter 2 (OCT2), organic anion transporter 3 (OAT3) and multidrug and toxin extrusions (MATEs) by apalutamide and its N-desmethyl metabolite cannot be excluded. No in vitro inhibition of organic anion transporter 1 (OAT1) was observed.
 
-## GnRH Analog
+## GnRH Analogue
 
-In mHSPC subjects receiving leuprolide acetate (a GnRH analog), co-administration with apalutamide had no apparent effect on the steady-state exposure of leuprolide.
+In mHSPC subjects receiving leuprolide acetate (a GnRH analogue), co-administration with apalutamide had no apparent effect on the steady-state exposure of leuprolide.
 
 ## Medicinal products which prolong the QT interval
 
@@ -293,9 +293,7 @@ Table 1: Adverse reactions
 d Includes angina pectoris, angina unstable, myocardial infarction, acute myocardial infarction, coronary artery occlusion, coronary artery stenosis, acute coronary syndrome, arteriosclerosis coronary artery, cardiac stress test abnormal, troponin increased, myocardial ischaemia
 
 - e See section 4.4
-
-f See 'Skin rash' under 'Description of selected adverse reactions'
-
+- f See 'Skin rash' under 'Description of selected adverse reactions'
 - g Includes rib fracture, lumbar vertebral fracture, spinal compression fracture, spinal fracture, foot fracture, hip fracture, humerus fracture, thoracic vertebral fracture, upper limb fracture, fractured sacrum, hand fracture, pubis fracture, acetabulum fracture, ankle fracture, compression fracture, costal cartilage fracture, facial bones fracture, lower limb fracture, osteoporotic fracture, wrist fracture, avulsion fracture, fibula fracture, fractured coccyx, pelvic fracture, radius fracture, sternal fracture, stress fracture, traumatic fracture, cervical vertebral fracture, femoral neck fracture, tibia fracture. See below.
 
 ## Description of selected adverse reactions
@@ -346,9 +344,9 @@ Apalutamide is an orally administered, selective Androgen Receptor (AR) inhibito
 
 ## Prostate Specific Antigen (PSA) reduction
 
-Apalutamide 240 mg daily in combination with ADT in patients with mHSPC (in TITAN study) reduced PSA to undetectable levels (&lt;0.2 ng/mL) at any time in 68% of patients compared to 32% of patients taking ADT alone. Median time to undetectable PSA for patients receiving apalutamide in combination with ADT was 1.9 months. Apalutamide in combination with ADT led to a  ≥ 50% PSA reduction from baseline at any time in 90% of patients compared to 55% of patients taking ADT alone.
+Apalutamide 240 mg daily in combination with ADT in patients with mHSPC (in TITAN study) reduced PSA to undetectable levels (&lt;0.2 ng/mL) at any time in 68% of patients compared to 32% of patients taking ADT alone. Median time to undetectable PSA for patients receiving apalutamide in combination with ADT was 1.9 months. Apalutamide in combination with ADT led to a ≥ 50% PSA reduction from baseline at any time in 90% of patients compared to 55% of patients taking ADT alone.
 
-Apalutamide 240 mg daily in combination with ADT in patients with nmCRPC (in SPARTAN study) reduced PSA to undetectable levels (&lt;0.2 ng/mL) at any time in 38% of patients compared to no patients (0%) taking ADT alone. Median time to undetectable PSA for patients receiving apalutamide in combination with ADT was 2.8 months. Apalutamide in combination with ADT led to a  ≥ 50% PSA reduction from baseline at any time in 90% of patients compared to 2.2% of patients taking ADT alone.
+Apalutamide 240 mg daily in combination with ADT in patients with nmCRPC (in SPARTAN study) reduced PSA to undetectable levels (&lt;0.2 ng/mL) at any time in 38% of patients compared to no patients (0%) taking ADT alone. Median time to undetectable PSA for patients receiving apalutamide in combination with ADT was 2.8 months. Apalutamide in combination with ADT led to a ≥ 50% PSA reduction from baseline at any time in 90% of patients compared to 2.2% of patients taking ADT alone.
 
 ## Cardiac electrophysiology
 
@@ -360,7 +358,7 @@ The efficacy and safety of apalutamide has been established in two Phase 3 rando
 
 ## TITAN: Metastatic Hormone-sensitive Prostate Cancer (mHSPC)
 
-TITAN was a randomised, double-blind, placebo-controlled, multinational, multicentre clinical study in which 1052 patients with mHSPC were randomised (1:1) to receive either apalutamide orally at a dose of 240 mg once daily (N = 525) or placebo once daily (N = 527). All patients were required to have at least one bone metastasis on Technetium 99m bone scan. Patients were excluded if the site of metastases was limited to either the lymph nodes or viscera (e.g., liver or lung). All patients in the TITAN study received concomitant GnRH analog or had prior bilateral orchiectomy. Around 11% of patients received prior treatment with docetaxel (maximum of 6 cycles, last dose ≤ 2 months prior to randomisation and maintained response prior to randomisation). The exclusion criteria included known brain metastases; prior treatment with other next generation anti-androgens (eg, enzalutamide), CYP17 inhibitors (eg, abiraterone acetate), immunotherapy (eg, sipuleucel-T), radiopharmaceutical
+TITAN was a randomised, double-blind, placebo-controlled, multinational, multicentre clinical study in which 1052 patients with mHSPC were randomised (1:1) to receive either apalutamide orally at a dose of 240 mg once daily (N = 525) or placebo once daily (N = 527). All patients were required to have at least one bone metastasis on Technetium 99m bone scan. Patients were excluded if the site of metastases was limited to either the lymph nodes or viscera (e.g., liver or lung). All patients in the TITAN study received concomitant GnRH analogue or had prior bilateral orchiectomy. Around 11% of patients received prior treatment with docetaxel (maximum of 6 cycles, last dose ≤ 2 months prior to randomisation and maintained response prior to randomisation). The exclusion criteria included known brain metastases; prior treatment with other next generation anti-androgens (eg, enzalutamide), CYP17 inhibitors (eg, abiraterone acetate), immunotherapy (eg, sipuleucel-T), radiopharmaceutical
 
 <div style=\"page-break-after: always\"></div>
 
@@ -504,11 +502,15 @@ A dedicated renal impairment study for apalutamide has not been conducted. Based
 
 ## Hepatic impairment
 
-A dedicated hepatic impairment study compared the systemic exposure of apalutamide and N- desmethyl apalutamide in subjects with baseline mild hepatic impairment (N=8, Child-Pugh Class A, mean score = 5.3) or moderate hepatic impairment (N=8, Child-Pugh Class B, mean score = 7.6) versus healthy controls with normal hepatic function (N=8). Following a single oral 240 mg dose of apalutamide, the geometric mean ratio (GMR) for AUC and Cmax for apalutamide in subjects with mild impairment was 95% and 102%, respectively, and the GMR for AUC and Cmax of apalutamide in subjects with moderate impairment was 113% and 104%, respectively, compared to healthy control subjects. Clinical and pharmacokinetic data for apalutamide are not available for patients with severe hepatic impairment (Child-Pugh Class C).
+A dedicated hepatic impairment study compared the systemic exposure of apalutamide and N-desmethyl apalutamide in subjects with baseline mild hepatic impairment (N=8, Child-Pugh Class A, mean score = 5.3) or moderate hepatic impairment (N=8, Child-Pugh Class B, mean score = 7.6) versus healthy controls with normal hepatic function (N=8). Following a single oral 240 mg dose of apalutamide, the geometric mean ratio (GMR) for AUC and Cmax for apalutamide in subjects with mild impairment was 95% and 102%, respectively, and the GMR for AUC and Cmax of apalutamide in subjects with moderate impairment was 113% and 104%, respectively, compared to healthy control subjects.
+
+Another dedicated hepatic impairment study compared the systemic exposure of apalutamide and N-desmethyl apalutamide in subjects with baseline severe hepatic impairment (N=10, Child-Pugh Class C, mean score = 10.9) versus healthy controls with normal hepatic function (N=8). Following a single oral dose of 120 mg or 240 mg of apalutamide for severe hepatic impairment or normal hepatic function, respectively, the dose-normalised geometric mean ratio (GMR) for AUC and Cmax for unbound apalutamide in subjects with severe impairment was 206% and 156%, respectively (see section 4.2).
 
 ## Ethnicity and race
 
 Based on population pharmacokinetic analysis, there were no clinically relevant differences in apalutamide pharmacokinetics between White (Caucasian or Hispanic or Latino; N=761), Black (of African heritage or African American; N=71), Asian (non-Japanese; N=58) and Japanese (N=58).
+
+<div style=\"page-break-after: always\"></div>
 
 Age
 
@@ -516,11 +518,7 @@ Population pharmacokinetic analyses showed that age (range: 18 to 94 years) does
 
 ## 5.3 Preclinical safety data
 
-Apalutamide was negative for genotoxicity in a standard battery of in vitro and in vivo tests.
-
-<div style=\"page-break-after: always\"></div>
-
-Apalutamide was not carcinogenic in a 6-month study in the male transgenic (Tg.rasH2) mouse at doses up to 30 mg/kg per day, which is 1.2 and 0.5 times for apalutamide and N-desmethyl apalutamide respectively, the clinical exposure (AUC) at the recommended clinical dose of 240 mg/day.
+Apalutamide was negative for genotoxicity in a standard battery of in vitro and in vivo tests. Apalutamide was not carcinogenic in a 6-month study in the male transgenic (Tg.rasH2) mouse at doses up to 30 mg/kg per day, which is 1.2 and 0.5 times for apalutamide and N-desmethyl apalutamide respectively, the clinical exposure (AUC) at the recommended clinical dose of 240 mg/day.
 
 In a 2-year carcinogenicity study in male Sprague-Dawley rats, apalutamide was administered by oral gavage at doses of 5, 15 and 50 mg/kg/day (0.2, 0.7, and 2.5 times the AUC in patients (human exposure at recommended dose of 240 mg), respectively). Neoplastic findings were noted including an increased incidence of testicular Leydig cell adenoma and carcinoma at doses greater than or equal to 5 mg/kg/day, mammary adenocarcinoma and fibroadenoma at 15 mg/kg/day or 50 mg/kg/day, and thyroid follicular cell adenoma at 50 mg/kg/day. These findings were considered rat-specific and therefore of limited relevance to humans.
 
@@ -528,7 +526,7 @@ Male fertility is likely to be impaired by treatment with apalutamide based on f
 
 In a fertility study in male rats, a decrease in sperm concentration and motility, copulation and fertility rates (upon pairing with untreated females) along with reduced weights of the secondary sex glands and epididymis were observed following 4 weeks of dosing at doses corresponding to exposures approximately equal to the human exposure based on AUC. Effects on male rats were reversible after 8 weeks from the last apalutamide administration.
 
-In a preliminary embryofetal developmental toxicity study in rats, apalutamide caused developmental toxicity when administered at oral doses of 25, 50 or 100 mg/kg/day throughout the period of organogenesis (gestational days 6-20). These doses resulted in systemic exposures approximately 2, 4 and 6 times, respectively, on an AUC basis, the exposure in humans at the dose of 240 mg/day. Findings included non-pregnant females at 100 mg/kg/day and embryofetal lethality (resorptions) at doses ≥ 50 mg/kg/day, decreased fetal anogenital distance and a misshapen pituitary gland (more rounded shape) at ≥ 25 mg/kg/day. Skeletal variations (unossified phalanges, supernumerary short thoracolumbar rib(s) and/or abnormalities of the hyoid) were also noted at doses ≥ 25 mg/kg/day, without resulting in an effect on mean fetal weight.
+In a preliminary embryofoetal developmental toxicity study in rats, apalutamide caused developmental toxicity when administered at oral doses of 25, 50 or 100 mg/kg/day throughout the period of organogenesis (gestational days 6-20). These doses resulted in systemic exposures approximately 2, 4 and 6 times, respectively, on an AUC basis, the exposure in humans at the dose of 240 mg/day. Findings included non-pregnant females at 100 mg/kg/day and embryofoetal lethality (resorptions) at doses ≥ 50 mg/kg/day, decreased foetal anogenital distance and a misshapen pituitary gland (more rounded shape) at ≥ 25 mg/kg/day. Skeletal variations (unossified phalanges, supernumerary short thoracolumbar rib(s) and/or abnormalities of the hyoid) were also noted at doses ≥ 25 mg/kg/day, without resulting in an effect on mean foetal weight.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -538,11 +536,11 @@ In a preliminary embryofetal developmental toxicity study in rats, apalutamide c
 
 Colloidal anhydrous silica Croscarmellose sodium Hypromellose acetate succinate Magnesium stearate Microcrystalline cellulose Microcrystalline cellulose (silicified)
 
+<div style=\"page-break-after: always\"></div>
+
 ## Film-coating
 
 Iron oxide black (E172) Iron oxide yellow (E172) Macrogol Polyvinyl alcohol (partially hydrolysed) Talc Titanium dioxide (E171)
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.2 Incompatibilities
 
@@ -577,19 +575,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Janssen-Cilag International NV
 
-Turnhoutseweg 30
-
-B-2340 Beerse
-
-Belgium
+Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/18/1342/001
+EU/1/18/1342/001 EU/1/18/1342/002 EU/1/18/1342/003
 
-EU/1/18/1342/002
-
-EU/1/18/1342/003
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -597,13 +589,13 @@ Date of first authorisation: 14 January 2019
 
 Date of latest renewal: 22 September 2023
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
 
-20
-
-<div style=\"page-break-after: always\"></div>
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+21
 
 <div style=\"page-break-after: always\"></div>
 
@@ -664,7 +656,7 @@ Caution is required in patients with severe renal impairment as apalutamide has 
 
 No dose adjustment is necessary for patients with baseline mild or moderate hepatic impairment (Child-Pugh Class A and B, respectively).
 
-Erleada is not recommended in patients with severe hepatic impairment as there are no data in this patient population and apalutamide is primarily hepatically eliminated (see section 5.2).
+For patients with severe hepatic impairment (Child-Pugh Class C), the recommended dose is 120 mg (two 60 mg tablets) administered orally once daily (see section 5.2).
 
 ## Paediatric population
 
@@ -797,9 +789,9 @@ Apalutamide was shown to be a weak inducer of P-glycoprotein (P-gp), breast canc
 
 Based on in vitro data, inhibition of organic cation transporter 2 (OCT2), organic anion transporter 3 (OAT3) and multidrug and toxin extrusions (MATEs) by apalutamide and its N-desmethyl metabolite cannot be excluded. No in vitro inhibition of organic anion transporter 1 (OAT1) was observed.
 
-## GnRH Analog
+## GnRH Analogue
 
-In mHSPC subjects receiving leuprolide acetate (a GnRH analog), co-administration with apalutamide had no apparent effect on the steady-state exposure of leuprolide.
+In mHSPC subjects receiving leuprolide acetate (a GnRH analogue), co-administration with apalutamide had no apparent effect on the steady-state exposure of leuprolide.
 
 ## Medicinal products which prolong the QT interval
 
@@ -927,13 +919,13 @@ Apalutamide is an orally administered, selective Androgen Receptor (AR) inhibito
 
 ## Prostate Specific Antigen (PSA) reduction
 
-Apalutamide 240 mg daily in combination with ADT in patients with mHSPC (in TITAN study) reduced PSA to undetectable levels (&lt;0.2 ng/mL) at any time in 68% of patients compared to 32% of patients taking ADT alone. Median time to undetectable PSA for patients receiving apalutamide in combination with ADT was 1.9 months. Apalutamide in combination with ADT led to a  ≥ 50% PSA reduction from baseline at any time in 90% of patients compared to 55% of patients taking ADT alone.
+Apalutamide 240 mg daily in combination with ADT in patients with mHSPC (in TITAN study) reduced PSA to undetectable levels (&lt;0.2 ng/mL) at any time in 68% of patients compared to 32% of patients taking ADT alone. Median time to undetectable PSA for patients receiving apalutamide in combination with ADT was 1.9 months. Apalutamide in combination with ADT led to a ≥ 50% PSA reduction from baseline at any time in 90% of patients compared to 55% of patients taking ADT alone.
 
 Apalutamide 240 mg daily in combination with ADT in patients with nmCRPC (in SPARTAN study) reduced PSA to undetectable levels (&lt;0.2 ng/mL) at any time in 38% of patients compared to no
 
 <div style=\"page-break-after: always\"></div>
 
-patients (0%) taking ADT alone. Median time to undetectable PSA for patients receiving apalutamide in combination with ADT was 2.8 months. Apalutamide in combination with ADT led to a  ≥ 50% PSA reduction from baseline at any time in 90% of patients compared to 2.2% of patients taking ADT alone.
+patients (0%) taking ADT alone. Median time to undetectable PSA for patients receiving apalutamide in combination with ADT was 2.8 months. Apalutamide in combination with ADT led to a ≥ 50% PSA reduction from baseline at any time in 90% of patients compared to 2.2% of patients taking ADT alone.
 
 ## Cardiac electrophysiology
 
@@ -945,7 +937,7 @@ The efficacy and safety of apalutamide has been established in two Phase 3 rando
 
 ## TITAN: Metastatic Hormone-sensitive Prostate Cancer (mHSPC)
 
-TITAN was a randomised, double-blind, placebo-controlled, multinational, multicentre clinical study in which 1052 patients with mHSPC were randomised (1:1) to receive either apalutamide orally at a dose of 240 mg once daily (N = 525) or placebo once daily (N = 527). All patients were required to have at least one bone metastasis on Technetium 99m bone scan. Patients were excluded if the site of metastases was limited to either the lymph nodes or viscera (e.g., liver or lung). All patients in the TITAN study received concomitant GnRH analog or had prior bilateral orchiectomy. Around 11% of patients received prior treatment with docetaxel (maximum of 6 cycles, last dose ≤ 2 months prior to randomisation and maintained response prior to randomisation). The exclusion criteria included known brain metastases; prior treatment with other next generation anti-androgens (eg, enzalutamide), CYP17 inhibitors (eg, abiraterone acetate), immunotherapy (eg, sipuleucel-T), radiopharmaceutical agents or other treatments for prostate cancer; or history of seizure or condition that may predispose to seizure. Patients were stratified by Gleason score at diagnosis, prior docetaxel use, and region of the world. Patients with both high- and low-volume mHSPC were eligible for the study. High-volume disease was defined as either visceral metastases and at least 1 bone lesion or at least 4 bone lesions, with at least 1 bone lesion outside of the vertebral column or pelvis. Low-volume disease was defined as the presence of bone lesion(s) not meeting the definition of high-volume.
+TITAN was a randomised, double-blind, placebo-controlled, multinational, multicentre clinical study in which 1052 patients with mHSPC were randomised (1:1) to receive either apalutamide orally at a dose of 240 mg once daily (N = 525) or placebo once daily (N = 527). All patients were required to have at least one bone metastasis on Technetium 99m bone scan. Patients were excluded if the site of metastases was limited to either the lymph nodes or viscera (e.g., liver or lung). All patients in the TITAN study received concomitant GnRH analogue or had prior bilateral orchiectomy. Around 11% of patients received prior treatment with docetaxel (maximum of 6 cycles, last dose ≤ 2 months prior to randomisation and maintained response prior to randomisation). The exclusion criteria included known brain metastases; prior treatment with other next generation anti-androgens (eg, enzalutamide), CYP17 inhibitors (eg, abiraterone acetate), immunotherapy (eg, sipuleucel-T), radiopharmaceutical agents or other treatments for prostate cancer; or history of seizure or condition that may predispose to seizure. Patients were stratified by Gleason score at diagnosis, prior docetaxel use, and region of the world. Patients with both high- and low-volume mHSPC were eligible for the study. High-volume disease was defined as either visceral metastases and at least 1 bone lesion or at least 4 bone lesions, with at least 1 bone lesion outside of the vertebral column or pelvis. Low-volume disease was defined as the presence of bone lesion(s) not meeting the definition of high-volume.
 
 The following patient demographics and baseline disease characteristics were balanced between the treatment arms. The median age was 68 years (range 43-94) and 23% of patients were 75 years of age or older. The racial distribution was 68% Caucasian, 22% Asian, and 2% Black. Sixty-three percent (63%) of patients had high-volume disease and 37% had low-volume disease. Sixteen percent (16%) of patients had prior surgery, radiotherapy of the prostate or both. A majority of patients had a Gleason score of 7 or higher (92%). Sixty-eight percent (68%) of patients received prior treatment with a first-generation anti-androgen in the non-metastatic setting. Although criteria for castration resistance were not determined at baseline, 94% of patients demonstrated a decrease in prostate specific antigen (PSA) from initiation of androgen deprivation therapy (ADT) to first dose of apalutamide or placebo. All patients except one in the placebo group, had an Eastern Cooperative Oncology Group Performance Status (ECOG PS) score of 0 or 1 at study entry. Among the patients who discontinued study treatment (N = 271 for placebo and N = 170 for Erleada), the most common reason for discontinuation in both arms was disease progression. A greater proportion (73%) of patients treated with placebo received subsequent anti-cancer therapy compared to patients treated with Erleada (54%).
 
@@ -1085,11 +1077,15 @@ A dedicated renal impairment study for apalutamide has not been conducted. Based
 
 ## Hepatic impairment
 
-A dedicated hepatic impairment study compared the systemic exposure of apalutamide and N- desmethyl apalutamide in subjects with baseline mild hepatic impairment (N=8, Child-Pugh Class A, mean score = 5.3) or moderate hepatic impairment (N=8, Child-Pugh Class B, mean score = 7.6) versus healthy controls with normal hepatic function (N=8). Following a single oral 240 mg dose of apalutamide, the geometric mean ratio (GMR) for AUC and Cmax for apalutamide in subjects with mild impairment was 95% and 102%, respectively, and the GMR for AUC and Cmax of apalutamide in subjects with moderate impairment was 113% and 104%, respectively, compared to healthy control subjects. Clinical and pharmacokinetic data for apalutamide are not available for patients with severe hepatic impairment (Child-Pugh Class C).
+A dedicated hepatic impairment study compared the systemic exposure of apalutamide and N-desmethyl apalutamide in subjects with baseline mild hepatic impairment (N=8, Child-Pugh Class A, mean score = 5.3) or moderate hepatic impairment (N=8, Child-Pugh Class B, mean score = 7.6) versus healthy controls with normal hepatic function (N=8). Following a single oral 240 mg dose of apalutamide, the geometric mean ratio (GMR) for AUC and Cmax for apalutamide in subjects with mild impairment was 95% and 102%, respectively, and the GMR for AUC and Cmax of apalutamide in subjects with moderate impairment was 113% and 104%, respectively, compared to healthy control subjects.
+
+Another dedicated hepatic impairment study compared the systemic exposure of apalutamide and N-desmethyl apalutamide in subjects with baseline severe hepatic impairment (N=10, Child-Pugh Class C, mean score = 10.9) versus healthy controls with normal hepatic function (N=8). Following a single oral dose of 120 mg or 240 mg of apalutamide for severe hepatic impairment or normal hepatic function, respectively, the dose-normalised geometric mean ratio (GMR) for AUC and Cmax for unbound apalutamide in subjects with severe impairment was 206% and 156%, respectively (see section 4.2).
 
 ## Ethnicity and race
 
 Based on population pharmacokinetic analysis, there were no clinically relevant differences in apalutamide pharmacokinetics between White (Caucasian or Hispanic or Latino; N=761), Black (of African heritage or African American; N=71), Asian (non-Japanese; N=58) and Japanese (N=58).
+
+<div style=\"page-break-after: always\"></div>
 
 Age
 
@@ -1097,11 +1093,7 @@ Population pharmacokinetic analyses showed that age (range: 18 to 94 years) does
 
 ## 5.3 Preclinical safety data
 
-Apalutamide was negative for genotoxicity in a standard battery of in vitro and in vivo tests.
-
-<div style=\"page-break-after: always\"></div>
-
-Apalutamide was not carcinogenic in a 6-month study in the male transgenic (Tg.rasH2) mouse at doses up to 30 mg/kg per day, which is 1.2 and 0.5 times for apalutamide and N-desmethyl apalutamide respectively, the clinical exposure (AUC) at the recommended clinical dose of 240 mg/day.
+Apalutamide was negative for genotoxicity in a standard battery of in vitro and in vivo tests. Apalutamide was not carcinogenic in a 6-month study in the male transgenic (Tg.rasH2) mouse at doses up to 30 mg/kg per day, which is 1.2 and 0.5 times for apalutamide and N-desmethyl apalutamide respectively, the clinical exposure (AUC) at the recommended clinical dose of 240 mg/day.
 
 In a 2-year carcinogenicity study in male Sprague-Dawley rats, apalutamide was administered by oral gavage at doses of 5, 15 and 50 mg/kg/day (0.2, 0.7, and 2.5 times the AUC in patients (human exposure at recommended dose of 240 mg), respectively). Neoplastic findings were noted including an increased incidence of testicular Leydig cell adenoma and carcinoma at doses greater than or equal to 5 mg/kg/day, mammary adenocarcinoma and fibroadenoma at 15 mg/kg/day or 50 mg/kg/day, and thyroid follicular cell adenoma at 50 mg/kg/day. These findings were considered rat-specific and therefore of limited relevance to humans.
 
@@ -1109,7 +1101,7 @@ Male fertility is likely to be impaired by treatment with apalutamide based on f
 
 In a fertility study in male rats, a decrease in sperm concentration and motility, copulation and fertility rates (upon pairing with untreated females) along with reduced weights of the secondary sex glands and epididymis were observed following 4 weeks of dosing at doses corresponding to exposures approximately equal to the human exposure based on AUC. Effects on male rats were reversible after 8 weeks from the last apalutamide administration.
 
-In a preliminary embryofetal developmental toxicity study in rats, apalutamide caused developmental toxicity when administered at oral doses of 25, 50 or 100 mg/kg/day throughout the period of organogenesis (gestational days 6-20). These doses resulted in systemic exposures approximately 2, 4 and 6 times, respectively, on an AUC basis, the exposure in humans at the dose of 240 mg/day. Findings included non-pregnant females at 100 mg/kg/day and embryofetal lethality (resorptions) at doses ≥ 50 mg/kg/day, decreased fetal anogenital distance and a misshapen pituitary gland (more rounded shape) at ≥ 25 mg/kg/day. Skeletal variations (unossified phalanges, supernumerary short thoracolumbar rib(s) and/or abnormalities of the hyoid) were also noted at doses ≥ 25 mg/kg/day, without resulting in an effect on mean fetal weight.
+In a preliminary embryofoetal developmental toxicity study in rats, apalutamide caused developmental toxicity when administered at oral doses of 25, 50 or 100 mg/kg/day throughout the period of organogenesis (gestational days 6-20). These doses resulted in systemic exposures approximately 2, 4 and 6 times, respectively, on an AUC basis, the exposure in humans at the dose of 240 mg/day. Findings included non-pregnant females at 100 mg/kg/day and embryofoetal lethality (resorptions) at doses ≥ 50 mg/kg/day, decreased foetal anogenital distance and a misshapen pituitary gland (more rounded shape) at ≥ 25 mg/kg/day. Skeletal variations (unossified phalanges, supernumerary short thoracolumbar rib(s) and/or abnormalities of the hyoid) were also noted at doses ≥ 25 mg/kg/day, without resulting in an effect on mean foetal weight.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1119,11 +1111,11 @@ In a preliminary embryofetal developmental toxicity study in rats, apalutamide c
 
 Colloidal anhydrous silica Croscarmellose sodium Hypromellose acetate succinate Magnesium stearate Microcrystalline cellulose (silicified)
 
-## Film-coating
+<div style=\"page-break-after: always\"></div>
+
+Film-coating
 
 Glycerol monocaprylocaprate Iron oxide black (E172) Poly (vinyl alcohol) Talc Titanium dioxide (E171) Macrogol poly (vinyl alcohol) grafted copolymer
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.2 Incompatibilities
 
@@ -1161,21 +1153,27 @@ Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/18/1342/004
+EU/1/18/1342/004 EU/1/18/1342/005 EU/1/18/1342/006
 
-EU/1/18/1342/005 EU/1/18/1342/006 EU/1/18/1342/007
+<div style=\"page-break-after: always\"></div>
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+EU/1/18/1342/007
+
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 14 January 2019
 
 Date of latest renewal: 22 September 2023
 
-<div style=\"page-break-after: always\"></div>
+10.
 
-## 10. DATE OF REVISION OF THE TEXT
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+41
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1509,7 +1507,7 @@ EXP
 
 Store in the original package in order to protect from moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Discard unused contents appropriately in accordance with local requirements.
 
@@ -1575,7 +1573,9 @@ Each film-coated tablet contains 60 mg apalutamide.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Swallow the tablets whole. Read the package leaflet before use. Oral use.
+Read the package leaflet before use.
+
+Swallow the tablets whole. Oral use.
 
 - (1) Press and hold
 
@@ -1755,6 +1755,10 @@ Wednesday Thursday Friday Saturday Sunday
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
+<!-- image -->
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 INNER WALLET 60 mg (30 days)
@@ -1776,10 +1780,6 @@ EXP
 Lot
 
 ## 5. OTHER
-
-<!-- image -->
-
-<!-- image -->
 
 Fold over to close
 
@@ -2448,11 +2448,6 @@ Lot
 
 5. OTHER
 
-<div style=\"page-break-after: always\"></div>
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 BLISTER 240 mg (10 count) (Blister sealed in inner wallet)
@@ -2469,11 +2464,13 @@ Janssen-Cilag International NV
 
 EXP
 
-## 4. BATCH NUMBER
+4. BATCH NUMBER
 
 Lot
 
 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2650,6 +2647,10 @@ Your doctor may also prescribe other medicines while you are taking Erleada.
 
 The recommended dose of this medicine is 240 mg (four 60 mg tablets) once a day.
 
+## Severe liver disease
+
+If you have severe liver disease, the recommended dose of this medicine is 120 mg (two 60 mg tablets) once a day.
+
 ## Taking Erleada
 
 -  Take this medicine by mouth.
@@ -2684,9 +2685,9 @@ If you take more than you should, stop taking this medicine and contact your doc
 
 Do not stop taking this medicine without checking with your doctor first.
 
-If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
-
 <div style=\"page-break-after: always\"></div>
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
 ## 4. Possible side effects
 
@@ -2705,7 +2706,7 @@ Very common : may affect more than 1 in 10 people
 
 -  falls or fractures (broken bones). Your healthcare provider may monitor you more closely if you are at risk for fractures.
 
-Common : may affect up to 1 in 10 people
+## Common : may affect up to 1 in 10 people
 
 -  heart disease, stroke, or mini-stroke. Your healthcare provider will monitor you for signs and symptoms of heart or brain problems during your treatment. Call your healthcare provider or go to the nearest emergency room right away if you get chest pain or discomfort at rest or with activity, or shortness of breath, or if you get muscle weakness/paralysis in any part of the body, or difficulty in speaking during your treatment with Erleada.
 
@@ -2735,14 +2736,14 @@ Very common (may affect more than 1 in 10 people):
 -  diarrhoea
 -  broken bones
 -  falls
+
+<div style=\"page-break-after: always\"></div>
+
 -  weight loss.
 
 Common (may affect up to 1 in 10 people):
 
 -  muscle spasms
-
-<div style=\"page-break-after: always\"></div>
-
 -  itching
 -  hair loss
 -  change in sense of taste
@@ -2753,7 +2754,7 @@ Common (may affect up to 1 in 10 people):
 -  under-active thyroid which can make you feel more tired and have difficulty getting started in the morning, and blood tests may also show an under-active thyroid
 -  low level of a type of white blood cell which can make you more likely to get infections (neutropenia).
 
-## Uncommon (may affect up to 1 in 100 people):
+Uncommon (may affect up to 1 in 100 people):
 
 -  seizures/fits
 -  eruption of the skin or mucous membranes (lichenoid eruption).
@@ -2781,16 +2782,14 @@ Store in the original package in order to protect from moisture. This medicine d
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. Contents of the pack and other information
 
 ## What Erleada contains
 
 -  The active substance is apalutamide. Each film-coated tablet contains 60 mg of apalutamide.
--  The other ingredients of the tablet core are colloidal anhydrous silica, croscarmellose sodium, hypromellose acetate succinate, magnesium stearate, microcrystalline cellulose, and silicified
-
-<div style=\"page-break-after: always\"></div>
-
-microcrystalline cellulose. The film-coating contains iron oxide black (E172), iron oxide yellow (E172), macrogol, polyvinyl alcohol (partially hydrolysed), talc, and titanium dioxide (E171) (see Section 2, Erleada contains sodium).
+-  The other ingredients of the tablet core are colloidal anhydrous silica, croscarmellose sodium, hypromellose acetate succinate, magnesium stearate, microcrystalline cellulose, and silicified microcrystalline cellulose. The film-coating contains iron oxide black (E172), iron oxide yellow (E172), macrogol, polyvinyl alcohol (partially hydrolysed), talc, and titanium dioxide (E171) (see Section 2, Erleada contains sodium).
 
 ## What Erleada looks like and contents of the pack
 
@@ -2844,14 +2843,6 @@ Janssen-Cilag s.r.o.
 
 Tel: +420 227 012 227
 
-Magyarország
-
-Janssen-Cilag Kft. Tel.: +36 1 884 2858
-
-janssenhu@its.jnj.com
-
-<div style=\"page-break-after: always\"></div>
-
 ## Danmark
 
 Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
@@ -2870,7 +2861,9 @@ Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ
 
 ## España
 
-Janssen-Cilag, S.A. Tel: +34 91 722 81 00
+Janssen-Cilag, S.A.
+
+Tel: +34 91 722 81 00
 
 contacto@its.jnj.com
 
@@ -2878,7 +2871,7 @@ contacto@its.jnj.com
 
 Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
 
-## Hrvatska
+Hrvatska
 
 Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
 
@@ -2892,11 +2885,19 @@ Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Italia
 
-Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
+Janssen-Cilag SpA
 
-## Κύπρος
+Tel: 800.688.777 / +39 02 2510 1
 
-Βαρνάβας Χατζηπαναγής Λτδ Τηλ: +357 22 207 700
+janssenita@its.jnj.com
+
+<div style=\"page-break-after: always\"></div>
+
+## Magyarország
+
+Janssen-Cilag Kft. Tel.: +36 1 884 2858
+
+janssenhu@its.jnj.com
 
 ## Malta
 
@@ -2926,7 +2927,9 @@ Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
 
 ## România
 
-Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
+Johnson &amp; Johnson România SRL
+
+Tel: +40 21 207 1800
 
 ## Slovenija
 
@@ -2938,15 +2941,19 @@ Johnson &amp; Johnson, s.r.o. Tel: +421 232 408 400
 
 ## Suomi/Finland
 
-Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
+Puh/Tel: +358 207 531 300
 
-## Sverige
-
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
+Janssen-Cilag Oy jacfi@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
 
-## Latvija
+## Κύπρος
+
+Βαρνάβας Χατζηπαναγής Λτδ
+
+Τηλ: +357 22 207 700
+
+Latvija
 
 UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
 
@@ -2963,6 +2970,8 @@ Detailed information on this medicine is available on the European Medicines Age
 To get the most up-to-date package leaflet, scan the QR code here or on the carton. The same information is also available on the following URL: https://epi.jnj.
 
 <!-- image -->
+
+Sverige Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3135,6 +3144,10 @@ Your doctor may also prescribe other medicines while you are taking Erleada.
 
 The recommended dose of this medicine is 240 mg (one tablet) once a day.
 
+## Severe liver disease
+
+If you have severe liver disease, the recommended dose of this medicine is 120 mg (two 60 mg tablets) once a day.
+
 ## Taking Erleada
 
 -  Take this medicine by mouth.
@@ -3169,17 +3182,15 @@ If you take more than you should, stop taking this medicine and contact your doc
 
 Do not stop taking this medicine without checking with your doctor first.
 
-If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
-
 <div style=\"page-break-after: always\"></div>
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## Stop taking Erleada and seek medical attention immediately if you notice any of the following
-
-## Serious side effects symptoms:
+## Serious side effects Stop taking Erleada and seek medical attention immediately if you notice any of the following symptoms:
 
 -  widespread rash, high body temperature and enlarged lymph nodes (drug reaction with eosinophilia and systemic symptoms or DRESS)
 -  reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome, toxic epidermal necrolysis).
@@ -3189,12 +3200,11 @@ Tell your doctor straight away if you notice any of the following serious side e
 Very common : may affect more than 1 in 10 people
 
 -  falls or fractures (broken bones). Your healthcare provider may monitor you more closely if you are at risk for fractures.
-
-## Common : may affect up to 1 in 10 people
-
 -  heart disease, stroke, or mini-stroke. Your healthcare provider will monitor you for signs and symptoms of heart or brain problems during your treatment. Call your healthcare provider or go to the nearest emergency room right away if you get chest pain or discomfort at rest or with activity, or shortness of breath, or if you get muscle weakness/paralysis in any part of the body, or difficulty in speaking during your treatment with Erleada.
 
-## Uncommon : may affect up to 1 in 100 people
+Common : may affect up to 1 in 10 people
+
+Uncommon : may affect up to 1 in 100 people
 
 -  fit or seizure. Your healthcare provider will stop this medicine if you have a seizure during treatment.
 -  restless legs syndrome (urges to move the legs to stop painful or odd sensations, often occurring at night).
@@ -3222,12 +3232,11 @@ Very common (may affect more than 1 in 10 people):
 -  falls
 -  weight loss.
 
-Common (may affect up to 1 in 10 people):
-
--  muscle spasms
-
 <div style=\"page-break-after: always\"></div>
 
+## Common (may affect up to 1 in 10 people):
+
+-  muscle spasms
 -  itching
 -  hair loss
 -  change in sense of taste
@@ -3238,7 +3247,7 @@ Common (may affect up to 1 in 10 people):
 -  under-active thyroid which can make you feel more tired and have difficulty getting started in the morning, and blood tests may also show an under-active thyroid
 -  low level of a type of white blood cell which can make you more likely to get infections (neutropenia).
 
-Uncommon (may affect up to 1 in 100 people):
+## Uncommon (may affect up to 1 in 100 people):
 
 -  seizures/fits
 -  eruption of the skin or mucous membranes (lichenoid eruption).
@@ -3271,11 +3280,10 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Erleada contains
 
 -  The active substance is apalutamide. Each film-coated tablet contains 240 mg of apalutamide.
--  The other ingredients of the tablet core are colloidal anhydrous silica, croscarmellose sodium, hypromellose acetate succinate, magnesium stearate, and silicified microcrystalline cellulose.
 
 <div style=\"page-break-after: always\"></div>
 
-The film-coating contains glycerol monocaprylocaprate, iron oxide black (E172), poly (vinyl alcohol), talc, titanium dioxide (E171), and macrogol poly (vinyl alcohol) grafted copolymer (see section 2, Erleada contains sodium).
+-  The other ingredients of the tablet core are colloidal anhydrous silica, croscarmellose sodium, hypromellose acetate succinate, magnesium stearate, and silicified microcrystalline cellulose. The film-coating contains glycerol monocaprylocaprate, iron oxide black (E172), poly (vinyl alcohol), talc, titanium dioxide (E171), and macrogol poly (vinyl alcohol) grafted copolymer (see section 2, Erleada contains sodium).
 
 ## What Erleada looks like and contents of the pack
 
@@ -3317,7 +3325,9 @@ Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
 
 UAB \"JOHNSON &amp; JOHNSON\"
 
-Tel: +370 5 278 68 88 lt@its.jnj.com
+Tel: +370 5 278 68 88
+
+lt@its.jnj.com
 
 ## България
 
@@ -3332,14 +3342,6 @@ Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
 Janssen-Cilag s.r.o.
 
 Tel: +420 227 012 227
-
-## Magyarország
-
-Janssen-Cilag Kft. Tel.: +36 1 884 2858
-
-janssenhu@its.jnj.com
-
-<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
@@ -3359,7 +3361,9 @@ Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ
 
 ## España
 
-Janssen-Cilag, S.A. Tel: +34 91 722 81 00
+Janssen-Cilag, S.A.
+
+Tel: +34 91 722 81 00
 
 contacto@its.jnj.com
 
@@ -3381,11 +3385,17 @@ Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Italia
 
-Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
+Janssen-Cilag SpA
 
-## Κύπρος
+Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
 
-Βαρνάβας Χατζηπαναγής Λτδ Τηλ: +357 22 207 700
+<div style=\"page-break-after: always\"></div>
+
+## Magyarország
+
+Janssen-Cilag Kft. Tel.: +36 1 884 2858
+
+janssenhu@its.jnj.com
 
 ## Malta
 
@@ -3415,7 +3425,9 @@ Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
 
 ## România
 
-Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
+Johnson &amp; Johnson România SRL
+
+Tel: +40 21 207 1800
 
 ## Slovenija
 
@@ -3429,15 +3441,17 @@ Johnson &amp; Johnson, s.r.o. Tel: +421 232 408 400
 
 Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 
-## Sverige
-
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
-
 <div style=\"page-break-after: always\"></div>
+
+## Κύπρος
+
+Βαρνάβας Χατζηπαναγής Λτδ
+
+Τηλ: +357 22 207 700
 
 ## Latvija
 
-UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
+## UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
 
 Tel: +371 678 93561
 
@@ -3452,3 +3466,5 @@ Detailed information on this medicine is available on the European Medicines Age
 To get the most up-to-date package leaflet, scan the QR code here or on the carton. The same information is also available on the following URL: https://epi.jnj.
 
 <!-- image -->
+
+Sverige Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com

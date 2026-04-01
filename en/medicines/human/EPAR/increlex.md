@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 08:24:58
+document_datetime: 2026-03-30 15:54:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/increlex.html
 document_name: increlex.html
 version: success
-processing_time: 0.1159035
-conversion_datetime: 2025-12-31 01:57:35.992812
+processing_time: 0.0947394
+conversion_datetime: 2026-04-01 12:22:34.918058
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Increlex
 
 [RSS](/en/individual-human-medicine.xml/66804)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-mecasermin Medicine Human Authorised
+mecasermin
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -118,275 +118,141 @@ Increlex : EPAR - Summary for the public
 
 English (EN) (77.67 KB - PDF)
 
-**First published:** 02/09/2009
-
-**Last updated:** 27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/en/documents/overview/increlex-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-869)
+[Other languages (22)](#file-language-dropdown-837)
 
 български (BG) (113.13 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/bg/documents/overview/increlex-epar-summary-public_bg.pdf)
 
 español (ES) (84.12 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/es/documents/overview/increlex-epar-summary-public_es.pdf)
 
 čeština (CS) (105.93 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/cs/documents/overview/increlex-epar-summary-public_cs.pdf)
 
 dansk (DA) (82.58 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/da/documents/overview/increlex-epar-summary-public_da.pdf)
 
 Deutsch (DE) (85.09 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/de/documents/overview/increlex-epar-summary-public_de.pdf)
 
 eesti keel (ET) (81.02 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/et/documents/overview/increlex-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (109.37 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/el/documents/overview/increlex-epar-summary-public_el.pdf)
 
 français (FR) (84.51 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/fr/documents/overview/increlex-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (101.67 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/hr/documents/overview/increlex-epar-summary-public_hr.pdf)
 
 italiano (IT) (83.15 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/it/documents/overview/increlex-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (102.73 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/lv/documents/overview/increlex-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (103.23 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/lt/documents/overview/increlex-epar-summary-public_lt.pdf)
 
 magyar (HU) (101.07 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/hu/documents/overview/increlex-epar-summary-public_hu.pdf)
 
 Malti (MT) (106.28 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/mt/documents/overview/increlex-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (82.76 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/nl/documents/overview/increlex-epar-summary-public_nl.pdf)
 
 polski (PL) (105.24 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/pl/documents/overview/increlex-epar-summary-public_pl.pdf)
 
 português (PT) (83.8 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/pt/documents/overview/increlex-epar-summary-public_pt.pdf)
 
 română (RO) (101.98 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/ro/documents/overview/increlex-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (104.76 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/sk/documents/overview/increlex-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (100.25 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/sl/documents/overview/increlex-epar-summary-public_sl.pdf)
 
 Suomi (FI) (82 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/fi/documents/overview/increlex-epar-summary-public_fi.pdf)
 
 svenska (SV) (82.8 KB - PDF)
 
-**First published:**
-
-02/09/2009
-
-**Last updated:**
-
-27/07/2015
+**First published:** 02/09/2009 **Last updated:** 27/07/2015
 
 [View](/sv/documents/overview/increlex-epar-summary-public_sv.pdf)
 
@@ -394,9 +260,7 @@ Increlex : EPAR - Risk-management-plan summary
 
 English (EN) (186.84 KB - PDF)
 
-**First published:** 20/04/2020
-
-**Last updated:** 11/01/2022
+**First published:** 20/04/2020 **Last updated:** 11/01/2022
 
 [View](/en/documents/rmp-summary/increlex-epar-risk-management-plan-summary_en.pdf)
 
@@ -404,305 +268,161 @@ English (EN) (186.84 KB - PDF)
 
 Increlex : EPAR - Product Information
 
-English (EN) (505.94 KB - PDF)
+English (EN) (538.35 KB - PDF)
 
-**First published:** 05/08/2009
-
-**Last updated:** 06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/en/documents/product-information/increlex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-15)
+[Other languages (24)](#file-language-dropdown-574)
 
-български (BG) (650.16 KB - PDF)
+български (BG) (685.78 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/bg/documents/product-information/increlex-epar-product-information_bg.pdf)
 
-español (ES) (547.95 KB - PDF)
+español (ES) (534.71 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/es/documents/product-information/increlex-epar-product-information_es.pdf)
 
-čeština (CS) (724.49 KB - PDF)
+čeština (CS) (707.81 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/cs/documents/product-information/increlex-epar-product-information_cs.pdf)
 
-dansk (DA) (562.62 KB - PDF)
+dansk (DA) (548.79 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/da/documents/product-information/increlex-epar-product-information_da.pdf)
 
-Deutsch (DE) (519.53 KB - PDF)
+Deutsch (DE) (548.85 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/de/documents/product-information/increlex-epar-product-information_de.pdf)
 
-eesti keel (ET) (489.38 KB - PDF)
+eesti keel (ET) (548.37 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/et/documents/product-information/increlex-epar-product-information_et.pdf)
 
-ελληνικά (EL) (768.86 KB - PDF)
+ελληνικά (EL) (804.94 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/el/documents/product-information/increlex-epar-product-information_el.pdf)
 
-français (FR) (509.32 KB - PDF)
+français (FR) (539.84 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/fr/documents/product-information/increlex-epar-product-information_fr.pdf)
 
-hrvatski (HR) (727.95 KB - PDF)
+hrvatski (HR) (547.38 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/hr/documents/product-information/increlex-epar-product-information_hr.pdf)
 
-íslenska (IS) (515.3 KB - PDF)
+íslenska (IS) (545.03 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/is/documents/product-information/increlex-epar-product-information_is.pdf)
 
-italiano (IT) (640.2 KB - PDF)
+italiano (IT) (669.35 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/it/documents/product-information/increlex-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (625.7 KB - PDF)
+latviešu valoda (LV) (615.32 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/lv/documents/product-information/increlex-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (561.17 KB - PDF)
+lietuvių kalba (LT) (592.57 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/lt/documents/product-information/increlex-epar-product-information_lt.pdf)
 
-magyar (HU) (723.57 KB - PDF)
+magyar (HU) (751.13 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/hu/documents/product-information/increlex-epar-product-information_hu.pdf)
 
-Malti (MT) (681.71 KB - PDF)
+Malti (MT) (709.58 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/mt/documents/product-information/increlex-epar-product-information_mt.pdf)
 
-Nederlands (NL) (525.99 KB - PDF)
+Nederlands (NL) (556.29 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/nl/documents/product-information/increlex-epar-product-information_nl.pdf)
 
-norsk (NO) (487.72 KB - PDF)
+norsk (NO) (517.26 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/no/documents/product-information/increlex-epar-product-information_no.pdf)
 
-polski (PL) (695.01 KB - PDF)
+polski (PL) (718.03 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/pl/documents/product-information/increlex-epar-product-information_pl.pdf)
 
-português (PT) (524.6 KB - PDF)
+português (PT) (551.97 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/pt/documents/product-information/increlex-epar-product-information_pt.pdf)
 
-română (RO) (741.67 KB - PDF)
+română (RO) (770.31 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/ro/documents/product-information/increlex-epar-product-information_ro.pdf)
 
-slovenčina (SK) (641.6 KB - PDF)
+slovenčina (SK) (627.69 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/sk/documents/product-information/increlex-epar-product-information_sk.pdf)
 
-slovenščina (SL) (552.13 KB - PDF)
+slovenščina (SL) (580.98 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/sl/documents/product-information/increlex-epar-product-information_sl.pdf)
 
-Suomi (FI) (538.5 KB - PDF)
+Suomi (FI) (570.06 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/fi/documents/product-information/increlex-epar-product-information_fi.pdf)
 
-svenska (SV) (504.43 KB - PDF)
+svenska (SV) (534.92 KB - PDF)
 
-**First published:**
-
-05/08/2009
-
-**Last updated:**
-
-06/11/2025
+**First published:** 05/08/2009 **Last updated:** 30/03/2026
 
 [View](/sv/documents/product-information/increlex-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000307082 06/11/2025
+**Latest procedure affecting product information:** N/0000337918
+
+30/03/2026
 
 icon globe
 
@@ -722,305 +442,177 @@ Increlex : EPAR - All Authorised presentations
 
 English (EN) (12.31 KB - PDF)
 
-**First published:** 13/08/2007
-
-**Last updated:** 13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/en/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-390)
+[Other languages (24)](#file-language-dropdown-389)
 
 български (BG) (101.87 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/bg/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (12.32 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/es/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (77.93 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/cs/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (12.29 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/da/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (12.41 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/de/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (12.45 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/et/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (70.31 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/el/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (12.31 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/fr/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (128.48 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/hr/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (42.82 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/is/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (11.85 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/it/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (77.97 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/lv/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (41.76 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/lt/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (42.03 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/hu/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (76.3 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/mt/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (11.85 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/nl/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (72.58 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/no/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (81.1 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/pl/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (12.36 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/pt/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (92.29 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/ro/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (77.49 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/sk/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (12.38 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/sl/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (12.04 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/fi/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (12.41 KB - PDF)
 
-**First published:**
-
-13/08/2007
-
-**Last updated:**
-
-13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/sv/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Increlex Active substance Mecasermin International non-proprietary name (INN) or common name mecasermin Therapeutic area (MeSH) Laron Syndrome Anatomical therapeutic chemical (ATC) code H01AC03
+Name of medicine
+
+Increlex
+
+Active substance
+
+Mecasermin
+
+International non-proprietary name (INN) or common name
+
+mecasermin
+
+Therapeutic area (MeSH)
+
+Laron Syndrome
+
+Anatomical therapeutic chemical (ATC) code
+
+H01AC03
 
 ### Pharmacotherapeutic group
 
@@ -1041,7 +633,9 @@ Severe primary IGFD includes patients with mutations in the GH receptor (GHR), p
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000704
+EMA product number
+
+EMEA/H/C/000704
 
 Additional monitoring
 
@@ -1057,7 +651,13 @@ Esteve Pharmaceuticals, S.A.
 
 Passeig de la Zona Franca, 109 Planta 4 08038 Barcelona Spain
 
-Marketing authorisation issued 02/08/2007 Revision 28
+Marketing authorisation issued
+
+02/08/2007
+
+Revision
+
+29
 
 ## Assessment history
 
@@ -1069,11 +669,9 @@ Collapse section
 
 Increlex : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (190.15 KB - PDF)
+English (EN) (149.11 KB - PDF)
 
-**First published:** 18/09/2025
-
-**Last updated:** 06/11/2025
+**First published:** 18/09/2025 **Last updated:** 30/03/2026
 
 [View](/en/documents/procedural-steps-after/increlex-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1081,23 +679,17 @@ Increlex : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (231.15 KB - PDF)
 
-**First published:** 11/03/2020
-
-**Last updated:** 18/09/2025
+**First published:** 11/03/2020 **Last updated:** 18/09/2025
 
 [View](/en/documents/procedural-steps-after/increlex-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Increlex-H-C-704-P46-054.1 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/433030/2015
+Adopted Reference Number: EMA/CHMP/433030/2015
 
 English (EN) (613.42 KB - PDF)
 
-**First published:** 06/08/2015
-
-**Last updated:** 06/08/2015
+**First published:** 06/08/2015 **Last updated:** 06/08/2015
 
 [View](/en/documents/variation-report/increlex-h-c-704-p46-0541-epar-assessment-report_en.pdf)
 
@@ -1105,23 +697,17 @@ Increlex-H-C-PSUSA-00001942-201408 : EPAR - Scientific conclusions and grounds r
 
 English (EN) (66.15 KB - PDF)
 
-**First published:** 30/06/2015
-
-**Last updated:** 30/06/2015
+**First published:** 30/06/2015 **Last updated:** 30/06/2015
 
 [View](/en/documents/scientific-conclusion/increlex-h-c-psusa-00001942-201408-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Increlex-H-C-704-P46-050.2 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/241222/2015
+Adopted Reference Number: EMA/241222/2015
 
 English (EN) (6.86 MB - PDF)
 
-**First published:** 13/04/2015
-
-**Last updated:** 13/04/2015
+**First published:** 13/04/2015 **Last updated:** 13/04/2015
 
 [View](/en/documents/variation-report/increlex-h-c-704-p46-0502-epar-assessment-report_en.pdf)
 
@@ -1131,9 +717,7 @@ Increlex : EPAR - Scientific Discussion
 
 English (EN) (290.99 KB - PDF)
 
-**First published:** 13/08/2007
-
-**Last updated:** 13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/en/documents/scientific-discussion/increlex-epar-scientific-discussion_en.pdf)
 
@@ -1141,31 +725,31 @@ Increlex : EPAR - Procedural steps taken before authorisation
 
 English (EN) (26.16 KB - PDF)
 
-**First published:** 13/08/2007
-
-**Last updated:** 13/08/2007
+**First published:** 13/08/2007 **Last updated:** 13/08/2007
 
 [View](/en/documents/procedural-steps/increlex-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### News on Increlex
+## News on Increlex
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2013) 26/04/2013
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2013)
 
-#### More information on Increlex
+26/04/2013
+
+## More information on Increlex
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu306373) on 22 May 2006. Increlex was withdrawn from the Community register of orphan medicinal products in August 2017 at the end of the 10-year period of market exclusivity.
 
-#### More information on Increlex
+## More information on Increlex
 
 - [Increlex - supply shortage](/en/medicines/human/shortages/increlex)
 - [Global Patient Registry to Monitor Long-term Safety and Effectiveness of Increlex® in Children and Adolescents With Severe Primary Insulin-like Growth Factor-1 Deficiency (SPIGFD) - post-authorisation study](https://catalogues.ema.europa.eu/study/50235)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 06/11/2025
+**This page was last updated on**
+
+30/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

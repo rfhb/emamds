@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-17 16:11:31
-document_pages: 31
+document_datetime: 2026-03-24 11:23:48
+document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/roclanda-epar-product-information_en.pdf
 document_name: roclanda-epar-product-information_en.pdf
 version: success
-processing_time: 7.1385422
-conversion_datetime: 2025-12-20 15:49:21.897879
+processing_time: 6.7026412
+conversion_datetime: 2026-04-01 12:26:33.868155
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -198,14 +198,14 @@ The following adverse reactions have been reported with latanoprost + netarsudil
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ classification   | Frequency   | Adverse reactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|-------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                               |             | Instillation site dryness, Instillation site pruritus, Instillation site reaction, Eye complication associated with device, fatigue, Instillation site paraesthesia, Macular oedema including cystoid macular oedema 2 , Uveitis 2 Ocular hyperaemia Diabetic retinopathy 3 , Eye allergy 3 Ocular discomfort, Eyelid disorder 3 , Ectropion 3 , Lenticular opacities 3 , Asthenopia 3 , Episcleral hyperaemia 3 , Halo vision 3 , Anterior chamber inflammation 3 , Blindness 3 , Conjunctivochalasis, Eczema eyelids 3 , Glaucoma 3 , Iris adhesions 3 , Iris bombe 3 , Ocular hypertension 3 , Instillation site irritation 3 , Glassy eyes 3 , Instillation site oedema 3 , Conjunctival staining 3 , Optic nerve cup/disc ratio increased 3 , Madarosis 3 , Blepharal pigmentation, Eye disorder, Retinal haemorrhage, |
-|                               | Rare        | Photophobia Corneal oedema 2 , Corneal erosion 2 , Periorbital oedema 2 , Trichiasis 2 , Distichiasis 2 , Iris cyst 2 , Localised skin reaction on the eyelids 2 , Darkening of the palpebral skin of the eyelids 2 , Pseudopemphigoid of ocular conjunctiva 2 Periorbital and lid changes resulting                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|                               | Very rare   | in deepening of the eyelid sulcus 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|                               | Not known   | Reticular epithelial corneal oedema 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|                               | Very rare   | Palpitations 2 Angina unstable 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|                               | Uncommon    | Epistaxis,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| System organ classification   | Frequency   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|-------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                               |             | Adverse reactions Instillation site dryness, Instillation site pruritus, Instillation site reaction, Eye complication associated with device, fatigue, Instillation site paraesthesia, Macular oedema including cystoid macular oedema 2 , Uveitis 2 Ocular hyperaemia Diabetic retinopathy 3 , Eye allergy 3 Ocular discomfort, Eyelid disorder 3 , Ectropion 3 , Lenticular opacities 3 , Asthenopia 3 , Episcleral hyperaemia 3 , Halo vision 3 , Anterior chamber inflammation 3 , Blindness 3 , Conjunctivochalasis, Eczema eyelids 3 , Glaucoma 3 , Iris adhesions 3 , Iris bombe 3 , Ocular hypertension 3 , Instillation site irritation 3 , Glassy eyes 3 , Instillation site oedema 3 , Conjunctival staining 3 , Optic nerve cup/disc ratio increased 3 , Madarosis 3 , Blepharal pigmentation, Eye disorder, Retinal haemorrhage, |
+|                               | Rare        | Photophobia Corneal oedema 2 , Corneal erosion 2 , Periorbital oedema 2 , Trichiasis 2 , Distichiasis 2 , Iris cyst 2 , Localised skin reaction on the eyelids 2 , Darkening of the palpebral skin of the eyelids 2 , Pseudopemphigoid of ocular conjunctiva 2 Periorbital and lid changes resulting                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                               | Very rare   | in deepening of the eyelid sulcus 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|                               | Not known   | Reticular epithelial corneal oedema 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|                               | Very rare   | Palpitations 2 Angina unstable 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|                               | Uncommon    | Epistaxis,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -239,7 +239,7 @@ Cornea verticillata occurred in approximately 13% of the patients in controlled 
 
 ## Iris pigmentation
 
-Roclanda contains latanoprost which is a prostaglandin F2 α analogue. The majority of adverse reactions associated with latanoprost are ocular in nature. In a 5-year latanoprost safety study, 33% of patients developed iris pigmentation (section 4.4).
+Roclanda contains latanoprost which is a prostaglandin F2α analogue. The majority of adverse reactions associated with latanoprost are ocular in nature. In a 5-year latanoprost safety study, 33% of patients developed iris pigmentation (section 4.4).
 
 This change in eye colour has predominantly been seen in patients with mixed coloured irides, i.e. blue-brown, grey-brown, yellow-brown and green-brown. In studies with latanoprost, the onset of the change is usually within the first 8 months of treatment, rarely during the second or third year, and has
 
@@ -255,7 +255,7 @@ Neither naevi nor freckles of the iris have been affected by treatment. Accumula
 
 ## Elderly
 
-With the exception of cornea verticillata (see above), no difference in the safety profile for latanoprost + netarsudil has been observed between subjects aged &lt; 65 or ≥ 65 years.
+With the exception of cornea verticillata (see above), no difference in the safety profile for latanoprost + netarsudil has b een observed between subjects aged &lt; 65 or ≥ 65 years.
 
 ## Reporting of suspected adverse reactions
 
@@ -407,7 +407,7 @@ For storage conditions after first opening of the medicinal product, see section
 
 ## 6.5 Nature and contents of container
 
-Roclanda is supplied in clear low density polyethylene bottles (2.5 ml fill in a 4 ml container), low density polyethylene tips with white polypropylene screw caps and anti-tamper seals.
+Roclanda is supplied (sterile) in low density polyethylene bottles (2.5 ml fill) and tips with white polypropylene screw caps and anti-tamper seals or in polypropylene bottles (2.5 ml fill) and tips with white high density polyethylene screw caps and anti-tamper seals.
 
 Carton containing 1 or 3 bottles. Not all pack sizes may be marketed.
 
@@ -423,11 +423,13 @@ Santen Oy Niittyhaankatu 20 33720 Tampere Finland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1502/001 EU/1/20/1502/002
+EU/1/20/1502/001 EU/1/20/1502/002 EU/1/20/1502/003 EU/1/20/1502/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 7 January 2021 Date of latest renewal:
+Date of first authorisation: 7 January 2021
+
+Date of latest renewal: 14 August 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -535,8 +537,7 @@ Open date (3): \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
 
@@ -544,31 +545,28 @@ Store in the original carton in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Santen Oy Niittyhaankatu 20 33720 Tampere Finland
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/20/1502/001
 
 EU/1/20/1502/002
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+EU/1/20/1502/003
+
+EU/1/20/1502/004
+
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Roclanda
 
@@ -584,9 +582,7 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| BOTTLE LABEL                                                       |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS BOTTLE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -598,8 +594,7 @@ Roclanda 50 micrograms/ml + 200 micrograms/ml eye drops, solution latanoprost + 
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -607,8 +602,7 @@ Lot
 
 2.5 ml
 
-| 6.   | OTHER   |
-|------|---------|
+6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -618,7 +612,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Roclanda 50 micrograms/ml + 200 micrograms/ml eye drops, solution latanoprost + netarsudil
+## Roclanda 50 micrograms/ml + 200 micrograms/ml eye drops, solution
+
+latanoprost + netarsudil
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -794,9 +790,7 @@ The following side effects have been observed with Roclanda and other medicines 
 - o Side effects in other parts of the body
 -  Worsening of asthma
 -  Severe itching of the skin
-
-## · Very rare (may affect up to 1 in 10 000 people)
-
+- Very rare (may affect up to 1 in 10 000 people)
 - o Effects in the eye:
 -  Sunken eye appearance (eye sulcus deepening).
 - o Side effects in other parts of the body
@@ -1028,7 +1022,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 Puh/Tel: +358 (0) 974790211
 
-## Sverige
+Sverige
 
 Santen Oy
 

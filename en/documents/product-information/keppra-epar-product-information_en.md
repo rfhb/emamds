@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-20 13:25:57
-document_pages: 172
+document_datetime: 2026-04-01 17:55:03
+document_pages: 170
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/keppra-epar-product-information_en.pdf
 document_name: keppra-epar-product-information_en.pdf
 version: success
-processing_time: 36.9138215
-conversion_datetime: 2025-12-28 17:59:20.210827
+processing_time: 39.912633
+conversion_datetime: 2026-04-05 12:20:58.64422
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -263,7 +263,9 @@ A large amount of postmarketing data on pregnant women exposed to levetiracetam 
 
 <div style=\"page-break-after: always\"></div>
 
-Levetiracetam can be used during pregnancy, if after careful assessment it is considered clinically needed. In such case, the lowest effective dose is recommended. Physiological changes during pregnancy may affect levetiracetam concentration.  Decrease in levetiracetam plasma concentrations has been observed during pregnancy. This decrease is more pronounced during the third trimester (up to 60% of baseline concentration before pregnancy). Appropriate clinical management of pregnant women treated with levetiracetam should be ensured.
+Levetiracetam can be used during pregnancy, if after careful assessment it is considered clinically needed. In such case, the lowest effective dose is recommended.
+
+Physiological changes during pregnancy may affect levetiracetam concentration.  Decrease in levetiracetam plasma concentrations has been observed during pregnancy. This decrease is more pronounced during the third trimester (up to 60% of baseline concentration before pregnancy). Appropriate clinical management of pregnant women treated with levetiracetam should be ensured.
 
 ## Breastfeeding
 
@@ -1541,7 +1543,7 @@ The primary measure of effectiveness was the responder rate (percent of patients
 
 35 infants aged less than 1 year with partial onset seizures have been exposed in placebo-control clinical studies of which only 13 were aged &lt; 6 months.
 
-## Monotherapy in the treatment of partial onset seizures with or without secondary generalisation in patients from 16 years of age with newly diagnosed epilepsy.
+Monotherapy in the treatment of partial onset seizures with or without secondary generalisation in patients from 16 years of age with newly diagnosed epilepsy.
 
 Efficacy of levetiracetam as monotherapy was established in a double-blind, parallel group, noninferiority comparison to carbamazepine-controlled release (CR) in 576 patients 16 years of age or older with newly or recently diagnosed epilepsy.  The patients had to present with unprovoked partial seizures or with generalized tonic-clonic seizures only. The patients were randomized to carbamazepine CR 400 - 1200 mg/day or levetiracetam 1000 - 3000 mg/day, the duration of the treatment was up to 121 weeks depending on the response.
 
@@ -2286,7 +2288,9 @@ EU/1/00/146/023 EU/1/00/146/024 EU/1/00/146/025 EU/1/00/146/026 EU/1/00/146/037
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 29 September 2000 Date of latest renewal: 20 August 2015
+Date of first authorisation: 29 September 2000
+
+Date of latest renewal: 20 August 2015
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -5346,6 +5350,8 @@ UCB Pharma SA/NV
 
 Tél/Tel: + 32 / (0)2 559 92 00
 
+(Belgique/Belgien)
+
 ## Česká republika
 
 UCB s.r.o.
@@ -5374,7 +5380,7 @@ Tel: + 356 / 21 37 64 36
 
 UCB Pharma GmbH
 
-Tel: + 49 /(0) 2173 48 4848
+Tel: + 49 (0) 2173 48 4848
 
 ## Nederland
 
@@ -5392,7 +5398,7 @@ Tel: +372 730 5415
 
 UCB Nordic A/S
 
-Tlf: + 45 / 32 46 24 00
+Tlf: + 47 / 67 16 5880
 
 ## Ελλάδα
 
@@ -5414,13 +5420,13 @@ Tel: + 34 / 91 570 34 44
 
 ## Polska
 
-UCB Pharma Sp. z o.o.
+UCB Pharma Sp. z o.o. / VEDIM Sp. z o.o.
 
 Tel.: + 48 22 696 99 20
 
 ## France
 
-UCB Pharma S.A.
+UCB Pharma
 
 Tél: + 33 / (0)1 47 29 44 35
 
@@ -5442,13 +5448,17 @@ UCB Pharma Romania S.R.L.
 
 Tel: + 40 21 300 29 04
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ireland
 
 UCB (Pharma) Ireland Ltd.
 
 Tel: + 353 / (0)1-46 37 395
+
+## Slovenija
+
+Medis, d.o.o.
+
+Tel: + 386 1 589 69 00
 
 ## Ísland
 
@@ -5456,19 +5466,39 @@ UCB Nordic A/S
 
 Sími: + 45 / 32 46 24 00
 
+## Slovenská republika
+
+UCB s.r.o., organizačná zložka
+
+Tel: + 421 (0) 2 5920 2020
+
 ## Italia
 
 UCB Pharma S.p.A.
 
 Tel: + 39 / 02 300 791
 
+## Suomi/Finland
+
+UCB Pharma Oy Finland
+
+Puh/Tel: +358 9 2514 4221
+
 ## Κύπρος
 
 Lifepharma (Z.A.M.) Ltd
 
-Τηλ: + 357 22 34 74 40
+Τηλ: + 357 22 056300
+
+## Sverige
+
+UCB Nordic A/S
+
+Tel: + 46 / (0) 40 29 49 00
 
 ## Latvija
+
+<div style=\"page-break-after: always\"></div>
 
 Medfiles SIA
 
@@ -5479,30 +5509,6 @@ Tel: +371 67 370 250
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency  web site: https://www.ema.europa.eu.
-
-## Slovenija
-
-Medis, d.o.o.
-
-Tel: + 386 1 589 69 00
-
-## Slovenská republika
-
-UCB s.r.o., organizačná zložka
-
-Tel: + 421 (0) 2 5920 2020
-
-## Suomi/Finland
-
-UCB Pharma Oy Finland
-
-Puh/Tel: +358 9 2514 4221
-
-## Sverige
-
-UCB Nordic A/S
-
-Tel: + 46 / (0) 40 29 49 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5800,7 +5806,7 @@ The most frequently reported adverse reactions were nasopharyngitis, somnolence 
 
 - combination of fever, muscle stiffness, unstable blood pressure and heart rate, confusion, low level of consciousness (may be signs of a disorder called neuroleptic malignant syndrome ). Prevalence is significantly higher in Japanese patients when compared to non-Japanese patients.
 
-## Very rare : may affect up to 1 in 10000 people
+Very rare : may affect up to 1 in 10000 people
 
 - repeated unwanted thoughts or sensations or the urge to do something over and over again (Obsessive Compulsive Disorder).
 
@@ -5856,7 +5862,7 @@ For any information about this medicine, please contact the local representative
 
 <div style=\"page-break-after: always\"></div>
 
-België/Belgique/Belgien
+## België/Belgique/Belgien
 
 UCB Pharma SA/NV
 
@@ -5864,21 +5870,23 @@ Tel/Tél: + 32 / (0)2 559 92 00
 
 ## България
 
-Ю СИ БИ България ЕООД Teл.: + 359 (0) 2 962 30 49
+Ю СИ БИ България ЕООД
+
+Teл.: + 359 (0) 2 962 30 49
 
 ## Česká republika
 
-UCB s.r.o. Tel: + 420 221 773 411
+UCB s.r.o.
+
+Tel: + 420 221 773 411
 
 ## Danmark
 
-UCB Nordic A/S
-
-Tlf.: + 45 / 32 46 24 00
+UCB Nordic A/S Tlf.: + 45 / 32 46 24 00
 
 ## Deutschland
 
-UCB Pharma GmbH Tel: + 49 /(0) 2173 48 4848
+UCB Pharma GmbH Tel: + 49 (0) 2173 48 4848
 
 ## Eesti
 
@@ -5888,7 +5896,9 @@ Tel: +372 730 5415
 
 ## Ελλάδα
 
-UCB Α.Ε. Τηλ: + 30 / 2109974000
+UCB Α.Ε.
+
+Τηλ: + 30 / 2109974000
 
 ## España
 
@@ -5896,7 +5906,7 @@ UCB Pharma, S.A. Tel: + 34 / 91 570 34 44
 
 ## France
 
-UCB Pharma S.A.
+UCB Pharma
 
 Tél: + 33 / (0)1 47 29 44 35
 
@@ -5906,33 +5916,31 @@ Medis Adria d.o.o. Tel: +385 (0) 1 230 34 46
 
 ## Ireland
 
-UCB (Pharma) Ireland Ltd.
-
-Tel: + 353 / (0)1-46 37 395
+UCB (Pharma) Ireland Ltd. Tel: + 353 / (0)1-46 37 395
 
 ## Ísland
 
-UCB Nordic A/S
-
-Sími: + 45 / 32 46 24 00
+UCB Nordic A/S Sími: + 45 / 32 46 24 00
 
 ## Italia
 
 UCB Pharma S.p.A. Tel: + 39 / 02 300 791
 
-## Κύπρος
+## Lietuva
 
-Lifepharma (Z.A.M.) Ltd Τηλ: + 357 22 34 74 40
+UAB Medfiles
 
-Lietuva UAB Medfiles Tel: +370 5 246 16 40
+Tel: +370 5 246 16 40
 
-Luxembourg/Luxemburg UCB Pharma SA/NV
+## Luxembourg/Luxemburg
 
-Tél/Tel: + 32 / (0)2 559 92 00
+UCB Pharma SA/NV Tél/Tel: + 32 / (0)2 559 92 00 (Belgique/Belgien)
 
 ## Magyarország
 
-UCB Magyarország Kft. Tel.: + 36-(1) 391 0060
+UCB Magyarország Kft.
+
+Tel.: + 36-(1) 391 0060
 
 ## Malta
 
@@ -5944,7 +5952,9 @@ UCB Pharma B.V. Tel: + 31 / (0)76-573 11 40
 
 ## Norge
 
-UCB Nordic A/S Tlf: + 45 / 32 46 24 00
+UCB Nordic A/S
+
+Tlf: + 47 / 67 16 5880
 
 ## Österreich
 
@@ -5954,7 +5964,7 @@ Tel: + 43 (0)1 291 80 00
 
 ## Polska
 
-UCB Pharma Sp. z o.o. Tel.: + 48 22 696 99 20
+UCB Pharma Sp. z o.o. / VEDIM Sp. z o.o. Tel.: + 48 22 696 99 20
 
 ## Portugal
 
@@ -5966,7 +5976,9 @@ UCB Pharma Romania S.R.L. Tel: + 40 21 300 29 04
 
 ## Slovenija
 
-Medis, d.o.o. Tel: + 386 1 589 69 00
+Medis, d.o.o.
+
+Tel: + 386 1 589 69 00
 
 ## Slovenská republika
 
@@ -5976,7 +5988,9 @@ UCB s.r.o., organizačná zložka Tel: + 421 (0) 2 5920 2020
 
 UCB Pharma Oy Finland Puh/Tel: +358 9 2514 4221
 
-Sverige UCB Nordic A/S Tel: + 46 / (0) 40 29 49 00
+## Κύπρος
+
+Lifepharma (Z.A.M.) Ltd Τηλ: + 357 22 056300
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5991,6 +6005,10 @@ Tel: +371 67 370 250
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+Sverige UCB Nordic A/S
+
+Tel: + 46 / (0) 40 29 49 00
 
 ## Package Leaflet: Information for the patient
 
@@ -6100,7 +6118,9 @@ Recommended dose: between 1000 mg and 3000 mg each day.
 
 When you will first start taking Keppra, your doctor will prescribe you a lower dose during 2 weeks before giving you the lowest daily dose.
 
-Dose in children (4 to 11 years) and adolescents (12 to 17 years) weighing less than 50 kg: Recommnded dose: between 20 mg per kg bodyweight and 60 mg per kg bodyweight each day.
+Dose in children (4 to 11 years) and adolescents (12 to 17 years) weighing less than 50 kg:
+
+Recommnded dose: between 20 mg per kg bodyweight and 60 mg per kg bodyweight each day.
 
 ## Method and route of administration:
 
@@ -6255,7 +6275,7 @@ Tlf.: + 45 / 32 46 24 00
 
 UCB Pharma GmbH
 
-Tel: + 49 /(0) 2173 48 4848
+Tel: + 49 (0) 2173 48 4848
 
 ## Eesti
 
@@ -6277,7 +6297,7 @@ Tel: + 34 / 91 570 34 44
 
 ## France
 
-UCB Pharma S.A.
+UCB Pharma
 
 Tél: + 33 / (0)1 47 29 44 35
 
@@ -6311,6 +6331,8 @@ UCB Pharma SA/NV
 
 Tél/Tel: + 32 / (0)2 559 92 00
 
+(Belgique/Belgien)
+
 ## Magyarország
 
 UCB Magyarország Kft.
@@ -6333,7 +6355,7 @@ Tel: + 31 / (0)76-573 11 40
 
 UCB Nordic A/S
 
-Tlf: + 45 / 32 46 24 00
+Tlf: + 47 / 67 16 5880
 
 ## Österreich
 
@@ -6343,7 +6365,7 @@ Tel: + 43 (0)1 291 80 00
 
 ## Polska
 
-UCB Pharma Sp. z o.o.
+UCB Pharma Sp. z o.o. / VEDIM Sp. z o.o.
 
 Tel.: + 48 22 696 99 20
 
@@ -6381,7 +6403,7 @@ Tel: + 39 / 02 300 791
 
 Lifepharma (Z.A.M.) Ltd
 
-Τηλ: + 357 22 34 74 40
+Τηλ: + 357 22 056300
 
 ## Latvija
 
@@ -6430,30 +6452,8 @@ UCB Pharma Oy Finland
 
 Puh/Tel: +358 9 2514 4221
 
-## Sverige
+Sverige
 
 UCB Nordic A/S
 
 Tel: + 46 / (0) 40 29 49 00
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for levetiracetam, the scientific conclusions of PRAC are as follows:
-
-In view of the available data from the observational population-based registry studies with more recent information on the risk of neurodevelopmental disorders in children exposed prenatally to levetiracetam, the PRAC concluded that the product information of products containing levetiracetam should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for levetiracetam the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing levetiracetam is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

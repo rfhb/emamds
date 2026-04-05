@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-07 15:55:29
+document_datetime: 2026-04-01 09:54:09
 document_pages: 24
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lysakare-epar-product-information_en.pdf
 document_name: lysakare-epar-product-information_en.pdf
 version: success
-processing_time: 5.2476145
-conversion_datetime: 2025-12-18 22:33:15.312722
+processing_time: 5.209322
+conversion_datetime: 2026-04-05 12:31:37.595301
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -84,7 +84,7 @@ No data are available.
 
 ## Method of administration
 
-For intravenous use.
+## For intravenous use.
 
 To achieve optimal renal protection LysaKare should be administered as a 4-hour infusion (250 mL/hour) starting 30 minutes prior to administration of lutetium ( 177 Lu) oxodotreotide.
 
@@ -187,7 +187,7 @@ The main adverse reactions which are related mainly to the amino acid solution a
 
 The adverse reactions listed below have been identified in publications of studies involving amino acid solutions that had the same composition as LysaKare with regard to amino acid content. These studies included over 900 patients receiving more than 2 500 doses of arginine and lysine during PRRT with various radiolabelled somatostatin analogues.
 
-The adverse reactions are listed according to MedDRA system organ class and by frequency. The frequencies are categorised as follows: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000) and not known (cannot be estimated from the available data).
+The adverse reactions are listed according to MedDRA system organ class and by frequency. The frequencies are categoris ed as follows: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000) and not known (cannot be estimated from the available data).
 
 ## Table 1 Adverse reactions
 
@@ -303,9 +303,7 @@ This medicinal product is for single use only.
 
 Do not remove unit from overwrap until ready to use.
 
-Do not use if overwrap has been previously opened or damaged. The overwrap is a moisture barrier.
-
-Do not reconnect partially used bags.
+Do not use if overwrap has been previously opened or damaged. The overwrap is a moisture barrier. Do not reconnect partially used bags.
 
 LysaKare must not be diluted.
 
@@ -321,9 +319,7 @@ Advanced Accelerator Applications 8-10 Rue Henri Sainte-Claire Deville 92500 Rue
 
 <div style=\"page-break-after: always\"></div>
 
-8.
-
-MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/19/1381/001
 
@@ -335,9 +331,7 @@ Date of first authorisation: 25 July 2019
 
 Date of latest renewal: 25 April 2024
 
-10.
-
-DATE OF REVISION OF THE TEXT
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -358,7 +352,13 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
+Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
+
+Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+
 Laboratoire Bioluz Zone Industrielle de Jalday 64500 Saint Jean de Luz France
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -459,7 +459,7 @@ EU/1/19/1381/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -541,7 +541,7 @@ Advanced Accelerator Applications 8-10 Rue Henri Sainte-Claire Deville 92500 Rue
 
 EU/1/19/1381/001
 
-## 13. BATCH NUMBER
+13. BATCH NUMBER
 
 Lot
 
@@ -551,16 +551,16 @@ Lot
 
 Justification for not including Braille accepted.
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the patient
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the patient
 
 ## LysaKare 25 g/25 g solution for infusion
 
@@ -697,7 +697,9 @@ Store below 25°C.
 
 You will not have to store this medicine. The correct storage, use and disposal of this medicine are under the responsibility of the specialist in appropriate premises. You will receive LysaKare in a controlled clinical setting.
 
-The following information is intended for the healthcare specialist charged with your care. Do not use this medicine:
+The following information is intended for the healthcare specialist charged with your care.
+
+Do not use this medicine:
 
 - -if you notice that the solution is cloudy or has deposits.
 - -if the overwrap has been previously opened or damaged.
@@ -728,6 +730,10 @@ Advanced Accelerator Applications 8-10 Rue Henri Sainte-Claire Deville 92500 Rue
 
 ## Manufacturer
 
+Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
+
+Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+
 Laboratoire Bioluz Zone Industrielle de Jalday 64500 Saint Jean de Luz France
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
@@ -742,7 +748,7 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
-Novartis Bulgaria EOOD Тел: +359 2 489 98 28
+Novartis Bulgaria EOOD Тел : +359 2 489 98 28
 
 ## Luxembourg/Luxemburg
 
@@ -764,7 +770,9 @@ Novartis Sverige AB Tlf.: +46 8 732 32 00
 
 ## Malta
 
-Novartis Pharma Services Inc. Tel: +356 2122 2872
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
 
 ## Deutschland
 
@@ -794,7 +802,13 @@ Tlf: +46 8 732 32 00
 
 ΒΙΟΚΟΣΜΟΣ ΑΕΒΕ
 
-Τηλ: +30 22920 63900 ή Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Τηλ: +30 22920 63900
+
+ή
+
+Novartis (Hellas) A.E.B.E.
+
+Τηλ: +30 210 281 17 12
 
 ## Österreich
 
@@ -802,13 +816,15 @@ Novartis Pharma GmbH
 
 Tel: +43 1 86 6570
 
+<div style=\"page-break-after: always\"></div>
+
 ## España
+
+## Polska
 
 Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
-
-## Polska
 
 Novartis Poland Sp. z o.o.
 
@@ -826,13 +842,17 @@ Novartis Farma - Produtos Farmacêuticos, S.A.
 
 Tel: +351 21 000 8600
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hrvatska
 
 Novartis Hrvatska d.o.o.
 
 Tel. +385 1 6274 220
+
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
 
 ## Ireland
 
@@ -840,17 +860,35 @@ Novartis Ireland Limited
 
 Tel: +353 1 260 12 55
 
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
+
 ## Ísland
 
 Novartis Sverige AB
 
 Sími: +46 8 732 32 00
 
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
+
 ## Italia
 
 Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
+
+## Suomi/Finland
+
+Novartis Sverige AB
+
+Puh/Tel: +46 8 732 32 00
 
 ## Κύπρος
 
@@ -864,6 +902,12 @@ Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
 
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
+
 ## Latvija
 
 SIA Novartis Baltics
@@ -875,33 +919,3 @@ Tel: +371 67 887 070
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-## România
-
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
-
-## Suomi/Finland
-
-Novartis Sverige AB
-
-Puh/Tel: +46 8 732 32 00
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00

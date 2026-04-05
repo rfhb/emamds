@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-09 09:50:09
-document_pages: 141
+document_datetime: 2026-04-01 11:30:47
+document_pages: 139
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/winrevair-epar-product-information_en.pdf
 document_name: winrevair-epar-product-information_en.pdf
 version: success
-processing_time: 53.6840723
-conversion_datetime: 2026-03-13 19:28:48.999959
+processing_time: 46.2991147
+conversion_datetime: 2026-04-05 12:32:53.447172
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.79.0
-  docling-core: 2.69.0
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -268,13 +268,14 @@ Table 3: Adverse reactions
 | Blood and lymphatic system disorders                 | Very common | Thrombocytopenia 1,2 Increased haemoglobin 1 |
 | Nervous system disorders                             | Very common | Dizziness Headache                           |
 | Cardiac disorders                                    | Not known   | Pericardial effusion 1                       |
-| Respiratory, thoracic and mediastinal disorders      | Very common | Epistaxis                                    |
-| Gastrointestinal disorders                           | Very common | Diarrhoea Gingival bleeding 3                |
+| Respiratory, thoracic and mediastinal                | Very common | Epistaxis                                    |
+| disorders                                            | Uncommon    | Intrapulmonary shunt 3                       |
+| Gastrointestinal disorders                           | Very common | Diarrhoea Gingival bleeding 4                |
 | Skin and subcutaneous tissue disorders               | Very common | Telangiectasia 1 Rash                        |
 | Skin and subcutaneous tissue disorders               | Common      | Erythema                                     |
-| Musculoskeletal and connective tissue disorders      | Very common | Back pain 3                                  |
+| Musculoskeletal and connective tissue disorders      | Very common | Back pain 4                                  |
 | General disorders and administration site conditions | Common      | Injection site pruritus                      |
-| Investigations                                       | Common      | Increased blood pressure 1,4                 |
+| Investigations                                       | Common      | Increased blood pressure 1,5                 |
 
 ## Description of selected adverse reactions
 
@@ -288,11 +289,11 @@ Increases in Hgb were managed by dose adjustments (see sections 4.2 and 4.4).
 
 ## Thrombocytopenia
 
-In STELLAR, thrombocytopenia ('thrombocytopenia' and 'platelet count decreased') was reported in 10.4% of patients taking sotatercept. Severe reduction in platelet count &lt; 50 x 10 9 /L occurred in 2.5% of patients taking sotatercept. Thrombocytopenia was reported more frequently in patients also
+In STELLAR, thrombocytopenia ('thrombocytopenia' and 'platelet count decreased') was reported in 10.4% of patients taking sotatercept. Severe reduction in platelet count &lt; 50 x 10 9 /L occurred in 2.5%
 
 <div style=\"page-break-after: always\"></div>
 
-receiving prostacyclin infusion (21.5%) compared to patients not receiving prostacyclin infusion (3.1%).
+of patients taking sotatercept. Thrombocytopenia was reported more frequently in patients also receiving prostacyclin infusion (21.5%) compared to patients not receiving prostacyclin infusion (3.1%).
 
 In ZENITH, thrombocytopenia was reported in 15.1% of patients taking sotatercept. Severe reduction in platelet count &lt; 50 x 10 9 /L occurred in 6.0% of patients taking sotatercept. Thrombocytopenia was reported only in patients also receiving prostacyclin inf usion (24.5%).
 
@@ -324,7 +325,7 @@ In ZENITH, bleeding events occurred more commonly in the older sotatercept subgr
 
 ## Long-term safety data
 
-Long-term safety data are available from pooled phase 2 and phase 3 clinical studies (n=431). The median duration of exposure was 657 days. The safety profile was generally similar to that observed in the pivotal STELLAR study.
+Long-term safety data are available from pooled phase 2 and phase 3 clinical studies (n=431). The median duration of exposure was 657 days. The safety profile was generally similar to that observed in the pivotal STELLAR study. Right-to-left intrapulmonary shunting has been reported in participants who developed worsening hypoxemia despite improved PAH haemodynamics.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -346,7 +347,7 @@ Pharmacotherapeutic group: antihypertensives, antihypertensives for pulmonary ar
 
 ## Mechanism of action
 
-Sotatercept is an activin signalling inhibitor with high selectivity for Activin-A, a dimeric glycoprotein which belongs to the transf orming growth factorβ (TGFβ) superf amily of   ligands. Activin -A binds to the activin receptor type IIA (ActRIIA) regulating key signalling for inflammation, cell prolif eration, apoptosis, and tissue homeostasis.
+Sotatercept is an activin signalling inhibitor with high selectivity for Activin-A, a dimeric glycoprotein which belongs to the transf orming growth factorβ (TGF -β) superf amily of   ligands. Activin -A binds to the activin receptor type IIA (ActRIIA) regulating key signalling for inflammation, cell prolif eration, apoptosis, and tissue homeostasis.
 
 Activin-A levels are increased in PAH patients. Activin binding to ActRIIA promotes proliferative signalling while there is a decrease in anti-proliferative bone morphogenetic protein receptor type II (BMPRII) signalling. The imbalance of ActRIIA-BMPRII signalling underlying PAH results in vascular cell hyperproliferation, causing pathological remodelling of the pulmonary arterial wall, narrowing the arterial lumen, increasing pulmonary vascular resistance, and leads to increased pulmonary artery pressure and right ventricular dysfunction.
 
@@ -410,7 +411,7 @@ Participants in the ZENITH study were adults with a median age of 57.5 years (ra
 
 <div style=\"page-break-after: always\"></div>
 
-The primary efficacy endpoint was the time to first event of all-cause death, lung transplantation, or PAH worseningrelated hospitalisation of   ≥ 24 hours. Treatment with sotatercept resulted in 76% reduction (HR: 0.24; 95% CI: 0.13, 0.43; p &lt; 0.0001) in the occurrence of the first event of the primary composite endpoint (see Table 5). Fewer participants in the sotatercept treatment group (15 (17.4%)) than in the placebo group (47 (54.7%)) had an event of the primary composite endpoint as of the data cutoff.
+The primary efficacy endpoint was the time to first event of all-cause death, lung transplantation, or PAH worseningrelated hospitalisation of   ≥ 24 hours. Treatment with sotatercept resulted in 76% reduction (HR: 0.24; 95% CI: 0.13, 0.43; p &lt; 0.0001) in the occurrence of the first event of the primary composite endpoint (see Table 5). Fewer participants in the sotatercept treatment group (15 (17.4%)) than in the placebo group (47 (54.7%)) had an event of the primary composite endpoint as of the data cutoff .
 
 The median time to first event was 9.6 months (95% CI: 6.2, 14.8) in the placebo group. The KaplanMeier curves began to separate at approximately Week 5, and the separation increased for the remainder of the study (see Figure 1). The treatment ef f ect was consistent across the different subgroups including age, sex, PAH subtype (CTD-associated versus not CTD-associated), WHO FC, double versus triple background therapy at baseline, prostacyclin infusion therapy at baseline, baseline PVR, and baseline eGFR.
 
@@ -422,7 +423,7 @@ Table 5: Components of the primary endpoint
 | Participants with first event ofthe composite, by component b          |                              |                          |                                   |
 | All-cause death c                                                      | 6 (7.0)                      | 3 (3.5)                  |                                   |
 | Lung transplantation                                                   | 1 (1.2)                      | 1 (1.2)                  |                                   |
-| PAH worsening related hospitalisation of ≥ 24 hours                    | 8 (9.3)                      | 43 (50.0)                |                                   |
+| PAHworsening related hospitalisation of≥ 24 hours                      | 8 (9.3)                      | 43 (50.0)                |                                   |
 | Participants with any events ofthe components ofthe composite d        |                              |                          |                                   |
 | All-cause death c,e                                                    | 7 (8.1)                      | 13 (15.1)                |                                   |
 | Lung transplantation                                                   | 1 (1.2)                      | 6 (7.0)                  |                                   |
@@ -506,7 +507,7 @@ No carcinogenicity or mutagenicity studies have been conducted with sotatercept.
 
 ## Repeat dose toxicity
 
-In rats and monkeys, the longest SC toxicity studies were 3 months and 9 months in duration, respectively. In rats, adverse findings included ef ferent duct/testicular degeneration, adrenal gland congestion/necrosis, and membranoproliferative glomerulonephritis and tubulointerstitial nephritis in the kidneys. Kidney changes were not reversible following a 1-month recovery period. In monkeys, adverse changes included increased interstitial matrix at the corticomedullary junction, decreased glomerular tuft size, glomerulonephritis and tubulointerstitial nephritis in the kidney. Kidney changes in monkeys partially resolved following a 3-month recovery period. At the no observed adverse effect level (NOAEL) in rats and monkeys, sotatercept exp osures were ≤2 -times the clinical exposure at the maximum recommended human dose (MRHD). Other findings that occurred at clinical exposure margins in monkeys included hepatic inflammatory infiltrates, lymphoid depletion in spleen, and inflammatory infiltrates in the choroid plexus.
+In rats and monkeys, the longest SC toxicity studies were 3 months and 9 months in duration, respectively. In rats, adverse findings included ef ferent duct/testicular degeneration, adrenal gland congestion/necrosis, and membranoproliferative glomerulonephritis and tubulointerstitial nephritis in the kidneys. Kidney changes were not reversible following a 1-month recovery period. In monkeys, adverse changes included increased interstitial matrix at the corticomedullary junction, decreased glomerular tuft size, glomerulonephritis and tubulointerstitial nephritis in the kidney. Kidney changes in monkeys partially resolved following a 3-month recovery period. At the no observed adverse effect level (NOAEL) in rats and  monkeys, sotatercept exposures were ≤2 -times the clinical exposure at the maximum recommended human dose (MRHD). Other findings that occurred at clinical exposure margins in monkeys included hepatic inflammatory infiltrates, lymphoid depletion in spleen, and inflammatory infiltrates in the choroid plexus.
 
 ## Reproductive toxicity
 
@@ -540,7 +541,7 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## Unopened vial
 
-3 years
+4 years
 
 ## After reconstitution
 
@@ -900,19 +901,19 @@ Table 3 shows the adverse reactions reported with sotatercept in placebo-control
 
 Table 3: Adverse reactions
 
-| System organ class                                   | Frequency   | Adverse reaction                             |
-|------------------------------------------------------|-------------|----------------------------------------------|
-| Infections and infestations                          | Common      | Urinary tract infections                     |
-| Blood and lymphatic system disorders                 | Very common | Thrombocytopenia 1,2 Increased haemoglobin 1 |
-| Nervous system disorders                             | Very common | Dizziness Headache                           |
-| Cardiac disorders                                    | Not known   | Pericardial effusion 1                       |
-| Respiratory, thoracic and mediastinal disorders      | Very common | Epistaxis                                    |
-| Gastrointestinal disorders                           | Very common | Diarrhoea Gingival bleeding 3                |
-| Skin and subcutaneous tissue disorders               | Very common | Telangiectasia 1 Rash                        |
-| Skin and subcutaneous tissue disorders               | Common      | Erythema                                     |
-| Musculoskeletal and connective tissue disorders      | Very common | Back pain 3                                  |
-| General disorders and administration site conditions | Common      | Injection site pruritus                      |
-| Investigations                                       | Common      | Increased blood pressure 1,4                 |
+| System organ class                              | Frequency   | Adverse reaction                             |
+|-------------------------------------------------|-------------|----------------------------------------------|
+| Infections and infestations                     | Common      | Urinary tract infections                     |
+| Blood and lymphatic system disorders            | Very common | Thrombocytopenia 1,2 Increased haemoglobin 1 |
+| Nervous system disorders                        | Very common | Dizziness Headache                           |
+| Cardiac disorders                               | Not known   | Pericardial effusion 1                       |
+| Respiratory, thoracic and mediastinal           | Very common | Epistaxis                                    |
+| disorders                                       | Uncommon    | Intrapulmonary shunt 3                       |
+| Gastrointestinal disorders                      | Very common | Diarrhoea Gingival bleeding 4                |
+| disorders                                       | Common      | Rash Erythema                                |
+| Musculoskeletal and connective tissue disorders | Very common | Back pain 4                                  |
+| General disorders and administration            | Common      | Injection site pruritus                      |
+| site conditions                                 |             |                                              |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -964,7 +965,7 @@ In ZENITH, bleeding events occurred more commonly in the older sotatercept subgr
 
 ## Long-term safety data
 
-Long-term safety data are available from pooled phase 2 and phase 3 clinical studies (n=431). The median duration of exposure was 657 days. The safety profile was generally similar to that observed in the pivotal STELLAR study.
+Long-term safety data are available from pooled phase 2 and phase 3 clinical studies (n=431). The median duration of exposure was 657 days. The safety profile was generally similar to that observed in the pivotal STELLAR study. Right-to-left intrapulmonary shunting has been reported in participants who developed worsening hypoxemia despite improved PAH haemodynamics.
 
 ## Reporting of suspected adverse reactions
 
@@ -1022,7 +1023,7 @@ MCI was a pre-defined endpoint measured by the proportion of patients achieving 
 
 improvement in NT-proBNP (decrease in NTproBNP ≥ 30% or maintenance/achievement of NTproBNP level &lt; 300 ng/L), and improvement in WHO FC or maintenance of WHO FC II.
 
-Disease progression was measured by the time to death or first occurrence of a clinical worsening event. Clinical worsening events included worsening-related listing for lung and/or heart transplant, need to initiate rescue therapy with an approved background PAH therapy or the need to increase the dose of  inf usion  prostacyclin by ≥ 10%, need for atrial septostomy, hospitalisation for worsening PAH (≥ 24 hours), or deterioration of PAH (worsened WHO FC an d decrease in 6MWD ≥ 15% with both events occurring at the same time or dif ferent times). Clinical worsening events and death were captured until the last patient completed the Week 24 visit (data up to the data cutoff ; median duration of exposure 33.6 weeks).
+Disease progression was measured by the time to death or first occurrence of a clinical worsening event. Clinical worsening events included worsening-related listing for lung and/or heart transplant, need to initiate rescue therapy with an approved background PAH therapy or the need to increase the dose of  inf usion  prostacyclin by ≥ 10%, need for atrial septostomy, hospitalisation for worsening PAH (≥ 24 hours), or deterioration of  PAH (worsened WHO FC and decrease in 6MWD ≥ 15% with both events occurring at the same time or dif ferent times). Clinical worsening events and death were captured until the last patient completed the Week 24 visit (data up to the data cutoff ; median duration of exposure 33.6 weeks).
 
 At Week 24, 38.9% of sotatercept-treated patients showed improvement in MCI versus 10.1% in the placebo group (p &lt; 0.001). The median treatment difference in PVR between sotatercept and placebo group was -234.6 dyn*sec/cm 5 (95% CI: -288.4, -180.8; p &lt; 0.001). The median treatment difference in NT-proBNP between the sotatercept and placebo groups was -441.6 pg/mL (95% CI: -573.5, 309.6; p &lt; 0.001). Improvement in WHO FC from baseline occurred in 29% of patients in sotatercept versus 13.8% in placebo (p &lt; 0.001).
 
@@ -1052,7 +1053,7 @@ The efficacy of sotatercept was evaluated in adult patients with PAH WHO FC III 
 
 <div style=\"page-break-after: always\"></div>
 
-Participants in the ZENITH study were adults with a median age of 57.5 years (range: 18 to 75 years) of which 29.1% w ere ≥ 65 years of age; 86.6% of participants were White, and 87.8% were not Hispanic or Latino; and 76.7% were female. The PAH aetiologies studied were idiopathic PAH (50.0%), PAH associated with connective tissue diseases (CTD) (27.9%), heritable PAH (10.5%), drug-induced or toxin-induced PAH (6.4%) and PAH associated with corrected congenital shunts (5.2%). The mean time since PAH diagnosis to screening was 7.68 years. Participants were receiving either triple (72.1%) or double (27.9%) background PAH therapy, and 59.3% were receiving prostacyclin infusion. The proportions of participants in WHO FC III was 74.4% and in WHO FC IV was 25.6%. The REVEAL Lite 2 risk score was &lt; 9 for 2.3% of participants, 9 to 10 for 67.4% of participants, and ≥ 11 for 30.2% of participants. The ZENITH study excluded patients diagnosed with HIV-associated PAH, PAH associated with portal hypertension, PVOD or pulmonary capillary haemangiomatosis or overt signs of capillary and/or venous involvement.
+Participants in the ZENITH study were adults with a median age of 57.5 years (range: 18 to 75 years) of which 29.1% were ≥ 65 years of age; 86.6% of participants were White, and 87.8% were not Hispanic or Latino; and 76.7% were female. The PAH aetiologies studied were idiopathic PAH (50.0%), PAH associated with connective tissue diseases (CTD) (27.9%), heritable PAH (10.5%), drug-induced or toxin-induced PAH (6.4%) and PAH associated with corrected congenital shunts (5.2%). The mean time since PAH diagnosis to screening was 7.68 years. Participants were receiving either triple (72.1%) or double (27.9%) background PAH therapy, and 59.3% were receiving prostacyclin infusion. The proportions of participants in WHO FC III was 74.4% and in WHO FC IV was 25.6%. The REVEAL Lite 2 risk score was &lt; 9 for 2.3% of participants, 9 to 10 for 67.4% of participants, and ≥ 11 for 30.2% of participants. The ZENITH study excluded patients diagnosed with HIV-associated PAH, PAH associated with portal hypertension, PVOD or pulmonary capillary haemangiomatosis or overt signs of capillary and/or venous involvement.
 
 The primary efficacy endpoint was the time to first event of all-cause death, lung transplantation, or PAH worseningrelated hospitalisation of   ≥ 24 hours. Treatment with sotatercept resulted in 76% reduction (HR: 0.24; 95% CI: 0.13, 0.43; p &lt; 0.0001) in the occurrence of the first event of the primary composite endpoint (see Table 5). Fewer participants in the sotatercept treatment group (15 (17.4%)) than in the placebo group (47 (54.7%)) had an event of the primary composite endpoint as of the data cutoff.
 
@@ -1089,8 +1090,6 @@ Figure 1: Time to first event of all-cause death, lung transplantation, or PAH w
 120
 
 <!-- image -->
-
-n=number of participants at risk
 
 Based on the primary endpoint result, the study was stopped for favourable efficacy at the interim analysis. The primary analysis of the first secondary endpoint in the hierarchical testing strategy, overall survival (OS), included all deaths up to the data cutoff, except for those occurring after lung transplantation or enrolment in a long-term follow-up study (see Table 5). The point estimate for the OS HR favoured the sotatercept treatment group over the placebo group (HR: 0.42; 95% CI: 0.17, 1.07; p = 0.0313), but the boundary for statistical significance at the interim analysis (p &lt; 0.0021) was not crossed.
 
@@ -1154,7 +1153,7 @@ No carcinogenicity or mutagenicity studies have been conducted with sotatercept.
 
 ## Repeat dose toxicity
 
-In rats and monkeys, the longest SC toxicity studies were 3 months and 9 months in duration, respectively. In rats, adverse findings included ef ferent duct/testicular degeneration, adrenal gland congestion/necrosis, and membranoproliferative glomerulonephritis and tubulointerstitial nephritis in the kidneys. Kidney changes were not reversible following a 1-month recovery period. In monkeys, adverse changes included increased interstitial matrix at the corticomedullary junction, decreased glomerular tuft size, glomerulonephritis and tubulointerstitial nephritis in the kidney. Kidney changes in monkeys partially resolved following a 3-month recovery period. At the no observed adverse effect level (NOAEL) in rats and monkeys, sotatercept exposures were ≤2 -times the clinical exposure at the maximum recommended human dose (MRHD). Other findings that occurred at clinical exposure margins in monkeys included hepatic inflammatory infiltrates, lymphoid depletion in spleen, and inflammatory infiltrates in the choroid plexus.
+In rats and monkeys, the longest SC toxicity studies were 3 months and 9 months in duration, respectively. In rats, adverse findings included ef ferent duct/testicular degeneration, adrenal gland congestion/necrosis, and membranoproliferative glomerulonephritis and tubulointerstitial nephritis in the kidneys. Kidney changes were not reversible following a 1-month recovery period. In monkeys, adverse changes included increased interstitial matrix at the corticomedullary junction, decreased glomerular tuft size, glomerulonephritis and tubulointerstitial nephritis in the kidney. Kidney changes in monkeys partially resolved following a 3-month recovery period. At the no observed adverse effect level (NOAEL) in rats and  monkeys, sotatercept exposures were ≤2 -times the clinical exposure at the maximum recommended human dose (MRHD). Other findings that occurred at clinical exposure margins in monkeys included hepatic inflammatory infiltrates, lymphoid depletion in spleen, and inflammatory infiltrates in the choroid plexus.
 
 ## Reproductive toxicity
 
@@ -1184,7 +1183,7 @@ This medicinal product must not be mixed with other medicinal products except th
 
 Unopened vial
 
-3 years
+4 years
 
 ## After reconstitution
 
@@ -1555,7 +1554,9 @@ NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Solvent for Winrevair 45 mg
 
-## 2. METHOD OF ADMINISTRATION
+2.
+
+METHOD OF ADMINISTRATION
 
 3.
 
@@ -2236,9 +2237,11 @@ D E F
 
 Lift here
 
-## MINIMUM PARTICULARS TO APPEAR ON VIAL LABEL
+<div style=\"page-break-after: always\"></div>
 
-Kit with two 60 mg vials
+| MINIMUMPARTICULARS TO APPEARONVIAL LABEL   |
+|--------------------------------------------|
+| Kit with two 60 mgvials                    |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -2261,8 +2264,6 @@ Lot
 6. OTHER
 
 MSD
-
-<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON PREFILLED SYRINGE LABEL
 
@@ -2958,7 +2959,11 @@ Common (may affect up to 1 in 10 people):
 - High blood pressure
 - Redness of the skin
 - Itching at the injection site
-- An infection in the urinary tract (kidney, bladder or urethra) that may cause lower back or belly pain and burning during urination.
+- An infection in the urinary tract (kidney, bladder or urethra) that may cause lower back or belly pain and burning during urination
+
+Uncommon (may affect up to 1 in 100 people):
+
+- Intrapulmonary shunting (a condition where blood bypasses the normal route through the lungs that can result in less oxygen delivery to the body)
 
 Not known (frequency cannot be estimated from the available data)
 
@@ -2974,7 +2979,7 @@ If you get any side ef f ects, talk to your doctor, pharmacist or nurse. This in
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine af ter the expiry date which is stated on the vial and the carton af ter 'EXP'. The expiry date refers to the last day of  that month.
+Do not use this medicine after the expiry date which is stated on the vial  and  the  carton  af ter  'EXP'. The expiry date refers to the last day of  that month.
 
 Store in a refrigerator (2 °C -8 °C). Do not freeze. Store in the original package in order to protect from light.
 
@@ -3019,7 +3024,7 @@ MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
 
 ## /Beъл/geа/erи/ia
 
-Ме/er/ka Ша/er/pecyril и /Deо/ucyril/em /Beъл/geа/erи/ia Е/Ocyril/Ocyril/De Тел.: +359 2 819 3737 info-msdbg@merck.com
+Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia  Е/Ocyril/Ocyril/De Тел.: +359 2 819 3737 info-msdbg@merck.com
 
 ## Česká republika
 
@@ -3027,11 +3032,11 @@ Merck Sharp &amp; Dohme s.r.o. Tel: +420 233 010 111 dpoc\\_czechslovak@merck.co
 
 ## Danmark
 
-MSD Danmark ApS Tlf.: + 45 4482 4000 dkmail@msd.com
+MSD Danmark ApS Tlf.: +45 4482 4000 dkmail@msd.com
 
 ## Deutschland
 
-MSD Sharp &amp; Dohme GmbH Tel: +49 (0) 89 20 300 4500 medinfo@msd.de
+MSD Sharp &amp; Dohme GmbH Tel.: +49 (0) 89 20 300 4500 medinfo@msd.de
 
 ## Eesti
 
@@ -3043,7 +3048,9 @@ MSD Α.Φ.Ε.Ε. Τηλ : +30 210 98 97 300 dpoc\\_greece@merck.com
 
 ## España
 
-Merck Sharp &amp; Dohme de España, S.A. Tel: +34 91 321 06 00 msd\\_info@merck.com
+Merck Sharp &amp; Dohme de España, S.A.
+
+Tel: +34 91 321 06 00 msd\\_info@msd.com
 
 ## France
 
@@ -3109,7 +3116,7 @@ Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 5204 201 msd.slo
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: + 354 535 7000
 
@@ -3131,7 +3138,9 @@ dpoc.italy@msd.com
 
 ## Suomi/Finland
 
-MSD Finland Oy Puh/Tel: +358 (0)9 804 650 info@msd.fi
+MSD Finland Oy Puh/Tel: +358 (0)9 804 650
+
+info@msd.fi
 
 ## Κύπρος
 
@@ -3323,8 +3332,6 @@ Any patient or caregiver who is to prepare and inject Winrevair must f irst be t
 ## 1 Check Winrevair product and expiry date
 
 Remove the Winrevair pack f rom the ref rigerator.
-
-<!-- image -->
 
 - Check the expiry date and look for any signs of damage on the pack or in the supplies.
 
@@ -3791,7 +3798,7 @@ Call your doctor or pharmacist.
 
 ## What should I do if  the plunger of  my dosing syringe moves automatically when I try to withdraw medicine f rom the vial?
 
-Don't  worry  if   your plunger moves slightly on its own when you are f illing your dosing syringe with medicine.
+Don't  worry  if   your  plunger  moves  slightly  on  its  own  when  y ou are f illing your dosing syringe with medicine.
 
 ## With one hand, hold the plunger in place to stop the plunger f rom moving.
 
@@ -3807,7 +3814,7 @@ If  your pack parts are damaged or compromised, do not use it. Call your doctor 
 
 Do not use the medicine if  you have swirled the medicine vial f or about 2 minutes and let it stand f or another 3 minutes, but your medicine vial remains cloudy or has clumps, powder, or f oreign particles. Call your doctor or pharmacist to get a new pack.
 
-## What should I do if   the  sterile  water  won't  come  out of   the  pref illed  syringe?
+## What should I do if the sterile water won't come out of  the pref illed syringe?
 
 Check that the vial adaptor is attached to the vial securely. If  not, hold the vial and press the vial adaptor down firmly to make sure the vial adaptor punctures the vial rubber stopper.
 
@@ -3875,7 +3882,7 @@ Make sure the patient or caregiver can do the following correctly:
 
 1. Reconstitute the medicine
 2. Combine medicine from both vials
-3. Measure the correct amount of m edicine according to patient's prescription
+3. Measure the correct amount of  medicine according to patient's prescription
 4. Select and prepare a proper injection site
 5. Inject the medicine subcutaneously
 
@@ -3895,7 +3902,7 @@ If you have questions about how to give Winrevair the right way or need more inf
 
 <!-- image -->
 
-How to use this product
+## How to use this product
 
 Before injecting, make sure you read the full instructions in this booklet to get the right dose of medicine.
 
@@ -4434,8 +4441,6 @@ Throw away the dosing syringe and used items in a sharps disposal container.
 
 Do not remove the needle from the dosing syringe
 
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
 
 ## How to throw away Winrevair
@@ -4703,7 +4708,11 @@ Common (may affect up to 1 in 10 people):
 - High blood pressure
 - Redness of the skin
 - Itching at the injection site
-- An infection in the urinary tract (kidney, bladder or urethra) that may cause lower back or belly pain and burning during urination.
+- An infection in the urinary tract (kidney, bladder or urethra) that may cause lower back or belly pain and burning during urination
+
+Uncommon (may affect up to 1 in 100 people):
+
+- Intrapulmonary shunting (a condition where blood bypasses the normal route through the lungs that can result in less oxygen delivery to the body)
 
 Not known (frequency cannot be estimated from the available data)
 
@@ -4806,7 +4815,7 @@ hungary\\_msd@merck.com
 
 MSD Danmark ApS
 
-Tlf.: + 45 4482 4000
+Tlf.: +45 4482 4000
 
 dkmail@msd.com
 
@@ -4818,7 +4827,7 @@ Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558) malta\\_in
 
 MSD Sharp &amp; Dohme GmbH
 
-Tel: +49 (0) 89 20 300 4500
+Tel.: +49 (0) 89 20 300 4500
 
 medinfo@msd.de
 
@@ -4850,9 +4859,7 @@ dpoc\\_greece@merck.com
 
 Merck Sharp &amp; Dohme de España, S.A.
 
-Tel: +34 91 321 06 00
-
-msd\\_info@merck.com
+Tel: +34 91 321 06 00 msd\\_info@msd.com
 
 ## France
 
@@ -4870,7 +4877,7 @@ Merck Sharp &amp; Dohme Ireland (Human Health) Limited Tel: +353 (0)1 2998700 me
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: + 354 535 7000
 
@@ -4936,9 +4943,7 @@ inform\\_pt@merck.com
 
 Merck Sharp &amp; Dohme Romania S.R.L.
 
-Tel: +40 21 529 29 00
-
-msdromania@merck.com
+Tel: +40 21 529 29 00 msdromania@merck.com
 
 ## Slovenija
 
@@ -5004,17 +5009,3 @@ Winrevair is to be administered as a single subcutaneous injection.
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 See section 4.4 of the Summary of Product Characteristics for instructions on the traceability of biological medicinal products.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## CONCLUSIONS ON THE REQUEST FOR ONE-YEAR MARKETING PROTECTION PRESENTED BY THE EUROPEAN MEDICINES AGENCY
-
-<div style=\"page-break-after: always\"></div>
-
-## Conclusions presented by the European Medicines Agency on:
-
-## · one-year marketing protection
-
-The CHMP reviewed the data submitted by the marketing authorisation holder, taking into account the provisions of Article 14(11) of Regulation (EC) No 726/2004, and considers that the new therapeutic indication brings significant clinical benef it in comparison with existing therapies as further explained in the European Public Assessment Report.

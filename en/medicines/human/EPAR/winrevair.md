@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-11 15:00:00
+document_datetime: 2026-04-01 14:26:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/winrevair.html
 document_name: winrevair.html
 version: success
-processing_time: 0.135018
-conversion_datetime: 2026-03-13 19:04:46.287178
+processing_time: 0.0718279
+conversion_datetime: 2026-04-05 12:34:43.7349
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.79.0
-  docling-core: 2.69.0
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Winrevair
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-sotatercept Medicine Human Authorised
+sotatercept
+
+Medicine Human Authorised
 
 Page contents
 
@@ -114,9 +116,7 @@ Reference Number: EMADOC-1829012207-38767
 
 English (EN) (124.47 KB - PDF)
 
-**First published:** 25/09/2024
-
-**Last updated:** 11/03/2026
+**First published:** 25/09/2024 **Last updated:** 11/03/2026
 
 [View](/en/documents/overview/winrevair-epar-medicine-overview_en.pdf)
 
@@ -124,9 +124,7 @@ Winrevair : EPAR - Risk management plan
 
 English (EN) (855.3 KB - PDF)
 
-**First published:** 25/09/2024
-
-**Last updated:** 09/03/2026
+**First published:** 25/09/2024 **Last updated:** 09/03/2026
 
 [View](/en/documents/rmp/winrevair-epar-risk-management-plan_en.pdf)
 
@@ -134,305 +132,161 @@ English (EN) (855.3 KB - PDF)
 
 Winrevair : EPAR - Product information
 
-English (EN) (3.13 MB - PDF)
+English (EN) (3.08 MB - PDF)
 
-**First published:** 25/09/2024
-
-**Last updated:** 09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/en/documents/product-information/winrevair-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-316)
+[Other languages (24)](#file-language-dropdown-924)
 
-български (BG) (3.08 MB - PDF)
+български (BG) (4.87 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/bg/documents/product-information/winrevair-epar-product-information_bg.pdf)
 
-español (ES) (3.2 MB - PDF)
+español (ES) (3.25 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/es/documents/product-information/winrevair-epar-product-information_es.pdf)
 
-čeština (CS) (3.22 MB - PDF)
+čeština (CS) (4.49 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/cs/documents/product-information/winrevair-epar-product-information_cs.pdf)
 
-dansk (DA) (3.25 MB - PDF)
+dansk (DA) (3.49 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/da/documents/product-information/winrevair-epar-product-information_da.pdf)
 
-Deutsch (DE) (4.14 MB - PDF)
+Deutsch (DE) (4.1 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/de/documents/product-information/winrevair-epar-product-information_de.pdf)
 
-eesti keel (ET) (3 MB - PDF)
+eesti keel (ET) (3.18 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/et/documents/product-information/winrevair-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.13 MB - PDF)
+ελληνικά (EL) (4.55 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/el/documents/product-information/winrevair-epar-product-information_el.pdf)
 
-français (FR) (3.26 MB - PDF)
+français (FR) (4.1 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/fr/documents/product-information/winrevair-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.98 MB - PDF)
+hrvatski (HR) (3.77 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/hr/documents/product-information/winrevair-epar-product-information_hr.pdf)
 
-íslenska (IS) (3.01 MB - PDF)
+íslenska (IS) (3.13 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/is/documents/product-information/winrevair-epar-product-information_is.pdf)
 
-italiano (IT) (3.13 MB - PDF)
+italiano (IT) (3.44 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/it/documents/product-information/winrevair-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (3.51 MB - PDF)
+latviešu valoda (LV) (5.15 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/lv/documents/product-information/winrevair-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.98 MB - PDF)
+lietuvių kalba (LT) (3.79 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/lt/documents/product-information/winrevair-epar-product-information_lt.pdf)
 
-magyar (HU) (3.29 MB - PDF)
+magyar (HU) (4.23 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/hu/documents/product-information/winrevair-epar-product-information_hu.pdf)
 
-Malti (MT) (3.46 MB - PDF)
+Malti (MT) (5.09 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/mt/documents/product-information/winrevair-epar-product-information_mt.pdf)
 
-Nederlands (NL) (3.77 MB - PDF)
+Nederlands (NL) (4.2 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/nl/documents/product-information/winrevair-epar-product-information_nl.pdf)
 
-norsk (NO) (3 MB - PDF)
+norsk (NO) (3.02 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/no/documents/product-information/winrevair-epar-product-information_no.pdf)
 
-polski (PL) (4.03 MB - PDF)
+polski (PL) (5.35 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/pl/documents/product-information/winrevair-epar-product-information_pl.pdf)
 
-português (PT) (3.12 MB - PDF)
+português (PT) (3.17 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/pt/documents/product-information/winrevair-epar-product-information_pt.pdf)
 
-română (RO) (2.94 MB - PDF)
+română (RO) (3.63 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/ro/documents/product-information/winrevair-epar-product-information_ro.pdf)
 
-slovenčina (SK) (3.01 MB - PDF)
+slovenčina (SK) (4.07 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/sk/documents/product-information/winrevair-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.84 MB - PDF)
+slovenščina (SL) (4.07 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/sl/documents/product-information/winrevair-epar-product-information_sl.pdf)
 
-Suomi (FI) (3.11 MB - PDF)
+Suomi (FI) (3.46 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/fi/documents/product-information/winrevair-epar-product-information_fi.pdf)
 
-svenska (SV) (3.16 MB - PDF)
+svenska (SV) (3.25 MB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-09/03/2026
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/sv/documents/product-information/winrevair-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000278021 19/01/2026
+**Latest procedure affecting product information:** VR/0000335114
+
+24/03/2026
 
 icon globe
 
@@ -456,203 +310,173 @@ English (EN) (22.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-678)
+[Other languages (24)](#file-language-dropdown-21)
 
 български (BG) (25.24 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/bg/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (26.01 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/es/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (29.62 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/cs/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (18.14 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/da/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (20.91 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/de/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (22.95 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/et/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (26.06 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/el/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (20.55 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/fr/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (27.22 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/hr/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (18.8 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/is/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (17.88 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/it/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (28.7 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/lv/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (25.39 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/lt/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (28.23 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/hu/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (23.41 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/mt/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (22.99 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/nl/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (17.89 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/no/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (27.41 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/pl/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (20.27 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/pt/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (26.11 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/ro/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (29.25 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/sk/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (25.58 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/sl/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (23.61 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/fi/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (18.15 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/sv/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Winrevair Active substance sotatercept International non-proprietary name (INN) or common name sotatercept Therapeutic area (MeSH) Hypertension, Pulmonary Anatomical therapeutic chemical (ATC) code C02KX06
+Name of medicine
+
+Winrevair
+
+Active substance
+
+sotatercept
+
+International non-proprietary name (INN) or common name
+
+sotatercept
+
+Therapeutic area (MeSH)
+
+Hypertension, Pulmonary
+
+Anatomical therapeutic chemical (ATC) code
+
+C02KX06
 
 ### Pharmacotherapeutic group
 
@@ -664,7 +488,9 @@ Winrevair, in combination with other pulmonary arterial hypertension (PAH) thera
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005647
+EMA product number
+
+EMEA/H/C/005647
 
 Additional monitoring
 
@@ -684,7 +510,17 @@ Merck Sharp &amp; Dohme B.V.
 
 Waarderweg 39
 
-Opinion adopted 27/06/2024 Marketing authorisation issued 22/08/2024 Revision 2
+Opinion adopted
+
+27/06/2024
+
+Marketing authorisation issued
+
+22/08/2024
+
+Revision
+
+3
 
 ## Assessment history
 
@@ -696,19 +532,15 @@ Collapse section
 
 Winrevair : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (162.51 KB - PDF)
+English (EN) (172.09 KB - PDF)
 
-**First published:** 28/03/2025
-
-**Last updated:** 09/03/2026
+**First published:** 28/03/2025 **Last updated:** 01/04/2026
 
 [View](/en/documents/procedural-steps-after/winrevair-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Winrevair-VR-0000278021 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2692691
+Adopted Reference Number: EMADOC-1700519818-2692691
 
 English (EN) (4.96 MB - PDF)
 
@@ -718,11 +550,9 @@ English (EN) (4.96 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Winrevair (EMA/VR/0000278021)
 
-Adopted
+Adopted Reference Number: EMADOC-1700519818-2692693
 
-Reference Number: EMADOC-1700519818-2692693
-
-English (EN) (138.88 KB - PDF)
+English (EN) (139.05 KB - PDF)
 
 **First published:** 12/12/2025
 
@@ -732,9 +562,7 @@ English (EN) (138.88 KB - PDF)
 
 Winrevair : Orphan maintenance assessment report - Initial authorisation
 
-Adopted
-
-Reference Number: EMA/OD/0000157014
+Adopted Reference Number: EMA/OD/0000157014
 
 English (EN) (987.47 KB - PDF)
 
@@ -744,9 +572,7 @@ English (EN) (987.47 KB - PDF)
 
 Winrevair : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/330301/2024
+Adopted Reference Number: EMA/330301/2024
 
 English (EN) (8.34 MB - PDF)
 
@@ -756,9 +582,7 @@ English (EN) (8.34 MB - PDF)
 
 CHMP summary of positive opinion for Winrevair
 
-Adopted
-
-Reference Number: EMA/CHMP/289588/2024
+Adopted Reference Number: EMA/CHMP/289588/2024
 
 English (EN) (156.35 KB - PDF)
 
@@ -768,18 +592,24 @@ English (EN) (156.35 KB - PDF)
 
 ## News on Winrevair
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025) 12/12/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024) 28/06/2024
+12/12/2025
 
-[Positive CHMP opinion on first-in-class medicine to treat pulmonary arterial hypertension](/en/news/positive-chmp-opinion-first-class-medicine-treat-pulmonary-arterial-hypertension) 28/06/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024)
+
+28/06/2024
+
+[Positive CHMP opinion on first-in-class medicine to treat pulmonary arterial hypertension](/en/news/positive-chmp-opinion-first-class-medicine-treat-pulmonary-arterial-hypertension)
+
+28/06/2024
 
 ## More information on Winrevair
 
 - [EU/3/20/2369 - orphan designation for treatment of pulmonary arterial hypertension](/en/medicines/human/orphan-designations/eu-3-20-2369)
 
-**This page was last updated on** 11/03/2026
+**This page was last updated on**
+
+01/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-03 11:06:00
-document_pages: 34
+document_datetime: 2026-04-01 17:48:11
+document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ryzneuta-epar-product-information_en.pdf
 document_name: ryzneuta-epar-product-information_en.pdf
 version: success
-processing_time: 8.0150228
-conversion_datetime: 2025-12-23 23:21:23.492829
+processing_time: 8.8406979
+conversion_datetime: 2026-04-05 12:26:02.929734
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -64,9 +64,9 @@ Ryzneuta therapy should be initiated and supervised by physicians experienced in
 
 One 20 mg dose (a single pre-filled syringe) of Ryzneuta is recommended for each chemotherapy cycle, given at least 24 hours after cytotoxic chemotherapy.
 
-## Special populations
-
 <div style=\"page-break-after: always\"></div>
+
+## Special populations
 
 ## Renal impairment
 
@@ -232,23 +232,23 @@ The safety of efbemalenograstim alfa has been evaluated based on the results fro
 
 Table 1. List of adverse reactions
 
-| MedDRA system organ class                            | Adverse reactions    | Adverse reactions                                                                                                  | Adverse reactions                                                                                                                                                                                               |
-|------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MedDRA system organ class                            | Very common (≥ 1/10) | Common (≥ 1/100 to < 1/10)                                                                                         | Uncommon (≥ 1/1 000 to < 1/100)                                                                                                                                                                                 |
-| Infections and infestations                          |                      |                                                                                                                    | Herpes infection 2                                                                                                                                                                                              |
-| Blood and lymphatic system disorders                 |                      |                                                                                                                    | Leukopenia, Neutropenia, Thrombocytopenia, Anaemia, Splenomegaly                                                                                                                                                |
-| Metabolism and nutrition disorders                   |                      |                                                                                                                    | Hyperglycaemia, Decreased appetite                                                                                                                                                                              |
-| Nervous system disorders                             |                      | Headache 1                                                                                                         | Dizziness, Taste disorder 2 , Muscle spasticity, Peripheral neuropathy 2 , Somnolence                                                                                                                           |
-| Eye disorders                                        |                      |                                                                                                                    | Lacrimation increased                                                                                                                                                                                           |
-| Ear and labyrinth disorders                          |                      | Vertigo 1                                                                                                          |                                                                                                                                                                                                                 |
-| Cardiac disorders                                    |                      |                                                                                                                    | Tachycardia, Palpitations                                                                                                                                                                                       |
-| Vascular disorders                                   |                      |                                                                                                                    | Vasculitis, Hot flush                                                                                                                                                                                           |
-| Respiratory, thoracic and mediastinal disorders      |                      |                                                                                                                    | Pulmonary oedema, Epistaxis, Oropharyngeal pain, Cough, Dyspnoea, Nasal dryness                                                                                                                                 |
-| Gastrointestinal disorders                           |                      | Nausea 1 , Diarrhoea 1 , Vomiting 1                                                                                | Stomatitis, Dry mouth, Dyspepsia, Abdominal pain, Dysphagia                                                                                                                                                     |
-| Skin and subcutaneous tissue disorders               |                      |                                                                                                                    | Alopecia, Urticaria 1 , Dermatitis allergic, Rash, Dermatitis, Erythema, Toxic skin eruption, Rash maculo- papular, Pruritus, Eczema, Dry skin, Skin disorder, Angioedema, Cold sweat, Night sweats, Onychalgia |
-| Musculoskeletal and connective tissue disorders      | Bone pain            | Back pain, Arthralgia, Pain in extremity                                                                           | Myalgia, Osteoarthropathy, Musculoskeletal discomfort, Neck pain                                                                                                                                                |
-| General disorders and administration site conditions |                      | Asthenia 1 , Fatigue 1 , Pyrexia 1                                                                                 | Injection site reactions 2 , Peripheral swelling, Chills, Thirst                                                                                                                                                |
-| Investigations                                       |                      | White blood cell count increased 1 , Alanine aminotransferase increased 1 , Aspartate aminotransferase increased 1 | Neutrophil count increased, Blood creatinine increased, Gamma-glutamyltransferase increased, Weight increased                                                                                                   |
+| MedDRA system organ class                            | Adverse reactions     | Adverse reactions                                                                                                  | Adverse reactions                                                                                                                                                                                               |
+|------------------------------------------------------|-----------------------|--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| MedDRA system organ class                            | Very common ( ≥ 1/10) | Common ( ≥ 1/100 to < 1/10)                                                                                        | Uncommon ( ≥ 1/1 000 to < 1/100)                                                                                                                                                                                |
+| Infections and infestations                          |                       |                                                                                                                    | Herpes infection 2                                                                                                                                                                                              |
+| Blood and lymphatic system disorders                 |                       |                                                                                                                    | Leukopenia, Neutropenia, Thrombocytopenia, Anaemia, Splenomegaly                                                                                                                                                |
+| Metabolism and nutrition disorders                   |                       |                                                                                                                    | Hyperglycaemia, Decreased appetite                                                                                                                                                                              |
+| Nervous system disorders                             |                       | Headache 1                                                                                                         | Dizziness, Taste disorder 2 , Muscle spasticity, Peripheral neuropathy 2 , Somnolence                                                                                                                           |
+| Eye disorders                                        |                       |                                                                                                                    | Lacrimation increased                                                                                                                                                                                           |
+| Ear and labyrinth disorders                          |                       | Vertigo 1                                                                                                          |                                                                                                                                                                                                                 |
+| Cardiac disorders                                    |                       |                                                                                                                    | Tachycardia, Palpitations                                                                                                                                                                                       |
+| Vascular disorders                                   |                       |                                                                                                                    | Vasculitis, Hot flush                                                                                                                                                                                           |
+| Respiratory, thoracic and mediastinal disorders      |                       |                                                                                                                    | Pulmonary oedema, Epistaxis, Oropharyngeal pain, Cough, Dyspnoea, Nasal dryness                                                                                                                                 |
+| Gastrointestinal disorders                           |                       | Nausea 1 , Diarrhoea 1 , Vomiting 1                                                                                | Stomatitis, Dry mouth, Dyspepsia, Abdominal pain, Dysphagia                                                                                                                                                     |
+| Skin and subcutaneous tissue disorders               |                       |                                                                                                                    | Alopecia, Urticaria 1 , Dermatitis allergic, Rash, Dermatitis, Erythema, Toxic skin eruption, Rash maculo- papular, Pruritus, Eczema, Dry skin, Skin disorder, Angioedema, Cold sweat, Night sweats, Onychalgia |
+| Musculoskeletal and connective tissue disorders      | Bone pain             | Back pain, Arthralgia, Pain in extremity                                                                           | Myalgia, Osteoarthropathy, Musculoskeletal discomfort, Neck pain                                                                                                                                                |
+| General disorders and administration site conditions |                       | Asthenia 1 , Fatigue 1 , Pyrexia 1                                                                                 | Injection site reactions 2 , Peripheral swelling, Chills, Thirst                                                                                                                                                |
+| Investigations                                       |                       | White blood cell count increased 1 , Alanine aminotransferase increased 1 , Aspartate aminotransferase increased 1 | Neutrophil count increased, Blood creatinine increased, Gamma-glutamyltransferase increased, Weight increased                                                                                                   |
 
 The frequency category was estimated from a statistical calculation based upon 488 patients receiving Ryzneuta in four clinical trials.
 
@@ -318,11 +318,11 @@ Two additional randomised, active-controlled studies compared efbemalenograstim 
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Ryzneuta in one or more subsets of the paediatric population in the treatment of chemotherapy-induced neutropenia (see section 4.2 for information on paediatric use).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
-
-<div style=\"page-break-after: always\"></div>
 
 After subcutaneous injection of efbemalenograstim alfa, the peak serum concentration of efbemalenograstim alfa occurs at 36 hours [min-max: 6-96 hours] after dosing and serum concentrations of efbemalenograstim alfa are maintained during the period of neutropenia after myelosuppressive chemotherapy.
 
@@ -342,13 +342,13 @@ Efbemalenograstim alfa appears to be mainly eliminated by neutrophil-mediated cl
 
 Efbemalenograstim alfa exhibited non-linearity and time-dependent pharmacokinetics over the dose range of 30 to 360 mcg/kg.
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 1. Profile of median efbemalenograstim alfa serum concentration and Absolute Neutrophil Count (ANC) in chemotherapy treated patients after a single 320 mcg/kg injection
 
 <!-- image -->
 
 Due to the neutrophil-mediated clearance mechanism, the pharmacokinetics of efbemalenograstim alfa is not expected to be affected by renal or hepatic impairment (see section 4.2).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Elderly
 
@@ -364,6 +364,8 @@ Preclinical data from conventional studies of repeated dose toxicity revealed th
 
 There were no adverse events observed in offspring from pregnant rats or rabbits given efbemalenograstim alfa subcutaneously at cumulative doses approximately 2.6 and 0.7 times, respectively, the recommended human dose. Similar studies of other G-CSF products in rabbits have shown embryo/foetal toxicity (embryo loss) at cumulative doses approximately 4 times the recommended human dose, which were not seen when pregnant rabbits were exposed to the recommended human dose. Studies in rats indicated that reproductive performance, fertility, oestrous cycling, days between pairing and coitus, and intrauterine survival were unaffected by efbemalenograstim alfa given subcutaneously. The relevance of these findings for humans is not known.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.  PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
@@ -376,7 +378,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-3 years.
+4 years.
 
 ## 6.4 Special precautions for storage
 
@@ -388,11 +390,7 @@ Do not freeze. Accidental exposure to freezing temperatures for a single period 
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
-6.5
-
-Nature and contents of container
+## 6.5 Nature and contents of container
 
 Pre-filled syringe (Type I glass), with a rubber stopper, stainless steel needle and needle cap.
 
@@ -402,9 +400,7 @@ Each pre-filled syringe contains 1 mL of solution for injection.
 
 Pack size of one pre-filled syringe.
 
-6.6
-
-Special precautions for disposal and other handling
+## 6.6 Special precautions for disposal and other handling
 
 Before use, Ryzneuta solution should be inspected visually for particulate matter. Only a solution that is clear and colourless should be injected
 
@@ -414,37 +410,23 @@ Allow the pre-filled syringe to reach room temperature for approximately 30 minu
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-7.  MARKETING AUTHORISATION HOLDER
+<div style=\"page-break-after: always\"></div>
 
-Evive Biotechnology Ireland LTD
+## 7.  MARKETING AUTHORISATION HOLDER
 
-20 Kildare Street
+Evive Biotechnology Ireland LTD 20 Kildare Street Dublin 2 D02 T3V7 Ireland
 
-Dublin 2
-
-D02 T3V7
-
-Ireland
-
-8.
-
-MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/24/1793/001
 
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 21 March 2024
 
-10.  DATE OF REVISION OF THE TEXT
+## 10.  DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency http://www.ema.europa.eu.
-
-13
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -522,7 +504,7 @@ Excipients: sodium acetate trihydrate, glacial acetic acid, sorbitol (E420), pol
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 1 pre-filled syringe
 
@@ -552,9 +534,7 @@ Keep the pre-filled syringe in the outer carton in order to protect from light. 
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.                                                                 | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS       |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
-| ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE | ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -563,11 +543,9 @@ Keep the pre-filled syringe in the outer carton in order to protect from light. 
 
 Evive Biotechnology Ireland LTD
 
-20 Kildare Street Dublin 2 D02 T3V7
+20 Kildare Street Dublin 2 D02 T3V7 Ireland
 
-Ireland
-
-12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/24/1793/001
 
@@ -589,7 +567,9 @@ Ryzneuta
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -705,9 +685,9 @@ Ryzneuta works by helping your bone marrow make more white blood cells that help
 
 - -if you are allergic to efbemalenograstim alfa or any of the other ingredients of this medicine (listed in section 6).
 
-Do not use Ryzneuta if this applies to you. If you are not sure, talk to your doctor, pharmacist or nurse before using Ryzneuta.
-
 <div style=\"page-break-after: always\"></div>
+
+Do not use Ryzneuta if this applies to you. If you are not sure, talk to your doctor, pharmacist or nurse before using Ryzneuta.
 
 ## Warnings and precautions
 
@@ -754,9 +734,9 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before using this medicine.
 
-## Pregnancy
-
 <div style=\"page-break-after: always\"></div>
+
+## Pregnancy
 
 It is not recommended to use Ryzneuta during pregnancy. There might be a risk to your unborn baby. If you think you may be pregnant or are planning to have a baby, ask your doctor for advice before using this medicine.
 
@@ -810,9 +790,9 @@ If you are injecting yourself and have forgotten your dose of Ryzneuta, you shou
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
-## 4. Possible side effects
-
 <div style=\"page-break-after: always\"></div>
+
+## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Tell your doctor if you experience these symptoms.
 
@@ -827,11 +807,11 @@ Tell your doctor or nurse right away and get medical help immediately if you dev
 
 ## Other side effects
 
-## Very common side effects (may affect more than 1 in 10 people)
+Very common side effects (may affect more than 1 in 10 people)
 
 - -bone pain
 
-## Common side effects (may affect up to 1 in 10 people)
+Common side effects (may affect up to 1 in 10 people)
 
 - -pain in back, joints, limbs
 - -feeling sick (nausea)
@@ -862,12 +842,12 @@ Tell your doctor or nurse right away and get medical help immediately if you dev
 - -vasculitis (inflammation of the blood vessels in the skin)
 - -dry nose, nose bleeding
 - -pain in mouth or throat
-- -cough
-- -difficulty breathing
-- -inflammation of the mucous membrane of the mouth (stomatitis)
 
 <div style=\"page-break-after: always\"></div>
 
+- -cough
+- -difficulty breathing
+- -inflammation of the mucous membrane of the mouth (stomatitis)
 - -dry mouth
 - -problems with digestion (e.g. heartburn)
 - -abdominal (belly) pain
@@ -919,11 +899,9 @@ Do not use this medicine after the expiry date which is stated on the carton and
 
 Store in a refrigerator (2 °C - 8 °C).
 
-You may take Ryzneuta out of the refrigerator and keep it at room temperature (not above 30 °C) for no longer than 2 days. Once Ryzneuta has been removed from the refrigerator and has reached room temperature (not above 30 °C), it must either be used within 2 days or disposed of.
-
 <div style=\"page-break-after: always\"></div>
 
-Do not freeze. Ryzneuta may be used if it is accidentally frozen for a single period of less than 24 hours.
+You may take Ryzneuta out of the refrigerator and keep it at room temperature (not above 30 °C) for no longer than 2 days. Once Ryzneuta has been removed from the refrigerator and has reached room temperature (not above 30 °C), it must either be used within 2 days or disposed of. Do not freeze. Ryzneuta may be used if it is accidentally frozen for a single period of less than 24 hours.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
@@ -952,21 +930,21 @@ Evive Biotechnology Ireland LTD 20 Kildare Street Dublin 2 D02 T3V7, Ireland
 
 ## Manufacturer
 
-Catalent Germany Schorndorf GmbH Steinbeisstrasse 1-2,
-
-D-73614 Schorndorf, Germany
+Catalent Germany Schorndorf GmbH Steinbeisstrasse 1-2, D-73614 Schorndorf, Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## Deutschland
+Deutschland APOGEPHA Arzneimittel GmbH
 
-APOGEPHA Arzneimittel GmbH Kyffhäuserstr. 27 D-01309 Dresden
+Kyffhäuserstr. 27 D-01309 Dresden
 
 Telefon: +49 351 3363-3
 
 Telefax: +49 351 3363-440
 
 E-Mail: info@apogepha.de
+
+<div style=\"page-break-after: always\"></div>
 
 ## Österreich
 
@@ -978,11 +956,11 @@ Fax: +43 (1) 979 2540
 
 E-Mail: office@astropharma.at
 
-## This leaflet was last revised in Other sources of information
+## This leaflet was last revised in
+
+## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -1040,7 +1018,8 @@ It is important that you do not try to give yourself the injection unless you ha
 
 ## Preparing Ryzneuta for injection
 
-- 1 Remove Ryzneuta carton from the fridge.
+- 1
+- Remove Ryzneuta carton from the fridge.
 
 Remove the syringe tray from the carton and place it on a clean, flat work surface.
 
@@ -1103,40 +1082,6 @@ If you want to use the same injection area (such as thigh or arm), make sure it 
 
 <div style=\"page-break-after: always\"></div>
 
-- 6 Wash your hands thoroughly with soap and water.
-
-Clean the injection site with an alcohol wipe. Let the skin dry.
-
-- × Do not fan or blow on clean skin.
-- × Do not touch this area again before injecting.
-
-## Injecting Ryzneuta
-
-- 7
-- 8
-
-9
-
-Hold the prefilled syringe by the syringe safety device. Carefully pull the grey needle cap straight off and away from the body.
-
-Keep your hands away from the needle at all times.
-
-- × Do not twist or bend the grey needle cap.
-- × Do not hold the prefilled syringe by the plunger rod.
-- × Do not put the grey needle cap back onto the prefilled syringe .
-
-Dispose of (throw away) the grey needle cap in the regular trash or in a sharps disposal container.
-
-Pinch the injection site to create a firm surface.
-
-- Hold the pinch. Insert the needle into the skin at 45 to 90 degrees.
-
-Important: Keep skin pinched while injecting, to avoid intramuscular injection, and do not touch the injection site.
-
-Using slow and constant pressure, push the blue plunger rod until it reaches the bottom.
-
-- The plunger rod must be pushed fully to inject the full dose.
-
 <!-- image -->
 
 <!-- image -->
@@ -1144,6 +1089,13 @@ Using slow and constant pressure, push the blue plunger rod until it reaches the
 <!-- image -->
 
 <!-- image -->
+
+| 6                  | Wash your hands thoroughly with soap and water. Clean the injection site with an alcohol wipe. Let the skin dry. × Do not fan or blow on clean skin. × Do not touch this area again before injecting.                                                                                                                                                                                                                                                          |                    |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| Injecting Ryzneuta | Injecting Ryzneuta                                                                                                                                                                                                                                                                                                                                                                                                                                             | Injecting Ryzneuta |
+| 7                  | Hold the prefilled syringe by the syringe safety device. Carefully pull the grey needle cap straight off and away from the body. Keep your hands away from the needle at all times. × Do not twist or bend the grey needle cap. × Do not hold the prefilled syringe by the plunger rod. × Do not put the grey needle cap back onto the prefilled syringe . Dispose of (throw away) the grey needle cap in the regular trash or in a sharps disposal container. |                    |
+| 8                  | Pinch the injection site to create a firm surface. • Hold the pinch. Insert the needle into the skin at 45 to 90 degrees. Important: Keep skin pinched while injecting, to avoid intramuscular injection, and do not touch the injection site.                                                                                                                                                                                                                 |                    |
+| 9                  | Using slow and constant pressure, push the blue plunger rod until it reaches the bottom. • The plunger rod must be pushed fully to inject the full dose.                                                                                                                                                                                                                                                                                                       |                    |
 
 <div style=\"page-break-after: always\"></div>
 

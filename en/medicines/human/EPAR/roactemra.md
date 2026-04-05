@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:31:27
+document_datetime: 2026-04-01 17:04:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/roactemra.html
 document_name: roactemra.html
 version: success
-processing_time: 0.1662335
-conversion_datetime: 2025-12-30 22:18:09.09513
+processing_time: 0.1783453
+conversion_datetime: 2026-04-05 12:21:55.211139
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # RoActemra
 
 [RSS](/en/individual-human-medicine.xml/65592)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-tocilizumab Medicine Human Authorised
+tocilizumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -38,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on RoActemra](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-84994)
 - [External links](#external-links-477)
 - [More information on RoActemra](#related-medicines)
 - [Topics](#topics)
@@ -147,285 +148,149 @@ Reference Number: EMA/712748/2021
 
 English (EN) (160.53 KB - PDF)
 
-**First published:** 18/02/2009
-
-**Last updated:** 10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/en/documents/overview/roactemra-epar-medicines-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-888)
+[Other languages (22)](#file-language-dropdown-55)
 
 български (BG) (140.06 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/bg/documents/overview/roactemra-epar-medicines-overview_bg.pdf)
 
 español (ES) (113.45 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/es/documents/overview/roactemra-epar-medicines-overview_es.pdf)
 
 čeština (CS) (134.94 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/cs/documents/overview/roactemra-epar-medicines-overview_cs.pdf)
 
 dansk (DA) (111.48 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/da/documents/overview/roactemra-epar-medicines-overview_da.pdf)
 
 Deutsch (DE) (113.79 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/de/documents/overview/roactemra-epar-medicines-overview_de.pdf)
 
 eesti keel (ET) (109.77 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/et/documents/overview/roactemra-epar-medicines-overview_et.pdf)
 
 ελληνικά (EL) (146.82 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/el/documents/overview/roactemra-epar-medicines-overview_el.pdf)
 
 français (FR) (114.5 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/fr/documents/overview/roactemra-epar-medicines-overview_fr.pdf)
 
 hrvatski (HR) (128.51 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/hr/documents/overview/roactemra-epar-medicines-overview_hr.pdf)
 
 italiano (IT) (113.3 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/it/documents/overview/roactemra-epar-medicines-overview_it.pdf)
 
 latviešu valoda (LV) (137.62 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/lv/documents/overview/roactemra-epar-medicines-overview_lv.pdf)
 
 lietuvių kalba (LT) (133.24 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/lt/documents/overview/roactemra-epar-medicines-overview_lt.pdf)
 
 magyar (HU) (130.04 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/hu/documents/overview/roactemra-epar-medicines-overview_hu.pdf)
 
 Malti (MT) (143.66 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/mt/documents/overview/roactemra-epar-medicines-overview_mt.pdf)
 
 Nederlands (NL) (113.38 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/nl/documents/overview/roactemra-epar-medicines-overview_nl.pdf)
 
 polski (PL) (134.7 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/pl/documents/overview/roactemra-epar-medicines-overview_pl.pdf)
 
 português (PT) (113.31 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/pt/documents/overview/roactemra-epar-medicines-overview_pt.pdf)
 
 română (RO) (133.26 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/ro/documents/overview/roactemra-epar-medicines-overview_ro.pdf)
 
 slovenčina (SK) (132.08 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/sk/documents/overview/roactemra-epar-medicines-overview_sk.pdf)
 
 slovenščina (SL) (128.43 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/sl/documents/overview/roactemra-epar-medicines-overview_sl.pdf)
 
 Suomi (FI) (112.72 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/fi/documents/overview/roactemra-epar-medicines-overview_fi.pdf)
 
 svenska (SV) (112.28 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-10/12/2021
+**First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/sv/documents/overview/roactemra-epar-medicines-overview_sv.pdf)
 
 RoActemra : EPAR - Risk-management-plan
 
-English (EN) (4.41 MB - PDF)
+English (EN) (4.85 MB - PDF)
 
-**First published:** 28/11/2018
-
-**Last updated:** 26/06/2024
+**First published:** 28/11/2018 **Last updated:** 01/04/2026
 
 [View](/en/documents/rmp/roactemra-epar-risk-management-plan_en.pdf)
 
@@ -433,305 +298,161 @@ English (EN) (4.41 MB - PDF)
 
 RoActemra : EPAR - Product Information
 
-English (EN) (2.12 MB - PDF)
+English (EN) (832.35 KB - PDF)
 
-**First published:** 08/01/2010
-
-**Last updated:** 06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/en/documents/product-information/roactemra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-956)
+[Other languages (24)](#file-language-dropdown-475)
 
 български (BG) (2.78 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/bg/documents/product-information/roactemra-epar-product-information_bg.pdf)
 
-español (ES) (2.54 MB - PDF)
+español (ES) (2.42 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/es/documents/product-information/roactemra-epar-product-information_es.pdf)
 
-čeština (CS) (2.86 MB - PDF)
+čeština (CS) (2.94 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/cs/documents/product-information/roactemra-epar-product-information_cs.pdf)
 
-dansk (DA) (2.5 MB - PDF)
+dansk (DA) (2.27 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/da/documents/product-information/roactemra-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.09 MB - PDF)
+Deutsch (DE) (2.88 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/de/documents/product-information/roactemra-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.41 MB - PDF)
+eesti keel (ET) (2.58 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/et/documents/product-information/roactemra-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.71 MB - PDF)
+ελληνικά (EL) (3.04 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/el/documents/product-information/roactemra-epar-product-information_el.pdf)
 
 français (FR) (2.57 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/fr/documents/product-information/roactemra-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.52 MB - PDF)
+hrvatski (HR) (2.67 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/hr/documents/product-information/roactemra-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.58 MB - PDF)
+íslenska (IS) (2.74 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/is/documents/product-information/roactemra-epar-product-information_is.pdf)
 
-italiano (IT) (2.36 MB - PDF)
+italiano (IT) (2.35 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/it/documents/product-information/roactemra-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.95 MB - PDF)
+latviešu valoda (LV) (3.04 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/lv/documents/product-information/roactemra-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.78 MB - PDF)
+lietuvių kalba (LT) (2.79 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/lt/documents/product-information/roactemra-epar-product-information_lt.pdf)
 
-magyar (HU) (3.55 MB - PDF)
+magyar (HU) (3.58 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/hu/documents/product-information/roactemra-epar-product-information_hu.pdf)
 
-Malti (MT) (2.86 MB - PDF)
+Malti (MT) (2.92 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/mt/documents/product-information/roactemra-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.42 MB - PDF)
+Nederlands (NL) (2.49 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/nl/documents/product-information/roactemra-epar-product-information_nl.pdf)
 
-norsk (NO) (2.24 MB - PDF)
+norsk (NO) (2.25 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/no/documents/product-information/roactemra-epar-product-information_no.pdf)
 
-polski (PL) (2.96 MB - PDF)
+polski (PL) (3.22 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/pl/documents/product-information/roactemra-epar-product-information_pl.pdf)
 
-português (PT) (2.48 MB - PDF)
+português (PT) (2.49 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/pt/documents/product-information/roactemra-epar-product-information_pt.pdf)
 
-română (RO) (2.71 MB - PDF)
+română (RO) (2.75 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/ro/documents/product-information/roactemra-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.89 MB - PDF)
+slovenčina (SK) (2.69 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/sk/documents/product-information/roactemra-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.73 MB - PDF)
+slovenščina (SL) (2.85 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/sl/documents/product-information/roactemra-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.78 MB - PDF)
+Suomi (FI) (2.67 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/fi/documents/product-information/roactemra-epar-product-information_fi.pdf)
 
-svenska (SV) (2.41 MB - PDF)
+svenska (SV) (2.54 MB - PDF)
 
-**First published:**
-
-08/01/2010
-
-**Last updated:**
-
-06/05/2025
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/sv/documents/product-information/roactemra-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000254616 29/04/2025
+**Latest procedure affecting product information:** VR/0000261482
+
+12/02/2026
 
 icon globe
 
@@ -751,299 +472,153 @@ RoActemra : EPAR - All Authorised presentations
 
 English (EN) (19.85 KB - PDF)
 
-**First published:** 18/02/2009
-
-**Last updated:** 16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/en/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-638)
+[Other languages (24)](#file-language-dropdown-9)
 
 български (BG) (49.48 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/bg/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (24.39 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/es/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (40.44 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/cs/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (43.99 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/da/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (18.28 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/de/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (21.03 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/et/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (50.22 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/el/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (47.42 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/fr/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (38.63 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/hr/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (19.99 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/is/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (54.22 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/it/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (43.36 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/lv/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (41.49 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/lt/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (59.65 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/hu/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (62.36 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/mt/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (18.8 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/nl/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (19.45 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/no/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (43.44 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/pl/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (51.98 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/pt/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (40.13 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/ro/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (38.13 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/sk/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (31.73 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/sl/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (47.22 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/fi/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (20.71 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-16/10/2023
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/sv/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_sv.pdf)
 
@@ -1051,293 +626,165 @@ RoActemra : EPAR - Conditions imposed on member states for safe and effective us
 
 English (EN) (26.83 KB - PDF)
 
-**First published:** 18/02/2009
-
-**Last updated:** 30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/en/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-922)
+[Other languages (23)](#file-language-dropdown-563)
 
 български (BG) (76.81 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/bg/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_bg.pdf)
 
 español (ES) (25.54 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/es/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_es.pdf)
 
 čeština (CS) (50.39 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/cs/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_cs.pdf)
 
 dansk (DA) (27.5 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/da/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_da.pdf)
 
 Deutsch (DE) (23.64 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/de/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_de.pdf)
 
 eesti keel (ET) (24.01 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/et/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_et.pdf)
 
 ελληνικά (EL) (75.29 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/el/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_el.pdf)
 
 français (FR) (24.06 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/fr/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fr.pdf)
 
 íslenska (IS) (24.14 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/is/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_is.pdf)
 
 italiano (IT) (27.34 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/it/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_it.pdf)
 
 latviešu valoda (LV) (62.73 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/lv/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lv.pdf)
 
 lietuvių kalba (LT) (57.81 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/lt/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lt.pdf)
 
 magyar (HU) (40.11 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/hu/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_hu.pdf)
 
 Malti (MT) (57.52 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/mt/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_mt.pdf)
 
 Nederlands (NL) (16.14 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/nl/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_nl.pdf)
 
 norsk (NO) (25.66 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/no/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_no.pdf)
 
 polski (PL) (61.32 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/pl/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_pl.pdf)
 
 português (PT) (24.41 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/pt/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_pt.pdf)
 
 română (RO) (57.36 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/ro/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_ro.pdf)
 
 slovenčina (SK) (56.5 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/sk/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sk.pdf)
 
 slovenščina (SL) (53.69 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/sl/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sl.pdf)
 
 Suomi (FI) (24.1 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/fi/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fi.pdf)
 
 svenska (SV) (23.87 KB - PDF)
 
-**First published:**
-
-18/02/2009
-
-**Last updated:**
-
-30/08/2011
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/sv/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sv.pdf)
 
 ## Product details
 
-Name of medicine RoActemra Active substance tocilizumab International non-proprietary name (INN) or common name tocilizumab Therapeutic area (MeSH)
+Name of medicine
+
+RoActemra
+
+Active substance
+
+tocilizumab
+
+International non-proprietary name (INN) or common name
+
+tocilizumab
+
+Therapeutic area (MeSH)
 
 - Arthritis, Rheumatoid
 - Arthritis, Juvenile Rheumatoid
@@ -1345,7 +792,9 @@ Name of medicine RoActemra Active substance tocilizumab International non-propri
 - Giant Cell Arteritis
 - COVID-19 virus infection
 
-Anatomical therapeutic chemical (ATC) code L04AC07
+Anatomical therapeutic chemical (ATC) code
+
+L04AC07
 
 ### Pharmacotherapeutic group
 
@@ -1392,13 +841,23 @@ RoActemra is indicated for the treatment of chimeric antigen receptor (CAR) T ce
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000955 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000955
+
+Marketing authorisation holder
 
 Roche Registration GmbH
 
 Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
-Marketing authorisation issued 16/01/2009 Revision 48
+Marketing authorisation issued
+
+16/01/2009
+
+Revision
+
+49
 
 ## Assessment history
 
@@ -1410,9 +869,9 @@ Collapse section
 
 RoActemra : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (126.25 KB - PDF)
+English (EN) (163.79 KB - PDF)
 
-**First published:** 06/05/2025
+**First published:** 06/05/2025 **Last updated:** 01/04/2026
 
 [View](/en/documents/procedural-steps-after/roactemra-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1420,17 +879,13 @@ RoActemra : EPAR - Procedural steps taken and scientific information after autho
 
 English (EN) (301.81 KB - PDF)
 
-**First published:** 08/01/2010
-
-**Last updated:** 03/04/2025
+**First published:** 08/01/2010 **Last updated:** 03/04/2025
 
 [View](/en/documents/procedural-steps-after/roactemra-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 RoActemra-H-C-000955-P46-064 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/437255/2024
+Adopted Reference Number: EMA/CHMP/437255/2024
 
 English (EN) (449.9 KB - PDF)
 
@@ -1440,9 +895,7 @@ English (EN) (449.9 KB - PDF)
 
 RoActemra-H-C-000955-P46-062 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/727498/2022
+Adopted Reference Number: EMA/727498/2022
 
 English (EN) (1.39 MB - PDF)
 
@@ -1452,9 +905,7 @@ English (EN) (1.39 MB - PDF)
 
 RoActemra-H-C-955-II-0101 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/733881/2021
+Adopted Reference Number: EMA/733881/2021
 
 English (EN) (6.92 MB - PDF)
 
@@ -1464,9 +915,7 @@ English (EN) (6.92 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for RoActemra (II-101)
 
-Adopted
-
-Reference Number: EMA/CHMP/683450/2021
+Adopted Reference Number: EMA/CHMP/683450/2021
 
 English (EN) (154.13 KB - PDF)
 
@@ -1476,9 +925,7 @@ English (EN) (154.13 KB - PDF)
 
 RoActemra-H-C-955-II-0097 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/429735/2020
+Adopted Reference Number: EMA/429735/2020
 
 English (EN) (1.02 MB - PDF)
 
@@ -1498,9 +945,7 @@ English (EN) (61.66 KB - PDF)
 
 RoActemra : EPAR - Paediatric investigation plan compliance statement
 
-Adopted
-
-Reference Number: EMA/639048/2018
+Adopted Reference Number: EMA/639048/2018
 
 English (EN) (69.26 KB - PDF)
 
@@ -1510,9 +955,7 @@ English (EN) (69.26 KB - PDF)
 
 RoActemra-H-C-955-II-0076 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/742879/2018
+Adopted Reference Number: EMA/742879/2018
 
 English (EN) (3.79 MB - PDF)
 
@@ -1522,57 +965,41 @@ English (EN) (3.79 MB - PDF)
 
 RoActemra-H-C-955-II-0078 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/491183/2018
+Adopted Reference Number: EMA/491183/2018
 
 English (EN) (2.36 MB - PDF)
 
-**First published:** 12/10/2018
-
-**Last updated:** 12/10/2018
+**First published:** 12/10/2018 **Last updated:** 12/10/2018
 
 [View](/en/documents/variation-report/roactemra-h-c-955-ii-0078-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for RoActemra II-76
 
-Adopted
-
-Reference Number: EMA/CHMP/517697/2018
+Adopted Reference Number: EMA/CHMP/517697/2018
 
 English (EN) (77.36 KB - PDF)
 
-**First published:** 21/09/2018
-
-**Last updated:** 21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-roactemra-ii-76_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for RoActemra
 
-Adopted
-
-Reference Number: EMA/CHMP/419360/2018
+Adopted Reference Number: EMA/CHMP/419360/2018
 
 English (EN) (76.57 KB - PDF)
 
-**First published:** 29/06/2018
-
-**Last updated:** 29/06/2018
+**First published:** 29/06/2018 **Last updated:** 29/06/2018
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-roactemra_en.pdf-3)
 
 RoActemra-H-C-955-II-0072 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/188997/2018
+Adopted Reference Number: EMA/188997/2018
 
 English (EN) (3.56 MB - PDF)
 
-**First published:** 30/05/2018
-
-**Last updated:** 30/05/2018
+**First published:** 30/05/2018 **Last updated:** 30/05/2018
 
 [View](/en/documents/variation-report/roactemra-h-c-955-ii-0072-epar-assessment-report-variation_en.pdf)
 
@@ -1582,9 +1009,7 @@ Reference Number: EMA/562609/2017
 
 English (EN) (3.53 MB - PDF)
 
-**First published:** 29/09/2017
-
-**Last updated:** 29/09/2017
+**First published:** 29/09/2017 **Last updated:** 29/09/2017
 
 [View](/en/documents/variation-report/roactemra-h-c-955-ii-0066-epar-assessment-report-variation_en.pdf)
 
@@ -1594,65 +1019,47 @@ Reference Number: EMA/CHMP/431293/2017
 
 English (EN) (70.96 KB - PDF)
 
-**First published:** 21/07/2017
-
-**Last updated:** 21/07/2017
+**First published:** 21/07/2017 **Last updated:** 21/07/2017
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-roactemra-ii-66_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for RoActemra (II/57)
 
-Adopted
-
-Reference Number: EMA/CHMP/420471/2016
+Adopted Reference Number: EMA/CHMP/420471/2016
 
 English (EN) (73.02 KB - PDF)
 
-**First published:** 24/06/2016
-
-**Last updated:** 24/06/2016
+**First published:** 24/06/2016 **Last updated:** 24/06/2016
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-roactemra-ii57_en.pdf)
 
 RoActemra-H-C-955-II-0032 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/552413/2014
+Adopted Reference Number: EMA/552413/2014
 
 English (EN) (3.74 MB - PDF)
 
-**First published:** 29/09/2014
-
-**Last updated:** 29/09/2014
+**First published:** 29/09/2014 **Last updated:** 29/09/2014
 
 [View](/en/documents/variation-report/roactemra-h-c-955-ii-0032-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for RoActemra
 
-Adopted
-
-Reference Number: EMA/CHMP/437831/2014
+Adopted Reference Number: EMA/CHMP/437831/2014
 
 English (EN) (74.32 KB - PDF)
 
-**First published:** 25/07/2014
-
-**Last updated:** 25/07/2014
+**First published:** 25/07/2014 **Last updated:** 25/07/2014
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-roactemra_en.pdf-0)
 
 RoActemra-H-C-955-X-0030 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/606295/2013
+Adopted Reference Number: EMA/CHMP/606295/2013
 
 English (EN) (6.4 MB - PDF)
 
-**First published:** 28/05/2014
-
-**Last updated:** 28/05/2014
+**First published:** 28/05/2014 **Last updated:** 28/05/2014
 
 [View](/en/documents/variation-report/roactemra-h-c-955-x-0030-epar-assessment-report-variation_en.pdf)
 
@@ -1662,23 +1069,17 @@ Reference Number: EMA/393130/2013
 
 English (EN) (2.36 MB - PDF)
 
-**First published:** 03/07/2013
-
-**Last updated:** 03/07/2013
+**First published:** 03/07/2013 **Last updated:** 03/07/2013
 
 [View](/en/documents/variation-report/roactemra-h-c-955-ii-0026-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for RoActemra
 
-Adopted
-
-Reference Number: EMA/CHMP/236919/2013
+Adopted Reference Number: EMA/CHMP/236919/2013
 
 English (EN) (70.53 KB - PDF)
 
-**First published:** 26/04/2013
-
-**Last updated:** 26/04/2013
+**First published:** 26/04/2013 **Last updated:** 26/04/2013
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-roactemra_en.pdf-1)
 
@@ -1688,23 +1089,17 @@ Adopted
 
 English (EN) (1.29 MB - PDF)
 
-**First published:** 30/08/2011
-
-**Last updated:** 30/08/2011
+**First published:** 30/08/2011 **Last updated:** 30/08/2011
 
 [View](/en/documents/variation-report/roactemra-h-c-955-ii-0015-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for RoActemra
 
-Adopted
-
-Reference Number: EMA/CHMP/288328/2011
+Adopted Reference Number: EMA/CHMP/288328/2011
 
 English (EN) (54.51 KB - PDF)
 
-**First published:** 20/05/2011
-
-**Last updated:** 20/05/2011
+**First published:** 20/05/2011 **Last updated:** 20/05/2011
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-roactemra_en.pdf)
 
@@ -1714,9 +1109,7 @@ Adopted
 
 English (EN) (548.04 KB - PDF)
 
-**First published:** 16/07/2010
-
-**Last updated:** 16/07/2010
+**First published:** 16/07/2010 **Last updated:** 16/07/2010
 
 [View](/en/documents/scientific-discussion-variation/roactemra-h-c-955-ii-0007-epar-scientific-discussion-variation_en.pdf)
 
@@ -1726,9 +1119,7 @@ Adopted
 
 English (EN) (50.69 KB - PDF)
 
-**First published:** 23/04/2010
-
-**Last updated:** 23/04/2010
+**First published:** 23/04/2010 **Last updated:** 23/04/2010
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-roactemra_en.pdf-2)
 
@@ -1738,9 +1129,7 @@ RoActemra : EPAR - Public assessment report
 
 English (EN) (847.02 KB - PDF)
 
-**First published:** 18/02/2009
-
-**Last updated:** 18/02/2009
+**First published:** 18/02/2009 **Last updated:** 18/02/2009
 
 [View](/en/documents/assessment-report/roactemra-epar-public-assessment-report_en.pdf)
 
@@ -1750,41 +1139,219 @@ Reference Number: EMEA/CHMP/580914/2008
 
 English (EN) (32.76 KB - PDF)
 
-**First published:** 20/11/2008
-
-**Last updated:** 20/11/2008
+**First published:** 20/11/2008 **Last updated:** 20/11/2008
 
 [View](/en/documents/smop-initial/committee-medicinal-products-human-use-summary-positive-opinion-roactemra_en.pdf)
 
-#### News on RoActemra
+## News on RoActemra
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 October 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-october-2023) 13/10/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 October 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-october-2023)
 
-[EMA recommends approval for use of RoActemra in adults with severe COVID-19](/en/news/ema-recommends-approval-use-roactemra-adults-severe-covid-19) 06/12/2021
+13/10/2023
 
-[EMA starts evaluating use of RoActemra in hospitalised adults with severe COVID-19](/en/news/ema-starts-evaluating-use-roactemra-hospitalised-adults-severe-covid-19) 16/08/2021
+[EMA recommends approval for use of RoActemra in adults with severe COVID-19](/en/news/ema-recommends-approval-use-roactemra-adults-severe-covid-19)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2018) 21/09/2018
+06/12/2021
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 June 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-june-2018) 29/06/2018
+[EMA starts evaluating use of RoActemra in hospitalised adults with severe COVID-19](/en/news/ema-starts-evaluating-use-roactemra-hospitalised-adults-severe-covid-19)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2017) 21/07/2017
+16/08/2021
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 June 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-june-2016) 24/06/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2018)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2014) 25/07/2014
+21/09/2018
 
-[European Medicines Agency finalises review of medicines concerned by Roche pharmacovigilance inspection](/en/news/european-medicines-agency-finalises-review-medicines-concerned-roche-pharmacovigilance-inspection) 19/11/2013
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 June 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-june-2018)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2013) 26/04/2013
+29/06/2018
 
-[European Medicines Agency starts infringement procedure to investigate Roche's alleged non-compliance with pharmacovigilance obligations](/en/news/european-medicines-agency-starts-infringement-procedure-investigate-roches-alleged-non-compliance-pharmacovigilance-obligations) 23/10/2012
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2017)
 
-#### External links
+21/07/2017
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 June 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-june-2016)
+
+24/06/2016
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2014)
+
+25/07/2014
+
+[European Medicines Agency finalises review of medicines concerned by Roche pharmacovigilance inspection](/en/news/european-medicines-agency-finalises-review-medicines-concerned-roche-pharmacovigilance-inspection)
+
+19/11/2013
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2013)
+
+26/04/2013
+
+[European Medicines Agency starts infringement procedure to investigate Roche's alleged non-compliance with pharmacovigilance obligations](/en/news/european-medicines-agency-starts-infringement-procedure-investigate-roches-alleged-non-compliance-pharmacovigilance-obligations)
+
+23/10/2012
+
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+RoActemra : EPAR - Product information - tracked changes
+
+English (EN) (1.64 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/en/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-635)
+
+български (BG) (1.81 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/bg/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (1.57 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/es/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (2.1 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/cs/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (1.84 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/da/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (3.34 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/de/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (1.72 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/et/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (1.84 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/el/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (2.01 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/fr/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (1.74 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/hr/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (2.33 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/is/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (1.54 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/it/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (1.95 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/lv/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (2.08 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/lt/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (3.34 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/hu/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (1.73 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/mt/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (2.84 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/nl/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (1.38 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/no/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (2.04 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/pl/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (2.04 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/pt/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (1.66 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/ro/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (1.62 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/sk/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (2.41 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/sl/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (1.81 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/fi/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (2.06 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/sv/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_sv.docx)
+
+## External links
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC000955II0057) (variation II/0057)
 
-#### More information on RoActemra
+## More information on RoActemra
 
 - [EMEA-000309-PIP01-08-M07 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000309-pip01-08-m07)
 - [EMEA-000309-PIP02-14 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000309-pip02-14)
@@ -1798,13 +1365,13 @@ English (EN) (32.76 KB - PDF)
 - [RoActemra - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/roactemra)
 - [OBSERVATIONAL SAFETY AND EFFECTIVENESS STUDY OF PATIENTS WITH POLYARTICULAR JUVENILE IDIOPATHIC ARTHRITIS TREATED WITH TOCILIZUMAB - post-authorisation study](https://catalogues.ema.europa.eu/study/49484)
 
-#### Topics
+## Topics
 
 - [COVID-19](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61132)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 06/05/2025
+**This page was last updated on**
+
+01/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

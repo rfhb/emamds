@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-12 12:12:42
+document_datetime: 2026-04-01 11:36:35
 document_pages: 185
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/eliquis-epar-product-information_en.pdf
 document_name: eliquis-epar-product-information_en.pdf
 version: success
-processing_time: 72.987278
-conversion_datetime: 2026-03-13 19:25:05.998839
+processing_time: 66.3753152
+conversion_datetime: 2026-04-05 12:34:28.651262
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.79.0
-  docling-core: 2.69.0
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -1153,7 +1153,7 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-Alu-PVC/PVdC blisters. Cartons of 10, 20, 56, 60, 168 and 200 film-coated tablets.
+Alu-PVC/PVdC blisters. Cartons of 10, 20, 60, 168 and 200 film-coated tablets.
 
 Alu PVC/PVdC perforated unit dose blisters of 60x1 and 100x1 film-coated tablets.
 
@@ -1172,8 +1172,6 @@ Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/11/691/001 EU/1/11/691/002 EU/1/11/691/003 EU/1/11/691/004 EU/1/11/691/005 EU/1/11/691/013 EU/1/11/691/015
-
-EU/1/11/691/020
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -3861,12 +3859,7 @@ An updated RMP should be submitted:
 
 ## · Additional risk minimisation measures
 
-The MAH shall ensure that in each Member State where Eliquis is marketed, all healthcare professionals who are expected to prescribe Eliquis have access to/are provided with the following educational materials:
-
-- Summary of Product Characteristics
-- Patient Cards
-
-All patients and/or caregivers of paediatric patients who receive Eliquis shall be provided with a Patient Card (provided within each medicine pack).
+The MAH shall ensure that in each Member State where Eliquis is marketed, all prescribing Health Care Professionals, patients and/or caregivers of paediatric patients who receive Eliquis have access to the Patient Card (provided within each medicine pack).
 
 Key Elements of the Patient Card:
 
@@ -3909,7 +3902,6 @@ Contains lactose and sodium. See leaflet for further information.
 
 - 10 film-coated tablets
 - 20 film-coated tablets
-- 56 film coated tablets
 - 60 film-coated tablets
 - 60 x 1 film-coated tablets
 - 100 x 1 film-coated tablets
@@ -3960,15 +3952,13 @@ EU/1/11/691/013
 
 EU/1/11/691/015
 
-EU/1/11/691/020
-
 ## 13. BATCH NUMBER
 
 Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -5095,7 +5085,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The film-coated tablets are yellow, round (diameter of 6 mm) and marked with '893' on one side and '2½' on the other side.
 
-- -They come in blisters in cartons of 10, 20, 56, 60, 168 and 200 film-coated tablets.
+- -They come in blisters in cartons of 10, 20, 60, 168 and 200 film-coated tablets.
 - -Unit dose blisters in cartons of 60x1 and 100x1 film-coated tablets for delivery in hospitals are also available.
 
 Not all pack sizes may be marketed.

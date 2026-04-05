@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-23 12:57:26
-document_pages: 31
+document_datetime: 2026-04-01 14:13:55
+document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/beyfortus-epar-product-information_en.pdf
 document_name: beyfortus-epar-product-information_en.pdf
 version: success
-processing_time: 7.2412297
-conversion_datetime: 2026-02-25 11:53:35.046805
+processing_time: 7.9797786
+conversion_datetime: 2026-04-05 12:35:04.529869
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -40,7 +40,7 @@ Beyfortus 100 mg solution for injection in pre-filled syringe
 
 Each pre-filled syringe contains 100 mg of nirsevimab in 1 mL (100 mg/mL).
 
-Nirsevimab is a human immunoglobulin G1 kappa (IgG1κ) monoclonal antibody produced in Chinese hamster ovary (CHO) cells by recombinant DNA technology.
+Nirsevimab is a human immunoglobulin G1 kappa (IgG1 κ ) monoclonal antibody produced in Chinese hamster ovary (CHO) cells by recombinant DNA technology.
 
 ## Excipients with known effect
 
@@ -73,7 +73,7 @@ Beyfortus should be used in accordance with official recommendations.
 
 ## Infants during their first RSV season
 
-The recommended dose is a single dose of 50 mg administered intramuscularly for infants with body weight &lt;5 kg and a single dose of 100 mg administered intramuscularly for infants with body weight ≥5 kg.
+The recommended dose is a single dose of 50 mg administered intramuscularly for infants with body weight &lt;5 kg and a single dose of 100 mg administered intramuscularly for infants with body weight ≥ 5 kg.
 
 Beyfortus should be administered from birth for infants born during the RSV season. For others born outside the season Beyfortus should be administered ideally prior to the RSV season.
 
@@ -119,7 +119,7 @@ As with any other intramuscular injections, nirsevimab should be given with caut
 
 ## Immunocompromised children
 
-In some  immunocompromised children with protein-losing conditions, a high clearance of nirsevimab has been observed in clinical trials (see section 5.2), and nirsevimab may not provide the same level of protection in those individuals.
+In some immunocompromised children with protein-losing conditions, a high clearance of nirsevimab has been observed in clinical trials (see section 5.2), and nirsevimab may not provide the same level of protection in those individuals.
 
 ## Polysorbate 80 (E433)
 
@@ -157,9 +157,9 @@ The most frequent adverse reaction was rash (0.7%) occurring within 14 days post
 
 ## Tabulated list of adverse reactions
 
-Table 1 presents the adverse reactions reported in 2 966 term and preterm infants (GA ≥29 weeks) who received nirsevimab in clinical trials, and in post-marketing setting (see section 4.4).
+Table 1 presents the adverse reactions reported in 2 966 term and preterm infants (GA ≥ 29 weeks) who received nirsevimab in clinical trials, and in post-marketing setting (see section 4.4).
 
-Adverse reactions reported from controlled clinical trials are classified by MedDRA System Organ Class (SOC). Within each SOC, preferred terms are arranged by decreasing frequency and then by decreasing seriousness. Frequencies of occurrence of adverse reactions are defined as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000) and not known (cannot be estimated from available data).
+Adverse reactions reported from controlled clinical trials are classified by MedDRA System Organ Class (SOC). Within each SOC, preferred terms are arranged by decreasing frequency and then by decreasing seriousness. Frequencies of occurrence of adverse reactions are defined as: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1 000 to &lt;1/100); rare ( ≥ 1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000) and not known (cannot be estimated from available data).
 
 Table 1: Adverse reactions
 
@@ -172,23 +172,23 @@ Table 1: Adverse reactions
 
 ## Infants at higher risk for severe RSV disease in their first season
 
-Safety was evaluated in MEDLEY in 918 infants at higher risk for severe RSV disease, including 196 extremely preterm infants (GA &lt;29 weeks) and 306 infants with chronic lung disease of prematurity, or haemodynamically significant congenital heart disease entering their first RSV season, who received nirsevimab (n=614) or palivizumab (n=304). The safety profile of nirsevimab in infants who received nirsevimab in their first RSV season was comparable to the palivizumab comparator and consistent with the safety profile of nirsevimab in term and preterm infants GA ≥29 weeks (D5290C00003 and MELODY).
+Safety was evaluated in MEDLEY in 918 infants at higher risk for severe RSV disease, including 196 extremely preterm infants (GA &lt;29 weeks) and 306 infants with chronic lung disease of prematurity, or haemodynamically significant congenital heart disease entering their first RSV season, who received nirsevimab (n=614) or palivizumab (n=304). The safety profile of nirsevimab in infants who received nirsevimab in their first RSV season was comparable to the palivizumab comparator and consistent with the safety profile of nirsevimab in term and preterm infants GA ≥ 29 weeks (D5290C00003 and MELODY).
 
-## Infants who remain vulnerable to severe RSV disease in their second season
+## Children who remain vulnerable to severe RSV disease in their second season
 
-Safety was evaluated in MEDLEY in 220 children with chronic lung disease of prematurity or haemodynamically significant congenital heart disease who received nirsevimab or palivizumab in their first RSV season and went on to receive nirsevimab entering their second RSV season (180 subjects received nirsevimab in both Season 1 and 2, 40 received palivizumab in Season 1 and nirsevimab in Season 2). The safety profile of nirsevimab in children who received nirsevimab in their second RSV season was consistent with the safety profile of nirsevimab in term and preterm infants GA ≥29 weeks (D5290C00003 and MELODY).
-
-Safety was also evaluated in MUSIC, an open label, uncontrolled, single dose trial in 100 immunocompromised infants and children ≤ 24 months, who received nirsevimab in their first or
+Safety was evaluated in MEDLEY in 220 children with chronic lung disease of prematurity or haemodynamically significant congenital heart disease who received nirsevimab or palivizumab in their first RSV season and went on to receive nirsevimab entering their second RSV season (180 subjects received nirsevimab in both Season 1 and 2, 40 received palivizumab in Season 1 and nirsevimab in Season 2). The safety profile of nirsevimab in children who received nirsevimab in their
 
 <div style=\"page-break-after: always\"></div>
 
-second RSV season. This included subjects with at least one of the following conditions: immunodeficiency (combined, antibody, or other etiology) (n=33); systemic high-dose corticosteroid therapy (n=29); organ or bone marrow transplantation (n=16); receiving immunosuppressive chemotherapy (n=20); other immunosuppressive therapy (n=15), and HIV infection (n=8). The safety profile of nirsevimab was consistent with that expected for a population of immunocompromised children and with the safety profile of nirsevimab in term and preterm infants GA ≥29 weeks (D5290C00003 and MELODY).
+second RSV season was consistent with the safety profile of nirsevimab in term and preterm infants GA ≥ 29 weeks (D5290C00003 and MELODY).
+
+Safety was also evaluated in MUSIC, an open label, uncontrolled, single dose trial in 100 immunocompromised infants and children ≤ 24 months, who received nirsevimab in their first or second RSV season. This included subjects with at least one of the following conditions: immunodeficiency (combined, antibody, or other etiology) (n=33); systemic high-dose corticosteroid therapy (n=29); organ or bone marrow transplantation (n=16); receiving immunosuppressive chemotherapy (n=20); other immunosuppressive therapy (n=15), and HIV infection (n=8). The safety profile of nirsevimab was consistent with that expected for a population of immunocompromised children and with the safety profile of nirsevimab in term and preterm infants GA ≥ 29 weeks (D5290C00003 and MELODY).
 
 The safety profile of nirsevimab in children during their second RSV season was consistent with the safety profile of nirsevimab observed during their first RSV season.
 
 ## Term and Preterm Infants entering their first RSV season
 
-Safety of nirsevimab was also evaluated in HARMONIE, a randomised open-label multicentre trial in 8 034 term and preterm infants (GA ≥29 weeks) entering their first RSV season (not eligible for palivizumab), who received nirsevimab (n=4 016) or no intervention (n=4 018) for the prevention of RSV LRTI hospitalisation. The safety profile of nirsevimab administered in the first RSV season was consistent with the safety profile of nirsevimab in the placebo-controlled trials (D5290C00003 and MELODY).
+Safety of nirsevimab was also evaluated in HARMONIE, a randomised open-label multicentre trial in 8 034 term and preterm infants (GA ≥ 29 weeks) entering their first RSV season (not eligible for palivizumab), who received nirsevimab (n=4 016) or no intervention (n=4 018) for the prevention of respiratory syncytial virus lower respiratory tract infection (RSV LRTI) hospitalisation. The safety profile of nirsevimab administered in the first RSV season was consistent with the safety profile of nirsevimab in the placebo-controlled trials (D5290C00003 and MELODY).
 
 ## Reporting of suspected adverse reactions
 
@@ -206,19 +206,17 @@ Pharmacotherapeutic group: Immune sera and immunoglobulins, antiviral monoclonal
 
 ## Mechanism of action
 
-Nirsevimab is a recombinant neutralising human IgG1ĸ long-acting monoclonal antibody to the prefusion conformation of the RSV F protein which has been modified with a triple amino acid substitution (YTE) in the Fc region to extend serum half-life. Nirsevimab binds to a highly conserved epitope in antigenic site Ø on the prefusion protein with dissociation constants KD = 0.12 nM and KD = 1.22 nM for RSV subtype A and B strains, respectively. Nirsevimab inhibits the essential membrane fusion step in the viral entry process, neutralising the virus and blocking cell-to-cell fusion.
+Nirsevimab is a recombinant neutralising human IgG1 ĸ long-acting monoclonal antibody to the prefusion conformation of the RSV F protein which has been modified with a triple amino acid substitution (YTE) in the Fc region to extend serum half-life. Nirsevimab binds to a highly conserved epitope in antigenic site Ø on the prefusion protein with dissociation constants KD = 0.12 nM and KD = 1.22 nM for RSV subtype A and B strains, respectively. Nirsevimab inhibits the essential membrane fusion step in the viral entry process, neutralising the virus and blocking cell-to-cell fusion.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Pharmacodynamic effects
 
 ## Antiviral activity
 
-The cell culture neutralisation activity of nirsevimab against RSV was measured in a dose-response model using cultured Hep-2 cells. Nirsevimab neutralised RSV A and RSV B isolates with median
+The cell culture neutralisation activity of nirsevimab against RSV was measured in a dose-response model using cultured Hep-2 cells. Nirsevimab neutralised RSV A and RSV B isolates with median EC50 values of 3.2 ng/mL (range 0.48 to 15 ng/mL) and 2.9 ng/mL (range 0.3 to 59.7 ng/mL), respectively. The clinical RSV isolates (70 RSV A and 49 RSV B) were collected between 2003 and 2017 from subjects across the United States, Australia, Netherlands, Italy, China and Israel and encoded the most common RSV F sequence polymorphisms found among circulating strains.
 
-<div style=\"page-break-after: always\"></div>
-
-EC50 values of 3.2 ng/mL (range 0.48 to 15 ng/mL) and 2.9 ng/mL (range 0.3 to 59.7 ng/mL), respectively. The clinical RSV isolates (70 RSV A and 49 RSV B) were collected between 2003 and 2017 from subjects across the United States, Australia, Netherlands, Italy, China and Israel and encoded the most common RSV F sequence polymorphisms found among circulating strains.
-
-Nirsevimab demonstrated in vitro binding to immobilised human FcγRs (FcγRI, FcγRIIA, FcγRIIB, and FcγRIII) and equivalent neutralising activity compared to parental monoclonal antibodies, IG7 and IG7-TM (Fc region modified to reduce FcR binding and effector function). In a cotton rat model of RSV infection, IG7 and IG7-TM exhibited comparable dose-dependent reduction in RSV replication in the lungs and nasal turbinates, strongly suggesting that protection from RSV infection is dependent on nirsevimab neutralisation activity rather than Fc-mediated effector function.
+Nirsevimab demonstrated in vitro binding to immobilised human Fc γ Rs (Fc γ RI, Fc γ RIIA, Fc γ RIIB, and Fc γ RIII) and equivalent neutralising activity compared to parental monoclonal antibodies, IG7 and IG7-TM (Fc region modified to reduce FcR binding and effector function). In a cotton rat model of RSV infection, IG7 and IG7-TM exhibited comparable dose-dependent reduction in RSV replication in the lungs and nasal turbinates, strongly suggesting that protection from RSV infection is dependent on nirsevimab neutralisation activity rather than Fc-mediated effector function.
 
 ## Antiviral resistance
 
@@ -238,83 +236,83 @@ Nirsevimab retained activity against recombinant RSV harbouring palivizumab resi
 
 Anti-drug antibodies (ADA) were commonly detected.
 
-The employed immunogenicity assay has limitations in detecting ADAs at early onset (prior to Day 361) in the presence of high concentrations of drug, therefore, the incidence of ADA might not have been conclusively determined. The impact on clearance of nirsevimab is uncertain. Subjects who were
+The employed immunogenicity assay has limitations in detecting ADAs at early onset (prior to Day 361) in the presence of high concentrations of drug, therefore, the incidence of ADA might not have
 
 <div style=\"page-break-after: always\"></div>
 
-ADA positive at Day 361 had reduced nirsevimab concentrations at Day 361 compared to subjects who received nirsevimab and were ADA-negative.
+been conclusively determined. The impact on clearance of nirsevimab is uncertain. Subjects who were ADA positive at Day 361 had reduced nirsevimab concentrations at Day 361 compared to subjects who received nirsevimab and were ADA-negative.
 
 The impact of ADA on the efficacy of nirsevimab has not been determined. No evidence of ADA impact on safety was observed.
 
 ## Clinical efficacy
 
-The efficacy and safety of nirsevimab were evaluated in two randomised, double-blind, placebo controlled multicentre trials (D5290C00003 [Phase IIb] and MELODY [Phase III]) for the prevention of MA RSV LRTI in term and preterm infants (GA ≥29 weeks) entering their first RSV season. Safety and pharmacokinetics of nirsevimab were also evaluated in a randomised, double-blind, palivizumab-controlled multicentre trial (MEDLEY [Phase II/III]) in infants GA &lt;35 weeks at higher risk for severe RSV disease, including extremely preterm infants (GA &lt;29 weeks) and infants with chronic lung disease of prematurity, or haemodynamically significant congenital heart disease, entering their first RSV season and children with chronic lung disease of prematurity or haemodynamically significant congenital heart disease entering their second RSV season. Safety and pharmacokinetics of nirsevimab were also evaluated in an open-label, uncontrolled, single dose multicentre trial (MUSIC [Phase II]) in immunocompromised infants and children ≤ 24 months of age.
+The efficacy and safety of nirsevimab were evaluated in two randomised, double-blind, placebo controlled multicentre trials (D5290C00003 [Phase IIb] and MELODY [Phase III]) for the prevention of MA RSV LRTI in term and preterm infants (GA ≥ 29 weeks) entering their first RSV season. Safety and pharmacokinetics of nirsevimab were also evaluated in a randomised, double-blind, palivizumab-controlled multicentre trial (MEDLEY [Phase II/III]) in infants GA &lt;35 weeks at higher risk for severe RSV disease, including extremely preterm infants (GA &lt;29 weeks) and infants with chronic lung disease of prematurity, or haemodynamically significant congenital heart disease, entering their first RSV season and children with chronic lung disease of prematurity or haemodynamically significant congenital heart disease entering their second RSV season. Safety and pharmacokinetics of nirsevimab were also evaluated in an open-label, uncontrolled, single dose multicentre trial (MUSIC [Phase II]) in immunocompromised infants and children ≤ 24 months of age.
 
-Efficacy and safety of nirsevimab were also evaluated in one randomised open-label multicentre trial (HARMONIE, Phase IIIb), compared to no intervention, for the prevention of RSV LRTI hospitalisation in term and preterm infants (GA ≥29 weeks) born during or entering their first RSV season (not eligible to palivizumab).
+Efficacy and safety of nirsevimab were also evaluated in one randomised open-label multicentre trial (HARMONIE, Phase IIIb), compared to no intervention, for the prevention of RSV LRTI hospitalisation in term and preterm infants (GA ≥ 29 weeks) born during or entering their first RSV season (not eligible to palivizumab).
 
 ## Efficacy against MA RSV LRTI, MA RSV LRTI hospitalisation, and very severe MA RSV LRTI in term and preterm infants (D5290C00003 and MELODY)
 
-D5290C00003 randomised a total of 1 453 very and moderately preterm infants (GA ≥29 to &lt;35 weeks) entering their first RSV season (2:1) to receive a single intramuscular dose of 50 mg nirsevimab or placebo. At randomisation, 20.3% were GA ≥29 to &lt;32 weeks; 79.7% were GA ≥32 to &lt;35 weeks; 52.4% were male; 72.2% were White; 17.6% were of African origin; 1.0% were Asian; 59.5% weighed &lt;5 kg (17.0% &lt;2.5 kg); 17.3% of infants were ≤1.0 month of age, 35.9% were &gt;1.0 to ≤3.0 months, 32.6% were &gt;3.0 to ≤6.0 months, and 14.2% were &gt;6.0 months.
+D5290C00003 randomised a total of 1 453 very and moderately preterm infants (GA ≥ 29 to &lt;35 weeks) entering their first RSV season (2:1) to receive a single intramuscular dose of 50 mg nirsevimab or placebo. At randomisation, 20.3% were GA ≥ 29 to &lt;32 weeks; 79.7% were GA ≥ 32 to &lt;35 weeks; 52.4% were male; 72.2% were White; 17.6% were of African origin; 1.0% were Asian; 59.5% weighed &lt;5 kg (17.0% &lt;2.5 kg); 17.3% of infants were ≤ 1.0 month of age, 35.9% were &gt;1.0 to ≤ 3.0 months, 32.6% were &gt;3.0 to ≤ 6.0 months, and 14.2% were &gt;6.0 months.
 
-MELODY (Primary cohort) randomised a total of 1 490 term and late preterm infants (GA ≥35 weeks) entering their first RSV season (2:1) to receive a single intramuscular dose of nirsevimab (50 mg nirsevimab if &lt;5 kg weight or 100 mg nirsevimab if ≥5 kg weight at the time of dosing) or placebo. At randomisation, 14.0% were GA ≥35 to &lt;37 weeks; 86.0% were GA ≥37 weeks; 51.6% were male; 53.5% were White; 28.4% were of African origin; 3.6% were Asian; 40.0% weighed &lt;5 kg (2.5% &lt;2.5 kg); 24.5% of infants were ≤1.0 month of age, 33.4% were &gt;1.0 to ≤3.0 months, 32.1% were &gt;3.0 to ≤6.0 months, and 10.0% were &gt;6.0 months.
+MELODY (Primary cohort) randomised a total of 1 490 term and late preterm infants (GA ≥ 35 weeks) entering their first RSV season (2:1) to receive a single intramuscular dose of nirsevimab (50 mg nirsevimab if &lt;5 kg weight or 100 mg nirsevimab if ≥ 5 kg weight at the time of dosing) or placebo. At randomisation, 14.0% were GA ≥ 35 to &lt;37 weeks; 86.0% were GA ≥ 37 weeks; 51.6% were male; 53.5% were White; 28.4% were of African origin; 3.6% were Asian; 40.0% weighed &lt;5 kg (2.5% &lt;2.5 kg); 24.5% of infants were ≤ 1.0 month of age, 33.4% were &gt;1.0 to ≤ 3.0 months, 32.1% were &gt;3.0 to ≤ 6.0 months, and 10.0% were &gt;6.0 months.
 
 The trials excluded infants with a history of chronic lung disease of prematurity/bronchopulmonary dysplasia or haemodynamically significant congenital heart disease (except for infants with uncomplicated congenital heart disease). Demographic and baseline characteristics were comparable between the nirsevimab and placebo group in both trials.
 
-The primary endpoint for D5290C00003 and MELODY (Primary cohort) was the incidence of medically attended lower respiratory tract infection (inclusive of hospitalisation) caused by RT-PCR-confirmed RSV (MA RSV LRTI), characterised predominantly as bronchiolitis or pneumonia, through 150 days after dosing. Signs of LRTI were defined by having one of the following findings at physical examination indicating lower respiratory tract involvement (e.g., rhonchi, rales, crackles, or wheeze); and at least one sign of clinical severity (increased respiratory rate, hypoxemia, acute hypoxic or ventilatory failure, new onset apnoea, nasal flaring, retractions, grunting, or
+The primary endpoint for D5290C00003 and MELODY (Primary cohort) was the incidence of medically attended lower respiratory tract infection (inclusive of hospitalisation) caused by RT-PCR-confirmed RSV (MA RSV LRTI), characterised predominantly as bronchiolitis or pneumonia, through 150 days after dosing. Signs of LRTI were defined by having one of the following findings at physical examination indicating lower respiratory tract involvement (e.g., rhonchi, rales, crackles, or wheeze); and at least one sign of clinical severity (increased respiratory rate, hypoxemia,
 
 <div style=\"page-break-after: always\"></div>
 
-dehydration due to respiratory distress). The secondary endpoint was the incidence of hospitalisation in infants with MA RSV LRTI. RSV hospitalisation was defined as hospitalisation for LRTI with a positive RSV test, or worsening of respiratory status and positive RSV test in an already hospitalised patient. Very severe MA RSV LRTI was also evaluated, defined as MA RSV LRTI with hospitalisation and requirement for supplemental oxygen or intravenous fluids.
+acute hypoxic or ventilatory failure, new onset apnoea, nasal flaring, retractions, grunting, or dehydration due to respiratory distress). The secondary endpoint was the incidence of hospitalisation in infants with MA RSV LRTI. RSV hospitalisation was defined as hospitalisation for LRTI with a positive RSV test, or worsening of respiratory status and positive RSV test in an already hospitalised patient. Very severe MA RSV LRTI was also evaluated, defined as MA RSV LRTI with hospitalisation and requirement for supplemental oxygen or intravenous fluids.
 
-The efficacy of nirsevimab in term and preterm infants (GA ≥29 weeks) entering their first RSV season against MA RSV LRTI, MA RSV LRTI with hospitalisation and very severe MA RSV LRTI are shown in Table 2.
+The efficacy of nirsevimab in term and preterm infants (GA ≥ 29 weeks) entering their first RSV season against MA RSV LRTI, MA RSV LRTI with hospitalisation and very severe MA RSV LRTI are shown in Table 2.
 
 Table 2: Efficacy in term and preterm infants against MA RSV LRTI, MA RSV LRTI with hospitalisation and very severe MA RSV LRTI through 150 days post dose, D5290C00003 and MELODY (Primary cohort)
 
-| Group                                                                                | Treatment                                                                            | N                                                                                    | Incidence %(n)                                                                       | Efficacy a (95% CI)                                                                  |
-|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| Efficacy in infants against MARSVLRTIthrough 150 days post dose                      | Efficacy in infants against MARSVLRTIthrough 150 days post dose                      | Efficacy in infants against MARSVLRTIthrough 150 days post dose                      | Efficacy in infants against MARSVLRTIthrough 150 days post dose                      | Efficacy in infants against MARSVLRTIthrough 150 days post dose                      |
-| Very and moderately preterm GA ≥29 to <35 weeks (D5290C00003) b                      | Nirsevimab                                                                           | 969                                                                                  | 2.6 (25)                                                                             | 70.1% (52.3, 81.2) c                                                                 |
-| Very and moderately preterm GA ≥29 to <35 weeks (D5290C00003) b                      | Placebo                                                                              | 484                                                                                  | 9.5 (46)                                                                             | 70.1% (52.3, 81.2) c                                                                 |
-| Term and late preterm GA≥35 weeks (MELODY Primary cohort)                            | Nirsevimab                                                                           | 994                                                                                  | 1.2 (12)                                                                             | 74.5% (49.6, 87.1) c                                                                 |
-| Term and late preterm GA≥35 weeks (MELODY Primary cohort)                            | Placebo                                                                              | 496                                                                                  | 5.0 (25)                                                                             | 74.5% (49.6, 87.1) c                                                                 |
-| Efficacy in infants against MARSVLRTIwith hospitalisation through 150 days post dose | Efficacy in infants against MARSVLRTIwith hospitalisation through 150 days post dose | Efficacy in infants against MARSVLRTIwith hospitalisation through 150 days post dose | Efficacy in infants against MARSVLRTIwith hospitalisation through 150 days post dose | Efficacy in infants against MARSVLRTIwith hospitalisation through 150 days post dose |
-| Very and moderately preterm GA ≥29 to <35 weeks (D5290C00003) b                      | Nirsevimab                                                                           | 969                                                                                  | 0.8 (8)                                                                              | 78.4% (51.9, 90.3) c                                                                 |
-| Very and moderately preterm GA ≥29 to <35 weeks (D5290C00003) b                      | Placebo                                                                              | 484                                                                                  | 4.1 (20)                                                                             | 78.4% (51.9, 90.3) c                                                                 |
-| Term and late preterm GA≥35 weeks (MELODY Primary cohort)                            | Nirsevimab                                                                           | 994                                                                                  | 0.6 (6)                                                                              | 62.1% (-8.6, 86.8)                                                                   |
-| Term and late preterm GA≥35 weeks (MELODY Primary cohort)                            | Placebo                                                                              | 496                                                                                  | 1.6 (8)                                                                              | 62.1% (-8.6, 86.8)                                                                   |
-| Efficacy in infants against very severe MARSVLRTI through 150 days post dose         | Efficacy in infants against very severe MARSVLRTI through 150 days post dose         | Efficacy in infants against very severe MARSVLRTI through 150 days post dose         | Efficacy in infants against very severe MARSVLRTI through 150 days post dose         | Efficacy in infants against very severe MARSVLRTI through 150 days post dose         |
-| Very and moderately preterm GA ≥29 to <35 weeks (D5290C00003) b                      | Nirsevimab                                                                           | 969                                                                                  | 0.4 (4)                                                                              | 87.5% (62.9, 95.8) d                                                                 |
-| Very and moderately preterm GA ≥29 to <35 weeks (D5290C00003) b                      | Placebo                                                                              | 484                                                                                  | 3.3 (16)                                                                             | 87.5% (62.9, 95.8) d                                                                 |
-| Term and late preterm GA≥35 weeks (MELODY Primary cohort)                            | Nirsevimab                                                                           | 994                                                                                  | 0.5 (5)                                                                              | 64.2% (-12.1, 88.6) d                                                                |
-| Term and late preterm GA≥35 weeks (MELODY Primary cohort)                            | Placebo                                                                              | 496                                                                                  | 1.4 (7)                                                                              | 64.2% (-12.1, 88.6) d                                                                |
+| Group                                                                                 | Treatment                                                                             | N                                                                                     | Incidence %(N)                                                                        | Efficacy a (95% CI)                                                                   |
+|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Efficacy in infants against MARSVLRTI through 150 days post dose                      | Efficacy in infants against MARSVLRTI through 150 days post dose                      | Efficacy in infants against MARSVLRTI through 150 days post dose                      | Efficacy in infants against MARSVLRTI through 150 days post dose                      | Efficacy in infants against MARSVLRTI through 150 days post dose                      |
+| Very and moderately preterm GA ≥ 29 to <35 weeks (D5290C00003) b                      | Nirsevimab                                                                            | 969                                                                                   | 2.6 (25)                                                                              | 70.1% (52.3, 81.2) c                                                                  |
+| Very and moderately preterm GA ≥ 29 to <35 weeks (D5290C00003) b                      | Placebo                                                                               | 484                                                                                   | 9.5 (46)                                                                              | 70.1% (52.3, 81.2) c                                                                  |
+| Term and late preterm GA ≥ 35 weeks (MELODY Primary cohort)                           | Nirsevimab                                                                            | 994                                                                                   | 1.2 (12)                                                                              | 74.5% (49.6, 87.1) c                                                                  |
+| Term and late preterm GA ≥ 35 weeks (MELODY Primary cohort)                           | Placebo                                                                               | 496                                                                                   | 5.0 (25)                                                                              | 74.5% (49.6, 87.1) c                                                                  |
+| Efficacy in infants against MARSVLRTI with hospitalisation through 150 days post dose | Efficacy in infants against MARSVLRTI with hospitalisation through 150 days post dose | Efficacy in infants against MARSVLRTI with hospitalisation through 150 days post dose | Efficacy in infants against MARSVLRTI with hospitalisation through 150 days post dose | Efficacy in infants against MARSVLRTI with hospitalisation through 150 days post dose |
+| Very and moderately preterm GA ≥ 29 to <35 weeks (D5290C00003) b                      | Nirsevimab                                                                            | 969                                                                                   | 0.8 (8)                                                                               | 78.4% (51.9, 90.3) c                                                                  |
+| Very and moderately preterm GA ≥ 29 to <35 weeks (D5290C00003) b                      | Placebo                                                                               | 484                                                                                   | 4.1 (20)                                                                              | 78.4% (51.9, 90.3) c                                                                  |
+| Term and late preterm GA ≥ 35 weeks (MELODY Primary cohort)                           | Nirsevimab                                                                            | 994                                                                                   | 0.6 (6)                                                                               | 62.1% (-8.6, 86.8)                                                                    |
+| Term and late preterm GA ≥ 35 weeks (MELODY Primary cohort)                           | Placebo                                                                               | 496                                                                                   | 1.6 (8)                                                                               | 62.1% (-8.6, 86.8)                                                                    |
+| Efficacy in infants against very severe MARSVLRTI through 150 days post dose          | Efficacy in infants against very severe MARSVLRTI through 150 days post dose          | Efficacy in infants against very severe MARSVLRTI through 150 days post dose          | Efficacy in infants against very severe MARSVLRTI through 150 days post dose          | Efficacy in infants against very severe MARSVLRTI through 150 days post dose          |
+| Very and moderately preterm GA ≥ 29 to <35 weeks (D5290C00003) b                      | Nirsevimab                                                                            | 969                                                                                   | 0.4 (4)                                                                               | 87.5% (62.9, 95.8) d                                                                  |
+| Very and moderately preterm GA ≥ 29 to <35 weeks (D5290C00003) b                      | Placebo                                                                               | 484                                                                                   | 3.3 (16)                                                                              | 87.5% (62.9, 95.8) d                                                                  |
+| Term and late preterm GA ≥ 35 weeks (MELODY Primary cohort)                           | Nirsevimab                                                                            | 994                                                                                   | 0.5 (5)                                                                               | 64.2% (-12.1, 88.6) d                                                                 |
+|                                                                                       | Placebo                                                                               | 496                                                                                   | 1.4 (7)                                                                               | 64.2% (-12.1, 88.6) d                                                                 |
 
 Subgroup analyses of the primary efficacy endpoint by gestational age, gender, race and region showed results were consistent with the overall population.
 
 The severity of breakthrough cases of subjects hospitalised for MA RSV LRTI was assessed. The percentage of subjects who required supplementary oxygen was 44.4% (4/9) vs. 81.0% (17/21), subjects who required continuous positive airway pressure [CPAP]/high flow nasal cannula [HFNC] was 11.1% (1/9) vs. 23.8% (5/21), and 0% (0/9) vs. 28.6% (6/21) subjects were admitted to intensive care unit, for nirsevimab vs. placebo, respectively.
 
-MELODY continued to enrol infants following the primary analysis, and overall, 3 012 infants were randomised to receive Beyfortus (n=2 009) or placebo (n=1 003). Efficacy of nirsevimab against MA RSV LRTI, MA RSV LRTI with hospitalisation, and very severe MA RSV LRTI through 150 days post dose was a relative risk reduction of 76.4% (95% CI 62.3, 85.2), 76.8% (95% CI 49.4, 89.4) and 78.6% (95% CI 48.8, 91.0), respectively.
+MELODY continued to enrol infants following the primary analysis, and overall, 3 012 infants were randomised to receive Beyfortus (n=2 009) or placebo (n=1 003). Efficacy of nirsevimab against MA RSV LRTI, MA RSV LRTI with hospitalisation, and very severe MA RSV LRTI through
 
 <div style=\"page-break-after: always\"></div>
+
+150 days post dose was a relative risk reduction of 76.4% (95% CI 62.3, 85.2), 76.8% (95% CI 49.4, 89.4) and 78.6% (95% CI 48.8, 91.0), respectively.
 
 The rates of MA RSV LRTI events in the second season (day 361 to day 510 post-dose) were similar in both treatment groups [19 (1.0%) nirsevimab recipients and 10 (1.0%) placebo recipients].
 
 ## Efficacy against MA RSV LRTI in infants at higher risk and children who remain vulnerable to severe RSV disease in their second season (MEDLEY and MUSIC)
 
-MEDLEY randomised a total of 925 infants at higher risk for severe RSV disease including infants with chronic lung disease of prematurity or haemodynamically significant congenital heart disease and preterm infants GA &lt;35 weeks, entering their first RSV season. Infants received a single intramuscular dose (2:1) of nirsevimab (50 mg nirsevimab if &lt;5 kg weight or 100 mg nirsevimab if ≥5 kg weight at the time of dosing), followed by 4 once-monthly intramuscular doses of placebo, or 5 once-monthly intramuscular doses of 15 mg/kg palivizumab. At randomisation, 21.6% were GA &lt;29 weeks; 21.5% were GA≥29 to &lt;32 weeks; 41.9% were GA ≥32 to &lt;35 weeks; 14.9% were GA ≥35 weeks. Of these infants 23.5% had chronic lung disease of prematurity; 11.2% had haemodynamically significant congenital heart disease; 53.5% were male; 79.2% were White; 9.5% were of African origin; 5.4% were Asian; 56.5% weighed &lt;5 kg (9.7% were &lt;2.5 kg); 11.4% of infants were ≤1.0 month of age, 33.8% were &gt;1.0 to ≤3.0 months 33.6% were &gt;3.0 months to ≤6.0 months, and 21.2% were &gt;6.0 months.
+MEDLEY randomised a total of 925 infants at higher risk for severe RSV disease including infants with chronic lung disease of prematurity or haemodynamically significant congenital heart disease and preterm infants GA &lt;35 weeks, entering their first RSV season. Infants received a single intramuscular dose (2:1) of nirsevimab (50 mg nirsevimab if &lt;5 kg weight or 100 mg nirsevimab if ≥ 5 kg weight at the time of dosing), followed by 4 once-monthly intramuscular doses of placebo, or 5 once-monthly intramuscular doses of 15 mg/kg palivizumab. At randomisation, 21.6% were GA &lt;29 weeks; 21.5% were GA ≥ 29 to &lt;32 weeks; 41.9% were GA ≥ 32 to &lt;35 weeks; 14.9% were GA ≥ 35 weeks. Of these infants 23.5% had chronic lung disease of prematurity; 11.2% had haemodynamically significant congenital heart disease; 53.5% were male; 79.2% were White; 9.5% were of African origin; 5.4% were Asian; 56.5% weighed &lt;5 kg (9.7% were &lt;2.5 kg); 11.4% of infants were ≤ 1.0 month of age, 33.8% were &gt;1.0 to ≤ 3.0 months 33.6% were &gt;3.0 months to ≤ 6.0 months, and 21.2% were &gt;6.0 months.
 
-Children at higher risk of severe RSV disease with chronic lung disease of prematurity or haemodynamically significant congenital heart disease ≤24 months of age who remain vulnerable continued in the trial for a second RSV season. Subjects who received nirsevimab during their first RSV season received a second single dose of 200 mg nirsevimab entering their second RSV season (n=180) followed by 4 once-monthly intramuscular doses of placebo. Subjects who received palivizumab during their first RSV season were re-randomised 1:1 to either the nirsevimab or the palivizumab group entering their second RSV season. Subjects in the nirsevimab group (n=40) received a single fixed dose of 200 mg followed by 4 once-monthly intramuscular doses of placebo. Subjects in the palivizumab group (n=42) received 5 once-monthly intramuscular doses of 15 mg/kg palivizumab. Of these children 72.1% had chronic lung disease of prematurity, 30.9% had haemodynamically significant congenital heart disease; 57.6% were male; 85.9% were White; 4.6% were of African origin; 5.7% were Asian; and 2.3% weighed &lt;7 kg. Demographic and baseline characteristics were comparable between the nirsevimab/nirsevimab, palivizumab/nirsevimab and palivizumab/palivizumab groups.
+Children at higher risk of severe RSV disease with chronic lung disease of prematurity or haemodynamically significant congenital heart disease ≤ 24 months of age who remain vulnerable continued in the trial for a second RSV season. Subjects who received nirsevimab during their first RSV season received a second single dose of 200 mg nirsevimab entering their second RSV season (n=180) followed by 4 once-monthly intramuscular doses of placebo. Subjects who received palivizumab during their first RSV season were re-randomised 1:1 to either the nirsevimab or the palivizumab group entering their second RSV season. Subjects in the nirsevimab group (n=40) received a single fixed dose of 200 mg followed by 4 once-monthly intramuscular doses of placebo. Subjects in the palivizumab group (n=42) received 5 once-monthly intramuscular doses of 15 mg/kg palivizumab. Of these children 72.1% had chronic lung disease of prematurity, 30.9% had haemodynamically significant congenital heart disease; 57.6% were male; 85.9% were White; 4.6% were of African origin; 5.7% were Asian; and 2.3% weighed &lt;7 kg. Demographic and baseline characteristics were comparable between the nirsevimab/nirsevimab, palivizumab/nirsevimab and palivizumab/palivizumab groups.
 
 The efficacy of nirsevimab in infants at higher risk for severe RSV disease, including extremely preterm infants (GA &lt;29 weeks) entering their first RSV season and children with chronic lung disease of prematurity or haemodynamically significant congenital heart disease ≤ 24 months of age entering their first or second RSV season, is established by extrapolation from the efficacy of nirsevimab in D5290C00003 and MELODY (Primary cohort) based on pharmacokinetic exposure (see section 5.2). In MEDLEY, the incidence of MA RSV LRTI through 150 days post dose was 0.6% (4/616) in the nirsevimab group and 1.0% (3/309) in the palivizumab group in the first RSV season. There were no cases of MA RSV LRTI through 150 days post dose in the second RSV season.
 
-In MUSIC, the efficacy in 100 immunocompromised infants and children ≤24 months who received the recommended dose of nirsevimab is established by extrapolation from the efficacy of nirsevimab in D5290C00003 and MELODY (Primary cohort) based on pharmacokinetic exposure (see section 5.2). There were no cases of MA RSV LRTI through 150 days post dose.
-
-## Efficacy against RSV LRTI hospitalisation in term and pre-term infants (HARMONIE)
-
-HARMONIE randomised a total of 8 058 in term and preterm infants (GA ≥29) born during or entering their first RSV season to receive a single IM dose of nirsevimab (50 mg if &lt;5 kg weight or 100 mg if ≥5 kg weight at the time of dosing) or no intervention. At randomisation, the median age was 4 months (range: 0 to 12 months). 48.6% of infants were aged ≤3 months; 23.7% were aged &gt;3 to ≤6 months; and 27.7% were aged &gt;6 months. Of these infants, 52.1% were male and 47.9% were
+In MUSIC, the efficacy in 100 immunocompromised infants and children ≤ 24 months who received the recommended dose of nirsevimab is established by extrapolation from the efficacy of nirsevimab in D5290C00003 and MELODY (Primary cohort) based on pharmacokinetic exposure (see section 5.2). There were no cases of MA RSV LRTI through 150 days post dose.
 
 <div style=\"page-break-after: always\"></div>
 
-female. Half of the infants were born during the RSV season. Most participants were term infants, with a gestational age at birth of ≥37 weeks (85.2%).
+## Efficacy against RSV LRTI hospitalisation in term and pre-term infants (HARMONIE)
+
+HARMONIE randomised a total of 8 058 in term and preterm infants (GA ≥ 29) born during or entering their first RSV season to receive a single IM dose of nirsevimab (50 mg if &lt;5 kg weight or 100 mg if ≥ 5 kg weight at the time of dosing) or no intervention. At randomisation, the median age was 4 months (range: 0 to 12 months). 48.6% of infants were aged ≤ 3 months; 23.7% were aged &gt;3 to ≤ 6 months; and 27.7% were aged &gt;6 months. Of these infants, 52.1% were male and 47.9% were female. Half of the infants were born during the RSV season. Most participants were term infants, with a gestational age at birth of ≥ 37 weeks (85.2%).
 
 The primary endpoint for HARMONIE was the overall incidence of RSV LRTI hospitalisation through the RSV season in term and preterm infants caused by confirmed RSV infection. The efficacy of nirsevimab in preventing RSV LRTI hospitalisation compared to no intervention was estimated accounting for the follow-up time to emulate use in real world conditions. The median follow-up time of participants was 2.3 months (range: 0 to 7.0 months) in the nirsevimab group and 2.0 months (range: 0 to 6.8 months) in the no intervention group.
 
@@ -338,15 +336,15 @@ The estimated central and peripheral volume of distribution of nirsevimab were 2
 
 ## Biotransformation
 
-Nirsevimab is a human IgG1κ monoclonal antibody that is degraded by proteolytic enzymes widely distributed in the body and not metabolised by hepatic enzymes.
+Nirsevimab is a human IgG1 κ monoclonal antibody that is degraded by proteolytic enzymes widely distributed in the body and not metabolised by hepatic enzymes.
 
 ## Elimination
 
 As a typical monoclonal antibody, nirsevimab is eliminated by intracellular catabolism and there is no evidence of target-mediated clearance at the doses tested clinically.
 
-The estimated clearance of nirsevimab was 3.42 mL/day for an infant weighing 5 kg and the terminal half-life was approximately 71 days. Nirsevimab clearance increases with increasing body weight.
-
 <div style=\"page-break-after: always\"></div>
+
+The estimated clearance of nirsevimab was 3.42 mL/day for an infant weighing 5 kg and the terminal half-life was approximately 71 days. Nirsevimab clearance increases with increasing body weight.
 
 ## Special populations
 
@@ -380,13 +378,11 @@ Table 3: Nirsevimab intramuscular dose exposures, mean (standard deviation) [ran
 
 AUC0-365= area under the concentration time curve from 0-365 days post dose, AUCbaseline CL = area under the serum concentration-time curve derived from post hoc clearance values at dosing, Day 151 serum conc = concentration at day 151, visit day 151 ± 14 days.
 
-## Pharmacokinetic/pharmacodynamic relationship(s)
-
-In D5290C00003 and MELODY (Primary cohort) a positive correlation was observed between a serum AUC (Area Under the Curve), based on clearance at baseline, above 12.8 mg*day/mL and a
-
 <div style=\"page-break-after: always\"></div>
 
-lower incidence of MA RSV LRTI. The recommended dosing regimen consisting of a 50 mg or 100 mg intramuscular dose for infants in their first RSV season and a 200 mg intramuscular dose for children entering their second RSV season was selected on the basis of these results.
+## Pharmacokinetic/pharmacodynamic relationship(s)
+
+In D5290C00003 and MELODY (Primary cohort) a positive correlation was observed between a serum AUC (Area Under the Curve), based on clearance at baseline, above 12.8 mg*day/mL and a lower incidence of MA RSV LRTI. The recommended dosing regimen consisting of a 50 mg or 100 mg intramuscular dose for infants in their first RSV season and a 200 mg intramuscular dose for children entering their second RSV season was selected on the basis of these results.
 
 In MEDLEY, &gt;80% of infants at higher risk for severe RSV disease, including infants born extremely preterm (GA &lt;29 weeks) entering their first RSV season and infants/children with chronic lung disease of prematurity or haemodynamically significant congenital heart disease entering their first or second RSV season, achieved nirsevimab exposures associated with RSV protection (serum AUC above 12.8 mg*day/mL) following a single dose (see section 5.1).
 
@@ -410,7 +406,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 4 years
 
-Beyfortus may be kept at room temperature (20°C - 25°C) when protected from light for a maximum of 8 hours. After this time, the syringe must be discarded.
+Beyfortus may be kept at room temperature (20°C - 25°C) when protected from light for a maximum of 48 hours. After this time, the syringe must be discarded.
 
 ## 6.4 Special precautions for storage
 
@@ -420,18 +416,18 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 For storage conditions of the medicinal product, see section 6.3.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
 Siliconised Luer lock Type I glass pre-filled syringe with a FluroTec-coated plunger stopper.
-
-<div style=\"page-break-after: always\"></div>
 
 Each pre-filled syringe contains 0.5 mL or 1 mL solution.
 
 Pack sizes:
 
-- 1 or 5 pre-filled syringe(s) without needles.
-- 1 pre-filled syringe packaged with two separate needles of different sizes.
+-  1 or 5 pre-filled syringe(s) without needles.
+-  1 pre-filled syringe packaged with two separate needles of different sizes.
 
 Not all pack sizes may be marketed .
 
@@ -449,19 +445,22 @@ Beyfortus is available in a 50 mg and a 100 mg pre-filled syringe. Check the lab
 
 Beyfortus 50 mg (50 mg/0.5 mL) pre-filled syringe with a purple plunger rod.
 
+<!-- image -->
+
 Beyfortus 100 mg (100 mg/1 mL) pre-filled syringe with a light blue plunger rod.
 
 <!-- image -->
 
 Refer to Figure 1 for pre-filled syringe components.
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 1: Luer lock syringe components
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
+Step 1 : Holding the Luer lock in one hand (avoid holding the plunger rod or syringe body), unscrew the syringe cap by twisting it counter clockwise with the other hand.
 
-- Step 1 : Holding the Luer lock in one hand (avoid holding the plunger rod or syringe body), unscrew the syringe cap by twisting it counter clockwise with the other hand.
 - Step 2 : Attach a Luer lock needle to the pre-filled syringe by gently twisting the needle clockwise onto the pre-filled syringe until slight resistance is felt.
 - Step 3 : Hold the syringe body with one hand and carefully pull the needle cover straight off with the other hand. Do not hold the plunger rod while removing the needle cover or the rubber stopper may move. Do not touch the needle or let it touch any surface. Do not recap the needle or detach it from the syringe.
 - Step 4 : Administer the entire contents of the pre-filled syringe as an intramuscular injection, preferably in the anterolateral aspect of the thigh. The gluteal muscle should not be used routinely as an injection site because of the risk of damage to the sciatic nerve.
@@ -469,23 +468,31 @@ Figure 1: Luer lock syringe components
 
 If two injections are required, repeat steps 1-5 in a different injection site.
 
-Disposal
+## Disposal
 
 Each pre-filled syringe is for single-use only. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly France
+Sanofi Winthrop Industrie
+
+82 avenue Raspail 94250 Gentilly France
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-| EU/1/22/1689/001   | 50 mg, 1 single-use pre-filled syringe               |
-|--------------------|------------------------------------------------------|
-| EU/1/22/1689/002   | 50 mg, 1 single-use pre-filled syringe with needles  |
-| EU/1/22/1689/003   | 50 mg, 5 single-use pre-filled syringe               |
-| EU/1/22/1689/004   | 100 mg, 1 single-use pre-filled syringe              |
-| EU/1/22/1689/005   | 100 mg, 1 single-use pre-filled syringe with needles |
-| EU/1/22/1689/006   | 100 mg, 5 single-use pre-filled syringe              |
+EU/1/22/1689/001 50 mg, 1 single-use pre-filled syringe
+
+EU/1/22/1689/002 50 mg, 1 single-use pre-filled syringe with needles
+
+EU/1/22/1689/003 50 mg, 5 single-use pre-filled syringe
+
+EU/1/22/1689/004 100 mg, 1 single-use pre-filled syringe
+
+EU/1/22/1689/005 100 mg, 1 single-use pre-filled syringe with needles
+
+EU/1/22/1689/006 100 mg, 5 single-use pre-filled syringe
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -524,7 +531,7 @@ Medicinal product subject to medical prescription
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -532,13 +539,14 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency; Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -636,7 +644,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -656,16 +664,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                         |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Beyfortus 50 mg injection nirsevimab IM
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -677,8 +686,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.5 mL
 
@@ -791,15 +800,20 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Beyfortus 100 mg injection nirsevimab IM
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -808,8 +822,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL
 
@@ -871,9 +885,9 @@ Tell your doctor or seek medical help immediately if you notice any signs of an 
 
 <div style=\"page-break-after: always\"></div>
 
-- difficulty breathing or swallowing
-- swelling of the face, lips, tongue or throat
-- severe itching of the skin, with a red rash or raised bumps
+-  difficulty breathing or swallowing
+-  swelling of the face, lips, tongue or throat
+-  severe itching of the skin, with a red rash or raised bumps
 
 Talk to your healthcare professional before your child is given Beyfortus if they have low numbers of blood platelets (which help blood clotting), a bleeding problem or bruise easily or if they are taking an anticoagulant (a medicine to prevent blood clots).
 
@@ -897,8 +911,8 @@ Beyfortus is given by a healthcare professional as an injection in the muscle. I
 
 The recommended dose is:
 
-- 50 mg for children weighing less than 5 kg and 100 mg for children weighing 5 kg or more in their first RSV season.
-- 200 mg for children who remain vulnerable to severe RSV disease in their second RSV season (given as 2 x 100 mg injections at separate sites).
+-  50 mg for children weighing less than 5 kg and 100 mg for children weighing 5 kg or more in their first RSV season.
+-  200 mg for children who remain vulnerable to severe RSV disease in their second RSV season (given as 2 x 100 mg injections at separate sites).
 
 Beyfortus should be given before the RSV season. The virus is usually more common during the winter (known as the RSV season). If your child is born during the winter, Beyfortus should be given after birth.
 
@@ -916,13 +930,13 @@ Side effects can include:
 
 Uncommon (may affect up to 1 in 100 children)
 
-- rash
-- injection site reaction (i.e. redness, swelling, and pain where the injection is given)
-- fever
+-  rash
+-  injection site reaction (i.e. redness, swelling, and pain where the injection is given)
+-  fever
 
 Not known (cannot be estimated from available data)
 
-- allergic reactions
+-  allergic reactions
 
 ## Reporting of side effects
 
@@ -936,7 +950,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C - 8°C). After removal from the refrigerator, Beyfortus must be protected from light and used within 8 hours or discarded.
+Store in a refrigerator (2°C - 8°C). After removal from the refrigerator, Beyfortus must be kept at room temperature (20°C - 25°C), protected from light and used within 48 hours or discarded.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
@@ -948,10 +962,10 @@ Any unused medicine or waste material should be disposed of in accordance with l
 
 ## What Beyfortus contains
 
-- The active substance is nirsevimab.
+-  The active substance is nirsevimab.
 - -One pre-filled syringe of 0.5 mL solution contains 50 mg nirsevimab.
 - -One pre-filled syringe of 1 mL solution contains 100 mg nirsevimab.
-- The other ingredients are L-histidine, L-histidine hydrochloride, L-arginine hydrochloride, sucrose, polysorbate 80 (E433), and water for injections.
+-  The other ingredients are L-histidine, L-histidine hydrochloride, L-arginine hydrochloride, sucrose, polysorbate 80 (E433), and water for injections.
 
 ## What Beyfortus looks like and contents of the pack
 
@@ -959,8 +973,8 @@ Beyfortus is a colourless to yellow solution for injection.
 
 Beyfortus is available as:
 
-- 1 or 5 pre-filled syringe(s) without needles.
-- 1 pre-filled syringe packaged with two separate needles of different sizes.
+-  1 or 5 pre-filled syringe(s) without needles.
+-  1 pre-filled syringe packaged with two separate needles of different sizes.
 
 Not all pack sizes may be marketed.
 
@@ -968,9 +982,9 @@ Not all pack sizes may be marketed.
 
 Sanofi Winthrop Industrie
 
-<div style=\"page-break-after: always\"></div>
-
 82 avenue Raspail 94250 Gentilly France
+
+<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
@@ -984,9 +998,13 @@ Sanofi Belgium Tél/Tel: +32 2 710.54.00
 
 ## България
 
-Swixx Biopharma EOOD Тел.: +359 2 4942 480
+Swixx Biopharma EOOD
 
-## Česká republika
+Тел
+
+.: +359 2 4942 480
+
+## Č eská republika
 
 Sanofi s.r.o.
 
@@ -994,11 +1012,17 @@ Tel: +420 233 086 111
 
 ## Danmark
 
-Sanofi A/S Tlf: +45 4516 7000
+Sanofi A/S
+
+Tlf: +45 4516 7000
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH Tel.: 0800 54 54 010 Tel. aus dem Ausland: +49 69 305 21 130
+Sanofi-Aventis Deutschland GmbH
+
+Tel.: 0800 54 54 010
+
+Tel. aus dem Ausland: +49 69 305 21 130
 
 ## Eesti
 
@@ -1008,21 +1032,37 @@ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-ΒΙΑΝΕΞ Α.Ε.
+ΒΙΑΝΕΞ Α . Ε
 
-Τηλ: +30.210.8009111
+.
+
+Τηλ
+
+: +30.210.8009111
 
 ## España
 
-sanofi-aventis, S.A. Tel: +34 93 485 94 00
+sanofi-aventis, S.A.
+
+Tel: +34 93 485 94 00
 
 ## France
 
-Sanofi Winthrop Industrie Tél: 0 800 222 555 Appel depuis l'étranger : +33 1 57 63 23 23
+Sanofi Winthrop Industrie
+
+Tél: 0 800 222 555
+
+Appel depuis l'étranger : +33 1 57 63 23 23
 
 ## Hrvatska
 
-Swixx Biopharma d.o.o. Tel: +385 1 2078 500
+Swixx Biopharma d.o.o.
+
+Tel: +385 1 2078 500
+
+## Ireland
+
+sanofi-aventis Ireland T/A SANOFI
 
 ## Lietuva
 
@@ -1032,15 +1072,21 @@ Tel: +370 5 236 91 40
 
 ## Luxembourg/Luxemburg
 
-Sanofi Belgium Tél/Tel: +32 2 710.54.00
+Sanofi Belgium
+
+Tél/Tel: +32 2 710.54.00
 
 ## Magyarország
 
-sanofi-aventis zrt Tel.: +36 1 505 0055
+sanofi-aventis zrt
+
+Tel.: +36 1 505 0055
 
 ## Malta
 
-Sanofi S.r.l. Tel: +39 02 39394275
+Sanofi S.r.l.
+
+Tel: +39 02 39394275
 
 ## Nederland
 
@@ -1056,7 +1102,9 @@ Tlf: + 47 67 10 71 00
 
 ## Österreich
 
-Sanofi-Aventis GmbH Tel: +43 1 80 185-0
+Sanofi-Aventis GmbH
+
+Tel: +43 1 80 185-0
 
 ## Polska
 
@@ -1072,23 +1120,21 @@ Tel: + 351 21 35 89 400
 
 ## România
 
-Sanofi Romania SRL Tel: +40(21) 317 31 36
+Sanofi Romania SRL
 
-## Ireland
-
-sanofi-aventis Ireland T/A SANOFI
-
-Tel: + 353 (0) 1 4035 600
+Tel: +40(21) 317 31 36
 
 ## Slovenija
 
 Swixx Biopharma d.o.o
 
+Tel: + 353 (0) 1 4035 600
+
 Tel: +386 1 235 51 00
 
 ## Ísland
 
-Vistor
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -1114,7 +1160,9 @@ Puh/Tel: +358 (0) 201 200 300
 
 C.A. Papaellinas Ltd.
 
-Τηλ: +357 22 741741
+Τηλ
+
+: +357 22 741741
 
 ## Sverige
 
@@ -1127,12 +1175,6 @@ Tel: +46 8-634 50 00
 Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
-
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
 
 <div style=\"page-break-after: always\"></div>
 

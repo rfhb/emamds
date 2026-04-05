@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-29 13:12:09
-document_pages: 39
+document_datetime: 2026-04-01 11:46:26
+document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/firazyr-epar-product-information_en.pdf
 document_name: firazyr-epar-product-information_en.pdf
 version: success
-processing_time: 9.4866634
-conversion_datetime: 2026-02-01 20:34:09.382375
+processing_time: 9.5284087
+conversion_datetime: 2026-04-05 12:35:42.206067
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -537,101 +537,7 @@ An updated RMP should be submitted:
 
 Firazyr 30 mg solution for injection in pre-filled syringe icatibant
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each 3 ml pre-filled syringe contains icatibant acetate equivalent to 30 mg icatibant.
-
-Each ml of the solution contains 10 mg of icatibant.
-
-## 3. LIST OF EXCIPIENTS
-
-Contains: acetic acid glacial, sodium hydroxide, sodium chloride, water for injections.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-Solution for injection One pre-filled syringe One 25G needle
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Subcutaneous use
-
-Read the package leaflet before use
-
-For single use only
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Do not store above 25ºC. Do not freeze.
-
-<div style=\"page-break-after: always\"></div>
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Takeda Pharmaceuticals International AG Ireland Branch
-
-Block 2 Miesian Plaza
-
-50-58 Baggot Street Lower
-
-Dublin 2
-
-D02 HW68
-
-Ireland
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/08/461/001
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-Medicinal product subject to medical prescription.
-
-## 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-Firazyr 30 mg
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC
-
-SN
-
-NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## OUTER CARTON OF MULTI-PACK (INCLUDING BLUE BOX)
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Firazyr 30 mg solution for injection in pre-filled syringe icatibant
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 Each 3 ml pre-filled syringe contains icatibant acetate equivalent to 30 mg icatibant. Each ml of the solution contains 10 mg of icatibant.
 
@@ -643,15 +549,15 @@ Contains: acetic acid glacial, sodium hydroxide, sodium chloride, water for inje
 
 Solution for injection
 
-Multipack containing three pre-filled syringes and three 25G needles
+One pre-filled syringe and one 25G needle.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Subcutaneous use
+Subcutaneous use.
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
-For single use only
+For single use only.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -665,29 +571,25 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 25ºC. Do not freeze.
+Do not store above 25 °C. Do not freeze.
 
-<div style=\"page-break-after: always\"></div>
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
-EU/1/08/461/002
+EU/1/08/461/001
 
 ## 13. BATCH NUMBER
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-Medicinal product subject to medical prescription.
-
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -707,6 +609,86 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## OUTER CARTON OF MULTI-PACK (INCLUDING BLUE BOX)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Firazyr 30 mg solution for injection in pre-filled syringe icatibant
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
+
+Each 3 ml pre-filled syringe contains icatibant acetate equivalent to 30 mg icatibant. Each ml of the solution contains 10 mg of icatibant.
+
+## 3. LIST OF EXCIPIENTS
+
+Contains: acetic acid glacial, sodium hydroxide, sodium chloride, water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Solution for injection
+
+Multipack containing three pre-filled syringes and three 25G needles.
+
+## 5. METHOD AND ROUTE OF ADMINISTRATION
+
+Subcutaneous use.
+
+Read the package leaflet before use.
+
+For single use only.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Do not store above 25 °C. Do not freeze.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER
+
+EU/1/08/461/002
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Firazyr 30 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 ## INTERMEDIATE CARTON OF MULTI-PACK (WITHOUT BLUE BOX)
@@ -715,11 +697,9 @@ NN
 
 Firazyr 30 mg solution for injection in pre-filled syringe icatibant
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
-Each 3 ml pre-filled syringe contains icatibant acetate equivalent to 30 mg icatibant.
-
-Each ml of the solution contains 10 mg of icatibant.
+Each 3 ml pre-filled syringe contains icatibant acetate equivalent to 30 mg icatibant. Each ml of the solution contains 10 mg of icatibant.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -733,13 +713,13 @@ One pre-filled syringe and one 25G needle.
 
 Component of a multipack, can't be sold separately.
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Subcutaneous use
+Subcutaneous use.
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
-For single use only
+For single use only.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -753,27 +733,15 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 25ºC. Do not freeze.
-
-<div style=\"page-break-after: always\"></div>
+Do not store above 25 °C. Do not freeze.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Takeda Pharmaceuticals International AG Ireland Branch
+Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
 
-Block 2 Miesian Plaza
-
-50-58 Baggot Street Lower
-
-Dublin 2
-
-D02 HW68
-
-Ireland
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/08/461/002
 
@@ -781,11 +749,9 @@ EU/1/08/461/002
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-Medicinal product subject to medical prescription.
-
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -797,11 +763,9 @@ Firazyr 30 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
+PC SN NN
 
-SN
-
-NN
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -838,13 +802,13 @@ Subcutaneous use
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS SYRINGE LABEL
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 Firazyr 30 mg icatibant sc
 
 ## 2. METHOD OF ADMINISTRATION
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -864,22 +828,20 @@ Takeda Pharmaceuticals International AG Ireland Branch
 
 ## B. PACKAGE LEAFLET
 
+## Package leaflet: Information for the user
+
 <div style=\"page-break-after: always\"></div>
 
-## Package Leaflet: Information for the user
-
-## Firazyr 30 mg solution for injection pre-filled syringe
-
-## icatibant
+## Firazyr 30 mg solution for injection pre-filled syringe icatibant
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor or pharmacist.
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
-## What is in this leaflet:
+## What is in this leaflet
 
 1. What Firazyr is and what it is used for
 2. What you need to know before you use Firazyr
@@ -902,7 +864,7 @@ Firazyr blocks the activity of bradykinin and therefore ends the further progres
 
 ## Do not use Firazyr
 
-- -If you are allergic to icatibant, or any of the other ingredients of this medicine (listed in section 6).
+- -if you are allergic to icatibant, or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -911,13 +873,14 @@ Talk to your doctor before taking Firazyr:
 - -if you are suffering from angina (reduced blood flow to the heart muscle)
 - -if you have recently suffered a stroke
 
-Some of the side effects connected with Firazyr are similar to the symptoms of your disease. Tell your doctor immediately if you notice that your symptoms of the attack get worse after you received Firazyr
+Some of the side effects connected with Firazyr are similar to the symptoms of your disease. Tell your doctor immediately if you notice that your symptoms of the attack get worse after you received Firazyr.
+
+## In addition:
+
+- -You or your caregiver must be trained on subcutaneous (under the skin) injection technique before you self-inject or your caregiver injects you with Firazyr.
 
 <div style=\"page-break-after: always\"></div>
 
-In addition:
-
-- -You or your caregiver must be trained on subcutaneous (under the skin) injection technique before you self-inject or your caregiver injects you with Firazyr.
 - -Immediately after you self-inject Firazyr or your caregiver injects you with Firazyr while you are experiencing a laryngeal attack (obstruction of the upper airway), you must seek medical care in a medical institution.
 - -If your symptoms are not resolved following one self- or caregiver administered injection of Firazyr, you should seek medical advice regarding additional injections of Firazyr. For adult patients, up to 2 additional injections may be given within 24 hours.
 
@@ -929,7 +892,7 @@ Firazyr is not recommended for use in children under 2 years of age or weighing 
 
 Tell your doctor if you are taking, have recently taken or might take any other medicines.
 
-Firazyr is not known to interact with other medicines. If you are taking a medicine known as an Angiotensin Converting Enzyme (ACE) inhibitor (for example: captopril, enalapril, ramipril, quinapril, lisinopril) which is used to lower your blood pressure or for any other reason, you should inform your doctor before receiving Firazyr.
+Firazyr is not known to interact with other medicines. If you are taking a medicine known as an angiotensin converting enzyme (ACE) inhibitor (for example: captopril, enalapril, ramipril, quinapril, lisinopril) which is used to lower your blood pressure or for any other reason, you should inform your doctor before receiving Firazyr.
 
 ## Pregnancy and breast-feeding
 
@@ -943,15 +906,13 @@ Do not drive or use machines if you feel tired or dizzy as a result of your HAE 
 
 ## Firazyr contains sodium
 
-The injection solution contains less than 1 mmol (23 milligrams) of sodium per syringe, so it is essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 milligrams) per syringe, that is to say essentially 'sodium-free'.
 
 ## 3. How to use Firazyr
 
 Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure.
 
-If you have never received Firazyr previously, your first dose of Firazyr will always be injected by your doctor or nurse. Your doctor will tell you when it is safe for you to go home. After discussion with your doctor or nurse and after training in subcutaneous (under the skin) injection technique, you may be able to inject yourself with Firazyr or your caregiver may inject Firazyr for you when you have an HAE attack. It is important that Firazyr is injected subcutaneously (under the skin) as soon as you notice an attack of angioedema. Your healthcare provider will teach you and your caregiver how to safely inject Firazyr by following the instructions in the Package Leaflet.
-
-<div style=\"page-break-after: always\"></div>
+If you have never received Firazyr previously, your first dose of Firazyr will always be injected by your doctor or nurse. Your doctor will tell you when it is safe for you to go home. After discussion with your doctor or nurse and after training in subcutaneous (under the skin) injection technique, you may be able to inject yourself with Firazyr or your caregiver may inject Firazyr for you when you have an HAE attack. It is important that Firazyr is injected subcutaneously (under the skin) as soon as you notice an attack of angioedema. Your healthcare provider will teach you and your caregiver how to safely inject Firazyr by following the instructions in the package leaflet.
 
 ## When and how often should you use Firazyr?
 
@@ -961,7 +922,10 @@ Your doctor has determined the exact dose of Firazyr and will tell you how often
 
 - -The recommended dose of Firazyr is one injection (3 ml, 30 mg) injected subcutaneously (under the skin) as soon as you notice the attack of angioedema (for example increased skin swelling, particularly affecting the face and neck, or increasing tummy pain).
 - -If you experience no relief of symptoms after 6 hours, you should seek medical advice regarding additional injections of Firazyr. For adults, up to 2 additional injections may be given within 24 hours.
-- -You should not have more than 3 injections in a 24 hour period and if you require more than 8 injections in a month, you should seek medical advice.
+
+<div style=\"page-break-after: always\"></div>
+
+- -You should not have more than 3 injections in a 24-hour period and if you require more than 8 injections in a month, you should seek medical advice.
 
 ## Children and adolescents aged 2 to 17 years
 
@@ -992,8 +956,6 @@ The instructions include the following main steps:
 - 4) Injecting the solution
 - 5) Disposal of the injection material
 
-<div style=\"page-break-after: always\"></div>
-
 ## Step-by-Step Instructions for Injection
 
 ## 1) General Information
@@ -1005,11 +967,13 @@ The instructions include the following main steps:
 - Remove the cap from the end of the pre-filled syringe by unscrewing the cap.
 - Put down the pre-filled syringe after unscrewing the cap.
 
-## 2a) Preparing the syringe for children and adolescents (2-17 years) weighing 65 kg or less:
+2a) Preparing the syringe for children and adolescents (2-17 years) weighing 65 kg or less:
 
 ## Important information for healthcare professionals and caregivers:
 
 Where the dose is less than 30 mg (3 ml), the following equipment is required to extract the appropriate dose (see below):
+
+<div style=\"page-break-after: always\"></div>
 
 - a) Firazyr pre-filled syringe (containing icatibant solution)
 - b) Connector (adapter)
@@ -1018,8 +982,6 @@ Where the dose is less than 30 mg (3 ml), the following equipment is required to
 <!-- image -->
 
 The required injection volume in ml should be drawn up in an empty 3 ml graduated syringe (see table below).
-
-<div style=\"page-break-after: always\"></div>
 
 Table 1: Dosage regimen for children and adolescents
 
@@ -1040,23 +1002,22 @@ Patients weighing more than 65 kg will use the full contents of the pre-filled s
 
 <!-- image -->
 
-## Avoid touching the ends of the connector and syringe tips, to prevent contamination
+Avoid touching the ends of the connector and syringe tips, to prevent contamination
 
 - 2) Screw the connector onto the pre-filled syringe.
 - 3) Attach the graduated syringe to the other end of the connector ensuring that both connections fit securely.
 
 <!-- image -->
 
+<div style=\"page-break-after: always\"></div>
+
 ## Transferring the icatibant solution to the graduated syringe:
 
 - 1) To start transfer of icatibant solution, push the pre-filled syringe plunger (on far left of below image).
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
 - 2) If the icatibant solution does not begin to transfer to the graduated syringe, pull slightly on the graduated syringe plunger until the icatibant solution starts to flow into the graduated syringe (see below image).
 - 3) Continue to push on the pre-filled syringe plunger until the required injection volume (dose) is transferred to the graduated syringe. Refer to table 1 for dosage information.
+
+<!-- image -->
 
 <!-- image -->
 
@@ -1064,31 +1025,32 @@ Patients weighing more than 65 kg will use the full contents of the pre-filled s
 
 - Turn the connected syringes so that the pre-filled syringe is on top (see below image).
 
+<div style=\"page-break-after: always\"></div>
+
 <!-- image -->
 
 11
 
 - Push the plunger of the graduated syringe so that any air is transferred back into the pre-filled syringe (this step may need to be repeated several times).
 - Withdraw the required volume of icatibant solution.
+- 4) Remove the pre-filled syringe and connector from the graduated syringe.
+- 5) Discard the pre-filled syringe and connector into the sharps container.
+
+## 2b) Preparing the syringe and needle for injection: All patients (adults, adolescents and children)
+
+<!-- image -->
+
+- Remove the needle cap from the blister.
+- Twist the lid of the needle cap to break the seal (the needle should be still in the needle cap).
 
 <div style=\"page-break-after: always\"></div>
 
-- 4) Remove the pre-filled syringe and connector from the graduated syringe.
-- 5) Discard the pre-filled syringe and connector into the sharps container.
-- Remove the needle cap from the blister.
-- Twist the lid of the needle cap to break the seal (the needle should be still in the needle cap).
+<!-- image -->
+
 - Grip the syringe firmly. Carefully attach the needle to the syringe containing the colourless solution.
 - Screw the syringe on the needle still fixed in the needle cap.
 - Remove the needle from the needle cap by pulling the syringe. Do not pull up on the plunger.
 - The syringe is now ready for injection.
-
-2b) Preparing the syringe and needle for injection: All patients (adults, adolescents and children)
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 ## 3) Preparing the injection site
 
@@ -1101,19 +1063,18 @@ Patients weighing more than 65 kg will use the full contents of the pre-filled s
 
 <!-- image -->
 
-- Hold the syringe in one hand between two fingers with your thumb at the bottom of the plunger.
-- Make sure that there is no air bubble in the syringe by pressing the plunger until the first drop appears on the tip of the needle.
-
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
+- Hold the syringe in one hand between two fingers with your thumb at the bottom of the plunger.
+- Make sure that there is no air bubble in the syringe by pressing the plunger until the first drop appears on the tip of the needle.
 - Hold syringe between 45-90 degrees angle to skin with needle facing the skin.
 - Keeping the syringe in one hand, use your other hand to gently hold a fold of skin between your thumb and fingers at the previously disinfected injection site.
 - Hold the fold of skin, bring the syringe to the skin and quickly insert the needle into the skin fold.
 - Slowly push the plunger of the syringe with a steady hand until all the fluid is injected into the skin and no liquid remains in the syringe.
 - Press slowly so that this takes approximately 30 seconds.
 - Release the skin fold and gently pull the needle out.
+
+<!-- image -->
 
 ## 5) Disposal of the injection material
 
@@ -1127,17 +1088,26 @@ Patients weighing more than 65 kg will use the full contents of the pre-filled s
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Almost all patients receiving Firazyr will experience a reaction at the site of the injection (such as skin irritation, swelling, pain, itchiness, redness of the skin and burning sensation). These effects are usually mild and clear up without the need for any additional treatment.
 
-## Very common (may affect more than 1 in 10 people):
+Very common (may affect more than 1 in 10 people):
 
-Additional injection site reactions (pressure sensation, bruising, reduced sensation and/or numbness, raised itchy skin rash and warmth).
+- Additional injection site reactions (pressure sensation, bruising, reduced sensation and/or numbness, raised itchy skin rash and warmth)
 
-Common (may affect up to 1 in 10 people): Feeling sick Headache Dizziness Fever Itching Rash Skin redness Abnormal liver function test
+Common (may affect up to 1 in 10 people):
 
-Not known (frequency cannot be estimated from the available data): Hives (urticaria)
+- Feeling sick
+- Headache
+- Dizziness
+- Fever
+- Itching
+- Rash
+- Skin redness
+- Abnormal liver function test
+
+Not known (frequency cannot be estimated from the available data):
+
+- Hives (urticaria)
 
 Tell your doctor immediately if you notice that the symptoms of your attack get worse after you received Firazyr.
-
-If you get any side effects talk to your doctor. This includes any possible side effects not listed in this leaflet.
 
 ## Reporting of side effects
 
@@ -1147,9 +1117,9 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date stated on the label after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Do not store above 25 ○ C. Do not freeze.
+Do not store above 25 °C. Do not freeze.
 
 Do not use this medicine if you notice that the syringe or needle packaging is damaged or if there are any visible signs of deterioration, for example if the solution is cloudy, if it has floating particles, or if the colour of the solution has changed.
 
@@ -1161,7 +1131,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Firazyr contains
 
-The active substance is icatibant. Each pre-filled syringe contains 30 milligrams of icatibant (as acetate). The other ingredients are sodium chloride, acetic acid glacial, sodium hydroxide and water for injection.
+- -The active substance is icatibant. Each pre-filled syringe contains 30 milligrams of icatibant (as acetate).
+- -The other ingredients are sodium chloride, acetic acid glacial, sodium hydroxide and water for injection.
 
 ## What Firazyr looks like and contents of the pack
 
@@ -1179,7 +1150,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11
+
+medinfoEMEA@takeda.com
 
 ## Lietuva
 
@@ -1203,11 +1176,11 @@ Takeda Pharmaceuticals Czech Republic s.r.o. Tel: +420 234 722 722 medinfoEMEA@t
 
 ## Magyarország
 
-Takeda Pharma Kft. Tel: +36 1 270 7030 medinfoEMEA@takeda.com
+Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
 
 ## Danmark
 
-Takeda Pharma A/S Tlf: +45 46 77 10 10 medinfoEMEA@takeda.com
+Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com
 
 ## Malta
 
@@ -1215,7 +1188,9 @@ Drugsales Ltd Tel: +356 21419070 safety@drugsalesltd.com
 
 ## Deutschland
 
-Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com
+Takeda GmbH Tel: +49 (0)800 825 3325
+
+medinfoEMEA@takeda.com
 
 ## Nederland
 
@@ -1223,31 +1198,29 @@ Takeda Nederland B.V. Tel: +31 20 203 5492 medinfoEMEA@takeda.com
 
 ## Eesti
 
-Takeda Pharma AS
+Takeda Pharma OÜ
 
 Tel: +372 6177 669
 
+medinfoEMEA@takeda.com
+
 ## Norge
 
-Takeda AS
-
-Tlf: +47 800 800 30
+Takeda AS Tlf: +47 800 800 30 medinfoEMEA@takeda.com
 
 <div style=\"page-break-after: always\"></div>
 
-medinfoEMEA@takeda.com
-
 ## Ελλάδα
 
-Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800
+Τakeda ΕΛΛΑΣ Α.Ε.
+
+Tηλ: +30 210 6387800
 
 medinfoEMEA@takeda.com
 
 ## España
 
-Takeda Farmacéutica España S.A
-
-Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
+Takeda Farmacéutica España, S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
 
 ## France
 
@@ -1259,15 +1232,19 @@ Takeda Pharmaceuticals Croatia d.o.o. Tel: +385 1 377 88 96 medinfoEMEA@takeda.c
 
 ## Ireland
 
-Takeda Products Ireland Ltd Tel: 1800 937 970 medinfoEMEA@takeda.com
+Takeda Products Ireland Ltd Tel: 1800 937 970
+
+medinfoEMEA@takeda.com
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000 medinfoEMEA@takeda.com
+Vistor ehf. Sími: +354 535 7000 medinfoEMEA@takeda.com
 
 ## Italia
 
-Takeda Italia S.p.A. Tel: +39 06 502601 medinfoEMEA@takeda.com
+Takeda Italia S.p.A. Tel: +39 06 502601
+
+medinfoEMEA@takeda.com
 
 ## Κύπρος
 
@@ -1281,27 +1258,31 @@ Takeda Latvia SIA Tel: +371 67840082 medinfoEMEA@takeda.com
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
-
-medinfoEMEA@takeda.com
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Österreich
 
-Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
+Takeda Pharma Ges.m.b.H.
+
+Tel: +43 (0) 800-20 80 50
+
+medinfoEMEA@takeda.com
 
 ## Polska
 
-Takeda Pharma Sp. z o.o. Tel: +48223062447 medinfoEMEA@takeda.com
+Takeda Pharma Sp. z o.o. Tel.: +48223062447 medinfoEMEA@takeda.com
 
 ## Portugal
 
-Takeda Farmacêuticos Portugal, Lda.
-
-Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
+Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
 
 ## România
 
-Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals SRL
+
+Tel: +40 21 335 03 91
+
+medinfoEMEA@takeda.com
 
 ## Slovenija
 
@@ -1313,14 +1294,12 @@ Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@take
 
 ## Suomi/Finland
 
-Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com
+Takeda Oy Puh/Tel: 0800 774 051
+
+medinfoEMEA@takeda.com
 
 ## Sverige
 
-Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
-
-## United Kingdom (Northern Ireland)
-
-Takeda UK Ltd Tel: +44 (0) 2830 640 902
+Takeda Pharma AB Tel: 020 795 079
 
 medinfoEMEA@takeda.com

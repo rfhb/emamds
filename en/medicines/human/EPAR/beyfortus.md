@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-23 16:45:00
+document_datetime: 2026-04-01 17:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/beyfortus.html
 document_name: beyfortus.html
 version: success
-processing_time: 0.1169624
-conversion_datetime: 2026-02-25 11:39:38.446278
+processing_time: 0.1236771
+conversion_datetime: 2026-04-05 12:27:54.209877
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Beyfortus
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-nirsevimab Medicine Human Authorised
+nirsevimab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -103,187 +105,141 @@ Reference Number: EMA/776857/2022
 
 English (EN) (100.35 KB - PDF)
 
-**First published:** 15/11/2022
-
-**Last updated:** 04/09/2024
+**First published:** 15/11/2022 **Last updated:** 04/09/2024
 
 [View](/en/documents/overview/beyfortus-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-572)
+[Other languages (22)](#file-language-dropdown-584)
 
 български (BG) (179.21 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/bg/documents/overview/beyfortus-epar-medicine-overview_bg.pdf)
 
 español (ES) (153.37 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/es/documents/overview/beyfortus-epar-medicine-overview_es.pdf)
 
 čeština (CS) (177.56 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/cs/documents/overview/beyfortus-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (152.68 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/da/documents/overview/beyfortus-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (156.84 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/de/documents/overview/beyfortus-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (151.55 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/et/documents/overview/beyfortus-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (177.42 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/el/documents/overview/beyfortus-epar-medicine-overview_el.pdf)
 
 français (FR) (155.63 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/fr/documents/overview/beyfortus-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (176.71 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/hr/documents/overview/beyfortus-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (152.92 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/it/documents/overview/beyfortus-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (186.03 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/lv/documents/overview/beyfortus-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (175.73 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/lt/documents/overview/beyfortus-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (177.1 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/hu/documents/overview/beyfortus-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (178.73 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/mt/documents/overview/beyfortus-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (153.78 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/nl/documents/overview/beyfortus-epar-medicine-overview_nl.pdf)
 
 polski (PL) (178.22 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/pl/documents/overview/beyfortus-epar-medicine-overview_pl.pdf)
 
 português (PT) (154.69 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/pt/documents/overview/beyfortus-epar-medicine-overview_pt.pdf)
 
 română (RO) (174.73 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/ro/documents/overview/beyfortus-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (175 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/sk/documents/overview/beyfortus-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (174.51 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/sl/documents/overview/beyfortus-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (151.61 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/fi/documents/overview/beyfortus-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (151.79 KB - PDF)
 
-**First published:**
-
-04/09/2024
+**First published:** 04/09/2024
 
 [View](/sv/documents/overview/beyfortus-epar-medicine-overview_sv.pdf)
 
@@ -291,9 +247,7 @@ Beyfortus : EPAR - Risk management plan
 
 English (EN) (743.44 KB - PDF)
 
-**First published:** 15/11/2022
-
-**Last updated:** 07/10/2024
+**First published:** 15/11/2022 **Last updated:** 07/10/2024
 
 [View](/en/documents/rmp/beyfortus-epar-risk-management-plan_en.pdf)
 
@@ -301,305 +255,161 @@ English (EN) (743.44 KB - PDF)
 
 Beyfortus : EPAR - Product Information
 
-English (EN) (344.81 KB - PDF)
+English (EN) (456.83 KB - PDF)
 
-**First published:** 15/11/2022
-
-**Last updated:** 23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/en/documents/product-information/beyfortus-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-753)
+[Other languages (24)](#file-language-dropdown-97)
 
-български (BG) (524.34 KB - PDF)
+български (BG) (638.36 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/bg/documents/product-information/beyfortus-epar-product-information_bg.pdf)
 
-español (ES) (477.18 KB - PDF)
+español (ES) (330.71 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/es/documents/product-information/beyfortus-epar-product-information_es.pdf)
 
-čeština (CS) (497.12 KB - PDF)
+čeština (CS) (546.77 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/cs/documents/product-information/beyfortus-epar-product-information_cs.pdf)
 
-dansk (DA) (514.26 KB - PDF)
+dansk (DA) (527.58 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/da/documents/product-information/beyfortus-epar-product-information_da.pdf)
 
-Deutsch (DE) (517.64 KB - PDF)
+Deutsch (DE) (652.77 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/de/documents/product-information/beyfortus-epar-product-information_de.pdf)
 
-eesti keel (ET) (465.4 KB - PDF)
+eesti keel (ET) (459.47 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/et/documents/product-information/beyfortus-epar-product-information_et.pdf)
 
-ελληνικά (EL) (500.55 KB - PDF)
+ελληνικά (EL) (621.49 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/el/documents/product-information/beyfortus-epar-product-information_el.pdf)
 
-français (FR) (554.95 KB - PDF)
+français (FR) (685.24 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/fr/documents/product-information/beyfortus-epar-product-information_fr.pdf)
 
-hrvatski (HR) (510.25 KB - PDF)
+hrvatski (HR) (611.18 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/hr/documents/product-information/beyfortus-epar-product-information_hr.pdf)
 
-íslenska (IS) (502.57 KB - PDF)
+íslenska (IS) (661.67 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/is/documents/product-information/beyfortus-epar-product-information_is.pdf)
 
-italiano (IT) (402.77 KB - PDF)
+italiano (IT) (458.24 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/it/documents/product-information/beyfortus-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (523.87 KB - PDF)
+latviešu valoda (LV) (504.95 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/lv/documents/product-information/beyfortus-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (501.35 KB - PDF)
+lietuvių kalba (LT) (469.64 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/lt/documents/product-information/beyfortus-epar-product-information_lt.pdf)
 
-magyar (HU) (466.78 KB - PDF)
+magyar (HU) (553.63 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/hu/documents/product-information/beyfortus-epar-product-information_hu.pdf)
 
-Malti (MT) (580.92 KB - PDF)
+Malti (MT) (625.17 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/mt/documents/product-information/beyfortus-epar-product-information_mt.pdf)
 
-Nederlands (NL) (479.44 KB - PDF)
+Nederlands (NL) (598.67 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/nl/documents/product-information/beyfortus-epar-product-information_nl.pdf)
 
-norsk (NO) (534.09 KB - PDF)
+norsk (NO) (541.26 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/no/documents/product-information/beyfortus-epar-product-information_no.pdf)
 
-polski (PL) (580.27 KB - PDF)
+polski (PL) (544.4 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/pl/documents/product-information/beyfortus-epar-product-information_pl.pdf)
 
-português (PT) (416.73 KB - PDF)
+português (PT) (448.92 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/pt/documents/product-information/beyfortus-epar-product-information_pt.pdf)
 
-română (RO) (482.68 KB - PDF)
+română (RO) (685.01 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/ro/documents/product-information/beyfortus-epar-product-information_ro.pdf)
 
-slovenčina (SK) (581.64 KB - PDF)
+slovenčina (SK) (517.64 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/sk/documents/product-information/beyfortus-epar-product-information_sk.pdf)
 
-slovenščina (SL) (436.63 KB - PDF)
+slovenščina (SL) (541.8 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/sl/documents/product-information/beyfortus-epar-product-information_sl.pdf)
 
-Suomi (FI) (461.65 KB - PDF)
+Suomi (FI) (605.16 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/fi/documents/product-information/beyfortus-epar-product-information_fi.pdf)
 
-svenska (SV) (502.82 KB - PDF)
+svenska (SV) (619.26 KB - PDF)
 
-**First published:**
-
-15/11/2022
-
-**Last updated:**
-
-23/02/2026
+**First published:** 15/11/2022 **Last updated:** 01/04/2026
 
 [View](/sv/documents/product-information/beyfortus-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000324927 20/02/2026
+**Latest procedure affecting product information:** VR/0000319983
+
+12/03/2026
 
 icon globe
 
@@ -623,203 +433,169 @@ English (EN) (25.07 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-23)
+[Other languages (24)](#file-language-dropdown-108)
 
 български (BG) (30.06 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/bg/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (24.98 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/es/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (26.64 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/cs/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (26.34 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/da/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (28.87 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/de/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (23.53 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/et/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (29.53 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/el/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (25.88 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/fr/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (27.38 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/hr/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (26.77 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/is/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (24.89 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/it/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (25.42 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/lv/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (25.44 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/lt/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (28.59 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/hu/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (28.54 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/mt/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (24.65 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/nl/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (26.31 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/no/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (28.38 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/pl/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (25.47 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/pt/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (27.14 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/ro/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (25.32 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/sk/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (24.16 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/sl/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (23.86 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/fi/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (25.14 KB - PDF)
 
-**First published:**
-
-15/11/2022
+**First published:** 15/11/2022
 
 [View](/sv/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Beyfortus Active substance nirsevimab International non-proprietary name (INN) or common name nirsevimab Anatomical therapeutic chemical (ATC) code J06BD08
+Name of medicine
+
+Beyfortus
+
+Active substance
+
+nirsevimab
+
+International non-proprietary name (INN) or common name
+
+nirsevimab
+
+Anatomical therapeutic chemical (ATC) code
+
+J06BD08
 
 ### Pharmacotherapeutic group
 
@@ -833,7 +609,9 @@ Beyfortus is indicated for the prevention of Respiratory Syncytial Virus (RSV) l
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005304
+EMA product number
+
+EMEA/H/C/005304
 
 Additional monitoring
 
@@ -849,7 +627,17 @@ Sanofi Winthrop Industrie
 
 82 Avenue Raspail
 
-Opinion adopted 15/09/2022 Marketing authorisation issued 31/10/2022 Revision 13
+Opinion adopted
+
+15/09/2022
+
+Marketing authorisation issued
+
+31/10/2022
+
+Revision
+
+14
 
 ## Assessment history
 
@@ -861,11 +649,9 @@ Collapse section
 
 Beyfortus : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (158.42 KB - PDF)
+English (EN) (160.39 KB - PDF)
 
-**First published:** 14/02/2025
-
-**Last updated:** 23/02/2026
+**First published:** 14/02/2025 **Last updated:** 01/04/2026
 
 [View](/en/documents/procedural-steps-after/beyfortus-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -873,9 +659,7 @@ Beyfortus : EPAR - Procedural steps taken and scientific information after autho
 
 English (EN) (180.41 KB - PDF)
 
-**First published:** 21/03/2023
-
-**Last updated:** 24/06/2025
+**First published:** 21/03/2023 **Last updated:** 24/06/2025
 
 [View](/en/documents/procedural-steps-after/beyfortus-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -891,9 +675,7 @@ English (EN) (7.86 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Beyfortus (II-05)
 
-Adopted
-
-Reference Number: EMA/CHMP/37430/2024
+Adopted Reference Number: EMA/CHMP/37430/2024
 
 English (EN) (209.76 KB - PDF)
 
@@ -923,9 +705,7 @@ English (EN) (881.13 KB - PDF)
 
 Beyfortus : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/786523/2022
+Adopted Reference Number: EMA/786523/2022
 
 English (EN) (7.24 MB - PDF)
 
@@ -935,13 +715,21 @@ English (EN) (7.24 MB - PDF)
 
 ## News on Beyfortus
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024) 28/06/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 January 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-january-2024) 26/01/2024
+28/06/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 September 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-september-2022) 16/09/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 January 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-january-2024)
 
-[New medicine to protect babies and infants from respiratory syncytial virus (RSV) infection](/en/news/new-medicine-protect-babies-and-infants-respiratory-syncytial-virus-rsv-infection) 16/09/2022
+26/01/2024
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 September 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-september-2022)
+
+16/09/2022
+
+[New medicine to protect babies and infants from respiratory syncytial virus (RSV) infection](/en/news/new-medicine-protect-babies-and-infants-respiratory-syncytial-virus-rsv-infection)
+
+16/09/2022
 
 ## Product information - with tracked changes
 
@@ -955,197 +743,149 @@ English (EN) (196.38 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-666)
+[Other languages (24)](#file-language-dropdown-245)
 
 български (BG) (186.88 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/bg/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (186.62 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/es/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (193.26 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/cs/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (236.73 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/da/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (230.53 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/de/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_de.docx)
 
 eesti keel (ET) (193.54 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/et/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (186.83 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/el/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (351.3 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/fr/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (205.27 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/hr/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_hr.docx)
 
 íslenska (IS) (253.03 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/is/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_is.docx)
 
 italiano (IT) (202.59 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/it/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_it.docx)
 
 latviešu valoda (LV) (193.74 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/lv/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_lv.docx)
 
 lietuvių kalba (LT) (264 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/lt/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (205.38 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/hu/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (367.88 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/mt/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (175.29 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/nl/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_nl.docx)
 
 norsk (NO) (372.53 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/no/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (195.56 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/pl/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (159.24 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/pt/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (188.85 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/ro/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (250.39 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/sk/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (168.47 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/sl/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_sl.docx)
 
 Suomi (FI) (171.78 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/fi/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (170.29 KB - DOCX)
 
-**First published:**
-
-17/06/2025
+**First published:** 17/06/2025
 
 [View](/sv/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_sv.docx)
 
@@ -1153,8 +893,8 @@ svenska (SV) (170.29 KB - DOCX)
 
 - [EMEA-001784-PIP01-15-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001784-pip01-15-m04)
 
-**This page was last updated on** 23/02/2026
+**This page was last updated on**
+
+01/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-29 16:10:00
+document_datetime: 2026-04-01 17:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/firazyr.html
 document_name: firazyr.html
 version: success
-processing_time: 0.1403706
-conversion_datetime: 2026-02-01 20:08:56.438121
+processing_time: 0.1414727
+conversion_datetime: 2026-04-05 12:35:19.455246
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Firazyr
 
 [RSS](/en/individual-human-medicine.xml/66029)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-icatibant Medicine Human Authorised
+icatibant
+
+Medicine Human Authorised
 
 Page contents
 
@@ -111,275 +113,141 @@ Firazyr : EPAR - Summary for the public
 
 English (EN) (77.45 KB - PDF)
 
-**First published:** 14/07/2008
-
-**Last updated:** 06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/en/documents/overview/firazyr-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-768)
+[Other languages (22)](#file-language-dropdown-346)
 
 български (BG) (104.13 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/bg/documents/overview/firazyr-epar-summary-public_bg.pdf)
 
 español (ES) (77.37 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/es/documents/overview/firazyr-epar-summary-public_es.pdf)
 
 čeština (CS) (103.21 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/cs/documents/overview/firazyr-epar-summary-public_cs.pdf)
 
 dansk (DA) (77 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/da/documents/overview/firazyr-epar-summary-public_da.pdf)
 
 Deutsch (DE) (78.39 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/de/documents/overview/firazyr-epar-summary-public_de.pdf)
 
 eesti keel (ET) (75.94 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/et/documents/overview/firazyr-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (104.84 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/el/documents/overview/firazyr-epar-summary-public_el.pdf)
 
 français (FR) (77.79 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/fr/documents/overview/firazyr-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (97.17 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/hr/documents/overview/firazyr-epar-summary-public_hr.pdf)
 
 italiano (IT) (76.51 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/it/documents/overview/firazyr-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (98.52 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/lv/documents/overview/firazyr-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (100.12 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/lt/documents/overview/firazyr-epar-summary-public_lt.pdf)
 
 magyar (HU) (97.77 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/hu/documents/overview/firazyr-epar-summary-public_hu.pdf)
 
 Malti (MT) (114.66 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/mt/documents/overview/firazyr-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (77.22 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/nl/documents/overview/firazyr-epar-summary-public_nl.pdf)
 
 polski (PL) (102.29 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/pl/documents/overview/firazyr-epar-summary-public_pl.pdf)
 
 português (PT) (77.49 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/pt/documents/overview/firazyr-epar-summary-public_pt.pdf)
 
 română (RO) (98.77 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/ro/documents/overview/firazyr-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (101.42 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/sk/documents/overview/firazyr-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (96.8 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/sl/documents/overview/firazyr-epar-summary-public_sl.pdf)
 
 Suomi (FI) (76.41 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/fi/documents/overview/firazyr-epar-summary-public_fi.pdf)
 
 svenska (SV) (76.84 KB - PDF)
 
-**First published:**
-
-14/07/2008
-
-**Last updated:**
-
-06/12/2017
+**First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/sv/documents/overview/firazyr-epar-summary-public_sv.pdf)
 
@@ -395,305 +263,161 @@ English (EN) (704.61 KB - PDF)
 
 Firazyr : EPAR - Product information
 
-English (EN) (502.17 KB - PDF)
+English (EN) (500.71 KB - PDF)
 
-**First published:** 14/07/2009
-
-**Last updated:** 29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/en/documents/product-information/firazyr-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-13)
+[Other languages (24)](#file-language-dropdown-572)
 
-български (BG) (566.44 KB - PDF)
+български (BG) (564.06 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/bg/documents/product-information/firazyr-epar-product-information_bg.pdf)
 
-español (ES) (451.88 KB - PDF)
+español (ES) (449.85 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/es/documents/product-information/firazyr-epar-product-information_es.pdf)
 
-čeština (CS) (603.97 KB - PDF)
+čeština (CS) (600.76 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/cs/documents/product-information/firazyr-epar-product-information_cs.pdf)
 
-dansk (DA) (486.58 KB - PDF)
+dansk (DA) (485.67 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/da/documents/product-information/firazyr-epar-product-information_da.pdf)
 
-Deutsch (DE) (499.91 KB - PDF)
+Deutsch (DE) (496.8 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/de/documents/product-information/firazyr-epar-product-information_de.pdf)
 
-eesti keel (ET) (520.82 KB - PDF)
+eesti keel (ET) (519.18 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/et/documents/product-information/firazyr-epar-product-information_et.pdf)
 
-ελληνικά (EL) (599.71 KB - PDF)
+ελληνικά (EL) (598.93 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/el/documents/product-information/firazyr-epar-product-information_el.pdf)
 
-français (FR) (522.07 KB - PDF)
+français (FR) (517.2 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/fr/documents/product-information/firazyr-epar-product-information_fr.pdf)
 
-hrvatski (HR) (550.55 KB - PDF)
+hrvatski (HR) (549.04 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/hr/documents/product-information/firazyr-epar-product-information_hr.pdf)
 
-íslenska (IS) (497.14 KB - PDF)
+íslenska (IS) (531.69 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/is/documents/product-information/firazyr-epar-product-information_is.pdf)
 
-italiano (IT) (492.96 KB - PDF)
+italiano (IT) (491.65 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/it/documents/product-information/firazyr-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (554.21 KB - PDF)
+latviešu valoda (LV) (551.08 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/lv/documents/product-information/firazyr-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (569.12 KB - PDF)
+lietuvių kalba (LT) (569.2 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/lt/documents/product-information/firazyr-epar-product-information_lt.pdf)
 
-magyar (HU) (615.59 KB - PDF)
+magyar (HU) (594.49 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/hu/documents/product-information/firazyr-epar-product-information_hu.pdf)
 
-Malti (MT) (580.23 KB - PDF)
+Malti (MT) (577.31 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/mt/documents/product-information/firazyr-epar-product-information_mt.pdf)
 
-Nederlands (NL) (545.69 KB - PDF)
+Nederlands (NL) (544.15 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/nl/documents/product-information/firazyr-epar-product-information_nl.pdf)
 
-norsk (NO) (492.48 KB - PDF)
+norsk (NO) (483.47 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/no/documents/product-information/firazyr-epar-product-information_no.pdf)
 
-polski (PL) (559.76 KB - PDF)
+polski (PL) (557.48 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/pl/documents/product-information/firazyr-epar-product-information_pl.pdf)
 
-português (PT) (537.82 KB - PDF)
+português (PT) (534.77 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/pt/documents/product-information/firazyr-epar-product-information_pt.pdf)
 
-română (RO) (552.95 KB - PDF)
+română (RO) (549.08 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/ro/documents/product-information/firazyr-epar-product-information_ro.pdf)
 
-slovenčina (SK) (557.88 KB - PDF)
+slovenčina (SK) (554.49 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/sk/documents/product-information/firazyr-epar-product-information_sk.pdf)
 
-slovenščina (SL) (537.21 KB - PDF)
+slovenščina (SL) (535.09 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/sl/documents/product-information/firazyr-epar-product-information_sl.pdf)
 
-Suomi (FI) (487.05 KB - PDF)
+Suomi (FI) (484.32 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/fi/documents/product-information/firazyr-epar-product-information_fi.pdf)
 
-svenska (SV) (489.59 KB - PDF)
+svenska (SV) (486.88 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-29/01/2026
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/sv/documents/product-information/firazyr-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000323895 29/01/2026
+**Latest procedure affecting product information:** N/0000334728
+
+01/04/2026
 
 icon globe
 
@@ -713,305 +437,177 @@ Firazyr : EPAR - All authorised presentations
 
 English (EN) (21.39 KB - PDF)
 
-**First published:** 01/12/2008
-
-**Last updated:** 01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/en/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-453)
+[Other languages (24)](#file-language-dropdown-389)
 
 български (BG) (54.07 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/bg/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (46.52 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/es/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (50.57 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/cs/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (49.73 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/da/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (50.12 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/de/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (45.71 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/et/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (50.45 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/el/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (47.85 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/fr/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (49.04 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/hr/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (49.13 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/is/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (46.14 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/it/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (49.73 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/lv/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (49.15 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/lt/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (52.43 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/hu/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (50.78 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/mt/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (45.25 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/nl/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (49.21 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/no/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (51.61 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/pl/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (48.01 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/pt/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (48.58 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/ro/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (50.26 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/sk/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (46.79 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/sl/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (43.81 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/fi/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (48.33 KB - PDF)
 
-**First published:**
-
-01/12/2008
-
-**Last updated:**
-
-01/12/2020
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/sv/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Firazyr Active substance icatibant International non-proprietary name (INN) or common name icatibant Therapeutic area (MeSH) Angioedemas, Hereditary Anatomical therapeutic chemical (ATC) code B06AC02
+Name of medicine
+
+Firazyr
+
+Active substance
+
+icatibant
+
+International non-proprietary name (INN) or common name
+
+icatibant
+
+Therapeutic area (MeSH)
+
+Angioedemas, Hereditary
+
+Anatomical therapeutic chemical (ATC) code
+
+B06AC02
 
 ### Pharmacotherapeutic group
 
@@ -1023,13 +619,27 @@ Firazyr is indicated for symptomatic treatment of acute attacks of hereditary an
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000899 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000899
+
+Marketing authorisation holder
 
 Takeda Pharmaceuticals International AG
 
 50-58 Baggot Street Lower
 
-Opinion adopted 24/04/2008 Marketing authorisation issued 11/07/2008 Revision 27
+Opinion adopted
+
+24/04/2008
+
+Marketing authorisation issued
+
+11/07/2008
+
+Revision
+
+28
 
 ## Assessment history
 
@@ -1041,9 +651,9 @@ Collapse section
 
 Firazyr : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (128.26 KB - PDF)
+English (EN) (153.04 KB - PDF)
 
-**First published:** 29/01/2026
+**First published:** 29/01/2026 **Last updated:** 01/04/2026
 
 [View](/en/documents/procedural-steps-after/firazyr-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1051,9 +661,7 @@ Firazyr : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (255.32 KB - PDF)
 
-**First published:** 14/07/2009
-
-**Last updated:** 29/01/2026
+**First published:** 14/07/2009 **Last updated:** 29/01/2026
 
 [View](/en/documents/procedural-steps-after/firazyr-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1069,9 +677,7 @@ English (EN) (241.23 KB - PDF)
 
 Firazyr-H-C-000899-P46-036 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/285123/2024
+Adopted Reference Number: EMA/285123/2024
 
 English (EN) (336.23 KB - PDF)
 
@@ -1081,9 +687,7 @@ English (EN) (336.23 KB - PDF)
 
 Firazyr-H-C-899-P46-35 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/113530/2023
+Adopted Reference Number: EMA/113530/2023
 
 English (EN) (254.94 KB - PDF)
 
@@ -1093,29 +697,21 @@ English (EN) (254.94 KB - PDF)
 
 Firazyr-H-C-PSUSA-00001714-201707 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/271222/2018
+Adopted Reference Number: EMA/271222/2018
 
 English (EN) (121.29 KB - PDF)
 
-**First published:** 02/05/2018
-
-**Last updated:** 02/05/2018
+**First published:** 02/05/2018 **Last updated:** 02/05/2018
 
 [View](/en/documents/scientific-conclusion/firazyr-h-c-psusa-00001714-201707-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Firazyr-H-C-899-II-0034-G : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/702004/2017
+Adopted Reference Number: EMA/702004/2017
 
 English (EN) (1.5 MB - PDF)
 
-**First published:** 09/02/2018
-
-**Last updated:** 09/02/2018
+**First published:** 09/02/2018 **Last updated:** 09/02/2018
 
 [View](/en/documents/variation-report/firazyr-h-c-899-ii-0034-g-epar-assessment-report-variation_en.pdf)
 
@@ -1125,23 +721,17 @@ Reference Number: EMA/CHMP/590603/2017
 
 English (EN) (67.15 KB - PDF)
 
-**First published:** 15/09/2017
-
-**Last updated:** 15/09/2017
+**First published:** 15/09/2017 **Last updated:** 15/09/2017
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-firazyr-ii-34-g_en.pdf)
 
 Firazyr-H-C-899-II-0024-G : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/57346/2014
+Adopted Reference Number: EMA/CHMP/57346/2014
 
 English (EN) (1.12 MB - PDF)
 
-**First published:** 12/06/2014
-
-**Last updated:** 12/06/2014
+**First published:** 12/06/2014 **Last updated:** 12/06/2014
 
 [View](/en/documents/variation-report/firazyr-h-c-899-ii-0024-g-epar-assessment-report-variation_en.pdf)
 
@@ -1151,9 +741,7 @@ Firazyr : EPAR - Public assessment report
 
 English (EN) (783.5 KB - PDF)
 
-**First published:** 21/07/2008
-
-**Last updated:** 21/07/2008
+**First published:** 21/07/2008 **Last updated:** 21/07/2008
 
 [View](/en/documents/assessment-report/firazyr-epar-public-assessment-report_en.pdf)
 
@@ -1163,240 +751,194 @@ Reference Number: EMEA/CHMP/197104/2008
 
 English (EN) (32.39 KB - PDF)
 
-**First published:** 28/04/2008
-
-**Last updated:** 28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/en/documents/smop-initial/committee-medicinal-products-human-use-summary-positive-opinion-firazyr_en.pdf)
 
-#### News on Firazyr
+## News on Firazyr
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11 to 14 September 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-september-2017) 15/09/2017
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11 to 14 September 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-september-2017)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 February 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-february-2014) 21/02/2014
+15/09/2017
 
-#### More information on Firazyr
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 February 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-february-2014)
+
+21/02/2014
+
+## More information on Firazyr
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu-3-03-133) on 17 February 2003. Firazyr was withdrawn from the Community register of orphan medicinal products in July 2020 at the end of the 12-year period of market exclusivity.
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Firazyr : EPAR - Product information - tracked changes
 
-English (EN) (401.06 KB - DOCX)
+English (EN) (404.94 KB - DOCX)
 
-**First published:** 15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/en/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-929)
+[Other languages (24)](#file-language-dropdown-131)
 
-български (BG) (406.84 KB - DOCX)
+български (BG) (422.92 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/bg/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (359.12 KB - DOCX)
+español (ES) (361.92 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/es/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (444.74 KB - DOCX)
+čeština (CS) (453.26 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/cs/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (389.8 KB - DOCX)
+dansk (DA) (397.79 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/da/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (411.31 KB - DOCX)
+Deutsch (DE) (417.55 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/de/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (388.87 KB - DOCX)
+eesti keel (ET) (406.84 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/et/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (427.2 KB - DOCX)
+ελληνικά (EL) (442.94 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/el/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (406.68 KB - DOCX)
+français (FR) (411.86 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/fr/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (399.52 KB - DOCX)
+hrvatski (HR) (413.15 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/hr/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (398.57 KB - DOCX)
+íslenska (IS) (405 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/is/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (443.09 KB - DOCX)
+italiano (IT) (445.28 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/it/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (428.28 KB - DOCX)
+latviešu valoda (LV) (445.38 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/lv/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (351.29 KB - DOCX)
+lietuvių kalba (LT) (376.57 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/lt/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (412.17 KB - DOCX)
+magyar (HU) (420.35 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/hu/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (392 KB - DOCX)
+Malti (MT) (408.64 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/mt/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (406.97 KB - DOCX)
+Nederlands (NL) (410.63 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/nl/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (388.18 KB - DOCX)
+norsk (NO) (396.47 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/no/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (412.49 KB - DOCX)
+polski (PL) (419.77 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/pl/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (398 KB - DOCX)
+português (PT) (409.73 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/pt/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (372.13 KB - DOCX)
+română (RO) (384 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/ro/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (408.95 KB - DOCX)
+slovenčina (SK) (420.47 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/sk/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (393.53 KB - DOCX)
+slovenščina (SL) (408.61 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/sl/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (402.75 KB - DOCX)
+Suomi (FI) (413.7 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/fi/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (391.81 KB - DOCX)
+svenska (SV) (401.57 KB - DOCX)
 
-**First published:**
-
-15/10/2025
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/sv/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Firazyr
+## More information on Firazyr
 
 - [EMEA-000408-PIP01-08-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000408-pip01-08-m05)
 - [EMEA-000408-PIP02-12 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000408-pip02-12)
 - [Firazyr - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/firazyr)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 29/01/2026
+**This page was last updated on**
+
+01/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2026-03-31 12:38:09
+document_datetime: 2026-04-01 12:02:33
 document_pages: 110
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/brilique-epar-product-information_en.pdf
 document_name: brilique-epar-product-information_en.pdf
 version: success
-processing_time: 35.666909
-conversion_datetime: 2026-04-01 12:36:41.977262
+processing_time: 35.1829731
+conversion_datetime: 2026-04-05 12:24:17.298612
 docling_version:
   docling-serve: 1.15.1
   docling-jobkit: 1.14.0

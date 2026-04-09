@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-01-21 18:35:19
-document_pages: 20
+document_datetime: 2026-04-08 15:25:49
+document_pages: 22
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/yellox-epar-product-information_en.pdf
 document_name: yellox-epar-product-information_en.pdf
 version: success
-processing_time: 5.7622164
-conversion_datetime: 2025-12-19 02:00:30.108918
+processing_time: 5.7345573
+conversion_datetime: 2026-04-09 12:32:21.147811
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -130,9 +130,9 @@ No interaction studies have been performed. No interactions with antibiotic eye 
 
 ## Pregnancy
 
-There are no adequate data from the use of bromfenac in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). The potential risk for humans is unknown. Since the systemic exposure in non-pregnant women is negligible after treatment with Yellox, the risk during pregnancy could be considered low.
+There are no adequate data from the use of bromfenac in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). Even if systemic exposure is very low after treatment with Yellox, it is not known if the systemic Yellox exposure reached after ophthalmic administration can be harmful to an embryo/foetus. During the first and second trimester of pregnancy, Yellox should not be used unless clearly necessary. If used, the dose should be kept as low and duration of treatment as short as possible.
 
-However, because of the known effects of prostaglandin biosynthesis-inhibiting medicinal products on the foetal cardiovascular system (closure of ductus arteriosus), the use of Yellox during third trimester pregnancy should be avoided. The use of Yellox is in general not recommended during pregnancy unless the benefit outweighs the potential risk.
+During the third trimester of pregnancy, systemic use of prostaglandin synthetase inhibitors may induce cardiopulmonary and renal toxicity in the foetus. At the end of the pregnancy prolonged bleeding time in both mother and child may occur, and labour can be delayed. Therefore, Yellox is not recommended during the last trimester of pregnancy.
 
 ## Breast-feeding
 
@@ -154,11 +154,9 @@ Based on clinical data available, a total of 3.4% of patients experienced one or
 
 ## Tabulated list of adverse reactions
 
-The following adverse reactions were classified according to the following convention: Very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000);
-
 <div style=\"page-break-after: always\"></div>
 
-very rare (&lt;1/10,000).  Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The following adverse reactions were classified according to the following convention: Very common (≥1/10); common (≥1/100 to &lt;1/10); u ncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1 ,000); very rare (&lt;1/10,000).  Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 The table below describes adverse reactions by system organ class and frequency.
 
@@ -538,7 +536,9 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 If you are pregnant or breastfeeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before you use Yellox.
 
-Yellox should not be used during the last three months of pregnancy. The doctor may prescribe this medicine during pregnancy if expected benefit to mother outweigh possible risk to baby.
+Yellox should not be used during the last three months of pregnancy.You should not use Yellox during the first 6 months of pregnancy unless clearly necessary and advised by your doctor. If you need treatment during this period, the lowest dose for the shortest time possible should be used.
+
+Oral forms (e.g. tablets) of similar medicines can cause adverse effects in your unborn baby. It is not known if the same risk applies to Yellox when it is used in the eye.
 
 Yellox may be prescribed to breast-feeding woman and have no important influence on fertility.
 
@@ -573,12 +573,13 @@ The recommended dose is one drop of Yellox in the affected eye(s) twice daily (m
 - -Tilt your head back.
 - -Pull down your lower eyelid with a clean finger.
 - -Bring the bottle tip close to the eye.
+
+<div style=\"page-break-after: always\"></div>
+
 - -Do not touch your eye or eyelid, surrounding areas or other surfaces with the dropper.
 - -Gently squeeze the bottle to release one drop of Yellox.
 - -Close the bottle cap firmly immediately after use.
 - -Keep the bottle tightly closed when not in use.
-
-<div style=\"page-break-after: always\"></div>
 
 If you use any other eye drops, wait at least five minutes between using Yellox and the other drops.
 
@@ -626,11 +627,11 @@ By reporting side effects you can help provide more information on the safety of
 
 ## 5. How to store Yellow
 
+<div style=\"page-break-after: always\"></div>
+
 Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the bottle and outer carton after 'EXP'. The expiry date refers to the last day of that month.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not store above 25°C.
 
@@ -660,3 +661,23 @@ Dr. Gerhard Mann Chem.-pharm. Fabrik GmbH Brunsbütteler Damm 165/173 13581 Berl
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the website of the European Medicines Agency http://www.ema.europa.eu
+
+<div style=\"page-break-after: always\"></div>
+
+## Annex IV Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for bromfenac, the scientific conclusions of PRAC are as follows:
+
+In view of available data on risks when used during pregnancy, from the literature and spontaneous reports within the same class, and in view of a plausible mechanism of action, the PRAC considers a causal relationship between bromfenac and risks with use during pregnancy is at least a reasonable possibility. The PRAC concluded that the product information of products containing bromfenac should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for bromfenac the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing bromfenac is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

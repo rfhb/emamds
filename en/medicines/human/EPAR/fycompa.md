@@ -1,11 +1,11 @@
 ---
-document_datetime: 2026-04-01 17:12:00
+document_datetime: 2026-04-08 16:01:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fycompa.html
 document_name: fycompa.html
 version: success
-processing_time: 0.1084785
-conversion_datetime: 2026-04-05 12:31:03.484483
+processing_time: 0.1307447
+conversion_datetime: 2026-04-09 12:21:25.95365
 docling_version:
   docling-serve: 1.15.1
   docling-jobkit: 1.14.0
@@ -106,7 +106,7 @@ English (EN) (134.75 KB - PDF)
 
 [View](/en/documents/overview/fycompa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-710)
+[Other languages (22)](#file-language-dropdown-828)
 
 български (BG) (159.72 KB - PDF)
 
@@ -258,7 +258,7 @@ English (EN) (735.79 KB - PDF)
 
 [View](/en/documents/product-information/fycompa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-182)
+[Other languages (24)](#file-language-dropdown-596)
 
 български (BG) (786.29 KB - PDF)
 
@@ -430,7 +430,7 @@ English (EN) (27.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fycompa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-943)
+[Other languages (24)](#file-language-dropdown-722)
 
 български (BG) (49.79 KB - PDF)
 
@@ -631,7 +631,7 @@ Marketing authorisation issued
 
 Revision
 
-34
+35
 
 ## Assessment history
 
@@ -648,6 +648,16 @@ English (EN) (227.29 KB - PDF)
 **First published:** 17/10/2012 **Last updated:** 10/05/2023
 
 [View](/en/documents/procedural-steps-after/fycompa-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+
+Fycompa-H-C-002434-P46-030 : EPAR - Assessment report
+
+Adopted Reference Number: EMA/CHMP/56277/2025
+
+English (EN) (574.2 KB - PDF)
+
+**First published:** 08/04/2026
+
+[View](/en/documents/variation-report/fycompa-h-c-002434-p46-030-epar-assessment-report_en.pdf)
 
 Fycompa-PAM-0000307849 : EPAR - Assessment report
 
@@ -884,6 +894,6 @@ English (EN) (71.89 KB - PDF)
 
 **This page was last updated on**
 
-01/04/2026
+08/04/2026
 
 ## Share this page

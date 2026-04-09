@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-24 12:22:05
+document_datetime: 2026-04-08 11:47:38
 document_pages: 77
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/crysvita-epar-product-information_en.pdf
 document_name: crysvita-epar-product-information_en.pdf
 version: success
-processing_time: 21.5458286
-conversion_datetime: 2025-12-27 17:56:53.379517
+processing_time: 20.6693446
+conversion_datetime: 2026-04-09 12:25:18.057804
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -160,7 +160,7 @@ The recommended starting dose for adolescents aged 13 to 17 years is 0.3 mg/kg o
 
 ## Dose increase
 
-If serum phosphate is below the reference range for age, the dose may be increased in a stepwise manner. Doses should be increased by an initial increment of 0.3 mg/kg with subsequent increments of between 0.2 mg/kg -0.5 mg/kg (dose increment dependent on the patient's serum phosphate response to treatment), rounding the amount as described above, up to a maximum dose of 2.0 mg/kg (maximum dose 180 mg), given every 2 weeks. Fasting serum phosphate should be measured 4 weeks after dose adjustment. Burosumab should not be adjusted more frequently than every 4 weeks.
+If serum phosphate is below the reference range for age, the dose may be increased in a stepwise manner. Doses should be increased by an initial increment of 0.3 mg/kg with subsequent increments of between 0.2 mg/kg - 0.5 mg/kg (dose increment dependent on the patient's serum phosphate response to treatment), rounding the amount as described above, up to a maximum dose of 2.0 mg/kg (maximum dose 180 mg), given every 2 weeks. Fasting serum phosphate should be measured 4 weeks after dose adjustment. Burosumab should not be adjusted more frequently than every 4 weeks.
 
 ## Dosing in Children and Adolescents with TIO aged 1 to 17 years
 
@@ -184,7 +184,7 @@ After initiation of treatment with burosumab, fasting serum phosphate should be 
 
 ## Dose increase
 
-If serum phosphate is below the reference range, the dose may be increased in a stepwise manner. Doses should be increased by an initial increment of 0.3 mg/kg, with subsequent increments of between 0.2 mg/kg -0.5 mg/kg (dose dependent on the patient's response to treatment), up to a maximum dose of 2.0 mg/kg (maximum dose 180 mg), given every 4 weeks. Fasting serum phosphate should be measured 2 weeks after dose adjustment.
+If serum phosphate is below the reference range, the dose may be increased in a stepwise manner. Doses should be increased by an initial increment of 0.3 mg/kg, with subsequent increments of between 0.2 mg/kg - 0.5 mg/kg (dose dependent on the patient's response to treatment), up to a maximum dose of 2.0 mg/kg (maximum dose 180 mg), given every 4 weeks. Fasting serum phosphate should be measured 2 weeks after dose adjustment.
 
 For patients whose serum phosphate still remains below the reference range, despite providing the maximum dose every 4 weeks, the previous dose may be divided and given every 2 weeks, with
 
@@ -369,7 +369,7 @@ The most common (&gt; 10%) adverse drug reactions reported in paediatric patient
 
 abscess (40%), vitamin D decreased (28%), diarrhoea (27%), nausea (21%), rash (20%), constipation (12%), and dental caries (11%).
 
-The most common (&gt; 10%) adverse drug reactions reported during clinical trials in adult patients with XLH or adult patients with TIO, based on completed long term studies up to a maximum exposure to burosumab of 300 weeks (with variable period of exposure across the safety population), were: back pain (30%), injection site reaction (29%), headache (28%), tooth infection (28%), vitamin D decrease (28%), muscle spasms (18%), restless legs syndrome (16%), dizziness (16%) and constipation (13%) (s ee section 4.4 and 'Description of selected adverse reactions' below).
+The most common (&gt; 10%) adverse drug reactions reported during clinical trials in adult patients with XLH or adult patients with TIO, based on completed long term studies up to a maximum exposure to burosumab of 300 weeks (with variable period of exposure across the safety population), were: back pain (30%), injection site reaction (29%), headache (28%), tooth infection (28%), vitamin D decrease (28%), muscle spasms (18%), restless legs syndrome (16%), dizziness (16%) and constipation (13%) (see section 4.4 and 'Description of selected adverse reactions' below).
 
 ## Tabulated lists of adverse reactions
 
@@ -397,6 +397,16 @@ Table 1: Adverse reactions reported in paediatric patients 1 to 17 years of age 
 | Investigations                                       | Very common          | Vitamin D decreased 10                                  |
 | Investigations                                       | Common               | Blood parathyroid hormone increased (see section 4.4) 4 |
 | Investigations                                       | Not known            | Blood phosphorus increased 11                           |
+
+4 Seen in clinical trials, confirmed by post-marketing experience
+
+5 Hypercalciuria includes: Hypercalciuria and Urine calcium increased
+
+6 Cough includes: Cough, and Productive cough
+
+7 Dizziness includes: Dizziness, and Dizziness exertional
+
+8 Rash includes: Rash, Rash erythematous, Rash generalised, Rash pruritic, Rash maculo-papular, and Rash pustular
 
 <div style=\"page-break-after: always\"></div>
 
@@ -458,7 +468,7 @@ Reduced serum 25 hydroxy-vitamin D has been observed following initiation of bur
 
 ## Hyperphosphataemia Adult patients with XLH or TIO:
 
-In XLH patients, in the placebo-controlled treatment period of Study UX023-CL303 in the burosumab group, 9 subjects (13.2%) had high serum phosphate at least once; 5 of these 9 required protocolspecified dose reduction(s). After initiation of burosumab in the open-label Treatment Continuation Period, 8 subjects (12.1%) in the placebo→burosumab group had high serum phosph ate levels. Four of these 8 subjects required protocol-specified dose reduction(s). The dose for all patients meeting the protocol-specified criteria was reduced by 50%. A single patient (1%) required a second dose reduction for continued hyperphosphataemia.
+In XLH patients, in the placebo-controlled treatment period of Study UX023-CL303 in the burosumab group, 9 subjects (13.2%) had high serum phosphate at least once; 5 of these 9 required protocolspecified dose reduction(s). After initiation of burosumab in the open-label Treatment Continuation Period, 8 subjects (12.1%) in the placebo→burosumab group had high serum phosphate levels. Four of these 8 subjects required protocol-specified dose reduction(s). The dose for all patients meeting the protocol-specified criteria was reduced by 50%. A single patient (1%) required a second dose reduction for continued hyperphosphataemia.
 
 In patients with TIO, based on data from completed long term clinical studies, 11% of patients experienced events of hyperphosphataemia, which were managed with dose reduction.
 
@@ -472,7 +482,7 @@ In XLH patients, in the placebo-controlled treatment period of Study UX023-CL303
 
 ## Paediatric patients with XLH:
 
-Overall, the incidence of anti-drug antibodies (ADA) to burosumab in paediatric patients administered burosumab, based on data from clinical studies was 10%. The incidence of neutralising ADA in paediatric patients was 3%. No adverse events, loss of efficacy , or changes in the pharmacokinetic profile of burosumab were associated with these findings.
+Overall, the incidence of anti-drug antibodies (ADA) to burosumab in paediatric patients administered burosumab, based on data from clinical studies was 10%. The incidence of neutralising ADA in paediatric patients was 3%. No adverse events, loss of efficacy, or changes in the pharmacokinetic profile of burosumab were associated with these findings.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -514,23 +524,31 @@ In paediatric study UX023-CL301 61 patients aged 1 to 12 years (56% female; 44% 
 
 The primary efficacy endpoint was the change in severity of rickets at Week 40, as assessed by the RGI-C (Radiographic Global Impression of change) score, compared between the burosumab and active control groups.
 
-The RGIC is a relative rating scale that compares a patient's rickets before and after treatment utilising a 7-point ordinal scale to evaluate change in the same abnormalities rated in the RSS (as described below). Scores range from -3 (indicating severe worsening of rickets) to +3 (indicating complete healing of rickets).
+The RGI-C is a relative rating scale that compares a patient's rickets before and after treatment utilising a 7-point ordinal scale to evaluate change in the same abnormalities rated in the RSS (as described below). Scores range from -3 (indicating severe worsening of rickets) to +3 (indicating complete healing of rickets).
 
 The severity of paediatric rickets was measured using the RSS, a radiographic scoring method based on the degree of metaphyseal fraying, concavity, and the proportion of the growth plate affected. In the UX023-CL301 study, the RSS was scored using a predefined scale looking at specific abnormalities in the wrists and knees.
 
-All patients (n=61) completed the 64 Week randomised Treatment Period. No patients had dose reductions and 8 (28%) of burosumab-treated patients received dose escalations to 1.2 mg/kg. A total of 51 patients entered the Treatment Extension Period, 26 patients in the active control →burosumab group and 25 patients in the burosumab→burosumab group, and were treated with burosumab up to 124 Weeks.
+All patients (n=61) completed the 64 Week randomised Treatment Period. No patients had dose reductions and 8 (28%) of burosumab-treated patients received dose escalations to 1.2 mg/kg. A total of 51 patients entered the Treatment Extension Period, 26 patients in the active control→burosumab group and 25 patients in the burosumab→burosumab group, and were treated with burosumab up to 124 Weeks.
 
 ## Primary Efficacy Results
 
 Greater healing of rickets at Week 40 was seen with burosumab treatment compared to active control and this effect was maintained at week 64, as shown in Figure 1. These results were sustained to Week 88 (n=21).
 
-Figure 1: RGIC Global Score (Mean ± SE) Primary Efficacy Endpoint at Week 40 and 64 (Full Analysis Set)
+Figure 1: RGI-C Global Score (Mean ± SE) - Primary Efficacy Endpoint at Week 40 and 64 (Full Analysis Set)
 
 <!-- image -->
+
+Week 40 (Primary Analysis)
+
+Week 64
+
+LS mean difference: +1.14 (95% CI: 0.83, 1.45), LS mean difference: +1.02 (95% CI: +0.72, +1.33), p&lt; 0.0001, ANCOVA model
 
 ## Secondary Efficacy Results
 
 Key Secondary efficacy endpoint results for Weeks 40 and 64 are presented in Table 3. These results were sustained to Week 88 (n=21).
+
+p&lt; 0.0001, GEE model
 
 <div style=\"page-break-after: always\"></div>
 
@@ -569,7 +587,7 @@ Note: Dashed line in figure indicates the lower limit of the normal serum phosph
 
 <!-- image -->
 
-During the Treatment Extension Period (Week 66 to Week 140), prolonger burosumab treatment in both groups ( burosumab→burosumab (n=25) and active control→burosumab (n=26) the results were sustained.
+During the Treatment Extension Period (Week 66 to Week 140), prolonger burosumab treatment in both groups (burosumab→burosumab (n=25) and active control→burosumab (n=26) the results were sustained.
 
 ## Study UX023-CL201
 
@@ -596,8 +614,8 @@ Table 4: Rickets Response in Children 5-12 Years Receiving Burosumab in Study UX
 |                                                                                              | (week)                  | Q2W(N=26)                             | Q4W(N=26)                             |
 | RSS Total Score Baseline Mean (SD) LS Mean change (SE)                                       | 40                      | 1.92 (1.2) -1.06 (0.100) (p < 0.0001) | 1.67 (1.0) -0.73 (0.100) (p < 0.0001) |
 | from baseline in total score a (reduced RSS score indicates improvement in rickets severity) | 64                      | -1.00 (0.1) (p < 0.0001)              | -0.84 (0.1) (p < 0.0001)              |
-| RGI-C Global Score LS Mean score (SE) a                                                      | 40                      | +1.66 (0.1) (p < 0.0001)              | +1.47 (0.1) (p < 0.0001)              |
-| (positive indicates healing)                                                                 | 64                      | +1.56 (0.1) (p < 0.0001)              | +1.58 (0.1) (p < 0.0001)              |
+| RGI-C Global Score LS Mean score (SE) a (positive indicates healing)                         | 40                      | +1.66 (0.1) (p < 0.0001)              | +1.47 (0.1) (p < 0.0001)              |
+| RGI-C Global Score LS Mean score (SE) a (positive indicates healing)                         | 64                      | +1.56 (0.1) (p < 0.0001)              | +1.58 (0.1) (p < 0.0001)              |
 
 a) The estimates of LS means and p-values are from the generalized estimation equation model accounting for baseline RSS, visits and regimen and its interaction.
 
@@ -617,7 +635,7 @@ Mean total RSS improved from 2.92 (1.367) at baseline to 1.19 (0.522) at Week 40
 
 ## Radiographic Global Impression of Change (RGI-C)
 
-After 40 weeks of treatment with burosumab, the LS mean (SE) RGI-C Global score was +2.21 (0.071) in all 13 patients (p &lt; 0.0001) demonstrating healing of rickets. All 13 patients were considered RGI-C responders as defined by RGIC global score ≥ +2.0. The RGI-C global score was sustained to Weeks 64, 112, and 160.
+After 40 weeks of treatment with burosumab, the LS mean (SE) RGI-C Global score was +2.21 (0.071) in all 13 patients (p &lt; 0.0001) demonstrating healing of rickets. All 13 patients were considered RGI-C responders as defined by RGI-C global score ≥ +2.0. The RGI-C global score was sustained to Weeks 64, 112, and 160.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -857,7 +875,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## CRYSVITA solution for injection in pre-filled syringe
 
-Chemical and physical inuse stability has been demonstrated for 48 hours at 25°C when protected from light.
+Chemical and physical in-use stability has been demonstrated for 48 hours at 25°C when protected from light.
 
 From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user.
 
@@ -952,6 +970,8 @@ Name and address of the manufacturer responsible for batch release allphamed PHA
 
 Kyowa Kirin Holdings B.V. Bloemlaan 2 2132NP Hoofddorp The Netherlands
 
+Kyowa Kirin Services Ltd. Dutch Branch Bloemlaan 2 Hoofddorp 2132 NP Netherlands
+
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
@@ -970,9 +990,9 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 ## · Risk management plan (RMP)
 
-The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
-
 <div style=\"page-break-after: always\"></div>
+
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
@@ -1203,9 +1223,9 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| 20 mg VIAL                                                       |
+| MINIMUM PARTICULARS TO APPEARON SMALL IMMEDIATE PACKAGING UNITS   |
+|-------------------------------------------------------------------|
+| 20 mg VIAL                                                        |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
@@ -1225,8 +1245,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
+|------|-----------------------------------------|
 
 1 ml
 
@@ -1319,9 +1339,11 @@ CRYSVITA 30 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1573,27 +1595,28 @@ PC SN NN
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
 
+| 6.   | OTHER   |
+|------|---------|
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
 CRYSVITA 20 mg injection burosumab SC
 
 ## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 0.67 ml
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1687,9 +1710,9 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| 30 mg PRE-FILLED SYRINGE                                         |
+| MINIMUM PARTICULARS TO APPEARON SMALL IMMEDIATE PACKAGING UNITS   |
+|-------------------------------------------------------------------|
+| 30 mg PRE-FILLED SYRINGE                                          |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
@@ -1785,7 +1808,7 @@ CRYSVITA attaches to FGF23 in the blood which stops FGF23 from working and incre
 
 - you are allergic to burosumab or any of the other ingredients of this medicine (listed in section 6)
 - you are taking any phosphate supplements or certain vitamin D supplements (that contain so called active vitamin D, e.g. calcitriol)
-- you already have a high level of phosphate in your blood ('hyper -phosphataemia')
+- you already have a high level of phosphate in your blood ('hyper-phosphataemia')
 - you have severe kidney disease or kidney failure.
 
 ## Allergic reactions
@@ -1859,7 +1882,7 @@ This medicine contains 0.5 mg of polysorbate 80 in each vial which is equivalent
 
 ## 3. How to use CRYSVITA
 
-CRYSVITA should be given by injection under the skin (subcutaneous use) in the upper arm, abdomen, buttock or thigh. This medicine will be given to you or your child by a healthcare provider. Alternatively, your doctor may recommend that you inject yourself or your child. A healthcare provider will show you how to do this. The first self-injection after start of treatment or after any dose change should be carried out in front of them. A detaile d 'Instructions for Use' section is provided at the end of this leaflet. Always follow these instructions carefully when giving yourself or your child the CRYSVITA injection.
+CRYSVITA should be given by injection under the skin (subcutaneous use) in the upper arm, abdomen, buttock or thigh. This medicine will be given to you or your child by a healthcare provider. Alternatively, your doctor may recommend that you inject yourself or your child. A healthcare provider will show you how to do this. The first self-injection after start of treatment or after any dose change should be carried out in front of them. A detailed 'Instructions for Use' section is provided at the end of this leaflet. Always follow these instructions carefully when giving yourself or your child the CRYSVITA injection.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1984,7 +2007,7 @@ If you get any side effects, talk to your doctor or nurse. This includes any pos
 
 ## Keep CRYSVITA out of the sight and reach of children.
 
-Do not use CRYSVITA after the expiry date which is stated on the carton and label after ' EXP ' . The expiry date refers to the last day of that month.
+Do not use CRYSVITA after the expiry date which is stated on the carton and label after 'EXP'. The expiry date refers to the last day of that month.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2017,6 +2040,8 @@ Kyowa Kirin Holdings B.V. Bloemlaan 2 2132NP Hoofddorp The Netherlands medinfo@k
 allphamed PHARBIL Arzneimittel GmbH Hildebrandstr. 10-12 37081 Göttingen Germany
 
 Kyowa Kirin Holdings B.V. Bloemlaan 2 2132NP Hoofddorp The Netherlands
+
+Kyowa Kirin Services Ltd. Dutch Branch Bloemlaan 2 Hoofddorp 2132 NP Netherlands
 
 ## This leaflet was last revised in
 
@@ -2111,9 +2136,7 @@ Depending on the supplies you have been given;
 
 Do not touch the needle itself or the end of the syringe where the needle attaches.
 
-Once the needle is firmly attached, hold the syringe by the barrel with the needle pointing up. Remove the needle cap by pulling it straight off.
-
-Do not throw the needle cap away.
+Once the needle is firmly attached, hold the syringe by the barrel with the needle pointing up. Remove the needle cap by pulling it straight off. Do not throw the needle cap away.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2131,11 +2154,9 @@ Always use the mark equal to your dose. If you are not sure, ask your healthcare
 
 Pull back the syringe plunger until the end of the plunger lines up with mark equal to your dose. This fills the syringe with air.
 
-Keep the vial on a flat surface. Slowly insert the large needle through the rubber
+Keep the vial on a flat surface. Slowly insert the large needle through the rubber stopper and into the vial. Do not let the tip of the needle touch the liquid in
 
-stopper and into the vial.
-
-Do not let the tip of the needle touch the liquid in the vial.
+the vial.
 
 If the tip of the needle touches the liquid, slowly pull the needle until it no longer touches the liquid.
 
@@ -2236,11 +2257,9 @@ Your healthcare provider will show you which angle you should use.
 
 <!-- image -->
 
-90°
+Use a quick 'dart-like' motion to insert the needle into the pinched skin. Do not push the plunger when inserting the needle.
 
 <!-- image -->
-
-Use a quick 'dart -like' motion to insert the needle into the pinched skin. Do not push the plunger when inserting the needle.
 
 <!-- image -->
 
@@ -2338,7 +2357,7 @@ CRYSVITA attaches to FGF23 in the blood which stops FGF23 from working and incre
 
 - you are allergic to burosumab or any of the other ingredients of this medicine (listed in section 6)
 - you are taking any phosphate supplements or certain vitamin D supplements (that contain so called active vitamin D, e.g. calcitriol)
-- you already have a high level of phosphate in your blood ('hyper -phosphataemia')
+- you already have a high level of phosphate in your blood ('hyper-phosphataemia')
 - you have severe kidney disease or kidney failure.
 
 ## Allergic reactions
@@ -2382,7 +2401,7 @@ Do not take CRYSVITA and tell your doctor if you are taking:
 - phosphate supplements
 - certain vitamin D supplements (that contain so called active vitamin D, e.g. calcitriol). There are some vitamin D supplements you can continue or start to use and your doctor will advise which ones these are.
 
-Talk to your doctor before taking CRYSVITA:
+## Talk to your doctor before taking CRYSVITA:
 
 - if you are taking medicines that work in the same way as calcium in the body ('calcimimetics'). Your doctor may monitor your calcium levels more closely.
 - if you are a patient with TIO and you are about to receive treatment of the underlying tumour (i.e. radiation therapy or surgical removal). In this case, treatment with CRYSVITA will not be started until after the treatment of the underlying tumour and if the serum phosphate levels are low.
@@ -2428,7 +2447,7 @@ Polysorbates may cause allergic reactions. Tell you doctor if you or your child 
 
 CRYSVITA should be given by injection under the skin (subcutaneous use) in the upper arm, abdomen, buttock or thigh. This medicine can be given to you by a healthcare provider, or alternatively, your doctor may recommend that you or your caregiver can inject CRYSVITA. If you are suggested to selfinject, a healthcare provider will provide training to show you or your caregiver the correct way to use CRYSVITA before the first self-injection.
 
-The first self-injection after start of treatment or after any dose change should be carried out in front of the healthcare provider . A detailed 'Instructions for Use' section for using the pre -filled syringe is provided at the end of this leaflet. Follow these instructions carefully when giving yourself or your child the CRYSVITA injection.
+The first self-injection after start of treatment or after any dose change should be carried out in front of the healthcare provider. A detailed 'Instructions for Use' section for using the pre-filled syringe is provided at the end of this leaflet. Follow these instructions carefully when giving yourself or your child the CRYSVITA injection.
 
 Always use this medicine exactly as your doctor, nurse or pharmacist has told you. Check with your doctor, nurse or pharmacist if you are not sure.
 
@@ -2605,6 +2624,8 @@ allphamed PHARBIL Arzneimittel GmbH Hildebrandstr. 10-12 37081 Göttingen German
 
 Kyowa Kirin Holdings B.V. Bloemlaan 2 2132NP Hoofddorp The Netherlands
 
+Kyowa Kirin Services Ltd. Dutch Branch Bloemlaan 2 Hoofddorp 2132 NP Netherlands
+
 ## This leaflet was last revised in
 
 ## Other sources of information
@@ -2650,7 +2671,9 @@ Step 1. Gather and Inspect Supplies
 
 CRYSVITA should be stored in a refrigerator before use. When you need to give CRYSVITA to yourself or someone else, take CRYSVITA out of the refrigerator, but keep it in the carton. Place the carton on a clean, flat surface.
 
-Look at the CRYSVITA cartons to check the strength of each pre-filled syringe you have been given. Make sure that you have the correct number of syringes, and correct strengths of each pre-filled syringes to match the dose in mg as advised by your healthcare provider. If you are not sure, ask your healthcare provider for advice.
+Look at the CRYSVITA cartons to check the strength of each pre-filled syringe you have been given. Make sure that you have the correct number of syringes, and correct strengths of each pre-filled syringes to match the dose in mg as advised by your healthcare provider.
+
+If you are not sure, ask your healthcare provider for advice.
 
 Let the pre-filled syringe carton warm to room temperature for 45 minutes . Do not warm the pre-filled syringe in any other way, such as with hot water or a microwave oven. Do not put the pre-filled syringe in direct sunlight.
 
@@ -2697,7 +2720,7 @@ Do not use the pre-filled syringe if the liquid is discoloured, cloudy or contai
 
 Wash your hands thoroughly with soap and water before going to Step 2.
 
-Step 2. Prepare the Injection Site
+## Step 2. Prepare the Injection Site
 
 <!-- image -->
 
@@ -2747,7 +2770,7 @@ OR
 
 Hold the syringe between the thumb and index finger of your dominant hand. The needle should be inserted into the skin at a 45° angle or 90° angle. Your healthcare provider will tell you which angle you should use.
 
-Use a quick 'dart -like' motion to insert the needle into the pinched skin. Do not push the plunger when inserting the needle.
+Use a quick 'dart-like' motion to insert the needle into the pinched skin. Do not push the plunger when inserting the needle.
 
 Hold by the syringe body with one hand and with the needle cap pointed away from you . Pull the needle cap straight off with your other hand.
 

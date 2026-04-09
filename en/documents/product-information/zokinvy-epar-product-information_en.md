@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-01-06 10:43:39
-document_pages: 44
+document_datetime: 2026-04-07 12:51:11
+document_pages: 47
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zokinvy-epar-product-information_en.pdf
 document_name: zokinvy-epar-product-information_en.pdf
 version: success
-processing_time: 11.2924311
-conversion_datetime: 2025-12-20 10:45:16.59488
+processing_time: 11.3113046
+conversion_datetime: 2026-04-09 12:45:54.248582
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -68,11 +68,9 @@ Treatment should be initiated by a physician experienced in the treatment of pat
 
 Starting dose
 
-For all indications, the recommended starting dose is 115 mg/m 2 twice daily. The Du Bois formula was used in clinical trials and should be used to calculate body surface area for dosing. All total daily
-
 <div style=\"page-break-after: always\"></div>
 
-doses should be rounded to the nearest 25 mg increment and divided into two equal, or near equal, doses (see Table 1). Doses should be taken approximately 12 hours apart from one another (morning and evening).
+For all indications, the recommended starting dose is 115 mg/m 2 twice daily. The Du Bois formula was used in clinical trials and should be used to calculate body surface area for dosing. All total daily doses should be rounded to the nearest 25 mg increment and divided into two equal, or near equal, doses (see Table 1). Doses should be taken approximately 12 hours apart from one another (morning and evening).
 
 Table 1: Recommended starting dose and administration schedule for 115 mg/m 2  body surface area-based dosing
 
@@ -87,7 +85,7 @@ Table 1: Recommended starting dose and administration schedule for 115 mg/m 2  b
 | 0.82 - 0.92                | 200                                   | 2                                   |                                     | 2                                   |                                     |
 | 0.93 - 1                   | 225                                   | 1                                   | 1                                   | 2                                   |                                     |
 
-* For patients with a body surface area of 0.30 m 2 to 0.38 m 2 , the contents of a 75 mg capsule must be mixed with 10 mL of orange juice. Half of the mixture (5 mL) equates to a 37.5 mg dose of lonafarnib. This dose will be prepared and consumed twice daily (see section 6.6).
+* For patients with a body surface area of 0.30 m 2 to 0.38 m 2 , the contents of a 75 mg capsule must be mixed with 10 mL soft food (see Method of administration). This dose will be prepared and consumed twice daily (see section 6.6).
 
 ## Maintenance dose
 
@@ -112,27 +110,21 @@ Table 2: Recommended maintenance dose and administration schedule for 150 mg/m 2
 
 If a dose is missed, the dose should be taken as soon as possible, up to 8 hours prior to the next scheduled dose with food. If less than 8 hours remain before the next scheduled dose, the missed dose should be skipped and the dose regimen should be resumed at the next scheduled dose.
 
-Patients taking the starting dose of 115 mg/m 2 with a body surface area of 0.30 m 2 to 0.38 m 2 Patients will need to receive a daily dose of 75 mg (37.5 mg twice daily). The contents of a lonafarnib 75 mg capsule should be mixed with 10 mL of orange juice. Only half of the 10-mL mixture will be consumed (see section 6.6).
-
-Dose adjustment for patients with persistent vomiting and/or diarrhoea leading to dehydration or weight loss
+Patients taking the starting dose of 115 mg/m 2 with a body surface area of 0.30 m 2 to 0.38 m 2 Patients will need to receive a daily dose of 75 mg (37.5 mg twice daily). The contents of a 75 mg capsule must be mixed with 10 mL soft food (see Method of administration). This dose will be prepared and consumed twice daily (see section 6.6).
 
 <div style=\"page-break-after: always\"></div>
 
-For patients who have increased their dose to 150 mg/m 2 twice daily and are experiencing repeated episodes of vomiting and/or diarrhoea resulting in dehydration or weight loss (see section 4.4), the dose can be reduced to the starting dose of 115 mg/m 2 twice daily. All daily doses should be rounded to the nearest 25 mg increment and divided into two equal, or near equal, doses (see Table 1).
+## Dose adjustment for patients with persistent vomiting and/or diarrhoea leading to dehydration or weight loss
+
+For patients who have increased their dose to 150 mg/m 2 twice daily and are experiencing repeated episodes of vomiting and/or diarrhoea resulting in dehydration or weight loss (see section 4.4), the dose may be reduced to the starting dose of 115 mg/m 2 twice daily. All daily doses should be rounded to the nearest 25 mg increment and divided into two equal, or near equal, doses (see Table 1).
 
 Prevention or treatment of vomiting and/or diarrhoea leading to dehydration or weight loss Prevention or treatment of vomiting and/or diarrhoea with an anti-emetic and/or anti-diarrhoeal medicinal product can be considered (see section 4.4).
 
-## Dose adjustment for patients who cannot avoid taking a concomitant moderate CYP3A inhibitor (see section 4.5)
-
-The patient's daily dose of lonafarnib should be reduced by 50% and the reduced daily dose should be divided into two equal doses. Each dose should be rounded to the nearest 25 mg increment. The dosing regimen will be either 25 mg twice daily, 50 mg twice daily or 75 mg twice daily. Patients who have a reduced daily dose of 50 mg (25 mg twice daily) should mix the contents of a lonafarnib 50 mg capsule with 10 mL of orange juice to achieve the correct dose. Only half (5 mL) of the 10-mL mixture will be consumed (see section 6.6). QTc monitoring is recommended while the patient is taking a concomitant moderate CYP3A inhibitor and being treated with 50% of the indicated dose of lonafarnib. The patient should resume the body surface area indicated dose of lonafarnib 14 days after discontinuation of the moderate CYP3A inhibitor.
-
-## Dose adjustment for patients taking a concomitant weak CYP3A inhibitor and experiencing a persistent toxicity (see section 4.5)
-
-The patient's daily dose of lonafarnib should be reduced by 50% and the reduced daily dose should be divided into two equal doses. Each dose should be rounded to the nearest 25 mg increment. The dosing regimen will be either 25 mg twice daily, 50 mg twice daily or 75 mg twice daily. Patients who have a reduced daily dose of 50 mg (25 mg twice daily) should mix the contents of a lonafarnib 50 mg capsule with 10 mL of orange juice to achieve the correct dose. Only half (5 mL) of the 10-mL mixture will be consumed (see section 6.6). QTc monitoring is recommended while the patient is taking a concomitant weak CYP3A inhibitor and being treated with 50% of the indicated dose of lonafarnib due to the presence of a persistent toxicity. The patient should resume the body surface area indicated dose of lonafarnib 14 days after the toxicity has fully resolved or discontinuation of the weak CYP3A inhibitor.
+Dose adjustment for patients already taking a moderate CYP3A inhibitor (see section 4.5) When adding lonafarnib to an existing treatment regimen containing a moderate CYP3A inhibitor, a lower starting dose of lonafarnib might be reasonable. If the concomitantly taken moderate CYP3A inhibitor will be discontinued, the lonafarnib dose may be increased (body surface area-based dosing).
 
 ## Dose adjustment for patients with known dysfunctional polymorphisms in CYP3A4
 
-The patient's daily dose of lonafarnib should be reduced by 50% and the reduced daily dose should be divided into two equal doses. Each dose should be rounded to the nearest 25 mg increment. The dosing regimen will be either 25 mg twice daily, 50 mg twice daily or 75 mg twice daily. Patients who have a reduced daily dose of 50 mg (25 mg twice daily) should mix the contents of a lonafarnib 50 mg capsule with 10 mL of orange juice to achieve the correct dose. Only half (5 mL) of the 10-mL mixture will be consumed (see section 6.6). QTc monitoring is recommended.
+The patient's daily dose of lonafarnib should be reduced by 50%, and the reduced daily dose should be divided into two equal doses. Each dose should be rounded to the nearest 25 mg increment. The dosing regimen will be either 25 mg twice daily, 50 mg twice daily or 75 mg twice daily. . For example, patients who have a reduced daily dose of 50 mg (25 mg twice daily) should mix the contents of a lonafarnib 50 mg capsule with 10 mL of soft food (see Method of administration). Half of the mixture (5 mL or 1 teaspoon) which equates to a 25 mg dose of lonafarnib should be administered. The remaining mixture must be discarded, and a new dose should be prepared for each administration (see section 6.6). QTc monitoring is recommended.
 
 Dose adjustment for patients requiring parenteral midazolam for a surgical procedure Concomitant use of midazolam is contraindicated (see sections 4.3 and 4.5). Patients requiring parenteral midazolam for a surgical procedure should discontinue lonafarnib for 14 days before and 2 days after administration of midazolam.
 
@@ -140,15 +132,19 @@ Dose adjustment for patients requiring parenteral midazolam for a surgical proce
 
 Lonafarnib should not be taken with foods or juices that contain grapefruit, cranberries, pomegranates or Seville oranges ( e.g. , orange marmalade), otherwise known as sour or bitter oranges (see section 4.5). Taking lonafarnib with food or drinks containing these fruits or fruit juices may increase adverse reactions associated with lonafarnib.
 
+## Dose adjustment for patients with QTc interval prolongation
+
+Electrocardiograms (ECGs) should be obtained prior to initiating lonafarnib and monitored during lonafarnib treatment (see section 4.4). For patients with QTc intervals ≥ 500 ms , lonafarnib treatment should be withheld until normal QTc intervals are observed upon repeated ECG monitoring. Then lonafarnib should be resumed at the same dose. If QTc intervals ≥ 500 ms are observed upon repeated ECG monitoring in patients, lonafarnib treatment discontinuation should be considered.
+
 ## Special populations
 
 ## Patients with hepatic impairment
 
-<div style=\"page-break-after: always\"></div>
-
 No dose adjustments are required in patients with mild or moderate hepatic impairment (Child-Pugh Class A or B, respectively). Lonafarnib is contraindicated in patients with severe hepatic impairment (Child-Pugh Class C) (see sections 4.3, 4.4 and 5.2).
 
 ## Patients with renal impairment
+
+<div style=\"page-break-after: always\"></div>
 
 Lonafarnib has not been studied in patients with renal impairment. Because lonafarnib and metabolite HM21 are only excreted to a limited extent via urine, no dose adjustments are required in patients with renal impairment (see sections 4.4 and 5.2).
 
@@ -162,7 +158,7 @@ The safety and efficacy of lonafarnib in children less than 12 months of age hav
 
 Lonafarnib is intended for oral use. The capsule should be swallowed whole. The capsule should not be chewed. Each dose is to be taken with food.
 
-For patients unable to swallow the capsule whole, instructions on mixing the capsule contents with orange juice are provided in section 6.6.
+For patients unable to swallow the capsule whole, instructions on mixing the capsule contents with orange juice, mashed banana, yogurt, and semolina porridge are provided in section 6.6.
 
 ## 4.3 Contraindications
 
@@ -182,11 +178,19 @@ Treatment with lonafarnib should be initiated as soon as a diagnosis has been ma
 
 Treatment initiation with lonafarnib in older patients should be balanced against the side effects ( i.e. , vomiting, nausea and diarrhoea) in the first few months of treatment.
 
+## QTc interval prolongation
+
+Lonafarnib has been shown to prolong cardiac ventricular repolarisation, as measured by the QTc interval on the surface ECG, in a concentration-dependent manner in adult healthy volunteers. QTc interval prolongation increases the risk of Torsade de pointes, other serious arrhythmias, and sudden death. At subtherapeutic exposures, QTc interval prolongation up to 20 ms has been observed (see section 5.1).
+
+Based on this finding, use of lonafarnib should be avoided in patients with a history of cardiac arrhythmias or with conditions that increase the risk of Torsade de pointes or sudden death, such as long QT syndrome, symptomatic bradycardia, hypokalaemia, hypomagnesemia or congestive heart failure. Significant QTc interval prolongation can occur when lonafarnib is taken with strong CYP3A4 inhibitors or other drugs known to prolong the QTc interval (see section 4.5). This risk may be exacerbated in the presence of hypokalaemia or hypomagnesaemia, further increasing the potential for life-threatening arrhythmias.
+
+<div style=\"page-break-after: always\"></div>
+
+ECGs  and serum electrolytes should be assessed before starting lonafarnib and monitored throughout lonafarnib  treatment, with any electrolyte imbalances corrected promptly.
+
 ## Gastrointestinal adverse reactions and dehydration
 
 Electrolyte abnormalities (hypermagnesaemia, hypokalaemia, hyponatraemia) have been reported (see section 4.8). The severity of gastrointestinal adverse reactions, especially during the first 4 months of treatment, should be closely monitored. When gastrointestinal adverse reactions occur, monitoring the patient's weight, caloric consumption and fluid volume intake should be done on a regular basis. In some cases, persistent diarrhoea can result in hypovolaemia, which should be treated by infusion or orally.
-
-<div style=\"page-break-after: always\"></div>
 
 Patients experiencing diarrhoea and treated with the anti-diarrhoeal loperamide should be monitored for adverse reactions associated with increased exposure to loperamide (see section 4.5).
 
@@ -210,11 +214,13 @@ Lonafarnib caused rod-dependent, low-light vision decline in monkeys at plasma e
 
 Concomitant use of moderate and strong CYP3A inducers may reduce the efficacy of lonafarnib and they should be avoided (see section 4.5).
 
-## Concomitant use of moderate CYP3A inhibitors
+## Concomitant use of CYP3A inhibitors
 
-Concomitant use of lonafarnib and moderate CYP3A inhibitors should be avoided. If concomitant use is unavoidable, the dose of lonafarnib should be reduced by 50% and QTc monitoring is recommended (see sections 4.2 and 4.5).
+Concomitant use of lonafarnib and strong CYP3A inhibitors is contraindicated (see section 4.3 and 4.5).
 
 ## Concomitant use of weak CYP3A inducers
+
+<div style=\"page-break-after: always\"></div>
 
 Concomitant use of weak CYP3A inducers may reduce the efficacy of lonafarnib and should be avoided. If their use is unavoidable, no dose adjustment of lonafarnib is needed (see section 4.5).
 
@@ -224,11 +230,7 @@ Subjects with a known dysfunctional polymorphism in CYP3A4 should start therapy 
 
 ## Other progeroid syndromes
 
-Lonafarnib is not expected to be effective for the treatment of progeroid syndromes caused by mutations in genes other than LMNA or ZMPSTE24 and laminopathies not associated with the accumulation of progerin-like proteins. Lonafarnib is not expected to be effective in the treatment of the following progeroid syndromes: Werner syndrome, Bloom syndrome, Rothmund-Thomson
-
-<div style=\"page-break-after: always\"></div>
-
-syndrome, Cockayne syndrome, xeroderma pigmentosum, trichothiodystrophy and ataxiatelangiectasia.
+Lonafarnib is not expected to be effective for the treatment of progeroid syndromes caused by mutations in genes other than LMNA or ZMPSTE24 and laminopathies not associated with the accumulation of progerin-like proteins. Lonafarnib is not expected to be effective in the treatment of the following progeroid syndromes: Werner syndrome, Bloom syndrome, Rothmund-Thomson syndrome, Cockayne syndrome, xeroderma pigmentosum, trichothiodystrophy and ataxiatelangiectasia.
 
 ## Excipients with known effect
 
@@ -236,25 +238,27 @@ Zokinvy contains less than 1 mmol sodium (23 mg) per dose, that is to say essent
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
+Lonafarnib is metabolised by CYP3A4 and 3A5 and is also known to be a moderate CYP3A4 inhibitor. Hence, it autoinhibits its metabolism. There is an approximately 4-fold increase in Cmax following multiple doses of lonafarnib (75 mg twice daily for 6 days) relative to single-dose lonafarnib (75 mg). Based on the Cmax and AUC values, an accumulation of the active substance at steady state was evident. The same was true for the main metabolite of lonafarnib but with a reduced magnitude.
+
+## Lonafarnib as victim
+
 ## Strong CYP3A inhibitors
 
-When lonafarnib was co-administered with ketoconazole, a strong CYP3A inhibitor, in healthy adult subjects, ketoconazole (200 mg for 5 doses) increased lonafarnib (single dose of 50 mg) Cmax by 270% and AUC by 425%. This may lead to an increased risk of adverse reactions. Therefore, concomitant use of lonafarnib and strong CYP3A inhibitors is contraindicated (see section 4.3).
+When lonafarnib was co-administered with ketoconazole, a strong CYP3A inhibitor, in healthy adult subjects, ketoconazole (200 mg for 5 doses) increased lonafarnib (single dose of 50 mg) Cmax by 3.7fold and AUC by 5.3-fold. This may lead to an increased risk of adverse reactions. Therefore, concomitant use of lonafarnib and strong CYP3A inhibitors is contraindicated (see section 4.3).
 
 ## Moderate CYP3A inhibitors
 
-No interaction studies have been conducted with a moderate CYP3A inhibitor. Concomitant use of lonafarnib and a moderate CYP3A inhibitor should be avoided (see sections 4.2 and 4.4).
+When fluconazole (200 mg once daily for 4 days), a moderate CYP3A4 inhibitor, is added to a multiple-dose lonafarnib regimen (75 mg twice daily for 6 days then co-administered with fluconazole for 4 days), differences in lonafarnib exposures are not considered clinically relevant (no change in Cmax and a 1.2-fold decrease in AUC). No further inhibition besides the autoinhibitory effect following multiple-dose lonafarnib is observed when adding the moderate CYP3A4 inhibitor fluconazole to the regimen. However, adding lonafarnib to an existing regimen containing a moderate CYP3A inhibitor requires caution, and a lower starting dose might be reasonable (see sections 4.2 and 4.4).
 
-## Select HMG-CoA reductase inhibitors
+## Weak CYP3A inhibitors
 
-No interaction studies have been conducted. The HMG-CoA reductase inhibitors atorvastatin, lovastatin and simvastatin are all dependent on CYP3A for metabolism. Lonafarnib is a potent in vivo CYP3A mechanism-based inhibitor and, when given concomitantly with either atorvastatin, lovastatin or simvastatin, is expected to increase the plasma concentrations of these statins. This results in an increased risk of myopathy including rhabdomyolysis. Therefore, concomitant use of lonafarnib and atorvastatin, lovastatin and simvastatin are contraindicated (see section 4.3).
-
-## Midazolam
-
-When lonafarnib was co-administered with midazolam in healthy adult subjects, multiple dose lonafarnib (100 mg twice daily for 5 consecutive days) increased midazolam (single 3 mg oral dose) Cmax by 180% and AUC by 639%. This interaction thereby increases the risk of extreme sedation and respiratory depression. Therefore, concomitant use of lonafarnib and midazolam is contraindicated (see sections 4.2, 4.3 and 4.4).
+No drug-drug interaction studies have been conducted with a weak CYP3A inhibitor. No dose adjustment is considered necessary; however, if the concomitant use of a weak CYP3A inhibitor induces a persistent toxicity, the dose of lonafarnib should be reduced by 50% and QTc monitoring is recommended (see sections 4.2 and 6.6).
 
 ## Strong CYP3A inducers
 
-Co-administration of a single oral dose of 50 mg lonafarnib (combined with a single oral dose of 100 mg ritonavir) following 600 mg rifampin once daily for 8 days resulted in the Cmax of lonafarnib being reduced by 92% and the AUC being reduced by 98%, when compared to rifampin alone in healthy adult subjects. There is no efficacy data available that demonstrates lonafarnib remains effective when administered concomitantly with a strong CYP3A inducer. Therefore, the concomitant use of lonafarnib and a strong CYP3A inducer should be avoided, and therapeutic alternatives sought (see section 4.4).
+<div style=\"page-break-after: always\"></div>
+
+Co-administration of a single oral dose of 50 mg lonafarnib (combined with a single oral dose of 100 mg ritonavir) following 600 mg rifampin once daily for 8 days resulted in the Cmax of lonafarnib being reduced by 12.5-fold and the AUC being reduced by 50-fold, when compared to rifampin alone in healthy adult subjects. There is no efficacy data available that demonstrates lonafarnib remains effective when administered concomitantly with a strong CYP3A inducer. Therefore, the concomitant use of lonafarnib and a strong CYP3A inducer should be avoided, and therapeutic alternatives sought (see section 4.4).
 
 ## Moderate CYP3A inducers
 
@@ -262,25 +266,29 @@ No interaction studies have been conducted with a moderate CYP3A inducer. There 
 
 ## Weak CYP3A inducers
 
-<div style=\"page-break-after: always\"></div>
-
 No interaction studies have been conducted with a weak CYP3A inducer. There is no efficacy data available demonstrating that lonafarnib remains effective when given concomitantly with a weak CYP3A inducer. Therefore, the concomitant use of lonafarnib and a weak CYP3A inducer should be avoided, and therapeutic alternatives sought (see sections 4.2 and 4.4). If co-administration with a weak CYP3A inducer is unavoidable, maintain the current dose of lonafarnib. If the patient has not already been escalated to the maintenance dose of 150 mg/m 2 twice daily, the timing of their scheduled dose increase should be maintained.
 
 ## Foods and select juices that affect the metabolism of lonafarnib
 
 Grapefruit, cranberries, pomegranate and Seville oranges ( e.g. , orange marmalade), otherwise known as sour or bitter oranges, inhibit the CYP3A system. Ingestion of food or juices containing these fruits should be avoided while taking lonafarnib (see section 4.2).
 
-## Weak CYP3A inhibitors
+## Lonafarnib as perpetrator
 
-No interaction studies have been conducted with a weak CYP3A inhibitor. No dose adjustment is considered necessary; however, if the concomitant use of a weak CYP3A inhibitor induces a persistent toxicity, the dose of lonafarnib should be reduced by 50% and QTc monitoring is recommended (see sections 4.2 and 6.6).
+## CYP3A4 substrates
+
+Lonafarnib is an inhibitor of CYP3A4. When lonafarnib was co-administered with CYP3A4 substrate midazolam in healthy adult subjects, multiple-dose lonafarnib (100 mg twice daily for 5 consecutive days) increased midazolam (single 3 mg oral dose) Cmax by 2.8-fold and AUC by 7.4-fold. This interaction thereby increases the risk of extreme sedation and respiratory depression. Therefore, concomitant use of lonafarnib and midazolam is contraindicated (see sections 4.2, 4.3 and 4.4).
+
+No interaction studies have been conducted with HMG-CoA reductase inhibitors. The HMG-CoA reductase inhibitors atorvastatin, lovastatin, and simvastatin are all dependent on CYP3A for metabolism. Lonafarnib is a potent in vivo CYP3A mechanism-based inhibitor and, when given concomitantly with either atorvastatin, lovastatin, or simvastatin, lonafarnib is expected to increase the plasma concentrations of these statins. This results in an increased risk of myopathy including rhabdomyolysis. Therefore, concomitant use of lonafarnib and atorvastatin, lovastatin and simvastatin are contraindicated (see section 4.3).
 
 ## Loperamide
 
-When lonafarnib was co-administered with loperamide in healthy adult subjects, multiple dose lonafarnib (100 mg twice daily for 5 consecutive days) increased loperamide (single 2 mg oral dose) Cmax by 214% and AUC by 299%. The dose of loperamide should not exceed 1 mg daily (see section 4.4). In the event more than 1 mg of loperamide daily is to be administered, the dose should be slowly increased with caution as needed to treat diarrhoea.
+When lonafarnib was co-administered with loperamide in healthy adult subjects, multiple-dose lonafarnib (100 mg twice daily for 5 consecutive days) increased loperamide (single 2 mg oral dose) Cmax by 3.1-fold and AUC by 4.0-fold. The dose of loperamide should not exceed 1 mg daily (see section 4.4). In the event more than 1 mg of loperamide daily is to be administered, the dose should be slowly increased with caution as needed to treat diarrhoea.
+
+<div style=\"page-break-after: always\"></div>
 
 ## CYP2C19 substrates
 
-When lonafarnib was co-administered with the CYP2C19 substrate omeprazole in healthy adult subjects, multiple dose lonafarnib (75 mg twice daily for 5 consecutive days) increased omeprazole (single 40 mg oral dose) Cmax by 28% and AUC by 60%. Patients taking medicinal products that are CYP2C19 substrates should be monitored during this period for potential adverse reactions, with dose adjustments made as necessary.
+When lonafarnib was co-administered with the CYP2C19 substrate omeprazole in healthy adult subjects, multiple-dose lonafarnib (75 mg twice daily for 5 consecutive days) increased omeprazole (single 40 mg oral dose) Cmax by 28% and AUC by 60%. Patients taking medicinal products that are CYP2C19 substrates should be monitored during this period for potential adverse reactions, with dose adjustments made as necessary.
 
 ## MATE1 and MATE2-K
 
@@ -292,9 +300,11 @@ When lonafarnib was co-administered with the P-glycoprotein substrate fexofenadi
 
 ## OCT1 substrates
 
-<div style=\"page-break-after: always\"></div>
-
 In vitro studies indicate that lonafarnib is an OCT1 inhibitor at clinically relevant systemic concentrations. However, the clinical relevance is currently unknown.
+
+## Anti-arrhythmic medicinal products and other substances that may prolong the QT interval
+
+Lonafarnib should be used with caution in patients who have or may develop prolongation of the QT interval, including those patients taking anti-arrhythmic medicinal products such as amiodarone, disopyramide, procainamide, quinidine and sotalol or other medicinal products that may lead to QT prolongation such as chloroquine, halofantrine, clarithromycin, haloperidol, methadone and moxifloxacin (see section 4.4). This is not an exhaustive list, and all anti-arrhythmic medications should be evaluated for potential QT prolongation activity.
 
 ## Oral contraceptives
 
@@ -309,6 +319,8 @@ Interaction studies have only been performed in adults.
 ## Women of childbearing potential/Contraception in males and females
 
 Females of childbearing potential must use effective contraception during treatment with Zokinvy and for at least 1 week after the final dose. Males with female partners of reproductive potential must use effective contraception during treatment with Zokinvy and for at least 3 months after the final dose.
+
+<div style=\"page-break-after: always\"></div>
 
 Effects of Zokinvy on contraceptive steroids have not been studied. A barrier method must be added if systemic steroids are used for contraception.
 
@@ -334,11 +346,7 @@ Lonafarnib has a minor influence on the ability to drive and use machines. Fatig
 
 ## Summary of the safety profile
 
-The most frequently occurring adverse reactions are: vomiting (86%), diarrhoea (78%), increased aspartate aminotransferase (64%), increased alanine aminotransferase (50%), decreased appetite (41%), nausea (38%), abdominal pain (35%), fatigue (29%), decreased weight (27%), constipation
-
-<div style=\"page-break-after: always\"></div>
-
-(18%) and upper respiratory tract infection (11%). Most adverse reactions occurred within the first 4 weeks following initiation of treatment and in general steadily decreased with increasing duration of treatment.
+The most frequently occurring adverse reactions are: vomiting (86%), diarrhoea (78%), increased aspartate aminotransferase (64%), increased alanine aminotransferase (50%), decreased appetite (41%), nausea (38%), abdominal pain (35%), fatigue (29%), decreased weight (27%), constipation (18%) and upper respiratory tract infection (11%). Most adverse reactions occurred within the first 4 weeks following initiation of treatment and in general steadily decreased with increasing duration of treatment.
 
 The most serious adverse reactions are increased alanine aminotransferase (3.6%), increased aspartate aminotransferase (3.6%), cerebral ischaemia (3.2%), pyrexia (1.6%) and dehydration (1.6%).
 
@@ -346,9 +354,9 @@ The most serious adverse reactions are increased alanine aminotransferase (3.6%)
 
 Adverse reactions occurring in the clinical trials are presented in Table 3 by System Organ Class and Preferred Term. Frequencies are defined as: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare ( ≥ 1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000) or not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing frequency within each System Organ Class.
 
-<div style=\"page-break-after: always\"></div>
+## Table 3: Adverse reactions
 
-Table 3: Adverse reactions
+<div style=\"page-break-after: always\"></div>
 
 | System organ class                                   | Very common                                                                                         | Common                                                                                           |
 |------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -371,9 +379,7 @@ a Abdominal pain includes abdominal pain and abdominal pain upper
 
 ## Gastrointestinal adverse reactions
 
-Gastrointestinal adverse reactions (vomiting [85.7%], diarrhoea [77.8%], nausea [38.1%]) were the most frequently reported adverse reactions. Of the patients with treatment related vomiting,
-
-29 (53.7%) patients had Grade 1 vomiting (defined as no intervention required) and 25 (46.3%) had
+Gastrointestinal adverse reactions (vomiting [85.7%], diarrhoea [77.8%], nausea [38.1%]) were the most frequently reported adverse reactions. Of the patients with treatment related vomiting, 29 (53.7%) patients had Grade 1 vomiting (defined as no intervention required) and 25 (46.3%) had
 
 <div style=\"page-break-after: always\"></div>
 
@@ -411,23 +417,29 @@ Pharmacotherapeutic group: Other alimentary tract and metabolism products, Vario
 
 Lonafarnib is a disease modifying agent that prevents farnesylation, thereby reducing the accumulation of aberrant progerin and progerin-like proteins in the cell's inner nuclear membrane. This results in maintaining cell integrity and normal function. The accumulation of progerin and progerin-like proteins in the cells within the walls of large blood vessels causes inflammation and fibrosis.
 
+## Pharmacodynamic effects
+
+## QTc interval prolongation
+
+Upon administration of 200 mg lonafarnib twice daily (total dose 400 mg/day) in healthy volunteers, the observed Cmax on Day 10 was 2233 ng/mL, comparable to the mean Cmax of 2695 ng/mL observed in the HGPS patient population. At this lonafarnib exposure, placebo-corrected least square mean changes between 0 and 20 ms from baseline in the QTc interval corrected for heart rate using the Fridericia's formula (QTcF) have been observed on Day 10.
+
 ## Clinical efficacy and safety
 
 The clinical efficacy and safety of lonafarnib have been evaluated in two Phase 2 studies (ProLon1 and ProLon2). Both studies were single-centre, open-label, single-arm trials that evaluated the efficacy and safety of lonafarnib in patients with genetically confirmed HGPS or a processing-deficient progeroid laminopathy. Analysis was done by combining the studies into a pooled analysis to evaluate differences in survival between those HGPS patients treated with lonafarnib and those that were lonafarnib-naïve. Survival analyses were conducted at 1, 2 and 3 years based upon the period of lonafarnib monotherapy in either ProLon1 or ProLon2 and using vital status as of August 1, 2021, otherwise called last follow-up.
 
 There were 28 patients in ProLon1 (26 patients with classic HGPS, 1 patient with non-classic HGPS and 1 patient with a progeroid laminopathy with a LMNA heterozygous mutation with progerin-like protein accumulation). Patients received lonafarnib over 24 to 30 months. Patients initiated treatment with lonafarnib 115 mg/m 2 twice daily. After 4 months of treatment, patients who tolerated treatment had an increase in dose to 150 mg/m 2 twice daily. Among the 28 patients treated, 27 patients with HGPS (16 females, 11 males) were included in the survival assessment. The median age at treatment initiation for the 27 patients was 7.5 years (range: 3 to 16 years). At the start of the study all patients were less than 18 years of age.
 
-There were 35 patients in ProLon2 (34 patients with classic HGPS and 1 patient with non-classic HGPS). Patients received lonafarnib over 12 to 36 months. Patients were treated with lonafarnib 150 mg/m 2  twice daily. Among the 35 patients treated, all were included in the survival assessment. The median age at treatment initiation was 6.0 years (range: 2 to 17 years). At the start of the study all patients were less than 18 years of age.
+There were 35 patients in ProLon2 (34 patients with classic HGPS and 1 patient with non-classic HGPS). Patients received lonafarnib over 12 to 36 months. Patients were treated with lonafarnib 150 mg/m 2 twice daily. Among the 35 patients treated, all were included in the survival assessment. The median age at treatment initiation was 6.0 years (range: 2 to 17 years). At the start of the study all patients were less than 18 years of age.
 
-Of the 63 patients in ProLon1 and ProLon2, 15 (24%) required some form of dosing adjustment. One (2%) patient discontinued, 11 (17%) patients had their dose interrupted, and 3 (5%) patients reduced dose. For 10 patients (10/63, 16%), the action taken was associated with a gastrointestinal disturbance, a known and common side-effect of lonafarnib.
-
-The retrospective 3-year survival analysis was based on the mortality data from 62 HGPS patients (27 treatment-naïve patients in ProLon1 and 35 treatment-naïve patients in ProLon2) treated with lonafarnib monotherapy and data from matched, untreated patients in a separate natural history cohort.
-
-The mean lifespan of HGPS patients treated with lonafarnib increased by an average of 0.44 to 0.47 years (without and with adjustment for age at start of treatment, respectively) through the first
+Of the 63 patients in ProLon1 and ProLon2, 15 (24%) required some form of dosing adjustment. One (2%) patient discontinued, 11 (17%) patients had their dose interrupted, and 3 (5%) patients reduced
 
 <div style=\"page-break-after: always\"></div>
 
-3 years of follow-up. However due to the uncertainties of the available data this might be as low as 2.4 months.
+dose. For 10 patients (10/63, 16%), the action taken was associated with a gastrointestinal disturbance, a known and common side-effect of lonafarnib.
+
+The retrospective 3-year survival analysis was based on the mortality data from 62 HGPS patients (27 treatment-naïve patients in ProLon1 and 35 treatment-naïve patients in ProLon2) treated with lonafarnib monotherapy and data from matched, untreated patients in a separate natural history cohort.
+
+The mean lifespan of HGPS patients treated with lonafarnib increased by an average of 0.44 to 0.47 years (without and with adjustment for age at start of treatment, respectively) through the first 3 years of follow-up. However, due to the uncertainties of the available data this might be as low as 2.4 months.
 
 At last follow-up time ( i.e. , August 1, 2021) the mean lifespan of HGPS patients treated with lonafarnib increased by an average of 4.3 years. Given the limited information in the datasets this can be as low as 2.6 years. The results for the last follow-up time should be interpreted with some caution as patients underwent additional (potentially beneficial) treatments.
 
@@ -442,9 +454,7 @@ Table 4: Survival analysis summary for patients with Hutchinson-Gilford progeria
 | 2-year follow-up                | 0.237 (0.074, 0.401) P1+P2                                                  | 0.29 (0.097, 0.838) P1+P2                                               |
 | 1-year follow-up                | 0.094 (0.034, 0.154) P1+P2                                                  | 0.20 (0.054, 0.732) P1+P2                                               |
 
-CI = confidence interval; P1 = ProLon1; P2 = ProLon2; RMST = restricted mean survival time
-
-There were 27 patients in ProLon1 and 35 patients in ProLon2.
+CI = confidence interval; P1 = ProLon1; P2 = ProLon2; RMST = restricted mean survival time There were 27 patients in ProLon1 and 35 patients in ProLon2.
 
 * Estimates are based on matching as follows: for each lonafarnib patient a random match untreated patient was selected with the same sex and same continent. Lonafarnib patients were matched sequentially from the lonafarnib patient with oldest age at start to the youngest. The age at start of treatment of the untreated patient within a matched pair was set to that of the lonafarnib patient. If an untreated patient had a longer follow-up than the lonafarnib treated patient in a matched pair, then this follow-up was censored at the length of the follow-up of the lonafarnib treated patient. Regression analysis for the RMST and Cox proportional hazard regression for the hazard ratio had sex and continent as stratification factors and age at start of treatment as covariate.
 
@@ -456,11 +466,24 @@ This medicinal product has been authorised under 'exceptional circumstances'. Th
 
 Absolute bioavailability has not been assessed. Lonafarnib is absorbed via the oral route. The median time to maximum peak concentration (tmax) was 2 to 4 hours. Following multiple dose administration of lonafarnib (100 mg twice daily for 5 days) in healthy volunteers, the mean maximum peak concentration was 964 ng/mL observed at a median time of 4 hours (2 to 5 hours range).
 
-In healthy volunteers, the exposure following a single oral dose of 75 mg lonafarnib taken as an intact capsule was compared to the exposure following a single oral dose of 75 mg lonafarnib capsule contents mixed with orange juice (for instructions on mixing the capsule contents with orange juice see section 6.6). When the capsule contents were mixed with orange juice the Cmax of lonafarnib was reduced by 9% and the AUC was reduced by 8% as compared to when administered as an intact capsule.
-
-In healthy volunteers, following a single oral dose of 100 mg lonafarnib, food decreased the absorption of lonafarnib and the relative oral bioavailability under fed conditions as compared to fasted conditions was 48% and 77% based on Cmax and AUC, respectively. Multiple-dose administration of lonafarnib with food in healthy adult subjects did not have a significant effect on bioavailability and resulted in lower inter-subject variability (~16%).
+In healthy volunteers, the exposure following a single oral dose of 75 mg lonafarnib taken as an intact capsule was compared to the exposure following a single oral dose of 75 mg lonafarnib capsule
 
 <div style=\"page-break-after: always\"></div>
+
+contents mixed with orange juice, mashed banana, yogurt, and semolina porridge (for instructions on mixing the capsule contents with orange juice, mashed banana, yogurt, and semolina porridge see section 6.6). Following this mixing, the lonafarnib exposure was found to increase or decrease as noted in Table 5.
+
+Table 5: Effect on lonafarnib exposures when capsule content is mixed with food
+
+| Soft Food         | C max   | AUC   |
+|-------------------|---------|-------|
+| Orange juice      | ↓ 9%    | ↓ 8%  |
+| Mashed banana     | ↓ 11%   | ↓ 7%  |
+| semolina porridge | ↑ 7%    | ↓ 9%  |
+| Yogurt            | ↑ 4%    | ↓ 12% |
+
+↑ = increase; ↓ = decrease; AUC = area under the concentration curve; Cmax = maximum observed concentration
+
+In healthy volunteers, following a single oral dose of 100 mg lonafarnib, food decreased the absorption of lonafarnib and the relative oral bioavailability under fed conditions as compared to fasted conditions was 48% and 77% based on Cmax and AUC, respectively. Multiple-dose administration of lonafarnib with food in healthy adult subjects did not have a significant effect on bioavailability and resulted in lower inter-subject variability (~16%).
 
 In healthy volunteers, the accumulation ratio is estimated to be 4.46 for AUCTAU/AUC0-12 and 3.36 for Cmax.
 
@@ -480,6 +503,8 @@ HM21 is a pharmacologically active metabolite. Following oral administration of 
 
 In vitro metabolism studies indicate that CYP3A4 and CYP3A5 are mainly responsible for the oxidative metabolism of lonafarnib and that lonafarnib is an in vivo -sensitive CYP3A4 substrate.
 
+<div style=\"page-break-after: always\"></div>
+
 Twenty-one metabolites were characterised/identified in urine and faeces. No single uncharacterised metabolite represented greater than 5% of the dose.
 
 ## Transporters
@@ -493,8 +518,6 @@ A  14 C- absorption, metabolism and excretion trial conducted in healthy volunte
 Lonafarnib exhibits time-dependent pharmacokinetics. Comparing studies in healthy adult volunteers of single-dose 75 mg lonafarnib to 75 mg lonafarnib twice daily for 5 days shows lonafarnib clearance was reduced by 75% (48.2 L/h and 12.1 L/h, respectively) and the t1/2 increased by 60% (3.5 h versus 5.6 h, respectively) following multiple dose lonafarnib for 5 days.
 
 ## Special populations
-
-<div style=\"page-break-after: always\"></div>
 
 ## Hepatic impairment
 
@@ -516,17 +539,17 @@ In healthy volunteers, following a single oral dose of 100 mg lonafarnib, the ph
 
 Lonafarnib had no effects on QT or QTc interval in guinea pigs and no electrocardiogram (ECG) changes were observed in monkeys. Lonafarnib produced modest and isolated effects on the QT interval of ECG in rats at estimated exposures similar to that seen in humans.
 
-A no-observed-adverse-effect level (NOAEL) could not be established in studies of up to 1-year duration in monkeys. Systemic toxicity was observed in 3-month and 1-year toxicity studies in rats and monkeys following repeated oral administration of lonafarnib at doses ≥30 and ≥10 mg/kg/day, respectively, corresponding to exposures lower than what is seen in patients. Toxicity findings included bone marrow suppression, testicular toxicity and lymphoid toxicity in rats and monkeys; kidney changes in rats (vacuolisation, mineralisation and necrosis of the inner renal medulla); and diarrhoea and electroretinographic changes in monkeys. In a 3-month toxicity study in monkeys, acute morbidity due to haemorrhage in multiple organs was observed in a small number of monkeys administered 60 mg/kg/day, corresponding to exposures similar to that seen in humans (at 150 mg/m 2 twice daily). In toxicity studies in monkeys, ocular findings of single cell necrosis of retinal photoreceptors were observed at ≥ 40 mg/kg/day. In a 3-month follow up study, changes in electroretinography were noted at ≥15 mg/kg/day, including substantial changes in scotopic amplitudes at 60 mg/kg/day indicating perturbation of rod cells and impairment of night vision. The NOAEL for ocular toxicity for lonafarnib was considered to be 20 mg/kg/day, corresponding to exposures similar to those seen in humans (at 150 mg/m 2 twice daily).
-
-Lonafarnib increased pre- and post-implantation loss and decreased the number of live foetuses in female rats at doses ≥30 mg/kg/day. Decreased maternal body weight and lower foetal body weights were also observed at this dose level. The NOAEL for maternal toxicity and F1 litters was considered 10 mg/kg/day, with an estimated exposure level lower than what is seen in humans at 150 mg/m 2 twice daily.
-
-Reproductive organ toxicity was observed in male rats and monkeys, including lower testicular and epididymal weight, aspermia, altered spermatogenesis and spermatogonial debris in male rats at
+A no-observed-adverse-effect level (NOAEL) could not be established in studies of up to 1-year duration in monkeys. Systemic toxicity was observed in 3-month and 1-year toxicity studies in rats
 
 <div style=\"page-break-after: always\"></div>
 
-≥90 mg/kg/day, and lower testes weights in male monkeys at the lowest tested dose 10 mg/kg/day. The NOAEL or the lowest tested dose regarding these effects corresponds to exposure levels lower than what is seen in humans at 150 mg/m 2 twice daily.
+and monkeys following repeated oral administration of lonafarnib at doses ≥30 and ≥10 mg/kg/day, respectively, corresponding to exposures lower than what is seen in patients. Toxicity findings included bone marrow suppression, testicular toxicity and lymphoid toxicity in rats and monkeys; kidney changes in rats (vacuolisation, mineralisation and necrosis of the inner renal medulla); and diarrhoea and electroretinographic changes in monkeys. In a 3-month toxicity study in monkeys, acute morbidity due to haemorrhage in multiple organs was observed in a small number of monkeys administered 60 mg/kg/day, corresponding to exposures similar to that seen in humans (at 150 mg/m 2 twice daily). In toxicity studies in monkeys, ocular findings of single cell necrosis of retinal photoreceptors were observed at ≥ 40 mg/kg/day. In a 3-month follow up study, changes in electroretinography were noted at ≥15 mg/kg/day, including substantial changes in scotopic amplitudes at 60 mg/kg/day indicating perturbation of rod cells and impairment of night vision. The NOAEL for ocular toxicity for lonafarnib was considered to be 20 mg/kg/day, corresponding to exposures similar to those seen in humans (at 150 mg/m 2 twice daily).
 
-Lonafarnib demonstrated teratogenic potential at clinically relevant exposures in rabbits in the absence of maternal toxicity, with increased incidence of malformations and variations in foetal skeletal development observed at the lowest tested dose 10 mg/kg/day, corresponding to an exposure level lower than what is seen in humans at 150 mg/m 2 twice daily. Maternal toxicity was observed at ≥40 mg/kg/day and both maternal and embryofoetal toxicity, including abortion, discoloured urine, body weight loss, increased post-implantation loss and decreased foetal body weight, were observed at 120 mg/kg/day, corresponding to exposures greater than those seen in humans (~2- and 25-times the human exposure at 150 mg/m 2  twice daily, respectively). In rats, lonafarnib had no adverse effects on F1 and F2 generations in a pre- and post-natal development study. Lonafarnib is excreted in milk following oral administration in lactating rats, with a mean milk to plasma concentration ratio of 1.5 at 12 hours.
+Lonafarnib increased pre- and post-implantation loss and decreased the number of live foetuses in female rats at doses ≥30 mg/kg/day. Decreased maternal body weight and lower foetal body weights were also observed at this dose level. The NOAEL for maternal toxicity and F1 litters was considered 10 mg/kg/day, with an estimated exposure level lower than what is seen in humans at 150 mg/m 2 twice daily.
+
+Reproductive organ toxicity was observed in male rats and monkeys, including lower testicular and epididymal weight, aspermia, altered spermatogenesis and spermatogonial debris in male rats at ≥90 mg/kg/day, and lower testes weights in male monkeys at the lowest tested dose 10 mg/kg/day. The NOAEL or the lowest tested dose regarding these effects corresponds to exposure levels lower than what is seen in humans at 150 mg/m 2 twice daily.
+
+Lonafarnib demonstrated teratogenic potential at clinically relevant exposures in rabbits in the absence of maternal toxicity, with increased incidence of malformations and variations in foetal skeletal development observed at the lowest tested dose 10 mg/kg/day, corresponding to an exposure level lower than what is seen in humans at 150 mg/m 2 twice daily. Maternal toxicity was observed at ≥40 mg/kg/day and both maternal and embryofoetal toxicity, including abortion, discoloured urine, body weight loss, increased post-implantation loss and decreased foetal body weight, were observed at 120 mg/kg/day, corresponding to exposures greater than those seen in humans (~2- and 25-times the human exposure at 150 mg/m 2 twice daily, respectively). In rats, lonafarnib had no adverse effects on F1 and F2 generations in a pre- and post-natal development study. Lonafarnib is excreted in milk following oral administration in lactating rats, with a mean milk to plasma concentration ratio of 1.5 at 12 hours.
 
 Overall, lonafarnib does not represent a genotoxic concern based on results of in vitro tests, including bacterial reverse mutation assays and a chromosome aberration assay using human peripheral blood lymphocytes. In the in vivo mouse bone micronucleus assay, lonafarnib was not genotoxic at doses up to 50 and 60 mg/kg/day (intraperitoneal injection) in male and female mice, respectively. However, these dose levels are lower than the clinical relevant dose.
 
@@ -540,6 +563,8 @@ The carcinogenic potential of lonafarnib has not been studied.
 
 Povidone Poloxamer Croscarmellose sodium Silica, colloidal anhydrous Magnesium stearate
 
+<div style=\"page-break-after: always\"></div>
+
 ## Capsule shell
 
 Gelatin (E 171) Titanium dioxide Yellow iron oxide (E 172) Red iron oxide (E 172) (75 mg capsules only) Sunflower lecithin (E 322)
@@ -551,8 +576,6 @@ Shellac Iron oxide black (E 172) Propylene glycol Ammonia solution Potassium hyd
 ## 6.2 Incompatibilities
 
 Not applicable.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -572,51 +595,51 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## Patients unable to swallow capsules whole
 
-If capsules cannot be swallowed whole, capsules can be opened and the contents of the capsule can be mixed with orange juice.
+If capsules cannot be swallowed whole, capsules can be opened and the contents of the capsule can be mixed with orange juice, mashed banana, yogurt, or semolina porridge. Capsule contents should not be mixed with applesauce, peanut butter, or oatmeal .
 
-Step 1: Using a clean medicine cup, measure either 5 mL or 10 mL of orange juice. You can choose to use 5 mL or 10 mL of orange juice.
+Step 1 : If mixing with orange juice, using a clean medicine cup, measure either 5 mL or 10 mL of orange juice. You can choose to use 5 mL or 10 mL of orange juice.
 
-Step 2: Pour the orange juice measured in Step 1 into a clean cup.
+If mixing with soft food, measure either 1 or 2 teaspoonfuls of mashed banana, yogurt, or semolina porridge. You can choose to use 1 or 2 teaspoonfuls of mashed banana, yogurt, or semolina porridge.
 
-Step 3: Hold a capsule above the cup containing the orange juice. Hold the capsule between your thumb and forefinger on both sides. Gently twist and pull apart the capsule.
-
-Step 4: Empty the contents of the capsule directly into the cup containing the orange juice.
-
-Step 5: Using a clean spoon, mix the capsule contents and orange juice well. If only 1 capsule is to be taken, skip to Step 7 . If 2 capsules are to be taken proceed to Step 6 .
-
-Step 6: If 2 capsules will be taken, repeat Steps 1 through 5 for the second capsule. After finishing, go to Steps 7, 8 and 9 .
-
-Step 7: Take all of the mixture with food within about 10 minutes of preparing. Each dose must be mixed and consumed within 10 minutes. The mixture should only be prepared at the time it is to be consumed.
-
-Step 8: Rinse the medicine cup used to measure the orange juice and fill it with 5 mL of water for each capsule mixed with orange juice.
-
-Step 9: Pour the water measured in Step 8 into the cup used to mix the Zokinvy and orange juice. Gently swirl the water around the cup. Consume the water.
-
-Patients with a body surface area between 0.30 m 2 and 0.38 m 2 , patients taking Zokinvy and a weak CYP3A inhibitor and experiencing persistent toxicities or patients with a dysfunctional CYP3A4 polymorphism requiring a reduced daily dose of less than or equal to 50 mg
-
-Patients with a body surface area between 0.30 m 2 and 0.38 m 2 require a daily dose of 75 mg (37.5 mg twice daily). Some patients taking Zokinvy concomitantly with a weak CYP3A inhibitor and experiencing persistent side-effects or patients with a dysfunctional CYP3A4 polymorphism may
+Step 2 : Place the orange juice, mashed banana, yogurt, or semolina porridge measured in Step 1 into a clean cup.
 
 <div style=\"page-break-after: always\"></div>
 
-require a daily dose of 50 mg (25 mg twice daily). In these instances, a Zokinvy 75 mg or 50 mg capsule will need to be mixed with 10 mL of orange juice to reach the appropriate dose. Only half of the 10-mL mixture will be consumed yielding a dose of either 25 mg or 37.5 mg.
+Step 3 : Hold a capsule above the cup containing the orange juice, mashed banana, yogurt, or semolina porridge. Hold the capsule between your thumb and forefinger on both sides. Gently twist and pull apart the capsule.
 
-Step 1: Use a clean medicine cup and fill it with 10 mL of orange juice.
+Step 4 : Empty the contents of the capsule directly into the cup containing the orange juice, mashed banana, yogurt, or semolina porridge.
 
-Step 2: Pour the orange juice measured in Step 1 into a clean cup for mixing.
+Step 5 : Using a clean spoon, mix the capsule contents and orange juice, mashed banana, yogurt, or semolina porridge well. If only 1 capsule is to be taken, skip to Step 7 . If 2 capsules are to be taken proceed to Step 6 .
 
-Step 3: Depending on your doctor's direction, hold either a Zokinvy 75 mg or 50 mg capsule above the cup containing the orange juice. Hold the capsule between your thumb and forefinger on both sides. Gently twist and pull apart the capsule.
+Step 6 : If 2 capsules will be taken, repeat Steps 1 through 5 for the second capsule. After finishing, go to Steps 7, 8 and 9 .
 
-Step 4: Empty the contents of the capsule directly into the cup containing the orange juice.
+Step 7 : Take all of the mixture with food within about 10 minutes of preparing. Each dose must be mixed and consumed within 10 minutes. The mixture should only be prepared at the time it is to be consumed.
 
-Step 5: Using a clean spoon, mix the capsule contents and orange juice well.
+Step 8 : If using orange juice, rinse the medicine cup used to measure the orange juice and fill it with 5 mL of water for each capsule mixed with orange juice. If using soft food, fill a clean medicine cup with 5 mL of water for each capsule mixed with mashed banana, yogurt, or semolina porridge.
 
-Step 6: Pour 5 mL of the orange juice and mixture from the mixing cup into a clean medicine cup.
+Step 9 : Pour the water measured in Step 8 into the cup used to mix the Zokinvy and orange juice or soft food. Gently swirl the water around the cup. Consume the water.
 
-Step 7: Take the 5-mLmixture with food and within about 10 minutes of preparing. Each dose must be mixed and consumed within 10 minutes. The mixture should only be prepared at the time it is to be consumed.
+Patients requiring a reduced daily dose of Zokinvy
 
-Step 8: Fill the medicine cup used to consume the mixture with 5 mL of water.
+Step 1 : If mixing with orange juice, using a clean medicine cup, measure 10 mL of orange juice. If mixing with soft food, measure 2 teaspoonfuls of mashed banana, yogurt, or semolina porridge.
 
-Step 9: Gently swirl the water around the medicine cup. Consume the water.
+Step 2 : Place the orange juice, mashed banana, yogurt, or semolina porridge measured in Step 1 into a clean cup for mixing.
+
+Step 3 : Depending on your doctor's direction, hold either a Zokinvy 75 mg or 50 mg capsule above the cup containing the orange juice, mashed banana, yogurt, or semolina porridge. Hold the capsule between your thumb and forefinger on both sides. Gently twist and pull apart the capsule.
+
+Step 4 : Empty the contents of the capsule directly into the cup containing the orange juice, mashed banana, yogurt, or semolina porridge.
+
+Step 5 : Using a clean spoon, mix the capsule contents and orange juice, mashed banana, yogurt, or semolina porridge well.
+
+Step 6 : Put half of the mixture from the mixing cup into a clean medicine cup (5 mL of the orange juice mixture or 1 teaspoon of the soft food mixture).
+
+Step 7 : Take the 5-mL or 1 teaspoon mixture with food and within about 10 minutes of preparing. Each dose must be mixed and consumed within 10 minutes. The mixture should only be prepared at the time it is to be consumed.
+
+Step 8 : Fill the medicine cup used to consume the mixture with 5 mL of water.
+
+Step 9 : Gently swirl the water around the medicine cup. Consume the water.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -634,7 +657,7 @@ EU/1/22/1660/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:  18 July 2022
+Date of first authorisation: 18 July 2022.
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -685,9 +708,9 @@ An updated RMP should be submitted:
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE MARKETING AUTHORISATION UNDER EXCEPTIONAL CIRCUMSTANCES
-
 <div style=\"page-break-after: always\"></div>
+
+## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE MARKETING AUTHORISATION UNDER EXCEPTIONAL CIRCUMSTANCES
 
 This being an approval under exceptional circumstances and pursuant to Article 14(8) of Regulation (EC) No 726/2004, the MAH shall conduct, within the stated timeframe, the following measures:
 
@@ -783,11 +806,11 @@ SN
 
 ## 13.  BATCH NUMBER
 
-14.  GENERAL CLASSIFICATION FOR SUPPLY
+## 14.  GENERAL CLASSIFICATION FOR SUPPLY
 
 15.  INSTRUCTIONS ON USE
 
-16.  INFORMATION IN BRAILLE
+## 16.  INFORMATION IN BRAILLE
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
@@ -839,8 +862,8 @@ Store in the original package. Keep the bottle tightly closed in order to protec
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -858,33 +881,19 @@ Lot
 | 14. GENERAL CLASSIFICATION FOR SUPPLY   |
 |-----------------------------------------|
 
-| 15. INSTRUCTIONS ONUSE   |
-|--------------------------|
+| 15. INSTRUCTIONS ON USE   |
+|---------------------------|
 
 | 16. INFORMATION IN BRAILLE   |
 |------------------------------|
 
-| 17. UNIQUE IDENTIFIER - 2DBARCODE   |
-|-------------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
-| 18. UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|--------------------------------------------|
+| 18. UNIQUE IDENTIFIER - HUMANREADABLEDATA   |
+|---------------------------------------------|
 
-Zokinvy 75 mg hard capsules lonafarnib
-
-Each capsule contains 75 mg lonafarnib.
-
-30 hard capsules
-
-Read the package leaflet before use.
-
-Oral use
-
-Keep out of the sight and reach of children.
-
-Do not swallow the desiccant.
-
-EXP
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -892,23 +901,37 @@ CARTON (ZOKINVY 75 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
+Zokinvy 75 mg hard capsules lonafarnib
+
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each capsule contains 75 mg lonafarnib.
 
 ## 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
+30 hard capsules
+
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+Read the package leaflet before use.
 
-## 8. EXPIRY DATE
-
-## 9. SPECIAL STORAGE CONDITIONS
+Oral use
 
 ## 6. SPECIAL WARNINGS THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SITE AND REACH OF CHILDREN
 
-<div style=\"page-break-after: always\"></div>
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Do not swallow the desiccant.
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original package. Keep the bottle tightly closed in order to protect from moisture. This medicinal product does not require any special temperature storage conditions.
 
@@ -1002,8 +1025,8 @@ Store in the original package. Keep the bottle tightly closed in order to protec
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -1021,19 +1044,19 @@ Lot
 | 14. GENERAL CLASSIFICATION FOR SUPPLY   |
 |-----------------------------------------|
 
-| 15. INSTRUCTIONS ONUSE   |
-|--------------------------|
+| 15. INSTRUCTIONS ON USE   |
+|---------------------------|
 
 | 16. INFORMATION IN BRAILLE   |
 |------------------------------|
 
-| 17. UNIQUE IDENTIFIER - 2DBARCODE   |
-|-------------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
-| 18. UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|--------------------------------------------|
+| 18. UNIQUE IDENTIFIER - HUMANREADABLEDATA   |
+|---------------------------------------------|
 
-32
+33
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1103,6 +1126,7 @@ Talk to your doctor, pharmacist or nurse before taking Zokinvy.
 
 Please tell your doctor immediately if you:
 
+- have a history of QTc interval prolongation or other abnormal heartbeat, slow heartbeat, or low magnesium or potassium levels (see section 4).
 - are over 10 years of age. Treatment results can vary depending on the age when you start taking Zokinvy.
 - have persistent vomiting or diarrhoea and prolonged loss of appetite or weight (see section 4).
 - start to take the anti-diarrhoeal medicine loperamide. Because of the interaction between Zokinvy and loperamide, it will be important for your doctor to provide dosing guidance and monitor your use of this medicine.
@@ -1111,11 +1135,23 @@ Please tell your doctor immediately if you:
 - develop any symptoms of kidney problems. Your doctor should monitor your kidney function while taking this medicine.
 - experience any new visual changes. Your doctor should monitor your vision and eye health while taking this medicine.
 - are taking a medicine that is a moderate or strong CYP3A inducer. These types of medicines should be avoided (see Other medicines and Zokinvy, below).
-- are taking a medicine that is a moderate CYP3A inhibitor. These types of medicines should be avoided (see Other medicines and Zokinvy, below).
+- are taking a medicine that is a moderate CYP3A inhibitor. Adding Zokinvy to an existing treatment with these types of medicines requires caution (see Other medicines and Zokinvy, below).
 - have a known dysfunctional polymorphism in CYP3A4.
 - have a progeroid syndrome caused by a mutation in a gene other than LMNA or ZMPSTE24 and do not cause a build-up of the harmful proteins called progerin or progerin-like proteins. Zokinvy is not expected to be effective for these types of progeroid syndromes. Examples of progeroid syndromes that Zokinvy is not expected to provide benefit include, Werner syndrome, Bloom syndrome, Rothmund-Thomson syndrome, Cockayne syndrome, xeroderma pigmentosum, trichothiodystrophy and ataxia-telangiectasia.
 
+## During treatment with Zokinvy
+
+- -if you faint (loss of consciousness) or have an irregular heartbeat while taking this medicine, tell your doctor immediately as this may be a sign of a serious heart condition. Prolongation of the QT interval or an irregular heartbeat may lead to sudden death.
+
+## Monitoring during Zokinvy treatment
+
+Regular lab tests, including blood tests, will be performed during treatment. These tests will monitor the electrolytes in the body (potassium, magnesium). These are important in the functioning of the heart.
+
+The heart rate will also be checked using a machine that measures electrical activity of the heart (a test called an 'ECG').
+
 ## Children
+
+<div style=\"page-break-after: always\"></div>
 
 Do not give this medicine to children under 12 months of age because it has not been studied in this age group.
 
@@ -1123,15 +1159,15 @@ Do not give this medicine to children under 12 months of age because it has not 
 
 Tell your doctor or pharmacist if you are taking or might take any other medicines.
 
-Some medicines may interact with Zokinvy when taken together. The following medicines must not be combined with Zokinvy:
+Some medicines may interact with Zokinvy when taken together. The following medicines must not be taken with Zokinvy:
 
 - medicines that are strong CYP3A inhibitors (they can reduce the breakdown of Zokinvy in the body, leading to more side effects; ask your pharmacist or doctor if any of your other medicines are of this kind)
-- medicines that are weak or moderate CYP3A inhibitors (they can reduce the breakdown of Zokinvy in the body, leading to more side effects; ask your pharmacist or doctor if any of your other medicines are of this kind). Your doctor may temporarily reduce your dose of Zokinvy while taking a weak or moderate CYP3A inhibitor
-
-<div style=\"page-break-after: always\"></div>
-
 - midazolam (used to treat seizures and for surgical procedures - tell your doctor you are taking Zokinvy if you are planning to have surgery)
 - atorvastatin, lovastatin or simvastatin (used to lower blood cholesterol)
+
+The following medicines require caution when taken with Zokinvy:
+
+- medicines that are moderate CYP3A inhibitors (adding Zokinvy to an existing treatment with this kind of medicines requires caution; ask your pharmacist or doctor if any of your other medicines are of this kind). If you are already taking this kind of medicine your doctor may reduce your starting dose of Zokinvy.
 - medicines that are strong, moderate or weak CYP3A inducers (these can increase the breakdown of Zokinvy in the body, making the medicine less effective; ask your pharmacist or doctor if any of your other medicines are of this kind)
 - loperamide (used to treat diarrhoea). The dose of loperamide should not exceed 1 mg daily. Children less than 2 years of age should not take loperamide.
 - metformin (used to treat type 2 diabetes)
@@ -1140,16 +1176,20 @@ Some medicines may interact with Zokinvy when taken together. The following medi
 - medicines that are P-glycoprotein substrates (ask your pharmacist or doctor if any of your other medicines are this kind). If you must take a P-glycoprotein substrate, your doctor may need to adjust your dose of the P-glycoprotein substrate and monitor your side effects more closely.
 - medicines that are OCT1 substrates (ask your pharmacist or doctor if any of your other medicines are this kind)
 - oral contraceptives
+- medicines that belong to the group of anti-arrhythmics (e.g. amiodarone, disopyramide, procainamide, quinidine and sotalol)
+- other medicinal products that affect your heart (e.g. chloroquine, halofantrine, clarithromycin, haloperidol, methadone, moxifloxacin)
 
 ## Zokinvy with food and drink
 
-Do not take Zokinvy with foods or drinks that contain grapefruit, cranberries, pomegranates or Seville (bitter) orange (such as orange marmalade). Foods or drinks containing these fruits may increase the side effects of Zokinvy.
+Do not take Zokinvy with foods or drinks that contain grapefruit, cranberries, pomegranates, or Seville (bitter) orange (such as orange marmalade). Foods or drinks containing these fruits may increase the side effects of Zokinvy.
 
 ## Pregnancy, breast-feeding and fertility
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
 
 Zokinvy has not been tested in pregnant women.
+
+<div style=\"page-break-after: always\"></div>
 
 Zokinvy is not recommended during pregnancy.
 
@@ -1169,8 +1209,6 @@ This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say 
 
 ## 3. How to take Zokinvy
 
-<div style=\"page-break-after: always\"></div>
-
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
 - Zokinvy is taken as 1 or 2 capsules twice a day, about 12 hours apart (morning and evening) with food. The dose of Zokinvy is based on your height and weight.
@@ -1180,112 +1218,135 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 
 ## If you cannot swallow a Zokinvy capsule whole
 
-- If you cannot swallow a Zokinvy capsule whole, use the following directions for mixing the capsule content with orange juice.
+- If you cannot swallow a Zokinvy capsule whole, use the following directions for mixing the capsule content with orange juice, mashed banana, yogurt, or semolina porridge. Capsule contents should not be mixed with applesauce, peanut butter, or oatmeal .
 
-## What you need to mix Zokinvy with orange juice
+What you need to mix Zokinvy with orange juice, mashed banana, yogurt, or semolina porridge
 
 - Mix a fresh dose of Zokinvy for each use.
 - Set aside the right number of Zokinvy capsules for your dose. Place the capsule or capsules on a clean flat surface.
-- Use orange juice only. Do not use other drinks to mix Zokinvy.
-- A clean medicine cup with 5 mL and 10 mL measurement levels.
+- Use orange juice, mashed banana, yogurt, and semolina porridge only. Do not use other foods to mix Zokinvy.
+- If mixing with orange juice: a clean medicine cup with 5 mL and 10 mL measurement levels OR if mixing with mashed banana, yogurt, or semolina porridge: a clean teaspoon.
 - A clean cup for each Zokinvy capsule to be mixed.
 - A clean spoon for stirring the mixture.
 
+<div style=\"page-break-after: always\"></div>
+
 <!-- image -->
 
-## How to mix Zokinvy with orange juice
+How to mix Zokinvy with orange juice, mashed banana, yogurt, or semolina porridge
+
+## Step 1 (Figure A):
+
+- If mixing with orange juice, using a clean medicine cup, measure either 5 mL or 10 mL of orange juice.
+- If mixing with soft food, measure either 1 or 2 teaspoonfuls of mashed banana, yogurt, or semolina porridge.
+- You can choose to use 5 mL or 10 mL of orange juice OR 1 or 2 teaspoons of mashed banana, yogurt, or semolina porridge.
+
+## Step 2:
+
+Place the orange juice, mashed banana, yogurt, or semolina porridge measured in Step 1 into a clean cup.
+
+## Step 3:
+
+- Hold a Zokinvy capsule above the cup containing the orange juice, mashed banana, yogurt, or semolina porridge.
+- Hold the capsule between your thumb and forefinger on both sides.
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+| • Gently twist and pull apart the capsule.                                                                                                                                                                                                                   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Step 4: Empty all the contents of the capsule into the cup containing the orange juice, mashed banana, yogurt, or semolina porridge.                                                                                                                         |
+| Step 5: • Using a clean spoon, mix the capsule contents and orange juice, mashed banana, yogurt, or semolina porridge well. • If only 1 capsule is to be taken, skip to Step 7 . • If 2 capsules are to be taken, proceed to Step 6 .                        |
+| Step 6: • If 2 capsules will be taken, repeat Steps 1 through 5 for the second capsule. • Once the second capsule is mixed - the 2 servings can either be combined in a single cup or remain in 2 serving cups. • After you finish, go to Steps 7, 8 and 9 . |
+| Step 7: Take all of the Zokinvy mixture: • with food. • within about 10 minutes of preparing. Each dose must be mixed and consumed within 10 minutes. The mixture should only be prepared at the time it is to be consumed.                                  |
+| Step 8: If using orange juice, rinse the medicine cup used to measure the orange juice and fill it with 5 mL of water for each capsule mixed with orange juice.                                                                                              |
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+<!-- image -->
+
+| If using soft food, fill a clean medicine cup with 5 mL of water for each capsule mixed with mashed banana, yogurt, or semolina porridge.                                                                           |     |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| Step 9: • Pour the water measured in Step 8 into the cup used to mix the Zokinvy and orange juice, mashed banana, yogurt, or semolina porridge (a). • Gently swirl the water around the cup (b). Consume the water. | (a) |
+|                                                                                                                                                                                                                     | (b) |
+
+<div style=\"page-break-after: always\"></div>
+
+## If you need a reduced daily dose of Zokinvy
 
 ## Step 1:
 
-- Using a clean medicine cup, measure either 5 mL or 10 mL of orange juice.
-- You can choose to use 5 mL or 10 mL of orange juice.
+If mixing with orange juice, using a clean medicine cup, measure 10 mL of orange juice.
+
+If mixing with soft food, measure 2 teaspoonfuls of mashed banana, yogurt, or semolina porridge.
+
+## Step 2:
+
+Place the orange juice, mashed banana, yogurt, or semolina porridge measured in Step 1 into a clean cup for mixing.
+
+## Step 3:
+
+- Depending on your doctor's direction, hold either a Zokinvy 75 mg or 50 mg capsule above the cup containing the orange juice, mashed banana, yogurt, or semolina porridge.
+- Hold the capsule between your thumb and forefinger on both sides.
+- Gently twist and pull apart the capsule.
+
+<!-- image -->
+
+<!-- image -->
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+## Step 4:
 
-<!-- image -->
+- Empty all the contents of the capsule into the cup containing the orange juice, mashed banana, yogurt, or semolina porridge.
 
-<!-- image -->
+## Step 5:
 
-<!-- image -->
+Using a clean spoon, mix the capsule contents and orange juice, mashed banana, yogurt, or semolina porridge well.
 
-<!-- image -->
+## Step 6:
 
-| Step 2: Pour the orange juice measured in Step 1 into a clean cup.                                                                                                                                                                                           |          |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| Step 3: • Hold a Zokinvy capsule above the cup containing the orange juice. • Hold the capsule between your thumb and forefinger on both sides. • Gently twist and pull apart the capsule.                                                                   |          |
-| Step 4: Empty all the contents of the capsule into the cup containing the orange juice.                                                                                                                                                                      |          |
-| Step 5: • Using a clean spoon, mix the capsule contents and orange juice well. • If only 1 capsule is to be taken, skip to Step 7 . • If 2 capsules are to be taken, proceed to Step 6 .                                                                     |          |
-| Step 6: • If 2 capsules will be taken, repeat Steps 1 through 5 for the second capsule. • Once the second capsule is mixed - the 2 servings can either be combined in a single cup or remain in 2 serving cups. • After you finish, go to Steps 7, 8 and 9 . | • • Each |
-| Step 7: Take all of the Zokinvy mixture: with food. within about 10 minutes of preparing. dose must be mixed and consumed within 10 minutes. The mixture should only be prepared at the time it is to be consumed.                                           |          |
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-| Step 8: Rinse the medicine cup used to measure the orange juice and fill it with 5 mL of water for each capsule mixed with orange juice.                               |     |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| Step 9: • Pour the water measured in Step 8 into the cup used to mix the Zokinvy and orange juice (a). • Gently swirl the water around the cup (b). Consume the water. | (a) |
-| Step 9: • Pour the water measured in Step 8 into the cup used to mix the Zokinvy and orange juice (a). • Gently swirl the water around the cup (b). Consume the water. | (b) |
-
-Patients starting Zokinvy with a body surface area between 0.30 m 2 and 0.38 m 2 , patients taking a weak CYP3A inhibitor concomitantly with Zokinvy and experiencing persistent side-effects and patients with a dysfunctional CYP3A4 polymorphism requiring a reduced daily dose less than or equal to 50 mg
-
-Before beginning to mix Zokinvy with orange juice, read What you need to mix Zokinvy with orange juice.
-
-For patients with a body surface area between 0.30 m 2 and 0.38 m 2 , the daily starting dose of Zokinvy is 75 mg (37.5 mg twice daily with food). Each dose is prepared fresh using a 75 mg capsule and mixed with 10 mL of orange juice. Half of the 10-mL mixture will be consumed.
-
-For patients taking Zokinvy and a weak CYP3A inhibitor and experiencing persistent side-effects or with a dysfunctional CYP3A4 polymorphism, your doctor may reduce your daily dose of Zokinvy by 50%. Prepare each dose fresh. If your reduced daily dose is 50 mg (25 mg twice daily), mix the contents of a 50 mg capsule in 10 mL of orange juice. Half of the 10-mL mixture will be consumed. Generally, 14 days after ending treatment with the weak CYP3A inhibitor or upon your side-effects ending, your doctor will increase your dose to its previous level. Your doctor will provide you with specific guidance.
-
-<!-- image -->
-
-| Step 1:                                                          | Fill 10                 |
-|------------------------------------------------------------------|-------------------------|
-| Use a clean medicine cup and fill it with 10 mL of orange juice. | with mL of orange juice |
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-| Step 2: Pour the orange juice measured in Step 1 into a clean cup for mixing.                                                                                                                                                                          |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Step 3: • Depending on your doctor's direction, hold either a Zokinvy 75 mg or 50 mg capsule above the cup containing the orange juice. • Hold the capsule between your thumb and forefinger on both sides. • Gently twist and pull apart the capsule. |
-| Step 4: • Empty all the contents of the capsule into the cup containing the orange juice.                                                                                                                                                              |
-| Step 5: Using a clean spoon, mix the capsule contents and orange juice well.                                                                                                                                                                           |
-| Step 6: Pour 5 mL of the orange juice and Zokinvy mixture from the mixing cup into a clean medicine cup.                                                                                                                                               |
-
-<div style=\"page-break-after: always\"></div>
+Put half of the mixture from the mixing cup into a clean medicine cup (5 mL of the orange juice mixture or 1 teaspoon of the soft food mixture).
 
 ## Step 7:
 
-Take the 5-mL Zokinvy and orange juice mixture from the medicine cup:
+Take the 5-mL or 1-teaspoonful mixture from the medicine cup:
 
 - with food
 - within about 10 minutes of preparing
 
 Each dose must be mixed and consumed within 10 minutes. The mixture should only be prepared at the time it is to be consumed.
 
-## Step 8:
+<!-- image -->
 
-Fill the medicine cup used to consume the Zokinvy and orange juice mixture with 5 mL of water.
+<!-- image -->
 
-## Step 9:
+<!-- image -->
 
-Gently swirl the water around the medicine cup. Consume the water.
+## TAKEWITHIN
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 ## Drink lots of water while taking Zokinvy
 
@@ -1305,16 +1366,6 @@ If you take more capsules than you should, stop taking the medicine and contact 
 
 If you forget to take a dose, and 8 hours or more remain until your next planned dose, take the missed dose as soon as possible with some food. If less than 8 hours remains before the next scheduled dose, skip the missed dose and resume taking Zokinvy at the next scheduled dose.
 
-TAKEWITHIN
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
 ## If you stop taking Zokinvy
 
 Do not stop taking Zokinvy without talking to your doctor.
@@ -1327,7 +1378,13 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects. Tell your doctor immediately if you:
 
-- have persistent nausea, vomiting or diarrhoea that leads to loss of appetite, weight loss or dehydration. Vomiting or diarrhoea are very common (may affect more than 1 in 10 people) and may lead to electrolyte deficiencies requiring supportive care. Your doctor may monitor your weight, appetite and how much you eat and drink to help detect any of these possible electrolyte conditions.
+- have persistent nausea, vomiting or diarrhoea that leads to loss of appetite, weight loss or dehydration. Vomiting or diarrhoea are very common (may affect more than 1 in 10 people) and may lead to
+
+<div style=\"page-break-after: always\"></div>
+
+electrolyte deficiencies requiring supportive care. Your doctor may monitor your weight, appetite and how much you eat and drink to help detect any of these possible electrolyte conditions.
+
+- feel dizzy, lightheaded, faint, or have a change in your heartbeat (a fast or irregular heartbeat). Your doctor may perform an electrocardiogram (ECG) to monitor your heartbeat and take blood to measure your electrolyte levels.
 
 Tell your doctor immediately if you notice any of the serious side effects above.
 
@@ -1369,9 +1426,6 @@ Tell your doctor immediately if you notice any of the serious side effects above
 - indigestion (may include feelings of bloating, discomfort, feeling too full or gas)
 - inflammation of the stomach lining (gastritis)
 - bleeding of the large intestine, rectum or anus
-
-<div style=\"page-break-after: always\"></div>
-
 - dry skin
 - skin darkening (hyperpigmentation)
 - chest pain
@@ -1381,6 +1435,8 @@ Tell your doctor immediately if you notice any of the serious side effects above
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Zokinvy
 
@@ -1402,9 +1458,7 @@ Zokinvy 50 mg hard capsules: each capsule contains 50 mg lonafarnib. Zokinvy 75 
 
 - -The other ingredients are:
 
-Capsule contents: croscarmellose sodium (see section 2 'Zokinvy contains sodium'), magnesium stearate, poloxamer, povidone and silica, colloidal anhydrous
-
-Capsule shell:
+Capsule contents: croscarmellose sodium (see section 2 'Zokinvy contains sodium'), magnesium stearate, poloxamer, povidone and silica, colloidal anhydrous Capsule shell:
 
 Zokinvy 50 mg hard capsules: gelatin, titanium dioxide, yellow iron oxide and sunflower lecithin Zokinvy 75 mg hard capsules: gelatin, titanium dioxide, yellow iron oxide, red iron oxide and sunflower lecithin
 
@@ -1420,17 +1474,15 @@ The bottle pack contains 30 hard capsules and a desiccant. The desiccant is in a
 
 ## Marketing Authorisation Holder
 
-TMC Pharma (EU) Limited, G24A ArcLabs Research &amp; Innovation Centre,
+TMC Pharma (EU) Limited, G24A ArcLabs Research &amp; Innovation Centre, Carriganore, Waterford, X91 P20H Ireland
+
+Manufacturer ABF Pharmaceutical Services GmbH
+
+Brunner Straße 63/18-19 A-1230 Vienna Austria
+
+Sciensus International B.V. Bijsterhuizen 3142
 
 <div style=\"page-break-after: always\"></div>
-
-Carriganore, Waterford, X91 P20H Ireland
-
-## Manufacturer
-
-ABF Pharmaceutical Services GmbH Brunner Straße 63/18-19 A-1230 Vienna Austria
-
-Sciensus International B.V. Bijsterhuizen 3142 6604 LV, Wijchen Netherlands
 
 ## This leaflet was last revised in MONTH YEAR
 

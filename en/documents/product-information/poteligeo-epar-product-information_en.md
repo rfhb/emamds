@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-03 10:58:49
+document_datetime: 2026-04-08 13:34:37
 document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/poteligeo-epar-product-information_en.pdf
 document_name: poteligeo-epar-product-information_en.pdf
 version: success
-processing_time: 7.3176145
-conversion_datetime: 2025-12-17 15:36:25.268258
+processing_time: 6.3815757
+conversion_datetime: 2026-04-09 12:24:28.099749
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -147,6 +147,8 @@ One case of acute myocardial infarction has been observed in a clinical trial pa
 
 <div style=\"page-break-after: always\"></div>
 
+There are limited data available on patients with LCT.
+
 ## Other
 
 Mogamulizumab should not be administered subcutaneously or intramuscularly, by rapid intravenous administration, or as an intravenous bolus.
@@ -199,26 +201,19 @@ The adverse reactions are presented by system organ class and frequency categori
 
 Table 1: Adverse drug reactions identified with POTELIGEO
 
-| System organ class (SOC)                             | Frequency          | Adverse reaction                                                                                                                           |
-|------------------------------------------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders                 | Common             | Anaemia, neutropenia, leukopenia, Thrombocytopenia                                                                                         |
-| Endocrine disorders                                  | Common             | Hypothyroidism                                                                                                                             |
-| Gastrointestinal disorders                           | Very common Common | Constipation, diarrhoea, nausea, stomatitis Vomiting                                                                                       |
-| Gastrointestinal disorders                           | Common             | Colitis                                                                                                                                    |
-| General disorders and administration site conditions | Very common        | Fatigue, oedema peripheral, pyrexia                                                                                                        |
-| Hepatobiliary disorders                              | Uncommon           | Hepatitis acute, hepatitis                                                                                                                 |
-| Infections and infestations                          | Very common        | Infections a                                                                                                                               |
-| Infections and infestations                          | Common             | Upper respiratory tract infection                                                                                                          |
-| Injury, poisoning and procedural complications       | Very common        | Infusion related reaction                                                                                                                  |
-| Investigations                                       | Common             | Alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, lymphocyte count decreased |
-| Metabolism and nutrition disorders                   | Uncommon           | Tumour lysis syndrome                                                                                                                      |
-| Nervous system disorders                             | Very common        | Headache                                                                                                                                   |
-| Skin and subcutaneous tissue disorders               | Very common        | Drug eruption (including skin rash)                                                                                                        |
-| Skin and subcutaneous tissue disorders               | Not known          | Granuloma b                                                                                                                                |
-
-a Folliculitis, Cellulitis, Candidiasis, Pneumonia, Sepsis, Skin infection, Otitis externa, Herpes zoster, Staphylococcal skin infection, Urinary tract infection, Herpes simplex and cytomegalovirus
-
-b Including cases of granuloma of the skin (scalp, periauricular area, and trunk) and bone (sternum, skull, spine, costa, and pelvis).
+| System organ class (SOC)                             | Frequency                 | Adverse reaction                                                                                                                           |
+|------------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| Blood and lymphatic system disorders                 | Common                    | Anaemia, neutropenia, leukopenia, Thrombocytopenia                                                                                         |
+| Endocrine disorders                                  | Common                    | Hypothyroidism                                                                                                                             |
+| Gastrointestinal disorders                           | Very common Common Common | Constipation, diarrhoea, nausea, stomatitis Vomiting Colitis                                                                               |
+| General disorders and administration site conditions | Very common               | Fatigue, oedema peripheral, pyrexia                                                                                                        |
+| Hepatobiliary disorders                              | Uncommon                  | Hepatitis acute, hepatitis                                                                                                                 |
+| Infections and infestations                          | Very common Common        | Infections a Upper respiratory tract infection                                                                                             |
+| Injury, poisoning and procedural complications       | Very common               | Infusion related reaction                                                                                                                  |
+| Investigations                                       | Common                    | Alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, lymphocyte count decreased |
+| Metabolism and nutrition disorders                   | Uncommon                  | Tumour lysis syndrome                                                                                                                      |
+| Nervous system disorders                             | Very common               | Headache                                                                                                                                   |
+| Skin and subcutaneous tissue disorders               | Very common Not known     | Drug eruption (including skin rash) Granuloma b                                                                                            |
 
 ## Description of selected adverse reactions
 
@@ -304,7 +299,7 @@ treatment intolerance (27 patients). The number of infusions of mogamulizumab ad
 
 At 6, 12, 18 and 24 months after the start of randomised treatment, the percent of subjects alive without disease progression was higher for mogamulizumab (55.3%, 38.3%, 28.0%, and 14.1%, respectively) compared to vorinostat (28.8%, 15.3%, 7.2%, and 7.2%, respectively). Median PFS for the mogamulizumab group was 7.70 months (95% CI: 5.67, 10.33) and 3.10 months (95% CI: 2.87, 4.07) for the vorinostat group with resultant hazard ration of 0.53 (95% CI: 0.41, 0.69), p &lt; 0.0001 (2-sided, stratified log rank test).
 
-The Kaplan-Meier curve for PFS is shown Figure 1.
+The Kaplan-Meier curve for PFS is shown Figure 1 .
 
 Figure 1: Plot of Kaplan-Meier curve of progression-free survival by investigator's assessment (ITT) population
 
@@ -362,19 +357,19 @@ Time to compartment level response in Stage IB/II patients was approximately 3 m
 
 Table 3: Overall and Compartmental Response Rate in Early Disease Stages
 
-|                                    | Mogamulizumab            | Vorinostat              | Risk Diff (M vs. V)   |
-|------------------------------------|--------------------------|-------------------------|-----------------------|
-| Disease stage IB/II                | N = 68                   | N = 72                  |                       |
-| Overall response rate (ORR), n (%) | 12 (17.6)                | 6 (8.3)                 | 9.3                   |
-| Compartment:                       |                          |                         |                       |
-| Blood (n) Response Rate (n, %)     | 17 8 (47.1) (23.0, 72.2) | 23 4 (17.4) (5.0, 38.8) | 29.7                  |
-| 95% CI a                           | 68                       | 72                      | (-2.2, 57.1)          |
-| Skin (n)                           |                          |                         |                       |
-| Response Rate (n, %)               | 19 (27.9)                | 14 (19.4)               | 8.5                   |
-| 95% CI a                           | (17.7, 40.1)             | (11.1, 38.8)            | (-8.3, 24.9)          |
-| Nodal (n)                          | 41                       | 40                      |                       |
-| Response Rate (n, %)               | 4 (9.8)                  | 1 (2.5)                 | 7.3                   |
-| 95% CI a                           | (2.7, 23.1)              | (0.1, 13.2)             | (-14.3, 28.6)         |
+|                                    | Mogamulizumab   | Vorinostat   | Risk Diff (M vs. V)   |
+|------------------------------------|-----------------|--------------|-----------------------|
+| Disease stage IB/II                | N = 68          | N = 72       |                       |
+| Overall response rate (ORR), n (%) | 12 (17.6)       | 6 (8.3)      | 9.3                   |
+| Compartment:                       |                 |              |                       |
+| Blood (n) Response Rate (n, %)     | 17 8 (47.1)     | 23 4 (17.4)  | 29.7                  |
+| 95% CI a                           | (23.0, 72.2)    | (5.0, 38.8)  | (-2.2, 57.1)          |
+| Skin (n)                           | 68              | 72           |                       |
+| Response Rate (n, %)               | 19 (27.9)       | 14 (19.4)    | 8.5                   |
+| 95% CI a                           | (17.7, 40.1)    | (11.1, 38.8) | (-8.3, 24.9)          |
+| Nodal (n)                          | 41              | 40           |                       |
+| Response Rate (n, %)               | 4 (9.8)         | 1 (2.5)      | 7.3                   |
+| 95% CI a                           | (2.7, 23.1)     | (0.1, 13.2)  | (-14.3, 28.6)         |
 
 M = mogamulizumab. V = vorinostat
 
@@ -544,9 +539,13 @@ Name and address of the manufacturer of the biological active substance
 
 Kyowa Kirin Co., Ltd. Takasaki Plant 100-1 Hagiwara-machi, Takasaki-shi, Gunma, 370-0013, Japan
 
+Lonza AG Lonzastrasse CH-3930 Visp Switzerland
+
 Name and address of the manufacturer responsible for batch release allphamed PHARBIL Arzneimittel GmbH Hildebrandstr. 10-12 37081 Göttingen Germany
 
 Kyowa Kirin Holdings B.V. Bloemlaan 2 2132NP Hoofddorp Netherlands
+
+Kyowa Kirin Services Ltd. Dutch Branch Bloemlaan 2 Hoofddorp 2132 NP Netherlands
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -564,9 +563,9 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## · Risk management plan (RMP)
 
-The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
-
 <div style=\"page-break-after: always\"></div>
+
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
@@ -641,7 +640,7 @@ Do not freeze.
 
 Store in the original carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -661,11 +660,9 @@ EU/1/18/1335/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
@@ -683,22 +680,18 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| VIAL LABEL                                                         |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 POTELIGEO 4 mg/mL concentrate for solution for infusion mogamulizumab Intravenous use after dilution
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 Read the package leaflet before use.
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
@@ -707,13 +700,11 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 20 mg/5 mL
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 For single use only.
 
@@ -725,9 +716,7 @@ For single use only.
 
 <div style=\"page-break-after: always\"></div>
 
-## POTELIGEO 4 mg/mL concentrate for solution for infusion
-
-## mogamulizumab
+## POTELIGEO 4 mg/mL concentrate for solution for infusion mogamulizumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -807,6 +796,8 @@ This medicine contains 1 mg of polysorbate 80 in each vial which is equivalent t
 
 The amount of POTELIGEO you will receive is calculated by your doctor based on your body weight. The recommended dose is 1 mg POTELIGEO for each kg of body weight.
 
+<div style=\"page-break-after: always\"></div>
+
 POTELIGEO will be given to you through a vein (intravenous infusion) over at least 60 minutes. To start with, the infusions will be given once a week for the first 5 doses, then once every 2 weeks. Treatment should be continued unless you get serious side effects or the cutaneous T-cell lymphoma starts to get worse.
 
 ## 4. Possible side effects
@@ -820,9 +811,6 @@ Tell your doctor or nurse or get medical help immediately if you have any of the
 ## Very common side effects: may affect more than 1 in 10 people
 
 - -chills, nausea or vomiting, headache, wheezing, itching, flushing, rash, dizziness or feeling faint, difficulty breathing and fever, which may be signs of an infusion reaction. If this happens, the infusion may need to be stopped and you may require additional treatment. When the symptoms go away, POTELIGEO can normally continue to be given, but more slowly. Your doctor may stop POTELIGEO treatment if your reaction is severe.
-
-<div style=\"page-break-after: always\"></div>
-
 - -signs of infection, which may include a fever, sweats or chills, flu-like symptoms, sore throat or difficulty swallowing, cough, shortness of breath, stomach pain, nausea or vomiting, diarrhoea and feeling very unwell.
 - -skin rash (which may become severe), or sore mouth. In some people receiving POTELIGEO for other types of cancers, skin pain/burning sensation, itching, skin blisters/peeling, ulcers in the mouth or on the lips or genitals occurred, which are possible signs of a severe skin reaction, such as Stevens-Johnson syndrome or toxic epidermal necrolysis (which affected up to 1 in 100 people).
 
@@ -847,6 +835,9 @@ Talk to your doctor if you get any other side effects. These can include:
 
 - -Lack of energy (fatigue)
 - -Constipation
+
+<div style=\"page-break-after: always\"></div>
+
 - -Swollen legs or ankles
 - -Headache
 
@@ -860,9 +851,7 @@ Talk to your doctor if you get any other side effects. These can include:
 
 ## Uncommon side effects: may affect up to 1 in 100 people
 
-- -
-
-Inflammation of the liver (hepatitis)
+- -Inflammation of the liver (hepatitis)
 
 ## Not Known: frequency cannot be estimated from the available data
 
@@ -870,11 +859,7 @@ Inflammation of the liver (hepatitis)
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in
-
-<div style=\"page-break-after: always\"></div>
-
-Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
 
 ## 5. How to store POTELIGEO
 
@@ -903,6 +888,8 @@ Do not throw away any medicines via wastewater or household waste. These measure
 
 POTELIGEO is a clear, colourless solution. The pack contains a glass vial containing 5 mL concentrate for solution for infusion.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder
 
 Kyowa Kirin Holdings B.V. Bloemlaan 2 2132NP Hoofddorp Netherlands medinfo@kyowakirin.com
@@ -913,9 +900,9 @@ allphamed PHARBIL Arzneimittel GmbH Hildebrandstr. 10-12 37081 Göttingen German
 
 Kyowa Kirin Holdings B.V. Bloemlaan 2 2132NP Hoofddorp Netherlands
 
-This leaflet was last revised in &lt; { MM/YYYY }&gt;&lt;{ month YYYY }&gt;.
+Kyowa Kirin Services Ltd. Dutch Branch Bloemlaan 2 Hoofddorp 2132 NP Netherlands
 
-<div style=\"page-break-after: always\"></div>
+This leaflet was last revised in &lt; { MM/YYYY }&gt;&lt;{ month YYYY }&gt;.
 
 ## Other sources of information
 

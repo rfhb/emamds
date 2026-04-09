@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-25 16:21:00
+document_datetime: 2026-04-07 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kavigale.html
 document_name: kavigale.html
 version: success
-processing_time: 0.0944855
-conversion_datetime: 2026-03-01 19:36:44.547695
+processing_time: 0.1050512
+conversion_datetime: 2026-04-09 12:24:07.325495
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Kavigale
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-sipavibart Medicine Human Authorised
+sipavibart
+
+Medicine Human Authorised
 
 Page contents
 
@@ -108,181 +110,137 @@ English (EN) (121.6 KB - PDF)
 
 [View](/en/documents/overview/kavigale-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-581)
+[Other languages (22)](#file-language-dropdown-321)
 
 български (BG) (137.49 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/bg/documents/overview/kavigale-epar-medicine-overview_bg.pdf)
 
 español (ES) (111.42 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/es/documents/overview/kavigale-epar-medicine-overview_es.pdf)
 
 čeština (CS) (135.2 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/cs/documents/overview/kavigale-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (110.95 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/da/documents/overview/kavigale-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (115.04 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/de/documents/overview/kavigale-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (108.54 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/et/documents/overview/kavigale-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (136.93 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/el/documents/overview/kavigale-epar-medicine-overview_el.pdf)
 
 français (FR) (112.64 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/fr/documents/overview/kavigale-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (133.53 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/hr/documents/overview/kavigale-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (110.72 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/it/documents/overview/kavigale-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (141.13 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/lv/documents/overview/kavigale-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (131.96 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/lt/documents/overview/kavigale-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (134.14 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/hu/documents/overview/kavigale-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (135.87 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/mt/documents/overview/kavigale-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (112.68 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/nl/documents/overview/kavigale-epar-medicine-overview_nl.pdf)
 
 polski (PL) (137.28 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/pl/documents/overview/kavigale-epar-medicine-overview_pl.pdf)
 
 português (PT) (112.25 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/pt/documents/overview/kavigale-epar-medicine-overview_pt.pdf)
 
 română (RO) (131.97 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/ro/documents/overview/kavigale-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (135.89 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/sk/documents/overview/kavigale-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (131.33 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/sl/documents/overview/kavigale-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (108.66 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/fi/documents/overview/kavigale-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (109.32 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/sv/documents/overview/kavigale-epar-medicine-overview_sv.pdf)
 
@@ -298,305 +256,161 @@ English (EN) (352.99 KB - PDF)
 
 Kavigale : EPAR - Product information
 
-English (EN) (302.23 KB - PDF)
+English (EN) (302.2 KB - PDF)
 
-**First published:** 24/02/2025
-
-**Last updated:** 25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/en/documents/product-information/kavigale-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-332)
+[Other languages (24)](#file-language-dropdown-843)
 
 български (BG) (342.75 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/bg/documents/product-information/kavigale-epar-product-information_bg.pdf)
 
-español (ES) (272.41 KB - PDF)
+español (ES) (272.43 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/es/documents/product-information/kavigale-epar-product-information_es.pdf)
 
-čeština (CS) (362.26 KB - PDF)
+čeština (CS) (362.25 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/cs/documents/product-information/kavigale-epar-product-information_cs.pdf)
 
 dansk (DA) (313.2 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/da/documents/product-information/kavigale-epar-product-information_da.pdf)
 
-Deutsch (DE) (341.3 KB - PDF)
+Deutsch (DE) (341.36 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/de/documents/product-information/kavigale-epar-product-information_de.pdf)
 
-eesti keel (ET) (304.56 KB - PDF)
+eesti keel (ET) (304.63 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/et/documents/product-information/kavigale-epar-product-information_et.pdf)
 
-ελληνικά (EL) (343.64 KB - PDF)
+ελληνικά (EL) (346.74 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/el/documents/product-information/kavigale-epar-product-information_el.pdf)
 
-français (FR) (327.96 KB - PDF)
+français (FR) (327.95 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/fr/documents/product-information/kavigale-epar-product-information_fr.pdf)
 
-hrvatski (HR) (322.5 KB - PDF)
+hrvatski (HR) (322.48 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/hr/documents/product-information/kavigale-epar-product-information_hr.pdf)
 
-íslenska (IS) (265.68 KB - PDF)
+íslenska (IS) (265.73 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/is/documents/product-information/kavigale-epar-product-information_is.pdf)
 
-italiano (IT) (313.58 KB - PDF)
+italiano (IT) (313.62 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/it/documents/product-information/kavigale-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (320.49 KB - PDF)
+latviešu valoda (LV) (320.5 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/lv/documents/product-information/kavigale-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (344.86 KB - PDF)
+lietuvių kalba (LT) (344.83 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/lt/documents/product-information/kavigale-epar-product-information_lt.pdf)
 
-magyar (HU) (342.56 KB - PDF)
+magyar (HU) (342.61 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/hu/documents/product-information/kavigale-epar-product-information_hu.pdf)
 
-Malti (MT) (340.59 KB - PDF)
+Malti (MT) (340.72 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/mt/documents/product-information/kavigale-epar-product-information_mt.pdf)
 
 Nederlands (NL) (316.46 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/nl/documents/product-information/kavigale-epar-product-information_nl.pdf)
 
-norsk (NO) (304.95 KB - PDF)
+norsk (NO) (304.96 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/no/documents/product-information/kavigale-epar-product-information_no.pdf)
 
-polski (PL) (346.65 KB - PDF)
+polski (PL) (346.69 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/pl/documents/product-information/kavigale-epar-product-information_pl.pdf)
 
-português (PT) (329.33 KB - PDF)
+português (PT) (329.38 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/pt/documents/product-information/kavigale-epar-product-information_pt.pdf)
 
 română (RO) (344.88 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/ro/documents/product-information/kavigale-epar-product-information_ro.pdf)
 
-slovenčina (SK) (333.6 KB - PDF)
+slovenčina (SK) (333.55 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/sk/documents/product-information/kavigale-epar-product-information_sk.pdf)
 
-slovenščina (SL) (312.78 KB - PDF)
+slovenščina (SL) (312.85 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/sl/documents/product-information/kavigale-epar-product-information_sl.pdf)
 
-Suomi (FI) (306.99 KB - PDF)
+Suomi (FI) (306.91 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/fi/documents/product-information/kavigale-epar-product-information_fi.pdf)
 
-svenska (SV) (302.18 KB - PDF)
+svenska (SV) (302.09 KB - PDF)
 
-**First published:**
-
-24/02/2025
-
-**Last updated:**
-
-25/02/2026
+**First published:** 24/02/2025 **Last updated:** 07/04/2026
 
 [View](/sv/documents/product-information/kavigale-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000301976 15/01/2026
+**Latest procedure affecting product information:** VR/0000337215
+
+07/04/2026
 
 icon globe
 
@@ -620,203 +434,173 @@ English (EN) (54.82 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-684)
+[Other languages (24)](#file-language-dropdown-721)
 
 български (BG) (68 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/bg/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (61.14 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/es/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (64.09 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/cs/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (62.83 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/da/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (52.06 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/de/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (55.56 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/et/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (51.59 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/el/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (56.73 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/fr/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (48.26 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/hr/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (62.74 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/is/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (60.27 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/it/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (64.71 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/lv/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (58.06 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/lt/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (45.1 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/hu/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (59.36 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/mt/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (60.1 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/nl/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (62.72 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/no/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (51.11 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/pl/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (61.58 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/pt/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (63.96 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/ro/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (47.31 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/sk/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (42.97 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/sl/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (53.29 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/fi/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (54.84 KB - PDF)
 
-**First published:**
-
-24/02/2025
+**First published:** 24/02/2025
 
 [View](/sv/documents/all-authorised-presentations/kavigale-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Kavigale Active substance sipavibart International non-proprietary name (INN) or common name sipavibart Therapeutic area (MeSH) COVID-19 virus infection Anatomical therapeutic chemical (ATC) code J06BD09
+Name of medicine
+
+Kavigale
+
+Active substance
+
+sipavibart
+
+International non-proprietary name (INN) or common name
+
+sipavibart
+
+Therapeutic area (MeSH)
+
+COVID-19 virus infection
+
+Anatomical therapeutic chemical (ATC) code
+
+J06BD09
 
 ### Pharmacotherapeutic group
 
@@ -828,13 +612,27 @@ Kavigale is indicated for the pre-exposure prophylaxis of COVID-19 in adults and
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006291 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/006291
+
+Marketing authorisation holder
 
 AstraZeneca AB
 
 151 85 Sodertalje
 
-Opinion adopted 12/12/2024 Marketing authorisation issued 20/01/2025 Revision 3
+Opinion adopted
+
+12/12/2024
+
+Marketing authorisation issued
+
+20/01/2025
+
+Revision
+
+4
 
 ## Assessment history
 
@@ -846,11 +644,9 @@ Collapse section
 
 Kavigale : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (162.58 KB - PDF)
+English (EN) (159.91 KB - PDF)
 
-**First published:** 05/05/2025
-
-**Last updated:** 25/02/2026
+**First published:** 05/05/2025 **Last updated:** 07/04/2026
 
 [View](/en/documents/procedural-steps-after/kavigale-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -858,9 +654,7 @@ English (EN) (162.58 KB - PDF)
 
 Kavigale : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/8692/2025 corr.1
+Adopted Reference Number: EMA/8692/2025 corr.1
 
 English (EN) (3.75 MB - PDF)
 
@@ -870,9 +664,7 @@ English (EN) (3.75 MB - PDF)
 
 CHMP summary of positive opinion for Kavigale
 
-Adopted
-
-Reference Number: EMA/CHMP/562567/2024
+Adopted Reference Number: EMA/CHMP/562567/2024
 
 English (EN) (155.05 KB - PDF)
 
@@ -882,14 +674,16 @@ English (EN) (155.05 KB - PDF)
 
 ## News on Kavigale
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2024) 13/12/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2024)
+
+13/12/2024
 
 ### Related content
 
 - [Emergency Task Force (ETF) documents: COVID-19](https://www.ema.europa.eu/en/committees/working-parties-other-groups/emergency-task-force-etf/emergency-task-force-etf-documents#covid-19-66890)
 
-**This page was last updated on** 25/02/2026
+**This page was last updated on**
+
+07/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

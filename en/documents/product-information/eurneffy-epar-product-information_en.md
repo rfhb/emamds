@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-27 11:40:03
-document_pages: 37
+document_datetime: 2026-04-07 10:30:20
+document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/eurneffy-epar-product-information_en.pdf
 document_name: eurneffy-epar-product-information_en.pdf
 version: success
-processing_time: 8.7010674
-conversion_datetime: 2025-12-31 02:01:56.77508
+processing_time: 10.8309209
+conversion_datetime: 2026-04-09 12:47:17.290726
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -22,13 +22,19 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+## 1 . NAME OF THE MEDICINAL PRODUCT
 
-EURneffy 2 mg nasal spray, solution in single-dose container
+EURneffy 1 mg nasal spray, solution in single-dose container EURneffy 2 mg nasal spray, solution in single-dose container
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each single-dose container delivers adrenaline (epinephrine) 2 mg in 100 microlitres
+EURneffy 1 mg nasal spray, solution in single-dose container
+
+Each single-dose container delivers adrenaline (epinephrine) 1 mg in 100 microlitres.
+
+EURneffy 2 mg nasal spray, solution in single-dose container
+
+Each single-dose container delivers adrenaline (epinephrine) 2 mg in 100 microlitres.
 
 ## Excipients with known effect
 
@@ -48,31 +54,35 @@ A solution with a pH of 3.0-5.5 and an osmolality of 325-560 mOsm/kg.
 
 ## 4.1 Therapeutic indications
 
-EURneffy is indicated in the emergency treatment of allergic reactions (anaphylaxis) due to insect stings or bites, foods, medicinal products and other allergens as well as idiopathic or exercise induced anaphylaxis. Treatment is indicated for adults and children with a body weight ≥ 30 kg.
+EURneffy is indicated in the emergency treatment of allergic reactions (anaphylaxis) due to insect stings or bites, foods, medicinal products and other allergens as well as idiopathic or exercise induced anaphylaxis. Treatment is indicated for adults and children aged 4 years and over with a body weight of 15 kg or more.
 
 ## 4.2 Posology and method of administration
 
-## Posology
+Posology
 
 This medicinal product should be administered at the first sign of a severe Type I allergic reaction.
 
-The recommended initial dose is a single nasal administration of 2 mg adrenaline.
+The recommended initial dose in children aged 4 years and over weighing 15 kg to less than 30 kg is a single nasal administration of 1 mg adrenaline.
+
+The recommended initial dose in adults and children aged 4 years and over weighing 30 kg or more is a single nasal administration of 2 mg adrenaline.
 
 The patient should be advised to immediately seek emergency medical assistance for close monitoring of the anaphylactic episode and in the event further treatment is required.
 
-In the absence of clinical improvement after approximately 10 minutes, or if deterioration occurs or symptoms reappear after the initial treatment, a second dose should be administered in the same nostril together with emergency medical help. A maximum of 4 mg (two doses) may be given unless instructed by a medical professional to give additional doses. It is recommended that patients should always carry two nasal sprays to treat an allergy emergency.
+<div style=\"page-break-after: always\"></div>
+
+In the absence of clinical improvement after approximately 10 minutes, or if deterioration occurs or symptoms reappear after the initial treatment, a second dose should be administered in the same nostril together with emergency medical help.
+
+A maximum of 4 mg (two doses of 2 mg adrenaline) for adults and children aged 4 years and over weighing 30 kg or more may be given unless instructed by a medical professional to give additional doses.
+
+A maximum of 2 mg (two doses of 1 mg adrenaline) for children aged 4 years or more weighing 15 kg to less than 30 kg may be given unless instructed by a medical professional to give additional doses. It is recommended that patients should always carry two nasal sprays to treat an allergy emergency.
 
 ## Elderly
 
-No pharmacokinetic data are available after nasal administration of adrenaline in patients aged 65 years or older. No dose adjustment is required.
+No pharmacokinetic (PK) data are available after nasal administration of adrenaline in patients aged 65 years or older. No dose adjustment is required.
 
 ## Paediatric population
 
-The recommended posology in children with a body weight ≥ 30 kg is the same as adults.
-
-<div style=\"page-break-after: always\"></div>
-
-The safety and efficacy of EURneffy in children below 30 kg body weight has not been established. No data are available.
+The safety and efficacy of EURneffy in children below 4 years of age and weighing less than 15 kg have not been established. No data are available.
 
 ## Method of administration
 
@@ -102,7 +112,11 @@ None.
 
 ## Instructions for patients at the time of prescribing
 
-A physician who prescribes this medicinal product should take appropriate steps to ensure that the patient understands the indication and use of the nasal spray thoroughly. The physician should review the patient information leaflet and operating instructions of the nasal spray with the patient. All patients who are prescribed this medicinal product should be clearly instructed on how and when to use the product (see section 4.2). It is strongly advised to also educate the patient's immediate associates (e.g., parents, caregivers, teachers) on the correct use of this medicinal product in case support is needed in an emergency.
+A physician who prescribes this medicinal product should take appropriate steps to ensure that the patient understands the indication and use of the nasal spray thoroughly. The physician should review the patient information leaflet and operating instructions of the nasal spray with the patient. All patients who are prescribed this medicinal product should be clearly instructed on how and when to
+
+<div style=\"page-break-after: always\"></div>
+
+use the product (see section 4.2). It is strongly advised to also educate the patient's immediate associates (e.g. parents, caregivers, teachers) on the correct use of this medicinal product in case support is needed in an emergency.
 
 For children under 12 years of age, the caregiver should administer EURneffy or determine that the child is properly instructed in the use of EURneffy and is fully capable of administration themselves.
 
@@ -110,13 +124,11 @@ Patients with a cold or a congested nose can use this medicinal product, even in
 
 ## Warnings for patients about anaphylaxis
 
-Patients should be instructed to recognise symptoms of systemic allergic reactions and anaphylaxis that may occur within minutes after exposure and which may consist of flushing, apprehension, syncope, tachycardia, thready or unobtainable pulse associated with a fall in blood pressure, convulsions, vomiting, diarrhoea and abdominal cramps, involuntary voiding, wheezing, dyspnoea due
+Patients should be instructed to recognise symptoms of systemic allergic reactions and anaphylaxis that may occur within minutes after exposure and which may consist of flushing, apprehension, syncope, tachycardia, thready or unobtainable pulse associated with a fall in blood pressure, convulsions, vomiting, diarrhoea and abdominal cramps, involuntary voiding, wheezing, dyspnoea due to laryngeal spasm, pruritus, rashes, urticaria, or angioedema. Patients with concomitant asthma may be at increased risk of severe anaphylactic reaction.
 
-<div style=\"page-break-after: always\"></div>
+In young children, symptoms of systemic allergic reactions and anaphylaxis resemble symptoms of anaphylaxis in other age groups. The caregiver should be instructed to recognise symptoms of systemic allergic reactions and anaphylaxis that often consist of skin and/or gastrointestinal symptoms. Recognition of symptoms can be challenging in young children as symptoms can mimic normal behaviour (e.g. tongue thrusting, ear pulling, clinging to caregiver, cessation of playing, crying, spitting up/regurgitation after foods, increased secretions, loose stools, sleepiness/drowsiness after feeds, flushing with fever or crying spells, scratching, irritability) leading to misdiagnosis of anaphylaxis if inappropriately interpreted.
 
-to laryngeal spasm, pruritus, rashes, urticaria, or angioedema. Patients with concomitant asthma may be at increased risk of severe anaphylactic reaction.
-
-Adrenaline is recommended for use at first signs or symptoms of severe allergy events leading to anaphylaxis. Patients should be instructed to always carry adrenaline in situations of potential risks.
+Adrenaline is recommended for use at first signs or symptoms of severe allergy reactions leading to anaphylaxis. Patients should be instructed to always carry adrenaline in situations of potential risks.
 
 The patient/caregiver should be informed about the possibility of biphasic anaphylaxis which is characterised by initial resolution followed by recurrence of symptoms some hours later. The patient should be advised to always seek medical assistance immediately after any severe allergic reaction.
 
@@ -124,13 +136,15 @@ The patient/caregiver should be informed about the possibility of biphasic anaph
 
 Extreme caution should be taken when administering adrenaline to patients who have a heart disease.
 
-Use of adrenaline with medicinal products that may sensitise the heart to arrhythmias, e.g., digoxin, mercurial diuretics, or quinidine, ordinarily is not recommended (see section 4.5). Anginal pain may be induced by adrenaline in patients with coronary insufficiency.
+Use of adrenaline with medicinal products that may sensitise the heart to arrhythmias, e.g. digoxin, mercurial diuretics, or quinidine, ordinarily is not recommended (see section 4.5). Anginal pain may be induced by adrenaline in patients with coronary insufficiency.
 
 There is a risk of adverse reactions following adrenaline administration in patients with high intraocular pressure, severe renal impairment, prostatic adenoma leading to residual urine, hypercalcaemia, and hypokalaemia. In patients with Parkinson's disease, adrenaline may be associated with a transient worsening of Parkinson's symptoms such as rigidity and tremor.
 
 Individuals with hyperthyroidism, cardiovascular disease, hypertension, or diabetes, elderly individuals, and pregnant women may be at greater risk of developing adverse reactions after adrenaline administration (see sections 4.6 and 4.8).
 
 Patients with these conditions, and/or any other persons who might be in a position to administer this medicinal product to a patient experiencing a severe allergic reaction or anaphylaxis should be carefully instructed in regard to the circumstances under which this life-saving medicinal product should be used.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Excipients with known effect
 
@@ -150,19 +164,17 @@ Caution is indicated in patients receiving medicinal products that may sensitise
 
 The effects of adrenaline may be potentiated by tricyclic antidepressants (e.g. imipramine) and mono amine oxidase inhibitors (MAO-inhibitors) (e.g. isocarboxazid, phenelzine, selegiline, tranylcypromine) and catechol-O-methyl transferase inhibitors (COMT-inhibitors) (e.g. entacapone, tolcapone, carbidopa-levodopa-entacapone, opicapone), thyroid hormones, theophylline, oxytocin, parasympatholytics (e.g. atropine, cyclopentolate, homatropine, hyoscine, tropicaminde), certain antihistamines (diphenhydramine, chlorpheniramine), levodopa, and alcohol.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pressor effects of adrenaline
 
 Pressor effects of adrenaline may be counteracted by rapidly acting vasodilators or alpha-adrenergicblocking medicinal products such as phentolamine.
 
 ## Adrenaline and insulin
 
-Adrenaline inhibits the secretion of insulin, thus increasing the blood glucose level. It is unlikely if given in an acute emergency situation that adrenaline would have any persistent effect on blood glucose levels, but for diabetic patients receiving adrenaline it may be necessary to increase their dose of insulin or oral hypoglycaemic medicinal products.
+Adrenaline inhibits the secretion of insulin, thus increasing the blood glucose level. It is unlikely if given in an acute emergency that adrenaline would have any persistent effect on blood glucose levels, but for diabetic patients receiving adrenaline it may be necessary to increase their dose of insulin or oral hypoglycaemic medicinal products.
 
 ## Adrenaline and beta-blocking medicinal products
 
-The beta-stimulating effect of adrenaline may be inhibited by simultaneous treatment with betablocking medicinal products, e.g. propanolol.
+The beta-stimulating effect of adrenaline may be inhibited by simultaneous treatment with betablocking medicinal products, e.g. propranolol.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -170,19 +182,21 @@ The beta-stimulating effect of adrenaline may be inhibited by simultaneous treat
 
 There are no data on the effect of EURneffy in pregnant women.
 
-A moderate amount of data on pregnant women (between 300-1000 pregnancy outcomes) indicates no malformation or feto/ neonatal toxicity of adrenaline. While an endogenous substance and blood levels after administration of EURneffy are within normal physiologic ranges, adrenaline increases blood pressure and heart rate which can impact the foetus.
+A moderate amount of data on pregnant women (between 300-1 000 pregnancy outcomes) indicates no malformation or feto/neonatal toxicity of adrenaline. While an endogenous substance and blood levels after administration of EURneffy are within normal physiologic ranges, adrenaline increases blood pressure and heart rate which can impact the foetus.
 
 Animal studies do not indicate reproductive toxicity (see section 5.3).
 
 The use of this medicinal product may be considered during pregnancy, if necessary.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Breast-feeding
 
-There are no data on the effect of adrenaline in breast-feeding mothers. However, EURneffy can be used in breast-feeding mothers.
+There are no data on the effect of adrenaline in breast-feeding women. However, EURneffy can be used in breast-feeding women.
 
-It is unknown whether adrenaline/ metabolites are excreted in human milk.
+It is unknown whether adrenaline/metabolites are excreted in human milk.
 
-A risk to the newborns/ infants cannot be excluded. However, due to its poor oral bioavailability and short half-life, exposure is expected to be very low in the breastfed infants.
+A risk to the newborns/infants cannot be excluded. However, due to its poor oral bioavailability and short half-life, exposure is expected to be very low in the breastfed infants.
 
 ## Fertility
 
@@ -192,19 +206,17 @@ Adrenaline is an endogenous substance and blood levels after administration of E
 
 ## 4.7 Effects on ability to drive and use machines
 
-EURneffy has no or negligible influence on the ability to drive and use machines. It is not recommended that patients who are suffering an anaphylactic reaction drive or use machines because of the anaphylactic reaction.
+EURneffy may have minor influence on the ability to drive and use machines due to adverse reactions that may occur after administration (see section 4.8); however it is not recommended that patients who are experiencing an anaphylactic reaction drive or use machines since they may be impacted by symptoms caused by the anaphylactic reaction.
 
 ## 4.8 Undesirable effects
 
-<div style=\"page-break-after: always\"></div>
-
 ## Summary of safety profile
 
-The most frequently occurring adverse reactions (very common events ≥ 10%) observed in clinical studies of EURneffy were reported only after second 2 mg dose (4 mg total) and include throat irritation (18.8%), headache (17.6%), nasal discomfort (12.9%) and feeling jittery (10.6%).  None of the adverse drug reactions observed in the clinical studies were serious.
+The most frequently occurring adverse reactions  following EURneffy administration are  throat irritation,  , headache, nasal discomfort  and feeling jittery, all categorised as very common and reported  by more than 1  out of per 10 patients.
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions are summarized based on analysis of pooled safety data from primary PK/PD studies using EURneffy 2 mg in adult healthy volunteers, in patients with Type 1 allergies and in patients with allergic rhinitis. The adverse reactions are ranked according to system organ class and frequency according to the following convention:
+Adverse reactions are summarised based on analysis of pooled safety data from primary PK/ pharmacodynamic (PD) studies using EURneffy 1 mg and 2 mg in paediatric and adult healthy volunteers, in patients with Type 1 allergies and in patients with allergic rhinitis. The adverse reactions are ranked according to system organ class and frequency according to the following convention:
 
 - Very common (≥ 1/10)
 - Common (≥ 1/100 to &lt; 1/10)
@@ -213,42 +225,44 @@ Adverse reactions are summarized based on analysis of pooled safety data from pr
 - Very rare (&lt; 1/10 000)
 - Not known (frequency cannot be estimated from the available data)
 
-Table 1: Adverse drug reactions identified with EURneffy
+## Table 1: Adverse reactions identified with EURneffy
 
-| System organ class                              | Frequency   | Adverse reaction                                                                                              |
-|-------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------|
-| Psychiatric disorders                           | Common      | Anxiety                                                                                                       |
-| Psychiatric disorders                           | Uncommon    | Euphoric mood Nervousness                                                                                     |
-| Psychiatric disorders                           | Not known   | Disorientation 1 Memory impairment 1 Panic reaction 1                                                         |
-| Nervous system disorders                        | Very Common | Headache                                                                                                      |
-| Nervous system disorders                        | Common      | Tremor                                                                                                        |
-| Nervous system disorders                        | Uncommon    | Dizziness Paraesthesia Head discomfort Presyncope                                                             |
-| Nervous system disorders                        | Not known   | Psychomotor hyperactivity 1 Somnolence 1                                                                      |
-| Eye disorders                                   | Uncommon    | Lacrimation increased                                                                                         |
-| Cardiac disorders                               | Common      | Palpitations                                                                                                  |
-| Cardiac disorders                               | Not known   | Angina 1 Cardiac arrhythmias 1,2 Stress cardiomyopathy 1 Tachyarrhythmia 1 Tachycardia 1 Ventricular ectopy 1 |
-| Vascular disorders                              | Not known   | Hypertension 1 Vasoconstriction 1                                                                             |
-| Respiratory, thoracic and mediastinal disorders | Very Common | Nasal discomfort Throat irritation                                                                            |
-| Respiratory, thoracic and mediastinal disorders | Common      | Rhinorrhoea Nasal oedema Rhinalgia Nasal congestion                                                           |
+| System organ class    | Frequency   | Adverse reaction                                      |
+|-----------------------|-------------|-------------------------------------------------------|
+| Psychiatric disorders | Common      | Anxiety                                               |
+| Psychiatric disorders | Uncommon    | Euphoric mood Nervousness                             |
+| Psychiatric disorders | Not known   | Disorientation 1 Memory impairment 1 Panic reaction 1 |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                                   | Frequency   | Adverse reaction                                                                                                                             |
-|------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                      | Uncommon    | Oropharyngeal pain Nasal pruritus Sneezing Intranasal paraesthesia Paranasal sinus discomfort Epistaxis Nasal dryness Nasal mucosal disorder |
-| Gastrointestinal disorders                           | Uncommon    | Nausea Paresthesia oral Salivary hypersecretion Toothache Gingival discomfort                                                                |
-| Skin and subcutaneous tissue disorders               | Uncommon    | Pruritus                                                                                                                                     |
-| Skin and subcutaneous tissue disorders               | Not known   | Paraesthesia 1                                                                                                                               |
-| General disorders and administration site conditions | Very Common | Feeling jittery                                                                                                                              |
-| General disorders and administration site conditions | Uncommon    | Chest discomfort Energy increased Fatigue Feeling hot                                                                                        |
-| Investigations                                       | Common      | Blood pressure increased Heart rate increased                                                                                                |
-| Investigations                                       | Uncommon    | Body temperature increased                                                                                                                   |
+| System organ class                                   | Frequency   | Adverse reaction                                                                                                                                                            |
+|------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nervous system disorders                             | Very common | Headache                                                                                                                                                                    |
+| Nervous system disorders                             | Common      | Tremor Paraesthesia                                                                                                                                                         |
+| Nervous system disorders                             | Uncommon    | Dizziness Head discomfort Presyncope                                                                                                                                        |
+| Nervous system disorders                             | Not known   | Psychomotor hyperactivity 1 Somnolence 1                                                                                                                                    |
+| Eye disorders                                        | Uncommon    | Lacrimation increased                                                                                                                                                       |
+| Cardiac disorders                                    | Common      | Palpitations                                                                                                                                                                |
+| Cardiac disorders                                    | Not known   | Angina 1 Cardiac arrhythmias 1,2 Stress cardiomyopathy 1 Tachyarrhythmia 1 Tachycardia 1 Ventricular ectopy 1                                                               |
+| Vascular disorders                                   | Not known   | Hypertension 1 Vasoconstriction 1                                                                                                                                           |
+| Respiratory, thoracic and mediastinal disorders      | Very common | Nasal discomfort Throat irritation                                                                                                                                          |
+| Respiratory, thoracic and mediastinal disorders      | Common      | Rhinorrhoea Nasal oedema Rhinalgia Nasal congestion Nasal pruritus                                                                                                          |
+| Respiratory, thoracic and mediastinal disorders      | Uncommon    | Oropharyngeal pain Sneezing Intranasal paraesthesia Paranasal sinus discomfort Epistaxis Nasal dryness Dry throat Upper respiratory tract congestion Nasal mucosal disorder |
+| Gastrointestinal disorders                           | Uncommon    | Nausea Paraesthesia oral Salivary hypersecretion Toothache Gingival discomfort                                                                                              |
+| Skin and subcutaneous tissue disorders               | Uncommon    | Pruritus                                                                                                                                                                    |
+| Skin and subcutaneous tissue disorders               | Not known   | Paraesthesia 1                                                                                                                                                              |
+| General disorders and administration site conditions | Very common | Feeling jittery                                                                                                                                                             |
+| General disorders and administration site conditions | Uncommon    | Chest discomfort Energy increased Fatigue Feeling hot                                                                                                                       |
+| Investigations                                       | Common      | Blood pressure increased Heart rate increased                                                                                                                               |
+| Investigations                                       | Uncommon    | Body temperature increased                                                                                                                                                  |
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
-In a clinical trial of paediatric subjects, 16 subjects between 8 and 17 years of age weighing more than 30 kg were treated with EURneffy 2 mg. The most common adverse reactions included: nasal discomfort and intranasal paraesthesia (25.0%); sneezing (18.8%); fatigue, feeling jittery, paraesthesia, rhinalgia, and rhinorrhoea (12.5%); and epistaxis, lacrimation increased, oropharyngeal pain, and pharyngeal paraesthesia (6.3%).
+In a clinical study of paediatric subjects, 80 subjects between 4 and 17 years of age weighing 15 kg or more were treated with EURneffy. The most common adverse reactions in subjects weighing 15 kg to less than 30 kg treated with EURneffy 1 mg included: nasal congestion (19.0 %), upper respiratory tract congestion (14.3 %), dry throat, nasal dryness, and paraesthesia (each 9.5 %). The most common adverse reactions in subjects weighing 30 kg or more treated with EURneffy 1 mg included: nasal discomfort and nasal mucosal disorder (each 19.2 %), and rhinalgia (7.7 %). The most common adverse reactions in subjects weighing 30 kg or more treated with EURneffy 2 mg included: nasal discomfort, rhinorrhea and intranasal paraesthesia (19.0 %); sneezing (14.3 %); epistaxis, fatigue, feeling jittery, paraesthesia, and rhinalgia (9.5 %).
 
-There were no clinically relevant differences in the safety between the paediatric and adult populations treated with EURneffy 2 mg.
+There were no clinically relevant differences in the safety between the paediatric and adult populations treated with EURneffy.
 
 ## Reporting of suspected adverse reactions
 
@@ -261,8 +275,6 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 Overdose of adrenaline may cause severe headaches, chest pain, dizziness, nausea, and blurred vision. Significant overdoses or injection into a blood vessel can also cause cerebral haemorrhage resulting from a sharp rise in blood pressure. Fatalities may also result from pulmonary oedema because of peripheral vascular constriction together with cardiac stimulation.
 
 ## Management
-
-<div style=\"page-break-after: always\"></div>
 
 Pressor effects of adrenaline may be counteracted by rapidly acting vasodilators or alpha-adrenergic blocking medicinal products.
 
@@ -280,6 +292,8 @@ Pharmacotherapeutic group: Cardiac therapy, adrenergic and dopaminergic agents A
 
 Adrenaline is a nonselective agonist of all adrenergic receptors, including alpha- and beta-adrenergic receptors. Binding to these receptors triggers a number of actions of sympathetic nerve system.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pharmacodynamic effects
 
 Through its action on alpha-adrenergic receptors, adrenaline lessens histamine induced vasodilation. Adrenaline also reduces the vascular permeability induced by histamine that occurs during anaphylaxis.
@@ -290,9 +304,9 @@ Adrenaline also alleviates pruritus, urticaria, and angioedema and may be effect
 
 ## Clinical efficacy
 
-Four clinical pharmacology studies of EURneffy in adults and one clinical pharmacology study in pediatric subjects who weigh 30 kg or greater are described below.
+Four clinical pharmacology studies of EURneffy in adults and one clinical pharmacology study in paediatric subjects who weigh 30 kg or more are described below.
 
-Systolic blood pressure and pulse rate in healthy adult subjects (Study EPI 15) Study EPI 15 was conducted in healthy adult subjects (N=42) that compared the pharmacokinetics (PK) and pharmacodynamics (PD) (i.e., pulse rate (PR) and systolic blood pressure (SBP)) of adrenaline following:
+Systolic blood pressure and pulse rate in healthy adult subjects (Study EPI 15) Study EPI 15 was conducted in healthy adult subjects (N=42) that compared the PK and PD (i.e. pulse rate (PR) and systolic blood pressure (SBP)) of adrenaline following:
 
 - One nasal dose of EURneffy 2 mg to one intramuscular dose of adrenaline injection 0.3 mg (using a needle-syringe product and an auto-injector product).
 - Two nasal doses of EURneffy 2 mg, administered 10 minutes apart, into either same naris or opposite nares to two intramuscular doses of adrenaline injection 0.3 mg (using an autoinjector) administered 10 minutes apart.
@@ -309,36 +323,37 @@ Results following two nasal doses of EURneffy (in the same naris or opposite nar
 
 ## Systolic blood pressure and pulse rate in adult patients with Type I allergy without anaphylaxis (Study EPI 17)
 
-Study EPI 17 was conducted in adult patients with type I allergy without anaphylaxis (N=42) that compared the PK and PD of adrenaline following self-administered one nasal dose of EURneffy 2 mg to staff-administered one intramuscular dose of adrenaline injection 0.3 mg (using a needle-syringe product). In Study EPI 17, SBP and PR responses were assessed as a change from baseline over 60 minutes. The SBP and PR responses results in Study EPI 17 were similar to Study EPI 15.
+Study EPI 17 was conducted in adult patients with Type I allergy without anaphylaxis (N=42) that compared the PK and PD of adrenaline following self-administered one nasal dose of EURneffy 2 mg to staff-administered one intramuscular dose of adrenaline injection 0.3 mg (using a needle-syringe product). In Study EPI 17, SBP and PR responses were assessed as a change from baseline over 60 minutes. The SBP and PR responses results in Study EPI 17 were similar to those demonstrated in Study EPI 15.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Systolic blood pressure and pulse rate in adult patients with allergic rhinitis (Study EPI 16 and EPI 18)
 
-Study EPI 16 and Study EPI 18 were conducted in adult subjects with seasonal allergic rhinitis outside of allergy season. Subjects were required to have seasonal allergic rhinitis which was confirmed with a nasal allergen challenge (NAC) during screening and did not have any allergy symptoms prior to treatment. Allergic rhinitis symptoms were induced by spraying the known allergen into the subject's nostrils in which a minimum Total Nasal Symptom Score (TNSS) of ≥ 5 out of 12, with a congestion component of ≥ 2 out of 3 had to be reached.
+Study EPI 16 and Study EPI 18 were conducted in adult subjects with seasonal allergic rhinitis outside of the allergy season. Subjects were required to have seasonal allergic rhinitis which was confirmed with a nasal allergen challenge (NAC) during screening and did not have any allergy symptoms prior to treatment. Allergic rhinitis symptoms were induced by spraying the known allergen into the subject's nostrils in which a minimum Total Nasal Symptom Score of ≥ 5 out of 12, with a congestion component of ≥ 2 out of 3 had to be reached.
 
 Study EPI 16 enrolled 36 subjects. In this cross-over study, subjects received adrenaline as each of the following:
 
-- One nasal dose of EURneffy 2 mg without nasal allergen challenge (NAC).
+- One nasal dose of EURneffy 2 mg without NAC.
 - One nasal dose of EURneffy 2 mg after undergoing NAC to induce rhinitis/nasal congestion.
-- One intramuscular dose of adrenaline injection 0.3 mg (using a needle syringe) without NAC.
-- One intramuscular dose of adrenaline injection 0.5 mg (using a needle syringe) without NAC.
+- One intramuscular dose of adrenaline injection 0.3 mg (using a needle syringe product) without NAC.
+- One intramuscular dose of adrenaline injection 0.5 mg (using a needle syringe product) without NAC.
 
 In Study EPI 16, SBP and PR responses were assessed as a change from baseline over 60 minutes. Results showed the following:
 
 - Median SBP and PR for EURneffy with NAC initially increased from baseline, but the median responses were lower than the use of EURneffy without NAC after 5 to 15 minutes post-dose.
 - Median SBP response for EURneffy with NAC was initially higher than the median SBP response for the intramuscular adrenaline injection without NAC through 20 minutes, after which the median SBP response for EURneffy with NAC became comparable to the adrenaline injection without NAC through 60 minutes post-dose.
-
-<div style=\"page-break-after: always\"></div>
-
 - Median PR response for EURneffy with NAC was initially higher than adrenaline injection without NAC during the first 5 minutes post-dose, but then was numerically lower than the median PR response for adrenaline injection without NAC through 60 minutes post-dose.
 
 Study EPI 18 enrolled 43 subjects. In this cross-over study, subjects received two doses of adrenaline administered 10 minutes apart as each of the following:
 
 - Two nasal doses of EURneffy 2 mg (in the opposite nares (right(R)/left (L)) without NAC.
-- Two intramuscular (IM) doses of adrenaline injections 0.3 mg (using a needle-syringe; in the opposite thigh (R/L)) without NAC.
+- Two intramuscular doses of adrenaline injections 0.3 mg (using a needle-syringe product; in the opposite thigh (R/L)) without NAC.
 - Two nasal doses of EURneffy 2 mg (either in the same naris (R/R) or opposite nares (R/L)) after NAC to induce allergic rhinitis/nasal congestion.
-- Two intramuscular doses of adrenaline injections 0.3 mg (using a needle-syringe; in the opposite thigh (R/L)) after NAC to induce allergic rhinitis/nasal congestion.
+- Two intramuscular doses of adrenaline injections 0.3 mg (using a needle-syringe product; in the opposite thigh (R/L)) after NAC to induce allergic rhinitis/nasal congestion.
 
 In Study EPI 18, SBP and PR responses were assessed as a change from baseline over 60 minutes. Results showed the following:
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 2: Median change from baseline for systolic blood pressure (SBP) and pulse rate (PR) following two doses of adrenaline administered 10 minutes apart in right and left nares (R/L) or right and right nares (R/R) in subjects with allergic rhinitis with and without nasal allergen challenge (NAC) [Study EPI 18]
 
@@ -346,9 +361,11 @@ Figure 2: Median change from baseline for systolic blood pressure (SBP) and puls
 
 ## Paediatric population
 
-Systolic blood pressure and pulse rate in pediatric patients with type I allergy without anaphylaxis (Study EPI 10)
+Systolic blood pressure and pulse rate in paediatric patients with Type I allergy without anaphylaxis (Study EPI 10)
 
-Study EPI 10 was a single-arm study conducted in pediatric patients who weighed 30 kg or greater (age range: 8 to 17 years) with type I allergy without anaphylaxis (N=21) that assessed the PK and PD of adrenaline following one nasal dose of EURneffy 2 mg. The median change in SBP and PR from baseline over the 60 minutes post-dose were numerically lower than in healthy adults who received the same dose of EURneffy in Study EPI 15.
+Study EPI 10 was a single-arm study conducted in paediatric patients who weighed either 15 kg to &lt; 30 kg or 30 kg or more (age range: 4 to 17 years) with Type I allergy without anaphylaxis (N=80) that assessed the PK and PD of adrenaline following one nasal dose of EURneffy 0.65 mg, 1 mg or 2 mg. Paediatric patients weighing 15 kg to &lt; 30 kg  were given either EURneffy 0.65 mg (N=12) or 1 mg (N=21) and those 30 kg or more received either EURneffy 1 mg (N=26) or 2 mg (N=21). The median change in SBP and PR from baseline over the 60 minutes post-dose were significantly over baseline, but numerically lower than in healthy adults who received the same dose of EURneffy in Study EPI 15. See section 5.2 for information on PK results in the paediatric population.
+
+<div style=\"page-break-after: always\"></div>
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with EURneffy in one or more subsets of the paediatric population in the treatment of allergic reactions (see section 4.2 for information on paediatric use).
 
@@ -356,30 +373,29 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Absorption
 
-Following one nasal dose of EURneffy 2 mg, the geometric mean plasma adrenaline concentrationtime profile was overall within the range of that following one intramuscular dose of adrenaline
-
-<div style=\"page-break-after: always\"></div>
-
-injection 0.3 mg (using a needle-syringe product and an auto-injector product) 60 minutes post-dose. The integrated pharmacokinetic parameters of adrenaline are summarized in Table 2.
+Following one nasal dose of EURneffy 2 mg, the geometric mean plasma adrenaline concentrationtime profile was overall within the range of that following one intramuscular dose of adrenaline injection 0.3 mg (using a needle-syringe product and an auto-injector product) 60 minutes post-dose. The integrated PK parameters of adrenaline are summarised in Table 2.
 
 Table 2: Mean (CV%) and geometric mean plasma PK parameters following one or two doses of adrenaline (integrated analysis)
 
-| Treatment                              | N   | t max (min) median (range)   | C max (pg/mL)   | C max (pg/mL)   | AUC last (min*pg/mL)   | AUC last (min*pg/mL)   |
-|----------------------------------------|-----|------------------------------|-----------------|-----------------|------------------------|------------------------|
-|                                        |     |                              | Mean(%CV)       | Geo.mean        | Mean(%CV)              | Geo.mean               |
-| EURneffy 2 mg IN (HCP administration)  | 78  | 20.5 (2 - 150)               | 485 (70.6)      | 361             | 40900 (67.5)           | 32600                  |
-| EURneffy 2 mg IN (self-administration) | 32  | 30 (10 - 240)                | 448 (67.1)      | 342             | 50365 (55.5)           | 41077                  |
-| EURneffy 2 mg IN (pediatrics)          | 16  | 25.0 (2.5 - 120)             | 540 (70.7)      | 433             | 35500 (76.3)           | 27800                  |
-| EURneffy 2 mg twice (L/R)              | 39  | 30 (6 - 150)                 | 1000 (93.1)     | 706             | 86000 (77)             | 66700                  |
-| EURneffy 2 mg twice (R/R)              | 39  | 30 (4 - 150)                 | 992 (75.3)      | 729             | 86500 (60.5)           | 69900                  |
-| Adrenaline 0.3 mg IM                   | 178 | 45 (3.9 -360)                | 277 (65.4)      | 234             | 27900 (38.7)           | 26100                  |
-| Adrenaline 0.3 mg IM twice             | 70  | 45 (6 - 180)                 | 436 (48.8)      | 386             | 47500 (32.6)           | 45300                  |
-| EpiPen 0.3 mg                          | 77  | 10 (2 - 45)                  | 581 (75.6)      | 447             | 31600 (39.3)           | 29200                  |
-| EpiPen 0.3 mg twice                    | 78  | 20 (4 - 360)                 | 754 (64.7)      | 630             | 55000 (47.9)           | 29200                  |
+|                                        |      | t max (min) median (range)   | C max (pg/mL)   | C max (pg/mL)   | AUC last (min*pg/mL)   | AUC last (min*pg/mL)   |
+|----------------------------------------|------|------------------------------|-----------------|-----------------|------------------------|------------------------|
+| Treatment                              | N    |                              | Mean (% CV)     | Geometric mean  | Mean (% CV)            | Geometric mean         |
+| EURneffy 2 mg (HCP administration)     | 78   | 20.5 (2 - 150)               | 485 (70.6)      | 361             | 40 900 (67.5)          | 32 600                 |
+| EURneffy 2 mg (self-administration)    | 32   | 30 (10 - 240)                | 448 (67.1)      | 342             | 50 365 (55.5)          | 41 077                 |
+| EURneffy 2 mg (paediatrics ≥ 30 kg)    | 16   | 25.0 (2.5 - 120)             | 540 (70.7)      | 433             | 35 500 (76.3)          | 27 800                 |
+| EURneffy 1 mg (paediatrics 15 - 30 kg) | 21   | 20.0 (2.50- 61.5)            | 651 (64.2)      | 520             | 35 100 (57.3)          | 29 500                 |
+| EURneffy 2 mg twice (L/R)              | 39   | 30 (6 - 150)                 | 1 000 (93.1)    | 706             | 86 000 (77)            | 66 700                 |
+| EURneffy 2 mg twice (R/R)              | 39   | 30 (4 - 150)                 | 992 (75.3)      | 729             | 86 500 (60.5)          | 69 900                 |
+| Adrenaline 0.3 mg intramuscular        | 17 8 | 45 (3.9 -360)                | 277 (65.4)      | 234             | 27 900 (38.7)          | 26 100                 |
+| Adrenaline 0.3 mg intramuscular twice  | 70   | 45 (6 - 180)                 | 436 (48.8)      | 386             | 47 500 (32.6)          | 45 300                 |
+| Adrenaline autoinjector 0.3 mg         | 77   | 10 (2 - 45)                  | 581 (75.6)      | 447             | 31 600 (39.3)          | 29 200                 |
+| Adrenaline autoinjector 0.3 mg twice   | 78   | 20 (4 - 360)                 | 754 (64.7)      | 630             | 55 000 (47.9)          | 29 200                 |
 
-IN: intranasal; IM: intramuscular
+AUC: area under the curve; Cmax: the maximum observed concentration; CV: coefficient of variation; Geo. mean: geometric mean; HCP: healthcare professional; ;L: left; N: number of subjects; R: right, tmax: the time it takes to reach the Cmax..
 
-Adrenaline has a rapid onset of action after administration. Following nasal administration to healthy volunteers, adrenaline was rapidly absorbed after both single and repeat dosing, with a time to maximum plasma concentration in 20 to 30 minutes. In subjects with rhinitis (congestion and nasal oedema), adrenaline is absorbed more rapidly with the maximum concentration observed in about 10 minutes.
+Adrenaline has a rapid onset of action after administration. Following nasal administration to healthy volunteers, adrenaline was rapidly absorbed after both single and repeated dosing, with a time to maximum plasma concentration in 20 to 30 minutes. In subjects with rhinitis (congestion and nasal oedema), adrenaline is absorbed more rapidly with the maximum concentration observed in about 10 minutes.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Biotransformation
 
@@ -391,11 +407,9 @@ Much of a dose of adrenaline is excreted as metabolites in urine. Elimination is
 
 ## Paediatric population
 
-Pediatric patients with type I allergies without anaphylaxis (Study EPI 10)
+## Paediatric patients with Type I allergies without anaphylaxis (Study EPI 10)
 
-In pediatric patients with Type I allergies weighing 30 kg or greater (age range: 8 to 17 years), following a single 2 mg nasal dose of EURneffy, the geometric mean plasma adrenaline concentration time profile was similar to that of healthy adults receiving the same dose within about 15 minutes post-dose (in a different study) and then became slightly higher than that of healthy adults (see Table 2).
-
-<div style=\"page-break-after: always\"></div>
+Paediatric patients weighing 15 kg to &lt; 30 kg (N=21) were given EURneffy 1 mg and those weighing 30 kg or more (N=47) received either EURneffy 1 mg (N=26) or 2 mg (N=21). The PK of adrenaline in both weight classes in the paediatric patients were slightly higher than exposures seen with the same dose of EURneffy in adults, showing comparable absorption from EURneffy in children. In paediatric patients with Type I allergies weighing 30 kg or more (age range: 8 to 17 years), following a single 2 mg nasal dose of EURneffy, the geometric mean plasma adrenaline concentration time profile was similar to that of healthy adults receiving the same dose within 15 minutes post-dose (in a different study) and then became slightly higher than that of healthy adults. A similar pattern was seen for paediatric patients with Type I allergies weighing 15 to 30 kg (age range: 4 to 11 years), following a single 1 mg nasal dose of EURneffy (see Table 2).
 
 ## 5.3 Preclinical safety data
 
@@ -405,9 +419,7 @@ Nonclinical data carried out on EURneffy formulation and on adrenaline based on 
 
 ## 6.1 List of excipients
 
-Sodium chloride Dodecylmaltoside Disodium edetate Benzalkonium chloride Sodium metabisulphite (E 223) Hydrochloric acid, concentrated (for pH-adjustment) Sodium hydroxide (for pH-adjustment)
-
-Water for injections
+Sodium chloride Dodecylmaltoside Disodium edetate Benzalkonium chloride Sodium metabisulphite (E 223) Hydrochloric acid, concentrated (for pH-adjustment) Sodium hydroxide (for pH-adjustment) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -415,7 +427,13 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-30 months.
+EURneffy 1 mg 2 years
+
+<div style=\"page-break-after: always\"></div>
+
+## EURneffy 2 mg
+
+30 months
 
 ## 6.4 Special precautions for storage
 
@@ -425,7 +443,7 @@ If accidentally frozen, the nasal spray will not function. Allow the nasal spray
 
 ## 6.5 Nature and contents of container
 
-Type I glass vials and closed with a grey bromobutyl rubber stopper and then assembled into a Unit Dose Sprayer (UDS) device. The device is a non-pressurized dispenser delivering a single-dose nasal spray.
+Type I glass vials closed with a grey bromobutyl rubber stopper and then assembled into a Unit Dose Sprayer device. The device is a non-pressurised dispenser delivering a single-dose nasal spray.
 
 Pack size:
 
@@ -437,17 +455,15 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-## Instructions for use
+Instructions for use
 
-A: To administer, the nasal spray should be removed from the packaging, by pulling open the packaging (see figure 1A).
-
-<div style=\"page-break-after: always\"></div>
+- A: To administer, the nasal spray should be removed from the packaging, by pulling open the packaging (see Figure 1A).
 
 <!-- image -->
 
 (Figure 1A)
 
-- B: Hold the nasal spray with your thumb on the bottom of the plunger and a finger on either side of the nozzle (see figure 1B).
+- B: Hold the nasal spray with your thumb on the bottom of the plunger and a finger on either side of the nozzle (see Figure 1B).
 - Do not pull or push on the plunger.
 - Do not test or pre-spray; each nasal spray has only one dose.
 
@@ -455,21 +471,21 @@ A: To administer, the nasal spray should be removed from the packaging, by pulli
 
 (Figure 1B)
 
-- C: Insert tip of nasal spray into a nostril until your fingers touch your nose (see figure 1C).
+- C: Insert the tip of nasal spray into a nostril until your fingers touch your nose (see Figure 1C).
 - Keep the nozzle straight into the nose pointed toward your forehead.
 - Do not angle the nasal spray to the inner or outer walls of the nose
 
+<div style=\"page-break-after: always\"></div>
+
 <!-- image -->
 
-D: Press plunger up firmly until it snaps up and sprays into the nostril (see figure 1D).
+## D: Press the plunger up firmly until it snaps up and sprays into the nostril (see Figure 1D).
 
 <!-- image -->
 
 (Figure 1D)
 
-Do Not: Do not angle the nasal spray to the inner or outer walls of the nose.
-
-<div style=\"page-break-after: always\"></div>
+Do not angle the nasal spray to the inner or outer walls of the nose.
 
 <!-- image -->
 
@@ -483,17 +499,17 @@ If accidentally frozen, the nasal spray will not function. Allow the nasal spray
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. MARKETING AUTHORISATION HOLDER
 
-ALK-Abelló A/S Bøge Allé 6-8 2970 Hørsholm
-
-Denmark
+ALK-Abelló A/S Bøge Allé 6-8 2970 Hørsholm Denmark
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1846/001
+EU/1/24/1846/001 EU/1/24/1846/002 EU/1/24/1846/003
 
-EU/1/24/1846/002
+EU/1/24/1846/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -522,15 +538,13 @@ ALK-Abelló A/S Venlighedsvej 10 2970 Hørsholm Denmark
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
-Medicinal product subject to medical prescription
+Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -545,16 +559,16 @@ An updated RMP should be submitted:
 
 ## · Additional risk minimisation measures
 
-Prior to the launch of EURneffy in each Member State the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
+Prior to the launch of EURneffy in each Member State the MAH must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
 
 The educational programme is aimed at preventing misuse of the medicinal product in the context of an emergency situation.
 
 The MAH shall ensure that in each Member State where EURneffy is marketed, all healthcare professionals and patients/carers who are expected to prescribe, dispense, use EURneffy have access to/are provided with the following educational information:
 
-<div style=\"page-break-after: always\"></div>
-
 - Physician educational material
 - Patient/caregivers information pack
+
+<div style=\"page-break-after: always\"></div>
 
 ## Physician educational material:
 
@@ -579,7 +593,7 @@ The MAH shall ensure that in each Member State where EURneffy is marketed, all h
 - The patient/caregivers /digital information brochure/videos:
 - o Indication in which EURneffy should be used including anaphylaxis/severe allergic reaction action plan
 - o Information on how to identify a serious allergic reaction
-- o A description of the correct use of Eurneffy and the need to seek emergency medical assistance when using EURneffy
+- o A description of the correct use of EURneffy and the need to seek emergency medical assistance when using EURneffy
 - o Detailed description of the modalities used for the self-administration of EURneffy
 - o A description of the best course of action if second dose is needed
 - o Need to always carry a second device in case of second dose would be required
@@ -599,29 +613,180 @@ The MAH shall ensure that in each Member State where EURneffy is marketed, all h
 
 ## PARTICULARS TO APPEAR ON THE CARTON
 
-## OUTER CARTON
+OUTER CARTON - 1 mg
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+EURneffy 1 mg nasal spray, solution in single-dose container adrenaline
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
+
+Each single-dose container delivers 1 mg adrenaline in 100 microlitres.
+
+## 3. LIST OF EXCIPIENTS
+
+Contains sodium metabisulphite and benzalkonium chloride. See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+nasal spray, solution
+
+## 2 single-dose nasal sprays
+
+1 single-dose nasal spray
+
+## 5. METHOD AND ROUTE OF ADMINISTRATION
+
+For nasal use only.
+
+Single use
+
+Read package leaflet before use
+
+QR code + eurneffy.eu Scan to Learn More
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of sight and reach of children who are not the intended user.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+<div style=\"page-break-after: always\"></div>
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+ALK-Abelló A/S Bøge Allé 6-8 2970 Hørsholm Denmark
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/24/1846/003 EU/1/24/1846/004
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+Seek emergency medical assistance immediately to have close monitoring of the anaphylactic episode and in the event further treatment is required.
+
+## 16. INFORMATION IN BRAILLE
+
+EURneffy 1 mg
+
+<div style=\"page-break-after: always\"></div>
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS/ STRIPS
+
+TRAY - 1 mg
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+EURneffy 1 mg nasal spray, solution in single-dose container adrenaline
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+ALK-Abelló A/S
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. OTHER
+
+For nasal use only.
+
+Single use.
+
+Read the package leaflet before use.
+
+QR code + eurneffy.eu
+
+Learn More
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+NASAL SPRAY - 1 mg
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+
+EURneffy 1 mg nasal spray adrenaline For nasal use only
+
+## 2. METHOD OF ADMINISTRATION
+
+Single use
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+1 mg
+
+| 6.   | OTHER   |
+|------|---------|
+
+ALK-Abelló A/S
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE CARTON
+
+OUTER CARTON - 2 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 EURneffy 2 mg nasal spray, solution in single-dose container adrenaline
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 Each single-dose container delivers 2 mg adrenaline in 100 microlitres.
 
 ## 3. LIST OF EXCIPIENTS
 
-Contains sodium metabisulphite and benzalkonium chloride
+Contains sodium metabisulphite and benzalkonium chloride. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## nasal spray, solution
+nasal spray, solution
 
 2 single-dose nasal sprays
 
 1 single-dose nasal spray
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 For nasal use only.
 
@@ -651,9 +816,7 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-ALK-Abelló A/S Bøge Allé 6-8
-
-2970 Hørsholm, Denmark
+ALK-Abelló A/S Bøge Allé 6-8 2970 Hørsholm Denmark
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -669,12 +832,11 @@ Lot
 
 Seek emergency medical assistance immediately to have close monitoring of the anaphylactic episode and in the event further treatment is required.
 
-<div style=\"page-break-after: always\"></div>
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 EURneffy 2 mg
+
+<div style=\"page-break-after: always\"></div>
 
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
@@ -686,11 +848,13 @@ EURneffy 2 mg
 
 PC SN NN
 
+30
+
 <div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS/ STRIPS
 
-TRAY
+TRAY - 2 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -722,55 +886,49 @@ Learn More
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| NASAL SPRAY                                                      |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+NASAL SPRAY - 2 mg
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 EURneffy 2 mg nasal spray adrenaline For nasal use only
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 Single use
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 2 mg
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
+
+ALK-Abelló A/S
 
 <div style=\"page-break-after: always\"></div>
 
 ## Intructions for use to be included within blister pack
 
-## Instructions for use EURneffy ®  2 mg nasal spray, solution in single-dose container adrenaline
+## Instructions for use EURneffy nasal spray, solution in single-dose container adrenaline
 
 Before you need to use it, fully familiarise yourself with EURneffy, including when and how it should be used.
 
-## EURneffy 2 mg nasal spray
-
-## EURneffy 2 mg nasal spray:
+## EURneffy nasal spray
 
 <!-- image -->
 
 ## Follow these instructions only when ready to use.
 
-## A
+A
 
 <!-- image -->
 
@@ -780,11 +938,9 @@ B
 
 C
 
+Remove EURneffy nasal spray from the packaging. Pull open the packaging to remove the EURneffy nasal spray.
+
 <!-- image -->
-
-## Remove EURneffy 2 mg nasal spray from packaging.
-
-Pull open the packaging to remove the EURneffy 2 mg nasal spray.
 
 ## Hold the nasal spray as shown.
 
@@ -793,15 +949,15 @@ Hold the nasal spray with your thumb on the bottom of the plunger and one finger
 - Do not pull or push on the plunger
 - Do not test or pre-spray; each nasal spray has only one dose.
 
-## Insert tip of nasal spray into a nostril until your fingers touch your nose .
+## Insert the tip of nasal spray into a nostril until your fingers touch your nose .
 
-Keep the nozzle straight into the nose pointed toward your forehead. Do not angle the sprayer to the inner or outer walls of the nose.
+Keep the nozzle straight into the nose pointed toward your forehead. Do not angle the nasal spray to the inner or outer walls of the nose.
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-Press plunger up firmly until it snaps up and sprays into the nostril.
+## Press plunger up firmly until it snaps up and sprays into the nostril.
 
 Do not angle the nasal spray to the inner or outer walls of the nose.
 
@@ -831,7 +987,7 @@ If necessary, you can lie down with feet raised. If this makes you breathless, y
 
 ## Package leaflet: Information for the user
 
-## EURneffy 2 mg nasal spray, solution in single-dose container adrenaline
+## EURneffy 1 mg nasal spray, solution in single-dose container EURneffy 2 mg nasal spray, solution in single-dose container adrenaline
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -853,11 +1009,11 @@ If necessary, you can lie down with feet raised. If this makes you breathless, y
 
 EURneffy contains the active substance adrenaline (epinephrine) which is an adrenergic medicine (medicine that has an effect on the sympathetic nervous system, the part of the nervous system that increases heart rate, blood pressure, breathing rate, and pupil size).
 
-EURneffy is used in adults and children with a body weight of 30 kg or more for the emergency treatment of allergic reactions, including anaphylaxis (sudden, severe and sometimes life-threatening allergic reactions), to insect stings or bites, foods, medicines and other allergens (substances that cause an allergy) as well as idiopathic anaphylaxis (the cause of anaphylaxis is not known) or anaphylaxis caused by exercise. EURneffy is intended for immediate self-administration by a person (or given to a person by a caregiver or medical professional) with a history or recognised risk of a severe allergic reaction that can lead to anaphylactic shock.
+EURneffy is used in adult and children aged 4 years and over with a body weight of 15 kg or more for the emergency treatment of allergic reactions, including anaphylaxis (sudden, severe and sometimes life-threatening allergic reactions), to insect stings or bites, foods, medicines and other allergens (substances that cause an allergy) as well as idiopathic anaphylaxis (the cause of anaphylaxis is not known) or anaphylaxis caused by exercise. EURneffy is intended for immediate self-administration by a person (or given to a person by a caregiver or medical professional) with a history or recognised risk of a severe allergic reaction that can lead to anaphylactic shock.
 
 The active substance in EURneffy, adrenaline, is a naturally occurring hormone released by the body in response to stress. It works directly on the cardiovascular (heart and blood circulation) and respiratory (lung) systems to stop the possible fatal effects of a severe allergic reaction that can lead to anaphylactic shock. In acute allergic reactions it improves blood pressure, heart function and breathing, and reduces tissue swelling.
 
-EURneffy is an emergency rescue therapy but you must seek emergency medical assistance immediately to have close monitoring of the anaphylactic episode and in the event further treatment is required. Always tell your friends and family that you carry EURneffy with you (see section 2 Warnings and precautions).
+EURneffy is an emergency rescue therapy but you must seek emergency medical assistance immediately to have close monitoring of the anaphylactic episode and in the event further treatment is required. Always tell your friends and family that you carry EURneffy with you (see section 2 'Warnings and precautions').
 
 ## 2. What you need to know before you use EURneffy
 
@@ -865,21 +1021,23 @@ EURneffy is an emergency rescue therapy but you must seek emergency medical assi
 
 There is no known reason why anyone should not use EURneffy during an allergic emergency.
 
-## Warnings and precautions
-
 <div style=\"page-break-after: always\"></div>
+
+## Warnings and precautions
 
 You, or anyone who may need to give EURneffy to you (such as a parent, caregiver or teacher), should be carefully instructed by your doctor or nurse on how and when to correctly use EURneffy (see the instructions for use in section 3 'How to use EURneffy').
 
-Symptoms that signal the onset of an anaphylactic shock occur within minutes of exposure to the allergen and include: itching of the skin; raised rash (like a nettle rash); flushing; swelling of the lips, throat, tongue, hands and feet; wheezing; hoarseness; shortness of breath; nausea; vomiting; stomach cramps and; in some cases, loss of consciousness; apprehension, a fast heartbeat, fitting, diarrhoea (loose stools), loss of bladder control. Use EURneffy at the first signs or symptoms of a severe allergic reaction.
+Symptoms that signal the onset of an anaphylactic shock occur within minutes of exposure to the allergen and include: itching of the skin; raised rash (like a nettle rash); flushing; swelling of the lips, throat, tongue, hands and feet; wheezing; hoarseness; shortness of breath; nausea; vomiting; stomach cramps and; in some cases, loss of consciousness; apprehension, a fast heartbeat, fitting, diarrhoea (loose stools), loss of bladder control.
 
-Symptoms of anaphylaxis can reoccur within 72 hours of the initial episode, even without new exposure to the allergen that triggered the allergic reaction.
+Young children may not be able to describe their symptoms, such as itching, difficulty breathing or feeling faint. Some signs of anaphylaxis can be difficult to understand because they also occur in young children for other reasons; examples include behavioural changes, such as tongue thrusting, ear pulling, clinging to the caregiver, cessation of playing, crying, spitting up/vomiting after eating, increased drooling or running nose, loose stools, sleepiness/drowsiness after eating, flushing with fever or crying, scratching and irritability.
+
+Use EURneffy at the first signs or symptoms of a severe allergic reaction. Symptoms of anaphylaxis can reoccur within 72 hours of the initial episode, even without new exposure to the allergen that triggered the allergic reaction.
 
 You must make sure you understand the reason EURneffy has been prescribed for you. You should be confident that you know exactly how and when to use EURneffy. Explain how to use EURneffy to your family, carers, co-workers or teachers. They will need to know how to use it before you suffer an anaphylactic reaction.
 
-## If you are at risk of a severe allergic reaction, you should always keep EURneffy with you . Patients with a history or a recognised risk of a severe allergic reaction that can lead to anaphylactic
+## If you are at risk of a severe allergic reaction, you should always keep EURneffy with you .
 
-shock should have quick access to EURneffy.
+Patients with a history or a recognised risk of a severe allergic reaction that can lead to anaphylactic shock should have quick access to EURneffy.
 
 If you have asthma, you may be at increased risk of a severe allergic reaction.
 
@@ -900,13 +1058,15 @@ You may have a greater risk of developing side effects with EURneffy if you:
 - -have hypertension (high blood pressure)
 - -have diabetes
 - -are elderly
-- -are pregnant (see section 2 Pregnancy, breast-feeding and fertility).
+- -are pregnant (see section 2 'Pregnancy, breast-feeding and fertility').
 
 Talk to your doctor if any of the above conditions apply to you, or if you are not sure.
 
-## Children and adolescents
+<div style=\"page-break-after: always\"></div>
 
-Do not give this medicine to children weighing less than 30 kg. The safety and efficacy of this medicinal product is unknown in children below 30 kg body weight.
+## Children
+
+Do not give this medicine to children below 4 years of age weighing less than 15 kg. The safety and efficacy of this medicinal product are unknown in children below 4 years of age weighing less than 15 kg.
 
 ## Other medicines and EURneffy
 
@@ -914,9 +1074,7 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 This is especially important if you take any of the following as they may reduce the effect of adrenaline:
 
-<div style=\"page-break-after: always\"></div>
-
-- Alpha and Beta-blocking medicines, e.g. propanolol.
+- Alpha and beta-blocking medicines, e.g. propranolol.
 - Medicines that counteract the pressor effects of adrenaline (vasodilators or alphaadrenergic-blocker, e.g. phentolamine).
 
 You must also tell your doctor or pharmacist if you take any of the following as they may increase the risk of side effects of adrenaline:
@@ -942,27 +1100,27 @@ It is expected that the amount of EURneffy that is passed through breast-feeding
 
 ## EURneffy with alcohol
 
-Tell your doctor if you are drinking alcohol because this can increase the side effects of adrenaline.
+Alcohol can increase the effects of adrenaline.
 
 ## Driving and using machines
 
-The ability to drive and use machines is unlikely to be affected by this medicine. Do not drive if you are having an anaphylactic reaction.
+The ability to drive and use machines may be affected by symptoms that may occur following administration of this medicine. Do not drive if you are having an anaphylactic reaction.
+
+<div style=\"page-break-after: always\"></div>
 
 ## EURneffy contains sodium metabisulphite and benzalkonium chloride
 
-EURneffy contains sodium metabisulphite, which may cause severe allergic reactions (hypersensitivity) or breathing difficulty (bronchospasm).
+This medicine contains sodium metabisulphite, which may cause severe allergic reactions (hypersensitivity) or breathing difficulty (bronchospasm).
 
 This medicine contains 0.04 mg benzalkonium chloride in each dose. Benzalkonium chloride may cause irritation or swelling inside the nose, especially if used repeatedly.
 
 ## 3. How to use EURneffy
 
-<div style=\"page-break-after: always\"></div>
-
 Always use EURneffy exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
 ## When to carry EURneffy
 
-You should always carry EURneffy with you or have it close at all times in the event of an allergic emergency. Always carry at least two containers of EURneffy in the event a second dose is needed due to a mistake in taking the medicine or insufficient response after the first dose.
+You should always carry EURneffy with you or have it close at all times in the event of an allergic emergency. Always carry at least two EURneffy nasal sprays in the event a second dose is needed due to a mistake in taking the medicine or insufficient response after the first dose.
 
 Always tell your friends and family that you carry EURneffy with you.
 
@@ -972,11 +1130,13 @@ The recommended dose for patients with a body weight of 30 kg or more, is a sing
 
 ## Use in children
 
-The recommended dose for patients with a body weight of 30 kg or more is a single nasal administration of 2 mg adrenaline. The maximum dose that may be given is 4 mg taken as two separate single-dose nasal sprays.
+The recommended dose for children aged 4 years and over with a body weight of 15 kg to less than 30 kg is a single nasal administration of 1 mg adrenaline. The maximum dose that may be given is 2 mg taken as two separate single-dose nasal sprays.
+
+The recommended dose for patients aged 4 years and over with a body weight of 30 kg or more is a single nasal administration of 2 mg adrenaline. The maximum dose that may be given is 4 mg taken as two separate single-dose nasal sprays.
 
 ## Method of administration
 
-EURneffy must be given nasally (in the nose) only. EURneffy is a ready-to-use single-dose nasal spray that delivers its entire content (2 mg) upon activation. EURneffy can be used even if you have a cold or a congested nose.
+EURneffy must be given nasally (in the nose) only. EURneffy is a ready-to-use single-dose nasal spray that delivers its entire content upon activation. EURneffy can be used even if you have a cold or a congested nose.
 
 Do not press the plunger before inserting the EURneffy nasal spray into a nostril, otherwise the single dose will be lost prior to use.
 
@@ -984,9 +1144,13 @@ EURneffy should only be given as a nasal spray into a nostril; do not spray EURn
 
 The instructions for use must be carefully followed in order to use EURneffy correctly.
 
-If you notice the signs of an acute allergic reaction (see section 2 Warnings and precautions), use EURneffy immediately. Seek emergency medical assistance immediately to have close monitoring of the anaphylactic episode and in the event further treatment is required. Ideal dosing is to use the dominant hand to hold the sprayer and administer to the same side nostril (e.g., right hand to right nostril; or left hand to left nostril).
+If you notice the signs of an acute allergic reaction (see section 2 Warnings and precautions), use EURneffy immediately. Seek emergency medical assistance immediately to have close monitoring of the anaphylactic episode and in the event further treatment is required. Ideal dosing is to use the dominant hand to hold the sprayer and administer to the same side nostril (e.g. for self-administration, right hand to right nostril; or left hand to left nostril; and for caregiver administration, right hand to left nostril and left hand to right nostril).
 
-Sometimes a single dose of EURneffy may not be sufficient to completely reverse the effects of a serious allergic reaction. If your symptoms have not improved or have deteriorated within approximately 10 minutes after using the first nasal spray of EURneffy, either you or the person with you should give a second nasal spray of EURneffy in the same nostril as the first dose.
+Sometimes a single dose of EURneffy may not be sufficient to completely reverse the effects of a serious allergic reaction. If your symptoms have not improved or have deteriorated within
+
+<div style=\"page-break-after: always\"></div>
+
+approximately 10 minutes after using the first nasal spray of EURneffy, either you or the person with you should give a second nasal spray of EURneffy in the same nostril as the first dose.
 
 The instructions for use given below must be followed.
 
@@ -994,11 +1158,7 @@ The instructions for use given below must be followed.
 
 Before you need to use it, fully familiarise yourself with EURneffy, including when and how it should be used.
 
-EURneffy 2 mg nasal spray
-
-EURneffy 2 mg nasal spray:
-
-<div style=\"page-break-after: always\"></div>
+EURneffy nasal spray
 
 <!-- image -->
 
@@ -1010,15 +1170,9 @@ A
 
 B
 
-<!-- image -->
-
-C
+Remove EURneffy nasal spray from the packaging. Pull open the packaging to remove the EURneffy nasal spray.
 
 <!-- image -->
-
-## Remove EURneffy 2 mg nasal spray from packaging.
-
-Pull open the packaging to remove the EURneffy 2 mg nasal spray.
 
 ## Hold the nasal spray as shown.
 
@@ -1027,21 +1181,25 @@ Hold the nasal spray with your thumb on the bottom of the plunger and one finger
 - Do not pull or push on the plunger
 - Do not test or pre-spray; each nasal spray has only one dose.
 
-## Insert tip of nasal spray into a nostril until your fingers touch your nose.
-
-Keep the nozzle straight into the nose pointed toward your forehead. Do not angle the nasal spray to the inner or outer walls of the nose.
-
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
+D
+
 <!-- image -->
 
-## Press plunger up firmly until it snaps up and sprays into the nostril.
+<!-- image -->
+
+## Insert the tip of nasal spray into a nostril until your fingers touch your nose.
+
+Keep the nozzle straight into the nose pointed toward your forehead. Do not angle the nasal spray to the inner or outer walls of the nose.
+
+Press the plunger up firmly until it snaps up and sprays into the nostril.
 
 Do not angle the nasal spray to the inner or outer walls of the nose.
 
-## Seek immediate medical attention after use.
+## Seek immediate medical attention after use
 
 Seek emergency medical assistance immediately to have close monitoring of the anaphylactic episode and in the event further treatment is required.
 
@@ -1049,7 +1207,7 @@ Seek emergency medical assistance immediately to have close monitoring of the an
 
 <!-- image -->
 
-If symptoms continue to worsen or reoccur after approximately 10 minutes, or in any error of dosing, use a new EURneffy nasal spray, to give a 2nd dose in the SAME nostril as the first dose and seek urgent emergency medical assistance.
+If symptoms continue to worsen or reoccur after approximately 10 minutes, or in any error of dosing, use a new EURneffy nasal spray, to give a second dose in the SAME nostril as the first dose and seek urgent emergency medical assistance.
 
 If necessary, you can lie down with feet raised. If this makes you breathless, you should sit up. Unconscious patients should be placed on their side in the recovery position to prevent choking. If symptoms do not resolve, you should, if possible, remain with another person until medical assistance arrives.
 
@@ -1059,46 +1217,46 @@ In case of an overdose of the adrenaline, you should always seek immediate medic
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Tell your doctor or pharmacist if any of the following side effects occur or worsen.
 
 The following side effects are associated with the use of EURneffy nasal spray:
 
-Very Common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
 - -Nasal discomfort
 - -Headache
 - -Feeling jittery
-
-<div style=\"page-break-after: always\"></div>
-
 - -Throat irritation
 
 Common (may affect up to 1 in 10 people)
 
 - -Increased blood pressure
 - -Palpitations (forceful heartbeats that may be rapid or irregular)
-- -Rhinorrhea (runny nose)
+- -Rhinorrhoea (runny nose)
 - -Anxiety
 - -Nasal oedema (itching and burning pain of the nose. Nose feels swollen, hot and red)
 - -Rhinalgia (nose pain)
 - -Heart rate increased
 - -Nasal congestion
+- -Nasal pruritus (irritation or inflammation of the nose)
+- -Paraesthesia (sensations like numbness, tingling, pins and needles)
 
-Uncommon ( may affect up to 1 in 100 people)
+## Uncommon ( may affect up to 1 in 100 people)
 
 - -Dizziness
 - -Lacrimation increased (watery eyes)
 - -Tremor (shaking)
 - -Oropharyngeal pain (pain in the tongue, soft palate, the side and back walls of the throat and tonsils).
 - -Nausea (feeling sick)
-- -Nasal pruritus (irritation or inflammation of the nose).
 - -Intranasal paraesthesia (sensations like numbness, tingling, pins and needles in the nose)
 - -Sneezing
 - -Paranasal sinus discomfort (nasal obstruction and congestion, nasal discharge that is thick, opaque, and coloured, and facial pain or pressure)
-- -Parasthesia oral (sensations like numbness, tingling, pins and needles in the mouth or back of the throat)
-- -Paraesthesia (sensations like numbness, tingling, pins and needles)
+- -Paraesthesia oral (sensations like numbness, tingling, pins and needles in the mouth or back of
+- -the throat)
 - -Salivary hypersecretion (drooling)
 - -Toothache
 - -Head discomfort
@@ -1115,6 +1273,10 @@ Uncommon ( may affect up to 1 in 100 people)
 - -Pruritus (itching skin)
 - -Epistaxis (nosebleed)
 - -Chest discomfort
+- -Dry throat
+- -Upper respiratory tract congestion (stuffiness in the upper airways including nose and throat)
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -1123,8 +1285,6 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 ## 5. How to store EURneffy
 
 Keep this medicine out of sight and reach of children who are not the intended user.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not use this medicine after the expiry date which is stated on the nasal spray label after EXP. The expiry date refers to the last day of that month.
 
@@ -1138,24 +1298,24 @@ Do not throw away any medicines via wastewater. Ask your pharmacist how to throw
 
 ## What EURneffy contains
 
-- -The active substance is adrenaline (epinephrine). Each dose of nasal spray solution delivers 2 mg adrenaline in 100 µL.
-- -The other ingredients are sodium chloride, dodecylmaltoside, disodium edetate, benzalkonium chloride, sodium metabisulphite (E 223), hydrochloric acid, concentrated (for pH-adjustment), sodium hydroxide (for pH-adjustment), water for injections (see Section 2. EURneffy contains sodium metabisulphite and benzalkonium chloride).
+- -The active substance is adrenaline (epinephrine).
+- EURneffy 1 mg nasal spray: Each dose of nasal spray solution delivers 1 mg adrenaline in 100 µL.
+- EURneffy 2 mg nasal spray: Each dose of nasal spray solution delivers 2 mg adrenaline in 100 µL.
+- -The other ingredients are sodium chloride, dodecylmaltoside, disodium edetate, benzalkonium chloride, sodium metabisulphite (E 223), hydrochloric acid, concentrated (for pH-adjustment), sodium hydroxide (for pH-adjustment), water for injections (see section 2. 'EURneffy contains sodium metabisulphite and benzalkonium chloride').
 
 ## What EURneffy looks like and contents of the pack
 
-The EURneffy 2 mg nasal spray, solution in single dose container is a non-pressurized dispenser delivering a single-dose spray containing the active substance in a clear and colourless to pink brownish solution.
+The EURneffy nasal spray, solution in single dose container is a non-pressurised dispenser delivering a single-dose spray containing the active substance in a clear and colourless to pink brownish solution.
 
 EURneffy is available in packs containing 1 or 2 single dose nasal sprays.
 
 Not all pack sizes may be marketed.
 
-## Marketing Authorisation Holder
+Marketing Authorisation Holder ALK-Abelló A/S Bøge Allé 6-8 2970 Hørsholm Denmark
 
-ALK-Abelló A/S Bøge Allé 6-8 2970 Hørsholm Denmark
+Manufacturer ALK-Abelló A/S Venlighedsvej 10 2970 Hørsholm Denmark
 
-## Manufacturer
-
-ALK-Abelló A/S Venlighedsvej 10 2970 Hørsholm Denmark
+<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1165,8 +1325,6 @@ ALK-Abelló B.V.
 
 Tél/Tel: +32 (0)28990835
 
-Lietuva ALK-Abelló A/S Tel: + 45 45747576
-
 ## България
 
 ALK-Abelló A/S
@@ -1175,21 +1333,15 @@ Te л
 
 .: + 45 45747576
 
-Luxembourg/Luxemburg
-
-ALK-Abelló A/S
-
-Tél/Tel: + 45 45747576
-
-<div style=\"page-break-after: always\"></div>
-
 ## Česká republika
 
 ALK Slovakia s.r.o. odštěpný závod Tel: +420 233 312 907
 
 ## Danmark
 
-ALK-Abelló Nordic A/S Tlf.: +45 38 16 70 70
+ALK-Abelló Nordic A/S
+
+Tlf.: +45 38 16 70 70
 
 ## Deutschland
 
@@ -1197,49 +1349,59 @@ ALK-Abelló Arzneimittel GmbH Tel: +49 40 703845-0
 
 ## Eesti
 
-ALK-Abelló A/S Tel: + 45 45747576
+ALK-Abelló A/S
+
+Tel: + 45 45747576
 
 ## Ελλάδα
 
-ALK-Abelló A/S
-
-Τηλ : + 45 45747576
+ALK-Abelló A/S Τηλ : + 45 45747576
 
 ## España
 
-ALK-Abelló, S.A. Tel: +34 913276100
+ALK-Abelló, S.A.
+
+Tel: +34 913276100
 
 ## France
 
-ALK
+## ALK
 
 Tél: (+33) 03 29 80 71 62
 
 ## Hrvatska
 
-ALK-Abelló A/S Tel: + 45 45747576
+ALK-Abelló A/S
+
+Tel: + 45 45747576
 
 ## Ireland
 
-ALK-Abelló A/S Tel: + 45 45747576
+ALK-Abelló A/S
+
+Tel: + 45 45747576
 
 ## Ísland
 
-ALK-Abelló A/S Sími: +45 45747576
+ALK-Abelló A/S
+
+Sími: +45 45747576
 
 ## Italia
 
-ALK-Abelló A/S Tel: + 45 45747576
+ALK-Abelló A/S
 
-## Κύπρος
+Tel: + 45 45747576
 
-ALK-Abelló A/S Τηλ : + 45 45747576
+## Lietuva
 
-## Latvija
+ALK-Abelló A/S
 
-ALK-Abelló A/S Tel: + 45 45747576
+Tel: + 45 45747576
 
-## This leaflet was last revised in
+## Luxembourg/Luxemburg
+
+ALK-Abelló A/S Tél/Tel: + 45 45747576
 
 ## Magyarország
 
@@ -1247,7 +1409,9 @@ ALK-Abelló A/S Tel: + 45 45747576
 
 ## Malta
 
-ALK-Abelló A/S Tel: + 45 45747576
+ALK-Abelló A/S
+
+Tel: + 45 45747576
 
 ## Nederland
 
@@ -1277,9 +1441,7 @@ Tel: + 45 45747576
 
 ## Slovenija
 
-ALK-Abelló A/S
-
-Tel: + 45 45747576
+ALK-Abelló A/S Tel: + 45 45747576
 
 ## Slovenská republika
 
@@ -1287,12 +1449,34 @@ ALK Slovakia s.r.o. Tel: +421 2 546 503 71
 
 ## Suomi/Finland
 
-ALK-Abelló Nordic A/S, sivuliike Suomessa/filial i Finland Puh/Tel: +358 (0)9 5842 2120
+ALK-Abelló Nordic A/S, sivuliike
 
-## Sverige
+Suomessa/filial i Finland
 
-ALK Nordic A/S, Danmark Filial Tel: +46 (0)300 - 185 45
+Puh/Tel: +358 (0)9 5842 2120
 
 <div style=\"page-break-after: always\"></div>
 
+## Κύπρος
+
+ALK-Abelló A/S
+
+Τηλ
+
+: + 45 45747576
+
+## Latvija
+
+ALK-Abelló A/S
+
+Tel: + 45 45747576
+
+## This leaflet was last revised in
+
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Sverige
+
+ALK Nordic A/S, Danmark Filial
+
+Tel: +46 (0)300 - 185 45

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-21 17:09:00
+document_datetime: 2026-04-08 15:32:25
 document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/blenrep-epar-product-information_en.pdf
 document_name: blenrep-epar-product-information_en.pdf
 version: success
-processing_time: 20.6733719
-conversion_datetime: 2025-12-15 22:00:12.032033
+processing_time: 16.9566252
+conversion_datetime: 2026-04-09 12:23:31.78999
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -91,8 +91,6 @@ Table 1: Recommended starting dose schedule for Blenrep in combination with othe
 |--------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | With bortezomib and dexamethasone (BVd) a (Cycle length = 3 weeks) | 2.5 mg/kg administered once every 3 weeks                                                       |
 | With pomalidomide and dexamethasone (BPd) (Cycle length = 4 weeks) | Cycle 1: 2.5 mg/kg administered once Cycle 2 onwards: 1.9 mg/kg administered once every 4 weeks |
-
-a Bortezomib and dexamethasone are administered for the first 8 cycles.
 
 If a planned dose of Blenrep is missed due to reasons other than adverse reactions, it is recommended that Blenrep be resumed with the start of the next planned treatment cycle.
 
@@ -516,17 +514,17 @@ Anti-drug antibodies (ADA) were rarely detected. No evidence of ADA impact on ph
 
 DREAMM-7: belantamab mafodotin in combination with bortezomib and dexamethasone The efficacy and safety of belantamab mafodotin in combination with bortezomib and dexamethasone (BVd) were investigated in a multicentre, randomised (1:1), open-label, Phase 3 study conducted in patients with multiple myeloma (MM) who had relapsed following treatment with at least one prior line of therapy.
 
-In the BVd arm (N = 243), patients received belantamab mafodotin 2.5 mg/kg by intravenous infusion every 3 weeks on day 1 of each cycle; bortezomib 1.3 mg/m 2 (subcutaneously) on days 1, 4, 8, and 11 of cycles 1 to 8 (21-day cycles); and dexamethasone 20 mg (intravenous infusion or orally) on the day of and the day after bortezomib treatment. In the daratumumab, bortezomib, and dexamethasone (DVd) arm (N = 251), patients received daratumumab 16 mg/kg (IV) in 21-day cycles: every week for cycles 1 to 3 and every 3 weeks for cycles 4 to 8. Dexamethasone and bortezomib schedules were the same in both arms. Treatment continued in both arms until disease progression, death, unacceptable toxicity, withdrawal of consent, or study end. Patients were stratified by the Revised International Staging System (R-ISS), prior exposure to bortezomib, and the number of prior lines of therapy.
+In the BVd arm (N = 243), patients received belantamab mafodotin 2.5 mg/kg by intravenous infusion every 3 weeks on day 1 of each cycle; bortezomib 1.3 mg/m 2 (subcutaneously) on days 1, 4, 8, and 11 of cycles 1 to 8 (21-day cycles); and dexamethasone 20 mg (intravenous infusion or orally) on the day of and the day after bortezomib treatment. In the daratumumab, bortezomib, and dexamethasone (DVd) arm (N = 251), patients received daratumumab 16 mg/kg (IV) every week for cycles 1 to 3, every 3 weeks for cycles 4 to 8 and every 4 weeks for cycle ≥9 . Dexamethasone and bortezomib schedules were the same in both arms. Treatment continued in both arms until disease progression, death, unacceptable toxicity, withdrawal of consent, or study end. Patients were stratified by the Revised International Staging System (R-ISS), prior exposure to bortezomib, and the number of prior lines of therapy.
 
 The key eligibility criteria for the study were having a confirmed diagnosis of MM as defined by International Myeloma Working Group (IMWG) criteria, having previously been treated with at least 1 prior line of MM therapy, and having had documented disease progression during or after their most recent therapy. Patients were excluded if they were intolerant to bortezomib, refractory to twice weekly bortezomib, previously treated with BCMAtargeted therapy, had ongoing ≥ Grade 2 peripheral neuropathy or neuropathic pain, or had current corneal epithelial disease except for mild punctate keratopathy.
 
 The primary efficacy outcome measure was progression-free survival (PFS) as evaluated by a blinded Independent Review Committee (IRC) based on the IMWG criteria for MM.
 
-A total of 494 patients were evaluated for efficacy in DREAMM-7. Baseline demographics and characteristics were similar across both arms including: median age: 65 years (36% aged 65-74 years and 14% aged 75 years or older); 55% male, 45% female; 83% White, 12% Asian, 4% Black, &lt; 1% mixed race; R-ISS stage at screening I (41%), II (53%), III (5%); 28% high cytogenetics risk, median number of 1 prior line of therapy; 8% with extramedullary disease (EMD) present; and of those who received treatment (N = 488), Eastern Cooperative Oncology Group Performance Status (ECOG PS) 0 (48%), 1 (48%), or 2 (4%). In the BVd arm, 90% of patients received prior proteasome inhibitor therapy (bortezomib, carfilzomib, ixazomib), 81% of patients received prior immunomodulator therapy (lenalidomide, thalidomide, pomalidomide), and 67% of patients previously received autologous stem cell transplantation (ASCT). There were 9% of patients refractory to proteasome inhibitor therapy and 39% of patients refractory to immunomodulator therapy. In the DVd arm, 86% of patients received prior proteasome inhibitor therapy (bortezomib, carfilzomib, ixazomib), 86% of patients received prior immunomodulator therapy (lenalidomide, thalidomide, pomalidomide), and 69% of patients previously received autologous stem cell transplantation (ASCT). Ten percent of
+A total of 494 patients were evaluated for efficacy in DREAMM-7. Baseline demographics and characteristics were similar across both arms including: median age: 65 years (36% aged 65-74 years and 14% aged 75 years or older); 55% male, 45% female; 83% White, 12% Asian, 4% Black, &lt; 1% mixed race; R-ISS stage at screening I (41%), II (53%), III (5%); 28% high cytogenetics risk, median number of 1 prior line of therapy; 8% with extramedullary disease (EMD) present; and of those who received treatment (N = 488), Eastern Cooperative Oncology Group Performance Status (ECOG PS) 0 (48%), 1 (48%), or 2 (4%). In the BVd arm, 90% of patients received prior proteasome inhibitor therapy (bortezomib, carfilzomib, ixazomib), 81% of patients received prior immunomodulator therapy (lenalidomide, thalidomide, pomalidomide), and 67% of patients previously received autologous stem cell transplantation (ASCT). There were 9% of patients refractory to proteasome inhibitor therapy and 39% of patients refractory to immunomodulator therapy. In the DVd arm, 86% of patients received prior proteasome inhibitor therapy (bortezomib, carfilzomib, ixazomib), 86% of patients received prior immunomodulator therapy (lenalidomide, thalidomide, pomalidomide), and
 
 <div style=\"page-break-after: always\"></div>
 
-patients refractory to proteasome inhibitor therapy and 41% of patients refractory to immunomodulator therapy.
+69% of patients previously received autologous stem cell transplantation (ASCT). Ten percent of patients refractory to proteasome inhibitor therapy and 41% of patients refractory to immunomodulator therapy.
 
 Patients treated with belantamab mafodotin in combination with bortezomib and dexamethasone had a statistically significant improvement in PFS, overall survival (OS), and minimal residual disease (MRD) negativity rate compared with daratumumab, bortezomib, and dexamethasone. Efficacy results at the time of the first interim analysis (data cut-off 2 October 2023), except OS where data is presented from the second interim analysis data cut-off (7 October 2024) are presented in Table 6 and Figures 1 and 2.
 
@@ -550,23 +548,12 @@ Table 6: Efficacy results in DREAMM-7
 | Percent of patients, (95% CI)                        | 24.7 (19.4, 30.6)                                                        | 9.6 (6.2, 13.9)                                                 |
 | p-value h                                            | <0.00001                                                                 | <0.00001                                                        |
 
-CI = Confidence interval; NR = Not reached.
-
-a Efficacy data is based on the intent-to-treat (ITT) population.
-
-b   Response was based on IRC per IMWG criteria.
-
-c   By Brookmeyer and Crowley method.
-
-d Based on stratified Cox regression model.
-
-e One-sided p-value based on stratified log-rank test.
-
-f For patients with a complete response or better.
-
-g Assessed by Next Generation Sequencing (NGS) at 10 -5 threshold.
-
-h Two-sided p-value based on stratified Cochran-Mantel-Haenszel test.
+- c   By Brookmeyer and Crowley method.
+- d Based on stratified Cox regression model.
+- e One-sided p-value based on stratified log-rank test.
+- f For patients with a complete response or better.
+- g Assessed by Next Generation Sequencing (NGS) at 10 -5 threshold.
+- h Two-sided p-value based on stratified Cochran-Mantel-Haenszel test.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -612,20 +599,6 @@ Table 7: Efficacy results in DREAMM-8
 | Minimal residual disease (MRD) negativity rate b,i,j |                                                                            |                                                                  |
 | Percent of patients (95% CI)                         | 23.9 (17.4, 31.4)                                                          | 4.8 (1.9, 9.6)                                                   |
 
-CI = Confidence interval; NR = Not reached.
-
-a Efficacy data is based on the intent-to-treat (ITT) population.
-
-b   Response was based on IRC per IMWG criteria.
-
-c   By Brookmeyer and Crowley method.
-
-d Median follow-up of 21.8 months.
-
-e At the time of the data cut-off (29 JAN 2024).
-
-f Based on stratified Cox regression model.
-
 - g One-sided p-value based on stratified log-rank test.
 
 h Results have not reached statistical significance.
@@ -668,7 +641,7 @@ ADC = antibody drug conjugate; AUC = Area under the curve; Cavg21 = belantamab m
 
 - a   Data presented as geometric mean (%CV), based on population PK models.
 
-b   AUC for ADC is AUC(0-21days) and AUC(0-7days) for cys-mcMMAF.
+b AUC for ADC is AUC(0-21days) and AUC(0-7days) for cys-mcMMAF.
 
 Accumulation of belantamab mafodotin (ADC) was minimal to moderate (the ratio from cycle 3 to cycle 1 was 1.13 for Cmax and 1.58 for AUC) and accumulation of cys-mcMMAF was negligible as observed in clinical trials with a every 3 weeks dosing regimen.
 
@@ -706,7 +679,9 @@ Based on a population of patients aged 32 to 89 years, age was not a significant
 
 ## Renal impairment
 
-In patients with severe renal impairment (eGFR 15-29 mL/min, n = 8), belantamab mafodotin Cmax decreased by 23% and AUC(0-tau) decreased by 16% compared with patients with normal renal function or mild renal impairment (eGFR ≥ 60 mL/min, n = 8). For cys-mcMMAF, Cmax and AUC(0168h) decreased by 56% and 44%, respectively compared to patients with normal renal function or mild renal impairment. Renal function (eGFR 12-150 mL/min) was not a significant covariate in population pharmacokinetic analyses that included patients with normal renal function, mild (eGFR 60-89 mL/min), moderate (eGFR 30-59 mL/min), or severe renal impairment (eGFR &lt; 30 mL/min not requiring dialysis). No impact on belantamab mafodotin PK was observed for patients with end stage renal disease (eGFR &lt; 15 mL/min requiring dialysis, n = 5).
+In patients with renal impairment, including severe impairment (eGFR 15-29 mL/min, n = 8) or endstage renal disease (eGFR&lt; 15 mL/min) with dialysis (n = 8) or without dialysis (n = 5), belantamab mafodotin Cmax and AUC(0-tau) were within approximately 20% of the values observed in patients with normal renal function or mild renal impairment (eGFR ≥ 60 mL/min, n = 8). For cys-mcMMAF, Cmax and AUC(0-168h) changes were more variable (within approximately 2-fold). Overall, renal impairment does not have a clinically meaningful impact on belantamab mafodotin or cys-mcMMAF pharmacokinetics.
+
+Renal function (eGFR 12-150 mL/min) was not a significant covariate in population pharmacokinetic analyses that included patients with normal renal function, mild (eGFR 60-89 mL/min), moderate (eGFR 30-59 mL/min), or severe renal impairment (eGFR &lt; 30 mL/min not requiring dialysis).
 
 Belantamab mafodotin is not expected to be removed via dialysis due to its molecular size. While free cys-mcMMAF may be removed via dialysis, cys-mcMMAF systemic exposure is very low and has not been shown to be associated with efficacy or safety based on exposure-response analysis.
 
@@ -718,15 +693,13 @@ No formal studies have been conducted in patients with hepatic impairment. Hepat
 
 Body weight (37 to 170 kg) was a significant covariate in population pharmacokinetic analyses, but this effect will be adjusted by the weight-proportional dosing regimen (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.3 Preclinical safety data
 
 ## Animal toxicology and/or pharmacology
 
-In non-clinical trials, the principal adverse findings (directly related to belantamab mafodotin) in the rat and monkey, at similar exposures to the recommended clinical dose of 2.5 mg/kg, were elevated
-
-<div style=\"page-break-after: always\"></div>
-
-liver enzymes sometimes associated with hepatocellular necrosis at ≥ 10 and ≥ 3 mg/kg, respectively, and increases in alveolar macrophages associated with eosinophilic material in the lungs at ≥ 3 mg/kg (rat only). Most findings in animals were related to the cytotoxic drug conjugate, the histopathological changes observed in the testes and lungs, were not reversible in rats.
+In non-clinical trials, the principal adverse findings (directly related to belantamab mafodotin) in the rat and monkey, at similar exposures to the recommended clinical dose of 2.5 mg/kg, were elevated liver enzymes sometimes associated with hepatocellular necrosis at ≥ 10 and ≥ 3 mg/kg, respectively, and increases in alveolar macrophages associated with eosinophilic material in the lungs at ≥ 3 mg/kg (rat only). Most findings in animals were related to the cytotoxic drug conjugate, the histopathological changes observed in the testes and lungs, were not reversible in rats.
 
 Single cell necrosis in the corneal epithelium and/or increased mitoses of corneal epithelial cells was observed in rat and rabbit. Inflammation of the corneal stroma correlating with superficial haze and vascularisation was observed in rabbits. Belantamab mafodotin was taken up into cells throughout the body by a mechanism unrelated to BCMA receptor expression on the cell membrane.
 
@@ -752,13 +725,13 @@ Sodium citrate dihydrate Citric acid monohydrate (E330) Trehalose dihydrate Diso
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.3 Shelf life
 
 ## Unopened vial
 
 4 years.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reconstituted solution
 
@@ -802,12 +775,12 @@ Blenrep is a cytotoxic anticancer medicinal product. Proper handling procedures 
 
 Calculate the dose (mg), total volume (mL) of solution required and the number of vials needed based on the patient's actual body weight (kg).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reconstitution
 
 1. Remove the vial(s) of Blenrep from the refrigerator and allow to stand for approximately 10 minutes to reach room temperature.
 2. Reconstitute each 70 mg vial with 1.4 mL of water for injections to obtain a concentration of 50 mg/mL. Gently swirl the vial to aid dissolution. Do not shake.
-
-<div style=\"page-break-after: always\"></div>
 
 Reconstitute each 100 mg vial with 2 mL of water for injections to obtain a concentration of 50 mg/mL. Gently swirl the vial to aid dissolution. Do not shake.
 
@@ -834,13 +807,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 Blenrep 70 mg powder for concentrate for solution for infusion EU/1/25/1948/001
 
 Blenrep 100 mg powder for concentrate for solution for infusion EU/1/25/1948/002
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 

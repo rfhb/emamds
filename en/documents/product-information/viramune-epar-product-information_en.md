@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-10-17 11:36:30
+document_datetime: 2026-04-07 16:39:34
 document_pages: 134
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/viramune-epar-product-information_en.pdf
 document_name: viramune-epar-product-information_en.pdf
 version: success
-processing_time: 26.4658823
-conversion_datetime: 2025-12-25 07:22:44.841792
+processing_time: 33.3463457
+conversion_datetime: 2026-04-09 12:26:49.595079
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,9 +30,7 @@ Viramune 200 mg tablets
 
 Each tablet contains 200 mg of nevirapine (as anhydrous).
 
-## Excipients with known effect
-
-Each tablet contains 318 mg of lactose (as monohydrate).
+Excipients with known effect Each tablet contains 318 mg of lactose (as monohydrate).
 
 Each tablet contains less than 1 mmol sodium (23 mg), that is to say essentially 'sodium-free'.
 
@@ -120,7 +118,7 @@ Viramune should only be used with at least two other antiretroviral agents (see 
 
 Viramune should not be used as the sole active antiretroviral, as monotherapy with any antiretroviral has shown to result in viral resistance.
 
-The first 18 weeks of therapy with nevirapine are a critical period which requires close monitoring of patients to disclose the potential appearance of severe and life-threatening skin reactions (including cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)) and serious hepatitis/hepatic failure. The greatest risk of hepatic and skin reactions occurs in the first 6 weeks of therapy. However, the risk of any hepatic event continues past this period and monitoring should continue at frequent intervals. Female gender and higher CD4+ counts (&gt; 250/mm 3 in adult females and &gt; 400/mm 3 in adult males) at the initiation of nevirapine therapy are associated with a greater risk of hepatic adverse reactions if the patient has detectable plasma HIV-1 RNA - i.e. a concentration ≥ 50 copies/mL - at the initiation of nevirapine. As serious and life threatening hepatotoxicity has been observed in controlled and uncontrolled studies predominantly in patients with a plasma HIV-1 viral load of 50 copies/mL or higher, nevirapine should not be initiated in adult females with CD4+ cell counts greater than 250 cells/mm 3 or in adult males with CD4+ cell counts greater than 400 cells/mm 3 , who have a detectable plasma HIV-1 RNA unless the benefit outweighs the risk. In some cases, hepatic injury has progressed despite discontinuation of treatment. Patients developing signs or symptoms of hepatitis, severe skin reaction or hypersensitivity reactions must discontinue nevirapine and seek medical evaluation immediately. Nevirapine must not be restarted following severe hepatic, skin or hypersensitivity reactions (see section 4.3).
+The first 18 weeks of therapy with nevirapine are a critical period which requires close monitoring of patients to disclose the potential appearance of severe and life-threatening skin reactions (including cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)) and serious hepatitis/hepatic failure. The greatest risk of hepatic and skin reactions occurs in the first 6 weeks of therapy. However, the risk of any hepatic event continues past this period and monitoring should continue at frequent intervals. Female gender and higher CD4+ counts (&gt; 250/mm 3  in adult females and &gt; 400/mm 3  in adult males) at the initiation of nevirapine therapy are associated with a greater risk of hepatic adverse reactions if the patient has detectable plasma HIV-1 RNA - i.e. a concentration ≥ 50 copies/mL - at the initiation of nevirapine. As serious and life threatening hepatotoxicity has been observed in controlled and uncontrolled studies predominantly in patients with a plasma HIV-1 viral load of 50 copies/mL or higher, nevirapine should not be initiated in adult females with CD4+ cell counts greater than 250 cells/mm 3 or in adult males with CD4+ cell counts greater than 400 cells/mm 3 , who have a detectable plasma HIV-1 RNA unless the benefit outweighs the risk. In some cases, hepatic injury has progressed despite discontinuation of treatment. Patients developing signs or symptoms of hepatitis, severe skin reaction or hypersensitivity reactions must discontinue nevirapine and seek medical evaluation immediately. Nevirapine must not be restarted following severe hepatic, skin or hypersensitivity reactions (see section 4.3).
 
 The dose must be strictly adhered to, especially the 14-days lead-in period (see section 4.2).
 
@@ -154,7 +152,7 @@ Rhabdomyolysis has been observed in patients experiencing skin and/or liver reac
 
 Increased ASAT or ALAT levels ≥ 2.5 ULN and/or co-infection with hepatitis B and/or C at the start of antiretroviral therapy is associated with greater risk of hepatic adverse reactions during antiretroviral therapy in general, including nevirapine containing regimens.
 
-Female gender and higher CD4+ counts at the initiation of nevirapine therapy in treatment-naïve patients is associated with increased risk of hepatic adverse reactions. Women have a three fold higher risk than men for symptomatic, often rash-associated, hepatic events (5.8% versus 2.2%), and treatment-naïve patients of either gender with detectable HIV-1 RNA in plasma with higher CD4+ counts at initiation of nevirapine therapy are at higher risk for symptomatic hepatic events with nevirapine. In a retrospective review of predominantly patients with a plasma HIV-1 viral load of 50 copies/mL or higher, women with CD4+ counts &gt; 250 cells/mm 3 had a 12 fold higher risk of symptomatic hepatic adverse reactions compared to women with CD4+ counts &lt; 250 cells/mm 3 (11.0% versus 0.9%). An increased risk was observed in men with detectable HIV-1 RNA in plasma and CD4+ counts &gt; 400 cells/mm 3 (6.3% versus 1.2% for men with CD4+ counts &lt; 400 cells/mm 3 ). This increased risk for toxicity based on CD4+ count thresholds has not been detected in patients with undetectable (i.e. &lt; 50 copies/mL) plasma viral load.
+Female gender and higher CD4+ counts at the initiation of nevirapine therapy in treatment-naïve patients is associated with increased risk of hepatic adverse reactions. Women have a three fold higher risk than men for symptomatic, often rash-associated, hepatic events (5.8% versus 2.2%), and treatment-naïve patients of either gender with detectable HIV-1 RNA in plasma with higher CD4+ counts at initiation of nevirapine therapy are at higher risk for symptomatic hepatic events with nevirapine. In a retrospective review of predominantly patients with a plasma HIV-1 viral load of 50 copies/mL or higher, women with CD4+ counts &gt; 250 cells/mm 3  had a 12 fold higher risk of symptomatic hepatic adverse reactions compared to women with CD4+ counts &lt; 250 cells/mm 3 (11.0% versus 0.9%). An increased risk was observed in men with detectable HIV-1 RNA in plasma and CD4+ counts &gt; 400 cells/mm 3  (6.3% versus 1.2% for men with CD4+ counts &lt; 400 cells/mm 3 ). This increased risk for toxicity based on CD4+ count thresholds has not been detected in patients with undetectable (i.e. &lt; 50 copies/mL) plasma viral load.
 
 Patients should be informed that hepatic reactions are a major toxicity of nevirapine requiring close monitoring during the first 18 weeks. They should be informed that occurrence of symptoms suggestive of hepatitis should lead them to discontinue nevirapine and immediately seek medical evaluation, which should include liver function tests.
 
@@ -237,17 +235,17 @@ The interaction data is presented as geometric mean value with 90% confidence in
 
 <div style=\"page-break-after: always\"></div>
 
-| Tenofovir 300 mg QD       | Tenofovir plasma levels remain unchanged when co-administered with nevirapine. Nevirapine plasma levels were not altered by co-administration of tenofovir.             | Tenofovir and Viramunecan be co- administered without dose adjustments.                                                                                                                                                                                                                                                                                                                                                                                                              |
-|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Zidovudine 100-200 mg TID | Zidovudine AUC  0.72 (0.60-0.96) Zidovudine C min ND Zidovudine C max  0.70 (0.49-1.04) Nevirapine: Zidovudine had no effect on its pharmacokinetics.                 | Zidovudine and Viramune can be co-administered without dose adjustments Granulocytopenia is commonly associated with zidovudine. Therefore, patients who receive nevirapine and zidovudine concomitantly and especially paediatric patients and patients who receive higher zidovudine doses or patients with poor bone marrow reserve, in particular those with advanced HIV disease, have an increased risk of granulocytopenia. In such patients haematological parameters should |
-| NNRTIs                    |                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Efavirenz 600 mg QD       | Efavirenz AUC  0.72 (0.66-0.86) Efavirenz C min  0.68 (0.65-0.81) Efavirenz C max  0.88 (0.77-1.01)                                                                  | It is not recommended to co- administer efavirenz and Viramune (see section 4.4), because of additive toxicity and no benefit in terms of efficacy over either NNRTI alone (for results of 2NN study, see section 5.1).                                                                                                                                                                                                                                                              |
-| Etravirine                | Concomitant use of etravirine with nevirapine may cause a significant decrease in the plasma concentrations of etravirine and loss of therapeutic effect of etravirine. | The concomitant administration of Viramune with NNRTIs is not recommended (see section 4.4).                                                                                                                                                                                                                                                                                                                                                                                         |
-| Rilpivirine               | Interaction has not been studied.                                                                                                                                       | The concomitant administration of Viramune with NNRTIs is not recommended (see section 4.4).                                                                                                                                                                                                                                                                                                                                                                                         |
+| Tenofovir 300 mg QD       | Tenofovir plasma levels remain unchanged when co-administered with nevirapine. Nevirapine plasma levels were not altered by co-administration of tenofovir.             | Tenofovir and Viramune can be co- administered without dose adjustments.                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Zidovudine 100-200 mg TID | Zidovudine AUC  0.72 (0.60-0.96) Zidovudine C min ND Zidovudine C max  0.70 (0.49-1.04) Nevirapine: Zidovudine had no effect on its pharmacokinetics.                 | Zidovudine and Viramune can be co-administered without dose adjustments Granulocytopenia is commonly associated with zidovudine. Therefore, patients who receive nevirapine and zidovudine concomitantly and especially paediatric patients and patients who receive higher zidovudine doses or patients with poor bone marrow reserve, in particular those with advanced HIV disease, have an increased risk of granulocytopenia. In such patients haematological parameters should be carefully monitored. |
+| NNRTIs                    |                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Efavirenz 600 mg QD       | Efavirenz AUC  0.72 (0.66-0.86) Efavirenz C min  0.68 (0.65-0.81) Efavirenz C max  0.88 (0.77-1.01)                                                                  | It is not recommended to co- administer efavirenz and Viramune (see section 4.4), because of additive toxicity and no benefit in terms of efficacy over either NNRTI alone (for results of 2NN study, see section 5.1).                                                                                                                                                                                                                                                                                      |
+| Etravirine                | Concomitant use of etravirine with nevirapine may cause a significant decrease in the plasma concentrations of etravirine and loss of therapeutic effect of etravirine. | The concomitant administration of Viramune with NNRTIs is not recommended (see section 4.4).                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Rilpivirine               | Interaction has not been studied.                                                                                                                                       | The concomitant administration of Viramune with NNRTIs is not recommended (see section 4.4).                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| PIs                                              | PIs                                                                                                                                                                                                                                                                                                                                                                                                                                     | PIs                                                                                                                                          |
+| PIs                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                              |
 |--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | Atazanavir/ritonavir 300/100 mg QD 400/100 mg QD | Atazanavir/r 300/100 mg: Atazanavir/r AUC  0.58 (0.48-0.71) Atazanavir/r C min  0.28 (0.20-0.40) Atazanavir/r C max  0.72 (0.60-0.86) Atazanavir/r 400/100 mg: Atazanavir/r AUC  0.81 (0.65-1.02) Atazanavir/r C min  0.41 (0.27-0.60) Atazanavir/r C max  1.02 (0.85-1.24) (compared to 300/100 mg without nevirapine) Nevirapine AUC  1.25 (1.17-1.34) Nevirapine C min  1.32 (1.22-1.43) Nevirapine C max  1.17 (1.09-1.25) | It is not recommended to co- administer atazanavir/ritonavir and Viramune (see section 4.4).                                                 |
 | Darunavir/ritonavir 400/100 mg BID               | Darunavir AUC  1.24 (0.97-1.57) Darunavir C min  1.02 (0.79-1.32) Darunavir C max  1.40 (1.14-1.73) Nevirapine AUC  1.27 (1.12-1.44) Nevirapine C min  1.47 (1.20-1.82) Nevirapine C max  1.18 (1.02-1.37)                                                                                                                                                                                                                        | Darunavir and Viramune can be co-administered without dose adjustments.                                                                      |
@@ -327,7 +325,7 @@ Women of childbearing potential should not use oral contraceptives as the sole m
 
 ## Pregnancy
 
-Currently available data on pregnant women indicate no malformative or foeto/ neonatal toxicity. To date no other relevant epidemiological data are available. No observable teratogenicity was detected in reproductive studies performed in pregnant rats and rabbits (see section 5.3). There are no adequate and well-controlled studies in pregnant women. Caution should be exercised when prescribing nevirapine to pregnant women (see section 4.4). As hepatotoxicity is more frequent in women with CD4+ cell counts above 250 cells/mm 3 with detectable HIV-1 RNA in plasma (50 or more copies/mL), these conditions should be taken in consideration on therapeutic decision (see section 4.4). There is not enough evidence to substantiate that the absence of an increased risk for toxicity seen in pre-treated women initiating nevirapine with an undetectable viral load (less than 50 copies/mL of HIV-1 in plasma) and CD4+ cell counts above 250 cells/mm 3 also applies to pregnant women. All the randomised studies addressing this issue specifically excluded pregnant women, and pregnant women were under-represented in cohort studies as well as in meta-analyses.
+Currently available data on pregnant women indicate no malformative or foeto/ neonatal toxicity. To date no other relevant epidemiological data are available. No observable teratogenicity was detected in reproductive studies performed in pregnant rats and rabbits (see section 5.3). There are no adequate and well-controlled studies in pregnant women. Caution should be exercised when prescribing nevirapine to pregnant women (see section 4.4). As hepatotoxicity is more frequent in women with CD4+ cell counts above 250 cells/mm 3  with detectable HIV-1 RNA in plasma (50 or more copies/mL), these conditions should be taken in consideration on therapeutic decision (see section 4.4). There is not enough evidence to substantiate that the absence of an increased risk for toxicity seen in pre-treated women initiating nevirapine with an undetectable viral load (less than 50 copies/mL of HIV-1 in plasma) and CD4+ cell counts above 250 cells/mm 3  also applies to pregnant women. All the randomised studies addressing this issue specifically excluded pregnant women, and pregnant women were under-represented in cohort studies as well as in meta-analyses.
 
 ## Breast-feeding
 
@@ -433,13 +431,9 @@ pyrexia, fatigue
 
 <div style=\"page-break-after: always\"></div>
 
-## Investigations
-
-## Common
-
-## Uncommon
-
-liver function test abnormal (alanine aminotransferase increased; transaminases increased; aspartate aminotransferase increased; gamma-glutamyltransferase increased; hepatic enzyme increased; hypertransaminasaemia) blood phosphorus decreased; blood pressure increased
+| Investigations Common   | liver function test abnormal (alanine aminotransferase increased; transaminases increased; aspartate aminotransferase increased; gamma-glutamyltransferase increased; hepatic enzyme increased; hypertransaminasaemia)   |
+|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Uncommon                | blood phosphorus decreased; blood pressure increased                                                                                                                                                                     |
 
 ## Description of selected adverse reactions
 
@@ -511,7 +505,9 @@ Nevirapine in combination with efavirenz exhibited a strong antagonistic anti-HI
 
 HIV-1 isolates with reduced susceptibility (100-250-fold) to nevirapine emerge in cell culture. Genotypic analysis showed mutations in the HIV-1 RT gene Y181C and/or V106A depending upon the virus strain and cell line employed. Time to emergence of nevirapine resistance in cell culture was not altered when selection included nevirapine in combination with several other NNRTIs.
 
-Genotypic analysis of isolates from antiretroviral naïve patients experiencing virologic failure (n = 71) receiving nevirapine once daily (n = 25) or twice daily (n = 46) in combination with lamivudine and stavudine for 48 weeks showed that isolates from 8/25 and 23/46 patients, respectively, contained one or more of the following NNRTI resistance-associated substitutions: Y181C, K101E, G190A/S, K103N, V106A/M, V108I, Y188C/L, A98G, F227L and M230L.
+Genotypic analysis of isolates from antiretroviral naïve patients experiencing virologic failure (n = 71) receiving nevirapine once daily (n = 25) or twice daily (n = 46) in combination with lamivudine and stavudine for 48 weeks showed that isolates from 8/25 and 23/46 patients, respectively, contained one or more of the following NNRTI resistance-associated substitutions:
+
+Y181C, K101E, G190A/S, K103N, V106A/M, V108I, Y188C/L, A98G, F227L and M230L.
 
 ## Cross-resistance
 
@@ -573,7 +569,7 @@ The clinical relevance of these data in European populations has not been establ
 
 ## Paediatric population
 
-Results of a 48-week analysis of the South African study BI 1100.1368 confirmed that the 4/7 mg/kg and 150 mg/m 2 nevirapine dose groups were well tolerated and effective in treating antiretroviral naive paediatric patients. A marked improvement in the CD4+ cell percent was observed through Week 48 for both dose groups. Also, both dosing regimens were effective in reducing the viral load. In this 48-week study no unexpected safety findings were observed in either dosing group.
+Results of a 48-week analysis of the South African study BI 1100.1368 confirmed that the 4/7 mg/kg and 150 mg/m 2  nevirapine dose groups were well tolerated and effective in treating antiretroviral naive paediatric patients. A marked improvement in the CD4+ cell percent was observed through Week 48 for both dose groups. Also, both dosing regimens were effective in reducing the viral load. In this 48-week study no unexpected safety findings were observed in either dosing group.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -609,7 +605,7 @@ In the multinational 2NN study, a population pharmacokinetic substudy of 1 077 p
 
 Data concerning the pharmacokinetics of nevirapine have been derived from two major sources: a 48 week paediatric study in South Africa (BI 1100.1368) involving 123 HIV-1 positive, antiretroviral naïve patients aged 3 months to 16 years; and a consolidated analysis of five Paediatric AIDS Clinical Trials Group (PACTG) protocols comprising 495 patients aged 14 days to 19 years.
 
-Pharmacokinetic data on 33 patients (age range 0.77-13.7 years) in the intensive sampling group demonstrated that clearance of nevirapine increased with increasing age in a manner consistent with increasing body surface area. Dosing of nevirapine at 150 mg/m 2 BID (after a two-week lead in at 150 mg/m 2 QD) produced geometric mean or mean trough nevirapine concentrations between 4-6 µg/mL (as targeted from adult data). In addition, the observed trough nevirapine concentrations were comparable between the two methods.
+Pharmacokinetic data on 33 patients (age range 0.77-13.7 years) in the intensive sampling group demonstrated that clearance of nevirapine increased with increasing age in a manner consistent with increasing body surface area. Dosing of nevirapine at 150 mg/m 2 BID (after a two-week lead in at 150 mg/m 2  QD) produced geometric mean or mean trough nevirapine concentrations between 4-6 µg/mL (as targeted from adult data). In addition, the observed trough nevirapine concentrations were comparable between the two methods.
 
 The consolidated analysis of Paediatric AIDS Clinical Trials Group (PACTG) protocols 245, 356, 366, 377, and 403 allowed for the evaluation of paediatric patients less than 3 months of age (n = 17) enrolled in these PACTG studies. The plasma nevirapine concentrations observed were within the range observed in adults and the remainder of the paediatric population, but were more variable between patients, particularly in the second month of age.
 
@@ -655,17 +651,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein
-
-Germany
+Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/97/055/001 (60 tablets)
-
-EU/1/97/055/003 (120 tablets)
-
-EU/1/97/055/004 (14 tablets)
+EU/1/97/055/001 (60 tablets) EU/1/97/055/003 (120 tablets) EU/1/97/055/004 (14 tablets)
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -747,9 +737,9 @@ Nevirapine should not be used in patients with severe hepatic impairment (Child-
 
 ## Paediatric population
 
-The total daily dose should not exceed 400 mg for any patient. Viramune may be dosed in paediatric patients either by body surface area (BSA) or by body weight as follows: By BSA using the Mosteller formula the recommended oral dose for paediatric patients of all ages is
+The total daily dose should not exceed 400 mg for any patient. Viramune may be dosed in paediatric patients either by body surface area (BSA) or by body weight as follows:
 
-150 mg/m 2 once daily for two weeks followed by 150 mg/m 2 twice daily thereafter.
+By BSA using the Mosteller formula the recommended oral dose for paediatric patients of all ages is 150 mg/m 2  once daily for two weeks followed by 150 mg/m 2 twice daily thereafter.
 
 Calculation of the volume of Viramune oral suspension (50 mg/5 mL) required for paediatric dosing on a body surface basis of 150 mg/m 2 :
 
@@ -809,7 +799,7 @@ Viramune should not be used as the sole active antiretroviral, as monotherapy wi
 
 <div style=\"page-break-after: always\"></div>
 
-The first 18 weeks of therapy with nevirapine are a critical period which requires close monitoring of patients to disclose the potential appearance of severe and life-threatening skin reactions (including cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)) and serious hepatitis/hepatic failure. The greatest risk of hepatic and skin reactions occurs in the first 6 weeks of therapy. However, the risk of any hepatic event continues past this period and monitoring should continue at frequent intervals. Female gender and higher CD4+ counts (&gt; 250/mm 3 in adult females and &gt; 400/mm 3 in adult males) at the initiation of nevirapine therapy are associated with a greater risk of hepatic adverse reactions if the patient has detectable plasma HIV-1 RNA - i.e. a concentration ≥ 50 copies/mL - at the initiation of nevirapine. As serious and life threatening hepatotoxicity has been observed in controlled and uncontrolled studies predominantly in patients with a plasma HIV-1 viral load of 50 copies/mL or higher, nevirapine should not be initiated in adult females with CD4+ cell counts greater than 250 cells/mm 3 or in adult males with CD4+ cell counts greater than 400 cells/mm 3 , who have a detectable plasma HIV-1 RNA unless the benefit outweighs the risk.
+The first 18 weeks of therapy with nevirapine are a critical period which requires close monitoring of patients to disclose the potential appearance of severe and life-threatening skin reactions (including cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)) and serious hepatitis/hepatic failure. The greatest risk of hepatic and skin reactions occurs in the first 6 weeks of therapy. However, the risk of any hepatic event continues past this period and monitoring should continue at frequent intervals. Female gender and higher CD4+ counts (&gt; 250/mm 3  in adult females and &gt; 400/mm 3  in adult males) at the initiation of nevirapine therapy are associated with a greater risk of hepatic adverse reactions if the patient has detectable plasma HIV-1 RNA - i.e. a concentration ≥ 50 copies/mL - at the initiation of nevirapine. As serious and life threatening hepatotoxicity has been observed in controlled and uncontrolled studies predominantly in patients with a plasma HIV-1 viral load of 50 copies/mL or higher, nevirapine should not be initiated in adult females with CD4+ cell counts greater than 250 cells/mm 3 or in adult males with CD4+ cell counts greater than 400 cells/mm 3 , who have a detectable plasma HIV-1 RNA unless the benefit outweighs the risk.
 
 In some cases, hepatic injury has progressed despite discontinuation of treatment. Patients developing signs or symptoms of hepatitis, severe skin reaction or hypersensitivity reactions must discontinue nevirapine and seek medical evaluation immediately. Nevirapine must not be restarted following severe hepatic, skin or hypersensitivity reactions (see section 4.3).
 
@@ -847,7 +837,7 @@ Rhabdomyolysis has been observed in patients experiencing skin and/or liver reac
 
 Increased ASAT or ALAT levels ≥ 2.5 ULN and/or co-infection with hepatitis B and/or C at the start of antiretroviral therapy is associated with greater risk of hepatic adverse reactions during antiretroviral therapy in general, including nevirapine containing regimens.
 
-Female gender and higher CD4+ counts at the initiation of nevirapine therapy in treatment-naïve patients is associated with increased risk of hepatic adverse reactions. Women have a three fold higher risk than men for symptomatic, often rash-associated, hepatic events (5.8% versus 2.2%), and treatment-naïve patients of either gender with detectable HIV-1 RNA in plasma with higher CD4+ counts at initiation of nevirapine therapy are at higher risk for symptomatic hepatic events with nevirapine. In a retrospective review of predominantly patients with a plasma HIV-1 viral load of 50 copies/mL or higher, women with CD4+ counts &gt; 250 cells/mm 3 had a 12 fold higher risk of symptomatic hepatic adverse reactions compared to women with CD4+ counts &lt; 250 cells/mm 3 (11.0% versus 0.9%). An increased risk was observed in men with detectable HIV-1 RNA in plasma and CD4+ counts &gt; 400 cells/mm 3 (6.3% versus 1.2% for men with CD4+ counts &lt; 400 cells/mm 3 ). This increased risk for toxicity based on CD4+ count thresholds has not been detected in patients with undetectable (i.e. &lt; 50 copies/mL) plasma viral load.
+Female gender and higher CD4+ counts at the initiation of nevirapine therapy in treatment-naïve patients is associated with increased risk of hepatic adverse reactions. Women have a three fold higher risk than men for symptomatic, often rash-associated, hepatic events (5.8% versus 2.2%), and treatment-naïve patients of either gender with detectable HIV-1 RNA in plasma with higher CD4+ counts at initiation of nevirapine therapy are at higher risk for symptomatic hepatic events with nevirapine. In a retrospective review of predominantly patients with a plasma HIV-1 viral load of 50 copies/mL or higher, women with CD4+ counts &gt; 250 cells/mm 3  had a 12 fold higher risk of symptomatic hepatic adverse reactions compared to women with CD4+ counts &lt; 250 cells/mm 3 (11.0% versus 0.9%). An increased risk was observed in men with detectable HIV-1 RNA in plasma and CD4+ counts &gt; 400 cells/mm 3  (6.3% versus 1.2% for men with CD4+ counts &lt; 400 cells/mm 3 ). This increased risk for toxicity based on CD4+ count thresholds has not been detected in patients with undetectable (i.e. &lt; 50 copies/mL) plasma viral load.
 
 Patients should be informed that hepatic reactions are a major toxicity of nevirapine requiring a close monitoring during the first 18 weeks. They should be informed that occurrence of symptoms suggestive of hepatitis should lead them to discontinue nevirapine and immediately seek medical evaluation, which should include liver function tests.
 
@@ -933,7 +923,7 @@ The interaction data is presented as geometric mean value with 90% confidence in
 
 <div style=\"page-break-after: always\"></div>
 
-| Tenofovir 300 mg QD                              | Tenofovir plasma levels remain unchanged when co-administered with nevirapine. Nevirapine plasma levels were not altered by co-administration of tenofovir.             | Tenofovir and Viramunecan be co- administered without dose adjustments.                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Tenofovir 300 mg QD                              | Tenofovir plasma levels remain unchanged when co-administered with nevirapine. Nevirapine plasma levels were not altered by co-administration of tenofovir.             | Tenofovir and Viramune can be co- administered without dose adjustments.                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Zidovudine 100-200 mg TID                        | Zidovudine AUC  0.72 (0.60-0.96) Zidovudine C min ND Zidovudine C max  0.70 (0.49-1.04) Nevirapine: Zidovudine had no effect on its pharmacokinetics.                 | Zidovudine and Viramune can be co-administered without dose adjustments Granulocytopenia is commonly associated with zidovudine. Therefore, patients who receive nevirapine and zidovudine concomitantly and especially paediatric patients and patients who receive higher zidovudine doses or patients with poor bone marrow reserve, in particular those with advanced HIV disease, have an increased risk of granulocytopenia. In such patients haematological parameters should be carefully monitored. |
 | NNRTIs                                           | NNRTIs                                                                                                                                                                  | NNRTIs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
@@ -941,7 +931,7 @@ The interaction data is presented as geometric mean value with 90% confidence in
 | Etravirine                                       | Concomitant use of etravirine with nevirapine may cause a significant decrease in the plasma concentrations of etravirine and loss of therapeutic effect of etravirine. | The concomitant administration of Viramune with NNRTIs is not recommended (see section 4.4).                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Rilpivirine                                      | Interaction has not been studied.                                                                                                                                       | The concomitant administration of Viramune with NNRTIs is not recommended (see section 4.4).                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | PIs                                              | PIs                                                                                                                                                                     | PIs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Atazanavir/ritonavir 300/100 mg QD 400/100 mg QD | Atazanavir/r 300/100 mg: Atazanavir/r AUC  0.58 (0.48-0.71) Atazanavir/r C min  0.28 (0.20-0.40) Atazanavir/r C max  0.72 (0.60-0.86)                                | It is not recommended to co- administer atazanavir/ritonavir and Viramune (see section 4.4).                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Atazanavir/ritonavir 300/100 mg QD 400/100 mg QD | Atazanavir/r 300/100 mg: Atazanavir/r AUC  0.58 (0.48-0.71) Atazanavir/r C min  0.28 (0.20-0.40) Atazanavir/r C max  0.72 (0.60-0.86) Atazanavir/r 400/100 mg:       | It is not recommended to co- administer atazanavir/ritonavir and Viramune (see section 4.4).                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1016,13 +1006,13 @@ Nevirapine metabolites: Studies using human liver microsomes indicated that the 
 
 ## 4.6 Fertility, pregnancy and lactation
 
-## Women of childbearing potential / Contraception in males and females
+Women of childbearing potential / Contraception in males and females
 
 Women of childbearing potential should not use oral contraceptives as the sole method for birth control, since nevirapine might lower the plasma concentrations of these medicinal products (see sections 4.4 &amp; 4.5).
 
 ## Pregnancy
 
-Currently available data on pregnant women indicate no malformative or foeto/ neonatal toxicity. To date no other relevant epidemiological data are available. No observable teratogenicity was detected in reproductive studies performed in pregnant rats and rabbits (see section 5.3). There are no adequate and well-controlled studies in pregnant women. Caution should be exercised when prescribing nevirapine to pregnant women (see section 4.4). As hepatotoxicity is more frequent in women with CD4+ cell counts above 250 cells/mm 3 with detectable HIV-1 RNA in plasma (50 or more copies/mL), these conditions should be taken in consideration on therapeutic decision (see section 4.4). There is not enough evidence to substantiate that the absence of an increased risk for toxicity seen in pre-treated women initiating nevirapine with an undetectable viral load (less than 50 copies/mL of HIV-1 in plasma) and CD4+ cell counts above 250 cells/mm 3 also applies to pregnant women. All the randomised studies addressing this issue specifically excluded pregnant women, and pregnant women were under-represented in cohort studies as well as in meta-analyses.
+Currently available data on pregnant women indicate no malformative or foeto/ neonatal toxicity. To date no other relevant epidemiological data are available. No observable teratogenicity was detected in reproductive studies performed in pregnant rats and rabbits (see section 5.3). There are no adequate and well-controlled studies in pregnant women. Caution should be exercised when prescribing nevirapine to pregnant women (see section 4.4). As hepatotoxicity is more frequent in women with CD4+ cell counts above 250 cells/mm 3  with detectable HIV-1 RNA in plasma (50 or more copies/mL), these conditions should be taken in consideration on therapeutic decision (see section 4.4). There is not enough evidence to substantiate that the absence of an increased risk for toxicity seen in pre-treated women initiating nevirapine with an undetectable viral load (less than 50 copies/mL of HIV-1 in plasma) and CD4+ cell counts above 250 cells/mm 3  also applies to pregnant women. All the randomised studies addressing this issue specifically excluded pregnant women, and pregnant women were under-represented in cohort studies as well as in meta-analyses.
 
 ## Breast-feeding
 
@@ -1052,7 +1042,9 @@ The postmarketing experience has shown that the most serious adverse reactions a
 
 The following adverse reactions which may be causally related to the administration of Viramune have been reported. The frequencies estimated are based on pooled clinical study data for adverse reactions considered related to Viramune treatment.
 
-Frequency is defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000).
+Frequency is defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to
+
+&lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000).
 
 ## Blood and lymphatic system disorders
 
@@ -1272,7 +1264,7 @@ The clinical relevance of these data in European populations has not been establ
 
 ## Paediatric population
 
-Results of a 48-week analysis of the South African study BI 1100.1368 confirmed that the 4/7 mg/kg and 150 mg/m 2 nevirapine dose groups were well tolerated and effective in treating antiretroviral naive paediatric patients. A marked improvement in the CD4+ cell percent was observed through Week 48 for both dose groups. Also, both dosing regimens were effective in reducing the viral load. In this 48-week study no unexpected safety findings were observed in either dosing group.
+Results of a 48-week analysis of the South African study BI 1100.1368 confirmed that the 4/7 mg/kg and 150 mg/m 2  nevirapine dose groups were well tolerated and effective in treating antiretroviral naive paediatric patients. A marked improvement in the CD4+ cell percent was observed through Week 48 for both dose groups. Also, both dosing regimens were effective in reducing the viral load. In this 48-week study no unexpected safety findings were observed in either dosing group.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1312,7 +1304,7 @@ In the multinational 2NN study, a population pharmacokinetic substudy of 1 077 p
 
 Data concerning the pharmacokinetics of nevirapine have been derived from two major sources: a 48 week paediatric study in South Africa (BI 1100.1368) involving 123 HIV-1 positive, antiretroviral naïve patients aged 3 months to 16 years; and a consolidated analysis of five Paediatric AIDS Clinical Trials Group (PACTG) protocols comprising 495 patients aged 14 days to 19 years.
 
-Pharmacokinetic data on 33 patients (age range 0.77-13.7 years) in the intensive sampling group demonstrated that clearance of nevirapine increased with increasing age in a manner consistent with increasing body surface area. Dosing of nevirapine at 150 mg/m 2 BID (after a two-week lead in at 150 mg/m 2 QD) produced geometric mean or mean trough nevirapine concentrations between 4-6 µg/mL (as targeted from adult data). In addition, the observed trough nevirapine concentrations were comparable between the two methods.
+Pharmacokinetic data on 33 patients (age range 0.77-13.7 years) in the intensive sampling group demonstrated that clearance of nevirapine increased with increasing age in a manner consistent with increasing body surface area. Dosing of nevirapine at 150 mg/m 2 BID (after a two-week lead in at 150 mg/m 2  QD) produced geometric mean or mean trough nevirapine concentrations between 4-6 µg/mL (as targeted from adult data). In addition, the observed trough nevirapine concentrations were comparable between the two methods.
 
 The consolidated analysis of Paediatric AIDS Clinical Trials Group (PACTG) protocols 245, 356, 366, 377, and 403 allowed for the evaluation of paediatric patients less than 3 months of age (n = 17) enrolled in these PACTG studies. The plasma nevirapine concentrations observed were within the range observed in adults and the remainder of the paediatric population, but were more variable between patients, particularly in the second month of age.
 
@@ -1430,9 +1422,9 @@ If a dose is recognized as missed within 12 hours of when it was due, the patien
 
 According to paediatric dose recommendations Viramune 400 mg prolonged-release tablets can be also taken by children, following the adult dosing schedule, if they
 
--  are ≥ 8 years of age and weigh 43.8 kg or more or
--  are &lt; 8 years of age and weigh 25 kg or more or
--  have a body surface area of 1.17 m 2 or above according to the Mosteller formula.
+- are ≥ 8 years of age and weigh 43.8 kg or more or
+- are &lt; 8 years of age and weigh 25 kg or more or
+- have a body surface area of 1.17 m 2 or above according to the Mosteller formula.
 
 ## Children less than three years old
 
@@ -1486,7 +1478,7 @@ Viramune should only be used with at least two other antiretroviral agents (see 
 
 Viramune should not be used as the sole active antiretroviral, as monotherapy with any antiretroviral has shown to result in viral resistance.
 
-The first 18 weeks of therapy with nevirapine are a critical period which requires close monitoring of patients to disclose the potential appearance of severe and life-threatening skin reactions (including cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)) and serious hepatitis/hepatic failure. The greatest risk of hepatic and skin reactions occurs in the first 6 weeks of therapy. However, the risk of any hepatic event continues past this period and monitoring should continue at frequent intervals. Female gender and higher CD4+ counts (&gt; 250/mm 3 in adult females and &gt; 400/mm 3 in adult males) at the initiation of nevirapine therapy are associated with a greater risk of hepatic adverse reactions if the patient has detectable plasma HIV-1 RNA - i.e. a concentration ≥ 50 copies/mL - at the initiation of nevirapine. As serious and life threatening hepatotoxicity has been observed in controlled and uncontrolled studies predominantly in patients with a plasma HIV-1 viral load of 50 copies/mL or higher, nevirapine should not be initiated in adult females with CD4+ cell counts greater than 250 cells/mm 3 or in adult males with CD4+ cell counts greater than 400 cells/mm 3 , who have a detectable plasma HIV-1 RNA unless the benefit outweighs the risk. In some cases, hepatic injury has progressed despite discontinuation of treatment. Patients developing signs or symptoms of hepatitis, severe skin reaction or hypersensitivity reactions must discontinue nevirapine and seek medical evaluation immediately. Nevirapine must not be restarted following severe hepatic, skin or hypersensitivity reactions (see section 4.3).
+The first 18 weeks of therapy with nevirapine are a critical period which requires close monitoring of patients to disclose the potential appearance of severe and life-threatening skin reactions (including cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)) and serious hepatitis/hepatic failure. The greatest risk of hepatic and skin reactions occurs in the first 6 weeks of therapy. However, the risk of any hepatic event continues past this period and monitoring should continue at frequent intervals. Female gender and higher CD4+ counts (&gt; 250/mm 3  in adult females and &gt; 400/mm 3  in adult males) at the initiation of nevirapine therapy are associated with a greater risk of hepatic adverse reactions if the patient has detectable plasma HIV-1 RNA - i.e. a concentration ≥ 50 copies/mL - at the initiation of nevirapine. As serious and life threatening hepatotoxicity has been observed in controlled and uncontrolled studies predominantly in patients with a plasma HIV-1 viral load of 50 copies/mL or higher, nevirapine should not be initiated in adult females with CD4+ cell counts greater than 250 cells/mm 3 or in adult males with CD4+ cell counts greater than 400 cells/mm 3 , who have a detectable plasma HIV-1 RNA unless the benefit outweighs the risk. In some cases, hepatic injury has progressed despite discontinuation of treatment. Patients developing signs or symptoms of hepatitis, severe skin reaction or hypersensitivity reactions must discontinue nevirapine and seek medical evaluation immediately. Nevirapine must not be restarted following severe hepatic, skin or hypersensitivity reactions (see section 4.3).
 
 The dose must be strictly adhered to, especially the 14-days lead-in period (see section 4.2).
 
@@ -1524,7 +1516,7 @@ Rhabdomyolysis has been observed in patients experiencing skin and/or liver reac
 
 Increased ASAT or ALAT levels ≥ 2.5 ULN and/or co-infection with hepatitis B and/or C at the start of antiretroviral therapy is associated with greater risk of hepatic adverse reactions during antiretroviral therapy in general, including nevirapine containing regimens.
 
-Female gender and higher CD4+ counts at the initiation of nevirapine therapy in treatment-naïve patients is associated with increased risk of hepatic adverse reactions. In a retrospective analysis of pooled clinical studies with Viramune immediate-release tablets, women had a three fold higher risk than men for symptomatic, often rash-associated, hepatic events (5.8% versus 2.2%), and treatmentnaïve patients of either gender with detectable HIV-1 RNA in plasma with higher CD4+ counts at initiation of nevirapine therapy were at higher risk for symptomatic hepatic events with nevirapine. Predominantly patients with a plasma HIV-1 viral load of 50 copies/mL or higher, women with CD4+ counts &gt; 250 cells/mm 3 had a 12 fold higher risk of symptomatic hepatic adverse reactions compared to women with CD4+ counts &lt; 250 cells/mm 3 (11.0% versus 0.9%). An increased risk was observed in men with detectable HIV-1 RNA in plasma and CD4+ counts &gt; 400 cells/mm 3 (6.3% versus 1.2% for men with CD4+ counts &lt; 400 cells/mm 3 ). This increased risk for toxicity based on CD4+ count thresholds has not been detected in patients with undetectable (i.e. &lt; 50 copies/mL) plasma viral load.
+Female gender and higher CD4+ counts at the initiation of nevirapine therapy in treatment-naïve patients is associated with increased risk of hepatic adverse reactions. In a retrospective analysis of pooled clinical studies with Viramune immediate-release tablets, women had a three fold higher risk than men for symptomatic, often rash-associated, hepatic events (5.8% versus 2.2%), and treatmentnaïve patients of either gender with detectable HIV-1 RNA in plasma with higher CD4+ counts at initiation of nevirapine therapy were at higher risk for symptomatic hepatic events with nevirapine. Predominantly patients with a plasma HIV-1 viral load of 50 copies/mL or higher, women with CD4+ counts &gt; 250 cells/mm 3  had a 12 fold higher risk of symptomatic hepatic adverse reactions compared to women with CD4+ counts &lt; 250 cells/mm 3  (11.0% versus 0.9%). An increased risk was observed in men with detectable HIV-1 RNA in plasma and CD4+ counts &gt; 400 cells/mm 3  (6.3% versus 1.2% for men with CD4+ counts &lt; 400 cells/mm 3 ). This increased risk for toxicity based on CD4+ count thresholds has not been detected in patients with undetectable (i.e. &lt; 50 copies/mL) plasma viral load.
 
 Patients should be informed that hepatic reactions are a major toxicity of nevirapine requiring close monitoring during the first 18 weeks. They should be informed that occurrence of symptoms suggestive of hepatitis should lead them to discontinue nevirapine and immediately seek medical evaluation, which should include liver function tests.
 
@@ -1612,7 +1604,7 @@ The interaction data is presented as geometric mean value with 90% confidence in
 | Abacavir                                  | In human liver microsomes, abacavir did not inhibit cytochrome P450 isoforms.                                                                                        | Viramune and abacavir may be coadministered without dose adjustments.      |
 | Lamivudine 150 mg BID                     | No changes to lamivudine apparent clearance and volume of distribution, suggesting no induction effect of nevirapine on lamivudine clearance.                        | Lamivudine and Viramune can be co-administered without dose adjustments.   |
 | Stavudine: 30/40 mg BID                   | Stavudine AUC  0.96 (0.89-1.03) Stavudine C min ND Stavudine C max  0.94 (0.86-1.03) Nevirapine: compared to historical controls, levels appeared to be unchanged. | Stavudine and Viramune can be co-administered without dose adjustments.    |
-| Tenofovir 300 mg QD                       | Tenofovir plasma levels remain unchanged when co-administered with nevirapine. Nevirapine plasma levels were not altered by co-administration of tenofovir.          | Tenofovir and Viramunecan be co- administered without dose adjustments.    |
+| Tenofovir 300 mg QD                       | Tenofovir plasma levels remain unchanged when co-administered with nevirapine. Nevirapine plasma levels were not altered by co-administration of tenofovir.          | Tenofovir and Viramune can be co- administered without dose adjustments.   |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1625,7 +1617,7 @@ The interaction data is presented as geometric mean value with 90% confidence in
 
 <div style=\"page-break-after: always\"></div>
 
-| PIs                                              | PIs                                                                                                                                                                                                                                                                                                                                                                                                                                     | PIs                                                                                                                                          |
+| PIs                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                              |
 |--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | Atazanavir/ritonavir 300/100 mg QD 400/100 mg QD | Atazanavir/r 300/100 mg: Atazanavir/r AUC  0.58 (0.48-0.71) Atazanavir/r C min  0.28 (0.20-0.40) Atazanavir/r C max  0.72 (0.60-0.86) Atazanavir/r 400/100 mg: Atazanavir/r AUC  0.81 (0.65-1.02) Atazanavir/r C min  0.41 (0.27-0.60) Atazanavir/r C max  1.02 (0.85-1.24) (compared to 300/100 mg without nevirapine) Nevirapine AUC  1.25 (1.17-1.34) Nevirapine C min  1.32 (1.22-1.43) Nevirapine C max  1.17 (1.09-1.25) | It is not recommended to co- administer atazanavir/ritonavir and Viramune (see section 4.4).                                                 |
 | Darunavir/ritonavir 400/100 mg BID               | Darunavir AUC  1.24 (0.97-1.57) Darunavir C min  1.02 (0.79-1.32) Darunavir C max  1.40 (1.14-1.73) Nevirapine AUC  1.27 (1.12-1.44) Nevirapine C min  1.47 (1.20-1.82) Nevirapine C max  1.18 (1.02-1.37)                                                                                                                                                                                                                        | Darunavir and Viramune can be co-administered without dose adjustments.                                                                      |
@@ -1633,7 +1625,7 @@ The interaction data is presented as geometric mean value with 90% confidence in
 
 <div style=\"page-break-after: always\"></div>
 
-| Fosamprenavir/ritonavir 700/100 mg BID                | Amprenavir AUC  0.89 (0.77-1.03) Amprenavir C min  0.81 (0.69-0.96) Amprenavir C max  0.97 (0.85-1.10) Nevirapine AUC  1.14 (1.05-1.24) Nevirapine C min  1.22 (1.10-1.35) Nevirapine C  1.13 (1.03-1.24)                | Fosamprenavir/ritonavir and Viramune can be co-administered without dose adjustments                                                                                                                                                                                         |
+| Fosamprenavir/ritonavir 700/100 mg BID                | Amprenavir AUC  0.89 (0.77-1.03) Amprenavir C min  0.81 (0.69-0.96) Amprenavir C max  0.97 (0.85-1.10) Nevirapine AUC  1.14 (1.05-1.24) Nevirapine C min  1.22 (1.10-1.35) Nevirapine C max  1.13 (1.03-1.24)            | Fosamprenavir/ritonavir and Viramune can be co-administered without dose adjustments                                                                                                                                                                                         |
 |-------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Lopinavir/ritonavir (capsules) 400/100 mg BID         | Adult patients: Lopinavir AUC  0.73 (0.53-0.98) Lopinavir C min  0.54 (0.28-0.74) Lopinavir C max  0.81 (0.62-0.95)                                                                                                         | An increase in the dose of lopinavir/ritonavir to 533/133 mg (4 capsules) or 500/125 mg (5 tablets with 100/25 mg each) twice daily with food is recommended in combination with Viramune. Dose adjustment of Viramune is not required when co- administered with lopinavir. |
 | Lopinavir/ritonavir (oral solution) 300/75 mg/m 2 BID | Paediatric patients: Lopinavir AUC  0.78 (0.56-1.09) Lopinavir C min  0.45 (0.25-0.82) Lopinavir C max  0.86 (0.64-1.16)                                                                                                    | For children, increase of the dose of lopinavir/ritonavir to 300/75 mg/m 2 twice daily with food should be considered when used in combination with Viramune, particularly for patients in whom reduced susceptibility to lopinavir/ritonavir is suspected.                  |
@@ -1647,7 +1639,7 @@ The interaction data is presented as geometric mean value with 90% confidence in
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Enfuvirtide               | Due to the metabolic pathway no clinically significant pharmacokinetic interactions are expected between enfuvirtide and nevirapine.                                                                                                                                                                                                                                                               | Enfuvirtide and Viramune can be co-administered without dose adjustments.                                                                                                                                                                                                                                                                                                                                  |
 | Maraviroc 300 mg QD       | Maraviroc AUC  1.01 (0.6-1.55) Maraviroc C min ND Maraviroc C max  1.54 (0.94-2.52) compared to historical controls Nevirapine concentrations not measured, no effect is expected.                                                                                                                                                                                                               | Maraviroc and Viramune can be co-administered without dose adjustments.                                                                                                                                                                                                                                                                                                                                    |
-| INTEGRASE INHIBITORS      | INTEGRASE INHIBITORS                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| INTEGRASE INHIBITORS      | INTEGRASE INHIBITORS                                                                                                                                                                                                                                                                                                                                                                               | INTEGRASE INHIBITORS                                                                                                                                                                                                                                                                                                                                                                                       |
 | Elvitegravir/ cobicistat  | Interaction has not been studied. Cobicistat, a cytochrome P450 3A inhibitor significantly inhibits hepatic enzymes, as well as other metabolic pathways. Therefore coadministration would likely result in altered plasma levels of cobicistat and Viramune.                                                                                                                                      | Coadministration of Viramune with elvitegravir in combination with cobicistat is not recommended (see section 4.4).                                                                                                                                                                                                                                                                                        |
 | Raltegravir 400 mg BID    | No clinical data available. Due to the metabolic pathway of raltegravir no interaction is expected.                                                                                                                                                                                                                                                                                                | Raltegravir and Viramune can be co-administered without dose adjustments.                                                                                                                                                                                                                                                                                                                                  |
 | ANTIBIOTICS               | ANTIBIOTICS                                                                                                                                                                                                                                                                                                                                                                                        | ANTIBIOTICS                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -1703,7 +1695,7 @@ Women of childbearing potential should not use oral contraceptives as the sole m
 
 ## Pregnancy
 
-Currently available data on pregnant women indicate no malformative or foeto/ neonatal toxicity. To date no other relevant epidemiological data are available. No observable teratogenicity was detected in reproductive studies performed in pregnant rats and rabbits (see section 5.3). There are no adequate and well-controlled studies in pregnant women. Caution should be exercised when prescribing nevirapine to pregnant women (see section 4.4). As hepatotoxicity is more frequent in women with CD4+ cell counts above 250 cells/mm 3 with detectable HIV-1 RNA in plasma (50 or more copies/mL), these conditions should be taken in consideration on therapeutic decision (see section 4.4). There is not enough evidence to substantiate that the absence of an increased risk for toxicity seen in pre-treated women initiating nevirapine with an undetectable viral load (less than 50 copies/mL of HIV-1 in plasma) and CD4+ cell counts above 250 cells/mm 3 also applies to pregnant women. All the randomised studies addressing this issue specifically excluded pregnant women, and pregnant women were under-represented in cohort studies as well as in meta-analyses.
+Currently available data on pregnant women indicate no malformative or foeto/ neonatal toxicity. To date no other relevant epidemiological data are available. No observable teratogenicity was detected in reproductive studies performed in pregnant rats and rabbits (see section 5.3). There are no adequate and well-controlled studies in pregnant women. Caution should be exercised when prescribing nevirapine to pregnant women (see section 4.4). As hepatotoxicity is more frequent in women with CD4+ cell counts above 250 cells/mm 3  with detectable HIV-1 RNA in plasma (50 or more copies/mL), these conditions should be taken in consideration on therapeutic decision (see section 4.4). There is not enough evidence to substantiate that the absence of an increased risk for toxicity seen in pre-treated women initiating nevirapine with an undetectable viral load (less than 50 copies/mL of HIV-1 in plasma) and CD4+ cell counts above 250 cells/mm 3  also applies to pregnant women. All the randomised studies addressing this issue specifically excluded pregnant women, and pregnant women were under-represented in cohort studies as well as in meta-analyses.
 
 ## Breast-feeding
 
@@ -1837,11 +1829,9 @@ Hepatobiliary disorders
 
 Common
 
-hepatitis (incl. severe and life-threatening hepatotoxicity) (1.6%)
+hepatitis (incl. severe and life-threatening hepatotoxicity) (1.6%) jaundice, hepatitis fulminant (which may be fatal)
 
 Uncommon
-
-jaundice, hepatitis fulminant (which may be fatal)
 
 ## Skin and subcutaneous tissue disorders
 
@@ -1853,7 +1843,7 @@ Uncommon
 
 Stevens-Johnson Syndrome/toxic epidermal necrolysis (which may be fatal) (0.6%), angioedema, urticaria
 
-Musculoskeletal and connective tissue disorders
+## Musculoskeletal and connective tissue disorders
 
 Uncommon
 
@@ -1911,7 +1901,7 @@ The most frequently observed laboratory test abnormalities are elevations in liv
 
 hepatitis (severe and life-threatening hepatotoxicity, including fatal fulminant hepatitis) have been reported in patients treated with nevirapine. The best predictor of a serious hepatic event was elevated baseline liver function tests. The first 18 weeks of treatment is a critical period which requires close monitoring (see section 4.4).
 
-In study 1100.1486 (VERxVE) treatment-naïve patients received a lead-in dose of Viramune 200 mg immediate-release once daily for 14 days and then were randomised to receive either Viramune 200 mg immediate-release twice daily or Viramune 400 mg prolonged-release once daily. All patients received tenofovir + emtricitabine as background therapy. Patients were enrolled with CD4+ counts &lt; 250 cells/mm 3 for women and &lt; 400 cells/mm 3 for men. Data on potential symptoms of hepatic events were prospectively collected in this study. The safety data include all patient visits up to the time of the last patient's completion of study week 144. The incidence of symptomatic hepatic events during the Viramune immediate-release lead-in phase was 0.5%. After the lead-in period the incidence of symptomatic hepatic events was 2.4% in the Viramune immediate-release group and 1.6% in the Viramune prolonged-release group. Overall, there was a comparable incidence of symptomatic hepatic events among men and women enrolled in VERxVE.
+In study 1100.1486 (VERxVE) treatment-naïve patients received a lead-in dose of Viramune 200 mg immediate-release once daily for 14 days and then were randomised to receive either Viramune 200 mg immediate-release twice daily or Viramune 400 mg prolonged-release once daily. All patients received tenofovir + emtricitabine as background therapy. Patients were enrolled with CD4+ counts &lt; 250 cells/mm 3 for women and &lt; 400 cells/mm 3  for men. Data on potential symptoms of hepatic events were prospectively collected in this study. The safety data include all patient visits up to the time of the last patient's completion of study week 144. The incidence of symptomatic hepatic events during the Viramune immediate-release lead-in phase was 0.5%. After the lead-in period the incidence of symptomatic hepatic events was 2.4% in the Viramune immediate-release group and 1.6% in the Viramune prolonged-release group. Overall, there was a comparable incidence of symptomatic hepatic events among men and women enrolled in VERxVE.
 
 In study 1100.1526 (TRANxITION) no Grade 3 or 4 clinical hepatic events were observed in either treatment group.
 
@@ -2010,7 +2000,7 @@ Table 1: Demographic and Baseline Disease Characteristics in study 1100.1486
 
 * Includes 2 patients who were randomised but never received blinded medicinal products.
 
-** Includes American Indians/Alaska natives and Hawaiian/Pacific islanders.
+**  Includes American Indians/Alaska natives and Hawaiian/Pacific islanders.
 
 Table 2 describes week 48 outcomes in the VERxVE study (1100.1486). These outcomes include all patients who were randomised after the 14 day lead-in with Viramune immediate-release and received at least one dose of blinded medicinal product.
 
@@ -2027,11 +2017,7 @@ Table 2: Outcomes at week 48 in study 1100.1486*
 | - Adverse events                                | 8.3%                                 | 6.3%                                 |
 | - Other**                                       | 9.3%                                 | 9.4%                                 |
 
-* Includes patients who received at least one dose of blinded medicinal product after randomisation. Patients who discontinued treatment during the lead-in period are excluded.
-
-** Includes lost to follow-up, consent withdrawn, noncompliance, lack of efficacy, pregnancy, and other.
-
-At week 48, mean change from baseline in CD4+ cell count was 184 cells/mm 3 and 197 cells/mm 3 for the groups receiving Viramune immediate-release and Viramune prolonged-release respectively.
+At week 48, mean change from baseline in CD4+ cell count was 184 cells/mm 3  and 197 cells/mm 3 for the groups receiving Viramune immediate-release and Viramune prolonged-release respectively.
 
 Table 3 shows outcomes at 48-weeks in study 1100.1486 (after randomization) by baseline viral load.
 
@@ -2049,7 +2035,7 @@ Table 3: Outcomes at 48 weeks in study 1100.1486 by baseline viral load*
 
 * Includes patients who received at least one dose of blinded medicinal product after randomisation. Patients who discontinued treatment during the lead-in period are excluded.
 
-** Based on Cochran's statistic with continuity correction for the variance calculation
+**  Based on Cochran's statistic with continuity correction for the variance calculation
 
 The overall percentage of treatment responders observed in study 1100.1486 (including lead-in phase), regardless of the formulation is 793/1 068 = 74.3%. The denominator 1 068 includes 55 patients who stopped treatment during the lead in phase and two patients randomized but never treated with randomized dose. The numerator 793 is the number of patients who were treatment responders at 48 weeks (384 from immediate-release and 409 from prolonged-release treatment groups).
 
@@ -2078,7 +2064,7 @@ At 24 weeks after randomisation in the TRANxITION study, 92.6% and 93.6% of pati
 
 ## Paediatric population
 
-Results of a 48-week analysis of the South African study BI 1100.1368 confirmed that the 4/7 mg/kg and 150 mg/m 2 nevirapine dose groups were well tolerated and effective in treating antiretroviral naive paediatric patients. A marked improvement in the CD4+ cell percent was observed through Week 48
+Results of a 48-week analysis of the South African study BI 1100.1368 confirmed that the 4/7 mg/kg and 150 mg/m 2  nevirapine dose groups were well tolerated and effective in treating antiretroviral naive paediatric patients. A marked improvement in the CD4+ cell percent was observed through Week 48
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2132,7 +2118,7 @@ Nevirapine pharmacokinetics in HIV-1 infected adults does not appear to change w
 
 Data concerning the pharmacokinetics of nevirapine has been derived from two major sources: a 48 week paediatric study in South Africa (BI 1100.1368) involving 123 HIV-1 positive, antiretroviral naïve patients aged 3 months to 16 years; and a consolidated analysis of five Paediatric AIDS Clinical Trials Group (PACTG) protocols comprising 495 patients aged 14 days to 19 years.
 
-Pharmacokinetic data on 33 patients (age range 0.77-13.7 years) in the intensive sampling group demonstrated that clearance of nevirapine increased with increasing age in a manner consistent with increasing body surface area. Dosing of nevirapine at 150 mg/m 2 BID (after a two-week lead in at 150 mg/m 2 QD) produced geometric mean or mean trough nevirapine concentrations between 4-6 µg/mL (as targeted from adult data). In addition, the observed trough nevirapine concentrations were comparable between the two methods.
+Pharmacokinetic data on 33 patients (age range 0.77-13.7 years) in the intensive sampling group demonstrated that clearance of nevirapine increased with increasing age in a manner consistent with increasing body surface area. Dosing of nevirapine at 150 mg/m 2 BID (after a two-week lead in at 150 mg/m 2  QD) produced geometric mean or mean trough nevirapine concentrations between 4-6 µg/mL (as targeted from adult data). In addition, the observed trough nevirapine concentrations were comparable between the two methods.
 
 The consolidated analysis of Paediatric AIDS Clinical Trials Group (PACTG) protocols 245, 356, 366, 377, and 403 allowed for the evaluation of paediatric patients less than 3 months of age (n = 17) enrolled in these PACTG studies. The plasma nevirapine concentrations observed were within the range observed in adults and the remainder of the paediatric population, but were more variable between patients, particularly in the second month of age.
 
@@ -2170,7 +2156,7 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-Maintenance packs:
+## Maintenance packs:
 
 Polyvinyl chloride (PVC)/aluminium foil push-through blister units. Cartons containing
 
@@ -2190,9 +2176,7 @@ Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rh
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/97/055/007 (30 tablets, bottle)
-
-EU/1/97/055/008 (30 tablets, blister) EU/1/97/055/009 (90 tablets, blister)
+EU/1/97/055/007 (30 tablets, bottle) EU/1/97/055/008 (30 tablets, blister) EU/1/97/055/009 (90 tablets, blister)
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -2245,7 +2229,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -2253,14 +2237,14 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorization holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2. of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency.
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency.
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2310,13 +2294,11 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein
-
-Germany
+Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2346,8 +2328,6 @@ PC SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 BLISTER CARTON LABEL
@@ -2370,9 +2350,7 @@ Treatment initiation pack containing 14 tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
-
-Oral use
+Read the package leaflet before use Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2386,13 +2364,13 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein
-
-Germany
+Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2402,7 +2380,7 @@ EU/1/97/055/004
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2426,8 +2404,8 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -2496,13 +2474,11 @@ To be used within 6 months after opening the bottle
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein
-
-Germany
+Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2512,7 +2488,7 @@ EU/1/97/055/002
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2528,9 +2504,9 @@ Viramune 50 mg/5 mL
 
 PC SN
 
-NN
-
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2578,8 +2554,8 @@ To be used within 6 months after opening the bottle
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTSORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2644,15 +2620,11 @@ Use within 2 months after 1 st opening
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Boehringer Ingelheim International GmbH Binger Strasse 173
-
-55216 Ingelheim am Rhein
-
-Germany
+Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2732,8 +2704,8 @@ Use within 2 months after 1 st opening
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTSORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2798,13 +2770,13 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein
-
-Germany
+Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2830,21 +2802,14 @@ Viramune 400 mg prolonged-release tablets
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
-
-| 5.   | OTHER   |
-|------|---------|
-
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Viramune 400 mg prolonged-release tablets nevirapine
 
@@ -2860,7 +2825,8 @@ EXP
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2965,8 +2931,8 @@ You must take the dose of Viramune as prescribed by your doctor. This is especia
 The following patients are at increased risk of developing liver problems:
 
 - -women
-- -infected with hepatitis B or C
-- -abnormal liver function tests
+- -patients infected with hepatitis B or C
+- -patients with abnormal liver function tests
 - -treatment-naïve patients with higher CD4+ cell counts at the start of Viramune therapy (women more than 250 cells/mm³, men more than 400 cells/mm³)
 - -pre-treated patients with detectable HIV-1 plasma viral load and higher CD4+ cell counts at the start of Viramune therapy (women more than 250 cells/mm³, men more than 400 cells/mm³).
 
@@ -3306,9 +3272,7 @@ Boehringer Ingelheim Pharma GmbH &amp; Co. KG Tel: +49 (0) 800 77 90 900
 
 ## Nederland
 
-Boehringer Ingelheim B.V.
-
-Tel: +31 (0) 800 22 55 889
+Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Eesti
 
@@ -3318,13 +3282,11 @@ Tel: +372 612 8000
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Ελλάδα
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη
-
-Α.Ε.
+Boehringer Ingelheim Ελλάς Μονοπρόσωπη Α.Ε.
 
 Tηλ: +30 2 10 89 06 300
 
@@ -3334,33 +3296,23 @@ Boehringer Ingelheim RCV GmbH &amp; Co KG Tel: +43 1 80 105-7870
 
 ## España
 
-Boehringer Ingelheim España, S.A.
-
-Tel: +34 93 404 51 00
+Boehringer Ingelheim España, S.A. Tel: +34 93 404 51 00
 
 ## Polska
 
-Boehringer Ingelheim Sp. z o.o.
-
-Tel.: +48 22 699 0 699
+Boehringer Ingelheim Sp. z o.o. Tel.: +48 22 699 0 699
 
 ## France
 
-Boehringer Ingelheim France S.A.S.
-
-Tél: +33 3 26 50 45 33
+Boehringer Ingelheim France S.A.S. Tél: +33 3 26 50 45 33
 
 ## Portugal
 
-Boehringer Ingelheim Portugal, Lda.
-
-Tel: +351 21 313 53 00
+Boehringer Ingelheim Portugal, Lda. Tel: +351 21 313 53 00
 
 ## Hrvatska
 
-Boehringer Ingelheim Zagreb d.o.o.
-
-Tel: +385 1 2444 600
+Boehringer Ingelheim Zagreb d.o.o. Tel: +385 1 2444 600
 
 ## România
 
@@ -3368,9 +3320,7 @@ Boehringer Ingelheim RCV GmbH &amp; Co KG Viena - Sucursala Bucuresti Tel: +40 2
 
 ## Ireland
 
-Boehringer Ingelheim Ireland Ltd.
-
-Tel: +353 1 295 9620
+Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 
 ## Slovenija
 
@@ -3392,7 +3342,9 @@ Tel: +39 02 5355 1
 
 ## Κύπρος
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη Α.Ε.
+Boehringer Ingelheim Ελλάς Μονοπρόσωπη
+
+Α.Ε.
 
 Tηλ: +30 2 10 89 06 300
 
@@ -3425,12 +3377,6 @@ Puh/Tel: +358 10 3102 800
 Boehringer Ingelheim AB
 
 Tel: +46 8 721 21 00
-
-## United Kingdom (Northern Ireland)
-
-Boehringer Ingelheim Ireland Ltd.
-
-Tel: +353 1 295 9620
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3514,7 +3460,7 @@ If you experience severe rash or hypersensitivity (allergic reactions that may a
 
 YOU SHOULD DISCONTINUE TAKING VIRAMUNE AND YOU MUST CONTACT your doctor IMMEDIATELY as such reactions can be potentially life-threatening or lead to death. If you ever have only mild rash symptoms without any other reaction please inform your doctor immediately, who will advise you whether you should stop taking Viramune.
 
-## If you experience symptoms suggesting damage of the liver, such as
+If you experience symptoms suggesting damage of the liver, such as
 
 - -loss of appetite,
 - -feeling sick (nausea),
@@ -3531,8 +3477,8 @@ You must take the dose of Viramune as prescribed by your doctor. This is especia
 The following patients are at increased risk of developing liver problems:
 
 - -women
-- -infected with hepatitis B or C
-- -abnormal liver function tests
+- -patients infected with hepatitis B or C
+- -patients with abnormal liver function tests
 - -treatment-naïve patients with higher CD4+ cell counts at the start of Viramune therapy (women more than 250 cells/mm³, men more than 400 cells/mm³)
 - -pre-treated patients with detectable HIV-1 plasma viral load and higher CD4+ cell counts at the start of Viramune therapy (women more than 250 cells/mm³, men more than 400 cells/mm³).
 
@@ -3825,7 +3771,9 @@ methyl parahydroxybenzoate, propyl parahydroxybenzoate, sorbitol, sucrose, polys
 
 ## What Viramune looks like and contents of the pack
 
-Viramune oral suspension is a white to off-white homogenous suspension. Viramune oral suspension is supplied in plastic bottles of suspension for oral use, with 240 mL suspension per bottle.
+Viramune oral suspension is supplied in plastic bottles of suspension for oral use, with 240 mL
+
+Viramune oral suspension is a white to off-white homogenous suspension. suspension per bottle.
 
 Viramune is also supplied as 200 mg tablets for older children and adults.
 
@@ -3847,43 +3795,21 @@ For any information about this medicine, please contact the local representative
 
 Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
 
-## Lietuva
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas
-
-Tel.: +370 5 2595942
-
 ## България
 
 Бьорингер Ингелхайм РЦВ ГмбХ и Ко КГ - клон България Тел: +359 2 958 79 98
-
-## Luxembourg/Luxemburg
-
-Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
 
 ## Česká republika
 
 Boehringer Ingelheim spol. s r.o. Tel: +420 234 655 111
 
-## Magyarország
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Magyarországi Fióktelepe Tel.: +36 1 299 8900
-
 ## Danmark
 
 Boehringer Ingelheim Danmark A/S Tlf.: +45 39 15 88 88
 
-## Malta
-
-Boehringer Ingelheim Ireland Ltd. Tel: +35 31 295 9620
-
 ## Deutschland
 
 Boehringer Ingelheim Pharma GmbH &amp; Co. KG Tel: +49 (0) 800 77 90 900
-
-## Nederland
-
-Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Eesti
 
@@ -3891,59 +3817,71 @@ Boehringer Ingelheim RCV GmbH &amp; Co KG Eesti filiaal
 
 Tel: +372 612 8000
 
-## Norge
-
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
-
 ## Ελλάδα
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη
-
-Α.Ε.
+Boehringer Ingelheim Ελλάς Μονοπρόσωπη Α.Ε.
 
 Tηλ: +30 2 10 89 06 300
 
-## Österreich
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Tel: +43 1 80 105-7870
-
 ## España
 
-Boehringer Ingelheim España, S.A.
-
-Tel: +34 93 404 51 00
-
-## Polska
-
-Boehringer Ingelheim Sp. z o.o. Tel.: +48 22 699 0 699
+Boehringer Ingelheim España, S.A. Tel: +34 93 404 51 00
 
 ## France
 
-Boehringer Ingelheim France S.A.S.
-
-Tél: +33 3 26 50 45 33
-
-## Portugal
-
-Boehringer Ingelheim Portugal, Lda. Tel: +351 21 313 53 00
+Boehringer Ingelheim France S.A.S. Tél: +33 3 26 50 45 33
 
 ## Hrvatska
 
 Boehringer Ingelheim Zagreb d.o.o. Tel: +385 1 2444 600
 
-## România
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Viena - Sucursala Bucuresti Tel: +40 21 302 2800
-
 ## Ireland
 
 Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 
+## Lietuva
+
+Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas Tel.: +370 5 2595942
+
+## Luxembourg/Luxemburg
+
+Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
+
+## Magyarország
+
+Boehringer Ingelheim RCV GmbH &amp; Co KG Magyarországi Fióktelepe Tel.: +36 1 299 8900
+
+## Malta
+
+Boehringer Ingelheim Ireland Ltd. Tel: +35 31 295 9620
+
+## Nederland
+
+Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
+
+## Norge
+
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
+
+## Österreich
+
+Boehringer Ingelheim RCV GmbH &amp; Co KG Tel: +43 1 80 105-7870
+
+## Polska
+
+Boehringer Ingelheim Sp. z o.o. Tel.: +48 22 699 0 699
+
+## Portugal
+
+Boehringer Ingelheim Portugal, Lda. Tel: +351 21 313 53 00
+
+## România
+
+Boehringer Ingelheim RCV GmbH &amp; Co KG Viena - Sucursala Bucuresti Tel: +40 21 302 2800
+
 ## Slovenija
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Podružnica Ljubljana
-
-Tel: +386 1 586 40 00
+Boehringer Ingelheim RCV GmbH &amp; Co KG Podružnica Ljubljana Tel: +386 1 586 40 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3961,7 +3899,9 @@ Tel: +39 02 5355 1
 
 ## Κύπρος
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη Α.Ε.
+Boehringer Ingelheim Ελλάς Μονοπρόσωπη
+
+Α.Ε.
 
 Tηλ: +30 2 10 89 06 300
 
@@ -3995,19 +3935,11 @@ Boehringer Ingelheim AB
 
 Tel: +46 8 721 21 00
 
-## United Kingdom (Northern Ireland)
-
-Boehringer Ingelheim Ireland Ltd.
-
-Tel: +353 1 295 9620
-
 <div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the user
 
-## Viramune 400 mg prolonged-release tablets
-
-## nevirapine
+## Viramune 400 mg prolonged-release tablets nevirapine
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -4100,8 +4032,8 @@ You must take the dose of Viramune as prescribed by your doctor. This is especia
 The following patients are at increased risk of developing liver problems:
 
 - -women
-- -infected with hepatitis B or C
-- -abnormal liver function tests
+- -patientsinfected with hepatitis B or C
+- -patients with abnormal liver function tests
 - -treatment-naïve patients with higher CD4+ cell counts at the start of Viramune therapy (women more than 250 cells/mm³, men more than 400 cells/mm³)
 - -pre-treated patients with detectable HIV-1 plasma viral load and higher CD4+ cell counts at the start of Viramune therapy (women more than 250 cells/mm³, men more than 400 cells/mm³).
 
@@ -4426,43 +4358,21 @@ For any information about this medicine, please contact the local representative
 
 Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
 
-## Lietuva
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas
-
-Tel.: +370 5 2595942
-
 ## България
 
 Бьорингер Ингелхайм РЦВ ГмбХ и Ко КГ - клон България Тел: +359 2 958 79 98
-
-## Luxembourg/Luxemburg
-
-Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
 
 ## Česká republika
 
 Boehringer Ingelheim spol. s r.o. Tel: +420 234 655 111
 
-## Magyarország
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Magyarországi Fióktelepe Tel.: +36 1 299 8900
-
 ## Danmark
 
 Boehringer Ingelheim Danmark A/S Tlf.: +45 39 15 88 88
 
-## Malta
-
-Boehringer Ingelheim Ireland Ltd. Tel: +35 31 295 9620
-
 ## Deutschland
 
 Boehringer Ingelheim Pharma GmbH &amp; Co. KG Tel: +49 (0) 800 77 90 900
-
-## Nederland
-
-Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Eesti
 
@@ -4470,59 +4380,71 @@ Boehringer Ingelheim RCV GmbH &amp; Co KG Eesti filiaal
 
 Tel: +372 612 8000
 
-## Norge
-
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
-
 ## Ελλάδα
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη
-
-Α.Ε.
+Boehringer Ingelheim Ελλάς Μονοπρόσωπη Α.Ε.
 
 Tηλ: +30 2 10 89 06 300
 
-## Österreich
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG
-
-Tel: +43 1 80 105-7870
-
 ## España
 
-Boehringer Ingelheim España, S.A.
-
-Tel: +34 93 404 51 00
-
-## Polska
-
-Boehringer Ingelheim Sp. z o.o. Tel.: +48 22 699 0 699
+Boehringer Ingelheim España, S.A. Tel: +34 93 404 51 00
 
 ## France
 
 Boehringer Ingelheim France S.A.S. Tél: +33 3 26 50 45 33
 
-## Portugal
-
-Boehringer Ingelheim Portugal, Lda. Tel: +351 21 313 53 00
-
 ## Hrvatska
 
 Boehringer Ingelheim Zagreb d.o.o. Tel: +385 1 2444 600
-
-## România
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Viena - Sucursala Bucuresti Tel: +40 21 302 2800
 
 ## Ireland
 
 Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 
+## Lietuva
+
+Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas Tel.: +370 5 2595942
+
+## Luxembourg/Luxemburg
+
+Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
+
+## Magyarország
+
+Boehringer Ingelheim RCV GmbH &amp; Co KG Magyarországi Fióktelepe Tel.: +36 1 299 8900
+
+## Malta
+
+Boehringer Ingelheim Ireland Ltd. Tel: +35 31 295 9620
+
+## Nederland
+
+Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
+
+## Norge
+
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
+
+## Österreich
+
+Boehringer Ingelheim RCV GmbH &amp; Co KG Tel: +43 1 80 105-7870
+
+## Polska
+
+Boehringer Ingelheim Sp. z o.o. Tel.: +48 22 699 0 699
+
+## Portugal
+
+Boehringer Ingelheim Portugal, Lda. Tel: +351 21 313 53 00
+
+## România
+
+Boehringer Ingelheim RCV GmbH &amp; Co KG Viena - Sucursala Bucuresti Tel: +40 21 302 2800
+
 ## Slovenija
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Podružnica Ljubljana
-
-Tel: +386 1 586 40 00
+Boehringer Ingelheim RCV GmbH &amp; Co KG Podružnica Ljubljana Tel: +386 1 586 40 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4540,7 +4462,9 @@ Tel: +39 02 5355 1
 
 ## Κύπρος
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη Α.Ε.
+Boehringer Ingelheim Ελλάς Μονοπρόσωπη
+
+Α.Ε.
 
 Tηλ: +30 2 10 89 06 300
 
@@ -4573,9 +4497,3 @@ Puh/Tel: +358 10 3102 800
 Boehringer Ingelheim AB
 
 Tel: +46 8 721 21 00
-
-## United Kingdom (Northern Ireland)
-
-Boehringer Ingelheim Ireland Ltd.
-
-Tel: +353 1 295 9620

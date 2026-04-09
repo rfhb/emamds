@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 13:12:11
+document_datetime: 2026-04-07 15:24:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aerinaze.html
 document_name: aerinaze.html
 version: success
-processing_time: 0.1305492
-conversion_datetime: 2025-12-30 02:33:09.200803
+processing_time: 0.1328317
+conversion_datetime: 2026-04-09 12:21:40.800663
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Aerinaze
 
 [RSS](/en/individual-human-medicine.xml/65553)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-desloratadine / pseudoephedrine Medicine Human Authorised
+desloratadine / pseudoephedrine
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -104,263 +104,135 @@ Aerinaze : EPAR - Summary for the public
 
 English (EN) (57.22 KB - PDF)
 
-**First published:** 03/08/2007
-
-**Last updated:** 23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/en/documents/overview/aerinaze-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-217)
+[Other languages (21)](#file-language-dropdown-939)
 
 български (BG) (95.9 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/bg/documents/overview/aerinaze-epar-summary-public_bg.pdf)
 
 español (ES) (57.87 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/es/documents/overview/aerinaze-epar-summary-public_es.pdf)
 
 čeština (CS) (146.6 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/cs/documents/overview/aerinaze-epar-summary-public_cs.pdf)
 
 dansk (DA) (57.48 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/da/documents/overview/aerinaze-epar-summary-public_da.pdf)
 
 Deutsch (DE) (61.18 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/de/documents/overview/aerinaze-epar-summary-public_de.pdf)
 
 eesti keel (ET) (57.13 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/et/documents/overview/aerinaze-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (100.56 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/el/documents/overview/aerinaze-epar-summary-public_el.pdf)
 
 français (FR) (58.67 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/fr/documents/overview/aerinaze-epar-summary-public_fr.pdf)
 
 italiano (IT) (120.11 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/it/documents/overview/aerinaze-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (87.16 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/lv/documents/overview/aerinaze-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (144.17 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/lt/documents/overview/aerinaze-epar-summary-public_lt.pdf)
 
 magyar (HU) (81 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/hu/documents/overview/aerinaze-epar-summary-public_hu.pdf)
 
 Malti (MT) (164.93 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/mt/documents/overview/aerinaze-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (59.78 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/nl/documents/overview/aerinaze-epar-summary-public_nl.pdf)
 
 polski (PL) (87.53 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/pl/documents/overview/aerinaze-epar-summary-public_pl.pdf)
 
 português (PT) (117.57 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/pt/documents/overview/aerinaze-epar-summary-public_pt.pdf)
 
 română (RO) (83.33 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/ro/documents/overview/aerinaze-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (144.91 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/sk/documents/overview/aerinaze-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (81.07 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/sl/documents/overview/aerinaze-epar-summary-public_sl.pdf)
 
 Suomi (FI) (57.3 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/fi/documents/overview/aerinaze-epar-summary-public_fi.pdf)
 
 svenska (SV) (118.73 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-23/11/2011
+**First published:** 03/08/2007 **Last updated:** 23/11/2011
 
 [View](/sv/documents/overview/aerinaze-epar-summary-public_sv.pdf)
 
@@ -368,305 +240,161 @@ svenska (SV) (118.73 KB - PDF)
 
 Aerinaze : EPAR - Product Information
 
-English (EN) (367.21 KB - PDF)
+English (EN) (244.83 KB - PDF)
 
-**First published:** 08/07/2009
-
-**Last updated:** 10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/en/documents/product-information/aerinaze-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-548)
+[Other languages (24)](#file-language-dropdown-808)
 
-български (BG) (461.84 KB - PDF)
+български (BG) (360.93 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/bg/documents/product-information/aerinaze-epar-product-information_bg.pdf)
 
-español (ES) (389.61 KB - PDF)
+español (ES) (252.91 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/es/documents/product-information/aerinaze-epar-product-information_es.pdf)
 
-čeština (CS) (418.02 KB - PDF)
+čeština (CS) (307.61 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/cs/documents/product-information/aerinaze-epar-product-information_cs.pdf)
 
-dansk (DA) (381.89 KB - PDF)
+dansk (DA) (244.41 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/da/documents/product-information/aerinaze-epar-product-information_da.pdf)
 
-Deutsch (DE) (409.63 KB - PDF)
+Deutsch (DE) (260.62 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/de/documents/product-information/aerinaze-epar-product-information_de.pdf)
 
-eesti keel (ET) (414.09 KB - PDF)
+eesti keel (ET) (250.75 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/et/documents/product-information/aerinaze-epar-product-information_et.pdf)
 
-ελληνικά (EL) (427.72 KB - PDF)
+ελληνικά (EL) (321.21 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/el/documents/product-information/aerinaze-epar-product-information_el.pdf)
 
-français (FR) (408.33 KB - PDF)
+français (FR) (298.88 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/fr/documents/product-information/aerinaze-epar-product-information_fr.pdf)
 
-hrvatski (HR) (409.36 KB - PDF)
+hrvatski (HR) (297.62 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/hr/documents/product-information/aerinaze-epar-product-information_hr.pdf)
 
-íslenska (IS) (356.21 KB - PDF)
+íslenska (IS) (247.36 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/is/documents/product-information/aerinaze-epar-product-information_is.pdf)
 
-italiano (IT) (408.36 KB - PDF)
+italiano (IT) (257.38 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/it/documents/product-information/aerinaze-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (428.21 KB - PDF)
+latviešu valoda (LV) (293.66 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/lv/documents/product-information/aerinaze-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (427.15 KB - PDF)
+lietuvių kalba (LT) (293.21 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/lt/documents/product-information/aerinaze-epar-product-information_lt.pdf)
 
-magyar (HU) (416.23 KB - PDF)
+magyar (HU) (309.35 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/hu/documents/product-information/aerinaze-epar-product-information_hu.pdf)
 
-Malti (MT) (437.09 KB - PDF)
+Malti (MT) (327.31 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/mt/documents/product-information/aerinaze-epar-product-information_mt.pdf)
 
-Nederlands (NL) (392.51 KB - PDF)
+Nederlands (NL) (261.33 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/nl/documents/product-information/aerinaze-epar-product-information_nl.pdf)
 
-norsk (NO) (384.16 KB - PDF)
+norsk (NO) (245.07 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/no/documents/product-information/aerinaze-epar-product-information_no.pdf)
 
-polski (PL) (454.88 KB - PDF)
+polski (PL) (435.68 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/pl/documents/product-information/aerinaze-epar-product-information_pl.pdf)
 
-português (PT) (399.64 KB - PDF)
+português (PT) (379.13 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/pt/documents/product-information/aerinaze-epar-product-information_pt.pdf)
 
-română (RO) (397.33 KB - PDF)
+română (RO) (300.41 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/ro/documents/product-information/aerinaze-epar-product-information_ro.pdf)
 
-slovenčina (SK) (432.57 KB - PDF)
+slovenčina (SK) (316.49 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/sk/documents/product-information/aerinaze-epar-product-information_sk.pdf)
 
-slovenščina (SL) (422.73 KB - PDF)
+slovenščina (SL) (294.99 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/sl/documents/product-information/aerinaze-epar-product-information_sl.pdf)
 
-Suomi (FI) (385.01 KB - PDF)
+Suomi (FI) (267.99 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/fi/documents/product-information/aerinaze-epar-product-information_fi.pdf)
 
-svenska (SV) (371.86 KB - PDF)
+svenska (SV) (241.97 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-10/04/2024
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
 
 [View](/sv/documents/product-information/aerinaze-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** A31/0047 27/03/2024
+**Latest procedure affecting product information:** VR/0000335544
+
+07/04/2026
 
 icon globe
 
@@ -686,305 +414,163 @@ Aerinaze : EPAR - All Authorised presentations
 
 English (EN) (28.14 KB - PDF)
 
-**First published:** 03/08/2007
-
-**Last updated:** 12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/en/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-716)
+[Other languages (24)](#file-language-dropdown-854)
 
 български (BG) (59.31 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/bg/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (23.95 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/es/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (53.85 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/cs/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (23.8 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/da/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (23.88 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/de/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (30.74 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/et/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (78.41 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/el/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (30.02 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/fr/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (46.35 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/hr/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (43.44 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/is/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (43.26 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/it/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (73.48 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/lv/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (73.94 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/lt/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (74 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/hu/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (73.68 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/mt/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (43.47 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/nl/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (23.57 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/no/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (57.27 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/pl/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (43.47 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/pt/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (72.72 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/ro/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (73.81 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/sk/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (72.2 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/sl/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (43.25 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/fi/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (43.39 KB - PDF)
 
-**First published:**
-
-03/08/2007
-
-**Last updated:**
-
-12/10/2012
+**First published:** 03/08/2007 **Last updated:** 12/10/2012
 
 [View](/sv/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Aerinaze Active substance
+Name of medicine
+
+Aerinaze
+
+Active substance
 
 - desloratadine
 - pseudophedrine sulfate
@@ -994,7 +580,13 @@ International non-proprietary name (INN) or common name
 - desloratadine
 - pseudoephedrine
 
-Therapeutic area (MeSH) Rhinitis, Allergic, Seasonal Anatomical therapeutic chemical (ATC) code R01BA52
+Therapeutic area (MeSH)
+
+Rhinitis, Allergic, Seasonal
+
+Anatomical therapeutic chemical (ATC) code
+
+R01BA52
 
 ### Pharmacotherapeutic group
 
@@ -1006,13 +598,27 @@ Symptomatic treatment of seasonal allergic rhinitis when accompanied by nasal co
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000772 Marketing authorisation holder
+EMA product number
 
-N.V. Organon
+EMEA/H/C/000772
+
+Marketing authorisation holder
+
+Organon N.V.
 
 Kloosterstraat 6
 
-Opinion adopted 24/05/2007 Marketing authorisation issued 30/07/2007 Revision 23
+Opinion adopted
+
+24/05/2007
+
+Marketing authorisation issued
+
+30/07/2007
+
+Revision
+
+23
 
 ## Assessment history
 
@@ -1024,13 +630,19 @@ Collapse section
 
 Aerinaze : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (147.9 KB - PDF)
+English (EN) (153.34 KB - PDF)
 
-**First published:** 08/07/2009
-
-**Last updated:** 10/04/2024
+**First published:** 07/04/2026
 
 [View](/en/documents/procedural-steps-after/aerinaze-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Aerinaze : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (147.9 KB - PDF)
+
+**First published:** 08/07/2009 **Last updated:** 07/04/2026
+
+[View](/en/documents/procedural-steps-after/aerinaze-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Aerinaze : EPAR - Scientific conclusions for Article 31 referral - Divergent positions of CHMP
 
@@ -1048,213 +660,161 @@ English (EN) (113.04 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-927)
+[Other languages (25)](#file-language-dropdown-153)
 
 български (BG) (136.92 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/bg/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_bg.pdf)
 
 español (ES) (121.31 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/es/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_es.pdf)
 
 čeština (CS) (147.52 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/cs/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_cs.pdf)
 
 dansk (DA) (114.55 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/da/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_da.pdf)
 
 Deutsch (DE) (119.86 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/de/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_de.pdf)
 
 eesti keel (ET) (117.6 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/et/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_et.pdf)
 
 ελληνικά (EL) (139.9 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/el/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_el.pdf)
 
 français (FR) (114.93 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/fr/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_fr.pdf)
 
 hrvatski (HR) (143.57 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/hr/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_hr.pdf)
 
 íslenska (IS) (114.55 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/is/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_is.pdf)
 
 Gaeilge (GA) (119.55 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/ga/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_ga.pdf)
 
 italiano (IT) (120.98 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/it/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_it.pdf)
 
 latviešu valoda (LV) (147.61 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/lv/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_lv.pdf)
 
 lietuvių kalba (LT) (145.32 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/lt/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_lt.pdf)
 
 magyar (HU) (130.11 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/hu/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_hu.pdf)
 
 Malti (MT) (152.11 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/mt/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_mt.pdf)
 
 Nederlands (NL) (118.7 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/nl/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_nl.pdf)
 
 norsk (NO) (114.57 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/no/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_no.pdf)
 
 polski (PL) (128.89 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/pl/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_pl.pdf)
 
 português (PT) (122.04 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/pt/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_pt.pdf)
 
 română (RO) (133.08 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/ro/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_ro.pdf)
 
 slovenčina (SK) (140.95 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/sk/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_sk.pdf)
 
 slovenščina (SL) (133.01 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/sl/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_sl.pdf)
 
 Suomi (FI) (109.08 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/fi/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_fi.pdf)
 
 svenska (SV) (112.74 KB - PDF)
 
-**First published:**
-
-10/04/2024
+**First published:** 10/04/2024
 
 [View](/sv/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_sv.pdf)
 
 Aerinaze-H-A31-1526-C-000772-0047 : Assessment report
 
-Adopted
-
-Reference Number: EMA/89241/2024
+Adopted Reference Number: EMA/89241/2024
 
 English (EN) (373.44 KB - PDF)
 
@@ -1278,9 +838,7 @@ Reference Number: EMA/333803/2017
 
 English (EN) (101.36 KB - PDF)
 
-**First published:** 23/10/2017
-
-**Last updated:** 23/10/2017
+**First published:** 23/10/2017 **Last updated:** 23/10/2017
 
 [View](/en/documents/scientific-conclusion/aerinaze-h-c-psusa-00000962-201607-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
@@ -1290,9 +848,7 @@ Reference Number: EMA/CHMP/336111/2017
 
 English (EN) (68.54 KB - PDF)
 
-**First published:** 29/05/2017
-
-**Last updated:** 29/05/2017
+**First published:** 29/05/2017 **Last updated:** 29/05/2017
 
 [View](/en/documents/scientific-conclusion/aerinaze-h-c-psusa-963-201607-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
 
@@ -1302,9 +858,7 @@ Aerinaze : EPAR - Scientific Discussion
 
 English (EN) (394.64 KB - PDF)
 
-**First published:** 03/08/2007
-
-**Last updated:** 03/08/2007
+**First published:** 03/08/2007 **Last updated:** 03/08/2007
 
 [View](/en/documents/scientific-discussion/aerinaze-epar-scientific-discussion_en.pdf)
 
@@ -1312,19 +866,21 @@ Aerinaze : EPAR - Procedural steps taken before authorisation
 
 English (EN) (23.46 KB - PDF)
 
-**First published:** 03/08/2007
-
-**Last updated:** 03/08/2007
+**First published:** 03/08/2007 **Last updated:** 03/08/2007
 
 [View](/en/documents/procedural-steps/aerinaze-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### News on Aerinaze
+## News on Aerinaze
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 January 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-january-2024) 26/01/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 January 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-january-2024)
 
-[EMA confirms measures to minimise the risk of serious side effects with medicines containing pseudoephedrine](/en/news/ema-confirms-measures-minimise-risk-serious-side-effects-medicines-containing-pseudoephedrine) 26/01/2024
+26/01/2024
 
-#### More information on Aerinaze
+[EMA confirms measures to minimise the risk of serious side effects with medicines containing pseudoephedrine](/en/news/ema-confirms-measures-minimise-risk-serious-side-effects-medicines-containing-pseudoephedrine)
+
+26/01/2024
+
+## More information on Aerinaze
 
 Pseudoephedrine-containing medicinal products  Article-31 referral - Annex I (Aerinaze)
 
@@ -1336,16 +892,16 @@ English (EN) (365.6 KB - PDF)
 
 [View](/en/documents/amended-product-information/pseudoephedrine-containing-medicinal-products-article-31-referral-annex-i-aerinaze_en.pdf)
 
-#### More information on Aerinaze
+## More information on Aerinaze
 
 - [Pseudoephedrine-containing medicinal products - referral](/en/medicines/human/referrals/pseudoephedrine-containing-medicinal-products)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 10/04/2024
+**This page was last updated on**
+
+07/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

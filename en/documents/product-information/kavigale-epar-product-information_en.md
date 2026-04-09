@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-25 16:14:37
+document_datetime: 2026-04-07 13:04:17
 document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kavigale-epar-product-information_en.pdf
 document_name: kavigale-epar-product-information_en.pdf
 version: success
-processing_time: 6.5114091
-conversion_datetime: 2026-03-01 19:49:49.633414
+processing_time: 6.2723081
+conversion_datetime: 2026-04-09 12:26:01.610899
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -447,9 +447,9 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## Unopened vial
+Unopened vial
 
-30 months
+3 years
 
 In-use stability of prepared syringes and prepared infusion bags
 
@@ -960,7 +960,7 @@ AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor Sími: +354 535 7000
 
 ## Italia
 

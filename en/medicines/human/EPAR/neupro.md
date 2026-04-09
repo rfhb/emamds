@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:45:35
+document_datetime: 2026-04-07 16:06:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/neupro.html
 document_name: neupro.html
 version: success
-processing_time: 0.3946949
-conversion_datetime: 2025-12-30 02:32:42.339761
+processing_time: 0.1430778
+conversion_datetime: 2026-04-09 12:22:12.247539
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Neupro
 
 [RSS](/en/individual-human-medicine.xml/67058)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-rotigotine Medicine Human Authorised
+rotigotine
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -107,263 +107,135 @@ Neupro : EPAR - Summary for the public
 
 English (EN) (83.35 KB - PDF)
 
-**First published:** 07/01/2009
-
-**Last updated:** 12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/en/documents/overview/neupro-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-650)
+[Other languages (21)](#file-language-dropdown-972)
 
 български (BG) (111.74 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/bg/documents/overview/neupro-epar-summary-public_bg.pdf)
 
 español (ES) (107.31 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/es/documents/overview/neupro-epar-summary-public_es.pdf)
 
 čeština (CS) (133.85 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/cs/documents/overview/neupro-epar-summary-public_cs.pdf)
 
 dansk (DA) (84.14 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/da/documents/overview/neupro-epar-summary-public_da.pdf)
 
 Deutsch (DE) (109.08 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/de/documents/overview/neupro-epar-summary-public_de.pdf)
 
 eesti keel (ET) (105.4 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/et/documents/overview/neupro-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (111.99 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/el/documents/overview/neupro-epar-summary-public_el.pdf)
 
 français (FR) (108.52 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/fr/documents/overview/neupro-epar-summary-public_fr.pdf)
 
 italiano (IT) (84 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/it/documents/overview/neupro-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (107.02 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/lv/documents/overview/neupro-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (129.57 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/lt/documents/overview/neupro-epar-summary-public_lt.pdf)
 
 magyar (HU) (106.13 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/hu/documents/overview/neupro-epar-summary-public_hu.pdf)
 
 Malti (MT) (111.83 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/mt/documents/overview/neupro-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (108.15 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/nl/documents/overview/neupro-epar-summary-public_nl.pdf)
 
 polski (PL) (134.37 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/pl/documents/overview/neupro-epar-summary-public_pl.pdf)
 
 português (PT) (83.61 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/pt/documents/overview/neupro-epar-summary-public_pt.pdf)
 
 română (RO) (128.67 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/ro/documents/overview/neupro-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (133.18 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/sk/documents/overview/neupro-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (124.83 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/sl/documents/overview/neupro-epar-summary-public_sl.pdf)
 
 Suomi (FI) (83.56 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/fi/documents/overview/neupro-epar-summary-public_fi.pdf)
 
 svenska (SV) (83.56 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-12/03/2013
+**First published:** 07/01/2009 **Last updated:** 12/03/2013
 
 [View](/sv/documents/overview/neupro-epar-summary-public_sv.pdf)
 
@@ -371,305 +243,161 @@ svenska (SV) (83.56 KB - PDF)
 
 Neupro : EPAR - Product Information
 
-English (EN) (894.94 KB - PDF)
+English (EN) (936.34 KB - PDF)
 
-**First published:** 21/12/2009
-
-**Last updated:** 08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/en/documents/product-information/neupro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-362)
+[Other languages (24)](#file-language-dropdown-39)
 
 български (BG) (1.17 MB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/bg/documents/product-information/neupro-epar-product-information_bg.pdf)
 
-español (ES) (965.04 KB - PDF)
+español (ES) (1.22 MB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/es/documents/product-information/neupro-epar-product-information_es.pdf)
 
-čeština (CS) (1.07 MB - PDF)
+čeština (CS) (1.09 MB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/cs/documents/product-information/neupro-epar-product-information_cs.pdf)
 
-dansk (DA) (1.06 MB - PDF)
+dansk (DA) (1.41 MB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/da/documents/product-information/neupro-epar-product-information_da.pdf)
 
-Deutsch (DE) (1 MB - PDF)
+Deutsch (DE) (1011.06 KB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/de/documents/product-information/neupro-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.05 MB - PDF)
+eesti keel (ET) (933.72 KB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/et/documents/product-information/neupro-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.48 MB - PDF)
+ελληνικά (EL) (1.25 MB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/el/documents/product-information/neupro-epar-product-information_el.pdf)
 
-français (FR) (1.05 MB - PDF)
+français (FR) (1.27 MB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/fr/documents/product-information/neupro-epar-product-information_fr.pdf)
 
 hrvatski (HR) (1.03 MB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/hr/documents/product-information/neupro-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.05 MB - PDF)
+íslenska (IS) (951.3 KB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/is/documents/product-information/neupro-epar-product-information_is.pdf)
 
-italiano (IT) (1.7 MB - PDF)
+italiano (IT) (1.77 MB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/it/documents/product-information/neupro-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (1.25 MB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/lv/documents/product-information/neupro-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.18 MB - PDF)
+lietuvių kalba (LT) (1.19 MB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/lt/documents/product-information/neupro-epar-product-information_lt.pdf)
 
-magyar (HU) (1.16 MB - PDF)
+magyar (HU) (1.08 MB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/hu/documents/product-information/neupro-epar-product-information_hu.pdf)
 
-Malti (MT) (1.34 MB - PDF)
+Malti (MT) (1.42 MB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/mt/documents/product-information/neupro-epar-product-information_mt.pdf)
 
-Nederlands (NL) (939.48 KB - PDF)
+Nederlands (NL) (1.09 MB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/nl/documents/product-information/neupro-epar-product-information_nl.pdf)
 
-norsk (NO) (1.06 MB - PDF)
+norsk (NO) (923.45 KB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/no/documents/product-information/neupro-epar-product-information_no.pdf)
 
-polski (PL) (1.42 MB - PDF)
+polski (PL) (1.45 MB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/pl/documents/product-information/neupro-epar-product-information_pl.pdf)
 
-português (PT) (929.11 KB - PDF)
+português (PT) (943.48 KB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/pt/documents/product-information/neupro-epar-product-information_pt.pdf)
 
-română (RO) (1.28 MB - PDF)
+română (RO) (1.27 MB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/ro/documents/product-information/neupro-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.19 MB - PDF)
+slovenčina (SK) (1.22 MB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/sk/documents/product-information/neupro-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.18 MB - PDF)
+slovenščina (SL) (1.1 MB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/sl/documents/product-information/neupro-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.12 MB - PDF)
+Suomi (FI) (1001.12 KB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/fi/documents/product-information/neupro-epar-product-information_fi.pdf)
 
-svenska (SV) (1.15 MB - PDF)
+svenska (SV) (1.65 MB - PDF)
 
-**First published:**
-
-21/12/2009
-
-**Last updated:**
-
-08/05/2025
+**First published:** 21/12/2009 **Last updated:** 07/04/2026
 
 [View](/sv/documents/product-information/neupro-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000268621 08/05/2025
+**Latest procedure affecting product information:** N/0000339937
+
+07/04/2026
 
 icon globe
 
@@ -689,310 +417,178 @@ Neupro : EPAR - All Authorised presentations
 
 English (EN) (59.51 KB - PDF)
 
-**First published:** 07/01/2009
-
-**Last updated:** 04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/en/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-140)
+[Other languages (24)](#file-language-dropdown-222)
 
 български (BG) (88.03 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/bg/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (57.27 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/es/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (91.35 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/cs/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (54.85 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/da/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (55.76 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/de/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (55.86 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/et/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (90.93 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/el/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (55.36 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/fr/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (91.65 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/hr/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (55.89 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/is/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (54.16 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/it/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (108.36 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/lv/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (94.64 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/lt/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (89.47 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/hu/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (99.64 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/mt/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (53.08 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/nl/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (54.43 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/no/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (100.5 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/pl/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (55.15 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/pt/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (91.45 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/ro/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (86.5 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/sk/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (94.09 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/sl/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (54.47 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/fi/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (54.87 KB - PDF)
 
-**First published:**
-
-07/01/2009
-
-**Last updated:**
-
-04/07/2017
+**First published:** 07/01/2009 **Last updated:** 04/07/2017
 
 [View](/sv/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Neupro Active substance rotigotine International non-proprietary name (INN) or common name rotigotine Therapeutic area (MeSH)
+Name of medicine
+
+Neupro
+
+Active substance
+
+rotigotine
+
+International non-proprietary name (INN) or common name
+
+rotigotine
+
+Therapeutic area (MeSH)
 
 - Restless Legs Syndrome
 - Parkinson Disease
 
-Anatomical therapeutic chemical (ATC) code N04BC09
+Anatomical therapeutic chemical (ATC) code
+
+N04BC09
 
 ### Pharmacotherapeutic group
 
@@ -1006,13 +602,27 @@ Restless-legs syndrome: Neupro is indicated for the symptomatic treatment of mod
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000626 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000626
+
+Marketing authorisation holder
 
 UCB Pharma S.A.
 
 Allée de la Recherche 60
 
-Opinion adopted 15/12/2005 Marketing authorisation issued 15/02/2006 Revision 36
+Opinion adopted
+
+15/12/2005
+
+Marketing authorisation issued
+
+15/02/2006
+
+Revision
+
+37
 
 ## Assessment history
 
@@ -1024,11 +634,9 @@ Collapse section
 
 Neupro : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (143.98 KB - PDF)
+English (EN) (150.56 KB - PDF)
 
-**First published:** 19/02/2025
-
-**Last updated:** 08/05/2025
+**First published:** 19/02/2025 **Last updated:** 07/04/2026
 
 [View](/en/documents/procedural-steps-after/neupro-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1036,17 +644,13 @@ Neupro : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (255.53 KB - PDF)
 
-**First published:** 21/12/2009
-
-**Last updated:** 01/08/2024
+**First published:** 21/12/2009 **Last updated:** 01/08/2024
 
 [View](/en/documents/procedural-steps-after/neupro-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Neupro-H-C-000626-P46-048 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/550890/2023
+Adopted Reference Number: EMA/550890/2023
 
 English (EN) (401.59 KB - PDF)
 
@@ -1056,9 +660,7 @@ English (EN) (401.59 KB - PDF)
 
 Neupro-H-C-000626-P46-047 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/550893/2023
+Adopted Reference Number: EMA/CHMP/550893/2023
 
 English (EN) (592.74 KB - PDF)
 
@@ -1072,9 +674,7 @@ Reference Number: EMA/12301/2018
 
 English (EN) (68.49 KB - PDF)
 
-**First published:** 10/01/2018
-
-**Last updated:** 10/01/2018
+**First published:** 10/01/2018 **Last updated:** 10/01/2018
 
 [View](/en/documents/scientific-conclusion/neupro-h-c-psusa-00002667-201702-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
@@ -1084,9 +684,7 @@ Adopted
 
 English (EN) (1.54 MB - PDF)
 
-**First published:** 06/10/2016
-
-**Last updated:** 06/10/2016
+**First published:** 06/10/2016 **Last updated:** 06/10/2016
 
 [View](/en/documents/variation-report/neupro-h-c-626-p46-046-epar-assessment-report_en.pdf)
 
@@ -1096,9 +694,7 @@ Reference Number: EMA/CHMP/714245/2014
 
 English (EN) (67.8 KB - PDF)
 
-**First published:** 09/12/2014
-
-**Last updated:** 09/12/2014
+**First published:** 09/12/2014 **Last updated:** 09/12/2014
 
 [View](/en/documents/scientific-conclusion/neupro-h-c-626-psuv-0063-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
@@ -1106,9 +702,7 @@ Neupro-H-C-626-II-19 : EPAR - Assessment Report - Variation
 
 English (EN) (487 KB - PDF)
 
-**First published:** 07/01/2009
-
-**Last updated:** 07/01/2009
+**First published:** 07/01/2009 **Last updated:** 07/01/2009
 
 [View](/en/documents/variation-report/neupro-h-c-626-ii-19-epar-assessment-report-variation_en.pdf)
 
@@ -1118,23 +712,17 @@ Adopted
 
 English (EN) (26.81 KB - PDF)
 
-**First published:** 01/01/2009
-
-**Last updated:** 01/01/2009
+**First published:** 01/01/2009 **Last updated:** 01/01/2009
 
 [View](/en/documents/scientific-conclusion/neupro-h-c-626-ii-24-epar-scientific-conclusion-variation_en.pdf)
 
 Committee for medicinal products for human use, post-authorisation summary of positive opinion for Neupro on 24 April 2008
 
-Adopted
-
-Reference Number: EMEA/CHMP/174788/2008
+Adopted Reference Number: EMEA/CHMP/174788/2008
 
 English (EN) (33.16 KB - PDF)
 
-**First published:** 24/04/2008
-
-**Last updated:** 26/05/2011
+**First published:** 24/04/2008 **Last updated:** 26/05/2011
 
 [View](/en/documents/smop/committee-medicinal-products-human-use-post-authorisation-summary-positive-opinion-neupro-24-april-2008_en.pdf)
 
@@ -1144,9 +732,7 @@ Adopted
 
 English (EN) (569.55 KB - PDF)
 
-**First published:** 26/01/2007
-
-**Last updated:** 26/01/2007
+**First published:** 26/01/2007 **Last updated:** 26/01/2007
 
 [View](/en/documents/scientific-discussion-variation/neupro-h-c-626-ii-03-epar-scientific-discussion-variation_en.pdf)
 
@@ -1156,9 +742,7 @@ Neupro : EPAR - Procedural steps taken before authorisation
 
 English (EN) (85.99 KB - PDF)
 
-**First published:** 09/03/2006
-
-**Last updated:** 09/03/2006
+**First published:** 09/03/2006 **Last updated:** 09/03/2006
 
 [View](/en/documents/procedural-steps/neupro-epar-procedural-steps-taken-authorisation_en.pdf)
 
@@ -1166,224 +750,174 @@ Neupro : EPAR - Scientific Discussion
 
 English (EN) (618.7 KB - PDF)
 
-**First published:** 09/03/2006
-
-**Last updated:** 09/03/2006
+**First published:** 09/03/2006 **Last updated:** 09/03/2006
 
 [View](/en/documents/scientific-discussion/neupro-epar-scientific-discussion_en.pdf)
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Neupro : EPAR - Product information - tracked changes
 
-English (EN) (1.93 MB - DOC)
+English (EN) (1.95 MB - DOC)
 
-**First published:** 08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/en/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_en.doc)
 
-[Other languages (24)](#file-language-dropdown-993)
+[Other languages (24)](#file-language-dropdown-874)
 
-български (BG) (2.25 MB - DOC)
+български (BG) (2.24 MB - DOC)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/bg/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_bg.doc)
 
-español (ES) (583.64 KB - DOCX)
+español (ES) (598.89 KB - DOCX)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/es/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (785.13 KB - DOCX)
+čeština (CS) (788.42 KB - DOCX)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/cs/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (578.95 KB - DOCX)
+dansk (DA) (581.43 KB - DOCX)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/da/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (624.53 KB - DOCX)
+Deutsch (DE) (631.64 KB - DOCX)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/de/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (2.48 MB - DOC)
+eesti keel (ET) (2.49 MB - DOC)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/et/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_et.doc)
 
-ελληνικά (EL) (640.67 KB - DOCX)
+ελληνικά (EL) (673.33 KB - DOCX)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/el/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (4.24 MB - DOCX)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/fr/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (2.2 MB - DOC)
+hrvatski (HR) (2.18 MB - DOC)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/hr/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_hr.doc)
 
-íslenska (IS) (599.92 KB - DOCX)
+íslenska (IS) (605.36 KB - DOCX)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/is/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (843.61 KB - DOCX)
+italiano (IT) (851.72 KB - DOCX)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/it/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (635.65 KB - DOCX)
+latviešu valoda (LV) (638.01 KB - DOCX)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/lv/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (566.86 KB - DOCX)
+lietuvių kalba (LT) (568.78 KB - DOCX)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/lt/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (615.76 KB - DOCX)
+magyar (HU) (616.95 KB - DOCX)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/hu/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (587.47 KB - DOCX)
+Malti (MT) (587.17 KB - DOCX)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/mt/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (2.95 MB - DOC)
+Nederlands (NL) (2.96 MB - DOC)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/nl/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_nl.doc)
 
-norsk (NO) (883.04 KB - DOCX)
+norsk (NO) (891.97 KB - DOCX)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/no/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (3.26 MB - DOC)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/pl/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_pl.doc)
 
-português (PT) (733.14 KB - DOCX)
+português (PT) (645.41 KB - DOCX)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/pt/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (685.93 KB - DOCX)
+română (RO) (694.09 KB - DOCX)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/ro/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (539.42 KB - DOCX)
+slovenčina (SK) (564.4 KB - DOCX)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/sk/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (2.94 MB - DOC)
+slovenščina (SL) (2.96 MB - DOC)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/sl/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_sl.doc)
 
-Suomi (FI) (571.31 KB - DOCX)
+Suomi (FI) (580.46 KB - DOCX)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/fi/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (538.4 KB - DOCX)
+svenska (SV) (560.23 KB - DOCX)
 
-**First published:**
-
-08/05/2025
+**First published:** 08/05/2025 **Last updated:** 07/04/2026
 
 [View](/sv/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_sv.docx)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 08/05/2025
+**This page was last updated on**
+
+07/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

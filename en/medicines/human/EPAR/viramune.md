@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 08:22:17
+document_datetime: 2026-04-07 16:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/viramune.html
 document_name: viramune.html
 version: success
-processing_time: 0.1109033
-conversion_datetime: 2025-12-30 01:38:51.679033
+processing_time: 0.1034108
+conversion_datetime: 2026-04-09 12:37:09.285499
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Viramune
 
 [RSS](/en/individual-human-medicine.xml/66923)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-nevirapine Medicine Human Authorised
+nevirapine
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -87,275 +87,141 @@ Reference Number: EMA/48208/2025
 
 English (EN) (133.18 KB - PDF)
 
-**First published:** 21/10/2009
-
-**Last updated:** 04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/en/documents/overview/viramune-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-298)
+[Other languages (22)](#file-language-dropdown-528)
 
 български (BG) (158.36 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/bg/documents/overview/viramune-epar-medicine-overview_bg.pdf)
 
 español (ES) (133.59 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/es/documents/overview/viramune-epar-medicine-overview_es.pdf)
 
 čeština (CS) (157.19 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/cs/documents/overview/viramune-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (133.76 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/da/documents/overview/viramune-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (137.09 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/de/documents/overview/viramune-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (131.13 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/et/documents/overview/viramune-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (159.78 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/el/documents/overview/viramune-epar-medicine-overview_el.pdf)
 
 français (FR) (134.29 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/fr/documents/overview/viramune-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (155.66 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/hr/documents/overview/viramune-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (132.53 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/it/documents/overview/viramune-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (172.14 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/lv/documents/overview/viramune-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (155.04 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/lt/documents/overview/viramune-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (156.97 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/hu/documents/overview/viramune-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (173.65 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/mt/documents/overview/viramune-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (134.73 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/nl/documents/overview/viramune-epar-medicine-overview_nl.pdf)
 
 polski (PL) (161.46 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/pl/documents/overview/viramune-epar-medicine-overview_pl.pdf)
 
 português (PT) (134.57 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/pt/documents/overview/viramune-epar-medicine-overview_pt.pdf)
 
 română (RO) (151.87 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/ro/documents/overview/viramune-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (157.77 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/sk/documents/overview/viramune-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (155.14 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/sl/documents/overview/viramune-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (130.41 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/fi/documents/overview/viramune-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (131.44 KB - PDF)
 
-**First published:**
-
-21/10/2009
-
-**Last updated:**
-
-04/03/2025
+**First published:** 21/10/2009 **Last updated:** 04/03/2025
 
 [View](/sv/documents/overview/viramune-epar-medicine-overview_sv.pdf)
 
@@ -363,305 +229,161 @@ svenska (SV) (131.44 KB - PDF)
 
 Viramune : EPAR - Product Information
 
-English (EN) (597.06 KB - PDF)
+English (EN) (999.43 KB - PDF)
 
-**First published:** 11/06/2009
-
-**Last updated:** 17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/en/documents/product-information/viramune-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-189)
+[Other languages (24)](#file-language-dropdown-105)
 
-български (BG) (627.59 KB - PDF)
+български (BG) (1.11 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/bg/documents/product-information/viramune-epar-product-information_bg.pdf)
 
-español (ES) (589.09 KB - PDF)
+español (ES) (1.03 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/es/documents/product-information/viramune-epar-product-information_es.pdf)
 
-čeština (CS) (613.87 KB - PDF)
+čeština (CS) (1.09 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/cs/documents/product-information/viramune-epar-product-information_cs.pdf)
 
-dansk (DA) (579.06 KB - PDF)
+dansk (DA) (972.39 KB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/da/documents/product-information/viramune-epar-product-information_da.pdf)
 
-Deutsch (DE) (676.29 KB - PDF)
+Deutsch (DE) (1.17 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/de/documents/product-information/viramune-epar-product-information_de.pdf)
 
-eesti keel (ET) (567.36 KB - PDF)
+eesti keel (ET) (991.17 KB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/et/documents/product-information/viramune-epar-product-information_et.pdf)
 
-ελληνικά (EL) (647.68 KB - PDF)
+ελληνικά (EL) (1.16 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/el/documents/product-information/viramune-epar-product-information_el.pdf)
 
-français (FR) (621.72 KB - PDF)
+français (FR) (1.12 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/fr/documents/product-information/viramune-epar-product-information_fr.pdf)
 
-hrvatski (HR) (563.93 KB - PDF)
+hrvatski (HR) (1.03 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/hr/documents/product-information/viramune-epar-product-information_hr.pdf)
 
-íslenska (IS) (603.64 KB - PDF)
+íslenska (IS) (1.06 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/is/documents/product-information/viramune-epar-product-information_is.pdf)
 
-italiano (IT) (630.85 KB - PDF)
+italiano (IT) (1.08 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/it/documents/product-information/viramune-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (581.46 KB - PDF)
+latviešu valoda (LV) (1.02 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/lv/documents/product-information/viramune-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (586.29 KB - PDF)
+lietuvių kalba (LT) (1.08 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/lt/documents/product-information/viramune-epar-product-information_lt.pdf)
 
-magyar (HU) (643.72 KB - PDF)
+magyar (HU) (1.17 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/hu/documents/product-information/viramune-epar-product-information_hu.pdf)
 
-Malti (MT) (752.09 KB - PDF)
+Malti (MT) (1.23 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/mt/documents/product-information/viramune-epar-product-information_mt.pdf)
 
-Nederlands (NL) (626.36 KB - PDF)
+Nederlands (NL) (1.07 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/nl/documents/product-information/viramune-epar-product-information_nl.pdf)
 
-norsk (NO) (564.14 KB - PDF)
+norsk (NO) (902.78 KB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/no/documents/product-information/viramune-epar-product-information_no.pdf)
 
-polski (PL) (616.79 KB - PDF)
+polski (PL) (1.08 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/pl/documents/product-information/viramune-epar-product-information_pl.pdf)
 
-português (PT) (586.94 KB - PDF)
+português (PT) (1.02 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/pt/documents/product-information/viramune-epar-product-information_pt.pdf)
 
-română (RO) (734.79 KB - PDF)
+română (RO) (1.34 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/ro/documents/product-information/viramune-epar-product-information_ro.pdf)
 
-slovenčina (SK) (638.14 KB - PDF)
+slovenčina (SK) (1.2 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/sk/documents/product-information/viramune-epar-product-information_sk.pdf)
 
-slovenščina (SL) (577.21 KB - PDF)
+slovenščina (SL) (1.06 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/sl/documents/product-information/viramune-epar-product-information_sl.pdf)
 
-Suomi (FI) (631.76 KB - PDF)
+Suomi (FI) (1.01 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/fi/documents/product-information/viramune-epar-product-information_fi.pdf)
 
-svenska (SV) (587.11 KB - PDF)
+svenska (SV) (1.03 MB - PDF)
 
-**First published:**
-
-11/06/2009
-
-**Last updated:**
-
-17/10/2024
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
 
 [View](/sv/documents/product-information/viramune-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0165 15/10/2024
+**Latest procedure affecting product information:** N/0000339673
+
+07/04/2026
 
 icon globe
 
@@ -681,305 +403,177 @@ Viramune : EPAR - All Authorised presentations
 
 English (EN) (24.61 KB - PDF)
 
-**First published:** 12/03/2009
-
-**Last updated:** 21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/en/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-17)
+[Other languages (24)](#file-language-dropdown-710)
 
 български (BG) (27.64 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/bg/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (32.04 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/es/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (26.3 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/cs/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (26.2 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/da/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (26.5 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/de/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (24.19 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/et/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (28.17 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/el/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (24.96 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/fr/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (25.53 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/hr/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (26 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/is/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (25.21 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/it/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (25.34 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/lv/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (26.29 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/lt/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (26.45 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/hu/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (34.09 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/mt/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (25.27 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/nl/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (25.84 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/no/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (26.39 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/pl/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (25.12 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/pt/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (24.91 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/ro/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (26 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/sk/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (25.64 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/sl/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (24.33 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/fi/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (25.34 KB - PDF)
 
-**First published:**
-
-12/03/2009
-
-**Last updated:**
-
-21/04/2023
+**First published:** 12/03/2009 **Last updated:** 21/04/2023
 
 [View](/sv/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Viramune Active substance nevirapine International non-proprietary name (INN) or common name nevirapine Therapeutic area (MeSH) HIV Infections Anatomical therapeutic chemical (ATC) code J05AG01
+Name of medicine
+
+Viramune
+
+Active substance
+
+nevirapine
+
+International non-proprietary name (INN) or common name
+
+nevirapine
+
+Therapeutic area (MeSH)
+
+HIV Infections
+
+Anatomical therapeutic chemical (ATC) code
+
+J05AG01
 
 ### Pharmacotherapeutic group
 
@@ -1001,13 +595,27 @@ Most of the experience with Viramune is in combination with nucleoside reverse t
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000183 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000183
+
+Marketing authorisation holder
 
 Boehringer Ingelheim International GmbH
 
 D-55216 Ingelheim am Rhein
 
-Opinion adopted 22/10/1997 Marketing authorisation issued 04/02/1998 Revision 45
+Opinion adopted
+
+22/10/1997
+
+Marketing authorisation issued
+
+04/02/1998
+
+Revision
+
+46
 
 ## Assessment history
 
@@ -1019,25 +627,27 @@ Collapse section
 
 Viramune : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (332.75 KB - PDF)
+English (EN) (143.2 KB - PDF)
 
-**First published:** 11/06/2009
-
-**Last updated:** 17/10/2024
+**First published:** 07/04/2026
 
 [View](/en/documents/procedural-steps-after/viramune-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
+Viramune : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (332.75 KB - PDF)
+
+**First published:** 11/06/2009 **Last updated:** 07/04/2026
+
+[View](/en/documents/procedural-steps-after/viramune-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
 Viramune-H-C-183-X-95 : EPAR - Assessment Report - Extension
 
-Adopted
-
-Reference Number: EMA/538380/2011
+Adopted Reference Number: EMA/538380/2011
 
 English (EN) (1.34 MB - PDF)
 
-**First published:** 27/10/2011
-
-**Last updated:** 27/10/2011
+**First published:** 27/10/2011 **Last updated:** 27/10/2011
 
 [View](/en/documents/variation-report/viramune-h-c-183-x-95-epar-assessment-report-extension_en.pdf)
 
@@ -1045,9 +655,7 @@ Viramune : EPAR - Steps taken after authorisation when a cutoff date has been us
 
 English (EN) (122.23 KB - PDF)
 
-**First published:** 21/10/2005
-
-**Last updated:** 21/10/2005
+**First published:** 21/10/2005 **Last updated:** 21/10/2005
 
 [View](/en/documents/steps-after-cutoff/viramune-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
@@ -1057,9 +665,7 @@ Viramune : EPAR - Procedural steps taken before authorisation
 
 English (EN) (82.6 KB - PDF)
 
-**First published:** 21/10/2005
-
-**Last updated:** 21/10/2005
+**First published:** 21/10/2005 **Last updated:** 21/10/2005
 
 [View](/en/documents/procedural-steps/viramune-epar-procedural-steps-taken-authorisation_en.pdf)
 
@@ -1067,28 +673,30 @@ Viramune : EPAR - Scientific Discussion
 
 English (EN) (291.54 KB - PDF)
 
-**First published:** 21/10/2005
-
-**Last updated:** 21/10/2005
+**First published:** 21/10/2005 **Last updated:** 21/10/2005
 
 [View](/en/documents/scientific-discussion/viramune-epar-scientific-discussion_en.pdf)
 
-#### News on Viramune
+## News on Viramune
 
-[Updated advice on body fat changes and lactic acidosis with HIV medicines](/en/news/updated-advice-body-fat-changes-lactic-acidosis-hiv-medicines) 23/10/2015
+[Updated advice on body fat changes and lactic acidosis with HIV medicines](/en/news/updated-advice-body-fat-changes-lactic-acidosis-hiv-medicines)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 October 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-october-2015) 23/10/2015
+23/10/2015
 
-#### More information on Viramune
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 October 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-october-2015)
+
+23/10/2015
+
+## More information on Viramune
 
 - [EMEA-000391-PIP01-08-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000391-pip01-08-m01)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 04/03/2025
+**This page was last updated on**
+
+07/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

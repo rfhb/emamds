@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 09:56:27
+document_datetime: 2026-04-08 13:46:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rezzayo.html
 document_name: rezzayo.html
 version: success
-processing_time: 0.2978531
-conversion_datetime: 2025-12-31 01:42:45.573221
+processing_time: 0.1254585
+conversion_datetime: 2026-04-09 12:20:37.010501
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Rezzayo
 
 [RSS](/en/individual-human-medicine.xml/77411)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-rezafungin Medicine Human Authorised
+rezafungin
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -109,181 +109,137 @@ English (EN) (125.91 KB - PDF)
 
 [View](/en/documents/overview/rezzayo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-934)
+[Other languages (22)](#file-language-dropdown-34)
 
 български (BG) (119.29 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/bg/documents/overview/rezzayo-epar-medicine-overview_bg.pdf)
 
 español (ES) (104.12 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/es/documents/overview/rezzayo-epar-medicine-overview_es.pdf)
 
 čeština (CS) (114.97 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/cs/documents/overview/rezzayo-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (103.13 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/da/documents/overview/rezzayo-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (104.01 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/de/documents/overview/rezzayo-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (102.83 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/et/documents/overview/rezzayo-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (126.34 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/el/documents/overview/rezzayo-epar-medicine-overview_el.pdf)
 
 français (FR) (104.24 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/fr/documents/overview/rezzayo-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (110.29 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/hr/documents/overview/rezzayo-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (103.8 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/it/documents/overview/rezzayo-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (123.6 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/lv/documents/overview/rezzayo-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (114.34 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/lt/documents/overview/rezzayo-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (110.63 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/hu/documents/overview/rezzayo-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (115.77 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/mt/documents/overview/rezzayo-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (104.09 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/nl/documents/overview/rezzayo-epar-medicine-overview_nl.pdf)
 
 polski (PL) (115.15 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/pl/documents/overview/rezzayo-epar-medicine-overview_pl.pdf)
 
 português (PT) (103.67 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/pt/documents/overview/rezzayo-epar-medicine-overview_pt.pdf)
 
 română (RO) (112.09 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/ro/documents/overview/rezzayo-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (113.74 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/sk/documents/overview/rezzayo-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (109.5 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/sl/documents/overview/rezzayo-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (103.45 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/fi/documents/overview/rezzayo-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (103.11 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/sv/documents/overview/rezzayo-epar-medicine-overview_sv.pdf)
 
@@ -299,305 +255,161 @@ English (EN) (784.04 KB - PDF)
 
 Rezzayo : EPAR - Product information
 
-English (EN) (259.68 KB - PDF)
+English (EN) (417.02 KB - PDF)
 
-**First published:** 24/01/2024
-
-**Last updated:** 18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/en/documents/product-information/rezzayo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-310)
+[Other languages (24)](#file-language-dropdown-340)
 
-български (BG) (300.83 KB - PDF)
+български (BG) (636.44 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/bg/documents/product-information/rezzayo-epar-product-information_bg.pdf)
 
-español (ES) (209.93 KB - PDF)
+español (ES) (547.75 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/es/documents/product-information/rezzayo-epar-product-information_es.pdf)
 
-čeština (CS) (302.24 KB - PDF)
+čeština (CS) (657.62 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/cs/documents/product-information/rezzayo-epar-product-information_cs.pdf)
 
-dansk (DA) (214.14 KB - PDF)
+dansk (DA) (558.24 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/da/documents/product-information/rezzayo-epar-product-information_da.pdf)
 
-Deutsch (DE) (235.51 KB - PDF)
+Deutsch (DE) (580.15 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/de/documents/product-information/rezzayo-epar-product-information_de.pdf)
 
-eesti keel (ET) (188.59 KB - PDF)
+eesti keel (ET) (532.32 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/et/documents/product-information/rezzayo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (323.24 KB - PDF)
+ελληνικά (EL) (658.25 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/el/documents/product-information/rezzayo-epar-product-information_el.pdf)
 
-français (FR) (224.15 KB - PDF)
+français (FR) (598.91 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/fr/documents/product-information/rezzayo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (273.94 KB - PDF)
+hrvatski (HR) (606.47 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/hr/documents/product-information/rezzayo-epar-product-information_hr.pdf)
 
-íslenska (IS) (337.85 KB - PDF)
+íslenska (IS) (575.54 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/is/documents/product-information/rezzayo-epar-product-information_is.pdf)
 
-italiano (IT) (196.69 KB - PDF)
+italiano (IT) (549.62 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/it/documents/product-information/rezzayo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (275.12 KB - PDF)
+latviešu valoda (LV) (604.13 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/lv/documents/product-information/rezzayo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (271.46 KB - PDF)
+lietuvių kalba (LT) (600.64 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/lt/documents/product-information/rezzayo-epar-product-information_lt.pdf)
 
-magyar (HU) (285.32 KB - PDF)
+magyar (HU) (614.36 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/hu/documents/product-information/rezzayo-epar-product-information_hu.pdf)
 
-Malti (MT) (289.49 KB - PDF)
+Malti (MT) (681.61 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/mt/documents/product-information/rezzayo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (207.36 KB - PDF)
+Nederlands (NL) (564.6 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/nl/documents/product-information/rezzayo-epar-product-information_nl.pdf)
 
-norsk (NO) (221.03 KB - PDF)
+norsk (NO) (592.27 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/no/documents/product-information/rezzayo-epar-product-information_no.pdf)
 
-polski (PL) (288.28 KB - PDF)
+polski (PL) (634.13 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/pl/documents/product-information/rezzayo-epar-product-information_pl.pdf)
 
-português (PT) (314.75 KB - PDF)
+português (PT) (552.37 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/pt/documents/product-information/rezzayo-epar-product-information_pt.pdf)
 
-română (RO) (269.5 KB - PDF)
+română (RO) (588.98 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/ro/documents/product-information/rezzayo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (278.82 KB - PDF)
+slovenčina (SK) (625.1 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/sk/documents/product-information/rezzayo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (264.55 KB - PDF)
+slovenščina (SL) (593.95 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/sl/documents/product-information/rezzayo-epar-product-information_sl.pdf)
 
-Suomi (FI) (201.38 KB - PDF)
+Suomi (FI) (573.02 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/fi/documents/product-information/rezzayo-epar-product-information_fi.pdf)
 
-svenska (SV) (208.4 KB - PDF)
+svenska (SV) (521.23 KB - PDF)
 
-**First published:**
-
-24/01/2024
-
-**Last updated:**
-
-18/06/2025
+**First published:** 24/01/2024 **Last updated:** 08/04/2026
 
 [View](/sv/documents/product-information/rezzayo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0007 27/02/2025
+**Latest procedure affecting product information:** VR/0000334715
+
+07/04/2026
 
 icon globe
 
@@ -621,208 +433,174 @@ English (EN) (40.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-409)
+[Other languages (24)](#file-language-dropdown-476)
 
 български (BG) (47.07 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/bg/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (39.61 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/es/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (49 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/cs/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (41.18 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/da/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (41.5 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/de/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (37.57 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/et/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (53.68 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/el/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (37.87 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/fr/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (56.78 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/hr/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (40.63 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/is/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (37.63 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/it/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (55.75 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/lv/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (56.06 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/lt/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (48.63 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/hu/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (57 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/mt/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (37.96 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/nl/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (41.34 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/no/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (58.34 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/pl/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (40.92 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/pt/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (55.9 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/ro/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (57.18 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/sk/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (48.27 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/sl/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (39.15 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/fi/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (37.44 KB - PDF)
 
-**First published:**
-
-24/01/2024
+**First published:** 24/01/2024
 
 [View](/sv/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Rezzayo Active substance rezafungin International non-proprietary name (INN) or common name rezafungin Therapeutic area (MeSH)
+Name of medicine
+
+Rezzayo
+
+Active substance
+
+rezafungin
+
+International non-proprietary name (INN) or common name
+
+rezafungin
+
+Therapeutic area (MeSH)
 
 - Candidiasis
 - Candidiasis, Invasive
 
-Anatomical therapeutic chemical (ATC) code J02AX08
+Anatomical therapeutic chemical (ATC) code
+
+J02AX08
 
 ### Pharmacotherapeutic group
 
@@ -836,7 +614,9 @@ Consideration should be given to official guidance on the appropriate use of ant
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005900
+EMA product number
+
+EMEA/H/C/005900
 
 Additional monitoring
 
@@ -852,7 +632,17 @@ Mundipharma GmbH
 
 De-Saint-Exupery-Straße 10 Flughafen 60549 Frankfurt Am Main GERMANY
 
-Opinion adopted 12/10/2023 Marketing authorisation issued 22/12/2023 Revision 2
+Opinion adopted
+
+12/10/2023
+
+Marketing authorisation issued
+
+22/12/2023
+
+Revision
+
+3
 
 ## Assessment history
 
@@ -861,6 +651,14 @@ Expand section
 Collapse section
 
 ## Changes since initial authorisation of medicine
+
+Rezzayo : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (133.11 KB - PDF)
+
+**First published:** 08/04/2026
+
+[View](/en/documents/procedural-steps-after/rezzayo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Rezzayo : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
@@ -872,9 +670,7 @@ English (EN) (150.7 KB - PDF)
 
 Rezzayo-PAM-0000266096 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2064733
+Adopted Reference Number: EMADOC-1700519818-2064733
 
 English (EN) (307.28 KB - PDF)
 
@@ -886,9 +682,7 @@ English (EN) (307.28 KB - PDF)
 
 Rezzayo : EPAR - Public Assessment Report
 
-Adopted
-
-Reference Number: EMA/487522/2023
+Adopted Reference Number: EMA/487522/2023
 
 English (EN) (8.46 MB - PDF)
 
@@ -906,9 +700,7 @@ English (EN) (416.31 KB - PDF)
 
 CHMP summary of positive opinion for Rezzayo
 
-Adopted
-
-Reference Number: EMA/448724/2023
+Adopted Reference Number: EMA/448724/2023
 
 English (EN) (101.92 KB - PDF)
 
@@ -916,11 +708,13 @@ English (EN) (101.92 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-rezzayo_en.pdf)
 
-#### News on Rezzayo
+## News on Rezzayo
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 October 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-october-2023) 13/10/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 October 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-october-2023)
 
-#### Product information - with tracked changes
+13/10/2023
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -932,207 +726,159 @@ English (EN) (127.92 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-133)
+[Other languages (24)](#file-language-dropdown-990)
 
 български (BG) (124.66 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/bg/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (124.8 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/es/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (128.04 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/cs/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (120.59 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/da/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (127.67 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/de/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_de.docx)
 
 eesti keel (ET) (113.88 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/et/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (128.21 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/el/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (119.83 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/fr/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (119.45 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/hr/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_hr.docx)
 
 íslenska (IS) (121.04 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/is/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_is.docx)
 
 italiano (IT) (118.71 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/it/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_it.docx)
 
 latviešu valoda (LV) (138.1 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/lv/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_lv.docx)
 
 lietuvių kalba (LT) (116.84 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/lt/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (118.72 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/hu/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (121.94 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/mt/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (118.72 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/nl/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_nl.docx)
 
 norsk (NO) (122.49 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/no/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (122.58 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/pl/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (91.02 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/pt/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (113.08 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/ro/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (121.13 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/sk/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (114.04 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/sl/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_sl.docx)
 
 Suomi (FI) (142.81 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/fi/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (73.28 KB - DOCX)
 
-**First published:**
-
-18/06/2025
+**First published:** 18/06/2025
 
 [View](/sv/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Rezzayo
+## More information on Rezzayo
 
 - [EMEA-002319-PIP01-17-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002319-pip01-17-m03)
 - [EU/3/20/2385 - orphan designation for treatment of invasive candidiasis](/en/medicines/human/orphan-designations/eu-3-20-2385)
 
-**This page was last updated on** 11/09/2025
+**This page was last updated on**
+
+08/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

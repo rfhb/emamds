@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-20 17:07:28
+document_datetime: 2026-04-08 13:58:05
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/agamree-epar-product-information_en.pdf
 document_name: agamree-epar-product-information_en.pdf
 version: success
-processing_time: 8.1443454
-conversion_datetime: 2026-01-20 20:07:26.459341
+processing_time: 7.7207437
+conversion_datetime: 2026-04-09 12:32:41.976841
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,7 +56,7 @@ AGAMREE is indicated for the treatment of Duchenne muscular dystrophy (DMD) in p
 
 Treatment with AGAMREE should only be initiated by specialist physicians with experience in the management of Duchenne muscular dystrophy.
 
-Posology
+## Posology
 
 The recommended dose of vamorolone is 6 mg/kg once daily in patients weighing less than 40 kg.
 
@@ -113,9 +113,7 @@ The oral syringe should be disassembled after use, rinsed under running cold tap
 
 <div style=\"page-break-after: always\"></div>
 
-Administration of AGAMREE oral suspension via enteral feeding tube
-
-AGAMREE oral suspension may be administered through an enteral feeding tube (see section 6.6).
+Administration of AGAMREE oral suspension via enteral feeding tube AGAMREE oral suspension may be administered through an enteral feeding tube (see section 6.6).
 
 ## 4.3 Contraindications
 
@@ -477,49 +475,27 @@ Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
-## 6.3 Shelf life
-
-Before opening
-
-3 years.
-
-After first opening
-
-3 months.
-
-Store in a refrigerator (2 °C - 8 °C) in upright position
-
-## 6.4 Special precautions for storage
-
-This medicinal product does not require any special temperature storage conditions.
-
-For storage conditions after first opening of the medicinal product, see section 6.3.
-
-## 6.5 Nature and contents of container
-
-Amber coloured glass bottle containing 100 ml oral suspension with a polypropylene tamper evident child resistant closure with low density polyethylene liner.
-
-Each pack contains one bottle, one press-in bottle adapter (low density polyethylene) and two identical oral syringes (low density polyethylene) graduated from 0 to 8 ml by increments of 0.1 ml.
-
-## 6.6 Special precautions for disposal and other handling
-
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-Each oral syringe supplied with AGAMREE may be used for up to 45 days.
-
-## Use with an enteral feeding tube:
-
-AGAMREE can be administered through an enteral feeding tube (12 - 24 fr) without modification or dilution of the usual prescribed dose. AGAMREE should not be mixed with the feeding formula or other products. Flushing the enteral feeding tube with a minimum of 20 ml of water before and after administration of AGAMREE should be performed.
-
-## 7. MARKETING AUTHORISATION HOLDER
-
-Santhera Pharmaceuticals (Deutschland) GmbH Marie-Curie Strasse 8 D-79539 Lörrach GERMANY office@santhera.com
-
-## 8. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/23/1776/001
-
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+| 6.3                                                                                                                                                                                                                                                                                                                                                                                  | Shelf life                                                                                                                                                                                                                                                                                                                                                                           |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Before opening                                                                                                                                                                                                                                                                                                                                                                       | Before opening                                                                                                                                                                                                                                                                                                                                                                       |
+| 4 years.                                                                                                                                                                                                                                                                                                                                                                             | 4 years.                                                                                                                                                                                                                                                                                                                                                                             |
+| After first opening                                                                                                                                                                                                                                                                                                                                                                  | After first opening                                                                                                                                                                                                                                                                                                                                                                  |
+| 3 months. Store in a refrigerator (2 °C - 8 °C) in upright position                                                                                                                                                                                                                                                                                                                  | 3 months. Store in a refrigerator (2 °C - 8 °C) in upright position                                                                                                                                                                                                                                                                                                                  |
+| 6.4                                                                                                                                                                                                                                                                                                                                                                                  | Special precautions for storage                                                                                                                                                                                                                                                                                                                                                      |
+| This medicinal product does not require any special temperature storage conditions.                                                                                                                                                                                                                                                                                                  | This medicinal product does not require any special temperature storage conditions.                                                                                                                                                                                                                                                                                                  |
+| For storage conditions after first opening of the medicinal product, see section 6.3.                                                                                                                                                                                                                                                                                                | For storage conditions after first opening of the medicinal product, see section 6.3.                                                                                                                                                                                                                                                                                                |
+| 6.5                                                                                                                                                                                                                                                                                                                                                                                  | Nature and contents of container                                                                                                                                                                                                                                                                                                                                                     |
+| Amber coloured glass bottle containing 100 ml oral suspension with a polypropylene tamper evident child resistant closure with low density polyethylene liner.                                                                                                                                                                                                                       | Amber coloured glass bottle containing 100 ml oral suspension with a polypropylene tamper evident child resistant closure with low density polyethylene liner.                                                                                                                                                                                                                       |
+| Each pack contains one bottle, one press-in bottle adapter (low density polyethylene) and two identical oral syringes (low density polyethylene) graduated from 0 to 8 ml by increments of 0.1 ml.                                                                                                                                                                                   | Each pack contains one bottle, one press-in bottle adapter (low density polyethylene) and two identical oral syringes (low density polyethylene) graduated from 0 to 8 ml by increments of 0.1 ml.                                                                                                                                                                                   |
+| 6.6                                                                                                                                                                                                                                                                                                                                                                                  | Special precautions for disposal and other handling                                                                                                                                                                                                                                                                                                                                  |
+| Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                                                                                                                                                                                                                                                                          | Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                                                                                                                                                                                                                                                                          |
+| Each oral syringe supplied with AGAMREE may be used for up to 45 days.                                                                                                                                                                                                                                                                                                               | Each oral syringe supplied with AGAMREE may be used for up to 45 days.                                                                                                                                                                                                                                                                                                               |
+| Use with an enteral feeding tube: AGAMREE can be administered through an enteral feeding tube (12 - 24 fr) without modification or dilution of the usual prescribed dose. AGAMREE should not be mixed with the feeding formula or other products. Flushing the enteral feeding tube with a minimum of 20 ml of water before and after administration of AGAMREE should be performed. | Use with an enteral feeding tube: AGAMREE can be administered through an enteral feeding tube (12 - 24 fr) without modification or dilution of the usual prescribed dose. AGAMREE should not be mixed with the feeding formula or other products. Flushing the enteral feeding tube with a minimum of 20 ml of water before and after administration of AGAMREE should be performed. |
+| 7.                                                                                                                                                                                                                                                                                                                                                                                   | MARKETING AUTHORISATION HOLDER                                                                                                                                                                                                                                                                                                                                                       |
+| Santhera Pharmaceuticals (Deutschland) GmbH Marie-Curie Strasse 8 D-79539 Lörrach GERMANY office@santhera.com                                                                                                                                                                                                                                                                        | Santhera Pharmaceuticals (Deutschland) GmbH Marie-Curie Strasse 8 D-79539 Lörrach GERMANY office@santhera.com                                                                                                                                                                                                                                                                        |
+| 8.                                                                                                                                                                                                                                                                                                                                                                                   | MARKETING AUTHORISATION NUMBER(S)                                                                                                                                                                                                                                                                                                                                                    |
+| EU/1/23/1776/001                                                                                                                                                                                                                                                                                                                                                                     | EU/1/23/1776/001                                                                                                                                                                                                                                                                                                                                                                     |
+| 9.                                                                                                                                                                                                                                                                                                                                                                                   | DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION                                                                                                                                                                                                                                                                                                                             |
 
 Date of first authorisation: 14 December 2023
 
@@ -639,8 +615,6 @@ Discard any remaining suspension within 3 months after first opening.
 
 Date of first opening:
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
@@ -660,6 +634,7 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 AGAMREE
@@ -672,6 +647,8 @@ AGAMREE
 
 PC SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
 <div style=\"page-break-after: always\"></div>
@@ -682,7 +659,9 @@ BOTTLE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-AGAMREE 40 mg/ml oral suspension vamorolone
+AGAMREE 40 mg/ml oral suspension
+
+vamorolone
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -694,7 +673,7 @@ Contains sodium benzoate (E 211). See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Oral suspension
+Oral suspension
 
 100 ml
 
@@ -724,17 +703,11 @@ Discard any remaining suspension within 3 months after first opening.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
-|-------|-----------------------------------------------------------------|
-
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Santhera Pharmaceuticals (Deutschland) GmbH Marie-Curie-Straße 8 D-79539 Lörrach
-
-Germany
+Santhera Pharmaceuticals (Deutschland) GmbH Marie-Curie-Straße 8 D-79539 Lörrach Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -752,7 +725,7 @@ Lot
 
 Not applicable
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 Not applicable
 
@@ -936,11 +909,11 @@ After taking your prescribed dose, disassemble the oral syringe, rinse the syrin
 
 |                            | Before taking/giving AGAMREE                                                                                                                                                                                                                                                                                                                                                                                                                                         |                            |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
-| Step 1                     | Make sure the child-resistant bottle cap is tightly secured and shake the bottle well.                                                                                                                                                                                                                                                                                                                                                                               |                            |
-| Step 2                     | Remove the child-resistant bottle cap by pushing it firmly down and turning it counter clockwise.                                                                                                                                                                                                                                                                                                                                                                    |                            |
-| Step 3                     | Firmly insert the bottle adapter into the bottle. This is to be done the first time that you open the bottle. The adapter must thereafter stay in the bottle. If you drop the bottle adapter, clean it under cold running water and air dry for at least 2 hours.                                                                                                                                                                                                    |                            |
+| Step 1                     | Make sure the child-resistant bottle cap is tightly secured and shake the bottle                                                                                                                                                                                                                                                                                                                                                                                     | well.                      |
+| Step 2                     | Remove the child-resistant bottle cap by pushing it firmly down and turning it                                                                                                                                                                                                                                                                                                                                                                                       | counter clockwise.         |
+| Step 3                     | Firmly insert the bottle adapter into the bottle. This is to be done the first time that you open the bottle. The adapter must thereafter stay in the bottle. If you drop the bottle adapter, clean it under cold running water and air dry for                                                                                                                                                                                                                      | at least 2 hours.          |
 | Preparing a dose ofAGAMREE | Preparing a dose ofAGAMREE                                                                                                                                                                                                                                                                                                                                                                                                                                           | Preparing a dose ofAGAMREE |
-| Step 4                     | Hold the bottle upright. Before inserting the tip of the oral syringe into the bottle adapter, push the plunger completely down toward the tip of the oral syringe. Insert the tip firmly into the opening of the bottle adapter                                                                                                                                                                                                                                     |                            |
+| Step 4                     | Hold the bottle upright. Before inserting the tip of the oral syringe into the bottle adapter, push the plunger completely down toward the tip of the oral syringe. Insert the tip firmly the bottle adapter                                                                                                                                                                                                                                                         | into the opening of        |
 | Step 5                     | Hold the oral syringe in place and carefully turn the bottle upside down. Pull the plunger out slowly until the desired amount of medicine is withdrawn into the oral syringe. If there are large air bubbles in the oral syringe (as seen on the figure on the left) or if you have drawn up the wrong dose of AGAMREE, insert the syringe tip firmly into the bottle adapter while the bottle is in an upright position. Push the plunger all the way down so that |                            |
 
 <div style=\"page-break-after: always\"></div>

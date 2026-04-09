@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-18 11:19:45
+document_datetime: 2026-04-08 11:32:49
 document_pages: 26
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rezzayo-epar-product-information_en.pdf
 document_name: rezzayo-epar-product-information_en.pdf
 version: success
-processing_time: 14.5411367
-conversion_datetime: 2025-12-14 21:49:41.178649
+processing_time: 5.9399603
+conversion_datetime: 2026-04-09 12:20:55.84972
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -92,7 +92,7 @@ The safety and efficacy of REZZAYO in children below 18 years have not yet been 
 
 ## Method of administration
 
-For intravenous use only.
+## For intravenous use only.
 
 After reconstitution and dilution (see section 6.6), the solution should be administered by slow intravenous infusion over approximately 1 hour, infusion time may be increased up to 180 minutes to manage any evolving symptoms of infusion-related reaction (see section 4.4).
 
@@ -126,7 +126,7 @@ Rezafungin may cause increased risk of phototoxicity. Patients should be advised
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -358,7 +358,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 Unopened vial
 
-3 years.
+3 4 years.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -414,8 +414,6 @@ DOSING TABLE - PREPARATION OF THE SOLUTION FOR INFUSION IN ADULTS
 |-------------|-------------------|----------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------|------------------------------|-------------------------------------------------|
 |         400 |                 2 |                                                             20 |                                                            9.5 | 20*                                                                |                          250 |                                             1.6 |
 |         200 |                 1 |                                                             10 |                                                            9.5 | 10                                                                 |                          250 |                                             0.8 |
-
-* 10 mL from each of two vials totalling 20 mL.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -541,11 +539,13 @@ Keep the vial in the outer carton in order to protect from light.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 Mundipharma GmbH, De-Saint-Exupery-Strasse 10, Frankfurt Am Main, 60549 Germany
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/23/1775/001
 
@@ -553,18 +553,22 @@ EU/1/23/1775/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN
 
@@ -601,11 +605,13 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
 ## Package leaflet: Information for the patient
 
-## REZZAYO 200 mg powder for concentrate for solution for infusion rezafungin
+## REZZAYO 200
 
-<!-- image -->
+## mg powder for concentrate for solution for infusion rezafungin
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -678,7 +684,7 @@ This medicine is unlikely to have an effect on driving or using machines.
 
 ## REZZAYO contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 3. How REZZAYO is given
 
@@ -718,7 +724,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects - tell your doctor or another healthcare professional immediately should you experience any of the following side effects:
 
-- -reddening of the skin, sensation of warmth, nausea (feeling sick), chest tightness - these may be signs you are having an infusion-related reaction (common - may affect up to 1 in 10 people).
+- -reddening of the skin, sensation of warmth, nausea (feeling sick), chest tightness -these may be signs you are having an infusion-related reaction (common -may affect up to 1 in 10 people).
 
 ## Other side effects
 
@@ -782,7 +788,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What REZZAYO contains
 
 - -The active substance is rezafungin. Each vial contains 200 mg rezafungin (as acetate).
-- -The other ingredients are mannitol, histidine, polysorbate 80, hydrochloric acid, sodium hydroxide (see section 2 'REZZAYO contains sodium').
+- -The other ingredients are mannitol, histidine, polysorbate 80, hydrochloric acid, sodium hydroxide (see section 2 'REZZAYO contains sodium' ).
 
 ## What REZZAYO looks like and contents of the pack
 
@@ -842,11 +848,9 @@ The infused total volume should be 250 mL, therefore, the volume of the intraven
 
 After dilution, the solution is to be discarded if particulate matter or discolouration is identified.
 
-DOSING TABLE - PREPARATION OF THE SOLUTION FOR INFUSION IN ADULTS
+## DOSING TABLE - PREPARATION OF THE SOLUTION FOR INFUSION IN ADULTS
 
 |   Dose (mg) |   Number of vials |   Volume to be removed from 250 mL intravenous bag/bottle (mL) |   Volume of water for injections to be added to each vial (mL) | Total reconstituted volume to add to intravenous bag/bottle (mL)   |   Total infusion volume (mL) |   Final infusion solution concentration (mg/mL) |
 |-------------|-------------------|----------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------|------------------------------|-------------------------------------------------|
 |         400 |                 2 |                                                             20 |                                                            9.5 | 20*                                                                |                          250 |                                             1.6 |
 |         200 |                 1 |                                                             10 |                                                            9.5 | 10                                                                 |                          250 |                                             0.8 |
-
-* 10 mL from each of two vials totalling 20 mL.

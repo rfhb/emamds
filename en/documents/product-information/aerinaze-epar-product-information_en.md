@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-04-10 08:26:21
-document_pages: 26
+document_datetime: 2026-04-07 12:58:53
+document_pages: 27
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/aerinaze-epar-product-information_en.pdf
 document_name: aerinaze-epar-product-information_en.pdf
 version: success
-processing_time: 5.1370824
-conversion_datetime: 2025-12-31 01:20:36.903064
+processing_time: 5.7589636
+conversion_datetime: 2026-04-09 12:32:02.30207
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -148,6 +148,16 @@ The administration of Aerinaze should be discontinued at least 48 hours before s
 
 Severe skin reactions such as acute generalised exanthematous pustulosis (AGEP) may occur with pseudoephedrine-containing products. Patients should be carefully monitored. If signs and symptoms such as pyrexia, erythema or many small pustules are observed, administration of Aerinaze should be discontinued and appropriate measures taken if needed.
 
+## Ischaemic optic neuropathy
+
+Cases of ischaemic optic neuropathy have been reported with pseudoephedrine. Pseudoephedrine should be discontinued and medical advice sought if sudden loss of vision or decreased visual acuity such as scotoma occurs.
+
+## Ischaemic colitis
+
+Some cases of ischaemic colitis have been reported with pseudoephedrine. Pseudoephedrine should be discontinued and medical advice sought if sudden abdominal pain, rectal bleeding or other symptoms of ischaemic colitis develop.
+
+<div style=\"page-break-after: always\"></div>
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 ## Aerinaze
@@ -160,8 +170,6 @@ The following combinations are not recommended:
 - lisuride, pergolide: risk of vasoconstriction and increase in blood pressure.
 
 No interaction studies have been performed with the combination of desloratadine and pseudoephedrine sulphate.
-
-<div style=\"page-break-after: always\"></div>
 
 The interaction with Aerinaze and alcohol has not been studied. However, in a clinical pharmacology trial desloratadine taken concomitantly with alcohol did not potentiate the performance impairing effects of alcohol. No significant differences were found in the psychomotor test results between desloratadine and placebo groups, whether administered alone or with alcohol. Alcohol use should be avoided during Aerinaze treatment.
 
@@ -195,7 +203,11 @@ There are no or limited amount of data (less than 300 pregnancy outcomes) from t
 
 ## Breast-feeding
 
-Desloratadine and pseudoephedrine sulphate have been identified in breastfed newborns/infants of treated women. There is insufficient information on the effects of desloratadine and pseudoephedrine sulphate in newborns/infants. Decreased milk production in nursing mothers has been reported with pseudoephedrine sulphate. Aerinaze should not be used during breast-feeding.
+Desloratadine and pseudoephedrine sulphate have been identified in breastfed newborns/infants of
+
+<div style=\"page-break-after: always\"></div>
+
+treated women. There is insufficient information on the effects of desloratadine and pseudoephedrine sulphate in newborns/infants. Decreased milk production in nursing mothers has been reported with pseudoephedrine sulphate. Aerinaze should not be used during breast-feeding.
 
 ## Fertility
 
@@ -203,11 +215,7 @@ There are no data available on male and female fertility.
 
 ## 4.7 Effects on ability to drive and use machines
 
-Aerinaze has no or negligible influence on the ability to drive and use machines. Patients should be informed that most people do not experience drowsiness. Nevertheless, as there is individual variation in response to all medicinal products, it is recommended that patients are advised not to engage in activities
-
-<div style=\"page-break-after: always\"></div>
-
-requiring mental alertness, such as driving a car or using machines, until they have established their own response to the medicinal product.
+Aerinaze has no or negligible influence on the ability to drive and use machines. Patients should be informed that most people do not experience drowsiness. Nevertheless, as there is individual variation in response to all medicinal products, it is recommended that patients are advised not to engage in activities requiring mental alertness, such as driving a car or using machines, until they have established their own response to the medicinal product.
 
 ## 4.8 Undesirable effects
 
@@ -220,6 +228,8 @@ In clinical trials involving 414 adults the most frequent of adverse reactions r
 Adverse reactions considered by investigators to be causally related to Aerinaze are listed below by System Organ Class. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+<div style=\"page-break-after: always\"></div>
 
 | System Organ Class                                   | Frequency       | Adverse reactions seen with Aerinaze                                                           |
 |------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------|
@@ -253,9 +263,11 @@ Other adverse reactions reported for desloratadine during the post-marketing per
 
 Other adverse reactions reported for pseudoephedrine-containing products during the post-marketing period are listed hereunder.
 
-| System Organ Class       | Frequency   | Adverse reactions                                                                                                                            |
-|--------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| Nervous system disorders | Not known   | Posterior reversible encephalopathy syndrome (PRES) (see section 4.4) Reversible cerebral vasoconstriction syndrome (RCVS) (see section 4.4) |
+| System Organ Class         | Frequency   | Adverse reactions                                                                                                                            |
+|----------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| Nervous system disorders   | Not known   | Posterior reversible encephalopathy syndrome (PRES) (see section 4.4) Reversible cerebral vasoconstriction syndrome (RCVS) (see section 4.4) |
+| Eye disorders              | Not known   | Ischaemic optic neuropathy                                                                                                                   |
+| Gastrointestinal disorders | Not known   | Ischaemic colitis                                                                                                                            |
 
 Cases of severe skin reactions such as acute generalised exanthematous pustulosis (AGEP) have been reported with pseudoephedrine-containing products.
 
@@ -263,15 +275,13 @@ Cases of severe skin reactions such as acute generalised exanthematous pustulosi
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.9 Overdose
 
 ## Symptoms
 
-Symptoms of overdose are mostly of a sympathomimetic nature. Symptoms may vary from CNS depression (sedation, apnoea, diminished mental alertness, cyanosis, coma, cardiovascular collapse) to
-
-<div style=\"page-break-after: always\"></div>
-
-CNS stimulation (insomnia, hallucination, tremors, convulsions) with possible fatal outcome. Other symptoms may include: headache, anxiety, micturition difficulty, muscle weakness and tenseness, euphoria, excitement, respiratory failure, cardiac arrhythmias, tachycardia, palpitations, thirst, perspiration, nausea, vomiting, precordial pain, dizziness, tinnitus, ataxia, blurred vision and hypertension or hypotension. CNS stimulation is particularly likely in children, as are atropine-like symptoms (dry mouth, fixed and dilated pupils, flushing, hyperthermia, and gastrointestinal symptoms). Some patients may present a toxic psychosis with delusions and hallucinations.
+Symptoms of overdose are mostly of a sympathomimetic nature. Symptoms may vary from CNS depression (sedation, apnoea, diminished mental alertness, cyanosis, coma, cardiovascular collapse) to CNS stimulation (insomnia, hallucination, tremors, convulsions) with possible fatal outcome. Other symptoms may include: headache, anxiety, micturition difficulty, muscle weakness and tenseness, euphoria, excitement, respiratory failure, cardiac arrhythmias, tachycardia, palpitations, thirst, perspiration, nausea, vomiting, precordial pain, dizziness, tinnitus, ataxia, blurred vision and hypertension or hypotension. CNS stimulation is particularly likely in children, as are atropine-like symptoms (dry mouth, fixed and dilated pupils, flushing, hyperthermia, and gastrointestinal symptoms). Some patients may present a toxic psychosis with delusions and hallucinations.
 
 ## Management
 
@@ -293,11 +303,13 @@ Desloratadine has demonstrated antiallergic properties from in vitro studies. Th
 
 Desloratadine does not readily penetrate the central nervous system. In a single dose study performed in adults, desloratadine 5 mg did not affect standard measures of flight performance including exacerbation of subjective sleepiness or tasks related to flying. In controlled clinical trials, at the recommended dose of 5 mg daily, there was no excess incidence of somnolence as compared to placebo. Desloratadine given at a single daily dose of 7.5 mg did not affect psychomotor performance in clinical trials.
 
-Pseudoephedrine sulphate (d-isoephedrine sulphate) is a sympathomimetic agent with mostly α -mimetic activity in comparison with the β -activity. Pseudoephedrine sulphate provides a nasal decongestant effect after oral administration due to its vasoconstrictive action. It has an indirect sympathomimetic effect due primarily to the release of adrenergic mediators from the post-ganglionic nerve endings.
-
-Oral administration of pseudoephedrine sulphate at the recommended dose can cause other sympathomimetic effects, such as increased blood pressure, tachycardia or manifestations of central nervous system excitation.
+Pseudoephedrine sulphate (d-isoephedrine sulphate) is a sympathomimetic agent with mostly αmimetic activity in comparison with the β-activity. Pseudoephedrine sulphate provides a nasal decongestant effect after oral administration due to its vasoconstrictive action. It has an indirect
 
 <div style=\"page-break-after: always\"></div>
+
+sympathomimetic effect due primarily to the release of adrenergic mediators from the post-ganglionic nerve endings.
+
+Oral administration of pseudoephedrine sulphate at the recommended dose can cause other sympathomimetic effects, such as increased blood pressure, tachycardia or manifestations of central nervous system excitation.
 
 ## Pharmacodynamic effects
 
@@ -305,7 +317,7 @@ The pharmacodynamic effects of Aerinaze tablets are directly related to that of 
 
 ## Clinical efficacy and safety
 
-The clinical efficacy and safety of Aerinaze tablets was evaluated in two, 2-week multicentre, randomized parallel group clinical trials involving 1,248 patients 12 to 78 years of age with seasonal allergic rhinitis, 414 of whom received Aerinaze tablets. In both trials, the antihistaminic efficacy of Aerinaze tablets as measured by total symptom score, excluding nasal congestion, was significantly greater than pseudoephedrine sulphate alone over the 2-week treatment period. In addition, the decongestant efficacy of Aerinaze tablets, as measured by nasal stuffiness/congestion, was significantly greater than desloratadine alone over the 2-week treatment period.
+The clinical efficacy and safety of Aerinaze tablets was evaluated in two, 2-week multicentre, randomised parallel group clinical trials involving 1,248 patients 12 to 78 years of age with seasonal allergic rhinitis, 414 of whom received Aerinaze tablets. In both trials, the antihistaminic efficacy of Aerinaze tablets as measured by total symptom score, excluding nasal congestion, was significantly greater than pseudoephedrine sulphate alone over the 2-week treatment period. In addition, the decongestant efficacy of Aerinaze tablets, as measured by nasal stuffiness/congestion, was significantly greater than desloratadine alone over the 2-week treatment period.
 
 There were no significant differences in the efficacy of Aerinaze tablets across subgroups of patients defined by gender, age, or race.
 
@@ -323,21 +335,19 @@ Following oral administration of Aerinaze for 14 days in normal healthy voluntee
 
 ## Absorption
 
-In a series of pharmacokinetic and clinical trials, 6 % of the subjects reached a higher concentration of desloratadine. The prevalence of this poor metabolizer phenotype was greater among Black adults than Caucasian adults (18 % vs. 2 %) however the safety profile of these subjects was not different from that of the general population. In a multiple-dose pharmacokinetic study conducted with the tablet formulation in healthy adult subjects, four subjects were found to be poor metabolisers of desloratadine. These subjects had a Cmax concentration about 3-fold higher at approximately 7 hours with a terminal phase half-life of approximately 89 hours.
+In a series of pharmacokinetic and clinical trials, 6 % of the subjects reached a higher concentration of desloratadine. The prevalence of this poor metaboliser phenotype was greater among Black adults than Caucasian adults (18 % vs. 2 %) however the safety profile of these subjects was not different from that of the general population. In a multiple-dose pharmacokinetic study conducted with the tablet formulation in healthy adult subjects, four subjects were found to be poor metabolisers of desloratadine. These subjects had a Cmax concentration about 3-fold higher at approximately 7 hours with a terminal phase half-life of approximately 89 hours.
 
 ## Distribution
 
 Desloratadine is moderately bound (83 % - 87 %) to plasma proteins.
 
+<div style=\"page-break-after: always\"></div>
+
 ## -Pseudoephedrine sulphate
 
 ## Absorption
 
-A component interaction study demonstrated that the exposure (Cmax and AUC) of pseudoephedrine sulphate following administration of pseudoephedrine sulphate alone was bioequivalent to
-
-<div style=\"page-break-after: always\"></div>
-
-pseudoephedrine sulphate exposure following administration of the Aerinaze tablet. Therefore absorption of pseudoephedrine sulphate was not affected by the Aerinaze formulation.
+A component interaction study demonstrated that the exposure (Cmax and AUC) of pseudoephedrine sulphate following administration of pseudoephedrine sulphate alone was bioequivalent to pseudoephedrine sulphate exposure following administration of the Aerinaze tablet. Therefore absorption of pseudoephedrine sulphate was not affected by the Aerinaze formulation.
 
 ## Distribution
 
@@ -367,15 +377,15 @@ Blue, immediate-release layer maize starch microcrystalline cellulose edetate di
 
 White, sustained-release layer hypromellose 2208 microcrystalline cellulose povidone K30 silicon dioxide magnesium stearate.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.2 Incompatibilities
 
 Not applicable.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.3 Shelf life
 
-2 years
+2 years.
 
 ## 6.4 Special precautions for storage
 
@@ -478,8 +488,10 @@ Each tablet contains 2.5 mg desloratadine and 120 mg pseudoephedrine sulphate
 
 2 modified-release tablets
 
-- 4 modified-release tablets
-- 7 modified-release tablets
+4 modified-release tablets
+
+7 modified-release tablets
+
 - 10 modified-release tablets
 - 14 modified-release tablets
 - 20 modified-release tablets
@@ -604,9 +616,7 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Aerinaze 2.5 mg/120 mg modified-release tablets
-
-desloratadine/pseudoephedrine sulphate
+## Aerinaze 2.5 mg/120 mg modified-release tablets desloratadine/pseudoephedrine sulphate
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -657,7 +667,7 @@ Certain conditions may make you unusually sensitive to the decongestant pseudoep
 <div style=\"page-break-after: always\"></div>
 
 - -if you have diabetes
-- -if you have intestinal ulcers leading to the narrowing of the stomach, small intestine or esophagus (stenosing peptic ulcer)
+- -if you have intestinal ulcers leading to the narrowing of the stomach, small intestine or oesophagus (stenosing peptic ulcer)
 - -if you have intestinal blockage (pyloral or duodenal blockage)
 - -if you have bladder neck blockage (vesical cervix blockage)
 - -if you have a history of difficulty breathing due to tightening of the lung muscles (bronchospasm)
@@ -668,15 +678,19 @@ In addition, if you experience or are diagnosed with any of the following condit
 - -high blood pressure
 - -a fast or pounding heart beat
 - -abnormal heart rhythm
-- -feeling sick and headache or increase headache while using Aerinaze.
+- -feeling sick and headache or increase headache while using Aerinaze
 - -if you have medical of familial history of seizures
-- -severe skin reactions, including signs and symptoms such as reddening of the skin, many small pimples, with or without fever
+- -severe skin reactions, including signs and symptoms such as reddening of the skin, many small pimples, with or without fever.
 
 If you are scheduled to have surgery, your doctor may advise you to stop taking Aerinaze 24 hours beforehand.
 
 One of the active ingredients in Aerinaze, pseudoephedrine sulphate, has the potential to be abused and large doses of pseudoephedrine sulphate can be toxic. Continuous use may lead to taking more Aerinaze than the recommended dose to get the desired effect, resulting in an increased risk of overdosing. If you suddenly stop treatment, depression may occur.
 
 Cases of posterior reversible encephalopathy syndrome (PRES) and reversible cerebral vasoconstriction syndrome (RCVS) have been reported following use of medicines containing pseudoephedrine. PRES and RCVS are rare conditions that can involve reduced blood supply to the brain. Stop using Aerinaze immediately and seek immediate medical assistance if you develop symptoms that may be signs of PRES or RCVS (see section 4 'Possible side effects' for symptoms).
+
+Reduction of blood flow to your optic nerve may occur with Aerinaze. If you develop sudden loss of vision, stop taking Aerinaze and contact your doctor or seek medical attention immediately (see section 4 'Possible side effects').
+
+Sudden abdominal pain or rectal bleeding may occur with Aerinaze, due to inflammation of the colon (ischemic colitis). If you develop these gastrointestinal symptoms, stop taking Aerinaze and contact your doctor or seek medical attention immediately (see section 4 'Possible side effects').
 
 ## Laboratory tests
 
@@ -695,16 +709,16 @@ Tell your doctor, pharmacist or nurse if you are taking, have recently taken or 
 - -digitalis, a medicine used to treat certain heart disorders
 - -medicines for blood pressure (e.g. α-methyldopa, mecamylamine, reserpine, veratrum alkaloids and guanethidine)
 - -decongestants by oral or nasal route (such as phenylpropanolamine, phenylephrine, ephedrine, oxymetazoline, naphazoline)
+
+<div style=\"page-break-after: always\"></div>
+
 - -diet pills (appetite suppressants)
 - -amphetamines
 - -medicines for migraines e.g. ergot alkaloids (such as, dihydroergotamine, ergotamine, or methylergometrine)
 - -medicines for Parkinson's disease or for infertility e.g. bromocriptine, cabergoline, lisuride and pergolide
 - -antacids for indigestion or stomach problems
-- -a medicine for diarrhoea called kaolin.
-
-<div style=\"page-break-after: always\"></div>
-
--tricyclic antidepressants (such as nortriptyline), antihistamines (such as cetirizine, fexofenadine)
+- -a medicine for diarrhoea called kaolin
+- -tricyclic antidepressants (such as nortriptyline), antihistamines (such as cetirizine, fexofenadine).
 
 ## Aerinaze with alcohol
 
@@ -712,7 +726,9 @@ Speak with your doctor, pharmacist or nurse regarding whether you can drink alco
 
 ## Pregnancy, breast-feeding and fertility
 
-If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor, pharmacist or nurse for advice before taking this medicine. Taking Aerinaze is not recommended if you are pregnant.
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor, pharmacist or nurse for advice before taking this medicine.
+
+Taking Aerinaze is not recommended if you are pregnant.
 
 Decreased milk production in nursing mothers has been reported with pseudoephedrine sulphate, a component of Aerinaze. Desloratadine and pseudoephedrine sulphate are both excreted in human milk. If you are breast-feeding taking Aerinaze is not recommended.
 
@@ -748,6 +764,8 @@ If you take more Aerinaze than you were told to, tell your doctor, pharmacist or
 
 If you forget to take your dose on time, take it as soon as possible and then go back to your regular dosing schedule. Do not take a double dose to make up for a forgotten dose.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you stop taking Aerinaze
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
@@ -755,8 +773,6 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-<div style=\"page-break-after: always\"></div>
 
 Stop using Aerinaze immediately and seek urgent medical attention if you develop symptoms, that may be signs of posterior reversible encephalopathy syndrome (PRES) and reversible cerebral vasoconstriction syndrome (RCVS). These include:
 
@@ -807,12 +823,6 @@ Very rarely: the following other side effects reported during the marketing of d
 
 - severe allergic reactions (difficulty in breathing, wheezing, itching, hives and swelling)
 - rash
-
-Not known: frequency cannot be estimated from the available data
-
-- serious conditions affecting blood vessels in the brain known as posterior reversible encephalopathy syndrome (PRES) and reversible cerebral vasoconstriction syndrome (RCVS)
-- abnormal behaviour
-- aggression
 - vomiting
 - diarrhoea
 - hallucination
@@ -820,7 +830,6 @@ Not known: frequency cannot be estimated from the available data
 - convulsion
 - liver inflammation
 - abnormal liver function tests
-- changes in the way the heart beats
 - decreased appetite
 - constipation
 - tiredness
@@ -838,8 +847,16 @@ Not known: frequency cannot be estimated from the available data
 
 <div style=\"page-break-after: always\"></div>
 
+Not known: frequency cannot be estimated from the available data
+
+- serious conditions affecting blood vessels in the brain known as posterior reversible encephalopathy syndrome (PRES) and reversible cerebral vasoconstriction syndrome (RCVS)
 - weight increased, increased appetite
+- abnormal behaviour
+- aggression
 - depressed mood
+- changes in the way the heart beats
+- reduced blood flow to the optic nerve (ischaemic optic neuropathy)
+- inflammation of the colon due to insufficient blood supply (ischaemic colitis)
 
 Cases of severe skin reactions, including signs and symptoms such as fever, reddening of the skin, or many small pimples, have been reported with pseudoephedrine-containing products.
 
@@ -867,6 +884,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - -Ingredients in the blue, immediate-release layer: maize starch, microcrystalline cellulose, edetate disodium, citric acid, stearic acid and colorant (Indigo Carmine E132, Aluminum lake).
 - -Ingredients in the white, sustained-release layer: hypromellose 2208, microcrystalline cellulose, povidone K30, silicon dioxide and magnesium stearate.
 
+<div style=\"page-break-after: always\"></div>
+
 ## What Aerinaze looks like and contents of the pack
 
 Aerinaze is a blue and white oval bilayer modified-release tablet with 'D12' debossed in the blue layer. Aerinaze tablets are packed as 2, 4, 7, 10, 14, or 20 tablets in blisters comprised of laminate blister film and foil lidding.
@@ -876,8 +895,6 @@ Not all pack sizes may be marketed.
 ## Marketing Authorisation Holder and Manufacturer
 
 Marketing Authorisation Holder: N.V. Organon Kloosterstraat 6 5349 AB Oss The Netherlands
-
-<div style=\"page-break-after: always\"></div>
 
 Manufacturer: Organon Heist bv Industriepark 30 2220 Heist-op-den-Berg Belgium
 
@@ -893,13 +910,11 @@ Organon Belgium Tél/Tel: 0080066550123 (+32 2 2418100) dpoc.benelux@organon.com
 
 ## Česká republika
 
-Organon Czech Republic s.r.o. Tel: +420 233 010 300 dpoc.czech@organon.com
+Organon Czech Republic s.r.o. Tel: +420 277 051 010 dpoc.czech@organon.com
 
 ## Danmark
 
-Organon Denmark ApS Tlf: +45 4484 6800
-
-info.denmark@organon.com
+Organon Denmark ApS Tlf: +45 4484 6800 dpoc.dk.is@organon.com
 
 ## Deutschland
 
@@ -908,22 +923,6 @@ Organon Healthcare GmbH Tel.: 0800 3384 726 (+49 (0) 89 2040022 10) dpoc.germany
 ## Eesti
 
 Organon Pharma B.V. Estonian RO Tel: +372 66 61 300 dpoc.estonia@organon.com
-
-## Ελλάδα
-
-BIANEΞ Α.Ε. Τηλ: +30 210 80091 11 Mailbox@vianex.gr
-
-## España
-
-Organon Salud, S.L. Tel: +34 91 591 12 79
-
-organon\\_info@organon.com
-
-## France
-
-Organon France
-
-Tél: +33 (0) 1 57 77 32 00
 
 ## Lietuva
 
@@ -947,25 +946,31 @@ N.V. Organon Tel: 00800 66550123 (+32 2 2418100) dpoc.benelux@organon.com
 
 ## Norge
 
-Organon Norway AS Tlf: +47 24 14 56 60
-
-info.norway@organon.com
-
-## Österreich
-
-Organon Austria GmbH Tel: +43 (0) 1 263 28 65
-
-dpoc.austria@organon.com
-
-## Polska
-
-Organon Polska Sp. z o.o. Tel.: +48 22 105 50 01 organonpolska@organon.com
-
-## Portugal
-
-Organon Portugal, Sociedade Unipessoal Lda. Tel: +351 218705500 geral\\_pt@organon.com
+Organon Norway AS Tlf: +47 24 14 56 60 dpoc.norway@organon.com
 
 <div style=\"page-break-after: always\"></div>
+
+## Ελλάδα
+
+BIANEΞ Α.Ε.
+
+Τηλ: +30 210 80091 11
+
+Mailbox@vianex.gr
+
+## España
+
+Organon Salud, S.L.
+
+Tel: +34 91 591 12 79
+
+organon\\_info@organon.com
+
+## France
+
+Organon France
+
+Tél: +33 (0) 1 57 77 32 00
 
 ## Hrvatska
 
@@ -977,15 +982,11 @@ dpoc.croatia@organon.com
 
 ## Ireland
 
-Organon Pharma (Ireland) Limited
-
-Tel: +353 15828260
-
-medinfo.ROI@organon.com
+Organon Pharma (Ireland) Limited Tel: +353 15828260 medinfo.ROI@organon.com
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 70 00
 
@@ -1013,6 +1014,26 @@ dpoc.latvia@organon.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+## Österreich
+
+Organon Healthcare GmbH
+
+Tel: +49 (0) 89 2040022 10
+
+dpoc.austria@organon.com
+
+## Polska
+
+Organon Polska Sp. z o.o.
+
+Tel.: +48 22 306 57 64
+
+dpoc.poland@organon.com
+
+## Portugal
+
+Organon Portugal, Sociedade Unipessoal Lda. Tel: +351 218705500 geral\\_pt@organon.com
+
 ## România
 
 Organon Biosciences S.R.L.
@@ -1025,7 +1046,7 @@ dpoc.romania@organon.com
 
 Organon Pharma B.V., Oss, podružnica Ljubljana Tel: +386 1 300 10 80 dpoc.slovenia@organon.com
 
-## Slovensk á republika
+## Slovenská republika
 
 Organon Slovakia s. r. o.
 
@@ -1039,12 +1060,4 @@ Organon Finland Oy Puh/Tel: +358 (0) 29 170 3520 dpoc.finland@organon.com
 
 ## Sverige
 
-Organon Sweden AB
-
-Tel: +46 8 502 597 00
-
-dpoc.sweden@organon.com
-
-## United Kingdom (Northern Ireland)
-
-Organon Pharma (UK) Limited Tel: +44 (0) 208 159 3593 medicalinformationuk@organon.com
+Organon Sweden AB Tel: +46 8 502 597 00 dpoc.sweden@organon.com

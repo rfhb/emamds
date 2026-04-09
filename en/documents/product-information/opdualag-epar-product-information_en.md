@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-29 14:02:21
+document_datetime: 2026-04-07 11:04:20
 document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/opdualag-epar-product-information_en.pdf
 document_name: opdualag-epar-product-information_en.pdf
 version: success
-processing_time: 10.1801105
-conversion_datetime: 2025-12-30 22:09:30.828925
+processing_time: 9.8627472
+conversion_datetime: 2026-04-09 12:25:40.73878
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -88,17 +88,20 @@ Table 1: Recommended treatment modifications for Opdualag
 
 <div style=\"page-break-after: always\"></div>
 
-| Immune-related adverse reaction         | Severity                                                                                                                                                                | Treatment modification                                                                    |
-|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| Immune-related myocarditis              | Grade 2 myocarditis                                                                                                                                                     | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete b |
-| Immune-related myocarditis              | Grade 3 or 4 myocarditis                                                                                                                                                | Permanently discontinue treatment                                                         |
-| Other immune- related adverse reactions | Grade 4 or recurrent Grade 3; persistent Grade 2 or 3 despite treatment modification; inability to reduce corticosteroid dose to 10 mg prednisone or equivalent per day | Permanently discontinue treatment                                                         |
+| Immune-related adverse reaction                            | Severity                                                                                                                                                                | Treatment modification                                                                    |
+|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Immune-related myocarditis                                 | Grade 2 myocarditis                                                                                                                                                     | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete b |
+| Immune-related myocarditis                                 | Grade 3 or 4 myocarditis                                                                                                                                                | Permanently discontinue treatment                                                         |
+| Other immune- related adverse reactions                    | Grade 3 (first occurrence)                                                                                                                                              | Withhold dose(s)                                                                          |
+| Other immune- related adverse reactions                    | Grade 4 or recurrent Grade 3; persistent Grade 2 or 3 despite treatment modification; inability to reduce corticosteroid dose to 10 mg prednisone or equivalent per day | Permanently discontinue treatment                                                         |
+| Myocarditis- Myositis-Myasthenia Gravis Overlap Syndrome c | Grade 2 Myocarditis-Myositis- Myasthenia Gravis Overlap Syndrome                                                                                                        | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete b |
+| Myocarditis- Myositis-Myasthenia Gravis Overlap Syndrome c | Grade 3 or 4 Myocarditis- Myositis-Myasthenia Gravis Overlap Syndrome                                                                                                   | Permanently discontinue treatment                                                         |
 
 Note: Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 5.0 (NCI-CTCAE v5).
 
-a Recommendation for the use of hormone replacement therapy is provided in section 4.4.
-
-b The safety of re-initiating Opdualag in patients previously experiencing immune-related myocarditis is not known.
+- a Recommendation for the use of hormone replacement therapy is provided in section 4.4.
+- b The safety of re-initiating Opdualag in patients previously experiencing immune-related myocarditis is not known.
+- c Presenting as an overlap of either two or all three conditions. The most severe CTCAE grade from the individual events should be considered to assess the recommended treatment modification for Opdualag.
 
 ## Special populations
 
@@ -122,11 +125,11 @@ No dose adjustment is required in patients with mild or moderate hepatic impairm
 
 Opdualag is for intravenous use only. It is to be administered as an intravenous infusion over a period of 30 minutes.
 
-Opdualag must not be administered as an intravenous push or bolus injection.
-
-Opdualag can be used without dilution, or may be diluted with sodium chloride 9 mg/mL (0.9%) solution for injection or glucose 50 mg/mL (5%) solution for injection (see section 6.6).
+Opdualag must not be administered as an intravenous push or bolus injection. Opdualag can be used without dilution, or may be diluted with sodium chloride 9 mg/mL (0.9%) solution for injection or glucose 50 mg/mL (5%) solution for injection (see section 6.6).
 
 For instructions on the preparation and handling of the medicinal product before administration, see section 6.6.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.3 Contraindications
 
@@ -137,8 +140,6 @@ Hypersensitivity to the active substances or to any of the excipients listed in 
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Assessment of PD-L1 status
 
@@ -166,15 +167,15 @@ Severe pneumonitis or interstitial lung disease, including a fatal case, has bee
 
 For Grade 3 or 4 pneumonitis, Opdualag must be permanently discontinued, and corticosteroids should be initiated at a dose of 2 to 4 mg/kg/day methylprednisolone equivalents.
 
-For Grade 2 (symptomatic) pneumonitis, Opdualag should be withheld and corticosteroids initiated at a dose of 1 mg/kg/day methylprednisolone equivalents. Upon improvement, Opdualag may be resumed after corticosteroid taper. If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 2 to 4 mg/kg/day methylprednisolone equivalents, and Opdualag must be permanently discontinued.
-
-## Immune-related colitis
-
-Severe diarrhoea or colitis has been observed with nivolumab in combination with relatlimab (see section 4.8). Patients should be monitored for diarrhoea and additional symptoms of colitis, such as abdominal pain and mucus and/or blood in stool. Cytomegalovirus (CMV) infection/reactivation has been reported in patients with corticosteroid-refractory immune-related colitis. Infectious and other aetiologies of diarrhoea should be ruled out, therefore appropriate laboratory tests and additional
+For Grade 2 (symptomatic) pneumonitis, Opdualag should be withheld and corticosteroids initiated at a dose of 1 mg/kg/day methylprednisolone equivalents. Upon improvement, Opdualag may be resumed after corticosteroid taper. If worsening or no improvement occurs despite initiation of
 
 <div style=\"page-break-after: always\"></div>
 
-examinations must be performed. If diagnosis of corticosteroid-refractory immune-related colitis is confirmed, addition of an alternative immunosuppressive agent to the corticosteroid therapy, or replacement of the corticosteroid therapy should be considered.
+corticosteroids, corticosteroid dose should be increased to 2 to 4 mg/kg/day methylprednisolone equivalents, and Opdualag must be permanently discontinued.
+
+## Immune-related colitis
+
+Severe diarrhoea or colitis has been observed with nivolumab in combination with relatlimab (see section 4.8). Patients should be monitored for diarrhoea and additional symptoms of colitis, such as abdominal pain and mucus and/or blood in stool. Cytomegalovirus (CMV) infection/reactivation has been reported in patients with corticosteroid-refractory immune-related colitis. Infectious and other aetiologies of diarrhoea should be ruled out, therefore appropriate laboratory tests and additional examinations must be performed. If diagnosis of corticosteroid-refractory immune-related colitis is confirmed, addition of an alternative immunosuppressive agent to the corticosteroid therapy, or replacement of the corticosteroid therapy should be considered.
 
 For Grade 4 diarrhoea or colitis, Opdualag must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
@@ -196,13 +197,15 @@ Severe nephritis and renal dysfunction have been observed with nivolumab in comb
 
 For Grade 4 serum creatinine elevation, Opdualag must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
-For Grade 2 or 3 serum creatinine elevation, Opdualag should be withheld, and corticosteroids should be initiated at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents. Upon improvement, Opdualag may be resumed after corticosteroid taper. If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents, and Opdualag must be permanently discontinued.
+For Grade 2 or 3 serum creatinine elevation, Opdualag should be withheld, and corticosteroids should be initiated at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents. Upon improvement, Opdualag may be resumed after corticosteroid taper. If worsening or no improvement occurs despite
+
+<div style=\"page-break-after: always\"></div>
+
+initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents, and Opdualag must be permanently discontinued.
 
 ## Immune-related endocrinopathies
 
 Severe endocrinopathies, including hypothyroidism, hyperthyroidism, adrenal insufficiency (including secondary adrenocortical insufficiency), hypophysitis (including hypopituitarism), and diabetes mellitus have been observed with nivolumab in combination with relatlimab. Cases of diabetic ketoacidosis have been observed with nivolumab monotherapy and could potentially occur with nivolumab in combination with relatlimab (see section 4.8).
-
-<div style=\"page-break-after: always\"></div>
 
 Patients should be monitored for clinical signs and symptoms of endocrinopathies, and for hyperglycaemia and changes in thyroid function (at the start of treatment, periodically during treatment, and as indicated based on clinical evaluation). Patients may present with fatigue, headache, mental status changes, abdominal pain, unusual bowel habits, and hypotension, or nonspecific symptoms which may resemble other causes such as brain metastasis or underlying disease. Unless an alternate aetiology has been identified, signs or symptoms of endocrinopathies should be considered immune-related.
 
@@ -226,17 +229,17 @@ For symptomatic diabetes, Opdualag should be withheld, and insulin replacement s
 
 Severe rash has been observed with nivolumab in combination with relatlimab (see section 4.8). Opdualag should be withheld for Grade 3 rash and discontinued for Grade 4 rash. Severe rash should be managed with high-dose corticosteroid at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
-Rare cases of SJS and TEN, some of them with fatal outcome, have been observed with nivolumab monotherapy and could potentially occur with nivolumab in combination with relatlimab. If symptoms or signs of SJS or TEN are suspected, Opdualag should be withheld and the patient referred to a specialised unit for assessment and treatment. If the patient has confirmed SJS or TEN with the use of Opdualag, permanent discontinuation of treatment is recommended (see section 4.2).
+Rare cases of SJS and TEN, some of them with fatal outcome, have been observed with nivolumab monotherapy and could potentially occur with nivolumab in combination with relatlimab. If symptoms or signs of SJS or TEN are suspected, Opdualag should be withheld and the patient referred to a
+
+<div style=\"page-break-after: always\"></div>
+
+specialised unit for assessment and treatment. If the patient has confirmed SJS or TEN with the use of Opdualag, permanent discontinuation of treatment is recommended (see section 4.2).
 
 Caution should be used when considering the use of Opdualag in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
 
 ## Immune-related myocarditis
 
-Severe immune-related myocarditis has been observed with nivolumab in combination with relatlimab. The diagnosis of myocarditis requires a high index of suspicion. Patients with cardiac or
-
-<div style=\"page-break-after: always\"></div>
-
-cardio-pulmonary symptoms should be assessed for potential myocarditis. If myocarditis is suspected, prompt initiation of a high dose of steroids (prednisone 1 to 2 mg/kg/day or methylprednisolone 1 to 2 mg/kg/day) and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated. Once a diagnosis of myocarditis is established, Opdualag should be withheld or permanently discontinued as described below.
+Severe immune-related myocarditis has been observed with nivolumab in combination with relatlimab. The diagnosis of myocarditis requires a high index of suspicion. Patients with cardiac or cardio-pulmonary symptoms should be assessed for potential myocarditis. If myocarditis is suspected, prompt initiation of a high dose of steroids (prednisone 1 to 2 mg/kg/day or methylprednisolone 1 to 2 mg/kg/day) and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated. Once a diagnosis of myocarditis is established, Opdualag should be withheld or permanently discontinued as described below.
 
 For Grade 3 or 4 myocarditis, Opdualag must be permanently discontinued, and corticosteroids should be initiated at a dose of 2 to 4 mg/kg/day methylprednisolone equivalents (see section 4.2).
 
@@ -244,11 +247,19 @@ For Grade 2 myocarditis, Opdualag should be withheld and corticosteroids initiat
 
 ## Other immune-related adverse reactions
 
-The following clinically significant immune-related adverse reactions have been rarely reported in patient treated with nivolumab in combination with relatlimab: uveitis, pancreatitis, Guillain-Barré syndrome, myositis/rhabdomyolysis, myasthenia gravis, encephalitis, haemolytic anaemia, Vogt-Koyanagi-Harada syndrome (VKH).
+The following clinically significant immune-related adverse reactions have been reported in patients treated with nivolumab in combination with relatlimab: uveitis, pancreatitis, gastritis, Guillain-Barré syndrome, myositis/rhabdomyolysis, myasthenia gravis, Myocarditis-Myositis-Myasthenia Gravis Overlap Syndrome, encephalitis, haemolytic anaemia, Vogt-Koyanagi-Harada syndrome (VKH).
 
-The following additional clinically significant immune-related adverse reactions have been rarely reported with nivolumab monotherapy or nivolumab in combination with other approved agents: demyelination, autoimmune neuropathy (including facial and abducens nerve paresis), myasthenic syndrome, aseptic meningitis, gastritis, sarcoidosis, duodenitis, hypoparathyroidism, and cystitis noninfective.
+The following additional clinically significant immune-related adverse reactions have been reported with nivolumab monotherapy or nivolumab in combination with other approved agents: demyelination, autoimmune neuropathy (including facial and abducens nerve paresis), myasthenic syndrome, aseptic meningitis, sarcoidosis, duodenitis, hypoparathyroidism, and cystitis noninfective.
 
 For suspected immune-related adverse reactions, adequate evaluation should be performed to confirm aetiology or exclude other causes. Based on the severity of the adverse reaction, Opdualag should be withheld and corticosteroids administered. Upon improvement, Opdualag may be resumed after corticosteroid taper. Opdualag must be permanently discontinued for any severe immune-related adverse reaction that recurs and for any life-threatening immune-related adverse reaction.
+
+Cases of Myocarditis-Myositis-Myasthenia Gravis Overlap Syndrome (presenting as an overlap of either two or all three conditions), some with fatal outcome, have been reported with nivolumab in combination with relatlimab. Early recognition and aggressive management are essential to address associated morbidity and risk of mortality.
+
+For Grade 3 or 4 Myocarditis-Myositis-Myasthenia Gravis Overlap Syndrome, Opdualag must be permanently discontinued (see section 4.2). Corticosteroids should be initiated as clinically indicated.
+
+For Grade 2 Myocarditis-Myositis-Myasthenia Gravis Overlap Syndrome, Opdualag should be withheld and corticosteroids initiated as clinically indicated (see section 4.2). Upon improvement, resumption of Opdualag may be considered after corticosteroid taper. If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be adjusted as clinically indicated, and Opdualag must be permanently discontinued.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other important warnings and precautions, including class effects
 
@@ -260,11 +271,7 @@ In patients treated with nivolumab before or after allogeneic Haematopoietic Ste
 
 ## Infusion reactions
 
-Severe infusion reactions have been reported in clinical studies of nivolumab in combination with relatlimab (see section 4.8). In case of a severe or life-threatening infusion reaction, Opdualag infusion must be discontinued and appropriate medical therapy administered. Patients with mild or moderate
-
-<div style=\"page-break-after: always\"></div>
-
-infusion reaction may receive Opdualag with close monitoring and preventative treatment according to local guidelines for prophylaxis of infusion reactions.
+Severe infusion reactions have been reported in clinical studies of nivolumab in combination with relatlimab (see section 4.8). In case of a severe or life-threatening infusion reaction, Opdualag infusion must be discontinued and appropriate medical therapy administered. Patients with mild or moderate infusion reaction may receive Opdualag with close monitoring and preventative treatment according to local guidelines for prophylaxis of infusion reactions.
 
 ## Patients excluded from pivotal advanced melanoma clinical study
 
@@ -284,6 +291,8 @@ Nivolumab and relatlimab are not expected to affect the pharmacokinetics of othe
 
 The use of systemic corticosteroids and other immunosuppressants at baseline, before starting nivolumab in combination with relatlimab, should be avoided because of their potential interference with the pharmacodynamic activity. However, systemic corticosteroids and other immunosuppressants can be used after starting nivolumab in combination with relatlimab to treat immune-related adverse reactions.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Women of childbearing potential/Contraception
@@ -297,8 +306,6 @@ There is a limited amount of data from the use of nivolumab in combination with 
 ## Breast-feeding
 
 It is unknown whether nivolumab and/or relatlimab are excreted in human milk. Human IgGs are known to be excreted in breast milk during the first few days after birth, which is decreasing to low concentrations soon afterwards; consequently, a risk to the breast-fed infant cannot be excluded during this short period. Afterwards, Opdualag could be used during breast-feeding if clinically needed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -320,87 +327,88 @@ The most common serious adverse reactions are adrenal insufficiency (1.4%), anae
 
 ## Tabulated summary of adverse reactions
 
-The safety of nivolumab in combination with relatlimab has been evaluated in 355 patients with advanced (unresectable or metastatic) melanoma (study CA224047). Adverse reactions reported in the dataset for patients treated with nivolumab in combination with relatlimab, with a median follow-up of 19.94 months, are presented in Table 2. The frequencies included above and in Table 2 are based on all-cause adverse event frequencies. These reactions are presented by system organ class and by frequency. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+The safety of nivolumab in combination with relatlimab has been evaluated in 355 patients with advanced (unresectable or metastatic) melanoma (study CA224047). Adverse reactions reported in the dataset for patients treated with nivolumab in combination with relatlimab, with a median follow-up of
+
+<div style=\"page-break-after: always\"></div>
+
+19.94 months, are presented in Table 2. The frequencies included above and in Table 2 are based on all-cause adverse event frequencies. These reactions are presented by system organ class and by frequency. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 Table 2: Adverse reactions in clinical studies
 
-| Infections and infestations          | Infections and infestations                                       |
-|--------------------------------------|-------------------------------------------------------------------|
-| Very common                          | urinary tract infection                                           |
-| Common                               | upper respiratory tract infection                                 |
-| Uncommon                             | folliculitis                                                      |
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders                              |
-| Very common                          | anaemia a , lymphopaenia a , neutropaenia a , leucopaenia a       |
-| Common                               | thrombocytopaenia a , eosinophilia                                |
-| Uncommon                             | haemolytic anaemia                                                |
-| Endocrine disorders                  | Endocrine disorders                                               |
-| Very common                          | hypothyroidism                                                    |
-| Common                               | adrenal insufficiency, hypophysitis, hyperthyroidism, thyroiditis |
-| Uncommon                             | hypopituitarism, hypogonadism                                     |
+| Infections and infestations                     | Infections and infestations                                                                                                          |
+|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Very common                                     | urinary tract infection                                                                                                              |
+| Common                                          | upper respiratory tract infection                                                                                                    |
+| Uncommon                                        | folliculitis                                                                                                                         |
+| Blood and lymphatic system disorders            | Blood and lymphatic system disorders                                                                                                 |
+| Very common                                     | anaemia a , lymphopaenia a , neutropaenia a , leucopaenia a                                                                          |
+| Common                                          | thrombocytopaenia a , eosinophilia                                                                                                   |
+| Uncommon                                        | haemolytic anaemia                                                                                                                   |
+| Endocrine disorders                             | Endocrine disorders                                                                                                                  |
+| Very common                                     | hypothyroidism                                                                                                                       |
+| Common                                          | adrenal insufficiency, hypophysitis, hyperthyroidism, thyroiditis                                                                    |
+| Uncommon                                        | hypopituitarism, hypogonadism                                                                                                        |
+| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                                                                   |
+| Very common                                     | decreased appetite                                                                                                                   |
+| Common                                          | diabetes mellitus, hypoglycaemia a , weight decreased, hyperuricaemia, hypoalbuminaemia, dehydration                                 |
+| Psychiatric disorders                           | Psychiatric disorders                                                                                                                |
+| Common                                          | confusional state                                                                                                                    |
+| Nervous system disorders                        | Nervous system disorders                                                                                                             |
+| Very common                                     | headache                                                                                                                             |
+| Common                                          | peripheral neuropathy, dizziness, dysgeusia                                                                                          |
+| Uncommon                                        | encephalitis, Guillain-Barré syndrome, optic neuritis, myasthenia gravis, Myocarditis- Myositis-Myasthenia Gravis Overlap Syndrome c |
+| Eye disorders                                   | Eye disorders                                                                                                                        |
+| Common                                          | uveitis, visual impairment, dry eye, increased lacrimation                                                                           |
+| Uncommon                                        | Vogt-Koyanagi-Harada disease, ocular hyperaemia                                                                                      |
+| Cardiac disorders                               | Cardiac disorders                                                                                                                    |
+| Common                                          | myocarditis                                                                                                                          |
+| Uncommon                                        | pericardial effusion                                                                                                                 |
+| Vascular disorders                              | Vascular disorders                                                                                                                   |
+| Common                                          | phlebitis                                                                                                                            |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                      |
+| Very common                                     | dyspnoea, cough                                                                                                                      |
+| Common                                          | pneumonitis b , nasal congestion                                                                                                     |
+| Uncommon                                        | asthma, pleural effusion                                                                                                             |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                                           |
+| Very common                                     | diarrhoea, vomiting, nausea, abdominal pain, constipation                                                                            |
+| Common                                          | colitis, pancreatitis, gastritis, dysphagia, stomatitis, dry mouth                                                                   |
+| Uncommon                                        | oesophagitis                                                                                                                         |
+| Rare                                            | pancreatic exocrine insufficiency                                                                                                    |
+| Not known                                       | coeliac disease                                                                                                                      |
+| Hepatobiliary disorders                         | Hepatobiliary disorders                                                                                                              |
+| Common                                          | hepatitis                                                                                                                            |
+| Uncommon                                        | cholangitis                                                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
-| Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                                                                       |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Very common                                          | decreased appetite                                                                                       |
-| Common                                               | diabetes mellitus, hypoglycaemia a , weight decreased, hyperuricaemia, hypoalbuminaemia, dehydration     |
-| Psychiatric disorders                                | Psychiatric disorders                                                                                    |
-| Common                                               | confusional state                                                                                        |
-| Nervous system disorders                             | Nervous system disorders                                                                                 |
-| Very common                                          | headache                                                                                                 |
-| Common                                               | peripheral neuropathy, dizziness, dysgeusia                                                              |
-| Uncommon                                             | encephalitis, Guillain-Barré syndrome, optic neuritis, myasthenia gravis                                 |
-| Eye disorders                                        | Eye disorders                                                                                            |
-| Common                                               | uveitis, visual impairment, dry eye, increased lacrimation                                               |
-| Uncommon                                             | Vogt-Koyanagi-Harada disease, ocular hyperaemia                                                          |
-| Cardiac disorders                                    | Cardiac disorders                                                                                        |
-| Common                                               | myocarditis                                                                                              |
-| Uncommon                                             | pericardial effusion                                                                                     |
-| Vascular disorders                                   | Vascular disorders                                                                                       |
-| Common                                               | phlebitis                                                                                                |
-| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders                                                          |
-| Very common                                          | dyspnoea, cough                                                                                          |
-| Common                                               | pneumonitis b , nasal congestion                                                                         |
-| Uncommon                                             | asthma, pleural effusion                                                                                 |
-| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                               |
-| Very common                                          | diarrhoea, vomiting, nausea, abdominal pain, constipation                                                |
-| Common                                               | colitis, pancreatitis, gastritis, dysphagia, stomatitis, dry mouth                                       |
-| Uncommon                                             | oesophagitis                                                                                             |
-| Rare                                                 | pancreatic exocrine insufficiency                                                                        |
-| Not known                                            | coeliac disease                                                                                          |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                  |
-| Common                                               | hepatitis                                                                                                |
-| Uncommon                                             | cholangitis                                                                                              |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                   |
-| Very common                                          | rash, vitiligo, pruritus                                                                                 |
-| Common                                               | alopecia, lichenoid keratosis, photosensitivity reaction, dry skin                                       |
-| Uncommon                                             | pemphigoid, psoriasis, urticaria                                                                         |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                          |
-| Very common                                          | musculoskeletal pain, arthralgia                                                                         |
-| Common                                               | arthritis, muscle spasms, muscular weakness                                                              |
-| Uncommon                                             | myositis, Sjogren's Syndrome, polymyalgia rheumatica, rheumatoid arthritis, systemic lupus erythematosus |
-| Renal and urinary disorders                          | Renal and urinary disorders                                                                              |
-| Common                                               | renal failure, proteinuria                                                                               |
-| Uncommon                                             | nephritis                                                                                                |
-| Reproductive system and breast disorders             | Reproductive system and breast disorders                                                                 |
-| Uncommon                                             | azoospermia                                                                                              |
-| General disorders and administration site conditions | General disorders and administration site conditions                                                     |
-| Very common                                          | fatigue, pyrexia                                                                                         |
-| Common                                               | oedema, influenza-like illness, chills                                                                   |
-| Rare                                                 | serositis                                                                                                |
-
-<div style=\"page-break-after: always\"></div>
-
-| Investigations                                 | Investigations                                                                                                                                                                                              |
-|------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Very common                                    | increased AST a , increased ALT a , hyponatraemia a , increased creatinine a , increased alkaline phosphatase a , hyperkalaemia a , hypocalcaemia a , hypomagnesaemia a , hypercalcaemia a , hypokalaemia a |
-| Common                                         | increased bilirubin a , hypernatraemia a , hypermagnesaemia a , troponin increased, gamma- glutamyl transferase increased, blood lactate dehydrogenase increased, lipase increased, amylase increased       |
-| Uncommon                                       | c-reactive protein increased, red blood cell sedimentation rate increased                                                                                                                                   |
-| Injury, poisoning and procedural complications | Injury, poisoning and procedural complications                                                                                                                                                              |
-| Common                                         | infusion-related reaction                                                                                                                                                                                   |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                                                                      |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Very common                                          | rash, vitiligo, pruritus                                                                                                                                                                                    |
+| Common                                               | alopecia, lichenoid keratosis, photosensitivity reaction, dry skin                                                                                                                                          |
+| Uncommon                                             | pemphigoid, psoriasis, urticaria                                                                                                                                                                            |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                                                             |
+| Very common                                          | musculoskeletal pain, arthralgia                                                                                                                                                                            |
+| Common                                               | arthritis, muscle spasms, muscular weakness                                                                                                                                                                 |
+| Uncommon                                             | myositis, Sjogren's Syndrome, polymyalgia rheumatica, rheumatoid arthritis, systemic lupus erythematosus                                                                                                    |
+| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                                                                 |
+| Common                                               | renal failure, proteinuria                                                                                                                                                                                  |
+| Uncommon                                             | nephritis                                                                                                                                                                                                   |
+| Reproductive system and breast disorders             | Reproductive system and breast disorders                                                                                                                                                                    |
+| Uncommon                                             | azoospermia                                                                                                                                                                                                 |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                                                        |
+| Very common                                          | fatigue, pyrexia                                                                                                                                                                                            |
+| Common                                               | oedema, influenza-like illness, chills                                                                                                                                                                      |
+| Rare                                                 | serositis                                                                                                                                                                                                   |
+| Investigations                                       | Investigations                                                                                                                                                                                              |
+| Very common                                          | increased AST a , increased ALT a , hyponatraemia a , increased creatinine a , increased alkaline phosphatase a , hyperkalaemia a , hypocalcaemia a , hypomagnesaemia a , hypercalcaemia a , hypokalaemia a |
+| Common                                               | increased bilirubin a , hypernatraemia a , hypermagnesaemia a , troponin increased, gamma- glutamyl transferase increased, blood lactate dehydrogenase increased, lipase increased, amylase increased       |
+| Uncommon                                             | c-reactive protein increased, red blood cell sedimentation rate increased                                                                                                                                   |
+| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                                                                                                                                              |
+| Common                                               | infusion-related reaction                                                                                                                                                                                   |
 
 - a Frequencies of laboratory terms reflect the proportion of patients who experienced a worsening from baseline in laboratory measurements.
 - b Fatal case has been reported in the clinical study.
+- c Cases of Myocarditis-Myositis-Myasthenia Gravis Overlap Syndrome (presenting as an overlap of either two or all three conditions), some with fatal outcome, have been reported with nivolumab in combination with relatlimab (see section 4.4).
 
 ## Description of selected adverse reactions
 
@@ -412,23 +420,21 @@ In patients treated with nivolumab in combination with relatlimab, pneumonitis, 
 
 In patients treated with nivolumab in combination with relatlimab, diarrhoea, colitis, or frequent bowel movements occurred in 15.8% of patients. Incidences of Grade 3/4 events were 2.0%. Median time to onset was 14 weeks (range: 0.1-95.6). Resolution occurred in 92.7% patients with a median time to resolution of 3.9 weeks (range: 0.1-136.9 + ). Immune-related colitis led to permanent discontinuation of nivolumab in combination with relatlimab in 2.0% of patients and required high dose corticosteroids (prednisone ≥ 40 mg per day or equivalent) in 33.9% of patients with immune-related colitis.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Immune-related hepatitis
 
 In patients treated with nivolumab in combination with relatlimab, liver function test abnormalities occurred in 13.2% of patients. Incidences of Grade 3/4 events were 3.9%. Median time to onset was 11 weeks (range: 2.0-144.9). Resolution occurred in 78.7% patients with a median time to resolution of 6.1 weeks (range: 1.0-88.1 + ). Immune-related hepatitis led to permanent discontinuation of nivolumab in combination with relatlimab in 2.0% of patients and required high dose corticosteroids in 38.3% of patients with immune-related hepatitis.
 
 ## Immune-related nephritis and renal dysfunction
 
-In patients treated with nivolumab in combination with relatlimab, nephritis or renal dysfunction occurred in 4.5% of patients. Incidences of Grade 3/4 events were 1.4%. Median time to onset was 21 weeks (range: 1.9-127.9). Resolution occurred in 81.3% patients with a median time to resolution of 8.1 weeks (range: 0.9-91.6 + ). Immune-related nephritis and renal dysfunction led to permanent discontinuation of nivolumab in combination with relatlimab in 1.1% of patients and required high dose corticosteroid s (prednisone ≥ 40 mg per day or equivalent) in 25.0% of patients with immune-related nephritis and renal dysfunction.
+In patients treated with nivolumab in combination with relatlimab, nephritis or renal dysfunction occurred in 4.5% of patients. Incidences of Grade 3/4 events were 1.4%. Median time to onset was 21 weeks (range: 1.9-127.9). Resolution occurred in 81.3% patients with a median time to resolution of 8.1 weeks (range: 0.9-91.6 + ). Immune-related nephritis and renal dysfunction led to permanent discontinuation of nivolumab in combination with relatlimab in 1.1% of patients and required high dose corticosteroids (prednisone ≥ 40 mg per day or equivalent) in 25.0% of patients with immune-related nephritis and renal dysfunction.
 
 ## Immune-related endocrinopathies
 
 In patients treated with nivolumab in combination with relatlimab, endocrinopathies occurred in 26% of patients.
 
-Thyroid disorders, including hypothyroidism or hyperthyroidism, occurred in 20.8% of patients. There were no incidences of Grade 3/4 thyroid disorder. Adrenal insufficiency (including adrenocortical insufficiency acute) occurred in 4.8% of patients. Incidences of Grade 3/4 events adrenal insufficiency
-
-<div style=\"page-break-after: always\"></div>
-
-occurred in 1.4%. There were no incidences of Grade 3/4 hypopituitarism. Hypophysitis occurred in 1.1% of patients. Incidence of Grade 3/4 hypophysitis were 0.3%. Diabetes mellitus (including Type 1 diabetes mellitus) occurred in 0.3% of patients. Incidences of Grade 3/4 diabetes mellitus were in 0.3%.
+Thyroid disorders, including hypothyroidism or hyperthyroidism, occurred in 20.8% of patients. There were no incidences of Grade 3/4 thyroid disorder. Adrenal insufficiency (including adrenocortical insufficiency acute) occurred in 4.8% of patients. Incidences of Grade 3/4 events adrenal insufficiency occurred in 1.4%. There were no incidences of Grade 3/4 hypopituitarism. Hypophysitis occurred in 1.1% of patients. Incidence of Grade 3/4 hypophysitis were 0.3%. Diabetes mellitus (including Type 1 diabetes mellitus) occurred in 0.3% of patients. Incidences of Grade 3/4 diabetes mellitus were in 0.3%.
 
 Median time to onset of these endocrinopathies was 13 weeks (range: 1.0-73.0). Resolution occurred in 27.7% patients. Time to resolution ranged from 0.4 to 176.0 + weeks. Immune-related endocrinopathies led to permanent discontinuation of nivolumab in combination with relatlimab in 1.1% of patients and required high dose corticosteroids (prednisone ≥ 40 mg per day or equivalent) in 7.4% of patients with immune-related endocrinopathies.
 
@@ -446,7 +452,11 @@ In patients treated with nivolumab in combination with relatlimab, hypersensitiv
 
 ## Laboratory abnormalities
 
-In patients treated with nivolumab in combination with relatlimab, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 3.6% for anaemia, 5.2% for lymphopaenia, 0.3% for neutropaenia, 0.6% for increased alkaline phosphatase, 2.9% for increased AST, 3.5% for increased ALT, 0.3% for increased total bilirubin, 0.9% for increased creatinine, 1.5% for hyponatraemia, 1.8% for hyperkalaemia, 0.3% for hypokalaemia, 0.9% for hypercalcaemia, 0.6% for hypocalcaemia, 0.9% for hypermagnesaemia, and 0.6% for hypomagnesaemia.
+In patients treated with nivolumab in combination with relatlimab, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 3.6% for
+
+<div style=\"page-break-after: always\"></div>
+
+anaemia, 5.2% for lymphopaenia, 0.3% for neutropaenia, 0.6% for increased alkaline phosphatase, 2.9% for increased AST, 3.5% for increased ALT, 0.3% for increased total bilirubin, 0.9% for increased creatinine, 1.5% for hyponatraemia, 1.8% for hyperkalaemia, 0.3% for hypokalaemia, 0.9% for hypercalcaemia, 0.6% for hypocalcaemia, 0.9% for hypermagnesaemia, and 0.6% for hypomagnesaemia.
 
 ## Immunogenicity
 
@@ -457,8 +467,6 @@ In study CA224047, out of the evaluable patients for anti-drug antibodies, the i
 ## Elderly
 
 Overall, no differences in safety were reported between elderly (≥ 65 years) and younger patients (see section 5.1).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -482,6 +490,8 @@ Binding of the PD-1 ligands, PD-L1 and PD-L2, to the PD-1 receptor found on T ce
 
 Relatlimab is a human IgG4 monoclonal antibody that binds to the LAG-3 receptor, blocks its interaction with ligands, including MHC II, and reduces LAG-3 pathway-mediated inhibition of the immune response. Antagonism of this pathway promotes T cell proliferation and cytokine secretion.
 
+<div style=\"page-break-after: always\"></div>
+
 The combination of nivolumab (anti-PD-1) and relatlimab (anti-LAG-3) results in increased T-cell activation compared to the activity of either antibody alone. In murine syngeneic tumour models, LAG-3 blockade potentiates the anti-tumour activity of PD-1 blockage, inhibiting tumour growth and promoting tumour regression.
 
 ## Clinical efficacy and safety
@@ -490,19 +500,21 @@ The combination of nivolumab (anti-PD-1) and relatlimab (anti-LAG-3) results in 
 
 The safety and efficacy of nivolumab in combination with relatlimab for the treatment of patients with previously untreated metastatic or unresectable melanoma were evaluated in a phase 2/3, randomised, double-blinded study (CA224047). The study included patients with ECOG performance status score 0 or 1, and histologically confirmed stage III (unresectable) or stage IV melanoma per American Joint Committee on Cancer (AJCC) version 8. Patients were allowed to have received prior adjuvant or neoadjuvant melanoma therapy (anti-PD-1, anti-CTLA-4, or BRAF-MEK therapy was allowed as long as there was at least 6 months between the last dose of therapy and date of recurrence; interferon therapy was allowed as long as the last dose was at least 6 weeks prior to randomisation). Patients with active autoimmune disease, a history of myocarditis, elevated troponin levels &gt; 2 times ULN, or ECOG performance status score ≥ 2, medical conditions requiring systemic treatment with moderate or high dose corticosteroids or immunosuppressive medicinal products, uveal melanoma, and active or untreated brain or leptomeningeal metastases were excluded from the study (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 A total of 714 patients were randomised to receive either nivolumab in combination with relatlimab (n = 355), or nivolumab (n = 359). Patients in the combination arm received 480 mg nivolumab/160 mg relatlimab over 60 minutes every 4 weeks. Patients in the nivolumab arm received nivolumab 480 mg every 4 weeks. Randomisation was stratified by tumour PD-L1 ( ≥ 1% vs. &lt; 1) using PD-L1 IHC 28-8 pharmDx test, and LAG-3 expression ( ≥ 1% vs. &lt; 1) as determined by an analytically validated LAG-3 IHC assay, BRAF V600 mutation status, and M stage per the AJCC version 8 staging system (M0/M1any[0] vs. M1any[1]). Patients were treated until disease progression or unacceptable toxicity. Tumour assessments, according to the Response Evaluation Criteria in Solid Tumours (RECIST), version 1.1, were conducted 12 weeks after randomisation and continued every 8 weeks up to 52 weeks and then every 12 weeks until disease progression or treatment discontinuation, whichever occurred later. The primary efficacy outcome measure was progression-free survival determined by Blinded Independent Central Review (BICR). The secondary efficacy outcome measures were overall survival (OS), and overall response rate (ORR) by BICR. The hierarchical statistical testing order was PFS followed by OS and then ORR. The primary and secondary outcome measures were evaluated in the intention to treat (ITT) population. No formal testing of ORR was conducted since the formal comparison of OS was not statistically significant.
 
 Baseline characteristics in the ITT population were balanced between the two groups. The median age was 63 years (range: 20-94) with 47% ≥ 65 years of age and 1 9% ≥ 75 years of age. The majority of patients were white (97%) and male (58%). Baseline ECOG performance status was 0 (67%) or 1 (33%). The majority of the patients had AJCC Stage IV disease (92%); 38.9% had M1c, 2.4% had M1d disease, 8.7% had prior systemic therapies, 36% had a baseline LDH level greater than ULN at study entry. Thirty nine percent of patients had BRAF mutation-positive melanoma, 75% had LAG-3 ≥ 1% and 41% of patients had PD-L1 ≥ 1% tumour cell membrane expression. Among patients with quantifiable tumour PD-L1 expression, the distribution of patients was balanced across the two treatment groups. The demographics and baseline disease characteristics in patients with PD-L1 expression &lt; 1% were generally balanced between the treatment arms.
 
 At primary analysis in the ITT population, with median follow-up of 13.21 months (range: 0-33.1 months), a statistically significant improvement in PFS was observed with a median PFS of 10.12 months in the nivolumab in combination with relatlimab group as compared with 4.63 months in the nivolumab group (HR = 0.75, 95% CI: 0.62, 0.92; p = 0.0055). At the time of the pre-specified final OS analysis in the ITT population, with median follow up of 19.3 months, OS was not statistically significant (HR = 0.80, 95% CI: 0.64, 1.01).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pre-specified subgroup analysis by PD-L1 expression &lt; 1%
 
 The key efficacy results for the subgroup of patients with tumour PD-L1 expression &lt; 1% from an exploratory analysis with median follow-up of 17.78 months (range: 0.26-40.64 months) are summarised in Table 3.
 
 Table 3: Efficacy results in patients with PD-L1 &lt; 1% tumour cell expression (CA224047)
+
+a Hazard ratio based on unstratified Cox proportional hazards model.
 
 |                                                      | nivolumab + relatlimab (n = 209)   | nivolumab (n = 212)   |
 |------------------------------------------------------|------------------------------------|-----------------------|
@@ -511,27 +523,23 @@ Table 3: Efficacy results in patients with PD-L1 &lt; 1% tumour cell expression 
 | Median in months (95% CI) Rate (95% CI) at 12 months | 6.7 (4.7, 12.0) 42.3               | 3.0 (2.8, 4.5) 26.9   |
 | Overall survival b                                   |                                    |                       |
 | Hazard ratio (95% CI) a                              | 0.78 (0.59, 1.04)                  | 0.78 (0.59, 1.04)     |
-| Median in months (95% CI)                            | NR (27.4, NR)                      | 27.0 (17.1, NR)       |
-| Rate (95% CI) at 12 months                           | 73.9                               | 67.4                  |
-|                                                      | (67.4, 79.4)                       | (60.6, 73.3)          |
-| Rate (95% CI) at 24 months                           | 59.6                               | 53.1                  |
-|                                                      | (52.2, 66.2)                       | (45.8, 59.9)          |
-
-<div style=\"page-break-after: always\"></div>
-
-|                            | nivolumab + relatlimab (n = 209)   | nivolumab (n = 212)   |
-|----------------------------|------------------------------------|-----------------------|
-| Overall response rate (%)  | 36.4                               | 24.1                  |
-| (95% CI)                   | (29.8, 43.3)                       | (18.5, 30.4)          |
-| Complete response rate (%) | 25 (12.0)                          | 20 (9.4)              |
-| Partial response rate (%)  | 51 (24.4)                          | 31 (14.6)             |
-| Stable disease rate (%)    | 41 (19.6)                          | 31 (14.6)             |
+| Median in months (95% CI) Rate (95% CI) at 12 months | NR (27.4, NR) 73.9                 | 27.0 (17.1, NR) 67.4  |
+| Rate (95% CI) at 24 months                           | (67.4, 79.4) 59.6                  | (60.6, 73.3) 53.1     |
+| Overall response rate (%)                            | (52.2, 66.2) 36.4                  | (45.8, 59.9) 24.1     |
+| (95% CI)                                             | (29.8, 43.3)                       | (18.5, 30.4)          |
+| Complete response rate (%)                           | 25 (12.0)                          | (9.4)                 |
+|                                                      |                                    | 20                    |
+| Partial response rate (%)                            | 51 (24.4)                          | 31 (14.6)             |
+| Stable disease rate (%)                              | 41 (19.6)                          | 31                    |
+|                                                      |                                    | (14.6)                |
 
 Median extent of follow-up: 17.78 months.
 
 NR = not reached.
 
 The Kaplan-Meier curves for PFS and OS in patients with tumour cell PD-L1 expression &lt; 1% are presented in Figures 1 and 2, respectively.
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 1: Kaplan-Meier curves of PFS in patients with PD-L1 &lt; 1% tumour cell expression (CA224047)
 
@@ -541,17 +549,67 @@ Progression-free survival per BICR (months)
 
 Number of subjects at risk
 
-| Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   |
-|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
-| 209                    | 122                    | 99                     | 80                     | 65                     | 53                     | 44                     | 36                     | 33                     | 30                     | 27                     | 9                      | 2                      | 0                      |
-| Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              |
-| 212                    | 98                     | 71                     | 57                     | 41                     | 34                     | 27                     | 24                     | 22                     | 20                     | 14                     | 8                      | 2                      | 0                      |
+Nivolumab/relatlimab
 
-0
+209
 
-0
+122
+
+99
+
+80
+
+Nivolumab
+
+212
+
+98
+
+71
+
+57
+
+65
+
+41
+
+53
+
+34
+
+44
+
+27
+
+36
+
+24
+
+33
+
+22
+
+30
+
+20
+
+27
+
+14
+
+9
+
+8
+
+2
+
+2
 
 ---- ----Nivolumab/relatlimab (events: 124/209), median (95% CI): 6.67 months (4.67, 11.99) - - - - - -Nivolumab (events: 155/212), median (95% CI): 2.96 months (2.79, 4.50)
+
+0
+
+0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -776,9 +834,7 @@ Administer the Opdualag infusion intravenously over a period of 30 minutes. Use 
 
 Opdualag infusion is compatible with EVA, PVC and polyolefin containers, PVC infusion sets and in-line filters with polyethersulfone (PES), nylon, and polyvinylidene fluoride (PVDF) membranes with pore sizes of 0.2 μ m to 1.2 μ m.
 
-Do not co-administer other medicinal products through the same infusion line.
-
-After administration of the Opdualag dose, flush the line with sodium chloride 9 mg/mL (0.9%) solution for injection or 50 mg/mL (5%) glucose solution for injection.
+Do not co-administer other medicinal products through the same infusion line. After administration of the Opdualag dose, flush the line with sodium chloride 9 mg/mL (0.9%) solution for injection or 50 mg/mL (5%) glucose solution for injection.
 
 ## Disposal
 
@@ -888,7 +944,9 @@ Opdualag 240 mg/80 mg concentrate for solution for infusion nivolumab/relatlimab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCES
 
-Each mL of concentrate contains 12 mg of nivolumab and 4 mg of relatlimab. One vial of 20 mL contains 240 mg of nivolumab and 80 mg of relatlimab.
+Each mL of concentrate contains 12 mg of nivolumab and 4 mg of relatlimab.
+
+One vial of 20 mL contains 240 mg of nivolumab and 80 mg of relatlimab.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -896,7 +954,7 @@ Excipients: histidine, histidine hydrochloride monohydrate, sucrose, pentetic ac
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Concentrate for solution for infusion
+## Concentrate for solution for infusion
 
 1 vial
 
@@ -912,7 +970,7 @@ For single use only.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIA L WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 ## 8. EXPIRY DATE
 
@@ -982,7 +1040,9 @@ Opdualag 240 mg/80 mg sterile concentrate nivolumab/relatlimab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCES
 
-Each mL of concentrate contains 12 mg of nivolumab and 4 mg of relatlimab. One vial of 20 mL contains 240 mg of nivolumab and 80 mg of relatlimab.
+Each mL of concentrate contains 12 mg of nivolumab and 4 mg of relatlimab.
+
+One vial of 20 mL contains 240 mg of nivolumab and 80 mg of relatlimab.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1047,8 +1107,7 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -1114,6 +1173,7 @@ Talk to your doctor before you get Opdualag as it may cause:
 -  Diabetes including a serious, sometimes life-threatening problem due to acid in the blood produced from diabetes (diabetic ketoacidosis). Symptoms may include feeling more hungry or thirsty than usual, need to urinate more often, weight loss, feeling tired or having difficulty thinking clearly, breath that smells sweet or fruity, a sweet or metallic taste in your mouth, or a different odour to your urine or sweat, feeling sick or being sick, stomach pain, and deep or fast breathing.
 -  Inflammation of the skin that can lead to severe skin reaction (known as toxic epidermal necrolysis and Stevens-Johnson syndrome). Signs and symptoms of severe skin reaction may include rash, itching, and peeling of the skin (possibly fatal).
 -  Inflammation of the heart muscle (myocarditis). Signs and symptoms may include chest pain, irregular and/or rapid heartbeat, fatigue, swelling in the ankles or shortness of breath.
+-  Myocarditis-Myositis-Myasthenia Gravis Overlap Syndrome: an overlap of either two or three conditions including inflammation of the heart muscle (myocarditis) that may cause chest pain, shortness of breath, irregular and/or rapid heartbeat, inflammation of the muscles (myositis) that may cause muscle pain, and a condition in which muscles become weak and tire easily (myasthenia gravis).
 -  Haemophagocytic lymphohistiocytosis. A rare disease in which your immune system makes too many otherwise normal infection-fighting cells called histiocytes and lymphocytes. Symptoms may include enlarged liver and/or spleen, skin rash, swollen lymph glands, breathing problems, easy bruising, kidney abnormalities, and heart problems.
 -  Solid organ transplant rejection.
 -  Graft-versus-host disease after stem cell transplantation (where the transplanted cells from a donor attack your own cells). If you have received one of these transplants, your doctor will consider whether you should receive treatment with Opdualag. Graft-versus-host disease can be severe and can lead to death.
@@ -1136,17 +1196,15 @@ Check with your doctor or nurse before you are given Opdualag if:
 
 Opdualag acts on your immune system. It may cause inflammation in parts of your body. Your risk of these side effects may be higher if you already have an autoimmune disease (a condition where the body attacks its own cells). You may also experience frequent flares of your autoimmune disease, which in the majority of cases are mild.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Children and adolescents
 
 Opdualag should not be used in children below 12 years of age.
 
 ## Other medicines and Opdualag
 
-Before you are given Opdualag, tell your doctor if you are taking any medicines that suppress your immune system, such as corticosteroids, since these medicines may interfere with the effect of
-
-<div style=\"page-break-after: always\"></div>
-
-Opdualag. However, once you are treated with Opdualag, your doctor may give you corticosteroids to reduce any possible side effects that you may have during your treatment.
+Before you are given Opdualag, tell your doctor if you are taking any medicines that suppress your immune system, such as corticosteroids, since these medicines may interfere with the effect of Opdualag. However, once you are treated with Opdualag, your doctor may give you corticosteroids to reduce any possible side effects that you may have during your treatment.
 
 Tell your doctor if you are taking, have recently taken or are planning to take any other medicines. Do not take any other medicines during your treatment without talking to your doctor first.
 
@@ -1185,6 +1243,8 @@ Opdualag will be given to you as an infusion (a drip) into a vein, every 4 weeks
 
 Your doctor will continue treating you with Opdualag for as long as you keep benefitting from it or until side effects become too severe.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you miss a dose of Opdualag
 
 It is very important for you to keep all your appointments to receive Opdualag. If you miss an appointment, ask your doctor when to schedule your next dose.
@@ -1192,8 +1252,6 @@ It is very important for you to keep all your appointments to receive Opdualag. 
 ## If you stop using Opdualag
 
 Stopping your treatment may stop the effect of the medicine. Do not stop treatment with Opdualag unless you have discussed this with your doctor.
-
-<div style=\"page-break-after: always\"></div>
 
 If you have any further questions on the use of this medicine, ask your doctor.
 
@@ -1235,13 +1293,13 @@ Changes in the results of tests carried out by your doctor may show:
 -  inflammation of the eye (which causes pain and redness, vision problems or blurry vision), vision problems, dry eyes, excessive tear production
 -  inflammation of the heart muscle
 -  inflammation of a vein, which can cause redness, tenderness and swelling
+
+<div style=\"page-break-after: always\"></div>
+
 -  inflammation of the lungs (pneumonitis), characterised by coughing and difficulty breathing; nasal congestion (blocked nose)
 -  inflammation of the intestines (colitis), inflammation of the pancreas, inflammation of the stomach (gastritis), difficulty swallowing, mouth ulcers and cold sores; dry mouth
 -  inflammation of the liver (hepatitis)
 -  unusual hair loss or thinning (alopecia), isolated area of skin growth that becomes red and itchy (lichenoid keratosis), sensitivity to light, dry skin
-
-<div style=\"page-break-after: always\"></div>
-
 -  painful joints (arthritis), muscle spasms, muscle weakness
 -  kidney failure (changes in amount or colour of urine, blood in urine, swelling ankles, loss of appetite), high levels of proteins in the urine
 -  oedema (swelling), flu-like symptoms, chills
@@ -1261,6 +1319,7 @@ Changes in the results of tests carried out by your doctor may show:
 -  underactive function of the pituitary gland situated at the base of the brain; underactive function of the glands producing sex hormones
 -  inflammation of the brain, which may include confusion, fever, memory problems or seizures (encephalitis), a temporary inflammation of the nerves that causes pain, weakness, and paralysis in the extremities (Guillain-Barré syndrome), inflammation of the optic nerve that may cause a complete or partial loss of vision
 -  condition in which muscles become weak and tire easily (myasthenia gravis)
+-  Myocarditis-Myositis-Myasthenia Gravis Overlap Syndrome: an overlap of either two or three conditions, including inflammation of the heart muscle (myocarditis), inflammation of the muscles (myositis), and a condition in which muscles become weak and tire easily (myasthenia gravis).
 -  an inflammatory disorder affecting the eyes, skin and the membranes of the ears, brain and spinal cord (Vogt-Koyanagi-Harada disease), red eye
 -  fluid around the heart
 -  asthma
@@ -1277,6 +1336,8 @@ Changes in the results of tests carried out by your doctor may show:
 -  increase in level of c-reactive protein
 -  red blood cell sedimentation rate increased.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Rare (may affect up to 1 in 1,000 people)
 
 - lack or reduction of digestive enzymes made by the pancreas (pancreatitc exocrine insufficiency)
@@ -1285,8 +1346,6 @@ Changes in the results of tests carried out by your doctor may show:
 ## Other side effects that have been reported with frequency not known (cannot be estimated from the available data)
 
 -  coeliac disease (charaterised by symptoms such as stomach pain, diarrhoea, and bloating after consuming gluten-containing foods)
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -1302,7 +1361,7 @@ Do not use this medicine after the expiry date which is stated on the carton and
 
 Store in a refrigerator (2 °C - 8 °C).
 
-## Do not freeze.
+Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
@@ -1314,15 +1373,21 @@ Do not store any unused portion of the infusion solution for reuse. Any unused m
 
 ## What Opdualag contains
 
-- 
+-  The active substances are nivolumab and relatlimab.
 
-The active substances are nivolumab and relatlimab. Each mL of concentrate for solution for infusion contains 12 mg of nivolumab and 4 mg of relatlimab. One vial of 20 mL concentrate contains 240 mg nivolumab and 80 mg relatlimab.
+Each mL of concentrate for solution for infusion contains 12 mg of nivolumab and 4 mg of relatlimab.
+
+One vial of 20 mL concentrate contains 240 mg nivolumab and 80 mg relatlimab.
 
 -  The other ingredients are histidine, histidine hydrochloride monohydrate, sucrose, pentetic acid, polysorbate 80 (E433) and water for injections.
 
 ## What Opdualag looks like and contents of the pack
 
-Opdualag concentrate for solution for infusion (sterile concentrate) is a clear to opalescent, colourless to slightly yellow liquid that is essentially free of particles. It is available in cartons containing one glass vial.
+Opdualag concentrate for solution for infusion (sterile concentrate) is a clear to opalescent, colourless to slightly yellow liquid that is essentially free of particles.
+
+It is available in cartons containing one glass vial.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -1332,13 +1397,9 @@ Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dubli
 
 Swords Laboratories Unlimited Company t/a Bristol-Myers Squibb Cruiserath Biologics Cruiserath Road, Mulhuddart Dublin 15, D15 H6EF Ireland
 
-<div style=\"page-break-after: always\"></div>
-
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België /Belgique/ Belgien
-
-N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
+België/Belgique/Belgien N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
 
 ## България
 
@@ -1368,14 +1429,6 @@ Bristol-Myers Squibb A.E. Τηλ: + 30 210 6074300 medinfo.greece@bms.com
 
 Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00 informacion.medica@bms.com
 
-## France
-
-Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96 infomed@bms.com
-
-## Hrvatska
-
-Swixx Biopharma d.o.o. Tel: + 385 1 2078 500 medinfo.croatia@swixxbiopharma.com
-
 ## Lietuva
 
 Swixx Biopharma UAB Tel: + 370 52 369140 medinfo.lithuania@swixxbiopharma.com
@@ -1386,7 +1439,9 @@ N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.be
 
 ## Magyarország
 
-Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797 Medinfo.hungary@bms.com
+Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797
+
+Medinfo.hungary@bms.com
 
 ## Malta
 
@@ -1408,15 +1463,23 @@ Bristol-Myers Squibb GesmbH Tel: + 43 1 60 14 30 medinfo.austria@bms.com
 
 Bristol-Myers Squibb Polska Sp. z o.o. Tel.: + 48 22 2606400 informacja.medyczna@bms.com
 
-## Portugal
-
-Bristol-Myers Squibb Farmacêutica Portuguesa, S.A. Tel: + 351 21 440 70 00 portugal.medinfo@bms.com
-
-## România
-
-Bristol-Myers Squibb Marketing Services S.R.L. Tel: + 40 (0)21 272 16 19 medinfo.romania@bms.com
-
 <div style=\"page-break-after: always\"></div>
+
+## France
+
+Bristol-Myers Squibb SAS
+
+Tél: + 33 (0)1 58 83 84 96
+
+infomed@bms.com
+
+## Hrvatska
+
+Swixx Biopharma d.o.o.
+
+Tel: + 385 1 2078 500
+
+medinfo.croatia@swixxbiopharma.com
 
 ## Ireland
 
@@ -1440,7 +1503,11 @@ medicalinformation.italia@bms.com
 
 ## Κύπρος
 
-Bristol-Myers Squibb A.E. Τηλ: 800 92666 (+ 30 210 6074300) medinfo.greece@bms.com
+Bristol-Myers Squibb A.E.
+
+Τηλ: 800 92666 (+ 30 210 6074300)
+
+medinfo.greece@bms.com
 
 ## Latvija
 
@@ -1460,22 +1527,19 @@ Detailed information on this medicine is available on the European Medicines Age
 
 Opdualag is supplied as a single-dose vial and does not contain any preservatives. Preparation should be performed by trained personnel in accordance with good practices rules, especially with respect to asepsis.
 
-Opdualag can be used for intravenous administration either:
+## Portugal
 
-- 
-- without dilution, after transfer to an infusion container using an appropriate sterile syringe; or
--  after diluting according to the following instructions:
--  the final infusion concentration should range between 3 mg/mL nivolumab and 1 mg/mL relatlimab to 12 mg/mL nivolumab and 4 mg/mL relatlimab.
--  the total volume of infusion must not exceed 160 mL. For patients weighing less than 40 kg, the total volume of infusion should not exceed 4 mL per kilogram of patient weight.
+Bristol-Myers Squibb Farmacêutica Portuguesa,
 
-## Opdualag concentrate may be diluted with either:
+S.A.
 
--  sodium chloride 9 mg/mL (0.9%) solution for injection; or
--  50 mg/mL (5%) glucose solution for injection.
+Tel: + 351 21 440 70 00
 
-## Preparing the infusion
+portugal.medinfo@bms.com
 
--  Inspect the Opdualag concentrate for particulate matter or discolouration. Do not shake the vial. Opdualag is a clear to opalescent, colourless to slightly yellow solution. Discard the vial if the solution is cloudy, discoloured, or contains extraneous particulate matter.
+## România
+
+Bristol-Myers Squibb Marketing Services S.R.L. Tel: + 40 (0)21 272 16 19 medinfo.romania@bms.com
 
 ## Slovenija
 
@@ -1501,12 +1565,23 @@ Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230 medinfo.finland
 
 Bristol-Myers Squibb Aktiebolag Tel: + 46 8 704 71 00 medinfo.sweden@bms.com
 
-## United Kingdom (Northern Ireland)
-
-Bristol-Myers Squibb Pharmaceutical Limited Tel: +44 (0)800 731 1736 medical.information@bms.com
-
 <div style=\"page-break-after: always\"></div>
 
+Opdualag can be used for intravenous administration either:
+
+-  without dilution, after transfer to an infusion container using an appropriate sterile syringe; or
+-  after diluting according to the following instructions:
+-  the final infusion concentration should range between 3 mg/mL nivolumab and 1 mg/mL relatlimab to 12 mg/mL nivolumab and 4 mg/mL relatlimab.
+-  the total volume of infusion must not exceed 160 mL. For patients weighing less than 40 kg, the total volume of infusion should not exceed 4 mL per kilogram of patient weight.
+
+## Opdualag concentrate may be diluted with either:
+
+-  sodium chloride 9 mg/mL (0.9%) solution for injection; or
+-  50 mg/mL (5%) glucose solution for injection.
+
+## Preparing the infusion
+
+-  Inspect the Opdualag concentrate for particulate matter or discolouration. Do not shake the vial. Opdualag is a clear to opalescent, colourless to slightly yellow solution. Discard the vial if the solution is cloudy, discoloured, or contains extraneous particulate matter.
 -  Withdraw the required volume of Opdualag concentrate using an appropriate sterile syringe and transfer the concentrate into a sterile, intravenous container (ethylvinyl acetate (EVA), polyvinyl chloride (PVC), or polyolefin). Each vial is filled with 21.3 mL of solution, which includes an overfill of 1.3 mL.
 -  If applicable, dilute Opdualag solution with the required volume of sodium chloride 9 mg/mL (0.9%) solution for injection or 50 mg/mL (5%) glucose solution for injection. For ease of preparation, the concentrate can also be transferred directly into a pre-filled bag containing the appropriate volume of sodium chloride 9 mg/mL (0.9%) solution for injection or 50 mg/mL (5%) glucose solution for injection.
 -  Gently mix the infusion by manual rotation. Do not shake.
@@ -1515,9 +1590,9 @@ Bristol-Myers Squibb Pharmaceutical Limited Tel: +44 (0)800 731 1736 medical.inf
 
 Opdualag infusion must not be administered as an intravenous push or bolus injection.
 
-Administer the Opdualag infusion intravenously over a period of 30 minutes.
+Administer the Opdualag infusion intravenously over a period of 30 minutes. Use of an infusion set and an in-line or add-on filter, sterile, non-pyrogenic, low protein binding filter
 
-Use of an infusion set and an in-line or add-on filter, sterile, non-pyrogenic, low protein binding filter (pore size of 0.2 μm to 1.2 μm) is recommended.
+(pore size of 0.2 μm to 1.2 μm) is recommended.
 
 Opdualag infusion is compatible with EVA, PVC and polyolefin containers, PVC infusion sets and in-line filters with polyethersulfone (PES), nylon, and polyvinylidene fluoride (PVDF) membranes with pore sizes of 0.2 μ m to 1.2 μ m.
 
@@ -1532,6 +1607,8 @@ Opdualag must be stored in a refrigerator (2 °C to 8 °C). The vials must be ke
 The unopened vial can be stored at controlled room temperature (up to 25 °C) for up to 72 hours.
 
 Do not use Opdualag after the expiry date which is stated on the carton and the vial label after EXP. The expiry date refers to the last day of that month.
+
+<div style=\"page-break-after: always\"></div>
 
 ## After preparation of infusion
 
@@ -1548,27 +1625,3 @@ From a microbiological point of view, the prepared solution for infusion, regard
 ## Disposal
 
 Do not store any unused portion of the infusion solution for reuse. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for nivolumab / relatlimab, the scientific conclusions of PRAC are as follows:
-
-In view of available data on immune-mediated adverse reactions in patients with pre-existing autoimmune disease is at least a reasonable possibility from the literature, and in view of a plausible mechanism of action, the PRAC considers a causal relationship between nivolumab / relatlimab and immune-mediated adverse reactions in patients with pre-existing autoimmune disease is at least a reasonable possibility. The PRAC concluded that the product information of products containing nivolumab / relatlimab should be amended accordingly.
-
-In view of available data on myasthenia gravis from clinical trials, spontaneous reports, literature and in view of a plausible mechanism of action, the PRAC considers a causal relationship between nivolumab / relatlimab and myasthenia gravis is at least a reasonable possibility. The PRAC concluded that the product information of products containing nivolumab / relatlimab should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for nivolumab / relatlimab the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing nivolumab / relatlimab is unchanged subject to the proposed changes to the product information
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

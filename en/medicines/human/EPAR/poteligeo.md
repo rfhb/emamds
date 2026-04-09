@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-20 16:16:00
+document_datetime: 2026-04-08 15:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/poteligeo.html
 document_name: poteligeo.html
 version: success
-processing_time: 0.1154504
-conversion_datetime: 2026-01-22 21:21:20.013624
+processing_time: 0.1005852
+conversion_datetime: 2026-04-09 12:35:20.814802
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Poteligeo
 
 [RSS](/en/individual-human-medicine.xml/67154)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-mogamulizumab Medicine Human Authorised
+mogamulizumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -98,181 +100,137 @@ English (EN) (75.31 KB - PDF)
 
 [View](/en/documents/overview/poteligeo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-736)
+[Other languages (22)](#file-language-dropdown-381)
 
 български (BG) (99.75 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/bg/documents/overview/poteligeo-epar-medicine-overview_bg.pdf)
 
 español (ES) (73.93 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/es/documents/overview/poteligeo-epar-medicine-overview_es.pdf)
 
 čeština (CS) (97.24 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/cs/documents/overview/poteligeo-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (72.12 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/da/documents/overview/poteligeo-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (75.24 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/de/documents/overview/poteligeo-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (71.6 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/et/documents/overview/poteligeo-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (107.99 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/el/documents/overview/poteligeo-epar-medicine-overview_el.pdf)
 
 français (FR) (75.09 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/fr/documents/overview/poteligeo-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (91.48 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/hr/documents/overview/poteligeo-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (73.71 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/it/documents/overview/poteligeo-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (94.75 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/lv/documents/overview/poteligeo-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (94.27 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/lt/documents/overview/poteligeo-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (92.66 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/hu/documents/overview/poteligeo-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (99 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/mt/documents/overview/poteligeo-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (73.11 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/nl/documents/overview/poteligeo-epar-medicine-overview_nl.pdf)
 
 polski (PL) (98.76 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/pl/documents/overview/poteligeo-epar-medicine-overview_pl.pdf)
 
 português (PT) (73.04 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/pt/documents/overview/poteligeo-epar-medicine-overview_pt.pdf)
 
 română (RO) (94.55 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/ro/documents/overview/poteligeo-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (96.21 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/sk/documents/overview/poteligeo-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (89.98 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/sl/documents/overview/poteligeo-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (72.24 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/fi/documents/overview/poteligeo-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (72.62 KB - PDF)
 
-**First published:**
-
-28/01/2019
+**First published:** 28/01/2019
 
 [View](/sv/documents/overview/poteligeo-epar-medicine-overview_sv.pdf)
 
@@ -280,9 +238,7 @@ Poteligeo : EPAR - Risk management plan
 
 English (EN) (704.58 KB - PDF)
 
-**First published:** 28/01/2019
-
-**Last updated:** 20/01/2026
+**First published:** 28/01/2019 **Last updated:** 20/01/2026
 
 [View](/en/documents/rmp/poteligeo-epar-risk-management-plan_en.pdf)
 
@@ -290,305 +246,161 @@ English (EN) (704.58 KB - PDF)
 
 Poteligeo : EPAR - Product information
 
-English (EN) (347.85 KB - PDF)
+English (EN) (235.64 KB - PDF)
 
-**First published:** 28/01/2019
-
-**Last updated:** 03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/en/documents/product-information/poteligeo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-58)
+[Other languages (24)](#file-language-dropdown-631)
 
-български (BG) (487.36 KB - PDF)
+български (BG) (359.96 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/bg/documents/product-information/poteligeo-epar-product-information_bg.pdf)
 
-español (ES) (386.5 KB - PDF)
+español (ES) (221.9 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/es/documents/product-information/poteligeo-epar-product-information_es.pdf)
 
-čeština (CS) (584.26 KB - PDF)
+čeština (CS) (363.11 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/cs/documents/product-information/poteligeo-epar-product-information_cs.pdf)
 
-dansk (DA) (371.77 KB - PDF)
+dansk (DA) (240.76 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/da/documents/product-information/poteligeo-epar-product-information_da.pdf)
 
-Deutsch (DE) (430.7 KB - PDF)
+Deutsch (DE) (265.41 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/de/documents/product-information/poteligeo-epar-product-information_de.pdf)
 
-eesti keel (ET) (416.01 KB - PDF)
+eesti keel (ET) (253.53 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/et/documents/product-information/poteligeo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (459.04 KB - PDF)
+ελληνικά (EL) (351.8 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/el/documents/product-information/poteligeo-epar-product-information_el.pdf)
 
-français (FR) (417.1 KB - PDF)
+français (FR) (430.2 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/fr/documents/product-information/poteligeo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (455.4 KB - PDF)
+hrvatski (HR) (384.1 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/hr/documents/product-information/poteligeo-epar-product-information_hr.pdf)
 
-íslenska (IS) (414.88 KB - PDF)
+íslenska (IS) (268.35 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/is/documents/product-information/poteligeo-epar-product-information_is.pdf)
 
-italiano (IT) (389.28 KB - PDF)
+italiano (IT) (296.84 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/it/documents/product-information/poteligeo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (452.9 KB - PDF)
+latviešu valoda (LV) (340.41 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/lv/documents/product-information/poteligeo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (442.39 KB - PDF)
+lietuvių kalba (LT) (298.32 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/lt/documents/product-information/poteligeo-epar-product-information_lt.pdf)
 
-magyar (HU) (470.17 KB - PDF)
+magyar (HU) (438.95 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/hu/documents/product-information/poteligeo-epar-product-information_hu.pdf)
 
-Malti (MT) (466.11 KB - PDF)
+Malti (MT) (332.72 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/mt/documents/product-information/poteligeo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (365.01 KB - PDF)
+Nederlands (NL) (197.28 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/nl/documents/product-information/poteligeo-epar-product-information_nl.pdf)
 
-norsk (NO) (372.13 KB - PDF)
+norsk (NO) (238.24 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/no/documents/product-information/poteligeo-epar-product-information_no.pdf)
 
-polski (PL) (493.08 KB - PDF)
+polski (PL) (473.79 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/pl/documents/product-information/poteligeo-epar-product-information_pl.pdf)
 
-português (PT) (385.07 KB - PDF)
+português (PT) (333.4 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/pt/documents/product-information/poteligeo-epar-product-information_pt.pdf)
 
-română (RO) (414.52 KB - PDF)
+română (RO) (295.12 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/ro/documents/product-information/poteligeo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (474.12 KB - PDF)
+slovenčina (SK) (331.01 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/sk/documents/product-information/poteligeo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (446.62 KB - PDF)
+slovenščina (SL) (331.01 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/sl/documents/product-information/poteligeo-epar-product-information_sl.pdf)
 
-Suomi (FI) (371.24 KB - PDF)
+Suomi (FI) (260.05 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/fi/documents/product-information/poteligeo-epar-product-information_fi.pdf)
 
-svenska (SV) (375.77 KB - PDF)
+svenska (SV) (241.64 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-03/09/2025
+**First published:** 28/01/2019 **Last updated:** 08/04/2026
 
 [View](/sv/documents/product-information/poteligeo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** EMEA/H/C/004232/II/0028/G 26/06/2025
+**Latest procedure affecting product information:** VR/0000339221
+
+08/04/2026
 
 icon globe
 
@@ -608,310 +420,178 @@ Poteligeo : EPAR - All Authorised presentations
 
 English (EN) (32.64 KB - PDF)
 
-**First published:** 28/01/2019
-
-**Last updated:** 28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/en/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-746)
+[Other languages (24)](#file-language-dropdown-410)
 
 български (BG) (51.85 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/bg/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (23.5 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/es/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (42.36 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/cs/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (34.44 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/da/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (34.43 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/de/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (33.23 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/et/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (32.96 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/el/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (32.94 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/fr/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (47.36 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/hr/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (34.07 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/is/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (32.64 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/it/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (45.28 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/lv/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (47.11 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/lt/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (40.4 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/hu/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (47.15 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/mt/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (32.92 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/nl/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (33.97 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/no/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (48.48 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/pl/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (33.79 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/pt/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (39.66 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/ro/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (46.59 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/sk/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (39.68 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/sl/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (32.24 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/fi/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (33.16 KB - PDF)
 
-**First published:**
-
-28/01/2019
-
-**Last updated:**
-
-28/04/2022
+**First published:** 28/01/2019 **Last updated:** 28/04/2022
 
 [View](/sv/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Poteligeo Active substance mogamulizumab International non-proprietary name (INN) or common name mogamulizumab Therapeutic area (MeSH)
+Name of medicine
+
+Poteligeo
+
+Active substance
+
+mogamulizumab
+
+International non-proprietary name (INN) or common name
+
+mogamulizumab
+
+Therapeutic area (MeSH)
 
 - Sezary Syndrome
 - Mycosis Fungoides
 
-Anatomical therapeutic chemical (ATC) code L01XC25
+Anatomical therapeutic chemical (ATC) code
+
+L01XC25
 
 ### Pharmacotherapeutic group
 
@@ -923,7 +603,9 @@ Poteligeo is indicated for the treatment of adult patients with mycosis fungoide
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004232
+EMA product number
+
+EMEA/H/C/004232
 
 Orphan
 
@@ -935,7 +617,17 @@ Kyowa Kirin Holdings B.V.
 
 Bloemlaan 2
 
-Opinion adopted 20/09/2018 Marketing authorisation issued 22/11/2018 Revision 10
+Opinion adopted
+
+20/09/2018
+
+Marketing authorisation issued
+
+22/11/2018
+
+Revision
+
+10
 
 ## Assessment history
 
@@ -947,11 +639,9 @@ Collapse section
 
 Poteligeo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (143.09 KB - PDF)
+English (EN) (144.73 KB - PDF)
 
-**First published:** 21/05/2025
-
-**Last updated:** 20/01/2026
+**First published:** 21/05/2025 **Last updated:** 08/04/2026
 
 [View](/en/documents/procedural-steps-after/poteligeo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -959,9 +649,7 @@ Poteligeo : EPAR - Procedural steps taken and scientific information after autho
 
 English (EN) (128.58 KB - PDF)
 
-**First published:** 10/01/2020
-
-**Last updated:** 21/05/2025
+**First published:** 10/01/2020 **Last updated:** 21/05/2025
 
 [View](/en/documents/procedural-steps-after/poteligeo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -989,28 +677,26 @@ English (EN) (3.8 MB - PDF)
 
 CHMP summary of positive opinion for Poteligeo
 
-Adopted
-
-Reference Number: EMA/CHMP/598685/2018
+Adopted Reference Number: EMA/CHMP/598685/2018
 
 English (EN) (69.75 KB - PDF)
 
-**First published:** 21/09/2018
-
-**Last updated:** 21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-poteligeo_en.pdf)
 
-#### News on Poteligeo
+## News on Poteligeo
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2018) 21/09/2018
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2018)
 
-#### More information on Poteligeo
+21/09/2018
+
+## More information on Poteligeo
 
 - [EU/3/16/1756 - orphan designation for treatment of cutaneous T-cell lymphoma](/en/medicines/human/orphan-designations/eu-3-16-1756)
 
-**This page was last updated on** 20/01/2026
+**This page was last updated on**
+
+08/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

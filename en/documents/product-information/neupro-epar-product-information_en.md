@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-05-08 16:22:50
+document_datetime: 2026-04-07 13:09:47
 document_pages: 172
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/neupro-epar-product-information_en.pdf
 document_name: neupro-epar-product-information_en.pdf
 version: success
-processing_time: 35.1489086
-conversion_datetime: 2025-12-22 13:40:22.35251
+processing_time: 39.1919764
+conversion_datetime: 2026-04-09 12:30:51.195356
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -166,7 +166,9 @@ External heat (excessive sunlight, heating pads and other sources of heat such a
 
 Application site skin reactions may occur and are usually mild or moderate in intensity. It is recommended that the application site should be rotated on a daily basis (e.g. from the right side to the left side and from the upper body to the lower body). The same site should not be used within 14 days. If application site reactions occur which last for more than a few days or are persistent, if there is an increase in severity, or if the skin reaction spreads outside the application site, an assessment of the risk/benefit balance for the individual patient should be conducted.
 
-If there is a skin rash or irritation from the transdermal system, direct sunlight on the area should be avoided until the skin heals, as exposure could lead to changes in the skin color. If a generalised skin reaction (e.g. allergic rash, including erythematous, macular, papular rash or pruritus) associated with the use of Neupro is observed, Neupro should be discontinued.
+If there is a skin rash or irritation from the transdermal system, direct sunlight on the area should be avoided until the skin heals, as exposure could lead to changes in the skin color.
+
+If a generalised skin reaction (e.g. allergic rash, including erythematous, macular, papular rash or pruritus) associated with the use of Neupro is observed, Neupro should be discontinued.
 
 ## Peripheral oedema
 
@@ -265,16 +267,6 @@ The following table covers adverse drug reactions from the pooled studies mentio
 | Investigations                                  |                                                                                                       | Weight decreased e , hepatic enzyme increased e (incl. AST, ALT, GGT), weight increased e , heart rate increased e , CPK increased d,e |
 | Injury, poisoning and procedural complications  |                                                                                                       | Fall e                                                                                                                                 |
 | Musculoskeletal and connective tissue disorders |                                                                                                       | Rhabdomyolysis c                                                                                                                       |
-
-a High Level Term
-
-b Observed in open-label studies
-
-c Observed during post-marketing
-
-d Observed in 2011 data pool of double-blind placebo-controlled studies
-
-e Observed in studies performed in patients with Parkinson's disease
 
 ## Description of selected adverse reactions
 
@@ -402,7 +394,7 @@ Polyester film, siliconized, aluminized, colour coated with a pigment (titanium 
 
 ## Self adhesive matrix layer
 
-Poly(dimethylsiloxane, trimethylsilyl silicate)-copolymerisate, Povidone K90, sodium metabisulphite (E223), ascorbyl palmitate (E304) and DLα -tocopherol (E307).
+Poly(dimethylsiloxane, trimethylsilyl silicate)-copolymerisate, Povidone K90, sodium metabisulphite (E223), ascorbyl palmitate (E304) and DL-α-tocopherol (E307).
 
 ## Release liner
 
@@ -466,7 +458,7 @@ Date of latest renewal: 22 January 2016
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-{MM/YYYY}
+## {MM/YYYY}
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -512,7 +504,7 @@ A single daily dose should be initiated at 1 mg/24 h. Depending on the individua
 
 ## Parkinson's disease
 
-## Dosing in patients with early-stage Parkinson's disease:
+Dosing in patients with early-stage Parkinson's disease:
 
 A single daily dose should be initiated at 2 mg/24 h and then increased in weekly increments of 2 mg/24 h to an effective dose up to a maximum dose of 8 mg/24 h.
 
@@ -754,15 +746,8 @@ The following table covers adverse drug reactions from the pooled studies mentio
 | Injury, poisoning and procedural complications         |                                                                                                                                                                                                                                                                                       |                                   | Fall e                                                                                                                                 |
 | Musculoskeletal and connective tissue disorders        |                                                                                                                                                                                                                                                                                       |                                   | Rhabdomyolysis c                                                                                                                       |
 
-a High Level Term
-
-b Observed in open-label studies
-
-c Observed during post-marketing
-
-d Observed in 2011 data pool of double-blind placebo-controlled studies
-
-e Observed in studies performed in patients with Parkinson's disease
+- d Observed in 2011 data pool of double-blind placebo-controlled studies
+- e Observed in studies performed in patients with Parkinson's disease
 
 ## Parkinson's disease
 
@@ -808,8 +793,7 @@ The following table covers adverse drug reactions from the pooled studies mentio
 | Injury, poisoning and procedural complications  | Fall               |                                                                                                           |                  |
 | Musculoskeletal and connective tissue disorders |                    |                                                                                                           | Rhabdomyolysis c |
 
-a High Level Term
-
+- a  High Level Term
 - b Observed in open-label studies
 - c Observed during post-marketing
 - d Observed in 2011 data pool of double-blind placebo-controlled studies
@@ -887,7 +871,7 @@ label, follow-up studies over a subsequent 12 months, the rate of clinically rel
 
 The effectiveness of rotigotine in the treatment of the signs and symptoms of idiopathic Parkinson's disease was evaluated in a multinational drug development program consisting of four pivotal, parallel, randomized, double-blind placebo controlled studies and three studies investigating specific aspects of Parkinson's disease.
 
-Two pivotal trials (SP512 Part I and SP513 Part I) investigating the effectiveness of rotigotine in the treatment of the signs and symptoms of idiopathic Parkinson's disease were conducted in patients who were not receiving concomitant dopamine agonist therapy and were either L-dopa naïve or previous Ldopa treatment was ≤ 6 months. The primary outcome assessment was the score for the Activities of Daily Living (ADL) component (Part II) plus the Motor Examination component (Part III) of the Unified Parkinson's Disease Rating Scale (UPDRS). Efficacy was determined by the subject's response to therapy in terms of responder and absolute points improvement in the scores of ADL and Motor Examination combined (UPDRS part II+III).
+Two pivotal trials (SP512 Part I and SP513 Part I) investigating the effectiveness of rotigotine in the treatment of the signs and symptoms of idiopathic Parkinson's disease were conducted in patients who were not receiving concomitant dopamine agonist therapy and were either L-dopa naïve or previous L-dopa treatment was ≤ 6 months. The primary outcome assessment was the score for the Activities of Daily Living (ADL) component (Part II) plus the Motor Examination component (Part III) of the Unified Parkinson's Disease Rating Scale (UPDRS). Efficacy was determined by the subject's response to therapy in terms of responder and absolute points improvement in the scores of ADL and Motor Examination combined (UPDRS part II+III).
 
 In the double blind study SP512 Part I , 177 patients received rotigotine and 96 patients received placebo. The patients were titrated to their optimal dose of rotigotine or placebo in weekly increments of 2 mg/24 h starting at 2 mg/24 h to a maximum dose of 6 mg/24 h. Patients in each treatment group were maintained at their optimal dose for 6 months.
 
@@ -979,7 +963,9 @@ Rotigotine did not induce gene mutations in the Ames test, but did show effects 
 
 ## Backing layer
 
-Polyester film, siliconized, aluminized, colour coated with a pigment (titanium dioxide (E171), pigment yellow 13, pigment red 166, pigment yellow 12) layer and imprinted (pigment red 146, pigment yellow 180, pigment black 7).
+## Polyester film, siliconized, aluminized,
+
+colour coated with a pigment (titanium dioxide (E171), pigment yellow 13, pigment red 166, pigment yellow 12) layer and imprinted (pigment red 146, pigment yellow 180, pigment black 7).
 
 ## Self adhesive matrix layer
 
@@ -987,7 +973,7 @@ Poly(dimethylsiloxane, trimethylsilyl silicate)-copolymerisate, Povidone K90,
 
 <div style=\"page-break-after: always\"></div>
 
-sodium metabisulphite (E223), ascorbyl palmitate (E304) and DLα -tocopherol (E307).
+sodium metabisulphite (E223), ascorbyl palmitate (E304) and DL-α-tocopherol (E307).
 
 ## Release liner
 
@@ -1097,9 +1083,7 @@ The dose recommendations made are in nominal dose.
 
 ## Dosing in patients with early-stage Parkinson's disease:
 
-A single daily dose should be initiated at 2 mg/24 h and then increased in weekly increments of 2 mg/24 h to an effective dose up to a maximum dose of 8 mg/24 h.
-
-4 mg/24 h may be an effective dose in some patients. For most patients an effective dose is reached within 3 or 4 weeks at doses of 6 mg/24 h or 8 mg/24 h, respectively. The maximum dose is 8 mg/24 h.
+A single daily dose should be initiated at 2 mg/24 h and then increased in weekly increments of 2 mg/24 h to an effective dose up to a maximum dose of 8 mg/24 h. 4 mg/24 h may be an effective dose in some patients. For most patients an effective dose is reached within 3 or 4 weeks at doses of 6 mg/24 h or 8 mg/24 h, respectively. The maximum dose is 8 mg/24 h.
 
 ## Dosing in patients with advanced stage Parkinson's disease with fluctuations:
 
@@ -1207,9 +1191,7 @@ External heat (excessive sunlight, heating pads and other sources of heat such a
 
 ## Application site reactions
 
-Application site skin reactions may occur and are usually mild or moderate in intensity. It is recommended that the application site should be rotated on a daily basis (e.g. from the right side to the left side and from the upper body to the lower body). The same site should not be used within 14 days.
-
-If application site reactions occur which last for more than a few days or are persistent, if there is an increase in severity, or if the skin reaction spreads outside the application site, an assessment of the risk/benefit balance for the individual patient should be conducted.
+Application site skin reactions may occur and are usually mild or moderate in intensity. It is recommended that the application site should be rotated on a daily basis (e.g. from the right side to the left side and from the upper body to the lower body). The same site should not be used within 14 days. If application site reactions occur which last for more than a few days or are persistent, if there is an increase in severity, or if the skin reaction spreads outside the application site, an assessment of the risk/benefit balance for the individual patient should be conducted.
 
 If there is a skin rash or irritation from the transdermal system, direct sunlight on the area should be avoided until the skin heals, as exposure could lead to changes in the skin color.
 
@@ -1317,14 +1299,6 @@ The following table covers adverse drug reactions from the pooled studies mentio
 | Injury, poisoning and procedural complications       |                                                                                                                                                                                                                           | Fall                                                                        |                                                                                                         |                  |                  |
 | Musculoskeletal and connective tissue disorders      |                                                                                                                                                                                                                           |                                                                             |                                                                                                         |                  | Rhabdomyolysis c |
 
-a High Level Term
-
-b Observed in open-label studies
-
-c Observed during post-marketing
-
-d Observed in 2011 data pool of double-blind placebo-controlled studies
-
 ## Description of selected adverse reactions
 
 Sudden onset of sleep and somnolence
@@ -1379,7 +1353,7 @@ Regarding the functional activity at the various receptor subtypes and their dis
 
 The effectiveness of rotigotine in the treatment of the signs and symptoms of idiopathic Parkinson's disease was evaluated in a multinational drug development program consisting of four pivotal, parallel, randomized, double-blind placebo controlled studies and three studies investigating specific aspects of Parkinson's disease.
 
-Two pivotal trials (SP512 Part I and SP513 Part I) investigating the effectiveness of rotigotine in the treatment of the signs and symptoms of idiopathic Parkinson's disease were conducted in patients who were not receiving concomitant dopamine agonist therapy and were either L-dopa naïve or previous Ldopa treatment was ≤ 6 months. The primary outcome assessment was the score for the Activities of Daily Living (ADL) component (Part II) plus the Motor Examination component (Part III) of the Unified Parkinson's Disease Rating Scale (UPDRS).
+Two pivotal trials (SP512 Part I and SP513 Part I) investigating the effectiveness of rotigotine in the treatment of the signs and symptoms of idiopathic Parkinson's disease were conducted in patients who were not receiving concomitant dopamine agonist therapy and were either L-dopa naïve or previous L-dopa treatment was ≤ 6 months. The primary outcome assessment was the score for the Activities of Daily Living (ADL) component (Part II) plus the Motor Examination component (Part III) of the Unified Parkinson's Disease Rating Scale (UPDRS).
 
 Efficacy was determined by the subject's response to therapy in terms of responder and absolute points improvement in the scores of ADL and Motor Examination combined (UPDRS part II+III).
 
@@ -1473,7 +1447,7 @@ Polyester film, siliconized, aluminized, colour coated with a pigment (titanium 
 
 ## Self adhesive matrix layer
 
-Poly(dimethylsiloxane, trimethylsilyl silicate)-copolymerisate, Povidone K90, sodium metabisulphite (E223), ascorbyl palmitate (E304) and DLα -tocopherol (E307).
+Poly(dimethylsiloxane, trimethylsilyl silicate)-copolymerisate, Povidone K90, sodium metabisulphite (E223), ascorbyl palmitate (E304) and DL-α-tocopherol (E307).
 
 ## Release liner
 
@@ -1573,11 +1547,17 @@ Neupro 2 mg/24 h transdermal patch
 
 Each patch releases 2 mg of rotigotine per 24 hours. Each patch of 10 cm 2 contains 4.5 mg of rotigotine.
 
-Neupro 4 mg/24 h transdermal patch Each patch releases 4 mg of rotigotine per 24 hours. Each patch of 20 cm 2 contains 9.0 mg of rotigotine.
+Neupro 4 mg/24 h transdermal patch
 
-Neupro 6 mg/24 h transdermal patch Each patch releases 6 mg of rotigotine per 24 hours. Each patch of 30 cm 2 contains 13.5 mg of rotigotine.
+Each patch releases 4 mg of rotigotine per 24 hours. Each patch of 20 cm 2 contains 9.0 mg of rotigotine.
 
-Neupro 8 mg/24 h transdermal patch Each patch releases 8 mg of rotigotine per 24 hours. Each patch of 40 cm 2 contains 18.0 mg of rotigotine.
+## Neupro 6 mg/24 h transdermal patch
+
+Each patch releases 6 mg of rotigotine per 24 hours. Each patch of 30 cm 2 contains 13.5 mg of rotigotine.
+
+Neupro 8 mg/24 h transdermal patch contains 18.0 mg of
+
+Each patch releases 8 mg of rotigotine per 24 hours. Each patch of 40 cm 2 rotigotine.
 
 For the full list of excipients, see section 6.1.
 
@@ -1605,9 +1585,7 @@ The dose recommendations made are in nominal dose.
 
 A single daily dose should be initiated at 2 mg/24 h and then increased in weekly increments of 2 mg/24 h to an effective dose up to a maximum dose of 8 mg/24 h.
 
-4 mg/24 h may be an effective dose in some patients. For most patients an effective dose is reached within 3 or 4 weeks at doses of 6 mg/24 h or 8 mg/24 h, respectively.
-
-The maximum dose is 8 mg/24 h.
+4 mg/24 h may be an effective dose in some patients. For most patients an effective dose is reached within 3 or 4 weeks at doses of 6 mg/24 h or 8 mg/24 h, respectively. The maximum dose is 8 mg/24 h.
 
 ## Dosing in patients with advanced stage Parkinson's disease with fluctuations:
 
@@ -1825,7 +1803,9 @@ The following table covers adverse drug reactions from the pooled studies mentio
 | Injury, poisoning and procedural complications       |                                                                                                                                                                                                                           | Fall                                                                        |                                                                                                         |                  |                  |
 | Musculoskeletal and connective tissue disorders      |                                                                                                                                                                                                                           |                                                                             |                                                                                                         |                  | Rhabdomyolysis c |
 
-a High Level Term b Observed in open-label studies
+a  High Level Term
+
+b Observed in open-label studies
 
 c Observed during post-marketing d Observed in 2011 data pool of double-blind placebo-controlled studies
 
@@ -1883,7 +1863,7 @@ Regarding the functional activity at the various receptor subtypes and their dis
 
 The effectiveness of rotigotine in the treatment of the signs and symptoms of idiopathic Parkinson's disease was evaluated in a multinational drug development program consisting of four pivotal, parallel, randomized, double-blind placebo controlled studies and three studies investigating specific aspects of Parkinson's disease.
 
-Two pivotal trials (SP512 Part I and SP513 Part I) investigating the effectiveness of rotigotine in the treatment of the signs and symptoms of idiopathic Parkinson's disease were conducted in patients who were not receiving concomitant dopamine agonist therapy and were either L-dopa naïve or previous Ldopa treatment was ≤ 6 months. The primary outcome assessment was the score for the Activities of Daily Living (ADL) component (Part II) plus the Motor Examination component (Part III) of the Unified Parkinson's Disease Rating Scale (UPDRS).
+Two pivotal trials (SP512 Part I and SP513 Part I) investigating the effectiveness of rotigotine in the treatment of the signs and symptoms of idiopathic Parkinson's disease were conducted in patients who were not receiving concomitant dopamine agonist therapy and were either L-dopa naïve or previous L-dopa treatment was ≤ 6 months. The primary outcome assessment was the score for the Activities of Daily Living (ADL) component (Part II) plus the Motor Examination component (Part III) of the Unified Parkinson's Disease Rating Scale (UPDRS).
 
 Efficacy was determined by the subject's response to therapy in terms of responder and absolute points improvement in the scores of ADL and Motor Examination combined (UPDRS part II+III).
 
@@ -1977,7 +1957,7 @@ Polyester film, siliconized, aluminized, colour coated with a pigment (titanium 
 
 ## Self adhesive matrix layer
 
-Poly(dimethylsiloxane, trimethylsilyl silicate)-copolymerisate, Povidone K90, sodium metabisulphite (E223), ascorbyl palmitate (E304) and DLα -tocopherol (E307).
+Poly(dimethylsiloxane, trimethylsilyl silicate)-copolymerisate, Povidone K90, sodium metabisulphite (E223), ascorbyl palmitate (E304) and DL-α-tocopherol (E307).
 
 ## Release liner
 
@@ -2343,17 +2323,19 @@ neupro 1 mg/24 h
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SACHET LABEL                                                       |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| SACHET LABEL                                                     |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
-Neupro 1 mg/24 h transdermal patch rotigotine Transdermal use
+Neupro 1 mg/24 h transdermal patch rotigotine
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+Transdermal use
+
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 Read the package leaflet before use.
 
@@ -2367,8 +2349,8 @@ EXP:
 
 Lot:
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1 transdermal patch
 
@@ -2429,9 +2411,13 @@ Do not store above 30°C.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-## UCB Pharma S.A.
+UCB Pharma S.A.
 
-Allée de la Recherche 60 B-1070 Bruxelles Belgium
+Allée de la Recherche 60
+
+B-1070 Bruxelles
+
+Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2639,9 +2625,9 @@ neupro 2 mg/24 h
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SACHET LABEL                                                       |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+SACHET LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -2649,18 +2635,15 @@ Neupro 2 mg/24 h transdermal patch rotigotine
 
 Transdermal use
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 Read the package leaflet before use.
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP:
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot:
 
@@ -2698,10 +2681,8 @@ Contains E223. See leaflet for further information.
 7 transdermal patches
 
 - 14 transdermal patches
-
-28 transdermal patches
-
-30 transdermal patches
+- 28 transdermal patches
+- 30 transdermal patches
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -2755,7 +2736,7 @@ Lot:
 
 Medicinal product subject to medical prescription.
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2827,13 +2808,7 @@ Do not store above 30°C.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-UCB Pharma S.A.
-
-Allée de la Recherche 60
-
-B-1070 Bruxelles
-
-Belgium
+UCB Pharma S.A. Allée de la Recherche 60 B-1070 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2945,8 +2920,6 @@ neupro 3 mg/24 h
 17. UNIQUE IDENTIFIER - 2D BARCODE
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
 SACHET LABEL
@@ -2975,6 +2948,8 @@ Lot:
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 BOX OF 7 [14] [28] [30] PATCHES
@@ -3000,10 +2975,8 @@ Contains E223. See leaflet for further information.
 7 transdermal patches
 
 - 14 transdermal patches
-
-28 transdermal patches
-
-30 transdermal patches
+- 28 transdermal patches
+- 30 transdermal patches
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -3245,8 +3218,6 @@ neupro 4 mg/24 h
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
 SACHET LABEL
@@ -3275,6 +3246,8 @@ Lot:
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 BOX OF 7 [14] [28] [30] PATCHES
@@ -3285,9 +3258,9 @@ Neupro 6 mg/24 h transdermal patch rotigotine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each patch releases 6 mg of rotigotine per 24 hours. 2
+Each patch releases 6 mg of rotigotine per 24 hours.
 
-Each patch of 30 cm contains 13.5 mg of rotigotine.
+Each patch of 30 cm 2 contains 13.5 mg of rotigotine.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -3329,9 +3302,13 @@ Do not store above 30°C.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-## UCB Pharma S.A.
+UCB Pharma S.A.
 
-Allée de la Recherche 60 B-1070 Bruxelles Belgium
+Allée de la Recherche 60
+
+B-1070 Bruxelles
+
+Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3473,9 +3450,9 @@ Neupro 6 mg/24 h transdermal patch rotigotine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each patch releases 6 mg of rotigotine per 24 hours. 2
+Each patch releases 6 mg of rotigotine per 24 hours.
 
-Each patch of 30 cm contains 13.5 mg of rotigotine.
+Each patch of 30 cm 2 contains 13.5 mg of rotigotine.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -3503,8 +3480,6 @@ Keep out of the sight and reach of children.
 
 EXP:
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Do not store above 30°C.
@@ -3528,12 +3503,16 @@ Lot:
 Medicinal product subject to medical prescription.
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 neupro 6 mg/24 h
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3577,9 +3556,9 @@ Neupro 8 mg/24 h transdermal patch rotigotine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each patch releases 8 mg of rotigotine per 24 hours. 2
+Each patch releases 8 mg of rotigotine per 24 hours.
 
-Each patch of 40 cm contains 18.0 mg of rotigotine.
+Each patch of 40 cm 2 contains 18.0 mg of rotigotine.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -3621,9 +3600,13 @@ Do not store above 30°C.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-## UCB Pharma S.A.
+UCB Pharma S.A.
 
-Allée de la Recherche 60 B-1070 Bruxelles Belgium
+Allée de la Recherche 60
+
+B-1070 Bruxelles
+
+Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3795,8 +3778,6 @@ Keep out of the sight and reach of children.
 
 EXP:
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Do not store above 30°C.
@@ -3820,12 +3801,16 @@ Lot:
 Medicinal product subject to medical prescription.
 
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 neupro 8 mg/24 h
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3861,9 +3846,7 @@ Lot:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## BOX OF 28 PATCHES -TREATMENT INITIATION PACK - 4 WEEK TREATMENT
-
-SCHEDULE
+## BOX OF 28 PATCHES -TREATMENT INITIATION PACK - 4 WEEK TREATMENT SCHEDULE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3947,7 +3930,7 @@ EXP:
 
 Do not store above 30°C.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3981,12 +3964,10 @@ neupro 2 mg/24 h, 4 mg/24 h, 6 mg/24 h, 8 mg/24 h
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4030,8 +4011,6 @@ Keep out of the sight and reach of children.
 
 EXP:
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Do not store above 30°C.
@@ -4055,12 +4034,16 @@ Lot:
 Medicinal product subject to medical prescription.
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 neupro 2 mg/24 h
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4070,9 +4053,7 @@ SACHET LABEL - WEEK 1
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Neupro 2 mg/24 h transdermal patch rotigotine
-
-Transdermal use
+Neupro 2 mg/24 h transdermal patch rotigotine Transdermal use
 
 Week 1
 
@@ -4106,7 +4087,11 @@ Neupro 4 mg/24 h transdermal patch rotigotine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each patch releases 4 mg of rotigotine per 24 hours. Each patch of 20 cm 2 contains 9.0 mg of rotigotine.
+Each patch releases 4 mg of rotigotine per 24 hours.
+
+Each patch of 20 cm 2
+
+contains 9.0 mg of rotigotine.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -4136,8 +4121,6 @@ Keep out of the sight and reach of children.
 
 EXP:
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Do not store above 30°C.
@@ -4161,12 +4144,16 @@ Lot:
 Medicinal product subject to medical prescription.
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 neupro 4 mg/24 h
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4176,9 +4163,7 @@ SACHET LABEL - WEEK 2
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Neupro 4 mg/24 h transdermal patch rotigotine
-
-Transdermal use
+Neupro 4 mg/24 h transdermal patch rotigotine Transdermal use
 
 Week 2
 
@@ -4212,9 +4197,9 @@ Neupro 6 mg/24 h transdermal patch rotigotine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each patch releases 6 mg of rotigotine per 24 hours. 2
+Each patch releases 6 mg of rotigotine per 24 hours.
 
-Each patch of 30 cm contains 13.5 mg of rotigotine.
+Each patch of 30 cm 2 contains 13.5 mg of rotigotine.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -4250,7 +4235,7 @@ Do not store above 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -4269,11 +4254,13 @@ Lot:
 Medicinal product subject to medical prescription.
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 neupro 6 mg/24 h
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -4288,13 +4275,11 @@ Neupro 6 mg/24 h transdermal patch rotigotine Transdermal use
 
 Week 3
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 Read the package leaflet before use.
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP:
 
@@ -4322,9 +4307,9 @@ Neupro 8 mg/24 h transdermal patch rotigotine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each patch releases 8 mg of rotigotine per 24 hours. 2
+Each patch releases 8 mg of rotigotine per 24 hours.
 
-Each patch of 40 cm contains 18.0 mg of rotigotine.
+Each patch of 40 cm 2 contains 18.0 mg of rotigotine.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -4396,14 +4381,11 @@ SACHET LABEL - WEEK 4
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Neupro 8 mg/24 h transdermal patch rotigotine
-
-Transdermal use
+Neupro 8 mg/24 h transdermal patch rotigotine Transdermal use
 
 Week 4
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 Read the package leaflet before use.
 
@@ -4417,8 +4399,8 @@ EXP:
 
 Lot:
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1 transdermal patch
 
@@ -4624,9 +4606,8 @@ To open the sachet, hold the sachet
 3. Open the sachet.
 4. Take the patch out of the sachet.
 
-The sticky side of the patch is covered by a transparent release
+5. The sticky side of the patch is covered by a transparent release liner.
 
-5. liner.
 - Hold the patch in both hands with the release liner facing you.
 
 6.
@@ -4776,7 +4757,7 @@ Tell your doctor or pharmacist if you get any of the following side effects:
 - being aggressive
 - disorientation
 
-## Rare : may affect up to 1 in 1,000 people
+Rare : may affect up to 1 in 1,000 people
 
 ## Not known : it is not known how often these happen
 
@@ -4840,7 +4821,7 @@ Do not store above 30°C.
 
 The active substance is rotigotine.
 
-- •
+- ·
 - 1 mg/24 h: contains 2.25 mg of
 
 Each patch releases 1 mg of rotigotine per 24 hours. Each patch of 5 cm 2 rotigotine.
@@ -4853,7 +4834,7 @@ Each patch releases 3 mg of rotigotine per 24 hours. Each patch of 15 cm 2 conta
 
 ## The other ingredients are:
 
-- Poly(dimethylsiloxane, trimethylsilyl silicate)-copolymerisate, povidoneK90, sodium metabisulphite (E223), ascorbyl palmitate (E304) and DLα -tocopherol (E307).
+- Poly(dimethylsiloxane, trimethylsilyl silicate)-copolymerisate, povidoneK90, sodium metabisulphite (E223), ascorbyl palmitate (E304) and DL-α-tocopherol (E307).
 - Backing layer: Polyester film, siliconized, aluminized, colour coated with a pigment (titanium dioxide (E171), pigment yellow 13, pigment red 166, pigment yellow 12) layer and imprinted (pigment red 146, pigment yellow 180, pigment black 7).
 - Release liner: Transparent fluoropolymer coated polyester film.
 
@@ -4885,21 +4866,21 @@ Tél/Tel: +32-(0)2 559 92 00
 
 ## Lietuva
 
-UCB Pharma Oy Finland Tel: +358-92 514 4221 (Suomija)
+UCB Pharma Oy Finland
+
+Tel: +358 9 2514 4231 (Suomija)
 
 ## България
 
 Ю СИ БИ България ЕООД
 
-Te л. :
-
-+359-(0)2 962 30 49
+Teл.: +359-(0)2 962 30 49
 
 ## Luxembourg/Luxemburg
 
 UCB Pharma SA/NV
 
-Tél/Tel: +32-(0)2 559 92 00
+Tél/Tel: +32 / (0)2 559 92 00 (Belgique/Belgien)
 
 ## Česká republika
 
@@ -4937,17 +4918,13 @@ Tel: +49-(0) 2173 48 48 48
 
 UCB Pharma Oy Finland
 
-Tel: +358-92 514 4221 (Soome)
+Tel: +358 9 2514 4231 (Soome)
 
 ## Ελλάδα
 
-UCB Α . Ε
+UCB Α.Ε.
 
-.
-
-Τηλ: +30
-
--2109974000
+Τηλ: +30-2109974000
 
 ## España
 
@@ -4957,9 +4934,9 @@ Tel: +34-91 570 34 44
 
 ## France
 
-UCB Pharma S.A.
+UCB Pharma
 
-Tél: +33-(0)1 47 29 44 35
+Tél: +33 / (0)1 47 29 44 35
 
 ## Hrvatska
 
@@ -4989,15 +4966,13 @@ Tel: +39-02 300 791
 
 Lifepharma (Z.A.M.) Ltd
 
-Τηλ: +357
-
--22 05 63 00
+Τηλ: +357 22 056300
 
 ## Latvija
 
 UCB Pharma Oy Finland
 
-Tel: +358-92 514 4221 (Somija)
+Tel: +358 9 2514 4231 (Somija)
 
 ## This leaflet was last revised in {MM/YYYY}
 
@@ -5015,7 +4990,7 @@ Tel: +31-(0)76-573 11 40
 
 UCB Nordic A/S
 
-Tlf: +45-32 46 24 00
+Tlf: +47 / 67 16 5880
 
 ## Österreich
 
@@ -5025,9 +5000,9 @@ Tel: +43-(0)1 291 80 00
 
 ## Polska
 
-UCB Pharma Sp. z o.o.
+UCB Pharma Sp. z o.o. / VEDIM Sp. z o.o.
 
-Tel.: +48-22 696 99 20
+Tel: +48 22 696 99 20
 
 ## Portugal
 
@@ -5049,7 +5024,7 @@ Tel: +386-1 589 69 00
 
 ## Slovenská republika
 
-UCB s.r.o. , organizačná zložka
+UCB s.r.o., organizačná zložka
 
 Tel: +421-(0)2 5920 2020
 
@@ -5297,8 +5272,11 @@ Peel apart the foil.
 
 <div style=\"page-break-after: always\"></div>
 
-3. Open the sachet.
-2. 4.
+## 3.
+
+- Open the sachet.
+
+## 4.
 
 Take the patch out of the sachet.
 
@@ -5317,12 +5295,14 @@ The sticky side of the patch is covered by a transparent release liner.
 - Peel off one side of the release liner.
 - Do not touch the sticky side of the patch with your fingers.
 
-8.
+## 8.
 
 - Hold the other half of the rigid release liner.
 - Then put the sticky half of the patch onto your skin.
 - Press the sticky side of the patch firmly into place.
-9. Fold back the other half of the patch and remove the other side of the release liner.
+- 9.
+
+Fold back the other half of the patch and remove the other side of the release liner.
 
 <!-- image -->
 
@@ -5593,7 +5573,7 @@ The active substance is rotigotine.
 
 ## The other ingredients are:
 
-- Poly(dimethylsiloxane, trimethylsilyl silicate)-copolymerisate, povidoneK90, sodium metabisulphite (E223), ascorbyl palmitate (E304) and DLα -tocopherol (E307).
+- Poly(dimethylsiloxane, trimethylsilyl silicate)-copolymerisate, povidoneK90, sodium metabisulphite (E223), ascorbyl palmitate (E304) and DL-α-tocopherol (E307).
 - Backing layer: Polyester film, siliconized, aluminized, colour coated with a pigment (titanium dioxide (E171), pigment yellow 13, pigment red 166, pigment yellow 12) layer and imprinted (pigment red 146, pigment yellow 180, pigment black 7).
 - Release liner: Transparent fluoropolymer coated polyester film.
 
@@ -5619,23 +5599,27 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-UCB Pharma SA/NV Tél/Tel: +32-(0)2 559 92 00
+UCB Pharma SA/NV
+
+Tél/Tel: +32-(0)2 559 92 00
 
 ## Lietuva
 
-UCB Pharma Oy Finland Tel: +358-92 514 4221 (Suomija)
+UCB Pharma Oy Finland Tel: +358 9 2514 4231 (Suomija)
 
 ## България
 
 Ю СИ БИ България ЕООД
 
-Te л. :
+Teл. :
 
 +359-(0)2 962 30 49
 
 ## Luxembourg/Luxemburg
 
-UCB Pharma SA/NV Tél/Tel: +32-(0)2 559 92 00
+UCB Pharma SA/NV
+
+Tél/Tel: +32 / (0)2 559 92 00 (Belgique/Belgien)
 
 ## Česká republika
 
@@ -5679,17 +5663,13 @@ Tel: +31-(0)76-573 11 40
 
 UCB Pharma Oy Finland
 
-Tel: +358-92 514 4221 (Soome)
+Tel: +358 9 2514 4231 (Soome)
 
 ## Ελλάδα
 
-UCB Α . Ε
+UCB Α.Ε.
 
-.
-
-Τηλ: +30
-
--2109974000
+Τηλ: +30-2109974000
 
 ## España
 
@@ -5699,9 +5679,9 @@ Tel: +34-91 570 34 44
 
 ## France
 
-UCB Pharma S.A.
+UCB Pharma
 
-Tél: +33-(0)1 47 29 44 35
+Tél: +33 / (0)1 47 29 44 35
 
 ## Hrvatska
 
@@ -5731,15 +5711,13 @@ Tel: +39-02 300 791
 
 Lifepharma (Z.A.M.) Ltd
 
-Τηλ: +357
-
--22 05 63 00
+Τηλ: +357 22 056300
 
 ## Latvija
 
 UCB Pharma Oy Finland
 
-Tel: +358-92 514 4221 (Somija)
+Tel: +358 9 2514 4231 (Somija)
 
 ## This leaflet was last revised in {MM/YYYY}
 
@@ -5751,7 +5729,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 UCB Nordic A/S
 
-Tlf: +45-32 46 24 00
+Tlf: +47 / 67 16 5880
 
 ## Österreich
 
@@ -5761,9 +5739,9 @@ Tel: +43-(0)1 291 80 00
 
 ## Polska
 
-UCB Pharma Sp. z o.o.
+UCB Pharma Sp. z o.o. / VEDIM Sp. z.o.o.
 
-Tel.: +48-22 696 99 20
+Tel: +48 22 696 99 20
 
 ## Portugal
 
@@ -5785,7 +5763,7 @@ Tel: +386-1 589 69 00
 
 ## Slovenská republika
 
-UCB s.r.o., org anizačná zložka
+UCB s.r.o., organizačná zložka
 
 Tel: +421-(0)2 5920 2020
 
@@ -6019,16 +5997,15 @@ If the patch falls off, put on a new patch for the rest of the day - then replac
 - Each patch is packed in a separate sachet.
 - Before opening the sachet decide where you are going to stick this new patch and check you have removed any old patch.
 - Stick the Neupro patch onto your skin as soon as you have opened the sachet and removed the release liner.
+- 1 . To open the sachet, hold the
 
-## 1 .
-
-To open the sachet, hold the sachet in both hands.
+sachet in both hands.
 
 - 2.
 
 Peel apart the foil.
 
-- 3.
+## 3.
 
 Open the sachet.
 
@@ -6224,7 +6201,7 @@ Rare : may affect up to 1 in 1,000 people
 - rash over larger parts of the body
 - involuntary muscle spasms (convulsion)
 
-Not known : it is not known how often these happen
+## Not known : it is not known how often these happen
 
 - craving large doses of medicines like Neupro - more than needed for the illness. This is known as 'dopamine dysregulation syndrome' and can lead to use of too much Neupro.
 - diarrhoea
@@ -6263,13 +6240,11 @@ The active substance is rotigotine.
 
 Each patch releases 6 mg of rotigotine per 24 hours. Each patch of 30 cm 2 contains 13.5 mg of rotigotine.
 
-contains 18.0 mg of
-
-- 8 mg/24 h: Each patch releases 8 mg of rotigotine per 24 hours. Each patch of 40 cm 2 rotigotine.
+- 8 mg/24 h: Each patch releases 8 mg of rotigotine per 24 hours. Each patch of 40 cm 2 contains 18.0 mg of rotigotine.
 
 ## The other ingredients are:
 
-- Poly(dimethylsiloxane, trimethylsilyl silicate)-copolymerisate, povidoneK90, sodium metabisulphite (E223), ascorbyl palmitate (E304) and DLα -tocopherol (E307).
+- Poly(dimethylsiloxane, trimethylsilyl silicate)-copolymerisate, povidoneK90, sodium metabisulphite (E223), ascorbyl palmitate (E304) and DL-α-tocopherol (E307).
 - Backing layer: Polyester film, siliconized, aluminized, colour coated with a pigment (titanium dioxide (E171), pigment yellow 13, pigment red 166, pigment yellow 12) layer and imprinted (pigment red 146, pigment yellow 180, pigment black 7).
 - Release liner: Transparent fluoropolymer coated polyester film.
 
@@ -6289,11 +6264,13 @@ UCB Pharma S.A. Allée de la Recherche 60 B-1070 Bruxelles Belgium
 
 ## Manufacturer
 
-UCB Pharma S.A. Chemin du Foriest
+UCB Pharma S.A.
 
-<div style=\"page-break-after: always\"></div>
+Chemin du Foriest
 
 B-1420 Braine l'Alleud Belgium
+
+<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -6303,11 +6280,25 @@ UCB Pharma SA/NV
 
 Tél/Tel: +32-(0)2 559 92 00
 
+## Lietuva
+
+UCB Pharma Oy Finland
+
+Tel: +358 9 2514 4231 (Suomija)
+
 ## България
 
 Ю СИ БИ България ЕООД
 
-Te л. : +359-(0)2 962 30 49
+Teл. :
+
++359-(0)2 962 30 49
+
+## Luxembourg/Luxemburg
+
+UCB Pharma SA/NV
+
+Tél/Tel: +32 / (0)2 559 92 00 (Belgique/Belgien)
 
 ## Česká republika
 
@@ -6315,81 +6306,17 @@ UCB s.r.o.
 
 Tel: +420-221 773 411
 
-## Danmark
-
-UCB Nordic A/S
-
-Tlf.: +45-32 46 24 00
-
-## Deutschland
-
-UCB Pharma GmbH
-
-Tel: +49-(0) 2173 48 48 48
-
-## Eesti
-
-UCB Pharma Oy Finland
-
-Tel: +358-92 514 4221 (Soome)
-
-## Ελλάδα
-
-UCB Α . Ε
-
-.
-
-Τηλ: +30
-
--2109974000
-
-## España
-
-UCB Pharma S.A.
-
-Tel: +34-91 570 34 44
-
-## France
-
-UCB Pharma S.A.
-
-Tél: +33-(0)1 47 29 44 35
-
-## Hrvatska
-
-Medis Adria d.o.o.
-
-Tel: +385-(0)1 230 34 46
-
-## Ireland
-
-UCB (Pharma) Ireland Ltd.
-
-Tel: +353-(0)1 46 37 395
-
-## Ísland
-
-UCB Nordic A/S
-
-Sími: + 45 / 32 46 24 00
-
-## Lietuva
-
-UCB Pharma Oy Finland
-
-Tel: +358-92 514 4221 (Suomija)
-
-## Luxembourg/Luxemburg
-
-UCB Pharma SA/NV
-
-Tél/Tel: +32-(0)2 559 92 00
-
 ## Magyarország
 
 UCB Magyarország Kft.
 
 Tel.: +36-(1) 391 0060
+
+## Danmark
+
+UCB Nordic A/S
+
+Tlf.: +45-32 46 24 00
 
 ## Malta
 
@@ -6397,17 +6324,35 @@ Pharmasud Ltd.
 
 Tel: +356-21 37 64 36
 
+## Deutschland
+
+UCB Pharma GmbH
+
+Tel: +49-(0) 2173 48 48 48
+
 ## Nederland
 
 UCB Pharma B.V.
 
 Tel: +31-(0)76-573 11 40
 
+## Eesti
+
+UCB Pharma Oy Finland
+
+Tel: +358 9 2514 4231 (Soome)
+
 ## Norge
 
 UCB Nordic A/S
 
-Tlf: +45-32 46 24 00
+Tlf: +47 / 67 16 5880
+
+## Ελλάδα
+
+UCB Α.Ε.
+
+Τηλ: +30-2109974000
 
 ## Österreich
 
@@ -6415,11 +6360,23 @@ UCB Pharma GmbH
 
 Tel: +43-(0)1 291 80 00
 
+## España
+
+UCB Pharma S.A.
+
+Tel: +34-91 570 34 44
+
 ## Polska
 
-UCB Pharma Sp. z o.o.
+UCB Pharma Sp. z o.o. / VEDIM Sp. z.o.o.
 
-Tel.: +48-22 696 99 20
+Tel: +48 22 696 99 20
+
+## France
+
+UCB Pharma
+
+Tél: +33 / (0)1 47 29 44 35
 
 ## Portugal
 
@@ -6427,11 +6384,23 @@ BIAL-Portela &amp; Cª, S.A.
 
 Tel: +351-22 986 61 00
 
+## Hrvatska
+
+Medis Adria d.o.o.
+
+Tel: +385-(0)1 230 34 46
+
 ## România
 
 UCB Pharma România S.R.L.
 
 Tel: +40-21 300 29 04
+
+## Ireland
+
+UCB (Pharma) Ireland Ltd.
+
+Tel: +353-(0)1 46 37 395
 
 ## Slovenija
 
@@ -6439,9 +6408,15 @@ Medis, d.o.o.
 
 Tel: +386-1 589 69 00
 
+## Ísland
+
+UCB Nordic A/S
+
+Sími: + 45 / 32 46 24 00
+
 ## Slovenská republika
 
-UCB s.r.o. , organizačná zložka
+UCB s.r.o., organizačná zložka
 
 Tel: +421-(0)2 5920 2020
 
@@ -6457,15 +6432,13 @@ Tel: +39-02 300 791
 
 Lifepharma (Z.A.M.) Ltd
 
-Τηλ: +357
-
--22 05 63 00
+Τηλ: +357 22 056300
 
 ## Latvija
 
 UCB Pharma Oy Finland
 
-Tel: +358-92 514 4221 (Somija)
+Tel: +358 9 2514 4231 (Somija)
 
 ## This leaflet was last revised in {MM/YYYY}
 
@@ -6636,7 +6609,9 @@ The Neupro treatment initiation pack contains 4 different packages (one for each
 
 <div style=\"page-break-after: always\"></div>
 
-On the first day of treatment, start with Neupro 2 mg (package marked ' Week 1' ), and use one Neupro 2 mg transdermal patch daily. You should take Neupro 2 mg for 7 days (e.g. if you start on a Sunday, switch to the next dose on the following Sunday). At the beginning of the second week, you should take Neupro 4 mg (package marked with ' Week 2 '). At the beginning of the third week, you should take Neupro 6 mg (package marked with ' Week 3 '). At the beginning of the fourth week, you should take Neupro 8 mg (package marked with ' Week 4 ').
+On the first day of treatment, start with Neupro 2 mg (package marked ' Week 1' ), and use one Neupro 2 mg transdermal patch daily. You should take Neupro 2 mg for 7 days
+
+(e.g. if you start on a Sunday, switch to the next dose on the following Sunday). At the beginning of the second week, you should take Neupro 4 mg (package marked with ' Week 2 '). At the beginning of the third week, you should take Neupro 6 mg (package marked with ' Week 3 '). At the beginning of the fourth week, you should take Neupro 8 mg (package marked with ' Week 4 ').
 
 The right dose for you will depend on your needs.
 
@@ -6936,18 +6911,12 @@ The active substance is rotigotine.
 contains 9.0 mg of
 
 - 4 mg/24 h: Each patch releases 4 mg of rotigotine per 24 hours. Each patch of 20 cm 2 rotigotine.
-
-contains 13.5 mg of
-
-- 6 mg/24 h: Each patch releases 6 mg of rotigotine per 24 hours. Each patch of 30 cm 2 rotigotine.
-
-contains 18.0 mg of
-
-- 8 mg/24 h: Each patch releases 8 mg of rotigotine per 24 hours. Each patch of 40 cm 2 rotigotine.
+- 6 mg/24 h: Each patch releases 6 mg of rotigotine per 24 hours. Each patch of 30 cm 2 contains 13.5 mg of rotigotine.
+- 8 mg/24 h: Each patch releases 8 mg of rotigotine per 24 hours. Each patch of 40 cm 2 contains 18.0 mg of rotigotine.
 
 ## The other ingredients are:
 
-- Poly(dimethylsiloxane, trimethylsilyl silicate)-copolymerisate, povidoneK90, sodium metabisulphite (E223), ascorbyl palmitate (E304) and DLα -tocopherol (E307).
+- Poly(dimethylsiloxane, trimethylsilyl silicate)-copolymerisate, povidoneK90, sodium metabisulphite (E223), ascorbyl palmitate (E304) and DL-α-tocopherol (E307).
 - Backing layer: Polyester film, siliconized, aluminized, colour coated with a pigment (titanium dioxide (E171), pigment yellow 13, pigment red 166, pigment yellow 12) layer and imprinted (pigment red 146, pigment yellow 180, pigment black 7).
 - Release liner: Transparent fluoropolymer coated polyester film.
 
@@ -6981,13 +6950,13 @@ Tél/Tel: +32-(0)2 559 92 00
 
 UCB Pharma Oy Finland
 
-Tel: +358-92 514 4221 (Suomija)
+Tel: +358 9 2514 4231 (Suomija)
 
 ## България
 
 Ю СИ БИ България ЕООД
 
-Te л. :
+Teл. :
 
 +359-(0)2 962 30 49
 
@@ -6995,7 +6964,7 @@ Te л. :
 
 UCB Pharma SA/NV
 
-Tél/Tel: +32-(0)2 559 92 00
+Tél/Tel: +32 / (0)2 559 92 00 (Belgique/Belgien)
 
 ## Česká republika
 
@@ -7037,23 +7006,19 @@ Tel: +31-(0)76-573 11 40
 
 UCB Pharma Oy Finland
 
-Tel: +358-92 514 4221 (Soome)
+Tel: +358 9 2514 4231 (Soome)
 
 ## Norge
 
 UCB Nordic A/S
 
-Tlf: +45-32 46 24 00
+Tlf: + 47 / 67 16 5880
 
 ## Ελλάδα
 
-UCB Α . Ε
+UCB Α.Ε.
 
-.
-
-Τηλ: +30
-
--2109974000
+Τηλ: +30-2109974000
 
 ## Österreich
 
@@ -7069,15 +7034,15 @@ Tel: +34-91 570 34 44
 
 ## Polska
 
-UCB Pharma Sp. z o.o.
+UCB Pharma Sp. z o.o. / VEDIM Sp. z o.o.
 
-Tel.: +48-22 696 99 20
+Tel: +48 22 696 99 20
 
 ## France
 
-UCB Pharma S.A.
+UCB Pharma
 
-Tél: +33-(0)1 47 29 44 35
+Tél: +33 / (0)1 47 29 44 35
 
 ## Portugal
 
@@ -7117,7 +7082,7 @@ Sími: + 45 / 32 46 24 00
 
 ## Slovenská republika
 
-UCB s.r.o. , organizačná zložka
+UCB s.r.o., organizačná zložka
 
 Tel: +421-(0)2 5920 2020
 
@@ -7137,9 +7102,7 @@ Puh/Tel: +358-92 514 4221
 
 Lifepharma (Z.A.M.) Ltd
 
-Τηλ: +357
-
--22 05 63 00
+Τηλ: +357 22 056300
 
 ## Sverige
 
@@ -7151,7 +7114,7 @@ Tel: +46-(0)40 29 49 00
 
 UCB Pharma Oy Finland
 
-Tel: +358-92 514 4221 (Somija)
+Tel: +358 9 2514 4231 (Somija)
 
 ## This leaflet was last revised in {MM/YYYY}
 

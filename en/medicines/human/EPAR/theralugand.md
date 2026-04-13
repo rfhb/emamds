@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 07:46:35
+document_datetime: 2026-04-09 11:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/theralugand.html
 document_name: theralugand.html
 version: success
-processing_time: 0.1013312
-conversion_datetime: 2025-12-31 07:56:38.657893
+processing_time: 0.1099369
+conversion_datetime: 2026-04-13 13:53:38.423179
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Theralugand
 
 [RSS](/en/individual-human-medicine.xml/249348)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-lutetium (177Lu) chloride Medicine Human Authorised
+lutetium (177Lu) chloride
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -103,181 +103,137 @@ English (EN) (119.61 KB - PDF)
 
 [View](/en/documents/overview/theralugand-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-71)
+[Other languages (22)](#file-language-dropdown-258)
 
 български (BG) (141.94 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/bg/documents/overview/theralugand-epar-medicine-overview_bg.pdf)
 
 español (ES) (118.85 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/es/documents/overview/theralugand-epar-medicine-overview_es.pdf)
 
 čeština (CS) (139.19 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/cs/documents/overview/theralugand-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (120.52 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/da/documents/overview/theralugand-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (121.77 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/de/documents/overview/theralugand-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (117.52 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/et/documents/overview/theralugand-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (148.44 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/el/documents/overview/theralugand-epar-medicine-overview_el.pdf)
 
 français (FR) (120.09 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/fr/documents/overview/theralugand-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (138.67 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/hr/documents/overview/theralugand-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (117.32 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/it/documents/overview/theralugand-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (155.22 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/lv/documents/overview/theralugand-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (139.37 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/lt/documents/overview/theralugand-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (137.95 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/hu/documents/overview/theralugand-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (141.07 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/mt/documents/overview/theralugand-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (119.19 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/nl/documents/overview/theralugand-epar-medicine-overview_nl.pdf)
 
 polski (PL) (140.43 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/pl/documents/overview/theralugand-epar-medicine-overview_pl.pdf)
 
 português (PT) (120.29 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/pt/documents/overview/theralugand-epar-medicine-overview_pt.pdf)
 
 română (RO) (142.9 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/ro/documents/overview/theralugand-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (139.97 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/sk/documents/overview/theralugand-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (137.51 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/sl/documents/overview/theralugand-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (117.24 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/fi/documents/overview/theralugand-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (118.43 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/sv/documents/overview/theralugand-epar-medicine-overview_sv.pdf)
 
@@ -293,207 +249,161 @@ English (EN) (539.46 KB - PDF)
 
 Theralugand : EPAR - Product information
 
-English (EN) (424.6 KB - PDF)
+English (EN) (451.69 KB - PDF)
 
-**First published:** 05/12/2024
+**First published:** 05/12/2024 **Last updated:** 09/04/2026
 
 [View](/en/documents/product-information/theralugand-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-44)
+[Other languages (24)](#file-language-dropdown-159)
 
-български (BG) (558.96 KB - PDF)
+български (BG) (616.33 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/bg/documents/product-information/theralugand-epar-product-information_bg.pdf)
 
-español (ES) (435.96 KB - PDF)
+español (ES) (447.93 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/es/documents/product-information/theralugand-epar-product-information_es.pdf)
 
-čeština (CS) (494.76 KB - PDF)
+čeština (CS) (507.18 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/cs/documents/product-information/theralugand-epar-product-information_cs.pdf)
 
-dansk (DA) (406.39 KB - PDF)
+dansk (DA) (417.78 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/da/documents/product-information/theralugand-epar-product-information_da.pdf)
 
-Deutsch (DE) (441.29 KB - PDF)
+Deutsch (DE) (454.3 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/de/documents/product-information/theralugand-epar-product-information_de.pdf)
 
-eesti keel (ET) (447.3 KB - PDF)
+eesti keel (ET) (550.01 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/et/documents/product-information/theralugand-epar-product-information_et.pdf)
 
-ελληνικά (EL) (507.12 KB - PDF)
+ελληνικά (EL) (517.26 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/el/documents/product-information/theralugand-epar-product-information_el.pdf)
 
-français (FR) (428.94 KB - PDF)
+français (FR) (440.36 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/fr/documents/product-information/theralugand-epar-product-information_fr.pdf)
 
-hrvatski (HR) (505.19 KB - PDF)
+hrvatski (HR) (517.81 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/hr/documents/product-information/theralugand-epar-product-information_hr.pdf)
 
-íslenska (IS) (463.67 KB - PDF)
+íslenska (IS) (477.36 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/is/documents/product-information/theralugand-epar-product-information_is.pdf)
 
-italiano (IT) (416.15 KB - PDF)
+italiano (IT) (428.21 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/it/documents/product-information/theralugand-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (579.91 KB - PDF)
+latviešu valoda (LV) (593.12 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/lv/documents/product-information/theralugand-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (514.67 KB - PDF)
+lietuvių kalba (LT) (525.23 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/lt/documents/product-information/theralugand-epar-product-information_lt.pdf)
 
-magyar (HU) (499.37 KB - PDF)
+magyar (HU) (510.53 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/hu/documents/product-information/theralugand-epar-product-information_hu.pdf)
 
-Malti (MT) (541.46 KB - PDF)
+Malti (MT) (554.12 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/mt/documents/product-information/theralugand-epar-product-information_mt.pdf)
 
-Nederlands (NL) (448.23 KB - PDF)
+Nederlands (NL) (460.72 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/nl/documents/product-information/theralugand-epar-product-information_nl.pdf)
 
-norsk (NO) (425.87 KB - PDF)
+norsk (NO) (438.86 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/no/documents/product-information/theralugand-epar-product-information_no.pdf)
 
-polski (PL) (510.07 KB - PDF)
+polski (PL) (528.7 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/pl/documents/product-information/theralugand-epar-product-information_pl.pdf)
 
-português (PT) (455.93 KB - PDF)
+português (PT) (470.96 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/pt/documents/product-information/theralugand-epar-product-information_pt.pdf)
 
-română (RO) (544.19 KB - PDF)
+română (RO) (563.22 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/ro/documents/product-information/theralugand-epar-product-information_ro.pdf)
 
-slovenčina (SK) (549.72 KB - PDF)
+slovenčina (SK) (561.85 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/sk/documents/product-information/theralugand-epar-product-information_sk.pdf)
 
-slovenščina (SL) (511.59 KB - PDF)
+slovenščina (SL) (523.26 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/sl/documents/product-information/theralugand-epar-product-information_sl.pdf)
 
-Suomi (FI) (443.87 KB - PDF)
+Suomi (FI) (450.75 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/fi/documents/product-information/theralugand-epar-product-information_fi.pdf)
 
-svenska (SV) (423.74 KB - PDF)
+svenska (SV) (440.94 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024 **Last updated:** 01/04/2026
 
 [View](/sv/documents/product-information/theralugand-epar-product-information_sv.pdf)
 
-22/11/2024
+**Latest procedure affecting product information:** VR/0000334498
+
+01/04/2026
 
 icon globe
 
@@ -517,203 +427,173 @@ English (EN) (47.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-38)
+[Other languages (24)](#file-language-dropdown-460)
 
 български (BG) (57.44 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/bg/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (47.61 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/es/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (55.21 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/cs/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (49.35 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/da/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (48.84 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/de/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (47.68 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/et/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (62.04 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/el/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (47.77 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/fr/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (63.64 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/hr/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (47.9 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/is/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (47.46 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/it/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (62.9 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/lv/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (56.25 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/lt/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (65.74 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/hu/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (66.34 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/mt/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (47.46 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/nl/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (48.11 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/no/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (65.56 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/pl/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (49.31 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/pt/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (54.18 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/ro/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (63.91 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/sk/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (55.26 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/sl/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (47.22 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/fi/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (47.63 KB - PDF)
 
-**First published:**
-
-05/12/2024
+**First published:** 05/12/2024
 
 [View](/sv/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Theralugand Active substance lutetium (177Lu) chloride International non-proprietary name (INN) or common name lutetium (177Lu) chloride Therapeutic area (MeSH) Radionuclide Imaging Anatomical therapeutic chemical (ATC) code V10X
+Name of medicine
+
+Theralugand
+
+Active substance
+
+lutetium (177Lu) chloride
+
+International non-proprietary name (INN) or common name
+
+lutetium (177Lu) chloride
+
+Therapeutic area (MeSH)
+
+Radionuclide Imaging
+
+Anatomical therapeutic chemical (ATC) code
+
+V10X
 
 ### Pharmacotherapeutic group
 
@@ -725,7 +605,9 @@ Theralugand is a radiopharmaceutical precursor, and it is not intended for direc
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005882
+EMA product number
+
+EMEA/H/C/005882
 
 Additional monitoring
 
@@ -737,17 +619,39 @@ Eckert &amp; Ziegler Radiopharma GmbH
 
 Robert-Rossle-Str. 10 D-13125 Berlin Germany
 
-Opinion adopted 19/09/2024 Marketing authorisation issued 22/11/2024
+Opinion adopted
+
+19/09/2024
+
+Marketing authorisation issued
+
+22/11/2024
+
+Revision
+
+1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Theralugand : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (133.44 KB - PDF)
+
+**First published:** 09/04/2026
+
+[View](/en/documents/procedural-steps-after/theralugand-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Theralugand : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/468008/2024
+Adopted Reference Number: EMA/468008/2024
 
 English (EN) (1.06 MB - PDF)
 
@@ -757,9 +661,7 @@ English (EN) (1.06 MB - PDF)
 
 CHMP summary of positive opinion for Theralugand
 
-Adopted
-
-Reference Number: EMA/CHMP/417097/2024
+Adopted Reference Number: EMA/CHMP/417097/2024
 
 English (EN) (145.25 KB - PDF)
 
@@ -767,12 +669,14 @@ English (EN) (145.25 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-theralugand_en.pdf)
 
-#### News on Theralugand
+## News on Theralugand
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2024) 20/09/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2024)
 
-**This page was last updated on** 05/12/2024
+20/09/2024
+
+**This page was last updated on**
+
+09/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

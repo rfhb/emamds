@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-12-02 15:49:11
-document_pages: 38
+document_datetime: 2026-04-09 16:53:35
+document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cablivi-epar-product-information_en.pdf
 document_name: cablivi-epar-product-information_en.pdf
 version: success
-processing_time: 10.3673451
-conversion_datetime: 2025-12-15 20:06:05.719118
+processing_time: 10.3702301
+conversion_datetime: 2026-04-13 14:14:44.959763
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -446,7 +446,13 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance Richter-Helm BioLogics GmbH &amp; Co. KG Dengelsberg 24796 Bovenau Germany
 
-Name and address of the manufacturer responsible for batch release Ablynx NV Technologiepark 21 9052 Zwijnaarde Belgium
+Name and address of the manufacturer responsible for batch release
+
+Sanofi B.V. Paasheuvelweg 25 1105 BP Amsterdam The Netherlands
+
+Ablynx NV Technologiepark 21 9052 Zwijnaarde Belgium
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -468,6 +474,8 @@ An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
+<div style=\"page-break-after: always\"></div>
 
 ## · Additional risk minimisation measures
 
@@ -767,7 +775,7 @@ Medicinal product subject to medical prescription.
 
 ## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Cablivi
 
@@ -814,7 +822,7 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
-25
+26
 
 <div style=\"page-break-after: always\"></div>
 
@@ -848,7 +856,7 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
-26
+27
 
 <div style=\"page-break-after: always\"></div>
 
@@ -933,7 +941,7 @@ Treatment with Cablivi is started by a doctor experienced in blood disorders.
 
 ## The recommended treatment is
 
-- •
+- ·
 
 ## first dose
 
@@ -956,6 +964,8 @@ The first injection of Cablivi into your vein must be given by a healthcare prof
 For each injection, use a fresh kit package to prepare the injection solution. Do not try to inject Cablivi until you have been taught how to do so by a healthcare professional. Never use the kit for another injection.
 
 <div style=\"page-break-after: always\"></div>
+
+plastic packagıng. Do not touch the
 
 ## Step 1 - Cleaning
 
@@ -991,6 +1001,8 @@ For each injection, use a fresh kit package to prepare the injection solution. D
 
 <div style=\"page-break-after: always\"></div>
 
+ATTH T
+
 <!-- image -->
 
 ## Step 5 - Prepare the syringe
@@ -1014,6 +1026,10 @@ For each injection, use a fresh kit package to prepare the injection solution. D
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+not shake 1t.
+
+› &gt; - rrepare te syringe tor damin.
 
 ## Step 7 - Prepare the solution
 
@@ -1045,6 +1061,8 @@ Step 9 - Prepare the syringe for administration
 - Do not touch the syringe tip or allow it to touch the surface. Place the syringe on the clean flat surface.
 
 <div style=\"page-break-after: always\"></div>
+
+Gently pinch the cleaned skin between your thumb and foretinger to m
 
 - Go to step 10 to inject caplacizumab under the skin of the belly. Instructions for healthcare professionals on how to inject Cablivi into your vein are at the end of the leaflet.
 
@@ -1181,7 +1199,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - -
 - The active substance is caplacizumab.
-- Each vial contains 10 mg caplacizumab.
+
+Each vial contains 10 mg caplacizumab.
+
 - -The other ingredients are sucrose, citric acid anhydrous, trisodium citrate dihydrate (see section 2 'Cablivi contains sodium') and polysorbate 80.
 
 ## · pre-filled syringe
@@ -1193,7 +1213,7 @@ The pre-filled syringe contains 1 mL water for injections.
 ## Cablivi is provided as:
 
 - a white powder for solution for injection in a glass vial, and
-- •
+- ·
 - water for injections in a pre-filled syringe to dissolve the powder
 
 After dissolving the powder in the solvent, the solution is clear, colourless or slightly yellowish.
@@ -1206,9 +1226,15 @@ After dissolving the powder in the solvent, the solution is clear, colourless or
 
 Not all pack sizes may be marketed.
 
-## Marketing Authorisation Holder and Manufacturer
+## Marketing Authorisation Holder
 
 Ablynx NV Technologiepark 21 9052 Zwijnaarde Belgium
+
+## Manufacturer
+
+Ablynx NV Technologiepark 21 9052 Zwijnaarde Belgium
+
+Sanofi B.V. Paasheuvelweg 25 1105 BP Amsterdam The Netherlands
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1296,7 +1322,9 @@ sanofi-aventis GmbH Tel: +43 1 80 185 - 0
 
 ## España
 
-sanofi-aventis, S.A. Tel: +34 93 485 94 00
+sanofi-aventis, S.A.
+
+Tel: +34 93 485 94 00
 
 ## Polska
 
@@ -1304,7 +1332,11 @@ Sanofi Sp. z o.o. Tel.: +48 22 280 00 00
 
 ## France
 
-Sanofi Winthrop Industrie Tél: 0 800 222 555 Appel depuis l'étranger : +33 1 57 63 23 23
+Sanofi Winthrop Industrie
+
+Tél: 0 800 222 555
+
+Appel depuis l'étranger : +33 1 57 63 23 23
 
 ## Portugal
 

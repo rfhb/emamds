@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:36:55
+document_datetime: 2026-04-10 15:34:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/evrenzo.html
 document_name: evrenzo.html
 version: success
-processing_time: 0.1137094
-conversion_datetime: 2025-12-31 07:55:59.993542
+processing_time: 0.1039793
+conversion_datetime: 2026-04-13 13:50:15.866718
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Evrenzo
 
 [RSS](/en/individual-human-medicine.xml/67470)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-roxadustat Medicine Human Authorised
+roxadustat
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -114,181 +114,137 @@ English (EN) (120.73 KB - PDF)
 
 [View](/en/documents/overview/evrenzo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-268)
+[Other languages (22)](#file-language-dropdown-57)
 
 български (BG) (143.6 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/bg/documents/overview/evrenzo-epar-medicine-overview_bg.pdf)
 
 español (ES) (137.84 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/es/documents/overview/evrenzo-epar-medicine-overview_es.pdf)
 
 čeština (CS) (160.41 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/cs/documents/overview/evrenzo-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (137.42 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/da/documents/overview/evrenzo-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (141.16 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/de/documents/overview/evrenzo-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (108.92 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/et/documents/overview/evrenzo-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (162.84 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/el/documents/overview/evrenzo-epar-medicine-overview_el.pdf)
 
 français (FR) (139.66 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/fr/documents/overview/evrenzo-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (143.63 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/hr/documents/overview/evrenzo-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (118.42 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/it/documents/overview/evrenzo-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (150.62 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/lv/documents/overview/evrenzo-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (141.8 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/lt/documents/overview/evrenzo-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (160.92 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/hu/documents/overview/evrenzo-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (144.18 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/mt/documents/overview/evrenzo-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (119.04 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/nl/documents/overview/evrenzo-epar-medicine-overview_nl.pdf)
 
 polski (PL) (143.5 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/pl/documents/overview/evrenzo-epar-medicine-overview_pl.pdf)
 
 português (PT) (120.18 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/pt/documents/overview/evrenzo-epar-medicine-overview_pt.pdf)
 
 română (RO) (140.79 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/ro/documents/overview/evrenzo-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (141.52 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/sk/documents/overview/evrenzo-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (140.79 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/sl/documents/overview/evrenzo-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (118.34 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/fi/documents/overview/evrenzo-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (137.2 KB - PDF)
 
-**First published:**
-
-24/08/2021
+**First published:** 24/08/2021
 
 [View](/sv/documents/overview/evrenzo-epar-medicine-overview_sv.pdf)
 
@@ -304,305 +260,161 @@ English (EN) (205.99 KB - PDF)
 
 Evrenzo : EPAR - Product information
 
-English (EN) (497.05 KB - PDF)
+English (EN) (462.84 KB - PDF)
 
-**First published:** 24/08/2021
-
-**Last updated:** 30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/en/documents/product-information/evrenzo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-346)
+[Other languages (24)](#file-language-dropdown-91)
 
-български (BG) (1.49 MB - PDF)
+български (BG) (696.47 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/bg/documents/product-information/evrenzo-epar-product-information_bg.pdf)
 
-español (ES) (637.95 KB - PDF)
+español (ES) (664.83 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/es/documents/product-information/evrenzo-epar-product-information_es.pdf)
 
-čeština (CS) (1.17 MB - PDF)
+čeština (CS) (663.33 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/cs/documents/product-information/evrenzo-epar-product-information_cs.pdf)
 
-dansk (DA) (669.42 KB - PDF)
+dansk (DA) (664.07 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/da/documents/product-information/evrenzo-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.18 MB - PDF)
+Deutsch (DE) (695.78 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/de/documents/product-information/evrenzo-epar-product-information_de.pdf)
 
-eesti keel (ET) (1015.75 KB - PDF)
+eesti keel (ET) (641.06 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/et/documents/product-information/evrenzo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.2 MB - PDF)
+ελληνικά (EL) (749.08 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/el/documents/product-information/evrenzo-epar-product-information_el.pdf)
 
-français (FR) (692.1 KB - PDF)
+français (FR) (683.14 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/fr/documents/product-information/evrenzo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.03 MB - PDF)
+hrvatski (HR) (588.24 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/hr/documents/product-information/evrenzo-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.05 MB - PDF)
+íslenska (IS) (660.53 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/is/documents/product-information/evrenzo-epar-product-information_is.pdf)
 
-italiano (IT) (606.92 KB - PDF)
+italiano (IT) (632.98 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/it/documents/product-information/evrenzo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (694.48 KB - PDF)
+latviešu valoda (LV) (693.64 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/lv/documents/product-information/evrenzo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (612.38 KB - PDF)
+lietuvių kalba (LT) (642.19 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/lt/documents/product-information/evrenzo-epar-product-information_lt.pdf)
 
-magyar (HU) (1.15 MB - PDF)
+magyar (HU) (717.77 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/hu/documents/product-information/evrenzo-epar-product-information_hu.pdf)
 
-Malti (MT) (723.91 KB - PDF)
+Malti (MT) (716.21 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/mt/documents/product-information/evrenzo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (631 KB - PDF)
+Nederlands (NL) (668.07 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/nl/documents/product-information/evrenzo-epar-product-information_nl.pdf)
 
-norsk (NO) (665.45 KB - PDF)
+norsk (NO) (656.92 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/no/documents/product-information/evrenzo-epar-product-information_no.pdf)
 
-polski (PL) (723.82 KB - PDF)
+polski (PL) (697.36 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/pl/documents/product-information/evrenzo-epar-product-information_pl.pdf)
 
-português (PT) (675.02 KB - PDF)
+português (PT) (675.66 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/pt/documents/product-information/evrenzo-epar-product-information_pt.pdf)
 
-română (RO) (579.5 KB - PDF)
+română (RO) (665.89 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/ro/documents/product-information/evrenzo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (690.96 KB - PDF)
+slovenčina (SK) (681.42 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/sk/documents/product-information/evrenzo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (688.58 KB - PDF)
+slovenščina (SL) (678.36 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/sl/documents/product-information/evrenzo-epar-product-information_sl.pdf)
 
-Suomi (FI) (667.08 KB - PDF)
+Suomi (FI) (658.4 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/fi/documents/product-information/evrenzo-epar-product-information_fi.pdf)
 
-svenska (SV) (1.11 MB - PDF)
+svenska (SV) (670.13 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-30/09/2025
+**First published:** 24/08/2021 **Last updated:** 10/04/2026
 
 [View](/sv/documents/product-information/evrenzo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000257864 17/09/2025
+**Latest procedure affecting product information:** R/0000304810
+
+30/03/2026
 
 icon globe
 
@@ -622,310 +434,178 @@ Evrenzo : EPAR - All authorised presentations
 
 English (EN) (702.23 KB - PDF)
 
-**First published:** 24/08/2021
-
-**Last updated:** 08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/en/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-254)
+[Other languages (24)](#file-language-dropdown-292)
 
 български (BG) (188.27 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/bg/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (253.33 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/es/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (156.5 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/cs/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (251.28 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/da/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (252.26 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/de/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (253.06 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/et/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (182.59 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/el/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (269.8 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/fr/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (297.41 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/hr/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (1.14 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/is/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (252.69 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/it/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (182.95 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/lv/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (300.75 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/lt/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (299.83 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/hu/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (298.75 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/mt/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (251.44 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/nl/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (251.92 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/no/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (272.4 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/pl/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (252.82 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/pt/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (180.72 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/ro/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (183.75 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/sk/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (181 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/sl/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (252.15 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/fi/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (250.92 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-08/06/2023
+**First published:** 24/08/2021 **Last updated:** 08/06/2023
 
 [View](/sv/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Evrenzo Active substance roxadustat International non-proprietary name (INN) or common name roxadustat Therapeutic area (MeSH)
+Name of medicine
+
+Evrenzo
+
+Active substance
+
+roxadustat
+
+International non-proprietary name (INN) or common name
+
+roxadustat
+
+Therapeutic area (MeSH)
 
 - Anemia
 - Kidney Failure, Chronic
 
-Anatomical therapeutic chemical (ATC) code B03XA05
+Anatomical therapeutic chemical (ATC) code
+
+B03XA05
 
 ### Pharmacotherapeutic group
 
@@ -937,11 +617,9 @@ Evrenzo is indicated for treatment of adult patients with symptomatic anaemia as
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004871
+EMA product number
 
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+EMEA/H/C/004871
 
 Marketing authorisation holder
 
@@ -949,7 +627,17 @@ Astellas Pharma Europe B.V.
 
 Sylviusweg 62
 
-Opinion adopted 24/06/2021 Marketing authorisation issued 18/08/2021 Revision 7
+Opinion adopted
+
+24/06/2021
+
+Marketing authorisation issued
+
+18/08/2021
+
+Revision
+
+8
 
 ## Assessment history
 
@@ -961,9 +649,9 @@ Collapse section
 
 Evrenzo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (141.23 KB - PDF)
+English (EN) (129.73 KB - PDF)
 
-**First published:** 30/09/2025
+**First published:** 30/09/2025 **Last updated:** 10/04/2026
 
 [View](/en/documents/procedural-steps-after/evrenzo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -971,9 +659,7 @@ Evrenzo : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (152.75 KB - PDF)
 
-**First published:** 22/07/2022
-
-**Last updated:** 30/09/2025
+**First published:** 22/07/2022 **Last updated:** 30/09/2025
 
 [View](/en/documents/procedural-steps-after/evrenzo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1021,9 +707,7 @@ English (EN) (129.5 KB - PDF)
 
 Evrenzo : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/393136/2021
+Adopted Reference Number: EMA/CHMP/393136/2021
 
 English (EN) (3.37 MB - PDF)
 
@@ -1033,9 +717,7 @@ English (EN) (3.37 MB - PDF)
 
 CHMP summary of positive opinion for Evrenzo
 
-Adopted
-
-Reference Number: EMA/CHMP/341057/2021
+Adopted Reference Number: EMA/CHMP/341057/2021
 
 English (EN) (134.73 KB - PDF)
 
@@ -1043,16 +725,18 @@ English (EN) (134.73 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-evrenzo_en.pdf)
 
-#### News on Evrenzo
+## News on Evrenzo
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 June 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-june-2021) 25/06/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 June 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-june-2021)
 
-#### More information on Evrenzo
+25/06/2021
+
+## More information on Evrenzo
 
 - [WINE Study: Roxadustat Treatment of Anemia of Chronic Kidney Disease (CKD) in Real-world Clinical Practice - Observational Study Utilizing Routinely Collected Secondary Data from WiNe Registry in Germany - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000121)
 
-**This page was last updated on** 30/09/2025
+**This page was last updated on**
+
+10/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

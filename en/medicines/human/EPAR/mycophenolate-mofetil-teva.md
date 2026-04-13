@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:28:23
+document_datetime: 2026-04-10 15:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mycophenolate-mofetil-teva.html
 document_name: mycophenolate-mofetil-teva.html
 version: success
-processing_time: 0.1306873
-conversion_datetime: 2025-12-30 09:41:07.370019
+processing_time: 0.1427824
+conversion_datetime: 2026-04-13 13:56:27.194014
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Mycophenolate mofetil Teva
 
 [RSS](/en/individual-human-medicine.xml/65729)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-mycophenolate mofetil Medicine Human Authorised
+mycophenolate mofetil
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -105,263 +105,135 @@ Mycophenolate mofetil Teva : EPAR - Summary for the public
 
 English (EN) (54.97 KB - PDF)
 
-**First published:** 11/03/2008
-
-**Last updated:** 12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/en/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-748)
+[Other languages (21)](#file-language-dropdown-31)
 
 български (BG) (92.89 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/bg/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_bg.pdf)
 
 español (ES) (57.06 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/es/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_es.pdf)
 
 čeština (CS) (83.22 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/cs/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_cs.pdf)
 
 dansk (DA) (54.93 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/da/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_da.pdf)
 
 Deutsch (DE) (56.93 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/de/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_de.pdf)
 
 eesti keel (ET) (55.56 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/et/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (94.74 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/el/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_el.pdf)
 
 français (FR) (118.7 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/fr/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_fr.pdf)
 
 italiano (IT) (118.6 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/it/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (82.11 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/lv/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (141.31 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/lt/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_lt.pdf)
 
 magyar (HU) (79.47 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/hu/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_hu.pdf)
 
 Malti (MT) (82.67 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/mt/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (56.29 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/nl/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_nl.pdf)
 
 polski (PL) (143.67 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/pl/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_pl.pdf)
 
 português (PT) (118.01 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/pt/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_pt.pdf)
 
 română (RO) (140.47 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/ro/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (79.55 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/sk/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (137.87 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/sl/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_sl.pdf)
 
 Suomi (FI) (115.49 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/fi/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_fi.pdf)
 
 svenska (SV) (115.72 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-12/12/2012
+**First published:** 11/03/2008 **Last updated:** 12/12/2012
 
 [View](/sv/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_sv.pdf)
 
@@ -369,305 +241,161 @@ svenska (SV) (115.72 KB - PDF)
 
 Mycophenolate mofetil Teva : EPAR - Product Information
 
-English (EN) (1.09 MB - PDF)
+English (EN) (1.1 MB - PDF)
 
-**First published:** 15/10/2009
-
-**Last updated:** 22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/en/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-312)
+[Other languages (24)](#file-language-dropdown-47)
 
-български (BG) (1.24 MB - PDF)
+български (BG) (1.28 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/bg/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_bg.pdf)
 
-español (ES) (1.17 MB - PDF)
+español (ES) (1.18 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/es/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_es.pdf)
 
 čeština (CS) (1.23 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/cs/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_cs.pdf)
 
-dansk (DA) (1.13 MB - PDF)
+dansk (DA) (1.14 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/da/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.21 MB - PDF)
+Deutsch (DE) (1.22 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/de/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.19 MB - PDF)
+eesti keel (ET) (1.21 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/et/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.38 MB - PDF)
+ελληνικά (EL) (1.39 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/el/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_el.pdf)
 
-français (FR) (1.18 MB - PDF)
+français (FR) (1.25 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/fr/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_fr.pdf)
 
-hrvatski (HR) (764.92 KB - PDF)
+hrvatski (HR) (1.27 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/hr/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.05 MB - PDF)
+íslenska (IS) (1.06 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/is/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_is.pdf)
 
-italiano (IT) (1.15 MB - PDF)
+italiano (IT) (1.17 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/it/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.25 MB - PDF)
+latviešu valoda (LV) (1.26 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/lv/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.22 MB - PDF)
+lietuvių kalba (LT) (1.23 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/lt/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_lt.pdf)
 
-magyar (HU) (1.27 MB - PDF)
+magyar (HU) (1.29 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/hu/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_hu.pdf)
 
-Malti (MT) (1.34 MB - PDF)
+Malti (MT) (1.36 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/mt/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.13 MB - PDF)
+Nederlands (NL) (1.14 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/nl/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_nl.pdf)
 
 norsk (NO) (1.13 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/no/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_no.pdf)
 
-polski (PL) (1.27 MB - PDF)
+polski (PL) (1.36 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/pl/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_pl.pdf)
 
-português (PT) (1.18 MB - PDF)
+português (PT) (1.15 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/pt/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_pt.pdf)
 
-română (RO) (1.28 MB - PDF)
+română (RO) (1.27 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/ro/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_ro.pdf)
 
 slovenčina (SK) (1.32 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/sk/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_sk.pdf)
 
 slovenščina (SL) (1.2 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/sl/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.15 MB - PDF)
+Suomi (FI) (1.16 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/fi/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_fi.pdf)
 
-svenska (SV) (1.12 MB - PDF)
+svenska (SV) (1.13 MB - PDF)
 
-**First published:**
-
-15/10/2009
-
-**Last updated:**
-
-22/10/2025
+**First published:** 15/10/2009 **Last updated:** 10/04/2026
 
 [View](/sv/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000286845 20/10/2025
+**Latest procedure affecting product information:** PSUR/0000296546
+
+26/03/2026
 
 icon globe
 
@@ -687,305 +415,177 @@ Mycophenolate mofetil Teva : EPAR - All Authorised presentations
 
 English (EN) (28.66 KB - PDF)
 
-**First published:** 11/03/2008
-
-**Last updated:** 21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/en/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-919)
+[Other languages (24)](#file-language-dropdown-958)
 
 български (BG) (48.99 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/bg/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (11.38 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/es/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (24.95 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/cs/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (10.69 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/da/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (9.74 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/de/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (11.28 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/et/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (48.34 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/el/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (13.6 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/fr/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (51.8 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/hr/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (13.43 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/is/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (10.43 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/it/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (41.08 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/lv/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (43.71 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/lt/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (56.69 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/hu/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (42.95 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/mt/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (9.5 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/nl/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (10.3 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/no/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (41.57 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/pl/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (11.76 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/pt/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (45.01 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/ro/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (28.01 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/sk/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (27.18 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/sl/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (10.69 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/fi/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (11.06 KB - PDF)
 
-**First published:**
-
-11/03/2008
-
-**Last updated:**
-
-21/05/2016
+**First published:** 11/03/2008 **Last updated:** 21/05/2016
 
 [View](/sv/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Mycophenolate mofetil Teva Active substance mycophenolate mofetil International non-proprietary name (INN) or common name mycophenolate mofetil Therapeutic area (MeSH) Graft Rejection Anatomical therapeutic chemical (ATC) code L04AA06
+Name of medicine
+
+Mycophenolate mofetil Teva
+
+Active substance
+
+mycophenolate mofetil
+
+International non-proprietary name (INN) or common name
+
+mycophenolate mofetil
+
+Therapeutic area (MeSH)
+
+Graft Rejection
+
+Anatomical therapeutic chemical (ATC) code
+
+L04AA06
 
 ### Pharmacotherapeutic group
 
@@ -997,7 +597,9 @@ Mycophenolate mofetil Teva is indicated in combination with ciclosporin and cort
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000882
+EMA product number
+
+EMEA/H/C/000882
 
 Generic
 
@@ -1009,7 +611,17 @@ Teva Pharma B.V.
 
 Computerweg 10
 
-Opinion adopted 13/12/2007 Marketing authorisation issued 21/02/2008 Revision 27
+Opinion adopted
+
+13/12/2007
+
+Marketing authorisation issued
+
+21/02/2008
+
+Revision
+
+28
 
 ## Assessment history
 
@@ -1021,9 +633,9 @@ Collapse section
 
 Mycophenolate mofetil Teva : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (147.08 KB - PDF)
+English (EN) (142.76 KB - PDF)
 
-**First published:** 22/10/2025
+**First published:** 22/10/2025 **Last updated:** 10/04/2026
 
 [View](/en/documents/procedural-steps-after/mycophenolate-mofetil-teva-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1031,11 +643,19 @@ Mycophenolate mofetil Teva : EPAR - Procedural steps taken and scientific inform
 
 English (EN) (193.91 KB - PDF)
 
-**First published:** 15/10/2009
-
-**Last updated:** 22/10/2025
+**First published:** 15/10/2009 **Last updated:** 22/10/2025
 
 [View](/en/documents/procedural-steps-after/mycophenolate-mofetil-teva-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Mycophenolate mofetil Teva-PSUSA-00010550-202505 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-3063396
+
+English (EN) (187.87 KB - PDF)
+
+**First published:** 10/04/2026
+
+[View](/en/documents/scientific-conclusion/mycophenolate-mofetil-teva-psusa-00010550-202505-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Mycophenolate mofetil Teva-H-C-PSUSA-00010550-202305 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1063,9 +683,7 @@ Reference Number: EMA/187794/2018
 
 English (EN) (68.8 KB - PDF)
 
-**First published:** 05/04/2018
-
-**Last updated:** 05/04/2018
+**First published:** 05/04/2018 **Last updated:** 05/04/2018
 
 [View](/en/documents/scientific-conclusion/mycophenolate-mofetil-teva-psusa-00010550-201705-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
@@ -1075,9 +693,7 @@ Mycophenolate mofetil Teva : EPAR - Public assessment report
 
 English (EN) (417.89 KB - PDF)
 
-**First published:** 08/04/2008
-
-**Last updated:** 08/04/2008
+**First published:** 08/04/2008 **Last updated:** 08/04/2008
 
 [View](/en/documents/assessment-report/mycophenolate-mofetil-teva-epar-public-assessment-report_en.pdf)
 
@@ -1087,17 +703,17 @@ Reference Number: EMEA/CHMP/563031/2007, corr
 
 English (EN) (33.35 KB - PDF)
 
-**First published:** 14/01/2008
-
-**Last updated:** 14/01/2008
+**First published:** 14/01/2008 **Last updated:** 14/01/2008
 
 [View](/en/documents/smop-initial/committee-medicinal-products-human-use-summary-positive-opinion-mycophenolate_en.pdf)
 
-#### News on Mycophenolate mofetil Teva
+## News on Mycophenolate mofetil Teva
 
-[Mycophenolate: updated recommendations for contraception for men and women](/en/news/mycophenolate-updated-recommendations-contraception-men-women) 15/12/2017
+[Mycophenolate: updated recommendations for contraception for men and women](/en/news/mycophenolate-updated-recommendations-contraception-men-women)
 
-#### More information on Mycophenolate mofetil Teva
+15/12/2017
+
+## More information on Mycophenolate mofetil Teva
 
 Questions and answers on generic medicines
 
@@ -1105,285 +721,151 @@ Reference Number: EMA/393905/2006 Rev. 2
 
 English (EN) (66.45 KB - PDF)
 
-**First published:** 09/07/2007
-
-**Last updated:** 07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-43)
 
 български (BG) (93.16 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
 
 español (ES) (68.3 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
 
 čeština (CS) (87.71 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
 
 dansk (DA) (66.79 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
 
 Deutsch (DE) (67.55 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
 
 eesti keel (ET) (65.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
 
 ελληνικά (EL) (91.29 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
 
 français (FR) (68.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
 
 hrvatski (HR) (87.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
 
 italiano (IT) (67.62 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
 
 latviešu valoda (LV) (111.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
 
 lietuvių kalba (LT) (86.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
 
 magyar (HU) (85.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
 
 Malti (MT) (89.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
 
 Nederlands (NL) (66.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
 
 polski (PL) (88.51 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
 
 português (PT) (68.32 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
 
 română (RO) (86.9 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
 
 slovenčina (SK) (87.73 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
 
 slovenščina (SL) (84.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
 
 Suomi (FI) (66.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
 
 svenska (SV) (67.11 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 22/10/2025
+**This page was last updated on**
+
+10/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

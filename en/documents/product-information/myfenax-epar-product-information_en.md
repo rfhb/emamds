@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-22 12:04:33
-document_pages: 86
+document_datetime: 2026-04-10 12:00:47
+document_pages: 88
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/myfenax-epar-product-information_en.pdf
 document_name: myfenax-epar-product-information_en.pdf
 version: success
-processing_time: 25.2435209
-conversion_datetime: 2025-12-24 14:38:35.596335
+processing_time: 30.2182767
+conversion_datetime: 2026-04-13 13:57:39.663363
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -76,7 +76,7 @@ The dose and product form should be individualised based on clinical assessment.
 
 A mycophenolate mofetil powder for oral suspension (1 g/5 ml) should be used in those patients unable to swallow capsules and tablets and/or with a BSA lower than 1.25 m 2 due to the increased risk of choking. Patients with a BSA of 1.25 to 1.5 m 2 may be prescribed mycophenolate mofetil capsules at a dose of 750 mg twice daily (1.5 g daily dose). Patients with a BSA greater than 1.5 m 2 may be prescribed mycophenolate mofetil capsules or tablets at a dose of 1 g twice daily (2 g daily dose). As some adverse reactions occur with greater frequency in this age group (see section 4.8) compared with adults, temporary dose reduction or interruption may be required; these will need to take into account relevant clinical factors including severity of reaction.
 
-## Use in special populations
+Use in special populations
 
 ## Elderly
 
@@ -368,7 +368,7 @@ Diarrhoea (up to 52.6%), leukopenia (up to 45.8%), bacterial infections (up to 3
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions from clinical trials and post marketing experience are listed in Table 1, by MedDRA system organ class (SOC) along with their frequencies. The corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000) and very rare (&lt;1/10,000). Due to the large differences observed in the frequency of certain adverse reactions across the different transplant indications, the frequency is presented separately for renal, hepatic and cardiac transplant patients.
+The adverse reactions from clinical trials and post marketing experience are listed in Table 1, by MedDRA system organ class (SOC) along with their frequencies. The corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10 ,000 to &lt;1/1,000), very rare (&lt;1/10,000) and not known (cannot be estimated from the available data). Due to the large differences observed in the frequency of certain adverse reactions across the different transplant indications, the frequency is presented separately for renal, hepatic and cardiac transplant patients.
 
 Table 1 Adverse reactions in studies investigating mycophenolate mofetil treatment in adults and adolescents, or through post-marketing surveillance
 
@@ -475,25 +475,26 @@ Table 1 Adverse reactions in studies investigating mycophenolate mofetil treatme
 | Adverse reaction (MedDRA) System Organ Class                               | Renal transplant                                     | Hepatic transplant                                   | Cardiac transplant                                   |
 |----------------------------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 |                                                                            | Frequency                                            | Frequency                                            | Frequency                                            |
-| Immune system disorders                                                    |                                                      |                                                      |                                                      |
+| Immune system disorders                                                    | Immune system disorders                              | Immune system disorders                              | Immune system disorders                              |
 | Hypersenstivity                                                            | Uncommon                                             | Common                                               | Common                                               |
 | Hypogammaglobulinaemia                                                     | Uncommon                                             | Very rare                                            | Very rare                                            |
-| Hepatobiliary disorders                                                    |                                                      |                                                      |                                                      |
+| Anaphylactic reactions                                                     | Not known                                            | Not known                                            | Not known                                            |
+| Hepatobiliary disorders                                                    | Hepatobiliary disorders                              | Hepatobiliary disorders                              | Hepatobiliary disorders                              |
 | Blood alkaline phosphatase increased                                       | Common                                               | Common                                               | Common                                               |
 | Blood lactate dehydrogenase increased                                      | Common                                               | Uncommon                                             | Very common                                          |
 | Hepatic enzyme increased                                                   | Common                                               | Very common                                          | Very common                                          |
 | Hepatitis                                                                  | Common                                               | Very common                                          | Uncommon                                             |
 | Hyperbilirubinaemia                                                        | Common                                               | Very common                                          | Very common                                          |
 | Jaundice                                                                   | Uncommon                                             | Common                                               | Common                                               |
-| Skin and subcutaneous tissue disorders                                     |                                                      |                                                      |                                                      |
+| Skin and subcutaneous tissue disorders                                     | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
 | Acne                                                                       | Common                                               | Common                                               | Very common                                          |
 | Alopecia                                                                   | Common                                               | Common                                               | Common                                               |
 | Rash                                                                       | Common                                               | Very common                                          | Very common                                          |
 | Skin hypertrophy                                                           | Common                                               | Common                                               | Very common                                          |
-| Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders      |                                                      |                                                      |
+| Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
 | Arthralgia                                                                 | Common                                               | Common                                               | Very common                                          |
 | Muscular weakness                                                          | Common                                               | Common                                               | Very common                                          |
-| Renal and urinary disorders                                                |                                                      |                                                      |                                                      |
+| Renal and urinary disorders                                                | Renal and urinary disorders                          | Renal and urinary disorders                          | Renal and urinary disorders                          |
 | Blood creatinine increased                                                 | Common                                               | Very common                                          | Very common                                          |
 | Blood urea increased                                                       | Uncommon                                             | Very common                                          | Very common                                          |
 | Haematuria                                                                 | Very common                                          | Common                                               | Common                                               |
@@ -548,9 +549,9 @@ Congenital malformations have been observed post-marketing in children of patien
 
 There have been isolated reports of interstitial lung disease and pulmonary fibrosis in patients treated with mycophenolate mofetil in combination with other immunosuppressants, some of which have been fatal. There have also been reports of bronchiectasis in children and adults.
 
-## Immune system disorders
-
 <div style=\"page-break-after: always\"></div>
+
+## Immune system disorders
 
 Hypogammaglobulinaemia has been reported in patients receiving mycophenolate mofetil in combination with other immunosuppressants.
 
@@ -619,11 +620,9 @@ Pharmacotherapeutic group: immunosuppressive agents ATC code: L04AA06
 
 ## Mechanism of action
 
-Mycophenolate mofetil is the 2-morpholinoethyl ester of mycophenolic acid (MPA). MPA is a selective, uncompetitive and reversible inhibitor of IMPDH, and therefore inhibits the de novo
-
 <div style=\"page-break-after: always\"></div>
 
-pathway of guanosine nucleotide synthesis without incorporation into DNA. Because T- and Blymphocytes are critically dependent for their proliferation on de novo synthesis of purines whereas other cell types can utilise salvage pathways, MPA has more potent cytostatic effects on lymphocytes than on other cells.
+Mycophenolate mofetil is the 2-morpholinoethyl ester of mycophenolic acid (MPA). MPA is a selective, uncompetitive and reversible inhibitor of IMPDH, and therefore inhibits the de novo pathway of guanosine nucleotide synthesis without incorporation into DNA. Because T- and Blymphocytes are critically dependent for their proliferation on de novo synthesis of purines whereas other cell types can utilise salvage pathways, MPA has more potent cytostatic effects on lymphocytes than on other cells.
 
 In addition to its inhibition of IMPDH and the resulting deprivation of lymphocytes, MPA also influences cellular checkpoints responsible for metabolic programming of lymphocytes. It has been shown, using human CD4+ T-cells, that MPA shifts transcriptional activities in lymphocytes from a proliferative state to catabolic processes relevant to metabolism and survival leading to an anergic state of T-cells, whereby the cells become unresponsive to their specific antigen.
 
@@ -651,11 +650,9 @@ A negligible amount of substance is excreted as MPA (&lt; 1% of the dose) in the
 
 At clinically encountered concentrations, MPA and MPAG are not removed by haemodialysis. However, at high MPAG plasma concentrations (&gt; 100 µ g/mL), small amounts of MPAG are removed. By interfering with enterohepatic recirculation of the drug, bile acid sequestrants such as cholestyramine, reduce MPA AUC (see section 4.9).
 
-MPA's disposition depends on several transporters. Organic anion transporting polypeptides (OATPs) and multidrug resistance-associated protein 2 (MRP2) are involved in MPA's disposition; OATP isoforms, MRP2 and breast cancer resistance protein (BCRP) are transporters associated with the
-
 <div style=\"page-break-after: always\"></div>
 
-glucuronides' biliary excretion. Multidrug resistance protein 1 (MDR1) is also able to transport MPA, but its contribution seems to be confined to the absorption process. In the kidney MPA and its metabolites potently interact with renal organic anion transporters.
+MPA's disposition depends on several transporters. Organic anion transporting polypeptides (OATPs) and multidrug resistance-associated protein 2 (MRP2) are involved in MPA's disposition; OATP isoforms, MRP2 and breast cancer resistance protein (BCRP) are transporters associated with the glucuronides' biliary excretion. Multidrug resistance protein 1 (MDR1) is also able to transport MPA, but its contribution seems to be confined to the absorption process. In the kidney MPA and its metabolites potently interact with renal organic anion transporters.
 
 Enterohepatic recirculation interferes with accurate determination of MPA's disposition parameters; only apparent values can be indicated. In healthy volunteers and patients with autoimmune disease approximate clearance values of 10.6 L/h and 8.27 L/h respectively and half-life values of 17 h were observed. In transplant patients mean clearance values were higher (range 11.9-34.9 L/h) and mean half-life values shorter (5-11 h) with little difference between renal, hepatic or cardiac transplant patients. In the individual patients, these elimination parameters vary based on type of co-treatment with other immunosuppressants, time post-transplantation, plasma albumin concentration and renal function. These factors explain why reduced exposure to mycophenolate is seen when mycophenolate mofetil is co-administered with ciclosporin (see section 4.5) and why plasma concentrations tend to increase over time compared to what is observed immediately after transplantation.
 
@@ -679,11 +676,9 @@ In 33 paediatric renal allograft recipients it was established that the dose pre
 
 Pharmacokinetic parameters were evaluated in up to 55 paediatric renal transplant patients (aged 1 to 18 years) given 600 mg/m 2 , up to 1 g/m 2 of mycophenolate mofetil orally twice daily. This dose achieved MPA AUC values similar to those seen in adult renal transplant patients receiving mycophenolate mofetil at a dose of 1 g BID in the early and late post-transplant period as per Table 3 below. MPA AUC values across paediatric age groups were similar in the early and late posttransplant period.
 
-For paediatric hepatic transplant recipients an open-label study of the safety, tolerability and pharmacokinetics of oral mycophenolate mofetil included 7 evaluable patients on concomitant ciclosporin and corticosteroid treatment. The dose predicted to achieve an exposure of 58 h ⋅ mg/l in the stable post-transplant period was estimated. The mean ± SD AUC0-12 (adjusted to a dose of
-
 <div style=\"page-break-after: always\"></div>
 
-600 mg/m 2 ) was 47.0±21.8 h ⋅ mg/l, adjusted Cmax was 14.5±4.21 mg/l, with a median time to maximum concentration of 0.75 h. To achieve the target AUC0-12 of 58 h ⋅ mg/l in the late posttransplant period, a dose in the range of 740-806 mg/m 2 BID would therefore have been required in the study population.
+For paediatric hepatic transplant recipients an open-label study of the safety, tolerability and pharmacokinetics of oral mycophenolate mofetil included 7 evaluable patients on concomitant ciclosporin and corticosteroid treatment. The dose predicted to achieve an exposure of 58 h ⋅ mg/l in the stable post-transplant period was estimated. The mean ± SD AUC0-12 (adjusted to a dose of 600 mg/m 2 ) was 47.0±21.8 h ⋅ mg/l, adjusted Cmax was 14.5±4.21 mg/l, with a median time to maximum concentration of 0.75 h. To achieve the target AUC0-12 of 58 h ⋅ mg/l in the late posttransplant period, a dose in the range of 740-806 mg/m 2 BID would therefore have been required in the study population.
 
 A comparison of dose-normalised (to 600 mg/m 2 ) MPA AUC values in 12 paediatric renal transplant patients less than 6 years of age at 9 months post-transplant with those values in 7 paediatric hepatic transplant patients [median age 17 months (range: 10-60 months at enrolment)] at 6 months and beyond post-transplant revealed that, at the same dose, the AUC values were on average 23% lower in the paediatric hepatic patients compared to paediatric renal patients. This is consistent with the need for higher dosing in adult hepatic transplant patients compared to adult renal transplant patients to achieve the same exposure.
 
@@ -728,11 +723,11 @@ E Data for one patient was unavailable due to sampling error.
 
 F n=16.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elderly
 
 The pharmacokinetics of mycophenolate mofetil and its metabolites have not been found to be altered in the elderly patients (≥ 65 years) when compared to younger transplant patients.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Patients taking oral contraceptives
 
@@ -754,13 +749,11 @@ Environmental risk assessment studies have shown that the active substance, MPA 
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
-## 6.1 List of excipients
-
-Capsule content Pregelatinised starch (maize)
-
 <div style=\"page-break-after: always\"></div>
 
-Povidone K-30 Croscarmellose sodium Magnesium stearate
+## 6.1 List of excipients
+
+Capsule content Pregelatinised starch (maize) Povidone K-30 Croscarmellose sodium Magnesium stearate
 
 ## Capsule shell
 
@@ -820,11 +813,15 @@ Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/07/438/001 (100 capsules) EU/1/07/438/002 (300 capsules) EU/1/07/438/006 (100 x 1 capsules)
+EU/1/07/438/001 (100 capsules)
 
-EU/1/07/438/009 (300 (3 x 100) capsules)
+EU/1/07/438/002 (300 capsules)
 
 <div style=\"page-break-after: always\"></div>
+
+EU/1/07/438/006 (100 x 1 capsules)
+
+EU/1/07/438/009 (300 (3 x 100) capsules)
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -995,7 +992,7 @@ Very limited post-marketing information indicates a higher frequency of the foll
 
 Patients taking mycophenolate mofetil should have complete blood counts weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first year. If neutropenia develops, it may be appropriate to interrupt or discontinue mycophenolate mofetil.
 
-- •
+- ·
 - gastrointestinal disorders including diarrhoea and vomiting.
 
 Treatment should be administered with caution in patients with active serious digestive system disease.
@@ -1187,9 +1184,9 @@ Diarrhoea (up to 52.6%), leukopenia (up to 45.8%), bacterial infections (up to 3
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions from clinical trials and post marketing experience are listed in Table 1, by MedDRA system organ class (SOC) along with their frequencies. The corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000) and very rare (&lt;1/10,000). Due to the large differences observed in the frequency of certain adverse reactions across the different transplant indications, the frequency is presented separately for renal, hepatic and cardiac transplant patients.
+The adverse reactions from clinical trials and post marketing experience are listed in Table 1, by MedDRA system organ class (SOC) along with their frequencies. The corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥ 1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000) and not known (cannot be estimated from the available data). Due to the large differences observed in the frequency of certain adverse reactions across the different transplant indications, the frequency is presented separately for renal, hepatic and cardiac transplant patients.
 
-Table 1 Adverse reactions in studies investigating mycophenolate mofetil treatment in adults and adolescents, or through post-marketing surveillance
+## Table 1 Adverse reactions in studies investigating mycophenolate mofetil treatment in adults and adolescents, or through post-marketing surveillance
 
 | Adverse reaction (MedDRA) System Organ Class   | Renal transplant            | Hepatic transplant          | Cardiac transplant          |
 |------------------------------------------------|-----------------------------|-----------------------------|-----------------------------|
@@ -1300,7 +1297,8 @@ Table 1 Adverse reactions in studies investigating mycophenolate mofetil treatme
 |                                                                            | Frequency                                            | Frequency                                            | Frequency                                            |
 | Hypersenstivity                                                            | Uncommon                                             | Common                                               | Common                                               |
 | Hypogammaglobulinaemia                                                     | Uncommon                                             | Very rare                                            | Very rare                                            |
-| Hepatobiliary disorders                                                    |                                                      |                                                      |                                                      |
+| Anaphylactic reactions                                                     | Not known                                            | Not known                                            | Not known                                            |
+| Hepatobiliary disorders                                                    | Hepatobiliary disorders                              | Hepatobiliary disorders                              | Hepatobiliary disorders                              |
 | Blood alkaline phosphatase increased                                       | Common                                               | Common                                               | Common                                               |
 | Blood lactate dehydrogenase increased                                      | Common                                               | Uncommon                                             | Very common                                          |
 | Hepatic enzyme increased                                                   | Common                                               | Very common                                          | Very common                                          |
@@ -1336,9 +1334,9 @@ Table 1 Adverse reactions in studies investigating mycophenolate mofetil treatme
 
 Patients receiving immunosuppressive regimens involving combinations of medicinal products, including mycophenolate mofetil, are at increased risk of developing lymphomas and other malignancies, particularly of the skin (see section 4.4). Three-year safety data in renal and cardiac transplant patients did not reveal any unexpected changes in incidence of malignancy compared to the 1-year data. Hepatic transplant patients were followed for at least 1 year, but less than 3 years.
 
-## Infections
-
 <div style=\"page-break-after: always\"></div>
+
+## Infections
 
 All patients treated with immunosuppressants are at increased risk of bacterial, viral and fungal infections (some of which may lead to a fatal outcome), including those caused by opportunistic agents and latent viral reactivation. The risk increases with total immunosuppressive load (see section 4.4). The most serious infections were sepsis, peritonitis, meningitis, endocarditis, tuberculosis and atypical mycobacterial infection. The most common opportunistic infections in patients receiving mycophenolate mofetil (2 g or 3 g daily) with other immunosuppressants in controlled clinical trials in renal, cardiac and hepatic transplant patients followed for at least 1 year were candida mucocutaneous, cytomegalovirus (CMV) viraemia/syndrome and Herpes simplex. The proportion of patients with CMV viraemia/syndrome was 13.5%. Cases of BK virus associated nephropathy, as well as cases of JC virus associated progressive multifocal leukoencephalopathy (PML), have been reported in patients treated with immunosuppressants, including mycophenolate mofetil.
 
@@ -1971,7 +1969,9 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Teva B.V. Swensweg 5 2031GA Haarlem Netherlands
+Teva B.V. Swensweg 5 2031GA Haarlem
+
+Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2538,7 +2538,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 - you have a sign of infection such as a fever or sore throat.
 - you have any unexpected bruising or bleeding.
-- you have a rash, swelling of your face, lips, tongue or throat, with difficulty breathing - you may be having a serious allergic reaction to the medicine (such as anaphylaxis, angioeodema).
+- rash, itching, hives, breathlessness or difficult breathing, wheezing or coughing, lightheadedness, dizziness, changes in levels of consciousness, hypotension, with or without mild generalized itching, skin reddening and facial/throat swelling (symptoms of severe allergic reaction).
 - you have black or bloody stool or if you vomit blood or dark particles that look like coffee grounds. These may be signs of bleeding in the stomach or intestines.
 
 <div style=\"page-break-after: always\"></div>
@@ -2591,10 +2591,10 @@ Very common (may affect more than 1 in 10 people)
 - fit
 - distortion of the sense of taste
 - blood clot that forms within a vein
-- inflammation of the tissue that lines the inner wall of the abdomen and covers most of the abdominal organs
 
 <div style=\"page-break-after: always\"></div>
 
+- inflammation of the tissue that lines the inner wall of the abdomen and covers most of the abdominal organs
 - bowel blockage
 - inflammation of the colon which causes abdominal pain or diarrhoea (sometimes caused by cytomegalovirus), ulcer of the mouth and/or stomach and/or duodenum, inflammation of the stomach, oesophagus and/or mouth and lips
 - belching
@@ -2639,9 +2639,9 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the blister and carton after EXP. The expiry date refers to the last day of that month.
-
 <div style=\"page-break-after: always\"></div>
+
+Do not use this medicine after the expiry date which is stated on the blister and carton after EXP. The expiry date refers to the last day of that month.
 
 This medicine does not require any special storage conditions.
 
@@ -2654,7 +2654,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - The active substance is mycophenolate mofetil. Each capsule contains 250 mg mycophenolate mofetil.
 - The other ingredients are:
 
-Capsule content Pregelatinised maize starch Povidone K-30 Croscarmellose sodium Magnesium stearate Capsule shells Cap Indigo carmine (E132) Titanium dioxide (E171) Gelatin Body Red iron oxide (E172) Yellow iron oxide (E172) Titanium dioxide (E171) Gelatin
+Capsule content
+
+Pregelatinised maize starch Povidone K-30 Croscarmellose sodium Magnesium stearate Capsule shells Cap Indigo carmine (E132) Titanium dioxide (E171) Gelatin Body Red iron oxide (E172) Yellow iron oxide (E172) Titanium dioxide (E171) Gelatin
 
 Black ink containing: shellac, black iron oxide (E172), propylene glycol and potassium hydroxide
 
@@ -2678,17 +2680,23 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Teva B.V. Swensweg 5 2031GA Haarlem Netherlands
+Teva B.V.
+
+Swensweg 5
+
+2031GA Haarlem
+
+Netherlands
 
 ## Manufacturers
 
-Teva Pharmaceutical Works Private Limited Company Pallagi út 13. Debrecen H-4042 Hungary
+Teva Pharmaceutical Works Private Limited Company
 
-Teva Operations Poland Sp. Z.o.o. Mogilska 80 Str.
+Pallagi út 13. Debrecen H-4042 Hungary
 
 <div style=\"page-break-after: always\"></div>
 
-31-546 Krakow Poland
+Teva Operations Poland Sp. Z.o.o. Mogilska 80 Str. 31-546 Krakow Poland
 
 Pharmachemie B.V. Swensweg 5 2031 GA Haarlem The Netherlands
 
@@ -2696,13 +2704,9 @@ For any information about this medicinal product, please contact the local repre
 
 ## België/Belgique/Belgien
 
-## Lietuva
-
 Teva Pharma Belgium N.V./S.A./AG
 
 Tél/Tel: +32 38207373
-
-UAB Teva Baltics Tel: +370 52660203
 
 ## България
 
@@ -2712,17 +2716,25 @@ UAB Teva Baltics Tel: +370 52660203
 
 .: +359 24899585
 
+## Česká republika
+
+## Lietuva
+
+UAB Teva Baltics
+
+Tel: +370 52660203
+
 ## Luxembourg/Luxemburg
 
-Teva Pharma Belgium N.V./S.A./AG Belgique/Belgien Tél/Tel: +32 38207373
+Teva Pharma Belgium N.V./S.A./AG Belgique/Belgien
 
-## Česká republika
+Tél/Tel: +32 38207373
+
+## Magyarország
 
 Teva Pharmaceuticals CR, s.r.o.
 
 Tel: +420 251007111
-
-## Magyarország
 
 Teva Gyógyszergyár Zrt.
 
@@ -2734,21 +2746,11 @@ Teva Denmark A/S
 
 Tlf.: +45 44985511
 
-## Malta
-
-TEVA HELLAS Α.Ε. il- Greċja Tel: +30 2118805000
-
 ## Deutschland
 
 TEVA GmbH
 
 Tel: +49 73140208
-
-## Nederland
-
-Teva Nederland B.V.
-
-Tel: +31 8000228400
 
 ## Eesti
 
@@ -2756,21 +2758,11 @@ UAB Teva Baltics Eesti filiaal
 
 Tel: +372 6610801
 
-## Norge
-
-Teva Norway AS
-
-Tlf: +47 66775590
-
 ## Ελλάδα
 
 TEVA HELLAS Α.Ε.
 
 Τηλ: +30 2118805000
-
-## Österreich
-
-ratiopharm Arzneimittel Vertriebs-GmbH Tel: +43 1970070
 
 ## España
 
@@ -2778,27 +2770,55 @@ Teva Pharma, S.L.U.
 
 Tel: +34 915359180
 
-## Polska
-
-Teva Pharmaceuticals Polska Sp. z o.o.
-
-Tel.: +48 223459300
-
 ## France
 
 Teva Santé
 
 Tél: +33 155917800
 
-## Portugal
-
-Teva Pharma - Produtos Farmacêuticos, Lda. Tel: +351 214767550
-
 ## Hrvatska
 
 Pliva Hrvatska d.o.o.
 
 Tel: +385 13720000
+
+## Malta
+
+TEVA HELLAS Α.Ε.
+
+ilGreċja
+
+Tel: +30 2118805000
+
+## Nederland
+
+Teva Nederland B.V.
+
+Tel: +31 8000228400
+
+## Norge
+
+Teva Norway AS
+
+Tlf: +47 66775590
+
+## Österreich
+
+ratiopharm Arzneimittel Vertriebs-GmbH
+
+Tel: +43 1970070
+
+## Polska
+
+Teva Pharmaceuticals Polska Sp. z o.o.
+
+Tel.: +48 223459300
+
+## Portugal
+
+Teva Pharma - Produtos Farmacêuticos, Lda.
+
+Tel: +351 214767550
 
 ## România
 
@@ -2872,9 +2892,7 @@ Detailed information on this medicine is available on the website of the Europea
 
 ## Package leaflet: Information for the patient
 
-## Myfenax 500 mg film-coated tablets
-
-## mycophenolate mofetil
+## Myfenax 500 mg film-coated tablets mycophenolate mofetil
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -3097,7 +3115,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 - you have a sign of infection such as a fever or sore throat.
 - you have any unexpected bruising or bleeding.
-- you have a rash, swelling of your face, lips, tongue or throat, with difficulty breathing - you may be having a serious allergic reaction to the medicine (such as anaphylaxis, angioeodema).
+- rash, itching, hives, breathlessness or difficult breathing, wheezing or coughing, lightheadedness, dizziness, changes in levels of consciousness, hypotension, with or without mild generalized itching, skin reddening and facial/throat swelling (symptoms of severe allergic reaction).
 - you have black or bloody stool or if you vomit blood or dark particles that look like coffee grounds. These may be signs of bleeding in the stomach or intestines.
 
 The frequency of certain side effects is dependent on the transplanted organ, i.e. some side effects can occur more or less often depending on whether this medicinal product is being taken to prevent your
@@ -3260,12 +3278,6 @@ Teva Pharma Belgium N.V./S.A./AG
 
 Tél/Tel: +32 38207373
 
-## Lietuva
-
-UAB Teva Baltics
-
-Tel: +370 52660203
-
 ## България
 
 Тева Фарма ЕАД
@@ -3274,23 +3286,11 @@ Tel: +370 52660203
 
 .: +359 24899585
 
-## Luxembourg/Luxemburg
-
-Teva Pharma Belgium N.V./S.A./AG Belgique/Belgien
-
-Tél/Tel: +32 38207373
-
 ## Česká republika
 
 Teva Pharmaceuticals CR, s.r.o.
 
 Tel: +420 251007111
-
-## Magyarország
-
-Teva Gyógyszergyár Zrt.
-
-Tel.: +36 12886400
 
 ## Danmark
 
@@ -3298,25 +3298,11 @@ Teva Denmark A/S
 
 Tlf.: +45 44985511
 
-## Malta
-
-TEVA HELLAS Α.Ε.
-
-il- Greċja
-
-Tel: +30 2118805000
-
 ## Deutschland
 
 TEVA GmbH
 
 Tel: +49 73140208
-
-## Nederland
-
-Teva Nederland B.V.
-
-Tel: +31 8000228400
 
 ## Eesti
 
@@ -3324,21 +3310,11 @@ UAB Teva Baltics Eesti filiaal
 
 Tel: +372 6610801
 
-## Norge
-
-Teva Norway AS
-
-Tlf: +47 66775590
-
 ## Ελλάδα
 
 TEVA HELLAS Α.Ε.
 
 Τηλ: +30 2118805000
-
-## Österreich
-
-ratiopharm Arzneimittel Vertriebs-GmbH Tel: +43 1970070
 
 ## España
 
@@ -3346,21 +3322,11 @@ Teva Pharma, S.L.U.
 
 Tel: +34 915359180
 
-## Polska
-
-Teva Pharmaceuticals Polska Sp. z o.o.
-
-Tel.: +48 223459300
-
 ## France
 
 Teva Santé
 
 Tél: +33 155917800
-
-## Portugal
-
-Teva Pharma - Produtos Farmacêuticos, Lda. Tel: +351 214767550
 
 ## Hrvatska
 
@@ -3368,29 +3334,81 @@ Pliva Hrvatska d.o.o.
 
 Tel: +385 13720000
 
-## România
-
-Teva Pharmaceuticals S.R.L.
-
-Tel: +40 212306524
-
 ## Ireland
 
 Teva Pharmaceuticals Ireland
 
 Tel: +44 2075407117
 
-## Slovenija
-
-Pliva Ljubljana d.o.o.
-
-Tel: +386 15890390
-
 ## Ísland
 
 Alvogen ehf.
 
 Sími: +354 5222900
+
+## Lietuva
+
+UAB Teva Baltics
+
+Tel: +370 52660203
+
+## Luxembourg/Luxemburg
+
+Teva Pharma Belgium N.V./S.A./AG Belgique/Belgien
+
+Tél/Tel: +32 38207373
+
+## Magyarország
+
+Teva Gyógyszergyár Zrt.
+
+Tel.: +36 12886400
+
+## Malta
+
+TEVA HELLAS Α.Ε.
+
+ilGreċja
+
+Tel: +30 2118805000
+
+## Nederland
+
+Teva Nederland B.V.
+
+Tel: +31 8000228400
+
+## Norge
+
+Teva Norway AS
+
+Tlf: +47 66775590
+
+## Österreich
+
+ratiopharm Arzneimittel Vertriebs-GmbH Tel: +43 1970070
+
+## Polska
+
+Teva Pharmaceuticals Polska Sp. z o.o.
+
+Tel.: +48 223459300
+
+## Portugal
+
+Teva Pharma - Produtos Farmacêuticos, Lda. Tel: +351 214767550
+
+## România
+
+Teva Pharmaceuticals S.R.L.
+
+Tel: +40 212306524
+
+## Slovenija
+
+Pliva Ljubljana d.o.o.
+
+Tel: +386 15890390
 
 ## Slovenská republika
 
@@ -3433,3 +3451,25 @@ Puh/Tel: +358 201805900
 Teva Sweden AB
 
 Tel: +46 42121100
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for mycophenolate mofetil, mycophenolic acid, the scientific conclusions of PRAC are as follows:
+
+In view of available data on anaphylactic reactions from the literature and spontaneous reports including in cases a close temporal relationship, a positive de-challenge and/or re-challenge, the PRAC considers a causal relationship between mycophenolate mofetil, mycophenolic acid and anaphylactic reactions is at least a reasonable possibility. The PRAC concluded that the product information of products containing mycophenolate mofetil, mycophenolic acid should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for mycophenolate mofetil, mycophenolic acid the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing mycophenolate mofetil, mycophenolic acid is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

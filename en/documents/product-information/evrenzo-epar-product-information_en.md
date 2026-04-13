@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-30 16:43:22
-document_pages: 55
+document_datetime: 2026-04-10 14:53:52
+document_pages: 54
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/evrenzo-epar-product-information_en.pdf
 document_name: evrenzo-epar-product-information_en.pdf
 version: success
-processing_time: 19.1906668
-conversion_datetime: 2025-12-15 06:21:58.422535
+processing_time: 36.8613967
+conversion_datetime: 2026-04-13 13:40:37.273882
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -22,49 +22,60 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
-
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Evrenzo 20 mg film-coated tablets
-
-Evrenzo 50 mg film-coated tablets
-
-Evrenzo 70 mg film-coated tablets
-
-Evrenzo 100 mg film-coated tablets
-
-Evrenzo 150 mg film-coated tablets
+| Evrenzo20 mg film-coated tablets   |
+|------------------------------------|
+| Evrenzo50 mg film-coated tablets   |
+| Evrenzo70 mg film-coated tablets   |
+| Evrenzo100 mg film-coated tablets  |
+| Evrenzo150 mg film-coated tablets  |
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Evrenzo 20 mg film-coated tablets Each tablet contains 20 mg of roxadustat.
+## Evrenzo 20 mg film-coated tablets
 
-Evrenzo 50 mg film-coated tablets Each tablet contains 50 mg of roxadustat.
+Each film-coated tablet contains 20 mg of roxadustat.
 
-Evrenzo 70 mg film-coated tablets Each tablet contains 70 mg of roxadustat.
-
-Evrenzo 100 mg film-coated tablets Each tablet contains 100 mg of roxadustat.
-
-Evrenzo 150 mg film-coated tablets
-
-Each tablet contains 150 mg of roxadustat.
-
-## Excipient(s) with known effect
+## Excipients with known effect
 
 Each 20 mg film-coated tablet contains 40.5 mg of lactose, 0.9 mg of Allura Red AC aluminium lake and 0.21 mg soya lecithin.
 
+## Evrenzo 50 mg film-coated tablets
+
+Each film-coated tablet contains 50 mg of roxadustat.
+
+## Excipients with known effect
+
 Each 50 mg film-coated tablet contains 101.2 mg of lactose, 1.7 mg of Allura Red AC aluminium lake and 0.39 mg soya lecithin.
+
+## Evrenzo 70 mg film-coated tablets
+
+Each film-coated tablet contains 70 mg of roxadustat.
+
+## Excipients with known effect
 
 Each 70 mg film-coated tablet contains 141.6 mg of lactose, 2.1 mg of Allura Red AC aluminium lake and 0.47 mg soya lecithin.
 
+## Evrenzo 100 mg film-coated tablets
+
+Each film-coated tablet contains 100 mg of roxadustat.
+
+## Excipients with known effect
+
 Each 100 mg film-coated tablet contains 202.4 mg of lactose, 2.8 mg of Allura Red AC aluminium lake and 0.63 mg soya lecithin.
+
+## Evrenzo 150 mg film-coated tablets
+
+Each film-coated tablet contains 150 mg of roxadustat.
+
+## Excipients with known effect
 
 Each 150 mg film-coated tablet contains 303.5 mg of lactose, 3.7 mg of Allura Red AC aluminium lake and 0.84 mg soya lecithin.
 
 For the full list of excipients, see section 6.1.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 3. PHARMACEUTICAL FORM
 
@@ -77,8 +88,6 @@ Red, oval tablets (approximately 8 mm × 4 mm) with '20' debossed on one side.
 ## Evrenzo 50 mg tablets
 
 Red, oval tablets (approximately 11 mm × 6 mm) with '50' debossed on one side.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Evrenzo 70 mg tablets
 
@@ -116,15 +125,17 @@ Roxadustat treatment should not be continued beyond 24 weeks of therapy if a cli
 
 Adequate iron stores should be ensured prior to initiating treatment.
 
-Patients not currently treated with an erythropoiesis -stimulating agent (ESA) For patients initiating anaemia treatment not previously treated with ESA the recommended starting dose of roxadustat is 70 mg three times per week in patients weighing less than 100 kg and 100 mg three times per week in patients weighing 100 kg and over.
+<div style=\"page-break-after: always\"></div>
+
+## Patients not currently treated with an erythropoiesis -stimulating agent (ESA)
+
+For patients initiating anaemia treatment not previously treated with ESA the recommended starting dose of roxadustat is 70 mg three times per week in patients weighing less than 100 kg and 100 mg three times per week in patients weighing 100 kg and over.
 
 ## Patients converting from an ESA
 
 Patients currently treated with an ESA can be converted to roxadustat, however, conversion of dialysis patients otherwise stable on ESA treatment is only to be considered when there is a valid clinical reason (see sections 4.4 and 5.1).
 
 Conversion of non-dialysis patients otherwise stable on ESA treatment has not been investigated. A decision to treat these patients with roxadustat should be based on a benefit-risk consideration for the individual patient.
-
-<div style=\"page-break-after: always\"></div>
 
 The recommended starting dose of roxadustat is based on the average prescribed ESA dose in the 4 weeks before conversion (see Table 1). The first roxadustat dose should replace the next scheduled dose of the current ESA.
 
@@ -147,6 +158,8 @@ The dose of roxadustat can be adjusted stepwise up or down from the starting dos
 
 The stepwise dose adjustments up or down should follow the sequence of the available doses: 20 mg-40 mg-50 mg-70 mg-100 mg-150 mg-200 mg-250 mg-300 mg-400 mg (only for CKD patients on dialysis).
 
+<div style=\"page-break-after: always\"></div>
+
 Table 2. Dose adjustment rules
 
 | Change in Hb over the previous 4 weeks 1   | Current Hb level (g/dL):   | Current Hb level (g/dL):   | Current Hb level (g/dL):   | Current Hb level (g/dL):                                                                                                   |
@@ -159,8 +172,6 @@ Table 2. Dose adjustment rules
 The dose of roxadustat should not be adjusted more frequently than once every 4 weeks, except if Hb increases by more than 2 g/dL at any time within a 4-week period, in which case the dose should be reduced by one step immediately.
 
 1 Change in haemoglobin (Hb) over the previous 4 weeks = (present Hb value) - (previous Hb value drawn 4 weeks ago).
-
-<div style=\"page-break-after: always\"></div>
 
 If additional dose reduction is required for a patient already on the lowest dose (20 mg three times per week), do not reduce the 20 mg dose by breaking the tablet, but reduce the dose frequency to twice per week. If further dose reduction is needed, the dose frequency may be further reduced to once weekly.
 
@@ -178,19 +189,23 @@ When initiating or discontinuing concomitant treatment with strong inhibitors (e
 
 ## Maximum recommended dose
 
-Patients not on dialysis do not exceed a roxadustat dose of 3 mg/kg body weight or 300 mg three times per week, whichever is lower.
+## Patients not on dialysis
 
-Patients on dialysis do not exceed a roxadustat dose of 3 mg/kg body weight or 400 mg three times per week, whichever is lower.
+Do not exceed a roxadustat dose of 3 mg/kg body weight or 300 mg three times per week, whichever is lower.
+
+## Patients on dialysis
+
+Do not exceed a roxadustat dose of 3 mg/kg body weight or 400 mg three times per week, whichever is lower.
 
 ## Missed dose
 
 If a dose is missed, and there is more than 1 day until the next scheduled dose, the missed dose must be taken as soon as possible. If one day or less remains before the next scheduled dose, the missed dose must be skipped, and the next dose must be taken on the next scheduled day. In each case, the regular dosing schedule should be resumed thereafter.
 
-## Special populations
-
 ## Elderly
 
 No adjustment of the starting dose is required in elderly patients (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Patients with hepatic impairment
 
@@ -208,11 +223,7 @@ Evrenzo film-coated tablets are to be taken orally with or without food. Tablets
 
 The tablets should be taken at least 1 hour after administration of phosphate binders (except lanthanum) or other medicinal products containing multivalent cations such as calcium, iron, magnesium or aluminium (see sections 4.5 and 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.3 Contraindications
-
-Evrenzo is contraindicated in the following conditions:
 
 - Hypersensitivity to the active substance, peanut, soya or to any of the excipients listed in section 6.1.
 - Third trimester of pregnancy (see sections 4.4 and 4.6).
@@ -228,6 +239,8 @@ Overall, the cardiovascular and mortality risk for treatment with roxadustat has
 
 The reported risk of thrombotic vascular events (TVEs) including deep vein thrombosis (DVT), pulmonary embolism (PE) and cerebral infarction should be carefully weighed against the benefits of roxadustat treatment particularly in patients with pre-existing risk factors for TVE, including obesity and prior history of TVEs. The majority of DVT, PE and cerebral infarction events were serious. Fatal cases of cerebral infarction have been reported.
 
+<div style=\"page-break-after: always\"></div>
+
 A rapid increase in Hb values has been observed in some cases of cerebrovascular accidents.
 
 Vascular access thrombosis (VAT) was reported as very common amongst the CKD patients on dialysis in clinical studies (see section 4.8). In these patients, rates of VAT in roxadustat-treated patients were highest in the first 12 weeks following initiation of treatment, particularly at Hb values more than 12 g/dL and with Hb rise of more than 2 g/dL over 4 weeks. It is recommended to closely monitor Hb levels and adjust the dose using the dose adjustment rules (see Table 2) to avoid these levels.
@@ -237,8 +250,6 @@ Patients with signs and symptoms of TVEs should be promptly evaluated and treate
 ## Seizures
 
 Seizures were reported as common amongst the patients in clinical studies receiving roxadustat (see section 4.8). Roxadustat should be used with caution in patients with a history of seizures (convulsions or fits), epilepsy or medical conditions associated with a predisposition to seizure activity such as central nervous system (CNS) infections. The decision to interrupt or discontinue treatment should be based on a benefit-risk consideration of the individual patient.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Serious infections
 
@@ -260,6 +271,8 @@ Inadequate response to therapy with roxadustat should prompt a search for causat
 
 Caution is warranted when roxadustat is administered to patients with moderate hepatic impairment (Child-Pugh class B). Evrenzo is not recommended for use in patients with severe hepatic impairment (Child-Pugh class C) (see section 5.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pregnancy and contraception
 
 Roxadustat should not be initiated in women planning on becoming pregnant, during pregnancy or when anaemia associated with CKD is diagnosed during pregnancy. In such cases, alternative therapy should be started, if appropriate. If pregnancy occurs while roxadustat is being administered, treatment should be discontinued and alternative treatment started, if appropriate. Women of childbearing potential must use highly effective contraception during treatment and for at least one week after the last dose of Evrenzo (see sections 4.3 and 4.6).
@@ -270,9 +283,17 @@ Misuse may lead to an excessive increase in packed cell volume. This may be asso
 
 ## Excipients
 
-Evrenzo contains lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product. Evrenzo contains Allura Red AC aluminium lake (see section 6.1) which may cause allergic reactions.
+## Lactose
 
-Evrenzo contains traces of soya lecithin. Patients who are allergic to peanut or soya, should not use this medicinal product.
+Evrenzo contains lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
+## Allura Red AC aluminium lake
+
+Evrenzo contains Allura Red AC aluminium lake which may cause allergic reactions.
+
+## Soya lecithin
+
+Evrenzo contains soya lecithin and is contraindicated in patients who are allergic to peanut or soya (see section 4.3).
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -280,25 +301,25 @@ Evrenzo contains traces of soya lecithin. Patients who are allergic to peanut or
 
 ## Phosphate binders and other products containing multivalent cations
 
-Co-administration of roxadustat with phosphate binders sevelamer carbonate or calcium acetate in healthy subjects decreased roxadustat AUC by 67% and 46% and Cmax by 66% and 52%, respectively. Roxadustat may form a chelate with multivalent cations such as in phosphate binders or other products containing calcium, iron, magnesium or aluminium. Staggered administration of phosphate binders (at
-
-<div style=\"page-break-after: always\"></div>
-
-least 1 hour apart) had no clinically significant effect on roxadustat exposure in patients with CKD. Roxadustat should be taken at least 1 hour after administration of phosphate binders or other medicinal products or supplements containing multivalent cations (see section 4.2). This restriction does not apply to lanthanum carbonate, as the co-administration of roxadustat with lanthanum carbonate did not result in a clinically meaningful change in the plasma exposure of roxadustat.
+Co-administration of roxadustat with phosphate binders sevelamer carbonate or calcium acetate in healthy subjects decreased roxadustat AUC by 67% and 46% and Cmax by 66% and 52%, respectively. Roxadustat may form a chelate with multivalent cations such as in phosphate binders or other products containing calcium, iron, magnesium or aluminium. Staggered administration of phosphate binders (at least 1 hour apart) had no clinically significant effect on roxadustat exposure in patients with CKD. Roxadustat should be taken at least 1 hour after administration of phosphate binders or other medicinal products or supplements containing multivalent cations (see section 4.2). This restriction does not apply to lanthanum carbonate, as the co-administration of roxadustat with lanthanum carbonate did not result in a clinically meaningful change in the plasma exposure of roxadustat.
 
 ## Modifiers of CYP2C8 or UGT1A9 activity
 
-Roxadustat is a substrate of CYP2C8 and UGT1A9. Co-administration of roxadustat with gemfibrozil (CYP2C8 and OATP1B1inhibitor) or probenecid (UGT and OAT1/OAT3 inhibitor) in healthy subjects increased roxadustat AUC by 2.3-fold and Cmax by 1.4-fold. Monitor Hb levels when initiating or discontinuing concomitant treatment with gemfibrozil, probenecid, other strong inhibitors or inducers of CYP2C8 or other strong inhibitors of UGT1A9. Adjust the dose of roxadustat following dose adjustment rules (see Table 2) based on Hb monitoring.
+Roxadustat is a substrate of CYP2C8 and UGT1A9. Co-administration of roxadustat with gemfibrozil (CYP2C8 and OATP1B1inhibitor) or probenecid (UGT and OAT1/OAT3 inhibitor) in healthy subjects increased roxadustat AUC by 2.3-fold and Cmax by 1.4-fold. Hb levels are to be monitored when initiating or discontinuing concomitant treatment with gemfibrozil, probenecid, other strong inhibitors or inducers of CYP2C8 or other strong inhibitors of UGT1A9. The dose of roxadustat is to be adjusted following dose adjustment rules (see Table 2) based on Hb monitoring.
 
 ## Effects of roxadustat on other medicinal products
 
-## OATP1B1 or BCRP Substrates
+## OATP1B1 or BCRP substrates
 
-Roxadustat is an inhibitor of BCRP and OATP1B1. These transporters play an important role in the intestinal and hepatic uptake and efflux of statins. Co-administration of 200 mg of roxadustat with simvastatin in healthy subjects increased the AUC and Cmax of simvastatin 1.8- and 1.9-fold, respectively, and the AUC and Cmax of simvastatin acid (the active metabolite of simvastatin) 1.9- and 2.8-fold, respectively. The concentrations of simvastatin and simvastatin acid also increased when simvastatin was administered 2 hours before or 4 or 10 hours after roxadustat. Co-administration of 200 mg of roxadustat with rosuvastatin increased the AUC and Cmax of rosuvastatin 2.9- and 4.5-fold, respectively. Co-administration of 200 mg of roxadustat with atorvastatin increased the AUC and Cmax of atorvastatin 2.0- and 1.3-fold, respectively.
+Roxadustat is an inhibitor of BCRP and OATP1B1. These transporters play an important role in the intestinal and hepatic uptake and efflux of statins. Co-administration of 200 mg of roxadustat with simvastatin in healthy subjects increased the AUC and Cmax of simvastatin 1.8- and 1.9-fold, respectively, and the AUC and Cmax of simvastatin acid (the active metabolite of simvastatin) 1.9- and
 
-Interactions are also expected with other statins. When co-administered with roxadustat, consider this interaction, monitor for adverse reactions associated with statins and for the need of statin dose reduction. Refer to statin prescribing information when deciding on the appropriate statin dose for individual patients.
+<div style=\"page-break-after: always\"></div>
 
-Roxadustat may increase the plasma exposure of other medicinal products that are substrates of BCRP or OATP1B1. Monitor for possible adverse reactions of co-administered medicinal products and adjust dose accordingly.
+2.8-fold, respectively. The concentrations of simvastatin and simvastatin acid also increased when simvastatin was administered 2 hours before or 4 or 10 hours after roxadustat. Co-administration of 200 mg of roxadustat with rosuvastatin increased the AUC and Cmax of rosuvastatin 2.9- and 4.5-fold, respectively. Co-administration of 200 mg of roxadustat with atorvastatin increased the AUC and Cmax of atorvastatin 2.0- and 1.3-fold, respectively.
+
+Interactions are also expected with other statins. When co-administered with roxadustat, adverse reactions associated with statins should be monitored for the need of statin dose reduction. Refer to statin prescribing information when deciding on the appropriate statin dose for individual patients.
+
+Roxadustat may increase the plasma exposure of other medicinal products that are substrates of BCRP or OATP1B1. Possible adverse reactions of co-administered medicinal products should be monitored and doses adjusted accordingly.
 
 ## Roxadustat and ESAs
 
@@ -306,7 +327,7 @@ It is not recommended to combine administration of roxadustat and ESAs as the co
 
 ## 4.6 Fertility, pregnancy and lactation
 
-## Pregnancy, women of childbearing potential and contraception
+Pregnancy, women of childbearing potential and contraception
 
 There are no data on the use of roxadustat in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
 
@@ -318,8 +339,6 @@ Roxadustat is not recommended during the first and second trimester of pregnancy
 
 It is unknown whether roxadustat/metabolites are excreted in human milk. Available animal data have shown excretion of roxadustat in milk (for details see section 5.3). Evrenzo is contraindicated during breast-feeding (see sections 4.3 and 5.3).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Fertility
 
 In animal studies, there were no effects of roxadustat on male and female fertility. However, changes in rat male reproductive organs were observed. The potential effects of roxadustat on male fertility in humans is currently unknown. At a maternally toxic dose, increased embryonic loss was observed (see section 5.3). Women of childbearing potential must use highly effective contraception during treatment and for at least one week after the last dose of Evrenzo.
@@ -328,47 +347,46 @@ In animal studies, there were no effects of roxadustat on male and female fertil
 
 Roxadustat has minor influence on the ability to drive and use machines. Seizures have been reported during treatment with Evrenzo (see section 4.4). Therefore, caution should be exercised when driving or using machines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
 The safety of Evrenzo was evaluated in 3542 non-dialysis dependent (NDD) and 3353 dialysis dependent (DD) patients with anaemia and CKD who have received at least one dose of roxadustat.
 
-The most frequent (≥10%) adverse reactions associated with roxadustat are hypertension (13.9%), vascular access thrombosis (12.8%), diarrhoea (11.8%), peripheral oedema (11.7%), hyperkalaemia (10.9%) and nausea (10.2%).
+The most frequent (≥ 10%) adverse reactions associated with roxadustat are hypertension (13.9%), vascular access thrombosis (12.8%), diarrhoea (11.8%), peripheral oedema (11.7%), hyperkalaemia (10.9%) and nausea (10.2%).
 
-The most frequent (≥1%) serious adverse reactions associated with roxadustat were sepsis (3.4%), hyperkalaemia (2.5%), hypertension (1.4%) and deep vein thrombosis (1.2%).
+The most frequent (≥ 1%) serious adverse reactions associated with roxadustat were sepsis (3.4%), hyperkalaemia (2.5%), hypertension (1.4%) and deep vein thrombosis (1.2%).
 
 ## Tabulated list of adverse reactions
 
 Adverse reactions observed during clinical studies and/or in post-marketing experience are listed in this section by frequency category.
 
-Frequency categories are defined as follows: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
+Frequency categories are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data).
 
-## Table 3. Adverse reactions
+Table 3. Adverse reactions
 
-| MedDRA System organ class (SOC)              | Frequency category   | Adverse reaction                                 |
-|----------------------------------------------|----------------------|--------------------------------------------------|
-| Infections and infestations                  | Common               | Sepsis                                           |
-| Blood and lymphatic system disorders         | Common               | Thrombocytopenia                                 |
-| Endocrine disorders                          | Not known            | Secondary hypothyroidism                         |
-| Metabolism and nutrition disorders           | Very common          | Hyperkalaemia                                    |
-| Psychiatric disorders                        | Common               | Insomnia                                         |
-| Nervous system disorders                     | Common               | Seizures, headache                               |
-| Nervous system disorders                     | Uncommon             | Cerebral infarction                              |
-| Vascular disorders                           | Very common          | Hypertension, vascular access thrombosis (VAT) 1 |
-| Vascular disorders                           | Common               | Deep vein thrombosis (DVT)                       |
-| Respiratory, thoracic, mediastinal disorders | Uncommon             | Pulmonary embolism                               |
-| Gastrointestinal disorders                   | Very common          | Nausea, diarrhoea                                |
-| Gastrointestinal disorders                   | Common               | Constipation, vomiting                           |
+| MedDRA System organ class (SOC)                      | Frequency category   | Adverse reaction                                                          |
+|------------------------------------------------------|----------------------|---------------------------------------------------------------------------|
+| Infections and infestations                          | Common               | Sepsis                                                                    |
+| Blood and lymphatic system disorders                 | Common               | Thrombocytopenia                                                          |
+| Endocrine disorders                                  | Not known            | Secondary hypothyroidism                                                  |
+| Metabolism and nutrition disorders                   | Very common          | Hyperkalaemia                                                             |
+| Psychiatric disorders                                | Common               | Insomnia                                                                  |
+| Nervous system disorders                             | Common               | Seizures, headache                                                        |
+| Nervous system disorders                             | Uncommon             | Cerebral infarction                                                       |
+| Vascular disorders                                   | Very common          | Hypertension, vascular access thrombosis (VAT) 1                          |
+| Vascular disorders                                   | Common               | Deep vein thrombosis (DVT)                                                |
+| Respiratory, thoracic, mediastinal disorders         | Uncommon             | Pulmonary embolism                                                        |
+| Gastrointestinal disorders                           | Very common          | Nausea, diarrhoea                                                         |
+| Gastrointestinal disorders                           | Common               | Constipation, vomiting                                                    |
+| Hepatobiliary disorders                              | Uncommon             | Hyperbilirubinaemia                                                       |
+| Skin and subcutaneous tissue disorders               | Not known            | Dermatitis Exfoliative Generalised (DEG)                                  |
+| General disorders and administration site conditions | Very common          | Peripheral oedema                                                         |
+| Investigations                                       | Not known            | Blood thyroid stimulating hormone (TSH) decreased, blood copper increased |
 
 <div style=\"page-break-after: always\"></div>
-
-| MedDRA System organ class (SOC)                      | Frequency category   | Adverse reaction                                                           |
-|------------------------------------------------------|----------------------|----------------------------------------------------------------------------|
-| Hepatobiliary disorders                              | Uncommon             | Hyperbilirubinaemia                                                        |
-| Skin and subcutaneous tissue disorders               | Not known            | Dermatitis Exfoliative Generalised (DEG)                                   |
-| General disorders and administration site conditions | Very common          | Peripheral oedema                                                          |
-| Investigations                                       | Not known            | Blood thyroid stimulating hormone (TSH) decreased , blood copper increased |
 
 1 This adverse reaction is associated with CKD patients who were on dialysis while receiving roxadustat.
 
@@ -392,8 +410,6 @@ In CKD patients not on dialysis, seizures occurred in 1.1% (0.6 patients with ev
 
 In CKD patients on dialysis, seizures occurred in 2.0% (1.2 patients with events per 100 patient years of exposure) in the roxadustat group, and 1.6% (0.8 patients with events per 100 patient years of exposure) in the ESA group (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Sepsis
 
 In CKD patients not on dialysis, sepsis was observed in 2.1% (1.3 patients with events per 100 patient years of exposure) in the roxadustat group, compared to 0.4% (0.3 patients with events per 100 patient years of exposure) in the placebo group. In patients on dialysis, sepsis was observed in 3.4% (2.0 patients with events per 100 patient years of exposure) in the roxadustat group, compared to 3.4% (1.8 patients with events per 100 patient years of exposure) in the ESA group (see section 4.4).
@@ -402,13 +418,15 @@ In CKD patients not on dialysis, sepsis was observed in 2.1% (1.3 patients with 
 
 Dermatitis exfoliative generalised, part of severe cutaneous adverse reactions (SCARs), has been reported during postmarketing surveillance and has shown an association with roxadustat treatment (frequency not known).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
-Single supratherapeutic doses of roxadustat 5 mg/kg (up to 510 mg) in healthy subjects were associated with a transient increase in heart rate, an increased frequency of mild to moderate musculoskeletal pain, headaches, sinus tachycardia, and less commonly, low blood pressure, all these findings were non-serious. Roxadustat overdose can elevate Hb levels above the desired level (10 - 12 g/dL), which should be managed with discontinuation or reduction of roxadustat dosage (see section 4.2) and careful monitoring and treatment as clinically indicated. Roxadustat and its metabolites are not significantly removed by haemodialysis (see section 5.2).
+Single supratherapeutic doses of roxadustat 5 mg/kg (up to 510 mg) in healthy subjects were associated with a transient increase in heart rate, an increased frequency of mild to moderate musculoskeletal pain, headaches, sinus tachycardia, and less commonly, low blood pressure, all these findings were non-serious. Roxadustat overdose can elevate Hb levels above the desired level (10 - 12 g/dL), which should be managed with discontinuation or reduction of roxadustat dosage (see section 4.2), and careful monitoring and treatment as clinically indicated. Roxadustat and its metabolites are not significantly removed by haemodialysis (see section 5.2).
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -424,9 +442,7 @@ Roxadustat is a hypoxia-inducible factor, prolyl hydroxylase inhibitor (HIF-PHI)
 
 ## Effects on QTc and heart rate
 
-A thorough QT (TQT) study in healthy subjects with roxadustat at a single therapeutic dose of 2.75 mg/kg and a single supratherapeutic dose of 5 mg/kg (up to 510 mg) did not show a prolongation of the QTc interval. The same thorough QT study demonstrated a placebo-corrected heart rate increase of up to 9 to 10 bpm at 8 to 12 h post-dose for the 2.75 mg/kg dose and 15 to 18 bpm at 6 to 12 h post-dose for the dose of 5 mg/kg.
-
-<div style=\"page-break-after: always\"></div>
+A thorough QT (TQT) study in healthy subjects with roxadustat at a single therapeutic dose of 2.75 mg/kg and a single supratherapeutic dose of 5 mg/kg (up to 510 mg) did not show a prolongation of the QTc interval. The same thorough QT study demonstrated a placebo-corrected heart rate increase of up to 9 to 10 beats per minute (bpm) at 8 to 12 h post-dose for the 2.75 mg/kg dose and 15 to 18 bpm at 6 to 12 h post-dose for the dose of 5 mg/kg.
 
 ## Clinical efficacy and safety
 
@@ -436,42 +452,69 @@ Efficacy and safety of roxadustat were evaluated for at least 52 weeks in a glob
 
 Three studies in stage 3-5 CKD NDD patients were double-blind and placebo-controlled studies (ALPS, 1517-CL-0608; ANDES, FGCL-4592-060; OLYMPUS, D5740C00001) and one study was open-label ESA-controlled (DOLOMITES, 1517-CL-0610) using darbepoetin alfa as comparator. All NDD studies assessed efficacy and safety in ESA-untreated patients by correcting and thereafter maintaining Hb in the target range of 10 to 12 g/dL (Hb correction setting).
 
+<div style=\"page-break-after: always\"></div>
+
 Four open-label ESA-controlled DD studies (control: epoetin alfa and/or darbepoetin alfa) in patients on haemodialysis or peritoneal dialysis assessed the efficacy and safety in different settings:
 
 - in a Hb correction setting (HIMALAYAS, FGCL-4592-063).
 - in an ESA conversion setting converting patients from treatment with an ESA to maintain Hb in the target range (PYRENEES, 1517-CL-0613; SIERRAS, FGCL-4592-064).
 - or combining the Hb correction and ESA conversion approaches (ROCKIES, D5740C00002).
 
-Patients in the NDD studies had CKD stage 3 to 5 and were not receiving dialysis. All patients had an average Hb ≤10.0 g/dL except patients in the DOLOMITES study (1517-CL-0610), which allowed an average Hb ≤10.5 g/dL. Ferritin levels were required to be ≥30 ng/mL (ALPS, 1517-CL-0608; ANDES, FGCL-4592-060), ≥50 ng/mL (OLYMPUS, D5740C00001) or ≥100 ng/mL (DOLOMITES, 1517-CL-0610). Except for those in the (OLYMPUS, D5740C00001) study, which allowed ESA treatment until 6 weeks prior to randomization, patients could not have received any ESA treatment within 12 weeks of randomization.
+Patients in the NDD studies had CKD stage 3 to 5 and were not receiving dialysis. All patients had an average Hb ≤ 10.0 g/dL except patients in the DOLOMITES study (1517-CL-0610), which allowed an average Hb ≤ 10.5 g/dL. Ferritin levels were required to be ≥ 30 ng/mL (ALPS, 1517-CL-0608; ANDES, FGCL-4592-060), ≥ 50 ng/mL (OLYMPUS, D5740C00001) or ≥ 100 ng/mL (DOLOMITES, 1517-CL-0610). Except for those in the (OLYMPUS, D5740C00001) study, which allowed ESA treatment until 6 weeks prior to randomization, patients could not have received any ESA treatment within 12 weeks of randomization.
 
-Patients in the DD studies had to be on dialysis: stable DD for patients in the PYRENEES study (1517-CL-0613), which was defined as dialysis for longer than 4 months; or incident (ID), DD for patients in the HIMALAYAS study (FGCL-4592-063), which was defined as dialysis ≥2 weeks but ≤4 months. Patients in the SIERRAS (FGCL-4592-064) and ROCKIES studies (D5740C00002) included both stable (approximately 80% to 90%) and ID (approximately 10% to 20%) DD patients. Ferritin was required to be ≥100 ng/mL in all patients. All patients required intravenous or subcutaneous ESA for at least 8 weeks prior to randomization, except those patients in the HIMALAYAS study (FGCL-4592-063) which excluded patients who had received any ESA treatment within 12 weeks prior to randomization.
+Patients in the DD studies had to be on dialysis: stable DD for patients in the PYRENEES study (1517-CL-0613), which was defined as dialysis for longer than 4 months; or incident (ID), DD for patients in the HIMALAYAS study (FGCL-4592-063), which was defined as dialysis ≥ 2 weeks but ≤ 4 months. Patients in the SIERRAS (FGCL-4592-064) and ROCKIES studies (D5740C00002) included both stable (approximately 80% to 90%) and ID (approximately 10% to 20%) DD patients. Ferritin was required to be ≥ 100 ng/mL in all patients. All patients required intravenous or subcutaneous ESA for at least 8 weeks prior to randomization, except those patients in the HIMALAYAS study (FGCL-4592-063) which excluded patients who had received any ESA treatment within 12 weeks prior to randomization.
 
-Treatment with roxadustat followed the principles of dosing instructions as described in section 4.2. Demographics and all baseline characteristics across individual studies were comparable between the roxadustat and control groups. The median age at randomization was 55 to 69 years, with between 16.6% and 31.1% in the 65-74 age range, and between 6.8% and 35% who were ≥75 years of age. The percentage of female patients ranged from 40.5% to 60.7%. The most commonly represented races across the studies were White, Black or African American and Asian. The most common CKD aetiologies were diabetic and hypertensive nephropathy. Median Hb levels ranged from 8.60 to 10.78 g/dL. Approximately 50-60% of NDD patients and 80-90% of DD patients were iron replete at baseline.
+Treatment with roxadustat followed the principles of dosing instructions as described in section 4.2. Demographics and all baseline characteristics across individual studies were comparable between the roxadustat and control groups. The median age at randomization was 55 to 69 years, with between 16.6% and 31.1% in the 65-74 age range, and between 6.8% and 35% who were ≥ 75 years of age. The percentage of female patients ranged from 40.5% to 60.7%. The most commonly represented races across the studies were White, Black or African American and Asian. The most common CKD aetiologies were diabetic and hypertensive nephropathy. Median Hb levels ranged from 8.60 to 10.78 g/dL. Approximately 50-60% of NDD patients and 80-90% of DD patients were iron replete at baseline.
 
 Data from seven phase 3 studies were pooled in two separate populations (three NDD and four DD) (see Table 4).
 
 Three placebo-controlled NDD Studies (2,386 patients on roxadustat; 1,884 patients on placebo) were included in the NDD pool. Data from the phase 3 ESA-controlled NDD DOLOMITES study (1517-CL-0610; 323 patients on roxadustat and 293 patients on darbepoetin alfa) are not included in the NDD pooled analyses as this study is the only open-label, active-controlled study in the NDD population.
-
-<div style=\"page-break-after: always\"></div>
 
 Four ESA-controlled DD Studies (2,354 patients on roxadustat; 2,360 patients on ESA [epoetin alfa and/or darbepoetin alfa]) were included in the DD pool. Within the DD pool, two sub pools were established to reflect the two different treatment settings:
 
 - Patients in the DD population who were on dialysis for greater than 2 weeks and less than 4 months were termed incident (ID) DD patients (ID DD pool) reflective of the Hb correction setting.
 - The DD patients who were on dialysis after this threshold of four months were termed stable DD patients (Stable DD pool) reflective of the ESA conversion setting.
 
+<div style=\"page-break-after: always\"></div>
+
+Mean Hemoglobin (g/dL) +/- SE
+
+13
+
+12
+
+10
+
+9
+
+8
+
+Roxadustat
+
+Placebo
+
+Treatment
+
+-#- Placebo
+
+· Roxadustat
+
 Table 4. Overview on Roxadustat phase 3 development program in anaemia with CKD
 
-| Studies in NDD patients               | Studies in NDD patients                                             | Studies in NDD patients                                             | Studies in NDD patients                                             | Studies in NDD patients                                             |
-|---------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
-|                                       | Placebo-controlled studies (NDD pool)                               | Placebo-controlled studies (NDD pool)                               | Placebo-controlled studies (NDD pool)                               | ESA-control (Darbepoetin alfa)                                      |
-| Setting                               | Hb correction                                                       | Hb correction                                                       | Hb correction                                                       | Hb correction                                                       |
-| Study                                 | ALPS (1517-CL-0608)                                                 | ANDES (FGCL-4592-060)                                               | OLYMPUS (D5740C00001)                                               | DOLOMITES (1517-CL-0610)                                            |
-| Randomize d (roxadustat/ comparator ) | 594 (391/203)                                                       | 916 (611/305)                                                       | 2760 (1384/1376)                                                    | 616 (323/293)                                                       |
-| Studies in DD patients                | Studies in DD patients                                              | Studies in DD patients                                              | Studies in DD patients                                              | Studies in DD patients                                              |
-|                                       | ESA-controlled studies (DD pool) (Epoetin alfa or Darbepoetin alfa) | ESA-controlled studies (DD pool) (Epoetin alfa or Darbepoetin alfa) | ESA-controlled studies (DD pool) (Epoetin alfa or Darbepoetin alfa) | ESA-controlled studies (DD pool) (Epoetin alfa or Darbepoetin alfa) |
-| Setting                               | ESA conversion                                                      | ESA conversion                                                      | Hb correction                                                       | ESA conversion and Hb correction                                    |
-| Study                                 | PYRENEES (1517-CL-0613)                                             | SIERRAS (FGCL-4592-064)                                             | HIMALAYAS (FGCL-4592-063)                                           | ROCKIES (D5740C00002)                                               |
-| Randomize d (roxadustat/ comparator ) | 834 (414/420)                                                       | 740 (370/370)                                                       | 1039 (522/517)                                                      | 2101 (1048/1053)                                                    |
+0
+
+| Studies in NDD patients             | Studies in NDD patients                                             | Studies in NDD patients                                             | Studies in NDD patients                                             | Studies in NDD patients                                             | Studies in NDD patients                                             |
+|-------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
+|                                     | Placebo-controlled studies (NDD pool)                               | Placebo-controlled studies (NDD pool)                               | Placebo-controlled studies (NDD pool)                               | ESA-control (Darbepoetin alfa)                                      | ESA-control (Darbepoetin alfa)                                      |
+| Setting                             | Hb correction                                                       | Hb correction                                                       | Hb correction                                                       | Hb correction                                                       | Hb correction                                                       |
+| Study                               | ALPS (1517-CL-0608)                                                 | ANDES (FGCL-4592-060)                                               | OLYMPUS (D5740C00001)                                               | DOLOMITES (1517-CL-0610)                                            | DOLOMITES (1517-CL-0610)                                            |
+| Randomized (roxadustat/ comparator) | 594 (391/203)                                                       | 916 (611/305)                                                       | 2760 (1384/1376)                                                    | 616 (323/293)                                                       | 616 (323/293)                                                       |
+| Studies in DD patients              | Studies in DD patients                                              | Studies in DD patients                                              | Studies in DD patients                                              | Studies in DD patients                                              | Studies in DD patients                                              |
+|                                     | ESA-controlled studies (DD pool) (Epoetin alfa or Darbepoetin alfa) | ESA-controlled studies (DD pool) (Epoetin alfa or Darbepoetin alfa) | ESA-controlled studies (DD pool) (Epoetin alfa or Darbepoetin alfa) | ESA-controlled studies (DD pool) (Epoetin alfa or Darbepoetin alfa) | ESA-controlled studies (DD pool) (Epoetin alfa or Darbepoetin alfa) |
+| Setting                             | ESA conversion                                                      | ESA conversion                                                      | Hb correction                                                       | ESA conversion and Hb correction                                    | ESA conversion and Hb correction                                    |
+| Study                               | PYRENEES (1517-CL-0613)                                             | SIERRAS (FGCL-4592-064)                                             | HIMALAYAS (FGCL-4592-063)                                           | ROCKIES (D5740C00002)                                               | ROCKIES (D5740C00002)                                               |
+| Randomized (roxadustat/             | 834 (414/420)                                                       | 740 (370/370)                                                       | 1039 (522/517)                                                      | 2101 (1048/1053)                                                    | 2101 (1048/1053)                                                    |
+| comparator)                         |                                                                     |                                                                     |                                                                     |                                                                     |                                                                     |
 
 DD: dialysis dependent; ESA: erythropoiesis-stimulating agent; Hb: haemoglobin; NDD: non-dialysis dependent .
 
@@ -479,17 +522,21 @@ NDD CKD patients Efficacy results Course of Hb during treatment
 
 In clinical studies, roxadustat was effective in achieving and maintaining target Hb levels (10-12 g/dL) in patients with CKD anaemia not on dialysis (see Figure 1).
 
-<div style=\"page-break-after: always\"></div>
-
 Figure 1. Mean (SE) Hb (g/dL) over time up to week 52 (FAS); NDD pool (Hb correction)
 
 <!-- image -->
 
 FAS: full analysis set; Hb: haemoglobin; NDD: non-dialysis dependent; SE: standard error.
 
-## Key Hb efficacy endpoints in NDD CKD patients
+Key Hb efficacy endpoints in NDD CKD patients
 
-In NDD patients in need of anaemia treatment for Hb correction, the proportion of patients who achieved Hb response during the first 24 weeks was higher in the roxadustat group (80.2%) compared with placebo (8.7%). There was a statistically significant increase in Hb from baseline to weeks 28 to 36 in the roxadustat group (1.91 g/dL) compared with placebo (0.14 g/dL) and the lower limit of the 95% confidence interval is above 1. In the NDD studies, an increase in Hb of at least 1 g/dL was achieved with a median time of 4.1 weeks (see Table 5).
+In NDD patients in need of anaemia treatment for Hb correction, the proportion of patients who achieved Hb response during the first 24 weeks was higher in the roxadustat group (80.2%) compared with placebo (8.7%). There was a statistically significant increase in Hb from baseline to weeks 28 to
+
+&lt; 9.
+
+<div style=\"page-break-after: always\"></div>
+
+36 in the roxadustat group (1.91 g/dL) compared with placebo (0.14 g/dL) and the lower limit of the 95% confidence interval is above 1. In the NDD studies, an increase in Hb of at least 1 g/dL was achieved with a median time of 4.1 weeks (see Table 5).
 
 In the open-label ESA-controlled NDD DOLOMITES (1517-CL-0610) study, the proportion of patients who achieved Hb response during the first 24 weeks was non-inferior in the roxadustat group (89.5%) compared with darbepoetin alfa (78%) (see Table 5).
 
@@ -512,21 +559,49 @@ Table 5. Key Hb efficacy endpoints (NDD)
 | LS mean difference [95% CI]                       | 1.77 [1.69, 1.84]                                 | 1.77 [1.69, 1.84]                                 | 0.02 [-0.13, 0.16]                                | 0.02 [-0.13, 0.16]                                |
 | P value                                           | < 0.0001                                          | < 0.0001                                          | 0.844                                             | 0.844                                             |
 
-<div style=\"page-break-after: always\"></div>
-
 CFB: change from baseline; CI: confidence interval; CKD: chronic kidney disease; FAS: full analysis set; Hb: haemoglobin; LS: Least squares; ND: not done; NDD: non-dialysis dependent; PPS: per protocol set; SD: standard deviation.
 
 1 Hb response within the first 24 weeks.
 
 2 Change from baseline in Hb to Weeks 28 to 36.
 
-DD CKD patients
+## DD CKD patients
 
 Course of Hb during treatment
 
 In clinical studies, roxadustat was effective in achieving and maintaining target Hb levels (10-12 g/dL) in CKD patients on dialysis, irrespective of prior ESA treatment (see Figures 2 and 3).
 
+<div style=\"page-break-after: always\"></div>
+
+Mean Hemoglobin (g/dL) +/- SE
+
+13
+
+12
+
+11
+
+10
+
+9
+
+8
+
+Roxadustat
+
+Active Control 1589 1533 1533 1533 1500 1505 1490 1487 1489 1466 1457
+
+Treatment
+
+Roxadustat
+
+-*-
+
+Active Control
+
 Figure 2. Mean (SE) Hb up to week 52 (FAS); ID DD subpool (Hb correction)
+
+0
 
 <!-- image -->
 
@@ -536,36 +611,34 @@ Figure 3. Mean (SE) Hb (g/dL) over time up to week 52 (FAS); stable DD subpool (
 
 <!-- image -->
 
-DD: dialysis dependent; ESA: erythropoiesis - stimulating agent; FAS: full analysis set; Hb: haemoglobin; SE: standard error.
-
-<div style=\"page-break-after: always\"></div>
+DD: dialysis dependent; ESA: erythropoiesis -stimulating agent; FAS: full analysis set; Hb: haemoglobin; SE: standard error.
 
 ## Key Hb efficacy endpoints in DD CKD patients
 
 In DD patients in need of anaemia treatment for Hb correction and those converted from ESA treatment, there was an increase in Hb from baseline to weeks 28 to 36 in the roxadustat group; this increase was comparable to that observed in the ESA group and was above the prespecified noninferiority margin of -0.75 g/dL. The proportion of patients who achieved Hb response during the first 24 weeks was similar in the roxadustat and ESA groups (see Table 6).
 
+<div style=\"page-break-after: always\"></div>
+
 Table 6. Key Hb efficacy endpoints (DD)
 
-| Population                                      | DD Patients             | DD Patients             | DD Patients             | DD Patients             |
-|-------------------------------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
-| Setting                                         | Hb Correction           | Hb Correction           | ESA Conversion          | ESA Conversion          |
-|                                                 | ID DD pool (FAS/PPS)    | ID DD pool (FAS/PPS)    | Stable DD Pool (PPS)    | Stable DD Pool (PPS)    |
-| Endpoint/ Parameter                             | Roxadustat n = 756      | ESA n = 759             | Roxadustat n = 1379     | ESA n = 1417            |
-| Change from baseline in Hb (g/dL)               |                         |                         |                         |                         |
-| Mean (SD) baseline                              | 8.77 (1.20)             | 8.82 (1.20)             | 10.32 (0.99)            | 10.37 (0.99)            |
-| Mean (SD) CFB                                   | 2.37 (1.57)             | 2.12 (1.46)             | 0.65 (1.15)             | 0.36 (1.23)             |
-| LS mean                                         | 2.17                    | 1.89                    | 0.58                    | 0.28                    |
-| LS mean difference [95% CI]                     | 0.28 [0.110, 0.451]     | 0.28 [0.110, 0.451]     | 0.30 [0.228, 0.373]     | 0.30 [0.228, 0.373]     |
-| P value                                         | 0.0013                  | 0.0013                  | < 0.0001                | < 0.0001                |
-| Proportion of patients who achieved Hb response | 1,2                     |                         |                         |                         |
-| Responders, n (%) [95% CI]                      | 453 (59.9) [56.3, 63.4] | 452 (59.6) [56.0, 63.1] | 978 (70.9) [68.4, 73.3] | 959 (67.7) [65.2, 70.1] |
-| Difference of proportions [95% CI]              | 0.3 [-4.5, 5.1]         | 0.3 [-4.5, 5.1]         | 2.7 [-0.7, 6.0]         | 2.7 [-0.7, 6.0]         |
-| Odds ratio [95% CI]                             | ND                      | ND                      | ND                      | ND                      |
-| P value                                         | ND                      | ND                      | ND                      | ND                      |
+| Population                                          | DD Patients             | DD Patients             | DD Patients             | DD Patients             |
+|-----------------------------------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
+| Setting                                             | Hb Correction           | Hb Correction           | ESA Conversion          | ESA Conversion          |
+|                                                     | ID DD pool (FAS/PPS)    | ID DD pool (FAS/PPS)    | Stable DD Pool (PPS)    | Stable DD Pool (PPS)    |
+| Endpoint /Parameter                                 | Roxadustat n = 756      | ESA n = 759             | Roxadustat n = 1379     | ESA n = 1417            |
+| Change from baseline in Hb (g/dL)                   |                         |                         |                         |                         |
+| Mean (SD) baseline                                  | 8.77 (1.20)             | 8.82 (1.20)             | 10.32 (0.99)            | 10.37 (0.99)            |
+| Mean (SD) CFB                                       | 2.37 (1.57)             | 2.12 (1.46)             | 0.65 (1.15)             | 0.36 (1.23)             |
+| LS mean                                             | 2.17                    | 1.89                    | 0.58                    | 0.28                    |
+| LS mean difference [95% CI]                         | 0.28 [0.110, 0.451]     | 0.28 [0.110, 0.451]     | 0.30 [0.228, 0.373]     | 0.30 [0.228, 0.373]     |
+| P value                                             | 0.0013                  | 0.0013                  | < 0.0001                | < 0.0001                |
+| Proportion of patients who achieved Hb response 1,2 |                         |                         |                         |                         |
+| Responders, n (%) [95% CI]                          | 453 (59.9) [56.3, 63.4] | 452 (59.6) [56.0, 63.1] | 978 (70.9) [68.4, 73.3] | 959 (67.7) [65.2, 70.1] |
+| Difference of proportions [95% CI]                  | 0.3 [-4.5, 5.1]         | 0.3 [-4.5, 5.1]         | 2.7 [-0.7, 6.0]         | 2.7 [-0.7, 6.0]         |
+| Odds ratio [95% CI]                                 | ND                      | ND                      | ND                      | ND                      |
+| P value                                             | ND                      | ND                      | ND                      | ND                      |
 
-CFB: change from baseline; CI: confidence interval; CKD: chronic kidney disease; DD: dialysis dependent; ESA: erythropoiesis-stimulating agent; FAS: full analysis set; Hb: haemoglobin; ID: incident; LS: Least squares; ND: not done; PPS: per protocol set; SD: standard deviation. 1 Hb within the target range of 10.0 to 12.0 g/dL during weeks 28 to 36 without having received rescue therapy within 6 weeks prior to and during this 8-week evaluation period. 2
-
-Data in the ID DD pool were only analysed for weeks 28 to 52.
+CFB: change from baseline; CI: confidence interval; CKD: chronic kidney disease; DD: dialysis dependent; ESA: erythropoiesis-stimulating agent; FAS: full analysis set; Hb: haemoglobin; ID: incident; LS: Least squares; ND: not done; PPS: per protocol set; SD: standard deviation. 1 Hb within the target range of 10.0 to 12.0 g/dL during weeks 28 to 36 without having received rescue therapy within 6 weeks prior to and during this 8-week evaluation period. 2 Data in the ID DD pool were only analysed for weeks 28 to 52.
 
 ## Rescue therapy, RBC transfusion and intravenous iron
 
@@ -575,26 +648,31 @@ The effects of treatment with roxadustat on use of rescue therapy, RBC transfusi
 
 The effects of treatment with roxadustat on LDL cholesterol are presented in Tables 7 and 8. There was a reduction in mean LDL and high density lipoprotein (HDL) cholesterol levels in roxadustat-treated patients compared with placebo or ESA-treated patients. The effect on LDL cholesterol was more pronounced, leading to a reduction of the LDL/HDL ratio and was observed regardless of the use of statins.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 7. Other efficacy endpoints: use of rescue therapy, monthly intravenous iron use and change from baseline in LDL cholesterol (NDD)
+
+| Population                                      | NDD CKD patients    |                  |                    |                          |
+|-------------------------------------------------|---------------------|------------------|--------------------|--------------------------|
+| Intervention                                    | Correction          |                  | Correction         |                          |
+| Endpoint/Parameter                              | Roxadustat n = 2368 | Placebo n = 1865 | Roxadustat n = 322 | Darbepoetin alfa n = 292 |
+| Number of patients with rescue therapy, n (%) 1 | 211 (8.9)           | 580 (31.1)       |                    |                          |
+| RBC                                             | 118 (5.0)           | 240 (12.9)       |                    | ND                       |
+| IV iron                                         | 50 (2.1)            | 90 (4.8)         |                    |                          |
+| ESA                                             | 48 (2.0)            | 257 (13.8)       |                    |                          |
+| IR                                              | 10.4                | 41.0             |                    |                          |
+| Hazard ratio                                    | 0.19                |                  |                    | ND                       |
+| 95% CI                                          | 0.16, 0.23          |                  |                    |                          |
+| P value                                         | < 0.0001            |                  |                    |                          |
+
+<div style=\"page-break-after: always\"></div>
 
 | Population                                                           | NDD CKD patients                                                     | NDD CKD patients                                                     | NDD CKD patients                                                     | NDD CKD patients                                                     |
 |----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
 | Intervention                                                         | Correction                                                           | Correction                                                           | Correction                                                           | Correction                                                           |
 |                                                                      | NDD pool (FAS)                                                       | NDD pool (FAS)                                                       | DOLOMITES (1517-CL-0610)                                             | DOLOMITES (1517-CL-0610)                                             |
-| Endpoint/ Parameter                                                  | Roxadustat n = 2368                                                  | Placebo n = 1865                                                     | Roxadustat n = 322                                                   | Darbepoetin alfa n = 292                                             |
-| Number of patients with rescue therapy, n (%) 1                      | 211 (8.9)                                                            | 580 (31.1)                                                           |                                                                      |                                                                      |
-| RBC                                                                  | 118 (5.0)                                                            | 240 (12.9)                                                           |                                                                      |                                                                      |
-| IV iron                                                              | 50 (2.1)                                                             | 90 (4.8)                                                             |                                                                      |                                                                      |
-| ESA                                                                  | 48 (2.0)                                                             | 257 (13.8)                                                           |                                                                      | ND                                                                   |
-| IR                                                                   | 10.4                                                                 | 41.0                                                                 |                                                                      |                                                                      |
-| Hazard ratio                                                         | 0.19                                                                 | 0.19                                                                 |                                                                      |                                                                      |
-| 95% CI                                                               | 0.16, 0.23                                                           | 0.16, 0.23                                                           | ND                                                                   | ND                                                                   |
-| P value                                                              | < 0.0001                                                             | < 0.0001                                                             |                                                                      |                                                                      |
-| Number of Patients with IV Iron, n (%) 2                             |                                                                      |                                                                      | 20 (6.2)                                                             | 37 (12.7)                                                            |
-| IR                                                                   | ND                                                                   | ND                                                                   | 9.9                                                                  | 21.2                                                                 |
-| Hazard ratio                                                         |                                                                      |                                                                      | 0.45                                                                 | 0.45                                                                 |
+| Endpoint/Parameter                                                   | Roxadustat n = 2368                                                  | Placebo n = 1865                                                     | Roxadustat n = 322                                                   | Darbepoetin alfa n = 292                                             |
+| Number of patients with IV iron, n (%) 2                             |                                                                      |                                                                      | 20 (6.2)                                                             | 37 (12.7)                                                            |
+| IR                                                                   |                                                                      |                                                                      | 9.9                                                                  | 21.2                                                                 |
+| Hazard ratio                                                         | ND                                                                   | ND                                                                   | 0.45                                                                 | 0.45                                                                 |
 | 95% CI                                                               |                                                                      |                                                                      | 0.26, 0.78                                                           | 0.26, 0.78                                                           |
 | P value                                                              |                                                                      |                                                                      | 0.004                                                                | 0.004                                                                |
 | Change from baseline in LDL cholesterol (mmol/L) to weeks 12 to 28 3 | Change from baseline in LDL cholesterol (mmol/L) to weeks 12 to 28 3 | Change from baseline in LDL cholesterol (mmol/L) to weeks 12 to 28 3 | Change from baseline in LDL cholesterol (mmol/L) to weeks 12 to 28 3 | Change from baseline in LDL cholesterol (mmol/L) to weeks 12 to 28 3 |
@@ -633,7 +711,7 @@ Table 8. Other efficacy endpoints: use of rescue therapy, monthly intravenous ir
 | 95% CI                                                             | -0.700, -0.520                                                     | -0.245, -0.069                                                     | -0.449, -0.368                                                     | -0.074, 0.003                                                      |
 | LS mean difference (R-comparator)                                  | -0.453                                                             | -0.453                                                             | -0.373                                                             | -0.373                                                             |
 | 95% CI                                                             | -0.575, -0.331                                                     | -0.575, -0.331                                                     | -0.418, -0.328                                                     | -0.418, -0.328                                                     |
-| P value                                                            | < 0.0001                                                           | < 0.0001                                                           | < 0.0001                                                           | < 0.0001                                                           |
+| P value                                                            | < 0.0001                                                           | < 0.0001                                                           | < 0 0001                                                           | < 0 0001                                                           |
 
 P values presented for the ID DD and stable DD pools are nominal p values.
 
@@ -695,7 +773,7 @@ Table 10. CV safety and mortality in ESA-controlled Hb correction pool
 |                                    | MACE                | MACE              | MACE+               | MACE+             | ACM                 | ACM               |
 |------------------------------------|---------------------|-------------------|---------------------|-------------------|---------------------|-------------------|
 |                                    | Roxadustat n = 1083 | ESA n = 1059      | Roxadustat n = 1083 | ESA n = 1059      | Roxadustat n = 1083 | ESA n = 1059      |
-| On-treatment                       | On-treatment        | On-treatment      | On-treatment        | On-treatment      | On-treatment        | On-treatment      |
+| On-treatment                       |                     |                   |                     |                   |                     |                   |
 | Number of patients with events (%) | 105 (9.7)           | 136 (12.8)        | 134 (12.4)          | 171 (16.1)        | 74 (6.8)            | 99 (9.3)          |
 | IR                                 | 6.5                 | 8.2               | 8.3                 | 10.3              | 4.6                 | 6.0               |
 | HR (95% CI)                        | 0.79 (0.61, 1.02)   | 0.79 (0.61, 1.02) | 0.78 (0.62, 0.98)   | 0.78 (0.62, 0.98) | 0.78 (0.57, 1.05)   | 0.78 (0.57, 1.05) |
@@ -742,11 +820,11 @@ The mean effective half-life (t1/2) of roxadustat is approximately 15 hours in p
 
 When radiolabelled roxadustat was administered orally in healthy subjects, the mean recovery of radioactivity was 96% (50% in faeces, 46% in urine). In faeces, 28% of the dose was excreted as unchanged roxadustat. Less than 2% of the dose was recovered in urine as unchanged roxadustat.
 
-## Special Populations
+## Special populations
 
 ## Effects of age, sex, body weight, and race
 
-No clinically relevant differences in the pharmacokinetics of roxadustat were observed based on age (≥18), sex, race, body weight, renal function (eGFR) or dialysis status in adult patients with anaemia due to CKD.
+No clinically relevant differences in the pharmacokinetics of roxadustat were observed based on age (≥ 18), sex, race, body weight, renal function (eGFR) or dialysis status in adult patients with anaemia due to CKD.
 
 ## Haemodialysis
 
@@ -758,19 +836,17 @@ Following a single dose of 100 mg roxadustat, mean roxadustat AUC was 23% higher
 
 The pharmacokinetics of roxadustat in subjects with severe hepatic impairment (Child-Pugh Class C) have not been studied.
 
-## Drug-Drug Interactions
+## Drug-drug interactions
 
 Based on in vitro data, roxadustat is an inhibitor of CYP2C8, BCRP, OATP1B1 and OAT3 (see section 4.5). The pharmacokinetics of rosiglitazone (moderate sensitive CYP2C8 substrate) were not affected by co-administration of roxadustat. Roxadustat may be an inhibitor of intestinal but not hepatic UGT1A1 and showed no inhibition of other CYP metabolising enzymes or transporters, or induction of CYP enzymes at clinically relevant concentrations. There is no clinically significant effect of oral adsorptive charcoal or omeprazole on roxadustat pharmacokinetics. Clopidogrel has no effect on roxadustat exposure in patients with CKD.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
 ## Repeat-dose toxicity studies
 
-In the 26-week intermittent repeat dose study in Sprague-Dawley or Fisher rats, roxadustat at approximately 4 to 6-fold the total AUC at Maximum Recommended Human Dose (MRHD) resulted in histopathological findings including aortic and atrioventricular valves (A-V) valvulopathies. These
-
-<div style=\"page-break-after: always\"></div>
-
-findings were present in surviving animals at the time of termination as well as in animals terminated early in a moribund state. Furthermore, the findings were not fully reversible as they were also present in animals at the end of a 30-day recovery period.
+In the 26-week intermittent repeat dose study in Sprague-Dawley or Fisher rats, roxadustat at approximately 4 to 6-fold the total AUC at Maximum Recommended Human Dose (MRHD) resulted in histopathological findings including aortic and atrioventricular valves (A-V) valvulopathies. These findings were present in surviving animals at the time of termination as well as in animals terminated early in a moribund state. Furthermore, the findings were not fully reversible as they were also present in animals at the end of a 30-day recovery period.
 
 Exaggerated pharmacology resulting in excessive erythropoiesis has been observed in repeated-dose toxicity studies in healthy animals.
 
@@ -788,17 +864,17 @@ Roxadustat was negative in the in vitro Ames mutagenicity test, in vitro chromos
 
 In the mouse and rat carcinogenicity studies, animals were administered roxadustat with the clinical dosing regimen of three times per week. Due to the rapid clearance of roxadustat in rodents, systemic exposures were not continuous throughout the dosing period. As such, possible off-target carcinogenic effects may be underestimated.
 
-In the 2-year mouse carcinogenicity study, significant increases in the incidence of lung bronchoalveolar carcinoma was noted in the low and high dose groups (systemic exposures approximately 1-fold and approximately 3-fold the total AUC at MRHD). A significant increase in subcutis fibrosarcoma was seen in females at the high dose group (systemic exposures approximately 3-fold total AUC at MRHD).
+In the 2-year mouse carcinogenicity study, significant increases in the incidence of lung bronchoalveolar carcinoma were noted in the low and high dose groups (systemic exposures approximately 1-fold and approximately 3-fold the total AUC at MRHD). A significant increase in subcutis fibrosarcoma was seen in females at the high dose group (systemic exposures approximately 3-fold total AUC at MRHD).
 
 In the 2-year rat carcinogenicity study, a significant increase in the incidence of mammary gland adenoma was noted at the middle dose level (systemic exposure less than 1-fold the total AUC at MRHD). However, the finding was not dose related and the incidence of this tumour type was lower at the highest dose level tested (systemic exposure approximately 2-fold the total AUC at MRHD) and was therefore not considered test article related.
 
 Similar findings from the mouse and rat carcinogenicity studies were not observed in the clinical studies.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reproductive and developmental toxicity
 
 Roxadustat had no effect on mating or fertility in treated male or female rats at approximately 4-fold the human exposure at the MRHD. However, at the NOAEL in male rats, there were decreases in weights of the epididymis and the seminal vesicles (with fluid) without effects on male fertility. The NOEL for any male reproductive organ related findings was 1.6-fold MRHD. In female rats there were increases in the number of non-viable embryos and post-implantation losses at this dose level compared to control animals.
-
-<div style=\"page-break-after: always\"></div>
 
 Results from the reproductive and developmental toxicity studies in rats and rabbits demonstrated reduction of average foetal or pup body weight, average placental weight increase, abortion and pup mortalities.
 
@@ -816,17 +892,19 @@ The cross-fostering study in which pups from unexposed rats were cross fostered 
 
 A cardiovascular safety pharmacology study showed heart rate increases following a single administration of 100 mg/kg roxadustat to monkeys. There was no effect on hERG or ECG. Additional safety pharmacology studies in rats have shown that roxadustat reduced total peripheral resistance followed by a reflex increase in heart rate from approximately six times the exposure at the MRHD.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Tablet core Lactose monohydrate Cellulose, microcrystalline (E460 (i)) Croscarmellose sodium (E468) Povidone (E1201) Magnesium stearate (E470b)
+## Tablet core
 
-Film-coating Poly(vinyl alcohol) (E1203) Talc (E553b)
+Lactose monohydrate Cellulose, microcrystalline (E460 (i)) Croscarmellose sodium (E468) Povidone (E1201) Magnesium stearate (E470b)
 
-<div style=\"page-break-after: always\"></div>
+## Film-coating
 
-Macrogol (E1521) Allura Red AC aluminium lake (E129) Titanium dioxide (E171) Lecithin (soya) (E322)
+Poly (vinyl alcohol) (E1203) Talc (E553b) Macrogol (E1521) Allura Red AC aluminium lake (E129) Titanium dioxide (E171) Lecithin (soya) (E322)
 
 ## 6.2 Incompatibilities
 
@@ -844,7 +922,11 @@ This medicinal product does not require any special storage conditions.
 
 PVC/aluminium perforated unit dose blisters in cartons.
 
-Pack sizes: 12 x 1 and 36 x 1 film-coated tablets.
+Pack sizes
+
+12 x 1 film-coated tablets
+
+36 x 1 film-coated tablets
 
 Not all pack sizes may be marketed.
 
@@ -860,6 +942,8 @@ Astellas Pharma Europe B.V. Sylviusweg 62 2333 BE Leiden
 
 The Netherlands
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 12 x 1 film-coated tablets
@@ -874,7 +958,7 @@ EU/1/21/1574/006 - 010
 
 Date of first authorisation: 18 August 2021
 
-<div style=\"page-break-after: always\"></div>
+Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -884,16 +968,16 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
 Delpharm Meppel B.V. Hogemaat 2 7942 JG Meppel The Netherlands
 
@@ -906,8 +990,6 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -942,11 +1024,11 @@ Evrenzo 20 mg film-coated tablets roxadustat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each tablet contains 20 mg roxadustat.
+Each film-coated tablet contains 20 mg roxadustat.
 
 ## 3. LIST OF EXCIPIENTS
 
-Contains lactose, traces of soya lecithin and Allura Red AC aluminium lake (E129).
+Contains lactose, traces of soya lecithin and Allura Red AC aluminium lake (E129). See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -956,11 +1038,7 @@ Contains lactose, traces of soya lecithin and Allura Red AC aluminium lake (E129
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Do not chew, break or crush the tablets.
-
-Read the package leaflet before use.
-
-Oral use
+Do not chew, break or crush the tablets. Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -970,7 +1048,7 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-EXP:
+EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -994,7 +1072,7 @@ EU/1/21/1574/006    36 film-coated tablets
 
 ## 13. BATCH NUMBER
 
-Lot:
+Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
@@ -1010,13 +1088,13 @@ evrenzo 20 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC:
+PC
 
-SN:
-
-NN:
+SN
 
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1047,8 +1125,6 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-32
-
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -1061,11 +1137,11 @@ Evrenzo 50 mg film-coated tablets roxadustat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each tablet contains 50 mg roxadustat.
+Each film-coated tablet contains 50 mg roxadustat.
 
 ## 3. LIST OF EXCIPIENTS
 
-Contains lactose, traces of soya lecithin and Allura Red AC aluminium lake (E129).
+Contains lactose, traces of soya lecithin and Allura Red AC aluminium lake (E129). See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1075,11 +1151,7 @@ Contains lactose, traces of soya lecithin and Allura Red AC aluminium lake (E129
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Do not chew, break or crush the tablets.
-
-Read the package leaflet before use.
-
-Oral use
+Do not chew, break or crush the tablets. Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1089,7 +1161,7 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-EXP:
+EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1113,7 +1185,7 @@ EU/1/21/1574/007    36 film-coated tablets
 
 ## 13. BATCH NUMBER
 
-Lot:
+Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
@@ -1129,13 +1201,13 @@ evrenzo 50 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC:
+PC
 
-SN:
-
-NN:
+SN
 
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1178,11 +1250,11 @@ Evrenzo 70 mg film-coated tablets roxadustat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each tablet contains 70 mg roxadustat.
+Each film-coated tablet contains 70 mg roxadustat.
 
 ## 3. LIST OF EXCIPIENTS
 
-Contains lactose, traces of soya lecithin and Allura Red AC aluminium lake (E129).
+Contains lactose, traces of soya lecithin and Allura Red AC aluminium lake (E129). See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1192,11 +1264,7 @@ Contains lactose, traces of soya lecithin and Allura Red AC aluminium lake (E129
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Do not chew, break or crush the tablets.
-
-Read the package leaflet before use.
-
-Oral use
+Do not chew, break or crush the tablets. Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1206,7 +1274,7 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-EXP:
+EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1228,29 +1296,29 @@ EU/1/21/1574/003    12 film-coated tablets
 
 EU/1/21/1574/008    36 film-coated tablets
 
-## 13. BATCH NUMBER
+13. BATCH NUMBER
 
-Lot:
+Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 evrenzo 70 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included.
+- 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC:
+PC
 
-SN:
+SN
 
-NN:
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1295,11 +1363,11 @@ Evrenzo 100 mg film-coated tablets roxadustat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each tablet contains 100 mg roxadustat.
+Each film-coated tablet contains 100 mg roxadustat.
 
 ## 3. LIST OF EXCIPIENTS
 
-Contains lactose, traces of soya lecithin and Allura Red AC Aluminium Lake (E129).
+Contains lactose, traces of soya lecithin and Allura Red AC aluminium lake (E129). See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1309,9 +1377,7 @@ Contains lactose, traces of soya lecithin and Allura Red AC Aluminium Lake (E129
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Do not chew, break or crush the tablets. Read the package leaflet before use.
-
-Oral use
+Do not chew, break or crush the tablets. Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1321,7 +1387,7 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-EXP:
+EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1343,35 +1409,35 @@ EU/1/21/1574/004    12 film-coated tablets
 
 EU/1/21/1574/009    36 film-coated tablets
 
-## 13. BATCH NUMBER
+13. BATCH NUMBER
 
-Lot:
+Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 evrenzo 100 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included.
+- 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC:
+PC
 
-SN:
-
-NN:
+SN
 
 <div style=\"page-break-after: always\"></div>
 
+NN
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON BLISTERS OR STRIPS   |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
 |------------------------------------------------------|
 | BLISTER                                              |
 
@@ -1398,8 +1464,6 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-41
-
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -1412,11 +1476,11 @@ Evrenzo 150 mg film-coated tablets roxadustat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each tablet contains 150 mg roxadustat.
+Each film-coated tablet contains 150 mg roxadustat.
 
 ## 3. LIST OF EXCIPIENTS
 
-Contains lactose, traces of soya lecithin and Allura Red AC Aluminium Lake (E129).
+Contains lactose, traces of soya lecithin and Allura Red AC aluminium lake (E129). See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1426,11 +1490,7 @@ Contains lactose, traces of soya lecithin and Allura Red AC Aluminium Lake (E129
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Do not chew, break or crush the tablets.
-
-Read the package leaflet before use.
-
-Oral use
+Do not chew, break or crush the tablets. Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1440,7 +1500,7 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-EXP:
+EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1462,29 +1522,29 @@ EU/1/21/1574/005    12 film-coated tablets
 
 EU/1/21/1574/010    36 film-coated tablets
 
-## 13. BATCH NUMBER
+13. BATCH NUMBER
 
-Lot:
+Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 evrenzo 150 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included.
+- 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC:
+PC
 
-SN:
+SN
 
-NN:
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1499,8 +1559,8 @@ NN:
 
 Evrenzo 150 mg tablets roxadustat
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Astellas
 
@@ -1523,20 +1583,16 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
 Evrenzo 20 mg film-coated tablets Evrenzo 50 mg film-coated tablets Evrenzo 70 mg film-coated tablets Evrenzo 100 mg film-coated tablets Evrenzo 150 mg film-coated tablets roxadustat
 
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
-
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- Keep this leaflet. You may need to read it again.
-- If you have any further questions, ask your doctor, or pharmacist.
-- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- If you get any side effects, talk to your doctor, or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor, or pharmacist.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1559,7 +1615,7 @@ Evrenzo is used to treat adults with symptomatic anaemia that occurs in patients
 
 ## How Evrenzo works
 
-Roxadustat, the active substance in Evrenzo, works by increasing the level of HIF, a substance in the body which increases the production of red blood cells when oxygen levels are low. By raising HIF levels, the medicine increases the production of red blood cells and raises the levels of haemoglobin (the oxygen-carrying protein in red blood cells). This improves the oxygen supply to your body and may reduce your symptoms of anaemia.
+Roxadustat works by increasing the level of HIF, a substance in the body which increases the production of red blood cells when oxygen levels are low. By raising HIF levels, the medicine increases the production of red blood cells and raises the levels of haemoglobin (the oxygen-carrying protein in red blood cells). This improves the oxygen supply to your body and may reduce your symptoms of anaemia.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1567,30 +1623,32 @@ Roxadustat, the active substance in Evrenzo, works by increasing the level of HI
 
 ## Do not take Evrenzo
 
-- if you are allergic to peanut or soya, do not use this medicine. Evrenzo contains soya lecithin.
-- if you are allergic to roxadustat or any of the other ingredients of this medicine (listed in section 6).
-- if you are more than 6 months pregnant (it is also better to avoid this medicine in early pregnancy see Pregnancy section).
-- if you are breast-feeding.
+- -if you are allergic to peanut or soya.
+- -if you are allergic to roxadustat or any of the other ingredients of this medicine (listed in section 6).
+- -if you are more than 6 months pregnant (it is also better to avoid this medicine in the first 6 months, see Pregnancy section).
+- -if you are breast-feeding.
 
 ## Warnings and precautions
 
-Talk to your doctor, or pharmacist before taking Evrenzo:
+Talk to your doctor or pharmacist before taking Evrenzo:
 
-- if you have epilepsy or have ever had convulsions or fits.
-- if you have signs and symptoms of an infection, which may include fever, sweating or chills, sore throat, runny nose, shortness of breath, feeling weak, confusion, cough, vomiting, diarrhoea or stomach pain, feeling of burning when you pass urine, red or painful skin or sores on your body.
-- if you have a liver disorder.
+- -if you have epilepsy or have ever had convulsions or fits.
+- -if you have signs and symptoms of an infection, which may include fever, sweating or chills, sore throat, runny nose, shortness of breath, feeling weak, confusion, cough, vomiting, diarrhoea or stomach pain, feeling of burning when you pass urine, red or painful skin or sores on your body.
+- -if you have a liver disorder.
 
-Chronic kidney disease and anaemia may increase the risk of cardiovascular events and death. Managing your anaemia is important. Your doctor will monitor your haemoglobin and also consider your treatment regimen as anaemia treatment and switching between anaemia treatments may also have a negative impact on your cardiovascular health.
+Chronic kidney disease and anaemia may increase the risk of cardiovascular events and death.
+
+Managing your anaemia is important. Your doctor will monitor your haemoglobin and also consider your treatment regimen as anaemia treatment and switching between anaemia treatments may also have a negative impact on your cardiovascular health.
 
 Talk to your doctor, or pharmacist straight away:
 
-- if you get blood clots:
+- -if you get blood clots:
 1. in the veins of your legs (deep vein thrombosis or DVT), signs of which can include pain and/or swelling in the legs, cramping or a feeling of warmth in the affected leg;
-2. in the lungs (pulmonary embolism or PE), signs of which can include sudden shortness of breath, chest pain (usually worse with breathing), feeling of anxiety, dizziness, light-headedness, or fainting; heart racing, coughing (sometimes with blood);
+2. in the lungs (pulmonary embolism or PE), signs of which can include sudden shortness of breath, chest pain (usually worse with breathing), feeling of anxiety, dizziness, lightheadedness, or fainting; heart racing, coughing (sometimes with blood);
 3. in your haemodialysis access (vascular access thrombosis or VAT) that stop the vascular access from working; signs of this can include swelling, redness, hardening or thickening of the skin around your access, oozing at the access site, not feeling a vibration ('thrill') over the access area;
-- if you have a seizure (convulsion or fit) or possible warning signs that a seizure may occur, such as headache, irritability, fear, confusion or unusual feelings;
-- if you have signs and symptoms of an infection, which include fever, sweating or chills, sore throat, runny nose, shortness of breath, feeling weak or faint, confusion, cough, vomiting, diarrhoea, or stomach pain, burning when you pass urine, red or painful skin or sores on your body;
-- if you have signs and symptoms of a stroke (cerebrovascular accident), which include sudden weakness or numbness of the face, arm or leg, especially on one side of the body, sudden confusion, trouble speaking or understanding, sudden trouble seeing in one or both eyes, severe headache, loss of consciousness or fainting, seizures (fits), loss of coordination, loss of balance.
+- -if you have a seizure (convulsion or fit) or possible warning signs that a seizure may occur, such as headache, irritability, fear, confusion or unusual feelings;
+- -if you have signs and symptoms of an infection, which include fever, sweating or chills, sore throat, runny nose, shortness of breath, feeling weak or faint, confusion, cough, vomiting, diarrhoea, or stomach pain, burning when you pass urine, red or painful skin or sores on your body;
+- -if you have signs and symptoms of a stroke (cerebrovascular accident), which include sudden weakness or numbness of the face, arm or leg, especially on one side of the body, sudden confusion, trouble speaking or understanding, sudden trouble seeing in one or both eyes, severe headache, loss of consciousness or fainting, seizures (fits), loss of coordination, loss of balance.
 
 Misuse can lead to an increase in blood cells and consequently thicken the blood. This can cause life-threatening problems with the heart or blood vessels.
 
@@ -1602,20 +1660,22 @@ Do not give Evrenzo to children and adolescents aged under 18 years because ther
 
 ## Other medicines and Evrenzo
 
-Tell your doctor or pharmacist if you are taking, have recently taken, or might take any other medicines. Evrenzo may affect the way these medicines work, or these medicines may affect how Evrenzo works.
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. Evrenzo may affect the way these medicines work, or these medicines may affect how Evrenzo works.
 
 In particular, tell your doctor or pharmacist if you have, or are taking any of the following medicines:
 
-- medicines to reduce phosphate levels in your blood (called phosphate binders) or other medicines or supplements that contain calcium, iron, magnesium or aluminium (called multivalent cations), such as sevelamer carbonate or calcium acetate. You must take Evrenzo at least 1 hour after these medicines or supplements. Otherwise roxadustat will not be properly absorbed by your body.
-- a medicine to treat gout called probenecid.
-- medicines used to lower cholesterol, such as simvastatin, atorvastatin, or rosuvastatin (also called 'statins'), or gemfibrozil.
-- other medicines used to treat anaemia such as erythropoiesis-stimulating agents (ESAs).
+- -medicines to reduce phosphate levels in your blood (called phosphate binders) or other medicines or supplements that contain calcium, iron, magnesium or aluminium (called multivalent cations), such as sevelamer carbonate or calcium acetate. You must take Evrenzo at least 1 hour after these medicines or supplements. Otherwise roxadustat will not be properly absorbed by your body.
+- -a medicine to treat gout called probenecid.
+- -medicines used to lower cholesterol, such as simvastatin, atorvastatin, or rosuvastatin (also called 'statins'), or gemfibrozil.
+- -other medicines used to treat anaemia such as erythropoiesis-stimulating agents (ESAs).
 
 If you normally take any of these medicines, your doctor might change it and prescribe a different medicine for you during your treatment with Evrenzo.
 
 ## Pregnancy, breast-feeding and fertility
 
-If you are pregnant, think you may be pregnant or are planning to have a baby, contact your doctor. Evrenzo may harm your unborn baby. Evrenzo is not recommended in the first 6 months of pregnancy and must not be taken in the last 3 months of pregnancy. Women taking Evrenzo who are able to become pregnant should use an effective method of contraception during treatment with Evrenzo and for at least one week after the last dose of Evrenzo. If you use a hormonal contraceptive, you must also use a barrier method, such as a condom, or a diaphragm.
+If you are pregnant, think you may be pregnant or are planning to have a baby, contact your doctor.
+
+Evrenzo may harm your unborn baby. Evrenzo is not recommended in the first 6 months of pregnancy and must not be taken in the last 3 months of pregnancy. Women taking Evrenzo who are able to become pregnant should use an effective method of contraception during treatment with Evrenzo and for at least one week after the last dose of Evrenzo. If you use a hormonal contraceptive, you must also use a barrier method, such as a condom, or a diaphragm.
 
 Do not breastfeed if you are on treatment with Evrenzo. It is not known if Evrenzo passes into your breast milk and could harm your baby.
 
@@ -1639,15 +1699,15 @@ Evrenzo is taken by mouth as tablets.
 
 ## Taking Evrenzo
 
-- Take your Evrenzo dose three times per week unless your doctor told you otherwise.
-- Never take Evrenzo on consecutive days.
-- Take Evrenzo on the same three days every week.
+- -Take your Evrenzo dose three times per week unless your doctor told you otherwise.
+- -Never take Evrenzo on consecutive days.
 
 <div style=\"page-break-after: always\"></div>
 
-- Evrenzo can be taken with food or between meals.
-- Swallow the tablets whole.
-- Do not chew, break or crush the tablets.
+- -Take Evrenzo on the same three days every week.
+- -Evrenzo can be taken with food or between meals.
+- -Swallow the tablets whole.
+- -Do not chew, break or crush the tablets.
 
 Take Evrenzo at least 1 hour after you have taken medicines that reduce phosphate levels in your blood (called phosphate binders) or other medicines or supplements that contain calcium, iron, magnesium or aluminium (called multivalent cations).
 
@@ -1661,7 +1721,7 @@ Your dose ranges from 20 mg three times per week up to a maximum 400 mg three ti
 
 ## Different dosing frequencies
 
-In exceptional cases (based upon your haemoglobin levels), your doctor may decide to lower your Evrenzo dose to 20 mg two times or one time per week. In this case your doctor will explain which days week you need to take your dose.
+In exceptional cases (based upon your haemoglobin levels), your doctor may decide to lower your Evrenzo dose to 20 mg two times or one time per week. In this case your doctor will explain which days of the week you need to take your dose.
 
 ## More than 1 tablet needed to make up a dose
 
@@ -1675,9 +1735,9 @@ If you take more tablets or a higher dose than you should, contact your doctor s
 
 ## If you forget to take Evrenzo
 
-- Never take a double dose to make up for a forgotten dose.
-- If more than 24 hours (1 day) remains before your next scheduled dose, take the missed dose as soon as possible and take the next dose on the next scheduled day.
-- If less than 24 hours (1 day) remains before your next scheduled dose: skip the missed dose and take the next dose on the next scheduled day.
+- -Never take a double dose to make up for a forgotten dose.
+- -If more than 24 hours (1 day) remains before your next scheduled dose, take the missed dose as soon as possible and take the next dose on the next scheduled day.
+- -If less than 24 hours (1 day) remains before your next scheduled dose: skip the missed dose and take the next dose on the next scheduled day.
 
 ## If you stop taking Evrenzo
 
@@ -1691,48 +1751,48 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Some possible side effects may be serious. Contact your doctor straight away if you get any of the following:
 
-- blood clot in the veins of your legs (deep vein thrombosis or DVT) (may affect up to 1 in 10 people).
-- blood clot in the lungs (pulmonary embolism) (may affect up to 1 in 100 people).
+- -blood clot in the veins of your legs (deep vein thrombosis or DVT) (common, may affect up to 1 in 10 people).
+- -blood clot in the lungs (pulmonary embolism) (uncommon, may affect up to 1 in 100 people).
 
 <div style=\"page-break-after: always\"></div>
 
-- blood clot in your haemodialysis access (vascular access thrombosis or VAT) that causes the vascular access to close up or stop working if you are using a fistula or graft for dialysis access (may affect more than 1 in 10 people).
-- stroke (cerebrovascular accident) (may affect up to 1 in 100 people).
-- low levels of blood platelets (thrombocytopenia) (may affect up to 1 in 10 people) which may present as unexplained bruising or a rash of small patches of red appearing on the skin (called petechiae), prolonged bleeding from skin cuts, bleeding from the gums or nose, blood in urine or stools, bleeding in the whites of your eyes.
-- seizures and warning signs of seizures (convulsions or fits) (may affect up to 1 in 10 people).
-- sepsis, a serious or in rare cases, life-threatening infection (may affect up to 1 in 10 people).
-- redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis) (frequency cannot be estimated from the available data).
+- -blood clot in your haemodialysis access (vascular access thrombosis or VAT) that causes the vascular access to close up or stop working if you are using a fistula or graft for dialysis access (very common, may affect more than 1 in 10 people).
+- -stroke (cerebrovascular accident) (uncommon, may affect up to 1 in 100 people).
+- -low levels of blood platelets (thrombocytopenia) (common, may affect up to 1 in 10 people) which may present as unexplained bruising or a rash of small patches of red appearing on the skin (called petechiae), prolonged bleeding from skin cuts, bleeding from the gums or nose, blood in urine or stools, bleeding in the whites of your eyes.
+- -seizures and warning signs of seizures (convulsions or fits) (common, may affect up to 1 in 10 people).
+- -sepsis, a serious or in rare cases, life-threatening infection (common, may affect up to 1 in 10 people).
+- -redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis) (frequency cannot be estimated from the available data).
 
 ## Other possible side effects
 
-## Very common (may affect more than 1 in 10 people):
+Very common (may affect more than 1 in 10 people):
 
-- increased amount of potassium
-- high blood pressure (hypertension)
-- feeling sick (nausea)
-- diarrhoea
-- swelling due to fluid retention in the extremities (peripheral oedema)
+- -increased amount of potassium
+- -high blood pressure (hypertension)
+- -feeling sick (nausea)
+- -diarrhoea
+- -swelling due to fluid retention in the extremities (peripheral oedema)
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
-- difficulty in sleeping (insomnia)
-- headache
-- vomiting
-- constipation
-- low levels of blood platelets (thrombocytopenia)
+- -difficulty in sleeping (insomnia)
+- -headache
+- -vomiting
+- -constipation
+- -low levels of blood platelets (thrombocytopenia)
 
-## Uncommon (may affect up to 1 in 100 people):
+Uncommon (may affect up to 1 in 100 people):
 
-- increased amount of bilirubin in your blood
+- -increased amount of bilirubin in your blood
 
-## Not known (frequency cannot be estimated from the available data):
+Not known (frequency cannot be estimated from the available data):
 
-- thyroid function decreased
-- blood copper increased
+- -thyroid function decreased
+- -blood copper increased
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Evrenzo
 
@@ -1742,7 +1802,7 @@ Do not use this medicine after the expiry date which is stated on the carton and
 
 This medicine does not require any special storage conditions.
 
-Do not throw away any medicines via wastewater, or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1752,28 +1812,30 @@ Do not throw away any medicines via wastewater, or household waste. Ask your pha
 
 ## Evrenzo 20 mg:
 
-- The active substance is roxadustat. Each tablet contains 20 mg roxadustat.
+- -The active substance is roxadustat. Each film-coated tablet contains 20 mg roxadustat.
 
 ## Evrenzo 50 mg:
 
-- The active substance is roxadustat. Each tablet contains 50 mg roxadustat.
+- -The active substance is roxadustat. Each film-coated tablet contains 50 mg roxadustat.
 
 ## Evrenzo 70 mg:
 
-- The active substance is roxadustat. Each tablet contains 70 mg roxadustat.
+- -The active substance is roxadustat. Each film-coated tablet contains 70 mg roxadustat.
 
 ## Evrenzo 100 mg:
 
-- The active substance is roxadustat. Each tablet contains 100 mg roxadustat.
+- -The active substance is roxadustat. Each film-coated tablet contains 100 mg roxadustat.
 
 ## Evrenzo 150 mg:
 
-- The active substance is roxadustat. Each tablet contains 150 mg roxadustat.
+- -The active substance is roxadustat. Each film-coated tablet contains 150 mg roxadustat.
 
 ## The other ingredients are:
 
-- tablet core: lactose monohydrate, microcrystalline cellulose (E460), croscarmellose sodium (E468), povidone (E1201), magnesium stearate (E470b).
-- film-coating: polyvinyl alcohol (E1203), talc (E553b), macrogol (E1521), Allura Red Aluminium Lake AC (E129), titanium dioxide (E171), lecithin (soya) (E322).
+- -tablet core: lactose monohydrate, microcrystalline cellulose (E460), croscarmellose sodium (E468), povidone (E1201), magnesium stearate (E470b).
+- -film-coating: polyvinyl alcohol (E1203), talc (E553b), macrogol (E1521), Allura Red Aluminium Lake AC (E129), titanium dioxide (E171), lecithin (soya) (E322).
+
+See section 2 'Evrenzo contains lactose, soya lecithin and Allura Red AC aluminium lake'.
 
 ## What Evrenzo looks like and contents of the pack
 
@@ -1787,13 +1849,15 @@ Evrenzo 100 mg are red, oval, film-coated tablets, debossed with '100' on one si
 
 Evrenzo 150 mg are red, almond-shaped, film-coated tablets, debossed with '150' on one side.
 
-Evrenzo is available in PVC/aluminium perforated unit dose blisters in packs containing 12 x 1 film-coated tablets and 36 x 1 film-coated tablets.
+Evrenzo is available in PVC/aluminium perforated unit dose blisters in packs containing 12 x 1 film-coated tablets (tablets) and 36 x 1 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Astellas Pharma Europe B.V. Sylviusweg 62 2333 BE Leiden The Netherlands
+Astellas Pharma Europe B.V.
+
+Sylviusweg 62 2333 BE Leiden The Netherlands
 
 ## Manufacturer
 
@@ -1803,7 +1867,7 @@ For any information about this medicine, please contact the local representative
 
 België/Belgique/Belgien Astellas Pharma B.V. Branch Tél/Tel: +32 (0)2 5580710
 
-Lietuva
+## Lietuva
 
 Astellas Pharma d.o.o.
 
@@ -1821,9 +1885,7 @@ Astellas Pharma s.r.o. Tel: +420 221 401 500
 
 ## Danmark
 
-Astellas Pharma a/s
-
-Tlf: +45 43 430355
+Astellas Pharma a/s Tlf.: +45 43 430355
 
 ## Deutschland
 
@@ -1855,7 +1917,7 @@ Astellas Pharma Co. Ltd. Tel: +353 (0)1 4671555
 
 ## Ísland
 
-Vistor hf Sími: +354 535 7000
+Vistor Sími: +354 535 7000
 
 ## Italia
 
@@ -1919,42 +1981,14 @@ Astellas Pharma AB Tel: +46 (0)40-650 15 00
 
 <div style=\"page-break-after: always\"></div>
 
-Latvija Astellas Pharma d.o.o.
+## Latvija
+
+Astellas Pharma d.o.o.
 
 Tel: +371 67 619365
 
-## This leaflet was last revised in MM/YYYY
+## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-## United Kingdom (Northern Ireland)
-
-Astellas Pharma Co., Limited
-
-Tel: +353 (0)1 4671555
-
-Free call from Northern Ireland: 0800 783 5018
-
-<div style=\"page-break-after: always\"></div>
-
-## Annex IV
-
-Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for roxadustat, the scientific conclusions of PRAC are as follows:
-
-In view of available data on Ischemic central nervous system vascular conditions from clinical trial(s), the literature, spontaneous reports including in some cases a close temporal relationship, a positive dechallenge and rechallenge and in view of a plausible mechanism of action, the PRAC Rapporteur considers a causal relationship between roxadustat and Cerebral infarction is at least a reasonable possibility. The PRAC Rapporteur concluded that the product information of products containing roxadustat should be amended accordingly. Furthermore, based on the expressed concerns of the MAH that current information presented in the PIL on Thrombocytopenia may suggest that the symptoms listed in the section 4 may affect up to 1 in 10 people, the PRAC Rapporteur concluded that the product information of products containing roxadustat should be amended to avoid this misinterpretation.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for roxadustat the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing roxadustat is unchanged subject to the proposed changes to the product information
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

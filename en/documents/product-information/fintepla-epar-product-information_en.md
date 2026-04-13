@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-09 15:02:52
-document_pages: 46
+document_datetime: 2026-04-09 10:44:55
+document_pages: 48
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fintepla-epar-product-information_en.pdf
 document_name: fintepla-epar-product-information_en.pdf
 version: success
-processing_time: 13.0104371
-conversion_datetime: 2026-01-10 11:19:39.093785
+processing_time: 13.4021968
+conversion_datetime: 2026-04-13 14:18:23.415156
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -79,7 +79,7 @@ Table 1: Dosage recommendations for Dravet syndrome (DS) and Lennox-Gastaut synd
 | Day 7                   | 0.2 mg/kg twice daily              | 26 mg (13 mg twice daily i.e. 6.0 ml twice daily) | Maintenance dose 0.2 mg/kg twice daily            | 17 mg (8.6 mg twice daily i.e. 4.0 ml twice daily) |
 | Day 14**                | 0.35 mg/kg twice daily             | 26 mg (13 mg twice daily i.e. 6.0 ml twice daily) | Not applicable                                    | 17 mg (8.6 mg twice daily i.e. 4.0 ml twice daily) |
 
-Weight (kg) x Weight-based dosage (mg/kg) ÷ 2.2 mg/ml = ml dose to be taken twice daily
+## Weight (kg) x Weight-based dosage (mg/kg) ÷ 2.2 mg/ml = ml dose to be taken twice daily
 
 Always round the calculated dose up or down to the nearest graduation mark, following standard rounding conventions. For example, for a patient that needs a dose of 2.15 ml, the applied volume needs to be rounded up to 2.2 ml as the 3 ml syringe can only deliver 2.1 ml or 2.2 ml. Likewise a volume of 1.13 ml would need to be rounded down to a delivered volume of 1.1 ml. For a patient that needs a dose of 3.15 ml, the applied volume needs to be rounded up to 3.2 ml as the 6 ml syringe can only deliver 3.0 ml or 3.2 ml. Likewise a volume of 4.25 ml would need to be rounded down to a delivered volume of 4.2 ml.
 
@@ -172,17 +172,15 @@ Within 14 days of the administration of monoamine oxidase inhibitors due to an i
 
 ## Aortic or mitral valvular heart disease and pulmonary arterial hypertension
 
-Because of reported cases of valvular heart disease and pulmonary arterial hypertension that may have been caused by fenfluramine at higher doses used to treat adult obesity, cardiac monitoring must be performed using echocardiography. Patients with valvular heart disease or pulmonary arterial hypertension were excluded from the controlled clinical studies of fenfluramine for the treatment of Dravet syndrome and Lennox-Gastaut syndrome. Neither pulmonary arterial hypertension nor valvular heart disease were observed during these studies. However, post-marketing data show that they can also occur with doses used to treat Dravet syndrome and Lennox-Gastaut syndrome (see section 4.8).
+Fenfluramine can cause valvular heart disease and pulmonary arterial hypertension in patients treated for Dravet syndrome or Lennox-Gastaut syndrome (see section 4.8). Therefore, echocardiographic monitoring must be performed.
 
 Prior to starting treatment, patients must undergo an echocardiogram to establish a baseline prior to initiating treatment (see section 4.3) and exclude any pre-existing valvular heart disease or pulmonary hypertension.
 
 Echocardiogram monitoring should be conducted every 6 months for the first 2 years and annually thereafter. Once treatment is discontinued for any reasons, a final echocardiogram should be conducted 3-6 months after the last dose of treatment with fenfluramine.
 
-If an echocardiogram indicates pathological valvular changes, a follow-up echocardiogram should be considered at an earlier timeframe to evaluate whether the abnormality is persistent. If pathological
+If an echocardiogram indicates pathological valvular changes, a follow-up echocardiogram should be considered at an earlier timeframe to evaluate whether the abnormality is persistent. If pathological abnormalities on the echocardiogram are observed, it is recommended to evaluate the benefit versus risk of continuing fenfluramine treatment with the prescriber, caregiver, and cardiologist.
 
 <div style=\"page-break-after: always\"></div>
-
-abnormalities on the echocardiogram are observed, it is recommended to evaluate the benefit versus risk of continuing fenfluramine treatment with the prescriber, caregiver, and cardiologist.
 
 If treatment is stopped because of aortic or mitral valvular heart disease, appropriate monitoring and follow-up should be provided in accordance with local guidelines for the treatment of aortic or mitral valvular heart disease.
 
@@ -210,9 +208,11 @@ Suicidal behaviour and ideation have been reported in patients treated with anti
 
 As with other serotonergic medicinal products, serotonin syndrome, a potentially life-threatening condition, may occur with fenfluramine treatment, particularly with concomitant use of other serotonergic medicinal products (including SSRIs, SNRIs, tricyclic antidepressants, or triptans); with medicinal products that impair metabolism of serotonin such as MAOIs; or with antipsychotics that may affect the serotonergic neurotransmitter systems (see sections 4.3 and 4.5).
 
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular
+
 <div style=\"page-break-after: always\"></div>
 
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhoea).
+aberrations (e.g., hyperreflexia, incoordination), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhoea).
 
 If concomitant treatment with fenfluramine and other serotonergic medicinal products that may affect the serotonergic systems is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases. If serotonin syndrome is suspected, a dose reduction or discontinuation of therapy with Fintepla and/or other serotonergic medicinal products should be considered.
 
@@ -238,11 +238,11 @@ Initiation of concomitant treatment with a strong CYP1A2 or CYP2D6 inhibitor may
 
 Coadministration of a single 0.35 mg/kg dose of fenfluramine with fluvoxamine (a strong CYP1A2 inhibitor) at steady state (50 mg once daily) in healthy volunteers increased the AUC0-t of fenfluramine by a ratio of 2.1-fold and the Cmax by a ratio of 1.2-fold, and decreased the AUC0-t of norfenfluramine by a ratio of 1.3-fold and the Cmax by a ratio of 1.4-fold, as compared to fenfluramine administered alone.
 
-Coadministration of a single 0.35 mg/kg dose of fenfluramine with paroxetine (a strong CYP2D6 inhibitor) at steady state (30 mg once daily) in healthy volunteers increased the AUC0-t of fenfluramine by a ratio of 1.8-fold and the Cmax by a ratio of 1.1-fold, and decreased the AUC0-t of norfenfluramine
+Coadministration of a single 0.35 mg/kg dose of fenfluramine with paroxetine (a strong CYP2D6 inhibitor) at steady state (30 mg once daily) in healthy volunteers increased the AUC0-t of fenfluramine by a ratio of 1.8-fold and the Cmax by a ratio of 1.1-fold, and decreased the AUC0-t of
 
 <div style=\"page-break-after: always\"></div>
 
-by a ratio of 1.2-fold and the Cmax by a ratio of 1.3-fold, as compared to fenfluramine administered alone.
+norfenfluramine by a ratio of 1.2-fold and the Cmax by a ratio of 1.3-fold, as compared to fenfluramine administered alone.
 
 ## Excipients
 
@@ -316,7 +316,9 @@ As a precautionary measure, it is preferable to avoid the use of Fintepla during
 
 ## Breast-feeding
 
-It is unknown whether fenfluramine/metabolites are excreted in human milk. Available pharmacokinetic data in animals have shown excretion of fenfluramine/metabolites in milk (see section 5.3).
+It is unknown whether fenfluramine/metabolites are excreted in human milk. Available pharmacokinetic data in animals have shown excretion of fenfluramine/metabolites in milk
+
+(see section 5.3).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -401,7 +403,7 @@ Placebo: 13.9% (32/230)
 
 <div style=\"page-break-after: always\"></div>
 
-Pulmonary arterial hypertension in a child associated with fenfluramine for Dravet syndrome has been reported post-marketing. The patient discontinued fenfluramine and the reaction resolved postdiscontinuation. Valvular heart disease in a child associated with fenfluramine for Dravet syndrome has also been reported post-marketing (see section 4.4).
+Nevertheless, pulmonary arterial hypertension and valvular heart disease associated with fenfluramine for Dravet syndrome and Lennox-Gastaut syndrome have been reported. Resolution of pulmonary arterial hypertension has been reported following discontinuation in at least one case (see section 4.4).
 
 Lethargy, somnolence, and fatigue (grouping of fatigue/asthenia/malaise/decreased activity) In the controlled trials in subjects with Dravet syndrome, lethargy was commonly reported in 9.7%, and somnolence and fatigue were very commonly reported in 13.9% and 19%, respectively in the fenfluramine treatment groups combined. In the controlled study with Lennox-Gastaut syndrome, lethargy was commonly reported in 4.5% of subjects in the fenfluramine treatment group. Fatigue and somnolence were very commonly reported in 16.2% and 16.2% of subjects, respectively. The majority of the adverse reactions of lethargy, somnolence, and fatigue/asthenia were reported in the first 2 weeks of treatment with fenfluramine and were mild or moderate in severity. Discontinuation due to lethargy, somnolence, and fatigue/asthenia was rare and, in most cases, these adverse reactions resolved or improved with ongoing treatment. In the controlled trials with Dravet syndrome, 0.5% and 1.4% of subjects in the fenfluramine treatment groups combined discontinued due to lethargy and somnolence, respectively. In the LGS study 4, 1.5% of subjects in the fenfluramine treatment group discontinued due to somnolence.
 
@@ -743,9 +745,9 @@ The syringe and plunger must be completely dry before the next use.
 
 ## Feeding tubes
 
-Fintepla oral solution is compatible with most enteral feeding tubes.
+Fintepla oral solution is compatible with most enteral feeding tubes. To flush the feeding tube, fill the syringe used for dosing with water and flush the tube. Do this 3
 
-To flush the feeding tube, fill the syringe used for dosing with water and flush the tube. Do this 3 times.
+times.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -943,7 +945,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1011,12 +1013,12 @@ Date of first bottle opening \\_\\_ / \\_\\_ / \\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
 Do not refrigerate or freeze.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+2. APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1046,8 +1048,7 @@ Lot
 
 Fintepla
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 Not applicable.
 
@@ -1238,11 +1239,23 @@ Table 1: Range of dose volumes in ml for calculation check
 
 <div style=\"page-break-after: always\"></div>
 
+6 ml syringe - purp
+
+3 ml syringe - gr
+
+0.5
+
+1
+
+Доінії,
+
 <!-- image -->
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+2
 
 <!-- image -->
 
@@ -1250,7 +1263,7 @@ Write on the carton the date you first opened the bottle.
 
 You must attach the bottle adaptor the first time you open the bottle. The following instructions tell you how to attach the adaptor.
 
-Inserting the bottle adaptor:
+## Inserting the bottle adaptor:
 
 When the bottle is first opened the bottle adaptor must be pushed into the bottle.
 
@@ -1290,9 +1303,7 @@ Holding the bottle firmly, gently pull the oral syringe out of the bottle adapto
 
 <!-- image -->
 
-Place the tip of the oral syringe against the inside of the patient's cheek.
-
-Gently push the plunger until it is fully pressed. There will be a small volume left in the tip of the syringe. This is normal. Do not squirt the medicine into the back of the throat as this may cause choking.
+Place the tip of the oral syringe against the inside of the patient's cheek. Gently push the plunger until it is fully pressed. There will be a small volume left in the tip of the syringe. This is normal. Do not squirt the medicine into the back of the throat as this may cause choking.
 
 Place the cap back on the bottle and turn until it stops.
 
@@ -1340,7 +1351,7 @@ Very common : may affect more than 1 in 10 people
 - diarrhoea
 - tiredness
 
-Common : may affect up to 1 in 10 people
+## Common : may affect up to 1 in 10 people
 
 - bronchitis
 - abnormal behaviour
@@ -1433,9 +1444,9 @@ UCB Pharma S.A., Allée de la Recherche 60, B-1070 Bruxelles, Belgium
 
 Millmount Healthcare Ltd, Millmount Site, Block 7,
 
-City North Business Campus, Stamullen, Co. Meath, K32 YD60 Ireland
-
 <div style=\"page-break-after: always\"></div>
+
+City North Business Campus, Stamullen, Co. Meath, K32 YD60 Ireland
 
 ## Or
 
@@ -1449,9 +1460,7 @@ UCB Pharma S.A./NV Tél/Tel: + 32 / (0)2 559 92 00
 
 ## България
 
-Ю СИ БИ България ЕООД
-
-Te л .: + 359 (0) 2 962 30 49
+Ю СИ БИ България ЕООД Te л .: + 359 (0) 2 962 30 49
 
 ## Česká republika
 
@@ -1545,9 +1554,7 @@ Tel: + 43-(0)1 291 80 00
 
 ## Polska
 
-UCB Pharma Sp. z o.o. / VEDIM Sp. z o.o.
-
-Tel: + 48 22 696 99 20
+UCB Pharma Sp. z o.o. / VEDIM Sp. z o.o. Tel: + 48 22 696 99 20
 
 ## Portugal
 
@@ -1559,17 +1566,13 @@ UCB Pharma Romania S.R.L.
 
 Tel: + 40 21 300 29 04
 
+<div style=\"page-break-after: always\"></div>
+
 ## Ireland
 
 UCB (Pharma) Ireland Ltd.
 
 Tel: + 353 / (0)1-46 37 395
-
-## Slovenija
-
-Medis, d.o.o.
-
-Tel: + 386 1 589 69 00
 
 ## Ísland
 
@@ -1577,23 +1580,11 @@ UCB Nordic A/S
 
 Sími: + 45 / 32 46 24 00
 
-## Slovenská republika
-
-UCB s.r.o., organizačná zložka
-
-Tel: + 421 (0) 2 5920 2020
-
 ## Italia
 
 UCB Pharma S.p.A.
 
 Tel: + 39 / 02 300 791
-
-## Suomi/Finland
-
-UCB Pharma Oy Finland
-
-Puh/Tel: + 358 9 2514 4221
 
 ## Κύπρος
 
@@ -1602,12 +1593,6 @@ Lifepharma (Z.A.M.) Ltd
 Τηλ: +
 
 357 22 056300
-
-## Sverige
-
-UCB Nordic A/S Tel: + 46 / (0) 40 294 900
-
-<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -1619,6 +1604,48 @@ Tel: . +371 67 370 250
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site:
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
-https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+## Slovenija
+
+Medis, d.o.o.
+
+Tel: + 386 1 589 69 00
+
+## Slovenská republika
+
+UCB s.r.o., organizačná zložka
+
+Tel: + 421 (0) 2 5920 2020
+
+## Suomi/Finland
+
+UCB Pharma Oy Finland
+
+Puh/Tel: + 358 9 2514 4221
+
+## Sverige
+
+UCB Nordic A/S Tel: + 46 / (0) 40 294 900
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for fenfluramine, the scientific conclusions of PRAC are as follows:
+
+New definite cases of valvular heart disease (VHD) and pulmonary arterial hypertension (PAH) were identified in the post-marketing setting, which are possibly related to fenfluramine used to treat DS and LGS. VHD and PAH represent important risks of fenfluramine for the treatment of DS and LGS. Taking into account the serotonergic stimulation of cardiac valve tissue as a plausible mechanism of action, the known association between VHD/PAH and higher doses of fenfluramine used as an appetite suppressant and a first definite case of valvular heart disease in a child treated with lower doses of fenfluramine (6.6 mg/day) for DS identified in the last PSUR, the PRAC considers that the identification of further definite cases of VHD as well as PAH, which are possibly related to fenfluramine, warrants an update of the product information to provide clinicians with the most up-todate evidence on this important risk.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the Marketing Authorisation(s)
+
+On the basis of the scientific conclusions for fenfluramine the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing fenfluramine is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the Marketing Authorisation(s) should be varied.

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-14 15:06:12
-document_pages: 36
+document_datetime: 2026-04-10 11:02:25
+document_pages: 52
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/abrysvo-epar-product-information_en.pdf
 document_name: abrysvo-epar-product-information_en.pdf
 version: success
-processing_time: 10.6634612
-conversion_datetime: 2025-12-30 22:10:43.740505
+processing_time: 14.6465694
+conversion_datetime: 2026-04-13 14:19:06.613781
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,7 +28,7 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Abrysvo powder and solvent for solution for injection
+Abrysvo powder and solvent for solution for injection Abrysvo powder and solvent for solution for injection in multidose container
 
 Respiratory syncytial virus vaccine (bivalent, recombinant)
 
@@ -36,21 +36,19 @@ Respiratory syncytial virus vaccine (bivalent, recombinant)
 
 After reconstitution, one dose (0.5 mL) contains:
 
-RSV subgroup A stabilised prefusion F antigen 1,2
+RSV subgroup A stabilised prefusion F antigen 1,2 60 micrograms RSV subgroup B stabilised prefusion F antigen 1,2 60 micrograms (RSV antigens) 1 glycoprotein F stabilised in the prefusion conformation 2 produced in Chinese Hamster Ovary cells by recombinant DNA technology.
 
-RSV subgroup B stabilised prefusion F antigen 1,2
+## Excipient with known effect
 
-(RSV antigens)
-
-2 produced in Chinese Hamster Ovary cells by recombinant DNA technology.
-
-1 glycoprotein F stabilised in the prefusion conformation
+One dose contains 0.08 milligrams of polysorbate 80 (see section 4.4).
 
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
 Powder and solvent for solution for injection.
+
+Powder and solvent for solution for injection in multidose container.
 
 The powder is white.
 
@@ -62,24 +60,20 @@ The solvent is a clear, colourless liquid.
 
 Abrysvo is indicated for:
 
-- Passive protection against lower respiratory tract disease caused by respiratory syncytial virus (RSV) in infants from birth through 6 months of age following maternal immunisation during pregnancy. See sections 4.2 and 5.1.
+- Active immunisation of pregnant individuals to protect infants from birth through 6 months of age against lower respiratory tract disease caused by respiratory syncytial virus (RSV). See sections 4.2 and 5.1.
 - Active immunisation of individuals 18 years of age and older for the prevention of lower respiratory tract disease caused by RSV.
 
 The use of this vaccine should be in accordance with official recommendations.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.2 Posology and method of administration
 
-Posology
+## Posology
 
-Pregnant individuals
+## Pregnant individuals
 
 A single dose of 0.5 mL should be administered between weeks 24 and 36 of gestation (see sections 4.4 and 5.1).
-
-60 micrograms
-
-60 micrograms
-
-<div style=\"page-break-after: always\"></div>
 
 ## Individuals 18 years of age and older
 
@@ -125,11 +119,11 @@ Anxiety-related reactions, including vasovagal reactions (syncope), hyperventila
 
 Vaccination should be postponed in individuals suffering from an acute febrile illness. However, the presence of a minor infection, such as a cold, should not result in the deferral of vaccination.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Thrombocytopenia and coagulation disorders
 
 Abrysvo should be given with caution to individuals with thrombocytopenia or any coagulation disorder since bleeding or bruising may occur following an intramuscular administration to these individuals.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Immunocompromised individuals
 
@@ -147,7 +141,7 @@ As with any vaccine, a protective immune response may not be elicited after vacc
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
 
-Abrysvo contains polysorbate 80. Polysorbate 80 may cause hypersensitivity reactions.
+This medicinal product contains polysorbate 80. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -168,9 +162,9 @@ Results from animal studies with Abrysvo do not indicate direct or indirect harm
 
 In a phase 3 study (Study 1), maternal adverse events reported within 1 month after vaccination were similar in the Abrysvo group (14%) and the placebo group (13%).
 
-No safety signals were detected in infants up to 24 months of age. The incidences of adverse events reported within 1 month after birth in infants were similar in the Abrysvo group (38%) and the placebo group (35%). Major birth outcomes assessed in the Abrysvo group compared to placebo included premature birth (207 (6%) and 172 (5%), respectively), low birth weight (186 (5%) and 158 (4%), respectively) and congenital anomalies (205 (6%) and 245 (7%), respectively).
-
 <div style=\"page-break-after: always\"></div>
+
+No safety signals were detected in infants up to 24 months of age. The incidences of adverse events reported within 1 month after birth in infants were similar in the Abrysvo group (38%) and the placebo group (35%). Major birth outcomes assessed in the Abrysvo group compared to placebo included premature birth (207 (6%) and 172 (5%), respectively), low birth weight (186 (5%) and 158 (4%), respectively) and congenital anomalies (205 (6%) and 245 (7%), respectively).
 
 ## Breast-feeding
 
@@ -210,28 +204,28 @@ Adverse reactions reported are listed per system organ class, in decreasing orde
 
 Table 1 Adverse reactions following administration of Abrysvo
 
-| System organ class                                    | Adverse drug reactions pregnant individuals ≤ 49 years   | Adverse drug reactions individuals ≥ 18 years        |
-|-------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------|
-| Blood and lymphatic system disorders                  | Blood and lymphatic system disorders                     | Blood and lymphatic system disorders                 |
-| Lymphadenopathy                                       | Rare                                                     | Rare                                                 |
-| Immune system disorders                               | Immune system disorders                                  | Immune system disorders                              |
-| Anaphylaxis                                           |                                                          | Very rare                                            |
-| Hypersensitivity reactions (includes rash, urticaria) | Rare                                                     | Rare                                                 |
-| Nervous system disorders                              | Nervous system disorders                                 | Nervous system disorders                             |
-| Headache                                              | Very common                                              | Very common                                          |
-| Guillain-Barré syndrome                               |                                                          | Very rare                                            |
-| Musculoskeletal and connective tissue disorders       | Musculoskeletal and connective tissue disorders          | Musculoskeletal and connective tissue disorders      |
-| Myalgia                                               | Very common                                              | Very common                                          |
-| Arthralgia                                            |                                                          | Common                                               |
-| General disorders and administration site conditions  | General disorders and administration site conditions     | General disorders and administration site conditions |
-| Fatigue                                               |                                                          | Very common                                          |
-| Vaccination site pain                                 | Very common                                              | Very common                                          |
-| Vaccination site redness                              | Common                                                   | Common                                               |
-| Vaccination site swelling                             | Common                                                   | Common                                               |
-| Pyrexia                                               |                                                          | Uncommon                                             |
-| Vaccination site pruritus                             |                                                          | Rare                                                 |
-| Vaccination site bruising                             |                                                          | Rare                                                 |
-| Vaccination site haematoma                            |                                                          | Rare                                                 |
+| System organ class                                    | Adverse reactions pregnant individuals ≤ 49 years    | Adverse reactions individuals ≥ 18 years             |
+|-------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| Blood and lymphatic system disorders                  | Blood and lymphatic system disorders                 | Blood and lymphatic system disorders                 |
+| Lymphadenopathy                                       | Rare                                                 | Rare                                                 |
+| Immune system disorders                               | Immune system disorders                              | Immune system disorders                              |
+| Anaphylaxis                                           |                                                      | Very rare                                            |
+| Hypersensitivity reactions (includes rash, urticaria) | Rare                                                 | Rare                                                 |
+| Nervous system disorders                              | Nervous system disorders                             | Nervous system disorders                             |
+| Headache                                              | Very common                                          | Very common                                          |
+| Guillain-Barré syndrome                               |                                                      | Very rare                                            |
+| Musculoskeletal and connective tissue disorders       | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
+| Myalgia                                               | Very common                                          | Very common                                          |
+| Arthralgia                                            |                                                      | Common                                               |
+| General disorders and administration site conditions  | General disorders and administration site conditions | General disorders and administration site conditions |
+| Fatigue                                               |                                                      | Very common                                          |
+| Vaccination site pain                                 | Very common                                          | Very common                                          |
+| Vaccination site redness                              | Common                                               | Common                                               |
+| Vaccination site swelling                             | Common                                               | Common                                               |
+| Pyrexia                                               |                                                      | Uncommon                                             |
+| Vaccination site pruritus                             |                                                      | Rare                                                 |
+| Vaccination site bruising                             |                                                      | Rare                                                 |
+| Vaccination site haematoma                            |                                                      | Rare                                                 |
 
 ## Special populations
 
@@ -244,8 +238,6 @@ Reactogenicity was consistent with the known profile of Abrysvo. There were no u
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
-
-Overdose with Abrysvo is unlikely due to its single dose presentation.
 
 There is no specific treatment for an overdose with Abrysvo. In the event of an overdose, the individual should be monitored and provided with symptomatic treatment as appropriate.
 
@@ -265,9 +257,7 @@ In infants born to mothers who were vaccinated with Abrysvo between weeks 24 and
 
 ## Clinical efficacy
 
-## Infants from birth through 6 months of age by active immunisation of pregnant individuals
-
-Study 1 was a phase 3, multicentre, randomised (1:1), double-blind, placebo-controlled study to assess the efficacy of a single dose of Abrysvo in the prevention of RSV-associated LRTD in infants born to pregnant individuals vaccinated between weeks 24 and 36 of gestation. The need for revaccination with subsequent pregnancies has not been established.
+Infants from birth through 6 months of age by active immunisation of pregnant individuals Study 1 was a phase 3, multicentre, randomised (1:1), double-blind, placebo-controlled study to assess the efficacy of a single dose of Abrysvo in the prevention of RSV-associated LRTD in infants born to pregnant individuals vaccinated between weeks 24 and 36 of gestation. The need for revaccination with subsequent pregnancies has not been established.
 
 RSV-associated LRTD was defined as a medically attended visit in individuals with a reverse transcription-polymerase chain reaction (RT-PCR) confirmation of RSV and with one or more of the following respiratory symptoms: fast breathing, low oxygen saturation (SpO2 &lt;95%) and chest wall indrawing. Severe RSV-associated LRTD was defined as RSV-associated LRTD that additionally met at least one of the following criteria: very fast breathing, low oxygen saturation (SpO2 &lt;93%), highflow oxygen supplementation via nasal cannula or mechanical ventilation, ICU admission for &gt;4 hours and/or failure to respond/unconscious.
 
@@ -341,6 +331,8 @@ Table 4 Vaccine efficacy of Abrysvo against RSV disease - active immunisation of
 |                                            | Age 70-79 years                           | 5 750     | 0         | 5 742     | 4         | 100 (-51.5, 100.0) |
 | ≥ 3 symptoms b                             | With ≥ 1 significant underlying condition | 9 377     | 2         | 9 432     | 11        | 81.8 (16.7, 98.0)  |
 
+CI - confidence interval; RSV - respiratory syncytial virus; VE - vaccine efficacy
+
 N = number of participants; n = number of cases
 
 a In an exploratory analysis in RSV subgroup A (Abrysvo n=3, placebo n=16) VE was 81.3% (CI 34.5, 96.5); and in RSV subgroup B (Abrysvo n=12, placebo n=26) VE was 53.8% (CI 5.2, 78.8).
@@ -355,13 +347,11 @@ Across 2 RSV seasons with median follow-up time of 16.4 months, VE against RSV-a
 
 Across 2 RSV seasons, subgroup analyses of VE by age and significant underlying conditions were consistent with VE at the end of the first RSV season and support consistent VE across different age and risk groups.
 
-## Immunogenicity in individuals 18 through 59 years of age
-
-Study 3 was a Phase 3, multicentre, randomised, double-blind, placebo-controlled study to assess the safety and immunogenicity of Abrysvo in individuals 18 through 59 years of age considered to be at high risk of developing severe LRTD caused by RSV. Study 3 enrolled individuals who had chronic
-
 <div style=\"page-break-after: always\"></div>
 
-pulmonary (including asthma), cardiovascular (excluding isolated hypertension), renal, hepatic, neurologic, haematologic or metabolic disorders (including diabetes mellitus and hyper/hypothyroidism). Participants were randomised (2:1) to receive a single dose of Abrysvo (n=437) or placebo (n=217).
+## Immunogenicity in individuals 18 through 59 years of age
+
+Study 3 was a Phase 3, multicentre, randomised, double-blind, placebo-controlled study to assess the safety and immunogenicity of Abrysvo in individuals 18 through 59 years of age considered to be at high risk of developing severe LRTD caused by RSV. Study 3 enrolled individuals who had chronic pulmonary (including asthma), cardiovascular (excluding isolated hypertension), renal, hepatic, neurologic, haematologic or metabolic disorders (including diabetes mellitus and hyper/hypothyroidism). Participants were randomised (2:1) to receive a single dose of Abrysvo (n=437) or placebo (n=217).
 
 Demographic characteristics in study 3 were generally similar with regard to age, race and ethnicity among participants who received Abrysvo and those who received placebo. Fifty-three percent (53%) were 18 to 49 years and 47% were 50 to 59 years. The vaccine and placebo groups were similar with regards to having at least one prespecified medical condition, which included 53% with ≥ 1 chronic pulmonary condition, 8% with ≥ 1 cardiovascular condition, 42% with diabetes and 31% ≥ 1 other disease (liver, renal, neurologic, haematologic or other metabolic disease).
 
@@ -369,11 +359,11 @@ Vaccine efficacy in individuals 18 through 59 years of age is inferred by immuno
 
 Table 5 Comparison of model adjusted RSV neutralising titre GMTs at 1 month after vaccination with Abrysvo, 18 through 59 years at high risk (Study 3) versus 60 years and older (Study 2)
 
-|               | Study 3 18-59 years of age at high risk   | Study 3 18-59 years of age at high risk   | Study 2 ≥ 60 years   | Study 2 ≥ 60 years   | ANCOVA comparison    |
-|---------------|-------------------------------------------|-------------------------------------------|----------------------|----------------------|----------------------|
-| RSV subgroups | n                                         | AdjustedGMT (95% CI)                      | n                    | AdjustedGMT (95% CI) | AdjustedGMR (95% CI) |
-| A             | 435                                       | 41097 (37986, 44463)                      | 408                  | 26225 (24143, 28486) | 1.57 (1.396, 1.759)  |
-| B             | 437                                       | 37416 (34278, 40842)                      | 408                  | 24680 (22504, 27065) | 1.52 (1.333, 1.725)  |
+|               | Study 3 18-59 years of age at high risk   | Study 3 18-59 years of age at high risk   | Study 2 ≥ 60 years   | Study 2 ≥ 60 years      | ANCOVA comparison    |
+|---------------|-------------------------------------------|-------------------------------------------|----------------------|-------------------------|----------------------|
+| RSV subgroups | n                                         | AdjustedGMT (95% CI)                      | n                    | AdjustedGMT (95% CI)    | AdjustedGMR (95% CI) |
+| A             | 435                                       | 41 097 (37 986, 44 463)                   | 408                  | 26 225 (24 143, 28 486) | 1.57 (1.396, 1.759)  |
+| B             | 437                                       | 37 416 (34 278, 40 842)                   | 408                  | 24 680 (22 504, 27 065) | 1.52 (1.333, 1.725)  |
 
 CI - confidence interval; GMR - geometric mean ratio; GMT - geometric mean titre
 
@@ -387,15 +377,13 @@ Table 6 Comparison of RSV neutralising titre seroresponse rates 1 month after va
 
 CI - confidence interval
 
-Immunogenicity in immunocompromised individuals 18 years of age and older
+<div style=\"page-break-after: always\"></div>
+
+## Immunogenicity in immunocompromised individuals 18 years of age and older
 
 Study 4 (C3671023 Substudy B) was a Phase 3, single-arm, open-label, multicentre study to assess the safety and immunogenicity of Abrysvo in immunocompromised individuals ≥ 18 years of age. Participants had history of a solid organ transplant (kidney, liver, lung or heart) at least 3 months prior to enrollment; end stage renal disease and on haemodialysis; autoimmune inflammatory disorders with active immunomodulator therapy; or advanced non-small cell lung cancer and receiving active immunomodulator therapy. Participants received 2 doses of Abrysvo with an interval of 1 month.
 
-A single dose of Abrysvo was sufficient to elicit robust neutralising responses approximately 8- or 9fold above baseline against RSV A and RSV B in participants ≥ 18 years of age with
-
-<div style=\"page-break-after: always\"></div>
-
-immunocompromising conditions (n=188). Responses did not further increase with a second dose of Abrysvo 1 month after the first dose.
+A single dose of Abrysvo was sufficient to elicit robust neutralising responses approximately 8- or 9fold above baseline against RSV A and RSV B in participants ≥ 18 years of age with immunocompromising conditions (n=188). Responses did not further increase with a second dose of Abrysvo 1 month after the first dose.
 
 ## Paediatric population
 
@@ -413,13 +401,17 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 ## 6.1 List of excipients
 
-## Powder
+Abrysvo powder and solvent for solution for injection
 
-Trometamol Trometamol hydrochloride Sucrose Mannitol (E421) Polysorbate 80 (E433) Sodium chloride Hydrochloric acid (for pH adjustment)
+Powder Trometamol Trometamol hydrochloride Sucrose Mannitol (E421) Polysorbate 80 (E433) Sodium chloride Hydrochloric acid (for pH adjustment)
 
-## Solvent
+Solvent Water for injections
 
-Water for injections
+Abrysvo powder and solvent for solution for injection in multidose container
+
+Powder Trometamol Trometamol hydrochloride Sucrose Mannitol (E421) Polysorbate 80 (E433) Sodium chloride Hydrochloric acid (for pH adjustment)
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.2 Incompatibilities
 
@@ -427,21 +419,31 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## 4 years
+Abrysvo powder and solvent for solution for injection
 
-The unopened vial is stable for 5 days when stored at temperatures from 8°C to 30°C. At the end of this period Abrysvo should be used or discarded. This information is used to guide healthcare professionals in case of temporary temperature excursions only.
+4 years
+
+Abrysvo powder and solvent for solution for injection in multidose container
+
+18 months
+
+The unopened vial of antigens is stable for 5 days when stored at temperatures from 8 °C to 30 °C. At the end of this period Abrysvo should be used or discarded. This information is used to guide healthcare professionals in case of temporary temperature excursions only.
 
 ## After reconstitution
 
-Abrysvo should be administered immediately after reconstitution or within 4 hours if stored between 15°C and 30°C. Do not freeze.
+## Abrysvo powder and solvent for solution for injection Single dose vials
 
-Chemical and physical in-use stability has been demonstrated for 4 hours between 15°C and 30°C. From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user.
+Abrysvo should be administered immediately after reconstitution or within 4 hours if stored between 15 °C and 30 °C. Do not freeze.
 
-<div style=\"page-break-after: always\"></div>
+Chemical and physical in-use stability has been demonstrated for 4 hours between 15 °C and 30 °C. From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user.
+
+## Abrysvo powder and solvent for solution for injection in multidose container Multidose vials
+
+After reconstitution, store in a refrigerator (2 °C to 8 °C). Abrysvo should be administered within 8 hours with no more than 4 hours stored at room temperature (up to 30 °C). Do not freeze.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2ºC - 8ºC).
+Store in a refrigerator (2 ºC - 8 ºC).
 
 Do not freeze. Discard if the carton has been frozen.
 
@@ -449,19 +451,17 @@ For storage conditions after reconstitution of the medicinal product, see sectio
 
 ## 6.5 Nature and contents of container
 
-Vial of antigens for Abrysvo (powder) and pre-filled syringe of solvent
+Abrysvo powder and solvent for solution for injection
 
-Powder for 1 dose in a vial (type 1 glass or equivalent) with a stopper (synthetic bromobutyl rubber or synthetic chlorobutyl rubber) and a flip off cap
+## Pre-filled syringe
 
-Solvent for 1 dose in a pre-filled syringe (type 1 glass) with a stopper (synthetic chlorobutyl rubber) and a tip cap (synthetic isoprene/bromobutyl blend rubber)
+Powder for 1 dose in a vial (type 1 glass or equivalent) with a stopper (synthetic bromobutyl rubber or synthetic chlorobutyl rubber) and a flip off cap.
 
-Vial adaptor
+<div style=\"page-break-after: always\"></div>
 
-## Vial of antigens for Abrysvo (powder) and vial of solvent
+Solvent for 1 dose in a pre-filled syringe (type 1 glass) with a stopper (synthetic chlorobutyl rubber) and a tip cap (synthetic isoprene/bromobutyl blend rubber).
 
-Powder for 1 dose in a vial (type 1 glass or equivalent) with a stopper (synthetic bromobutyl rubber or synthetic chlorobutyl rubber) and a flip off cap
-
-Solvent for 1 dose in a vial (type 1 glass or equivalent) with a stopper (synthetic bromobutyl rubber) and a flip off cap
+Vial adaptor.
 
 ## Pack sizes
 
@@ -471,21 +471,43 @@ Pack containing 5 vials of powder (antigens), 5 pre-filled syringes of solvent, 
 
 Pack containing 10 vials of powder (antigens), 10 pre-filled syringes of solvent, 10 vial adaptors with 10 needles or without needles (10 dose pack).
 
-Pack containing 5 vials of powder (antigens) and 5 vials of solvent (5 dose pack).
+## Single dose vials
 
-Pack containing 10 vials of powder (antigens) and 10 vials of solvent (10 dose pack).
+Powder for 1 dose in a vial (type 1 glass or equivalent) with a stopper (synthetic bromobutyl rubber or synthetic chlorobutyl rubber) and a flip off cap.
+
+Solvent for 1 dose in a vial (type 1 glass or equivalent) with a stopper (synthetic bromobutyl rubber) and a flip off cap.
+
+## Pack sizes
+
+Pack containing 5 vials of powder (antigens) and 5 vials of solvent (5 dose pack). Pack containing 10 vials of powder (antigens) and 10 vials of solvent (10 dose pack).
+
+Abrysvo powder and solvent for solution for injection in multidose container
+
+## Multidose vials
+
+Powder for 3 doses in a vial (type 1 glass or equivalent) with a stopper (synthetic bromobutyl rubber) and a flip off cap.
+
+Solvent for 3 doses in a vial (type 1 glass or equivalent) with a stopper (synthetic bromobutyl rubber) and a flip off cap.
+
+## Pack sizes
+
+Pack containing 10 multidose vials of powder (antigens) and 10 multidose vials of solvent (30 dose pack).
 
 Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-For use of vial of antigens for Abrysvo (powder), pre-filled syringe of solvent and vial adaptor
+## Abrysvo powder and solvent for solution for injection
+
+## Pre-filled syringe
 
 Abrysvo must be reconstituted prior to administration by adding the entire contents of the pre-filled syringe of solvent to the vial containing the powder using the vial adaptor.
 
 The vaccine must be reconstituted only with the solvent provided.
 
 <div style=\"page-break-after: always\"></div>
+
+## Preparation for administration
 
 ## Pre-filled syringe containing solvent for Abrysvo
 
@@ -518,21 +540,33 @@ Syringe cap Luer lock adaptor
 
 The prepared vaccine is a clear and colourless solution. Visually inspect the vaccine for large particulate matter and discolouration prior to administration. Do not use if large particulate matter or discolouration is found.
 
+## Single dose vials
+
+The vial containing antigens for Abrysvo (powder) must be reconstituted only with the vial of solvent provided to form Abrysvo.
+
 Vial stopper (with flip off cap removed)
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-## For use of vial of antigens for Abrysvo (powder) and vial of solvent
-
-The vial containing antigens for Abrysvo (powder) must be reconstituted only with the vial of solvent provided to form Abrysvo.
-
 ## Preparation for administration
 
 1. Using a sterile needle and sterile syringe, withdraw the entire contents of the vial containing the solvent and inject the entire contents of the syringe into the vial containing the powder.
 2. Gently swirl the vial in a circular motion until the powder is completely dissolved. Do not shake.
 3. Withdraw 0.5 mL from the vial containing the reconstituted vaccine.
+
+Abrysvo powder and solvent for solution for injection in multidose container
+
+## Multidose vials
+
+The multidose vial containing antigens for Abrysvo (powder) must be reconstituted only with the multidose vial of solvent provided to form Abrysvo. Abrysvo is administered as a single dose of 0.5 mL. The maximum number of doses per multidose vial is 3.
+
+## Preparation for administration
+
+1. Using a sterile needle and sterile syringe, withdraw the entire contents of the vial containing the solvent and inject the entire contents of the syringe into the vial containing the powder.
+2. Gently swirl the vial in a circular motion until the powder is completely dissolved. Do not shake. Withdraw 0.5 mL (1 dose) from the vial containing the reconstituted vaccine.
+3. Repeat step 2 using a new sterile needle and sterile syringe to withdraw additional 0.5 mL doses from the vial containing the reconstituted vaccine. The maximum number of doses per multidose vial is 3. After preparing 3 doses, dispose of any unused vaccine.
 
 The prepared vaccine is a clear and colourless solution. Visually inspect the vaccine for large particulate matter and discolouration prior to administration. Do not use if large particulate matter or discolouration is found.
 
@@ -562,6 +596,10 @@ EU/1/23/1752/007 - 5 vials (antigens), 5 vials (solvent)
 
 EU/1/23/1752/008 - 10 vials (antigens), 10 vials (solvent)
 
+EU/1/23/1752/009 - 10 multidose vials (antigens), 10 multidose vials (solvent)
+
+<div style=\"page-break-after: always\"></div>
+
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 23 August 2023
@@ -587,11 +625,11 @@ Name and address of the manufacturer of the biological active substances
 
 Wyeth Pharmaceuticals LLC 1 Burtt Rd Andover, MA 01810 USA
 
-Name and address of the manufacturers responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
-Pfizer Manufacturing Belgium NV Rijksweg 12 2870 Puurs-Sint-Amands Belgium
+Pfizer Manufacturing Belgium NV
 
-Pfizer Ireland Pharmaceuticals Grange Castle Business Park Clondalkin, Dublin 22 Ireland
+Rijksweg 12 2870 Puurs-Sint-Amands Belgium
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -611,8 +649,6 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
-<div style=\"page-break-after: always\"></div>
-
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
@@ -621,8 +657,11 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 - At the request of the European Medicines Agency;
+
+<div style=\"page-break-after: always\"></div>
+
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -713,6 +752,8 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+For adults or pregnant individuals only
+
 ## 8. EXPIRY DATE
 
 EXP
@@ -723,17 +764,11 @@ Store in a refrigerator. Do not freeze. Discard if the carton has been frozen.
 
 After reconstitution, use immediately or within 4 hours if stored between 15°C and 30°C.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Pfizer Europe MA EEIG
-
-Boulevard de la Plaine 17
-
-1050 Bruxelles
-
-Belgium
+Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -741,10 +776,10 @@ Belgium
 - EU/1/23/1752/002 - 1 vial (antigens), 1 vial adaptor, 1 pre-filled syringe (solvent)
 - EU/1/23/1752/003 - 5 vials (antigens), 5 vial adaptors, 5 pre-filled syringes (solvent), 5 needles
 - EU/1/23/1752/004 - 5 vials (antigens), 5 vial adaptors, 5 pre-filled syringes (solvent)
-- EU/1/23/1752/005 - 10 vials (antigens), 10 vial adaptors, 10 pre-filled syringes (solvent), 10 needles
-- EU/1/23/1752/006 - 10 vials (antigens), 10 vial adaptors, 10 pre-filled syringes (solvent)
 
 <div style=\"page-break-after: always\"></div>
+
+EU/1/23/1752/005 - 10 vials (antigens), 10 vial adaptors, 10 pre-filled syringes (solvent), 10 needles EU/1/23/1752/006 - 10 vials (antigens), 10 vial adaptors, 10 pre-filled syringes (solvent)
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -776,7 +811,11 @@ PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING - OUTER CARTON
 
-5 VIALS (POWDER) AND 5 VIALS (SOLVENT) 10 VIALS (POWDER) AND 10 VIALS (SOLVENT)
+SINGLE DOSE VIALS
+
+5 VIALS (POWDER) AND 5 VIALS (SOLVENT)
+
+10 VIALS (POWDER) AND 10 VIALS (SOLVENT)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -798,7 +837,7 @@ Trometamol, trometamol hydrochloride, sucrose, mannitol, polysorbate 80, sodium 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Powder and solvent for solution for injection
+Powder and solvent for solution for injection
 
 5 vials with powder (antigens)
 
@@ -818,6 +857,100 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+For adults or pregnant individuals only
+
+<div style=\"page-break-after: always\"></div>
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze. Discard if the carton has been frozen.
+
+After reconstitution, use immediately or within 4 hours if stored between 15°C and 30°C.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/23/1752/007 - 5 vials (antigens), 5 vials (solvent)
+
+EU/1/23/1752/008 - 10 vials (antigens), 10 vials (solvent)
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Justification for not including Braille accepted.
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING - OUTER CARTON
+
+MULTIDOSE VIALS
+
+10 VIALS (POWDER) AND 10 VIALS (SOLVENT)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Abrysvo powder and solvent for solution for injection in multidose container Respiratory syncytial virus vaccine (bivalent, recombinant)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCES
+
+After reconstitution, one dose (0.5 mL) contains:
+
+RSV subgroup A stabilised prefusion F antigen 60 micrograms
+
+RSV subgroup B stabilised prefusion F antigen 60 micrograms
+
+## 3. LIST OF EXCIPIENTS
+
+Trometamol, trometamol hydrochloride, sucrose, mannitol, polysorbate 80, sodium chloride, hydrochloric acid, water for injections, 2-phenoxyethanol. See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Powder and solvent for solution for injection in multidose container
+
+- 10 multidose vials with powder (antigens)
+- 10 multidose vials of solvent
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Intramuscular use after reconstitution
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+For adults or pregnant individuals only
+
 ## 8. EXPIRY DATE
 
 EXP
@@ -828,27 +961,27 @@ EXP
 
 Store in a refrigerator. Do not freeze. Discard if the carton has been frozen.
 
-After reconstitution, use immediately or within 4 hours if stored between 15°C and 30°C.
+After reconstitution, store in a refrigerator (2°C to 8°C). Administer within 8 hours with no more than 4 hours stored at room temperature (up to 30°C).
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Pfizer Europe MA EEIG
-
-Boulevard de la Plaine 17 1050 Bruxelles Belgium
+Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/23/1752/007 - 5 vials (antigens), 5 vials (solvent) EU/1/23/1752/008 - 10 vials (antigens), 10 vials (solvent)
+EU/1/23/1752/009 - 10 multidose vials (antigens), 10 multidose vials (solvent)
 
 ## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -856,7 +989,7 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
@@ -868,7 +1001,7 @@ NN
 
 | MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
 |--------------------------------------------------------------------|
-| VIAL LABEL (POWDER)                                                |
+| SINGLE DOSE VIALS VIAL LABEL (POWDER)                              |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -896,37 +1029,43 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
-MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+<div style=\"page-break-after: always\"></div>
 
-PRE-FILLED SYRINGE (SOLVENT)
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| MULTIDOSE VIALS VIAL LABEL (POWDER)                                |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-Solvent for Abrysvo
+Antigens for Abrysvo IM
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENT BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|-------------------------------------------|
 
-0.5 mL
+3 doses
 
-## 6. OTHER
-
-<div style=\"page-break-after: always\"></div>
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
 | MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
 |--------------------------------------------------------------------|
-| VIAL (SOLVENT)                                                     |
+| PRE-FILLED SYRINGE (SOLVENT)                                       |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
@@ -950,6 +1089,70 @@ Lot
 |------|--------------------------------------------|
 
 0.5 mL
+
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SINGLE DOSE VIALS VIAL (SOLVENT)                                   |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+Solvent for Abrysvo
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+0.5 mL
+
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| MULTIDOSE VIALS VIAL (SOLVENT)                                     |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+Solvent for Abrysvo
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+2 mL
 
 | 6.   | OTHER   |
 |------|---------|
@@ -1047,7 +1250,7 @@ This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say 
 
 ## Abrysvo contains polysorbate 80
 
-One dose of Abrysvo contains 0.08 mg of polysorbate 80. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+This medicine contains 0.08 mg of polysorbate 80 in each dose. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How Abrysvo is given
 
@@ -1133,27 +1336,17 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2ºC - 8ºC).
+Store in a refrigerator (2 ºC - 8 ºC).
 
 Do not freeze. Discard if the carton has been frozen.
 
-After reconstitution Abrysvo should be administered immediately or within 4 hours if stored between 15°C and 30°C. Do not freeze.
+After reconstitution Abrysvo should be administered immediately or within 4 hours if stored between 15 °C and 30 °C. Do not freeze.
 
 ## 6. Contents of the pack and other information
 
 ## What Abrysvo contains
 
-The active substances are:
-
-RSV subgroup B stabilised prefusion F antigen 1,2
-
-RSV subgroup A stabilised prefusion F antigen 1,2
-
-(RSV antigens)
-
-2 produced in Chinese Hamster Ovary cells by recombinant DNA technology.
-
-1 glycoprotein F stabilised in the prefusion conformation
+The active substances are: RSV subgroup A stabilised prefusion F antigen 1,2 60 micrograms RSV subgroup B stabilised prefusion F antigen 1,2 60 micrograms (RSV antigens) 1 glycoprotein F stabilised in the prefusion conformation 2 produced in Chinese Hamster Ovary cells by recombinant DNA technology.
 
 The other ingredients are:
 
@@ -1184,10 +1377,6 @@ After dissolving the powder in the solvent, the solution is clear and colourless
 
 - a carton containing 1 vial of powder, 1 pre-filled syringe of solvent, 1 vial adaptor, with 1 needle or without needles (1 dose pack).
 
-60 micrograms
-
-60 micrograms
-
 <div style=\"page-break-after: always\"></div>
 
 - a carton containing 5 vials of powder, 5 pre-filled syringes of solvent, 5 vial adaptors, with 5 needles or without needles (5 dose pack).
@@ -1205,8 +1394,6 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 Pfizer Manufacturing Belgium NV Rijksweg 12 2870 Puurs-Sint-Amands Belgium
 
-Pfizer Ireland Pharmaceuticals Grange Castle Business Park Clondalkin, Dublin 22 Ireland
-
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien Luxembourg/Luxemburg
@@ -1215,9 +1402,21 @@ Pfizer NV/SA
 
 Tél/Tel: + 32 (0)2 554 62 11
 
+## Latvija
+
+Pfizer Luxembourg SARL fili ā le Latvij ā
+
+Tel.: + 371 670 35 775
+
 ## България
 
 Пфайзер Люксембург САРЛ , Клон България Te л : +359 2 970 4333
+
+## Lietuva
+
+Pfizer Luxembourg SARL filialas Lietuvoje
+
+Tel: +370 5 251 4000
 
 ## Č eská republika
 
@@ -1225,39 +1424,17 @@ Pfizer, spol. s r.o.
 
 Tel: +420 283 004 111
 
-## Danmark
-
-Pfizer ApS
-
-Tlf.: + 45 44 20 11 00
-
-## Deutschland
-
-PFIZER PHARMA GmbH
-
-Tel: +49 (0)30 550055-51000
-
-## Eesti
-
-Pfizer Luxembourg SARL Eesti filiaal
-
-Tel: +372 666 7500
-
-## Latvija
-
-Pfizer Luxembourg SARL fili ā le Latvij ā
-
-Tel.: + 371 670 35 775
-
-## Lietuva
-
-Pfizer Luxembourg SARL filialas Lietuvoje Tel: +370 5 251 4000
-
 ## Magyarország
 
 Pfizer Kft
 
 Tel: + 36 1 488 37 00
+
+## Danmark
+
+Pfizer ApS
+
+Tlf.: + 45 44 20 11 00
 
 ## Malta
 
@@ -1265,11 +1442,23 @@ Vivian Corporation Ltd.
 
 Tel: + 356 21344610
 
+## Deutschland
+
+PFIZER PHARMA GmbH
+
+Tel: +49 (0)30 550055-51000
+
 ## Nederland
 
 Pfizer bv
 
 Tel: +31 (0)800 63 34 636
+
+## Eesti
+
+Pfizer Luxembourg SARL Eesti filiaal
+
+Tel: +372 666 7500
 
 ## Norge
 
@@ -1405,17 +1594,17 @@ Tel: +46 (0)8 550 520 00
 
 Abrysvo is for intramuscular use only.
 
-The unopened vial is stable for 5 days when stored at temperatures from 8°C to 30°C. At the end of this period Abrysvo should be used or discarded. This information is used to guide healthcare professionals in case of temporary temperature excursions only.
+The unopened vial is stable for 5 days when stored at temperatures from 8 °C to 30 °C. At the end of this period Abrysvo should be used or discarded. This information is used to guide healthcare professionals in case of temporary temperature excursions only.
 
 ## Storage of reconstituted vaccine
 
-Abrysvo should be used immediately after reconstitution or within 4 hours. Store the reconstituted vaccine between 15ºC and 30ºC. Do not freeze reconstituted vaccine.
+Abrysvo should be used immediately after reconstitution or within 4 hours. Store the reconstituted vaccine between 15 ºC and 30 ºC. Do not freeze reconstituted vaccine.
 
-Chemical and physical in-use stability has been demonstrated for 4 hours between 15°C and 30°C. From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user.
+Chemical and physical in-use stability has been demonstrated for 4 hours between 15 °C and 30 °C. From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user.
 
 ## Preparation for administration
 
-For use of vial of antigens for Abrysvo (powder), pre-filled syringe of solvent and vial adaptor
+## Abrysvo powder and solvent for solution for injection Pre-filled syringe
 
 The powder must be reconstituted only with the solvent provided in the pre-filled syringe using the vial adaptor.
 
@@ -1452,7 +1641,7 @@ Vial stopper (with flip off cap removed)
 
 The prepared vaccine is a clear and colourless solution. Visually inspect the vaccine for large particulate matter and discolouration prior to administration. Do not use if large particulate matter or discolouration is found.
 
-## For use of vial of antigens for Abrysvo (powder) and vial of solvent
+## Abrysvo powder and solvent for solution for injection Single dose vials
 
 The powder must be reconstituted only with the vial of solvent provided.
 
@@ -1465,3 +1654,506 @@ The prepared vaccine is a clear and colourless solution. Visually inspect the va
 ## Disposal
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
+
+## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
+
+## Abrysvo powder and solvent for solution for injection in multidose container
+
+Respiratory syncytial virus vaccine (bivalent, recombinant)
+
+<!-- image -->
+
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
+## Read all of this leaflet carefully before you receive this vaccine because it contains important information for you.
+
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor, pharmacist or nurse.
+- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Abrysvo is and what it is used for
+2. What you need to know before you receive Abrysvo
+3. How Abrysvo is given
+4. Possible side effects
+5. How to store Abrysvo
+6. Contents of the pack and other information
+
+## 1. What Abrysvo is and what it is used for
+
+Abrysvo is a vaccine to prevent lung (respiratory tract) disease caused by a virus called respiratory syncytial virus (RSV). Abrysvo is given to:
+
+- pregnant individuals to protect their infants from birth through 6 months of age
+- individuals 18 years of age and older.
+
+or
+
+RSV is a common virus which, in most cases, causes mild, cold-like symptoms such as a sore throat, cough or a blocked nose. However, in young infants RSV can cause serious lung problems. In older adults and people with chronic medical conditions, RSV can worsen illnesses such as chronic obstructive pulmonary disease (COPD) and congestive heart failure (CHF). RSV can lead to hospitalisation in severe cases and in some cases it can be fatal.
+
+## How Abrysvo works
+
+This vaccine helps the immune system (the body's natural defences) to make antibodies (substances in the blood that help the body fight infections) which protect against lung disease caused by RSV. In pregnant individuals who are vaccinated between weeks 24 and 36 of pregnancy, these antibodies are passed to the infant through the placenta before birth which protects infants when they are at most risk from RSV.
+
+## 2. What you need to know before you receive Abrysvo
+
+## Abrysvo should not be given
+
+- if you are allergic to the active substances or any of the other ingredients of this vaccine (listed in section 6).
+
+<div style=\"page-break-after: always\"></div>
+
+## Warnings and precautions
+
+Talk to your doctor, pharmacist or nurse before you are given this vaccine
+
+- if you are feeling nervous about getting the vaccine or have ever fainted after any injection. Fainting can happen before or after any injection.
+- if you have ever had a severe allergic reaction or breathing problems after you received any other vaccine injection or after you were given Abrysvo in the past.
+- if you have an infection with a high fever. If this is the case, then vaccination will be postponed. There is no need to delay vaccination for a minor infection, such as a cold, but talk to your doctor first.
+- if you have a weakened immune system which may prevent you from getting the full benefit from Abrysvo.
+- if you have a bleeding problem or bruise easily.
+- if you are less than 24 weeks pregnant.
+
+If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist or nurse before you are given Abrysvo.
+
+As with any vaccine, Abrysvo may not fully protect all those who receive it.
+
+## Children and adolescents
+
+Abrysvo is not recommended in children and young people below 18 years of age except during pregnancy (see 'Pregnancy' section below).
+
+## Other medicines and Abrysvo
+
+Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines or have recently received any other vaccine.
+
+Abrysvo may be given at the same time as a flu vaccine or a COVID-19 vaccine. A gap of at least two weeks is recommended between administration of Abrysvo and administration of a vaccine against tetanus, diphtheria and acellular pertussis (whooping cough).
+
+## Pregnancy and breast-feeding
+
+Pregnant individuals can be given this vaccine in the late second or third trimester (weeks 24 to 36). Talk to your doctor or nurse for advice before getting this vaccine if you are breast-feeding.
+
+## Driving and using machines
+
+Abrysvo is unlikely to affect your ability to drive or use machines.
+
+## Abrysvo contains sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+
+## Abrysvo contains polysorbate 80
+
+This medicine contains 0.08 mg of polysorbate 80 in each dose. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+## 3. How Abrysvo is given
+
+You will be given one injection of 0.5 mL into a muscle of your upper arm.
+
+If you have any questions on the use of Abrysvo, ask your doctor, pharmacist or nurse.
+
+## 4. Possible side effects
+
+Like all vaccines, this vaccine can cause side effects, although not everybody gets them.
+
+<div style=\"page-break-after: always\"></div>
+
+## Serious side effects
+
+## Very rare (may affect up to 1 in 10 000 people)
+
+- Guillain-Barré syndrome (a neurological disorder that usually starts with pins and needles and weakness of the limbs and may progress up to paralysis of part or all of the body).
+- severe allergic reactions - signs of a severe allergic reaction include swelling of the face, lips, tongue or throat, difficulty breathing or swallowing and dizziness. See also section 2.
+
+Tell your doctor immediately if you notice signs of these serious side effects.
+
+## The following side effects were reported in pregnant individuals
+
+## Very common (may affect more than 1 in 10 people)
+
+- headache
+- pain where the injection is given
+- muscle pain (myalgia).
+
+## Common (may affect up to 1 in 10 people)
+
+- swelling where the injection is given.
+- redness where the injection is given
+
+## Rare (may affect up to 1 in 1 000 people)
+
+- swollen glands (lymphadenopathy).
+- allergic reactions such as rash or hives
+
+No side effects were reported in infants born to vaccinated mothers.
+
+## The following side effects were reported in individuals 18 years of age and older
+
+## Very common (may affect more than 1 in 10 people)
+
+- headache
+- tiredness (fatigue)
+- pain where the injection is given
+- muscle pain (myalgia).
+
+## Common (may affect up to 1 in 10 people)
+
+- redness where the injection is given
+- joint pain (arthralgia)
+- swelling where the injection is given.
+
+## Uncommon (may affect up to 1 in 100 people)
+
+- fever (pyrexia).
+
+## Rare (may affect up to 1 in 1 000 people)
+
+- swollen glands (lymphadenopathy)
+- allergic reactions such as rash or hives
+- bruising where the injection is given (haematoma)
+- itching where the injection is given (pruritus).
+
+## Very rare (may affect up to 1 in 10 000 people)
+
+- Guillain-Barré syndrome (see Serious side effects, above).
+- severe allergic reactions (see Serious side effects, above)
+
+<div style=\"page-break-after: always\"></div>
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Abrysvo
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
+
+Store in a refrigerator (2 ºC - 8 ºC).
+
+Do not freeze. Discard if the carton has been frozen.
+
+After reconstitution, store in a refrigerator (2 °C to 8 °C). Administer within 8 hours with no more than 4 hours stored at room temperature (up to 30 °C).
+
+## 6. Contents of the pack and other information
+
+## What Abrysvo contains
+
+The active substances are:
+
+RSV subgroup B stabilised prefusion F antigen 1,2
+
+RSV subgroup A stabilised prefusion F antigen 1,2
+
+(RSV antigens)
+
+2 produced in Chinese Hamster Ovary cells by recombinant DNA technology.
+
+1 glycoprotein F stabilised in the prefusion conformation
+
+The other ingredients are:
+
+## Powder
+
+- trometamol hydrochloride
+- trometamol
+- sucrose
+- polysorbate 80 (E433)
+- mannitol (E421)
+- sodium chloride
+
+## Solvent
+
+- hydrochloric acid
+- water for injections
+- 2 -phenoxyethanol
+
+## What Abrysvo looks like and contents of the pack
+
+Abrysvo is provided as
+
+- a solvent in a multidose vial to dissolve the powder
+- a white powder in a multidose glass vial
+
+After dissolving the powder in the solvent, the solution is clear and colourless. The maximum number of doses per vial is 3.
+
+Abrysvo is available in a carton containing 10 multidose vials of powder and 10 multidose vials of solvent (30 dose pack).
+
+60 micrograms
+
+60 micrograms
+
+<div style=\"page-break-after: always\"></div>
+
+## Marketing Authorisation Holder
+
+Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
+
+## Manufacturer
+
+Pfizer Manufacturing Belgium NV Rijksweg 12 2870 Puurs-Sint-Amands Belgium
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+## Luxembourg/Luxemburg
+
+Pfizer NV/SA
+
+Tél/Tel: + 32 (0)2 554 62 11
+
+## България
+
+Пфайзер Люксембург САРЛ , Клон България
+
+Te л
+
+: +359 2 970 4333
+
+## Č eská republika
+
+Pfizer, spol. s r.o.
+
+Tel: +420 283 004 111
+
+## Danmark
+
+Pfizer ApS
+
+Tlf.: + 45 44 20 11 00
+
+## Deutschland
+
+PFIZER PHARMA GmbH
+
+Tel: +49 (0)30 550055-51000
+
+## Eesti
+
+Pfizer Luxembourg SARL Eesti filiaal
+
+Tel: +372 666 7500
+
+## Ελλάδα
+
+Pfizer Ελλάς A.E.
+
+Τηλ
+
+.: +30 210 6785800
+
+## España
+
+Pfizer, S.L.
+
+Télf: +34 91 490 99 00
+
+## France
+
+Pfizer
+
+Tél +33 (0)1 58 07 34 40
+
+## Latvija
+
+Pfizer Luxembourg SARL fili ā le Latvij ā
+
+Tel.: + 371 670 35 775
+
+## Lietuva
+
+Pfizer Luxembourg SARL
+
+filialas Lietuvoje
+
+Tel: +370 5 251 4000
+
+## Magyarország
+
+Pfizer Kft
+
+Tel: + 36 1 488 37 00
+
+## Malta
+
+Vivian Corporation Ltd.
+
+Tel: + 356 21344610
+
+## Nederland
+
+Pfizer bv
+
+Tel: +31 (0)800 63 34 636
+
+## Norge
+
+Pfizer AS
+
+Tlf: +47 67 52 61 00
+
+## Österreich
+
+Pfizer Corporation Austria Ges.m.b.H
+
+Tel: +43 (0)1 521 15-0
+
+## Polska
+
+Pfizer Polska Sp. z o.o.
+
+Tel.: +48 22 335 61 00
+
+## Portugal
+
+Laboratórios Pfizer, Lda.
+
+Tel: +351 21 423 5500
+
+<div style=\"page-break-after: always\"></div>
+
+## Hrvatska
+
+## România
+
+Pfizer Croatia d.o.o.
+
+Tel: + 385 1 3908 777
+
+Pfizer Romania S.R.L
+
+Tel: +40 (0) 21 207 28 00
+
+## Ireland
+
+Pfizer Healthcare Ireland Unlimited Company
+
+Tel: +1800 633 363 (toll free)
+
+Tel: +44 (0)1304 616161
+
+## Slovenija
+
+Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s podro č ja farmacevtske dejavnosti, Ljubljana
+
+Tel.: +386 (0)1 52 11 400
+
+## Ísland
+
+Icepharma hf.
+
+Simi: + 354 540 8000
+
+## Slovenská republika
+
+Pfizer Luxembourg SARL, organiza č ná zložka
+
+Tel: + 421 2 3355 5500
+
+## Italia
+
+Pfizer S.r.l.
+
+Tel: +39 06 33 18 21
+
+## Suomi/Finland
+
+Pfizer Oy
+
+Puh/Tel: +358 (0)9 430 040
+
+## K ύπρος
+
+Pfizer Ελλάς Α . Ε . (Cyprus Branch)
+
+T ηλ
+
+: +357 22817690
+
+## Sverige
+
+Pfizer AB
+
+Tel: +46 (0)8 550 520 00
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+https://www.ema.europa.eu
+
+---------------------------------------------------------------------------------------------------------------------------
+
+## The following information is intended for healthcare professionals only:
+
+## Traceability
+
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+## Administration
+
+Abrysvo is for intramuscular use only.
+
+The unopened vial is stable for 5 days when stored at temperatures from 8 °C to 30 °C. At the end of this period Abrysvo should be used or discarded. This information is used to guide healthcare professionals in case of temporary temperature excursions only.
+
+## Storage of reconstituted vaccine
+
+After reconstitution, store in a refrigerator (2 °C to 8 °C). Abrysvo should be administered within 8 hours with no more than 4 hours stored at room temperature (up to 30 °C). Do not freeze.
+
+<div style=\"page-break-after: always\"></div>
+
+## Preparation for administration
+
+## Abrysvo powder and solvent for solution for injection in multidose container Multidose vials
+
+The multidose vial containing antigens for Abrysvo (powder) must be reconstituted only with the multidose vial of solvent provided to form Abrysvo. Abrysvo is administered as a single dose of 0.5 mL. The maximum number of doses per multidose vial is 3.
+
+## Preparation for administration
+
+1. Using a sterile needle and sterile syringe, withdraw the entire contents of the vial containing the solvent and inject the entire contents of the syringe into the vial containing the powder.
+2. Gently swirl the vial in a circular motion until the powder is completely dissolved. Do not shake. Withdraw 0.5 mL (1 dose) from the vial containing the reconstituted vaccine.
+3. Repeat step 2 using a new sterile needle and sterile syringe to withdraw additional 0.5 mL doses from the vial containing the reconstituted vaccine. The maximum number of doses per multidose vial is 3. After preparing 3 doses, dispose of any unused vaccine.
+
+The prepared vaccine is a clear and colourless solution. Visually inspect the vaccine for large particulate matter and discolouration prior to administration. Do not use if large particulate matter or discolouration is found.
+
+## Disposal
+
+Any unused product or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
+
+## Annex IV
+
+Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for respiratory syncytial virus vaccine (bivalent, recombinant), the scientific conclusions of PRAC are as follows:
+
+Based on the PRAC Rapporteur review of data on safety and efficacy, the PRAC considers that the risk-benefit balance of medicinal products containing Respiratory Syncytial Virus vaccine (bivalent, recombinant) remains unchanged but recommends that the terms of the marketing authorisation should be varied. In view of available data on medication errors from spontaneous reports involving neonates, the PRAC concluded that the product information of products containing Respiratory Syncytial Virus vaccine (bivalent, recombinant) should be amended as follows:
+
+Updates of section 4.1 of the SmPC to reword the indication and inclusion of a warning in section 7 of the labelling, to clarify that the product should be given to adults and pregnant individuals only.
+
+Having reviewed the PRAC recommendation, the CHMP does not agree with the PRAC overall conclusions and grounds for recommendation.
+
+## Detailed explanation of the scientific grounds for the differences from the PRAC recommendation
+
+The CHMP acknowledges the reported medication errors from spontaneous reports involving neonates and agrees with the proposed updates to section 4.1 of the SmPC to revise the indication. Additionally, the CHMP approves the inclusion of the proposed warning in section 7 of the labelling, as an appropriate risk minimisation measure, provided that the word 'and' is replaced with 'or,' to accurately reflect the population of pregnant adolescents. The revised text reads as follows:
+
+- Labelling
+
+Section 7. Other special warning(s) :
+
+## 'For adults and or pregnant individuals only.'
+
+The CHMP, in accordance with the PRAC, considers that the package leaflet is aligned with the revised wording laid down in the section 4.1 of the SmPC and therefore does not require any updates.
+
+Taking into account the PRAC recommendation and the CHMP discussion, the CHMP is of the opinion that the risk-benefit balance of medicinal products respiratory syncytial virus vaccine (bivalent, recombinant) remains unchanged but recommends by majority decision that the terms of the marketing authorisation(s) should be varied as follows:
+
+Updates of section 4.1 of the SmPC to reword the indication and inclusion of a warning in section 7 of the labelling, to clarify that the product should be given to adults or pregnant individuals only.

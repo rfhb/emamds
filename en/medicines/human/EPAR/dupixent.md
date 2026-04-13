@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-01-07 16:45:00
+document_datetime: 2026-04-10 09:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dupixent.html
 document_name: dupixent.html
 version: success
-processing_time: 0.3353907
-conversion_datetime: 2026-01-10 11:12:01.272348
+processing_time: 0.173603
+conversion_datetime: 2026-04-13 14:05:27.865192
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Dupixent
 
 [RSS](/en/individual-human-medicine.xml/66621)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-dupilumab Medicine Human Authorised
+dupilumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -51,11 +51,11 @@ Dupixent is a medicine used to treat:
 
 - moderate to severe atopic dermatitis (also known as atopic eczema, when the skin is itchy, red and dry) in patients aged 12 years and over when topical treatments (treatments applied to the skin) are not sufficient or appropriate. Patients from 6 months up to 12 years of age can also be given the medicine if their condition is severe;
 - severe asthma in patients aged 6 years and over whose asthma is not properly controlled by appropriate combination therapy (corticosteroids taken by inhalation plus another medicine used for the prevention of asthma). Dupixent is added to maintenance treatment and is only for use in patients with a type of inflammation of the airways called 'type 2 inflammation';
-- chronic (long-term) obstructive pulmonary disease (COPD), a disease that causes breathing difficulties due to airway obstruction and damage to the lungs. Dupixent is used in adults who have increased levels of eosinophils (a type of white blood cell) and whose disease is not controlled well enough with a combination of a long-acting beta-2 agonist, a long-acting muscarinic agonist and an inhaled corticosteroid (other COPD medicines), or a combination of the first two if an inhaled corticosteroid is not appropriate. It is used with other medicines as maintenance (regular) treatment;
+- chronic (long-term) obstructive pulmonary disease (COPD), a disease that causes breathing difficulties due to airway obstruction and damage to the lungs. Dupixent is used in adults who have increased levels of eosinophils (a type of white blood cell) and whose disease is not controlled well enough with a combination of a long-acting beta-2 agonist, a long-acting muscarinic agonist and an inhaled corticosteroid (other COPD medicines), or a combination of the first two if an inhaled corticosteroid is not appropriate. It is used with other medicines as maintenance (continuing) treatment;
 - inflammation of the nose and sinuses together with growths (polyps) obstructing the airways in the nose (chronic rhinosinusitis with nasal polyposis). It is used in adults in addition to local treatment with corticosteroids when other treatments have not worked well enough;
 - moderate-to-severe prurigo nodularis (a long-term skin disease with a rash causing lumps with intense itching) in adults. It is used with or without topical (applied to the skin) corticosteroids;
-- eosinophilic oesophagitis (an allergic inflammatory condition of the foodpipe) in adults and children from 1 year of age and weighing at least 15 kg, who cannot take conventional treatment or for whom it is not working;
-- moderate to severe chronic spontaneous urticaria, an itchy rash that occurs without an obvious trigger. It is used in patients aged 12 years and over in whom treatment with antihistamines does not work well enough and who have not received medicines targeting immunoglobulin E (IgE).
+- eosinophilic oesophagitis (an allergic inflammatory condition of the food pipe) in adults and children from 1 year of age and weighing at least 15 kg, who cannot take conventional treatment or for whom it is not working;
+- moderate to severe chronic spontaneous urticaria, an itchy rash that occurs without an obvious trigger and lasts for at least 6 weeks. It is used in patients aged 2 years and over in whom treatment with antihistamines does not work well enough and who have not received medicines targeting immunoglobulin E (IgE).
 
 Dupixent contains the active substance dupilumab.
 
@@ -65,7 +65,7 @@ Collapse section
 
 ## How is Dupixent used?
 
-Dupixent is available as pre-filled pens or syringes containing dupilumab in a solution for injection under the skin, usually in the thigh or belly. Dupixent should be taken every week, every other week or every 4 weeks depending on the patient's age and weight, and the condition being treated. Depending on the dose, the medicine is given either as 1 or 2 injections in 2 different sites.
+Dupixent is available as pre-filled pens or syringes containing dupilumab in a solution for injection under the skin, usually in the thigh or belly. Dupixent should be taken every week, every other week or every 4 weeks depending on the patient's age and weight, and the condition being treated. Depending on the dose, the medicine is given either as 1 or 2 injections at 2 different sites.
 
 Dupixent can only be obtained with a prescription and treatment should be started by a doctor who has experience in the diagnosis and treatment of the conditions Dupixent is used to treat. Patients or their carers may inject the medicine themselves if their doctor or nurse considers it appropriate and once they have been trained to do so. The medicine is for long-term use and the need to continue taking the medicine should be assessed by the doctor regularly.
 
@@ -93,11 +93,11 @@ In addition, a study involving children between 6 months and less than 6 years o
 
 **Asthma**
 
-Dupixent was shown to reduce the number of exacerbations (flare-ups) of asthma during treatment in 2 main studies involving patients with asthma that was not adequately controlled by a combination of high-dose inhaled corticosteroids and other medicines. In the first study, involving 1,902 patients aged 12 years or above, the number of severe flare-ups per year was 0.46 in patients taking 200 mg Dupixent and 0.52 in patients taking 300 mg Dupixent, compared with 0.87 or 0.97 in patients given placebo. After 12 weeks of treatment, Dupixent improved patients' FEV 1 (the maximum volume of air a person can breathe out in one second) by 320 ml (for 200 mg Dupixent) and 340 ml (for 300 mg Dupixent) compared with 180 ml and 210 ml for placebo.
+Dupixent was shown to reduce the number of exacerbations (flare-ups) of asthma during treatment in 2 main studies involving patients with asthma that was not adequately controlled by a combination of high-dose inhaled corticosteroids and other medicines. In the first study, involving 1,902 patients aged 12 years or above, the number of severe flare-ups per year was 0.46 in patients taking 200 mg Dupixent and 0.52 in patients taking 300 mg Dupixent, compared with 0.87 or 0.97 in patients given placebo. After 12 weeks of treatment, Dupixent improved patients' FEV1 (the maximum volume of air a person can breathe out in one second) by 320 ml (for 200 mg Dupixent) and 340 ml (for 300 mg Dupixent) compared with 180 ml and 210 ml for placebo.
 
 The second study, involving 210 patients taking corticosteroids by mouth for their asthma, showed that in 70% of patients given Dupixent their condition improved to the extent that they could reduce their corticosteroid dose compared with 42% of those given placebo.
 
-A subsequent third study involved 408 children 6 to 11 years of age with severe asthma that was not adequately controlled by a combination of medium-to-high-dose inhaled corticosteroids and other medicines. It showed that the number of severe flare-ups of asthma per year was 0.31 in those with type 2 inflammation given Dupixent compared with 0.75 in similar children given placebo. After 12 weeks of treatment Dupixent improved patients' predicted FEV 1 by 10.5% compared with 5.3% in those given placebo.
+A subsequent third study involved 408 children 6 to 11 years of age with severe asthma that was not adequately controlled by a combination of medium-to-high-dose inhaled corticosteroids and other medicines. It showed that the number of severe flare-ups of asthma per year was 0.31 in those with type 2 inflammation given Dupixent compared with 0.75 in similar children given placebo. After 12 weeks of treatment Dupixent improved patients' predicted FEV1 by 10.5% compared with 5.3% in those given placebo.
 
 **COPD**
 
@@ -105,13 +105,11 @@ Two main studies showed that Dupixent reduced the number of moderate or severe e
 
 The studies involved over 1,800 adults with COPD that was not adequately controlled with a combination of a long-acting beta-2 agonist, a long-acting muscarinic agonist and an inhaled corticosteroid, or a combination of the first two if an inhaled corticosteroid was not appropriate. These people also had raised blood levels of eosinophils. The studies compared the effect of Dupixent with that of placebo, both given in addition to the person's maintenance treatment. In the first study, patients given Dupixent had 0.78 COPD exacerbations per year, compared with 1.1 for patients who received placebo. In the second study, these figures were 0.86 for patients taking Dupixent and 1.3 for those given placebo.
 
-The two studies also found that Dupixent improved patients' lung function, as measured by FEV 1 . After one year of treatment, Dupixent improved FEV 1 by 153 ml and 115 ml, compared with 70 ml or 54 ml for placebo.
+The two studies also found that Dupixent improved patients' lung function, as measured by FEV1. After one year of treatment, Dupixent improved FEV1 by 153 ml and 115 ml, compared with 70 ml or 54 ml for placebo.
 
 **Chronic rhinosinusitis with nasal polyposis**
 
-Adding Dupixent to treatment with a corticosteroid nasal spray has been shown to improve symptoms of the condition more than placebo in 2 main studies as measured by scoring systems for the extent of nasal polyps and patients' perception of nasal congestion. In the first study, involving 276 adults, after around 6 months nasal polyp score fell by 1.89 with Dupixent and increased by 0.17 with placebo.
-
-Similarly, patients' score for nasal congestion fell by 1.34 with Dupixent versus 0.45 with placebo. In the second study, involving 448 adults, the polyp score fell by 1.71 with Dupixent and increased by 0.10 with placebo, and the congestion score fell by 1.25 versus 0.38, respectively.
+Adding Dupixent to treatment with a corticosteroid nasal spray has been shown to improve symptoms of the condition more than placebo in 2 main studies as measured by scoring systems for the extent of nasal polyps and patients' perception of nasal congestion. In the first study, involving 276 adults, after around 6 months nasal polyp score fell by 1.89 with Dupixent and increased by 0.17 with placebo. Similarly, patients' score for nasal congestion fell by 1.34 with Dupixent versus 0.45 with placebo. In the second study, involving 448 adults, the polyp score fell by 1.71 with Dupixent and increased by 0.10 with placebo, and the congestion score fell by 1.25 versus 0.38, respectively.
 
 **Prurigo nodularis**
 
@@ -125,21 +123,29 @@ In a study of 321 adults and adolescents from 12 years of age with eosinophilic 
 
 Another study involving 102 children from 1 year of age with eosinophilic oesophagitis showed that, after 16 weeks of treatment, Dupixent was more effective than placebo in reducing oesophageal inflammation: 43 out of 68 patients given Dupixent had low levels of eosinophils in their blood, compared with 1 out of 34 patients given placebo. This effect was maintained after 52 weeks of continued treatment with Dupixent.
 
-**Chronic spontaneous urticaria**
+**Chronic spontaneous uticaria**
 
 Dupixent was investigated in two main studies involving a total of 289 patients from 12 years of age with chronic spontaneous urticaria who did not respond well enough to antihistamines and did not previously receive anti-IgE medicines. Dupixent was compared with placebo, when added to the patients' usual antihistamine treatment. The main measure of effectiveness was based on the change in disease activity after treatment, as measured on a scale ranging from 0 (no urticaria) to 42 (severe urticaria) called Urticaria Activity Score over 7 days (UAS7). After 24 weeks of treatment, patients who took Dupixent had a greater reduction in itch and hives than patients who took placebo. The UAS7 score in the first study was reduced by an average of 20.5 points in people who received Dupixent, compared with an average of 12.0 points in those who received placebo. In the second study, the score was reduced by 15.9 for Dupixent, compared with 11.2 for placebo.
 
-## What are the risks associated with Dupixent?
+The company also looked at how Dupixent behaves in children between 2 and 11 years of age with chronic spontaneous urticaria who did not respond well enough to antihistamines and had not previously received anti-IgE medicines. The data indicate that, in these children, the medicine behaves in the same way as it does in adults and adolescents 12 years of age and older. In addition, the symptoms and the way the condition develops in people in whom antihistamines do not work well enough are similar across all age groups. Dupixent is therefore expected to provide similar benefits for younger children.
+
+Studies carried out with Dupixent are described in more detail in the medicine's assessment reports.
+
+## What are the side effects and restrictions with Dupixent?
 
 For the full list of side effects and restrictions with Dupixent, see the package leaflet.
 
-The most common side effects with Dupixent (which may affect up to 1 in 10 people) include injection site reactions (such as redness, swelling due to fluid build-up, itching and pain), conjunctivitis (redness and discomfort in the eye) including conjunctivitis due to allergy, joint pain, cold sores and increased blood levels of a type of white blood cell called eosinophils. Additional side effects include injection site bruising in people with eosinophilic oesophagitis and those with COPD, as well as induration (hardening)and dermatitis (itchy, red and dry skin) at the injection site in people with COPD and chronic spontaneous urticaria. In addition, rash at the site of injection was reported in patients with COPD and haematoma (a collection of blood under the skin or in a muscle) at the site of injection in those with chronic spontaneous urticaria.
+The most common side effects with Dupixent (which may affect up to 1 in 10 people) include injection site reactions (such as redness, oedema and swelling due to fluid build-up, itching and pain), conjunctivitis (redness and discomfort in the eye) including conjunctivitis due to allergy, joint pain, cold sores and increased blood levels of a type of white blood cell called eosinophils. Additional side effects include injection site bruising or haematoma (a collection of blood under the skin or in a muscle) in people with eosinophilic oesophagitis, COPD or chronic spontaneous urticaria. Induration (hardening) and dermatitis (itchy, red and dry skin) at the injection site may also affect people with COPD and chronic spontaneous urticaria. In addition, rash at the site of injection was reported in patients with COPD.
 
 There have been very rare cases of serum sickness (allergy to the proteins in the medicine) and serum sickness-like reactions, anaphylaxis (sudden, severe allergic reactions) and ulcerative keratitis (inflammation and damage to the clear layer at the front of the eye) with Dupixent.
 
 ## Why is Dupixent authorised in the EU?
 
-Dupixent has been shown to reduce the extent and severity of atopic dermatitis and prurigo nodularis in patients with moderate to severe disease, for whom available therapies are limited. Similarly, in chronic rhinosinusitis with nasal polyposis, Dupixent produced clinically meaningful improvements in symptoms. Dupixent was also shown to be an effective treatment option for chronic spontaneous urticaria based on results of studies showing a reduction in the severity of symptoms in patients. The European Medicines Agency noted that data on use beyond 6 months are limited for chronic spontaneous urticaria and the need for continued therapy after 6 months of treatment should be regularly assessed. In the treatment of type 2 inflammatory asthma, Dupixent has been shown to reduce the number of asthma flare-ups and the need for oral corticosteroid treatment. In the treatment of eosinophilic oesophagitis, Dupixent has been shown to reduce eosinophilic inflammation. Dupixent has also been shown to reduce the number of moderate or severe exacerbations of COPD and improve lung function in patients with raised eosinophils in the blood and whose disease cannot be adequately controlled with available medicines.
+Dupixent has been shown to reduce the extent and severity of atopic dermatitis and prurigo nodularis in patients with moderate to severe disease, for whom available therapies are limited. Similarly, in chronic rhinosinusitis with nasal polyposis, Dupixent has been shown to produce clinically meaningful improvements in symptoms.
+
+Dupixent was also shown to be an effective treatment option for chronic spontaneous urticaria based on results of studies showing a reduction in the severity of symptoms in patients. The European Medicines Agency noted that data on use beyond 6 months are limited for chronic spontaneous urticaria and the need for continued therapy after 6 months of treatment should be regularly assessed.
+
+In the treatment of type 2 inflammatory asthma, Dupixent has been shown to reduce the number of asthma flare-ups and the need for oral corticosteroid treatment. In the treatment of eosinophilic oesophagitis, Dupixent has been shown to reduce eosinophilic inflammation. Dupixent has also been shown to reduce the number of moderate or severe exacerbations of COPD and improve lung function in patients with raised eosinophils in the blood and whose disease cannot be adequately controlled with available medicines.
 
 Regarding safety, Dupixent's side effects are generally mild and manageable.
 
@@ -157,595 +163,315 @@ Dupixent received a marketing authorisation valid throughout the EU on 27 Septem
 
 Dupixent : EPAR - Medicine overview
 
-Reference Number: EMA/496462/2024
+Reference Number: EMADOC-1829012207-45567
 
-English (EN) (192.35 KB - PDF)
+English (EN) (202.58 KB - PDF)
 
-**First published:** 11/10/2017
-
-**Last updated:** 01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/en/documents/overview/dupixent-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-887)
+[Other languages (22)](#file-language-dropdown-906)
 
-български (BG) (236.67 KB - PDF)
+български (BG) (221.22 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/bg/documents/overview/dupixent-epar-medicine-overview_bg.pdf)
 
-español (ES) (188.44 KB - PDF)
+español (ES) (180.94 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/es/documents/overview/dupixent-epar-medicine-overview_es.pdf)
 
-čeština (CS) (219.63 KB - PDF)
+čeština (CS) (210.61 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/cs/documents/overview/dupixent-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (185.59 KB - PDF)
+dansk (DA) (176 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/da/documents/overview/dupixent-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (192.96 KB - PDF)
+Deutsch (DE) (184.38 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/de/documents/overview/dupixent-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (196.03 KB - PDF)
+eesti keel (ET) (179.22 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/et/documents/overview/dupixent-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (218.37 KB - PDF)
+ελληνικά (EL) (201.98 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/el/documents/overview/dupixent-epar-medicine-overview_el.pdf)
 
-français (FR) (210.84 KB - PDF)
+français (FR) (181.57 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/fr/documents/overview/dupixent-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (216.72 KB - PDF)
+hrvatski (HR) (201.01 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/hr/documents/overview/dupixent-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (187.03 KB - PDF)
+italiano (IT) (176.54 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/it/documents/overview/dupixent-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (227.45 KB - PDF)
+latviešu valoda (LV) (213.03 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/lv/documents/overview/dupixent-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (222.19 KB - PDF)
+lietuvių kalba (LT) (206.87 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/lt/documents/overview/dupixent-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (239.55 KB - PDF)
+magyar (HU) (205.18 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/hu/documents/overview/dupixent-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (221.21 KB - PDF)
+Malti (MT) (205.98 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/mt/documents/overview/dupixent-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (192.07 KB - PDF)
+Nederlands (NL) (177.62 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/nl/documents/overview/dupixent-epar-medicine-overview_nl.pdf)
 
-polski (PL) (243.52 KB - PDF)
+polski (PL) (209.09 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/pl/documents/overview/dupixent-epar-medicine-overview_pl.pdf)
 
-português (PT) (207.36 KB - PDF)
+português (PT) (178.59 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/pt/documents/overview/dupixent-epar-medicine-overview_pt.pdf)
 
-română (RO) (211.41 KB - PDF)
+română (RO) (201.39 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/ro/documents/overview/dupixent-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (219.4 KB - PDF)
+slovenčina (SK) (202.95 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/sk/documents/overview/dupixent-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (213.74 KB - PDF)
+slovenščina (SL) (199.63 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/sl/documents/overview/dupixent-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (186.79 KB - PDF)
+Suomi (FI) (176.27 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/fi/documents/overview/dupixent-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (185.85 KB - PDF)
+svenska (SV) (176.76 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/sv/documents/overview/dupixent-epar-medicine-overview_sv.pdf)
 
 Dupixent : EPAR - Risk-management-plan
 
-English (EN) (3.17 MB - PDF)
+English (EN) (3.4 MB - PDF)
 
-**First published:** 28/06/2019
+**First published:** 28/06/2019 **Last updated:** 10/04/2026
 
-**Last updated:** 01/12/2025
-
-[View](/en/documents/rmp-summary/dupixent-epar-risk-management-plan_en.pdf)
+[View](/en/documents/rmp/dupixent-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Dupixent : EPAR - Product Information
 
-English (EN) (4.95 MB - PDF)
+English (EN) (5.08 MB - PDF)
 
-**First published:** 11/10/2017
-
-**Last updated:** 01/12/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/en/documents/product-information/dupixent-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-184)
+[Other languages (24)](#file-language-dropdown-361)
 
 български (BG) (7.21 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/bg/documents/product-information/dupixent-epar-product-information_bg.pdf)
 
-español (ES) (4.51 MB - PDF)
+español (ES) (4.45 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/es/documents/product-information/dupixent-epar-product-information_es.pdf)
 
-čeština (CS) (8.55 MB - PDF)
+čeština (CS) (8.63 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/cs/documents/product-information/dupixent-epar-product-information_cs.pdf)
 
-dansk (DA) (4.94 MB - PDF)
+dansk (DA) (4.28 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/da/documents/product-information/dupixent-epar-product-information_da.pdf)
 
-Deutsch (DE) (6.84 MB - PDF)
+Deutsch (DE) (4.99 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/de/documents/product-information/dupixent-epar-product-information_de.pdf)
 
-eesti keel (ET) (3.78 MB - PDF)
+eesti keel (ET) (3.93 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/et/documents/product-information/dupixent-epar-product-information_et.pdf)
 
-ελληνικά (EL) (7.47 MB - PDF)
+ελληνικά (EL) (7.55 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/el/documents/product-information/dupixent-epar-product-information_el.pdf)
 
-français (FR) (7.33 MB - PDF)
+français (FR) (6.98 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/fr/documents/product-information/dupixent-epar-product-information_fr.pdf)
 
-hrvatski (HR) (5.25 MB - PDF)
+hrvatski (HR) (5.28 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/hr/documents/product-information/dupixent-epar-product-information_hr.pdf)
 
-íslenska (IS) (4.79 MB - PDF)
+íslenska (IS) (4.92 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/is/documents/product-information/dupixent-epar-product-information_is.pdf)
 
-italiano (IT) (5.08 MB - PDF)
+italiano (IT) (5.78 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/it/documents/product-information/dupixent-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (4.49 MB - PDF)
+latviešu valoda (LV) (4.55 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/lv/documents/product-information/dupixent-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (4.47 MB - PDF)
+lietuvių kalba (LT) (4.54 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/lt/documents/product-information/dupixent-epar-product-information_lt.pdf)
 
-magyar (HU) (3.94 MB - PDF)
+magyar (HU) (3.95 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/hu/documents/product-information/dupixent-epar-product-information_hu.pdf)
 
-Malti (MT) (5.42 MB - PDF)
+Malti (MT) (5.33 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/mt/documents/product-information/dupixent-epar-product-information_mt.pdf)
 
-Nederlands (NL) (5.58 MB - PDF)
+Nederlands (NL) (5.64 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/nl/documents/product-information/dupixent-epar-product-information_nl.pdf)
 
-norsk (NO) (6.9 MB - PDF)
+norsk (NO) (5.67 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/no/documents/product-information/dupixent-epar-product-information_no.pdf)
 
-polski (PL) (6.18 MB - PDF)
+polski (PL) (5.26 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/pl/documents/product-information/dupixent-epar-product-information_pl.pdf)
 
-português (PT) (8.49 MB - PDF)
+português (PT) (5.4 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/pt/documents/product-information/dupixent-epar-product-information_pt.pdf)
 
-română (RO) (6.22 MB - PDF)
+română (RO) (6.46 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/ro/documents/product-information/dupixent-epar-product-information_ro.pdf)
 
-slovenčina (SK) (4.82 MB - PDF)
+slovenčina (SK) (4.83 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/sk/documents/product-information/dupixent-epar-product-information_sk.pdf)
 
-slovenščina (SL) (4.49 MB - PDF)
+slovenščina (SL) (5.17 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/sl/documents/product-information/dupixent-epar-product-information_sl.pdf)
 
-Suomi (FI) (6.64 MB - PDF)
+Suomi (FI) (6.68 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/fi/documents/product-information/dupixent-epar-product-information_fi.pdf)
 
-svenska (SV) (6.08 MB - PDF)
+svenska (SV) (6.24 MB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-28/11/2025
+**First published:** 11/10/2017 **Last updated:** 10/04/2026
 
 [View](/sv/documents/product-information/dupixent-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000257461 06/11/2025
+**Latest procedure affecting product information:** VR/0000282164
+
+08/04/2026
 
 icon globe
 
@@ -765,305 +491,171 @@ Dupixent : EPAR - All Authorised presentations
 
 English (EN) (50.18 KB - PDF)
 
-**First published:** 11/10/2017
-
-**Last updated:** 09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/en/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-359)
+[Other languages (24)](#file-language-dropdown-186)
 
 български (BG) (58.68 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/bg/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (20.47 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/es/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (52.23 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/cs/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (49.8 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/da/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (46.27 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/de/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (19.02 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/et/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (70.78 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/el/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (89.1 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/fr/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (52.48 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/hr/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (48.95 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/is/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (35.88 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/it/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (47.71 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/lv/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (69.53 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/lt/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (50.79 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/hu/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (102.38 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/mt/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (47.65 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/nl/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (69.94 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/no/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (65.24 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/pl/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (21.42 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/pt/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (87.92 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/ro/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (49.33 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/sk/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (50.76 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/sl/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (64.84 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/fi/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (49.65 KB - PDF)
 
-**First published:**
-
-11/10/2017
-
-**Last updated:**
-
-09/04/2024
+**First published:** 11/10/2017 **Last updated:** 09/04/2024
 
 [View](/sv/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Dupixent Active substance dupilumab International non-proprietary name (INN) or common name dupilumab Therapeutic area (MeSH)
+Name of medicine
+
+Dupixent
+
+Active substance
+
+dupilumab
+
+International non-proprietary name (INN) or common name
+
+dupilumab
+
+Therapeutic area (MeSH)
 
 - Dermatitis, Atopic
 - Prurigo
@@ -1071,7 +663,9 @@ Name of medicine Dupixent Active substance dupilumab International non-proprieta
 - Asthma
 - Sinusitis
 
-Anatomical therapeutic chemical (ATC) code D11AH05
+Anatomical therapeutic chemical (ATC) code
+
+D11AH05
 
 ### Pharmacotherapeutic group
 
@@ -1109,17 +703,31 @@ Dupixent is indicated in adults as add-on maintenance treatment for uncontrolled
 
 Chronic Spontaneous Urticaria (CSU)
 
-Dupixent is indicated for the treatment of moderate to severe chronic spontaneous urticaria in adults and adolescents (12 years and above) patientswith inadequate response to H1 antihistamines and who are naive to anti-IgE therapy for CSU.
+Dupixent is indicated for the treatment of moderate to severe chronic spontaneous urticaria in adults, adolescents and children (2 years and above) patients with inadequate response to H1 antihistamines and who are naive to anti-IgE therapy for CSU.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004390 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/004390
+
+Marketing authorisation holder
 
 Sanofi Winthrop Industrie
 
 82 Avenue Raspail
 
-Opinion adopted 20/07/2017 Marketing authorisation issued 26/09/2017 Revision 46
+Opinion adopted
+
+20/07/2017
+
+Marketing authorisation issued
+
+26/09/2017
+
+Revision
+
+47
 
 ## Assessment history
 
@@ -1131,11 +739,9 @@ Collapse section
 
 Dupixent : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (162.92 KB - PDF)
+English (EN) (183.08 KB - PDF)
 
-**First published:** 30/04/2025
-
-**Last updated:** 01/12/2025
+**First published:** 30/04/2025 **Last updated:** 09/04/2026
 
 [View](/en/documents/procedural-steps-after/dupixent-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1143,17 +749,33 @@ Dupixent : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (341.04 KB - PDF)
 
-**First published:** 05/02/2018
-
-**Last updated:** 30/04/2025
+**First published:** 05/02/2018 **Last updated:** 30/04/2025
 
 [View](/en/documents/procedural-steps-after/dupixent-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Dupixent-VR-0000282164 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-2983059
+
+English (EN) (2.56 MB - PDF)
+
+**First published:** 10/04/2026
+
+[View](/en/documents/variation-report/dupixent-vr-0000282164-epar-assessment-report_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Dupixent (VR/0000282164)
+
+Adopted Reference Number: EMADOC-1700519818-2492665
+
+English (EN) (158.61 KB - PDF)
+
+**First published:** 27/02/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-dupixent-vr-0000282164_en.pdf)
+
 Dupixent-PAM-0000301728 - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2798394
+Adopted Reference Number: EMADOC-1700519818-2798394
 
 English (EN) (667.77 KB - PDF)
 
@@ -1163,9 +785,7 @@ English (EN) (667.77 KB - PDF)
 
 Dupixent-VR-0000257461 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2222924
+Adopted Reference Number: EMADOC-1700519818-2222924
 
 English (EN) (4.85 MB - PDF)
 
@@ -1185,9 +805,7 @@ English (EN) (897.29 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Dupixent (EMA/VR/0000257461)
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2222939
+Adopted Reference Number: EMADOC-1700519818-2222939
 
 English (EN) (159.38 KB - PDF)
 
@@ -1207,9 +825,7 @@ English (EN) (1.83 MB - PDF)
 
 Dupixent-H-C-4390-P46-017 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/58890/2025
+Adopted Reference Number: EMA/58890/2025
 
 English (EN) (1.26 MB - PDF)
 
@@ -1219,9 +835,7 @@ English (EN) (1.26 MB - PDF)
 
 Dupixent-H-C-004390-II-0081 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/465276/2024
+Adopted Reference Number: EMA/465276/2024
 
 English (EN) (9.68 MB - PDF)
 
@@ -1241,9 +855,7 @@ English (EN) (1.31 MB - PDF)
 
 Dupixent-H-C-4390-P46-015 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/336405/2024
+Adopted Reference Number: EMA/336405/2024
 
 English (EN) (2.31 MB - PDF)
 
@@ -1253,9 +865,7 @@ English (EN) (2.31 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Dupixent (II-81)
 
-Adopted
-
-Reference Number: EMA/CHMP/247127/2024
+Adopted Reference Number: EMA/CHMP/247127/2024
 
 English (EN) (162.47 KB - PDF)
 
@@ -1275,9 +885,7 @@ English (EN) (5.09 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Dupixent (II-79)
 
-Adopted
-
-Reference Number: EMA/CHMP/146624/2024
+Adopted Reference Number: EMA/CHMP/146624/2024
 
 English (EN) (150.81 KB - PDF)
 
@@ -1287,15 +895,11 @@ English (EN) (150.81 KB - PDF)
 
 Dupixent-H-C-4390-P46-013 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/10608/2024
+Adopted Reference Number: EMA/10608/2024
 
 English (EN) (957.84 KB - PDF)
 
-**First published:** 13/02/2024
-
-**Last updated:** 05/03/2024
+**First published:** 13/02/2024 **Last updated:** 05/03/2024
 
 [View](/en/documents/variation-report/dupixent-h-c-4390-p46-013-epar-assessment-report_en.pdf)
 
@@ -1321,9 +925,7 @@ English (EN) (122.06 KB - PDF)
 
 Dupixent-H-C-4390-II-0060 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/66726/2023
+Adopted Reference Number: EMA/66726/2023
 
 English (EN) (9.31 MB - PDF)
 
@@ -1333,9 +935,7 @@ English (EN) (9.31 MB - PDF)
 
 Dupixent-H-C-4390-P46-009 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/113522/2023
+Adopted Reference Number: EMA/113522/2023
 
 English (EN) (904.98 KB - PDF)
 
@@ -1345,9 +945,7 @@ English (EN) (904.98 KB - PDF)
 
 Dupixent-H-C-4390-P46-010 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/113518/2023
+Adopted Reference Number: EMA/113518/2023
 
 English (EN) (1.73 MB - PDF)
 
@@ -1357,9 +955,7 @@ English (EN) (1.73 MB - PDF)
 
 Dupixent-H-C-4390-II-0062 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/6467/2023
+Adopted Reference Number: EMA/6467/2023
 
 English (EN) (17.84 MB - PDF)
 
@@ -1369,9 +965,7 @@ English (EN) (17.84 MB - PDF)
 
 Dupixent-H-C-4390-II-0063 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/9410/2023
+Adopted Reference Number: EMA/9410/2023
 
 English (EN) (5.13 MB - PDF)
 
@@ -1381,9 +975,7 @@ English (EN) (5.13 MB - PDF)
 
 Dupixent-H-C-4390-P46-007 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/824354/2022
+Adopted Reference Number: EMA/824354/2022
 
 English (EN) (674.57 KB - PDF)
 
@@ -1393,9 +985,7 @@ English (EN) (674.57 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Dupixent (II-60)
 
-Adopted
-
-Reference Number: EMA/CHMP/14158/2023
+Adopted Reference Number: EMA/CHMP/14158/2023
 
 English (EN) (123.47 KB - PDF)
 
@@ -1405,9 +995,7 @@ English (EN) (123.47 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Dupixent (II-62)
 
-Adopted
-
-Reference Number: EMA/CHMP/917915/2022
+Adopted Reference Number: EMA/CHMP/917915/2022
 
 English (EN) (106.38 KB - PDF)
 
@@ -1427,9 +1015,7 @@ English (EN) (115.71 KB - PDF)
 
 Dupixent-H-C-004390-X-0045-G : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/98744/2022
+Adopted Reference Number: EMA/98744/2022
 
 English (EN) (2.27 MB - PDF)
 
@@ -1439,9 +1025,7 @@ English (EN) (2.27 MB - PDF)
 
 Dupixent-H-C-4390-P46-006 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/148767/2022
+Adopted Reference Number: EMA/148767/2022
 
 English (EN) (1.06 MB - PDF)
 
@@ -1451,9 +1035,7 @@ English (EN) (1.06 MB - PDF)
 
 CHMP summary of opinion for Dupixent (X-45-G)
 
-Adopted
-
-Reference Number: EMA/CHMP/39058/2022
+Adopted Reference Number: EMA/CHMP/39058/2022
 
 English (EN) (128.49 KB - PDF)
 
@@ -1483,9 +1065,7 @@ English (EN) (89.89 KB - PDF)
 
 Dupixent-H-C-4390-II-0027 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/640921/2020
+Adopted Reference Number: EMA/640921/2020
 
 English (EN) (6.04 MB - PDF)
 
@@ -1495,9 +1075,7 @@ English (EN) (6.04 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Dupixent (II-27)
 
-Adopted
-
-Reference Number: EMA/CHMP/535576/2020
+Adopted Reference Number: EMA/CHMP/535576/2020
 
 English (EN) (167.71 KB - PDF)
 
@@ -1507,9 +1085,7 @@ English (EN) (167.71 KB - PDF)
 
 Dupixent-H-C-4390-II-0017 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/547569/2019
+Adopted Reference Number: EMA/547569/2019
 
 English (EN) (19.68 MB - PDF)
 
@@ -1519,9 +1095,7 @@ English (EN) (19.68 MB - PDF)
 
 Dupixent-H-C-4390-II-0012 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/463030/2019
+Adopted Reference Number: EMA/463030/2019
 
 English (EN) (5.89 MB - PDF)
 
@@ -1531,9 +1105,7 @@ English (EN) (5.89 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Dupixent (II-17)
 
-Adopted
-
-Reference Number: EMA/CHMP/506821/2019
+Adopted Reference Number: EMA/CHMP/506821/2019
 
 English (EN) (63.75 KB - PDF)
 
@@ -1543,9 +1115,7 @@ English (EN) (63.75 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Dupixent (II-12)
 
-Adopted
-
-Reference Number: EMA/CHMP/345816/2019
+Adopted Reference Number: EMA/CHMP/345816/2019
 
 English (EN) (61.56 KB - PDF)
 
@@ -1555,9 +1125,7 @@ English (EN) (61.56 KB - PDF)
 
 Dupixent-H-C-4390-X-0004-G : EPAR - Assessment report - Extension
 
-Adopted
-
-Reference Number: EMA/188111/2019
+Adopted Reference Number: EMA/188111/2019
 
 English (EN) (5.85 MB - PDF)
 
@@ -1567,9 +1135,7 @@ English (EN) (5.85 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Dupixent (X-0004-G)
 
-Adopted
-
-Reference Number: EMA/CHMP/41336/2019
+Adopted Reference Number: EMA/CHMP/41336/2019
 
 English (EN) (63.35 KB - PDF)
 
@@ -1581,15 +1147,11 @@ English (EN) (63.35 KB - PDF)
 
 Dupixent : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/358525/2023
+Adopted Reference Number: EMA/358525/2023
 
 English (EN) (2.99 MB - PDF)
 
-**First published:** 11/10/2017
-
-**Last updated:** 11/10/2017
+**First published:** 11/10/2017 **Last updated:** 11/10/2017
 
 [View](/en/documents/assessment-report/dupixent-epar-public-assessment-report_en.pdf)
 
@@ -1599,43 +1161,73 @@ Reference Number: EMA/CHMP/453766/2017
 
 English (EN) (67.6 KB - PDF)
 
-**First published:** 21/07/2017
-
-**Last updated:** 21/07/2017
+**First published:** 21/07/2017 **Last updated:** 21/07/2017
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-dupixent_en.pdf)
 
-#### News on Dupixent
+## News on Dupixent
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 September 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-september-2025) 19/09/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 February 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-february-2026)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025) 28/02/2025
+27/02/2026
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2024) 20/09/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 September 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-september-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2024) 31/05/2024
+19/09/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 January 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-january-2023) 27/01/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2022) 16/12/2022
+28/02/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2022) 11/11/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 January 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-january-2022) 28/01/2022
+20/09/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020) 16/10/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2019) 20/09/2019
+31/05/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2019) 28/06/2019
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 January 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-january-2023)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 February 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-february-2019) 01/03/2019
+27/01/2023
 
-[New add-on treatment for patients with severe asthma](/en/news/new-add-treatment-patients-severe-asthma) 01/03/2019
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2017) 21/07/2017
+16/12/2022
 
-#### More information on Dupixent
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2022)
+
+11/11/2022
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 January 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-january-2022)
+
+28/01/2022
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020)
+
+16/10/2020
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2019)
+
+20/09/2019
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2019)
+
+28/06/2019
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 February 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-february-2019)
+
+01/03/2019
+
+[New add-on treatment for patients with severe asthma](/en/news/new-add-treatment-patients-severe-asthma)
+
+01/03/2019
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2017)
+
+21/07/2017
+
+## More information on Dupixent
 
 - [EMEA-001501-PIP01-13-M07 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001501-pip01-13-m07)
 - [EMEA-001501-PIP02-13-M08 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001501-pip02-13-m08)
@@ -1647,9 +1239,11 @@ English (EN) (67.6 KB - PDF)
 - [EMEA-001501-PIP09-21 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001501-pip09-21)
 - [EMEA-001501-PIP11-21 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001501-pip11-21)
 - [Dupixent - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/dupixent-0)
+- [EMA/PE/0000226288 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000226288)
+- [Assessing the impact of remission at 12-months post-initiation of biologic therapy on long-term clinical outcomes of patients with severe asthma (SPOTLIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000789)
+- [Assessing Long-Term Outcomes of DUPIXENT® Treatment in Patients with Chronic Rhinosinusitis with Nasal Polyposis (AROMA) - post-authorisation study](https://catalogues.ema.europa.eu/study/42822)
 - [Impact of biologics on inhaled corticosteroids reduction (MOON LIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000855)
 - [Sustainability of response to biologics in severe asthma and predictors of late failure among patients in an international registry (SHINE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000788)
-- [Assessing the impact of remission at 12-months post-initiation of biologic therapy on long-term clinical outcomes of patients with severe asthma (SPOTLIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000789)
 - [Registry of Asthma Patients Initiating DUPIXENT® (RAPID) - post-authorisation study](https://catalogues.ema.europa.eu/study/46244)
 - [Assessing the impact of earlier access to biologics on remission and natural course of asthma (GLEAM) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000530)
 - [A registry-based non-interventional post-authorization safety study to evaluate the long-term safety of dupilumab in children aged ≥6 months to &lt;6 years with moderate-to-severe atopic dermatitis using the PEDISTAD registry: a cohort design - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000149)
@@ -1657,12 +1251,12 @@ English (EN) (67.6 KB - PDF)
 - [Spanish Registry of Atopic Dermatitis (BIOBADATOP) - post-authorisation study](https://catalogues.ema.europa.eu/study/31712)
 - [A Retrospective Evaluation of Conjunctivitis and Keratitis Among Individuals with Moderate-to-severe Atopic Dermatitis Treated with Dupilumab in the United States (US) - post-authorisation study](https://catalogues.ema.europa.eu/study/42462)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 07/01/2026
+**This page was last updated on**
+
+10/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

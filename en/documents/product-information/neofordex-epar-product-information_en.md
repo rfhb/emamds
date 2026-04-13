@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-10-07 11:32:31
+document_datetime: 2026-04-09 10:34:31
 document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/neofordex-epar-product-information_en.pdf
 document_name: neofordex-epar-product-information_en.pdf
 version: success
-processing_time: 6.2514976
-conversion_datetime: 2025-12-23 07:15:35.973316
+processing_time: 7.3891161
+conversion_datetime: 2026-04-13 13:58:15.208233
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,9 +36,7 @@ Each tablet contains 98.1 mg lactose. For the full list of excipients, see secti
 
 ## 3. PHARMACEUTICAL FORM
 
-Tablet
-
-White, oblong (11 mm × 5.5 mm) tablet, with '40 mg' engraved  on one side..
+Tablet White, oblong (11 mm × 5.5 mm) tablet, with '40 mg' engraved  on one side..
 
 ## 4. CLINICAL PARTICULARS
 
@@ -178,7 +176,7 @@ Glucocorticoid therapy may reduce the effect of anti-diabetic and antihypertensi
 
 Depending on the duration of treatment, calcium metabolism may be impaired. Calcium and vitamin D levels should be monitored. In patients not already prescribed bisphosphonates for multiple myeloma related bone disease, bisphosphonates should be considered, particularly if risk factors for osteoporosis are present.
 
-## Use in combination with other multiple myeloma treatment(s)
+Use in combination with other multiple myeloma treatment(s)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -214,26 +212,26 @@ Neofordex contains lactose. Patients with rare hereditary problems of galactose 
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-## Prior to the use of Neofordex in combination with any other medicinal product, reference should be made to the Summary of Product Characteristics of that product.
+Prior to the use of Neofordex in combination with any other medicinal product, reference should be made to the Summary of Product Characteristics of that product.
 
 ## Pharmacodynamic interactions
 
 ## The following combinations should be avoided due to safety concerns
 
-- With acetylsalicylic acid, at doses ≥ 1 g per dose or 3 g per day, due to an increased risk of bleeding. At doses ≥ 500 mg per dose or &lt; 3 g per day, precautions are required due to increased risk of haemorrhage, ulcerations and gastro-intestinal perforation. However, antithrombotic prophylaxis with low-dose acetylsalicylic acid is possible;
-- With live attenuated vaccines, due to risk of vaccine-related illness with risk of death (see section 4.4).
+-  With acetylsalicylic acid, at doses ≥ 1 g per dose or 3 g per day, due to an increased risk of bleeding. At doses ≥ 500 mg per dose or &lt; 3 g per day, precautions are required due to increased risk of haemorrhage, ulcerations and gastro-intestinal perforation. However, antithrombotic prophylaxis with low-dose acetylsalicylic acid is possible;
+-  With live attenuated vaccines, due to risk of vaccine-related illness with risk of death (see section 4.4).
 
 ## The following combinations require precautions due to safety concerns
 
-- With hypokalaemic medicinal products: hypokalemic diuretics, single or in combination, laxatives, tetracosactide, intravenous amphotericin B, due to increased risk of hypokalaemia. Potassium levels should be monitored and corrected as necessary. In addition, amphotericin B carries a risk of cardiac enlargement and cardiac failure with concurrent use.
-- With digitalis, as hypokalaemia enhances the toxic effects of digitalis. Any hypokalaemia should be corrected and patients should be monitored clinically, for electrolytes and by electrocardiograpy.
-- With medicinal products that carry a risk of Torsades de Pointes, due to increased risk of ventricular arrhythmia. Any hypokalaemia should be corrected and patients should be monitored clinically, for electrolytes and by electrocardiography.
-- With erythropoietic medicinal products or other medicinal products that may increase the risk of thrombosis, such as hormone replacement therapy, in patients receiving thalidomide or its analogues with Neofordex (see sections 4.4 and 4.8).
-- With non-steroidal anti-inflammatory drugs (NSAIDs), due to an increased risk of gastrointestinal ulceration.
-- With hypoglycaemic medicinal products, as dexamethasone can raise glycaemic levels and diminish glucose tolerance, with a possibility of ketoacidosis. Patients should be made aware of this risk and self-monitoring of blood and urine should be reinforced, especially during the initiation of treatment. The posology of anti-diabetic medicinal products may have to be adjusted during and after the treatment with dexamethasone.
-- With anti-hypertensive medicinal products, due to a reduction of their effect (water and sodium retention). The dose of the anti-hypertensive treatment may have to be adjusted during the treatment with dexamethasone.
-- With fluoroquinolones, due to possibly increased risk of tendonitis and, in exceptional cases, rupture of the affected tendon, particularly after long-term treatment.
-- With methotrexate, due to an increased risk of haematological toxicity.
+-  With hypokalaemic medicinal products: hypokalemic diuretics, single or in combination, laxatives, tetracosactide, intravenous amphotericin B, due to increased risk of hypokalaemia. Potassium levels should be monitored and corrected as necessary. In addition, amphotericin B carries a risk of cardiac enlargement and cardiac failure with concurrent use.
+-  With digitalis, as hypokalaemia enhances the toxic effects of digitalis. Any hypokalaemia should be corrected and patients should be monitored clinically, for electrolytes and by electrocardiograpy.
+-  With medicinal products that carry a risk of Torsades de Pointes, due to increased risk of ventricular arrhythmia. Any hypokalaemia should be corrected and patients should be monitored clinically, for electrolytes and by electrocardiography.
+-  With erythropoietic medicinal products or other medicinal products that may increase the risk of thrombosis, such as hormone replacement therapy, in patients receiving thalidomide or its analogues with Neofordex (see sections 4.4 and 4.8).
+-  With non-steroidal anti-inflammatory drugs (NSAIDs), due to an increased risk of gastrointestinal ulceration.
+-  With hypoglycaemic medicinal products, as dexamethasone can raise glycaemic levels and diminish glucose tolerance, with a possibility of ketoacidosis. Patients should be made aware of this risk and self-monitoring of blood and urine should be reinforced, especially during the initiation of treatment. The posology of anti-diabetic medicinal products may have to be adjusted during and after the treatment with dexamethasone.
+-  With anti-hypertensive medicinal products, due to a reduction of their effect (water and sodium retention). The dose of the anti-hypertensive treatment may have to be adjusted during the treatment with dexamethasone.
+-  With fluoroquinolones, due to possibly increased risk of tendonitis and, in exceptional cases, rupture of the affected tendon, particularly after long-term treatment.
+-  With methotrexate, due to an increased risk of haematological toxicity.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -245,35 +243,35 @@ Dexamethasone is metabolized via cytochrome P450 3A4 (CYP3A4), and transported b
 
 ## The following combinations require precautions due to changes in dexamethasone pharmacokinetics
 
-- -Medicinal products that may reduce dexamethasone plasma concentration:
-- Aminogluthetimide, due to a reduction of the efficacy of dexamethasone through an increase of its hepatic metabolism.
-- Anticonvulsants that are hepatic enzyme inducers: carbamazepine, fosphenytoin, phenobarbital, phenytoin, primidone, due to the reduction of dexamethasone plasma levels and hence its efficacy.
-- With rifampicin, due to reduction of dexamethasone plasma concentrations and efficacy by an increase of its hepatic metabolism.
-- Topical gastro-intestinal medicinal products, antacids and activated carbon, as well as colestyramine, due to reduction of the intestinal absorption of dexamethasone. The administration of such medicinal products and Neofordex should be separated by at least two hours.
-- Ephedrine, due to a reduction in dexamethasone plasma levels by increased metabolic clearance.
-- -Medicinal products that may increase dexamethasone plasma concentration:
-- Aprepitant and fosaprepitant, due to an increase of dexamethasone plasma concentrations by a reduction of its hepatic metabolism.
-- Clarithromycin, erythromycin, telithromycin, itraconazole, ketoconazole, posaconazole, voriconazole, nelfinavir, ritonavir: Increased dexamethasone plasma concentration due to reduction of its hepatic metabolism by these enzyme inhibitors.
+-  Medicinal products that may reduce dexamethasone plasma concentration:
+-  Aminogluthetimide, due to a reduction of the efficacy of dexamethasone through an increase of its hepatic metabolism.
+-  Anticonvulsants that are hepatic enzyme inducers: carbamazepine, fosphenytoin, phenobarbital, phenytoin, primidone, due to the reduction of dexamethasone plasma levels and hence its efficacy.
+-  With rifampicin, due to reduction of dexamethasone plasma concentrations and efficacy by an increase of its hepatic metabolism.
+-  Topical gastro-intestinal medicinal products, antacids and activated carbon, as well as colestyramine, due to reduction of the intestinal absorption of dexamethasone. The administration of such medicinal products and Neofordex should be separated by at least two hours.
+-  Ephedrine, due to a reduction in dexamethasone plasma levels by increased metabolic clearance.
+-  Medicinal products that may increase dexamethasone plasma concentration:
+-  Aprepitant and fosaprepitant, due to an increase of dexamethasone plasma concentrations by a reduction of its hepatic metabolism.
+-  Clarithromycin, erythromycin, telithromycin, itraconazole, ketoconazole, posaconazole, voriconazole, nelfinavir, ritonavir: Increased dexamethasone plasma concentration due to reduction of its hepatic metabolism by these enzyme inhibitors.
 
 ## Effects of dexamethasone on other medicinal products
 
 Dexamethasone is a moderate inducer of CYP3A4 and of P-gp. Concomitant administration of dexamethasone with substances that are metabolised via CYP3A4 or transported by P-gp could lead to increased clearance and decreased plasma concentrations of these substances:
 
-- Oral contraceptives, as it cannot be excluded that the efficacy of oral contraceptives may be reduced during treatment. No interaction study has been performed with oral contraceptives. Effective measures to avoid pregnancy must be taken (see section 4.6). Efficacy of hormone replacement therapy may also be reduced.
-- Oral anticoagulants, due to a possible impact of corticosteroids on the metabolism of the oral anticoagulant and on coagulation factors, as well as the haemorrhagic risk (mucosa of the digestive tract, vascular fragility) of dexamethasone therapy itself at high doses or treatment periods above 10 days. It the combination is required, monitoring should be reinforced and coagulation parameters controlled after one week and then every other week of treatment as well as after the end of treatment.
-- Docetaxel and cyclophosphamide, due to reduction of their plasma levels by induction of CYP3A and P-gp.
-- Lapatinib, due to increased hepatotoxicity of lapatinib likely due to induction of CYP3A4 metabolism.
-- Ciclosporin, due to a reduction of ciclosporin bioavailability and plasma levels. Ciclosporin may also increase the intracellular uptake of dexamethasone. In addition, convulsions have been reported with concurrent use of dexamethasone and ciclosporin. Concomitant use of dexamethasone and ciclosporine should be avoided.
-- Midazolam, due a reduction in midazolam plasma levels by CYP3A4 induction. The efficacy of midazolam may be reduced.
-- Ivermectin, due to a reduction of ivermectin plasma levels. Parasite eradication must be successfully terminated before dexamethasone use (see section 4.4).
-- Rifabutin, due to reduced rifabutin plasma levels by induction of intestinal and hepatic CYP3A4.
-- Indinavir, due to a strong reduction of indinavir plasma levels by intestinal CYP3A4 induction.
-- Erythromycin, due to increased metabolism of erythromycin in non-carriers of the CYP3A5*1 allele after dexamethasone treatment.
+-  Oral contraceptives, as it cannot be excluded that the efficacy of oral contraceptives may be reduced during treatment. No interaction study has been performed with oral contraceptives. Effective measures to avoid pregnancy must be taken (see section 4.6). Efficacy of hormone replacement therapy may also be reduced.
+-  Oral anticoagulants, due to a possible impact of corticosteroids on the metabolism of the oral anticoagulant and on coagulation factors, as well as the haemorrhagic risk (mucosa of the digestive tract, vascular fragility) of dexamethasone therapy itself at high doses or treatment periods above 10 days. It the combination is required, monitoring should be reinforced and coagulation parameters controlled after one week and then every other week of treatment as well as after the end of treatment.
+-  Docetaxel and cyclophosphamide, due to reduction of their plasma levels by induction of CYP3A and P-gp.
+-  Lapatinib, due to increased hepatotoxicity of lapatinib likely due to induction of CYP3A4 metabolism.
+-  Ciclosporin, due to a reduction of ciclosporin bioavailability and plasma levels. Ciclosporin may also increase the intracellular uptake of dexamethasone. In addition, convulsions have been reported with concurrent use of dexamethasone and ciclosporin. Concomitant use of dexamethasone and ciclosporine should be avoided.
+-  Midazolam, due a reduction in midazolam plasma levels by CYP3A4 induction. The efficacy of midazolam may be reduced.
+-  Ivermectin, due to a reduction of ivermectin plasma levels. Parasite eradication must be successfully terminated before dexamethasone use (see section 4.4).
+-  Rifabutin, due to reduced rifabutin plasma levels by induction of intestinal and hepatic CYP3A4.
+-  Indinavir, due to a strong reduction of indinavir plasma levels by intestinal CYP3A4 induction.
+-  Erythromycin, due to increased metabolism of erythromycin in non-carriers of the CYP3A5*1 allele after dexamethasone treatment.
 
 <div style=\"page-break-after: always\"></div>
 
-- Isoniazid, as glucocorticoids may decrease isoniazid plasma concentrations, probably due to a stimulation of hepatic metabolism of isoniazid and a reduction of glucocorticoid metabolism.
-- Praziquantel, due to the reduction of praziquantel plasma concentrations due to an increase of its hepatic metabolism by dexamethasone, with a risk of failure of treatment. The treatments with the two medicinal products should be separated by at least one week.
+-  Isoniazid, as glucocorticoids may decrease isoniazid plasma concentrations, probably due to a stimulation of hepatic metabolism of isoniazid and a reduction of glucocorticoid metabolism.
+-  Praziquantel, due to the reduction of praziquantel plasma concentrations due to an increase of its hepatic metabolism by dexamethasone, with a risk of failure of treatment. The treatments with the two medicinal products should be separated by at least one week.
 
 Repeated, daily administration of dexamethasone also leads to reduced dexamethasone plasma levels due to the induction of CYP3A4 and P-gp. No dose adjustment is needed in the treatment of multiple myeloma.
 
@@ -499,11 +497,8 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -520,20 +515,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -585,13 +580,15 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine France
+THERAVIA 16 Rue Montrosier France
+
+92200 Neuilly-sur-Seine
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -623,44 +620,32 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER                                               |
+| MINIMUM PARTICULARS TO APPEARON BLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER                                              |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+Neofordex 40 mg tablet dexamethasone
+
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+THERAVIA
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
+EXP
+
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-| 5.   | OTHER   |
-|------|---------|
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Neofordex 40 mg tablet dexamethasone
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-THERAVIA
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -670,7 +655,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Neofordex 40 mg tablet dexamethasone
+## Neofordex 40 mg tablet
+
+## dexamethasone
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -698,9 +685,9 @@ Neofordex is used to treat adult patients with multiple myeloma, a cancer of the
 
 ## Do not take Neofordex
 
-- -if you are allergic to dexamethasone or any of the other ingredients of this medicine (listed in section 6);
-- -if you have a viral infection, especially viral hepatitis, herpes, chickenpox or shingles;
-- -if you have an untreated psychiatric illness.
+-  if you are allergic to dexamethasone or any of the other ingredients of this medicine (listed in section 6);
+-  if you have a viral infection, especially viral hepatitis, herpes, chickenpox or shingles;
+-  if you have an untreated psychiatric illness.
 
 ## Warnings and precautions
 
@@ -724,9 +711,7 @@ You should tell your doctor if you have symptoms of tumour lysis syndrome such a
 
 ## Long-term treatment
 
-During treatment with this medicine it is important to maintain a balanced diet (low in sugar and sodium, high in protein). Water and sodium retention is common and can lead to hypertension.
-
-Your doctor will advise on an appropriate diet, and may prescribe potassium, calcium or vitamin D supplements.
+During treatment with this medicine it is important to maintain a balanced diet (low in sugar and sodium, high in protein). Water and sodium retention is common and can lead to hypertension. Your doctor will advise on an appropriate diet, and may prescribe potassium, calcium or vitamin D supplements.
 
 Glucocorticoid therapy like dexamethasone may reduce the effect of medicines to treat diabetes or hypertension. The dose of these medicines may have to be increased by your doctor.
 
@@ -903,59 +888,59 @@ Neofordex may cause serious mental health problems. These are common (may affect
 
 If you notice any of these symptoms talk to a doctor straight away.
 
-Other possible side effects may be:
+## Other possible side effects may be:
 
 ## Very common: may affect more than 1 in 10 people
 
-- -Increased blood sugar levels (hyperglycaemia);
-- -Constipation;
-- -Having trouble sleeping (insomnia);
-- -Muscle cramps, muscle weakness;
-- -Tiredness, weakness, swelling of the body and face.
+-  Increased blood sugar levels (hyperglycaemia);
+-  Constipation;
+-  Having trouble sleeping (insomnia);
+-  Muscle cramps, muscle weakness;
+-  Tiredness, weakness, swelling of the body and face.
 
 ## Common: may affect up to 1 in 10 people
 
-- -Bacterial, viral or fungal infections, including pneumonia, shingles, infections of the nose, mouth, tonsils or throat, bronchitis, herpes, bladder infection, candida infection;
-- -Reduction in the number of red or white blood cells and/or platelets, or increased number of white blood cells, decreased levels of potassium or of albumin (a protein) in the blood, increased levels of uric acid in the blood, changes in liver function tests;
-- -Cushing's syndrome, i.e. weight gain of the trunk and face, excessive sweating, stretch marks, visible swollen capillaries (small blood vessels) and dryness of the skin, growth of extra facial hair (especially in women) and thinning of the hair;
-- -Development of diabetes, loss or increase of appetite, weight gain or weight loss, water retention;
-- -Aggression, confusion, irritability, nervousness, restlessness, altered mood;
-- -Sensitivity, numbness, tingling or burning sensation of the skin, or pain in the hands or feet due to nerve damage, dizziness, trembling, headache, loss of or change in the sense of taste;
-- -Cataract, blurred vision;
-- -Fast or irregular heart rhythm, too high or too low blood pressure, formation of blood clots that may clog blood vessels (for example in legs or lungs), swelling of arms or legs, reddening of the skin of the face or body;
-- -Cough, breathing difficulties, difficulties speaking, sore throat or mouth, hoarseness, dry mouth, hiccough, inflammation of the mucous membranes;
-- -Vomiting, nausea, diarrhoea, indigestion, bloating, swollen and/or painful stomach;
-- -Rash, itching, reddened skin, excessive sweating (hyperhidrosis), dry skin, hair loss (alopecia);
-- -Muscle wasting, pain of the muscles, joints, bones or limbs;
-- -Frequent urination;
-- -Pain, fever, chills, fainting, vertigo, exhaustion, drowsiness, impaired sense of balance.
+-  Bacterial, viral or fungal infections, including pneumonia, shingles, infections of the nose, mouth, tonsils or throat, bronchitis, herpes, bladder infection, candida infection;
+-  Reduction in the number of red or white blood cells and/or platelets, or increased number of white blood cells, decreased levels of potassium or of albumin (a protein) in the blood, increased levels of uric acid in the blood, changes in liver function tests;
+-  Cushing's syndrome, i.e. weight gain of the trunk and face, excessive sweating, stretch marks, visible swollen capillaries (small blood vessels) and dryness of the skin, growth of extra facial hair (especially in women) and thinning of the hair;
+-  Development of diabetes, loss or increase of appetite, weight gain or weight loss, water retention;
+-  Aggression, confusion, irritability, nervousness, restlessness, altered mood;
+-  Sensitivity, numbness, tingling or burning sensation of the skin, or pain in the hands or feet due to nerve damage, dizziness, trembling, headache, loss of or change in the sense of taste;
+-  Cataract, blurred vision;
+-  Fast or irregular heart rhythm, too high or too low blood pressure, formation of blood clots that may clog blood vessels (for example in legs or lungs), swelling of arms or legs, reddening of the skin of the face or body;
+-  Cough, breathing difficulties, difficulties speaking, sore throat or mouth, hoarseness, dry mouth, hiccough, inflammation of the mucous membranes;
+-  Vomiting, nausea, diarrhoea, indigestion, bloating, swollen and/or painful stomach;
+-  Rash, itching, reddened skin, excessive sweating (hyperhidrosis), dry skin, hair loss (alopecia);
+-  Muscle wasting, pain of the muscles, joints, bones or limbs;
+-  Frequent urination;
+-  Pain, fever, chills, fainting, vertigo, exhaustion, drowsiness, impaired sense of balance.
 
 ## Uncommon: may affect up to 1 in 100 people
 
-- -Fever due to a lack of certain white blood cells, lack of all types of blood cells, diminished blood clotting,;
-- -Failure of the thyroid gland to produce normal amounts of hormones (hypothyroidism);
-- -Lack of body water (dehydration) with thirst or headache, decreased magnesium or calcium levels in the blood;
-- -Mood swings, hallucinations;
-- -Stroke, difficulties in coordination or movement, fainting;
+-  Fever due to a lack of certain white blood cells, lack of all types of blood cells, diminished blood clotting,;
+-  Failure of the thyroid gland to produce normal amounts of hormones (hypothyroidism);
+-  Lack of body water (dehydration) with thirst or headache, decreased magnesium or calcium levels in the blood;
+-  Mood swings, hallucinations;
+-  Stroke, difficulties in coordination or movement, fainting;
 
 <div style=\"page-break-after: always\"></div>
 
-- -Inflammation of the eye and/or eyelids, increased tearing;
-- -Heart attack, abnormally slow heartbeat;
-- -Hives;
-- -Failure of the kidneys.
+-  Inflammation of the eye and/or eyelids, increased tearing;
+-  Heart attack, abnormally slow heartbeat;
+-  Hives;
+-  Failure of the kidneys.
 
 ## Not known: frequency cannot be estimated from the available data
 
-- -Infection, inflammation of the whole body due to infection (sepsis);
-- -Inability of the body to respond normally to severe stress such as accidents, surgery or illness due to insufficient function of the adrenal glands, severe unusual headache with visual disturbances linked to the withdrawal of treatment, irregularity of menstrual cycles in women, excessive hair growth (hirsutism);
-- -Increased need for diabetes medicine, salt imbalance, potassium loss due to low carbon dioxide levels (a condition called metabolic alkalosis);
-- -Epileptic fits;
-- -Increased pressure in the eye including glaucoma, choroid and retinal disorders (chorioretinopathy);
-- -Inability of the heart to pump enough blood round the body (heart failure);
-- -Ulcers, perforations and/or bleeding in the oesophagus (gullet), stomach or intestine, inflamed pancreas (which may show as pain in the back and abdomen);
-- -Slow wound healing, acne, thinning of the skin, bruising, red or purple discolorations on the skin (purpura);
-- -Thinning of the bones with increased risk of fracture, bone disease, ruptured tendon.
+-  Infection, inflammation of the whole body due to infection (sepsis);
+-  Inability of the body to respond normally to severe stress such as accidents, surgery or illness due to insufficient function of the adrenal glands, severe unusual headache with visual disturbances linked to the withdrawal of treatment, irregularity of menstrual cycles in women, excessive hair growth (hirsutism);
+-  Increased need for diabetes medicine, salt imbalance, potassium loss due to low carbon dioxide levels (a condition called metabolic alkalosis);
+-  Epileptic fits;
+-  Increased pressure in the eye including glaucoma, choroid and retinal disorders (chorioretinopathy);
+-  Inability of the heart to pump enough blood round the body (heart failure);
+-  Ulcers, perforations and/or bleeding in the oesophagus (gullet), stomach or intestine, inflamed pancreas (which may show as pain in the back and abdomen);
+-  Slow wound healing, acne, thinning of the skin, bruising, red or purple discolorations on the skin (purpura);
+-  Thinning of the bones with increased risk of fracture, bone disease, ruptured tendon.
 
 ## Reporting of side effects
 
@@ -990,9 +975,9 @@ Each carton contains 10 x 1 tablets in OPA/Aluminium /PVC-Aluminium perforated u
 
 ## Marketing Authorisation Holder and Manufacturer
 
-THERAVIA 16 Rue Montrosier France
-
 92200 Neuilly-sur-Seine
+
+THERAVIA 16 Rue Montrosier France
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1004,6 +989,10 @@ Tél/Tel : +32 (0)2 808 2973
 
 question@theravia.com
 
+## Lietuva
+
+Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
+
 ## България
 
 THERAVIA
@@ -1012,65 +1001,15 @@ Teл.: +33 (0)1 72 69 01 86
 
 question@theravia.com
 
+## Luxembourg/Luxemburg
+
+THERAVIA Tél/Tel: +352 278 62 329 question@theravia.com
+
 ## Česká republika
 
 THERAVIA
 
 Tel.: +33 (0)1 72 69 01 86
-
-question@theravia.com
-
-## Danmark
-
-Immedica Pharma AB
-
-Tlf: +46 (0)8 533 39 500
-
-info@immedica.com
-
-## Deutschland
-
-THERAVIA
-
-Tel : 0800 10 90 001
-
-question@theravia.com
-
-## Eesti
-
-Immedica Pharma AB
-
-Tel/Puh: +46 (0)8 533 39 500
-
-info@immedica.com
-
-## Ελλάδα
-
-RAFARM AEBE
-
-Τηλ: + 302 106776550
-
-## España
-
-THERAVIA
-
-Tel: + 34 914 146 613
-
-question@theravia.com
-
-## Lietuva
-
-Immedica Pharma AB
-
-Tel/Puh: +46 (0)8 533 39 500
-
-info@immedica.com
-
-## Luxembourg/Luxemburg
-
-THERAVIA
-
-Tél/Tel: +352 278 62 329
 
 question@theravia.com
 
@@ -1082,11 +1021,23 @@ Tel.: +33 (0)1 72 69 01 86
 
 question@theravia.com
 
+## Danmark
+
+Immedica Pharma AB Tlf: +46 (0)8 533 39 500 info@immedica.com
+
 ## Malta
 
 THERAVIA
 
 Tel : 01 72 69 01 86
+
+question@theravia.com
+
+## Deutschland
+
+THERAVIA
+
+Tel : 0800 10 90 001
 
 question@theravia.com
 
@@ -1098,7 +1049,7 @@ Tel : +31 (0)20 208 2161
 
 question@theravia.com
 
-## Norge
+## Eesti
 
 Immedica Pharma AB
 
@@ -1106,11 +1057,27 @@ Tel/Puh: +46 (0)8 533 39 500
 
 info@immedica.com
 
+## Norge
+
+Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
+
+## Ελλάδα
+
+RAFARM AEBE
+
+Τηλ: + 302 106776550
+
 ## Österreich
 
 THERAVIA
 
 Tel : 01 72 69 01 86
+
+question@theravia.com
+
+## España
+
+THERAVIA Tel: + 34 914 146 613
 
 question@theravia.com
 
@@ -1126,11 +1093,7 @@ question@theravia.com
 
 ## France
 
-THERAVIA
-
-Tél: +33 (0)1 72 69 01 86
-
-question@theravia.com
+Norgine SAS Tél: +33 (0)1 41 39 93 90 medinfo@norgine.com
 
 ## Hrvatska
 
@@ -1150,7 +1113,11 @@ question@theravia.com
 
 ## Ísland
 
-Immedica Pharma AB Sími: + 46 (0)8 533 39 500 info@immedica.com
+Immedica Pharma AB
+
+Sími: + 46 (0)8 533 39 500
+
+info@immedica.com
 
 ## Italia
 
@@ -1168,11 +1135,7 @@ RAFARM AEBE
 
 ## Latvija
 
-Immedica Pharma AB
-
-Tel: +46 (0)8 533 39 500
-
-info@immedica.com
+Immedica Pharma AB Tel: +46 (0)8 533 39 500 info@immedica.com
 
 ## This leaflet was last revised in
 
@@ -1190,23 +1153,31 @@ question@theravia.com
 
 ## România
 
-THERAVIA Tel: +33 (0)1 72 69 01 86 question@theravia.com
+THERAVIA
+
+Tel: +33 (0)1 72 69 01 86
+
+question@theravia.com
 
 ## Slovenija
 
-THERAVIA Tel: +33 (0)1 72 69 01 86 question@theravia.com
+THERAVIA
+
+Tel: +33 (0)1 72 69 01 86
+
+question@theravia.com
 
 ## Slovenská republika
 
-THERAVIA Tel.: +33 (0)1 72 69 01 86 question@theravia.com
+THERAVIA
+
+Tel.: +33 (0)1 72 69 01 86
+
+question@theravia.com
 
 ## Suomi/Finland
 
-Immedica Pharma AB
-
-Tel/Puh: +46 (0)8 533 39 500
-
-info@immedica.com
+Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
 
 ## Sverige
 

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-01-05 16:06:00
+document_datetime: 2026-04-09 17:38:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cablivi.html
 document_name: cablivi.html
 version: success
-processing_time: 0.088971
-conversion_datetime: 2026-01-06 00:10:11.104286
+processing_time: 0.1261827
+conversion_datetime: 2026-04-13 14:02:14.489635
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Cablivi
 
 [RSS](/en/individual-human-medicine.xml/66605)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-caplacizumab Medicine Human Authorised
+caplacizumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -109,275 +109,141 @@ Reference Number: EMA/244353/2020
 
 English (EN) (123.77 KB - PDF)
 
-**First published:** 10/09/2018
-
-**Last updated:** 22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/en/documents/overview/cablivi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-592)
+[Other languages (22)](#file-language-dropdown-735)
 
 български (BG) (146.66 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/bg/documents/overview/cablivi-epar-medicine-overview_bg.pdf)
 
 español (ES) (123.67 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/es/documents/overview/cablivi-epar-medicine-overview_es.pdf)
 
 čeština (CS) (145.4 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/cs/documents/overview/cablivi-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (122.6 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/da/documents/overview/cablivi-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (126.36 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/de/documents/overview/cablivi-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (111.41 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/et/documents/overview/cablivi-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (146.36 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/el/documents/overview/cablivi-epar-medicine-overview_el.pdf)
 
 français (FR) (124.71 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/fr/documents/overview/cablivi-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (144.16 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/hr/documents/overview/cablivi-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (121.95 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/it/documents/overview/cablivi-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (152.75 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/lv/documents/overview/cablivi-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (146.81 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/lt/documents/overview/cablivi-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (144.54 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/hu/documents/overview/cablivi-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (154.39 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/mt/documents/overview/cablivi-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (123 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/nl/documents/overview/cablivi-epar-medicine-overview_nl.pdf)
 
 polski (PL) (147.3 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/pl/documents/overview/cablivi-epar-medicine-overview_pl.pdf)
 
 português (PT) (123.34 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/pt/documents/overview/cablivi-epar-medicine-overview_pt.pdf)
 
 română (RO) (143.92 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/ro/documents/overview/cablivi-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (144.95 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/sk/documents/overview/cablivi-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (143 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/sl/documents/overview/cablivi-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (121.92 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/fi/documents/overview/cablivi-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (122.51 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-22/06/2020
+**First published:** 10/09/2018 **Last updated:** 22/06/2020
 
 [View](/sv/documents/overview/cablivi-epar-medicine-overview_sv.pdf)
 
@@ -385,9 +251,7 @@ Cablivi : EPAR - Risk-management-plan summary
 
 English (EN) (25.32 KB - PDF)
 
-**First published:** 10/09/2018
-
-**Last updated:** 10/09/2018
+**First published:** 10/09/2018 **Last updated:** 10/09/2018
 
 [View](/en/documents/rmp-summary/cablivi-epar-risk-management-plan-summary_en.pdf)
 
@@ -395,305 +259,161 @@ English (EN) (25.32 KB - PDF)
 
 Cablivi : EPAR - Product Information
 
-English (EN) (686.58 KB - PDF)
+English (EN) (531.87 KB - PDF)
 
-**First published:** 10/09/2018
-
-**Last updated:** 02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/en/documents/product-information/cablivi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-13)
+[Other languages (24)](#file-language-dropdown-479)
 
-български (BG) (722.15 KB - PDF)
+български (BG) (678.86 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/bg/documents/product-information/cablivi-epar-product-information_bg.pdf)
 
-español (ES) (661.3 KB - PDF)
+español (ES) (527.33 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/es/documents/product-information/cablivi-epar-product-information_es.pdf)
 
-čeština (CS) (465.58 KB - PDF)
+čeština (CS) (486.15 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/cs/documents/product-information/cablivi-epar-product-information_cs.pdf)
 
-dansk (DA) (588.86 KB - PDF)
+dansk (DA) (551.29 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/da/documents/product-information/cablivi-epar-product-information_da.pdf)
 
-Deutsch (DE) (810.34 KB - PDF)
+Deutsch (DE) (760.89 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/de/documents/product-information/cablivi-epar-product-information_de.pdf)
 
-eesti keel (ET) (456.76 KB - PDF)
+eesti keel (ET) (459.36 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/et/documents/product-information/cablivi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (852.98 KB - PDF)
+ελληνικά (EL) (685.4 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/el/documents/product-information/cablivi-epar-product-information_el.pdf)
 
-français (FR) (712.48 KB - PDF)
+français (FR) (727.35 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/fr/documents/product-information/cablivi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (653.48 KB - PDF)
+hrvatski (HR) (640.2 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/hr/documents/product-information/cablivi-epar-product-information_hr.pdf)
 
-íslenska (IS) (674.6 KB - PDF)
+íslenska (IS) (692.26 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/is/documents/product-information/cablivi-epar-product-information_is.pdf)
 
-italiano (IT) (667.48 KB - PDF)
+italiano (IT) (686.41 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/it/documents/product-information/cablivi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (615.88 KB - PDF)
+latviešu valoda (LV) (608.02 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/lv/documents/product-information/cablivi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (550.38 KB - PDF)
+lietuvių kalba (LT) (447.51 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/lt/documents/product-information/cablivi-epar-product-information_lt.pdf)
 
-magyar (HU) (476.04 KB - PDF)
+magyar (HU) (660.97 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/hu/documents/product-information/cablivi-epar-product-information_hu.pdf)
 
-Malti (MT) (717.63 KB - PDF)
+Malti (MT) (665.57 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/mt/documents/product-information/cablivi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (638.04 KB - PDF)
+Nederlands (NL) (598.22 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/nl/documents/product-information/cablivi-epar-product-information_nl.pdf)
 
-norsk (NO) (593.06 KB - PDF)
+norsk (NO) (554.25 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/no/documents/product-information/cablivi-epar-product-information_no.pdf)
 
-polski (PL) (699.74 KB - PDF)
+polski (PL) (646.08 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/pl/documents/product-information/cablivi-epar-product-information_pl.pdf)
 
-português (PT) (679.42 KB - PDF)
+português (PT) (574.76 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/pt/documents/product-information/cablivi-epar-product-information_pt.pdf)
 
-română (RO) (689.16 KB - PDF)
+română (RO) (644.88 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/ro/documents/product-information/cablivi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (962.94 KB - PDF)
+slovenčina (SK) (710.99 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/sk/documents/product-information/cablivi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (713.27 KB - PDF)
+slovenščina (SL) (664.62 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/sl/documents/product-information/cablivi-epar-product-information_sl.pdf)
 
-Suomi (FI) (655.25 KB - PDF)
+Suomi (FI) (669.84 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/fi/documents/product-information/cablivi-epar-product-information_fi.pdf)
 
-svenska (SV) (596.23 KB - PDF)
+svenska (SV) (575.38 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-02/12/2024
+**First published:** 10/09/2018 **Last updated:** 09/04/2026
 
 [View](/sv/documents/product-information/cablivi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0050 22/11/2024
+**Latest procedure affecting product information:** VR/0000340403
+
+09/04/2026
 
 icon globe
 
@@ -713,305 +433,177 @@ Cablivi : EPAR - All Authorised presentations
 
 English (EN) (68.8 KB - PDF)
 
-**First published:** 10/09/2018
-
-**Last updated:** 14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/en/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-516)
+[Other languages (24)](#file-language-dropdown-50)
 
 български (BG) (47.91 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/bg/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (44.69 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/es/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (46.94 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/cs/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (46.46 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/da/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (48.46 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/de/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (44.34 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/et/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (48.35 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/el/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (46.29 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/fr/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (45.17 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/hr/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (45.99 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/is/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (69.26 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/it/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (46.22 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/lv/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (70.09 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/lt/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (46.2 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/hu/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (45.86 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/mt/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (45.3 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/nl/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (47.89 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/no/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (48.01 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/pl/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (46.82 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/pt/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (45.28 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/ro/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (47.85 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/sk/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (45.44 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/sl/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (43.53 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/fi/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (46.61 KB - PDF)
 
-**First published:**
-
-10/09/2018
-
-**Last updated:**
-
-14/03/2019
+**First published:** 10/09/2018 **Last updated:** 14/03/2019
 
 [View](/sv/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Cablivi Active substance Caplacizumab International non-proprietary name (INN) or common name caplacizumab Therapeutic area (MeSH) Purpura, Thrombotic Thrombocytopenic Anatomical therapeutic chemical (ATC) code B01A
+Name of medicine
+
+Cablivi
+
+Active substance
+
+Caplacizumab
+
+International non-proprietary name (INN) or common name
+
+caplacizumab
+
+Therapeutic area (MeSH)
+
+Purpura, Thrombotic Thrombocytopenic
+
+Anatomical therapeutic chemical (ATC) code
+
+B01A
 
 ### Pharmacotherapeutic group
 
@@ -1023,7 +615,9 @@ Cablivi is indicated for the treatment of adults experiencing an episode of acqu
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004426
+EMA product number
+
+EMEA/H/C/004426
 
 Orphan
 
@@ -1035,7 +629,17 @@ Ablynx NV
 
 Technologiepark 21
 
-Opinion adopted 31/05/2018 Marketing authorisation issued 30/08/2018 Revision 10
+Opinion adopted
+
+31/05/2018
+
+Marketing authorisation issued
+
+30/08/2018
+
+Revision
+
+11
 
 ## Assessment history
 
@@ -1047,13 +651,19 @@ Collapse section
 
 Cablivi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (218.88 KB - PDF)
+English (EN) (157.08 KB - PDF)
 
-**First published:** 04/12/2018
-
-**Last updated:** 05/01/2026
+**First published:** 09/04/2026
 
 [View](/en/documents/procedural-steps-after/cablivi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Cablivi : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (218.88 KB - PDF)
+
+**First published:** 04/12/2018 **Last updated:** 09/04/2026
+
+[View](/en/documents/procedural-steps-after/cablivi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Cablivi-H-C-4426-II-0021: EPAR - Assessment report - Variation
 
@@ -1067,9 +677,7 @@ English (EN) (619.21 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Cablivi (II-21)
 
-Adopted
-
-Reference Number: EMA/CHMP/227535/2020
+Adopted Reference Number: EMA/CHMP/227535/2020
 
 English (EN) (127.68 KB - PDF)
 
@@ -1085,9 +693,7 @@ Reference Number: EMA/541816/2018
 
 English (EN) (361.84 KB - PDF)
 
-**First published:** 10/09/2018
-
-**Last updated:** 10/09/2018
+**First published:** 10/09/2018 **Last updated:** 10/09/2018
 
 [View](/en/documents/orphan-maintenance-report/cablivi-orphan-maintenance-assessment-report-initial-authorisation_en.pdf)
 
@@ -1097,42 +703,40 @@ Reference Number: EMA/490172/2018
 
 English (EN) (2.26 MB - PDF)
 
-**First published:** 10/09/2018
-
-**Last updated:** 10/09/2018
+**First published:** 10/09/2018 **Last updated:** 10/09/2018
 
 [View](/en/documents/assessment-report/cablivi-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Cablivi
 
-Adopted
-
-Reference Number: EMA/CHMP/419463/2018
+Adopted Reference Number: EMA/CHMP/419463/2018
 
 English (EN) (69.7 KB - PDF)
 
-**First published:** 29/06/2018
-
-**Last updated:** 29/06/2018
+**First published:** 29/06/2018 **Last updated:** 29/06/2018
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-cablivi_en.pdf)
 
-#### News on Cablivi
+## News on Cablivi
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-30 April 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-30-april-2020) 30/04/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-30 April 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-30-april-2020)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 June 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-june-2018) 29/06/2018
+30/04/2020
 
-#### More information on Cablivi
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 June 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-june-2018)
+
+29/06/2018
+
+## More information on Cablivi
 
 - [EU/3/09/629 - orphan designation for treatment of thrombotic thrombocytopenic purpura](/en/medicines/human/orphan-designations/eu-3-09-629)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 05/01/2026
+**This page was last updated on**
+
+09/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

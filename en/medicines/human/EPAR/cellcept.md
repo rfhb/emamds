@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-25 14:15:00
+document_datetime: 2026-04-10 10:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cellcept.html
 document_name: cellcept.html
 version: success
-processing_time: 0.1093712
-conversion_datetime: 2026-03-01 19:49:29.413962
+processing_time: 0.1553937
+conversion_datetime: 2026-04-13 13:49:42.100596
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # CellCept
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-mycophenolate mofetil Medicine Human Authorised
+mycophenolate mofetil
+
+Medicine Human Authorised
 
 Page contents
 
@@ -36,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on CellCept](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-85111)
 - [More information on CellCept](#related-medicines)
 - [Topics](#topics)
 
@@ -123,275 +126,141 @@ Reference Number: EMA/552337/2024
 
 English (EN) (112.23 KB - PDF)
 
-**First published:** 12/03/2008
-
-**Last updated:** 17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/en/documents/overview/cellcept-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-750)
+[Other languages (22)](#file-language-dropdown-524)
 
 български (BG) (139.77 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/bg/documents/overview/cellcept-epar-medicine-overview_bg.pdf)
 
 español (ES) (114.56 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/es/documents/overview/cellcept-epar-medicine-overview_es.pdf)
 
 čeština (CS) (137.72 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/cs/documents/overview/cellcept-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (114.73 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/da/documents/overview/cellcept-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (118.56 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/de/documents/overview/cellcept-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (112.69 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/et/documents/overview/cellcept-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (137.14 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/el/documents/overview/cellcept-epar-medicine-overview_el.pdf)
 
 français (FR) (116.3 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/fr/documents/overview/cellcept-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (136.95 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/hr/documents/overview/cellcept-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (113.09 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/it/documents/overview/cellcept-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (144.53 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/lv/documents/overview/cellcept-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (138.71 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/lt/documents/overview/cellcept-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (138.65 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/hu/documents/overview/cellcept-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (142.91 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/mt/documents/overview/cellcept-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (115.16 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/nl/documents/overview/cellcept-epar-medicine-overview_nl.pdf)
 
 polski (PL) (138.62 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/pl/documents/overview/cellcept-epar-medicine-overview_pl.pdf)
 
 português (PT) (115.71 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/pt/documents/overview/cellcept-epar-medicine-overview_pt.pdf)
 
 română (RO) (136.7 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/ro/documents/overview/cellcept-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (138.31 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/sk/documents/overview/cellcept-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (135.85 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/sl/documents/overview/cellcept-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (112.39 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/fi/documents/overview/cellcept-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (113.73 KB - PDF)
 
-**First published:**
-
-12/03/2008
-
-**Last updated:**
-
-17/02/2025
+**First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/sv/documents/overview/cellcept-epar-medicine-overview_sv.pdf)
 
@@ -407,305 +276,161 @@ English (EN) (1.97 MB - PDF)
 
 CellCept : EPAR - Product Information
 
-English (EN) (1.16 MB - PDF)
+English (EN) (1.17 MB - PDF)
 
-**First published:** 27/10/2009
-
-**Last updated:** 25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/en/documents/product-information/cellcept-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-789)
+[Other languages (24)](#file-language-dropdown-968)
 
-български (BG) (1.54 MB - PDF)
+български (BG) (1.55 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/bg/documents/product-information/cellcept-epar-product-information_bg.pdf)
 
-español (ES) (1.2 MB - PDF)
+español (ES) (1.25 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/es/documents/product-information/cellcept-epar-product-information_es.pdf)
 
-čeština (CS) (1.34 MB - PDF)
+čeština (CS) (1.37 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/cs/documents/product-information/cellcept-epar-product-information_cs.pdf)
 
-dansk (DA) (1.2 MB - PDF)
+dansk (DA) (1.19 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/da/documents/product-information/cellcept-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.3 MB - PDF)
+Deutsch (DE) (1.34 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/de/documents/product-information/cellcept-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.17 MB - PDF)
+eesti keel (ET) (1.18 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/et/documents/product-information/cellcept-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.73 MB - PDF)
+ελληνικά (EL) (1.76 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-26/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/el/documents/product-information/cellcept-epar-product-information_el.pdf)
 
-français (FR) (1.29 MB - PDF)
+français (FR) (1.46 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/fr/documents/product-information/cellcept-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.41 MB - PDF)
+hrvatski (HR) (1.43 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/hr/documents/product-information/cellcept-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.14 MB - PDF)
+íslenska (IS) (1.18 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/is/documents/product-information/cellcept-epar-product-information_is.pdf)
 
-italiano (IT) (1.29 MB - PDF)
+italiano (IT) (1.24 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/it/documents/product-information/cellcept-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.34 MB - PDF)
+latviešu valoda (LV) (1.38 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/lv/documents/product-information/cellcept-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.31 MB - PDF)
+lietuvių kalba (LT) (1.33 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/lt/documents/product-information/cellcept-epar-product-information_lt.pdf)
 
-magyar (HU) (1.38 MB - PDF)
+magyar (HU) (1.43 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/hu/documents/product-information/cellcept-epar-product-information_hu.pdf)
 
-Malti (MT) (1.52 MB - PDF)
+Malti (MT) (1.56 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/mt/documents/product-information/cellcept-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.21 MB - PDF)
+Nederlands (NL) (1.22 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/nl/documents/product-information/cellcept-epar-product-information_nl.pdf)
 
-norsk (NO) (1.19 MB - PDF)
+norsk (NO) (1.23 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/no/documents/product-information/cellcept-epar-product-information_no.pdf)
 
-polski (PL) (1.41 MB - PDF)
+polski (PL) (1.42 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/pl/documents/product-information/cellcept-epar-product-information_pl.pdf)
 
-português (PT) (1.23 MB - PDF)
+português (PT) (1.24 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/pt/documents/product-information/cellcept-epar-product-information_pt.pdf)
 
-română (RO) (1.55 MB - PDF)
+română (RO) (1.45 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/ro/documents/product-information/cellcept-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.38 MB - PDF)
+slovenčina (SK) (1.39 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/sk/documents/product-information/cellcept-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.32 MB - PDF)
+slovenščina (SL) (1.37 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/sl/documents/product-information/cellcept-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.26 MB - PDF)
+Suomi (FI) (1.18 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/fi/documents/product-information/cellcept-epar-product-information_fi.pdf)
 
-svenska (SV) (1.15 MB - PDF)
+svenska (SV) (1.16 MB - PDF)
 
-**First published:**
-
-27/10/2009
-
-**Last updated:**
-
-25/02/2026
+**First published:** 27/10/2009 **Last updated:** 10/04/2026
 
 [View](/sv/documents/product-information/cellcept-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000313241 12/02/2026
+**Latest procedure affecting product information:** PSUR/0000296546
+
+26/03/2026
 
 icon globe
 
@@ -725,305 +450,177 @@ CellCept : EPAR - All Authorised presentations
 
 English (EN) (20.69 KB - PDF)
 
-**First published:** 06/04/2006
-
-**Last updated:** 06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/en/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-353)
+[Other languages (24)](#file-language-dropdown-677)
 
 български (BG) (46.8 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/bg/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (20.57 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/es/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (35.05 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/cs/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (18.05 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/da/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (18.09 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/de/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (17.82 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/et/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (43.68 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/el/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (19.03 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/fr/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (35.75 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/hr/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (17.45 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/is/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (67.02 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/it/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (42.71 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/lv/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (39.87 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/lt/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (36.79 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/hu/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (39.58 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/mt/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (21.03 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/nl/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (17.74 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/no/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (40 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/pl/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (21.14 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/pt/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (38.8 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/ro/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (35.12 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/sk/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (24.64 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/sl/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (17.03 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/fi/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (17.8 KB - PDF)
 
-**First published:**
-
-06/04/2006
-
-**Last updated:**
-
-06/04/2020
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/sv/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine CellCept Active substance mycophenolate mofetil International non-proprietary name (INN) or common name mycophenolate mofetil Therapeutic area (MeSH) Graft Rejection Anatomical therapeutic chemical (ATC) code L04AA06
+Name of medicine
+
+CellCept
+
+Active substance
+
+mycophenolate mofetil
+
+International non-proprietary name (INN) or common name
+
+mycophenolate mofetil
+
+Therapeutic area (MeSH)
+
+Graft Rejection
+
+Anatomical therapeutic chemical (ATC) code
+
+L04AA06
 
 ### Pharmacotherapeutic group
 
@@ -1035,13 +632,23 @@ CellCept is indicated in combination with ciclosporin and corticosteroids for th
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000082 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000082
+
+Marketing authorisation holder
 
 Roche Registration GmbH
 
 Emil-Barell-Strasse 1
 
-Marketing authorisation issued 14/02/1996 Revision 41
+Marketing authorisation issued
+
+14/02/1996
+
+Revision
+
+42
 
 ## Assessment history
 
@@ -1053,19 +660,33 @@ Collapse section
 
 CellCept : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (157.79 KB - PDF)
+English (EN) (151.02 KB - PDF)
 
-**First published:** 27/10/2009
-
-**Last updated:** 25/02/2026
+**First published:** 24/02/2026 **Last updated:** 10/04/2026
 
 [View](/en/documents/procedural-steps-after/cellcept-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
+CellCept : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (434.81 KB - PDF)
+
+**First published:** 27/10/2009 **Last updated:** 24/02/2026
+
+[View](/en/documents/procedural-steps-after/cellcept-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+CellCept-PSUSA-00010550-202505 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-3063396
+
+English (EN) (187.87 KB - PDF)
+
+**First published:** 10/04/2026
+
+[View](/en/documents/scientific-conclusion/cellcept-psusa-00010550-202505-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
+
 CellCept-H-C-82-II-0170-G : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/554250/2024
+Adopted Reference Number: EMA/554250/2024
 
 English (EN) (8.26 MB - PDF)
 
@@ -1075,9 +696,7 @@ English (EN) (8.26 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for CellCept (II-170-G)
 
-Adopted
-
-Reference Number: EMA/178674/2024
+Adopted Reference Number: EMA/178674/2024
 
 English (EN) (130.37 KB - PDF)
 
@@ -1111,23 +730,17 @@ Reference Number: EMA/187794/2018
 
 English (EN) (68.66 KB - PDF)
 
-**First published:** 26/03/2018
-
-**Last updated:** 26/03/2018
+**First published:** 26/03/2018 **Last updated:** 26/03/2018
 
 [View](/en/documents/scientific-conclusion/cellcept-h-c-psusa-00010550-201705-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 CellCept-H-C-82-P46-0034 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/735864/2012
+Adopted Reference Number: EMA/735864/2012
 
 English (EN) (281.9 KB - PDF)
 
-**First published:** 22/01/2013
-
-**Last updated:** 22/01/2013
+**First published:** 22/01/2013 **Last updated:** 22/01/2013
 
 [View](/en/documents/variation-report/cellcept-h-c-82-p46-0034-epar-assessment-report_en.pdf)
 
@@ -1135,9 +748,7 @@ CellCept : EPAR - Steps taken after authorisation when a cutoff date has been us
 
 English (EN) (128.97 KB - PDF)
 
-**First published:** 06/04/2006
-
-**Last updated:** 06/04/2006
+**First published:** 06/04/2006 **Last updated:** 06/04/2006
 
 [View](/en/documents/steps-after-cutoff/cellcept-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
@@ -1147,9 +758,7 @@ CellCept : EPAR - Scientific Discussion
 
 English (EN) (439.78 KB - PDF)
 
-**First published:** 06/04/2006
-
-**Last updated:** 06/04/2006
+**First published:** 06/04/2006 **Last updated:** 06/04/2006
 
 [View](/en/documents/scientific-discussion/cellcept-epar-scientific-discussion_en.pdf)
 
@@ -1157,25 +766,193 @@ CellCept : EPAR - Procedural steps taken before authorisation
 
 English (EN) (85.09 KB - PDF)
 
-**First published:** 06/04/2006
-
-**Last updated:** 06/04/2006
+**First published:** 06/04/2006 **Last updated:** 06/04/2006
 
 [View](/en/documents/procedural-steps/cellcept-epar-procedural-steps-taken-authorisation_en.pdf)
 
 ## News on CellCept
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2024) 15/11/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2024)
 
-[Mycophenolate: updated recommendations for contraception for men and women](/en/news/mycophenolate-updated-recommendations-contraception-men-women) 15/12/2017
+15/11/2024
 
-[EMA recommends additional measures to prevent use of mycophenolate in pregnancy](/en/news/ema-recommends-additional-measures-prevent-use-mycophenolate-pregnancy) 23/10/2015
+[Mycophenolate: updated recommendations for contraception for men and women](/en/news/mycophenolate-updated-recommendations-contraception-men-women)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 October 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-october-2015) 23/10/2015
+15/12/2017
 
-[European Medicines Agency finalises review of medicines concerned by Roche pharmacovigilance inspection](/en/news/european-medicines-agency-finalises-review-medicines-concerned-roche-pharmacovigilance-inspection) 19/11/2013
+[EMA recommends additional measures to prevent use of mycophenolate in pregnancy](/en/news/ema-recommends-additional-measures-prevent-use-mycophenolate-pregnancy)
 
-[European Medicines Agency starts infringement procedure to investigate Roche's alleged non-compliance with pharmacovigilance obligations](/en/news/european-medicines-agency-starts-infringement-procedure-investigate-roches-alleged-non-compliance-pharmacovigilance-obligations) 23/10/2012
+23/10/2015
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 October 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-october-2015)
+
+23/10/2015
+
+[European Medicines Agency finalises review of medicines concerned by Roche pharmacovigilance inspection](/en/news/european-medicines-agency-finalises-review-medicines-concerned-roche-pharmacovigilance-inspection)
+
+19/11/2013
+
+[European Medicines Agency starts infringement procedure to investigate Roche's alleged non-compliance with pharmacovigilance obligations](/en/news/european-medicines-agency-starts-infringement-procedure-investigate-roches-alleged-non-compliance-pharmacovigilance-obligations)
+
+23/10/2012
+
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+CellCept : EPAR - Product information - tracked changes
+
+English (EN) (403.83 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/en/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-219)
+
+български (BG) (630.32 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/bg/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (540.08 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/es/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (487.85 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/cs/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (473.58 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/da/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (490.11 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/de/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (437.17 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/et/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (583.28 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/el/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (576.56 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/fr/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (528.84 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/hr/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (374.77 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/is/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (489.11 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/it/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (482.63 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/lv/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (312.19 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/lt/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (626.2 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/hu/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (564.14 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/mt/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (497.8 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/nl/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (338.54 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/no/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (541.08 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/pl/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (504.66 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/pt/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (557.71 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/ro/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (500.08 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/sk/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (517.76 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/sl/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (598.86 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/fi/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (501.49 KB - DOCX)
+
+**First published:** 10/04/2026
+
+[View](/sv/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_sv.docx)
 
 ## More information on CellCept
 
@@ -1185,8 +962,8 @@ English (EN) (85.09 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 25/02/2026
+**This page was last updated on**
+
+10/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

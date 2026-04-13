@@ -1,24 +1,22 @@
 ---
-document_datetime: 2024-12-05 12:43:24
-document_pages: 31
+document_datetime: 2026-04-01 16:20:04
+document_pages: 30
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/theralugand-epar-product-information_en.pdf
 document_name: theralugand-epar-product-information_en.pdf
 version: success
-processing_time: 10.3101066
-conversion_datetime: 2025-12-19 21:06:33.910879
+processing_time: 10.6456811
+conversion_datetime: 2026-04-13 14:05:52.46718
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -55,8 +53,6 @@ Table 1: Lutetium ( 177 Lu) principal radiation emission data
 | Beta (β - ) |          148.84 |           79.44 |
 | Gamma       |          112.95 |            6.23 |
 | Gamma       |          208.37 |           10.41 |
-
-* mean energies are listed for beta particles
 
 For the full list of excipients, see section 6.1.
 
@@ -363,7 +359,7 @@ Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Str. 10 13125 Berlin German
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 22 November 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -382,8 +378,6 @@ The dosimetry estimates are extrapolated from a rat distribution study. Single d
 according to ICRP 60 (International Commission on Radiological Protection) provisions. The adult sex-averaged effective dose coefficient for accidentally injected lutetium ( 177 Lu) chloride, calculated according to ICRP 103 provisions, lays at 0.19 mSv/MBq.
 
 In case of an accidental direct injection of lutetium ( 177 Lu) chloride, the organs with the highest absorbed doses based on rat data would be liver, spleen, bone, and kidneys.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 3: Estimated organ absorbed radiation doses and effective doses after inadvertent intravenous administration of 177 LuCl3 in women, based on data collected in rats (n=18)
 
@@ -416,15 +410,7 @@ Table 3: Estimated organ absorbed radiation doses and effective doses after inad
 | Effective dose ICRP 60 3 (mSv/MBq)                          | 0.304                                                       | 0.325                                                       | 0.55                                                        | 0.91                                                        | 1.97                                                        | 5.27                                                        |
 | Effective dose ICRP 103 4 (mSv/MBq)                         | 0.19                                                        | ND                                                          | ND                                                          | ND                                                          | ND                                                          | ND                                                          |
 
-ND = not determined as organ/tissue/data not available in OLINDA/EXM v1.0.
-
-1 calculations made in IDAC-Dose 2.1 v1.01 software.
-
-2  calculations made in OLINDA/EXM v1.0 software.
-
-3 sex-specific doses derived according to ICRP Publication 60.
-
-4 sex-averaged dose derived according to ICRP Publication 103.
+<div style=\"page-break-after: always\"></div>
 
 Table 4: Estimated organ absorbed radiation doses and effective doses after inadvertent intravenous administration of 177 LuCl3 in men, based on data collected in rats (n=18)
 
@@ -443,12 +429,6 @@ Table 4: Estimated organ absorbed radiation doses and effective doses after inad
 | Lungs                                                       | 0.08                                                        | 0.157                                                       | 0.225                                                       | 0.348                                                       | 0.696                                                       | 1.91                                                        |
 | Muscle                                                      | 0.034                                                       | 0.045                                                       | 0.087                                                       | 0.26                                                        | 0.515                                                       | 0.725                                                       |
 | Osteogenic cells                                            | 5.27 2                                                      | 6.89                                                        | 11.3                                                        | 19.1                                                        | 45.9                                                        | 149.0                                                       |
-
-<div style=\"page-break-after: always\"></div>
-
-| Absorbed dose per administered unit of activity (mGy/MBq)   | Absorbed dose per administered unit of activity (mGy/MBq)   | Absorbed dose per administered unit of activity (mGy/MBq)   | Absorbed dose per administered unit of activity (mGy/MBq)   | Absorbed dose per administered unit of activity (mGy/MBq)   | Absorbed dose per administered unit of activity (mGy/MBq)   | Absorbed dose per administered unit of activity (mGy/MBq)   |
-|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
-| Organ                                                       | Adult 1 (73 kg)                                             | 15 years 2 (50 kg)                                          | 10 years 2 (30 kg)                                          | 5 years 2 (17 kg)                                           | 1 year 2 (10 kg)                                            | Newborn 2 (5 kg)                                            |
 | Pancreas                                                    | 0.061                                                       | 0.088                                                       | 0.171                                                       | 0.228                                                       | 0.483                                                       | 1.58                                                        |
 | Salivary glands                                             | 0.08                                                        | ND                                                          | ND                                                          | ND                                                          | ND                                                          | ND                                                          |
 | Skin                                                        | 0.103                                                       | 0.022                                                       | 0.036                                                       | 0.059                                                       | 0.116                                                       | 0.288                                                       |
@@ -462,16 +442,6 @@ Table 4: Estimated organ absorbed radiation doses and effective doses after inad
 | Effective dose ICRP 60 3 (mSv/MBq)                          | 0.143                                                       | 0.255                                                       | 0.496                                                       | 0.769                                                       | 1.55                                                        | 4.11                                                        |
 | Effective dose ICRP 103 4 (mSv/MBq)                         | 0.19                                                        | ND                                                          | ND                                                          | ND                                                          | ND                                                          | ND                                                          |
 
-ND = not determined as organ/tissue not available in OLINDA/EXM v1.0.
-
-1 calculations made in IDAC-Dose 2.1 v1.01 software.
-
-2  calculations made in OLINDA/EXM v1.0 software.
-
-3 sex-specific doses derived according to ICRP Publication 60.
-
-4 sex-averaged dose derived according to ICRP Publication 103.
-
 ## 12. INSTRUCTIONS FOR PREPARATION OF RADIOPHARMACEUTICALS
 
 Before use, packaging and radioactivity should be checked. Activity may be measured using an ionisation chamber.
@@ -484,13 +454,13 @@ Withdrawals should be performed under aseptic conditions. The vials must not be 
 
 If the integrity of the vial is compromised, the radiopharmaceutical precursor solution should not be used.
 
+<div style=\"page-break-after: always\"></div>
+
 The complexing agent and other reagents should be added to the vial with lutetium ( 177 Lu) chloride.
 
 Free lutetium ( 177 Lu) is taken up and accumulates in the bones. This could potentially result in osteosarcomas. It is recommended to add a chelating agent such as DTPA prior to intravenous administration of lutetium ( 177 Lu)-labelled radiopharmaceuticals in order to form a complex with free lutetium ( 177 Lu), if such is present, leading to its rapid renal clearance.
 
 Adequate quality control of the radiochemical purity of ready to use radiopharmaceuticals gained after radiolabelling with Theralugand should be assured. Limits for radiochemical impurities should be set recognising the radiotoxicological potential of lutetium ( 177 Lu). Free non-bound lutetium ( 177 Lu) should be consequently minimised.
-
-<div style=\"page-break-after: always\"></div>
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
@@ -732,11 +702,7 @@ ART: {DD/MM/YYYY (XXh CET / XXh CEST)}
 
 <!-- image -->
 
-Eckert &amp; Ziegler Radiopharma GmbH
-
-Gieselweg 1
-
-38110 Braunschweig
+Eckert &amp; Ziegler Radiopharma GmbH Gieselweg 1 38110 Braunschweig
 
 Germany
 
@@ -904,7 +870,9 @@ If you experience any of the following serious side effects, tell your doctor ri
 ## Not known (frequency cannot be estimated from the available data):
 
 - -Carcinoid crisis
-- Carcinoid crisis is a combination of symptoms caused by the release of serotonin and other substances from carcinoid tumours. Symptoms may include flushing of the face, flat angiomas (small collections of dilated blood vessels) of the skin, diarrhoea, difficulty breathing, rapid pulse, and sudden drops in blood pressure causing dizziness and light headedness.
+
+Carcinoid crisis is a combination of symptoms caused by the release of serotonin and other substances from carcinoid tumours. Symptoms may include flushing of the face, flat angiomas (small collections of dilated blood vessels) of the skin, diarrhoea, difficulty breathing, rapid pulse, and sudden drops in blood pressure causing dizziness and light headedness.
+
 - -Tumour lysis syndrome
 - Tumour lysis syndrome is a condition when tumour cells break down and release their contents into the bloodstream, which can damage organs such as the heart, kidneys and liver. Symptoms may include nausea, vomiting, weakness, tiredness, muscle cramps, seizures, or changes in urine output.
 - -A reduced number of red blood cells, platelets, and white blood cells (pancytopenia)
@@ -953,8 +921,7 @@ This medicine does not require any special temperature storage conditions.
 ## What Theralugand contains
 
 - -The active substance is lutetium ( 177
-- 1 mL sterile solution contains 40 GBq lutetium ( (ART), corresponding to maximum 10 micrograms of lutetium ( 177 Lu) (as chloride). (GBq: Gigabecquerel is the unit in which radioactivity is measured).
-- Lu) chloride. 177 Lu) chloride on the activity reference time
+- Lu) chloride. 1 mL sterile solution contains 40 GBq lutetium ( 177 Lu) chloride on the activity reference time (ART), corresponding to maximum 10 micrograms of lutetium ( 177 Lu) (as chloride). (GBq: Gigabecquerel is the unit in which radioactivity is measured).
 - -The other ingredient is diluted hydrochloric acid.
 
 ## What Theralugand looks like and contents of the pack
@@ -969,15 +936,13 @@ The volume of one vial ranges from 0.1 - 5 mL solution (corresponding to 4 - 200
 
 ## Marketing Authorisation Holder
 
-Eckert &amp; Ziegler Radiopharma GmbH
-
-Robert-Rössle-Str. 10 13125 Berlin Germany
+Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Str. 10 13125 Berlin Germany
 
 ## Manufacturer
 
 Eckert &amp; Ziegler Radiopharma GmbH Gieselweg 1 38110 Braunschweig Germany
 
-This leaflet was last revised in
+This leaflet was last revised in 11/2024
 
 ## Other sources of information
 

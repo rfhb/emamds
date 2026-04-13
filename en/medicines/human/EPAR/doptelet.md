@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:29:58
+document_datetime: 2026-04-08 13:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/doptelet.html
 document_name: doptelet.html
 version: success
-processing_time: 0.1142288
-conversion_datetime: 2025-12-30 20:24:16.201864
+processing_time: 0.275605
+conversion_datetime: 2026-04-13 13:50:30.555406
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Doptelet
 
 [RSS](/en/individual-human-medicine.xml/67208)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-avatrombopag Medicine Human Authorised
+avatrombopag
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -105,181 +105,137 @@ English (EN) (104.1 KB - PDF)
 
 [View](/en/documents/overview/doptelet-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-130)
+[Other languages (22)](#file-language-dropdown-327)
 
 български (BG) (169.05 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/bg/documents/overview/doptelet-epar-medicine-overview_bg.pdf)
 
 español (ES) (145 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/es/documents/overview/doptelet-epar-medicine-overview_es.pdf)
 
 čeština (CS) (167.7 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/cs/documents/overview/doptelet-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (142.64 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/da/documents/overview/doptelet-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (146.37 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/de/documents/overview/doptelet-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (132.67 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/et/documents/overview/doptelet-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (170.53 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/el/documents/overview/doptelet-epar-medicine-overview_el.pdf)
 
 français (FR) (146 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/fr/documents/overview/doptelet-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (166.15 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/hr/documents/overview/doptelet-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (142.96 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/it/documents/overview/doptelet-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (174.69 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/lv/documents/overview/doptelet-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (166.18 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/lt/documents/overview/doptelet-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (166.99 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/hu/documents/overview/doptelet-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (169.54 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/mt/documents/overview/doptelet-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (144.45 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/nl/documents/overview/doptelet-epar-medicine-overview_nl.pdf)
 
 polski (PL) (171.38 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/pl/documents/overview/doptelet-epar-medicine-overview_pl.pdf)
 
 português (PT) (145.48 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/pt/documents/overview/doptelet-epar-medicine-overview_pt.pdf)
 
 română (RO) (164.96 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/ro/documents/overview/doptelet-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (167.13 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/sk/documents/overview/doptelet-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (163.94 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/sl/documents/overview/doptelet-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (142.78 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/fi/documents/overview/doptelet-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (143.17 KB - PDF)
 
-**First published:**
-
-25/06/2019
+**First published:** 25/06/2019
 
 [View](/sv/documents/overview/doptelet-epar-medicine-overview_sv.pdf)
 
@@ -287,9 +243,7 @@ Doptelet : EPAR - Risk-management-plan summary
 
 English (EN) (293.18 KB - PDF)
 
-**First published:** 25/06/2019
-
-**Last updated:** 28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/en/documents/rmp-summary/doptelet-epar-risk-management-plan-summary_en.pdf)
 
@@ -299,303 +253,159 @@ Doptelet : EPAR - Product information
 
 English (EN) (322.06 KB - PDF)
 
-**First published:** 25/06/2019
-
-**Last updated:** 18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/en/documents/product-information/doptelet-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-50)
+[Other languages (24)](#file-language-dropdown-103)
 
 български (BG) (459.11 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/bg/documents/product-information/doptelet-epar-product-information_bg.pdf)
 
 español (ES) (321.92 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/es/documents/product-information/doptelet-epar-product-information_es.pdf)
 
 čeština (CS) (407.65 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/cs/documents/product-information/doptelet-epar-product-information_cs.pdf)
 
 dansk (DA) (304.43 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/da/documents/product-information/doptelet-epar-product-information_da.pdf)
 
 Deutsch (DE) (330.38 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/de/documents/product-information/doptelet-epar-product-information_de.pdf)
 
 eesti keel (ET) (308.38 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/et/documents/product-information/doptelet-epar-product-information_et.pdf)
 
 ελληνικά (EL) (545.72 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/el/documents/product-information/doptelet-epar-product-information_el.pdf)
 
 français (FR) (320.22 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/fr/documents/product-information/doptelet-epar-product-information_fr.pdf)
 
 hrvatski (HR) (392.07 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/hr/documents/product-information/doptelet-epar-product-information_hr.pdf)
 
 íslenska (IS) (304.54 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/is/documents/product-information/doptelet-epar-product-information_is.pdf)
 
 italiano (IT) (317.62 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/it/documents/product-information/doptelet-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (410.63 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/lv/documents/product-information/doptelet-epar-product-information_lv.pdf)
 
 lietuvių kalba (LT) (425.35 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/lt/documents/product-information/doptelet-epar-product-information_lt.pdf)
 
 magyar (HU) (413.19 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/hu/documents/product-information/doptelet-epar-product-information_hu.pdf)
 
 Malti (MT) (498.55 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/mt/documents/product-information/doptelet-epar-product-information_mt.pdf)
 
 Nederlands (NL) (314 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/nl/documents/product-information/doptelet-epar-product-information_nl.pdf)
 
 norsk (NO) (328.96 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/no/documents/product-information/doptelet-epar-product-information_no.pdf)
 
 polski (PL) (421.85 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/pl/documents/product-information/doptelet-epar-product-information_pl.pdf)
 
 português (PT) (347.52 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/pt/documents/product-information/doptelet-epar-product-information_pt.pdf)
 
 română (RO) (420.91 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/ro/documents/product-information/doptelet-epar-product-information_ro.pdf)
 
 slovenčina (SK) (426.22 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/sk/documents/product-information/doptelet-epar-product-information_sk.pdf)
 
 slovenščina (SL) (389.44 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/sl/documents/product-information/doptelet-epar-product-information_sl.pdf)
 
 Suomi (FI) (306 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/fi/documents/product-information/doptelet-epar-product-information_fi.pdf)
 
 svenska (SV) (327.44 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-18/06/2025
+**First published:** 25/06/2019 **Last updated:** 18/06/2025
 
 [View](/sv/documents/product-information/doptelet-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000255149 22/05/2025
+**Latest procedure affecting product information:** VR/0000255149
+
+22/05/2025
 
 icon globe
 
@@ -615,305 +425,177 @@ Doptelet : EPAR - All authorised presentations
 
 English (EN) (17.2 KB - PDF)
 
-**First published:** 25/06/2019
-
-**Last updated:** 28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/en/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-645)
+[Other languages (24)](#file-language-dropdown-310)
 
 български (BG) (40.22 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/bg/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (17.33 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/es/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (41.16 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/cs/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (22.04 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/da/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (17.07 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/de/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (17.15 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/et/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (40.1 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/el/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (17.12 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/fr/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (26.21 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/hr/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (16.95 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/is/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (17.21 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/it/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (39.09 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/lv/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (39.28 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/lt/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (25.48 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/hu/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (35.47 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/mt/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (17.1 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/nl/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (17.17 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/no/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (28.14 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/pl/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (17.17 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/pt/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (37.28 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/ro/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (27.04 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/sk/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (25.6 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/sl/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (17.13 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/fi/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (17.01 KB - PDF)
 
-**First published:**
-
-25/06/2019
-
-**Last updated:**
-
-28/01/2021
+**First published:** 25/06/2019 **Last updated:** 28/01/2021
 
 [View](/sv/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Doptelet Active substance avatrombopag maleate International non-proprietary name (INN) or common name avatrombopag Therapeutic area (MeSH) Thrombocytopenia Anatomical therapeutic chemical (ATC) code B02BX
+Name of medicine
+
+Doptelet
+
+Active substance
+
+avatrombopag maleate
+
+International non-proprietary name (INN) or common name
+
+avatrombopag
+
+Therapeutic area (MeSH)
+
+Thrombocytopenia
+
+Anatomical therapeutic chemical (ATC) code
+
+B02BX
 
 ### Pharmacotherapeutic group
 
@@ -927,13 +609,27 @@ Doptelet is indicated for the treatment of primary chronic immune thrombocytopen
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004722 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/004722
+
+Marketing authorisation holder
 
 Swedish Orphan Biovitrum AB (publ)
 
 SE-112 76 Stockholm
 
-Opinion adopted 26/04/2019 Marketing authorisation issued 20/06/2019 Revision 10
+Opinion adopted
+
+26/04/2019
+
+Marketing authorisation issued
+
+20/06/2019
+
+Revision
+
+11
 
 ## Assessment history
 
@@ -945,9 +641,9 @@ Collapse section
 
 Doptelet : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (167.99 KB - PDF)
+English (EN) (175.23 KB - PDF)
 
-**First published:** 18/06/2025
+**First published:** 18/06/2025 **Last updated:** 08/04/2026
 
 [View](/en/documents/procedural-steps-after/doptelet-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -955,11 +651,19 @@ Doptelet : EPAR - Procedural steps taken and scientific information after the au
 
 English (EN) (126.55 KB - PDF)
 
-**First published:** 27/01/2020
-
-**Last updated:** 18/06/2025
+**First published:** 27/01/2020 **Last updated:** 18/06/2025
 
 [View](/en/documents/procedural-steps-after/doptelet-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Doptelet : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
+
+Reference Number: EMADOC-1700519818-3014602
+
+English (EN) (143.5 KB - PDF)
+
+**First published:** 08/04/2026
+
+[View](/en/documents/pip-compliance/doptelet-epar-statement-indicating-compliance-agreed-completed-paediatric-investigation-plan_en.pdf)
 
 Doptelet-H-C-004722-P46-007 : EPAR - Assessment report - Variation
 
@@ -983,9 +687,7 @@ English (EN) (126.76 KB - PDF)
 
 Doptelet-H-C-004722-II-0004-G : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/7081/2021
+Adopted Reference Number: EMA/CHMP/7081/2021
 
 English (EN) (11.37 MB - PDF)
 
@@ -995,9 +697,7 @@ English (EN) (11.37 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Doptelet (II-04-G)
 
-Adopted
-
-Reference Number: EMA/CHMP/659983/2020
+Adopted Reference Number: EMA/CHMP/659983/2020
 
 English (EN) (100.12 KB - PDF)
 
@@ -1009,9 +709,7 @@ English (EN) (100.12 KB - PDF)
 
 Doptelet : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/322871/2019
+Adopted Reference Number: EMA/CHMP/322871/2019
 
 English (EN) (5.43 MB - PDF)
 
@@ -1021,9 +719,7 @@ English (EN) (5.43 MB - PDF)
 
 CHMP summary of positive opinion for Doptelet
 
-Adopted
-
-Reference Number: EMA/CHMP/208938/2019
+Adopted Reference Number: EMA/CHMP/208938/2019
 
 English (EN) (113.92 KB - PDF)
 
@@ -1031,25 +727,29 @@ English (EN) (113.92 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-doptelet_en.pdf)
 
-#### News on Doptelet
+## News on Doptelet
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 December 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-december-2020) 11/12/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 December 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-december-2020)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 April 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-april-2019) 26/04/2019
+11/12/2020
 
-#### More information on Doptelet
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 April 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-april-2019)
+
+26/04/2019
+
+## More information on Doptelet
 
 - [EMEA-001136-PIP01-11-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001136-pip01-11-m03)
 - [EMEA-001136-PIP02-19-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001136-pip02-19-m01)
 - [Postauthorisation Safety Study (PASS) of Avatrombopag in Patients With Severe Chronic Liver Disease (CLD) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000310)
 - [Postauthorisation Safety Study (PASS) of Avatrombopag and Haematological Malignancies in Patients With Primary Immune Thrombocytopaenia - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000315)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 18/06/2025
+**This page was last updated on**
+
+08/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

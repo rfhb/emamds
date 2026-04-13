@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-19 12:47:40
-document_pages: 114
+document_datetime: 2026-04-09 10:02:32
+document_pages: 115
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/darzalex-epar-product-information_en.pdf
 document_name: darzalex-epar-product-information_en.pdf
 version: success
-processing_time: 53.3862549
-conversion_datetime: 2026-01-20 20:19:29.973065
+processing_time: 39.3526633
+conversion_datetime: 2026-04-13 13:55:01.062063
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -142,7 +142,7 @@ Table 5: Infusion rates for DARZALEX (16 mg/kg) administration
 | Option 2 (Split dose infusion)                    |                   |                             |                       |                |
 | Week 1 day 1 (8 mg/kg)                            | 500 mL            | 50 mL/hour                  | 50 mL/hour every hour | 200 mL/hour    |
 | Week 1 day 2 (8 mg/kg)                            | 500 mL            | 50 mL/hour                  | 50 mL/hour every hour | 200 mL/hour    |
-| Week 2 (16 mg/kg)infusion b                       | 500 mL            | 50 mL/hour                  | 50 mL/hour every hour | 200 mL/hour    |
+| Week 2 (16 mg/kg) infusion b                      | 500 mL            | 50 mL/hour                  | 50 mL/hour every hour | 200 mL/hour    |
 | Subsequent (week 3 onwards, 16 mg/kg) infusions c | 500 mL            | 100 mL/hour                 | 50 mL/hour every hour | 200 mL/hour    |
 
 ## Management of infusion-related reactions
@@ -265,11 +265,17 @@ DARZALEX may increase neutropenia and thrombocytopenia induced by background the
 
 Complete blood cell counts should be monitored periodically during treatment according to prescribing information for background therapies. Patients with neutropenia should be monitored for signs of infection. DARZALEX delay may be required to allow recovery of blood cell counts. No dose reduction of DARZALEX is recommended. Consider supportive care with transfusions or growth factors.
 
+## Infections
+
+DARZALEX can cause serious, life-threatening, or fatal infections (see section 4.8).
+
+Patients should be closely monitored for signs and symptoms of infection prior to and during treatment with DARZALEX and treated appropriately. Prophylactic antimicrobials according to treatment guidelines should be considered prior to, during or post-treatment (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
+
 ## Interference with indirect antiglobulin test (indirect Coombs test)
 
 Daratumumab binds to CD38 found at low levels on red blood cells (RBCs) and may result in a positive indirect Coombs test. Daratumumab-mediated positive indirect Coombs test may persist for up to 6 months after the last daratumumab infusion. It should be recognised that daratumumab bound to RBCs may mask detection of antibodies to minor antigens in the patient's serum. The determination of a patient's ABO and Rh blood type are not impacted.
-
-<div style=\"page-break-after: always\"></div>
 
 Patients should be typed and screened prior to starting daratumumab treatment. Phenotyping may be considered prior to starting daratumumab treatment as per local practice. Red blood cell genotyping is not impacted by daratumumab and may be performed at any time.
 
@@ -299,15 +305,13 @@ No interaction studies have been performed.
 
 As an IgG1қ monoclonal antibody, renal excretion and hepatic enzyme-mediated metabolism of intact daratumumab are unlikely to represent major elimination routes. As such, variations in drug-metabolising enzymes are not expected to affect the elimination of daratumumab. Due to the high affinity to a unique epitope on CD38, daratumumab is not anticipated to alter drug-metabolising enzymes.
 
+<div style=\"page-break-after: always\"></div>
+
 Clinical pharmacokinetic assessments of daratumumab in combination with lenalidomide, pomalidomide, thalidomide, bortezomib and dexamethasone indicated no clinically-relevant drug-drug interaction between daratumumab and these small molecule medicinal products.
 
 ## Interference with indirect antiglobulin test (indirect Coombs test)
 
-Daratumumab binds to CD38 on RBCs and interferes with compatibility testing, including antibody screening and cross matching (see section 4.4). Daratumumab interference mitigation methods include treating reagent RBCs with dithiothreitol (DTT) to disrupt daratumumab binding or other locally
-
-<div style=\"page-break-after: always\"></div>
-
-validated methods. Since the Kell blood group system is also sensitive to DTT treatment, Kell-negative units should be supplied after ruling out or identifying alloantibodies using DTT-treated RBCs. Alternatively, phenotyping or genotyping may also be considered (see section 4.4).
+Daratumumab binds to CD38 on RBCs and interferes with compatibility testing, including antibody screening and cross matching (see section 4.4). Daratumumab interference mitigation methods include treating reagent RBCs with dithiothreitol (DTT) to disrupt daratumumab binding or other locally validated methods. Since the Kell blood group system is also sensitive to DTT treatment, Kell-negative units should be supplied after ruling out or identifying alloantibodies using DTT-treated RBCs. Alternatively, phenotyping or genotyping may also be considered (see section 4.4).
 
 ## Interference with serum protein electrophoresis and immunofixation tests
 
@@ -337,13 +341,13 @@ No data are available to determine potential effects of daratumumab on fertility
 
 DARZALEX has no or negligible influence on the ability to drive and use machines. However, fatigue has been reported in patients taking daratumumab and this should be taken into account when driving or using machines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
 The most frequent adverse reactions of any grade (≥ 20% patients) were IRRs, fatigue, nausea, diarrhoea, constipation, pyrexia, dyspnoea, cough, neutropenia, thrombocytopenia, anaemia, oedema peripheral, asthenia, peripheral neuropathy, upper respiratory tract infection, musculoskeletal pain and COVID-19. Serious adverse reactions were sepsis, pneumonia, bronchitis, upper respiratory tract infection, pulmonary oedema, influenza, pyrexia, dehydration, diarrhoea and atrial fibrillation.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Tabulated list of adverse reactions
 
@@ -355,52 +359,52 @@ Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/1
 
 Table 6: Adverse reactions in multiple myeloma patients treated with DARZALEX 16 mg/kg
 
-| System organ class                    | Adverse reaction                    | Frequency   | Incidence (%)   | Incidence (%)   |
-|---------------------------------------|-------------------------------------|-------------|-----------------|-----------------|
-|                                       |                                     |             | Any grade       | Grade 3-4       |
-| Infections and infestations           | Upper respiratory tract infection a | Very common | 46              | 4               |
-| Infections and infestations           | COVID-19 a,d                        | Very common | 23              | 6               |
-| Infections and infestations           | Pneumonia a                         | Very common | 19              | 11              |
-| Infections and infestations           | Bronchitis a                        | Very common | 17              | 2               |
-| Infections and infestations           | Urinary tract infection             | Common      | 8               | 1               |
-| Infections and infestations           | Sepsis a                            | Common      | 4               | 4               |
-| Infections and infestations           | Cytomegalovirus infection a         | Common      | 1               | < 1*            |
-| Infections and infestations           | Hepatitis B Virus reactivation b    | Uncommon    | -               | -               |
-| Blood and lymphatic system disorders  | Neutropenia a                       | Very common | 44              | 39              |
-| Blood and lymphatic system disorders  | Thrombocytopenia a                  | Very common | 31              | 19              |
-| Blood and lymphatic system disorders  | Anaemia a                           | Very common | 27              | 12              |
-| Blood and lymphatic system disorders  | Lymphopenia a                       | Very common | 14              | 11              |
-| Blood and lymphatic system disorders  | Leukopenia a                        | Very common | 12              | 6               |
-| Immune system disorders               | Hypogammaglobulinaemia a            | Common      | 3               | < 1*            |
-| Immune system disorders               | Anaphylactic reaction b             | Rare        | -               | -               |
-| Metabolism and nutrition disorders    | Decreased appetite                  | Very common | 12              | 1               |
-| Metabolism and nutrition disorders    | Hypokalaemia a                      | Very common | 10              | 3               |
-| Metabolism and nutrition disorders    | Hyperglycaemia                      | Common      | 7               | 3               |
-| Metabolism and nutrition disorders    | Hypocalcaemia                       | Common      | 6               | 1               |
-| Metabolism and nutrition disorders    | Dehydration                         | Common      | 3               | 1*              |
-| Psychiatric disorders                 | Insomnia                            | Very common | 16              | 1*              |
-| Nervous system disorders              | Peripheral neuropathy a             | Very common | 35              | 4               |
-| Nervous system disorders              | Headache                            | Very common | 12              | < 1*            |
-| Nervous system disorders              | Paraesthesia                        | Very common | 11              | < 1             |
-| Nervous system disorders              | Dizziness                           | Very common | 10              | < 1*            |
-| Nervous system disorders              | Syncope                             | Common      | 2               | 2*              |
-| Cardiac disorders                     | Atrial fibrillation                 | Common      | 4               | 1               |
-| Vascular disorders                    | Hypertension a                      | Very common | 10              | 5               |
-| Respiratory, thoracic and mediastinal | Cough a                             | Very common | 25              | < 1*            |
-| Respiratory, thoracic and mediastinal | Dyspnoea a                          | Very common | 21              | 3               |
-| disorders                             | Pulmonary oedema a                  | Common      | 1               | < 1             |
+| System organ class                   | Adverse reaction                    | Frequency   | Incidence (%)   | Incidence (%)   |
+|--------------------------------------|-------------------------------------|-------------|-----------------|-----------------|
+|                                      |                                     |             | Any grade       | Grade 3-4       |
+| Infections and infestations          | Upper respiratory tract infection a | Very common | 46              | 4               |
+| Infections and infestations          | COVID-19 a,d                        | Very common | 23              | 6               |
+| Infections and infestations          | Pneumonia a                         | Very common | 19              | 11              |
+| Infections and infestations          | Bronchitis a                        | Very common | 17              | 2               |
+| Infections and infestations          | Urinary tract infection             | Common      | 8               | 1               |
+| Infections and infestations          | Sepsis a                            | Common      | 4               | 4               |
+| Infections and infestations          | Cytomegalovirus infection a         | Common      | 1               | < 1*            |
+| Infections and infestations          | Hepatitis B Virus reactivation b    | Uncommon    | -               | -               |
+| Blood and lymphatic system disorders | Neutropenia a                       | Very common | 44              | 39              |
+| Blood and lymphatic system disorders | Thrombocytopenia a                  | Very common | 31              | 19              |
+| Blood and lymphatic system disorders | Anaemia a                           | Very common | 27              | 12              |
+| Blood and lymphatic system disorders | Lymphopenia a                       | Very common | 14              | 11              |
+| Blood and lymphatic system disorders | Leukopenia a                        | Very common | 12              | 6               |
+| Immune system disorders              | Hypogammaglobulinaemia a            | Common      | 3               | < 1*            |
+|                                      | Anaphylactic reaction b             | Rare        | -               | -               |
+| Metabolism and nutrition disorders   | Decreased appetite                  | Very common | 12              | 1               |
+| Metabolism and nutrition disorders   | Hypokalaemia a                      | Very common | 10              | 3               |
+| Metabolism and nutrition disorders   | Hyperglycaemia                      | Common      | 7               | 3               |
+| Metabolism and nutrition disorders   | Hypocalcaemia                       | Common      | 6               | 1               |
+| Metabolism and nutrition disorders   | Dehydration                         | Common      | 3               | 1*              |
+| Psychiatric disorders                | Insomnia                            | Very common | 16              | 1*              |
 
 <div style=\"page-break-after: always\"></div>
 
-| Gastrointestinal disorders                           | Constipation                | Very common   |   33 | 1    |
+| Nervous system disorders                             | Peripheral neuropathy a     | Very common   |   35 | 4    |
 |------------------------------------------------------|-----------------------------|---------------|------|------|
+| Nervous system disorders                             | Headache                    | Very common   |   12 | < 1* |
+| Nervous system disorders                             | Paraesthesia                | Very common   |   11 | < 1  |
+| Nervous system disorders                             | Dizziness                   | Very common   |   10 | < 1* |
+| Nervous system disorders                             | Syncope                     | Common        |    2 | 2*   |
+| Cardiac disorders                                    | Atrial fibrillation         | Common        |    4 | 1    |
+| Vascular disorders                                   | Hypertension a              | Very common   |   10 | 5    |
+| Respiratory, thoracic and mediastinal disorders      | Cough a                     | Very common   |   25 | < 1* |
+| Respiratory, thoracic and mediastinal disorders      | Dyspnoea a                  | Very common   |   21 | 3    |
+| Respiratory, thoracic and mediastinal disorders      | Pulmonary oedema a          | Common        |    1 | < 1  |
+| Gastrointestinal disorders                           | Constipation                | Very common   |   33 | 1    |
 | Gastrointestinal disorders                           | Diarrhoea                   | Very common   |   32 | 4    |
 | Gastrointestinal disorders                           | Nausea                      | Very common   |   26 | 2*   |
 | Gastrointestinal disorders                           | Vomiting                    | Very common   |   16 | 1*   |
 | Gastrointestinal disorders                           | Abdominal pain a            | Very common   |   14 | 1    |
 | Gastrointestinal disorders                           | Pancreatitis a              | Common        |    1 | 1    |
-| Skin and subcutaneous tissue disorders               | Rash                        | Very common   |   13 | 1*   |
-| Skin and subcutaneous tissue disorders               | Pruritus                    | Common        |    7 | < 1* |
+| Skin and subcutaneous tissue                         | Rash                        | Very common   |   13 | 1*   |
+| disorders                                            | Pruritus                    | Common        |    7 | < 1* |
 | Musculoskeletal and connective tissue disorders      | Musculoskeletal pain a,e    | Very common   |   37 | 4    |
 | Musculoskeletal and connective tissue disorders      | Arthralgia                  | Very common   |   14 | 1    |
 | Musculoskeletal and connective tissue disorders      | Muscle spasms               | Very common   |   14 | < 1* |
@@ -411,13 +415,14 @@ Table 6: Adverse reactions in multiple myeloma patients treated with DARZALEX 16
 | General disorders and administration site conditions | Chills                      | Common        |    9 | < 1* |
 | Injury, poisoning and procedural complications       | Infusion-related reaction c | Very common   |   40 | 4    |
 
-*
+* No grade 4.
 
-No grade 4.
+a Indicates grouping of terms.
 
-- a Indicates grouping of terms.
-- b Post-marketing adverse reaction.
-- c Infusion-related reaction includes terms determined by investigators to be related to infusion, see below.
+b Post-marketing adverse reaction.
+
+c Infusion-related reaction includes terms determined by investigators to be related to infusion, see below.
+
 - d Incidence is based on a subset of patients who received at least one dose of study treatment on or after 01 February 2020 (the start of the COVID-19 pandemic) from studies MMY3003, MMY3006, MMY3008 and MMY3013, and all daratumumab treated patients from studies MMY3014, MMY3019, and SMM3001 (N=1177).
 - e Musculoskeletal pain includes back pain, flank pain, groin pain, musculoskeletal chest pain, musculoskeletal pain, musculoskeletal stiffness, myalgia, neck pain, non-cardiac chest pain, and pain in extremity.
 
@@ -429,13 +434,11 @@ In clinical studies (monotherapy and combination treatments; N=2066) the inciden
 
 The median time to onset of a reaction was 1.5 hours (range: 0 to 72.8 hours). The incidence of infusion modifications due to reactions was 36%. Median durations of 16 mg/kg infusions for the 1 st week, 2 nd week and subsequent infusions were approximately 7, 4 and 3 hours respectively. Severe IRRs included bronchospasm, dyspnoea, laryngeal oedema, pulmonary oedema, ocular adverse reactions (including choroidal effusion, acute myopia and acute angle closure glaucoma), hypoxia, and hypertension. Other adverse IRRs included nasal congestion, cough, chills, throat irritation, blurred vision, vomiting and nausea (see section 4.4).
 
-When DARZALEX dosing was interrupted in the setting of ASCT (study MMY3006) for a median of 3.75 (range: 2.4; 6.9) months, upon re-initiation of DARZALEX the incidence of IRRs was 11% at first infusion following ASCT. Infusion rate/dilution volume used upon re-initiation was that used for the last DARZALEX infusion prior to interruption due to ASCT. IRRs occurring at re-initiation of DARZALEX following ASCT were consistent in terms of symptoms and severity (grade 3/4: &lt; 1%) with those reported in previous studies at week 2 or subsequent infusions.
-
-In study MMY1001, patients receiving daratumumab combination treatment (n=97) were administered the first 16 mg/kg daratumumab dose at week 1 split over two days i.e. 8 mg/kg on day 1 and day 2 respectively. The incidence of any grade IRRs was 42%, with 36% of patients experiencing IRRs on day 1 of week 1, 4% on day 2 of week 1, and 8% with subsequent infusions. The median time to onset
-
 <div style=\"page-break-after: always\"></div>
 
-of a reaction was 1.8 hours (range: 0.1 to 5.4 hours). The incidence of infusion interruptions due to reactions was 30%. Median durations of infusions were 4.2 h for week 1-day 1, 4.2 h for week 1day 2, and 3.4 hours for the subsequent infusions.
+When DARZALEX dosing was interrupted in the setting of ASCT (study MMY3006) for a median of 3.75 (range: 2.4; 6.9) months, upon re-initiation of DARZALEX the incidence of IRRs was 11% at first infusion following ASCT. Infusion rate/dilution volume used upon re-initiation was that used for the last DARZALEX infusion prior to interruption due to ASCT. IRRs occurring at re-initiation of DARZALEX following ASCT were consistent in terms of symptoms and severity (grade 3/4: &lt; 1%) with those reported in previous studies at week 2 or subsequent infusions.
+
+In study MMY1001, patients receiving daratumumab combination treatment (n=97) were administered the first 16 mg/kg daratumumab dose at week 1 split over two days i.e. 8 mg/kg on day 1 and day 2 respectively. The incidence of any grade IRRs was 42%, with 36% of patients experiencing IRRs on day 1 of week 1, 4% on day 2 of week 1, and 8% with subsequent infusions. The median time to onset of a reaction was 1.8 hours (range: 0.1 to 5.4 hours). The incidence of infusion interruptions due to reactions was 30%. Median durations of infusions were 4.2 h for week 1-day 1, 4.2 h for week 1day 2, and 3.4 hours for the subsequent infusions.
 
 ## Infections
 
@@ -463,15 +466,17 @@ Of the 2459 patients who received DARZALEX at the recommended dose, 38% were 65 
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+
+<div style=\"page-break-after: always\"></div>
+
+professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
 ## Symptoms and signs
 
 There has been no experience of overdose in clinical studies. Doses up to 24 mg/kg have been administered intravenously in a clinical study.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Treatment
 
@@ -497,11 +502,11 @@ Daratumumab induced apoptosis in vitro after Fc mediated cross-linking. In addit
 
 NK cells are known to express high levels of CD38 and are susceptible to daratumumab mediated cell lysis. Decreases in absolute counts and percentages of total NK cells (CD16+CD56+) and activated (CD16+CD56 dim ) NK cells in peripheral whole blood and bone marrow were observed with daratumumab treatment. However, baseline levels of NK cells did not show an association with clinical response.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Immunogenicity
 
 In patients treated with intravenous daratumumab in clinical studies, less than 1% of patients developed treatment-emergent anti-daratumumab antibodies.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy and safety
 
@@ -515,21 +520,55 @@ A total of 737 patients were randomised: 368 to the DRd arm and 369 to the Rd ar
 
 With a median follow-up of 28 months, the primary analysis of PFS in study MMY3008 showed an improvement in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 31.9 months in the Rd arm (hazard ratio [HR]=0.56; 95% CI: 0.43, 0.73; p &lt; 0.0001), representing 44% reduction in the risk of disease progression or death in patients treated with DRd. Results of an updated PFS analysis after a median follow-up of 64 months continued to show an improvement in PFS for patients in the DRd arm compared with the Rd arm. Median PFS was 61.9 months in the DRd arm and 34.4 months in the Rd arm (HR=0.55; 95% CI: 0.45, 0.67).
 
+<div style=\"page-break-after: always\"></div>
+
+1.0
+
+Proportion surviving without progression
+
+0.8
+
+0.6 -
+
+0.4 -
+
+0.2-
+
+No. at risk
+
+D-Rd
+
+Rd
+
 Figure 1: Kaplan-Meier curve of PFS in study MMY3008
 
 <!-- image -->
 
+With a median follow-up of 56 months, DRd has shown an OS advantage over the Rd arm (HR=0.68; 95% CI: 0.53, 0.86; p=0.0013). Results of an updated OS analysis after a median of 89 months continued to show an improvement in OS for patients in the DRd arm compared to the Rd arm. Median OS was 90.3 months in the DRd arm and was 64.1 months in the Rd arm (HR=0.67; 95% CI: 0.55, 0.82).
+
 <div style=\"page-break-after: always\"></div>
 
-With a median follow-up of 56 months, DRd has shown an OS advantage over the Rd arm (HR=0.68; 95% CI: 0.53, 0.86; p=0.0013). Results of an updated OS analysis after a median of 89 months continued to show an improvement in OS for patients in the DRd arm compared to the Rd arm. Median OS was 90.3 months in the DRd arm and was 64.1 months in the Rd arm (HR=0.67; 95% CI: 0.55, 0.82).
+Figure 2:
+
+Kaplan-Meier curve of OS in study MMY3008
+
+1.0
+
+0.8-
+
+0.6 -
+
+0.4-
+
+0.2-
+
+0.0 +
+
+No. at risk
 
 Figure 2: Kaplan-Meier curve of OS in study MMY3008
 
 <!-- image -->
-
-No. at risk
-
-11 2 0 0 0
 
 Additional efficacy results from study MMY3008 are presented in table 7 below.
 
@@ -551,6 +590,10 @@ Table 7: Additional efficacy results from study MMY3008 a
 | 95% CI (%)                               | (19.9%, 28.9%)    | (4.9%, 10.5%) |
 | Odds ratio with 95% CI d                 | 4.04 (2.55, 6.39) |               |
 | p-value e                                | < 0.0001          |               |
+
+surviving
+
+Proportion
 
 <div style=\"page-break-after: always\"></div>
 
@@ -574,7 +617,43 @@ With a median follow-up of 16.5 months, the primary analysis of PFS in study MMY
 
 <div style=\"page-break-after: always\"></div>
 
+1.0
+
+Proportion surviving without progression
+
+No. at risk
+
+VMP
+
+D-VMP
+
+0.8
+
+-
+
+0.4
+
+0.2-
+
+0+
+
+D-VMP
+
+(N = 350)
+
+Median progression-free survival - months
+
+36.4
+
+VMP
+
+(N = 356)
+
+19.3
+
 Figure 3: Kaplan-Meier curve of PFS in study MMY3007
+
+P&lt;0.0001
 
 <!-- image -->
 
@@ -582,9 +661,33 @@ After a median follow-up of 40 months, D-VMP has shown an OS advantage over the 
 
 <div style=\"page-break-after: always\"></div>
 
+Proportion surviving
+
+1.0
+
+0.8
+
+0.6 -
+
+0.4 -
+
+0.2 -
+
+0
+
+No. at risk
+
+VMP
+
+D-VMP
+
 Figure 4: Kaplan-Meier curve of OS in study MMY3007
 
 <!-- image -->
+
+356 323 311 291
+
+350 327 318 301
 
 Additional efficacy results from study MMY3007 are presented in table 8 below.
 
@@ -653,7 +756,8 @@ a Based on intent-to-treat population.
 
 b p-value from Cochran Mantel-Haenszel Chi-Squared test.
 
-- c Based on threshold of 10 -5 .
+c Based on threshold of 10 -5 .
+
 - d Regardless of response per IMWG.
 - e Mantel-Haenszel estimate of the common odds ratio for stratified tables is used.
 
@@ -661,11 +765,31 @@ With a median follow-up of 18.8 months, the primary analysis of PFS by censoring
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 5: Kaplan-Meier curve of PFS in study MMY3006
+without progression ving
 
-<!-- image -->
+portion survi
+
+1.0 -
+
+0.8 -
+
+0.6 -
+
+0.4 -
+
+0.2 -
+
+0
 
 No. at risk
+
+- A
+
+Figure 5: Kaplan-Meier curve of PFS in study MMY3006
+
+- V
+
+<!-- image -->
 
 ## Relapsed/refractory multiple myeloma
 
@@ -676,26 +800,6 @@ The clinical efficacy and safety of DARZALEX monotherapy for the treatment of ad
 In study MMY2002, 106 patients with relapsed and refractory multiple myeloma received 16 mg/kg DARZALEX until disease progression. The median patient age was 63.5 years (range, 31 to 84 years), 11% of patients were ≥ 75 years of age, 49% were male and 79% were Caucasian. Patients had received a median of 5 prior lines of therapy. Eighty percent of patients had received prior autologous stem cell transplantation (ASCT). Prior therapies included bortezomib (99%), lenalidomide (99%), pomalidomide (63%) and carfilzomib (50%). At baseline, 97% of patients were refractory to the last line of treatment, 95% were refractory to both, a proteasome inhibitor (PI) and immunomodulatory agent (IMiD), 77% were refractory to alkylating agents, 63% were refractory to pomalidomide and 48% of patients were refractory to carfilzomib.
 
 Efficacy results of the pre-planned interim analysis based on Independent Review Committee (IRC) assessment are presented in table 10 below.
-
-34
-
-067
-
-24
-
-45
-
-13
-
-16
-
-0
-
-1
-
-0
-
-0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -730,31 +834,73 @@ A total of 569 patients were randomised; 286 to the DRd arm and 283 to the Rd ar
 
 <div style=\"page-break-after: always\"></div>
 
-With a median follow-up of 13.5 months, the primary analysis of PFS in study MMY3003 demonstrated an improvement in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 18.4 months in the Rd arm (HR=0.37; 95% CI: 0.27, 0.52; p &lt; 0.0001). Results of an updated PFS analysis after a median follow-up of 55 months continued to show an improvement in PFS for patients in the DRd arm compared with the Rd arm. Median PFS was 45.0 months in the DRd arm and 17.5 months in the Rd arm (HR=0.44; 95% CI: 0.35, 0.54; p &lt; 0.0001), representing a 56% reduction in the risk of disease progression or death in patients treated with DRd (see figure 6).
+1.0
 
-Figure 6: Kaplan-Meier curve of PFS in study MMY3003
-
-<!-- image -->
-
-No. at risk
-
-Rd
-
-D-Rd 28626624923822921520419518416815615114313613413112511576 1630
-
-After a median follow-up of 80 months, DRd has shown an OS advantage over the Rd arm (HR=0.73; 95% CI: 0.58, 0.91; p=0.0044). The median OS was 67.6 months in the DRd arm and 51.8 months in the Rd arm.
-
-<div style=\"page-break-after: always\"></div>
-
-Figure 7: Kaplan-Meier curve of OS in study MMY3003
-
-<!-- image -->
+Proportion surviving without progression
 
 No. at risk
 
 Rd
 
 D-Rd
+
+0.6
+
+0.4
+
+-
+
+0.2
+
+0+
+
+Median progression-free survival - months
+
+D-Rd
+
+(N = 286)
+
+45.0
+
+Rd
+
+(N= 283)
+
+17.5
+
+With a median follow-up of 13.5 months, the primary analysis of PFS in study MMY3003 demonstrated an improvement in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 18.4 months in the Rd arm (HR=0.37; 95% CI: 0.27, 0.52; p &lt; 0.0001). Results of an updated PFS analysis after a median follow-up of 55 months continued to show an improvement in PFS for patients in the DRd arm compared with the Rd arm. Median PFS was 45.0 months in the DRd arm and 17.5 months in the Rd arm (HR=0.44; 95% CI: 0.35, 0.54; p &lt; 0.0001), representing a 56% reduction in the risk of disease progression or death in patients treated with DRd (see figure 6).
+
+Figure 6: Kaplan-Meier curve of PFS in study MMY3003
+
+<!-- image -->
+
+After a median follow-up of 80 months, DRd has shown an OS advantage over the Rd arm (HR=0.73; 95% CI: 0.58, 0.91; p=0.0044). The median OS was 67.6 months in the DRd arm and 51.8 months in the Rd arm.
+
+<div style=\"page-break-after: always\"></div>
+
+Proportion surviving
+
+1.0
+
+0.8
+
+0.6
+
+0.4 -
+
+0.2 -
+
+OT
+
+No. at risk
+
+Rd
+
+'A
+
+Figure 7: Kaplan-Meier curve of OS in study MMY3003
+
+<!-- image -->
 
 Additional efficacy results from study MMY3003 are presented in table 11 below.
 
@@ -790,7 +936,33 @@ Study MMY3004, an open-label, randomised, active-controlled phase III study, com
 
 <div style=\"page-break-after: always\"></div>
 
-cycles (80 mg/week for two out of three weeks of the bortezomib cycle) or a reduced dose of 20 mg/week for patients &gt; 75 years, BMI &lt; 18.5, poorly controlled diabetes mellitus or prior intolerance to steroid therapy. On the days of DARZALEX infusion, 20 mg of the dexamethasone dose was administered as a pre-infusion medicinal product. DARZALEX treatment was continued until disease progression or unacceptable toxicity.
+1.0
+
+Proportion surviving without progression
+
+0.4
+
+No. at risk
+
+Vd
+
+D-Vd
+
+Median progression-free survival - months
+
+D-Vd
+
+(N = 251)
+
+16.7
+
+Vd
+
+(N = 247)
+
+7.1
+
+cycles (80 mg/week for two out of three weeks of the bortezomib cycle) or a reduced dose of 20 mg/week for patients &gt; 75 years, BMI &lt; 18.5, poorly controlled diabetes mellitus or prior intolerance to steroid therapy. On the days of DARZALEX infusion, 20 mg of the dexamethasone dose was administered as a pre-infusion medicinal product. DARZALEX treatment was continued until disease progression or unacceptable toxicity. Hazard ratio for D-Vd vs. Vd (95% CI)
 
 A total of 498 patients were randomised; 251 to the DVd arm and 247 to the Vd arm. The baseline demographic and disease characteristics were similar between the DARZALEX and the control arm. The median patient age was 64 years (range 30 to 88 years) and 12% were ≥ 75 years. Sixty-nine percent (69%) of patients had received a prior PI (66% received bortezomib) and 76% of patients received an IMiD (42% received lenalidomide). At baseline, 32% of patients were refractory to the last line of treatment. Thirty-three percent (33%) of patients were refractory to an IMiD only, and 28% were refractory to lenalidomide. Patients refractory to bortezomib were excluded from the study.
 
@@ -798,9 +970,29 @@ With a median follow-up of 7.4 months, the primary analysis of PFS in study MMY3
 
 Figure 8: Kaplan-Meier curve of PFS in study MMY3004
 
+1 0 000
+
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+Proportion surviving
+
+1.0
+
+0.8
+
+0.6 -
+
+0.4·
+
+0.2 -
+
+No. at risk
+
+D-Vd
+
+A,
 
 After a median follow-up of 73 months, DVd has shown an OS advantage over the Vd arm (HR=0.74; 95% CI: 0.59, 0.92; p=0.0075). The median OS was 49.6 months in the DVd arm and 38.5 months in the Vd arm.
 
@@ -922,7 +1114,7 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## 6.3 Shelf life
 
-## Unopened vials
+Unopened vials
 
 3 years.
 
@@ -984,11 +1176,13 @@ Date of first authorisation: 20 May 2016
 
 Date of latest renewal: 06 January 2022
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
+
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
-31
+32
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1018,7 +1212,7 @@ The solution is clear to opalescent, colourless to yellow, with a pH of 5.6 and 
 
 ## 4.1 Therapeutic indications
 
-Multiple myeloma
+## Multiple myeloma
 
 DARZALEX is indicated:
 
@@ -1053,7 +1247,7 @@ Pre- and post-injection medicinal products should be administered to reduce the 
 
 ## Posology
 
-Multiple myeloma
+## Multiple myeloma
 
 Dosing schedule in combination with lenalidomide and dexamethasone or pomalidomide and dexamethasone (4-week cycle regimen) and for monotherapy
 
@@ -1229,12 +1423,11 @@ Dexamethasone 20 mg (or equivalent), administered prior to every DARZALEX soluti
 
 Post-injection medicinal products should be administered to reduce the risk of delayed IRRs as follows:
 
-- -
-- -
-- Monotherapy:
+- -Monotherapy:
 
 Oral corticosteroid (20 mg methylprednisolone or equivalent dose of an intermediate-acting or long-acting corticosteroid in accordance with local standards) should be administered on each of the two days following all injections (beginning the day after the injection).
 
+- -
 - Combination therapy:
 
 Consider administering low-dose oral methylprednisolone (≤ 20 mg) or equivalent the day after the DARZALEX injection. However, if a background regimen specific corticosteroid (e.g. dexamethasone, prednisone) is administered the day after the DARZALEX injection, additional post-injection medicinal products may not be needed (see section 5.1).
@@ -1319,13 +1512,17 @@ To reduce the risk of delayed IRRs, oral corticosteroids should be administered 
 
 Complete blood cell counts should be monitored periodically during treatment according to manufacturer's prescribing information for background therapies. Patients with neutropenia should be monitored for signs of infection. DARZALEX delay may be required to allow recovery of blood cell counts. In lower body weight patients receiving DARZALEX subcutaneous formulation, higher rates of neutropenia were observed; however, this was not associated with higher rates of serious infections. No dose reduction of DARZALEX is recommended. Consider supportive care with transfusions or growth factors.
 
-## Interference with indirect antiglobulin test (indirect Coombs test)
+## Infections
 
-Daratumumab binds to CD38 found at low levels on red blood cells (RBCs) and may result in a positive indirect Coombs test. Daratumumab-mediated positive indirect Coombs test may persist for up to 6 months after the last daratumumab administration. It should be recognised that daratumumab
+DARZALEX can cause serious, life-threatening, or fatal infections (see section 4.8).
 
 <div style=\"page-break-after: always\"></div>
 
-bound to RBCs may mask detection of antibodies to minor antigens in the patient's serum. The determination of a patient's ABO and Rh blood type are not impacted.
+Patients should be closely monitored for signs and symptoms of infection prior to and during treatment with DARZALEX and treated appropriately. Prophylactic antimicrobials according to treatment guidelines should be considered prior to, during or post-treatment (see section 4.2).
+
+## Interference with indirect antiglobulin test (indirect Coombs test)
+
+Daratumumab binds to CD38 found at low levels on red blood cells (RBCs) and may result in a positive indirect Coombs test. Daratumumab-mediated positive indirect Coombs test may persist for up to 6 months after the last daratumumab administration. It should be recognised that daratumumab bound to RBCs may mask detection of antibodies to minor antigens in the patient's serum. The determination of a patient's ABO and Rh blood type are not impacted.
 
 Patients should be typed and screened prior to starting daratumumab treatment. Phenotyping may be considered prior to starting daratumumab treatment as per local practice. Red blood cell genotyping is not impacted by daratumumab and may be performed at any time.
 
@@ -1357,13 +1554,11 @@ This medicinal product also contains less than 1 mmol (23 mg) sodium per dose, t
 
 No interaction studies have been performed.
 
-As an IgG1қ monoclonal antibody, renal excretion and hepatic enzyme-mediated metabolism of intact daratumumab are unlikely to represent major elimination routes. As such, variations in drug-metabolising enzymes are not expected to affect the elimination of daratumumab. Due to the high affinity to a unique epitope on CD38, daratumumab is not anticipated to alter drug-metabolising enzymes.
-
-Clinical pharmacokinetic assessments with daratumumab intravenous or subcutaneous formulations and lenalidomide, pomalidomide, thalidomide, bortezomib, melphalan, prednisone, carfilzomib,
-
 <div style=\"page-break-after: always\"></div>
 
-cyclophosphamide and dexamethasone indicated no clinically-relevant drug-drug interaction between daratumumab and these small molecule medicinal products.
+As an IgG1қ monoclonal antibody, renal excretion and hepatic enzyme-mediated metabolism of intact daratumumab are unlikely to represent major elimination routes. As such, variations in drug-metabolising enzymes are not expected to affect the elimination of daratumumab. Due to the high affinity to a unique epitope on CD38, daratumumab is not anticipated to alter drug-metabolising enzymes.
+
+Clinical pharmacokinetic assessments with daratumumab intravenous or subcutaneous formulations and lenalidomide, pomalidomide, thalidomide, bortezomib, melphalan, prednisone, carfilzomib, cyclophosphamide and dexamethasone indicated no clinically-relevant drug-drug interaction between daratumumab and these small molecule medicinal products.
 
 ## Interference with indirect antiglobulin test (indirect Coombs test)
 
@@ -1385,17 +1580,19 @@ There are no or limited amount of data from the use of daratumumab in pregnant w
 
 ## Breast-feeding
 
-It is unknown whether daratumumab is excreted in human milk. A risk to newborns/infants cannot be excluded. A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from DARZALEX therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+It is unknown whether daratumumab is excreted in human milk.
+
+A risk to newborns/infants cannot be excluded. A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from DARZALEX therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 
 ## Fertility
 
 No data are available to determine potential effects of daratumumab on fertility in males or females (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 DARZALEX has no or negligible influence on the ability to drive and use machines. However, fatigue has been reported in patients taking daratumumab and this should be taken into account when driving or using machines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -1419,64 +1616,64 @@ Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/1
 
 Table 9: Adverse reactions in multiple myeloma, including smouldering multiple myeloma at high risk of developing multiple myeloma, and AL amyloidosis patients treated with intravenous daratumumab or subcutaneous daratumumab
 
-| System organ class                    | Adverse reaction                    | Frequency   | Incidence (%)   | Incidence (%)   |
-|---------------------------------------|-------------------------------------|-------------|-----------------|-----------------|
-|                                       |                                     |             | Any grade       | Grade 3-4       |
-| Infections and infestations           | Upper respiratory tract infection a | Very common | 46              | 3               |
-| Infections and infestations           | COVID-19 a,g                        |             | 23              | 6               |
-| Infections and infestations           | Pneumonia a                         |             | 19              | 11              |
-| Infections and infestations           | Bronchitis a                        |             | 14              | 1               |
-| Infections and infestations           | Urinary tract infection             | Common      | 7               | 1               |
-| Infections and infestations           | Sepsis a                            |             | 4               | 4               |
-| Infections and infestations           | Cytomegalovirus infection a         | Uncommon    | < 1             | < 1 #           |
-| Infections and infestations           | Hepatitis B Virus reactivation a    |             | < 1             | < 1             |
-| Blood and lymphatic system disorders  | Neutropenia a                       | Very common | 42              | 36              |
-| Blood and lymphatic system disorders  | Thrombocytopenia a                  |             | 30              | 18              |
-| Blood and lymphatic system disorders  | Anaemia a                           |             | 26              | 11              |
-| Blood and lymphatic system disorders  | Lymphopenia a                       |             | 12              | 10              |
-| Blood and lymphatic system disorders  | Leukopenia a                        |             | 11              | 6               |
-| Immune system                         | Hypogammaglobulinaemia a            | Common      | 3               | < 1 #           |
-| disorders                             | Anaphylactic reaction b             | Rare        | -               | -               |
-| Metabolism and nutrition disorders    | Hypokalaemia a                      | Very common | 10              | 3               |
-| Metabolism and nutrition disorders    | Decreased appetite                  |             | 10              | < 1             |
-| Metabolism and nutrition disorders    | Hyperglycaemia                      | Common      | 6               | 3               |
-| Metabolism and nutrition disorders    | Hypocalcaemia                       |             | 6               | 1               |
-| Metabolism and nutrition disorders    | Dehydration                         |             | 2               | 1 #             |
-| Psychiatric disorders                 | Insomnia                            | Very common | 17              | 1 #             |
-| Nervous system disorders              | Peripheral neuropathy               | Very common | 31              | 4               |
-| Nervous system disorders              | Headache                            |             | 11              | < 1 #           |
-| Nervous system disorders              | Dizziness                           | Common      | 9               | < 1 #           |
-| Nervous system disorders              | Paraesthesia                        |             | 9               | < 1             |
-| Nervous system disorders              | Syncope                             |             | 3               | 2 #             |
-| Cardiac disorders                     | Atrial fibrillation                 | Common      | 4               | 1               |
-| Vascular disorders                    | Hypertension a                      | Common      | 9               | 4               |
-| Respiratory, thoracic and mediastinal | Cough a                             | Very common | 22              | < 1 #           |
-| Respiratory, thoracic and mediastinal | Dyspnoea a                          |             | 18              | 2               |
-| disorders                             | Pulmonary oedema a                  | Common      | 1               | < 1             |
-| Gastrointestinal disorders            | Diarrhoea                           | Very common | 33              | 5               |
-| Gastrointestinal disorders            | Constipation                        |             | 28              | 1               |
-| Gastrointestinal disorders            | Nausea                              |             | 22              | 1 #             |
-| Gastrointestinal disorders            | Abdominal pain a                    |             | 14              | 1               |
-| Gastrointestinal disorders            | Vomiting                            |             | 13              | 1 #             |
-| Gastrointestinal disorders            | Pancreatitis a                      | Common      | 1               | < 1             |
-| Skin and subcutaneous tissue          | Rash                                | Very common | 12              | 1 #             |
-|                                       | Pruritus                            | Common      | 6               | < 1 #           |
-| Musculoskeletal and                   | Musculoskeletal pain a,h            | Very common | 35              | 3               |
-| connective tissue                     | Arthralgia                          |             | 14              | 1               |
-| disorders                             | Muscle spasms                       |             | 12              | < 1 #           |
+| System organ class                     | Adverse reaction                    | Frequency          | Incidence (%)   | Incidence (%)   |
+|----------------------------------------|-------------------------------------|--------------------|-----------------|-----------------|
+| System organ class                     | Adverse reaction                    | Frequency          | Any grade       | Grade 3-4       |
+| Infections and infestations            | Upper respiratory tract infection a | Very common        | 46              | 3               |
+| Infections and infestations            | COVID-19 a,g                        | Very common        | 23              | 6               |
+| Infections and infestations            | Pneumonia a                         | Very common        | 19              | 11              |
+| Infections and infestations            | Bronchitis a                        | Very common        | 14              | 1               |
+| Infections and infestations            | Urinary tract infection             | Common             | 7               | 1               |
+| Infections and infestations            | Sepsis a                            | Common             | 4               | 4               |
+| Infections and infestations            | Cytomegalovirus infection a         | Uncommon           | < 1             | < 1 #           |
+| Infections and infestations            | Hepatitis B Virus reactivation a    | Uncommon           | < 1             | < 1             |
+| Blood and lymphatic system disorders   | Neutropenia a                       | Very common        | 42              | 36              |
+| Blood and lymphatic system disorders   | Thrombocytopenia a                  | Very common        | 30              | 18              |
+| Blood and lymphatic system disorders   | Anaemia a                           | Very common        | 26              | 11              |
+| Blood and lymphatic system disorders   | Lymphopenia a                       | Very common        | 12              | 10              |
+| Blood and lymphatic system disorders   | Leukopenia a                        | Very common        | 11              | 6               |
+| Immune system disorders                | Hypogammaglobulinaemia a            | Common             | 3               | < 1 #           |
+| Immune system disorders                | Anaphylactic reaction b             | Rare               | -               | -               |
+| Metabolism and nutrition disorders     | Hypokalaemia a                      | Very common Common | 10              | 3               |
+| Metabolism and nutrition disorders     | Decreased appetite                  | Very common Common | 10              | < 1             |
+| Metabolism and nutrition disorders     | Hyperglycaemia                      |                    | 6               | 3               |
+| Metabolism and nutrition disorders     | Hypocalcaemia                       |                    | 6               | 1               |
+| Metabolism and nutrition disorders     | Dehydration                         |                    | 2               | 1 #             |
+| Psychiatric disorders                  | Insomnia                            | Very common        | 17              | 1 #             |
+| Nervous system disorders               | Peripheral neuropathy               | Very common        | 31              | 4               |
+| Nervous system disorders               | Headache                            | Very common        | 11              | < 1 #           |
+| Nervous system disorders               | Dizziness                           | Common             | 9               | < 1 #           |
+| Nervous system disorders               | Paraesthesia                        | Common             | 9               | < 1             |
+| Nervous system disorders               | Syncope                             | Common             | 3               | 2 #             |
+| Cardiac disorders                      | Atrial fibrillation                 | Common             | 4               | 1               |
+| Vascular disorders                     | Hypertension a                      | Common             | 9               | 4               |
+| Respiratory, thoracic and mediastinal  | Cough a                             | Very common        | 22              | < 1 #           |
+| Respiratory, thoracic and mediastinal  | Dyspnoea a                          | Very common        | 18              | 2               |
+| disorders                              | Pulmonary oedema a                  | Common             | 1               | < 1             |
+| Gastrointestinal disorders             | Diarrhoea                           | Very common        | 33              | 5               |
+| Gastrointestinal disorders             | Constipation                        | Very common        | 28              | 1               |
+| Gastrointestinal disorders             | Nausea                              | Very common        | 22              | 1 #             |
+| Gastrointestinal disorders             | Abdominal pain a                    | Very common        | 14              | 1               |
+| Gastrointestinal disorders             | Vomiting                            | Very common        | 13              | 1 #             |
+| Gastrointestinal disorders             | Pancreatitis a                      | Common             | 1               | < 1             |
+| Skin and subcutaneous tissue disorders | Rash                                | Very common        | 12              | 1 #             |
+|                                        | Pruritus                            | Common             | 6               | < 1 #           |
+| Musculoskeletal and                    | Musculoskeletal pain a,h            | Very common        | 35              | 3               |
+| connective tissue                      | Arthralgia                          | Very common        | 14              | 1               |
+| disorders                              | Muscle spasms                       | Very common        | 12              | < 1 #           |
 
 <div style=\"page-break-after: always\"></div>
 
-| General disorders and administration site conditions   | Fatigue                      | Very common   | 24   | 4     |
+| General disorders and administration site conditions   | Fatigue                      | Very common   |   24 | 4     |
 |--------------------------------------------------------|------------------------------|---------------|------|-------|
-| General disorders and administration site conditions   | Oedema peripheral a          | Very common   | 24   | 1     |
-| General disorders and administration site conditions   | Pyrexia                      | Very common   | 22   | 1     |
-| General disorders and administration site conditions   | Asthenia                     | Very common   | 19   | 2     |
-| General disorders and administration site conditions   | Injection site reactions d,e | Very common   | 10   | 0     |
-| General disorders and administration site conditions   | Chills                       | Common        | 8    | < 1 # |
+| General disorders and administration site conditions   | Oedema peripheral a          | Very common   |   24 | 1     |
+| General disorders and administration site conditions   | Pyrexia                      | Very common   |   22 | 1     |
+| General disorders and administration site conditions   | Asthenia                     | Very common   |   19 | 2     |
+| General disorders and administration site conditions   | Injection site reactions d,e | Very common   |   10 | 0     |
+| General disorders and administration site conditions   | Chills                       | Common        |    8 | < 1 # |
 | Injury, poisoning and procedural complications         | Infusion-related reactions c |               |      |       |
-|                                                        | Daratumumab intravenous f    | Very common   | 39   | 5     |
-|                                                        | Daratumumab subcutaneous e   | Common        | 9    | 1     |
+|                                                        | Daratumumab intravenous f    | Very common   |   39 | 5     |
+|                                                        | Daratumumab subcutaneous e   | Common        |    9 | 1     |
 
 - # No grade 4.
 - a Indicates a grouping of terms.
@@ -1647,11 +1844,37 @@ With a median follow-up of 47.5 months, the primary analysis of PFS in study MMY
 
 <div style=\"page-break-after: always\"></div>
 
+Figure 1:
+
+Kaplan-Meier curve of PFS in study MMY3014
+
 Figure 1: Kaplan-Meier curve of PFS in study MMY3014
+
+progression
+
+Proportion surviving without
+
+0.8 -
+
+0.6-
+
+0.4-
+
+0.2-
+
+0.0 +
+
+No. at risk
+
+Đ D-VRd
 
 <!-- image -->
 
-No. at risk
+VRd 354 335 321 311 304 297 291 283 278 270 258 247 238 228 219 175 67
+
+D-VRd 355 345 335 329 327 322 318 316 313 309 305 302 299 295 286 226 90
+
+Additional efficacy results from study MMV3014 are presented in table 11 helow.
 
 Additional efficacy results from study MMY3014 are presented in table 11 below.
 
@@ -1671,8 +1894,6 @@ Table 11: Efficacy results from study MMY3014 a
 | Overall MRDnegativity rate a,c    | 267 (75.2%)     | 168 (47.5%)    | 3.40 (2.47, 4.69)       |
 | 95% CI (%)                        | (70.4%, 79.6%)  | (42.2%, 52.8%) |                         |
 | P-value b                         |                 |                | < 0.0001                |
-
-Months
 
 0
 
@@ -1699,9 +1920,35 @@ With a median follow-up of 39 months, an interim analysis of PFS in Study MMY301
 
 <div style=\"page-break-after: always\"></div>
 
+Proportion surviving without progression
+
+1.0-00
+
 Figure 2: Kaplan-Meier curve of PFS at final analysis in study MMY3019
 
+0.8-00
+
+0.6 m
+
+0.4 —
+
+0.2 -
+
+0
+
+0
+
+No. at risk
+
+VRd
+
+198
+
+197
+
 <!-- image -->
+
+D-VRd
 
 At the time of interim PFS analysis, an improvement in 1-year sustained MRD negativity rate (by NGS at or below 10 -5 ) for patients reaching CR or better was observed in the D-VRd arm as compared to the VRd arm. Sustained MRD negativity rates were 42.6% (95% CI: 35.6, 49.9) in the D-VRd arm and 25.3% (95% CI: 19.4, 31.9) in the VRd arm (odds ratio [D-VRd versus VRd] 2.18 with 95% CI: 1.42, 3.34; p=0.0003).
 
@@ -1775,7 +2022,43 @@ With a median follow-up of 16.9 months, the primary analysis of PFS in study MMY
 
 <div style=\"page-break-after: always\"></div>
 
+Proportion surviving without progression
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0+
+
+No. at risk
+
+Pd
+
+D-Pd
+
+D-Pd
+
+(N = 151)
+
+Median progression-free survival - months
+
+12.4
+
+Pd
+
+(N= 153)
+
+6.9
+
 Figure 3: Kaplan-Meier curve of PFS in study MMY3013
+
+P = 0.0018
 
 <!-- image -->
 
@@ -1818,9 +2101,27 @@ The primary endpoint of the study was PFS as assessed by the independent review 
 
 <div style=\"page-break-after: always\"></div>
 
+1.0·
+
 Figure 4: Kaplan-Meier curve of PFS in study SMM3001
 
+Proportion surviving without progression
+
+0.8
+
+0.6
+
+0.4 mard
+
+0.2-
+
+No. at risk
+
+Daratumumab
+
 <!-- image -->
+
+Active monitoring
 
 Table 15: Efficacy results from study SMM3001 a
 
@@ -1884,11 +2185,29 @@ With a median follow-up of 11.4 months, in responders, the median time to HemCR 
 
 <div style=\"page-break-after: always\"></div>
 
-After a median follow-up of 61.4 months, the overall HemCR rates were 59.5% (95% CI: 52.2, 66.4) in the D-VCd group and 19.2% (95% CI: 13.9, 25.4) in the VCd group (odds ratio [D-VCd versus VCd] 6.03 with 95% CI: 3.80, 9.58).
+Proportion surviving without progression
 
-Results of a MOD-PFS analysis after a median follow-up of 61.4 months showed an improvement in MOD-PFS for patients in the D-VCd group compared with the VCd group. The hazard ratio (HR) for MOD-PFS was 0.44 (95% CI: 0.31, 0.63) and the p-value was &lt;0.0001. The median MOD-PFS was not reached in the D-VCd arm and was 30.2 months in the VCd arm. The Kaplan-Meier estimated 60-month MOD-PFS rate was 60% (95% CI: 52, 67) in the D-VCd arm and was 33% (95% CI: 23, 44) in the VCd arm.
+1.0
+
+0.4-
+
+0.2-
+
+0.0-
+
+No. at risk
+
+VCd 193
+
+D-VCd 195
+
+After a median follow-up of 61.4 months, the overall HemCR rates were 59.5% (95% CI: 52.2, 66.4) in the D-VCd group and 19.2% (95% CI: 13.9, 25.4) in the VCd group (odds ratio [D-VCd versus VCd] 6.03 with 95% CI: 3.80, 9.58). D-VCd (N=195)
+
+Results of a MOD-PFS analysis after a median follow-up of 61.4 months showed an improvement in MOD-PFS for patients in the D-VCd group compared with the VCd group. The hazard ratio (HR) for MOD-PFS was 0.44 (95% CI: 0.31, 0.63) and the p-value was &lt;0.0001. The median MOD-PFS was not reached in the D-VCd arm and was 30.2 months in the VCd arm. The Kaplan-Meier estimated 60-month MOD-PFS rate was 60% (95% CI: 52, 67) in the D-VCd arm and was 33% (95% CI: 23, 44) in the VCd arm. VCd (N= 193)
 
 Figure 5: Kaplan-Meier curve of MOD-PFS in study AMY3001
+
+· DO
 
 <!-- image -->
 
@@ -1896,7 +2215,29 @@ After a median follow-up of 61.4 months, a total of 112 deaths were observed [n=
 
 <div style=\"page-break-after: always\"></div>
 
+Proportion surviving
+
+1.0
+
+0.8
+
+0.6·
+
+0.4-
+
+0.2-
+
+0.0 -
+
+No. at risk
+
+VCd 193
+
+D-VCd 195
+
 Figure 6: Kaplan-Meier curve of OS in study AMY3001
+
+D-VCd (N=195)
 
 <!-- image -->
 
@@ -1912,21 +2253,63 @@ A total of 737 patients were randomised: 368 to the DRd arm and 369 to the Rd ar
 
 <div style=\"page-break-after: always\"></div>
 
+1.0
+
+Proportion surviving without progression
+
+0.8
+
+-
+
+0.6
+
+0.4 -
+
+0.2-
+
+No. at risk
+
+D-Rd
+
+Rd
+
 With a median follow-up of 28 months, the primary analysis of PFS in study MMY3008 showed an improvement in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 31.9 months in the Rd arm (HR=0.56; 95% CI: 0.43, 0.73; p &lt; 0.0001), representing 44% reduction in the risk of disease progression or death in patients treated with DRd. Results of an updated PFS analysis after a median follow-up of 64 months continued to show an improvement in PFS for patients in the DRd arm compared with the Rd arm. Median PFS was 61.9 months in the DRd arm and 34.4 months in the Rd arm (HR=0.55; 95% CI: 0.45, 0.67).
 
 Figure 7: Kaplan-Meier curve of PFS in study MMY3008
 
+(N= 368)
+
+aoRd
+
 <!-- image -->
+
+(N = 369)
 
 With a median follow-up of 56 months, DRd has shown an OS advantage over the Rd arm (HR=0.68; 95% CI: 0.53, 0.86; p=0.0013). Results of an updated OS analysis after a median of 89 months continued to show an improvement in OS for patients in the DRd arm compared to the Rd arm. Median OS was 90.3 months in the DRd arm and was 64.1 months in the Rd arm (HR= 0.67; 95% CI: 0.55, 0.82).
 
 <div style=\"page-break-after: always\"></div>
 
+Proportion surviving
+
+1.0·
+
+0.8 -
+
+0.6 -
+
+0.4-
+
+0.2-
+
+0.0-
+
+No. at risk
+
 Figure 8: Kaplan-Meier curve of OS in study MMY3008
 
-<!-- image -->
+#--01-008-0-0-0000
 
-No.atrisk
+<!-- image -->
 
 Additional efficacy results from study MMY3008 are presented in table 17 below.
 
@@ -1948,8 +2331,6 @@ Table 17: Additional efficacy results from study MMY3008 a
 | 95% CI (%)                               | (19.9%, 28.9%)    | (4.9%, 10.5%) |
 | Odds ratio with 95% CI d                 | 4.04 (2.55, 6.39) |               |
 | p-value e                                | < 0.0001          |               |
-
-2 0 0 0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1973,13 +2354,71 @@ With a median follow-up of 16.5 months, the primary analysis of PFS in study MMY
 
 <div style=\"page-break-after: always\"></div>
 
+1.0
+
+Proportion surviving without progression
+
+No. at risk
+
+VMP
+
+D-VMP
+
+0.8
+
+-
+
+0.4
+
+0.2-
+
+0+
+
+D-VMP
+
+(N = 350)
+
+Median progression-free survival - months
+
+36.4
+
+VMP
+
+(N = 356)
+
+19.3
+
 Figure 9: Kaplan-Meier curve of PFS in study MMY3007
+
+P&lt;0.0001
 
 <!-- image -->
 
 After a median follow-up of 40 months, D-VMP has shown an OS advantage over the VMP arm (HR=0.60; 95% CI: 0.46, 0.80; p=0.0003), representing a 40% reduction in the risk of death in patients treated in the D-VMP arm. After a median follow-up of 87 months, the median OS was 83 months (95% CI: 72.5, NE) in the D-VMP arm and 53.6 months (95% CI: 46.3, 60.9) in the VMP arm.
 
 <div style=\"page-break-after: always\"></div>
+
+Proportion surviving
+
+1.0
+
+0.8
+
+0.6 -
+
+0.4-
+
+0.2 -
+
+0.
+
+0
+
+No. at risk
+
+VMP 356 323 311 291
+
+D-VMP 350 327 318 301
 
 Figure 10: Kaplan-Meier curve of OS in study MMY3007
 
@@ -2044,6 +2483,26 @@ Table 19: Efficacy results from study MMY3006 a
 
 <div style=\"page-break-after: always\"></div>
 
+g without progression surviving 1
+
+Proportio
+
+1.0 -
+
+0.8 -
+
+0.6 -
+
+0.4-
+
+0.2 -
+
+0
+
+0
+
+No. at risk
+
 | MRDnegativity in combination with CR or better c n(%)   | 183 (33.7%)       | 108 (19.9%)    | < 0.0001   |
 |---------------------------------------------------------|-------------------|----------------|------------|
 | 95% CI (%)                                              | (29.7%, 37.9%)    | (16.6%, 23.5%) |            |
@@ -2061,9 +2520,13 @@ With a median follow-up of 18.8 months, the primary analysis of PFS by censoring
 
 Figure 11: Kaplan-Meier curve of PFS in study MMY3006
 
-<!-- image -->
+3
 
-## No. at risk
+6
+
+9 12 15 18 21 24 27 30 33 36 39 42
+
+<!-- image -->
 
 ## Relapsed/refractory multiple myeloma
 
@@ -2071,19 +2534,11 @@ Figure 11: Kaplan-Meier curve of PFS in study MMY3006
 
 The clinical efficacy and safety of intravenous daratumumab monotherapy for the treatment of adult patients with relapsed and refractory multiple myeloma whose prior therapy included a proteasome
 
-934
+45
 
-13
+48 51
 
-16
-
-0
-
-1
-
-0
-
-0
+54 57 60
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2132,29 +2587,73 @@ With a median follow-up of 13.5 months, the primary analysis of PFS in study MMY
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 12: Kaplan-Meier curve of PFS in study MMY3003
+1.0
 
-<!-- image -->
-
-No. at risk
-
-Rd 28324920618116014412711210291837566635348454028510
-
-D-Rd
-
-After a median follow-up of 80 months, DRd has shown an OS advantage over the Rd arm (HR=0.73; 95% CI: 0.58, 0.91; p=0.0044). The median OS was 67.6 months in the DRd arm and 51.8 months in the Rd arm.
-
-<div style=\"page-break-after: always\"></div>
-
-Figure 13: Kaplan-Meier curve of OS in study MMY3003
-
-<!-- image -->
+Proportion surviving without progression
 
 No. at risk
 
 Rd
 
 D-Rd
+
+0.6
+
+0.4
+
+0.2
+
+0-
+
+Median progression-free survival - months
+
+D-Rd
+
+Rd
+
+(N = 286)
+
+(N= 283)
+
+45.0
+
+Figure 12: Kaplan-Meier curve of PFS in study MMY3003
+
+17.5
+
+0.44 (0.35-0.54)
+
+P&lt;0.0001
+
+<!-- image -->
+
+After a median follow-up of 80 months, DRd has shown an OS advantage over the Rd arm (HR=0.73; 95% CI: 0.58, 0.91; p=0.0044). The median OS was 67.6 months in the DRd arm and 51.8 months in the Rd arm.
+
+<div style=\"page-break-after: always\"></div>
+
+Proportion surviving
+
+1.0
+
+0.8
+
+0.6
+
+0.4 -
+
+0.2 -
+
+OT
+
+No. at risk
+
+Rd
+
+'A
+
+Figure 13: Kaplan-Meier curve of OS in study MMY3003
+
+<!-- image -->
 
 Additional efficacy results from study MMY3003 are presented in table 21 below.
 
@@ -2187,31 +2686,75 @@ Study MMY3004, an open-label, randomised, active-controlled phase III study, com
 
 <div style=\"page-break-after: always\"></div>
 
+1.0
+
+Proportion surviving without progression
+
+0.8
+
+0.4
+
+0.2
+
+No. at risk
+
+D-Vd
+
+Median progression-free survival - months
+
+D-Vd
+
+(N = 251)
+
+16.7
+
+Vd
+
+(N= 247)
+
+7.1
+
 Dexamethasone was administered orally at a dose of 20 mg on days 1, 2, 4, 5, 8, 9, 11, and 12 of each of the 8 bortezomib cycles (80 mg/week for two out of three weeks of the bortezomib cycle) or a reduced dose of 20 mg/week for patients &gt; 75 years, BMI &lt; 18.5, poorly controlled diabetes mellitus or prior intolerance to steroid therapy. On the days of intravenous daratumumab infusion, 20 mg of the dexamethasone dose was administered as a pre-infusion medicinal product. intravenous daratumumab treatment was continued until disease progression or unacceptable toxicity.
 
 A total of 498 patients were randomised; 251 to the DVd arm and 247 to the Vd arm. The baseline demographic and disease characteristics were similar between the intravenous daratumumab and the control arm. The median patient age was 64 years (range 30 to 88 years) and 12% were ≥ 75 years. Sixty-nine percent (69%) of patients had received a prior PI (66% received bortezomib) and 76% of patients received an IMiD (42% received lenalidomide). At baseline, 32% of patients were refractory to the last line of treatment. Thirty-three percent (33%) of patients were refractory to an IMiD only, and 28% were refractory to lenalidomide. Patients refractory to bortezomib were excluded from the study.
 
-With a median follow-up of 7.4 months, the primary analysis of PFS in study MMY3004 demonstrated an improvement in the DVd arm as compared to the Vd arm; the median PFS had not been reached in the DVd arm and was 7.2 months in the Vd arm (HR [95% CI]: 0.39 [0.28, 0.53]; p-value &lt; 0.0001). Results of an updated PFS analysis after a median follow-up of 50 months continued to show an improvement in PFS for patients in the DVd arm compared with the Vd arm. Median PFS was 16.7 months in the DVd arm and 7.1 months in the Vd arm (HR [95% CI]: 0.31 [0.24, 0.39]; p-value &lt; 0.0001), representing a 69% reduction in the risk of disease progression or death in patients treated with DVd versus Vd (see figure 14).
+With a median follow-up of 7.4 months, the primary analysis of PFS in study MMY3004 demonstrated an improvement in the DVd arm as compared to the Vd arm; the median PFS had not been reached in the DVd arm and was 7.2 months in the Vd arm (HR [95% CI]: 0.39 [0.28, 0.53]; p-value &lt; 0.0001). Results of an updated PFS analysis after a median follow-up of 50 months continued to show an improvement in PFS for patients in the DVd arm compared with the Vd arm. Median PFS was 16.7 months in the DVd arm and 7.1 months in the Vd arm (HR [95% CI]: 0.31 [0.24, 0.39]; p-value &lt; 0.0001), representing a 69% reduction in the risk of disease progression or death in patients treated with DVd versus Vd (see figure 14). T
 
 Figure 14: Kaplan-Meier curve of PFS in study MMY3004
+
+251 215198161 138123109 92 85 77 68 61 54 50 48 46 38 20
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
+Proportion surviving
+
+1.0
+
+0.8
+
+0.6 -
+
+0.4 -
+
+0.2 -
+
+No. at risk
+
+D-Vd
+
+-A·
+
 After a median follow-up of 73 months, DVd has shown an OS advantage over the Vd arm (HR=0.74; 95% CI: 0.59, 0.92; p=0.0075). The median OS was 49.6 months in the DVd arm and 38.5 months in the Vd arm.
 
 Figure 15: Kaplan-Meier curve of OS in study MMY3004
 
+T
+
+3
+
 <!-- image -->
-
-No. at risk
-
-Vd
-
-D-Vd
-
-251231225211207201189182172159154150144138132128120113109107103100 96 88 54 24 9
 
 Additional efficacy results from study MMY3004 are presented in table 22 below.
 
@@ -2233,8 +2776,10 @@ Table 22: Additional efficacy results from study MMY3004
 
 DVd=daratumumab- bortezomib-dexamethasone; Vd=bortezomib-dexamethasone; MRD=minimal residual disease; CI=confidence interval; NE=not estimable.
 
-- a p-value from Cochran Mantel-Haenszel Chi-Squared test.
-- b Based on Intent-to-treat population and threshold of 10 -5 .
+a p-value from Cochran Mantel-Haenszel Chi-Squared test.
+
+b Based on Intent-to-treat population and threshold of 10 -5 .
+
 - c Mantel-Haenszel estimate of the common odds ratio is used. An odds ratio &gt; 1 indicates an advantage for DVd.
 
 d p-value is from Fisher's exact test.
@@ -2242,10 +2787,6 @@ d p-value is from Fisher's exact test.
 ## Cardiac electrophysiology
 
 Daratumumab as a large protein has a low likelihood of direct ion channel interactions. The effect of daratumumab on the QTc interval was evaluated in an open-label study for 83 patients (Study
-
-0
-
-0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2443,8 +2984,6 @@ Date of latest renewal: 06 January 2022
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
-
-80
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2842,7 +3381,8 @@ Lot
 
 400 mg/20 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2940,11 +3480,13 @@ NN
 |------------------------------------------------------------------|
 | VIAL                                                             |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|----------------------------------------------------------|
 
 DARZALEX 1800 mg solution for injection daratumumab Subcutaneous use SC
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2956,7 +3498,8 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 15 mL
 
@@ -2973,7 +3516,7 @@ Lot
 
 ## DARZALEX 20 mg/mL concentrate for solution for infusion
 
-daratumumab
+## daratumumab
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
@@ -3028,7 +3571,7 @@ These reactions are most likely to happen with the first infusion. If you have h
 
 ## Decreased blood cell counts
 
-DARZALEX can decrease white blood cell counts which help fight infections, and blood cells called platelets which help to clot blood. Tell your healthcare provider if you develop any symptoms of infection such as fever or any symptoms of decreased platelet counts such as bruising or bleeding.
+DARZALEX can decrease white blood cell counts which help fight infections, and blood cells called platelets which help to clot blood. Tell your healthcare provider if you develop any symptoms of infection such as fever, trouble breathing, cough, burning or pain when you urinate, or any symptoms of decreased platelet counts such as bruising or bleeding.
 
 ## Blood transfusions
 
@@ -3064,11 +3607,11 @@ You and your doctor will decide if the benefit of breast-feeding is greater than
 
 You may feel tired after taking DARZALEX which may affect your ability to drive or use machines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## DARZALEX contains sorbitol
 
 Sorbitol is a source of fructose. If you have hereditary fructose intolerance (HFI), a rare genetic disorder, you must not receive this medicine. Patients with HFI cannot break down fructose, which may cause serious side effects.
-
-<div style=\"page-break-after: always\"></div>
 
 You must tell your doctor before receiving this medicine if you have HFI.
 
@@ -3119,11 +3662,11 @@ If you have breathing problems, such as asthma or Chronic Obstructive Pulmonary 
 -  medicines to help the airways in your lungs stay open (bronchodilators)
 -  medicines to lower swelling and irritation in your lungs (corticosteroids).
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you are given more DARZALEX than you should
 
 This medicine will be given by your doctor or nurse. In the unlikely event that you are given too much (an overdose) your doctor will check you for side effects.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you forget your appointment to have DARZALEX
 
@@ -3180,12 +3723,12 @@ Very common (may affect more than 1 in 10 people):
 -  feeling dizzy
 -  nerve damage that may cause tingling, numbness, or pain
 -  high blood pressure
--  skin rash
--  muscle spasms
--  swollen hands, ankles or feet
 
 <div style=\"page-break-after: always\"></div>
 
+-  skin rash
+-  muscle spasms
+-  swollen hands, ankles or feet
 -  feeling weak
 -  muscle and joint pain (including back pain and chest muscle pain)
 -  lung infection (pneumonia)
@@ -3198,7 +3741,7 @@ Very common (may affect more than 1 in 10 people):
 -  unusual feeling in the skin (such as a tingling or crawling feeling)
 -  COVID-19.
 
-Common (may affect up to 1 in 10 people):
+## Common (may affect up to 1 in 10 people):
 
 -  irregular heart beat (atrial fibrillation)
 -  build up of fluid in the lungs making you short of breath
@@ -3234,9 +3777,9 @@ Store in a refrigerator (2 °C-8 °C). Do not freeze.
 
 Store in the original package in order to protect from light.
 
-Do not throw away any medicines via wastewater or household waste. Your healthcare professional will throw away any medicines that are no longer being used. These measures will help protect the environment.
-
 <div style=\"page-break-after: always\"></div>
+
+Do not throw away any medicines via wastewater or household waste. Your healthcare professional will throw away any medicines that are no longer being used. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
@@ -3261,7 +3804,7 @@ Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 Janssen Biologics B.V. Einsteinweg 101 NL-2333 CB Leiden The Netherlands
 
-Janssen Pharmaceutica NV
+## Janssen Pharmaceutica NV
 
 Turnhoutseweg 30 B-2340 Beerse Belgium
 
@@ -3273,7 +3816,9 @@ Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
 
 ## Lietuva
 
-UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\"
+
+Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## България
 
@@ -3291,19 +3836,15 @@ Tel: +420 227 012 227
 
 ## Magyarország
 
-Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
+Janssen-Cilag Kft. Tel.: +36 1 884 2858
+
+janssenhu@its.jnj.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
 Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
-
-## Malta
-
-AM MANGION LTD
-
-Tel: +356 2397 6000
-
-<div style=\"page-break-after: always\"></div>
 
 ## Deutschland
 
@@ -3319,9 +3860,7 @@ Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ
 
 ## España
 
-Janssen-Cilag, S.A. Tel: +34 91 722 81 00
-
-contacto@its.jnj.com
+Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
 
 ## France
 
@@ -3347,9 +3886,11 @@ Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
 
 Βαρνάβας Χατζηπαναγής Λτδ Τηλ: +357 22 207 700
 
-## Latvija
+## Malta
 
-UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
+AM MANGION LTD
+
+Tel: +356 2397 6000
 
 ## Nederland
 
@@ -3392,6 +3933,8 @@ Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
+
+Latvija UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
 
 ## This leaflet was last revised in
 
@@ -3482,7 +4025,7 @@ Tell your doctor or nurse straight away if you get any of the infusion-related r
 
 ## Decreased blood cell counts
 
-DARZALEX can decrease white blood cell counts which help fight infections, and blood cells called platelets which help to clot blood. Tell your healthcare provider if you develop any symptoms of infection such as fever or any symptoms of decreased platelet counts such as bruising or bleeding.
+DARZALEX can decrease white blood cell counts which help fight infections, and blood cells called platelets which help to clot blood. Tell your healthcare provider if you develop any symptoms of infection such as fever, trouble breathing, cough, burning or pain when you urinate, or any symptoms of decreased platelet counts such as bruising or bleeding.
 
 ## Blood transfusions
 
@@ -3569,9 +4112,10 @@ After each injection of DARZALEX you will be given medicines (such as corticoste
 If you have breathing problems, such as asthma or Chronic Obstructive Pulmonary Disease (COPD), you will be given medicines to inhale which help your breathing problems:
 
 -  medicines to help the airways in your lungs stay open (bronchodilators)
--  medicines to lower swelling and irritation in your lungs (corticosteroids).
 
 <div style=\"page-break-after: always\"></div>
+
+-  medicines to lower swelling and irritation in your lungs (corticosteroids).
 
 ## If you are given more DARZALEX than you should
 
@@ -3629,10 +4173,10 @@ Very common (may affect more than 1 in 10 people):
 -  feeling very tired
 -  diarrhoea
 -  constipation
--  abdominal pain
 
 <div style=\"page-break-after: always\"></div>
 
+-  abdominal pain
 -  decreased appetite
 -  difficulty sleeping
 -  headache
@@ -3721,7 +4265,9 @@ Turnhoutseweg 30 B-2340 Beerse Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+België/Belgique/Belgien Tel/Tél: +32 14 64 94 11
+
+Janssen-Cilag NV janssen@jacbe.jnj.com
 
 ## Lietuva
 
@@ -3833,11 +4379,11 @@ Puh/Tel: +358 207 531 300
 
 Janssen-Cilag Oy jacfi@its.jnj.com
 
-<div style=\"page-break-after: always\"></div>
-
 ## Κύπρος
 
 Βαρνάβας Χατζηπαναγής Λτδ Τηλ: +357 22 207 700
+
+<div style=\"page-break-after: always\"></div>
 
 Latvija UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
 

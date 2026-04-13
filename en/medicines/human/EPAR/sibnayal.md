@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-19 10:35:00
+document_datetime: 2026-04-09 10:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sibnayal.html
 document_name: sibnayal.html
 version: success
-processing_time: 0.0953677
-conversion_datetime: 2026-03-01 19:32:39.747609
+processing_time: 0.09798
+conversion_datetime: 2026-04-13 14:19:40.144358
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Sibnayal
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-potassium citrate / potassium hydrogen carbonate Medicine Human Authorised
+potassium citrate / potassium hydrogen carbonate
+
+Medicine Human Authorised
 
 Page contents
 
@@ -98,181 +100,137 @@ English (EN) (120.89 KB - PDF)
 
 [View](/en/documents/overview/sibnayal-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-757)
+[Other languages (22)](#file-language-dropdown-624)
 
 български (BG) (165.51 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/bg/documents/overview/sibnayal-epar-medicine-overview_bg.pdf)
 
 español (ES) (127.55 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/es/documents/overview/sibnayal-epar-medicine-overview_es.pdf)
 
 čeština (CS) (162.83 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/cs/documents/overview/sibnayal-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (136.92 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/da/documents/overview/sibnayal-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (141.49 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/de/documents/overview/sibnayal-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (125.66 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/et/documents/overview/sibnayal-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (159.95 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/el/documents/overview/sibnayal-epar-medicine-overview_el.pdf)
 
 français (FR) (140.68 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/fr/documents/overview/sibnayal-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (162.06 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/hr/documents/overview/sibnayal-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (137.02 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/it/documents/overview/sibnayal-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (168.03 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/lv/documents/overview/sibnayal-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (160.33 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/lt/documents/overview/sibnayal-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (157.64 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/hu/documents/overview/sibnayal-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (170.91 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/mt/documents/overview/sibnayal-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (137.91 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/nl/documents/overview/sibnayal-epar-medicine-overview_nl.pdf)
 
 polski (PL) (161.84 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/pl/documents/overview/sibnayal-epar-medicine-overview_pl.pdf)
 
 português (PT) (139.01 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/pt/documents/overview/sibnayal-epar-medicine-overview_pt.pdf)
 
 română (RO) (160.81 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/ro/documents/overview/sibnayal-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (160.92 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/sk/documents/overview/sibnayal-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (158.6 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/sl/documents/overview/sibnayal-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (135.97 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/fi/documents/overview/sibnayal-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (136.5 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/sv/documents/overview/sibnayal-epar-medicine-overview_sv.pdf)
 
@@ -290,303 +248,13 @@ Sibnayal : EPAR - Product information
 
 English (EN) (395.26 KB - PDF)
 
-**First published:** 03/05/2021
-
-**Last updated:** 19/02/2026
+**First published:** 03/05/2021 **Last updated:** 19/02/2026
 
 [View](/en/documents/product-information/sibnayal-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-514)
+**Latest procedure affecting product information:** N/0000340510
 
-български (BG) (528.68 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/bg/documents/product-information/sibnayal-epar-product-information_bg.pdf)
-
-español (ES) (397.28 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/es/documents/product-information/sibnayal-epar-product-information_es.pdf)
-
-čeština (CS) (413.56 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/cs/documents/product-information/sibnayal-epar-product-information_cs.pdf)
-
-dansk (DA) (395.05 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/da/documents/product-information/sibnayal-epar-product-information_da.pdf)
-
-Deutsch (DE) (430.74 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/de/documents/product-information/sibnayal-epar-product-information_de.pdf)
-
-eesti keel (ET) (388.53 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/et/documents/product-information/sibnayal-epar-product-information_et.pdf)
-
-ελληνικά (EL) (449.82 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/el/documents/product-information/sibnayal-epar-product-information_el.pdf)
-
-français (FR) (406.96 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/fr/documents/product-information/sibnayal-epar-product-information_fr.pdf)
-
-hrvatski (HR) (429.22 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/hr/documents/product-information/sibnayal-epar-product-information_hr.pdf)
-
-íslenska (IS) (482.49 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/is/documents/product-information/sibnayal-epar-product-information_is.pdf)
-
-italiano (IT) (424.68 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/it/documents/product-information/sibnayal-epar-product-information_it.pdf)
-
-latviešu valoda (LV) (446.8 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/lv/documents/product-information/sibnayal-epar-product-information_lv.pdf)
-
-lietuvių kalba (LT) (440.61 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/lt/documents/product-information/sibnayal-epar-product-information_lt.pdf)
-
-magyar (HU) (557.51 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/hu/documents/product-information/sibnayal-epar-product-information_hu.pdf)
-
-Malti (MT) (469.37 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/mt/documents/product-information/sibnayal-epar-product-information_mt.pdf)
-
-Nederlands (NL) (403.31 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/nl/documents/product-information/sibnayal-epar-product-information_nl.pdf)
-
-norsk (NO) (395.94 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/no/documents/product-information/sibnayal-epar-product-information_no.pdf)
-
-polski (PL) (431.16 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/pl/documents/product-information/sibnayal-epar-product-information_pl.pdf)
-
-português (PT) (424.36 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/pt/documents/product-information/sibnayal-epar-product-information_pt.pdf)
-
-română (RO) (461.5 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/ro/documents/product-information/sibnayal-epar-product-information_ro.pdf)
-
-slovenčina (SK) (436.67 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/sk/documents/product-information/sibnayal-epar-product-information_sk.pdf)
-
-slovenščina (SL) (428.42 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/sl/documents/product-information/sibnayal-epar-product-information_sl.pdf)
-
-Suomi (FI) (421.52 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/fi/documents/product-information/sibnayal-epar-product-information_fi.pdf)
-
-svenska (SV) (393.39 KB - PDF)
-
-**First published:**
-
-03/05/2021
-
-**Last updated:**
-
-19/02/2026
-
-[View](/sv/documents/product-information/sibnayal-epar-product-information_sv.pdf)
-
-**Latest procedure affecting product information:** R/0000284883 08/01/2026
+09/04/2026
 
 icon globe
 
@@ -610,203 +278,159 @@ English (EN) (66.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-613)
+[Other languages (24)](#file-language-dropdown-469)
 
 български (BG) (79.74 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/bg/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (67.61 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/es/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (81.09 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/cs/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (66.58 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/da/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (65.73 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/de/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (70.7 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/et/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (84.48 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/el/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (66.52 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/fr/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (89.18 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/hr/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (48.18 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/is/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (67.02 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/it/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (86.54 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/lv/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (89.36 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/lt/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (84.93 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/hu/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (89.68 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/mt/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (66.4 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/nl/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (52.63 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/no/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (88.04 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/pl/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (68.98 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/pt/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (81.96 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/ro/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (91.88 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/sk/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (89.01 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/sl/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (64.32 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/fi/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (66.06 KB - PDF)
 
-**First published:**
-
-03/05/2021
+**First published:** 03/05/2021
 
 [View](/sv/documents/all-authorised-presentations/sibnayal-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Sibnayal Active substance
+Name of medicine
+
+Sibnayal
+
+Active substance
 
 - potassium citrate monohydrated
 - potassium hydrogen carbonate
@@ -816,7 +440,13 @@ International non-proprietary name (INN) or common name
 - potassium citrate
 - potassium hydrogen carbonate
 
-Therapeutic area (MeSH) Acidosis, Renal Tubular Anatomical therapeutic chemical (ATC) code A12BA30
+Therapeutic area (MeSH)
+
+Acidosis, Renal Tubular
+
+Anatomical therapeutic chemical (ATC) code
+
+A12BA30
 
 ### Pharmacotherapeutic group
 
@@ -828,13 +458,27 @@ Sibnayal is indicated for the treatment of distal renal tubular acidosis (dRTA) 
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005407 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/005407
+
+Marketing authorisation holder
 
 Advicenne S.A.
 
 262 rue du Faubourg Saint Honoré
 
-Opinion adopted 10/12/2020 Marketing authorisation issued 30/04/2021 Revision 4
+Opinion adopted
+
+10/12/2020
+
+Marketing authorisation issued
+
+30/04/2021
+
+Revision
+
+5
 
 ## Assessment history
 
@@ -846,11 +490,9 @@ Collapse section
 
 Sibnayal : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (126.22 KB - PDF)
+English (EN) (149.15 KB - PDF)
 
-**First published:** 16/05/2025
-
-**Last updated:** 19/02/2026
+**First published:** 16/05/2025 **Last updated:** 09/04/2026
 
 [View](/en/documents/procedural-steps-after/sibnayal-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -858,9 +500,7 @@ Sibnayal : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (175.79 KB - PDF)
 
-**First published:** 26/04/2022
-
-**Last updated:** 16/05/2025
+**First published:** 26/04/2022 **Last updated:** 16/05/2025
 
 [View](/en/documents/procedural-steps-after/sibnayal-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -868,9 +508,7 @@ English (EN) (175.79 KB - PDF)
 
 Sibnayal : Orphan designation withdrawal assessment report (initial authorisation)
 
-Adopted
-
-Reference Number: EMA/OD/0000032257
+Adopted Reference Number: EMA/OD/0000032257
 
 English (EN) (324.5 KB - PDF)
 
@@ -880,9 +518,7 @@ English (EN) (324.5 KB - PDF)
 
 Sibnayal : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/1419/2021
+Adopted Reference Number: EMA/1419/2021
 
 English (EN) (2.98 MB - PDF)
 
@@ -892,9 +528,7 @@ English (EN) (2.98 MB - PDF)
 
 CHMP summary of positive opinion for Sibnayal
 
-Adopted
-
-Reference Number: EMA/CHMP/650319/2020
+Adopted Reference Number: EMA/CHMP/650319/2020
 
 English (EN) (132.31 KB - PDF)
 
@@ -904,14 +538,16 @@ English (EN) (132.31 KB - PDF)
 
 ## News on Sibnayal
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 December 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-december-2020) 11/12/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 December 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-december-2020)
+
+11/12/2020
 
 ## More information on Sibnayal
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](https://www.ema.europa.eu/node/32557) on 20 June 2017. The product was withdrawn from the Union Register of orphan medicinal products by the European Commission in March 2021 upon request of the marketing authorisation holder at the time of the granting of a marketing authorisation.
 
-**This page was last updated on** 19/02/2026
+**This page was last updated on**
+
+09/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

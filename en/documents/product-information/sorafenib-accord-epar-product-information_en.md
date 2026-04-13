@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-01 10:05:24
+document_datetime: 2026-04-09 12:12:51
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sorafenib-accord-epar-product-information_en.pdf
 document_name: sorafenib-accord-epar-product-information_en.pdf
 version: success
-processing_time: 7.9367854
-conversion_datetime: 2025-12-28 08:32:15.258668
+processing_time: 9.5922116
+conversion_datetime: 2026-04-13 14:20:32.401812
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -96,7 +96,7 @@ No dose adjustment is required in patients with Child Pugh A or B (mild to moder
 
 ## Method of administration
 
-## Sorafenib Accord is for oral use.
+## For oral use.
 
 It is recommended that sorafenib should be administered without food or with a low or moderate fat meal. If the patient intends to have a high-fat meal, sorafenib tablets should be taken at least 1 hour before or 2 hours after the meal. The tablets should be swallowed with a glass of water.
 
@@ -170,7 +170,7 @@ Caution is recommended when sorafenib is co-administered with docetaxel (see sec
 
 Co-administration of neomycin or other antibiotics that cause major ecological disturbances of the gastrointestinal microflora may lead to a decrease in sorafenib bioavailability (see section 4.5). The risk of reduced plasma concentrations of sorafenib should be considered before starting a treatment course with antibiotics.
 
-Higher mortality has been reported in patients with squamous cell carcinoma of the lung treated with sorafenib in combination with platinum-based chemotherapies. In two randomised trials investigating patients with non-small cell lung cancer in the subgroup of patients with squamous cell carcinoma treated with sorafenib as add-on to paclitaxel/carboplatin, the HR for overall survival was found to be 1.81 (95% CI 1.19; 2.74) and as add-on to gemcitabine/cisplatin 1.22 (95% CI 0.82; 1.80). No single cause of death dominated, but higher incidence of respiratory failure, hemorrhages and infectious adverse reactions were observed in patients treated with sorafenib as add-on to platinum-based chemotherapies.
+Higher mortality has been reported in patients with squamous cell carcinoma of the lung treated with sorafenib in combination with platinum-based chemotherapies. In two randomised trials investigating patients with non-small cell lung cancer in the subgroup of patients with squamous cell carcinoma treated with sorafenib as add-on to paclitaxel/carboplatin, the HR for overall survival was found to be 1.81 (95% CI 1.19; 2.74) and as add-on to gemcitabine/cisplatin 1.22 (95% CI 0.82; 1.80). No single cause of death dominated, but higher incidence of respiratory failure, hemorrhages and infectious adverse events were observed in patients treated with sorafenib as add-on to platinum-based chemotherapies.
 
 ## Disease specific warnings
 
@@ -244,9 +244,8 @@ In clinical studies sorafenib has been administered with a variety of other anti
 
 ## Paclitaxel/carboplatin
 
-Administration of paclitaxel (225 mg/m2) and carboplatin (AUC=6) with sorafenib ( ≤ 400 mg twice daily), administered with a 3-day break in sorafenib dosing (two days prior to and on the day of paclitaxel/carboplatin administration), resulted in no significant effect on the pharmacokinetics of paclitaxel.
-
-Co-administration of paclitaxel (225 mg/m2, once every 3 weeks) and carboplatin (AUC=6) with sorafenib (400 mg twice daily, without a break in sorafenib dosing) resulted in a 47% increase in sorafenib exposure, a 29% increase in paclitaxel exposure and a 50% increase in 6-OH paclitaxel exposure. The pharmacokinetics of carboplatin were unaffected.
+- Administration of paclitaxel (225 mg/m2) and carboplatin (AUC=6) with sorafenib ( ≤ 400 mg twice daily), administered with a 3-day break in sorafenib dosing (two days prior to and on the day of paclitaxel/carboplatin administration), resulted in no significant effect on the pharmacokinetics of paclitaxel.
+- Co-administration of paclitaxel (225 mg/m2, once every 3 weeks) and carboplatin (AUC=6) with sorafenib (400 mg twice daily, without a break in sorafenib dosing) resulted in a 47% increase in sorafenib exposure, a 29% increase in paclitaxel exposure and a 50% increase in 6-OH paclitaxel exposure. The pharmacokinetics of carboplatin were unaffected.
 
 These data indicate no need for dose adjustments when paclitaxel and carboplatin are co-administered with sorafenib with a 3-day break in sorafenib dosing (two days prior to and on the day of
 
@@ -306,7 +305,7 @@ The most common adverse reactions were diarrhoea, fatigue, alopecia, infection, 
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions reported in multiple clinical trials or through post-marketing use are listed below in table 1, by system organ class (in MedDRA) and frequency. Frequencies are defined as: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), not known (cannot be estimated from the available data).
+Adverse reactions reported in multiple clinical trials or through post-marketing use are listed below in table 1, by system organ class (in MedDRA) and frequency. Frequencies are defined as: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare ( ≥ 1/10,000 to &lt;1/1,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -350,7 +349,7 @@ Table 1: All adverse reactions reported in patients in multiple clinical trials 
 
 ° Cases have been reported in the post marketing setting.
 
-## Description of selected adverse reactions
+## Further information on selected adverse drug reactions
 
 ## Congestive heart failure
 
@@ -366,7 +365,7 @@ Increased lipase and amylase were very commonly reported. CTCAE Grade 3 or 4 lip
 
 Hypophosphataemia was a very common laboratory finding, observed in 45% and 35% of sorafenib treated patients compared to 12% and 11% of placebo patients in study 1 and study 3, respectively. CTCAE Grade 3 hypophosphataemia (1-2 mg/dl) in study 1 occurred in 13% of sorafenib treated patients and 3% of patients in the placebo group, in study 3 in 11% of sorafenib treated patients and 2% of patients in the placebo group. There were no cases of CTCAE Grade 4 hypophosphataemia (&lt;1 mg/dl) reported in either sorafenib or placebo patients in study 1, and 1 case in the placebo group in study 3. The aetiology of hypophosphataemia associated with sorafenib is not known.
 
-CTCAE Grade 3 or 4 laboratory abnormalities occurring in ≥5% of sorafenib treated patients included lymphopenia and neutropenia.
+CTCAE Grade 3 or 4 laboratory abnormalities occurring in ≥ 5% of sorafenib treated patients included lymphopenia and neutropenia.
 
 Hypocalcaemia was reported in 12% and 26.5% of sorafenib treated patients compared to 7.5% and 14.8% of placebo patients in study 1 and study 3, respectively. Most reports of hypocalcaemia were
 
@@ -376,7 +375,7 @@ low grade (CTCAE Grade 1 and 2). CTCAE grade 3 hypocalcaemia (6.0-7.0 mg /dL) oc
 
 In studies 1 and 3 decreased potassium was observed in 5.4% and 9.5% of sorafenib-treated patients compared to 0.7% and 5.9% of placebo patients, respectively. Most reports of hypokalaemia were low grade (CTCAE Grade 1). In these studies CTCAE Grade 3 hypokalaemia occurred in 1.1% and 0.4% of sorafenib treated patients and 0.2% and 0.7% of patients in the placebo group. There were no reports of hypokalaemia CTCAE grade 4.
 
-Laboratory test abnormalities in DTC patients (study 5)
+## Laboratory test abnormalities in DTC patients (study 5)
 
 Hypocalcaemia was reported in 35.7% of sorafenib treated patients compared to 11.0% of placebo patients. Most reports of hypocalcaemia were low grade. CTCAE grade 3 hypocalcaemia occurred in 6.8% of sorafenib treated patients and 1.9% of patients in the placebo group, and CTCAE grade 4 hypocalcaemia occurred in 3.4% of sorafenib treated patients and 1.0% of patients in the placebo group.
 
@@ -413,7 +412,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-There is no specific treatment for sorafenib overdose. The highest dose of sorafenib studied clinically is 800 mg twice daily. The adverse reactions observed at this dose were primarily diarrhoea and dermatological events. In the event of suspected overdose sorafenib should be withheld and supportive care instituted where necessary.
+There is no specific treatment for sorafenib overdose. The highest dose of sorafenib studied clinically is 800 mg twice daily. The adverse events observed at this dose were primarily diarrhoea and dermatological events. In the event of suspected overdose sorafenib should be withheld and supportive care instituted where necessary.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -480,7 +479,7 @@ Study 5 (study 14295) was a Phase III, international, multi-centre, randomised, 
 
 iodine. Progression-free survival (PFS) as evaluated by a blinded independent radiological review using RECIST criteria was the primary endpoint of the study. Secondary endpoints included overall survival (OS), tumour response rate and duration of response. Following progression, patients were allowed to receive open label sorafenib.
 
-Patients were included in the study if they experienced progression within 14 months of enrollment and had DTC refractory to radioactive iodine (RAI). DTC refractory to RAI was defined as having a lesion without iodine uptake on a RAI scan, or receiving cumulative RAI ≥ 22.2 GBq, or experiencing a progression after a RAI treatment within 16 months of enrollment or after two RAI treatments within 16 months of each other.
+Patients were included in the study if they experienced progression within 14 months of enrollment and had DTC refractory to radioactive iodine (RAI). DTC refractory to RAI was defined as having a lesion without iodine uptake on a RAI scan, or receiving cu mulative RAI ≥ 22.2 GBq, or experiencing a progression after a RAI treatment within 16 months of enrollment or after two RAI treatments within 16 months of each other.
 
 Baseline demographics and patient characteristics were well balanced for both treatment groups. Metastases were present in the lungs in 86%, lymph node in 51% and bone in 27% of the patients. The median delivered cumulative radioactive iodine activity before enrollment was approximately 14.8 GBq. Majority of patients had papillary carcinoma (56.8%), followed by follicular (25.4%) and poorly differentiated carcinoma (9.6%).
 
@@ -508,9 +507,7 @@ mesoblastic nephroma, renal medullary carcinoma and rhabdoid tumour of the kidne
 
 ## Absorption and distribution
 
-After administration of sorafenib tablets the mean relative bioavailability is 38-49% when compared to an oral solution. The absolute bioavailability is not known. Following oral administration sorafenib reaches peak plasma concentrations in approximately 3 hours. When given with a high-fat meal sorafenib absorption was reduced by 30% compared to administration in the fasted state. Mean Cmax and AUC increased less than proportionally beyond doses of 400 mg administered twice daily. In vitro binding of sorafenib to human plasma proteins is 99.5%.
-
-Multiple dosing of sorafenib for 7 days resulted in a 2.5- to 7-fold accumulation compared to single dose administration. Steady state plasma sorafenib concentrations are achieved within 7 days, with a peak to trough ratio of mean concentrations of less than 2.
+After administration of sorafenib tablets the mean relative bioavailability is 38-49% when compared to an oral solution. The absolute bioavailability is not known. Following oral administration sorafenib reaches peak plasma concentrations in approximately 3 hours. When given with a high-fat meal sorafenib absorption was reduced by 30% compared to administration in the fasted state. Mean Cmax and AUC increased less than proportionally beyond doses of 400 mg administered twice daily. In vitro binding of sorafenib to human plasma proteins is 99.5%. Multiple dosing of sorafenib for 7 days resulted in a 2.5- to 7-fold accumulation compared to single dose administration. Steady state plasma sorafenib concentrations are achieved within 7 days, with a peak to trough ratio of mean concentrations of less than 2.
 
 The steady-state concentrations of sorafenib administered at 400 mg twice daily were evaluated in DTC, RCC and HCC patients. The highest mean concentration was observed in DTC patients (approximately twice that observed in patients with RCC and HCC), though variability was high for all tumour types. The reason for the increased concentration in DTC patients is unknown.
 
@@ -548,17 +545,19 @@ In hepatocellular carcinoma (HCC) patients with Child-Pugh A or B (mild to moder
 
 The preclinical safety profile of sorafenib was assessed in mice, rats, dogs and rabbits. Repeat-dose toxicity studies revealed changes (degenerations and regenerations) in various organs at exposures below the anticipated clinical exposure (based on AUC comparisons). After repeated dosing to young and growing dogs effects on bone and teeth were observed at exposures below the clinical exposure. Changes consisted in irregular thickening of the femoral growth plate, hypocellularity of the bone marrow next to the altered growth plate and alterations of the dentin composition. Similar effects were not induced in adult dogs.
 
-The standard program of genotoxicity studies was conducted and positive results were obtained as an increase in structural chromosomal aberrations in an in vitro mammalian cell assay (Chinese hamster ovary) for clastogenicity in the presence of metabolic activation was seen. Sorafenib was not genotoxic in the Ames test or in the in vivo mouse micronucleus assay. One intermediate in the manufacturing process, which is also present in the final active substance (&lt;0.15%), was positive for mutagenesis in an in vitro bacterial cell assay (Ames test). Furthermore, the sorafenib batch tested in the standard genotoxicity battery included 0.34% PAPE. Carcinogenicity studies have not been conducted with sorafenib.
+The standard program of genotoxicity studies was conducted and positive results were obtained as an increase in structural chromosomal aberrations in an in vitro mammalian cell assay (Chinese hamster ovary) for clastogenicity in the presence of metabolic activation was seen. Sorafenib was not genotoxic in the Ames test or in the in vivo mouse micronucleus assay. One intermediate in the manufacturing process, which is also present in the final active substance (&lt;0.15%), was positive for mutagenesis in an in vitro bacterial cell assay (Ames test). Furthermore, the sorafenib batch tested in the standard genotoxicity battery included 0.34% PAPE.
+
+In a 2-year mouse carcinogenicity study there were cases of colon adenocarcinoma associated with severe hyperplasia and inflammation, and in a 2-year rat carcinogenicity study there were cases of pancreatic islet cell adenoma. Systemic exposure achieved in both carcinogenicity studies were below clinical exposures in humans at the recommended dose. The observed cases were few in numbers and the clinical relevance of these findings is unknown.
 
 No specific studies with sorafenib have been conducted in animals to evaluate the effect on fertility. An adverse effect on male and female fertility can however be expected because repeat-dose studies in animals have shown changes in male and female reproductive organs at exposures below the anticipated clinical exposure (based on AUC). Typical changes consisted of signs of degeneration and retardation in testes, epididymides, prostate, and seminal vesicles of rats. Female rats showed central necrosis of the corpora lutea and arrested follicular development in the ovaries. Dogs showed tubular degeneration in the testes and oligospermia.
 
 Sorafenib has been shown to be embryotoxic and teratogenic when administered to rats and rabbits at exposures below the clinical exposure. Observed effects included decreases in maternal and foetal body weights, an increased number of foetal resorptions and an increased number of external and visceral malformations.
 
+<div style=\"page-break-after: always\"></div>
+
 Environmental Risk assessment studies have shown that sorafenib tosilate has the potential to be persistent, bioaccumulative and toxic to the environment. Environmental Risk Assessment information is available in the EPAR of this medicine (see section 6.6).
 
 ## 6. PHARMACEUTICAL PARTICULARS
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.1 List of excipients
 
@@ -592,17 +591,19 @@ Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n Edifici Est,
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
+<div style=\"page-break-after: always\"></div>
+
 EU/1/22/1696/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 09 November 2022
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency: http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency: https://www.ema.europa.eu.
+
+19
 
 <div style=\"page-break-after: always\"></div>
 
@@ -693,7 +694,7 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -739,17 +740,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER                                             |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 Sorafenib Accord 200 mg tablets sorafenib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Accord
 
@@ -800,7 +801,7 @@ MON TUE WED THU FRI SAT SUN
 
 Sorafenib Accord is used to treat liver cancer ( hepatocellular carcinoma ).
 
-Sorafenib Accord is also used to treat kidney cancer ( advanced renal cell carcinoma ) at an advanced stage when standard therapy has not helped to stop your disease or is considered unsuitable. Sorafenib Accord used to treat thyroid cancer ( differentiated thyroid carcinoma ).
+Sorafenib Accord is also used to treat kidney cancer ( advanced renal cell carcinoma ) at an advanced stage when standard therapy has not helped to stop your disease or is considered unsuitable. Sorafenib Accord is used to treat thyroid cancer ( differentiated thyroid carcinoma ).
 
 Sorafenib Accord is a so-called multikinase inhibitor. It works by slowing down the rate of growth of cancer cells and cutting off the blood supply that keeps cancer cells growing.
 
@@ -834,7 +835,7 @@ Talk to your doctor or pharmacist before taking Sorafenib Accord.
 - -Fertility. Sorafenib Accord may reduce fertility in both men and women. If you are concerned, talk to a doctor.
 - -Holes in the gut wall ( gastrointestinal perforation ) may occur during treatment (see section 4: Possible Side Effects). In this case your doctor will interrupt the treatment.
 - -If you have thyroid cancer. Your doctor will monitor blood calcium and thyroid hormone levels.
-- -If you experience the following symptoms, contact your doctor immediately as this can be a life-threatening condition : nausea, shortness of breath, irregular heartbeat, muscular cramps, seizure, clouding of urine and tiredness. These may be caused by a group of metabolic complications that can occur during treatment of cancer that are caused by the break-down products of dying cancer cells (tumour lysis syndrome (TLS)) and can lead to changes in kidney function and acute renal failure (see also section 4: Possible side effects).
+- -If you experienced the following, contact your doctor immediately as this can be a lifethreatening condition : nausea, shortness of breath, irregular heartbeat, muscular cramps, seizure, clouding of urine and tiredness. These may be caused by a group of metabolic complications that can occur during treatment of cancer that are caused by the break-down products of dying cancer cells (Tumour lysis syndrome (TLS)) and can lead to changes in kidney function and acute renal failure (see also section 4: Possible side effects).
 
 Tell your doctor if any of these affect you. You may need treatment for them, or your doctor may decide to change your dose of Sorafenib Accord, or stop treatment altogether (see also section 4: Possible side effects).
 
@@ -844,7 +845,7 @@ Children and adolescents have not yet been tested with sorafenib.
 
 ## Other medicines and Sorafenib Accord
 
-Some medicines may affect Sorafenib Accord, or be affected by it. Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines:
+Some medicines may affect Sorafenib Accord, or be affected by it. Tell your doctor or pharmacist if you are taking, have recently taken or might take anything in this list or any other medicines, including medicines obtained without a prescription:
 
 - -Rifampicin, neomycin or other medicines used to treat infections ( antibiotics )
 - -St John's wort, a herbal treatment for depression
@@ -858,9 +859,9 @@ Some medicines may affect Sorafenib Accord, or be affected by it. Tell your doct
 
 Avoid becoming pregnant while being treated with Sorafenib Accord. If you could become pregnant, use adequate contraception during treatment. If you become pregnant while being treated with Sorafenib Accord, immediately tell your doctor who will decide if the treatment should be continued.
 
-You must not breast-feed your baby during Sorafenib Accord treatment , as this medicine may interfere with the growth and development of your baby.
-
 <div style=\"page-break-after: always\"></div>
+
+You must not breast-feed your baby during Sorafenib Accord treatment , as this medicine may interfere with the growth and development of your baby.
 
 ## Driving and using machines
 
@@ -894,7 +895,7 @@ If you have missed a dose, take it as soon as you remember. If it is nearly time
 
 Like all medicines, this medicine can cause side effects although not everybody gets them. This medicine may also affect the results of some blood tests.
 
-## Very common side effects: ( may affect more than 1 in 10 people)
+Very common ( may affect more than 1 in 10 people):
 
 - -diarrhoea
 - -feeling sick ( nausea )
@@ -908,16 +909,16 @@ Like all medicines, this medicine can cause side effects although not everybody 
 - -high blood pressure, or increases in blood pressure (hypertension)
 - -infections
 - -loss of appetite (anorexia)
-- -constipation
-- -joint pain (arthralgia)
 
 <div style=\"page-break-after: always\"></div>
 
+- -constipation
+- -joint pain (arthralgia)
 - -fever
 - -weight loss
 - -dry skin
 
-## Common side effects: ( may affect up to 1 in 10 people)
+## Common ( may affect up to 1 in 10 people):
 
 - -flu-like illness
 - -indigestion (dyspepsia)
@@ -933,7 +934,8 @@ Like all medicines, this medicine can cause side effects although not everybody 
 - -altered voice (dysphonia)
 - -acne
 - -inflamed, dry or scaly skin that sheds (dermatitis, skin desquamation)
-- -heart failure
+- -
+- heart failure
 - -heart attack ( myocardial infarction ) or chest pain
 - -tinnitus (ringing sound in the ear)
 - -kidney failure
@@ -953,7 +955,7 @@ Like all medicines, this medicine can cause side effects although not everybody 
 - -a thickening of the outer layer of the skin (hyperkeratosis)
 - -a sudden, involuntary contraction of a muscle (muscle spasms)
 
-## Uncommon side effects: ( may affect up to 1 in 100 people)
+## Uncommon ( may affect up to 1 in 100 people):
 
 - -inflamed stomach lining ( gastritis )
 - -pain in the tummy ( abdomen ) caused by pancreatitis, inflammation of the gall bladder and/or bile ducts
@@ -967,15 +969,13 @@ Like all medicines, this medicine can cause side effects although not everybody 
 - -multiple skin eruptions ( erythema multiforme )
 - -abnormally high blood pressure
 - -holes in the gut wall ( gastrointestinal perforation )
-- -reversible swelling in the rear part of the brain that can be associated with headache, altered consciousness, fits and visual symptoms including visual loss ( reversible posterior leukoencephalopathy )
 
 <div style=\"page-break-after: always\"></div>
 
+- -reversible swelling in the rear part of the brain that can be associated with headache, altered consciousness, fits and visual symptoms including visual loss ( reversible posterior leukoencephalopathy )
 - -a sudden, severe allergic reaction (anaphylactic reaction)
 
-Rare side effects:
-
-may affect up to 1 in 1,000 people
+## Rare (may affect up to 1 in 1,000 people):
 
 - -allergic reaction with swelling of the skin (e. g. face, tongue) that may cause difficulty in breathing or swallowing (angioedema)
 - -abnormal heart rhythm (QT prolongation)
@@ -986,7 +986,7 @@ may affect up to 1 in 1,000 people
 - -damage of the kidney causing them to leak large amounts of protein (nephrotic syndrome)
 - -inflammation of the vessels in the skin which may result in rash (leucocytoclastic vasculitis)
 
-Not known side effects : frequency cannot be estimated from the available data
+Not known (frequency cannot be estimated from the available data):
 
 - -impaired brain function that can be associated with e.g. drowsiness, behavioural changes, or confusion (encephalopathy)
 - -an enlargement and weakening of a blood vessel wall or a tear in a blood vessel wall (aneurysms and artery dissections) .
@@ -1013,11 +1013,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - -The active substance is sorafenib. Each film-coated tablet contains 200 mg sorafenib (as tosilate).
 - -The other ingredients are:
 
-Tablet core: croscarmellose sodium, cellulose, microcrystalline, hypromellose, sodium laurilsulfate, magnesium stearate. See section 2 'Sorafenib Accord contains sodium'.
-
-Tablet coating: hypromellose (E464), macrogol (E1521), titanium dioxide (E171), ferric oxide red (E172).
+Tablet core: croscarmellose sodium, cellulose, microcrystalline, hypromellose, sodium laurilsulfate, magnesium stearate.
 
 <div style=\"page-break-after: always\"></div>
+
+Tablet coating: hypromellose (E464), macrogol (E1521), titanium dioxide (E171), ferric oxide red (E172).
 
 ## What Sorafenib Accord looks like and contents of the pack
 
@@ -1057,4 +1057,4 @@ Tel: +30 210 7488 821
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.

@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-02-19 10:31:00
+document_datetime: 2026-04-10 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mysimba.html
 document_name: mysimba.html
 version: success
-processing_time: 0.1208695
-conversion_datetime: 2026-02-21 12:54:06.003199
+processing_time: 0.1519545
+conversion_datetime: 2026-04-13 14:20:47.34297
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Mysimba
 
 [RSS](/en/individual-human-medicine.xml/66375)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-naltrexone / bupropion Medicine Human Authorised
+naltrexone / bupropion
+
+Medicine Human Authorised
 
 Page contents
 
@@ -117,275 +119,141 @@ Mysimba : EPAR - Summary for the public
 
 English (EN) (83.58 KB - PDF)
 
-**First published:** 15/04/2015
-
-**Last updated:** 15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/en/documents/overview/mysimba-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-9)
+[Other languages (22)](#file-language-dropdown-938)
 
 български (BG) (147.4 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/bg/documents/overview/mysimba-epar-summary-public_bg.pdf)
 
 español (ES) (83.92 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/es/documents/overview/mysimba-epar-summary-public_es.pdf)
 
 čeština (CS) (142.48 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/cs/documents/overview/mysimba-epar-summary-public_cs.pdf)
 
 dansk (DA) (139.3 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/da/documents/overview/mysimba-epar-summary-public_da.pdf)
 
 Deutsch (DE) (131.57 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/de/documents/overview/mysimba-epar-summary-public_de.pdf)
 
 eesti keel (ET) (125.23 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/et/documents/overview/mysimba-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (138.56 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/el/documents/overview/mysimba-epar-summary-public_el.pdf)
 
 français (FR) (131.45 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/fr/documents/overview/mysimba-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (129.03 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/hr/documents/overview/mysimba-epar-summary-public_hr.pdf)
 
 italiano (IT) (83.65 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/it/documents/overview/mysimba-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (140.21 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/lv/documents/overview/mysimba-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (139.4 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/lt/documents/overview/mysimba-epar-summary-public_lt.pdf)
 
 magyar (HU) (130.78 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/hu/documents/overview/mysimba-epar-summary-public_hu.pdf)
 
 Malti (MT) (133.04 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/mt/documents/overview/mysimba-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (127.04 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/nl/documents/overview/mysimba-epar-summary-public_nl.pdf)
 
 polski (PL) (132.34 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/pl/documents/overview/mysimba-epar-summary-public_pl.pdf)
 
 português (PT) (130.35 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/pt/documents/overview/mysimba-epar-summary-public_pt.pdf)
 
 română (RO) (108.57 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/ro/documents/overview/mysimba-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (131.34 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/sk/documents/overview/mysimba-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (128.26 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/sl/documents/overview/mysimba-epar-summary-public_sl.pdf)
 
 Suomi (FI) (126.95 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/fi/documents/overview/mysimba-epar-summary-public_fi.pdf)
 
 svenska (SV) (137.49 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/sv/documents/overview/mysimba-epar-summary-public_sv.pdf)
 
@@ -393,11 +261,9 @@ Mysimba : EPAR - Risk management plan
 
 Adopted
 
-English (EN) (2.78 MB - PDF)
+English (EN) (2.37 MB - PDF)
 
-**First published:** 30/05/2022
-
-**Last updated:** 03/06/2025
+**First published:** 30/05/2022 **Last updated:** 10/04/2026
 
 [View](/en/documents/rmp/mysimba-epar-risk-management-plan_en.pdf)
 
@@ -407,303 +273,159 @@ Mysimba : EPAR - Product Information
 
 English (EN) (802.77 KB - PDF)
 
-**First published:** 15/04/2015
-
-**Last updated:** 19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/en/documents/product-information/mysimba-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-158)
+[Other languages (24)](#file-language-dropdown-752)
 
 български (BG) (908.29 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/bg/documents/product-information/mysimba-epar-product-information_bg.pdf)
 
 español (ES) (709.78 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/es/documents/product-information/mysimba-epar-product-information_es.pdf)
 
 čeština (CS) (685.46 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/cs/documents/product-information/mysimba-epar-product-information_cs.pdf)
 
 dansk (DA) (645.14 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/da/documents/product-information/mysimba-epar-product-information_da.pdf)
 
 Deutsch (DE) (682.76 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/de/documents/product-information/mysimba-epar-product-information_de.pdf)
 
 eesti keel (ET) (680.29 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/et/documents/product-information/mysimba-epar-product-information_et.pdf)
 
 ελληνικά (EL) (742.58 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/el/documents/product-information/mysimba-epar-product-information_el.pdf)
 
 français (FR) (709.56 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/fr/documents/product-information/mysimba-epar-product-information_fr.pdf)
 
 hrvatski (HR) (566.88 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/hr/documents/product-information/mysimba-epar-product-information_hr.pdf)
 
 íslenska (IS) (682.48 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/is/documents/product-information/mysimba-epar-product-information_is.pdf)
 
 italiano (IT) (602.9 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/it/documents/product-information/mysimba-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (719.02 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/lv/documents/product-information/mysimba-epar-product-information_lv.pdf)
 
 lietuvių kalba (LT) (746.39 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/lt/documents/product-information/mysimba-epar-product-information_lt.pdf)
 
 magyar (HU) (717.98 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/hu/documents/product-information/mysimba-epar-product-information_hu.pdf)
 
 Malti (MT) (785.06 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/mt/documents/product-information/mysimba-epar-product-information_mt.pdf)
 
 Nederlands (NL) (698.03 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/nl/documents/product-information/mysimba-epar-product-information_nl.pdf)
 
 norsk (NO) (652.83 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/no/documents/product-information/mysimba-epar-product-information_no.pdf)
 
 polski (PL) (764.85 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/pl/documents/product-information/mysimba-epar-product-information_pl.pdf)
 
 português (PT) (689.14 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/pt/documents/product-information/mysimba-epar-product-information_pt.pdf)
 
 română (RO) (585.97 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/ro/documents/product-information/mysimba-epar-product-information_ro.pdf)
 
 slovenčina (SK) (723.02 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/sk/documents/product-information/mysimba-epar-product-information_sk.pdf)
 
 slovenščina (SL) (565.04 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/sl/documents/product-information/mysimba-epar-product-information_sl.pdf)
 
 Suomi (FI) (718.88 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/fi/documents/product-information/mysimba-epar-product-information_fi.pdf)
 
 svenska (SV) (657.81 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 15/04/2015 **Last updated:** 19/02/2026
 
 [View](/sv/documents/product-information/mysimba-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000332676 17/02/2026
+**Latest procedure affecting product information:** VR/0000332676
+
+17/02/2026
 
 icon globe
 
@@ -723,305 +445,163 @@ Mysimba : EPAR - All Authorised presentations
 
 English (EN) (44.3 KB - PDF)
 
-**First published:** 15/04/2015
-
-**Last updated:** 29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/en/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-756)
+[Other languages (24)](#file-language-dropdown-568)
 
 български (BG) (58.08 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/bg/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (44.83 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/es/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (57.47 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/cs/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (44.8 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/da/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (46.08 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/de/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (42.27 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/et/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (56.89 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/el/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (44.87 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/fr/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (73.11 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/hr/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (42.49 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/is/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (44.16 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/it/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (54.96 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/lv/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (59.4 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/lt/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (58.23 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/hu/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (59.38 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/mt/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (43.94 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/nl/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (45.01 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/no/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (59.98 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/pl/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (45.54 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/pt/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (57.1 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/ro/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (57.84 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/sk/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (57.59 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/sl/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (42 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/fi/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (43.96 KB - PDF)
 
-**First published:**
-
-15/04/2015
-
-**Last updated:**
-
-29/09/2017
+**First published:** 15/04/2015 **Last updated:** 29/09/2017
 
 [View](/sv/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Mysimba Active substance
+Name of medicine
+
+Mysimba
+
+Active substance
 
 - bupropion hydrochloride
 - naltrexone hydrochloride
@@ -1036,7 +616,9 @@ Therapeutic area (MeSH)
 - Obesity
 - Overweight
 
-Anatomical therapeutic chemical (ATC) code A08AA
+Anatomical therapeutic chemical (ATC) code
+
+A08AA
 
 ### Pharmacotherapeutic group
 
@@ -1053,7 +635,9 @@ Treatment with Mysimba should be discontinued after 16 weeks if patients have no
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/003687
+EMA product number
+
+EMEA/H/C/003687
 
 Additional monitoring
 
@@ -1065,7 +649,17 @@ Orexigen Therapeutics Ireland Limited
 
 9-10 Fenian Street Dublin 2 D02 RX24 Ireland
 
-Opinion adopted 18/12/2014 Marketing authorisation issued 26/03/2015 Revision 31
+Opinion adopted
+
+18/12/2014
+
+Marketing authorisation issued
+
+26/03/2015
+
+Revision
+
+32
 
 ## Assessment history
 
@@ -1077,11 +671,9 @@ Collapse section
 
 Mysimba : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (145.7 KB - PDF)
+English (EN) (151.72 KB - PDF)
 
-**First published:** 06/11/2025
-
-**Last updated:** 19/02/2026
+**First published:** 06/11/2025 **Last updated:** 10/04/2026
 
 [View](/en/documents/procedural-steps-after/mysimba-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1089,9 +681,7 @@ Mysimba : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (265.18 KB - PDF)
 
-**First published:** 12/01/2016
-
-**Last updated:** 06/11/2025
+**First published:** 12/01/2016 **Last updated:** 06/11/2025
 
 [View](/en/documents/procedural-steps-after/mysimba-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1111,197 +701,149 @@ English (EN) (245.9 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-697)
+[Other languages (23)](#file-language-dropdown-973)
 
 български (BG) (315.92 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/bg/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_bg.pdf)
 
 español (ES) (245 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/es/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_es.pdf)
 
 čeština (CS) (264.58 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/cs/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_cs.pdf)
 
 dansk (DA) (255.93 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/da/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_da.pdf)
 
 Deutsch (DE) (255.53 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/de/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_de.pdf)
 
 eesti keel (ET) (281.09 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/et/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_et.pdf)
 
 ελληνικά (EL) (248.8 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/el/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_el.pdf)
 
 français (FR) (252.3 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/fr/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_fr.pdf)
 
 hrvatski (HR) (331.39 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/hr/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_hr.pdf)
 
 íslenska (IS) (248.52 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/is/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_is.pdf)
 
 italiano (IT) (246.88 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/it/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_it.pdf)
 
 latviešu valoda (LV) (287.81 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/lv/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_lv.pdf)
 
 lietuvių kalba (LT) (307.38 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/lt/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_lt.pdf)
 
 magyar (HU) (282.62 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/hu/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_hu.pdf)
 
 Malti (MT) (334.46 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/mt/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_mt.pdf)
 
 Nederlands (NL) (249.68 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/nl/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_nl.pdf)
 
 norsk (NO) (244.29 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/no/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_no.pdf)
 
 polski (PL) (342.01 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/pl/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_pl.pdf)
 
 português (PT) (256.79 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/pt/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_pt.pdf)
 
 română (RO) (305.26 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/ro/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_ro.pdf)
 
 slovenčina (SK) (315.51 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/sk/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_sk.pdf)
 
 Suomi (FI) (241.15 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/fi/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_fi.pdf)
 
 svenska (SV) (275.83 KB - PDF)
 
-**First published:**
-
-03/06/2025
+**First published:** 03/06/2025
 
 [View](/sv/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_sv.pdf)
 
 Mysimba-H-A-20-1530-C-3687-0065 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/101183/2025
+Adopted Reference Number: EMA/101183/2025
 
 English (EN) (468.55 KB - PDF)
 
@@ -1331,9 +873,7 @@ English (EN) (118.22 KB - PDF)
 
 Mysimba-H-C-PSUSA-00010366-202009: EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/346967/2021
+Adopted Reference Number: EMA/346967/2021
 
 English (EN) (125.36 KB - PDF)
 
@@ -1347,9 +887,7 @@ Reference Number: EMA/328998/2018
 
 English (EN) (67.33 KB - PDF)
 
-**First published:** 10/08/2018
-
-**Last updated:** 10/08/2018
+**First published:** 10/08/2018 **Last updated:** 10/08/2018
 
 [View](/en/documents/scientific-conclusion/mysimba-h-c-psusa-00010366-201709-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
@@ -1359,9 +897,7 @@ Reference Number: EMA/73378/2018
 
 English (EN) (67.09 KB - PDF)
 
-**First published:** 06/02/2018
-
-**Last updated:** 06/02/2018
+**First published:** 06/02/2018 **Last updated:** 06/02/2018
 
 [View](/en/documents/scientific-conclusion/mysimba-h-c-psusa-00010366-201703-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
@@ -1371,9 +907,7 @@ Reference Number: EMA/CHMP/419376/2017
 
 English (EN) (68.72 KB - PDF)
 
-**First published:** 03/07/2017
-
-**Last updated:** 03/07/2017
+**First published:** 03/07/2017 **Last updated:** 03/07/2017
 
 [View](/en/documents/scientific-conclusion/mysimba-h-c-psusa-00010366-201609-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
@@ -1381,51 +915,57 @@ English (EN) (68.72 KB - PDF)
 
 Mysimba : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/805547/2015
+Adopted Reference Number: EMA/805547/2015
 
 English (EN) (6.41 MB - PDF)
 
-**First published:** 15/04/2015
-
-**Last updated:** 15/04/2015
+**First published:** 15/04/2015 **Last updated:** 15/04/2015
 
 [View](/en/documents/assessment-report/mysimba-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Mysimba
 
-Adopted
-
-Reference Number: EMA/CHMP/756988/2014
+Adopted Reference Number: EMA/CHMP/756988/2014
 
 English (EN) (104.46 KB - PDF)
 
-**First published:** 22/12/2014
-
-**Last updated:** 22/12/2014
+**First published:** 22/12/2014 **Last updated:** 22/12/2014
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-mysimba_en.pdf)
 
-#### Patient safety information
+## Patient safety information
 
-[Updated advice to minimise risks of interaction between weight loss medicine Mysimba and opioids](/en/news/updated-advice-minimise-risks-interaction-between-weight-loss-medicine-mysimba-opioids) 15/11/2024
+[Updated advice to minimise risks of interaction between weight loss medicine Mysimba and opioids](/en/news/updated-advice-minimise-risks-interaction-between-weight-loss-medicine-mysimba-opioids)
 
-[EMA advises about risks of using weight loss medicine Mysimba with opioids](/en/news/ema-advises-about-risks-using-weight-loss-medicine-mysimba-opioids) 26/07/2024
+15/11/2024
 
-#### News on Mysimba
+[EMA advises about risks of using weight loss medicine Mysimba with opioids](/en/news/ema-advises-about-risks-using-weight-loss-medicine-mysimba-opioids)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2024) 15/11/2024
+26/07/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2024) 26/07/2024
+## News on Mysimba
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 September 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-september-2023) 15/09/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 December 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-december-2014) 19/12/2014
+15/11/2024
 
-[Mysimba recommended for approval in weight management in adults](/en/news/mysimba-recommended-approval-weight-management-adults) 19/12/2014
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2024)
 
-#### More information on Mysimba
+26/07/2024
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 September 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-september-2023)
+
+15/09/2023
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 December 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-december-2014)
+
+19/12/2014
+
+[Mysimba recommended for approval in weight management in adults](/en/news/mysimba-recommended-approval-weight-management-adults)
+
+19/12/2014
+
+## More information on Mysimba
 
 - [EMEA-001373-PIP01-12-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001373-pip01-12-m06)
 - [Mysimba - referral](/en/medicines/human/referrals/mysimba)
@@ -1434,12 +974,12 @@ English (EN) (104.46 KB - PDF)
 - [NB-452: A cross-sectional survey to evaluate the effectiveness of the Mysimba® Physician Prescribing Checklist (PPC) among physicians in the European Union (EU) - post-authorisation study](https://catalogues.ema.europa.eu/study/42492)
 - [Effectiveness of the Mysimba Physician Prescribing Checklist (PPC): Focus group to assess understanding, attitude, and behaviour for usage of the PPC and for key safety messages (NB-453 PPC focus groups) - post-authorisation study](https://catalogues.ema.europa.eu/study/103749)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 19/02/2026
+**This page was last updated on**
+
+10/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

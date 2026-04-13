@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-16 15:49:44
-document_pages: 54
+document_datetime: 2026-04-08 13:38:13
+document_pages: 55
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/aripiprazole-zentiva-epar-product-information_en.pdf
 document_name: aripiprazole-zentiva-epar-product-information_en.pdf
 version: success
-processing_time: 15.5527353
-conversion_datetime: 2026-01-17 13:37:40.080454
+processing_time: 14.6922634
+conversion_datetime: 2026-04-13 14:01:59.735826
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -212,7 +212,7 @@ In paediatric clinical trials of aripiprazole akathisia and Parkinsonism were ob
 
 ## Neuroleptic Malignant Syndrome (NMS)
 
-NMS is a potentially fatal symptom complex associated with antipsychotics. In clinical trials, rare cases of NMS were reported during treatment with aripiprazole. Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmia). Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure. However, elevated creatine phosphokinase and rhabdomyolysis, not necessarily in association with NMS, have also been reported. If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotics, including aripiprazole, must be discontinued.
+NMS is a potentially fatal symptom complex associated with antipsychotics. In clinical trials, rare cases of NMS were reported during treatment with aripiprazole. Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmia). Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure. However, elevated creatine phosphokinase and rhabdomyolysis, not necessarily in association with NMS, have also been reported. If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotics, including aripiprazole, must be discontinued (see section 4.8).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -252,9 +252,9 @@ disorder or pituitary adenoma. In clinical trials aripiprazole has not been show
 
 Oesophageal dysmotility and aspiration have been associated with the use of antipsychotics, including aripiprazole. Aripiprazole should be used cautiously in patients at risk for aspiration pneumonia.
 
-## Pathological gambling and other impulse control disorders
+## Gambling disorder and other impulse control disorders
 
-Patients can experience increased urges, particularly for gambling, and the inability to control these urges while taking aripiprazole. Other urges, reported, include: increased sexual urges, compulsive shopping, binge or compulsive eating, and other impulsive and compulsive behaviours. It is important for prescribers to ask patients or their caregivers specifically about the development of new or increased gambling urges, sexual urges, compulsive shopping, binge or compulsive eating, or other urges while being treated with aripiprazole. It should be noted that impulse-control symptoms can be associated with the underlying disorder; however, in some cases, urges were reported to have stopped when the dose was reduced or the medication was discontinued. Impulse control disorders may result in harm to the patient and others if not recognised. Consider dose reduction or stopping the medication if a patient develops such urges while taking aripiprazole (see section 4.8).
+Patients can experience increased urges, particularly for gambling, and the inability to control these urges while taking aripiprazole. Other urges, reported, include: increased sexual urges, compulsive shopping, binge or compulsive eating, and other impulsive and compulsive behaviours. It is important for prescribers to ask patients or their caregivers specifically about the development of new or increased gambling urges, sexual urges, compulsive shopping, binge or compulsive eating, or other urges while being treated with aripiprazole. It should be noted that impulse-control symptoms can be associated with the underlying disorder; however, in some cases, urges were reported to have stopped when the dose was reduced or the medicinal product was discontinued. Impulse control disorders may result in harm to the patient and others if not recognised. Consider dose reduction or stopping the medication if a patient develops such urges while taking aripiprazole (see section 4.8).
 
 ## Patients with attention deficit hyperactivity disorder (ADHD) comorbidity
 
@@ -278,7 +278,7 @@ Due to its α 1-adrenergic receptor antagonism, aripiprazole has the potential t
 
 <div style=\"page-break-after: always\"></div>
 
-Given the primary CNS effects of aripiprazole, caution should be used when aripiprazole is administered in combination with alcohol or other CNS medicinal products with overlapping adverse reactions such as sedation (see section 4.8).
+Given the primary central nervous system (CNS) effects of aripiprazole, caution should be used when aripiprazole is administered in combination with alcohol or other CNS medicinal products with overlapping adverse reactions such as sedation (see section 4.8).
 
 If aripiprazole is administered concomitantly with medicinal products known to cause QT prolongation or electrolyte imbalance, caution should be used.
 
@@ -304,7 +304,7 @@ When weak inhibitors of CYP3A4 (e.g. diltiazem) or CYP2D6 (e.g. escitalopram) ar
 
 Following concomitant administration of carbamazepine, a strong inducer of CYP3A4, and oral aripiprazole to patients with schizophrenia or schizoaffective disorder, the geometric means of Cmax and AUC for aripiprazole were 68% and 73% lower, respectively, compared to when aripiprazole (30 mg) was administered alone. Similarly, for dehydro-aripiprazole the geometric means of Cmax and AUC after carbamazepine co-administration were 69% and 71% lower, respectively, than those following treatment with aripiprazole alone.
 
-Aripiprazole dose should be doubled when concomitant administration of aripiprazole occurs with carbamazepine. Concomitant administration of aripiprazole and other inducers of CYP3A4 (such as rifampicin, rifabutin, phenytoin, phenobarbital, primidone, efavirenz, nevirapine and St. John's
+Aripiprazole dose should be doubled when concomitant administration of aripiprazole occurs with carbamazepine. Concomitant administration of aripiprazole and other inducers of CYP3A4 (such as rifampicin, rifabutin, phenytoin, phenobarbital, primidone, efavirenz, nevirapine and St. John´s
 
 <div style=\"page-break-after: always\"></div>
 
@@ -366,7 +366,7 @@ The frequency of adverse reactions reported during post-marketing use cannot be 
 | Immune system disorders              |                               |                                               | Allergic reaction (e.g. anaphylactic reaction, angioedema including swollen tongue, tongue oedema, face oedema, pruritus allergic, or urticaria) |
 | Endocrine disorders                  |                               | Hyperprolactinaemia Blood prolactin decreased | Diabetic hyperosmolar coma Diabetic ketoacidosis                                                                                                 |
 | Metabolism and nutrition disorders   | Diabetes mellitus             | Hyperglycaemia                                | Hyponatremia Anorexia                                                                                                                            |
-| Psychiatric disorders                | Insomnia Anxiety Restlessness | Depression Hypersexuality                     | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Pathological gambling Impulse-control disorder                        |
+| Psychiatric disorders                | Insomnia Anxiety Restlessness | Depression Hypersexuality                     | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Gambling disorder Impulse-control disorder                            |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -450,9 +450,9 @@ In the paediatric population somnolence and fatigue were observed more frequentl
 
 In the paediatric bipolar population (10 to 17 years) with exposure up to 30 weeks, incidence of low serum prolactin levels in females (&lt; 3 ng/ml) and males (&lt; 2 ng/ml) was 28.0% and 53.3%, respectively.
 
-## Pathological gambling and other impulse control disorders
+## Gambling disorder and other impulse control disorders
 
-Pathological gambling, hypersexuality, compulsive shopping and binge or compulsive eating can occur in patients treated with aripiprazole (see section 4.4).
+Gambling disorder, hypersexuality, compulsive shopping and binge or compulsive eating can occur in patients treated with aripiprazole (see section 4.4).
 
 ## Reporting of suspected adverse reactions
 
@@ -816,16 +816,20 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
-|-------|-----------------------------------------------------------------|
+10.
+
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
 Zentiva, k.s. U Kabelovny 130 102 37 Prague 10 Czech Republic
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/15/1009/001 EU/1/15/1009/002 EU/1/15/1009/003 EU/1/15/1009/004
 
@@ -886,7 +890,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-31
+32
 
 <div style=\"page-break-after: always\"></div>
 
@@ -941,8 +945,9 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
-|-------|-----------------------------------------------------------------|
+| 10.                                                                 | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS       |
+|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE | ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -1013,7 +1018,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-35
+36
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1097,8 +1102,7 @@ Lot
 
 Aripiprazole Zentiva 15 mg tablets
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1138,7 +1142,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-39
+40
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1190,36 +1194,35 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
-|-------|-----------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Zentiva, k.s. U Kabelovny 130 102 37 Prague 10 Czech Republic
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/15/1009/016 EU/1/15/1009/017 EU/1/15/1009/018 EU/1/15/1009/019
+EU/1/15/1009/016
+
+EU/1/15/1009/017
+
+EU/1/15/1009/018
+
+EU/1/15/1009/019
 
 EU/1/15/1009/020
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Aripiprazole Zentiva 30 mg tablets
 
@@ -1264,15 +1267,15 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-43
+44
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ```
 Aripiprazole Zentiva 5 mg tablets Aripiprazole Zentiva 10 mg tablets Aripiprazole Zentiva 15 mg tablets Aripiprazole Zentiva 30 mg tablets aripiprazole
@@ -1312,9 +1315,9 @@ Aripiprazole Zentiva is used to treat adults and adolescents aged 13 years and o
 
 Talk to your doctor before taking Aripiprazole Zentiva.
 
-Suicidal thoughts and behaviours have been reported during aripiprazole treatment. Tell your doctor immediately if you are having any thoughts or feelings about hurting yourself.
-
 <div style=\"page-break-after: always\"></div>
+
+Suicidal thoughts and behaviours have been reported during  treatment with this medicine. Tell your doctor immediately if you are having any thoughts or feelings about hurting yourself before or after taking this medicine.
 
 Before treatment with Aripiprazole Zentiva, tell your doctor if you suffer from
 
@@ -1335,7 +1338,7 @@ Tell your doctor immediately if you suffer from muscle stiffness or inflexibilit
 
 Tell your doctor if you or your family/carer notices that you are developing urges or cravings to behave in ways that are unusual for you and you cannot resist the impulse, drive or temptation to carry out certain activities that could harm yourself or others. These are called impulse control disorders and can include behaviours such as addictive gambling, excessive eating or spending, an abnormally high sex drive or preoccupation with an increase in sexual thoughts or feelings. Your doctor may need to adjust or stop your dose.
 
-Aripiprazole may cause sleepiness, fall in blood pressure when standing up, dizziness and changes in your ability to move and balance, which may lead to falls. Caution should be taken, particularly if you are an elderly patient or have some debility.
+This medicine may cause sleepiness, fall in blood pressure when standing up, dizziness and changes in your ability to move and balance, which may lead to falls. Caution should be taken, particularly if you are an elderly patient or have some debility.
 
 ## Children and adolescents
 
@@ -1347,14 +1350,14 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Blood pressure-lowering medicines: Aripiprazole Zentiva may increase the effect of medicines used to lower the blood pressure. Be sure to tell your doctor if you take a medicine to keep your blood pressure under control.
 
+<div style=\"page-break-after: always\"></div>
+
 Taking Aripiprazole Zentiva with some medicines may mean the doctor will need to change your dose of Aripiprazole Zentiva or the other medicines. It is especially important to mention the following to your doctor:
 
 - medicines to correct heart rhythm (such as quinidine, amiodarone, flecainide)
-
-<div style=\"page-break-after: always\"></div>
-
-- antidepressants or herbal remedy used to treat depression and anxiety (such as fluoxetine, paroxetine, venlafaxine, St. John ʼ s Wort)
-- antifungal medicines (such as ketoconazole, itraconazole)
+- antidepressants or herbal remedy used to treat depression and anxiety (such as fluoxetine, paroxetine, venlafaxine, St. John´s Wort)
+- antifungal medicines (such as  itraconazole)
+- ketoconazole (used to treat Cushing´s syndrome when the body produces an excess of cortisol)
 - certain medicines to treat HIV infection (such as efavirenz, nevirapine, an protease inhibitors e.g. indinavir, ritonavir)
 - anticonvulsants used to treat epilepsy (such as carbamazepine, phenytoin, phenobarbital)
 - certain antibiotics used to treat tuberculosis (rifabutin, rifampicin).
@@ -1367,7 +1370,7 @@ Medicines that increase the level of serotonin are typically used in conditions 
 - selective-serotonin-reuptake-inhibitors (SSRIs) (such as paroxetine and fluoxetine) used for depression, OCD, panic and anxiety
 - other anti-depressants (such as venlafaxine and tryptophan) used in major depression
 - tricyclic's (such as clomipramine and amitriptyline) used for depressive illness
-- St John's Wort (Hypericum perforatum) used as a herbal remedy for mild depression
+- St John´s Wort (Hypericum perforatum) used as a herbal remedy for mild depression
 - pain killers (such as tramadol and pethidine) used for pain relief
 - triptans (such as sumatriptan and zolmitripitan) used for treating migraine
 
@@ -1375,7 +1378,9 @@ These medicines may increase the risk of side effects; if you get any unusual sy
 
 ## Aripiprazole Zentiva with food, drink and alcohol
 
-This medicine can be taken regardless of meals. Alcohol should be avoided.
+This medicine can be taken regardless of meals.
+
+Alcohol should be avoided.
 
 ## Pregnancy, breast-feeding and fertility
 
@@ -1387,9 +1392,9 @@ If you are taking Aripiprazole Zentiva, your doctor will discuss with you whethe
 
 ## Driving and using machines
 
-Dizziness and vision problems may occur during treatment with this medicine (see section 4). This should be considered in cases where full alertness is required, e.g. when driving a car or handling machines.
-
 <div style=\"page-break-after: always\"></div>
+
+Dizziness and vision problems may occur during treatment with this medicine (see section 4). This should be considered in cases where full alertness is required, e.g. when driving a car or handling machines.
 
 ## Aripiprazole Zentiva contains lactose
 
@@ -1419,7 +1424,9 @@ Aripiprazole Zentiva 10 mg, 30 mg tablets: The score line is not intended for br
 
 ## If you take more Aripiprazole Zentiva than you should
 
-If you realise you have taken more Aripiprazole Zentiva than your doctor has recommended (or if someone else has taken some of your Aripiprazole Zentiva), contact your doctor right away. If you cannot reach your doctor, go to the nearest hospital and take the pack with you. Patients who have taken too much aripiprazole have experienced the following symptoms:
+If you realise you have taken more Aripiprazole Zentiva than your doctor has recommended (or if someone else has taken some of your Aripiprazole Zentiva), contact your doctor right away. If you cannot reach your doctor, go to the nearest hospital and take the pack with you.
+
+Patients who have taken too much of this medicine have experienced the following symptoms:
 
 - rapid heartbeat, agitation/aggressiveness, problems with speech.
 - unusual movements (especially of the face or tongue) and reduced level of consciousness.
@@ -1433,9 +1440,9 @@ Contact your doctor or hospital immediately if you experience any of the above.
 
 ## If you forget to take Aripiprazole Zentiva
 
-If you miss a dose, take the missed dose as soon as you remember but do not take two doses in one day.
-
 <div style=\"page-break-after: always\"></div>
+
+If you miss a dose, take the missed dose as soon as you remember but do not take two doses in one day.
 
 ## If you stop taking Aripiprazole Zentiva
 
@@ -1466,7 +1473,6 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - feeling sick,
 - more saliva in mouth than normal,
 - vomiting,
-- •
 - feeling tired.
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
@@ -1484,13 +1490,12 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - a fall in blood pressure on standing up which causes dizziness, light-headedness or fainting,
 - hiccups.
 
+<div style=\"page-break-after: always\"></div>
+
 The following side effects have been reported since the marketing of oral aripiprazole but the frequency for them to occur is not known (frequency cannot be estimated from the available data) :
 
 - low levels of white blood cells,
 - low levels of blood platelets,
-
-<div style=\"page-break-after: always\"></div>
-
 - allergic reaction (e.g. swelling in the mouth, tongue, face and throat, itching, hives),
 - onset or worsening of diabetes, ketoacidosis (ketones in the blood and urine) or coma,
 - high blood sugar,
@@ -1529,14 +1534,16 @@ The following side effects have been reported since the marketing of oral aripip
 - skin sensitivity to light,
 - baldness,
 - excessive sweating,
-- serious allergic reactions such as Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS). DRESS appears initially as flu-like symptoms with a rash on the face and then with an extended rash, high temperature, enlarged lymph nodes, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cell (eosinophilia),
+- serious allergic reactions such as Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS). DRESS appears initially as flu-like symptoms with a rash on the face and then with
+
+<div style=\"page-break-after: always\"></div>
+
+an extended rash, high temperature, enlarged lymph nodes, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cell (eosinophilia),
+
 - abnormal muscle breakdown which can lead to kidney problems,
 - muscle pain,
 - stiffness,
 - involuntary loss of urine (incontinence),
-
-<div style=\"page-break-after: always\"></div>
-
 - difficulty in passing urine,
 - withdrawal symptoms in newborn babies in case of exposure during pregnancy,
 - prolonged and/or painful erection,
@@ -1571,9 +1578,9 @@ Do not use this medicine after the expiry date which is stated on the blister an
 
 This medicine does not require any special storage conditions.
 
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
 <div style=\"page-break-after: always\"></div>
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
@@ -1592,9 +1599,7 @@ Aripiprazole Zentiva 15 mg tablets are white to off-white round flat bevel edged
 
 Aripiprazole Zentiva 30 mg tablets are white to off-white capsule shaped uncoated tablets with '30' debossed on one side and snap tab breakline on the other side with dimensions approx. 15.5 x 8 mm.
 
-Pack size: 14, 28, 49, 56, or 98 tablets
-
-Not all pack sizes may be marketed.
+Pack size: 14, 28, 49, 56, or 98 tablets Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
@@ -1602,31 +1607,23 @@ Zentiva, k.s. U Kabelovny 130 102 37 Prague 10 Czech Republic
 
 ## Manufacturer
 
-S.C. Zentiva S.A. B-dul Theodor Pallady nr.50, sector 3 Bucure ş ti, cod 032266
-
-Romania
+S.C. Zentiva S.A. B-dul Theodor Pallady nr.50, sector 3 Bucure ş ti, cod 032266 Romania
 
 LAMP SAN PROSPERO SPA VIA DELLA PACE 25/A SAN PROSPERO (MO) 41030 Italy
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Zentiva, k.s. Tél/Tel: +32 (78) 700 112
-
-PV-Belgium@zentiva.com
-
-Lietuva Zentiva, k.s. Tel: +370 52152025
-
-PV-Lithuania@zentiva.com
-
 <div style=\"page-break-after: always\"></div>
 
-## България
+België/Belgique/Belgien Zentiva, k.s. Tél/Tel: +32 (78) 700 112 PV-Belgium@zentiva.com
 
-Zentiva, k.s. Тел : +35924417136 PV-Bulgaria@zentiva.com
+България Zentiva, k.s. Тел: +35924417136 PV-Bulgaria@zentiva.com
 
 Česká republika Zentiva, k.s. Tel: +420 267 241 111 PV-Czech-Republic@zentiva.com
 
-Danmark Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Denmark@zentiva.com
+Danmark
+
+Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Denmark@zentiva.com
 
 ## Deutschland
 
@@ -1638,7 +1635,7 @@ Zentiva, k.s. Tel: +372 52 70308 PV-Estonia@zentiva.com
 
 ## Ελλάδα
 
-Zentiva, k.s. Τηλ : +30 211 198 7510 PV-Greece@zentiva.com
+Zentiva, k.s. Τηλ: +30 211 198 7510 PV-Greece@zentiva.com
 
 ## España
 
@@ -1648,19 +1645,15 @@ Zentiva Spain S.L.U. Tel: +34 671 365 828 PV-Spain@zentiva.com
 
 Zentiva France Tél: +33 (0) 800 089 219 PV-France@zentiva.com
 
-## Hrvatska
+Hrvatska Zentiva d.o.o. Tel: +385 1 6641 830 PV-Croatia@zentiva.com
 
-Zentiva d.o.o. Tel: +385 1 6641 830 PV-Croatia@zentiva.com
+Ireland Zentiva, k.s. Tel: +353 818 882 243 PV-Ireland@zentiva.com
 
-Ireland
+## Lietuva
 
-Zentiva, k.s. Tel: +353 818 882 243 PV-Ireland@zentiva.com
+Zentiva, k.s. Tel: +370 52152025 PV-Lithuania@zentiva.com
 
-Ísland Zentiva Denmark ApS Sími: +354 539 5025 PV-Iceland@zentiva.com
-
-## Luxembourg/Luxemburg
-
-Zentiva, k.s. Tél/Tel: +352 208 82330 PV-Luxembourg@zentiva.com
+Luxembourg/Luxemburg Zentiva, k.s. Tél/Tel: +352 208 82330 PV-Luxembourg@zentiva.com
 
 Magyarország Zentiva Pharma Kft. Tel.: +36 1 299 1058 PV-Hungary@zentiva.com
 
@@ -1668,9 +1661,7 @@ Magyarország Zentiva Pharma Kft. Tel.: +36 1 299 1058 PV-Hungary@zentiva.com
 
 Zentiva, k.s. Tel: +356 2034 1796 PV-Malta@zentiva.com
 
-## Nederland
-
-Zentiva, k.s. Tel: +31 202 253 638 PV-Netherlands@zentiva.com
+Nederland Zentiva, k.s. Tel: +31 202 253 638 PV-Netherlands@zentiva.com
 
 ## Norge
 
@@ -1696,23 +1687,29 @@ ZENTIVA S.A. Tel: +4 021.304.7597 PV-Romania@zentiva.com
 
 Zentiva, k.s. Tel: +386 360 00 408 PV-Slovenia@zentiva.com
 
-## Slovenská republika
-
-Zentiva, a.s. Tel: +421 2 3918 3010 PV-Slovakia@zentiva.com
-
 <div style=\"page-break-after: always\"></div>
+
+## Ísland
+
+Zentiva Denmark ApS Sími: +354 539 5025
+
+PV-Iceland@zentiva.com
 
 ## Italia
 
-Zentiva Italia S.r.l. Tel: +39 800081631 PV-Italy@zentiva.com
+Zentiva Italia S.r.l. Tel: +39 800081631
+
+PV-Italy@zentiva.com
 
 ## Κύπρος
 
-Zentiva, k.s. Τηλ : +30 211 198 7510 PV-Cyprus@zentiva.com
+Zentiva, k.s. Τηλ: +3 0 211 198 7510
 
-Latvija Zentiva, k.s. Tel: +371 67893939
+PV-Cyprus@zentiva.com
 
-PV-Latvia@zentiva.com
+## Latvija
+
+Zentiva, k.s. Tel: +371 67893939 PV-Latvia@zentiva.com
 
 ## This leaflet was last revised in
 
@@ -1720,10 +1717,20 @@ PV-Latvia@zentiva.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+## Slovenská republika
+
+Zentiva, a.s.
+
+Tel: +421 2 3918 3010
+
+PV-Slovakia@zentiva.com
+
 ## Suomi/Finland
 
 Zentiva Denmark ApS Puh/Tel: +358 942 598 648 PV-Finland@zentiva.com
 
 ## Sverige
 
-Zentiva Denmark ApS Tel: +46 840 838 822 PV-Sweden@zentiva.com
+Zentiva Denmark ApS Tel: +46 840 838 822
+
+PV-Sweden@zentiva.com

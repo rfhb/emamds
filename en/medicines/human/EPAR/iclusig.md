@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-25 09:50:00
+document_datetime: 2026-04-09 17:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/iclusig.html
 document_name: iclusig.html
 version: success
-processing_time: 0.1124964
-conversion_datetime: 2026-03-29 12:28:04.952164
+processing_time: 0.1504244
+conversion_datetime: 2026-04-13 14:18:37.904181
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
   docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Iclusig
 
@@ -38,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Iclusig](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-85104)
 - [More information on Iclusig](#more-information-on-iclusig-839)
 - [More information on Iclusig](#related-medicines)
 - [Topics](#topics)
@@ -120,9 +121,143 @@ Reference Number: EMADOC-1829012207-42319
 
 English (EN) (143.85 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
 
 [View](/en/documents/overview/iclusig-epar-medicine-overview_en.pdf)
+
+[Other languages (22)](#file-language-dropdown-698)
+
+български (BG) (163.3 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/bg/documents/overview/iclusig-epar-medicine-overview_bg.pdf)
+
+español (ES) (134.65 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/es/documents/overview/iclusig-epar-medicine-overview_es.pdf)
+
+čeština (CS) (162.1 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/cs/documents/overview/iclusig-epar-medicine-overview_cs.pdf)
+
+dansk (DA) (133.67 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/da/documents/overview/iclusig-epar-medicine-overview_da.pdf)
+
+Deutsch (DE) (139.69 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/de/documents/overview/iclusig-epar-medicine-overview_de.pdf)
+
+eesti keel (ET) (130.75 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/et/documents/overview/iclusig-epar-medicine-overview_et.pdf)
+
+ελληνικά (EL) (171.44 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/el/documents/overview/iclusig-epar-medicine-overview_el.pdf)
+
+français (FR) (137.07 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/fr/documents/overview/iclusig-epar-medicine-overview_fr.pdf)
+
+hrvatski (HR) (158.21 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/hr/documents/overview/iclusig-epar-medicine-overview_hr.pdf)
+
+italiano (IT) (132.56 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/it/documents/overview/iclusig-epar-medicine-overview_it.pdf)
+
+latviešu valoda (LV) (164.75 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/lv/documents/overview/iclusig-epar-medicine-overview_lv.pdf)
+
+lietuvių kalba (LT) (156.91 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/lt/documents/overview/iclusig-epar-medicine-overview_lt.pdf)
+
+magyar (HU) (160.44 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/hu/documents/overview/iclusig-epar-medicine-overview_hu.pdf)
+
+Malti (MT) (160.9 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/mt/documents/overview/iclusig-epar-medicine-overview_mt.pdf)
+
+Nederlands (NL) (136.43 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/nl/documents/overview/iclusig-epar-medicine-overview_nl.pdf)
+
+polski (PL) (165.3 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/pl/documents/overview/iclusig-epar-medicine-overview_pl.pdf)
+
+português (PT) (134.42 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/pt/documents/overview/iclusig-epar-medicine-overview_pt.pdf)
+
+română (RO) (154.91 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/ro/documents/overview/iclusig-epar-medicine-overview_ro.pdf)
+
+slovenčina (SK) (159.47 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/sk/documents/overview/iclusig-epar-medicine-overview_sk.pdf)
+
+slovenščina (SL) (185.81 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/sl/documents/overview/iclusig-epar-medicine-overview_sl.pdf)
+
+Suomi (FI) (131.2 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/fi/documents/overview/iclusig-epar-medicine-overview_fi.pdf)
+
+svenska (SV) (131.81 KB - PDF)
+
+**First published:** 11/07/2013 **Last updated:** 09/04/2026
+
+[View](/sv/documents/overview/iclusig-epar-medicine-overview_sv.pdf)
 
 Iclusig : EPAR - Risk management plan
 
@@ -142,7 +277,7 @@ English (EN) (440.61 KB - PDF)
 
 [View](/en/documents/product-information/iclusig-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-737)
+[Other languages (24)](#file-language-dropdown-218)
 
 български (BG) (815.89 KB - PDF)
 
@@ -314,7 +449,7 @@ English (EN) (22.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/iclusig-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-59)
+[Other languages (24)](#file-language-dropdown-992)
 
 български (BG) (50.48 KB - PDF)
 
@@ -689,6 +824,164 @@ English (EN) (62.99 KB - PDF)
 
 31/07/2013
 
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Iclusig : EPAR - Product information - tracked changes
+
+English (EN) (191.82 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/en/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-537)
+
+български (BG) (293.18 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/bg/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (249.46 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/es/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (250.11 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/cs/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (245.38 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/da/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (398.67 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/de/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (251.41 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/et/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (274.75 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/el/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (277.16 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/fr/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (263.84 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/hr/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (227.48 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/is/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (223.54 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/it/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (264.53 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/lv/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (266.99 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/lt/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (255.25 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/hu/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (241.47 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/mt/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (254.25 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/nl/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (293.53 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/no/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (241.35 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/pl/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (287.58 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/pt/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (249.68 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/ro/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (280.9 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/sk/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (238.53 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/sl/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (254.28 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/fi/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (290.96 KB - DOCX)
+
+**First published:** 09/04/2026
+
+[View](/sv/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_sv.docx)
+
 ## More information on Iclusig
 
 This product was originally designated an orphan medicine for the following orphan indications:
@@ -711,6 +1004,6 @@ Iclusig was withdrawn from the Community register of orphan medicinal products i
 
 **This page was last updated on**
 
-25/03/2026
+09/04/2026
 
 ## Share this page

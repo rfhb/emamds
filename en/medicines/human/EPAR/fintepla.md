@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-24 12:52:00
+document_datetime: 2026-04-09 15:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fintepla.html
 document_name: fintepla.html
 version: success
-processing_time: 0.116286
-conversion_datetime: 2026-03-01 19:56:03.157412
+processing_time: 0.2740781
+conversion_datetime: 2026-04-13 14:11:28.458727
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.16.1
+  docling-jobkit: 1.16.0
+  docling: 2.87.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Fintepla
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-fenfluramine Medicine Human Authorised
+fenfluramine
+
+Medicine Human Authorised
 
 Page contents
 
@@ -118,275 +120,141 @@ Reference Number: EMA/45802/2023
 
 English (EN) (159.43 KB - PDF)
 
-**First published:** 08/01/2021
-
-**Last updated:** 07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/en/documents/overview/fintepla-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-736)
+[Other languages (22)](#file-language-dropdown-837)
 
 български (BG) (186.5 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/bg/documents/overview/fintepla-epar-medicine-overview_bg.pdf)
 
 español (ES) (160.49 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/es/documents/overview/fintepla-epar-medicine-overview_es.pdf)
 
 čeština (CS) (185.27 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/cs/documents/overview/fintepla-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (158.85 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/da/documents/overview/fintepla-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (165.32 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/de/documents/overview/fintepla-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (157.13 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/et/documents/overview/fintepla-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (193.88 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/el/documents/overview/fintepla-epar-medicine-overview_el.pdf)
 
 français (FR) (161.41 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/fr/documents/overview/fintepla-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (183.74 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/hr/documents/overview/fintepla-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (159.16 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/it/documents/overview/fintepla-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (199.92 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/lv/documents/overview/fintepla-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (184.81 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/lt/documents/overview/fintepla-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (186.31 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/hu/documents/overview/fintepla-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (186.95 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/mt/documents/overview/fintepla-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (160.24 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/nl/documents/overview/fintepla-epar-medicine-overview_nl.pdf)
 
 polski (PL) (185.52 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/pl/documents/overview/fintepla-epar-medicine-overview_pl.pdf)
 
 português (PT) (160.21 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/pt/documents/overview/fintepla-epar-medicine-overview_pt.pdf)
 
 română (RO) (189.98 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/ro/documents/overview/fintepla-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (185.47 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/sk/documents/overview/fintepla-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (182.24 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/sl/documents/overview/fintepla-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (158.13 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/fi/documents/overview/fintepla-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (158.19 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-07/02/2023
+**First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/sv/documents/overview/fintepla-epar-medicine-overview_sv.pdf)
 
@@ -394,9 +262,7 @@ Fintepla : EPAR - Risk management plan
 
 English (EN) (2.91 MB - PDF)
 
-**First published:** 18/10/2023
-
-**Last updated:** 26/11/2025
+**First published:** 18/10/2023 **Last updated:** 26/11/2025
 
 [View](/en/documents/rmp/fintepla-epar-risk-management-plan_en.pdf)
 
@@ -404,305 +270,161 @@ English (EN) (2.91 MB - PDF)
 
 Fintepla : EPAR - Product information
 
-English (EN) (997.13 KB - PDF)
+English (EN) (775.79 KB - PDF)
 
-**First published:** 08/01/2021
-
-**Last updated:** 09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/en/documents/product-information/fintepla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-543)
+[Other languages (24)](#file-language-dropdown-762)
 
-български (BG) (655.44 KB - PDF)
+български (BG) (705.54 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/bg/documents/product-information/fintepla-epar-product-information_bg.pdf)
 
-español (ES) (593.03 KB - PDF)
+español (ES) (564.2 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/es/documents/product-information/fintepla-epar-product-information_es.pdf)
 
-čeština (CS) (637.71 KB - PDF)
+čeština (CS) (650.43 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/cs/documents/product-information/fintepla-epar-product-information_cs.pdf)
 
-dansk (DA) (587.27 KB - PDF)
+dansk (DA) (692.09 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/da/documents/product-information/fintepla-epar-product-information_da.pdf)
 
-Deutsch (DE) (619.98 KB - PDF)
+Deutsch (DE) (552.26 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/de/documents/product-information/fintepla-epar-product-information_de.pdf)
 
-eesti keel (ET) (595.24 KB - PDF)
+eesti keel (ET) (519.07 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/et/documents/product-information/fintepla-epar-product-information_et.pdf)
 
-ελληνικά (EL) (668.13 KB - PDF)
+ελληνικά (EL) (676.73 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/el/documents/product-information/fintepla-epar-product-information_el.pdf)
 
-français (FR) (632.58 KB - PDF)
+français (FR) (558.19 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/fr/documents/product-information/fintepla-epar-product-information_fr.pdf)
 
-hrvatski (HR) (608.95 KB - PDF)
+hrvatski (HR) (611.53 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/hr/documents/product-information/fintepla-epar-product-information_hr.pdf)
 
-íslenska (IS) (597.04 KB - PDF)
+íslenska (IS) (561.53 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/is/documents/product-information/fintepla-epar-product-information_is.pdf)
 
-italiano (IT) (1.41 MB - PDF)
+italiano (IT) (622.03 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/it/documents/product-information/fintepla-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (646.58 KB - PDF)
+latviešu valoda (LV) (614.8 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/lv/documents/product-information/fintepla-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (641.29 KB - PDF)
+lietuvių kalba (LT) (670.54 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/lt/documents/product-information/fintepla-epar-product-information_lt.pdf)
 
-magyar (HU) (626.95 KB - PDF)
+magyar (HU) (638.33 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/hu/documents/product-information/fintepla-epar-product-information_hu.pdf)
 
-Malti (MT) (692.55 KB - PDF)
+Malti (MT) (707.33 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/mt/documents/product-information/fintepla-epar-product-information_mt.pdf)
 
-Nederlands (NL) (547.01 KB - PDF)
+Nederlands (NL) (538.48 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/nl/documents/product-information/fintepla-epar-product-information_nl.pdf)
 
-norsk (NO) (607.42 KB - PDF)
+norsk (NO) (576.44 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/no/documents/product-information/fintepla-epar-product-information_no.pdf)
 
-polski (PL) (673.34 KB - PDF)
+polski (PL) (706.31 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/pl/documents/product-information/fintepla-epar-product-information_pl.pdf)
 
-português (PT) (628.98 KB - PDF)
+português (PT) (571.24 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/pt/documents/product-information/fintepla-epar-product-information_pt.pdf)
 
-română (RO) (610.44 KB - PDF)
+română (RO) (618.1 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/ro/documents/product-information/fintepla-epar-product-information_ro.pdf)
 
-slovenčina (SK) (656.25 KB - PDF)
+slovenčina (SK) (684.93 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/sk/documents/product-information/fintepla-epar-product-information_sk.pdf)
 
-slovenščina (SL) (620.91 KB - PDF)
+slovenščina (SL) (652.25 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/sl/documents/product-information/fintepla-epar-product-information_sl.pdf)
 
-Suomi (FI) (570.52 KB - PDF)
+Suomi (FI) (567.72 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/fi/documents/product-information/fintepla-epar-product-information_fi.pdf)
 
-svenska (SV) (602.61 KB - PDF)
+svenska (SV) (556.27 KB - PDF)
 
-**First published:**
-
-08/01/2021
-
-**Last updated:**
-
-09/01/2026
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/sv/documents/product-information/fintepla-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000316091 09/01/2026
+**Latest procedure affecting product information:** PSUR/0000296555
+
+26/03/2026
 
 icon globe
 
@@ -726,189 +448,143 @@ English (EN) (56.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-950)
+[Other languages (23)](#file-language-dropdown-552)
 
 български (BG) (70.56 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/bg/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (58.31 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/es/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (68.52 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/cs/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (59.36 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/da/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (60.97 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/de/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (57.56 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/et/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (77.17 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/el/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_el.pdf)
 
 hrvatski (HR) (77.2 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/hr/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (64.35 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/is/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (58.66 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/it/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (76.94 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/lv/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (77.48 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/lt/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (79.01 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/hu/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (77.02 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/mt/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (58.03 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/nl/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (55.82 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/no/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (77.38 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/pl/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (59.09 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/pt/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (74.85 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/ro/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (78.84 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/sk/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (66.6 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/sl/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (58.32 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/fi/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (57.94 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/sv/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_sv.pdf)
 
@@ -920,203 +596,173 @@ English (EN) (74.17 KB - PDF)
 
 [View](/en/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-17)
+[Other languages (24)](#file-language-dropdown-661)
 
 български (BG) (67.67 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/bg/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_bg.pdf)
 
 español (ES) (51.22 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/es/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_es.pdf)
 
 čeština (CS) (56.5 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/cs/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_cs.pdf)
 
 dansk (DA) (50.61 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/da/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_da.pdf)
 
 Deutsch (DE) (54.48 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/de/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_de.pdf)
 
 eesti keel (ET) (48.3 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/et/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_et.pdf)
 
 ελληνικά (EL) (59.02 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/el/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_el.pdf)
 
 français (FR) (55.73 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/fr/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_fr.pdf)
 
 hrvatski (HR) (62.97 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/hr/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_hr.pdf)
 
 íslenska (IS) (92.53 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/is/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_is.pdf)
 
 italiano (IT) (62.72 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/it/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_it.pdf)
 
 latviešu valoda (LV) (75.84 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/lv/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_lv.pdf)
 
 lietuvių kalba (LT) (66.26 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/lt/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_lt.pdf)
 
 magyar (HU) (72.79 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/hu/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_hu.pdf)
 
 Malti (MT) (71.2 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/mt/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_mt.pdf)
 
 Nederlands (NL) (52.07 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/nl/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_nl.pdf)
 
 norsk (NO) (50.75 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/no/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_no.pdf)
 
 polski (PL) (52.41 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/pl/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_pl.pdf)
 
 português (PT) (53.03 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/pt/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_pt.pdf)
 
 română (RO) (58.9 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/ro/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_ro.pdf)
 
 slovenčina (SK) (59.2 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/sk/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_sk.pdf)
 
 slovenščina (SL) (104.72 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/sl/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_sl.pdf)
 
 Suomi (FI) (47.76 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/fi/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_fi.pdf)
 
 svenska (SV) (42.04 KB - PDF)
 
-**First published:**
-
-08/01/2021
+**First published:** 08/01/2021
 
 [View](/sv/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_sv.pdf)
 
 ## Product details
 
-Name of medicine Fintepla Active substance fenfluramine hydrochloride International non-proprietary name (INN) or common name fenfluramine Therapeutic area (MeSH) Epilepsies, Myoclonic Anatomical therapeutic chemical (ATC) code N03
+Name of medicine
+
+Fintepla
+
+Active substance
+
+fenfluramine hydrochloride
+
+International non-proprietary name (INN) or common name
+
+fenfluramine
+
+Therapeutic area (MeSH)
+
+Epilepsies, Myoclonic
+
+Anatomical therapeutic chemical (ATC) code
+
+N03
 
 ### Pharmacotherapeutic group
 
@@ -1130,7 +776,9 @@ Fintepla is indicated for the treatment of seizures associated with Dravet syndr
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/003933
+EMA product number
+
+EMEA/H/C/003933
 
 Additional monitoring
 
@@ -1146,7 +794,17 @@ UCB Pharma S.A.
 
 Allée de la Recherche 60
 
-Opinion adopted 15/10/2020 Marketing authorisation issued 18/12/2020 Revision 15
+Opinion adopted
+
+15/10/2020
+
+Marketing authorisation issued
+
+18/12/2020
+
+Revision
+
+16
 
 ## Assessment history
 
@@ -1158,11 +816,9 @@ Collapse section
 
 Fintepla : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (151.63 KB - PDF)
+English (EN) (183.63 KB - PDF)
 
-**First published:** 02/05/2025
-
-**Last updated:** 09/01/2026
+**First published:** 02/05/2025 **Last updated:** 09/04/2026
 
 [View](/en/documents/procedural-steps-after/fintepla-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1170,17 +826,23 @@ Fintepla : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (196.46 KB - PDF)
 
-**First published:** 23/06/2021
-
-**Last updated:** 02/05/2025
+**First published:** 23/06/2021 **Last updated:** 02/05/2025
 
 [View](/en/documents/procedural-steps-after/fintepla-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Fintepla-PSUSA-00010907-202506 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-3026099
+
+English (EN) (167.65 KB - PDF)
+
+**First published:** 09/04/2026
+
+[View](/en/documents/scientific-conclusion/fintepla-psusa-00010907-202506-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
+
 Fintepla-PAM-0000303483 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2501892
+Adopted Reference Number: EMADOC-1700519818-2501892
 
 English (EN) (803.97 KB - PDF)
 
@@ -1210,9 +872,7 @@ English (EN) (132.38 KB - PDF)
 
 Fintepla-H-C-3933-II-0012 : EPAR - assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/45762/2023
+Adopted Reference Number: EMA/CHMP/45762/2023
 
 English (EN) (5.55 MB - PDF)
 
@@ -1222,9 +882,7 @@ English (EN) (5.55 MB - PDF)
 
 Fintepla : EPAR - Orphan maintenance assessment report (II-0012)
 
-Adopted
-
-Reference Number: EMADOC-1700519818-996966
+Adopted Reference Number: EMADOC-1700519818-996966
 
 English (EN) (973.98 KB - PDF)
 
@@ -1234,9 +892,7 @@ English (EN) (973.98 KB - PDF)
 
 CHMP post-authorisation summary of opinion for Fintepla (II-12)
 
-Adopted
-
-Reference Number: EMA/CHMP/917134/2022
+Adopted Reference Number: EMA/CHMP/917134/2022
 
 English (EN) (135.91 KB - PDF)
 
@@ -1248,23 +904,17 @@ English (EN) (135.91 KB - PDF)
 
 Fintepla : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/639853/2020 Corr.
+Adopted Reference Number: EMA/639853/2020 Corr.
 
 English (EN) (1.89 MB - PDF)
 
-**First published:** 08/01/2021
-
-**Last updated:** 29/04/2021
+**First published:** 08/01/2021 **Last updated:** 29/04/2021
 
 [View](/en/documents/assessment-report/fintepla-epar-public-assessment-report_en.pdf)
 
 Fintepla : Orphan maintenance assessment report (initial authorisation)
 
-Adopted
-
-Reference Number: EMADOC-1700519818-578199
+Adopted Reference Number: EMADOC-1700519818-578199
 
 English (EN) (719.51 KB - PDF)
 
@@ -1274,9 +924,7 @@ English (EN) (719.51 KB - PDF)
 
 CHMP summary of positive opinion for Fintepla
 
-Adopted
-
-Reference Number: EMA/CHMP/510338/2020
+Adopted Reference Number: EMA/CHMP/510338/2020
 
 English (EN) (132.5 KB - PDF)
 
@@ -1286,9 +934,13 @@ English (EN) (132.5 KB - PDF)
 
 ## News on Fintepla
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2022) 16/12/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020) 16/10/2020
+16/12/2022
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020)
+
+16/10/2020
 
 ## More information on Fintepla
 
@@ -1299,8 +951,8 @@ English (EN) (132.5 KB - PDF)
 - [A Registry of Patients Treated with Fintepla (TAPESTRY Registry) - post-authorisation study](https://catalogues.ema.europa.eu/study/105359)
 - [Implementation of controlled access to and distribution of medicinal products in European Union (CONTROL-EU) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000313)
 
-**This page was last updated on** 24/02/2026
+**This page was last updated on**
+
+09/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-05 14:03:35
+document_datetime: 2026-04-14 12:16:51
 document_pages: 76
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/spevigo-epar-product-information_en.pdf
 document_name: spevigo-epar-product-information_en.pdf
 version: success
-processing_time: 20.1295029
-conversion_datetime: 2026-02-09 22:11:46.731991
+processing_time: 18.9314196
+conversion_datetime: 2026-04-17 15:58:44.366465
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -289,8 +289,6 @@ Table 2: Minimum time between discontinuation of restricted medications for GPP 
 | 30 days                      | systemic immunomodulatory treatments (e.g. corticosteroids**, cyclophosphamide), tofacitinib, apremilast; other systemic psoriasis treatments (e.g. fumarates), any investigational device or product (excluding psoriasis products); photochemotherapy (e.g. PUVA); granulocytes and monocytes adsorptive apharesis |
 | 7 days                       | anakinra                                                                                                                                                                                                                                                                                                             |
 
-* No treatment initiation 1 week prior to randomisation: phototherapy (e.g. UVA, UVB), topical treatment for psoriasis or any other skin condition (e.g. topical corticosteroids, topical vitamin D analogues, tar, anthralin, topical retinoids); no treatment initiation 2 weeks prior to randomisation, no dose escalation within 2 weeks prior to randomisation, and had to be discontinued prior to receiving the first dose: methotrexate, cyclosporine, retinoids.
-
 ** No restriction on inhaled corticosteroids to treat asthma or corticosteroid drops administered in the eye or ear.
 
 The primary endpoint of the study was the proportion of patients with a GPPGA pustulation sub score of 0 (indicating no visible pustules) at week 1 after treatment. The key secondary endpoint of the study was the proportion of patients with a GPPGA total score of 0 or 1 (clear or almost clear skin) at week 1. For the GPPGA pustulation sub score of 0 and the GPPGA total score of 0/1, non-responder imputation was used to handle the occurrence of escape (treatment at the investigator's choice if the disease worsened) and rescue (single 900 mg dose of intravenous spesolimab) medication use and missing data.
@@ -375,7 +373,25 @@ The efficacy of the subcutaneous recommended spesolimab dose compared with place
 
 Figure 1: Time to the first GPP flare up to week 48 (Effisayil 2)
 
+1.0
+
+0.9
+
+- Placebo
+
+* Spesolimab s.c. recommended dose
+
+Figure 1: Time to the first GPP flare up to week 48 (Effisayil 2)
+
+0.7
+
 <!-- image -->
+
+Patients at risk
+
+Placebo
+
+Spesolimab s.c. recommended dose 30 26
 
 For both primary and key secondary endpoint, treatment effect was observed for all patients regardless of the IL36RN mutation status.
 
@@ -526,8 +542,7 @@ This medicinal product is compatible with infusion sets composed of polyvinylchl
 
 <div style=\"page-break-after: always\"></div>
 
-slowly with 15 mL spesolimab sterile concentrate (two vials of 450 mg/7.5 mL).
-
+- slowly with 15 mL spesolimab sterile concentrate (two vials of 450 mg/7.5 mL).
 - o For the recommended dose of 450 mg, draw and discard 7.5 mL from a 100 mL container of sodium chloride 9 mg/mL (0.9%) solution for injection and replace slowly with 7.5 mL spesolimab sterile concentrate (one vial of 450 mg/7.5 mL).
 - o Mix gently before use. The diluted spesolimab infusion solution should be used immediately.
 - Spevigo must not be mixed with other medicinal products. A pre-existing intravenous line may be used for administration of diluted spesolimab infusion solution, if the compatibility information above is considered. The line must be flushed with sodium chloride 9 mg/mL (0.9%) solution for injection prior to and at the end of infusion. No other infusion should be administered in parallel via the same intravenous access.
@@ -692,7 +707,9 @@ Anti-TB therapy should be considered prior to initiating spesolimab treatment in
 
 ## Hypersensitivity reactions
 
-Hypersensitivity reactions may occur with monoclonal antibodies such as spesolimab. Hypersensitivity may include immediate reactions such as anaphylaxis and delayed reactions such as
+Hypersensitivity reactions may occur with monoclonal antibodies such as spesolimab.
+
+Hypersensitivity may include immediate reactions such as anaphylaxis and delayed reactions such as
 
 <div style=\"page-break-after: always\"></div>
 
@@ -867,7 +884,7 @@ Table 3: Time to the first GPP flare and occurrence of at least one GPP flare up
 |                                                                         | Placebo               | Recommended spesolimab dose   |
 |-------------------------------------------------------------------------|-----------------------|-------------------------------|
 | Number of patients analysed, N                                          | 31                    | 30                            |
-| Patients with GPP flares, N (%)*                                        | 16 (51.6)             | 3 (10.0)                      |
+| Patients with GPP flares, N(%)*                                         | 16 (51.6)             | 3 (10.0)                      |
 | Hazard ratio (HR)** for the time to the first flare vs placebo (95% CI) | 0.16 (0.05, 0.54)     | 0.16 (0.05, 0.54)             |
 | p-value***                                                              | 0.0005                | 0.0005                        |
 | Risk difference for GPP flare occurrence vs placebo (95% CI)            | -39.0% (-62.1, -15.9) | -39.0% (-62.1, -15.9)         |
@@ -887,7 +904,25 @@ The efficacy of the subcutaneous recommended spesolimab dose compared with place
 
 Figure 1: Time to the first GPP flare up to week 48 (Effisayil 2)
 
+1.0
+
+0.9
+
+- Placebo
+
+* Spesolimab s.c. recommended dose
+
+Figure 1: Time to the first GPP flare up to week 48 (Effisayil 2)
+
+0.7
+
 <!-- image -->
+
+Patients at risk
+
+Placebo
+
+Spesolimab s.c. recommended dose 30 26
 
 For both primary and key secondary endpoint, treatment effect was observed for all patients regardless of the IL36RN mutation status.
 
@@ -939,7 +974,9 @@ When administered intravenously, spesolimab exhibited linear pharmacokinetics wi
 
 ## Body weight
 
-Spesolimab concentrations were lower in subjects with higher body weight and higher in subjects with lower body weight. Spesolimab has not been studied in patients with GPP weighing more than 164 kg. Based on pharmacokinetic modelling and simulation, the recommended dose for adolescents from 12 years of age weighing ≥ 30 and &lt; 40 kg is half the recommended dose than for adults and adolescents from 12 years of age and weighing at least 40 kg (see section 4.2). The exposure in patients weighing ≥ 30 and &lt; 40 kg receiving the reduced dosing regimen is expected to be comparable with those observed in GPP studies.
+Spesolimab concentrations were lower in subjects with higher body weight and higher in subjects with lower body weight. Spesolimab has not been studied in patients with GPP weighing more than 164 kg. Based on pharmacokinetic modelling and simulation, the recommended dose for adolescents from 12 years of age weighing ≥ 30 and &lt; 40 kg is half the recommended dose than for adults and adolescents from 12 years of age and weighing at least 40 kg (see section 4.2).
+
+The exposure in patients weighing ≥ 30 and &lt; 40 kg receiving the reduced dosing regimen is expected to be comparable with those observed in GPP studies.
 
 ## Elderly / gender / race
 
@@ -1015,7 +1052,7 @@ Spevigo 150 mg solution for injection in pre-filled syringe
 
 Pack size of 2 pre-filled syringes.
 
-## Spevigo 300 mg solution for injection in pre-filled syringe
+Spevigo 300 mg solution for injection in pre-filled syringe
 
 Pack size of 1 pre-filled syringe.
 
@@ -1075,8 +1112,6 @@ DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
-28
-
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
@@ -1097,9 +1132,9 @@ Boehringer Ingelheim Pharma GmbH &amp; Co. KG Birkendorfer Strasse 65 88397 Bibe
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Boehringer Ingelheim Pharma GmbH &amp; Co. KG Birkendorfer Strasse 65 88397 Biberach an der Riss GERMANY
+LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
 
-Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris FRANCE
+Boehringer Ingelheim Pharma GmbH &amp; Co. KG Birkendorfer Strasse 65 88397 Biberach an der Riss GERMANY
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -1204,7 +1239,9 @@ Prior to use, the unopened vial may be kept at temperatures up to 30 °C for up 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
-LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
+LEO Pharma A/S Industriparken 55 DK-2750 Ballerup
+
+Denmark
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -1235,7 +1272,9 @@ Justification for not including Braille accepted.
 | 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
 |-------|-----------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1253,8 +1292,7 @@ Read the package leaflet before use.
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -1285,7 +1323,7 @@ Excipients: sodium acetate trihydrate (E262), glacial acetic acid (E260), sucros
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 2 pre-filled syringes
 
@@ -1311,9 +1349,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator.
-
-Do not freeze.
+Store in a refrigerator. Do not freeze.
 
 Prior to use, Spevigo may be kept at temperatures up to 25 °C for up to 14 days.
 
@@ -1411,8 +1447,7 @@ Injection 1 Injection 2
 |--------------------------------------------------------------------|
 | SYRINGE LABEL                                                      |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 Spevigo 150 mg injection spesolimab SC
 
@@ -1485,15 +1520,13 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator.
-
-Do not freeze.
+Store in a refrigerator. Do not freeze.
 
 Prior to use, Spevigo may be kept at temperatures up to 30 °C for up to 14 days.
 
 Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1710,7 +1743,7 @@ Very common (may affect more than 1 in 10 people). These may include:
 
 - fever, cough
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 - frequent urination, pain or burning while urinating or bloody urine, which may be symptoms of urinary tract infections
 
@@ -1725,7 +1758,7 @@ Very common (may affect more than 1 in 10 people)
 - itching
 - feeling tired
 
-## Not known (frequency cannot be estimated from the available data)
+Not known (frequency cannot be estimated from the available data)
 
 - allergic reaction
 
@@ -1764,13 +1797,15 @@ Each pack contains two vials.
 
 ## Marketing Authorisation Holder
 
-LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
+LEO Pharma A/S Industriparken 55 DK-2750 Ballerup
+
+Denmark
 
 ## Manufacturer
 
-Boehringer Ingelheim Pharma GmbH &amp; Co. KG Birkendorfer Strasse 65 88397 Biberach an der Riss Germany
+LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
 
-Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France
+Boehringer Ingelheim Pharma GmbH &amp; Co. KG Birkendorfer Strasse 65 88397 Biberach an der Riss Germany
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1814,11 +1849,15 @@ Tel: +45 44 94 58 88
 
 ## Ελλάδα
 
-LEO Pharmaceutical Hellas S.A. Τηλ: +30 212 222 5000
+LEO Pharmaceutical Hellas S.A.
+
+Τηλ: +30 212 222 5000
 
 ## España
 
-Laboratorios LEO Pharma, S.A. Tel: +34 93 221 3366
+Laboratorios LEO Pharma, S.A.
+
+Tel: +34 93 221 3366
 
 ## France
 
@@ -1834,7 +1873,9 @@ Tel: +45 44 94 58 88
 
 ## Ireland
 
-LEO Laboratories Ltd Tel: +353 (0) 1 490 8924
+LEO Laboratories Ltd
+
+Tel: +353 (0) 1 490 8924
 
 ## Ísland
 
@@ -1847,10 +1888,6 @@ Sími: +45 44 94 58 88
 LEO Pharma S.p.A
 
 Tel: +39 06 52625500
-
-## Κύπρος
-
-LEO Pharma A/S
 
 ## Lietuva
 
@@ -1902,7 +1939,9 @@ Tel.: +48 22 244 18 40
 
 ## Portugal
 
-LEO Farmacêuticos Lda. Tel: +351 21 711 0760
+LEO Farmacêuticos Lda.
+
+Tel: +351 21 711 0760
 
 ## România
 
@@ -1918,21 +1957,29 @@ Tel: +45 44 94 58 88
 
 ## Slovenská republika
 
-LEO Pharma s.r.o. Tel: +420 734 575 982
+LEO Pharma s.r.o.
+
+Tel: +420 734 575 982
 
 ## Suomi/Finland
 
-LEO Pharma Oy Puh/Tel: +358 20 721 8440
+LEO Pharma Oy
 
-## Sverige
+Puh/Tel: +358 20 721 8440
 
-LEO Pharma AB
+## Κύπρος
+
+LEO Pharma A/S
 
 Τηλ: +45 44 94 58 88
 
 <div style=\"page-break-after: always\"></div>
 
-Latvija LEO Pharma A/S Tel: +45 44 94 58 88
+## Latvija
+
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
 
 ## This leaflet was last revised in {MM/YYYY}.
 
@@ -1966,18 +2013,21 @@ In the event that the infusion is slowed or temporarily stopped, the total infus
 
 ## Handling instructions
 
-- •
 - The vial should be visually inspected before use.
 - -Spevigo is a colourless to slightly brownish-yellow, clear to slightly opalescent solution.
 - -If the solution is cloudy, discoloured, or contains large or coloured particulates, the vial should be discarded.
 - Spesolimab sterile concentrate is for single use only.
 - Aseptic technique must be used to prepare the solution for infusion:
-- o For the recommended dose of 900 mg, draw and discard 15 mL from a 100 mL
+
+## Sverige
+
+LEO Pharma AB
+
+Tel: +46 40 3522 00
 
 <div style=\"page-break-after: always\"></div>
 
-container of sodium chloride 9 mg/mL (0.9%) solution for injection and replace slowly with 15 mL spesolimab sterile concentrate (two vials of 450 mg/7.5 mL).
-
+- o For the recommended dose of 900 mg, draw and discard 15 mL from a 100 mL container of sodium chloride 9 mg/mL (0.9%) solution for injection and replace slowly with 15 mL spesolimab sterile concentrate (two vials of 450 mg/7.5 mL).
 - o For the recommended dose of 450 mg, draw and discard 7.5 mL from a 100 mL container of sodium chloride 9 mg/mL (0.9%) solution for injection and replace slowly with 7.5 mL spesolimab sterile concentrate (one vial of 450 mg/7.5 mL).
 - o Mix gently before use. The diluted spesolimab infusion solution should be used immediately.
 - Spevigo must not be mixed with other medicinal products. A pre-existing intravenous line may be used for administration of the diluted spesolimab infusion solution. The line must be flushed with sodium chloride 9 mg/mL (0.9%) solution for injection prior to and at the end of infusion. No other infusion should be administered in parallel via the same intravenous access.
@@ -2132,7 +2182,7 @@ You and your doctor or nurse will decide if you should inject this medicine your
 
 ## Read the 'Instructions for use' at the end of this leaflet before injecting Spevigo yourself.
 
-## Adolescents from 12 years of age weighing 30 to less than 40 kg
+Adolescents from 12 years of age weighing 30 to less than 40 kg
 
 |               | How much?                       | When?                                      |
 |---------------|---------------------------------|--------------------------------------------|
@@ -2172,7 +2222,7 @@ You can also have allergic reactions some days or weeks after you have used Spev
 
 ## Tell your doctor as soon as possible if you notice any signs or symptoms of an infection. These may include:
 
-## Very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
 - fever, cough
 
@@ -2236,6 +2286,8 @@ LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
 
 ## Manufacturer
 
+LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
+
 Boehringer Ingelheim Pharma GmbH &amp; Co. KG Birkendorfer Strasse 65 88397 Biberach an der Riss Germany
 
 <div style=\"page-break-after: always\"></div>
@@ -2280,7 +2332,9 @@ Tel: +45 44 94 58 88
 
 ## Ελλάδα
 
-LEO Pharmaceutical Hellas S.A. Τηλ: +30 212 222 5000
+LEO Pharmaceutical Hellas S.A.
+
+Τηλ: +30 212 222 5000
 
 ## España
 
@@ -2302,7 +2356,9 @@ Tel: +45 44 94 58 88
 
 ## Ireland
 
-LEO Laboratories Ltd Tel: +353 (0) 1 490 8924
+LEO Laboratories Ltd
+
+Tel: +353 (0) 1 490 8924
 
 ## Ísland
 
@@ -2315,10 +2371,6 @@ Sími: +45 44 94 58 88
 LEO Pharma S.p.A
 
 Tel: +39 06 52625500
-
-## Κύπρος
-
-LEO Pharma A/S
 
 ## Lietuva
 
@@ -2370,7 +2422,9 @@ Tel.: +48 22 244 18 40
 
 ## Portugal
 
-LEO Farmacêuticos Lda. Tel: +351 21 711 0760
+LEO Farmacêuticos Lda.
+
+Tel: +351 21 711 0760
 
 ## România
 
@@ -2386,23 +2440,29 @@ Tel: +45 44 94 58 88
 
 ## Slovenská republika
 
-LEO Pharma s.r.o. Tel: +420 734 575 982
+LEO Pharma s.r.o.
+
+Tel: +420 734 575 982
 
 ## Suomi/Finland
 
-LEO Pharma Oy Puh/Tel: +358 20 721 8440
+LEO Pharma Oy
 
-## Sverige
-
-LEO Pharma AB
+Puh/Tel: +358 20 721 8440
 
 <div style=\"page-break-after: always\"></div>
+
+## Κύπρος
+
+LEO Pharma A/S
 
 Τηλ: +45 44 94 58 88
 
 ## Latvija
 
-LEO Pharma A/S Tel: +45 44 94 58 88
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
 
 ## This leaflet was last revised in {MM/YYYY}.
 
@@ -2410,13 +2470,31 @@ LEO Pharma A/S Tel: +45 44 94 58 88
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+## Sverige
+
+LEO Pharma AB
+
+Tel: +46 40 3522 00
+
 <div style=\"page-break-after: always\"></div>
+
+thumb pad plunger rod
+
+finger grip medicine
+
+safety cover cap
+
+Before Use
 
 ## Instructions for use
 
 ## Spevigo 150 mg solution for injection in pre-filled syringe
 
 This 'Instructions for use' contains information on how to inject Spevigo if the prescribed dose for you or your child requires 2 pre-filled syringes of Spevigo 150 mg .
+
+covered needle
+
+After Use
 
 ## Getting to know Spevigo
 
@@ -2444,6 +2522,12 @@ Your healthcare professional has prescribed a dose of Spevigo for you or your ch
 
 <div style=\"page-break-after: always\"></div>
 
+15-30
+
+minutes
+
+2 Spevigo
+
 - Inspect the carton that the product comes in to be sure that you have the correct medicine, the correct number of pre-filled syringes for your or your child's prescribed dose, for any damage, and the expiry date.
 - Do not remove the cap until you are ready to inject.
 - Do not use Spevigo:
@@ -2451,8 +2535,14 @@ Your healthcare professional has prescribed a dose of Spevigo for you or your ch
 - if the expiry date (EXP) has passed.
 - if the pre-filled syringes have been dropped or look damaged.
 - It is important to keep a record of the batch number of your Spevigo. Every time you get a new pack of Spevigo, note down the date and the batch number (which is on the packaging after 'Lot') and keep this information in a safe place.
+
+STEP 2
+
 - Inject Spevigo under the skin (subcutaneous injection) in either the upper thighs or stomach area (abdomen). Do not inject Spevigo into any other area of the body.
 - If you have any problems with your injection, do not repeat the injection steps with Spevigo pre-filled syringe. Call your doctor for help.
+
+Bring medicine to
+
 - If you have further questions, ask your doctor or pharmacist.
 
 Follow the steps below when you use Spevigo
@@ -2472,8 +2562,6 @@ Follow the steps below when you use Spevigo
 
 ## STEP 2
 
-## Bringmedicineto roomtemperature
-
 <!-- image -->
 
 ## Preparing to inject Spevigo
@@ -2482,15 +2570,29 @@ Follow the steps below when you use Spevigo
 - Do not leave the pre-filled syringes in direct sunlight.
 - Wash your hands well with soap and water and dry them.
 
-## Washhands
-
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
+1
+
+STEP 4
+
+Check both pre-filled syringes now
+
 ## STEP 3
 
+medicine
+
+Injection areas
+
 <!-- image -->
+
+Abdomen
+
+Upper thighs
+
+STEP 5
 
 ## Preparing for your first injection
 
@@ -2541,55 +2643,37 @@ Choose an injection site.
 
 <div style=\"page-break-after: always\"></div>
 
-## STEP 6
+Injecung, or when removing the need
+
+Cap
+
+A Inserting the needle
+
+OUILLUN
+
+Push firmly
 
 <!-- image -->
 
-## STEP 7
-
-<!-- image -->
-
-## STEP 8
-
-## Removing the cap
-
-- Hold the pre-filled syringe by the finger grip with one hand. With the other hand, pull the cap straight off.
-- o Do not pull on or hold the plunger rod.
-- o Do not twist the cap. Twisting the cap could damage the needle.
-- o Do not use the prefilled syringe if the needle is bent or damaged. If you accidentally bend the needle, do not attempt to straighten it.
-- Put the cap aside.
-- Use right away after removing the cap.
-- o Do not try to recap the needle. Re-capping can lead to needle-stick injury.
-- o Do not touch the needle or let the needle touch anything before injecting.
-
-## Pinch the skin
-
-- Gently pinch the area of cleaned skin around your injection site and hold it firmly.
-- Keep the skin pinched during the entire injection. You will inject into the pinched skin.
-- Do not let go until you have removed the needle from your skin at the end of the injection.
-
-## Before injecting, review steps A, B, and C to learn the correct way to inject
-
-## Important: Do not move the pre-filled syringe when inserting the needle into your skin, while injecting, or when removing the needle from your skin.
-
-<!-- image -->
-
-## A Inserting the needle
-
-<!-- image -->
-
-- B    Injecting the medicine
-- Hold the pre-filled syringe by the blue finger grip. Avoid touching the blue thumb pad.
-- Using a quick, 'dart-like' motion, insert the needle into the pinched skin at about a 45-degree angle .
-- Do not move the needle while inserting or during the injection.
-
-## To inject Spevigo:
-
-- Use your thumb to slowly press down on the blue thumb pad to push the plunger rod down inside the syringe body.
-- Continue pressing on the blue thumb pad until the plunger rod has moved all the way down.
-- Make sure that the blue thumb pad cannot be pressed any further so that the built-in safety cover can be activated .
+| STEP 6                                                                                                                                               | Removing the cap                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                      | • Hold the pre-filled syringe by the finger grip with one hand. With the other hand, pull the cap straight off. o Do not pull on or hold the plunger rod. o Do not twist the cap. Twisting the cap could damage the needle. o Do not use the prefilled syringe if the needle is bent or damaged. If you accidentally bend the needle, do not attempt to straighten it. • Put the cap aside. • Use right away after removing the cap. o Do not try to recap the needle. Re-capping can lead to needle-stick injury. o Do not touch the needle or let the needle touch |
+| STEP 7                                                                                                                                               | Pinch the skin                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                      | • Gently pinch the area of cleaned skin around your injection site and hold it firmly. • Keep the skin pinched during the entire injection. You will inject into the pinched skin. • Do not let go until you have removed the needle from your skin at the end of the injection.                                                                                                                                                                                                                                                                                     |
+| STEP 8                                                                                                                                               | Before injecting, review steps A, B, and C to learn the correct way to inject                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Important: Do not move the pre-filled syringe when inserting the needle into your skin, while injecting, or when removing the needle from your skin. | Important: Do not move the pre-filled syringe when inserting the needle into your skin, while injecting, or when removing the needle from your skin.                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| A Inserting the needle                                                                                                                               | • Hold the pre-filled syringe by the blue finger grip. Avoid touching the blue thumb pad. • Using a quick, 'dart-like' motion, insert the needle into the pinched skin at about a 45-degree angle . • Do not move the needle while inserting or during the injection.                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                      | To inject Spevigo: • Use your thumb to slowly press down on the blue thumb pad to push the plunger rod down inside the syringe body. • Continue pressing on the blue thumb pad until the plunger rod has moved all the way down. • Make sure that the blue thumb pad cannot be pressed any further so that the built-in safety cover can be activated .                                                                                                                                                                                                              |
 
 <div style=\"page-break-after: always\"></div>
+
+1)
+
+Remove thumb to activate the
+
+safety cover
+
+STEP 10
 
 <!-- image -->
 
@@ -2870,6 +2954,8 @@ LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
 
 ## Manufacturer
 
+LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
+
 Boehringer Ingelheim Pharma GmbH &amp; Co. KG Birkendorfer Strasse 65 88397 Biberach an der Riss Germany
 
 <div style=\"page-break-after: always\"></div>
@@ -2878,7 +2964,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-LEO Pharma N.V./S.A Tél/Tel: +32 3 740 7868
+LEO Pharma N.V./S.A
+
+Tél/Tel: +32 3 740 7868
 
 ## България
 
@@ -2900,19 +2988,27 @@ Tlf: +45 70 22 49 11
 
 ## Deutschland
 
-LEO Pharma GmbH Tel: +49 6102 2010
+LEO Pharma GmbH
+
+Tel: +49 6102 2010
 
 ## Eesti
 
-LEO Pharma A/S Tel: +45 44 94 58 88
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
 
 ## Ελλάδα
 
-LEO Pharmaceutical Hellas S.A. Τηλ: +30 212 222 5000
+LEO Pharmaceutical Hellas S.A.
+
+Τηλ: +30 212 222 5000
 
 ## España
 
-Laboratorios LEO Pharma, S.A. Tel: +34 93 221 3366
+Laboratorios LEO Pharma, S.A.
+
+Tel: +34 93 221 3366
 
 ## France
 
@@ -2928,19 +3024,21 @@ Tel: +45 44 94 58 88
 
 ## Ireland
 
-LEO Laboratories Ltd Tel: +353 (0) 1 490 8924
+LEO Laboratories Ltd
+
+Tel: +353 (0) 1 490 8924
 
 ## Ísland
 
-LEO Pharma A/S Sími: +45 44 94 58 88
+LEO Pharma A/S
+
+Sími: +45 44 94 58 88
 
 ## Italia
 
-LEO Pharma S.p.A Tel: +39 06 52625500
+LEO Pharma S.p.A
 
-## Κύπρος
-
-LEO Pharma A/S
+Tel: +39 06 52625500
 
 ## Lietuva
 
@@ -2950,27 +3048,39 @@ Tel: +45 44 94 58 88
 
 ## Luxembourg/Luxemburg
 
-LEO Pharma N.V./S.A Tél/Tel: +32 3 740 7868
+LEO Pharma N.V./S.A
+
+Tél/Tel: +32 3 740 7868
 
 ## Magyarország
 
-LEO Pharma A/S Tel: +45 44 94 58 88
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
 
 ## Malta
 
-LEO Pharma A/S Tel: +45 44 94 58 88
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
 
 ## Nederland
 
-LEO Pharma B.V. Tel: +31 205104141
+LEO Pharma B.V.
+
+Tel: +31 205104141
 
 ## Norge
 
-LEO Pharma AS Tlf: +47 22514900
+LEO Pharma AS
+
+Tlf: +47 22514900
 
 ## Österreich
 
-LEO Pharma GmbH Tel: +43 1 503 6979
+LEO Pharma GmbH
+
+Tel: +43 1 503 6979
 
 ## Polska
 
@@ -2980,15 +3090,21 @@ Tel.: +48 22 244 18 40
 
 ## Portugal
 
-LEO Farmacêuticos Lda. Tel: +351 21 711 0760
+LEO Farmacêuticos Lda.
+
+Tel: +351 21 711 0760
 
 ## România
 
-LEO Pharma A/S Tel: +45 44 94 58 88
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
 
 ## Slovenija
 
-LEO Pharma A/S Tel: +45 44 94 58 88
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
 
 ## Slovenská republika
 
@@ -2998,15 +3114,17 @@ Tel: +420 734 575 982
 
 ## Suomi/Finland
 
-LEO Pharma Oy Puh/Tel: +358 20 721 8440
+LEO Pharma Oy
 
-## Sverige
-
-LEO Pharma AB
-
-Τηλ: +45 44 94 58 88
+Puh/Tel: +358 20 721 8440
 
 <div style=\"page-break-after: always\"></div>
+
+## Κύπρος
+
+LEO Pharma A/S
+
+Τηλ: +45 44 94 58 88
 
 ## Latvija
 
@@ -3020,9 +3138,21 @@ Tel: +45 44 94 58 88
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+## Sverige
+
+LEO Pharma AB
+
 Tel: +46 40 3522 00
 
 <div style=\"page-break-after: always\"></div>
+
+The following picture shows Spevigo before use and after use with the activ
+
+After Use thumb
+
+pad finger grip
+
+medicine cap
 
 ## Instructions for use
 
@@ -3034,7 +3164,9 @@ This 'Instructions for use' contains information on how to inject Spevigo if the
 
 The pre-filled syringe contains the active substance spesolimab in a solution for subcutaneous injection that helps to deliver a fixed dose of spesolimab.
 
-Before you start using this medicine on your own or your child, first make sure that you get trained by your doctor, or nurse. Then read the package leaflet and these instructions for use to make sure you get the correct dose. If you are visually impaired and cannot see well, you must be assisted by a trained caregiver.
+needle
+
+Before you start using this medicine on your own or your child, first make sure that you get trained by your doctor, or nurse. Then read the package leaflet and these instructions for use to make sure you get the correct dose. If you are visually impaired and cannot see well, you must be assisted by a trained caregiver. The needle should be inside the safety cover after use.
 
 If you have further questions, ask your doctor, pharmacist or nurse.
 
@@ -3056,8 +3188,26 @@ The following picture shows Spevigo before use and after use with the activated 
 
 <div style=\"page-break-after: always\"></div>
 
+N IWI
+
+Bring medicine to
+
+Wash hands room temperature
+
+1 Spevigo
+
+EXP MM YYYY
+
+Medicine -
+
 - Do not use Spevigo
+
+15-30
+
 - if the liquid is cloudy or contains flakes or large particles.
+
+minutes
+
 - if the expiry date (EXP) has passed.
 - if the pre-filled syringe has been dropped or looks damaged.
 - It is important to keep a record of the batch number of your Spevigo. Every time you get a new pack of Spevigo, note down the date and the batch number (which is on the packaging after 'Lot') and keep this information in a safe place.
@@ -3082,8 +3232,6 @@ The following picture shows Spevigo before use and after use with the activated 
 
 ## STEP 2
 
-## Bring medicine to room temperature
-
 <!-- image -->
 
 ## STEP 3
@@ -3105,11 +3253,17 @@ The following picture shows Spevigo before use and after use with the activated 
 - Check the expiry date (EXP) on the pre-filled syringe. Do not use if the expiry date has passed.
 - Check the pre-filled syringe for damage, cracks, and leakage. Do not use if any part of the pre-filled
 
-## Washhands
-
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+Cap
+
+Injection areas
+
+Abdomen
+
+Upper thighs
 
 ## STEP 4
 
@@ -3158,6 +3312,14 @@ Choose an injection site.
 
 <div style=\"page-break-after: always\"></div>
 
+-S '
+
+when removing ne necale mom your skin.
+
+Remove thumb
+
+Push to activate
+
 <!-- image -->
 
 | STEP 7   | Pinch the skin                                                                                                                                                                                                                |
@@ -3196,6 +3358,8 @@ Important: Do not move the pre-filled syringe when inserting the needle into you
 - Apply an adhesive plaster if needed.
 
 <div style=\"page-break-after: always\"></div>
+
+Cap
 
 <!-- image -->
 

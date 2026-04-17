@@ -1,30 +1,36 @@
 ---
-document_datetime: 2025-03-13 15:12:12
-document_pages: 3
+document_datetime: 2026-04-16 15:40:28
+document_pages: 7
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/zolsketil-pegylated-liposomal-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: zolsketil-pegylated-liposomal-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 17.3355804
-conversion_datetime: 2025-12-31 02:39:42.152742
+processing_time: 2.9453991
+conversion_datetime: 2026-04-17 15:46:21.875839
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+EUROPEAN MEDICINES AGENCY
+
+SCIENCE MEDICINES
+
+HEALTH
+
 ## Zolsketil pegylated liposomal
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency' s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessmenthistory'section.Forthecompleteproductlifecycleprocedures,pleasealsorefertoEPAR-Proceduralstepstakenandscientific information after authorisation (archive).
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Applicationnumber      | Scope                                  | Opinion/ Notification 1 issued on   | Commission Decision Issued2/ amended on   | Product Information affected3   | Summary   |
-|------------------------|----------------------------------------|-------------------------------------|-------------------------------------------|---------------------------------|-----------|
-| Variation type IA_IN / | This was an application for a group of | 12/03/2025                          | N/A                                       | Annex II and                    |           |
+| Application number     | Scope                                   | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                         |
+|------------------------|-----------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-------------------------------------------------|
+| Variation type IA_IN / | C.3 Change(s) in the summary of product | 15/04/2026                          |                                             | SmPC and PL                      | To update sections 4.8 of the SmPC to implement |
 
 <!-- image -->
 
@@ -32,19 +38,33 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/VR/0000258184   | PL   |
-|---------------------|------|
+| EMA/VR/0000340547                     | characteristics, labelling or package leaflet intended to implement the outcome of a procedure concerning PSUR or PASS, or the outcome of the assessment done by the competent authority under Article 45 or 46 of Regulation (EC) No 1901/2006, or the outcome of a PRAC signal recommendation, or to adapt to a joint recommendation of EU competent authorities (e.g. a Core SmPC, or following the assessment of an Urgent Safety Restriction etc.) - C.3.a) Implementation of the agreed wording - Accepted                                                                                                                                                                        |            | the signal recommendation on Pegylated liposomal doxorubicin - Renal-limited thrombotic microangiopathy (EPITT no 20193) with the frequency \"unknown\". The package leaflet is updated accordingly.   |
+|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variation type IB / EMA/VR/0000323300 | This was an application for a group of variations. B.II.b.2 Change to importer, batch release arrangements and quality control testing of the finished product - B.II.b.2.a Replacement or addition of a site where batch control/testing takes place - Accepted B.II.d.2 Change in test procedure for the finished product - B.II.d.2.a Minor changes to an approved test procedure - Accepted B.II.e.3 Change in test procedure for the immediate packaging of the finished product - B.II.e.3.c Deletion of a test procedure if an alternative test procedure is already authorised - Accepted B.II.e.3 Change in test procedure for the immediate packaging of the finished product | 24/02/2026 |                                                                                                                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
-| Deletion ofmanufacturingsitesfor an active substance, intermediate or finished product, packaging site, manufacturer responsible for batchrelease,sitewherebatch control takes   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| place, or supplier of a starting material,                                                                                                                                       |
-| reagent or excipient (when mentioned in the dossier)*-Accepted                                                                                                                   |
-| B.II.b.2.cReplacementor addition of a manufacturerresponsibleforimportation and/or batch release - B.11.b.2.c.2 Including batch control/testing - Accepted                       |
-| A.5Change in the name and/or address of a manufacturer/importerofthefinished Accepted                                                                                            |
-| product (including batch release or quality control testing sites)-A.5.b The activities for which the manufacturer/importer is responsible do not include batch release -        |
-| A.5Changeinthename and/or addressof a                                                                                                                                            |
-| control testing sites)-A.5.bThe activities for which the manufacturer/importer is                                                                                                |
-| responsible do not include batch release -                                                                                                                                       |
-| Accepted                                                                                                                                                                         |
+| - B.II.e.3.c Deletion of a test procedure if an alternative test procedure is already authorised - Accepted B.II.e.3 Change in test procedure for the immediate packaging of the finished product - B.II.e.3.c Deletion of a test procedure if an alternative test procedure is already authorised - Accepted B.II.e.3 Change in test procedure for the immediate packaging of the finished product - B.II.e.3.c Deletion of a test procedure if an alternative test procedure is already authorised - Accepted B.II.e.3 Change in test procedure for the immediate packaging of the finished product - B.II.e.3.c Deletion of a test procedure if an alternative test procedure is already authorised - Accepted B.II.e.3 Change in test procedure for the immediate packaging of the finished product - B.II.e.3.c Deletion of a test procedure if an alternative test procedure is already authorised - Accepted B.II.e.3 Change in test procedure for the immediate packaging of the finished product - B.II.e.3.c Deletion of a test procedure if an alternative test procedure is already authorised - Accepted B.II.e.3 Change in test procedure for the immediate packaging of the finished product - B.II.e.3.c Deletion of a test procedure if an alternative test procedure is already   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | authorised - Accepted B.II.e.3 Change in test procedure for the immediate packaging of the finished product - B.II.e.3.c Deletion of a test procedure if an alternative test procedure is already authorised - Accepted B.II.e.3 Change in test procedure for the immediate packaging of the finished product - B.II.e.3.c Deletion of a test procedure if an alternative test procedure is already authorised - Accepted B.II.e.3 Change in test procedure for the immediate packaging of the finished product - B.II.e.3.a Minor changes to an approved test procedure - Accepted B.II.e.2 Change in the specification parameters and/or limits of the immediate packaging of the finished product - B.II.e.2.z Other changes - Accepted B.II.e.2 Change in the specification parameters and/or limits of the immediate packaging of the finished product - B.II.e.2.z   |            |
+|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Variation type IB / EMA/VR/0000302764 | This was an application for a group of variations. B.II.e.2 Change in the specification parameters and/or limits of the immediate packaging of the finished product - B.II.e.2.z Other changes - Refused                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 18/12/2025 |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                          | B.II.e.3 Change in test procedure for the immediate packaging of the finished product - B.II.e.3.a Minor changes to an approved test procedure - Refused B.II.e.3 Change in test procedure for the immediate packaging of the finished product - B.II.e.3.b Other changes to a test procedure (including replacement or addition) - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                     |            |                 |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------|
+| Variation type IA_IN / EMA/VR/0000258184 | This was an application for a group of variations. B.II.e.7 Change in supplier of packaging components or devices (when mentioned in the dossier) - B.II.e.7.b Replacement or addition of a supplier - Accepted B.II.b.1 Replacement or addition of a manufacturing site for part or all of the manufacturing process of the finished product - B.II.b.1.a Secondary packaging site - Accepted A. ADMINISTRATIVE CHANGES - A.7 Deletion of manufacturing sites for an active substance, intermediate or finished product, packaging site, manufacturer responsible for batch release, site where batch control takes place, or supplier of a starting material, reagent or excipient (when mentioned in the dossier)* - Accepted A. ADMINISTRATIVE CHANGES - A.7 | 12/03/2025 | Annex II and PL |
+
+<div style=\"page-break-after: always\"></div>
+
+| Deletion of manufacturing sites for an active substance, intermediate or finished product, packaging site, manufacturer responsible for batch release, site where batch control takes place, or supplier of a starting material, reagent or excipient (when mentioned in the dossier)* - Accepted A. ADMINISTRATIVE CHANGES - A.7 Deletion of manufacturing sites for an active substance, intermediate or finished product, packaging site, manufacturer responsible for batch release, site where batch control takes place, or supplier of a starting material, reagent or excipient (when mentioned in the dossier)* - Accepted B.II.b.2.c Replacement or addition of a manufacturer responsible for importation and/or batch release - B.II.b.2.c.2 Including batch control/testing - Accepted A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.b The activities for which the manufacturer/importer is responsible do not include batch release - Accepted A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.b The activities for which the manufacturer/importer is   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+| Accepted   |
+|------------|

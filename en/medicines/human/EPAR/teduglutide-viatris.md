@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-10 11:50:00
+document_datetime: 2026-04-15 15:57:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/teduglutide-viatris.html
 document_name: teduglutide-viatris.html
 version: success
-processing_time: 0.0976498
-conversion_datetime: 2026-03-17 19:00:23.737109
+processing_time: 0.1060475
+conversion_datetime: 2026-04-17 15:54:55.862032
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.80.0
-  docling-core: 2.70.1
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Teduglutide Viatris
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-teduglutide Medicine Human Authorised
+teduglutide
+
+Medicine Human Authorised
 
 Page contents
 
@@ -101,181 +103,137 @@ English (EN) (147.85 KB - PDF)
 
 [View](/en/documents/overview/teduglutide-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-370)
+[Other languages (22)](#file-language-dropdown-691)
 
 български (BG) (168.87 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/bg/documents/overview/teduglutide-viatris-epar-medicine-overview_bg.pdf)
 
 español (ES) (147.02 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/es/documents/overview/teduglutide-viatris-epar-medicine-overview_es.pdf)
 
 čeština (CS) (167.34 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/cs/documents/overview/teduglutide-viatris-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (146.99 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/da/documents/overview/teduglutide-viatris-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (149.89 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/de/documents/overview/teduglutide-viatris-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (144.36 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/et/documents/overview/teduglutide-viatris-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (172.38 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/el/documents/overview/teduglutide-viatris-epar-medicine-overview_el.pdf)
 
 français (FR) (150.38 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/fr/documents/overview/teduglutide-viatris-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (194.25 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/hr/documents/overview/teduglutide-viatris-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (145.6 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/it/documents/overview/teduglutide-viatris-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (183.3 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/lv/documents/overview/teduglutide-viatris-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (166.3 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/lt/documents/overview/teduglutide-viatris-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (169.04 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/hu/documents/overview/teduglutide-viatris-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (168.92 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/mt/documents/overview/teduglutide-viatris-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (147.32 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/nl/documents/overview/teduglutide-viatris-epar-medicine-overview_nl.pdf)
 
 polski (PL) (171.64 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/pl/documents/overview/teduglutide-viatris-epar-medicine-overview_pl.pdf)
 
 português (PT) (147.42 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/pt/documents/overview/teduglutide-viatris-epar-medicine-overview_pt.pdf)
 
 română (RO) (163.43 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/ro/documents/overview/teduglutide-viatris-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (167.79 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/sk/documents/overview/teduglutide-viatris-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (193.86 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/sl/documents/overview/teduglutide-viatris-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (144.56 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/fi/documents/overview/teduglutide-viatris-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (145.19 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/sv/documents/overview/teduglutide-viatris-epar-medicine-overview_sv.pdf)
 
@@ -291,305 +249,161 @@ English (EN) (773.31 KB - PDF)
 
 Teduglutide Viatris : EPAR - Product information
 
-English (EN) (856.55 KB - PDF)
+English (EN) (926.88 KB - PDF)
 
-**First published:** 19/01/2026
-
-**Last updated:** 10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/en/documents/product-information/teduglutide-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-241)
+[Other languages (24)](#file-language-dropdown-346)
 
 български (BG) (1.19 MB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/bg/documents/product-information/teduglutide-viatris-epar-product-information_bg.pdf)
 
-español (ES) (873.56 KB - PDF)
+español (ES) (912.06 KB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/es/documents/product-information/teduglutide-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (1.05 MB - PDF)
+čeština (CS) (938.63 KB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/cs/documents/product-information/teduglutide-viatris-epar-product-information_cs.pdf)
 
-dansk (DA) (306.2 KB - PDF)
+dansk (DA) (306.32 KB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/da/documents/product-information/teduglutide-viatris-epar-product-information_da.pdf)
 
-Deutsch (DE) (762.95 KB - PDF)
+Deutsch (DE) (762.05 KB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/de/documents/product-information/teduglutide-viatris-epar-product-information_de.pdf)
 
-eesti keel (ET) (945.14 KB - PDF)
+eesti keel (ET) (908.68 KB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/et/documents/product-information/teduglutide-viatris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (880.67 KB - PDF)
+ελληνικά (EL) (830.86 KB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/el/documents/product-information/teduglutide-viatris-epar-product-information_el.pdf)
 
-français (FR) (1014.02 KB - PDF)
+français (FR) (709.7 KB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/fr/documents/product-information/teduglutide-viatris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (916.16 KB - PDF)
+hrvatski (HR) (823.92 KB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/hr/documents/product-information/teduglutide-viatris-epar-product-information_hr.pdf)
 
-íslenska (IS) (542.08 KB - PDF)
+íslenska (IS) (564.18 KB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/is/documents/product-information/teduglutide-viatris-epar-product-information_is.pdf)
 
-italiano (IT) (999.33 KB - PDF)
+italiano (IT) (1002.13 KB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/it/documents/product-information/teduglutide-viatris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (555.73 KB - PDF)
+latviešu valoda (LV) (545.55 KB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/lv/documents/product-information/teduglutide-viatris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (927.82 KB - PDF)
+lietuvių kalba (LT) (1.05 MB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/lt/documents/product-information/teduglutide-viatris-epar-product-information_lt.pdf)
 
-magyar (HU) (1.04 MB - PDF)
+magyar (HU) (1.05 MB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/hu/documents/product-information/teduglutide-viatris-epar-product-information_hu.pdf)
 
 Malti (MT) (1.1 MB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/mt/documents/product-information/teduglutide-viatris-epar-product-information_mt.pdf)
 
 Nederlands (NL) (1.02 MB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/nl/documents/product-information/teduglutide-viatris-epar-product-information_nl.pdf)
 
-norsk (NO) (307.53 KB - PDF)
+norsk (NO) (307.6 KB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/no/documents/product-information/teduglutide-viatris-epar-product-information_no.pdf)
 
-polski (PL) (927.17 KB - PDF)
+polski (PL) (950.95 KB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/pl/documents/product-information/teduglutide-viatris-epar-product-information_pl.pdf)
 
-português (PT) (821.94 KB - PDF)
+português (PT) (819.96 KB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/pt/documents/product-information/teduglutide-viatris-epar-product-information_pt.pdf)
 
-română (RO) (1012.54 KB - PDF)
+română (RO) (1.03 MB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/ro/documents/product-information/teduglutide-viatris-epar-product-information_ro.pdf)
 
 slovenčina (SK) (1.1 MB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/sk/documents/product-information/teduglutide-viatris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (846.1 KB - PDF)
+slovenščina (SL) (845.9 KB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/sl/documents/product-information/teduglutide-viatris-epar-product-information_sl.pdf)
 
-Suomi (FI) (301.86 KB - PDF)
+Suomi (FI) (301.79 KB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/fi/documents/product-information/teduglutide-viatris-epar-product-information_fi.pdf)
 
-svenska (SV) (394.05 KB - PDF)
+svenska (SV) (396.68 KB - PDF)
 
-**First published:**
-
-19/01/2026
-
-**Last updated:**
-
-10/03/2026
+**First published:** 19/01/2026 **Last updated:** 15/04/2026
 
 [View](/sv/documents/product-information/teduglutide-viatris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000327317 10/03/2026
+**Latest procedure affecting product information:** VR/0000339894
+
+15/04/2026
 
 icon globe
 
@@ -613,203 +427,173 @@ English (EN) (45.74 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-449)
+[Other languages (24)](#file-language-dropdown-117)
 
 български (BG) (49.48 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/bg/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (40.37 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/es/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (60.23 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/cs/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (41.85 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/da/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (43.19 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/de/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (39.36 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/et/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (45.3 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/el/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (39.95 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/fr/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (58.06 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/hr/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (40.76 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/is/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (48.51 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/it/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (59.91 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/lv/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (57.69 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/lt/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (60.07 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/hu/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (58.98 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/mt/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (40.34 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/nl/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (43.07 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/no/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (61.96 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/pl/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (41.01 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/pt/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (50.48 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/ro/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (45.73 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/sk/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (48.91 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/sl/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (37.1 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/fi/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (41.73 KB - PDF)
 
-**First published:**
-
-19/01/2026
+**First published:** 19/01/2026
 
 [View](/sv/documents/all-authorised-presentations/teduglutide-viatris-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Teduglutide Viatris Active substance teduglutide International non-proprietary name (INN) or common name teduglutide Therapeutic area (MeSH) Short Bowel Syndrome Anatomical therapeutic chemical (ATC) code A16AX08
+Name of medicine
+
+Teduglutide Viatris
+
+Active substance
+
+teduglutide
+
+International non-proprietary name (INN) or common name
+
+teduglutide
+
+Therapeutic area (MeSH)
+
+Short Bowel Syndrome
+
+Anatomical therapeutic chemical (ATC) code
+
+A16AX08
 
 ### Pharmacotherapeutic group
 
@@ -821,7 +605,9 @@ Teduglutide Viatris is indicated for the treatment of patients 4 months correcte
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006564
+EMA product number
+
+EMEA/H/C/006564
 
 Generic
 
@@ -833,7 +619,17 @@ Viatris Limited
 
 Damastown Industrial Park Dublin 15 Ireland
 
-Opinion adopted 13/11/2025 Marketing authorisation issued 08/01/2026 Revision 1
+Opinion adopted
+
+13/11/2025
+
+Marketing authorisation issued
+
+08/01/2026
+
+Revision
+
+2
 
 ## Assessment history
 
@@ -845,9 +641,9 @@ Collapse section
 
 Teduglutide Viatris : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (140.22 KB - PDF)
+English (EN) (143.08 KB - PDF)
 
-**First published:** 10/03/2026
+**First published:** 10/03/2026 **Last updated:** 15/04/2026
 
 [View](/en/documents/procedural-steps-after/teduglutide-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -855,9 +651,7 @@ English (EN) (140.22 KB - PDF)
 
 Teduglutide Viatris : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/382685/2025
+Adopted Reference Number: EMA/382685/2025
 
 English (EN) (455.23 KB - PDF)
 
@@ -867,9 +661,7 @@ English (EN) (455.23 KB - PDF)
 
 CHMP summary of positive opinion for Teduglutide Viatris
 
-Adopted
-
-Reference Number: EMA/358510/2025
+Adopted Reference Number: EMA/358510/2025
 
 English (EN) (153.18 KB - PDF)
 
@@ -879,10 +671,12 @@ English (EN) (153.18 KB - PDF)
 
 ## News on Teduglutide Viatris
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 November 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-november-2025) 14/11/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 November 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-november-2025)
 
-**This page was last updated on** 10/03/2026
+14/11/2025
+
+**This page was last updated on**
+
+15/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

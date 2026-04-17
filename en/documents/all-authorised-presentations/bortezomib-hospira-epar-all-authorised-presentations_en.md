@@ -1,24 +1,19 @@
 ---
-document_datetime: 2023-09-21 19:32:56
+document_datetime: 2026-04-15 11:41:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/all-authorised-presentations/bortezomib-hospira-epar-all-authorised-presentations_en.pdf
 document_name: bortezomib-hospira-epar-all-authorised-presentations_en.pdf
 version: success
-processing_time: 0.885095
-conversion_datetime: 2025-12-19 01:28:44.588039
+processing_time: 0.3514053
+conversion_datetime: 2026-04-17 15:55:45.679364
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
-| MA (EU) number   | (Invented) name    | Strength   | Pharmaceutical Form               | Route of Administration           | Immediate Packaging   | Pack size   |
-|------------------|--------------------|------------|-----------------------------------|-----------------------------------|-----------------------|-------------|
-| EU/1/16/1114/001 | Bortezomib Hospira | 3.5 mg     | Powder for solution for injection | Intravenous use, Subcutaneous use | vial (glass)          | 1 vial      |
-| EU/1/16/1114/002 | Bortezomib Hospira | 2.5 mg     | Powder for solution for injection | Intravenous use, Subcutaneous use | vial (glass)          | 1 vial      |
-| EU/1/16/1114/003 | Bortezomib Hospira | 3 mg       | Powder for solution for injection | Intravenous use, Subcutaneous use | vial (glass)          | 1 vial      |
-| EU/1/16/1114/004 | Bortezomib Hospira | 1 mg       | Powder for solution for injection | Intravenous use, Subcutaneous use | vial (glass)          | 1 vial      |
+<!-- image -->

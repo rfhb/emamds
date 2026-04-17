@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-07-26 13:17:43
-document_pages: 32
+document_datetime: 2026-04-16 19:40:09
+document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/atriance-epar-product-information_en.pdf
 document_name: atriance-epar-product-information_en.pdf
 version: success
-processing_time: 6.5264866
-conversion_datetime: 2025-12-27 14:52:33.413039
+processing_time: 7.3742055
+conversion_datetime: 2026-04-17 15:48:03.066046
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -90,7 +90,7 @@ Insufficient numbers of patients aged 65 years of age and older have been treate
 
 ## Renal impairment
 
-Nelarabine has not been studied in individuals with renal impairment. Nelarabine and 9β -Darabinofuranosylguanine (ara-G) are partially renally excreted (see section 5.2). There are insufficient data to support a dose adjustment recommendation for patients with a renal clearance of creatinine Clcr less than 50 ml/min. Patients with renal impairment must be closely monitored for toxicities when treated with nelarabine.
+Nelarabine has not been studied in individuals with renal impairment. Nelarabine and 9-β-Darabinofuranosylguanine (ara-G) are partially renally excreted (see section 5.2). There are insufficient data to support a dose adjustment recommendation for patients with a renal clearance of creatinine Clcr less than 50 ml/min. Patients with renal impairment must be closely monitored for toxicities when treated with nelarabine.
 
 ## Hepatic impairment
 
@@ -108,7 +108,11 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## NEUROLOGICAL ADVERSE REACTIONS
 
-Severe neurological reactions have been reported with the use of nelarabine. These reactions have included altered mental states including severe somnolence, confusion and coma, central nervous system effects including convulsions, ataxia and status epilepticus, and peripheral neuropathy including hypoesthesia ranging from numbness and paresthesias to motor weakness and paralysis. There have also been reports of reactions associated with demyelination, and ascending peripheral neuropathies similar in appearance to Guillain-Barré Syndrome. (see section 4.8). Neurotoxicity is the dose-limiting toxicity of nelarabine. Full recovery from these reactions has not always occurred with cessation of nelarabine. Therefore, close monitoring for neurological reactions is strongly recommended, and nelarabine must be discontinued at the first sign of neurological reactions of NCI CTCAE Grade 2 or greater.
+Severe neurological reactions have been reported with the use of nelarabine. These reactions have included altered mental states including severe somnolence, confusion and coma, central nervous system effects including convulsions, ataxia and status epilepticus, and peripheral neuropathy including hypoesthesia ranging from numbness and paresthesias to motor weakness and paralysis.
+
+There have also been reports of reactions associated with demyelination, and ascending peripheral neuropathies similar in appearance to Guillain-Barré Syndrome. (see section 4.8).
+
+Neurotoxicity is the dose-limiting toxicity of nelarabine. Full recovery from these reactions has not always occurred with cessation of nelarabine. Therefore, close monitoring for neurological reactions is strongly recommended, and nelarabine must be discontinued at the first sign of neurological reactions of NCI CTCAE Grade 2 or greater.
 
 Patients treated previously or concurrently with intrathecal chemotherapy or previously with craniospinal irradiation are potentially at increased risk for neurological adverse events (see
 
@@ -229,35 +233,35 @@ The following convention has been utilised for the classification of frequency: 
 
 <div style=\"page-break-after: always\"></div>
 
-| Gastrointestinal disorders                                                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           |
-|--------------------------------------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| Diarrhoea                                                                            | Very common: 23 (22%)                                | Common: 2 (2%)                                       |
-| Stomatitis                                                                           | Common: 8 (8%)                                       | Common: 1 (1%)                                       |
-| Vomiting                                                                             | Very common: 23 (22%)                                | Common: 8 (10%)                                      |
-| Abdominal pain                                                                       | Common: 9 (9%)                                       | N/A                                                  |
-| Constipation                                                                         | Very common: 22 (21%)                                | Common: 1 (1%)                                       |
-| Nausea                                                                               | Very common: 42 (41%)                                | Common: 2 (2%)                                       |
-| Hepatobiliary disorders                                                              | Hepatobiliary disorders                              | Hepatobiliary disorders                              |
-| Hyperbilirubinaemia                                                                  | Common: 3 (3%)                                       | Common: 8 (10%)                                      |
-| Transaminases increased                                                              | N/A                                                  | Very common: 10(12%)                                 |
-| Aspartate aminotransferase increased                                                 | Common: 6 (6%)                                       | N/A                                                  |
-| Musculoskeletal and connective tissue disorders                                      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
-| Muscle weakness                                                                      | Common: 8 (8%)                                       | N/A                                                  |
-| Myalgia                                                                              | Very common: 13 (13%)                                | N/A                                                  |
-| Arthralgia                                                                           | Common: 9 (9%)                                       | Common: 1 (1%)                                       |
-| Back pain                                                                            | Common: 8 (8%)                                       | N/A                                                  |
-| Pain in extremity                                                                    | Common: 7 (7%)                                       | Common: 2 (2%)                                       |
-| Rhabdomyolysis, blood creatine phosphokinase increased (see 'Post - marketing data') | Rare: N/A                                            | Rare: N/A                                            |
-| Renal and urinary disorders                                                          | Renal and urinary disorders                          | Renal and urinary disorders                          |
-| Blood creatinine increased                                                           | Common: 2 (2%)                                       | Common: 5 (6%)                                       |
-| General disorders and administration site conditions                                 | General disorders and administration site conditions | General disorders and administration site conditions |
-| Oedema                                                                               | Very common: 11 (11%)                                | N/A                                                  |
-| Gait abnormal                                                                        | Common: 6 (6%)                                       | N/A                                                  |
-| Oedema peripheral                                                                    | Very common: 15 (15%)                                | N/A                                                  |
-| Pyrexia                                                                              | Very common: 24 (23%)                                | Common: 2 (2%)                                       |
-| Pain                                                                                 | Very common: 11 (11%)                                | N/A                                                  |
-| Fatigue                                                                              | Very common: 51 (50%)                                | Common: 1 (1%)                                       |
-| Asthenia                                                                             | Very common: 18 (17%)                                | Common: 5 (6%)                                       |
+| Gastrointestinal disorders                                                           | Gastrointestinal disorders                           | Gastrointestinal disorders   |
+|--------------------------------------------------------------------------------------|------------------------------------------------------|------------------------------|
+| Diarrhoea                                                                            | Very common: 23 (22%)                                | Common: 2 (2%)               |
+| Stomatitis                                                                           | Common: 8 (8%)                                       | Common: 1 (1%)               |
+| Vomiting                                                                             | Very common: 23 (22%)                                | Common: 8 (10%)              |
+| Abdominal pain                                                                       | Common: 9 (9%)                                       | N/A                          |
+| Constipation                                                                         | Very common: 22 (21%)                                | Common: 1 (1%)               |
+| Nausea                                                                               | Very common: 42 (41%)                                | Common: 2 (2%)               |
+| Hepatobiliary disorders                                                              |                                                      |                              |
+| Hyperbilirubinaemia                                                                  | Common: 3 (3%)                                       | Common: 8 (10%)              |
+| Transaminases increased                                                              | N/A                                                  | Very common: 10(12%)         |
+| Aspartate aminotransferase increased                                                 | Common: 6 (6%)                                       | N/A                          |
+| Musculoskeletal and connective tissue disorders                                      |                                                      |                              |
+| Muscle weakness                                                                      | Common: 8 (8%)                                       | N/A                          |
+| Myalgia                                                                              | Very common: 13 (13%)                                | N/A                          |
+| Arthralgia                                                                           | Common: 9 (9%)                                       | Common: 1 (1%)               |
+| Back pain                                                                            | Common: 8 (8%)                                       | N/A                          |
+| Pain in extremity                                                                    | Common: 7 (7%)                                       | Common: 2 (2%)               |
+| Rhabdomyolysis, blood creatine phosphokinase increased (see 'Post - marketing data') | Rare: N/A                                            | Rare: N/A                    |
+| Renal and urinary disorders                                                          |                                                      |                              |
+| Blood creatinine increased                                                           | Common: 2 (2%)                                       | Common: 5 (6%)               |
+| General disorders and administration site conditions                                 | General disorders and administration site conditions |                              |
+| Oedema                                                                               | Very common: 11 (11%)                                | N/A                          |
+| Gait abnormal                                                                        | Common: 6 (6%)                                       | N/A                          |
+| Oedema peripheral                                                                    | Very common: 15 (15%)                                | N/A                          |
+| Pyrexia                                                                              | Very common: 24 (23%)                                | Common: 2 (2%)               |
+| Pain                                                                                 | Very common: 11 (11%)                                | N/A                          |
+| Fatigue                                                                              | Very common: 51 (50%)                                | Common: 1 (1%)               |
+| Asthenia                                                                             | Very common: 18 (17%)                                | Common: 5 (6%)               |
 
 ## Description of selected adverse reactions
 
@@ -608,7 +612,13 @@ Stable for up to 8 hours at up to 30ºC once the vial is opened.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Sandoz Pharmaceuticals d.d. Verovškova ulica 57 1000 Ljubljana Slovenia
+Sandoz Pharmaceuticals d.d.
+
+Verovškova ulica 57
+
+1000 Ljubljana
+
+Slovenia
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -630,7 +640,7 @@ Lot
 
 Justification for not including Braille accepted
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -688,8 +698,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -715,8 +724,7 @@ Lot
 Justification for not including Braille accepted
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -951,9 +959,7 @@ Atriance is supplied in packs of 1 vial or 6 vials.
 
 ## Marketing Authorisation Holder
 
-Sandoz Pharmaceuticals d.d. Verovškova ulica 57 1000 Ljubljana
-
-Slovenia
+Sandoz Pharmaceuticals d.d. Verovškova ulica 57 1000 Ljubljana Slovenia
 
 ## Manufacturer
 
@@ -965,79 +971,77 @@ EBEWE Pharma Ges.m.b.H. Nfg.KG Mondseestrasse 11 4866 Unterach am Attersee Austr
 
 <div style=\"page-break-after: always\"></div>
 
-FAREVA Unterach GmbH Mondseestraße 11 Unterach am Attersee, 4866, Austria
+FAREVA Unterach GmbH Mondseestraße 11 Unterach am Attersee, 4866,
+
+Austria
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Sandoz N.V. Telecom Gardens Medialaan 40 B-1800 Vilvoorde Tél/Tel: +32 (0)2 722 97 97
+## België/Belgique/Belgien
+
+Sandoz nv/sa Tél/Tel.: +32 2 722 97 97
 
 ## България
 
-КЧТ Сандоз България Teл.: +359 2 970 47 47
+Сандоз България КЧТ Teл.: +359 2 970 47 47
 
 ## Česká republika
 
-Sandoz s.r.o. Na Pankráci 1724/129 CZ-140 00, Praha 4 Tel: +420 225 775 111 office.cz@ sandoz.com
+Sandoz s.r.o.
+
+Tel: +420 234 142 222
 
 ## Danmark
 
-Sandoz A/S Edvard Thomsens Vej 14 DK-2300 København S Tlf: +45 6395 1000 info.danmark@sandoz.com
+Sandoz A/S Tlf: +45 63 95 10 00
 
-Deutschland Hexal AG Industriestr. 25 D-83607 Holzkirchen Tel: +49 8024 908-0
+## Deutschland
+
+Hexal AG Industriestr. 25 D-83607 Holzkirchen Tel: +49 8024 908-0
 
 service@hexal.com
 
-Eesti Sandoz d.d. Eesti filiaal Pärnu mnt 105 EE - 11312 Tallinn Tel: +372 6652405
+## Eesti
 
-Ελλάδα SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. Τηλ: +30 216 600 5000
+Sandoz d.d. Eesti filiaal Tel: +372 6652400
 
-Lietuva Sandoz Pharmaceuticals d.d Branch Office Lithuania Seimyniskiu 3A LT - 09312 Vilnius Tel: +370 5 2636 037
+## Ελλάδα
 
-## Luxembourg/Luxemburg
-
-Sandoz N.V. Telecom Gardens Medialaan 40 B-1800 Vilvoorde Tél/Tel: +32 (0)2 722 97 97
-
-Magyarország Sandoz Hungária Kft. Bartók Béla út 43-47 H-1114 Budapest Tel: +36 1 430 2890
-
-Info.hungary@sandoz.com
-
-Malta Sandoz Pharmaceuticals d.d. Verovskova 57 SI-1000 Ljubljana Slovenia Tel: +356 21222872
-
-Nederland Sandoz B.V. Hospitaaldreef 29, NL-1315 RC Almere Tel: +31 (0)36 5241600 info.sandoz-nl@sandoz.com
-
-Norge Sandoz A/S Edvard Thomsens Vej 14 DK-2300 København S Danmark Tlf: +45 6395 1000 info.norge@sandoz.com
-
-Österreich Sandoz GmbH Biochemiestr. 10 A-6250 Kundl Tel: +43(0)1 86659-0
-
-<div style=\"page-break-after: always\"></div>
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. Τηλ: +30 216 600 5000
 
 ## España
 
 Bexal Farmacéutica, S.A. Centro Empresarial Parque Norte Edificio Roble C/ Serrano Galvache, 56 28033 Madrid Tel: +34 900 456 856
 
-## France
+## Lietuva
 
-Sandoz SAS 49, avenue Georges Pompidou F-92300 Levallois-Perret Tél: +33 1 49 64 48 00
+Sandoz Pharmaceuticals d.d, filialas Tel: +370 5 2636 037
 
-## Hrvatska
+## Luxembourg/Luxemburg
 
-Sandoz d.o.o. Maksimirska 120 10 000 Zagreb Tel : +385 1 235 3111 upit.croatia@sandoz.com
+Sandoz nv/sa
 
-## Ireland
+Tél/Tel.: +32 2 722 97 97
 
-Sandoz Pharmaceuticals d.d. Verovškova ulica 57 1000 Ljubljana Slovenia
+## Magyarország
 
-## Ísland
+Sandoz Hungária Kft. Tel: +36 1 430 2890
 
-Sandoz A/S Edvard Thomsens Vej 14 DK-2300 Kaupmaannahöfn S Danmörk Tlf: +45 6395 1000 info.danmark@sandoz.com
+## Malta
 
-## Italia
+Sandoz Pharmaceuticals d.d. Verovskova 57 SI-1000 Ljubljana Slovenia Tel: +35699644126
 
-Sandoz S.p.A. Largo Umberto Boccioni, 1 I-21040 Origgio / VA Tel: +39 02 96 54 1
+## Nederland
 
-regaff.italy@sandoz.com
+Sandoz B.V. Hospitaaldreef 29 NL-1315 RC Almere Tel: +31 (0)36 5241600 info.sandoz-nl@sandoz.com
 
-Κύπρος Sandoz Pharmaceuticals d.d. Verovskova 57 SI-1000 Ljubljana Σλοβενία Τηλ: +357 22 69 0690
+## Norge
+
+Sandoz A/S Tlf: +45 63 95 10 00
+
+## Österreich
+
+Sandoz GmbH Biochemiestr. 10 A-6250 Kundl Tel: +43(0)1 86659-0
 
 ## Polska
 
@@ -1045,31 +1049,81 @@ Sandoz Polska Sp. z o.o. ul. Domaniewska 50 C 02 672 Warszawa Tel.: +48 22 209 7
 
 maintenance.pl@sandoz.com
 
+## France
+
+Sandoz SAS
+
+Tél: +33 1 49 64 48 00
+
 ## Portugal
 
-Sandoz Farmacêutica Lda. Tel: +351 211 964 000
+Sandoz Farmacêutica Lda.
+
+Tel: +351 211 964 000
+
+## Hrvatska
+
+Sandoz d.o.o. Maksimirska 120 10 000 Zagreb
+
+Tel : +385 1 235 3111
+
+upit.croatia@sandoz.com
 
 ## România
 
-Sandoz S.R.L. Strada Livezeni Nr. 7a 540472 Târgu Mureș Tel: +40 21 407 51 60
+Sandoz Pharmaceuticals SRL
 
-Slovenija Lek farmacevtska družba d.d. Verovškova 57 SI-1526 Ljubljana Tel: +386 1 580 21 11 Info.lek@sandoz.com
+Tel: +40 21 407 51 60
+
+## Ireland
+
+Sandoz Pharmaceuticals d.d. Verovškova ulica 57 1000 Ljubljana
+
+Slovenia
+
+## Slovenija
+
+Lek farmacevtska družba d.d. Verovškova 57 SI-1526 Ljubljana Tel: +386 1 580 21 11
+
+Info.lek@sandoz.com
+
+## Ísland
+
+Sandoz A/S
+
+Sími: +45 63 95 10 00
 
 ## Slovenská republika
 
-Sandoz d.d. organizačná zložka Žižkova 22B 811 02 Bratislava Tel: +421 2 48 200 600 sk.regulatory@sandoz.com
+Sandoz d.d. - organizačná zložka Žižkova 22B 811 02 Bratislava Tel: +421 2 48 200 600 sk.regulatory@sandoz.com
+
+## Italia
+
+Sandoz S.p.A.
+
+Tel: +39 02 812 806 96
 
 ## Suomi/Finland
 
-Sandoz A/S Edvard Thomsens Vej 14 DK-2300 Kööpenhamina S Tanska Puh: + 358 010 6133 400 info.suomi@sandoz.com
+Sandoz A/S
+
+Puh/Tel: + 358 10 6133 400
+
+## Κύπρος
+
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. (Ελλάδα) Τηλ: +30 216 600 5000
 
 ## Sverige
 
-Sandoz A/S Edvard Thomsens Vej 14 DK-2300 Köpenhamn S Danmark Tel: +45 6395 1000 info.sverige@sandoz.com
+Sandoz A/S
+
+Tel: +45 63 95 10 00
+
+## Latvija
+
+Sandoz d.d. Latvia filiāle K.Valdemāra 33 - 29 LV-1010 Rīga Tel: +371 67892006
 
 <div style=\"page-break-after: always\"></div>
-
-Latvija Sandoz d.d. Latvia filiāle K.Valdemāra 33 - 29 LV1010 Rīga Tel: +371 67892006
 
 ## This leaflet was last approved in
 

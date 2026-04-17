@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-04-11 14:45:45
-document_pages: 71
+document_datetime: 2026-04-10 10:10:09
+document_pages: 72
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/myclausen-epar-product-information_en.pdf
 document_name: myclausen-epar-product-information_en.pdf
 version: success
-processing_time: 20.2585161
-conversion_datetime: 2025-12-24 02:40:46.759327
+processing_time: 23.0667231
+conversion_datetime: 2026-04-17 16:01:01.071764
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -195,7 +195,7 @@ Patients should not donate blood during therapy or for at least 6 weeks followin
 
 ## Sodium contents
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium- free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -295,7 +295,7 @@ Myclausen is contraindicated during pregnancy unless there is no suitable altern
 
 Female patients of reproductive potential must be made aware of the increased risk of pregnancy loss and congenital malformations at the beginning of the treatment and must be counselled regarding pregnancy prevention and planning.
 
-Before starting Myclausen treatment, women of child bearing potential should have two negative serum or urine pregnancy tests with a sensitivity of at least 25 mIU/mL  in order to exclude unintended exposure of an embryo to mycophenolate. It is recommended that the second test should be performed 8 - 10 days after the first test. For transplants from deceased donors, if it is not possible to perform two tests 8 - 10 days apart before treatment starts (because of the timing of transplant organ availability), a pregnancy test must be performed immediately before starting treatment and a further test 8 - 10 days later. Pregnancy tests should be repeated as clinically required (e.g. after any gap in contraception is reported). Results of all pregnancy tests should be discussed with the patient. Patients should be instructed to consult their physician immediately should pregnancy occur.
+Before starting Myclausen treatment, women of child bearing potential should have two negative serum or urine pregnancy tests with a sensitivity of at least 25 mIU/mL  in order to exclude unintended exposure of an embryo to mycophenolate. It is recommended that the second test should be performed 8 -10 days after the first test. For transplants from deceased donors, if it is not possible to perform two tests 8 -10 days apart before treatment starts (because of the timing of transplant organ availability), a pregnancy test must be performed immediately before starting treatment and a further test 8 -10 days later. Pregnancy tests should be repeated as clinically required (e.g. after any gap in contraception is reported). Results of all pregnancy tests should be discussed with the patient. Patients should be instructed to consult their physician immediately should pregnancy occur.
 
 Mycophenolate is a powerful human teratogen, with an increased risk of spontaneous abortions and congenital malformations in case of exposure during pregnancy;
 
@@ -338,7 +338,7 @@ Therefore, the following precautionary measures are recommended: sexually active
 
 ## Fertility
 
-Mycophenolate mofetil had no effect on fertility of male rats at oral doses up to 20 mg/kg/day. The systemic exposure at this dose represents 2 - 3 times the clinical exposure at the recommended clinical dose of 2 g/day in renal transplant patients and 1.3 - 2 times the clinical exposure at the recommended clinical dose of 3 g/day in cardiac transplant patients. In a female fertility and reproduction study conducted in rats, oral doses of 4.5 mg/kg/day caused malformations (including anophthalmia, agnathia, and hydrocephaly) in the first generation offspring in the absence of maternal toxicity. The systemic exposure at this dose was approximately 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day for renal transplant patients and approximately 0.3 times the clinical exposure at the recommended clinical dose of 3 g/day for cardiac transplant patients. No effects on fertility or reproductive parameters were evident in the dams or in the subsequent generation.
+Mycophenolate mofetil had no effect on fertility of male rats at oral doses up to 20 mg/kg/day. The systemic exposure at this dose represents 2 -3 times the clinical exposure at the recommended clinical dose of 2 g/day in renal transplant patients and 1.3 -2 times the clinical exposure at the recommended clinical dose of 3 g/day in cardiac transplant patients. In a female fertility and reproduction study conducted in rats, oral doses of 4.5 mg/kg/day caused malformations (including anophthalmia, agnathia, and hydrocephaly) in the first generation offspring in the absence of maternal toxicity. The systemic exposure at this dose was approximately 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day for renal transplant patients and approximately 0.3 times the clinical exposure at the recommended clinical dose of 3 g/day for cardiac transplant patients. No effects on fertility or reproductive parameters were evident in the dams or in the subsequent generation.
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -352,7 +352,7 @@ Diarrhoea (up to 52.6%), leukopenia (up to 45.8%), bacterial infections (up to 3
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions from clinical trials and post-marketing experience are listed in Table 1, by MedDRA system organ class (SOC) along with their frequencies. The corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000) and very rare (&lt;1/10,000). Due to the large differences observed in the frequency of certain adverse reactions across the different transplant indications, the frequency is presented separately for renal, hepatic and cardiac transplant patients.
+The adverse reactions from clinical trials and post-marketing experience are listed in Table 1, by MedDRA system organ class (SOC) along with their frequencies. The corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000) , very rare (&lt;1/10,000) and not known (cannot be estimated from the available data). Due to the large differences observed in the frequency of certain adverse reactions across the different transplant indications, the frequency is presented separately for renal, hepatic and cardiac transplant patients.
 
 ## Table 1 Adverse reactions
 
@@ -455,6 +455,7 @@ The adverse reactions from clinical trials and post-marketing experience are lis
 | Vomiting                                        | Very common        | Very common          | Very common          |
 | Immune system disorders                         |                    |                      |                      |
 | Hypersensitivity                                | Uncommon           | Common               | Common               |
+| Anaphylactic reactions                          | Not known          | Not known            | Not known            |
 | Hypogammaglobulinaemia                          | Uncommong          | Very rare            | Very rare            |
 | Hepatobiliary disorders                         |                    |                      |                      |
 | Blood alkaline phosphatase increased            | Common             | Common               | Common               |
@@ -464,13 +465,13 @@ The adverse reactions from clinical trials and post-marketing experience are lis
 | Hyperbilirubinaemia                             | Common             | Very common          | Very common          |
 | Jaundice                                        | Uncommon           | Common               | Common               |
 | Skin and subcutaneous tissue disorders          |                    |                      |                      |
-| Acne                                            | Common             | Common               | Very common          |
 
 <div style=\"page-break-after: always\"></div>
 
 | Adverse reaction (MedDRA) System Organ Class                               | Renal transplant                                     | Hepatic transplant                                   | Cardiac transplant                                   |
 |----------------------------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 |                                                                            | Frequency                                            | Frequency                                            | Frequency                                            |
+| Acne                                                                       | Common                                               | Common                                               | Very common                                          |
 | Alopecia                                                                   | Common                                               | Common                                               | Common                                               |
 | Rash                                                                       | Common                                               | Very common                                          | Very common                                          |
 | Skin hypertrophy                                                           | Common                                               | Common                                               | Very common                                          |
@@ -492,7 +493,7 @@ The adverse reactions from clinical trials and post-marketing experience are lis
 | Pyrexia                                                                    | Very common                                          | Very common                                          | Very common                                          |
 | De novo purine synthesis inhibitors associated acute inflammatory syndrome | Uncommon                                             | Uncommon                                             | Uncommon                                             |
 
-## Description of selected adverse reactions
+Description of selected adverse reactions
 
 ## Malignancies
 
@@ -504,11 +505,11 @@ All patients treated with immunosuppressants are at increased risk of bacterial,
 
 ## Blood and lymphatic disorders
 
-Cytopenias, including leukopenia, anemia, thrombocytopenia and pancytopenia, are known risks associated with mycophenolate mofetil and may lead or contribute to the occurrence of infections and hemorrhages (see section 4.4). Agranulocytosis and neutropenia have been reported; therefore, regular monitoring of patients taking mycophenolate mofetil is advised (see section 4.4). There have been reports of aplastic anaemia and bone marrow failure in patients treated with mycophenolate mofetil, some of which have been fatal. Cases of pure red cell aplasia (PRCA) have been reported in patients
+Cytopenias, including leukopenia, anemia, thrombocytopenia and pancytopenia, are known risks associated with mycophenolate mofetil and may lead or contribute to the occurrence of infections and hemorrhages (see section 4.4). Agranulocytosis and neutropenia have been reported; therefore, regular monitoring of patients taking mycophenolate mofetil is advised (see section 4.4). There have been reports of aplastic anaemia and bone marrow failure in patients treated with mycophenolate mofetil,
 
 <div style=\"page-break-after: always\"></div>
 
-## treated with mycophenolate mofetil (see section 4.4).
+## some of which have been fatal. Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil (see section 4.4).
 
 Isolated cases of abnormal neutrophil morphology, including the acquired Pelger-Huet anomaly, have been observed in patients treated with mycophenolate mofetil. These changes are not associated with impaired neutrophil function. These changes may suggest a 'left shift' in the maturity of neutrophils in haematological investigations, which may be mistakenly interpreted as a sign of infection in immunosuppressed patients such as those that receive mycophenolate mofetil.
 
@@ -546,9 +547,11 @@ De novo purine synthesis inhibitors-associated acute inflammatory syndrome has b
 
 ## Paediatric population
 
-The type and frequency of adverse reactions in a clinical study, which recruited 92 paediatric patients aged 2 to 18 years who were given 600 mg/m 2 mycophenolate mofetil orally twice daily, were generally similar to those observed in adult patients given 1 g mycophenolate mofetil twice daily. However, the following treatment-related adverse events were more frequent in the paediatric population, particularly in children under 6 years of age, when compared to adults: diarrhoea, sepsis, leukopenia, anaemia and infection.
+The type and frequency of adverse reactions in a clinical study, which recruited 92 paediatric patients aged 2 to 18 years who were given 600 mg/m 2  mycophenolate mofetil orally twice daily, were generally similar to those observed in adult patients given 1 g mycophenolate mofetil twice daily. However, the following treatment-related adverse events were more frequent in the paediatric population, particularly in children under 6 years of age, when compared to adults: diarrhoea, sepsis,
 
 <div style=\"page-break-after: always\"></div>
+
+leukopenia, anaemia and infection.
 
 ## Elderly
 
@@ -580,11 +583,11 @@ Mycophenolate mofetil is the 2-morpholinoethyl ester of MPA. MPA is a selective,
 
 ## Absorption
 
-Following oral administration, mycophenolate mofetil undergoes rapid and extensive absorption and complete presystemic metabolism to the active metabolite, MPA. As evidenced by suppression of acute rejection following renal transplantation, the immunosuppressant activity of mycophenolate
+Following oral administration, mycophenolate mofetil undergoes rapid and extensive absorption and complete presystemic metabolism to the active metabolite, MPA. As evidenced by suppression of
 
 <div style=\"page-break-after: always\"></div>
 
-mofetil is correlated with MPA concentration. The mean bioavailability of oral mycophenolate mofetil, based on MPA AUC, is 94 % relative to IV mycophenolate mofetil. Food had no effect on the extent of absorption (MPA AUC) of mycophenolate mofetil when administered at doses of 1.5 g BID to renal transplant patients. However, MPA Cmax was decreased by 40 % in the presence of food. Mycophenolate mofetil is not measurable systemically in plasma following oral administration.
+acute rejection following renal transplantation, the immunosuppressant activity of mycophenolate mofetil is correlated with MPA concentration. The mean bioavailability of oral mycophenolate mofetil, based on MPA AUC, is 94 % relative to IV mycophenolate mofetil. Food had no effect on the extent of absorption (MPA AUC) of mycophenolate mofetil when administered at doses of 1.5 g BID to renal transplant patients. However, MPA Cmax was decreased by 40 % in the presence of food. Mycophenolate mofetil is not measurable systemically in plasma following oral administration.
 
 ## Distribution
 
@@ -606,7 +609,7 @@ At clinically encountered concentrations, MPA and MPAG are not removed by haemod
 
 By interfering with enterohepatic recirculation of the drug, bile acid sequestrants such as cholestyramine, reduce MPA AUC (see section 4.9).
 
-MPA's disposition depends on several transporters. Organic anion-transporting polypeptides (OATPs) and multidrug resistance-associated protein 2 (MRP2) are involved in MPA's disposition; OATP isoforms, MRP2 and breast cancer resistance protein (BCRP) are transporters associated with the glucuronides' biliary excretion. Multidrug resistance protein 1 (MDR1) is also able to transport MPA, but its contribution seems to be confined to the absorption process. In the kidney MPA and its metabolites potently interact with renal organic anion transporters.
+MPA's disposition depends on several transporters. Organic anion -transporting polypeptides (OATPs) and multidrug resistanceassociated protein 2 (MRP2) are involved in MPA's disposition; OATP isoforms, MRP2 and breast cancer resistance protein (BCRP) are transporters associated with the glucuronides' biliary excretion. Multidrug resistance protein 1 (MDR1) is also able to transport MPA, but its contribution seems to be confined to the absorption process. In the kidney MPA and its metabolites potently interact with renal organic anion transporters.
 
 Enterohepatic recirculation interferes with accurate determination of MPA's disposition parameters; only apparent values can be indicated. In healthy volunteers and patients with autoimmune disease approximate clearance values of 10.6 L/h and 8.27 L/h respectively and half-life values of 17 h were observed. In transplant patients mean clearance values were higher (range 11.9-34.9 L/h) and mean half-life values shorter (5-11 h) with little difference between renal, hepatic or cardiac transplant patients. In the individual patients, these elimination parameters vary based on type of co-treatment with other immunosuppressants, time post-transplantation, plasma albumin concentration and renal function. These factors explain why reduced exposure is seen when mycophenolat mofetil is coadministered with cyclosporine (see section 4.5) and why plasma concentrations tend to increase over time compared to what is observed immediately after transplantation.
 
@@ -620,7 +623,7 @@ In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subje
 
 ## Delayed renal graft function
 
-In patients with delayed renal graft function post-transplant, mean MPA AUC0-12 h was comparable to that seen in post-transplant patients without delayed graft function. Mean plasma MPAG AUC0-12 h was 2-3-fold higher than in post-transplant patients without delayed graft function. There may be a transient increase in the free fraction and concentration of plasma MPA in patients with delayed renal graft function. Dose adjustment of Myclausen does not appear to be necessary.
+In patients with delayed renal graft function post-transplant, mean MPA AUC0 -12 h was comparable to that seen in post-transplant patients without delayed graft function. Mean plasma MPAG AUC0-12 h was 2-3-fold higher than in post-transplant patients without delayed graft function. There may be a transient increase in the free fraction and concentration of plasma MPA in patients with delayed renal graft function. Dose adjustment of Myclausen does not appear to be necessary.
 
 ## Hepatic impairment
 
@@ -628,11 +631,11 @@ In volunteers with alcoholic cirrhosis, hepatic MPA glucuronidation processes we
 
 ## Paediatric population
 
-Pharmacokinetic parameters were evaluated in 49 paediatric renal transplant patients (aged 2 to 18 years) given 600 mg/m 2 mycophenolate mofetil orally twice daily. This dose achieved MPA AUC values similar to those seen in adult renal transplant patients receiving mycophenolate mofetil at a dose of 1 g BID in the early and late posttransplant period. MPA AUC values across age groups were similar in the early and late post-transplant period.
+Pharmacokinetic parameters were evaluated in 49 paediatric renal transplant patients (aged 2 to 18 years) given 600 mg/m 2  mycophenolate mofetil orally twice daily. This dose achieved MPA AUC values similar to those seen in adult renal transplant patients receiving mycophenolate mofetil at a dose of 1 g BID in the early and late posttransplant period. MPA AUC values across age groups were similar in the early and late post-transplant period.
 
 ## Elderly
 
-The pharmacokinetic of mycophenolate mofetil and its metabolites have not been found to be altered in the elderly patients ( ≥ 65 years) when compared to younger transplant patients.
+The pharmacokinetic of mycophenolate mofetil and its metabolites have not been found to be altered in the elderly patients (  65 years) when compared to younger transplant patients.
 
 ## Patients taking oral contraceptives
 
@@ -642,9 +645,11 @@ A study of the co-administration of mycophenolate mofetil (1 g BID ) and combine
 
 In experimental models, mycophenolate mofetil was not tumourigenic. The highest dose tested in the animal carcinogenicity studies resulted in approximately 2-3 times the systemic exposure (AUC or Cmax) observed in renal transplant patients at the recommended clinical dose of 2 g/day and 1.3-2 times the systemic exposure (AUC or Cmax) observed in cardiac transplant patients at the recommended clinical dose of 3 g/day.
 
-Two genotoxicity assays ( in vitro mouse lymphoma assay and in vivo mouse bone marrow micronucleus test) showed a potential of mycophenolate mofetil to cause chromosomal aberrations. These effects can be related to the pharmacodynamic mode of action, i.e. inhibition of nucleotide synthesis in sensitive cells. Other in vitro tests for detection of gene mutation did not demonstrate genotoxic activity.
+Two genotoxicity assays ( in vitro mouse lymphoma assay and in vivo mouse bone marrow micronucleus test) showed a potential of mycophenolate mofetil to cause chromosomal aberrations. These effects can be related to the pharmacodynamic mode of action, i.e. inhibition of nucleotide synthesis in sensitive cells. Other in vitro tests for detection of gene mutation did not demonstrate
 
 <div style=\"page-break-after: always\"></div>
+
+genotoxic activity.
 
 In teratology studies in rats and rabbits, foetal resorptions and malformations occurred in rats at 6 mg/kg/day (including anophthalmia, agnathia, and hydrocephaly) and in rabbits at 90 mg/kg/day (including cardiovascular and renal anomalies, such as ectopia cordis and ectopic kidneys, and diaphragmatic and umbilical hernia), in the absence of maternal toxicity. The systemic exposure at these levels is approximately equivalent to or less than 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day for renal transplant patients and approximately 0.3 times the clinical exposure at the recommended clinical dose of 3 g/day for cardiac transplant patients (see section 4.6).
 
@@ -676,9 +681,9 @@ PVC-aluminium blisters containing 10 film-coated tablets.
 
 Each carton contains either 50 or 150 film-coated tablets.
 
-Not all pack sizes may be marketed.
-
 <div style=\"page-break-after: always\"></div>
+
+Not all pack sizes may be marketed.
 
 6.6
 
@@ -895,7 +900,7 @@ Patients should not donate blood during therapy or for at least 6 weeks followin
 
 ## Sodium contents
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium- free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -1001,7 +1006,7 @@ Myclausen is contraindicated during pregnancy unless there is no suitable altern
 
 Female patients of reproductive potential must be made aware of the increased risk of pregnancy loss and congenital malformations at the beginning of the treatment and must be counselled regarding pregnancy prevention and planning.
 
-Before starting Myclausen treatment, women of child bearing potential should have two negative serum or urine  pregnancy tests with a sensitivity of at least 25 mIU/mL in order to exclude unintended exposure of an embryo to mycophenolate. It is recommended that the second test should be performed 8 - 10 days after the first test. For transplants from deceased donors, if it is not possible to perform two tests 8 - 10 days apart before treatment starts (because of the timing of transplant organ availability), a pregnancy test must be performed immediately before starting treatment and a further test 8 - 10 days later. Pregnancy tests should be repeated as clinically required (e.g. after any gap in contraception is reported). Results of all pregnancy tests should be discussed with the patient. Patients should be instructed to consult their physician immediately should pregnancy occur.
+Before starting Myclausen treatment, women of child bearing potential should have two negative serum or urine  pregnancy tests with a sensitivity of at least 25 mIU/mL in order to exclude unintended exposure of an embryo to mycophenolate. It is recommended that the second test should be performed 8 -10 days after the first test. For transplants from deceased donors, if it is not possible to perform two tests 8 -10 days apart before treatment starts (because of the timing of transplant organ availability), a pregnancy test must be performed immediately before starting treatment and a further test 8 -10 days later. Pregnancy tests should be repeated as clinically required (e.g. after any gap in contraception is reported). Results of all pregnancy tests should be discussed with the patient. Patients should be instructed to consult their physician immediately should pregnancy occur.
 
 Mycophenolate is a powerful human teratogen, with an increased risk of spontaneous abortions and congenital malformations in case of exposure during pregnancy;
 
@@ -1044,13 +1049,11 @@ Therefore, the following precautionary measures are recommended: sexually active
 
 ## Fertility
 
-Mycophenolate mofetil had no effect on fertility of male rats at oral doses up to 20 mg/kg/day. The systemic exposure at this dose represents 2 - 3 times the clinical exposure at the recommended clinical dose of 2 g/day in renal transplant patients and 1.3 - 2 times the clinical exposure at the recommended clinical dose of 3 g/day in cardiac transplant patients. In a female fertility and reproduction study conducted in rats, oral doses of 4.5 mg/kg/day caused malformations (including anophthalmia, agnathia, and hydrocephaly) in the first generation offspring in the absence of maternal toxicity. The systemic exposure at this dose was approximately 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day for renal transplant patients and approximately 0.3 times the clinical exposure at the recommended clinical dose of 3 g/day for cardiac transplant patients. No effects on fertility or reproductive parameters were evident in the dams or in the subsequent generation.
+Mycophenolate mofetil had no effect on fertility of male rats at oral doses up to 20 mg/kg/day. The systemic exposure at this dose represents 2 -3 times the clinical exposure at the recommended clinical dose of 2 g/day in renal transplant patients and 1.3 -2 times the clinical exposure at the recommended clinical dose of 3 g/day in cardiac transplant patients. In a female fertility and reproduction study conducted in rats, oral doses of 4.5 mg/kg/day caused malformations (including anophthalmia, agnathia, and hydrocephaly) in the first generation offspring in the absence of maternal toxicity. The systemic exposure at this dose was approximately 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day for renal transplant patients and approximately 0.3 times the clinical exposure at the recommended clinical dose of 3 g/day for cardiac transplant patients. No effects on fertility or reproductive parameters were evident in the dams or in the subsequent generation.
 
 ## 4.7 Effects on ability to drive and use machines
 
-Myclausen has moderate influence on the ability to drive and use machines.
-
-Myclausen may cause somnolence, confusion, dizziness, tremor or hypotension, and therefore patients are advised to use caution when driving or using machines.
+Myclausen has moderate influence on the ability to drive and use machines. Myclausen may cause somnolence, confusion, dizziness, tremor or hypotension, and therefore patients are advised to use caution when driving or using machines.
 
 ## 4.8 Undesirable effects
 
@@ -1060,7 +1063,7 @@ Diarrhoea (up to 52.6%), leukopenia (up to 45.8%), bacterial infections (up to 3
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions from clinical trials and post-marketing experience are listed in Table 1, by MedDRA system organ class (SOC) along with their frequencies. The corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000) an d very rare (&lt;1/10,000). Due to the large differences observed in the frequency of certain adverse reactions across the different transplant indications, the frequency is presented separately for renal, hepatic and cardiac transplant patients.
+The adverse reactions from clinical trials and post-marketing experience are listed in Table 1, by MedDRA system organ class (SOC) along with their frequencies. The corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000) and very rare (&lt;1/10,000). Due to the large differences observed in the frequency of certain adverse reactions across the different transplant indications, the frequency is presented separately for renal, hepatic and cardiac transplant patients.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1120,64 +1123,65 @@ The adverse reactions from clinical trials and post-marketing experience are lis
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reaction (MedDRA) System Organ Class   | Renal transplant   | Hepatic transplant   | Cardiac transplant   |
-|------------------------------------------------|--------------------|----------------------|----------------------|
-|                                                | Frequency          | Frequency            | Frequency            |
-| Convulsion                                     | Common             | Common               | Common               |
-| Dysgeusia                                      | Uncommon           | Uncommon             | Common               |
-| Cardiac disorders                              |                    |                      |                      |
-| Tachycardia                                    | Common             | Very common          | Very common          |
-| Vascular disorders                             |                    |                      |                      |
-| Hypertension                                   | Very common        | Very common          | Very common          |
-| Hypotension                                    | Common             | Very common          | Very common          |
-| Lymphocele                                     | Uncommon           | Uncommon             | Uncommon             |
-| Venous thrombosis                              | Common             | Common               | Common               |
-| Vasodilatation                                 | Common             | Common               | Very common          |
-| Respiratory, thoracic and mediastinal          | disorders          |                      |                      |
-| Bronchiectasis                                 | Uncommon           | Uncommon             | Uncommon             |
-| Cough                                          | Very common        | Very common          | Very common          |
-| Dyspnea                                        | Very common        | Very common          | Very common          |
-| Interstitial lung disease                      | Uncommon           | Very rare            | Very rare            |
-| Pleural effusion                               | Common             | Very common          | Very common          |
-| Pulmonary fibrosis                             | Very rare          | Uncommon             | Uncommon             |
-| Gastrointestinal disorders                     |                    |                      |                      |
-| Abdominal distension                           | Common             | Very common          | Common               |
-| Abdominal pain                                 | Very common        | Very common          | Very common          |
-| Colitis                                        | Common             | Common               | Common               |
-| Constipation                                   | Very common        | Very common          | Very common          |
-| Decreased appetite                             | Common             | Very common          | Very common          |
-| Diarrhea                                       | Very common        | Very common          | Very common          |
-| Dyspepsia                                      | Very common        | Very common          | Very common          |
-| Esophagitis                                    | Common             | Common               | Common               |
-| Eructation                                     | Uncommon           | Uncommon             | Common               |
-| Flatulence                                     | Common             | Very common          | Very common          |
-| Gastritis                                      | Common             | Common               | Common               |
-| Gastrointestinal hemorrhage                    | Common             | Common               | Common               |
-| Gastrointestinal ulcer                         | Common             | Common               | Common               |
-| Gingival hyperplasia                           | Common             | Common               | Common               |
-| Ileus                                          | Common             | Common               | Common               |
-| Mouth ulceration                               | Common             | Common               | Common               |
-| Nausea                                         | Very common        | Very common          | Very common          |
-| Pancreatitis                                   | Uncommon           | Common               | Uncommon             |
-| Stomatitis                                     | Common             | Common               | Common               |
-| Vomiting                                       | Very common        | Very common          | Very common          |
-| Immune system disorders                        |                    |                      |                      |
-| Hypersensitivity                               | Uncommon           | Common               | Common               |
-| Hypogammaglobulinaemia                         | Uncommong          | Very rare            | Very rare            |
-| Hepatobiliary disorders                        |                    |                      |                      |
-| Blood alkaline phosphatase increased           | Common             | Common               | Common               |
-| Blood lactate dehydrogenase increased          | Common             | Uncommon             | Very common          |
-| Hepatic enzyme increased                       | Common             | Very common          | Very common          |
-| Hepatitis                                      | Common             | Very common          | Uncommon             |
-| Hyperbilirubinaemia                            | Common             | Very common          | Very common          |
-| Jaundice                                       | Uncommon           | Common               | Common               |
-| Skin and subcutaneous tissue disorders         |                    |                      |                      |
+| Adverse reaction (MedDRA) System Organ Class    | Renal transplant   | Hepatic transplant   | Cardiac transplant   |
+|-------------------------------------------------|--------------------|----------------------|----------------------|
+|                                                 | Frequency          | Frequency            | Frequency            |
+| Convulsion                                      | Common             | Common               | Common               |
+| Dysgeusia                                       | Uncommon           | Uncommon             | Common               |
+| Cardiac disorders                               |                    |                      |                      |
+| Tachycardia                                     | Common             | Very common          | Very common          |
+| Vascular disorders                              |                    |                      |                      |
+| Hypertension                                    | Very common        | Very common          | Very common          |
+| Hypotension                                     | Common             | Very common          | Very common          |
+| Lymphocele                                      | Uncommon           | Uncommon             | Uncommon             |
+| Venous thrombosis                               | Common             | Common               | Common               |
+| Vasodilatation                                  | Common             | Common               | Very common          |
+| Respiratory, thoracic and mediastinal disorders |                    |                      |                      |
+| Bronchiectasis                                  | Uncommon           | Uncommon             | Uncommon             |
+| Cough                                           | Very common        | Very common          | Very common          |
+| Dyspnea                                         | Very common        | Very common          | Very common          |
+| Interstitial lung disease                       | Uncommon           | Very rare            | Very rare            |
+| Pleural effusion                                | Common             | Very common          | Very common          |
+| Pulmonary fibrosis                              | Very rare          | Uncommon             | Uncommon             |
+| Gastrointestinal disorders                      |                    |                      |                      |
+| Abdominal distension                            | Common             | Very common          | Common               |
+| Abdominal pain                                  | Very common        | Very common          | Very common          |
+| Colitis                                         | Common             | Common               | Common               |
+| Constipation                                    | Very common        | Very common          | Very common          |
+| Decreased appetite                              | Common             | Very common          | Very common          |
+| Diarrhea                                        | Very common        | Very common          | Very common          |
+| Dyspepsia                                       | Very common        | Very common          | Very common          |
+| Esophagitis                                     | Common             | Common               | Common               |
+| Eructation                                      | Uncommon           | Uncommon             | Common               |
+| Flatulence                                      | Common             | Very common          | Very common          |
+| Gastritis                                       | Common             | Common               | Common               |
+| Gastrointestinal hemorrhage                     | Common             | Common               | Common               |
+| Gastrointestinal ulcer                          | Common             | Common               | Common               |
+| Gingival hyperplasia                            | Common             | Common               | Common               |
+| Ileus                                           | Common             | Common               | Common               |
+| Mouth ulceration                                | Common             | Common               | Common               |
+| Nausea                                          | Very common        | Very common          | Very common          |
+| Pancreatitis                                    | Uncommon           | Common               | Uncommon             |
+| Stomatitis                                      | Common             | Common               | Common               |
+| Vomiting                                        | Very common        | Very common          | Very common          |
+| Immune system disorders                         |                    |                      |                      |
+| Hypersensitivity                                | Uncommon           | Common               | Common               |
+| Anaphylactic reactions                          | Not known          | Not known            | Not known            |
+| Hypogammaglobulinaemia                          | Uncommong          | Very rare            | Very rare            |
+| Hepatobiliary disorders                         |                    |                      |                      |
+| Blood alkaline phosphatase increased            | Common             | Common               | Common               |
+| Blood lactate dehydrogenase increased           | Common             | Uncommon             | Very common          |
+| Hepatic enzyme increased                        | Common             | Very common          | Very common          |
+| Hepatitis                                       | Common             | Very common          | Uncommon             |
+| Hyperbilirubinaemia                             | Common             | Very common          | Very common          |
+| Jaundice                                        | Uncommon           | Common               | Common               |
 
 <div style=\"page-break-after: always\"></div>
 
 | Adverse reaction (MedDRA) System Organ Class                               | Renal transplant                                     | Hepatic transplant                                   | Cardiac transplant                                   |
 |----------------------------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 |                                                                            | Frequency                                            | Frequency                                            | Frequency                                            |
+| Skin and subcutaneous tissue disorders                                     | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
 | Acne                                                                       | Common                                               | Common                                               | Very common                                          |
 | Alopecia                                                                   | Common                                               | Common                                               | Common                                               |
 | Rash                                                                       | Common                                               | Very common                                          | Very common                                          |
@@ -1200,7 +1204,7 @@ The adverse reactions from clinical trials and post-marketing experience are lis
 | Pyrexia                                                                    | Very common                                          | Very common                                          | Very common                                          |
 | De novo purine synthesis inhibitors associated acute inflammatory syndrome | Uncommon                                             | Uncommon                                             | Uncommon                                             |
 
-Description of selected adverse reactions
+## Description of selected adverse reactions
 
 ## Malignancies
 
@@ -1212,11 +1216,11 @@ All patients treated with immunosuppressants are at increased risk of bacterial,
 
 ## Blood and lymphatic disorders
 
-Cytopenias, including leukopenia, anemia, thrombocytopenia and pancytopenia, are known risks associated with mycophenolate mofetil and may lead or contribute to the occurrence of infections and hemorrhages (see section 4.4). Agranulocytosis and neutropenia have been reported; therefore, regular monitoring of patients taking mycophenolate mofetil is advised (see section 4.4). There have been reports of aplastic anaemia and bone marrow failure in patients treated with mycophenolate mofetil,
+Cytopenias, including leukopenia, anemia, thrombocytopenia and pancytopenia, are known risks associated with mycophenolate mofetil and may lead or contribute to the occurrence of infections and hemorrhages (see section 4.4). Agranulocytosis and neutropenia have been reported; therefore, regular monitoring of patients taking mycophenolate mofetil is advised (see section 4.4). There have been
 
 <div style=\"page-break-after: always\"></div>
 
-## some of which have been fatal. Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil (see section 4.4).
+reports of aplastic anaemia and bone marrow failure in patients treated with mycophenolate mofetil, some of which have been fatal. Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil (see section 4.4).
 
 Isolated cases of abnormal neutrophil morphology, including the acquired Pelger-Huet anomaly, have been observed in patients treated with mycophenolate mofetil. These changes are not associated with impaired neutrophil function. These changes may suggest a 'left shift' in the maturity of neutrophils in haematological investigations, which may be mistakenly interpreted as a sign of infection in immunosuppressed patients such as those that receive mycophenolate mofetil.
 
@@ -1254,11 +1258,11 @@ De novo purine synthesis inhibitors-associated acute inflammatory syndrome has b
 
 ## Paediatric population
 
-The type and frequency of adverse reactions in a clinical study, which recruited 92 paediatric patients aged 2 to 18 years who were given 600 mg/m 2 mycophenolate mofetil orally twice daily, were generally similar to those observed in adult patients given 1 g mycophenolate mofetil twice daily. However, the following treatment-related adverse events were more frequent in the paediatric population, particularly in children under 6 years of age, when compared to adults: diarrhoea, sepsis,
+The type and frequency of adverse reactions in a clinical study, which recruited 92 paediatric patients aged 2 to 18 years who were given 600 mg/m 2  mycophenolate mofetil orally twice daily, were generally similar to those observed in adult patients given 1 g mycophenolate mofetil twice daily. However, the following treatment-related adverse events were more frequent in the paediatric
 
 <div style=\"page-break-after: always\"></div>
 
-leukopenia, anaemia and infection.
+population, particularly in children under 6 years of age, when compared to adults: diarrhoea, sepsis, leukopenia, anaemia and infection.
 
 ## Elderly
 
@@ -1290,11 +1294,11 @@ Mycophenolate mofetil is the 2-morpholinoethyl ester of MPA. MPA is a selective,
 
 ## Absorption
 
-Following oral administration, mycophenolate mofetil undergoes rapid and extensive absorption and complete presystemic metabolism to the active metabolite, MPA. As evidenced by suppression of
+Following oral administration, mycophenolate mofetil undergoes rapid and extensive absorption and
 
 <div style=\"page-break-after: always\"></div>
 
-acute rejection following renal transplantation, the immunosuppressant activity of mycophenolate mofetil is correlated with MPA concentration. The mean bioavailability of oral mycophenolate mofetil, based on MPA AUC, is 94 % relative to IV mycophenolate mofetil. Food had no effect on the extent of absorption (MPA AUC) of mycophenolate mofetil when administered at doses of 1.5 g BID to renal transplant patients. However, MPA Cmax was decreased by 40 % in the presence of food. Mycophenolate mofetil is not measurable systemically in plasma following oral administration.
+complete presystemic metabolism to the active metabolite, MPA. As evidenced by suppression of acute rejection following renal transplantation, the immunosuppressant activity of mycophenolate mofetil is correlated with MPA concentration. The mean bioavailability of oral mycophenolate mofetil, based on MPA AUC, is 94 % relative to IV mycophenolate mofetil. Food had no effect on the extent of absorption (MPA AUC) of mycophenolate mofetil when administered at doses of 1.5 g BID to renal transplant patients. However, MPA Cmax was decreased by 40 % in the presence of food. Mycophenolate mofetil is not measurable systemically in plasma following oral administration.
 
 ## Distribution
 
@@ -1316,21 +1320,21 @@ At clinically encountered concentrations, MPA and MPAG are not removed by haemod
 
 By interfering with enterohepatic recirculation of the drug, bile acid sequestrants such as cholestyramine, reduce MPA AUC (see section 4.9).
 
-MPA's disposition depends on several transporters. Organic anion-transporting polypeptides (OATPs) and multidrug resistance-associated protein 2 (MRP2) are involved in MPA's disposition; OATP isoforms, MRP2 and breast cancer resistance protein (BCRP) are transporters associated with the glucuronides' biliary excretion. Multidrug resistance protein 1 (MDR1) is also able to transport MPA, but its contribution seems to be confined to the absorption process. In the kidney, MPA and its metabolites potently interact with renal organic anion transporters.
+MPA's disposition depends on several transporters. Organic anion -transporting polypeptides (OATPs) and multidrug resistanceassociated protein 2 (MRP2) are involved in MPA's disposition; OATP isoforms, MRP2 and breast cancer resistance protein (BCRP) are transporters associated with the glucuronides' biliary excretion. Multidrug resistance protein 1 (MDR1) is also able to transport MPA, but its contribution seems to be confined to the absorption process. In the kidney, MPA and its metabolites potently interact with renal organic anion transporters.
 
 Enterohepatic recirculation interferes with accurate determination of MPA's disposition parameters; only apparent values can be indicated. In healthy volunteers and patients with autoimmune disease approximate clearance values of 10.6 L/h and 8.27 L/h respectively and half-life values of 17 h were observed. In transplant patients mean clearance values were higher (range 11.9-34.9 L/h) and mean half-life values shorter (5-11 h) with little difference between renal, hepatic or cardiac transplant patients. In the individual patients, these elimination parameters vary based on type of co-treatment with other immunosuppressants, time post-transplantation, plasma albumin concentration and renal function. These factors explain why reduced exposure is seen when mycophenolat mofetil is coadministered with cyclosporine (see section 4.5) and why plasma concentrations tend to increase over time compared to what is observed immediately after transplantation.
 
-## Special populations
-
 <div style=\"page-break-after: always\"></div>
+
+## Special populations
 
 ## Renal impairment
 
-In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate &lt; 25 mL·min -1 ·1.73 m -2 ) were 28-75 % higher relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment. The mean single dose MPAG AUC was 3-6-fold higher in subjects with severe renal impairment than in subjects with mild renal impairment or normal healthy subjects, consistent with the known renal elimination of MPAG. Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied. No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
+In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate &lt; 25 mL ·min -1 ·1.73 m -2 ) were 28-75 % higher relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment. The mean single dose MPAG AUC was 3-6-fold higher in subjects with severe renal impairment than in subjects with mild renal impairment or normal healthy subjects, consistent with the known renal elimination of MPAG. Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied. No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
 
 ## Delayed renal graft function
 
-In patients with delayed renal graft function post-transplant, mean MPA AUC0-12 h was comparable to that seen in post-transplant patients without delayed graft function. Mean plasma MPAG AUC0-12 h was 2-3-fold higher than in post-transplant patients without delayed graft function. There may be a transient increase in the free fraction and concentration of plasma MPA in patients with delayed renal graft function. Dose adjustment of Myclausen does not appear to be necessary.
+In patients with delayed renal graft function post-transplant, mean MPA AUC0 -12 h was comparable to that seen in post-transplant patients without delayed graft function. Mean plasma MPAG AUC0-12 h was 2-3-fold higher than in post-transplant patients without delayed graft function. There may be a transient increase in the free fraction and concentration of plasma MPA in patients with delayed renal graft function. Dose adjustment of Myclausen does not appear to be necessary.
 
 ## Hepatic impairment
 
@@ -1338,11 +1342,11 @@ In volunteers with alcoholic cirrhosis, hepatic MPA glucuronidation processes we
 
 ## Paediatric population
 
-Pharmacokinetic parameters were evaluated in 49 paediatric renal transplant patients (aged 2 to 18 years) given 600 mg/m 2 mycophenolate mofetil orally twice daily. This dose achieved MPA AUC values similar to those seen in adult renal transplant patients receiving mycophenolate mofetil at a dose of 1 g BID in the early and late post-transplant period. MPA AUC values across age groups were similar in the early and late post-transplant period.
+Pharmacokinetic parameters were evaluated in 49 paediatric renal transplant patients (aged 2 to 18 years) given 600 mg/m 2  mycophenolate mofetil orally twice daily. This dose achieved MPA AUC values similar to those seen in adult renal transplant patients receiving mycophenolate mofetil at a dose of 1 g BID in the early and late post-transplant period. MPA AUC values across age groups were similar in the early and late post-transplant period.
 
 ## Elderly
 
-The pharmacokinetics of mycophenolate mofetil and its metabolites have not been found to be altered in the elderly patients ( ≥ 65 years) when compared to younger transplant patients.
+The pharmacokinetics of mycophenolate mofetil and its metabolites have not been found to be altered in the elderly patients (  65 years) when compared to younger transplant patients.
 
 ## Patients taking oral contraceptives
 
@@ -1352,11 +1356,11 @@ A study of the co-administration of mycophenolate mofetil (1 g BID) and combined
 
 In experimental models, mycophenolate mofetil was not tumourigenic. The highest dose tested in the animal carcinogenicity studies resulted in approximately 2-3 times the systemic exposure (AUC or Cmax) observed in renal transplant patients at the recommended clinical dose of 2 g/day and 1.3-2 times the systemic exposure (AUC or Cmax) observed in cardiac transplant patients at the recommended clinical dose of 3 g/day.
 
-Two genotoxicity assays ( in vitro mouse lymphoma assay and in vivo mouse bone marrow micronucleus test) showed a potential of mycophenolate mofetil to cause chromosomal aberrations. These effects can be related to the pharmacodynamic mode of action, i.e. inhibition of nucleotide synthesis in sensitive cells. Other in vitro tests for detection of gene mutation did not demonstrate
+Two genotoxicity assays ( in vitro mouse lymphoma assay and in vivo mouse bone marrow micronucleus test) showed a potential of mycophenolate mofetil to cause chromosomal aberrations. These effects can be related to the pharmacodynamic mode of action, i.e. inhibition of nucleotide
 
 <div style=\"page-break-after: always\"></div>
 
-genotoxic activity.
+synthesis in sensitive cells. Other in vitro tests for detection of gene mutation did not demonstrate genotoxic activity.
 
 In teratology studies in rats and rabbits, foetal resorptions and malformations occurred in rats at 6 mg/kg/day (including anophthalmia, agnathia, and hydrocephaly) and in rabbits at 90 mg/kg/day (including cardiovascular and renal anomalies, such as ectopia cordis and ectopic kidneys, and diaphragmatic and umbilical hernia), in the absence of maternal toxicity. The systemic exposure at these levels is approximately equivalent to or less than 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day for renal transplant patients and approximately 0.3 times the clinical exposure at the recommended clinical dose of 3 g/day for cardiac transplant patients (see section 4.6).
 
@@ -1392,11 +1396,15 @@ Not all pack sizes may be marketed.
 
 <div style=\"page-break-after: always\"></div>
 
-## 6.6 Special precautions for disposal and other handling
+6.6
+
+Special precautions for disposal and other handling
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
+
+MARKETING AUTHORISATION HOLDER
 
 Passauer Pharma GmbH Eiderstedter Weg 3 14129 Berlin Germany
 
@@ -1404,17 +1412,23 @@ Tel.: 0049 (0)30 744 60 12
 
 Fax: 0049 (0)30 744 60 41
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/10/647/003-004
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 7 October 2010
 
 Date of latest renewal: 27 May 2015
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
+
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
@@ -1510,7 +1524,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Myclausen 500 mg film-coated tablets Mycophenolate mofetil
+Myclausen 500 mg film-coated tablets
+
+Mycophenolate mofetil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1572,7 +1588,7 @@ Medicinal product subject to medical prescription.
 
 Myclausen 500 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1592,7 +1608,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Myclausen 500 mg film-coated tablets Mycophenolate mofetil
+Myclausen 500 mg film-coated tablets
+
+Mycophenolate mofetil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1654,7 +1672,7 @@ Medicinal product subject to medical prescription.
 
 Myclausen 500 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1668,7 +1686,9 @@ NN: {number} [national reimbursement number or other national number identifying
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER FOIL
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+BLISTER FOIL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1766,7 +1786,7 @@ Medicinal product subject to medical prescription.
 
 Myclausen 250 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1780,32 +1800,25 @@ NN: {number} [national reimbursement number or other national number identifying
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER FOIL                                        |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER FOIL
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
-|------|--------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Myclausen 250 mg hard capsules Mycophenolate mofetil
 
-| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
-|------|---------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Passauer Pharma GmbH
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1838,7 +1851,11 @@ Lot
 Myclausen contains mycophenolate mofetil.
 
 - This belongs to a group of medicines called 'immunosuppressants'. Myclausen is used to prevent your body rejecting a transplanted organ.
-- A kidney, heart or liver. Myclausen should be used together with other medicines:
+- ·
+- A kidney, heart or liver.
+
+Myclausen should be used together with other medicines:
+
 - Ciclosporin and corticosteroids.
 
 ## 2. What you need to know before you take Myclausen
@@ -1847,7 +1864,7 @@ Myclausen contains mycophenolate mofetil.
 
 Mycophenolate causes birth defects and miscarriage. If you are a woman who could become pregnant, you must provide a negative pregnancy test before starting treatment and must follow the contraception advice given to you by your doctor.
 
-Your doctor will speak to you and give you written information, particularly on the effects of mycophenolate on unborn babies. Read the information carefully and follow the instructions. If you do not fully understand these instructions, please ask your doctor to explain them again before you take mycophenolate. See also further information in this section under 'Warnings and precautions' and 'Pregnancy and breast-feeding'.
+Your doctor will speak to you and give you written information, particularly on the effects of mycophenolate on unborn babies. Read the information carefully and follow the instructions. If you do not fully understand these instructions, please ask your doctor to explain them again before you take mycophenolate. See also further information in this section under 'Warnings and precautions' and 'Pregnancy and breast -feeding'.
 
 ## Do not take Myclausen
 
@@ -1876,7 +1893,7 @@ If any of the above apply to you (or you are not sure), talk to your doctor stra
 
 ## The effect of sunlight
 
-Myclausen reduces your body's defences. As a result, there is an increased risk of skin cancer. Limit the amount of sunlight and UV light you get. Do this by:
+Myclausen reduces your body's defence s. As a result, there is an increased risk of skin cancer. Limit the amount of sunlight and UV light you get. Do this by:
 
 - wearing protective clothing that also covers your head, neck, arms and legs
 - using a sunscreen with a high protection factor.
@@ -1965,7 +1982,7 @@ Myclausen has a moderate influence on your ability to drive or use any tools or 
 
 ## Myclausen contains sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'
 
 ## 3. How to take Myclausen
 
@@ -1986,7 +2003,7 @@ The amount you take depends on the type of transplant you have had. The usual do
 ## Children aged 2 to 18 years
 
 - The dose given will vary depending on the size of the child.
-- Your doctor will decide the most appropriate dose based on your child's height and weight (body surface area - measured as square metres or 'm 2 '). The recommended dose is 600 mg per m 2 taken twice a day.
+- Your doctor will decide the most appropriate dose based on your child's height and weight (body surface area -measured as square metres or 'm 2 ' ). The recommended dose is 600 mg per m 2 taken twice a day.
 
 ## Heart transplant
 
@@ -2038,11 +2055,11 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## Talk to a doctor straight away if you notice any of the following serious side effects - you may need urgent medical treatment:
+## Talk to a doctor straight away if you notice any of the following serious side effects -you may need urgent medical treatment:
 
 - you have a sign of infection such as a fever or sore throat
 - you have any unexpected bruising or bleeding
-- you have a rash, swelling of your face, lips, tongue or throat, with difficulty breathing - you may be having a serious allergic reaction to the medicine (such as anaphylaxis, angioeodema).
+- rash, itching, hives, breathlessness or difficult breathing, wheezing or coughing, lightheadedness, dizziness, changes in levels of consciousness, hypotension, with or without mild generalized itching, skin reddening and facial/throat swelling (symptoms of severe allergic reaction)
 
 ## Usual problems
 
@@ -2054,7 +2071,7 @@ Children may be more likely than adults to have some side effects. These include
 
 ## Fighting infections
 
-Myclausen reduces your body's defences. This is to stop you rejecting your transplant. As a result, your body will not be as good as normal at fighting infections. This means you may catch more infections than usual. This includes infections of the brain, skin, mouth, stomach and gut, lungs and urinary system.
+Myclausen reduces your body's defence s. This is to stop you rejecting your transplant. As a result, your body will not be as good as normal at fighting infections. This means you may catch more infections than usual. This includes infections of the brain, skin, mouth, stomach and gut, lungs and urinary system.
 
 ## Lymph and skin cancer
 
@@ -2070,9 +2087,9 @@ You may get general side effects affecting your body as a whole. These include s
 
 - acne, cold sores, shingles, skin growth, hair loss, rash, itching.
 
-## Urinary problems such as:
-
 <div style=\"page-break-after: always\"></div>
+
+## Urinary problems such as:
 
 - blood in the urine.
 
@@ -2125,11 +2142,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The active substance is mycophenolate mofetil. Each tablet contains 500 mg mycophenolate mofetil
 
-The other ingredients are:
-
 <div style=\"page-break-after: always\"></div>
 
-## Tablet core:
+The other ingredients are:
+
+Tablet core:
 
 Microcrystalline cellulose, povidone (K-30), croscarmellose sodium, magnesium stearate
 
@@ -2155,7 +2172,9 @@ Passauer Pharma GmbH Eiderstedter Weg 3 14129 Berlin Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Passauer Pharma GmbH, Duitsland/Allemagne/Deutschland Tél/Tel: +49(0)3074460-11
+## België/Belgique/Belgien
+
+Passauer Pharma GmbH, Duitsland/Allemagne/Deutschland Tél/Tel: +49(0)3074460-11
 
 ## България
 
@@ -2187,7 +2206,9 @@ Passauer Pharma GmbH, Allemagne/Deutschland Tél/Tel: +49(0)3074460-11
 
 ## Magyarország
 
-Passauer Pharma GmbH, Németország Tel: +49(0)3074460-11
+Passauer Pharma GmbH, Németország
+
+Tel: +49(0)3074460-11
 
 ## Malta
 
@@ -2273,9 +2294,7 @@ Passauer Pharma GmbH, Nemčija Tel: +49(0)3074460-11
 
 ## Slovenská republika
 
-Passauer Pharma GmbH, Nemecko
-
-Tel: +49(0)3074460-11
+Passauer Pharma GmbH, Nemecko Tel: +49(0)3074460-11
 
 ## Suomi/Finland
 
@@ -2287,9 +2306,9 @@ Passauer Pharma GmbH, Tyskland Tel: +49(0)3074460-11
 
 ## United Kingdom (Northern Ireland)
 
-Passauer Pharma GmbH,
+Passauer Pharma GmbH, Germany
 
-Germany Tel: +49(0)3074460-11
+Tel: +49(0)3074460-11
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2334,7 +2353,7 @@ Myclausen should be used together with other medicines:
 
 Mycophenolate causes birth defects and miscarriage. If you are a woman who could become pregnant, you must provide a negative pregnancy test before starting treatment and must follow the contraception advice given to you by your doctor.
 
-Your doctor will speak to you and give you written information, particularly on the effects of mycophenolate on unborn babies. Read the information carefully and follow the instructions. If you do not fully understand these instructions, please ask your doctor to explain them again before you take mycophenolate. See also further information in this section under 'Warnings and precautions' and 'Pregnancy and breast-feeding'.
+Your doctor will speak to you and give you written information, particularly on the effects of mycophenolate on unborn babies. Read the information carefully and follow the instructions. If you do not fully understand these instructions, please ask your doctor to explain them again before you take mycophenolate. See also further information in this section under 'Warnings and precautions' and 'Pregnancy and breast -feeding'.
 
 ## Do not take Myclausen
 
@@ -2365,7 +2384,7 @@ If any of the above apply to you (or you are not sure), talk to your doctor stra
 
 ## The effect of sunlight
 
-Myclausen reduces your body's defences. As a result, there is an increased risk of skin cancer. Limit the amount of sunlight and UV light you get. Do this by:
+Myclausen reduces your body's defence s. As a result, there is an increased risk of skin cancer. Limit the amount of sunlight and UV light you get. Do this by:
 
 - wearing protective clothing that also covers your head, neck, arms and legs
 - using a sunscreen with a high protection factor.
@@ -2454,7 +2473,7 @@ Myclausen has a moderate influence on your ability to drive or use any tools or 
 
 ## Myclausen contains sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium-free'
+This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium -free'
 
 ## 3. How to take Myclausen
 
@@ -2475,7 +2494,7 @@ The amount you take depends on the type of transplant you have had. The usual do
 ## Children aged 2 to 18 years
 
 - The dose given will vary depending on the size of the child.
-- Your doctor will decide the most appropriate dose based on your child's height and weight (body surface area - measured as square metres or 'm 2 '). The recommended dose is 600 mg per m 2 taken twice a day.
+- Your doctor will decide the most appropriate dose based on your child's height and weight (body surface area measured as square metres or 'm 2 ' ). The recommended dose is 600 mg per m 2 taken twice a day.
 
 ## Heart transplant
 
@@ -2536,24 +2555,23 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## Talk to a doctor straight away if you notice any of the following serious side effects - you may need urgent medical treatment:
+## Talk to a doctor straight away if you notice any of the following serious side effects -you may need urgent medical treatment:
 
 - you have a sign of infection such as a fever or sore throat
 - you have any unexpected bruising or bleeding
-- you have a rash, swelling of your face, lips, tongue or throat, with difficulty breathing - you may be having a serious allergic reaction to the medicine (such as anaphylaxis, angioeodema).
+- rash, itching, hives, breathlessness or difficult breathing, wheezing or coughing, lightheadedness, dizziness, changes in levels of consciousness, hypotension, with or without mild generalized itching, skin reddening and facial/throat swelling (symptoms of severe allergic reaction)
 
 ## Usual problems
 
 Some of the more usual problems are diarrhoea, fewer white cells or red cells in your blood, infection and vomiting. Your doctor will do regular blood tests to check for any changes in
 
-- •
 - the number of your blood cells or signs of infections
 
 Children may be more likely than adults to have some side effects. These include diarrhoea, infections, fewer white cells and fewer red cells in the blood.
 
 ## Fighting infections
 
-Myclausen reduces your body's defences. This is to stop you rejecting your transplant. As a result, your body will not be as good as normal at fighting infections. This means you may catch more infections than usual. This includes infections of the brain, skin, mouth, stomach and gut, lungs and urinary system.
+Myclausen reduces your body's defence s. This is to stop you rejecting your transplant. As a result, your body will not be as good as normal at fighting infections. This means you may catch more infections than usual. This includes infections of the brain, skin, mouth, stomach and gut, lungs and urinary system.
 
 ## Lymph and skin cancer
 
@@ -2563,9 +2581,9 @@ As can happen in patients taking this type of medicine (immune-suppressants), a 
 
 You may get general side effects affecting your body as a whole. These include serious allergic reactions (such as anaphylaxis, angioeodema), fever, feeling very tired, difficulty sleeping, pains (such as stomach, chest, joint or muscle), headache, flu symptoms and swelling.
 
-Other unwanted effects may include:
-
 <div style=\"page-break-after: always\"></div>
+
+Other unwanted effects may include:
 
 ## Skin problems such as
 
@@ -2620,9 +2638,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## 6. Contents of the pack and other information
 
-## What Myclausen contains
-
 <div style=\"page-break-after: always\"></div>
+
+## What Myclausen contains
 
 The active substance is mycophenolate mofetil. Each capsule contains 250 mg mycophenolate mofetil. The other ingredients are:
 
@@ -2630,7 +2648,9 @@ Capsule content:
 
 pre-gelatinised starch (maize), croscarmellose sodium, povidone (K-30), magnesium stearate
 
-Capsule shells: gelatine, titanium dioxide (E 171)
+Capsule shells:
+
+gelatine, titanium dioxide (E 171)
 
 ## What Myclausen looks like and contents of the pack
 
@@ -2664,13 +2684,9 @@ Pharmagen CZ, s.r.o. Česká republika Tel: +420 721 137 749
 
 ## Danmark
 
-Passauer Pharma GmbH, Tyskland Tlf: +49(0)3074460-11
+Passauer Pharma GmbH, Tyskland
 
-## Deutschland
-
-Aristo Pharma GmbH, Deutschland
-
-Tel: +49 3071094-4200
+Tlf: +49(0)3074460-11
 
 ## Lietuva
 
@@ -2688,17 +2704,19 @@ Passauer Pharma GmbH, Németország
 
 Tel: +49(0)3074460-11
 
-## Malta
+Malta
 
-Passauer Pharma GmbH, IlĠermanja Tel: +49(0)3074460-11
+Passauer Pharma GmbH,
 
-## Nederland
-
-Passauer Pharma GmbH, Duitsland
+IlĠermanja
 
 Tel: +49(0)3074460-11
 
 <div style=\"page-break-after: always\"></div>
+
+## Deutschland
+
+Aristo Pharma GmbH, Deutschland Tel: +49 3071094-4200
 
 ## Eesti
 
@@ -2730,21 +2748,15 @@ Passauer Pharma GmbH, Þýskaland Sími: +49(0)3074460-11
 
 ## Italia
 
-Passauer Pharma GmbH, Germania
-
-Tel: +49(0)3074460-11
+Passauer Pharma GmbH, Germania Tel: +49(0)3074460-11
 
 ## Κύπρος
 
 ISANGEN PHARMA CYPRUS LTD Guricon House, Ηνωμένων Εθνών 48, 2ος &amp; 3ος όροφος 6042, Λάρνακα, Κύπρος Τηλ.: +357 -24-638833
 
-## Latvija
+## Nederland
 
-Passauer Pharma GmbH, Vācija Tel: +49(0)3074460-11
-
-## This leaflet was last revised in {MM/YYYY}
-
-Detailed information on this medicine is available on the European Medicines Agency web site:
+Passauer Pharma GmbH, Duitsland Tel: +49(0)3074460-11
 
 ## Norge
 
@@ -2772,27 +2784,25 @@ Passauer Pharma GmbH, Nemčija Tel: +49(0)3074460-11
 
 ## Slovenská republika
 
-Passauer Pharma GmbH, Nemecko
-
-Tel: +49(0)3074460-11
+Passauer Pharma GmbH, Nemecko Tel: +49(0)3074460-11
 
 ## Suomi/Finland
 
 Passauer Pharma GmbH, Saksa Puh/Tel: +49(0)3074460-11
 
-## Sverige
-
-Passauer Pharma GmbH, Tyskland Tel: +49(0)3074460-11
-
-## United Kingdom (Northern Ireland)
-
-Passauer Pharma GmbH, Germany
-
-Tel: +49(0)3074460-11
+Sverige Passauer Pharma GmbH, Tyskland Tel: +49(0)3074460-11
 
 <div style=\"page-break-after: always\"></div>
 
-http://www.ema.europa.eu.
+Latvija Passauer Pharma GmbH, Vācija Tel: +49(0)3074460-11
+
+## This leaflet was last revised in {MM/YYYY}
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+United Kingdom (Northern Ireland) Passauer Pharma GmbH, Germany
+
+Tel: +49(0)3074460-11
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2806,11 +2816,11 @@ http://www.ema.europa.eu.
 
 Taking into account the PRAC Assessment Report on the PSUR(s) for mycophenolate mofetil, mycophenolic acid, the scientific conclusions of PRAC are as follows:
 
-In view of available data regarding excretion of mycophenolic acid in human milk from the literature, the PRAC considers that excretion of mycophenolic acid in human milk is at least a reasonable possibility. The PRAC concluded that the product information of products containing mycophenolate mofetil, mycophenolic acid should be amended accordingly.
+In view of available data on anaphylactic reactions from the literature and spontaneous reports including in cases a close temporal relationship, a positive de-challenge and/or re-challenge, the PRAC considers a causal relationship between mycophenolate mofetil, mycophenolic acid and anaphylactic reactions is at least a reasonable possibility. The PRAC concluded that the product information of products containing mycophenolate mofetil, mycophenolic acid should be amended accordingly.
 
 Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
 
-## Grounds for the variation to the terms of the marketing authorisation(s)
+Grounds for the variation to the terms of the marketing authorisation(s)
 
 On the basis of the scientific conclusions for mycophenolate mofetil, mycophenolic acid the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing mycophenolate mofetil, mycophenolic acid is unchanged subject to the proposed changes to the product information
 

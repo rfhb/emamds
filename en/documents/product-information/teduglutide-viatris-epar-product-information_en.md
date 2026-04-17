@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-10 11:20:42
+document_datetime: 2026-04-15 15:43:19
 document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/teduglutide-viatris-epar-product-information_en.pdf
 document_name: teduglutide-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 9.3502542
-conversion_datetime: 2026-03-17 18:57:27.235471
+processing_time: 9.2807059
+conversion_datetime: 2026-04-17 15:36:04.998899
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.80.0
-  docling-core: 2.70.1
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -235,11 +235,11 @@ Colonoscopy/sigmoidoscopy is recommended for all children and adolescents after 
 
 <div style=\"page-break-after: always\"></div>
 
-Caution is needed when administering teduglutide to persons with a known hypersensitivity to tetracycline (see section 4.3).
+Caution is needed when administering teduglutide to persons with a known hypersensitivity to tetracycline (see section 4.4).
 
 ## Excipients
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -403,7 +403,7 @@ Reduction in parenteral nutrition calories:
 
 In infants, the mean change in PS caloric intake at EOT from baseline was -13.8±3.17 kcal/kg/day (25.7%).
 
-Reduction in infusion time:
+## Reduction in infusion time:
 
 There was no change in daily PS usage hours in the 2 infants during the study.
 
@@ -473,7 +473,7 @@ The mean reduction in parenteral nutrition (n=30) was 7.55 l/week (a 65.6% reduc
 
 Of the 39 placebo subjects, 29 completed 24 months of treatment with teduglutide. The mean reduction in parenteral nutrition was 3.11 l/week (an additional 28.3% reduction). Sixteen (16, 55.2%) of the 29 completers achieved a 20% or greater reduction of parenteral nutrition. At the end of study, 14 (48.3%), 7 (24.1%) and 5 (17.2%) patients achieved a reduction of 1, 2, or 3 days per week in parenteral nutrition, respectively. Two (2) subjects were weaned off their parenteral support while on teduglutide.
 
-Of the 12 subjects not randomised in the pivotal study, 6 completed 24 months of treatment with teduglutide. The mean reduction in parenteral nutrition was 4.0 l/week (39.4% reduction from baseline - the start of the extension study) and 4 of the 6 completers (66.7%) achieved a 20% or greater reduction in parenteral support. At the end of study, 3 (50%), 2 (33%) and 2 (33%) achieved a reduction of 1, 2, or 3 days per week in parenteral nutrition, respectively. One subject was weaned off their parenteral support while on teduglutide.
+Of the 12 subjects not randomised in the pivotal study, 6 completed 24 months of treatment with teduglutide. The mean reduction in parenteral nutrition was 4.0 l/week (39.4% reduction from baseline -the start of the extension study) and 4 of the 6 completers (66.7%) achieved a 20% or greater reduction in parenteral support. At the end of study, 3 (50%), 2 (33%) and 2 (33%) achieved a reduction of 1, 2, or 3 days per week in parenteral nutrition, respectively. One subject was weaned off their parenteral support while on teduglutide.
 
 In another phase 3 double-blind, placebo-controlled study in patients with SBS, who required parenteral nutrition, patients received a 0.05 mg/kg/day dose (n=35), a 0.10 mg/kg/day dose (n=32) of teduglutide or placebo (n=16) for up to 24 weeks.
 
@@ -599,7 +599,7 @@ If not used immediately, in-use storage times and conditions are the responsibil
 
 Powder
 
-Store in a refrigerator (2 °C - 8 °C).
+Store in a refrigerator (2 °C -8 °C).
 
 Do not freeze.
 
@@ -659,9 +659,19 @@ All needles and syringes should be disposed of in a sharps disposal container.
 
 MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park Mulhuddart, Dublin 15 DUBLIN Ireland
+Viatris Limited
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+Damastown Industrial Park
+
+Mulhuddart, Dublin 15
+
+DUBLIN
+
+Ireland
+
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/25/2005/001
 
@@ -779,7 +789,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator (2 °C - 8 °C).
+Store in a refrigerator (2 °C -8 °C).
 
 Do not freeze.
 
@@ -789,15 +799,7 @@ After reconstitution, the solution should be used immediately.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited
-
-Damastown Industrial Park
-
-Mulhuddart, Dublin 15
-
-DUBLIN
-
-Ireland
+Viatris Limited Damastown Industrial Park Mulhuddart, Dublin 15 DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -815,7 +817,7 @@ Lot
 
 Teduglutide Viatris
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -829,19 +831,15 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-Vial label
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Vial label
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Teduglutide Viatris 5 mg powder for solution for injection teduglutide Subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
@@ -858,31 +856,33 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+<div style=\"page-break-after: always\"></div>
 
-Solvent - Pre-filled syringe label
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| Solvent - Pre-filled syringe label                               |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Solvent for Teduglutide Viatris Subcutaneous use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 3. EXPIRY DATE
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.5 ml
-
-## 6. OTHER
-
-<div style=\"page-break-after: always\"></div>
 
 | 6.   | OTHER   |
 |------|---------|
@@ -925,7 +925,7 @@ Teduglutide Viatris is used to treat adults, children and adolescents (aged 4 mo
 
 ## Do not use Teduglutide Viatris
 
-- -if you are allergic to teduglutide or any of the other ingredients of this medicine (listed in section 6) or trace residues of tetracycline.
+- -if you are allergic to teduglutide or any of the other ingredients of this medicine (listed in section 6).
 - -if you have or are suspected to have cancer.
 - -if you have had cancer in the gastrointestinal tract, including liver, gallbladder or bile ducts, and pancreas within the last five years.
 
@@ -952,7 +952,7 @@ Your doctor will take special care and monitor your small bowel function and mon
 
 ## Medical check-ups before and during treatment with Teduglutide Viatris
 
-Before you start treatment with this medicine, you will need to have a test done to see if there is blood in the stool. You will also have a colonoscopy done (a procedure to see inside your colon and rectum to check for the presence of polyps (small abnormal growths) and have them removed) if you have unexplained blood in your bowel movements (stools). If polyps are found before your treatment with Teduglutide Viatris, your doctor will decide whether you should use this medicine. Teduglutide Viatris should not be used if a cancer is detected during your colonoscopy. Your doctor will perform further colonoscopies if you continue treatment with Teduglutide Viatris. The doctor will monitor your child's body fluids and electrolytes as an imbalance may cause fluid overload or dehydration.
+Before you start treatment with this medicine, you will need to have a test done to see if there is blood in the stool. You will also have a colonoscopy done (a procedure to see inside your colon and rectum to check for the presence of polyps (small abnormal growths) and have them removed) if you have unexplained blood in your bowel movements (stools). If polyps are found before your treatment with Teduglutide Viatris, your doctor will decide whether you should use this medicine. Teduglutide Viatris should not be used if a cancer is detected during your colonoscopy. Your doctor will perform further colonoscopies if you continue treatment with Teduglutide Viatris. The doctor will monitor your child's body fluids and electrolytes as an imbalance may cause fluid overload or dehydration .
 
 ## Children aged below 1 year and above 4 months
 
@@ -978,7 +978,7 @@ This medicine may cause you to feel dizzy. If this happens to you, do not drive 
 
 ## Teduglutide Viatris contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium -free'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1054,8 +1054,7 @@ Very common (may affect more than 1 in 10 people):
 - -Cough, shortness of breath
 - -Polyps (small abnormal growths) in your large bowel
 - -Passing gas (flatulence)
-- -
-- Narrowing or blockage of your pancreatic duct, which may cause inflammation of the pancreas
+- -Narrowing or blockage of your pancreatic duct, which may cause inflammation of the pancreas
 - -Inflammation of the gallbladder
 
 ## Uncommon (may affect up to 1 in 100 people)
@@ -1088,7 +1087,7 @@ Do not use this medicine after the expiry date which is stated on the carton, vi
 
 ## Powder
 
-Store in a refrigerator (2 °C - 8 °C).
+Store in a refrigerator (2 °C -8 °C).
 
 Do not freeze.
 
@@ -1144,9 +1143,11 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 Майлан ЕООД
 
-Тел.: +359 2 44 55 400
+Тел
 
-## Česká republika
+.: +359 2 44 55 400
+
+## Č eská republika
 
 Viatris CZ s.r.o.
 
@@ -1154,7 +1155,9 @@ Tel: + 420 222 004 400
 
 ## Danmark
 
-Viatris ApS Tlf: +45 28 11 69 32
+Viatris ApS
+
+Tlf: +45 28 11 69 32
 
 ## Deutschland
 
@@ -1170,11 +1173,15 @@ Tel: + 372 6363 052
 
 ## Ελλάδα
 
-Viatris Hellas Ltd Τηλ: +30 2100 100 002
+Viatris Hellas Ltd
+
+Τηλ: +30 2100 100 002
 
 ## España
 
-Viatris Pharmaceuticals, S.L. Tel: + 34 900 102 712
+Viatris Pharmaceuticals, S.L.
+
+Tel: + 34 900 102 712
 
 ## France
 
@@ -1184,7 +1191,9 @@ Tél: +33 4 37 25 75 00
 
 ## Hrvatska
 
-Viatris Hrvatska d.o.o. Tel: +385 1 23 50 599
+Viatris Hrvatska d.o.o.
+
+Tel: +385 1 23 50 599
 
 ## Ireland
 
@@ -1214,15 +1223,21 @@ Tel: +370 5 205 1288
 
 Viatris
 
-Tél/Tel: + 32 (0)2 658 61 00 (Belgique/Belgien)
+Tél/Tel: + 32 (0)2 658 61 00
+
+(Belgique/Belgien)
 
 ## Magyarország
 
-Viatris Healthcare Kft. Tel.: + 36 1 465 2100
+Viatris Healthcare Kft.
+
+Tel.: + 36 1 465 2100
 
 ## Malta
 
-V.J. Salomone Pharma Ltd Tel: + 356 21 22 01 74
+V.J. Salomone Pharma Ltd
+
+Tel: + 356 21 22 01 74
 
 ## Nederland
 
@@ -1238,15 +1253,21 @@ Tlf: + 47 66 75 33 00
 
 ## Österreich
 
-Viatris Austria GmbH Tel: +43 1 86390
+Viatris Austria GmbH
+
+Tel: +43 1 86390
 
 ## Polska
 
-Viatris Healthcare Sp. z o.o. Tel.: + 48 22 546 64 00
+Viatris Healthcare Sp. z o.o.
+
+Tel.: + 48 22 546 64 00
 
 ## Portugal
 
-Mylan, Lda. Tel: + 351 214 127 200
+Mylan, Lda.
+
+Tel: + 351 214 127 200
 
 ## România
 
@@ -1262,7 +1283,9 @@ Tel: + 386 1 23 63 180
 
 ## Slovenská republika
 
-Viatris Slovakia s.r.o. Tel: +421 2 32 199 100
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
 
 ## Suomi/Finland
 
@@ -1270,13 +1293,15 @@ Viatris Oy
 
 Puh/Tel: +358 20 720 9555
 
-<div style=\"page-break-after: always\"></div>
-
 ## Κύπρος
 
 CPO Pharmaceuticals Limited
 
-Τηλ: +357 22863100
+Τηλ
+
+: +357 22863100
+
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -1307,7 +1332,7 @@ Tel: +46 (0)8 630 19 00
 - -Do not inject Teduglutide Viatris into a vein (intravenously) or muscle (intramuscularly).
 - -Keep Teduglutide Viatris out of the sight and reach of children.
 - -Do not use Teduglutide Viatris after the expiry date which is stated on the carton, the vial and the pre-filled syringe. The expiry date refers to the last day of that month.
-- -Store in a refrigerator (2 °C - 8 °C).
+- -Store in a refrigerator (2 °C -8 °C).
 - -Do not freeze.
 - -After reconstitution, from a microbiological point of view, the solution should be used immediately. However, chemical and physical stability has been demonstrated for 3 hours at 20-25 ºC.
 - -Do not use Teduglutide Viatris if you notice that the solution is cloudy or contains particulate matter.
@@ -1409,6 +1434,8 @@ NOTE: If your doctor has told you that you need two vials, prepare a second pre-
 - 3.6 Check for air bubbles. If air bubbles are present, gently tap the syringe until they rise to the top. Then gently push up the plunger to expel the air.
 
 <div style=\"page-break-after: always\"></div>
+
+wist
 
 <!-- image -->
 

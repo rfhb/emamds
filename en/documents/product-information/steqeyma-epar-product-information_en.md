@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-25 14:55:07
+document_datetime: 2026-04-16 19:26:53
 document_pages: 184
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/steqeyma-epar-product-information_en.pdf
 document_name: steqeyma-epar-product-information_en.pdf
 version: success
-processing_time: 56.4742372
-conversion_datetime: 2026-03-01 19:54:48.19925
+processing_time: 46.0733848
+conversion_datetime: 2026-04-17 15:32:33.616243
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -84,7 +84,7 @@ a Approximately 6 mg/kg
 
 The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the Steqeyma solution for injection (vial) and solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC.
 
-## Elderly (≥ 65 years)
+## Elderly ( ≥ 65 years)
 
 No dose adjustment is needed for elderly patients (see section 4.4).
 
@@ -202,7 +202,7 @@ Cases of lupus-related conditions have been reported in patients treated with us
 
 ## Special populations
 
-## Elderly (≥ 65 years)
+## Elderly ( ≥ 65 years)
 
 No overall differences in efficacy or safety in patients age 65 and older who received ustekinumab were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
@@ -715,7 +715,7 @@ The recommended posology of Steqeyma is an initial dose of 45 mg administered su
 
 Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
 
-## Elderly (≥ 65 years)
+## Elderly ( ≥ 65 years)
 
 No dose adjustment is needed for elderly patients (see section 4.4).
 
@@ -819,7 +819,7 @@ Immunomodulators and/or corticosteroids may be continued during treatment with S
 
 In Crohn's disease, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
 
-## Elderly (≥ 65 years)
+## Elderly ( ≥ 65 years)
 
 No dose adjustment is needed for elderly patients (see section 4.4).
 
@@ -933,7 +933,7 @@ Cases of lupus-related conditions have been reported in patients treated with us
 
 ## Special populations
 
-## Elderly (≥ 65 years)
+## Elderly ( ≥ 65 years)
 
 No overall differences in efficacy or safety in patients age 65 and older who received ustekinumab were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
@@ -1530,7 +1530,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 Steqeyma 45 mg solution for injection
 
-18 months
+2 years
 
 Individual vials may be stored at room temperature up to 30 °C for a maximum single period of up to 15 days in the original carton in order to protect from light. Record the date when the vial is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a vial has been stored at room temperature (up to 30 °C), it should not be returned to the refrigerator. Discard the vial if not used within 15 days at room temperature storage or by the original expiry date, whichever is earlier.
 
@@ -1546,7 +1546,11 @@ Individual pre-filled syringes may be stored at room temperature up to 25 °C fo
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial or pre-filled syringe in the outer carton in order to protect from light. If needed, individual pre-filled syringes may be stored at room temperature up to 25 °C, and individual vials may be stored at room temperature up to 30 °C (see section 6.3).
+Store in a refrigerator (2 °C - 8 °C). Do not freeze.
+
+Keep the vial or pre-filled syringe in the outer carton in order to protect from light.
+
+If needed, individual pre-filled syringes may be stored at room temperature up to 25 °C, and individual vials may be stored at room temperature up to 30 °C (see section 6.3).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1814,7 +1818,7 @@ Cases of lupus-related conditions have been reported in patients treated with us
 
 ## Special populations
 
-## Elderly (≥ 65 years)
+## Elderly ( ≥ 65 years)
 
 No overall differences in efficacy or safety in patients age 65 and older who received ustekinumab were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
@@ -3987,9 +3991,7 @@ Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.co
 
 ## България
 
-Celltrion Healthcare Hungary Kft.
-
-Teл.: + 36 1 231 0493
+Celltrion Healthcare Hungary Kft. Teл.: + 36 1 231 0493
 
 ## Česká republika
 
@@ -4202,6 +4204,12 @@ This Steqeyma vial is for single use only. It contains 45 mg of Steqeyma for inj
 
 <div style=\"page-break-after: always\"></div>
 
+Plunger rod
+
+Vial
+
+Protective cap
+
 - Do not put the Steqeyma vial into direct sunlight.
 - Keep Steqeyma vial and all medicines out of the sight and reach of children. Contains small parts.
 
@@ -4232,6 +4240,12 @@ Note: You may need a prescription from your healthcare provider to get syringes 
 
 <div style=\"page-break-after: always\"></div>
 
+Carton containing
+
+STEQEYMA vial wipes
+
+EXP: MM/YYYY
+
 Figure B
 
 <!-- image -->
@@ -4252,6 +4266,12 @@ Figure C
 - If the vial does not reach room temperature, this could cause the injection to feel uncomfortable and make it hard to inject.
 
 <div style=\"page-break-after: always\"></div>
+
+30
+
+minutes
+
+EXP: MM/YYYY
 
 Figure D
 
@@ -4280,6 +4300,10 @@ Figure F
 
 <div style=\"page-break-after: always\"></div>
 
+= Caregiver ONLY
+
+= Self-injection and Caregiver
+
 ## 6. Choose an appropriate injection site (see Figure G).
 
 - a. You may inject into:
@@ -4306,6 +4330,8 @@ Figure H
 
 - a. Clean the skin with an alcohol swab where you plan to give your injection using a circular motion (see Figure I ).
 - Let your skin dry before injecting. Do not blow on or touch the injection site again before giving the injection.
+
+Front
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4342,13 +4368,13 @@ Figure J
 
 <div style=\"page-break-after: always\"></div>
 
+prescribed dose.
+
 - b. Leave the needle in the vial and turn both the syringe and vial upside down (vial on top).
 - c. Hold the syringe and vial firmly in one hand. Make sure the tip of the needle is in the liquid.
 - It is important that the needle tip is always in the liquid. This stops air bubbles from forming in the syringe.
 - d. With your other hand, pull on the plunger rod to fill the syringe with the amount of liquid prescribed by your doctor. (see Figure K ).
 - Fill the syringe until the black tip of the plunger lines up with the mark that matches your prescribed dose.
-
-09
 
 Figure K
 
@@ -4374,8 +4400,14 @@ Figure L
 
 <div style=\"page-break-after: always\"></div>
 
+· Do not pull bac
+
+45°
+
 - b. With a quick and dart-like motion, insert the needle completely into the pinched skin at a 45degree angle (see Figure M ).
 - Do not pull back on the plunger rod at any time.
+
+OR
 
 Figure M
 
@@ -4395,6 +4427,8 @@ Figure N
 - a. After the syringe is empty, release the pinched skin and slowly move the syringe away from the injection site. (see Figure O ).
 - Do not re-cap the used needle. Recapping the used needle can lead to a needle-stick injury.
 - Do not reuse the syringe.
+
+Rigure M
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4825,7 +4859,7 @@ Celltrion Healthcare Norway AS
 
 contact\\_no@celltrionhc.com
 
-Österreich
+## Österreich
 
 Astro-Pharma GmbH Tel: +43 1 97 99 860
 
@@ -4973,7 +5007,15 @@ Figure A
 
 <div style=\"page-break-after: always\"></div>
 
+reparing tor the injection
+
+Figure B
+
+Carton containina
+
 ## Preparing for the Injection
+
+45 г
 
 <!-- image -->
 
@@ -4989,9 +5031,9 @@ Figure D
 
 1. Gather the supplies for the injection.
 - a. Prepare a clean, flat surface, such as a table or counter top, in a well-lit area.
-- b. Take the carton(s) containing the prefilled syringe(s) needed to administer your prescribed dose out of the refrigerator.
+- b. Take the carton(s) containing the pre-fi lled syringe(s) needed to administer your prescribed dose out of the refrigerator.
 - c. Make sure you have the following supplies (see Figure B):
-5. -Carton containing prefi lled syringe
+5. -Carton containing pre-filled syringe
 
 ## Not included in the carton:
 
@@ -5010,6 +5052,10 @@ Figure D
 -  Do not pull back on the plunger rod at any time.
 
 <div style=\"page-break-after: always\"></div>
+
+= Caregiver ONLY
+
+= Self-injection and Caregiver
 
 <!-- image -->
 
@@ -5047,6 +5093,12 @@ Figure G
 
 <div style=\"page-break-after: always\"></div>
 
+Administering the Injection
+
+Rigura H
+
+Tinre
+
 Figure H
 
 <!-- image -->
@@ -5078,9 +5130,15 @@ Figure J
 
 <div style=\"page-break-after: always\"></div>
 
+45°
+
+45°
+
+OR
+
 <!-- image -->
 
-Figure K
+## Figure K
 
 Figure L
 
@@ -5137,9 +5195,7 @@ Figure N
 
 ## Package leaflet: Information for the user
 
-## Steqeyma 90 mg solution for injection in pre-filled syringe
-
-ustekinumab
+## Steqeyma 90 mg solution for injection in pre-filled syringe ustekinumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -5485,9 +5541,7 @@ Celltrion Healthcare Denmark ApS Tlf.: +45 3535 2989 contact\\_dk@celltrionhc.co
 
 ## Deutschland
 
-Celltrion Healthcare Deutschland GmbH Tel: +49 (0)30 346494150
-
-infoDE@celltrionhc.com
+Celltrion Healthcare Deutschland GmbH Tel: +49 (0)30 346494150 infoDE@celltrionhc.com
 
 ## Eesti
 
@@ -5671,7 +5725,23 @@ At the start of treatment, your healthcare provider will assist you with your fi
 
 <div style=\"page-break-after: always\"></div>
 
-## Parts of the Pre-filled Syringe (see Figure A)
+reparing for the Injection
+
+ALCOHOL
+
+## Parts of the Pre-filled Syringe (see Figure A) Cotton hall or
+
+EXP: MM YYYY
+
+## Preparing for the Injection
+
+<!-- image -->
+
+Figure B
+
+Figure C
+
+<!-- image -->
 
 Figure A
 
@@ -5679,9 +5749,9 @@ Figure A
 
 1. Gather the supplies for the injection.
 - a. Prepare a clean, flat surface, such as a table or counter top, in a well-lit area.
-- b. Take the carton(s) containing the prefilled syringe(s) needed to administer your prescribed dose out of the refrigerator.
+- b. Take the carton(s) containing the pre-fi lled syringe(s) needed to administer your prescribed dose out of the refrigerator.
 - c. Make sure you have the following supplies (see Figure B ):
-5. -Carton containing prefi lled syringe
+5. -Carton containing pre-filled syringe
 
 ## Not included in the carton:
 
@@ -5692,19 +5762,23 @@ Figure A
 2. Check the expiration date on the carton (see Figure C).
 -  Do not use it if the expiration date has passed. If the expiration date has passed, return the entire pack to the pharmacy.
 
-## Preparing for the Injection
+Carton
 
-Figure B
-
-<!-- image -->
-
-Figure C
-
-<!-- image -->
+90
 
 <div style=\"page-break-after: always\"></div>
 
+= Caregiver ONLY
+
+= Self-injection and Caregiver
+
+30
+
+minutes
+
 <!-- image -->
+
+Rigure C
 
 Figure D
 
@@ -5757,6 +5831,8 @@ Figure G
 
 <div style=\"page-break-after: always\"></div>
 
+Administering the Injection
+
 Figure H
 
 <!-- image -->
@@ -5790,6 +5866,12 @@ Figure J
 8.  Do not touch the needle. Doing so may result in a needle stick injury.
 
 <div style=\"page-break-after: always\"></div>
+
+45°
+
+45°
+
+OR
 
 <!-- image -->
 
@@ -6305,7 +6387,7 @@ Tālr.:
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-## Slovenija
+Slovenija
 
 OPH Oktal Pharma d.o.o.
 
@@ -6364,7 +6446,21 @@ At the start of treatment, your healthcare provider will assist you with your fi
 
 <div style=\"page-break-after: always\"></div>
 
+prefilled pen
+
+Medicine
+
+Adhesive bandage
+
+Before Use
+
+Needle
+
+Cover
+
 ## Parts of the Steqeyma pre-filled pen (see Figure A)
+
+alcohol swab
 
 Figure A
 
@@ -6386,16 +6482,26 @@ Figure A
 - -Alcohol swab
 - -Adhesive bandage
 - -Sharps disposal container
+2. Check the expiration date on the carton (see Figure C).
+- Do not use it if the expiration date has passed. If the expiration date has passed, return the entire pack to the pharmacy.
 
 Figure B
 
 <!-- image -->
 
-## 2. Check the expiration date on the carton (see Figure C).
+Stopper
 
-- Do not use it if the expiration date has passed. If the expiration date has passed, return the entire pack to the pharmacy.
+ALCOHOL
+
+SWAB
 
 <div style=\"page-break-after: always\"></div>
+
+30
+
+minutes
+
+45 m
 
 Figure C
 
@@ -6428,6 +6534,8 @@ Figure D
 
 <div style=\"page-break-after: always\"></div>
 
+· You may see air b
+
 Figure E
 
 <!-- image -->
@@ -6453,6 +6561,12 @@ Figure F
 - b. Choose a different injection site for each new injection at least 2.5 cm away from the area used for the last injection.
 
 <div style=\"page-break-after: always\"></div>
+
+· Do not blow on or tou
+
+= Caregiver ONLY
+
+] = Self-injection and Caregiver
 
 Figure G
 
@@ -6484,6 +6598,10 @@ Figure I
 
 <div style=\"page-break-after: always\"></div>
 
+90º|0
+
+OR
+
 - Do not remove the cap until you are ready to inject.
 - It is normal to see a few drops of liquid come out of the needle.
 - Do not touch the needle or needle cover. Doing so may result in a needle stick injury because the needle is inside the needle cover.
@@ -6512,6 +6630,22 @@ Figure K
 - c. After you hear the 2 nd 'click,' continue to hold the pre-filled pen firmly against the skin and count slowly to 5 to make sure you inject the full dose.
 
 <div style=\"page-break-after: always\"></div>
+
+· Do not rub the injectic
+
+Start of Injection
+
+1st click
+
+Injection is ongoing
+
+2nd click
+
+Count slowly
+
+to 5
+
+End of Injection
 
 Figure L
 
@@ -6886,9 +7020,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418
-
-BEinfo@celltrionhc.com
+Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
 
 ## България
 
@@ -6960,9 +7092,7 @@ Mint Health Ltd Tel: +356 2093 9800
 
 ## Nederland
 
-Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300
-
-NLinfo@celltrionhc.com
+Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300 NLinfo@celltrionhc.com
 
 ## Norge
 
@@ -7101,7 +7231,27 @@ At the start of treatment, your healthcare provider will assist you with your fi
 
 <div style=\"page-break-after: always\"></div>
 
+-
+
+prefilled pen
+
+Medicine :
+
+Adhesive bandage
+
+Before Use
+
+Sharps dispo
+
+ALCOHOL
+
+SWAB
+
+Cap-
+
 ## Parts of the Steqeyma pre-filled pen (see Figure A)
+
+alcohol swab
 
 Figure A
 
@@ -7131,9 +7281,17 @@ Figure B
 
 - Do not use it if the expiration date has passed. If the expiration date has passed, return the entire pack to the pharmacy.
 
+Stopper
+
+Needle
+
 <div style=\"page-break-after: always\"></div>
 
-EXP:MMYYYY
+30
+
+minutes
+
+90 m
 
 Figure C
 
@@ -7166,6 +7324,10 @@ Figure D
 
 <div style=\"page-break-after: always\"></div>
 
+for the last injection.
+
+· You may see air b
+
 ## Figure E
 
 ## 5. Inspect the medicine.
@@ -7173,6 +7335,10 @@ Figure D
 - a. Look at the medicine and confirm that the liquid is clear to slightly opalescent, colourless to pale yellow (see Figure F ).
 - Do not use the pre-filled pen if the liquid is discoloured, cloudy, or has large particles.
 - You may see air bubbles in the liquid. This is normal.
+
+= Caregiver ONLY
+
+= Self-injection and Caregiver
 
 Figure F
 
@@ -7197,6 +7363,8 @@ Figure G
 - a. Wash your hands with soap and water and dry them thoroughly (see Figure H ).
 
 <div style=\"page-break-after: always\"></div>
+
+· Do not blow on or tou
 
 Figure H
 
@@ -7235,6 +7403,8 @@ Figure J
 - a. Hold the pre-filled pen so that you can see the window.
 - b. Without pinching or stretching the skin, place the pre-filled pen over the injection site at a 90degree angle (see Figure K ).
 
+OR
+
 Figure K
 
 <!-- image -->
@@ -7247,6 +7417,22 @@ Figure K
 - c. After you hear the 2 nd 'click,' continue to hold the pre-filled pen firmly against the skin and count slowly to 5 to make sure you inject the full dose.
 
 <div style=\"page-break-after: always\"></div>
+
+· Do not rub the injectic
+
+Start of Injection
+
+1st click
+
+Injection is ongoing
+
+2nd click
+
+Count slowly
+
+to 5
+
+End of Injection
 
 Figure L
 

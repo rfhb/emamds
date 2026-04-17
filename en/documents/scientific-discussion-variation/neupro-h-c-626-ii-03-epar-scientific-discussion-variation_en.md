@@ -1,690 +1,939 @@
 ---
-document_datetime: 2023-09-21 17:40:37
-document_pages: 21
+document_datetime: 2025-12-17 16:09:51
+document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/scientific-discussion-variation/neupro-h-c-626-ii-03-epar-scientific-discussion-variation_en.pdf
 document_name: neupro-h-c-626-ii-03-epar-scientific-discussion-variation_en.pdf
 version: success
-processing_time: 24.180311
-conversion_datetime: 2025-12-24 20:40:01.048684
+processing_time: 6.8711477
+conversion_datetime: 2026-04-17 15:35:42.45235
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
-<!-- image -->
+## ANNEX I
 
-London, 09 January 2007
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
-EMEA/CHMP/38174/2007
-
-Product name:
-
-Neupro
-
-## Procedure No. EMEA/H/C/000626/II/0003
-
-## SCIENTIFIC DISCUSSION
+<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
+This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
-## 1.1. Introduction
+## 1 . NAME OF THE MEDICINAL PRODUCT
 
-Neupro (rotigotine) is indicated for the treatment of the signs and symptoms of early-stage idiopathic Parkinson's disease.
+Ziihera 300 mg powder for concentrate for solution for infusion.
 
-Parkinson's  disease  (PD)  is  a  neurodegenerative  disorder  characterized  by  a  progressive  loss  of dopaminergic  neurons  in  the  substantia  nigra.  Parkinson's  disease  is  clinically  characterised  by bradykinesia, resting tremor, rigidity and postural reflex impairment. The cause of Parkinson's disease is,  at  present  time,  unknown.  Parkinson's  disease  is  a  slowly  progressive  disease.  Pharmacological intervention  of  Parkinson's  disease  is  symptomatic.  Improvement  of  an  impaired  dopaminergic neurotransmission  is  the  backbone  of  therapy.  About  70%  of  patients  with  PD  will  require symptomatic  therapy  within  2  years  of  disease  onset.  The  choice  between  levodopa+decarboxylase inhibitor or a dopamine-agonist for initial therapy remains controversial. On  the one hand levodopa+decarboxylase inhibitor is more effective  and  better  tolerated  than  dopamine-agonists,  on the other hand there are concerns that it might be toxic to dopaminergic neurons and that it promotes the development of motor fluctuations and dyskinesia.
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Rotigotine  (Neupro)  belongs  to  the  group  of  non-ergolinic  dopamine  agonists  and  shows  a  close structural analogy to dopamine and apomorphine. The currently approved formulations are presented as 10 cm 2 ,  20  cm 2 ,  30 cm 2 and 40 cm 2 transdermal patches containing respectively 4.5 mg, 9.0 mg, 13.5 mg and 18.0 mg of rotigotine, and designed to release respectively 2 mg, 4 mg, 6 mg and 8 mg of rotigotine per 24 hours.
+One vial of powder contains 300 mg of zanidatamab.
 
-The variation refers to an extension of the therapeutic indication to include 'the treatment of the signs and symptoms of advanced idiopathic Parkinson's disease in combination with levodopa, i.e. over the course  of  the  disease,  through  to  late  stages  when  the  effect  of  levodopa  wears  off  or  becomes inconsistent and fluctuations of the therapeutic effect occur (end of dose or 'on-off' fluctuations).'
+After reconstitution, one vial contains 50 mg/mL of zanidatamab.
 
-Consequential changes were made to relevant sections of the Summary Product Characteristics (SPC). The  Package  Leaflet  (PL)  was  updated  accordingly.    In  addition,  contact  details  of  Bulgaria  and Romania local representatives were also included.
+Zanidatamab is a humanised (IgG1) bispecific antibody produced in Chinese Hamster Ovary (CHO) cells by recombinant DNA technology.
 
-## 1.2. Non clinical aspects
+For the full list of excipients, see section 6.1.
 
-The  pharmacokinetic  and  toxicological  results  from  animal  studies,  supportive  of  the  approved formulations have been previously assessed at the time of the initial application for Neupro. The dose of  18  mg  (40  cm 2 patch  size,  i.e  8  mg/24h),  maximum  therapeutic  dose  observed  for  the  currently approved indication, was used as basis to calculate the safety margins of rotigotine.
+## 3. PHARMACEUTICAL FORM
 
-This variation application concerns an extension of indication to include the treatment of signs and symptoms  of  advanced  stage  Parkinson  patients  in  combination  with  levodopa.  The  proposed maximum therapeutic dose is 36 mg (i.e 16 mg/24h) and has been used in the pivotal clinical study SP515, conducted in patients with advanced Parkinson's disease.
+Powder for concentrate for solution for infusion (powder for concentrate).
 
-Within  this  variation  application,  the  MAH  has  therefore  proposed  to  update  the  calculation  of  the safety margins and revise the product information accordingly.
+White lyophilised cake.
 
-The  toxicological  safety  margins  were  calculated  for  the  maximum  human  dose  of  36  mg  for  the treatment  of  advanced  stage  of  Parkinson's  disease  based  on  the  mean  maximum  plasma  levels  in patients , achieved during the maintenance phase (i.e. 6.71 ng/mL).
+## 4. CLINICAL PARTICULARS
 
-<div style=\"page-break-after: always\"></div>
+## 4.1 Therapeutic indications
 
-## Safety ratios at No-Observed-Effect Levels (NOELs)
+Ziihera as monotherapy is indicated for the treatment of adults with unresectable locally advanced or metastatic HER2-positive (IHC3+) biliary tract cancer (BTC) previously treated with at least one prior line of systemic therapy (for biomarker-based patient selection, see section 4.2).
 
-Table 1: Safety ratios at NOELs
+## 4.2 Posology and method of administration
 
-| Maximumtherapeuticdose:             | 36 mg (80 cm²) / 24 hour            | Cmax*: 6.71 ng/mL                   |
-|-------------------------------------|-------------------------------------|-------------------------------------|
-| Repeatdose toxicitystudies          | NOEL(mg/kg)                         | Safety ratio Cmax                   |
-| Rat, 6 months                       | 0.5                                 | 0.3                                 |
-| Monkey,12 months                    | 1                                   | 0.4                                 |
-| Reproductiveanddevelopmentalstudies | Reproductiveanddevelopmentalstudies | Reproductiveanddevelopmentalstudies |
-| Mouse,SegmentII                     | 30foetus                            | 10                                  |
-| Rat,Segment I                       | >15 male                            | >8                                  |
-| Rat,Segment I                       | 1.5 female                          | 0.6                                 |
-| Rat,Segment II, teratogenicity      | 1.5 foetus                          | 0.6                                 |
-| Rabbit, Segment II                  | 25 foetus                           | 74                                  |
+Ziihera must be initiated by a physician experienced in the diagnosis and treatment of patients with biliary tract cancer. It must be administered by a qualified healthcare professional, with appropriate resuscitation equipment available.
 
-At doses above the NOEL, the most prominent systemic effects, such as restlessness and effects on food/water  consumption  and  body  weight  ,  are  mainly  related  to  the  pharmacodynamic,  dopamine agonistic  effects  in  healthy  animals  and/or  the  well-known  influence  of  dopamine  agonists  on  sex hormone (e.g. prolactin) secretion.
+## Patient selection
 
-## Safety ratios at Well Tolerated Dose Levels (WTDLs)
+Patients treated with Ziihera for BTC should have documented HER2-positive tumour status, defined as a score of 3 + by immunohistochemistry (IHC) assessed by a CE-marked in vitro diagnostic (IVD) medical device with the corresponding intended purpose. If a CE-marked IVD is not available, an alternate validated test should be used.
 
-Well  tolerated  dose  levels  (WTDLs)  were  defined  by  the  MAH  as  to  show:  no  substance-related deaths;  no  findings  which  are  not  related  to  the  pharmacodynamic  properties  of  rotigotine;  no irreversible rotigotine-related effects.
+## Posology
 
-Table 2: Safety ratios at Well Tolerated Dose Levels (WTDLs) based on plasma levels
-
-| Maximumtherapeuticdose   | Dose                                  | Cmax 6.71 ng/mL                    |
-|--------------------------|---------------------------------------|------------------------------------|
-| Study                    | 36 mg (80 cm²) / 24 hour WTDL (mg/kg) | Safety ratio Cmax                  |
-| Mouse,3 months, s.c.     | 30                                    | 5                                  |
-| Rat, 3 months, s.c.      | 3                                     | 1                                  |
-| Rat, 6 months, s.c.      | 2.5                                   | 1                                  |
-| Rat, 28 days, i.v.       |                                       | Nodata onplasmalevels available    |
-| Monkey,12months,s.c.     | 10                                    | 7                                  |
-| Monkey, 28 days, i.v     | 8                                     | No data on plasma levels available |
-
-Table 3: Safety ratios at Well Tolerated Dose Levels (WTDLs) based on doses
-
-| Maximumtherapeuticdose:   | Maximumtherapeuticdose:   | 36 mg (80 cm) = 0.4 mg/kg*   | = 14.8 mg/m2** on body surface area**   |
-|---------------------------|---------------------------|------------------------------|-----------------------------------------|
-| Study                     | WTLD (mg/kg)              | Safetyratiobased onmg/kg*    | Safetyratiobased                        |
-| Mouse,3months,s.c.        | 30                        | 75                           | 6.1                                     |
-| Rat, 3 months, s.c.       | 3                         | 7.5                          | 1.2                                     |
-| Rat,6 months, s.c.        | 2.5                       | 6.25                         | 1                                       |
-| Rat, 28 days, i.v.        | 8                         | 20                           | 3.2                                     |
-| Monkey, 12 months, S.C.   | 10                        | 25                           | 8.1                                     |
-| Monkey, 28 days, i.v      |                           | 20                           | 6.5                                     |
+The recommended dose of Ziihera is 20 mg/kg, administered as an intravenous infusion every 2 weeks (every 14 days) until disease progression or unacceptable toxicity. For duration of infusion, see Table 4.
 
 <div style=\"page-break-after: always\"></div>
 
-Given the results provided by the long-term pivotal repeat-dose toxicity studies, which were mainly related to pharmacodynamic, dopamine agonistic related-effects, the use of the WTDL is interesting and may reflect a more realistic estimation of the safety margins.
+## Premedications
 
-Overall, rotigotine did not result in any target organ toxicity. With respect to the toxicological data and relevant non-clinical findings, the CHMP concluded that the safety ratios compared to the maximum intended dose in advanced Parkinsonian patients (36 mg) were acceptable.
+Premedication should be administered 30 to 60 minutes prior to each infusion to prevent potential infusion related reaction. Premedication is recommended to include a corticosteroid, antihistamine, and antipyretic (see section 4.4).
 
-## 1.3. Clinical aspects
+## Dose modifications for left ventricular dysfunction
 
-The clinical development program to support the extension of indication of Neupro to advanced-stage Parkinson's disease included 3 placebo-controlled studies:
+Left ventricular function must be assessed at baseline and at regular intervals during treatment. The recommendations on dose modifications in the event of left ventricular ejection fraction (LVEF) decrease are indicated in Table 1.
 
-- -1 phase II study (SP511) was conducted in patients with advanced stage Parkinson's disease and evaluated dose-response with the following patches: 9 mg/20 cm 2 , 18mg /40 cm 2 and 27mg /60 cm 2 .
-- -2 pivotal phase III studies (SP650 and SP515) , were conducted in patients with advanced-stage Parkinson's  disease.  Both  clinical  studies  were  multicenter,  randomised,  double-blind  and parallel group design, consisting of a titration period in which the patients were titrated to their optimal dose or up to a maximum dose, followed by a maintenance and de-escalation periods. In study SP515, treatment arm included pramixepole, as an active control and the patients were receiving doses up to 36 mg (i.e 16 mg/24h).
+Table 1. Dose modifications for left ventricular dysfunction
 
-Additional  phase  II/IIIb  open-label  studies  were  conducted  and  mainly  evaluated  the  safety  and tolerability of rotigotine in patients with advanced stage Parkinson's disease. Particularly, two phase IIIb  studies  were  performed,  respectively,  to  evaluate  the  effect  of  overnight  switching  from ropinirole,  pramipexole,  or  cabergoline  to  rotigotine  (SP824)  and  the  effect  of  rotigotine  on  early morning motor impairment and sleep disorders (SP826).
+| Left ventricular dysfunction (see section 4.4)   | Severity                                                                                | Treatment modification                                                                                                                                                                                                                                                                                         |
+|--------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Left ventricular dysfunction (see section 4.4)   | Absolute decrease of ≥ 16% points in LVEF from pre- treatment baseline                  | • Withhold treatment for at least 4 weeks. • Repeat LVEF assessment within 4 weeks. • Resume treatment within 4 to 8 weeks, if LVEF returns to normal limits and the absolute decrease is ≤ 15% points from baseline. • If LVEF has not recovered to within 15% points from baseline, permanently discontinue. |
+| Left ventricular dysfunction (see section 4.4)   | LVEF value below 50% and absolute decrease of ≥ 10% points below pre-treatment baseline | • Withhold treatment for at least 4 weeks. • Repeat LVEF assessment within 4 weeks. • Resume treatment within 4 to 8 weeks, if LVEF returns to normal limits and the absolute decrease is ≤ 15% points from baseline. • If LVEF has not recovered to within 15% points from baseline, permanently discontinue. |
 
-## Clinical Efficacy
+## Dose modifications for infusion related reactions
 
-- Dose-Response Study
+Management of infusion related reaction (IRRs) may require reduced infusion rate, dose interruption, or treatment discontinuation as described in Table 2.
 
-## Study SP511
+Table 2. Dose and infusion duration modifications for infusion-related reactions
 
-## METHODS
-
-## Primary objective
-
-The primary objective of this phase II study was to determine the dose group of rotigotine patch that shows efficacy with optimal benefit/risk ratio in subjects with advanced-stage, idiopathic Parkinson's disease.
-
-## Design
-
-SP511  was  randomised,  double-blind,  placebo  controlled  parallel  study  with  4  arms  respectively placebo, rotigotine at 9mg (20 cm 2 ), 18 mg (40cm 2 ) and 27mg (60cm 2 ).
-
-## Study Participants
-
-Subjects  with  idiopathic  Parkinson's  disease  who  were  required  to  exhibit  the  cardinal  sign  of bradykinesia and at least 1 of the additional signs of advanced-stage disease: resting tremor, rigidity, and/or impairment of postural reflexes. Furthermore, these subjects were not adequately controlled on the levodopa dose (in combination with benserazide or carbidopa), which was judged by the treating
+| Infusion related reactions (see sections 4.4 and 4.8)   | Severity                   | Treatment modification                                                                                                                                                                                                                                    |
+|---------------------------------------------------------|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infusion related reactions (see sections 4.4 and 4.8)   | Mild (Grade 1)             | • Reduce infusion rate by 50%. • Subsequent infusions should start at this reduced rate. • Infusion rate for subsequent infusions may be increased gradually to the rate prior to symptoms, as tolerated.                                                 |
+| Infusion related reactions (see sections 4.4 and 4.8)   | Moderate (Grade 2)         | • Hold infusion immediately. • Treat with appropriate therapy. • Resume infusion at 50% of previous infusion rate once symptoms resolve. • Infusion rate for subsequent infusions may be increased gradually to the rate prior to symptoms, as tolerated. |
+| Infusion related reactions (see sections 4.4 and 4.8)   | Severe (Grade 3)           | • Hold infusion immediately. • Promptly treat with appropriate therapy. • Resume infusion at the next scheduled dose at 50% of previous infusion rate once symptoms resolve. • Permanently discontinue for recurrent Grade 3 symptoms.                    |
+| Infusion related reactions (see sections 4.4 and 4.8)   | Life threatening (Grade 4) | • Hold infusion immediately. • Promptly treat with appropriate therapy. • Permanently discontinue.                                                                                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-physician to be optimal. At Baseline, subjects had motor fluctuations with diary confirmation that at least  2.5  hours/day  were  spent  in  the  'off'  state.  Subjects  with  unpredictable  'on'/'off'  fluctuations were excluded from the trial.
+## Dose modifications for pneumonitis
 
-## Treatment study arms
+Management of pneumonitis may require treatment discontinuation as described in Table 3.
 
-In  study  SP511,  the  target  doses  selected  in  patients  with  advanced-stage  Parkinson's  disease  were 9.0mg  (20cm 2 ),  18.0mg  (40cm 2 ),  and  27mg(60cm 2 )  rotigotine.  The  subjects  were  titrated  to  their target doses in weekly increments of 4.5mg (10cm 2 ), starting at 9.0mg/day (20cm 2 ).
+## Table 3. Dose modifications for pneumonitis
 
-Back-titration could be performed once during the entire titration period. Once a back titration was performed, the patient was maintained at the back titrated dose for the remainder of the study period. If  another  dose  reduction  was  necessary,  the  subject  was  withdrawn  from  the  study.  Different combinations of 4 patches (including placebo, 4.5mg, and 9.0mg patches) were used to titrate subjects weekly  for  5  weeks  to  their  target  doses.  Patients  randomised  to  9mg  (20cm 2 )  and  18.mg  (40cm 2 ) received  placebo  patches  for  4  and  2  weeks,  respectively.  Patients  in  each  treatment  group  were maintained  on  the  target  dose  for  7  weeks.  The  maximum  treatment  exposure  to  rotigotine  was  3 months.
+| Pneumonitis (see section 4.4)   | Severity Confirmed   | Treatment modification • Permanently discontinue.   |
+|---------------------------------|----------------------|-----------------------------------------------------|
 
-## Primary endpoint
+## Missed dose
 
-The primary variable was the absolute change from baseline to end of treatment in absolute time spent 'off'.
+If a patient misses a dose of Ziihera, the scheduled dose should be administered as soon as possible. The administration schedule should be adjusted to maintain a 2-week interval between doses.
 
-## RESULTS
+## Special populations
 
-A total of 324 subjects were randomised to treatment: 84 to placebo and 240 to rotigotine (of which 2 discontinued  the  trial  prior  to  receiving  randomised  medication).  Of  the  238  remaining  subjects randomised to rotigotine, 15 never received rotigotine because of sham back titrations.
+## Renal impairment
 
-The different treatment groups were well balanced with respect to age, sex, body weight, ethnic origin, and  duration  of  disease  (range  of  7.3  to  7.9  years).  At  baseline,  the  absolute  time  spent  'off'  was similar across treatment groups (range 5.97 - 6.47 hours). The baseline UPDRS (Unified Parkinson's Disease Rating Scale) scores (I, II, and III) were well balanced between treatment groups. In addition, subject's  distribution  using  Hoehn  &amp;  Yahr  staging,  levodopa  use  at  baseline,  and  agreement  for training of subjects for completion of subject's diaries were well balanced between treatment groups.
+Dose adjustments are not required for patients with mild or moderate renal impairment (eGFR 30 to 89 mL/min estimated using the CKD-EPI). Zanidatamab has not been evaluated in patients with severe renal impairment and patients with end-stage renal disease with or without dialysis. However, due to minor involvement of renal processes in the clearance of zanidatamab, no dose adjustment is recommended for patients with renal impairment as no difference in exposure is expected (see section 5.2).
 
-Table 4 Summary of absolute change fromBaseline to end of Treatiment in absolute time spent \"off' in SP51l (FAS)
+## Hepatic impairment
 
-| Visit              | Statistic                       | Placebo N=81   | 9.0mg Rotigotine N=77   | 18.0mg Rotigotine N=75   | 27.0mg Rotigotine N=77   |
-|--------------------|---------------------------------|----------------|-------------------------|--------------------------|--------------------------|
-| Baseline (Visit 2) | Mean±SD,h                       | 6.32±2.477     | 5.97±2.541              | 6.47±2.632               | 6.04±2.854               |
-| EOT (Visit 9)      | Mean±SD,h                       | 4.48±3.439     | 3.96±3.166              | 4.68±3.434               | 3.68±3.539               |
-| EOT (Visit 9)      | Mean±SD change from Baseline, h | -1.83±3.134    | -2.00±3.337             | -1.79±2.943              | -2.35±3.409              |
-| EOT (Visit 9)      | Adjusted mean (SED)             | -1.81 (0.34)   | -2.13 (0.35)            | -1.72 (0.36)             | -2.44 (0.35)             |
-| EOT (Visit 9)      | Net effect (SED)                |                | -0.32 (0.48)            | 0.09 (0.49)              | -0.63 (0.48)             |
-| EOT (Visit 9)      | I %56                           | 1              | -1.266,0.632            | -0.867.1.049             | -1.580,0.320             |
-| EOT (Visit 9)      | p-value a                       |                |                         |                          | 0.0965                   |
+Dose adjustments are not required for patients with mild hepatic impairment (total bilirubin ≤ upper limit of normal (ULN) and AST &gt; ULN or total bilirubin between 1 and 1.5 times ULN and any AST). Zanidatamab has not been evaluated in patients with moderate (total bilirubin &gt; 1.5 to ≤ 3 ULN and any AST) to severe (total bilirubin &gt; 3 ULN and any AST) hepatic impairment. However, due to minor involvement of hepatic processes in the clearance of zanidatamab, no dose adjustment is recommended for patients with hepatic impairment as no difference in exposure is expected (see section 5.2).
 
-ANCOVA=Analysis of Covariance,CI=confidence interval,EOT=endof Treatment,FAS=Full Analysis Set,SD=standarddeviation,SED=standard errorof the difference
+## Elderly population
 
-a.P-value based on ANCOVA; model included treatment group as a factor, coumtry as a stratification factor,andBaselinevalue asacovariate.
+No dose adjustment is required in patients aged 65 years and over (see section 5.2).
 
-b.Treatment-adjusted meanminus placebo-adjusted mean.
+## Paediatric population
 
-<div style=\"page-break-after: always\"></div>
+Children under the age of 18 were not included in the clinical trials. Hence, the safety, efficacy and pharmacokinetics of zanidatamab have not been established in this population.
 
-Table 5 Summaryof&gt;30%responderratesforrelativechangeinabsolutetimespent\"off
+## Method of administration
 
-at the end of Treatment in SP5ll (FAS)
+Ziihera is administered by intravenous infusion. It must not be administered by intravenous push or as a rapid single bolus injection.
 
-|                  | Placebo N=81   | 9.0mg Rotigotine N=77   | 18.0mg Rotigotine N=75   | 27.0mg Rotigotine N=77   |
-|------------------|----------------|-------------------------|--------------------------|--------------------------|
-| Responder, n (%) | 41 (51)        | 40 (52)                 | 33 (44)                  | 50 (65)                  |
-| p-value          |                | 0.8750                  | 0.4268                   | 0.0780                   |
-| Odds ratio       |                | 1.056                   | 0.763                    | 1.806                    |
-| 95% CI           |                | 0.563.1.982             | 0.403,1.445              | 0.947,3.443              |
+The diluted solution for infusion must have a final concentration of 0.4 to 6 mg/mL zanidatamab.
 
-Results from study SP511 showed consistent improvement after application of rotigotine 27mg (60 cm2) patch.
+For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
 
-## · Main studies
+Table 4. Recommended infusion durations
 
-## Studies SP650 and SP515
-
-## METHODS
-
-## Objectives
-
-The objectives  of  the  2  phase  III  studies  (SP650  and  SP515)  were  to  evaluate  efficacy,  safety  and tolerability of rotigotine transdermal patch as adjuvant to levodopa in advanced idiopathic Parkinson's disease as compared to placebo and  active control i.e. pramipexole (only SP515).
-
-## Study Design
-
-Studies SP650 and SP515 had a randomised, double-blind, placebo controlled parallel study design.
-
-## Study Participants
-
-Subjects  with  advanced  idiopathic  Parkinson's  Disease,  who  experienced  wearing-off  type  motor fluctuations on levodopa.
-
-Subjects were included if they had been diagnosed with idiopathic Parkinson's disease of &gt;3 years in duration, had a Hoehn &amp; Yahr stage II through IV as observed in both the 'on' and 'off' state, were on a stable dose of levodopa of at least 200 mg/day (SP650) or 300 mg/day (SP515) for at least 28 days prior  to  baseline,  were  not  adequately  controlled  on  anti-Parkinson  medication  as  judged  by  the treating investigator to be optimal, had an average of 2.5 hours/day or more spent in the 'off' state at screening; were on a stable dose of all anti-Parkinsonian medications at least 28 days prior to baseline. For the duration of the trial the concurrent anti-Parkinson medication allowed, had to remain stable.
-
-Main exclusion criteria were patients with a history of surgical interventions for Parkinson's disease, serious  concurrent  co-morbidity,  QTc  interval  abnormalities,  orthostatic  hypotension  and  history  of skin sensitivity to adhesives.
+| Dose             | Infusion duration                                     |
+|------------------|-------------------------------------------------------|
+| First and Second | 120-150 minutes                                       |
+| Third and Fourth | 90 minutes, if previous infusions were well-tolerated |
+| Subsequent       | 60 minutes, if previous infusions were well-tolerated |
 
 <div style=\"page-break-after: always\"></div>
 
-## Treatment study arms
+## 4.3 Contraindications
 
-## Procedure
+Hypersensitivity to the active substances or to any of the excipients listed in section 6.1.
 
-The run-in  period  was  approximately  28  days.  The  subsequent  dose  escalation  phase  was  5  weeks (SP650) or 7 weeks (SP515).
+## 4.4 Special warnings and precautions for use
 
-In study SP650, patients were titrated up to the target dose (18 or 27 mg/day) or maximum tolerated doses.
+## Traceability
 
-In  study  SP515,  patients  were  titrated  up  to  the  optimal  dose,  tolerated  dose  or  maximum  dose (36mg/day).
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-The  maintenance  phase  lasted  24  weeks  (SP650)  or  16  weeks  (SP515).  In  the  maintenance  phase, patients remained on the optimal doses determined. During the first 2 weeks of the maintenance phase L-dopa could be reduced.  At the end of the maintenance phase a blinded de-escalation over 8 days (SP650) or 6 days (SP515) days followed.
+## Embryo-foetal toxicity, pregnancy and contraception
 
-## Doses
+Based on the mechanism of action, zanidatamab may cause foetal harm when administered to a pregnant woman. In post-marketing reports of other HER2-directed antibodies, use during pregnancy resulted in cases of oligohydramnios manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death (see section 4.6).
 
-In study SP650, subjects were randomised to rotigotine transdermal patch 18 mg/day, 27 mg/day or placebo. All patients received  two  10 cm 2 patches (placebo patch  or  4.5 mg rotigotine ) and  two 20 cm 2 patches (placebo or 9.0 mg rotigotine).
+Patients should be advised to avoid becoming pregnant while receiving Ziihera. A pregnancy test should be performed before initiating treatment to exclude pregnancy.
 
-Based on the targeted daily dose, the titration schedule is presented in the following table:
+Female patients of childbearing potential should use an effective method of contraception while receiving Ziihera and for 4 months following the last dose (see section 4.6).
 
-Table 6
+## Left ventricular dysfunction
 
-## Daily dose of rotigotine or placebo during the dose titrationphase
+Decreases in LVEF have been reported with medicinal products that block HER2 activity, including zanidatamab. LVEF should be assessed prior to initiation of Ziihera by echocardiogram or multigated acquisition (MUGA) scan and at regular intervals during treatment to ensure that LVEF is within normal limits. If the LVEF declines and has not improved, or has declined further at the subsequent assessment, Ziihera should be discontinued as recommended in Table 1 (see section 4.2).
 
-|                   | Treatment Group                  | Treatment Group                  | Treatment Group                  | Treatment Group                  | Treatment Group    | Treatment Group   |
-|-------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|--------------------|-------------------|
-| Weekof Escalation | Rotigotine targetdose 18.0mg/day | Rotigotine targetdose 18.0mg/day | Rotigotine targetdose 27.0mg/day | Rotigotine targetdose 27.0mg/day | Placebo            | Placebo           |
-|                   | Rotigotine Patches               | Placebo Patches                  | Rotigotine Patches               | Placebo Patches                  | Rotigotine Patches | Placebo Patches   |
-| Week 1            | 1x20cm                           | 2x10cm 1×20cm²                   | 1×20cm²                          | 2x10cm 1x20cm²                   |                    | 2x10cm 2×20cm²    |
-| Week 2            | 1×10cm 1x20cm²                   | 1x10cm² 1x20cm²                  | 1x10cm² 1×20cm²                  | 1x10cm 1x20cm²                   |                    | 2x10cm² 2x20cm²   |
-| Week 3            | 2x20cm²                          | 2×10cm²                          | 2×20cm                           | 2×10cm²                          |                    | 2×10cm² 2×20cm²   |
-| Week 4            | 2×20cm                           | 2×10cm                           | 1x10cm² 2×20cm²                  | 1×10cm²                          |                    | 2×10cm² 2×20cm²   |
-| Week 5            | 2x20cm                           | 2×10cm²                          | 2×10cm² 2x20cm²                  |                                  |                    | 2x10cm² 2×20cm²   |
+Zanidatamab has not been studied in patients with a pre-treatment LVEF value of &lt; 50%; history of myocardial infarction or unstable angina within 6 months; troponin levels consistent with myocardial infarction, or clinically significant cardiac disease such as ventricular arrhythmia requiring therapy, uncontrolled hypertension, or any history of symptomatic congestive heart failure (CHF).
 
-In  study  SP515  subjects  were  randomised  to  rotigotine  transdermal  patch,  pramipexole  capsules  or placebo.
+## Infusion related reactions
 
-The titration schedule for active treatment or corresponding placebo patches/capsules is presented in the following table:
+Ziihera can cause infusion related reactions (IRRs) (see section 4.8). Premedications should be administered prior to each dose , to reduce the risk of IRRs (see section 4.2).
 
-<div style=\"page-break-after: always\"></div>
+Patients should be monitored for signs and symptoms of IRRs during administration and as clinically indicated after completion of infusion. Appropriate emergency medicine and equipment to treat IRRs should be available for immediate use, and IRRs should be managed as recommended in Table 2 (see section 4.2).
 
-Table 7. Contents of weekly titration kits during dose escalation per treatment group
+## Pneumonitis
 
-| Week of Titration   | Treatment Group         | Treatment Group        | Treatment Group       | Treatment Group                              | Treatment Group       | Treatment Group        |
-|---------------------|-------------------------|------------------------|-----------------------|----------------------------------------------|-----------------------|------------------------|
-| Week of Titration   | Rotigotine              | Rotigotine             | Pramipexole           | Pramipexole                                  | Placebo               | Placebo                |
-| Week of Titration   | Rotigotine patches (od) | Placebo capsules (tid) | Placebo patches (od)  | Pramipexole dihydro- chloride capsules (tid) | Placebo patches (od)  | Placebo capsules (tid) |
-| Week 1              | 1 x 20cm²               | 1 x 0.125mg            | 1 x 20cm²             | 1 x 0.125mg                                  | 1 x 20cm²             | 1 x 0.125mg            |
-| Week 2              | 1 x 30cm²               | 1 x 0.25mg             | 1 x 30cm²             | 1 x 0.25 mg                                  | 1 x 30cm²             | 1 x 0.25mg             |
-| Week 3              | 2 x 20cm²               | 1 x 0.5mg              | 2 x 20cm²             | 1 x 0.5 mg                                   | 2 x 20cm²             | 1 x 0.5mg              |
-| Week 4              | 1 x 30cm² + 1 x 20cm²   | 1 x 0.5mg + 1 x 0.25mg | 1 x 30cm² + 1 x 20cm² | 1 x 0.5mg + 1 x 0.25mg                       | 1 x 30cm + 1 x 20cm²  | 1 x 0.5mg + 1 x 0.25mg |
-| Week 5              | 2 x 30cm²               | 2 x 0.5mg              | 2 x 30cm²             | 2 x 0.5mg                                    | 2 x 30cm²             | 2 x 0.5mg              |
-| Week 6              | 2 x 20cm² + 1 x 30cm²   | 1 x 0.25mg + 2 x 0.5mg | 2 x 20cm² + 1 x 30cm² | 1 x 0.25mg + 2 x 0.5mg                       | 2 x 20cm² + 1 x 30cm² | 1 x 0.25mg + 2 x 0.5mg |
-| Week 7              | 2 x 30cm² + 1 x 20cm²   | 3 x 0.5mg              | 2 x 30cm² + 1 x 20cm  | 3 x 0.5mg                                    | 2 x 30cm² + 1 x 20cm  | 3 x 0.5mg              |
+Pneumonitis has been reported with medicinal products that block HER2 activity, including Ziihera. Pneumonitis has been reported in 0.4% of 233 patients treated with Ziihera 20 mg/kg intravenously as a single agent in clinical studies. Patients should be monitored for signs and symptoms of pneumonitis. In the event of confirmed Grade ≥2 pneumonitis, treatment should be permanently discontinued (see section 4.2).
 
-od=once daily, tid=3 times daily
+## Excipients with known effect
 
-## Concomitant treatment
+## Sodium
 
-Subjects had to be on a stable dose of levodopa defined as no change in total daily dose and in the treatment regimen for at least 28 days prior to baseline. Subjects were not permitted to adjust their daily  dose  of  L-DOPA  at  any  time  during  the  course  of  the  trial.  In  case  of  adverse  events  due  to excessive dopaminergic stimulation, the physician could reduce the L-DOPA dose but only in the first 2 weeks of the maintenance phase. Thereafter the dose had to remain stable.
-
-Concurrent medication acting on the dopaminergic system other than levodopa was not allowed. Other anti-Parkinson's drugs and/or CNS active drugs were allowed, provided the dose was stable and kept stable during the trial. In study SP650, COMT-inhibitors were not allowed whereas in study SP515 entacapone was allowed.
-
-## Efficacy endpoints
-
-Subjects recorded the time spent 'off', 'on without troublesome dyskinesias', 'on with troublesome dyskinesias',  sleep,  and  time  of  anti-Parkinson  medication.  Before  study  entry,  subjects  were intensively trained to recognise these motor stages and how to complete their diaries. Three diaries had to be completed for 3 consecutive days prior to the next visit. A diary was considered valid if at least 22 of the 24 hours data were completed. Less than 2 valid diaries out of 3 was considered missing.
-
-According to different regulatory recommendations, the primary endpoint was defined differently in Europe (EU) and the United States (US).
-
-In the EU, the primary efficacy parameter was the proportion of responder at the end of treatment. A responder was defined as a subject with a ≥ 30% decrease in absolute time spent 'off'. In the US, the primary  efficacy  parameter  was  the  absolute  reduction  in  absolute  time  spent  'off'  at  the  end  of treatment.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
 
 <div style=\"page-break-after: always\"></div>
 
-Secondary  outcomes  variables  notably  included  on/off  time  based  variables,  absolute  change  in  on stage  of  UPDRS  II  (ADL),  UPDRS  III  (Motor  score)  and  UPDRS  IV  (impairment),  Parkinson's Disease Questionnaire (SP515 only), EuroQoL (SP650 only) and clinical global impression.
+## Polysorbate 20
 
-## Sample size
+This medicinal product contains 0.63 mg of polysorbate 20 in each vial, which is equivalent 0.105 mg/mL. Polysorbates may cause allergic reactions.
 
-## Study SP560
+## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Assuming  the  true  proportions  of  responders  is  60%  and  40%  for  active  treatment  and  placebo respectively,  a    sample  size  of  110  subjects  in  each  treatment  arm  was  needed  to  detect  such difference, ( α =0.05, 1β =0.80).
+No dedicated clinical studies evaluating the drug interaction potential of zanidatamab have been conducted. Zanidatamab is an antibody that is not expected to impact the cytochrome P450 enzymes. Also, zanidatamab is not known to target mechanisms related to proinflammatory cytokines or any mechanism related to proinflammatory cytokines that may impact the PK of concomitant medicines.
 
-## Study SP515
+## 4.6 Fertility, pregnancy and lactation
 
-The sample size was determined by the active comparison of rotigotine to pramipexole.
+## Women of childbearing potential/Contraception in females
 
-Assuming a true responders rate of 50% for both active treatment arms, 180 subjects per active arm was needed to ensure that the lower bound of the two sided CI95% does not exceed the non-inferiority margin of 15% (1β =0.80).
+To exclude pregnancy, women of childbearing potential should undergo pregnancy testing before initiation of Ziihera.
 
-For  the  absolute  reduction  in  absolute  time  spent  'off'  at  the  end  of  treatment,  sample  size  was calculated on the analysis as performed for the EU. For the comparison to placebo, the expected 20% difference  as  given  in  the  responder  endpoint  corresponded  to  1.5  hours  reduction  in  absolute  'off' time  (power  &gt;  0.95,  SD  2.48).    For  the  active  comparison  the  15%  non-inferiority  margin corresponded to a reduction in absolute 'off' time of approximately 1.2 hours (power &gt; 0.95).
+Based on the mechanism of action, zanidatamab may cause embryo-foetal harm when administered during pregnancy. Female patients should use effective contraception during treatment with Ziihera and for 4 months following the last dose.
 
-Assuming a difference in responder's rate with placebo of 20%, 90 subjects are needed in the placebo arm  to  establish  a  statistical  significant  difference,  if  it  exists  (2-sided  normal  approximation  test, α =0.05, 1β =0.85, 2:2:1 randomization ratio).
+## Pregnancy
 
-## Statistical methods
+Based on the mechanism of action, zanidatamab may cause foetal harm when administered to a pregnant woman. There are no human or animal data on the use of zanidatamab in pregnancy. In post-marketing reports of other HER2-directed antibodies, use during pregnancy resulted in cases of oligohydramnios manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death. Ziihera is not recommended for use during pregnancy or in women of childbearing potential not using contraception. Patients should be advised on potential risks to the foetus.
 
-No interim analyses or data monitoring board meetings were conducted.
+Women who received Ziihera during pregnancy or within 4 months prior to conception should be monitored for oligohydramnios. If oligohydramnios occurs, foetal testing that is appropriate for gestational age and consistent with local standard of care should be performed.
 
-The responder status was analyzed using large sample normal approximation. The analysis of absolute change in 'off' time was evaluated by means of an ANCOVA (analysis of covariance) model with treatment as main effect and geographic region and baseline absolute time spent 'off' as covariates.
+## Breast-feeding
 
-The primary analysis concerned the Full Analysis Set (FAS). The Full Analysis Set incorporates all randomized patients receiving trial medication and with a valid baseline visit (4 valid diary cards out of 6) and at least 1 valid post-baseline visit (2 valid diary cards out of 3). For non-inferiority testing (SP650) the FAS data set was also the primary analyses set.
+It is not known whether zanidatamab is excreted in human milk, or what effect it has on a breast-fed child or milk production.
 
-In study SP650, the first comparison was between rotigotine 27 mg/day and placebo ( α =0.025 1-sided) for  superiority  of  rotigotine  responder  rate  to  the  placebo  responder  rate.  If  significant,  the  second comparison was between rotigotine 18 mg/day versus placebo ( α =0.025 1-sided).
+A decision should be made whether to discontinue breast-feeding or to discontinue treatment, taking into account the benefit of breast-feeding for the child and the benefit of Ziihera therapy for the woman. This consideration should also take into account the washout period of 4 months (see section 5.2).
 
-In  study  SP515,  the  first  comparison  was  between  placebo  and  rotigotine  ( α =0.05  2-sided)  for superiority  of  rotigotine  responder  rate  to  the  placebo  responder  rate.  If  significant,  the  second comparison  was  between  rotigotine  and  pramipexole  for  non-inferiority  ( α =0.025  1-sided),  if  noninferior  and  the  corresponding  confidence  interval  (CI)  lied  above  0,  then  a  2-sided  p-value  for superiority of rotigotine to pramipexole was to be calculated.
+## Fertility
 
-Secondary variables were presented using descriptive statistics only.
+Fertility studies have not been performed with zanidatamab.
 
-## Missing values
+## 4.7 Effects on ability to drive and use machines
 
-Only data from valid visits were used for analyses. A daily diary card was regarded to be valid if at least 22 hours of the 24 hour clock were filled in. The missing hours were imputed according to the proportions 'on/off' of the observed hours. Further, a visit was regarded only valid if for the baseline
+Zanidatamab has minor influence on the ability to drive and use machines. Fatigue has been reported with the use of Ziihera. Therefore, patients should be advised to use caution when driving or operating machines.
 
-<div style=\"page-break-after: always\"></div>
+## 4.8 Undesirable effects
 
-visit at least 4 diary cards out of the 6 were valid and for the post-baseline visits at least 2 diary cards out of 3 were valid. For missing data the last observation carried forward was used.
+## Summary of the safety profile
 
-## RESULTS
-
-## Recruitment / Participant flow / Numbers analysed
-
-Table 8. Number of patients recruited, randomised and completing
-
-| STUDIES                    | SP650   | SP650                | SP650                | SP515   | SP515      | SP515       |
-|----------------------------|---------|----------------------|----------------------|---------|------------|-------------|
-| n recruited                | 462     | 462                  | 462                  | 604     | 604        | 604         |
-|                            | Placebo | Rotigotine 18 mg/day | Rotigotine 27 mg/day | Placebo | Rotigotine | Pramipexole |
-| n randomised               | 120     | 120                  | 111                  | 101     | 204        | 201         |
-| n non-completers           | 23%     | 28%                  | 27%                  | 26%     | 11%        | 15%         |
-| Lack of efficacy           | 9.2%    | 5.8%                 | 4.5%                 | 6.9%    | 1.5%       | 1.5%        |
-| Adverse events             | 9.2%    | 15.0%                | 15.3%                | 5.9%    | 5.4%       | 7.0%        |
-| %%of n-randomised          |         |                      |                      |         |            |             |
-| In safety data set (SS)    | 100%    | 98%                  | 100%                 | 100%    | 100%       | 100%        |
-| In full analyses set (FAS) | 99%     | 94%                  | 98%                  | 99%     | 99%        | 100%        |
-| In per protocol set (PPS)  | 71%     | 70%                  | 70%                  | 72%     | 87%        | 82%         |
-| Completers data set (CS)   |         |                      |                      | 73%     | 88%        | 84%         |
-| PK data set                | n.a     | n.a                  | n.a                  | 30%     | 29%        | 27%         |
-
-The safety data set (SS) included all subjects randomized who have received at least one dose of trial medication.
-
-The  full  analyses  data  set  (FAS)  included  all  randomized  subjects  who  received  treatment  and  having  a  baseline  and  at  least  one  postbaseline measurement for the primary variable.
-
-The per protocol data set (PPS) was a subset of the full analysis set by excluding all subjects with less than 8 weeks of exposure to the trial medication in the maintenance phase or the subjects with a major protocol deviation.
-
-The completer data set (CS) was a subset of the full analysis excluding all subjects without valid end of maintenance visit. n.a: not applicable
-
-## Baseline data
-
-The baseline data (e.g. patient and disease characteristics, use of L-dopa and history of previous antiParkinson  medication)  were  equally  distributed  over  the  treatment  arms.    Especially  the  UPDRS scores at baseline indicates equal disease burden.
+The pooled safety population of Ziihera reflects exposure in 233 patients who were  administered Ziihera 20 mg/kg intravenously as a single agent in two single-arm trials.  Among 233 patients who
 
 <div style=\"page-break-after: always\"></div>
 
-A summary of the baseline data for studies SP650 and SP515 is presented in the following table.
+received Ziihera, 39% were exposed for 6 months or longer, and 17% were exposed for greater than one year.
 
-Table 9 . Patient and Disease characteristics at baseline
+From the pooled data, serious adverse reactions were observed in 8.2% of patients. The most frequent serious adverse reactions were diarrhoea (1.7%) and fatigue (1.3%).
 
-|                                          | SP650       | SP650                | SP650                | SP515       | SP515       | SP515       |
-|------------------------------------------|-------------|----------------------|----------------------|-------------|-------------|-------------|
-|                                          | Placebo     | Rotigotine 18 mg/day | Rotigotine 27 mg/day | Placebo     | Rotigotine  | Pramipexole |
-| n ss                                     | 120         | 118                  | 111                  | 99          | 205         | 202         |
-| Patient characteristics                  |             |                      |                      |             |             |             |
-| Age (X, SD)                              | 66.3 (9.7)  | 66.5 (10.0)          | 64.5 (10.4)          | 64.7 (10.1) | 64.3 (8.9)  | 63.3 (9.7)  |
-| < 65 years                               | 36.7%       | 39.8%                | 50.5%                | 45.5%       | 45.9%       | 48.5%       |
-| 65-74 years                              | 45.0%       | 35.6%                | 31.5%                | 38.4%       | 43.9%       | 56.9%       |
-| %>75 years                               | 20.0%       | 24.6%                | 18.0%                | 16.2%       | 9.4%        | 9.4%        |
-| Disease characteristics                  |             |                      |                      |             |             |             |
-| Duration PD (x,sd) (years)               | 7.7 (4.0)   | 7.7 (4.3)            | 7.8 (4.6)            | 8.3 (4.9)   | 8.8 (4.4)   | 8.4 (4.7)   |
-| Hoehn-Yahr Stage Stage 1                 | 0.0%        | 0.8%                 | 2.7%                 | 0.0%        | 0.5%        | 0.0%        |
-| Stage 2                                  | 61.7%       | 60.2%                | 56.8%                | 18.2%       | 19.5%       | 18.8%       |
-| Stage 3                                  | 34.1%       | 31.3%                | 35.1%                | 51.5%       | 57.6%       | 58.4%       |
-| Stage 4                                  | 4.2%        | 5.1%                 | 5.4%                 | 30.3%       | 22.0%       | 22.3%       |
-| Stage 5                                  | 0.0%        | 0.0%                 | 0.0%                 | 0.0%        | 0.5%        | 0.5%        |
-| UPDRS-II ADL (x, sd)                     | 13.0 (6.9)  | 13.3 (6.7)           | 13.6 (6.6)           | 12.7 (6.0)  | 12.5 ( 6.0) | 11.7 (6.1)  |
-| UPDRS-III Motor (x,sd)                   | 26.7 (14.5) | 27.2 (13.9)          | 27.5 (12.1)          | 27.3 (12.0) | 25.8 (11.8) | 26.1 (11.7) |
-| L-dopa baseline (mg/day)                 | 700         | 600                  | 600                  | 750         | 750         | 750         |
-| Previous Anti-                           |             |                      |                      |             |             |             |
-| Parkinson medication Dopaminergic agents |             |                      |                      | 100%        | 99.5%       | 100%        |
-| Dopa and dopa derivatives                | 100         | 100                  | 100                  | 99.0%       | 99.5%       | 100.0%      |
-| Other dopaminergics                      | 1.7%        | 4.2%                 | 2.7%                 | 12.1%       | 27.8%       | 23.3%       |
-| Dopaminergic not specified               | -           | -                    | -                    | 11.1%       | 6.3%        | 9.4%        |
-| Dopamine agonists                        | 0.8%        | 1.7%                 | 2.7%                 | 5.1%        | 3.9%        | 3.0%        |
-| Anticholinergic agents                   | 7.5%        | 16.9%                | 6.3%                 | 10.1%       | 11.7%       | 6.4%        |
-| Amandatine deriv.                        | 14.2%       | 14.4%                | 15.3%                | 21.2%       | 17.1%       | 18.3%       |
-| MAO- B inhibitors                        | 16.7%       | 19.5%                | 14.4%                | 15.2%       | 20.0%       | 13.9%       |
+The most common adverse reactions observed in the pooled data were diarrhoea (48.5%), infusion related reaction (30.5%), fatigue (26.2%), anaemia (21.9%) and rash (21.5%).
 
-nss indicates the safety data set , n FAS indicates the full analysis data set sd: standard deviation;  Amandatine deriv.: Amandatine derivatives
+The safety of Ziihera in adult patients with BTC (N=87) was evaluated in Study 203, an open-label, multi-cohort, multicenter trial.
 
-## Exposure
+In Study 203 (N=87), serious adverse reactions occurred in 16.1% of patients. The most frequent serious adverse reactions were diarrhoea (2.3%), fatigue (2.3%), and alanine aminotransferase increased (2.3%).
 
-The  actual  doses  received  and  concomitant  anti-Parkinson  medication  used  are  presented  in  below table. In study SP650, the target dose was reached in 75% and 68% of the subjects for the 18 mg/day dose arm and the 27 mg/day dose arm, respectively.
+The most common adverse reactions in Study 203 (N=87) were diarrhoea (46%), infusion related reaction (33.3%), abdominal pain (26.4%), anaemia (25.3%) and fatigue (24.1%).
+
+## Tabulated list of adverse reactions
+
+Unless otherwise stated, the frequencies of adverse reactions are based on all-cause adverse event frequencies identified in 233 patients exposed to Ziihera at 20 mg/kg administered intravenously as a single agent in two single-arm trials.
+
+Frequencies are defined as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); not known (cannot be estimated from the available data).
+
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+Table 5. Adverse reactions in patients receiving Ziihera as monotherapy reported in the pooled safety population (N=233)
+
+| System organ class                                   | Frequency   | Adverse reactions                     |
+|------------------------------------------------------|-------------|---------------------------------------|
+| Blood and lymphatic system disorders                 | Very common | Anaemia*                              |
+| Metabolism and nutrition disorders                   | Very common | Decreased appetite                    |
+| Cardiac disorders                                    | Common      | Ejection fraction decreased*          |
+| Gastrointestinal disorders                           | Very common | Diarrhoea*                            |
+| Gastrointestinal disorders                           | Very common | Abdominal pain a                      |
+| Gastrointestinal disorders                           | Very common | Nausea                                |
+| Gastrointestinal disorders                           | Very common | Vomiting                              |
+| Hepatobiliary disorders                              | Very common | Alanine aminotransferase increased*   |
+| Hepatobiliary disorders                              | Very common | Aspartate aminotransferase increased* |
+| Skin and subcutaneous tissue disorders               | Very common | Rash b                                |
+| General disorders and administration site conditions | Very common | Fatigue c                             |
 
 <div style=\"page-break-after: always\"></div>
 
-Table 10. Doses and concomitant anti-Parkinson medication
+| Injury, poisoning and procedural complications   | Very common   | Infusion related reaction*   |
+|--------------------------------------------------|---------------|------------------------------|
+| Respiratory, thoracic and mediastinal disorders  | Uncommon      | Pneumonitis                  |
 
-|                                                   | SP650                                      | SP650                                      | SP650                                      | SP515                                      | SP515                                      | SP515                                      |
-|---------------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|
-|                                                   | Placebo                                    | Rotigotine 18 mg/day                       | Rotigotine 27 mg/day                       | Placebo                                    | Rotigotine                                 | Pramipexole                                |
-| n ss Rotigotine / Pramipexole xx cm 2 / xx caps = | 120                                        | 118                                        | 111                                        | 99                                         | 205                                        | 202                                        |
-| xx mg / xx mg 20 cm 2 / 3 caps 9.0 mg / 0.375 mg  | n.a                                        | 4.2%                                       | 5.5%                                       | 0.0%                                       | 2.4%                                       | 1.0%                                       |
-| 30 cm 2 / 3 caps 13.5 mg / 0.75 mg                | n.a                                        | 16.0%                                      | 11.9%                                      | 1.0%                                       | 6.3%                                       | 5.4%                                       |
-| 40 cm 2 / 3 caps 18.0 mg / 1.50 mg                | n.a                                        | 74.8%                                      | 4.6%                                       | 2.0%                                       | 7.8%                                       | 1.9%                                       |
-| 50 cm 2 / 6 caps 22.5 mg / 2.25 mg                | n.a                                        |                                            | 10.1%                                      | 4.0%                                       | 8.8%                                       | 15.3%                                      |
-| 60 cm 2 / 6 caps 27.0 mg / 3.00 mg                | n.a                                        |                                            | 67.9%                                      | 16.2%                                      | 15.6%                                      | 18.3%                                      |
-| 70 cm 2 / 9 caps                                  |                                            |                                            |                                            | 10.1%                                      | 10.7%                                      | 10.9%                                      |
-| 80 cm 2 / 9 caps 36.0 mg / 4.50 mg                |                                            | n.a                                        |                                            | 53.5%                                      | 43.9%                                      | 31.7%                                      |
-| Anti-Parkinson medication during the trial        | Anti-Parkinson medication during the trial | Anti-Parkinson medication during the trial | Anti-Parkinson medication during the trial | Anti-Parkinson medication during the trial | Anti-Parkinson medication during the trial | Anti-Parkinson medication during the trial |
-| Any                                               | 100%                                       | 100%                                       | 100%                                       | 100%                                       | 100%                                       | 100%                                       |
-| Dopa (derivatives)                                | 100%                                       | 100%                                       | 100%                                       | 100%                                       | 100%                                       | 100%                                       |
-| COMT-inhibitor                                    | -                                          | 1.7%                                       | -                                          | 12.1%                                      | 28.8%                                      | 25.2%                                      |
-| Adamantane derivatives                            | 14.1%                                      | 14.4%                                      | 16.2%                                      | 21.2%                                      | 17.1%                                      | 18.3%                                      |
-| MAO-B inhibitors                                  | 16.7%                                      | 18.6%                                      | 14.4%                                      | 14.1%                                      | 19.5%                                      | 14.4%                                      |
-| Benserazide                                       | -                                          | -                                          | -                                          | 11.1%                                      | 6.8%                                       | 9.4%                                       |
-| Dopamine agonists                                 | 1.7%                                       | 2.5%                                       | 2.7%                                       | 1.0%                                       | 3.4%                                       | 1.5%                                       |
-| Anticholinergic agents                            | 7.5%                                       | 16.9%                                      | 6.3%                                       | 10.1%                                      | 11.7%                                      | 9.4%                                       |
-| Dose adaptations L-dopa during maintenance        | 7.6%                                       | 9.7%                                       | 13.8%                                      | 2.1%                                       | 0.5%                                       | 0.5%                                       |
+## Description of selected adverse reactions in the pooled safety population (N=233)
 
-nss : safety data set, caps: capsules, n.a: not applicable
+## Diarrhoea
 
-<div style=\"page-break-after: always\"></div>
+Diarrhoea was reported in 48.5% of patients who received Ziihera. Grade 3 reported event incidence in patients was 5.2%, Grade 4 and Grade 5 events were not observed. Median time to first onset was 10 days and median time to resolution was 3 days. The dose of Ziihera was reduced due to diarrhoea in 1.3% of patients and was held or delayed in 2.6% of patients. There were no discontinuations of treatment due to diarrhoea.
 
-## Efficacy results
+## Infusion related reactions
 
-## Efficacy - Primary Endpoint
+Infusion related reactions (IRRs) were reported in 30.5% of patients who received Ziihera. Grade 3 reported event incidence in patients was 0.4%, Grade 4 and Grade 5 events were not observed. Median time to first onset was 1 day and median time to resolution was 1 day. Ziihera infusion was interrupted in 25.3% of patients and discontinued in 0.4% of patients due to IRRs (see section 4.4).
 
-Table 11. PRIMARY EFFICACY- Responder rates
+## Anaemia
 
-|                                                                                                             | SP650           | SP650                                                    | SP650                                                          | SP515           | SP515                                                  | SP515                                             |
-|-------------------------------------------------------------------------------------------------------------|-----------------|----------------------------------------------------------|----------------------------------------------------------------|-----------------|--------------------------------------------------------|---------------------------------------------------|
-| n FAS Subjects with ≥ 30% reduction in OFF time Difference CI 95% difference vs. placebo p value Difference | Placebo 119 34% | Rotigotine 18 mg/day 113 57% 22.2% 9.7% ; 34.7% p <0.001 | Rotigotine 27 mg/day 109 55% 20.6% 7.9% ; 33.3% p <0.001 -0.02 | Placebo 100 35% | Rotigotine 201 60% 24.7% 13.2% ; 36.3% p < 0.001 -7.3% | Pramipexole 200 67% 32.0% 20.6% ; 43.4% p < 0.001 |
+Anaemia was reported in 21.9% of patients who received Ziihera. Grade 3 reported event incidence in patients was 9.9%, Grade 4 was 0.4% and no Grade 5 events were observed. Median time to first onset was 42 days and median time to resolution was 14 days. Ziihera infusion was held or delayed in 0.4% of patients and there were no other actions taken with Ziihera due to anaemia.
 
-nFAS : full analysis set, n.a: not applicable
+## ALT increased
 
-Efficacy- Secondary Endpoints
+ALT increased was reported in 12.4% of patients who received Ziihera. Grade 3 reported event incidence in patients was 1.7%, Grade 4 was 0.4% and no Grade 5 events were observed. Median time to first onset was 78 days and median time to resolution was 16 days. Ziihera infusion was held or delayed in 7 patients (3%) and there were no other actions taken with Ziihera due to ALT increased.
 
-Table 12. SECONDARY EFFICACY  - main secondary endpoint : absolute change in 'off' time
+## AST increased
 
-|                              | SP650       | SP650                    | SP650                    | SP515       | SP515          | SP515           |
-|------------------------------|-------------|--------------------------|--------------------------|-------------|----------------|-----------------|
-| n FAS                        | Placebo 119 | Rotigotine 18 mg/day 113 | Rotigotine 27 mg/day 109 | Placebo 100 | Rotigotine 201 | Pramipexole 200 |
-| OFF-time (hrs)               |             |                          |                          |             |                |                 |
-| Baseline                     | 6.4         | 6.8                      | 6.3                      | 6.6         | 6.2            | 6.0             |
-| End of maintenance           | 5.5         | 3.6                      | 3.5                      | 5.5         | 3.8            | 3.3             |
-| Change                       | -0.9        | -2.7                     | -2.1                     | -0.88       | -2.46          | -2.81           |
-| Difference                   |             | -1.8                     | -1.2                     |             | -1.58          | -1.94           |
-| CI 95% difference vs. active |             | -2.6 ; -1.0              | -2.0 ; -0.4              |             | -2.27 ; -0.90  | -2.63 ; -1.25   |
-| p value                      |             | p< 0.001                 | p = 0.003                |             | p < 0.0001     | p < 0.0001      |
-| Difference                   |             |                          | -0.6                     |             |                | -0.35           |
-| CI 95% difference vs. active |             |                          | -0.29 ; 1.49             |             |                | -0.91; 0.21     |
-| p value                      |             |                          | n.a                      |             |                | n.a             |
+AST increased was reported in 11.6% of patients who received Ziihera. Grade 3 reported event incidence in patients was 1.3%, Grade 4 was 0.9% and no Grade 5 events were observed. Median time to first onset was 87 days and median time to resolution was 15 days. Dose of Ziihera was held or delayed in 6 patients (2.6%) and there were no other actions taken with Ziihera due to AST increased.
 
-nFAS : full analysis set, n.a: not applicable
+## Left ventricular dysfunction
+
+Decreases in LVEF have been reported with medicinal products that block HER2 activity, including Ziihera. Twelve events of LVEF decreased were observed in 10 patients (4.3%) and one of these events was considered serious. Grade 3 reported event incidence in patients was 1.3%, Grade 4 and Grade 5 events were not observed. Median time to first onset was 171 days and median time to resolution was 27 days. The dose of Ziihera was reduced in 1 patient (0.4%), was held or delayed in 5 patients (2.1%)and was discontinued in 2 patients (0.9%).
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1
+## 4.9 Overdose
 
-## Mean change in absolute “off' time (hours) by visit in SP650 (FAS with LOCF)
+The maximum tolerated dose of zanidatamab has not been determined. In clinical studies, the maximum tested dose has been 30 mg/kg. In case of overdose, patients must be closely monitored for signs or symptoms of adverse reactions and appropriate symptomatic treatment initiated if required.
 
-<!-- image -->
+## 5. PHARMACOLOGICAL PROPERTIES
 
-FAS=Full Analysis Set;LOCF=Last Observation Carried Forward
+## 5.1 Pharmacodynamic properties
 
-Visit 2 = Baseline; Visits 3, 4, 5, and 6 correspond to the beginning of dose Titration Phase Weeks 2, 3, 4, and 5, respectively; Visits 7, 8, 9, 10, 11, 12, 13, and 14 correspond to the beginning of Maintenance Phase Weeks 1, 3, 5, 9, 13, 17, 21 and 25, respectively.
+Pharmacotherapeutic group: Antineoplastic agents, HER2 (Human Epidermal Growth Factor Receptor 2) inhibitors, ATC code: L01FD07
 
-Data Source: Figure 4
+## Mechanism of action
 
-Figure 2
+Zanidatamab is a dual HER2-targeted bispecific antibody that simultaneously binds extracellular domains 2 and 4 on separate HER2 monomers (binding in trans). Binding of zanidatamab with HER2 results in internalization leading to a reduction of the receptor on the cell surface. Zanidatamab induces complement-dependent cytotoxicity (CDC), antibody-dependent cellular cytotoxicity (ADCC) and antibody-dependent cellular phagocytosis (ADCP). These mechanisms result in tumour growth inhibition and tumour cell death.
 
-## Mean change in absolute \"off time (hours) by visit in SPsl5 (FAS with LOCF)
+## Immunogenicity
 
-<!-- image -->
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay. Differences in assay methods preclude meaningful comparisons of the incidence of antidrug antibodies (ADA) in the studies described below with incidence of ADA in other studies.
 
-FAS=Full Analysis Set: LOCF=last observation camied forvard
+ADA were rarely detected. Zanidatamab is categorised as a low-risk molecule to elicit an immune response on the basis of assessment of the immunogenicity risk factors and the low incidence of ADAs observed to date across the clinical studies (1.6% [3 of 183 evaluable participants] and 1.2% [1 of 85 evaluable participants] in Study 101 and Study 203, respectively). No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed, however, data are still limited.
 
-Note: Vieit 2 =Baseline; Visits 3,4, 5,6, 7 aud 8 coTespond to Tiuation Phase Weeks 2, 3, 4, 5, 6,and 7. Tespectively, Visits 9, 10, 11, 12, 13, and 14 correspond to Maimtenance Phase Weeks 0, 2, 4, 8, 12, and 16, respectively.
+## Cardiac electrophysiology
 
-DataSource.Figure 6.1
+The relationship between time-matched zanidatamab serum concentrations and ΔQTcF measurements was evaluated based on data obtained during treatment with zanidatamab from participants in Study 101. The C-QT analysis dataset included measurements of QTcF from 179 out of the 192 participants enrolled in Study 101. Zanidatamab has no effect on QTc interval and there was no relationship between zanidatamab exposure and change in QTc interval.
 
-<div style=\"page-break-after: always\"></div>
+## Clinical efficacy and safety
 
-Table 13. SECONDARY EFFICACY - Other endpoints (only presented using descriptive statistics)
+The efficacy of Ziihera was evaluated in Cohort 1 (N=62) of ZWI-ZW25-203 ( Study 203), a multicentre open-label single arm trial of patients with locally advanced unresectable or metastatic biliary tract cancer who received at least one prior gemcitabine-containing systemic chemotherapy regimen for advanced disease, and experienced disease progression after or developed intolerance to the most recent prior therapy, and whose tumour tested HER2-positive (IHC 3+).
 
-| n FAS                                             | Placebo 119   | SP650 Rotigotine 18 mg/day 113   | Rotigotine 27 mg/day 109   | Placebo 100   | SP515 Rotigotine 201   | Pramipexole 200   |
-|---------------------------------------------------|---------------|----------------------------------|----------------------------|---------------|------------------------|-------------------|
-| %Change in OFF                                    | -15.7%        | -42.6%                           | -32.4%                     | -12.9%        | -38.1%                 | -44.2%            |
-| ON-time -overall (hrs) Baseline                   | 9.6           | 9.2                              | 10.1                       | 9.4 10.3      | 9.8                    | 10.0              |
-| End of maintenance                                | 10.7          | 12.3 3.1                         | 12.4                       | 0.9           | 12.2                   | 12.7              |
-| Change + dyskinesias Baseline                     | 1.1           |                                  | 2.3                        |               | 2.4                    | 2.6               |
-| ON-time End of maintenance Change                 | 1.2 1.2 -0.1  | 1.2 0.8 -0.5                     | 1.1 1.2 +0.1               | 1.2 0.7 -0.5  | 1.4 1.0 -0.4           | 1.5 1.5 0.0       |
-| UPDRS-II Baseline Change EOM                      | 13.1          | 13.4                             | 13.6 -3.2                  | 12.8 -2.0     | 12.3                   | 12.1              |
-|                                                   | -0.5          | -3.1                             |                            |               | -4.2                   | -4.6              |
-| UPDRS-III ON state Change                         | 26.7          | 27.4                             | 27.7                       | 26.8          | 26.3                   | 26.4              |
-| Baseline EOM                                      | -3.4          | -6.8                             | -8.7                       | -4.3          | -8.7                   | -10.3             |
-| L-dopa+ (mg/day) Baseline (x)                     | 752.9         | 759.5                            | 740.5                      | 814.1         | 794.8                  | 812.9             |
-| EOM (x)                                           | 736.7         | 732.4                            | 707.1                      | 805.3         | 773.2                  | 736.5             |
-| %%change (x, sd)                                  | -1.6% (11.1%) | -2.6% (9.6%)                     | -3.9% (12.8%)              | -0.9% (7.6%)  | -3.3% (11.0%)          | -7.8% (20.5%)     |
-| CGI-investigator Very much improved Much improved | 4% 23%        | 11% 35%                          | 12% 38%                    | 4.2% 23.2%    | 40.1%                  | 38.8%             |
-|                                                   |               |                                  |                            |               | 10.7%                  | 16.3%             |
-|                                                   | 25%           |                                  |                            |               |                        |                   |
-| Minimally improved                                |               | 28%                              | 20%                        | 21.1%         | 32.5%                  | 24.0%             |
-| No change                                         | 26%           | 11%                              |                            | 34.7%         | 12.7%                  | 13.8%             |
-|                                                   | 15%           |                                  | 13%                        |               |                        |                   |
-| Minimally worse                                   |               |                                  |                            |               |                        |                   |
-| Much worse                                        | 5%            | 9% 6%                            | 11% 6%                     | 12.6% 4.2%    | 3.0% 1.0%              | 3.1% 3.6%         |
-|                                                   | 2%            | 0%                               | 1%                         | 0.0%          | 0.0%                   | 0.0%              |
-| Very much worse                                   |               |                                  |                            |               |                        |                   |
+Patients received Ziihera every 2 weeks at a dose of 20 mg/kg intravenously. It was administered until disease progression or unacceptable toxicity. The major efficacy outcome measures were confirmed objective response rate (cORR) and duration of response (DoR) as determined by an independent central review (ICR) according to Response Evaluation Criteria in Solid Tumours (RECIST) v1.1.
 
-EOM: end of maintenance, CGI: Clinical Global Impression
-
-## · Supportive studies
-
-Two phase IIIb studies were provided, respectively, to evaluate the effect of overnight switching from ropinirole,  pramipexole,  or  cabergoline  to  rotigotine  (SP824)  and  the  effect  of  rotigotine  on  early morning motor impairment and sleep disorders (SP826).
-
-In  study  SP824,  subjects  switched from  an  oral dopamine  agonist  to  rotigotine  transdermal experienced no loss of efficacy or increase in sleeps impairment.
-
-In study SP826, treatment with transdermal rotigotine improved early morning motor impairment and sleep  disorders  in  subjects  who  were  diagnosed  with  idiopathic  Parkinson's  disease  and  who  were titrated  to  an  optimal  dose  of  rotigotine  up  to  36mg/day.  In  addition,  the  CGI  (Clinical  Global Impression), PGI (Patient Global Impression), and PDQ-8 (Parkinson's Disease Questionnaire, short form) showed consistent improvement. An improved control of motor performance as supported by improvements in tapping Rates,  UPDRS Part III  Score,  nocturnal  akinesia  score,  and  the  standingwalking-turning test was observed. An improved control of sleep disorders was observed as supported by a decreased nocturnal akinesia, decreased nocturnal dystonia, decreased nocturnal cramps, fewer nocturias,  an  improved sleep and nocturnal disability score and an improved sleep without daytime somnolence.
-
-## · Discussion on clinical efficacy
-
-The clinical development program of rotigotine, proposed by the applicant to extend the therapeutic indication  to  advanced  stage  Parkinson's  disease  is  in  accordance  with  the  Note  for  Guidance  on Clinical investigation of medicinal products in the treatment of Parkinson's disease (CPMP/EWP/563/95).
+The median age was 64 years (range: 38 to 79 years), 47% of patients were age 65 or older; 55% were female; 61% were Asian, 31% were White. All patients had a baseline Eastern Cooperative Oncology Group (ECOG) performance status of 0 (32%) or 1 (68%).
 
 <div style=\"page-break-after: always\"></div>
 
-The  design  and  conduct  of  the  pivotal  studies  did  not  raise  critical  issues.  Especially  the  complex double-dummy  schedule  applied  in  both  pivotal  studies  was  quite  challenging.  Furthermore,  the management of concomitant medication was as expected in those studies performed in patients with advanced Parkinson's disease. One point of criticism is the predefined non-inferiority margin in the active  controlled  study  (SP515).  The  predefined  non-inferiority  margin  is  questionable  since  in  the worse case scenario as a loss of effect of 50% would in principle have been accepted.
+Fifty-three percent of patients had gallbladder cancer, 27% had intrahepatic cholangiocarcinoma, and 19% had extrahepatic cholangiocarcinoma. Forty percent of patients had received more than one prior line of therapy for metastatic or locally advanced disease. The most commonly received prior treatments, other than gemcitabine, included: cisplatin (76%), oxaliplatin (16%), 5-fluoruracil (39%), and PD-1 or PD-L1 inhibitor (26%). The median overall survival (OS) in the IHC3+ population was 18.1 months (95% CI: 12.2, 22.9). The median duration of study follow-up in the IHC3+ population was 34.0 months.
 
-Rotigotine was effective in reducing 'off' time as compared to placebo, irrespective of whether this was expressed in terms of responders, defined as a subject with a ≥ 30% decrease in absolute time spent 'off', or absolute change in 'off' time.
+Efficacy results are summarised in Table 6.
 
-In  study  SP650,  responder  rates  were  55%,  57%  and  34%  for  rotigotine  27  mg/day,  rotigotine  18 mg/day and placebo respectively. The 'off' time decreased from baseline by 2.1, 2.7 and 0.9 hours for rotigotine 27 mg/day, rotigotine 18 mg/day and placebo respectively.
+Table 6. Efficacy results in Study 203
 
-In  study  SP515,  responder  rates  were  67%,  60%  and  35%  for  pramipexole,  rotigotine  and  placebo respectively.  The  'off'  time  decreased  by  2.5,  2.8  and  0.9  hours  for  rotigotine,  pramipexole  and placebo respectively.
+| Efficacy parameter*                      | N=62              |
+|------------------------------------------|-------------------|
+| Confirmed objective response rate (cORR) |                   |
+| n                                        | 32                |
+| %(95% CI)                                | 51.6 (38.6, 64.5) |
+| Complete response, n (%)                 | 3 (4.8)           |
+| Partial response, n (%)                  | 29 (46.8)         |
+| Duration of response (DOR )              | N=32              |
+| Median † , months (95% CI)               | 14.9 (7.4, 24.0)  |
 
-Differences  with  placebo  were  all  highly  significant  and  a  reduction  in  'off'  time  of  2  hours  as compared to placebo was clinically relevant.
+LPLV = Last patient last visit 11 July 2024
 
-Nevertheless, non inferiority has not been demonstrated even wih a predefined non-inferiority margin considered to be set too high. The lower limit of the confidence interval of the difference in responder rates exceeded the non-inferiority margin of 15% (CI95%: -16.7%; 2.1%). In contrast, the confidence interval of the difference in the absolute change in the 'off' time between rotigotine and pramipexole was  within  the  predefined  non-inferiority  margin  i.e.  1.2  hrs  (CI 95% :  -0.91;  0.21).  Although  these results appeared controversial, a clinical benefit of rotigotine in the 'on' time without dyskinesia was also observed, as compared to pramipexole.
+## Paediatric population
 
-With respect to the open label and uncontrolled studies SP824 and SP826, results do not allow any conclusions concerning the overall efficacy of rotigotine and efficacy variables such as improvement in sleep (as measured by the Parkinson's disease sleep scale or PDSS, and Epworth Sleepiness Scale or ESS). The limitation of these efficacy results was acknowledged by the MAH as only descriptive statistics were presented.
+The European Medicines Agency has waived the obligation to submit the results of studies with Ziihera in all subsets of the paediatric population in biliary tract cancer (see section 4.2 for information on paediatric use).
 
-Overall, the efficacy results from the clinical development program of Neupro are supportive of the applied  extension  of  indication  to  include  the  treatment  of  the  signs  and  symptoms  of  advanced idiopathic  Parkinson's  disease  in  combination  with  levodopa,  i.e.  over  the  course  of  the  disease, through to late stages when the effect of levodopa wears off or becomes inconsistent and fluctuations of the therapeutic effect occur (end of dose or 'on-off' fluctuations).
+## Conditional marketing authorisation
 
-## Clinical Safety
+This medicinal product has been authorised under a so-called 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited. The European Medicines Agency will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
 
-All  subjects  receiving  at  least  1  dose  of  trial  medication  (rotigotine  silicone  patch  formulation, pramipexole, or placebo) were included in the safety analyses.
+## 5.2 Pharmacokinetic properties
 
-The safety results presented mainly concern the primary analysis set, i.e. all subjects from the pivotal studies SP650 and SP515.
+Zanidatamab PK exhibited non-linear kinetics with more rapid clearance (CL) at low doses ranging from 5 to 30 mg/kg. Following the first dose, the geometric mean zanidatamab Cmax was dose proportional with increasing doses, while total systemic exposure (AUC0-∞) was greater than dose proportional with increasing doses. The geometric mean accumulation indices based on Ctrough at steady state was approximately 2.7 for the 20 mg/kg once every 2 weeks zanidatamab dose level. The observed zanidatamab exposure and PK parameters following the first administration in the first cycle and steady state, based on the available sampling scheme, are described in Table 7.
 
-Safety variables included the occurrence of adverse events, changes in vital signs, body weight, ECGs, clinical  laboratory  values,  physical  and  neurological  examination,  Epworth  Sleepiness  Scale  scores and Parkinson's Disease Sleep Scale (SP515 only).
-
-<div style=\"page-break-after: always\"></div>
-
-## · Patient exposure
-
-Overall,  1151  subjects  with  advanced-stage  Parkinson's  disease  were  exposed  to  rotigotine  (see Table 14).
-
-Table 14.  Summary of Rotigotine exposure
-
-| Pool features :                                    | Pool AS1 n=434 Phase III /DB   | Pool AS2 n=827 Phase II/III exclusive OL   | Pool AS3 n=1151 Phase II/III inclusive OL   | Pool AS4 n=653 DB + OL data   | Pool AS5 N=653 OL data-only   |
-|----------------------------------------------------|--------------------------------|--------------------------------------------|---------------------------------------------|-------------------------------|-------------------------------|
-| Treatment duration (days, mean ± SD)               | 163.0±56.41                    | 117.9±65.09                                | 347±334                                     | 529.2±341.59                  | 435.5±300.07                  |
-| Mean daily dose (mg/day, mean ± SD)                | 21.7±6.84                      | 19.3±8.35                                  | 22.1±8.32                                   | 25.4±6.02                     | 25.7±6.35                     |
-| Maximum daily dose (mg/day, mean ± SD)             | 24.7±8.08                      | 23.2±10.24                                 | 26.7±9.54                                   | 29.8±6.52                     | 29.1±6.85                     |
-| Daily dose of longest duration (mg/day, mean ± SD) | 23.7±8.51                      | 22.2±10.66                                 | 24.4±9.96                                   | 27.1±7.49                     | 27.1±7.48                     |
-
-Set AS5 included the same subjects as in set AS4, but only the open-label data were used.
-
-## · Adverse events (AEs)
-
-Aside from those events that are associated with the method of administration (i.e. use of transdermal patch), the reported AEs mainly concern those generally considered as class-related and well-known pharmacodynamic effects  of  dopamine  agonists.  Of  importance,  no  dose  relationship  was  observed between rotigotine dose and the occurrence of the AEs.
+The pharmacokinetics of zanidatamab following intravenous infusion in participants with HER2 expressing cancers was evaluated in a population pharmacokinetic model analysis from 279 participants. From the PopPK analysis, participants with BTC were predicted to have a typical CL of 0.0115 L/h, a typical Vc of 3.51 L, a typical Vp of 3.95 L, and an estimated t1/2 of approximately 21 days. Based on the estimated t1/2, it would take approximately 3.5 months (i.e., 5 half-lives) to reach steady state following multiple dose administration of zanidatamab.
 
 <div style=\"page-break-after: always\"></div>
 
-Table  15 . Adverse  events  occurring  in  at  least  5%  of  rotigotine-treated  subjects  during treatment (Pool AS1)
+Table 7. Study 203: Pharmacokinetic parameters (geometric mean [percent coefficient of variation]) of zanidatamab following the first administration of zanidatamab at 20 mg/kg Q2W in cycle 1 and steady-state in BTC patients
 
-| System organ class/preferred term                    | Placebo n=219   | Rotigotine n=434   | Pramipexole. n=202   |
-|------------------------------------------------------|-----------------|--------------------|----------------------|
-| Any system organ class with AEs in ≥ 5% of subjects  | 62.6%           | 73.0%              | 70.3%                |
-| Gastrointestinal disorders                           | 20.1%           | 27.4%              | 15.8%                |
-| Nausea &Vomiting                                     | 17.4%           | 22.6%              | 12.9%                |
-| Nausea                                               | 15.5%           | 21.2%              | 12.9%                |
-| Vomiting                                             | 5.0%            | 7.1%               | 0.0%                 |
-| Constipation                                         | 5.0%            | 5.5%               | 4.0%                 |
-| General disorders and administration site conditions | 20.1%           | 39.9%              | 11.9%                |
-| Application and instillation site reactions          | 11.9%           | 31.3%              | 8.4%                 |
-| Application site erythema                            | 4.1%            | 14.5%              | 4.0%                 |
-| Application site pruritus                            | 3.7%            | 12.4%              | 3.0%                 |
-| Application site dermatitis                          | 0.5%            | 4.6%               | 0.5%                 |
-| Oedema peripheral                                    | 1.4%            | 7.8%               | 2.5%                 |
-| Asthenic conditions A                                | 8.7%            | 5.1%               | 2.0%                 |
-| Infections and infestations (All URTI)               | 8.7%            | 8.8%               | 3.5%                 |
-| Nasopharyngitis                                      | 3.2%            | 5.1%               | 2.0%                 |
-| Injury, poisoning and procedural complications       | 13.7%           | 10.8%              | 2.5%                 |
-| Fall                                                 | 11.0%           | 8.3%               | 2.5%                 |
-| Musculoskeletal and connective tissue disorders      | 18.3%           | 16.4%              | 9.9%                 |
-| Back pain                                            | 4.1%            | 5.3%               | 8.4%                 |
-| Arthralgia                                           | 4.6%            | 6.7%               | 1.0%                 |
-| Nervous system disorders                             | 40.6%           | 47.0%              | 38.6%                |
-| Somnolence                                           | 18.7%           | 22.8%              | 11.9%                |
-| Dyskinesia                                           | 5.0%            | 13.6%              | 15.3%                |
-| Dizziness                                            | 12.8%           | 14.7%              | 10.9%                |
-| Headache                                             | 6.8%            | 7.4%               | 6.9%                 |
-| Psychiatric disorders                                | 6.8%            | 15.0%              | 11.9%                |
-| Dist. in initiating and maintaining sleep            | 5.0%            | 8.3%               | 5.0%                 |
-| Insomnia                                             | 5.0%            | 7.6%               | 4.5%                 |
-| Perception disturbances                              | 1.8%            | 7.6%               | 6.9%                 |
-| Hallucination                                        | 1.8%            | 5.5%               | 4.0%                 |
+| Cycle                               | C max (µg/mL)   | C trough (µg/mL)   | AUC 0-tau (days*µg/mL)   |
+|-------------------------------------|-----------------|--------------------|--------------------------|
+| Cycle 1 N=19                        | 455 (16.3)      | 68.3 (42.9)        | 2280 (22.7)              |
+| Cycle 4 or later (steady-state) N=8 | 600 (22.2)      | 178 (29.6)         | 3980 (22.5)              |
 
-The rates of AEs for rotigotine and pramipexole are comparable. Any differences in numerical values are probably due to random variation.
+Abbreviations: AUC0-tau = area under the curve during the dosing interval; Cmax = maximum concentration; Ctrough = trough concentration; Q2W = once every 2 weeks
 
-## · Deaths and other serious adverse events
+Note: Cycle 1 and Cycle 4 are referred to as 'first dose' and 'steady-state', respectively; these terms are interchangeable.
 
-There were 20 reports of deaths. These concerned patients who received rotigotine (n=16), placebo (n=3) and no medication (n=1, the death occurred during the run-in period). The reported deaths under medication were not considered related to study treatment. The causes of death under rotigotine were: cerebrovascular  accident  (n=3),  myocardial  infarction  (n=2),  pneumonia  (n=2),  completed  suicide (n=2),  cardiac  disorder(n=1),  renal  cancer  metastatic(n=1),  unexplained  death(n=1),  road  traffic accident(n=1), bronchial carcinoma(n=1), intestinal obstruction (n=1) and pulmonary embolism(n=1).
+## Absorption
 
-Forty-six  (9%),  33  (9%)  and  16  (7.4%)  serious  AEs  were  reported  in  the  rotigotine,  placebo  and pramipexole groups, respectively.
+Ziihera is administered as an intravenous infusion.
 
-<div style=\"page-break-after: always\"></div>
+## Distribution
 
-Serious  treatment-emergent  adverse  events  related  to  rotigotine    medication  included:  myocardial ischemia  (0.2%),  atrial  fibrillation  (0.2%),  supraventricular  tachycardia  (0.2%),  nausea  (0.2%), application  and  instillation  site  reactions  (0.5%),  application  site  dermatitis  (0.5%),    Oedema peripheral (0.2%), cellulitis (0.2%), fall (0.2%), dyskinesia (0.2%), vasovagal syncope (0.2%),  and sleep attacks (0.2%). No serious adverse events were reported with respect to hallucination, psychosis, paranoid reaction, or somnolence.
+Following intravenous dosing, zanidatamab undergoes biphasic elimination from the circulation. Based on population pharmacokinetic analysis, participants with HER2 amplified BTC were predicted to have a typical Vc of 3.51 L and a typical Vp of 3.95 L.
 
-## · Other safety findings
+## Elimination
 
-Among all rotigotine-treated subjects there were 514 application and instillation site reactions reported by 334 out of 1151 subjects (29%).
+Based on population pharmacokinetic analysis, participants with BTC were predicted to have a typical CL of 0.0115 L/h and an estimated t1/2 of approximately 21 days for zanidatamab administered at 20 mg/kg every 2 weeks at steady-state.
 
-Oedema was reported in 1% of placebo-treated subjects and 9% of rotigotine-treated. Two subjects (&lt;1%) in the  rotigotine  group  had  severe  peripheral  oedema,  one  case  was  reported  as  serious  and resulted  in  discontinuation  of  treatment.  Three  additional  rotigotine-treated  subjects  (&lt;1%  total) discontinued treatment as a result of peripheral oedema.
+## Specific populations
 
-The rate of oedema was higher in study SP650 (placebo&lt;1%, rotigotine=13%) as compared to study SP515 (placebo=2%, rotigotine=4%, pramipexole=3%).
+Based on population pharmacokinetic analysis, no clinically significant differences in the pharmacokinetics of zanidatamab were observed based on age (24 to 88 years), sex, race (White, Black, Asian), and body weight (35.4 kg to 128 kg).
 
-In clinical studies, the 6 month-specific rates of peripheral oedema remained at about 4% through the entire observation period up to 36 months.
+## Renal impairment
 
-## · Discontinuation due to adverse events
+Based on population pharmacokinetic analysis, no clinically significant differences in the pharmacokinetics of zanidatamab were observed based on mild and moderate renal impairment (eGFR 30 to 89 mL/min estimated using the CKD-EPI). The pharmacokinetics of zanidatamab in patients with severe renal impairment and end-stage renal disease with or without hemodialysis is unknown. However, as IgG monoclonal antibodies are not primarily cleared via renal pathways, a change in renal function is not expected to influence zanidatamab exposure.
 
-Adverse  events  lead  to  discontinuation  in  8%  of  the  placebo-treated  subjects  and  13%  of  the rotigotine-treated subjects.
+## Hepatic impairment
 
-Adverse event terms that  resulted  in  discontinuation  of  &gt;1%  of  rotigotine-treated  subjects  included nausea (4%), vomiting (2%), and application and instillation site reactions (2%). Peripheral Oedema lead to discontinuation in the Rotigotine group (0.9%).
+Based on population pharmacokinetics analysis, no clinically significant differences in the pharmacokinetics of zanidatamab were observed based on mild hepatic impairment (total bilirubin ≤ upper limit of normal (ULN) and AST &gt; ULN or total bilirubin between 1 and 1.5 times ULN and any AST). The pharmacokinetics of zanidatamab in patients with moderate (total bilirubin &gt; 1.5 to ≤ 3 ULN and any AST) or severe hepatic impairment (total bilirubin &gt;3 ULN and any AST) is unknown. However, as IgG monoclonal antibodies are not primarily cleared via hepatic pathways, a change in hepatic function is not expected to influence zanidatamab exposure.
 
-Dose  reduction  due  to  AE  occurred  in  3%  of  subjects  receiving  placebo  and  in  5%  of  subjects receiving  rotigotine.  In  the  rotigotine  group,  the  most  frequent  AE  leading  to  dose  reduction  was dyskinesia (3%).
+## 5.3 Preclinical safety data
 
-## · Discussion on Clinical Safety
+## Carcinogenicity
 
-The safety profile of rotigotine in advanced Parkinson's disease is similar to the one observed for a dopamine-agonistic  agent.  Although  the  rotigotine  doses  were  higher  in  this  patient  population,  no dose-response  relationship  with  respect  to  AEs  was  present.  In  addition,  an  increased  frequency  of AEs was observed as compared to monotherapy.
+Studies have not been conducted to evaluate the carcinogenic potential of zanidatamab.
 
-In  studies  SP650  and  SP515, high incidence of application site reactions (31%) has been observed. Although these AEs may counteract the convenience gained by the once dosing schedule, they have similarly been reported in the monotherapy studies and therefore did not raise any new concern. Most application and instillation site reactions were mild or moderate in intensity, and most had resolved by the end of double-blind treatment. The incidence of these AEs did not appear to be dose dependent.
+## Genotoxicity
 
-Safety  analysis  of  specific  issues  such  as  cardiac  arrythmias,  eye  disorders,  severe  application  site reactions,  oedema,  orthostatic  hypotension,  dyskinesias,  sleep  attacks,  compulsive  behaviour,  and potential  for  QT  prolongation  were  performed  in  patients  with  advanced  stage  Parkinson's  disease from those clinical studies. No concerns were raised. In clinical studies, the 6 month-specific rates of peripheral oedema remained at about 4% through the entire observation period up to 36 months.
+Studies have not been conducted to evaluate the mutagenic potential of zanidatamab.
 
 <div style=\"page-break-after: always\"></div>
 
-## 1.4 Pharmacovigilance
+## Repeat-dose toxicity
 
-## · Risk Management Plan
+Zanidatamab was generally well tolerated in a 13-week repeat dose toxicity study in cynomolgus monkeys dosed once weekly (intravenous) at dose levels resulting in exposure margins up to at least 10 times the exposure in human patients. Non-severe, transient, non-dose dependent treatment-related soft or watery faeces was observed at clinically relevant exposure. In some, but not all animals, soft or watery faeces correlated with non-severe changes in blood urea nitrogen and blood albumin levels. From day 22, BUN was generally increased (up to 45%) and albumin levels tended to be decreased (up to 12%) throughout the dosing phase. However, these values were not dosed-related and remained within historical control ranges.
 
-The MAA submitted an updated risk management plan.
+## Developmental and reproductive toxicity
 
-| Safety concern                       | Proposed pharmacovigilance activities                                                                                                                                                                                                                                                      | Proposed risk minimisation activities                                                                                                                                                                                                                          |
-|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Identified risks                     | Identified risks                                                                                                                                                                                                                                                                           | Identified risks                                                                                                                                                                                                                                               |
-| Application site skin reactions      | • Routine pharmacovigilance • Post-approval safety study under conditions of routine clinical practice. Particular attention will be paid to severe application site reactions (defined as events of special interest per protocol). • Additional information from ongoing clinical trials | • Warning in section 4.4 of the SPC. (Specific recommendations about how to reduce and manage application site reactions are provided.) • Section 4.2 of the SPC provides important information on the method of administration • Listed as ADR in section 4.8 |
-| Sleep attacks and somnolence         | • Routine pharmacovigilance • Post-approval safety study under conditions of routine clinical practice. Particular attention will be paid to sleep attacks (defined as events of special interest per protocol). • Additional information from ongoing clinical trials                     | • Warning in sections 4.4 and 4.7 of the SPC • Listed as ADR in section 4.8                                                                                                                                                                                    |
-| Postural and orthostatic hypotension | • Routine pharmacovigilance • Post-approval safety study under conditions of routine clinical practice. • Additional information from ongoing clinical trials                                                                                                                              | • Warning in section 4.4 of the SPC • Listed as ADR in section 4.8                                                                                                                                                                                             |
-| Compulsive disorders                 | • Routine pharmacovigilance • Post-approval safety study under conditions of routine clinical practice. • Additional information from ongoing clinical trials                                                                                                                              | • Warning in section 4.4 of the SPC • Listed as ADR in section 4.8                                                                                                                                                                                             |
+Reproductive and developmental toxicity studies have not been conducted with zanidatamab. However, antibodies that bind to HER2 have been observed to cause severe embryo-foetal toxicity. Fertility studies have not been performed with zanidatamab. In a 13-week repeat-dose toxicity study in cynomolgus monkeys dosed once weekly (intravenous) at dose levels resulting in exposure margins up to at least 10-times the exposure in human patients, zanidatamab had no effect on male and female reproductive organs when evaluated by organ weights and histopathology.
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+Polysorbate 20 (E432) Disodium succinate Succinic acid (E363) Sucrose Water for injections
+
+## 6.2 Incompatibilities
+
+This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.
+
+## 6.3 Shelf life
+
+Unopened vial 3 years.
+
+## Reconstituted solution
+
+Chemical and physical in-use stability of reconstituted solution has been demonstrated for up to 6 hours at room temperature (18 °C to 24 °C) and up to 24 hours at 2 °C to 8 ºC.
+
+From a microbiological point of view, unless the method of reconstitution precludes the risk of microbial contamination, the reconstituted solution should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user and should not exceed 4 hours at room temperature (18 ℃ to 24 ℃) or in the refrigerator (2 ºC to 8 ºC).
+
+## Diluted solution
+
+Chemical and physical in-use stability of the diluted solution has been demonstrated for up to 24 hours at room temperature (18 °C to 24 °C) and at 2 ºC to 8 ºC.
+
+From a microbial point of view, the product should be used immediately. If not used immediately, inuse storage time and conditions are the responsibility of the user and should not exceed 12 hours at room temperature (18 °C to 24 °C) or 24 hours in the refrigerator at 2 ºC to 8 ºC. These storage times start from the time of reconstitution.
 
 <div style=\"page-break-after: always\"></div>
 
-| Potential risks                                        | Potential risks                                                                                                                                                                                                                                                                                                                                                                                                           | Potential risks                     |
-|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
-| Cardiovalvular fibrosis                                | • Routine pharmacovigilance • Post-approval safety study under conditions of routine clinical practice. Particular attention will be paid to valve fibrosis-related signs and symptoms (defined as events of special interest per protocol). • Additional information from ongoing clinical trials • Independent, prospective, multicenter trial on cardiac fibrosis in Parkinson's Disease patients on dopamine agonists | • Warning in section 4.4 of the SPC |
-| Effects on retina                                      | Routine pharmacovigilance Post-approval safety study under conditions of routine clinical practice Additional information from ongoing clinical trials                                                                                                                                                                                                                                                                    | • Warning in section 4.4 of the SPC |
-| Neuroleptic malignant syndrome after abrupt withdrawal | Routine pharmacovigilance Post-approval safety study under conditions of routine clinical practice Additional information from ongoing clinical trials                                                                                                                                                                                                                                                                    | • Warning in section 4.4 of the SPC |
-| Missing information                                    | Missing information                                                                                                                                                                                                                                                                                                                                                                                                       | Missing information                 |
-| Patients with severe hepatic impairment                | Routine pharmacovigilance                                                                                                                                                                                                                                                                                                                                                                                                 | • Warning in section 4.4 of the SPC |
+## 6.4 Special precautions for storage
 
-The  CHMP,  having  considered  the  data  submitted  in  the  application,  is  of  the  opinion  that  no additional risk minimisation activities are required beyond those included in the product information.
+Store in a refrigerator (2 ºC - 8 ºC).
 
-## 1.5 Overall Conclusions and benefit/risk assessment
+Do not freeze.
 
-Based  on  the  CHMP  review  of  safety  and  efficacy,  the  CHMP  considers  that  the  benefit-risk  for Neupro  transdermal  patches  indicated  in  ' the  treatment  of  the  signs  and  symptoms  of  advanced idiopathic  Parkinson's  disease  in  combination  with  levodopa,  i.e.  over  the  course  of  the  disease, through to late stages when the effect of levodopa wears off or becomes inconsistent and fluctuations of the therapeutic effect occur (end of dose or 'on-off' fluctuations)' , is favourable and recommended the variation to the marketing authorisation.
+For storage conditions after reconstitution and dilution of the product, see section 6.3.
 
-A revised risk management plan was submitted. The CHMP, having considered the data submitted, was of the opinion that:
+## 6.5 Nature and contents of container
 
-- -routine pharmacovigilance was adequate to monitor the safety of the product.
+20 mL Type I glass vial with a chlorobutyl stopper and flip-off cap.
+
+Each pack contains either 1 vial or 2 vials.
+
+Not all pack sizes may be marketed.
+
+## 6.6 Special precautions for disposal and other handling
+
+Ziihera must be reconstituted with sterile water for injections and subsequently diluted with sodium chloride 9 mg/mL (0.9%) solution for injection or 5% glucose for infusion.
+
+Aseptic technique must be used for reconstitution and dilution of Ziihera.
+
+## Reconstitution
+
+- Calculate the recommended dose of Ziihera based on the patient's weight to determine the number of vials needed.
+- Remove the vial(s) from the refrigerator and allow them to reach room temperature.
+- Reconstitute each vial with 5.7 mL of sterile water for injections to obtain a concentration of 50 mg/mL in an extractable volume of 6 mL.
+- Gently swirl the vial until complete dissolution. Do not shake. Reconstitution should take no more than 10 minutes.
+- Allow the reconstituted vial to settle to allow bubbles to dissipate.
+- Visually inspect the reconstituted solution for particulate matter and discoloration. The reconstituted product should be a colourless to light yellow, clear to slightly opalescent solution that is essentially free of particles. Discard the reconstituted vial if any discoloration or particulate matter is observed.
+
+## Dilution
+
+- Withdraw the necessary volume for the calculated dose from each vial.
+- Slowly add the necessary dose volume to an appropriate size infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for injection or 5% glucose for infusion. The final concentration of the diluted solution should be between 0.4 mg/mL and 6 mg/mL.
+- Mix the diluted solution by gentle inversion. Do not shake.
+- The solution for infusion must be a clear, colourless solution with no visible particles. If particulate matter or discoloration is identified, the solution must be discarded.
+- Compatibility with intravenous administration materials and the diluted Ziihera solution has been demonstrated in the following materials:
+- o Intravenous bag: polyvinyl chloride (PVC), polyolefin (PO), ethyl vinyl acetate (EVA), polypropylene (PP) and ethylene-propylene copolymer.
+- o Infusion sets: polyvinyl chloride/ bis (2-ethylhexyl) phthalate (PVC/DEHP), polyurethane (PUR), polyethylene-lined (PE-lined) acrylonitrile-butadiene-styrene (ABS).
+- o Inline filters: polyethersulfone solution filter (PES), polyvinylidene fluoride air filter (PVDF).
+
+<div style=\"page-break-after: always\"></div>
+
+- o Closed system transfer devices: acrylonitrile-butadiene-styrene (ABS), acrylic copolymer, polycarbonate (PC), polyisoprene (PI), polyester polypropylene (PP), polytetrafluoroethylene (PTFE), silicone and stainless steel (SS).
+
+## Administration
+
+- Administer Ziihera as an intravenous infusion with a 0.2 or 0.22 micron filter.
+- Do not co-administer Ziihera and other intravenous medicinal products concurrently through the same intravenous line.
+
+## Disposal
+
+Ziihera vials are for single dose use only.
+
+Discard any portion of the reconstituted solution that remains unused.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Jazz Pharmaceuticals Ireland Ltd 5th Floor, Waterloo Exchange Waterloo Road Dublin 4 D04 E5W7 Ireland
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/25/1931/001
+
+EU/1/25/1931/002
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 27 June 2025
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX II
+
+- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
+
+<div style=\"page-break-after: always\"></div>
+
+## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+
+Name and address of the manufacturer of the biological active substance
+
+WuXi Biologics Co. Ltd. 108 Meiliang Road Mashan, Binhu Wuxi, 214092, China
+
+Name and address of the manufacturer responsible for batch release Jazz Pharmaceuticals Ireland Ltd 5th Floor, Waterloo Exchange Waterloo Road Dublin 4 D04 E5W7 Ireland
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+Medicinal products subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## · Periodic safety update reports (PSURs)
+
+The requirements for submission of PSURs for this medicinal product are set out in Article 9 of Regulation (EC) No 507/2006 and, accordingly, the marketing authorisation holder (MAH) shall submit PSURs every 6 months.
+
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c (7) of Directive 2001/83/EC and any subsequent updates published on the European medicines webportal.
+
+The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## · Risk management plan (RMP)
+
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+
+An updated RMP should be submitted:
+
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
+<div style=\"page-break-after: always\"></div>
+
+If the submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
+
+## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
+
+This being a conditional marketing authorisation and pursuant to Article 14-a of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
+
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Due date          |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| In order to confirm the efficacy and safety of zanidatamab in the treatment of adults with unresectable locally advanced or metastatic HER2-positive biliary tract cancer previously treated with at least one prior line of systemic therapy, the MAHshould submit the results of the ongoing open-label phase III randomised clinical study JZP598-302 to evaluate the efficacy and safety of zanidatamab plus standard-of- care therapy versus standard-of-care therapy alone for advanced HER2-positive biliary tract cancer. | 30 September 2029 |
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX III
+
+## LABELLING AND PACKAGE LEAFLET
+
+<div style=\"page-break-after: always\"></div>
+
+## A. LABELLING
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Ziihera 300 mg powder for concentrate for solution for infusion zanidatamab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One vial contains 300 mg of zanidatamab.
+
+After reconstitution, one vial of 6 mL solution contains 50 mg/mL of zanidatamab.
+
+## 3. LIST OF EXCIPIENTS
+
+Also contains: polysorbate 20 (E432), disodium succinate, succinic acid (E363), sucrose, and water for injections. See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Powder for concentrate for solution for infusion.
+
+1 vial 2 vials
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+For intravenous use after reconstitution and dilution.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Jazz Pharmaceuticals Ireland Ltd 5th Floor, Waterloo Exchange Waterloo Road Dublin 4 D04 E5W7
+
+Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/25/1931/001
+
+EU/1/25/1931/002
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
+Justification for not including Braille accepted
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| VIAL                                                             |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
+
+Ziihera 300 mg powder for concentrate zanidatamab
+
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
+
+IV use after reconstitution and dilution
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
+
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## B. PACKAGE LEAFLET
+
+## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
+
+## Ziihera 300 mg powder for concentrate for solution for infusion zanidatamab
+
+▼This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
+## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
+
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor.
+- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Ziihera is and what it is used for
+2. What you need to know before you are given Ziihera
+3. How you will be given Ziihera
+4. Possible side effects
+5. How to store Ziihera
+6. Contents of the pack and other information
+
+## 1. What Ziihera is and what it is used for
+
+## How Ziihera works
+
+Ziihera is a medicine that contains the active substance zanidatamab. Zanidatamab is a bispecific antibody that attaches itself to a specific protein or antigens on cancer cells. It recognises and attaches to a protein called human epidermal growth factor receptor 2 (HER2). HER2 is found in large amounts on the surface of some cancer cells where it stimulates their growth. When zanidatamab attaches to the HER2 on cancer cells, it slows or stops the cancer cells from growing and may kill them.
+
+## What Ziihera is used for
+
+Ziihera is used in adults with biliary tract cancer, a cancer of the structures that store and transport bile. It is used when the cancer:
+
+- has high levels of the HER2 protein on its surface (also known as 'HER2-positive');
+- cannot be removed by surgery (unresectable) and has spread to nearby tissues (locally advanced) or other parts of the body (metastasised); and
+- has returned or worsened after previous chemotherapy treatment.
+
+## 2. What you need to know before you are given Ziihera
+
+## You must not be given Ziihera
+
+- If you are allergic to zanidatamab or any of the other ingredients of this medicine (listed in section 6).
+
+If you are not sure if you are allergic, talk to your doctor or nurse before you are given Ziihera.
+
+## Warnings and precautions
+
+Talk to your doctor or nurse before you are given Ziihera, or during treatment, if you have any of the following symptoms before or during treatment with Ziihera:
+
+<div style=\"page-break-after: always\"></div>
+
+- feeling short of breath,
+- cough,
+- feeling tired,
+- swelling of ankles or legs,
+- irregular heartbeat,
+- sudden weight gain,
+- feeling dizzy, or
+- loss of consciousness.
+
+These may be symptoms of decreased left ventricular ejection fraction, a condition where your heart cannot pump blood well enough. Your doctor will check your heart function before starting treatment with Ziihera. See section 4 'Serious side effects' for more details about signs of heart problems to look out for.
+
+## Infusion reactions
+
+Ziihera is given by a drip into a vein (intravenous infusion). Reactions to the infusion can happen. Your doctor or nurse will monitor you for side effects during and after your infusion as needed. If you get any serious reaction, your doctor may stop treatment with Ziihera. See section 4 'Serious side effects' for more details about infusion reactions to look out for during the infusion and thereafter.
+
+## Children and adolescents
+
+Ziihera is not recommended in children or adolescents. It has not been tested in this age group.
+
+## Other medicines and Ziihera
+
+Tell your doctor or nurse if you are taking, have recently taken, or might take any other medicines.
+
+## Pregnancy and breast-feeding
+
+Before starting treatment, you must tell your doctor or nurse if you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby.
+
+Ziihera may harm the unborn baby. Your doctor will advise you about the risks of taking Ziihera for your baby while you are pregnant or breast-feeding. If you are able to get pregnant, you should use effective contraception (birth control) during treatment and for 4 months after stopping Ziihera treatment. Talk to your doctor about the best contraception for you. Tell your doctor straight away if you get pregnant during treatment with Ziihera or during the 4 months after stopping treatment.
+
+It is not known if Ziihera passes into breast milk. Ask your doctor if you can breast-feed during treatment with Ziihera and for 4 months following treatment, as it may be harmful to the child. Your doctor will consider the benefits of breast-feeding for your child and the benefits to you of taking this medicine.
+
+## Driving and using machines
+
+You may feel tired after receiving Ziihera. If this happens, do not drive or use any tools or machines.
+
+## Ziihera contains sodium
+
+Ziihera contains less than 1 mmol of sodium (23 mg) per dose unit, that is to say it is essentially sodium-free.
+
+## Ziihera contains polysorbate 20
+
+Ziihera contains 0.63 mg of polysorbate 20 in each vial, which is equivalent to 0.105 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+## 3. How you will be given Ziihera
+
+Ziihera will be given to you by a doctor or nurse in a hospital or clinic.
+
+<div style=\"page-break-after: always\"></div>
+
+- It is given by a drip into a vein (intravenous infusion) once every two weeks.
+- The amount of medicine you are given depends on your weight and will be calculated by your doctor.
+- The duration of the infusion may differ for the first dose and later doses, depending on how well you tolerate receiving the infusions.
+- The number of infusions you will be given depends on:
+- o how your disease responds to treatment,
+- o how well you tolerate the treatment.
+- Before each infusion, your doctor/nurse may give you some medicines to help prevent infusion reactions. These may include antihistamines (medicines to reduce allergic reactions), corticosteroid (medicines that treat pain and inflammation) and antipyretics (medicines to reduce fever) and will be given to you 30-60 minutes before you are given the infusion.
+
+## If you miss an appointment
+
+If you forget or miss your appointment to receive Ziihera, make another appointment with your doctor or nurse as soon as possible.
+
+## If you stop receiving Ziihera
+
+Do not stop treatment with this medicine without talking to your doctor first. It is important that you are given all the infusions that have been recommended by your treatment team.
+
+If you have any further questions on the use of this medicine, ask your doctor or nurse.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them. Tell your doctor if you get any side effects, including those not listed in the leaflet.
+
+## Some side effects may be serious. Tell a doctor or nurse straight away, if you notice any of the following side effects:
+
+Very common (may affect more than 1 in 10 people)
+
+- Infusion reactions. Reactions can either be mild or more severe. Symptoms may include feeling sick (nausea), fever, chills, feeling tired, headache, loss of appetite, joint and muscle pains, and hot flashes.
+
+## Common (may affect up to 1 in 10 people)
+
+- Ejection fraction decreased. This medicine may cause heart problems that reduce your heart's ability to pump blood. Symptoms of this include feeling short of breath, cough, feeling tired, swelling of ankles or legs, irregular heartbeat, sudden weight gain, feeling dizzy, or loss of consciousness.
+
+## Other side effects
+
+The frequency and severity of side effects may vary with the dose you receive.  Talk to your doctor or nurse if you get any of the following:
+
+Very common (may affect more than 1 in 10 people)
+
+- diarrhoea
+- belly (abdominal) pain
+- feeling sick (nausea)
+- vomiting
+- feeling tired (fatigue)
+- decreased appetite
+- rash
+
+<div style=\"page-break-after: always\"></div>
+
+- low levels of red blood cells (anaemia), as shown in blood tests
+- abnormal liver function, as shown in blood tests
+
+## Uncommon (may affect up to 1 in 100 people)
+
+- Chest symptoms such as a dry cough or breathlessness (pneumonitis)
+
+If you get any of the above side effects after treatment with Ziihera, you should talk to your doctor straight away and tell them that you are being treated with Ziihera.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Ziihera
+
+Ziihera will be stored by the healthcare professionals at the hospital or clinic where you receive treatment. The following information is intended for healthcare professionals.
+
+- Keep this medicine out of the sight and reach of children.
+- Do not use Ziihera after the expiry date which is stated on the carton and vial label after EXP. The expiry date refers to the last day of that month.
+- Store in a refrigerator (2 ºC - 8 ºC). Do not freeze.
+- The diluted solution should be used immediately after preparation.
+
+Medicines should not be disposed of via wastewater. Your pharmacist will throw away any medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Ziihera contains
+
+- The active substance is zanidatamab.
+- One vial of powder for concentrate for solution for infusion contains 300 mg of zanidatamab. After reconstitution one vial of 6 mL solution contains 50 mg/mL of zanidatamab.
+- The other ingredients are polysorbate 20 (E432), disodium succinate, succinic acid (E363), sucrose, and water for injections (see section 2).
+
+## What Ziihera looks like and contents of the pack
+
+Ziihera is a white lyophilised powder supplied in a glass vial with a stopper and flip-off cap.
+
+One carton contains 1 or 2 vials. Not all pack sizes may be marketed.
+
+## Marketing Authorisation Holder and Manufacturer
+
+Jazz Pharmaceuticals Ireland Ltd 5th Floor, Waterloo Exchange Waterloo Road Dublin 4 D04 E5W7 Ireland
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in:
+
+This medicine has been given 'conditional approval'. This means that there is more evidence to come about this medicine.
+
+The European Medicines Agency will review new information on this medicine at least every year and this leaflet will be updated as necessary.
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## CONCLUSIONS ON THE GRANTING OF THE CONDITIONAL MARKETING AUTHORISATION PRESENTED BY THE EUROPEAN MEDICINES AGENCY
+
+<div style=\"page-break-after: always\"></div>
+
+## Conclusions presented by the European Medicines Agency on:
+
+## · Conditional marketing authorisation
+
+The CHMP having considered the application is of the opinion that the risk-benefit balance is favourable to recommend the granting of the conditional marketing authorisation as further explained in the European Public Assessment Report.

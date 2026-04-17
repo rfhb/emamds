@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-07 14:50:00
+document_datetime: 2026-04-17 10:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rezurock.html
 document_name: rezurock.html
 version: success
-processing_time: 0.0971661
-conversion_datetime: 2026-04-09 12:20:15.703683
+processing_time: 0.107716
+conversion_datetime: 2026-04-17 15:51:25.962967
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
   docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Rezurock
 
@@ -115,7 +115,7 @@ English (EN) (157.79 KB - PDF)
 
 [View](/en/documents/overview/rezurock-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-182)
+[Other languages (22)](#file-language-dropdown-853)
 
 български (BG) (157.53 KB - PDF)
 
@@ -267,7 +267,7 @@ English (EN) (472.04 KB - PDF)
 
 [View](/en/documents/product-information/rezurock-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-632)
+[Other languages (24)](#file-language-dropdown-767)
 
 български (BG) (573.44 KB - PDF)
 
@@ -435,7 +435,7 @@ English (EN) (49.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rezurock-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-819)
+[Other languages (24)](#file-language-dropdown-498)
 
 български (BG) (56.77 KB - PDF)
 
@@ -647,6 +647,16 @@ Marketing authorisation issued
 
 ## Initial marketing authorisation documents
 
+Rezurock : EPAR - Public assessment report
+
+Adopted Reference Number: EMA/CHMP/3277/2026
+
+English (EN) (7.78 MB - PDF)
+
+**First published:** 17/04/2026
+
+[View](/en/documents/assessment-report/rezurock-epar-public-assessment-report_en.pdf)
+
 Rezurock : Orphan maintenance assessment report (initial authorisation)
 
 Adopted Reference Number: EMADOC-1700519818-2884809
@@ -703,6 +713,6 @@ English (EN) (109.64 KB - PDF)
 
 **This page was last updated on**
 
-07/04/2026
+17/04/2026
 
 ## Share this page

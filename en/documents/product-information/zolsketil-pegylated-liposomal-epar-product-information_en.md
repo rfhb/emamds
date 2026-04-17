@@ -1,22 +1,24 @@
 ---
-document_datetime: 2025-03-13 15:09:40
+document_datetime: 2026-04-16 15:38:13
 document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zolsketil-pegylated-liposomal-epar-product-information_en.pdf
 document_name: zolsketil-pegylated-liposomal-epar-product-information_en.pdf
 version: success
-processing_time: 12.4818592
-conversion_datetime: 2025-12-21 23:00:36.657798
+processing_time: 14.2990431
+conversion_datetime: 2026-04-17 15:47:07.075887
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -73,11 +75,11 @@ ZOLSKETIL pegylated liposomal is administered intravenously at a dose of 50 mg/m
 
 ## Multiple myeloma
 
-ZOLSKETIL pegylated liposomal is administered at 30 mg/m 2 on day 4 of the bortezomib 3 week regimen as a 1 hour infusion administered immediately after the bortezomib infusion. The bortezomib regimen consists of 1.3 mg/m 2 on days 1, 4, 8, and 11 every 3 weeks. The dose should be repeated as long as patients respond satisfactorily and tolerate treatment. Day 4 dosing of both medicinal products may be delayed up to 48 hours as medically necessary. Doses of bortezomib should be at least 72 hours apart.
+ZOLSKETIL pegylated liposomal is administered at 30 mg/m 2  on day 4 of the bortezomib 3 week regimen as a 1 hour infusion administered immediately after the bortezomib infusion. The bortezomib regimen consists of 1.3 mg/m 2 on days 1, 4, 8, and 11 every 3 weeks. The dose should be repeated as long as patients respond satisfactorily and tolerate treatment. Day 4 dosing of both medicinal products may be delayed up to 48 hours as medically necessary. Doses of bortezomib should be at least 72 hours apart.
 
 ## AIDS-related KS
 
-ZOLSKETIL pegylated liposomal is administered intravenously at 20 mg/m 2 every two-to-three weeks. Avoid intervals shorter than 10 days as medicinal product accumulation and increased toxicity cannot be ruled out. Treatment of patients for two-to-three months is recommended to achieve a therapeutic response. Continue treatment as needed to maintain a therapeutic response.
+ZOLSKETIL pegylated liposomal is administered intravenously at 20 mg/m 2  every two-to-three weeks. Avoid intervals shorter than 10 days as medicinal product accumulation and increased toxicity cannot be ruled out. Treatment of patients for two-to-three months is recommended to achieve a therapeutic response. Continue treatment as needed to maintain a therapeutic response.
 
 ## For all patients
 
@@ -116,16 +118,14 @@ Table 2. Stomatitis
 | Grade 3 (painful erythema, edema, or ulcers, but cannot eat) | Wait an additional week                                                                                        | Wait an additional week                                                                                        | Withdraw patient                                                                               |
 | Grade 4 (requires parenteral or enteral support)             | Wait an additional week                                                                                        | Wait an additional week                                                                                        | Withdraw patient                                                                               |
 
-## Table 3. Haematological toxicity (ANC or platelets) - Management of patients with breast or
+## Table 3. Haematological toxicity (ANC or platelets) - Management of patients with breast or ovarian cancer
 
-ovarian cancer
-
-| GRADE   | ANC             | PLATELETS         | MODIFICATION                                                                                                          |
-|---------|-----------------|-------------------|-----------------------------------------------------------------------------------------------------------------------|
-| Grade 1 | 1,500 - 1,900   | 75,000 - 150,000  | Resume treatment with no dose reduction.                                                                              |
-| Grade 2 | 1,000 - < 1,500 | 50,000 - < 75,000 | Wait until ANC ≥ 1,500 and platelets ≥ 75,000; redose with no dose reduction.                                         |
-| Grade 3 | 500 - < 1,000   | 25,000 - < 50,000 | Wait until ANC ≥ 1,500 and platelets ≥ 75,000; redose with no dose reduction.                                         |
-| Grade 4 | < 500           | < 25,000          | Wait until ANC ≥ 1,500 and platelets ≥ 75,000; decrease dose by 25% or continue full dose with growth factor support. |
+| GRADE                   | ANC              | PLATELETS                                | MODIFICATION                                                                                                          |
+|-------------------------|------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| 1,500 - 1,900           | 75,000 - 150,000 | Resume treatment with no dose reduction. | Grade 1                                                                                                               |
+| Grade 2 1,000 - < 1,500 | 50,000 - <       | 75,000                                   | Wait until ANC ≥ 1,500 and platelets ≥ 75,000; redose with no dose reduction.                                         |
+| Grade 3 500 - < 1,000   | 25,000 - <       | 50,000                                   | Wait until ANC ≥ 1,500 and platelets ≥ 75,000; redose with no dose reduction.                                         |
+| Grade 4 < 500           |                  | < 25,000                                 | Wait until ANC ≥ 1,500 and platelets ≥ 75,000; decrease dose by 25% or continue full dose with growth factor support. |
 
 For multiple myeloma patients treated with doxorubicin pegylated liposomal  in combination with bortezomib who experience PPE or stomatitis, the doxorubicin pegylated liposomal dose should be modified as described in Table 1 and 2 above respectively. Table 4, below provides the schedule
 
@@ -158,7 +158,7 @@ Doxorubicin pegylated liposomal   pharmacokinetics determined in a small number 
 
 As doxorubicin is metabolised by the liver and excreted in the bile, dose modification should not be required. Population pharmacokinetic data (in the range of creatinine clearance tested of 30-156 mL/min) demonstrate that doxorubicin clearance is not influenced by renal function. No pharmacokinetic data are available in patients with creatinine clearance of less than 30 mL/min.
 
-## AIDS-related KS patients with splenectomy
+AIDS-related KS patients with splenectomy
 
 <div style=\"page-break-after: always\"></div>
 
@@ -170,7 +170,7 @@ The experience in children is limited ZOLSKETIL pegylated liposomal is not recom
 
 ## Elderly
 
-Population  based  analysis  demonstrates  that  age  across  the  range  tested  (21-75  years)  does  not significantly alter the pharmacokinetics of doxorubicin.
+Population  based  analysis  demonstrates  that  age  across  the  range  tested  (21 -75  years)  does  not significantly alter the pharmacokinetics of doxorubicin.
 
 ## Method of administration
 
@@ -270,7 +270,7 @@ Doxorubicin pegylated liposomal contains sucrose and the dose is administered in
 
 ## Excipients
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose and is essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose and is essentially 'sodium -free'.
 
 For common adverse reaction which required dose modification or discontinuation see section 4.8.
 
@@ -318,80 +318,80 @@ Table 5 summarises the adverse drug reactions that occurred in patients receivin
 
 Table 5: Adverse reactions in patients treated with doxorubicin pegylated liposomal
 
-| System                            | Frequency all grades   | Adverse drug reaction                                                                                                                                              |
+| System Organ                      | Frequency all grades   | Adverse drug reaction                                                                                                                                              |
 |-----------------------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Organ Infections and infestations | Common                 | Sepsis                                                                                                                                                             |
-| Organ Infections and infestations | Common                 | Pneumonia                                                                                                                                                          |
-| Organ Infections and infestations | Common                 | Pneumocystis jirovecii pneumonia                                                                                                                                   |
-| Organ Infections and infestations | Common                 | Cytomegalovirus infection including cytomegalovirus chorioretinitis                                                                                                |
-| Organ Infections and infestations | Common                 | Mycobacterium avium complex infection                                                                                                                              |
-| Organ Infections and infestations | Common                 | Candidiasis                                                                                                                                                        |
-| Organ Infections and infestations | Common                 | Herpes zoster                                                                                                                                                      |
-| Organ Infections and infestations | Common                 | Urinary tract infection                                                                                                                                            |
-| Organ Infections and infestations | Common                 | Infection                                                                                                                                                          |
-| Organ Infections and infestations | Common                 | Upper respiratory tract infection                                                                                                                                  |
-| Organ Infections and infestations | Common                 | Oral candidiasis                                                                                                                                                   |
-| Organ Infections and infestations | Common                 | Folliculitis                                                                                                                                                       |
-| Organ Infections and infestations | Common                 | Pharyngitis                                                                                                                                                        |
-| Organ Infections and infestations | Common                 | Nasopharyngitis                                                                                                                                                    |
-| Organ Infections and infestations | Uncommon               | Herpes simplex                                                                                                                                                     |
-| Organ Infections and infestations | Uncommon               | Fungal infection                                                                                                                                                   |
-| Organ Infections and infestations | Rare                   | Opportunistic infection (including Aspergillus, Histoplasma , Isospora , Legionella , Microsporidium , Salmonella , Staphylococcus , Toxoplasma , Tuberculosis ) a |
-| Organ Infections and infestations | Not known              | Acute myeloid leukaemia b                                                                                                                                          |
+| Class Infections and infestations | Common                 | Sepsis                                                                                                                                                             |
+| Class Infections and infestations | Common                 | Pneumonia                                                                                                                                                          |
+| Class Infections and infestations | Common                 | Pneumocystis jirovecii pneumonia                                                                                                                                   |
+| Class Infections and infestations | Common                 | Cytomegalovirus infection including cytomegalovirus chorioretinitis                                                                                                |
+| Class Infections and infestations | Common                 | Mycobacterium avium complex infection                                                                                                                              |
+| Class Infections and infestations | Common                 | Candidiasis                                                                                                                                                        |
+| Class Infections and infestations | Common                 | Herpes zoster                                                                                                                                                      |
+| Class Infections and infestations | Common                 | Urinary tract infection                                                                                                                                            |
+| Class Infections and infestations | Common                 | Infection                                                                                                                                                          |
+| Class Infections and infestations | Common                 | Upper respiratory tract infection                                                                                                                                  |
+| Class Infections and infestations | Common                 | Oral candidiasis                                                                                                                                                   |
+| Class Infections and infestations | Common                 | Folliculitis                                                                                                                                                       |
+| Class Infections and infestations | Common                 | Pharyngitis                                                                                                                                                        |
+| Class Infections and infestations | Common                 | Nasopharyngitis                                                                                                                                                    |
+| Class Infections and infestations | Uncommon               | Herpes simplex                                                                                                                                                     |
+| Class Infections and infestations | Uncommon               | Fungal infection                                                                                                                                                   |
+| Class Infections and infestations | Rare                   | Opportunistic infection (including Aspergillus, Histoplasma , Isospora , Legionella , Microsporidium , Salmonella , Staphylococcus , Toxoplasma , Tuberculosis ) a |
+| Class Infections and infestations | Not known              | Acute myeloid leukaemia b                                                                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
-| Neoplasms benign, malignant and                |             | Myelodysplastic syndrome b      |
-|------------------------------------------------|-------------|---------------------------------|
-| unspecified (including cysts and l ) Blood and |             | Oral neoplasm b                 |
-| lymphatic disorders                            | Very common | Leukopaenia                     |
-| lymphatic disorders                            | Very common | Neutropaenia                    |
-| lymphatic disorders                            |             | Lymphopaenia                    |
-| lymphatic disorders                            |             | Anaemia (including hypochromic) |
-| lymphatic disorders                            | Common      | Thrombocytopaenia               |
-| lymphatic disorders                            |             | Febrile neutropaenia            |
-| lymphatic disorders                            | Uncommon    | Pancytopaenia                   |
-| lymphatic disorders                            |             | Thrombocytosis                  |
-| lymphatic disorders                            | Rare        | Bone marrow failure             |
-| Immune system disorders                        | Uncommon    | Hypersensitivity                |
-| Immune system disorders                        | Uncommon    | Anaphylactic reaction           |
-| Metabolism and nutrition                       | Rare        | Anaphylactoid reaction          |
-| Metabolism and nutrition                       | Very common | Decreased appetite              |
-| Metabolism and nutrition                       | Common      | Cachexia                        |
-| disorders                                      | Common      | Dehydration                     |
-| Metabolism and nutrition                       | Common      | Hypokalaemia                    |
-| Metabolism and nutrition                       | Common      | Hyponatraemia                   |
-| Metabolism and nutrition                       | Common      | Hypocalcaemia                   |
-| Metabolism and nutrition                       | Uncommon    | Hyperkalaemia                   |
-| Metabolism and nutrition                       |             | Hypomagnesaemia                 |
-| Psychiatri c disorders                         | Common      | Confusional state               |
-| Psychiatri c disorders                         | Common      | Anxiety                         |
-| Psychiatri c disorders                         | Common      | Depression                      |
-| Psychiatri c disorders                         | Common      | Insomnia                        |
-| Nervous system disorders                       | Common      | Neuropathy peripheral           |
-| Nervous system disorders                       |             | Peripheral sensory neuropathy   |
-| Nervous system disorders                       |             | Neuralgia                       |
-| Nervous system disorders                       |             | Paraesthesia                    |
-| Nervous system disorders                       |             | Hypoaesthesia                   |
-| Nervous system disorders                       |             | Dysgeusia                       |
-| Nervous system disorders                       |             | Headache                        |
-| Nervous system disorders                       |             | Lethargy                        |
-| Nervous system disorders                       |             | Dizziness                       |
-| Nervous system disorders                       | Uncommon    | Polyneuropathy                  |
-| Nervous system disorders                       | Uncommon    | Convulsion                      |
-| Nervous system disorders                       | Uncommon    | Syncope                         |
-| Nervous system disorders                       | Uncommon    | Dysaesthesia                    |
-| Nervous system disorders                       | Uncommon    | Somnolence                      |
-| Eye disorders                                  | Common      | Conjunctivitis                  |
-| Eye disorders                                  | Uncommon    | Vision blurred                  |
-| Eye disorders                                  | Uncommon    | Lacrimation increased           |
-| Eye disorders                                  | Rare        | Retinitis                       |
-| Cardiac disorders a                            | Common      | Tachycardia                     |
-| Cardiac disorders a                            | Uncommon    | Palpitations                    |
-| Cardiac disorders a                            | Uncommon    | Cardiac arrest                  |
-| Cardiac disorders a                            | Uncommon    | Cardiac failure                 |
-| Cardiac disorders a                            | Uncommon    | Cardiac failure congestive      |
-| Cardiac disorders a                            | Uncommon    | Cardiomyopathy                  |
+| Neoplasms benign,                                                |             | Myelodysplastic syndrome b      |
+|------------------------------------------------------------------|-------------|---------------------------------|
+| malignant and unspecified (including cysts and polyps) Blood and |             | Oral neoplasm b                 |
+| lymphatic system disorders                                       | Very common | Leukopaenia                     |
+| lymphatic system disorders                                       |             | Neutropaenia                    |
+| lymphatic system disorders                                       |             | Lymphopaenia                    |
+| lymphatic system disorders                                       |             | Anaemia (including hypochromic) |
+| lymphatic system disorders                                       | Common      | Thrombocytopaenia               |
+| lymphatic system disorders                                       |             | Febrile neutropaenia            |
+| lymphatic system disorders                                       | Uncommon    | Pancytopaenia                   |
+| lymphatic system disorders                                       |             | Thrombocytosis                  |
+| lymphatic system disorders                                       | Rare        | Bone marrow failure             |
+| Immune system disorders                                          | Uncommon    | Hypersensitivity                |
+| Immune system disorders                                          | Uncommon    | Anaphylactic reaction           |
+| Immune system disorders                                          | Rare        | Anaphylactoid reaction          |
+| Metabolism and nutrition disorders                               | Very common | Decreased appetite              |
+| Metabolism and nutrition disorders                               | Common      | Cachexia                        |
+| Metabolism and nutrition disorders                               | Common      | Dehydration                     |
+| Metabolism and nutrition disorders                               | Common      | Hypokalaemia                    |
+| Metabolism and nutrition disorders                               | Common      | Hyponatraemia                   |
+| Metabolism and nutrition disorders                               | Common      | Hypocalcaemia                   |
+| Metabolism and nutrition disorders                               | Uncommon    | Hyperkalaemia                   |
+| Metabolism and nutrition disorders                               |             | Hypomagnesaemia                 |
+| Psychiatri c disorders                                           | Common      | Confusional state               |
+| Psychiatri c disorders                                           | Common      | Anxiety                         |
+| Psychiatri c disorders                                           | Common      | Depression                      |
+| Psychiatri c disorders                                           | Common      | Insomnia                        |
+| Nervous system disorders                                         | Common      | Neuropathy peripheral           |
+| Nervous system disorders                                         | Common      | Peripheral sensory neuropathy   |
+| Nervous system disorders                                         | Common      | Neuralgia                       |
+| Nervous system disorders                                         | Common      | Paraesthesia                    |
+| Nervous system disorders                                         | Common      | Hypoaesthesia                   |
+| Nervous system disorders                                         | Common      | Dysgeusia                       |
+| Nervous system disorders                                         | Common      | Headache                        |
+| Nervous system disorders                                         | Common      | Lethargy                        |
+| Nervous system disorders                                         | Common      | Dizziness                       |
+| Nervous system disorders                                         | Uncommon    | Polyneuropathy                  |
+| Nervous system disorders                                         | Uncommon    | Convulsion                      |
+| Nervous system disorders                                         | Uncommon    | Syncope                         |
+| Nervous system disorders                                         | Uncommon    | Dysaesthesia                    |
+| Nervous system disorders                                         | Uncommon    | Somnolence                      |
+| Eye disorders                                                    | Common      | Conjunctivitis                  |
+| Eye disorders                                                    | Uncommon    | Vision blurred                  |
+| Eye disorders                                                    |             | Lacrimation increased           |
+| Eye disorders                                                    | Rare        | Retinitis                       |
+| Cardiac disorders a                                              | Common      | Tachycardia                     |
+| Cardiac disorders a                                              | Uncommon    | Palpitations                    |
+| Cardiac disorders a                                              |             | Cardiac arrest                  |
+| Cardiac disorders a                                              |             | Cardiac failure                 |
+| Cardiac disorders a                                              |             | Cardiac failure congestive      |
+| Cardiac disorders a                                              |             | Cardiomyopathy                  |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -405,108 +405,110 @@ Table 5: Adverse reactions in patients treated with doxorubicin pegylated liposo
 | Vascula | Common | Hypertension              |
 | r       |        | Hypotension               |
 
-<div style=\"page-break-after: always\"></div>
+disorder
 
-|                                                 |             | Flushing                                                   |
-|-------------------------------------------------|-------------|------------------------------------------------------------|
-|                                                 | Uncommon    | Pulmonary embolism                                         |
-|                                                 |             | Infusion site necrosis (including soft tissue              |
-|                                                 |             | necrosis and skin necrosis)                                |
-|                                                 |             | Phlebitis                                                  |
-|                                                 |             | Orthostatic hypotension                                    |
-|                                                 | Rare        | Thrombophlebitis                                           |
-|                                                 |             | Venous thrombosis                                          |
-|                                                 |             | Vasodilatation                                             |
-| Respiratory, thoracic and mediastinal disorders | Common      | Dyspnoea                                                   |
-| Respiratory, thoracic and mediastinal disorders |             | Dyspnoea exertional                                        |
-| Respiratory, thoracic and mediastinal disorders |             | Epistaxis                                                  |
-|                                                 |             | Cough                                                      |
-|                                                 | Uncommon    | Asthma                                                     |
-|                                                 |             | Chest discomfort                                           |
-|                                                 | Rare        | Throat tightness                                           |
-|                                                 | Not Known   | Interstitial lung disease                                  |
-| Gastrointestinal disorders                      | Very common | Stomatitis                                                 |
-| Gastrointestinal disorders                      |             | Nausea                                                     |
-|                                                 |             | Vomiting                                                   |
-|                                                 |             | Diarrhoea                                                  |
-|                                                 |             | Constipation                                               |
-|                                                 | Common      | Gastritis                                                  |
-|                                                 |             | Aphthous stomatitis                                        |
-|                                                 |             | Mouth ulceration                                           |
-|                                                 |             | Dyspepsia                                                  |
-|                                                 |             | Dysphagia                                                  |
-|                                                 |             | Oesophagitis                                               |
-|                                                 |             | Abdominal pain                                             |
-|                                                 |             | Abdominal pain upper                                       |
-|                                                 |             | Oral pain                                                  |
-|                                                 |             | Dry mouth                                                  |
-|                                                 | Uncommon    | Flatulence                                                 |
-|                                                 |             | Gingivitis                                                 |
-|                                                 | Rare        | Glossitis                                                  |
-|                                                 |             | Lip ulceration                                             |
-| Skin and subcutaneous tissue disorders          | Very common | Palmar plantar erythrodysaesthesia syndrome a              |
-| Skin and subcutaneous tissue disorders          |             | Rash (including erythematous, maculo-papular, and papular) |
-|                                                 |             | Alopecia                                                   |
-|                                                 | Common      | Skin exfoliation                                           |
-|                                                 |             | Blister                                                    |
-|                                                 |             | Dry skin                                                   |
-|                                                 |             | Erythema                                                   |
-|                                                 |             | Pruritus                                                   |
-|                                                 |             | Skin hyperpigmentation                                     |
-|                                                 | Uncommon    | Dermatitis                                                 |
-|                                                 |             | Dermatitis exfoliative                                     |
-|                                                 |             | Acne                                                       |
-|                                                 |             | Skin ulcer                                                 |
-|                                                 |             | Dermatitis allergic                                        |
+s
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                      |                       | Urticaria                                                                                                                                       |
-|------------------------------------------------------|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                      |                       | Skin discolouration                                                                                                                             |
-|                                                      |                       | Petechiae                                                                                                                                       |
-|                                                      |                       | Pigmentation disorder                                                                                                                           |
-|                                                      |                       | Nail disorder                                                                                                                                   |
-|                                                      | Rare                  | Toxic epidermal necrolysis                                                                                                                      |
-|                                                      |                       | Erythema multiforme                                                                                                                             |
-|                                                      |                       | Dermatitis bullous                                                                                                                              |
-|                                                      |                       | Lichenoid keratosis                                                                                                                             |
-| Musculoskeletal and connective                       | Not known Very common | Stevens-Johnson syndrome b chest                                                                                                                |
-| tissue disorders                                     | Common                | Musculoskeletal pain (including musculoskeletal pain, back pain, pain in extremity) Muscle spasms                                               |
-| Musculoskeletal and connective                       |                       | Myalgia                                                                                                                                         |
-| Musculoskeletal and connective                       |                       | Arthralgia                                                                                                                                      |
-| Musculoskeletal and connective                       |                       | Bone pain                                                                                                                                       |
-| Musculoskeletal and connective                       | Uncommon              | Muscular weakness                                                                                                                               |
-| Renal and urinary disorders                          | Common                | Dysuria                                                                                                                                         |
-| Reproductive                                         | Uncommon              | Breast pain                                                                                                                                     |
-| disorders                                            | Rare                  | Vaginal infection                                                                                                                               |
-| disorders                                            |                       | Scrotal erythema                                                                                                                                |
-| General disorders and administration site conditions | Very common           | Pyrexia                                                                                                                                         |
-| General disorders and administration site conditions |                       | Fatigue                                                                                                                                         |
-| General disorders and administration site conditions | Common                | Infusion-related reaction                                                                                                                       |
-| General disorders and administration site conditions |                       | Pain                                                                                                                                            |
-| General disorders and administration site conditions |                       | Chest pain                                                                                                                                      |
-| General disorders and administration site conditions |                       | Influenza-like illness                                                                                                                          |
-| General disorders and administration site conditions |                       | Chills                                                                                                                                          |
-| General disorders and administration site conditions |                       | Mucosal inflammation                                                                                                                            |
-| General disorders and administration site conditions |                       | Asthenia                                                                                                                                        |
-| General disorders and administration site conditions |                       | Malaise                                                                                                                                         |
-| General disorders and administration site conditions |                       | Oedema                                                                                                                                          |
-| General disorders and administration site conditions |                       | Oedema peripheral                                                                                                                               |
-| General disorders and administration site conditions | Uncommon              | Administration site extravasation                                                                                                               |
-| General disorders and administration site conditions |                       | Injection site reaction                                                                                                                         |
-| General disorders and administration site conditions |                       | Face oedema                                                                                                                                     |
-| General disorders and administration site conditions |                       | Hyperthermia                                                                                                                                    |
-| General disorders and administration site conditions | Rare                  | Mucous membrane disorder                                                                                                                        |
-| Investigations                                       | Common                | Weight decreased                                                                                                                                |
-| Investigations                                       | Uncommon              | Ejection fraction decreased                                                                                                                     |
-| Investigations                                       | Rare                  | Liver function test abnormal (including Blood bilirubin increased, Alanine aminotransferase increased and Aspartate aminotransferase increased) |
-| Investigations                                       |                       | Blood creatinine increased                                                                                                                      |
-| Injury, poisoning and procedural complications       | Uncommon              | Radiation recall phenomenon a                                                                                                                   |
+|                                        |             | Flushing                                                   |
+|----------------------------------------|-------------|------------------------------------------------------------|
+|                                        | Uncommon    | Pulmonary embolism                                         |
+|                                        |             | Infusion site necrosis (including soft tissue              |
+|                                        |             | necrosis and skin necrosis)                                |
+|                                        |             | Phlebitis                                                  |
+|                                        |             | Orthostatic hypotension                                    |
+|                                        | Rare        | Thrombophlebitis                                           |
+|                                        |             | Venous thrombosis                                          |
+|                                        |             | Vasodilatation                                             |
+| Respiratory, thoracic and mediastinal  | Common      | Dyspnoea                                                   |
+| Respiratory, thoracic and mediastinal  |             | Dyspnoea exertional                                        |
+| Respiratory, thoracic and mediastinal  |             | Epistaxis                                                  |
+|                                        |             | Cough                                                      |
+|                                        | Uncommon    | Asthma                                                     |
+|                                        |             | Chest discomfort                                           |
+|                                        | Rare        | Throat tightness                                           |
+|                                        | Not Known   | Interstitial lung disease                                  |
+| Gastrointestinal disorders             | Very common | Stomatitis                                                 |
+| Gastrointestinal disorders             |             | Nausea                                                     |
+|                                        |             | Vomiting                                                   |
+|                                        |             | Diarrhoea                                                  |
+|                                        |             | Constipation                                               |
+|                                        | Common      | Gastritis                                                  |
+|                                        |             | Aphthous stomatitis                                        |
+|                                        |             | Mouth ulceration                                           |
+|                                        |             | Dyspepsia                                                  |
+|                                        |             | Dysphagia                                                  |
+|                                        |             | Oesophagitis                                               |
+|                                        |             | Abdominal pain                                             |
+|                                        |             | Abdominal pain upper                                       |
+|                                        |             | Oral pain                                                  |
+|                                        |             | Dry mouth                                                  |
+|                                        | Uncommon    | Flatulence                                                 |
+|                                        |             | Gingivitis                                                 |
+|                                        | Rare        | Glossitis                                                  |
+|                                        |             | Lip ulceration                                             |
+| Skin and subcutaneous tissue disorders | Very common | Palmar plantar erythrodysaesthesia syndrome a              |
+| Skin and subcutaneous tissue disorders |             | Rash (including erythematous, maculo-papular, and papular) |
+|                                        |             | Alopecia                                                   |
+|                                        | Common      | Skin exfoliation                                           |
+|                                        |             | Blister                                                    |
+|                                        |             | Dry                                                        |
+|                                        |             | skin                                                       |
+|                                        |             | Erythema                                                   |
+|                                        |             | Pruritus                                                   |
+|                                        |             | Skin hyperpigmentation                                     |
+|                                        | Uncommon    | Dermatitis                                                 |
+|                                        |             | Dermatitis exfoliative                                     |
+|                                        |             | Acne                                                       |
+|                                        |             | Skin ulcer                                                 |
+|                                        |             | Dermatitis allergic                                        |
 
-b Post-marketing adverse reaction
+<div style=\"page-break-after: always\"></div>
 
-a See Description of selected adverse reactions
+|                                                      |                    | Urticaria                                                                                                                                       |
+|------------------------------------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                      |                    | Skin discolouration                                                                                                                             |
+|                                                      |                    | Petechiae                                                                                                                                       |
+|                                                      |                    | Pigmentation disorder                                                                                                                           |
+|                                                      |                    | Nail disorder                                                                                                                                   |
+|                                                      | Rare               | Toxic epidermal necrolysis                                                                                                                      |
+|                                                      |                    | Erythema multiforme                                                                                                                             |
+|                                                      |                    | Dermatitis bullous                                                                                                                              |
+|                                                      |                    | Lichenoid keratosis                                                                                                                             |
+| Musculoskeletal and connective tissue disorders      | Not known          | Stevens-Johnson syndrome b                                                                                                                      |
+| Musculoskeletal and connective tissue disorders      | Very common Common | Musculoskeletal pain (including musculoskeletal chest pain, back pain, pain in extremity) Muscle spasms                                         |
+| Musculoskeletal and connective tissue disorders      |                    | Myalgia                                                                                                                                         |
+| Musculoskeletal and connective tissue disorders      |                    | Arthralgia                                                                                                                                      |
+| Musculoskeletal and connective tissue disorders      |                    | Bone pain                                                                                                                                       |
+| Musculoskeletal and connective tissue disorders      | Uncommon           | Muscular weakness                                                                                                                               |
+| Renal and                                            | Common             | Dysuria                                                                                                                                         |
+| urinary disorders                                    | Not Known          | Renal-limited thrombotic microangiopathy                                                                                                        |
+| Reproductive                                         | Uncommon           | Breast pain                                                                                                                                     |
+| disorders                                            | Rare               | Vaginal infection                                                                                                                               |
+|                                                      |                    | Scrotal erythema                                                                                                                                |
+| General disorders and administration site conditions | Very common        | Pyrexia                                                                                                                                         |
+| General disorders and administration site conditions |                    | Fatigue                                                                                                                                         |
+| General disorders and administration site conditions | Common             | Infusion-related reaction                                                                                                                       |
+| General disorders and administration site conditions |                    | Pain                                                                                                                                            |
+| General disorders and administration site conditions |                    | Chest pain                                                                                                                                      |
+| General disorders and administration site conditions |                    | Influenza-like illness                                                                                                                          |
+| General disorders and administration site conditions |                    | Chills                                                                                                                                          |
+| General disorders and administration site conditions |                    | Mucosal inflammation                                                                                                                            |
+| General disorders and administration site conditions |                    | Asthenia                                                                                                                                        |
+| General disorders and administration site conditions |                    | Malaise                                                                                                                                         |
+| General disorders and administration site conditions |                    | Oedema                                                                                                                                          |
+| General disorders and administration site conditions |                    | Oedema peripheral                                                                                                                               |
+| General disorders and administration site conditions | Uncommon           | Administration site extravasation                                                                                                               |
+| General disorders and administration site conditions |                    | Injection site reaction                                                                                                                         |
+| General disorders and administration site conditions |                    | Face oedema                                                                                                                                     |
+| General disorders and administration site conditions |                    | Hyperthermia                                                                                                                                    |
+| General disorders and administration site conditions | Rare               | Mucous membrane disorder                                                                                                                        |
+| Investigations                                       | Common             | Weight decreased                                                                                                                                |
+| Investigations                                       | Uncommon           | Ejection fraction decreased                                                                                                                     |
+| Investigations                                       | Rare               | Liver function test abnormal (including Blood bilirubin increased, Alanine aminotransferase increased and Aspartate aminotransferase increased) |
+| Investigations                                       |                    | Blood creatinine increased                                                                                                                      |
+| Injury, poisoning and procedural complications       | Uncommon           | Radiation recall phenomenon a                                                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -576,7 +578,7 @@ A phase III randomised, parallel-group, open-label, multicentre study comparing 
 
 Doxorubicin pegylated liposomal is a long-circulating pegylated liposomal formulation of doxorubicin hydrochloride. Pegylated liposomes contain surface-grafted segments of the hydrophilic polymer methoxypolyethylene glycol (MPEG). These linear MPEG groups extend from the liposome surface creating a protective coating that reduces interactions between the lipid bilayer membrane and the plasma components. This allows the doxorubicin pegylated liposomal liposomes to circulate for prolonged periods in the blood stream. Pegylated liposomes are small enough (average diameter of approximately 100 nm) to pass intact (extravasate) through defective blood vessels supplying tumours. Evidence of penetration of pegylated liposomes from blood vessels and their entry and accumulation in tumours has been seen in mice with C-26 colon carcinoma tumours and in transgenic mice with KS-like lesions. The pegylated liposomes also have a low permeability lipid matrix and internal aqueous buffer system that combine to keep doxorubicin hydrochloride encapsulated during liposome residence time in circulation.
 
-The plasma pharmacokinetics of doxorubicin pegylated liposomal in humans differ significantly from those reported in the literature for standard doxorubicin hydrochloride preparations. At lower doses (10 mg/m 2 -20 mg/m 2 ) doxorubicin pegylated liposomal displayed linear pharmacokinetics. Over the dose range of 10 mg/m 2 -60 mg/m 2 doxorubicin pegylated liposomal in displayed non-linear pharmacokinetics. Standard doxorubicin hydrochloride displays extensive tissue distribution (volume of distribution: 700 to 1,100 l/m 2 ) and a rapid elimination clearance (24 to 73 l/h/m 2 ). In contrast, the pharmacokinetic profile of doxorubicin pegylated liposomal indicates that doxorubicin pegylated liposomal is confined mostly to the vascular fluid volume and that the clearance of doxorubicin from the blood is dependent upon the liposomal carrier. Doxorubicin becomes available after the liposomes are extravasated and enter the tissue compartment.
+The plasma pharmacokinetics of doxorubicin pegylated liposomal in humans differ significantly from those reported in the literature for standard doxorubicin hydrochloride preparations. At lower doses (10 mg/m 2 -20 mg/m 2 ) doxorubicin pegylated liposomal displayed linear pharmacokinetics. Over the dose range of 10 mg/m 2 -60 mg/m 2  doxorubicin pegylated liposomal in displayed non-linear pharmacokinetics. Standard doxorubicin hydrochloride displays extensive tissue distribution (volume of distribution: 700 to 1,100 l/m 2 ) and a rapid elimination clearance (24 to 73 l/h/m 2 ). In contrast, the pharmacokinetic profile of doxorubicin pegylated liposomal indicates that doxorubicin pegylated liposomal is confined mostly to the vascular fluid volume and that the clearance of doxorubicin from the blood is dependent upon the liposomal carrier. Doxorubicin becomes available after the liposomes are extravasated and enter the tissue compartment.
 
 At equivalent doses, the plasma concentration and AUC values of doxorubicin pegylated liposomal which represent mostly pegylated liposomal doxorubicin hydrochloride (containing 90% to 95% of the
 
@@ -596,7 +598,7 @@ The pharmacokinetics of doxorubicin pegylated liposomal determined in 18 patient
 
 ## Ovarian cancer patients
 
-The pharmacokinetics of doxorubicin pegylated liposomal determined in 11 patients with ovarian carcinoma were similar to the pharmacokinetics determined in the larger population of 120 patients with various cancers. The mean intrinsic clearance was 0.021 l/h/m 2 (range 0.009-0.041 l/h/m 2 ), the mean central volume of distribution was 1.95 l/m 2 (range 1.67-2.40 l/m 2 ). The mean apparent half-life was 75.0 hours (range 36.1-125 hours).
+The pharmacokinetics of doxorubicin pegylated liposomal determined in 11 patients with ovarian carcinoma were similar to the pharmacokinetics determined in the larger population of 120 patients with various cancers. The mean intrinsic clearance was 0.021 l/h/m 2 (range 0.009 -0.041 l/h/m 2 ), the mean central volume of distribution was 1.95 l/m 2 (range 1.67 -2.40 l/m 2 ). The mean apparent half-life was 75.0 hours (range 36.1 -125 hours).
 
 ## AIDS-related KS patients
 
@@ -610,11 +612,9 @@ Table 10. Pharmacokinetic parameters in doxorubicin pegylated liposomal-treated 
 | Maximum plasma concentration* (µg/mL) | 8.34 ± 0.49             |
 | Plasma clearance (l/h/m 2 )           | 0.041 ± 0.004           |
 | Volume of distribution (l/m 2 )       | 2.72 ± 0.120            |
-| AUC (µg/mL•h)                         | 590.00 ± 58.7           |
+| AUC (µg/mL •h)                        | 590.00 ± 58.7           |
 | λ 1 half-life (hours)                 | 5.2 ± 1.4               |
 | λ 2 half-life (hours)                 | 55.0 ± 4.8              |
-
-* Measured at the end of a 30-minute infusion
 
 ## 5.3 Preclinical safety data
 
@@ -704,13 +704,13 @@ It is recommended that the ZOLSKETIL pegylated liposomal infusion line be connec
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est 6ª planta, 08039, Barcelona,
-
-Spain
+Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est 6ª planta, 08039, Barcelona, Spain
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/22/1629/001 EU/1/22/1629/002 EU/1/22/1629/003 EU/1/22/1629/004
+EU/1/22/1629/001 EU/1/22/1629/002 EU/1/22/1629/003
+
+EU/1/22/1629/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -737,7 +737,7 @@ Name and address of the manufacturer(s) responsible for batch release
 
 Accord Healthcare Polska Sp. z o.o., ul. Lutomierska 50, Pabianice, 95-200 Poland
 
-Accord Healthcare Single Member S.A., 64 th Km National Road, Athens, Lamia, Schimatari, 32009, Greece
+Accord Healthcare Single Member S.A., 64 th  Km National Road, Athens, Lamia, Schimatari, 32009, Greece
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -747,20 +747,20 @@ Medicinal  product  subject  to  restricted  medical  prescription  (see  Annex 
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic Safety Update Reports
+## · Periodic Safety Update Reports
 
 The requirements for submission of periodic safety update reports for this medicinal product are set out in  the  list  of  Union  reference  dates  (EURD  list)  provided  for  under  Article  107c(7)  of  Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk Management Plan (RMP)
+## · Risk Management Plan (RMP)
 
 The MAH shall perform the required pharmacovigilance activities and interventions detailed in the  agreed  RMP  presented  in  Module  1.8.2  of  the  Marketing  Authorisation  and  any  agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 If the dates for submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
 
@@ -790,9 +790,7 @@ One mL of ZOLSKETIL pegylated liposomal contains 2 mg doxorubicin hydrochloride.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: hydrogenated soy phosphatidylcholine, N-(carbonylmethoxypolyethylene glycol-2000)-
-
-1,2- distearoyl- sn-glycero-3- phosphoethanolamine, sodium salt (MPEG 2000-DSPE), cholesterol, ammonium sulphate, histidine, sucrose, water for injections, hydrochloric acid concentrated, sodium hydroxide
+Excipients: hydrogenated soy phosphatidylcholine, N-(carbonylmethoxypolyethylene glycol-2000)1,2- distearoyl- sn-glycero-3- phosphoethanolamine, sodium salt (MPEG 2000-DSPE), cholesterol, ammonium sulphate, histidine, sucrose, water for injections, hydrochloric acid concentrated, sodium hydroxide
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -822,8 +820,6 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-Store in a refrigerator. Do not freeze.
-
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Cytotoxic
@@ -842,23 +838,19 @@ EU/1/22/1629/001 (1 vial) EU/1/22/1629/002 (10 vials)
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -880,9 +872,7 @@ One mL of ZOLSKETIL pegylated liposomal contains 2 mg doxorubicin hydrochloride.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: hydrogenated soy phosphatidylcholine, N-(carbonylmethoxypolyethylene glycol-2000)-
-
-1,2- distearoyl- sn-glycero-3- phosphoethanolamine, sodium salt (MPEG 2000-DSPE), cholesterol, ammonium sulphate, histidine, sucrose, water for injections, hydrochloric acid concentrated, sodium hydroxide
+Excipients: hydrogenated soy phosphatidylcholine, N-(carbonylmethoxypolyethylene glycol-2000)1,2- distearoyl- sn-glycero-3- phosphoethanolamine, sodium salt (MPEG 2000-DSPE), cholesterol, ammonium sulphate, histidine, sucrose, water for injections, hydrochloric acid concentrated, sodium hydroxide
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -894,7 +884,9 @@ Excipients: hydrogenated soy phosphatidylcholine, N-(carbonylmethoxypolyethylene
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Intravenous use after dilution. Read the package leaflet before use.
+Intravenous use after dilution.
+
+Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -914,7 +906,7 @@ EXP
 
 Store in a refrigerator. Do not freeze.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Cytotoxic
 
@@ -922,23 +914,11 @@ Partially used vials should be discarded.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U.
-
-World Trade Center,
-
-Moll de Barcelona, s/n,
-
-Edifici Est 6ª planta,
-
-08039 Barcelona,
-
-Spain
+Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est 6ª planta, 08039 Barcelona, Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/22/1629/003 (1 vial)
-
-EU/1/22/1629/004 (10 vials)
+EU/1/22/1629/003 (1 vial) EU/1/22/1629/004 (10 vials)
 
 ## 13. BATCH NUMBER
 
@@ -952,7 +932,7 @@ Lot
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -974,9 +954,9 @@ VIAL LABEL 20 mg/10 mL
 
 ZOLSKETIL pegylated liposomal 2 mg/mL sterile concentrate doxorubicin hydrochloride IV after dilution
 
-2. METHOD OF ADMINISTRATION
+## 2. METHOD OF ADMINISTRATION
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
@@ -990,6 +970,8 @@ Lot
 
 ## 6. OTHER
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
 (VIAL LABEL) 50 mg/25 mL
@@ -998,7 +980,7 @@ Lot
 
 ZOLSKETIL pegylated liposomal 2 mg/mL sterile concentrate doxorubicin hydrochloride IV after dilution
 
-2. METHOD OF ADMINISTRATION
+## 2. METHOD OF ADMINISTRATION
 
 3. EXPIRY DATE
 
@@ -1012,17 +994,15 @@ Lot
 
 50 mg/25 mL
 
-6. OTHER
-
-<div style=\"page-break-after: always\"></div>
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## ZOLSKETIL pegylated liposomal 2 mg/mL concentrate for dispersion for infusion doxorubicin hydrochloride
 
@@ -1050,7 +1030,7 @@ ZOLSKETIL pegylated liposomal is used to treat cancer of the breast in patients 
 
 ZOLSKETIL pegylated liposomal is also used in combination with another medicine, bortezomib, to treat multiple myeloma (a cancer of the blood) in patients who have received at least 1 prior therapy.
 
-ZOLSKETIL pegylated liposomal is also used to produce an improvement in your Kaposi's sarcoma including flattening, lightening and even shrinkage of the cancer. Other symptoms of Kaposi's sarcoma, such as swelling around the tumour, may also improve or disappear.
+ZOLSKETIL pegylated liposomal is also used to produce an improvement in your Kaposi ' s sarcoma including flattening, lightening and even shrinkage of the cancer. Other symptoms of Kaposi ' s sarcoma, such as swelling around the tumour, may also improve or disappear.
 
 ZOLSKETIL pegylated liposomal contains a medicine which is able to interact with cells in such a way as to selectively kill cancer cells. The doxorubicin hydrochloride in ZOLSKETIL pegylated liposomal is enclosed in tiny spheres called pegylated liposomes which help to deliver the medicinal product from the blood stream to the cancerous tissue rather than healthy normal tissue.
 
@@ -1066,7 +1046,7 @@ You should tell your doctor about any of the following:
 
 - -if you are receiving any treatment for heart disease or liver disease;
 - -if you are diabetic, because ZOLSKETIL pegylated liposomal contains sugar which may require an adjustment to the treatment of your diabetes;
-- -if you have Kaposi's sarcoma and have had your spleen removed;
+- -if you have Kaposi ' s sarcoma and have had your spleen removed;
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1075,7 +1055,7 @@ You should tell your doctor about any of the following:
 - -if you have cancer where bone marrow makes abnormal blood cells
 - -if you have painful, macular reddening skin rash
 - -if you have leakage of vesicant fluids or medicines from the vein into the surrounding tissue
-- -if you have hand-foot syndrome (redness, swelling and blistering (a pocket of fluid between the upper layers of skin) on the palms of the hands and soles of the feet)
+- -if you have hand -foot syndrome (redness, swelling and blistering (a pocket of fluid between the upper layers of skin) on the palms of the hands and soles of the feet)
 
 ## Strategies to prevent and treat hand-foot syndrome include:
 
@@ -1123,7 +1103,7 @@ Do not drive or use any tools or machines if you feel tired or sleepy from treat
 
 ZOLSKETIL pegylated liposomal contains soya oil. If you are allergic to peanut or soya, do not use this medicine.
 
-ZOLSKETIL pegylated liposomal contains less than 1 mmol sodium (23 mg) per dose, that is to say 'essentially sodium-free'.
+ZOLSKETIL pegylated liposomal contains less than 1 mmol sodium (23 mg) per dose, that is to say ' essentially sodium-free ' .
 
 ## 3. How to use ZOLSKETIL pegylated liposomal
 
@@ -1135,7 +1115,7 @@ If you are being treated for breast cancer or ovarian cancer, ZOLSKETIL pegylate
 
 If you are being treated for multiple myeloma, and have already received at least 1 prior therapy, ZOLSKETIL pegylated liposomal will be administered at a dose of 30 mg per square metre of your body surface area (based on your height and weight) as a 1 hour intravenous infusion on day 4 of the bortezomib 3 week regimen immediately after the bortezomib infusion. The dose is repeated as long as you respond satisfactorily and tolerate treatment.
 
-If you are being treated for Kaposi'sarcoma, ZOLSKETIL pegylated liposomal will be administered at a dose of 20 mg per square metre of your body surface area (based on your height and weight). The dose is repeated every 2 to 3 weeks for 2-3 months, then as often as necessary to maintain an improvement in your condition.
+If you are being treated for Kaposi ' sarcoma, ZOLSKETIL pegylated liposomal will be administered at a dose of 20 mg per square metre of your body surface area (based on your height and weight). The dose is repeated every 2 to 3 weeks for 2-3 months, then as often as necessary to maintain an improvement in your condition.
 
 ## How ZOLSKETIL pegylated liposomal is given
 
@@ -1170,7 +1150,7 @@ Leaking of the injection fluid from the veins into the tissues under the skin ma
 Your doctor should be contacted immediately if any of the following serious side effects are noticed
 
 - -you develop fever, feel tired, or if you have signs of bruising or bleeding (very common)
-- -redness, swelling, peeling or tenderness, mainly on the hands or feet ('hand-foot' syndrome). These effects have been seen very commonly and are sometimes severe. In severe cases, these effects may interfere with certain daily activities, and may last for 4 weeks or longer before resolving completely. The doctor may wish to delay the start and/or reduce the dose of the next treatment (see Strategies to prevent and treat hand foot syndrome, below)
+- -redness, swelling, peeling or tenderness, mainly on the hands or feet ('hand -foot' syndrome). These effects have been seen very commonly and are sometimes severe. In severe cases, these effects may interfere with certain daily activities, and may last for 4 weeks or longer before resolving completely. The doctor may wish to delay the start and/or reduce the dose of the next treatment (see Strategies to prevent and treat hand foot syndrome, below)
 - -sores in mouth, severe diarrhoea or vomiting or nausea (very common)
 - -infections (common), including lung infections (pneumonia) or infections that may affect your
 - -vision
@@ -1225,26 +1205,23 @@ mouth) infection of the hair roots, infected or irritated throat, infected nose,
 
 When ZOLSKETIL pegylated liposomal is used alone, some of these effects are less likely to occur, and some have not occurred at all.
 
-## Uncommon side effects (may affect up to 1 in 100 people)
-
-- -herpes simplex virus infections (cold sores or genital herpes), fungal infection
-- -low number of all types of blood cells, increased number of 'platelets' (cells that help blood to clot)
-- -allergic reaction
-- -high level of potassium in the blood, low level of magnesium in the blood
-- -nerve damage affecting more than one area of the body
-- -fits (seizures), fainting
-- -unpleasant or painful sensation, especially to touch, feeling sleepy
-- -blurred vision, watery eyes
-- -heart beat feels fast or uneven (palpitations), heart muscle disease, heart damage
-- -tissue damage (necrosis) where the injection is given, inflamed veins that cause swelling and pain, feeling dizzy upon sitting up or standing up
-- -chest discomfort
-- -passing wind, inflamed gums (gingivitis)
-- -skin problems or rashes, including flaky or peeling skin, allergic skin rash, ulcer (sore) or hives on the skin, discoloured skin, change in the natural colour (pigment) of the skin, small red or purple spots caused by bleeding under the skin, nail problems, acne
-- -muscle weakness
-- -breast pain
-- -irritation or pain where the injection is given
-- -swollen face, high body temperature
-- -symptoms (such as inflammation, redness or pain) come back at a part of the body that previously received radiation therapy or was previously damaged by a chemotherapy injection into a vein
+| Uncommon side     | effects (may affect up to 1 in 100 people)                                                                                                                                                                                                                              |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| -                 | herpes simplex virus infections (cold sores or genital herpes), fungal infection low number of all types of blood cells, increased number of 'platelets' (cells that help blood to clot)                                                                                |
+| -                 |                                                                                                                                                                                                                                                                         |
+| -                 | allergic reaction high level of potassium in the blood, low level of magnesium in the                                                                                                                                                                                   |
+| - -               | blood nerve damage affecting more than one area of the body                                                                                                                                                                                                             |
+| - -               | fits (seizures), fainting unpleasant or painful sensation, especially to touch, feeling sleepy                                                                                                                                                                          |
+|                   | blurred vision, watery eyes                                                                                                                                                                                                                                             |
+| -                 | heart beat feels fast or uneven (palpitations), heart muscle disease, heart damage                                                                                                                                                                                      |
+| - -               | tissue damage (necrosis) where the injection is given, inflamed veins that cause swelling and pain, feeling dizzy upon sitting up or standing up                                                                                                                        |
+| - -               | chest discomfort passing wind, inflamed gums (gingivitis)                                                                                                                                                                                                               |
+| -                 | skin problems or rashes, including flaky or peeling skin, allergic skin rash, ulcer (sore) or hives on the skin, discoloured skin, change in the natural colour (pigment) of the skin, small red or purple spots caused by bleeding under the skin, nail problems, acne |
+| - muscle weakness | breast pain                                                                                                                                                                                                                                                             |
+| -                 | irritation or pain where the injection is given                                                                                                                                                                                                                         |
+| -                 |                                                                                                                                                                                                                                                                         |
+| -                 | swollen face, high body temperature symptoms (such as inflammation, redness or pain) come back at a part of the body that                                                                                                                                               |
+| -                 | previously received radiation therapy or was previously damaged by a chemotherapy injection into a vein                                                                                                                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1266,6 +1243,7 @@ When ZOLSKETIL pegylated liposomal is used alone, some of these effects are less
 
 - -cancer of the blood that develops quickly and affects the blood cells (acute myeloid leukaemia), bone marrow disease that affects the blood cells (myelodysplastic syndrome), cancer of themouth or lip
 - -coughing and shortness of breath, possibly accompanied by fever, that is not brought on by physical activity (Interstitial lung disease)
+- -clogging of very small blood vessels in the kidneys (renal-limited thrombotic microangiopathy)
 
 ## Reporting of side effects
 
@@ -1277,7 +1255,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the vial label and carton.
 
-Store in a refrigerator (2ºC - 8ºC). Do not freeze.
+Store in a refrigerator (2ºC -8ºC). Do not freeze.
 
 ## After dilution:
 
@@ -1289,7 +1267,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## 6. Contents of the pack and other information
 
-## What ZOLSKETIL pegylated liposomal contains
+What ZOLSKETIL pegylated liposomal contains
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1310,7 +1288,7 @@ Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est
 
 Accord Healthcare Polska Sp. z o.o. ul. Lutomierska 50, Pabianice, 95-200 Poland
 
-Accord Healthcare Single Member S.A., 64 th Km National Road, Athens, Lamia, Schimatari, 32009, Greece
+Accord Healthcare Single Member S.A., 64 th  Km National Road, Athens, Lamia, Schimatari, 32009, Greece
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1322,7 +1300,9 @@ Tel: +34 93 301 00 64
 
 EL
 
-Win Medica Pharmaceutical S.A. Tel: +30 210 7488 821
+Win Medica Pharmaceutical S.A.
+
+Tel: +30 210 7488 821
 
 ## This leaflet was last revised in {MM/YYYY}.
 

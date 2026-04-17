@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-12 13:31:38
+document_datetime: 2026-04-15 15:17:01
 document_pages: 62
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/prialt-epar-product-information_en.pdf
 document_name: prialt-epar-product-information_en.pdf
 version: success
-processing_time: 14.9908529
-conversion_datetime: 2025-12-31 05:16:04.335895
+processing_time: 16.3139137
+conversion_datetime: 2026-04-17 15:43:24.86546
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,7 +56,7 @@ Patients should undergo a neuropsychiatric evaluation before, after starting and
 
 ## Dose initiation
 
-Dosing of ziconotide should be initiated at no more than 2.4 μg /day and titrated on an individual patient basis according to analgesic response and adverse reactions.
+Dosing of ziconotide should be initiated at no more than 2.4 μg/day and titrated on an individual patient basis according to analgesic response and adverse reactions.
 
 ## Dose titration
 
@@ -220,15 +220,13 @@ Ziconotide may cause confusion, somnolence and other neurological adverse reacti
 
 The safety of ziconotide administered as a continuous intrathecal infusion has been evaluated in more than 1,400 patients participating in acute and chronic pain clinical trials. The duration of treatment has ranged from one-hour bolus infusion to continuous use for more than 6 years. The median exposure time was 43 days. The infusion dose rate ranged from 0.03 - 912 μg/day, with a median final dose rate of 7.2 μg/day.
 
-In clinical trials, 88% of patients experienced adverse reactions. The most common adverse reactions reported in long-term clinical trials were dizziness (42%), nausea (30%), nystagmus (23%), confusional state (25%), gait abnormal (16%), memory impairment (13%), vision blurred (14%), headache (12%), asthenia (13%), vomiting (11%), and somnolence (10%). Most adverse reactions were mild to moderate in severity and resolved over time.
+In clinical trials, 88% of patients experienced adverse reactions. The most common adverse reactions reported in longterm clinical trials were dizziness (42%), nausea (30%), nystagmus (23%), confusional state (25%), gait abnormal (16%), memory impairment (13%), vision blurred (14%), headache (12%), asthenia (13%), vomiting (11%), and somnolence (10%). Most adverse reactions were mild to moderate in severity and resolved over time.
 
 ## Tabulated list of adverse reactions
 
 Unless otherwise noted the table shows the incidence rates of adverse reactions reported in the intrathecal clinical trials with ziconotide (short- and long-term exposure). Within each frequency grouping undesirable effects are presented in order of decreasing frequency.
 
-Very common (≥1/10) Common (≥1/100 to &lt;1/10) Uncommon (≥1/1,000 to &lt;1/100) Rare (≥1/10,000 to &lt;1/1,000)
-
-Very rare (&lt;1/10,000)
+Very common (≥1/10) Common (≥1/100 to &lt;1/10) Uncommon (≥1/1,000 to &lt;1/100) Rare (≥1/10,000 to &lt;1/1,000) Very rare (&lt;1/10,000)
 
 Not known (cannot be estimated from the available data)
 
@@ -365,32 +363,32 @@ b Protocol amendments for better tolerance were necessary after high number of n
 
 Study Duration: Five days
 
-SD -Standard Deviation.
+SD - Standard Deviation.
 
 Efficacy results from study 96-002 (non-malignant pain; Wallace et al. 2006)
 
-|                                                              | Initial treatment assignment                                  | Initial treatment assignment   |         |
-|--------------------------------------------------------------|---------------------------------------------------------------|--------------------------------|---------|
-| Parameter                                                    | Ziconotide (n = 169) b                                        | Placebo (n = 86)               | p-value |
-| Mean VASPI score at baseline in mm(SD)                       | 80.1 (± 15.10)                                                | 76.9 (± 14.58)                 | _       |
-| Mean VASPI score at end of initial titration in mm(SD)       | 54.4 (± 29.30)                                                | 71.9 (± 30.93)                 | _       |
-| %improvement in VASPI score at end of initial titration (SD) | 31.2 (± 38.69)                                                | 6.0 (± 42.84)                  | < 0.001 |
-| Responder a n (%)                                            | 57 (33.7%)                                                    | 11 (12.8%)                     | < 0.001 |
-| Starting dose of ziconotide                                  | 9.6 µg/d (0.4 µg/h)                                           |                                |         |
-| Titration frequency                                          | every 24 h until analgesia, max dose or AE                    |                                |         |
-| Titration time (h) and dose (µg/h)                           | 0-24 0.4 24-48 0.9 48-72 1.8 72-96 3.4 96-120 5.3 120-144 7.0 |                                |         |
-| Revised c starting dose                                      | 2.4 µg/d (0.1 µg/h)                                           |                                |         |
-| Revised c titration frequency                                | every 24 h to max dose or analgesia                           |                                |         |
-| Revised c titration time (h) and dose (µg/h)                 | 0-24 0.1 24-48 0.2 48-72 0.3 72-96 0.6                        |                                |         |
-| Dose at end of titration (μg/h) Mean Median Range            | 120-144 2.4 1.02 0.50 0.019 - 9.60                            |                                |         |
+|                                                              | Initial treatment assignment                                     | Initial treatment assignment   |         |
+|--------------------------------------------------------------|------------------------------------------------------------------|--------------------------------|---------|
+| Parameter                                                    | Ziconotide (n = 169) b                                           | Placebo (n = 86)               | p-value |
+| Mean VASPI score at baseline in mm(SD)                       | 80.1 (± 15.10)                                                   | 76.9 (± 14.58)                 | _       |
+| Mean VASPI score at end of initial titration in mm(SD)       | 54.4 (± 29.30)                                                   | 71.9 (± 30.93)                 | _       |
+| %improvement in VASPI score at end of initial titration (SD) | 31.2 (± 38.69)                                                   | 6.0 (± 42.84)                  | < 0.001 |
+| Responder a n (%)                                            | 57 (33.7%)                                                       | 11 (12.8%)                     | < 0.001 |
+| Starting dose of ziconotide                                  | 9.6 µg/d (0.4 µg/h)                                              |                                |         |
+| Titration frequency                                          | every 24 h until analgesia, max dose or AE                       |                                |         |
+| Titration time (h) and dose (µg/h)                           | 0-24 0.4 24-48 0.9 48- 72 1.8 72 -96 3.4 96-120 5.3 120- 144 7.0 |                                |         |
+| Revised c starting dose                                      | 2.4 µg/d (0.1 µg/h)                                              |                                |         |
+| Revised c titration frequency                                | every 24 h to max dose or analgesia                              |                                |         |
+| Revised c titration time (h) and dose (µg/h)                 | 0-24 0.1 24-48 0.2 48- 72 0.3                                    |                                |         |
+| Dose at end of titration (μg/h) Mean Median Range            | 120-144 2.4 1.02 0.50 0.019 - 9.60                               |                                |         |
 
 <div style=\"page-break-after: always\"></div>
 
-Study duration: Six days, with further 5-day maintenance as outpatient in ziconotide responders SD -Standard Deviation.
+Study duration: Six days, with further 5-day maintenance as outpatient in ziconotide responders SD - Standard Deviation.
 
 The aetiologies of pain in studies 95-001 (malignant pain) and 96-002 (non-malignant pain) were varied and included bone pain (n = 38) mostly due to bone metastases (n = 34), myelopathy (n = 38), half of whom had spinal cord injury with paralysis (n = 19), neuropathy (n = 79), radiculopathy (n = 24), spinal pain (n = 91) mostly due to failed back surgery (n = 82), and other aetiologies (n = 82). Some patients had more than one cause of pain. The efficacy of IT ziconotide was apparent in all groups.
 
-Study 301 (n = 220) was of longer duration (21 days), involved more cautious up-titration and lower doses of IT ziconotide, and enrolled the most refractory population of patients studied in the three studies. All patients in the 301 study had failed IT therapy with combinations of analgesics and their physicians considered that 97% of the patients were refractory to currently available treatments. The majority had spinal pain (n = 134), especially failed back surgery (n = 110); a lower proportion had neuropathy (n = 36). Only five had malignant pain. The primary endpoint was the percent change in VASPI score. The efficacy of IT ziconotide in study 301 was lower than in the previous two, short-term studies. The frequency and severity of adverse reactions were also lower, mainly as a result of lower starting dose at 2.4 µg/d (0.1 µg/h). Titration was allowed after a minimum of 24 hours and dose increments were limited to 1.2-2.4 µg/d.
+Study 301 (n = 220) was of longer duration (21 days), involved more cautious up-titration and lower doses of IT ziconotide, and enrolled the most refractory population of patients studied in the three studies. All patients in the 301 study had failed IT therapy with combinations of analgesics and their physicians considered that 97% of the patients were refractory to currently ava ilable treatments. The majority had spinal pain (n = 134), especially failed back surgery (n = 110); a lower proportion had neuropathy (n = 36). Only five had malignant pain. The primary endpoint was the percent change in VASPI score. The efficacy of IT ziconotide in study 301 was lower than in the previous two, short-term studies. The frequency and severity of adverse reactions were also lower, mainly as a result of lower starting dose at 2.4 µg/d (0.1 µg/h). Titration was allowed after a minimum of 24 hours and dose increments were limited to 1.2-2.4 µg/d.
 
 Efficacy results from study 301 (refractory pain; Rauck et al. 2006)
 
@@ -422,11 +420,11 @@ Clinical studies 201 and 202 indicate that the combination of IT ziconotide and 
 
 <div style=\"page-break-after: always\"></div>
 
-8.7 μg/day, mean 25.7 μg/day study 201) or with IT morphine (study 202) alone. When adding IT ziconotide to stable doses of IT morphine, as with the initiation of IT ziconotide monotherapy, the appearance of psychotic adverse reactions (e.g., hallucinations, paranoid reactions) or discontinuation due to increased adverse reactions may occur (see section 4.5).
+8.7 μg/day, mean 25.7 μg/day - study 201) or with IT morphine (study 202) alone. When adding IT ziconotide to stable doses of IT morphine, as with the initiation of IT ziconotide monotherapy, the appearance of psychotic adverse reactions (e.g., hallucinations, paranoid reactions) or discontinuation due to increased adverse reactions may occur (see section 4.5).
 
 ## 5.2 Pharmacokinetic properties
 
-The CSF pharmacokinetics of ziconotide have been studied following one-hour IT infusions of 1 - 10 μg of ziconotide in patients with chronic pain. The plasma pharmacokinetics following intravenous doses (0.3 -10 μg/kg/24 h) were also studied. IT and intravenous pharmacokinetics data are summarised below.
+The CSF pharmacokinetics of ziconotide have been studied following one-hour IT infusions of 1 - 10 μg of ziconotide in patients with chronic pain. The plasma pharmacokinetics following intravenous doses (0.3 - 10 μg/kg/24 h) were also studied. IT and intravenous pharmacokinetics data are summarised below.
 
 CSF and Plasma Pharmacokinetics of Ziconotide [mean ± SD (median)]
 
@@ -439,11 +437,11 @@ CL = clearance; Vd = distribution volume; t½ = half life
 
 ## Absorption
 
-Following one-hour IT administration (1 -10 μg ), both cumulative exposure (AUC; range: 83.6 -608 ng/h/mL) and peak exposure (Cmax; range: 16.4 -132 ng/mL) values were variable and dose-dependent, but appeared only approximately dose-proportional. Plasma concentrations following continuous (≥ 48 h) IT infusion (≤ 21.6 μg/day) appear to be relatively low and typically undetectable (i.e., about 80% of plasma samples collected from pain patients contain no quantifiable medicinal product; &lt; 0.04 ng/mL). No accumulation of ziconotide in plasma following long-term IT administration (up to 9 months) has been observed.
+Following one-hour IT administration (1 - 10 μg), both cumulative exposure (AUC; range: 83.6 -608 ng/h/mL) and peak exposure (Cmax; range: 16.4 - 132 ng/mL) values were variable and dose-dependent, but appeared only approximately dose-proportional. Plasma concentrations following continuous (≥ 48 h) IT infusion (≤ 21.6 μg/day) appear to be relatively low and typically undetectable (i.e., about 80% of plasma samples collected from pain patients contain no quantifiable medicinal product; &lt; 0.04 ng/mL). No accumulation of ziconotide in plasma following long-term IT administration (up to 9 months) has been observed.
 
 ## Distribution
 
-Median ziconotide CSF volume of distribution (Vd: 99 mL) is between the spinal cord CSF volume (approximately 75 mL) and total CSF volume (approximately 130 mL). Ziconotide appears to distribute mainly within the CSF until transferred to the systemic circulation. Upon reaching the systemic circulation, ziconotide appears to be more extensively distributed, based on a plasma distribution volume of approximately 30 L and is only about 53% bound (non-specifically) to human plasma proteins.
+Median ziconotide CSF volume of distribution (Vd: 99 mL) is between the spinal cord CSF volume (approximately 75 mL) and total CSF volume (approximately 130 mL). Ziconotide appears to distribute mainly within the CSF until transferred to the systemic circulation. Upon reaching the systemic circulation, ziconotide appears to be more extensively distributed, based on a plasma distribution volume of approximately 30 L and is only about 53% bound (non -specifically) to human plasma proteins.
 
 ## Biotransformation
 
@@ -473,7 +471,7 @@ The long-term consequences to neuronal function of continuous N-type calcium-cha
 
 In rat fertility studies, there were no effects in males while reductions in corpora lutea; implantation sites and number of live embryos were observed in females. No adverse effects on female reproduction and post-natal development in rats were seen at systemic exposures up to 2,300 times human exposures at the maximum recommended intrathecal dose.
 
-Ziconotide was not teratogenic in rats and rabbits at exposures  100 times human plasma levels.
+Ziconotide was not teratogenic in rats and rabbits at exposures &lt; 100 times human plasma levels.
 
 These results do not indicate a significant risk to humans due to the relatively high systemic exposures needed to elicit these effects in rats and rabbits.
 
@@ -495,9 +493,9 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## In-use shelf-life (diluted product)
 
-Chemical and physical in use stability has been demonstrated for 60 days at 37  C.
+Chemical and physical in use stability has been demonstrated for 60 days at 37 ° C.
 
-From a microbiological point of view, if the product is diluted it should be transferred to the infusion pump immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2  C -8  C, unless dilution has taken place in controlled and validated aseptic conditions.
+From a microbiological point of view, if the product is diluted it should be transferred to the infusion pump immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 ° C - 8 ° C, unless dilution has taken place in controlled and validated aseptic conditions.
 
 ## 6.4 Special precautions for storage
 
@@ -527,9 +525,9 @@ Prialt has been shown to be chemically and physically compatible with the implan
 
 Prialt was stable for 60 days at 37°C in the Synchromed pump previously exposed to the medicinal product. Stability has been demonstrated for 21 days at room temperature in the CADD-Micro pump.
 
-The technical data are given only for information and should not limit healthcare providers' choice. CE marked pumps equivalent to the Synchromed and CADD-Micro pump should be used to deliver Prialt.
+The technical data are given only for information and should not limit health-care providers' choice. CE marked pumps equivalent to the Synchromed and CADD-Micro pump should be used to deliver Prialt.
 
-Pumps previously used to deliver other medicinal products must be washed out three times with sodium chloride 9 mg/mL (0.9%) solution for injection (preservative-free) before being filled with Prialt. The introduction of air into the pump reservoir or cartridge should be minimised, as oxygen can degrade ziconotide.
+Pumps previously used to deliver other medicinal products must be washed out three times with sodium chloride 9 mg/mL (0.9%) solution for injection (preservative -free) before being filled with Prialt. The introduction of air into the pump reservoir or cartridge should be minimised, as oxygen can degrade ziconotide.
 
 Prior to initiation of therapy, an internal pump must be rinsed three times with 2 mL of Prialt at 25 μg/mL. The concentration of Prialt in a naïve pump may be reduced due to adsorption onto the surfaces of the device, and/or dilution by the residual space of the device. Because of this, after the first use of Prialt, the reservoir should be emptied and refilled after 14 days. Subsequently the pump should be emptied and refilled every 60 days.
 
@@ -547,9 +545,7 @@ EU/1/04/302/004 - 20 mL solution for infusion
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 21 February 2005
-
-Date of latest renewal: 18 September 2014
+Date of first authorisation: 21 February 2005 Date of latest renewal: 18 September 2014
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -595,7 +591,7 @@ Patients should undergo a neuropsychiatric evaluation before, after starting and
 
 ## Dose initiation
 
-Dosing of ziconotide should be initiated at no more than 2.4 μg /day and titrated on an individual patient basis according to analgesic response and adverse reactions.
+Dosing of ziconotide should be initiated at no more than 2.4 μg/day and titrated on an individual patient basis according to analgesic response and adverse reactions.
 
 ## Dose titration
 
@@ -757,7 +753,7 @@ Ziconotide may cause confusion, somnolence and other neurological adverse reacti
 
 The safety of ziconotide administered as a continuous intrathecal infusion has been evaluated in more than 1,400 patients participating in acute and chronic pain clinical trials. The duration of treatment has ranged from one-hour bolus infusion to continuous use for more than 6 years. The median exposure time was 43 days. The infusion dose rate ranged from 0.03 - 912 μg/day, with a median final dose rate of 7.2 μg/day.
 
-In clinical trials, 88% of patients experienced adverse reactions. The most common adverse reactions reported in long-term clinical trials were dizziness (42%), nausea (30%), nystagmus (23%), confusional state (25%), gait abnormal (16%), memory impairment (13%), vision blurred (14%),
+In clinical trials, 88% of patients experienced adverse reactions. The most common adverse reactions reported in longterm clinical trials were dizziness (42%), nausea (30%), nystagmus (23%), confusional state (25%), gait abnormal (16%), memory impairment (13%), vision blurred (14%),
 
 <div style=\"page-break-after: always\"></div>
 
@@ -767,9 +763,9 @@ headache (12%), asthenia (13%), vomiting (11%), and somnolence (10%). Most adver
 
 Unless otherwise noted the table shows the incidence rates of adverse reactions reported in the intrathecal clinical trials with ziconotide (short- and long-term exposure). Within each frequency grouping undesirable effects are presented in order of decreasing frequency.
 
-Very common (≥1/10) Common (≥1/100 to &lt;1/10) Uncommon (≥1/1,000 to &lt;1/100)
+Very common (≥1/10) Common (≥1/100 to &lt;1/10) Uncommon (≥1/1,000 to &lt;1/100) Rare (≥1/10,000 to &lt;1/1,000)
 
-Rare (≥1/10,000 to &lt;1/1,000) Very rare (&lt;1/10,000)
+Very rare (&lt;1/10,000)
 
 Not known (cannot be estimated from the available data)
 
@@ -782,6 +778,8 @@ Not known (cannot be estimated from the available data)
 | Nervous system disorders           | dizziness, nystagmus, memory impairment, headache, somnolence | dysarthria, amnesia, dysgeusia, tremor, balance impaired, ataxia, aphasia, burning sensation, sedation, paraesthesia, hypoaesthesia, disturbance in attenti on, speech disorder, areflexia, coordination abnorm al, dizziness postural, cognitive disorder, hyperaesthesia, hyporeflexia, ageusia, depressed | incoherence, loss of consciousness, coma, stupor, convulsions, cerebrovascular accident, encephalopathy             |                         |
 
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 | System organ class                                   | Very common             | Common                                                                                                                         | Uncommon                                                                                                                               | Not known   |
 |------------------------------------------------------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|-------------|
@@ -879,18 +877,18 @@ Two short-term studies, 95-001 (malignant pain) and 96-002 (non-malignant pain),
 
 Efficacy results from study 95-001 (malignant pain and non-malignant pain, Staats et al. 2004)
 
-|                                                              | Initial treatment assignment        | Initial treatment assignment   |         |
-|--------------------------------------------------------------|-------------------------------------|--------------------------------|---------|
-| Parameter                                                    | Ziconotide (n = 71)                 | Placebo (n = 40)               | p-value |
-| Mean VASPI score at baseline in mm(SD)                       | 74.1 (± 13.82)                      | 77.9 (± 13.60)                 | _       |
-| Mean VASPI score at end of initial titration in mm(SD)       | 35.7 (± 33.27)                      | 61.0 (± 22.91)                 | _       |
-| %improvement in VASPI score at end of initial titration (SD) | 51.4 (± 43.63)                      | 18.1 (± 28.28)                 | < 0.001 |
-| Responder a n (%)                                            | 34 (47.9%)                          | 7 (17.5%)                      | 0.001   |
-| Starting dose of ziconotide                                  | 9.6 µg/d (0.4 µg/h)                 |                                |         |
-| Titration frequency                                          | every 12 h                          |                                |         |
-| Amended b starting dose                                      | 2.4 µg/d (0.1 µg/h) or less         |                                |         |
-| Amended b titration frequency                                | every 24 h to max dose or analgesia |                                |         |
-| Dose at end of titration (μg/h) Mean Median Range            | 0.91 0.60 0.074 - 9.36              |                                |         |
+|                                                               | Initial treatment assignment        | Initial treatment assignment   |         |
+|---------------------------------------------------------------|-------------------------------------|--------------------------------|---------|
+| Parameter                                                     | Ziconotide (n = 71)                 | Placebo (n = 40)               | p-value |
+| Mean VASPI score at baseline in mm(SD)                        | 74.1 (± 13.82)                      | 77.9 (± 13.60)                 | _       |
+| Mean VASPI score at end of initial titration in mm(SD)        | 35.7 (± 33.27)                      | 61.0 (± 22.91)                 | _       |
+| % improvement in VASPI score at end of initial titration (SD) | 51.4 (± 43.63)                      | 18.1 (± 28.28)                 | < 0.001 |
+| Responder a n (%)                                             | 34 (47.9%)                          | 7 (17.5%)                      | 0.001   |
+| Starting dose of ziconotide                                   | 9.6 µg/d (0.4 µg/h)                 |                                |         |
+| Titration frequency                                           | every 12 h                          |                                |         |
+| Amended b starting dose                                       | 2.4 µg/d (0.1 µg/h) or less         |                                |         |
+| Amended b titration frequency                                 | every 24 h to max dose or analgesia |                                |         |
+| Dose at end of titration (μg/h) Mean Median Range             | 0.91 0.60 0.074 - 9.36              |                                |         |
 
 a Responders were defined as those patients who 1) experienced a ≥ 30% drop in VASPI score compared to baseline; 2) had stable or decreased concomitant opioid analgesics; and 3) had opiate type unchanged from preinfusion if receiving opiates.
 
@@ -898,7 +896,7 @@ b Protocol amendments for better tolerance were necessary after high number of n
 
 Study Duration: Five days
 
-SD -Standard Deviation.
+SD - Standard Deviation.
 
 Efficacy results from study 96-002 (non-malignant pain; Wallace et al. 2006)
 
@@ -910,26 +908,26 @@ Efficacy results from study 96-002 (non-malignant pain; Wallace et al. 2006)
 
 <div style=\"page-break-after: always\"></div>
 
-| %improvement in VASPI score at end of initial titration (SD)   | 31.2 (± 38.69)                                                | 6.0 (± 42.84)   | < 0.001   |
-|----------------------------------------------------------------|---------------------------------------------------------------|-----------------|-----------|
-| Responder a n (%)                                              | 57 (33.7%)                                                    | 11 (12.8%)      | < 0.001   |
-| Starting dose of ziconotide                                    | 9.6 µg/d (0.4 µg/h)                                           |                 |           |
-| Titration frequency                                            | every 24 h until analgesia, max dose or AE                    |                 |           |
-| Titration time (h) and dose (µg/h)                             | 0-24 0.4 24-48 0.9 48-72 1.8 72-96 3.4 96-120 5.3 120-144 7.0 |                 |           |
-| Revised c starting dose                                        | 2.4 µg/d (0.1 µg/h)                                           |                 |           |
-| Revised c titration frequency                                  | every 24 h to max dose or analgesia                           |                 |           |
-| Revised c titration time (h) and dose (µg/h)                   | 0-24 0.1 24-48 0.2 48-72 0.3 72-96 0.6 96-120 1.2 120-144 2.4 |                 |           |
-| Dose at end of titration (μg/h) Mean Median Range              | 1.02 0.50 0.019 - 9.60                                        |                 |           |
+| %improvement in VASPI score at end of initial titration (SD)   | 31.2 (± 38.69)                                                   | 6.0 (± 42.84)   | < 0.001   |
+|----------------------------------------------------------------|------------------------------------------------------------------|-----------------|-----------|
+| Responder a n (%)                                              | 57 (33.7%)                                                       | 11 (12.8%)      | < 0.001   |
+| Starting dose of ziconotide                                    | 9.6 µg/d (0.4 µg/h)                                              |                 |           |
+| Titration frequency                                            | every 24 h until analgesia, max dose or AE                       |                 |           |
+| Titration time (h) and dose (µg/h)                             | 0-24 0.4 24-48 0.9 48- 72 1.8 72 -96 3.4 96-120 5.3 120- 144 7.0 |                 |           |
+| Revised c starting dose                                        | 2.4 µg/d (0.1 µg/h)                                              |                 |           |
+| Revised c titration frequency                                  | every 24 h to max dose or analgesia                              |                 |           |
+| Revised c titration time (h) and dose (µg/h)                   | 0-24 0.1 24-48 0.2 48- 72 0.3 72 -96 0.6 96-120 1.2 120-144 2.4  |                 |           |
+| Dose at end of titration (μg/h) Mean Median Range              | 1.02 0.50 0.019 - 9.60                                           |                 |           |
 
 a Responders were defined as those patients who 1) experienced a ≥ 30% drop in VASPI score compared to baseline; 2) had stable or decreased concomitant opioid analgesics; and 3) had opiate type unchanged from preinfusion if receiving opiates.
 
 b 164 patients provided VASPI scores for ziconotide at the end of titration.
 
-c Protocol amendments for better tolerance were necessary due to onset of adverse events at high doses. Study duration: Six days, with further 5-day maintenance as outpatient in ziconotide responders SD -Standard Deviation.
+c Protocol amendments for better tolerance were necessary due to onset of adverse events at high doses. Study duration: Six days, with further 5-day maintenance as outpatient in ziconotide responders SD - Standard Deviation.
 
 The aetiologies of pain in studies 95-001 (malignant pain) and 96-002 (non-malignant pain) were varied and included bone pain (n = 38) mostly due to bone metastases (n = 34), myelopathy (n = 38), half of whom had spinal cord injury with paralysis (n = 19), neuropathy (n = 79), radiculopathy (n = 24), spinal pain (n = 91) mostly due to failed back surgery (n = 82), and other aetiologies (n = 82). Some patients had more than one cause of pain. The efficacy of IT ziconotide was apparent in all groups.
 
-Study 301 (n = 220) was of longer duration (21 days), involved more cautious up-titration and lower doses of IT ziconotide, and enrolled the most refractory population of patients studied in the three studies. All patients in the 301 study had failed IT therapy with combinations of analgesics and their physicians considered that 97% of the patients were refractory to currently available treatments. The majority had spinal pain (n = 134), especially failed back surgery (n = 110); a lower proportion had neuropathy (n = 36). Only five had malignant pain. The primary endpoint was the percent change in VASPI score. The efficacy of IT ziconotide in study 301 was lower than in the previous two, short-term studies. The frequency and severity of adverse reactions were also lower, mainly as a result of lower starting dose at 2.4 µg/d (0.1 µg/h). Titration was allowed after a minimum of 24 hours and dose increments were limited to 1.2-2.4 µg/d.
+Study 301 (n = 220) was of longer duration (21 days), involved more cautious up-titration and lower doses of IT ziconotide, and enrolled the most refractory population of patients studied in the three studies. All patients in the 301 study had failed IT therapy with combinations of analgesics and their physicians considered that 97% of the patients were refractory to currently ava ilable treatments. The majority had spinal pain (n = 134), especially failed back surgery (n = 110); a lower proportion had neuropathy (n = 36). Only five had malignant pain. The primary endpoint was the percent change in VASPI score. The efficacy of IT ziconotide in study 301 was lower than in the previous two, short-term studies. The frequency and severity of adverse reactions were also lower, mainly as a result of lower starting dose at 2.4 µg/d (0.1 µg/h). Titration was allowed after a minimum of 24 hours and dose increments were limited to 1.2-2.4 µg/d.
 
 .
 
@@ -961,11 +959,11 @@ Since market authorization approval, real-world data were published for long-tim
 
 ## Combination studies with IT Morphine
 
-Clinical studies 201 and 202 indicate that the combination of IT ziconotide and IT morphine may effectively reduce pain and decrease systemic opioid use over a sustained period of time for patients whose pain was inadequately controlled with their maximum tolerated dose of IT ziconotide (median 8.7 μg/day, mean 25.7 μg/day study 201) or with IT morphine (study 202) alone. When adding IT ziconotide to stable doses of IT morphine, as with the initiation of IT ziconotide monotherapy, the appearance of psychotic adverse reactions (e.g., hallucinations, paranoid reactions) or discontinuation due to increased adverse reactions may occur (see section 4.5).
+Clinical studies 201 and 202 indicate that the combination of IT ziconotide and IT morphine may effectively reduce pain and decrease systemic opioid use over a sustained period of time for patients whose pain was inadequately controlled with their maximum tolerated dose of IT ziconotide (median 8.7 μg/day, mean 25.7 μg/day - study 201) or with IT morphine (study 202) alone. When adding IT ziconotide to stable doses of IT morphine, as with the initiation of IT ziconotide monotherapy, the appearance of psychotic adverse reactions (e.g., hallucinations, paranoid reactions) or discontinuation due to increased adverse reactions may occur (see section 4.5).
 
 ## 5.2 Pharmacokinetic properties
 
-The CSF pharmacokinetics of ziconotide have been studied following one-hour IT infusions of 1 - 10 μg of ziconotide in patients with chronic pain. The plasma pharmacokinetics following intravenous doses (0.3 -10 μg/kg/24 h) were also studied. IT and intravenous pharmacokinetics data are summarised below.
+The CSF pharmacokinetics of ziconotide have been studied following one-hour IT infusions of 1 - 10 μg of ziconotide in patients with chronic pain. The plasma pharmacokinetics following intravenous doses (0.3 - 10 μg/kg/24 h) were also studied. IT and intravenous pharmacokinetics data are summarised below.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -980,11 +978,11 @@ CL = clearance; Vd = distribution volume; t½ = half life
 
 ## Absorption
 
-Following one-hour IT administration (1 -10 μg), both cumulative exposure (AUC; range: 83.6 -608 ng/h/mL) and peak exposure (Cmax; range: 16.4 -132 ng/mL) values were variable and dose-dependent, but appeared only approximately dose-proportional. Plasma concentrations following continuous (≥ 48 h) IT infusion (≤ 21.6 μg/day) appear to be relatively low and typically undetectable (i.e., about 80% of plasma samples collected from pain patients contain no quantifiable medicinal product; &lt; 0.04 ng/mL). No accumulation of ziconotide in plasma following long-term IT administration (up to 9 months) has been observed.
+Following one-hour IT administration (1 - 10 μg), both cumulative exposure (AUC; range: 83.6 -608 ng/h/mL) and peak exposure (Cmax; range: 16.4 - 132 ng/mL) values were variable and dose-dependent, but appeared only approximately dose-proportional. Plasma concentrations following continuous (≥ 48 h) IT infusion (≤ 21.6 μg/day) appear to be relatively low and typically undetectable (i.e., about 80% of plasma samples collected from pain patients contain no quantifiable medicinal product; &lt; 0.04 ng/mL). No accumulation of ziconotide in plasma following long-term IT administration (up to 9 months) has been observed.
 
 ## Distribution
 
-Median ziconotide CSF volume of distribution (Vd: 99 mL) is between the spinal cord CSF volume (approximately 75 mL) and total CSF volume (approximately 130 mL). Ziconotide appears to distribute mainly within the CSF until transferred to the systemic circulation. Upon reaching the systemic circulation, ziconotide appears to be more extensively distributed, based on a plasma distribution volume of approximately 30 L and is only about 53% bound (non-specifically) to human plasma proteins.
+Median ziconotide CSF volume of distribution (Vd: 99 mL) is between the spinal cord CSF volume (approximately 75 mL) and total CSF volume (approximately 130 mL). Ziconotide appears to distribute mainly within the CSF until transferred to the systemic circulation. Upon reaching the systemic circulation, ziconotide appears to be more extensively distributed, based on a plasma distribution volume of approximately 30 L and is only about 53% bound (non -specifically) to human plasma proteins.
 
 ## Biotransformation
 
@@ -1014,7 +1012,7 @@ The long-term consequences to neuronal function of continuous N-type calcium-cha
 
 In rat fertility studies, there were no effects in males while reductions in corpora lutea; implantation sites and number of live embryos were observed in females. No adverse effects on female reproduction and post-natal development in rats were seen at systemic exposures up to 2,300 times human exposures at the maximum recommended intrathecal dose.
 
-Ziconotide was not teratogenic in rats and rabbits at exposures  100 times human plasma levels.
+Ziconotide was not teratogenic in rats and rabbits at exposures &lt; 100 times human plasma levels.
 
 These results do not indicate a significant risk to humans due to the relatively high systemic exposures needed to elicit these effects in rats and rabbits.
 
@@ -1032,13 +1030,13 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## 6.3 Shelf life
 
-5 years
+## 5 years
 
 ## In-use shelf life (diluted product)
 
-Chemical and physical in use stability has been demonstrated for 60 days at 37  C.
+Chemical and physical in use stability has been demonstrated for 60 days at 37 ° C.
 
-From a microbiological point of view, if the product is diluted it should be transferred to the infusion pump immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2  C -8  C, unless dilution has taken place in controlled and validated aseptic conditions.
+From a microbiological point of view, if the product is diluted it should be transferred to the infusion pump immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 ° C - 8 ° C, unless dilution has taken place in controlled and validated aseptic conditions.
 
 ## 6.4 Special precautions for storage
 
@@ -1068,9 +1066,9 @@ Prialt has been shown to be chemically and physically compatible with the implan
 
 Prialt was stable for 60 days at 37°C in the Synchromed pump previously exposed to the medicinal product. Stability has been demonstrated for 21 days at room temperature in the CADD-Micro pump.
 
-The technical data are given only for information and should not limit healthcare providers' choice. CE marked pumps equivalent to the Synchromed and CADD-Micro pump should be used to deliver Prialt.
+The technical data are given only for information and should not limit health-care providers' choice. CE marked pumps equivalent to the Synchromed and CADD-Micro pump should be used to deliver Prialt.
 
-Pumps previously used to deliver other medicinal products must be washed out three times with sodium chloride 9 mg/mL (0.9%) solution for injection (preservative-free) before being filled with
+Pumps previously used to deliver other medicinal products must be washed out three times with sodium chloride 9 mg/mL (0.9%) solution for injection (preservative -free) before being filled with
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1088,7 +1086,9 @@ Esteve Pharmaceuticals GmbH Hohenzollerndamm 150-151 14199 Berlin Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/04/302/001 -1 mL solution for infusion. EU/1/04/302/002 -2 mL solution for infusion. EU/1/04/302/003 -5 mL solution for infusion.
+EU/1/04/302/001 - 1 mL solution for infusion. EU/1/04/302/002 - 2 mL solution for infusion.
+
+EU/1/04/302/003 - 5 mL solution for infusion.
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1123,7 +1123,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## · Periodic safety update reports (PSURs)
 
-The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83 /EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -1187,7 +1187,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator (2°C -8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1209,7 +1209,7 @@ Medicinal product subject to medical prescription.
 
 ## 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -1271,7 +1271,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator (2°C -8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1313,11 +1313,15 @@ Prialt 100 micrograms/mL solution for infusion ziconotide
 
 ## 1 mL:
 
-Each mL contains 100 micrograms ziconotide (as acetate). Each vial contains 100 micrograms ziconotide (as acetate).
+Each mL contains 100 micrograms ziconotide (as acetate).
+
+Each vial contains 100 micrograms ziconotide (as acetate).
 
 2 mL:
 
-Each mL contains 100 micrograms ziconotide (as acetate). Each vial contains 200 micrograms ziconotide (as acetate).
+Each mL contains 100 micrograms ziconotide (as acetate).
+
+Each vial contains 200 micrograms ziconotide (as acetate).
 
 5 mL:
 
@@ -1428,8 +1432,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLEDATA   |
-|---------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1439,8 +1443,8 @@ PC SN NN
 |--------------------------------------------------------------------|
 | VIAL                                                               |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTAND ROUTE(S) OF ADMINISTRATION   |
-|------|-----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Prialt 100 μg/mL infusion Ziconotide Intrathecal use
 
@@ -1457,8 +1461,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL: 1 mL 100 μg/1 mL
 
@@ -1469,8 +1473,6 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
-45
-
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
@@ -1479,7 +1481,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Prialt 25 micrograms/mL solution for infusion Ziconotide
+## Prialt 25 micrograms/mL solution for infusion
+
+## Ziconotide
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
@@ -1498,7 +1502,7 @@ Lot
 
 ## 1. What Prialt is and what it is used for
 
-Prialt contains the active substance ziconotide which belongs to a group of medicines, called analgesics or 'painkillers'. Prialt is used for the treatment of severe, long -term pain in adults who need a painkiller by intrathecal injection (injection into the space that surrounds the spinal cord and the brain).
+Prialt contains the active substance ziconotide which belongs to a group of medicines, called analgesics or 'painkillers'. Prialt is used for the treatment of severe, long-term pain in adults who need a painkiller by intrathecal injection (injection into the space that surrounds the spinal cord and the brain).
 
 ## 2. What you need to know before you are given Prialt
 
@@ -1552,7 +1556,7 @@ The use of Prialt has been reported to cause confusion and drowsiness. Ask your 
 
 ## Prialt contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per maximum recommended intrathecal dose (21.6 micrograms per day) , that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per maximum recommended intrathecal dose (21.6 micrograms per day) , that is to say essentially 'sodium-free'.
 
 ## 3. How to use Prialt
 
@@ -1582,12 +1586,12 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 You must tell your doctor immediately if you notice these serious side effects as you may require urgent medical treatment.
 
-- Meningitis (may affect up to 1 in 100 people) -is inflammation of the coverings of the brain and spinal cord usually caused by an infection. Symptoms of meningitis are headache, stiff neck, dislike of bright lights, fever, vomiting, confusion and drowsiness.
-- Convulsions (may affect up to 1 in 100 people) -convulsions (fits) are when a person's body shakes rapidly and uncontrollably. During a convulsion, the person's muscles contract and relax repeatedly and the person may lose consciousness.
+- Meningitis (may affect up to 1 in 100 people) - is inflammation of the coverings of the brain and spinal cord usually caused by an infection. Symptoms of meningitis are headache, stiff neck, dislike of bright lights, fever, vomiting, confusion and drowsiness.
+- Convulsions (may affect up to 1 in 100 people) - convulsions (fits) are when a person's body shakes rapidly and uncontrollably. During a convulsion, the person's muscles contract and relax repeatedly and the person may lose consciousness.
 - Suicidal thoughts or suicide attempt (may affect up to 1 in 100 people).
-- Rhabdomyolysis (may affect up to 1 in 100 people) -is breakdown of muscle fibres that can lead to kidney damage. Symptoms of rhabdomyolysis are abnormal urine colour (brown coloured), reduced urine production, muscle weakness, muscle aching and muscle tenderness.
-- Coma (may affect up to 1 in 100 people) -a state of unconsciousness with difficulty responding or waking up.
-- Anaphylactic reaction (frequency cannot be estimated from the available data) -is a severe allergic reaction, the signs of which are sudden wheeziness, difficulty in breathing, pain in the chest, swelling of eyelids, face or lips, rash or itching (especially affecting the whole body).
+- Rhabdomyolysis (may affect up to 1 in 100 people) - is breakdown of muscle fibres that can lead to kidney damage. Symptoms of rhabdomyolysis are abnormal urine colour (brown coloured), reduced urine production, muscle weakness, muscle aching and muscle tenderness.
+- Coma (may affect up to 1 in 100 people) - a state of unconsciousness with difficulty responding or waking up.
+- Anaphylactic reaction (frequency cannot be estimated from the available data) - is a severe allergic reaction, the signs of which are sudden wheeziness, difficulty in breathing, pain in the chest, swelling of eyelids, face or lips, rash or itching (especially affecting the whole body).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1615,11 +1619,11 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C -8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
 Chemical and physical in use stability has been demonstrated for 60 days at 37°C.
 
-From a microbiological point of view, if the product is diluted it should be transferred to the infusion pump immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C -8°C, unless dilution has taken place in controlled and validated aseptic conditions.
+From a microbiological point of view, if the product is diluted it should be transferred to the infusion pump immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C - 8°C, unless dilution has taken place in controlled and validated aseptic conditions.
 
 Do not use this medicine if you notice any discolouration or cloudiness or if particulate matter is observed.
 
@@ -1652,41 +1656,41 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Esteve Pharmaceuticals GmbH Tél/Tel: +49 (0)30 338427-0 info.germany@esteve.com (Duitsland/Allemagne/Deutschland)
+Esteve Pharmaceuticals BV/SRL adgadegroote@external.esteve.com (Duitsland/Allemagne/Deutschland)
 
 ## България
 
-Esteve Pharmaceuticals GmbH Teл. : +49 (0)30 338427-0 info.germany@esteve.com (Германия)
+Esteve Pharmaceuticals GmbH Teл.: +49 (0)30 338427 -0 info.germany@esteve.com (Германия)
 
 ## Česká republika
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Německo)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Německo)
 
 ## Lietuva
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Vokietija)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Vokietija)
 
 ## Luxembourg/Luxemburg
 
-Esteve Pharmaceuticals GmbH Tél/Tel: +49 (0)30 338427-0 info.germany@esteve.com (Allemagne/Deutschland)
+Esteve Pharmaceuticals BV/SRL adgadegroote@external.esteve.com (Allemagne/Deutschland)
 
 ## Magyarország
 
-Esteve Pharmaceuticals GmbH Tel.: +49 (0)30 338427-0 info.germany@esteve.com (Németország)
+Esteve Pharmaceuticals GmbH Tel.: +49 (0)30 338427 -0 info.germany@esteve.com (Németország)
 
 <div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
-Esteve Pharmaceuticals GmbH Tlf: +49 (0)30 338427-0 info.germany@esteve.com (Tyskland)
+Esteve Pharmaceuticals GmbH Tlf: +49 (0)30 338427 -0 info.germany@esteve.com (Tyskland)
 
 ## Deutschland
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com
 
 ## Eesti
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Saksamaa)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Saksamaa)
 
 ## Ελλάδα
 
@@ -1702,51 +1706,51 @@ ESTEVE PHARMACEUTICALS S.A.S Tél: +33 (0)1 42 31 07 10 contact-france@esteve.co
 
 ## Hrvatska
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Njemačka)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Njemačka)
 
 ## Ireland
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Germany)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Germany)
 
 ## Ísland
 
-Esteve Pharmaceuticals GmbH Sími: +49 (0)30 338427-0 info.germany@esteve.com (Þýskaland)
+Esteve Pharmaceuticals GmbH Sími: +49 (0)30 338427 -0 info.germany@esteve.com (Þýskaland)
 
 ## Malta
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (IlĠermanja/Germany)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (IlĠermanja/Germany)
 
 ## Nederland
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Duitsland)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Duitsland)
 
 ## Norge
 
-Esteve Pharmaceuticals GmbH Tlf: +49 (0)30 338427-0 info.germany@esteve.com (Tyskland)
+Esteve Pharmaceuticals GmbH Tlf: +49 (0)30 338427 -0 info.germany@esteve.com (Tyskland)
 
 ## Österreich
 
-AGEA Pharma GmbH Tel: +43 (0)1 336 01 41
+Esteve Pharmaceuticals GmbH Tel: 0800560044
 
-office@ageapharma.com
+## Polska
 
-Polska IMED POLAND Sp. z o.o. Tel.: +48 (0)22 663 43 03 imed@imed.com.pl
+IMED POLAND Sp. z o.o. Tel.: +48 (0)22 663 43 03 imed@imed.com.pl
 
 ## Portugal
 
-Esteve Pharmaceuticals -Laboratório Farmacêutico Lda. Tel: +351 914224766
+Esteve Pharmaceuticals - Laboratório Farmacêutico Lda. Tel: +351 914224766
 
 ## România
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Germania)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Germania)
 
 ## Slovenija
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Nemčija)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Nemčija)
 
 ## Slovenská republika
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Nemecko)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Nemecko)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1760,7 +1764,7 @@ Esteve Pharmaceuticals GmbH Τηλ: +49 (0)30 338427 -0 info.germany@esteve.com 
 
 ## Latvija
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Vācija)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Vācija)
 
 ## This leaflet was last revised in {MM/YYYY}.
 
@@ -1786,27 +1790,27 @@ Strict aseptic procedures must be used during the preparation and handling of th
 
 Specific instructions for using the pumps must be obtained from the manufacturer.
 
-Prialt has been shown to be chemically and physically compatible with the implantable Synchromed pump and the external CADD-Micro pump at the concentration levels indicated above. Chemical and physical in-use stability has been demonstrated for 14 days at 37ºC in the Synchromed pump when the pump has not previously been exposed to the medicinal product. The initial fill must therefore be replaced after 14 days.
+Prialt has been shown to be chemically and physically compatible with the implantable Synchromed pump and the external CADD-Micro pump at the concentration levels indicated above. Chemical and physical inuse stability has been demonstrated for 14 days at 37ºC in the Sync hromed pump when the pump has not previously been exposed to the medicinal product. The initial fill must therefore be replaced after 14 days.
 
 ## Suomi/Finland
 
-Esteve Pharmaceuticals GmbH Puh/Tel: +49 (0)30 338427-0 info.germany@esteve.com (Saksa/Tyskland)
+Esteve Pharmaceuticals GmbH Puh/Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Saksa/Tyskland)
 
 ## Sverige
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Tyskland)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Tyskland)
 
 ## United Kingdom (Northern Ireland)
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Germany)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Germany)
 
 <div style=\"page-break-after: always\"></div>
 
 Prialt was stable for 60 days at 37°C in the Synchromed pump previously exposed to the medicinal product. Stability has been demonstrated for 21 days at room temperature in the CADD-Micro pump.
 
-The technical data are given only for information and should not limit healthcare providers' choice. CE marked pumps equivalent to the Synchromed and CADD-Micro pump should be used to deliver ziconotide.
+The technical data are given only for information and should not limit health-care providers' choice. CE marked pumps equivalent to the Synchromed and CADD-Micro pump should be used to deliver ziconotide.
 
-Pumps previously used to deliver other medicinal products must be washed out three times with sodium chloride 9 mg/mL (0.9%) solution for injection (preservative-free) before being filled with ziconotide. The introduction of air into the pump reservoir or cartridge should be minimised, as oxygen can degrade ziconotide.
+Pumps previously used to deliver other medicinal products must be washed out three times with sodium chloride 9 mg/mL (0.9%) solution for injection (preservative -free) before being filled with ziconotide. The introduction of air into the pump reservoir or cartridge should be minimised, as oxygen can degrade ziconotide.
 
 Prior to initiation of therapy, an internal pump must be rinsed three times with 2 mL of the solution at 25 μg/mL. The concentration of Prialt in a naïve pump may be reduced due to adsorption onto the surfaces of the device, and/or dilution by the residual space of the device. Because of this, after the first use of Prialt, the reservoir should be emptied and refilled after 14 days. Subsequently the pump should be emptied and refilled every 60 days.
 
@@ -1835,7 +1839,7 @@ Prior to initiation of therapy, an internal pump must be rinsed three times with
 
 ## 1. What Prialt is and what it is used for
 
-Prialt contains the active substance ziconotide which belongs to a group of medicines, called analgesics or 'painkillers'. Prialt is used for the treatment of severe, long -term pain in adults who need a painkiller by intrathecal injection (injection into the space that surrounds the spinal cord and the brain).
+Prialt contains the active substance ziconotide which belongs to a group of medicines, called analgesics or 'painkillers'. Prialt is used for the treatment of severe, long-term pain in adults who need a painkiller by intrathecal injection (injection into the space that surrounds the spinal cord and the brain).
 
 ## 2. What you need to know before you are given Prialt
 
@@ -1889,7 +1893,7 @@ The use of Prialt has been reported to cause confusion and drowsiness. Ask your 
 
 ## Prialt contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per maximum recommended intrathecal dose (21.6 micrograms per day) , that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per maximum recommended intrathecal dose (21.6 micrograms per day) , that is to say essentially 'sodium-free'.
 
 ## 3. How to use Prialt
 
@@ -1919,12 +1923,12 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 You must tell your doctor immediately if you notice these serious side effects as you may require urgent medical treatment.
 
-- Meningitis (may affect up to 1 in 100 people) -is inflammation of the coverings of the brain and spinal cord usually caused by an infection. Symptoms of meningitis are headache, stiff neck, dislike of bright lights, fever, vomiting, confusion and drowsiness.
-- Convulsions (may affect up to 1 in 100 people) -convulsions (fits) are when a person's body shakes rapidly and uncontrollably. During a convulsion, the person's muscles contract and relax repeatedly and the person may lose consciousness.
+- Meningitis (may affect up to 1 in 100 people) - is inflammation of the coverings of the brain and spinal cord usually caused by an infection. Symptoms of meningitis are headache, stiff neck, dislike of bright lights, fever, vomiting, confusion and drowsiness.
+- Convulsions (may affect up to 1 in 100 people) - convulsions (fits) are when a person's body shakes rapidly and uncontrollably. During a convulsion, the person's muscles contract and relax repeatedly and the person may lose consciousness.
 - Suicidal thoughts or suicide attempt (may affect up to 1 in 100 people).
-- Rhabdomyolysis (may affect up to 1 in 100 people) -is breakdown of muscle fibres that can lead to kidney damage. Symptoms of rhabdomyolysis are abnormal urine colour (brown coloured), reduced urine production, muscle weakness, muscle aching and muscle tenderness.
-- Coma (may affect up to 1 in 100 people) -a state of unconsciousness with difficulty responding or waking up.
-- Anaphylactic reaction (frequency cannot be estimated from the available data) -is a severe allergic reaction, the signs of which are sudden wheeziness, difficulty in breathing, pain in the chest, swelling of eyelids, face or lips, rash or itching (especially affecting the whole body).
+- Rhabdomyolysis (may affect up to 1 in 100 people) - is breakdown of muscle fibres that can lead to kidney damage. Symptoms of rhabdomyolysis are abnormal urine colour (brown coloured), reduced urine production, muscle weakness, muscle aching and muscle tenderness.
+- Coma (may affect up to 1 in 100 people) - a state of unconsciousness with difficulty responding or waking up.
+- Anaphylactic reaction (frequency cannot be estimated from the available data) - is a severe allergic reaction, the signs of which are sudden wheeziness, difficulty in breathing, pain in the chest, swelling of eyelids, face or lips, rash or itching (especially affecting the whole body).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1952,11 +1956,11 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C -8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
 Chemical and physical in use stability has been demonstrated for 60 days at 37°C.
 
-From a microbiological point of view, if the product is diluted it should be transferred to the infusion pump immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C -8°C, unless dilution has taken place in controlled and validated aseptic conditions.
+From a microbiological point of view, if the product is diluted it should be transferred to the infusion pump immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C - 8°C, unless dilution has taken place in controlled and validated aseptic conditions.
 
 Do not use this medicine if you notice any discolouration or cloudiness or if particulate matter is observed.
 
@@ -1989,45 +1993,45 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Esteve Pharmaceuticals GmbH Tél/Tel: +49 (0)30 338427-0 info.germany@esteve.com (Duitsland/Allemagne/Deutschland)
+Esteve Pharmaceuticals BV/SRL adgadegroote@external.esteve.com (Duitsland/Allemagne/Deutschland)
 
 ## България
 
-Esteve Pharmaceuticals GmbH Teл. : +49 (0)30 338427-0 info.germany@esteve.com (Германия)
+Esteve Pharmaceuticals GmbH Teл.: +49 (0)30 338427 -0 info.germany@esteve.com (Германия)
 
 ## Česká republika
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Německo)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Německo)
 
 ## Lietuva
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Vokietija)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Vokietija)
 
 ## Luxembourg/Luxemburg
 
-Esteve Pharmaceuticals GmbH Tél/Tel: +49 (0)30 338427-0 info.germany@esteve.com (Allemagne/Deutschland)
+Esteve Pharmaceuticals BV/SRL adgadegroote@external.esteve.com (Allemagne/Deutschland)
 
 ## Magyarország
 
-Esteve Pharmaceuticals GmbH Tel.: +49 (0)30 338427-0 info.germany@esteve.com (Németország)
+Esteve Pharmaceuticals GmbH Tel.: +49 (0)30 338427 -0 info.germany@esteve.com (Németország)
 
 <div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
-Esteve Pharmaceuticals GmbH Tlf: +49 (0)30 338427-0 info.germany@esteve.com (Tyskland)
+Esteve Pharmaceuticals GmbH Tlf: +49 (0)30 338427 -0 info.germany@esteve.com (Tyskland)
 
 ## Deutschland
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com
 
 ## Eesti
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Saksamaa)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Saksamaa)
 
 ## Ελλάδα
 
-Esteve Pharmaceuticals GmbH Τηλ : +49 (0)30 338427-0 info.germany@esteve.com (Γερμανία)
+Esteve Pharmaceuticals GmbH Τηλ: +49 (0)30 338427 -0 info.germany@esteve.com (Γερμανία)
 
 ## España
 
@@ -2039,55 +2043,51 @@ ESTEVE PHARMACEUTICALS S.A.S Tél: +33 (0)1 42 31 07 10 contact-france@esteve.co
 
 ## Hrvatska
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Njemačka)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Njemačka)
 
 ## Ireland
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Germany)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Germany)
 
 ## Ísland
 
-Esteve Pharmaceuticals GmbH Sími: +49 (0)30 338427-0 info.germany@esteve.com (Þýskaland)
+Esteve Pharmaceuticals GmbH Sími: +49 (0)30 338427 -0 info.germany@esteve.com (Þýskaland)
 
 ## Malta
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (IlĠermanja/Germany)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (IlĠermanja/Germany)
 
 ## Nederland
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Duitsland)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Duitsland)
 
 ## Norge
 
-Esteve Pharmaceuticals GmbH Tlf: +49 (0)30 338427-0 info.germany@esteve.com (Tyskland)
+Esteve Pharmaceuticals GmbH Tlf: +49 (0)30 338427 -0 info.germany@esteve.com (Tyskland)
 
 ## Österreich
 
-AGEA Pharma GmbH Tel: +43 (0)1 336 01 41 office@ageapharma.com
+Esteve Pharmaceuticals GmbH Tel: 0800560044
 
 ## Polska
 
-IMED POLAND Sp. z o.o.
-
-Tel.: +48 (0)22 663 43 03
-
-imed@imed.com.pl
+IMED POLAND Sp. z o.o. Tel.: +48 (0)22 663 43 03 imed@imed.com.pl
 
 ## Portugal
 
-Esteve Pharmaceuticals -Laboratório Farmacêutico Lda. Tel: +351 914224766
+Esteve Pharmaceuticals - Laboratório Farmacêutico Lda. Tel: +351 914224766
 
 ## România
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Germania)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Germania)
 
 ## Slovenija
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Nemčija)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Nemčija)
 
 ## Slovenská republika
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Nemecko)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Nemecko)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2101,7 +2101,7 @@ Esteve Pharmaceuticals GmbH Τηλ: +49 (0)30 338427 -0 info.germany@esteve.com 
 
 ## Latvija
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Vācija)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Vācija)
 
 ## This leaflet was last revised in {MM/YYYY}.
 
@@ -2131,22 +2131,22 @@ Prialt has been shown to be chemically and physically compatible with the implan
 
 ## Suomi/Finland
 
-Esteve Pharmaceuticals GmbH Puh/Tel: +49 (0)30 338427-0 info.germany@esteve.com (Saksa/Tyskland)
+Esteve Pharmaceuticals GmbH Puh/Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Saksa/Tyskland)
 
 ## Sverige
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Tyskland)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Tyskland)
 
 ## United Kingdom (Northern Ireland)
 
-Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427-0 info.germany@esteve.com (Germany)
+Esteve Pharmaceuticals GmbH Tel: +49 (0)30 338427 -0 info.germany@esteve.com (Germany)
 
 <div style=\"page-break-after: always\"></div>
 
 Prialt was stable for 60 days at 37°C in the Synchromed pump previously exposed to the medicinal product. Stability has been demonstrated for 21 days at room temperature in the CADD-Micro pump.
 
-The technical data are given only for information and should not limit healthcare providers' choice. CE marked pumps equivalent to the Synchromed and CADD-Micro pump should be used to deliver ziconotide.
+The technical data are given only for information and should not limit health-care providers' choice. CE marked pumps equivalent to the Synchromed and CADD-Micro pump should be used to deliver ziconotide.
 
-Pumps previously used to deliver other medicinal products must be washed out three times with sodium chloride 9 mg/mL (0.9%) solution for injection (preservative-free) before being filled with ziconotide. The introduction of air into the pump reservoir or cartridge should be minimised, as oxygen can degrade ziconotide.
+Pumps previously used to deliver other medicinal products must be washed out three times with sodium chloride 9 mg/mL (0.9%) solution for injection (preservative -free) before being filled with ziconotide. The introduction of air into the pump reservoir or cartridge should be minimised, as oxygen can degrade ziconotide.
 
 Prior to initiation of therapy, an internal pump must be rinsed three times with 2 mL of the solution at 25 μg/mL. The concentration of Prialt in a naïve pump may be reduced due to adsorption onto the surfaces of the device, and/or dilution by the residual space of the device. Because of this, after the first use of Prialt, the reservoir should be emptied and refilled after 14 days. Subsequently the pump should be emptied and refilled every 60 days.

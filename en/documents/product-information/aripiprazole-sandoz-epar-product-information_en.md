@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-24 13:07:13
+document_datetime: 2026-04-13 12:51:31
 document_pages: 64
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/aripiprazole-sandoz-epar-product-information_en.pdf
 document_name: aripiprazole-sandoz-epar-product-information_en.pdf
 version: success
-processing_time: 19.4615706
-conversion_datetime: 2025-12-25 09:46:22.495984
+processing_time: 23.1858153
+conversion_datetime: 2026-04-17 15:41:18.028777
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -258,7 +258,7 @@ Aripiprazole Sandoz tablets contain lactose. Patients with rare hereditary probl
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Due to its α 1-adrenergic receptor antagonism, aripiprazole has the potential to enhance the effect of certain antihypertensive medicinal products.
+Due to its α1-adrenergic receptor antagonism, aripiprazole has the potential to enhance the effect of certain antihypertensive medicinal products.
 
 Given the primary CNS effects of aripiprazole, caution should be used when aripiprazole is administered in combination with alcohol or other CNS medicinal products with overlapping adverse reactions such as sedation (see section 4.8).
 
@@ -328,7 +328,7 @@ The most commonly reported adverse reactions in placebo-controlled trials were a
 
 The incidences of the Adverse Drug Reactions (ADRs) associated with aripiprazole therapy are tabulated below. The table is based on adverse events reported during clinical trials and/or post-marketing use.
 
-All ADRs are listed by system organ class and frequency; very common (≥ 1/1 0), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+All ADRs are listed by system organ class and frequency; very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 The frequency of adverse reactions reported during post-marketing use cannot be determined as they are derived from spontaneous reports. Consequently, the frequency of these adverse events is qualified as \"not known\"
 
@@ -401,9 +401,9 @@ In a short-term placebo-controlled clinical trial involving 302 adolescents (13-
 
 that were reported more frequently in adolescents receiving aripiprazole than in adults receiving aripiprazole (and more frequently than placebo):
 
-S omnolence/sedation and extrapyramidal disorder were reported very commonly (≥ 1/10), and dry mouth, increased appetite, and orthostatic hypotension were reported commonly (≥ 1/100, &lt; 1/10).The safety profile in a 26-week open-label extension trial was similar to that observed in the short-term, placebo-controlled trial.
+Somnolence/sedation and extrapyramidal disorder were reported very commonly (≥ 1/10), and dry mouth, increased appetite, and orthostatic hypotension were reported commonly (≥ 1/100, &lt; 1/10).The safety profile in a 26-week open-label extension trial was similar to that observed in the short-term, placebo-controlled trial.
 
-The safety profile of a long-term, double-blind placebo controlled trial was also similar except for the following reactions that were reported more frequently than paediatric patients taking placebo: weight decreased, blood insulin increased, arrhythmia, and leukopenia were rep orted commonly (≥ 1/100, &lt; 1/10).
+The safety profile of a long-term, double-blind placebo controlled trial was also similar except for the following reactions that were reported more frequently than paediatric patients taking placebo: weight decreased, blood insulin increased, arrhythmia, and leukopenia were reported commonly (≥ 1/100, &lt; 1/10).
 
 In the pooled adolescent schizophrenia population (13-17 years) with exposure up to 2 years, incidence of low serum prolactin levels in females (&lt;3 ng/ml) and males (&lt;2 ng/ml) was 29.5% and 48.3%, respectively. In the adolescent (13-17 years) schizophrenia population with aripiprazole exposure of 5 to 30 mg up to 72 months, incidence of low serum prolactin levels in females (&lt;3 ng/ml) and males (&lt;2 ng/ml) was 25.6% and 45.0%, respectively.
 
@@ -503,7 +503,7 @@ In a 6-week, placebo-controlled trial involving patients with a manic or mixed e
 
 In a 26-week, placebo-controlled trial, followed by a 74-week extension, in manic patients who achieved remission on aripiprazole during a stabilization phase prior to randomisation, aripiprazole demonstrated superiority over placebo in preventing bipolar recurrence, primarily in preventing recurrence into mania but failed to demonstrate superiority over placebo in preventing recurrence into depression.
 
-In a 52-week, placebo-controlled trial, in patients with a current manic or mixed episode of Bipolar I Disorder who achieved sustained remission (Y-MRS and MADRS tot al scores ≤ 12) on aripiprazole (10 mg/day to 30 mg/day) adjunctive to lithium or valproate for 12 consecutive weeks, adjunctive
+In a 52-week, placebo-controlled trial, in patients with a current manic or mixed episode of Bipolar I Disorder who achieved sustained remission (Y-MRS and MADRS total scores ≤ 12) on aripiprazole (10 mg/day to 30 mg/day) adjunctive to lithium or valproate for 12 consecutive weeks, adjunctive
 
 <div style=\"page-break-after: always\"></div>
 
@@ -519,7 +519,7 @@ In a 60- to 89-week, randomised, double-blind, placebo-controlled trial in adole
 
 ## Manic episodes in Bipolar I Disorder in children and adolescents
 
-Aripiprazole was studied in a 30-week placebo-controlled trial involving 296 children and adolescents (1017 years), who met DSM-IV criteria for Bipolar I Disorder with manic or mixed episodes with or without psychotic features and had a YMRS score ≥ 20 at baseline. Among the patients included in the primary efficacy analysis, 139 patients had a current co-morbid diagnosis of ADHD.
+Aripiprazole was studied in a 30-week placebo-controlled trial involving 296 children and adolescents (1017 years), who met DSM-IV criteria for Bipolar I Disorder with manic or mixed episodes with or without psychotic features and had a Y-MRS score ≥ 20 at baseline. Among the patients included in the primary efficacy analysis, 139 patients had a current co-morbid diagnosis of ADHD.
 
 Aripiprazole was superior to placebo in change from baseline at week 4 and at week 12 on the Y-MRS total score. In a post-hoc analysis, the improvement over placebo was more pronounced in the patients with associated co-morbidity of ADHD compared to the group without ADHD, where there was no difference from placebo. Recurrence prevention was not established.
 
@@ -647,7 +647,7 @@ Lactose monohydrate Maize starch Microcrystalline cellulose Hydroxypropyl cellul
 
 Not applicable.
 
-## 6.3 Shelf life
+6.3 Shelf life
 
 2 years
 
@@ -733,7 +733,9 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX II A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## ANNEX II A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE OTHER CONDITIONS AND REQUIREMENTS OF THE
+
+## C. MARKETING AUTHORISATION
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -826,12 +828,16 @@ Use within 3 months after first opening.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.                                                                 | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR    |
+|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| WASTE MATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE | WASTE MATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
-Sandoz GmbH Biochemiestrasse 10 6250 Kundl Austria
+Sandoz GmbH Biochemiestrasse 10 6250 Kundl
+
+Austria
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -842,8 +848,11 @@ EU/1/15/1029/014
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -857,8 +866,8 @@ Outer carton:Aripiprazole Sandoz 5 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 [Only Carton for bottle:]
 
@@ -939,13 +948,14 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.                                                                 | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR    |
+|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE | WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
-Sandoz GmbH Biochemiestrasse 10 6250 Kundl
-
-Austria
+Sandoz GmbH Biochemiestrasse 10 6250 Kundl Austria
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -960,8 +970,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -975,24 +985,26 @@ Aripiprazole Sandoz 5 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
+31
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Aripiprazole Sandoz 5 mg tablets aripiprazole
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Sandoz
 
@@ -1053,14 +1065,16 @@ Use within 3 months after first opening.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.                                                                | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR   |
-|--------------------------------------------------------------------|--------------------------------------------------------------------|
-| WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE | WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE |
+| 10.                                                                 | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR    |
+|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| WASTE MATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE | WASTE MATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
-Sandoz GmbH Biochemiestrasse 10 6250 Kundl Austria
+Sandoz GmbH Biochemiestrasse 10 6250 Kundl
+
+Austria
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -1075,8 +1089,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1090,7 +1104,8 @@ Outer carton: Aripiprazole Sandoz 10 mg
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 [Only Carton for bottle:]
 
@@ -1116,9 +1131,7 @@ Each tablet contains 10 mg of aripiprazole.
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: lactose monohydrate.
-
-See leaflet for further information.
+Also contains: lactose monohydrate. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1173,13 +1186,16 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10.
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR
 
-Sandoz GmbH Biochemiestrasse 10 6250 Kundl
+WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-Austria
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+Sandoz GmbH Biochemiestrasse 10 6250 Kundl Austria
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -1194,8 +1210,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1209,24 +1225,26 @@ Aripiprazole Sandoz 10 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
+37
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Aripiprazole Sandoz 10 mg tablets aripiprazole
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Sandoz
 
@@ -1245,7 +1263,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING AND THE IMMEDIATE PACKAGING
 
-OUTER CARTON FOR BOTTLE AND LABEL FOR BOTTLE
+## OUTER CARTON FOR BOTTLE AND LABEL FOR BOTTLE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1291,25 +1309,32 @@ Use within 3 months after first opening.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Sandoz GmbH Biochemiestrasse 10 6250 Kundl Austria
+Sandoz GmbH Biochemiestrasse 10 6250 Kundl
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+Austria
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/15/1029/042
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Outer carton: Aripiprazole Sandoz 15 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 [Only Carton for bottle:]
 
@@ -1396,7 +1421,11 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10.
+
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR
+
+WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -1416,8 +1445,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1431,24 +1460,26 @@ Aripiprazole Sandoz 15 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
+43
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Aripiprazole Sandoz 15 mg tablets aripiprazole
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Sandoz
 
@@ -1491,11 +1522,11 @@ See leaflet for further information.
 
 28 tablets
 
-- 49 tablets
+49 tablets
 
 - 56 tablets
 
-- 98 tablets
+98 tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1543,7 +1574,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1563,17 +1594,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Aripiprazole Sandoz 20 mg tablets aripiprazole
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Sandoz
 
@@ -1592,7 +1623,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING AND THE IMMEDIATE PACKAGING
 
-OUTER CARTON FOR BOTTLE AND LABEL FOR BOTTLE
+## OUTER CARTON FOR BOTTLE AND LABEL FOR BOTTLE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1638,9 +1669,12 @@ Use within 3 months after first opening.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Sandoz GmbH Biochemiestrasse 10 6250 Kundl Austria
+Sandoz GmbH Biochemiestrasse 10 6250 Kundl
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+Austria
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/15/1029/061
 
@@ -1648,15 +1682,18 @@ EU/1/15/1029/061
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Outer carton: Aripiprazole Sandoz 30 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 [Only Carton for bottle:]
 
@@ -1688,9 +1725,7 @@ Each tablet contains 30 mg of aripiprazole
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: lactose monohydrate.
-
-See leaflet for further information.
+Also contains: lactose monohydrate. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1745,9 +1780,14 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10.
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR
+
+WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 Sandoz GmbH Biochemiestrasse 10 6250 Kundl Austria
 
@@ -1764,8 +1804,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1779,24 +1819,24 @@ Aripiprazole Sandoz 30 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Aripiprazole Sandoz 30 mg tablets aripiprazole
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Sandoz
 
@@ -1829,10 +1869,10 @@ aripiprazole
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor or pharmacist.
--  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
--  If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2121,28 +2161,28 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## Aripiprazole Sandoz 5 mg tablets
 
--  The active substance is aripiprazole. Each tablet contains 5 mg of aripiprazole.
--  The other ingredients are lactose monohydrate, maize starch, microcrystalline cellulose, hydroxypropyl cellulose, magnesium stearate, indigo carmine (E132) aluminium lake.
+- The active substance is aripiprazole. Each tablet contains 5 mg of aripiprazole.
+- The other ingredients are lactose monohydrate, maize starch, microcrystalline cellulose, hydroxypropyl cellulose, magnesium stearate, indigo carmine (E132) aluminium lake.
 
 ## Aripiprazole Sandoz 10 mg tablets
 
--  The active substance is aripiprazole. Each tablet contains 10 mg of aripiprazole.
--  The other ingredients are lactose monohydrate, maize starch, microcrystalline cellulose, hydroxypropyl cellulose, magnesium stearate, red iron oxide (E172).
+- The active substance is aripiprazole. Each tablet contains 10 mg of aripiprazole.
+- The other ingredients are lactose monohydrate, maize starch, microcrystalline cellulose, hydroxypropyl cellulose, magnesium stearate, red iron oxide (E172).
 
 ## Aripiprazole Sandoz 15 mg tablets
 
--  The active substance is aripiprazole. Each tablet contains 15 mg of aripiprazole.
--  The other ingredients are lactose monohydrate, maize starch, microcrystalline cellulose, hydroxypropyl cellulose, magnesium stearate, yellow iron oxide.
+- The active substance is aripiprazole. Each tablet contains 15 mg of aripiprazole.
+- The other ingredients are lactose monohydrate, maize starch, microcrystalline cellulose, hydroxypropyl cellulose, magnesium stearate, yellow iron oxide.
 
 ## Aripiprazole Sandoz 20 mg tablets
 
--  The active substance is aripiprazole. Each tablet contains 20 mg of aripiprazole.
--  The other ingredients are lactose monohydrate, maize starch, microcrystalline cellulose, hydroxypropyl cellulose, magnesium stearate.
+- The active substance is aripiprazole. Each tablet contains 20 mg of aripiprazole.
+- The other ingredients are lactose monohydrate, maize starch, microcrystalline cellulose, hydroxypropyl cellulose, magnesium stearate.
 
 ## Aripiprazole Sandoz 30 mg tablets
 
--  The active substance is aripiprazole. Each tablet contains 30 mg of aripiprazole.
--  The other ingredients are lactose monohydrate, maize starch, microcrystalline cellulose, hydroxypropyl cellulose, magnesium stearate, red iron oxide (E172).
+- The active substance is aripiprazole. Each tablet contains 30 mg of aripiprazole.
+- The other ingredients are lactose monohydrate, maize starch, microcrystalline cellulose, hydroxypropyl cellulose, magnesium stearate, red iron oxide (E172).
 
 ## What Aripiprazole Sandoz tablets look like and contents of the pack´
 
@@ -2188,21 +2228,23 @@ Lek Pharmaceuticals d.d. Verovškova 57 1526 Ljubljana Slovenia
 
 S.C. Sandoz, S.R.L. Str. Livezeni nr. 7A Târgu Mureş 540472 Romania
 
-Lek S.A. ul. Domaniewska 50 C 02-672 Warszawa Poland
+Lek S.A. ul. Domaniewska 50 C 02-672 Warszawa
+
+Poland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Sandoz nv/sa Medialaan 40 B-1800 Vilvoorde Tél/Tel.: +32 2 722 97 97
+België/Belgique/Belgien Sandoz nv/sa Tél/Tel.: +32 2 722 97 97
 
-regaff.belgium@sandoz.com
+Lietuva Tel: +370 5 26 36 037
 
-Lietuva Sandoz Pharmaceuticals d.d. filialas Šeimyniškių 3A, LT 09312 Vilnius Tel: +370 5 26 36 037 Info.lithuania@sandoz.com
+Sandoz Pharmaceuticals d.d. filialas
 
 <div style=\"page-break-after: always\"></div>
 
 ## България
 
-Regulatory Affairs Department Branch Office Sandoz d.d. 55 Nikola Vaptzarov blvd. Building 4, floor 4 1407 Sofia, Bulgaria Te л .: + 359 2 970 47 47 regaffairs.bg@sandoz.com
+Regulatory Affairs Department Branch Office Sandoz d.d. 55 Nikola Vaptzarov blvd. Building 4, floor 4 1407 Sofia, Bulgaria Teл.: + 359 2 970 47 47 regaffairs.bg@sandoz.com
 
 ## Česká republika
 
@@ -2212,9 +2254,7 @@ Tel: +420 234 142 222
 
 ## Danmark
 
-Sandoz A/S
-
-Tlf: + 45 6395 1000
+Sandoz A/S Tlf: + 45 6395 1000
 
 ## Deutschland
 
@@ -2222,19 +2262,31 @@ Hexal AG Industriestrasse  25 D-83607 Holzkirchen Tel: +49 8024 908 0 E-mail: se
 
 ## Eesti
 
-Sandoz d.d. Eesti filiaal Pärnu mnt105 EE-11312 Tallinn Tel.: +372 665 2400 Info.ee@sandoz.com
+Sandoz d.d. Eesti filiaal Tel.: +372 665 2400
 
 ## Ελλάδα
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε . ( Ελλάδα ) Τηλ: +30 216 600 5000
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. Τηλ: +30 216 600 5000
 
 ## España
 
-Sandoz Farmacéutica, S.A. Centro empresarial Parque Norte Edificio Roble C/Serrano Galvache, N°56 28033 Madrid Spain Tel: +34 900 456 856
+Sandoz Farmacéutica, S.A. Centro empresarial Parque Norte Edificio Roble C/Serrano Galvache, N°56 28033 Madrid Spain Tel: +34 900 456 856 regaffairs.es@sandoz.com
 
-registros.spain@sandoz.com
+## France
 
-Luxembourg/Luxemburg Sandoz nv/sa Medialaan 40 B-1800 Vilvoorde Tél/Tel.: +32 2 722 97 97 regaff.belgium@sandoz.com
+Sandoz SAS Tél: + 33 1 49 64 48 00
+
+## Hrvatska
+
+Sandoz d.o.o. Maksimirska 120 10000 Zagreb Tel: + 385 1 2353111 e-mail: upit.croatia@sandoz.com
+
+## Ireland
+
+## Luxembourg/Luxemburg
+
+Sandoz nv/sa
+
+Tél/Tel.: +32 2 722 97 97
 
 ## Magyarország
 
@@ -2244,13 +2296,11 @@ Tel.: +36 1 430 2890
 
 ## Malta
 
-Sandoz Pharmaceuticals d.d. Tel: +356 21222872
+Sandoz Pharmaceuticals d.d. Tel: +35699644126
 
 ## Nederland
 
-Sandoz B.V. Hospitaaldreef 29, NL-1315 RC Almere Tel: +31 36 5241600
-
-info.sandoz-nl@sandoz.com
+Sandoz B.V. Hospitaaldreef 29 NL-1315 RC Almere Tel: +31 36 5241600 info.sandoz-nl@sandoz.com
 
 ## Norge
 
@@ -2260,43 +2310,35 @@ Tlf: + 45 6395 1000
 
 ## Österreich
 
-Sandoz GmbH Biochemiestr. 10 A-6250 Kundl Tel: +43 5338 2000
+Sandoz GmbH Biochemiestr. 10 A-6250 Kundl
+
+Tel: +43 5338 2000
 
 ## Polska
 
 Sandoz Polska Sp. z o.o. ul. Domaniewska 50C 02-672 Warszawa Tel.: + 48 22 209 70 00 biuro.pl@sandoz.com
 
+## Portugal
+
+Sandoz Farmacêutica Lda. Tel: +351 21 196 40 00
+
+## România
+
+Sandoz Pharmaceuticals SRL Tel: +40 21 407 51 60
+
+## Slovenija
+
 <div style=\"page-break-after: always\"></div>
 
-## France
+Rowex Ltd., Ireland,
 
-Sandoz SAS
-
-Tél: + 33 1 49 64 48 00
-
-## Hrvatska
-
-Sandoz d.o.o. Maksimirska 120 10000 Zagreb
-
-Tel: + 385 1 2353111
-
-e-mail: upit.croatia@sandoz.com
-
-## Ireland
-
-Rowex Ltd., Bantry, Co. Cork, Ireland, P75 V009
-
-Tel: + 353 27 50077
-
-e-mail: reg@rowa-pharma.ie
+Bantry, Co. Cork, P75 V009 Tel: + 1800 83 20 83
 
 ## Ísland
 
 Sandoz A/S
 
-\\
-
-Tlf: + 45 6395 1000 Info.danmark@sandoz.com
+Sími: + 45 6395 1000
 
 ## Italia
 
@@ -2306,43 +2348,11 @@ Tel: +39 02 812 806 96
 
 ## Κύπρος
 
-Sandoz Pharmaceuticals d.d.
-
-Τηλ: +357 22 69 0690
-
-## Latvija
-
-Sandoz d.d. Latvia filiāle
-
-K.Valdemāra iela 33 -29
-
-Rīga, LV1010
-
-Tel: + 371 67892006
-
-## This leaflet was last revised in .
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-## Portugal
-
-Sandoz Farmacêutica Lda.
-
-Tel: +351 21 196 40 00
-
-## România
-
-Sandoz S.R.L. Str. Livezeni nr.7A, 540472 Târgu Mureş +40 21 4075160
-
-## Slovenija
-
 Lek farmacevtska družba d.d. Verovškova ulica 57 1526 Ljubljana Tel: +386 1 580 21 11
 
 ## Slovenská republika
 
-Sandoz d.d. organizačná zložka Žižkova 22B SK-811 02 Bratislava Tel: + 421 2 50 706 111 info@sandoz.sk
+Sandoz d.d. organizačná zložka Žižkova 22B SK-811 02 Bratislava Tel: +421 2 48 200 600
 
 ## Suomi/Finland
 
@@ -2352,6 +2362,18 @@ Puh/Tel: + 358 010 6133 400
 
 ## Sverige
 
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε (Ελλάδα)Τηλ: +30 216 600 5000
+
 Sandoz A/S
 
-Puh/Tel: + 45 6395 1000
+Tel: + 45 6395 1000
+
+## Latvija
+
+Sandoz d.d. Latvia filiāle K.Valdemāra iela 33-29 Rīga, LV1010 Tel: + 371 67892006
+
+## This leaflet was last revised in .
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu

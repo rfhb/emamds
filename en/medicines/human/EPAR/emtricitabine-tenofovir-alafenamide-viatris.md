@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:39:49
+document_datetime: 2026-04-16 14:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/emtricitabine-tenofovir-alafenamide-viatris.html
 document_name: emtricitabine-tenofovir-alafenamide-viatris.html
 version: success
-processing_time: 0.0945125
-conversion_datetime: 2025-12-29 23:46:39.698337
+processing_time: 0.1221555
+conversion_datetime: 2026-04-17 15:33:56.33338
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Emtricitabine / Tenofovir alafenamide Viatris
 
 [RSS](/en/individual-human-medicine.xml/259702)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-emtricitabine / tenofovir alafenamide Medicine Human Authorised
+emtricitabine / tenofovir alafenamide
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -37,6 +37,7 @@ Page contents
 - [Product details](#product-details)
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-85338)
 
 - Application under evaluation
 - CHMP opinion
@@ -98,181 +99,137 @@ English (EN) (144.18 KB - PDF)
 
 [View](/en/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-411)
+[Other languages (22)](#file-language-dropdown-205)
 
 български (BG) (151.64 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/bg/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_bg.pdf)
 
 español (ES) (127.25 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/es/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_es.pdf)
 
 čeština (CS) (149.15 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/cs/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (125.16 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/da/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (129.62 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/de/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (123.71 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/et/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (155.11 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/el/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_el.pdf)
 
 français (FR) (128.72 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/fr/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (145.8 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/hr/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (124.65 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/it/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (168.57 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/lv/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (148 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/lt/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (149.16 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/hu/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (158.99 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/mt/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (127.07 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/nl/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_nl.pdf)
 
 polski (PL) (152.54 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/pl/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_pl.pdf)
 
 português (PT) (128.13 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/pt/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_pt.pdf)
 
 română (RO) (145.7 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/ro/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (147.41 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/sk/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (144.53 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/sl/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (125.16 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/fi/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (124.15 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/sv/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_sv.pdf)
 
@@ -288,207 +245,161 @@ English (EN) (146.5 KB - PDF)
 
 Emtricitabine / Tenofovir alafenamide Viatris : EPAR - Product information
 
-English (EN) (538.01 KB - PDF)
+English (EN) (365.04 KB - PDF)
 
-**First published:** 05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/en/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-429)
+[Other languages (24)](#file-language-dropdown-955)
 
-български (BG) (841.83 KB - PDF)
+български (BG) (617.68 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/bg/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_bg.pdf)
 
-español (ES) (634.2 KB - PDF)
+español (ES) (319.48 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/es/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (887.6 KB - PDF)
+čeština (CS) (715.23 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/cs/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_cs.pdf)
 
-dansk (DA) (422.64 KB - PDF)
+dansk (DA) (616.21 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/da/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_da.pdf)
 
-Deutsch (DE) (367.35 KB - PDF)
+Deutsch (DE) (591.4 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/de/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_de.pdf)
 
-eesti keel (ET) (645.8 KB - PDF)
+eesti keel (ET) (519.93 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/et/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (812.55 KB - PDF)
+ελληνικά (EL) (457.54 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/el/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_el.pdf)
 
-français (FR) (766.12 KB - PDF)
+français (FR) (701.96 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/fr/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (675.31 KB - PDF)
+hrvatski (HR) (665.49 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/hr/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_hr.pdf)
 
-íslenska (IS) (753.72 KB - PDF)
+íslenska (IS) (647.06 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/is/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_is.pdf)
 
-italiano (IT) (728.91 KB - PDF)
+italiano (IT) (605.85 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/it/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (738.49 KB - PDF)
+latviešu valoda (LV) (545.21 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/lv/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (550.01 KB - PDF)
+lietuvių kalba (LT) (703.85 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/lt/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_lt.pdf)
 
-magyar (HU) (784.48 KB - PDF)
+magyar (HU) (705.89 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/hu/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_hu.pdf)
 
-Malti (MT) (639.4 KB - PDF)
+Malti (MT) (715.2 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/mt/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (558.63 KB - PDF)
+Nederlands (NL) (683.66 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/nl/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_nl.pdf)
 
-norsk (NO) (441.56 KB - PDF)
+norsk (NO) (634.35 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/no/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_no.pdf)
 
-polski (PL) (722.33 KB - PDF)
+polski (PL) (487.97 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/pl/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_pl.pdf)
 
-português (PT) (450.17 KB - PDF)
+português (PT) (468.42 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/pt/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_pt.pdf)
 
-română (RO) (773.98 KB - PDF)
+română (RO) (771.61 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/ro/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (843.12 KB - PDF)
+slovenčina (SK) (701.32 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/sk/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (800.98 KB - PDF)
+slovenščina (SL) (402.22 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/sl/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_sl.pdf)
 
-Suomi (FI) (757.63 KB - PDF)
+Suomi (FI) (615.02 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/fi/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_fi.pdf)
 
-svenska (SV) (591.73 KB - PDF)
+svenska (SV) (604.24 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025 **Last updated:** 16/04/2026
 
 [View](/sv/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_sv.pdf)
 
-18/07/2025
+**Latest procedure affecting product information:** VR/0000340699
+
+16/04/2026
 
 icon globe
 
@@ -512,207 +423,159 @@ English (EN) (61.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-379)
+[Other languages (24)](#file-language-dropdown-494)
 
 български (BG) (73.61 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/bg/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (63.46 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/es/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (64.14 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/cs/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (54.21 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/da/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (54.51 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/de/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (53.94 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/et/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (55.71 KB - PDF)
 
-**First published:**
-
-05/08/2025
-
-**Last updated:**
-
-03/10/2025
+**First published:** 05/08/2025 **Last updated:** 03/10/2025
 
 [View](/el/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (54.32 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/fr/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (61.47 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/hr/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (55.5 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/is/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (53.61 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/it/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (71.28 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/lv/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (73.45 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/lt/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (71.38 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/hu/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (73.13 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/mt/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (63.62 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/nl/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (53.15 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/no/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (72.56 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/pl/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (63.22 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/pt/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (60.56 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/ro/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (80.01 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/sk/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (79.11 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/sl/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (58.02 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/fi/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (53.67 KB - PDF)
 
-**First published:**
-
-05/08/2025
+**First published:** 05/08/2025
 
 [View](/sv/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Emtricitabine / Tenofovir alafenamide Viatris Active substance
+Name of medicine
+
+Emtricitabine / Tenofovir alafenamide Viatris
+
+Active substance
 
 - emtricitabine
 - tenofovir alafenamide fumarate
@@ -722,7 +585,13 @@ International non-proprietary name (INN) or common name
 - emtricitabine
 - tenofovir alafenamide
 
-Therapeutic area (MeSH) HIV Infections Anatomical therapeutic chemical (ATC) code J05AR17
+Therapeutic area (MeSH)
+
+HIV Infections
+
+Anatomical therapeutic chemical (ATC) code
+
+J05AR17
 
 ### Pharmacotherapeutic group
 
@@ -734,7 +603,9 @@ Emtricitabine/Tenofovir alafenamide Viatris is indicated in combination with oth
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006469
+EMA product number
+
+EMEA/H/C/006469
 
 Generic
 
@@ -744,19 +615,41 @@ Marketing authorisation holder
 
 Viatris Limited
 
-Damastown Industrial Park Mulhuddart Dublin Dublin 15 Ireland
+Damastown Industrial Park Dublin 15 Ireland
 
-Opinion adopted 22/05/2025 Marketing authorisation issued 18/07/2025
+Opinion adopted
+
+22/05/2025
+
+Marketing authorisation issued
+
+18/07/2025
+
+Revision
+
+1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Emtricitabine / Tenofovir alafenamide Viatris Procedural steps taken and scientific information after authorisation
+
+English (EN) (147.07 KB - PDF)
+
+**First published:** 16/04/2026
+
+[View](/en/documents/procedural-steps-after/emtricitabine-tenofovir-alafenamide-viatris-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Emtricitabine / Tenofovir alafenamide Viatris : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/192996/2025
+Adopted Reference Number: EMA/192996/2025
 
 English (EN) (1.27 MB - PDF)
 
@@ -766,9 +659,7 @@ English (EN) (1.27 MB - PDF)
 
 CHMP summary of positive opinion for Emtricitabine / Tenofovir alafenamide Viatris
 
-Adopted
-
-Reference Number: EMA/CHMP/161057/2025
+Adopted Reference Number: EMA/CHMP/161057/2025
 
 English (EN) (136.08 KB - PDF)
 
@@ -776,8 +667,166 @@ English (EN) (136.08 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-emtricitabine-tenofovir-alafenamide-viatris_en.pdf)
 
-**This page was last updated on** 05/08/2025
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Emtricitabine / Tenofovir alafenamide Viatris : EPAR - Product information - tracked changes
+
+English (EN) (134.35 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/en/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-614)
+
+български (BG) (168.28 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/bg/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (165.28 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/es/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (163 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/cs/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (152.27 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/da/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (190.01 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/de/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (160.63 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/et/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (186.3 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/el/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (191.13 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/fr/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (163.9 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/hr/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (160.28 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/is/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (160.21 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/it/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (159.23 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/lv/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (163.12 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/lt/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (154.95 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/hu/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (162.98 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/mt/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (162.75 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/nl/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (141.63 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/no/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (156.32 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/pl/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (158.33 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/pt/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (162.77 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/ro/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (164.71 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/sk/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (149.81 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/sl/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (156.4 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/fi/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (158.02 KB - DOCX)
+
+**First published:** 16/04/2026
+
+[View](/sv/documents/product-information-tracked-changes/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information-tracked-changes_sv.docx)
+
+**This page was last updated on**
+
+16/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

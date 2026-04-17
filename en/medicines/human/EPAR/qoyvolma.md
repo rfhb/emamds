@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:09:50
+document_datetime: 2026-04-16 16:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/qoyvolma.html
 document_name: qoyvolma.html
 version: success
-processing_time: 0.1092187
-conversion_datetime: 2025-12-31 04:14:42.443929
+processing_time: 0.1128483
+conversion_datetime: 2026-04-17 15:41:55.504406
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Qoyvolma
 
 [RSS](/en/individual-human-medicine.xml/256954)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-ustekinumab Medicine Human Authorised
+ustekinumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Qoyvolma
 
@@ -114,275 +114,141 @@ Qoyvolma : EPAR - Medicine overview
 
 English (EN) (135.42 KB - PDF)
 
-**First published:** 10/06/2025
-
-**Last updated:** 17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/en/documents/overview/qoyvolma-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-201)
+[Other languages (22)](#file-language-dropdown-560)
 
 български (BG) (163.22 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/bg/documents/overview/qoyvolma-epar-medicine-overview_bg.pdf)
 
 español (ES) (134.91 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/es/documents/overview/qoyvolma-epar-medicine-overview_es.pdf)
 
 čeština (CS) (160.83 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/cs/documents/overview/qoyvolma-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (135.58 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/da/documents/overview/qoyvolma-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (139.86 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/de/documents/overview/qoyvolma-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (132.78 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/et/documents/overview/qoyvolma-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (162.48 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/el/documents/overview/qoyvolma-epar-medicine-overview_el.pdf)
 
 français (FR) (136.29 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/fr/documents/overview/qoyvolma-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (157.97 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/hr/documents/overview/qoyvolma-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (134.07 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/it/documents/overview/qoyvolma-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (165.17 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/lv/documents/overview/qoyvolma-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (157.55 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/lt/documents/overview/qoyvolma-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (158.71 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/hu/documents/overview/qoyvolma-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (160.99 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/mt/documents/overview/qoyvolma-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (136.88 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/nl/documents/overview/qoyvolma-epar-medicine-overview_nl.pdf)
 
 polski (PL) (162.66 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/pl/documents/overview/qoyvolma-epar-medicine-overview_pl.pdf)
 
 português (PT) (135.93 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/pt/documents/overview/qoyvolma-epar-medicine-overview_pt.pdf)
 
 română (RO) (155.25 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/ro/documents/overview/qoyvolma-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (159.94 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/sk/documents/overview/qoyvolma-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (156.86 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/sl/documents/overview/qoyvolma-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (132.35 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/fi/documents/overview/qoyvolma-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (133.63 KB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-17/10/2025
+**First published:** 10/06/2025 **Last updated:** 17/10/2025
 
 [View](/sv/documents/overview/qoyvolma-epar-medicine-overview_sv.pdf)
 
@@ -390,9 +256,7 @@ Qoyvolma : EPAR - Risk management plan
 
 English (EN) (1.43 MB - PDF)
 
-**First published:** 10/06/2025
-
-**Last updated:** 09/09/2025
+**First published:** 10/06/2025 **Last updated:** 09/09/2025
 
 [View](/en/documents/rmp/qoyvolma-epar-risk-management-plan_en.pdf)
 
@@ -400,305 +264,161 @@ English (EN) (1.43 MB - PDF)
 
 Qoyvolma : EPAR - Product information
 
-English (EN) (1.82 MB - PDF)
+English (EN) (4.14 MB - PDF)
 
-**First published:** 10/06/2025
-
-**Last updated:** 09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/en/documents/product-information/qoyvolma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-661)
+[Other languages (24)](#file-language-dropdown-679)
 
-български (BG) (1.98 MB - PDF)
+български (BG) (4.3 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/bg/documents/product-information/qoyvolma-epar-product-information_bg.pdf)
 
-español (ES) (1.77 MB - PDF)
+español (ES) (4.02 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/es/documents/product-information/qoyvolma-epar-product-information_es.pdf)
 
-čeština (CS) (2.05 MB - PDF)
+čeština (CS) (4.41 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/cs/documents/product-information/qoyvolma-epar-product-information_cs.pdf)
 
-dansk (DA) (1.83 MB - PDF)
+dansk (DA) (4.11 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/da/documents/product-information/qoyvolma-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.71 MB - PDF)
+Deutsch (DE) (4.03 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/de/documents/product-information/qoyvolma-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.78 MB - PDF)
+eesti keel (ET) (3.99 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/et/documents/product-information/qoyvolma-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2 MB - PDF)
+ελληνικά (EL) (4.37 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/el/documents/product-information/qoyvolma-epar-product-information_el.pdf)
 
-français (FR) (1.79 MB - PDF)
+français (FR) (4.06 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/fr/documents/product-information/qoyvolma-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.04 MB - PDF)
+hrvatski (HR) (4.23 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/hr/documents/product-information/qoyvolma-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.05 MB - PDF)
+íslenska (IS) (4.26 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/is/documents/product-information/qoyvolma-epar-product-information_is.pdf)
 
-italiano (IT) (1.76 MB - PDF)
+italiano (IT) (3.99 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/it/documents/product-information/qoyvolma-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.81 MB - PDF)
+latviešu valoda (LV) (4.14 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/lv/documents/product-information/qoyvolma-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.91 MB - PDF)
+lietuvių kalba (LT) (4.2 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/lt/documents/product-information/qoyvolma-epar-product-information_lt.pdf)
 
-magyar (HU) (1.98 MB - PDF)
+magyar (HU) (4.32 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/hu/documents/product-information/qoyvolma-epar-product-information_hu.pdf)
 
-Malti (MT) (1.93 MB - PDF)
+Malti (MT) (4.34 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/mt/documents/product-information/qoyvolma-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.9 MB - PDF)
+Nederlands (NL) (4.16 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/nl/documents/product-information/qoyvolma-epar-product-information_nl.pdf)
 
-norsk (NO) (1.81 MB - PDF)
+norsk (NO) (4.03 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/no/documents/product-information/qoyvolma-epar-product-information_no.pdf)
 
-polski (PL) (1.82 MB - PDF)
+polski (PL) (4.15 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/pl/documents/product-information/qoyvolma-epar-product-information_pl.pdf)
 
-português (PT) (1.8 MB - PDF)
+português (PT) (3.98 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/pt/documents/product-information/qoyvolma-epar-product-information_pt.pdf)
 
-română (RO) (1.84 MB - PDF)
+română (RO) (4.23 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/ro/documents/product-information/qoyvolma-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.05 MB - PDF)
+slovenčina (SK) (4.27 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/sk/documents/product-information/qoyvolma-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.87 MB - PDF)
+slovenščina (SL) (4.21 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/sl/documents/product-information/qoyvolma-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.92 MB - PDF)
+Suomi (FI) (4.19 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/fi/documents/product-information/qoyvolma-epar-product-information_fi.pdf)
 
-svenska (SV) (1.84 MB - PDF)
+svenska (SV) (4.15 MB - PDF)
 
-**First published:**
-
-10/06/2025
-
-**Last updated:**
-
-09/09/2025
+**First published:** 10/06/2025 **Last updated:** 16/04/2026
 
 [View](/sv/documents/product-information/qoyvolma-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000280926 05/09/2025
+**Latest procedure affecting product information:** VR/0000334207
+
+16/04/2026
 
 icon globe
 
@@ -722,210 +442,176 @@ English (EN) (62.8 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-86)
+[Other languages (24)](#file-language-dropdown-478)
 
 български (BG) (67.9 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/bg/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (62.6 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/es/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (71.59 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/cs/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (65.73 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/da/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (65.8 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/de/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (59.87 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/et/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (64.25 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/el/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (62.66 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/fr/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (62.23 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/hr/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (64.64 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/is/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (62.07 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/it/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (64.62 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/lv/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (64.49 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/lt/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (60.9 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/hu/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (61.55 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/mt/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (55.73 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/nl/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (58.67 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/no/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (62.92 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/pl/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (58.23 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/pt/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (59.56 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/ro/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (61.9 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/sk/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (56.5 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/sl/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (53.72 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/fi/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (55.71 KB - PDF)
 
-**First published:**
-
-10/06/2025
+**First published:** 10/06/2025
 
 [View](/sv/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Qoyvolma Active substance ustekinumab International non-proprietary name (INN) or common name ustekinumab Therapeutic area (MeSH)
+Name of medicine
+
+Qoyvolma
+
+Active substance
+
+ustekinumab
+
+International non-proprietary name (INN) or common name
+
+ustekinumab
+
+Therapeutic area (MeSH)
 
 - Psoriasis
 - Arthritis, Psoriatic
 - Colitis, Ulcerative
 - Crohn Disease
 
-Anatomical therapeutic chemical (ATC) code L04AC05
+Anatomical therapeutic chemical (ATC) code
+
+L04AC05
 
 ### Pharmacotherapeutic group
 
@@ -939,7 +625,9 @@ Plaque psoriasis Qoyvolma is indicated for the treatment of moderate to severe p
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006649
+EMA product number
+
+EMEA/H/C/006649
 
 Additional monitoring
 
@@ -955,7 +643,17 @@ Celltrion Healthcare Hungary Kft.
 
 1062 Budapest
 
-Opinion adopted 27/03/2025 Marketing authorisation issued 02/06/2025 Revision 2
+Opinion adopted
+
+27/03/2025
+
+Marketing authorisation issued
+
+02/06/2025
+
+Revision
+
+3
 
 ## Assessment history
 
@@ -967,9 +665,9 @@ Collapse section
 
 Qoyvolma : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (151.63 KB - PDF)
+English (EN) (180.32 KB - PDF)
 
-**First published:** 09/09/2025
+**First published:** 09/09/2025 **Last updated:** 16/04/2026
 
 [View](/en/documents/procedural-steps-after/qoyvolma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -977,9 +675,7 @@ English (EN) (151.63 KB - PDF)
 
 Qoyvolma : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/130000/2025
+Adopted Reference Number: EMA/130000/2025
 
 English (EN) (6.23 MB - PDF)
 
@@ -989,9 +685,7 @@ English (EN) (6.23 MB - PDF)
 
 CHMP summary of positive opinion for Qoyvolma
 
-Adopted
-
-Reference Number: EMA/89444/2025
+Adopted Reference Number: EMA/89444/2025
 
 English (EN) (164.43 KB - PDF)
 
@@ -999,12 +693,14 @@ English (EN) (164.43 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-qoyvolma_en.pdf)
 
-#### News on Qoyvolma
+## News on Qoyvolma
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 March 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2025) 28/03/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 March 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2025)
 
-**This page was last updated on** 17/10/2025
+28/03/2025
+
+**This page was last updated on**
+
+16/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,1122 +1,939 @@
 ---
-document_datetime: 2023-09-21 18:47:57
-document_pages: 35
+document_datetime: 2025-12-17 16:09:51
+document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/scientific-discussion/prialt-epar-scientific-discussion_en.pdf
 document_name: prialt-epar-scientific-discussion_en.pdf
 version: success
-processing_time: 14.4680668
-conversion_datetime: 2025-12-23 01:23:43.049937
+processing_time: 6.5010685
+conversion_datetime: 2026-04-17 15:57:52.628452
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
-## 1 SCIENTIFIC DISCUSSION
+## ANNEX I
 
-## 1.1 Introduction
-
-Prialt  is  indicated  for  the  treatment  of  severe,  chronic  pain  in  patients  who  require  intrathecal  (IT) analgesia. Dosing of ziconotide should be initiated at 2.4 µg/day and titrated on an individual patient basis  with  a  minimal  interval  between  dose  increases  of  24  hours  and  a  recommended  interval,  for safety reasons of 48 hours or more, up to a maximum dose of 21.6 µg/day.
-
-Treatment of protracted and resistant severe pain remains a difficult challenge for the physician. For example,  the  administration  of  strong  opiates  can  lead  to  respiratory  depression,  in  particular  in patients  with  COPD  or  other  respiratory  diseases.  Spinal/intrathecal  (IT)  opioid  administration (neuraxial analgesia) has been used with the assumption that it was possible to dissociate the desirable analgesic effects of opioids from their adverse effects. Morphine is traditionally viewed as the gold standard  neuraxial  analgesic.  It  is  the  IT  analgesic  most  frequently  for  the  management  of  severe chronic pain. While there are no safety or efficacy data available from randomised, controlled clinical trials of IT morphine, numerous case reports, retrospective studies and a smaller number of prospective studies  nonetheless  suggest  the  potential  for  considerable  pain  relief  with  IT  morphine.  However, reported failure rates with IT morphine alone range from 23% to 80% and after long-term IT morphine injection, the incidence of side effects is relatively high  (e.g. constipation, urinary retention, nausea, impotence, vomiting, nightmares, pruritus).
-
-Ziconotide is a synthetic analogue of a 25-amino acid ω -conopeptide, MVIIA, found in the venom of the Conus  magus marine  snail.  It  is  a  N-type  calcium  channel  blocker  (NCCB).  Voltage-sensitive calcium  channel  (VSCC)  conduction  plays  a  major  role  in  the  transmission  of  pain.  The  N-type VSCC's are found in high concentrations in the dorsal root ganglion cells responsible for the spinal processing of pain. Ziconotide selectively and reversibly binds to and blocks these channels without interacting  with  other  ion  channels  or  cholinergic,  monoaminergic  or µ -  and δ -opioid  receptors. Ziconotide thus inhibits the spinal signalling of pain.
-
-Ziconitide has been developed for use as an intrathecal analgesic for the treatment of chronic pain in patients requiring IT analgesia. The product is formulated as a solution for infusion (100 µg/ml) and must  be  administered  as  a  continuous  infusion  via  an  intrathecal  catheter,  using  an  external  or internally implemented mechanical infusion pump.
-
-Treatment  with  ziconotide  should  only  be  undertaken  by  physicians  experienced  in  intrathecal  (IT) administration of medicinal products.
-
-Prialt  was  designated  as  an  orphan  medicinal  product  on  9  July  2001  in  the  following  indication: treatment of chronic pain requiring intraspinal analgesia.
-
-This is a stand alone application for a Marketing Authorisation (MA) according to Article 8.3 (i) of the Council Regulation EC No. 2309/93.
-
-## 1.2 Quality aspects
-
-## Introduction
-
-Prialt is a sterile, preservative-free and isotonic solution for intrathecal infusion, which is presented as 1ml, 2ml and 5 ml single dose vials containing 100 µ g/ml of ziconotide (as acetate salt) corresponding to  100 µ g,  200 µ g and 500 µ g of ziconotide (as acetate salt) per vial , which can be diluted prior to administration using normal saline infusion (0.9% sodium choride), if required.
-
-Excipients  are  water  for  injections,  methionine,  sodium  chloride  and  hydrochloric  acid  or  sodium hydroxide.
-
-The primary container consists in a single use Type I glass vials with butyl rubber stoppers coated with fluorinated polymer.
-
-Prialt is intended for intrathecal delivery using either an external or an implanted pump.
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-## Active Substance
-
-Ziconotide is the synthetic analogue of an ω -conopeptide, MVIIA, found in the venom of the Conus magus marine snail. It consists of a 25-amino acid peptide with 3 cysteine disulphide bridges.
 
 <!-- image -->
 
-The soluble acetate form is used in the product of this application. Information on ziconotide acetate has been supplied in the form of an EDMF.
+This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
-The peptide ziconotide is a single optical isomer of known absolute configuration. Ziconotide contains 21 chiral carbon atoms. The drug substance, however, is synthesised from protected amino acids with known Levo configurations and the synthetic methods are chosen to preserve the stereochemistry of the starting materials and intermediates.
+## 1 . NAME OF THE MEDICINAL PRODUCT
 
-Ziconotide is a highly hygroscopic, anhydrous  material, which  appears  to pick up moisture continuously under increasing relative humidity conditions. It is a pH, heat and moisture sensitive and subject to oxidative degradation. The drug substance is therefore stored at -20°C in the presence of desiccant,  and  all  manipulations  during  manufacturing  are  controlled  under  nitrogen  atmosphere  to help to minimise oxidative degradation. The stability of ziconotide in aqueous solution was found to be pH dependant.
+Ziihera 300 mg powder for concentrate for solution for infusion.
 
-## · Manufacture
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-The substance is prepared by Solid Phase Peptide Synthesis (SPPS), followed by cleavage from the resin, conversion to the acetate salt and purification.
+One vial of powder contains 300 mg of zanidatamab.
 
-Adequate In-Process Controls are applied during the synthesis of ziconotide drug substance. Control methods for intermediate products, starting materials and reagents, have been presented.
+After reconstitution, one vial contains 50 mg/mL of zanidatamab.
 
-Batch analysis data of three batches from the manufacturer are presented and confirm consistency and uniformity of the manufacturing process.
+Zanidatamab is a humanised (IgG1) bispecific antibody produced in Chinese Hamster Ovary (CHO) cells by recombinant DNA technology.
 
-## · Specification
+For the full list of excipients, see section 6.1.
 
-The active substance specifications for ziconotide are relevant for a substance to be used in intrathecal as  a  route  of  administration  and  include  tests  for  appearance,  identification  tests(specific  rotation, solubility, amino acid analysis, molecular weight), purity (peptide purity, related substances, residual solvents, heavy metals, endotoxins), assay (peptide content, acetate, water, mass balance and binding assay).
+## 3. PHARMACEUTICAL FORM
 
-Batch analysis data confirm satisfactory compliance and uniformity with the proposed specification.
+Powder for concentrate for solution for infusion (powder for concentrate).
 
-## · Stability
+White lyophilised cake.
 
-All  the  active  substance  stability  studies  were  carried  out  on  batches  made  at  the  proposed  site  of manufacture,  using  the  proposed  manufacturing  process  and  stored  in  packs  representative  of  the proposed marketing pack. The shelf-life specification is the same as at release and samples were tested for all parameters liable to change during storage.
+## 4. CLINICAL PARTICULARS
 
-Stability studies under long term and accelerate conditions were performed on a number of batches of ziconotide drug substance . Samples were filled under a nitrogen atmosphere and were stored for 36 months at -20°C, 3 months at 5 ± 3°C and 3 months at 25°C/60%RH.
+## 4.1 Therapeutic indications
 
-<div style=\"page-break-after: always\"></div>
+Ziihera as monotherapy is indicated for the treatment of adults with unresectable locally advanced or metastatic HER2-positive (IHC3+) biliary tract cancer (BTC) previously treated with at least one prior line of systemic therapy (for biomarker-based patient selection, see section 4.2).
 
-The results justify a retest period of 36 months when stored at -20°C in the proposed packaging.
+## 4.2 Posology and method of administration
 
-## Finished Product
+Ziihera must be initiated by a physician experienced in the diagnosis and treatment of patients with biliary tract cancer. It must be administered by a qualified healthcare professional, with appropriate resuscitation equipment available.
 
-## · Pharmaceutical Development
+## Patient selection
 
-The  product  development  has  taken  into  consideration  the  physicochemical  properties  of  the formulation (active substance, excipients, tonicity), compatibility of product with infusion pumps and administration catheters, and suitability of shelf life.
+Patients treated with Ziihera for BTC should have documented HER2-positive tumour status, defined as a score of 3 + by immunohistochemistry (IHC) assessed by a CE-marked in vitro diagnostic (IVD) medical device with the corresponding intended purpose. If a CE-marked IVD is not available, an alternate validated test should be used.
 
-The dosage form selected is justified by the properties of the peptide active substance. All components of the formulation have a justifiable pharmaceutical function and are used at concentrations that have been optimised for the dosage form (particularly with regard to the intrathecal route), its dilution if required and its method of administration.
+## Posology
 
-The  stability  of  ziconotide  in  aqueous  solution  was  found  to  be  pH  dependant,  as  a  consequence, formulation studies were carried out in the pH range of 3 - 5. Hydrochloric acid and sodium hydroxide have been used as pH adjusters.
-
-The diluent of choice is normal saline infusion (0.9% sodium choride).
-
-The  choice  of  sterilisation  by  filtration  was  dictated  by  the  peptidic  nature  of  ziconotide,  which  is sensitive to heat.
-
-The container (Type I glass vials) and closure system are standard for this kind of products and comply with the Ph Eur requirements. Clear glass was selected to facilitate inspection for visible particulate matter. Stability results demonstrate that the product has sufficient stability to light to allow this. The vials  are  treated  with  ammonium  sulphate  to  minimise  leaching  from  the  glass  and  so  facilitate  pH stability in the formulation.
-
-All formulation excipients and nitrogen processing aid comply with Ph. Eur. specifications.
-
-Intrathecal delivery is by means of CE marked external or implantable delivery pumps. Compatibility studies of the product with pumps and catheters are performed and the compatibility is demonstrated. The clinical formulation used in the clinical trials is identical with one proposed for marketing.
-
-## · Manufacture of the Product
-
-Manufacturing consists of preparation of the bulk solution, followed by double sterile filtration and filling in the vials.
-
-Validation  studies  have  been  carried  out  on  the  sterilisation/depyrogenation  of  the  vials  and  steam sterilisation  of  stoppers,  filters  and  aseptic  equipment  in  three  production-scale  batches  and  is satisfactory . The in process controls are adequate for this pharmaceutical form.
-
-## · Product Specification
-
-The drug product specifications include appropriatetests for appearance, assay of the drug substance, (RP-HPLC)and  antioxidant,  identity  (RP-HPLC,  UV),  purity(RP-HPLC),  pH,  sterility  (Eur  Ph), bacterial endotoxins, particulate matter and fill volume.
-
-Batch analysis results from 3 batchesconfirm consistency and uniformity of manufacture and indicate that the process is under control. Impurity limits in the specification are justified by toxicology studies
+The recommended dose of Ziihera is 20 mg/kg, administered as an intravenous infusion every 2 weeks (every 14 days) until disease progression or unacceptable toxicity. For duration of infusion, see Table 4.
 
 <div style=\"page-break-after: always\"></div>
 
-## · Stability of the Product
+## Premedications
 
-Stability  data  are  provided  on  6  full-scale  batches  of  product  manufactured  at  the  proposed manufacturing site. Samples were stored in the proposed marketing packs at 2-8°C, 25°C/160%RH, 30°C and 40°C/75%RH.
+Premedication should be administered 30 to 60 minutes prior to each infusion to prevent potential infusion related reaction. Premedication is recommended to include a corticosteroid, antihistamine, and antipyretic (see section 4.4).
 
-Samples were tested for all parameters liable to change during storage. Tests and assays methods used are satisfactorily described and validated.
+## Dose modifications for left ventricular dysfunction
 
-The photostability of Prialt has also been investigated. The results show minimal degradation under light exposure conditions, and in practice will be adequately protected by the carton.
+Left ventricular function must be assessed at baseline and at regular intervals during treatment. The recommendations on dose modifications in the event of left ventricular ejection fraction (LVEF) decrease are indicated in Table 1.
 
-In use stability studies of the product are performed in the pump delivery system (either external or implantable  pump)  and  catheters.  Chemical  and  biological  stability  is  established  for  the  product during its use.
+Table 1. Dose modifications for left ventricular dysfunction
 
-As  a  conclusion  from  the  stability  studies,  the  results  indicate  satisfactory  stability  and  support  the shelf life and conditions of used stated in the SPC.
+| Left ventricular dysfunction (see section 4.4)   | Severity                                                                                | Treatment modification                                                                                                                                                                                                                                                                                         |
+|--------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Left ventricular dysfunction (see section 4.4)   | Absolute decrease of ≥ 16% points in LVEF from pre- treatment baseline                  | • Withhold treatment for at least 4 weeks. • Repeat LVEF assessment within 4 weeks. • Resume treatment within 4 to 8 weeks, if LVEF returns to normal limits and the absolute decrease is ≤ 15% points from baseline. • If LVEF has not recovered to within 15% points from baseline, permanently discontinue. |
+| Left ventricular dysfunction (see section 4.4)   | LVEF value below 50% and absolute decrease of ≥ 10% points below pre-treatment baseline | • Withhold treatment for at least 4 weeks. • Repeat LVEF assessment within 4 weeks. • Resume treatment within 4 to 8 weeks, if LVEF returns to normal limits and the absolute decrease is ≤ 15% points from baseline. • If LVEF has not recovered to within 15% points from baseline, permanently discontinue. |
 
-## Discussion on chemical, pharmaceutical and biological aspects
+## Dose modifications for infusion related reactions
 
-The intrathecal route poses restrictions on the formulation, which should be minimal, that is to say no extraneous excipients should be present. In this case, the presence of methionine as a stabilising agent is necessary, and since it is naturally-occurring amino acid this has no safety impact intrathecally.
+Management of infusion related reaction (IRRs) may require reduced infusion rate, dose interruption, or treatment discontinuation as described in Table 2.
 
-Information on development, manufacture and control of the drug substance and drug product have been  presented  in  a  satisfactory  manner.  The  results  of  tests  carried  out  indicate  satisfactory consistency and uniformity of important product quality characteristics, and these in turn lead to the conclusion that the product should have a satisfactory and uniform performance in the clinic. At the time of the CHMP opinion, there were a number of minor unresolved quality issues having no impact on the Benefit/Risk ratio of the product. The applicant gave a Letter of Undertaking and committed to resolve these as Follow Up Measures after the opinion, within an agreed timeframe.
+Table 2. Dose and infusion duration modifications for infusion-related reactions
 
-## 1.3 Non-clinical aspects
-
-## Introduction
-
-Calcium  entry  into  presynaptic  termini  is  a  prerequisite  for  neurotransmitter  release  in  vertebrate nervous systems. The ω -conotoxins have been found to selectively antagonise N-type voltage sensitive calcium  channels  (N-VSCCs),  which  are  primarily  found  in  neural  tissue.  N-VSCCs  facilitate  the calcium influx necessary for neurotransmitter release. The therapeutic potential of ziconotide is related to  its  ability  to  block  N-type  VSCCs.  In  the  spinal  cord,  N-VSCC  blockade  inhibits  the  release  of neurotransmitters involved in pain signalling.
-
-Nonclinical studies with ziconotide were conducted inmultiple species. Long-term studies presented special technical difficulties related to the intrathrecal mode of delivery, the dog was found to be the best  model  for  IT  administration,  and  a  42-day  study  was  the  longest  conducted  by  this  proposed clinical route.
-
-Most, but not all, of the toxicology studies contained in this application were performed in accordance with GLP (see below).
-
-## Pharmacology
-
-- Primary pharmacodynamics ( in vitro/in vivo )
+| Infusion related reactions (see sections 4.4 and 4.8)   | Severity                   | Treatment modification                                                                                                                                                                                                                                    |
+|---------------------------------------------------------|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infusion related reactions (see sections 4.4 and 4.8)   | Mild (Grade 1)             | • Reduce infusion rate by 50%. • Subsequent infusions should start at this reduced rate. • Infusion rate for subsequent infusions may be increased gradually to the rate prior to symptoms, as tolerated.                                                 |
+| Infusion related reactions (see sections 4.4 and 4.8)   | Moderate (Grade 2)         | • Hold infusion immediately. • Treat with appropriate therapy. • Resume infusion at 50% of previous infusion rate once symptoms resolve. • Infusion rate for subsequent infusions may be increased gradually to the rate prior to symptoms, as tolerated. |
+| Infusion related reactions (see sections 4.4 and 4.8)   | Severe (Grade 3)           | • Hold infusion immediately. • Promptly treat with appropriate therapy. • Resume infusion at the next scheduled dose at 50% of previous infusion rate once symptoms resolve. • Permanently discontinue for recurrent Grade 3 symptoms.                    |
+| Infusion related reactions (see sections 4.4 and 4.8)   | Life threatening (Grade 4) | • Hold infusion immediately. • Promptly treat with appropriate therapy. • Permanently discontinue.                                                                                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-The primary analgesic effects of spinally administered ziconotide involves blockade of depolarisationinduced  calcium  influx  and  consequent  reduction  of  neurotransmitter  release  from  nociceptive afferents terminating in the superficial lamina of the dorsal horn of the spinal cord.
+## Dose modifications for pneumonitis
 
-Ziconotide has been shown to have a high specificity for N-type voltage sensitive calcium channels (VSCCs), which are distributed throughout the nervous system where, from 125 I-ziconotide visualisation studies, they are seen to be at highest density in the spinal cord (especially Rexed laminae I  and  II  of  the  dorsal  horn).  N-type  VSCCc  are  highly  associated  with  primary  afferent  fibres  that contain  substance  P,  indicating  that  the  major  spinal  nociceptive  signaling  pathway  is  involved. Ziconotide is a reversible blocker of neuronal N-type VSCCs.
+Management of pneumonitis may require treatment discontinuation as described in Table 3.
 
-Conventional rodent pain models have been used to demonstrate that ziconotide is an effective, nontolerance  forming  analgesic  when  administered  either  intravenously  (IV),  intrathecally  (IT)  or epidurally.  Continuous  IT  infusion  doses  in  the  range  0.003  to  0.6µg/kg/hr  produced  significant analgesia in models of acute, chronic, inflammatory, postoperative and neuropathic pain. The highest dose is above the proposed human maximum of 0.034µg/kg/hr for a 70kg adult.
+## Table 3. Dose modifications for pneumonitis
 
-Continuous IT infusion of ziconotide did not lead to tolerance nor did it alter opioid-induced analgesia.
+| Pneumonitis (see section 4.4)   | Severity Confirmed   | Treatment modification • Permanently discontinue.   |
+|---------------------------------|----------------------|-----------------------------------------------------|
 
-## · Secondary pharmacodynamics
+## Missed dose
 
-Ziconotide reduces inflammation induced by a number of agents in rat models when administered i.v. or by local s.c. or intra-articular injection but not following IT administration.
+If a patient misses a dose of Ziihera, the scheduled dose should be administered as soon as possible. The administration schedule should be adjusted to maintain a 2-week interval between doses.
 
-## · Safety pharmacology
+## Special populations
 
-Safety pharmacology studies were not performed according to GLP principles. Nevertheless, the safety pharmacology investigations not performed in accordance with GLP were incorporated into toxicological studies that were performed according to GLP and toxicity studies supported the findings of non-GLP safety pharmacology studies.
+## Renal impairment
 
-Ziconotide had little or no adverse effect on the CNS or cardiovascular and respiratory systems or on the gastro-intestinal tract at the proposed clinical dosage.
+Dose adjustments are not required for patients with mild or moderate renal impairment (eGFR 30 to 89 mL/min estimated using the CKD-EPI). Zanidatamab has not been evaluated in patients with severe renal impairment and patients with end-stage renal disease with or without dialysis. However, due to minor involvement of renal processes in the clearance of zanidatamab, no dose adjustment is recommended for patients with renal impairment as no difference in exposure is expected (see section 5.2).
 
-Ziconotide elicits complex but mild and reversible motor disturbances, the most distinctive of which is dose-related shaking or tremor. However, when ziconotide is administered by IT infusion, the tremor abates as treatment progresses. Analgesia has been shown to occur in the absence of the tremorigenic effect associated with higher IT doses.
+## Hepatic impairment
 
-A continuous 24-hr i.v. infusion (toxicity) study of ziconotide  in rats was performed that resulted in a significant decrease in mean arterial blood pressure. The blood pressure decrease was not prevented by pre-treatment with the H1 and H2 receptor antagonists, chlorpheniramine and famotidine, suggesting that ziconotide-induced mast cell degranulation was not the causative pharmacological mechanism inducing hypotension. In addition, concentrations of product required to stimulate histamine release and mast cell degranulation (as observed in-vitro ) are in excess of what was used in the study. Ziconotide probably reduces systemic blood pressure in rats by blocking sympathetic efferent activity. IT administration at supra-therapeutic levels has no appreciable effect on blood pressure or heart rate. Therapeutic IT administration of ziconotide is unlikely to elicit hypotension. Also, there is no clinical relevance of mast cell degranulation because the dose used in patients would be far lower.
+Dose adjustments are not required for patients with mild hepatic impairment (total bilirubin ≤ upper limit of normal (ULN) and AST &gt; ULN or total bilirubin between 1 and 1.5 times ULN and any AST). Zanidatamab has not been evaluated in patients with moderate (total bilirubin &gt; 1.5 to ≤ 3 ULN and any AST) to severe (total bilirubin &gt; 3 ULN and any AST) hepatic impairment. However, due to minor involvement of hepatic processes in the clearance of zanidatamab, no dose adjustment is recommended for patients with hepatic impairment as no difference in exposure is expected (see section 5.2).
 
-The assessment of potential QT prolongation of ziconotide, has been evaluated in an in vitro electrophysiological study and in vivo in non-rodents (IV, IT and epidural)  toxicology studies. Both bolus doses and continuous infusions were used and no significant effects on QT prolongation were noted, except in 1-2 animals at very high doses. Based on these non-clinical data and available clinical data, ziconotide is unlikely to cause QTc prolongation.
+## Elderly population
 
-No animal studies on renal function have been conducted but no adverse effects were observed in the repeated dose toxicity studies at high dosage in relation to the clinical dose.
+No dose adjustment is required in patients aged 65 years and over (see section 5.2).
 
-<div style=\"page-break-after: always\"></div>
+## Paediatric population
 
-- Pharmacodynamic drug interactions
+Children under the age of 18 were not included in the clinical trials. Hence, the safety, efficacy and pharmacokinetics of zanidatamab have not been established in this population.
 
-In drug interaction studies, concomitant administration of ziconotide and morphine had synergistic or additive effects depending on the pain model; no such effects occurred on cardiovascular and behavioural parameters. The clinical significance of the additive analgesic effects when ziconotide was co-administered with baclofen and clonidine is unclear.
+## Method of administration
 
-## Pharmacokinetics
+Ziihera is administered by intravenous infusion. It must not be administered by intravenous push or as a rapid single bolus injection.
 
-A sensitive and specific RIA method has been used for quantification of ziconotide in plasma, CSF and brain.
+The diluted solution for infusion must have a final concentration of 0.4 to 6 mg/mL zanidatamab.
 
-The pharmacokinetics and metabolism of ziconotide in plasma and CSF have been determined after parenteral dosage in rats and non rodents,. In view of the proposed clinical use of the product by IT administration, the emphasis was on studies by this route and on the behaviour of the compound in the CSF.
+For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
 
-- Absorption- Bioavailability
+Table 4. Recommended infusion durations
 
-Ziconotide exhibits dose-proportional pharmacokinetics over the range of doses tested when administered by the i.v. route to rats and monkeys and by the IT and i.v. route to dogs. In the dog IT study, following bolus administration, ziconotide diffuses into the plasma at a slow rate with high CSF:plasma ratios (20,000:1 at 3 min, 600:1 at 8 hours). During the infusion study ziconotide was rapidly distributed through the CSF and plasma. After 48 hours the ratios of Lumbar CSF : Cisternal CSF : Plasma at steady state were1:0.01:0.001 at 1 ng/hr and 1:0.02:0.002 at 5 ng/hr. The low CSF bioavailability of i.v. administered ziconotide demonstrates the pharmacokinetic advantage of the IT route of administration.
-
-- Distribution and metabolism
-
-Ziconotide is rapidly distributed and/or metabolised in spinal CSF after IT administration, followed by relatively rapid mass transport of the product from the CSF into the plasma.  The relative contributions of mass transport, within and outside the spinal cord, and metabolism within it, are unclear.  There is certainly evidence for rapid transport into the blood and metabolism within the spinal cord is likely to have a significant role.  Following entry into the blood, the compound is quickly metabolised by normal proteolytic mechanisms, eventually to its constituent amino acids; it can be assumed that these will be further metabolised or incorporated into proteins by normal processes.
-
-In rats, dogs, monkeys and humans, the percentage of protein-bound ziconotide ranged from about 4070% over the concentration range of 1-10,000 ng/ml.  The extent of plasma protein binding of ziconotide was relatively low and not saturable over the concentration range likely to be encountered clinically. The partitioning of ziconotide into the cellular components of blood was found to be largely independent of drug concentration and was consistent among the species studied. The whole blood partitioning of ziconotide shows only marginal variation between rat, dog, monkey and humanwith Kd values ranging from 0.23-0.42.Excretion
-
-No classical excretion data were provided.  However, since after extensive proteolysis of ziconotide, the predominant products will be the free amino acids, these will be taken up by cellular carrier systems and will be subjected to normal intermediary metabolism or used as substrates for constitutive biosynthetic processes.  Depending on the degree of resistance to proteolytic cleavage, one or more longer-lived fragments of the general structure could exist.  These fragments would be expected to eventually be degraded to individual constituent amino acids that would be indistinguishable from other free amino acids in the amino acid pool.
-
-## Toxicology
-
-The toxicity profile of ziconotide has been evaluated in single dose, repeated dose, reproduction toxicity, genotoxicity and immunogenicity studies. Investigations of local reactions at the IT injection
+| Dose             | Infusion duration                                     |
+|------------------|-------------------------------------------------------|
+| First and Second | 120-150 minutes                                       |
+| Third and Fourth | 90 minutes, if previous infusions were well-tolerated |
+| Subsequent       | 60 minutes, if previous infusions were well-tolerated |
 
 <div style=\"page-break-after: always\"></div>
 
-site and comparisons of effects of different formulations of the drug have also been conducted. Carcinogenic potential was initially based on a short-term in vivo cell transformation study.
+## 4.3 Contraindications
 
-Early studies indicated that the i.v. route did not deliver sufficient ziconotide to the CNS to be effective and thus the IT and epidural routes were explored in the majority of studies.
+Hypersensitivity to the active substances or to any of the excipients listed in section 6.1.
 
-All the pivotal studies were stated to be performed in accordance with international standards and in compliance with GLP the main exceptions being dose-ranging studies and the majority of the pharmacokinetic analyses and the analyses of dose preparations. The assay methods themselves were satisfactorily validated.
+## 4.4 Special warnings and precautions for use
 
-The maximum human recommended dose (MHRD) of 0.034 µ g/kg/hr (based on 2.4 µ g/hr and 70 kg body weight) is used here for estimation of safety factors.
+## Traceability
 
-## · Single dose toxicity
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-Acute toxicology studies in rats and non-rodents  have shown that ziconotide is well tolerated at high i.v. doses and that adverse effects are attributable to exaggerated pharmacological actions of the compound (e.g. tremors and reduction in activity).
+## Embryo-foetal toxicity, pregnancy and contraception
 
-## · Repeat dose toxicity (with toxicokinetics)
+Based on the mechanism of action, zanidatamab may cause foetal harm when administered to a pregnant woman. In post-marketing reports of other HER2-directed antibodies, use during pregnancy resulted in cases of oligohydramnios manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death (see section 4.6).
 
-The toxicity profile of ziconotide was evaluated in studies by i.v. infusion of up to 14 days duration in the rat and monkey, by continuous IT infusion in the rat up to 28 days and in the dog up to 42 days duration, and by epidural infusion in the dog for up to 28 days. The proposed clinical usage of ziconotide as a chronic therapy would normally be supported by repeated dose studies of 6 months duration in a rodent and non-rodent.  However, continuous IT dosage was not considered feasible by the applicant for such a duration because of the effects of inflammatory changes, consequent to the use of the indwelling spinal catheters.
+Patients should be advised to avoid becoming pregnant while receiving Ziihera. A pregnancy test should be performed before initiating treatment to exclude pregnancy.
 
-High levels of systemic exposure were achieved in the i.v. studies compared with exposure in patients following IT infusion.
+Female patients of childbearing potential should use an effective method of contraception while receiving Ziihera and for 4 months following the last dose (see section 4.6).
 
-The principal finding in the repeated dose studies in all species was reversible CNS disturbances affecting the motor system and manifested mainly as tremors, incoordination and ataxia, which are expected from the pharmacological action of ziconotide.  At the highest dose levels in studies by IT infusion in the dog, which were comparable - based upon the maximum therapeutic equivalent dose for dogs - to or up to 2.6-fold higher than the maximum human recommended dose (MHRD), these effects led to early sacrifice.  The only other common finding in these studies was reduced plasma glucose; the effects were relatively minor and values generally remained within the physiological range.  A similar pattern has not been observed in clinical use via the intended IT route of administration.
+## Left ventricular dysfunction
 
-Whole-body fixation in the pivotal repeated dose studies has allowed good preservation of the brain and spinal cord in which there was no microscopic evidence of changes due to ziconotide.  This observation supports the pharmacological basis for the clinical neurological effects.
+Decreases in LVEF have been reported with medicinal products that block HER2 activity, including zanidatamab. LVEF should be assessed prior to initiation of Ziihera by echocardiogram or multigated acquisition (MUGA) scan and at regular intervals during treatment to ensure that LVEF is within normal limits. If the LVEF declines and has not improved, or has declined further at the subsequent assessment, Ziihera should be discontinued as recommended in Table 1 (see section 4.2).
 
-Prolonged intraspinal catheter implantation was always associated with compression of the spinal cord and acute and chronic inflammatory changes within the spinal cord. Neurological effects produced by these lesions, in controls as well as treated animals, included altered gait in rats; decreased activity and occasional instances of mild motor effects were also observed in control animals. While the nature and extent of the catheter-induced pathological lesions and their neurological sequelae have not interfered with an accurate assessment of the toxicity potential of ziconotide, the practicality of conducting successful studies of longer duration is open to question.
+Zanidatamab has not been studied in patients with a pre-treatment LVEF value of &lt; 50%; history of myocardial infarction or unstable angina within 6 months; troponin levels consistent with myocardial infarction, or clinically significant cardiac disease such as ventricular arrhythmia requiring therapy, uncontrolled hypertension, or any history of symptomatic congestive heart failure (CHF).
 
-## · Genotoxicity in vitro and in vivo
+## Infusion related reactions
 
-Ziconotide was not mutagenic in bacterial reverse mutation assays (Ames test) with S.  typhimurium strains  and  in  mouse  lymphoma  forward  mutation  assays  in  the  presence  and  absence  of  metabolic
+Ziihera can cause infusion related reactions (IRRs) (see section 4.8). Premedications should be administered prior to each dose , to reduce the risk of IRRs (see section 4.2).
 
-<div style=\"page-break-after: always\"></div>
+Patients should be monitored for signs and symptoms of IRRs during administration and as clinically indicated after completion of infusion. Appropriate emergency medicine and equipment to treat IRRs should be available for immediate use, and IRRs should be managed as recommended in Table 2 (see section 4.2).
 
-activation.  Ziconotide  was  negative  in  the in  vivo mouse  bone  marrow  micronucleus  assay.  These results sufficiently demonstrate ziconotide 's lack of genotoxic potential.
+## Pneumonitis
 
-## · Carcinogenicity
+Pneumonitis has been reported with medicinal products that block HER2 activity, including Ziihera. Pneumonitis has been reported in 0.4% of 233 patients treated with Ziihera 20 mg/kg intravenously as a single agent in clinical studies. Patients should be monitored for signs and symptoms of pneumonitis. In the event of confirmed Grade ≥2 pneumonitis, treatment should be permanently discontinued (see section 4.2).
 
-Standard carcinogenicity studies have not been performed with ziconotide. Ziconotide was tested in the Syrian Hamster Embryo (SHE) cell transformation assay in the absence of S9 for seven days. There were no statistically significant increases in transformation frequency at any ziconotide concentration.
+## Excipients with known effect
 
-Owing to the potential for long-term treatment of patients with Prialt, such standard carcinogenicity studies would be expected in accordance with the ICH S1A Guideline on the need for carcinogenicity studies of pharmaceuticals (CPMP/ICH/140/95). In addition, according to ICH S1B guideline on carcinogenicity (CPMP/ICH/299/95), whereas a short-term carcinogenicity assay can be taken into account as replacement assays for the 2-year mouse carcinogenicity assay, a 2-year rat carcinogenicity assay nevertheless needs to be performed as long as there is chronic systemic exposure at the clinical level.
+## Sodium
 
-Nevertheless, the absence of 2-year rat carcinogenicity study was accepted taking into account that:
-
-- -Ziconotide is a peptide containing amino acids that are naturally occurring in humans;
-- -Ziconotide was negative for genotoxic potential;
-- -Ziconotide was negative in the SHE cell transformation assay;
-- -Absence of carcinogenic potential in subchronic intrathecal exposure studies in dogs (no induction of apoptosis or cell proliferation, no potential pre-neoplasic lesions);
-- -It is not feasible to place and maintain IT catheters in rodents for sufficiently long periods of time;
-- -Clinical data show that there is almost no systemic exposure after IT administration due to fast metabolism.
-
-Therefore, the risk of a carcinogenic potential for ziconotide is extremely low and classical carcinogenicity studies are not warranted.
-
-## · Reproductive and developmental studies
-
-In rat fertility studies, there were no effects in males while reductions in corpora lutea, implantation sites and number of live embryos were observed in females. In a rat pre-and post-natal development study, slightly lower body weights in the F1 offspring of dams were observed.  No adverse effects on female reproduction and post-natal development in rats were seen at systemic exposures up to 2,300 times human exposures at the maximum recommended intrathecal dose.
-
-Ziconotide was not teratogenic in rats and rabbits.  Reduced foetal weights were associated with maternal toxicity at exposures &gt; 100 times human plasma levels, with signs of transient, delayed ossification observed in rats at approximately 9,000 times human systemic exposures.  Embryolethality due to post-implantation early resorptions was significantly increased in rats, but was not observed at exposures approximately 400 times human plasma levels.
-
-## · Local tolerance
-
-In an exploratory study in rats, histopathological changes in spinal cord tissue were present in rats from all groups (vehicle control, 1, 3 and 10 µ g) following daily IT bolus injections of ziconotide for 4 days. These changes, e.g., spinal cord compression, localised inflammation and periaxonal dilatation, appeared to be induced by the presence of the IT catheter. Ziconotide appeared to exert a slight effect on the inflammatory reaction, as suggested by the findings of modest differences in incidence and magnitude of histopathological changes occurring over the ten-fold dose range.
-
-- Other toxicity studies
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
 
 <div style=\"page-break-after: always\"></div>
 
-The antigenic potential of ziconotide for delayed type hypersensitivity and immediate hypersensitivity were assessed by skin reaction, systemic anaphylaxis (SA) and passive cutaneous anaphylactic (PCA) reaction in guinea pigs, mice or rats. Ziconotide has the potential to induce acute anaphylaxis in the guinea pig. No serum antibodies to ziconotide were detected in mice and rats injected with or without adjuvant, after repeated administration. A response in a single guinea pig in a PCA test is unlikely to indicate an antigenic potential in humans. In the guinea pig test using human serum samples, the negative result is of little relevance given the long period between analysis and the single IV dose. In addition, no elevations in ziconotide-specific IgE or IgG were observed in 58 patients following IV dosage of ziconotide for 72 hours and sampled 3 months later or in 41 patients who received IT doses for at least 3 months most of whom had an off-dose period before further challenge. The risk of immunological reactions in patients is likely to be very low.
+## Polysorbate 20
 
-The physical dependence potential and abuse liability of ziconotide were evaluated in a battery of in vitro and in vivo studies, in mouse and monkey. In the in vivo studies, the compound (administered IV) did not attenuate the discrimination of morphine withdrawal and monkeys did not maintain IV selfadministration.
+This medicinal product contains 0.63 mg of polysorbate 20 in each vial, which is equivalent 0.105 mg/mL. Polysorbates may cause allergic reactions.
 
-Some impurities are present at a level &gt; 0.1% in drug substance or drug product. A mixture of these impurities was prepared based on the highest amount of each impurity that appears in the drug substance or product and a definitive toxicity study was conducted in Beagle dogs to qualify the safety of ziconotide impurities when administered by continuous IT infusion for 28 days. The continuous IT infusion of total ziconotide impurities produced no test article-related clinical signs.  There were no treatment-related adverse changes in body weight, food consumption or clinical pathology, nor were there any gross or microscopic alterations that were attributed to treatment with ziconotide or impurities. Total impurities were qualified at a safety factor 174 times the maximum predicted human dose, demonstrating the relative inactivity of ziconotide impurities.
+## 4.5 Interaction with other medicinal products and other forms of interaction
 
-## Ecotoxicity/environmental risk assessment
+No dedicated clinical studies evaluating the drug interaction potential of zanidatamab have been conducted. Zanidatamab is an antibody that is not expected to impact the cytochrome P450 enzymes. Also, zanidatamab is not known to target mechanisms related to proinflammatory cytokines or any mechanism related to proinflammatory cytokines that may impact the PK of concomitant medicines.
 
-Ziconotide, as recommended, will not pose a risk to the environment because, according to the applicant, the predicted annual usage of the product is very low, ziconotide is a peptide which is fully metabolised by normal proteolytic processes, there is negligible excretion of intact ziconotide, the crude predicted concentration of ziconotide in surface water is in the order of magnitude below the action limit of 0.01 µ g/l and the product does not contain any excipients which may constitute an environmental risk.
+## 4.6 Fertility, pregnancy and lactation
 
-## Discussion on the non-clinical aspects
+## Women of childbearing potential/Contraception in females
 
-Ziconotide is a high-affinity, reversible blocker of neuronal N-type voltage sensitive calcium channels (N-VSCCs) which are found in high density in the brain and dorsal horn of the spinal cord in areas receiving pain signals from the periphery. In models of chronic pain, the proposed clinical indication, significant  analgesia  was  produced  by  continuous  IT  infusion  doses  in  the  range  of  the  proposed clinical  dose.  IT  ziconotide  was  shown  to  be  effective  in  neuropathic  and  nociceptive  pain  models. Continuous IT infusion of ziconotide did not lead to tolerance nor did it alter opioid-induced analgesia. Ziconotide elicits  mild and reversible motor disturbances.. Ziconotide passes up the spinal cord and into the systemic circulation but only to a limited extent. Following entry into the blood, the compound is quickly metabolised by normal proteolytic mechanisms.
+To exclude pregnancy, women of childbearing potential should undergo pregnancy testing before initiation of Ziihera.
 
-Ziconotide was well tolerated following i.v. administration at dose levels, based on body weight, at least 1750-fold higher than a maximum clinical IT infusion dose of 0.034 µ g/kg/hr. In common with studies by the IT and epidural routes, ziconotide produced stimulation of motor activity in the CNS, as expected from the pharmacology of the compound. These effects occurred at dosages in the region of the maximum clinical dose and quickly regressed after cessation of dosing. There were no signs of target organ toxicity and the changes seen can be attributed to the pharmacological effects of the compound. A fairly consistent finding was a slight reduction in plasma glucose even at ziconotide plasma levels as low as 2 ng/ml; a likely reason is the stress associated with the neurological effects. Hypoglycaemia due to ziconotide has not been reported in clinical trials.
+Based on the mechanism of action, zanidatamab may cause embryo-foetal harm when administered during pregnancy. Female patients should use effective contraception during treatment with Ziihera and for 4 months following the last dose.
 
-<div style=\"page-break-after: always\"></div>
+## Pregnancy
 
-Due  to the limited toxicity studies (with non GLP  toxicokinetics), the absence of formal carcinogenicity  study,  the  intended  long-term  use  and  clinical  concerns  with  regard  to  safety (particularly lack of local safety data: neuronal function but also effects on more distant tissues), the applicant was requested to consider the feasibility of a new non-clinical stepwise strategy designed to perform subchronic toxicity studies in a relevant animal model using the intrathecal route with an as long as possible duration, including toxicokinetics and in compliance with GLP. The following aspects were to be given special consideration when designing the studies: local histopathology, apoptosis, cell proliferation markers, potential changes in CSF composition and consequences of long-term shutdown of  N-channels  on  normal  neuronal  function . The  Applicant  provided  the  results  of  a  new  28-day continuous  intrathecal  infusion  study  of  ziconotide  and  ziconotide  impurities  in  Beagle  dogsT  The study  showed  that  there  were  no  drug  related  microscopic  changes  in  the  brain,  peripheral  nervous system or non-nervous system tissues. No effects were seen on apoptosis or cell proliferation in the brain or spinal cord. CSF collected predose and just prior to necropsy showed no changes in cell count or clinical chemistry parameters.
+Based on the mechanism of action, zanidatamab may cause foetal harm when administered to a pregnant woman. There are no human or animal data on the use of zanidatamab in pregnancy. In post-marketing reports of other HER2-directed antibodies, use during pregnancy resulted in cases of oligohydramnios manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death. Ziihera is not recommended for use during pregnancy or in women of childbearing potential not using contraception. Patients should be advised on potential risks to the foetus.
 
-Considering the possible difficulties in conducting IT studies with longer duration, the lack of evidence of a potential for target organ toxicity at very high multiples of the human dose and the lack of toxic effects  on  the  CNS,  again  at  high  multiples  of  the  CSF  concentration  of  ziconotide  in  humans; additional information relevant to clinical safety conducting (sub-) chronic toxicity studies in animals according to GLP principles would probably limited.
+Women who received Ziihera during pregnancy or within 4 months prior to conception should be monitored for oligohydramnios. If oligohydramnios occurs, foetal testing that is appropriate for gestational age and consistent with local standard of care should be performed.
 
-Ziconotide was negative in a battery of genotoxicity assays.
+## Breast-feeding
 
-Ziconotide is not teratogenic in rats or rabbits. Embryolethality observed in reproductive and developmental studies is directly attributable to parental toxicity brought on by the very high IV doses. Since there are no clinical data on exposed pregnancies and limited data on CNS long-term exposure, ziconotide should not be used during pregnancy unless clearly necessary.
+It is not known whether zanidatamab is excreted in human milk, or what effect it has on a breast-fed child or milk production.
 
-## 1.4 Clinical aspects
+A decision should be made whether to discontinue breast-feeding or to discontinue treatment, taking into account the benefit of breast-feeding for the child and the benefit of Ziihera therapy for the woman. This consideration should also take into account the washout period of 4 months (see section 5.2).
 
-## Introduction
+## Fertility
 
-Prialt  is  indicated  for  the  treatment  of  severe,  chronic  pain  in  patients  who  require  intrathecal  (IT) analgesia. Prialt is for intrathecal use only. Dosing should be initiated at 2.4 µg/day and titrated on an individual patient up to a maximum dose of 21.6 µg/day.
+Fertility studies have not been performed with zanidatamab.
 
-Ziconotide selectively blocks the neuronal N-type voltage sensitive calcium channels (N-VSCC), which are responsible for the spinal processing of pain.
+## 4.7 Effects on ability to drive and use machines
 
-Clinical studies with ziconotide are summarised in the following table, starting with IT studies. The three first studies are pivotal studies.
+Zanidatamab has minor influence on the ability to drive and use machines. Fatigue has been reported with the use of Ziihera. Therefore, patients should be advised to use caution when driving or operating machines.
 
-| Intrathecal Studies            | Intrathecal Studies            | Intrathecal Studies            | Intrathecal Studies                                                       | Intrathecal Studies            | Intrathecal Studies            |
-|--------------------------------|--------------------------------|--------------------------------|---------------------------------------------------------------------------|--------------------------------|--------------------------------|
-| Study Number                   | N (treated)                    | Study Design                   | Study Design                                                              | Route                          | Dose                           |
-| Controlled Intrathecal Studies | Controlled Intrathecal Studies | Controlled Intrathecal Studies | Controlled Intrathecal Studies                                            | Controlled Intrathecal Studies | Controlled Intrathecal Studies |
-| 95-001                         | 112                            | Phase II/III                   | Placebo-controlled, safety and efficacy (chronic malignant pain)          | IT                             | 0.1 - 21 µ g/hr                |
-| 96-002                         | 257                            | Phase II/III                   | Placebo-controlled, safety and efficacy (chronic non-malignant pain)      | IT                             | 0.1 - 7.0 µ g/hr               |
-| 301                            | 220                            | Phase II/III                   | Placebo-controlled, safety and efficacy (Adults with severe chronic pain) | IT                             | 0.1- 0.9 µ g/h                 |
-| C96-003                        | 30                             | Phase II                       | Pilot, placebo-controlled, (acute post-op pain)                           | IT                             | 0.7 - 7.0 µ g/hr               |
+## 4.8 Undesirable effects
+
+## Summary of the safety profile
+
+The pooled safety population of Ziihera reflects exposure in 233 patients who were  administered Ziihera 20 mg/kg intravenously as a single agent in two single-arm trials.  Among 233 patients who
 
 <div style=\"page-break-after: always\"></div>
 
-| 94-004              | 31                  | Phase I/II          | Pilot, open-label (chronic pain)                                        | IT                  | 0.3 - 300 ng/kg/hr                                                           |
-|---------------------|---------------------|---------------------|-------------------------------------------------------------------------|---------------------|------------------------------------------------------------------------------|
-| 95-002              | 155                 | Phase III           | Long-term, open-label, safety (chronic pain)                            | IT                  | 0.1 - 2.4 µ g/hr                                                             |
-| C96-010             | 1                   | Phase II            | Open-label, safety and efficacy (chronic non-malignant pain)            | IT                  | 0.2 - 3.4 µ g/hr                                                             |
-| C97-013             | 22                  | Phase II            | Open-label, PK (chronic pain)                                           | IT                  | 1, 5, 7.5, 10 µ g single 1 hr infusion                                       |
-| C97-015             | 1                   | Phase III           | Long-term, open-label, safety and efficacy (chronic non-malignant pain) | IT                  | 0.04 - 0.1 µ g/hr                                                            |
-| C98-022             | 644                 | Phase III           | Long-term, open-label, safety (chronic pain)                            | IT                  | 0.1 µ g/hr, titration to patient response                                    |
-| Intravenous Studies | Intravenous Studies | Intravenous Studies | Intravenous Studies                                                     | Intravenous Studies | Intravenous Studies                                                          |
-| 93-001              | 40                  | Phase I             | Low dose, placebo-controlled safety (healthy male volunteers)           | IV                  | 0.3, 1, 3.3, 10 µ g/kg/24hr                                                  |
-| 93-002              | 56                  | Phase I             | High dose, placebo-controlled safety (healthy male volunteers)          | IV                  | 10, 30, 60, 125, 250, 500, 1000 µ g/kg/24hr                                  |
-| 93-003              | 8                   | Phase I             | Haemodynamic, pilot (hypertensive and normotensive male volunteers)     | IV                  | 0, 1, 3.33, 10 µ g/kg/24hr 6 dose levels as 1 hour ramped infusion for 6 hrs |
-| 94-001              | 68                  | Phase II            | Pilot (severe head injury)                                              | IV                  | 62.5-250 or 250-1000 µ g/kg/hr 70mg/d x 3d                                   |
-| 94-002              | 16                  | Phase II            | Placebo-controlled, safety (Coronary Artery Bypass surgery)             | IV                  | Load/Maintenance 62.5/15, 125/30, 250/60, 500/0 µ g/kg/24hr                  |
-| 95-004              | 15                  | Phase II            | Placebo-controlled, safety (Coronary Artery Bypass surgery)             | IV                  | Load/Maintenance 15/5, 30/10, 45/15 µ g/kg/hr                                |
-| 1009- 002/003       | 232                 | Phase II/III        | Placebo-controlled, safety and efficacy (severe head injury)            | IV                  | 60 mg/24hrs                                                                  |
-| Epidural Studies    | Epidural Studies    | Epidural Studies    | Epidural Studies                                                        | Epidural Studies    | Epidural Studies                                                             |
-| 96-012              | 25                  | Phase II            | Placebo-controlled, pilot (acute, post-op pain)                         | EPI                 | 0.7 or 7 µ g/hr                                                              |
-| 98-021              | 42                  | Phase II            | PK (chronic, severe pain patients and healthy volunteers)               | EPI                 | 2, 5, 10, 20 µ g single 1hr infusion                                         |
-| 98-023              | 180                 | Phase II/III        | Placebo-controlled, dose response (surgical pain)                       | EPI                 | 0, 2, 7 and 20 µ g/hr                                                        |
-| 98-029              | 5                   | Phase II            | Open-label safety (chronic, severe pain)                                | EPI                 | 0.2 µ g/hr titration to patient response                                     |
+received Ziihera, 39% were exposed for 6 months or longer, and 17% were exposed for greater than one year.
 
-The primary objectives of the clinical development programme were:
+From the pooled data, serious adverse reactions were observed in 8.2% of patients. The most frequent serious adverse reactions were diarrhoea (1.7%) and fatigue (1.3%).
 
-- to evaluate the safety and efficacy of IT ziconotide in randomised, double-blind, placebocontrolled trials;
-- to evaluate the safety and efficacy of long-term use of ziconotide in open-label studies.
+The most common adverse reactions observed in the pooled data were diarrhoea (48.5%), infusion related reaction (30.5%), fatigue (26.2%), anaemia (21.9%) and rash (21.5%).
 
-It is stated that all studies performed were conducted in compliance with US GCP. This is assumed to reflect  ICH GCP requirements. A number of trial sites have already been inspected by the FDAand problems  relating  to blinding  were  noted  at  one  site.The  analysis  excluding  this centre still demonstrated statistically significant efficacy of ziconotide.
+The safety of Ziihera in adult patients with BTC (N=87) was evaluated in Study 203, an open-label, multi-cohort, multicenter trial.
 
-The applicant also later provided some data:
+In Study 203 (N=87), serious adverse reactions occurred in 16.1% of patients. The most frequent serious adverse reactions were diarrhoea (2.3%), fatigue (2.3%), and alanine aminotransferase increased (2.3%).
 
-- -on ongoing combination and open label extension studies and an open-label compassionate use study.
+The most common adverse reactions in Study 203 (N=87) were diarrhoea (46%), infusion related reaction (33.3%), abdominal pain (26.4%), anaemia (25.3%) and fatigue (24.1%).
 
-## Pharmacokinetics
+## Tabulated list of adverse reactions
 
-<div style=\"page-break-after: always\"></div>
+Unless otherwise stated, the frequencies of adverse reactions are based on all-cause adverse event frequencies identified in 233 patients exposed to Ziihera at 20 mg/kg administered intravenously as a single agent in two single-arm trials.
 
-Ziconotide pharmacokinetics (PK) have been studied after administration through the IV, IT, and epidural routes. The difficulties associated with doing studies in products for IT administration include a risk of infection. As insertion of two catheters would disturb kinetics and for ethical desire to limit dural puncture, only one catheter has been used in the PK studies and this has associated limitations.
+Frequencies are defined as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); not known (cannot be estimated from the available data).
 
-Ziconotide has been measured in the cerebrospinal fluid (CSF) and in plasma in numerous studies during the development program. The most relevant to this application is study 97-013, where ziconotide was used intrathecally.
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Ziconotide CSF and plasma concentrations were determined using a radioimmunoassay (RIA). The lower limit of quantification was 0.0391 ng/ml
+Table 5. Adverse reactions in patients receiving Ziihera as monotherapy reported in the pooled safety population (N=233)
 
-- Absorption
-
-The proposed route of administration is for intrathecal use and the product will therefore be delivered directly through a specified delivery system. The bioavailability of ziconotide in CSF following IT infusion was not assessed, but would be expected to be approaching 100%.
-
-## · Distribution, Metabolism and Elimination
-
-In Study 97-013, CSF concentrations were measured after a single 1-hour IT infusion of ziconotide (1, 5, 7.5 or 10 µ g) to 22 subjects. Cmax ranged from 16 to 130 ng/mL in the CSF, but plasma zicontide concentrationswere low and almost always undetectable . This means that the drug targeting index in the CSF is very high, although it is impossible to calculate with the current data since plasma AUC is not measurable. Vd ( ∼ 100 mL) is close to the total volume of CSF. CSF clearance is around 0.3 ml/min, which is close to human CSF bulk flow (0.3 to 0.4 ml/min). Clearance was generally independent of dose. Spinal uptake contributes to clearance to some extent, and certainly is required for efficacy, but is not considered to be the dominant clearance pathway due to the size and charge of ziconotide. The mean half-life of zicotonide in CSF (monoexponential decline) is 4.6 hr, which is long for a 25-amino acid peptide. It appears to be independent of dose. Ultimately, ziconotide will be eliminated through ubiquitous proteolytic enzymes. The current stage of knowledge does not allow for the precise elucidation of the proteolytic pathways of ziconotide in humans, however, ziconotide is not expected to enter hepatocytes and be metabolised by enzyme systems.
-
-The other PK studies following IT administration used various protocols. Overall, there were only minimal plasma concentrations measured after IT administration of ziconotide, i.e. little or no plasma exposure at recommended infusion rates (0.1 - 0.9 µ g/h).
-
-## · Dose proportionality and time dependencies
-
-After 1-hour IT infusions (study 97-013), the PK of ziconotide is roughly linear over the 1- to 10µ g dose range.  However in study 97-013 saturation in AUC and Cmax seemed to have occurred at doses &gt;7.5 µ g. Nevertheless, the recommended dosage is much lower (0.1 to maximum 0.9 µ g/hr). Therefore the highest dosages tested in this study will generally not be used.
-
-The interindividual variability in intrathecal concentrations appears quite high. Noting also the large inter-individual variability in CSF volume (Hogan, Anesthesiology, 1996) and the lack of a welldefined dose-concentration-response relationship, ziconotide should be titrated on an individual basis to a desired level of response to ensure efficacy and safety.
-
-## · Special populations
-
-Patients with liver or renal impairment were not studied in a specific way and this isstated in the summary of product characteristics due to very limited experience in such population, even if, based on its metabolism, it is not expected that liver or renal impairment will influence plasma ziconotide concentrations.
-
-The PK parameters in elderly patients and females did not appear to differ from those of young and male controls, respectively.
+| System organ class                                   | Frequency   | Adverse reactions                     |
+|------------------------------------------------------|-------------|---------------------------------------|
+| Blood and lymphatic system disorders                 | Very common | Anaemia*                              |
+| Metabolism and nutrition disorders                   | Very common | Decreased appetite                    |
+| Cardiac disorders                                    | Common      | Ejection fraction decreased*          |
+| Gastrointestinal disorders                           | Very common | Diarrhoea*                            |
+| Gastrointestinal disorders                           | Very common | Abdominal pain a                      |
+| Gastrointestinal disorders                           | Very common | Nausea                                |
+| Gastrointestinal disorders                           | Very common | Vomiting                              |
+| Hepatobiliary disorders                              | Very common | Alanine aminotransferase increased*   |
+| Hepatobiliary disorders                              | Very common | Aspartate aminotransferase increased* |
+| Skin and subcutaneous tissue disorders               | Very common | Rash b                                |
+| General disorders and administration site conditions | Very common | Fatigue c                             |
 
 <div style=\"page-break-after: always\"></div>
 
-The data were also examined to see if there were any changes associated with weight. Based on limited data, there did not appear to be any effect of weight on CSF parameters following either epidural or IT dosing. In any case, ziconotide is to be individually titrated.
+| Injury, poisoning and procedural complications   | Very common   | Infusion related reaction*   |
+|--------------------------------------------------|---------------|------------------------------|
+| Respiratory, thoracic and mediastinal disorders  | Uncommon      | Pneumonitis                  |
 
-## · Pharmacokinetic interaction studies
+## Description of selected adverse reactions in the pooled safety population (N=233)
 
-No PK interaction studies have been submitted. Nevertheless, clinical interaction studies between IT ziconotide and IT morphine or baclofenare ongoing or planned (see pharmacodynamic and clinical safety sections).
+## Diarrhoea
 
-- Pharmacokinetics using human biomaterials
+Diarrhoea was reported in 48.5% of patients who received Ziihera. Grade 3 reported event incidence in patients was 5.2%, Grade 4 and Grade 5 events were not observed. Median time to first onset was 10 days and median time to resolution was 3 days. The dose of Ziihera was reduced due to diarrhoea in 1.3% of patients and was held or delayed in 2.6% of patients. There were no discontinuations of treatment due to diarrhoea.
 
-Ziconotide was modestly bound (53%) to human plasma proteins and the binding was independent of concentration.
+## Infusion related reactions
 
-## · Other routes of administration
+Infusion related reactions (IRRs) were reported in 30.5% of patients who received Ziihera. Grade 3 reported event incidence in patients was 0.4%, Grade 4 and Grade 5 events were not observed. Median time to first onset was 1 day and median time to resolution was 1 day. Ziihera infusion was interrupted in 25.3% of patients and discontinued in 0.4% of patients due to IRRs (see section 4.4).
 
-Following IV administration reaching steady-state plasma concentrations of 0.6 to 1.9 ng/mL, there were unacceptably high rates of hypotension, somnolence, dizziness, dry mouth and rhinitis. This pattern was explained by a strong sympathicolytic effect of ziconotide. Plasma half-life of ziconotide (1.3-1.5 h) was much shorter than in the CSF. Less than 1% of ziconotide is recovered intact in human urine following IV infusion.
+## Anaemia
 
-Epidural administration sometimes gave high plasma levels of ziconotide; furthermore, epidural injections were clinically ineffective and this form of administration is not sought.
+Anaemia was reported in 21.9% of patients who received Ziihera. Grade 3 reported event incidence in patients was 9.9%, Grade 4 was 0.4% and no Grade 5 events were observed. Median time to first onset was 42 days and median time to resolution was 14 days. Ziihera infusion was held or delayed in 0.4% of patients and there were no other actions taken with Ziihera due to anaemia.
 
-## Pharmacodynamics
+## ALT increased
 
-## · Mechanism of action
+ALT increased was reported in 12.4% of patients who received Ziihera. Grade 3 reported event incidence in patients was 1.7%, Grade 4 was 0.4% and no Grade 5 events were observed. Median time to first onset was 78 days and median time to resolution was 16 days. Ziihera infusion was held or delayed in 7 patients (3%) and there were no other actions taken with Ziihera due to ALT increased.
 
-Ziconotide is a N-type of Voltage Sensitive Calcium Channel blocker. It inhibits the voltage sensitive calcium current into primary nociceptive afferents terminating in the superficial layers of the dorsal horn of the spinal cord. In turn this inhibits their release of neurotransmitters (including Substance P) and hence the spinal signalling of pain.
+## AST increased
 
-## · Primary and Secondary pharmacology
+AST increased was reported in 11.6% of patients who received Ziihera. Grade 3 reported event incidence in patients was 1.3%, Grade 4 was 0.9% and no Grade 5 events were observed. Median time to first onset was 87 days and median time to resolution was 15 days. Dose of Ziihera was held or delayed in 6 patients (2.6%) and there were no other actions taken with Ziihera due to AST increased.
 
-In Study 97-013 (IT), ziconotide exhibited a dose-response effect in analgesic terms, although the analgesic response was lower in the 10 µ g dose group than in the 7.5 µ g dose group, as were also the AUC and Cmax. CSF concentrations of ziconotide were moderately correlated with efficacy with IT administration. CSF pharmacokinetic parameters, AUC ∞ and Cmax, were moderately well correlated with a number of analgesic parameters and overall an increasing strength of correlation was noted over the 48 hour study period. The occurrence of adverse effects also tended to show a dose-response relationship, with 3 severe adverse effects being reported in the 10 µ g dose group. CSF ziconotide concentrations were highly correlated with the incidence of nervous system adverse effects. Dizziness, nausea and abnormal gait demonstrated the strongest relationships with CSF exposure.
+## Left ventricular dysfunction
 
-In Study 98-021 (EPI), minimal efficacy was observed, presumably related to a median CSF bioavailability of less than 1% with a bolus dose of 2-20 µ g administered epidurally over 1 hour.
+Decreases in LVEF have been reported with medicinal products that block HER2 activity, including Ziihera. Twelve events of LVEF decreased were observed in 10 patients (4.3%) and one of these events was considered serious. Grade 3 reported event incidence in patients was 1.3%, Grade 4 and Grade 5 events were not observed. Median time to first onset was 171 days and median time to resolution was 27 days. The dose of Ziihera was reduced in 1 patient (0.4%), was held or delayed in 5 patients (2.1%)and was discontinued in 2 patients (0.9%).
 
-In Studies 93-001 and 93-002, in which ziconotide was administered intravenously, correlations were observed between plasma ziconotide concentrations and non-nervous system adverse effects, all adverse effects, cardiovascular system adverse effects and reductions in blood pressure. Postural hypotension was consistently observed in Study 93-001 at a mean plasma concentration of ziconotide of 0.64 ng/ml, a relatively high plasma level that is nearly never reached by an IT injection.
+## Reporting of suspected adverse reactions
 
-<div style=\"page-break-after: always\"></div>
-
-Nervous system adverse effects were not correlated with plasma exposure following any route of administration.
-
-## Pharmacodynamic interactions
-
-It is noted that potential interactions with morphine, fentanyl and buprenorphine have not been examined, whereas these drugs are quite likely to be co-administered with ziconotide to control intractable pain. Almost all patients involved in the clinical trials received concomitant treatment with IT ziconotide and non-IT opioids. No major respiratory or cardiovascular adverse events occurred.
-
-IT interaction studies with morphine and baclofen are either planned or ongoing.
-
-## Clinical efficacy
-
-## · Dose response study
-
-A rising dose, open label study, 94-004, to determine safety and effectiveness in chronic pain, was performed in 20 patients with chronic malignant and 11 with non malignant pain. Dosing was started at 0.3 ng/kg/hr and could be tripled at intervals of 24 to 48 hrs for up to 7 days depending on analgesic or adverse effects.  The maximum dose was 300ng/kg/hr.. Whilst the mean maximal analgesic effect was a 42.7% decrease in the Visual Analogue Scale of Pain Intensity (VASPI), 94% patients experienced at least one adverse event and 32% discontinued due to an adverse event. 10 of 26 samples had detectable drug plasma levels and 7 of the 10 patients with detectable levels were experiencing adverse events when the samples were obtained. Three patients experienced postural hypotension. Some of the levels attained following the higher intrathecal doses corresponded to levels seen following intravenous administration and found to be associated with postural hypotension. Dose response analyses did not suggest that greater doses were asssociated with greater efficacy. The starting dose, dose increments and titration rate in the pilot dose finding study mean that the lowest effective dose would not have been identified. Onset of adverse effects or neurological effects such as nystagmus was used to determine attainment of maximal dose and could be considered to represent overdose rather than adequate dose.
-
-Dose response was also considered in the main clinical studies 95-001 and 96-002. Nevertheless, it is unclear how the starting dose, dose range and up-titration interval were chosen.
-
-See discussion on clinical efficacy.
-
-## · Main studies
-
-Three pivotal placebo-controlled clinical trials were performed:
-
--  Study 95-001: patients with chronic malignant pain (associated with cancer or AIDS) - 112 patients (72 ziconotide and 40 placebo).
--  Study 96-002: patients with chronic non-malignant pain, especially neuropathic pain - 257 patients (170 ziconotide and 87 placebo).
--  Another randomised, double-blind, placebo-controlled study of intrathecal ziconotide in adults with severe chronic pain was submitted during the evaluation process (study 301).
-
-The first two studies were prolonged into a long-term open-label study (95-002).
-
-## · Analysis of studies 95-001 and 96-002
-
-## METHODS
-
-Study Participants
-
-For both studies, the following key eligibility criteria were required:
-
-- o necessity of an intrathecal administration as the next pain management step;
-- o average pain score &gt; 50 mm on a Visual Analogue Scale of Pain Intensity (VASPI).
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
 
-Patients who demonstrated an unsatisfactory response to systemic opioid therapy or suffered from intolerable side effects induced by morphine were eligible.
+## 4.9 Overdose
 
-Patients were randomised in a 2:1 ratio to ziconotide or placebo and received 5 or 6 days of treatment in an initial titration phase. At the end of initial titration phase, some patients crossed over according to the following pattern: in study 95-001 non-responders crossed-over to the alternate blinded treatment. In study 96-002 non-responders to ziconotide terminated from the study, while placebo non-responders crossed over to open-label ziconotide.
+The maximum tolerated dose of zanidatamab has not been determined. In clinical studies, the maximum tested dose has been 30 mg/kg. In case of overdose, patients must be closely monitored for signs or symptoms of adverse reactions and appropriate symptomatic treatment initiated if required.
 
-## Treatments
+## 5. PHARMACOLOGICAL PROPERTIES
 
-In study 95-001, overall hourly infusion doses of ziconotide ranged from 0.1-21µg/hr. A number of amendments to the titration regimen were made during the study. Initially, the dose range was 5-300 ng/kg/hr with a forced up-titration until intolerable related adverse events and a 12 hourly up-titration interval. Because of PK data, the body weight-dependent dosing was first discontinued and dose range converted to 0.4-21 µg/hr. Then, upper dose limit was reduced and up-titration interval extended to 24 hours. Finally, dose range was reduced to 0.1 - 2.4 µg/hr with an up-titration until satisfactory analgesia or change in lateral gaze nystagmus or related adverse event, with possibility to extend the up-titration interval of an additional 24 hours in case onset of analgesia.
+## 5.1 Pharmacodynamic properties
 
-In study 96-002, overall hourly infusion doses of ziconotide ranged from 0.1-7.0 µg/hr. A number of amendments to the titration were made during the study. Initially, the dose range was 0.4-7 µg/hr with up-titration until intolerable related adverse events or satisfactory analgesia and a 24 hourly uptitration interval. The upper dose limit was then reduced to 0.4 - 3.9 µg/hr. Finally, dose range was reduced to 0.1 - 2.4 µg/hr with an up-titration until satisfactory analgesia or change in lateral gaze nystagmus or related adverse event, with possibility to extend the up-titration interval of an additional 24 hours in case onset of analgesia.
+Pharmacotherapeutic group: Antineoplastic agents, HER2 (Human Epidermal Growth Factor Receptor 2) inhibitors, ATC code: L01FD07
 
-Ziconotide was formulated in an aqueous isotonic vehicle containing 100 micrograms/mL of ziconotide free base with L methionine, sodium chloride, and water USP as excipents. Placebo was identical to the active drug product except for the absence of the active substance.
+## Mechanism of action
 
-Intrathecal catheters were placed in a clinically indicated position. If placement of a catheter was necessary it was placed between the intravertebral spaces L1-2, L2-3 or L3-4 and the tip was advanced to the area below the conus medullaris but was not to be advanced beyond vertebral T10 level.
+Zanidatamab is a dual HER2-targeted bispecific antibody that simultaneously binds extracellular domains 2 and 4 on separate HER2 monomers (binding in trans). Binding of zanidatamab with HER2 results in internalization leading to a reduction of the receptor on the cell surface. Zanidatamab induces complement-dependent cytotoxicity (CDC), antibody-dependent cellular cytotoxicity (ADCC) and antibody-dependent cellular phagocytosis (ADCP). These mechanisms result in tumour growth inhibition and tumour cell death.
 
-<div style=\"page-break-after: always\"></div>
+## Immunogenicity
 
-## Objectives
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay. Differences in assay methods preclude meaningful comparisons of the incidence of antidrug antibodies (ADA) in the studies described below with incidence of ADA in other studies.
 
-The objectives of the studies were to compare the effect of increasing intrathecally administered dose levels of ziconotide to those of placebo on chronic malignant (95-001) and non-malignant (96-002) pain and to assess the safety of increasing dose levels of ziconotide in this patient population.
+ADA were rarely detected. Zanidatamab is categorised as a low-risk molecule to elicit an immune response on the basis of assessment of the immunogenicity risk factors and the low incidence of ADAs observed to date across the clinical studies (1.6% [3 of 183 evaluable participants] and 1.2% [1 of 85 evaluable participants] in Study 101 and Study 203, respectively). No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed, however, data are still limited.
 
-## Outcomes/endpoints
+## Cardiac electrophysiology
 
-The primary efficacy endpoint was the percent change in VASPI (Visual Analogue Scale of Pain Intensity) score from baseline to the end of the titration phase. The VASPI scores can range from 0 to 100 mm along a horizontal line representing the intensity of pain.
+The relationship between time-matched zanidatamab serum concentrations and ΔQTcF measurements was evaluated based on data obtained during treatment with zanidatamab from participants in Study 101. The C-QT analysis dataset included measurements of QTcF from 179 out of the 192 participants enrolled in Study 101. Zanidatamab has no effect on QTc interval and there was no relationship between zanidatamab exposure and change in QTc interval.
 
-## Secondary endpoints were:
+## Clinical efficacy and safety
 
--  Percent change in VASPI score from baseline to the end of crossover phase.
--  Categorical Pain Relief Scale (CPRS) score at the end of initial titration phase.
--  Change in Wisconsin Brief Pain Inventory (WBPI) subsets from baseline to the end of the initial titration phase.
--  Change in opioid use from baseline to the end of the initial titration phase.
--  Proportion of responders at the end of the initial titration phase.
--  Incidence of adverse events.
+The efficacy of Ziihera was evaluated in Cohort 1 (N=62) of ZWI-ZW25-203 ( Study 203), a multicentre open-label single arm trial of patients with locally advanced unresectable or metastatic biliary tract cancer who received at least one prior gemcitabine-containing systemic chemotherapy regimen for advanced disease, and experienced disease progression after or developed intolerance to the most recent prior therapy, and whose tumour tested HER2-positive (IHC 3+).
 
-The response rate was defined as a ≥ 30 % reduction in VASPI without an increase in dose or change in type of concomitant opioid therapy.
+Patients received Ziihera every 2 weeks at a dose of 20 mg/kg intravenously. It was administered until disease progression or unacceptable toxicity. The major efficacy outcome measures were confirmed objective response rate (cORR) and duration of response (DoR) as determined by an independent central review (ICR) according to Response Evaluation Criteria in Solid Tumours (RECIST) v1.1.
 
-## Randomisation
-
-Patients were randomised in a 2:1 ratio to ziconotide or placebo.
-
-## Statistical methods
-
-In the original protocols, the primary efficacy patient cohort was defined as the evaluable population (having received at least 4 days of treatment). However primary analysis was then amended from evaluable patients to a modified intention to treat population. A modified ITT (mITT) population was defined as randomised patients who had received any amount of study medication, had a baseline VASPI score and had at least one follow up VASPI during the initial titration phase.
-
-## RESULTS
-
-## Study 95-001  (Chronic malignant pain)
-
-## Participant flow
-
-At randomisation, 71 patients received ziconotide and 40 received placebo. One additional patient enrolled after randomisation and was included in the safety evaluation.
-
-Of the 72 patients initially treated with ziconitide, 11 discontinued during initial titration, 9 during maintenance phase receiving ziconotide and 5 during crossover to placebo.
-
-Of the 40 patients initially treated with placebo, 3 discontinued during initial titration, none during maintenance phase and 8 during crossover to ziconotide.
-
-## Baseline data
-
-Baseline and demographic variables were comparable between treatment groups: mean age was 55.5 years, 87% of patients had cancer and 13% AIDS. Mean baseline VASPI was 75 mm. Mean baseline
+The median age was 64 years (range: 38 to 79 years), 47% of patients were age 65 or older; 55% were female; 61% were Asian, 31% were White. All patients had a baseline Eastern Cooperative Oncology Group (ECOG) performance status of 0 (32%) or 1 (68%).
 
 <div style=\"page-break-after: always\"></div>
 
-opioid use was very high at 5.4 g/day oral morphine equivalents and 32% of patients had received prior IT morphine.
+Fifty-three percent of patients had gallbladder cancer, 27% had intrahepatic cholangiocarcinoma, and 19% had extrahepatic cholangiocarcinoma. Forty percent of patients had received more than one prior line of therapy for metastatic or locally advanced disease. The most commonly received prior treatments, other than gemcitabine, included: cisplatin (76%), oxaliplatin (16%), 5-fluoruracil (39%), and PD-1 or PD-L1 inhibitor (26%). The median overall survival (OS) in the IHC3+ population was 18.1 months (95% CI: 12.2, 22.9). The median duration of study follow-up in the IHC3+ population was 34.0 months.
 
-## Outcomes and estimation
+Efficacy results are summarised in Table 6.
 
-The table below provide results of the primary efficacy criterion (change in VASPI at the end of the initial titration phase) and the proportions of responders in both the 'Evaluable' and the mITT population.
+Table 6. Efficacy results in Study 203
 
-| Endpoint                                                                        | Population    | Ziconotide        | Placebo           | p-value   |
-|---------------------------------------------------------------------------------|---------------|-------------------|-------------------|-----------|
-| Mean %change (SE) from baseline VASPI at the end of the initial titration phase | Evaluable (n) | 53.1% (4.63) (68) | 18.1% (6.77) (40) | <0.001    |
-| Mean %change (SE) from baseline VASPI at the end of the initial titration phase | mITT (n)      | 51.4% (4.59) (71) | 18.1% (6.77) (40) | <0.001    |
-| Treatment responders at the end of the initial titration phase                  | Evaluable (n) | 50.0% (68)        | 17.5% (40)        | <0.001    |
-| Treatment responders at the end of the initial titration phase                  | mITT (n)      | 47.9% (71)        | 17.5% (40)        | 0.001     |
+| Efficacy parameter*                      | N=62              |
+|------------------------------------------|-------------------|
+| Confirmed objective response rate (cORR) |                   |
+| n                                        | 32                |
+| %(95% CI)                                | 51.6 (38.6, 64.5) |
+| Complete response, n (%)                 | 3 (4.8)           |
+| Partial response, n (%)                  | 29 (46.8)         |
+| Duration of response (DOR )              | N=32              |
+| Median † , months (95% CI)               | 14.9 (7.4, 24.0)  |
 
-The treatment effect remained statistically significant with the use of an ANCOVA model including percent change in opioid use (p=0.0001).
+LPLV = Last patient last visit 11 July 2024
 
-The table below provide mean VASPI scores at baseline and at the end of the titration, as well as the mean dose at the end of titration (mITT population).
+## Paediatric population
 
-| Parameter                                              | Ziconotide (n = 71)    | Placebo (n = 40)   |
-|--------------------------------------------------------|------------------------|--------------------|
-| Mean VASPI score at baseline in mm(SD)                 | 74.1 (± 13.82)         | 77.9 (± 13.60)     |
-| Mean VASPI score at end of initial titration in mm(SD) | 35.7 (± 33.27)         | 61.0 (± 22.91)     |
-| Dose at end of titration (µg/hr) Mean Median Range     | 0.91 0.60 0.074 - 9.36 |                    |
+The European Medicines Agency has waived the obligation to submit the results of studies with Ziihera in all subsets of the paediatric population in biliary tract cancer (see section 4.2 for information on paediatric use).
 
-## Secondary efficacy analyses:
+## Conditional marketing authorisation
 
-CPRS results (Categorical Pain Relief Scale): the response rate was 47.9% in the ziconotide group and 17.5% in the placebo group (p=0.001).
+This medicinal product has been authorised under a so-called 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited. The European Medicines Agency will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
 
-WBPI subsets (Wisconsin Brief Pain Inventory): there were no statistically significant differences between ziconotide and placebo in terms of WBPI subsets.
+## 5.2 Pharmacokinetic properties
 
-No significant linear correlation was observed between the percent change in VASPI and percent change in opioid use at the end of the initial titration period.
+Zanidatamab PK exhibited non-linear kinetics with more rapid clearance (CL) at low doses ranging from 5 to 30 mg/kg. Following the first dose, the geometric mean zanidatamab Cmax was dose proportional with increasing doses, while total systemic exposure (AUC0-∞) was greater than dose proportional with increasing doses. The geometric mean accumulation indices based on Ctrough at steady state was approximately 2.7 for the 20 mg/kg once every 2 weeks zanidatamab dose level. The observed zanidatamab exposure and PK parameters following the first administration in the first cycle and steady state, based on the available sampling scheme, are described in Table 7.
 
-Non-responders to initial therapy were crossed over to the alternate blinded treatment at the end of the initial titration phase. Amongst these 'initial non-responders', the mean percent improvement in VASPI from baseline at the end of the crossover phase was 44.9% and 4.2% in ziconotide and placebo treated patients respectively (p=0.005).
-
-Post-hoc analyses performed by the applicant
-
-Subgroup analysis of the primary efficacy parameter revealed similar mean VASPI improvements in ziconotide-treated patients who were IT morphine-naïve and experienced.
+The pharmacokinetics of zanidatamab following intravenous infusion in participants with HER2 expressing cancers was evaluated in a population pharmacokinetic model analysis from 279 participants. From the PopPK analysis, participants with BTC were predicted to have a typical CL of 0.0115 L/h, a typical Vc of 3.51 L, a typical Vp of 3.95 L, and an estimated t1/2 of approximately 21 days. Based on the estimated t1/2, it would take approximately 3.5 months (i.e., 5 half-lives) to reach steady state following multiple dose administration of zanidatamab.
 
 <div style=\"page-break-after: always\"></div>
 
-Using a more stringent responder definition of ≥ 50% decrease in VASPI, an exploratory posthoc response rate analysis demonstrated a 42.3% response in rate in the ziconotide group compared to 17.5% in the placebo group (p=0.008).
+Table 7. Study 203: Pharmacokinetic parameters (geometric mean [percent coefficient of variation]) of zanidatamab following the first administration of zanidatamab at 20 mg/kg Q2W in cycle 1 and steady-state in BTC patients
 
-## Study 96-002  (Chronic non-malignant pain)
+| Cycle                               | C max (µg/mL)   | C trough (µg/mL)   | AUC 0-tau (days*µg/mL)   |
+|-------------------------------------|-----------------|--------------------|--------------------------|
+| Cycle 1 N=19                        | 455 (16.3)      | 68.3 (42.9)        | 2280 (22.7)              |
+| Cycle 4 or later (steady-state) N=8 | 600 (22.2)      | 178 (29.6)         | 3980 (22.5)              |
 
-## Participant flow
+Abbreviations: AUC0-tau = area under the curve during the dosing interval; Cmax = maximum concentration; Ctrough = trough concentration; Q2W = once every 2 weeks
 
-At randomisation, 169 patients received ziconotide and 86 received placebo.
+Note: Cycle 1 and Cycle 4 are referred to as 'first dose' and 'steady-state', respectively; these terms are interchangeable.
 
-Of the 169 receiving initial ziconotide, 40 patients discontinued during initial titration and 8 withdrew during the maintenance phase with ziconotide. 48 patients (28.2%) completed initial titration and did not enter second phase and 82 patients (48.2%) entered the second phase. In the placebo group, 7 patients discontinued during initial titration and none discontinued during maintenance phase; 18 patients discontinued during the crossover phase with ziconotide.
+## Absorption
 
-## Baseline data
+Ziihera is administered as an intravenous infusion.
 
-The two groups were comparable with regard to demographic and baseline characteristics. However, the mean baseline VASPI score was higher for the ziconotide group (80.2 mm) than for the placebo group (76.9 mm). Mean age was 52 years. Mean baseline opioid use was 528 mg/day oral morphine equivalents.
+## Distribution
 
-58% of the patients had previously been treated with IT morphine.
+Following intravenous dosing, zanidatamab undergoes biphasic elimination from the circulation. Based on population pharmacokinetic analysis, participants with HER2 amplified BTC were predicted to have a typical Vc of 3.51 L and a typical Vp of 3.95 L.
 
-76 % of the patients suffered from neuropathic pain.
+## Elimination
 
-98% of the patients had pain of greater than one year's duration.
+Based on population pharmacokinetic analysis, participants with BTC were predicted to have a typical CL of 0.0115 L/h and an estimated t1/2 of approximately 21 days for zanidatamab administered at 20 mg/kg every 2 weeks at steady-state.
 
-## Outcomes and estimation
+## Specific populations
 
-The table below provides results of the primary efficacy criterion (change in VASPI at the end of the initial titration phase) and the proportions of responders, for both in the 'Evaluable' and modified ITT (mITT) populations.
+Based on population pharmacokinetic analysis, no clinically significant differences in the pharmacokinetics of zanidatamab were observed based on age (24 to 88 years), sex, race (White, Black, Asian), and body weight (35.4 kg to 128 kg).
 
-| Endpoint                                                                        | Population    | Ziconotide         | Placebo          | p-value   |
-|---------------------------------------------------------------------------------|---------------|--------------------|------------------|-----------|
-| Mean %change (SE) from baseline VASPI at the end of the Initial titration phase | Evaluable (n) | 30.7% (3.47) (159) | 6.2% (3.24) (79) | <0.001    |
-| Mean %change (SE) from baseline VASPI at the end of the Initial titration phase | mITT (n)      | 31.2% (3.41) (164) | 6.0% (3.05) (86) | <0.001    |
-| Treatment responders at the end of the initial titration phase                  | Evaluable (n) | 33.3% (162)        | 13.9% (79)       | 0.002     |
-| Treatment responders at the end of the initial titration phase                  | mITT (n)      | 33.7% (169)        | 12.8% (86)       | <0.001    |
+## Renal impairment
 
-The treatment effect remained statistically significant with the use of an ANCOVA model including baseline VASPI score and percent change in opioid use (p=0.0005).
+Based on population pharmacokinetic analysis, no clinically significant differences in the pharmacokinetics of zanidatamab were observed based on mild and moderate renal impairment (eGFR 30 to 89 mL/min estimated using the CKD-EPI). The pharmacokinetics of zanidatamab in patients with severe renal impairment and end-stage renal disease with or without hemodialysis is unknown. However, as IgG monoclonal antibodies are not primarily cleared via renal pathways, a change in renal function is not expected to influence zanidatamab exposure.
 
-<div style=\"page-break-after: always\"></div>
+## Hepatic impairment
 
-The table below provide mean VASPI scores at baseline and at the end of the titration, as well as the mean dose at the end of titration (mITT population).
+Based on population pharmacokinetics analysis, no clinically significant differences in the pharmacokinetics of zanidatamab were observed based on mild hepatic impairment (total bilirubin ≤ upper limit of normal (ULN) and AST &gt; ULN or total bilirubin between 1 and 1.5 times ULN and any AST). The pharmacokinetics of zanidatamab in patients with moderate (total bilirubin &gt; 1.5 to ≤ 3 ULN and any AST) or severe hepatic impairment (total bilirubin &gt;3 ULN and any AST) is unknown. However, as IgG monoclonal antibodies are not primarily cleared via hepatic pathways, a change in hepatic function is not expected to influence zanidatamab exposure.
 
-| Parameter                                              | Ziconotide (n = 169)   | Placebo (n = 86)   |
-|--------------------------------------------------------|------------------------|--------------------|
-| Mean VASPI score at baseline in mm(SE)                 | 80.1 (± 15.10          | 76.9 (± 14.58)     |
-| Mean VASPI score at end of initial titration in mm(SE) | 54.4 (± 29.30)         | 71.9 (± 30.93)     |
-| Dose at end of titration (µg/hr) Mean Median Range     | 1.02 0.50 0.019 - 9.60 |                    |
+## 5.3 Preclinical safety data
 
-## Secondary efficacy analyses:
+## Carcinogenicity
 
-CPRS results: the response rate was 33.7% in the ziconotide group and 12.8% in the placebo group (p &lt; 0.001).
+Studies have not been conducted to evaluate the carcinogenic potential of zanidatamab.
 
-WBPI subset scores: there were statistically significant differences between treatment groups in favour of ziconotide in mood, walking ability, sleep and enjoyement of life WBPI subset scores at the end of the initial titration period.
+## Genotoxicity
 
-Global Mc Gill Pain Score: the mean percent reduction in this score from baseline to the end of the initial titration phase was 23.6% in the ziconotide group compared to 9.2% in the placebo group (p=0.028).
-
-In terms of change in opioid use, there were no statistically significant differences between ziconotide and placebo. No significant linear correlation was observed between the percent change in VASPI and percent change in opioid use at the end of the initial titration period.
-
-Post-hoc efficacy analyses performed by the applicant
-
-The mean VASPI improvements in ziconotide-treated patients were similar in the IT-morphine naïve and experienced patients, 29.6% and 33.2%, respectively.
-
-Using a response rate analysis with a ≥ 50% decrease in VASPI, an exploratory posthoc analysis demonstrated a 28.4% response rate in the ziconotide group compared to 7.0% in the placebo group (p&lt;0.001).
-
-Analysis performed across trials (pooled analyses and meta-analysis)
-
-As the two pivotal studies 95-001 and 96-002 were similar in design and conduct, a pooled analysis was provided.
-
-For the pooled mITT (all dosing regimens) population, the mean VASPI score at the end of the initial titration period was 48.8 mm for the ziconotide group and 68.4 mm for the placebo group.  The mean percent improvement of 37.3% in VASPI score for ziconotide patients was significantly greater than the 9.8% for placebo patients (p &lt; 0.001, ANOVA).  The 95% confidence interval for the treatment difference was 19.4 to 35.6.
-
-The difference in the mean percent improvement in VASPI score between ziconotide patients and placebo-treated patients was somewhat greater for malignant pain patients in Study 95-001 compared to non-malignant pain patients in Study 96-002 (33.3% vs. 25.2%).
-
-For the pooled ITT (all dosing regimens) population, the cumulative proportion of responders by dose level at end of initial titration period shows that 92% of patients, who responded to treatment, did so by a dose of 1.2 µ g/hr of ziconotide.
+Studies have not been conducted to evaluate the mutagenic potential of zanidatamab.
 
 <div style=\"page-break-after: always\"></div>
 
-For the pooled ITT (0.1-2.4 µ g/hr dosing regimen) population, the cumulative proportion of responders by dose level at end of initial titration period for the pooled population suggests that 90% of patients, who responded to treatment, did so with a dose of 1.2 µ g/hr of ziconotide.
+## Repeat-dose toxicity
 
-## Study 301
+Zanidatamab was generally well tolerated in a 13-week repeat dose toxicity study in cynomolgus monkeys dosed once weekly (intravenous) at dose levels resulting in exposure margins up to at least 10 times the exposure in human patients. Non-severe, transient, non-dose dependent treatment-related soft or watery faeces was observed at clinically relevant exposure. In some, but not all animals, soft or watery faeces correlated with non-severe changes in blood urea nitrogen and blood albumin levels. From day 22, BUN was generally increased (up to 45%) and albumin levels tended to be decreased (up to 12%) throughout the dosing phase. However, these values were not dosed-related and remained within historical control ranges.
 
-301 was the third randomised, double-blind, placebo-controlled study of intrathecal ziconotide in adults with severe chronic pain.
+## Developmental and reproductive toxicity
 
-The primary objective was to confirm the efficacy results observed in the two pivotal short-term clinical trials (five to six days - studies 95-001 and 96-002) on a longer period (three weeks), and with a slower dose titration schedule.
+Reproductive and developmental toxicity studies have not been conducted with zanidatamab. However, antibodies that bind to HER2 have been observed to cause severe embryo-foetal toxicity. Fertility studies have not been performed with zanidatamab. In a 13-week repeat-dose toxicity study in cynomolgus monkeys dosed once weekly (intravenous) at dose levels resulting in exposure margins up to at least 10-times the exposure in human patients, zanidatamab had no effect on male and female reproductive organs when evaluated by organ weights and histopathology.
 
-220 patients with severe chronic pain (VASPI score &gt;50 mm) that was not adequately controlled by and/or who were intolerant to systemic opioids were included. Neuropathic pain was the most common pain mechanism and accounted for 75.9% and 71.3 % of patients in the ziconotide and placebo groups, respectively. Failed back surgery was the most common pain aetiology, reported for 60.7% of patients in the ziconotide group and 55.6% of patients in the placebo group. In both treatment groups, the mean VASPI score was 80.7 mm at baseline.
+## 6. PHARMACEUTICAL PARTICULARS
 
-This additional controlled study was designed to assess a slower titration schedule at a lower ziconotide dose with a longer blinded observation (3 weeks, which was sometimes extended up to 9 months under open conditions):
+## 6.1 List of excipients
 
-| Starting dose (per day)   | Maximum dose (per day)   | Titration interval   |
-|---------------------------|--------------------------|----------------------|
-| 0.1 µ g/h (2.4 µ g)       | 0.9 µ g/h (21.6 µ g)     | 24 hours             |
+Polysorbate 20 (E432) Disodium succinate Succinic acid (E363) Sucrose Water for injections
 
-## Efficacy results from study 301
+## 6.2 Incompatibilities
 
-| Parameter                                                    | Ziconotide (n = 112)   | Placebo (n = 108)   | p-value   |
-|--------------------------------------------------------------|------------------------|---------------------|-----------|
-| Mean VASPI score at baseline in mm(SD)                       | 80.7 (± 14.98)         | 80.7 (± 14.91)      | -         |
-| Mean VASPI score at end of initial titration in mm(SD)       | 67.9 (± 22.89)         | 74.1 (± 21.28)      | _         |
-| %improvement in VASPI score at end of initial titration (SD) | 14.7 (± 27.71)         | 7.2 (± 24.98)       | 0.0360    |
-| Responder a n (%)                                            | 18 (16.1%)             | 13 (12.0%)          | 0.390     |
-| Dose at end of titration (µg/hr) Mean Median Range           | 0.29 0.25 0.0 - 0.80   |                     |           |
+This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.
 
-a Responders were defined as those who experienced a ≥ 30% drop in VASPI score compared to baseline.
+## 6.3 Shelf life
 
-## Secondary endpoints:
+Unopened vial 3 years.
 
-- -Mean weekly opioid use: There was a 23.7% mean decrease in weekly opioid use from the pre-treatment stabilization period at week 3 for the ziconotide group compared to a 17.3% decrease in the placebo group (p = 0.4371). Therefore, the improvement in VASPI score was not due to an increase in opioid use.
-- -For both 'satisfaction with therapy' and 'overall pain control', the CGI evaluation showed a statistically significant improvement in patients treated with ziconotide compared with placebo.
-- -The mean change in the Global McGill Pain Total Score from baseline to termination was 3.2 in the ziconotide group and 0.6 in the placebo group, showing a statistically significant improvement in the ziconotide group over the placebo group (p = 0.0259; two-sample t-test).
+## Reconstituted solution
 
-<div style=\"page-break-after: always\"></div>
+Chemical and physical in-use stability of reconstituted solution has been demonstrated for up to 6 hours at room temperature (18 °C to 24 °C) and up to 24 hours at 2 °C to 8 ºC.
 
-- -Brief Pain Inventory (BPI): Patients in the ziconotide group in comparison to the placebo group experienced an improvement in all BPI subset scores; however, the changes from baseline to termination did not reach statistical significance.
-- -Sleep pattern and quality of sleep: At termination, there were statistically significant improvements in the number of hours of uninterrupted sleep and overall sleep quality in the ziconotide group, and evidence of fewer awakenings due to pain in the ziconotide group.
-- -Categorical Pain Relief Scale (CPRS): The difference between the two treatment groups approached statistical difference (p=0.0596; Mantel-Haenszel chi-square test).
+From a microbiological point of view, unless the method of reconstitution precludes the risk of microbial contamination, the reconstituted solution should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user and should not exceed 4 hours at room temperature (18 ℃ to 24 ℃) or in the refrigerator (2 ºC to 8 ºC).
 
-## · Clinical studies in special populations
+## Diluted solution
 
-## None
+Chemical and physical in-use stability of the diluted solution has been demonstrated for up to 24 hours at room temperature (18 °C to 24 °C) and at 2 ºC to 8 ºC.
 
-## · Supportive studies : Open-label studies
-
-Study 95-002 was an extension study enrolling patients who had demonstrated an analgesic response to ziconotide in the controlled studies (Studies 95-001 and 96-002). After an initial 30-day fixed-dose period, dose increases were limited to a maximal two-fold increase 12 hourly.  Safety and efficacy (VASPI) assessments were performed monthly.  One hundred and fifty-five patients were enrolled; 48 with malignant pain and 107 with non-malignant pain. The mean and median number of days in the study was 288 and 86 respectively. 34 patients were treated for at least 360 days. The mean percentage improvement in VASPI score compared to the pre-treatment baseline was 37.2% (N=139), 32.5% (N=57), 40.6% (N=37), 45.8% (N=31) and 36.9% (N=144) at Week 4, Months 3, 6, 12 and the last available observation, respectively. The apparent increase in efficacy is considered to reflect selection bias as the number of patients decreased with time.
-
-Study 98-022 was designed to assess long-term safety and tolerability of ziconotide administered zicotide intrathecally to patients with chronic pain. Titration began at 0.1 µ g/hr and could increase by ≤ 0.1 µ g/hr every 24 hours.  After the titration/stabilisation period safety assessments were performed monthly.  Six hundred and forty four patients, with chronic nociceptive and/or neuropathic pain requiring intraspinal analgesia received treatment. Unlike the pivotal studies, there was no minimum baseline VASPI eligibility criterion.  97% of patients had pain of non-malignant origin, and 79% of patients had a neuropathic component to their pain. Patients were treated as outpatients but were seen monthly for filling of infusion pump. The mean and median number of days on ziconotide was 199 and 67 respectively.  One hundred and nineteen patients were treated for at least 360 days. The mean % VASPI change at 1 month for all patients (N = 453) was a reduction of only 7.2% (p&lt;0.0104). A post hoc subgroup analysis revealed that the mean % VASPI change at 1 Month for patients (N=394/453) with VASPI scores ≥ 50 mm (i.e., a comparable population to the pivotal trials) was a reduction of 18.3% (p&lt;0.0001). Thirty-one percent (138/453) of patients fulfilled the protocol definition of response defined as: &gt; 30% reduction in VASPI at 1 month.
-
-Data on other ongoing open-label studies were also provided:
-
-- -Study  302  -  Open-label,  3-week,  with  optional  long-term  extension  phase,  multicenter outpatient study to enrol 150 IT naïve patients with chronic, severe pain of either malignant or non-malignant  origin  and  with  a  baseline  VASPI  score  of ≥ 40  mm.  The  study  includes  a treatment phase when Prialt (external pump) is uptitrated at dose increments of ≤ 0.1 µ g/hr no more than once in every 24 hours over a 3-week period. Patients with pain of malignant origin may be eligible to continue with the external system for a further 6 months of treatment with Prialt. Patients with pain of non-malignant origin and suitable for an implanted pump should terminate this study and be enrolled in 352, a long-term follow-up study.
-- -Study  352  -  Open-label,  long-term  extension  study  of  301  or  302.  Safety  assessments  and VASPI pain measurements are performed once every 60 days.
-- -Study 351 - Open-label, long-term extension study of patients who had completed the openlabel,  long-term  studies  95-002  and  98-022.  Patients  in  this  study  have  had  the  longest exposure to ziconotide and approximately 50 patients have been treated for over 3 years.
-- -Study 501 - The ZEST study is an open-label, long-term, compassionate multicentric study started in January 2004 in the US under a treatment IND. The dosing regimen is as follows:
+From a microbial point of view, the product should be used immediately. If not used immediately, inuse storage time and conditions are the responsibility of the user and should not exceed 12 hours at room temperature (18 °C to 24 °C) or 24 hours in the refrigerator at 2 ºC to 8 ºC. These storage times start from the time of reconstitution.
 
 <div style=\"page-break-after: always\"></div>
 
-starting dose is 0.1 µ g/hr with dose changes every 48 hours. Dose increment is ≤ 0.1 µ g/hr with a maximum dose of 0.9 µ g/hr.
+## 6.4 Special precautions for storage
 
-## · Discussion on clinical efficacy
+Store in a refrigerator (2 ºC - 8 ºC).
 
-Two placebo-controlled trials, similar in design and conduct, were performed involving 366 patients: 111 with malignant pain mainly due to cancer (with 13% due to AIDS) and 255 with a non-malignant pain with a demonstrable neurological basis, 76% of whom had neuropathic pain The use of placebo rather than a comparator such as IT morphine is considered appropriate as IT morphine lacks controlled clinical trial data to justify its use as a gold standard and also because patients would be likely to have been treated with morphine previously. The reasons for keeping the duration of the pivotal trials brief (the primary endpoint was set at the end of a 5- to 6-day titration period) can be accepted in view of the proposed severe chronic pain indication (mean baseline VASPI score ∼ 80 mm) and in an attempt to minimise the incidence of meningitis.
+Do not freeze.
 
-The efficacy of IT ziconotide during 5 to 6 days in patients with severe, chronic pain of malignant and non-malignant origin was demonstrated. In the pooled analysis, the mean percent improvement of 37.3% in VASPI score for ziconotide patients was significantly greater than the 9.8% for placebo patients (p &lt; 0.001). Secondary endpoints (verbal Category Pain Relief Scale, Global McGill Pain scores and responder analyses also support the efficacy.
+For storage conditions after reconstitution and dilution of the product, see section 6.3.
 
-The studies were characterised by a very high withdrawal rate: in Study 95-001, 20/72 patients on ziconotide withdrew before the end of the titration phase and 8/29 patients on placebo crossed over to ziconotide; in Study 96-002, 88/170 ziconotide patients did not enter the second phase and 18/80 patients on placebo crossed to ziconotide. In response, the applicant showed that the effect of early dropouts and the use of the last observed carried forward (LOCF) approach during the initial titration phase did not confound the efficacy data from the two placebo-controlled studies.
+## 6.5 Nature and contents of container
 
-It was questioned whether the high rate of confusion and other related adverse events in the ziconotide patients may have obscured the interpretation of the pain scales. Post-hoc analyses conducted by the Applicant revealed a consistently greater reduction in mean VASPI in the confusion-affected cohort treated with ziconotide compared to the unaffected cohort across the three studies. On the other hand, a treatment difference between unaffected ziconotide- and unaffected placebo-treated patients was consistently observed in favour of ziconotide in all three studies. So the VASPI scores appear suitable despite a possible influence of confusion or related adverse events on the evaluation of efficacy.
+20 mL Type I glass vial with a chlorobutyl stopper and flip-off cap.
 
-Long-term data from 31 patients who remained in the study 95-002 shows that sustained analgesic effect in these patients was accompanied by relatively stable mean doses (0.4-0.6 µ g/h) over a 12month period: median dose (0.3 µ g/h) requirements were also constant over this period. No increment in mean dose was noted between 5 and 12 months of treatment.
+Each pack contains either 1 vial or 2 vials.
 
-The lack of tolerance has been demonstrated in only 31 patients of the long-term study 95-002 needs confirmation in further studies.
+Not all pack sizes may be marketed.
 
-The main topic for discussion were the following:
+## 6.6 Special precautions for disposal and other handling
 
-- -The optimal dosage and dose increment strategy for the safe and efficient use of ziconotide have not been clearly established, especially in view of the narrow therapeutic index of the product.
-- -The benefit of the product on the different types of pain.
-- -The long-term maintenance of efficacy.
+Ziihera must be reconstituted with sterile water for injections and subsequently diluted with sodium chloride 9 mg/mL (0.9%) solution for injection or 5% glucose for infusion.
 
-<div style=\"page-break-after: always\"></div>
+Aseptic technique must be used for reconstitution and dilution of Ziihera.
 
-## Dose recommendation
+## Reconstitution
 
-The Applicant provided a detailed explanation of the rationale underlying the dosing regimen mainly based on analyses of the results of studies study 98-022 and study 301in which dose increments were smaller in those studies than the two key studies 95-001 and 96-002, and suggested an amendment to the original dosing recommendation.
+- Calculate the recommended dose of Ziihera based on the patient's weight to determine the number of vials needed.
+- Remove the vial(s) from the refrigerator and allow them to reach room temperature.
+- Reconstitute each vial with 5.7 mL of sterile water for injections to obtain a concentration of 50 mg/mL in an extractable volume of 6 mL.
+- Gently swirl the vial until complete dissolution. Do not shake. Reconstitution should take no more than 10 minutes.
+- Allow the reconstituted vial to settle to allow bubbles to dissipate.
+- Visually inspect the reconstituted solution for particulate matter and discoloration. The reconstituted product should be a colourless to light yellow, clear to slightly opalescent solution that is essentially free of particles. Discard the reconstituted vial if any discoloration or particulate matter is observed.
 
-In study 98-022, therapeutic doses in responders ranged from 0.02 - 0.83 µ g/h. Only 1.5% of the total population required a dose ≤ 0.1 µ g/h and only 2.0% of the total population required a dose ≥ 0.9 µ g/h. In study 301, the range of therapeutic doses (0.05 - 0.60 µ g/h) is not far from that in Study 98-022.
+## Dilution
 
-As a consequence, 0.1 µ g/hour was considered a safe initial dose as only 1% of patients had serious adverse events at this dose or at a lesser dose and approximately 30% of patients experienced related adverse events at doses ≤ 0.1 µ g/hour.
-
-The estimated median time to CSF steady state following infusion is 22.5 hours (based of a median CSF half-life of 4.5 hours). The Applicant has analysed the time interval between dose changes for the three placebo-controlled trials as well as for the long-term open-label safety trial, to support that a dosing interval of 48 hours or more. In the first two placebo-controlled trials (95-001, 96-002), patients were hospitalized for the initial titration, and rapid titration over 5 or 6 days was thought to be necessary. The dose was increased at 24-hour intervals until analgesia was obtained or adverse events were encountered. The third placebo-controlled trial (301) used a 21-day titration period and specified that the dose could not be increased more than once in a 24-hour period. Longer time intervals between dose increases were permitted by the protocol. The long-term open-label safety trial 98-022 also specified a 24-hour minimum titration time interval and titrated the dose over a 4-week period. The table below summarises the statistics for all dose interval by trial.
-
-Summary Statistics for Dose Interval by Trial 1
-
-1 All dose increases (any dose decrease is ignored).
-
-| Statistic   | 95-001   | 96-002   | 301      | 98-022 (long-term)   |
-|-------------|----------|----------|----------|----------------------|
-| N 2         | 346      | 780      | 285      | 2300                 |
-| Mean        | 22.2 hrs | 27.6 hrs | 3.9 days | 94.9 hrs             |
-| Median      | 21.9 hrs | 24.0 hrs | 4.0 days | 74.3 hrs             |
-
-2 N = the total number of dose increases in the ziconotide group
-
-The Applicant also provided analysis showing that in the first two trials (95-001 and 96-002), only 5% and  20%  of  the  dose  increases  were  'safe',  i.e.  not  associated  with  a  subsequent  dose  decrease, whereas in the later trials (301 and 98-022), 59% and 46% of dose increases were not associated with subsequent dose decreases.
-
-Although  a  correlation  of  the  individual  dose  intervals  with  outcome  variables  such  as  VASPI  and adverse  events  were  not  provided,  a  dose  interval  of  at  least  48  hours  is  recommended  to  optimise safety.
-
-In summary, because of the narrow therapeutic index, it is prudent to start with a relatively low dose (2.4 µ g/day),  to  limit  the  dose  increments  to  2.4 µ g/day,  and  to  uptitrate  with  a  minimal  interval between dose increases of 24 hours and a recommended interval, for safety reasons of 48 hours or more.
+- Withdraw the necessary volume for the calculated dose from each vial.
+- Slowly add the necessary dose volume to an appropriate size infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for injection or 5% glucose for infusion. The final concentration of the diluted solution should be between 0.4 mg/mL and 6 mg/mL.
+- Mix the diluted solution by gentle inversion. Do not shake.
+- The solution for infusion must be a clear, colourless solution with no visible particles. If particulate matter or discoloration is identified, the solution must be discarded.
+- Compatibility with intravenous administration materials and the diluted Ziihera solution has been demonstrated in the following materials:
+- o Intravenous bag: polyvinyl chloride (PVC), polyolefin (PO), ethyl vinyl acetate (EVA), polypropylene (PP) and ethylene-propylene copolymer.
+- o Infusion sets: polyvinyl chloride/ bis (2-ethylhexyl) phthalate (PVC/DEHP), polyurethane (PUR), polyethylene-lined (PE-lined) acrylonitrile-butadiene-styrene (ABS).
+- o Inline filters: polyethersulfone solution filter (PES), polyvinylidene fluoride air filter (PVDF).
 
 <div style=\"page-break-after: always\"></div>
 
-## Efficacy depending on the type of pain
+- o Closed system transfer devices: acrylonitrile-butadiene-styrene (ABS), acrylic copolymer, polycarbonate (PC), polyisoprene (PI), polyester polypropylene (PP), polytetrafluoroethylene (PTFE), silicone and stainless steel (SS).
 
-The efficacy appeared somewhat greater for malignant pain patients in Study 95-001 compared to nonmalignant pain patients in Study 96-002 (improvement in VASPI score: 51.4% versus 31.2%; response rate: 47.9% versus 33.7%) and in Study 301 (see below).
+## Administration
 
-On the other hand, subgroup analysis of the primary efficacy parameter revealed similar mean VASPI improvements in ziconotide-treated patients who were IT morphine-naïve and in those who had previously received IT morphine. These results, and the limited benefit of intraspinal morphine when pain is unresponsive to other routes of morphine administration, provide a strong argument against the mandatory use of morphine as first line IT therapy in all situations.
+- Administer Ziihera as an intravenous infusion with a 0.2 or 0.22 micron filter.
+- Do not co-administer Ziihera and other intravenous medicinal products concurrently through the same intravenous line.
 
-In study (301), neuropathic pain was the most common pain mechanism and accounted for more than 70 % of the patients. Failed back surgery was the most common pain aetiology. The primary and secondary results of Study 301 support the analgesic activity of ziconotide in patients suffering from severe chronic pain of neurological origin necessitating intrathecal administration of analgesics. However, the overall efficacy was limited: the primary endpoint, i.e. the mean percent change in VASPI score from baseline to week 3 (LOCF), was 14.7% in the ziconotide group vs 7.2% for the placebo group (p=0.0360). In addition, the number of responders was rather low and not significantly different: only 16.1% in the ziconotide group vs 12% in the placebo group. One should note that the selection of patients in study 301 was more stringent, and that it is also possible that the efficacy of ziconotide is lower in patients who do not respond to, or are intolerant to, systemic morphine.. In Study 301, incidences of adverse effects, namely neurological adverse reactions, in particular confusion, and rate of discontinuation due to adverse effects were lower than in the previous two controlled studies. This seems to confirm that a better control of the posology, from the initial starting dose to the dose increments to the interval between doses, allows a better tolerance of ziconotide.
+## Disposal
 
-The recruitment of malignant pain patients for long-term treatment via intrathecal route appears very difficult and only 20 % of patients in the clinical studies had exclusively non-neuropathic pain
+Ziihera vials are for single dose use only.
 
-There are differences in the therapeutic effect (i.e. ziconotide - placebo efficacy) observed in the three placebo-controlled studies (95-001, 96-002, and 301), with the malignant pain study (95-001) having the greatest effect and 301 having the smallest effectIt is likely that the differences in therapeutic effect are due to differences in patient populations, dose regimens, and study design.
+Discard any portion of the reconstituted solution that remains unused.
 
-- -The cancer patients in 95-001 suffered from severe pain for a shorter duration and were exposed to less  therapeutic  procedures  than  nonmalignant  patients  in  96-002;  perhaps  they  were  more responsive to analgesia. This is reflected by the difference in placebo response between the two populations (6% in the non-malignant patients in 96-002 compared to the 18% in the malignant pain patients in 95-001).
-- -The patients enrolled in the 301 study were the most refractory population of patients studied in the  ziconotide  program;  all  already  had  implanted  pumps  and  most  had  failed  IT  therapy  with combination  analgesics.  The  treating  physicians  considered  that  97%  of  the  patients  were refractory to currently available treatments.
-- -Studies  95-001  and  96-002  were  of  short  duration  and  used  a  more  rapid  dose  escalation  using higher doses compared to study 301.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-In addition, a meta-analysis of the efficacy data from the three controlled trials (95-001, 96-002, and 301) by pain mechanism shows that ziconotide has a therapeutic effect in both neuropathic and nonneuropathic pain subgroups.
+## 7. MARKETING AUTHORISATION HOLDER
 
-<div style=\"page-break-after: always\"></div>
+Jazz Pharmaceuticals Ireland Ltd 5th Floor, Waterloo Exchange Waterloo Road Dublin 4 D04 E5W7 Ireland
 
-## Percent change in VASPI score by pain mechanism
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
-| Pain Mechanism Classification   | Ziconotide N=268   | Placebo N=189   |
-|---------------------------------|--------------------|-----------------|
-| Neuropathic                     |                    |                 |
-| N                               | 185                | 129             |
-| Mean                            | 23.6               | 6.8             |
-| Median                          | 14.9               | 1.4             |
-| Non-neuropathic                 |                    |                 |
-| N                               | 42                 | 40              |
-| Mean                            | 15.5               | 7.6             |
-| Median                          | 6.8                | 3.0             |
+EU/1/25/1931/001
 
-## Long-term efficacy
+EU/1/25/1931/002
 
-The  long-term  effects  of  ziconotide  (beyond  3  weeks)  has  been  insufficiently  demonstrated  in controlled studies, especially in patients with malignant pain where these malignant pain patients were end of stage or terminal and so the high death rate precluded determination of long-term experience with ziconotide.
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Data from these two ongoing long-term, open-label studies have been provided to show that a total of 172 patients have been treated for one year or longer. Almost all patients have non-malignant pain. The mean and median dosage in both long-term studies is within the maximum recommended dose (21.6 µg/day).
+Date of first authorisation: 27 June 2025
 
-Long-term efficacy of ziconotide needs further demonstration despite anecdotal evidence and accruing safety data. Furthermore, there is little experience with long-term ziconotide treatment in patients with malignant pain. This concern is reflected in the Warning/Precautions section 4.4 of the SmPC
+## 10. DATE OF REVISION OF THE TEXT
 
-## Clinical safety
-
-## · Patient exposure
-
-At the time of the submission of the application, ziconotide had been administered to 1048 patients by the IT route, including 353 treated for at least three months and 153 treated for at least 360 days.  The total exposure to IT ziconotide was 477 patient-years. A number of safety populations were identified including the Controlled Study Population (patients from placebo-controlled Studies 95-001and 96002) and the Combined IT Study Population (patients from all IT studies; 94-004, 95-001, 95-002, 96002, 96-003, 96-010, 97-013, 97-015 and 98-022). Patients received IT doses of ziconotide in  the range of 0.05 to 38 µ g/hr.
-
-Safety data of study 301, which dose titration was close to the one recommended in the SPC were provided at a later stage and are described after the above mentioned initial populations.
-
-## · Adverse events
-
-The analyses of the Combined IT Study Population presented below compare the ziconotide-treated and placebo-treated populations.  It is important to point out that there is a large imbalance in ziconotide versus placebo exposure with 477 versus 2.5 patient-years exposure in these respective populations.
-
-Adverse Events Occurring in ≥ 5% of Patients - Combined IT Studies
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse Events       | While Receiving Ziconotide (n = 1048)   | While Receiving Placebo (n = 151)   |
-|----------------------|-----------------------------------------|-------------------------------------|
-| Adverse Events       | %Patients                               | %Patients                           |
-| Any Adverse Event    | 98.4                                    | 76.2                                |
-| Dizziness            | 53.2                                    | 13.2                                |
-| Nausea               | 51.2                                    | 20.5                                |
-| Headache             | 34.6                                    | 20.5                                |
-| Confusion            | 33.8                                    | 6.6                                 |
-| Nystagmus            | 30.1                                    | 11.3                                |
-| Somnolence           | 27.4                                    | 6.6                                 |
-| Pain                 | 26.4                                    | 4.0                                 |
-| Memory Impairment    | 21.7                                    | 0                                   |
-| Abnormal Gait        | 21.3                                    | 2.0                                 |
-| Fever                | 20.0                                    | 6.0                                 |
-| Vomiting             | 19.3                                    | 7.3                                 |
-| Constipation         | 18.9                                    | 10.6                                |
-| Asthenia             | 17.4                                    | 3.3                                 |
-| Myasthenia           | 15.6                                    | 2.0                                 |
-| Diarrhoea            | 15.5                                    | 4.0                                 |
-| Urinary Retention    | 14.7                                    | 1.3                                 |
-| Peripheral Oedema    | 14.0                                    | 1.3                                 |
-| Anxiety              | 13.9                                    | 5.3                                 |
-| Blurred Vision       | 13.9                                    | 2.0                                 |
-| Insomnia             | 13.5                                    | 2.0                                 |
-| Depression           | 13.0                                    | 0.7                                 |
-| Accidental Injury    | 12.5                                    | 2.0                                 |
-| Hypertonia           | 12.5                                    | 2.0                                 |
-| Speech Disorder      | 12.1                                    | 2.0                                 |
-| Hallucinations       | 11.9                                    | 0                                   |
-| Ataxia               | 11.7                                    | 1.3                                 |
-| Nervousness          | 11.3                                    | 3.3                                 |
-| Back Pain            | 11.1                                    | 0.7                                 |
-| Dysaesthesia         | 10.8                                    | 0                                   |
-| Urination Impaired   | 10.8                                    | 1.3                                 |
-| Anorexia             | 10.5                                    | 0.7                                 |
-| Hypaesthesia         | 10.5                                    | 2.0                                 |
-| Infection            | 10.5                                    | 1.3                                 |
-| Postural Hypotension | 9.7                                     | 7.9                                 |
-| Pruritos             | 9.7                                     | 6.6                                 |
-| Paraesthesia         | 9.6                                     | 2.0                                 |
-| Tremor               | 9.3                                     | 2.6                                 |
-| Arthralgia           | 9.0                                     | 0                                   |
+## ANNEX II
+
+- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
 
 <div style=\"page-break-after: always\"></div>
 
-| Impaired Verbal Expression   |   9.0 |   0 |
-|------------------------------|-------|-----|
-| Abdominal Pain               |   8.9 | 2   |
-| Creatine Kinase Increased    |   8.9 | 0   |
-| Sweating                     |   8.9 | 3.3 |
-| Catheter Complication        |   8.7 | 0   |
-| Chest Pain                   |   8.6 | 1.3 |
-| Dyspnoea                     |   8.6 | 2.6 |
-| Taste Perversion             |   8.5 | 0   |
-| Dry Mouth                    |   8.4 | 1.3 |
-| Mental Slowing               |   8.3 | 0.7 |
-| Agitation                    |   7.5 | 0.7 |
-| Cerebrospinal Fluid Abnormal |   7.4 | 0   |
-| Abnormal Vision              |   7.3 | 0   |
-| Myalgia                      |   6.9 | 0   |
-| Chills                       |   6.7 | 2   |
-| Nausea And Vomiting          |   6.1 | 2   |
-| Pump Complication            |   5.8 | 0   |
-| Vertigo                      |   5.8 | 0.7 |
-| Diplopia                     |   5.4 | 0   |
-| Hypotension                  |   5.2 | 7.3 |
-| Pump Site Oedema             |   5.2 | 0   |
-| Reflexes Decreased           |   5   | 1.3 |
+## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Studies include: 94-004, 95-001, 95-002, 96-002, 96-003, 96-010, 97-013, 97-015, 98-022
+Name and address of the manufacturer of the biological active substance
 
-A comparison of the AE profiles for ziconotide (all dosing regimens), ziconotide (0.1-2.4 µ g/hr regimen) and all placebo patients for the initial titration period is shown in the following table which suggests that there may be a reduced number of adverse events with the lower doses.
+WuXi Biologics Co. Ltd. 108 Meiliang Road Mashan, Binhu Wuxi, 214092, China
 
-Incidence of Adverse Events in Ziconotide and Placebo-Treated Patients During the Initial Titration Period - Controlled Studies.
+Name and address of the manufacturer responsible for batch release Jazz Pharmaceuticals Ireland Ltd 5th Floor, Waterloo Exchange Waterloo Road Dublin 4 D04 E5W7 Ireland
 
-| Adverse events   |   Ziconotide Patients All Dosing Regimens (0.1-21 µ g/hr) (n=242) %patients |   Ziconotide Patients Final Dosing Regimen (0.1-2.4 µ g/hr) (n=170) %patients |   All Placebo Patients (n=126) %patients |
-|------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------|------------------------------------------|
-| All Aes          |                                                                        95.5 |                                                                          94.1 |                                     72.2 |
-| Severe Aes       |                                                                        23.6 |                                                                          19.4 |                                      9.5 |
-| Serious Aes      |                                                                        20.2 |                                                                          15.9 |                                      4.8 |
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
-The commonest individual AEs in the ziconotide-treated population that were statistically significantly more frequent than in the placebo group are presented in the following table.
+Medicinal products subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
 
-Incidence Individual Adverse Events Occurring in ≥ 10% of Ziconotide-Treated Patients Statistically Significantly More Frequent Than in Placebo-Treated Patients During The Initial Titration Period - Controlled Studies
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## · Periodic safety update reports (PSURs)
+
+The requirements for submission of PSURs for this medicinal product are set out in Article 9 of Regulation (EC) No 507/2006 and, accordingly, the marketing authorisation holder (MAH) shall submit PSURs every 6 months.
+
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c (7) of Directive 2001/83/EC and any subsequent updates published on the European medicines webportal.
+
+The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## · Risk management plan (RMP)
+
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+
+An updated RMP should be submitted:
+
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
-|                      | Ziconotide Patients                         | Ziconotide Patients                           | All Placebo Patients   |           |
-|----------------------|---------------------------------------------|-----------------------------------------------|------------------------|-----------|
-| Adverse Events       | All Dosing Regimens (0.1-21 µ g/hr) (n=242) | Final Dosing Regimen (0.1-2.4 µ g/hr) (n=170) | (n=126)                | p-value a |
-|                      | %Patients                                   | %Patients                                     | %Patients              |           |
-| Dizziness            | 52.5                                        | 50.6                                          | 13.5                   | <0.0001   |
-| Nausea               | 43.0                                        | 42.4                                          | 19.0                   | <0.0001   |
-| Nystagmus            | 41.7                                        | 41.2                                          | 11.9                   | <0.0001   |
-| Abnormal gait        | 22.7                                        | 22.4                                          | 2.4                    | <0.0001   |
-| Urinary retention    | 16.1                                        | 13.5                                          | 1.6                    | <0.0001   |
-| Somnolence           | 15.7                                        | 12.9                                          | 5.6                    | 0.0042    |
-| Postural hypotension | 15.3                                        | 13.5                                          | 5.6                    | 0.0063    |
-| Vomiting             | 15.3                                        | 13.5                                          | 5.6                    | 0.0063    |
-| Confusion            | 14.5                                        | 11.8                                          | 5.6                    | 0.0097    |
-| Fever                | 13.2                                        | 9.4                                           | 4.0                    | 0.0055    |
-| Pain                 | 11.2                                        | 12.4                                          | 3.2                    | 0.0092    |
+If the submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
 
-a comparison between ziconotide (all dosing regimens) and all placebo patients is presented.
+## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
 
-Regarding study 301 , the incidence of adverse events is summarised in the following table.
+This being a conditional marketing authorisation and pursuant to Article 14-a of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
 
-Summary of treatment-emergent adverse events and serious adverse events (Study 301)
-
-|                                     | Ziconotide (N=112)   | Placebo (N=108)   |
-|-------------------------------------|----------------------|-------------------|
-| Adverse events                      |                      |                   |
-| Any AE                              | 104 (92.9%)          | 89 (82.4%)        |
-| Nervous system AE                   | 91 (81.3%)           | 55 (50.9%)        |
-| Serious adverse events              |                      |                   |
-| Any SAE                             | 13 (11.6%)           | 10 (9.3%)         |
-| Nervous system SAE                  | 5 (4.5%)             | 2 (1.9%)          |
-| Drug-related serious adverse events |                      |                   |
-| Any drug-related SAE                | 2 (1.8%)             | 2 (1.9%)          |
-| Nervous system drug-related SAE     | 2 (1.8%)             | 1 (0.9%)          |
-
-The following adverse events are more frequently reported in patients treated with ziconotide than in patients treated with placebo:
-
-- dizziness : 47.3% versus 13.0%
-
-- -
-
-- nystagmus : 8.0% versus 0.0%
-
-- abnormal gait : 15.2% versus 1.9%
-
-- confusion : 17.9% versus 4.6%
-
-- ataxia : 16.1% versus 1.9%
-
-- hallucinations : 7.1% versus 0.0%
-
-- memory impairment : 11.6% versus 0.9%
-
-- vertigo : 7.1 % versus 0.0%
-
-Most of these adverse events occurred for the first time during the first treatment week.
-
-Adverse events considered to be severe were reported for 42.0% of patients in the ziconotide group and 26.9% of patients in the placebo group. In the ziconotide group, severe adverse events were
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Due date          |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| In order to confirm the efficacy and safety of zanidatamab in the treatment of adults with unresectable locally advanced or metastatic HER2-positive biliary tract cancer previously treated with at least one prior line of systemic therapy, the MAHshould submit the results of the ongoing open-label phase III randomised clinical study JZP598-302 to evaluate the efficacy and safety of zanidatamab plus standard-of- care therapy versus standard-of-care therapy alone for advanced HER2-positive biliary tract cancer. | 30 September 2029 |
 
 <div style=\"page-break-after: always\"></div>
 
-dizziness (10.7% of patients), diarrhoea (5.4%), nausea (10.7%), abnormal gait (3.6%) and confusion (2.7%). In the placebo group, no serious case of dizziness or abnormal gait occurred, and one case of confusion was reported.
+## ANNEX III
 
-## · Serious adverse event/deaths/other significant events
-
-## SAE and deaths
-
-In the initial safety database, serious adverse events were reported in 38.1% of all patients although many of these were associated with the comorbid disease. Serious adverse events considered related to treatment occurred in 14% of all patients, with confusion (3.5%) and dizziness (1.1%) the commonest individual related events. Among IT ziconotide-treated patients there have been 76 deaths. The great majority of these patients had cancer and death was clearly attributed do the underlying disease. In 3 cases (all patients with malignant pain), investigators could not exclude a contribution of ziconotide to the events leading to death. For two of these patients aspiration pneumonia was the cause of death and the  investigators  could  not  rule  out  an  effect  of  ziconotide  (oropharyngeal  dyskinesia  and  altered mental  status  with  delirium,  respectively)  as  a  contributory/causative  factor.  The  third  patient committed suicide a day after completing Study 95-001.  Five further patients have committed suicide, during  or  within  a  month  of  discontinuing  ziconotide  therapy.  The  rate  of  suicide  in  the  ziconotide trials  is  lower  than  that  reported  in  a  cohort  of  chronic  pain  patients  treated  with  IT  opiates  and/or bupivacaine (3.3%).
-
-In study 301 ,  serious adverse events were reported in 11.6% of the patients in the ziconotide group and in 9.3 % in the placebo group. Serious nervous system adverse events were not common and their incidence was similar in the ziconotide and placebo groups. There was one death reported in a patient randomised to placebo.
-
-## Other significant AEs
-
-CNS events
-
-Dizziness  occurred  in  53.3%  of  patients  in  the  combined  IT  group  (versus  13.3%  in  the  placebo group), but caused serious adverse events in only 1.2% of patients in this group and was the reason for discontinuation in 6.7% of patients. Nystagmus (30.1% of patients versus 11.3% in the placebo group) as well as speech and gait disorders also occurred more frequently in the ziconotide population.
-
-Confusion is a particular cause for concern. It occurred in 33.8% of patients in the combined IT group (versus 6.6% in the placebo group) and caused serious AE's in 4.1% of patients. Confusion was the reason for discontinuation in 11.7% patients. Mean duration of confusion was 15.3 days with a range of  1  to  292  days.  Also  notable  were  memory  impairment  (8.3%  in  the  IT  group),  hallucination (11.9%),  mental  slowing  (33.8%),  and  somnolence  (27.4%).  Confusion  is  certainly  the  'most undesirable' AE for patients suffering from severe chronic pain, because they can loose the control of their pain and because the need for hospitalisation is mandatory. This issue was part of the Applicant's decision to recommend a dose interval of 48 h in order to minimise all adverse events.
-
-The cognitive AE's (median time to onset 22-31 days) raised the fear that some persistent or even irreversible injury to the CNS may have occurred. However, pre-clinical data did not support such a toxic phenomenon.
-
-In  the  combined  IT  group  the  neurological  AE's  of  particular  interest  occurred  at  a  median  dose  at onset ranging from 0.2 - 0.3 µ g/hr.
-
-Meningitis: In  the  initial  total  safety  population,  42  events  of  meningitis  occurred  (ziconotide  40, placebo 2). Compared with placebo, the ziconotide group had a much larger number of patients (1048 versus 151) and a substantially higher mean number of days on treatment (177.4 versus 6.6 days). The number of events per patient-year was lower in the ziconotide group than in the placebo group (0.0839 versus 0.8 events per patient-year). In the literature, the rates for meningitis following IT administered morphine either alone or in combination with other analgesics by externalised catheter were similar: 4/90 patients (4%) in Nitescu et al., (Clin J Pain, 1998) and between 0/15 patients and 3/33 patients
+## LABELLING AND PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
-(9%) in a review of studies (Du Pen, Techniques in regional anaesthesia and pain management, 1998). Thirty eight events involved an external pump system and 4 events involved an internal system. The risk of meningitis is thought to be greater with external infusion systems (Dahm, Clin J Pain, 1998). This is reflected in the recommendation in the SPC to use internal pump systems rather than external pumps over prolonged periods.
-
-Urinary impairment/retention occurred in 10.8% of patients in the Combined IT group (versus 1.36% in the placebo group), caused serious adverse events in 2.9% of patients in the controlled group and 1.2% of patients in the combined IT group. Mean duration was 15.3 days with a range of 1 to 292 days.
-
-Greater incidence of pain reported as an adverse event ('pain exacerbation') in the ziconotide group compared  with  placebo  in  Studies  95-001  and  96-002.  In  Study  301,  the  incidence  of  pain  as  an adverse  event  during  the  3-week  placebo-controlled  phase  was  not  significantly  different  in  the ziconotide group. It is unlikely that ziconotide directly induces pain. However, the development of a paradoxical hyperalgesia is not excluded and should be further evaluated.
-
-## · Laboratory findings
-
-Drug-related elevations in creatine kinase (CK) have been observed amongst patients on IT ziconotide. Isoenzyme analysis revealed the origin to be almost entirely skeletal muscle (MM fraction). Elevations are typically modest and CK elevations were asymptomatic.
-
-Three cases of rhabdomyolysis in conjunction with acute renal injury were reported in patients receiving IT ziconotide but in all 3 cases other significant medical factors were present which may have been implicated in the muscle injury.
-
-## · Safety in special populations
-
-No specific studies were performed in special populations.
-
-- Safety related to drug-drug interactions and other interactions
-
-Formal interaction studies between ziconotide and other analgesic drugs have not been performed. For morphine,  this  may  be  acceptable  as  most  patients  used  systemic  morphine  concomitantly  in  the clinical studies and clinical IT morphine and ziconotide studies are ongoing.
-
-An  increased incidence of somnolence has been observed when  ziconotide is administered concomitantly with systemic baclofen,  clonidine,  bupivacaine  or  propofol.  Nevertheless,  there  is  no indication that the incidence of more serious CNS adverse effects such as stupor and coma is increased by with these products. The increased incidence of somnolence will be stated in the SPC.
-
-There  was  no  increased  incidence  of  confusion  and  other  CNS  AE  in  ziconotide  patients  taking anticonvulsants.  The  risk  of  additive  CNS  adverse  effects  when  CNS-active  products  are  coadministered with IT ziconotide cannot be excluded and will be further assessed post-marketing.
-
-The potential interaction between ziconotide and diuretics was assessed as diuretics have been reported to reduce CSF turnover. No consistent evidence was observed to suggest an increase in the incidence of adverse events amongst patients receiving diuretics in conjunction with ziconotide.
-
-Ziconotide is contraindicated in combination with IT chemotherapy because multiple instrumentation of the subarachnoid space to administer IT ziconotide and IT chemotherapy increases the potential risk of  infectious  complications  and  co-administration  of  chemotherapy  with  an  indwelling  intrathecal catheter is likely to alter the dynamics of CSF flow, so rendering the spread and response to ziconotide unpredictable.
+## A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
-## · Discontinuation due to adverse events
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-The following table depicts the adverse events most commonly resulting in temporary or permanent discontinuation of ziconotide. As  expected, neurological adverse events are  predominant  and complications commonly associated with IT infusion systems are also noted.
+OUTER CARTON
 
-Incidence of adverse effects (%) leading to temporary or permanent drug discontinuation in ≥ 2% ziconotide-treated patients - Combined IT studies
+## 1. NAME OF THE MEDICINAL PRODUCT
 
-| Adverse events               | Ziconotide patients (n=1048)   | All placebo patients (n=151)   |
-|------------------------------|--------------------------------|--------------------------------|
-| Adverse events               | %PATIENTS EXPERIENCING EVENT   | %PATIENTS EXPERIENCING EVENT   |
-| Any adverse event            | 50.6                           | 6.6                            |
-| Confusion                    | 11.7                           | 0.7                            |
-| Dizziness                    | 6.7                            | 0                              |
-| Nausea                       | 5.3                            | 0                              |
-| Abnormal gait                | 3.5                            | 0                              |
-| Headache                     | 3.3                            | 0.7                            |
-| Memory impairment            | 3.3                            | 0                              |
-| Catheter complication        | 3.1                            | 0                              |
-| Somnolence                   | 2.9                            | 0                              |
-| Hallucinations               | 2.9                            | 0                              |
-| Nystagmus                    | 2.9                            | 0                              |
-| Mental slowing               | 2.8                            | 0                              |
-| Pain                         | 2.6                            | 1.3                            |
-| Fever                        | 2.3                            | 0.7                            |
-| Cerebrospinal fluid abnormal | 2.1                            | 0                              |
-| Vomiting                     | 2.0                            | 0                              |
+Ziihera 300 mg powder for concentrate for solution for infusion zanidatamab
 
-The median time to recovery for adverse events usually ranged from 3-15 days.
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-In study 301 , the most commonly reported primary adverse event leading to study drug discontinuation was dizziness (2/112). Nausea, agitation and tremor led to withdrawal for one patient each.
+One vial contains 300 mg of zanidatamab.
 
-- Post marketing experience
+After reconstitution, one vial of 6 mL solution contains 50 mg/mL of zanidatamab.
 
-Not applicable.
+## 3. LIST OF EXCIPIENTS
 
-- Discussion on clinical safety
+Also contains: polysorbate 20 (E432), disodium succinate, succinic acid (E363), sucrose, and water for injections. See leaflet for further information.
 
-Adverse events (AE's), particularly affecting the nervous system, were much more common in ziconotide-treated than placebo-treated patients during the initial titration period in studies using the higher doses. Some non-nervous system AE's that were more common in ziconotide-treated patients, such as nausea and urinary retention, are probably also neurologically mediated.  Although most AE's to ziconotide were mild to moderate, ziconotide administration seemed to be associated with a range of AE's that were frequent, severe, persistent and often leading to patient withdrawal or discontinuation. Ziconotide-related AE's were one of the main reasons for temporary or permanent patient withdrawal from studies (50.6% of patients). Serious AE's occurred in 38.1% of patients versus 11.9% for placebo. Some of the adverse events such as confusion, memory impairment, somnolence, dizziness were not only severe, but in some cases also persistent.
+## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Dizziness, nystagmus and gait abnormalities are considered to reflect vestibular effects as N-type channels are abundant in the granule cell layers of the cerebellum, the site of vestibular afferent input, and also influence pathways between brainstem vestibular nuclei and the cerebellum. Ataxia and abnormal gait may be associated with blockade in the spinocerebellar tracts and/or basal ganglia, and nausea, vomiting, urinary impairment/retention (10.8% of patients versus 1.4% in the placebo group), amblyopia and hypotension may be associated with blockage in central autonomic pathways.
+Powder for concentrate for solution for infusion.
 
-<div style=\"page-break-after: always\"></div>
+1 vial 2 vials
 
-The more recent study (301) confirmed that ziconotide administered at a lower dose or with slower titration provided a better safety profile. In that study, the mean initial dose level was 0.1 µ g/h and the mean dose level at termination was 0.26 µ g/h. The mean duration of days on study drug was 29.4 days for the 112 patients who received ziconotide. The withdrawal rate in study 301 was low. The adverse events that were more frequent on ziconotide than on placebo included abnormal gait, ataxia, confusion, dizziness, hallucinations, memory impairment, nystagmus and vertigo. Most of these adverse events occurred for the first time during the first treatment week. This study showed that with a better control of posology, the frequency of confusion decreases dramatically. For confusion, the median dose of onset and the median cumulative dose at onset are higher than for the other neurological adverse events.
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Non-neurological AE's were less of concern. The changes in CPK are unexplained and of unknown consequence. It should be stressed that ziconotide induces no respiratory depression and few vomiting, which are important advantages over morphine derivatives. The absence of cardiac toxicity and of endocrine long-term effects, which would be another advantage of ziconotide over opioids, remains to be confirmed in longer term studies.
+Read the package leaflet before use.
 
-## 1.5 Overall conclusions, benefit/risk assessment and recommendation
+For intravenous use after reconstitution and dilution.
 
-## Quality
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
-The quality of this product is considered to be acceptable when used in accordance with the conditions defined in the SPC. Physicochemical and biological aspects relevant to the uniform clinical performance of the product have been investigated and are controlled in a satisfactory way. At the time of the CHMP opinion, there were a number of minor unresolved quality issues having no impact on the Benefit/Risk ratio of the product. The applicant gave a Letter of Undertaking and committed to resolve these as Follow Up Measures after the opinion, within an agreed timeframe.
+Keep out of the sight and reach of children.
 
-## Non-clinical pharmacology and toxicology
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-The mechanism of the analgesic action of ziconotide has been well characterised. Ziconotide is a blocker of the N-type voltage-sensitive calcium channel; it inhibits the voltage-sensitive calcium current into primary nociceptive afferents terminating in the superficial layers of the dorsal horn of the spinal cord. In turn this inhibits the release of neurotransmitters (including Substance P) and hence the spinal signalling of pain. Efficacy has been shown in appropriate animal pain model.
+## 8. EXPIRY DATE
 
-Toxicology studies showed that there were no signs of target organ toxicity and the changes seen can be attributed to the pharmacological effects of the compound. Ziconotide was negative in a battery of genotoxicity assays.
-
-The lack of carcinogenicity study and the limited data on chronic toxicity are acceptable in view of the difficulties in conducting IT studies with long duration, the lack of evidence of a potential for target organ toxicity at very high multiples of the human dose and the lack of toxic effects on the CNS at high multiples of the CSF concentration of ziconotide in humans.
-
-Ziconotide is not teratogenic in rats or rabbits. Embryolethality observed in reproductive and developmental studies is directly attributable to parental toxicity.
+EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## Efficacy
+## 9. SPECIAL STORAGE CONDITIONS
 
-Prialt is for intrathecal use only and must be administered as a continuous infusion. Low plasma exposure occurs during IT infusion due to the low recommended IT infusion rates and relatively rapid plasma clearance.
+Store in a refrigerator.
 
-In three placebo-controlled studies in patients with severe and chronic pain requiring intrathecal analgesia, IT ziconotide produced a clinically significant efficacy, as measured by improvements in Visual Analog Scale of Pain Intensity (VASPI) scores and supported by the secondary endpoints. The requirement for IT analgesic therapy relies on a clinical decision after all other available resources have been exhausted. The available data shows efficacy in patients with severe and chronic malignant and non-malignant pain, both in the short-term studies 95-001 and 96-002 and in the middle-term study 301, although the effect size appeared samller in this latter study which included patients refractory to other IT therapies. The indication ' Ziconotide is indicated for the treatment of severe, chronic pain in patients who require intrathecal analgesia ' reflects the representative ziconotide study population. However, the definitions of neuropathic pain used in the three placebo-controlled studies may not be accurate enough to ensure distinction between pain mechanisms. Therefore, in order to gain a better insight into this issue, a specifically designed post-marketing study is suggested.
+Do not freeze.
 
-Ziconotide should be titrated on an individual patient basis according to the patient's analgesic response and adverse reactions. The median dose at response is approximately 6.0 µg/day and approximately 75% of responsive patients require ≤ 9.6 µg/day.
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-Long-term efficacy data (beyond 3 weeks) are limited especially in patients with malignant pain and should be expanded post-marketing.
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Data on IT combination studies with morphine and baclofen will be provided post-marketing
+Jazz Pharmaceuticals Ireland Ltd 5th Floor, Waterloo Exchange Waterloo Road Dublin 4 D04 E5W7
 
-## Safety
+Ireland
 
-All results suggest that ziconotide has a narrow therapeutic window.
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
-Dizziness, nystagmus, gait abnormalities, ataxia, nausea, vomiting, urinary impairment/retention, amblyopia and hypotension were common and may be associated with the pharmacological mechanism of the product.
+EU/1/25/1931/001
 
-Adverse reactions, particularly affecting the nervous system were more common in ziconotide-treated during the initial titration period in studies using the higher doses.
+EU/1/25/1931/002
 
-Dose increments should be of ≤ 2.4 µg/day and the recommended interval between dose increases is 48 hours or more, for safety reasons. To limit the occurrence of serious adverse drug reactions, a maximum dose of 21.6 µg/day is recommended.
+## 13. BATCH NUMBER
 
-The most commonly reported adverse drug reaction reported in long-term clinical trials were dizziness (45%), nausea (35%), nystagmus (27%), confusional state (25%), gait abnormal (18%), memory impairment (13%), vision blurred (14%) headache (13%),  asthenia (13%), and vomiting (13%). Most ADRs were mild to moderate in severity and resolved over time.
+Lot
 
-Cognitive and neuropsychiatric adverse reactions, particularly confusion, are common in patients treated with ziconotide.  Cognitive impairment typically appears after several weeks of treatment.  The ziconotide dose should be reduced or discontinued if signs or symptoms of cognitive impairment or neuropsychiatric adverse reactions develop, but other contributing causes should also be considered.
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-The administration of medicinal products by the intrathecal (IT) route carries the risk of meningitis.
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 
-<div style=\"page-break-after: always\"></div>
+Justification for not including Braille accepted
 
-Potential interaction with other product, in particular CNS products will be futher investigated postmarketing.
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## Benefit/risk assessment
-
-The benefit/risk ratio of Prialt in the treatment of severe, chronic pain in patients who require intrathecal (IT) analgesia is considered positive based on the following elements:
-
-- -IT  ziconotide  is  a  novel  and  interesting  alternative  to  IT  morphine  for  patients  who  need intrathecal therapy.
-- -Although  no  carcinogenic  study  has  been  performed  and  elements  of  some  of  the  long-term toxicological studies were not GLP compliant, a well-designed, GLP-compliant, 1-month toxicokinetic  study  with  IT  administrations  of  ziconotide  in  Beagle  dogs  showed  no  sign  of  histopathological lesions.
-- -In three placebo-controlled studies involving patients with severe, chronic pain of malignant and non-malignant  (including  neuropathic  pain)  origin,  ziconotide  produced  a  clinically  significant efficacy, as measured by improvements in VASPI scores.
-- -The  requirement  for  intrathecal  analgesic  therapy,  whether  in  cancer  or  non-cancer  pain,  is  a clinically valid parameter to define the target population.
-- -Follow-up long-term studies and ongoing studies have allowed to delineate the optimal dosage and dose  increment  strategy  for  the  safe  and  efficient  use  of  ziconotide.  Because  of  the  narrow therapeutic index, it is prudent to start with a relatively low dose (2.4 µ g/day), to limit the dose increments to 2.4 µ g/day, and to uptitrate after a minimum of 24, but preferably 48 hours or more.
-- -The safety profile and safety database of IT ziconotide are acceptable. Neurological adverse events were  frequent  and  often  led  to  treatment  discontinuation  in  the  earlier  studies,  but  when  lower doses and safer uptitration procedures were used, the adverse events were acceptable and included mostly dizziness and nausea, then diarrhea, abnormal gait, and confusion.
-- -As  ziconotide  does  not  induce  respiratory  depression,  it  could  be  used  first  line  in  patients presenting a risk for acute respiratory depression.
-- -Ziconotide  could  potentially  be  used  in  association  with  other  IT  drugs,  such  as  morphine, clonidine, fentanyl, baclofen, and bupivacaine, which are often needed in patients with intractable pain.  However,  the  benefits,  and  especially  the  risks  of  potential  associations  (respiratory depression,  sedation,  other  CNS  adverse  events)  are  still  unclear  and  require  planned  follow-up studies, two of which (morphine and baclofen) are ongoing or planned.
-- -The long-term maintenance of efficacy is not currently proven, especially in patients with pain of malignant origin, although preliminary data are available.
-
-Treatment with ziconotide should only be undertaken by physicians experienced in intrathecal (IT) administration of medicinal products (See Annex I: Summary of Product Characteristics, 4.2.). In line with the SOP on 'Legal status on the supply to the patients of centrally approved medicinal products', it should be emphasised that any kind of restriction envisaged by the CHMP will be translated into the legal status in Annex II of the CHMP Opinion by the introduction of the word \"restricted\". In such case a cross-reference will be made to the section 4.2 of the SPC where the restriction will be reflected.
-
-This would guide national authorities when using any subcategory at national level. Nevertheless, the CHMP considers that the marketing authorisation should be granted under exceptional circumstances since the indication for which ziconotide is intended are encountered so rarely that the applicant cannot reasonably be expected to provide comprehensive evidence/data on the safety and efficacy of the medicinal product. In particular, the Applicant should perform a PostMarketing Observational study designed to evaluate the long-term efficacy and safety of ziconotide given for malignant and non-malignant severe, chronic pain.
+2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-## Recommendation
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
-Based  on  the  CHMP  review  of  data  on  quality,  safety  and  efficacy,  the  CHMP  considered  by consensus that the benefit/risk ratio of Prialt in the treatment of severe, chronic pain in patients who require  intrathecal  (IT)  analgesia  was  favourable  and  therefore  recommended  the  granting  of  the marketing authorisation under exceptional circumstances.
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| VIAL                                                             |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
+
+Ziihera 300 mg powder for concentrate zanidatamab
+
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
+
+IV use after reconstitution and dilution
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
+
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## B. PACKAGE LEAFLET
+
+## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
+
+## Ziihera 300 mg powder for concentrate for solution for infusion zanidatamab
+
+▼This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
+## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
+
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor.
+- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Ziihera is and what it is used for
+2. What you need to know before you are given Ziihera
+3. How you will be given Ziihera
+4. Possible side effects
+5. How to store Ziihera
+6. Contents of the pack and other information
+
+## 1. What Ziihera is and what it is used for
+
+## How Ziihera works
+
+Ziihera is a medicine that contains the active substance zanidatamab. Zanidatamab is a bispecific antibody that attaches itself to a specific protein or antigens on cancer cells. It recognises and attaches to a protein called human epidermal growth factor receptor 2 (HER2). HER2 is found in large amounts on the surface of some cancer cells where it stimulates their growth. When zanidatamab attaches to the HER2 on cancer cells, it slows or stops the cancer cells from growing and may kill them.
+
+## What Ziihera is used for
+
+Ziihera is used in adults with biliary tract cancer, a cancer of the structures that store and transport bile. It is used when the cancer:
+
+- has high levels of the HER2 protein on its surface (also known as 'HER2-positive');
+- cannot be removed by surgery (unresectable) and has spread to nearby tissues (locally advanced) or other parts of the body (metastasised); and
+- has returned or worsened after previous chemotherapy treatment.
+
+## 2. What you need to know before you are given Ziihera
+
+## You must not be given Ziihera
+
+- If you are allergic to zanidatamab or any of the other ingredients of this medicine (listed in section 6).
+
+If you are not sure if you are allergic, talk to your doctor or nurse before you are given Ziihera.
+
+## Warnings and precautions
+
+Talk to your doctor or nurse before you are given Ziihera, or during treatment, if you have any of the following symptoms before or during treatment with Ziihera:
+
+<div style=\"page-break-after: always\"></div>
+
+- feeling short of breath,
+- cough,
+- feeling tired,
+- swelling of ankles or legs,
+- irregular heartbeat,
+- sudden weight gain,
+- feeling dizzy, or
+- loss of consciousness.
+
+These may be symptoms of decreased left ventricular ejection fraction, a condition where your heart cannot pump blood well enough. Your doctor will check your heart function before starting treatment with Ziihera. See section 4 'Serious side effects' for more details about signs of heart problems to look out for.
+
+## Infusion reactions
+
+Ziihera is given by a drip into a vein (intravenous infusion). Reactions to the infusion can happen. Your doctor or nurse will monitor you for side effects during and after your infusion as needed. If you get any serious reaction, your doctor may stop treatment with Ziihera. See section 4 'Serious side effects' for more details about infusion reactions to look out for during the infusion and thereafter.
+
+## Children and adolescents
+
+Ziihera is not recommended in children or adolescents. It has not been tested in this age group.
+
+## Other medicines and Ziihera
+
+Tell your doctor or nurse if you are taking, have recently taken, or might take any other medicines.
+
+## Pregnancy and breast-feeding
+
+Before starting treatment, you must tell your doctor or nurse if you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby.
+
+Ziihera may harm the unborn baby. Your doctor will advise you about the risks of taking Ziihera for your baby while you are pregnant or breast-feeding. If you are able to get pregnant, you should use effective contraception (birth control) during treatment and for 4 months after stopping Ziihera treatment. Talk to your doctor about the best contraception for you. Tell your doctor straight away if you get pregnant during treatment with Ziihera or during the 4 months after stopping treatment.
+
+It is not known if Ziihera passes into breast milk. Ask your doctor if you can breast-feed during treatment with Ziihera and for 4 months following treatment, as it may be harmful to the child. Your doctor will consider the benefits of breast-feeding for your child and the benefits to you of taking this medicine.
+
+## Driving and using machines
+
+You may feel tired after receiving Ziihera. If this happens, do not drive or use any tools or machines.
+
+## Ziihera contains sodium
+
+Ziihera contains less than 1 mmol of sodium (23 mg) per dose unit, that is to say it is essentially sodium-free.
+
+## Ziihera contains polysorbate 20
+
+Ziihera contains 0.63 mg of polysorbate 20 in each vial, which is equivalent to 0.105 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+## 3. How you will be given Ziihera
+
+Ziihera will be given to you by a doctor or nurse in a hospital or clinic.
+
+<div style=\"page-break-after: always\"></div>
+
+- It is given by a drip into a vein (intravenous infusion) once every two weeks.
+- The amount of medicine you are given depends on your weight and will be calculated by your doctor.
+- The duration of the infusion may differ for the first dose and later doses, depending on how well you tolerate receiving the infusions.
+- The number of infusions you will be given depends on:
+- o how your disease responds to treatment,
+- o how well you tolerate the treatment.
+- Before each infusion, your doctor/nurse may give you some medicines to help prevent infusion reactions. These may include antihistamines (medicines to reduce allergic reactions), corticosteroid (medicines that treat pain and inflammation) and antipyretics (medicines to reduce fever) and will be given to you 30-60 minutes before you are given the infusion.
+
+## If you miss an appointment
+
+If you forget or miss your appointment to receive Ziihera, make another appointment with your doctor or nurse as soon as possible.
+
+## If you stop receiving Ziihera
+
+Do not stop treatment with this medicine without talking to your doctor first. It is important that you are given all the infusions that have been recommended by your treatment team.
+
+If you have any further questions on the use of this medicine, ask your doctor or nurse.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them. Tell your doctor if you get any side effects, including those not listed in the leaflet.
+
+## Some side effects may be serious. Tell a doctor or nurse straight away, if you notice any of the following side effects:
+
+Very common (may affect more than 1 in 10 people)
+
+- Infusion reactions. Reactions can either be mild or more severe. Symptoms may include feeling sick (nausea), fever, chills, feeling tired, headache, loss of appetite, joint and muscle pains, and hot flashes.
+
+## Common (may affect up to 1 in 10 people)
+
+- Ejection fraction decreased. This medicine may cause heart problems that reduce your heart's ability to pump blood. Symptoms of this include feeling short of breath, cough, feeling tired, swelling of ankles or legs, irregular heartbeat, sudden weight gain, feeling dizzy, or loss of consciousness.
+
+## Other side effects
+
+The frequency and severity of side effects may vary with the dose you receive.  Talk to your doctor or nurse if you get any of the following:
+
+Very common (may affect more than 1 in 10 people)
+
+- diarrhoea
+- belly (abdominal) pain
+- feeling sick (nausea)
+- vomiting
+- feeling tired (fatigue)
+- decreased appetite
+- rash
+
+<div style=\"page-break-after: always\"></div>
+
+- low levels of red blood cells (anaemia), as shown in blood tests
+- abnormal liver function, as shown in blood tests
+
+## Uncommon (may affect up to 1 in 100 people)
+
+- Chest symptoms such as a dry cough or breathlessness (pneumonitis)
+
+If you get any of the above side effects after treatment with Ziihera, you should talk to your doctor straight away and tell them that you are being treated with Ziihera.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Ziihera
+
+Ziihera will be stored by the healthcare professionals at the hospital or clinic where you receive treatment. The following information is intended for healthcare professionals.
+
+- Keep this medicine out of the sight and reach of children.
+- Do not use Ziihera after the expiry date which is stated on the carton and vial label after EXP. The expiry date refers to the last day of that month.
+- Store in a refrigerator (2 ºC - 8 ºC). Do not freeze.
+- The diluted solution should be used immediately after preparation.
+
+Medicines should not be disposed of via wastewater. Your pharmacist will throw away any medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Ziihera contains
+
+- The active substance is zanidatamab.
+- One vial of powder for concentrate for solution for infusion contains 300 mg of zanidatamab. After reconstitution one vial of 6 mL solution contains 50 mg/mL of zanidatamab.
+- The other ingredients are polysorbate 20 (E432), disodium succinate, succinic acid (E363), sucrose, and water for injections (see section 2).
+
+## What Ziihera looks like and contents of the pack
+
+Ziihera is a white lyophilised powder supplied in a glass vial with a stopper and flip-off cap.
+
+One carton contains 1 or 2 vials. Not all pack sizes may be marketed.
+
+## Marketing Authorisation Holder and Manufacturer
+
+Jazz Pharmaceuticals Ireland Ltd 5th Floor, Waterloo Exchange Waterloo Road Dublin 4 D04 E5W7 Ireland
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in:
+
+This medicine has been given 'conditional approval'. This means that there is more evidence to come about this medicine.
+
+The European Medicines Agency will review new information on this medicine at least every year and this leaflet will be updated as necessary.
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## CONCLUSIONS ON THE GRANTING OF THE CONDITIONAL MARKETING AUTHORISATION PRESENTED BY THE EUROPEAN MEDICINES AGENCY
+
+<div style=\"page-break-after: always\"></div>
+
+## Conclusions presented by the European Medicines Agency on:
+
+## · Conditional marketing authorisation
+
+The CHMP having considered the application is of the opinion that the risk-benefit balance is favourable to recommend the granting of the conditional marketing authorisation as further explained in the European Public Assessment Report.

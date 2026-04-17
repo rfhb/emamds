@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-02-20 15:22:00
+document_datetime: 2026-04-17 10:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/teizeild.html
 document_name: teizeild.html
 version: success
-processing_time: 0.0948197
-conversion_datetime: 2026-02-21 12:23:03.367603
+processing_time: 0.1013383
+conversion_datetime: 2026-04-17 15:42:53.802992
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Teizeild
 
 [RSS](/en/individual-human-medicine.xml/270331)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-teplizumab Medicine Human Authorised
+teplizumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -103,189 +105,145 @@ English (EN) (121.1 KB - PDF)
 
 [View](/en/documents/overview/teizeild-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-648)
+[Other languages (22)](#file-language-dropdown-539)
 
 български (BG) (145.57 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/bg/documents/overview/teizeild-epar-medicine-overview_bg.pdf)
 
 español (ES) (120.96 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/es/documents/overview/teizeild-epar-medicine-overview_es.pdf)
 
 čeština (CS) (143.5 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/cs/documents/overview/teizeild-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (120.29 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/da/documents/overview/teizeild-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (124.71 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/de/documents/overview/teizeild-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (118.15 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/et/documents/overview/teizeild-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (143.86 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/el/documents/overview/teizeild-epar-medicine-overview_el.pdf)
 
 français (FR) (122.51 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/fr/documents/overview/teizeild-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (140.8 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/hr/documents/overview/teizeild-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (119.77 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/it/documents/overview/teizeild-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (150.51 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/lv/documents/overview/teizeild-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (141.39 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/lt/documents/overview/teizeild-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (142.08 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/hu/documents/overview/teizeild-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (145.44 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/mt/documents/overview/teizeild-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (122.21 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/nl/documents/overview/teizeild-epar-medicine-overview_nl.pdf)
 
 polski (PL) (146.69 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/pl/documents/overview/teizeild-epar-medicine-overview_pl.pdf)
 
 português (PT) (121.74 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/pt/documents/overview/teizeild-epar-medicine-overview_pt.pdf)
 
 română (RO) (140.88 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/ro/documents/overview/teizeild-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (143.59 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/sk/documents/overview/teizeild-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (140.99 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/sl/documents/overview/teizeild-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (119.08 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/fi/documents/overview/teizeild-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (119.26 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/sv/documents/overview/teizeild-epar-medicine-overview_sv.pdf)
 
 Teizeild : EPAR - Risk management plan
 
-English (EN) (1.01 MB - PDF)
+English (EN) (1.28 MB - PDF)
 
-**First published:** 20/02/2026
+**First published:** 20/02/2026 **Last updated:** 13/04/2026
 
 [View](/en/documents/rmp/teizeild-epar-risk-management-plan_en.pdf)
 
@@ -299,197 +257,149 @@ English (EN) (632.19 KB - PDF)
 
 [View](/en/documents/product-information/teizeild-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-640)
+[Other languages (24)](#file-language-dropdown-540)
 
 български (BG) (679.78 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/bg/documents/product-information/teizeild-epar-product-information_bg.pdf)
 
 español (ES) (466.27 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/es/documents/product-information/teizeild-epar-product-information_es.pdf)
 
 čeština (CS) (651.8 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/cs/documents/product-information/teizeild-epar-product-information_cs.pdf)
 
 dansk (DA) (619.69 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/da/documents/product-information/teizeild-epar-product-information_da.pdf)
 
 Deutsch (DE) (666.15 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/de/documents/product-information/teizeild-epar-product-information_de.pdf)
 
 eesti keel (ET) (402.87 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/et/documents/product-information/teizeild-epar-product-information_et.pdf)
 
 ελληνικά (EL) (681.07 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/el/documents/product-information/teizeild-epar-product-information_el.pdf)
 
 français (FR) (673.71 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/fr/documents/product-information/teizeild-epar-product-information_fr.pdf)
 
 hrvatski (HR) (480.61 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/hr/documents/product-information/teizeild-epar-product-information_hr.pdf)
 
 íslenska (IS) (637.4 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/is/documents/product-information/teizeild-epar-product-information_is.pdf)
 
 italiano (IT) (615.54 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/it/documents/product-information/teizeild-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (559.61 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/lv/documents/product-information/teizeild-epar-product-information_lv.pdf)
 
 lietuvių kalba (LT) (560.68 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/lt/documents/product-information/teizeild-epar-product-information_lt.pdf)
 
 magyar (HU) (648.95 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/hu/documents/product-information/teizeild-epar-product-information_hu.pdf)
 
 Malti (MT) (782.91 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/mt/documents/product-information/teizeild-epar-product-information_mt.pdf)
 
 Nederlands (NL) (605.04 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/nl/documents/product-information/teizeild-epar-product-information_nl.pdf)
 
 norsk (NO) (678.28 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/no/documents/product-information/teizeild-epar-product-information_no.pdf)
 
 polski (PL) (653.89 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/pl/documents/product-information/teizeild-epar-product-information_pl.pdf)
 
 português (PT) (680.16 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/pt/documents/product-information/teizeild-epar-product-information_pt.pdf)
 
 română (RO) (598.72 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/ro/documents/product-information/teizeild-epar-product-information_ro.pdf)
 
 slovenčina (SK) (723.77 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/sk/documents/product-information/teizeild-epar-product-information_sk.pdf)
 
 slovenščina (SL) (693.67 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/sl/documents/product-information/teizeild-epar-product-information_sl.pdf)
 
 Suomi (FI) (671.49 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/fi/documents/product-information/teizeild-epar-product-information_fi.pdf)
 
 svenska (SV) (688.19 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/sv/documents/product-information/teizeild-epar-product-information_sv.pdf)
 
@@ -517,203 +427,173 @@ English (EN) (72.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-543)
+[Other languages (24)](#file-language-dropdown-628)
 
 български (BG) (645.78 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/bg/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (626.5 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/es/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (71.5 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/cs/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (57.4 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/da/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (46.49 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/de/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (24.18 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/et/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (70.99 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/el/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (613.37 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/fr/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (646.51 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/hr/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (50.88 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/is/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (613.09 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/it/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (49.5 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/lv/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (46.01 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/lt/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (58.1 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/hu/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (627.53 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/mt/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (609.6 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/nl/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (58.17 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/no/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (67.31 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/pl/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (618.87 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/pt/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (672.71 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/ro/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (616.6 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/sk/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (50.88 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/sl/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (52.58 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/fi/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (53.48 KB - PDF)
 
-**First published:**
-
-20/02/2026
+**First published:** 20/02/2026
 
 [View](/sv/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Teizeild Active substance teplizumab International non-proprietary name (INN) or common name teplizumab Therapeutic area (MeSH) Diabetes Mellitus, Type 1 Anatomical therapeutic chemical (ATC) code A10XX01
+Name of medicine
+
+Teizeild
+
+Active substance
+
+teplizumab
+
+International non-proprietary name (INN) or common name
+
+teplizumab
+
+Therapeutic area (MeSH)
+
+Diabetes Mellitus, Type 1
+
+Anatomical therapeutic chemical (ATC) code
+
+A10XX01
 
 ### Pharmacotherapeutic group
 
@@ -725,7 +605,9 @@ Teizeild is indicated to delay the onset of stage 3 type 1 diabetes (T1D) in adu
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005496
+EMA product number
+
+EMEA/H/C/005496
 
 Additional monitoring
 
@@ -741,17 +623,47 @@ Sanofi Winthrop Industrie
 
 82 Avenue Raspail
 
-Opinion adopted 13/11/2025 Marketing authorisation issued 08/01/2026
+Opinion adopted
+
+13/11/2025
+
+Marketing authorisation issued
+
+08/01/2026
+
+Revision
+
+1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Teizeild : EPAR - Procedural steps taken and scientific information after the authorisation
+
+English (EN) (129.45 KB - PDF)
+
+**First published:** 13/04/2026
+
+[View](/en/documents/procedural-steps-after/teizeild-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Teizeild : EPAR - Scientific conclusion - Divergent positions of CHMP
+
+English (EN) (99.84 KB - PDF)
+
+**First published:** 17/04/2026
+
+[View](/en/documents/scientific-conclusion/teizeild-epar-scientific-conclusion-divergent-positions-chmp_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Teizeild : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/39938/2026
+Adopted Reference Number: EMA/39938/2026
 
 English (EN) (7.5 MB - PDF)
 
@@ -761,26 +673,26 @@ English (EN) (7.5 MB - PDF)
 
 CHMP summary of positive opinion for Teizeild
 
-Adopted
-
-Reference Number: EMADOC-1829012207-34306
+Adopted Reference Number: EMADOC-1829012207-34306
 
 English (EN) (165.29 KB - PDF)
 
-**First published:** 14/11/2025
-
-**Last updated:** 20/11/2025
+**First published:** 14/11/2025 **Last updated:** 20/11/2025
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-teizeild_en.pdf)
 
-#### News on Teizeild
+## News on Teizeild
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 November 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-november-2025) 14/11/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 November 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-november-2025)
 
-[First-in-class treatment to delay onset of type 1 diabetes](/en/news/first-class-treatment-delay-onset-type-1-diabetes) 14/11/2025
+14/11/2025
 
-**This page was last updated on** 20/02/2026
+[First-in-class treatment to delay onset of type 1 diabetes](/en/news/first-class-treatment-delay-onset-type-1-diabetes)
+
+14/11/2025
+
+**This page was last updated on**
+
+17/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

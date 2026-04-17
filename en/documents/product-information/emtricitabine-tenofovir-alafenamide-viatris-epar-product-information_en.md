@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-05 12:01:42
+document_datetime: 2026-04-16 13:26:36
 document_pages: 55
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_en.pdf
 document_name: emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 13.615221
-conversion_datetime: 2025-12-14 14:29:37.772178
+processing_time: 13.7299891
+conversion_datetime: 2026-04-17 15:33:15.110944
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -44,11 +44,11 @@ Film-coated tablet (tablet).
 
 ## 200 mg/10 mg film-coated tablets
 
-Grey, film-coated, rectangle shaped, beveled edge, biconvex tablet (approximately 15 mm x 7 mm), debossed with ' ET 1' on one side of the tablet and V on the other side.
+Grey, film-coated, rectangle shaped, beveled edge, biconvex tablet (approximately 15 mm x 7 mm), debossed with 'ET 1'on one side of the tablet and V on the other side.
 
 ## 200 mg/25 mg film-coated tablets
 
-Blue, film-coated, rectangle shaped, beveled edge, biconvex tablet of dimensions (approximately 15 mm x 7 mm) debossed with ' ET 2 ' on one side of the tablet and V on the other side.
+Blue, film-coated, rectangle shaped, beveled edge, biconvex tablet of dimensions (approximately 15 mm x 7 mm) debossed with 'ET 2' on one side of the tablet and V on the other side.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -73,9 +73,9 @@ Table 1: Dose of Emtricitabine/Tenofovir alafenamide Viatris according to third 
 | Emtricitabine/Tenofovir alafenamide Viatris 200/10 mg once daily | Atazanavir with ritonavir or cobicistat Darunavir with ritonavir or cobicistat 1 Lopinavir with ritonavir |
 | Emtricitabine/Tenofovir alafenamide Viatris 200/25 mg once daily | Dolutegravir, efavirenz, maraviroc, nevirapine, rilpivirine, raltegravir                                  |
 
-1
-
 Emtricitabine/Tenofovir alafenamide Viatris 200/10 mg in combination with darunavir 800 mg and cobicistat 150 mg, administered as a fixed-dose combination tablet, was studied in treatment-naive subjects, see section 5.1.
+
+1
 
 ## Missed doses
 
@@ -187,7 +187,7 @@ Emtricitabine/Tenofovir alafenamide Viatris should not be administered concomita
 
 ## Excipients
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -211,7 +211,7 @@ Tenofovir alafenamide is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP
 
 Tenofovir alafenamide is not an inhibitor of human uridine diphosphate glucuronosyltransferase (UGT) 1A1 in vitro . It is not known whether tenofovir alafenamide is an inhibitor of other UGT enzymes. Emtricitabine did not inhibit the glucuronidation reaction of a non-specific UGT substrate in vitro .
 
-Interactions between the components of Emtricitabine/Tenofovir alafenamide and potential co-administered medicinal products are listed in Table 2 (increase is indicated as '↑' , decrease as '↓' , no change as '↔' ). The interactions described are based on studies conducted with Emtricitabine/Tenofovir alafenamide, or the components of Emtricitabine/Tenofovir alafenamide as individual agents and/or in combination, or are potential drug-drug interactions that may occur with Emtricitabine/Tenofovir alafenamide.
+Interactions between the components of Emtricitabine/Tenofovir alafenamide and potential co-administered medicinal products are listed in Table 2 (increase is indicated as '↑', decrease as '↓', no change as '↔'). The interactions described are based on studies conducted with Emtricitabine/Tenofovir alafenamide, or the components of Emtricitabine/Tenofovir alafenamide as individual agents and/or in combination, or are potential drug-drug interactions that may occur with Emtricitabine/Tenofovir alafenamide.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -226,33 +226,33 @@ Table 2: Interactions between the individual components of Emtricitabine/Tenofov
 | Antimycobacterials                                                                                                                           |                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                             |
 | Rifabutin Rifampicin Rifapentine                                                                                                             | Interaction not studied with either of the components of Emtricitabine/Tenofovir alafenamide Viatris. Co-administration of rifampicin, rifabutin, and rifapentine, all of which are P-gp inducers, may decrease tenofovir alafenamide plasma concentrations, which may result in loss of therapeutic effect and development of resistance. | Co-administration of Emtricitabine/Tenofovir alafenamide Viatris and rifabutin rifampicin, or rifapentine is not recommended.                                               |
 | Anti-hepatitis C virus medicinal products                                                                                                    | Anti-hepatitis C virus medicinal products                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                             |
-| Ledipasvir (90 mg once daily)/ sofosbuvir (400 mg once daily), emtricitabine (200 mg once daily)/ tenofovir alafenamide (10 mg once daily) 3 | Ledipasvir: AUC: ↑ 79% C max : ↑ 65% C min : ↑ 93% Sofosbuvir: AUC: ↑ 47% C max : ↑ 29% Sofosbuvir metabolite GS-331007: AUC: ↑ 48% C max : ↔ C min : ↑ 66% Emtricitabine: AUC: ↔ C max : ↔ C min : ↔ Tenofovir alafenamide: AUC: ↔                                                                                                        | No dose adjustment of ledipasvir or sofosbuvir is required. Dose Emtricitabine/Tenofovir alafenamide Viatris according to the concomitant antiretroviral (see section 4.2). |
+| Ledipasvir (90 mg once daily)/ sofosbuvir (400 mg once daily), emtricitabine (200 mg once daily)/ tenofovir alafenamide (10 mg once daily) 3 | Ledipasvir: AUC: ↑ 79% C max : ↑ 65% C min : ↑ 93% Sofosbuvir: AUC: ↑ 47% C max : ↑ 29% Sofosbuvir metabolite GS-331007: AUC: ↑ 48% C max :↔ C min : ↑ 66% Emtricitabine: AUC:↔ C max :↔ C min :↔ Tenofovir alafenamide: AUC:↔ C max :↔                                                                                                    | No dose adjustment of ledipasvir or sofosbuvir is required. Dose Emtricitabine/Tenofovir alafenamide Viatris according to the concomitant antiretroviral (see section 4.2). |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas 1                                                                                                       | Effects on medicinal product levels. Mean percent change in AUC, C max , C min 2                                                                                                                                                               | Recommendation concerning co-administration with Emtricitabine/Tenofovir alafenamide Viatris                                                                                               |
-|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ledipasvir (90 mg once daily)/ sofosbuvir (400 mg once daily), emtricitabine (200 mg once daily)/ tenofovir alafenamide (25 mg once daily) 4   | Ledipasvir: AUC: ↔ C max : ↔ C min : ↔ Sofosbuvir: AUC: ↔ C max : ↔ Sofosbuvir metabolite GS-331007: AUC: ↔ C max : ↔ C min : ↔ Emtricitabine: AUC: ↔ C max : ↔ C min : ↔ Tenofovir alafenamide: AUC: ↑ 32%                                    | No dose adjustment of ledipasvir or sofosbuvir is required. Dose Emtricitabine/Tenofovir alafenamide Viatris according to the concomitant antiretroviral (see section 4.2).                |
-| Sofosbuvir (400 mg once daily)/ velpatasvir (100 mg once daily), emtricitabine (200 mg once daily)/ tenofovir alafenamide (10 mg once daily) 3 | Sofosbuvir: AUC: ↑ 37% C max : ↔ Sofosbuvir metabolite GS-331007: AUC: ↑ 48% C max : ↔ C min : ↑ 58% Velpatasvir: AUC: ↑ 50% C max : ↑ 30% C min : ↑ 60% Emtricitabine: AUC: ↔ C max : ↔ C min : ↔ Tenofovir alafenamide: AUC: ↔ C max : ↓ 20% | No dose adjustment of sofosbuvir, velpatasvir or voxilaprevir is required. Dose Emtricitabine/Tenofovir alafenamide Viatris according to the concomitant antiretroviral (see section 4.2). |
+| Medicinal product by therapeutic areas 1                                                                                                       | Effects on medicinal product levels. Mean percent change in AUC, C max , C min 2                                                                                                                                                         | Recommendation concerning co-administration with Emtricitabine/Tenofovir alafenamide Viatris                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ledipasvir (90 mg once daily)/ sofosbuvir (400 mg once daily), emtricitabine (200 mg once daily)/ tenofovir alafenamide (25 mg once daily) 4   | Ledipasvir: AUC:↔ C max :↔ C min :↔ Sofosbuvir: AUC:↔ C max :↔ Sofosbuvir metabolite GS-331007: AUC:↔ C max :↔ C min :↔ Emtricitabine: AUC:↔ C max :↔ C min :↔ Tenofovir alafenamide: AUC: ↑ 32%                                         | No dose adjustment of ledipasvir or sofosbuvir is required. Dose Emtricitabine/Tenofovir alafenamide Viatris according to the concomitant antiretroviral (see section 4.2).                |
+| Sofosbuvir (400 mg once daily)/ velpatasvir (100 mg once daily), emtricitabine (200 mg once daily)/ tenofovir alafenamide (10 mg once daily) 3 | Sofosbuvir: AUC: ↑ 37% C max :↔ Sofosbuvir metabolite GS-331007: AUC: ↑ 48% C max :↔ C min : ↑ 58% Velpatasvir: AUC: ↑ 50% C max : ↑ 30% C min : ↑ 60% Emtricitabine: AUC:↔ C max :↔ C min :↔ Tenofovir alafenamide: AUC:↔ C max : ↓ 20% | No dose adjustment of sofosbuvir, velpatasvir or voxilaprevir is required. Dose Emtricitabine/Tenofovir alafenamide Viatris according to the concomitant antiretroviral (see section 4.2). |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas 1                                                                                                                         | Effects on medicinal product levels. Mean percent change in AUC, C max , C min 2                                                                                                                                                                                                | Recommendation concerning co-administration with Emtricitabine/Tenofovir alafenamide Viatris                                                                                               |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sofosbuvir/velpatasvir/ voxilaprevir (400 mg/100 mg/100 mg +100 mg once daily) 7 / emtricitabine (200 mg once daily)/ tenofovir alafenamide (10 mg once daily) 3 | Sofosbuvir: AUC: ↔ C max : ↑ 27% Sofosbuvir metabolite GS-331007: AUC: ↑ 43% C max : ↔ Velpatasvir: AUC: ↔ C min : ↑ 46% C max : ↔ Voxilaprevir: AUC: ↑ 171% C min : ↑ 350% C max : ↑ 92% Emtricitabine: AUC: ↔ C min : ↔ C max : ↔ Tenofovir alafenamide: AUC: ↔ C max : ↓ 21% |                                                                                                                                                                                            |
-| Sofosbuvir/velpatasvir/ voxilaprevir (400 mg/100 mg/100 mg +100 mg once daily) 7 / emtricitabine (200 mg once daily)/ tenofovir alafenamide (25 mg once daily) 4 | Sofosbuvir: AUC: ↔ C max : ↔ Sofosbuvir metabolite GS-331007: AUC: ↔ C min : ↔ Velpatasvir: AUC: ↔ C min : ↔ C max : ↔ Voxilaprevir: AUC: ↔ C min : ↔ C max : ↔ Emtricitabine: AUC: ↔ C min : ↔ C max : ↔ Tenofovir alafenamide: AUC: ↑ 52% C max : ↑ 32%                       | No dose adjustment of sofosbuvir, velpatasvir or voxilaprevir is required. Dose Emtricitabine/Tenofovir alafenamide Viatris according to the concomitant antiretroviral (see section 4.2). |
+| Medicinal product by therapeutic areas 1                                                                                                                         | Effects on medicinal product levels. Mean percent change in AUC, C max , C min 2                                                                                                                                                                                        | Recommendation concerning co-administration with Emtricitabine/Tenofovir alafenamide Viatris                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sofosbuvir/velpatasvir/ voxilaprevir (400 mg/100 mg/100 mg +100 mg once daily) 7 / emtricitabine (200 mg once daily)/ tenofovir alafenamide (10 mg once daily) 3 | Sofosbuvir: AUC:↔ C max : ↑ 27% Sofosbuvir metabolite GS-331007: AUC: ↑ 43% C max :↔ Velpatasvir: AUC:↔ C min : ↑ 46% C max :↔ Voxilaprevir: AUC: ↑ 171% C min : ↑ 350% C max : ↑ 92% Emtricitabine: AUC:↔ C min :↔ C max :↔ Tenofovir alafenamide: AUC:↔ C max : ↓ 21% |                                                                                                                                                                                            |
+| Sofosbuvir/velpatasvir/ voxilaprevir (400 mg/100 mg/100 mg +100 mg once daily) 7 / emtricitabine (200 mg once daily)/ tenofovir alafenamide (25 mg once daily) 4 | Sofosbuvir: AUC:↔ C max :↔ Sofosbuvir metabolite GS-331007: AUC:↔ C min :↔ Velpatasvir: AUC:↔ C min :↔ C max :↔ Voxilaprevir: AUC:↔ C min :↔ C max :↔ Emtricitabine: AUC:↔ C min :↔ C max :↔ Tenofovir alafenamide: AUC: ↑ 52% C max : ↑ 32%                            | No dose adjustment of sofosbuvir, velpatasvir or voxilaprevir is required. Dose Emtricitabine/Tenofovir alafenamide Viatris according to the concomitant antiretroviral (see section 4.2). |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas 1                                                | Effects on medicinal product levels. Mean percent change in AUC, C max , C min 2                                         | Recommendation concerning co-administration with Emtricitabine/Tenofovir alafenamide Viatris   |
-|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| ANTIRETROVIRALS                                                                         | ANTIRETROVIRALS                                                                                                          | ANTIRETROVIRALS                                                                                |
-| HIV protease inhibitors                                                                 | HIV protease inhibitors                                                                                                  | HIV protease inhibitors                                                                        |
-| Atazanavir/cobicistat (300 mg/150 mg once daily), tenofovir alafenamide (10 mg)         | Tenofovir alafenamide: AUC: ↑ 75% C max : ↑ 80% Atazanavir: AUC: ↔ C max : ↔ C min : ↔                                   | The recommended dose of Emtricitabine/Tenofovir alafenamide Viatris is 200/10 mg once daily.   |
-| Atazanavir/ritonavir (300/100 mg once daily), tenofovir alafenamide (10 mg)             | Tenofovir alafenamide: AUC: ↑ 91% C max : ↑ 77% Atazanavir: AUC: ↔ C max : ↔ C min : ↔                                   | The recommended dose of Emtricitabine/Tenofovir alafenamide Viatris is 200/10 mg once daily.   |
-| Darunavir/cobicistat (800/150 mg once daily), tenofovir alafenamide (25 mg once daily)5 | Tenofovir alafenamide: AUC: ↔ C max : ↔ Tenofovir: AUC: ↑ 224% C max : ↑ 216% C min : ↑ 221% Darunavir: AUC: ↔ C max : ↔ | The recommended dose of Emtricitabine/Tenofovir alafenamide Viatris is 200/10 mg once daily.   |
-| Darunavir/ritonavir (800/100 mg once daily), tenofovir alafenamide (10 mg once daily)   | Tenofovir alafenamide: AUC: ↔ C max : ↔ Tenofovir: AUC: ↑ 105% C max : ↑ 142% Darunavir: AUC: ↔ C max : ↔                | The recommended dose of Emtricitabine/Tenofovir alafenamide Viatris is 200/10 mg once daily.   |
-| Lopinavir/ritonavir (800/200 mg once daily), tenofovir alafenamide (10 mg once daily)   | Tenofovir alafenamide: AUC: ↑ 47% C max : ↑ 119% Lopinavir: AUC: ↔ C max : ↔ C min : ↔                                   | The recommended dose of Emtricitabine/Tenofovir alafenamide Viatris is 200/10 mg once daily.   |
+| Medicinal product by therapeutic areas 1                                                | Effects on medicinal product levels. Mean percent change in AUC, C max , C min 2                                     | Recommendation concerning co-administration with Emtricitabine/Tenofovir alafenamide Viatris   |
+|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| ANTIRETROVIRALS                                                                         | ANTIRETROVIRALS                                                                                                      | ANTIRETROVIRALS                                                                                |
+| HIV protease inhibitors                                                                 | HIV protease inhibitors                                                                                              | HIV protease inhibitors                                                                        |
+| Atazanavir/cobicistat (300 mg/150 mg once daily), tenofovir alafenamide (10 mg)         | Tenofovir alafenamide: AUC: ↑ 75% C max : ↑ 80% Atazanavir: AUC:↔ C max :↔ C min :↔                                  | The recommended dose of Emtricitabine/Tenofovir alafenamide Viatris is 200/10 mg once daily.   |
+| Atazanavir/ritonavir (300/100 mg once daily), tenofovir alafenamide (10 mg)             | Tenofovir alafenamide: AUC: ↑ 91% C max : ↑ 77% Atazanavir: AUC:↔ C max :↔ C min :↔                                  | The recommended dose of Emtricitabine/Tenofovir alafenamide Viatris is 200/10 mg once daily.   |
+| Darunavir/cobicistat (800/150 mg once daily), tenofovir alafenamide (25 mg once daily)5 | Tenofovir alafenamide: AUC:↔ C max :↔ Tenofovir: AUC: ↑ 224% C max : ↑ 216% C min : ↑ 221% Darunavir: AUC:↔ C max :↔ | The recommended dose of Emtricitabine/Tenofovir alafenamide Viatris is 200/10 mg once daily.   |
+| Darunavir/ritonavir (800/100 mg once daily), tenofovir alafenamide (10 mg once daily)   | Tenofovir alafenamide: AUC:↔ C max :↔ Tenofovir: AUC: ↑ 105% C max : ↑ 142% Darunavir: AUC:↔ C max :↔                | The recommended dose of Emtricitabine/Tenofovir alafenamide Viatris is 200/10 mg once daily.   |
+| Lopinavir/ritonavir (800/200 mg once daily), tenofovir alafenamide (10 mg once daily)   | Tenofovir alafenamide: AUC: ↑ 47% C max : ↑ 119% Lopinavir: AUC:↔ C max :↔ C min :↔                                  | The recommended dose of Emtricitabine/Tenofovir alafenamide Viatris is 200/10 mg once daily.   |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -261,8 +261,8 @@ Table 2: Interactions between the individual components of Emtricitabine/Tenofov
 | Tipranavir/ritonavir                                                        | Interaction not studied with either of the components of Emtricitabine/Tenofovir alafenamide. Tipranavir/ritonavir results in P-gp induction. Tenofovir alafenamide exposure is expected to decrease when tipranavir/ritonavir is used in combination with Emtricitabine/Tenofovir alafenamide.                                        | Co-administration with Emtricitabine/Tenofovir alafenamide Viatris is not recommended.                                             |
 | Other protease inhibitors                                                   | Effect is unknown.                                                                                                                                                                                                                                                                                                                     | There are no data available to make dosing recommendations for co-administration with other protease inhibitors.                   |
 | Other HIV antiretrovirals                                                   | Other HIV antiretrovirals                                                                                                                                                                                                                                                                                                              | Other HIV antiretrovirals                                                                                                          |
-| Dolutegravir (50 mg once daily), tenofovir alafenamide (10 mg once daily) 3 | Tenofovir alafenamide: AUC: ↔ Cmax: ↔ Dolutegravir: AUC: ↔ C max : ↔ C min : ↔                                                                                                                                                                                                                                                         | The recommended dose of Emtricitabine/Tenofovir alafenamide Viatris is 200/25 mg once daily.                                       |
-| Rilpivirine (25 mg once daily), tenofovir alafenamide (25 mg once daily)    | Tenofovir alafenamide: AUC: ↔ C max : ↔ Rilpivirine: AUC: ↔ C max : ↔ C min : ↔                                                                                                                                                                                                                                                        | The recommended dose of Emtricitabine/Tenofovir alafenamide Viatris is 200/25 mg once daily.                                       |
+| Dolutegravir (50 mg once daily), tenofovir alafenamide (10 mg once daily) 3 | Tenofovir alafenamide: AUC:↔ Cmax:↔ Dolutegravir: AUC:↔ C max :↔ C min :↔                                                                                                                                                                                                                                                              | The recommended dose of Emtricitabine/Tenofovir alafenamide Viatris is 200/25 mg once daily.                                       |
+| Rilpivirine (25 mg once daily), tenofovir alafenamide (25 mg once daily)    | Tenofovir alafenamide: AUC:↔ C max :↔ Rilpivirine: AUC:↔ C max :↔ C min :↔                                                                                                                                                                                                                                                             | The recommended dose of Emtricitabine/Tenofovir alafenamide Viatris is 200/25 mg once daily.                                       |
 | Efavirenz (600 mg once daily), tenofovir alafenamide (40 mg once daily) 4   | Tenofovir alafenamide: AUC: ↓ 14% C max : ↓ 22%                                                                                                                                                                                                                                                                                        | The recommended dose of Emtricitabine/Tenofovir alafenamide Viatris is 200/25 mg once daily.                                       |
 | Maraviroc Nevirapine Raltegravir                                            | Interaction not studied with either of the components of Emtricitabine/Tenofovir alafenamide. Tenofovir alafenamide exposure is not expected to be affected by maraviroc, nevirapine or raltegravir, nor is it expected to affect the metabolic and excretion pathways relevant to maraviroc, nevirapine or raltegravir.               | The recommended dose of Emtricitabine/Tenofovir alafenamide Viatris is 200/25 mg once daily.                                       |
 | ANTICONVULSANTS                                                             | ANTICONVULSANTS                                                                                                                                                                                                                                                                                                                        | ANTICONVULSANTS                                                                                                                    |
@@ -270,27 +270,29 @@ Table 2: Interactions between the individual components of Emtricitabine/Tenofov
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas 1                                                                                                             | Effects on medicinal product levels. Mean percent change in AUC, C max , C min 2                                                                                                                                                                                                                     | Recommendation concerning co-administration with Emtricitabine/Tenofovir alafenamide Viatris                                                                                     |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Carbamazepine (titrated from 100 mg to 300 mg twice a day), emtricitabine/tenofovir alafenamide (200 mg/25 mg once daily) 5,6                        | Tenofovir alafenamide: AUC: ↓ 55% C max : ↓ 57% Co-administration of carbamazepine, a P- gp inducer, decreases tenofovir alafenamide plasma concentrations, which may result in loss of therapeutic effect and development of resistance.                                                            | Co-administration of Emtricitabine/Tenofovir alafenamide Viatris and carbamazepine is not recommended.                                                                           |
-| ANTIDEPRESSANTS                                                                                                                                      | ANTIDEPRESSANTS                                                                                                                                                                                                                                                                                      | ANTIDEPRESSANTS                                                                                                                                                                  |
-| Sertraline (50 mg once daily), tenofovir alafenamide (10 mg once daily) 3                                                                            | Tenofovir alafenamide: AUC: ↔ C max : ↔ Sertraline: AUC: ↑ 9% C max : ↑ 14%                                                                                                                                                                                                                          | No dose adjustment of sertraline is required. Dose Emtricitabine/Tenofovir alafenamide Viatris according to the concomitant antiretroviral (see section 4.2).                    |
-| HERBAL PRODUCTS                                                                                                                                      | HERBAL PRODUCTS                                                                                                                                                                                                                                                                                      | HERBAL PRODUCTS                                                                                                                                                                  |
-| St. John's wort ( Hypericum perforatum )                                                                                                             | Interaction not studied with either of the components of Emtricitabine/Tenofovir alafenamide Viatris. Co- administration of St. John's wort, a P-gp inducer, may decrease tenofovir alafenamide plasma concentrations, which may result in loss of therapeutic effect and development of resistance. | Co-administration of Emtricitabine/Tenofovir alafenamide Viatris with St. John's wort is not recommended.                                                                        |
-| IMMUNOSUPPRESSANTS                                                                                                                                   | IMMUNOSUPPRESSANTS                                                                                                                                                                                                                                                                                   | IMMUNOSUPPRESSANTS                                                                                                                                                               |
-| Ciclosporin                                                                                                                                          | Interaction not studied with either of the components of Emtricitabine/Tenofovir alafenamide Viatris. Co-administration of ciclosporin, a potent P-gp inhibitor, is expected to increase plasma concentrations of tenofovir alafenamide.                                                             | The recommended dose of Emtricitabine/Tenofovir alafenamide Viatris is 200/10 mg once daily.                                                                                     |
-| ORAL CONTRACEPTIVES                                                                                                                                  | ORAL CONTRACEPTIVES                                                                                                                                                                                                                                                                                  | ORAL CONTRACEPTIVES                                                                                                                                                              |
-| Norgestimate (0.180/0.215/0.250 mg once daily), ethinylestradiol (0.025 mg once daily), emtricitabine/tenofovir alafenamide (200/25 mg once daily) 5 | Norelgestromin: AUC: ↔ C min : ↔ C max : ↔ Norgestrel: AUC: ↔ C min : ↔ C max : ↔ Ethinylestradiol: AUC: ↔ C min : ↔ C max : ↔                                                                                                                                                                       | No dose adjustment of norgestimate/ethinylestradiol is required. Dose Emtricitabine/Tenofovir alafenamide Viatris according to the concomitant antiretroviral (see section 4.2). |
+| Medicinal product by therapeutic areas 1                                                                                                             | Effects on medicinal product levels. Mean percent change in AUC, C max , C min 2                                                                                                                                                                                                                    | Recommendation concerning co-administration with Emtricitabine/Tenofovir alafenamide Viatris                                                                                     |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Carbamazepine (titrated from 100 mg to 300 mg twice a day), emtricitabine/tenofovir alafenamide (200 mg/25 mg once daily) 5,6                        | Tenofovir alafenamide: AUC: ↓ 55% C max : ↓ 57% Co-administration of carbamazepine, a P- gp inducer, decreases tenofovir alafenamide plasma concentrations, which may result in loss of therapeutic effect and development of resistance.                                                           | Co-administration of Emtricitabine/Tenofovir alafenamide Viatris and carbamazepine is not recommended.                                                                           |
+| ANTIDEPRESSANTS                                                                                                                                      | ANTIDEPRESSANTS                                                                                                                                                                                                                                                                                     | ANTIDEPRESSANTS                                                                                                                                                                  |
+| Sertraline (50 mg once daily), tenofovir alafenamide (10 mg once daily) 3                                                                            | Tenofovir alafenamide: AUC:↔ C max :↔ Sertraline: AUC: ↑ 9% C max : ↑ 14%                                                                                                                                                                                                                           | No dose adjustment of sertraline is required. Dose Emtricitabine/Tenofovir alafenamide Viatris according to the concomitant antiretroviral (see section 4.2).                    |
+| HERBAL PRODUCTS                                                                                                                                      | HERBAL PRODUCTS                                                                                                                                                                                                                                                                                     | HERBAL PRODUCTS                                                                                                                                                                  |
+| St. John's wort ( Hypericum perforatum )                                                                                                             | Interaction not studied with either of the components of Emtricitabine/Tenofovir alafenamide Viatris. Co-administration of St. John's wort, a P-gp inducer, may decrease tenofovir alafenamide plasma concentrations, which may result in loss of therapeutic effect and development of resistance. | Co-administration of Emtricitabine/Tenofovir alafenamide Viatris with St. John's wort is not recommended.                                                                        |
+| IMMUNOSUPPRESSANTS                                                                                                                                   | IMMUNOSUPPRESSANTS                                                                                                                                                                                                                                                                                  | IMMUNOSUPPRESSANTS                                                                                                                                                               |
+| Ciclosporin                                                                                                                                          | Interaction not studied with either of the components of Emtricitabine/Tenofovir alafenamide Viatris. Co-administration of ciclosporin, a potent P-gp inhibitor, is expected to increase plasma concentrations of tenofovir alafenamide.                                                            | The recommended dose of Emtricitabine/Tenofovir alafenamide Viatris is 200/10 mg once daily.                                                                                     |
+| ORAL CONTRACEPTIVES                                                                                                                                  | ORAL CONTRACEPTIVES                                                                                                                                                                                                                                                                                 | ORAL CONTRACEPTIVES                                                                                                                                                              |
+| Norgestimate (0.180/0.215/0.250 mg once daily), ethinylestradiol (0.025 mg once daily), emtricitabine/tenofovir alafenamide (200/25 mg once daily) 5 | Norelgestromin: AUC:↔ C min :↔ C max :↔ Norgestrel: AUC:↔ C min :↔ C max :↔ Ethinylestradiol: AUC:↔ C min :↔ C max :↔                                                                                                                                                                               | No dose adjustment of norgestimate/ethinylestradiol is required. Dose Emtricitabine/Tenofovir alafenamide Viatris according to the concomitant antiretroviral (see section 4.2). |
 
 <div style=\"page-break-after: always\"></div>
 
 | Medicinal product by therapeutic areas 1                                                          | Effects on medicinal product levels. Mean percent change in AUC, C max , C min 2   | Recommendation concerning co-administration with Emtricitabine/Tenofovir alafenamide Viatris                                                                 |
 |---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | SEDATIVES/HYPNOTICS                                                                               | SEDATIVES/HYPNOTICS                                                                | SEDATIVES/HYPNOTICS                                                                                                                                          |
-| Orally administered midazolam (2.5 mg single dose), tenofovir alafenamide (25 mg once daily)      | Midazolam: AUC: ↔ C max : ↔                                                        | No dose adjustment of midazolam is required. Dose Emtricitabine/Tenofovir alafenamide Viatris according to the concomitant antiretroviral (see section 4.2). |
-| Intravenously administered midazolam (1 mg single dose), tenofovir alafenamide (25 mg once daily) | Midazolam: AUC: ↔ C max : ↔                                                        | No dose adjustment of midazolam is required. Dose Emtricitabine/Tenofovir alafenamide Viatris according to the concomitant antiretroviral (see section 4.2). |
+| Orally administered midazolam (2.5 mg single dose), tenofovir alafenamide (25 mg once daily)      | Midazolam: AUC:↔ C max :↔                                                          | No dose adjustment of midazolam is required. Dose Emtricitabine/Tenofovir alafenamide Viatris according to the concomitant antiretroviral (see section 4.2). |
+| Intravenously administered midazolam (1 mg single dose), tenofovir alafenamide (25 mg once daily) | Midazolam: AUC:↔ C max :↔                                                          | No dose adjustment of midazolam is required. Dose Emtricitabine/Tenofovir alafenamide Viatris according to the concomitant antiretroviral (see section 4.2). |
 
-1 When doses are provided, they are the doses used in clinical drug-drug interaction studies.
+1
+
+When doses are provided, they are the doses used in clinical drug-drug interaction studies.
 
 2 When data are available from drug-drug interaction studies.
 
@@ -433,15 +435,15 @@ Pharmacotherapeutic group: Antiviral for systemic use; antivirals for treatment 
 
 ## Mechanism of action
 
-Emtricitabine is a nucleoside reverse transcriptase inhibitor (NRTI) and nucleoside analogue of 2' -deoxycytidine. Emtricitabine is phosphorylated by cellular enzymes to form emtricitabine triphosphate. Emtricitabine triphosphate inhibits HIV replication through incorporation into viral deoxyribonucleic acid (DNA) by the HIV reverse transcriptase (RT), which results in DNA chain-termination. Emtricitabine has activity against HIV-1, HIV-2, and HBV.
+Emtricitabine is a nucleoside reverse transcriptase inhibitor (NRTI) and nucleoside analogue of 2'-deoxycytidine. Emtricitabine is phosphorylated by cellular enzymes to form emtricitabine triphosphate. Emtricitabine triphosphate inhibits HIV replication through incorporation into viral deoxyribonucleic acid (DNA) by the HIV reverse transcriptase (RT), which results in DNA chain-termination. Emtricitabine has activity against HIV-1, HIV-2, and HBV.
 
-Tenofovir alafenamide is a nucleotide reverse transcriptase inhibitor (NtRTI) and phosphonamidate prodrug of tenofovir (2' -deoxyadenosine monophosphate analogue). Tenofovir alafenamide is permeable into cells and due to increased plasma stability and intracellular activation through hydrolysis by cathepsin A, tenofovir alafenamide is more efficient than tenofovir disoproxil fumarate in concentrating tenofovir in peripheral blood mononuclear cells (PBMCs) or HIV target cells including lymphocytes and macrophages. Intracellular tenofovir is subsequently phosphorylated to the pharmacologically active metabolite tenofovir diphosphate. Tenofovir diphosphate inhibits HIV replication through incorporation into viral DNA by the HIV RT, which results in DNA chain-termination. Tenofovir has activity against HIV-1, HIV-2, and HBV.
+Tenofovir alafenamide is a nucleotide reverse transcriptase inhibitor (NtRTI) and phosphonamidate prodrug of tenofovir (2'-deoxyadenosine monophosphate analogue). Tenofovir alafenamide is permeable into cells and due to increased plasma stability and intracellular activation through hydrolysis by cathepsin A, tenofovir alafenamide is more efficient than tenofovir disoproxil fumarate in concentrating tenofovir in peripheral blood mononuclear cells (PBMCs) or HIV target cells including lymphocytes and macrophages. Intracellular tenofovir is subsequently phosphorylated to the pharmacologically active metabolite tenofovir diphosphate. Tenofovir diphosphate inhibits HIV replication through incorporation into viral DNA by the HIV RT, which results in DNA chain-termination. Tenofovir has activity against HIV-1, HIV-2, and HBV.
 
 ## Antiviral activity in vitro
 
 Emtricitabine and tenofovir alafenamide demonstrated synergistic antiviral activity in cell culture. No antagonism was observed with emtricitabine or tenofovir alafenamide when combined with other antiretroviral agents.
 
-The antiviral activity of emtricitabine against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, the MAGI CCR5 cell line, and PBMCs. The 50% effective concentration (EC50) values for emtricitabine were in the range of 0.0013 to 0.64 μM. Emtricitabine displayed antiviral activity in cell culture against HIV -1 clades A, B, C, D, E, F, and G (EC50 values ranged from 0.007 to 0.075 μM) and showed strain specific activity against HIV-2 (EC50 values ranged from 0.007 to 1.5 μM) .
+The antiviral activity of emtricitabine against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, the MAGI CCR5 cell line, and PBMCs. The 50% effective concentration (EC 50 ) values for emtricitabine were in the range of 0.0013 to 0.64 μM. Emtricitabine displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, and G (EC50 values ranged from 0.007 to 0.075 μM) and showed strain specific activity against HIV-2 (EC50 values ranged from 0.007 to 1.5 μM).
 
 The antiviral activity of tenofovir alafenamide against laboratory and clinical isolates of HIV-1 subtype B was assessed in lymphoblastoid cell lines, PBMCs, primary monocyte/macrophage cells and CD4+-T lymphocytes. The EC50 values for tenofovir alafenamide were in the range of 2.0 to 14.7 nM. Tenofovir alafenamide displayed antiviral activity in cell culture against all HIV-1 groups (M, N, and O), including subtypes A, B, C, D, E, F, and G (EC50 values ranged from 0.10 to 12.0 nM) and showed strain specific activity against HIV-2 (EC50 values ranged from 0.91 to 2.63 nM).
 
@@ -457,7 +459,7 @@ HIV-1 isolates with reduced susceptibility to tenofovir alafenamide express a K6
 
 ## In treatment-naïve patients
 
-In a pooled analysis of antiretroviral-naïve patients receiving emtricitabine and tenofovir alafenamide (10 mg) given with elvitegravir and cobicistat as a fixed-dose combination tablet in Phase 3 studies GS-US-292-0104 and GS-US-292-0111, genotyping was performed on plasma HIV-1 isolates from all patients with HIV1 RNA ≥ 400 copies/mL at confirmed virological failure, at Week 144, or at the time of early study drug discontinuation. Through Week 144, the development of one or more primary emtricitabine, tenofovir alafenamide, or elvitegravir resistance-associated mutations was observed in HIV-1 isolates from 12 of 22 patients with evaluable genotypic data from paired baseline and E/C/F/TAF treatmentfailure isolates (12 of 866 patients [1.4%]) compared with 12 of 20 treatment-failure isolates from patients with evaluable genotypic data in the E/C/F/TDF group (12 of 867 patients [1.4%]). In the E/C/F/TAF group, the mutations that emerged were M184V/I (n = 11) and K65R/N (n = 2) in RT and T66T/A/I/V (n = 2), E92Q (n = 4), Q148Q/R (n = 1), and N155H (n = 2) in integrase. Of the HIV-1 isolates from 12 patients with resistance development in the E/C/F/TDF group, the mutations that emerged were M184V/I (n = 9), K65R/N (n = 4), and L210W (n = 1) in RT and E92Q/V (n = 4) and Q148R (n = 2), and N155H/S (n = 3) in integrase. Most HIV-1 isolates from patients in both treatment groups who developed resistance mutations to elvitegravir in integrase also developed resistance mutations to emtricitabine in RT.
+In a pooled analysis of antiretroviral-naïve patients receiving emtricitabine and tenofovir alafenamide (10 mg) given with elvitegravir and cobicistat as a fixed-dose combination tablet in Phase 3 studies GS-US-292-0104 and GS-US-292-0111, genotyping was performed on plasma HIV-1 isolates from all patients with HIV-1 RNA ≥ 400 copies/mL at confirmed virological failure, at Week 144, or at the time of early study drug discontinuation. Through Week 144, the development of one or more primary emtricitabine, tenofovir alafenamide, or elvitegravir resistance-associated mutations was observed in HIV-1 isolates from 12 of 22 patients with evaluable genotypic data from paired baseline and E/C/F/TAF treatmentfailure isolates (12 of 866 patients [1.4%]) compared with 12 of 20 treatment-failure isolates from patients with evaluable genotypic data in the E/C/F/TDF group (12 of 867 patients [1.4%]). In the E/C/F/TAF group, the mutations that emerged were M184V/I (n = 11) and K65R/N (n = 2) in RT and T66T/A/I/V (n = 2), E92Q (n = 4), Q148Q/R (n = 1), and N155H (n = 2) in integrase. Of the HIV-1 isolates from 12 patients with resistance development in the E/C/F/TDF group, the mutations that emerged were M184V/I (n = 9), K65R/N (n = 4), and L210W (n = 1) in RT and E92Q/V (n = 4) and Q148R (n = 2), and N155H/S (n = 3) in integrase. Most HIV-1 isolates from patients in both treatment groups who developed resistance mutations to elvitegravir in integrase also developed resistance mutations to emtricitabine in RT.
 
 ## In patients co-infected with HIV and HBV
 
@@ -490,7 +492,7 @@ Table 4: Pooled virological outcomes of Studies GS-US-292-0104 and GS-US-292-011
 |                                                                                            | E/C/F/TAF (n = 866)                                                  | E/C/F/TDF e (n = 867)                                                | E/C/F/TAF (n = 866)                                                  | E/C/F/TDF (n = 867)                                                  |
 | HIV-1 RNA < 50 copies/mL                                                                   | 92%                                                                  | 90%                                                                  | 84%                                                                  | 80%                                                                  |
 | Treatment difference                                                                       | 2.0% (95% CI: -0.7% to 4.7%)                                         | 2.0% (95% CI: -0.7% to 4.7%)                                         | 4.2% (95% CI: 0.6% to 7.8%)                                          | 4.2% (95% CI: 0.6% to 7.8%)                                          |
-| HIV- 1 RNA ≥ 50 copies/mL c                                                                | 4%                                                                   | 4%                                                                   | 5%                                                                   | 4%                                                                   |
+| HIV-1 RNA ≥ 50 copies/mL c                                                                 | 4%                                                                   | 4%                                                                   | 5%                                                                   | 4%                                                                   |
 | No virologic data at Week 48 or 144 window                                                 | 4%                                                                   | 6%                                                                   | 11%                                                                  | 16%                                                                  |
 | Discontinued study drug due to AE or death d                                               | 1%                                                                   | 2%                                                                   | 1%                                                                   | 3%                                                                   |
 | Discontinued study drug due to other reasons and last available HIV-1 RNA < 50 copies/mL e | 2%                                                                   | 4%                                                                   | 9%                                                                   | 11%                                                                  |
@@ -505,21 +507,7 @@ Table 4: Pooled virological outcomes of Studies GS-US-292-0104 and GS-US-292-011
 | HIV-1 RNA < 20 copies/mL                                                                   | 84.4%                                                                | 84.0%                                                                | 81.1%                                                                | 75.8%                                                                |
 | Treatment difference                                                                       | 0.4% (95% CI: -3.0% to 3.8%)                                         | 0.4% (95% CI: -3.0% to 3.8%)                                         | 5.4% (95% CI: 1.5% to 9.2%)                                          | 5.4% (95% CI: 1.5% to 9.2%)                                          |
 
-E/C/F/TAF = elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide
-
-E/C/F/TDF = elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate
-
-a  Week 48 window was between Day 294 and 377 (inclusive); Week 144 window was between Day 966 and 1049 (inclusive).
-
-b In both studies, patients were stratified by baseline HIV1 RNA (≤ 100 000 copies/mL, &gt; 100 000 copies/mL to ≤ 400 000 copies/mL, or &gt; 400 000 copies/mL), by CD4+ cell count (&lt; 50 cells/μL, 50 -199 cells/μL, or ≥ 200 cells/μL), and by region (US or ex-US).
-
-c Includes patients who had ≥ 50 copies/mL in the Week 48 or 144 window; patients who discontinued early due to lack or loss of efficacy; patients who discontinued for reasons other than an adverse event (AE), death or lack or loss of efficacy and at the time of discontinuation had a viral value of ≥ 50 copies/mL.
-
-d Includes patients who discontinued due to AE or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window.
-
-e Includes patients who discontinued for reasons other than an AE, death or lack or loss of efficacy; e.g., withdrew consent, loss to follow-up, etc.
-
-The mean increase from baseline in CD4+ cell count was 230 cells/mm 3 in patients receiving E/C/F/TAF and 211 cells/mm 3  in patients receiving E/C/F/TDF (p = 0.024) at Week 48, and 326 cells/mm 3 in E/C/F/TAF-treated patients and 305 cells/mm 3 in E/C/F/TDF-treated patients (p = 0.06) at Week 144.
+The mean increase from baseline in CD4+ cell count was 230 cells/mm 3 in patients receiving E/C/F/TAF and 211 cells/mm 3 in patients receiving E/C/F/TDF (p = 0.024) at Week 48, and 326 cells/mm 3 in E/C/F/TAF-treated patients and 305 cells/mm 3 in E/C/F/TDF-treated patients (p = 0.06) at Week 144.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -532,7 +520,7 @@ Table 5: Virological outcomes of Study GS-US-299-0102 at Week 24 and 48 a
 |                                                                                            | D/C/F/TAF (n = 103)             | Darunavir, cobicistat and emtricitabine/tenof ovir disoproxil fumarate (n = 50) | D/C/F/TAF (n = 103)             | Darunavir, cobicistat and emtricitabine/tenof ovir disoproxil fumarate (n = 50) |
 | HIV-1 RNA < 50 copies/mL                                                                   | 75%                             | 74%                                                                             | 77%                             | 84%                                                                             |
 | Treatment difference                                                                       | 3.3% (95% CI: -11.4% to 18.1%)  | 3.3% (95% CI: -11.4% to 18.1%)                                                  | -6.2% (95% CI: -19.9% to 7.4%)  | -6.2% (95% CI: -19.9% to 7.4%)                                                  |
-| HIV- 1 RNA ≥ 50 copies/mL b                                                                | 20%                             | 24%                                                                             | 16%                             | 12%                                                                             |
+| HIV-1 RNA ≥ 50 copies/mL b                                                                 | 20%                             | 24%                                                                             | 16%                             | 12%                                                                             |
 | No virologic data at Week 48 window                                                        | 5%                              | 2%                                                                              | 8%                              | 4%                                                                              |
 | Discontinued study drug due to AE or death c                                               | 1%                              | 0                                                                               | 1%                              | 2%                                                                              |
 | Discontinued study drug due to other reasons and last available HIV-1 RNA < 50 copies/mL d | 4%                              | 2%                                                                              | 7%                              | 2%                                                                              |
@@ -556,7 +544,7 @@ Treatment outcomes of Study GS-US-311-1089 through 48 and 96 weeks are presented
 
 <div style=\"page-break-after: always\"></div>
 
-Table 6: Virological outcomes of Study GS-US-311-1089 at Weeks 48 a  and 96 b
+Table 6: Virological outcomes of Study GS-US-311-1089 at Weeks 48 a and 96 b
 
 |                                                                                            | Week 48                                                                             | Week 48                                                                             | Week 96                                                                             | Week 96                                                                             |
 |--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
@@ -576,11 +564,13 @@ PI = protease inhibitor
 
 a Week 48 window was between Day 294 and 377 (inclusive).
 
+c Includes patients who had ≥ 50 copies/mL in the Week 48 or Week 96 window; patients who discontinued early due to lack or loss of efficacy; patients who discontinued for reasons other than an adverse event (AE), death or lack or loss of efficacy and at the time of discontinuation had a viral value of ≥ 50 copies/mL.
+
 b Week 96 window was between Day 630 and 713 (inclusive).
 
-- c Includes patients who had ≥ 50 copies/mL in the Week 48 or Week 96 window; patients who discontinued early due to lack or loss of efficacy; patients who discontinued for reasons other than an adverse event (AE), death or lack or loss of efficacy and at the time of discontinuation had a viral value of ≥ 50 copies/mL.
-- d Includes patients who discontinued due to AE or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window.
-- e Includes patients who discontinued for reasons other than an AE, death or lack or loss of efficacy; e.g., withdrew consent, loss to follow-up, etc.
+d Includes patients who discontinued due to AE or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window.
+
+e Includes patients who discontinued for reasons other than an AE, death or lack or loss of efficacy; e.g., withdrew consent, loss to follow-up, etc.
 
 In Study GS-US-311-1717, patients who were virologically suppressed (HIV-1 RNA &lt;50 copies/mL) on their abacavir/lamivudine containing regimen for at least 6 months were randomised in a 1:1 ratio to either switch to Emtricitabine/Tenofovir alafenamide (N=280) while maintaining their third agent at baseline or stay on their baseline abacavir/lamivudine containing regimen (N=276).
 
@@ -644,7 +634,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Absorption
 
-Emtricitabine is rapidly and extensively absorbed following oral administration with peak plasma concentrations occurring at 1 to 2 hours post-dose. Following multiple dose oral administration of emtricitabine to 20 HIV-1 infected subjects, the (mean ± SD) steady state plasma emtricitabine peak concentrations (Cmax) were 1.8 ± 0.7 μg/mL and the area -under the plasma concentration-time curve over a 24-hour dosing interval (AUC) was 10.0 ± 3.1 μg·h/mL. The mean steady state plasma trough concentration at 24 hours post-dose was equal to or greater than the mean in vitro IC90 value for anti-HIV-1 activity.
+Emtricitabine is rapidly and extensively absorbed following oral administration with peak plasma concentrations occurring at 1 to 2 hours post-dose. Following multiple dose oral administration of emtricitabine to 20 HIV-1 infected subjects, the (mean ± SD) steady state plasma emtricitabine peak concentrations (Cmax ) were 1.8 ± 0.7 μg/mL and the area-under the plasma concentration-time curve over a 24-hour dosing interval (AUC) was 10.0 ± 3.1 μg·h/mL. The mean steady state plasma trough concentration at 24 hours post-dose was equal to or greater than the mean in vitro IC90 value for anti-HIV-1 activity.
 
 Emtricitabine systemic exposure was unaffected when emtricitabine was administered with food.
 
@@ -660,7 +650,7 @@ In vitro binding of tenofovir to human plasma proteins is &lt; 0.7% and is indep
 
 ## Biotransformation
 
-In vitro studies indicate that emtricitabine is not an inhibitor of human CYP enzymes. Following administration of [14C]-emtricitabine, complete recovery of the emtricitabine dose was achieved in urine (~86%) and faeces (~14%). Thirteen percent of the dose was recovered in the urine as three putative metabolites. The biotransformation of emtricitabine includes oxidation of the thiol moiety to form the 3' -sulfoxide diastereomers (~9% of dose) and conjugation with glucuronic acid to form 2' -O-glucuronide (~4% of dose). No other metabolites were identifiable.
+In vitro studies indicate that emtricitabine is not an inhibitor of human CYP enzymes. Following administration of [14C]-emtricitabine, complete recovery of the emtricitabine dose was achieved in urine (~86%) and faeces (~14%). Thirteen percent of the dose was recovered in the urine as three putative metabolites. The biotransformation of emtricitabine includes oxidation of the thiol moiety to form the 3'-sulfoxide diastereomers (~9% of dose) and conjugation with glucuronic acid to form 2'-O-glucuronide (~4% of dose). No other metabolites were identifiable.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -765,7 +755,7 @@ Not applicable.
 
 Blisters
 
-21 Months
+2 years
 
 HDPE Bottle
 
@@ -777,7 +767,7 @@ Blisters
 
 Do not store above 30°C.
 
-## HDPE bottle
+HDPE bottle
 
 This medicinal product does not require any special temperature storage conditions.
 
@@ -809,9 +799,7 @@ Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 200 mg/10 mg film-coated tablets
 
-EU/1/25/1952/001
-
-EU/1/25/1952/002
+EU/1/25/1952/001 EU/1/25/1952/002
 
 <div style=\"page-break-after: always\"></div>
 
@@ -821,7 +809,7 @@ EU/1/25/1952/003 EU/1/25/1952/004 EU/1/25/1952/005 EU/1/25/1952/006 EU/1/25/1952
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: {DD Month YYYY}
+Date of first authorisation: 18 July 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -854,20 +842,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -914,7 +902,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -922,11 +910,19 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Viatris Limited
+
+Damastown Industrial Park,
+
+Mulhuddart, Dublin 15,
+
+DUBLIN
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -940,17 +936,17 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Emtricitabine/Tenofovir alafenamide Viatris 200 mg/10 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
@@ -983,9 +979,7 @@ Each film coated tablet contains 200 mg of emtricitabine and tenofovir alafenami
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use.
+Read the package leaflet before use. Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1001,8 +995,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1010,21 +1003,18 @@ Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1952/001
-
-EU/1/25/1952/002
+EU/1/25/1952/001 EU/1/25/1952/002
 
 ## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER -2D BARCODE
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+17. UNIQUE IDENTIFIER - 2D BARCODE
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1063,7 +1053,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -1073,11 +1063,19 @@ Do not store above 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Viatris Limited
+
+Damastown Industrial Park,
+
+Mulhuddart, Dublin 15,
+
+DUBLIN
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1101,7 +1099,7 @@ Lot
 
 Emtricitabine/Tenofovir alafenamide Viatris 200 mg/25 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1113,29 +1111,36 @@ SN
 
 NN
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTERS
+<div style=\"page-break-after: always\"></div>
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Emtricitabine/Tenofovir alafenamide Viatris 200 mg/25 mg film-coated tablets emtricitabine/tenofovir alafenamide
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Viatris Limited
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 BUD: Oral use
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1180,17 +1185,23 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Viatris Limited
+
+Damastown Industrial Park,
+
+Mulhuddart, Dublin 15,
+
+DUBLIN
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1952/007
-
-EU/1/25/1952/008
+EU/1/25/1952/007 EU/1/25/1952/008
 
 ## 13. BATCH NUMBER
 
@@ -1198,17 +1209,17 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Emtricitabine/Tenofovir alafenamide Viatris 200 mg/25 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
@@ -1241,9 +1252,7 @@ Each film coated tablet contains 200 mg of emtricitabine and tenofovir alafenami
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use.
+Read the package leaflet before use. Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1251,7 +1260,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -1259,8 +1268,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1268,21 +1276,18 @@ Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1952/007
-
-EU/1/25/1952/008
+EU/1/25/1952/007 EU/1/25/1952/008
 
 ## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER -2D BARCODE
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+17. UNIQUE IDENTIFIER - 2D BARCODE
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1314,8 +1319,8 @@ Emtricitabine/Tenofovir alafenamide Viatris 200 mg/10 mg film-coated tablets Emt
 
 Emtricitabine/Tenofovir alafenamide Viatris contains two active substances:
 
-- emtricitabine, an antiretroviral medicine of a type known as a nucleoside reverse transcriptase inhibitor (NRTI)
-- tenofovir alafenamide, an antiretroviral medicine of a type known as a nucleotide reverse transcriptase inhibitor (NtRTI)
+-  emtricitabine, an antiretroviral medicine of a type known as a nucleoside reverse transcriptase inhibitor (NRTI)
+-  tenofovir alafenamide, an antiretroviral medicine of a type known as a nucleotide reverse transcriptase inhibitor (NtRTI)
 
 Emtricitabine/Tenofovir alafenamide Viatris blocks the action of the reverse transcriptase enzyme, which is essential for the virus to multiply. Emtricitabine/Tenofovir alafenamide Viatris, therefore, reduces the amount of HIV in your body.
 
@@ -1325,7 +1330,7 @@ Emtricitabine/Tenofovir alafenamide Viatris in combination with other medicines 
 
 ## Do not take Emtricitabine/Tenofovir alafenamide Viatris
 
-- If you are allergic to emtricitabine, tenofovir alafenamide or any of the other ingredients of this medicine (listed in section 6 of this leaflet).
+-  If you are allergic to emtricitabine, tenofovir alafenamide or any of the other ingredients of this medicine (listed in section 6 of this leaflet).
 
 ## Warnings and precautions
 
@@ -1337,19 +1342,19 @@ This medicine is not a cure for HIV infection. While taking Emtricitabine/Tenofo
 
 ## Talk to your doctor before taking Emtricitabine/Tenofovir alafenamide Viatris:
 
-- If you have liver problems or have suffered liver disease, including hepatitis. Patients with liver disease including chronic hepatitis B or C, who are treated with antiretrovirals, have a higher risk of severe and potentially fatal liver complications. If you have hepatitis B infection, your doctor will carefully consider the best treatment regimen for you.
+-  If you have liver problems or have suffered liver disease, including hepatitis. Patients with liver disease including chronic hepatitis B or C, who are treated with antiretrovirals, have a higher risk of severe and potentially fatal liver complications. If you have hepatitis B infection, your doctor will carefully consider the best treatment regimen for you.
 
 If you have hepatitis B infection , liver problems may become worse after you stop taking Emtricitabine/Tenofovir alafenamide Viatris. Do not stop taking Emtricitabine/Tenofovir alafenamide Viatris without talking to your doctor: see section 3, Do not stop taking Emtricitabine/Tenofovir alafenamide Viatris .
 
-- Your doctor may choose to not prescribe Emtricitabine/Tenofovir alafenamide Viatris to you if your virus has a certain resistance mutation, as Emtricitabine/Tenofovir alafenamide Viatris may not be able to reduce the amount of HIV in your body as effectively.
-- If you have had kidney disease or if tests have shown problems with your kidneys. Your doctor may order blood tests to monitor how your kidneys work when starting and during treatment with Emtricitabine/Tenofovir alafenamide Viatris.
+-  Your doctor may choose to not prescribe Emtricitabine/Tenofovir alafenamide Viatris to you if your virus has a certain resistance mutation, as Emtricitabine/Tenofovir alafenamide Viatris may not be able to reduce the amount of HIV in your body as effectively.
+-  If you have had kidney disease or if tests have shown problems with your kidneys. Your doctor may order blood tests to monitor how your kidneys work when starting and during treatment with Emtricitabine/Tenofovir alafenamide Viatris.
 
 ## While you are taking Emtricitabine/Tenofovir alafenamide Viatris
 
 Once you start taking Emtricitabine/Tenofovir alafenamide Viatris, look out for:
 
-- Signs of inflammation or infection
-- Joint pain, stiffness or bone problems
+-  Signs of inflammation or infection
+-  Joint pain, stiffness or bone problems
 - → If you notice any of these symptoms, tell your doctor immediately. For more information see section 4, Possible side effects .
 
 There is a possibility that you may experience kidney problems when taking Emtricitabine/Tenofovir alafenamide Viatris over a long period of time (see Warnings and precautions) .
@@ -1368,30 +1373,30 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 You should not take Emtricitabine/Tenofovir alafenamide Viatris with medicines containing:
 
-- tenofovir alafenamide
-- tenofovir disoproxil
-- lamivudine
-- adefovir dipivoxil
+-  tenofovir alafenamide
+-  tenofovir disoproxil
+-  lamivudine
+-  adefovir dipivoxil
 - → Tell your doctor if you are taking any of these medicines.
 
 ## Other types of medicine:
 
 Talk to your doctor if you are taking:
 
-- antibiotics, used to treat bacterial infections including tuberculosis, containing:
+-  antibiotics, used to treat bacterial infections including tuberculosis, containing:
 - -rifabutin, rifampicin, and rifapentine
-- antiviral medicines used to treat HIV :
+-  antiviral medicines used to treat HIV :
 - -emtricitabine and tipranavir
-- anticonvulsants, used to treat epilepsy, such as:
+-  anticonvulsants, used to treat epilepsy, such as:
 - -carbamazepine, oxcarbazepine, phenobarbital and phenytoin
-- herbal remedies used to treat depression and anxiety containing:
+-  herbal remedies used to treat depression and anxiety containing:
 - -St. John's wort ( Hypericum perforatum )
 - → Tell your doctor if you are taking these or any other medicines. Do not stop your treatment without contacting your doctor.
 
 ## Pregnancy and breast-feeding
 
-- If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
-- Tell your doctor immediately if you become pregnant and ask about the potential benefits and risks of your antiretroviral therapy to you and your child.
+-  If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
+-  Tell your doctor immediately if you become pregnant and ask about the potential benefits and risks of your antiretroviral therapy to you and your child.
 
 If you have taken Emtricitabine/Tenofovir alafenamide Viatris during your pregnancy, your doctor may request regular blood tests and other diagnostic tests to monitor the development of your child. In children whose mothers took NRTIs during pregnancy, the benefit from the protection against HIV outweighed the risk of side effects.
 
@@ -1409,7 +1414,7 @@ Emtricitabine/Tenofovir alafenamide Viatris can cause dizziness. If you feel diz
 
 ## Emtricitabine/Tenofovir alafenamide Viatris contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1421,7 +1426,9 @@ Always take this medicine exactly as your doctor has told you. Check with your d
 
 Adults: one tablet each day, with or without food Adolescents 12 years of age and older, who weigh at least 35 kg: one tablet each day with or without food
 
-It is recommended not to chew or crush the tablet due to the bitter taste. If you have difficulty swallowing the tablet whole, you can split it in half. Take both halves of the tablet one after the other to get the full dose. Do not store the split tablet.
+It is recommended not to chew or crush the tablet due to the bitter taste.
+
+If you have difficulty swallowing the tablet whole, you can split it in half. Take both halves of the tablet one after the other to get the full dose. Do not store the split tablet.
 
 Always take the dose recommended by your doctor. This is to make sure that your medicine is fully effective, and to reduce the risk of developing resistance to the treatment. Do not change the dose unless your doctor tells you to.
 
@@ -1439,8 +1446,9 @@ It is important not to miss a dose of Emtricitabine/Tenofovir alafenamide Viatri
 
 ## If you do miss a dose:
 
-- If you notice within 18 hours of the time you usually take Emtricitabine/Tenofovir alafenamide Viatris, you must take the tablet as soon as possible. Then take the next dose as usual.
-- If you notice 18 hours or more after the time you usually take Emtricitabine/Tenofovir alafenamide Viatris, then do not take the missed dose. Wait and take the next dose at your usual time.
+-  If you notice within 18 hours of the time you usually take Emtricitabine/Tenofovir alafenamide Viatris, you must take the tablet as soon as possible. Then take the next dose as usual.
+-  If you notice 18 hours or more after the time you usually take
+- Emtricitabine/Tenofovir alafenamide Viatris, then do not take the missed dose. Wait and take the next dose at your usual time.
 
 ## If you vomit less than 1 hour after taking Emtricitabine/Tenofovir alafenamide Viatris, take another tablet.
 
@@ -1448,7 +1456,9 @@ It is important not to miss a dose of Emtricitabine/Tenofovir alafenamide Viatri
 
 Do not stop taking Emtricitabine/Tenofovir alafenamide Viatris without talking to your doctor. Stopping Emtricitabine/Tenofovir alafenamide Viatris can seriously affect how well future treatment works. If Emtricitabine/Tenofovir alafenamide Viatris is stopped for any reason, speak to your doctor before you restart taking Emtricitabine/Tenofovir alafenamide Viatris tablets.
 
-When your supply of Emtricitabine/Tenofovir alafenamide Viatris starts to run low, get more from your doctor or pharmacist. This is very important because the amount of virus may start to increase if the medicine is stopped for even a few days. The disease may then become harder to treat.
+When your supply of Emtricitabine/Tenofovir alafenamide Viatris starts to run low, get
+
+more from your doctor or pharmacist. This is very important because the amount of virus may start to increase if the medicine is stopped for even a few days. The disease may then become harder to treat.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1464,8 +1474,8 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Possible serious side effects: tell a doctor immediately
 
-- Any signs of inflammation or infection. In some patients with advanced HIV infection (AIDS) and who have had opportunistic infections in the past (infections that occur in people with a weak immune system), signs and symptoms of inflammation from previous infections may occur soon after antiretroviral treatment is started. It is thought that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
-- Autoimmune disorders (the immune system attacks healthy body tissue), may also occur after you start taking medicines for HIV infection. Autoimmune disorders may occur many months after the start of treatment. Look out for any symptoms of infection or other symptoms such as:
+-  Any signs of inflammation or infection. In some patients with advanced HIV infection (AIDS) and who have had opportunistic infections in the past (infections that occur in people with a weak immune system), signs and symptoms of inflammation from previous infections may occur soon after antiretroviral treatment is started. It is thought that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
+-  Autoimmune disorders (the immune system attacks healthy body tissue), may also occur after you start taking medicines for HIV infection. Autoimmune disorders may occur many months after the start of treatment. Look out for any symptoms of infection or other symptoms such as:
 - -muscle weakness
 - -weakness beginning in the hands and feet and moving up towards the trunk of the body
 - -palpitations, tremor or hyperactivity
@@ -1475,21 +1485,21 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ( may affect more than 1 in 10 people )
 
-- feeling sick ( nausea )
+-  feeling sick ( nausea )
 
 ## Common side effects
 
 ( may affect up to 1 in 10 people )
 
-- abnormal dreams
-- headache
-- dizziness
-- diarrhoea
-- vomiting
-- stomach pain
-- wind ( flatulence )
-- rash
-- tiredness ( fatigue )
+-  abnormal dreams
+-  headache
+-  dizziness
+-  diarrhoea
+-  vomiting
+-  stomach pain
+-  wind ( flatulence )
+-  rash
+-  tiredness ( fatigue )
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1497,19 +1507,19 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ( may affect up to 1 in 100 people )
 
-- low red blood cell count ( anaemia )
-- problems with digestion resulting in discomfort after meals ( dyspepsia )
-- swelling of the face, lips, tongue or throat ( angioedema )
-- itching ( pruritus )
-- hives (urticaria)
-- joint pain (arthralgia)
+-  low red blood cell count ( anaemia )
+-  problems with digestion resulting in discomfort after meals ( dyspepsia )
+-  swelling of the face, lips, tongue or throat ( angioedema )
+-  itching ( pruritus )
+-  joint pain (arthralgia)
+-  hives (urticaria)
 - → If any of the side effects get serious tell your doctor.
 
 ## Other effects that may be seen during HIV treatment
 
 The frequency of the following side effects is not known (frequency cannot be estimated from the available data).
 
-- Bone problems. Some patients taking combination antiretroviral medicines such as Emtricitabine/Tenofovir alafenamide Viatris may develop a bone disease called osteonecrosis (death of bone tissue caused by loss of blood supply to the bone). Taking this type of medicine for a long time, taking corticosteroids, drinking alcohol, having a very weak immune system, and being overweight, may be some of the many risk factors for developing this disease. Signs of osteonecrosis are:
+-  Bone problems. Some patients taking combination antiretroviral medicines such as Emtricitabine/Tenofovir alafenamide Viatris may develop a bone disease called osteonecrosis (death of bone tissue caused by loss of blood supply to the bone). Taking this type of medicine for a long time, taking corticosteroids, drinking alcohol, having a very weak immune system, and being overweight, may be some of the many risk factors for developing this disease. Signs of osteonecrosis are:
 - -joint stiffness
 - -joint aches and pains (especially of the hip, knee and shoulder)
 - -difficulty with movement
@@ -1525,7 +1535,7 @@ If you get any side effects, talk to your doctor, or pharmacist. This includes a
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton and bottle after ' EXP ' .The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton and bottle after 'EXP'.The expiry date refers to the last day of that month.
 
 Blisters: Do not store above 30°C.
 
@@ -1539,13 +1549,13 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Emtricitabine/Tenofovir alafenamide Viatris contains
 
-## The active substances are emtricitabine and tenofovir alafenamide.
+The active substances are emtricitabine and tenofovir alafenamide.
 
 Each Emtricitabine/Tenofovir alafenamide Viatris film-coated tablet contains 200 mg of emtricitabine and tenofovir alafenamide monofumarate equivalent to 10 mg of tenofovir alafenamide or 200 mg of emtricitabine and tenofovir alafenamide monofumarate equivalent to 25 mg of tenofovir alafenamide.
 
 ## The other ingredients are
 
-Tablet core:
+## Tablet core:
 
 Microcrystalline cellulose, croscarmellose sodium, magnesium stearate.
 
@@ -1555,9 +1565,9 @@ Poly (vinyl alcohol) partially hydrolyzed, Titanium dioxide (E171), Black iron o
 
 ## What Emtricitabine/Tenofovir alafenamide Viatris looks like and contents of the pack
 
-Emtricitabine/Tenofovir alafenamide Viatris 200 mg/10 mg film-coated tablets (tablets) are grey, film-coated, rectangle shaped, beveled edge, biconvex of dimensions (approximately 15 mm x 7 mm) debossed with ' ET 1 ' on one side of the tablet and V on the other side.
+Emtricitabine/Tenofovir alafenamide Viatris 200 mg/10 mg film-coated tablets (tablets) are grey, film-coated, rectangle shaped, beveled edge, biconvex of dimensions (approximately 15 mm x 7 mm) debossed with 'ET 1' on one side of the tablet and V on the other side.
 
-Emtricitabine/Tenofovir alafenamide Viatris 200 mg/25 mg film-coated tablets (tablets) are blue, film-coated, rectangle shaped, beveled edge, biconvex of dimensions (approximately 15 mm x 7 mm) debossed with ' ET 2 ' on one side of the tablet and V on the other side.
+Emtricitabine/Tenofovir alafenamide Viatris 200 mg/25 mg film-coated tablets (tablets) are blue, film-coated, rectangle shaped, beveled edge, biconvex of dimensions (approximately 15 mm x 7 mm) debossed with 'ET 2' on one side of the tablet and V on the other side.
 
 Emtricitabine/Tenofovir alafenamide Viatris comes in bottles of 30 and 90 film-coated tablets (with a silica gel desiccant that must be kept in the bottle to help protect your tablets). The silica gel desiccant is contained in a separate sachet or canister and should not be swallowed.
 
@@ -1589,11 +1599,9 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 Майлан ЕООД
 
-Тел
+Тел.: +359 2 44 55 400
 
-.: +359 2 44 55 400
-
-## Č eská republika
+## Česká republika
 
 Viatris CZ s.r.o.
 
@@ -1621,9 +1629,7 @@ Tel: + 372 6363 052
 
 Viatris Hellas Ltd
 
-Τηλ
-
-: +30 2100 100 002
+Τηλ: +30 2100 100 002
 
 ## España
 
@@ -1739,9 +1745,7 @@ Tel: + 39 (0) 2 612 46921
 
 ## Κύπρος
 
-CPO Pharmaceuticals Limited
-
-Τηλ: +357 22863100
+CPO Pharmaceuticals Limited Τηλ: +357 22863100
 
 ## Latvija
 

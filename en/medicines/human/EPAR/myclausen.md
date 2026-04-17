@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 13:58:12
+document_datetime: 2026-04-10 10:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/myclausen.html
 document_name: myclausen.html
 version: success
-processing_time: 0.1147986
-conversion_datetime: 2025-12-31 05:20:01.669546
+processing_time: 0.1198416
+conversion_datetime: 2026-04-17 15:42:24.753529
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Myclausen
 
 [RSS](/en/individual-human-medicine.xml/67082)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-mycophenolate mofetil Medicine Human Authorised
+mycophenolate mofetil
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -104,263 +104,135 @@ Myclausen : EPAR - Summary for the public
 
 English (EN) (49.91 KB - PDF)
 
-**First published:** 14/10/2010
-
-**Last updated:** 25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/en/documents/overview/myclausen-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-517)
+[Other languages (21)](#file-language-dropdown-859)
 
 български (BG) (146.22 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/bg/documents/overview/myclausen-epar-summary-public_bg.pdf)
 
 español (ES) (114.05 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/es/documents/overview/myclausen-epar-summary-public_es.pdf)
 
 čeština (CS) (138.55 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/cs/documents/overview/myclausen-epar-summary-public_cs.pdf)
 
 dansk (DA) (50.04 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/da/documents/overview/myclausen-epar-summary-public_da.pdf)
 
 Deutsch (DE) (52.3 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/de/documents/overview/myclausen-epar-summary-public_de.pdf)
 
 eesti keel (ET) (124.22 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/et/documents/overview/myclausen-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (150.54 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/el/documents/overview/myclausen-epar-summary-public_el.pdf)
 
 français (FR) (111.96 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/fr/documents/overview/myclausen-epar-summary-public_fr.pdf)
 
 italiano (IT) (114.3 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/it/documents/overview/myclausen-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (137.46 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/lv/documents/overview/myclausen-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (134.79 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/lt/documents/overview/myclausen-epar-summary-public_lt.pdf)
 
 magyar (HU) (133.89 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/hu/documents/overview/myclausen-epar-summary-public_hu.pdf)
 
 Malti (MT) (183.81 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/mt/documents/overview/myclausen-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (116.27 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/nl/documents/overview/myclausen-epar-summary-public_nl.pdf)
 
 polski (PL) (136.93 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/pl/documents/overview/myclausen-epar-summary-public_pl.pdf)
 
 português (PT) (109.56 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/pt/documents/overview/myclausen-epar-summary-public_pt.pdf)
 
 română (RO) (134.38 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/ro/documents/overview/myclausen-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (135.82 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/sk/documents/overview/myclausen-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (73.55 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/sl/documents/overview/myclausen-epar-summary-public_sl.pdf)
 
 Suomi (FI) (108.54 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/fi/documents/overview/myclausen-epar-summary-public_fi.pdf)
 
 svenska (SV) (49.52 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-25/11/2011
+**First published:** 14/10/2010 **Last updated:** 25/11/2011
 
 [View](/sv/documents/overview/myclausen-epar-summary-public_sv.pdf)
 
@@ -368,305 +240,161 @@ svenska (SV) (49.52 KB - PDF)
 
 Myclausen : EPAR - Product Information
 
-English (EN) (630.64 KB - PDF)
+English (EN) (871.86 KB - PDF)
 
-**First published:** 14/10/2010
-
-**Last updated:** 11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/en/documents/product-information/myclausen-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-557)
+[Other languages (24)](#file-language-dropdown-422)
 
-български (BG) (882.69 KB - PDF)
+български (BG) (1008.21 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/bg/documents/product-information/myclausen-epar-product-information_bg.pdf)
 
-español (ES) (709.78 KB - PDF)
+español (ES) (1 MB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/es/documents/product-information/myclausen-epar-product-information_es.pdf)
 
-čeština (CS) (802.98 KB - PDF)
+čeština (CS) (967.84 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/cs/documents/product-information/myclausen-epar-product-information_cs.pdf)
 
-dansk (DA) (675.55 KB - PDF)
+dansk (DA) (869.69 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/da/documents/product-information/myclausen-epar-product-information_da.pdf)
 
-Deutsch (DE) (692.86 KB - PDF)
+Deutsch (DE) (770.75 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/de/documents/product-information/myclausen-epar-product-information_de.pdf)
 
-eesti keel (ET) (666.76 KB - PDF)
+eesti keel (ET) (912.3 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/et/documents/product-information/myclausen-epar-product-information_et.pdf)
 
-ελληνικά (EL) (923.24 KB - PDF)
+ελληνικά (EL) (911.1 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/el/documents/product-information/myclausen-epar-product-information_el.pdf)
 
-français (FR) (720.64 KB - PDF)
+français (FR) (990.22 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/fr/documents/product-information/myclausen-epar-product-information_fr.pdf)
 
-hrvatski (HR) (785.18 KB - PDF)
+hrvatski (HR) (896.32 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/hr/documents/product-information/myclausen-epar-product-information_hr.pdf)
 
-íslenska (IS) (638.84 KB - PDF)
+íslenska (IS) (859.09 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/is/documents/product-information/myclausen-epar-product-information_is.pdf)
 
-italiano (IT) (697.55 KB - PDF)
+italiano (IT) (938.89 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/it/documents/product-information/myclausen-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (768.11 KB - PDF)
+latviešu valoda (LV) (985.53 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/lv/documents/product-information/myclausen-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (744.01 KB - PDF)
+lietuvių kalba (LT) (1.02 MB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/lt/documents/product-information/myclausen-epar-product-information_lt.pdf)
 
-magyar (HU) (784.5 KB - PDF)
+magyar (HU) (809.79 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/hu/documents/product-information/myclausen-epar-product-information_hu.pdf)
 
-Malti (MT) (845.33 KB - PDF)
+Malti (MT) (1.08 MB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/mt/documents/product-information/myclausen-epar-product-information_mt.pdf)
 
-Nederlands (NL) (668.54 KB - PDF)
+Nederlands (NL) (962.13 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/nl/documents/product-information/myclausen-epar-product-information_nl.pdf)
 
-norsk (NO) (622.38 KB - PDF)
+norsk (NO) (872.62 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/no/documents/product-information/myclausen-epar-product-information_no.pdf)
 
-polski (PL) (812.75 KB - PDF)
+polski (PL) (1.07 MB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/pl/documents/product-information/myclausen-epar-product-information_pl.pdf)
 
-português (PT) (710.05 KB - PDF)
+português (PT) (1.07 MB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/pt/documents/product-information/myclausen-epar-product-information_pt.pdf)
 
-română (RO) (836.79 KB - PDF)
+română (RO) (978.53 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/ro/documents/product-information/myclausen-epar-product-information_ro.pdf)
 
-slovenčina (SK) (792.88 KB - PDF)
+slovenčina (SK) (1.05 MB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/sk/documents/product-information/myclausen-epar-product-information_sk.pdf)
 
-slovenščina (SL) (881.89 KB - PDF)
+slovenščina (SL) (953.54 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/sl/documents/product-information/myclausen-epar-product-information_sl.pdf)
 
-Suomi (FI) (677.51 KB - PDF)
+Suomi (FI) (825.35 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/fi/documents/product-information/myclausen-epar-product-information_fi.pdf)
 
-svenska (SV) (799.13 KB - PDF)
+svenska (SV) (885.53 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-11/04/2024
+**First published:** 14/10/2010 **Last updated:** 10/04/2026
 
 [View](/sv/documents/product-information/myclausen-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00010550/202305 27/03/2024
+**Latest procedure affecting product information:** PSUR/0000296546
+
+26/03/2026
 
 icon globe
 
@@ -686,305 +414,177 @@ Myclausen : EPAR - All Authorised presentations
 
 English (EN) (34.17 KB - PDF)
 
-**First published:** 14/10/2010
-
-**Last updated:** 29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/en/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-497)
+[Other languages (24)](#file-language-dropdown-9)
 
 български (BG) (59.72 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/bg/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (34.65 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/es/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (37 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/cs/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (34.77 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/da/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (34.68 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/de/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (34.02 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/et/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (59.52 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/el/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (35.71 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/fr/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (78.69 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/hr/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (34.87 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/is/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (33.8 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/it/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (56.28 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/lv/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (55.83 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/lt/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (57.63 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/hu/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (56.58 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/mt/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (33.68 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/nl/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (34.44 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/no/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (56.3 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/pl/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (34.72 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/pt/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (54.86 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/ro/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (58.21 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/sk/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (55.34 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/sl/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (33.9 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/fi/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (35.31 KB - PDF)
 
-**First published:**
-
-14/10/2010
-
-**Last updated:**
-
-29/02/2016
+**First published:** 14/10/2010 **Last updated:** 29/02/2016
 
 [View](/sv/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Myclausen Active substance mycophenolate mofetil International non-proprietary name (INN) or common name mycophenolate mofetil Therapeutic area (MeSH) Graft Rejection Anatomical therapeutic chemical (ATC) code L04AA06
+Name of medicine
+
+Myclausen
+
+Active substance
+
+mycophenolate mofetil
+
+International non-proprietary name (INN) or common name
+
+mycophenolate mofetil
+
+Therapeutic area (MeSH)
+
+Graft Rejection
+
+Anatomical therapeutic chemical (ATC) code
+
+L04AA06
 
 ### Pharmacotherapeutic group
 
@@ -996,7 +596,9 @@ Myclausen is indicated in combination with ciclosporin and corticosteroids for t
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/001218
+EMA product number
+
+EMEA/H/C/001218
 
 Generic
 
@@ -1008,7 +610,13 @@ Passauer Pharma GmbH
 
 Eiderstedter Weg 3
 
-Marketing authorisation issued 07/10/2010 Revision 16
+Marketing authorisation issued
+
+07/10/2010
+
+Revision
+
+17
 
 ## Assessment history
 
@@ -1020,13 +628,29 @@ Collapse section
 
 Myclausen : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (209.66 KB - PDF)
+English (EN) (126.96 KB - PDF)
 
-**First published:** 07/03/2011
-
-**Last updated:** 11/04/2024
+**First published:** 10/04/2026
 
 [View](/en/documents/procedural-steps-after/myclausen-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Myclausen : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (209.66 KB - PDF)
+
+**First published:** 07/03/2011 **Last updated:** 10/04/2026
+
+[View](/en/documents/procedural-steps-after/myclausen-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Myclausen-PSUSA-00010550-202505 : Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-3063396
+
+English (EN) (187.87 KB - PDF)
+
+**First published:** 10/04/2026
+
+[View](/en/documents/scientific-conclusion/myclausen-psusa-00010550-202505-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Myclausen-PSUSA-00010550-202305  : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1064,9 +688,7 @@ Reference Number: EMA/187794/2018
 
 English (EN) (68.71 KB - PDF)
 
-**First published:** 04/04/2018
-
-**Last updated:** 04/04/2018
+**First published:** 04/04/2018 **Last updated:** 04/04/2018
 
 [View](/en/documents/scientific-conclusion/myclausen-psusa-00010550-201705-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
@@ -1076,37 +698,33 @@ Myclausen : EPAR - Public assessment report
 
 English (EN) (243.01 KB - PDF)
 
-**First published:** 14/10/2010
-
-**Last updated:** 14/10/2010
+**First published:** 14/10/2010 **Last updated:** 14/10/2010
 
 [View](/en/documents/assessment-report/myclausen-epar-public-assessment-report_en.pdf)
 
 CHMP positive summary of opinion for Myclausen
 
-Adopted
-
-Reference Number: EMA/CHMP/439259/2010
+Adopted Reference Number: EMA/CHMP/439259/2010
 
 English (EN) (51.48 KB - PDF)
 
-**First published:** 23/07/2010
-
-**Last updated:** 23/07/2010
+**First published:** 23/07/2010 **Last updated:** 23/07/2010
 
 [View](/en/documents/smop-initial/chmp-positive-summary-opinion-myclausen_en.pdf)
 
-#### News on Myclausen
+## News on Myclausen
 
-[Mycophenolate: updated recommendations for contraception for men and women](/en/news/mycophenolate-updated-recommendations-contraception-men-women) 15/12/2017
+[Mycophenolate: updated recommendations for contraception for men and women](/en/news/mycophenolate-updated-recommendations-contraception-men-women)
 
-#### Topics
+15/12/2017
+
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 11/04/2024
+**This page was last updated on**
+
+10/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

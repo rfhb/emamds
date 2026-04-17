@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:16:11
+document_datetime: 2026-04-15 12:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jorveza.html
 document_name: jorveza.html
 version: success
-processing_time: 0.1205835
-conversion_datetime: 2025-12-31 02:10:47.122064
+processing_time: 0.1159194
+conversion_datetime: 2026-04-17 15:35:21.77767
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Jorveza
 
 [RSS](/en/individual-human-medicine.xml/65600)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-budesonide Medicine Human Authorised
+budesonide
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -47,9 +47,9 @@ Page contents
 
 ## Overview
 
-Jorveza is a medicine used to treat adults with eosinophilic oesophagitis. Eosinophilic oesophagitis is inflammation of the oesophagus (the passage that leads from the mouth to the stomach), which causes symptoms such as dysphagia (difficulty swallowing) and blockage of the oesophagus. It is caused by a large build-up of white blood cells called eosinophils in the lining of the oesophagus.
+Jorveza is a medicine used to treat adults and children from the age of two years with eosinophilic oesophagitis. Eosinophilic oesophagitis is inflammation of the oesophagus (the passage that leads from the mouth to the stomach), which causes symptoms such as dysphagia (difficulty swallowing) and blockage of the oesophagus. It is caused by a large build-up of white blood cells called eosinophils in the lining of the oesophagus.
 
-Eosinophilic oesophagitis is rare, and Jorveza was designated an 'orphan medicine' (a medicine used in rare diseases) on 5 August 2013. Further information on the orphan designation can be found here: [ema.europa.eu/medicines/human/orphan-designations/eu3131181](/en/medicines/human/orphan-designations/eu-3-13-1181) .
+Eosinophilic oesophagitis is rare, and Jorveza was designated an 'orphan medicine' (a medicine used in rare diseases) on 5 August 2013.
 
 Jorveza contains the active substance budesonide.
 
@@ -71,27 +71,31 @@ For more information about using Jorveza, see the package leaflet or contact you
 
 The active substance in Jorveza, budesonide, is a corticosteroid. Corticosteroids attach to targets (receptors) on immune cells and reduce the release of substances that lead to inflammation.
 
-After Jorveza dissolves in the mouth, the saliva carries it to the oesophagus where it reduces the inflammation and relieves the symptoms of eosinophilic oesophagitis.
+Budesonide acts in the oesophagus where it reduces the inflammation and relieves the symptoms of eosinophilic oesophagitis.
 
 ## What benefits of Jorveza have been shown in studies?
 
 Jorveza was effective in two main studies involving 292 adults with eosinophilic oesophagitis.
 
-In the first study involving 88 patients with active eosinophilic oesophagitis, treatment with 1 mg of Jorveza twice a day was compared with placebo (a dummy treatment). The main measure of effectiveness was the level of eosinophils in the oesophagus and improvement in symptoms. After 6 weeks, around 58% of the patients taking Jorveza had reduced eosinophil levels and no symptoms or only minimal symptoms, whereas none of the patients taking placebo had these effects.
+In the first study involving 88 adults with active eosinophilic oesophagitis, treatment with Jorveza (orodispersible tablets) twice a day was compared with placebo (a dummy treatment). The main measure of effectiveness was the level of eosinophils in the oesophagus and improvement in symptoms. After 6 weeks, around 58% of the patients taking Jorveza had reduced eosinophil levels and no symptoms or only minimal symptoms, whereas none of the patients taking placebo had these effects.
 
-In the second study, involving 204 patients whose symptoms of eosinophilic oesophagitis were under control, treatment with 0.5 mg or 1 mg Jorveza twice a day was compared with placebo. After 48 weeks, symptoms were satisfactorily controlled in around 74% of patients taking 0.5 mg Jorveza twice a day and 75% of those taking 1 mg twice a day, compared with 4% in those receiving placebo.
+In the second study, involving 204 adults whose symptoms of eosinophilic oesophagitis were under control, treatment with a low- and a high-dose of Jorveza (orodispersible tablets) twice a day was compared with placebo. After 48 weeks, symptoms were satisfactorily controlled in around 74% of patients taking low-dose Jorveza twice a day, and in 75% of those taking a higher dose twice a day, compared with 4% of those receiving placebo.
 
-## What are the risks associated with Jorveza?
+A third study involving 76 children aged two years and above with eosinophilic oesophagitis compared Jorveza oral suspension with placebo. After 12 weeks, around 46% of children receiving a low dose of Jorveza and 69% of those receiving a high dose had reduced eosinophil levels and no symptoms or only minimal symptoms. This outcome was not seen in children receiving placebo.
 
-The most common side effects with Jorveza (which may affect more than 1 in 10 people) are fungal infections in the mouth, pharynx (throat) and oesophagus.
+Studies carried out with Jorveza are described in more detail in the medicine's assessment reports.
+
+## What are the side effects and restrictions with Jorveza?
 
 For the full list of side effects and restrictions with Jorveza, see the package leaflet.
+
+The most common side effects with Jorveza (which may affect more than 1 in 10 people) include fungal infections in the mouth, pharynx (throat) and oesophagus.
 
 ## Why is Jorveza authorised in the EU?
 
 The European Medicines Agency decided that Jorveza's benefits are greater than its risks and it can be authorised for use in the EU.
 
-Patients with eosinophilic oesophagitis often do not have other treatment options. The Agency concluded that Jorveza improves the symptoms of eosinophilic oesophagitis and reduces the excess of eosinophils. Jorveza is also effective in preventing recurrent episodes of the disease. Side effects of Jorveza, which mainly affect the mouth and throat, are manageable.
+Patients with eosinophilic oesophagitis often do not have other treatment options. The Agency concluded that Jorveza improves the symptoms of eosinophilic oesophagitis in adults and children and reduces the excess of eosinophils. Jorveza is also effective in preventing recurrent episodes of the disease. Side effects of Jorveza, which mainly affect the mouth and throat, are manageable.
 
 ## What measures are being taken to ensure the safe and effective use of Jorveza?
 
@@ -103,595 +107,317 @@ As for all medicines, data on the use of Jorveza are continuously monitored. Sid
 
 Jorveza received a marketing authorisation valid throughout the EU on 8 January 2018.
 
-Jorveza : EPAR - Summary for the public
+Jorveza : EPAR - Medicine overview
 
-Reference Number: EMA/170647/2020
+Reference Number: EMADOC-1829012207-45570
 
-English (EN) (116.76 KB - PDF)
+English (EN) (124.48 KB - PDF)
 
-**First published:** 18/01/2018
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-**Last updated:** 04/06/2020
+[View](/en/documents/overview/jorveza-epar-medicine-overview_en.pdf)
 
-[View](/en/documents/overview/jorveza-epar-summary-public_en.pdf)
+[Other languages (22)](#file-language-dropdown-229)
 
-[Other languages (22)](#file-language-dropdown-262)
+български (BG) (149.57 KB - PDF)
 
-български (BG) (121.48 KB - PDF)
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-**First published:**
+[View](/bg/documents/overview/jorveza-epar-medicine-overview_bg.pdf)
 
-18/01/2018
+español (ES) (124.37 KB - PDF)
 
-**Last updated:**
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-04/06/2020
+[View](/es/documents/overview/jorveza-epar-medicine-overview_es.pdf)
 
-[View](/bg/documents/overview/jorveza-epar-summary-public_bg.pdf)
+čeština (CS) (148.59 KB - PDF)
 
-español (ES) (99.32 KB - PDF)
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-**First published:**
+[View](/cs/documents/overview/jorveza-epar-medicine-overview_cs.pdf)
 
-18/01/2018
+dansk (DA) (124.17 KB - PDF)
 
-**Last updated:**
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-04/06/2020
+[View](/da/documents/overview/jorveza-epar-medicine-overview_da.pdf)
 
-[View](/es/documents/overview/jorveza-epar-summary-public_es.pdf)
+Deutsch (DE) (127.46 KB - PDF)
 
-čeština (CS) (117.98 KB - PDF)
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-**First published:**
+[View](/de/documents/overview/jorveza-epar-medicine-overview_de.pdf)
 
-18/01/2018
+eesti keel (ET) (122.18 KB - PDF)
 
-**Last updated:**
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-04/06/2020
+[View](/et/documents/overview/jorveza-epar-medicine-overview_et.pdf)
 
-[View](/cs/documents/overview/jorveza-epar-summary-public_cs.pdf)
+ελληνικά (EL) (146.74 KB - PDF)
 
-dansk (DA) (98.14 KB - PDF)
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-**First published:**
+[View](/el/documents/overview/jorveza-epar-medicine-overview_el.pdf)
 
-18/01/2018
+français (FR) (125.91 KB - PDF)
 
-**Last updated:**
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-04/06/2020
+[View](/fr/documents/overview/jorveza-epar-medicine-overview_fr.pdf)
 
-[View](/da/documents/overview/jorveza-epar-summary-public_da.pdf)
+hrvatski (HR) (146.02 KB - PDF)
 
-Deutsch (DE) (99.63 KB - PDF)
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-**First published:**
+[View](/hr/documents/overview/jorveza-epar-medicine-overview_hr.pdf)
 
-18/01/2018
+italiano (IT) (123.2 KB - PDF)
 
-**Last updated:**
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-04/06/2020
+[View](/it/documents/overview/jorveza-epar-medicine-overview_it.pdf)
 
-[View](/de/documents/overview/jorveza-epar-summary-public_de.pdf)
+latviešu valoda (LV) (161.69 KB - PDF)
 
-eesti keel (ET) (96.76 KB - PDF)
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-**First published:**
+[View](/lv/documents/overview/jorveza-epar-medicine-overview_lv.pdf)
 
-18/01/2018
+lietuvių kalba (LT) (146.65 KB - PDF)
 
-**Last updated:**
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-04/06/2020
+[View](/lt/documents/overview/jorveza-epar-medicine-overview_lt.pdf)
 
-[View](/et/documents/overview/jorveza-epar-summary-public_et.pdf)
+magyar (HU) (145.97 KB - PDF)
 
-ελληνικά (EL) (128.17 KB - PDF)
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-**First published:**
+[View](/hu/documents/overview/jorveza-epar-medicine-overview_hu.pdf)
 
-18/01/2018
+Malti (MT) (148.3 KB - PDF)
 
-**Last updated:**
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-04/06/2020
+[View](/mt/documents/overview/jorveza-epar-medicine-overview_mt.pdf)
 
-[View](/el/documents/overview/jorveza-epar-summary-public_el.pdf)
+Nederlands (NL) (125.04 KB - PDF)
 
-français (FR) (99.83 KB - PDF)
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-**First published:**
+[View](/nl/documents/overview/jorveza-epar-medicine-overview_nl.pdf)
 
-18/01/2018
+polski (PL) (149.18 KB - PDF)
 
-**Last updated:**
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-04/06/2020
+[View](/pl/documents/overview/jorveza-epar-medicine-overview_pl.pdf)
 
-[View](/fr/documents/overview/jorveza-epar-summary-public_fr.pdf)
+português (PT) (124.56 KB - PDF)
 
-hrvatski (HR) (113.31 KB - PDF)
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-**First published:**
+[View](/pt/documents/overview/jorveza-epar-medicine-overview_pt.pdf)
 
-18/01/2018
+română (RO) (142.64 KB - PDF)
 
-**Last updated:**
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-04/06/2020
+[View](/ro/documents/overview/jorveza-epar-medicine-overview_ro.pdf)
 
-[View](/hr/documents/overview/jorveza-epar-summary-public_hr.pdf)
+slovenčina (SK) (147.46 KB - PDF)
 
-italiano (IT) (99.1 KB - PDF)
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-**First published:**
+[View](/sk/documents/overview/jorveza-epar-medicine-overview_sk.pdf)
 
-18/01/2018
+slovenščina (SL) (145.88 KB - PDF)
 
-**Last updated:**
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-04/06/2020
+[View](/sl/documents/overview/jorveza-epar-medicine-overview_sl.pdf)
 
-[View](/it/documents/overview/jorveza-epar-summary-public_it.pdf)
+Suomi (FI) (121.79 KB - PDF)
 
-latviešu valoda (LV) (125.48 KB - PDF)
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-**First published:**
+[View](/fi/documents/overview/jorveza-epar-medicine-overview_fi.pdf)
 
-18/01/2018
+svenska (SV) (122.54 KB - PDF)
 
-**Last updated:**
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
-04/06/2020
+[View](/sv/documents/overview/jorveza-epar-medicine-overview_sv.pdf)
 
-[View](/lv/documents/overview/jorveza-epar-summary-public_lv.pdf)
+Jorveza : EPAR - Risk management plan
 
-lietuvių kalba (LT) (117.17 KB - PDF)
+English (EN) (666.59 KB - PDF)
 
-**First published:**
+**First published:** 04/06/2020 **Last updated:** 15/04/2026
 
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
-
-[View](/lt/documents/overview/jorveza-epar-summary-public_lt.pdf)
-
-magyar (HU) (113.19 KB - PDF)
-
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
-
-[View](/hu/documents/overview/jorveza-epar-summary-public_hu.pdf)
-
-Malti (MT) (117.44 KB - PDF)
-
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
-
-[View](/mt/documents/overview/jorveza-epar-summary-public_mt.pdf)
-
-Nederlands (NL) (99.64 KB - PDF)
-
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
-
-[View](/nl/documents/overview/jorveza-epar-summary-public_nl.pdf)
-
-polski (PL) (118.3 KB - PDF)
-
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
-
-[View](/pl/documents/overview/jorveza-epar-summary-public_pl.pdf)
-
-português (PT) (99.37 KB - PDF)
-
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
-
-[View](/pt/documents/overview/jorveza-epar-summary-public_pt.pdf)
-
-română (RO) (121.96 KB - PDF)
-
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
-
-[View](/ro/documents/overview/jorveza-epar-summary-public_ro.pdf)
-
-slovenčina (SK) (116.87 KB - PDF)
-
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
-
-[View](/sk/documents/overview/jorveza-epar-summary-public_sk.pdf)
-
-slovenščina (SL) (112.24 KB - PDF)
-
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
-
-[View](/sl/documents/overview/jorveza-epar-summary-public_sl.pdf)
-
-Suomi (FI) (98.74 KB - PDF)
-
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
-
-[View](/fi/documents/overview/jorveza-epar-summary-public_fi.pdf)
-
-svenska (SV) (97.97 KB - PDF)
-
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
-
-[View](/sv/documents/overview/jorveza-epar-summary-public_sv.pdf)
-
-Jorveza : EPAR - Risk-management-plan summary
-
-English (EN) (13.9 KB - PDF)
-
-**First published:** 04/06/2020
-
-[View](/en/documents/rmp-summary/jorveza-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/jorveza-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Jorveza : EPAR - Product Information
 
-English (EN) (212.29 KB - PDF)
+English (EN) (772.54 KB - PDF)
 
-**First published:** 18/01/2018
-
-**Last updated:** 06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/en/documents/product-information/jorveza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-797)
+[Other languages (24)](#file-language-dropdown-631)
 
-български (BG) (302.17 KB - PDF)
+български (BG) (871.08 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/bg/documents/product-information/jorveza-epar-product-information_bg.pdf)
 
-español (ES) (249.54 KB - PDF)
+español (ES) (785.32 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/es/documents/product-information/jorveza-epar-product-information_es.pdf)
 
-čeština (CS) (290.29 KB - PDF)
+čeština (CS) (829.73 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/cs/documents/product-information/jorveza-epar-product-information_cs.pdf)
 
-dansk (DA) (203.31 KB - PDF)
+dansk (DA) (707.81 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/da/documents/product-information/jorveza-epar-product-information_da.pdf)
 
-Deutsch (DE) (218.83 KB - PDF)
+Deutsch (DE) (488.83 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/de/documents/product-information/jorveza-epar-product-information_de.pdf)
 
-eesti keel (ET) (203.39 KB - PDF)
+eesti keel (ET) (708.02 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/et/documents/product-information/jorveza-epar-product-information_et.pdf)
 
-ελληνικά (EL) (310 KB - PDF)
+ελληνικά (EL) (903.07 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/el/documents/product-information/jorveza-epar-product-information_el.pdf)
 
-français (FR) (228.22 KB - PDF)
+français (FR) (763.75 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/fr/documents/product-information/jorveza-epar-product-information_fr.pdf)
 
-hrvatski (HR) (292.96 KB - PDF)
+hrvatski (HR) (812.94 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/hr/documents/product-information/jorveza-epar-product-information_hr.pdf)
 
-íslenska (IS) (184.52 KB - PDF)
+íslenska (IS) (720.34 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/is/documents/product-information/jorveza-epar-product-information_is.pdf)
 
-italiano (IT) (238.33 KB - PDF)
+italiano (IT) (770.89 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/it/documents/product-information/jorveza-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (254.31 KB - PDF)
+latviešu valoda (LV) (818.74 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/lv/documents/product-information/jorveza-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (323.36 KB - PDF)
+lietuvių kalba (LT) (564.63 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/lt/documents/product-information/jorveza-epar-product-information_lt.pdf)
 
-magyar (HU) (284.04 KB - PDF)
+magyar (HU) (820.49 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/hu/documents/product-information/jorveza-epar-product-information_hu.pdf)
 
-Malti (MT) (293.44 KB - PDF)
+Malti (MT) (844.81 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/mt/documents/product-information/jorveza-epar-product-information_mt.pdf)
 
-Nederlands (NL) (203.95 KB - PDF)
+Nederlands (NL) (689.95 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/nl/documents/product-information/jorveza-epar-product-information_nl.pdf)
 
-norsk (NO) (218.17 KB - PDF)
+norsk (NO) (724.38 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/no/documents/product-information/jorveza-epar-product-information_no.pdf)
 
-polski (PL) (592.33 KB - PDF)
+polski (PL) (845.36 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/pl/documents/product-information/jorveza-epar-product-information_pl.pdf)
 
-português (PT) (199.44 KB - PDF)
+português (PT) (749.52 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/pt/documents/product-information/jorveza-epar-product-information_pt.pdf)
 
-română (RO) (289.67 KB - PDF)
+română (RO) (833.58 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/ro/documents/product-information/jorveza-epar-product-information_ro.pdf)
 
-slovenčina (SK) (283.98 KB - PDF)
+slovenčina (SK) (846.53 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/sk/documents/product-information/jorveza-epar-product-information_sk.pdf)
 
-slovenščina (SL) (309.55 KB - PDF)
+slovenščina (SL) (828.14 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/sl/documents/product-information/jorveza-epar-product-information_sl.pdf)
 
-Suomi (FI) (249.63 KB - PDF)
+Suomi (FI) (758.56 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/fi/documents/product-information/jorveza-epar-product-information_fi.pdf)
 
-svenska (SV) (229.69 KB - PDF)
+svenska (SV) (736.97 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-06/12/2022
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/sv/documents/product-information/jorveza-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0015 10/11/2022
+**Latest procedure affecting product information:** X/0000257468
+
+08/04/2026
 
 icon globe
 
@@ -709,307 +435,179 @@ Product information documents contain:
 
 Jorveza : EPAR - All Authorised presentations
 
-English (EN) (26.41 KB - PDF)
+English (EN) (16.83 KB - PDF)
 
-**First published:** 18/01/2018
-
-**Last updated:** 04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/en/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-523)
+[Other languages (24)](#file-language-dropdown-861)
 
-български (BG) (46.01 KB - PDF)
+български (BG) (47.09 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/bg/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (24.86 KB - PDF)
+español (ES) (20.68 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/es/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (29.59 KB - PDF)
+čeština (CS) (35.96 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/cs/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (23.63 KB - PDF)
+dansk (DA) (19.01 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/da/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (23.42 KB - PDF)
+Deutsch (DE) (19.17 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/de/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (24.52 KB - PDF)
+eesti keel (ET) (18.68 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/et/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (43.68 KB - PDF)
+ελληνικά (EL) (44.41 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/el/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (24.49 KB - PDF)
+français (FR) (18.61 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/fr/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (124.15 KB - PDF)
+hrvatski (HR) (29.92 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/hr/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (24.33 KB - PDF)
+íslenska (IS) (20.03 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/is/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (24.22 KB - PDF)
+italiano (IT) (19.97 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/it/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (41.26 KB - PDF)
+latviešu valoda (LV) (41.18 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/lv/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (41.74 KB - PDF)
+lietuvių kalba (LT) (39.58 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/lt/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (30.62 KB - PDF)
+magyar (HU) (35.48 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/hu/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (37.85 KB - PDF)
+Malti (MT) (39.17 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/mt/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (24.71 KB - PDF)
+Nederlands (NL) (20.16 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/nl/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (24.86 KB - PDF)
+norsk (NO) (20.1 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/no/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (41.97 KB - PDF)
+polski (PL) (40.66 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/pl/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (24.49 KB - PDF)
+português (PT) (20.04 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/pt/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (40.68 KB - PDF)
+română (RO) (39.92 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/ro/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (39.75 KB - PDF)
+slovenčina (SK) (39.51 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/sk/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (30.85 KB - PDF)
+slovenščina (SL) (36.25 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/sl/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (25.51 KB - PDF)
+Suomi (FI) (20.97 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/fi/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (24.85 KB - PDF)
+svenska (SV) (20.08 KB - PDF)
 
-**First published:**
-
-18/01/2018
-
-**Last updated:**
-
-04/06/2020
+**First published:** 18/01/2018 **Last updated:** 15/04/2026
 
 [View](/sv/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Jorveza Active substance Budesonide International non-proprietary name (INN) or common name budesonide Therapeutic area (MeSH) Esophageal Diseases Anatomical therapeutic chemical (ATC) code A07EA06
+Name of medicine
+
+Jorveza
+
+Active substance
+
+Budesonide
+
+International non-proprietary name (INN) or common name
+
+budesonide
+
+Therapeutic area (MeSH)
+
+Esophageal Diseases
+
+Anatomical therapeutic chemical (ATC) code
+
+A07EA06
 
 ### Pharmacotherapeutic group
 
@@ -1019,9 +617,13 @@ Antidiarrheals, intestinal antiinflammatory / antiinfective agents
 
 Jorveza is indicated for the treatment of eosinophilic esophagitis (EoE) in adults (older than 18 years of age).
 
+Jorveza 0.2 mg/mL oral suspension is indicated for the treatment of eosinophilic esophagitis (EoE) in paediatric patients 2 to 17 years of age.
+
 ## Authorisation details
 
-EMA product number EMEA/H/C/004655
+EMA product number
+
+EMEA/H/C/004655
 
 Accelerated assessment
 
@@ -1037,7 +639,17 @@ Dr. Falk Pharma GmbH
 
 Leinenweber str. 5
 
-Opinion adopted 09/11/2017 Marketing authorisation issued 08/01/2018 Revision 6
+Opinion adopted
+
+09/11/2017
+
+Marketing authorisation issued
+
+08/01/2018
+
+Revision
+
+7
 
 ## Assessment history
 
@@ -1049,13 +661,39 @@ Collapse section
 
 Jorveza : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (128.48 KB - PDF)
+
+**First published:** 15/04/2026
+
+[View](/en/documents/procedural-steps-after/jorveza-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Jorveza : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (148.5 KB - PDF)
 
-**First published:** 16/07/2019
+**First published:** 16/07/2019 **Last updated:** 15/04/2026
 
-**Last updated:** 06/12/2022
+[View](/en/documents/procedural-steps-after/jorveza-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-[View](/en/documents/procedural-steps-after/jorveza-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+Jorveza-X-0000257468 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-2989654
+
+English (EN) (3.86 MB - PDF)
+
+**First published:** 15/04/2026
+
+[View](/en/documents/variation-report/jorveza-x-0000257468-epar-assessment-report_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Jorveza (X/0000257468)
+
+Adopted Reference Number: EMADOC-1700519818-2896158
+
+English (EN) (104.93 KB - PDF)
+
+**First published:** 27/02/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-jorveza-x-0000257468_en.pdf)
 
 Jorveza-H-C-PSUSA-00010664-202101: EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1069,9 +707,7 @@ English (EN) (153.44 KB - PDF)
 
 Jorveza-004655-X-0007-G : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/199925/2020
+Adopted Reference Number: EMA/199925/2020
 
 English (EN) (1.75 MB - PDF)
 
@@ -1083,50 +719,52 @@ English (EN) (1.75 MB - PDF)
 
 Jorveza : Orphan maintenance assessment report (initial authorisation)
 
-Adopted
-
-Reference Number: EMA/1001/2018
+Adopted Reference Number: EMA/1001/2018
 
 English (EN) (129.03 KB - PDF)
 
-**First published:** 18/01/2018
-
-**Last updated:** 18/01/2018
+**First published:** 18/01/2018 **Last updated:** 18/01/2018
 
 [View](/en/documents/orphan-maintenance-report/jorveza-orphan-maintenance-assessment-report-initial-authorisation_en.pdf)
 
 Jorveza : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/774645/2017
+Adopted Reference Number: EMA/774645/2017
 
 English (EN) (1.48 MB - PDF)
 
-**First published:** 18/01/2018
-
-**Last updated:** 18/01/2018
+**First published:** 18/01/2018 **Last updated:** 18/01/2018
 
 [View](/en/documents/assessment-report/jorveza-epar-public-assessment-report_en.pdf)
 
-#### News on Jorveza
+## News on Jorveza
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 March 2020 (updated)](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-march-2020-updated) 27/03/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 February 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-february-2026)
 
-[New medicine for rare inflammatory condition of the oesophagus](/en/news/new-medicine-rare-inflammatory-condition-oesophagus) 10/11/2017
+27/02/2026
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 6-9 November 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-6-9-november-2017) 10/11/2017
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 March 2020 (updated)](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-march-2020-updated)
 
-#### More information on Jorveza
+27/03/2020
+
+[New medicine for rare inflammatory condition of the oesophagus](/en/news/new-medicine-rare-inflammatory-condition-oesophagus)
+
+10/11/2017
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 6-9 November 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-6-9-november-2017)
+
+10/11/2017
+
+## More information on Jorveza
 
 - [EU/3/13/1181 - orphan designation for treatment of eosinophilic oesophagitis](/en/medicines/human/orphan-designations/eu-3-13-1181)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 06/12/2022
+**This page was last updated on**
+
+15/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

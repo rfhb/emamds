@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:47:04
+document_datetime: 2026-04-15 15:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/prialt.html
 document_name: prialt.html
 version: success
-processing_time: 0.1076715
-conversion_datetime: 2025-12-31 01:41:04.836261
+processing_time: 0.1083142
+conversion_datetime: 2026-04-17 15:50:50.646981
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Prialt
 
 [RSS](/en/individual-human-medicine.xml/65832)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-ziconotide Medicine Human Authorised
+ziconotide
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -114,275 +114,141 @@ Prialt : EPAR - Summary for the public
 
 English (EN) (72.59 KB - PDF)
 
-**First published:** 19/11/2007
-
-**Last updated:** 12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/en/documents/overview/prialt-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-433)
+[Other languages (22)](#file-language-dropdown-336)
 
 български (BG) (101.34 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/bg/documents/overview/prialt-epar-summary-public_bg.pdf)
 
 español (ES) (72.94 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/es/documents/overview/prialt-epar-summary-public_es.pdf)
 
 čeština (CS) (100.72 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/cs/documents/overview/prialt-epar-summary-public_cs.pdf)
 
 dansk (DA) (73.47 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/da/documents/overview/prialt-epar-summary-public_da.pdf)
 
 Deutsch (DE) (75.02 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/de/documents/overview/prialt-epar-summary-public_de.pdf)
 
 eesti keel (ET) (72.35 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/et/documents/overview/prialt-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (103.04 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/el/documents/overview/prialt-epar-summary-public_el.pdf)
 
 français (FR) (74.53 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/fr/documents/overview/prialt-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (96.36 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/hr/documents/overview/prialt-epar-summary-public_hr.pdf)
 
 italiano (IT) (73.3 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/it/documents/overview/prialt-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (96.63 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/lv/documents/overview/prialt-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (97.32 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/lt/documents/overview/prialt-epar-summary-public_lt.pdf)
 
 magyar (HU) (95.12 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/hu/documents/overview/prialt-epar-summary-public_hu.pdf)
 
 Malti (MT) (100.39 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/mt/documents/overview/prialt-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (75.21 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/nl/documents/overview/prialt-epar-summary-public_nl.pdf)
 
 polski (PL) (100.38 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/pl/documents/overview/prialt-epar-summary-public_pl.pdf)
 
 português (PT) (73.79 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/pt/documents/overview/prialt-epar-summary-public_pt.pdf)
 
 română (RO) (94.45 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/ro/documents/overview/prialt-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (99.39 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/sk/documents/overview/prialt-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (96.31 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/sl/documents/overview/prialt-epar-summary-public_sl.pdf)
 
 Suomi (FI) (72.8 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/fi/documents/overview/prialt-epar-summary-public_fi.pdf)
 
 svenska (SV) (72.68 KB - PDF)
 
-**First published:**
-
-19/11/2007
-
-**Last updated:**
-
-12/03/2014
+**First published:** 19/11/2007 **Last updated:** 12/03/2014
 
 [View](/sv/documents/overview/prialt-epar-summary-public_sv.pdf)
 
@@ -390,305 +256,161 @@ svenska (SV) (72.68 KB - PDF)
 
 Prialt : EPAR - Product Information
 
-English (EN) (504.15 KB - PDF)
+English (EN) (436.9 KB - PDF)
 
-**First published:** 08/05/2009
-
-**Last updated:** 12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/en/documents/product-information/prialt-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-78)
+[Other languages (24)](#file-language-dropdown-362)
 
-български (BG) (667.3 KB - PDF)
+български (BG) (583.37 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/bg/documents/product-information/prialt-epar-product-information_bg.pdf)
 
-español (ES) (477.03 KB - PDF)
+español (ES) (498.48 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/es/documents/product-information/prialt-epar-product-information_es.pdf)
 
-čeština (CS) (505.74 KB - PDF)
+čeština (CS) (495.15 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/cs/documents/product-information/prialt-epar-product-information_cs.pdf)
 
-dansk (DA) (483.92 KB - PDF)
+dansk (DA) (467.21 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/da/documents/product-information/prialt-epar-product-information_da.pdf)
 
-Deutsch (DE) (534.53 KB - PDF)
+Deutsch (DE) (459.34 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/de/documents/product-information/prialt-epar-product-information_de.pdf)
 
-eesti keel (ET) (445.07 KB - PDF)
+eesti keel (ET) (411.24 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/et/documents/product-information/prialt-epar-product-information_et.pdf)
 
-ελληνικά (EL) (558.66 KB - PDF)
+ελληνικά (EL) (559.89 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/el/documents/product-information/prialt-epar-product-information_el.pdf)
 
-français (FR) (524.47 KB - PDF)
+français (FR) (519.05 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/fr/documents/product-information/prialt-epar-product-information_fr.pdf)
 
-hrvatski (HR) (486.76 KB - PDF)
+hrvatski (HR) (480.23 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/hr/documents/product-information/prialt-epar-product-information_hr.pdf)
 
-íslenska (IS) (456.63 KB - PDF)
+íslenska (IS) (451.46 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/is/documents/product-information/prialt-epar-product-information_is.pdf)
 
-italiano (IT) (484 KB - PDF)
+italiano (IT) (475.72 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/it/documents/product-information/prialt-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (502.68 KB - PDF)
+latviešu valoda (LV) (479.51 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/lv/documents/product-information/prialt-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (592.23 KB - PDF)
+lietuvių kalba (LT) (518.93 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/lt/documents/product-information/prialt-epar-product-information_lt.pdf)
 
-magyar (HU) (522.89 KB - PDF)
+magyar (HU) (521.25 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/hu/documents/product-information/prialt-epar-product-information_hu.pdf)
 
-Malti (MT) (591.14 KB - PDF)
+Malti (MT) (536.4 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/mt/documents/product-information/prialt-epar-product-information_mt.pdf)
 
-Nederlands (NL) (473.26 KB - PDF)
+Nederlands (NL) (422.43 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/nl/documents/product-information/prialt-epar-product-information_nl.pdf)
 
-norsk (NO) (452.22 KB - PDF)
+norsk (NO) (388.5 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/no/documents/product-information/prialt-epar-product-information_no.pdf)
 
-polski (PL) (513.73 KB - PDF)
+polski (PL) (520.71 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/pl/documents/product-information/prialt-epar-product-information_pl.pdf)
 
-português (PT) (466.41 KB - PDF)
+português (PT) (446.09 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/pt/documents/product-information/prialt-epar-product-information_pt.pdf)
 
-română (RO) (516.97 KB - PDF)
+română (RO) (505.96 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/ro/documents/product-information/prialt-epar-product-information_ro.pdf)
 
-slovenčina (SK) (514.59 KB - PDF)
+slovenčina (SK) (513.51 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/sk/documents/product-information/prialt-epar-product-information_sk.pdf)
 
-slovenščina (SL) (550.28 KB - PDF)
+slovenščina (SL) (506.44 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/sl/documents/product-information/prialt-epar-product-information_sl.pdf)
 
-Suomi (FI) (408.25 KB - PDF)
+Suomi (FI) (383.83 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/fi/documents/product-information/prialt-epar-product-information_fi.pdf)
 
-svenska (SV) (453.53 KB - PDF)
+svenska (SV) (458.56 KB - PDF)
 
-**First published:**
-
-08/05/2009
-
-**Last updated:**
-
-12/12/2025
+**First published:** 08/05/2009 **Last updated:** 15/04/2026
 
 [View](/sv/documents/product-information/prialt-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000315099 12/12/2025
+**Latest procedure affecting product information:** N/0000340402
+
+14/04/2026
 
 icon globe
 
@@ -708,238 +430,142 @@ Prialt : EPAR - All Authorised presentations
 
 English (EN) (70.41 KB - PDF)
 
-**First published:** 31/08/2006
-
-**Last updated:** 31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/en/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-873)
+[Other languages (18)](#file-language-dropdown-609)
 
 español (ES) (72.01 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/es/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (116.43 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/cs/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (72.96 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/da/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (73.4 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/de/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (71.69 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/et/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (108.35 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/el/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (72.03 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/fr/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_fr.pdf)
 
 italiano (IT) (72.01 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/it/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (113.27 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/lv/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (110.5 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/lt/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (115.98 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/hu/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_hu.pdf)
 
 Nederlands (NL) (71.94 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/nl/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_nl.pdf)
 
 polski (PL) (114.42 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/pl/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (72.78 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/pt/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_pt.pdf)
 
 slovenčina (SK) (112.09 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/sk/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (72.12 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/sl/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (72.7 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/fi/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (73.07 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/sv/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Prialt Active substance ziconotide International non-proprietary name (INN) or common name ziconotide Therapeutic area (MeSH)
+Name of medicine
+
+Prialt
+
+Active substance
+
+ziconotide
+
+International non-proprietary name (INN) or common name
+
+ziconotide
+
+Therapeutic area (MeSH)
 
 - Injections, Spinal
 - Pain
 
-Anatomical therapeutic chemical (ATC) code N02BG08
+Anatomical therapeutic chemical (ATC) code
+
+N02BG08
 
 ### Pharmacotherapeutic group
 
@@ -951,13 +577,27 @@ Ziconotide is indicated for the treatment of severe, chronic pain in patients wh
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000551 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000551
+
+Marketing authorisation holder
 
 Esteve Pharmaceuticals GmbH
 
 Hohenzollerndamm 150-151
 
-Opinion adopted 18/11/2004 Marketing authorisation issued 21/02/2005 Revision 32
+Opinion adopted
+
+18/11/2004
+
+Marketing authorisation issued
+
+21/02/2005
+
+Revision
+
+33
 
 ## Assessment history
 
@@ -969,9 +609,9 @@ Collapse section
 
 Prialt : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (140 KB - PDF)
+English (EN) (142.63 KB - PDF)
 
-**First published:** 12/12/2025
+**First published:** 12/12/2025 **Last updated:** 15/04/2026
 
 [View](/en/documents/procedural-steps-after/prialt-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -979,9 +619,7 @@ Prialt : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (195.75 KB - PDF)
 
-**First published:** 08/05/2009
-
-**Last updated:** 12/12/2025
+**First published:** 08/05/2009 **Last updated:** 12/12/2025
 
 [View](/en/documents/procedural-steps-after/prialt-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -991,9 +629,7 @@ Prialt : EPAR - Procedural steps taken before authorisation
 
 English (EN) (92.29 KB - PDF)
 
-**First published:** 31/08/2006
-
-**Last updated:** 31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/en/documents/procedural-steps/prialt-epar-procedural-steps-taken-authorisation_en.pdf)
 
@@ -1001,22 +637,20 @@ Prialt : EPAR - Scientific Discussion
 
 English (EN) (347.99 KB - PDF)
 
-**First published:** 31/08/2006
-
-**Last updated:** 31/08/2006
+**First published:** 31/08/2006 **Last updated:** 31/08/2006
 
 [View](/en/documents/scientific-discussion/prialt-epar-scientific-discussion_en.pdf)
 
-#### More information on Prialt
+## More information on Prialt
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu301048) on 9 July 2001. Prialt was removed from the Community register of orphan medicinal products in February 2015 at the end of the 10-year period of market exclusivity.
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 12/12/2025
+**This page was last updated on**
+
+15/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

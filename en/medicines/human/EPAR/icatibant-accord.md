@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-20 10:00:00
+document_datetime: 2026-04-16 12:16:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/icatibant-accord.html
 document_name: icatibant-accord.html
 version: success
-processing_time: 0.0991371
-conversion_datetime: 2026-03-21 13:27:52.402089
+processing_time: 0.1327246
+conversion_datetime: 2026-04-17 15:54:06.198126
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.81.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.0
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Icatibant Accord
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-icatibant Medicine Human Authorised
+icatibant
+
+Medicine Human Authorised
 
 Page contents
 
@@ -101,181 +103,137 @@ English (EN) (133 KB - PDF)
 
 [View](/en/documents/overview/icatibant-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-275)
+[Other languages (22)](#file-language-dropdown-652)
 
 български (BG) (156.1 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/bg/documents/overview/icatibant-accord-epar-medicine-overview_bg.pdf)
 
 español (ES) (133.13 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/es/documents/overview/icatibant-accord-epar-medicine-overview_es.pdf)
 
 čeština (CS) (154.4 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/cs/documents/overview/icatibant-accord-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (132.51 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/da/documents/overview/icatibant-accord-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (136.15 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/de/documents/overview/icatibant-accord-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (121.94 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/et/documents/overview/icatibant-accord-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (155.82 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/el/documents/overview/icatibant-accord-epar-medicine-overview_el.pdf)
 
 français (FR) (136.02 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/fr/documents/overview/icatibant-accord-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (151.98 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/hr/documents/overview/icatibant-accord-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (131.84 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/it/documents/overview/icatibant-accord-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (163.25 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/lv/documents/overview/icatibant-accord-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (154.45 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/lt/documents/overview/icatibant-accord-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (153.85 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/hu/documents/overview/icatibant-accord-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (156.29 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/mt/documents/overview/icatibant-accord-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (132.57 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/nl/documents/overview/icatibant-accord-epar-medicine-overview_nl.pdf)
 
 polski (PL) (155.62 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/pl/documents/overview/icatibant-accord-epar-medicine-overview_pl.pdf)
 
 português (PT) (133.47 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/pt/documents/overview/icatibant-accord-epar-medicine-overview_pt.pdf)
 
 română (RO) (152.55 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/ro/documents/overview/icatibant-accord-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (153.55 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/sk/documents/overview/icatibant-accord-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (152.09 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/sl/documents/overview/icatibant-accord-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (131.46 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/fi/documents/overview/icatibant-accord-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (132.01 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/sv/documents/overview/icatibant-accord-epar-medicine-overview_sv.pdf)
 
@@ -283,9 +241,7 @@ Icatibant Accord : EPAR - Risk-management-plan summary
 
 English (EN) (371.28 KB - PDF)
 
-**First published:** 06/09/2021
-
-**Last updated:** 20/03/2026
+**First published:** 06/09/2021 **Last updated:** 20/03/2026
 
 [View](/en/documents/rmp-summary/icatibant-accord-epar-risk-management-plan-summary_en.pdf)
 
@@ -295,303 +251,159 @@ Icatibant Accord : EPAR - Product information
 
 English (EN) (603.22 KB - PDF)
 
-**First published:** 06/09/2021
-
-**Last updated:** 27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/en/documents/product-information/icatibant-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-294)
+[Other languages (24)](#file-language-dropdown-600)
 
 български (BG) (707.64 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/bg/documents/product-information/icatibant-accord-epar-product-information_bg.pdf)
 
 español (ES) (579.18 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/es/documents/product-information/icatibant-accord-epar-product-information_es.pdf)
 
 čeština (CS) (733.15 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/cs/documents/product-information/icatibant-accord-epar-product-information_cs.pdf)
 
 dansk (DA) (643.02 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/da/documents/product-information/icatibant-accord-epar-product-information_da.pdf)
 
 Deutsch (DE) (653.16 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/de/documents/product-information/icatibant-accord-epar-product-information_de.pdf)
 
 eesti keel (ET) (633.02 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/et/documents/product-information/icatibant-accord-epar-product-information_et.pdf)
 
 ελληνικά (EL) (741.24 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/el/documents/product-information/icatibant-accord-epar-product-information_el.pdf)
 
 français (FR) (760.17 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/fr/documents/product-information/icatibant-accord-epar-product-information_fr.pdf)
 
 hrvatski (HR) (661.7 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/hr/documents/product-information/icatibant-accord-epar-product-information_hr.pdf)
 
 íslenska (IS) (585.53 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/is/documents/product-information/icatibant-accord-epar-product-information_is.pdf)
 
 italiano (IT) (632.82 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/it/documents/product-information/icatibant-accord-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (693.97 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/lv/documents/product-information/icatibant-accord-epar-product-information_lv.pdf)
 
 lietuvių kalba (LT) (634.23 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/lt/documents/product-information/icatibant-accord-epar-product-information_lt.pdf)
 
 magyar (HU) (738.26 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/hu/documents/product-information/icatibant-accord-epar-product-information_hu.pdf)
 
 Malti (MT) (770.77 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/mt/documents/product-information/icatibant-accord-epar-product-information_mt.pdf)
 
 Nederlands (NL) (585.97 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/nl/documents/product-information/icatibant-accord-epar-product-information_nl.pdf)
 
 norsk (NO) (548.94 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/no/documents/product-information/icatibant-accord-epar-product-information_no.pdf)
 
 polski (PL) (717.4 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/pl/documents/product-information/icatibant-accord-epar-product-information_pl.pdf)
 
 português (PT) (686.88 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/pt/documents/product-information/icatibant-accord-epar-product-information_pt.pdf)
 
 română (RO) (715.72 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/ro/documents/product-information/icatibant-accord-epar-product-information_ro.pdf)
 
 slovenčina (SK) (691.03 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/sk/documents/product-information/icatibant-accord-epar-product-information_sk.pdf)
 
 slovenščina (SL) (662.5 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/sl/documents/product-information/icatibant-accord-epar-product-information_sl.pdf)
 
 Suomi (FI) (603.16 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/fi/documents/product-information/icatibant-accord-epar-product-information_fi.pdf)
 
 svenska (SV) (651.54 KB - PDF)
 
-**First published:**
-
-06/09/2021
-
-**Last updated:**
-
-27/08/2025
+**First published:** 06/09/2021 **Last updated:** 27/08/2025
 
 [View](/sv/documents/product-information/icatibant-accord-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000333262 19/03/2026
+**Latest procedure affecting product information:** VR/0000333262
+
+19/03/2026
 
 icon globe
 
@@ -615,203 +427,173 @@ English (EN) (53.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-933)
+[Other languages (24)](#file-language-dropdown-207)
 
 български (BG) (70.57 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/bg/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (56 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/es/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (64.07 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/cs/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (61.56 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/da/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (48.49 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/de/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (52.39 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/et/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (56.06 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/el/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (53.49 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/fr/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (68.47 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/hr/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (54.75 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/is/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (46.49 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/it/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (72.4 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/lv/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (66.49 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/lt/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (70.68 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/hu/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (73.92 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/mt/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (53.68 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/nl/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (55.17 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/no/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (67.14 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/pl/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (48.76 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/pt/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (64.43 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/ro/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (64.32 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/sk/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (54.87 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/sl/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (52.67 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/fi/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (47.88 KB - PDF)
 
-**First published:**
-
-06/09/2021
+**First published:** 06/09/2021
 
 [View](/sv/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Icatibant Accord Active substance icatibant acetate International non-proprietary name (INN) or common name icatibant Therapeutic area (MeSH) Angioedemas, Hereditary Anatomical therapeutic chemical (ATC) code B06AC02
+Name of medicine
+
+Icatibant Accord
+
+Active substance
+
+icatibant acetate
+
+International non-proprietary name (INN) or common name
+
+icatibant
+
+Therapeutic area (MeSH)
+
+Angioedemas, Hereditary
+
+Anatomical therapeutic chemical (ATC) code
+
+B06AC02
 
 ### Pharmacotherapeutic group
 
@@ -823,7 +605,9 @@ Icatibant Accord is indicated for symptomatic treatment of acute attacks of here
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005083
+EMA product number
+
+EMEA/H/C/005083
 
 Generic
 
@@ -835,7 +619,17 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 20/05/2021 Marketing authorisation issued 16/07/2021 Revision 3
+Opinion adopted
+
+20/05/2021
+
+Marketing authorisation issued
+
+16/07/2021
+
+Revision
+
+4
 
 ## Assessment history
 
@@ -847,21 +641,17 @@ Collapse section
 
 Icatibant Accord : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (147.8 KB - PDF)
+English (EN) (152.84 KB - PDF)
 
-**First published:** 27/08/2025
-
-**Last updated:** 20/03/2026
+**First published:** 27/08/2025 **Last updated:** 16/04/2026
 
 [View](/en/documents/procedural-steps-after/icatibant-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Icatibant Accord : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (99.18 KB - PDF)
+English (EN) (138.78 KB - PDF)
 
-**First published:** 25/01/2024
-
-**Last updated:** 27/08/2025
+**First published:** 25/01/2024 **Last updated:** 16/04/2026
 
 [View](/en/documents/procedural-steps-after/icatibant-accord-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -869,9 +659,7 @@ English (EN) (99.18 KB - PDF)
 
 Icatibant Accord : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/306744/2021
+Adopted Reference Number: EMA/306744/2021
 
 English (EN) (261.05 KB - PDF)
 
@@ -881,9 +669,7 @@ English (EN) (261.05 KB - PDF)
 
 CHMP summary of positive opinion for Icatibant Accord
 
-Adopted
-
-Reference Number: EMA/CHMP/244588/2021
+Adopted Reference Number: EMA/CHMP/244588/2021
 
 English (EN) (119.65 KB - PDF)
 
@@ -893,7 +679,9 @@ English (EN) (119.65 KB - PDF)
 
 ## News on Icatibant Accord
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 May 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-may-2021) 21/05/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 May 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-may-2021)
+
+21/05/2021
 
 ## More information on Icatibant Accord
 
@@ -903,275 +691,141 @@ Reference Number: EMA/393905/2006 Rev. 2
 
 English (EN) (66.45 KB - PDF)
 
-**First published:** 09/07/2007
-
-**Last updated:** 07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-817)
+[Other languages (22)](#file-language-dropdown-805)
 
 български (BG) (93.16 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
 
 español (ES) (68.3 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
 
 čeština (CS) (87.71 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
 
 dansk (DA) (66.79 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
 
 Deutsch (DE) (67.55 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
 
 eesti keel (ET) (65.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
 
 ελληνικά (EL) (91.29 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
 
 français (FR) (68.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
 
 hrvatski (HR) (87.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
 
 italiano (IT) (67.62 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
 
 latviešu valoda (LV) (111.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
 
 lietuvių kalba (LT) (86.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
 
 magyar (HU) (85.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
 
 Malti (MT) (89.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
 
 Nederlands (NL) (66.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
 
 polski (PL) (88.51 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
 
 português (PT) (68.32 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
 
 română (RO) (86.9 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
 
 slovenčina (SK) (87.73 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
 
 slovenščina (SL) (84.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
 
 Suomi (FI) (66.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
 
 svenska (SV) (67.11 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
@@ -1187,202 +841,154 @@ English (EN) (379.65 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-727)
+[Other languages (24)](#file-language-dropdown-610)
 
 български (BG) (320.91 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/bg/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (281.14 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/es/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (325.93 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/cs/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (320.69 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/da/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (293.64 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/de/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_de.docx)
 
 eesti keel (ET) (311.47 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/et/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (323.6 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/el/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (308.95 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/fr/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (307.81 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/hr/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_hr.docx)
 
 íslenska (IS) (312.43 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/is/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_is.docx)
 
 italiano (IT) (286.73 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/it/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_it.docx)
 
 latviešu valoda (LV) (323.71 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/lv/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_lv.docx)
 
 lietuvių kalba (LT) (313.78 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/lt/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (325.72 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/hu/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (314.9 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/mt/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (300.91 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/nl/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_nl.docx)
 
 norsk (NO) (277.3 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/no/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (323.79 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/pl/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (315.65 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/pt/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (305.5 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/ro/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (313.58 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/sk/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (309.33 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/sl/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_sl.docx)
 
 Suomi (FI) (313.24 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/fi/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (319.6 KB - DOCX)
 
-**First published:**
-
-27/08/2025
+**First published:** 27/08/2025
 
 [View](/sv/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_sv.docx)
 
-**This page was last updated on** 20/03/2026
+**This page was last updated on**
+
+16/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

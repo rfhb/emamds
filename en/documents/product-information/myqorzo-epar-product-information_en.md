@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-03 14:14:04
+document_datetime: 2026-04-16 08:50:38
 document_pages: 44
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/myqorzo-epar-product-information_en.pdf
 document_name: myqorzo-epar-product-information_en.pdf
 version: success
-processing_time: 16.0549975
-conversion_datetime: 2026-03-05 12:22:27.807258
+processing_time: 12.8142925
+conversion_datetime: 2026-04-17 15:33:41.754065
 docling_version:
-  docling-serve: 1.14.1
-  docling-jobkit: 1.13.0
-  docling: 2.76.0
-  docling-core: 2.66.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.4.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.0
+  docling: 2.89.0
+  docling-core: 2.73.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -82,11 +82,11 @@ MYQORZO is indicated for the treatment of symptomatic (New York Heart Associatio
 
 Treatment should be initiated under the supervision of a physician experienced in the management of patients with cardiomyopathy.
 
-Before treatment initiation, left ventricular ejection fraction (LVEF) should be assessed by echocardiography (see section 4.4). Initiation or up-titration of MYQORZO in patients with LVEF &lt; 55% is not recommended. Regular LVEF and Valsalva left ventricular outflow tract gradient (LVOT-G) assessment should be performed during titration to achieve an appropriate target Valsalva LVOT-G , while maintaining LVEF ≥ 50%.
+Before treatment initiation, left ventricular ejection fraction (LVEF) should be assessed by echocardiography (see section 4.4). Initiation or up-titration of MYQORZO in patients with LVEF &lt; 55% is not recommended. Regular LVEF and Valsalva left ventricular outflow tract gradient (LVOT-G) assessment should be performed during titration to achieve an appropriate target Valsalva LVOTG, while maintaining LVEF ≥ 50%.
 
 ## Posology
 
-The dose range is 5 mg to 20 mg (either 5 mg, 10 mg, 15 mg, or 20 mg). The recommended starting dose is 5 mg orally once daily. A starting dose of 10 mg should be considered for patients with LVOT-G ≥ 100 mmHg. The dose should be increased every 2 to 8 weeks by 5 mg until a maintenance dose or the maximum dose of 20 mg is achieved. The maintenance dose is individualised based on the patient's LVEF and LVOT-G. Recommendations for dosing based on LVEF and LVOT-G criteria are in Table 1.
+The dose range is 5 mg to 20 mg (either 5 mg, 10 mg, 15 mg, or 20 mg). The recommended starting dose is 5 mg orally once daily. A starting dose of 10 mg should be considered for patients with LVOTG ≥ 100 mmHg. The dose should be increased every 2 to 8 weeks by 5 mg until a maintenance dose or the maximum dose of 20 mg is achieved. The maintenance dose is individualised based on the patient's LVEF and LVOT-G. Recommendations for dosing based on LVEF and LVOT-G criteria are in Table 1.
 
 Table 1: Dose adjustment of aficamten
 
@@ -232,7 +232,7 @@ Avoidance is recommended for strong CYP2C9 inhibitors (e.g. sulfaphenazole) (see
 
 ## Other interactions
 
-Interactions of aficamten and potential co-administered medicinal products are listed in Table 3 below (increase is indicated as '↑', decrease as '↓'). These interactions are based on either drug interaction studies or physiologically based pharmacokinetic predicted interactions due to the expected magnitude of interaction.
+Interactions of aficamten and potential co-administered medicinal products are listed in Table 3 below (increas e is indicated as '↑', decrease as '↓'). These interactions are based on either drug interaction studies or physiologically based pharmacokinetic predicted interactions due to the expected magnitude of interaction.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -297,7 +297,7 @@ The most commonly reported adverse reactions observed with aficamten are dizzine
 
 The frequencies of adverse reactions are based on all-cause adverse events frequencies of 142 patients exposed to aficamten in SEQUOIA-HCM study (see section 5.1) with a median treatment duration of 24.1 weeks (range 3.9 to 29.4 weeks).
 
-The adverse reactions included in Table 4 are listed according to system organ class in MedDRA. Within each system organ class, the adverse reactions are presented in order of decreasing frequency and seriousness. In addition, the corresponding frequency category for each adverse reaction is defined as: v ery common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000).
+The adverse reactions included in Table 4 are listed according to system organ class in MedDRA. Within each system organ class, the adverse reactions are presented in order of decreasing frequency and seriousness. In addition, the corresponding frequency category for each adverse reaction is defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -533,26 +533,27 @@ Macrogol poly(vinyl alcohol) grafted copolymer (E 1209) Talc (E 553b) Titanium d
 
 <div style=\"page-break-after: always\"></div>
 
-| 6.2                                                                                                                                    | Incompatibilities                                                                                                                      |
-|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| Not applicable.                                                                                                                        | Not applicable.                                                                                                                        |
-| 6.3                                                                                                                                    | Shelf life                                                                                                                             |
-| 30 months                                                                                                                              | 30 months                                                                                                                              |
-| 6.4                                                                                                                                    | Special precautions for storage                                                                                                        |
-| Store below 30 °C.                                                                                                                     | Store below 30 °C.                                                                                                                     |
-| 6.5                                                                                                                                    | Nature and contents of container                                                                                                       |
-| Polyvinylchloride (PVC)/Aluminium foil blister containing 14 film-coated tablets.                                                      | Polyvinylchloride (PVC)/Aluminium foil blister containing 14 film-coated tablets.                                                      |
-| Pack size of 28 tablets.                                                                                                               | Pack size of 28 tablets.                                                                                                               |
-| 6.6                                                                                                                                    | Special precautions for disposal and other handling                                                                                    |
-| Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                            | Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                            |
-| 7.                                                                                                                                     | MARKETING AUTHORISATIONHOLDER                                                                                                          |
-| Cytokinetics (Ireland) Limited 45 Mespil Rd. Dublin D04 W2F1 Ireland                                                                   | Cytokinetics (Ireland) Limited 45 Mespil Rd. Dublin D04 W2F1 Ireland                                                                   |
-| 8.                                                                                                                                     | MARKETING AUTHORISATION NUMBER                                                                                                         |
-| EU/1/25/2014/001 EU/1/25/2014/002 EU/1/25/2014/003 EU/1/25/2014/004                                                                    | EU/1/25/2014/001 EU/1/25/2014/002 EU/1/25/2014/003 EU/1/25/2014/004                                                                    |
-| 9.                                                                                                                                     | DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION                                                                               |
-| Date of first authorisation:                                                                                                           | Date of first authorisation:                                                                                                           |
-| 10.                                                                                                                                    | DATE OF REVISION OF THE TEXT                                                                                                           |
-| Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu. | Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu. |
+| 6.2                                                                                                                          | Incompatibilities                                                                                                            |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Not applicable.                                                                                                              | Not applicable.                                                                                                              |
+| 6.3                                                                                                                          | Shelf life                                                                                                                   |
+| 30 months                                                                                                                    | 30 months                                                                                                                    |
+| 6.4                                                                                                                          | Special precautions for storage                                                                                              |
+| Store below 30 °C.                                                                                                           | Store below 30 °C.                                                                                                           |
+| 6.5                                                                                                                          | Nature and contents of container                                                                                             |
+| Polyvinylchloride (PVC)/Aluminium foil blister containing 14 film-coated tablets.                                            | Polyvinylchloride (PVC)/Aluminium foil blister containing 14 film-coated tablets.                                            |
+| Pack sizes of 14, 28 or 98 tablets.                                                                                          | Pack sizes of 14, 28 or 98 tablets.                                                                                          |
+| Not all pack sizes may be marketed.                                                                                          | Not all pack sizes may be marketed.                                                                                          |
+| 6.6                                                                                                                          | Special precautions for disposal and other handling                                                                          |
+| Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                  | Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                  |
+| 7.                                                                                                                           | MARKETING AUTHORISATIONHOLDER                                                                                                |
+| Cytokinetics (Ireland) Limited 45 Mespil Rd. Dublin D04 W2F1 Ireland                                                         | Cytokinetics (Ireland) Limited 45 Mespil Rd. Dublin D04 W2F1 Ireland                                                         |
+| 8.                                                                                                                           | MARKETING AUTHORISATION NUMBER                                                                                               |
+| EU/1/25/2014/001-012                                                                                                         | EU/1/25/2014/001-012                                                                                                         |
+| 9.                                                                                                                           | DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION                                                                     |
+| Date of first authorisation: 12 February 2026                                                                                | Date of first authorisation: 12 February 2026                                                                                |
+| 10.                                                                                                                          | DATE OF REVISION OF THE TEXT                                                                                                 |
+| Detailed information on this medicinal product is available on the website of the European Agency https://www.ema.europa.eu. | Detailed information on this medicinal product is available on the website of the European Agency https://www.ema.europa.eu. |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -569,7 +570,7 @@ Macrogol poly(vinyl alcohol) grafted copolymer (E 1209) Talc (E 553b) Titanium d
 
 Name and address of the manufacturer responsible for batch release
 
-Patheon France 40 Boulevard de Champaret Bourgoin Jallieu, 38300 France
+Cytokinetics (Ireland) Limited 45 Mespil Rd. Dublin D04 W2F1 Ireland
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -579,7 +580,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## · Periodic safety update reports (PSURs)
 
-The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European Medicines web-portal.
 
 The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
@@ -639,7 +640,7 @@ During treatment at each clinical visit (as described in the SmPC)
 
 - Remind patients of the potential risk of embryo-foetal toxicity associated with aficamten and the need for further monitoring (foetal echocardiography) in case of pregnancy.
 - Remind women of childbearing potential to use effective contraception during treatment.
-- Advise the patient that they must inform their doctor if they are pregnant or planning to become pregnant and in case of pregnancy the need for regular monitoring (e.g.every 2 weeks) of foetal cardiac functions.
+- Advise the patient that they must inform their doctor if they are pregnant or planning to become pregnant and in case of pregnancy the need for regular monitoring (e.g. every 2 weeks) of foetal cardiac functions.
 - Ensure the patient is closely monitored; consider foetal echocardiography to monitor for signs of foetal cardiac dysfunction.
 
 ## For all patients:
@@ -705,7 +706,11 @@ See leaflet for further information.
 
 Film-coated tablets
 
+14 tablets
+
 28 tablets
+
+98 tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -743,9 +748,11 @@ Cytokinetics (Ireland) Limited
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
-EU/1/25/2014/001 EU/1/25/2014/002 EU/1/25/2014/003
+EU/1/25/2014/005 (Pack size of 14 tablets)
 
-EU/1/25/2014/004
+EU/1/25/2014/001 (Pack size of 28 tablets)
+
+EU/1/25/2014/009 (Pack size of 98 tablets)
 
 ## 13. BATCH NUMBER
 
@@ -753,7 +760,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -765,7 +772,9 @@ MYQORZO 5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -818,7 +827,11 @@ See leaflet for further information.
 
 Film-coated tablets
 
+14 tablets
+
 28 tablets
+
+98 tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -844,46 +857,43 @@ EXP
 
 Store below 30 °C.
 
-<div style=\"page-break-after: always\"></div>
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+Cytokinetics (Ireland) Limited
 
-Cytokinetics (Ireland) Limited 45 Mespil Road Dublin D04 W2F1 Ireland
+45 Mespil Road Dublin D04 W2F1 Ireland
 
-| 12. MARKETING AUTHORISATION NUMBER   |
-|--------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER
 
-EU/0/00/000/000
+EU/1/25/2014/006 (Pack size of 14 tablets)
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+EU/1/25/2014/002 (Pack size of 28 tablets)
+
+EU/1/25/2014/010 (Pack size of 98 tablets)
+
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 MYQORZO 10 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -936,7 +946,11 @@ See leaflet for further information.
 
 Film-coated tablets
 
+14 tablets
+
 28 tablets
+
+98 tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -962,45 +976,43 @@ EXP
 
 Store below 30 °C.
 
-<div style=\"page-break-after: always\"></div>
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+Cytokinetics (Ireland) Limited
 
-Cytokinetics (Ireland) Limited 45 Mespil Road Dublin D04 W2F1 Ireland
+45 Mespil Road Dublin D04 W2F1 Ireland
 
-| 12. MARKETING AUTHORISATION NUMBER   |
-|--------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER
 
-EU/0/00/000/000
+EU/1/25/2014/007 (Pack size of 14 tablets)
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+EU/1/25/2014/003 (Pack size of 28 tablets)
+
+EU/1/25/2014/011 (Pack size of 98 tablets)
+
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 MYQORZO 15 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1041,7 +1053,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-MYQORZO 20 mg film-coated tablets aficamten
+MYQORZO 20 mg film-coated tablets
+
+aficamten
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1055,7 +1069,11 @@ See leaflet for further information.
 
 Film-coated tablets
 
+14 tablets
+
 28 tablets
+
+98 tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -1089,17 +1107,21 @@ Cytokinetics (Ireland) Limited 45 Mespil Road Dublin D04 W2F1 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
-EU/0/00/000/000
+EU/1/25/2014/008 (Pack size of 14 tablets)
+
+EU/1/25/2014/004 (Pack size of 28 tablets)
+
+EU/1/25/2014/012 (Pack size of 98 tablets)
 
 ## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 MYQORZO 20 mg
 
@@ -1109,11 +1131,13 @@ MYQORZO 20 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
 
-NN
+SN
 
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1152,6 +1176,8 @@ Lot
 
 ## PATIENT CARD
 
+<!-- image -->
+
 MYQORZO ® ▼ (aficamten)
 
 Patient instructions: Carry this card with you at all times . Tell any healthcare professional who sees you that you are taking aficamten and show this card to them.
@@ -1176,7 +1202,15 @@ Aficamten is indicated for the treatment of obstructive hypertrophic cardiomyopa
 
 Please complete this section or ask your prescriber of aficamten to complete it.
 
-Patient's name: Name of prescriber: Office phone number: After-hours phone number: Hospital name (if applicable):
+Patient's name:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+Name of prescriber:  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+Office phone number: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+After-hours phone number: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+Hospital name (if applicable):  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 ▼ This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects that you may experience to [add local reporting number/mail/address etc. here] .
 
@@ -1188,11 +1222,7 @@ Patient's name: Name of prescriber: Office phone number: After-hours phone numbe
 
 <div style=\"page-break-after: always\"></div>
 
-```
-MYQORZO 5 mg film-coated tablets MYQORZO 10 mg film-coated tablets MYQORZO 15 mg film-coated tablets MYQORZO 20 mg film-coated tablets
-```
-
-aficamten
+MYQORZO 5 mg film-coated tablets MYQORZO 10 mg film-coated tablets MYQORZO 15 mg film-coated tablets MYQORZO 20 mg film-coated tablets aficamten
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -1387,7 +1417,7 @@ Do not throw away any medicines via wastewater. Ask your pharmacist how to throw
 - The active substance is aficamten. Each film-coated tablet (tablet) contains 5 mg, 10 mg, 15 mg or 20 mg aficamten.
 - The other ingredients are:
 - -Tablet core: Microcrystalline cellulose (E 460), mannitol (E 421), croscarmellose sodium (E 468), hydroxypropylcellulose (E 463), sodium laurilsulfate, magnesium stearate (E 470b). See section 2 'MYQORZO contains sodium'.
-- -Tablet film coating: Macrogol poly(vinyl alcohol) grafted copolymer (E 1209), talc (E 553b), titanium dioxide (E 171), glycerol mono and dicaprylocaprate (E 471), poly(vinyl alcohol) (E 1203), /indigo carmine aluminium lake (E 132), carmine (E 120).
+- -Tablet film coating: Macrogol poly (vinyl alcohol) grafted copolymer (E 1209), talc (E 553b), titanium dioxide (E 171), glycerol mono and dicaprylocaprate (E 471), poly (vinyl alcohol) (E 1203), indigo carmine aluminium lake (E 132), carmine (E 120).
 
 ## What MYQORZO looks like and contents of the pack
 
@@ -1398,19 +1428,21 @@ Do not throw away any medicines via wastewater. Ask your pharmacist how to throw
 
 The tablets are available in aluminium foil blisters containing 14 film-coated tablets.
 
-Each pack contains 28 tablets.
+Each pack contains 14, 28 or 98 tablets. Not all pack sizes may be marketed.
 
-Marketing Authorisation Holder Cytokinetics (Ireland) Limited 45 Mespil Road Dublin D04 WF21 Ireland Tel: +353 1 200 3014 medinfo.europe@cytokinetics.com
+## Marketing Authorisation Holder
+
+Cytokinetics (Ireland) Limited 45 Mespil Road Dublin D04 WF21 Ireland Tel: +353 1 200 3014
+
+medinfo.europe@cytokinetics.com
 
 ## Manufacturer
 
-Patheon France 40 Boulevard de Champaret
+Cytokinetics (Ireland) Limited 45 Mespil Rd.
 
 <div style=\"page-break-after: always\"></div>
 
-Bourgoin Jallieu, 38300 France
-
-## This leaflet was last revised in
+## Dublin D04 W2F1 Ireland This leaflet was last revised in
 
 ## Other sources of information
 

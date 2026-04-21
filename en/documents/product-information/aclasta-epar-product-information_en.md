@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-09-05 11:55:17
-document_pages: 41
+document_datetime: 2026-04-20 10:46:25
+document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/aclasta-epar-product-information_en.pdf
 document_name: aclasta-epar-product-information_en.pdf
 version: success
-processing_time: 7.8152102
-conversion_datetime: 2025-12-23 02:31:23.712609
+processing_time: 9.4843368
+conversion_datetime: 2026-04-21 14:54:58.477175
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -239,7 +239,7 @@ The overall percentage of patients who experienced adverse reactions were 44.7%,
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions in Table 1 are listed according to MedDRA system organ class and frequency category. Frequency categories are defined using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very ra re (&lt;1/10,000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Adverse reactions in Table 1 are listed according to MedDRA system organ class and frequency category. Frequency categories are defined using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1
 
@@ -346,7 +346,7 @@ Aclasta treatment rapidly reduced the rate of bone turnover from elevated post-m
 
 ## Clinical efficacy in the treatment of post-menopausal osteoporosis (PFT)
 
-The efficacy and safety of Aclasta 5 mg once a year for 3 consecutive years were demonstrated in post-menopausal women (7,736 women aged 65-89 years) with either: a femoral neck bone mineral density (BMD) with a Tscore ≤ -1.5 and at least two mild or one moderate existing vertebral fracture(s); or a femoral neck BMD Tscore ≤ -2.5 with or without evidence of existing vertebral fracture(s). 85% of patients were bisphosphonate-naïve. Women who were evaluated for the incidence of vertebral fractures did not receive concomitant osteoporosis therapy, which was allowed for women contributing to the hip and all clinical fracture evaluations. Concomitant osteoporosis therapy included: calcitonin, raloxifene, tamoxifen, hormone replacement therapy, tibolone; but excluded other bisphosphonates. All women received 1,000 to 1,500 mg elemental calcium and 400 to 1,200 IU of vitamin D supplements daily.
+The efficacy and safety of Aclasta 5 mg once a year for 3 consecutive years were demonstrated in post-menopausal women (7,736 women aged 65-89 years) with either: a femoral neck bone mineral density (BMD) with a T-score ≤ -1.5 and at least two mild or one moderate existing vertebral fracture(s); or a femoral neck BMD T-score ≤ -2.5 with or without evidence of existing vertebral fracture(s). 85% of patients were bisphosphonate-naïve. Women who were evaluated for the incidence of vertebral fractures did not receive concomitant osteoporosis therapy, which was allowed for women contributing to the hip and all clinical fracture evaluations. Concomitant osteoporosis therapy included: calcitonin, raloxifene, tamoxifen, hormone replacement therapy, tibolone; but excluded other bisphosphonates. All women received 1,000 to 1,500 mg elemental calcium and 400 to 1,200 IU of vitamin D supplements daily.
 
 ## Effect on morphometric vertebral fractures
 
@@ -388,7 +388,7 @@ Aclasta significantly increased BMD at the lumbar spine, hip, and distal radius 
 
 ## Bone histology
 
-Bone biopsies were obtained from the iliac crest 1 year after the third annual dose in 152 post-menopausal patients with osteoporosis treated with Aclasta (N=82) or placebo (N=70). Histomorphometric analysis showed a 63% reduction in bone turnover. In patients treated with Aclasta, no osteomalacia, marrow fibrosis or woven bone formation was detected. Tetracycline label was detectable in all but one of 82 biopsies obtained from patients on Aclasta. Microcomputed tomography (μCT) analysis demonstrated increa sed trabecular bone volume and preservation of trabecular bone architecture in patients treated with Aclasta compared to placebo.
+Bone biopsies were obtained from the iliac crest 1 year after the third annual dose in 152 post-menopausal patients with osteoporosis treated with Aclasta (N=82) or placebo (N=70). Histomorphometric analysis showed a 63% reduction in bone turnover. In patients treated with Aclasta, no osteomalacia, marrow fibrosis or woven bone formation was detected. Tetracycline label was detectable in all but one of 82 biopsies obtained from patients on Aclasta. Microcomputed tomography (μCT) analysis demonstrated increased trabecular bone volume and preservation of trabecular bone architecture in patients treated with Aclasta compared to placebo.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -497,7 +497,7 @@ After initiation of the zoledronic acid infusion, plasma concentrations of the a
 
 ## Elimination
 
-Intravenously administered zoledronic acid is eliminated by a triphasic process: rapid biphasic disappearance from the systemic circulation, with half-lives of t½ α 0.24 and t½ β 1.87 hours, followed by a long elimination phase with a terminal elimination half-life of t½ γ 146 hours. There was no accumulation of the active substance in plasma after multiple doses given every 28 days. The early disposition phases (α and β, with t ½ values above) presumably represent rapid uptake into bone and excretion via the kidneys.
+Intravenously administered zoledronic acid is eliminated by a triphasic process: rapid biphasic disappearance from the systemic circulation, with half-lives of t½  0.24 and t½  1.87 hours, followed by a long elimination phase with a terminal elimination half-life of t½  146 hours. There was no accumulation of the active substance in plasma after multiple doses given every 28 days. The early disposition phases (α and β, with t½ values above) presumably represent rapid uptake into bone and excretion via the kidneys.
 
 Zoledronic acid is not metabolised and is excreted unchanged via the kidney. Over the first 24 hours, 39 ± 16% of the administered dose is recovered in the urine, while the remainder is principally bound to bone tissue. This uptake into bone is common for all bisphosphonates and is presumably a consequence of the structural analogy to pyrophosphate. As with other bisphosphonates, the retention time of zoledronic acid in bones is very long. From the bone tissue it is released very slowly back into the systemic circulation and eliminated via the kidney. The total body clearance is 5.04 ± 2.5 l/h, independent of dose, and unaffected by gender, age, race or body weight. The inter- and intra-subject variation for plasma clearance of zoledronic acid was shown to be 36% and 34%, respectively. Increasing the infusion time from 5 to 15 minutes caused a 30% decrease in zoledronic acid concentration at the end of the infusion, but had no effect on the area under the plasma concentration versus time curve.
 
@@ -513,7 +513,7 @@ resulting from displacement of highly protein-bound medicinal products are unlik
 
 ## Renal impairment
 
-The renal clearance of zoledronic acid was correlated with creatinine clearance, renal clearance representing 75 ± 33% of the creatinine clearance, which showed a mean of 84 ± 29 ml/min (range 22 to 143 ml/min) in the 64 patients studied. Small observed increases in AUC(0-24hr), by about 30% to 40% in mild to moderate renal impairment, compared to a patient with normal renal function, and lack of accumulation of drug with multiple doses irrespective of renal function, suggest that dose adjustments of zoledronic acid in mild (Clcr = 50-80 ml/min) and moderate renal impairment down to a creatinine clearance of 35 ml/min are not necessary. The use of Aclasta in patients with severe renal impairment (creatinine clearance &lt; 35 ml/min) is contraindicated due to an increased risk of renal failure in this population.
+The renal clearance of zoledronic acid was correlated with creatinine clearance, renal clearance representing 75  33% of the creatinine clearance, which showed a mean of 84  29 ml/min (range 22 to 143 ml/min) in the 64 patients studied. Small observed increases in AUC(0-24hr), by about 30% to 40% in mild to moderate renal impairment, compared to a patient with normal renal function, and lack of accumulation of drug with multiple doses irrespective of renal function, suggest that dose adjustments of zoledronic acid in mild (Clcr = 50-80 ml/min) and moderate renal impairment down to a creatinine clearance of 35 ml/min are not necessary. The use of Aclasta in patients with severe renal impairment (creatinine clearance &lt; 35 ml/min) is contraindicated due to an increased risk of renal failure in this population.
 
 ## 5.3 Preclinical safety data
 
@@ -789,18 +789,21 @@ After opening: 24 hours at 2°C - 8°C.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10.
+
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-EU/1/05/308/001 EU/1/05/308/002
-
-Unit pack Multipack
+EU/1/05/308/001 Unit pack EU/1/05/308/002 Multipack
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -810,8 +813,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -880,7 +883,7 @@ Sandoz Pharmaceuticals d.d. Verovškova ulica 57 1000 Ljubljana Slovenia
 
 EU/1/05/308/002
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
@@ -918,7 +921,7 @@ Mannitol, sodium citrate and water for injections.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for infusion
+Solution for infusion
 
 Multipack: 5 bottles, each bottle of 100 ml.
 
@@ -1226,55 +1229,79 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Sandoz N.V. Telecom Gardens Medialaan 40 B-1800 Vilvoorde Tél/Tel: +32 (0)2 722 97 97
+Sandoz nv/sa
+
+Tél/Tel.: +32 2 722 97 97
 
 ## България
 
-КЧТ Сандоз България Teл.: +359 2 970 47 47
+Сандоз България КЧТ
+
+Teл.: +359 2 970 47 47
 
 ## Česká republika
 
-Sandoz s.r.o. Na Pankráci 1724/129 CZ-140 00, Praha 4 Tel: +420 225 775 111
+Sandoz s.r.o.
 
-office.cz@ sandoz.com
+Tel: +420 234 142 222
 
 ## Danmark
 
-Sandoz A/S Edvard Thomsens Vej 14 DK-2300 København S Tlf: +45 6395 1000 info.danmark@sandoz.com
+Sandoz A/S
 
-Deutschland Hexal AG Industriestr. 25 D-83607 Holzkirchen Tel: +49 8024 908-0 service@hexal.com
+Tlf: +45 63 95 10 00
 
-## Lietuva
+## Deutschland
 
-Sandoz Pharmaceuticals d.d Branch Office Lithuania Seimyniskiu 3A LT - 09312 Vilnius Tel: +370 5 2636 037
+Hexal AG Industriestr. 25 D-83607 Holzkirchen Tel: +49 8024 908-0
 
-## Luxembourg/Luxemburg
-
-Sandoz N.V. Telecom Gardens Medialaan 40 B-1800 Vilvoorde Tél/Tel: +32 (0)2 722 97 97
-
-## Magyarország
-
-Sandoz Hungária Kft. Bartók Béla út 43-47 H-1114 Budapest Tel: +36 1 430 2890 Info.hungary@sandoz.com
-
-## Malta
-
-Sandoz Pharmaceuticals d.d. Verovskova 57 SI-1000 Ljubljana Slovenia Tel: +356 21222872
-
-## Nederland
-
-Sandoz B.V. Hospitaaldreef 29, NL-1315 RC Almere Tel: +31 (0)36 5241600
-
-info.sandoz-nl@sandoz.com
-
-<div style=\"page-break-after: always\"></div>
+service@hexal.com
 
 ## Eesti
 
-Sandoz d.d. Eesti filiaal Pärnu mnt 105 EE - 11312 Tallinn Tel: +372 6652405
+Sandoz d.d. Eesti filiaal Tel: +372 6652400
 
 ## Ελλάδα
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε . Τηλ: +30 216 600 5000
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. Τηλ: +30 216 600 5000
+
+## Lietuva
+
+Sandoz Pharmaceuticals d.d. filialas Tel: +370 5 2636 037
+
+## Luxembourg/Luxemburg
+
+Sandoz nv/sa
+
+Tél/Tel.: +32 2 722 97 97
+
+## Magyarország
+
+Sandoz Hungária Kft. Bartók Béla út 43-47 H-1114 Budapest Tel: +36 1 430 2890
+
+Info.hungary@sandoz.com
+
+## Malta
+
+Sandoz Pharmaceuticals d.d. (Slovenia) Tel: +35699644126
+
+## Nederland
+
+Sandoz B.V. Hospitaaldreef 29 NL-1315 RC Almere Tel: +31 (0)36 5241600
+
+info.sandoz-nl@sandoz.com
+
+## Norge
+
+Sandoz A/S
+
+Tlf: +45 63 95 10 00
+
+## Österreich
+
+Sandoz GmbH Biochemiestr. 10 A-6250 Kundl Tel: +43(0)1 86659-0
+
+<div style=\"page-break-after: always\"></div>
 
 ## España
 
@@ -1282,65 +1309,47 @@ Bexal Farmacéutica, S.A. Centro Empresarial Parque Norte Edificio Roble C/ Serr
 
 ## France
 
-Sandoz SAS 49, avenue Georges Pompidou F-92300 Levallois-Perret Tél: +33 1 49 64 48 00
+Sandoz SAS
+
+Tél: + 33 1 49 64 48 00
 
 ## Hrvatska
 
-Sandoz d.o.o. Maksimirska 120 10 000 Zagreb Tel : +385 1 235 3111 upit.croatia@sandoz.com
+Sandoz d.o.o. 10 000 Zagreb
+
+Maksimirska 120 Tel : +385 1 235 3111
+
+upit.croatia@sandoz.com
 
 ## Ireland
 
-Sandoz Pharmaceuticals d.d. Verovškova ulica 57 1000 Ljubljana Slovenia
+Rowex Ltd., Bantry, Co. Cork, Ireland. P75 V009
+
+Tel: + 353 27 50077
+
+e-mail: patient.safety.ireland@sandoz.net
 
 ## Ísland
 
-Sandoz A/S Edvard Thomsens Vej 14 DK-2300 Kaupmaannahöfn S Danmörk Tlf: +45 6395 1000 info.danmark@sandoz.com
+Sandoz A/S
 
-## Norge
-
-Sandoz A/S Edvard Thomsens Vej 14 DK-2300 København S Danmark Tlf: +45 6395 1000 info.norge@sandoz.com
-
-## Österreich
-
-Sandoz GmbH
-
-Biochemiestr. 10
-
-A-6250 Kundl
-
-Tel: +43(0)1 86659-0
-
-## Polska
-
-Sandoz Polska Sp. z o.o. ul. Domaniewska 50 C 02 672 Warszawa Tel.: +48 22 209 7000 maintenance.pl@sandoz.com
-
-## Portugal
-
-Sandoz Farmacêutica Lda. Tel: +351 211 964 000
-
-România Sandoz S.R.L. Strada Livezeni Nr. 7a 540472 Târgu Mureș Tel: +40 21 407 51 60
-
-## Slovenija
-
-Lek farmacevtska družba d.d. Verovškova 57 SI-1526 Ljubljana Tel: +386 1 580 21 11 Info.lek@sandoz.com
-
-## Slovenská republika
-
-Sandoz d.d. organizačná zložka Žižkova 22B 811 02 Bratislava Tel: +421 2 48 200 600 sk.regulatory@sandoz.com
-
-<div style=\"page-break-after: always\"></div>
+Sími: +45 63 95 10 00
 
 ## Italia
 
-Sandoz S.p.A. I-21040 Origgio / VA
-
-Largo Umberto Boccioni, 1 Tel: +39 02 96 54 1 regaff.italy@sandoz.com
+Sandoz S.p.A. Tel: +39 02 812 806 96
 
 ## Κύπρος
 
-Sandoz Pharmaceuticals d.d. Verovskova 57 SI-1000 Ljubljana Σλοβενία Τηλ: +357 22 69 0690
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
 
-Latvija Sandoz d.d. Latvia filiāle K.Valdemāra 33 - 29 LV1010 Rīga Tel: +371 67892006
+(Ελλάδα)
+
+Τηλ: +30 216 600 5000
+
+## Latvija
+
+Sandoz d.d. Latvia filiāle K.Valdemāra 33 - 29 LV-1010 Rīga Tel: +371 67892006
 
 ## This leaflet was last revised in
 
@@ -1348,21 +1357,41 @@ Latvija Sandoz d.d. Latvia filiāle K.Valdemāra 33 - 29 LV1010 Rīga Tel: +371 
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
 
+## Polska
+
+Sandoz Polska Sp. z o.o. ul. Domaniewska 50 C 02 672 Warszawa Tel.: +48 22 209 7000 maintenance.pl@sandoz.com
+
+## Portugal
+
+Sandoz Farmacêutica Lda.
+
+Tel: +351 211 964 000
+
+## România
+
+Sandoz Pharmaceuticals SRL
+
+Tel: +40 21 407 51 60
+
+## Slovenija
+
+Lek farmacevtska družba d.d. Verovškova 57 SI-1526 Ljubljana Tel: +386 1 580 21 11 Info.lek@sandoz.com
+
+## Slovenská republika
+
+Sandoz d.d. - organizačná zložka Žižkova 22B 811 02 Bratislava Tel: +421 2 48 200 600 sk.regulatory@sandoz.com
+
 ## Suomi/Finland
 
-Sandoz A/S Edvard Thomsens Vej 14 DK-2300 Kööpenhamina S Tanska
+Sandoz A/S
 
-Puh: + 358 010 6133 400
-
-info.suomi@sandoz.com
+Puh/Tel: +358 10 6133 400
 
 ## Sverige
 
-Sandoz A/S DK-2300 Köpenhamn S
+Sandoz A/S
 
-Edvard Thomsens Vej 14 Danmark Tel: +45 6395 1000
-
-info.sverige@sandoz.com
+Tel: +45 63 95 10 00
 
 <div style=\"page-break-after: always\"></div>
 

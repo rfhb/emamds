@@ -1,21 +1,97 @@
 ---
-document_datetime: 2026-03-25 10:00:00
+document_datetime: 2026-04-17 15:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/evrysdi.html
 document_name: evrysdi.html
 version: success
-processing_time: 0.1237905
-conversion_datetime: 2026-03-29 12:29:03.73566
+processing_time: 0.126427
+conversion_datetime: 2026-04-21 14:55:28.611384
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
   docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Evrysdi
+
 # Evrysdi
 
 [RSS](/en/individual-human-medicine.xml/67433)
@@ -116,7 +192,7 @@ English (EN) (111.9 KB - PDF)
 
 [View](/en/documents/overview/evrysdi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-119)
+[Other languages (22)](#file-language-dropdown-15)
 
 български (BG) (138.66 KB - PDF)
 
@@ -252,9 +328,9 @@ svenska (SV) (111.6 KB - PDF)
 
 Evrysdi : EPAR - Risk management plan
 
-English (EN) (1.33 MB - PDF)
+English (EN) (2.11 MB - PDF)
 
-**First published:** 04/05/2021 **Last updated:** 29/01/2024
+**First published:** 04/05/2021 **Last updated:** 17/04/2026
 
 [View](/en/documents/rmp/evrysdi-epar-risk-management-plan_en.pdf)
 
@@ -268,7 +344,7 @@ English (EN) (850.4 KB - PDF)
 
 [View](/en/documents/product-information/evrysdi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-470)
+[Other languages (24)](#file-language-dropdown-927)
 
 български (BG) (1.81 MB - PDF)
 
@@ -440,7 +516,7 @@ English (EN) (14.15 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-325)
+[Other languages (24)](#file-language-dropdown-272)
 
 български (BG) (45.51 KB - PDF)
 
@@ -646,7 +722,7 @@ Marketing authorisation issued
 
 Revision
 
-14
+15
 
 ## Assessment history
 
@@ -658,9 +734,9 @@ Collapse section
 
 Evrysdi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (165.97 KB - PDF)
+English (EN) (167.75 KB - PDF)
 
-**First published:** 14/07/2025 **Last updated:** 25/03/2026
+**First published:** 14/07/2025 **Last updated:** 17/04/2026
 
 [View](/en/documents/procedural-steps-after/evrysdi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -792,6 +868,6 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 **This page was last updated on**
 
-25/03/2026
+17/04/2026
 
 ## Share this page

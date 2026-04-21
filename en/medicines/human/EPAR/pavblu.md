@@ -1,32 +1,108 @@
 ---
-document_datetime: 2025-12-29 11:24:25
+document_datetime: 2026-04-14 12:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pavblu.html
 document_name: pavblu.html
 version: success
-processing_time: 0.1059596
-conversion_datetime: 2025-12-31 04:57:21.292471
+processing_time: 0.1016815
+conversion_datetime: 2026-04-21 14:55:43.73906
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Pavblu
+
 # Pavblu
 
 [RSS](/en/individual-human-medicine.xml/254537)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-aflibercept Medicine Human Authorised
+aflibercept
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -120,181 +196,137 @@ English (EN) (103.46 KB - PDF)
 
 [View](/en/documents/overview/pavblu-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-611)
+[Other languages (22)](#file-language-dropdown-963)
 
 български (BG) (171.61 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/bg/documents/overview/pavblu-epar-medicine-overview_bg.pdf)
 
 español (ES) (145.82 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/es/documents/overview/pavblu-epar-medicine-overview_es.pdf)
 
 čeština (CS) (170.45 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/cs/documents/overview/pavblu-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (145.62 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/da/documents/overview/pavblu-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (149.48 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/de/documents/overview/pavblu-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (142.89 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/et/documents/overview/pavblu-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (170.42 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/el/documents/overview/pavblu-epar-medicine-overview_el.pdf)
 
 français (FR) (150.22 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/fr/documents/overview/pavblu-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (170.81 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/hr/documents/overview/pavblu-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (144.43 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/it/documents/overview/pavblu-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (176.46 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/lv/documents/overview/pavblu-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (167.93 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/lt/documents/overview/pavblu-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (166.59 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/hu/documents/overview/pavblu-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (170.53 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/mt/documents/overview/pavblu-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (146.58 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/nl/documents/overview/pavblu-epar-medicine-overview_nl.pdf)
 
 polski (PL) (176.07 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/pl/documents/overview/pavblu-epar-medicine-overview_pl.pdf)
 
 português (PT) (145.91 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/pt/documents/overview/pavblu-epar-medicine-overview_pt.pdf)
 
 română (RO) (165.18 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/ro/documents/overview/pavblu-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (169.95 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/sk/documents/overview/pavblu-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (166.02 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/sl/documents/overview/pavblu-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (142.77 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/fi/documents/overview/pavblu-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (143.83 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/sv/documents/overview/pavblu-epar-medicine-overview_sv.pdf)
 
@@ -310,305 +342,161 @@ English (EN) (1.23 MB - PDF)
 
 Pavblu : EPAR - Product information
 
-English (EN) (1.25 MB - PDF)
+English (EN) (1.33 MB - PDF)
 
-**First published:** 08/04/2025
-
-**Last updated:** 26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/en/documents/product-information/pavblu-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-86)
+[Other languages (24)](#file-language-dropdown-444)
 
-български (BG) (2.23 MB - PDF)
+български (BG) (1.81 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/bg/documents/product-information/pavblu-epar-product-information_bg.pdf)
 
-español (ES) (2.19 MB - PDF)
+español (ES) (1.79 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/es/documents/product-information/pavblu-epar-product-information_es.pdf)
 
-čeština (CS) (2.11 MB - PDF)
+čeština (CS) (1.75 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/cs/documents/product-information/pavblu-epar-product-information_cs.pdf)
 
-dansk (DA) (1.99 MB - PDF)
+dansk (DA) (1.66 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/da/documents/product-information/pavblu-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.52 MB - PDF)
+Deutsch (DE) (1.47 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/de/documents/product-information/pavblu-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.88 MB - PDF)
+eesti keel (ET) (1.65 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/et/documents/product-information/pavblu-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.26 MB - PDF)
+ελληνικά (EL) (1.89 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/el/documents/product-information/pavblu-epar-product-information_el.pdf)
 
-français (FR) (2.41 MB - PDF)
+français (FR) (2.05 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/fr/documents/product-information/pavblu-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.16 MB - PDF)
+hrvatski (HR) (1.79 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/hr/documents/product-information/pavblu-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.44 MB - PDF)
+íslenska (IS) (1.37 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/is/documents/product-information/pavblu-epar-product-information_is.pdf)
 
-italiano (IT) (2.08 MB - PDF)
+italiano (IT) (1.71 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/it/documents/product-information/pavblu-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.58 MB - PDF)
+latviešu valoda (LV) (1.49 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/lv/documents/product-information/pavblu-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.19 MB - PDF)
+lietuvių kalba (LT) (1.87 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/lt/documents/product-information/pavblu-epar-product-information_lt.pdf)
 
-magyar (HU) (2.12 MB - PDF)
+magyar (HU) (1.77 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/hu/documents/product-information/pavblu-epar-product-information_hu.pdf)
 
-Malti (MT) (1.8 MB - PDF)
+Malti (MT) (1.65 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/mt/documents/product-information/pavblu-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2 MB - PDF)
+Nederlands (NL) (1.73 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/nl/documents/product-information/pavblu-epar-product-information_nl.pdf)
 
-norsk (NO) (1.96 MB - PDF)
+norsk (NO) (1.65 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/no/documents/product-information/pavblu-epar-product-information_no.pdf)
 
-polski (PL) (2.05 MB - PDF)
+polski (PL) (1.75 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/pl/documents/product-information/pavblu-epar-product-information_pl.pdf)
 
-português (PT) (2.09 MB - PDF)
+português (PT) (1.74 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/pt/documents/product-information/pavblu-epar-product-information_pt.pdf)
 
-română (RO) (1.63 MB - PDF)
+română (RO) (1.5 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/ro/documents/product-information/pavblu-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.86 MB - PDF)
+slovenčina (SK) (1.69 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/sk/documents/product-information/pavblu-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.09 MB - PDF)
+slovenščina (SL) (1.72 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/sl/documents/product-information/pavblu-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.91 MB - PDF)
+Suomi (FI) (1.62 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/fi/documents/product-information/pavblu-epar-product-information_fi.pdf)
 
-svenska (SV) (1.59 MB - PDF)
+svenska (SV) (1.46 MB - PDF)
 
-**First published:**
-
-08/04/2025
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/04/2025 **Last updated:** 14/04/2026
 
 [View](/sv/documents/product-information/pavblu-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000276431 26/06/2025
+**Latest procedure affecting product information:** VR/0000339035
+
+14/04/2026
 
 icon globe
 
@@ -632,203 +520,167 @@ English (EN) (43.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-478)
+[Other languages (24)](#file-language-dropdown-163)
 
 български (BG) (47.56 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/bg/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (40.23 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/es/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (43.47 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/cs/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (43.53 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/da/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (43.9 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/de/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (37.78 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/et/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (43.06 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/el/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (41.48 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/fr/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (41.95 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/hr/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (42.13 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/is/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (40.6 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/it/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (44.48 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/lv/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (44.28 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/lt/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (44.05 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/hu/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (44.17 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/mt/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (40.74 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/nl/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (43.43 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/no/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (45.18 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/pl/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (42.64 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/pt/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (43.28 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/ro/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (43.67 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/sk/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (41.76 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/sl/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (38.71 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/fi/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (41.11 KB - PDF)
 
-**First published:**
-
-08/04/2025
+**First published:** 08/04/2025
 
 [View](/sv/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Pavblu Active substance aflibercept International non-proprietary name (INN) or common name aflibercept Therapeutic area (MeSH)
+Name of medicine
+
+Pavblu
+
+Active substance
+
+aflibercept
+
+International non-proprietary name (INN) or common name
+
+aflibercept
+
+Therapeutic area (MeSH)
 
 - Wet Macular Degeneration
 - Macular Edema
@@ -836,7 +688,9 @@ Name of medicine Pavblu Active substance aflibercept International non-proprieta
 - Choroidal Neovascularization
 - Diabetes Complications
 
-Anatomical therapeutic chemical (ATC) code S01LA05
+Anatomical therapeutic chemical (ATC) code
+
+S01LA05
 
 ### Pharmacotherapeutic group
 
@@ -853,7 +707,9 @@ Pavblu is indicated for adults for the treatment of
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006339
+EMA product number
+
+EMEA/H/C/006339
 
 Additional monitoring
 
@@ -869,7 +725,13 @@ Amgen Technology (Ireland) UC
 
 Pottery Road
 
-Opinion adopted 30/01/2025 Revision 1
+Opinion adopted
+
+30/01/2025
+
+Revision
+
+2
 
 ## Assessment history
 
@@ -881,9 +743,9 @@ Collapse section
 
 Pavblu : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (143.74 KB - PDF)
+English (EN) (154.08 KB - PDF)
 
-**First published:** 26/06/2025
+**First published:** 26/06/2025 **Last updated:** 14/04/2026
 
 [View](/en/documents/procedural-steps-after/pavblu-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -891,9 +753,7 @@ English (EN) (143.74 KB - PDF)
 
 Pavblu : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/90425/2025
+Adopted Reference Number: EMA/90425/2025
 
 English (EN) (2.32 MB - PDF)
 
@@ -903,9 +763,7 @@ English (EN) (2.32 MB - PDF)
 
 CHMP summary of positive opinion for Pavblu
 
-Adopted
-
-Reference Number: EMA/CHMP/15089/2025
+Adopted Reference Number: EMA/CHMP/15089/2025
 
 English (EN) (159.5 KB - PDF)
 
@@ -913,12 +771,14 @@ English (EN) (159.5 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-pavblu_en.pdf)
 
-#### News on Pavblu
+## News on Pavblu
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2025) 31/01/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2025)
 
-**This page was last updated on** 26/06/2025
+31/01/2025
+
+**This page was last updated on**
+
+14/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-04-23 14:11:43
-document_pages: 65
+document_datetime: 2026-04-17 15:39:31
+document_pages: 67
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/micardis-epar-product-information_en.pdf
 document_name: micardis-epar-product-information_en.pdf
 version: success
-processing_time: 13.137563
-conversion_datetime: 2025-12-21 23:07:41.396737
+processing_time: 15.1669456
+conversion_datetime: 2026-04-21 14:50:19.516018
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -312,9 +312,9 @@ The adverse reactions listed below have been accumulated from controlled clinica
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions have been ranked under headings of frequency using the following convention:
+Adverse reactions have been ranked under headings of frequency using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare
 
-very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000).
+(≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -334,7 +334,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Uncommon:                            | Insomnia, depression                                                                                     |
 | Rare:                                | Anxiety                                                                                                  |
 | Nervous system disorders             | Nervous system disorders                                                                                 |
-| Uncommon:                            | Syncope                                                                                                  |
+| Uncommon:                            | Syncope, dizziness                                                                                       |
 | Rare:                                | Somnolence                                                                                               |
 
 Eye disorders
@@ -369,11 +369,9 @@ Respiratory, thoracic and mediastinal disorders
 
 Uncommon:
 
-Dyspnoea, cough 4
+Dyspnoea, cough Interstitial lung disease 4
 
 Very rare:
-
-Interstitial lung disease
 
 Gastrointestinal disorders
 
@@ -942,8 +940,7 @@ Store in the original package in order to protect from moisture.
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Boehringer Ingelheim International GmbH
 
@@ -1171,7 +1168,7 @@ MON TUE WED THU FRI SAT SUN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+| MINIMUM PARTICULARS TO APPEARON BLISTERS OR STRIPS   |
 |------------------------------------------------------|
 | Unit dose blister                                    |
 
@@ -1585,7 +1582,7 @@ Talk to your doctor before taking Micardis if you are suffering or have ever suf
 
 Talk to your doctor before taking Micardis:
 
-- •
+- ·
 - if you are taking any of the following medicines used to treat high blood pressure: - an ACE-inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems. - aliskiren.
 
 Your doctor may check your kidney function, blood pressure, and the amount of electrolytes (e.g. potassium) in your blood at regular intervals. See also information under the heading 'Do not take Micardis'.
@@ -1683,7 +1680,7 @@ Common side effects (may affect up to 1 in 10 people): Low blood pressure (hypot
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
-Urinary tract infections, upper respiratory tract infections (e.g. sore throat, inflamed sinuses, common cold), deficiency in red blood cells (anaemia), high potassium levels, difficulty falling asleep, feeling sad (depression), fainting (syncope), feeling of spinning (vertigo), slow heart rate (bradycardia), low blood pressure (hypotension) in users treated for high blood pressure, dizziness on standing up (orthostatic hypotension), shortness of breath, cough, abdominal pain, diarrhoea, pain in the belly, bloating, vomiting, itching, increased sweating, drug rash, back pain, muscle cramps, muscle pain (myalgia), kidney impairment (including acute kidney failure), pain in the chest, feeling of weakness, and increased level of creatinine in the blood.
+Urinary tract infections, upper respiratory tract infections (e.g. sore throat, inflamed sinuses, common cold), deficiency in red blood cells (anaemia), high potassium levels, difficulty falling asleep, feeling sad (depression), dizziness, fainting (syncope), feeling of spinning (vertigo), slow heart rate (bradycardia), low blood pressure (hypotension) in users treated for high blood pressure, dizziness on standing up (orthostatic hypotension), shortness of breath, cough, abdominal pain, diarrhoea, pain in the belly, bloating, vomiting, itching, increased sweating, drug rash, back pain, muscle cramps, muscle pain (myalgia), kidney impairment (including acute kidney failure), pain in the chest, feeling of weakness, and increased level of creatinine in the blood.
 
 ## Rare side effects (may affect up to 1 in 1 000 people):
 
@@ -1826,7 +1823,7 @@ Boehringer Ingelheim Sp. z o.o. Tel.: +48 22 699 0 699
 
 Boehringer Ingelheim Portugal, Lda. Tel: +351 21 313 53 00
 
-România
+## România
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Viena - Sucursala Bucureşti Tel: +40 21 302 28 00
 
@@ -1864,7 +1861,9 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Suomi/Finland
 
-Boehringer Ingelheim Finland Ky Puh/Tel: +358 10 3102 800
+Boehringer Ingelheim Finland Ky
+
+Puh/Tel: +358 10 3102 800
 
 ## Sverige
 
@@ -1932,7 +1931,7 @@ Talk to your doctor before taking Micardis if you are suffering or have ever suf
 
 Talk to your doctor before taking Micardis:
 
-- •
+- ·
 - if you are taking any of the following medicines used to treat high blood pressure:
 
 - an ACE-inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems.
@@ -1966,7 +1965,7 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 <div style=\"page-break-after: always\"></div>
 
-## · Digoxin.
+- Digoxin.
 
 The effect of Micardis may be reduced when you take NSAIDs (non steroidal anti-inflammatory medicines, e.g. aspirin or ibuprofen) or corticosteroids.
 
@@ -2034,7 +2033,7 @@ Common side effects (may affect up to 1 in 10 people): Low blood pressure (hypot
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
-Urinary tract infections, upper respiratory tract infections (e.g. sore throat, inflamed sinuses, common cold), deficiency in red blood cells (anaemia), high potassium levels, difficulty falling asleep, feeling sad (depression), fainting (syncope), feeling of spinning (vertigo), slow heart rate (bradycardia), low blood pressure (hypotension) in users treated for high blood pressure, dizziness on standing up (orthostatic hypotension), shortness of breath, cough, abdominal pain, diarrhoea, pain in the belly, bloating, vomiting, itching, increased sweating, drug rash, back pain, muscle cramps, muscle pain (myalgia), kidney impairment (including acute kidney failure), pain in the chest, feeling of weakness, and increased level of creatinine in the blood.
+Urinary tract infections, upper respiratory tract infections (e.g. sore throat, inflamed sinuses, common cold), deficiency in red blood cells (anaemia), high potassium levels, difficulty falling asleep, feeling sad (depression), dizziness, fainting (syncope), feeling of spinning (vertigo), slow heart rate (bradycardia), low blood pressure (hypotension) in users treated for high blood pressure, dizziness on standing up (orthostatic hypotension), shortness of breath, cough, abdominal pain, diarrhoea, pain in the belly, bloating, vomiting, itching, increased sweating, drug rash, back pain, muscle cramps, muscle pain (myalgia), kidney impairment (including acute kidney failure), pain in the chest, feeling of weakness, and increased level of creatinine in the blood.
 
 ## Rare side effects (may affect up to 1 in 1 000 people):
 
@@ -2048,7 +2047,7 @@ Not known (frequency cannot be estimated from the available data): Intestinal an
 
 * The event may have happened by chance or could be related to a mechanism currently not known.
 
-- ** Cases of progressive scarring of lung tissue have been reported during intake of telmisartan. However, it is not known whether telmisartan was the cause.
+** Cases of progressive scarring of lung tissue have been reported during intake of telmisartan. However, it is not known whether telmisartan was the cause.
 
 ## Reporting of side effects
 
@@ -2288,7 +2287,7 @@ Talk to your doctor before taking Micardis if you are suffering or have ever suf
 
 Talk to your doctor before taking Micardis:
 
-- •
+- ·
 - if you are taking any of the following medicines used to treat high blood pressure: - an ACE-inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems. - aliskiren.
 
 Your doctor may check your kidney function, blood pressure, and the amount of electrolytes (e.g. potassium) in your blood at regular intervals. See also information under the heading 'Do not take Micardis'.
@@ -2388,7 +2387,7 @@ Low blood pressure (hypotension) in users treated for reduction of cardiovascula
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
-Urinary tract infections, upper respiratory tract infections (e.g. sore throat, inflamed sinuses, common cold), deficiency in red blood cells (anaemia), high potassium levels, difficulty falling asleep, feeling sad (depression), fainting (syncope), feeling of spinning (vertigo), slow heart rate (bradycardia), low blood pressure (hypotension) in users treated for high blood pressure, dizziness on standing up (orthostatic hypotension), shortness of breath, cough, abdominal pain, diarrhoea, pain in the belly, bloating, vomiting, itching, increased sweating, drug rash, back pain, muscle cramps, muscle pain (myalgia), kidney impairment (including acute kidney failure), pain in the chest, feeling of weakness, and increased level of creatinine in the blood.
+Urinary tract infections, upper respiratory tract infections (e.g. sore throat, inflamed sinuses, common cold), deficiency in red blood cells (anaemia), high potassium levels, difficulty falling asleep, feeling sad (depression), dizziness, fainting (syncope), feeling of spinning (vertigo), slow heart rate (bradycardia), low blood pressure (hypotension) in users treated for high blood pressure, dizziness on standing up (orthostatic hypotension), shortness of breath, cough, abdominal pain, diarrhoea, pain in the belly, bloating, vomiting, itching, increased sweating, drug rash, back pain, muscle cramps, muscle pain (myalgia), kidney impairment (including acute kidney failure), pain in the chest, feeling of weakness, and increased level of creatinine in the blood.
 
 ## Rare side effects (may affect up to 1 in 1 000 people):
 
@@ -2587,3 +2586,27 @@ Boehringer Ingelheim Finland Ky Puh/Tel: +358 10 3102 800
 Boehringer Ingelheim AB
 
 Tel: +46 8 721 21 00
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for hydrochlorothiazide / telmisartan, telmisartan, the scientific conclusions of the PRAC are as follows:
+
+## Dizziness
+
+In view of available data on dizziness from clinical trial, literature, spontaneous reports, including 27 cases with a close temporal relationship, 12 cases with a positive de-challenge, 2 cases with a positive rechallenge and in view of a plausible mechanism of action and class effect, the PRAC Rapporteur considers a causal relationship between telmisartan and dizziness is at least a reasonable possibility. The PRAC Rapporteur concluded that the product information of products containing telmisartan should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for hydrochlorothiazide / telmisartan, telmisartan the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing hydrochlorothiazide / telmisartan, telmisartan is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

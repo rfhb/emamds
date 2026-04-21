@@ -1,32 +1,108 @@
 ---
-document_datetime: 2025-12-29 07:08:05
+document_datetime: 2026-04-15 12:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lorviqua.html
 document_name: lorviqua.html
 version: success
-processing_time: 0.117425
-conversion_datetime: 2025-12-31 01:52:21.823484
+processing_time: 0.1391796
+conversion_datetime: 2026-04-21 14:48:23.712682
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Lorviqua
+
 # Lorviqua
 
 [RSS](/en/individual-human-medicine.xml/67198)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-lorlatinib Medicine Human Authorised
+lorlatinib
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -134,285 +210,149 @@ Reference Number: EMA/779155/2021
 
 English (EN) (111.62 KB - PDF)
 
-**First published:** 17/06/2019
-
-**Last updated:** 03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/en/documents/overview/lorviqua-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-172)
+[Other languages (22)](#file-language-dropdown-599)
 
 български (BG) (136.9 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/bg/documents/overview/lorviqua-epar-medicine-overview_bg.pdf)
 
 español (ES) (110.65 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/es/documents/overview/lorviqua-epar-medicine-overview_es.pdf)
 
 čeština (CS) (136.24 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/cs/documents/overview/lorviqua-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (109.86 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/da/documents/overview/lorviqua-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (114.95 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/de/documents/overview/lorviqua-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (98.5 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/et/documents/overview/lorviqua-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (136.81 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/el/documents/overview/lorviqua-epar-medicine-overview_el.pdf)
 
 français (FR) (111.55 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/fr/documents/overview/lorviqua-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (134.48 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/hr/documents/overview/lorviqua-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (135.68 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/it/documents/overview/lorviqua-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (151.87 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/lv/documents/overview/lorviqua-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (143.21 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/lt/documents/overview/lorviqua-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (135.18 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/hu/documents/overview/lorviqua-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (146.38 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/mt/documents/overview/lorviqua-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (119.16 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/nl/documents/overview/lorviqua-epar-medicine-overview_nl.pdf)
 
 polski (PL) (147.33 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/pl/documents/overview/lorviqua-epar-medicine-overview_pl.pdf)
 
 português (PT) (119.48 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/pt/documents/overview/lorviqua-epar-medicine-overview_pt.pdf)
 
 română (RO) (142.18 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/ro/documents/overview/lorviqua-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (143.82 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/sk/documents/overview/lorviqua-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (143.16 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/sl/documents/overview/lorviqua-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (107.38 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/fi/documents/overview/lorviqua-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (109.96 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-03/02/2022
+**First published:** 17/06/2019 **Last updated:** 03/02/2022
 
 [View](/sv/documents/overview/lorviqua-epar-medicine-overview_sv.pdf)
 
 Lorviqua : EPAR - Risk management plan
 
-English (EN) (1.19 MB - PDF)
+English (EN) (1.79 MB - PDF)
 
-**First published:** 17/06/2019
-
-**Last updated:** 15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/en/documents/rmp/lorviqua-epar-risk-management-plan_en.pdf)
 
@@ -420,305 +360,161 @@ English (EN) (1.19 MB - PDF)
 
 Lorviqua : EPAR - Product Information
 
-English (EN) (373.63 KB - PDF)
+English (EN) (579.6 KB - PDF)
 
-**First published:** 17/06/2019
-
-**Last updated:** 15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/en/documents/product-information/lorviqua-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-718)
+[Other languages (24)](#file-language-dropdown-45)
 
-български (BG) (556.11 KB - PDF)
+български (BG) (625.95 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/bg/documents/product-information/lorviqua-epar-product-information_bg.pdf)
 
-español (ES) (302.11 KB - PDF)
+español (ES) (445.7 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/es/documents/product-information/lorviqua-epar-product-information_es.pdf)
 
-čeština (CS) (449.56 KB - PDF)
+čeština (CS) (600 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/cs/documents/product-information/lorviqua-epar-product-information_cs.pdf)
 
-dansk (DA) (321.91 KB - PDF)
+dansk (DA) (447.95 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/da/documents/product-information/lorviqua-epar-product-information_da.pdf)
 
-Deutsch (DE) (424.02 KB - PDF)
+Deutsch (DE) (531.69 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/de/documents/product-information/lorviqua-epar-product-information_de.pdf)
 
-eesti keel (ET) (308.11 KB - PDF)
+eesti keel (ET) (444.66 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/et/documents/product-information/lorviqua-epar-product-information_et.pdf)
 
-ελληνικά (EL) (347.83 KB - PDF)
+ελληνικά (EL) (513.73 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/el/documents/product-information/lorviqua-epar-product-information_el.pdf)
 
-français (FR) (341.48 KB - PDF)
+français (FR) (508.71 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/fr/documents/product-information/lorviqua-epar-product-information_fr.pdf)
 
-hrvatski (HR) (528.89 KB - PDF)
+hrvatski (HR) (496.55 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/hr/documents/product-information/lorviqua-epar-product-information_hr.pdf)
 
-íslenska (IS) (466.98 KB - PDF)
+íslenska (IS) (506.43 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/is/documents/product-information/lorviqua-epar-product-information_is.pdf)
 
-italiano (IT) (484.55 KB - PDF)
+italiano (IT) (439.76 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/it/documents/product-information/lorviqua-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (506.44 KB - PDF)
+latviešu valoda (LV) (477.54 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/lv/documents/product-information/lorviqua-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (300.99 KB - PDF)
+lietuvių kalba (LT) (456.85 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/lt/documents/product-information/lorviqua-epar-product-information_lt.pdf)
 
-magyar (HU) (609.22 KB - PDF)
+magyar (HU) (483.16 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/hu/documents/product-information/lorviqua-epar-product-information_hu.pdf)
 
-Malti (MT) (628.01 KB - PDF)
+Malti (MT) (493.81 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/mt/documents/product-information/lorviqua-epar-product-information_mt.pdf)
 
-Nederlands (NL) (499.41 KB - PDF)
+Nederlands (NL) (418.36 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/nl/documents/product-information/lorviqua-epar-product-information_nl.pdf)
 
-norsk (NO) (543.41 KB - PDF)
+norsk (NO) (456.86 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/no/documents/product-information/lorviqua-epar-product-information_no.pdf)
 
-polski (PL) (329.3 KB - PDF)
+polski (PL) (528.53 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/pl/documents/product-information/lorviqua-epar-product-information_pl.pdf)
 
-português (PT) (511.84 KB - PDF)
+português (PT) (442.7 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/pt/documents/product-information/lorviqua-epar-product-information_pt.pdf)
 
-română (RO) (520.01 KB - PDF)
+română (RO) (486.43 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/ro/documents/product-information/lorviqua-epar-product-information_ro.pdf)
 
-slovenčina (SK) (487.32 KB - PDF)
+slovenčina (SK) (475.73 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/sk/documents/product-information/lorviqua-epar-product-information_sk.pdf)
 
-slovenščina (SL) (490.96 KB - PDF)
+slovenščina (SL) (634.01 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/sl/documents/product-information/lorviqua-epar-product-information_sl.pdf)
 
-Suomi (FI) (477.89 KB - PDF)
+Suomi (FI) (456.9 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/fi/documents/product-information/lorviqua-epar-product-information_fi.pdf)
 
-svenska (SV) (395.81 KB - PDF)
+svenska (SV) (507.65 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-15/05/2025
+**First published:** 17/06/2019 **Last updated:** 15/04/2026
 
 [View](/sv/documents/product-information/lorviqua-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** R/0040 08/05/2025
+**Latest procedure affecting product information:** VR/0000292366
+
+07/04/2026
 
 icon globe
 
@@ -740,305 +536,177 @@ Reference Number: Corr.
 
 English (EN) (25.8 KB - PDF)
 
-**First published:** 17/06/2019
-
-**Last updated:** 07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/en/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-239)
+[Other languages (24)](#file-language-dropdown-110)
 
 български (BG) (28.18 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/bg/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (25.52 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/es/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (25.76 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/cs/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (25.89 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/da/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (27.13 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/de/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (26.2 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/et/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (28.13 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/el/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (25.1 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/fr/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (25.41 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/hr/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (25.92 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/is/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (25.47 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/it/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (25.89 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/lv/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (27.28 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/lt/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (25.83 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/hu/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (26.58 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/mt/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (25.14 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/nl/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (25.99 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/no/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (26.59 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/pl/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (25.76 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/pt/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (25.86 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/ro/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (26.33 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/sk/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (25.8 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/sl/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (25.74 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/fi/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (25.42 KB - PDF)
 
-**First published:**
-
-17/06/2019
-
-**Last updated:**
-
-07/04/2022
+**First published:** 17/06/2019 **Last updated:** 07/04/2022
 
 [View](/sv/documents/all-authorised-presentations/lorviqua-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Lorviqua Active substance Lorlatinib International non-proprietary name (INN) or common name lorlatinib Therapeutic area (MeSH) Carcinoma, Non-Small-Cell Lung Anatomical therapeutic chemical (ATC) code L01ED05
+Name of medicine
+
+Lorviqua
+
+Active substance
+
+Lorlatinib
+
+International non-proprietary name (INN) or common name
+
+lorlatinib
+
+Therapeutic area (MeSH)
+
+Carcinoma, Non-Small-Cell Lung
+
+Anatomical therapeutic chemical (ATC) code
+
+L01ED05
 
 ### Pharmacotherapeutic group
 
@@ -1052,13 +720,27 @@ Name of medicine Lorviqua Active substance Lorlatinib International non-propriet
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004646 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/004646
+
+Marketing authorisation holder
 
 Pfizer Europe MA EEIG
 
 Boulevard de la Plaine 17
 
-Opinion adopted 28/02/2019 Marketing authorisation issued 06/05/2019 Revision 15
+Opinion adopted
+
+28/02/2019
+
+Marketing authorisation issued
+
+06/05/2019
+
+Revision
+
+16
 
 ## Assessment history
 
@@ -1070,19 +752,23 @@ Collapse section
 
 Lorviqua : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (206.43 KB - PDF)
+English (EN) (146.85 KB - PDF)
 
-**First published:** 13/01/2020
-
-**Last updated:** 15/05/2025
+**First published:** 15/04/2026
 
 [View](/en/documents/procedural-steps-after/lorviqua-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
+Lorviqua : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (206.43 KB - PDF)
+
+**First published:** 13/01/2020 **Last updated:** 15/04/2026
+
+[View](/en/documents/procedural-steps-after/lorviqua-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
 Lorviqua-H-C-004646-R-0040 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/210106/2025
+Adopted Reference Number: EMA/210106/2025
 
 English (EN) (1.34 MB - PDF)
 
@@ -1102,9 +788,7 @@ English (EN) (87.57 KB - PDF)
 
 Lorviqua-H-C-4646-II-0015 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/22356/2022
+Adopted Reference Number: EMA/22356/2022
 
 English (EN) (10.8 MB - PDF)
 
@@ -1114,9 +798,7 @@ English (EN) (10.8 MB - PDF)
 
 CHMP post-authorisation summary of opinion for Lorviqua (II-15)
 
-Adopted
-
-Reference Number: EMA/CHMP/684399/2021
+Adopted Reference Number: EMA/CHMP/684399/2021
 
 English (EN) (120.37 KB - PDF)
 
@@ -1128,9 +810,7 @@ English (EN) (120.37 KB - PDF)
 
 Lorviqua : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/182840/2019
+Adopted Reference Number: EMA/CHMP/182840/2019
 
 English (EN) (7.73 MB - PDF)
 
@@ -1140,9 +820,7 @@ English (EN) (7.73 MB - PDF)
 
 CHMP summary of positive opinion for Lorviqua
 
-Adopted
-
-Reference Number: EMA/CHMP/34031/2019
+Adopted Reference Number: EMA/CHMP/34031/2019
 
 English (EN) (116.3 KB - PDF)
 
@@ -1150,35 +828,185 @@ English (EN) (116.3 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-lorviqua_en.pdf)
 
-#### News on Lorviqua
+## News on Lorviqua
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 December 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-december-2021) 17/12/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 December 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-december-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 February 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-february-2019) 01/03/2019
+17/12/2021
 
-#### Product information - with tracked changes
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 February 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-february-2019)
+
+01/03/2019
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Lorviqua : EPAR - Product information - tracked changes
 
-English (EN) (259.28 KB - DOCX)
+English (EN) (280.91 KB - DOCX)
 
-**First published:** 15/05/2025
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
 
 [View](/en/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_en.docx)
 
-#### More information on Lorviqua
+[Other languages (24)](#file-language-dropdown-73)
+
+български (BG) (386.06 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/bg/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (169.95 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/es/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (284.5 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/cs/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (177.67 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/da/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (320.78 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/de/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (187.35 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/et/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (207.59 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/el/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (193.78 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/fr/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (199.21 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/hr/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (562.4 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/is/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (207.55 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/it/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (207.47 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/lv/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (152.75 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/lt/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (223.67 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/hu/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (200.64 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/mt/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (193.9 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/nl/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (214.83 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/no/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (167.19 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/pl/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (184.9 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/pt/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (194.91 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/ro/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (180.17 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/sk/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (416.43 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/sl/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (208.69 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/fi/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (290.64 KB - DOCX)
+
+**First published:** 15/05/2025 **Last updated:** 15/04/2026
+
+[View](/sv/documents/product-information-tracked-changes/lorviqua-epar-product-information-tracked-changes_sv.docx)
+
+## More information on Lorviqua
 
 - [EMEA-002669-PIP02-20 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002669-pip02-20)
 - [Observational study to investigate safety and effectiveness of lorlatinib as first line treatment for ALK-gene rearranged unresectable advanced/recurrent NSCLC patients in Japan clinical setting - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000117)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 23/06/2025
+**This page was last updated on**
+
+15/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

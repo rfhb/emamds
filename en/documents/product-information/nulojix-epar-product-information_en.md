@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-12-12 14:12:55
-document_pages: 43
+document_datetime: 2026-04-20 13:32:00
+document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nulojix-epar-product-information_en.pdf
 document_name: nulojix-epar-product-information_en.pdf
 version: success
-processing_time: 10.3804105
-conversion_datetime: 2025-12-24 19:00:15.5866
+processing_time: 12.8002484
+conversion_datetime: 2026-04-21 14:59:40.814837
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -58,7 +58,7 @@ Belatacept has not been studied in patients with Panel Reactive Antibody (PRA) &
 
 Initiation at the time of transplantation
 
-For transplant recipients receiving NULOJIX treatment from time of transplantation ('newly transplanted patients'), the addition of an interleukin-2 (IL-2) receptor antagonist is recommended.
+For transplant recipients receiving NULOJIX treatment from time of transplantation (' newly transplanted patients ' ), the addition of an interleukin-2 (IL-2) receptor antagonist is recommended.
 
 The recommended dose is based on patient body weight (kg). The dose and treatment frequency is given below.
 
@@ -483,9 +483,9 @@ The safety and efficacy of belatacept as part of an immunosuppressive regimen fo
 
 ## Study 1: Recipients of Living Donor and Standard Criteria Deceased Donor Kidneys
 
-Standard criteria donor organs were defined as organs from a living donor, or a deceased donor with anticipated cold ischemia time of &lt; 24 hours and not meeting the definition of extended criteria donor organs. Study 1 excluded (1) recipients undergoing a fir st transplant whose current PRA were ≥ 50%; (2) recipients undergoing a retransplantation whose current PRA were ≥ 30%; (3) recipients when previous graft loss was due to acute rejection and in case of a positive T-cell lymphocytotoxic cross match.
+Standard criteria donor organs were defined as organs from a living donor, or a deceased donor with anticipated cold ischemia time of &lt; 24 hours and not meeting the definition of extended criteria donor organs. Study 1 excluded (1) recipients undergoing a first transplant whose current PRA were ≥ 50%; (2) recipients undergoing a retransplantation whose current PRA were ≥ 30%; (3) recipients when previous graft loss was due to acute rejection and in case of a positive T-cell lymphocytotoxic cross match.
 
-In this study, 666 patients were enrolled, randomised, and transplanted; 219 to belatacept MI, 226 to belatacept LI, and 221 to ciclosporin. The median age was 45 years; 58% of donor organs were from living patients; 3% were re-transplanted; 69% of the study population was male; 61% of patients were white, 8% were black/African-American, 31% were categorised as of other races; 16% had PRA ≥ 10%; and 41% had 4 to 6 HLA mismatches.
+In this study, 666 patients were enrolled, randomised, and transplanted; 219 to belatacept MI, 226 to belatacept LI, and 221 to ciclosporin. The median age was 45 years; 58% of donor organs were from living patients; 3% were re-transplanted; 69% of the study population was male; 61% of patients were white, 8% were black/African-American, 31% were categorised as of other races; 16% had PRA  10%; and 41% had 4 to 6 HLA mismatches.
 
 The dose of corticosteroids used in all treatment groups was tapered during the first 6 months following transplantation. The median corticosteroid doses administered with the belataceptrecommended regimen up to months 1, 3, and 6 were 20 mg, 12 mg and 10 mg, respectively.
 
@@ -497,7 +497,7 @@ Extended criteria donors were defined as deceased donors with at least one of th
 
 hypertension, serum creatinine &gt; 1.5 mg/dl); (3) donation after cardiac death or (4) anticipated cold ischemia time of ≥ 24 hours. Study 2 excluded recipients with a current PRA ≥ 30%, re-transplanted patients, and in case of a positive T-cell lymphocytotoxic cross match.
 
-In this study, 543 patients were enrolled, randomised, and transplanted; 184 to belatacept MI, 175 to belatacept LI, and 184 to ciclosporin. The median age was 58 years; 67% of the study population was male; 75% of patients were white, 13% were black/African-American, 12% were categorised as of other races; 3% had PRA ≥ 10%; and 53% had 4 to 6 HLA mismatches.
+In this study, 543 patients were enrolled, randomised, and transplanted; 184 to belatacept MI, 175 to belatacept LI, and 184 to ciclosporin. The median age was 58 years; 67% of the study population was male; 75% of patients were white, 13% were black/African-American, 12% were categorised as of other races; 3% had PRA  10%; and 53% had 4 to 6 HLA mismatches.
 
 The dose of corticosteroids used in all treatment groups was tapered during the first 6 months following transplantation. The median corticosteroid doses administered with the belataceptrecommended regimen up to months 1, 3, and 6 were 21 mg, 13 mg and 10 mg, respectively.
 
@@ -542,7 +542,7 @@ b Measured GFR was assessed by iothalamate at Year 1 and 2 only c Calculated GFR
 
 ## Progression of Chronic Kidney Disease (CKD) Staging
 
-In Study 1 by Year 3, mean calculated GFR was 21 ml/min/1.73 m 2 higher with belatacept, and 10% and 20% of patients reached CKD stage 4/5 (GFR &lt; 30 ml/min/1.73 m 2 ) with belatacept versus ciclosporin, respectively. In Study 2 by Year 3, mean calculated GFR was 11 ml/min/1.73 m 2 higher with belatacept, and 27% and 44% of patients reached CKD stage 4/5 (GFR &lt; 30 ml/min/1.73 m 2 ) with belatacept versus ciclosporin, respectively.
+In Study 1 by Year 3, mean calculated GFR was 21 ml/min/1.73 m 2  higher with belatacept, and 10% and 20% of patients reached CKD stage 4/5 (GFR &lt; 30 ml/min/1.73 m 2 ) with belatacept versus ciclosporin, respectively. In Study 2 by Year 3, mean calculated GFR was 11 ml/min/1.73 m 2 higher with belatacept, and 27% and 44% of patients reached CKD stage 4/5 (GFR &lt; 30 ml/min/1.73 m 2 ) with belatacept versus ciclosporin, respectively.
 
 ## Chronic Allograft Nephropathy/Interstitial Fibrosis and Tubular Atrophy (IFTA)
 
@@ -574,13 +574,13 @@ At Month 12, all of 84 patients (100%) in the belatacept conversion group and 98
 
 <div style=\"page-break-after: always\"></div>
 
-functioning graft by Month 36. One case of BPAR was reported in the belatacept conversion group and three cases of BPAR were reported in the CNI continuation group during the LTE period; in the ITT-LT subpopulation up to 36 months, BPAR was reported in 6.2% (5/81) vs 3.7% (3/81) of patients in the belatacept conversion vs CNI continuation groups, respectively. None of the BPAR events was of Banff grade III severity. One patient in each group with BPAR experienced subsequent graft loss. At Month 12, the mean (SD) change in cGFR from baseline was +7.0 (12.0) ml/min/1.73 m 2 in the belatacept conversion group (N = 84) as compared to +2.1 (10.3) ml/min/1.73 m 2 in the CNI continuation group (N = 89). By Month 36, the mean change from baseline cGFR was +8.2 (16.1) ml/min/1.73 m 2 in the belatacept conversion group (N = 72) and +1.4 (16.9) ml/min/1.73 m 2 in the CNI continuation group (N = 69).
+functioning graft by Month 36. One case of BPAR was reported in the belatacept conversion group and three cases of BPAR were reported in the CNI continuation group during the LTE period; in the ITT-LT subpopulation up to 36 months, BPAR was reported in 6.2% (5/81) vs 3.7% (3/81) of patients in the belatacept conversion vs CNI continuation groups, respectively. None of the BPAR events was of Banff grade III severity. One patient in each group with BPAR experienced subsequent graft loss. At Month 12, the mean (SD) change in cGFR from baseline was +7.0 (12.0) ml/min/1.73 m 2  in the belatacept conversion group (N = 84) as compared to +2.1 (10.3) ml/min/1.73 m 2 in the CNI continuation group (N = 89). By Month 36, the mean change from baseline cGFR was +8.2 (16.1) ml/min/1.73 m 2 in the belatacept conversion group (N = 72) and +1.4 (16.9) ml/min/1.73 m 2 in the CNI continuation group (N = 69).
 
 ## Conversion Study 2:
 
 A total of 446 kidney transplant patients on a CNI-based maintenance regimen (CsA: 48 patients or TAC: 398 patients), who had received a renal allograft from a living or deceased donor at 6 to 60 months prior to study participation, were enrolled in a multicentre, prospective, randomised, open-label trial. Patients with a history of treatment for biopsy proven acute rejection (BPAR) within 3 months prior to study participation, recurrent BPAR, Banff grade IIA or higher cellular rejection, or antibody mediated rejection with the current allograft; loss of a previous allograft due to BPAR; or a positive T-cell lymphocytotoxicity cross match at the time of the current transplant were considered to be at higher immunological risk and were excluded from the study. Patients were randomised 1:1 to either continue on their CNI-based regimen or convert to a belatacept-based regimen. The CNI tapering and belatacept conversion phase followed a similar regimen as Conversion Study 1 (see above). The study duration was 24 months. The primary (descriptive) composite endpoint was the proportion of subjects who survived with a functioning graft at Month 24.
 
-The proportion of patients surviving with a functioning graft was similar in the belatacept conversion (98.2%; 219/223) and CNI continuation (97.3%; 217/223) groups at Month 24. Four patients (1.8%) in each group had died and two (0.9%) in the CNI continuation group had lost a graft. At Month 12, BPAR was reported for 18/223 patients (8.1%) in the belatacept conversion group and 4/223 patients (1.8%) in the CNI continuation group. At Month 24, there were no further cases of BPAR in the belatacept conversion group, but 5 additional cases were reported in the CNI continuation group (total of 9/223 (4%) at Month 24). The majority of the BPAR cases reported in the belatacept conversion group occurred during the first 6 months; all were successfully treated with no subsequent graft loss. The overall severity of BPAR events was greater following belatacept conversion compared to those in the CNI continuation group. When analysed with imputation to zero for death and graft loss, values for adjusted mean cGFR at Month 24 were 55.5 and 48.5 ml/min/1.73 m 2 in the belatacept conversion and CNI continuation groups, respectively. The corresponding adjusted change from baseline cGFR values were +5.2 and -1.9 ml/min/1.73 m 2 , respectively.
+The proportion of patients surviving with a functioning graft was similar in the belatacept conversion (98.2%; 219/223) and CNI continuation (97.3%; 217/223) groups at Month 24. Four patients (1.8%) in each group had died and two (0.9%) in the CNI continuation group had lost a graft. At Month 12, BPAR was reported for 18/223 patients (8.1%) in the belatacept conversion group and 4/223 patients (1.8%) in the CNI continuation group. At Month 24, there were no further cases of BPAR in the belatacept conversion group, but 5 additional cases were reported in the CNI continuation group (total of 9/223 (4%) at Month 24). The majority of the BPAR cases reported in the belatacept conversion group occurred during the first 6 months; all were successfully treated with no subsequent graft loss. The overall severity of BPAR events was greater following belatacept conversion compared to those in the CNI continuation group. When analysed with imputation to zero for death and graft loss, values for adjusted mean cGFR at Month 24 were 55.5 and 48.5 ml/min/1.73 m 2  in the belatacept conversion and CNI continuation groups, respectively. The corresponding adjusted change from baseline cGFR values were +5.2 and -1.9 ml/min/1.73 m 2 , respectively.
 
 ## Phase 2 liver transplant study
 
@@ -654,13 +654,13 @@ The reconstituted solution should be transferred from the vial to the infusion b
 
 ## After dilution
 
-Chemical and physical in-use stability of the solution for infusion has been demonstrated for 24 hours when stored in a refrigerator (2 °C - 8 °C). From a microbiological point of view, the product should be used immediately. If not used immediately, the solution for infusion may be stored in a refrigerator (2 °C - 8 °C) for up to 24 hours. Out of these 24 hours, the solution for infusion may be stored below 25 °C for a maximum of 4 hours. Do not freeze.
+Chemical and physical in-use stability of the solution for infusion has been demonstrated for 24 hours when stored in a refrigerator (2 °C -8 °C). From a microbiological point of view, the product should be used immediately. If not used immediately, the solution for infusion may be stored in a refrigerator (2 °C -8 °C) for up to 24 hours. Out of these 24 hours, the solution for infusion may be stored below 25 °C for a maximum of 4 hours. Do not freeze.
 
 The NULOJIX infusion must be completed within 24 hours of reconstitution of the powder.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C).
+Store in a refrigerator (2 °C -8 °C).
 
 Store in the original package in order to protect from light.
 
@@ -676,20 +676,20 @@ Not all pack-sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
--  Use aseptic technique to reconstitute the vials and dilute the solution for administration.
--  Use the silicone-free disposable syringe provided to make up the vials and to add the solution to the infusion. This will avoid aggregate formation (see section 6.2).
--  Do not shake the vials. This will avoid foam formation.
--  The solution for infusion is to be used in conjunction with a sterile, non-pyrogenic, low protein binding filter (pore size of 0.2 μ m to 1.2 μ m).
+- Use aseptic technique to reconstitute the vials and dilute the solution for administration.
+- Use the silicone-free disposable syringe provided to make up the vials and to add the solution to the infusion. This will avoid aggregate formation (see section 6.2).
+- Do not shake the vials. This will avoid foam formation.
+- The solution for infusion is to be used in conjunction with a sterile, non-pyrogenic, low protein binding filter (pore size of 0.2 μ m to 1.2 μ m).
 
 ## Dose selection and reconstitution of the vials
 
 Calculate the dose and number of NULOJIX vials required. Each NULOJIX vial provides 250 mg of belatacept.
 
--  Total dose of belatacept in mg equals the patient weight in kg times the belatacept dose in mg/kg (6 or 10 mg/kg, see section 4.2).
--  Dose modification of NULOJIX is not recommended for a change in body weight of less than 10%.
--  Number of vials required equals the belatacept dose in mg divided by 250 rounded up to the next full number of vials.
--  Make up each vial with 10.5 ml reconstitution solution.
--  Volume of the reconstituted solution required (ml) equals total belatacept dose in mg divided by 25.
+- Total dose of belatacept in mg equals the patient weight in kg times the belatacept dose in mg/kg (6 or 10 mg/kg, see section 4.2).
+- Dose modification of NULOJIX is not recommended for a change in body weight of less than 10%.
+- Number of vials required equals the belatacept dose in mg divided by 250 rounded up to the next full number of vials.
+- Make up each vial with 10.5 ml reconstitution solution.
+- Volume of the reconstituted solution required (ml) equals total belatacept dose in mg divided by 25.
 
 ## Practical details on the reconstitution of vials
 
@@ -711,7 +711,7 @@ Any unused portion in the vials must be discarded in accordance with local requi
 
 ## Administration
 
-When reconstitution and dilution are performed under aseptic conditions, the NULOJIX infusion should be started immediately or must be completed within 24 hours of reconstitution of the powder. If not used immediately, the solution for infusion may be stored in the refrigerator (2 °C - 8 °C) for up to 24 hours. Do not freeze. The solution for infusion may be stored for a maximum of 4 hours of the total 24 hours below 25 °C. Infusion must be completed within 24 hours of reconstitution of the powder. Prior to administration, the solution for infusion should be inspected visually for particulate matter or discolouration. Discard the solution if any particulate matter or discolouration is observed. The entire, fully diluted infusion should be administered over a period of 30 minutes and must be administered with an infusion set and a sterile, non-pyrogenic, low protein binding filter (pore size of 0.2 μm to 1.2 μm). Following administration, it is recommended that the intravenous line be flushed with infusion fluid to ensure administration of the complete dose. Do not store any unused portion of the solution for infusion for reuse.
+When reconstitution and dilution are performed under aseptic conditions, the NULOJIX infusion should be started immediately or must be completed within 24 hours of reconstitution of the powder. If not used immediately, the solution for infusion may be stored in the refrigerator (2 °C -8 °C) for up to 24 hours. Do not freeze. The solution for infusion may be stored for a maximum of 4 hours of the total 24 hours below 25 °C. Infusion must be completed within 24 hours of reconstitution of the powder. Prior to administration, the solution for infusion should be inspected visually for particulate matter or discolouration. Discard the solution if any particulate matter or discolouration is observed. The entire, fully diluted infusion should be administered over a period of 30 minutes and must be administered with an infusion set and a sterile, non-pyrogenic, low protein binding filter (pore size of 0.2 μm to 1.2 μm). Following administration, it is recommended that the intravenous line be flushed with infusion fluid to ensure administration of the complete dose. Do not store any unused portion of the solution for infusion for reuse.
 
 NULOJIX should not be infused concomitantly in the same intravenous line with other agents. No physical or biochemical compatibility studies have been conducted to evaluate the coadministration of NULOJIX with other agents.
 
@@ -754,7 +754,7 @@ Detailed information on this product is available on the website of the European
 
 Name and address of the manufacturers of the biological active substance
 
-Lotte Biologics USA, LLC 6000 Thompson Road, East Syracuse New York 13057 - U.S.A.
+Lotte Biologics USA, LLC 6000 Thompson Road, East Syracuse New York 13057 -U.S.A.
 
 Samsung Biologics Co. Ltd. 300, Songdo Bio Way (Daero) Yeonsu-gu, Incheon, 21987 Korea
 
@@ -768,20 +768,20 @@ Medicinal product subject to restricted medical prescription (See Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
--  Periodic safety update reports (PSURs)
+- Periodic safety update reports (PSURs)
 
 The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
--  Risk management plan (RMP)
+- Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -895,13 +895,13 @@ NULOJIX
 
 <div style=\"page-break-after: always\"></div>
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC: SN: &lt;NN:&gt;
 
@@ -967,13 +967,15 @@ Bristol-Myers Squibb Pharma EEIG Dublin 15, D15 T867 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/11/694/001 EU/1/11/694/002
+EU/1/11/694/001
+
+EU/1/11/694/002
 
 ## 13. BATCH NUMBER
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -989,17 +991,17 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## NULOJIX 250 mg powder for concentrate for solution for infusion belatacept
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor or pharmacist.
--  If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet:
 
@@ -1020,8 +1022,8 @@ NULOJIX is used in adults to prevent the immune system from attacking your trans
 
 ## Do not use NULOJIX
 
--  If you are allergic to belatacept or any of the other ingredients of the medicine (listed in section 6). Allergic reactions related to belatacept use have been reported in the clinical studies.
--  If you have not been exposed to the Epstein-Barr virus (EBV) or are uncertain of previous exposure, you must not be treated with NULOJIX. EBV is the virus that causes glandular fever. If you have not been exposed to it, you are at a higher risk of getting a type of cancer called post-transplant lymphoproliferative disorder (PTLD). If you are not sure if you have been infected with the virus before, ask your doctor.
+- If you are allergic to belatacept or any of the other ingredients of the medicine (listed in section 6). Allergic reactions related to belatacept use have been reported in the clinical studies.
+- If you have not been exposed to the Epstein-Barr virus (EBV) or are uncertain of previous exposure, you must not be treated with NULOJIX. EBV is the virus that causes glandular fever. If you have not been exposed to it, you are at a higher risk of getting a type of cancer called post-transplant lymphoproliferative disorder (PTLD). If you are not sure if you have been infected with the virus before, ask your doctor.
 
 ## Warnings and precautions
 
@@ -1029,10 +1031,10 @@ NULOJIX is used in adults to prevent the immune system from attacking your trans
 
 Treatment with NULOJIX increases the risk of getting a type of cancer called post-transplant lymphoproliferative disorder (PTLD). With NULOJIX treatment, this more often develops in the brain and can lead to death. People are at a higher risk of developing PTLD in the following cases:
 
--  If you have not been exposed to EBV prior to your transplant
--  If you are infected with a virus called cytomegalovirus (CMV)
--  If you have been given a therapy for treatment of acute rejection, such as antithymocyte globulin to reduce T-cells. T-cells are cells responsible for maintaining your body's ability to resist disease and infections. They may cause rejection of your transplanted kidney.
--  If you are not sure about any of these conditions, ask you doctor.
+- If you have not been exposed to EBV prior to your transplant
+- If you are infected with a virus called cytomegalovirus (CMV)
+- If you have been given a therapy for treatment of acute rejection, such as antithymocyte globulin to reduce T-cells. T-cells are cells responsible for maintaining your body's ability to resist disease and infections. They may cause rejection of your transplanted kidney.
+- If you are not sure about any of these conditions, ask you doctor.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1042,10 +1044,10 @@ Serious infections can happen with NULOJIX treatment and can lead to death.
 
 NULOJIX weakens the body's ability to fight infections. Serious infections can include
 
--  Tuberculosis
--  Cytomegalovirus (CMV), a virus that can cause serious tissue and blood infections
--  Shingles
--  Other herpes virus infections.
+- Tuberculosis
+- Cytomegalovirus (CMV), a virus that can cause serious tissue and blood infections
+- Shingles
+- Other herpes virus infections.
 
 There have been reports of a rare type of brain infection called progressive multifocal leukoencephalopathy (PML) that have occurred in patients who have been given NULOJIX. PML often leads to severe disability or death.
 
@@ -1159,106 +1161,106 @@ Allergic reactions may include, but are not limited to, rash; reddened skin; hiv
 
 ## Very common side effects ( may affect more than 1 in 10 people ) are:
 
--  Bladder or kidney infection, upper respiratory infection, CMV infection (can cause serious blood and tissue infections), fever, cough, bronchitis
--  Shortness of breath
--  Constipation, diarrhoea, nausea, vomiting, abdominal pain
--  High blood pressure, low blood pressure
--  Headache, difficulty sleeping, feeling nervous or anxious, swelling of the hands and feet
--  Joint pain, back pain, pain in the extremities
--  Pain when passing urine, blood in the urine
+- Bladder or kidney infection, upper respiratory infection, CMV infection (can cause serious blood and tissue infections), fever, cough, bronchitis
+- Shortness of breath
+- Constipation, diarrhoea, nausea, vomiting, abdominal pain
+- High blood pressure, low blood pressure
+- Headache, difficulty sleeping, feeling nervous or anxious, swelling of the hands and feet
+- Joint pain, back pain, pain in the extremities
+- Pain when passing urine, blood in the urine
 
 Tests may show:
 
--  Low blood count or anaemia, low white blood cell count
+- Low blood count or anaemia, low white blood cell count
 
 <div style=\"page-break-after: always\"></div>
 
--  Increased amounts of creatinine in your blood (blood test used to measure kidney function), increased amounts of protein in your urine
--  Changes in blood levels of different salts or electrolytes
--  Increased amounts of cholesterol and triglyceride (blood fats)
--  High levels of sugar in your blood
+- Increased amounts of creatinine in your blood (blood test used to measure kidney function), increased amounts of protein in your urine
+- Changes in blood levels of different salts or electrolytes
+- Increased amounts of cholesterol and triglyceride (blood fats)
+- High levels of sugar in your blood
 
 ## Common side effects ( may affect up to 1 in 10 people ) are:
 
--  Cancer and non-cancerous growths of the skin
--  Dangerous decrease of blood pressure which, if untreated, may lead to collapse, coma and death
--  Stroke
--  Dead tissue because of stopped blood supply
--  Liver inflammation (cytolytic hepatitis)
--  Damage to the kidney
--  Fluid in the lungs, wheezing, chest pain or angina, enlarged heart muscle (bottom of the heart)
--  Infection of the blood or tissues, respiratory infections, pneumonia, flu, sinus inflammation, runny nose, sore throat, pain in the mouth/throat region, herpes virus infections, shingles and other viral infections, mouth sores, thrush, kidney infection, fungal skin infections,fungal infections of the nails and other fungal infections, skin infection, infection of soft tissues, wound infection, infection limited to one area, slow healing, bloody bruise, build up of lymph fluid around the transplanted kidney
--  Fast heart rate, slow heart rate, abnormal and irregular heart beat, weak heart
--  Diabetes
--  Dehydration
--  Inflammation of the stomach and intestines, usually caused by a virus
--  Upset stomach
--  Unusual sensation of pins and needles, numbness or weakness of the arms and legs
--  Rash, itching
--  Muscle pain, muscle weakness, bone pain, joint swelling, abnormal cartilage between bones of the spine, sudden inability to bend joint, muscle spasms, arthritis
--  Blockage of kidney blood vessels, enlarged kidney due to blockage of urine flow out of the kidney, backflow of urine from the bladder into the kidney tubes, inability to hold urine, incomplete emptying of the bladder, urinating at night, sugar in the urine
--  Increase in body weight, decrease in body weight
--  Cataract, increased blood congestion in the eye, blurred vision
--  Shaking or tremors, dizziness, fainting or passing out, ear pain, buzzing, ringing or other persistent noise in the ears
--  Acne, hair loss, abnormal change to the skin, excessive sweating, night sweats
--  Weakness/gap in abdominal muscles and out pouching of skin over healed incision, hernia on the stomach wall
--  Depression, fatigue, feeling of tiredness, drowsiness, or lack of energy, general feeling of being unwell, difficulty breathing when laying down, nose bleeding
--  Typical appearance of a person with high levels of steroids, such as moon face, hump back, upper body obesity
--  Abnormal collection of fluid
+- Cancer and non-cancerous growths of the skin
+- Dangerous decrease of blood pressure which, if untreated, may lead to collapse, coma and death
+- Stroke
+- Dead tissue because of stopped blood supply
+- Liver inflammation (cytolytic hepatitis)
+- Damage to the kidney
+- Fluid in the lungs, wheezing, chest pain or angina, enlarged heart muscle (bottom of the heart)
+- Infection of the blood or tissues, respiratory infections, pneumonia, flu, sinus inflammation, runny nose, sore throat, pain in the mouth/throat region, herpes virus infections, shingles and other viral infections, mouth sores, thrush, kidney infection, fungal skin infections,fungal infections of the nails and other fungal infections, skin infection, infection of soft tissues, wound infection, infection limited to one area, slow healing, bloody bruise, build up of lymph fluid around the transplanted kidney
+- Fast heart rate, slow heart rate, abnormal and irregular heart beat, weak heart
+- Diabetes
+- Dehydration
+- Inflammation of the stomach and intestines, usually caused by a virus
+- Upset stomach
+- Unusual sensation of pins and needles, numbness or weakness of the arms and legs
+- Rash, itching
+- Muscle pain, muscle weakness, bone pain, joint swelling, abnormal cartilage between bones of the spine, sudden inability to bend joint, muscle spasms, arthritis
+- Blockage of kidney blood vessels, enlarged kidney due to blockage of urine flow out of the kidney, backflow of urine from the bladder into the kidney tubes, inability to hold urine, incomplete emptying of the bladder, urinating at night, sugar in the urine
+- Increase in body weight, decrease in body weight
+- Cataract, increased blood congestion in the eye, blurred vision
+- Shaking or tremors, dizziness, fainting or passing out, ear pain, buzzing, ringing or other persistent noise in the ears
+- Acne, hair loss, abnormal change to the skin, excessive sweating, night sweats
+- Weakness/gap in abdominal muscles and out pouching of skin over healed incision, hernia on the stomach wall
+- Depression, fatigue, feeling of tiredness, drowsiness, or lack of energy, general feeling of being unwell, difficulty breathing when laying down, nose bleeding
+- Typical appearance of a person with high levels of steroids, such as moon face, hump back, upper body obesity
+- Abnormal collection of fluid
 
 Tests may show:
 
--  Low platelet counts in your blood, too many white blood cells, too many red blood cells
--  Changes in blood levels of carbon dioxide, fluid retention, low protein in the blood
--  Abnormal liver function tests, blood parathyroid hormone increased
--  Increased protein (c-reactive protein) in blood indicating inflammation
--  A decrease of antibodies (proteins that fight infection) in your blood
+- Low platelet counts in your blood, too many white blood cells, too many red blood cells
+- Changes in blood levels of carbon dioxide, fluid retention, low protein in the blood
+- Abnormal liver function tests, blood parathyroid hormone increased
+- Increased protein (c-reactive protein) in blood indicating inflammation
+- A decrease of antibodies (proteins that fight infection) in your blood
 
 ## Uncommon side effects ( may affect up to 1 in 100 people ) are:
 
--  Lung cancer, rectal cancer, breast cancer, a form of cancer in the bones, musles, or fat tissue, tumor of the skin and intestinal tract caused by a herpes virus and seen in patients with a weakened immune system, prostate cancer, cancer of the cervix, throat cancer, cancer of the lymph nodes, cancer of the bone marrow, cancer of the kidney, kidney tubes, or bladder
+- Lung cancer, rectal cancer, breast cancer, a form of cancer in the bones, musles, or fat tissue, tumor of the skin and intestinal tract caused by a herpes virus and seen in patients with a weakened immune system, prostate cancer, cancer of the cervix, throat cancer, cancer of the lymph nodes, cancer of the bone marrow, cancer of the kidney, kidney tubes, or bladder
 
 <div style=\"page-break-after: always\"></div>
 
--  Fungal infection of brain, inflammation of the brain, serious brain infection called PML (progressive multifocal leukoencephalopathy)
--  Abnormal swelling of the brain, increased pressure inside the skull and brain, seizure, weakness causing loss of movement on one side of the body, loss of the covering around nerves, inability of muscles to move in the face
--  Any disease of the brain causing headache, fever, hallucinations, confusion, abnormal speech and body movement
--  Poor blood flow to the heart, blocked heart beats, abnormal aorta heart valve, abnormal rapid heart rate
--  Sudden problems with breathing leading to lung damage, increased blood pressure in the lungs, inflammation of the lungs, coughing up blood, abnormality of lungs and air tubes delivering air in and out of lungs, fluid in the sac around the lungs, breathing that stops temporarily during sleep, abnormal speaking sound
--  Genital herpes
--  Inflammation of the colon (large bowel) caused by the cytomegalovirus, inflammation of the pancreas, ulcer in the stomach, small intestines, or large intestine, blockage of the small intestine, black, tar-like stools, rectal bleeding, abnormal colour of the stool
--  Bacterial infections, inflammation or infection of the inner layer of the heart, tuberculosis, bone infection, inflammation of the lymph nodes, chronic dilation of the airways in the lungs with frequent lung infections
--  Infection with the strongyloides worm, diarrheal infection with Giardia parasite
--  Kidney disease that is caused by a virus (polyomavirus-associated nephropathy), inflammation of the kidneys, scarring of the kidneys, shrinkage of the small tubes in the kidney, inflammation of the bladder with bleeding
--  Blood clotting in kidney artery
--  Guillian-Barré syndrome (a condition that causes muscle weakness or paralysis)
--  EBV (Epstein-Barr virus) lymphoproliferative disease
--  Blood clotting in veins, inflamed veins, periodic leg cramps
--  Abnormal arteries, scarring of the arteries, clotting in the arteries, narrowing of the arteries, temporary redness of the face/skin, swelling of the face
--  Stones in the gallbladder, fluid filled pocket in the liver, fatty liver
--  Skin disease with thickened patches of red skin, often with silvery scales, abnormal hair growth, excessive hair breakage, nails breaking, ulcer on the penis
--  Abnormal balance of minerals in the body causing bone problems, bone inflammation, abnormal weakening of the bone leading to bone problems, inflammation of the lining of the joints, rare bone condition
--  Inflammation of the testicles, an abnormally prolonged penile erection, abnormal cervical cells, breast mass, pain in the testes, ulcer in the female genital area, thinned vaginal walls, infertility or inability to become pregnant, swelling of the scrotum
--  Seasonal allergy
--  Poor appetite, loss of taste, decreased hearing
--  Abnormal dreams, mood swings, abnormal lack of ability to focus and sit still, difficulty understanding or thinking, poor memory, migraine, irritability
--  Numbness or weakness from poorly controlled diabetes, changes in the foot from diabetes, inability to keep legs still
--  Swelling of back of the eye causing changes in sight, eye inflamed, uncomfortable/increased sensitivity to light, swelling of the eyelid
--  Cracking of the corner of the mouth, swollen gums, salivary gland pain
--  Increased sexual desire
--  Burning sensation
--  Reaction to an infusion, scare tissue, inflammation, return of disease, feeling hot, ulcer
--  Not making enough urine
--  Failure of transplanted organ to work, problems during or after a transfusion, separation of the wound edges before it heals, broken bone, complete tear or separation of tendon, low blood pressure during or after a procedure, high blood pressure during or after a procedure, bruise/collection of blood within the soft tissues after a procedure, pain related to a procedure, headache related to a procedure, bruise of the soft tissue
+- Fungal infection of brain, inflammation of the brain, serious brain infection called PML (progressive multifocal leukoencephalopathy)
+- Abnormal swelling of the brain, increased pressure inside the skull and brain, seizure, weakness causing loss of movement on one side of the body, loss of the covering around nerves, inability of muscles to move in the face
+- Any disease of the brain causing headache, fever, hallucinations, confusion, abnormal speech and body movement
+- Poor blood flow to the heart, blocked heart beats, abnormal aorta heart valve, abnormal rapid heart rate
+- Sudden problems with breathing leading to lung damage, increased blood pressure in the lungs, inflammation of the lungs, coughing up blood, abnormality of lungs and air tubes delivering air in and out of lungs, fluid in the sac around the lungs, breathing that stops temporarily during sleep, abnormal speaking sound
+- Genital herpes
+- Inflammation of the colon (large bowel) caused by the cytomegalovirus, inflammation of the pancreas, ulcer in the stomach, small intestines, or large intestine, blockage of the small intestine, black, tar-like stools, rectal bleeding, abnormal colour of the stool
+- Bacterial infections, inflammation or infection of the inner layer of the heart, tuberculosis, bone infection, inflammation of the lymph nodes, chronic dilation of the airways in the lungs with frequent lung infections
+- Infection with the strongyloides worm, diarrheal infection with Giardia parasite
+- Kidney disease that is caused by a virus (polyomavirus-associated nephropathy), inflammation of the kidneys, scarring of the kidneys, shrinkage of the small tubes in the kidney, inflammation of the bladder with bleeding
+- Blood clotting in kidney artery
+- Guillian-Barré syndrome (a condition that causes muscle weakness or paralysis)
+- EBV (Epstein-Barr virus) lymphoproliferative disease
+- Blood clotting in veins, inflamed veins, periodic leg cramps
+- Abnormal arteries, scarring of the arteries, clotting in the arteries, narrowing of the arteries, temporary redness of the face/skin, swelling of the face
+- Stones in the gallbladder, fluid filled pocket in the liver, fatty liver
+- Skin disease with thickened patches of red skin, often with silvery scales, abnormal hair growth, excessive hair breakage, nails breaking, ulcer on the penis
+- Abnormal balance of minerals in the body causing bone problems, bone inflammation, abnormal weakening of the bone leading to bone problems, inflammation of the lining of the joints, rare bone condition
+- Inflammation of the testicles, an abnormally prolonged penile erection, abnormal cervical cells, breast mass, pain in the testes, ulcer in the female genital area, thinned vaginal walls, infertility or inability to become pregnant, swelling of the scrotum
+- Seasonal allergy
+- Poor appetite, loss of taste, decreased hearing
+- Abnormal dreams, mood swings, abnormal lack of ability to focus and sit still, difficulty understanding or thinking, poor memory, migraine, irritability
+- Numbness or weakness from poorly controlled diabetes, changes in the foot from diabetes, inability to keep legs still
+- Swelling of back of the eye causing changes in sight, eye inflamed, uncomfortable/increased sensitivity to light, swelling of the eyelid
+- Cracking of the corner of the mouth, swollen gums, salivary gland pain
+- Increased sexual desire
+- Burning sensation
+- Reaction to an infusion, scare tissue, inflammation, return of disease, feeling hot, ulcer
+- Not making enough urine
+- Failure of transplanted organ to work, problems during or after a transfusion, separation of the wound edges before it heals, broken bone, complete tear or separation of tendon, low blood pressure during or after a procedure, high blood pressure during or after a procedure, bruise/collection of blood within the soft tissues after a procedure, pain related to a procedure, headache related to a procedure, bruise of the soft tissue
 
 <div style=\"page-break-after: always\"></div>
 
 Tests may show:
 
--  Dangerously low red blood cells, dangerously lowered white cell counts, destruction of red blood cells, blood clotting problems, acid in the blood from diabetes, lack of acid in the blood
--  Improper production of hormones by the adrenal glands
--  Low vitamin D levels
--  Pancreatic enzymes in the blood increased, troponin levels in the blood increased, prostatespecific antigen (PSA) increased, high uric acid levels in the blood, CD-4 lymphocyte cell counts decreased, low blood sugar
+- Dangerously low red blood cells, dangerously lowered white cell counts, destruction of red blood cells, blood clotting problems, acid in the blood from diabetes, lack of acid in the blood
+- Improper production of hormones by the adrenal glands
+- Low vitamin D levels
+- Pancreatic enzymes in the blood increased, troponin levels in the blood increased, prostatespecific antigen (PSA) increased, high uric acid levels in the blood, CD-4 lymphocyte cell counts decreased, low blood sugar
 
 ## Reporting of side effects
 
@@ -1272,13 +1274,13 @@ Do not use this medicine after the expiry date which is stated on the vial label
 
 This medicine will be stored in the healthcare facility where it is administered.
 
-Store in a refrigerator (2 °C - 8 °C).
+Store in a refrigerator (2 °C -8 °C).
 
 Store in the original package in order to protect from light.
 
 After reconstitution, the reconstituted solution should be transferred from the vial to the infusion bag or bottle immediately.
 
-After dilution, and from a microbiological point of view, the product should be used immediately. If not used immediately, the solution for infusion may be stored in a refrigerator (2 °C - 8 °C) for up to 24 hours. The solution for infusion may be stored for a maximum of 4 hours of the total 24 hours below 25 °C. Do not freeze.
+After dilution, and from a microbiological point of view, the product should be used immediately. If not used immediately, the solution for infusion may be stored in a refrigerator (2 °C -8 °C) for up to 24 hours. The solution for infusion may be stored for a maximum of 4 hours of the total 24 hours below 25 °C. Do not freeze.
 
 The NULOJIX infusion must be completed within 24 hours of reconstitution of the powder.
 
@@ -1290,8 +1292,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What NULOJIX contains
 
--  The active substance is belatacept. Each vial contains 250 mg of belatacept. After reconstitution, each ml of concentrate contains 25 mg of belatacept.
--  The other ingredients are sodium chloride, sodium dihydrogen phosphate monohydrate, sucrose, sodium hydroxide (for pH adjustment) and hydrochloric acid (for pH adjustment). (See section 2)
+- The active substance is belatacept. Each vial contains 250 mg of belatacept. After reconstitution, each ml of concentrate contains 25 mg of belatacept.
+- The other ingredients are sodium chloride, sodium dihydrogen phosphate monohydrate, sucrose, sodium hydroxide (for pH adjustment) and hydrochloric acid (for pH adjustment). (See section 2)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1309,9 +1311,155 @@ Not all pack sizes may be marketed.
 
 Marketing Authorisation Holder: Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
 
-Swords Laboratories Unlimited Company T/A Bristol-Myers Squibb Cruiserath Biologics Cruiserath Road, Mulhuddart Dublin 15, D15 H6EF
+Manufacturer: Swords Laboratories Unlimited Company T/A Bristol-Myers Squibb Cruiserath Biologics Cruiserath Road, Mulhuddart Dublin 15, D15 H6EF Ireland
 
-Manufacturer: Ireland
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
+
+## България
+
+Swixx Biopharma EOOD Teл.: + 359 2 4942 480
+
+medinfo.bulgaria@swixxbiopharma.com
+
+Česká republika Bristol-Myers Squibb spol. s r.o. Tel: + 420 221 016 111 medinfo.czech@bms.com
+
+## Danmark
+
+Bristol-Myers Squibb Denmark
+
+Tlf: + 45 45 93 05 06 medinfo.denmark@bms.com
+
+## Deutschland
+
+Bristol-Myers Squibb GmbH &amp; Co. KGaA
+
+Tel: 0800 0752002 (+ 49 89 121 42 350) medwiss.info@bms.com
+
+## Lietuva
+
+Swixx Biopharma UAB Tel: + 370 52 369140
+
+medinfo.lithuania@swixxbiopharma.com
+
+## Luxembourg/Luxemburg
+
+N.V. Bristol-Myers Squibb Belgium S.A.
+
+Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
+
+Magyarország Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797
+
+Medinfo.hungary@bms.com
+
+## Malta
+
+A.M. Mangion Ltd Tel: + 356 23976333
+
+pv@ammangion.com
+
+Nederland Bristol-Myers Squibb B.V. Tel: + 31 (0)30 300 2222 medischeafdeling@bms.com
+
+<div style=\"page-break-after: always\"></div>
+
+## Eesti
+
+Swixx Biopharma OÜ Tel: + 372 640 1030
+
+medinfo.estonia@swixxbiopharma.com
+
+Ελλάδα Bristol-Myers Squibb A.E. Τηλ: + 30 210 6074300
+
+medinfo.greece@bms.com
+
+España Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00
+
+informacion.medica@bms.com
+
+France Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96
+
+infomed@bms.com
+
+Hrvatska
+
+Swixx Biopharma d.o.o. Tel: + 385 1 2078 500
+
+medinfo.croatia@swixxbiopharma.com
+
+Ireland Bristol-Myers Squibb Pharmaceuticals uc Tel: 1 800 749 749 (+ 353 (0)1 483 3625) medical.information@bms.com
+
+Ísland Vistor ehf. Sími: + 354 535 7000
+
+medical.information@bms.com
+
+Italia Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61
+
+medicalinformation.italia@bms.com
+
+Κύπρος Bristol-Myers Squibb A.E. Τηλ: 800 92666 (+ 30 210 6074300)
+
+medinfo.greece@bms.com
+
+Latvija Swixx Biopharma SIA Tel: + 371 66164750
+
+medinfo.latvia@swixxbiopharma.com
+
+Norge
+
+Bristol-Myers Squibb Norway AS Tlf: + 47 67 55 53 50
+
+medinfo.norway@bms.com
+
+Österreich
+
+Bristol-Myers Squibb GesmbH Tel: + 43 1 60 14 30
+
+medinfo.austria@bms.com
+
+Polska Bristol-Myers Squibb Polska Sp. z o.o. Tel.: + 48 22 2606400
+
+informacja.medyczna@bms.com
+
+Portugal
+
+Bristol-Myers Squibb Farmacêutica Portuguesa,
+
+S.A.
+
+Tel: + 351 21 440 70 00
+
+portugal.medinfo@bms.com
+
+România
+
+Bristol-Myers Squibb Marketing Services S.R.L. Tel: + 40 (0)21 272 16 19
+
+medinfo.romania@bms.com
+
+Slovenija Swixx Biopharma d.o.o. Tel: + 386 1 2355 100
+
+medinfo.slovenia@swixxbiopharma.com
+
+Slovenská republika Swixx Biopharma s.r.o. Tel: + 421 2 20833 600
+
+medinfo.slovakia@swixxbiopharma.com
+
+## Suomi/Finland
+
+Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230
+
+medinfo.finland@bms.com
+
+Sverige Bristol-Myers Squibb Aktiebolag Tel: + 46 8 704 71 00
+
+medinfo.sweden@bms.com
+
+43
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -1321,28 +1469,24 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## The following information is intended for healthcare professionals only:
 
--  Use aseptic technique to make up the vials and dilute the solution for administration.
--  Use the silicone-free disposable syringe provided to make up the vials and to add the solution to the infusion. This will avoid aggregate formation.
--  Do not shake the vials. This will avoid foam formation.
--  The solution for infusion is to be used in conjunction with a sterile, non-pyrogenic, low protein binding filter (pore size of 0.2 μ m to 1.2 μ m).
+- Use aseptic technique to make up the vials and dilute the solution for administration.
+- Use the silicone-free disposable syringe provided to make up the vials and to add the solution to the infusion. This will avoid aggregate formation.
+- Do not shake the vials. This will avoid foam formation.
+- The solution for infusion is to be used in conjunction with a sterile, non-pyrogenic, low protein binding filter (pore size of 0.2 μ m to 1.2 μ m).
 
 ## Dose selection and reconstitution of the vials
 
 Calculate the dose and number of NULOJIX vials required. Each NULOJIX vial provides 250 mg of belatacept.
 
--  Total dose of belatacept in mg equals the patient weight in kg times the belatacept dose in mg/kg (6 or 10 mg/kg, see section 3)
--  Dose modification of NULOJIX is not recommended for a change in body weight of less than 10%.
--  Number of vials required equals the belatacept dose in mg divided by 250 rounded up to the next full number of vials.
--  Make up each vial with 10.5 ml reconstitution solution.
--  Volume of the reconstituted solution required (ml) equals total belatacept dose in mg divided by 25.
+- Total dose of belatacept in mg equals the patient weight in kg times the belatacept dose in mg/kg (6 or 10 mg/kg, see section 3)
+- Dose modification of NULOJIX is not recommended for a change in body weight of less than 10%.
+- Number of vials required equals the belatacept dose in mg divided by 250 rounded up to the next full number of vials.
+- Make up each vial with 10.5 ml reconstitution solution.
+- Volume of the reconstituted solution required (ml) equals total belatacept dose in mg divided by 25.
 
 ## Practical details on the reconstitution of vials
 
-Using aseptic technique, make up each vial with 10.5 ml of one of the following solvents (sterile water for injections, sodium chloride 9 mg/ml (0.9%) solution for injection or 5% glucose solution for injection), using the co-packed disposable syringe (necessary to avoid aggregate formation) and an
-
-<div style=\"page-break-after: always\"></div>
-
-18-21 gauge needle. Syringes are marked in units of 0.5 ml; therefore, the calculated dose should be rounded to the nearest 0.5 ml.
+Using aseptic technique, make up each vial with 10.5 ml of one of the following solvents (sterile water for injections, sodium chloride 9 mg/ml (0.9%) solution for injection or 5% glucose solution for injection), using the co-packed disposable syringe (necessary to avoid aggregate formation) and an 18-21 gauge needle. Syringes are marked in units of 0.5 ml; therefore, the calculated dose should be rounded to the nearest 0.5 ml.
 
 Remove the flip off seal from the vial and wipe the top with an alcohol swab. Insert the syringe needle into the vial through the centre of the rubber stopper. Direct the stream of fluid to the glass wall of the vial and not into the powder. Remove the syringe and needle after 10.5 ml of reconstitution fluid has been added to the vial.
 
@@ -1352,13 +1496,17 @@ The reconstituted solution should be clear to slightly opalescent and colourless
 
 ## Practical details on the preparation of the solution for infusion
 
-After reconstitution, dilute the product to 100 ml with sodium chloride 9 mg/ml (0.9%) solution for injection or 5% glucose solution for injection. From a 100 ml infusion bag or bottle (typically, an infusion volume of 100 ml will be appropriate for most patients and doses, but total infusion volume ranging from 50 ml to 250 ml may be used), withdraw a volume of sodium chloride 9 mg/ml (0.9%) solution for injection or 5% glucose solution for injection equal to the volume (ml equals total dose in mg divided by 25) of the reconstituted NULOJIX solution required to provide the dose and discard it. Slowly add the required amount of reconstituted NULOJIX solution from each vial to the infusion bag or bottle using the same disposable syringe used for reconstitution of the powder. Gently mix the infusion container. The concentration of belatacept in the infusion should be between 2 mg and 10 mg belatacept per ml solution.
+After reconstitution, dilute the product to 100 ml with sodium chloride 9 mg/ml (0.9%) solution for injection or 5% glucose solution for injection. From a 100 ml infusion bag or bottle (typically, an infusion volume of 100 ml will be appropriate for most patients and doses, but total infusion volume ranging from 50 ml to 250 ml may be used), withdraw a volume of sodium chloride 9 mg/ml (0.9%) solution for injection or 5% glucose solution for injection equal to the volume (ml equals total dose in mg divided by 25) of the reconstituted NULOJIX solution required to provide the dose and discard it. Slowly add the required amount of reconstituted NULOJIX solution from each vial to the infusion
+
+<div style=\"page-break-after: always\"></div>
+
+bag or bottle using the same disposable syringe used for reconstitution of the powder. Gently mix the infusion container. The concentration of belatacept in the infusion should be between 2 mg and 10 mg belatacept per ml solution.
 
 Any unused portion in the vials must be discarded in accordance with local requirements.
 
 ## Administration
 
-When reconstitution and dilution are performed under aseptic conditions, the NULOJIX infusion should be started immediately or must be completed within 24 hours of reconstitution of the powder. If not used immediately, the solution for infusion may be stored in the refrigerator (2 °C - 8 °C) for up to 24 hours. Do not freeze. The solution for infusion may be stored for a maximum of 4 hours of the total 24 hours below 25 °C. Infusion must be completed within 24 hours of reconstitution of the powder. Prior to administration, the solution for infusion should be inspected visually for particulate matter or discolouration. Discard the solution if any particulate matter or discolouration is observed. The entire, fully diluted infusion should be administered over a period of 30 minutes and must be administered with an infusion set and a sterile, non-pyrogenic, low protein binding filter (pore size of 0.2 μm to 1.2 μm). Following administration, it is recommended that the intravenous line be flushed with infusion fluid to ensure administration of the complete dose.
+When reconstitution and dilution are performed under aseptic conditions, the NULOJIX infusion should be started immediately or must be completed within 24 hours of reconstitution of the powder. If not used immediately, the solution for infusion may be stored in the refrigerator (2 °C -8 °C) for up to 24 hours. Do not freeze. The solution for infusion may be stored for a maximum of 4 hours of the total 24 hours below 25 °C. Infusion must be completed within 24 hours of reconstitution of the powder. Prior to administration, the solution for infusion should be inspected visually for particulate matter or discolouration. Discard the solution if any particulate matter or discolouration is observed. The entire, fully diluted infusion should be administered over a period of 30 minutes and must be administered with an infusion set and a sterile, non-pyrogenic, low protein binding filter (pore size of 0.2 μm to 1.2 μm). Following administration, it is recommended that the intravenous line be flushed with infusion fluid to ensure administration of the complete dose.
 
 NULOJIX should not be infused concomitantly in the same intravenous line with other agents. No physical or biochemical compatibility studies have been conducted to evaluate the coadministration of NULOJIX with other agents.
 

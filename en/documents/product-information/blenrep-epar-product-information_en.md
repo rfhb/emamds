@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-08 15:32:25
+document_datetime: 2026-04-17 11:49:38
 document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/blenrep-epar-product-information_en.pdf
 document_name: blenrep-epar-product-information_en.pdf
 version: success
-processing_time: 16.9566252
-conversion_datetime: 2026-04-09 12:23:31.78999
+processing_time: 14.3160817
+conversion_datetime: 2026-04-21 15:00:43.716758
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
   docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -557,6 +557,38 @@ Table 6: Efficacy results in DREAMM-7
 
 <div style=\"page-break-after: always\"></div>
 
+Overall survival probabilitv
+
+Proaression-free survival probabilitv
+
+0.4
+
+0.2
+
+Belantamab mafodotin + 243
+
+0.0
+
+Belantamab mafodotin +
+
+Daratumumab +
+
+Bortezomib/Dexamethasone
+
+Bortezomib/Dexamethasone
+
+Treatment
+
+Benlantamab mafodotin + Bortezomib/Dexamethasone
+
+Treatment
+
+· Belantamab mafodotin + Bortezomib/Dexamethasone
+
+- - - Daratumumab + Bortezomib/Dexamethasone
+
+- - Daratumumab + Bortezomib/Dexamethasone
+
 Figure 1: Kaplan-Meier curve of progression-free survival per IRC in DREAMM-7
 
 <!-- image -->
@@ -607,6 +639,18 @@ h Results have not reached statistical significance.
 - j Assessed by NGS at 10 -5 threshold.
 
 <div style=\"page-break-after: always\"></div>
+
+Treatment
+
+Belantamab mafodotin + Pomalidomide/Dexamethasone
+
+Treatment
+
+Belantamab mafodotin + Pomalidomide/Dexamethasone
+
+- - - - - - · Pomalidomide + Bortezomib/Dexamethasone
+
+Pomalidomide + Bortezomib/Dexamethasone
 
 Figure 3: Kaplan-Meier curve of progression-free survival per IRC in DREAMM-8
 
@@ -1576,7 +1620,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0) 10 85 52 00
+GlaxoSmithKline Pharmaceuticals s.a./n.v.
+
+Tél/Tel: + 32 (0) 10 85 52 00
 
 ## България
 

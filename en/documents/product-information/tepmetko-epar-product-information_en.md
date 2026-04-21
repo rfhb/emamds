@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-05-21 14:25:22
+document_datetime: 2026-04-17 15:33:26
 document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tepmetko-epar-product-information_en.pdf
 document_name: tepmetko-epar-product-information_en.pdf
 version: success
-processing_time: 6.1043716
-conversion_datetime: 2025-12-27 23:38:19.31286
+processing_time: 6.6143321
+conversion_datetime: 2026-04-21 14:59:13.801868
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -33,10 +33,6 @@ TEPMETKO 225 mg film-coated tablets
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Each film-coated tablet contains 225 mg tepotinib (as hydrochloride hydrate).
-
-Excipient with known effect
-
-Each film-coated tablet contains 4.4 mg lactose monohydrate.
 
 For the full list of excipients, see section 6.1.
 
@@ -64,11 +60,11 @@ The recommended dose is 450 mg tepotinib (2 tablets) taken once daily. Treatment
 
 If a daily dose is missed, it can be taken as soon as remembered on the same day, unless the next dose is due within 8 hours.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Dose modification for adverse reactions
 
 The recommended dose reduction level for the management of adverse reactions is 225 mg (1 tablet) daily. Detailed recommendations for dose modification are provided in the table hereafter.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 1: Recommended dose modifications for TEPMETKO
 
@@ -94,15 +90,15 @@ Renal function estimates that rely on serum creatinine (creatinine clearance or 
 
 No dose adjustment is recommended in patients with mild (Child Pugh Class A) or moderate (Child Pugh Class B) hepatic impairment (see section 5.2). The pharmacokinetics and safety of tepotinib in patients with severe hepatic impairment (Child Pugh Class C) have not been studied. The use of TEPMETKO in patients with severe hepatic impairment is therefore not recommended.
 
-## Elderly
+Elderly
 
 No dose adjustment is necessary in patients aged 65 years and above (see section 5.2).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
 Safety and efficacy of tepotinib in paediatric patients below 18 years of age have not been established. No data are available.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Method of administration
 
@@ -134,11 +130,11 @@ Increase in ALT and/or AST have been reported in patients who received tepotinib
 
 Liver enzymes (ALT and AST) and bilirubin should be monitored prior to the start of TEPMETKO treatment and thereafter as clinically indicated. If grade 3 or higher increases (ALT and/or AST greater than 5 times ULN) occur, dose adjustment or discontinuation is recommended (see section 4.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## QTc prolongation
 
 QTc prolongation was reported in a limited number of patients (see section 4.8). In patients at risk of developing QTc prolongation, including patients with known electrolyte disturbances or taking concomitant medicinal products known to have QTc prolongation effects, monitoring is recommended as clinically indicated (e.g. ECG, electrolytes).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Embryo-foetal toxicity
 
@@ -147,10 +143,6 @@ Tepotinib can cause foetal harm when administered to pregnant women. Pregnancy t
 ## Interpretation of laboratory tests
 
 In vitro studies suggest that tepotinib or its main metabolite inhibit the renal tubular transporter proteins organic cation transporter (OCT) 2 and multidrug and toxin extrusion transporters (MATE) 1 and 2 (see section 5.2). Creatinine is a substrate of these transporters, and the observed increases in creatinine (see section 4.8) may be the result of inhibition of active tubular secretion rather than renal injury. Renal function estimates that rely on serum creatinine (creatinine clearance or estimated glomerular filtration rate) should be interpreted with caution considering this effect. In case of blood creatinine increase while on treatment, it is recommended that further assessment of the renal function be performed to exclude renal impairment.
-
-## Lactose content
-
-TEPMETKO contains lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -168,13 +160,13 @@ In healthy participants, co-administration of a single 450 mg tepotinib dose wit
 
 Co-administration of omeprazole under fed conditions had no clinically relevant effect on the pharmacokinetic profile of a single dose of tepotinib 450 mg and its metabolites (geometric mean ratio for tepotinib of 110% for AUCinf (90% CI: 102; 119) and of 104% for Cmax (90% CI: 93; 117); similar effect on metabolites observed).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Effects of tepotinib on other medicinal products
 
 ## P-gp substrates
 
 Tepotinib is an inhibitor of P-gp . Administration of tepotinib 450 mg orally once daily for 8 days increased the AUC of the sensitive P-gp substrate dabigatran etexilate by approximately 50% and Cmax by approximately 40%. Dose adjustment of dabigatran etexilate may be needed in case of concomitant use. Caution and monitoring for adverse reactions of other P-gp-dependent substances with a narrow therapeutic index (e.g. digoxin, aliskiren, everolimus, sirolimus) is recommended during coadministration with TEPMETKO.
+
+<div style=\"page-break-after: always\"></div>
 
 ## BCRP substrates
 
@@ -206,13 +198,13 @@ Male patients with female partners of childbearing potential should use barrier 
 
 There are no clinical data on the use of tepotinib in pregnant women. Studies in animals have shown teratogenicity (see section 5.3). Based on the mechanism of action and findings in animals tepotinib can cause foetal harm when administered to pregnant women.
 
-<div style=\"page-break-after: always\"></div>
-
 TEPMETKO should not be used during pregnancy, unless the clinical condition of the woman requires treatment with tepotinib. Women of childbearing potential or male patients with female partners of childbearing potential should be advised of the potential risk to a foetus.
 
 ## Breast-feeding
 
 There are no data regarding the secretion of tepotinib or its metabolites in human milk or its effects on the breast-fed child or milk production. Breast-feeding should be discontinued during treatment with TEPMETKO and for at least 1 week after the last dose.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -230,9 +222,9 @@ The most common adverse reactions in ≥ 20% of exposed to tepotinib at the reco
 
 The most common serious adverse reactions in ≥ 1% of patients are peripheral oedema (3.2%), generalised oedema (1.9%) and ILD (1.0%).
 
-The percentage of patients who had adverse events leading to permanent treatment discontinuation is 24.9 %. The most common adverse reactions leading to permanent discontinuation in ≥ 1% of patients are peripheral oedema (5.4%), oedema (1.3%), genital oedema (1.0%) and ILD (1.0%).
+The percentage of patients who had adverse events leading to permanent treatment discontinuation is 24.9%. The most common adverse reactions leading to permanent discontinuation in ≥ 1% of patients are peripheral oedema (5.4%), oedema (1.3%), genital oedema (1.0%) and ILD (1.0%).
 
-The percentage of patients who had adverse events leading to temporary treatment discontinuation is 52.7 %. The most common adverse reactions leading to temporary discontinuation in ≥ 2% of patients are peripheral oedema (19.8%), increase in creatinine (5.8%), generalised oedema (4.8%), oedema (3.8%), increase in ALT (2.9%), nausea (3.2%) and increase in amylase (1.6%).
+The percentage of patients who had adverse events leading to temporary treatment discontinuation is 52.7%. The most common adverse reactions leading to temporary discontinuation in ≥ 2% of patients are peripheral oedema (19.8%), increase in creatinine (5.8%), generalised oedema (4.8%), oedema (3.8%), increase in ALT (2.9%), nausea (3.2%) and increase in amylase (1.6%).
 
 The percentage of patients who had adverse events leading to dose reduction is 36.1%. The most common adverse reactions leading to dose reduction in ≥ 2% of patients are peripheral oedema (15.7%), increase in creatinine (2.9%), generalised oedema (3.2%) and oedema (2.6%).
 
@@ -242,15 +234,19 @@ Adverse reactions described in the list below reflect exposure to tepotinib in 5
 
 The frequencies of adverse reactions are based on all-cause adverse event frequencies identified in 313 patients exposed to tepotinib at the recommended dose in the target indication, whereas frequencies for changes in laboratory parameters are based on worsening from baseline by at least 1 grade and shifts to ≥ grade 3. Median duration of treatment was 7.5 months (range 0 to 72).
 
-<div style=\"page-break-after: always\"></div>
-
 Frequencies presented may not be fully attributable to tepotinib alone but may contain contributions from the underlying disease or from other medicinal products used concomitantly.
 
 The severity of adverse reactions was assessed based on the Common Terminology Criteria for Adverse Events (CTCAE), defining grade 1 = mild, grade 2 = moderate, grade 3 = severe, grade 4 = life threatening and grade 5 = death.
 
+<div style=\"page-break-after: always\"></div>
+
 The following definitions apply to the frequency terminology used hereafter:
 
-Very common (≥ 1/10) Common (≥ 1/100 to &lt; 1/10) Uncommon (≥ 1/1 000 to &lt; 1/100) Rare (≥ 1/10 000 to &lt; 1/1 000) Very rare (&lt; 1/10 000)
+Very common (≥ 1/10) Common (≥ 1/100 to &lt; 1/10) Uncommon (≥ 1/1 000 to &lt; 1/100)
+
+Rare (≥ 1/10 000 to &lt; 1/1 000)
+
+Very rare (&lt; 1/10 000)
 
 Frequency not known (cannot be estimated from the available data)
 
@@ -259,8 +255,7 @@ Table 2: Adverse reactions in patients with NSCLC harbouring MET ex14 skipping a
 | System organ class/Adverse reaction                                      | TEPMETKO N = 313   | TEPMETKO N = 313   | TEPMETKO N = 313   |
 |--------------------------------------------------------------------------|--------------------|--------------------|--------------------|
 |                                                                          | Frequency category | All grades %       | Grade ≥ 3 %        |
-| Metabolism and nutrition disorders                                       |                    |                    |                    |
-| Decrease in albumin* ,a                                                  | Very common        | 78.6               | 8.9                |
+| Metabolism and nutrition disorders Decrease in albumin* ,a               | Very common        | 78.6               | 8.9                |
 | Cardiac disorders QT prolongation*                                       | Common             | 2.6                | ---                |
 | Respiratory, thoracic and mediastinal disorders ILD-like reactions* ,b,c | Common             | 2.6                | 0.3                |
 | Gastrointestinal disorders                                               |                    |                    |                    |
@@ -356,7 +351,7 @@ In clinical studies, identification of MET ex14 skipping alterations relied on n
 
 The efficacy of tepotinib was evaluated in a single-arm, open-label, multicentre study (VISION) in adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) harbouring MET ex14 skipping alterations (n = 313). Patients had an Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 0 to 1 and were either treatment-naïve or had progressed on up to 2 lines prior systemic therapies. Neurologically stable patients with central nervous system metastases were permitted. Patients with epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK) activating alterations were excluded. Patients received tepotinib as first-line (52%), second-line (29%) or later line (18%) therapy.
 
-Patients who received tepotinib for second- or later line therapy (n = 149) had a median age of 71 years (range 41 to 89), 52% were female and 48% male. The majority of patients were white (56%), followed by Asian patients (38%) and were never (53%) or former smokers (40%). Most patients were ≥ 65 years of age (75%) and 35 % of patients were ≥ 75 years of age. The majority of patients (95%) had stage IV disease, 81% had adenocarcinoma histology. Thirteen percent of the patients had stable brain metastases. Eighty-four percent of patients had received prior platinum-based cancer therapy and 54% of patients had received immune-based cancer therapy, including 40% of patients who had received immunotherapy as monotherapy. MET ex14 skipping was prospectively detected by testing from tumour tissue in 65% of patients and by testing from plasma in 56% of patients; 56% of patients tested positive with both methods.
+Patients who received tepotinib for second- or later line therapy (n = 149) had a median age of 71 years (range 41 to 89), 52% were female and 48% male. The majority of patients were white (56%), followed by Asian patients (38%) and were never (53%) or former smokers (40%). Most patients were ≥ 65 years of age (75%) and 35% of patients were ≥ 75 years of age. The majority of patients (95%) had stage IV disease, 81% had adenocarcinoma histology. Thirteen percent of the patients had stable brain metastases. Eighty-four percent of patients had received prior platinum-based cancer therapy and 54% of patients had received immune-based cancer therapy, including 40% of patients who had received immunotherapy as monotherapy. MET ex14 skipping was prospectively detected by testing from tumour tissue in 65% of patients and by testing from plasma in 56% of patients; 56% of patients tested positive with both methods.
 
 Patients received 450 mg tepotinib once daily until disease progression or unacceptable toxicity. Median treatment duration was 7.5 months (range 0 to 72). The follow-up time was at least 18 and up to 72 months at the time of the data cut-off (cut-off date 20 November 2022).
 
@@ -373,7 +368,7 @@ Table 3: Clinical outcomes in the VISION study by IRC assessment
 | Median duration of response (mDoR), months b | 18.0                         | 12.6                                  |
 | [95% CI]                                     | [12.4, 46.4]                 | [9.5, 18.5]                           |
 
-IRC = Independent Review Committee, CI = confidence interval a Only includes partial response
+IRC = Independent Review Committee, CI = confidence interval a  Only includes partial response
 
 b  Product-limit (Kaplan-Meier) estimates, 95% CI for the median using the Brookmeyer and Crowley method
 
@@ -451,7 +446,7 @@ No studies have been performed to evaluate the carcinogenic potential of tepotin
 
 ## Reproduction toxicity
 
-In a first oral embryo-foetal development study, pregnant rabbits received doses of 50, 150, and 450 mg tepotinib hydrochloride hydrate per kg per day during organogenesis. The dose of 450 mg per kg (approximately 61% of the human exposure at the recommended dose of TEPMETKO 450 mg once daily based on AUC) was discontinued due to severe maternal toxic effects. In the 150 mg per kg group (approximately 40% of the human exposure at the 450 mg clinical dose), two animals aborted and one animal died prematurely . Mean foetal body weight was decreased at doses of ≥ 150 mg per kg per day. A dose-dependent increase of skeletal malformations, including malrotations of fore and/or hind paws with concomitant misshapen scapula and/or malpositioned clavicle and/or calcaneous and/or talus, were observed at 50 mg per kg (approximately 14% of the human exposure at the 450 mg clinical dose) and 150 mg per kg per day.
+In a first oral embryo-foetal development study, pregnant rabbits received doses of 50, 150, and 450 mg tepotinib hydrochloride hydrate per kg per day during organogenesis. The dose of 450 mg per kg (approximately 61% of the human exposure at the recommended dose of TEPMETKO 450 mg once daily based on AUC) was discontinued due to severe maternal toxic effects. In the 150 mg per kg group (approximately 40% of the human exposure at the 450 mg clinical dose), two animals aborted and one animal died prematurely. Mean foetal body weight was decreased at doses of ≥ 150 mg per kg per day. A dose-dependent increase of skeletal malformations, including malrotations of fore and/or hind paws with concomitant misshapen scapula and/or malpositioned clavicle and/or calcaneous and/or talus, were observed at 50 mg per kg (approximately 14% of the human exposure at the 450 mg clinical dose) and 150 mg per kg per day.
 
 In the second embryo-foetal development study, pregnant rabbits received oral doses of 0.5, 5, and 25 mg tepotinib hydrochloride hydrate per kg per day during organogenesis. Two malformed foetuses with malrotated hind limbs were observed: one in the 5 mg per kg group (approximately 0.21% of the human exposure at the recommended dose of TEPMETKO 450 mg once daily based on AUC) and one in the 25 mg per kg group (approximately 1.3% of the human exposure at the 450 mg clinical dose), together with a generally increased incidence of foetuses with hind limb hyperextension.
 
@@ -471,27 +466,45 @@ Mannitol Colloidal anhydrous silica Crospovidone Magnesium stearate Microcrystal
 
 <div style=\"page-break-after: always\"></div>
 
-| Film-coating                                                                                                                                                                             | Film-coating                                                                                                                                                                             |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hypromellose Lactose monohydrate Macrogol                                                                                                                                                | Hypromellose Lactose monohydrate Macrogol                                                                                                                                                |
-| 6.2                                                                                                                                                                                      | Incompatibilities                                                                                                                                                                        |
-| Not applicable.                                                                                                                                                                          | Not applicable.                                                                                                                                                                          |
-| 6.3                                                                                                                                                                                      | Shelf life                                                                                                                                                                               |
-| 3 years.                                                                                                                                                                                 | 3 years.                                                                                                                                                                                 |
-| 6.4                                                                                                                                                                                      | Special precautions for storage                                                                                                                                                          |
-| This medicinal product does not require special storage conditions.                                                                                                                      | This medicinal product does not require special storage conditions.                                                                                                                      |
-| 6.5                                                                                                                                                                                      | Nature and contents of container                                                                                                                                                         |
-| Aluminium/Polyvinyl chloride-polyethylene-polyvinylidene chloride-polyethylene-polyvinyl chloride (Al/PVC-PE-PVDC-PE-PVC) blister. Pack of 60 film-coated tablets.                       | Aluminium/Polyvinyl chloride-polyethylene-polyvinylidene chloride-polyethylene-polyvinyl chloride (Al/PVC-PE-PVDC-PE-PVC) blister. Pack of 60 film-coated tablets.                       |
-| 6.6                                                                                                                                                                                      | Special precautions for disposal                                                                                                                                                         |
-| This medicinal product may pose a risk to the environment (see section 5.3). Any unused medicinal product or waste material should be disposed of in accordance with local requirements. | This medicinal product may pose a risk to the environment (see section 5.3). Any unused medicinal product or waste material should be disposed of in accordance with local requirements. |
-| 7.                                                                                                                                                                                       | MARKETING AUTHORISATIONHOLDER                                                                                                                                                            |
-| Merck Europe B.V. Gustav Mahlerplein 102 1082 MAAmsterdam The Netherlands                                                                                                                | Merck Europe B.V. Gustav Mahlerplein 102 1082 MAAmsterdam The Netherlands                                                                                                                |
-| 8.                                                                                                                                                                                       | MARKETING AUTHORISATION NUMBER                                                                                                                                                           |
-| EU/1/21/1596/001                                                                                                                                                                         | EU/1/21/1596/001                                                                                                                                                                         |
-| 9.                                                                                                                                                                                       | DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION                                                                                                                                 |
-| Date of first authorisation: 16 February 2022                                                                                                                                            | Date of first authorisation: 16 February 2022                                                                                                                                            |
-| 10.                                                                                                                                                                                      | DATE OF REVISION OF THE TEXT                                                                                                                                                             |
-| Detailed information on this medicinal product is available on the website of the European Medicines                                                                                     | Detailed information on this medicinal product is available on the website of the European Medicines                                                                                     |
+## Film-coating
+
+Polyvinyl alcohol Titanium dioxide (E171) Polyethylene glycol Talc Red iron oxide (E172)
+
+## 6.2 Incompatibilities
+
+Not applicable.
+
+## 6.3 Shelf life
+
+3 years.
+
+## 6.4 Special precautions for storage
+
+This medicinal product does not require special storage conditions.
+
+## 6.5 Nature and contents of container
+
+Aluminium/Polyvinyl chloride-polyethylene-polyvinylidene chloride-polyethylene-polyvinyl chloride (Al/PVC-PE-PVDC-PE-PVC) blister. Pack of 60 film-coated tablets.
+
+## 6.6 Special precautions for disposal
+
+This medicinal product may pose a risk to the environment (see section 5.3). Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
+
+## 8. MARKETING AUTHORISATION NUMBER
+
+EU/1/21/1596/001
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 16 February 2022
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -555,8 +568,6 @@ Each film-coated tablet contains 225 mg tepotinib (as hydrochloride hydrate).
 
 ## 3. LIST OF EXCIPIENTS
 
-Contains lactose.
-
 See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
@@ -575,21 +586,25 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
 
-## 12. MARKETING AUTHORISATION NUMBER
+| 12.   | MARKETING AUTHORISATION NUMBER   |
+|-------|----------------------------------|
 
 EU/1/21/1596/001
 
@@ -597,19 +612,24 @@ EU/1/21/1596/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 tepmetko
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN
 
@@ -617,19 +637,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 TEPMETKO 225 mg tablets tepotinib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Merck Europe B.V.
 
@@ -656,7 +674,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## TEPMETKO 225 mg film-coated tablets tepotinib
+## TEPMETKO 225 mg film-coated tablets
+
+## tepotinib
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -756,10 +776,6 @@ It is not known whether TEPMETKO may pass to the baby via breast milk. Stop brea
 
 TEPMETKO has no influence on the ability to drive or use machines.
 
-## TEPMETKO contains lactose
-
-TEPMETKO contains 4.4 mg lactose monohydrate in each tablet. If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
-
 ## 3. How to take TEPMETKO
 
 Always take this medicine exactly as your doctor has told you. Check with your doctor if you are not sure.
@@ -792,11 +808,11 @@ If you miss a dose of TEPMETKO, take it as soon as you remember. If your next do
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Serious side effects
 
@@ -841,13 +857,13 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What TEPMETKO contains
 
 - The active substance is tepotinib. Each film-coated tablet contains 225 mg tepotinib (as hydrochloride hydrate).
-- The other ingredients are mannitol, colloidal anhydrous silica, crospovidone, magnesium stearate and microcrystalline cellulose in the tablet core and hypromellose, lactose monohydrate (see section 2, 'TEPMETKO contains lactose'), macrogol, triacetin, red iron oxide (E172) and titanium dioxide (E171) in the film-coating.
-
-<div style=\"page-break-after: always\"></div>
+- The other ingredients are mannitol, colloidal anhydrous silica, crospovidone, magnesium stearate and microcrystalline cellulose in the tablet core and polyvinyl alcohol, titanium dioxide (E171), polyethylene glycol, talc, and red iron oxide (E172) in the film-coating.
 
 ## What TEPMETKO looks like and contents of the pack
 
 TEPMETKO film-coated tablets are white-pink, oval, biconvex, approximately 18x9 mm in size and embossed with 'M' on one side and plain on the other side. Each pack contains 60 tablets in a transparent blister, which consists of a multilayer composite form foil and an aluminium lidding.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 

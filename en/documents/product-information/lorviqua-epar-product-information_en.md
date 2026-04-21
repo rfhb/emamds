@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-05-15 16:19:10
+document_datetime: 2026-04-15 12:17:43
 document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lorviqua-epar-product-information_en.pdf
 document_name: lorviqua-epar-product-information_en.pdf
 version: success
-processing_time: 30.5321293
-conversion_datetime: 2025-12-29 19:32:24.668847
+processing_time: 28.0908217
+conversion_datetime: 2026-04-21 14:51:17.359977
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,7 +56,7 @@ Round (8 mm) light pink immediate release film-coated tablet, debossed with 'Pfi
 
 ## Lorviqua 100 mg film-coated tablets
 
-Oval (8.5 × 17 mm) dark pink immediate release film-coated tablet, debossed with 'Pfizer' on one side and 'LLN 100' on the other side.
+Oval (8.5 × 17 mm) dark pink immediate release filmcoated tablet, debossed with 'Pfizer' on one side and 'LLN 100' on the other side.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -66,8 +66,8 @@ Lorviqua as monotherapy is indicated for the treatment of adult patients with an
 
 Lorviqua as monotherapy is indicated for the treatment of adult patients with ALK-positive advanced NSCLC whose disease has progressed after:
 
--  alectinib or ceritinib as the first ALK tyrosine kinase inhibitor (TKI) therapy; or
--  crizotinib and at least one other ALK TKI.
+- alectinib or ceritinib as the first ALK tyrosine kinase inhibitor (TKI) therapy; or
+- crizotinib and at least one other ALK TKI.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -93,14 +93,14 @@ If a dose of Lorviqua is missed, then it should be taken as soon as the patient 
 
 Dosing interruption or dose reduction may be required based on individual safety and tolerability. Lorlatinib dose reduction levels are summarised below:
 
--  First dose reduction: 75 mg taken orally once daily
--  Second dose reduction: 50 mg taken orally once daily
+- First dose reduction: 75 mg taken orally once daily
+- Second dose reduction: 50 mg taken orally once daily
 
 Lorlatinib should be permanently discontinued if the patient is unable to tolerate the 50 mg dose taken orally once daily.
 
 Dose modification recommendations for toxicities and for patients who develop atrioventricular (AV) block are provided in Table 1.
 
-Table 1. Recommended lorlatinib dose modifications for adverse reactions
+Table 1.  Recommended lorlatinib dose modifications for adverse reactions
 
 | Adverse reaction a                                                                                                                                                                                                                                                                                                                             | Lorlatinib dosing                                                                                                                     |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
@@ -109,32 +109,30 @@ Table 1. Recommended lorlatinib dose modifications for adverse reactions
 
 <div style=\"page-break-after: always\"></div>
 
-Table 1. Recommended lorlatinib dose modifications for adverse reactions
+Table 1.  Recommended lorlatinib dose modifications for adverse reactions
 
-| Adverse reaction a (triglycerides between 301 and 500 mg/dL or 3.43 and 5.7 mmol/L)                                                                                                                        | Lorlatinib dosing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |             |                             |      |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-----------------------------|------|
-| Severe hypercholesterolaemia (cholesterol between 401 and 500 mg/dL or between 10.35 and 12.92 mmol/L) OR Severe hypertriglyceridaemia (triglycerides between 501 and 1,000 mg/dL or 5.71 and 11.4 mmol/L) | Introduce the use of lipid-lowering therapy b ; if currently on lipid-lowering therapy, increase the dose of this therapy b in accordance with respective prescribing information; or change to a new lipid-lowering therapy b . Continue lorlatinib at the same dose without interruption.                                                                                                                                                                                                                                                                                                                                                                               |             |                             |      |
-| Life-threatening hypercholesterolaemia (cholesterol over 500 mg/dL or over 12.92 mmol/L) OR Life-threatening hypertriglyceridaemia                                                                         | or over Introduce the use of lipid-lowering therapy b or increase the dose of this therapy b in accordance with respective prescribing information or change to a new lipid-lowering therapy b . Withhold lorlatinib until recovery of hypercholesterolaemia and/or hypertriglyceridaemia to moderate or mild severity grade. Re-challenge at same lorlatinib dose while maximising lipid-lowering therapy b in accordance with respective prescribing information. If severe hypercholesterolaemia and/or hypertriglyceridaemia recur despite maximal lipid-lowering therapy b in accordance with respective prescribing information, reduce lorlatinib by 1 dose level. | 1,000 mg/dL | (triglycerides 11.4 mmol/L) | over |
-| Central nervous system (CNS) effects (comprises psychotic effects and changes in cognition,                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |             |                             |      |
-| Grade 2: Moderate OR Grade 3: Severe                                                                                                                                                                       | Withhold dose until toxicity is less than or equal to Grade 1. Then resume lorlatinib at 1 reduced dose level.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |             |                             |      |
-| Grade 4: Life-threatening/Urgent intervention indicated                                                                                                                                                    | Permanently discontinue lorlatinib.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |             |                             |      |
-| Lipase/Amylase increase                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |             |                             |      |
-| Grade 4: Life-threatening/Urgent intervention indicated Interstitial lung disease Grade 1: Mild                                                                                                            | Withhold lorlatinib until lipase or amylase returns to baseline. Then resume lorlatinib at 1 reduced dose level.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |             |                             |      |
-| OR                                                                                                                                                                                                         | discontinue lorlatinib if or fails to recover after 6 weeks of lorlatinib                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |             |                             |      |
-| Grade 3: Severe                                                                                                                                                                                            | hold and steroid treatment.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |             |                             |      |
-|                                                                                                                                                                                                            | Permanently discontinue lorlatinib.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |             |                             |      |
-| OR                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |             |                             |      |
-|                                                                                                                                                                                                            | Withhold lorlatinib until symptoms have returned to baseline and consider initiating corticosteroids. Resume lorlatinib at 1 reduced dose level.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |             |                             |      |
-|                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |             | OR                          |      |
-| (ILD)/Pneumonitis                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |             |                             |      |
-| Grade 2:                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |             |                             |      |
-| Moderate                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |             |                             |      |
-|                                                                                                                                                                                                            | Permanently recurs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |             |                             |      |
-|                                                                                                                                                                                                            | ILD/pneumonitis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |             |                             |      |
+| Adverse reaction a (triglycerides between 301 and 500 mg/dL                                                                                                    | Lorlatinib dosing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |              |                |      |         |             |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|----------------|------|---------|-------------|
+| or 3.43 and 5.7 mmol/L) Severe hypercholesterolaemia (cholesterol between 401 and 500 mg/dL or between 10.35 and 12.92 mmol/L) OR Severe hypertriglyceridaemia | Introduce the use of lipid-lowering therapy b ; if currently on lipid-lowering therapy, increase the dose of this therapy b in accordance with respective prescribing information; or change to a new lipid-lowering therapy b . Continue lorlatinib at the same dose without interruption.                                                                                                                                                                                                                                                                                                                                                                               |              | (triglycerides |      | between | 501 and     |
+| Life-threatening hypercholesterolaemia (cholesterol over 500 mg/dL or over 12.92 mmol/L) OR Life-threatening hypertriglyceridaemia                             | or over Introduce the use of lipid-lowering therapy b or increase the dose of this therapy b in accordance with respective prescribing information or change to a new lipid-lowering therapy b . Withhold lorlatinib until recovery of hypercholesterolaemia and/or hypertriglyceridaemia to moderate or mild severity grade. Re-challenge at same lorlatinib dose while maximising lipid-lowering therapy b in accordance with respective prescribing information. If severe hypercholesterolaemia and/or hypertriglyceridaemia recur despite maximal lipid-lowering therapy b in accordance with respective prescribing information, reduce lorlatinib by 1 dose level. | 11.4 mmol/L) | (triglycerides | over |         | 1,000 mg/dL |
+| Central nervous system (CNS) effects (comprises psychotic effects and changes in cognition, mood, mental status or speech)                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |              |                |      |         |             |
+| Grade 2: Moderate OR Grade 3: Severe                                                                                                                           | Withhold dose until toxicity is less than or equal to Grade 1. Then resume lorlatinib at 1 reduced dose level.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |              |                |      |         |             |
+| Grade 4: Life-threatening/Urgent intervention indicated                                                                                                        | Permanently discontinue lorlatinib.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |              |                |      |         |             |
+| Lipase/Amylase increase                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |              |                |      |         |             |
+| intervention indicated Interstitial lung disease (ILD)/Pneumonitis Grade 1: Mild OR                                                                            | Withhold lorlatinib until symptoms have returned to baseline and consider initiating corticosteroids. Resume lorlatinib at 1 reduced dose level. discontinue lorlatinib if or fails to recover after 6 weeks of lorlatinib                                                                                                                                                                                                                                                                                                                                                                                                                                                |              |                |      |         |             |
+|                                                                                                                                                                | ILD/pneumonitis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |              |                |      |         |             |
+| Grade 3: Severe                                                                                                                                                | Permanently discontinue                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |              |                |      |         |             |
+|                                                                                                                                                                | lorlatinib.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |              |                |      |         |             |
+| OR                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |              |                |      |         |             |
+|                                                                                                                                                                | and steroid treatment.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |              |                |      |         |             |
+| Grade 2:                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |              |                |      |         |             |
+|                                                                                                                                                                | Permanently recurs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |              |                |      |         |             |
+|                                                                                                                                                                | hold                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |              |                |      |         |             |
+|                                                                                                                                                                | Moderate                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |              |                |      |         |             |
 
 <div style=\"page-break-after: always\"></div>
 
-Table 1. Recommended lorlatinib dose modifications for adverse reactions
+Table 1.  Recommended lorlatinib dose modifications for adverse reactions
 
 | Adverse reaction a                                      | Lorlatinib dosing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |---------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -148,7 +146,7 @@ Table 1. Recommended lorlatinib dose modifications for adverse reactions
 
 <div style=\"page-break-after: always\"></div>
 
-Table 1. Recommended lorlatinib dose modifications for adverse reactions
+Table 1.  Recommended lorlatinib dose modifications for adverse reactions
 
 | Adverse reaction a                                                                                                                                                                                                      | Lorlatinib dosing                                                                                                                                                                                                                                                                                                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -163,7 +161,7 @@ Table 1. Recommended lorlatinib dose modifications for adverse reactions
 
 Abbreviations: CNS=central nervous system; CTCAE=Common Terminology Criteria for Adverse Events; DBP=diastolic blood pressure; ECG=electrocardiogram; HMG CoA=3-hydroxy-3-methylglutaryl coenzyme A; NCI=National Cancer Institute; SBP=systolic blood pressure; ULN=upper limit of normal.
 
-a Grade categories are based on NCI CTCAE classifications.
+a   Grade categories are based on NCI CTCAE classifications.
 
 b Lipid-lowering therapy may include: HMG CoA reductase inhibitor, nicotinic acid, fibric acid derivatives, or ethyl esters of omega-3 fatty acids.
 
@@ -185,7 +183,7 @@ No dose adjustment is needed for patients with normal renal function and mild or
 
 ## Hepatic impairment
 
-No dose adjustments are recommended for patients with mild hepatic impairment. No information is available for lorlatinib in patients with moderate or severe hepatic impairment. Therefore, lorlatinib is not recommended in patients with moderate to severe hepatic impairment (see section 5.2).
+No dose adjustments are recommended for patients with mild or moderate hepatic impairment. A reduced starting dose of lorlatinib is recommended in patients with severe hepatic impairment (Child-Pugh C) from 100 mg to 50 mg orally once daily (see section 5.2).
 
 ## Paediatric population
 
@@ -259,7 +257,7 @@ This medicinal product contains lactose as an excipient. Patients with rare here
 
 ## Dietary sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per 25 mg or 100 mg tablet. Patients on low sodium diets should be informed that this product is essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per 25 mg or 100 mg tablet. Patients on low sodium diets should be informed that this product is essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -359,50 +357,45 @@ Table 2 presents adverse reactions occurring in 547 adult patients treated with 
 
 The adverse reactions listed in Table 2 are presented by system organ class and frequency categories, defined using the following convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000). Within each frequency grouping, undesirable effects are presented in order of decreasing medical seriousness.
 
-Table 2. Adverse reactions
+Table 2.  Adverse reactions
 
-| System organ class and adverse reaction      | Frequency category   | All Grades %   | Grades 3-4 %   |
-|----------------------------------------------|----------------------|----------------|----------------|
-| Blood and lymphatic system disorders Anaemia | Very common          | 19.6           | 4.4            |
-| Metabolism and nutrition disorders           |                      |                |                |
-| Hypercholesterolaemia a                      | Very common          | 79.0           | 19.2           |
-| Hypertriglyceridaemia b                      | Very common          | 67.5           | 20.3           |
-| Hyperglycaemia                               | Common               | 9.7            | 3.7            |
-| Psychiatric disorders                        |                      |                |                |
-| Mood effects c                               | Very common          | 21.4           | 1.3            |
-| Psychotic effects d                          | Common               | 6.9            | 0.9            |
-| Mental status changes                        | Common               | 1.1            | 0.9            |
-| Nervous system disorders                     |                      |                |                |
-| Cognitive effects e                          | Very common          | 27.4           | 3.5            |
-| Peripheral neuropathy f                      | Very common          | 44.2           | 2.6            |
-| Headache                                     | Very common          | 18.6           | 0.7            |
-| Speech effects g                             | Common               | 8.2            | 0.7            |
-| Eye disorders                                |                      |                |                |
-| Vision disorder h                            | Very common          | 16.1           | 0.2            |
-| Vascular disorders                           |                      |                |                |
-| Hypertension                                 | Very common          | 14.8           | 6.0            |
+| System organ class and adverse reaction                                        | Frequency category      | All Grades %   | Grades 3-4 %   |
+|--------------------------------------------------------------------------------|-------------------------|----------------|----------------|
+| Blood and lymphatic system disorders Anaemia                                   | Very common             | 19.6           | 4.4            |
+| Metabolism and nutrition disorders Hypercholesterolaemia a b                   | Very common Very common | 79.0 9.7       | 19.2 20.3      |
+| Hypertriglyceridaemia Hyperglycaemia                                           |                         | 67.5           |                |
+|                                                                                | Common                  |                | 3.7            |
+| Psychiatric disorders Mood effects c Psychotic effects d Mental status changes | Very common Common      | 21.4 6.9       | 1.3 0.9        |
+| Nervous system Cognitive effects e Peripheral neuropathy                       | Very common             | 1.1            | 0.9            |
+| disorders f                                                                    | Common                  |                |                |
+|                                                                                | Very common             | 27.4           | 3.5            |
+| Headache Speech effects g Vascular disorders                                   | Very common             | 44.2 18.6 8.2  | 2.6 0.7 0.7    |
+|                                                                                | Common                  |                | 0.2            |
+| Eye disorders Vision disorder h                                                | Very common             | 16.1           |                |
+| Hypertension                                                                   |                         |                |                |
+|                                                                                | Very common             | 14.8           | 6.0            |
 
 <div style=\"page-break-after: always\"></div>
 
-| Respiratory, thoracic and mediastinal disorders Pneumonitis i   | Common      | 2.4   | 0.7   |
+| Respiratory, thoracic and mediastinal disorders Pneumonitis i   | Common      |   2.4 |   0.7 |
 |-----------------------------------------------------------------|-------------|-------|-------|
 | Gastrointestinal disorders                                      |             |       |       |
-| Diarrhoea                                                       | Very common | 22.7  | 1.8   |
-| Nausea                                                          | Very common | 17.6  | 0.9   |
-| Constipation                                                    | Very common | 16.8  | 0.2   |
-| Skin and subcutaneous tissue disorders Rash j                   | Very common | 14.6  | 0.2   |
-| Renal and urinary disorders Proteinuria                         | Common      | 3.7   | 0.4   |
+| Diarrhoea                                                       | Very common |  22.7 |   1.8 |
+| Nausea                                                          | Very common |  17.6 |   0.9 |
+| Constipation                                                    | Very common |  16.8 |   0.2 |
+| Skin and subcutaneous tissue disorders Rash j                   | Very common |  14.6 |   0.2 |
+| Renal and urinary disorders Proteinuria                         | Common      |   3.7 |   0.4 |
 | Musculoskeletal and connective tissue disorders                 |             |       |       |
-| Arthralgia                                                      | Very common | 27.8  | 0.7   |
-| Myalgia k                                                       | Very common | 15.0  | 0     |
+| Arthralgia                                                      | Very common |  27.8 |   0.7 |
+| Myalgia k                                                       | Very common |  15.0 |     0 |
 | General disorders and administration site conditions            |             |       |       |
-| Oedema l                                                        | Very common | 55.4  | 2.9   |
-| Fatigue m                                                       | Very common | 30.7  | 1.1   |
+| Oedema l                                                        | Very common |  55.4 |   2.9 |
+| Fatigue m                                                       | Very common |  30.7 |   1.1 |
 | Investigations                                                  |             |       |       |
-| Weight increased                                                | Very common | 29.8  | 11    |
-| Lipase increased                                                | Very common | 12.8  | 6.8   |
-| Amylase increased                                               | Very common | 11.3  | 2.7   |
-| Electrocardiogram PR prolongation                               | Uncommon    | 0.7   | 0     |
+| Weight increased                                                | Very common |  29.8 |    11 |
+| Lipase increased                                                | Very common |  12.8 |   6.8 |
+| Amylase increased                                               | Very common |  11.3 |   2.7 |
+| Electrocardiogram PR prolongation                               | Uncommon    |   0.7 |     0 |
 
 Adverse reactions that represent the same medical concept or condition were grouped together and reported as a single adverse reaction in the table above. Terms actually reported in the studies and contributing to the relevant adverse reaction are indicated in parentheses, as listed below.
 
@@ -462,7 +455,7 @@ Lorlatinib is a selective, adenosine triphosphate (ATP)-competitive inhibitor of
 
 <div style=\"page-break-after: always\"></div>
 
-In non-clinical studies, lorlatinib inhibited catalytic activities of non-mutated ALK and clinically relevant ALK mutant kinases in recombinant enzyme and cell-based assays. Lorlatinib demonstrated marked antitumour activity in mice bearing tumour xenografts that express echinoderm microtubule-associated protein-like 4 (EML4) fusions with ALK variant 1 (v1), including ALK mutations L1196M, G1269A, G1202R, and I1171T. Two of these ALK mutants, G1202R and I1171T, are known to confer resistance to alectinib, brigatinib, ceritinib, and crizotinib. Lorlatinib was also capable of penetrating the blood-brain barrier. Lorlatinib demonstrated activity in mice bearing orthotopic EML4-ALK or EML4-ALK L1196M brain tumour implants.
+In non-clinical studies, lorlatinib inhibited catalytic activities of non-mutated ALK and clinically relevant ALK mutant kinases in recombinant enzyme and cell-based assays. Lorlatinib demonstrated marked antitumour activity in mice bearing tumour xenografts that express echinoderm microtubule-associated protein-like 4 (EML4) fusions with ALK variant 1 (v1), including ALK mutations L1196M, G1269A, G1202R, and I1171T. Two of these ALK mutants, G1202R and I1171T, are known to confer resistance to alectinib, brigatinib, ceritinib, and crizotinib. Lorlatinib was also capable of penetrating the blood-brain barrier. Lorlatinib demonstrated activity in mice bearing orthotopic EML4-ALK or EML4-ALK L1196M  brain tumour implants.
 
 ## Clinical efficacy
 
@@ -476,7 +469,7 @@ A total of 296 patients were randomised to lorlatinib (n=149) or crizotinib (n=1
 
 Results from the CROWN study are summarised in Table 3. At the data cutoff point, OS and PFS2 data were not mature.
 
-Table 3.  Overall efficacy results in CROWN study
+Table 3.   Overall efficacy results in CROWN study
 
 | Efficacy parameter                              | Lorlatinib N=149   | Crizotinib N=147   |
 |-------------------------------------------------|--------------------|--------------------|
@@ -534,7 +527,7 @@ INV=investigator assessment; N/n=number of patients; NE=not estimable.
 
 * p-value based on 1-sided stratified log-rank test.
 
-a Based on the Brookmeyer and Crowley method.
+a   Based on the Brookmeyer and Crowley method.
 
 b Hazard ratio based on Cox proportional hazards model; under proportional hazards, hazard ratio &lt; 1 indicates a reduction in hazard rate in favour of lorlatinib.
 
@@ -542,7 +535,33 @@ c Using exact method based on binomial distribution.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1. Kaplan-Meier plot of progression-free survival by blinded independent central review in CROWN study
+100
+
+Progression-Free Survival Probability (%)
+
+Lorlatinib (N=149)
+
+Median not reached
+
+..... Crizotinib (N=147)
+
+Median 9.3 months
+
+Figure 1. Kaplan-Meier plot of progression-free survival by blinded independent central review in CROWN study # # # #
+
+60
+
+40-
+
+20-
+
+0+
+
+No. at Risk
+
+Crizotinib
+
+Lorlatinib
 
 <!-- image -->
 
@@ -558,11 +577,13 @@ In Study A, the primary efficacy endpoint in the Phase 2 portion of the study wa
 
 Patient demographics of the 139 ALK-positive advanced NSCLC patients after treatment with at least one second-generation ALK TKI in Study A were 56% female, 48% White, 38% Asian, and the median age was 53 years (range: 29-83 years) with 16% of patients ≥ 65 years of age. The ECOG performance status at baseline was 0 or 1 in 96% patients. Brain metastases were present at baseline in
 
+80
+
 <div style=\"page-break-after: always\"></div>
 
 67% of patients. Of the 139 patients, 20% received 1 prior ALK TKI, excluding crizotinib, 47% received 2 prior ALK TKIs and 33% received 3 or more prior ALK TKIs.
 
-Patient demographics of the 71 ALK-positive advanced NSCLC patients who progressed after treatment with one prior ALK TKI (alectinib or ceritinib) with or without chemotherapy in Study B were 42% female, 76% White, 21% Asian, and the median age was 59 years (range: 26-87 years) with 32% of patients ≥ 65 years of age. The ECOG performance status at baseline was 0 in 52% or 1 in 48% of patients. Brain metastases were present at baseline in 42% of patients. Of the 71 patients, 84% received alectinib and 16% received ceritinib as their prior ALK TKIs.
+Patient demographics of the 71 ALK-positive advanced NSCLC patients who progressed after treatment with one prior ALK TKI (alectinib or ceritinib) with or without chemotherapy in Study B were 42% female, 76% White, 21% Asian, and the median age was 59 years (range: 26-87 years) with 32 % of patients ≥ 65 years of age. The ECOG performance status at baseline was 0 in 52% or 1 in 48% of patients. Brain metastases were present at baseline in 42% of patients. Of the 71 patients, 85% received alectinib and 15% received ceritinib as their prior ALK TKIs.
 
 The main efficacy results for Study A and Study B are included in Tables 4 and 5.
 
@@ -570,12 +591,11 @@ Table 4. Overall efficacy results in Study A and Study B by prior treatment
 
 | Efficacy parameter                                      | One prior ALK TKI a with or without prior chemotherapy (N = 99) b   | Two or more prior ALK TKIs with or without prior chemotherapy (N = 111) c   |
 |---------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Objective response rate d (95% CI) Complete response, n | 42.4% (32.5, 52.8) 5                                                | 39.6% (30.5, 49.4) 2                                                        |
-| Duration of response Median, months (95% CI)            | NE (7.8, NE)                                                        | 42 9.9 (5.7, 24.4)                                                          |
-| Partial response, n                                     | 37                                                                  |                                                                             |
+| Objective response rate d (95% CI) Complete response, n | 42.4% (32.5, 52.8)                                                  | 39.6% (30.5, 49.4)                                                          |
+| Duration of response Median, months (95% CI)            | 5 37 NE (7.8, NE)                                                   | 2 9.9 (5.7, 24.4)                                                           |
+| Partial response, n                                     |                                                                     | 42                                                                          |
 | Progression-free survival Median, months (95% CI)       | 8.3                                                                 | 6.9                                                                         |
-|                                                         | (6.3, 16.5)                                                         | (5.4,                                                                       |
-|                                                         |                                                                     | 9.5)                                                                        |
+|                                                         | (6.3, 16.5)                                                         | (5.4, 9.5)                                                                  |
 
 Abbreviations: ALK=anaplastic lymphoma kinase; CI=confidence interval; ICR=Independent Central Review; N/n=number of patients; NE=not estimable; TKI=tyrosine kinase inhibitor.
 
@@ -584,14 +604,15 @@ Abbreviations: ALK=anaplastic lymphoma kinase; CI=confidence interval; ICR=Indep
 - c Efficacy results from Study A only
 - d Per ICR.
 
-Table 5. Intracranial * efficacy results in Study A and Study B by prior treatment
+Table 5.  Intracranial * efficacy results in Study A and Study B by prior treatment
 
-| Efficacy parameter                                      | One prior ALK TKI a with or without prior chemotherapy (N = 19) b   | Two or more prior ALK TKIs with or without prior chemotherapy (N = 48) c   |
-|---------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------|
-| Objective response rate d (95% CI) Complete response, n | 63.2% (38.4, 83.7) 4                                                | 52.1% (37.2, 66.7) 10                                                      |
-| Duration of intra-cranial response Median, months       |                                                                     |                                                                            |
-| Partial response, n                                     | 8                                                                   | 15                                                                         |
-|                                                         | NE                                                                  | 12.4                                                                       |
+| Efficacy parameter                                | One prior ALK TKI a with or without prior chemotherapy (N = 19) b   | Two or more prior ALK TKIs with or without prior chemotherapy (N = 48) c   |
+|---------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Objective response rate d (95% CI)                | 63.2% (38.4, 83.7)                                                  | 52.1% (37.2, 66.7)                                                         |
+| Complete response, n                              | 4                                                                   | 10                                                                         |
+| Partial response, n                               | 8                                                                   | 15                                                                         |
+| Duration of intra-cranial response Median, months | NE                                                                  | 12.4                                                                       |
+| (95% CI)                                          | (4.2, NE)                                                           | (6.0, NE)                                                                  |
 
 Abbreviations: ALK=anaplastic lymphoma kinase; CI=confidence interval; ICR=Independent Central Review; N/n=number of patients; NE=not estimable; TKI= tyrosine kinase inhibitor.
 
@@ -625,7 +646,7 @@ At 100 mg once daily, the geometric mean (% coefficient of variation [CV]) peak 
 
 ## Distribution
 
-In vitro binding of lorlatinib to human plasma proteins is 66% with moderate binding to albumin or to α1-acid glycoprotein.
+In vitro binding of lorlatinib to human plasma proteins is 66% with moderate binding to albumin or to α 1-acid glycoprotein.
 
 ## Biotransformation
 
@@ -647,13 +668,15 @@ Furthermore, lorlatinib is an inducer via human pregnane-X-receptor (PXR) and th
 
 At single dose, lorlatinib systemic exposure (AUCinf and Cmax) increased in a dose-related manner over the 10 to 200 mg dose range. Few data are available over the 10 to 200 mg dose range; however, no deviation from linearity was observed for AUCinf and Cmax after single dose.
 
-After multiple once daily dose administration, lorlatinib C max increased dose-proportionally and AUCtau increased slightly less than proportionally over the dose range of 10 to 200 mg once daily.
+After multiple once daily dose administration, lorlatinib Cmax increased dose-proportionally and AUCtau increased slightly less than proportionally over the dose range of 10 to 200 mg once daily.
 
 Also, at steady-state lorlatinib plasma exposures are lower than those expected from single dose pharmacokinetics, indicative of a net time-dependent auto-induction effect.
 
 ## Hepatic impairment
 
-As lorlatinib is metabolised in the liver, hepatic impairment is likely to increase lorlatinib plasma concentrations. Clinical studies that were conducted excluded patients with AST or ALT &gt; 2.5 × ULN, or if due to underlying malignancy, &gt; 5.0 × ULN or with total bilirubin &gt; 1.5 × ULN. Population pharmacokinetic analyses have shown that lorlatinib exposure was not clinically meaningfully altered in patients with mild hepatic impairment (n = 50). No dose adjustments are recommended for patients with mild hepatic impairment. No information is available for patients with moderate or severe hepatic impairment.
+As lorlatinib is metabolised in the liver, hepatic impairment is likely to increase lorlatinib plasma concentrations. Clinical studies that were conducted excluded patients with AST or ALT &gt; 2.5 × ULN, or if due to underlying malignancy, &gt; 5.0 × ULN or with total bilirubin &gt; 1.5 × ULN. Population pharmacokinetic analyses have shown that lorlatinib exposure was not clinically meaningfully altered in patients with mild hepatic impairment (n = 53). In a hepatic impairment study following administration of a single oral 100 mg dose of lorlatinib, lorlatinib AUCinf increased by 15% and 82% in patients with moderate hepatic impairment (Child-Pugh B) and severe hepatic impairment (Child-Pugh C), respectively, compared to subjects with normal hepatic function.
+
+No dose adjustments are recommended for patients with mild or moderate hepatic impairment. A reduced dose of lorlatinib is recommended in patients with severe hepatic impairment, i.e. starting dose of 50 mg taken orally once daily (see section 4.2).
 
 ## Renal impairment
 
@@ -669,9 +692,11 @@ In Study A, 2 patients (0.7%) had absolute Fridericia's correction QTc (QTcF) va
 
 In addition, the effect of a single oral dose of lorlatinib (50 mg, 75 mg, and 100 mg) with and without 200 mg once daily itraconazole was evaluated in a 2-way crossover study in 16 healthy volunteers. No increases in the mean QTc were observed at the mean observed lorlatinib concentrations in this study.
 
-In 295 patients who received lorlatinib at the recommended dose of 100 mg once daily and had a ECG measurement in Study A, lorlatinib was studied in a population of patients that excluded those with QTc interval &gt; 470 msec. In the study population, the maximum mean change from baseline for PR interval was 16.4 msec (2-sided 90% upper CI 19.4 msec) (see sections 4.2, 4.4 and 4.8). Of these, 7 patients had a baseline PR &gt; 200 msec. Among the 284 patients with PR interval &lt; 200 msec, 14% had PR interval prolongation ≥ 200 msec after starting lorlatinib. The prolongation of PR interval occurred in a concentration-dependent manner. Atrioventricular block occurred in 1.0% of patients.
+In 295 patients who received lorlatinib at the recommended dose of 100 mg once daily and had a ECG measurement in Study A, lorlatinib was studied in a population of patients that excluded those with
 
 <div style=\"page-break-after: always\"></div>
+
+QTc interval &gt; 470 msec. In the study population, the maximum mean change from baseline for PR interval was 16.4 msec (2-sided 90% upper CI 19.4 msec) (see sections 4.2, 4.4 and 4.8). Of these, 7 patients had a baseline PR &gt; 200 msec. Among the 284 patients with PR interval &lt; 200 msec, 14% had PR interval prolongation ≥ 200 msec after starting lorlatinib. The prolongation of PR interval occurred in a concentration-dependent manner. Atrioventricular block occurred in 1.0% of patients.
 
 For those patients who develop PR prolongation, dose modification may be required (see section 4.2).
 
@@ -782,7 +807,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in Article 9 of Regulation (EC) No 507/2006 and, accordingly, the marketing authorisation holder (MAH) shall submit PSURs every 6 months.
 
@@ -790,22 +815,22 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-##  Obligation to complete post-authorisation measures
+## · Obligation to complete post-authorisation measures
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                               | Due date    |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| Post-authorisation efficacy study (PAES): In order to further characterise the efficacy of lorlatinib in patients with ALK-positive advanced NSCLC previously not treated with an ALK inhibitor, the MAHwill submit the results including overall survival (OS) data of the Phase III CROWN study (B7461006) comparing lorlatinib versus crizotinib in that same setting. The clinical study report will be submitted by: | 01 Dec 2027 |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                              | Due date    |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Post-authorisation efficacy study (PAES): In order to further characterise the efficacy of lorlatinib in patients with ALK-positive advanced NSCLC previously not treated with an ALK inhibitor, the MAHwill submit the results including overall survival (OS) data of the Phase IIICROWN study (B7461006) comparing lorlatinib versus crizotinib in that same setting. The clinical study report will be submitted by: | 01 Dec 2027 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -875,7 +900,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Lorviqua 25 mg
 
@@ -889,9 +914,9 @@ PC
 
 SN
 
-NN
-
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -954,7 +979,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -964,7 +989,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -981,11 +1007,10 @@ EU/1/19/1355/002
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -997,8 +1022,8 @@ Lorviqua 100 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN
 
@@ -1006,9 +1031,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER                                              |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -1043,11 +1068,7 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## Lorviqua 25 mg film-coated tablets
-
-## Lorviqua 100 mg film-coated tablets
-
-lorlatinib
+## Lorviqua 25 mg film-coated tablets Lorviqua 100 mg film-coated tablets lorlatinib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1075,11 +1096,8 @@ Lorviqua contains the active substance lorlatinib, a medicine that is used for t
 
 Lorviqua is used to treat adults with a type of lung cancer called non-small cell lung cancer (NSCLC). It is used if your lung cancer:
 
-- -is ALK-positive - this means your cancer cells have a fault in a gene that makes an enzyme called ALK (anaplastic lymphoma kinase), see How Lorviqua works , below; and
-
--
-
-is advanced.
+- -is ALK-positive -this means your cancer cells have a fault in a gene that makes an enzyme called ALK (anaplastic lymphoma kinase), see How Lorviqua works , below; and
+- -is advanced.
 
 Lorviqua can be prescribed to you if:
 
@@ -1101,11 +1119,11 @@ If you have any questions about how Lorviqua works or why this medicine has been
 
 - -if you are allergic to lorlatinib or any of the other ingredients of this medicine (listed in section 6).
 - -if you are taking any of these medicines:
--  rifampicin (used to treat tuberculosis)
--  carbamazepine, phenytoin (used to treat epilepsy)
--  enzalutamide (used to treat prostate cancer)
--  mitotane (used to treat cancer of the adrenal glands)
--  medicines containing St. John's wort ( Hypericum perforatum , a herbal preparation)
+- rifampicin (used to treat tuberculosis)
+- carbamazepine, phenytoin (used to treat epilepsy)
+- enzalutamide (used to treat prostate cancer)
+- mitotane (used to treat cancer of the adrenal glands)
+- medicines containing St. John's wort ( Hypericum perforatum , a herbal preparation)
 
 ## Warnings and precautions
 
@@ -1134,7 +1152,7 @@ Tell your doctor immediately if you develop:
 
 Your doctor may do further assessments and may decide to reduce the dose of Lorviqua or stop your treatment if you:
 
-- -develop liver problems. Tell your doctor right away if you feel more tired than usual, your skin and whites of your eyes turn yellow, your urine turns dark or brown (tea colour), you have nausea, vomiting, or decreased appetite, you have pain on the right side of your stomach, you have itching, or if you bruise more easily than usual. Your doctor may do blood tests to check your liver function.
+- -have liver problems.
 - -have kidney problems.
 
 See Possible side effects in section 4 for more information.
@@ -1155,15 +1173,15 @@ You must not take Lorviqua with certain medicines. These are listed under Do not
 
 In particular tell your doctor, pharmacist or nurse if you are taking any of the following medicines:
 
-- -boceprevir - a medicine used to treat hepatitis C.
-- -bupropion - a medicine used to treat depression or to help people quit smoking.
-- -dihydroergotamine, ergotamine - medicines used to treat migraine headaches.
-- -efavirenz, cobicistat, ritonavir, paritaprevir in combination with ritonavir and ombitasvir and/or dasabuvir, and ritonavir in combination with either elvitegravir, indinavir, lopinavir or tipranavir - medicines used to treat AIDS/HIV.
-- -ketoconazole, itraconazole, voriconazole, posaconazole - medicines used to treat fungal infections. Also troleandomycin, a medicine used to treat certain types of bacterial infections.
-- -quinidine - a medicine used to treat irregular heartbeat and other heart problems.
-- -pimozide - a medicine used to treat mental health problems.
-- -alfentanil and fentanyl - medicines used to treat severe pain.
-- -ciclosporin, sirolimus, and tacrolimus - medicines used in organ transplantation to prevent organ rejection.
+- -boceprevir -a medicine used to treat hepatitis C.
+- -bupropion -a medicine used to treat depression or to help people quit smoking.
+- -dihydroergotamine, ergotamine -medicines used to treat migraine headaches.
+- -efavirenz, cobicistat, ritonavir, paritaprevir in combination with ritonavir and ombitasvir and/or dasabuvir, and ritonavir in combination with either elvitegravir, indinavir, lopinavir or tipranavir -medicines used to treat AIDS/HIV.
+- -ketoconazole, itraconazole, voriconazole, posaconazole -medicines used to treat fungal infections. Also troleandomycin, a medicine used to treat certain types of bacterial infections.
+- -quinidine -a medicine used to treat irregular heartbeat and other heart problems.
+- -pimozide -a medicine used to treat mental health problems.
+- -alfentanil and fentanyl -medicines used to treat severe pain.
+- -ciclosporin, sirolimus, and tacrolimus -medicines used in organ transplantation to prevent organ rejection.
 
 ## Lorviqua with food and drink
 
@@ -1171,21 +1189,23 @@ You must not drink grapefruit juice or eat grapefruit while on treatment with Lo
 
 ## Pregnancy, breast-feeding and fertility
 
-- -Contraception - information for women
+## -Contraception -information for women
 
 You should not become pregnant while taking this medicine. If you are able to have children, you must use highly effective contraception (for example, double-barrier contraception such as condom and diaphragm) while on treatment and for at least 5 weeks after stopping treatment. Lorlatinib may reduce the effectiveness of hormonal contraceptive methods (for example, birth control pill); therefore, hormonal contraceptives may not be considered highly effective. If hormonal contraception is unavoidable it must be used in combination with a condom. Talk to your doctor about the right methods of contraception for you and your partner.
 
+## -Contraception -information for men
+
+You should not father children during treatment with Lorviqua because this medicine could harm the baby. If there is any possibility that you may father a child while taking this medicine,
+
 <div style=\"page-break-after: always\"></div>
 
-## -Contraception - information for men
-
-You should not father children during treatment with Lorviqua because this medicine could harm the baby. If there is any possibility that you may father a child while taking this medicine, you must use a condom during treatment, and for at least 14 weeks after completing therapy. Talk to your doctor about the right methods of contraception for you and your partner.
+you must use a condom during treatment, and for at least 14 weeks after completing therapy. Talk to your doctor about the right methods of contraception for you and your partner.
 
 ## -Pregnancy
 
--  Do not take Lorviqua if you are pregnant. This is because it may harm your baby.
--  If your male partner is being treated with Lorviqua, he must use a condom during treatment and for at least 14 weeks after completing therapy.
--  If you become pregnant when taking the medicine or during the 5 weeks after taking your last dose, tell your doctor straight away.
+- Do not take Lorviqua if you are pregnant. This is because it may harm your baby.
+- If your male partner is being treated with Lorviqua, he must use a condom during treatment and for at least 14 weeks after completing therapy.
+- If you become pregnant when taking the medicine or during the 5 weeks after taking your last dose, tell your doctor straight away.
 
 ## -Breast-feeding
 
@@ -1205,7 +1225,7 @@ If you have been told by your doctor that you have an intolerance to some sugars
 
 ## Lorviqua contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per 25 mg or 100 mg tablet, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per 25 mg or 100 mg tablet, that is to say essentially 'sodium -free'.
 
 ## 3. How to take Lorviqua
 
@@ -1225,14 +1245,14 @@ If you vomit after taking a dose of Lorviqua, do not take an extra dose, just ta
 
 If you accidentally take too many tablets, tell your doctor, pharmacist or nurse right away. You may require medical attention.
 
-<div style=\"page-break-after: always\"></div>
-
 ## If you forget to take Lorviqua
 
 What to do if you forget to take a tablet depends on how long it is until your next dose.
 
 - -If your next dose is in 4 hours or more, take the missed tablet as soon as you remember. Then take the next tablet at the usual time.
 - -If your next dose is in less than 4 hours away, skip the missed tablet. Then take the next tablet at the usual time.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not take a double dose to make up for a forgotten dose.
 
@@ -1255,7 +1275,7 @@ Tell your doctor straight away if you notice any of the following side effects (
 - -abdominal (belly) pain, back pain, nausea, vomiting, itching or yellowing of the skin and eyes
 - -mental status changes; changes in cognition including confusion, memory loss, reduced ability to concentrate; changes in mood including irritability and mood swings; changes in speech including difficulty speaking, such as slurred or slow speech; or loss of contact with reality, such as believing, seeing or hearing things that are not real
 
-Other side effects of Lorviqua may include:
+## Other side effects of Lorviqua may include:
 
 Very common: may affect more than 1 in 10 people
 
@@ -1274,16 +1294,18 @@ Very common: may affect more than 1 in 10 people
 - -muscle pain
 - -increase in blood pressure
 
-<div style=\"page-break-after: always\"></div>
-
-Common: may affect up to 1 in 10 people
+## Common: may affect up to 1 in 10 people
 
 - -increase in blood sugar
 - -excess protein in the urine
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting
+
+<div style=\"page-break-after: always\"></div>
+
+system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Lorviqua
 
@@ -1301,12 +1323,13 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Lorviqua contains
 
-- -
-- The active substance is lorlatinib. Lorviqua 25 mg: each film-coated tablet (tablet) contains 25 mg lorlatinib. Lorviqua 100 mg: each film-coated tablet (tablet) contains 100 mg lorlatinib.
-- -
-- The other ingredients are: Tablet core: microcrystalline cellulose, calcium hydrogen phosphate, sodium starch glycolate,
+- -The active substance is lorlatinib.
 
-magnesium stearate.
+Lorviqua 25 mg: each film-coated tablet (tablet) contains 25 mg lorlatinib. Lorviqua 100 mg: each film-coated tablet (tablet) contains 100 mg lorlatinib.
+
+- -The other ingredients are:
+
+Tablet core: microcrystalline cellulose, calcium hydrogen phosphate, sodium starch glycolate, magnesium stearate.
 
 Film-coating: Hypromellose, lactose monohydrate, macrogol, triacetin, titanium dioxide (E171), iron oxide black (E172), and iron oxide red (E172).
 
@@ -1314,17 +1337,15 @@ See Lorviqua contains lactose and Lorviqua contains sodium in section 2.
 
 ## What Lorviqua looks like and contents of the pack
 
-Lorviqua 25 mg is supplied as round light pink film-coated tablets, debossed with 'Pfizer' on one side and '25' and 'LLN' on the other side.
+Lorviqua 25 mg is supplied as round light pink filmcoated tablets, debossed with 'Pfizer' on one side and '25' and 'LLN' on the other side.
 
 Lorviqua 25 mg is provided in blisters of 10 tablets, which are available in packs containing 90 tablets (9 blisters).
 
-Lorviqua 100 mg is supplied as oval dark pink film-coated tablets, debossed with 'Pfizer' on one side and 'LLN 100' on the other side.
+Lorviqua 100 mg is supplied as oval dark pink filmcoated tablets, debossed with 'Pfizer' on one side and 'LLN 100' on the other side.
 
 Lorviqua 100 mg is provided in blisters of 10 tablets, which are available in packs containing 30 tablets (3 blisters).
 
 Not all pack sizes may be marketed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -1332,7 +1353,11 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## Manufacturer
 
-Pfizer Manufacturing Deutschland GmbH Mooswaldallee 1 79108 Freiburg Im Breisgau Germany
+Pfizer Manufacturing Deutschland GmbH Mooswaldallee 1 79108 Freiburg Im Breisgau
+
+<div style=\"page-break-after: always\"></div>
+
+## Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1360,21 +1385,15 @@ Tlf.: +45 44 20 11 00
 
 ## Deutschland
 
-PFIZER PHARMA GmbH
-
-Tel: +49 (0)30 550055-51000
+PFIZER PHARMA GmbH Tel: +49 (0)30 550055-51000
 
 ## Eesti
 
-Pfizer Luxembourg SARL Eesti filiaal
-
-Tel: +372 666 7500
+Pfizer Luxembourg SARL Eesti filiaal Tel: +372 666 7500
 
 ## Ελλάδα
 
-Pfizer Ελλάς A.E.
-
-Τηλ: +30 210 6785800
+Pfizer Ελλάς A.E. Τηλ: +30 210 6785800
 
 ## España
 
@@ -1390,13 +1409,23 @@ Tél: +33 (0)1 58 07 34 40
 
 ## Hrvatska
 
-Pfizer Croatia d.o.o.
+Pfizer Croatia d.o.o. Tel: +385 1 3908 777
 
-Tel: +385 1 3908 777
+## Ireland
+
+Pfizer Healthcare Ireland Unlimited Company Tel: +1800 633 363 (toll free) Tel: +44 (0)1304 616161
+
+## Ísland
+
+Icepharma hf.
+
+Sími: +354 540 8000
 
 ## Latvija
 
-Pfizer Luxembourg SARL filiāle Latvijā Tel: +371 670 35 775
+Pfizer Luxembourg SARL filiāle Latvijā
+
+Tel: +371 670 35 775
 
 ## Lietuva
 
@@ -1422,21 +1451,15 @@ Tel: +31 (0)800 63 34 636
 
 ## Norge
 
-Pfizer AS
-
-Tlf: +47 67 52 61 00
+Pfizer AS Tlf: +47 67 52 61 00
 
 ## Österreich
 
-Pfizer Corporation Austria Ges.m.b.H.
-
-Tel: +43 (0)1 521 15-0
+Pfizer Corporation Austria Ges.m.b.H. Tel: +43 (0)1 521 15-0
 
 ## Polska
 
-Pfizer Polska Sp. z o.o.
-
-Tel.: +48 22 335 61 00
+Pfizer Polska Sp. z o.o. Tel.: +48 22 335 61 00
 
 ## Portugal
 
@@ -1446,29 +1469,11 @@ Tel: +351 21 423 5500
 
 ## România
 
-Pfizer Romania S.R.L.
-
-Tel: +40 (0) 21 207 28 00
-
-<div style=\"page-break-after: always\"></div>
-
-## Ireland
+Pfizer Romania S.R.L. Tel: +40 (0) 21 207 28 00
 
 ## Slovenija
 
-Pfizer Healthcare Ireland Unlimited Company
-
-Tel: +1800 633 363 (toll free)
-
-Tel: +44 (0)1304 616161
-
 Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: +386 (0)1 52 11 400
-
-## Ísland
-
-Icepharma hf.
-
-Sími: +354 540 8000
 
 ## Slovenská republika
 
@@ -1486,17 +1491,23 @@ Pfizer Oy
 
 Puh/Tel: +358 (0)9 430 040
 
-## Kύπρος
+## K ύπρος
 
-Pfizer Ελλάς Α.Ε. (Cyprus Branch)
+Pfizer
 
-Τηλ: +357 22817690
+Ελλάς Α . Ε . (Cyprus Branch)
 
-## Sverige
+Τηλ
+
+: +357 22817690
+
+Sverige
 
 Pfizer AB
 
 Tel: +46 (0)8 550 520 00
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in { MM/YYYY }.
 

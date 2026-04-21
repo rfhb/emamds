@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-04-10 08:38:12
+document_datetime: 2026-04-20 10:30:14
 document_pages: 229
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/dupixent-epar-product-information_en.pdf
 document_name: dupixent-epar-product-information_en.pdf
 version: success
-processing_time: 116.2722098
-conversion_datetime: 2026-04-13 13:47:44.441536
+processing_time: 106.9036016
+conversion_datetime: 2026-04-21 14:53:34.840422
 docling_version:
   docling-serve: 1.16.1
-  docling-jobkit: 1.16.0
-  docling: 2.87.0
-  docling-core: 2.73.0
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
   docling-ibm-models: 3.13.0
-  docling-parse: 5.8.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
@@ -54,7 +54,7 @@ Clear to slightly opalescent, colourless to pale yellow sterile solution, which 
 
 ## 4.1 Therapeutic indications
 
-## Atopic dermatitis
+Atopic dermatitis
 
 ## Adults and adolescents
 
@@ -229,6 +229,8 @@ Table 6: Dose of dupilumab for subcutaneous administration in children and adole
 | 15 to less than 30 kg | 300 mg (one 300 mg injection) on Day 1, followed by 300 mg on Day 15 | 300 mg every four weeks (Q4W), starting 4 weeks after Day 15 dose |
 | 30 to less than 60 kg | 400 mg (two 200 mg injections)                                       | 200 mg every other week (Q2W)                                     |
 | 60 kg or more         | 600 mg (two 300 mg injections)                                       | 300 mg every other week (Q2W)                                     |
+
+*For patients weighing 5 to less than 15 kg the recommended dose is 200 mg every 4 weeks (Q4W). Children 2 to 5 years of age
 
 The recommended dose of dupilumab for children 2 to 5 years of age is specified in Table 7.
 
@@ -615,7 +617,7 @@ In all three pivotal studies, the co-primary endpoints were the proportion of pa
 
 In the monotherapy studies (SOLO 1 and SOLO 2), across all treatment groups, the mean age was 38.3, the mean weight was 76.9 kg, 42.1 % were female, 68.1 % were white, 21.8 % were Asian, and 6.8 % were black. In these studies, 51.6 % of patients had a baseline IGA score of 3 (moderate AD), 48.3 % of patients had a baseline IGA of 4 (severe AD) and 32.4 % of patients had received prior systemic immunosuppressants. The baseline mean EASI score was 33.0, the baseline weekly averaged pruritus Numerical Rating Scale (NRS) was 7.4, the baseline mean POEM score was 20.5, the baseline mean DLQI was 15.0, and the baseline mean HADS total score was 13.3.
 
-In the concomitant TCS study (CHRONOS), across all treatment groups, the mean age was 37.1, the mean weight was 74.5 kg, 39.7 % were female, 66.2 % were white, 27.2 % were Asian, and 4.6 % were black. In this study, 53.1 % of patients had a baseline IGA score of 3 and 46.9 % of patients had a baseline IGA of 4 and 33.6 % of patients received prior systemic immunosuppressants. The baseline mean EASI score was 32.5, the baseline weekly pruritus NRS was 7.3,   the baseline mean POEM score was 20.1, the baseline mean DLQI was 14.5, and the baseline mean HADS total score was 12.7.
+In the concomitant TCS study (CHRONOS), across all treatment groups, the mean age was 37.1, the mean weight was 74.5 kg, 39.7 % were female, 66.2 % were white, 27.2 % were Asian, and 4.6 % were black. In this study, 53.1 % of patients had a baseline IGA score of 3 and 46.9 % of patients had a baseline IGA of 4 and 33.6 % of patients received prior systemic immunosuppressants. The baseline mean EASI score was 32.5, the baseline weekly pruritus NRS was 7.3, the baseline mean POEM score was 20.1, the baseline mean DLQI was 14.5, and the baseline mean HADS total score was 12.7.
 
 ## Clinical Response
 
@@ -635,7 +637,7 @@ Table 9: Efficacy results of dupilumab monotherapy at week 16 (FAS) and with con
 
 |                                                            | SOLO 1 Week 16 (FAS) b   | SOLO 1 Week 16 (FAS) b   | SOLO 2 Week 16 (FAS) b   | SOLO 2 Week 16 (FAS) b   | CHRONOS Week 16 (FAS) h   | CHRONOS Week 16 (FAS) h   | CHRONOS Week 52 (FAS Week 52) h   | CHRONOS Week 52 (FAS Week 52) h   |
 |------------------------------------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|---------------------------|---------------------------|-----------------------------------|-----------------------------------|
-|                                                            | Placebo                  | Dupilumab 300 mg Q2W     | Placebo                  | Dupilumab 300 mg Q2W     | Placebo + TCS             | Dupilumab 300 mg Q2 W+TCS | Placebo + TCS                     | Dupilumab 300 mg Q2W + TCS        |
+|                                                            | Placebo                  | Dupilumab 300 mg Q2W     | Placebo                  | Dupilumab 300 mg Q2W     | Placebo + TCS             | Dupilumab 300 mg Q2 W+TCS | Placebo + TCS                     | Dupilumab 300mgQ2W + TCS          |
 | Patients randomised                                        | 224                      | 224                      | 236                      | 233                      | 315                       | 106                       | 264                               | 89                                |
 | IGA 0 or 1 c , %responders d                               | 10.3%                    | 37.9% g                  | 8.5%                     | 36.1% g                  | 12.4%                     | 38.7% g                   | 12.5%                             | 36.0% g                           |
 | EASI-50, %responders d                                     | 24.6%                    | 68.8% g                  | 22.0%                    | 65.2% g                  | 37.5%                     | 80.2% j                   | 29.9%                             | 78.7% j                           |
@@ -643,6 +645,18 @@ Table 9: Efficacy results of dupilumab monotherapy at week 16 (FAS) and with con
 | EASI-90, %responders d                                     | 7.6%                     | 35.7% g                  | 7.2%                     | 30.0% g                  | 11.1%                     | 39.6% j                   | 15.5%                             | 50.6% j                           |
 | Pruritus NRS, LS mean% change from baseline (+/- SE)       | -26.1% (3.02)            | -51.0% g (2.50)          | -15.4% (2.98)            | -44.3% g (2.28)          | -30.3% (2.36)             | -56.6% g (3.95)           | -31.7% (3.95)                     | -57.0% i (6.17)                   |
 | Pruritus NRS ( ≥ 4-point improvement),% responders d, e, f | 12.3% (26/212)           | 40.8% g (87/213)         | 9.5% (21/221)            | 36.0% g (81/225)         | 19.7% (59/299)            | 58.8% g (60/102)          | 12.9% (32/249)                    | 51.2% g (44/86)                   |
+
+a all patients were on background topical corticosteroids therapy and patients were permitted to use topical calcineurin inhibitors.
+
+b full analysis set (FAS) includes all patients randomised.
+
+c r esponder was defined as a patient with IGA 0 or 1 ('clear' or 'almost clear') with a reduction of &gt; 2 points on a 0-4 IGA scale.
+
+d patients who received rescue treatment or with missing data were considered as non-responders.
+
+e t he number of patients with baseline pruritus NRS ≥ 4 as denominator.
+
+f a significantly greater proportion of patients on dupilumab had improvement in pruritus NRS of ≥ 4 points compared to placebo at week 2 (p &lt; 0.01).
 
 g p-value &lt; 0.0001, statistically significant vs placebo with adjustment for multiplicity.
 
@@ -660,11 +674,17 @@ Figure 2a and Figure 2b show the mean percent change from baseline in EASI and t
 
 <div style=\"page-break-after: always\"></div>
 
--10-
+1 gul
+
+-10- ine
 
 -10
 
 -10
+
+aseli ml
+
+fro
 
 LS Mean % Change from Baseline
 
@@ -674,7 +694,7 @@ LS Mean % Change from Baseline
 
 -20-
 
-.30-
+-30 -
 
 -30
 
@@ -684,55 +704,63 @@ LS Mean % Change from Baseline
 
 -50-
 
--50
-
-5 -50 -
-
 .60 -
 
--60 -
+· -60
 
 -70 -
 
-1 -60
+·-60 -
 
--70
+93-70
 
-9 -70
+93-70
 
-.80-
-
--80
-
--90 -
+-80-
 
 -80
 
-IN·N
+-80
+
+-90-
+
+INo N
 
 2
 
+2
+
+4
+
+4
+
+SOLO 1
+
+- Dupixent 300 mg Q2W primary analysis (N=224)
+
 8
 
-4
-
-4
-
-4
+8
 
 6
 
+10
+
+Weeks
+
+Weeks
+
 6
 
-8
+12
 
-1 IN
+16
 
-#R890070002-15%
+20
 
-·
+#R890070000-15%
 
-· -26.1%
+·- -26.1%
 
 Figure 1: Mean percent change from baseline in EASI (Fig 1a) and in NRS (Fig 1b) in SOLO 1 a and SOLO 2 a  (FAS) b
 
@@ -740,33 +768,17 @@ Figure 1a. SOLO 1 and SOLO 2 EASI
 
 12
 
-12
-
-Weeks
-
-Weeks
-
-16
-
-20
+24
 
 SOLO 1
 
-· Dupilumab 300 mg Q2W + TCS, primary analysis (N=89)
-
-SOLO 1
+- Placebo, primary analysis (N=224)
 
 - Dupixent 300 mg Q2W primary analysis (N=224)
 
--a Dupixent 300 mg Q2W primary analysis (N
+· Dupilumab 300 mg Q2W + TCS, primary analysis (N=89)
 
-8
-
-24
-
--O Dupixent 300 mg Q2W primary analysis (N=23
-
-· Placebo + TCS, primary analysis (N=264)
+* Placebo + TCS, primary analysis (N=264)
 
 SOLO 2
 
@@ -776,11 +788,13 @@ SOLO 2
 
 -O Dupixent 300 mg Q2W primary analysis (N=233)
 
--· Placebo, primary analysis (N=236)
-
 <!-- image -->
 
-- Placebo, primary analysis (N=236)
+-O Dupixent 300 mg Q2W primary analysis (N=233)
+
+-· Placebo, primary analysis (N=236)
+
+-· Placebo, primary analysis (N=236)
 
 LS = least squares
 
@@ -796,11 +810,17 @@ Figure 2b. CHRONOS NRS
 
 <!-- image -->
 
+LS = least squares
+
+a In the primary analyses of the efficacy endpoints, patients who received rescue treatment or with missing data were considered non-responders.
+
+b FAS week 52 includes all patients randomised at least one year before the cutoff date of the primary analysis.
+
 Treatment effects in subgroups (weight, age, gender, race, and background treatment, including immunosuppressants) in SOLO 1, SOLO 2, and CHRONOS were consistent with the results in the overall study population within each of these studies.
 
 Figure 1b. SOLO 1 and SOLO 2 NRS
 
--10·
+-10-
 
 -20
 
@@ -816,14 +836,14 @@ Primary endpoint (proportion of patients with EASI-75) and secondary endpoints f
 
 Table 10: Results of the primary and secondary endpoints in CAFE study
 
-|                                                      | Placebo + TCS   | Dupilumab 300 mg Q2W + TCS   | Dupilumab 300 mg QW+TCS   |
-|------------------------------------------------------|-----------------|------------------------------|---------------------------|
-| Patients randomised                                  | 108             | 107                          | 110                       |
-| EASI-75, %responders                                 | 29.6%           | 62.6%                        | 59.1%                     |
-| EASI, LS mean %change from baseline (+/- SE)         | -46.6 (2.76)    | -79.8 (2.59)                 | -78.2 (2.55)              |
-| Pruritus NRS, LS mean %change from baseline (+/- SE) | -25.4% (3.39)   | -53.9% (3.14)                | -51.7% (3.09)             |
-| DLQI, LS mean change from baseline                   | -4.5            | -9.5                         | -8.8                      |
-| (SE)                                                 | (0.49)          | (0.46)                       | (0.45)                    |
+|                                                      | Placebo + TCS   | Dupilumab 300mgQ2W + TCS   | Dupilumab 300 mg QW+TCS   |
+|------------------------------------------------------|-----------------|----------------------------|---------------------------|
+| Patients randomised                                  | 108             | 107                        | 110                       |
+| EASI-75, %responders                                 | 29.6%           | 62.6%                      | 59.1%                     |
+| EASI, LS mean %change from baseline (+/- SE)         | -46.6 (2.76)    | -79.8 (2.59)               | -78.2 (2.55)              |
+| Pruritus NRS, LS mean %change from baseline (+/- SE) | -25.4% (3.39)   | -53.9% (3.14)              | -51.7% (3.09)             |
+| DLQI, LS mean change from baseline                   | -4.5            | -9.5                       | -8.8                      |
+| (SE)                                                 | (0.49)          | (0.46)                     | (0.45)                    |
 
 (all p-values &lt; 0.0001, statistically significant vs placebo with adjustment for multiplicity.)
 
@@ -868,18 +888,16 @@ Similarly, in the concomitant TCS study (CHRONOS), dupilumab 300 mg Q2W + TCS an
 
 Table 12: Additional secondary endpoint results of dupilumab monotherapy at week 16 and concomitant use of TCS at week 16 and week 52
 
-|                                                                    | SOLO 1 Week 16 (FAS)   | SOLO 1 Week 16 (FAS)   | SOLO 2 Week 16 (FAS)   | SOLO 2 Week 16 (FAS)   | CHRONOS Week 16 (FAS)   | CHRONOS Week 16 (FAS)      | CHRONOS Week 52 (FAS Week 52)   | CHRONOS Week 52 (FAS Week 52)   |
-|--------------------------------------------------------------------|------------------------|------------------------|------------------------|------------------------|-------------------------|----------------------------|---------------------------------|---------------------------------|
-|                                                                    | Placebo                | Dupilumab 300 mg Q2W   | Placebo                | Dupilumab 300 mg Q2W   | Placebo +TCS            | Dupilumab 300 mg Q2W + TCS | Placebo +TCS                    | Dupilumab 300 mg Q2W + TCS      |
-| Patients randomized                                                | 224                    | 224                    | 236                    | 233                    | 315                     | 106                        | 264                             | 89                              |
-| DLQI, LS mean change from baseline (SE)                            | -5.3 (0.50)            | -9.3 a (0.40)          | -3.6 (0.50)            | -9.3 a (0.38)          | -5.8 (0.34)             | -10.0 f (0.50)             | -7.2 (0.40)                     | -11.4 f (0.57)                  |
-| POEM, LS mean change from baseline (SE)                            | -5.1 (0.67)            | -11.6 a (0.49)         | -3.3 (0.55)            | -10.2 a (0.49)         | -5.3 (0.41)             | -12.7 f (0.64)             | -7.0 (0.57)                     | -14.2 f (0.78)                  |
-| HADS, LS mean change from baseline (SE)                            | -3.0 (0.65)            | -5.2 b (0.54)          | -0.8 (0.44)            | -5.1 a (0.39)          | -4.0 (0.37)             | -4.9 c (0.58)              | -3.8 (0.47)                     | -5.5 e (0.71)                   |
-| DLQI ( ≥ 4-point improvement), %responders d                       | 30.5% (65/213)         | 64.1% f (134/209)      | 27.6% (62/225)         | 73.1% f (163/223)      | 43.0% (129/300)         | 74.3% f (231/311)          | 30.3% (77/254)                  | 80.0% f (68/85)                 |
-| POEM ( ≥ 4-point improvement), %responders d                       | 26.9% (60/223)         | 67.6% f (150/222)      | 24.4% (57/234)         | 71.7% f (167/233)      | 36.9% (115/312)         | 77.4% f (246/318)          | 26.1% (68/261)                  | 76.4% f (68/89)                 |
-| Patients achieving HADS-anxiety and HADS- depression score < 8,% d | 12.4% (12/97)          | 41.0% f (41/100)       | 6.1% (7/115)           | 39.5% f (51/129)       | 26.4% (39/148)          | 47.4% g (73/154)           | 18.0% (24/133)                  | 43.4% g (23/53)                 |
-
-LS = least squares; SE = standard error
+|                                                                    | SOLO 1 Week 16 (FAS)   | SOLO 1 Week 16 (FAS)   | SOLO 2 Week 16 (FAS)   | SOLO 2 Week 16 (FAS)   | CHRONOS Week 16 (FAS)   | CHRONOS Week 16 (FAS)    | CHRONOS Week 52 (FAS Week 52)   | CHRONOS Week 52 (FAS Week 52)   |
+|--------------------------------------------------------------------|------------------------|------------------------|------------------------|------------------------|-------------------------|--------------------------|---------------------------------|---------------------------------|
+|                                                                    | Placebo                | Dupilumab 300mgQ2W     | Placebo                | Dupilumab 300mgQ2W     | Placebo +TCS            | Dupilumab 300mgQ2W + TCS | Placebo +TCS                    | Dupilumab 300mgQ2W + TCS        |
+| Patients randomized                                                | 224                    | 224                    | 236                    | 233                    | 315                     | 106                      | 264                             | 89                              |
+| DLQI, LS mean change from baseline (SE)                            | -5.3 (0.50)            | -9.3 a (0.40)          | -3.6 (0.50)            | -9.3 a (0.38)          | -5.8 (0.34)             | -10.0 f (0.50)           | -7.2 (0.40)                     | -11.4 f (0.57)                  |
+| POEM, LS mean change from baseline (SE)                            | -5.1 (0.67)            | -11.6 a (0.49)         | -3.3 (0.55)            | -10.2 a (0.49)         | -5.3 (0.41)             | -12.7 f (0.64)           | -7.0 (0.57)                     | -14.2 f (0.78)                  |
+| HADS, LS mean change from baseline (SE)                            | -3.0 (0.65)            | -5.2 b (0.54)          | -0.8 (0.44)            | -5.1 a (0.39)          | -4.0 (0.37)             | -4.9 c (0.58)            | -3.8 (0.47)                     | -5.5 e (0.71)                   |
+| DLQI ( ≥ 4-point improvement), %responders d                       | 30.5% (65/213)         | 64.1% f (134/209)      | 27.6% (62/225)         | 73.1% f (163/223)      | 43.0% (129/300)         | 74.3% f (231/311)        | 30.3% (77/254)                  | 80.0% f (68/85)                 |
+| POEM ( ≥ 4-point improvement), %responders d                       | 26.9% (60/223)         | 67.6% f (150/222)      | 24.4% (57/234)         | 71.7% f (167/233)      | 36.9% (115/312)         | 77.4% f (246/318)        | 26.1% (68/261)                  | 76.4% f (68/89)                 |
+| Patients achieving HADS-anxiety and HADS- depression score < 8,% d | 12.4% (12/97)          | 41.0% f (41/100)       | 6.1% (7/115)           | 39.5% f (51/129)       | 26.4% (39/148)          | 47.4% g (73/154)         | 18.0% (24/133)                  | 43.4% g (23/53)                 |
 
 a p-value &lt; 0.0001, b p-value &lt; 0.001, c p-value &lt; 0.05 (all statistically significant vs placebo with adjustment for multiplicity.
 
@@ -953,21 +971,21 @@ Table 14 presents the results by baseline weight strata for the approved dose re
 
 Table 14: Efficacy results of dupilumab with concomitant TCS in AD-1652 at week 16 (FAS) a
 
-|                                                      | Dupilumab 300 mg Q4W d + TCS   | Placebo +TCS   | Dupilumab 200 mg Q2W e + TCS   | Placebo + TCS   |
-|------------------------------------------------------|--------------------------------|----------------|--------------------------------|-----------------|
-|                                                      | (N=122)                        | (N=123)        | (N=59)                         | (N=62)          |
-|                                                      | ≥ 15 kg                        | ≥ 15 kg        | ≥ 30 kg                        | ≥ 30 kg         |
-| IGA 0 or 1 b , %responders c                         | 32.8% f                        | 11.4%          | 39.0% h                        | 9.7%            |
-| EASI-50, %responders c                               | 91.0% f                        | 43.1%          | 86.4% g                        | 43.5%           |
-| EASI-75, %responders c                               | 69.7% f                        | 26.8%          | 74.6% g                        | 25.8%           |
-| EASI-90, %responders c                               | 41.8% f                        | 7.3%           | 35.6% h                        | 8.1%            |
-| EASI, LS mean %change from baseline (+/-SE)          | -82.1% f (2.37)                | -48.6% (2.46)  | -80.4% g (3.61)                | -48.3% (3.63)   |
-| Pruritus NRS, LS mean %change from baseline (+/- SE) | -54.6% f (2.89)                | -25.9% (2.90)  | -58.2% g (4.01)                | -25.0% (3.95)   |
-| Pruritus NRS (≥4 -point improvement), %responders c  | 50.8% f                        | 12.3%          | 61.4% g                        | 12.9%           |
-| CDLQI, LS mean change from baseline (+/-SE)          | -10.6 f (0.47)                 | -6.4 (0.51)    | -9.8 g (0.63)                  | -5.6 (0.66)     |
-| CDLQI, (≥ 6-point improvement),% responders          | 77.3% g                        | 38.8%          | 80.8% g                        | 35.8%           |
-| POEM, LS mean change from baseline (+/- SE)          | -13.6 f (0.65)                 | -5.3 (0.69)    | -13.6 g (0.90)                 | -4.7 (0.91)     |
-| POEM, (≥ 6-point improvement),% responders           | 81.7% g                        | 32.0%          | 79.3% g                        | 31.1%           |
+|                                                      | Dupilumab 300mgQ4W d + TCS   | Placebo +TCS   | Dupilumab 200mgQ2W e + TCS   | Placebo + TCS   |
+|------------------------------------------------------|------------------------------|----------------|------------------------------|-----------------|
+|                                                      | (N=122)                      | (N=123)        | (N=59)                       | (N=62)          |
+|                                                      | ≥ 15 kg                      | ≥ 15 kg        | ≥ 30 kg                      | ≥ 30 kg         |
+| IGA 0 or 1 b , %responders c                         | 32.8% f                      | 11.4%          | 39.0% h                      | 9.7%            |
+| EASI-50, %responders c                               | 91.0% f                      | 43.1%          | 86.4% g                      | 43.5%           |
+| EASI-75, %responders c                               | 69.7% f                      | 26.8%          | 74.6% g                      | 25.8%           |
+| EASI-90, %responders c                               | 41.8% f                      | 7.3%           | 35.6% h                      | 8.1%            |
+| EASI, LS mean %change from baseline (+/-SE)          | -82.1% f (2.37)              | -48.6% (2.46)  | -80.4% g (3.61)              | -48.3% (3.63)   |
+| Pruritus NRS, LS mean %change from baseline (+/- SE) | -54.6% f (2.89)              | -25.9% (2.90)  | -58.2% g (4.01)              | -25.0% (3.95)   |
+| Pruritus NRS (≥4 -point improvement), %responders c  | 50.8% f                      | 12.3%          | 61.4% g                      | 12.9%           |
+| CDLQI, LS mean change from baseline (+/-SE)          | -10.6 f (0.47)               | -6.4 (0.51)    | -9.8 g (0.63)                | -5.6 (0.66)     |
+| CDLQI, (≥ 6-point improvement),% responders          | 77.3% g                      | 38.8%          | 80.8% g                      | 35.8%           |
+| POEM, LS mean change from baseline (+/- SE)          | -13.6 f (0.65)               | -5.3 (0.69)    | -13.6 g (0.90)               | -4.7 (0.91)     |
+| POEM, (≥ 6-point improvement),% responders           | 81.7% g                      | 32.0%          | 79.3% g                      | 31.1%           |
 
 a full Analysis Set (FAS) includes all patients randomised.
 
@@ -1102,9 +1120,9 @@ Table 16: Demographics and baseline characteristics of asthma trials
 | Mean baseline Eosinophil count (± SD) cells/mcL     | 350 (430)              | 360 (370)               | 350 (310)              |
 | %patients with EOS ≥ 150 cells/mcL ≥ 300 cells/mcL  | 77.8 41.9              | 71.4 43.7               | 71.4 42.4              |
 
-ICS = inhaled corticosteroid; FEV1 = Forced expiratory volume in 1 second; ACQ-5 = Asthma Control Questionnaire-5; AQLQ = Asthma Quality of Life Questionnaire; AD = atopic dermatitis; NP = nasal polyposis;
+ICS = inhaled corticosteroid; FEV1 = Forced expiratory volume in 1 second; ACQ-5 = Asthma Control
 
-AR = allergic rhinitis; FeNO = fraction of exhaled nitric oxide; EOS = blood eosinophil a the population in dupilumab asthma trials included patients on medium and high dose ICS. The medium ICS dose was defined as equal to 500 mcg fluticasone or equivalent per day.
+Questionnaire-5; AQLQ = Asthma Quality of Life Questionnaire; AD = atopic dermatitis; NP = nasal polyposis; AR = allergic rhinitis; FeNO = fraction of exhaled nitric oxide; EOS = blood eosinophil a the population in dupilumab asthma trials included patients on medium and high dose ICS. The medium ICS dose was defined as equal to 500 mcg fluticasone or equivalent per day.
 
 ## Exacerbations
 
@@ -1132,8 +1150,6 @@ Table 17: Rate of severe exacerbations in DRI12544 and QUEST ( baseline blood eo
 
 0.6
 
-·- DUPIXENT 200 mg O2W (N=437)
-
 0.5
 
 0.4
@@ -1144,15 +1160,19 @@ Table 17: Rate of severe exacerbations in DRI12544 and QUEST ( baseline blood eo
 
 0.1
 
-0.00-
+0.00
+
+-D- DUPIXENT 200 mg Q2W (N=437)
 
 Placebo 300 mg QZW (N=237)
 
 5. Placebo 200 mg 02W (N-232)
 
-8
+4
 
-0.6
++2048L
+
+0.6 г
 
 0.5
 
@@ -1164,9 +1184,11 @@ Placebo 300 mg QZW (N=237)
 | Dupilumab 300 mg Q2W   |   452 | 0.43 (0.36, 0.53)   | 0.40 e (0.31,0.53)   | 60%   |   277 | 0.40 (0.32, 0.51)   | 0.33 e (0.23,0.45)   | 67%   |
 | Placebo                |   237 | 1.08 (0.88, 1.33)   |                      |       |   142 | 1.24 (0.97, 1.57)   |                      |       |
 
+8
+
 12 16
 
-a p-value = 0.0003,  b p-value = 0.0001,  c p-value = 0.0116, d p-value = 0.0024,  e p-value &lt; 0.0001 (all statistically significant vs placebo with adjustment for multiplicity); f nominal p-value &lt; 0.0001
+a p-value = 0.0003, b p-value = 0.0001, c p-value = 0.0116, d p-value = 0.0024, e p-value &lt; 0.0001 (all statistically significant vs placebo with adjustment for multiplicity); f nominal p-value &lt; 0.0001
 
 Table 18 . Rate of severe exacerbations in QUEST defined by baseline FeNO subgroups
 
@@ -1208,27 +1230,27 @@ LS Mean Change +/- SE(U
 
 ≥ 300 cells/mcL
 
-DUPIXENT 300 mg C2W (N=277)
+DUPIXENT 300 mg O2W (N=277)
 
--D. DUPIXENT 200 mg O2W (N=264)
+-O- DUPIXENT 200 mg O2W (N=264)
 
-Placebo 300 mg OZW (N=142)
+Placebo 300 mg QZW (N=142)
 
--O- Placebo 200 mg Q2W (N=148)
+-O- Placebo 200 mg QZW (N=148)
 
--0 048 l
+но-
 
-€ 0.47 L
+·
 
-* DUPIXENT 300 mg Q2W (N=310)
+DUPIXENT 300 mg Q2W (N=310)
 
--D· DUPIXENT 200 mg O2W (N=299)
+-D· DUPIXENT 200 mg Q2W (N=299)
 
-Placebo 300 mg Q2W (N=172)
+-e Placebo 300 mg ©2W (N=172)
 
 -O- Placebo 200 mg Q2W (N=162)
 
-0.49L
+- Q 0.49 L
 
 · 0.45 L
 
@@ -1250,7 +1272,7 @@ Table 19: Mean change from baseline in pre-bronchodilator FEV1 at week 12 in DRI
 | Dupilumab 300 mg Q2W | 452                  | 0.37 (25.3)                   | 0.15 e (0.09, 0.21)                     | 277                  | 0.47 (32.5)                   | 0.24 e (0.16, 0.32)                     |
 | Placebo              | 237                  | 0.22 (14.2)                   |                                         | 142                  | 0.22 (14.4)                   |                                         |
 
-a p-value &lt; 0.0001,  b p-value = 0.0004,  c p-value = 0.0008, d p-value = 0.0063,  e p-value &lt; 0.0001 (all statistically significant vs placebo with adjustment for multiplicity); f nominal p-value &lt; 0.0001
+a p-value &lt; 0.0001, b p-value = 0.0004, c p-value = 0.0008, d p-value = 0.0063, e p-value &lt; 0.0001 (all statistically significant vs placebo with adjustment for multiplicity); f nominal p-value &lt; 0.0001
 
 Table 20: Mean change from baseline in pre-bronchodilator FEV1 at week 12 and week 52 in QUEST by baseline FeNO subgroups
 
@@ -1289,8 +1311,8 @@ Table 21: ACQ-5 and AQLQ(S) responder rates at week 52 in QUEST
 |---------|----------------------|-------|--------|-------|--------|-------|--------|
 | AQLQ(S) | Dupilumab 200 mg Q2W |   395 |   66.6 |   239 |   71.1 |   262 |   67.6 |
 | AQLQ(S) | Placebo              |   201 |   53.2 |   124 |   54.8 |   141 |   54.6 |
-| AQLQ(S) | Dupilumab 300 mg Q2W |   408 |   62   |   248 |   64.5 |   277 |   65.3 |
-| AQLQ(S) | Placebo              |   217 |   53.9 |   129 |   55   |   159 |   58.5 |
+| AQLQ(S) | Dupilumab 300 mg Q2W |   408 |   62.0 |   248 |   64.5 |   277 |   65.3 |
+| AQLQ(S) | Placebo              |   217 |   53.9 |   129 |   55.0 |   159 |   58.5 |
 
 Oral corticosteroid reduction study (VENTURE)
 
@@ -1304,12 +1326,12 @@ Table 22: Effect of dupilumab on OCS dose reduction, VENTURE (baseline blood eos
 
 |                                                                          | Baseline blood EOS ≥ 150 cells/mcL     | Baseline blood EOS ≥ 150 cells/mcL     | Baseline blood EOS ≥ 300 cells/mcL     | Baseline blood EOS ≥ 300 cells/mcL     | FeNO ≥ 25 ppb                          | FeNO ≥ 25 ppb                          |
 |--------------------------------------------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
-|                                                                          | Dupilumab 300 mg Q2W N=81              | Placebo N=69                           | Dupilumab 300 mg Q2W N=48              | Placebo N=41                           | Dupilumab 300 mg Q2W N=57              | Placebo N=57                           |
+|                                                                          | Dupilumab 300mgQ2W N=81                | Placebo N=69                           | Dupilumab 300mgQ2W N=48                | Placebo N=41                           | Dupilumab 300mgQ2W N=57                | Placebo N=57                           |
 | Primary endpoint (week 24)                                               | Primary endpoint (week 24)             | Primary endpoint (week 24)             | Primary endpoint (week 24)             | Primary endpoint (week 24)             | Primary endpoint (week 24)             | Primary endpoint (week 24)             |
 | Percent reduction in OCS from baseline                                   | Percent reduction in OCS from baseline | Percent reduction in OCS from baseline | Percent reduction in OCS from baseline | Percent reduction in OCS from baseline | Percent reduction in OCS from baseline | Percent reduction in OCS from baseline |
-| Mean overall percent reduction from baseline (%) Difference (% [95% CI]) | 75.91 29.39 b (15.67, 43.12)           | 46.51                                  | 79.54 36.83 b (18.94, 54.71)           | 42.71                                  | 77.46 34.53 b                          | 42.93                                  |
-| (Dupilumab vs. placebo)                                                  |                                        |                                        |                                        |                                        | (19.08, 49.97)                         |                                        |
-| Median %reduction in daily OCS dose from baseline                        | 100                                    | 50                                     | 100                                    | 50                                     | 100                                    | 50                                     |
+| Mean overall percent reduction from baseline (%) Difference (% [95% CI]) | 75.91 29.39 b (15.67, 43.12)           | 46.51                                  | 79.54 36.83 b (18.94, 54.71)           | 42.71                                  | 77.46 34.53 b (19.08,                  | 42.93                                  |
+| (Dupilumab vs. placebo)                                                  |                                        |                                        |                                        |                                        | 49.97)                                 |                                        |
+| Median %reduction in daily                                               | 100                                    | 50                                     | 100                                    | 50                                     | 100                                    | 50                                     |
 | Percent reduction from baseline                                          | Percent reduction from baseline        | Percent reduction from baseline        | Percent reduction from baseline        | Percent reduction from baseline        | Percent reduction from baseline        | Percent reduction from baseline        |
 | 100%%                                                                    | 54.3                                   | 33.3                                   | 60.4                                   | 31.7                                   | 52.6                                   | 28.1                                   |
 | ≥ 90%                                                                    | 58.0                                   | 34.8                                   | 66.7                                   | 34.1                                   | 54.4                                   | 29.8                                   |
@@ -1402,9 +1424,9 @@ Table 24: Rate of severe exacerbations, mean change from baseline in FEV1, ACQ-7
 | Dupilumab 100 mg Q2W (<30 kg)/ 200 mg Q2W                            | 236                                                                  | 79.2                                                                 | 1.82 g (1.02, 3.24)                                                  | 175                                                                  | 80.6                                                                 | 2.79 f (1.43, 5.44)                                                  | 141                                                                  | 80.9                                                                 | 2.60 g (1.21, 5.59)                                                  |
 | (≥30 kg) Placebo                                                     | 114                                                                  | 69.3                                                                 |                                                                      | 84                                                                   | 64.3                                                                 |                                                                      | 62                                                                   | 66.1                                                                 |                                                                      |
 | PAQLQ(S)-IA at week 24 a                                             | PAQLQ(S)-IA at week 24 a                                             | PAQLQ(S)-IA at week 24 a                                             | PAQLQ(S)-IA at week 24 a                                             | PAQLQ(S)-IA at week 24 a                                             | PAQLQ(S)-IA at week 24 a                                             | PAQLQ(S)-IA at week 24 a                                             | PAQLQ(S)-IA at week 24 a                                             | PAQLQ(S)-IA at week 24 a                                             | PAQLQ(S)-IA at week 24 a                                             |
-|                                                                      | N                                                                    | Responder rate%                                                      | OR vs. placebo (95% CI)                                              | N                                                                    | Responder rate%                                                      | OR vs. placebo (95% CI)                                              | N                                                                    | Responder rate%                                                      | OR vs. placebo (95% CI)                                              |
+|                                                                      | N                                                                    | Responder rate%                                                      | OR vs. placebo (95% CI)                                              | N                                                                    | Responder rate%                                                      | ORvs. placebo (95% CI)                                               | N                                                                    | Responder rate%                                                      | ORvs. placebo (95% CI)                                               |
 | Dupilumab 100 mg Q2W (<30 kg)/ 200 mg Q2W                            | 211                                                                  | 73.0                                                                 | 1.57 (0.87, 2.84)                                                    | 158                                                                  | 72.8                                                                 | 1.84 (0.92, 3.65)                                                    | 131                                                                  | 75.6                                                                 | 2.09 (0.95, 4.61)                                                    |
-| (≥30 kg) Placebo                                                     | 107                                                                  | 65.4                                                                 |                                                                      | 81                                                                   | 63.0                                                                 |                                                                      | 61                                                                   | 67.2                                                                 |                                                                      |
+| Placebo                                                              | 107                                                                  | 65.4                                                                 |                                                                      | 81                                                                   | 63.0                                                                 |                                                                      | 61                                                                   | 67.2                                                                 |                                                                      |
 
 a the responder rate was defined as an improvement in score of 0.5 or more (scale range 0-6 for ACQ-7-IA and 1-7 for PAQLQ(S)) b p-value &lt; 0.0001;  c p-value &lt; 0.001, d p-value &lt; 0.01 (all statistically significant vs placebo with adjustment for multiplicity); e nominal p-value &lt; 0.0001,  f nominal p-value &lt; 0.01,  g nominal p-value &lt; 0.05
 
@@ -1414,7 +1436,7 @@ cells/mcL or FeNO ≥ 20 ppb
 
 16
 
-· dupilumab (N=236)
+* dupilumab (N=236)
 
 - Placebo (N=114)
 
@@ -1434,17 +1456,7 @@ LS Mean Change ppFEV1 +/-
 
 2
 
-HNHHH101215
-
-16
-
-y 14
-
-· 12
-
-ppFEV1
-
-10
+H++1701215
 
 16
 
@@ -1454,7 +1466,9 @@ ppFEV1
 
 10
 
-Significant improvements in percent predicted FEV1 were observed as early as week 2 and were maintained through week 52 in VOYAGE study. 8
+8
+
+Significant improvements in percent predicted FEV1 were observed as early as week 2 and were maintained through week 52 in VOYAGE study.
 
 4
 
@@ -1486,11 +1500,19 @@ The chronic rhinosinusitis with nasal polyposis (CRSwNP) development program inc
 
 dupilumab (N=175)
 
-* Placebo (N-84)
+-e Placebo (N-84)
+
+16
+
+у 14
+
+· 12
+
+10
 
 FeNO ≥ 20 ppb
 
-* dupilumab (N=141)|
+· dupilumab (N=141)
 
 -e Placebo (N=62)
 
@@ -1539,7 +1561,7 @@ Table 26: Results of the primary and secondary endpoints in CRSwNP trials
 
 |                                    | SINUS -24                          | SINUS -24                          | SINUS -24                          | SINUS -24                          | SINUS -24                              | SINUS -52                          | SINUS -52                          | SINUS -52                          | SINUS -52                          | SINUS -52                              |
 |------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|----------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|----------------------------------------|
-|                                    | Placebo (n=133)                    | Placebo (n=133)                    | Dupilumab 300mg Q2W (n=143)        | Dupilumab 300mg Q2W (n=143)        | LS mean difference vs. placebo (95%CI) | Placebo (n=153)                    | Placebo (n=153)                    | Dupilumab 300mg Q2W (n=295)        | Dupilumab 300mg Q2W (n=295)        | LS mean difference vs. placebo (95%CI) |
+|                                    | Placebo (n=133)                    | Placebo (n=133)                    | Dupilumab 300mgQ2W (n=143)         | Dupilumab 300mgQ2W (n=143)         | LS mean difference vs. placebo (95%CI) | Placebo (n=153)                    | Placebo (n=153)                    | Dupilumab 300mgQ2W (n=295)         | Dupilumab 300mgQ2W (n=295)         | LS mean difference vs. placebo (95%CI) |
 | Primary endpoints at week 24       | Primary endpoints at week 24       | Primary endpoints at week 24       | Primary endpoints at week 24       | Primary endpoints at week 24       | Primary endpoints at week 24           | Primary endpoints at week 24       | Primary endpoints at week 24       | Primary endpoints at week 24       | Primary endpoints at week 24       | Primary endpoints at week 24           |
 | Scores                             | Baseline mean                      | LS mean change                     | Baseline mean                      | LS mean change                     |                                        | Baseline mean                      | LS mean change                     | Baseline mean                      | LS mean change                     |                                        |
 | NPS                                | 5.86                               | 0.17                               | 5.64                               | -1.89                              | -2.06 (-2.43, -1.69)                   | 5.96                               | 0.10                               | 6.18                               | -1.71                              | -1.80 (-2.10, -1.51)                   |
@@ -1553,9 +1575,7 @@ Table 26: Results of the primary and secondary endpoints in CRSwNP trials
 | SNOT- 22                           | 50.87                              | -9.31                              | 48.0                               | -30.43                             | -21.12 (-25.17, -17.06)                | 53.48                              | -10.40                             | 51.02                              | -27.77                             | -17.36 (-20.87, -13.85)                |
 | VAS                                | 7.96                               | -1.34                              | 7.42                               | -4.54                              | -3.20 (-3.79, -2.60)                   | 7.98                               | -1.39                              | 8.01                               | -4.32                              | -2.93 (-3.45, -2.40)                   |
 
-A reduction in score indicates improvement, except UPSIT where an increase indicates improvement.
-
-Total symptom score is a composite severity score consisting of the sum of daily symptoms of NC, loss of smell, and anterior/posterior rhinorrhoea. NC = nasal congestion, NPS = nasal polyposis score; LMK = Lund-MacKay total CT score; UPSIT = University of Pennsylvania smell identification test; SNOT-22 = 22-item Sino-Nasal Outcome Test; TSS = total symptom score; VAS = visual analogue scale for rhinosinusitis
+A reduction in score indicates improvement, except UPSIT where an increase indicates improvement. Total symptom score is a composite severity score consisting of the sum of daily symptoms of NC, loss of smell, and anterior/posterior rhinorrhoea. NC = nasal congestion, NPS = nasal polyposis score; LMK = Lund-MacKay total CT score; UPSIT = University of Pennsylvania smell identification test; SNOT-22 = 22-item Sino-Nasal Outcome Test; TSS = total symptom score; VAS = visual analogue scale for rhinosinusitis
 
 (all p-values &lt; 0.0001 (all statistically significant vs placebo with adjustment for multiplicity); nominal for VAS)
 
@@ -1567,23 +1587,23 @@ LS Mean Change +/-
 
 LS Mean Change +/-
 
---. Dupilumab 300 mg Q2W-Q4W (N=145)
+-- Dupilumab 300 mg Q2W-Q4W (N=145)
 
--· Dupilumab 300 mg O2W (N=143)
+Dupilumab 300 mg Q2W (N=150)
 
-- Dupilumab 300 mg Q2W (N=150)
+- Dupilumab 300 mg O2W (N=143)|
 
---g-. Placebo Q2W (N=153)|
+---. Placebo Q2W (N=153)
 
---g-. Placebo Q2W (N=133)
+-g-. Placebo Q2W (N=133)
 
 0.5
 
 0.5·
 
-0.00
+0.000
 
-0.0-
+0.0-4
 
 -0.5-
 
@@ -1591,7 +1611,11 @@ LS Mean Change +/-
 
 -1.0-
 
+- 1.0-
+
 -1.5-
+
+-2.0-
 
 -2.0-
 
@@ -1601,27 +1625,27 @@ LS Mean Change +/-
 
 4
 
-Table 27: Results of the efficacy at week 52 in SINUS-52 study ·
+4
 
 8
 
-|                         | Placebo (n=153)   | Placebo (n=153)   | Dupilumab 300mg Q2W (n=150)   | Dupilumab 300mg Q2W (n=150)   | LS mean difference vs. placebo (95%CI)   | Dupilumab 300mg Q2W-Q4W (n=145)   | Dupilumab 300mg Q2W-Q4W (n=145)   | LS mean difference vs. placebo (95%CI)   |
-|-------------------------|-------------------|-------------------|-------------------------------|-------------------------------|------------------------------------------|-----------------------------------|-----------------------------------|------------------------------------------|
-|                         | Baseline mean     | LS mean change    | Baseline mean                 | LS mean change                | LS mean difference vs. placebo (95%CI)   | Baseline mean                     | LS mean change                    | LS mean difference vs. placebo (95%CI)   |
-| NPS                     | 5.96              | 0.15              | 6.07                          | -2.24                         | -2.40 a (-2.77, -2.02)                   | 6.29                              | -2.06                             | -2.21 b (-2.59, -1.83)                   |
-| NC                      | 2.38              | -0.37             | 2.48                          | -1.35                         | -0.98 a (-1.17, -0.79)                   | 2.44                              | -1.48                             | -1.10 b (-1.29, -0.91)                   |
-| LMK sinus CT scan score | 17.65             | 0.11              | 18.42                         | -6.83                         | -6.94 b (-7.87, -6.01)                   | 17.81                             | -5.60                             | -5.71 b (-6.64, -4.77)                   |
-| Total symptom score     | 7.08              | -0.94             | 7.31                          | -3.79                         | -2.85 b (-3.35, -2.35)                   | 7.28                              | -4.16                             | -3.22 b (-3.73, -2.72)                   |
-| UPSIT                   | 13.78             | -0.77             | 13.46                         | 9.53                          | 10.30 b (8.50, 12.10)                    | 13.60                             | 9.99                              | 10.76 b (8.95, 12.57)                    |
-| Loss of Smell           | 2.72              | -0.19             | 2.81                          | -1.29                         | -1.10 b (-1.31, -0.89)                   | 2.73                              | -1.49                             | -1.30 b (-1.51, -1.09)                   |
-| SNOT-22                 | 53.48             | -8.88             | 50.16                         | -29.84                        | -20.96 a (-25.03, -16.89)                | 51.89                             | -30.52                            | -21.65 b (-25.71, - 17.58)               |
-| VAS                     | 7.98              | -0.93             | 8.24                          | -4.74                         | -3.81 b (-4.46, -3.17)                   | 7.78                              | -4.39                             | -3.46 b (-4.10, -2.81)                   |
+Table 27: Results of the efficacy at week 52 in SINUS-52 study
 
-A reduction in score indicates improvement, except UPSIT where an increase indicates improvement.
+|                         | Placebo (n=153)   | Placebo (n=153)   | Dupilumab 300mgQ2W (n=150)   | Dupilumab 300mgQ2W (n=150)   | LS mean difference vs. placebo (95%CI)   | Dupilumab 300mg Q2W-Q4W (n=145)   | Dupilumab 300mg Q2W-Q4W (n=145)   | LS mean difference vs. placebo (95%CI)   |
+|-------------------------|-------------------|-------------------|------------------------------|------------------------------|------------------------------------------|-----------------------------------|-----------------------------------|------------------------------------------|
+|                         | Baseline mean     | LS mean change    | Baseline mean                | LS mean change               | LS mean difference vs. placebo (95%CI)   | Baseline mean                     | LS mean change                    | LS mean difference vs. placebo (95%CI)   |
+| NPS                     | 5.96              | 0.15              | 6.07                         | -2.24                        | -2.40 a (-2.77, -2.02)                   | 6.29                              | -2.06                             | -2.21 b (-2.59, -1.83)                   |
+| NC                      | 2.38              | -0.37             | 2.48                         | -1.35                        | -0.98 a (-1.17, -0.79)                   | 2.44                              | -1.48                             | -1.10 b (-1.29, -0.91)                   |
+| LMK sinus CT scan score | 17.65             | 0.11              | 18.42                        | -6.83                        | -6.94 b (-7.87, -6.01)                   | 17.81                             | -5.60                             | -5.71 b (-6.64, -4.77)                   |
+| Total symptom score     | 7.08              | -0.94             | 7.31                         | -3.79                        | -2.85 b (-3.35, -2.35)                   | 7.28                              | -4.16                             | -3.22 b (-3.73, -2.72)                   |
+| UPSIT                   | 13.78             | -0.77             | 13.46                        | 9.53                         | 10.30 b (8.50, 12.10)                    | 13.60                             | 9.99                              | 10.76 b (8.95, 12.57)                    |
+| Loss of Smell           | 2.72              | -0.19             | 2.81                         | -1.29                        | -1.10 b (-1.31, -0.89)                   | 2.73                              | -1.49                             | -1.30 b (-1.51, -1.09)                   |
+| SNOT-22                 | 53.48             | -8.88             | 50.16                        | -29.84                       | -20.96 a (-25.03, -16.89)                | 51.89                             | -30.52                            | -21.65 b (-25.71, - 17.58)               |
+| VAS                     | 7.98              | -0.93             | 8.24                         | -4.74                        | -3.81 b (-4.46, -3.17)                   | 7.78                              | -4.39                             | -3.46 b (-4.10, -2.81)                   |
 
-Total symptom score is a composite severity score consisting of the sum of daily symptoms of NC, loss of smell, and anterior/posterior rhinorrhoea. NC = nasal congestion, NPS = nasal polyposis score; LMK = Lund-MacKay total CT score; UPSIT = University of Pennsylvania smell identification test; SNOT-22 = 22-item Sino-Nasal
+A reduction in score indicates improvement, except UPSIT where an increase indicates improvement. Total symptom score is a composite severity score consisting of the sum of daily symptoms of NC, loss of smell, and anterior/posterior rhinorrhoea. NC = nasal congestion, NPS = nasal polyposis score; LMK = Lund-MacKay total CT score; UPSIT = University of Pennsylvania smell identification test; SNOT-22 = 22-item Sino-Nasal Outcome Test; TSS = total symptom score; VAS = visual analogue scale for rhinosinusitis
 
-Outcome Test; TSS = total symptom score; VAS = visual analogue scale for rhinosinusitis ( a p-value &lt; 0.0001 (all statistically significant vs placebo with adjustment for multiplicity); b nominal pvalue &lt;0.0001
+( a p-value &lt; 0.0001 (all statistically significant vs placebo with adjustment for multiplicity); b nominal pvalue &lt;0.0001
 
 Statistically significant and clinically meaningful efficacy was observed in SINUS-24 with regard to improvement in bilateral endoscopic NPS score at week 24. In the post-treatment period when patients were off dupilumab, the treatment effect diminished over time (see Figure 5a). Similar results were also seen in SINUS-52 at both week 24 and week 52 with a progressive improvement over time (see Figure 5b).
 
@@ -1639,11 +1663,13 @@ Figure 5b. SINUS-52
 
 Placebo Q2W
 
+Probability of Event (%)
+
 50 -
 
-45.
+45-
 
-40
+40-
 
 35-
 
@@ -1661,9 +1687,11 @@ The effects of dupilumab on the primary endpoints of NPS and nasal congestion an
 
 In patients with co-morbid asthma, significant improvements in FEV1 and ACQ-6 were observed at week 24 irrespective of baseline blood eosinophil levels. The pooled LS Mean change from baseline in FEV1 at week 24 for dupilumab 300 mg Q2W was 0.14 vs -0.07 L for placebo, for a difference of 0.21 L (95% CI: 0.13, 0.29). In addition, improvements in FEV1 were noted from the first post-baseline assessment, at week 8 in SINUS-24 and week 4 in SINUS-52. Improvements in ACQ-6 in patients with co-morbid asthma were observed in both studies. A response was defined as an improvement in score of 0.5 or more. The LS mean difference in the dupilumab group versus placebo at week 24 was ­0.76 (95% CI: ­1.00 to ­0.51) in SINUS-24 and ­0.94 (95% CI: ­1.19, ­0.69) in SINUS-52.
 
-·- Dupilumab 300 mg O2W (N=438)
+· - Dupilumab 300 mg 02W (N=438)
 
-.-- D--- Placebo O2W (N=286)
+.-- ·--- Placebo O2W (N=286)
+
+nil9
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1689,17 +1717,17 @@ The efficacy results for PRIME and PRIME2 are presented in Table 28 and Figures 
 
 Table 28: Results of the Primary and Secondary Endpoints in PRIME and PRIME2
 
-|                                                                                                                                                  | PRIME          | PRIME                       | PRIME                                         | PRIME2         | PRIME2                      | PRIME2                                        |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------|-----------------------------|-----------------------------------------------|----------------|-----------------------------|-----------------------------------------------|
-|                                                                                                                                                  | Placebo (N=76) | Dupilumab 300 mg Q2W (N=75) | Difference (95% CI) for Dupilumab vs. Placebo | Placebo (N=82) | Dupilumab 300 mg Q2W (N=78) | Difference (95% CI) for Dupilumab vs. Placebo |
-| Proportion of patients with improvement (reduction) in WI- NRS by ≥4 points from baseline at week 24 (Primary endpoint in PRIME) b               | 18.4%          | 60.0%                       | 42.7% (27.76, 57.72)                          | 19.5%          | 57.7%                       | 42.6% (29.06, 56.08)                          |
-| Proportion of patients with improvement (reduction) in WI- NRS by ≥4 points from baseline at week 12. (Primary endpoint in PRIME2) b             | 15.8% a        | 44.0% a                     | 29.2% (14.49, 43.81) a                        | 22.0%          | 37.2%                       | 16.8% (2.34, 31.16)                           |
-| Proportion of patients with IGA PN- S 0 or 1 at week 24. b                                                                                       | 18.4%          | 48.0%                       | 28.3% (13.41, 43.16)                          | 15.9%          | 44.9%                       | 30.8% (16.37, 45.22)                          |
-| Proportion of patients with both an improvement (reduction) in WI- NRS by ≥4 points from baseline to Week 24 and an IGA PN-S 0 or 1 at Week 24 b | 9.2%           | 38.7%                       | 29.6% (16.42, 42.81)                          | 8.5%           | 32.1%                       | 25.5% (13.09, 37.86)                          |
-| %change from baseline in WI- NRS at week 24 (SE)                                                                                                 | -22.22 (5.74)  | -48.89 (5.61)               | -26.67 (-38.44, - 14.90)                      | -36.18 (6.21)  | -59.34 (6.39)               | -23.16 (-33.81, -12.51_                       |
-| Change from baseline in DLQI at week 24 (SE)                                                                                                     | -5.77 (1.05)   | -11.97 (1.02)               | -6.19 (-8.34, -4.05)                          | -6.77 (1.18)   | -13.16 (1.21)               | -6.39 (-8.42, -4.36)                          |
-| Change from baseline in skin pain- NRS at week 24 (SE) c                                                                                         | -2.16 (0.44)   | -4.33 (0.43)                | -2.17 (-3.07, -1.28)                          | -2.74 (0.51)   | -4.35 (0.53)                | -1.61 (-2.49, -0.73)                          |
-| Change from baseline in HADS at week 24 (SE) c                                                                                                   | -2.02 (0.94)   | -4.62 (0.93)                | -2.60 (-4.52, -0.67)                          | -2.59 (1.03)   | -5.55 (1.06)                | -2.96 (-4.73, -1.19)                          |
+|                                                                                                                                                  | PRIME          | PRIME                     | PRIME                                         | PRIME2         | PRIME2                    | PRIME2                                        |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------|---------------------------|-----------------------------------------------|----------------|---------------------------|-----------------------------------------------|
+|                                                                                                                                                  | Placebo (N=76) | Dupilumab 300mgQ2W (N=75) | Difference (95% CI) for Dupilumab vs. Placebo | Placebo (N=82) | Dupilumab 300mgQ2W (N=78) | Difference (95% CI) for Dupilumab vs. Placebo |
+| Proportion of patients with improvement (reduction) in WI- NRS by ≥4 points from baseline at week 24 (Primary endpoint in PRIME) b               | 18.4%          | 60.0%                     | 42.7% (27.76, 57.72)                          | 19.5%          | 57.7%                     | 42.6% (29.06, 56.08)                          |
+| Proportion of patients with improvement (reduction) in WI- NRS by ≥4 points from baseline at week 12. (Primary endpoint in PRIME2) b             | 15.8% a        | 44.0% a                   | 29.2% (14.49, 43.81) a                        | 22.0%          | 37.2%                     | 16.8% (2.34, 31.16)                           |
+| Proportion of patients with IGA PN- S 0 or 1 at week 24. b                                                                                       | 18.4%          | 48.0%                     | 28.3% (13.41, 43.16)                          | 15.9%          | 44.9%                     | 30.8% (16.37, 45.22)                          |
+| Proportion of patients with both an improvement (reduction) in WI- NRS by ≥4 points from baseline to Week 24 and an IGA PN-S 0 or 1 at Week 24 b | 9.2%           | 38.7%                     | 29.6% (16.42, 42.81)                          | 8.5%           | 32.1%                     | 25.5% (13.09, 37.86)                          |
+| %change from baseline in WI- NRS at week 24 (SE)                                                                                                 | -22.22 (5.74)  | -48.89 (5.61)             | -26.67 (-38.44, - 14.90)                      | -36.18 (6.21)  | -59.34 (6.39)             | -23.16 (-33.81, -12.51_                       |
+| Change from baseline in DLQI at week 24 (SE)                                                                                                     | -5.77 (1.05)   | -11.97 (1.02)             | -6.19 (-8.34, -4.05)                          | -6.77 (1.18)   | -13.16 (1.21)             | -6.39 (-8.42, -4.36)                          |
+| Change from baseline in skin pain- NRS at week 24 (SE) c                                                                                         | -2.16 (0.44)   | -4.33 (0.43)              | -2.17 (-3.07, -1.28)                          | -2.74 (0.51)   | -4.35 (0.53)              | -1.61 (-2.49, -0.73)                          |
+| Change from baseline in HADS at week 24 (SE) c                                                                                                   | -2.02 (0.94)   | -4.62 (0.93)              | -2.60 (-4.52, -0.67)                          | -2.59 (1.03)   | -5.55 (1.06)              | -2.96 (-4.73, -1.19)                          |
 
 The onset of action in change from baseline in WI-NRS, defined as the first timepoint at which difference from placebo was and remained significant (nominal p&lt;0.05) in the weekly average of daily WI-NRS, was observed as early as Week 3 in PRIME (Figure 7a) and Week 4 in PRIME2 (Figure7b).
 
@@ -1707,9 +1735,9 @@ The onset of action in change from baseline in WI-NRS, defined as the first time
 
 Proportion of Subjects +/- SE (%)
 
-LS Mean Percent Change +/- SE
+IS Mean Percent Change +/- SE
 
-IS Mean Percent Change t/- SE
+LS Mean Percent Change +/- SE
 
 100-
 
@@ -1735,27 +1763,27 @@ IS Mean Percent Change t/- SE
 
 60-
 
--40
+50-
 
 -50
 
 -50
-
--60
-
--60
 
 40-
 
+-60
+
+-60
+
 30-
 
--70
+-70-
 
 -70
 
 20-
 
--80
+-80-
 
 -80
 
@@ -1763,13 +1791,13 @@ IS Mean Percent Change t/- SE
 
 -90-
 
--100-
-
--100-
+- 100-
 
 BL I
 
-BL 1
+-100-
+
+TTT
 
 Number of Subjects
 
@@ -1779,7 +1807,7 @@ Number of Subjects
 
 Dupilumab 300 mg Q2W 75 75 75 75 75 75 75 75 75 75 75 75 75 75 75 75 75 75 75 75 75 75 75 75
 
-Dupilumab 300 mg Q2W
+Dupilumab 300 mg Q2W 78 78 78 78 78 78 78 78 78 78 78 78 78 78 78 78 78 78 78 78 78 78 78 78
 
 Dupilumab 300 mg Q2W
 
@@ -1787,35 +1815,43 @@ Placebo
 
 Placebo
 
--4--
-
-* Dupilumab 300 mg Q2W (N=78)
+· Dupilumab 300 mg Q2W (N=78
 
 Dupilumab 300 mg Q2W (N=75)
 
 Placebo (N=76)
 
+p-value &lt;0,05
+
+·- Placebo (N=82
+
 p-value &lt;0.05
 
 100
 
-90-
+90
 
 80-
 
-*
+70-
 
-Dupilumab 300 mg Q2W (N=78)
+60-
 
-Placebo (N=82)
-
-p-value &lt;0.05
-
-Figure 7. LS mean percent change from baseline in WI-NRS in PRIME and PRIME2 up to Week 24
+Figure 7. LS mean percent change from baseline in WI-NRS in PRIME and PRIME2 up to Week 24 40-
 
 Fig 7a. PRIME
 
+*
+
 p-value &lt;0.05
+
+30-
+
+20-
+
+10-
+
+0+11
 
 <!-- image -->
 
@@ -1843,11 +1879,11 @@ The eosinophilic esophagitis (EoE) development program included a three-part pro
 
 Fig 7b. PRIME2
 
-·- Placebo (N=82)
+Dupilumab 300 mg Q2W (N=78)
 
-p-value &lt;0.05
+Placebo (N=82)
 
-0781
+p-valuc &lt;0.05
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1927,19 +1963,11 @@ Number of Subjects
 
 71
 
-69
-
-69
-
 68
 
 60
 
 57
-
-54
-
-55 51
 
 54
 
@@ -1951,13 +1979,13 @@ Figure 10: Mean change from baseline in DSQ score over time in patients 12 years
 
 <!-- image -->
 
-·- Dupilumab 300 mg QW/Dupilumab 300 mg QW (N=74)
+· Dupilumab 300 mg QW/Dupilumab 300 mg QW (N=74)
 
 · Dupilumab 300 mg QW/Dupilumab 300 mg QW (N=40)
 
--· Placebo/Dupilumab 300 mg QW (N=37)
+-· Placebo/Dupilumab 300 mg QW (N=37)|
 
-· Placebo/Dupilumab 300 mg QW (N=37)
+· Placebo/Dupilumab 300 mg QW (N=37)|
 
 In Parts A and B, a greater proportion of patients randomised to dupilumab achieved histological remission (peak esophageal intraepithelial eosinophil count ≤6 eos/hpf) compared to placebo. The proportion of patients with histological remission observed after 24 weeks of treatment in Part A and B was maintained for 52 weeks in Part C. Similarly, other histological and endoscopic improvement were maintained through 52 weeks.
 
@@ -2124,7 +2152,7 @@ Cumulative Mean Number of Events
 
 0.4
 
-0.
+0.3
 
 0.3
 
@@ -2152,7 +2180,11 @@ Placebo (N=471)
 
 Placebo (N=465)
 
+8
+
 <!-- image -->
+
+8
 
 <!-- image -->
 
@@ -2175,29 +2207,37 @@ Table 34: Mean change from baseline for lung function endpoints in BOREAS and NO
 |                                                                            | Dupiluma b (N=468) | Placebo (N=471) | Difference (95% CI) for Dupilumab vs. Placebo | Dupiluma b (N=470) | Placebo (N=465) | Difference (95% CI) for Dupilumab vs. Placebo |
 | Change from baseline in pre- bronchodilator FEV 1 at Week 12, LS Mean (SE) | 0.160 (0.018)      | 0.077 (0.018)   | 0.083 (0.042 to 0.125) a                      | 0.139 (0.017)      | 0.057 (0.017)   | 0.082 (0.040 to 0.124) f                      |
 
-8
-
-8
-
 <div style=\"page-break-after: always\"></div>
 
-0.32 +
-
-0.32 -
+0.32 †
 
 = 0.28 -
 
-= 0.28.
+0.32 -
+
+2 0.28-
+
+· 0.20-
+
+# 0.24-
+
+3 0.04 -
+
+0 +
+
+BL 2 4
+
+1glla bunn
 
 Figl2b. NOTUS
 
-18-La. Dunens
+-·- Dupilumab 300 mg Q2W (N=468)
 
--* Dupilumab 300 mg Q2W (N=468)
+· Dupilumab 300 mg Q2W (N=362)
 
-— Dupilumab 300 mg Q2W (N= 362)
+- · -- Placebo (N=359)
 
-.-- Placebo (N=359)
+- - g.-. Placebo (N=471)
 
 | Change from baseline in pre- bronchodilator FEV 1 at Week 52, LS Mean (SE) k           | 0.153 (0.019)   | 0.070 (0.019)   | 0.083 (0.038 to 0.128) b   | 0.115 (0.021)   | 0.054 (0.020)   | 0.062 (0.011 to 0.113) g   |
 |----------------------------------------------------------------------------------------|-----------------|-----------------|----------------------------|-----------------|-----------------|----------------------------|
@@ -2205,9 +2245,7 @@ Figl2b. NOTUS
 | Change from baseline in post- bronchodilator FEV 1 /FVC ratio at Week 12, LS Mean (SE) | 0.037 (0.004)   | 0.023 (0.004)   | 0.014 (0.005 to0.023) d    | 0.030 (0.004)   | 0.013 (0.004)   | 0.017 (0.006 to 0.028) i   |
 | Change from baseline in pre- bronchodilator FVC at Week 12, LS Mean (SE)               | 0.098 (0.022)   | 0.029 (0.022)   | 0.069 (0.016 to 0.121) e   | 0.083 (0.024)   | 0.018 (0.024)   | 0.066 (0.005 to 0.126) j   |
 
-LS = least squares, SE = standard error, FEV1 = forced expiratory volume in 1 second, FVC = forced vital capacity a p-value &lt; 0.0001, b p-value = 0.0003 (all statistically significant vs placebo with adjustment for multiplicity)
-
-c nominal p-value = 0.0010,  d nominal p-value = 0.0016  e nominal p-value = 0.0103
+LS = least squares, SE = standard error, FEV1 = forced expiratory volume in 1 second, FVC = forced vital capacity a p-value &lt; 0.0001, b p-value = 0.0003 (all statistically significant vs placebo with adjustment for multiplicity) c nominal p-value = 0.0010,  d nominal p-value = 0.0016  e nominal p-value = 0.0103
 
 f p-value=0.0001,  g p-value=0.0182 (all statistically significant vs placebo with adjustment for multiplicity)
 
@@ -2221,17 +2259,13 @@ Fig12a. BOREAS                                                               Fig
 
 <!-- image -->
 
+<!-- image -->
+
 a Efficacy results for mean change from baseline in pre-bronchodilator FEV1 over time are presented for 721 out of 935 patients who completed the 52-week treatment period or had discontinued the trial at the time of data analysis.
 
 In the subgroup analysis of patients with higher baseline FeNO (≥ 20 ppb) in BOREAS (N=383), treatment with dupilumab statistically significantly improved pre-bronchodilator FEV1 from baseline at Week 12 (LS mean change: 0.232 dupilumab vs 0.108 placebo; LS mean difference: 0.124 [95% CI: 0.045, 0.203]; p=0.002) and Week 52 (LS mean change: 0.247 dupilumab vs 0.120 placebo; LS mean difference: 0.127 [95% CI: 0.042, 0.212]; p=0.003) compared to placebo. In NOTUS, statistically significant improvement from baseline was observed in the subgroup of patients with a higher baseline FeNO (≥20 ppb) at Week 12 (N=355; LS mean change: 0.221 dupilumab vs 0.081 placebo; LS mean difference: 0.141 [95% CI: 0.058, 0.223]; p=0.001). Treatment with dupilumab improved prebronchodilator FEV1 at Week 52 in the subgroup of patients with higher baseline FeNO (≥20 ppb) compared to placebo in NOTUS (N=264; LS mean change: 0.176 dupilumab vs 0.095 placebo; LS mean difference: 0.081[95% CI: -0.019, 0.181]) but did not meet statistical significance.
 
 Improvements in lung function as measured by pre-bronchodilator FEV1 were observed across all predefined subgroups including age, gender, race, smoking status, blood eosinophil counts, number of exacerbations in previous year (≤2, 3, and ≥4), high -dose ICS at baseline, and baseline percent
-
-- - g.-. Placebo (N=471)|
-
-฿ 0.24 -
-
-BL 2 4
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2308,27 +2342,19 @@ Fig 13b. Study C
 
 UAS7 LS mean change +/- SE
 
-0
-
 -5
 
--10
+-10 -
 
--20
+-15 -
 
--25-
+-20 -
 
-BL
+-25 -
 
--·- Dupilumab (N=70)
+NETET
 
----s -- Placebo (N=68)
-
-*p-value &lt;0.05
-
-UAS7 LS mean change +/- SE
-
-0
+BL'2
 
 -5
 
@@ -2356,9 +2382,17 @@ A total of 408 children aged 6 to 11 years with moderate-to-severe asthma was en
 
 The safety and efficacy of dupilumab for the treatment of EoE have been established in paediatric patients 1 to 17 years of age. Use of dupilumab in this population is supported by adequate and wellcontrolled studies and additional pharmacokinetic data. A total of 72 paediatric patients 12 to 17 years of age received dupilumab 300 mg QW or placebo for 24 weeks (TREET Parts A and B). Of these, there were 37 dupilumab treated patients in Parts A and B; 34 continued treatment with 300 mg QW for an additional 28 weeks (TREET Part C). A total of 71 paediatric patients 1 to 11 years of age
 
-· · - - Dupilumab (N=74)
+·- Dupilumab (N=70)
 
-· Placebo (N=77)
+---s -- Placebo (N=68)
+
+*p-value &lt;0.05
+
+UAS7 LS mean change +/- SE
+
+- · -- Dupilumab (N=74)
+
+- Placebo (N=77)
 
 *p-value &lt;0.05
 
@@ -2548,7 +2582,7 @@ Store in the original carton in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
-Dupixent 300 mg solution for injection in pre-filled syringe
+## Dupixent 300 mg solution for injection in pre-filled syringe
 
 2 mL solution in a siliconised type-1 clear glass pre-filled syringe with needle shield, with a fixed 27 gauge 12.7 mm (½ inch), thin wall stainless steel staked needle.
 
@@ -2558,7 +2592,7 @@ Pack size:
 - 2 pre-filled syringes
 - Multipack containing 6 (3 packs of 2) pre-filled syringes
 
-Dupixent 300 mg solution for injection in pre-filled pen
+## Dupixent 300 mg solution for injection in pre-filled pen
 
 2 mL solution in a siliconised type-1 clear glass syringe in a pre-filled pen, with a fixed 27 gauge 12.7 mm (½ inch), thin wall stainless steel staked needle.
 
@@ -2619,7 +2653,7 @@ Dupilumab 200 mg solution for injection in pre-filled syringe
 
 Each single-use pre-filled syringe contains 200 mg of dupilumab in 1.14 mL solution (175 mg/mL).
 
-## Dupilumab 200 mg solution for injection in pre-filled pen
+Dupilumab 200 mg solution for injection in pre-filled pen
 
 Each single-use pre-filled pen contains 200 mg of dupilumab in 1.14 mL solution (175 mg/mL).
 
@@ -2752,6 +2786,8 @@ Patients receiving concomitant oral corticosteroids may reduce their steroid dos
 Dupilumab is intended for long-term treatment. The need for continued therapy should be considered at least on an annual basis as determined by physician assessment of the patient's level of asthma control.
 
 <div style=\"page-break-after: always\"></div>
+
+## Eosinophilic esophagitis (EoE)
 
 The recommended dose of dupilumab for adults, adolescents and children 1 year of age and older, weighing at least 15 kg, is specified in Table 5.
 
@@ -3218,21 +3254,27 @@ Table 10 presents the results by baseline weight strata for the approved dose re
 
 Table 10: Efficacy results of dupilumab with concomitant TCS in AD-1652 at week 16 (FAS) a
 
-|                                                      | Dupilumab 300 mg Q4W d + TCS   | Placebo +TCS   | Dupilumab 200 mg Q2W e + TCS   | Placebo + TCS   |
-|------------------------------------------------------|--------------------------------|----------------|--------------------------------|-----------------|
-|                                                      | (N=122)                        | (N=123)        | (N=59)                         | (N=62)          |
-|                                                      | ≥ 15 kg                        | ≥ 15 kg        | ≥ 30 kg                        | ≥ 30 kg         |
-| IGA 0 or 1 b , %responders c                         | 32.8% f                        | 11.4%          | 39.0% h                        | 9.7%            |
-| EASI-50, %responders c                               | 91.0% f                        | 43.1%          | 86.4% g                        | 43.5%           |
-| EASI-75, %responders c                               | 69.7% f                        | 26.8%          | 74.6% g                        | 25.8%           |
-| EASI-90, %responders c                               | 41.8% f                        | 7.3%           | 35.6% h                        | 8.1%            |
-| EASI, LS mean %change from baseline (+/-SE)          | -82.1% f (2.37)                | -48.6% (2.46)  | -80.4% g (3.61)                | -48.3% (3.63)   |
-| Pruritus NRS, LS mean %change from baseline (+/- SE) | -54.6% f (2.89)                | -25.9% (2.90)  | -58.2% g (4.01)                | -25.0% (3.95)   |
-| Pruritus NRS (≥ 4-point improvement), %responders c  | 50.8% f                        | 12.3%          | 61.4% g                        | 12.9%           |
-| CDLQI, LS mean change from baseline (+/-SE)          | -10.6 f (0.47)                 | -6.4 (0.51)    | -9.8 g (0.63)                  | -5.6 (0.66)     |
-| CDLQI, (≥ 6-point improvement),% responders          | 77.3% g                        | 38.8%          | 80.8% g                        | 35.8%           |
-| POEM, LS mean change from baseline (+/- SE)          | -13.6 f (0.65)                 | -5.3 (0.69)    | -13.6 g (0.90)                 | -4.7 (0.91)     |
-| POEM, (≥ 6-point improvement),% responders           | 81.7% g                        | 32.0%          | 79.3% g                        | 31.1%           |
+|                                                      | Dupilumab 300mgQ4W d + TCS   | Placebo +TCS   | Dupilumab 200mgQ2W e + TCS   | Placebo + TCS   |
+|------------------------------------------------------|------------------------------|----------------|------------------------------|-----------------|
+|                                                      | (N=122)                      | (N=123)        | (N=59)                       | (N=62)          |
+|                                                      | ≥ 15 kg                      | ≥ 15 kg        | ≥ 30 kg                      | ≥ 30 kg         |
+| IGA 0 or 1 b , %responders c                         | 32.8% f                      | 11.4%          | 39.0% h                      | 9.7%            |
+| EASI-50, %responders c                               | 91.0% f                      | 43.1%          | 86.4% g                      | 43.5%           |
+| EASI-75, %responders c                               | 69.7% f                      | 26.8%          | 74.6% g                      | 25.8%           |
+| EASI-90, %responders c                               | 41.8% f                      | 7.3%           | 35.6% h                      | 8.1%            |
+| EASI, LS mean %change from baseline (+/-SE)          | -82.1% f (2.37)              | -48.6% (2.46)  | -80.4% g (3.61)              | -48.3% (3.63)   |
+| Pruritus NRS, LS mean %change from baseline (+/- SE) | -54.6% f (2.89)              | -25.9% (2.90)  | -58.2% g (4.01)              | -25.0% (3.95)   |
+| Pruritus NRS (≥ 4-point improvement), %responders c  | 50.8% f                      | 12.3%          | 61.4% g                      | 12.9%           |
+| CDLQI, LS mean change from baseline (+/-SE)          | -10.6 f (0.47)               | -6.4 (0.51)    | -9.8 g (0.63)                | -5.6 (0.66)     |
+| CDLQI, (≥ 6-point improvement),% responders          | 77.3% g                      | 38.8%          | 80.8% g                      | 35.8%           |
+| POEM, LS mean change from baseline (+/- SE)          | -13.6 f (0.65)               | -5.3 (0.69)    | -13.6 g (0.90)               | -4.7 (0.91)     |
+| POEM, (≥ 6-point improvement),% responders           | 81.7% g                      | 32.0%          | 79.3% g                      | 31.1%           |
+
+f p-value &lt; 0.0001 (statistically significant vs placebo with adjustment for multiplicity)
+
+g nominal p-values &lt; 0.0001
+
+h nominal p-value = 0.0002
 
 A greater proportion of patients randomised to dupilumab + TCS achieved an improvement in the peak pruritus NRS compared to placebo + TCS (defined as ≥4 -point improvement at week 4).
 
@@ -3274,11 +3316,11 @@ The efficacy results at week 16 for AD-1539 are presented in Table 11.
 
 <div style=\"page-break-after: always\"></div>
 
-| Patient's skin pain NRS, LS mean change from baseline (+/- SE)*   | -3.9 e   | -0.6   | -3.4 g   | -0.3   |
-|-------------------------------------------------------------------|----------|--------|----------|--------|
-|                                                                   | (0.30)   | (0.30) | (0.29)   | (0.29) |
-| POEM, LS mean change from                                         | -12.9 e  | -3.8   | -10.6 g  | -2.5   |
-| baseline (+/- SE)*                                                | (0.89)   | (0.92) | (0.93)   | (0.95) |
+| Patient's skin pain NRS, LS mean change from baseline SE)*   | -3.9 e   | -0.6   | -3.4 g   | -0.3   |
+|--------------------------------------------------------------|----------|--------|----------|--------|
+| (+/-                                                         | (0.30)   | (0.30) | (0.29)   | (0.29) |
+| POEM, LS mean change from                                    | -12.9 e  | -3.8   | -10.6 g  | -2.5   |
+| baseline (+/- SE)*                                           | (0.89)   | (0.92) | (0.93)   | (0.95) |
 
 a Full Analysis Set (FAS) includes all patients randomised.
 
@@ -3353,9 +3395,11 @@ The demographics and baseline characteristics of these 3 studies are provided in
 | Mean baseline Eosinophil count (± SD) cells/mcL     | 350 (430)              | 360 (370)               | 350 (310)              |
 | %patients with EOS ≥ 150 cells/mcL ≥ 300 cells/mcL  | 77.8 41.9              | 71.4 43.7               | 71.4 42.4              |
 
-ICS = inhaled corticosteroid; FEV1 = Forced expiratory volume in 1 second; ACQ-5 = Asthma Control Questionnaire-5; AQLQ = Asthma Quality of Life Questionnaire; AD = atopic dermatitis; NP = nasal polyposis; AR = allergic rhinitis; FeNO = fraction of exhaled nitric oxide; EOS = blood eosinophil a the population in dupilumab asthma trials included patients on medium and high dose ICS. The medium ICS
+ICS = inhaled corticosteroid; FEV1 = Forced expiratory volume in 1 second; ACQ-5 = Asthma Control
 
-dose was defined as equal to 500 mcg fluticasone or equivalent per day.
+Questionnaire-5; AQLQ = Asthma Quality of Life Questionnaire; AD = atopic dermatitis; NP = nasal polyposis;
+
+AR = allergic rhinitis; FeNO = fraction of exhaled nitric oxide; EOS = blood eosinophil a the population in dupilumab asthma trials included patients on medium and high dose ICS. The medium ICS dose was defined as equal to 500 mcg fluticasone or equivalent per day.
 
 ## Exacerbations
 
@@ -3422,8 +3466,6 @@ Figure 1: Mean change from baseline in pre-bronchodilator FEV1 (L) over time (ba
 
 <div style=\"page-break-after: always\"></div>
 
-LS Mean Change +/-SE (U)
-
 0.6
 
 0.5
@@ -3432,19 +3474,27 @@ LS Mean Change +/-SE (U)
 
 0.3
 
+0.2
+
 0.1
 
 0.00
 
 · DUPIXENT 300 mg O2W (N=452)
 
--D- DUPIXENT 200 mg Q2W (N=437)
+-·· DUPIXENT 200 mg Q2W (N=437)
 
 * Placebo 300 mg O2W (N=237)
 
 -O- Placebo 200 mg O2W (N=232)
 
-+ -
+***#
+
+1 ∞
+
+16
+
+20
 
 0.6
 
@@ -3459,10 +3509,6 @@ LS Mean Change +/-SE (U)
 0.4
 
 <!-- image -->
-
-16
-
-20
 
 Table 15: Mean change from baseline in pre-bronchodilator FEV1 at week 12 in DRI12544 and QUEST (baseline blood eosinophil Levels ≥ 150 and ≥ 300 cells/mcL)
 
@@ -3502,17 +3548,13 @@ a nominal p-value &lt; 0.0001
 
 · DUPIXENT 300 mg O2W (N=277)
 
--D. DUPIXENT 200 mg O2W (N=264)
+-D. DUPIXENT 200 mg CZW (N=264)
 
-+ Placebo 300 mg QZW (N=142)
+· Placebo 300 mg QZW (N=142)
 
--O- Placebo 200 mg Q2W (N=148)
+-O- Placebo 200 mg QZW (N=148)
 
-·
-
-+
-
-DUPIXENT 300 mg Q2W (N=310)
+· DUPIXENT 300 mg Q2W (N=310)
 
 -D· DUPIXENT 200 mg O2W (N=299)
 
@@ -3520,9 +3562,11 @@ Placebo 300 mg Q2W (N=172)
 
 -O- Placebo 200 mg Q2W (N=162)
 
-0--0
+Q+
 
-· 0.49
+0--0-
+
+0-90.49.
 
 · 0.45 |
 
@@ -3556,22 +3600,22 @@ The results for VENTURE by baseline biomarkers are presented in the Table 18.
 
 Table 18: Effect of dupilumab on OCS dose reduction, VENTURE (baseline blood eosinophil levels ≥ 150 and ≥ 300 cells/mcL and FeNO ≥ 25 ppb)
 
-|                                                                          | Baseline blood EOS ≥ 150 cells/mcL     | Baseline blood EOS ≥ 150 cells/mcL   | Baseline blood EOS ≥ 300 cells/mcL   | Baseline blood EOS ≥ 300 cells/mcL   | FeNO ≥ 25 ppb             | FeNO ≥ 25 ppb   |
-|--------------------------------------------------------------------------|----------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|---------------------------|-----------------|
-|                                                                          | Dupilumab 300 mg Q2W N=81              | Placebo N=69                         | Dupilumab 300 mg Q2W N=48            | Placebo N=41                         | Dupilumab 300 mg Q2W N=57 | Placebo N=57    |
-| Primary endpoint (week 24)                                               |                                        |                                      |                                      |                                      |                           |                 |
-| Percent reduction in OCS from baseline                                   | Percent reduction in OCS from baseline |                                      |                                      |                                      |                           |                 |
-| Mean overall percent reduction from baseline (%) Difference (% [95% CI]) | 75.91                                  | 46.51                                | 79.54                                | 42.71                                | 77.46                     | 42.93           |
-| (Dupilumab vs. placebo)                                                  | 29.39 b (15.67, 43.12)                 |                                      | 36.83 b (18.94, 54.71)               |                                      | 34.53 b (19.08, 49.97)    |                 |
+|                                                                                                  | Baseline blood EOS ≥ 150 cells/mcL     | Baseline blood EOS ≥ 150 cells/mcL   | Baseline blood EOS ≥ 300 cells/mcL   | Baseline blood EOS ≥ 300 cells/mcL   | FeNO ≥ 25 ppb           | FeNO ≥ 25 ppb   |
+|--------------------------------------------------------------------------------------------------|----------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|-------------------------|-----------------|
+|                                                                                                  | Dupilumab 300mgQ2W N=81                | Placebo N=69                         | Dupilumab 300mgQ2W N=48              | Placebo N=41                         | Dupilumab 300mgQ2W N=57 | Placebo N=57    |
+| Primary endpoint (week 24)                                                                       |                                        |                                      |                                      |                                      |                         |                 |
+| Percent reduction in OCS from baseline                                                           | Percent reduction in OCS from baseline |                                      |                                      |                                      |                         |                 |
+| Mean overall percent reduction from baseline (%) Difference (% [95% CI]) (Dupilumab vs. placebo) | 75.91 29.39 b                          | 46.51                                | 79.54                                | 42.71                                | 77.46 34.53 b           | 42.93           |
+|                                                                                                  | (15.67, 43.12)                         |                                      | 36.83 b (18.94, 54.71)               |                                      | (19.08, 49.97)          |                 |
 
 <div style=\"page-break-after: always\"></div>
 
 | Median %reduction in daily OCS dose from baseline                      | 100                            | 50                             | 100                            | 50                             | 100                            | 50                             |
 |------------------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
-| Percent reduction from baseline 100%% ≥ 90% ≥ 75%                      | 54.3 58.0 72.8 82.7            | 33.3                           | 60.4 66.7 77.1 85.4 85.4       | 31.7 34.1 41.5 53.7 63.4 36.6  | 52.6 54.4 73.7 86.0 89.5 10.5  | 28.1                           |
+| Percent reduction from baseline 100%% ≥ 90%                            | 54.3 58.0 72.8                 | 33.3                           | 60.4 66.7 77.1 85.4 85.4       | 31.7 34.1 41.5 53.7 63.4 36.6  | 52.6 54.4 73.7 86.0 89.5 10.5  | 28.1                           |
 |                                                                        |                                | 34.8                           |                                |                                |                                | 29.8                           |
-|                                                                        |                                | 44.9                           |                                |                                |                                | 36.8                           |
-| ≥ 50%                                                                  |                                | 55.1                           |                                |                                |                                | 50.9                           |
+| ≥ 75%                                                                  |                                | 44.9                           |                                |                                |                                | 36.8                           |
+| ≥ 50%                                                                  | 82.7                           | 55.1                           |                                |                                |                                | 50.9                           |
 | >0%                                                                    | 87.7                           | 66.7                           |                                |                                |                                | 66.7                           |
 | No reduction or any increase in OCS dose, or dropped out of study      | 12.3                           | 33.3                           | 14.6                           |                                |                                | 33.3                           |
 | Secondary endpoint (week 24) a                                         | Secondary endpoint (week 24) a | Secondary endpoint (week 24) a | Secondary endpoint (week 24) a | Secondary endpoint (week 24) a | Secondary endpoint (week 24) a | Secondary endpoint (week 24) a |
@@ -3644,11 +3688,11 @@ Table 20: Rate of severe exacerbations, mean change from baseline in FEV1, ACQ-7
 |                                                                      | N                                                                    | LS mean Δ from baseline                                              | LS mean difference vs. placebo (95% CI)                              | N                                                                    | LS mean Δ from baseline                                              | LS mean difference vs. placebo (95% CI)                              | N                                                                    | LS mean Δ from baseline                                              | LS mean difference vs. placebo (95% CI)                              |
 | Dupilumab 100 mg Q2W (<30 kg)/ 200 mg Q2W (≥30 kg)                   | 229                                                                  | 16.70                                                                | 11.93 e (7.44, 16.43)                                                | 168                                                                  | 16.91                                                                | 13.92 e (8.89, 18.95)                                                | 141                                                                  | 17.96                                                                | 13.97 e (8.30, 19.65)                                                |
 | Placebo                                                              | 110                                                                  | 4.76                                                                 |                                                                      | 80                                                                   | 2.99                                                                 |                                                                      | 62                                                                   | 3.98                                                                 |                                                                      |
-| Mean change from baseline in FEV 1 /FVC %at week 12                  | Mean change from baseline in FEV 1 /FVC %at week 12                  | Mean change from baseline in FEV 1 /FVC %at week 12                  | Mean change from baseline in FEV 1 /FVC %at week 12                  | Mean change from baseline in FEV 1 /FVC %at week 12                  | Mean change from baseline in FEV 1 /FVC %at week 12                  | Mean change from baseline in FEV 1 /FVC %at week 12                  |                                                                      |                                                                      |                                                                      |
+| Mean change from baseline in FEV 1 /FVC %at week 12                  | Mean change from baseline in FEV 1 /FVC %at week 12                  | Mean change from baseline in FEV 1 /FVC %at week 12                  | Mean change from baseline in FEV 1 /FVC %at week 12                  | Mean change from baseline in FEV 1 /FVC %at week 12                  | Mean change from baseline in FEV 1 /FVC %at week 12                  | Mean change from baseline in FEV 1 /FVC %at week 12                  | Mean change from baseline in FEV 1 /FVC %at week 12                  | Mean change from baseline in FEV 1 /FVC %at week 12                  | Mean change from baseline in FEV 1 /FVC %at week 12                  |
 |                                                                      | N                                                                    | LS mean Δ from baseline                                              | LS mean difference vs. placebo (95% CI)                              | N                                                                    | LS mean Δ from baseline                                              | LS mean difference vs. placebo (95% CI)                              | N                                                                    | LS mean Δ from baseline                                              | LS mean difference vs. placebo (95% CI)                              |
-| Dupilumab 100 mg Q2W (<30 kg)/ 200 mg Q2W (≥30 kg)                   | 229                                                                  | 5.67                                                                 | 3.73 e (2.25, 5.21)                                                  | 168                                                                  | 6.10                                                                 | 4.63 e (2.97, 6.29)                                                  | 141                                                                  | 6.84                                                                 | 4.95 e (3.08, 6.81)                                                  |
+| Dupilumab 100 mg Q2W (<30 kg)/ 200 mg Q2W                            | 229                                                                  | 5.67                                                                 | 3.73 e (2.25, 5.21)                                                  | 168                                                                  | 6.10                                                                 | 4.63 e (2.97, 6.29)                                                  | 141                                                                  | 6.84                                                                 | 4.95 e (3.08, 6.81)                                                  |
 | Placebo                                                              | 110                                                                  | 1.94                                                                 |                                                                      | 80                                                                   | 1.47                                                                 |                                                                      | 62                                                                   | 1.89                                                                 |                                                                      |
-| ACQ-7-IA at week 24 a                                                | ACQ-7-IA at week 24 a                                                | ACQ-7-IA at week 24 a                                                | ACQ-7-IA at week 24 a                                                | ACQ-7-IA at week 24 a                                                | ACQ-7-IA at week 24 a                                                | ACQ-7-IA at week 24 a                                                |                                                                      |                                                                      |                                                                      |
+| ACQ-7-IA at week 24 a                                                | ACQ-7-IA at week 24 a                                                | ACQ-7-IA at week 24 a                                                | ACQ-7-IA at week 24 a                                                | ACQ-7-IA at week 24 a                                                | ACQ-7-IA at week 24 a                                                | ACQ-7-IA at week 24 a                                                | ACQ-7-IA at week 24 a                                                | ACQ-7-IA at week 24 a                                                | ACQ-7-IA at week 24 a                                                |
 |                                                                      | N                                                                    | Responder rate%                                                      | OR vs. placebo (95% CI)                                              | N                                                                    | Responder rate%                                                      | OR vs. placebo (95% CI)                                              | N                                                                    | Responder rate%                                                      | OR vs. placebo (95% CI)                                              |
 | Dupilumab 100 mg Q2W (<30 kg)/                                       | 236                                                                  | 79.2                                                                 | 1.82 g (1.02, 3.24)                                                  | 175                                                                  | 80.6                                                                 | 2.79 f (1.43, 5.44)                                                  | 141                                                                  | 80.9                                                                 | 2.60 g (1.21, 5.59)                                                  |
 
@@ -3658,11 +3702,11 @@ cells/mcl or FeNO ≥ 20 ppb
 
 16
 
-y 14
+у 14
 
 12
 
-10|
+10
 
 8
 
@@ -3670,29 +3714,33 @@ y 14
 
 4
 
+2
+
 LS Mean Change ppFEV1 +/-
 
-- dupilumab (N=236)
+· dupilumab (N=236)
 
-- Placebo (N=114)
+-e Placebo (N=114)
 
 8
 
 16
 
-$ 14
+4 14
 
 ·12
 
-10
+LS Mean Change ppFEV1
 
-TT
+10
 
 8
 
 16
 
-y 14
+щ 14
+
+·12
 
 10
 
@@ -3700,11 +3748,15 @@ y 14
 |----------------------------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
 | Placebo                                            | 114                      | 69.3                     |                          | 84                       | 64.3                     |                          | 62                       | 66.1                     |                          |
 | PAQLQ(S)-IA at week 24 a                           | PAQLQ(S)-IA at week 24 a | PAQLQ(S)-IA at week 24 a | PAQLQ(S)-IA at week 24 a | PAQLQ(S)-IA at week 24 a | PAQLQ(S)-IA at week 24 a | PAQLQ(S)-IA at week 24 a | PAQLQ(S)-IA at week 24 a | PAQLQ(S)-IA at week 24 a | PAQLQ(S)-IA at week 24 a |
-|                                                    | N                        | Responder rate%          | OR vs. placebo (95% CI)  | N                        | Responder rate%          | OR vs. placebo (95% CI)  | N                        | Responder rate%          | OR vs. placebo (95% CI)  |
+|                                                    | N                        | Responder rate%          | OR vs. placebo (95% CI)  | N                        | Responder rate%          | ORvs. placebo (95% CI)   | N                        | Responder rate%          | ORvs. placebo (95% CI)   |
 | Dupilumab 100 mg Q2W (<30 kg)/ 200 mg Q2W (≥30 kg) | 211                      | 73.0                     | 1.57 (0.87, 2.84)        | 158                      | 72.8                     | 1.84 (0.92, 3.65)        | 131                      | 75.6                     | 2.09 (0.95, 4.61)        |
 | Placebo                                            | 107                      | 65.4                     |                          | 81                       | 63.0                     |                          | 61                       | 67.2                     |                          |
 
-a the responder rate was defined as an improvement in score of 0.5 or more (scale range 0-6 for ACQ-7-IA and 1-7 for PAQLQ(S)) b p-value &lt; 0.0001;  c p-value &lt; 0.001, d p-value &lt; 0.01 (all statistically significant vs placebo with adjustment for multiplicity); e nominal p-value &lt; 0.0001,  f nominal p-value &lt; 0.01,  g nominal p-value &lt; 0.05
+a the responder rate was defined as an improvement in score of 0.5 or more (scale range 0-6 for ACQ-7-IA and 1-7 for PAQLQ(S))
+
+b p-value &lt; 0.0001;  c p-value &lt; 0.001, d p-value &lt; 0.01 (all statistically significant vs placebo with adjustment for multiplicity);
+
+e nominal p-value &lt; 0.0001,  f nominal p-value &lt; 0.01,  g nominal p-value &lt; 0.05
 
 Significant improvements in percent predicted FEV1 were observed as early as week 2 and were maintained through week 52 in VOYAGE study.
 
@@ -3724,19 +3776,17 @@ Long-term extension study (EXCURSION)
 
 LS Mean Change ppFEV1
 
-LS Mean Change ppFEV1
-
 ≥ 300 cells/mcL
 
 dupilumab (N=175)
 
-= Placebo (N-84)
+* Placebo (N-84)
 
 FeNO ≥ 20 ppb
 
-· dupilumab (N=141) |
+· dupilumab (N=141)|
 
--e Placebo (N=62)|
+-e Placebo (N=62)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3828,39 +3878,27 @@ The results for primary and secondary endpoints in CUPID Study A and Study C are
 
 UAS7 LS mean change +/- SE
 
-0
-
 -5
 
 -10
 
--20
+-15 -
 
--25-
+-20 -
+
+-25 -
 
 BL
 
--·- Dupilumab (N=70)
+· Dupilumab (N=70)
 
----s -- Placebo (N=68)
+---4 -- Placebo (N=68)
 
-*p-value &lt;0.05
-
-0
+*p-value &lt; 0.05
 
 -5
 
 -10 -
-
-· · -- Dupilumab (N=74)
-
--4 Placebo (N=77)
-
-*p-value &lt;0.05
-
--11.21
-
-NIILi
 
 Table 23: Results of the Primary and Secondary Endpoints in CUPID Study A and Study C
 
@@ -3893,6 +3931,14 @@ Similar improvement in HSS7 and ISS7 was observed over 24 weeks.
 ## Atopic dermatitis
 
 The safety and efficacy of dupilumab have been established in paediatric patients 6 months of age and older with atopic dermatitis. Use of dupilumab in this age group is supported by study AD-1526 which included 251 adolescents aged 12 to 17 years old with moderate-to-severe atopic dermatitis, in study
+
+·· -- Dupilumab (N=74)
+
+-4 Placebo (N=77)
+
+*p-value &lt; 0.05
+
+-11.21
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4154,7 +4200,11 @@ REGENERON PHARMACEUTICALS INC. 81 Columbia Turnpike RENSSELAER NEW YORK 12144 UN
 
 Regeneron Ireland Designated Activity Company (DAC) Ballycummin Raheen Business Park Limerick Ireland
 
-Genzyme Flanders Cipalstraat 8, B-2440 Geel Belgium
+Genzyme Flanders
+
+Cipalstraat 8, B-2440 Geel Belgium
+
+BioAtrium AG Lonzastrasse 3930 Visp Switzerland
 
 Name and address of the manufacturers responsible for batch release
 
@@ -4170,23 +4220,21 @@ The printed package leaflet of the medicinal product must state the name and add
 
 Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
 
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
-## · Periodic safety update reports (PSURs)
-
-The requirements for submission of PSURs for this medicinal product are set out in the list of
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING
 
 <div style=\"page-break-after: always\"></div>
 
-Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+## AUTHORISATION
+
+## · Periodic safety update reports (PSURs)
+
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
 
-The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
-
-An updated RMP should be submitted:
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP. An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
@@ -4295,7 +4343,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -4307,8 +4355,8 @@ Dupixent 300 mg syringe
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -4416,8 +4464,8 @@ Dupixent 300 mg syringe
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -4525,8 +4573,8 @@ Dupixent 300 mg syringe
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4544,7 +4592,7 @@ Subcutaneous use
 
 ## 2. METHOD OF ADMINISTRATION
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -4673,8 +4721,8 @@ Dupixent 300 mg pen
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -4768,7 +4816,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -4780,8 +4828,8 @@ Dupixent 300 mg pen
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC: SN: NN:
 
@@ -4807,7 +4855,7 @@ Excipients: L-Arginine monohydrochloride, L-Histidine, L-Histidine monohydrochlo
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 3 pre-filled pens
 
@@ -4891,27 +4939,25 @@ Dupixent 300 mg pen
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL                                                            |
-| Pre-filled pen 300 mg                                            |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL                                                              |
+| Pre-filled pen 300 mg                                              |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
-Dupixent 300 mg injection dupilumab
+Dupixent 300 mg injection dupilumab Subcutaneous use
 
-Subcutaneous use
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 2. METHOD OF ADMINISTRATION
-
-[QR code to be included]
-
-dupixent.eu
+[QR code to be included] dupixent.eu
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -4923,7 +4969,8 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 300 mg/2 mL
 
@@ -5036,8 +5083,8 @@ Dupixent 200 mg syringe
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -5143,8 +5190,8 @@ Dupixent 200 mg syringe
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -5252,32 +5299,36 @@ Dupixent 200 mg syringe
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL                                                              |
+| Pre-filled syringe with needle shield 200 mg                       |
 
-LABEL
-
-Pre-filled syringe with needle shield 200 mg
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Dupixent 200 mg injection dupilumab Subcutaneous use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 200 mg/1.14 mL
 
@@ -5397,8 +5448,8 @@ Dupixent 200 mg pen
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -5506,8 +5557,8 @@ Dupixent 200 mg pen
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC: SN: NN:
 
@@ -5563,11 +5614,9 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-<div style=\"page-break-after: always\"></div>
-
-EXP
-
 Date of removal from the refrigerator:   /  /  /
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -5617,17 +5666,18 @@ Dupixent 200 mg pen
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL                                                            |
-| Pre-filled pen 200 mg                                            |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL                                                              |
+| Pre-filled pen 200 mg                                              |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Dupixent 200 mg injection dupilumab
 
@@ -5639,11 +5689,13 @@ Subcutaneous use
 
 dupixent.eu
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -5848,9 +5900,7 @@ The recommended dose of Dupixent for children 6 months to 5 years of age with at
 | 5 kg to less than 15 kg  | 200 mg (one 200 mg injection) | 200 mg every 4 weeks |
 | 15 kg to less than 30 kg | 300 mg (one 300 mg injection) | 300 mg every 4 weeks |
 
-## Recommended dose in adult and adolescent patients with asthma (12 years of age and older)
-
-For patients with severe asthma and who are on oral corticosteroids or for patients with severe asthma and co-morbid moderate-to-severe atopic dermatitis or adults with co-morbid severe chronic rhinosinusitis with nasal polyposis, the recommended dose of Dupixent is:
+Recommended dose in adult and adolescent patients with asthma (12 years of age and older) For patients with severe asthma and who are on oral corticosteroids or for patients with severe asthma and co-morbid moderate-to-severe atopic dermatitis or adults with co-morbid severe chronic rhinosinusitis with nasal polyposis, the recommended dose of Dupixent is:
 
 - An initial dose of 600 mg (two 300 mg injections)
 - Followed by 300 mg given every other week administered as subcutaneous injection.
@@ -5872,9 +5922,7 @@ The recommended dose of Dupixent for children (6 to 11 years of age) with asthma
 
 For patients 6 to 11 years old with asthma and coexisting severe atopic dermatitis, your doctor will decide which dose of Dupixent is right for you.
 
-## Recommended dose in adults with chronic rhinosinusitis with nasal polyposis (CRSwNP)
-
-In CRSwNP, the recommended first dose of Dupixent is 300 mg followed by 300 mg given every two weeks by subcutaneous injection.
+Recommended dose in adults with chronic rhinosinusitis with nasal polyposis (CRSwNP) In CRSwNP, the recommended first dose of Dupixent is 300 mg followed by 300 mg given every two weeks by subcutaneous injection.
 
 ## Recommended dose in adults with prurigo nodularis (PN)
 
@@ -5883,9 +5931,7 @@ For patients with prurigo nodularis, the recommended dose of Dupixent is:
 - An initial dose of 600 mg (two 300 mg injections)
 - Followed by 300 mg given every other week by subcutaneous injection.
 
-Recommended dose in adults, adolescents and children (1 year of age and older ) with eosinophilic
-
-## esophagitis (EoE)
+Recommended dose in adults, adolescents and children (1 year of age and older ) with eosinophilic esophagitis (EoE)
 
 | Body Weight   | Dose                    |
 |---------------|-------------------------|
@@ -5903,7 +5949,7 @@ In COPD, the recommended dose of Dupixent is 300 mg given every other week by su
 
 The recommended dose of Dupixent for adult patients is an initial dose of 600 mg (two 300 mg injections), followed by 300 mg given every other week.
 
-## Recommended dose in children and adolescents 6 to 17 years with chronic spontaneous urticaria (CSU):
+Recommended dose in children and adolescents 6 to 17 years with chronic spontaneous urticaria (CSU):
 
 The recommended dose of Dupixent for children and adolescents (6 to 17 years of age) with chronic spontaneous urticaria is based on body weight:*
 
@@ -6045,9 +6091,9 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder:
 
-Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly
+Sanofi Winthrop Industrie
 
-France
+82 avenue Raspail 94250 Gentilly France
 
 ## Manufacturer:
 
@@ -6067,9 +6113,7 @@ Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
 
 ## България
 
-Swixx Biopharma EOOD
-
-Тел .: +359 (0)2 4942 480
+Swixx Biopharma EOOD Тел .: +359 (0)2 4942 480
 
 ## Česká republika
 
@@ -6121,7 +6165,9 @@ Swixx Biopharma UAB Tel: +370 5 236 91 40
 
 ## Luxembourg/Luxemburg
 
-Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
 
 ## Magyarország
 
@@ -6149,7 +6195,9 @@ sanofi-aventis GmbH Tel: +43 1 80 185 - 0
 
 ## Polska
 
-Sanofi Sp. z o.o. Tel.: +48 22 280 00 00
+Sanofi Sp. z o.o.
+
+Tel.: +48 22 280 00 00
 
 ## Portugal
 
@@ -6215,7 +6263,7 @@ Before Use
 
 Label
 
-DUPINENT
+DURINENT
 
 Plunger
 
@@ -6293,7 +6341,7 @@ Do not place the syringe into direct sunlight.
 
 ## Step 1: Remove
 
-BUNSSA
+3LNS8A
 
 Remove the syringe from the carton by holding the middle of the syringe body.
 
@@ -6349,11 +6397,13 @@ Do not warm the syrir particles.
 
 Note: You may see an air bubble; this is normal.
 
-<!-- image -->
+Viewing Window
 
 Do not use the syringe if the liquid is discoloured or cloudy, or if it contains flakes or particles.
 
 Step 4: Wait 45 minutes
+
+<!-- image -->
 
 <!-- image -->
 
@@ -6385,15 +6435,13 @@ Do not inject into skin that is tender, damaged or has bruises or scars.
 
 <div style=\"page-break-after: always\"></div>
 
-D
-
 Do not touch the injection
 
 D
 
 - Self-injection or by caregiver
 
--Injection by caregiver only
+- Injection by caregiver only
 
 Step 6: Clean
 
@@ -6459,7 +6507,7 @@ Push the plunger rod down slowly and steadily as far as it will go until the syr
 
 Note: You will feel some resistance. This is normal.
 
-Mtan 11. Polanca and Pamova
+Mtan 11. Dolanca ond Damara
 
 Step 11: Release and Remove
 
@@ -6719,9 +6767,7 @@ The recommended dose of Dupixent for children (6 to 11 years of age) with asthma
 
 For patients 6 to 11 years old with asthma and coexisting severe atopic dermatitis, your doctor will decide which dose of Dupixent is right for you.
 
-## Recommended dose in adults with chronic rhinosinusitis with nasal polyposis (CRSwNP)
-
-In CRSwNP, the recommended first dose of Dupixent is 300 mg followed by 300 mg given every two weeks by subcutaneous injection.
+Recommended dose in adults with chronic rhinosinusitis with nasal polyposis (CRSwNP) In CRSwNP, the recommended first dose of Dupixent is 300 mg followed by 300 mg given every two weeks by subcutaneous injection.
 
 ## Recommended dose in adults with prurigo nodularis (PN)
 
@@ -6853,7 +6899,9 @@ Rare (may affect up to 1 in 1 000 people):
 
 ## Additional side effects in children 6 to 11 years old with asthma
 
-Common: pinworms (enterobiasis)
+Common:
+
+pinworms (enterobiasis)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6907,9 +6955,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00
+Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
 
 ## Lietuva
 
@@ -6921,9 +6967,7 @@ Swixx Biopharma EOOD Тел .: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
 
 ## Česká republika
 
@@ -6983,11 +7027,7 @@ Sanofi-Aventis Μονοπρόσωπη AEBE Τηλ : +30 210 900 16 00
 
 sanofi-aventis GmbH
 
-Tel: +43 1 80 185
-
--
-
-0
+Tel: +43 1 80 185 - 0
 
 ## España
 
@@ -7163,21 +7203,19 @@ Green Cap
 
 Note: 1
 
-D
+· D
 
 Do
 
-A
-
 D
 
-· D
+D
 
 Look at the Label
 
 Expiry Date
 
-Ensure you have the following: XXxXX
+Ensure you have the following: XXXX
 
 - the Dupixent pre-filled pen
 - 1 alcohol wipe*
@@ -7219,21 +7257,25 @@ Do not use the pre-filled pen if the liquid is discolored or cloudy, or if it co
 
 <!-- image -->
 
-Do not use the pre-filled pen if the window is yellow.
+Do not use the pre-filled pen
+
+- if the window is yellow.
 
 <div style=\"page-break-after: always\"></div>
 
 Choc
 
-· D
-
-A
+D
 
 A Do not warm the pre-fille
 
-A Do not keep Dupixent at i
+D
 
-A Do not put the pre-filled 1
+A
+
+A Do not keep Dupixent at
+
+A Do not put the pre-filled I
 
 Check -
 
@@ -7283,7 +7325,344 @@ Do not inject into skin that is tender, damaged, bruised or scarred.
 
 <div style=\"page-break-after: always\"></div>
 
-· Let your skın dry before 1
+· Let your skın dry before il
+
+D
+
+Do not touch the injection s
+
+Injection by caregiver only
+
+Self-injection or by caregiver
+
+I Self-injection or by caregiver
+
+Injection by caregiver only
+
+<!-- image -->
+
+## B2. Wash your hands
+
+<!-- image -->
+
+## B3. Prepare the injection site
+
+- Clean the injection site with an alcohol wipe.
+- Let your skin dry before injecting.
+
+Do not touch the injection site again or blow on it before the injection.
+
+<!-- image -->
+
+<!-- image -->
+
+## C. Give injection
+
+## C1. Remove green cap
+
+Pull the green cap straight off
+
+Do not twist the green cap off.
+
+Do not remove the green cap until you are ready to inject.
+
+Do not press or touch the yellow needle cover with your fingers. The needle is inside.
+
+<!-- image -->
+
+Do not put the green cap back on the pre-filled pen after you have removed it.
+
+<div style=\"page-break-after: always\"></div>
+
+Do not press or touch the yellow straight off.
+
+Look
+
+Pull the Green Cap
+
+Needle inside at the
+
+Window
+
+Pinch Skin
+
+<!-- image -->
+
+## C2. Pinch skin and Place
+
+- Pinch the skin before and during the injection.
+- Pinching is not needed for adults and children aged 12 years and older.
+- When placing the yellow needle cover on your skin, hold the pre-filled pen so that you can see the window.
+- Place the yellow needle cover on your skin at approximately a 90-degree angle.
+
+Do not press or touch the yellow needle cover with your fingers. The needle is inside.
+
+<!-- image -->
+
+<!-- image -->
+
+## C3. Press down
+
+Press the pre-filled pen firmly against your skin until you cannot see the yellow needle cover, and hold.
+
+- There will be a 'click' when the injection starts.
+- The window will start to turn yellow.
+
+The injection can take up to 20 seconds.
+
+<div style=\"page-break-after: always\"></div>
+
+·
+
+D
+
+FIRST
+
+Check
+
+CLICK
+
+Yellow -
+
+Window
+
+Do not give yourself a second dose wi
+
+Correct
+
+<!-- image -->
+
+Pinching of the skin is not needed for adults and children aged 12 years and older.
+
+## C4. Hold firmly
+
+Keep holding the pre-filled pen firmly against your skin.
+
+- You may hear a second click.
+- Check that the entire window has turned to yellow.
+- Then slowly count to 5.
+- Then lift the pen up off the skin, your injection is complete.
+
+If the window does not turn completely yellow, remove the pen and call your healthcare provider.
+
+<!-- image -->
+
+- Do not give yourself a second dose without speaking to your healthcare provider.
+
+<!-- image -->
+
+Pinching of the skin is not needed for adults and children aged 12 years and older.
+
+## C5. Remove
+
+- After you have completed your injection pull straight up to remove pre-filled pen from the skin and dispose of immediately as described in section D.
+- If you see any blood at the site, lightly dab a cotton ball or gauze pad.
+- Do not rub your skin after the injection.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+D
+
+Pre-filled Pen
+
+<!-- image -->
+
+## D. Dispose
+
+- Dispose of the pre-filled pens, (needle inside), and green caps in a puncture resistant container right away after use.
+
+Do not dispose of (throw away) pre-filled pens (needle inside), and green caps in your household trash.
+
+<!-- image -->
+
+## Do not put the green cap back on.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+Before Injection
+
+Window
+
+After Injection
+
+Yellow Window - Injection Complete
+
+## Dupixent 300 mg solution for injection in a pre-filled pen
+
+Dupilumab 80 mg/ 3 met
+
+## Instructions for use
+
+Label green Car
+
+Removed
+
+Neel insele cover
+
+The parts of the Dupixent pre-filled pen are shown in this picture.
+
+<!-- image -->
+
+## Important information
+
+This device is a single-use pre-filled pen. It contains 300 mg of Dupixent for injection under the skin (subcutaneous injection).
+
+You must not try to give yourself or someone else the injection unless you have received training from your healthcare professional. In adolescents 12 years and older, it is recommended that Dupixent is administered by or under supervision of an adult. In children less than 12 years of age, Dupixent should be given by a caregiver. The Dupixent pre-filled pen is only for use in adults and children aged 2 years and older.
+
+- Read all of the instructions carefully before using the pre-filled pen.
+- Ask your healthcare professional how often you will need to inject the medicine.
+- Choose a different injection site for each injection.
+- Do not use the pre-filled pen if it has been damaged.
+- Do not use the pre-filled pen if the green cap is missing or not securely attached.
+- Do not press or touch the yellow needle cover with your fingers.
+- Do not inject through clothes.
+- Do not remove the green cap until just before you give the injection.
+- Do not try to put the green cap back on the pre-filled pen.
+- Do not re-use the pre-filled pen.
+
+## How to Store Dupixent
+
+- Keep the pre-filled pen(s) and all medicines out of the reach of children.
+- Keep unused pre-filled pens in the original carton and store in the refrigerator between 2ºC and 8ºC.
+- Store pre-filled pens in the original carton to protect it from light.
+- Do not keep pre-filled pens at room temperature (&lt;25ºC) for more than 14 days. If you need to permanently remove the carton from the refrigerator, write down the date of removal in the space provided on the outer carton, and use Dupixent within 14 days.
+- Do not shake the pre-filled pen at any time.
+- Do not heat the pre-filled pen.
+- Do not freeze the pre-filled pen.
+- Do not place the pre-filled pen into direct sunlight.
+
+## A: Prepare
+
+## A1. Gather supplies
+
+DUPIXENT
+
+100 гeg/2 rel
+
+Green Cap
+
+<div style=\"page-break-after: always\"></div>
+
+D
+
+D
+
+Look at the Label
+
+· Do not use the pre-filled pen if the expiration d
+
+¡Dupı
+
+Ensure you have the following:
+
+- the Dupixent pre-filled pen
+- 1 alcohol wipe*
+- 1 cotton ball or gauze*
+- a puncture-resistant container* (See Step D)
+
+*Items not included in the carton
+
+## A2. Look at the label
+
+- Confirm that you have the correct product and dose.
+
+<!-- image -->
+
+## A3. Check expiration date
+
+- Check the expiration date.
+- Do not use the pre-filled pen if the expiration date has passed.
+
+<!-- image -->
+
+<!-- image -->
+
+Do not keep Dupixent at room temperature for more than 14 days.
+
+<!-- image -->
+
+## A4. Check the medicine
+
+Look at the medicine through the window on the pre-filled pen.
+
+Check if the liquid is clear and colourless to pale yellow.
+
+Note: You may see an air bubble; this is normal.
+
+<!-- image -->
+
+Do not use the pre-filled pen flakes or particles.
+
+<!-- image -->
+
+- if the liquid is discolored or cloudy, or if it contains visible
+
+Do not use the pre-filled pen if the window is yellow.
+
+<div style=\"page-break-after: always\"></div>
+
+D
+
+A Do not warm the pre-fille
+
+D
+
+A Do not put the pre-filled i
+
+A Do not keep Dupixent at
+
+Check
+
+Window
+
+45
+
+minutes
+
+<!-- image -->
+
+## A5: Wait 45 minutes
+
+Lay the pre-filled pen on a flat surface and let it naturally warm up at room temperature (less than 25ºC) for at least 45 minutes.
+
+<!-- image -->
+
+Do not warm the pre-filled pen in a microwave, hot water, or direct sunlight.
+
+<!-- image -->
+
+<!-- image -->
+
+Do not put the pre-filled pen into direct sunlight.
+
+Do not keep Dupixent at room temperature for more
+
+<!-- image -->
+
+## B. Choose your injection site
+
+## B1. Recommended injection sites are:
+
+- Thigh
+- Stomach except for the 5 cm around your belly button (navel).
+- Upper Arm If a caregiver gives your dose, they can also use the outer area of the upper arm.
+
+Choose a different injection site for each Dupixent injection.
+
+<!-- image -->
+
+<!-- image -->
+
+Do not inject through clothes.
+
+- Do not inject into skin that is tender, damaged, bruised or scarred.
+- than 14 days.
+
+<div style=\"page-break-after: always\"></div>
 
 D
 
@@ -7330,342 +7709,7 @@ Do not put the green cap back on the pre-filled pen after you have removed it.
 
 <div style=\"page-break-after: always\"></div>
 
-· Do not press or touch the yellow straight off.
-
-Pull the Green Cap
-
-Needle inside
-
-<!-- image -->
-
-Look at the
-
-Window
-
-Pinch Skin
-
-## C2. Pinch skin and Place
-
-- Pinch the skin before and during the injection.
-- Pinching is not needed for adults and children aged 12 years and older.
-- When placing the yellow needle cover on your skin, hold the pre-filled pen so that you can see the window.
-- Place the yellow needle cover on your skin at approximately a 90-degree angle.
-
-Do not press or touch the yellow needle cover with your fingers. The needle is inside.
-
-<!-- image -->
-
-<!-- image -->
-
-## C3. Press down
-
-Press the pre-filled pen firmly against your skin until you cannot see the yellow needle cover, and hold.
-
-- There will be a 'click' when the injection starts.
-- The window will start to turn yellow.
-
-The injection can take up to 20 seconds.
-
-<div style=\"page-break-after: always\"></div>
-
-·
-
-D
-
-FIRST
-
-Check
-
-CLICK
-
-Yellow ·
-
-Window
-
-· Do not give yourself a second dose wi
-
-Correct
-
-<!-- image -->
-
-Pinching of the skin is not needed for adults and children aged 12 years and older.
-
-## C4. Hold firmly
-
-Keep holding the pre-filled pen firmly against your skin.
-
-- You may hear a second click.
-- Check that the entire window has turned to yellow.
-- Then slowly count to 5.
-- Then lift the pen up off the skin, your injection is complete.
-
-If the window does not turn completely yellow, remove the pen and call your healthcare provider.
-
-<!-- image -->
-
-Do not give yourself a second dose without speaking to your healthcare provider.
-
-<!-- image -->
-
-Pinching of the skin is not needed for adults and children aged 12 years and older.
-
-## C5. Remove
-
-- After you have completed your injection pull straight up to remove pre-filled pen from the skin and dispose of immediately as described in section D.
-- If you see any blood at the site, lightly dab a cotton ball or gauze pad.
-
-Do not rub your skin after the injection.
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-D
-
-Pre-filled Pen
-
-<!-- image -->
-
-## D. Dispose
-
-- Dispose of the pre-filled pens, (needle inside), and green caps in a puncture resistant container right away after use.
-
-Do not dispose of (throw away) pre-filled pens (needle inside), and green caps in your household trash.
-
-<!-- image -->
-
-## Do not put the green cap back on.
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-Before Injection
-
-Window
-
-After Injection
-
-Yellow Window - Injection Complete
-
-## Dupixent 300 mg solution for injection in a pre-filled pen
-
-Dupilumab 00 mg/ 3 m4
-
-## Instructions for use
-
-DUPIXENT
-
-00 mg /2 mal
-
-Green Cap areen cap
-
-(Removed ellow Needle Cove
-
-Veedle inside
-
-The parts of the Dupixent pre-filled pen are shown in this picture.
-
-<!-- image -->
-
-## Important information
-
-This device is a single-use pre-filled pen. It contains 300 mg of Dupixent for injection under the skin (subcutaneous injection).
-
-You must not try to give yourself or someone else the injection unless you have received training from your healthcare professional. In adolescents 12 years and older, it is recommended that Dupixent is administered by or under supervision of an adult. In children less than 12 years of age, Dupixent should be given by a caregiver. The Dupixent pre-filled pen is only for use in adults and children aged 2 years and older.
-
-- Read all of the instructions carefully before using the pre-filled pen.
-- Ask your healthcare professional how often you will need to inject the medicine.
-- Choose a different injection site for each injection.
-- Do not use the pre-filled pen if it has been damaged.
-- Do not use the pre-filled pen if the green cap is missing or not securely attached.
-- Do not press or touch the yellow needle cover with your fingers.
-- Do not inject through clothes.
-- Do not remove the green cap until just before you give the injection.
-- Do not try to put the green cap back on the pre-filled pen.
-- Do not re-use the pre-filled pen.
-
-## How to Store Dupixent
-
-- Keep the pre-filled pen(s) and all medicines out of the reach of children.
-- Keep unused pre-filled pens in the original carton and store in the refrigerator between 2ºC and 8ºC.
-- Store pre-filled pens in the original carton to protect it from light.
-- Do not keep pre-filled pens at room temperature (&lt;25ºC) for more than 14 days. If you need to permanently remove the carton from the refrigerator, write down the date of removal in the space provided on the outer carton, and use Dupixent within 14 days.
-- Do not shake the pre-filled pen at any time.
-- Do not heat the pre-filled pen.
-- Do not freeze the pre-filled pen.
-- Do not place the pre-filled pen into direct sunlight.
-
-## A: Prepare
-
-## A1. Gather supplies
-
-<div style=\"page-break-after: always\"></div>
-
-D
-
-D
-
-Look at the Label
-
-· Do not use the pre-filled pen if the expiration d
-
-[Dup
-
-Ensure you have the following:
-
-- the Dupixent pre-filled pen
-- 1 alcohol wipe*
-- 1 cotton ball or gauze*
-- a puncture-resistant container* (See Step D)
-
-*Items not included in the carton
-
-## A2. Look at the label
-
-- Confirm that you have the correct product and dose.
-
-<!-- image -->
-
-## A3. Check expiration date
-
-- Check the expiration date.
-
-<!-- image -->
-
-Do not use the pre-filled pen if the expiration date has passed.
-
-<!-- image -->
-
-Do not keep Dupixent at room temperature for more than 14 days.
-
-<!-- image -->
-
-## A4. Check the medicine
-
-Look at the medicine through the window on the pre-filled pen.
-
-Check if the liquid is clear and colourless to pale yellow.
-
-Note: You may see an air bubble; this is normal.
-
-<!-- image -->
-
-Do not use the pre-filled pen flakes or particles.
-
-<!-- image -->
-
-- if the liquid is discolored or cloudy, or if it contains visible
-
-Do not use the pre-filled pen if the window is yellow.
-
-<div style=\"page-break-after: always\"></div>
-
-D
-
-A Do not warm the pre-fille
-
-D
-
-A Do not put the pre-filled 1
-
-A Do not keep Dupixent at
-
-Check
-
-Window
-
-45
-
-minutes
-
-<!-- image -->
-
-## A5: Wait 45 minutes
-
-Lay the pre-filled pen on a flat surface and let it naturally warm up at room temperature (less than 25ºC) for at least 45 minutes.
-
-<!-- image -->
-
-Do not warm the pre-filled pen in a microwave, hot water, or direct sunlight.
-
-<!-- image -->
-
-<!-- image -->
-
-Do not put the pre-filled pen into direct sunlight.
-
-- Do not keep Dupixent at room temperature for more
-
-<!-- image -->
-
-## B. Choose your injection site
-
-## B1. Recommended injection sites are:
-
-- Thigh
-- Stomach except for the 5 cm around your belly button (navel).
-- Upper Arm If a caregiver gives your dose, they can also use the outer area of the upper arm.
-
-Choose a different injection site for each Dupixent injection.
-
-<!-- image -->
-
-<!-- image -->
-
-Do not inject through clothes.
-
-- Do not inject into skin that is tender, damaged, bruised or scarred.
-
-than 14 days.
-
-<div style=\"page-break-after: always\"></div>
-
-D
-
-Do not touch the injection s
-
-Injection by caregiver only
-
-Self-injection or by caregiver
-
-I Self-injection or by caregiver
-
-Injection by caregiver only
-
-<!-- image -->
-
-## B2. Wash your hands
-
-<!-- image -->
-
-## B3. Prepare the injection site
-
-- Clean the injection site with an alcohol wipe.
-- Let your skin dry before injecting.
-- Do not touch the injection site again or blow on it before the injection.
-
-<!-- image -->
-
-<!-- image -->
-
-## C. Give injection C1. Remove green cap
-
-Pull the green cap straight off
-
-Do not twist the green cap off.
-
-Do not remove the green cap until you are ready to inject.
-
-Do not press or touch the yellow needle cover with your fingers. The needle is inside.
-
-<!-- image -->
-
-Do not put the green cap back on the pre-filled pen after you have removed it.
-
-<div style=\"page-break-after: always\"></div>
-
-Do not press or touch the yellow ne straight off.
+\" Do not press or touch the yellow no straight off.
 
 Pull the Green Cap
 
@@ -7705,13 +7749,7 @@ I D
 
 ·
 
-Do not give yourself a second d
-
-Correct
-
-<!-- image -->
-
-CLICK
+D
 
 FIRST
 
@@ -7719,9 +7757,17 @@ Check
 
 Yellow
 
+CLICK
+
 Window
 
-Dinshine oftha din ic ant moodad for odulta.
+Dinchina of the drin ic ant nooded for adulta
+
+Do not give yourself a second d
+
+Correct
+
+<!-- image -->
 
 Pinching of the skin is not needed for adults and children aged 12 years and older.
 
@@ -7945,7 +7991,9 @@ The recommended dose of Dupixent for children 6 months to 5 years of age with at
 | 5 kg to less than 15 kg  | 200 mg (one 200 mg injection) | 200 mg every 4 weeks |
 | 15 kg to less than 30 kg | 300 mg (one 300 mg injection) | 300 mg every 4 weeks |
 
-Recommended dose in adult and adolescent patients with asthma (12 years of age and older) For most patients with severe asthma, the recommended dose of Dupixent is:
+## Recommended dose in adult and adolescent patients with asthma (12 years of age and older)
+
+For most patients with severe asthma, the recommended dose of Dupixent is:
 
 - An initial dose of 400 mg (two 200 mg injections)
 - Followed by 200 mg given every other week administered as subcutaneous injection.
@@ -7991,7 +8039,7 @@ The recommended dose of Dupixent for children and adolescents (6 to 17 years of 
 | 30 to less than 60 kg | 400 mg (two 200 mg injections)                                       | 200 mg every other week (Q2W)                                     |
 | 60 kg or more         | 600 mg (two 300 mg injections)                                       | 300 mg every other week (Q2W)                                     |
 
-## Recommended dose in children 2 to 5 years with chronic spontaneous urticaria (CSU):
+Recommended dose in children 2 to 5 years with chronic spontaneous urticaria (CSU):
 
 The recommended dose of Dupixent for children (2 to 5 years of age) with chronic spontaneous urticaria is based on body weight:
 
@@ -8204,15 +8252,11 @@ Sími: +354 535 7000
 
 ## Lietuva
 
-Swixx Biopharma UAB
-
-Tel: +370 5 236 91 40
+Swixx Biopharma UAB Tel: +370 5 236 91 40
 
 ## Luxembourg/Luxemburg
 
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
 
 ## Magyarország
 
@@ -8220,9 +8264,7 @@ SANOFI-AVENTIS Zrt. Tel.: +36 1 505 0050
 
 ## Malta
 
-Sanofi S.r.l.
-
-Tel: +39 02 39394275
+Sanofi S.r.l. Tel: +39 02 39394275
 
 ## Nederland
 
@@ -8354,9 +8396,9 @@ After Use
 
 <div style=\"page-break-after: always\"></div>
 
-Remove the syringe from the cal
-
 · Check that you have the cor
+
+Remove the syringe from the cal
 
 Do not pull off the needl
 
@@ -8393,7 +8435,7 @@ Ensure you have the following:
 
 *Items not included in the carton
 
-Look at the label:
+## Look at the label:
 
 - Check the expiry date.
 - Check that you have the correct product and dose.
@@ -8419,6 +8461,8 @@ Do not warm the syringe in a micr
 ## Step 3: Inspect
 
 Look at the medicine through the viewing window on the syringe:
+
+XXOC0Cx
 
 Check if the liquid is clear and colourless to pale yellow.
 
@@ -8468,7 +8512,7 @@ Do not touch the injection
 
 Do not inject into skin that is tender, damaged or has bruises or scars.
 
-- Self injection or by caregiver
+- Self-injection or by caregiver
 
 - Injection by caregiver only
 
@@ -8506,6 +8550,8 @@ D
 
 Inject your medicine immediately after removing the needle cap.
 
+otan O. Inaart
+
 Step 8: Pinch
 
 <!-- image -->
@@ -8534,7 +8580,7 @@ Push the plunger rod down slowly and steadily as far as it will go until the syr
 
 Note: You will feel some resistance. This is normal.
 
-ten 11· Release and Remove
+Sten 11. Release and Pemove
 
 Step 11: Release and Remove
 
@@ -8748,7 +8794,9 @@ The recommended dose of Dupixent for children 6 months to 5 years of age with at
 | 5 kg to less than 15 kg  | 200 mg (one 200 mg injection) | 200 mg every 4 weeks |
 | 15 kg to less than 30 kg | 300 mg (one 300 mg injection) | 300 mg every 4 weeks |
 
-## Recommended dose in adult and adolescent patients with asthma (12 years of age and older) For most patients with severe asthma, the recommended dose of Dupixent is:
+## Recommended dose in adult and adolescent patients with asthma (12 years of age and older)
+
+For most patients with severe asthma, the recommended dose of Dupixent is:
 
 - An initial dose of 400 mg (two 200 mg injections)
 - Followed by 200 mg given every other week administered as subcutaneous injection.
@@ -8891,7 +8939,9 @@ Common (may affect up to 1 in 10 people):
 
 ## Additional side effects in children 6 to 11 years old with asthma
 
-Common: pinworms (enterobiasis)
+Common:
+
+pinworms (enterobiasis)
 
 ## Reporting of side effects
 
@@ -8945,10 +8995,6 @@ For any information about this medicine, please contact the local representative
 
 Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
 
-## Lietuva
-
-Swixx Biopharma UAB Tel: +370 5 236 91 40
-
 ## България
 
 Swixx Biopharma EOOD
@@ -8957,35 +9003,17 @@ Swixx Biopharma EOOD
 
 .: +359 (0)2 4942 480
 
-## Luxembourg/Luxemburg
-
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
-
 ## Česká republika
 
 Sanofi s.r.o.
 
 Tel: +420 233 086 111
 
-## Magyarország
-
-SANOFI-AVENTIS Zrt.
-
-Tel.: +36 1 505 0050
-
 ## Danmark
 
 Sanofi A/S
 
 Tlf: +45 45 16 70 00
-
-## Malta
-
-Sanofi S.r.l.
-
-Tel: +39 02 39394275
 
 ## Deutschland
 
@@ -8994,6 +9022,30 @@ Sanofi-Aventis Deutschland GmbH
 Tel.: 0800 04 36 996
 
 Tel. aus dem Ausland: +49 69 305 70 13
+
+## Lietuva
+
+Swixx Biopharma UAB
+
+Tel: +370 5 236 91 40
+
+## Luxembourg/Luxemburg
+
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+
+## Magyarország
+
+SANOFI-AVENTIS Zrt.
+
+Tel.: +36 1 505 0050
+
+## Malta
+
+Sanofi S.r.l.
+
+Tel: +39 02 39394275
 
 ## Nederland
 
@@ -9207,7 +9259,7 @@ D
 
 D
 
-· D
+D
 
 Look at the Label
 
@@ -9216,8 +9268,6 @@ Expiry Date
 DUPIXENO
 
 200 mg/1.14 mL
-
-himitini
 
 Ensure you have the following:
 
@@ -9328,7 +9378,7 @@ Do not inject into skin that is tender, damaged, bruised or scarred.
 
 <div style=\"page-break-after: always\"></div>
 
-· Let your skın dry before 1l
+· Let your skin dry before i
 
 D
 
@@ -9476,7 +9526,7 @@ Do not dispose of (throw away) pre-filled pens (needle inside), and yellow caps 
 
 <!-- image -->
 
-## Do not put the yellow cap back on.
+Do not put the yellow cap back on.
 
 <!-- image -->
 
@@ -9542,10 +9592,6 @@ D
 
 D
 
-LT
-
-D
-
 Expiration Date
 
 Look at the Label
@@ -9575,7 +9621,7 @@ Do not use the pre-filled pen if the expiration date has passed.
 
 <!-- image -->
 
-- Do not keep Dupixent at room temperature for more than 14 days.
+Do not keep Dupixent at room temperature for more than 14 days.
 
 <!-- image -->
 
@@ -9593,9 +9639,10 @@ Do not use the pre-filled pen flakes or particles.
 
 <!-- image -->
 
-- if the liquid is discolored or cloudy, or if it contains visible
+Do not use the pre-filled pen
 
-Do not use the pre-filled pen if the window is yellow.
+- if the liquid is discolored or cloudy, or if it contains visible
+- if the window is yellow.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -9663,7 +9710,7 @@ B2. Wash your hand
 
 D
 
-Do not touch the injection si
+· Do not touch the injection si
 
 Injection by caregiver only
 
@@ -9746,8 +9793,6 @@ The injection can take up to 15 seconds.
 
 D
 
-D
-
 Check
 
 Yellow
@@ -9779,7 +9824,7 @@ If the window does not turn completely yellow, remove the pen and call your heal
 
 <!-- image -->
 
-Do not give yourself a second dose without speaking to your healthcare provider.
+- Do not give yourself a second dose without speaking to your healthcare provider.
 
 <!-- image -->
 

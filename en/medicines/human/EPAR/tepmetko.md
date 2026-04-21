@@ -1,32 +1,108 @@
 ---
-document_datetime: 2025-12-29 09:36:11
+document_datetime: 2026-04-17 15:34:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tepmetko.html
 document_name: tepmetko.html
 version: success
-processing_time: 0.1018348
-conversion_datetime: 2025-12-30 21:39:36.786993
+processing_time: 0.1052561
+conversion_datetime: 2026-04-21 14:48:08.549927
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Tepmetko
+
 # Tepmetko
 
 [RSS](/en/individual-human-medicine.xml/67527)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-tepotinib Medicine Human Authorised
+tepotinib
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -106,181 +182,137 @@ English (EN) (119.86 KB - PDF)
 
 [View](/en/documents/overview/tepmetko-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-377)
+[Other languages (22)](#file-language-dropdown-314)
 
 български (BG) (157.42 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/bg/documents/overview/tepmetko-epar-medicine-overview_bg.pdf)
 
 español (ES) (140.68 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/es/documents/overview/tepmetko-epar-medicine-overview_es.pdf)
 
 čeština (CS) (154.68 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/cs/documents/overview/tepmetko-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (130.87 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/da/documents/overview/tepmetko-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (153.86 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/de/documents/overview/tepmetko-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (136.95 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/et/documents/overview/tepmetko-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (173.75 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/el/documents/overview/tepmetko-epar-medicine-overview_el.pdf)
 
 français (FR) (133.36 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/fr/documents/overview/tepmetko-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (162.24 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/hr/documents/overview/tepmetko-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (131.26 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/it/documents/overview/tepmetko-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (160.21 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/lv/documents/overview/tepmetko-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (154.59 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/lt/documents/overview/tepmetko-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (153.88 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/hu/documents/overview/tepmetko-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (155.4 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/mt/documents/overview/tepmetko-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (130.81 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/nl/documents/overview/tepmetko-epar-medicine-overview_nl.pdf)
 
 polski (PL) (156.96 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/pl/documents/overview/tepmetko-epar-medicine-overview_pl.pdf)
 
 português (PT) (133.26 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/pt/documents/overview/tepmetko-epar-medicine-overview_pt.pdf)
 
 română (RO) (151.09 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/ro/documents/overview/tepmetko-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (153.84 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/sk/documents/overview/tepmetko-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (151.43 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/sl/documents/overview/tepmetko-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (128.7 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/fi/documents/overview/tepmetko-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (129.2 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/sv/documents/overview/tepmetko-epar-medicine-overview_sv.pdf)
 
@@ -296,305 +328,161 @@ English (EN) (160.31 KB - PDF)
 
 Tepmetko : EPAR - Product information
 
-English (EN) (265.29 KB - PDF)
+English (EN) (357.19 KB - PDF)
 
-**First published:** 05/05/2022
-
-**Last updated:** 21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/en/documents/product-information/tepmetko-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-244)
+[Other languages (24)](#file-language-dropdown-14)
 
-български (BG) (330.48 KB - PDF)
+български (BG) (832.19 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/bg/documents/product-information/tepmetko-epar-product-information_bg.pdf)
 
-español (ES) (253.64 KB - PDF)
+español (ES) (751.47 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/es/documents/product-information/tepmetko-epar-product-information_es.pdf)
 
-čeština (CS) (303.86 KB - PDF)
+čeština (CS) (932.13 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/cs/documents/product-information/tepmetko-epar-product-information_cs.pdf)
 
-dansk (DA) (248.65 KB - PDF)
+dansk (DA) (338.29 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/da/documents/product-information/tepmetko-epar-product-information_da.pdf)
 
-Deutsch (DE) (261.97 KB - PDF)
+Deutsch (DE) (786.46 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/de/documents/product-information/tepmetko-epar-product-information_de.pdf)
 
-eesti keel (ET) (208.48 KB - PDF)
+eesti keel (ET) (728.3 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/et/documents/product-information/tepmetko-epar-product-information_et.pdf)
 
-ελληνικά (EL) (332.07 KB - PDF)
+ελληνικά (EL) (779.89 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/el/documents/product-information/tepmetko-epar-product-information_el.pdf)
 
-français (FR) (269.29 KB - PDF)
+français (FR) (867.22 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/fr/documents/product-information/tepmetko-epar-product-information_fr.pdf)
 
-hrvatski (HR) (296.63 KB - PDF)
+hrvatski (HR) (829.72 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/hr/documents/product-information/tepmetko-epar-product-information_hr.pdf)
 
-íslenska (IS) (249.11 KB - PDF)
+íslenska (IS) (672.48 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/is/documents/product-information/tepmetko-epar-product-information_is.pdf)
 
-italiano (IT) (228.05 KB - PDF)
+italiano (IT) (798.02 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/it/documents/product-information/tepmetko-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (349.01 KB - PDF)
+latviešu valoda (LV) (393.7 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/lv/documents/product-information/tepmetko-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (352.98 KB - PDF)
+lietuvių kalba (LT) (821.68 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/lt/documents/product-information/tepmetko-epar-product-information_lt.pdf)
 
-magyar (HU) (355.55 KB - PDF)
+magyar (HU) (866.64 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/hu/documents/product-information/tepmetko-epar-product-information_hu.pdf)
 
-Malti (MT) (377.57 KB - PDF)
+Malti (MT) (1.03 MB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/mt/documents/product-information/tepmetko-epar-product-information_mt.pdf)
 
-Nederlands (NL) (249.97 KB - PDF)
+Nederlands (NL) (752.57 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/nl/documents/product-information/tepmetko-epar-product-information_nl.pdf)
 
-norsk (NO) (245.97 KB - PDF)
+norsk (NO) (726.8 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/no/documents/product-information/tepmetko-epar-product-information_no.pdf)
 
-polski (PL) (338.17 KB - PDF)
+polski (PL) (914.36 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/pl/documents/product-information/tepmetko-epar-product-information_pl.pdf)
 
-português (PT) (213.17 KB - PDF)
+português (PT) (737.95 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/pt/documents/product-information/tepmetko-epar-product-information_pt.pdf)
 
-română (RO) (311.22 KB - PDF)
+română (RO) (802.24 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/ro/documents/product-information/tepmetko-epar-product-information_ro.pdf)
 
-slovenčina (SK) (304.32 KB - PDF)
+slovenčina (SK) (921 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/sk/documents/product-information/tepmetko-epar-product-information_sk.pdf)
 
-slovenščina (SL) (292.14 KB - PDF)
+slovenščina (SL) (808.83 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/sl/documents/product-information/tepmetko-epar-product-information_sl.pdf)
 
-Suomi (FI) (249.23 KB - PDF)
+Suomi (FI) (807.36 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/fi/documents/product-information/tepmetko-epar-product-information_fi.pdf)
 
-svenska (SV) (247.46 KB - PDF)
+svenska (SV) (739.13 KB - PDF)
 
-**First published:**
-
-05/05/2022
-
-**Last updated:**
-
-21/05/2024
+**First published:** 05/05/2022 **Last updated:** 17/04/2026
 
 [View](/sv/documents/product-information/tepmetko-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0011 18/04/2024
+**Latest procedure affecting product information:** VR/0000337926
+
+17/04/2026
 
 icon globe
 
@@ -618,203 +506,173 @@ English (EN) (8.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-573)
+[Other languages (24)](#file-language-dropdown-182)
 
 български (BG) (31.3 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/bg/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (9.53 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/es/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (18.61 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/cs/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (13.41 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/da/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (9.37 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/de/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (9.44 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/et/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (30.87 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/el/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (9.35 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/fr/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (20.25 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/hr/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (13.34 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/is/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (9.59 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/it/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (29.86 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/lv/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (30.25 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/lt/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (17.17 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/hu/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (25.46 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/mt/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (9.36 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/nl/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (9.39 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/no/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (19.1 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/pl/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (9.42 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/pt/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (28.15 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/ro/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (18.74 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/sk/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (17.77 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/sl/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (9.58 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/fi/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (9.31 KB - PDF)
 
-**First published:**
-
-05/05/2022
+**First published:** 05/05/2022
 
 [View](/sv/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Tepmetko Active substance tepotinib hydrochloride monohydrate International non-proprietary name (INN) or common name tepotinib Therapeutic area (MeSH) Carcinoma, Non-Small-Cell Lung Anatomical therapeutic chemical (ATC) code L01EX21
+Name of medicine
+
+Tepmetko
+
+Active substance
+
+tepotinib hydrochloride monohydrate
+
+International non-proprietary name (INN) or common name
+
+tepotinib
+
+Therapeutic area (MeSH)
+
+Carcinoma, Non-Small-Cell Lung
+
+Anatomical therapeutic chemical (ATC) code
+
+L01EX21
 
 ### Pharmacotherapeutic group
 
@@ -826,7 +684,9 @@ Tepmetko as monotherapy is indicated for the treatment of adult patients with ad
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005524
+EMA product number
+
+EMEA/H/C/005524
 
 Additional monitoring
 
@@ -838,7 +698,17 @@ Merck Europe B.V.
 
 Gustav Mahlerplein 102
 
-Opinion adopted 16/12/2021 Marketing authorisation issued 16/02/2022 Revision 3
+Opinion adopted
+
+16/12/2021
+
+Marketing authorisation issued
+
+16/02/2022
+
+Revision
+
+4
 
 ## Assessment history
 
@@ -850,11 +720,9 @@ Collapse section
 
 Tepmetko: EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (191.78 KB - PDF)
+English (EN) (147.04 KB - PDF)
 
-**First published:** 21/07/2023
-
-**Last updated:** 21/05/2024
+**First published:** 21/07/2023 **Last updated:** 17/04/2026
 
 [View](/en/documents/procedural-steps-after/tepmetko-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -862,9 +730,7 @@ English (EN) (191.78 KB - PDF)
 
 Tepmetko : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/36625/2022
+Adopted Reference Number: EMA/36625/2022
 
 English (EN) (4.38 MB - PDF)
 
@@ -882,8 +748,8 @@ English (EN) (92.92 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-tepmetko_en.pdf)
 
-**This page was last updated on** 21/05/2024
+**This page was last updated on**
+
+17/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

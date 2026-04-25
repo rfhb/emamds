@@ -1,36 +1,30 @@
 ---
-document_datetime: 2025-08-20 11:10:41
-document_pages: 70
+document_datetime: 2026-04-21 14:45:13
+document_pages: 68
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ezmekly-epar-product-information_en.pdf
 document_name: ezmekly-epar-product-information_en.pdf
 version: success
-processing_time: 15.2792823
-conversion_datetime: 2025-12-20 17:17:09.050375
+processing_time: 15.5054664
+conversion_datetime: 2026-04-25 16:54:45.426497
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ezmekly 1 mg hard capsules
-
-Ezmekly 2 mg hard capsules
+Ezmekly 1 mg hard capsules Ezmekly 2 mg hard capsules
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -52,7 +46,7 @@ Ezmekly 1 mg hard capsules
 
 Size 3 (approximately 16 mm × 6 mm) capsule comprised of a light green opaque body and cap with 'MIR 1 mg' printed in white ink on the cap.
 
-## Ezmekly 2 mg hard capsules
+Ezmekly 2 mg hard capsules
 
 Size 1 (approximately 19 mm × 7 mm) capsule comprised of a white opaque body and a blue -green opaque cap with 'MIR 2 mg' printed in white ink on the cap.
 
@@ -70,7 +64,7 @@ Treatment with Ezmekly should be initiated by a physician experienced in the dia
 
 ## Posology
 
-The recommended dose of Ezmekly is 2 mg/m 2 of body surface area (BSA), twice daily (approximately every 12 hours) for the first 21 days of each 28 -day cycle. The maximum dose is 4 mg twice daily (see Table 1).
+The recommended dose of Ezmekly is 2 mg/m 2  of body surface area (BSA), twice daily (approximately every 12 hours) for the first 21 days of each 28 -day cycle. The maximum dose is 4 mg twice daily (see Table 1).
 
 For paediatric patients 2 to &lt;6 years of age and for patients who are unable to swallow capsules whole, Ezmekly is also available as a 1 mg dispersible tablet formulation that can be dispersed in water. The recommended dose for patients with a BSA less than 0.40 m 2 has not been established.
 
@@ -93,7 +87,7 @@ If a dose of Ezmekly is missed, an additional dose is not to be taken. The patie
 
 ## Vomiting
 
-If vomiting occurs after Ezmekly is administered, an additional dose is not to be taken. The patient should continue with the next scheduled dose. Manage events of vomiting as clinically indicated, including use of anti -emetics
+If vomiting occurs after Ezmekly is administered, an additional dose is not to be taken. The patient should continue with the next scheduled dose. Manage events of vomiting as clinically indicated, including use of anti -emetics.
 
 ## Dose adjustments
 
@@ -134,8 +128,6 @@ Table 3: Recommended dose modifications for adverse reactions
 | Other adverse reactions (see section 4.8)                                                                           | Other adverse reactions (see section 4.8)                                                                                                                           |
 | Intolerable Grade 2 or Grade 3                                                                                      | Interrupt treatment until improvement. Resume at reduced dose (see Table 2).                                                                                        |
 | Grade 4                                                                                                             | Interrupt treatment until improvement. Resume at reduced dose (see Table 2). Consider discontinuation.                                                              |
-
-a National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 5.0
 
 ## Special populations
 
@@ -181,7 +173,7 @@ A comprehensive ophthalmological evaluation prior to treatment initiation, at re
 
 ## Decreased left ventricular ejection fraction (LVEF)
 
-Asymptomatic decrease in LVEF ≥ 10% from baseline occurred in 17% of adult patients and 27% of paediatric patients in the ReNeu study. All cases of decreased LVEF in adult or paediatric patients in the clinical studies were asymptomatic (see section 4.8).
+Asymptomatic decrease in LVEF ≥ 10% from baseline occurred in 16% of adult patients and 27% of paediatric patients in the ReNeu study. All cases of decreased LVEF in adult or paediatric patients in the clinical studies were asymptomatic (see section 4.8).
 
 Patients with a history of impaired LVEF or a baseline ejection fraction that is below the institutional lower limit of normal (LLN) have not been studied. LVEF should be evaluated by echocardiogram before initiation of treatment to establish baseline values, every 3 months during the first year, then as
 
@@ -279,57 +271,47 @@ Table 4. Adverse reactions reported in the safety population
 |-----------------------------|----------------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
 |                             |                                              | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above |
 | Infections and Infestations | Paronychia                                   | Common (3%)                          | -                                    | Very Common (33%)                    | -                                    |
-| Nervous system disorders    | Headache                                     | Very common (16 %)                   | Common ( 1%)                         | Very common (36 %)                   | Common (2 %)                         |
-| Eye disorders               | Blurred vision                               | Common (9 %)                         | -                                    | Common (7 %)                         | -                                    |
-| Eye disorders               | Retinal vein occlusion                       | Common (3 %)                         | Common ( 1%)                         | -                                    | -                                    |
-| Eye disorders               | RPED (retinal pigment epithelial detachment) | Common (1 %)                         | -                                    | -                                    | -                                    |
-| Gastrointestinal disorders  | Diarrhoea                                    | Very common (55 %)                   | -                                    | Very common (53 %)                   | Common (5 %)                         |
-| Gastrointestinal disorders  | Nausea                                       | Very common (55 %)                   | -                                    | Very common (29 %)                   | -                                    |
+| Nervous system disorders    | Headache                                     | Very common (16%)                    | Common (1%)                          | Very common (36%)                    | Common (2%)                          |
+| Eye disorders               | Blurred vision                               | Common (9%)                          | -                                    | Common (7%)                          | -                                    |
+| Eye disorders               | Retinal vein occlusion                       | Common (3%)                          | Common (1%)                          | -                                    | -                                    |
+| Eye disorders               | RPED (retinal pigment epithelial detachment) | Common (1%)                          | -                                    | -                                    | -                                    |
+| Gastrointestinal disorders  | Diarrhoea                                    | Very common (55%)                    | -                                    | Very common (53%)                    | Common (5%)                          |
+| Gastrointestinal disorders  | Nausea                                       | Very common (55%)                    | -                                    | Very common (29%)                    | -                                    |
 
 <div style=\"page-break-after: always\"></div>
 
 | MedDRA SOC                                      | MedDRA term            | Adult pool (N=75)                    | Adult pool (N=75)                    | Paediatric pool (N=58)               | Paediatric pool (N=58)               |
 |-------------------------------------------------|------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
 |                                                 |                        | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above |
-| Skin and                                        | Vomiting               | Very common (37 %)                   | -                                    | Very common (40 %)                   | -                                    |
-| Skin and                                        | Abdominal pain a       | Very common (20 %)                   | Common ( 4%)                         | Very common (40 %)                   | Common (3 %)                         |
-| Skin and                                        | Constipation           | Very common (19 %)                   | -                                    | Very common (10 %)                   | -                                    |
-| Skin and                                        | Dry mouth              | Common (7 %)                         | -                                    | -                                    | -                                    |
-| Skin and                                        | Stomatitis b           | Common (5 %)                         | -                                    | Very Common (1 9%)                   | -                                    |
-| subcutaneous tissue disorders                   | Dermatitis acneiform   | Very common (83 %)                   | Common ( 7%)                         | Very common (43 %)                   | Common (2 %)                         |
-| subcutaneous tissue disorders                   | Rash c                 | Very common (17 %)                   | Common ( 1%)                         | Very common (33 %)                   | Common (2 %)                         |
-| subcutaneous tissue disorders                   | Dry skin               | Very common (13 %)                   | -                                    | Very common (17 %)                   | -                                    |
-| subcutaneous tissue disorders                   | Alopecia               | Very common (12 %)                   | -                                    | Very common (14 %)                   | -                                    |
-| subcutaneous tissue disorders                   | Pruritus               | Very common (13 %)                   | -                                    | Very common (12 %)                   | -                                    |
-| subcutaneous tissue disorders                   | Eczema                 | Common (3 %)                         | -                                    | Very common (14 %)                   | -                                    |
-| subcutaneous tissue disorders                   | Hair colour changes    | Common (1 %)                         | -                                    | Very common (12 %)                   | -                                    |
-| subcutaneous tissue disorders                   | Hair texture abnormal  | Common (1 %)                         | -                                    | Common (5 %)                         | -                                    |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal pain d | Very common (41 %)                   | Common ( 7%)                         | Very common (41 %)                   | Common (2 %)                         |
+| Skin and subcutaneous                           | Vomiting               | Very common (37%)                    | -                                    | Very common (40%)                    | -                                    |
+| Skin and subcutaneous                           | Abdominal pain a       | Very common (20%)                    | Common (4%)                          | Very common (40%)                    | Common (3%)                          |
+| Skin and subcutaneous                           | Constipation           | Very common (19%)                    | -                                    | Very common (10%)                    | -                                    |
+| Skin and subcutaneous                           | Dry mouth              | Common (7%)                          | -                                    | -                                    | -                                    |
+| Skin and subcutaneous                           | Stomatitis b           | Common (5%)                          | -                                    | Very Common (19%)                    | -                                    |
+| tissue disorders                                | Dermatitis acneiform   | Very common (83%)                    | Common (7%)                          | Very common (43%)                    | Common (2%)                          |
+| tissue disorders                                | Rash c                 | Very common (17%)                    | Common (1%)                          | Very common (33%)                    | Common (2%)                          |
+| tissue disorders                                | Dry skin               | Very common (13%)                    | -                                    | Very common (17%)                    | -                                    |
+| tissue disorders                                | Alopecia               | Very common (12%)                    | -                                    | Very common (14%)                    | -                                    |
+| tissue disorders                                | Pruritus               | Very common (13%)                    | -                                    | Very common (12%)                    | -                                    |
+| tissue disorders                                | Eczema                 | Common (3%)                          | -                                    | Very common (14%)                    | -                                    |
+| tissue disorders                                | Hair colour changes    | Common (1%)                          | -                                    | Very common (12%)                    | -                                    |
+| tissue disorders                                | Hair texture abnormal  | Common (1%)                          | -                                    | Common (5%)                          | -                                    |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal pain d | Very common (41%)                    | Common (7%)                          | Very common (41%)                    | Common (2%)                          |
 
 <div style=\"page-break-after: always\"></div>
 
 | MedDRA SOC                                          | MedDRA term                            | Adult pool (N=75)                    | Adult pool (N=75)                    | Paediatric pool (N=58)               | Paediatric pool (N=58)               |
 |-----------------------------------------------------|----------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
 |                                                     |                                        | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above |
-| General disorders and administation site conditions | Fatigue                                | Very common (36 %)                   | Common ( 1%)                         | Very common (12 %)                   | -                                    |
-| General disorders and administation site conditions | Oedema peripheral e                    | Very common (12 %)                   | -                                    | Common (5 %)                         | -                                    |
-| Investigations                                      | Blood creatine phosphokinase increased | Very common (47 %)                   | Common ( 3%)                         | Very common (59 %)                   | Common (5 %)                         |
-| Investigations                                      | AST increased                          | Very common (16 %)                   | -                                    | Common (9 %)                         | -                                    |
-| Investigations                                      | Blood alkaline phosphatase increased   | Very common (14 %)                   | -                                    | Very common (24 %)                   | -                                    |
-| Investigations                                      | Ejection fraction decreased            | Very common (12 %)                   | -                                    | Very common (26 %)                   | Common (2 %)                         |
-| Investigations                                      | Neutrophil count decreased             | Common (8 %)                         | Common ( 1%)                         | Very common (30 %)                   | Very common (11 %)                   |
-| Investigations                                      | Leukocyte count decreased              | Common (7 %)                         | -                                    | Very common (39 %)                   | -                                    |
-| Investigations                                      | ALT increased                          | Common (7 %)                         | -                                    | Very common (21 %)                   | -                                    |
-
-a  Abdominal pain includes abdominal pain and abdominal pain upper.
-
-b Stomatitis includes stomatitis, mouth ulceration, aphthous ulcer.
-
-c Rash includes rash, rash maculo -papular, rash pustular, rash erythematous, rash papular, exfoliative rash, papule, rash macular, rash pruritic.
-
-d Musculoskeletal pain includes musculoskeletal pain, myalgia, pain in extremity, back pain, musculoskeletal chest pain, neck pain, non -cardiac chest pain, arthralgia, bone pain.
-
-e Oedema peripheral includes oedema peripheral, peripheral swelling.
+| General disorders and administation site conditions | Fatigue                                | Very common (36%)                    | Common (1%)                          | Very common (12%)                    | -                                    |
+| General disorders and administation site conditions | Oedema peripheral e                    | Very common (12%)                    | -                                    | Common (5%)                          | -                                    |
+| Investigations                                      | Blood creatine phosphokinase increased | Very common (47%)                    | Common (3%)                          | Very common (59%)                    | Common (5%)                          |
+| Investigations                                      | AST increased                          | Very common (16%)                    | -                                    | Common (9%)                          | -                                    |
+| Investigations                                      | Blood alkaline phosphatase increased   | Very common (14%)                    | -                                    | Very common (24%)                    | -                                    |
+| Investigations                                      | Ejection fraction decreased            | Very common (12%)                    | -                                    | Very common (26%)                    | Common (2%)                          |
+| Investigations                                      | Neutrophil count decreased             | Common (8%)                          | Common (1%)                          | Very common (30%)                    | Very common (11%)                    |
+| Investigations                                      | Leukocyte count decreased              | Common (7%)                          | -                                    | Very common (39%)                    | -                                    |
+| Investigations                                      | ALT increased                          | Common (7%)                          | -                                    | Very common (21%)                    | -                                    |
 
 ## Description of selected adverse reactions
 
@@ -411,16 +393,6 @@ Table 5. Efficacy results in ReNeu
 | DoR ≥12 months d                                               | 21 (88%)       | 26 (90%)            |
 | DoR≥24 months d                                                | 12 (50%)       | 14 (48%)            |
 
-Abbreviations: CI = confidence interval; BICR = blinded independent central review; REiNS = Response Evaluation in Neurofibromatosis and Schwannomatosis; DoR = duration of response
-
-a Confirmed objective response was defined as two consecutive assessments of partial response or complete response assessed by a BICR within 2 -6 months during the 24 -cycle treatment phase.
-
-b Patients who had no post -baseline MRI assessment or no confirmed objective response were treated as non -responders.
-
-c  Obtained using the Clopper -Pearson approach.
-
-d Duration of response (data cut -off, June 2024) was assessed using the Kaplan -Meier approach.
-
 ## Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies within one or more subsets of the paediatric population. See section 4.2 for information on paediatric use.
@@ -449,29 +421,31 @@ Following a single oral dose of 4 mg [ 14 C]mirdametinib in healthy subjects, th
 
 ## Biotransformation
 
-Mirdametinib is highly metabolised via glucuronidation and oxidation via uridine diphosphate glucuronosyltransferase (UGT) and carboxyl esterase (CES) enzymes, resulting in M22 (a secondary O -glucuronide metabolite) and M15 (a carboxylic acid metabolite), respectively. Less than 10% is excreted unchanged.
+Mirdametinib is highly metabolised via glucuronidation, hydrolysis, and oxidation via uridine diphosphate glucuronosyltransferase (UGT) and carboxyl esterase (CES) enzymes, resulting in M22 (a secondary O -glucuronide metabolite) and M15 (a carboxylic acid metabolite), respectively. Less than 10% is excreted unchanged.
 
 ## Interactions
 
 ## Effect of mirdametinib on CYP450 enzymes
 
-In vitro , mirdametinib is not an inducer of CYP1A2, CYP2B6, CYP2C8, CYP2C9 or CYP2C19. Mirdametinib is an inducer of CYP3A4 in vitro , however there is a low potential for CYP3A4 induction at clinically relevant concentrations.
+In vitro , mirdametinib, M15, and M22 are not inhibitors of CYP1A2, CYP2B6, CYP2C19, CYP2D6, or CYP3A4. Mirdametinib and M22 do not inhibit CYP2C8 or CYP2C9 . M15 is an inhibitor of CYP2C8 and CYP2C9 in vitro , however there is a low potential for inhibition at clinically relevant concentrations. In vitro , mirdametinib is not an inducer of CYP1A2, CYP2B6, CYP2C8, CYP2C9 or CYP2C19. Mirdametinib is an inducer of CYP3A4 in vitro , however there is a low potential for CYP3A4 induction at clinically relevant concentrations.
 
 ## Effect of mirdametinib on UDP glucuronosyltransferase (UGT)
 
-In vitro , mirdametinib is not an inhibitor of the isoforms UGT1A1, UGT1A3, UGT1A4, UGT1A6, UGT1A9, UGT2B7, and UGT2B15 at clinically relevant concentrations.
+In vitro , mirdametinib is not an inhibitor of the isoforms UGT1A1, UGT1A3, UGT1A4, UGT1A6, UGT1A9, UGT2B7, or UGT2B15 at clinically relevant concentrations. In vitro , M15 was not an inhibitor of the isoforms UGT1A3, UGT1A4, UGT1A6, UGT2B15, or UGT2B17. M15 is an inhibitor of UGT1A1, UGT1A9, UGT2B7 in vitro , however there is a low potential for inhibition at clinically relevant concentrations.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Effect of mirdametinib on drug transporters
 
-In vitro studies suggest that mirdametinib and its major metabolite do not inhibit the breast cancer resistance protein (BCRP), P -glycoprotein (P -gp), OATP1B1, OATP1B3, OCT2, OAT1, OAT3, MATE1 or MATE2K transporters.
+In vitro , mirdametinib and M15 do not inhibit the breast cancer resistance protein (BCRP), P -glycoprotein (P -gp), OATP1B1, OATP1B3, OCT2, OAT1, OAT3, MATE1 or MATE2K transporters.
 
-Based on in vitro studies, mirdametinib is a substrate for BCRP and P-gp transporters and its major metabolite is a substrate for BCRP, but they are unlikely to be clinically relevant.
+In vitro , M22 does not inhibit P-gp, OATP1B3, OCT1, OCT2, OAT1, OAT3, MATE1 or MATE2K transporters. Based on in vitro studies, M22 inhibits BCRP, OATP1B1, and OATP2B1, however the clinical relevance of these effects cannot be established due to uncertainties regarding M22 maximal plasma concentrations and its protein binding.
+
+Based on in vitro studies, mirdametinib is a substrate for BCRP and P-gp transporters and M15 is a substrate for BCRP, but they are unlikely to be clinically relevant.
 
 ## Elimination
 
 In healthy adult subjects, following a single dose of 4 mg of radiolabelled mirdametinib, 68% of the dose was recovered in urine (0.7% unchanged) while 27% was recovered in faeces (8.7% unchanged in urine and faeces). The mean terminal half life is 28 hours. The apparent systemic clearance (CL/F) is 6.34 L/h.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Linearity
 
@@ -501,6 +475,8 @@ The pharmacokinetic profile in children is similar to that of adults.
 
 Non -clinical data revealed no special hazard for humans based on conventional studies of safety pharmacology.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Genotoxicity/Carcinogenicity
 
 Mirdametinib was not genotoxic in a bacterial reverse mutation (Ames) assay or in an in vitro human lymphocyte chromosomal aberration assay but was equivocal in the in vivo micronucleus study and in vivo chromosomal aberrations study in rats. A genotoxicity risk in human could not be excluded at the clinical exposure range.
@@ -509,11 +485,7 @@ Mirdametinib was not carcinogenic in transgenic mice at a dose of 5 mg/kg/day (3
 
 ## Repeat -dose toxicity
 
-In oral, repeat dose toxicity studies conducted for up to 3 months in rats and dogs, the primary toxicities due to MEK inhibition were in the skin and GI tract at doses below human exposure. In the 3 -month rat study with mirdametinib, at doses approximately equivalent to the human exposure, rats showed dysplasia in femoral epiphyseal growth plate, metaphyseal hypocellularity of the bone marrow of long bones, and metaphyseal thickening of bone trabeculae of long bones. Male rats were more sensitive to these effects. These bone effects were not seen in other species (dogs, monkeys or mice).
-
-<div style=\"page-break-after: always\"></div>
-
-Reversibility of dysplasia in epiphyseal growth plate was not evaluated. In rats, systemic mineralization and ocular findings (corneal opacities and atrophy or thinning of the corneal epithelium) were observed in repeat dose toxicity studies at doses below human exposure. Increases in liver enzymes (rats) and hepatocellular necrosis (rats, mice, and dogs) were observed at exposures similar to clinical exposure. In a 2 -week study in cynomolgus monkeys, gallbladder toxicity was observed at exposures &gt;2.5 -fold the human exposure.
+In oral, repeat dose toxicity studies conducted for up to 3 months in rats and dogs, the primary toxicities due to MEK inhibition were in the skin and GI tract at doses below human exposure. In the 3 -month rat study with mirdametinib, at doses approximately equivalent to the human exposure, rats showed dysplasia in femoral epiphyseal growth plate, metaphyseal hypocellularity of the bone marrow of long bones, and metaphyseal thickening of bone trabeculae of long bones. Male rats were more sensitive to these effects. These bone effects were not seen in other species (dogs, monkeys or mice). Reversibility of dysplasia in epiphyseal growth plate was not evaluated. In rats, systemic mineralization and ocular findings (corneal opacities and atrophy or thinning of the corneal epithelium) were observed in repeat dose toxicity studies at doses below human exposure. Increases in liver enzymes (rats) and hepatocellular necrosis (rats, mice, and dogs) were observed at exposures similar to clinical exposure. In a 2 -week study in cynomolgus monkeys, gallbladder toxicity was observed at exposures &gt;2.5 -fold the human exposure.
 
 CNS effects were observed in dogs in the 3 -month study at exposures approximately 1.5 times the human exposure; these effects in dogs, including impaired balance and tremors, were reversible and there was no microscopic correlate.
 
@@ -529,6 +501,8 @@ Mirdametinib was equivocal in an in vitro mouse fibroblast phototoxicity assay a
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.1 List of excipients
 
 ## Capsule content
@@ -538,8 +512,6 @@ Microcrystalline cellulose (E460) Croscarmellose sodium (E468) Magnesium stearat
 ## Capsule shell
 
 Gelatin (E441) Titanium dioxide (E171) Yellow iron oxide (E172) Brilliant blue (E133)
-
-<div style=\"page-break-after: always\"></div>
 
 ## Printing ink
 
@@ -575,17 +547,21 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-SpringWorks Therapeutics Ireland Limited Hamilton House, 28 Fitzwilliam Place Dublin 2, D02 P283 Ireland
+SpringWorks Therapeutics Ireland Limited Hamilton House, 28 Fitzwilliam Place
+
+<div style=\"page-break-after: always\"></div>
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1950/003 EU/1/25/1950/004 EU/1/25/1950/005
+EU/1/25/1950/003 EU/1/25/1950/004
+
+EU/1/25/1950/005
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 17 July 2025
-
-<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -631,7 +607,7 @@ Treatment with Ezmekly should be initiated by a physician experienced in the dia
 
 ## Posology
 
-The recommended dose of Ezmekly is 2 mg/m 2 of body surface area (BSA), twice daily (approximately every 12 hours) for the first 21 days of each 28 -day cycle. The maximum dose is 4 mg twice daily (see Table 1).
+The recommended dose of Ezmekly is 2 mg/m 2  of body surface area (BSA), twice daily (approximately every 12 hours) for the first 21 days of each 28 -day cycle. The maximum dose is 4 mg twice daily (see Table 1).
 
 Ezmekly is also available in a hard capsule formulation. It is recommended that the dispersible tablets be used in patients aged 2 to &lt;6 years of age and in adults who are unable to swallow capsules whole. The recommended dose for patients with a BSA less than 0.40 m 2 has not been established.
 
@@ -698,8 +674,6 @@ Table 3: Recommended dose modifications for adverse reactions
 | Intolerable Grade 2 or Grade 3                                                                                      | Interrupt treatment until improvement. Resume at reduced dose (see Table 2).                                                                                        |
 | Grade 4                                                                                                             | Interrupt treatment until improvement. Resume at reduced dose (see Table 2). Consider discontinuation.                                                              |
 
-a  National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 5.0
-
 ## Special populations
 
 ## Elderly
@@ -744,7 +718,7 @@ A comprehensive ophthalmological evaluation prior to treatment initiation, at re
 
 ## Decreased left ventricular ejection fraction (LVEF)
 
-Asymptomatic decrease in LVEF ≥ 10% from baseline occurred in 17% of adult patients and 27% of paediatric patients in the ReNeu study. All cases of decreased LVEF in adult or paediatric patients in the clinical studies were asymptomatic (see section 4.8).
+Asymptomatic decrease in LVEF ≥ 10% from baseline occurred in 16% of adult patients and 27% of paediatric patients in the ReNeu study. All cases of decreased LVEF in adult or paediatric patients in the clinical studies were asymptomatic (see section 4.8).
 
 Patients with a history of impaired LVEF or a baseline ejection fraction that is below the institutional lower limit of normal (LLN) have not been studied. LVEF should be evaluated by echocardiogram before initiation of treatment to establish baseline values, every 3 months during the first year, then as clinically indicated thereafter. Prior to starting treatment, patients should have an ejection fraction above the institutional LLN.
 
@@ -839,48 +813,48 @@ Table 4. Adverse reactions reported in the safety population
 | MedDRA SOC                  | MedDRA term                                  | Adult pool (N=75)                    | Adult pool (N=75)                    | Paediatric pool (N=58)               | Paediatric pool (N=58)               |
 |-----------------------------|----------------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
 |                             |                                              | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above |
-| Infections and Infestations | Paronychia                                   | Common (3 %)                         | -                                    | Very Common ( 33%)                   | -                                    |
-| Nervous system disorders    | Headache                                     | Very common (16 %)                   | Common ( 1%)                         | Very common (3 6%)                   | Common (2 %)                         |
-| Eye disorders               | Blurred vision                               | Common (9 %)                         | -                                    | Common ( 7%)                         | -                                    |
-| Eye disorders               | Retinal vein occlusion                       | Common (3 %)                         | Common ( 1%)                         | -                                    | -                                    |
-| Eye disorders               | RPED (retinal pigment epithelial detachment) | Common (1 %)                         | -                                    | -                                    | -                                    |
-| Gastrointestinal disorders  | Diarrhoea                                    | Very common (55 %)                   | -                                    | Very common (5 3%)                   | Common (5 %)                         |
-| Gastrointestinal disorders  | Nausea                                       | Very common (55 %)                   | -                                    | Very common (2 9%)                   | -                                    |
-| Gastrointestinal disorders  | Vomiting                                     | Very common (37 %)                   | -                                    | Very common (4 0%)                   | -                                    |
+| Infections and Infestations | Paronychia                                   | Common (3%)                          | -                                    | Very Common (33%)                    | -                                    |
+| Nervous system disorders    | Headache                                     | Very common (16%)                    | Common (1%)                          | Very common (36%)                    | Common (2%)                          |
+| Eye disorders               | Blurred vision                               | Common (9%)                          | -                                    | Common (7%)                          | -                                    |
+| Eye disorders               | Retinal vein occlusion                       | Common (3%)                          | Common (1%)                          | -                                    | -                                    |
+| Eye disorders               | RPED (retinal pigment epithelial detachment) | Common (1%)                          | -                                    | -                                    | -                                    |
+| Gastrointestinal disorders  | Diarrhoea                                    | Very common (55%)                    | -                                    | Very common (53%)                    | Common (5%)                          |
+| Gastrointestinal disorders  | Nausea                                       | Very common (55%)                    | -                                    | Very common (29%)                    | -                                    |
+| Gastrointestinal disorders  | Vomiting                                     | Very common (37%)                    | -                                    | Very common (40%)                    | -                                    |
 
 <div style=\"page-break-after: always\"></div>
 
 | MedDRA SOC                                          | MedDRA term            | Adult pool (N=75)                    | Adult pool (N=75)                    | Paediatric pool (N=58)               | Paediatric pool (N=58)               |
 |-----------------------------------------------------|------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
 |                                                     |                        | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above |
-|                                                     | Abdominal pain a       | Very common (20 %)                   | Common ( 4%)                         | Very common (4 0%)                   | Common (3 %)                         |
-|                                                     | Constipation           | Very common (19 %)                   | -                                    | Very common (1 0%)                   | -                                    |
-|                                                     | Dry mouth              | Common (7 %)                         | -                                    | -                                    | -                                    |
-|                                                     | Stomatitis b           | Common (5 %)                         | -                                    | Very Common ( 19%)                   | -                                    |
-| Skin and subcutaneous tissue disorders              | Dermatitis acneiform   | Very common (83 %)                   | Common (7%)                          | Very common (4 3%)                   | Common (2 %)                         |
-| Skin and subcutaneous tissue disorders              | Rash c                 | Very common (17 %)                   | Common ( 1%)                         | Very common (3 3%)                   | Common (2 %)                         |
-| Skin and subcutaneous tissue disorders              | Dry skin               | Very common (13 %)                   | -                                    | Very common (1 7%)                   | -                                    |
-| Skin and subcutaneous tissue disorders              | Alopecia               | Very common (12 %)                   | -                                    | Very common (1 4%)                   | -                                    |
-| Skin and subcutaneous tissue disorders              | Pruritus               | Very common (13 %)                   | -                                    | Very common (1 2%)                   | -                                    |
-| Skin and subcutaneous tissue disorders              | Eczema                 | Common (3 %)                         | -                                    | Very common (1 4%)                   | -                                    |
-| Skin and subcutaneous tissue disorders              | Hair colour changes    | Common (1 %)                         | -                                    | Very common (1 2%)                   | -                                    |
-| Skin and subcutaneous tissue disorders              | Hair texture abnormal  | Common (1 %)                         | -                                    | Common ( 5%)                         | -                                    |
-| Musculoskeletal and connective tissue disorders     | Musculoskeletal pain d | Very common (41 %)                   | Common ( 7%)                         | Very common (4 1%)                   | Common (2 %)                         |
-| General disorders and administation site conditions | Fatigue                | Very common (36 %)                   | Common ( 1%)                         | Very common (1 2%)                   | -                                    |
-| General disorders and administation site conditions | Oedema peripheral e    | Very common (12 %)                   | -                                    | Common ( 5%)                         | -                                    |
+|                                                     | Abdominal pain a       | Very common (20%)                    | Common (4%)                          | Very common (40%)                    | Common (3%)                          |
+|                                                     | Constipation           | Very common (19%)                    | -                                    | Very common (10%)                    | -                                    |
+|                                                     | Dry mouth              | Common (7%)                          | -                                    | -                                    | -                                    |
+|                                                     | Stomatitis b           | Common (5%)                          | -                                    | Very Common (19%)                    | -                                    |
+| Skin and subcutaneous tissue disorders              | Dermatitis acneiform   | Very common (83%)                    | Common (7%)                          | Very common (43%)                    | Common (2%)                          |
+| Skin and subcutaneous tissue disorders              | Rash c                 | Very common (17%)                    | Common (1%)                          | Very common (33%)                    | Common (2%)                          |
+| Skin and subcutaneous tissue disorders              | Dry skin               | Very common (13%)                    | -                                    | Very common (17%)                    | -                                    |
+| Skin and subcutaneous tissue disorders              | Alopecia               | Very common (12%)                    | -                                    | Very common (14%)                    | -                                    |
+| Skin and subcutaneous tissue disorders              | Pruritus               | Very common (13%)                    | -                                    | Very common (12%)                    | -                                    |
+| Skin and subcutaneous tissue disorders              | Eczema                 | Common (3%)                          | -                                    | Very common (14%)                    | -                                    |
+| Skin and subcutaneous tissue disorders              | Hair colour changes    | Common (1%)                          | -                                    | Very common (12%)                    | -                                    |
+| Skin and subcutaneous tissue disorders              | Hair texture abnormal  | Common (1%)                          | -                                    | Common (5%)                          | -                                    |
+| Musculoskeletal and connective tissue disorders     | Musculoskeletal pain d | Very common (41%)                    | Common (7%)                          | Very common (41%)                    | Common (2%)                          |
+| General disorders and administation site conditions | Fatigue                | Very common (36%)                    | Common (1%)                          | Very common (12%)                    | -                                    |
+| General disorders and administation site conditions | Oedema peripheral e    | Very common (12%)                    | -                                    | Common (5%)                          | -                                    |
 
 <div style=\"page-break-after: always\"></div>
 
 | MedDRA SOC     | MedDRA term                            | Adult pool (N=75)                    | Adult pool (N=75)                    | Paediatric pool (N=58)               | Paediatric pool (N=58)               |
 |----------------|----------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
 |                |                                        | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above |
-| Investigations | Blood creatine phosphokinase increased | Very common (47 %)                   | Common ( 3%)                         | Very common (5 9%)                   | Common (5 %)                         |
-| Investigations | AST increased                          | Very common (16 %)                   | -                                    | Common ( 9%)                         | -                                    |
-| Investigations | Blood alkaline phosphatase increased   | Very common (14 %)                   | -                                    | Very common (2 4%)                   | -                                    |
-| Investigations | Ejection Fraction decreased            | Very common (12 %)                   | -                                    | Very common (2 6%)                   | Common (2 %)                         |
-| Investigations | Neutrophil count decreased             | Common (8 %)                         | Common ( 1%)                         | Very common (3 0%)                   | Very common (11 %)                   |
-| Investigations | Leukocyte count decreased              | Common (7 %)                         | -                                    | Very common (3 9%)                   | -                                    |
-| Investigations | ALT increased                          | Common (7 %)                         | -                                    | Very common (2 1%)                   | -                                    |
+| Investigations | Blood creatine phosphokinase increased | Very common (47%)                    | Common (3%)                          | Very common (59%)                    | Common (5%)                          |
+| Investigations | AST increased                          | Very common (16%)                    | -                                    | Common (9%)                          | -                                    |
+| Investigations | Blood alkaline phosphatase increased   | Very common (14%)                    | -                                    | Very common (24%)                    | -                                    |
+| Investigations | Ejection Fraction decreased            | Very common (12%)                    | -                                    | Very common (26%)                    | Common (2%)                          |
+| Investigations | Neutrophil count decreased             | Common (8%)                          | Common (1%)                          | Very common (30%)                    | Very common (11%)                    |
+| Investigations | Leukocyte count decreased              | Common (7%)                          | -                                    | Very common (39%)                    | -                                    |
+| Investigations | ALT increased                          | Common (7%)                          | -                                    | Very common (21%)                    | -                                    |
 
 a  Abdominal pain includes abdominal pain and abdominal pain upper.
 
@@ -972,7 +946,7 @@ Table 5. Efficacy results in ReNeu
 
 Abbreviations: CI= confidence interval; BICR = blinded independent central review; REiNS = Response Evaluation in Neurofibromatosis and Schwannomatosis; DoR = duration of response a Confirmed objective response was defined as two consecutive assessments of partial response or complete response assessed by a BICR within 2 -6 months during the 24 -cycle treatment phase.
 
-b Patients who had no post -baseline MRI assessment or no confirmed objective response were treated as non -responders.
+b  Patients who had no post -baseline MRI assessment or no confirmed objective response were treated as non -responders.
 
 c  Obtained using the Clopper -Pearson approach.
 
@@ -1006,35 +980,37 @@ Following a single oral dose of 4 mg [ 14 C]mirdametinib in healthy subjects, th
 
 ## Biotransformation
 
-Mirdametinib is highly metabolised via glucuronidation and oxidation via uridine diphosphate glucuronosyltransferase (UGT) and carboxyl esterase (CES) enzymes, resulting in M22 (a secondary O -glucuronide metabolite) and M15 (a carboxylic acid metabolite), respectively. Less than 10% is excreted unchanged.
+Mirdametinib is highly metabolised via glucuronidation, hydrolysis, and oxidation via uridine diphosphate glucuronosyltransferase (UGT) and carboxyl esterase (CES) enzymes, resulting in M22 (a secondary O -glucuronide metabolite) and M15 (a carboxylic acid metabolite), respectively. Less than 10% is excreted unchanged.
 
 ## Interactions
 
 ## Effect of mirdametinib on CYP450 enzymes
 
-In vitro , mirdametinib is not an inducer of CYP1A2, CYP2B6, CYP2C8, CYP2C9 or CYP2C19. Mirdametinib is an inducer of CYP3A4 in vitro , however there is a low potential for CYP3A4 induction at clinically relevant concentrations.
+In vitro, mirdametinib, M15, and M22 are not inhibitors of CYP1A2, CYP2B6, CYP2C19, CYP2D6, or CYP3A4. Mirdametinib and M22 do not inhibit CYP2C8 or CYP2C9. M15 is an inhibitor of CYP2C8 and CYP2C9 in vitro , however there is a low potential for inhibition at clinically relevant concentrations. In vitro , mirdametinib is not an inducer of CYP1A2, CYP2B6, CYP2C8, CYP2C9 or CYP2C19. Mirdametinib is an inducer of CYP3A4 in vitro , however there is a low potential for CYP3A4 induction at clinically relevant concentrations.
 
 ## Effect of mirdametinib on UDP glucuronosyltransferase (UGT)
 
-In vitro , mirdametinib is not an inhibitor of the isoforms UGT1A1, UGT1A3, UGT1A4, UGT1A6, UGT1A9, UGT2B7, and UGT2B15 at clinically relevant concentrations.
+In vitro , mirdametinib is not an inhibitor of the isoforms UGT1A1, UGT1A3, UGT1A4, UGT1A6, UGT1A9, UGT2B7, or UGT2B15 at clinically relevant concentrations. In vitro , M15 was not an inhibitor of the isoforms UGT1A3, UGT1A4, UGT1A6, UGT2B15, or UGT2B17. M15 is an inhibitor of UGT1A1, UGT1A9, UGT2B7 in vitro , however there is a low potential for inhibition at clinically relevant concentrations.
 
 ## Effect of mirdametinib on drug transporters
 
-In vitro studies suggest that mirdametinib and its major metabolite do not inhibit the breast cancer resistance protein (BCRP), P -glycoprotein (P -gp), OATP1B1, OATP1B3, OCT2, OAT1, OAT3, MATE1 or MATE2K transporters.
+In vitro, mirdametinib and M15 do not inhibit the breast cancer resistance protein (BCRP), P -glycoprotein (P -gp), OATP1B1, OATP1B3, OCT2, OAT1, OAT3, MATE1 or MATE2K transporters.
 
-Based on in vitro studies, mirdametinib is a substrate for BCRP and P -gp transporters and its major metabolite is a substrate for BCRP, but they are unlikely to be clinically relevant .
+In vitro , M22 does not inhibit P-gp, OATP1B3, OCT1, OCT2, OAT1, OAT3, MATE1 or MATE2K transporters. Based on in vitro studies, M22 inhibits BCRP, OATP1B1, and OATP2B1, however the clinical relevance of these effects cannot be established due to uncertainties regarding M22 maximal plasma concentrations and its protein binding.
+
+Based on in vitro studies, mirdametinib is a substrate for BCRP and P -gp transporters and M15 is a substrate for BCRP, but they are unlikely to be clinically relevant .
 
 ## Elimination
 
 In healthy adult subjects, following a single dose of 4 mg of radiolabelled mirdametinib, 68% of the dose was recovered in urine (0.7% unchanged) while 27% was recovered in faeces (8.7% unchanged in urine and faeces). The mean terminal half life is 28 hours. The apparent systemic clearance (CL/F) is 6.34 L/h.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Linearity
 
 Mirdametinib exposures, as measured by Cmax and AUCtau, generally increased dose proportionally from 1 mg QD/BID to 30 mg BID. A linear relationship between dose and exposure was verified by population pharmacokinetic analyses over the dose range of 1 mg to 20 mg mirdametinib BID. The mean accumulation ratio ranged from 1.1 to 1.9 across dose levels from 1 to 30 mg.
 
 Steady -state concentrations in patients with NF1 -PN are achieved on average approximately 6 days following repeat administration.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Special populations
 
@@ -1066,11 +1042,13 @@ Mirdametinib was not carcinogenic in transgenic mice at a dose of 5 mg/kg/day (3
 
 ## Repeat -dose toxicity
 
-In oral, repeat dose toxicity studies conducted for up to 3 months in rats and dogs, the primary toxicities due to MEK inhibition were in the skin and GI tract at doses below human exposure. In the 3 -month rat study with mirdametinib, at doses approximately equivalent to the human exposure, rats showed dysplasia in femoral epiphyseal growth plate, metaphyseal hypocellularity of the bone marrow of long bones, and metaphyseal thickening of bone trabeculae of long bones. Male rats were more sensitive to these effects. These bone effects were not seen in other species (dogs, monkeys or mice). Reversibility of dysplasia in epiphyseal growth plate was not evaluated. In rats, systemic mineralization and ocular findings (corneal opacities and atrophy or thinning of the corneal epithelium) were observed in repeat dose toxicity studies at doses below human exposure.
-
-Increases in liver enzymes (rats) and hepatocellular necrosis (rats, mice, and dogs) were observed at exposures similar to clinical exposure. In a 2 -week study in cynomolgus monkeys, gallbladder toxicity was observed at exposures &gt; 2.5 -fold the human exposure.
+In oral, repeat dose toxicity studies conducted for up to 3 months in rats and dogs, the primary toxicities due to MEK inhibition were in the skin and GI tract at doses below human exposure. In the 3 -month rat study with mirdametinib, at doses approximately equivalent to the human exposure, rats showed dysplasia in femoral epiphyseal growth plate, metaphyseal hypocellularity of the bone marrow of long bones, and metaphyseal thickening of bone trabeculae of long bones. Male rats were more
 
 <div style=\"page-break-after: always\"></div>
+
+sensitive to these effects. These bone effects were not seen in other species (dogs, monkeys or mice). Reversibility of dysplasia in epiphyseal growth plate was not evaluated. In rats, systemic mineralization and ocular findings (corneal opacities and atrophy or thinning of the corneal epithelium) were observed in repeat dose toxicity studies at doses below human exposure.
+
+Increases in liver enzymes (rats) and hepatocellular necrosis (rats, mice, and dogs) were observed at exposures similar to clinical exposure. In a 2 -week study in cynomolgus monkeys, gallbladder toxicity was observed at exposures &gt; 2.5 -fold the human exposure.
 
 CNS effects were observed in dogs in the 3 -month study at exposures approximately 1.5 times the human exposure; these effects in dogs, including impaired balance and tremors, were reversible and there was no microscopic correlate.
 
@@ -1096,15 +1074,19 @@ Grape flavour Dried glucose liquid Natural flavour Modified corn starch (E1422) 
 
 Not applicable.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.3 Shelf life
 
-3 years Six hours after dispersing tablet(s) in water.
+3 years
+
+Six hours after dispersing tablet(s) in water.
 
 ## 6.4 Special precautions for storage
 
-Store below 30°C. Store in the original package to protect from light.
+Store below 30°C.
 
-<div style=\"page-break-after: always\"></div>
+Store in the original package to protect from light.
 
 ## 6.5 Nature and contents of container
 
@@ -1116,15 +1098,15 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-## Preparation of the oral suspension
+Preparation of the oral suspension
 
 Patients should be instructed to fully disperse the prescribed number of dispersible tablet(s) in a small amount of drinking water (about 5 to 10 mL) in a dosing cup, if dosing as an oral suspension. The liquid should be gently swirled until no lumps remain and administered orally. Alternatively, the liquid can be drawn into an oral syringe and administered.
 
-## Administration of oral suspension via dosing cup
+Administration of oral suspension via dosing cup
 
 After the suspension from the dosing cup or oral syringe is swallowed, the dosing cup (or syringe) should be rinsed with an additional small amount of drinking water (about 5 to 10 mL) and administered to ensure the full dose is taken. The dose should only be prepared using water.
 
-## Administration of oral suspension via enteral feeding tube
+Administration of oral suspension via enteral feeding tube
 
 In case of administration using an enteral feeding tube, an appropriate commercially available gastric or nasogastric tube (8 French tube or larger) should be selected by the healthcare professional. Enteral feeding tubes made of polyvinylchloride (PVC) and polyurethane (PUR) have been shown to be compatible with the oral suspension. The oral suspension should be drawn into the syringe after dispersing in 5 -10 mL of water as described above and injected into an enteral feeding tube with the syringe positioned horizontally. Following administration of the oral suspension, draw another 5 -10 mL of water into the syringe and push that through the feeding tube to ensure any residual medication is administered to the patient.
 
@@ -1134,6 +1116,8 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 SpringWorks Therapeutics Ireland Limited Hamilton House, 28 Fitzwilliam Place Dublin 2, D02 P283 Ireland
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/25/1950/001 EU/1/25/1950/002
@@ -1142,9 +1126,9 @@ EU/1/25/1950/001 EU/1/25/1950/002
 
 Date of first authorisation: 17 July 2025
 
-<div style=\"page-break-after: always\"></div>
+10.
 
-## 10. DATE OF REVISION OF THE TEXT
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
@@ -1224,7 +1208,7 @@ mirdametinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each hard capsule contains 1 mg mirdametinib
+Each hard capsule contains 1 mg mirdametinib.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1236,7 +1220,7 @@ Hard capsule
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Oral use.
+Oral use
 
 Do not break, crush or chew capsules.
 
@@ -1260,13 +1244,11 @@ Store in the original package to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-SpringWorks Therapeutics Ireland Limited Hamilton House, 28 Fitzwilliam Place Dublin 2, D02 P283 Ireland
+SpringWorks Therapeutics Ireland Limited Hamilton House 28 Fitzwilliam Place Dublin 2, D02 P283 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1290,9 +1272,9 @@ Ezmekly 1 mg capsule
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
+PC SN
 
-SN
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1308,7 +1290,7 @@ mirdametinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
-Each capsule contains 1 mg mirdametinib
+Each capsule contains 1 mg mirdametinib.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1320,7 +1302,7 @@ Capsules
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Oral use.
+Oral use
 
 Do not break, crush or chew capsules.
 
@@ -1344,7 +1326,7 @@ Store in the original package to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1368,7 +1350,7 @@ Lot
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1384,7 +1366,7 @@ Ezmekly 2 mg hard capsules mirdametinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each hard capsule contains 2 mg mirdametinib
+Each hard capsule contains 2 mg mirdametinib.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1398,7 +1380,7 @@ Hard capsule
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Oral use.
+Oral use
 
 Do not break, crush or chew capsules.
 
@@ -1420,11 +1402,13 @@ Store below 30°C.
 
 Store in original package to protect from light.
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-SpringWorks Therapeutics Ireland Limited Hamilton House, 28 Fitzwilliam Place Dublin 2, D02 P283 Ireland
+SpringWorks Therapeutics Ireland Limited Hamilton House 28 Fitzwilliam Place Dublin 2, D02 P283 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1435,22 +1419,20 @@ EU/1/25/1950/004 42 hard capsules EU/1/25/1950/005 84 hard capsules
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Ezmekly 2 mg capsule
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
 
-<div style=\"page-break-after: always\"></div>
+SN
 
 NN
 
@@ -1464,7 +1446,7 @@ Ezmekly 2 mg capsules mirdametinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
-Each capsule contains 2 mg mirdametinib
+Each capsule contains 2 mg mirdametinib.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1478,7 +1460,7 @@ Capsules
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Oral use.
+Oral use
 
 Do not break, crush or chew capsules.
 
@@ -1542,7 +1524,7 @@ Ezmekly 1 mg dispersible tablets mirdametinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each dispersible tablet contains 1 mg mirdametinib
+Each dispersible tablet contains 1 mg mirdametinib.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1556,7 +1538,7 @@ Dispersible tablet
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Oral use.
+Oral use
 
 Swallow whole or disperse in water.
 
@@ -1584,7 +1566,7 @@ Store in the original package to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-SpringWorks Therapeutics Ireland Limited Hamilton House, 28 Fitzwilliam Place Dublin 2, D02 P283 Ireland
+SpringWorks Therapeutics Ireland Limited Hamilton House 28 Fitzwilliam Place Dublin 2, D02 P283 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1595,10 +1577,9 @@ EU/1/25/1950/001 42 dispersible tablets EU/1/25/1950/002 84 dispersible tablets
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Ezmekly 1 mg dispersible tablets
 
@@ -1626,7 +1607,7 @@ Ezmekly 1 mg dispersible tablets mirdametinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each dispersible tablet contains 1 mg mirdametinib
+Each dispersible tablet contains 1 mg mirdametinib.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1640,7 +1621,7 @@ Dispersible Tablet
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Oral use.
+Oral use
 
 Swallow whole or disperse in water.
 
@@ -1686,7 +1667,7 @@ Lot
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1718,8 +1699,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 3. How to take Ezmekly
 4. Possible side effects
 5. How to store Ezmekly
-6. 6.
-7. Contents of the pack and other information
+6. Contents of the pack and other information
 
 ## 1. What Ezmekly is and what it is used for
 
@@ -1879,7 +1859,7 @@ Very common (may affect more than 1 in 10 people):
 
 Common (may affect up to 1 in 10 people):
 
-- decreased blood levels of neutrophils and leukocytes ( types of white blood cells that help fight infections)
+- decreased blood levels of neutrophils and leukocytes (types of white blood cells that help fight infections)
 - mouth sores (stomatitis)
 - dry mouth
 - infection around the nails (paronychia)
@@ -1941,9 +1921,19 @@ Do not throw away your medicine via wasterwater or household waste. Ask your pha
 
 ## What Ezmekly contains
 
-The active substance is mirdametinib. Ezmekly 1 mg hard capsules Each hard capsule contains 1 mg of mirdametinib. Ezmekly 2 mg hard capsules Each hard capsule contains 2 mg mirdametinib. The other ingredients are: Capsule content Microcrystalline cellulose (E460) Croscarmellose sodium (E468) (see section 2 'Ezmekly contains sodium') Magnesium stearate (E572) Capsule shell Gelatin (E441) Titanium dioxide (E171) Yellow iron oxide (E172) Brilliant blue (E133) Potassium hydroxide (E525)
+The active substance is mirdametinib.
 
-Printing ink Propylene glycol (E1520) Purified water Shellac (E904) Titanium dioxide (E171)
+Ezmekly 1 mg hard capsules Each hard capsule contains 1 mg of mirdametinib.
+
+Ezmekly 2 mg hard capsules Each hard capsule contains 2 mg mirdametinib.
+
+The other ingredients are:
+
+Capsule content Microcrystalline cellulose (E460) Croscarmellose sodium (E468) (see section 2 'Ezmekly contains sodium') Magnesium stearate (E572)
+
+Capsule shell Gelatin (E441) Titanium dioxide (E171) Yellow iron oxide (E172) Brilliant blue (E133)
+
+Printing ink Potassium hydroxide (E525) Propylene glycol (E1520) Purified water Shellac (E904) Titanium dioxide (E171)
 
 ## What Ezmekly looks like and contents of the pack
 
@@ -1963,9 +1953,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-SpringWorks Therapeutics Ireland Limited Hamilton House, 28 Fitzwilliam Place Dublin 2, D02 P283
-
-Ireland
+SpringWorks Therapeutics Ireland Limited Hamilton House, 28 Fitzwilliam Place Dublin 2, D02 P283 Ireland
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2200,7 +2188,7 @@ Very common (may affect more than 1 in 10 people):
 - itching
 - hair loss or thinning (alopecia)
 
-Common (may affect up to 1 in 10 people):
+## Common (may affect up to 1 in 10 people):
 
 - decreased blood levels of neutrophils and leukocytes (types of white blood cells that help fight infections)
 - mouth sores (stomatitis)
@@ -2285,7 +2273,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-SpringWorks Therapeutics Ireland Limited Hamilton House, 28 Fitzwilliam Place Dublin 2, D02 P283 Ireland Tel: +49 800 428 3289
+SpringWorks Therapeutics Ireland Limited Hamilton House, 28 Fitzwilliam Place Dublin 2, D02 P283 Ireland
 
 ## Manufacturer
 
@@ -2304,17 +2292,3 @@ Detailed information on this medicine is available on the European Medicines Age
 ------------------------------------------------------------------------------------------------------------------------
 
 &gt;
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## CONCLUSIONS ON THE GRANTING OF THE CONDITIONAL MARKETING AUTHORISATION
-
-<div style=\"page-break-after: always\"></div>
-
-## Conclusions presented by the European Medicines Agency on:
-
-## · Conditional marketing authorisation
-
-The CHMP having considered the application is of the opinion that the risk -benefit balance is favourable to recommend the granting of the conditional marketing authorisation as further explained in the European Public Assessment Report.

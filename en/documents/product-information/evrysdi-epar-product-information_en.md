@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-25 09:09:17
+document_datetime: 2026-04-21 14:28:55
 document_pages: 87
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/evrysdi-epar-product-information_en.pdf
 document_name: evrysdi-epar-product-information_en.pdf
 version: success
-processing_time: 23.5503467
-conversion_datetime: 2026-03-29 12:44:00.205055
+processing_time: 19.2045324
+conversion_datetime: 2026-04-25 16:51:05.405259
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
   docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -331,13 +331,39 @@ Untreated patients with infantile -onset SMA would never be able to sit without 
 
 <div style=\"page-break-after: always\"></div>
 
+in CHOP-INTEND score
+
+- -
+
 Figure 1. Kaplan-Meier plot of event -free survival (FIREFISH Part 1 and Part 2)
+
+20
+
+15 -
+
+10
+
+5
+
+1.0
+
+30
+
+Mean change (90% CI) from baseline
+
+Number of patients at risk
+
+All patients, Part 1
+
+All patients, Part 2
 
 <!-- image -->
 
 Figure 2. Mean change from baseline in CHOP -INTEND total score (FIREFISH Part 2)
 
 <!-- image -->
+
+- - -1
 
 <div style=\"page-break-after: always\"></div>
 
@@ -392,6 +418,28 @@ Upon completion of 12 months of treatment, 117 patients continued to receive ris
 
 <div style=\"page-break-after: always\"></div>
 
+LS mean change from
+
+LS means change from baseline in RULM total
+
+baseline in total MFM32 score
+
+1
+
+-1
+
+-1
+
+-
+
+-2
+
+-2-
+
+-3
+
+-3 +
+
 Figure 3. Mean change from baseline in MFM32 total score over 12 months in SUNFISH Part 2 1
 
 <!-- image -->
@@ -438,6 +486,12 @@ Additionally, 80% (4/5) of the primary efficacy population, 87.5% (7/8) of patie
 Patients in the ITT population also achieved motor milestones as measured by the HINE-2 at Month 12 (N=25). In this population 96.0% of patients could sit [1 patient (1/8 patients with 2 SMN2 copies) achieved stable sit and 23 patients (6/8, 13/13, 4/4 of patients with 2, 3, and ≥ 4 SMN2 copies, respectively) could pivot/rotate]. In addition, 84% of patients could stand; 32% (N=8) patients could stand with support (3/8, 3/13 and 2/4 patients with 2, 3, and ≥ 4 SMN2 copies, respectively) and 52% (N=13) patients could stand unaided (1/8, 10/13 and 2/4 of patients with 2, 3, and ≥ 4 SMN2 copies, respectively). Furthermore, 72% of patients could bounce, cruise or walk; 8% (N=2) patients could bounce (2/8 patients with 2 SMN2 copies), 16% (N=4) could cruise (3/13 and 1/4 patients with 3 and ≥ 4 SMN2 copies, respectively) and 48% (N=12) could walk independently (1/8, 9/13 and 2/4 patients with 2, 3, and ≥ 4 SMN2 copies, respectively). Seven patients were not tested for walking at Month 12.
 
 <div style=\"page-break-after: always\"></div>
+
+Median (‡IQR) total score
+
+50 -
+
+30 -
 
 Table 6. Summary of key efficacy endpoints for pre -symptomatic patients at Month 12
 
@@ -783,9 +837,10 @@ There is no efficacy or safety data to support the concomitant use of risdiplam 
 
 Male and female patients of reproductive potential should adhere to the following contraception requirements:
 
+- Female patients of childbearing potential should use highly effective contraception during treatment and for at least 1 month after the last dose.
+
 <div style=\"page-break-after: always\"></div>
 
-- Female patients of childbearing potential should use highly effective contraception during treatment and for at least 1 month after the last dose.
 - Male patients, and their female partners of childbearing potential, should both ensure that highly effective contraception is achieved during treatment and for at least 4 months after the last dose.
 
 ## Pregnancy testing
@@ -943,13 +998,39 @@ Untreated patients with infantile-onset SMA would never be able to sit without s
 
 <div style=\"page-break-after: always\"></div>
 
+in CHOP-INTEND score
+
+- -
+
 Figure 1. Kaplan -Meier plot of event -free survival (FIREFISH Part 1 and Part 2)
+
+20
+
+15 -
+
+10
+
+5
+
+1.0
+
+30
+
+Mean change (90% CI) from baseline
+
+Number of patients at risk
+
+All patients, Part 1
+
+All patients, Part 2
 
 <!-- image -->
 
 Figure 2. Mean change from baseline in CHOP -INTEND total score (FIREFISH Part 2)
 
 <!-- image -->
+
+- - -1
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1004,6 +1085,28 @@ Upon completion of 12 months of treatment, 117 patients continued to receive ris
 
 <div style=\"page-break-after: always\"></div>
 
+LS mean change from
+
+LS means change from baseline in RULM total
+
+baseline in total MFM32 score
+
+1
+
+-1
+
+-1
+
+-
+
+-2
+
+-2-
+
+-3
+
+-3 +
+
 Figure 3. Mean change from baseline in MFM32 total score over 12 months in SUNFISH Part 2 1
 
 <!-- image -->
@@ -1050,6 +1153,14 @@ Additionally, 80% (4/5) of the primary efficacy population, 87.5% (7/8) of patie
 Patients in the ITT population also achieved motor milestones as measured by the HINE-2 at Month 12 (N=25). In this population 96.0% of patients could sit [1 patient (1/8 patients with 2 SMN2 copies) achieved stable sit and 23 patients (6/8, 13/13, 4/4 of patients with 2, 3, and ≥ 4 SMN2 copies, respectively) could pivot/rotate]. In addition, 84% of patients could stand; 32% (N=8) patients could stand with support (3/8, 3/13 and 2/4 patients with 2, 3, and ≥ 4 SMN2 copies, respectively) and 52% (N=13) patients could stand unaided (1/8, 10/13 and 2/4 of patients with 2, 3, and ≥ 4 SMN2 copies, respectively). Furthermore, 72% of patients could bounce, cruise or walk; 8% (N=2) patients could bounce (2/8 patients with 2 SMN2 copies), 16% (N=4) could cruise (3/13 and 1/4 patients with 3 and ≥ 4 SMN2 copies, respectively) and 48% (N=12) could walk independently (1/8, 9/13 and 2/4 patients with 2, 3, and ≥ 4 SMN2 copies, respectively). Seven patients were not tested for walking at Month 12.
 
 <div style=\"page-break-after: always\"></div>
+
+Median (‡IQR) total score
+
+50 -
+
+30 -
+
++
 
 Table 5. Summary of key efficacy endpoints for pre -symptomatic patients at Month 12
 
@@ -1194,11 +1305,11 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-3 years
+4 years
 
 ## 6.4 Special precautions for storage
 
-Film -coated tablets
+## Film -coated tablets
 
 This medicinal product does not require any special temperature storage conditions. Store in the original package in order to protect from moisture.
 
@@ -1670,9 +1781,10 @@ Talk to your doctor about highly effective methods of birth control that you and
 
 If your partner is a woman who can have children, she must not become pregnant. Use condoms:
 
+-  while taking this medicine and
+
 <div style=\"page-break-after: always\"></div>
 
--  while taking this medicine and
 -  for 4 months after you stop taking this medicine.
 
 Talk to your doctor about highly effective methods of birth control that you and your partner can use.
@@ -1720,9 +1832,9 @@ You must take your daily dose as instructed by your doctor.
 
 -  Do not change the dose without speaking with your doctor.
 
-<div style=\"page-break-after: always\"></div>
-
 ## When and how to take Evrysdi
+
+<div style=\"page-break-after: always\"></div>
 
 A booklet with ' Instructions for use ' is included in the pack. It shows you how to withdraw your dose using the re-usable oral syringe given to you. You can take the medicine:
 
@@ -1779,10 +1891,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 -  diarrhoea
 -  rash
 -  headache
+-  fever
 
 <div style=\"page-break-after: always\"></div>
-
-##  fever
 
 Common: may affect up to 1 in 10 people
 
@@ -1790,10 +1901,9 @@ Common: may affect up to 1 in 10 people
 -  mouth sores
 -  bladder infection
 -  joint pain
+-  inflamed small blood vessels mainly in the skin (cutaneous vasculitis).
 
 Not known: it is not known how often these happen
-
--  inflamed small blood vessels mainly in the skin (cutaneous vasculitis).
 
 ## Reporting of side effects
 
@@ -1818,10 +1928,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 -  The active substance in the oral solution is risdiplam.
 -  Each mL of the oral solution contains 0.75 mg risdiplam.
+-  The other ingredients are mannitol (E 421), isomalt (E 953), strawberry flavour [natural flavouring substance(s), flavouring preparation(s), maize maltodextrin, modified waxy maize starch (E1450)], tartaric acid (E 334), sodium benzoate (E 211), macrogol 6000 (E 1521), sucralose, ascorbic acid (E 300), disodium edetate dihydrate (see Section 2 'Evrysdi contains sodium' and 'Evrysdi contains isomalt').
 
 <div style=\"page-break-after: always\"></div>
-
--  The other ingredients are mannitol (E 421), isomalt (E 953), strawberry flavour [natural flavouring substance(s), flavouring preparation(s), maize maltodextrin, modified waxy maize starch (E1450)], tartaric acid (E 334), sodium benzoate (E 211), macrogol 6000 (E 1521), sucralose, ascorbic acid (E 300), disodium edetate dihydrate (see Section 2 'Evrysdi contains sodium' and 'Evrysdi contains isomalt').
 
 ## What Evrysdi looks like and contents of the pack
 
@@ -1839,11 +1948,7 @@ Roche Pharma AG Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien, Luxembourg/Luxemburg
-
-N.V. Roche S.A. België/Belgique/Belgien
-
-Tél/Tel: +32 (0) 2 525 82 11
+België/Belgique/Belgien, Luxembourg/Luxemburg N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
 ## Latvija
 
@@ -1871,7 +1976,9 @@ Tel: +420 - 2 20382111
 
 ## Magyarország
 
-Roche (Magyarország) Kft. Tel: +36 1 279 4500
+Roche (Magyarország) Kft.
+
+Tel: +36 1 279 4500
 
 ## Danmark
 
@@ -1885,19 +1992,29 @@ Roche Nederland B.V.
 
 Tel: +31 (0) 348 438000
 
-<div style=\"page-break-after: always\"></div>
-
 ## Deutschland
 
 Roche Pharma AG
 
 Tel: +49 (0) 7624 140
 
+## Norge
+
+Roche Norge AS
+
+Tlf: +47 - 22 78 90 00
+
 ## Eesti
 
 Roche Eesti OÜ
 
 Tel: + 372 - 6 177 380
+
+## Österreich
+
+Roche Austria GmbH
+
+Tel: +43 (0) 1 27739
 
 ## Ελλάδα , Κύπρος
 
@@ -1907,65 +2024,17 @@ Roche (Hellas) A.E. Ελλάδα
 
 : +30 210 61 66 100
 
-## España
-
-Roche Farma S.A.
-
-Tel: +34 - 91 324 81 00
-
-## France
-
-## Roche
-
-Tél: +33 (0) 1 47 61 40 00
-
-## Hrvatska
-
-Roche d.o.o.
-
-Tel: +385 1 4722 333
-
-## Ireland, Malta
-
-Roche Products (Ireland) Ltd. Ireland/L-Irlanda
-
-Tel: +353 (0) 1 469 0700
-
-## Ísland
-
-Roche Pharmaceuticals A/S c/o Icepharma hf
-
-Sími: +354 540 8000
-
-## Italia
-
-Roche S.p.A.
-
-Tel: +39 - 039 2471
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-## Norge
-
-Roche Norge AS
-
-Tlf: +47 - 22 78 90 00
-
-## Österreich
-
-Roche Austria GmbH
-
-Tel: +43 (0) 1 27739
-
 ## Polska
 
 Roche Polska Sp.z o.o.
 
 Tel: +48 - 22 345 18 88
+
+## España
+
+Roche Farma S.A.
+
+Tel: +34 - 91 324 81 00
 
 ## Portugal
 
@@ -1973,11 +2042,23 @@ Roche Farmacêutica Química, Lda
 
 Tel: +351 - 21 425 70 00
 
+## France
+
+## Roche
+
+Tél: +33 (0) 1 47 61 40 00
+
 ## România
 
 Roche România S.R.L.
 
 Tel: +40 21 206 47 01
+
+## Hrvatska
+
+Roche d.o.o.
+
+Tel: +385 1 4722 333
 
 ## Slovenija
 
@@ -1985,11 +2066,25 @@ Roche farmacevtska družba d.o.o.
 
 Tel: +386 - 1 360 26 00
 
+## Ireland, Malta
+
+Roche Products (Ireland) Ltd.
+
+Ireland/L-Irlanda
+
+Tel: +353 (0) 1 469 0700
+
 ## Slovenská republika
 
 Roche Slovensko, s.r.o.
 
 Tel: +421 - 2 52638201
+
+## Ísland
+
+Roche Pharmaceuticals A/S c/o Icepharma hf
+
+Sími: +354 540 8000
 
 ## Suomi/Finland
 
@@ -1997,11 +2092,25 @@ Roche Oy
 
 Puh/Tel: +358 (0) 10 554 500
 
+## Italia
+
+Roche S.p.A.
+
+Tel: +39 - 039 2471
+
 ## Sverige
 
 Roche AB
 
 Tel: +46 (0) 8 726 1200
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2140,6 +2249,8 @@ If it is not taken within 5 minutes , discard the medicine from oral syringe and
 
 <div style=\"page-break-after: always\"></div>
 
+ıprıgnt when taking a dose volume or Evrysal by mo
+
 Figure I
 
 <!-- image -->
@@ -2206,6 +2317,10 @@ Go to Step E for cleaning of the syringe.
 
 <div style=\"page-break-after: always\"></div>
 
+Luww
+
+10.
+
 Figure N
 
 <!-- image -->
@@ -2241,6 +2356,8 @@ Flush the gastrostomy tube with 1020 mL of water right after giving the dose of 
 Go to Step E for cleaning of the syringe.
 
 <div style=\"page-break-after: always\"></div>
+
+How to clean the oral syringe after use
 
 Figure R
 
@@ -2331,6 +2448,8 @@ Figure A
 
 <div style=\"page-break-after: always\"></div>
 
+usulution
+
 ## How to store Evrysdi
 
 -  Store the powder (unconstituted medicine) at room temperature (&lt; 25°C) and keep it in the carton with the bottle tightly closed in order to protect from moisture.
@@ -2364,6 +2483,8 @@ Step 3
 Carefully pour 79 mL of Purified Water or Water for Injection into the medicine bottle (See Figure D).
 
 <div style=\"page-break-after: always\"></div>
+
+15 sec
 
 <!-- image -->
 
@@ -2987,6 +3108,8 @@ Place the syringe tip into the gastrostomy/nasogastric tube. Slowly press the pl
 ## Step D3
 
 Check that there is no medicine left in the syringe ( Figure I ).
+
+Rigure H
 
 <!-- image -->
 

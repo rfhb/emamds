@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-10 16:10:32
+document_datetime: 2026-04-21 14:54:34
 document_pages: 44
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/verquvo-epar-product-information_en.pdf
 document_name: verquvo-epar-product-information_en.pdf
 version: success
-processing_time: 17.9336125
-conversion_datetime: 2025-12-18 21:06:45.47397
+processing_time: 16.6369733
+conversion_datetime: 2026-04-25 16:32:08.65872
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -22,21 +22,17 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
-
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Verquvo 2.5 mg film-coated tablets Verquvo 5 mg film-coated tablets Verquvo 10 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Verquvo 2.5 mg film-coated tablets
+## Verquvo 2.5 mg film-coated tablets
 
 Each film-coated tablet contains 2.5 mg vericiguat.
 
-Excipient with known effect
+## Excipient with known effect
 
 Each film-coated tablet contains 58.14 mg lactose (as monohydrate), see section 4.4.
 
@@ -44,7 +40,7 @@ Each film-coated tablet contains 58.14 mg lactose (as monohydrate), see section 
 
 Each film-coated tablet contains 5 mg vericiguat.
 
-Excipient with known effect
+## Excipient with known effect
 
 Each film-coated tablet contains 55.59 mg lactose (as monohydrate), see section 4.4.
 
@@ -52,7 +48,7 @@ Each film-coated tablet contains 55.59 mg lactose (as monohydrate), see section 
 
 Each film-coated tablet contains 10 mg vericiguat.
 
-Excipient with known effect
+## Excipient with known effect
 
 Each film-coated tablet contains 111.15 mg lactose (as monohydrate), see section 4.4.
 
@@ -62,7 +58,7 @@ For the full list of excipients, see section 6.1.
 
 Film-coated tablet (tablet)
 
-Verquvo 2.5 mg film-coated tablets
+## Verquvo 2.5 mg film-coated tablets
 
 Round, biconvex, white film-coated tablet with a diameter of 7 mm, marked with '2.5' on one side and 'VC' on the other side.
 
@@ -70,11 +66,11 @@ Round, biconvex, white film-coated tablet with a diameter of 7 mm, marked with '
 
 Round, biconvex, brown-red film-coated tablet with a diameter of 7 mm, marked with '5' on one side and 'VC' on the other side.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Verquvo 10 mg film-coated tablets
 
 Round, biconvex, yellow-orange film-coated tablet with a diameter of 9 mm, marked with '10' on one side and 'VC' on the other side.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4. CLINICAL PARTICULARS
 
@@ -116,11 +112,11 @@ No dose adjustment is required in patients with estimated glomerular filtration 
 
 No dose adjustment is required in patients with mild or moderate hepatic impairment. Treatment with vericiguat is not recommended in patients with severe hepatic impairment (see sections 4.4 and 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric population
 
 The safety and efficacy of vericiguat in children and adolescents aged below 18 years have not yet been established. No clinical data are available. Undesirable effects were observed on growing bone in non-clinical studies (see section 5.3).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Method of administration
 
@@ -139,9 +135,7 @@ For patients who are unable to swallow whole tablets, Verquvo may be crushed and
 
 ## Symptomatic hypotension
 
-Vericiguat may cause symptomatic hypotension (see section 4.8). Patients with SBP less than 100 mmHg or symptomatic hypotension at treatment initiation were not studied.
-
-The potential for symptomatic hypotension should be considered in patients with hypovolaemia, severe left ventricular outflow obstruction, resting hypotension, autonomic dysfunction, history of hypotension, or concomitant treatment with antihypertensives or organic nitrates (see section 4.5). If patients experience tolerability issues (symptomatic hypotension or SBP less than 90 mmHg), temporary down-titration or discontinuation of vericiguat is recommended (see section 4.2). Concomitant use of vericiguat and PDE5 inhibitors, such as sildenafil, has not been studied in patients with heart failure and is therefore not recommended due to the potential increased risk for symptomatic hypotension (see section 4.5).
+Vericiguat may cause symptomatic hypotension (see section 4.8). Patients with SBP less than 100 mmHg or symptomatic hypotension at treatment initiation were not studied. The potential for symptomatic hypotension should be considered in patients with hypovolaemia, severe left ventricular outflow obstruction, resting hypotension, autonomic dysfunction, history of hypotension, or concomitant treatment with antihypertensives or organic nitrates (see section 4.5). If patients experience tolerability issues (symptomatic hypotension or SBP less than 90 mmHg), temporary down-titration or discontinuation of vericiguat is recommended (see section 4.2). Concomitant use of vericiguat and PDE5 inhibitors, such as sildenafil, has not been studied in patients with heart failure and is therefore not recommended due to the potential increased risk for symptomatic hypotension (see section 4.5).
 
 ## Renal impairment
 
@@ -316,7 +310,7 @@ Patients were treated up to the target maintenance dose of vericiguat 10 mg once
 
 The primary endpoint was the time to first event of the composite of cardiovascular (CV) death or hospitalisation for HF. The median follow-up for the primary endpoint was 11 months. Patients on vericiguat were treated for a mean duration of 1 year and up to 2.6 years.
 
-The mean age of the studied population was 67 years, a total of 1,596 (63%) patients treated with vericiguat were 65 years and older, and 783 (31%) patients treated with vericiguat were 75 years and older. At randomisation, 58.9% of patients were NYHA Class II, 39.7% were NYHA Class III, and 1.3% were NYHA Class IV. The mean LVEF was 28.9%, approximately half of all patients had an LVEF &lt;30%, and 14.3% of patients had an LVEF between 40% and 45%. The most frequently reported medical history conditions other than HF included hypertension (79%), coronary artery disease (58%), hyperlipidaemia (57%), diabetes mellitus (47%), atrial fibrillation (45%), and myocardial infarction (42%). At randomisation, the mean eGFR was 62 mL/min/1.73 m 2  (88% of patients &gt;30 mL/min/1.73 m 2 ; 10% of patients ≤30 mL/min/1.73 m 2 ). 67% of the patients in VICTORIA were enrolled within 3 months of a HF hospitalisation; 17% were enrolled within 3 to 6 months of HF hospitalisation and 16% were enrolled within 3 months of outpatient treatment with IV diuretics. The median NT-proBNP level was 2,816 pg/mL at randomisation.
+The mean age of the studied population was 67 years, a total of 1,596 (63%) patients treated with vericiguat were 65 years and older, and 783 (31%) patients treated with vericiguat were 75 years and older. At randomisation, 58.9% of patients were NYHA Class II, 39.7% were NYHA Class III, and 1.3% were NYHA Class IV. The mean LVEF was 28.9%, approximately half of all patients had an LVEF &lt;30%, and 14.3% of patients had an LVEF between 40% and 45%. The most frequently reported medical history conditions other than HF included hypertension (79%), coronary artery disease (58%), hyperlipidaemia (57%), diabetes mellitus (47%), atrial fibrillation (45%), and myocardial infarction (42%). At randomisation, the mean eGFR was 62 mL/min/1.73 m 2 (88% of patients &gt;30 mL/min/1.73 m 2 ; 10% of patients ≤30 mL/min/1.73 m 2 ). 67% of the patients in VICTORIA were enrolled within 3 months of a HF hospitalisation; 17% were enrolled within 3 to 6 months of HF hospitalisation and 16% were enrolled within 3 months of outpatient treatment with IV diuretics. The median NT-proBNP level was 2,816 pg/mL at randomisation.
 
 At baseline, more than 99% of patients were treated with other HF therapies which included beta blockers (93%), angiotensin-converting enzyme (ACE) inhibitors or angiotensin II receptor blockers (ARB) (73%), mineralocorticoid receptor antagonists (MRA) (70%), a combination of an angiotensin receptor and neprilysin inhibitor (ARNI) (15%), ivabradine (6%), implantable cardiac defibrillators (28%), and biventricular pacemakers (15%). 91% of patients were treated with 2 or more HF medicinal products (beta blocker, any renin-angiotensin system [RAS] inhibitor, or MRA) and 60% of patients were treated with all 3. 3% of patients were on a sodium glucose co-transporter 2 (SGLT2) inhibitor.
 
@@ -336,19 +330,47 @@ Table 2: Treatment effect for the primary composite endpoint, its components, an
 | Composite of all-cause mortality or HF hospitalisation 5                  | 957 (37.9) [35.9]                       | 1,032 (40.9) [40.1]                    | 0.90 (0.83, 0.98)                                                   |
 | Total number of HF hospitalisations (first and recurrent)                 | 1,223 [38.3]                            | 1,336 [42.4]                           | 0.91 (0.84, 0.99) 6                                                 |
 
-1 Total patients with an event per 100 patient years at risk.
-
-2 Hazard ratio (vericiguat over placebo) and confidence interval from a Cox proportional hazards model.
-
-3 From the log-rank test. p-value applies to HR only and not annualised ARR.
-
-4 Annualised absolute risk reduction, calculated as difference (placebo-vericiguat) in annual %.
-
-5 For patients with multiple events, only the first event contributing to the composite endpoint is counted.
-
-6 Hazard ratio (vericiguat over placebo) and confidence interval from an Andersen-Gill model. N=Number of patients in Intent-to-treat (ITT) population; n=Number of patients with an event.
-
 <div style=\"page-break-after: always\"></div>
+
+Cumulative Incidence Rate
+
+0.55
+
+0.50
+
+0.45
+
+0.40
+
+0.35
+
+0.30
+
+0.25
+
+0.20
+
+0.15
+
+0.10
+
+0.05
+
+0.00
+
+Number of subjects at risk
+
+Vericiguat
+
+2526
+
+Placebo
+
+2524
+
+Vericiguat
+
+Placebo
 
 Figure 1: Kaplan-Meier curve for the primary composite endpoint: time to first occurrence of CV death or HF hospitalisation
 
@@ -358,41 +380,63 @@ A wide range of demographic characteristics, baseline disease characteristics an
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 2: Primary composite endpoint (time to first occurrence of CV death or HF hospitalisation) - select subgroups of the pre-specified analyses
+(pg/mL)
 
-|                                           | %of TotalVericiguat Population   | tPlacebo n (%) n (%)   |       | Hazard Ratio (95% CI)   |
-|-------------------------------------------|----------------------------------|------------------------|-------|-------------------------|
-| NT-proBNP atBaseline by Quartiles (pg/mL) |                                  |                        |       |                         |
-| Q1 (≤1556)                                | 23.8                             | 128 (21.4)161 (26.7)   |       | 0.78 (0.62,0.99)        |
-| Q2 (>1556 - ≤2816)                        | 23.8                             | 165 (26.9) 201 (34.1)  |       | 0.73 (0.60,0.90)        |
-| Q3 (>2816 -≤5314)                         | 23.7                             | 213 (36.3) 257 (41.9)  |       | 0.82 (0.69,0.99)        |
-| Q4 (>5314)                                | 23.8                             | 355 (57.6)302 (51.6)   |       | 1.16 (0.99,1.35)        |
-| Ejection Fraction at Screening Group 1    |                                  |                        |       |                         |
-| <35%                                      | 68.6                             | 637 (36.9)703 (40.4)   |       | 0.88 (0.79,0.97)        |
-| ≥ 35%                                     | 31.1                             | 255 (32.2)265 (34.0)   |       | 0.96 (0.81,1.14)        |
-| EjectionFractionatScreening Group 2       |                                  |                        |       |                         |
-| < 40%                                     | 85.5                             | 773 (35.8)851 (39.4)   |       | 0.88 (0.80,0.97)        |
-| ≥ 40%                                     | 14.3                             | 119 (33.2)117 (32.3)   | TI    | 1.05 (0.81,1.36)        |
-| eGFR at Baseline (mL/min/1.73 m²)         |                                  |                        |       |                         |
-| mM                                        | 10.0                             | 143 (55.2)128 (51.8)   | TY    | 1.06 (0.83,1.34)        |
-| >30 to ≤ 60                               | 41.9                             | 392 (37.2)455 (42.8)   |       | 0.84 (0.73,0.96)        |
-| >60                                       | 46.2                             | 346 (29.8)372 (31.7)   | M     | 0.92 (0.80,1.07)        |
-| Age Group 1 (years)                       |                                  |                        |       |                         |
-| <65                                       | 37.1                             | 290 (31.3)348 (36.7)   |       | 0.81 (0.70,0.95)        |
-| ≥65                                       | 62.9                             | 607 (37.9)624 (39.6)   | M     | 0.94 (0.84,1.06)        |
-| Age Group 2 (years)                       |                                  |                        |       |                         |
-| <75                                       | 69.0                             | 579 (33.3)669 (38.4)   | M     | 0.84 (0.75,0.94)        |
-| ≥75                                       | 31.0                             | 318 (40.5)303 (38.7)   |       | 1.04 (0.88,1.21)        |
-| Overall                                   | 100.0                            | 897 (35.5)972 (38.5)   | M     | 0.90 (0.82, 0.98)       |
-|                                           |                                  |                        | 0.5 1 | 2                       |
+Group 1
 
-Vericiguat ←Favor→Placebo
+Population n (%)
+
+% of Total Vericiguat Placebo
+
+NT-proBNP at Baseline by Quartiles
+
+(95% CI)
+
+Figure 2: Primary composite endpoint (time to first occurrence of CV death or HF hospitalisation) - select subgroups of the pre-specified analyses 0.73 (0.60,0.90)
+
+03(&gt;2816 - ≤5314)
+
+Ejection Fraction at Screening
+
+Ejection Fraction at Screening
+
+Group 2
+
+eGFR at Baseline (mL/min/1.73 m2)
+
+| Q4 (>5314) 23.8             | 355 (57.6) 302 (51.6)        | 1.16 (0.99,1.35)   |
+|-----------------------------|------------------------------|--------------------|
+| < 35% 68.6                  | 637 (36.9) 703(40.4)         | 0.88 (0.79,0.97)   |
+| ≥ 35% 31.1                  | 255 (32.2) 265 (34.0)        | 0.96 (0.81,1.14)   |
+| < 40% ≥ 40% 85.5 119 (33.2) | 773 (35.8) 851 (39.4)        | 0.88 (0.80,0.97)   |
+| 14.3                        | 117(32.3)                    | 1.05 (0.81,1.36)   |
+| ≤ 30 10.0 143 (55.2)        | 128(51.8)                    | 1.06 (0.83,1.34)   |
+| >30 to ≤ 60 41.9            | 392 (37.2) 455 (42.8)        | 0.84 (0.73,0.96)   |
+| >60 46.2                    | 346 (29.8) 372 (31.7)        | 0.92 (0.80,1.07)   |
+| Age Group 1 (years) < 65    |                              |                    |
+| 37.1                        | 290 (31.3) 348 (36.7)        | 0.81 (0.70,0.95)   |
+| ≥ 65 62.9                   | 607 (37.9) 624 (39.6)        | 0.94 (0.84,1.06)   |
+| < 75 ≥ 75 69.0              | 579 (33.3) 669 (38.4) Hall   | 0.84 (0.75,0.94)   |
+| 31.0                        | 318 (40.5) 303 (38.7)        | 1.04 (0.88,1.21)   |
+| Overall 100.0               | 897 (35.5) 972 (38.5)        | 0.90 (0.82, 0.98)  |
+|                             | T 0.5 1                      |                    |
+|                             | Vericiguat - Favor → Placebo |                    |
 
 Patients with very high NT-proBNP may not be fully stabilised and require further optimisation of volume status and diuretic therapy (see sections 4.1 and 4.2).
 
 ## Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Verquvo in one or more subsets of the paediatric population in the treatment of left ventricular failure (see section 4.2 for information on paediatric use).
+
+23.7
+
+213 (36.3) 257 (41.9)
+
+0.82 (0.69,0.99)
+
+n (%)
+
+Hazard Ratio
 
 <div style=\"page-break-after: always\"></div>
 
@@ -571,9 +615,9 @@ Medicinal product subject to medical prescription.
 
 ## · Periodic safety update reports (PSURs)
 
-The requirements for submission of PSURs for this medicinal product are set out in the list of and any subsequent updates published on the European medicines web-portal.
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC The marketing authorisation holder (MAH) shall submit the first PSUR for this product within
+The marketing authorisation holder (MAH) shall submit the first PSUR for this product within
 
 6 months following authorisation.
 
@@ -666,49 +710,8 @@ Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
-EU/1/21/1561/001 - 14 film-coated tablets
-
-(blister, PVC/PVDC/alu)
-
-EU/1/21/1561/002 - 28 film-coated tablets
-
-(blister, PVC/PVDC/alu)
-
-EU/1/21/1561/003 - 98 film-coated tablets
-
-(blister, PVC/PVDC/alu)
-
-EU/1/21/1561/004 - 10 x 1 film-coated tablets
-
-(perforated unit-dose blister, PVC/PVDC/alu)
-
-EU/1/21/1561/005 - 100 x 1 film-coated tablets
-
-(perforated unit-dose blister, PVC/PVDC/alu)
-
-EU/1/21/1561/006 - 14 film-coated tablets
-
-(blister, PP/alu)
-
-EU/1/21/1561/007 - 28 film-coated tablets
-
-(blister, PP/alu)
-
-EU/1/21/1561/008 - 98 film-coated tablets
-
-(blister, PP/alu)
-
-EU/1/21/1561/009 - 10 x 1 film-coated tablets
-
-(perforated unit-dose blister, PP/alu)
-
-EU/1/21/1561/010 - 100 x 1 film-coated tablets
-
-(perforated unit-dose blister, PP/alu)
-
-EU/1/21/1561/011 - 100 film-coated tablets
-
-(bottle)
+| EU/1/21/1561/001 - 14 film-coated tablets EU/1/21/1561/002 - 28 film-coated tablets EU/1/21/1561/003 - 98 film-coated tablets EU/1/21/1561/004 - 10 x 1 film-coated tablets EU/1/21/1561/005 - 100 x 1 film-coated tablets EU/1/21/1561/006 - 14 film-coated tablets EU/1/21/1561/007 - 28 film-coated tablets EU/1/21/1561/008 - 98 film-coated tablets EU/1/21/1561/009 - 10 x 1 film-coated tablets EU/1/21/1561/010 - 100 x 1 film-coated tablets EU/1/21/1561/011 - 100 film-coated tablets   | (blister, PVC/PVDC/alu) (blister, PVC/PVDC/alu) (blister, PVC/PVDC/alu) (perforated unit-dose blister, (perforated unit-dose blister, (blister, PP/alu) (blister, PP/alu) (blister, PP/alu) (perforated unit-dose blister, (perforated unit-dose blister, (bottle)   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 13. BATCH NUMBER
 
@@ -880,7 +883,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON FOR 5 MG
+OUTER CARTON FOR 5 MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1016,7 +1019,7 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS     |
+| MINIMUM PARTICULARS TO APPEARON BLISTERS OR STRIPS     |
 |--------------------------------------------------------|
 | BLISTERFOR5MG- PACKS OF 14, 28, 98 FILM-COATED TABLETS |
 
@@ -1147,8 +1150,8 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 | 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
 |-------|-----------------------------------------|
@@ -1159,7 +1162,9 @@ OUTER CARTON FOR 10 MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Verquvo 10 mg film-coated tablets vericiguat
+Verquvo 10 mg film-coated tablets
+
+vericiguat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1435,15 +1440,11 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
 ## Verquvo 2.5 mg film-coated tablets Verquvo 5 mg film-coated tablets Verquvo 10 mg film-coated tablets
 
 vericiguat
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1562,7 +1563,8 @@ Very common (may affect more than 1 in 10 people)
 
 Common (may affect up to 1 in 10 people)
 
-- -low number of red blood cells (anaemia), which can cause pale skin, weakness or breathlessness
+- -
+- low number of red blood cells (anaemia), which can cause pale skin, weakness or breathlessness
 - -dizziness
 - -headache
 - -nausea and vomiting
@@ -1630,7 +1632,9 @@ Tél/Tel: +32-(0)2-535 63 11
 
 ## Lietuva
 
-UAB Bayer Tel. +37 05 23 36 868
+UAB Bayer
+
+Tel. +37 05 23 36 868
 
 ## България
 

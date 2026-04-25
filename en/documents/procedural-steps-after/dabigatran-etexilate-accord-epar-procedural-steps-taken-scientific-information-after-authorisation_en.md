@@ -1,41 +1,50 @@
 ---
-document_datetime: 2024-08-12 16:49:24
-document_pages: 2
+document_datetime: 2026-04-22 15:29:00
+document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/dabigatran-etexilate-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: dabigatran-etexilate-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.3141893
-conversion_datetime: 2025-12-14 23:05:54.08082
+processing_time: 1.5241725
+conversion_datetime: 2026-04-25 16:30:54.655456
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
-<!-- image -->
+EUROPEAN MEDICINES AGENCY
+
+SCIENCE MEDICINES
+
+HEALTH
 
 ## Dabigatran Etexilate Accord
 
-Procedural steps taken and scientific information after the authorisation
+Procedural steps taken and scientific information after the authorisation*
 
-| Application number   | Scope                                                                                                                                                                                                                                                        | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
-|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| IB/0003              | C.I.2.a - Change in the SPC, Labelling or PL of a generic/hybrid/biosimilar products following assessment of the same change for the reference product - Implementation of change(s) for which NO new additional data is required to be submitted by the MAH | 23/07/2024                          | 05/08/2024                                  | SmPC and PL                      |           |
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
+| Application number   | Scope                                     | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|-------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type IB /  | C.9 Introduction of, or change(s) to, the | 22/04/2026                          |                                             |                                  |           |
 
-2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
-
-3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+<!-- image -->
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-| N/0002   | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification)                                              | 20/12/2023   | 05/08/2024   | PL   |
-|----------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|------|
-| IB/0001  | C.I.11.z - Introduction of, or change(s) to, the obligations and conditions of a marketing authorisation, including the RMP - Other variation | 09/10/2023   | n/a          |      |
+| EMA/VR/0000341434                        | obligations and conditions of a marketing authorisation, including the risk management plan - C.9.b) Implementation of changes which require additional minor assessment (e.g. change to the due date of obligations and conditions of a marketing authorisation and required pharmacovigilance activities in the risk management plan, including changes to the due date of study milestones, and template updates) - Accepted Type IB, C.9.b - to update the RMP in line with European Public Assessment Report (EPAR) for the RMP of the reference product Pradaxa published on 16 December 2025.   |            |
+|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Variation type IA_IN / EMA/VR/0000333560 | Q.II.b.1 Change in the manufacturing site for part or all of the manufacturing process of the finished product (except for batch release and batch control testing sites) - Q.II.b.1.a) Addition or replacement of a site responsible for secondary packaging - Accepted                                                                                                                                                                                                                                                                                                                               | 23/02/2026 |
+| Variation type IA / EMA/VR/0000321365    | This was an application for a group of variations. A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.b The activities                                                                                                                                                                                                                                                                                                                                                                          | 08/01/2026 |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | for which the manufacturer/importer is responsible do not include batch release - Accepted B.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - B.II.b.3.a Minor change in the manufacturing process - Accepted B.I.b.2 Change in test procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - B.I.b.2.a Minor changes to an approved test procedure - Accepted   |            |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Variation type IA / EMA/VR/0000306582 | B.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - B.II.b.3.a Minor change in the manufacturing process - Accepted                                                                                                                                                                                                                                                                                                                           | 17/10/2025 |

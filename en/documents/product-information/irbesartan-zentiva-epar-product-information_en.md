@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-01-29 16:42:52
+document_datetime: 2026-04-22 10:10:18
 document_pages: 148
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/irbesartan-zentiva-epar-product-information_en.pdf
 document_name: irbesartan-zentiva-epar-product-information_en.pdf
 version: success
-processing_time: 30.035316
-conversion_datetime: 2025-12-28 04:14:48.892159
+processing_time: 33.9994134
+conversion_datetime: 2026-04-25 16:07:13.847788
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,7 +36,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Tablet.
+## Tablet.
 
 White to off-white, biconvex, and oval-shaped with a heart debossed on one side and the number 2771 engraved on the other side.
 
@@ -104,11 +104,11 @@ Dual blockade of the renin-angiotensin-aldosterone system (RAAS): there is evide
 
 aliskiren is therefore not recommended (see sections 4.5 and 5.1). If dual blockade therapy is considered absolutely necessary, this should only occur under specialist supervision and subject to frequent close monitoring of renal function, electrolytes and blood pressure. ACE-inhibitors and angiotensin II receptor blockers should not be used concomitantly in patients with diabetic nephropathy.
 
-Intestinal angioedema: intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
-
 Hyperkalaemia: as with other medicinal products that affect the renin-angiotensin-aldosterone system, hyperkalaemia may occur during the treatment with Irbesartan Zentiva, especially in the presence of renal impairment, overt proteinuria due to diabetic renal disease, and/or heart failure. Close monitoring of serum potassium in patients at risk is recommended (see section 4.5).
 
 Hypoglycaemia: Irbesartan Zentiva may induce hypoglycaemia, particularly in diabetic patients. In patients treated with insulin or antidiabetics an appropriate blood glucose monitoring should be considered; a dose adjustment of insulin or antidiabetics may be required when indicated (see section 4.5).
+
+Intestinal angioedema: intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
 
 Lithium: the combination of lithium and Irbesartan Zentiva is not recommended (see section 4.5).
 
@@ -130,7 +130,7 @@ Paediatric population: irbesartan has been studied in paediatric populations age
 
 Lactose: patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
-Sodium: This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+Sodium: This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -196,15 +196,15 @@ The following table presents the adverse drug reactions that were reported in pl
 
 The frequency of adverse reactions listed below is defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Adverse reactions additionally reported from post-marketing experience are also listed. These adverse reactions are derived from spontaneous reports.
+Adverse reactions additionally reported from post -marketing experience are also listed. These adverse reactions are derived from spontaneous reports.
 
-## Blood and lymphatic system disorders
+Blood and lymphatic system disorders
 
 Not known:
 
 anaemia, thrombocytopenia
 
-## Immune system disorders
+Immune system disorders
 
 Not known:
 
@@ -324,7 +324,7 @@ chest pain
 
 Very common:  Hyperkalaemia* occurred more often in diabetic patients treated with irbesartan than with placebo. In diabetic hypertensive patients with microalbuminuria and normal renal function, hyperkalaemia (≥ 5.5 mEq/L) occurred in 29.4% of the patients in the irbesartan 300 mg group and 22% of the patients in the placebo group. In diabetic hypertensive patients with chronic renal insufficiency and overt proteinuria, hyperkalaemia (≥ 5.5 mEq/L) occurred in 46.3% of the patients in the irbesartan group and 26.3% of the patients in the placebo group.
 
-## Common:
+Common:
 
 significant increases in plasma creatine kinase were commonly observed (1.7%) in irbesartan treated subjects. None of these increases were associated with identifiable clinical musculoskeletal events.
 
@@ -386,7 +386,7 @@ The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreas
 
 Subgroups consisting of gender, race, age, duration of diabetes, baseline blood pressure, serum creatinine, and albumin excretion rate were assessed for treatment effect. In the female and black subgroups which represented 32% and 26% of the overall study population respectively, a renal benefit was not evident, although the confidence intervals do not exclude it. As for the secondary endpoint of fatal and non-fatal cardiovascular events, there was no difference among the three groups in the overall population, although an increased incidence of non-fatal MI was seen for women and a decreased incidence of non-fatal MI was seen in males in the irbesartan group versus the placebobased regimen. An increased incidence of non-fatal MI and stroke was seen in females in the irbesartan-based regimen versus the amlodipine-based regimen, while hospitalization due to heart failure was reduced in the overall population. However, no proper explanation for these findings in women has been identified.
 
-The study of the 'Effects of Irbesartan on Microalbuminuria in Hypertensive Patients with type 2 Diabetes Mellitus (IRMA 2)' shows that irbesartan 300 mg delays progression to overt proteinuria in patients with microalbuminuria. IRMA 2 was a placebo-controlled double blind morbidity study in 590 patients with type 2 diabetes, microalbuminuria (30-300 mg/day) and normal renal function (serum creatinine ≤ 1.5 mg/dl in males and &lt; 1.1 mg/dl in females). The study examined the long-term effects (2 years) of Irbesartan Zentiva on the progression to clinical (overt) proteinuria (urinary albumin excretion rate (UAER) &gt; 300 mg/day, and an increase in UAER of at least 30% from baseline). The predefined blood pressure goal was ≤ 135/85 mmHg. Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and dihydropyridine calcium blockers) were added as needed to help achieve the blood pressure goal. While similar blood pressure was achieved in all treatment groups, fewer subjects in the irbesartan 300 mg group (5.2%) than in the placebo (14.9%) or in the irbesartan 150 mg group (9.7%) reached the endpoint of overt proteinuria, demonstrating a 70% relative risk reduction versus placebo (p = 0.0004) for the higher dose. An accompanying improvement in the glomerular filtration rate (GFR) was not observed during the first three months of treatment. The slowing in the progression to clinical proteinuria was evident as early as three months and continued over the 2 year period. Regression to normoalbuminuria (&lt; 30 mg/day) was more frequent in the Irbesartan Zentiva 300 mg group (34%) than in the placebo group (21%).
+The study of the 'Effects of Irbesartan on Microalbuminuria in Hypertensive Patients with type 2 Diabetes Mellitus (IRMA 2)' shows that irbesartan 300 mg delays progression to overt proteinuria in patients with microalbuminuria. IRMA 2 was a placebo-controlled double blind morbidity study in 590 patients with type 2 diabetes, microalbuminuria (30-300 mg/day) and normal renal function (serum creatinine ≤ 1.5 mg/dl in males and &lt; 1.1 mg/dl in females). The study examined the long-term effects (2 years) of Irbesartan Zentiva on the progression to clinical (overt) proteinuria (urinary albumin excretion rate (UAER) &gt; 300 mg/day, and an increase in UAER of at least 30% from baseline). The predefined blood pressure goal was ≤ 135/85 mmHg. Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and dihydropyridine calcium blockers) were added as needed to help achieve the blood pressure goal. While similar blood pressure was achieved in all treatment groups, fewer subjects in the irbesartan 300 mg group (5.2%) than in the placebo (14.9%) or in the irbesartan 150 mg group (9.7%) reached the endpoint of overt proteinuria, demonstrating a 70% relative risk reduction versus placebo (p = 0.0004) for the higher dose. An accompanying improvement in the glomerular filtration rate (GFR) was not observed during the first three months of treatment. The slowing in the progression to clinical proteinuria was evident as early as three months and continued over the 2 years period. Regression to normoalbuminuria (&lt; 30 mg/day) was more frequent in the Irbesartan Zentiva 300 mg group (34%) than in the placebo group (21%).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -408,7 +408,7 @@ After oral administration, irbesartan is well absorbed: studies of absolute bioa
 
 ## Distribution
 
-Plasma protein binding is approximately 96%, with negligible binding to cellular blood components. The volume of distribution is 53-93 litres.
+Plasma protein binding is approximately 96%, with negligible binding to cellular blood components. The volume of distribution is 53 -93 litres.
 
 ## Biotransformation
 
@@ -442,15 +442,13 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 <div style=\"page-break-after: always\"></div>
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -472,7 +470,13 @@ Do not store above 30°C.
 
 ## 6.5 Nature and contents of container
 
-Cartons of 14 tablets in PVC/PVDC/Aluminium blisters. Cartons of 28 tablets in PVC/PVDC/Aluminium blisters. Cartons of 56 tablets in PVC/PVDC/Aluminium blisters. Cartons of 98 tablets in PVC/PVDC/Aluminium blisters.
+Cartons of 14 tablets in PVC/PVDC/Aluminium blisters.
+
+Cartons of 28 tablets in PVC/PVDC/Aluminium blisters.
+
+Cartons of 56 tablets in PVC/PVDC/Aluminium blisters.
+
+Cartons of 98 tablets in PVC/PVDC/Aluminium blisters.
 
 Cartons of 56 x 1 tablet in PVC/PVDC/Aluminium perforated unit dose blisters.
 
@@ -490,13 +494,13 @@ Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
 
 EU/1/06/376/001-005
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 19 January 2007
 
 Date of latest renewal: 20 January 2012
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -584,11 +588,11 @@ Dual blockade of the renin-angiotensin-aldosterone system (RAAS): there is evide
 
 considered absolutely necessary, this should only occur under specialist supervision and subject to frequent close monitoring of renal function, electrolytes and blood pressure. ACE-inhibitors and angiotensin II receptor blockers should not be used concomitantly in patients with diabetic nephropathy.
 
-Intestinal angioedema: intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
-
 Hyperkalaemia: as with other medicinal products that affect the renin-angiotensin-aldosterone system, hyperkalaemia may occur during the treatment with Irbesartan Zentiva, especially in the presence of renal impairment, overt proteinuria due to diabetic renal disease, and/or heart failure. Close monitoring of serum potassium in patients at risk is recommended (see section 4.5).
 
 Hypoglycaemia: Irbesartan Zentiva may induce hypoglycaemia, particularly in diabetic patients. In patients treated with insulin or antidiabetics an appropriate blood glucose monitoring should be considered; a dose adjustment of insulin or antidiabetics may be required when indicated (see section 4.5).
+
+Intestinal angioedema: intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
 
 Lithium: the combination of lithium and Irbesartan Zentiva is not recommended (see section 4.5).
 
@@ -610,7 +614,7 @@ Paediatric population: irbesartan has been studied in paediatric populations age
 
 Lactose: patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
-Sodium: This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+Sodium: This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -628,11 +632,11 @@ As with ACE inhibitors, concomitant use of angiotensin II antagonists and NSAIDs
 
 Repaglinide: irbesartan has the potential to inhibit OATP1B1. In a clinical study, it was reported that irbesartan increased the Cmax and AUC of repaglinide (substrate of OATP1B1) by 1.8-fold and 1.3fold, respectively, when administered 1 hour before repaglinide. In another study, no relevant pharmacokinetic interaction was reported, when the two drugs were co-administered. Therefore, dose adjustment of antidiabetic treatment such as repaglinide may be required (see section 4.4).
 
-Additional information on irbesartan interactions: in clinical studies, the pharmacokinetic of irbesartan is not affected by hydrochlorothiazide. Irbesartan is mainly metabolised by CYP2C9 and to a lesser extent by glucuronidation. No significant pharmacokinetic or pharmacodynamic interactions were observed when irbesartan was coadministered with warfarin, a medicinal product metabolised by
+Additional information on irbesartan interactions: in clinical studies, the pharmacokinetic of irbesartan is not affected by hydrochlorothiazide. Irbesartan is mainly metabolised by CYP2C9 and to a lesser extent by glucuronidation. No significant pharmacokinetic or pharmacodynamic interactions were observed when irbesartan was coadministered with warfarin, a medicinal product metabolised by CYP2C9. The effects of CYP2C9 inducers such as rifampicin on the pharmacokinetic of irbesartan
 
 <div style=\"page-break-after: always\"></div>
 
-CYP2C9. The effects of CYP2C9 inducers such as rifampicin on the pharmacokinetic of irbesartan have not been evaluated. The pharmacokinetic of digoxin was not altered by coadministration of irbesartan.
+have not been evaluated. The pharmacokinetic of digoxin was not altered by coadministration of irbesartan.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -676,7 +680,7 @@ The following table presents the adverse drug reactions that were reported in pl
 
 The frequency of adverse reactions listed below is defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Adverse reactions additionally reported from post-marketing experience are also listed. These adverse reactions are derived from spontaneous reports.
+Adverse reactions additionally reported from post -marketing experience are also listed. These adverse reactions are derived from spontaneous reports.
 
 ## Blood and lymphatic system disorders
 
@@ -866,7 +870,7 @@ The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreas
 
 Subgroups consisting of gender, race, age, duration of diabetes, baseline blood pressure, serum creatinine, and albumin excretion rate were assessed for treatment effect. In the female and black subgroups which represented 32% and 26% of the overall study population respectively, a renal benefit was not evident, although the confidence intervals do not exclude it. As for the secondary endpoint of fatal and non-fatal cardiovascular events, there was no difference among the three groups in the overall population, although an increased incidence of non-fatal MI was seen for women and a decreased incidence of non-fatal MI was seen in males in the irbesartan group versus the placebobased regimen. An increased incidence of non-fatal MI and stroke was seen in females in the irbesartan-based regimen versus the amlodipine-based regimen, while hospitalization due to heart failure was reduced in the overall population. However, no proper explanation for these findings in women has been identified.
 
-The study of the 'Effects of Irbesartan on Microalbuminuria in Hypertensive Patients with type 2 Diabetes Mellitus (IRMA 2)' shows that irbesartan 300 mg delays progression to overt proteinuria in patients with microalbuminuria. IRMA 2 was a placebo-controlled double blind morbidity study in 590 patients with type 2 diabetes, microalbuminuria (30-300 mg/day) and normal renal function (serum creatinine ≤ 1.5 mg/dl in males and &lt; 1.1 mg/dl in females). The study examined the long-term effects (2 years) of Irbesartan Zentiva on the progression to clinical (overt) proteinuria (urinary albumin excretion rate (UAER) &gt; 300 mg/day, and an increase in UAER of at least 30% from baseline). The predefined blood pressure goal was ≤ 135/85 mmHg. Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and dihydropyridine calcium blockers) were added as needed to help achieve the blood pressure goal. While similar blood pressure was achieved in all treatment groups, fewer subjects in the irbesartan 300 mg group (5.2%) than in the placebo (14.9%) or in the irbesartan 150 mg group (9.7%) reached the endpoint of overt proteinuria, demonstrating a 70% relative risk reduction versus placebo (p = 0.0004) for the higher dose. An accompanying improvement in the glomerular filtration rate (GFR) was not observed during the first three months of treatment. The slowing in the progression to clinical proteinuria was evident as early as three months and continued over the 2 year period. Regression to normoalbuminuria (&lt; 30 mg/day) was more frequent in the Irbesartan Zentiva 300 mg group (34%) than in the placebo group (21%).
+The study of the 'Effects of Irbesartan on Microalbuminuria in Hypertensive Patients with type 2 Diabetes Mellitus (IRMA 2)' shows that irbesartan 300 mg delays progression to overt proteinuria in patients with microalbuminuria. IRMA 2 was a placebo-controlled double blind morbidity study in 590 patients with type 2 diabetes, microalbuminuria (30-300 mg/day) and normal renal function (serum creatinine ≤ 1.5 mg/dl in males and &lt; 1.1 mg/dl in females). The study examined the long-term effects (2 years) of Irbesartan Zentiva on the progression to clinical (overt) proteinuria (urinary albumin excretion rate (UAER) &gt; 300 mg/day, and an increase in UAER of at least 30% from baseline). The predefined blood pressure goal was ≤ 135/85 mmHg. Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and dihydropyridine calcium blockers) were added as needed to help achieve the blood pressure goal. While similar blood pressure was achieved in all treatment groups, fewer subjects in the irbesartan 300 mg group (5.2%) than in the placebo (14.9%) or in the irbesartan 150 mg group (9.7%) reached the endpoint of overt proteinuria, demonstrating a 70% relative risk reduction versus placebo (p = 0.0004) for the higher dose. An accompanying improvement in the glomerular filtration rate (GFR) was not observed during the first three months of treatment. The slowing in the progression to clinical proteinuria was evident as early as three months and continued over the 2 years period. Regression to normoalbuminuria (&lt; 30 mg/day) was more frequent in the Irbesartan Zentiva 300 mg group (34%) than in the placebo group (21%).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -922,15 +926,13 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan  caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality . No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 <div style=\"page-break-after: always\"></div>
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -976,13 +978,13 @@ Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
 
 EU/1/06/376/006-010
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 19 January 2007
 
 Date of latest renewal: 20 January 2012
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1070,11 +1072,11 @@ Dual blockade of the renin-angiotensin-aldosterone system (RAAS): there is evide
 
 considered absolutely necessary, this should only occur under specialist supervision and subject to frequent close monitoring of renal function, electrolytes and blood pressure. ACE-inhibitors and angiotensin II receptor blockers should not be used concomitantly in patients with diabetic nephropathy.
 
-Intestinal angioedema: intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
-
 Hyperkalaemia: as with other medicinal products that affect the renin-angiotensin-aldosterone system, hyperkalaemia may occur during the treatment with Irbesartan Zentiva, especially in the presence of renal impairment, overt proteinuria due to diabetic renal disease, and/or heart failure. Close monitoring of serum potassium in patients at risk is recommended (see section 4.5).
 
 Hypoglycaemia: Irbesartan Zentiva may induce hypoglycaemia, particularly in diabetic patients. In patients treated with insulin or antidiabetics an appropriate blood glucose monitoring should be considered; a dose adjustment of insulin or antidiabetics may be required when indicated (see section 4.5).
+
+Intestinal angioedema: intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
 
 Lithium: the combination of lithium and Irbesartan Zentiva is not recommended (see section 4.5).
 
@@ -1082,7 +1084,9 @@ Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy: as wi
 
 Primary aldosteronism: patients with primary aldosteronism generally will not respond to antihypertensive medicinal products acting through inhibition of the renin-angiotensin system. Therefore, the use of Irbesartan Zentiva is not recommended.
 
-General: in patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with angiotensin converting enzyme inhibitors or angiotensin-II receptor antagonists that affect this system has been associated with acute hypotension, azotaemia, oliguria, or rarely acute renal failure (see section 4.5). As with any antihypertensive agent, excessive blood pressure decrease in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke. As observed for angiotensin converting enzyme inhibitors, irbesartan and the other angiotensin antagonists are apparently less effective in lowering blood pressure in black people than in non-blacks, possibly because of higher prevalence of low-renin states in the black hypertensive population (see section 5.1).
+General: in patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with angiotensin converting enzyme inhibitors or angiotensin-II receptor antagonists that affect this system has been associated with acute hypotension, azotaemia, oliguria, or rarely acute renal failure (see section 4.5). As with any antihypertensive agent, excessive blood pressure decrease in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke.
+
+As observed for angiotensin converting enzyme inhibitors, irbesartan and the other angiotensin antagonists are apparently less effective in lowering blood pressure in black people than in non-blacks, possibly because of higher prevalence of low-renin states in the black hypertensive population (see section 5.1).
 
 Pregnancy: angiotensin II Receptor Antagonists (AIIRAs) should not be initiated during pregnancy. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
 
@@ -1094,7 +1098,7 @@ Paediatric population: irbesartan has been studied in paediatric populations age
 
 Lactose: patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
-Sodium: This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+Sodium: This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -1126,9 +1130,11 @@ The use of AIIRAs is not recommended during the first trimester of pregnancy (se
 
 Epidemiological evidence regarding the risk of teratogenicity following exposure to ACE inhibitors during the first trimester of pregnancy has not been conclusive; however a small increase in risk cannot be excluded. Whilst there is no controlled epidemiological data on the risk with Angiotensin II Receptor Antagonists (AIIRAs), similar risks may exist for this class of drugs. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started.
 
-Exposure to AIIRA therapy during the second and third trimesters is known to induce human toxicity (renal failure, hypotension, hyperkalaemia). (See section 5.3).
+Exposure to AIIRA therapy during the second and third trimesters is known to induce human foetotoxicity (decreased renal function, oligohydramnios, skull ossification retardation) and neonatal toxicity (renal failure, hypotension, hyperkalaemia). (See section 5.3).
 
-foetotoxicity (decreased renal function, oligohydramnios, skull ossification retardation) and neonatal Should exposure to AIIRAs have occurred from the second trimester of pregnancy, ultrasound check of renal function and skull is recommended. Infants whose mothers have taken AIIRAs should be closely observed for hypotension (see sections 4.3 and 4.4).
+Should exposure to AIIRAs have occurred from the second trimester of pregnancy, ultrasound check of renal function and skull is recommended.
+
+Infants whose mothers have taken AIIRAs should be closely observed for hypotension (see sections 4.3 and 4.4).
 
 ## Breast-feeding
 
@@ -1146,9 +1152,11 @@ Based on its pharmacodynamic properties, irbesartan is unlikely to affect the ab
 
 ## 4.8 Undesirable effects
 
-In placebo-controlled trials in patients with hypertension, the overall incidence of adverse events did not differ between the irbesartan (56.2%) and the placebo groups (56.5%). Discontinuation due to any clinical or laboratory adverse event was less frequent for irbesartan-treated patients (3.3%) than for placebo-treated patients (4.5%). The incidence of adverse events was not related to dose (in the recommended dose range), gender, age, race, or duration of treatment.
+In placebo-controlled trials in patients with hypertension, the overall incidence of adverse events did not differ between the irbesartan (56.2%) and the placebo groups (56.5%). Discontinuation due to any clinical or laboratory adverse event was less frequent for irbesartan-treated patients (3.3%) than for
 
 <div style=\"page-break-after: always\"></div>
+
+placebo-treated patients (4.5%). The incidence of adverse events was not related to dose (in the recommended dose range), gender, age, race, or duration of treatment.
 
 In diabetic hypertensive patients with microalbuminuria and normal renal function, orthostatic dizziness and orthostatic hypotension were reported in 0.5% of the patients (i.e., uncommon) but in excess of placebo.
 
@@ -1156,7 +1164,7 @@ The following table presents the adverse drug reactions that were reported in pl
 
 The frequency of adverse reactions listed below is defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Adverse reactions additionally reported from post-marketing experience are also listed. These adverse reactions are derived from spontaneous reports.
+Adverse reactions additionally reported from post -marketing experience are also listed. These adverse reactions are derived from spontaneous reports.
 
 ## Blood and lymphatic system disorders
 
@@ -1164,13 +1172,13 @@ Not known:
 
 anaemia, thrombocytopenia
 
-Immune system disorders
+## Immune system disorders
 
 Not known:
 
-hypersensitivity reactions such as angioedema, rash, urticaria, anaphylactic reaction,anaphylactic shock
+hypersensitivity reactions such as angioedema, rash, urticaria, anaphylactic reaction, anaphylactic shock
 
-## Metabolism and nutrition disorders
+Metabolism and nutrition disorders
 
 Not known:
 
@@ -1192,7 +1200,7 @@ Not known:
 
 tinnitus
 
-## Cardiac disorders
+Cardiac disorders
 
 Uncommon:
 
@@ -1214,7 +1222,7 @@ Uncommon:
 
 cough
 
-## Gastrointestinal disorders
+Gastrointestinal disorders
 
 Common:
 
@@ -1232,13 +1240,15 @@ Not known:
 
 dysgeusia
 
-## Hepatobiliary disorders
+Hepatobiliary disorders
 
 Uncommon:
 
+jaundice
+
 Not known:
 
-jaundice hepatitis, abnormal liver function
+hepatitis, abnormal liver function
 
 ## Skin and subcutaneous tissue disorders
 
@@ -1256,8 +1266,6 @@ Not known:
 
 arthralgia, myalgia (in some cases associated with increased plasma creatine kinase levels), muscle cramps
 
-<div style=\"page-break-after: always\"></div>
-
 ## Renal and urinary disorders
 
 Not known:
@@ -1270,11 +1278,15 @@ Uncommon:
 
 sexual dysfunction
 
-## General disorders and administration site conditions
+General disorders and administration site conditions
 
 Common:
 
+fatigue
+
 Uncommon:
+
+chest pain
 
 ## Investigations:
 
@@ -1285,6 +1297,8 @@ Common:
 significant increases in plasma creatine kinase were commonly observed (1.7%) in irbesartan treated subjects. None of these increases were associated with identifiable clinical musculoskeletal events.
 
 In 1.7% of hypertensive patients with advanced diabetic renal disease treated with irbesartan, a decrease in haemoglobin*, which was not clinically significant, has been observed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -1297,8 +1311,6 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 ## 4.9 Overdose
 
 Experience in adults exposed to doses of up to 900 mg/day for 8 weeks revealed no toxicity. The most likely manifestations of overdose are expected to be hypotension and tachycardia; bradycardia might also occur from overdose. No specific information is available on the treatment of overdose with Irbesartan Zentiva. The patient should be closely monitored, and the treatment should be symptomatic and supportive. Suggested measures include induction of emesis and/or gastric lavage. Activated charcoal may be useful in the treatment of overdose. Irbesartan is not removed by haemodialysis.
-
-fatigue chest pain
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1316,7 +1328,9 @@ Irbesartan is a potent, orally active, selective angiotensin-II receptor (type A
 
 ## Hypertension
 
-Irbesartan lowers blood pressure with minimal change in heart rate. The decrease in blood pressure is dose-related for once a day doses with a tendency towards plateau at doses above 300 mg. Doses of 150-300 mg once daily lower supine or seated blood pressures at trough (i.e. 24 hours after dosing) by an average of 8-13/5-8 mm Hg (systolic/diastolic) greater than those associated with placebo. Peak reduction of blood pressure is achieved within 3-6 hours after administration and the blood pressure lowering effect is maintained for at least 24 hours. At 24 hours the reduction of blood pressure was 60-70% of the corresponding peak diastolic and systolic responses at the recommended doses. Once daily dosing with 150 mg produced trough and mean 24 hour responses similar to twice daily dosing on the same total dose.
+Irbesartan lowers blood pressure with minimal change in heart rate. The decrease in blood pressure is dose-related for once a day doses with a tendency towards plateau at doses above 300 mg. Doses of 150-300 mg once daily lower supine or seated blood pressures at trough (i.e. 24 hours after dosing) by an average of 8-13/5-8 mm Hg (systolic/diastolic) greater than those associated with placebo.
+
+Peak reduction of blood pressure is achieved within 3-6 hours after administration and the blood pressure lowering effect is maintained for at least 24 hours. At 24 hours the reduction of blood pressure was 60-70% of the corresponding peak diastolic and systolic responses at the recommended doses. Once daily dosing with 150 mg produced trough and mean 24 hour responses similar to twice daily dosing on the same total dose.
 
 The blood pressure lowering effect of Irbesartan Zentiva is evident within 1-2 weeks, with the maximal effect occurring by 4-6 weeks after start of therapy. The antihypertensive effects are maintained during long term therapy. After withdrawal of therapy, blood pressure gradually returns toward baseline. Rebound hypertension has not been observed.
 
@@ -1328,9 +1342,11 @@ There is no clinically important effect on serum uric acid or urinary uric acid 
 
 ## Paediatric population
 
-Reduction of blood pressure with 0.5 mg/kg (low), 1.5 mg/kg (medium) and 4.5 mg/kg (high) target titrated doses of irbesartan was evaluated in 318 hypertensive or at risk (diabetic, family history of hypertension) children and adolescents aged 6 to 16 years over a three week period. At the end of the three weeks the mean reduction from baseline in the primary efficacy variable, trough seated systolic blood pressure (SeSBP) was 11.7 mmHg (low dose), 9.3 mmHg (medium dose), 13.2 mmHg (high dose). No significant difference was apparent between these doses. Adjusted mean change of trough seated diastolic blood pressure (SeDBP) was as follows: 3.8 mmHg (low dose), 3.2 mmHg (medium dose), 5.6 mmHg (high dose). Over a subsequent two week period where patients were re-randomized to either active medicinal product or placebo, patients on placebo had increases of 2.4 and 2.0 mmHg in SeSBP and SeDBP compared to +0.1 and -0.3 mmHg changes respectively in those on all doses of irbesartan (see section 4.2).
+Reduction of blood pressure with 0.5 mg/kg (low), 1.5 mg/kg (medium) and 4.5 mg/kg (high) target titrated doses of irbesartan was evaluated in 318 hypertensive or at risk (diabetic, family history of hypertension) children and adolescents aged 6 to 16 years over a three week period. At the end of the three weeks the mean reduction from baseline in the primary efficacy variable, trough seated systolic blood pressure (SeSBP) was 11.7 mmHg (low dose), 9.3 mmHg (medium dose), 13.2 mmHg (high dose). No significant difference was apparent between these doses. Adjusted mean change of trough seated diastolic blood pressure (SeDBP) was as follows: 3.8 mmHg (low dose), 3.2 mmHg (medium
 
 <div style=\"page-break-after: always\"></div>
+
+dose), 5.6 mmHg (high dose). Over a subsequent two week period where patients were re-randomized to either active medicinal product or placebo, patients on placebo had increases of 2.4 and 2.0 mmHg in SeSBP and SeDBP compared to +0.1 and -0.3 mmHg changes respectively in those on all doses of irbesartan (see section 4.2).
 
 ## Hypertension and type 2 diabetes with renal disease
 
@@ -1338,15 +1354,13 @@ The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreas
 
 Subgroups consisting of gender, race, age, duration of diabetes, baseline blood pressure, serum creatinine, and albumin excretion rate were assessed for treatment effect. In the female and black subgroups which represented 32% and 26% of the overall study population respectively, a renal benefit was not evident, although the confidence intervals do not exclude it. As for the secondary endpoint of fatal and non-fatal cardiovascular events, there was no difference among the three groups in the overall population, although an increased incidence of non-fatal MI was seen for women and a decreased incidence of non-fatal MI was seen in males in the irbesartan group versus the placebobased regimen. An increased incidence of non-fatal MI and stroke was seen in females in the irbesartan-based regimen versus the amlodipine-based regimen, while hospitalization due to heart failure was reduced in the overall population. However, no proper explanation for these findings in women has been identified.
 
-The study of the 'Effects of Irbesartan on Microalbuminuria in Hypertensive Patients with type 2 Diabetes Mellitus (IRMA 2)' shows that irbesartan 300 mg delays progression to overt proteinuria in patients with microalbuminuria. IRMA 2 was a placebo-controlled double blind morbidity study in 590 patients with type 2 diabetes, microalbuminuria (30-300 mg/day) and normal renal function (serum creatinine ≤ 1.5 mg/dl in males and &lt; 1.1 mg/dl in females). The study examined the long-term effects (2 years) of Irbesartan Zentiva on the progression to clinical (overt) proteinuria (urinary albumin excretion rate (UAER) &gt; 300 mg/day, and an increase in UAER of at least 30% from baseline). The predefined blood pressure goal was ≤ 135/85 mmHg. Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and dihydropyridine calcium blockers) were added as needed to help achieve the blood pressure goal. While similar blood pressure was achieved in all treatment groups, fewer subjects in the irbesartan 300 mg group (5.2%) than in the placebo (14.9%) or in the irbesartan 150 mg group (9.7%) reached the endpoint of overt proteinuria, demonstrating a 70% relative risk reduction versus placebo (p = 0.0004) for the higher dose. An accompanying improvement in the glomerular filtration rate (GFR) was not observed during the first three months of treatment. The slowing in the progression to clinical proteinuria was evident as early as three months and continued over the 2 year period. Regression to normoalbuminuria (&lt; 30 mg/day) was more frequent in the Irbesartan Zentiva 300 mg group (34%) than in the placebo group (21%).
-
-## Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
-
-Two large randomised, controlled trials (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) and VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes)) have examined the use of the combination of an ACE-inhibitor with an angiotensin II receptor blocker. ONTARGET was a study conducted in patients with a history of cardiovascular or cerebrovascular disease, or type 2 diabetes mellitus accompanied by evidence of
+The study of the 'Effects of Irbesartan on Microalbuminuria in Hypertensive Patients with type 2 Diabetes Mellitus (IRMA 2)' shows that irbesartan 300 mg delays progression to overt proteinuria in patients with microalbuminuria. IRMA 2 was a placebo-controlled double blind morbidity study in 590 patients with type 2 diabetes, microalbuminuria (30-300 mg/day) and normal renal function (serum creatinine ≤ 1.5 mg/dl in males and &lt; 1.1 mg/dl in females). The study examined the long-term effects (2 years) of Irbesartan Zentiva on the progression to clinical (overt) proteinuria (urinary albumin excretion rate (UAER) &gt; 300 mg/day, and an increase in UAER of at least 30% from baseline). The predefined blood pressure goal was ≤ 135/85 mmHg. Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and dihydropyridine calcium blockers) were added as needed to help achieve the blood pressure goal. While similar blood pressure was achieved in all treatment groups, fewer subjects in the irbesartan 300 mg group (5.2%) than in the placebo (14.9%) or in the irbesartan 150 mg group (9.7%) reached the endpoint of overt proteinuria, demonstrating a 70% relative risk reduction versus placebo (p = 0.0004) for the higher dose. An accompanying improvement in the glomerular filtration rate (GFR) was not observed during the first three months of treatment. The slowing in the progression to clinical proteinuria was evident as early as three months and continued over the 2 years period. Regression to normoalbuminuria (&lt; 30 mg/day) was more frequent in the Irbesartan Zentiva 300 mg group (34%) than in the placebo group (21%).
 
 <div style=\"page-break-after: always\"></div>
 
-end-organ damage. VA NEPHRON-D was a study in patients with type 2 diabetes mellitus and diabetic nephropathy.
+## Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
+
+Two large randomised, controlled trials (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) and VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes)) have examined the use of the combination of an ACE-inhibitor with an angiotensin II receptor blocker. ONTARGET was a study conducted in patients with a history of cardiovascular or cerebrovascular disease, or type 2 diabetes mellitus accompanied by evidence of end-organ damage. VA NEPHRON-D was a study in patients with type 2 diabetes mellitus and diabetic nephropathy.
 
 These studies have shown no significant beneficial effect on renal and/or cardiovascular outcomes and mortality, while an increased risk of hyperkalaemia, acute kidney injury and/or hypotension as compared to monotherapy was observed. Given their similar pharmacodynamic properties, these results are also relevant for other ACE-inhibitors and angiotensin II receptor blockers. ACE-inhibitors and angiotensin II receptor blockers should therefore not be used concomitantly in patients with diabetic nephropathy.
 
@@ -1368,9 +1382,11 @@ Following oral or intravenous administration of 14 C irbesartan, 80-85% of the c
 
 ## Linearity / non-linearity
 
-Irbesartan exhibits linear and dose proportional pharmacokinetics over the dose range of 10 to 600 mg. A less than proportional increase in oral absorption at doses beyond 600 mg (twice the maximal recommended dose) was observed; the mechanism for this is unknown. Peak plasma concentrations are attained at 1.5-2 hours after oral administration. The total body and renal clearance are 157176 and 3-3.5 ml/min, respectively. The terminal elimination half-life of irbesartan is 11-15 hours. Steady-state plasma concentrations are attained within 3 days after initiation of a once-daily dosing regimen. Limited accumulation of irbesartan (&lt; 20%) is observed in plasma upon repeated once-daily dosing. In a study, somewhat higher plasma concentrations of irbesartan were observed in female hypertensive patients. However, there was no difference in the half-life and accumulation of irbesartan. No dosage adjustment is necessary in female patients. Irbesartan AUC and Cmax values were also somewhat greater in older subjects (≥ 65 years) than those of young subjects (18-40 years). However the terminal half-life was not significantly altered. No dosage adjustment is necessary in older people.
+Irbesartan exhibits linear and dose proportional pharmacokinetics over the dose range of 10 to 600 mg. A less than proportional increase in oral absorption at doses beyond 600 mg (twice the maximal recommended dose) was observed; the mechanism for this is unknown. Peak plasma concentrations are attained at 1.5-2 hours after oral administration. The total body and renal clearance are 157176 and 3-3.5 ml/min, respectively. The terminal elimination half-life of irbesartan is 11-15 hours. Steady-state plasma concentrations are attained within 3 days after initiation of a once-daily dosing regimen. Limited accumulation of irbesartan (&lt; 20%) is observed in plasma upon repeated once-daily dosing. In a study, somewhat higher plasma concentrations of irbesartan were observed in female hypertensive patients. However, there was no difference in the half-life and accumulation of
 
 <div style=\"page-break-after: always\"></div>
+
+irbesartan. No dosage adjustment is necessary in female patients. Irbesartan AUC and Cmax values were also somewhat greater in older subjects (≥ 65 years) than those of young subjects (18-40 years). However the terminal half-life was not significantly altered. No dosage adjustment is necessary in older people.
 
 ## Elimination
 
@@ -1392,13 +1408,11 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan  caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1540,11 +1554,11 @@ Dual blockade of the renin-angiotensin-aldosterone system (RAAS): there is evide
 
 considered absolutely necessary, this should only occur under specialist supervision and subject to frequent close monitoring of renal function, electrolytes and blood pressure. ACE-inhibitors and angiotensin II receptor blockers should not be used concomitantly in patients with diabetic nephropathy.
 
-Intestinal angioedema: intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
-
 Hyperkalaemia: as with other medicinal products that affect the renin-angiotensin-aldosterone system, hyperkalaemia may occur during the treatment with Irbesartan Zentiva, especially in the presence of renal impairment, overt proteinuria due to diabetic renal disease, and/or heart failure. Close monitoring of serum potassium in patients at risk is recommended (see section 4.5).
 
 Hypoglycaemia: Irbesartan Zentiva may induce hypoglycaemia, particularly in diabetic patients. In patients treated with insulin or antidiabetics an appropriate blood glucose monitoring should be considered; a dose adjustment of insulin or antidiabetics may be required when indicated (see section 4.5).
+
+Intestinal angioedema: intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
 
 Lithium: the combination of lithium and Irbesartan Zentiva is not recommended (see section 4.5).
 
@@ -1564,7 +1578,7 @@ Paediatric population: irbesartan has been studied in paediatric populations age
 
 Lactose: patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
-Sodium: This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+Sodium: This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -1596,9 +1610,11 @@ The use of AIIRAs is not recommended during the first trimester of pregnancy (se
 
 Epidemiological evidence regarding the risk of teratogenicity following exposure to ACE inhibitors during the first trimester of pregnancy has not been conclusive; however a small increase in risk cannot be excluded. Whilst there is no controlled epidemiological data on the risk with Angiotensin II Receptor Antagonists (AIIRAs), similar risks may exist for this class of drugs. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started.
 
-Exposure to AIIRA therapy during the second and third trimesters is known to induce human toxicity (renal failure, hypotension, hyperkalaemia). (See section 5.3).
+Exposure to AIIRA therapy during the second and third trimesters is known to induce human foetotoxicity (decreased renal function, oligohydramnios, skull ossification retardation) and neonatal toxicity (renal failure, hypotension, hyperkalaemia). (See section 5.3).
 
-foetotoxicity (decreased renal function, oligohydramnios, skull ossification retardation) and neonatal Should exposure to AIIRAs have occurred from the second trimester of pregnancy, ultrasound check of renal function and skull is recommended. Infants whose mothers have taken AIIRAs should be closely observed for hypotension (see sections 4.3 and 4.4).
+Should exposure to AIIRAs have occurred from the second trimester of pregnancy, ultrasound check of renal function and skull is recommended.
+
+Infants whose mothers have taken AIIRAs should be closely observed for hypotension (see sections 4.3 and 4.4).
 
 ## Breast-feeding
 
@@ -1616,9 +1632,11 @@ Based on its pharmacodynamic properties, irbesartan is unlikely to affect the ab
 
 ## 4.8 Undesirable effects
 
-In placebo-controlled trials in patients with hypertension, the overall incidence of adverse events did not differ between the irbesartan (56.2%) and the placebo groups (56.5%). Discontinuation due to any clinical or laboratory adverse event was less frequent for irbesartan-treated patients (3.3%) than for placebo-treated patients (4.5%). The incidence of adverse events was not related to dose (in the recommended dose range), gender, age, race, or duration of treatment.
+In placebo-controlled trials in patients with hypertension, the overall incidence of adverse events did not differ between the irbesartan (56.2%) and the placebo groups (56.5%). Discontinuation due to any clinical or laboratory adverse event was less frequent for irbesartan-treated patients (3.3%) than for
 
 <div style=\"page-break-after: always\"></div>
+
+placebo-treated patients (4.5%). The incidence of adverse events was not related to dose (in the recommended dose range), gender, age, race, or duration of treatment.
 
 In diabetic hypertensive patients with microalbuminuria and normal renal function, orthostatic dizziness and orthostatic hypotension were reported in 0.5% of the patients (i.e., uncommon) but in excess of placebo.
 
@@ -1626,7 +1644,7 @@ The following table presents the adverse drug reactions that were reported in pl
 
 The frequency of adverse reactions listed below is defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Adverse reactions additionally reported from post-marketing experience are also listed. These adverse reactions are derived from spontaneous reports.
+Adverse reactions additionally reported from post -marketing experience are also listed. These adverse reactions are derived from spontaneous reports.
 
 ## Blood and lymphatic system disorders
 
@@ -1640,7 +1658,7 @@ Not known:
 
 hypersensitivity reactions such as angioedema, rash, urticaria, anaphylactic reaction, anaphylactic shock
 
-## Metabolism and nutrition disorders
+Metabolism and nutrition disorders
 
 Not known:
 
@@ -1662,7 +1680,7 @@ Not known:
 
 tinnitus
 
-## Cardiac disorders
+Cardiac disorders
 
 Uncommon:
 
@@ -1684,7 +1702,7 @@ Uncommon:
 
 cough
 
-## Gastrointestinal disorders
+Gastrointestinal disorders
 
 Common:
 
@@ -1702,13 +1720,15 @@ Not known:
 
 dysgeusia
 
-## Hepatobiliary disorders
+Hepatobiliary disorders
 
 Uncommon:
 
+jaundice
+
 Not known:
 
-jaundice hepatitis, abnormal liver function
+hepatitis, abnormal liver function
 
 ## Skin and subcutaneous tissue disorders
 
@@ -1726,8 +1746,6 @@ Not known:
 
 arthralgia, myalgia (in some cases associated with increased plasma creatine kinase levels), muscle cramps
 
-<div style=\"page-break-after: always\"></div>
-
 ## Renal and urinary disorders
 
 Not known:
@@ -1744,7 +1762,11 @@ sexual dysfunction
 
 Common:
 
+fatigue
+
 Uncommon:
+
+chest pain
 
 ## Investigations
 
@@ -1755,6 +1777,8 @@ Common:
 significant increases in plasma creatine kinase were commonly observed (1.7%) in irbesartan treated subjects. None of these increases were associated with identifiable clinical musculoskeletal events.
 
 In 1.7% of hypertensive patients with advanced diabetic renal disease treated with irbesartan, a decrease in haemoglobin*, which was not clinically significant, has been observed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -1768,13 +1792,11 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Experience in adults exposed to doses of up to 900 mg/day for 8 weeks revealed no toxicity. The most likely manifestations of overdose are expected to be hypotension and tachycardia; bradycardia might also occur from overdose. No specific information is available on the treatment of overdose with Irbesartan Zentiva. The patient should be closely monitored, and the treatment should be symptomatic and supportive. Suggested measures include induction of emesis and/or gastric lavage. Activated charcoal may be useful in the treatment of overdose. Irbesartan is not removed by haemodialysis.
 
-fatigue chest pain
-
 <div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
-## 5.1 Pharmacodynamic properties
+## 5 .1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Angiotensin-II antagonists, plain, ATC code: C09C A04.
 
@@ -1786,7 +1808,9 @@ Irbesartan is a potent, orally active, selective angiotensin-II receptor (type A
 
 ## Hypertension
 
-Irbesartan lowers blood pressure with minimal change in heart rate. The decrease in blood pressure is dose-related for once a day doses with a tendency towards plateau at doses above 300 mg. Doses of 150-300 mg once daily lower supine or seated blood pressures at trough (i.e. 24 hours after dosing) by an average of 8-13/5-8 mm Hg (systolic/diastolic) greater than those associated with placebo. Peak reduction of blood pressure is achieved within 3-6 hours after administration and the blood pressure lowering effect is maintained for at least 24 hours. At 24 hours the reduction of blood pressure was 60-70% of the corresponding peak diastolic and systolic responses at the recommended doses. Once daily dosing with 150 mg produced trough and mean 24 hour responses similar to twice daily dosing on the same total dose.
+Irbesartan lowers blood pressure with minimal change in heart rate. The decrease in blood pressure is dose-related for once a day doses with a tendency towards plateau at doses above 300 mg. Doses of 150-300 mg once daily lower supine or seated blood pressures at trough (i.e. 24 hours after dosing) by an average of 8-13/5-8 mm Hg (systolic/diastolic) greater than those associated with placebo.
+
+Peak reduction of blood pressure is achieved within 3-6 hours after administration and the blood pressure lowering effect is maintained for at least 24 hours. At 24 hours the reduction of blood pressure was 60-70% of the corresponding peak diastolic and systolic responses at the recommended doses. Once daily dosing with 150 mg produced trough and mean 24 hour responses similar to twice daily dosing on the same total dose.
 
 The blood pressure lowering effect of Irbesartan Zentiva is evident within 1-2 weeks, with the maximal effect occurring by 4-6 weeks after start of therapy. The antihypertensive effects are maintained during long term therapy. After withdrawal of therapy, blood pressure gradually returns toward baseline. Rebound hypertension has not been observed.
 
@@ -1798,9 +1822,11 @@ There is no clinically important effect on serum uric acid or urinary uric acid 
 
 ## Paediatric population
 
-Reduction of blood pressure with 0.5 mg/kg (low), 1.5 mg/kg (medium) and 4.5 mg/kg (high) target titrated doses of irbesartan was evaluated in 318 hypertensive or at risk (diabetic, family history of hypertension) children and adolescents aged 6 to 16 years over a three week period. At the end of the three weeks the mean reduction from baseline in the primary efficacy variable, trough seated systolic blood pressure (SeSBP) was 11.7 mmHg (low dose), 9.3 mmHg (medium dose), 13.2 mmHg (high dose). No significant difference was apparent between these doses. Adjusted mean change of trough seated diastolic blood pressure (SeDBP) was as follows: 3.8 mmHg (low dose), 3.2 mmHg (medium dose), 5.6 mmHg (high dose). Over a subsequent two week period where patients were re-randomized to either active medicinal product or placebo, patients on placebo had increases of 2.4 and 2.0 mmHg in SeSBP and SeDBP compared to +0.1 and -0.3 mmHg changes respectively in those on all doses of irbesartan (see section 4.2).
+Reduction of blood pressure with 0.5 mg/kg (low), 1.5 mg/kg (medium) and 4.5 mg/kg (high) target titrated doses of irbesartan was evaluated in 318 hypertensive or at risk (diabetic, family history of hypertension) children and adolescents aged 6 to 16 years over a three week period. At the end of the three weeks the mean reduction from baseline in the primary efficacy variable, trough seated systolic blood pressure (SeSBP) was 11.7 mmHg (low dose), 9.3 mmHg (medium dose), 13.2 mmHg (high dose). No significant difference was apparent between these doses. Adjusted mean change of trough seated diastolic blood pressure (SeDBP) was as follows: 3.8 mmHg (low dose), 3.2 mmHg (medium
 
 <div style=\"page-break-after: always\"></div>
+
+dose), 5.6 mmHg (high dose). Over a subsequent two week period where patients were re-randomized to either active medicinal product or placebo, patients on placebo had increases of 2.4 and 2.0 mmHg in SeSBP and SeDBP compared to +0.1 and -0.3 mmHg changes respectively in those on all doses of irbesartan (see section 4.2).
 
 ## Hypertension and type 2 diabetes with renal disease
 
@@ -1808,17 +1834,17 @@ The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreas
 
 Subgroups consisting of gender, race, age, duration of diabetes, baseline blood pressure, serum creatinine, and albumin excretion rate were assessed for treatment effect. In the female and black subgroups which represented 32% and 26% of the overall study population respectively, a renal benefit was not evident, although the confidence intervals do not exclude it. As for the secondary endpoint of fatal and non-fatal cardiovascular events, there was no difference among the three groups in the overall population, although an increased incidence of non-fatal MI was seen for women and a decreased incidence of non-fatal MI was seen in males in the irbesartan group versus the placebobased regimen. An increased incidence of non-fatal MI and stroke was seen in females in the irbesartan-based regimen versus the amlodipine-based regimen, while hospitalization due to heart failure was reduced in the overall population. However, no proper explanation for these findings in women has been identified.
 
-The study of the 'Effects of Irbesartan on Microalbuminuria in Hypertensive Patients with type 2 Diabetes Mellitus (IRMA 2)' shows that irbesartan 300 mg delays progression to overt proteinuria in patients with microalbuminuria. IRMA 2 was a placebo-controlled double blind morbidity study in 590 patients with type 2 diabetes, microalbuminuria (30-300 mg/day) and normal renal function (serum creatinine ≤ 1.5 mg/dl in males and &lt; 1.1 mg/dl in females). The study examined the long-term effects (2 years) of Irbesartan Zentiva on the progression to clinical (overt) proteinuria (urinary albumin excretion rate (UAER) &gt; 300 mg/day, and an increase in UAER of at least 30% from baseline). The predefined blood pressure goal was ≤ 135/85 mmHg. Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and dihydropyridine calcium blockers) were added as needed to help achieve the blood pressure goal. While similar blood pressure was achieved in all treatment groups, fewer subjects in the irbesartan 300 mg group (5.2%) than in the placebo (14.9%) or in the irbesartan 150 mg group (9.7%) reached the endpoint of overt proteinuria, demonstrating a 70% relative risk reduction versus placebo (p = 0.0004) for the higher dose. An accompanying improvement in the glomerular filtration rate (GFR) was not observed during the first three months of treatment. The slowing in the progression to clinical proteinuria was evident as early as three months and continued over the 2 year period. Regression to normoalbuminuria (&lt; 30 mg/day) was more frequent in the Irbesartan Zentiva 300 mg group (34%) than in the placebo group (21%).
-
-## Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
-
-Two large randomised, controlled trials (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) and VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes)) have examined the use of the combination of an ACE-inhibitor with an angiotensin II receptor blocker. ONTARGET was a study conducted in patients with a history of cardiovascular or cerebrovascular disease, or type 2 diabetes mellitus accompanied by evidence of
+The study of the 'Effects of Irbesartan on Microalbuminuria in Hypertensive Patients with type 2 Diabetes Mellitus (IRMA 2)' shows that irbesartan 300 mg delays progression to overt proteinuria in patients with microalbuminuria. IRMA 2 was a placebo-controlled double blind morbidity study in 590 patients with type 2 diabetes, microalbuminuria (30-300 mg/day) and normal renal function (serum creatinine ≤ 1.5 mg/dl in males and &lt; 1.1 mg/dl in females). The study examined the long-term effects (2 years) of Irbesartan Zentiva on the progression to clinical (overt) proteinuria (urinary albumin excretion rate (UAER) &gt; 300 mg/day, and an increase in UAER of at least 30% from baseline). The predefined blood pressure goal was ≤ 135/85 mmHg. Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and dihydropyridine calcium blockers) were added as needed to help achieve the blood pressure goal. While similar blood pressure was achieved in all treatment groups, fewer subjects in the irbesartan 300 mg group (5.2%) than in the placebo (14.9%) or in the irbesartan 150 mg group (9.7%) reached the endpoint of overt proteinuria, demonstrating a 70% relative risk reduction versus placebo (p = 0.0004) for the higher dose. An accompanying improvement in the glomerular filtration rate (GFR) was not observed during the first three months of treatment. The slowing in the progression to clinical proteinuria was evident as early as three months and continued over the 2 years period. Regression to normoalbuminuria (&lt; 30 mg/day) was more frequent in the Irbesartan Zentiva 300 mg group (34%) than in the placebo group (21%).
 
 <div style=\"page-break-after: always\"></div>
 
-end-organ damage. VA NEPHRON-D was a study in patients with type 2 diabetes mellitus and diabetic nephropathy.
+## Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
 
-These studies have shown no significant beneficial effect on renal and/or cardiovascular outcomes and mortality, while an increased risk of hyperkalaemia, acute kidney injury and/or hypotension as compared to monotherapy was observed. Given their similar pharmacodynamic properties, these results are also relevant for other ACE-inhibitors and angiotensin II receptor blockers. ACE-inhibitors and angiotensin II receptor blockers should therefore not be used concomitantly in patients with diabetic nephropathy.
+Two large randomised, controlled trials (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) and VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes)) have examined the use of the combination of an ACE-inhibitor with an angiotensin II receptor blocker. ONTARGET was a study conducted in patients with a history of cardiovascular or cerebrovascular disease, or type 2 diabetes mellitus accompanied by evidence of end-organ damage. VA NEPHRON-D was a study in patients with type 2 diabetes mellitus and diabetic nephropathy.
+
+These studies have shown no significant beneficial effect on renal and/or cardiovascular outcomes and mortality, while an increased risk of hyperkalaemia, acute kidney injury and/or hypotension as compared to monotherapy was observed. Given their similar pharmacodynamic properties, these results are also relevant for other ACE-inhibitors and angiotensin II receptor blockers.
+
+ACE-inhibitors and angiotensin II receptor blockers should therefore not be used concomitantly in patients with diabetic nephropathy.
 
 ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease Endpoints) was a study designed to test the benefit of adding aliskiren to a standard therapy of an ACE-inhibitor or an angiotensin II receptor blocker in patients with type 2 diabetes mellitus and chronic kidney disease, cardiovascular disease, or both. The study was terminated early because of an increased risk of adverse outcomes. Cardiovascular death and stroke were both numerically more frequent in the aliskiren group than in the placebo group and adverse events and serious adverse events of interest (hyperkalaemia, hypotension and renal dysfunction) were more frequently reported in the aliskiren group than in the placebo group.
 
@@ -1838,9 +1864,11 @@ Following oral or intravenous administration of 14 C irbesartan, 80-85% of the c
 
 ## Linearity / non-linearity
 
-Irbesartan exhibits linear and dose proportional pharmacokinetics over the dose range of 10 to 600 mg. A less than proportional increase in oral absorption at doses beyond 600 mg (twice the maximal recommended dose) was observed; the mechanism for this is unknown. Peak plasma concentrations are attained at 1.5 - 2 hours after oral administration. The total body and renal clearance are 157 - 176 and 3 - 3.5 ml/min, respectively. The terminal elimination half-life of irbesartan is 11 - 15 hours. Steady-state plasma concentrations are attained within 3 days after initiation of a oncedaily dosing regimen. Limited accumulation of irbesartan (&lt; 20%) is observed in plasma upon repeated once-daily dosing. In a study, somewhat higher plasma concentrations of irbesartan were observed in female hypertensive patients. However, there was no difference in the half-life and accumulation of irbesartan. No dosage adjustment is necessary in female patients. Irbesartan AUC and Cmax values were also somewhat greater in older subjects (≥ 65 years) than those of young subjects (18 - 40 years). However the terminal half-life was not significantly altered. No dosage adjustment is necessary in older people.
+Irbesartan exhibits linear and dose proportional pharmacokinetics over the dose range of 10 to 600 mg. A less than proportional increase in oral absorption at doses beyond 600 mg (twice the maximal recommended dose) was observed; the mechanism for this is unknown. Peak plasma concentrations are attained at 1.5 - 2 hours after oral administration. The total body and renal clearance are 157 - 176 and 3 - 3.5 ml/min, respectively. The terminal elimination half-life of irbesartan is 11 - 15 hours. Steady-state plasma concentrations are attained within 3 days after initiation of a oncedaily dosing regimen. Limited accumulation of irbesartan (&lt; 20%) is observed in plasma upon repeated once-daily dosing. In a study, somewhat higher plasma concentrations of irbesartan were
 
 <div style=\"page-break-after: always\"></div>
+
+observed in female hypertensive patients. However, there was no difference in the half-life and accumulation of irbesartan. No dosage adjustment is necessary in female patients. Irbesartan AUC and Cmax values were also somewhat greater in older subjects (≥ 65 years) than those of young subjects (18 - 40 years). However the terminal half-life was not significantly altered. No dosage adjustment is necessary in older people.
 
 ## Elimination
 
@@ -1862,13 +1890,11 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1876,9 +1902,7 @@ Animal studies with irbesartan showed transient toxic effects (increased renal p
 
 ## 6.1 List of excipients
 
-Tablet core:
-
-Lactose monohydrate Microcrystalline cellulose Croscarmellose sodium Hypromellose Silicon dioxide Magnesium stearate.
+Tablet core: Lactose monohydrate Microcrystalline cellulose Croscarmellose sodium Hypromellose Silicon dioxide Magnesium stearate.
 
 Film-coating: Lactose monohydrate Hypromellose Titanium dioxide Macrogol 3000 Carnauba wax.
 
@@ -1926,7 +1950,9 @@ Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/06/376/016-021 EU/1/06/376/034-035
+EU/1/06/376/016-021
+
+EU/1/06/376/034-035
 
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
@@ -2020,11 +2046,11 @@ Dual blockade of the renin-angiotensin-aldosterone system (RAAS): there is evide
 
 considered absolutely necessary, this should only occur under specialist supervision and subject to frequent close monitoring of renal function, electrolytes and blood pressure. ACE-inhibitors and angiotensin II receptor blockers should not be used concomitantly in patients with diabetic nephropathy.
 
-Intestinal angioedema: intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
-
 Hyperkalaemia: as with other medicinal products that affect the renin-angiotensin-aldosterone system, hyperkalaemia may occur during the treatment with Irbesartan Zentiva, especially in the presence of renal impairment, overt proteinuria due to diabetic renal disease, and/or heart failure. Close monitoring of serum potassium in patients at risk is recommended (see section 4.5).
 
 Hypoglycaemia: Irbesartan Zentiva may induce hypoglycaemia, particularly in diabetic patients. In patients treated with insulin or antidiabetics an appropriate blood glucose monitoring should be considered; a dose adjustment of insulin or antidiabetics may be required when indicated (see section 4.5).
+
+Intestinal angioedema: intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
 
 Lithium: the combination of lithium and Irbesartan Zentiva is not recommended (see section 4.5).
 
@@ -2032,7 +2058,9 @@ Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy: as wi
 
 Primary aldosteronism: patients with primary aldosteronism generally will not respond to antihypertensive medicinal products acting through inhibition of the renin-angiotensin system. Therefore, the use of Irbesartan Zentiva is not recommended.
 
-General: in patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with angiotensin converting enzyme inhibitors or angiotensin-II receptor antagonists that affect this system has been associated with acute hypotension, azotaemia, oliguria, or rarely acute renal failure (see section 4.5). As with any antihypertensive agent, excessive blood pressure decrease in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke. As observed for angiotensin converting enzyme inhibitors, irbesartan and the other angiotensin antagonists are apparently less effective in lowering blood pressure in black people than in non-blacks, possibly because of higher prevalence of low-renin states in the black hypertensive population (see section 5.1).
+General: in patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with angiotensin converting enzyme inhibitors or angiotensin-II receptor antagonists that affect this system has been associated with acute hypotension, azotaemia, oliguria, or rarely acute renal failure (see section 4.5). As with any antihypertensive agent, excessive blood pressure decrease in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke.
+
+As observed for angiotensin converting enzyme inhibitors, irbesartan and the other angiotensin antagonists are apparently less effective in lowering blood pressure in black people than in non-blacks, possibly because of higher prevalence of low-renin states in the black hypertensive population (see section 5.1).
 
 Pregnancy: angiotensin II Receptor Antagonists (AIIRAs) should not be initiated during pregnancy. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
 
@@ -2044,7 +2072,7 @@ Paediatric population: irbesartan has been studied in paediatric populations age
 
 Lactose: patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
-Sodium: This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+Sodium: This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -2076,9 +2104,11 @@ The use of AIIRAs is not recommended during the first trimester of pregnancy (se
 
 Epidemiological evidence regarding the risk of teratogenicity following exposure to ACE inhibitors during the first trimester of pregnancy has not been conclusive; however a small increase in risk cannot be excluded. Whilst there is no controlled epidemiological data on the risk with Angiotensin II Receptor Antagonists (AIIRAs), similar risks may exist for this class of drugs. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started.
 
-Exposure to AIIRA therapy during the second and third trimesters is known to induce human toxicity (renal failure, hypotension, hyperkalaemia). (See section 5.3).
+Exposure to AIIRA therapy during the second and third trimesters is known to induce human foetotoxicity (decreased renal function, oligohydramnios, skull ossification retardation) and neonatal toxicity (renal failure, hypotension, hyperkalaemia). (See section 5.3).
 
-foetotoxicity (decreased renal function, oligohydramnios, skull ossification retardation) and neonatal Should exposure to AIIRAs have occurred from the second trimester of pregnancy, ultrasound check of renal function and skull is recommended. Infants whose mothers have taken AIIRAs should be closely observed for hypotension (see sections 4.3 and 4.4).
+Should exposure to AIIRAs have occurred from the second trimester of pregnancy, ultrasound check of renal function and skull is recommended.
+
+Infants whose mothers have taken AIIRAs should be closely observed for hypotension (see sections 4.3 and 4.4).
 
 ## Breast-feeding
 
@@ -2096,9 +2126,11 @@ Based on its pharmacodynamic properties, irbesartan is unlikely to affect the ab
 
 ## 4.8 Undesirable effects
 
-In placebo-controlled trials in patients with hypertension, the overall incidence of adverse events did not differ between the irbesartan (56.2%) and the placebo groups (56.5%). Discontinuation due to any clinical or laboratory adverse event was less frequent for irbesartan-treated patients (3.3%) than for placebo-treated patients (4.5%). The incidence of adverse events was not related to dose (in the recommended dose range), gender, age, race, or duration of treatment.
+In placebo-controlled trials in patients with hypertension, the overall incidence of adverse events did not differ between the irbesartan (56.2%) and the placebo groups (56.5%). Discontinuation due to any clinical or laboratory adverse event was less frequent for irbesartan-treated patients (3.3%) than for
 
 <div style=\"page-break-after: always\"></div>
+
+placebo-treated patients (4.5%). The incidence of adverse events was not related to dose (in the recommended dose range), gender, age, race, or duration of treatment.
 
 In diabetic hypertensive patients with microalbuminuria and normal renal function, orthostatic dizziness and orthostatic hypotension were reported in 0.5% of the patients (i.e., uncommon) but in excess of placebo.
 
@@ -2106,7 +2138,7 @@ The following table presents the adverse drug reactions that were reported in pl
 
 The frequency of adverse reactions listed below is defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Adverse reactions additionally reported from post-marketing experience are also listed. These adverse reactions are derived from spontaneous reports.
+Adverse reactions additionally reported from post -marketing experience are also listed. These adverse reactions are derived from spontaneous reports.
 
 ## Blood and lymphatic system disorders
 
@@ -2120,7 +2152,7 @@ Not known:
 
 hypersensitivity reactions such as angioedema, rash, urticaria, anaphylactic reaction, anaphylactic shock
 
-## Metabolism and nutrition disorders
+Metabolism and nutrition disorders
 
 Not known:
 
@@ -2142,7 +2174,7 @@ Not known:
 
 tinnitus
 
-## Cardiac disorders
+Cardiac disorders
 
 Uncommon:
 
@@ -2164,7 +2196,7 @@ Uncommon:
 
 cough
 
-## Gastrointestinal disorders
+Gastrointestinal disorders
 
 Common:
 
@@ -2182,13 +2214,17 @@ Not known:
 
 dysgeusia
 
-## Hepatobiliary disorders
+Hepatobiliary disorders
 
 Uncommon:
 
+jaundice
+
 Not known:
 
-jaundice hepatitis, abnormal liver function
+hepatitis, abnormal liver function
+
+<div style=\"page-break-after: always\"></div>
 
 ## Skin and subcutaneous tissue disorders
 
@@ -2206,8 +2242,6 @@ Not known:
 
 arthralgia, myalgia (in some cases associated with increased plasma creatine kinase levels), muscle cramps
 
-<div style=\"page-break-after: always\"></div>
-
 ## Renal and urinary disorders
 
 Not known:
@@ -2220,11 +2254,15 @@ Uncommon:
 
 sexual dysfunction
 
-## General disorders and administration site conditions
+General disorders and administration site conditions
 
 Common:
 
+fatigue
+
 Uncommon:
+
+chest pain
 
 ## Investigations
 
@@ -2248,8 +2286,6 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Experience in adults exposed to doses of up to 900 mg/day for 8 weeks revealed no toxicity. The most likely manifestations of overdose are expected to be hypotension and tachycardia; bradycardia might also occur from overdose. No specific information is available on the treatment of overdose with Irbesartan Zentiva. The patient should be closely monitored, and the treatment should be symptomatic and supportive. Suggested measures include induction of emesis and/or gastric lavage. Activated charcoal may be useful in the treatment of overdose. Irbesartan is not removed by haemodialysis.
 
-fatigue chest pain
-
 <div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
@@ -2264,7 +2300,9 @@ Irbesartan is a potent, orally active, selective angiotensin-II receptor (type A
 
 ## Hypertension
 
-Irbesartan lowers blood pressure with minimal change in heart rate. The decrease in blood pressure is dose-related for once a day doses with a tendency towards plateau at doses above 300 mg. Doses of 150-300 mg once daily lower supine or seated blood pressures at trough (i.e. 24 hours after dosing) by an average of 8-13/5-8 mm Hg (systolic/diastolic) greater than those associated with placebo. Peak reduction of blood pressure is achieved within 3-6 hours after administration and the blood pressure lowering effect is maintained for at least 24 hours. At 24 hours the reduction of blood pressure was 60-70% of the corresponding peak diastolic and systolic responses at the recommended doses. Once daily dosing with 150 mg produced trough and mean 24 hour responses similar to twice daily dosing on the same total dose.
+Irbesartan lowers blood pressure with minimal change in heart rate. The decrease in blood pressure is dose-related for once a day doses with a tendency towards plateau at doses above 300 mg. Doses of 150-300 mg once daily lower supine or seated blood pressures at trough (i.e. 24 hours after dosing) by an average of 8-13/5-8 mm Hg (systolic/diastolic) greater than those associated with placebo.
+
+Peak reduction of blood pressure is achieved within 3-6 hours after administration and the blood pressure lowering effect is maintained for at least 24 hours. At 24 hours the reduction of blood pressure was 60-70% of the corresponding peak diastolic and systolic responses at the recommended doses. Once daily dosing with 150 mg produced trough and mean 24 hour responses similar to twice daily dosing on the same total dose.
 
 The blood pressure lowering effect of Irbesartan Zentiva is evident within 1-2 weeks, with the maximal effect occurring by 4-6 weeks after start of therapy. The antihypertensive effects are maintained during long term therapy. After withdrawal of therapy, blood pressure gradually returns toward baseline. Rebound hypertension has not been observed.
 
@@ -2276,9 +2314,11 @@ There is no clinically important effect on serum uric acid or urinary uric acid 
 
 ## Paediatric population
 
-Reduction of blood pressure with 0.5 mg/kg (low), 1.5 mg/kg (medium) and 4.5 mg/kg (high) target titrated doses of irbesartan was evaluated in 318 hypertensive or at risk (diabetic, family history of hypertension) children and adolescents aged 6 to 16 years over a three week period. At the end of the three weeks the mean reduction from baseline in the primary efficacy variable, trough seated systolic blood pressure (SeSBP) was 11.7 mmHg (low dose), 9.3 mmHg (medium dose), 13.2 mmHg (high dose). No significant difference was apparent between these doses. Adjusted mean change of trough seated diastolic blood pressure (SeDBP) was as follows: 3.8 mmHg (low dose), 3.2 mmHg (medium dose), 5.6 mmHg (high dose). Over a subsequent two week period where patients were re-randomized to either active medicinal product or placebo, patients on placebo had increases of 2.4 and 2.0 mmHg in SeSBP and SeDBP compared to +0.1 and -0.3 mmHg changes respectively in those on all doses of irbesartan (see section 4.2).
+Reduction of blood pressure with 0.5 mg/kg (low), 1.5 mg/kg (medium) and 4.5 mg/kg (high) target titrated doses of irbesartan was evaluated in 318 hypertensive or at risk (diabetic, family history of hypertension) children and adolescents aged 6 to 16 years over a three week period. At the end of the three weeks the mean reduction from baseline in the primary efficacy variable, trough seated systolic blood pressure (SeSBP) was 11.7 mmHg (low dose), 9.3 mmHg (medium dose), 13.2 mmHg (high dose). No significant difference was apparent between these doses. Adjusted mean change of trough seated diastolic blood pressure (SeDBP) was as follows: 3.8 mmHg (low dose), 3.2 mmHg (medium dose), 5.6 mmHg (high dose). Over a subsequent two week period where patients were re-randomized
 
 <div style=\"page-break-after: always\"></div>
+
+to either active medicinal product or placebo, patients on placebo had increases of 2.4 and 2.0 mmHg in SeSBP and SeDBP compared to +0.1 and -0.3 mmHg changes respectively in those on all doses of irbesartan (see section 4.2).
 
 ## Hypertension and type 2 diabetes with renal disease
 
@@ -2286,17 +2326,17 @@ The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreas
 
 Subgroups consisting of gender, race, age, duration of diabetes, baseline blood pressure, serum creatinine, and albumin excretion rate were assessed for treatment effect. In the female and black subgroups which represented 32% and 26% of the overall study population respectively, a renal benefit was not evident, although the confidence intervals do not exclude it. As for the secondary endpoint of fatal and non-fatal cardiovascular events, there was no difference among the three groups in the overall population, although an increased incidence of non-fatal MI was seen for women and a decreased incidence of non-fatal MI was seen in males in the irbesartan group versus the placebobased regimen. An increased incidence of non-fatal MI and stroke was seen in females in the irbesartan-based regimen versus the amlodipine-based regimen, while hospitalization due to heart failure was reduced in the overall population. However, no proper explanation for these findings in women has been identified.
 
-The study of the 'Effects of Irbesartan on Microalbuminuria in Hypertensive Patients with type 2 Diabetes Mellitus (IRMA 2)' shows that irbesartan 300 mg delays progression to overt proteinuria in patients with microalbuminuria. IRMA 2 was a placebo-controlled double blind morbidity study in 590 patients with type 2 diabetes, microalbuminuria (30-300 mg/day) and normal renal function (serum creatinine ≤ 1.5 mg/dl in males and &lt; 1.1 mg/dl in females). The study examined the long-term effects (2 years) of Irbesartan Zentiva on the progression to clinical (overt) proteinuria (urinary albumin excretion rate (UAER) &gt; 300 mg/day, and an increase in UAER of at least 30% from baseline). The predefined blood pressure goal was ≤ 135/85 mmHg. Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and dihydropyridine calcium blockers) were added as needed to help achieve the blood pressure goal. While similar blood pressure was achieved in all treatment groups, fewer subjects in the irbesartan 300 mg group (5.2%) than in the placebo (14.9%) or in the irbesartan 150 mg group (9.7%) reached the endpoint of overt proteinuria, demonstrating a 70% relative risk reduction versus placebo (p = 0.0004) for the higher dose. An accompanying improvement in the glomerular filtration rate (GFR) was not observed during the first three months of treatment. The slowing in the progression to clinical proteinuria was evident as early as three months and continued over the 2 year period. Regression to normoalbuminuria (&lt; 30 mg/day) was more frequent in the Irbesartan Zentiva 300 mg group (34%) than in the placebo group (21%).
-
-## Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
-
-Two large randomised, controlled trials (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) and VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes)) have examined the use of the combination of an ACE-inhibitor with an angiotensin II receptor blocker. ONTARGET was a study conducted in patients with a history of cardiovascular or cerebrovascular disease, or type 2 diabetes mellitus accompanied by evidence of
+The study of the 'Effects of Irbesartan on Microalbuminuria in Hypertensive Patients with type 2 Diabetes Mellitus (IRMA 2)' shows that irbesartan 300 mg delays progression to overt proteinuria in patients with microalbuminuria. IRMA 2 was a placebo-controlled double blind morbidity study in 590 patients with type 2 diabetes, microalbuminuria (30-300 mg/day) and normal renal function (serum creatinine ≤ 1.5 mg/dl in males and &lt; 1.1 mg/dl in females). The study examined the long-term effects (2 years) of Irbesartan Zentiva on the progression to clinical (overt) proteinuria (urinary albumin excretion rate (UAER) &gt; 300 mg/day, and an increase in UAER of at least 30% from baseline). The predefined blood pressure goal was ≤ 135/85 mmHg. Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and dihydropyridine calcium blockers) were added as needed to help achieve the blood pressure goal. While similar blood pressure was achieved in all treatment groups, fewer subjects in the irbesartan 300 mg group (5.2%) than in the placebo (14.9%) or in the irbesartan 150 mg group (9.7%) reached the endpoint of overt proteinuria, demonstrating a 70% relative risk reduction versus placebo (p = 0.0004) for the higher dose. An accompanying improvement in the glomerular filtration rate (GFR) was not observed during the first three months of treatment. The slowing in the progression to clinical proteinuria was evident as early as three months and continued over the 2 years period. Regression to normoalbuminuria (&lt; 30 mg/day) was more frequent in the Irbesartan Zentiva 300 mg group (34%) than in the placebo group (21%).
 
 <div style=\"page-break-after: always\"></div>
 
-end-organ damage. VA NEPHRON-D was a study in patients with type 2 diabetes mellitus and diabetic nephropathy.
+## Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
 
-These studies have shown no significant beneficial effect on renal and/or cardiovascular outcomes and mortality, while an increased risk of hyperkalaemia, acute kidney injury and/or hypotension as compared to monotherapy was observed. Given their similar pharmacodynamic properties, these results are also relevant for other ACE-inhibitors and angiotensin II receptor blockers. ACE-inhibitors and angiotensin II receptor blockers should therefore not be used concomitantly in patients with diabetic nephropathy.
+Two large randomised, controlled trials (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) and VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes)) have examined the use of the combination of an ACE-inhibitor with an angiotensin II receptor blocker. ONTARGET was a study conducted in patients with a history of cardiovascular or cerebrovascular disease, or type 2 diabetes mellitus accompanied by evidence of end-organ damage. VA NEPHRON-D was a study in patients with type 2 diabetes mellitus and diabetic nephropathy.
+
+These studies have shown no significant beneficial effect on renal and/or cardiovascular outcomes and mortality, while an increased risk of hyperkalaemia, acute kidney injury and/or hypotension as compared to monotherapy was observed. Given their similar pharmacodynamic properties, these results are also relevant for other ACE-inhibitors and angiotensin II receptor blockers.
+
+ACE-inhibitors and angiotensin II receptor blockers should therefore not be used concomitantly in patients with diabetic nephropathy.
 
 ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease Endpoints) was a study designed to test the benefit of adding aliskiren to a standard therapy of an ACE-inhibitor or an angiotensin II receptor blocker in patients with type 2 diabetes mellitus and chronic kidney disease, cardiovascular disease, or both. The study was terminated early because of an increased risk of adverse outcomes. Cardiovascular death and stroke were both numerically more frequent in the aliskiren group than in the placebo group and adverse events and serious adverse events of interest (hyperkalaemia, hypotension and renal dysfunction) were more frequently reported in the aliskiren group than in the placebo group.
 
@@ -2316,9 +2356,11 @@ Following oral or intravenous administration of 14 C irbesartan, 80-85% of the c
 
 ## Linearity / non-linearity
 
-Irbesartan exhibits linear and dose proportional pharmacokinetics over the dose range of 10 to 600 mg. A less than proportional increase in oral absorption at doses beyond 600 mg (twice the maximal recommended dose) was observed; the mechanism for this is unknown. Peak plasma concentrations are attained at 1.5 - 2 hours after oral administration. The total body and renal clearance are 157 - 176 and 3 - 3.5 ml/min, respectively. The terminal elimination half-life of irbesartan is 11 - 15 hours. Steady-state plasma concentrations are attained within 3 days after initiation of a oncedaily dosing regimen. Limited accumulation of irbesartan (&lt; 20%) is observed in plasma upon repeated once-daily dosing. In a study, somewhat higher plasma concentrations of irbesartan were observed in female hypertensive patients. However, there was no difference in the half-life and accumulation of irbesartan. No dosage adjustment is necessary in female patients. Irbesartan AUC and Cmax values were also somewhat greater in older subjects (≥ 65 years) than those of young subjects (18 - 40 years). However the terminal half-life was not significantly altered. No dosage adjustment is necessary in older people.
+Irbesartan exhibits linear and dose proportional pharmacokinetics over the dose range of 10 to 600 mg. A less than proportional increase in oral absorption at doses beyond 600 mg (twice the maximal recommended dose) was observed; the mechanism for this is unknown. Peak plasma concentrations are attained at 1.5 - 2 hours after oral administration. The total body and renal clearance are 157 - 176 and 3 - 3.5 ml/min, respectively. The terminal elimination half-life of irbesartan is 11 - 15 hours. Steady-state plasma concentrations are attained within 3 days after initiation of a oncedaily dosing regimen. Limited accumulation of irbesartan (&lt; 20%) is observed in plasma upon repeated once-daily dosing. In a study, somewhat higher plasma concentrations of irbesartan were
 
 <div style=\"page-break-after: always\"></div>
+
+observed in female hypertensive patients. However, there was no difference in the half-life and accumulation of irbesartan. No dosage adjustment is necessary in female patients. Irbesartan AUC and Cmax values were also somewhat greater in older subjects (≥ 65 years) than those of young subjects (18 - 40 years). However the terminal half-life was not significantly altered. No dosage adjustment is necessary in older people.
 
 ## Elimination
 
@@ -2340,13 +2382,11 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2500,11 +2540,11 @@ Dual blockade of the renin-angiotensin-aldosterone system (RAAS): there is evide
 
 considered absolutely necessary, this should only occur under specialist supervision and subject to frequent close monitoring of renal function, electrolytes and blood pressure. ACE-inhibitors and angiotensin II receptor blockers should not be used concomitantly in patients with diabetic nephropathy.
 
-Intestinal angioedema: intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
-
 Hyperkalaemia: as with other medicinal products that affect the renin-angiotensin-aldosterone system, hyperkalaemia may occur during the treatment with Irbesartan Zentiva, especially in the presence of renal impairment, overt proteinuria due to diabetic renal disease, and/or heart failure. Close monitoring of serum potassium in patients at risk is recommended (see section 4.5).
 
 Hypoglycaemia: Irbesartan Zentiva may induce hypoglycaemia, particularly in diabetic patients. In patients treated with insulin or antidiabetics an appropriate blood glucose monitoring should be considered; a dose adjustment of insulin or antidiabetics may be required when indicated (see section 4.5).
+
+Intestinal angioedema: intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
 
 Lithium: the combination of lithium and Irbesartan Zentiva is not recommended (see section 4.5).
 
@@ -2512,19 +2552,21 @@ Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy: as wi
 
 Primary aldosteronism: patients with primary aldosteronism generally will not respond to antihypertensive medicinal products acting through inhibition of the renin-angiotensin system. Therefore, the use of Irbesartan Zentiva is not recommended.
 
-General: in patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with angiotensin converting enzyme inhibitors or angiotensin-II receptor antagonists that affect this system has been associated with acute hypotension, azotaemia, oliguria, or rarely acute renal failure (see section 4.5). As with any antihypertensive agent, excessive blood pressure decrease in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke. As observed for angiotensin converting enzyme inhibitors, irbesartan and the other angiotensin antagonists are apparently less effective in lowering blood pressure in black people than in non-blacks, possibly because of higher prevalence of low-renin states in the black hypertensive population (see section 5.1).
+General: in patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with angiotensin converting enzyme inhibitors or angiotensin-II receptor antagonists that affect this system has been associated with acute hypotension, azotaemia, oliguria, or rarely acute renal failure (see section 4.5). As with any antihypertensive agent, excessive blood pressure decrease in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke.
+
+As observed for angiotensin converting enzyme inhibitors, irbesartan and the other angiotensin antagonists are apparently less effective in lowering blood pressure in black people than in non-blacks, possibly because of higher prevalence of low-renin states in the black hypertensive population (see section 5.1).
 
 Pregnancy: angiotensin II Receptor Antagonists (AIIRAs) should not be initiated during pregnancy. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
 
 Paediatric population: irbesartan has been studied in paediatric populations aged 6 to 16 years old but the current data are insufficient to support an extension of the use in children until further data become available (see sections 4.8, 5.1 and 5.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Excipients:
 
 Lactose: patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
-Sodium: This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+Sodium: This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -2540,9 +2582,11 @@ Non-steroidal anti-inflammatory drugs: when angiotensin II antagonists are admin
 
 As with ACE inhibitors, concomitant use of angiotensin II antagonists and NSAIDs may lead to an increased risk of worsening of renal function, including possible acute renal failure, and an increase in serum potassium, especially in patients with poor pre-existing renal function. The combination should be administered with caution, especially in the elderly. Patients should be adequately hydrated and consideration should be given to monitoring renal function after initiation of concomitant therapy, and periodically thereafter.
 
-Repaglinide: irbesartan has the potential to inhibit OATP1B1. In a clinical study, it was reported that irbesartan increased the Cmax and AUC of repaglinide (substrate of OATP1B1) by 1.8-fold and 1.3fold, respectively, when administered 1 hour before repaglinide. In another study, no relevant pharmacokinetic interaction was reported, when the two drugs were co-administered. Therefore, dose adjustment of antidiabetic treatment such as repaglinide may be required (see section 4.4). Additional information on irbesartan interactions: in clinical studies, the pharmacokinetic of irbesartan is not affected by hydrochlorothiazide. Irbesartan is mainly metabolised by CYP2C9 and to a lesser extent by glucuronidation. No significant pharmacokinetic or pharmacodynamic interactions were observed when irbesartan was coadministered with warfarin, a medicinal product metabolised by CYP2C9. The effects of CYP2C9 inducers such as rifampicin on the pharmacokinetic of irbesartan have not been evaluated. The pharmacokinetic of digoxin was not altered by coadministration of irbesartan.
+Repaglinide: irbesartan has the potential to inhibit OATP1B1. In a clinical study, it was reported that irbesartan increased the Cmax and AUC of repaglinide (substrate of OATP1B1) by 1.8-fold and 1.3fold, respectively, when administered 1 hour before repaglinide. In another study, no relevant pharmacokinetic interaction was reported, when the two drugs were co-administered. Therefore, dose adjustment of antidiabetic treatment such as repaglinide may be required (see section 4.4). Additional information on irbesartan interactions: in clinical studies, the pharmacokinetic of irbesartan is not affected by hydrochlorothiazide. Irbesartan is mainly metabolised by CYP2C9 and to a lesser extent by glucuronidation. No significant pharmacokinetic or pharmacodynamic interactions were observed when irbesartan was coadministered with warfarin, a medicinal product metabolised by CYP2C9. The effects of CYP2C9 inducers such as rifampicin on the pharmacokinetic of irbesartan
 
 <div style=\"page-break-after: always\"></div>
+
+have not been evaluated. The pharmacokinetic of digoxin was not altered by coadministration of irbesartan.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -2552,11 +2596,9 @@ The use of AIIRAs is not recommended during the first trimester of pregnancy (se
 
 Epidemiological evidence regarding the risk of teratogenicity following exposure to ACE inhibitors during the first trimester of pregnancy has not been conclusive; however a small increase in risk cannot be excluded. Whilst there is no controlled epidemiological data on the risk with Angiotensin II Receptor Antagonists (AIIRAs), similar risks may exist for this class of drugs. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started.
 
-Exposure to AIIRA therapy during the second and third trimesters is known to induce human foetotoxicity (decreased renal function, oligohydramnios, skull ossification retardation) and neonatal toxicity (renal failure, hypotension, hyperkalaemia). (See section 5.3).
+Exposure to AIIRA therapy during the second and third trimesters is known to induce human toxicity (renal failure, hypotension, hyperkalaemia). (See section 5.3).
 
-Should exposure to AIIRAs have occurred from the second trimester of pregnancy, ultrasound check of renal function and skull is recommended.
-
-Infants whose mothers have taken AIIRAs should be closely observed for hypotension (see sections 4.3 and 4.4).
+foetotoxicity (decreased renal function, oligohydramnios, skull ossification retardation) and neonatal Should exposure to AIIRAs have occurred from the second trimester of pregnancy, ultrasound check of renal function and skull is recommended. Infants whose mothers have taken AIIRAs should be closely observed for hypotension (see sections 4.3 and 4.4).
 
 ## Breast-feeding
 
@@ -2576,15 +2618,15 @@ Based on its pharmacodynamic properties, irbesartan is unlikely to affect the ab
 
 In placebo-controlled trials in patients with hypertension, the overall incidence of adverse events did not differ between the irbesartan (56.2%) and the placebo groups (56.5%). Discontinuation due to any clinical or laboratory adverse event was less frequent for irbesartan-treated patients (3.3%) than for placebo-treated patients (4.5%). The incidence of adverse events was not related to dose (in the recommended dose range), gender, age, race, or duration of treatment.
 
-In diabetic hypertensive patients with microalbuminuria and normal renal function, orthostatic dizziness and orthostatic hypotension were reported in 0.5% of the patients (i.e., uncommon) but in excess of placebo.
-
 <div style=\"page-break-after: always\"></div>
+
+In diabetic hypertensive patients with microalbuminuria and normal renal function, orthostatic dizziness and orthostatic hypotension were reported in 0.5% of the patients (i.e., uncommon) but in excess of placebo.
 
 The following table presents the adverse drug reactions that were reported in placebo-controlled trials in which 1,965 hypertensive patients received irbesartan. Terms marked with a star (*) refer to the adverse reactions that were additionally reported in &gt; 2% of diabetic hypertensive patients with chronic renal insufficiency and overt proteinuria and in excess of placebo.
 
 The frequency of adverse reactions listed below is defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Adverse reactions additionally reported from post-marketing experience are also listed. These adverse reactions are derived from spontaneous reports.
+Adverse reactions additionally reported from post -marketing experience are also listed. These adverse reactions are derived from spontaneous reports.
 
 ## Blood and lymphatic system disorders
 
@@ -2592,7 +2634,7 @@ Not known:
 
 anaemia, thrombocytopenia
 
-## Immune system disorders
+Immune system disorders
 
 Not known:
 
@@ -2604,7 +2646,7 @@ Not known:
 
 hyperkalaemia, hypoglycaemia
 
-## Nervous system disorders
+Nervous system disorders
 
 Common:
 
@@ -2614,19 +2656,19 @@ Not known:
 
 vertigo, headache
 
-## Ear and labyrinth disorder
+Ear and labyrinth disorder
 
 Not known:
 
 tinnitus
 
-## Cardiac disorders
+Cardiac disorders
 
 Uncommon:
 
 tachycardia
 
-## Vascular disorders
+Vascular disorders
 
 Common:
 
@@ -2636,7 +2678,7 @@ Uncommon:
 
 flushing
 
-## Respiratory, thoracic and mediastinal disorders
+Respiratory, thoracic and mediastinal disorders
 
 Uncommon:
 
@@ -2698,15 +2740,11 @@ Uncommon:
 
 sexual dysfunction
 
-## General disorders and administration site conditions
+General disorders and administration site conditions
 
 Common:
 
-fatigue
-
 Uncommon:
-
-chest pain
 
 ## Investigations
 
@@ -2730,13 +2768,15 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Experience in adults exposed to doses of up to 900 mg/day for 8 weeks revealed no toxicity. The most likely manifestations of overdose are expected to be hypotension and tachycardia; bradycardia might also occur from overdose. No specific information is available on the treatment of overdose with Irbesartan Zentiva. The patient should be closely monitored, and the treatment should be symptomatic and supportive. Suggested measures include induction of emesis and/or gastric lavage. Activated charcoal may be useful in the treatment of overdose. Irbesartan is not removed by haemodialysis.
 
+fatigue chest pain
+
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Angiotensin-II antagonists, plain,ATC code: C09C A04.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -2746,7 +2786,9 @@ Irbesartan is a potent, orally active, selective angiotensin-II receptor (type A
 
 ## Hypertension
 
-Irbesartan lowers blood pressure with minimal change in heart rate. The decrease in blood pressure is dose-related for once a day doses with a tendency towards plateau at doses above 300 mg. Doses of 150-300 mg once daily lower supine or seated blood pressures at trough (i.e. 24 hours after dosing) by an average of 8-13/5-8 mm Hg (systolic/diastolic) greater than those associated with placebo. Peak reduction of blood pressure is achieved within 3-6 hours after administration and the blood pressure lowering effect is maintained for at least 24 hours. At 24 hours the reduction of blood pressure was 60-70% of the corresponding peak diastolic and systolic responses at the recommended doses. Once daily dosing with 150 mg produced trough and mean 24 hour responses similar to twice daily dosing on the same total dose.
+Irbesartan lowers blood pressure with minimal change in heart rate. The decrease in blood pressure is dose-related for once a day doses with a tendency towards plateau at doses above 300 mg. Doses of 150-300 mg once daily lower supine or seated blood pressures at trough (i.e. 24 hours after dosing) by an average of 8-13/5-8 mm Hg (systolic/diastolic) greater than those associated with placebo.
+
+Peak reduction of blood pressure is achieved within 3-6 hours after administration and the blood pressure lowering effect is maintained for at least 24 hours. At 24 hours the reduction of blood pressure was 60-70% of the corresponding peak diastolic and systolic responses at the recommended doses. Once daily dosing with 150 mg produced trough and mean 24 hour responses similar to twice daily dosing on the same total dose.
 
 The blood pressure lowering effect of Irbesartan Zentiva is evident within 1-2 weeks, with the maximal effect occurring by 4-6 weeks after start of therapy. The antihypertensive effects are maintained during long term therapy. After withdrawal of therapy, blood pressure gradually returns toward baseline. Rebound hypertension has not been observed.
 
@@ -2758,29 +2800,27 @@ There is no clinically important effect on serum uric acid or urinary uric acid 
 
 ## Paediatric population
 
-Reduction of blood pressure with 0.5 mg/kg (low), 1.5 mg/kg (medium) and 4.5 mg/kg (high) target titrated doses of irbesartan was evaluated in 318 hypertensive or at risk (diabetic, family history of hypertension) children and adolescents aged 6 to 16 years over a three week period. At the end of the three weeks the mean reduction from baseline in the primary efficacy variable, trough seated systolic blood pressure (SeSBP) was 11.7 mmHg (low dose), 9.3 mmHg (medium dose), 13.2 mmHg (high dose). No significant difference was apparent between these doses. Adjusted mean change of trough seated diastolic blood pressure (SeDBP) was as follows: 3.8 mmHg (low dose), 3.2 mmHg (medium dose), 5.6 mmHg (high dose). Over a subsequent two week period where patients were re-randomized to either active medicinal product or placebo, patients on placebo had increases of 2.4 and 2.0 mmHg in SeSBP and SeDBP compared to +0.1 and -0.3 mmHg changes respectively in those on all doses of irbesartan (see section 4.2).
-
-## Hypertension and type 2 diabetes with renal disease
-
-The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreases the progression of renal disease in patients with chronic renal insufficiency and overt proteinuria. IDNT was a double blind, controlled, morbidity and mortality trial comparing Irbesartan Zentiva, amlodipine and placebo. In 1,715 hypertensive patients with type 2 diabetes, proteinuria ≥ 900 mg/day and serum creatinine
+Reduction of blood pressure with 0.5 mg/kg (low), 1.5 mg/kg (medium) and 4.5 mg/kg (high) target titrated doses of irbesartan was evaluated in 318 hypertensive or at risk (diabetic, family history of hypertension) children and adolescents aged 6 to 16 years over a three week period. At the end of the three weeks the mean reduction from baseline in the primary efficacy variable, trough seated systolic blood pressure (SeSBP) was 11.7 mmHg (low dose), 9.3 mmHg (medium dose), 13.2 mmHg (high dose). No significant difference was apparent between these doses. Adjusted mean change of trough seated diastolic blood pressure (SeDBP) was as follows: 3.8 mmHg (low dose), 3.2 mmHg (medium
 
 <div style=\"page-break-after: always\"></div>
 
-ranging from 1.0-3.0 mg/dl, the long-term effects (mean 2.6 years) of Irbesartan Zentiva on the progression of renal disease and all-cause mortality were examined. Patients were titrated from 75 mg to a maintenance dose of 300 mg Irbesartan Zentiva , from 2.5 mg to 10 mg amlodipine, or placebo as tolerated. Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a predefined blood pressure goal of ≤ 135/85 mmHg or a 10 mmHg reduction in systolic pressure if baseline was &gt; 160 mmHg. Sixty per cent (60%) of patients in the placebo group reached this target blood pressure whereas this figure was 76% and 78% in the irbesartan and amlodipine groups respectively. Irbesartan significantly reduced the relative risk in the primary combined endpoint of doubling serum creatinine, end-stage renal disease (ESRD) or all-cause mortality. Approximately 33% of patients in the irbesartan group reached the primary renal composite endpoint compared to 39% and 41% in the placebo and amlodipine groups [20% relative risk reduction versus placebo (p = 0.024) and 23% relative risk reduction compared to amlodipine (p = 0.006)]. When the individual components of the primary endpoint were analysed, no effect in all cause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
+dose), 5.6 mmHg (high dose). Over a subsequent two week period where patients were re-randomized to either active medicinal product or placebo, patients on placebo had increases of 2.4 and 2.0 mmHg in SeSBP and SeDBP compared to +0.1 and -0.3 mmHg changes respectively in those on all doses of irbesartan (see section 4.2).
+
+## Hypertension and type 2 diabetes with renal disease
+
+The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreases the progression of renal disease in patients with chronic renal insufficiency and overt proteinuria. IDNT was a double blind, controlled, morbidity and mortality trial comparing Irbesartan Zentiva, amlodipine and placebo. In 1,715 hypertensive patients with type 2 diabetes, proteinuria ≥ 900 mg/day and serum creatinine ranging from 1.0-3.0 mg/dl, the long-term effects (mean 2.6 years) of Irbesartan Zentiva on the progression of renal disease and all-cause mortality were examined. Patients were titrated from 75 mg to a maintenance dose of 300 mg Irbesartan Zentiva , from 2.5 mg to 10 mg amlodipine, or placebo as tolerated. Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a predefined blood pressure goal of ≤ 135/85 mmHg or a 10 mmHg reduction in systolic pressure if baseline was &gt; 160 mmHg. Sixty per cent (60%) of patients in the placebo group reached this target blood pressure whereas this figure was 76% and 78% in the irbesartan and amlodipine groups respectively. Irbesartan significantly reduced the relative risk in the primary combined endpoint of doubling serum creatinine, end-stage renal disease (ESRD) or all-cause mortality. Approximately 33% of patients in the irbesartan group reached the primary renal composite endpoint compared to 39% and 41% in the placebo and amlodipine groups [20% relative risk reduction versus placebo (p = 0.024) and 23% relative risk reduction compared to amlodipine (p = 0.006)]. When the individual components of the primary endpoint were analysed, no effect in all cause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
 
 Subgroups consisting of gender, race, age, duration of diabetes, baseline blood pressure, serum creatinine, and albumin excretion rate were assessed for treatment effect. In the female and black subgroups which represented 32% and 26% of the overall study population respectively, a renal benefit was not evident, although the confidence intervals do not exclude it. As for the secondary endpoint of fatal and non-fatal cardiovascular events, there was no difference among the three groups in the overall population, although an increased incidence of non-fatal MI was seen for women and a decreased incidence of non-fatal MI was seen in males in the irbesartan group versus the placebobased regimen. An increased incidence of non-fatal MI and stroke was seen in females in the irbesartan-based regimen versus the amlodipine-based regimen, while hospitalization due to heart failure was reduced in the overall population. However, no proper explanation for these findings in women has been identified.
 
-The study of the 'Effects of Irbesartan on Microalbuminuria in Hypertensive Patients with type 2 Diabetes Mellitus (IRMA 2)' shows that irbesartan 300 mg delays progression to overt proteinuria in patients with microalbuminuria. IRMA 2 was a placebo-controlled double blind morbidity study in 590 patients with type 2 diabetes, microalbuminuria (30-300 mg/day) and normal renal function (serum creatinine ≤ 1.5 mg/dl in males and &lt; 1.1 mg/dl in females). The study examined the long-term effects (2 years) of Irbesartan Zentiva on the progression to clinical (overt) proteinuria (urinary albumin excretion rate (UAER) &gt; 300 mg/day, and an increase in UAER of at least 30% from baseline). The predefined blood pressure goal was ≤ 135/85 mmHg. Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and dihydropyridine calcium blockers) were added as needed to help achieve the blood pressure goal. While similar blood pressure was achieved in all treatment groups, fewer subjects in the irbesartan 300 mg group (5.2%) than in the placebo (14.9%) or in the irbesartan 150 mg group (9.7%) reached the endpoint of overt proteinuria, demonstrating a 70% relative risk reduction versus placebo (p = 0.0004) for the higher dose. An accompanying improvement in the glomerular filtration rate (GFR) was not observed during the first three months of treatment. The slowing in the progression to clinical proteinuria was evident as early as three months and continued over the 2 year period. Regression to normoalbuminuria (&lt; 30 mg/day) was more frequent in the Irbesartan Zentiva 300 mg group (34%) than in the placebo group (21%).
+The study of the 'Effects of Irbesartan on Microalbuminuria in Hypertensive Patients with type 2 Diabetes Mellitus (IRMA 2)' shows that irbesartan 300 mg delays progression to overt proteinuria in patients with microalbuminuria. IRMA 2 was a placebo-controlled double blind morbidity study in 590 patients with type 2 diabetes, microalbuminuria (30-300 mg/day) and normal renal function (serum creatinine ≤ 1.5 mg/dl in males and &lt; 1.1 mg/dl in females). The study examined the long-term effects (2 years) of Irbesartan Zentiva on the progression to clinical (overt) proteinuria (urinary albumin excretion rate (UAER) &gt; 300 mg/day, and an increase in UAER of at least 30% from baseline). The predefined blood pressure goal was ≤ 135/85 mmHg. Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and dihydropyridine calcium blockers) were added as needed to help achieve the blood pressure goal. While similar blood pressure was achieved in all treatment groups, fewer subjects in the irbesartan 300 mg group (5.2%) than in the placebo (14.9%) or in the irbesartan 150 mg group (9.7%) reached the endpoint of overt proteinuria, demonstrating a 70% relative risk reduction versus placebo (p = 0.0004) for the higher dose. An accompanying improvement in the glomerular filtration rate (GFR) was not observed during the first three months of treatment. The slowing in the progression to clinical proteinuria was evident as early as three months and continued over the 2 years period. Regression to normoalbuminuria (&lt; 30 mg/day) was more frequent in the Irbesartan Zentiva 300 mg group (34%) than in the placebo group (21%).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
 
 Two large randomised, controlled trials (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) and VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes)) have examined the use of the combination of an ACE-inhibitor with an angiotensin II receptor blocker. ONTARGET was a study conducted in patients with a history of cardiovascular or cerebrovascular disease, or type 2 diabetes mellitus accompanied by evidence of end-organ damage. VA NEPHRON-D was a study in patients with type 2 diabetes mellitus and diabetic nephropathy.
 
-These studies have shown no significant beneficial effect on renal and/or cardiovascular outcomes and mortality, while an increased risk of hyperkalaemia, acute kidney injury and/or hypotension as
-
-<div style=\"page-break-after: always\"></div>
-
-compared to monotherapy was observed. Given their similar pharmacodynamic properties, these results are also relevant for other ACE-inhibitors and angiotensin II receptor blockers.
+These studies have shown no significant beneficial effect on renal and/or cardiovascular outcomes and mortality, while an increased risk of hyperkalaemia, acute kidney injury and/or hypotension as compared to monotherapy was observed. Given their similar pharmacodynamic properties, these results are also relevant for other ACE-inhibitors and angiotensin II receptor blockers.
 
 ACE-inhibitors and angiotensin II receptor blockers should therefore not be used concomitantly in patients with diabetic nephropathy.
 
@@ -2802,13 +2842,15 @@ Following oral or intravenous administration of 14 C irbesartan, 80-85% of the c
 
 ## Linearity / non-linearity
 
-Irbesartan exhibits linear and dose proportional pharmacokinetics over the dose range of 10 to 600 mg. A less than proportional increase in oral absorption at doses beyond 600 mg (twice the maximal recommended dose) was observed; the mechanism for this is unknown. Peak plasma concentrations are attained at 1.5 - 2 hours after oral administration. The total body and renal clearance are 157 - 176 and 3 - 3.5 ml/min, respectively. The terminal elimination half-life of irbesartan is 11 - 15 hours. Steady-state plasma concentrations are attained within 3 days after initiation of a oncedaily dosing regimen. Limited accumulation of irbesartan (&lt; 20%) is observed in plasma upon repeated once-daily dosing. In a study, somewhat higher plasma concentrations of irbesartan were observed in female hypertensive patients. However, there was no difference in the half-life and accumulation of irbesartan. No dosage adjustment is necessary in female patients. Irbesartan AUC and Cmax values were also somewhat greater in older subjects (≥ 65 years) than those of young subjects (18 - 40 years). However the terminal half-life was not significantly altered. No dosage adjustment is necessary in older people.
+Irbesartan exhibits linear and dose proportional pharmacokinetics over the dose range of 10 to 600 mg. A less than proportional increase in oral absorption at doses beyond 600 mg (twice the maximal recommended dose) was observed; the mechanism for this is unknown. Peak plasma concentrations are attained at 1.5 - 2 hours after oral administration. The total body and renal clearance are 157 - 176 and 3 - 3.5 ml/min, respectively. The terminal elimination half-life of irbesartan is 11 - 15 hours. Steady-state plasma concentrations are attained within 3 days after initiation of a oncedaily dosing regimen. Limited accumulation of irbesartan (&lt; 20%) is observed in plasma upon repeated once-daily dosing. In a study, somewhat higher plasma concentrations of irbesartan were
+
+<div style=\"page-break-after: always\"></div>
+
+observed in female hypertensive patients. However, there was no difference in the half-life and accumulation of irbesartan. No dosage adjustment is necessary in female patients. Irbesartan AUC and Cmax values were also somewhat greater in older subjects (≥ 65 years) than those of young subjects (18 - 40 years). However the terminal half-life was not significantly altered. No dosage adjustment is necessary in older people.
 
 ## Elimination
 
 Irbesartan and its metabolites are eliminated by both biliary and renal pathways. After either oral or IV administration of 14 C irbesartan, about 20% of the radioactivity is recovered in the urine, and the remainder in the faeces. Less than 2% of the dose is excreted in the urine as unchanged irbesartan.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -2826,23 +2868,19 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Tablet core: Lactose monohydrate Microcrystalline cellulose
-
-<div style=\"page-break-after: always\"></div>
-
-Croscarmellose sodium Hypromellose Silicon dioxide Magnesium stearate.
+Tablet core: Lactose monohydrate Microcrystalline cellulose Croscarmellose sodium Hypromellose Silicon dioxide Magnesium stearate.
 
 Film-coating: Lactose monohydrate Hypromellose Titanium dioxide Macrogol 3000 Carnauba wax.
 
@@ -2886,11 +2924,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/06/376/028-033 EU/1/06/376/038-039
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
@@ -2936,7 +2974,7 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- Periodic Safety Update Reports (PSURs)
+## · Periodic Safety Update Reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -3056,7 +3094,7 @@ Medicinal product subject to medical prescription.
 
 Irbesartan Zentiva 75 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -3200,7 +3238,7 @@ Medicinal product subject to medical prescription.
 
 Irbesartan Zentiva 150 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -3344,7 +3382,7 @@ Medicinal product subject to medical prescription.
 
 Irbesartan Zentiva 300 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -3488,7 +3526,7 @@ Medicinal product subject to medical prescription.
 
 Irbesartan Zentiva 75 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -3631,7 +3669,7 @@ Medicinal product subject to medical prescription.
 
 Irbesartan Zentiva 150 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -3704,18 +3742,19 @@ Excipients: also contains lactose monohydrate. See leaflet for further informati
 
 ## Film-coated tablet
 
-- 14 tablets
+14 tablets
 
 28 tablets
 
-- 30 tablets
+30 tablets
 
 56 tablets
 
 - 56 x 1 tablets
 - 84 tablets
 - 90 tablets
-- 98 tablets
+
+98 tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -3753,21 +3792,9 @@ Czech Republic
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/06/376/028 - 14 tablets
-
-EU/1/06/376/029 - 28 tablets
-
-EU/1/06/376/038 - 30 tablets
-
-EU/1/06/376/030 - 56 tablets
-
-EU/1/06/376/031 - 56 x 1 tablets
-
-EU/1/06/376/032 - 84 tablets
-
-EU/1/06/376/039 - 90 tablets
-
-EU/1/06/376/033 - 98 tablets
+```
+EU/1/06/376/028 - 14 tablets EU/1/06/376/029 - 28 tablets EU/1/06/376/038 - 30 tablets EU/1/06/376/030 - 56 tablets EU/1/06/376/031 - 56 x 1 tablets EU/1/06/376/032 - 84 tablets EU/1/06/376/039 - 90 tablets EU/1/06/376/033 - 98 tablets
+```
 
 ## 13. BATCH NUMBER
 
@@ -3783,7 +3810,7 @@ Medicinal product subject to medical prescription.
 
 Irbesartan Zentiva 300 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -3874,7 +3901,7 @@ Irbesartan Zentiva belongs to a group of medicines known as angiotensin-II recep
 ## Do not take Irbesartan Zentiva
 
 - if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
-- if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Zentiva in early pregnancy - see pregnancy section)
+- if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Zentiva in early pregnancy -see pregnancy section)
 - if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
 
 ## Warning and precautions
@@ -3885,7 +3912,7 @@ Talk to your doctor before taking Irbesartan Zentiva and if any of the following
 - if you suffer from kidney problems
 - if you suffer from heart problems
 - if you receive Irbesartan Zentiva for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
-- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heart beat), particularly if you are being treated for diabetes.
+- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heartbeat), particularly if you are being treated for diabetes.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3912,7 +3939,7 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Your doctor may need to change your dose and/or to take other precautions.
 
-If you are taking an ACE-inhibitor or aliskiren (see also information under the headings 'Do not take Irbesartan Zentiva ' and 'Warnings and precautions').
+If you are taking an ACE-inhibitor or aliskiren (see also information under the headings 'Do not take Irbesartan Zentiva ' and 'Warnings and precautions' ).
 
 ## You may need to have blood checks if you take:
 
@@ -3946,7 +3973,7 @@ Irbesartan Zentiva is unlikely to affect your ability to drive or use machines. 
 
 Irbesartan Zentiva contains lactose . If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicinal product.
 
-Irbesartan Zentiva contains sodium. This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+Irbesartan Zentiva contains sodium. This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 3. How to take Irbesartan Zentiva
 
@@ -3960,7 +3987,9 @@ Irbesartan Zentiva is for oral use . Swallow the tablets with a sufficient amoun
 
 The usual dose is 150 mg once a day (two tablets a day). The dose may later be increased to 300 mg (four tablets a day) once daily depending on blood pressure response.
 
-## ▪ Patients with high blood pressure and type 2 diabetes with kidney disease
+## ▪
+
+- Patients with high blood pressure and type 2 diabetes with kidney disease
 
 In patients with high blood pressure and type 2 diabetes, 300 mg (four tablets a day) once daily is the preferred maintenance dose for the treatment of associated kidney disease.
 
@@ -3992,15 +4021,16 @@ As with similar medicines, rare cases of allergic skin reactions (rash, urticari
 
 of these symptoms or get short of breath, stop taking Irbesartan Zentiva and contact your doctor immediately.
 
-The frequency of the side effects listed below is defined using the following convention: Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people Rare: may affect up to 1 in 1 000 people
+The frequency of the side effects listed below is defined using the following convention: Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people Rare: may affect up to 1 in 1,000 people
 
 Side effects reported in clinical studies for patients treated with Irbesartan Zentiva were:
 
 - Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
 - Common (may affect up to 1 in 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
 - Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
+- Rare (may affect up to 1 in 1,000 people): intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
 
-Some undesirable effects have been reported since marketing of Irbesartan Zentiva. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) and rare cases of intestinal angioedema (a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea) have also been reported.
+Some undesirable effects have been reported since marketing of Irbesartan Zentiva. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia -symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) have also been reported.
 
 ## Reporting of side effects
 
@@ -4041,13 +4071,17 @@ Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
 
 Sanofi Winthrop Industrie 1 Rue de la vierge Ambarès et Lagrave 33 565 Carbon Blanc cedex France
 
-Sanofi Winthrop Industrie 30-36 Avenue Gustave Eiffel 37 100 Tours France
+Sanofi Winthrop Industrie 30-36 Avenue Gustave Eiffel 37 100 Tours
+
+France
 
 For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder.
 
 ## België/Belgique/Belgien
 
-Zentiva, k.s. Tél/Tel: +32 (78) 700 112 PV-Belgium@zentiva.com
+Zentiva, k.s. Tél/Tel: +32 (78) 700 112
+
+PV-Belgium@zentiva.com
 
 ## Lietuva
 
@@ -4059,19 +4093,11 @@ Zentiva, k.s. Тел: +35924417136 PV-Bulgaria@zentiva.com
 
 ## Luxembourg/Luxemburg
 
-Zentiva, k.s.
-
-Tél/Tel: +352 208 82330
-
-PV-Luxembourg@zentiva.com
+Zentiva, k.s. Tél/Tel: +352 208 82330 PV-Luxembourg@zentiva.com
 
 ## Česká republika
 
-Zentiva, k.s.
-
-Tel: +420 267 241 111
-
-PV-Czech-Republic@zentiva.com
+Zentiva, k.s. Tel: +420 267 241 111 PV-Czech-Republic@zentiva.com
 
 Magyarország Zentiva Pharma Kft. Tel.: +36 1 299 1058 PV-Hungary@zentiva.com
 
@@ -4103,7 +4129,9 @@ Zentiva France Tél: +33 (0) 800 089 219 PV-France@zentiva.com
 
 ## Hrvatska
 
-Zentiva d.o.o. Tel: +385 1 6641 830 PV-Croatia@zentiva.com
+Zentiva d.o.o. Tel: +385 1 6641 830
+
+PV-Croatia@zentiva.com
 
 ## Ireland
 
@@ -4113,9 +4141,7 @@ PV-Ireland@zentiva.com
 
 ## Ísland
 
-Zentiva Denmark ApS Sími: +354 539 5025
-
-PV-Iceland@zentiva.com
+Zentiva Denmark ApS Sími: +354 539 5025 PV-Iceland@zentiva.com
 
 ## Italia
 
@@ -4123,15 +4149,11 @@ Zentiva Italia S.r.l. Tel: +39 800081631 PV-Italy@zentiva.com
 
 ## Κύπρος
 
-Zentiva, k.s. Τηλ: +30 211 198 7510
-
-PV-Cyprus@zentiva.com
+Zentiva, k.s. Τηλ: + 30 211 198 7510 PV-Cyprus@zentiva.com
 
 ## Malta
 
-Zentiva, k.s. Tel: +356 2034 1796
-
-PV-Malta@zentiva.com
+Zentiva, k.s. Tel: +356 2034 1796 PV-Malta@zentiva.com
 
 ## Nederland
 
@@ -4179,9 +4201,7 @@ PV-Sweden@zentiva.com
 
 <div style=\"page-break-after: always\"></div>
 
-Latvija Zentiva, k.s. Tel: +371 67893939
-
-PV-Latvia@zentiva.com
+Latvija Zentiva, k.s. Tel: +371 67893939 PV-Latvia@zentiva.com
 
 ## This leaflet was last revised in
 
@@ -4223,7 +4243,7 @@ Irbesartan Zentiva belongs to a group of medicines known as angiotensin-II recep
 ## Do not take Irbesartan Zentiva
 
 - if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
-- if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Zentiva in early pregnancy - see pregnancy section)
+- if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Zentiva in early pregnancy -see pregnancy section)
 - if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
 
 ## Warning and precautions
@@ -4234,13 +4254,13 @@ Talk to your doctor before taking Irbesartan Zentiva and if any of the following
 - if you suffer from kidney problems
 - if you suffer from heart problems
 - if you receive Irbesartan Zentiva for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
-- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heart beat), particularly if you are being treated for diabetes.
+- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heartbeat), particularly if you are being treated for diabetes.
 
 <div style=\"page-break-after: always\"></div>
 
 - if you are going to have an operation (surgery) or be given anaesthetics
 - if you are taking any of the following medicines used to treat high blood pressure:
-- o an ACE-inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems
+- o an ACE-inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems.
 - o aliskiren.
 
 Your doctor may check your kidney function, blood pressure, and the amount of electrolytes (e.g. potassium) in your blood at regular intervals.
@@ -4295,7 +4315,7 @@ Irbesartan Zentiva is unlikely to affect your ability to drive or use machines. 
 
 Irbesartan Zentiva contains lactose . If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicinal product.
 
-Irbesartan Zentiva contains sodium. This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+Irbesartan Zentiva contains sodium. This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 3. How to take Irbesartan Zentiva
 
@@ -4309,7 +4329,9 @@ Irbesartan Zentiva is for oral use . Swallow the tablets with a sufficient amoun
 
 The usual dose is 150 mg once a day. The dose may later be increased to 300 mg (two tablets a day) once daily depending on blood pressure response.
 
-## ▪ Patients with high blood pressure and type 2 diabetes with kidney disease
+## ▪
+
+- Patients with high blood pressure and type 2 diabetes with kidney disease
 
 In patients with high blood pressure and type 2 diabetes, 300 mg (two tablets a day) once daily is the preferred maintenance dose for the treatment of associated kidney disease.
 
@@ -4341,15 +4363,16 @@ As with similar medicines, rare cases of allergic skin reactions (rash, urticari
 
 of these symptoms or get short of breath, stop taking Irbesartan Zentiva and contact your doctor immediately.
 
-The frequency of the side effects listed below is defined using the following convention: Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people Rare: may affect up to 1 in 1000 people
+The frequency of the side effects listed below is defined using the following convention: Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people Rare: may affect up to 1 in 1,000 people
 
 Side effects reported in clinical studies for patients treated with Irbesartan Zentiva were:
 
 - Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
 - Common (may affect up to 1 in 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
 - Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
+- Rare (may affect up to 1 in 1,000 people): intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
 
-Some undesirable effects have been reported since marketing of Irbesartan Zentiva. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) and rare cases of intestinal angioedema (a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea) have also been reported.
+Some undesirable effects have been reported since marketing of Irbesartan Zentiva. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia -symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) have also been reported.
 
 ## Reporting of side effects
 
@@ -4390,374 +4413,9 @@ Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
 
 Sanofi Winthrop Industrie 1 Rue de la vierge Ambarès et Lagrave 33 565 Carbon Blanc cedex France
 
-Sanofi Winthrop Industrie 30-36 Avenue Gustave Eiffel 37 100 Tours France
+Sanofi Winthrop Industrie 30-36 Avenue Gustave Eiffel 37 100 Tours
 
-For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder.
-
-## België/Belgique/Belgien
-
-Zentiva, k.s.
-
-Tél/Tel: +32 (78) 700 112
-
-PV-Belgium@zentiva.com
-
-## Lietuva
-
-Zentiva, k.s.
-
-Tel: +370 52152025
-
-PV-Lithuania@zentiva.com
-
-## България
-
-Zentiva, k.s.
-
-Тел: +35924417136
-
-PV-Bulgaria@zentiva.com
-
-## Luxembourg/Luxemburg
-
-Zentiva, k.s.
-
-Tél/Tel: +352 208 82330
-
-PV-Luxembourg@zentiva.com
-
-## Česká republika
-
-Zentiva, k.s.
-
-Tel: +420 267 241 111
-
-PV-Czech-Republic@zentiva.com
-
-## Magyarország
-
-Zentiva Pharma Kft.
-
-Tel.: +36 1 299 1058
-
-PV-Hungary@zentiva.com
-
-## Danmark
-
-Zentiva Denmark ApS Tlf: +45 787 68 400
-
-PV-Denmark@zentiva.com
-
-## Malta
-
-Zentiva, k.s.
-
-Tel: +356 2034 1796
-
-PV-Malta@zentiva.com
-
-<div style=\"page-break-after: always\"></div>
-
-## Deutschland
-
-Zentiva Pharma GmbH
-
-Tel: +49 (0) 800 53 53 010
-
-PV-Germany@zentiva.com
-
-## Eesti
-
-Zentiva, k.s. Tel: +372 52 70308 PV-Estonia@zentiva.com
-
-## Ελλάδα
-
-Zentiva, k.s. Τηλ: +30 211 198 7510 PV-Greece@zentiva.com
-
-## España
-
-Zentiva Spain S.L.U. Tel: +34 671 365 828 PV-Spain@zentiva.com
-
-## France
-
-Zentiva France Tél: +33 (0) 800 089 219 PV-France@zentiva.com
-
-## Hrvatska
-
-Zentiva d.o.o. Tel: +385 1 6641 830 PV-Croatia@zentiva.com
-
-## Ireland
-
-Zentiva, k.s. Tel: +353 818 882 243 PV-Ireland@zentiva.com
-
-## Ísland
-
-Zentiva Denmark ApS Sími: +354 539 5025 PV-Iceland@zentiva.com
-
-## Italia
-
-Zentiva Italia S.r.l. Tel: +39 800081631 PV-Italy@zentiva.com
-
-## Κύπρος
-
-Zentiva, k.s. Τηλ: +30 211 198 7510 PV-Cyprus@zentiva.com
-
-## Latvija
-
-Zentiva, k.s. Tel: +371 67893939
-
-PV-Latvia@zentiva.com
-
-## Nederland
-
-Zentiva, k.s. Tel: +31 202 253 638 PV-Netherlands@zentiva.com
-
-## Norge
-
-Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Norway@zentiva.com
-
-## Österreich
-
-Zentiva, k.s. Tel: +43 720 778 877 PV-Austria@zentiva.com
-
-## Polska
-
-Zentiva Polska Sp. z o.o. Tel: + 48 22 375 92 00 PV-Poland@zentiva.com
-
-## Portugal
-
-Zentiva Portugal, Lda Tel: +351210601360 PV-Portugal@zentiva.com
-
-## România
-
-ZENTIVA S.A. Tel: +4 021 304 7597 PV-Romania@zentiva.com
-
-## Slovenija
-
-Zentiva, k.s. Tel: +386 360 00 408 PV-Slovenia@zentiva.com
-
-## Slovenská republika
-
-Zentiva, a.s. Tel: +421 2 3918 3010 PV-Slovakia@zentiva.com
-
-## Suomi/Finland
-
-Zentiva Denmark ApS Puh/Tel: +358 942 598 648 PV-Finland@zentiva.com
-
-## Sverige
-
-Zentiva Denmark ApS Tel: +46 840 838 822 PV-Sweden@zentiva.com
-
-<div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/
-
-<div style=\"page-break-after: always\"></div>
-
-## Package leaflet: Information for the user Irbesartan Zentiva 300 mg tablets
-
-irbesartan
-
-## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
-
-- Keep this leaflet. You may need to read it again.
-- If you have any further questions, ask your doctor or pharmacist.
-- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
-
-## What is in this leaflet
-
-1. What Irbesartan Zentiva is and what it is used for
-2. What you need to know before you take Irbesartan Zentiva
-3. How to take Irbesartan Zentiva
-4. Possible side effects
-5. How to store Irbesartan Zentiva
-6. Contents of the pack and other information
-
-## 1. What Irbesartan Zentiva is and what it is used for
-
-Irbesartan Zentiva belongs to a group of medicines known as angiotensin-II receptor antagonists. Angiotensin-II is a substance produced in the body which binds to receptors in blood vessels causing them to tighten. This results in an increase in blood pressure. Irbesartan Zentiva prevents the binding of angiotensin-II to these receptors, causing the blood vessels to relax and the blood pressure to lower. Irbesartan Zentiva slows the decrease of kidney function in patients with high blood pressure and type 2 diabetes.
-
-## Irbesartan Zentiva is used in adult patients
-
-- to treat high blood pressure ( essential hypertension )
-- to protect the kidney in patients with high blood pressure, type 2 diabetes and laboratory evidence of impaired kidney function.
-
-## 2. What you need to know before you take Irbesartan Zentiva
-
-## Do not take Irbesartan Zentiva
-
-- if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
-- if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Zentiva in early pregnancy - see pregnancy section)
-- if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
-
-## Warning and precautions
-
-Talk to your doctor before taking Irbesartan Zentiva and if any of the following apply to you:
-
-- if you get excessive vomiting or diarrhoea
-- if you suffer from kidney problems
-- if you suffer from heart problems
-- if you receive Irbesartan Zentiva for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
-- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heart beat), particularly if you are being treated for diabetes.
-
-<div style=\"page-break-after: always\"></div>
-
-- if you are going to have an operation (surgery) or be given anaesthetics
-- if you are taking any of the following medicines used to treat high blood pressure:
-- o an ACE-inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems
-- o Aliskiren.
-
-Your doctor may check your kidney function, blood pressure, and the amount of electrolytes (e.g. potassium) in your blood at regular intervals.
-
-See also information under the heading 'Do not take Irbesartan Zentiva'.
-
-Talk to your doctor if you experience abdominal pain, nausea, vomiting or diarrhoea after taking Irbesartan Zentiva. Your doctor will decide on further treatment. Do not stop taking Irbesartan Zentiva on your own.
-
-You must tell your doctor if you think you are (or might become) pregnant. Irbesartan Zentiva is not recommended in early pregnancy, and must not be taken if you are more than 3 months pregnant, as it may cause serious harm to your baby if used at that stage (see pregnancy section).
-
-## Children and adolescents
-
-This medicinal product should not be used in children and adolescents because the safety and efficacy have not yet been fully established.
-
-## Other medicines and Irbesartan Zentiva
-
-Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
-
-Your doctor may need to change your dose and/or to take other precautions:
-
-If you are taking an ACE-inhibitor or aliskiren (see also information under the headings 'Do not take Irbesartan Zentiva' and 'Warnings and precautions').
-
-## You may need to have blood checks if you take:
-
-- potassium supplements
-- salt substitutes containing potassium
-- potassium-sparing medicines (such as certain diuretics)
-- medicines containing lithium
-- repaglinide (medication used for lowering blood sugar levels)
-
-If you take certain painkillers, called non-steroidal anti-inflammatory drugs, the effect of irbesartan may be reduced.
-
-## Irbesartan Zentiva with food and drink
-
-Irbesartan Zentiva can be taken with or without food.
-
-## Pregnancy and breast-feeding
-
-## Pregnancy
-
-You must tell your doctor if you think you are (or might become) pregnant. Your doctor will normally advise you to stop taking Irbesartan Zentiva before you become pregnant or as soon as you know you are pregnant and will advise you to take another medicine instead of Irbesartan Zentiva. Irbesartan Zentiva is not recommended in early pregnancy, and must not be taken when more than 3 months pregnant, as it may cause serious harm to your baby if used after the third month of pregnancy.
-
-## Breast-feeding
-
-Tell your doctor if you are breast-feeding or about to start breast-feeding. Irbesartan Zentiva is not recommended for mothers who are breast-feeding, and your doctor may choose another treatment for you if you wish to breast-feed, especially if your baby is newborn, or was born prematurely.
-
-<div style=\"page-break-after: always\"></div>
-
-## Driving and using machines
-
-Irbesartan Zentiva is unlikely to affect your ability to drive or use machines. However, occasionally dizziness or weariness may occur during treatment of high blood pressure. If you experience these, talk to your doctor before attempting to drive or use machines.
-
-Irbesartan Zentiva contains lactose . If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicinal product.
-
-Irbesartan Zentiva contains sodium. This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
-
-## 3. How to take Irbesartan Zentiva
-
-Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
-
-## Method of administration
-
-Irbesartan Zentiva is for oral use . Swallow the tablets with a sufficient amount of fluid (e.g. one glass of water). You can take Irbesartan Zentiva with or without food. Try to take your daily dose at about the same time each day. It is important that you continue to take Irbesartan Zentiva until your doctor tells you otherwise.
-
-## ▪ Patients with high blood pressure
-
-The usual dose is 150 mg once a day. The dose may later be increased to 300 mg once daily depending on blood pressure response.
-
-## ▪ Patients with high blood pressure and type 2 diabetes with kidney disease
-
-In patients with high blood pressure and type 2 diabetes, 300 mg once daily is the preferred maintenance dose for the treatment of associated kidney disease.
-
-The doctor may advise a lower dose, especially when starting treatment in certain patients such as those on haemodialysis , or those over the age of 75 years.
-
-The maximal blood pressure lowering effect should be reached 4-6 weeks after beginning treatment.
-
-## Use in children and adolescents
-
-Irbesartan Zentiva should not be given to children under 18 years of age. If a child swallows some tablets, contact your doctor immediately.
-
-## If you take more Irbesartan Zentiva than you should
-
-If you accidentally take too many tablets, contact your doctor immediately.
-
-## If you forget to take Irbesartan Zentiva
-
-If you accidentally miss a daily dose, just take the next dose as normal. Do not take a double dose to make up for a forgotten dose.
-
-If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
-
-## 4. Possible side effects
-
-Like all medicines, this medicine can cause side effects, although not everybody gets them. Some of these effects may be serious and may require medical attention.
-
-As with similar medicines, rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. If you get any
-
-<div style=\"page-break-after: always\"></div>
-
-of these symptoms or get short of breath, stop taking Irbesartan Zentiva and contact your doctor immediately.
-
-The frequency of the side effects listed below is defined using the following convention: Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people Rare: may affect up to 1 in 1000 people
-
-Side effects reported in clinical studies for patients treated with Irbesartan Zentiva were:
-
-- Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
-- Common (may affect up to 1 in 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
-- Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
-
-Some undesirable effects have been reported since marketing of Irbesartan Zentiva. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) and rare cases of intestinal angioedema (a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea) have also been reported.
-
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-## 5. How to store Irbesartan Zentiva
-
-Keep this medicine out of the sight and reach of children.
-
-Do not use this medicine after the expiry date which is stated on the carton and on the blister after EXP. The expiry date refers to the last day of that month.
-
-Do not store above 30°C.
-
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away of medicines you no longer use. These measures will help protect the environment.
-
-<div style=\"page-break-after: always\"></div>
-
-## 6. Contents of the pack and other information
-
-## What Irbesartan Zentiva contains
-
-- The active substance is irbesartan. Each tablet of Irbesartan Zentiva 300 mg contains 300 mg irbesartan.
-- The other ingredients are microcrystalline cellulose, croscarmellose sodium, lactose monohydrate, magnesium stearate, colloidal hydrated silica, pregelatinised maize starch, and poloxamer 188. Please see section 2 'Irbesartan Zentiva contains lactose'.
-
-## What Irbesartan Zentiva looks like and contents of the pack
-
-Irbesartan Zentiva 300 mg tablets are white to off-white, biconvex, and oval-shaped with a heart debossed on one side and the number 2773 engraved on the other side.
-
-Irbesartan Zentiva 300 mg tablets are supplied in blister packs of 14, 28, 56 or 98 tablets. Unidose blister packs of 56 x 1 tablet for delivery in hospitals are also available.
-
-Not all pack sizes may be marketed.
-
-## Marketing Authorisation Holder:
-
-Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
-
-## Manufacturer:
-
-Sanofi Winthrop Industrie 1 Rue de la vierge Ambarès et Lagrave 33 565 Carbon Blanc cedex France
-
-Sanofi Winthrop Industrie 30-36 Avenue Gustave Eiffel 37 100 Tours France
+France
 
 For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder.
 
@@ -4777,19 +4435,11 @@ Zentiva, k.s. Тел: +35924417136 PV-Bulgaria@zentiva.com
 
 ## Luxembourg/Luxemburg
 
-Zentiva, k.s.
-
-Tél/Tel: +352 208 82330
-
-PV-Luxembourg@zentiva.com
+Zentiva, k.s. Tél/Tel: +352 208 82330 PV-Luxembourg@zentiva.com
 
 ## Česká republika
 
-Zentiva, k.s.
-
-Tel: +420 267 241 111
-
-PV-Czech-Republic@zentiva.com
+Zentiva, k.s. Tel: +420 267 241 111 PV-Czech-Republic@zentiva.com
 
 Magyarország Zentiva Pharma Kft. Tel.: +36 1 299 1058 PV-Hungary@zentiva.com
 
@@ -4801,9 +4451,7 @@ Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Denmark@zentiva.com
 
 ## Deutschland
 
-Zentiva Pharma GmbH Tel: +49 (0) 800 53 53 010
-
-PV-Germany@zentiva.com
+Zentiva Pharma GmbH Tel: +49 (0) 800 53 53 010 PV-Germany@zentiva.com
 
 ## Eesti
 
@@ -4839,9 +4487,7 @@ Zentiva Italia S.r.l. Tel: +39 800081631 PV-Italy@zentiva.com
 
 ## Κύπρος
 
-Zentiva, k.s. Τηλ: +30 211 198 7510
-
-PV-Cyprus@zentiva.com
+Zentiva, k.s. Τηλ: + 30 211 198 7510 PV-Cyprus@zentiva.com
 
 ## Malta
 
@@ -4891,9 +4537,343 @@ Zentiva Denmark ApS Tel: +46 840 838 822 PV-Sweden@zentiva.com
 
 <div style=\"page-break-after: always\"></div>
 
-Latvija Zentiva, k.s. Tel: +371 67893939
+Latvija Zentiva, k.s. Tel: +371 67893939 PV-Latvia@zentiva.com
 
-PV-Latvia@zentiva.com
+## This leaflet was last revised in
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user Irbesartan Zentiva 300 mg tablets
+
+irbesartan
+
+## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
+
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Irbesartan Zentiva is and what it is used for
+2. What you need to know before you take Irbesartan Zentiva
+3. How to take Irbesartan Zentiva
+4. Possible side effects
+5. How to store Irbesartan Zentiva
+6. Contents of the pack and other information
+
+## 1. What Irbesartan Zentiva is and what it is used for
+
+Irbesartan Zentiva belongs to a group of medicines known as angiotensin-II receptor antagonists. Angiotensin-II is a substance produced in the body which binds to receptors in blood vessels causing them to tighten. This results in an increase in blood pressure. Irbesartan Zentiva prevents the binding of angiotensin-II to these receptors, causing the blood vessels to relax and the blood pressure to lower. Irbesartan Zentiva slows the decrease of kidney function in patients with high blood pressure and type 2 diabetes.
+
+## Irbesartan Zentiva is used in adult patients
+
+- to treat high blood pressure ( essential hypertension )
+- to protect the kidney in patients with high blood pressure, type 2 diabetes and laboratory evidence of impaired kidney function.
+
+## 2. What you need to know before you take Irbesartan Zentiva
+
+## Do not take Irbesartan Zentiva
+
+- if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
+- if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Zentiva in early pregnancy -see pregnancy section)
+- if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
+
+## Warning and precautions
+
+Talk to your doctor before taking Irbesartan Zentiva and if any of the following apply to you:
+
+- if you get excessive vomiting or diarrhoea
+- if you suffer from kidney problems
+- if you suffer from heart problems
+- if you receive Irbesartan Zentiva for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
+- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heartbeat), particularly if you are being treated for diabetes.
+
+<div style=\"page-break-after: always\"></div>
+
+- if you are going to have an operation (surgery) or be given anaesthetics
+- if you are taking any of the following medicines used to treat high blood pressure:
+- o an ACE-inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems.
+- o aliskiren.
+
+Your doctor may check your kidney function, blood pressure, and the amount of electrolytes (e.g. potassium) in your blood at regular intervals.
+
+See also information under the heading 'Do not take Irbesartan Zentiva'.
+
+Talk to your doctor if you experience abdominal pain, nausea, vomiting or diarrhoea after taking Irbesartan Zentiva. Your doctor will decide on further treatment. Do not stop taking Irbesartan Zentiva on your own.
+
+You must tell your doctor if you think you are (or might become) pregnant. Irbesartan Zentiva is not recommended in early pregnancy, and must not be taken if you are more than 3 months pregnant, as it may cause serious harm to your baby if used at that stage (see pregnancy section).
+
+## Children and adolescents
+
+This medicinal product should not be used in children and adolescents because the safety and efficacy have not yet been fully established.
+
+## Other medicines and Irbesartan Zentiva
+
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
+
+Your doctor may need to change your dose and/or to take other precautions:
+
+If you are taking an ACE-inhibitor or aliskiren (see also information under the headings 'Do not take Irbesartan Zentiva' and 'Warnings and p recautions').
+
+## You may need to have blood checks if you take:
+
+- potassium supplements
+- salt substitutes containing potassium
+- potassium-sparing medicines (such as certain diuretics)
+- medicines containing lithium
+- repaglinide (medication used for lowering blood sugar levels)
+
+If you take certain painkillers, called non-steroidal anti-inflammatory drugs, the effect of irbesartan may be reduced.
+
+## Irbesartan Zentiva with food and drink
+
+Irbesartan Zentiva can be taken with or without food.
+
+## Pregnancy and breast-feeding
+
+## Pregnancy
+
+You must tell your doctor if you think you are (or might become) pregnant. Your doctor will normally advise you to stop taking Irbesartan Zentiva before you become pregnant or as soon as you know you are pregnant and will advise you to take another medicine instead of Irbesartan Zentiva. Irbesartan Zentiva is not recommended in early pregnancy, and must not be taken when more than 3 months pregnant, as it may cause serious harm to your baby if used after the third month of pregnancy.
+
+## Breast-feeding
+
+Tell your doctor if you are breast-feeding or about to start breast-feeding. Irbesartan Zentiva is not recommended for mothers who are breast-feeding, and your doctor may choose another treatment for you if you wish to breast-feed, especially if your baby is newborn, or was born prematurely.
+
+<div style=\"page-break-after: always\"></div>
+
+## Driving and using machines
+
+Irbesartan Zentiva is unlikely to affect your ability to drive or use machines. However, occasionally dizziness or weariness may occur during treatment of high blood pressure. If you experience these, talk to your doctor before attempting to drive or use machines.
+
+Irbesartan Zentiva contains lactose . If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicinal product.
+
+Irbesartan Zentiva contains sodium. This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
+
+## 3. How to take Irbesartan Zentiva
+
+Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
+
+## Method of administration
+
+Irbesartan Zentiva is for oral use . Swallow the tablets with a sufficient amount of fluid (e.g. one glass of water). You can take Irbesartan Zentiva with or without food. Try to take your daily dose at about the same time each day. It is important that you continue to take Irbesartan Zentiva until your doctor tells you otherwise.
+
+## ▪ Patients with high blood pressure
+
+The usual dose is 150 mg once a day. The dose may later be increased to 300 mg once daily depending on blood pressure response.
+
+- Patients with high blood pressure and type 2 diabetes with kidney disease
+
+In patients with high blood pressure and type 2 diabetes, 300 mg once daily is the preferred maintenance dose for the treatment of associated kidney disease.
+
+The doctor may advise a lower dose, especially when starting treatment in certain patients such as those on haemodialysis , or those over the age of 75 years.
+
+The maximal blood pressure lowering effect should be reached 4-6 weeks after beginning treatment.
+
+## Use in children and adolescents
+
+Irbesartan Zentiva should not be given to children under 18 years of age. If a child swallows some tablets, contact your doctor immediately.
+
+## If you take more Irbesartan Zentiva than you should
+
+If you accidentally take too many tablets, contact your doctor immediately.
+
+## If you forget to take Irbesartan Zentiva
+
+If you accidentally miss a daily dose, just take the next dose as normal. Do not take a double dose to make up for a forgotten dose.
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them. Some of these effects may be serious and may require medical attention.
+
+As with similar medicines, rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. If you get any
+
+<div style=\"page-break-after: always\"></div>
+
+of these symptoms or get short of breath, stop taking Irbesartan Zentiva and contact your doctor immediately.
+
+The frequency of the side effects listed below is defined using the following convention: Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people Rare: may affect up to 1 in 1,000 people
+
+Side effects reported in clinical studies for patients treated with Irbesartan Zentiva were:
+
+- Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
+- Common (may affect up to 1 in 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
+- Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
+- Rare (may affect up to 1 in 1,000 people): intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
+
+Some undesirable effects have been reported since marketing of Irbesartan Zentiva. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia -symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) have also been reported.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Irbesartan Zentiva
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the carton and on the blister after EXP. The expiry date refers to the last day of that month.
+
+Do not store above 30°C.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away of medicines you no longer use. These measures will help protect the environment.
+
+<div style=\"page-break-after: always\"></div>
+
+## 6. Contents of the pack and other information
+
+## What Irbesartan Zentiva contains
+
+- The active substance is irbesartan. Each tablet of Irbesartan Zentiva 300 mg contains 300 mg irbesartan.
+- The other ingredients are microcrystalline cellulose, croscarmellose sodium, lactose monohydrate, magnesium stearate, colloidal hydrated silica, pregelatinised maize starch, and poloxamer 188. Please see section 2 'Irbesartan Zentiva contains lactose'.
+
+## What Irbesartan Zentiva looks like and contents of the pack
+
+Irbesartan Zentiva 300 mg tablets are white to off-white, biconvex, and oval-shaped with a heart debossed on one side and the number 2773 engraved on the other side.
+
+Irbesartan Zentiva 300 mg tablets are supplied in blister packs of 14, 28, 56 or 98 tablets. Unidose blister packs of 56 x 1 tablet for delivery in hospitals are also available.
+
+Not all pack sizes may be marketed.
+
+## Marketing Authorisation Holder:
+
+Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
+
+## Manufacturer:
+
+Sanofi Winthrop Industrie 1 Rue de la vierge Ambarès et Lagrave 33 565 Carbon Blanc cedex France
+
+Sanofi Winthrop Industrie 30-36 Avenue Gustave Eiffel 37 100 Tours
+
+France
+
+For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder.
+
+## België/Belgique/Belgien
+
+Zentiva, k.s. Tél/Tel: +32 (78) 700 112
+
+PV-Belgium@zentiva.com
+
+## Lietuva
+
+Zentiva, k.s. Tel: +370 52152025 PV-Lithuania@zentiva.com
+
+България Zentiva, k.s. Тел: +35924417136 PV-Bulgaria@zentiva.com
+
+## Luxembourg/Luxemburg
+
+Zentiva, k.s. Tél/Tel: +352 208 82330 PV-Luxembourg@zentiva.com
+
+## Česká republika
+
+Zentiva, k.s. Tel: +420 267 241 111 PV-Czech-Republic@zentiva.com
+
+Magyarország Zentiva Pharma Kft. Tel.: +36 1 299 1058 PV-Hungary@zentiva.com
+
+<div style=\"page-break-after: always\"></div>
+
+## Danmark
+
+Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Denmark@zentiva.com
+
+## Deutschland
+
+Zentiva Pharma GmbH Tel: +49 (0) 800 53 53 010 PV-Germany@zentiva.com
+
+## Eesti
+
+Zentiva, k.s. Tel: +372 52 70308 PV-Estonia@zentiva.com
+
+## Ελλάδα
+
+Zentiva, k.s. Τηλ: +30 211 198 7510 PV-Greece@zentiva.com
+
+## España
+
+Zentiva Spain S.L.U. Tel: +34 671 365 828 PV-Spain@zentiva.com
+
+## France
+
+Zentiva France Tél: +33 (0) 800 089 219 PV-France@zentiva.com
+
+## Hrvatska
+
+Zentiva d.o.o. Tel: +385 1 6641 830 PV-Croatia@zentiva.com
+
+## Ireland
+
+Zentiva, k.s. Tel: +353 818 882 243
+
+PV-Ireland@zentiva.com
+
+## Ísland
+
+Zentiva Denmark ApS Sími: +354 539 5025 PV-Iceland@zentiva.com
+
+## Italia
+
+Zentiva Italia S.r.l. Tel: +39 800081631 PV-Italy@zentiva.com
+
+## Κύπρος
+
+Zentiva, k.s. Τηλ: + 30 211 198 7510
+
+PV-Cyprus@zentiva.com
+
+## Malta
+
+Zentiva, k.s. Tel: +356 2034 1796 PV-Malta@zentiva.com
+
+## Nederland
+
+Zentiva, k.s. Tel: +31 202 253 638 PV-Netherlands@zentiva.com
+
+## Norge
+
+Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Norway@zentiva.com
+
+## Österreich
+
+Zentiva, k.s. Tel: +43 720 778 877 PV-Austria@zentiva.com
+
+## Polska
+
+Zentiva Polska Sp. z o.o. Tel: + 48 22 375 92 00 PV-Poland@zentiva.com
+
+## Portugal
+
+Zentiva Portugal, Lda Tel: +351210601360 PV-Portugal@zentiva.com
+
+## România
+
+ZENTIVA S.A. Tel: +4 021 304 7597 PV-Romania@zentiva.com
+
+## Slovenija
+
+Zentiva, k.s. Tel: +386 360 00 408 PV-Slovenia@zentiva.com
+
+## Slovenská republika
+
+Zentiva, a.s. Tel: +421 2 3918 3010 PV-Slovakia@zentiva.com
+
+## Suomi/Finland
+
+Zentiva Denmark ApS Puh/Tel: +358 942 598 648 PV-Finland@zentiva.com
+
+## Sverige
+
+Zentiva Denmark ApS Tel: +46 840 838 822
+
+PV-Sweden@zentiva.com
+
+<div style=\"page-break-after: always\"></div>
+
+Latvija Zentiva, k.s. Tel: +371 67893939 PV-Latvia@zentiva.com
 
 ## This leaflet was last revised in
 
@@ -4935,7 +4915,7 @@ Irbesartan Zentiva belongs to a group of medicines known as angiotensin-II recep
 ## Do not take Irbesartan Zentiva
 
 - if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
-- if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Zentiva in early pregnancy - see pregnancy section)
+- if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Zentiva in early pregnancy -see pregnancy section)
 - if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
 
 ## Warnings and precautions
@@ -4946,13 +4926,13 @@ Talk to your doctor before taking Irbesartan Zentiva and if any of the following
 - if you suffer from kidney problems
 - if you suffer from heart problems
 - if you receive Irbesartan Zentiva for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
-- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heart beat), particularly if you are being treated for diabetes.
+- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heartbeat), particularly if you are being treated for diabetes.
 
 <div style=\"page-break-after: always\"></div>
 
 - if you are going to have an operation (surgery) or be given anaesthetics
 - if you are taking any of the following medicines used to treat high blood pressure:
-- o an ACE-inhibitor (for example enalapril, lisinopril, ramipril) in particular if you have diabetes-related kidney problems
+- o an ACE-inhibitor (for example enalapril, lisinopril, ramipril) in particular if you have diabetes-related kidney problems.
 - o aliskiren.
 
 Your doctor may check your kidney function, blood pressure, and the amount of electrolytes (e.g. potassium) in your blood at regular intervals.
@@ -4973,7 +4953,7 @@ Tell your doctor or pharmacist if you are taking,have recently taken or might ta
 
 Your doctor may need to change your dose and/or to take other precautions:
 
-If you are taking an ACE-inhibitor or aliskiren (see also information under the headings 'Do not take Irbesartan Zentiva' and 'Warnings and precautions').
+If you are taking an ACE-inhibitor or aliskiren (see also information under the headings 'Do not take Irbesartan Zentiva' and 'Warnings and precautions' ).
 
 ## You may need to have blood checks if you take:
 
@@ -5007,7 +4987,7 @@ Irbesartan Zentiva is unlikely to affect your ability to drive or use machines. 
 
 Irbesartan Zentiva contains lactose . If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicinal product.
 
-Irbesartan Zentiva contains sodium. This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+Irbesartan Zentiva contains sodium. This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 3. How to take Irbesartan Zentiva
 
@@ -5055,15 +5035,16 @@ As with similar medicines, rare cases of allergic skin reactions (rash, urticari
 
 of these symptoms or get short of breath, stop taking Irbesartan Zentiva and contact your doctor immediately.
 
-The frequency of the side effects listed below is defined using the following convention: Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people Rare: may affect up to 1 in 1000 people
+The frequency of the side effects listed below is defined using the following convention: Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people Rare: may affect up to 1 in 1,000 people
 
 Side effects reported in clinical studies for patients treated with Irbesartan Zentiva were:
 
 - Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
 - Common (may affect up to 1 in 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
 - Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
+- Rare (may affect up to 1 in 1,000 people): intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
 
-Some undesirable effects have been reported since marketing of Irbesartan Zentiva. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) and rare cases of intestinal angioedema (a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea) have also been reported.
+Some undesirable effects have been reported since marketing of Irbesartan Zentiva. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia -symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) have also been reported.
 
 ## Reporting of side effects
 
@@ -5118,19 +5099,11 @@ PV-Belgium@zentiva.com
 
 ## Lietuva
 
-Zentiva, k.s.
-
-Tel: +370 52152025
-
-PV-Lithuania@zentiva.com
+Zentiva, k.s. Tel: +370 52152025 PV-Lithuania@zentiva.com
 
 ## България
 
-Zentiva, k.s.
-
-Тел: +35924417136
-
-PV-Bulgaria@zentiva.com
+Zentiva, k.s. Тел: +35924417136 PV-Bulgaria@zentiva.com
 
 ## Luxembourg/Luxemburg
 
@@ -5230,21 +5203,19 @@ Zentiva Denmark ApS Puh/Tel: +358 942 598 648 PV-Finland@zentiva.com
 
 <div style=\"page-break-after: always\"></div>
 
-Κύπρος Zentiva, k.s. Τηλ: +30 211 198 7510
+## Κύπρος
+
+Zentiva, k.s. Τηλ: + 30 211 198 7510
 
 PV-Cyprus@zentiva.com
 
-Latvija Zentiva, k.s. Tel: +371 67893939
-
-PV-Latvia@zentiva.com
+Latvija Zentiva, k.s. Tel: +371 67893939 PV-Latvia@zentiva.com
 
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/
 
-Sverige Zentiva Denmark ApS Tel: +46 840 838 822
-
-PV-Sweden@zentiva.com
+Sverige Zentiva Denmark ApS Tel: +46 840 838 822 PV-Sweden@zentiva.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5282,7 +5253,7 @@ Irbesartan Zentiva belongs to a group of medicines known as angiotensin-II recep
 ## Do not take Irbesartan Zentiva
 
 - if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
-- if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Zentiva in early pregnancy - see pregnancy section)
+- if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Zentiva in early pregnancy -see pregnancy section)
 - if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
 
 ## Warnings and precautions
@@ -5293,18 +5264,18 @@ Talk to your doctor before taking Irbesartan Zentiva and if any of the following
 - if you suffer from kidney problems
 - if you suffer from heart problems
 - if you receive Irbesartan Zentiva for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
-- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heart beat), particularly if you are being treated for diabetes.
+- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heartbeat), particularly if you are being treated for diabetes.
 
 <div style=\"page-break-after: always\"></div>
 
 - if you are going to have an operation (surgery) or be given anaesthetics
 - if you are taking any of the following medicines used to treat high blood pressure:
-- o an ACE-inhibitor (for example enalapril, lisinopril, ramipril) in particular if you have diabetes-related kidney problems
+- o an ACE-inhibitor (for example enalapril, lisinopril, ramipril) in particular if you have diabetes-related kidney problems.
 - o aliskiren.
 
 Your doctor may check your kidney function, blood pressure, and the amount of electrolytes (e.g. potassium) in your blood at regular intervals.
 
-See also information under the heading 'Do not take Irbesartan Zentiva'.
+See also information under the heading 'Do not take Irbesartan Zentiva '.
 
 Talk to your doctor if you experience abdominal pain, nausea, vomiting or diarrhoea after taking Irbesartan Zentiva. Your doctor will decide on further treatment. Do not stop taking Irbesartan Zentiva on your own.
 
@@ -5320,7 +5291,7 @@ Tell your doctor or pharmacist if you are taking,have recently taken or might ta
 
 Your doctor may need to change your dose and/or to take other precautions:
 
-If you are taking an ACE-inhibitor or aliskiren (see also information under the headings 'Do not take Irbesartan Zentiva' and 'Warnings and precautions').
+If you are taking an ACE-inhibitor or aliskiren (see also information under the headings 'Do not take Irbesartan Zentiva' and 'Warnings and precautions' ).
 
 ## You may need to have blood checks if you take:
 
@@ -5354,7 +5325,7 @@ Irbesartan Zentiva is unlikely to affect your ability to drive or use machines. 
 
 Irbesartan Zentiva contains lactose . If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicinal product.
 
-Irbesartan Zentiva contains sodium. This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+Irbesartan Zentiva contains sodium. This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 3. How to take Irbesartan Zentiva
 
@@ -5402,15 +5373,16 @@ As with similar medicines, rare cases of allergic skin reactions (rash, urticari
 
 of these symptoms or get short of breath, stop taking Irbesartan Zentiva and contact your doctor immediately.
 
-The frequency of the side effects listed below is defined using the following convention: Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people Rare: may affect up to 1 in 1000 people
+The frequency of the side effects listed below is defined using the following convention: Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people Rare: may affect up to 1 in 1,000 people
 
 Side effects reported in clinical studies for patients treated with Irbesartan Zentiva were:
 
 - Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
 - Common (may affect up to 1 in 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
 - Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
+- Rare (may affect up to 1 in 1,000 people): intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
 
-Some undesirable effects have been reported since marketing of Irbesartan Zentiva. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) and rare cases of intestinal angioedema (a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea) have also been reported.
+Some undesirable effects have been reported since marketing of Irbesartan Zentiva. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia -symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) have also been reported.
 
 ## Reporting of side effects
 
@@ -5463,17 +5435,13 @@ België/Belgique/Belgien Zentiva, k.s.
 
 Tél/Tel: +32 (78) 700 112 PV-Belgium@zentiva.com
 
-Lietuva Zentiva, k.s. Tel: +370 52152025
-
-PV-Lithuania@zentiva.com
+Lietuva Zentiva, k.s. Tel: +370 52152025 PV-Lithuania@zentiva.com
 
 <div style=\"page-break-after: always\"></div>
 
 ## България
 
-Zentiva, k.s. Тел: +35924417136
-
-PV-Bulgaria@zentiva.com
+Zentiva, k.s. Тел: +35924417136 PV-Bulgaria@zentiva.com
 
 ## Česká republika
 
@@ -5515,15 +5483,15 @@ Zentiva, k.s. Tel: +353 818 882 243 PV-Ireland@zentiva.com
 
 Zentiva Denmark ApS Sími: +354 539 5025 PV-Iceland@zentiva.com
 
-Luxembourg/Luxemburg
+## Luxembourg/Luxemburg
 
-Zentiva, k.s. Tél/Tel: +352 208 82330 PV-Luxembourg@zentiva.com
+Zentiva, k.s. Tél/Tel: +352 208 82330
+
+PV-Luxembourg@zentiva.com
 
 ## Magyarország
 
-Zentiva Pharma Kft. Tel.: +36 1 299 1058
-
-PV-Hungary@zentiva.com
+Zentiva Pharma Kft. Tel.: +36 1 299 1058 PV-Hungary@zentiva.com
 
 ## Malta
 
@@ -5539,9 +5507,7 @@ Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Norway@zentiva.com
 
 ## Österreich
 
-Zentiva, k.s. Tel: +43 720 778 877
-
-PV-Austria@zentiva.com
+Zentiva, k.s. Tel: +43 720 778 877 PV-Austria@zentiva.com
 
 ## Polska
 
@@ -5577,11 +5543,7 @@ PV-Italy@zentiva.com
 
 ## Κύπρος
 
-Zentiva, k.s.
-
-Τηλ: +30 211 198 7510
-
-PV-Cyprus@zentiva.com
+Zentiva, k.s. Τηλ: + 30 211 198 7510 PV-Cyprus@zentiva.com
 
 ## Latvija
 
@@ -5643,7 +5605,7 @@ Irbesartan Zentiva belongs to a group of medicines known as angiotensin-II recep
 ## Do not take Irbesartan Zentiva
 
 - if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
-- if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Zentiva in early pregnancy - see pregnancy section)
+- if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Zentiva in early pregnancy -see pregnancy section)
 - if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
 
 ## Warnings and precautions
@@ -5654,14 +5616,16 @@ Talk to your doctor before taking Irbesartan Zentiva and if any of the following
 - if you suffer from kidney problems
 - if you suffer from heart problems
 - if you receive Irbesartan Zentiva for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
-- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heart beat), particularly if you are being treated for diabetes.
+- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heartbeat), particularly if you are being treated for diabetes.
 
 <div style=\"page-break-after: always\"></div>
 
 - if you are going to have an operation (surgery) or be given anaesthetics
 - if you are taking any of the following medicines used to treat high blood pressure:
-- o an ACE-inhibitor (for example enalapril, lisinopril, ramipril) in particular if you have diabetes-related kidney problems
+- o an ACE-inhibitor (for example enalapril, lisinopril, ramipril) in particular if you have diabetes-related kidney problems.
 - o aliskiren.
+
+## nšě
 
 Your doctor may check your kidney function, blood pressure, and the amount of electrolytes (e.g. potassium) in your blood at regular intervals.
 
@@ -5681,7 +5645,7 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Your doctor may need to change your dose and/or to take other precautions:
 
-If you are taking an ACE-inhibitor or aliskiren (see also information under the headings 'Do not take Irbesartan Zentiva' and 'Warnings and precautions').
+If you are taking an ACE-inhibitor or aliskiren (see also information under the headings 'Do not take Irbesartan Zentiva' and 'Warnings and precautions' ).
 
 ## You may need to have blood checks if you take:
 
@@ -5715,7 +5679,7 @@ Irbesartan Zentiva is unlikely to affect your ability to drive or use machines. 
 
 Irbesartan Zentiva contains lactose . If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicinal product.
 
-Irbesartan Zentiva contains sodium. This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+Irbesartan Zentiva contains sodium. This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 3. How to take Irbesartan Zentiva
 
@@ -5761,15 +5725,16 @@ As with similar medicines, rare cases of allergic skin reactions (rash, urticari
 
 of these symptoms or get short of breath, stop taking Irbesartan Zentiva and contact your doctor immediately.
 
-The frequency of the side effects listed below is defined using the following convention: Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people Rare: may affect up to 1 in 1000 people
+The frequency of the side effects listed below is defined using the following convention: Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people Rare: may affect up to 1 in 1,000 people
 
 Side effects reported in clinical studies for patients treated with Irbesartan Zentiva were:
 
 - Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
 - Common (may affect up to 1 in 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
 - Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
+- Rare (may affect up to 1 in 1,000 people): intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
 
-Some undesirable effects have been reported since marketing of Irbesartan Zentiva. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) and rare cases of intestinal angioedema (a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea) have also been reported.
+Some undesirable effects have been reported since marketing of Irbesartan Zentiva. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia -symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) have also been reported.
 
 ## Reporting of side effects
 
@@ -5874,9 +5839,7 @@ Luxembourg/Luxemburg Zentiva, k.s. Tél/Tel: +352 208 82330 PV-Luxembourg@zentiv
 
 ## Magyarország
 
-Zentiva Pharma Kft. Tel.: +36 1 299 1058
-
-PV-Hungary@zentiva.com
+Zentiva Pharma Kft. Tel.: +36 1 299 1058 PV-Hungary@zentiva.com
 
 ## Malta
 
@@ -5892,9 +5855,7 @@ Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Norway@zentiva.com
 
 ## Österreich
 
-Zentiva, k.s. Tel: +43 720 778 877
-
-PV-Austria@zentiva.com
+Zentiva, k.s. Tel: +43 720 778 877 PV-Austria@zentiva.com
 
 ## Polska
 
@@ -5902,7 +5863,11 @@ Zentiva Polska Sp. z o.o. Tel: + 48 22 375 92 00 PV-Poland@zentiva.com
 
 ## Portugal
 
-Zentiva Portugal, Lda Tel: +351210601360 PV-Portugal@zentiva.com
+Zentiva Portugal, Lda
+
+Tel: +351210601360
+
+PV-Portugal@zentiva.com
 
 ## România
 
@@ -5930,7 +5895,7 @@ PV-Italy@zentiva.com
 
 ## Κύπρος
 
-Zentiva, k.s. Τηλ: +30 211 198 7510 PV-Cyprus@zentiva.com
+Zentiva, k.s. Τηλ: + 30 211 198 7510 PV-Cyprus@zentiva.com
 
 ## Latvija
 

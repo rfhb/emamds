@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 13:31:40
+document_datetime: 2026-04-21 15:58:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ezmekly.html
 document_name: ezmekly.html
 version: success
-processing_time: 0.1026139
-conversion_datetime: 2025-12-30 02:13:11.111319
+processing_time: 0.1166403
+conversion_datetime: 2026-04-25 16:22:29.672988
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Ezmekly
 
 [RSS](/en/individual-human-medicine.xml/259693)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-mirdametinib Medicine Human Authorised
+mirdametinib
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -122,181 +122,137 @@ English (EN) (130.39 KB - PDF)
 
 [View](/en/documents/overview/ezmekly-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-755)
+[Other languages (22)](#file-language-dropdown-349)
 
 български (BG) (148.96 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/bg/documents/overview/ezmekly-epar-medicine-overview_bg.pdf)
 
 español (ES) (122.55 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/es/documents/overview/ezmekly-epar-medicine-overview_es.pdf)
 
 čeština (CS) (147.26 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/cs/documents/overview/ezmekly-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (123.63 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/da/documents/overview/ezmekly-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (127.15 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/de/documents/overview/ezmekly-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (120.25 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/et/documents/overview/ezmekly-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (147.12 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/el/documents/overview/ezmekly-epar-medicine-overview_el.pdf)
 
 français (FR) (125.2 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/fr/documents/overview/ezmekly-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (145.48 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/hr/documents/overview/ezmekly-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (122.68 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/it/documents/overview/ezmekly-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (153.65 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/lv/documents/overview/ezmekly-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (144.15 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/lt/documents/overview/ezmekly-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (145.6 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/hu/documents/overview/ezmekly-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (148.76 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/mt/documents/overview/ezmekly-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (124.59 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/nl/documents/overview/ezmekly-epar-medicine-overview_nl.pdf)
 
 polski (PL) (138.62 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/pl/documents/overview/ezmekly-epar-medicine-overview_pl.pdf)
 
 português (PT) (123.57 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/pt/documents/overview/ezmekly-epar-medicine-overview_pt.pdf)
 
 română (RO) (142.52 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/ro/documents/overview/ezmekly-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (146.8 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/sk/documents/overview/ezmekly-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (144.33 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/sl/documents/overview/ezmekly-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (120 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/fi/documents/overview/ezmekly-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (121.47 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/sv/documents/overview/ezmekly-epar-medicine-overview_sv.pdf)
 
@@ -312,207 +268,161 @@ English (EN) (5.67 MB - PDF)
 
 Ezmekly: EPAR - Product information
 
-English (EN) (484.81 KB - PDF)
+English (EN) (713.33 KB - PDF)
 
-**First published:** 20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/en/documents/product-information/ezmekly-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-971)
+[Other languages (24)](#file-language-dropdown-727)
 
-български (BG) (630.94 KB - PDF)
+български (BG) (778.42 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/bg/documents/product-information/ezmekly-epar-product-information_bg.pdf)
 
-español (ES) (515.03 KB - PDF)
+español (ES) (746.51 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/es/documents/product-information/ezmekly-epar-product-information_es.pdf)
 
-čeština (CS) (555.83 KB - PDF)
+čeština (CS) (690.4 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/cs/documents/product-information/ezmekly-epar-product-information_cs.pdf)
 
-dansk (DA) (566.76 KB - PDF)
+dansk (DA) (678.57 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/da/documents/product-information/ezmekly-epar-product-information_da.pdf)
 
-Deutsch (DE) (495.67 KB - PDF)
+Deutsch (DE) (703.61 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/de/documents/product-information/ezmekly-epar-product-information_de.pdf)
 
-eesti keel (ET) (448.28 KB - PDF)
+eesti keel (ET) (669 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/et/documents/product-information/ezmekly-epar-product-information_et.pdf)
 
-ελληνικά (EL) (650.36 KB - PDF)
+ελληνικά (EL) (836.18 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/el/documents/product-information/ezmekly-epar-product-information_el.pdf)
 
-français (FR) (442.64 KB - PDF)
+français (FR) (670.33 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/fr/documents/product-information/ezmekly-epar-product-information_fr.pdf)
 
-hrvatski (HR) (545.24 KB - PDF)
+hrvatski (HR) (725.48 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/hr/documents/product-information/ezmekly-epar-product-information_hr.pdf)
 
-íslenska (IS) (488.5 KB - PDF)
+íslenska (IS) (649.21 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/is/documents/product-information/ezmekly-epar-product-information_is.pdf)
 
-italiano (IT) (583.89 KB - PDF)
+italiano (IT) (819.25 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/it/documents/product-information/ezmekly-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (593.25 KB - PDF)
+latviešu valoda (LV) (764.52 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/lv/documents/product-information/ezmekly-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (563.11 KB - PDF)
+lietuvių kalba (LT) (729.25 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/lt/documents/product-information/ezmekly-epar-product-information_lt.pdf)
 
-magyar (HU) (655.66 KB - PDF)
+magyar (HU) (834.22 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/hu/documents/product-information/ezmekly-epar-product-information_hu.pdf)
 
-Malti (MT) (613.9 KB - PDF)
+Malti (MT) (871.76 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/mt/documents/product-information/ezmekly-epar-product-information_mt.pdf)
 
-Nederlands (NL) (489.47 KB - PDF)
+Nederlands (NL) (719.36 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/nl/documents/product-information/ezmekly-epar-product-information_nl.pdf)
 
-norsk (NO) (444.06 KB - PDF)
+norsk (NO) (615.52 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/no/documents/product-information/ezmekly-epar-product-information_no.pdf)
 
-polski (PL) (647 KB - PDF)
+polski (PL) (868.56 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/pl/documents/product-information/ezmekly-epar-product-information_pl.pdf)
 
-português (PT) (439.12 KB - PDF)
+português (PT) (672.05 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/pt/documents/product-information/ezmekly-epar-product-information_pt.pdf)
 
-română (RO) (581.56 KB - PDF)
+română (RO) (768.99 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/ro/documents/product-information/ezmekly-epar-product-information_ro.pdf)
 
-slovenčina (SK) (627.03 KB - PDF)
+slovenčina (SK) (748.36 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/sk/documents/product-information/ezmekly-epar-product-information_sk.pdf)
 
-slovenščina (SL) (600.94 KB - PDF)
+slovenščina (SL) (761.01 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/sl/documents/product-information/ezmekly-epar-product-information_sl.pdf)
 
-Suomi (FI) (471.44 KB - PDF)
+Suomi (FI) (700.67 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/fi/documents/product-information/ezmekly-epar-product-information_fi.pdf)
 
-svenska (SV) (459.1 KB - PDF)
+svenska (SV) (686.66 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025 **Last updated:** 21/04/2026
 
 [View](/sv/documents/product-information/ezmekly-epar-product-information_sv.pdf)
 
-17/07/2025
+**Latest procedure affecting product information:** VR/0000313332
+
+12/03/2026
 
 icon globe
 
@@ -536,192 +446,162 @@ English (EN) (50.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-961)
+[Other languages (22)](#file-language-dropdown-831)
 
 български (BG) (68.86 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/bg/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (51.08 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/es/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (64.87 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/cs/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (52.28 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/da/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (52.01 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/de/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (50.99 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/et/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (66.34 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/el/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (51.05 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/fr/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (126.4 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/hr/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (50.79 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/is/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (51.18 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/it/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (69.16 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/lv/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (69.73 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/lt/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (64.59 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/hu/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (66.63 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/mt/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (51.13 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/nl/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (50.71 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/no/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (70.45 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/pl/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (48.82 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/pt/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (67.3 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/ro/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (68.21 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/sk/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_sk.pdf)
 
 Suomi (FI) (50.49 KB - PDF)
 
-**First published:**
-
-20/08/2025
+**First published:** 20/08/2025
 
 [View](/fi/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_fi.pdf)
 
 ## Product details
 
-Name of medicine Ezmekly Active substance mirdametinib International non-proprietary name (INN) or common name mirdametinib Therapeutic area (MeSH)
+Name of medicine
+
+Ezmekly
+
+Active substance
+
+mirdametinib
+
+International non-proprietary name (INN) or common name
+
+mirdametinib
+
+Therapeutic area (MeSH)
 
 - Neurofibromatosis 1
 - Neurofibroma, Plexiform
 
-Anatomical therapeutic chemical (ATC) code L01EE
+Anatomical therapeutic chemical (ATC) code
+
+L01EE
 
 ### Pharmacotherapeutic group
 
@@ -733,7 +613,9 @@ Ezmekly as monotherapy is indicated for the treatment of symptomatic, inoperable
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006460
+EMA product number
+
+EMEA/H/C/006460
 
 Additional monitoring
 
@@ -753,17 +635,39 @@ SpringWorks Therapeutics Ireland Limited
 
 70 Sir John Rogerson's Quay Dublin 2 D02 R296 Ireland
 
-Opinion adopted 22/05/2025 Marketing authorisation issued 17/07/2025
+Opinion adopted
+
+22/05/2025
+
+Marketing authorisation issued
+
+17/07/2025
+
+Revision
+
+1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Ezmekly : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (148.58 KB - PDF)
+
+**First published:** 21/04/2026
+
+[View](/en/documents/procedural-steps-after/ezmekly-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Ezmekly : Orphan maintenance assessment report (initial authorisation)
 
-Adopted
-
-Reference Number: EMA/OD/0000255667
+Adopted Reference Number: EMA/OD/0000255667
 
 English (EN) (302.12 KB - PDF)
 
@@ -773,9 +677,7 @@ English (EN) (302.12 KB - PDF)
 
 Ezmekly: EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/86925/2025
+Adopted Reference Number: EMA/CHMP/86925/2025
 
 English (EN) (4.61 MB - PDF)
 
@@ -785,9 +687,7 @@ English (EN) (4.61 MB - PDF)
 
 CHMP summary of positive opinion for Ezmekly
 
-Adopted
-
-Reference Number: EMA/CHMP/160270/2025
+Adopted Reference Number: EMA/CHMP/160270/2025
 
 English (EN) (185.45 KB - PDF)
 
@@ -795,16 +695,18 @@ English (EN) (185.45 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-ezmekly_en.pdf)
 
-#### News on Ezmekly
+## News on Ezmekly
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 May 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-may-2025) 23/05/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 May 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-may-2025)
 
-#### More information on Ezmekly
+23/05/2025
+
+## More information on Ezmekly
 
 - [EU/3/19/2184 - orphan designation for treatment of neurofibromatosis type 1](/en/medicines/human/orphan-designations/eu-3-19-2184)
 
-**This page was last updated on** 20/08/2025
+**This page was last updated on**
+
+21/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

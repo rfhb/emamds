@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-27 16:25:00
+document_datetime: 2026-04-22 15:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rybelsus.html
 document_name: rybelsus.html
 version: success
-processing_time: 0.1385045
-conversion_datetime: 2026-01-29 11:55:04.729218
+processing_time: 0.1403013
+conversion_datetime: 2026-04-25 16:18:57.035875
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Rybelsus
 
 [RSS](/en/individual-human-medicine.xml/67289)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-semaglutide Medicine Human Authorised
+semaglutide
+
+Medicine Human Authorised
 
 Page contents
 
@@ -104,275 +106,141 @@ Reference Number: EMA/62316/2020
 
 English (EN) (104.42 KB - PDF)
 
-**First published:** 27/05/2020
-
-**Last updated:** 21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/en/documents/overview/rybelsus-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-879)
+[Other languages (22)](#file-language-dropdown-289)
 
 български (BG) (135.5 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/bg/documents/overview/rybelsus-epar-medicine-overview_bg.pdf)
 
 español (ES) (110.76 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/es/documents/overview/rybelsus-epar-medicine-overview_es.pdf)
 
 čeština (CS) (133.07 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/cs/documents/overview/rybelsus-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (109.3 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/da/documents/overview/rybelsus-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (112.64 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/de/documents/overview/rybelsus-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (108.49 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/et/documents/overview/rybelsus-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (135.78 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/el/documents/overview/rybelsus-epar-medicine-overview_el.pdf)
 
 français (FR) (112.51 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/fr/documents/overview/rybelsus-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (132.48 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/hr/documents/overview/rybelsus-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (109.09 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/it/documents/overview/rybelsus-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (147 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/lv/documents/overview/rybelsus-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (132.27 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/lt/documents/overview/rybelsus-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (130.83 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/hu/documents/overview/rybelsus-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (134.42 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/mt/documents/overview/rybelsus-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (110.33 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/nl/documents/overview/rybelsus-epar-medicine-overview_nl.pdf)
 
 polski (PL) (124.76 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/pl/documents/overview/rybelsus-epar-medicine-overview_pl.pdf)
 
 português (PT) (111.63 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/pt/documents/overview/rybelsus-epar-medicine-overview_pt.pdf)
 
 română (RO) (128.77 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/ro/documents/overview/rybelsus-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (132.49 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/sk/documents/overview/rybelsus-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (130.18 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/sl/documents/overview/rybelsus-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (108.07 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/fi/documents/overview/rybelsus-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (109.13 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-21/08/2025
+**First published:** 27/05/2020 **Last updated:** 21/08/2025
 
 [View](/sv/documents/overview/rybelsus-epar-medicine-overview_sv.pdf)
 
@@ -380,9 +248,7 @@ Rybelsus : EPAR - Risk management plan
 
 English (EN) (2.58 MB - PDF)
 
-**First published:** 27/05/2020
-
-**Last updated:** 28/11/2024
+**First published:** 27/05/2020 **Last updated:** 28/11/2024
 
 [View](/en/documents/rmp-summary/rybelsus-epar-risk-management-plan_en.pdf)
 
@@ -390,305 +256,161 @@ English (EN) (2.58 MB - PDF)
 
 Rybelsus : EPAR - Product information
 
-English (EN) (710.27 KB - PDF)
+English (EN) (701.77 KB - PDF)
 
-**First published:** 27/05/2020
-
-**Last updated:** 27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/en/documents/product-information/rybelsus-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-313)
+[Other languages (24)](#file-language-dropdown-13)
 
-български (BG) (955.09 KB - PDF)
+български (BG) (952.62 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/bg/documents/product-information/rybelsus-epar-product-information_bg.pdf)
 
-español (ES) (758.92 KB - PDF)
+español (ES) (759.05 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/es/documents/product-information/rybelsus-epar-product-information_es.pdf)
 
-čeština (CS) (853.05 KB - PDF)
+čeština (CS) (854.15 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/cs/documents/product-information/rybelsus-epar-product-information_cs.pdf)
 
-dansk (DA) (752.21 KB - PDF)
+dansk (DA) (752 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/da/documents/product-information/rybelsus-epar-product-information_da.pdf)
 
-Deutsch (DE) (807.16 KB - PDF)
+Deutsch (DE) (811.28 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/de/documents/product-information/rybelsus-epar-product-information_de.pdf)
 
-eesti keel (ET) (768.5 KB - PDF)
+eesti keel (ET) (769.5 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/et/documents/product-information/rybelsus-epar-product-information_et.pdf)
 
-ελληνικά (EL) (981.38 KB - PDF)
+ελληνικά (EL) (981.01 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/el/documents/product-information/rybelsus-epar-product-information_el.pdf)
 
-français (FR) (731.45 KB - PDF)
+français (FR) (736.65 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/fr/documents/product-information/rybelsus-epar-product-information_fr.pdf)
 
-hrvatski (HR) (818.32 KB - PDF)
+hrvatski (HR) (818.05 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/hr/documents/product-information/rybelsus-epar-product-information_hr.pdf)
 
-íslenska (IS) (749.29 KB - PDF)
+íslenska (IS) (749.8 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/is/documents/product-information/rybelsus-epar-product-information_is.pdf)
 
-italiano (IT) (732.15 KB - PDF)
+italiano (IT) (731.6 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/it/documents/product-information/rybelsus-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (900.79 KB - PDF)
+latviešu valoda (LV) (900.41 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/lv/documents/product-information/rybelsus-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (863.76 KB - PDF)
+lietuvių kalba (LT) (865.58 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/lt/documents/product-information/rybelsus-epar-product-information_lt.pdf)
 
-magyar (HU) (894.02 KB - PDF)
+magyar (HU) (889.37 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/hu/documents/product-information/rybelsus-epar-product-information_hu.pdf)
 
-Malti (MT) (953.22 KB - PDF)
+Malti (MT) (951.7 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/mt/documents/product-information/rybelsus-epar-product-information_mt.pdf)
 
-Nederlands (NL) (721 KB - PDF)
+Nederlands (NL) (720.59 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/nl/documents/product-information/rybelsus-epar-product-information_nl.pdf)
 
-norsk (NO) (712.79 KB - PDF)
+norsk (NO) (709.2 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/no/documents/product-information/rybelsus-epar-product-information_no.pdf)
 
-polski (PL) (918.96 KB - PDF)
+polski (PL) (918.23 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/pl/documents/product-information/rybelsus-epar-product-information_pl.pdf)
 
-português (PT) (730.77 KB - PDF)
+português (PT) (729.01 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/pt/documents/product-information/rybelsus-epar-product-information_pt.pdf)
 
-română (RO) (909.68 KB - PDF)
+română (RO) (907.68 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/ro/documents/product-information/rybelsus-epar-product-information_ro.pdf)
 
-slovenčina (SK) (830.86 KB - PDF)
+slovenčina (SK) (832.06 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/sk/documents/product-information/rybelsus-epar-product-information_sk.pdf)
 
-slovenščina (SL) (891.3 KB - PDF)
+slovenščina (SL) (890.7 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/sl/documents/product-information/rybelsus-epar-product-information_sl.pdf)
 
-Suomi (FI) (771.64 KB - PDF)
+Suomi (FI) (771.88 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/fi/documents/product-information/rybelsus-epar-product-information_fi.pdf)
 
-svenska (SV) (740.8 KB - PDF)
+svenska (SV) (739.39 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 27/05/2020 **Last updated:** 22/04/2026
 
 [View](/sv/documents/product-information/rybelsus-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000292593 27/11/2025
+**Latest procedure affecting product information:** VR/0000295392
+
+26/03/2026
 
 icon globe
 
@@ -708,305 +430,177 @@ Rybelsus : EPAR - All Authorised presentations
 
 English (EN) (41.91 KB - PDF)
 
-**First published:** 27/05/2020
-
-**Last updated:** 18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/en/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-333)
+[Other languages (24)](#file-language-dropdown-364)
 
 български (BG) (68.63 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/bg/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (37.2 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/es/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (51.57 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/cs/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (43.57 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/da/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (44.87 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/de/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (42.3 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/et/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (73.58 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/el/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (34.52 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/fr/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (50.94 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/hr/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (32.85 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/is/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (41.73 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/it/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (62.38 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/lv/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (67.09 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/lt/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (62.89 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/hu/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (51.51 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/mt/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (44.58 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/nl/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (43.67 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/no/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (54.86 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/pl/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (45.01 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/pt/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (61.62 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/ro/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (55.09 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/sk/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (52.82 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/sl/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (43.13 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/fi/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (41.13 KB - PDF)
 
-**First published:**
-
-27/05/2020
-
-**Last updated:**
-
-18/10/2024
+**First published:** 27/05/2020 **Last updated:** 18/10/2024
 
 [View](/sv/documents/all-authorised-presentations/rybelsus-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Rybelsus Active substance semaglutide International non-proprietary name (INN) or common name semaglutide Therapeutic area (MeSH) Diabetes Mellitus, Type 2 Anatomical therapeutic chemical (ATC) code A10BJ06
+Name of medicine
+
+Rybelsus
+
+Active substance
+
+semaglutide
+
+International non-proprietary name (INN) or common name
+
+semaglutide
+
+Therapeutic area (MeSH)
+
+Diabetes Mellitus, Type 2
+
+Anatomical therapeutic chemical (ATC) code
+
+A10BJ06
 
 ### Pharmacotherapeutic group
 
@@ -1023,13 +617,27 @@ For study results with respect to combinations, effects on glycaemic control and
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004953 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/004953
+
+Marketing authorisation holder
 
 Novo Nordisk A/S
 
 Novo Alle
 
-Opinion adopted 30/01/2020 Marketing authorisation issued 03/04/2020 Revision 17
+Opinion adopted
+
+30/01/2020
+
+Marketing authorisation issued
+
+03/04/2020
+
+Revision
+
+17
 
 ## Assessment history
 
@@ -1041,11 +649,9 @@ Collapse section
 
 Rybelsus : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (180.07 KB - PDF)
+English (EN) (184.36 KB - PDF)
 
-**First published:** 08/07/2025
-
-**Last updated:** 27/01/2026
+**First published:** 08/07/2025 **Last updated:** 22/04/2026
 
 [View](/en/documents/procedural-steps-after/rybelsus-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1053,9 +659,7 @@ Rybelsus : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (198.09 KB - PDF)
 
-**First published:** 10/06/2020
-
-**Last updated:** 08/07/2025
+**First published:** 10/06/2020 **Last updated:** 08/07/2025
 
 [View](/en/documents/procedural-steps-after/rybelsus-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1083,23 +687,17 @@ English (EN) (150.06 KB - PDF)
 
 Rybelsus : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/95374/2020
+Adopted Reference Number: EMA/95374/2020
 
 English (EN) (4.28 MB - PDF)
 
-**First published:** 27/05/2020
-
-**Last updated:** 27/07/2020
+**First published:** 27/05/2020 **Last updated:** 27/07/2020
 
 [View](/en/documents/assessment-report/rybelsus-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Rybelsus
 
-Adopted
-
-Reference Number: EMA/43724/2020
+Adopted Reference Number: EMA/43724/2020
 
 English (EN) (158.36 KB - PDF)
 
@@ -1107,23 +705,37 @@ English (EN) (158.36 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-rybelsus_en.pdf)
 
-#### News on Rybelsus
+## News on Rybelsus
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 2-5 June 2025](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-2-5-june-2025) 06/06/2025
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 2-5 June 2025](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-2-5-june-2025)
 
-[PRAC concludes eye condition NAION is a very rare side effect of semaglutide medicines Ozempic, Rybelsus and Wegovy](/en/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy) 06/06/2025
+06/06/2025
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 13-16 January 2025](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-13-16-january-2025) 17/01/2025
+[PRAC concludes eye condition NAION is a very rare side effect of semaglutide medicines Ozempic, Rybelsus and Wegovy](/en/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy)
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 8-11 April 2024](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-april-2024) 12/04/2024
+06/06/2025
 
-[EMA statement on ongoing review of GLP-1 receptor agonists](/en/news/ema-statement-ongoing-review-glp-1-receptor-agonists) 11/07/2023
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 13-16 January 2025](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-13-16-january-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2020) 31/01/2020
+17/01/2025
 
-[First oral GLP-1 treatment for type 2 diabetes](/en/news/first-oral-glp-1-treatment-type-2-diabetes) 31/01/2020
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 8-11 April 2024](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-april-2024)
 
-#### Preventing medication errors
+12/04/2024
+
+[EMA statement on ongoing review of GLP-1 receptor agonists](/en/news/ema-statement-ongoing-review-glp-1-receptor-agonists)
+
+11/07/2023
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2020)
+
+31/01/2020
+
+[First oral GLP-1 treatment for type 2 diabetes](/en/news/first-oral-glp-1-treatment-type-2-diabetes)
+
+31/01/2020
+
+## Preventing medication errors
 
 Rybelsus: Risk of medication error due to new tablet formulation
 
@@ -1135,196 +747,154 @@ English (EN) (203.05 KB - PDF)
 
 [View](/en/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-756)
+[Other languages (22)](#file-language-dropdown-81)
 
 български (BG) (252.46 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/bg/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_bg.pdf)
 
 español (ES) (213.3 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/es/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_es.pdf)
 
 čeština (CS) (237.36 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/cs/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_cs.pdf)
 
 dansk (DA) (214.93 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/da/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_da.pdf)
 
 Deutsch (DE) (217.85 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/de/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_de.pdf)
 
 eesti keel (ET) (211.9 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/et/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_et.pdf)
 
 ελληνικά (EL) (255.11 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/el/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_el.pdf)
 
 français (FR) (214.11 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/fr/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_fr.pdf)
 
 hrvatski (HR) (246.53 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/hr/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_hr.pdf)
 
 italiano (IT) (213.28 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/it/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_it.pdf)
 
 latviešu valoda (LV) (247.74 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/lv/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_lv.pdf)
 
 lietuvių kalba (LT) (235.03 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/lt/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_lt.pdf)
 
 magyar (HU) (234.07 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/hu/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_hu.pdf)
 
 Malti (MT) (253.18 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/mt/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_mt.pdf)
 
 Nederlands (NL) (215.57 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/nl/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_nl.pdf)
 
 polski (PL) (252.62 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/pl/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_pl.pdf)
 
 português (PT) (214.02 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/pt/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_pt.pdf)
 
 română (RO) (234.03 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/ro/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_ro.pdf)
 
 slovenčina (SK) (237.88 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/sk/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_sk.pdf)
 
 slovenščina (SL) (246.52 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/sl/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_sl.pdf)
 
 Suomi (FI) (212.76 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/fi/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_fi.pdf)
 
 svenska (SV) (215.07 KB - PDF)
 
-**First published:**
-
-01/08/2025
+**First published:** 01/08/2025
 
 [View](/sv/documents/medication-error/rybelsus-risk-medication-error-due-new-tablet-formulation_sv.pdf)
 
-#### More information on Rybelsus
+## More information on Rybelsus
 
 - [Rybelsus - supply shortage](/en/medicines/human/shortages/rybelsus)
 - [Rybelsus - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/rybelsus)
+- [Effect of Glucagon-Like Peptide-1 Receptor Agonists on the Risk of Non-Arteritic Anterior Ischemic Optic Neuropathy Among Older Adults with Type 2 Diabetes: A US. Medicare Active-Comparator New-User Cohort Study - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000966)
+- [GLUCAGON-LIKE PEPTIDE 1 RECEPTOR AGONISTS AND OBSTRUCTIVE SLEEP APNEA RISK USING MEDICARE DATA 2007 - 2019 - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000965)
 - [Database Linkage Study to Evaluate the Risk of Medullary Thyroid Carcinoma - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000513)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 27/01/2026
+**This page was last updated on**
+
+22/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

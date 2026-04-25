@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-05-27 10:00:27
-document_pages: 56
+document_datetime: 2026-04-22 11:53:39
+document_pages: 58
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rotarix-epar-product-information_en.pdf
 document_name: rotarix-epar-product-information_en.pdf
 version: success
-processing_time: 14.3060153
-conversion_datetime: 2025-12-21 23:11:12.107473
+processing_time: 13.856204
+conversion_datetime: 2026-04-25 16:14:17.341894
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -76,9 +76,9 @@ In clinical trials, spitting or regurgitation of the vaccine has rarely been obs
 
 It is recommended that infants who receive a first dose of Rotarix complete the 2-dose regimen with Rotarix. There are no data on safety, immunogenicity or efficacy when Rotarix is administered for the first dose and another rotavirus vaccine is administered for the second dose or vice versa.
 
-Paediatric population
-
 <div style=\"page-break-after: always\"></div>
+
+## Paediatric population
 
 Rotarix should not be used in children over 24 weeks of age.
 
@@ -110,6 +110,8 @@ The administration of Rotarix should be postponed in subjects suffering from dia
 
 It is good clinical practice that vaccination should be preceded by a review of the medical history especially with regard to the contraindications and by a clinical examination.
 
+Appropriate medical treatment should always be readily available in case of an anaphylactic event following the administration of the vaccine (see section 4.8).
+
 There are no data on the safety and efficacy of Rotarix in infants with gastrointestinal illnesses or growth retardation. Administration of Rotarix may be considered with caution in such infants when, in the opinion of the physician, withholding the vaccine entails a greater risk.
 
 As a precaution, healthcare professionals should follow-up on any symptoms indicative of intussusception (severe abdominal pain, persistent vomiting, bloody stools, abdominal bloating and/or high fever) since data from observational safety studies indicate an increased risk of intussusception, mostly within 7 days after rotavirus vaccination (see section 4.8). Parents/guardians should be advised to promptly report such symptoms to their healthcare provider.
@@ -120,11 +122,9 @@ Asymptomatic and mildly symptomatic HIV infections are not expected to affect th
 
 Administration of Rotarix to infants who have known or suspected immunodeficiency, including in utero exposure to an immunosuppressive treatment, should be based on careful consideration of potential benefits and risks.
 
-Excretion of the vaccine virus in the stools is known to occur after vaccination with peak excretion around the 7th day. Viral antigen particles detected by ELISA were found in 50% of stools after the first dose of Rotarix lyophilised formulation and 4% of stools after the second dose. When these stools were tested for the presence of live vaccine strain, only 17% were positive. In two comparative
-
 <div style=\"page-break-after: always\"></div>
 
-controlled trials, vaccine shedding after vaccination with Rotarix liquid formulation was comparable to that observed after vaccination with Rotarix lyophilised formulation.
+Excretion of the vaccine virus in the stools is known to occur after vaccination with peak excretion around the 7th day. Viral antigen particles detected by ELISA were found in 50% of stools after the first dose of Rotarix lyophilised formulation and 4% of stools after the second dose. When these stools were tested for the presence of live vaccine strain, only 17% were positive. In two comparative controlled trials, vaccine shedding after vaccination with Rotarix liquid formulation was comparable to that observed after vaccination with Rotarix lyophilised formulation.
 
 Cases of transmission of this excreted vaccine virus to seronegative contacts of vaccinees have been observed without causing any clinical symptom.
 
@@ -160,9 +160,11 @@ In order to improve the traceability of biological medicinal products, the name 
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Rotarix can be given concomitantly with any of the following monovalent or combination vaccines [including hexavalent vaccines (DTPa-HBV-IPV/Hib)]: diphtheria-tetanus-whole cell pertussis vaccine (DTPw), diphtheria-tetanus-acellular pertussis vaccine (DTPa), Haemophilus influenzae type b vaccine (Hib), inactivated polio vaccine (IPV), hepatitis B vaccine (HBV), pneumococcal conjugate vaccine and meningococcal serogroup C conjugate vaccine. Clinical studies demonstrated that the immune responses and the safety profiles of the administered vaccines were unaffected.
+Rotarix can be given concomitantly with any of the following monovalent or combination vaccines [including hexavalent vaccines (DTPa-HBV-IPV/Hib)]: diphtheria-tetanus-whole cell pertussis vaccine (DTPw), diphtheria-tetanus-acellular pertussis vaccine (DTPa), Haemophilus influenzae
 
 <div style=\"page-break-after: always\"></div>
+
+type b vaccine (Hib), inactivated polio vaccine (IPV), hepatitis B vaccine (HBV), pneumococcal conjugate vaccine and meningococcal serogroup C conjugate vaccine. Clinical studies demonstrated that the immune responses and the safety profiles of the administered vaccines were unaffected.
 
 Concomitant administration of Rotarix and oral polio vaccine (OPV) does not affect the immune response to the polio antigens. Although concomitant administration of OPV may slightly reduce the immune response to rotavirus vaccine, clinical protection against severe rotavirus gastro-enteritis was shown to be maintained in a clinical trial involving more than 4 200 subjects who received Rotarix concomitantly with OPV.
 
@@ -196,32 +198,33 @@ In a pooled analysis from seventeen placebo-controlled clinical trials (Europe, 
 
 Adverse reactions reported are listed according to the following frequency:
 
-Frequencies are reported as:
-
-Very common   (
-
-≥ 1/10)
-
-Common
-
-( ≥ 1/100 to &lt; 1/10)
-
-Uncommon
-
-( ≥ 1/1 000 to &lt; 1/100)
-
-Rare
-
-( ≥ 1/10 000 to &lt; 1/1 000)
-
-Very rare
-
-(&lt; 1/10 000)
+Frequencies are reported as: Very common   ( ≥ 1/10)
 
 <div style=\"page-break-after: always\"></div>
 
+Common
+
+Uncommon
+
+Diarrhoea
+
+Abdominal pain, flatulence
+
+Very rare
+
+Not known*
+
+Not known*
+
+| Common    | ( ≥ 1/100 to < 1/10)       |
+|-----------|----------------------------|
+| Uncommon  | ( ≥ 1/1 000 to < 1/100)    |
+| Rare      | ( ≥ 1/10 000 to < 1/1 000) |
+| Very rare | (< 1/10 000)               |
+
 | System Organ Class                                   | Frequency   | Adverse reactions                                                                                            |
 |------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------|
+| Immune system disorders                              | Not known*  | Anaphylactic reaction                                                                                        |
 | Gastrointestinal disorders                           | Common      | Diarrhoea                                                                                                    |
 | Gastrointestinal disorders                           | Uncommon    | Abdominal pain, flatulence                                                                                   |
 | Gastrointestinal disorders                           | Very rare   | Intussusception (see section 4.4)                                                                            |
@@ -231,8 +234,6 @@ Very rare
 | Skin and subcutaneous tissue disorders               | Very rare   | Urticaria                                                                                                    |
 | General disorders and administration site conditions | Common      | Irritability                                                                                                 |
 | Respiratory, thoracic and mediastinal disorders      | Not known*  | Apnoea in very premature infants (≤ 28 weeks of gestation) (see section 4.4)                                 |
-
-* Because these events were reported spontaneously, it is not possible to reliably estimate their frequency.
 
 ## Description of selected adverse reactions
 
@@ -254,13 +255,13 @@ In a clinical study, 670 pre-term infants from 27 to 36 weeks of gestational age
 
 In a clinical study, 100 infants with HIV infection were administered Rotarix lyophilised formulation or placebo. The safety profile was similar between Rotarix and placebo recipients.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
-
-<div style=\"page-break-after: always\"></div>
 
 Some cases of overdose have been reported. In general, the adverse event profile reported in these cases was similar to that observed after administration of the recommended dose of Rotarix.
 
@@ -299,22 +300,18 @@ After two doses of Rotarix, the protective vaccine efficacy observed during the 
 | G1P[8]                                                                          | 95.6 [ 87.9;98.8 ]                                                              | 96.4 [ 85.7;99.6 ]                                                              | 82.7 [ 67.8;91.3 ]                                                              | 96.5 [ 86.2;99.6 ]                                                              |
 | G2P[4]                                                                          | 62.0* [ <0.0;94.4 ]                                                             | 74.7* [ <0.0;99.6 ]                                                             | 57.1 [ <0.0;82.6 ]                                                              | 89.9 [ 9.4;99.8 ]                                                               |
 | G3P[8]                                                                          | 89.9 [ 9.5;99.8 ]                                                               | 100 [ 44.8;100 ]                                                                | 79.7 [ <0.0;98.1 ]                                                              | 83.1* [ <0.0;99.7 ]                                                             |
-| G4P[8]                                                                          | 88.3 [ 57.5;97.9 ]                                                              | 100 [ 64.9;100 ]                                                                | 69.6* [ <0.0;95.3 ]                                                             | 87.3 [ <0.0;99.7 ]                                                              |
-| G9P[8]                                                                          | 75.6 [ 51.1;88.5 ]                                                              | 94.7 [ 77.9;99.4 ]                                                              | 70.5 [ 50.7;82.8 ]                                                              | 76.8 [ 50.8;89.7 ]                                                              |
-| Strains with P[8] genotype                                                      | 88.2 [ 80.8;93.0 ]                                                              | 96.5 [ 90.6;99.1 ]                                                              | 75.7 [ 65.0;83.4 ]                                                              | 87.5 [ 77.8;93.4 ]                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| Circulating rotavirus strains                                                                                          | 87.1 [ 79.6;92.1 ]                                                                                                     | 71.9 [ 61.2;79.8 ]                                                                                                     |                                                                                                                        |
-|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| [ 89.6;98.7 ] [ 75.8;91.9 Vaccine efficacy (%) against rotavirus gastro-enteritis requiring medical attention [95% CI] | [ 89.6;98.7 ] [ 75.8;91.9 Vaccine efficacy (%) against rotavirus gastro-enteritis requiring medical attention [95% CI] | [ 89.6;98.7 ] [ 75.8;91.9 Vaccine efficacy (%) against rotavirus gastro-enteritis requiring medical attention [95% CI] | [ 89.6;98.7 ] [ 75.8;91.9 Vaccine efficacy (%) against rotavirus gastro-enteritis requiring medical attention [95% CI] |
-| Circulating rotavirus strains                                                                                          | 91.8 [ 84;96.3 ]                                                                                                       | 76.2 [ 63.0;85.0 ]                                                                                                     |                                                                                                                        |
-| Vaccine efficacy (%) against hospitalisation due to rotavirus gastro-enteritis [95% CI]                                | Vaccine efficacy (%) against hospitalisation due to rotavirus gastro-enteritis [95% CI]                                | Vaccine efficacy (%) against hospitalisation due to rotavirus gastro-enteritis [95% CI]                                | Vaccine efficacy (%) against hospitalisation due to rotavirus gastro-enteritis [95% CI]                                |
-| Circulating rotavirus strains                                                                                          | 100 [ 81.8;100 ]                                                                                                       | 92.2 [ 65.6;99.1 ]                                                                                                     |                                                                                                                        |
-
-† Severe gastro-enteritis was defined as a score ≥ 11 on the Vesikari scale
-
-* Not statistically significant (p ≥ 0.05). These data should be interpreted with caution.
+| G4P[8]                                                                                       | 88.3 [ 57.5;97.9 ]                                                                           | 100 [ 64.9;100 ]                                                                             | 69.6* [ <0.0;95.3 ]                                                                          | 87.3 [ <0.0;99.7 ]                                                                           |
+|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| G9P[8]                                                                                       | 75.6 [ 51.1;88.5 ]                                                                           | 94.7 [ 77.9;99.4 ]                                                                           | 70.5 [ 50.7;82.8 ]                                                                           | 76.8 [ 50.8;89.7 ]                                                                           |
+| Strains with P[8] genotype                                                                   | 88.2 [ 80.8;93.0 ]                                                                           | 96.5 [ 90.6;99.1 ]                                                                           | 75.7 [ 65.0;83.4 ]                                                                           | 87.5 [ 77.8;93.4 ]                                                                           |
+| Circulating rotavirus strains                                                                | 87.1 [ 79.6;92.1 ]                                                                           | 95.8 [ 89.6;98.7 ]                                                                           | 71.9 [ 61.2;79.8 ]                                                                           | 85.6 [ 75.8;91.9 ]                                                                           |
+| Vaccine efficacy (%) against rotavirus gastro-enteritis requiring medical attention [95% CI] | Vaccine efficacy (%) against rotavirus gastro-enteritis requiring medical attention [95% CI] | Vaccine efficacy (%) against rotavirus gastro-enteritis requiring medical attention [95% CI] | Vaccine efficacy (%) against rotavirus gastro-enteritis requiring medical attention [95% CI] | Vaccine efficacy (%) against rotavirus gastro-enteritis requiring medical attention [95% CI] |
+| Circulating rotavirus strains                                                                | 91.8 [ 84;96.3 ]                                                                             | 91.8 [ 84;96.3 ]                                                                             | 76.2 [ 63.0;85.0 ]                                                                           | 76.2 [ 63.0;85.0 ]                                                                           |
+| Vaccine efficacy (%) against hospitalisation due to rotavirus gastro-enteritis [95% CI]      | Vaccine efficacy (%) against hospitalisation due to rotavirus gastro-enteritis [95% CI]      | Vaccine efficacy (%) against hospitalisation due to rotavirus gastro-enteritis [95% CI]      | Vaccine efficacy (%) against hospitalisation due to rotavirus gastro-enteritis [95% CI]      | Vaccine efficacy (%) against hospitalisation due to rotavirus gastro-enteritis [95% CI]      |
+| Circulating rotavirus strains                                                                | 100 [ 81.8;100 ]                                                                             | 100 [ 81.8;100 ]                                                                             | 92.2 [ 65.6;99.1 ]                                                                           | 92.2 [ 65.6;99.1 ]                                                                           |
 
 Vaccine efficacy during the first year of life progressively increased with increasing disease severity, reaching 100% (95% CI: 84.7;100) for Vesikari scores ≥ 17.
 
@@ -322,31 +319,20 @@ Vaccine efficacy during the first year of life progressively increased with incr
 
 A clinical study performed in Latin America evaluated Rotarix in more than 20 000 subjects. Severity of gastro-enteritis (GE) was defined according to WHO criteria. The protective vaccine efficacy against severe rotavirus (RV) gastro-enteritis requiring hospitalisation and/or rehydration therapy in a medical facility and the genotype specific vaccine efficacy after two doses of Rotarix are presented in the table below:
 
-| Genotype                   | Severe rotavirus gastro- enteritis† (1 st year of life) Rotarix N=9 009 Placebo N=8 858   | Severe rotavirus gastro- enteritis† (2 nd year of life) Rotarix N=7 175 Placebo N=7 062   |
-|----------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-|                            | Efficacy (%) [ 95% CI ]                                                                   | Efficacy (%) [ 95% CI ]                                                                   |
-| All RVGE                   | 84.7 [ 71.7;92.4 ]                                                                        | 79.0 [ 66.4;87.4 ]                                                                        |
-| G1P[8]                     | 91.8 [ 74.1;98.4 ]                                                                        | 72.4 [ 34.5;89.9 ]                                                                        |
-| G3P[8]                     | 87.7 [ 8.3;99.7 ]                                                                         | 71.9* [ <0.0;97.1 ]                                                                       |
-| G4P[8]                     | 50.8#* [ <0.0;99.2 ]                                                                      | 63.1 [ 0.7;88.2 ]                                                                         |
-| G9P[8]                     | 90.6 [ 61.7;98.9 ]                                                                        | 87.7 [ 72.9;95.3 ]                                                                        |
-| Strains with P[8] genotype | 90.9 [ 79.2;96.8 ]                                                                        | 79.5 [ 67.0;87.9 ]                                                                        |
+| Genotype                   | Severe rotavirus gastro- enteritis† (1 st year of life) Rotarix N=9 009 Placebo N=8 858 Efficacy (%)   | Severe rotavirus gastro- enteritis† (2 nd year of life) Rotarix N=7 175 Placebo N=7 062 Efficacy (%)   |
+|----------------------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| All RVGE                   | 84.7 [ 71.7;92.4 ]                                                                                     | 79.0 [ 66.4;87.4 ]                                                                                     |
+| G1P[8]                     | 91.8 [ 74.1;98.4 ]                                                                                     | 72.4 [ 34.5;89.9 ]                                                                                     |
+| G3P[8]                     | 87.7 [ 8.3;99.7 ]                                                                                      | 71.9* [ <0.0;97.1 ]                                                                                    |
+| G4P[8]                     | 50.8#* [ <0.0;99.2 ]                                                                                   | 63.1 [ 0.7;88.2 ]                                                                                      |
+| G9P[8]                     | 90.6 [ 61.7;98.9 ]                                                                                     | 87.7 [ 72.9;95.3 ]                                                                                     |
+| Strains with P[8] genotype | 90.9 [ 79.2;96.8 ]                                                                                     | 79.5 [ 67.0;87.9 ]                                                                                     |
 
-† Severe rotavirus gastro-enteritis was defined as an episode of diarrhoea with or without vomiting that required hospitalisation and/or re-hydration therapy in a medical facility (WHO criteria)
-
-* Not statistically significant (p ≥ 0.05). These data should be interpreted with caution
-
-# The numbers of cases, on which the estimates of efficacy against G4P[8] were based, were very small (1 case in the Rotarix group and 2 cases in the placebo group)
+<div style=\"page-break-after: always\"></div>
 
 A pooled analysis of five efficacy studies*, showed a 71.4% (95% CI: 20.1;91.1) efficacy against severe rotavirus gastro-enteritis (Vesikari score ≥ 11) caused by rotavirus G2P[4] genotype during the first year of life.
 
-* In these studies, the point estimates and confidence intervals were respectively: 100% (95%
-
-CI: -1 858.0;100), 100% (95% CI: 21.1;100), 45.4% (95% CI: -81.5;86.6), 74.7% (95%
-
-CI: -386.2;99.6). No point estimate was available for the remaining study.
-
-<div style=\"page-break-after: always\"></div>
+* In these studies, the point estimates and confidence intervals were respectively: 100% (95% CI: -1 858.0;100), 100% (95% CI: 21.1;100), 45.4% (95% CI: -81.5;86.6), 74.7% (95% CI: -386.2;99.6). No point estimate was available for the remaining study.
 
 ## Protective efficacy in Africa
 
@@ -364,10 +350,6 @@ A clinical study performed in Africa (Rotarix: N = 2 974; placebo: N = 1 443) ev
 | Strains with P[4] genotype | 39.3 [ 7.7;59.9 ]                                                | 70.9 [ 37.5;87.0 ]                                                    |
 | Strains with P[6] genotype | 46.6 [ 9.4;68.4 ]                                                | 55.2* [ <0.0;81.3 ]                                                   |
 | Strains with P[8] genotype | 61.0 [ 47.3;71.2 ]                                               | 59.1 [ 32.8;75.3 ]                                                    |
-
-† Severe gastro-enteritis was defined as a score ≥ 11 on the Vesikari scale
-
-* Not statistically significant (p ≥ 0.05). These data should be interpreted with caution.
 
 ## Sustained efficacy up to 3 years of age in Asia
 
@@ -558,6 +540,12 @@ The vaccine is to be administered orally without mixing with any other vaccines 
 
 <div style=\"page-break-after: always\"></div>
 
+Membrane
+
+Oral applicator
+
+Tip-Cap
+
 The vaccine should be inspected visually for any foreign particulate matter and/or abnormal physical appearance. In the event of either being observed, discard the vaccine.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
@@ -593,9 +581,17 @@ If you notice anything abnormal, do not use the vaccine.
 - This vaccine is given orally - straight from the tube.
 - It is ready to use - you do not need to mix it with anything.
 
+Tube
+
+Spike
+
+Cap
+
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+Membrane cap
 
 ## B  Get the tube ready
 
@@ -639,6 +635,22 @@ If you notice anything abnormal, do not use the vaccine.
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+Connecting
+
+Expiry date: MM-YYYY
+
+Expiry date: MM-YYYY
+
+bar
+
+Neck -
+
+Rotarfa
+
+Body -
+
+Tab-
 
 ## D  Give the vaccine
 
@@ -688,6 +700,18 @@ Please read the instructions for use all the way through before starting to give
 
 <div style=\"page-break-after: always\"></div>
 
+n
+
+Put back in fridge immediately
+
+2°C to 8°C
+
+Rotari
+
+Rotarts
+
+Pull
+
 2.  To open the separated oral tube:
 - d) Keep the separated oral tube held upright.
 - e) Hold the tab of the separated oral tube in one hand and the connecting bar in the other hand. Do not hold the body of the oral tube, you may squeeze out some of the vaccine.
@@ -698,6 +722,9 @@ Please read the instructions for use all the way through before starting to give
 
 1. To position the child to receive the vaccine:
 - Seat the child leaning slightly backwards.
+
+administration
+
 2.  To administer the vaccine orally:
 - Squeeze the liquid gently into the side of the child's mouth, towards the inside of their cheek.
 - You may need to squeeze the oral tube a few times to get all of the vaccine out - it is okay if a drop stays in the oral tube.
@@ -722,21 +749,31 @@ GlaxoSmithKline Biologicals SA Rue de l'Institut 89 B-1330 Rixensart, Belgium
 
 Pre-filled oral applicator EU/1/05/330/005 EU/1/05/330/006 EU/1/05/330/007 EU/1/05/330/008
 
-Squeezable tube EU/1/05/330/009 EU/1/05/330/010 EU/1/05/330/011
+Squeezable tube EU/1/05/330/009 EU/1/05/330/010
 
 <div style=\"page-break-after: always\"></div>
 
-Multi-monodose (5-single dose) squeezable tube presentation connected by a bar EU/1/05/330/012
+EU/1/05/330/011
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+Multi-monodose (5-single dose) squeezable tube presentation connected by a bar
+
+EU/1/05/330/012
+
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 21 February 2006
 
 Date of latest renewal: 14 January 2016
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
+
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+18
 
 <div style=\"page-break-after: always\"></div>
 
@@ -800,17 +837,15 @@ An updated RMP should be submitted:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Rotarix oral suspension in pre-filled
-
-oral applicator
-
-rotavirus vaccine, live
+Rotarix oral suspension in pre-filled oral applicator rotavirus vaccine, live
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 1 dose (1.5 mL) contains:
 
 Human rotavirus RIX4414 strain (live, attenuated)
+
+not less than 10 6.0 CCID50
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -850,11 +885,13 @@ Read the package leaflet before use
 
 Keep out of the sight and reach of children
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-not less than 10 6.0 CCID50
+Ready to use
 
-<div style=\"page-break-after: always\"></div>
+No reconstitution required
 
 ## 8. EXPIRY DATE
 
@@ -900,11 +937,13 @@ Lot
 
 Justification for not including Braille accepted
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
 <div style=\"page-break-after: always\"></div>
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
+
+| 2D barcode carrying the unique identifier included.   |
+|-------------------------------------------------------|
 
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
@@ -1009,9 +1048,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+## 15. INSTRUCTIONS ON USE
 
 Read the instructions before administration of the vaccine.
 
@@ -1019,11 +1056,14 @@ This vaccine is intended for oral administration only .
 
 <div style=\"page-break-after: always\"></div>
 
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
 | Justification for not including Braille accepted   |
 |----------------------------------------------------|
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 | 2D barcode carrying the unique identifier included.   |
 |-------------------------------------------------------|
@@ -1059,7 +1099,7 @@ See the package leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Oral suspension
+## Oral suspension
 
 50 tubes
 
@@ -1146,9 +1186,8 @@ PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS PRE-FILLED ORAL APPLICATOR
 
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+1. NAME OF THE MEDICINAL PRODUCT
+2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 ## 3. EXPIRY DATE
 
@@ -1347,20 +1386,22 @@ It is important that you follow the instructions of your doctor or nurse regardi
 
 Like all medicines, this vaccine can cause side effects, although not everybody gets them.
 
-The following side effects may happen with this vaccine:
+## Contact a doctor/health care professional right away if your child experiences one of the following symptoms:
+
+- Allergic reactions (frequency cannot be estimated from the available data), which may be severe (anaphylaxis), and may include: shortness of breath or allergic swelling that may affect the face, lips, tongue or throat.
+- Intussusception (part of the intestine gets blocked or twisted) (frequency very rare). The signs may include severe stomach pain, persistent vomiting, blood in stools, a swollen belly and/or high fever.
+
+The following other side effects may happen with this vaccine:
 
 - ♦ Common (These may occur with up to 1 in 10 doses of the vaccine):
 - diarrhoea
 - irritability
 - ♦ Uncommon (These may occur with up to 1 in 100 doses of the vaccine):
-- abdominal pain (see also below for signs of very rare side effects of intussusception)
+- abdominal pain (see also above for signs of very rare side effects of intussusception)
 - flatulence
 - inflammation of the skin
-
-Side effects that have been reported during marketed use of Rotarix include:
-
+- ♦ Side effects that have been reported during marketed use of Rotarix include:
 - Very rare: hives (urticaria)
-- Very rare: intussusception (part of the intestine gets blocked or twisted). The signs may include severe stomach pain, persistent vomiting, blood in stools, a swollen belly and/or high fever. Contact a doctor/health care professional right away if your child experiences one of these symptoms .
 - blood in stools
 - in babies born very prematurely (at or before 28 weeks of gestation) longer gaps than normal between breaths may occur for 2-3 days after vaccination.
 - children with a rare inherited illness called Severe Combined Immunodeficiency (SCID) may have an inflamed stomach or gut (gastroenteritis) and pass the vaccine virus in their stools. The signs of gastroenteritis may include feeling sick, being sick, stomach cramps or diarrhoea.
@@ -1373,11 +1414,11 @@ If your child gets any of the side effects, talk to your doctor or pharmacist. T
 
 Keep this vaccine out of the sight and reach of children.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not use this vaccine after the expiry date which is stated on the carton. The expiry date refers to the last day of that month.
 
 Store in a refrigerator (2 ° C - 8 ° C).
-
-<div style=\"page-break-after: always\"></div>
 
 Do not freeze.
 
@@ -1395,7 +1436,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 Human rotavirus RIX4414 strain (live, attenuated)*
 
-- *Produced on Vero cells
+*Produced on Vero cells
+
 - -The other ingredients in Rotarix are: sucrose , Di-sodium Adipate, Dulbecco's Modified Eagle Medium (DMEM) (containing phenylalanine, sodium, glucose, and other substances), sterile water, (see also section 2, 'Rotarix contains sucrose, glucose, phenylalanine and sodium')
 
 ## What Rotarix looks like and contents of the pack
@@ -1426,21 +1468,17 @@ GlaxoSmithKline Biologicals SA Tel. +370 80000334
 
 GlaxoSmithKline Biologicals SA Тел. +359 80018205
 
-Luxembourg/Luxemburg
+Luxembourg/Luxemburg GlaxoSmithKline Pharmaceuticals SA/NV Tél/Tel: + 32 10 85 52 00
 
-GlaxoSmithKline Pharmaceuticals SA/NV Tél/Tel: + 32 10 85 52 00
+not less than 10 6.0 CCID50
 
-Česká republika GlaxoSmithKline s.r.o. Tel: + 420 2 22 00 11 11 cz.info@gsk.com
+<div style=\"page-break-after: always\"></div>
 
-Magyarország
+## Česká republika
 
-GlaxoSmithKline Biologicals SA
+GlaxoSmithKline s.r.o. Tel: + 420 2 22 00 11 11 cz.info@gsk.com
 
-Tel.: +36 80088309
-
-Danmark
-
-Malta not less than 10 6.0 CCID50
+## Danmark
 
 GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 dk-info@gsk.com
 
@@ -1484,11 +1522,11 @@ GlaxoSmithKline S.p.A. Tel:+ 39 (0)45 7741 111
 
 GlaxoSmithKline Biologicals SA Τηλ: +357 80070017
 
-## Latvija
+## Magyarország
 
-GlaxoSmithKline Biologicals SA Tel: +371 80205045
+GlaxoSmithKline Biologicals SA Tel.: +36 80088309
 
-<div style=\"page-break-after: always\"></div>
+## Malta
 
 GlaxoSmithKline Biologicals SA Tel: +356 80065004
 
@@ -1500,9 +1538,7 @@ Tel: + 31 (0)33 2081100
 
 ## Norge
 
-GlaxoSmithKline AS
-
-Tlf: + 47 22 70 20 00
+GlaxoSmithKline AS Tlf: + 47 22 70 20 00
 
 ## Österreich
 
@@ -1538,15 +1574,29 @@ GlaxoSmithKline Oy Puh/Tel: + 358 10 30 30 30
 
 GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
 
-## United Kingdom (Northern Ireland )
-
-GlaxoSmithKline Biologicals SA Tel: + 44 (0)800 221 441
-
 <div style=\"page-break-after: always\"></div>
+
+Oral applicator
+
+Tip-Cap
+
+## Latvija
+
+GlaxoSmithKline Biologicals SA
+
+Tel: +371 80205045
 
 ## This leaflet was last revised in .
 
 ## Other sources of information
+
+## United Kingdom (Northern Ireland )
+
+GlaxoSmithKline Biologicals SA
+
+Tel: + 44 (0)800 221 441 customercontactuk@gsk.com
+
+3. Do not inject.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
@@ -1556,9 +1606,7 @@ The following information is intended for healthcare professionals only:
 
 The vaccine is presented as a clear, colourless liquid, free of visible particles, for oral administration.
 
-The vaccine is ready to use (no reconstitution or dilution is required).
-
-The vaccine is to be administered orally without mixing with any other vaccines or solutions.
+The vaccine is ready to use (no reconstitution or dilution is required). The vaccine is to be administered orally without mixing with any other vaccines or solutions.
 
 The vaccine should be inspected visually for any foreign particulate matter and/or abnormal physical appearance. In the event of either being observed, discard the vaccine.
 
@@ -1580,13 +1628,13 @@ Instructions for administration of the vaccine:
 
 Discard the empty oral applicator and tip cap in approved biological waste containers according to local regulations.
 
-## customercontactuk@gsk.com
-
 ## Package leaflet: Information for the user
 
 <div style=\"page-break-after: always\"></div>
 
-## Rotarix oral suspension in squeezable tube rotavirus vaccine, live
+## Rotarix oral suspension in squeezable tube
+
+rotavirus vaccine, live
 
 ## Read all of this leaflet carefully before your child receives this vaccine because it contains important information for you.
 
@@ -1685,20 +1733,22 @@ It is important that you follow the instructions of your doctor or nurse regardi
 
 Like all medicines, this vaccine can cause side effects, although not everybody gets them.
 
-The following side effects may happen with this vaccine:
+## Contact a doctor/health care professional right away if your child experiences one of the following symptoms:
+
+- Allergic reactions (frequency cannot be estimated from the available data), which may be severe (anaphylaxis), and may include: shortness of breath or allergic swelling that may affect the face, lips, tongue or throat.
+- Intussusception (part of the intestine gets blocked or twisted) (frequency very rare). The signs may include severe stomach pain, persistent vomiting, blood in stools, a swollen belly and/or high fever.
+
+The following other side effects may happen with this vaccine:
 
 - ♦ Common (These may occur with up to 1 in 10 doses of the vaccine):
 - diarrhoea
 - irritability
 - ♦ Uncommon (These may occur with up to 1 in 100 doses of the vaccine):
-- abdominal pain (see also below for signs of very rare side effects of intussusception)
+- abdominal pain (see also above for signs of very rare side effects of intussusception)
 - flatulence
 - inflammation of the skin
-
-Side effects that have been reported during marketed use of Rotarix include:
-
+- ♦ Side effects that have been reported during marketed use of Rotarix include:
 - Very rare: hives (urticaria)
-- Very rare: intussusception (part of the intestine gets blocked or twisted). The signs may include severe stomach pain, persistent vomiting, blood in stools, a swollen belly and/or high fever. Contact a doctor/health care professional right away if your child experiences one of these symptoms .
 - blood in stools
 - in babies born very prematurely (at or before 28 weeks of gestation) longer gaps than normal between breaths may occur for 2-3 days after vaccination.
 - children with a rare inherited illness called Severe Combined Immunodeficiency (SCID) may have an inflamed stomach or gut (gastroenteritis) and pass the vaccine virus in their stools. The signs of gastroenteritis may include feeling sick, being sick, stomach cramps or diarrhoea.
@@ -1711,11 +1761,13 @@ If your child gets any of the side effects, talk to your doctor or pharmacist. T
 
 Keep this vaccine out of the sight and reach of children.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not use this vaccine after the expiry date which is stated on the carton. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 ° C - 8 ° C). Do not freeze.
+Store in a refrigerator (2 ° C - 8 ° C).
 
-<div style=\"page-break-after: always\"></div>
+Do not freeze.
 
 Store in the original package in order to protect from light.
 
@@ -1728,12 +1780,12 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Rotarix contains
 
 - -The active substances are:
-- *Produced on Vero cells
-- -The other ingredients in Rotarix are: sucrose, Di-sodium Adipate, Dulbecco's Modified Eagle Medium (DMEM) (containing phenylalanine, sodium, glucose, and other substances), sterile water, (see also section 2, 'Rotarix contains sucrose, glucose, phenylalanine and sodium')
 
 Human rotavirus RIX4414 strain (live, attenuated)*
 
-not less than 10 6.0 CCID50
+*Produced on Vero cells
+
+- -The other ingredients in Rotarix are: sucrose, Di-sodium Adipate, Dulbecco's Modified Eagle Medium (DMEM) (containing phenylalanine, sodium, glucose, and other substances), sterile water, (see also section 2, 'Rotarix contains sucrose, glucose, phenylalanine and sodium')
 
 ## What Rotarix looks like and contents of the pack
 
@@ -1751,9 +1803,11 @@ GlaxoSmithKline Biologicals SA Rue de l'Institut 89 B-1330 Rixensart Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien GlaxoSmithKline Pharmaceuticals SA/NV Tél/Tel: + 32 10 85 52 00
+## België/Belgique/Belgien
 
-## Lietuva
+Lietuva
+
+GlaxoSmithKline Pharmaceuticals SA/NV Tél/Tel: + 32 10 85 52 00
 
 GlaxoSmithKline Biologicals SA Tel. +370 80000334
 
@@ -1765,15 +1819,13 @@ Luxembourg/Luxemburg
 
 GlaxoSmithKline Pharmaceuticals SA/NV Tél/Tel: + 32 10 85 52 00
 
+not less than 10 6.0 CCID50
+
+<div style=\"page-break-after: always\"></div>
+
 ## Česká republika
 
 GlaxoSmithKline s.r.o. Tel: + 420 2 22 00 11 11 cz.info@gsk.com
-
-Magyarország
-
-GlaxoSmithKline Biologicals SA Tel.: +36 80088309
-
-<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
@@ -1785,7 +1837,9 @@ GlaxoSmithKline GmbH &amp; Co. KG Tel: + 49 (0)89 360448701 produkt.info@gsk.com
 
 ## Eesti
 
-GlaxoSmithKline Biologicals SA Tel: +372 8002640
+GlaxoSmithKline Biologicals SA
+
+Tel: +372 8002640
 
 ## Ελλάδα
 
@@ -1809,15 +1863,17 @@ GlaxoSmithKline (Ireland) Ltd Tel: + 353 (0)1 495 5000
 
 ## Ísland
 
-Vistor hf. Sími : +354 535 7000
+Vistor hf.
+
+Sími : +354 535 7000
 
 ## Italia
 
 GlaxoSmithKline S.p.A. Tel:+ 39 (0)45 7741 111
 
-## Κύπρος
+## Magyarország
 
-GlaxoSmithKline Biologicals SA Τηλ: +357 80070017
+GlaxoSmithKline Biologicals SA Tel.: +36 80088309
 
 ## Malta
 
@@ -1825,9 +1881,7 @@ GlaxoSmithKline Biologicals SA Tel: +356 80065004
 
 ## Nederland
 
-GlaxoSmithKline BV
-
-Tel: + 31 (0)33 2081100
+GlaxoSmithKline BV Tel: + 31 (0)33 2081100
 
 ## Norge
 
@@ -1861,13 +1915,27 @@ GlaxoSmithKline Biologicals SA Tel: +421 800500589
 
 ## Suomi/Finland
 
-GlaxoSmithKline Oy Puh/Tel: + 358 10 30 30 30
+GlaxoSmithKline Oy
 
-## Sverige
-
-GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
+Puh/Tel: + 358 10 30 30 30
 
 <div style=\"page-break-after: always\"></div>
+
+Membrane -
+
+Tube
+
+Spike
+
+Cap
+
+## Κύπρος
+
+GlaxoSmithKline Biologicals SA
+
+Τηλ:
+
++357 80070017
 
 ## Latvija
 
@@ -1918,6 +1986,10 @@ If you notice anything abnormal, do not use the vaccine.
 
 - Clear any liquid from the thinnest section of the tube by flicking just below the membrane.
 
+## Sverige
+
+GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
+
 ## United Kingdom (Northern Ireland )
 
 GlaxoSmithKline Biologicals SA Tel: + 44 (0)800 221 441 customercontactuk@gsk.com
@@ -1928,12 +2000,16 @@ GlaxoSmithKline Biologicals SA Tel: + 44 (0)800 221 441 customercontactuk@gsk.co
 
 <div style=\"page-break-after: always\"></div>
 
+Membrane cap
+
 ## 3.  Position the cap to open the tube
 
 - Keep the tube held upright.
 - Hold the side of tube
 - There is a small spike inside the top of the cap - in the centre.
 - Turn the cap upside down (180°).
+
+Hole
 
 ## 4.  To open the tube
 
@@ -2082,20 +2158,22 @@ It is important that you follow the instructions of your doctor or nurse regardi
 
 Like all medicines, this vaccine can cause side effects, although not everybody gets them.
 
-The following side effects may happen with this vaccine:
+## Contact a doctor/health care professional right away if your child experiences one of the following symptoms:
+
+- Allergic reactions (frequency cannot be estimated from the available data), which may be severe (anaphylaxis), and may include: shortness of breath or allergic swelling that may affect the face, lips, tongue or throat.
+- Intussusception (part of the intestine gets blocked or twisted) (frequency very rare). The signs may include severe stomach pain, persistent vomiting, blood in stools, a swollen belly and/or high fever.
+
+The following other side effects may happen with this vaccine:
 
 - ♦ Common (These may occur with up to 1 in 10 doses of the vaccine):
 - diarrhoea
 - irritability
 - ♦ Uncommon (These may occur with up to 1 in 100 doses of the vaccine):
-- abdominal pain (see also below for signs of very rare side effects of intussusception)
+- abdominal pain (see also above for signs of very rare side effects of intussusception)
 - flatulence
 - inflammation of the skin
-
-Side effects that have been reported during marketed use of Rotarix include:
-
+- ♦ Side effects that have been reported during marketed use of Rotarix include:
 - Very rare: hives (urticaria)
-- Very rare: intussusception (part of the intestine gets blocked or twisted). The signs may include severe stomach pain, persistent vomiting, blood in stools, a swollen belly and/or high fever. Contact a doctor/health care professional right away if your child experiences one of these symptoms .
 - blood in stools
 - in babies born very prematurely (at or before 28 weeks of gestation) longer gaps than normal between breaths may occur for 2-3 days after vaccination.
 - children with a rare inherited illness called Severe Combined Immunodeficiency (SCID) may have an inflamed stomach or gut (gastroenteritis) and pass the vaccine virus in their stools. The signs of gastroenteritis may include feeling sick, being sick, stomach cramps or diarrhoea.
@@ -2108,11 +2186,11 @@ If your child gets any of the side effects, talk to your doctor or pharmacist. T
 
 Keep this vaccine out of the sight and reach of children.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not use this vaccine after the expiry date which is stated on the carton. The expiry date refers to the last day of that month.
 
 Store in a refrigerator (2 ° C - 8 ° C).
-
-<div style=\"page-break-after: always\"></div>
 
 Do not freeze.
 
@@ -2127,12 +2205,12 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Rotarix contains
 
 - -The active substances are:
-- *Produced on Vero cells
-- -The other ingredients in Rotarix are: sucrose , Di-sodium Adipate, Dulbecco's Modified Eagle Medium (DMEM) (containing phenylalanine, sodium, glucose and other substances), sterile water, (see also section 2, 'Rotarix contains sucrose, glucose, phenylalanine and sodium')
 
 Human rotavirus RIX4414 strain (live, attenuated)*
 
-not less than 10 6.0 CCID50
+*Produced on Vero cells
+
+- -The other ingredients in Rotarix are: sucrose , Di-sodium Adipate, Dulbecco's Modified Eagle Medium (DMEM) (containing phenylalanine, sodium, glucose and other substances), sterile water, (see also section 2, 'Rotarix contains sucrose, glucose, phenylalanine and sodium')
 
 ## What Rotarix looks like and contents of the pack
 
@@ -2150,15 +2228,17 @@ GlaxoSmithKline Biologicals SA Rue de l'Institut 89 B-1330 Rixensart Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+België/Belgique/Belgien GlaxoSmithKline Pharmaceuticals SA/NV
 
-GlaxoSmithKline Pharmaceuticals SA/NV Tél/Tel: + 32 10 85 52 00
+Tél/Tel: + 32 10 85 52 00
 
 Lietuva
 
-GlaxoSmithKline Biologicals SA Tel. +370 80000334
+GlaxoSmithKline Biologicals SA
 
-България
+Tel. +370 80000334
+
+## България
 
 GlaxoSmithKline Biologicals SA Тел. +359 80018205
 
@@ -2166,13 +2246,13 @@ Luxembourg/Luxemburg
 
 GlaxoSmithKline Pharmaceuticals SA/NV Tél/Tel: + 32 10 85 52 00
 
-Česká republika GlaxoSmithKline s.r.o. Tel: + 420 2 22 00 11 11 cz.info@gsk.com
-
-Magyarország
-
-GlaxoSmithKline Biologicals SA Tel.: +36 80088309
+not less than 10 6.0 CCID50
 
 <div style=\"page-break-after: always\"></div>
+
+## Česká republika
+
+GlaxoSmithKline s.r.o. Tel: + 420 2 22 00 11 11 cz.info@gsk.com
 
 ## Danmark
 
@@ -2220,19 +2300,19 @@ GlaxoSmithKline S.p.A.
 
 Tel: + 39 (0)45 7741 111
 
-## Κύπρος
+## Magyarország
 
-GlaxoSmithKline Biologicals SA Τηλ: +357 80070017
+GlaxoSmithKline Biologicals SA Tel.: +36 80088309
 
 ## Malta
 
-GlaxoSmithKline Biologicals SA Tel: +356 80065004
+GlaxoSmithKline Biologicals SA
+
+Tel: +356 80065004
 
 ## Nederland
 
-GlaxoSmithKline BV
-
-Tel: + 31 (0)33 2081100
+GlaxoSmithKline BV Tel: + 31 (0)33 2081100
 
 ## Norge
 
@@ -2268,17 +2348,33 @@ GlaxoSmithKline Biologicals SA Tel.: +421 800500589
 
 GlaxoSmithKline Oy Puh/Tel: + 358 10 30 30 30
 
-## Sverige
-
-GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
-
 <div style=\"page-break-after: always\"></div>
+
+Connecting bar
+
+Neck -
+
+Body -
+
+Tab-
+
+Expiry date: MM-YYYY
+
+## Κύπρος
+
+GlaxoSmithKline Biologicals SA
+
+Τηλ:
+
++357 80070017
 
 ## Latvija
 
 GlaxoSmithKline Biologicals SA
 
 Tel: +371 80205045
+
+oral tube
 
 ## This leaflet was last revised in .
 
@@ -2319,24 +2415,42 @@ Please read the instructions for use all the way through before starting to give
 ## B.  Get the oral tube ready
 
 1.  To separate one oral tube from the others starting at one end:
-- a) Hold the tab of one of the end oral tubes to separate it from the others.
-- b) With your other hand, hold the tab of the oral tube next to it.
-- c) Pull the tab and tear it away from the oral tube next to it.
+- a) Hold the tab of one of the end oral tubes to
 
 <!-- image -->
 
-<!-- image -->
+## Sverige
+
+GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
 
 ## United Kingdom (Northern Ireland)
 
 GlaxoSmithKline Biologicals SA
 
-Tel: +44 (0)800 221 441
-
-customercontactuk@gsk.com
+Tel: +44 (0)800 221 441 customercontactuk@gsk.com
 
 <div style=\"page-break-after: always\"></div>
 
+n
+
+Rotarix
+
+Put back in fridge immediately
+
+Expiry date: MM-YYYY
+
+2°C to 8°C
+
+Rotarix
+
+Twist separate it from the others.
+
+Rotarfa
+
+Rotari
+
+- b) With your other hand, hold the tab of the oral tube next to it.
+- c) Pull the tab and tear it away from the oral tube next to it.
 2.  To open the separated oral tube:
 - d) Keep the separated oral tube held upright.
 - e) Hold the tab of the separated oral tube in one hand and the connecting bar in the other hand. Do not hold the body of the oral tube, you may squeeze out some of the vaccine.
@@ -2355,6 +2469,8 @@ customercontactuk@gsk.com
 
 <!-- image -->
 
+<!-- image -->
+
 ## D. Store remaining doses in the fridge immediately
 
 Unused oral tubes that are still attached to the connecting bar must be put back in the fridge immediately after an oral tube has been used. This is so that the unused oral tubes can be used for the next vaccination.
@@ -2362,3 +2478,25 @@ Unused oral tubes that are still attached to the connecting bar must be put back
 Discard the used oral tubes in approved biological waste containers according to local regulations.
 
 <!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for rotavirus vaccine monovalent (live, oral), the scientific conclusions of PRAC are as follows:
+
+In view of available data on from the literature and spontaneous reports including in some cases a close temporal relationship and in view of a plausible mechanism of action, the PRAC considers a causal relationship between rotavirus vaccine monovalent (live, oral) and anaphylactic reaction is at least a reasonable possibility. The PRAC concluded that the product information of products containing rotavirus vaccine monovalent (live, oral) should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the Marketing Authorisation(s)
+
+On the basis of the scientific conclusions for rotavirus vaccine monovalent (live, oral) the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing rotavirus vaccine monovalent (live, oral) is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

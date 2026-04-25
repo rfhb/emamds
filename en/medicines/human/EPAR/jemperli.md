@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-31 15:10:00
+document_datetime: 2026-04-23 16:16:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jemperli.html
 document_name: jemperli.html
 version: success
-processing_time: 0.1113808
-conversion_datetime: 2026-04-01 12:40:39.384572
+processing_time: 0.1409728
+conversion_datetime: 2026-04-25 16:52:10.260815
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
   docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Jemperli
 
@@ -121,7 +121,7 @@ English (EN) (117.86 KB - PDF)
 
 [View](/en/documents/overview/jemperli-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-191)
+[Other languages (22)](#file-language-dropdown-716)
 
 български (BG) (153.14 KB - PDF)
 
@@ -267,155 +267,155 @@ English (EN) (1.1 MB - PDF)
 
 Jemperli : EPAR - Product information
 
-English (EN) (625.87 KB - PDF)
+English (EN) (782.71 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/en/documents/product-information/jemperli-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-171)
+[Other languages (24)](#file-language-dropdown-738)
 
-български (BG) (717.52 KB - PDF)
+български (BG) (1.02 MB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/bg/documents/product-information/jemperli-epar-product-information_bg.pdf)
 
-español (ES) (675.11 KB - PDF)
+español (ES) (905.13 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/es/documents/product-information/jemperli-epar-product-information_es.pdf)
 
-čeština (CS) (700.12 KB - PDF)
+čeština (CS) (935.04 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/cs/documents/product-information/jemperli-epar-product-information_cs.pdf)
 
-dansk (DA) (623.55 KB - PDF)
+dansk (DA) (849.08 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/da/documents/product-information/jemperli-epar-product-information_da.pdf)
 
-Deutsch (DE) (760.34 KB - PDF)
+Deutsch (DE) (874.31 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/de/documents/product-information/jemperli-epar-product-information_de.pdf)
 
-eesti keel (ET) (594.88 KB - PDF)
+eesti keel (ET) (820.91 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/et/documents/product-information/jemperli-epar-product-information_et.pdf)
 
-ελληνικά (EL) (769.51 KB - PDF)
+ελληνικά (EL) (1006.43 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/el/documents/product-information/jemperli-epar-product-information_el.pdf)
 
-français (FR) (678.36 KB - PDF)
+français (FR) (947.32 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/fr/documents/product-information/jemperli-epar-product-information_fr.pdf)
 
-hrvatski (HR) (685.51 KB - PDF)
+hrvatski (HR) (962.53 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/hr/documents/product-information/jemperli-epar-product-information_hr.pdf)
 
-íslenska (IS) (717.37 KB - PDF)
+íslenska (IS) (990.44 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/is/documents/product-information/jemperli-epar-product-information_is.pdf)
 
-italiano (IT) (644.71 KB - PDF)
+italiano (IT) (916.84 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/it/documents/product-information/jemperli-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (650.22 KB - PDF)
+latviešu valoda (LV) (873.02 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/lv/documents/product-information/jemperli-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (648.41 KB - PDF)
+lietuvių kalba (LT) (903.71 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/lt/documents/product-information/jemperli-epar-product-information_lt.pdf)
 
-magyar (HU) (702.09 KB - PDF)
+magyar (HU) (939.22 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/hu/documents/product-information/jemperli-epar-product-information_hu.pdf)
 
-Malti (MT) (746.35 KB - PDF)
+Malti (MT) (984.62 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/mt/documents/product-information/jemperli-epar-product-information_mt.pdf)
 
-Nederlands (NL) (607.35 KB - PDF)
+Nederlands (NL) (885.95 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/nl/documents/product-information/jemperli-epar-product-information_nl.pdf)
 
-norsk (NO) (621.05 KB - PDF)
+norsk (NO) (857.38 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/no/documents/product-information/jemperli-epar-product-information_no.pdf)
 
-polski (PL) (652.92 KB - PDF)
+polski (PL) (967.59 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/pl/documents/product-information/jemperli-epar-product-information_pl.pdf)
 
-português (PT) (639.5 KB - PDF)
+português (PT) (866.45 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/pt/documents/product-information/jemperli-epar-product-information_pt.pdf)
 
-română (RO) (611.76 KB - PDF)
+română (RO) (842.69 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/ro/documents/product-information/jemperli-epar-product-information_ro.pdf)
 
-slovenčina (SK) (700.25 KB - PDF)
+slovenčina (SK) (971.23 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/sk/documents/product-information/jemperli-epar-product-information_sk.pdf)
 
-slovenščina (SL) (683.54 KB - PDF)
+slovenščina (SL) (956.67 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/sl/documents/product-information/jemperli-epar-product-information_sl.pdf)
 
-Suomi (FI) (607.04 KB - PDF)
+Suomi (FI) (894.66 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/fi/documents/product-information/jemperli-epar-product-information_fi.pdf)
 
-svenska (SV) (614.81 KB - PDF)
+svenska (SV) (848.39 KB - PDF)
 
-**First published:** 03/05/2021 **Last updated:** 31/03/2026
+**First published:** 03/05/2021 **Last updated:** 23/04/2026
 
 [View](/sv/documents/product-information/jemperli-epar-product-information_sv.pdf)
 
@@ -445,7 +445,7 @@ English (EN) (15.23 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jemperli-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-323)
+[Other languages (24)](#file-language-dropdown-811)
 
 български (BG) (35.53 KB - PDF)
 
@@ -637,7 +637,7 @@ Marketing authorisation holder
 
 GlaxoSmithKline Trading Services Limited
 
-12 River Walk Citywest Business Campus Dublin 24 D24 YK11 Ireland
+12 Riverwalk Citywest Business Campus Dublin 24 D24 YK11 Ireland
 
 Opinion adopted
 
@@ -661,9 +661,9 @@ Collapse section
 
 Jemperli : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (170.11 KB - PDF)
+English (EN) (176.41 KB - PDF)
 
-**First published:** 24/06/2025 **Last updated:** 31/03/2026
+**First published:** 24/06/2025 **Last updated:** 23/04/2026
 
 [View](/en/documents/procedural-steps-after/jemperli-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -767,6 +767,6 @@ English (EN) (130.95 KB - PDF)
 
 **This page was last updated on**
 
-31/03/2026
+23/04/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-18 16:42:00
+document_datetime: 2026-04-22 12:24:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/keytruda.html
 document_name: keytruda.html
 version: success
-processing_time: 0.1815909
-conversion_datetime: 2026-03-21 13:23:16.732229
+processing_time: 0.4830663
+conversion_datetime: 2026-04-25 16:40:44.415239
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.81.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.0
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Keytruda
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-pembrolizumab Medicine Human Authorised
+pembrolizumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -61,6 +63,7 @@ Keytruda is a cancer medicine used to treat:
 - triple-negative breast cancer, a type of breast cancer;
 - endometrial carcinoma, a cancer of the lining of the womb;
 - cervical cancer, a cancer of the cervix;
+- epithelial ovarian cancer (cancer that forms in the tissue covering the ovaries), fallopian tube cancer (cancer of the tubes that connect the ovaries to the womb), and primary peritoneal cancer (cancer that forms in the tissue that lines the belly wall and covers organs in the belly);
 - biliary tract cancer, a cancer of the bile ducts (the tubes that carry bile from the liver and gallbladder to the gut or the gallbladder);
 - the following cancers when described as microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR):
     - colorectal cancer, a cancer of the colon or rectum (the lower part of the gut);
@@ -199,6 +202,12 @@ Patients who received Keytruda, together with chemotherapy, with or without anot
 
 A further study involved 1,060 patients with locally advanced cervical cancer who had not previously received any surgery to completely remove the cancer, radiation, or systemic therapy for cervical cancer; 601 of whom had their cancer classified as FIGO 2014 Stage III-IVA (this means the cancer has started to spread to nearby structures like the vagina, bladder or end gut). Patients received either Keytruda with chemoradiotherapy (cisplatin and external radiotherapy followed by brachytherapy, a type of internal radiation therapy) followed by Keytruda alone, or placebo with chemoradiotherapy. The treatment lasted for up to approximately 2 years. In patients with FIGO 2014 stage III-IVA cancer, not enough people had experienced worsening of the disease to allow the average time they lived without their disease getting worse and the time they lived overall to be calculated in either the Keytruda or the placebo group. However, results showed that 15% of patients (43 out of 296) who received Keytruda with chemoradiotherapy had died compared with 24% (73 out of 305) of patients in the placebo group. In addition, 27% (79 out of 296) of patients had experienced worsening of their disease with Keytruda compared with 41% (125 out of 305) of patients who received placebo.
 
+**Ovarian cancer**
+
+A main study showed that Keytruda was more effective than placebo in prolonging the time patients with either epithelial ovarian cancer, fallopian tube cancer or primary peritoneal cancer lived without their cancer getting worse.
+
+The study involved 643 women with epithelial ovarian cancer, fallopian tube cancer or primary peritoneal cancer who had not responded to treatment with one or two previous therapies, including one platinum-based therapy. Keytruda given in combination with paclitaxel, with or without bevacizumab, was compared with placebo given in combination with paclitaxel, with or without bevacizumab. Those who received treatment with Keytruda and whose cancer tested positive for PD-L1 lived without their cancer getting worse for an average of 8.3 months compared with 7.2 months for those given placebo. In addition, those given Keytruda lived on average for 18.2 months compared with 14 months for those given placebo.
+
 **Biliary tract cancer**
 
 In a study in 1,069 patients with locally advanced unresectable or metastatic biliary tract cancer who had not received systemic therapy for their advanced disease before, patients received either Keytruda or placebo, together with gemcitabine and cisplatin. Patients treated with Keytruda lived for 12.7 months on average, compared with 10.9 months for those who received placebo.
@@ -211,11 +220,13 @@ Two additional studies looked at the effect of Keytruda in patients with other M
 
 The proportion of patients whose cancer responded to Keytruda treatment was about 34% in patients with colorectal cancer, 51% in patients with endometrial carcinoma, 37% in patients with gastric cancer, 56% in patients with small intestine cancer and 41% in those with biliary cancer.
 
-## What are the risks associated with Keytruda?
+Studies carried out with Keytruda are described in more detail in the medicine's assessment reports.
+
+## What are the side effects and restrictions with Keytruda?
 
 For the complete list of side effects and restrictions with Keytruda, see the package leaflet.
 
-The side effects with Keytruda are mostly related to the activity of the immune system, which may cause inflammation of body organs and tissues and can be serious, although most side effects resolve with appropriate treatment or on stopping Keytruda. The most common side effects with Keytruda given alone (which may affect more than 1 in 5 people) include tiredness, nausea (feeling sick) and diarrhoea. The most serious adverse reactions were immune reactions and severe reactions related to the infusion.
+The side effects with Keytruda are mostly related to the activity of the immune system, which may cause inflammation of body organs and tissues and can be serious, although most side effects resolve with appropriate treatment or on stopping Keytruda. The most common side effects with Keytruda given alone (which may affect more than 1 in 5 people) include tiredness, nausea (feeling sick) and diarrhoea. The most serious side effects include immune reactions and severe reactions related to the infusion.
 
 In addition, when Keytruda is given as an injection under the skin, reaction at the site of injection may occur.
 
@@ -223,11 +234,11 @@ Additional side effects may occur when Keytruda is used with other cancer medici
 
 ## Why is Keytruda authorised in the EU?
 
-Keytruda is effective at improving the survival or delaying the worsening of disease in patients with advanced cancers or cancers that have spread or come back or cannot be removed surgically. In some patients, tumours have to produce a certain level of PD-L1 or have to be determined as being MSI-H or dMMR for the medicine to be effective.
+Keytruda is effective at improving the survival or delaying the worsening of disease in patients with advanced cancers or cancers that have spread or come back or cannot be removed by surgery. In some patients, tumours have to produce a certain level of PD-L1 or have to be determined as being MSI-H or dMMR for the medicine to be effective.
 
 Keytruda is also effective in preventing melanoma, NSCLC or kidney cancer from coming back in patients who have had surgery, and improves the outcome in patients with triple-negative breast cancer, NSCLC or HNSCC when given before and after surgery.
 
-The benefits of Keytruda when added to chemotherapy were also shown to outweigh the risks in adults with non-epithelioid malignant pleural mesothelioma.
+The benefits of Keytruda when added to chemotherapy were also shown to outweigh the risks in adults with non-epithelioid malignant pleural mesothelioma as well as certain forms of ovarian cancer.
 
 The side effects of Keytruda are manageable and are similar to those of various other cancer treatments.
 
@@ -237,7 +248,7 @@ The European Medicines Agency decided that Keytruda's benefits are greater than 
 
 The company that markets Keytruda will provide patients with an alert card to inform them about the risks of potential immune-related side effects and to give instructions on when to contact their doctor if they experience symptoms.
 
-In addition, the company must provide the results of studies with Keytruda to confirm its benefits, including in the long-term, in the treatment of melanoma in adults and adolescents aged 12 years and older, as well as in the treatment of Hodgkin lymphoma and NSCLC in adults.
+In addition, the company must provide the results of studies with Keytruda to confirm its benefits, including in the long term, in the treatment of melanoma in adults and adolescents aged 12 years and older, as well as in the treatment of Hodgkin lymphoma and NSCLC in adults.
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Keytruda have also been included in the summary of product characteristics and the package leaflet.
 
@@ -251,287 +262,151 @@ Keytruda : EPAR - Medicine overview
 
 Reference Number: EMA/99022/2025
 
-English (EN) (185.9 KB - PDF)
+English (EN) (200 KB - PDF)
 
-**First published:** 30/07/2015
-
-**Last updated:** 03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/en/documents/overview/keytruda-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-407)
+[Other languages (22)](#file-language-dropdown-222)
 
-български (BG) (212.89 KB - PDF)
+български (BG) (225.58 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/bg/documents/overview/keytruda-epar-medicine-overview_bg.pdf)
 
-español (ES) (180.12 KB - PDF)
+español (ES) (192.11 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/es/documents/overview/keytruda-epar-medicine-overview_es.pdf)
 
-čeština (CS) (219.95 KB - PDF)
+čeština (CS) (228.88 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/cs/documents/overview/keytruda-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (171.7 KB - PDF)
+dansk (DA) (193.42 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/da/documents/overview/keytruda-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (184.87 KB - PDF)
+Deutsch (DE) (200.25 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/de/documents/overview/keytruda-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (200.77 KB - PDF)
+eesti keel (ET) (209.62 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/et/documents/overview/keytruda-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (214.78 KB - PDF)
+ελληνικά (EL) (230.16 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/el/documents/overview/keytruda-epar-medicine-overview_el.pdf)
 
-français (FR) (184.75 KB - PDF)
+français (FR) (196.43 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/fr/documents/overview/keytruda-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (214.42 KB - PDF)
+hrvatski (HR) (218.31 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/hr/documents/overview/keytruda-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (177.57 KB - PDF)
+italiano (IT) (188.69 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/it/documents/overview/keytruda-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (221.15 KB - PDF)
+latviešu valoda (LV) (208.99 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/lv/documents/overview/keytruda-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (214.11 KB - PDF)
+lietuvių kalba (LT) (216.21 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/lt/documents/overview/keytruda-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (218.57 KB - PDF)
+magyar (HU) (222.54 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/hu/documents/overview/keytruda-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (215.73 KB - PDF)
+Malti (MT) (224.44 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/mt/documents/overview/keytruda-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (176.68 KB - PDF)
+Nederlands (NL) (200.83 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/nl/documents/overview/keytruda-epar-medicine-overview_nl.pdf)
 
-polski (PL) (214.34 KB - PDF)
+polski (PL) (233.86 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/pl/documents/overview/keytruda-epar-medicine-overview_pl.pdf)
 
-português (PT) (178.95 KB - PDF)
+português (PT) (191.14 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/pt/documents/overview/keytruda-epar-medicine-overview_pt.pdf)
 
-română (RO) (209.43 KB - PDF)
+română (RO) (211.06 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/ro/documents/overview/keytruda-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (215.82 KB - PDF)
+slovenčina (SK) (222.25 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/sk/documents/overview/keytruda-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (214.84 KB - PDF)
+slovenščina (SL) (219.87 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/sl/documents/overview/keytruda-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (174.41 KB - PDF)
+Suomi (FI) (183.82 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/fi/documents/overview/keytruda-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (175.93 KB - PDF)
+svenska (SV) (188.01 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/sv/documents/overview/keytruda-epar-medicine-overview_sv.pdf)
 
 Keytruda : EPAR - Risk management plan
 
-English (EN) (1.83 MB - PDF)
+English (EN) (1.75 MB - PDF)
 
-**First published:** 30/07/2015
-
-**Last updated:** 03/12/2025
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/en/documents/rmp/keytruda-epar-risk-management-plan_en.pdf)
 
@@ -539,293 +414,161 @@ English (EN) (1.83 MB - PDF)
 
 Keytruda : EPAR - Product information
 
-English (EN) (6.19 MB - PDF)
+English (EN) (6.27 MB - PDF)
 
-**First published:** 30/07/2015
-
-**Last updated:** 18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/en/documents/product-information/keytruda-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-990)
+[Other languages (24)](#file-language-dropdown-55)
 
-български (BG) (7.37 MB - PDF)
+български (BG) (13.24 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/bg/documents/product-information/keytruda-epar-product-information_bg.pdf)
 
-español (ES) (8.9 MB - PDF)
+español (ES) (7.26 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/es/documents/product-information/keytruda-epar-product-information_es.pdf)
 
-čeština (CS) (6.75 MB - PDF)
+čeština (CS) (9.01 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/cs/documents/product-information/keytruda-epar-product-information_cs.pdf)
 
-dansk (DA) (6.2 MB - PDF)
+dansk (DA) (5.91 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/da/documents/product-information/keytruda-epar-product-information_da.pdf)
 
-Deutsch (DE) (12.72 MB - PDF)
+Deutsch (DE) (9.42 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/de/documents/product-information/keytruda-epar-product-information_de.pdf)
 
-eesti keel (ET) (7.36 MB - PDF)
+eesti keel (ET) (6.68 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/et/documents/product-information/keytruda-epar-product-information_et.pdf)
 
-ελληνικά (EL) (5.97 MB - PDF)
+ελληνικά (EL) (8.97 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/el/documents/product-information/keytruda-epar-product-information_el.pdf)
 
-français (FR) (6.84 MB - PDF)
+français (FR) (7.47 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/fr/documents/product-information/keytruda-epar-product-information_fr.pdf)
 
-íslenska (IS) (9.45 MB - PDF)
+hrvatski (HR) (7.11 MB - PDF)
 
-**First published:**
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
-30/07/2015
+[View](/hr/documents/product-information/keytruda-epar-product-information_hr.pdf)
 
-**Last updated:**
+íslenska (IS) (7.23 MB - PDF)
 
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/is/documents/product-information/keytruda-epar-product-information_is.pdf)
 
-italiano (IT) (7.3 MB - PDF)
+italiano (IT) (6.8 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/it/documents/product-information/keytruda-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (7.01 MB - PDF)
+latviešu valoda (LV) (9.87 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/lv/documents/product-information/keytruda-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (6.47 MB - PDF)
+lietuvių kalba (LT) (9.43 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/lt/documents/product-information/keytruda-epar-product-information_lt.pdf)
 
-magyar (HU) (6.52 MB - PDF)
+magyar (HU) (8.31 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/hu/documents/product-information/keytruda-epar-product-information_hu.pdf)
 
-Malti (MT) (6.57 MB - PDF)
+Malti (MT) (9.27 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/mt/documents/product-information/keytruda-epar-product-information_mt.pdf)
 
-Nederlands (NL) (7.11 MB - PDF)
+Nederlands (NL) (6.83 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/nl/documents/product-information/keytruda-epar-product-information_nl.pdf)
 
-norsk (NO) (8.16 MB - PDF)
+norsk (NO) (6.46 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/no/documents/product-information/keytruda-epar-product-information_no.pdf)
 
-polski (PL) (7.16 MB - PDF)
+polski (PL) (8.6 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/pl/documents/product-information/keytruda-epar-product-information_pl.pdf)
 
-português (PT) (6.96 MB - PDF)
+português (PT) (6.38 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/pt/documents/product-information/keytruda-epar-product-information_pt.pdf)
 
-română (RO) (6.8 MB - PDF)
+română (RO) (8.81 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/ro/documents/product-information/keytruda-epar-product-information_ro.pdf)
 
-slovenčina (SK) (6.96 MB - PDF)
+slovenčina (SK) (9.76 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/sk/documents/product-information/keytruda-epar-product-information_sk.pdf)
 
-slovenščina (SL) (6.17 MB - PDF)
+slovenščina (SL) (7.81 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/sl/documents/product-information/keytruda-epar-product-information_sl.pdf)
 
-Suomi (FI) (7.2 MB - PDF)
+Suomi (FI) (6.57 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/fi/documents/product-information/keytruda-epar-product-information_fi.pdf)
 
-svenska (SV) (6.32 MB - PDF)
+svenska (SV) (6.16 MB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 30/07/2015 **Last updated:** 22/04/2026
 
 [View](/sv/documents/product-information/keytruda-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000332176 18/03/2026
+**Latest procedure affecting product information:** VR/0000293815
+
+30/03/2026
 
 icon globe
 
@@ -845,305 +588,171 @@ Keytruda : EPAR - All Authorised presentations
 
 English (EN) (17.37 KB - PDF)
 
-**First published:** 30/07/2015
-
-**Last updated:** 03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/en/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-698)
+[Other languages (24)](#file-language-dropdown-608)
 
 български (BG) (24.69 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/bg/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (17.21 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/es/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (27.4 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/cs/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (18.49 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/da/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (17.98 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/de/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (17.16 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/et/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (24.36 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/el/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (20.31 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/fr/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (24.4 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/hr/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (18.14 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/is/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (16.48 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/it/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (26.93 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/lv/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (23.9 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/lt/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (21.99 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/hu/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (26.23 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/mt/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (16.37 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/nl/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (17.22 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/no/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (26.62 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/pl/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (18.4 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/pt/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (25.71 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/ro/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (25.15 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/sk/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (20.27 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/sl/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (15.44 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/fi/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (18.1 KB - PDF)
 
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
+**First published:** 30/07/2015 **Last updated:** 03/12/2025
 
 [View](/sv/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Keytruda Active substance pembrolizumab International non-proprietary name (INN) or common name pembrolizumab Therapeutic area (MeSH)
+Name of medicine
+
+Keytruda
+
+Active substance
+
+pembrolizumab
+
+International non-proprietary name (INN) or common name
+
+pembrolizumab
+
+Therapeutic area (MeSH)
 
 - Melanoma
 - Hodgkin Disease
@@ -1154,7 +763,9 @@ Name of medicine Keytruda Active substance pembrolizumab International non-propr
 - Urologic Neoplasms
 - Endometrial Neoplasms
 
-Anatomical therapeutic chemical (ATC) code L01FF02
+Anatomical therapeutic chemical (ATC) code
+
+L01FF02
 
 ### Pharmacotherapeutic group
 
@@ -1254,15 +865,33 @@ Keytruda, in combination with fluoropyrimidine and platinum-containing chemother
 
 Keytruda, in combination with gemcitabine and cisplatin, is indicated for the first-line treatment of locally advanced unresectable or metastatic biliary tract carcinoma in adults.
 
+**Ovarian Cancer**
+
+Keytruda, in combination with paclitaxel, with or without bevacizumab, is indicated for the treatment of platinum-resistant epithelial ovarian, fallopian tube, or primary peritoneal carcinoma in adults whose tumours express PD-L1 with a CPS ≥ 1 and who have received one or two prior systemic treatment regimens.
+
 ## Authorisation details
 
-EMA product number EMEA/H/C/003820 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/003820
+
+Marketing authorisation holder
 
 Merck Sharp &amp; Dohme B.V.
 
 Waarderweg 39
 
-Opinion adopted 20/05/2015 Marketing authorisation issued 17/07/2015 Revision 69
+Opinion adopted
+
+20/05/2015
+
+Marketing authorisation issued
+
+17/07/2015
+
+Revision
+
+70
 
 ## Assessment history
 
@@ -1274,11 +903,9 @@ Collapse section
 
 Keytruda : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (184.67 KB - PDF)
+English (EN) (198.6 KB - PDF)
 
-**First published:** 14/08/2025
-
-**Last updated:** 18/03/2026
+**First published:** 14/08/2025 **Last updated:** 22/04/2026
 
 [View](/en/documents/procedural-steps-after/keytruda-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1286,17 +913,33 @@ Keytruda : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (530.94 KB - PDF)
 
-**First published:** 29/03/2016
-
-**Last updated:** 14/08/2025
+**First published:** 29/03/2016 **Last updated:** 14/08/2025
 
 [View](/en/documents/procedural-steps-after/keytruda-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Keytruda-VR-0000293815 : EPAR - Assessment report - Variation
+
+Reference Number: EMADOC-1700519818-2758954
+
+English (EN) (12.91 MB - PDF)
+
+**First published:** 22/04/2026
+
+[View](/en/documents/variation-report/keytruda-vr-0000293815-epar-assessment-report-variation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Keytruda (VR-0000293815)
+
+Adopted Reference Number: EMADOC-1700519818-2908250
+
+English (EN) (180.01 KB - PDF)
+
+**First published:** 27/02/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-keytruda-vr-0000293815_en.pdf)
+
 Keytruda-X-0000248795 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2228659
+Adopted Reference Number: EMADOC-1700519818-2228659
 
 English (EN) (8.39 MB - PDF)
 
@@ -1306,9 +949,7 @@ English (EN) (8.39 MB - PDF)
 
 Keytruda-VR-0000245108 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2242654
+Adopted Reference Number: EMADOC-1700519818-2242654
 
 English (EN) (9.58 MB - PDF)
 
@@ -1318,9 +959,7 @@ English (EN) (9.58 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (EMAVR0000245108)
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2436387
+Adopted Reference Number: EMADOC-1700519818-2436387
 
 English (EN) (178.95 KB - PDF)
 
@@ -1330,9 +969,7 @@ English (EN) (178.95 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (EMAX0000248795)
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2436470
+Adopted Reference Number: EMADOC-1700519818-2436470
 
 English (EN) (174.7 KB - PDF)
 
@@ -1352,23 +989,17 @@ English (EN) (150.6 KB - PDF)
 
 Keytruda-H-C-003820-II-0154 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/507869/2024
+Adopted Reference Number: EMA/CHMP/507869/2024
 
 English (EN) (8.56 MB - PDF)
 
-**First published:** 16/04/2025
-
-**Last updated:** 27/11/2025
+**First published:** 16/04/2025 **Last updated:** 27/11/2025
 
 [View](/en/documents/variation-report/keytruda-h-c-003820-ii-0154-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Keytruda
 
-Adopted
-
-Reference Number: EMA/60149/2025
+Adopted Reference Number: EMA/60149/2025
 
 English (EN) (198.4 KB - PDF)
 
@@ -1378,15 +1009,11 @@ English (EN) (198.4 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (II-154)
 
-Adopted
-
-Reference Number: EMA/CHMP/526175/2024
+Adopted Reference Number: EMA/CHMP/526175/2024
 
 English (EN) (203.74 KB - PDF)
 
-**First published:** 15/11/2024
-
-**Last updated:** 20/11/2024
+**First published:** 15/11/2024 **Last updated:** 20/11/2024
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-keytruda-ii-154_en.pdf)
 
@@ -1402,9 +1029,7 @@ English (EN) (11.88 MB - PDF)
 
 Keytruda-H-C-003820-II-0145 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/480904/2024
+Adopted Reference Number: EMA/480904/2024
 
 English (EN) (6.05 MB - PDF)
 
@@ -1414,9 +1039,7 @@ English (EN) (6.05 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (II-153)
 
-Adopted
-
-Reference Number: EMA/CHMP/413921/2024
+Adopted Reference Number: EMA/CHMP/413921/2024
 
 English (EN) (190.7 KB - PDF)
 
@@ -1426,9 +1049,7 @@ English (EN) (190.7 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (II-145)
 
-Adopted
-
-Reference Number: EMA/CHMP/417252/2024
+Adopted Reference Number: EMA/CHMP/417252/2024
 
 English (EN) (180.13 KB - PDF)
 
@@ -1448,9 +1069,7 @@ English (EN) (6.66 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (II-150)
 
-Adopted
-
-Reference Number: EMA/CHMP/310413/2024
+Adopted Reference Number: EMA/CHMP/310413/2024
 
 English (EN) (141.94 KB - PDF)
 
@@ -1460,9 +1079,7 @@ English (EN) (141.94 KB - PDF)
 
 Keytruda-EMEA-H-C-003820-II-0134 : EPAR - Assessment report - variation
 
-Adopted
-
-Reference Number: EMA/118494/2024
+Adopted Reference Number: EMA/118494/2024
 
 English (EN) (8.31 MB - PDF)
 
@@ -1472,9 +1089,7 @@ English (EN) (8.31 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (II-134)
 
-Adopted
-
-Reference Number: EMA/CHMP/58279/2024
+Adopted Reference Number: EMA/CHMP/58279/2024
 
 English (EN) (192.6 KB - PDF)
 
@@ -1504,9 +1119,7 @@ English (EN) (9.16 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (II-138)
 
-Adopted
-
-Reference Number: EMA/CHMP/492420/2023
+Adopted Reference Number: EMA/CHMP/492420/2023
 
 English (EN) (148.34 KB - PDF)
 
@@ -1516,9 +1129,7 @@ English (EN) (148.34 KB - PDF)
 
 Keytruda-H-C-003820-II-0121 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/451876/2023
+Adopted Reference Number: EMA/451876/2023
 
 English (EN) (12.57 MB - PDF)
 
@@ -1528,9 +1139,7 @@ English (EN) (12.57 MB - PDF)
 
 Keytruda-H-C-003820-II-0133 : EPAR - Assessment report - variation
 
-Adopted
-
-Reference Number: EMA/359366/2023
+Adopted Reference Number: EMA/359366/2023
 
 English (EN) (10.73 MB - PDF)
 
@@ -1540,9 +1149,7 @@ English (EN) (10.73 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (II-133)
 
-Adopted
-
-Reference Number: EMA/CHMP/287639/2023
+Adopted Reference Number: EMA/CHMP/287639/2023
 
 English (EN) (174.81 KB - PDF)
 
@@ -1552,9 +1159,7 @@ English (EN) (174.81 KB - PDF)
 
 Keytruda-H-C-003820-II-0111 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/574905/2022
+Adopted Reference Number: EMA/574905/2022
 
 English (EN) (8.64 MB - PDF)
 
@@ -1574,9 +1179,7 @@ English (EN) (131.26 KB - PDF)
 
 Keytruda-H-C-003820-II-0110 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/257879/2022
+Adopted Reference Number: EMA/257879/2022
 
 English (EN) (10.75 MB - PDF)
 
@@ -1586,9 +1189,7 @@ English (EN) (10.75 MB - PDF)
 
 CHMP post-authorisation summary of opinion for Keytruda (II-111)
 
-Adopted
-
-Reference Number: EMA/CHMP/237136/2022
+Adopted Reference Number: EMA/CHMP/237136/2022
 
 English (EN) (190.74 KB - PDF)
 
@@ -1598,9 +1199,7 @@ English (EN) (190.74 KB - PDF)
 
 Keytruda-H-C-003820-II-0117 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/224169/2022
+Adopted Reference Number: EMA/224169/2022
 
 English (EN) (15.79 MB - PDF)
 
@@ -1610,9 +1209,7 @@ English (EN) (15.79 MB - PDF)
 
 Keytruda-H-C-003820-II-0109 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/224161/2022
+Adopted Reference Number: EMA/224161/2022
 
 English (EN) (10.48 MB - PDF)
 
@@ -1622,9 +1219,7 @@ English (EN) (10.48 MB - PDF)
 
 CHMP post-authorisation summary of opinion for Keytruda (II-110)
 
-Adopted
-
-Reference Number: EMA/CHMP/203854/2022
+Adopted Reference Number: EMA/CHMP/203854/2022
 
 English (EN) (161.18 KB - PDF)
 
@@ -1644,9 +1239,7 @@ English (EN) (170.23 KB - PDF)
 
 Keytruda-H-C-003820-II-0108 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/33031/2022
+Adopted Reference Number: EMA/33031/2022
 
 English (EN) (11.05 MB - PDF)
 
@@ -1656,9 +1249,7 @@ English (EN) (11.05 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Keytruda  (II-108)
 
-Adopted
-
-Reference Number: EMA/702822/2021
+Adopted Reference Number: EMA/702822/2021
 
 English (EN) (168.01 KB - PDF)
 
@@ -1668,9 +1259,7 @@ English (EN) (168.01 KB - PDF)
 
 Keytruda-H-C-003820-II-0104 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/621567/2021
+Adopted Reference Number: EMA/621567/2021
 
 English (EN) (5.6 MB - PDF)
 
@@ -1680,9 +1269,7 @@ English (EN) (5.6 MB - PDF)
 
 Keytruda-H-C-003820-II-0105 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/617606/2021
+Adopted Reference Number: EMA/617606/2021
 
 English (EN) (17.5 MB - PDF)
 
@@ -1692,9 +1279,7 @@ English (EN) (17.5 MB - PDF)
 
 Keytruda-H-C-3820-II-0099: EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/563896/2021
+Adopted Reference Number: EMA/CHMP/563896/2021
 
 English (EN) (14.2 MB - PDF)
 
@@ -1704,9 +1289,7 @@ English (EN) (14.2 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (II-104, II-105)
 
-Adopted
-
-Reference Number: EMA/CHMP/552097/2021
+Adopted Reference Number: EMA/CHMP/552097/2021
 
 English (EN) (168.29 KB - PDF)
 
@@ -1716,9 +1299,7 @@ English (EN) (168.29 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (II-99)
 
-Adopted
-
-Reference Number: EMA/CHMP/510671/2021
+Adopted Reference Number: EMA/CHMP/510671/2021
 
 English (EN) (189.62 KB - PDF)
 
@@ -1728,9 +1309,7 @@ English (EN) (189.62 KB - PDF)
 
 Keytruda-H-C-3820-II-0097: EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/331504/2021
+Adopted Reference Number: EMA/331504/2021
 
 English (EN) (13.11 MB - PDF)
 
@@ -1740,9 +1319,7 @@ English (EN) (13.11 MB - PDF)
 
 Keytruda-H-C-PSUSA-00010403-202009 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/285950/2021
+Adopted Reference Number: EMA/285950/2021
 
 English (EN) (125.54 KB - PDF)
 
@@ -1752,9 +1329,7 @@ English (EN) (125.54 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (II-97)
 
-Adopted
-
-Reference Number: EMA/262267/2021
+Adopted Reference Number: EMA/262267/2021
 
 English (EN) (160.46 KB - PDF)
 
@@ -1764,9 +1339,7 @@ English (EN) (160.46 KB - PDF)
 
 Keytruda-H-C-3820-II-0052: EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/168468/2021
+Adopted Reference Number: EMA/168468/2021
 
 English (EN) (809.17 KB - PDF)
 
@@ -1776,23 +1349,17 @@ English (EN) (809.17 KB - PDF)
 
 Keytruda-H-C-3820-II-0090: EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/97222/2021
+Adopted Reference Number: EMA/97222/2021
 
 English (EN) (13.24 MB - PDF)
 
-**First published:** 15/03/2021
-
-**Last updated:** 15/03/2021
+**First published:** 15/03/2021 **Last updated:** 15/03/2021
 
 [View](/en/documents/variation-report/keytruda-h-c-3820-ii-0090-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (II-90)
 
-Adopted
-
-Reference Number: EMA/CHMP/39064/2021
+Adopted Reference Number: EMA/CHMP/39064/2021
 
 English (EN) (169.89 KB - PDF)
 
@@ -1802,9 +1369,7 @@ English (EN) (169.89 KB - PDF)
 
 Keytruda-H-C-3820-II-0091 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/33664/2021
+Adopted Reference Number: EMA/CHMP/33664/2021
 
 English (EN) (5.5 MB - PDF)
 
@@ -1814,9 +1379,7 @@ English (EN) (5.5 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (II-91)
 
-Adopted
-
-Reference Number: EMA/CHMP/646079/2020
+Adopted Reference Number: EMA/CHMP/646079/2020
 
 English (EN) (165.24 KB - PDF)
 
@@ -1826,9 +1389,7 @@ English (EN) (165.24 KB - PDF)
 
 Keytruda-H-C-3820-II-0057 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/299815/2020
+Adopted Reference Number: EMA/CHMP/299815/2020
 
 English (EN) (7.66 MB - PDF)
 
@@ -1848,23 +1409,17 @@ English (EN) (150.21 KB - PDF)
 
 Keytruda-H-C-3820-II-0065 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/591139/2019 corr.
+Adopted Reference Number: EMA/CHMP/591139/2019 corr.
 
 English (EN) (7.51 MB - PDF)
 
-**First published:** 20/11/2019
-
-**Last updated:** 04/04/2024
+**First published:** 20/11/2019 **Last updated:** 04/04/2024
 
 [View](/en/documents/variation-report/keytruda-h-c-3820-ii-0065-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (II-65)
 
-Adopted
-
-Reference Number: EMA/CHMP/473502/2019
+Adopted Reference Number: EMA/CHMP/473502/2019
 
 English (EN) (148.78 KB - PDF)
 
@@ -1874,9 +1429,7 @@ English (EN) (148.78 KB - PDF)
 
 Keytruda-H-C-3820-II-0069 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/455620/2019
+Adopted Reference Number: EMA/CHMP/455620/2019
 
 English (EN) (12.25 MB - PDF)
 
@@ -1896,9 +1449,7 @@ English (EN) (106.32 KB - PDF)
 
 Keytruda-H-C-3820-II-0071 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/424195/2019
+Adopted Reference Number: EMA/CHMP/424195/2019
 
 English (EN) (2.35 MB - PDF)
 
@@ -1908,9 +1459,7 @@ English (EN) (2.35 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (II-69)
 
-Adopted
-
-Reference Number: EMA/CHMP/346038/2019
+Adopted Reference Number: EMA/CHMP/346038/2019
 
 English (EN) (142.59 KB - PDF)
 
@@ -1930,9 +1479,7 @@ English (EN) (122.05 KB - PDF)
 
 Keytruda-H-C-3820-II-0060: EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/223846/2019
+Adopted Reference Number: EMA/223846/2019
 
 English (EN) (7.98 MB - PDF)
 
@@ -1950,9 +1497,7 @@ English (EN) (66.33 KB - PDF)
 
 Keytruda-H-C-3820-II-0047 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/800978/2018
+Adopted Reference Number: EMA/800978/2018
 
 English (EN) (4.15 MB - PDF)
 
@@ -1962,9 +1507,7 @@ English (EN) (4.15 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (II-60)
 
-Adopted
-
-Reference Number: EMA/CHMP/75264/2019
+Adopted Reference Number: EMA/CHMP/75264/2019
 
 English (EN) (87.01 KB - PDF)
 
@@ -1974,23 +1517,17 @@ English (EN) (87.01 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Keytruda (II-47)
 
-Adopted
-
-Reference Number: EMA/CHMP/706955/2018
+Adopted Reference Number: EMA/CHMP/706955/2018
 
 English (EN) (94.55 KB - PDF)
 
-**First published:** 19/10/2018
-
-**Last updated:** 31/10/2018
+**First published:** 19/10/2018 **Last updated:** 31/10/2018
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-keytruda-ii-47_en.pdf)
 
 Keytruda-H-C-3820-II-0043 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/548820/2018
+Adopted Reference Number: EMA/548820/2018
 
 English (EN) (5.12 MB - PDF)
 
@@ -2000,15 +1537,11 @@ English (EN) (5.12 MB - PDF)
 
 Keytruda-H-C-3820-II-0042 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/543713/2018/corr.
+Adopted Reference Number: EMA/543713/2018/corr.
 
 English (EN) (7.26 MB - PDF)
 
-**First published:** 10/10/2018
-
-**Last updated:** 04/11/2022
+**First published:** 10/10/2018 **Last updated:** 04/11/2022
 
 [View](/en/documents/variation-report/keytruda-h-c-3820-ii-0042-epar-assessment-report-variation_en.pdf)
 
@@ -2018,23 +1551,17 @@ Reference Number: EMA/12742/2018
 
 English (EN) (67.69 KB - PDF)
 
-**First published:** 16/01/2018
-
-**Last updated:** 16/01/2018
+**First published:** 16/01/2018 **Last updated:** 16/01/2018
 
 [View](/en/documents/scientific-conclusion/keytruda-h-c-psusa-00010403-201703-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Keytruda-H-C-2830-II-0023-G : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/512404/2017
+Adopted Reference Number: EMA/512404/2017
 
 English (EN) (6.22 MB - PDF)
 
-**First published:** 12/10/2017
-
-**Last updated:** 12/10/2017
+**First published:** 12/10/2017 **Last updated:** 12/10/2017
 
 [View](/en/documents/variation-report/keytruda-h-c-2830-ii-0023-g-epar-assessment-report-variation_en.pdf)
 
@@ -2044,23 +1571,17 @@ Reference Number: EMA/394476/2017
 
 English (EN) (106.56 KB - PDF)
 
-**First published:** 02/08/2017
-
-**Last updated:** 02/08/2017
+**First published:** 02/08/2017 **Last updated:** 02/08/2017
 
 [View](/en/documents/scientific-conclusion/keytruda-h-c-psusa-00010403-201609-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Keytruda
 
-Adopted
-
-Reference Number: EMA/CHMP/428392/2017
+Adopted Reference Number: EMA/CHMP/428392/2017
 
 English (EN) (92.1 KB - PDF)
 
-**First published:** 21/07/2017
-
-**Last updated:** 21/07/2017
+**First published:** 21/07/2017 **Last updated:** 21/07/2017
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-keytruda_en.pdf)
 
@@ -2070,9 +1591,7 @@ Reference Number: EMA/252426/2017
 
 English (EN) (4.74 MB - PDF)
 
-**First published:** 22/05/2017
-
-**Last updated:** 22/05/2017
+**First published:** 22/05/2017 **Last updated:** 22/05/2017
 
 [View](/en/documents/variation-report/keytruda-h-c-3820-ii-0014-epar-assessment-report-variation_en.pdf)
 
@@ -2082,9 +1601,7 @@ Reference Number: EMA/CHMP/162113/2017
 
 English (EN) (91.29 KB - PDF)
 
-**First published:** 24/03/2017
-
-**Last updated:** 24/03/2017
+**First published:** 24/03/2017 **Last updated:** 24/03/2017
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-keytruda-ii-0014_en.pdf)
 
@@ -2092,65 +1609,47 @@ Keytruda-H-C-3820-II-0011 : EPAR - Assessment Report - Variation
 
 English (EN) (4.04 MB - PDF)
 
-**First published:** 02/03/2017
-
-**Last updated:** 02/03/2017
+**First published:** 02/03/2017 **Last updated:** 02/03/2017
 
 [View](/en/documents/variation-report/keytruda-h-c-3820-ii-0011-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Keytruda
 
-Adopted
-
-Reference Number: EMA/CHMP/849400/2016
+Adopted Reference Number: EMA/CHMP/849400/2016
 
 English (EN) (75.88 KB - PDF)
 
-**First published:** 16/12/2016
-
-**Last updated:** 16/12/2016
+**First published:** 16/12/2016 **Last updated:** 16/12/2016
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-keytruda_en.pdf-0)
 
 Keytruda-H-C-3820-P46-009 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/637356/2016
+Adopted Reference Number: EMA/CHMP/637356/2016
 
 English (EN) (294.47 KB - PDF)
 
-**First published:** 15/11/2016
-
-**Last updated:** 15/11/2016
+**First published:** 15/11/2016 **Last updated:** 15/11/2016
 
 [View](/en/documents/variation-report/keytruda-h-c-3820-p46-009-epar-assessment-report_en.pdf)
 
 Keytruda-H-C-3820-II-0007 : EPAR - Assessment Report - Extension
 
-Adopted
-
-Reference Number: EMA/546566/2016
+Adopted Reference Number: EMA/546566/2016
 
 English (EN) (6.71 MB - PDF)
 
-**First published:** 15/08/2016
-
-**Last updated:** 15/08/2016
+**First published:** 15/08/2016 **Last updated:** 15/08/2016
 
 [View](/en/documents/variation-report/keytruda-h-c-3820-ii-0007-epar-assessment-report-extension_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Keytruda
 
-Adopted
-
-Reference Number: EMA/CHMP/406390/2016
+Adopted Reference Number: EMA/CHMP/406390/2016
 
 English (EN) (68.08 KB - PDF)
 
-**First published:** 24/06/2016
-
-**Last updated:** 24/06/2016
+**First published:** 24/06/2016 **Last updated:** 24/06/2016
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-keytruda_en.pdf-1)
 
@@ -2158,105 +1657,169 @@ English (EN) (68.08 KB - PDF)
 
 Keytruda : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/444458/2015 Rev. 1
+Adopted Reference Number: EMA/444458/2015 Rev. 1
 
 English (EN) (5.82 MB - PDF)
 
-**First published:** 30/07/2015
-
-**Last updated:** 13/10/2017
+**First published:** 30/07/2015 **Last updated:** 13/10/2017
 
 [View](/en/documents/assessment-report/keytruda-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Keytruda
 
-Adopted
-
-Reference Number: EMA/CHMP/298313/2015
+Adopted Reference Number: EMA/CHMP/298313/2015
 
 English (EN) (69.01 KB - PDF)
 
-**First published:** 22/05/2015
-
-**Last updated:** 22/05/2015
+**First published:** 22/05/2015 **Last updated:** 22/05/2015
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-keytruda_en.pdf)
 
 ## News on Keytruda
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 February 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-february-2026) 27/02/2026
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 February 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-february-2026)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 September 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-september-2025) 19/09/2025
+27/02/2026
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025) 28/02/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 September 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-september-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2024) 13/12/2024
+19/09/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2024) 15/11/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2024) 20/09/2024
+28/02/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2024) 26/07/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 February 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-february-2024) 23/02/2024
+13/12/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 6-9 November 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-6-9-november-2023) 10/11/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 October 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-october-2023) 13/10/2023
+15/11/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 September 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-september-2023) 15/09/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2023) 21/07/2023
+20/09/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 May 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-may-2022) 20/05/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 April 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-april-2022) 22/04/2022
+26/07/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 March 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-march-2022) 25/03/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 February 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-february-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 December 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-december-2021) 17/12/2021
+23/02/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 October 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-october-2021) 15/10/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 6-9 November 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-6-9-november-2023)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 September 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-september-2021) 17/09/2021
+10/11/2023
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-29 January 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-29-january-2021) 29/01/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 October 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-october-2023)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 December 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-december-2020) 11/12/2020
+13/10/2023
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-30 April 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-30-april-2020) 30/04/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 September 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-september-2023)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2020) 31/01/2020
+15/09/2023
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 October 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-october-2019) 18/10/2019
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2023)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2019) 26/07/2019
+21/07/2023
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-31 January 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-31-january-2019) 01/02/2019
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 May 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-may-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 October 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-october-2018) 19/10/2018
+20/05/2022
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018) 27/07/2018
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 April 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-april-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-31 May 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-31-may-2018) 01/06/2018
+22/04/2022
 
-[EMA restricts use of Keytruda and Tecentriq in bladder cancer](/en/news/ema-restricts-use-keytruda-tecentriq-bladder-cancer) 01/06/2018
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 March 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-march-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 6-9 November 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-6-9-november-2017) 10/11/2017
+25/03/2022
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2017) 21/07/2017
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 December 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-december-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 March 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-march-2017) 24/03/2017
+17/12/2021
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2016) 16/12/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 October 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-october-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 June 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-june-2016) 24/06/2016
+15/10/2021
 
-[New treatment option recommended for patients with advanced melanoma](/en/news/new-treatment-option-recommended-patients-advanced-melanoma) 22/05/2015
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 September 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-september-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 May 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-may-2015) 22/05/2015
+17/09/2021
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-29 January 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-29-january-2021)
+
+29/01/2021
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 December 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-december-2020)
+
+11/12/2020
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-30 April 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-30-april-2020)
+
+30/04/2020
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2020)
+
+31/01/2020
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 October 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-october-2019)
+
+18/10/2019
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2019)
+
+26/07/2019
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-31 January 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-31-january-2019)
+
+01/02/2019
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 October 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-october-2018)
+
+19/10/2018
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018)
+
+27/07/2018
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-31 May 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-31-may-2018)
+
+01/06/2018
+
+[EMA restricts use of Keytruda and Tecentriq in bladder cancer](/en/news/ema-restricts-use-keytruda-tecentriq-bladder-cancer)
+
+01/06/2018
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 6-9 November 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-6-9-november-2017)
+
+10/11/2017
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2017)
+
+21/07/2017
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 March 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-march-2017)
+
+24/03/2017
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2016)
+
+16/12/2016
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 June 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-june-2016)
+
+24/06/2016
+
+[New treatment option recommended for patients with advanced melanoma](/en/news/new-treatment-option-recommended-patients-advanced-melanoma)
+
+22/05/2015
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 May 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-may-2015)
+
+22/05/2015
 
 ## Related content
 
@@ -2270,181 +1833,137 @@ English (EN) (129.42 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-899)
+[Other languages (22)](#file-language-dropdown-801)
 
 български (BG) (145.05 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/bg/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_bg.pdf)
 
 español (ES) (122.68 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/es/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_es.pdf)
 
 čeština (CS) (144.38 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/cs/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_cs.pdf)
 
 dansk (DA) (122.84 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/da/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_da.pdf)
 
 Deutsch (DE) (125.97 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/de/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_de.pdf)
 
 eesti keel (ET) (149.61 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/et/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_et.pdf)
 
 ελληνικά (EL) (146.74 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/el/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_el.pdf)
 
 français (FR) (125.66 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/fr/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_fr.pdf)
 
 hrvatski (HR) (143.46 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/hr/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_hr.pdf)
 
 italiano (IT) (122.26 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/it/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_it.pdf)
 
 latviešu valoda (LV) (162.58 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/lv/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_lv.pdf)
 
 lietuvių kalba (LT) (145.27 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/lt/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_lt.pdf)
 
 magyar (HU) (144.19 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/hu/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_hu.pdf)
 
 Malti (MT) (167.63 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/mt/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_mt.pdf)
 
 Nederlands (NL) (124.96 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/nl/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_nl.pdf)
 
 polski (PL) (144.56 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/pl/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_pl.pdf)
 
 português (PT) (123.04 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/pt/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_pt.pdf)
 
 română (RO) (141.17 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/ro/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_ro.pdf)
 
 slovenčina (SK) (143.02 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/sk/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_sk.pdf)
 
 slovenščina (SL) (142.04 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/sl/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_sl.pdf)
 
 Suomi (FI) (121.34 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/fi/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_fi.pdf)
 
 svenska (SV) (122.23 KB - PDF)
 
-**First published:**
-
-30/04/2020
+**First published:** 30/04/2020
 
 [View](/sv/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_sv.pdf)
 
@@ -2460,7 +1979,6 @@ svenska (SV) (122.23 KB - PDF)
 - [Keytruda - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/keytruda)
 - [Keytruda - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/keytruda-0)
 - [EMEA-001474-PIP03-22 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001474-pip03-22)
-- [Keytruda - opinion on variation to marketing authorisation](/en/medicines/human/variation/keytruda-1)
 - [Real-life Enfortumab Vedotin Outcomes as First-line Urothelial Carcinoma Treatment in the Non-interventional Observational and Nationwide French Study - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000763)
 - [DARWIN EU® Overall survival in patients with locally advanced or metastatic non-small cell lung cancer treated with selected immunotherapies as first line of treatment - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000112)
 - [Real-world post-authorization effectiveness study (PAES) of pembrolizumab for the treatment of NSCLC across races, ethnicities, and age groups (MK-3475-G18) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000576)
@@ -2473,8 +1991,8 @@ svenska (SV) (122.23 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 18/03/2026
+**This page was last updated on**
+
+22/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

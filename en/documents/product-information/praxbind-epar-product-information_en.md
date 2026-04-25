@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-11-21 10:42:37
-document_pages: 32
+document_datetime: 2026-04-23 13:01:08
+document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/praxbind-epar-product-information_en.pdf
 document_name: praxbind-epar-product-information_en.pdf
 version: success
-processing_time: 8.247449
-conversion_datetime: 2025-12-20 09:27:57.07886
+processing_time: 6.8942745
+conversion_datetime: 2026-04-25 16:52:31.588126
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -22,11 +22,11 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-## 1.       NAME OF THE MEDICINAL PRODUCT
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Praxbind 2.5 g/50 mL solution for injection/infusion
 
-## 2.       QUALITATIVE AND QUANTITATIVE COMPOSITION
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Each mL of solution for injection/infusion contains 50 mg idarucizumab.
 
@@ -40,26 +40,26 @@ Each vial contains 2 g sorbitol and 25 mg sodium in 50 mL (see section 4.4).
 
 For the full list of excipients, see section 6.1.
 
-## 3.       PHARMACEUTICAL FORM
+## 3. PHARMACEUTICAL FORM
 
 Solution for injection/infusion
 
 Clear to slightly opalescent, colourless to slightly yellow solution.
 
-## 4.       CLINICAL PARTICULARS
+## 4. CLINICAL PARTICULARS
 
-## 4.1     Therapeutic indications
+## 4.1 Therapeutic indications
 
 Praxbind is a specific reversal agent for dabigatran and is indicated in adult patients treated with dabigatran etexilate when rapid reversal of its anticoagulant effects is required:
 
--  For emergency surgery/urgent procedures;
--  In life-threatening or uncontrolled bleeding.
+- For emergency surgery/urgent procedures;
+- In life-threatening or uncontrolled bleeding.
 
-## 4.2     Posology and method of administration
+## 4.2 Posology and method of administration
 
 Restricted to hospital use only.
 
-Posology
+## Posology
 
 The recommended dose is 5 g idarucizumab (2 vials of 2.5 g/50 mL).
 
@@ -67,9 +67,9 @@ In a subset of patients, recurrence of plasma concentrations of unbound dabigatr
 
 Administration of a second 5 g dose of idarucizumab may be considered in the following situations:
 
--  recurrence of clinically relevant bleeding together with prolonged clotting times, or
--  if potential re-bleeding would be life-threatening and prolonged clotting times are observed, or
--  patients require a second emergency surgery/urgent procedure and have prolonged clotting times.
+- recurrence of clinically relevant bleeding together with prolonged clotting times, or
+- if potential re-bleeding would be life-threatening and prolonged clotting times are observed, or
+- patients require a second emergency surgery/urgent procedure and have prolonged clotting times.
 
 Relevant coagulation parameters are activated partial thromboplastin time (aPTT), diluted thrombin time (dTT) or ecarin clotting time (ECT) (see section 5.1).
 
@@ -87,7 +87,7 @@ Absence of antithrombotic therapy exposes patients to the thrombotic risk of the
 
 ## Special populations
 
-## Elderly
+Elderly
 
 No dose adjustment is required in elderly patients aged 65 years and above (see section 5.2).
 
@@ -111,21 +111,21 @@ Praxbind (2 vials of 2.5 g/50 mL) is administered intravenously as two consecuti
 
 For additional instructions for use and handling see section 6.6.
 
-## 4.3     Contraindications
+## 4.3 Contraindications
 
 None.
 
-## 4.4     Special warnings and precautions for use
+## 4.4 Special warnings and precautions for use
 
 Idarucizumab binds specifically to dabigatran and reverses its anticoagulant effect. It will not reverse the effects of other anticoagulants (see section 5.1).
 
 Praxbind treatment can be used in conjunction with standard supportive measures, which should be considered as medically appropriate.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Hypersensitivity
 
@@ -147,23 +147,23 @@ Praxbind causes transient proteinuria as a physiologic reaction to renal protein
 
 This medicinal product contains 50 mg sodium per dose, equivalent to 2.5% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
-## 4.5     Interaction with other medicinal products and other forms of interaction
+## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No formal interaction studies with Praxbind and other medicinal products have been performed. Based on the pharmacokinetic properties and the high specificity in binding to dabigatran, clinically relevant interactions with other medicinal products are considered unlikely.
 
 Preclinical investigations with idarucizumab have shown no interactions with
 
--  volume expanders.
--  coagulation factor concentrates, such as prothrombin complex concentrates (PCCs, e.g. 3 factor and 4 factor), activated PCCs (aPCCs) and recombinant factor VIIa.
--  other anticoagulants (e.g. thrombin inhibitors other than dabigatran, factor Xa inhibitors including low-molecular weight heparin, vitamin K-antagonists, heparin). Thus idarucizumab will not reverse the effects of other anticoagulants.
+- volume expanders.
+- coagulation factor concentrates, such as prothrombin complex concentrates (PCCs, e.g. 3 factor and 4 factor), activated PCCs (aPCCs) and recombinant factor VIIa.
+- other anticoagulants (e.g. thrombin inhibitors other than dabigatran, factor Xa inhibitors including low-molecular weight heparin, vitamin K-antagonists, heparin). Thus idarucizumab will not reverse the effects of other anticoagulants.
 
-## 4.6     Fertility, pregnancy and lactation
+<div style=\"page-break-after: always\"></div>
+
+## 4.6 Fertility, pregnancy and lactation
 
 ## Pregnancy
 
 There are no data for the use of idarucizumab in pregnant women. Reproductive and developmental toxicity studies have not been performed, given the nature and the intended clinical use of the medicinal product. Praxbind may be used during pregnancy, if the expected clinical benefit outweighs the potential risks.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -173,11 +173,11 @@ It is unknown whether idarucizumab/metabolites are excreted in human milk.
 
 There are no data on the effect of idarucizumab on fertility (see section 5.3).
 
-## 4.7     Effects on ability to drive and use machines
+## 4.7 Effects on ability to drive and use machines
 
 Not relevant.
 
-## 4.8     Undesirable effects
+## 4.8 Undesirable effects
 
 In a phase III study the safety of Praxbind has been evaluated in 503 patients, who had uncontrolled bleeding or required emergency surgery or procedures and were under treatment with Pradaxa (dabigatran etexilate), as well as in 224 volunteers in phase I studies. Furthermore, 359 patients were enrolled in a global idarucizumab administration surveillance program to collect data on usage patterns in a real-world-setting. One paediatric patient was treated in the context of a paediatric safety trial.
 
@@ -187,29 +187,65 @@ No adverse reactions have been identified.
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-## 4.9     Overdose
+## 4.9 Overdose
 
 There is no clinical experience with overdoses of idarucizumab.
 
 The highest single dose of idarucizumab studied in healthy subjects was 8 g. No safety signals have been identified in this group.
 
-## 5.       PHARMACOLOGICAL PROPERTIES
+## 5. PHARMACOLOGICAL PROPERTIES
 
-## 5.1     Pharmacodynamic properties
+## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: all other therapeutic products, antidotes, ATC code: V03AB37
 
 ## Mechanism of action
 
-Idarucizumab is a specific reversal agent for dabigatran. It is a humanised monoclonal antibody fragment (Fab) that binds to dabigatran with very high affinity, approximately 300-fold more potent than the binding affinity of dabigatran for thrombin. The idarucizumab-dabigatran complex is characterised by a rapid on-rate and extremely slow off-rate resulting in a very stable complex. Idarucizumab potently and specifically binds to dabigatran and its metabolites and neutralises their anticoagulant effect.
-
-## Pharmacodynamic effects
-
-The pharmacodynamics of idarucizumab after administration of dabigatran etexilate were investigated in 141 subjects in phase I studies, of which data for a representative subgroup of 6 healthy subjects aged 45 to 64 years receiving a dose of 5 g as intravenous infusion are presented. The median peak
+Idarucizumab is a specific reversal agent for dabigatran. It is a humanised monoclonal antibody fragment (Fab) that binds to dabigatran with very high affinity, approximately 300-fold more potent than the binding affinity of dabigatran for thrombin. The idarucizumab-dabigatran complex is
 
 <div style=\"page-break-after: always\"></div>
 
-dabigatran exposure in the investigated healthy subjects was in the range of a twice daily administration of 150 mg dabigatran etexilate in patients.
+Unbound dabigatran [ng/mL]
+
+220
+
+200
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+-2
+
+0
+
+-· Dabigatran etexilate + Idarucizumab
+
+° Dongrim itok quant cation - 1 ng/mL.
+
+characterised by a rapid on-rate and extremely slow off-rate resulting in a very stable complex. Idarucizumab potently and specifically binds to dabigatran and its metabolites and neutralises their anticoagulant effect.
+
+## Pharmacodynamic effects
+
+The pharmacodynamics of idarucizumab after administration of dabigatran etexilate were investigated in 141 subjects in phase I studies, of which data for a representative subgroup of 6 healthy subjects aged 45 to 64 years receiving a dose of 5 g as intravenous infusion are presented. The median peak dabigatran exposure in the investigated healthy subjects was in the range of a twice daily administration of 150 mg dabigatran etexilate in patients.
+
+Time after end of infusion [hours]
 
 ## Effect of idarucizumab on the exposure and anticoagulant activity of dabigatran
 
@@ -221,11 +257,63 @@ Figure 1. Plasma-levels of unbound dabigatran in the representative group of hea
 
 <!-- image -->
 
-Timeafterendof infusion[hours]
-
 Dabigatran prolongs the clotting time of coagulation markers such as dTT, TT, aPTT and ECT, which provide an approximate indication of the anticoagulation intensity. A value in the normal range after administration of idarucizumab indicates that a patient is no longer anticoagulated. A value above the normal range may reflect residual active dabigatran or other clinical conditions e.g., presence of other active substances or transfusion coagulopathy. These tests were used to assess the anticoagulant effect of dabigatran. A complete and sustained reversal of dabigatran-induced clotting time prolongation was observed immediately after the idarucizumab infusion, lasting over the entire observation period of at least 24 h.
 
 <div style=\"page-break-after: always\"></div>
+
+70
+
+130
+
+120
+
+65
+
+110
+
+60
+
+100
+
+55
+
+90
+
+50
+
+= 80
+
+E 15
+
+70
+
+60
+
+40
+
+50
+
+40
+
+30
+
+30
+
+-2
+
+-2
+
+0
+
+0
+
+-· Dabigatran etexilate + Idarucizumab
+
+..O.. Dabigatran etexilate + Placebo
+
+--
+
+Upper limit normal
 
 Figure 2. Reversal of dabigatran-induced clotting time prolongation determined by dTT in the representative group of healthy subjects (administration of idarucizumab or placebo at 0 h)
 
@@ -265,7 +353,67 @@ Reversal was only evaluable for those patients showing prolonged coagulation tim
 
 <div style=\"page-break-after: always\"></div>
 
+ECT |
+
+375
+
+110
+
+350 -
+
+325 -
+
+100
+
+300
+
+90
+
+275
+
+250
+
+80
+
+225
+
+70
+
+200
+
+175
+
+60
+
+150
+
+50
+
+125
+
+100
+
+40
+
+75
+
+50
+
+30
+
+25
+
+·
+
+·
+
 Figure 4. Reversal of dabigatran-induced clotting time prolongation determined by dTT in patients from the RE-VERSE AD study (N = 487)
+
+Baseline Between 10-30 min 1 h vials
+
+Baseline Between 10-30 min vials
+
+- - - Upper limit normal
 
 <!-- image -->
 
@@ -275,7 +423,39 @@ Figure 5. Reversal of dabigatran-induced clotting time prolongation determined b
 
 <div style=\"page-break-after: always\"></div>
 
+aPTT I
+
+140
+
+130
+
+120
+
+110
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+·
+
 Figure 6. Reversal of dabigatran-induced clotting time prolongation determined by aPTT in patients from the RE-VERSE AD study (N = 486)
+
+Baseline Between 10-30 min 1h
 
 <!-- image -->
 
@@ -295,7 +475,7 @@ Serum samples from 283 subjects in phase I studies (224 volunteers treated with 
 
 Treatment-emergent possibly persistent anti-idarucizumab antibodies with low titers were observed in 4% (10/224) of the phase I subjects and 1.6% (8/501) of the patients suggesting a low immunogenic potential of idarucizumab. In a subgroup of 6 phase I subjects, idarucizumab was administered a second time, two months after the first administration. No anti-idarucizumab antibodies were detected in these subjects prior to the second administration. In one subject, treatment-emergent antiidarucizumab antibodies were detected after the second administration. Nine patients were re-dosed with idarucizumab. All 9 patients were re-dosed within 6 days after the first idarucizumab dose. None of the patients re-dosed with idarucizumab tested positive for anti-idarucizumab antibodies.
 
-## 5.2     Pharmacokinetic properties
+## 5.2 Pharmacokinetic properties
 
 The pharmacokinetics of idarucizumab were investigated in 224 subjects in phase I studies, of which data for a representative subgroup of 6 healthy subjects aged 45 to 64 years receiving a dose of 5 g as intravenous infusion are presented.
 
@@ -333,7 +513,7 @@ Idarucizumab has been studied in 58 patients with varying degrees of hepatic imp
 
 Based on population pharmacokinetic analyses, age, gender and race do not have a clinically meaningful effect on the pharmacokinetics of idarucizumab.
 
-## 5.3     Preclinical safety data
+## 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on repeated dose toxicity studies of up to 4 weeks in rats and 2 weeks in monkeys. Safety pharmacology studies have demonstrated no effects on the respiratory, central nervous or cardiovascular system.
 
@@ -343,17 +523,17 @@ Studies to assess the potential reproductive effects of idarucizumab have not be
 
 No local irritation of the blood vessel was observed after i.v. or paravenous administration of idarucizumab. The idarucizumab formulation did not produce haemolysis of human whole blood in vitro .
 
-## 6.       PHARMACEUTICAL PARTICULARS
+## 6. PHARMACEUTICAL PARTICULARS
 
-## 6.1     List of excipients
+## 6.1 List of excipients
 
 sodium acetate trihydrate (E262) acetic acid (E260, for pH adjustment) sorbitol (E420) polysorbate 20 (E432) water for injections
 
-## 6.2     Incompatibilities
+## 6.2 Incompatibilities
 
 This medicinal product must not be mixed with other medicinal products.
 
-## 6.3     Shelf life
+## 6.3 Shelf life
 
 4 years.
 
@@ -363,7 +543,7 @@ After opening the vial, chemical and physical in-use stability of idarucizumab h
 
 From a microbiological point of view, unless the method of opening precludes the risk of microbial contamination, the medicinal product shall be used immediately after opening. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user.
 
-## 6.4     Special precautions for storage
+## 6.4 Special precautions for storage
 
 Store in a refrigerator (2 °C-8 °C).
 
@@ -375,13 +555,13 @@ Prior to use, the unopened vial may be kept at room temperature (up to 30 °C) f
 
 For storage conditions after opening of the medicinal product, see section 6.3.
 
-## 6.5     Nature and contents of container
+## 6.5 Nature and contents of container
 
 50 mL solution in a glass vial (type I glass), with a butyl rubber stopper, an aluminium cap and a label with integrated hanger.
 
 Pack size of 2 vials.
 
-## 6.6     Special precautions for disposal and other handling
+## 6.6 Special precautions for disposal and other handling
 
 Parenteral medicinal products such as Praxbind should be inspected visually for particulate matter and discoloration prior to administration.
 
@@ -393,25 +573,27 @@ No incompatibilities between Praxbind and polyvinyl chloride, polyethylene or po
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7.       MARKETING AUTHORISATION HOLDER
+## 7. MARKETING AUTHORISATION HOLDER
 
 Boehringer Ingelheim International GmbH Binger Str. 173 55216 Ingelheim am Rhein Germany
 
 <div style=\"page-break-after: always\"></div>
 
-8.       MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/15/1056/001
 
-9.       DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 20 November 2015
 
 Date of latest renewal: 27 July 2020
 
-## 10.     DATE OF REVISION OF THE TEXT
+## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+14
 
 <div style=\"page-break-after: always\"></div>
 
@@ -424,7 +606,7 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-## A.       MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturer(s) of the biological active substance(s)
 
@@ -438,26 +620,26 @@ Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris FRANCE
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
-## B.       CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
 
-## C.       OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## •         Periodic safety update reports (PSURs)
+## ·         Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-## D.       CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## •         Risk management plan (RMP)
+## ·         Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -469,29 +651,31 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 FOLDING BOX
 
-## 1.       NAME OF THE MEDICINAL PRODUCT
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Praxbind 2.5 g/50 mL solution for injection/infusion idarucizumab
 
-## 2.       STATEMENT OF ACTIVE SUBSTANCE(S)
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 Each vial of 50 mL contains 2.5 g idarucizumab.
 
-## 3.       LIST OF EXCIPIENTS
+## 3. LIST OF EXCIPIENTS
 
 Excipients: sodium acetate trihydrate (E262), acetic acid (E260), sorbitol (E420), polysorbate 20 (E432), water for injections.
 
-## 4.       PHARMACEUTICAL FORM AND CONTENTS
+## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 solution for injection/infusion
 
 2 vials of 50 mL each
 
-## 5.       METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
 Read the package leaflet before use.
 
@@ -499,29 +683,28 @@ Intravenous use.
 
 For single use only.
 
-## 6.       SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-<div style=\"page-break-after: always\"></div>
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-<div style=\"page-break-after: always\"></div>
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 7.       OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8.       EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
-## 9.       SPECIAL STORAGE CONDITIONS
+## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator. Do not freeze.
 
 Store in the original package in order to protect from light.
 
-10.     SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
 
-## 11.     NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+- The recommended dose of Praxbind is 5 g (2 × 2.5 g/50 mL).
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Boehringer Ingelheim International GmbH
 
@@ -531,29 +714,27 @@ Binger Str. 173
 
 Germany
 
-## 12.     MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/15/1056/001
 
-## 13.     BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
-## 14.     GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-<div style=\"page-break-after: always\"></div>
+15. INSTRUCTIONS ON USE
 
-## 15.     INSTRUCTIONS ON USE
-
-## 16.     INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-## 17.     UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18.     UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
@@ -561,106 +742,95 @@ SN
 
 NN
 
-## 19.     OTHER - Printing on inside of lid
+## 19. OTHER - Printing on inside of lid
 
--  The enclosed package leaflet contains additional information for healthcare professionals.
--  The recommended dose of Praxbind is 5 g (2 × 2.5 g/50 mL).
--  Intravenous administration as two consecutive infusions over 5 to 10 min each or as bolus injections.
+- The enclosed package leaflet contains additional information for healthcare professionals.
 
 <div style=\"page-break-after: always\"></div>
 
-| PARTICULARS TO APPEAR ONTHEIMMEDIATE PACKAGING   |
-|--------------------------------------------------|
-| Vial label                                       |
+- Intravenous administration as two consecutive infusions over 5 to 10 min each or as bolus injections.
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+
+Vial label
+
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Praxbind 2.5 g/50 mL solution for injection/infusion idarucizumab
 
-| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
-|------|------------------------------------|
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 Each vial of 50 mL contains 2.5 g idarucizumab.
 
-| 3.   | LIST OF EXCIPIENTS   |
-|------|----------------------|
+## 3. LIST OF EXCIPIENTS
 
 Excipients: sodium acetate trihydrate (E262), acetic acid (E260), sorbitol (E420), polysorbate 20 (E432), water for injections.
 
-| 4.   | PHARMACEUTICALFORMANDCONTENTS   |
-|------|---------------------------------|
+## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 solution for injection/infusion
 
 1 vial of 50 mL
 
-| 5.   | METHODANDROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------|
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Intravenous use.
+Read the package leaflet before use.
+
+Intravenous use.
 
 For single use only.
 
-## 6.       SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-<div style=\"page-break-after: always\"></div>
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 7.       OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8.       EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
-## 9.       SPECIAL STORAGE CONDITIONS
+## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator. Do not freeze.
 
 Store in the original package in order to protect from light.
 
-## 10.     SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
 
-## 11.     NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
-Boehringer Ingelheim International GmbH
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
-Binger Str. 173
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-55216 Ingelheim am Rhein
+Boehringer Ingelheim International GmbH Binger Str. 173 55216 Ingelheim am Rhein Germany
 
-Germany
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
-## 12.     MARKETING AUTHORISATION NUMBER(S)
+EU/1/15/1056/001
 
-## EU/1/15/1056/001
-
-## 13.     BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
-## 14.     GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 Medicinal product subject to medical prescription.
 
-<div style=\"page-break-after: always\"></div>
+15. INSTRUCTIONS ON USE
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLEDATA   |
-|-------|-----------------------------------------|
-
-24
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -689,7 +859,7 @@ Read all of this leaflet carefully, because it contains important information fo
 5. How to store Praxbind
 6. Contents of the pack and other information
 
-## 1.       What Praxbind is and what it is used for
+## 1. What Praxbind is and what it is used for
 
 ## What Praxbind is
 
@@ -704,7 +874,7 @@ Praxbind is used in adults in emergency situations where your doctor decides tha
 - -For emergency surgery/urgent procedures;
 - -In life-threatening or uncontrolled bleeding.
 
-## 2.       What you need to know when you receive Praxbind
+## 2. What you need to know when you receive Praxbind
 
 ## Warnings and precautions
 
@@ -735,13 +905,13 @@ This medicine has been designed to only bind to dabigatran. It is unlikely that 
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before receiving this medicine.
 
-There is no information on the effects of this medicine in pregnant or breast-feeding women. Praxbind does not affect any functions in  the body as such, so your doctor may decide to give you this medicine, if the expected benefits outweigh any potential risks.
+There is no information on the effects of this medicine in pregnant or breast-feeding women. Praxbind does not affect any functions in the body as such, so your doctor may decide to give you this medicine, if the expected benefits outweigh any potential risks.
 
 ## Praxbind contains sodium
 
 This medicine contains 50 mg sodium (main component of cooking/table salt) in each dose. This is equivalent to 2.5% of the recommended maximum daily dietary intake of sodium for an adult.
 
-## 3.       How to use Praxbind
+## 3. How to use Praxbind
 
 This medicine is for hospital use only.
 
@@ -757,7 +927,7 @@ Detailed instructions for your doctor or nurse on how to administer this medicin
 
 If you have any further questions on the use of this medicine, ask your doctor.
 
-## 4.       Possible side effects
+## 4. Possible side effects
 
 Like all medicines, this medicine may cause side effects, although not everybody gets them.
 
@@ -771,7 +941,7 @@ If you get any side effects, talk to your doctor or nurse. This includes any pos
 
 Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-## 5.       How to store Praxbind
+## 5. How to store Praxbind
 
 Keep this medicine out of the sight and reach of children.
 
@@ -785,7 +955,7 @@ Store in the original package in order to protect from light.
 
 Once opened, this medicine is intended for immediate use.
 
-## 6.       Contents of the pack and other information
+## 6. Contents of the pack and other information
 
 ## What Praxbind contains
 
@@ -808,151 +978,101 @@ Boehringer Ingelheim Pharma GmbH &amp; Co. KG Birkendorfer Strasse 65 88397 Bibe
 
 Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France
 
-<div style=\"page-break-after: always\"></div>
-
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
-## Lietuva
-
-Boehringer Ingelheim SComm
-
-Tél/Tel: +32 2 773 33 11
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas
-
-Tel: +370 5 2595942
+Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
 
 ## България
 
 Бьорингер Ингелхайм РЦВ ГмбХ и Ко. КГ - клон България Тел.: +359 2 958 79 98
 
-## Luxembourg/Luxemburg
-
-Boehringer Ingelheim SComm
-
-Tél/Tel: +32 2 773 33 11
-
 ## Česká republika
 
-Boehringer Ingelheim spol. s r.o.
+Boehringer Ingelheim spol. s r.o. Tel: +420 234 655 111
 
-Tel: +420 234 655 111
+## Danmark
+
+Boehringer Ingelheim Danmark A/S Tlf.: +45 39 15 88 88
+
+## Deutschland
+
+Boehringer Ingelheim Pharma GmbH &amp; Co. KG Tel: +49 (0) 800 77 90 900
+
+## Eesti
+
+Boehringer Ingelheim RCV GmbH &amp; Co KG Eesti filiaal Tel: +372 612 8000
+
+## Ελλάδα
+
+Boehringer Ingelheim Ελλάς Μονοπρόσωπη Α.Ε. Tηλ: +30 2 10 89 06 300
+
+## España
+
+Boehringer Ingelheim España, S.A. Tel: +34 93 404 51 00
+
+## France
+
+Boehringer Ingelheim France S.A.S. Tél: +33 3 26 50 45 33
+
+## Hrvatska
+
+Boehringer Ingelheim Zagreb d.o.o. Tel: +385 1 2444 600
+
+## Ireland
+
+Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
+
+## Ísland
+
+Vistor ehf. Sími: +354 535 7000
+
+## Lietuva
+
+Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas Tel: +370 5 2595942
+
+## Luxembourg/Luxemburg
+
+Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
 
 ## Magyarország
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Magyarországi Fióktelepe Tel.: +36 1 299 89 00
 
-## Danmark
-
-Boehringer Ingelheim Danmark A/S Tlf: +45 39 15 88 88
-
 ## Malta
 
-Boehringer Ingelheim Ireland Ltd.
-
-Tel: +353 1 295 9620
-
-## Deutschland
-
-Boehringer Ingelheim Pharma GmbH &amp; Co.
-
-KG
-
-Tel: +49 (0) 800 77 90 900
+Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 
 ## Nederland
 
-Boehringer Ingelheim B.V.
-
-Tel: +31 (0) 800 22 55 889
-
-## Eesti
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG Eesti filiaal
-
-Tel: +372 612 8000
+Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Norge
 
-Boehringer Ingelheim Danmark
-
-Norwegian branch
-
-Tlf: +47 66 76 13 00
-
-## Ελλάδα
-
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη
-
-Α.Ε.
-
-Tηλ: +30 2 10 89 06 300
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Österreich
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG
-
-Tel: +43 1 80 105-7870
-
-## España
-
-Boehringer Ingelheim España, S.A.
-
-Tel: +34 93 404 51 00
+Boehringer Ingelheim RCV GmbH &amp; Co KG Tel: +43 1 80 105-7870
 
 ## Polska
 
-Boehringer Ingelheim Sp. z o.o.
-
-Tel.: +48 22 699 0 699
-
-## France
-
-Boehringer Ingelheim France S.A.S.
-
-Tél: +33 3 26 50 45 33
+Boehringer Ingelheim Sp. z o.o. Tel.: +48 22 699 0 699
 
 ## Portugal
 
-Boehringer Ingelheim Portugal, Lda.
-
-Tel: +351 21 313 53 00
-
-## Hrvatska
-
-Boehringer Ingelheim Zagreb d.o.o.
-
-Tel: +385 1 2444 600
+Boehringer Ingelheim Portugal, Lda. Tel: +351 21 313 53 00
 
 ## România
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Viena - Sucursala Bucureşti
-
-Tel: +40 21 302 28 00
-
-<div style=\"page-break-after: always\"></div>
-
-## Ireland
+Boehringer Ingelheim RCV GmbH &amp; Co KG Viena Sucursala Bucureşti Tel: +40 21 302 28 00
 
 ## Slovenija
 
-Boehringer Ingelheim Ireland Ltd.
-
-Tel: +353 1 295 9620
-
-Boehringer Ingelheim RCV GmbH &amp; Co KG
-
-Podružnica Ljubljana
-
-Tel: +386 1 586 40 00
-
-## Ísland
-
-Vistor ehf.
-
-Sími: +354 535 7000
+Boehringer Ingelheim RCV GmbH &amp; Co KG Podružnica Ljubljana Tel: +386 1 586 40 00
 
 ## Slovenská republika
 
@@ -960,17 +1080,13 @@ Boehringer Ingelheim RCV GmbH &amp; Co KG organizačná zložka
 
 Tel: +421 2 5810 1211
 
+<div style=\"page-break-after: always\"></div>
+
 ## Italia
 
 Boehringer Ingelheim Italia S.p.A.
 
 Tel: +39 02 5355 1
-
-## Suomi/Finland
-
-Boehringer Ingelheim Finland Ky
-
-Puh/Tel: +358 10 3102 800
 
 ## Κύπρος
 
@@ -980,31 +1096,29 @@ Boehringer Ingelheim Ελλάς Μονοπρόσωπη
 
 Tηλ: +30 2 10 89 06 300
 
-## Sverige
-
-Boehringer Ingelheim AB
-
-Tel: +46 8 721 21 00
-
 ## Latvija
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Latvijas filiāle
 
 Tel: +371 67 240 011
 
-## United Kingdom (Northern Ireland)
-
-Boehringer Ingelheim Ireland Ltd.
-
-Tel: +353 1 295 9620
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+## Suomi/Finland
+
+Boehringer Ingelheim Finland Ky Puh/Tel: +358 10 3102 800
+
+## Sverige
+
+Boehringer Ingelheim AB
+
+Tel: +46 8 721 21 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1024,9 +1138,9 @@ The recommended dose is 5 g idarucizumab (2 vials of 2.5 g/50 mL).
 
 Administration of a second 5 g dose of idarucizumab may be considered in the following situations:
 
--  recurrence of clinically relevant bleeding together with prolonged clotting times, or
--  if potential re-bleeding would be life-threatening and prolonged clotting times are observed, or
--  patients require a second emergency surgery/urgent procedure and have prolonged clotting times.
+- recurrence of clinically relevant bleeding together with prolonged clotting times, or
+- if potential re-bleeding would be life-threatening and prolonged clotting times are observed, or
+- patients require a second emergency surgery/urgent procedure and have prolonged clotting times.
 
 Relevant coagulation parameters are activated partial thromboplastin time (aPTT), diluted thrombin time (dTT) or ecarin clotting time (ECT).
 
@@ -1042,7 +1156,7 @@ After administration of idarucizumab, other antithrombotic therapy (e.g. low-mol
 
 ## Handling instructions:
 
-Praxbind must not be mixed with other medicinal products. A pre-existing intravenous line may be used for administration of Praxbind. The line must be flushed with sodium chloride 9 mg/ml (0.9%) solution for injection prior to and at the end of infusion. No other infusion should be administered in parallel via the same intravenous access.
+Praxbind must not be mixed with other medicinal products. A pre-existing intravenous line may be used for administration of Praxbind. The line must be flushed with sodium chloride 9 mg/mL (0.9%) solution for injection prior to and at the end of infusion. No other infusion should be administered in parallel via the same intravenous access.
 
 Praxbind is for single-use only and does not contain preservatives.
 

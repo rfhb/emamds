@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-24 10:45:54
-document_pages: 77
+document_datetime: 2026-04-24 14:13:36
+document_pages: 79
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ranluspec-epar-product-information_en.pdf
 document_name: ranluspec-epar-product-information_en.pdf
 version: success
-processing_time: 29.0558559
-conversion_datetime: 2026-02-25 12:00:00.810571
+processing_time: 22.0321699
+conversion_datetime: 2026-04-25 16:25:29.102701
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -84,9 +84,7 @@ The treatment of visual impairment due to CNV should be determined individually 
 
 Ranibizumab and laser photocoagulation in DME and in macular oedema secondary to BRVO There is some experience of ranibizumab administered concomitantly with laser photocoagulation (see section 5.1). When given on the same day, ranibizumab should be administered at least 30 minutes after laser photocoagulation. Ranibizumab can be administered in patients who have received previous laser photocoagulation.
 
-Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM
-
-There is no experience of concomitant administration of ranibizumab and verteporfin.
+Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM There is no experience of concomitant administration of ranibizumab and verteporfin.
 
 ## Special populations
 
@@ -124,9 +122,7 @@ For instructions on preparation of the medicinal product before administration, 
 
 ## 4.3 Contraindications
 
-Hypersensitivity to the active substance or to any of the excipients listed in section 6.1. Patients with active or suspected ocular or periocular infections.
-
-Patients with active severe intraocular inflammation.
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1. Patients with active or suspected ocular or periocular infections. Patients with active severe intraocular inflammation.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -345,19 +341,41 @@ Key outcome measures are summarised in Table 1 and Figure 1.
 
 Table 1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA) and FVF2587g (ANCHOR)
 
-|                                                                             |          | FVF2598g (MARINA)   | FVF2598g (MARINA)            | FVF2587g (ANCHOR)         | FVF2587g (ANCHOR)            |
-|-----------------------------------------------------------------------------|----------|---------------------|------------------------------|---------------------------|------------------------------|
-| Outcome measure                                                             | Month    | Sham (n = 238)      | Ranibizumab 0.5 mg (n = 240) | Verteporfin PDT (n = 143) | Ranibizumab 0.5 mg (n = 140) |
-| Loss of < 15 letters in visual acuity (%) a (maintenance of vision, primary | Month 12 | 62%                 | 95%                          | 64%                       | 96%                          |
-| Loss of < 15 letters in visual acuity (%) a (maintenance of vision, primary | Month 24 | 53%                 | 90%                          | 66%                       | 90%                          |
-| Gain of ≥ 15 letters in a                                                   | Month 12 | 5%                  | 34%                          | 6%                        | 40%                          |
-| visual acuity (%)                                                           | Month 24 | 4%                  | 33%                          | 6%                        | 41%                          |
-| Mean change in visual acuity (letters) (SD) a                               | Month 12 | -10.5 (16.6)        | +7.2 (14.4)                  | -9.5 (16.4)               | +11.3 (14.6)                 |
-| Mean change in visual acuity (letters) (SD) a                               | Month 24 | -14.9 (18.7)        | +6.6 (16.5)                  | -9.8 (17.6)               | +10.7 (16.5)                 |
+|                                                             |          | FVF2598g (MARINA)   | FVF2598g (MARINA)            | FVF2587g (ANCHOR)         | FVF2587g (ANCHOR)            |
+|-------------------------------------------------------------|----------|---------------------|------------------------------|---------------------------|------------------------------|
+| Outcome measure                                             | Month    | Sham (n = 238)      | Ranibizumab 0.5 mg (n = 240) | Verteporfin PDT (n = 143) | Ranibizumab 0.5 mg (n = 140) |
+| Loss of < 15 letters in visual acuity (%) a (maintenance of | Month 12 | 62%                 | 95%                          | 64%                       | 96%                          |
+| Loss of < 15 letters in visual acuity (%) a (maintenance of | Month 24 | 53%                 | 90%                          | 66%                       | 90%                          |
+| Gain of ≥ 15 letters in visual acuity (%) a                 | Month 12 | 5%                  | 34%                          | 6%                        | 40%                          |
+|                                                             | Month 24 | 4%                  | 33%                          | 6%                        | 41%                          |
+| Mean change in visual acuity (letters) (SD) a               | Month 12 | -10.5 (16.6)        | +7.2 (14.4)                  | -9.5 (16.4)               | +11.3 (14.6)                 |
+| Mean change in visual acuity (letters) (SD) a               | Month 24 | -14.9 (18.7)        | +6.6 (16.5)                  | -9.8 (17.6)               | +10.7 (16.5)                 |
 
 Figure 1 Mean change in visual acuity from baseline to Month 24 in study FVF2598g (MARINA) and study FVF2587g (ANCHOR)
 
 <div style=\"page-break-after: always\"></div>
+
+Mean change in visual acuity + SE
+
+Mean
+
+10
+
+(letters)
+
+-15
+
+0
+
+15
+
+10
+
+(letters)
+
+MARINA
+
+Study FVF2598g (MARINA)
 
 <!-- image -->
 
@@ -404,9 +422,25 @@ a p&lt; 0.00001 comparison with vPDT control b Comparative control up to Month 3
 
 <div style=\"page-break-after: always\"></div>
 
+20
+
+15-
+
+510-
+
+0
+
+-5L
+
+0
+
 Figure 2 Mean change from baseline BCVA over time to Month 12 (RADIANCE)
 
++12.5
+
 <!-- image -->
+
+1
 
 The improvement of vision was accompanied by a reduction in central retinal thickness.
 
@@ -427,7 +461,13 @@ The mean number of injections given over 12 months was 5.8 in the ranibizumab ar
 
 <div style=\"page-break-after: always\"></div>
 
-those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period.
+Mean BCVA change +/- 95% CI (letters)
+
+15
+
+-5
+
+those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period. 9.3
 
 Table 3 Outcomes at Month 2 (MINERVA)
 
@@ -438,15 +478,11 @@ Table 3 Outcomes at Month 2 (MINERVA)
 | Patients not losing > 15 letters from baseline at Month 2                     | 99.2%                          | 94.7%           |
 | Reduction in CSFT b from baseline to Month 2 a                                | 77 µm                          | -9.8 µm         |
 
+Sham (N=59)
+
 Figure 3 Mean change from baseline BCVA over time to Month 12 (MINERVA)
 
 <!-- image -->
-
-Treatment:-o-Ranibizumab0.5mg(N=119)
-
-Sham (N=59)
-
-*Observed meanBCVAmay differ from theLeast SquaresMean BCVA(applicableonly at Month 2)
 
 When comparing ranibizumab versus sham control at Month 2, a consistent treatment effect both overall and across baseline aetiology subgroups was observed:
 
@@ -457,17 +493,55 @@ Table 4 Treatment effect overall and across baseline aetiology subgroups
 | Overall                               |                                    9.9 |                                     178 |
 | Angioid streaks                       |                                   14.6 |                                      27 |
 | Post-inflammatory retinochoroidopathy |                                    6.5 |                                      28 |
-| Central serous chorioretinopathy      |                                    5   |                                      23 |
+| Central serous chorioretinopathy      |                                    5.0 |                                      23 |
 | Idiopathic chorioretinopathy          |                                   11.4 |                                      63 |
 | Miscellaneous aetiologies a           |                                   10.6 |                                      37 |
 
 <div style=\"page-break-after: always\"></div>
 
+Figure 4
+
+Mean VA change from BL + / - SE (letters)
+
+Mean change in visual acuity from baseline over time in study D2301 (RESTORE)
+
+12
+
+10
+
+8
+
+6
+
+2
+
+0
+
+-2
+
 In the pivotal study G2301 (MINERVA), five adolescent patients aged 12 to 17 years with visual impairment secondary to CNV received open-label treatment with ranibizumab 0.5 mg at baseline followed by an individualised treatment regimen as for the adult population. BCVA improved from baseline to Month 12 in all five patients, ranging from 5 to 38 letters (mean of 16.6 letters). The improvement of vision was accompanied by a stabilisation or reduction in central subfield thickness over the 12-month period. The mean number of ranibizumab injections given in the study eye over 12 months was 3 (ranged from 2 to 5). Overall, ranibizumab treatment was well tolerated.
+
++ 0.9
 
 ## Treatment of visual impairment due to DME
 
-The efficacy and safety of ranibizumab have been assessed in three randomised, controlled studies of at least 12 months duration. A total of 868 patients (708 active and 160 control) were enrolled in these studies.
+The efficacy and safety of ranibizumab have been assessed in three randomised, controlled studies of at least 12 months duration. A total of 868 patients (708 active and 160 control) were enrolled in these studies. T
+
+1
+
+2
+
+4
+
+5
+
+7
+
+8
+
+9
+
+10 11 12
 
 In the phase II study D2201 (RESOLVE), 151 patients were treated with ranibizumab (6 mg/mL, n = 51, 10 mg/mL, n = 51) or sham (n = 49) by monthly intravitreal injections. The mean average change in BCVA from Month 1 to Month 12 compared to baseline was +7.8 (±7.72) letters in the pooled ranibizumab-treated patients (n = 102), compared to -0.1 (±9.77) letters for sham-treated patients; and the mean change in BCVA at Month 12 from baseline was 10.3 (±9.1) letters compared to -1.4 (±14.2) letters, respectively (p&lt; 0.0001 for the treatment difference).
 
@@ -500,6 +574,12 @@ Table 5 Outcomes at Month 12 in study D2301 (RESTORE) and at Month 36 in study D
 | Mean change in BCVA at Month 36 (SD)                                                                    | 8.0 (10.1)                      | 6.7 (9.6)                               | 6.0 (9.4)          |
 | Gain of ≥ 15 letters or BCVA ≥ 84 letters at Month 36 (%)                                               | 27.7                            | 30.1                                    | 21.6               |
 | Mean number of injections (Months 12-35)*                                                               | 6.8                             | 6.0                                     | 6.5                |
+
+a
+
+p&lt; 0.0001 for comparisons of ranibizumab arms vs. laser arm. n in D2301-E1 (RESTORE Extension) is the number of patients with a value at both D2301 (RESTORE) baseline (Month 0) and at the Month 36 visit.
+
+* The proportion of patients who did not require any ranibizumab treatment during the extension phase was 19%, 25% and 20% in the prior ranibizumab, prior ranibizumab + laser and prior laser groups, respectively.
 
 Statistically significant patient-reported benefits for most vision-related functions were observed with ranibizumab (with or without laser) treatment over the control group as measured by the NEI VFQ-25. For other subscales of this questionnaire no treatment differences could be established.
 
@@ -583,6 +663,28 @@ Table 8 Outcomes at Month 6 and 12 (BRAVO and CRUISE)
 
 <div style=\"page-break-after: always\"></div>
 
+2
+
+0
+
+0
+
+BL-baseline; SE-standard error of mean
+
++ 7.3
+
+Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO)
+
+sham-controlled arm
+
+Figure 6 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUISE)
+
+<!-- image -->
+
+crossed-over to ranibizumab sham-controlled
+
++ 18.3
+
 | Month 6 a (letters) (SD) (primary endpoint)            |             |             |            |             |
 |--------------------------------------------------------|-------------|-------------|------------|-------------|
 | Mean change in BCVA at Month 12 (letters) (SD)         | 12.1 (14.4) | 18.3 (14.6) | 7.3 (15.9) | 13.9 (14.2) |
@@ -592,17 +694,29 @@ Table 8 Outcomes at Month 6 and 12 (BRAVO and CRUISE)
 
 a p&lt; 0.0001 for both studies
 
-Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO)
-
-<!-- image -->
-
-BL=baseline;SE=standard errorofmean
-
-Figure 6 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUISE)
+:: +103
 
 <div style=\"page-break-after: always\"></div>
 
-BL-baseline;SE=standard error ofmean
+Mean VA change from BL +- SE (letters)
+
+8
+
+6
+
+14
+
+2
+
+0
+
+-2
+
+0
+
+BL-baseline; SE-standard error of mean
+
++ 14.9
 
 <!-- image -->
 
@@ -622,6 +736,10 @@ Table 9 Outcomes at Months 6 and 24 (BRIGHTER and CRYSTAL)
 |----------------|----------------------------|------------------------------------|---------------|----------------------------|
 |                | Ranibizumab 0.5 mg N = 180 | Ranibizumab 0.5 mg + Laser N = 178 | Laser* N = 90 | Ranibizumab 0.5 mg N = 356 |
 | Mean change in | +14.8                      | +14.8                              | +6.0          | +12.0                      |
+
+sham-controlled sham-controlled arm
+
+crossed-over to ranibizumab
 
 <div style=\"page-break-after: always\"></div>
 
@@ -701,7 +819,9 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light. Prior to use, the unopened vial may be kept at room temperature (25 °C) for up to 24 hours.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+
+Prior to use, the unopened vial may be kept at room temperature (25 °C) for up to 24 hours.
 
 ## 6.5 Nature and contents of container
 
@@ -757,7 +877,7 @@ EU/1/25/2012/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: Date of latest renewal:
+Date of first authorisation: 10.2.2026 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -765,7 +885,7 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-▼This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+▼This me dicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -805,7 +925,7 @@ Ranluspec is indicated in adults for:
 
 Ranluspec must be administered by a qualified ophthalmologist experienced in intravitreal injections.
 
-Posology
+## Posology
 
 The recommended dose for ranibizumab is 0.5 mg given as a single intravitreal injection. This corresponds to an injection volume of 0.05 mL. The interval between two doses injected into the same eye should be at least four weeks.
 
@@ -1088,19 +1208,41 @@ Key outcome measures are summarised in Table 1 and Figure 1.
 
 Table 1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA) and FVF2587g (ANCHOR)
 
-|                                                                             |          | FVF2598g (MARINA)   | FVF2598g (MARINA)            | FVF2587g (ANCHOR)         | FVF2587g (ANCHOR)            |
-|-----------------------------------------------------------------------------|----------|---------------------|------------------------------|---------------------------|------------------------------|
-| Outcome measure                                                             | Month    | Sham (n = 238)      | Ranibizumab 0.5 mg (n = 240) | Verteporfin PDT (n = 143) | Ranibizumab 0.5 mg (n = 140) |
-| Loss of < 15 letters in visual acuity (%) a (maintenance of vision, primary | Month 12 | 62%                 | 95%                          | 64%                       | 96%                          |
-| Loss of < 15 letters in visual acuity (%) a (maintenance of vision, primary | Month 24 | 53%                 | 90%                          | 66%                       | 90%                          |
-| Gain of ≥ 15 letters in a                                                   | Month 12 | 5%                  | 34%                          | 6%                        | 40%                          |
-| visual acuity (%)                                                           | Month 24 | 4%                  | 33%                          | 6%                        | 41%                          |
-| Mean change in visual acuity (letters) (SD) a                               | Month 12 | -10.5 (16.6)        | +7.2 (14.4)                  | -9.5 (16.4)               | +11.3 (14.6)                 |
-| Mean change in visual acuity (letters) (SD) a                               | Month 24 | -14.9 (18.7)        | +6.6 (16.5)                  | -9.8 (17.6)               | +10.7 (16.5)                 |
+|                                                             |          | FVF2598g (MARINA)   | FVF2598g (MARINA)            | FVF2587g (ANCHOR)         | FVF2587g (ANCHOR)            |
+|-------------------------------------------------------------|----------|---------------------|------------------------------|---------------------------|------------------------------|
+| Outcome measure                                             | Month    | Sham (n = 238)      | Ranibizumab 0.5 mg (n = 240) | Verteporfin PDT (n = 143) | Ranibizumab 0.5 mg (n = 140) |
+| Loss of < 15 letters in visual acuity (%) a (maintenance of | Month 12 | 62%                 | 95%                          | 64%                       | 96%                          |
+| Loss of < 15 letters in visual acuity (%) a (maintenance of | Month 24 | 53%                 | 90%                          | 66%                       | 90%                          |
+| Gain of ≥ 15 letters in visual acuity (%) a                 | Month 12 | 5%                  | 34%                          | 6%                        | 40%                          |
+|                                                             | Month 24 | 4%                  | 33%                          | 6%                        | 41%                          |
+| Mean change in visual acuity (letters) (SD) a               | Month 12 | -10.5 (16.6)        | +7.2 (14.4)                  | -9.5 (16.4)               | +11.3 (14.6)                 |
+| Mean change in visual acuity (letters) (SD) a               | Month 24 | -14.9 (18.7)        | +6.6 (16.5)                  | -9.8 (17.6)               | +10.7 (16.5)                 |
 
 Figure 1 Mean change in visual acuity from baseline to Month 24 in study FVF2598g (MARINA) and study FVF2587g (ANCHOR)
 
 <div style=\"page-break-after: always\"></div>
+
+Mean change in visual acuity + SE
+
+Mean
+
+10
+
+(letters)
+
+-15
+
+0
+
+15
+
+10
+
+(letters)
+
+MARINA
+
+Study FVF2598g (MARINA)
 
 <!-- image -->
 
@@ -1147,9 +1289,25 @@ a p&lt; 0.00001 comparison with vPDT control b Comparative control up to Month 3
 
 <div style=\"page-break-after: always\"></div>
 
+20
+
+15-
+
+510-
+
+0
+
+-5L
+
+0
+
 Figure 2 Mean change from baseline BCVA over time to Month 12 (RADIANCE)
 
++12.5
+
 <!-- image -->
+
+1
 
 The improvement of vision was accompanied by a reduction in central retinal thickness.
 
@@ -1170,7 +1328,13 @@ The mean number of injections given over 12 months was 5.8 in the ranibizumab ar
 
 <div style=\"page-break-after: always\"></div>
 
-those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period.
+Mean BCVA change +/- 95% CI (letters)
+
+15
+
+-5
+
+those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period. 9.3
 
 Table 3 Outcomes at Month 2 (MINERVA)
 
@@ -1181,15 +1345,11 @@ Table 3 Outcomes at Month 2 (MINERVA)
 | Patients not losing > 15 letters from baseline at Month 2                     | 99.2%                          | 94.7%           |
 | Reduction in CSFT b from baseline to Month 2 a                                | 77 µm                          | -9.8 µm         |
 
+Sham (N=59)
+
 Figure 3 Mean change from baseline BCVA over time to Month 12 (MINERVA)
 
 <!-- image -->
-
-Treatment:-o-Ranibizumab0.5mg(N=119)
-
-Sham (N=59)
-
-*Observed meanBCVAmay differ from theLeast SquaresMean BCVA(applicableonly at Month 2)
 
 When comparing ranibizumab versus sham control at Month 2, a consistent treatment effect both overall and across baseline aetiology subgroups was observed:
 
@@ -1200,7 +1360,7 @@ Table 4 Treatment effect overall and across baseline aetiology subgroups
 | Overall                               |                                    9.9 |                                     178 |
 | Angioid streaks                       |                                   14.6 |                                      27 |
 | Post-inflammatory retinochoroidopathy |                                    6.5 |                                      28 |
-| Central serous chorioretinopathy      |                                    5   |                                      23 |
+| Central serous chorioretinopathy      |                                    5.0 |                                      23 |
 | Idiopathic chorioretinopathy          |                                   11.4 |                                      63 |
 | Miscellaneous aetiologies a           |                                   10.6 |                                      37 |
 
@@ -1221,6 +1381,24 @@ Key outcome measures are summarised in Table 5 (RESTORE and Extension) and Figur
 ## Figure 4 Mean change in visual acuity from baseline over time in study D2301 (RESTORE)
 
 <div style=\"page-break-after: always\"></div>
+
+Mean VA change from BL + / - SE (letters)
+
+12
+
+10
+
+8
+
+6
+
+4
+
+0
+
+-2
+
+4
 
 <!-- image -->
 
@@ -1346,17 +1524,43 @@ Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO
 
 <div style=\"page-break-after: always\"></div>
 
+20
+
+18
+
+Mean VA change from BL + - SE (letters)
+
+14
+
+2
+
+Mean VA change from BL +- SE (letters)
+
+2
+
+0
+
+0
+
+BL-baseline; SE-standard error of mean
+
++ 18.3
+
++ 14.9
+
 <!-- image -->
 
-BL=baseline:SE=standard errorofmean
+BL-baseline: SE-standard error of mean
 
 Figure 6 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUISE)
 
 <!-- image -->
 
-BL-baseline;SE=standard error ofmean
+In both studies, the improvement of vision was accompanied by a continuous and significant reduction sham-controlled
 
-In both studies, the improvement of vision was accompanied by a continuous and significant reduction
+sham-controlled arm crossed-over to ranibizumab
+
+:: *103
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1450,9 +1654,13 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-12 months
+1 8 months
 
 <div style=\"page-break-after: always\"></div>
+
+Syringe cap
+
+Finger grip
 
 ## 6.4 Special precautions for storage
 
@@ -1480,26 +1688,32 @@ To prepare Ranluspec for intravitreal administration, please adhere to the instr
 
 | Introduction                   | 1. The prefilled syringe is sterile and is for single dose only. Do not use the product if the packaging is damaged or has been tampered with. 2. To prepare Ranluspec for intravitreal administration, please adhere to these instructions for use. Read all the instructions carefully before using the prefilled syringe. 3. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions. 4. For the intravitreal injection, a 30-gauge × ½ inch sterile injection needle should be used. (Not provided). Note: The dose must be set to 0.05 mL.   |
 |--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pre-filled syringe description | Figure 1 Ranluspec pre-filled syringe illustration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Pre-filled syringe description |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+
+<div style=\"page-break-after: always\"></div>
+
+Air bubble
+
+Higure ? Ramaval n
+
+T
+
+<!-- image -->
+
+| Step 1   | PREPARATION: Make sure that your pack contains a sterile prefilled syringe in a sealed tray. Peel the lid off the syringe tray and using aseptic technique, remove the syringe.                                                                                                                                                                                                                                                              | PREPARATION: Make sure that your pack contains a sterile prefilled syringe in a sealed tray. Peel the lid off the syringe tray and using aseptic technique, remove the syringe.   |
+|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Step 2   | INSPECT SYRINGE: 1. RANIBIZUMAB should be clear to slightly opalescent, colorless to pale brownish. 2. Do not use the prefilled syringe if: -The syringe cap is detached from the Luer lock. - The syringe is damaged. - Particulates, cloudiness, or discoloration are visible. 3. If any of the above is not true, discard the pre-filled syringe and use a new one. Note: To avoid compromising the sterility of the product, do not pull | Figure 2 Ranluspec 0.5 mg prefilled syringe finger grip.                                                                                                                          |
+| Step 3   | back the plunger REMOVE SYRINGE CAP: Remove the syringe cap by rotating anti-clockwise movement. (See Figure 3). Note: Syringe cap to be opened once user is ready for the injection. Once syringe cap opened, Do Not recap, Syringe should be disposed if user is not ready for injection.                                                                                                                                                  | Figure 3 Removal of treaded closure cap                                                                                                                                           |
+| Step 4   | ATTACH NEEDLE: 1. Attach a 30G × ½ inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (See Figure 4) 2. Carefully remove the needle cap by pulling it straight off. Note: Do not wipe the needle at any time.                                                                                                                                                                                   | Figure 4 Needle attachment                                                                                                                                                        |
+| Step 5   | DISLODGE AIR BUBBLES 1. Hold the syringe with the needle pointing up. 2. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (See Figure 5).                                                                                                                                                                                                                                             | Figure 5 Removal of air bubble                                                                                                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-| Step 1   | PREPARATION: Make sure that your pack contains a sterile prefilled syringe in a sealed tray. Peel the lid off the syringe tray and using aseptic technique, remove the syringe.                                                                                                                                                                                                                                                     | PREPARATION: Make sure that your pack contains a sterile prefilled syringe in a sealed tray. Peel the lid off the syringe tray and using aseptic technique, remove the syringe.   |
-|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Step 2   | INSPECT SYRINGE: 1. RANIBIZUMAB should be clear to slightly opalescent, colorless to pale brownish. 2. Do not use the prefilled syringe if: -The syringe cap is detached from the Luer lock. - The syringe is damaged. - Particulates, cloudiness, or discoloration are visible. 3. If any of the above is not true, discard the pre-filled syringe and use a new one. Note: To avoid compromising the sterility of the product, do | Figure 2 Ranluspec 0.5 mg prefilled syringe with a White finger grip.                                                                                                             |
-| Step 3   | not pull back the plunger REMOVE SYRINGE CAP: Remove the syringe cap by rotating anti-clockwise movement. (See Figure 3). Note: Syringe cap to be opened once user is ready for the injection. Once syringe cap opened, Do Not recap, Syringe should be disposed if user is not ready for injection.                                                                                                                                | Figure 3 Removal of treaded closure cap                                                                                                                                           |
-| Step 4   | ATTACH NEEDLE: 1. Attach a 30G × ½ inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (See Figure 4) 2. Carefully remove the needle cap by pulling it straight off. Note: Do not wipe the needle at any time.                                                                                                                                                                          | Figure 4 Needle attachment                                                                                                                                                        |
-| Step 5   | DISLODGE AIR BUBBLES 1. Hold the syringe with the needle pointing up. 2. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (See Figure 5).                                                                                                                                                                                                                                    | Figure 5 Removal of air bubble                                                                                                                                                    |
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-| Step 6   | EXPEL AIR AND ADJUST DRUG DOSE. 1. Hold the syringe at eye level, and carefully push the plunger rod until the edge below the dome of the rubber stopper is aligned with the 0.05 mL dose mark (See Figure 6). Note: The plunger rod is attached to the rubber stopper, to avoid air entrapment do not rod.                                                                                                                                                                                                                                                                           | pull back the plunger                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Step 7   | INJECT: 1. The injection procedure should be carried out under aseptic conditions. 2. The injection needle should be inserted 3.5-4.0 mmposterior to the limbus into vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. 3. Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL. 4. After injection, do not re-cap the needle or detach it from the syringe. dispose of the used syringe together with the needle in a sharp disposal container or in accordance with local requirements. | INJECT: 1. The injection procedure should be carried out under aseptic conditions. 2. The injection needle should be inserted 3.5-4.0 mmposterior to the limbus into vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. 3. Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL. 4. After injection, do not re-cap the needle or detach it from the syringe. dispose of the used syringe together with the needle in a sharp disposal container or in accordance with local requirements. |
+| Step 6   | EXPEL AIR AND ADJUST DRUG DOSE. 1. Hold the syringe at eye level, and carefully push the plunger rod until the edge below the dome of the rubber stopper is aligned with the 0.05 mL dose mark (See Figure 6). Note: The plunger rod is attached to the rubber stopper, to avoid air entrapment do not pull                                                                                                                                                                                                                                                                                   | Figure                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Step 7   | back the plunger rod. INJECT: 1. The injection procedure should be carried out under aseptic conditions. 2. The injection needle should be inserted 3.5-4.0 mmposterior to the limbus into vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. 3. Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL. 4. After injection, do not re-cap the needle or detach it from the syringe. dispose of the used syringe together with the needle in a sharp disposal container or in accordance with local | back the plunger rod. INJECT: 1. The injection procedure should be carried out under aseptic conditions. 2. The injection needle should be inserted 3.5-4.0 mmposterior to the limbus into vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. 3. Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL. 4. After injection, do not re-cap the needle or detach it from the syringe. dispose of the used syringe together with the needle in a sharp disposal container or in accordance with local |
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -1511,7 +1725,7 @@ EU/1/25/2012/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: Date of latest renewal:
+Date of first authorisation: 10.2.2026 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1532,7 +1746,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-Lupin Limited (Biotech Division) Gat No.-1156, Village: Ghotawade, Taluka Mulshi, District: Pune - 412 115, Maharashtra India
+Lupin Limited (Biotech Division) Gat No. 1156-1160, Village: Ghotawade, Taluka Mulshi, District: Pune - 412 115, Maharashtra India
 
 Name and address of the manufacturer responsible for batch release
 
@@ -1663,7 +1877,7 @@ Lot
 
 Justification for not including Braille accepted
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1692,8 +1906,7 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 2.3 mg/0.23 mL
 
@@ -1758,7 +1971,7 @@ Do not freeze.
 
 Keep the pre-filled syringe in its sealed tray in the carton to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1808,9 +2021,9 @@ Lot
 
 ## 5. OTHER
 
-0.165 mL
-
 <div style=\"page-break-after: always\"></div>
+
+0.165 mL
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1964,7 +2177,7 @@ Uncommon serious side effects (may affect up to 1 in 100 people): Blindness, inf
 
 The symptoms you might experience are pain or increased discomfort in your eye, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light. Please tell your doctor immediately if you develop any of these side effects .
 
-The most frequently reported side effects are described below:
+## The most frequently reported side effects are described below:
 
 ## Very common side effects (may affect more than 1 in 10 people)
 
@@ -2020,9 +2233,127 @@ Lupin Europe GmbH Hanauer Landstraße 139-143 60314 Frankfurt Germany
 
 Hormosan Pharma GmbH Hanauer Landstraße 139-143 60314 Frankfurt Germany
 
-## This leaflet was last revised in
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
+
+## België/Belgique/Belgien
+
+Sandoz nv/sa Tél/Tel: +32 2 722 97 97
+
+## България
+
+Сандоз България КЧТ Тел.: +359 2 970 47 47
+
+## Česká republika
+
+Sandoz s.r.o. Tel: +420 234 142 222
+
+## Danmark/Norge/Ísland/Sverige
+
+Sandoz A/S
+
+Tlf./Tlf/Sími/Tel: +45 63 95 10 00
+
+## Deutschland
+
+Hormosan Pharma GmbH Tel: +49 69 96759087
+
+## Eesti
+
+Sandoz d.d. Eesti filiaal Tel: +372 665 2400
+
+## Ελλάδα
+
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε . Τηλ: +30 216 600 5000
+
+## España
+
+Sandoz Farmacéutica, S.A. Tel: +34 900 456 856
+
+## France
+
+Sandoz SAS
+
+Tél: +33 1 49 64 48 00
+
+## Hrvatska
+
+Sandoz d.o.o. Tel: +385 1 23 53 111
+
+## Ireland
+
+Rowex Ltd. Tel: 1800 83 20 83
+
+## Italia
+
+Sandoz S.p.A. Tel: +39 02 81280696
+
+## Κύπρος
+
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε . ( Ελλάδα ) Τηλ: +30 216 600 5000
+
+## Lietuva
+
+Sandoz Pharmaceuticals d.d filialas Tel: +370 5 2636 037
+
+## Luxembourg/Luxemburg
+
+Sandoz nv/sa (Belgique/Belgien) Tél/Tel: +32 2 722 97 97
+
+## Magyarország
+
+Sandoz Hungária Kft. Tel.: +36 1 430 2890
+
+## Malta
+
+Sandoz Pharmaceuticals d.d. Tel: +35699644126
+
+## Nederland
+
+Sandoz B.V.
+
+Tel: +31 36 52 41 600
+
+## Österreich
+
+Sandoz GmbH Tel: +43 5338 2000
+
+## Polska
+
+Sandoz Polska Sp. z o.o. Tel.: +48 22 209 70 00
+
+## Portugal
+
+Sandoz Farmacêutica Lda. Tel: +351 21 000 86 00
+
+## România
+
+Sandoz Pharmaceuticals SRL Tel: +40 21 407 51 60
+
+## Slovenija
+
+Sandoz farmacevtska družba d.d. Tel: +386 1 580 21 11
+
+## Slovenská republika
+
+Sandoz d.d. organizačná zložka Tel: +421 2 48 200 600
+
+## Suomi/Finland
+
+Sandoz A/S
+
+Puh/Tel: +358 10 6133 400
+
+<div style=\"page-break-after: always\"></div>
+
+## Latvija
+
+Sandoz d.d. Latvia filiāle
+
+Tel: +371 67 892 006
+
+## This leaflet was last revised in
 
 ## Other sources of information
 
@@ -2089,11 +2420,9 @@ To prepare Ranluspec for intravitreal administration to adult patients, please a
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+0.05mL→
 
-| Hold the syringe with the needle pointing up. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top. Note: Do not wipe the injection needle. Do not pull back on the plunger.   |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hold the syringe at eye level, and carefully push the plunger rod until the plunger tip is aligned with the line that marks 0.05 mL on the syringe.                                                                               |
+<!-- image -->
 
 The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. The injection volume of 0.05 mL is then delivered; a different scleral site should be used for subsequent injections.
 
@@ -2232,11 +2561,13 @@ The symptoms you might experience are pain or increased discomfort in your eye, 
 
 The most frequently reported side effects are described below:
 
-Very common side effects (may affect more than 1 in 10 people)
+## Very common side effects (may affect more than 1 in 10 people)
 
 Visual side effects include: Inflammation of the eye, bleeding in the back of the eye (retinal bleeding), visual disturbances, eye pain, small particles or spots in your vision (floaters), bloodshot eye, eye irritation, a feeling of having something in the eye, increased tear production, inflammation or infection of the eyelid margins, dry eye, redness or itching of the eye and increased eye pressure. Nonvisual side effects include: Sore throat, nasal congestion, runny nose, headache and joint pain.
 
-Other side effects which may occur following Ranluspec treatment are described below: Common side effects
+Other side effects which may occur following Ranluspec treatment are described below:
+
+Common side effects
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2278,11 +2609,167 @@ Pack size of one pre-filled syringe, packed in a sealed tray. The pre-filled syr
 
 Lupin Europe GmbH Hanauer Landstraße 139-143 60314 Frankfurt Germany
 
-<div style=\"page-break-after: always\"></div>
-
 ## Manufacturer
 
+<div style=\"page-break-after: always\"></div>
+
 Hormosan Pharma GmbH Hanauer Landstraße 139-143 60314 Frankfurt Germany
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Sandoz nv/sa
+
+Tél/Tel: +32 2 722 97 97
+
+## Lietuva
+
+Sandoz Pharmaceuticals d.d filialas
+
+Tel: +370 5 2636 037
+
+## България
+
+Сандоз България КЧТ
+
+Тел.: +359 2
+
+970 47 47
+
+## Luxembourg/Luxemburg
+
+Sandoz nv/sa (Belgique/Belgien) Tél/Tel: +32 2 722 97 97
+
+## Česká republika
+
+Sandoz s.r.o.
+
+Tel: +420 234 142 222
+
+## Magyarország
+
+Sandoz Hungária Kft.
+
+Tel.: +36 1 430 2890
+
+## Danmark/Norge/Ísland/Sverige
+
+Sandoz A/S
+
+Tlf./Tlf/Sími/Tel: +45 63 95 10 00
+
+## Malta
+
+Sandoz Pharmaceuticals d.d.
+
+Tel: +35699644126
+
+## Deutschland
+
+Hormosan Pharma GmbH
+
+Tel: +49 69 96759087
+
+## Nederland
+
+Sandoz B.V.
+
+Tel: +31 36 52 41 600
+
+## Eesti
+
+Sandoz d.d. Eesti filiaal
+
+Tel: +372 665 2400
+
+## Österreich
+
+Sandoz GmbH
+
+Tel: +43 5338 2000
+
+## Ελλάδα
+
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε .
+
+Τηλ: +30 216 600 5000
+
+## Polska
+
+Sandoz Polska Sp. z o.o.
+
+Tel.: +48 22 209 70 00
+
+## España
+
+Sandoz Farmacéutica, S.A.
+
+Tel: +34 900 456 856
+
+## Portugal
+
+Sandoz Farmacêutica Lda.
+
+Tel: +351 21 000 86 00
+
+## France
+
+Sandoz SAS
+
+Tél: +33 1 49 64 48 00
+
+## România
+
+Sandoz Pharmaceuticals SRL
+
+Tel: +40 21 407 51 60
+
+## Hrvatska
+
+Sandoz d.o.o.
+
+Tel: +385 1 23 53 111
+
+## Slovenija
+
+Sandoz farmacevtska družba d.d.
+
+Tel: +386 1 580 21 11
+
+## Ireland
+
+Rowex Ltd.
+
+Tel: 1800 83 20 83
+
+## Slovenská republika
+
+Sandoz d.d. - organizačná zložka
+
+Tel: +421 2 48 200 600
+
+## Italia
+
+Sandoz S.p.A.
+
+Tel: +39 02 81280696
+
+## Suomi/Finland
+
+Sandoz A/S
+
+Puh/Tel: +358 10 6133 400
+
+<div style=\"page-break-after: always\"></div>
+
+## Κύπρος
+
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε . ( Ελλάδα ) Τηλ: +30 216 600 5000
+
+## Latvija
+
+Sandoz d.d. Latvia filiāle Tel: +371 67 892 006
 
 ## This leaflet was last revised in
 
@@ -2328,6 +2815,10 @@ The injection procedure should be carried out under aseptic conditions, which in
 
 <div style=\"page-break-after: always\"></div>
 
+inge tray and using aseptic technique, remove the syringe.
+
+Finger grip
+
 Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.
 
 The pre-filled syringe is for single use only. The pre-filled syringe is sterile. Do not use the product if the packaging is damaged. The sterility of the pre-filled syringe cannot be guaranteed unless the tray remains sealed. Do not use the pre-filled syringe if the solution is discoloured, cloudy or contains particles.
@@ -2342,28 +2833,38 @@ To prepare Ranluspec for intravitreal administration, please adhere to the instr
 
 | Introduction                   | 1. The prefilled syringe is sterile and is for single dose only. Do not use the product if the packaging is damaged or has been tampered with. 2. To prepare Ranluspec for intravitreal administration, please adhere to these instructions for use. Read all the instructions carefully before using the prefilled syringe. 3. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions. 4. For the intravitreal injection, a 30-gauge × ½ inch sterile injection needle should be used. (Not provided). Note: The dose must be set to 0.05 mL.   |
 |--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pre-filled syringe description |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Pre-filled syringe description | Figure 1 Ranluspec pre-filled syringe illustration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Step 1                         | PREPARATION: Make sure that your pack contains a sterile prefilled syringe in a sealed tray. Peel the lid off the syringe tray and using aseptic technique, remove the syringe.                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Step 2                         | INSPECT SYRINGE: 1. RANIBIZUMAB should be clear to slightly opalescent. 2. Do not use the prefilled syringe if: -The syringe cap is detached from the Luer lock. - The syringe is damaged. - Particulates, cloudiness, or Figure 2 Ranluspec 0.5 mg prefilled syringe with a White finger grip.                                                                                                                                                                                                                                                                                           |
 
+Syringe cap
+
+<div style=\"page-break-after: always\"></div>
+
+Air bubble
+
+Dimm Nagla o*łoman
+
+Rioure ? Removal o
+
+Rinura C Pamovol of oir huhhla
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+|        | discoloration are visible. 3. If any of the above is not true, discard the pre-filled syringe and use a new one. Note: To avoid compromising the sterility of the product, do not pull back the plunger                                                                     |
+|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Step 3 | REMOVE SYRINGE CAP: Remove the syringe cap by rotating anti- clockwise movement. (See Figure 3). Note: Syringe cap to be opened once user is ready for the injection. Once syringe cap opened, Do Not recap, Syringe should be disposed if user is not ready for injection. |
+| Step 4 | ATTACH NEEDLE: 1. Attach a 30G × ½ inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (See Figure 4) 2. Carefully remove the needle cap by pulling it straight off. Note: Do not wipe the needle at any                        |
+| Step 5 | DISLODGE AIR BUBBLES 1. Hold the syringe with the needle pointing up. 2. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (See Figure 5).                                                                            |
+
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-<!-- image -->
-
-<!-- image -->
-
-|        | discoloration are visible. 3. If any of the above is not true, discard the pre-filled syringe and use a new one. Note: To avoid compromising the sterility of the product, do not pull                                                                                                       |
-|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Step 3 | back the plunger REMOVE SYRINGE CAP: Remove the syringe cap by rotating anti- clockwise movement. (See Figure 3). Note: Syringe cap to be opened once user is ready for the injection. Once syringe cap opened, Do Not recap, Syringe should be disposed if user is not ready for injection. |
-| Step 4 | ATTACH NEEDLE: 1. Attach a 30G × ½ inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (See Figure 4) 2. Carefully remove the needle cap by pulling it straight off. Note: Do not wipe the needle at any time.                                   |
-| Step 5 | DISLODGE AIR BUBBLES 1. Hold the syringe with the needle pointing up. 2. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (See Figure 5).                                                                                             |
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-| Step 6   | EXPEL AIR AND ADJUST DRUG DOSE. 1. Hold the syringe at eye level, and carefully push the plunger rod until the edge below the dome of the rubber stopper is aligned with the 0.05 mL dose mark (See Figure 6). Note: The plunger rod is attached to the rubber stopper, to avoid air entrapment do not pull back the plunger rod.                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Step 7   | INJECT: 1. The injection procedure should be carried out under aseptic conditions. 2. Insert the needle into the injection site. 3. Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL. 4. After injection, do not re-cap the needle or detach it from the syringe. dispose of the used syringe together with the needle in a sharp disposal container or in accordance with local requirements. | INJECT: 1. The injection procedure should be carried out under aseptic conditions. 2. Insert the needle into the injection site. 3. Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL. 4. After injection, do not re-cap the needle or detach it from the syringe. dispose of the used syringe together with the needle in a sharp disposal container or in accordance with local requirements. |
+| Step 6   | EXPEL AIR AND ADJUST DRUG DOSE. 1. Hold the syringe at eye level, and carefully push the plunger rod until the edge below the dome of the rubber stopper is aligned with the 0.05 mL dose mark (See Figure 6). Note: The plunger rod is attached to the rubber stopper, to avoid air entrapment do not pull back the                                                                                                                                             | Figure                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Step 7   | plunger rod. INJECT: 1. The injection procedure should be carried out under aseptic conditions. 2. Insert the needle into the injection site. 3. Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL. 4. After injection, do not re-cap the needle or detach it from the syringe. dispose of the used syringe together with the needle in a sharp disposal container or in accordance with local requirements. | plunger rod. INJECT: 1. The injection procedure should be carried out under aseptic conditions. 2. Insert the needle into the injection site. 3. Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL. 4. After injection, do not re-cap the needle or detach it from the syringe. dispose of the used syringe together with the needle in a sharp disposal container or in accordance with local requirements. |

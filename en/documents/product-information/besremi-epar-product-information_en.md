@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-13 10:14:55
+document_datetime: 2026-04-24 12:44:58
 document_pages: 55
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/besremi-epar-product-information_en.pdf
 document_name: besremi-epar-product-information_en.pdf
 version: success
-processing_time: 12.8918982
-conversion_datetime: 2026-01-14 07:19:19.430153
+processing_time: 12.5858636
+conversion_datetime: 2026-04-25 16:43:56.738916
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -64,9 +64,9 @@ Besremi is indicated as monotherapy in adults for the treatment of polycythaemia
 
 Treatment should be initiated under supervision of a physician experienced in the management of the disease.
 
-## Posology
-
 <div style=\"page-break-after: always\"></div>
+
+## Posology
 
 ## Titration phase
 
@@ -104,9 +104,9 @@ Adjustments in the recommended dose for ropeginterferon alfa-2b are not necessar
 
 The pharmacokinetic profile of ropeginterferon alfa-2b has not been determined in obese and underweighted patients. No recommendation on dose adjustment for ropeginterferon alfa-2b can be given for these patients.
 
-## Paediatric population
-
 <div style=\"page-break-after: always\"></div>
+
+## Paediatric population
 
 The safety and efficacy of Besremi in children and adolescents has not been established. No data are available (see section 4.4).
 
@@ -125,7 +125,7 @@ The recommended injection site is the abdominal skin around but not within 5 cm 
 - Hypersensitivity to the active substance or to any of the excipients listed in section 6.1
 - Pre-existing thyroid disease unless it can be controlled with conventional treatment
 - Existence of, or history of severe psychiatric disorders, particularly severe depression, suicidal ideation or suicide attempt
-- Severe pre-existing cardiovascular disease, (i.e., uncontrolled hypertension, congestive heart failure (≥ NYHA class 2), serious cardiac arrhythmia, significant coronary artery stenosis, unstable angina) or recent stroke or myocardial infarction
+- Severe pre-existing cardiovascular disease, (i.e., uncontrolled hypertension, congestive heart unstable angina) or recent stroke or myocardial infarction
 - History or presence of autoimmune disease
 - Immunosuppressed transplant recipients
 - Combination with telbivudine (see section 4.5)
@@ -144,9 +144,9 @@ The recommended posology for the titration phase of ropeginterferon alfa-2b (see
 
 During the titration phase the efficacy to reduce the cardiovascular and thromboembolic risk of the underlying disease may not be fully established. Patients should be closely monitored, particularly during the titration phase; complete blood counts including determination of haematocrit level, leukocyte and platelet counts should be performed regularly also after the individual optimal dose has been established. Phlebotomy as rescue treatment to normalise blood hyperviscosity may be necessary.
 
-## Endocrine system
-
 <div style=\"page-break-after: always\"></div>
+
+## Endocrine system
 
 Before ropeginterferon alfa-2b therapy, any pre-existing thyroid disease needs to be treated and controlled with conventional therapy (see section 4.3). Patients who develop symptoms indicative of a thyroid dysfunction during ropeginterferon alfa-2b therapy, should evaluate their thyroid stimulating hormone (TSH) levels. If TSH levels can be controlled within the normal range, the therapy can be continued.
 
@@ -178,7 +178,7 @@ Serious, acute hypersensitivity reactions (e.g., urticaria, angioedema, bronchoc
 
 Interferon alfa therapy has been associated with hepatotoxicity characteried by potentially significant increases in liver enzymes. Hepatic failure in hepatitis C virus infected patients was reported with other interferon alfa medicinal products (see section 4.8).
 
-Increases in ALT (≥ 3 times the upper limit of normal), AST (≥ 3 times the upper limit of normal), GGT (≥ 3 times the upper limit of normal) and bilirubin (&gt; 2 times the upper limit of normal) levels have been observed in patients treated with ropeginterferon alfa-2b. These elevations were mostly transient and occurred during the first treatment year.
+3 times the upper limit of normal), 3 times the upper limit of normal) and bilirubin (&gt; 2 times the upper limit of normal) levels have been observed in patients treated with ropeginterferon alfa-2b. These elevations were mostly transient and occurred during the first treatment year.
 
 Liver disorders have been reported in patients after long-term ropeginterferon alfa-2b therapy (see section 4.8). Liver enzymes and hepatic function should be regularly controlled in patients with longterm ropeginterferon alfa-2b therapy. Treatment with ropeginterferon alfa-2b should be discontinued when, despite dose reduction, the increase in liver enzyme levels is progressive and clinically significant. In patients who develop evidence of hepatic decompensation during treatment, ropeginterferon alfa-2b should be discontinued. Ropeginterferon alfa-2b is contraindicated in patients with decompensated cirrhosis of the liver (see section 4.3).
 
@@ -208,7 +208,7 @@ Besremi contains less than 1 mmol sodium (23 mg) per mL, that is to say essentia
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Enzymes of the protein catabolism are considered to be involved in the metabolism of ropeginterferon alfa-2b. The involvement of transport proteins in absorption, distribution and elimination of ropeginterferon alfa-2b is not known. Interferon alfa has shown to influence the activity of cytochrome P450 (CYP) isozymes CYP1A2 and CYP2D6.
+Enzymes of the protein catabolism are considered to be involved in the metabolism of ropeginterferon alfa-2b. The involvement of transport proteins in absorption, distribution and elimination of ropeginterferon alfa-2b is not known. Interferon alfa has shown to influence the activity of cytochrome
 
 <div style=\"page-break-after: always\"></div>
 
@@ -218,13 +218,13 @@ No interaction studies have been performed with ropeginterferon alfa-2b.
 
 Co-administration of pegylated interferon alfa-2a with telbivudine in patients with hepatitis B increased the risk of developing peripheral neuropathy. A combination therapy with telbivudine and ropeginterferon alfa-2b is contraindicated (see section 4.3).
 
-Administration of 180 micrograms of pegylated interferon alfa-2a once weekly for 4 weeks in healthy male subjects did not show any effect on mephenytoin, dapsone, debrisoquine and tolbutamide pharmacokinetics profiles, suggesting that pegylated interferon alfa-2a has no effect on in vivo metabolic activity of cytochrome P450 (CYP) 3A4, 2C9, 2C19 and 2D6 isozymes. In the same study, a 25% increase in the AUC of theophylline (CYP1A2 substrate) was observed, demonstrating that pegylated interferon alfa-2a is an inhibitor of CYP1A2 activity.
+Administration of 180 micrograms of pegylated interferon alfa-2a once weekly for 4 weeks in healthy male subjects did not show any effect on mephenytoin, dapsone, debrisoquine and tolbutamide pharmacokinetics profiles, suggesting that pegylated interferon alfa-2a has no effect on in vivo pegylated interferon alfa-2a is a
 
-Co-administration of pegylated interferon alfa-2b showed no significant interaction with tolbutamide (CYP2C9 substrate), midazolam (CYP3A4 substrate), dapsone (N-acetyltransferase substrate) and modestly increased the exposure of caffeine (CYP1A2 substrate) and desipramine (CYP2D6 substrate).
+Co-administration of pegylated interferon alfa-2b showed no significant interaction with tolbutamide 9 -acetyltransferase substrate) and substrate).
 
-Therefore, care should be taken when ropeginterferon alfa-2b is co-administered with CYP1A2 substrates notably those having a narrow therapeutic margin such as theophylline or methadone. Likewise, caution is recommended with CYP2D6 substrates (e.g., vortioxetine, risperidone) combined with ropeginterferon alfa-2b. Ropeginterferon alfa-2b may inhibit the activity of CYP1A2 and CYP2D6 and thus may increase the blood concentrations of these medicinal products.
+Therefore, care should be taken when ropeginterferon alfa-2b is cosubstrates notably those having a narrow therapeutic margin such as theophylline or methadone. e.g., vortioxetine, risperidone) combined with ropeginterferon alfa-2b. Ropeginterferon alfa-2b may and thus may increase the blood concentrations of these medicinal products.
 
-No dose adaptions for ropeginterferon alfa-2b should be necessary when concomitantly administered with medicinal products metabolised via CYP2C9/19, CYP3A4 or by N-acetyltransferase.
+No dose adaptions for ropeginterferon alfa-2b should be necessary when concomitantly administered with medicinal products metabolised 9/19 -acetyltransferase.
 
 Caution must be exercised when administering ropeginterferon alfa-2b in combination with other potentially myelosuppressive/chemotherapeutic agents.
 
@@ -244,9 +244,9 @@ There are no or limited amount of data from the use of interferon alfa in pregna
 
 It is not known whether ropeginterferon alfa-2b is excreted in human milk. A risk to the newborns/infants cannot be excluded. A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from Besremi therapy taking into account the benefit of breast feeding for the child and the benefit of therapy for the woman .
 
-## Fertility
-
 <div style=\"page-break-after: always\"></div>
+
+## Fertility
 
 There are no data on the effect of ropeginterferon alfa-2b therapy on the fertility of females or males.
 
@@ -264,7 +264,7 @@ Serious adverse reactions are depression (1.1%), atrial fibrillation (1.1%) and 
 
 ## Tabulated list of adverse reactions
 
-Following treatment-related adverse reactions were reported with ropeginterferon alfa-2b in clinical studies in 178 polycythaemia vera adult patients. Adverse reactions are listed by system organ class and frequency (very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) or not known (cannot be estimated from available data).
+Following treatment-related adverse reactions were reported with ropeginterferon alfa-2b in clinical studies in 178 polycythaemia vera adult patients. Adverse reactions are listed by system organ class 1/100 to &lt; 1/1 000 to &lt; 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) or not known (cannot be estimated from available data).
 
 | System organ class                   | Frequency   | Adverse reaction                                                                                                                                              |
 |--------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -281,12 +281,12 @@ Following treatment-related adverse reactions were reported with ropeginterferon
 | Psychiatric disorders                | common      | depression, aggression # , insomnia, anxiety, mood altered, mood swings, mood disorders                                                                       |
 | Psychiatric disorders                | uncommon    | suicide attempt # , suicidal ideation # , confusional state # , acute stress disorder, hallucination, emotional distress, nervousness nightmare, irritability |
 | Psychiatric disorders                | rare        | bipolar disorder # , mania #                                                                                                                                  |
-| Nervous system disorders             | common      | headache, dizziness, hypoesthesia, somnolence, paraesthesia                                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                 | uncommon    | polyneuropathy, peripheral motor neuropathy, radiculopathy, migraine, mental impairment, tremor, aura                                    |
+| Nervous system disorders                        | common      | headache, dizziness, hypoesthesia, somnolence, paraesthesia                                                                              |
 |-------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Nervous system disorders                        | uncommon    | polyneuropathy, peripheral motor neuropathy, radiculopathy, migraine, mental impairment, tremor, aura                                    |
 | Eye disorders                                   | common      | dry eye                                                                                                                                  |
 | Eye disorders                                   | uncommon    | retinal haemorrhage # , retinal exudates # , visual impairment, visual acuity reduced, vision blurred, ocular discomfort, eczema eyelids |
 | Eye disorders                                   | rare        | retinopathy # , optic neuropathy # , retinal artery occlusion # , retinal vein occlusion # ,                                             |
@@ -315,19 +315,19 @@ Following treatment-related adverse reactions were reported with ropeginterferon
 | Skin and subcutaneous tissue disorders          | not known   | skin depigmentation #                                                                                                                    |
 | Musculoskeletal and connective tissue disorders | very common | arthralgia, myalgia                                                                                                                      |
 | Musculoskeletal and connective tissue disorders | common      | Sjogren's syndrome, arthritis, pain in extremity, musculoskeletal pain, bone pain, muscle spasms                                         |
-| Musculoskeletal and connective tissue disorders | uncommon    | muscular weakness, neck pain, groin pain                                                                                                 |
+| Renal and urinary disorders                     | uncommon    | muscular weakness, neck pain, groin pain                                                                                                 |
 | Renal and urinary disorders                     | uncommon    | cystitis haemorrhagic, dysuria, micturition urgency, urinary retention                                                                   |
-| Reproductive system and breast disorders        | uncommon    | erectile dysfunction, haematospermia                                                                                                     |
-| Reproductive system and breast disorders        | very common | influenza-like illness, fatigue                                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
-| General disorders and administration site conditions   | common     | pyrexia, injection site reaction, asthenia, chills, general physical health deterioration, injection site erythema                                                                             |
-|--------------------------------------------------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| General disorders and administration site conditions   | uncommon   | injection site pain, injection site pruritus, sensitivity to weather change                                                                                                                    |
-| General disorders and administration site conditions   | not known: | tongue hyperpigmentation #                                                                                                                                                                     |
-| Investigations                                         | common     | antithyroid antibody positive, blood thyroid stimulating hormone increased, body temperature increased, antinuclear antibody positive, blood lactate dehydrogenase increased, weight decreased |
-| Investigations                                         | uncommon   | platelet count increased, blood uric acid increased, Coombs test positive                                                                                                                      |
+| Reproductive system and breast disorders             | uncommon    | erectile dysfunction, haematospermia                                                                                                                                                           |
+|------------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| General disorders and administration site conditions | very common | influenza-like illness, fatigue                                                                                                                                                                |
+| General disorders and administration site conditions | common      | pyrexia, injection site reaction, asthenia, chills, general physical health deterioration, injection site erythema                                                                             |
+| General disorders and administration site conditions | uncommon    | injection site pain, injection site pruritus, sensitivity to weather change                                                                                                                    |
+| General disorders and administration site conditions | not known:  | tongue hyperpigmentation #                                                                                                                                                                     |
+| Investigations                                       | common      | antithyroid antibody positive, blood thyroid stimulating hormone increased, body temperature increased, antinuclear antibody positive, blood lactate dehydrogenase increased, weight decreased |
+| Investigations                                       | uncommon    | platelet count increased, blood uric acid increased, Coombs test positive                                                                                                                      |
 
 ## Description of selected adverse reactions
 
@@ -337,15 +337,15 @@ The most common adverse reactions (including number of patients, incidence rate,
 
 Table 1. Most common adverse reactions during ropeginterferon alfa-2b treatment.
 
-| ADR >10% PT                            | N (%) N = 178   |   IR | CTCAE intensity grade ≥3 N (%)   | Dose reduced N (%)   | Medicinal Product interrupted N (%)   | Medicinal Productdisc ontinued N (%)   | Recovered N (%)   |
-|----------------------------------------|-----------------|------|----------------------------------|----------------------|---------------------------------------|----------------------------------------|-------------------|
-| Leukopenia                             | 36 (20.2)       | 21.2 | 3 (8.3)                          | 24 (66.7)            | 7 (19.4)                              | n.r.                                   | 35 (97.2)         |
-| Thrombo- cytopenia                     | 33 (18.5)       | 11.2 | 4 (12.1)                         | 13 (39.4)            | 3 (9.1)                               | 1 (3.0)                                | 30 (90.9)         |
-| Arthralgia                             | 24 (13.5)       |  5.2 | 1 (4.2)                          | 5 (20.8)             | 5 (20.8)                              | 1 (4.2)                                | 22 (91.7)         |
-| Fatigue                                | 22 (12.4)       |  6.6 | n.r.                             | 4 (18.2)             | 1 (4.5)                               | 1 (4.5)                                | 21 (95.5)         |
-| Gamma- glutamyl- transferase increased | 20 (11.2)       |  7.9 | 7 (35.0)                         | 9 (45.0)             | 5 (25.0)                              | n.r.                                   | 17 (85.0)         |
-| Influenza like illness                 | 20 (11.2)       |  4.9 | n.r.                             | 4 (20.0)             | 3 (15.0)                              | n.r.                                   | 19 (95.0)         |
-| Myalgia                                | 19 (10.7)       |  3.5 | n.r.                             | 6 (31.6)             | 1 (5.3)                               | n.r.                                   | 17 (89.5)         |
+| ADR >10% PT                            | N (%) N = 178   |   IR | CTCAE intensity N (%)   | Dose reduced N (%)   | Medicinal Product interrupted N (%)   | Medicinal Productdisc ontinued N (%)   | Recovered N (%)   |
+|----------------------------------------|-----------------|------|-------------------------|----------------------|---------------------------------------|----------------------------------------|-------------------|
+| Leukopenia                             | 36 (20.2)       | 21.2 | 3 (8.3)                 | 24 (66.7)            | 7 (19.4)                              | n.r.                                   | 35 (97.2)         |
+| Thrombo- cytopenia                     | 33 (18.5)       | 11.2 | 4 (12.1)                | 13 (39.4)            | 3 (9.1)                               | 1 (3.0)                                | 30 (90.9)         |
+| Arthralgia                             | 24 (13.5)       |  5.2 | 1 (4.2)                 | 5 (20.8)             | 5 (20.8)                              | 1 (4.2)                                | 22 (91.7)         |
+| Fatigue                                | 22 (12.4)       |  6.6 | n.r.                    | 4 (18.2)             | 1 (4.5)                               | 1 (4.5)                                | 21 (95.5)         |
+| Gamma- glutamyl- transferase increased | 20 (11.2)       |  7.9 | 7 (35.0)                | 9 (45.0)             | 5 (25.0)                              | n.r.                                   | 17 (85.0)         |
+| Influenza like illness                 | 20 (11.2)       |  4.9 | n.r.                    | 4 (20.0)             | 3 (15.0)                              | n.r.                                   | 19 (95.0)         |
+| Myalgia                                | 19 (10.7)       |  3.5 | n.r.                    | 6 (31.6)             | 1 (5.3)                               | n.r.                                   | 17 (89.5)         |
 
 No CTCAE grade 5 (death) adverse reactions reported for these preferred terms; 1 AE grade 4 (life-threating or disabling) reported for Gamma-glutamyltransferase increased.
 
@@ -355,9 +355,13 @@ N (%) number and percentage of patients with given AE
 
 ## Gastrointestinal disorders
 
-Gastrointestinal disorders have been reported with other interferon alfa medicinal products and have been reported in 15.7% of patients with ropeginterferon alfa-2b treatment. The most common gastrointestinal disorders reported in these studies were diarrhoea (5.1%; incidence rate: 2.8 [events/100 patients per year]) and nausea (4.5%; incidence rate: 1.2 events/100 patients per year]).
+Gastrointestinal disorders have been reported with other interferon alfa medicinal products and have been reported in 15.7% of patients with ropeginterferon alfa-2b treatment. The most common
 
 <div style=\"page-break-after: always\"></div>
+
+gastrointestinal disorders reported in these studies were diarrhoea (5.1%; incidence rate: 2.8 [events/100 patients per year]) and nausea (4.5%; incidence rate: 1.2 events/100 patients per year]).
+
+## CNS
 
 In the clinical development program of ropeginterferon alfa-2b, two cases of serious depression (1.1%; incidence rate: 0.4 events/100 patients per year) occurred. The patients recovered completely after permanent medicinal product discontinuation. One patient who experienced serious acute stress disorder (0.6%; incidence rate: 0.2 events/100 patients per year) with moderate intensity recovered completely after the dose of ropeginterferon alfa-2b was reduced. CNS effects including suicide attempt, suicidal ideation, aggression, bipolar disorder, mania and confusion have been reported with interferon alfa (see section 4.4).
 
@@ -391,26 +395,24 @@ Pharmacotherapeutic group: Immunostimulants, interferons, ATC code: L03AB15
 
 Ropeginterferon alfa-2b is a recombinant interferon alfa-2b conjugated with a two-arm mPEG at a degree of substitution of 1 mole of polymer/mole of protein. The average molecular mass is approximately 60 kDa, of which the PEG moiety constitutes approximately 40 kDa .
 
-## Mechanism of action
-
-Interferon alfa belongs to the class of type I interferons which exhibit their cellular effects by binding to a transmembrane receptor termed interferon alfa receptor (IFNAR). Binding to IFNAR initiates a downstream signalling cascade through the activation of kinases, particularly Janus kinase 1 (JAK1) and tyrosine kinase 2 (TYK2) and signal transducer and activator of transcription (STAT) proteins.
-
 <div style=\"page-break-after: always\"></div>
 
-Nuclear translocation of STAT proteins controls distinct gene-expression programs and exhibits various cellular effects. Interferon alfa was shown to have an inhibitory effect on the proliferation of hematopoietic and bone marrow fibroblast progenitor cells and antagonised the action of growth factors and other cytokines that have a role in the development of myelofibrosis. These actions may be involved in the therapeutic effects of interferon alfa in polycythaemia vera.
+## Mechanism of action
+
+Interferon alfa belongs to the class of type I interferons which exhibit their cellular effects by binding to a transmembrane receptor termed interferon alfa receptor (IFNAR). Binding to IFNAR initiates a downstream signalling cascade through the activation of kinases, particularly Janus kinase 1 (JAK1) signal transducer and activator of transcription (STAT) proteins. Nuclear translocation of STAT proteins controls distinct gene-expression programs and exhibits various cellular effects. Interferon alfa was shown to have an inhibitory effect on the proliferation of hematopoietic and bone marrow fibroblast progenitor cells and antagonised the action of growth factors and other cytokines that have a role in the development of myelofibrosis. These actions may be involved in the therapeutic effects of interferon alfa in polycythaemia vera.
 
 Further, it was demonstrated that interferon alfa is able to decrease the mutated JAK2 V617F allele burden in patients with polycythaemia vera (a V617F point mutation in the JAK2 kinase is a hallmark of polycythaemia vera and is present in approximately 95% of patients).
 
 ## Clinical efficacy and safety
 
-An open label, randomised phase III study (PROUD-PV) evaluated the efficacy and safety of ropeginterferon alfa-2b in comparison to hydroxycarbamide in 254 adult polycythaemia vera patients (randomisation 1:1). Patients were stratified by previous exposure to hydroxycarbamide, age at screening (≤ 60 or &gt; 60 years) and presence of thromboembolic events in the past. Characteristics of the study population are presented in Table 2.
+An open label, randomised phase III study (PROUD-PV) evaluated the efficacy and safety of ropeginterferon alfa-2b in comparison to hydroxycarbamide in 254 adult polycythaemia vera patients (randomisation 1:1). Patients were stratified by previous exposure to hydroxycarbamide, age at 60 or &gt; 60 years) and presence of thromboembolic events in the past. Characteristics of the study population are presented in Table 2.
 
 Table 2. Patient characteristics at screening in the PROUD-PV study.
 
 |                               | Ropeginterferon alfa-2b treatment arm (n=127)   | Control treatment arm (n=127)   |
 |-------------------------------|-------------------------------------------------|---------------------------------|
 | Age                           |                                                 |                                 |
-| Years*                        | 58.5 ±10.81                                     | 57.9±13.10                      |
+|                               | 58.5 ±10.81                                     | 57.9±13.10                      |
 | Gender                        |                                                 |                                 |
 | Female n (%)                  | 68 (53.5)                                       | 67 (52.8)                       |
 | Male n (%)                    | 59 (46.5)                                       | 60 (47.2)                       |
@@ -424,7 +426,7 @@ Table 2. Patient characteristics at screening in the PROUD-PV study.
 | Leukocytes (10 9 /L)*         | 11.5±4.76                                       | 11.9±4.88                       |
 | Presence of splenomegaly      |                                                 |                                 |
 | No n (%)                      | 115 (90.6)                                      | 112 (88.2)                      |
-| Yes n (%)                     | 12 (9.4)                                        | 15 (11.8)                       |
+| (%)                           | 12 (9.4)                                        | 15 (11.8)                       |
 
 *values are mean ±SD.
 
@@ -432,21 +434,19 @@ Hydroxycarbamide treatment-naïve (n=160) or hydroxycarbamide treated (n=94) pat
 
 The disease response (defined as haematocrit &lt; 45% without phlebotomy [at least 3 months since last phlebotomy], platelets &lt; 400 × 10 9 /L and leukocytes &lt; 10 × 10 9 /L after 12 months of treatment) was 43.1% [53/123 of patients] in the ropeginterferon alfa-2b arm after 12 months of treatment.
 
-An open-label, phase IIIb extension study (CONTINUATION-PV) enrolled 169 adult polycythaemia vera patients who previously completed the PROUD-PV Study to evaluate the long-term efficacy and safety of ropeginterferon alfa-2b. Ninety-five patients continued to receive ropeginterferon alfa-2b (from 50 to 500 micrograms administered subcutaneously every two, three or four weeks). The mean doses after 36 and 72 months of treatment (12-month treatment duration in the PROUD-PV study and
-
 <div style=\"page-break-after: always\"></div>
 
-24- and 60-month treatment duration in the extension study) was 363 (±149) micrograms and 356 (±144) micrograms for ropeginterferon alfa-2b, respectively.
+An open-label, phase IIIb extension study (CONTINUATION-PV) enrolled 169 adult polycythaemia vera patients who previously completed the PROUD-PV Study to evaluate the long-term efficacy and safety of ropeginterferon alfa-2b. Ninety-five patients continued to receive ropeginterferon alfa-2b (from 50 to 500 micrograms administered subcutaneously every two, three or four weeks). The mean doses after 36 and 72 months of treatment (12-month treatment duration in the PROUD-PV study and 24- and 60-month treatment duration in the extension study) was 363 (±149) micrograms and 356 (±144) micrograms for ropeginterferon alfa-2b, respectively.
 
 The response to ropeginterferon alfa-2b treatment is presented in Table 3 and Table 4. After 72 months of treatment, disease response defined as complete haematological response only was 54.5% and 39.8% of patients showed a complete haematological response with an improvement in disease burden. Patients showed a statistically significant difference in the JAK2 V617F allele burden (16.6%) and JAK2 V617F allele change from baseline (-25.4%).
 
 Table 3. Disease response after 12 to 72 months of treatment with ropeginterferon alfa-2b.
 
-| Disease response                                                       | Patients treated with ropeginterferon alfa-2b Responder* N (%)   | Patients treated with ropeginterferon alfa-2b Responder* N (%)   | Patients treated with ropeginterferon alfa-2b Responder* N (%)   | Patients treated with ropeginterferon alfa-2b Responder* N (%)   |
-|------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|
-|                                                                        | 12 months                                                        | 24 months 1                                                      | 36 months 2                                                      | 72 months 3                                                      |
-| Complete haematological response a                                     | 59 (62.1)                                                        | 67 (70.5)                                                        | 67 (70.5)                                                        | 48 (54.5)                                                        |
-| Complete haematological response a and improvement in disease burden b | 44 (46.32)                                                       | 48 (50.53)                                                       | 51 (53.68)                                                       | 35 (39.77)                                                       |
+| Disease response                                                       | Patients treated with ropeginterferon alfa-2b Responder* N(%)   | Patients treated with ropeginterferon alfa-2b Responder* N(%)   | Patients treated with ropeginterferon alfa-2b Responder* N(%)   | Patients treated with ropeginterferon alfa-2b Responder* N(%)   |
+|------------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
+|                                                                        | 12 months                                                       | 24 months 1                                                     | 36 months 2                                                     | 72 months 3                                                     |
+| Complete haematological response a                                     | 59 (62.1)                                                       | 67 (70.5)                                                       | 67 (70.5)                                                       | 48 (54.5)                                                       |
+| Complete haematological response a and improvement in disease burden b | 44 (46.32)                                                      | 48 (50.53)                                                      | 51 (53.68)                                                      | 35 (39.77)                                                      |
 
 The mean JAK2V617F allele burden continuously declined throughout the 6-year ropeginterferon alfa-2b treatment, from 42.8% at baseline (before treatment in PROUD-PV) to 15.5% at 72 months.
 
@@ -464,13 +464,13 @@ Table 4. JAK2 V617F allele burden [%] absolute values and changes from baseline 
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Besremi in all subsets of the paediatric population in the treatment of polycythaemia vera (see section 4.2 for information on paediatric use).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
 The absorption of ropeginterferon alfa-2b is sustained in patients with peak serum concentrations reached after 3 to 6 days.
-
-<div style=\"page-break-after: always\"></div>
 
 The absolute bioavailability of subcutaneous administered ropeginterferon alfa-2b was not investigated in humans. Thus, no valid estimation of the absolute bioavailability could be done. Based on data in monkeys, it is approx. 80%, similar to that seen for pegylated interferon alfa-2a.
 
@@ -486,7 +486,7 @@ From mass balance, tissue distribution and whole body autoradioluminography stud
 
 The metabolism of ropeginterferon alfa-2b is not fully characterised. The attachment of interferon alfa-2b to a high molecular weight (40 kDa) branched polyethylene glycol moiety is considered as the main reason for the differences in the elimination compared to unpegylated interferons. Studies in rats with a similar interferon alfa medicinal product (pegylated interferon alfa-2a) showed a primarily elimination via hepatic metabolism. The same elimination route is considered for ropeginterferon alfa-2b.
 
-Pharmacokinetic interaction studies in humans with pegylated interferon alfa-2a indicated a moderate inhibitory effect on substrates metabolised by CYP1A2 and CYP2D6 (see section 4.5).
+Pharmacokinetic interaction studies in humans with pegylated interferon alfa-2a indicated a moderate inhibitory effect on substrates metabolis D6 (see section 4.5).
 
 ## Elimination
 
@@ -496,11 +496,11 @@ After subcutaneous multiple dose administration (dose range 50 - 500 micrograms)
 
 The involvement of transport proteins in absorption, distribution, and elimination of ropeginterferon alfa-2b is not known.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Linearity/non-linearity
 
 Over a dose range of 24 to 270 micrograms, ropeginterferon alfa-2b Cmax increased proportionally with dose in a pharmacokinetic study with healthy subjects. A higher than proportional increase in exposure was observed. Inter-subject variability for ropeginterferon alfa-2b was 35% (Cmax) and 25% (AUC).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Hepatic impairment
 
@@ -532,11 +532,11 @@ Race had no clinically meaningful effect on the pharmacokinetics of ropeginterfe
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity and genotoxicity.
 
+<div style=\"page-break-after: always\"></div>
+
 Reproductive and developmental studies were not performed with ropeginterferon alfa-2b. Interferon alfa was shown to be abortifacient in primates and ropeginterferon alfa-2b is expected to have a similar effect. Effects on fertility was not assessed.
 
 It is unknown if the active substance of the medicinal product is excreted into experimental animal or human milk (see section 4.6).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -574,18 +574,18 @@ For storage conditions after first opening of the medicinal product, see section
 
 ## 6.5 Nature and contents of container
 
-Besremi 250 micrograms/0.5 mL solution for injection in pre-filled pen
+## Besremi 250 micrograms/0.5 mL solution for injection in pre-filled pen
 
 The pre-filled pen is made of white polypropylene, with a grey push button and the strength '250 mcg/0.5 mL' highlighted in grey on the label. It delivers doses of 50 micrograms to 250 micrograms. Each click and each dot in the dosing window represents 5 micrograms. Every other click and dot is additionally labelled with the number of micrograms (i.e. in 10 micrograms steps).
+
+<div style=\"page-break-after: always\"></div>
 
 Besremi 250 micrograms/0.5 mL solution for injection in pre-filled pen is available in 2 pack-sizes:
 
 - -Packs containing 1 pre-filled pen and 2 injection needles
 - -Packs containing 3 pre-filled pens and 6 injection needles
 
-Besremi 500 micrograms/0.5 mL solution for injection in pre-filled pen
-
-<div style=\"page-break-after: always\"></div>
+## Besremi 500 micrograms/0.5 mL solution for injection in pre-filled pen
 
 The pre-filled pen is made of white polypropylene, with a blue push button and the strength '500 mcg/0.5 mL' highlighted in blue on the label. It delivers doses of 50 micrograms, 100 micrograms, 150 micrograms, 200 micrograms, 250 micrograms, 300 micrograms, 350 micrograms, 400 micrograms, 450 micrograms and 500 micrograms.
 
@@ -617,21 +617,15 @@ Empty pens must never be reused and must be properly discarded.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
-
-AOP Orphan Pharmaceuticals GmbH Leopold-Ungar-Platz 2
-
 <div style=\"page-break-after: always\"></div>
 
-1190 Vienna
+## 7. MARKETING AUTHORISATION HOLDER
 
-Austria
+AOP Orphan Pharmaceuticals GmbH Leopold-Ungar-Platz 2 1190 Vienna Austria
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/18/1352/001
-
-EU/1/18/1352/002
+EU/1/18/1352/001 EU/1/18/1352/002
 
 EU/1/18/1352/003
 
@@ -721,8 +715,9 @@ Solution for injection in pre-filled pen
 
 1 pre-filled pen + 2 injection needles
 
-- 3 pre-filled pens + 6 injection needles
-- 0.5 mL solution
+3 pre-filled pens + 6 injection needles
+
+0.5 mL solution
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -756,7 +751,13 @@ Any  unused  medicinal  product  or  waste  material  should  be  disposed  of  
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-AOP Orphan Pharmaceuticals GmbH Leopold-Ungar-Platz 2 1190 Vienna Austria
+AOP Orphan Pharmaceuticals GmbH
+
+Leopold-Ungar-Platz 2
+
+1190 Vienna
+
+Austria
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -790,9 +791,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PEN LABEL                                                        |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PEN LABEL                                                          |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -811,8 +812,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
+|------|-------------------------------------|
 
 0.5 mL
 
@@ -915,9 +916,12 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PEN LABEL
+MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+PEN LABEL
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Besremi 500 mcg/0.5 mL injection ropeginterferon alfa-2b Subcutaneous use
 
@@ -934,8 +938,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
+|------|-------------------------------------|
 
 0.5 mL
 
@@ -954,7 +958,7 @@ Lot
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
+- -
 - -If you have any further questions, ask your doctor or pharmacist.
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 - -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
@@ -995,8 +999,8 @@ Talk to your doctor before using Besremi:
 <div style=\"page-break-after: always\"></div>
 
 - -if you have thyroid disease.
-- -if you have diabetes or high blood pressure - your doctor may ask you to have an eye examination.
-- -if you have liver problems - you will have blood tests regularly to check how your liver is working if you are on a long-term Besremi therapy.
+- -if you have diabetes or high blood pressure your doctor may ask you to have an eye examination.
+- -if you have liver problems working if you are on a long-term Besremi therapy.
 - -if you have kidney problems.
 - -if you have psoriasis or other skin problems because they may get worse during treatment with Besremi.
 
@@ -1005,11 +1009,11 @@ Once you have started Besremi treatment, talk to your doctor:
 - -if you develop symptoms of depression (such as feelings of sadness, dejection, and suicidal thoughts).
 - -if you develop signs of a severe allergic reaction (such as difficulty in breathing, wheezing or hives) while using Besremi - if this is the case you will need to seek medical help immediately.
 - -if you develop symptoms of a cold or other respiratory infection (such as difficulty in breathing, cough, fever and chest pain).
-- -if you have changes in your vision - you must tell your doctor and have an immediate eye examination. Severe eye problems may occur during Besremi therapy. Your doctor will usually check your vision before starting your treatment. If you have health problems which may lead to eye problems such as diabetes or high blood pressure, you doctor should check your vision also during treatment. If your vision worsens, your doctor may decide to discontinue your treatment.
+- -if you have changes in your vision you must tell your doctor and have an immediate eye examination. Severe eye problems may occur check your vision before starting your treatment. If you have health problems which may lead to eye problems such as diabetes or high blood pressure, you doctor should check your vision also during treatment. If your vision worsens, your doctor may decide to discontinue your treatment.
 
-Dental and gum disorders, which may lead to loss of teeth, can occur with interferon medicines. In addition, dry mouth could damage teeth and the lining of the mouth during long-term treatment with Besremi. You should brush your teeth thoroughly twice daily and have regular dental checks.
+Dental and gum disorders, which may lead to loss of teeth, can occur with interferon medicines. In addition, dry mouth could damage teeth and the lining of the mouth during long-term treatment with checks.
 
-It will need a certain time to reach your individual optimal dose of Besremi. Your doctor will decide if it is necessary to treat you with another medicine for an early reduction of your blood cell number to prevent blood clots and bleeding.
+It will need a certain time to reach your individual optimal dose of it is necessary to treat you with another medicine for an early reduction of your blood cell number to prevent blood clots and bleeding.
 
 ## Children and adolescents
 
@@ -1041,7 +1045,7 @@ The effect of Besremi during pregnancy is not known. The use of Besremi is not r
 
 ## Breast-feeding
 
-It is not known if Besremi is present in breast milk. Your doctor will help you decide if you have to stop breast-feeding when you are using this medicine.
+It is not help you decide if you have to stop breast-feeding when you are using this medicine.
 
 ## Driving and using machines
 
@@ -1070,9 +1074,9 @@ This medicine contains less than 1 mmol sodium (23 mg) per mL, that is to say es
 
 Always use this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
-The dose will be set individually for you by your doctor for your condition. The usual starting dose of Besremi is 100 microgram every 2 weeks. Your doctor will then increase your dose stepwise and may adjust your dose during treatment.
+The dose will be set individually for you by your doctor for your condition. The usual starting dose of Besremi is 100 microgram every 2 weeks then increase your dose stepwise and may adjust your dose during treatment.
 
-Your doctor will reduce your starting dose to 50 micrograms if you have severe kidney problems.
+micrograms if you have severe kidney problems.
 
 This medicine is for subcutaneous use which means that it is injected in the tissue under your skin. It should not be injected into an area of the body where the skin is irritated, reddened, bruised, infected, or scarred.
 
@@ -1088,7 +1092,7 @@ Tell your doctor as soon as possible.
 
 ## If you forget to use Besremi
 
-You should inject the dose as soon as you remember. However, if more than 2 days have passed since you missed the dose, leave out the dose and inject the next dose when it is due. Do not inject a double dose to make up for a forgotten dose. Check with your doctor or pharmacist if you are not sure.
+. However, if more than 2 days have passed since you missed the dose, leave out the dose and inject the next dose when it is due. Do not inject a double dose to make up for a forgotten dose. Check with your doctor or pharmacist if you are not sure.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1200,7 +1204,7 @@ Side effects with frequency not known (cannot be estimated from the available da
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaflet. the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Besremi
 
@@ -1208,11 +1212,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and the outer carton after 'EXP'. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 °C - 8 °C).
-
-Do not freeze.
-
-Keep the pre-filled pen in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the pre-filled pen in the outer carton in order to protect from light.
 
 Once opened, the pre-filled pen may be stored for a maximum of 30 days in the refrigerator (2 °C 8 °C) when stored with the pen cap on and kept in the outer carton in order to protect from light.
 
@@ -1248,11 +1248,7 @@ For any information about this medicine, please contact the local representative
 
 AOP Orphan Pharmaceuticals GmbH (Austria) Tél/Tel: +43 1 5037244
 
-## България
-
-AOP Orphan Pharmaceuticals GmbH (Австрия) Teл.: + 43 1 5037244
-
-## Česká republika
+AOP Orphan Pharmaceuticals GmbH Te .: + 43 1 5037244
 
 AOP Orphan Pharmaceuticals GmbH (Rakousko) Tel: + 43 1 5037244
 
@@ -1268,9 +1264,7 @@ AOP Orphan Pharmaceuticals Germany GmbH Tel: + 49 89 99 740 7600
 
 AOP Orphan Pharmaceuticals GmbH (Austria) Tel: + 43 1 5037244
 
-## Ελλάδα
-
-AOP Orphan Pharmaceuticals GmbH (Αυστρία) Τηλ: + 43 1 5037244
+AOP Orphan : + 43 1 5037244
 
 ## España
 
@@ -1294,7 +1288,9 @@ AOP Orphan Pharmaceuticals GmbH (Austurríki) Sími: + 43 1 5037244
 
 ## Italia
 
-AOP Orphan Pharmaceuticals GmbH (Austria) Tel: + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH (Austria)
+
+Tel: + 43 1 5037244
 
 ## Lietuva
 
@@ -1303,8 +1299,6 @@ AOP Orphan Pharmaceuticals GmbH (Austrija) Tel: + 43 1 5037244
 ## Luxembourg/Luxemburg
 
 AOP Orphan Pharmaceuticals GmbH (Austria) Tél/Tel: + 43 1 5037244
-
-## Magyarország
 
 AOP Orphan Pharmaceuticals GmbH (Ausztria) Tel.: + 43 1 5037244
 
@@ -1340,23 +1334,19 @@ AOP Orphan Pharmaceuticals GmbH (Austria) Tel: + 43 1 5037244
 
 AOP Orphan Pharmaceuticals GmbH (Avstrija) Tel: + 43 1 5037244
 
-## Slovenská republika
-
 AOP Orphan Pharmaceuticals GmbH (Rakúsko) Tel: + 43 1 5037244
 
 ## Suomi/Finland
 
 AOP Orphan Pharmaceuticals GmbH (Itävalta) Puh/Tel: + 43 1 5037244
 
-## Κύπρος
-
-AOP Orphan Pharmaceuticals GmbH (Αυστρία) Τηλ: + 43 1 5037244
+: + 43 1 5037244
 
 Sverige Tel: + 43 1 5037244
 
 AOP Orphan Pharmaceuticals GmbH (Österrike)
 
-Latvija
+## Latvija
 
 AOP Orphan Pharmaceuticals GmbH (Austrija) Tel: + 43 1 5037244
 
@@ -1372,21 +1362,27 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
+TOO HOTTI
+
 ## Instructions for Use
 
-## Please read this leaflet carefully before using the Besremi 250 micrograms pre-filled pen. If you have any further questions, ask your doctor or pharmacist.
+## Please read this leaflet carefully before using the Besremi 250 micrograms pre-filled pen. If you have any further questions, ask your doctor or pharmacist. Dosing
 
-Your doctor or pharmacist will show you how to use the pen.
+window holder
 
-The Besremi 250 micrograms pre-filled pen can be used to inject doses within the range of 50 to 250 micrograms in 5 microgram increments. The same pen can be used twice, as long as the sum of the two doses does not exceed 250 micrograms. Your doctor will tell you the dose you need. Please note down your injection dates and dose as instructed by your doctor.
+Dose knob window
 
-If you need a dose of more than 250 micrograms, you require two Besremi 250 microgram pre-filled pens. You must use a different injection site for each of the two pens. Your doctor or pharmacist will explain to you how to use the two pens.
+The Besremi 250 micrograms pre-filled pen can be used to inject doses within the range of 50 to 250 micrograms in 5 microgram increments. The same pen can be used twice, as long as the sum of the two doses does not exceed 250 micrograms. dose you need. Please note down your injection dates and dose as instructed by your doctor.
+
+needle cap
+
+If you need a dose of more than 250 micrograms, you require two Besremi 250 microgram pre-filled must explain to you how to use the two pens.
 
 Store the pen in the outer carton in the refrigerator.
 
 Remove the pen from the refrigerator 15 minutes before the injection to let it reach room temperature. Find a quiet and well-lit area for the injection.
 
-You will need the following supplies for your injection:
+the following supplies for your injection:
 
 - Besremi pre-filled pen
 - Needle (Type: mylife AutoProtect PRO 29G × 8 mm)
@@ -1395,13 +1391,26 @@ You will need the following supplies for your injection:
 
 The Besremi pre-filled pen comes with two or six needles (depending on the pack-size). Always use a new needle for each injection.
 
+Note: The pen is also compatible with the following needles:
+
+- AutoShield Duo, 30G × 8 mm safety pen needle
+- Ultra-Fine or Micro-Fine or embecta, 31G × 8 mm pen needle
+
+Both needle types can be purchased separately. Please ask your doctor or pharmacist if you wish to use any of these needles instead of the co-packaged needles.
+
 Do not use the pen if it appears damaged. If at any time during the use of the pen, you feel you may have damaged it (e. g. by dropping it or using excessive force), do not continue to use the pen. Get a new pen and start over.
 
 ## Description Besremi 250 micrograms pre-filled pen
 
 <!-- image -->
 
+Pen cap
+
+10SU1
+
 <div style=\"page-break-after: always\"></div>
+
+4
 
 <!-- image -->
 
@@ -1427,18 +1436,42 @@ Do not use the pen if it appears damaged. If at any time during the use of the p
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+7
+
+5
+
+· 50
+
+YU
+
+·100
+
+110
+
+19U
+
+·200
+
+71л
+
+=
 
 <!-- image -->
 
 <!-- image -->
+
+<!-- image -->
+
+24
+
+·25
 
 - If you are using this pen for the first time, prepare the pen for injection by turning the dose knob until you see the icon of a 'drop' and the dot in the dosing window. The icon of a 'drop' must be aligned with the dot in the dosing window.
 - Hold the pen with the needle pointing upwards and make sure the dosing window is facing you.
 - Do not point towards your face or anyone else's face.
 - Tap the pen (cartridge holder) gently with your fingers to allow any air bubbles to rise to the top of the cartridge holder.
 - Press the push button with your thumb until the '0' mark is aligned with the dot in the dosing window.
-- You will see the window changes between the 'drop' icon and the '0' mark, and you will hear gentle clicks when the button moves.
+- s between the 'drop' icon and the '0' mark, and you will hear gentle clicks when the button moves.
 - If you look through the small gap at the top of the orange needle protective sleeve, you should see a droplet of liquid appearing at the needle tip.
 - If you do not see a droplet at the needle tip, repeat steps 5 and 6 up to six times until a droplet appears.
 - If you do not see the droplet after the seventh time, ask your doctor or pharmacist for advice.
@@ -1448,15 +1481,19 @@ Do not use the pen if it appears damaged. If at any time during the use of the p
 
 <div style=\"page-break-after: always\"></div>
 
+10
+
 <!-- image -->
 
 <!-- image -->
+
+10 s
 
 <!-- image -->
 
 - Disinfect your skin in the injection area using an alcohol swab before the injection.
 - Let the area dry before you inject the medicine.
-- You must inject the medicine subcutaneously (under the skin). Your doctor will tell you where you must inject it.
+- must inject the medicine subcutaneously (under must inject it.
 - Possible injection sites are the belly (more than five centimetres away from the belly button) or the thigh.
 - If you need two pens, use a different injection site for each pen (e. g. right and left side of belly or right and left thigh).
 - Do not inject into irritated, reddened, bruised, infected or scarred skin in any way.
@@ -1470,6 +1507,12 @@ Do not use the pen if it appears damaged. If at any time during the use of the p
 - If the needle is removed earlier, you may see a stream of solution coming from the needle tip. If so, the full dose will not be delivered.
 
 <div style=\"page-break-after: always\"></div>
+
+12
+
+11
+
+13
 
 <!-- image -->
 
@@ -1494,7 +1537,7 @@ Note: Put the cap back on the pen securely.
 
 ## Reuse of the pen:
 
-- Your doctor will tell you if you may use the pen for a second injection. In this case, put the pen back into the outer carton and store it in the refrigerator for the next use. Do not use the pen after 30 days.
+- a second injection. In this case, put the pen back into the outer carton and store it in the refrigerator for the next use. Do not use the pen after 30 days.
 
 ## Disposal of the pen and needle:
 
@@ -1510,7 +1553,7 @@ Note: Put the cap back on the pen securely.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
+- -
 - -If you have any further questions, ask your doctor or pharmacist.
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 - -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
@@ -1552,8 +1595,8 @@ Talk to your doctor before using Besremi:
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you have diabetes or high blood pressure - your doctor may ask you to have an eye examination.
-- -if you have liver problems - you will have blood tests regularly to check how your liver is working if you are on a long-term Besremi therapy.
+- -if you have diabetes or high blood pressure your doctor may ask you to have an eye examination.
+- -if you have liver problems working if you are on a long-term Besremi therapy.
 - -if you have kidney problems.
 - -if you have psoriasis or other skin problems because they may get worse during treatment with Besremi.
 
@@ -1562,11 +1605,11 @@ Once you have started Besremi treatment, talk to your doctor:
 - -if you develop symptoms of depression (such as feelings of sadness, dejection, and suicidal thoughts).
 - -if you develop signs of a severe allergic reaction (such as difficulty in breathing, wheezing or hives) while using Besremi - if this is the case you will need to seek medical help immediately.
 - -if you develop symptoms of a cold or other respiratory infection (such as difficulty in breathing, cough, fever and chest pain).
-- -if you have changes in your vision - you must tell your doctor and have an immediate eye examination. Severe eye problems may occur during Besremi therapy. Your doctor will usually check your vision before starting your treatment. If you have health problems which may lead to eye problems such as diabetes or high blood pressure, you doctor should check your vision also during treatment. If your vision worsens, your doctor may decide to discontinue your treatment.
+- -if you have changes in your vision you must tell your doctor and have an immediate eye examination. Severe eye problems may occur check your vision before starting your treatment. If you have health problems which may lead to eye problems such as diabetes or high blood pressure, you doctor should check your vision also during treatment. If your vision worsens, your doctor may decide to discontinue your treatment.
 
-Dental and gum disorders, which may lead to loss of teeth, can occur with interferon medicines. In addition, dry mouth could damage teeth and the lining of the mouth during long-term treatment with Besremi. You should brush your teeth thoroughly twice daily and have regular dental checks.
+Dental and gum disorders, which may lead to loss of teeth, can occur with interferon medicines. In addition, dry mouth could damage teeth and the lining of the mouth during long-term treatment with checks.
 
-It will need a certain time to reach your individual optimal dose of Besremi. Your doctor will decide if it is necessary to treat you with another medicine for an early reduction of your blood cell number to prevent blood clots and bleeding.
+it is necessary to treat you with another medicine for an early reduction of your blood cell number to prevent blood clots and bleeding.
 
 ## Children and adolescents
 
@@ -1590,15 +1633,15 @@ Tell your doctor especially if you are taking any of the following medicines:
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before using this medicine.
 
-Pregnancy
-
 <div style=\"page-break-after: always\"></div>
+
+## Pregnancy
 
 The effect of Besremi during pregnancy is not known. The use of Besremi is not recommended during pregnancy. If you are a woman of childbearing potential, your doctor will discuss with you if effective birth control should be used during your treatment with Besremi.
 
 ## Breast-feeding
 
-It is not known if Besremi is present in breast milk. Your doctor will help you decide if you have to stop breast-feeding when you are using this medicine.
+It is not help you decide if you have to stop breast-feeding when you are using this medicine.
 
 ## Driving and using machines
 
@@ -1627,9 +1670,9 @@ This medicine contains less than 1 mmol sodium (23 mg) per mL, that is to say es
 
 Always use this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
-The dose will be set individually for you by your doctor for your condition. The usual starting dose of Besremi is 100 microgram every 2 weeks. Your doctor will then increase your dose stepwise and may adjust your dose during treatment.
+The dose will be set individually for you by your doctor for your condition. The usual starting dose of Besremi is 100 microgram every 2 weeks then increase your dose stepwise and may adjust your dose during treatment.
 
-Your doctor will reduce your starting dose to 50 micrograms if you have severe kidney problems.
+micrograms if you have severe kidney problems.
 
 This medicine is for subcutaneous use which means that it is injected in the tissue under your skin. It should not be injected into an area of the body where the skin is irritated, reddened, bruised, infected, or scarred.
 
@@ -1645,9 +1688,9 @@ Tell your doctor as soon as possible.
 
 ## If you forget to use Besremi
 
-You should inject the dose as soon as you remember. However, if more than 2 days have passed since you missed the dose, leave out the dose and inject the next dose when it is due. Do not inject a double dose to make up for a forgotten dose. Check with your doctor or pharmacist if you are not sure.
-
 <div style=\"page-break-after: always\"></div>
+
+. However, if more than 2 days have passed since you missed the dose, leave out the dose and inject the next dose when it is due. Do not inject a double dose to make up for a forgotten dose. Check with your doctor or pharmacist if you are not sure.
 
 ## If you stop using Besremi
 
@@ -1699,11 +1742,11 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - -increase or decrease in the thyroid gland activity, increase of thyroid stimulating hormone, inflammation of the thyroid gland
 - -increase of triglycerides (a type of lipid) in the blood, decreased appetite
 - -aggressive behaviour, feeling depressed, feeling anxious, problems with falling asleep or staying asleep, mood changes, lacking bodily energy or motivation
-- -headache, feeling dizzy, reduced sense of touch or sensation, feeling sleepy, sensation of tingling and 'pins and needles'
-- -dry eyes
 
 <div style=\"page-break-after: always\"></div>
 
+- -headache, feeling dizzy, reduced sense of touch or sensation, feeling sleepy, sensation of tingling and 'pins and needles'
+- -dry eyes
 - -damage of the capillaries (very small blood vessels) in the body
 - -breathing problems
 - -diarrhoea, nausea, abdominal pain or stomach discomfort, constipation, dry mouth
@@ -1742,12 +1785,12 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - -cardiomyopathy (diseases that affect the heart muscle), angina pectoris (a severe chest pain as a result of blockage of the heart vessels)
 - -liver failure
 
-## Very rare side effects (may affect up to 1 in 10,000 people):
+<div style=\"page-break-after: always\"></div>
+
+Very rare side effects (may affect up to 1 in 10,000 people):
 
 - -idiopathic or thrombotic thrombocytopenic purpura (increased bruising, bleeding, decreased platelets, anaemia and extreme weakness)
 - -myocardial ischemia (reduced blood flow to your heart muscle)
-
-<div style=\"page-break-after: always\"></div>
 
 Side effects with frequency not known (cannot be estimated from the available data):
 
@@ -1757,7 +1800,7 @@ Side effects with frequency not known (cannot be estimated from the available da
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaflet. the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Besremi
 
@@ -1777,8 +1820,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Besremi contains
 
-- -The active substance is ropeginterferon alfa-2b.
-- Each pre-filled pen of 0.5 mL solution contains 500 micrograms of ropeginterferon alfa-2b as measured on a protein basis, corresponding to 1000 micrograms/mL.
+- -The active substance is ropeginterferon alfa-2b. Each pre-filled pen of 0.5 mL solution contains 500 micrograms of ropeginterferon alfa-2b as measured on a protein basis, corresponding to 1000 micrograms/mL.
 - -The other ingredients are sodium chloride, polysorbate 80, benzyl alcohol, anhydrous sodium acetate, glacial acetic acid, and water for injections. For benzyl alcohol, polysorbate 80 and sodium, see section 2 'Besremi contains benzyl alcohol', 'Besremi contains polysorbate 80' and 'Besremi contains sodium'.
 
 ## What Besremi looks like and contents of the pack
@@ -1787,11 +1829,11 @@ Besremi is presented as a solution for injection (injection) in a pre-filled pen
 
 - 1 pre-filled pen and 2 injection needles (Type: mylife AutoProtect PRO 29G × 8 mm)
 
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder and Manufacturer
 
 AOP Orphan Pharmaceuticals GmbH Leopold-Ungar-Platz 2 1190 Vienna Austria
-
-<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1799,21 +1841,11 @@ For any information about this medicine, please contact the local representative
 
 AOP Orphan Pharmaceuticals GmbH (Austria) Tél/Tel: +43 1 5037244
 
-## България
+AOP Orphan Pharmaceuticals GmbH
 
-## Lietuva
+Te .: + 43 1 5037244
 
-AOP Orphan Pharmaceuticals GmbH (Austrija) Tel: + 43 1 5037244
-
-## Luxembourg/Luxemburg
-
-AOP Orphan Pharmaceuticals GmbH (Австрия) Teл.: + 43 1 5037244
-
-## Česká republika
-
-AOP Orphan Pharmaceuticals GmbH (Rakousko)
-
-Tel: + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH (Rakousko) Tel: + 43 1 5037244
 
 ## Danmark
 
@@ -1827,9 +1859,7 @@ AOP Orphan Pharmaceuticals Germany GmbH Tel: + 49 89 99 740 7600
 
 AOP Orphan Pharmaceuticals GmbH (Austria) Tel: + 43 1 5037244
 
-## Ελλάδα
-
-AOP Orphan Pharmaceuticals GmbH (Αυστρία) Τηλ: + 43 1 5037244
+: + 43 1 5037244
 
 ## España
 
@@ -1847,21 +1877,15 @@ AOP Orphan Pharmaceuticals GmbH (Austrija) Tel: + 43 1 5037244
 
 AOP Orphan Pharmaceuticals GmbH (Austria) Tel: + 43 1 5037244
 
-## Ísland
+## Lietuva
 
-AOP Orphan Pharmaceuticals GmbH
+AOP Orphan Pharmaceuticals GmbH (Austrija) Tel: + 43 1 5037244
 
-(Austurríki)
-
-Sími: + 43 1 5037244
+## Luxembourg/Luxemburg
 
 AOP Orphan Pharmaceuticals GmbH (Austria) Tél/Tel: + 43 1 5037244
 
-## Magyarország
-
-AOP Orphan Pharmaceuticals GmbH (Ausztria)
-
-Tel.: + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH (Ausztria) Tel.: + 43 1 5037244
 
 ## Malta
 
@@ -1883,7 +1907,9 @@ Tlf: + 43 1 5037244
 
 ## Österreich
 
-AOP Orphan Pharmaceuticals GmbH Tel: + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH
+
+Tel: + 43 1 5037244
 
 ## Polska
 
@@ -1901,13 +1927,19 @@ AOP Orphan Pharmaceuticals GmbH (Austria) Tel: + 43 1 5037244
 
 AOP Orphan Pharmaceuticals GmbH (Avstrija) Tel: + 43 1 5037244
 
-## Slovenská republika
+## Ísland
+
+AOP Orphan Pharmaceuticals GmbH
+
+(Austurríki)
+
+Sími: + 43 1 5037244
 
 AOP Orphan Pharmaceuticals GmbH (Rakúsko)
 
 Tel: + 43 1 5037244
 
-## Italia
+Italia
 
 AOP Orphan Pharmaceuticals GmbH (Austria)
 
@@ -1919,11 +1951,7 @@ AOP Orphan Pharmaceuticals GmbH (Itävalta)
 
 Puh/Tel: + 43 1 5037244
 
-## Κύπρος
-
-AOP Orphan Pharmaceuticals GmbH (Αυστρία)
-
-Τηλ: + 43 1 5037244
+: + 43 1 5037244
 
 ## Sverige
 
@@ -1949,26 +1977,36 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
+Description besremı suu micrograms pre-illea pen
+
 ## Instructions for Use
 
 ## Please read this leaflet carefully before using the Besremi 500 micrograms pre-filled pen. If you have any further questions, ask your doctor or pharmacist.
 
-Your doctor or pharmacist will show you how to use the pen.
+Inspection window holder
 
-The Besremi 500 micrograms pre-filled pen can be used to inject doses of 50, 100, 150, 200, 250, 300, 350, 400, 450 and 500 micrograms. The same pen can be used twice, as long as the sum of the two doses does not exceed 500 micrograms.  Your doctor will tell you the dose you need. Please note down your injection dates and dose as instructed by your doctor.
+Catrige
+
+Dosing window
+
+The Besremi 500 micrograms pre-filled pen can be used to inject doses of 50, 100, 150, 200, 250, 300, 350, 400, 450 and 500 micrograms. The same pen can be used twice, as long as the sum of the two doses does not exceed 500 micrograms. dose you need. Please note down your injection dates and dose as instructed by your doctor.
 
 Store the pen in the outer carton in the refrigerator.
 
 Remove the pen from the refrigerator 15 minutes before the injection to let it reach room temperature. Find a quiet and well-lit area for the injection.
-
-You will need the following supplies for your injection:
 
 - Besremi pre-filled pen
 - Needle (Type: mylife AutoProtect PRO 29G × 8 mm)
 - Alcohol wipe (not supplied)
 - Optional: adhesive plaster (not supplied)
 
-The Besremi pre-filled pen comes with two  needles. Always use a new needle for each injection.
+The Besremi pre-filled pen comes with two needles. Always use a new needle for each injection.
+
+Note: The pen is also compatible with the following needle:
+
+- Ultra-Fine or Micro-Fine or embecta, 31G × 8 mm pen needle
+
+This needle can be purchased separately. Please ask your doctor or pharmacist if you wish to use any of these needles instead of the co-packaged needles.
 
 Do not use the pen if it appears damaged. If at any time during the use of the pen, you feel you may have damaged it (e. g. by dropping it or using excessive force), do not continue to use the pen. Get a new pen and start over.
 
@@ -1976,9 +2014,17 @@ Do not use the pen if it appears damaged. If at any time during the use of the p
 
 <!-- image -->
 
+Pen
+
+Pen cap
+
+Dose knob
+
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+1
+
+2
 
 <!-- image -->
 
@@ -2004,6 +2050,10 @@ Do not use the pen if it appears damaged. If at any time during the use of the p
 
 <div style=\"page-break-after: always\"></div>
 
+5
+
+7
+
 <!-- image -->
 
 <!-- image -->
@@ -2015,7 +2065,7 @@ Do not use the pen if it appears damaged. If at any time during the use of the p
 - Do not point towards your face or anyone else's face.
 - Tap the pen (cartridge holder) gently with your fingers to allow any air bubbles to rise to the top of the cartridge holder.
 - Press the push button with your thumb until the '0' mark is aligned with the dot in the dosing window.
-- You will see the window changes between the 'drop' icon and the '0' mark, and you will hear gentle clicks when the button moves.
+- 'drop' icon and the '0' mark, and you will hear gentle clicks when the button moves.
 - If you look through the small gap at the top of the orange needle protective sleeve, you should see a droplet of liquid appearing at the needle tip.
 - If you do not see a droplet at the needle tip, repeat steps 5 and 6 up to six times until a droplet appears.
 - If you do not see the droplet after the seventh time, ask your doctor or pharmacist for advice.
@@ -2023,6 +2073,10 @@ Do not use the pen if it appears damaged. If at any time during the use of the p
 - If you are unable to reach the required dose setting by turning the dose knob, your pen may be out of sufficient medicine. Do not use any further force. Instead, get a new pen .
 
 <div style=\"page-break-after: always\"></div>
+
+10
+
+9
 
 <!-- image -->
 
@@ -2032,7 +2086,7 @@ Do not use the pen if it appears damaged. If at any time during the use of the p
 
 - Disinfect your skin in the injection area using an alcohol swab before the injection.
 - Let the area dry before you inject the medicine.
-- You must inject the medicine subcutaneously (under the skin). Your doctor will tell you where you must inject it.
+- must inject the medicine subcutaneously (under must inject it.
 - Possible injection sites are the belly (more than five centimetres away from the belly button) or the thigh.
 - If you need two pens, use a different injection site for each pen (e. g. right and left side of belly or right and left thigh).
 - Do not inject into irritated, reddened, bruised, infected or scarred skin in any way.
@@ -2046,6 +2100,14 @@ Do not use the pen if it appears damaged. If at any time during the use of the p
 - If the needle is removed earlier, you may see a stream of solution coming from the needle tip. If so, the full dose will not be delivered.
 
 <div style=\"page-break-after: always\"></div>
+
+11
+
+13
+
+12
+
+<!-- image -->
 
 <!-- image -->
 
@@ -2070,7 +2132,7 @@ Note: Put the cap back on the pen securely.
 
 ## Reuse of the pen:
 
-- Your doctor will tell you if you may use the pen for a second injection. In this case, put the pen back into the outer carton and store it in the refrigerator for the next use. Do not use the pen after 30 days.
+- a second injection. In this case, put the pen back into the outer carton and store it in the refrigerator for the next use. Do not use the pen after 30 days.
 
 ## Disposal of the pen and needle:
 

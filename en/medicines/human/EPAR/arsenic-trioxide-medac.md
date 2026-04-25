@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:39:33
+document_datetime: 2026-04-21 15:26:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arsenic-trioxide-medac.html
 document_name: arsenic-trioxide-medac.html
 version: success
-processing_time: 0.1236738
-conversion_datetime: 2025-12-30 10:51:33.700143
+processing_time: 0.13518
+conversion_datetime: 2026-04-25 16:39:58.654874
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Arsenic trioxide medac
 
 [RSS](/en/individual-human-medicine.xml/67354)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-arsenic trioxide Medicine Human Authorised
+arsenic trioxide
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -114,495 +114,307 @@ English (EN) (174.82 KB - PDF)
 
 [View](/en/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-896)
+[Other languages (22)](#file-language-dropdown-239)
 
 български (BG) (196.79 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/bg/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_bg.pdf)
 
 español (ES) (174.09 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/es/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_es.pdf)
 
 čeština (CS) (195.42 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/cs/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (171.9 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/da/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (177.45 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/de/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (162.13 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/et/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (198.86 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/el/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_el.pdf)
 
 français (FR) (175.46 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/fr/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (194.2 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/hr/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (172.48 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/it/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (212.22 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/lv/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (195.78 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/lt/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (196.8 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/hu/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (197.59 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/mt/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (173.23 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/nl/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_nl.pdf)
 
 polski (PL) (198.34 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/pl/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_pl.pdf)
 
 português (PT) (174.75 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/pt/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_pt.pdf)
 
 română (RO) (193.76 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/ro/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (195.39 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/sk/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (193.11 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/sl/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (171.98 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/fi/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (172.38 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/sv/documents/overview/arsenic-trioxide-medac-epar-medicine-overview_sv.pdf)
 
-Arsenic trioxide medac : EPAR - Risk-management-plan summary
+Arsenic trioxide medac : EPAR - Risk management plan
 
-English (EN) (151.78 KB - PDF)
+English (EN) (293.97 KB - PDF)
 
-**First published:** 01/10/2020
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
-[View](/en/documents/rmp-summary/arsenic-trioxide-medac-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/arsenic-trioxide-medac-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Arsenic trioxide medac : EPAR - Product information
 
-English (EN) (260.69 KB - PDF)
+English (EN) (304.96 KB - PDF)
 
-**First published:** 01/10/2020
-
-**Last updated:** 26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/en/documents/product-information/arsenic-trioxide-medac-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-628)
+[Other languages (24)](#file-language-dropdown-499)
 
-български (BG) (370.96 KB - PDF)
+български (BG) (426.55 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/bg/documents/product-information/arsenic-trioxide-medac-epar-product-information_bg.pdf)
 
-español (ES) (326.58 KB - PDF)
+español (ES) (359.39 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/es/documents/product-information/arsenic-trioxide-medac-epar-product-information_es.pdf)
 
-čeština (CS) (362.39 KB - PDF)
+čeština (CS) (354.33 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/cs/documents/product-information/arsenic-trioxide-medac-epar-product-information_cs.pdf)
 
-dansk (DA) (320.33 KB - PDF)
+dansk (DA) (297.96 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/da/documents/product-information/arsenic-trioxide-medac-epar-product-information_da.pdf)
 
-Deutsch (DE) (320.85 KB - PDF)
+Deutsch (DE) (297.12 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/de/documents/product-information/arsenic-trioxide-medac-epar-product-information_de.pdf)
 
-eesti keel (ET) (312.62 KB - PDF)
+eesti keel (ET) (340.15 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/et/documents/product-information/arsenic-trioxide-medac-epar-product-information_et.pdf)
 
-ελληνικά (EL) (623.96 KB - PDF)
+ελληνικά (EL) (665.88 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/el/documents/product-information/arsenic-trioxide-medac-epar-product-information_el.pdf)
 
-français (FR) (326.44 KB - PDF)
+français (FR) (305.03 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/fr/documents/product-information/arsenic-trioxide-medac-epar-product-information_fr.pdf)
 
-hrvatski (HR) (403.31 KB - PDF)
+hrvatski (HR) (432.62 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/hr/documents/product-information/arsenic-trioxide-medac-epar-product-information_hr.pdf)
 
-íslenska (IS) (246.37 KB - PDF)
+íslenska (IS) (336.97 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/is/documents/product-information/arsenic-trioxide-medac-epar-product-information_is.pdf)
 
-italiano (IT) (283.62 KB - PDF)
+italiano (IT) (380.58 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/it/documents/product-information/arsenic-trioxide-medac-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (351.61 KB - PDF)
+latviešu valoda (LV) (452.46 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/lv/documents/product-information/arsenic-trioxide-medac-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (340.88 KB - PDF)
+lietuvių kalba (LT) (434.06 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/lt/documents/product-information/arsenic-trioxide-medac-epar-product-information_lt.pdf)
 
-magyar (HU) (310.83 KB - PDF)
+magyar (HU) (399.21 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/hu/documents/product-information/arsenic-trioxide-medac-epar-product-information_hu.pdf)
 
-Malti (MT) (363.55 KB - PDF)
+Malti (MT) (463.63 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/mt/documents/product-information/arsenic-trioxide-medac-epar-product-information_mt.pdf)
 
-Nederlands (NL) (281.27 KB - PDF)
+Nederlands (NL) (366.81 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/nl/documents/product-information/arsenic-trioxide-medac-epar-product-information_nl.pdf)
 
-norsk (NO) (254.1 KB - PDF)
+norsk (NO) (350.01 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/no/documents/product-information/arsenic-trioxide-medac-epar-product-information_no.pdf)
 
-polski (PL) (353.37 KB - PDF)
+polski (PL) (444.53 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/pl/documents/product-information/arsenic-trioxide-medac-epar-product-information_pl.pdf)
 
-português (PT) (247.72 KB - PDF)
+português (PT) (338.89 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/pt/documents/product-information/arsenic-trioxide-medac-epar-product-information_pt.pdf)
 
-română (RO) (348.93 KB - PDF)
+română (RO) (448.89 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/ro/documents/product-information/arsenic-trioxide-medac-epar-product-information_ro.pdf)
 
-slovenčina (SK) (338.03 KB - PDF)
+slovenčina (SK) (433.01 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/sk/documents/product-information/arsenic-trioxide-medac-epar-product-information_sk.pdf)
 
-slovenščina (SL) (316.34 KB - PDF)
+slovenščina (SL) (406.72 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/sl/documents/product-information/arsenic-trioxide-medac-epar-product-information_sl.pdf)
 
-Suomi (FI) (283.53 KB - PDF)
+Suomi (FI) (362.28 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/fi/documents/product-information/arsenic-trioxide-medac-epar-product-information_fi.pdf)
 
-svenska (SV) (251.08 KB - PDF)
+svenska (SV) (338.06 KB - PDF)
 
-**First published:**
-
-01/10/2020
-
-**Last updated:**
-
-26/04/2022
+**First published:** 01/10/2020 **Last updated:** 21/04/2026
 
 [View](/sv/documents/product-information/arsenic-trioxide-medac-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0003 22/04/2022
+**Latest procedure affecting product information:** VR/0000338900
+
+21/04/2026
 
 icon globe
 
@@ -626,203 +438,173 @@ English (EN) (15.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-1)
+[Other languages (24)](#file-language-dropdown-340)
 
 български (BG) (35.31 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/bg/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (13.73 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/es/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (30.87 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/cs/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (13.64 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/da/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (13.82 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/de/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (13.74 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/et/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (33.81 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/el/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (13.54 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/fr/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (40.14 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/hr/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (13.63 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/is/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (13.56 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/it/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (33.3 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/lv/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (31.22 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/lt/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (21.77 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/hu/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (30.78 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/mt/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (13.15 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/nl/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (13.65 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/no/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (31.21 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/pl/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (13.85 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/pt/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (31.12 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/ro/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (31.58 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/sk/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (20.59 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/sl/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (13.54 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/fi/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (13.59 KB - PDF)
 
-**First published:**
-
-01/10/2020
+**First published:** 01/10/2020
 
 [View](/sv/documents/all-authorised-presentations/arsenic-trioxide-medac-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Arsenic trioxide medac Active substance arsenic trioxide International non-proprietary name (INN) or common name arsenic trioxide Therapeutic area (MeSH) Leukemia, Promyelocytic, Acute Anatomical therapeutic chemical (ATC) code L01XX27
+Name of medicine
+
+Arsenic trioxide medac
+
+Active substance
+
+arsenic trioxide
+
+International non-proprietary name (INN) or common name
+
+arsenic trioxide
+
+Therapeutic area (MeSH)
+
+Leukemia, Promyelocytic, Acute
+
+Anatomical therapeutic chemical (ATC) code
+
+L01XX27
 
 ### Pharmacotherapeutic group
 
@@ -839,7 +621,9 @@ The response rate of other acute myelogenous leukaemia subtypes to arsenic triox
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005218
+EMA product number
+
+EMEA/H/C/005218
 
 Generic
 
@@ -851,7 +635,17 @@ medac Gesellschaft für klinische Spezialpräparate mbH
 
 Theaterstrasse 6
 
-Opinion adopted 23/07/2020 Marketing authorisation issued 17/09/2020 Revision 2
+Opinion adopted
+
+23/07/2020
+
+Marketing authorisation issued
+
+17/09/2020
+
+Revision
+
+3
 
 ## Assessment history
 
@@ -863,21 +657,25 @@ Collapse section
 
 Arsenic trioxide medac : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (143.48 KB - PDF)
+
+**First published:** 21/04/2026
+
+[View](/en/documents/procedural-steps-after/arsenic-trioxide-medac-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Arsenic trioxide medac : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (136.98 KB - PDF)
 
-**First published:** 26/01/2022
+**First published:** 26/01/2022 **Last updated:** 21/04/2026
 
-**Last updated:** 26/04/2022
-
-[View](/en/documents/procedural-steps-after/arsenic-trioxide-medac-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/arsenic-trioxide-medac-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Arsenic trioxide medac : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/411838/2020
+Adopted Reference Number: EMA/CHMP/411838/2020
 
 English (EN) (384.22 KB - PDF)
 
@@ -887,9 +685,7 @@ English (EN) (384.22 KB - PDF)
 
 CHMP summary of positive opinion for Arsenic trioxide medac
 
-Adopted
-
-Reference Number: EMA/CHMP/383424/2020
+Adopted Reference Number: EMA/CHMP/383424/2020
 
 English (EN) (180.21 KB - PDF)
 
@@ -897,11 +693,13 @@ English (EN) (180.21 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-arsenic-trioxide-medac_en.pdf)
 
-#### News on Arsenic trioxide medac
+## News on Arsenic trioxide medac
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2020) 24/07/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2020)
 
-#### Related content
+24/07/2020
+
+## Related content
 
 Questions and answers on generic medicines
 
@@ -909,285 +707,151 @@ Reference Number: EMA/393905/2006 Rev. 2
 
 English (EN) (66.45 KB - PDF)
 
-**First published:** 09/07/2007
-
-**Last updated:** 07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-217)
 
 български (BG) (93.16 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
 
 español (ES) (68.3 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
 
 čeština (CS) (87.71 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
 
 dansk (DA) (66.79 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
 
 Deutsch (DE) (67.55 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
 
 eesti keel (ET) (65.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
 
 ελληνικά (EL) (91.29 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
 
 français (FR) (68.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
 
 hrvatski (HR) (87.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
 
 italiano (IT) (67.62 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
 
 latviešu valoda (LV) (111.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
 
 lietuvių kalba (LT) (86.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
 
 magyar (HU) (85.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
 
 Malti (MT) (89.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
 
 Nederlands (NL) (66.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
 
 polski (PL) (88.51 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
 
 português (PT) (68.32 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
 
 română (RO) (86.9 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
 
 slovenčina (SK) (87.73 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
 
 slovenščina (SL) (84.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
 
 Suomi (FI) (66.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
 
 svenska (SV) (67.11 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 26/04/2022
+**This page was last updated on**
+
+21/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2026-04-20 13:42:00
+document_datetime: 2026-04-23 14:59:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nulojix.html
 document_name: nulojix.html
 version: success
-processing_time: 0.0942099
-conversion_datetime: 2026-04-21 14:45:16.083716
+processing_time: 0.1282276
+conversion_datetime: 2026-04-25 16:13:50.095034
 docling_version:
   docling-serve: 1.16.1
   docling-jobkit: 1.17.1
@@ -16,82 +16,6 @@ docling_version:
   python: cpython-313 (3.13.11)
   plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Nulojix
-
 # Nulojix
 
 [RSS](/en/individual-human-medicine.xml/65442)
@@ -201,7 +125,7 @@ English (EN) (122.61 KB - PDF)
 
 [View](/en/documents/overview/nulojix-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-390)
+[Other languages (22)](#file-language-dropdown-282)
 
 български (BG) (125.85 KB - PDF)
 
@@ -353,7 +277,7 @@ English (EN) (505.33 KB - PDF)
 
 [View](/en/documents/product-information/nulojix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-788)
+[Other languages (24)](#file-language-dropdown-109)
 
 български (BG) (644.28 KB - PDF)
 
@@ -525,7 +449,7 @@ English (EN) (30.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nulojix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-5)
+[Other languages (24)](#file-language-dropdown-523)
 
 български (BG) (55.29 KB - PDF)
 
@@ -734,6 +658,22 @@ Collapse section
 
 ## Changes since initial authorisation of medicine
 
+Nulojix : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (149.37 KB - PDF)
+
+**First published:** 23/04/2026
+
+[View](/en/documents/procedural-steps-after/nulojix-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf-0)
+
+Nulojix : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (234.87 KB - PDF)
+
+**First published:** 22/09/2011 **Last updated:** 12/12/2023
+
+[View](/en/documents/procedural-steps-after/nulojix-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
 Nulojix-H-C-002098-II-0065-G : EPAR - Assessment report
 
 Adopted Reference Number: EMA/708312/2021
@@ -839,6 +779,6 @@ English (EN) (48.67 KB - PDF)
 
 **This page was last updated on**
 
-20/04/2026
+23/04/2026
 
 ## Share this page

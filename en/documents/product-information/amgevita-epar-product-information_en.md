@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-31 11:06:30
-document_pages: 275
+document_datetime: 2026-04-23 11:49:03
+document_pages: 276
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/amgevita-epar-product-information_en.pdf
 document_name: amgevita-epar-product-information_en.pdf
 version: success
-processing_time: 105.9308278
-conversion_datetime: 2025-12-15 22:12:54.094594
+processing_time: 79.6139386
+conversion_datetime: 2026-04-25 16:09:26.746969
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -46,9 +46,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Solution for injection (injection)
-
-Solution for injection (injection) in pre-filled pen (SureClick)
+Solution for injection (injection) Solution for injection (injection) in pre-filled pen (SureClick)
 
 Clear and colourless to slightly yellow solution.
 
@@ -231,7 +229,7 @@ Adalimumab has not been studied in these patient populations. No dose recommenda
 
 Paediatric population
 
-## Juvenile idiopathic arthritis
+Juvenile idiopathic arthritis
 
 Polyarticular juvenile idiopathic arthritis from 2 years of age
 
@@ -252,7 +250,7 @@ There is no relevant use of adalimumab in patients aged less than 2 years for th
 
 The recommended dose of AMGEVITA for patients with enthesitis-related arthritis from 6 years of age is based on body weight (table 2). AMGEVITA is administered every other week via subcutaneous injection.
 
-## Table 2. AMGEVITA dose for patients with enthesitis-related arthritis
+Table 2. AMGEVITA dose for patients with enthesitis-related arthritis
 
 | Patient weight   | Dosing regimen         |
 |------------------|------------------------|
@@ -310,7 +308,7 @@ The recommended dose of AMGEVITA for patients with Crohn's disease from 6 to 17 
 
 <div style=\"page-break-after: always\"></div>
 
-Table 4. AMGEVITA dose for paediatric patients with Crohn's disease
+Table 4. AMGEVITA dose for paediatric p atients with Crohn's disease
 
 | Patient weight   | Induction dose                                                                                                                                                                                                                                                                     | Maintenance dose starting at week 4   |
 |------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
@@ -336,8 +334,6 @@ Table 5. AMGEVITA dose for paediatric patients with ulcerative colitis
 |------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
 | < 40 kg          | • 80 mg at week 0 (given as two 40 mg injections in one day) and • 40 mg at week 2 (given as one 40 mg injection)                                                                        | 40 mg every other week                 |
 | ≥ 40 kg          | • 160 mg at week 0 (given as four 40 mg injections in one day or two 40 mg injections per day for two consecutive days) and • 80 mg at week 2 (given as two 40 mg injections in one day) | 80 mg every other week                 |
-
-* Paediatric patients who turn 18 years of age while on AMGEVITA should continue their prescribed maintenance dose.
 
 Continued therapy beyond 8 weeks should be carefully considered in patients not showing signs of response within this time period.
 
@@ -450,7 +446,7 @@ In a study of 64 patients with rheumatoid arthritis that were treated with adali
 
 In the controlled portions of adalimumab clinical trials of TNF-antagonists, more cases of malignancies including lymphoma have been observed among patients receiving a TNF-antagonist compared with control patients. However, the occurrence was rare. In the post-marketing setting, cases of leukaemia have been reported in patients treated with a TNF-antagonist. There is an increased background risk for lymphoma and leukaemia in rheumatoid arthritis patients with long-standing highly active, inflammatory disease, which complicates the risk estimation. With the current knowledge, a possible risk for the development of lymphomas, leukaemia, and other malignancies in patients treated with a TNF-antagonist cannot be excluded.
 
-Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤ 18 years of age), including adalimumab in the post-marketing setting. Approximately half the cases were lymphomas. The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression. A risk for the development of malignancies in children and adolescents treated with TNF-antagonists cannot be excluded.
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNFantagonists (initiation of therapy ≤ 18 years of age), including adalimumab in the post-marketing setting. Approximately half the cases were lymphomas. The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression. A risk for the development of malignancies in children and adolescents treated with TNF-antagonists cannot be excluded.
 
 Rare post-marketing cases of hepatosplenic T-cell lymphoma have been identified in patients treated with adalimumab. This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal. Some of these hepatosplenic T-cell lymphomas with adalimumab have occurred in young adult patients on concomitant treatment with azathioprine or 6-mercaptopurine used for inflammatory bowel disease. The potential risk with the combination of azathioprine or 6-mercaptopurine and AMGEVITA should be carefully considered. A risk for the development of hepatosplenic T-cell lymphoma in patients treated with AMGEVITA cannot be excluded (see section 4.8).
 
@@ -512,15 +508,15 @@ See Vaccinations above.
 
 ## Sodium contents
 
-This medicinal product contains less than 1 mmol of sodium (23 mg) per 0.8 ml dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol of sodium (23 mg) per 0.8 ml dose, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Adalimumab has been studied in rheumatoid arthritis, polyarticular juvenile idiopathic arthritis and psoriatic arthritis patients taking adalimumab as monotherapy and those taking concomitant methotrexate. Antibody formation was lower when adalimumab was given together with methotrexate in comparison with use as monotherapy. Administration of adalimumab without methotrexate resulted in increased formation of antibodies, increased clearance and reduced efficacy of adalimumab (see section 5.1).
 
-The combination of AMGEVITA and anakinra is not recommended (see section 4.4 'Concurrent administration of biologic DMARDs or TNF-antagonists').
+The combination of AMGEVITA and anakinra is not recommended (see section 4.4 'Concurrent administration of biologic DMARDs or TNFantagonists').
 
-The combination of AMGEVITA and abatacept is not recommended (see section 4.4 'Concurrent administration of biologic DMARDs or TNF-antagonists').
+The combination of AMGEVITA and abatacept is not recommended (see section 4.4 'Concurrent administration of biologic DMARDs or TNFantagonists').
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -560,7 +556,7 @@ AMGEVITA may have a minor influence on the ability to drive and use machines. Ve
 
 ## Summary of the safety profile
 
-Adalimumab was studied in 9,506 patients in pivotal controlled and open-label trials for up to 60 months or more. These trials included rheumatoid arthritis patients with short term and longstanding disease, juvenile idiopathic arthritis (polyarticular juvenile idiopathic arthritis and enthesitisrelated arthritis) as well as axial spondyloarthritis (ankylosing spondylitis and axial spondyloarthritis without radiographic evidence of AS), psoriatic arthritis, Crohn's disease, ulcerative colitis, psoriasis, hidradenitis suppurativa and uveitis patients. The pivotal controlled studies involved 6,089 patients receiving adalimumab and 3,801 patients receiving placebo or active comparator during the controlled period.
+Adalimumab was studied in 9,506 patients in pivotal controlled and open-label trials for up to 60 months or more. These trials included rheumatoid arthritis patients with short term and longstanding disease, juvenile idiopathic arthritis (polyarticular juvenile idiopathic arthritis and enthesitisrelated arthritis) as well as axial spondyloarthritis (ankylosing spondylitis and axial spondyloarthritis without radiographic evidence of AS), psoriatic arthritis, Crohn's disease, ulcerative colitis , psoriasis, hidradenitis suppurativa and uveitis patients. The pivotal controlled studies involved 6,089 patients receiving adalimumab and 3,801 patients receiving placebo or active comparator during the controlled period.
 
 The proportion of patients who discontinued treatment due to adverse events during the double-blind, controlled portion of pivotal studies was 5.9% for patients taking adalimumab and 5.4% for control treated patients.
 
@@ -568,7 +564,7 @@ The most commonly reported adverse reactions are infections (such as nasopharyng
 
 <div style=\"page-break-after: always\"></div>
 
-Serious adverse reactions have been reported for adalimumab. TNF-antagonists, such as AMGEVITA affect the immune system and their use may affect the body's defence against infection and cancer.
+Serious adverse reactions have been reported for adalimumab. TNF-antagonists, such as AMGEVITA affect the immune system and their use may affect the body's defen ce against infection and cancer.
 
 Fatal and life-threatening infections (including sepsis, opportunistic infections and TB), HBV reactivation and various malignancies (including leukaemia, lymphoma and HSTCL) have also been reported with use of adalimumab.
 
@@ -580,7 +576,7 @@ In general, the adverse events in paediatric patients were similar in frequency 
 
 ## Tabulated list of adverse reactions
 
-The following list of adverse reactions is based on experience from clinical trials and on postmarketing experience and are displayed by system organ class and frequency in table 7 below: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); and not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. The highest frequency seen among the various indications has been included. An asterisk (*) appears in the SOC column if further information is found elsewhere in sections 4.3, 4.4 and 4.8.
+The following list of adverse reactions is based on experience from clinical trials and on postmarketing experience and are displayed by system organ class and frequency in table 7 below: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon ( ≥ 1/1,000 to &lt; 1/100); rare ( ≥ 1/10,000 to &lt; 1/1,000); and not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. The highest frequency seen among the various indications has been included. An asterisk (*) appears in the SOC column if further information is found elsewhere in sections 4.3, 4.4 and 4.8.
 
 Table 7. Undesirable effects
 
@@ -592,35 +588,33 @@ Table 7. Undesirable effects
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                                                        | Frequency   | Adverse reaction                                                                                                        |
-|---------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------|
-| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common      | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), Benign neoplasm            |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Uncommon    | Lymphoma**, Solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), Melanoma**              |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Rare        | Leukaemia 1)                                                                                                            |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Not known   | Hepatosplenic T-cell lymphoma 1) , Merkel cell carcinoma (neuroendocrine carcinoma of the skin) 1) , Kaposi's sarcoma   |
-| Blood and the lymphatic system disorders*                                 | Very common | Leukopenia (including neutropenia and agranulocytosis), Anaemia                                                         |
-| Blood and the lymphatic system disorders*                                 | Common      | Leukocytosis, Thrombocytopenia                                                                                          |
-| Blood and the lymphatic system disorders*                                 | Uncommon    | Idiopathic thrombocytopenic purpura                                                                                     |
-| Blood and the lymphatic system disorders*                                 | Rare        | Pancytopenia                                                                                                            |
-| Immune system disorders*                                                  | Common      | Hypersensitivity, Allergies (including seasonal allergy)                                                                |
-| Immune system disorders*                                                  | Uncommon    | Sarcoidosis 1) , Vasculitis                                                                                             |
-| Immune system disorders*                                                  | Rare        | Anaphylaxis 1)                                                                                                          |
-| Metabolism and nutrition disorders                                        | Very common | Lipids increased                                                                                                        |
-| Metabolism and nutrition disorders                                        | Common      | Hypokalaemia, Uric acid increased, Blood sodium abnormal, Hypocalcaemia, Hyperglycaemia, Hypophosphataemia, Dehydration |
-| Psychiatric disorders                                                     | Common      | Mood alterations (including depression), Anxiety, Insomnia                                                              |
-| Nervous system disorders*                                                 | Very common | Headache                                                                                                                |
-| Nervous system disorders*                                                 | Common      | Paraesthesia (including hypoaesthesia), Migraine, Nerve root compression                                                |
-| Nervous system disorders*                                                 | Uncommon    | Cerebrovascular accident 1) , Tremor, Neuropathy                                                                        |
-| Nervous system disorders*                                                 | Rare        | Multiple sclerosis, Demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) 1)                           |
-| Eye disorders                                                             | Common      | Visual impairment, Conjunctivitis, Blepharitis, Eye swelling                                                            |
-| Eye disorders                                                             | Uncommon    | Diplopia                                                                                                                |
+| System organ class                                                        | Frequency          | Adverse reaction                                                                                                                         |
+|---------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common             | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), Benign neoplasm                             |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Uncommon           | Lymphoma**, Solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), Melanoma**                               |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Rare               | Leukaemia 1)                                                                                                                             |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Not known          | Hepatosplenic T-cell lymphoma 1) , Merkel cell carcinoma (neuroendocrine carcinoma of the skin) 1) , Kaposi's sarcoma                    |
+| Blood and the lymphatic system disorders*                                 | Very common        | Leukopenia (including neutropenia and agranulocytosis), Anaemia                                                                          |
+| Blood and the lymphatic system disorders*                                 | Common             | Leukocytosis, Thrombocytopenia                                                                                                           |
+| Blood and the lymphatic system disorders*                                 | Uncommon           | Idiopathic thrombocytopenic purpura                                                                                                      |
+| Blood and the lymphatic system disorders*                                 | Rare               | Pancytopenia                                                                                                                             |
+| Immune system disorders*                                                  | Common             | Hypersensitivity, Allergies (including seasonal allergy)                                                                                 |
+| Immune system disorders*                                                  | Uncommon           | Sarcoidosis 1) , Vasculitis                                                                                                              |
+| Metabolism and nutrition disorders                                        | Rare               | Anaphylaxis 1)                                                                                                                           |
+| Metabolism and nutrition disorders                                        | Very common Common | Lipids increased Hypokalaemia, Uric acid increased, Blood sodium abnormal, Hypocalcaemia, Hyperglycaemia, Hypophosphataemia, Dehydration |
+| Psychiatric disorders                                                     | Common             | Mood alterations (including depression), Anxiety, Insomnia                                                                               |
+| Nervous system disorders*                                                 | Very common        | Headache Paraesthesia (including hypoaesthesia), Migraine, Nerve root compression                                                        |
+| Nervous system disorders*                                                 | Common             |                                                                                                                                          |
+| Nervous system disorders*                                                 | Uncommon Rare      | Cerebrovascular accident 1) , Tremor, Neuropathy Multiple sclerosis,                                                                     |
+| Eye disorders                                                             | Common             | syndrome) 1) Visual impairment, Conjunctivitis, Blepharitis, Eye swelling                                                                |
+| Eye disorders                                                             | Uncommon           | Diplopia                                                                                                                                 |
+| Ear and labyrinth disorders                                               | Common             | Vertigo                                                                                                                                  |
+| Ear and labyrinth disorders                                               | Uncommon           | Deafness, Tinnitus                                                                                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                               | Frequency   | Adverse reaction                                                                                                           |
 |--------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------|
-| Ear and labyrinth disorders                      | Common      | Vertigo                                                                                                                    |
-| Ear and labyrinth disorders                      | Uncommon    | Deafness, Tinnitus                                                                                                         |
 | Cardiac disorders*                               | Common      | Tachycardia                                                                                                                |
 | Cardiac disorders*                               | Uncommon    | Myocardial infarction 1) , Arrhythmia, Congestive heart failure                                                            |
 | Cardiac disorders*                               | Rare        | Cardiac arrest                                                                                                             |
@@ -661,14 +655,6 @@ Table 7. Undesirable effects
 | Investigations*                                       | Not known   | Weight increased 2)                                                                                                                                                                                        |
 | Injury, poisoning and procedural complications        | Common      | Impaired healing                                                                                                                                                                                           |
 
-* further information is found elsewhere in sections 4.3, 4.4 and 4.8
-
-** including open-label extension studies
-
-1) including spontaneous reporting data
-
-2)  The mean weight change from baseline for adalimumab ranged from 0.3 kg to 1.0 kg across adult indications compared to (minus) -0.4 kg to 0.4 kg for placebo over a treatment period of 4-6 months. Weight increase of 5-6 kg has also been observed in long-term extension studies with mean exposures of approximately 1-2 years without control group, particularly in patients with Crohn's disease and ulcerative colitis. The mechanism behind this effect is unclear but could be associated with the anti-inflammatory effect of adalimumab.
-
 ## Hidradenitis suppurativa
 
 The safety profile for patients with HS treated with adalimumab weekly was consistent with the known safety profile of adalimumab.
@@ -697,7 +683,7 @@ In controlled and open-label adult and paediatric studies with adalimumab, serio
 
 No malignancies were observed in 249 paediatric patients with an exposure of 655.6 patient-years during adalimumab trials in patients with juvenile idiopathic arthritis (polyarticular juvenile idiopathic arthritis and enthesitis-related arthritis). In addition, no malignancies were observed in 192 paediatric patients with an exposure of 498.1 patient-years during an adalimumab trial in paediatric patients with Crohn's disease. No malignancies were observed in 77 paediatric patients with an exposure of 80.0 patient-years during an adalimumab trial in paediatric patients with chronic plaque psoriasis. No malignancies were observed in 93 paediatric patients with an exposure of 65.3 patient years during an adalimumab trial in paediatric patients with ulcerative colitis. No malignancies were observed in 60 paediatric patients with an exposure of 58.4 patient years during an adalimumab trial in paediatric patients with uveitis.
 
-During the controlled portions of pivotal adalimumab trials in adults of at least 12 weeks in duration in patients with moderately to severely active rheumatoid arthritis, ankylosing spondylitis, axial spondyloarthritis without radiographic evidence of AS, psoriatic arthritis, psoriasis, hidradenitis suppurativa, Crohn's disease, ulcerative colitis and uveitis, malignancies, other than lymphoma and non-melanoma skin cancer, were observed at a rate (95% confidence interval) of 6.8 (4.4, 10.5) per 1,000 patient-years among 5,291 adalimumab-treated patients versus a rate of 6.3 (3.4, 11.8) per 1,000 patient-years among 3,444 control patients (median duration of treatment was 4.0 months for adalimumab and 3.8 months for control-treated patients). The rate (95% confidence interval) of nonmelanoma skin cancers was 8.8 (6.0, 13.0) per 1,000 patient-years among adalimumab-treated patients and 3.2 (1.3, 7.6) per 1,000 patient-years among control patients. Of these skin cancers, squamous cell carcinomas occurred at rates (95% confidence interval) of 2.7 (1.4, 5.4) per 1,000 patient-years among adalimumab-treated patients and 0.6 (0.1, 4.5) per 1,000 patient-years among control patients. The rate
+During the controlled portions of pivotal adalimumab trials in adults of at least 12 weeks in duration in patients with moderately to severely active rheumatoid arthritis, ankylosing spondylitis, axial spondyloarthritis without radiographic evidence of AS, psoriatic arthritis, psoriasis, hidradenitis suppurativa, Crohn's disease , ulcerative colitis and uveitis, malignancies, other than lymphoma and non-melanoma skin cancer, were observed at a rate (95% confidence interval) of 6.8 (4.4, 10.5) per 1,000 patient-years among 5,291 adalimumab-treated patients versus a rate of 6.3 (3.4, 11.8) per 1,000 patient-years among 3,444 control patients (median duration of treatment was 4.0 months for adalimumab and 3.8 months for control-treated patients). The rate (95% confidence interval) of nonmelanoma skin cancers was 8.8 (6.0, 13.0) per 1,000 patient-years among adalimumab-treated patients and 3.2 (1.3, 7.6) per 1,000 patient-years among control patients. Of these skin cancers, squamous cell carcinomas occurred at rates (95% confidence interval) of 2.7 (1.4, 5.4) per 1,000 patient-years among adalimumab-treated patients and 0.6 (0.1, 4.5) per 1,000 patient-years among control patients. The rate
 
 <div style=\"page-break-after: always\"></div>
 
@@ -739,7 +725,7 @@ Across all indications in clinical trials patients with raised ALT were asymptom
 
 ## Concurrent treatment with azathioprine/6-mercaptopurine
 
-In adult Crohn's disease studies, higher incidences of malignant and serious infection-related adverse events were seen with the combination of adalimumab and azathioprine/6-mercaptopurine compared with adalimumab alone.
+In adult Crohn's disease studies, higher incidences of malignant and serious infection -related adverse events were seen with the combination of adalimumab and azathioprine/6-mercaptopurine compared with adalimumab alone.
 
 ## Reporting of suspected adverse reactions
 
@@ -753,7 +739,7 @@ No dose-limiting toxicity was observed during clinical trials. The highest dose 
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Immunosuppressants, tumour necrosis factor alpha (TNFα) inhibitors. ATC code: L04AB04
+Pharmacotherapeutic group: Immunosuppressants, tumour necrosis f actor alpha (TNFα) inhibitors . ATC code: L04AB04
 
 AMGEVITA is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
@@ -769,7 +755,7 @@ Adalimumab also modulates biological responses that are induced or regulated by 
 
 After treatment with adalimumab, a rapid decrease in levels of acute phase reactants of inflammation (C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR)) and serum cytokines (IL-6) was observed, compared to baseline in patients with rheumatoid arthritis. Serum levels of matrix metalloproteinases (MMP-1 and MMP-3) that produce tissue remodelling responsible for cartilage destruction were also decreased after adalimumab administration. Patients treated with adalimumab usually experienced improvement in haematological signs of chronic inflammation.
 
-A rapid decrease in CRP levels was also observed in patients with polyarticular juvenile idiopathic arthritis, Crohn's disease, ulcerative colitis and hidradenitis suppurativa after treatment with adalimumab. In patients with Crohn's disease, a reduction of the number of cells expressing inflammatory markers in the colon including a significant reduction of expression of TNFα was seen. Endoscopic studies in intestinal mucosa have shown evidence of mucosal healing in adalimumabtreated patients.
+A rapid decrease in CRP levels was also observed in patients with polyarticular juvenile idiopathic arthritis, Crohn's disease, ulcerative colitis and hidradenitis suppurativa after treatment with adalimumab . In patients with Crohn's disease , a reduction of the number of cells expressing inflammatory markers in the colon including a significant reduction of expression of TNFα was seen. Endoscopic studies in intestinal mucosa have shown evidence of mucosal healing in adalimumabtreated patients.
 
 ## Clinical efficacy and safety
 
@@ -834,21 +820,19 @@ In RA study V with early rheumatoid arthritis patients who were methotrexate na�
 
 Table 9. ACR responses in RA study V (percent of patients)
 
-| Response   | MTX n = 257   | Adalimumab n = 274   | Adalimumab /MTX n = 268   | p-value a   | p-value b   | p-value c   |
+| Response   | MTX n = 257   | Adalimumab n = 274   | Adalimumab /MTX n = 268   | p-value a   | p-value b   |   p-value c |
 |------------|---------------|----------------------|---------------------------|-------------|-------------|-------------|
 | ACR 20     |               |                      |                           |             |             |             |
-| Week 52    | 62.6%         | 54.4%                | 72.8%                     | 0.013       | < 0.001     | 0.043       |
-| Week 104   | 56.0%         | 49.3%                | 69.4%                     | 0.002       | < 0.001     | 0.140       |
+| Week 52    | 62.6%         | 54.4%                | 72.8%                     | 0.013       | < 0.001     |       0.043 |
+| Week 104   | 56.0%         | 49.3%                | 69.4%                     | 0.002       | < 0.001     |       0.140 |
 | ACR 50     |               |                      |                           |             |             |             |
-| Week 52    | 45.9%         | 41.2%                | 61.6%                     | < 0.001     | < 0.001     | 0.317       |
-| Week 104   | 42.8%         | 36.9%                | 59.0%                     | < 0.001     | < 0.001     | 0.162       |
+| Week 52    | 45.9%         | 41.2%                | 61.6%                     | < 0.001     | < 0.001     |       0.317 |
+| Week 104   | 42.8%         | 36.9%                | 59.0%                     | < 0.001     | < 0.001     |       0.162 |
 | ACR 70     |               |                      |                           |             |             |             |
-| Week 52    | 27.2%         | 25.9%                | 45.5%                     | < 0.001     | < 0.001     | 0.656       |
-| Week 104   | 28.4%         | 28.1%                | 46.6%                     | < 0.001     | < 0.001     | 0.864       |
+| Week 52    | 27.2%         | 25.9%                | 45.5%                     | < 0.001     | < 0.001     |       0.656 |
+| Week 104   | 28.4%         | 28.1%                | 46.6%                     | < 0.001     | < 0.001     |       0.864 |
 
-a  p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
-
-b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
+a  p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
 
 c  p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
@@ -869,16 +853,8 @@ Table 10. Radiographic mean changes over 12 months in RA study III
 |                   |   Placebo/ MTX a |   Adalimumab /MTX 40 mg every other week | Placebo/MTX- adalimumab /MTX (95% confidence interval b )   | p-value   |
 |-------------------|------------------|------------------------------------------|-------------------------------------------------------------|-----------|
 | Total Sharp Score |              2.7 |                                      0.1 | 2.6 (1.4, 3.8)                                              | < 0.001 c |
-| Erosion score     |              1.6 |                                      0   | 1.6 (0.9, 2.2)                                              | < 0.001   |
-| JSN d score       |              1   |                                      0.1 | 0.9 (0.3, 1.4)                                              | 0.002     |
-
-a methotrexate
-
-b  95% confidence intervals for the differences in change scores between methotrexate and adalimumab
-
-c Based on rank analysis
-
-d  Joint Space Narrowing
+| Erosion score     |              1.6 |                                      0.0 | 1.6 (0.9, 2.2)                                              | < 0.001   |
+| JSN d score       |              1.0 |                                      0.1 | 0.9 (0.3, 1.4)                                              | 0.002     |
 
 In RA study V, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (see table 11).
 
@@ -886,15 +862,9 @@ Table 11. Radiographic mean changes at week 52 in RA study V
 
 |                   | MTX n = 257 (95% confidence interval)   | Adalimumab n = 274 (95% confidence interval)   | Adalimumab/ MTX n = 268 (95% confidence interval)   | p-value a   |   p-value b | p-value c   |
 |-------------------|-----------------------------------------|------------------------------------------------|-----------------------------------------------------|-------------|-------------|-------------|
-| Total sharp score | 5.7 (4.2-7.3)                           | 3.0 (1.7-4.3)                                  | 1.3 (0.5-2.1)                                       | < 0.001     |      0.002  | < 0.001     |
+| Total sharp score | 5.7 (4.2-7.3)                           | 3.0 (1.7-4.3)                                  | 1.3 (0.5-2.1)                                       | < 0.001     |      0.0020 | < 0.001     |
 | Erosion score     | 3.7 (2.7-4.7)                           | 1.7 (1.0-2.4)                                  | 0.8 (0.4-1.2)                                       | < 0.001     |      0.0082 | < 0.001     |
 | JSN score         | 2.0 (1.2-2.8)                           | 1.3 (0.5-2.1)                                  | 0.5 (0-1.0)                                         | < 0.001     |      0.0037 | 0.151       |
-
-a  p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
-
-b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
-
-c  p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
 Following 52 weeks and 104 weeks of treatment, the percentage of patients without progression (change from baseline in modified Total Sharp Score ≤ 0.5) was significantly higher with adalimumab/methotrexate combination therapy (63.8% and 61.2% respectively) compared to methotrexate monotherapy (37.4% and 33.5% respectively, p &lt; 0.001) and adalimumab monotherapy (50.7%, p &lt; 0.002 and 44.5%, p &lt; 0.001 respectively).
 
@@ -918,7 +888,7 @@ Adalimumab 40 mg every other week was assessed in 393 patients in two randomised
 
 In the larger AS study I with 315 patients, results showed statistically significant improvement of the signs and symptoms of ankylosing spondylitis in patients treated with adalimumab compared to placebo. Significant response was first observed at week 2 and maintained through 24 weeks (table 12).
 
-Table 12. Efficacy responses in placebo-controlled AS study - study I reduction of signs and symptoms
+Table 12. Efficacy responses in placebo-controlled AS study -study I reduction of signs and symptoms
 
 | Response   | Placebo N = 107   | Adalimumab N = 208   |
 |------------|-------------------|----------------------|
@@ -944,12 +914,6 @@ Table 12. Efficacy responses in placebo-controlled AS study - study I reduction 
 | Week 12     | 16%               | 45%***               |
 | Week 24     | 15%               | 42%***               |
 
-***, ** Statistically significant at p &lt; 0.001, &lt; 0.01 for all comparisons between adalimumab and placebo at weeks 2, 12 and 24
-
-a Assessments in Ankylosing Spondylitis
-
-b  Bath Ankylosing Spondylitis Disease Activity Index
-
 Adalimumab-treated patients had significantly greater improvement at week 12 which was maintained through week 24 in both the SF36 and Ankylosing Spondylitis Quality of Life Questionnaire (ASQoL).
 
 Similar trends (not all statistically significant) were seen in the smaller randomised, double-blind, placebo controlled AS study II of 82 adult patients with active ankylosing spondylitis.
@@ -972,39 +936,17 @@ Table 13. Efficacy response in placebo-controlled study nr-axSpA I
 | ASAS 20                            | 31%              | 52%**               |
 | ASAS 5/6                           | 6%               | 31%***              |
 | ASAS partial remission             | 5%               | 16%*                |
-| BASDAI b 50                        | 15%              | 35%**               |
 
 <div style=\"page-break-after: always\"></div>
 
 | Double-blind response at week 12   | Placebo N = 94   | Adalimumab N = 91   |
 |------------------------------------|------------------|---------------------|
+| BASDAI b 50                        | 15%              | 35%**               |
 | ASDAS c,d,e                        | -0.3             | -1.0***             |
 | ASDAS Inactive Disease             | 4%               | 24%***              |
 | hs-CRP d,f,g                       | -0.3             | -4.7***             |
 | SPARCC h MRI Sacroiliac Joints d,i | -0.6             | -3.2**              |
 | SPARCC MRI Spine d,j               | -0.2             | -1.8**              |
-
-a Assessment of SpondyloArthritis international Society
-
-b  Bath Ankylosing Spondylitis Disease Activity Index
-
-c  Ankylosing Spondylitis Disease Activity Score
-
-d  mean change from baseline
-
-e  n = 91 placebo and n = 87 adalimumab
-
-f high sensitivity C-Reactive Protein (mg/L)
-
-g  n = 73 placebo and n = 70 adalimumab
-
-h  Spondyloarthritis Research Consortium of Canada
-
-i  n = 84 placebo and adalimumab
-
-j  n = 82 placebo and n = 85 adalimumab
-
-***, **, * Statistically significant at p &lt; 0.001, &lt; 0.01, and &lt; 0.05, respectively, for all comparisons between adalimumab and placebo
 
 In the open-label extension, improvement in the signs and symptoms was maintained with adalimumab therapy through week 156.
 
@@ -1024,9 +966,41 @@ The primary efficacy endpoint was the proportion of patients with no flare by we
 
 <div style=\"page-break-after: always\"></div>
 
+1.0
+
+0.9 -
+
+0.8 -
+
+0.7 -
+
+0.6 -
+
+0.5 -
+
+0.4-
+
+0.3 -
+
+0.2 -
+
+0.1 -
+
+0.0-
+
+P
+
+A
+
 Figure 1: Kaplan-Meier curves summarising time to flare in study nr-axSpA II
 
+A
+
 <!-- image -->
+
+153 (0)
+
+151 (0)
 
 Note: P = Placebo (number at risk (flared)); A = Adalimumab (number at risk (flared)).
 
@@ -1043,16 +1017,6 @@ Table 14. Efficacy response in placebo-controlled period for study nr-axSpA II
 | ASAS a Partial Remission           | 26.8%           | 42.1%**            |
 | ASDAS c Inactive Disease           | 33.3%           | 57.2%***           |
 | Partial Flare d                    | 64.1%           | 40.8%***           |
-
-a Assessment of SpondyloArthritis international Society
-
-b Baseline is defined as open label baseline when patients have active disease.
-
-c Ankylosing Spondylitis Disease Activity Score
-
-d Partial flare is defined as ASDAS ≥ 1.3 but &lt; 2.1 at 2 consecutive visits.
-
-***, ** Statistically significant at p &lt; 0.001 and &lt; 0.01, respectively, for all comparisons between adalimumab and placebo.
 
 ## Psoriatic arthritis
 
@@ -1117,10 +1081,6 @@ Table 16. Ps study I (REVEAL) - efficacy results at 16 weeks
 | PASI 100           | 3 (0.8)                 | 163 (20.0) b                                      |
 | PGA: Clear/minimal | 17 (4.3)                | 506 (62.2) b                                      |
 
-a Percent of patients achieving PASI75 response was calculated as centre-adjusted rate
-
-b  p &lt; 0.001, adalimumab versus placebo
-
 Table 17. Ps study II (CHAMPION) efficacy results at 16 weeks
 
 |                    | Placebo N = 53 n (%)   | MTX N = 110 n (%)   | Adalimumab 40 mg every other week N = 108 n (%)   |
@@ -1128,14 +1088,6 @@ Table 17. Ps study II (CHAMPION) efficacy results at 16 weeks
 | ≥ PASI 75          | 10 (18.9)              | 39 (35.5)           | 86 (79.6) a, b                                    |
 | PASI 100           | 1 (1.9)                | 8 (7.3)             | 18 (16.7) c, d                                    |
 | PGA: Clear/minimal | 6 (11.3)               | 33 (30.0)           | 79 (73.1) a, b                                    |
-
-a  p &lt; 0.001 adalimumab versus placebo
-
-b  p &lt; 0.001 adalimumab versus methotrexate
-
-c  p &lt; 0.01 adalimumab versus placebo
-
-d  p &lt; 0.05 adalimumab versus methotrexate
 
 In psoriasis study I, 28% of patients who were PASI 75 responders and were re-randomised to placebo at week 33 compared to 5% continuing on adalimumab, p &lt; 0.001, experienced 'loss of adequate response' (PASI score after week 33 and on or before week 52 that resulted in a &lt; PASI 50 response relative to baseline with a minimum of a 6-point increase in PASI score relative to week 33). Of the patients who lost adequate response after re-randomisation to placebo who then enrolled into the openlabel extension trial, 38% (25/66) and 55% (36/66) regained PASI 75 response after 12 and 24 weeks of retreatment, respectively.
 
@@ -1196,14 +1148,6 @@ Table 19. Efficacy results at 12 weeks, HS studies I and II
 |                                                      | Placebo            | Adalimumab 40 mg weekly | Placebo            | Adalimumab 40 mg weekly |
 | Hidradenitis Suppurativa Clinical Response (HiSCR) a | N = 154 40 (26.0%) | N = 153 64 (41.8%) *    | N = 163 45 (27.6%) | N = 163 96 (58.9%) ***  |
 | ≥30% Reduction in Skin Pain b                        | N = 109 27 (24.8%) | N = 122 34 (27.9%)      | N = 111 23 (20.7%) | N = 105 48 (45.7%) ***  |
-
-*P &lt; 0.05, ***P &lt; 0.001, adalimumab versus placebo
-
-a  Among all randomised patients
-
-b  Among patients with baseline HS-related skin pain assessment ≥ 3, based on Numeric Rating Scale 0 - 10;
-
-0 = no skin pain, 10 = skin pain as bad as you can imagine
 
 Treatment with adalimumab 40 mg every week significantly reduced the risk of worsening of abscesses and draining fistulas. Approximately twice the proportion of patients in the placebo group in the first 12 weeks of Studies HS-I and HS-II, compared with those in the adalimumab group experienced worsening of abscesses (23.0% versus 11.4%, respectively) and draining fistulas (30.0% versus 13.9%, respectively).
 
@@ -1295,7 +1239,7 @@ In CD study I and CD study II, statistically significant improvement in the dise
 
 The safety and efficacy of multiple doses of adalimumab were assessed in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12 with endoscopy subscore of 2 to 3) in randomised, double-blind, placebo-controlled studies.
 
-In study UC-I, 390 TNF-antagonist naïve patients were randomised to receive either placebo at weeks 0 and 2, 160 mg adalimumab at week 0 followed by 80 mg at week 2, or 80 mg adalimumab at week 0 followed by 40 mg at week 2. After week 2, patients in both adalimumab arms received 40 mg every other week. Clinical remission (defined as Mayo score ≤ 2 with no subscore &gt; 1) was assessed at week 8.
+In study UC-I, 390 TNF-antagonist naïve patients were randomised to receive either placebo at weeks 0 and 2, 160 mg adalimumab at week 0 followed by 80 mg at week 2, or 80 mg adalimumab at week 0 followed by 40 mg at week 2. After week 2, patients in both adalimumab arms received 40 mg every other week . Clinical remission (defined as Mayo score ≤ 2 with no subscore &gt; 1) was assessed at week 8.
 
 In study UC-II, 248 patients received 160 mg of adalimumab at week 0, 80 mg at week 2 and 40 mg every other week thereafter, and 246 patients received placebo. Clinical results were assessed for induction of remission at week 8 and for maintenance of remission at week 52.
 
@@ -1307,19 +1251,17 @@ Results from the overall UC-II study population are shown in table 23.
 
 Table 23. Response, remission and mucosal healing in study UC-II (percent of patients)
 
-|                                        | Placebo      | Adalimumab 40 mg every other week   |
-|----------------------------------------|--------------|-------------------------------------|
-| Week 52                                | N = 246      | N = 248                             |
-| Clinical response                      | 18%          | 30%*                                |
-| Clinical remission                     | 9%           | 17%*                                |
-| Mucosal healing                        | 15%          | 25%*                                |
-| Steroid-free remission for ≥ 90 days a | 6% (N = 140) | 13%* (N = 150)                      |
-| Week 8 and 52                          |              |                                     |
-| Sustained response                     | 12%          | 24%**                               |
-| Sustained remission                    | 4%           | 8%*                                 |
-| Sustained mucosal healing              | 11%          | 19%*                                |
-
-Clinical remission is Mayo score ≤ 2 with no subscore &gt; 1;
+|                                         | Placebo      | Adalimumab 40 mg every other week   |
+|-----------------------------------------|--------------|-------------------------------------|
+| Week 52                                 | N = 246      | N = 248                             |
+| Clinical response                       | 18%          | 30%*                                |
+| Clinical remission                      | 9%           | 17%*                                |
+| Mucosal healing                         | 15%          | 25%*                                |
+| Steroid- free remission for ≥ 90 days a | 6% (N = 140) | 13%* (N = 150)                      |
+| Week 8 and 52                           |              |                                     |
+| Sustained response                      | 12%          | 24%**                               |
+| Sustained remission                     | 4%           | 8%*                                 |
+| Sustained mucosal healing               | 11%          | 19%*                                |
 
 Clinical response is decrease from baseline in Mayo score ≥ 3 points and ≥ 30% plus a decrease in the rectal bleeding subscore [RBS] ≥ 1 or an absolute RBS of 0 or 1;
 
@@ -1329,7 +1271,7 @@ Clinical response is decrease from baseline in Mayo score ≥ 3 points and ≥ 3
 
 a Of those receiving corticosteroids at baseline
 
-Of those patients who had a response at week 8, 47% were in response, 29% were in remission, 41% had mucosal healing, and 20% were in steroid-free remission for ≥ 90 days at week 52.
+Of those patients who had a response at week 8, 47% were in response, 29% were in remission, 41% had mucosal healing, and 20% were in steroidfree remission for ≥ 90 days at week 52.
 
 Approximately 40% of patients in study UC-II had failed prior anti-TNF treatment with infliximab. The efficacy of adalimumab in those patients was reduced compared to that in anti-TNF naïve patients. Among patients who had failed prior anti-TNF treatment, week 52 remission was achieved by 3% on placebo and 10% on adalimumab.
 
@@ -1374,7 +1316,9 @@ Table 24. Time to treatment failure in studies UV I and UV II
 | Placebo                                                                            | 111                                                                                | 61 (55.0)                                                                          | 8.3                                                                                | --                                                                                 | --                                                                                 | --                                                                                 |
 | Adalimumab                                                                         | 115                                                                                | 45 (39.1)                                                                          | NE c                                                                               | 0.57                                                                               | 0.39, 0.84                                                                         | 0.004                                                                              |
 
-Note: Treatment failure at or after week 6 (study UV I), or at or after week 2 (study UV II), was counted as event. Drop outs due to reasons other than treatment failure were censored at the time of dropping out.
+Note: Treatment failure at or after week 6 (study UV I), or at or after week 2 (study UV II), was counted as
+
+event. Drop outs due to reasons other than treatment failure were censored at the time of dropping out.
 
 a  HR of adalimumab versus placebo from proportional hazards regression with treatment as factor.
 
@@ -1384,25 +1328,11 @@ c NE = not estimable. Fewer than half of at-risk subjects had an event.
 
 <div style=\"page-break-after: always\"></div>
 
+TREATMENT FAILURE RATE (%)
+
+TREATMENT FAILURE RATE (%)
+
 Figure 2. Kaplan-Meier curves summarising time to treatment failure on or after week 6 (study UV I) or week 2 (study UV II)
-
-FAILURE RATE (%)
-
-100
-
-80
-
-60
-
-40
-
-20
-
-0
-
-TREATMENT
-
-0
 
 P#0/107
 
@@ -1410,53 +1340,21 @@ A#0/110
 
 Study UV I
 
-4
+100 -
 
-63/35
+80 -
 
-6
+60
 
-76/19
+40
 
-40/54
+20 -
 
-48/42
+P#0/111
 
-Treatment
+A#0/115
 
-12
-
-60/20
-
-8
-
-80/14
-
-54/35
-
-10
-
-82/11
-
-83/8
-
-TIME (MONTHS)
-
-Placebo
-
-18
-
-84/4
-
-16
-
-83/5
-
-60/15
-
-60/12
-
-Adalimumab
+Study UV II
 
 <!-- image -->
 
@@ -1465,26 +1363,6 @@ Note: P# = Placebo (number of events/number at risk); A# = Adalimumab (number of
 In study UV I statistically significant differences in favour of adalimumab versus placebo were observed for each component of treatment failure. In study UV II, statistically significant differences were observed for visual acuity only, but the other components were numerically in favour of adalimumab.
 
 Of the 424 subjects included in the uncontrolled long-term extension of Studies UV I and UV II, 60 subjects were regarded ineligible (e.g. due to deviations or due to complications secondary to diabetic retinopathy, due to cataract surgery or vitrectomy) and were excluded from the primary analysis of efficacy. Of the 364 remaining patients, 269 evaluable patients (74%) reached 78 weeks of open-label adalimumab treatment. Based on the observed data approach, 216 (80.3%) were in quiescence (no active inflammatory lesions, AC cell grade ≤ 0.5+, VH grade ≤ 0.5+) with a concomitant steroid dose ≤ 7.5 mg per day, and 178 (66.2%) were in steroid-free quiescence. BCVA was either improved or maintained (&lt; 5 letters deterioration) in 88.6% of the eyes at week 78. Data beyond week 78 were generally consistent with these results but the number of enrolled subjects declined after this time. Overall, among the patients who discontinued the study, 18% discontinued due to adverse events, and 8% due to insufficient response to adalimumab treatment.
-
-57/29
-
-2
-
-35/67
-
-16/82
-
-14
-
-83/7
-
-60/17
-
-20
-
-84/0
-
-60/0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1532,12 +1410,6 @@ Table 26. Paediatric ACR 30 responses in the JIA study
 | Disease flares at the end of 32 weeks a (n/N) | 36.8% (14/38)             | 64.9% (24/37) b       | 43.3% (13/30)       | 71.4% (20/28) c  |
 | Median time to disease flare                  | > 32 weeks                | 20 weeks              | > 32 weeks          | 14 weeks         |
 
-a Paediatric ACR 30/50/70 responses week 48 significantly greater than those of placebo treated patients
-
-b p = 0.015
-
-c p = 0.031
-
 Amongst those who responded at week 16 (n = 144), the paediatric ACR 30/50/70/90 responses were maintained for up to six years in the OLE phase in patients who received adalimumab throughout the study. Over all 19 subjects, of which 11 of the baseline age group 4 to 12 and 8 of the baseline age group 13 to 17 years were treated 6 years or longer.
 
 Overall responses were generally better and, fewer patients developed antibodies when treated with the combination of adalimumab and MTX compared to adalimumab alone. Taking these results into consideration, adalimumab is recommended for use in combination with MTX and for use as monotherapy in patients for whom MTX use is not appropriate (see section 4.2).
@@ -1550,17 +1422,17 @@ At week 12 and week 24, PedACR30 response was 93.5% and 90.0%, respectively, usi
 
 ## Enthesitis-related arthritis
 
-The safety and efficacy of adalimumab were assessed in a multicentre, randomised, double-blind study in 46 paediatric patients (6 to 17 years old) with moderate enthesitis-related arthritis. Patients were randomised to receive either 24 mg/m 2  body surface area (BSA) of adalimumab up to a maximum of 40 mg, or placebo every other week for 12 weeks. The double-blind period is followed by an openlabel (OL) period during which patients received 24 mg/m 2  BSA of adalimumab up to a maximum of 40 mg every other week subcutaneously for up to an additional 192 weeks. The primary endpoint was the percent change from baseline to week 12 in the number of active joints with arthritis (swelling not due to deformity or joints with loss of motion plus pain and/or tenderness), which was achieved with mean percent decrease of -62.6% (median percent change -88.9%) in patients in the adalimumab
+The safety and efficacy of adalimumab were assessed in a multicentre, randomised, double-blind study in 46 paediatric patients (6 to 17 years old) with moderate enthesitis-related arthritis. Patients were randomised to receive either 24 mg/m 2  body surface area (BSA) of adalimumab up to a maximum of 40 mg, or placebo every other week for 12 weeks. The double-blind period is followed by an openlabel (OL) period during which patients received 24 mg/m 2  BSA of adalimumab up to a maximum of 40 mg every other week subcutaneously for up to an additional 192 weeks. The primary endpoint was the percent change from baseline to week 12 in the number of active joints with arthritis (swelling not due to deformity or joints with loss of motion plus pain and/or tenderness), which was achieved with mean percent decrease of -62.6% (median percent change -88.9%) in patients in the adalimumab group compared to -11.6% (median percent change -50.0%) in patients in the placebo group.
 
 <div style=\"page-break-after: always\"></div>
 
-group compared to -11.6% (median percent change -50.0%) in patients in the placebo group. Improvement in number of active joints with arthritis was maintained during the OL period through week 156 for the 26 of 31 (84%) patients in the adalimumab group who remained in the study. Although not statistically significant, the majority of patients demonstrated clinical improvement in secondary endpoints such as number of sites of enthesitis, tender joint count (TJC), swollen joint count (SJC), paediatric ACR 50 response, and paediatric ACR 70 response.
+Improvement in number of active joints with arthritis was maintained during the OL period through week 156 for the 26 of 31 (84%) patients in the adalimumab group who remained in the study. Although not statistically significant, the majority of patients demonstrated clinical improvement in secondary endpoints such as number of sites of enthesitis, tender joint count (TJC), swollen joint count (SJC), paediatric ACR 50 response, and paediatric ACR 70 response.
 
 ## Paediatric plaque psoriasis
 
 The efficacy of adalimumab was assessed in a randomised, double-blind, controlled study of 114 paediatric patients from 4 years of age with severe chronic plaque psoriasis (as defined by a PGA ≥ 4 or &gt; 20% BSA involvement or &gt; 10% BSA involvement with very thick lesions or PASI ≥ 20 or ≥ 10 with clinically relevant facial, genital, or hand/foot involvement) who were inadequately controlled with topical therapy and heliotherapy or phototherapy.
 
-Patients received adalimumab 0.8 mg/kg every other week (up to 40 mg), 0.4 mg/kg every other week (up to 20 mg), or methotrexate 0.1-0.4 mg/kg weekly (up to 25 mg). At week 16, more patients randomised to adalimumab 0.8 mg/kg had positive efficacy responses (e.g. PASI 75) than those randomised to 0.4 mg/kg every other week or MTX.
+Patients received adalimumab 0.8 mg/kg every other week (up to 40 mg), 0.4 mg/kg every other week (up to 20 mg), or methotrexate 0.1 -0.4 mg/kg weekly (up to 25 mg). At week 16, more patients randomised to adalimumab 0.8 mg/kg had positive efficacy responses (e.g. PASI 75) than those randomised to 0.4 mg/kg every other week or MTX.
 
 Table 27. Paediatric plaque psoriasis efficacy results at 16 weeks
 
@@ -1568,12 +1440,6 @@ Table 27. Paediatric plaque psoriasis efficacy results at 16 weeks
 |----------------------|----------------|------------------------------------------------|
 | PASI 75 b            | 12 (32.4%)     | 22 (57.9%)                                     |
 | PGA: Clear/minimal c | 15 (40.5%)     | 23 (60.5%)                                     |
-
-a  MTX = methotrexate
-
-b  P = 0.027, adalimumab 0.8 mg/kg versus MTX
-
-c  P = 0.083, adalimumab 0.8 mg/kg versus MTX
 
 Patients who achieved PASI 75 and PGA clear or minimal were withdrawn from treatment for up to 36 weeks and monitored for loss of disease control (i.e. a worsening of PGA by at least 2 grades). Patients were then retreated with adalimumab 0.8 mg/kg every other week for an additional 16 weeks and response rates observed during retreatment were similar to the previous double-blind period: PASI 75 response of 78.9% (15 of 19 subjects) and PGA clear or minimal of 52.6% (10 of 19 subjects).
 
@@ -1610,35 +1476,29 @@ Clinical remission and clinical response (defined as reduction in PCDAI score of
 
 Table 29. Paediatric CD study PCDAI clinical remission and response
 
-|                    | Standard dose 40/20 mg every other week N = 93   | Low dose 20/10 mg every other week N = 95   | P value*   |
+|                    | Standard dose 40/20 mg every other week N = 93   | Low dose 20/10 mg every other week N = 95   |   P value* |
 |--------------------|--------------------------------------------------|---------------------------------------------|------------|
 | Week 26            |                                                  |                                             |            |
-| Clinical remission | 38.7%                                            | 28.4%                                       | 0.075      |
-| Clinical response  | 59.1%                                            | 48.4%                                       | 0.073      |
+| Clinical remission | 38.7%                                            | 28.4%                                       |      0.075 |
+| Clinical response  | 59.1%                                            | 48.4%                                       |      0.073 |
 | Week 52            |                                                  |                                             |            |
-| Clinical remission | 33.3%                                            | 23.2%                                       | 0.100      |
-| Clinical response  | 41.9%                                            | 28.4%                                       | 0.038      |
-
-* p value for standard dose versus low dose comparison
+| Clinical remission | 33.3%                                            | 23.2%                                       |      0.100 |
+| Clinical response  | 41.9%                                            | 28.4%                                       |      0.038 |
 
 Table 30. Paediatric CD study discontinuation of corticosteroids or immunomodulators and fistula remission
 
-|                                       | Standard dose 40/20 mg every other week   | Low dose 20/10 mg every other week   | P value 1   |
+|                                       | Standard dose 40/20 mg every other week   | Low dose 20/10 mg every other week   |   P value 1 |
 |---------------------------------------|-------------------------------------------|--------------------------------------|-------------|
 | Discontinued corticosteroids          | N = 33                                    | N = 38                               |             |
-| Week 26                               | 84.8%                                     | 65.8%                                | 0.066       |
-| Week 52                               | 69.7%                                     | 60.5%                                | 0.420       |
+| Week 26                               | 84.8%                                     | 65.8%                                |       0.066 |
+| Week 52                               | 69.7%                                     | 60.5%                                |       0.420 |
 | Discontinuation of Immunomodulators 2 | N = 60                                    | N = 57                               |             |
-| Week 52                               | 30.0%                                     | 29.8%                                | 0.983       |
+| Week 52                               | 30.0%                                     | 29.8%                                |       0.983 |
 | Fistula remission 3                   | N = 15                                    | N = 21                               |             |
-| Week 26                               | 46.7%                                     | 38.1%                                | 0.608       |
-| Week 52                               | 40.0%                                     | 23.8%                                | 0.303       |
-
-1 p value for standard dose versus low dose comparison
+| Week 26                               | 46.7%                                     | 38.1%                                |       0.608 |
+| Week 52                               | 40.0%                                     | 23.8%                                |       0.303 |
 
 <div style=\"page-break-after: always\"></div>
-
-2 Immunosuppressant therapy could only be discontinued at or after week 26 at the investigator's discretion if the subject met the clinical response criterion
 
 3 defined as a closure of all fistulas that were draining at baseline for at least 2 consecutive post-baseline visits
 
@@ -1670,10 +1530,10 @@ Clinical remission rates per PMS at week 8 for patients in each of the adalimuma
 
 Table 31. Clinical remission per PMS at 8 weeks
 
-|                                                                                                                     | Adalimumab a Maximum of 160 mg at week 0 / Placebo at week 1 N=30                                                   | Adalimumab b, c Maximum of 160 mg at week 0 and week 1 N=47                                                         |
-|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Clinical remission                                                                                                  | 13/30 (43.3%)                                                                                                       | 28/47 (59.6%)                                                                                                       |
-| a Adalimumab 2.4 mg/kg (maximum of 160 mg) at week 0, placebo at week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2 | a Adalimumab 2.4 mg/kg (maximum of 160 mg) at week 0, placebo at week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2 | a Adalimumab 2.4 mg/kg (maximum of 160 mg) at week 0, placebo at week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2 |
+|                                                                                                                                                                                                                       | Adalimumab a Maximum of 160 mg at week 0 / Placebo at week 1 N=30                                                                                                                                                     | Adalimumab b, c Maximum of 160 mg at week 0 and week 1 N=47                                                                                                                                                           |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Clinical remission                                                                                                                                                                                                    | 13/30 (43.3%)                                                                                                                                                                                                         | 28/47 (59.6%)                                                                                                                                                                                                         |
+| a Adalimumab 2.4 mg/kg (maximum of 160 mg) at week 0, placebo at week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2 b Adalimumab 2.4 mg/kg (maximum of 160 mg) at week 0 and week 1, and 1.2 mg/kg (maximum of 80 mg) | a Adalimumab 2.4 mg/kg (maximum of 160 mg) at week 0, placebo at week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2 b Adalimumab 2.4 mg/kg (maximum of 160 mg) at week 0 and week 1, and 1.2 mg/kg (maximum of 80 mg) | a Adalimumab 2.4 mg/kg (maximum of 160 mg) at week 0, placebo at week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2 b Adalimumab 2.4 mg/kg (maximum of 160 mg) at week 0 and week 1, and 1.2 mg/kg (maximum of 80 mg) |
 
 At week 52, clinical remission per FMS in week 8 responders, clinical response per FMS (defined as a decrease in Mayo Score ≥ 3 points and ≥ 30% from Baseline) in week 8 responders, mucosal healing per FMS (defined as Mayo endoscopy score ≤ 1) in week 8 responders, clinical remission per FMS in week 8 remitters, and the proportion of subjects in corticosteroid-free remission per FMS in week 8 responders were assessed in patients who received adalimumab at the double-blind maximum 40 mg every other week (0.6 mg/kg) and maximum 40 mg every week (0.6 mg/kg) maintenance doses (table 32).
 
@@ -1686,12 +1546,6 @@ Table 32. Efficacy results at 52 weeks
 | Mucosal healing in week 8 PMS responders                 | 12/31 (38.7%)                                         | 16/31 (51.6%)                                   |
 | Clinical remission in week 8 PMS remitters               | 9/21 (42.9%)                                          | 10/22 (45.5%)                                   |
 | Corticosteroid-free remission in week 8 PMS responders c | 4/13 (30.8%)                                          | 5/16 (31.3%)                                    |
-
-a  Adalimumab 0.6 mg/kg (maximum of 40 mg) every other week
-
-b  Adalimumab 0.6 mg/kg (maximum of 40 mg) every week
-
-c In patients receiving concomitant corticosteroids at baseline
 
 Note: Patients with missing values at week 52 or who were randomised to receive re-induction or maintenance treatment were considered non-responders for week 52 endpoints
 
@@ -1728,6 +1582,28 @@ The primary endpoint was 'time to treatment failure'. The criteria determining t
 
 <div style=\"page-break-after: always\"></div>
 
+N TI
+
+AT
+
+1.0
+
+0.8 -
+
+0.6 -
+
+0.0 -
+
+H
+
+60
+
+P
+
+30
+
+Treatment
+
 ## Clinical Response
 
 Adalimumab significantly delayed the time to treatment failure, as compared to placebo (see figure 3, P &lt; 0.0001 from log rank test). The median time to treatment failure was 24.1 weeks for subjects treated with placebo, whereas the median time to treatment failure was not estimable for subjects treated with adalimumab because less than one-half of these subjects experienced treatment failure. Adalimumab significantly decreased the risk of treatment failure by 75% relative to placebo, as shown by the hazard ratio (HR = 0.25 [95% CI: 0.12, 0.49]).
@@ -1746,7 +1622,7 @@ After subcutaneous administration of a single 40 mg dose, absorption and distrib
 
 <div style=\"page-break-after: always\"></div>
 
-Following subcutaneous administration of 40 mg of adalimumab every other week in adult rheumatoid arthritis (RA) patients the mean steady-state trough concentrations were approximately 5 μg/mL (without concomitant methotrexate) and 8 to 9 μg/mL (with concomitant methotrexate), respectively. The serum adalimumab trough levels at steady-state increased roughly proportionally with dose following 20, 40 and 80 mg subcutaneous dosing every other week and every week.
+Following subcutaneous administration of 40 mg of adalimumab every other week in adult rheumatoid arthritis (RA) patients the mean steady-state trough concentrations were approximately 5 μg/m L (without concomitant methotrexate) and 8 to 9 μg/m L (with concomitant methotrexate), respectively. The serum adalimumab trough levels at steady-state increased roughly proportionally with dose following 20, 40 and 80 mg subcutaneous dosing every other week and every week.
 
 Following the administration of 24 mg/m 2  (maximum of 40 mg) subcutaneously every other week to patients with polyarticular juvenile idiopathic arthritis (JIA) who were 4 to 17 years the mean trough steady-state (values measured from week 20 to 48) serum adalimumab concentration was 5.6 ± 5.6 μg/mL (102% CV) for adalimumab without concomitant methotrexate and 10.9 ± 5.2 μg/mL (47.7% CV) with concomitant methotrexate.
 
@@ -1760,11 +1636,11 @@ In adult patients with psoriasis, the mean steady-state trough concentration was
 
 Following the administration of 0.8 mg/kg (maximum of 40 mg) subcutaneously every other week to paediatric patients with chronic plaque psoriasis, the mean ± SD steady-state adalimumab trough concentration was approximately 7.4 ± 5.8 μg/mL (79% CV).
 
-In adult patients with hidradenitis suppurativa, a dose of 160 mg adalimumab on week 0 followed by 80 mg on week 2 achieved serum adalimumab trough concentrations of approximately 7 to 8 μg/mL at week 2 and week 4. The mean steady-state trough concentration at week 12 through week 36 were approximately 8 to 10 μg/mL during adalimumab 40 mg every week treatment.
+In adult patients with hidradenitis suppurativa, a dose of 160 mg adalimumab on week 0 followed by 80 mg on week 2 achieved serum adalimumab trough concentrations of approximately 7 to 8 μg/m L at week 2 and week 4. The mean steady-state trough concentration at week 12 through week 36 were approximately 8 to 10 μg/m L during adalimumab 40 mg every week treatment.
 
-Adalimumab exposure in adolescent HS patients was predicted using population pharmacokinetic modelling and simulation based on cross-indication pharmacokinetics in other paediatric patients (paediatric psoriasis, juvenile idiopathic arthritis, paediatric Crohn's disease, and enthesitis-related arthritis). The recommended adolescent HS dosing schedule is 40 mg every other week. Since exposure to adalimumab can be affected by body size, adolescents with higher body weight and inadequate response may benefit from receiving the recommended adult dose of 40 mg every week.
+Adalimumab exposure in adolescent HS patients was predicted using population pharmacokinetic modelling and simulation based on cross-indication pharmacokinetics in other paediatric patients (paediatric psoriasis, juvenile idiopathic arthritis, paediatric Crohn's disease, and enthesitis -related arthritis). The recommended adolescent HS dosing schedule is 40 mg every other week. Since exposure to adalimumab can be affected by body size, adolescents with higher body weight and inadequate response may benefit from receiving the recommended adult dose of 40 mg every week.
 
-In patients with Crohn's disease, the loading dose of 80 mg adalimumab on week 0 followed by 40 mg adalimumab on week 2 achieves serum adalimumab trough concentrations of approximately 5.5 μg/mL during the induction period. A loading dose of 160 mg adalimumab on week 0 followed by 80 mg adalimumab on week 2 achieves serum adalimumab trough concentrations of approximately 12 μg/mL during the induction period. Mean steady-state trough levels of approximately 7 μg/mL were observed in Crohn's disease patients who received a maintenance dose of 40 mg adalimumab every other week.
+In patients with Crohn's disease, the loading dose of 80 mg adalimumab on week 0 followed by 40 mg adalimumab on week 2 achieves serum adalimumab trough concentrations of approximately 5.5 μg/m L during the induction period. A loading dose of 160 mg adalimumab on week 0 followed by 80 mg adalimumab on week 2 achieves serum adalimumab trough concentrations of approximately 12 μg/m L during the induction period. Mean steady-state trough levels of approximately 7 μg/m L were observed in Crohn's disease patients who received a maintenance dose of 40 mg adalimumab every other week.
 
 In paediatric patients with moderate to severe CD, the open-label adalimumab induction dose was 160/80 mg or 80/40 mg at weeks 0 and 2, respectively, dependent on a body weight cut-off of 40 kg. At week 4, patients were randomised 1:1 to either the Standard Dose (40/20 mg every other week) or
 
@@ -1774,21 +1650,21 @@ Low Dose (20/10 mg every other week) maintenance treatment groups based on their
 
 For patients who stayed on their randomised therapy, the mean (±SD) adalimumab trough concentrations at week 52 were 9.5 ± 5.6 μg/mL for the standard dose group and 3.5 ± 2.2 μg/mL for the low dose group. The mean trough concentrations were maintained in patients who continued to receive adalimumab treatment every other week for 52 weeks. For patients who dose escalated from every other week to weekly regimen, the mean (±SD) serum concentrations of adalimumab at week 52 were 15.3 ± 11.4 μg/mL (40/20 mg, weekly) and 6.7 ± 3.5 μg/mL (20/10 mg, weekly).
 
-In patients with ulcerative colitis, a loading dose of 160 mg adalimumab on week 0 followed by 80 mg adalimumab on week 2 achieves serum adalimumab trough concentrations of approximately 12 μg/mL during the induction period. Mean steady-state trough levels of approximately 8 μg/mL were observed in ulcerative colitis patients who received a maintenance dose of 40 mg adalimumab every other week.
+In patients with ulcerative colitis, a loading dose of 160 mg adalimumab on week 0 followed by 80 mg adalimumab on week 2 achieves serum adalimumab trough concentrations of approximately 12 μg/m L during the induction period. Mean steady-state trough levels of approximately 8 μg/m L were observed in ulcerative colitis patients who received a maintenance dose of 40 mg adalimumab every other week.
 
 Following the subcutaneous administration of body weight-based dosing of 0.6 mg/kg (maximum of 40 mg) every other week to paediatric patients with ulcerative colitis, the mean trough steady-state serum adalimumab concentration was 5.01 ± 3.28 μg/ml at week 52. For patients who received 0.6 mg/kg (maximum of 40 mg) every week, the mean (±SD) trough steady-state serum adalimumab concentration was 15.7 ± 5.60 μg/ml at week 52.
 
 In adult patients with uveitis, a loading dose of 80 mg adalimumab on week 0 followed by 40 mg adalimumab every other week starting at week 1, resulted in mean steady-state concentrations of approximately 8 to 10 μg/mL.
 
-Adalimumab exposure in paediatric uveitis patients was predicted using population pharmacokinetic modelling and simulation based on cross-indication pharmacokinetics in other paediatric patients (paediatric psoriasis, juvenile idiopathic arthritis, paediatric Crohn's disease, and enthesitis-related arthritis). No clinical exposure data are available on the use of a loading dose in children &lt; 6 years. The predicted exposures indicate that in the absence of methotrexate, a loading dose may lead to an initial increase in systemic exposure.
+Adalimumab exposure in paediatric uveitis patients was predicted using population pharmacokinetic modelling and simulation based on cross-indication pharmacokinetics in other paediatric patients (paediatric psoriasis, juvenile idiopathic arthritis, paediatric Crohn's disease, and enthesitis -related arthritis). No clinical exposure data are available on the use of a loading dose in children &lt; 6 years. The predicted exposures indicate that in the absence of methotrexate, a loading dose may lead to an initial increase in systemic exposure.
 
 Population pharmacokinetic and pharmacokinetic/pharmacodynamic modelling and simulation predicted comparable adalimumab exposure and efficacy in patients treated with 80 mg every other week when compared with 40 mg every week (including adult patients with RA, HS, UC, CD or Ps, patients with adolescent HS, and paediatric patients ≥ 40 kg with CD and UC).
 
 ## Exposure-response relationship in paediatric population
 
-On the basis of clinical trial data in patients with JIA (pJIA and ERA), an exposure-response relationship was established between plasma concentrations and PedACR 50 response. The apparent adalimumab plasma concentration that produces half the maximum probability of PedACR 50 response (EC50) was 3 μg/ml (95% CI: 1-6 μg/ml).
+On the basis of clinical trial data in patients with JIA (pJIA and ERA), an exposure-response relationship was established between plasma concentrations and PedACR 50 response. The apparent adalimumab plasma concentration that produces half the maximum probability of PedACR 50 response (EC50) was 3 μg/ml (95% CI: 1 -6 μg/ml).
 
-Exposure-response relationships between adalimumab concentration and efficacy in paediatric patients with severe chronic plaque psoriasis were established for PASI 75 and PGA clear or minimal, respectively. PASI 75 and PGA clear or minimal increased with increasing adalimumab concentrations, both with a similar apparent EC50 of approximately 4.5 μg/mL (95% CI 0.4-47.6 and 1.9-10.5, respectively).
+Exposure-response relationships between adalimumab concentration and efficacy in paediatric patients with severe chronic plaque psoriasis were established for PASI 75 and PGA clear or minimal, respectively. PASI 75 and PGA clear or minimal increased with increasing adalimumab concentrations, both with a similar apparent EC50 of approximately 4.5 μg/mL (95% CI 0.4 -47.6 and 1.9-10.5, respectively).
 
 ## Elimination
 
@@ -1824,7 +1700,11 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe or pre-filled pen in the outer carton in order to protect from light.
+Store in a refrigerator (2°C -8°C).
+
+Do not freeze.
+
+Keep the pre-filled syringe or pre-filled pen in the outer carton in order to protect from light.
 
 The pre-filled syringe or pre-filled pen may be stored at temperatures up to a maximum of 25°C for a period of up to 14 days. The pre-filled syringe or pre-filled pen must be protected from light, and discarded if not used within the 14-day period.
 
@@ -1862,23 +1742,23 @@ Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 AMGEVITA 20 mg solution for injection in pre-filled syringe
 
-EU/1/16/1164/001 - 1 pack
+EU/1/16/1164/001 -1 pack
 
 AMGEVITA 40 mg solution for injection in pre-filled syringe
 
 ```
-EU/1/16/1164/002 - 1 pack EU/1/16/1164/003 - 2 pack EU/1/16/1164/004 - 4 pack
+EU/1/16/1164/002 -1 pack EU/1/16/1164/003 -2 pack EU/1/16/1164/004 -4 pack EU/1/16/1164/005 -
 ```
 
-EU/1/16/1164/005 - 6 (3x2) multipack
+6 (3x2) multipack
 
 AMGEVITA 40 mg solution for injection in pre-filled pen
 
 ```
-EU/1/16/1164/006 - 1 pack EU/1/16/1164/007 - 2 pack EU/1/16/1164/008 - 4 pack
+EU/1/16/1164/006 -1 pack EU/1/16/1164/007 -2 pack EU/1/16/1164/008 -4 pack EU/1/16/1164/009 -
 ```
 
-EU/1/16/1164/009 - 6 (3x2) multipack
+6 (3x2) multipack
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -2132,7 +2012,7 @@ Polyarticular juvenile idiopathic arthritis from 2 years of age
 
 The recommended dose of AMGEVITA for patients with polyarticular juvenile idiopathic arthritis, from 2 years of age is based on body weight (table 1). AMGEVITA is administered every other week via subcutaneous injection.
 
-## Table 1. AMGEVITA dose for patients with polyarticular juvenile idiopathic arthritis
+Table 1. AMGEVITA dose for patients with polyarticular juvenile idiopathic arthritis
 
 | Patient weight   | Dosing regimen         |
 |------------------|------------------------|
@@ -2166,7 +2046,7 @@ Psoriatic arthritis and axial spondyloarthritis including ankylosing spondylitis
 
 There is no relevant use of adalimumab in the paediatric population for the indications of ankylosing spondylitis and psoriatic arthritis.
 
-## Paediatric plaque psoriasis
+Paediatric plaque psoriasis
 
 The recommended AMGEVITA dose for patients with plaque psoriasis from 4 to 17 years of age is based on body weight (table 3). AMGEVITA is administered via subcutaneous injection.
 
@@ -2243,8 +2123,6 @@ Table 5. AMGEVITA dose for paediatric patients with ulcerative colitis
 |------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
 | < 40 kg          | • 80 mg at week 0 (given as one 80 mg injection in one day) and • 40 mg at week 2 (given as one 40 mg injection)                                                                      | 40 mg every other week                 |
 | ≥ 40 kg          | • 160 mg at week 0 (given as two 80 mg injections in one day or one 80 mg injection per day for two consecutive days) and • 80 mg at week 2 (given as one 80 mg injection in one day) | 80 mg every other week                 |
-
-* Paediatric patients who turn 18 years of age while on AMGEVITA should continue their prescribed maintenance dose.
 
 Continued therapy beyond 8 weeks should be carefully considered in patients not showing signs of response within this time period.
 
@@ -2363,7 +2241,7 @@ In the controlled portions of adalimumab clinical trials of TNF-antagonists, mor
 
 knowledge, a possible risk for the development of lymphomas, leukaemia, and other malignancies in patients treated with a TNF-antagonist cannot be excluded.
 
-Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤ 18 years of age), including adalimumab in the post-marketing setting. Approximately half the cases were lymphomas. The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression. A risk for the development of malignancies in children and adolescents treated with TNF-antagonists cannot be excluded.
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNFantagonists (initiation of therapy ≤ 18 years of age), including adalimumab in the post-marketing setting. Approximately half the cases were lymphomas. The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression. A risk for the development of malignancies in children and adolescents treated with TNF-antagonists cannot be excluded.
 
 Rare post-marketing cases of hepatosplenic T-cell lymphoma have been identified in patients treated with adalimumab. This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal. Some of these hepatosplenic T-cell lymphomas with adalimumab have occurred in young adult patients on concomitant treatment with azathioprine or 6-mercaptopurine used for inflammatory bowel disease. The potential risk with the combination of azathioprine or 6-mercaptopurine and AMGEVITA should be carefully considered. A risk for the development of hepatosplenic T-cell lymphoma in patients treated with AMGEVITA cannot be excluded (see section 4.8).
 
@@ -2425,15 +2303,15 @@ See Vaccinations above.
 
 ## Sodium contents
 
-This medicinal product contains less than 1 mmol of sodium (23 mg) per 0.8 mL dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol of sodium (23 mg) per 0.8 mL dose, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Adalimumab has been studied in rheumatoid arthritis, polyarticular juvenile idiopathic arthritis and psoriatic arthritis patients taking adalimumab as monotherapy and those taking concomitant methotrexate. Antibody formation was lower when adalimumab was given together with methotrexate in comparison with use as monotherapy. Administration of adalimumab without methotrexate resulted in increased formation of antibodies, increased clearance and reduced efficacy of adalimumab (see section 5.1).
 
-The combination of AMGEVITA and anakinra is not recommended (see section 4.4 'Concurrent administration of biologic DMARDs or TNF-antagonists').
+The combination of AMGEVITA and anakinra is not recommended (see section 4.4 'Concurrent administration of biologic DMARDs or TNFantagonists').
 
-The combination of AMGEVITA and abatacept is not recommended (see section 4.4 'Concurrent administration of biologic DMARDs or TNF-antagonists').
+The combination of AMGEVITA and abatacept is not recommended (see section 4.4 'Concurrent administration of biologic DMARDs or TNFantagonists').
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -2572,14 +2450,6 @@ Table 7. Undesirable effects
 | Investigations*                                       | Not known   | Weight increased 2)                                                                                                                                                                                        |
 | Injury, poisoning and procedural complications        | Common      | Impaired healing                                                                                                                                                                                           |
 
-* further information is found elsewhere in sections 4.3, 4.4 and 4.8
-
-** including open-label extension studies
-
-1) Including spontaneous reporting data.
-
-2)  The mean weight change from baseline for adalimumab ranged from 0.3 kg to 1.0 kg across adult indications compared to (minus) -0.4 kg to 0.4 kg for placebo over a treatment period of 4-6 months. Weight increase of 5-6 kg has also been observed in long-term extension studies with mean exposures of approximately 1-2 years without control group, particularly in patients with Crohn's disease and ulcerative colitis. The mechanism behind this effect is unclear but could be associated with the anti-inflammatory effect of adalimumab.
-
 ## Hidradenitis suppurativa
 
 The safety profile for patients with HS treated with adalimumab weekly was consistent with the known safety profile of adalimumab.
@@ -2650,7 +2520,7 @@ Across all indications in clinical trials patients with raised ALT were asymptom
 
 ## Concurrent treatment with azathioprine/6-mercaptopurine
 
-In adult Crohn's disease studies, higher incidences of malignant and serious infection-related adverse events were seen with the combination of adalimumab and azathioprine/6-mercaptopurine compared with adalimumab alone.
+In adult Crohn's disease studies, higher incidences of malignant and serious infection -related adverse events were seen with the combination of adalimumab and azathioprine/6-mercaptopurine compared with adalimumab alone.
 
 ## Reporting of suspected adverse reactions
 
@@ -2664,7 +2534,7 @@ No dose-limiting toxicity was observed during clinical trials. The highest dose 
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Immunosuppressants, tumour necrosis factor alpha (TNFα) inhibitors. ATC code: L04AB04
+Pharmacotherapeutic group: Immunosuppressants, tumour necrosis factor alpha (TNFα) inhibitors . ATC code: L04AB04
 
 AMGEVITA is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
@@ -2680,7 +2550,7 @@ Adalimumab also modulates biological responses that are induced or regulated by 
 
 After treatment with adalimumab, a rapid decrease in levels of acute phase reactants of inflammation (C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR)) and serum cytokines (IL-6) was observed, compared to baseline in patients with rheumatoid arthritis. Serum levels of matrix metalloproteinases (MMP-1 and MMP-3) that produce tissue remodelling responsible for cartilage destruction were also decreased after adalimumab administration. Patients treated with adalimumab usually experienced improvement in haematological signs of chronic inflammation.
 
-A rapid decrease in CRP levels was also observed in patients with polyarticular juvenile idiopathic arthritis, Crohn's disease, ulcerative colitis and hidradenitis suppurativa after treatment with adalimumab. In patients with Crohn's disease, a reduction of the number of cells expressing inflammatory markers in the colon including a significant reduction of expression of TNFα was seen. Endoscopic studies in intestinal mucosa have shown evidence of mucosal healing in adalimumab-treated patients.
+A rapid decrease in CRP levels was also observed in patients with polyarticular juvenile idiopathic arthritis, Crohn's disease, ulcerative colitis and hidradenitis suppurativa after treatment with adalimumab . In patients with Crohn's disease, a reduction of the number of cells expressing inflammatory markers in the colon including a significant reduction of expression of TNFα was seen. Endoscopic studies in intestinal mucosa have shown evidence of mucosal healing in adalimumab-treated patients.
 
 ## Clinical efficacy and safety
 
@@ -2745,21 +2615,19 @@ In RA study V with early rheumatoid arthritis patients who were methotrexate na�
 
 Table 9. ACR responses in RA study V (percent of patients)
 
-| Response   | MTX n = 257   | Adalimumab n = 274   | Adalimumab /MTX n = 268   | p-value a   | p-value b   | p-value c   |
+| Response   | MTX n = 257   | Adalimumab n = 274   | Adalimumab /MTX n = 268   | p-value a   | p-value b   |   p-value c |
 |------------|---------------|----------------------|---------------------------|-------------|-------------|-------------|
 | ACR 20     |               |                      |                           |             |             |             |
-| Week 52    | 62.6%         | 54.4%                | 72.8%                     | 0.013       | < 0.001     | 0.043       |
-| Week 104   | 56.0%         | 49.3%                | 69.4%                     | 0.002       | < 0.001     | 0.140       |
+| Week 52    | 62.6%         | 54.4%                | 72.8%                     | 0.013       | < 0.001     |       0.043 |
+| Week 104   | 56.0%         | 49.3%                | 69.4%                     | 0.002       | < 0.001     |       0.140 |
 | ACR 50     |               |                      |                           |             |             |             |
-| Week 52    | 45.9%         | 41.2%                | 61.6%                     | < 0.001     | < 0.001     | 0.317       |
-| Week 104   | 42.8%         | 36.9%                | 59.0%                     | < 0.001     | < 0.001     | 0.162       |
+| Week 52    | 45.9%         | 41.2%                | 61.6%                     | < 0.001     | < 0.001     |       0.317 |
+| Week 104   | 42.8%         | 36.9%                | 59.0%                     | < 0.001     | < 0.001     |       0.162 |
 | ACR 70     |               |                      |                           |             |             |             |
-| Week 52    | 27.2%         | 25.9%                | 45.5%                     | < 0.001     | < 0.001     | 0.656       |
-| Week 104   | 28.4%         | 28.1%                | 46.6%                     | < 0.001     | < 0.001     | 0.864       |
+| Week 52    | 27.2%         | 25.9%                | 45.5%                     | < 0.001     | < 0.001     |       0.656 |
+| Week 104   | 28.4%         | 28.1%                | 46.6%                     | < 0.001     | < 0.001     |       0.864 |
 
-a  p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
-
-b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
+a  p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
 
 c  p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
@@ -2780,16 +2648,8 @@ Table 10. Radiographic mean changes over 12 months in RA study III
 |                   |   Placebo/ MTX a |   Adalimumab /MTX 40 mg every other week | Placebo/MTX- adalimumab /MTX (95% confidence interval b )   | p-value   |
 |-------------------|------------------|------------------------------------------|-------------------------------------------------------------|-----------|
 | Total Sharp Score |              2.7 |                                      0.1 | 2.6 (1.4, 3.8)                                              | < 0.001 c |
-| Erosion score     |              1.6 |                                      0   | 1.6 (0.9, 2.2)                                              | < 0.001   |
-| JSN d score       |              1   |                                      0.1 | 0.9 (0.3, 1.4)                                              | 0.002     |
-
-a Methotrexate
-
-b  95% confidence intervals for the differences in change scores between methotrexate and adalimumab
-
-c Based on rank analysis
-
-d  Joint Space Narrowing
+| Erosion score     |              1.6 |                                      0.0 | 1.6 (0.9, 2.2)                                              | < 0.001   |
+| JSN d score       |              1.0 |                                      0.1 | 0.9 (0.3, 1.4)                                              | 0.002     |
 
 In RA study V, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (see table 11).
 
@@ -2797,15 +2657,9 @@ Table 11. Radiographic mean changes at week 52 in RA study V
 
 |                   | MTX n = 257 (95% confidence interval)   | Adalimumab n = 274 (95% confidence interval)   | Adalimumab/ MTX n = 268 (95% confidence interval)   | p-value a   |   p-value b | p-value c   |
 |-------------------|-----------------------------------------|------------------------------------------------|-----------------------------------------------------|-------------|-------------|-------------|
-| Total sharp score | 5.7 (4.2-7.3)                           | 3.0 (1.7-4.3)                                  | 1.3 (0.5-2.1)                                       | < 0.001     |      0.002  | < 0.001     |
+| Total sharp score | 5.7 (4.2-7.3)                           | 3.0 (1.7-4.3)                                  | 1.3 (0.5-2.1)                                       | < 0.001     |      0.0020 | < 0.001     |
 | Erosion score     | 3.7 (2.7-4.7)                           | 1.7 (1.0-2.4)                                  | 0.8 (0.4-1.2)                                       | < 0.001     |      0.0082 | < 0.001     |
 | JSN score         | 2.0 (1.2-2.8)                           | 1.3 (0.5-2.1)                                  | 0.5 (0-1.0)                                         | < 0.001     |      0.0037 | 0.151       |
-
-a  p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
-
-b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
-
-c  p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
 Following 52 weeks and 104 weeks of treatment, the percentage of patients without progression (change from baseline in modified Total Sharp Score ≤ 0.5) was significantly higher with adalimumab/methotrexate combination therapy (63.8% and 61.2% respectively) compared to methotrexate monotherapy (37.4% and 33.5% respectively, p &lt; 0.001) and adalimumab monotherapy (50.7%, p &lt; 0.002 and 44.5%, p &lt; 0.001 respectively).
 
@@ -2829,7 +2683,7 @@ Adalimumab 40 mg every other week was assessed in 393 patients in two randomised
 
 In the larger AS study I with 315 patients, results showed statistically significant improvement of the signs and symptoms of ankylosing spondylitis in patients treated with adalimumab compared to placebo. Significant response was first observed at week 2 and maintained through 24 weeks (table 12).
 
-Table 12. Efficacy responses in placebo-controlled AS study - study I reduction of signs and symptoms
+Table 12. Efficacy responses in placebo-controlled AS study -study I reduction of signs and symptoms
 
 | Response   | Placebo N = 107   | Adalimumab N = 208   |
 |------------|-------------------|----------------------|
@@ -2854,12 +2708,6 @@ Table 12. Efficacy responses in placebo-controlled AS study - study I reduction 
 | Week 2      | 4%                | 20%***               |
 | Week 12     | 16%               | 45%***               |
 | Week 24     | 15%               | 42%***               |
-
-***, ** Statistically significant at p &lt; 0.001, &lt; 0.01 for all comparisons between adalimumab and placebo at weeks 2, 12 and 24
-
-a Assessments in Ankylosing Spondylitis
-
-b  Bath Ankylosing Spondylitis Disease Activity Index
 
 Adalimumab-treated patients had significantly greater improvement at week 12 which was maintained through week 24 in both the SF36 and Ankylosing Spondylitis Quality of Life Questionnaire (ASQoL).
 
@@ -2895,28 +2743,6 @@ Table 13. Efficacy response in placebo-controlled study nr-axSpA I
 | SPARCC h MRI Sacroiliac Joints d,i | -0.6             | -3.2**              |
 | SPARCC MRI Spine d,j               | -0.2             | -1.8**              |
 
-a Assessment of SpondyloArthritis international Society
-
-b  Bath Ankylosing Spondylitis Disease Activity Index
-
-c  Ankylosing Spondylitis Disease Activity Score
-
-d  mean change from baseline
-
-e  n = 91 placebo and n = 87 adalimumab
-
-f high sensitivity C-Reactive Protein (mg/L)
-
-g  n = 73 placebo and n = 70 adalimumab
-
-h  Spondyloarthritis Research Consortium of Canada
-
-i  n = 84 placebo and adalimumab
-
-j  n = 82 placebo and n = 85 adalimumab
-
-***, **, * Statistically significant at p &lt; 0.001, &lt; 0.01, and &lt; 0.05, respectively, for all comparisons between adalimumab and placebo
-
 In the open-label extension, improvement in the signs and symptoms was maintained with adalimumab therapy through week 156.
 
 ## Inhibition of inflammation
@@ -2935,9 +2761,41 @@ The primary efficacy endpoint was the proportion of patients with no flare by we
 
 <div style=\"page-break-after: always\"></div>
 
+1.0
+
+0.9 -
+
+0.8 -
+
+0.7 -
+
+0.6 -
+
+0.5 -
+
+0.4-
+
+0.3 -
+
+0.2 -
+
+0.1 -
+
+0.0-
+
+P
+
+A
+
 Figure 1. Kaplan-Meier curves summarising time to flare in study nr-axSpA II
 
+A
+
 <!-- image -->
+
+153 (0)
+
+151 (0)
 
 Note: P = Placebo (number at risk (flared)); A = Adalimumab (number at risk (flared)).
 
@@ -2954,16 +2812,6 @@ Table 14. Efficacy response in placebo-controlled period for study nr-axSpA II
 | ASAS a Partial Remission           | 26.8%             | 42.1%**              |
 | ASDAS c Inactive Disease           | 33.3%             | 57.2%***             |
 | Partial Flare d                    | 64.1%             | 40.8%***             |
-
-a Assessment of SpondyloArthritis international Society.
-
-b Baseline is defined as open label baseline when patients have active disease.
-
-c Ankylosing Spondylitis Disease Activity Score.
-
-d Partial flare is defined as ASDAS ≥ 1.3 but &lt; 2.1 at 2 consecutive visits.
-
-***, ** Statistically significant at p &lt; 0.001 and &lt; 0.01, respectively, for all comparisons between adalimumab and placebo.
 
 ## Psoriatic arthritis
 
@@ -2992,7 +2840,9 @@ Table 15. ACR response in placebo-controlled psoriatic arthritis studies (percen
 
 *** p &lt; 0.001 for all comparisons between adalimumab and placebo
 
-* p &lt; 0.05 for all comparisons between adalimumab and placebo N/A not applicable
+* p &lt; 0.05 for all comparisons between adalimumab and placebo
+
+N/A not applicable
 
 ACR responses in PsA study I were similar with and without concomitant methotrexate therapy. ACR responses were maintained in the open-label extension study for up to 136 weeks.
 
@@ -3037,14 +2887,6 @@ Table 17. Ps study II (CHAMPION) efficacy results at 16 weeks
 | ≥ PASI 75          | 10 (18.9)              | 39 (35.5)           | 86 (79.6) a, b                                    |
 | PASI 100           | 1 (1.9)                | 8 (7.3)             | 18 (16.7) c, d                                    |
 | PGA: Clear/minimal | 6 (11.3)               | 33 (30.0)           | 79 (73.1) a, b                                    |
-
-a  p &lt; 0.001 adalimumab versus placebo
-
-b  p &lt; 0.001 adalimumab versus methotrexate
-
-c  p &lt; 0.01 adalimumab versus placebo
-
-d  p &lt; 0.05 adalimumab versus methotrexate
 
 In psoriasis study I, 28% of patients who were PASI 75 responders and were re-randomised to placebo at week 33 compared to 5% continuing on adalimumab, p &lt; 0.001, experienced 'loss of adequate response' (PASI score after week 33 and on or before week 52 that resulted in a &lt; PASI 50 response relative to baseline with a minimum of a 6-point increase in PASI score relative to week 33). Of the patients who lost adequate response after re-randomisation to placebo who then enrolled into the openlabel extension trial, 38% (25/66) and 55% (36/66) regained PASI 75 response after 12 and 24 weeks of retreatment, respectively.
 
@@ -3105,14 +2947,6 @@ Table 19. Efficacy results at 12 weeks, HS studies I and II
 |                                                      | Placebo            | Adalimumab 40 mg weekly | Placebo            | Adalimumab 40 mg weekly |
 | Hidradenitis Suppurativa Clinical Response (HiSCR) a | N = 154 40 (26.0%) | N = 153 64 (41.8%) *    | N = 163 45 (27.6%) | N = 163 96 (58.9%) ***  |
 | ≥ 30% Reduction in Skin Pain b                       | N = 109 27 (24.8%) | N = 122 34 (27.9%)      | N = 111 23 (20.7%) | N = 105 48 (45.7%) ***  |
-
-*P &lt; 0.05, ***P &lt; 0.001, adalimumab versus placebo
-
-a  Among all randomised patients
-
-b  Among patients with baseline HS-related skin pain assessment ≥ 3, based on Numeric Rating Scale 0 - 10;
-
-0 = no skin pain, 10 = skin pain as bad as you can imagine
 
 Treatment with adalimumab 40 mg every week significantly reduced the risk of worsening of abscesses and draining fistulas. Approximately twice the proportion of patients in the placebo group in the first 12 weeks of Studies HS-I and HS-II, compared with those in the adalimumab group experienced worsening of abscesses (23.0% versus 11.4%, respectively) and draining fistulas (30.0% versus 13.9%, respectively).
 
@@ -3204,7 +3038,7 @@ In CD study I and CD study II, statistically significant improvement in the dise
 
 The safety and efficacy of multiple doses of adalimumab were assessed in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12 with endoscopy subscore of 2 to 3) in randomised, double-blind, placebo-controlled studies.
 
-In study UC-I, 390 TNF-antagonist naïve patients were randomised to receive either placebo at weeks 0 and 2, 160 mg adalimumab at week 0 followed by 80 mg at week 2, or 80 mg adalimumab at week 0 followed by 40 mg at week 2. After week 2, patients in both adalimumab arms received 40 mg every other week. Clinical remission (defined as Mayo score ≤ 2 with no subscore &gt; 1) was assessed at week 8.
+In study UC-I, 390 TNF-antagonist naïve patients were randomised to receive either placebo at weeks 0 and 2, 160 mg adalimumab at week 0 followed by 80 mg at week 2, or 80 mg adalimumab at week 0 followed by 40 mg at week 2. After week 2, patients in both adalimumab arms received 40 mg every other week . Clinical remission (defined as Mayo score ≤ 2 with no subscore &gt; 1) was assessed at week 8.
 
 In study UC-II, 248 patients received 160 mg of adalimumab at week 0, 80 mg at week 2 and 40 mg every other week thereafter, and 246 patients received placebo. Clinical results were assessed for induction of remission at week 8 and for maintenance of remission at week 52.
 
@@ -3216,19 +3050,17 @@ Results from the overall UC-II study population are shown in table 23.
 
 Table 23. Response, remission and mucosal healing in study UC-II (percent of patients)
 
-|                                        | Placebo      | Adalimumab 40 mg every other week   |
-|----------------------------------------|--------------|-------------------------------------|
-| Week 52                                | N = 246      | N = 248                             |
-| Clinical response                      | 18%          | 30%*                                |
-| Clinical remission                     | 9%           | 17%*                                |
-| Mucosal healing                        | 15%          | 25%*                                |
-| Steroid-free remission for ≥ 90 days a | 6% (N = 140) | 13%* (N = 150)                      |
-| Week 8 and 52                          |              |                                     |
-| Sustained response                     | 12%          | 24%**                               |
-| Sustained remission                    | 4%           | 8%*                                 |
-| Sustained mucosal healing              | 11%          | 19%*                                |
-
-Clinical remission is Mayo score ≤ 2 with no subscore &gt; 1;
+|                                         | Placebo      | Adalimumab 40 mg every other week   |
+|-----------------------------------------|--------------|-------------------------------------|
+| Week 52                                 | N = 246      | N = 248                             |
+| Clinical response                       | 18%          | 30%*                                |
+| Clinical remission                      | 9%           | 17%*                                |
+| Mucosal healing                         | 15%          | 25%*                                |
+| Steroid- free remission for ≥ 90 days a | 6% (N = 140) | 13%* (N = 150)                      |
+| Week 8 and 52                           |              |                                     |
+| Sustained response                      | 12%          | 24%**                               |
+| Sustained remission                     | 4%           | 8%*                                 |
+| Sustained mucosal healing               | 11%          | 19%*                                |
 
 Clinical response is decrease from baseline in Mayo score ≥ 3 points and ≥ 30% plus a decrease in the rectal bleeding subscore [RBS] ≥ 1 or an absolute RBS of 0 or 1;
 
@@ -3238,7 +3070,7 @@ Clinical response is decrease from baseline in Mayo score ≥ 3 points and ≥ 3
 
 a Of those receiving corticosteroids at baseline
 
-Of those patients who had a response at week 8, 47% were in response, 29% were in remission, 41% had mucosal healing, and 20% were in steroid-free remission for ≥ 90 days at week 52.
+Of those patients who had a response at week 8, 47% were in response, 29% were in remission, 41% had mucosal healing, and 20% were in steroidfree remission for ≥ 90 days at week 52.
 
 Approximately 40% of patients in study UC-II had failed prior anti-TNF treatment with infliximab. The efficacy of adalimumab in those patients was reduced compared to that in anti-TNF naïve patients. Among patients who had failed prior anti-TNF treatment, week 52 remission was achieved by 3% on placebo and 10% on adalimumab.
 
@@ -3283,7 +3115,9 @@ Table 24. Time to treatment failure in studies UV I and UV II
 | Placebo                                                                            | 111                                                                                | 61 (55.0)                                                                          | 8.3                                                                                | --                                                                                 | --                                                                                 | --                                                                                 |
 | Adalimumab                                                                         | 115                                                                                | 45 (39.1)                                                                          | NE c                                                                               | 0.57                                                                               | 0.39, 0.84                                                                         | 0.004                                                                              |
 
-Note: Treatment failure at or after week 6 (study UV I), or at or after week 2 (study UV II), was counted as event. Drop outs due to reasons other than treatment failure were censored at the time of dropping out.
+Note: Treatment failure at or after week 6 (study UV I), or at or after week 2 (study UV II), was counted as
+
+event. Drop outs due to reasons other than treatment failure were censored at the time of dropping out.
 
 a  HR of adalimumab versus placebo from proportional hazards regression with treatment as factor.
 
@@ -3293,7 +3127,35 @@ c NE = not estimable. Fewer than half of at-risk subjects had an event.
 
 <div style=\"page-break-after: always\"></div>
 
+TREATMENT FAILURE RATE (%)
+
+(%)
+
+TREATMENT FAILURE RATE
+
 Figure 2. Kaplan-Meier curves summarising time to treatment failure on or after week 6 (study UV I) or week 2 (study UV II)
+
+P#0/107
+
+A#0/110
+
+Study UV I
+
+100-
+
+801
+
+40
+
+20 -
+
+0
+
+P#0/111
+
+A#0/115
+
+Study UV II
 
 <!-- image -->
 
@@ -3325,7 +3187,7 @@ The safety and efficacy of adalimumab was assessed in two studies (pJIA I and II
 
 ## pJIA-I
 
-The safety and efficacy of adalimumab were assessed in a multicentre, randomised, double-blind, parallel-group study in 171 children (4-17 years old) with polyarticular JIA. In the open-label lead in phase (OL LI) patients were stratified into two groups, MTX (methotrexate)-treated or non-MTXtreated. Patients who were in the non-MTX stratum were either naïve to or had been withdrawn from MTX at least two weeks prior to study drug administration. Patients remained on stable doses of non-steroidal anti-inflammatory drugs (NSAIDs) and or prednisone (≤ 0.2 mg/kg/day or 10 mg/day maximum). In the OL LI phase all patients received 24 mg/m 2  up to a maximum of 40 mg adalimumab every other week for 16 weeks. The distribution of patients by age and minimum, median and maximum dose received during the OL LI phase is presented in table 25.
+The safety and efficacy of adalimumab were assessed in a multicentre, randomised, double-blind, parallel-group study in 171 children (4-17 years old) with polyarticular JIA. In the open-label lead in phase (OL LI) patients were stratified into two groups, MTX (methotrexate)-treated or non-MTXtreated. Patients who were in the non-MTX stratum were either naïve to or had been withdrawn from MTX at least two weeks prior to study drug administration. Patients remained on stable doses of non-steroidal antiinflammatory drugs (NSAIDs) and or prednisone (≤ 0.2 mg/kg/day or 10 mg/day maximum). In the OL LI phase all patients received 24 mg/m 2  up to a maximum of 40 mg adalimumab every other week for 16 weeks. The distribution of patients by age and minimum, median and maximum dose received during the OL LI phase is presented in table 25.
 
 Table 25. Distribution of patients by age and adalimumab dose received during the OL LI phase
 
@@ -3351,12 +3213,6 @@ Table 26. Paediatric ACR 30 responses in the JIA study
 | Disease flares at the end of 32 weeks a (n/N) | 36.8% (14/38)             | 64.9% (24/37) b       | 43.3% (13/30)       | 71.4% (20/28) c  |
 | Median time to disease flare                  | > 32 weeks                | 20 weeks              | > 32 weeks          | 14 weeks         |
 
-a Paediatric ACR 30/50/70 responses week 48 significantly greater than those of placebo treated patients
-
-b p = 0.015
-
-c p = 0.031
-
 Amongst those who responded at week 16 (n = 144), the paediatric ACR 30/50/70/90 responses were maintained for up to six years in the OLE phase in patients who received adalimumab throughout the study. Over all 19 subjects, of which 11 of the baseline age group 4 to 12 and 8 of the baseline age group 13 to 17 years were treated 6 years or longer.
 
 Overall responses were generally better and, fewer patients developed antibodies when treated with the combination of adalimumab and MTX compared to adalimumab alone. Taking these results into consideration, adalimumab is recommended for use in combination with MTX and for use as monotherapy in patients for whom MTX use is not appropriate (see section 4.2).
@@ -3379,7 +3235,7 @@ group. Improvement in number of active joints with arthritis was maintained duri
 
 The efficacy of adalimumab was assessed in a randomised, double-blind, controlled study of 114 paediatric patients from 4 years of age with severe chronic plaque psoriasis (as defined by a PGA ≥ 4 or &gt; 20% BSA involvement or &gt; 10% BSA involvement with very thick lesions or PASI ≥ 20 or ≥ 10 with clinically relevant facial, genital, or hand/foot involvement) who were inadequately controlled with topical therapy and heliotherapy or phototherapy.
 
-Patients received adalimumab 0.8 mg/kg every other week (up to 40 mg), 0.4 mg/kg every other week (up to 20 mg), or methotrexate 0.1-0.4 mg/kg weekly (up to 25 mg). At week 16, more patients randomised to adalimumab 0.8 mg/kg had positive efficacy responses (e.g. PASI 75) than those randomised to 0.4 mg/kg every other week or MTX.
+Patients received adalimumab 0.8 mg/kg every other week (up to 40 mg), 0.4 mg/kg every other week (up to 20 mg), or methotrexate 0.1 -0.4 mg/kg weekly (up to 25 mg). At week 16, more patients randomised to adalimumab 0.8 mg/kg had positive efficacy responses (e.g. PASI 75) than those randomised to 0.4 mg/kg every other week or MTX.
 
 Table 27. Paediatric plaque psoriasis efficacy results at 16 weeks
 
@@ -3387,12 +3243,6 @@ Table 27. Paediatric plaque psoriasis efficacy results at 16 weeks
 |----------------------|----------------|------------------------------------------------|
 | PASI 75 b            | 12 (32.4%)     | 22 (57.9%)                                     |
 | PGA: Clear/minimal c | 15 (40.5%)     | 23 (60.5%)                                     |
-
-a  MTX = methotrexate
-
-b  P = 0.027, adalimumab 0.8 mg/kg versus MTX
-
-c  P = 0.083, adalimumab 0.8 mg/kg versus MTX
 
 Patients who achieved PASI 75 and PGA clear or minimal were withdrawn from treatment for up to 36 weeks and monitored for loss of disease control (i.e. a worsening of PGA by at least 2 grades). Patients were then retreated with adalimumab 0.8 mg/kg every other week for an additional 16 weeks and response rates observed during retreatment were similar to the previous double-blind period: PASI 75 response of 78.9% (15 of 19 subjects) and PGA clear or minimal of 52.6% (10 of 19 subjects).
 
@@ -3429,35 +3279,29 @@ Clinical remission and clinical response (defined as reduction in PCDAI score of
 
 Table 29. Paediatric CD study PCDAI clinical remission and response
 
-|                    | Standard dose 40/20 mg every other week N = 93   | Low dose 20/10 mg every other week N = 95   | P value*   |
+|                    | Standard dose 40/20 mg every other week N = 93   | Low dose 20/10 mg every other week N = 95   |   P value* |
 |--------------------|--------------------------------------------------|---------------------------------------------|------------|
 | Week 26            |                                                  |                                             |            |
-| Clinical remission | 38.7%                                            | 28.4%                                       | 0.075      |
-| Clinical response  | 59.1%                                            | 48.4%                                       | 0.073      |
+| Clinical remission | 38.7%                                            | 28.4%                                       |      0.075 |
+| Clinical response  | 59.1%                                            | 48.4%                                       |      0.073 |
 | Week 52            |                                                  |                                             |            |
-| Clinical remission | 33.3%                                            | 23.2%                                       | 0.100      |
-| Clinical response  | 41.9%                                            | 28.4%                                       | 0.038      |
-
-* p value for standard dose versus low dose comparison
+| Clinical remission | 33.3%                                            | 23.2%                                       |      0.100 |
+| Clinical response  | 41.9%                                            | 28.4%                                       |      0.038 |
 
 Table 30. Paediatric CD study discontinuation of corticosteroids or immunomodulators and fistula remission
 
-|                                       | Standard dose 40/20 mg every other week   | Low dose 20/10 mg every other week   | P value 1   |
+|                                       | Standard dose 40/20 mg every other week   | Low dose 20/10 mg every other week   |   P value 1 |
 |---------------------------------------|-------------------------------------------|--------------------------------------|-------------|
 | Discontinued corticosteroids          | N = 33                                    | N = 38                               |             |
-| Week 26                               | 84.8%                                     | 65.8%                                | 0.066       |
-| Week 52                               | 69.7%                                     | 60.5%                                | 0.420       |
+| Week 26                               | 84.8%                                     | 65.8%                                |       0.066 |
+| Week 52                               | 69.7%                                     | 60.5%                                |       0.420 |
 | Discontinuation of Immunomodulators 2 | N = 60                                    | N = 57                               |             |
-| Week 52                               | 30.0%                                     | 29.8%                                | 0.983       |
+| Week 52                               | 30.0%                                     | 29.8%                                |       0.983 |
 | Fistula remission 3                   | N = 15                                    | N = 21                               |             |
-| Week 26                               | 46.7%                                     | 38.1%                                | 0.608       |
-| Week 52                               | 40.0%                                     | 23.8%                                | 0.303       |
-
-1 p value for standard dose versus low dose comparison
+| Week 26                               | 46.7%                                     | 38.1%                                |       0.608 |
+| Week 52                               | 40.0%                                     | 23.8%                                |       0.303 |
 
 <div style=\"page-break-after: always\"></div>
-
-2 Immunosuppressant therapy could only be discontinued at or after week 26 at the investigator's discretion if the subject met the clinical response criterion
 
 3 defined as a closure of all fistulas that were draining at baseline for at least 2 consecutive post-baseline visits
 
@@ -3489,19 +3333,10 @@ Clinical remission rates per PMS at week 8 for patients in each of the adalimuma
 
 Table 31. Clinical remission per PMS at 8 weeks
 
-|                    | Adalimumab a Maximum of 160 mg at week 0 / Placebo at week 1 N = 30   | Adalimumab b, c Maximum of 160 mg at week 0 and week 1 N = 47   |
-|--------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------|
-| Clinical remission | 13/30 (43.3%)                                                         | 28/47 (59.6%)                                                   |
-
-a  Adalimumab 2.4 mg/kg (maximum of 160 mg) at week 0, placebo at week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2
-
-b  Adalimumab 2.4 mg/kg (maximum of 160 mg) at week 0 and week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2
-
-c  Not including open-label Induction dose of adalimumab 2.4 mg/kg (maximum of 160 mg) at week 0 and week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2
-
-Note 1: Both induction groups received 0.6 mg/kg (maximum of 40 mg) at week 4 and week 6
-
-Note 2: Patients with missing values at week 8 were considered as not having met the endpoint
+|                                                                                                                                                                                                                                 | Adalimumab a Maximum of 160 mg at week 0 / Placebo at week 1 N = 30                                                                                                                                                             | Adalimumab b, c Maximum of 160 mg at week 0 and week 1 N = 47                                                                                                                                                                   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Clinical remission                                                                                                                                                                                                              | 13/30 (43.3%)                                                                                                                                                                                                                   | 28/47 (59.6%)                                                                                                                                                                                                                   |
+| a Adalimumab 2.4 mg/kg (maximum of 160 mg) at week 0, placebo at week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2 b Adalimumab 2.4 mg/kg (maximum of 160 mg) at week 0 and week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2 | a Adalimumab 2.4 mg/kg (maximum of 160 mg) at week 0, placebo at week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2 b Adalimumab 2.4 mg/kg (maximum of 160 mg) at week 0 and week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2 | a Adalimumab 2.4 mg/kg (maximum of 160 mg) at week 0, placebo at week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2 b Adalimumab 2.4 mg/kg (maximum of 160 mg) at week 0 and week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2 |
 
 At week 52, clinical remission per FMS in week 8 responders, clinical response per FMS (defined as a decrease in Mayo Score ≥ 3 points and ≥ 30% from Baseline) in week 8 responders, mucosal healing per FMS (defined as Mayo endoscopy score ≤ 1) in week 8 responders, clinical remission per FMS in week 8 remitters, and the proportion of subjects in corticosteroid-free remission per FMS in week 8 responders were assessed in patients who received adalimumab at the double-blind maximum 40 mg every other week (0.6 mg/kg) and maximum 40 mg every week (0.6 mg/kg) maintenance doses (table 32).
 
@@ -3514,14 +3349,6 @@ Table 32. Efficacy results at 52 weeks
 | Mucosal healing in week 8 PMS responders                 | 12/31 (38.7%)                                           | 16/31 (51.6%)                                     |
 | Clinical remission in week 8 PMS remitters               | 9/21 (42.9%)                                            | 10/22 (45.5%)                                     |
 | Corticosteroid-free remission in week 8 PMS responders c | 4/13 (30.8%)                                            | 5/16 (31.3%)                                      |
-
-a  Adalimumab 0.6 mg/kg (maximum of 40 mg) every other week
-
-b  Adalimumab 0.6 mg/kg (maximum of 40 mg) every week
-
-c In patients receiving concomitant corticosteroids at baseline
-
-Note: Patients with missing values at week 52 or who were randomised to receive re-induction or maintenance treatment were considered non-responders for week 52 endpoints
 
 Additional exploratory efficacy endpoints included clinical response per the Paediatric Ulcerative Colitis Activity Index (PUCAI) (defined as a decrease in PUCAI ≥ 20 points from Baseline) and clinical remission per PUCAI (defined as PUCAI &lt; 10) at week 8 and week 52 (table 33).
 
@@ -3568,6 +3395,28 @@ The primary endpoint was 'time to treatment failure'. The criteria determining t
 
 <div style=\"page-break-after: always\"></div>
 
+N TI
+
+AT
+
+1.0
+
+0.8 -
+
+0.6 -
+
+0.0 -
+
+H
+
+60
+
+P
+
+30
+
+Treatment
+
 ## Clinical Response
 
 Adalimumab significantly delayed the time to treatment failure, as compared to placebo (see figure 3, P &lt; 0.0001 from log rank test). The median time to treatment failure was 24.1 weeks for subjects treated with placebo, whereas the median time to treatment failure was not estimable for subjects treated with adalimumab because less than one-half of these subjects experienced treatment failure. Adalimumab significantly decreased the risk of treatment failure by 75% relative to placebo, as shown by the hazard ratio (HR = 0.25 [95% CI: 0.12, 0.49]).
@@ -3602,7 +3451,7 @@ Following the administration of 0.8 mg/kg (maximum of 40 mg) subcutaneously ever
 
 In adult patients with hidradenitis suppurativa, a dose of 160 mg adalimumab on week 0 followed by 80 mg on week 2 achieved serum adalimumab trough concentrations of approximately 7 to 8 µg/mL at week 2 and week 4. The mean steady-state trough concentration at week 12 through week 36 were approximately 8 to 10 µg/mL during adalimumab 40 mg every week treatment.
 
-Adalimumab exposure in adolescent HS patients was predicted using population pharmacokinetic modelling and simulation based on cross-indication pharmacokinetics in other paediatric patients (paediatric psoriasis, juvenile idiopathic arthritis, paediatric Crohn's disease, and enthesitis-related arthritis). The recommended adolescent HS dosing schedule is 40 mg every other week. Since exposure to adalimumab can be affected by body size, adolescents with higher body weight and inadequate response may benefit from receiving the recommended adult dose of 40 mg every week.
+Adalimumab exposure in adolescent HS patients was predicted using population pharmacokinetic modelling and simulation based on cross-indication pharmacokinetics in other paediatric patients (paediatric psoriasis, juvenile idiopathic arthritis, paediatric Crohn's disease, and enthesitis -related arthritis). The recommended adolescent HS dosing schedule is 40 mg every other week. Since exposure to adalimumab can be affected by body size, adolescents with higher body weight and inadequate response may benefit from receiving the recommended adult dose of 40 mg every week.
 
 In patients with Crohn's disease, the loading dose of 80 mg adalimumab on week 0 followed by 40 mg adalimumab on week 2 achieves serum adalimumab trough concentrations of approximately 5.5 µg/mL during the induction period. A loading dose of 160 mg adalimumab on week 0 followed by 80 mg adalimumab on week 2 achieves serum adalimumab trough concentrations of approximately 12 µg/mL during the induction period. Mean steady-state trough levels of approximately 7 µg/mL were observed in Crohn's disease patients who received a maintenance dose of 40 mg adalimumab every other week.
 
@@ -3620,7 +3469,7 @@ Following the subcutaneous administration of body weight-based dosing of 0.6 mg/
 
 In adult patients with uveitis, a loading dose of 80 mg adalimumab on week 0 followed by 40 mg adalimumab every other week starting at week 1, resulted in mean steady-state concentrations of approximately 8 to 10 µg/mL.
 
-Adalimumab exposure in paediatric uveitis patients was predicted using population pharmacokinetic modelling and simulation based on cross-indication pharmacokinetics in other paediatric patients (paediatric psoriasis, juvenile idiopathic arthritis, paediatric Crohn's disease, and enthesitis-related arthritis). No clinical exposure data are available on the use of a loading dose in children &lt; 6 years. The predicted exposures indicate that in the absence of methotrexate, a loading dose may lead to an initial increase in systemic exposure.
+Adalimumab exposure in paediatric uveitis patients was predicted using population pharmacokinetic modelling and simulation based on cross-indication pharmacokinetics in other paediatric patients (paediatric psoriasis, juvenile idiopathic arthritis, paediatric Crohn's disease, and enthesitis -related arthritis). No clinical exposure data are available on the use of a loading dose in children &lt; 6 years. The predicted exposures indicate that in the absence of methotrexate, a loading dose may lead to an initial increase in systemic exposure.
 
 Population pharmacokinetic and pharmacokinetic/pharmacodynamic modelling and simulation predicted comparable adalimumab exposure and efficacy in patients treated with 80 mg every other week when compared with 40 mg every week (including adult patients with RA, HS, UC, CD or Ps, patients with adolescent HS, and paediatric patients ≥ 40 kg with CD and UC).
 
@@ -3664,7 +3513,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C).
+Store in a refrigerator (2°C -8°C).
 
 Do not freeze.
 
@@ -3718,7 +3567,7 @@ Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 ## AMGEVITA 20 mg solution for injection in pre-filled syringe
 
-EU/1/16/1164/010 - 1 pack
+EU/1/16/1164/010 -1 pack
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3730,17 +3579,17 @@ AMGEVITA 80 mg solution for injection in pre-filled syringe
 
 <!-- formula-not-decoded -->
 
-## AMGEVITA 40 mg solution for injection in pre-filled pen
+AMGEVITA 40 mg solution for injection in pre-filled pen
 
 <!-- formula-not-decoded -->
 
-EU/1/16/1164/016 - 6 (3×2) multipack
+6 (3×2) multipack
 
 AMGEVITA 80 mg solution for injection in pre-filled pen
 
 <!-- formula-not-decoded -->
 
-EU/1/16/1164/022 - 3 (3×1) multipack
+3 (3×1) multipack
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -3765,7 +3614,9 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturers of the biological active substance Amgen Inc One Amgen Center Drive Thousand Oaks, California 91320 United States
+Name and address of the manufacturers of the biological active substance Amgen Inc One Amgen Center Drive Thousand Oaks, California 91320
+
+United States
 
 Immunex Rhode Island Corporation 40 Technology Way West Greenwich Rhode Island, 02817 United States
 
@@ -4025,7 +3876,7 @@ EU/1/16/1164/004 4 pack
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -4117,11 +3968,11 @@ EU/1/16/1164/005
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 AMGEVITA 40 mg/0.8 mL syringe
 
@@ -4131,9 +3982,7 @@ AMGEVITA 40 mg/0.8 mL syringe
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -4189,7 +4038,7 @@ Do not freeze.
 
 Store in the original carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -4271,7 +4120,7 @@ Glacial acetic acid, sucrose, polysorbate 80, sodium hydroxide and water for inj
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 40 mg/0.8 mL
 
@@ -4497,8 +4346,6 @@ Do not freeze.
 
 Store in the original carton in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -4516,13 +4363,18 @@ EU/1/16/1164/009
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 AMGEVITA 40 mg/0.8 mL pen
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
-18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4751,7 +4603,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 AMGEVITA 40 mg/0.4 mL syringe
 
@@ -4761,9 +4613,7 @@ AMGEVITA 40 mg/0.4 mL syringe
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -4837,11 +4687,11 @@ EU/1/16/1164/013
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 AMGEVITA 40 mg/0.4 mL syringe
 
@@ -4851,9 +4701,7 @@ AMGEVITA 40 mg/0.4 mL syringe
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -4933,12 +4781,11 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 AMGEVITA 40 mg/0.4 mL syringe
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -5249,9 +5096,9 @@ AMGEVITA 40 mg/0.4 mL pen
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON SMALL IMMEDIATE PACKAGING UNITS   |
-|-------------------------------------------------------------------|
-| LABEL PRE-FILLED PEN                                              |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| LABEL PRE-FILLED PEN                                             |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -5440,7 +5287,7 @@ EU/1/16/1164/019
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -5454,9 +5301,7 @@ AMGEVITA 80 mg/0.8 mL syringe
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -5536,12 +5381,11 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 AMGEVITA 80 mg/0.8 mL syringe
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -5745,11 +5589,11 @@ EU/1/16/1164/022
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 AMGEVITA 80 mg/0.8 mL pen
 
@@ -5909,7 +5753,7 @@ Lot
 
 ## 1. What AMGEVITA is and what it is used for
 
-AMGEVITA contains the active substance adalimumab, a medicine that acts on your body's immune (defence) system.
+AMGEVITA contains the active substance adalimumab , a medicine that acts on your body's immune (defence) system.
 
 AMGEVITA is intended for the treatment of the inflammatory diseases described below:
 
@@ -5921,7 +5765,7 @@ AMGEVITA is intended for the treatment of the inflammatory diseases described be
 - Psoriatic arthritis
 - Plaque psoriasis
 - Hidradenitis suppurativa
-- Crohn's disease
+- Crohn' s disease
 - Ulcerative colitis
 - Non-infectious uveitis
 
@@ -6074,7 +5918,7 @@ Talk to your doctor or pharmacist before using AMGEVITA:
 
 blocker. If you have COPD, or are a heavy smoker, you should discuss with your doctor whether treatment with a TNF blocker is appropriate for you.
 
-## Autoimmune diseases
+## Autoimmune disease
 
 - -On rare occasions, treatment with AMGEVITA could result in lupus-like syndrome. Contact your doctor if symptoms such as persistent unexplained rash, fever, joint pain or tiredness occur.
 
@@ -6113,7 +5957,7 @@ AMGEVITA may have a minor influence on your ability to drive, cycle or use machi
 
 ## AMGEVITA contains sodium
 
-This medicine contains less than 1 mmol of sodium (23 mg) per 0.8 mL dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol of sodium (23 mg) per 0.8 mL dose, that is to say essentially 'sodium -free'.
 
 ## 3. How to use AMGEVITA
 
@@ -6346,7 +6190,7 @@ Very common (may affect more than 1 in 10 people)
 
 <div style=\"page-break-after: always\"></div>
 
-Uncommon (may affect up to 1 in 100 people)
+## Uncommon (may affect up to 1 in 100 people)
 
 - opportunistic infections (which include tuberculosis and other infections that occur when resistance to disease is lowered);
 - neurological infections (including viral meningitis);
@@ -6455,7 +6299,7 @@ Do not use this medicine after the expiry date which is stated on the label/blis
 
 <div style=\"page-break-after: always\"></div>
 
-Store in a refrigerator (2  C - 8  C). Do not freeze.
+Store in a refrigerator (2  C -8  C). Do not freeze.
 
 Store in the original carton in order to protect from light.
 
@@ -6474,9 +6318,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 AMGEVITA is a clear and colourless to slightly yellow solution.
 
-Each pack contains 1 single-use 20 mg pre-filled syringe (with yellow plunger rod).
-
-Each pack contains 1, 2, 4 or 6 single-use 40 mg pre-filled syringes (with blue plunger rod).
+Each pack contains 1 single-use 20 mg pre-filled syringe (with yellow plunger rod). Each pack contains 1, 2, 4 or 6 single-use 40 mg pre-filled syringes (with blue plunger rod).
 
 ## Marketing Authorisation Holder and Manufacturer
 
@@ -6512,7 +6354,7 @@ Amgen s.r.o. Tel: +420 221 773 500
 
 ## Danmark
 
-Amgen, filial af Amgen AB, Sverige Tlf: +45 39617500
+Amgen, filial af Amgen AB, Sverige Tlf.: +45 39617500
 
 ## Deutschland
 
@@ -6548,11 +6390,11 @@ Amgen Ireland Limited Tel: +353 1 8527400
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor Sími: +354 535 7000
 
 ## Lietuva
 
-Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
+Amgen Switzerland AG Vilniaus filialas Tel. +370 5 219 7474
 
 ## Luxembourg/Luxemburg
 
@@ -6600,27 +6442,19 @@ AMGEN zdravila d.o.o. Tel: +386 (0)1 585 1767
 
 Amgen Slovakia s.r.o. Tel: +421 2 321 114 49
 
+<div style=\"page-break-after: always\"></div>
+
 ## Italia
 
 Amgen S.r.l.
 
 Tel: +39 02 6241121
 
-## Suomi/Finland
-
-Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland Puh/Tel: +358 (0)9 54900500
-
 ## Kύπρος
 
 C.A. Papaellinas Ltd
 
 Τηλ: +357 22741 741
-
-## Sverige
-
-Amgen AB
-
-Tel: +46 (0)8 6951100
 
 ## Latvija
 
@@ -6634,22 +6468,40 @@ Tel: +371 257 25888
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
-<div style=\"page-break-after: always\"></div>
-
 ---------------------------------------------------------------------------------------------------------------------------
 
+## Suomi/Finland
+
+Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland Puh/Tel: +358 (0)9 54900500
+
+## Sverige
+
+Amgen AB
+
+Tel: +46 (0)8 6951100
+
 <div style=\"page-break-after: always\"></div>
+
+Lot
+
+Exp.
 
 | Instructions for use:                  |
 |----------------------------------------|
 | AMGEVITA single use pre-filled syringe |
 | For subcutaneous use                   |
 
-Important:
-
-Needle is inside
-
 <!-- image -->
+
+| Guide to parts                 | Guide to parts                                                                       | Guide to parts              |
+|--------------------------------|--------------------------------------------------------------------------------------|-----------------------------|
+| Before use                     | After use                                                                            |                             |
+| Plunger rod Medicine           | Used plunger rod Finger flange Label and expiry date Used syringe barrel Used needle |                             |
+| Finger flange Label and expiry |                                                                                      |                             |
+| date                           |                                                                                      |                             |
+| Syringe barrel                 |                                                                                      |                             |
+|                                | Needle cap off                                                                       |                             |
+| Important: Needle is inside    | Important: Needle is inside                                                          | Important: Needle is inside |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6696,6 +6548,12 @@ Important: Always hold the pre-filled syringe by the syringe barrel.
 
 <div style=\"page-break-after: always\"></div>
 
+Needle can an
+
+Label expiry date
+
+INII
+
 <!-- image -->
 
 Always hold the syringe by the syringe barrel.
@@ -6725,7 +6583,15 @@ You will also need these additional items, as they are not included in the carto
 
 <!-- image -->
 
+Syringe barrel
+
+Plunger rod
+
 <div style=\"page-break-after: always\"></div>
+
+echon sile S).
+
+→
 
 ## D. Prepare and clean your injection site(s).
 
@@ -6759,15 +6625,25 @@ Important: Throw the needle cap into the sharps disposal container provided.
 
 <div style=\"page-break-after: always\"></div>
 
+U.
+
+n.
+
+rinen your injecuon sile lo crcale a nli nola ine pine. wl ne cale cap ol, Inser une sy
+
+Usino Son and Cons Pressar os e .
+
+90°
+
+45 °
+
 - F. Pinch your injection site to create a firm surface.
 
 <!-- image -->
 
 Pinch the skin firmly between your thumb and fingers, creating an area about 2 inch (5 centimetres) wide.
 
-Important:
-
-Keep the skin pinched while injecting.
+Important: Keep the skin pinched while injecting.
 
 ## Step 3: Inject
 
@@ -6785,6 +6661,10 @@ Do not place your finger on the plunger rod while inserting the needle.
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+J.
+
+Discara une usea syringe
 
 Step 4: Finish
 
@@ -6831,7 +6711,7 @@ If there is blood, press a cotton ball or gauze pad on your injection site. Do n
 
 ## 1. What AMGEVITA is and what it is used for
 
-AMGEVITA contains the active substance adalimumab, a medicine that acts on your body's immune (defence) system.
+AMGEVITA contains the active substance adalimumab , a medicine that acts on your body's immune (defence) system.
 
 AMGEVITA is intended for the treatment of the inflammatory diseases described below:
 
@@ -6843,7 +6723,7 @@ AMGEVITA is intended for the treatment of the inflammatory diseases described be
 - Psoriatic arthritis
 - Plaque psoriasis
 - Hidradenitis suppurativa
-- Crohn's disease
+- Crohn' s disease
 - Ulcerative colitis
 - Non-infectious uveitis
 
@@ -6934,7 +6814,7 @@ This inflammation may lead to a decrease of vision and/or the presence of floate
 
 Talk to your doctor or pharmacist before using AMGEVITA:
 
-## Allergic reaction
+## Allergic reactions
 
 - -If you experience allergic reactions with symptoms such as chest tightness, wheezing, dizziness, swelling or rash do not inject more AMGEVITA and contact your doctor immediately since, in rare cases, these reactions can be life threatening.
 
@@ -7035,7 +6915,7 @@ AMGEVITA may have a minor influence on your ability to drive, cycle or use machi
 
 ## AMGEVITA contains sodium
 
-This medicine contains less than 1 mmol of sodium (23 mg) per 0.8 mL dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol of sodium (23 mg) per 0.8 mL dose, that is to say essentially 'sodium -free'.
 
 ## 3. How to use AMGEVITA
 
@@ -7365,7 +7245,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2  C - 8  C). Do not freeze.
+Store in a refrigerator (2  C -8  C). Do not freeze.
 
 Store in the original carton in order to protect from light.
 
@@ -7414,13 +7294,15 @@ Tél/Tel: +32 (0)2 7752711
 
 ## Lietuva
 
-Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
+Amgen Switzerland AG Vilniaus filialas Tel. +370 5 219 7474
 
 <div style=\"page-break-after: always\"></div>
 
 ## България
 
-Амджен България ЕООД Тел.: +359 (0)2 424 7440
+Амджен България ЕООД
+
+Тел.: +359 (0)2 424 7440
 
 ## Česká republika
 
@@ -7428,11 +7310,13 @@ Amgen s.r.o. Tel: +420 221 773 500
 
 ## Danmark
 
-Amgen, filial af Amgen AB, Sverige Tlf: +45 39617500
+Amgen, filial af Amgen AB, Sverige Tlf.: +45 39617500
 
 ## Deutschland
 
-Amgen GmbH Tel: +49 89 1490960
+Amgen GmbH
+
+Tel: +49 89 1490960
 
 ## Eesti
 
@@ -7462,13 +7346,11 @@ Amgen Ireland Limited Tel: +353 1 8527400
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor Sími: +354 535 7000
 
 ## Italia
 
-Amgen S.r.l.
-
-Tel: +39 02 6241121
+Amgen S.r.l. Tel: +39 02 6241121
 
 ## Kύπρος
 
@@ -7508,9 +7390,7 @@ Amgen Biotechnologia Sp. z o.o. Tel.: +48 22 581 3000
 
 ## Portugal
 
-Amgen Biofarmacêutica, Lda.
-
-Tel: +351 21 4220606
+Amgen Biofarmacêutica, Lda. Tel: +351 21 4220606
 
 ## România
 
@@ -7518,15 +7398,11 @@ Amgen România SRL Tel: +4021 527 3000
 
 ## Slovenija
 
-AMGEN zdravila d.o.o.
-
-Tel: +386 (0)1 585 1767
+AMGEN zdravila d.o.o. Tel: +386 (0)1 585 1767
 
 ## Slovenská republika
 
-Amgen Slovakia s.r.o.
-
-Tel: +421 2 321 114 49
+Amgen Slovakia s.r.o. Tel: +421 2 321 114 49
 
 ## Suomi/Finland
 
@@ -7538,9 +7414,11 @@ Amgen AB
 
 Tel: +46 (0)8 6951100
 
-Latvija
+## Latvija
 
-Amgen Switzerland AG Rīgas filiāle Tel: +371 257 25888
+Amgen Switzerland AG Rīgas filiāle
+
+Tel: +371 257 25888
 
 ## This leaflet was last revised in
 
@@ -7554,6 +7432,18 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
+lue start button
+
+00·14
+
+0000000
+
+00914
+
+0000000
+
+ELL0948 v3
+
 | Instructions for use:                        |
 |----------------------------------------------|
 | AMGEVITA single use SureClick pre-filled pen |
@@ -7566,6 +7456,8 @@ Needle is inside
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+D.
 
 ## Important
 
@@ -7608,6 +7500,8 @@ In all cases, use a new pre-filled pen.
 
 <div style=\"page-break-after: always\"></div>
 
+snarps alsposal container
+
 ## C. Gather all materials needed for your injection.
 
 Wash your hands thoroughly with soap and water.
@@ -7623,6 +7517,12 @@ You will also need these additional items, as they are not included in the carto
 
 <!-- image -->
 
+<!-- image -->
+
+## D. Prepare and clean your injection site.
+
+<!-- image -->
+
 ## You can use:
 
 - Your thigh
@@ -7635,19 +7535,9 @@ Clean your injection site with an alcohol wipe. Let your skin dry.
 - -Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid injecting into areas with scars or stretch marks.
 - If you have psoriasis, you should avoid injecting directly into raised, thick, red, or scaly skin patch or lesion.
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-## D. Prepare and clean your injection site.
-
-<!-- image -->
-
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
+
+rinca mernoa streten metnoa
 
 ## Pinch method
 
@@ -7661,7 +7551,7 @@ Keep the skin stretched or pinched while injecting.
 
 Step 2: Get ready
 
-## E. Pull the yellow cap straight off when you are ready to inject.
+- E. Pull the yellow cap straight off when you are ready to inject.
 
 <!-- image -->
 
@@ -7682,6 +7572,14 @@ OR
 
 <div style=\"page-break-after: always\"></div>
 
+1.
+
+yu degrees.
+
+when you are reaay to inject, press ine blue start buttor
+
+90°
+
 Step 3: Inject
 
 - G. Hold the stretch or pinch. With the yellow cap off, place the pre-filled pen on your skin at 90 degrees.
@@ -7695,6 +7593,12 @@ Important: Do not touch the blue start button yet.
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+J.
+
+neep pushing aown on your skin. I our Injecuon could lake
+
+~10s
 
 <!-- image -->
 
@@ -7905,7 +7809,7 @@ Talk to your doctor or pharmacist before using AMGEVITA:
 
 blocker. If you have COPD, or are a heavy smoker, you should discuss with your doctor whether treatment with a TNF blocker is appropriate for you.
 
-## Autoimmune diseases
+## Autoimmune disease
 
 - -On rare occasions, treatment with AMGEVITA could result in lupus-like syndrome. Contact your doctor if symptoms such as persistent unexplained rash, fever, joint pain or tiredness occur.
 
@@ -7944,7 +7848,7 @@ AMGEVITA may have a minor influence on your ability to drive, cycle or use machi
 
 ## AMGEVITA contains sodium
 
-This medicine contains less than 1 mmol of sodium (23 mg) per 0.8 mL dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol of sodium (23 mg) per 0.8 mL dose, that is to say essentially 'sodium -free'.
 
 ## 3. How to use AMGEVITA
 
@@ -8282,7 +8186,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label/blister and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2  C - 8  C). Do not freeze.
+Store in a refrigerator (2  C -8  C). Do not freeze.
 
 Store in the original carton in order to protect from light.
 
@@ -8343,7 +8247,7 @@ Amgen s.r.o. Tel: +420 221 773 500
 
 ## Danmark
 
-Amgen, filial af Amgen AB, Sverige Tlf: +45 39617500
+Amgen, filial af Amgen AB, Sverige Tlf.: +45 39617500
 
 ## Deutschland
 
@@ -8379,11 +8283,11 @@ Amgen Ireland Limited Tel: +353 1 8527400
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor Sími: +354 535 7000
 
 ## Lietuva
 
-Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
+Amgen Switzerland AG Vilniaus filialas Tel. +370 5 219 7474
 
 ## Luxembourg/Luxemburg
 
@@ -8459,7 +8363,9 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Suomi/Finland
 
-Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland Puh/Tel: +358 (0)9 54900500
+Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland
+
+Puh/Tel: +358 (0)9 54900500
 
 ## Sverige
 
@@ -8481,49 +8387,55 @@ Tel: +46 (0)8 6951100
 
 - AMGEVITA comes in three different doses: 20 mg/0.2 mL, 40 mg/0.4 mL, 80 mg/0.8 mL. Check your prescription to make sure you have the correct dose.
 - The colour and look of the pre-filled syringe will be different for each dose. The amount of medicine in the pre-filled syringe will also be different for each dose.
-- For example, it`s okay for the 20 mg/0.2 mL dose to have a small amount of medicine and the 80 mg/0.8 mL to have a large amount of medicine. Check the illustrations below to see what your dose looks like in the pre-filled syringe.
+- For example, it`s okay for the 20 mg/0.2 mL dose to have a small amount of medicine and the 80 mg/0.8 mL to have a large amount of medicine. Check the illustrations below to see what your dose looks like in the pre-filled syringe. ILL2703 v1
+
+20mc(2 mk
 
 <!-- image -->
 
-## Using your AMGEVITA pre-filled syringe:
-
-- It is important that you do not try to give yourself the injection until you have fully read and understood these instructions for use and unless you have received training from your doctor or healthcare provider.
+- It is important that you do not try to give yourself the injection until you have fully read and understood this Instructions for Use and unless you have received training from your doctor or healthcare provider.
 - Do not use the pre-filled syringe if the carton is damaged or seal is broken.
 - Do not use the pre-filled syringe after the expiry date on the label.
 - Do not shake the pre-filled syringe.
 - Do not remove the needle cap from the pre-filled syringe until you are ready to inject.
 - Do not use the pre-filled syringe if it has been frozen.
 - Do not use the pre-filled syringe if it has been dropped on a hard surface. Part of the pre-filled syringe may be broken even if you cannot see the break. Use a new pre-filled syringe and call your doctor or healthcare provider.
-- The pre-filled syringe is not made with natural rubber latex.
 
 Important: Keep the pre-filled syringe and sharps disposal container out of the sight and reach of children.
 
 <div style=\"page-break-after: always\"></div>
 
-- 2 Preparing to inject AMGEVITA
-- 2a Grasp pre-filled syringe by the body and remove from the carton.
+lace.
+
+## 2 Preparing to inject AMGEVITA
+
+## 2a Hold the pre-filled syringe by the body and remove it from the carton.
+
+<!-- image -->
+
 - Do not grab the finger grip, plunger rod, or the needle cap.
 - Remove the number of pre-filled syringes you need for your injection.
 - Put any unused pre-filled syringes back into the refrigerator.
 
-<!-- image -->
+## 2b Wait 15 to 30 minutes for the pre-filled syringe to reach room temperature.
 
-## 2b Wait 30 minutes for the pre-filled syringe to reach room temperature.
-
-## WAIT 30 minutes
+## WAIT 15 to 30 minutes
 
 - Let the pre-filled syringe warm up naturally.
-- Do not heat with hot water, a microwave, or direct sunlight.
+- Do not heat the pre-filled syringe with hot water, a microwave, or direct sunlight.
 - Do not shake the pre-filled syringe at any time.
-- Do not place pre-filled syringe back in refrigerator after it has reached room temperature
-- Using the pre-filled syringe at room temperature allows for a more comfortable injection .
+- Do not place pre-filled syringe back in refrigerator after it has reached room temperature.
+- Using the pre-filled syringe at room temperature allows for a more comfortable injection.
+
+## 2c Gather and place the following items for your injection on a clean, flat and well-lit surface.
+
+<!-- image -->
+
 - AMGEVITA pre-filled syringe (room temperature)
 - Sharps disposal container
 - Alcohol wipe
 - Plaster
 - Cotton ball or gauze pad
-
-<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -8535,7 +8447,7 @@ Important: Keep the pre-filled syringe and sharps disposal container out of the 
 
 - It should be clear and colourless to slightly yellow.
 - It is okay to see air bubbles in the pre-filled syringe.
-- Do not use if the medicine is cloudy, discoloured, or contains flakes, or particles
+- Do not use AMGEVITA if the medicine is cloudy, discoloured, or contains flakes or particles
 
 Important: If the medicine is cloudy, discoloured, or contains flakes or particles, call your doctor or healthcare provider.
 
@@ -8545,32 +8457,34 @@ Expiry date
 
 <!-- image -->
 
-- Do not use if the expiry date has passed.
+- Do not use the pre-filled syringe if the expiry date has passed.
 - Do not use the pre-filled syringe if:
-- The needle cap is missing or not securely attached.
-- It has cracks or broken parts.
-- It has been dropped on a hard surface.
+- the needle cap is missing or not securely attached.
+- it has cracks or broken parts.
+- it has been dropped on a hard surface.
 
-Important: If the pre-filled syringe is medicine is damaged or expired, call your doctor or healthcare provider.
+Important: If the pre-filled syringe is damaged or expired, call your doctor or healthcare provider.
+
+Medicine
 
 <div style=\"page-break-after: always\"></div>
 
-## 3c Inject in one of these locations.
+## 3c Inject into 1 of these sites.
 
 <!-- image -->
 
-- Inject in your thigh or belly (except 5 cm around your belly button).
-- Choose a different site for each injection
+- Inject into the front of your thigh or belly (except 5 centimetres around your belly button).
+- Choose a different site for each injection.
 - Wash your hands thoroughly with soap and water.
-- Clean injection site with an alcohol wipe.
-- Let your skin dry on its own.
+- Clean the injection site with an alcohol wipe.
+- Let the skin dry on its own.
 - Do not touch this area again before injecting.
 
-Important: Avoid areas with scars, stretch marks, or where skin is tender, bruised, red or hard.
+Important: Avoid areas with scars, stretch marks, or where the skin is tender, bruised, red or hard.
 
 ## 4 Injecting AMGEVITA
 
-Important: Only remove the needle cap when you can inject right away (within 5 minutes) because the medicine can dry out.
+Important: Only remove the needle cap when you can inject right away (within 5 minutes) because the medicine can dry out. Do not recap.
 
 ## 4a Pull the needle cap straight off while holding the pre-filled syringe barrel.
 
@@ -8578,48 +8492,53 @@ Important: Only remove the needle cap when you can inject right away (within 5 m
 
 - Do not twist or bend the needle cap.
 - Never put the needle cap back on. It may damage the needle.
-- Do not let anything touch the needle once the needle cap is removed.
-- Do not place the uncapped pre-filled syringe on any surface once the needle cap is removed.
+- Do not let anything touch the needle after you remove the needle cap.
+- Do not place the uncapped pre-filled syringe on any surface after you remove the needle cap.
 - Do not try to push air bubbles out of the pre-filled syringe. It is okay to see air bubbles.
-- A drop of medicine is normal.
+- It is normal to see a drop of medicine come out of the needle.
 
 <div style=\"page-break-after: always\"></div>
 
+IJLCl
+
+INDENI
+
 - 4b Pinch the skin around the injection site before the injection.
 
-## PINCH
+45°
+
+PINCH skin at injection site
 
 <!-- image -->
 
-- Pinch the skin between thumb and index finger to create a bump for the injection.
-- If possible, the bump should be about 5 cm wide.
+- Pinch the skin between the thumb and pointer (index) finger to create a bump for the injection.
+- If possible, the bump should be about 5 centimetres wide.
 
-## 4c Insert the needle into the pinched skin.
+Important: Continue to pinch the skin until the injection is complete.
+
+- 4c Insert the needle into the pinched skin at a 45-degree angle.
 
 ## INSERT
 
 <!-- image -->
 
-- Insert the needle into the pinched skin either straight in or at a 45 degree angle.
 - Do not place your finger on the plunger rod while inserting the needle, as this may result in loss of medicine.
-- 4d Slowly press the plunger rod down to the bottom of the pre-filled syringe to inject the medicine.
+- 4d Slowly press the plunger rod all the way until it reaches the bottom of the pre-filled syringe to inject the medicine.
 
 ## INJECT
 
 <!-- image -->
 
-- Do not pull back on the plunger at any time.
-- Do not remove the needle until all the medicine is delivered.
-
-Important: Continue to pinch the skin until injection is complete
+- Do not pull back on the plunger rod at any time.
+- Do not remove the needle until all of the medicine has been injected.
 
 <div style=\"page-break-after: always\"></div>
 
-## 5 Disposing and finishing AMGEVITA
+## 5 Disposing of AMGEVITA and checking the injection site
 
 Important: Never put the needle cap back on.
 
-## 5a Discard the used pre-filled syringe and needle cap in the sharps disposal container.
+## 5a Place the used pre-filled syringe and needle cap in a sharps disposal container right away after use.
 
 <!-- image -->
 
@@ -8631,9 +8550,9 @@ Do not recycle the pre-filled syringe or throw it into the household waste.
 - Talk with your doctor or pharmacist about proper disposal. There may be local guidelines for disposal.
 - Do not recycle the syringe or sharps disposal container or throw them into the household waste.
 
-Important : Always keep the sharps disposal container out of the sight and reach of children.
+Important: Always keep the sharps disposal container out of the sight and reach of children.
 
-## 5b Check injection site.
+## 5b Check the injection site.
 
 - Do not rub the injection site.
 - If there is blood, press a cotton ball or gauze pad on your injection site. Apply a plaster if necessary.
@@ -8677,7 +8596,7 @@ AMGEVITA is intended for the treatment of the inflammatory diseases described be
 - Psoriatic arthritis
 - Plaque psoriasis
 - Hidradenitis suppurativa
-- Crohn's disease
+- Crohn' s disease
 - Ulcerative colitis
 - Non-infectious uveitis
 
@@ -8768,7 +8687,7 @@ This inflammation may lead to a decrease of vision and/or the presence of floate
 
 Talk to your doctor or pharmacist before using AMGEVITA:
 
-## Allergic reaction
+## Allergic reactions
 
 - -If you experience allergic reactions with symptoms such as chest tightness, wheezing, dizziness, swelling or rash do not inject more AMGEVITA and contact your doctor immediately since, in rare cases, these reactions can be life threatening.
 
@@ -8869,7 +8788,7 @@ AMGEVITA may have a minor influence on your ability to drive, cycle or use machi
 
 ## AMGEVITA contains sodium
 
-This medicine contains less than 1 mmol of sodium (23 mg) per 0.8 mL dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol of sodium (23 mg) per 0.8 mL dose, that is to say essentially 'sodium -free'.
 
 ## 3. How to use AMGEVITA
 
@@ -9199,7 +9118,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2  C - 8  C). Do not freeze.
+Store in a refrigerator (2  C -8  C). Do not freeze.
 
 Store in the original carton in order to protect from light.
 
@@ -9248,13 +9167,15 @@ Tél/Tel: +32 (0)2 7752711
 
 ## Lietuva
 
-Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
+Amgen Switzerland AG Vilniaus filialas Tel. +370 5 219 7474
 
 <div style=\"page-break-after: always\"></div>
 
 ## България
 
-Амджен България ЕООД Тел.: +359 (0)2 424 7440
+Амджен България ЕООД
+
+Тел.: +359 (0)2 424 7440
 
 ## Česká republika
 
@@ -9262,7 +9183,7 @@ Amgen s.r.o. Tel: +420 221 773 500
 
 ## Danmark
 
-Amgen, filial af Amgen AB, Sverige Tlf: +45 39617500
+Amgen, filial af Amgen AB, Sverige Tlf.: +45 39617500
 
 ## Deutschland
 
@@ -9298,19 +9219,15 @@ Amgen Ireland Limited Tel: +353 1 8527400
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor Sími: +354 535 7000
 
 ## Italia
 
-Amgen S.r.l.
-
-Tel: +39 02 6241121
+Amgen S.r.l. Tel: +39 02 6241121
 
 ## Kύπρος
 
-C.A. Papaellinas Ltd
-
-Τηλ: +357 22741 741
+C.A. Papaellinas Ltd Τηλ: +357 22741 741
 
 ## Luxembourg/Luxemburg
 
@@ -9344,9 +9261,7 @@ Amgen Biotechnologia Sp. z o.o. Tel.: +48 22 581 3000
 
 ## Portugal
 
-Amgen Biofarmacêutica, Lda.
-
-Tel: +351 21 4220606
+Amgen Biofarmacêutica, Lda. Tel: +351 21 4220606
 
 ## România
 
@@ -9354,15 +9269,11 @@ Amgen România SRL Tel: +4021 527 3000
 
 ## Slovenija
 
-AMGEN zdravila d.o.o.
-
-Tel: +386 (0)1 585 1767
+AMGEN zdravila d.o.o. Tel: +386 (0)1 585 1767
 
 ## Slovenská republika
 
-Amgen Slovakia s.r.o.
-
-Tel: +421 2 321 114 49
+Amgen Slovakia s.r.o. Tel: +421 2 321 114 49
 
 ## Suomi/Finland
 
@@ -9370,13 +9281,17 @@ Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland Puh/Tel: +358 (0)9 54900
 
 ## Sverige
 
-Amgen AB Tel: +46 (0)8 6951100
+Amgen AB
+
+Tel: +46 (0)8 6951100
 
 <div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
-Amgen Switzerland AG Rīgas filiāle Tel: +371 257 25888
+Amgen Switzerland AG Rīgas filiāle
+
+Tel: +371 257 25888
 
 ## This leaflet was last revised in
 
@@ -9386,15 +9301,15 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
+0 4 m|
+
 ## INSTRUCTIONS FOR USE 40 mg / 0.4 mL
 
 <!-- image -->
 
 ## 1 Important information you need to know before injecting AMGEVITA
 
-## Using your AMGEVITA SureClick pre-filled pen:
-
-- It is important that you do not try to give yourself the injection until you have fully read and understood these instructions for use and unless you have received training from your doctor or healthcare provider.
+- It is important that you do not try to give yourself the injection until you have fully read and understood this Instructions for Use and unless you have received training from your doctor or healthcare provider.
 - Do not use the pre-filled pen if the carton is damaged or seal is broken.
 - Do not use the pre-filled pen after the expiry date on the label.
 - Do not shake the pre-filled pen.
@@ -9408,44 +9323,50 @@ Important: Keep the pre-filled pen and sharps disposal container out of the sigh
 
 ## 2 Preparing to inject AMGEVITA
 
-## 2a Wait 30 minutes for the pre-filled pen to reach room temperature.
+Me
 
-## WAIT 30 minutes
+## 2a Wait 15 to 30 minutes for the pre-filled pen to reach room temperature.
+
+## WAIT 15 to 30 minutes
 
 - Remove the number of pre-filled pens you need for your injection and put any unused prefilled pens back into the refrigerator.
 - Let the pre-filled pen warm up naturally.
-- Do not heat with hot water, a microwave, or direct sunlight.
+- Do not heat the pre-filled pen with hot water, a microwave, or direct sunlight.
 - Do not shake the pre-filled pen at any time.
-- Do not place pre-filled pen back in refrigerator after it has reached room temperature
-- Using the pre-filled pen at room temperature allows for a more comfortable injection .
+- Do not place the pre-filled pen back in refrigerator after it has reached room temperature.
+- Using the pre-filled pen at room temperature makes sure the full dose is delivered and allows for a more comfortable injection.
 
 ## 2b Inspect the medicine. It should be clear and colourless to slightly yellow.
 
 <!-- image -->
 
-- It is okay to see air bubbles.
-- Do not use if the medicine is cloudy, discoloured or has flakes.
-
 Medicine
 
+- It is okay to see air bubbles in the pre-filled pen.
+- Do not use if the medicine is cloudy, discoloured or has flakes or particles.
+
+Important: If the medicine is cloudy, discoloured, or contains flakes or particles, or if the prefilled pen is damaged or expired, call your doctor or healthcare provider.
+
 <div style=\"page-break-after: always\"></div>
+
+ullace.
+
+LOT
 
 ## 2c Check the expiry date (EXP.) and inspect the pre-filled pen for damage.
 
 <!-- image -->
 
-- Do not use if the expiry date has passed.
+- Do not use the pre-filled pen if the expiry date has passed.
 - Do not use the pre-filled pen if:
-- o The yellow cap is missing or loose.
-- o It has cracks or broken parts.
-- o It has been dropped on a hard surface.
+- o the yellow cap is missing or loose.
+- o it has cracks or broken parts.
+- o it has been dropped on a hard surface.
 - Make sure you have the right medicine and dose.
-
-Important: If the medicine is cloudy, discoloured, or contains flakes, call your doctor or healthcare provider.
 
 ## 3 Getting ready for your injection
 
-## 3a Gather and place items for your injection on a clean, well-lit surface.
+## 3a Gather and place the following items for your injection on a clean, flat and well-lit surface.
 
 <!-- image -->
 
@@ -9457,66 +9378,95 @@ Important: If the medicine is cloudy, discoloured, or contains flakes, call your
 
 <div style=\"page-break-after: always\"></div>
 
-## 3b Inject in one of these locations.
+U.
+
+## 3b Inject into 1 of these sites.
+
+RL2428 V7
+
+LL2439 VS
 
 <!-- image -->
 
-- Inject in your thigh or belly (except 5 cm around your belly button).
-- Choose a different site for each injection
+- Inject into the front of your thigh or belly (except 5 centimetres around your belly button).
+- Choose a different site for each injection.
 - Wash your hands thoroughly with soap and water.
-- Clean injection site with an alcohol wipe.
-- Let your skin dry on its own.
+- Clean the injection site with an alcohol wipe.
+- Let the skin dry on its own.
 - Do not touch this area again before injecting.
 
-Important: Avoid areas with scars, stretch marks, or where skin is tender, bruised, red or hard.
+Important: Avoid areas with scars, stretch marks, or where the skin is tender, bruised, red or hard.
 
 ## 4 Injecting AMGEVITA
 
-Important: Only remove the yellow cap when you can inject right away (within 5 minutes) because the medicine can dry out.
+Important: Only remove the yellow cap when you can inject right away (within 5 minutes) because the medicine can dry out. Do not recap.
 
 ## 4a Hold the pre-filled pen so you can see the window. Pull the yellow cap straight off. You may need to pull hard.
 
-Window should be visible
-
 <!-- image -->
 
-- Do not twist, bend or wiggle the yellow cap to pull off.
+- Do not twist, bend or wiggle the yellow cap to pull it off.
 - Never put the needle cap back on. It may damage the needle.
 - Do not put your finger inside the cream-coloured safety guard.
 - It is normal to see a drop of medicine at the end of the needle or cream-coloured safety guard.
 
 <div style=\"page-break-after: always\"></div>
 
+ana nola agalnst skin
+
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+Ignl baue start ballon
 
 PRESS light blue start button
 
 <!-- image -->
 
-## 4d Keep pushing down firmly and press the light blue start button to start the injection.
+0000000
 
+·14
+
+- 4d Keep pushing the pre-filled pen down and press the light blue start button to start the injection.
 - You may hear or feel a click.
 - The window starts to turn yellow.
-- It is okay to let go of the light blue button.
+- It is okay to let go of the light blue start button.
 
-## WATCH CONFIRM window will turn fully yellow
+<div style=\"page-break-after: always\"></div>
+
+## WATCH and CONFIRM
+
+## that the window turns fully yellow
 
 <!-- image -->
 
-## 4e Keep pushing down. When the window is fully yellow, the injection is complete
-
+- 4e Keep pushing the pre-filled pen down. When the window is fully yellow, the injection is complete.
 - The injection may take up to 10 seconds to complete.
 - You may hear or feel a click.
 - Lift the pre-filled pen away from your skin.
 - The cream-coloured safety guard locks around the needle.
 
-Important: If the window has not turned yellow, or it looks like the medicine is still coming out, you have not received a full dose.  Call your doctor or healthcare provider immediately.
+Important: If the window has not turned fully yellow, or it looks like the medicine is still coming out, you have not received a full dose. Call your doctor or healthcare provider right away.
+
+## 5 Disposing of AMGEVITA and checking the injection site
+
+<!-- image -->
+
+Important:
+
+Do not throw away the pre-filled pen into your household waste.
+
+- 5a Place the used pre-filled pen and yellow cap in a sharps disposal container right away after use.
+- Do not re-use the pre-filled pen.
+- Do not touch the cream-coloured safety guard.
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+| 5b   | Check the injection site.                                                                                 |
+|------|-----------------------------------------------------------------------------------------------------------|
+| •    | Do not rub the injection site.                                                                            |
+| •    | If there is blood, press a cotton ball or gauze pad on your injection site. Apply a plaster if necessary. |
 
 ## Package leaflet: Information for the user
 
@@ -9648,7 +9598,7 @@ This inflammation may lead to a decrease of vision and/or the presence of floate
 
 Talk to your doctor or pharmacist before using AMGEVITA:
 
-## Allergic reaction
+## Allergic reactions
 
 - -If you experience allergic reactions with symptoms such as chest tightness, wheezing, dizziness, swelling or rash do not inject more AMGEVITA and contact your doctor immediately since, in rare cases, these reactions can be life threatening.
 
@@ -9749,7 +9699,7 @@ AMGEVITA may have a minor influence on your ability to drive, cycle or use machi
 
 ## AMGEVITA contains sodium
 
-This medicine contains less than 1 mmol of sodium (23 mg) per 0.8 mL dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol of sodium (23 mg) per 0.8 mL dose, that is to say essentially 'sodium -free'.
 
 ## 3. How to use AMGEVITA
 
@@ -9803,7 +9753,7 @@ Thereafter, the usual dose is 40 mg every other week. Depending on your response
 
 ## Adults with ulcerative colitis
 
-The usual AMGEVITA dose for adults with ulcerative colitis is 160 mg initially (two 80 mg injections in one day or one 80 mg injection per day for two consecutive days) followed by 80 mg  two weeks later, then 40 mg every other week. Depending on your response, your doctor may increase the dose to 40 mg every week or 80 mg every other week.
+The usual AMGEVITA dose for adults with ulcerative colitis is 160 mg initially (two 80 mg injections in one day or one 80 mg injection per day for two consecutive days) followed by 80 mg two weeks later, then 40 mg every other week. Depending on your response, your doctor may increase the dose to 40 mg every week or 80 mg every other week.
 
 ## Children and adolescents with ulcerative colitis
 
@@ -10065,7 +10015,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2  C - 8  C). Do not freeze.
+Store in a refrigerator (2  C -8  C). Do not freeze.
 
 Store in the original carton in order to protect from light.
 
@@ -10112,23 +10062,21 @@ s.a. Amgen n.v. Tél/Tel: +32 (0)2 7752711
 
 ## България
 
-Амджен България ЕООД Тел.: +359 (0)2 424 7440
+Амджен България ЕООД
+
+Тел.: +359 (0)2 424 7440
 
 ## Česká republika
 
-Amgen s.r.o.
-
-Tel: +420 221 773 500
+Amgen s.r.o. Tel: +420 221 773 500
 
 ## Danmark
 
-Amgen, filial af Amgen AB, Sverige Tlf: +45 39617500
+Amgen, filial af Amgen AB, Sverige Tlf.: +45 39617500
 
 ## Deutschland
 
-Amgen GmbH
-
-Tel: +49 89 1490960
+Amgen GmbH Tel: +49 89 1490960
 
 ## Eesti
 
@@ -10140,13 +10088,11 @@ Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε. Τηλ: +30 210 3447000
 
 ## España
 
-Amgen S.A.
-
-Tel: +34 93 600 18 60
+Amgen S.A. Tel: +34 93 600 18 60
 
 ## Lietuva
 
-Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
+Amgen Switzerland AG Vilniaus filialas Tel. +370 5 219 7474
 
 ## Luxembourg/Luxemburg
 
@@ -10158,21 +10104,15 @@ Amgen Kft. Tel.: +36 1 35 44 700
 
 ## Malta
 
-Amgen S.r.l. Italy
-
-Tel: +39 02 6241121
+Amgen S.r.l. Italy Tel: +39 02 6241121
 
 ## Nederland
 
-Amgen B.V.
-
-Tel: +31 (0)76 5732500
+Amgen B.V. Tel: +31 (0)76 5732500
 
 ## Norge
 
-Amgen AB
-
-Tlf: +47 23308000
+Amgen AB Tlf: +47 23308000
 
 ## Österreich
 
@@ -10180,7 +10120,9 @@ Amgen GmbH Tel: +43 (0)1 50 217
 
 ## Polska
 
-Amgen Biotechnologia Sp. z o.o. Tel.: +48 22 581 3000
+Amgen Biotechnologia Sp. z o.o.
+
+Tel.: +48 22 581 3000
 
 ## France
 
@@ -10220,7 +10162,7 @@ Tel: +386 (0)1 585 1767
 
 ## Ísland
 
-Vistor hf.
+Vistor
 
 Sími: +354 535 7000
 
@@ -10238,7 +10180,9 @@ Tel: +39 02 6241121
 
 ## Suomi/Finland
 
-Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland
+Amgen AB, sivuliike Suomessa/Amgen AB, filial
+
+i Finland
 
 Puh/Tel: +358 (0)9 54900500
 
@@ -10270,15 +10214,17 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
+ed pen
+
+Exp.
+
 ## INSTRUCTIONS FOR USE 80 mg / 0.8 mL
 
 <!-- image -->
 
 ## 1 Important information you need to know before injecting AMGEVITA
 
-## Using your AMGEVITA SureClick pre-filled pen:
-
-- It is important that you do not try to give yourself the injection until you have fully read and understood these instructions for use and unless you have received training from your doctor or healthcare provider.
+- It is important that you do not try to give yourself the injection until you have fully read and understood this Instructions for Use and unless you have received training from your doctor or healthcare provider.
 - Do not use the pre-filled pen if the carton is damaged or seal is broken.
 - Do not use the pre-filled pen after the expiry date on the label.
 - Do not shake the pre-filled pen.
@@ -10292,88 +10238,110 @@ Important: Keep the pre-filled pen and sharps disposal container out of the sigh
 
 ## 2 Preparing to inject AMGEVITA
 
-## 2a Wait 30 minutes for the pre-filled pen to reach room temperature.
+## 2a Wait 15 to 30 minutes for the pre-filled pen to reach room temperature.
 
-## WAIT 30 minutes
+## WAIT 15 to 30 minutes
 
 - Remove the number of pre-filled pens you need for your injection and put any unused prefilled pens back into the refrigerator.
 - Let the pre-filled pen warm up naturally.
-- Do not heat with hot water, a microwave, or direct sunlight.
+- Do not heat the pre-filled pen with hot water, a microwave, or direct sunlight.
 - Do not shake the pre-filled pen at any time.
-- Do not place pre-filled pen back in refrigerator after it has reached room temperature
-- Using the pre-filled pen at room temperature allows for a more comfortable injection .
+- Do not place the pre-filled pen back in refrigerator after it has reached room temperature.
+- Using the pre-filled pen at room temperature makes sure the full dose is delivered and allows for a more comfortable injection.
 
 ## 2b Inspect the medicine. It should be clear and colourless to slightly yellow.
 
 <!-- image -->
 
-- It is okay to see air bubbles.
-- Do not use if the medicine is cloudy, discoloured or has flakes.
-
 Medicine
+
+- It is okay to see air bubbles in the pre-filled pen.
+- Do not use if the medicine is cloudy, discoloured or has flakes or particles.
+
+Important: If the medicine is cloudy, discoloured, or contains flakes or particles, or if the prefilled pen is damaged or expired, call your doctor or healthcare provider.
 
 <div style=\"page-break-after: always\"></div>
 
-## 2c Check the expiry date (EXP.) and inspect the pre-filled pen for damage.
+ullace.
+
+r
+
+LOT
+
+## 2c Check the expiry date (EXP.) and inspect the pre-filled pen for damage. Exp.
 
 <!-- image -->
 
 Expiry date
 
-- Do not use if the expiry date has passed.
+- Do not use the pre-filled pen if the expiry date has passed.
 - Do not use the pre-filled pen if:
-- o The yellow cap is missing or loose.
-- o It has cracks or broken parts.
-- o It has been dropped on a hard surface.
+- o the yellow cap is missing or loose.
+- o it has cracks or broken parts.
+- o it has been dropped on a hard surface.
 - Make sure you have the right medicine and dose.
 
-Important: If the medicine is cloudy, discoloured, or contains flakes, call your doctor or healthcare provider.
+## 3 Getting ready for your injection
 
-- 3 Getting ready for your injection
-- 3a Gather and place items for your injection on a clean, well-lit surface.
+## 3a Gather and place the following items for your injection on a clean, flat and well-lit surface.
+
+<!-- image -->
+
 - AMGEVITA pre-filled pen (room temperature)
 - Sharps disposal container
 - Alcohol wipe
 - Plaster
 - Cotton ball or gauze pad
 
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
 
-## 3b Inject in one of these locations.
+ala.
+
+## 3b Inject into 1 of these sites.
+
+LL2439 VS
+
+RL2437 v2
 
 <!-- image -->
 
-- Inject in your thigh or belly (except 5 cm around your belly button).
-- Choose a different site for each injection
+- Inject into the front of your thigh or belly (except 5 centimetres around your belly button).
+- Choose a different site for each injection.
 - Wash your hands thoroughly with soap and water.
-- Clean injection site with an alcohol wipe.
-- Let your skin dry on its own.
+- Clean the injection site with an alcohol wipe.
+- Let the skin dry on its own.
 - Do not touch this area again before injecting.
 
-Important: Avoid areas with scars, stretch marks, or where skin is tender, bruised, red or hard.
+Important: Avoid areas with scars, stretch marks, or where the skin is tender, bruised, red or hard.
 
 ## 4 Injecting AMGEVITA
 
-Important: Only remove the yellow cap when you can inject right away (within 5 minutes) because the medicine can dry out.
+Important: Only remove the yellow cap when you can inject right away (within 5 minutes) because the medicine can dry out. Do not recap.
 
 ## 4a Hold the pre-filled pen so you can see the window. Pull the yellow cap straight off. You may need to pull hard.
 
-Window should be visible
-
 <!-- image -->
 
-- Do not twist, bend or wiggle the yellow cap to pull off.
+- Do not twist, bend or wiggle the yellow cap to pull it off.
 - Never put the needle cap back on. It may damage the needle.
 - Do not put your finger inside the cream-coloured safety guard.
 - It is normal to see a drop of medicine at the end of the needle or cream-coloured safety guard.
 
 <div style=\"page-break-after: always\"></div>
 
+galns te pinened skil.
+
+ana nold agaınst skın
+
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+Ignl baue start ballon
+
+0000000
+
+·14
 
 PRESS
 
@@ -10381,37 +10349,38 @@ PRESS
 
 <!-- image -->
 
-## 4d Keep pushing down firmly and press the light blue start button to start the injection.
-
+- 4d Keep pushing the pre-filled pen down and press the light blue start button to start the injection.
 - You may hear or feel a click.
 - The window starts to turn yellow.
-- It is okay to let go of the light blue button.
+- It is okay to let go of the light blue start button.
 
-## WATCH CONFIRM window will turn fully yellow
+## WATCH and CONFIRM that the window turns fully yellow
 
 <!-- image -->
 
-## 4e Keep pushing down. When the window is fully yellow, the injection is complete
-
+- 4e Keep pushing the pre-filled pen down. When the window is fully yellow, the injection is complete.
 - The injection may take up to 15 seconds to complete.
 - You may hear or feel a click.
 - Lift the pre-filled pen away from your skin.
 - The cream-coloured safety guard locks around the needle.
 
-Important: If the window has not turned yellow, or it looks like the medicine is still coming out, you have not received a full dose.  Call your doctor or healthcare provider immediately.
+Important: If the window has not turned fully yellow, or it looks like the medicine is still coming out, you have not received a full dose. Call your doctor or healthcare provider right away.
 
 <div style=\"page-break-after: always\"></div>
 
-Important: Do not throw away the pre-filled pen into your household trash.
+vulvalA ana checking une Ingecuon site
+
+## 5 Disposing of AMGEVITA and checking the injection site
 
 <!-- image -->
 
-## 5a Place the used pre-filled pen and yellow cap in the sharps container
+Important: Do not throw away the pre-filled pen into your household waste.
 
-- Do not re-use the pre-filled pen
-- Do not touch the cream-coloured safety guard
+- 5a Place the used pre-filled pen and yellow cap in a sharps disposal container right away after use.
+- Do not re-use the pre-filled pen.
+- Do not touch the cream-coloured safety guard.
 
-## 5b Check injection site.
+## 5b Check the injection site.
 
 - Do not rub the injection site.
-- If there is blood, press a cotton ball or gauze pad on your injection site. Apply an plaster if necessary.
+- If there is blood, press a cotton ball or gauze pad on your injection site. Apply a plaster if necessary.

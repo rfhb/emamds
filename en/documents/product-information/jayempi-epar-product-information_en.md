@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-22 11:12:20
-document_pages: 44
+document_datetime: 2026-04-23 13:47:42
+document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/jayempi-epar-product-information_en.pdf
 document_name: jayempi-epar-product-information_en.pdf
 version: success
-processing_time: 12.3417161
-conversion_datetime: 2025-12-19 02:24:13.982379
+processing_time: 13.3006088
+conversion_datetime: 2026-04-25 16:10:50.296993
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,9 +30,9 @@ Jayempi 10 mg/ml oral suspension
 
 Each ml of suspension contains 10 mg azathioprine.
 
-Excipients with known effect
+## Excipients with known effect
 
-The suspension contains 1.5 mg sodium benzoate (E211) in each ml.
+Each ml of suspension contains 1.5 mg sodium benzoate (E211).
 
 For the full list of excipients, see section 6.1.
 
@@ -46,9 +46,27 @@ Yellow viscous suspension
 
 ## 4.1 Therapeutic indications
 
+## Transplantation
+
 Jayempi is indicated in combination with other immunosuppressive agents for the prophylaxis of transplant rejection in patients receiving allogenic kidney, liver, heart, lung or pancreas transplants. Azathioprine is indicated in immunosuppressive regimens as an adjunct to immunosuppressive agents that form the mainstay of treatment (basis immunosuppression).
 
 Jayempi is used as an immunosuppressant antimetabolite either alone or, more commonly, in combination with other agents (usually corticosteroids) and/ or procedures which influence the immune response.
+
+## Chronic inflammatory bowel disease (IBD)
+
+Jayempi is used for the treatment of moderately severe to severe forms of chronic inflammatory bowel disease (IBD) (Crohn's disease or ulcerative colitis) in patients in whom glucocorticosteroid therapy is necessary, but where glucocorticosteroids are not tolerated, or in whom the disease is untreatable with other common means of first choice.
+
+## Multiple sclerosis (adults only)
+
+It is also indicated in adult patients in relapsing multiple sclerosis, if an immunomodulatory therapy is indicated but beta interferon therapy is not possible, or a stable course has been achieved with previous treatment with azathioprine.
+
+## Myasthenia gravis
+
+Jayempi is indicated for the treatment of generalised myasthenia gravis. Depending on the severity of the disease, Jayempi should be given in combination with glucocorticosteroids because of slow onset of action at the beginning of treatment and the glucocorticosteroid dose should be gradually reduced after several months of treatment.
+
+<div style=\"page-break-after: always\"></div>
+
+## Other conditions
 
 Jayempi is indicated in patients who are intolerant to glucocorticosteroids or if the therapeutic response is inadequate despite treatment with high doses of glucocorticosteroids, in the following diseases:
 
@@ -62,17 +80,9 @@ Jayempi is indicated in patients who are intolerant to glucocorticosteroids or i
 - -refractory auto-immune haemolytic anaemia, caused by warm IgG antibodies
 - -chronic refractory idiopathic thrombocytopenic purpura
 
-Jayempi is used for the treatment of moderately severe to severe forms of chronic inflammatory bowel disease (IBD) (Crohn's disease or ulcerative colitis) in patients in whom glucocorticosteroid therapy is necessary, but where glucocorticosteroids are not tolerated, or in whom the disease is untreatable with other common means of first choice.
-
-It is also indicated in adult patients in relapsing multiple sclerosis, if an immunomodulatory therapy is indicated but beta interferon therapy is not possible, or a stable course has been achieved with previous treatment with azathioprine.
-
-<div style=\"page-break-after: always\"></div>
-
-Jayempi is indicated for the treatment of generalised myasthenia gravis. Depending on the severity of the disease, Jayempi should be given in combination with glucocorticosteroids because of slow onset of action at the beginning of treatment and the glucocorticosteroid dose should be gradually reduced after several months of treatment.
-
 ## 4.2 Posology and method of administration
 
-Therapy with Jayempi should be initiated by a physician experienced in the administration and monitoring of immunosuppressive medicinal products.
+Treatment should be initiated by a physician experienced in the administration and monitoring of immunosuppressive medicinal products.
 
 ## Posology
 
@@ -102,17 +112,17 @@ Treatment with Jayempi should be continued for at least 2 to 3 years.
 
 The initial dose is usually between 1.0 and 1.5 mg/kg body weight/day and the maintenance dose is up to 2 mg/kg body weight/day.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Dose in other conditions
 
 In general, the starting dose is 1 to 3 mg/kg body weight/day and should be adjusted according to the clinical response (which may not be evident for weeks or months) and haematological tolerance.
 
 When therapeutic response is evident, consideration should be given to reducing the maintenance dose to the lowest level compatible with the maintenance of that response. If no improvement occurs in the patient's condition within 3 to 6 months, consideration should be given to withdrawing the medicinal product.
 
-The maintenance dose required may range from less than 1 mg/kg/body weight/day to 3 mg/kg/body weight/day depending on the clinical condition being treated and the individual patient response, including haematological tolerance.
+The maintenance dose required may range from less than 1 mg/kg body weight/day to 3 mg/kg body weight/day depending on the clinical condition being treated and the individual patient response, including haematological tolerance.
 
 However, in patients with IBD, a treatment duration of at least 12 months should be considered, whereby a response to treatment may only be recognisable clinically after three to four months.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Interactions with xanthine oxidase inhibitors
 
@@ -120,12 +130,14 @@ With concomitant use of xanthine oxidase inhibitors such as allopurinol, oxipuri
 
 The table below shows, for a range of age, weight and doses, the dose (mg) to volume (ml) conversion using the two oral syringes.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 1: Dose (mg) to volume (ml) conversion using the two oral syringes
 
-| Age (Years)   | Weight* (Kg)   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   |
+| Age (years)   | Weight* (kg)   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   |
 |---------------|----------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
-| Age (Years)   | Weight* (Kg)   | 1mg/kg  | 1mg/kg  | 2mg/kg  | 2mg/kg  | 3mg/kg  | 3mg/kg  | 4mg/kg  | 4mg/kg  | 5mg/kg  | 5mg/kg  |
-| Age (Years)   | Weight* (Kg)   | mg      | ml      | mg      | ml      | mg      | ml      | mg      | ml      | mg      | ml      |
+| Age (years)   | Weight* (kg)   | 1 mg/kg | 1 mg/kg | 2 mg/kg | 2 mg/kg | 3 mg/kg | 3 mg/kg | 4 mg/kg | 4 mg/kg | 5 mg/kg | 5 mg/kg |
+| Age (years)   | Weight* (kg)   | mg      | ml      | mg      | ml      | mg      | ml      | mg      | ml      | mg      | ml      |
 | 0             | 3.3            | 3.3     | 0.3     | 6.6     | 0.7     | 9.9     | 1.0     | 13.2    | 1.3     | 16.5    | 1.7     |
 | 1 month       | 4.5            | 4.5     | 0.5     | 9.0     | 0.9     | 13.5    | 1.4     | 18.0    | 1.8     | 22.5    | 2.3     |
 | 2 months      | 5.6            | 5.6     | 0.6     | 11.2    | 1.1     | 16.8    | 1.7     | 22.4    | 2.2     | 28.0    | 2.8     |
@@ -148,43 +160,11 @@ Table 1: Dose (mg) to volume (ml) conversion using the two oral syringes
 | 15.0          | 55.5           | 55.5    | 5.50    | 111.0   | 11.00   | 166.5   | 16.75   | 222.0   | 22.25   | 277.5   | 27.75   |
 | 18.0          | 67.0           | 67.0    | 6.75    | 134.0   | 13.50   | 201.0   | 20.00   | 268.0   | 26.75   | 335.0   | 33.50   |
 
-*50 th percentile for boys extracted from WHO (0-10 years) and UK (11-18 years) growth charts †Doses less than or equal to 30 mg to be drawn up using the 3 ml oral syringe with 0.1 ml (1mg) graduations. Doses greater than 30 mg to be drawn up using the 10 ml oral syringe with 0.25 ml (2.5mg) graduations (shaded cells).
+*50 th percentile for boys extracted from World Health Organization (0-10 years) and United Kingdom (11-18 years) growth charts
+
+†Doses less than or equal to 30 mg to be drawn up using the 3 ml oral syringe with 0.1 ml (1 mg) graduations. Doses greater than 30 mg to be drawn up using the 10 ml oral syringe with 0.25 ml (2.5 mg) graduations (shaded cells).
 
 ## Special populations
-
-Paediatric population
-
-## Transplantation
-
-The posology in paediatric population is the same as in adults.
-
-## Myasthenia gravis
-
-The posology in paediatric population is the same as in adults.
-
-## Chronic active auto-immune hepatitis
-
-The posology in paediatric population is the same as in adults.
-
-## Dose in other conditions
-
-The posology in paediatric population is the same as in adults.
-
-<div style=\"page-break-after: always\"></div>
-
-## Juvenile idiopathic arthritis
-
-The safety and efficacy of Jayempi in children (0 to 16 years) have not yet been established. No data are available.
-
-## Multiple sclerosis
-
-There is no relevant use of Jayempi in the paediatric population for the indication of multiple sclerosis.
-
-## Overweight children
-
-Children considered to be overweight may require doses at the higher end of the dose range.
-
-Therefore, close monitoring of response to treatment is recommended (see section 5.2).
 
 ## Elderly
 
@@ -192,7 +172,7 @@ It is recommended to monitor the kidney and liver function and reduce the dose i
 
 ## Renal and hepatic impairment
 
-In patients with hepatic and/or renal impairment the dose should be reduced to the lower end of the normal range (see section 4.4).
+In patients with hepatic and/or renal impairment, the dose should be reduced to the lower end of the normal range (see section 4.4).
 
 ## Patients with TPMT deficiency
 
@@ -200,9 +180,29 @@ Patients with inherited little or no thiopurine S-methyltransferase (TPMT) activ
 
 Most patients with heterozygous TPMT deficiency can tolerate recommended azathioprine doses, but some may require dose reduction. Genotypic and phenotypic tests of TPMT are available (see sections 4.4 and 5.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Patients with the NUDT15 variant
 
-Patients with inherited mutated NUDT15 gene are at increased risk for severe azathioprine toxicity (see section 4.4). These patients generally require dose reduction; particularly those being NUDT15 variant homozygotes. Genotypic testing of NUDT15 variants may be considered before initiating azathioprine therapy. In any case, close monitoring of blood counts is necessary (see section 4.4).
+Patients with inherited mutated nudix hydrolase 15 (NUDT15) gene are at increased risk for severe azathioprine toxicity (see section 4.4). These patients generally require dose reduction; particularly those being NUDT15 variant homozygotes. Genotypic testing of NUDT15 variants may be considered before initiating azathioprine therapy. In any case, close monitoring of blood counts is necessary (see section 4.4).
+
+## Paediatric population
+
+## Juvenile idiopathic arthritis
+
+The safety and efficacy of Jayempi in children and adolescents from 0 to 16 years have not yet been established. No data are available.
+
+## Multiple sclerosis
+
+There is no relevant use of Jayempi in the paediatric population for the indication of multiple sclerosis.
+
+## Other conditions
+
+The posology in paediatric population is the same as in adults.
+
+## Overweight children
+
+Children considered to be overweight may require doses at the higher end of the dose range. Therefore, close monitoring of response to treatment is recommended (see section 5.2).
 
 ## Method of administration
 
@@ -218,12 +218,20 @@ Jayempi should be taken at least 1 hour before or 2 hours after a meal or milk.
 
 Water should be taken after each dose in order to ensure accurate and consistent dose delivery to the stomach.
 
+## Precaution to be taken before manipulating or administering the product
+
+Anyone handling Jayempi should wash their hands before and after administering a dose. To decrease the risk of exposure, parents and care givers should wear disposable gloves when handling Jayempi.
+
+Contact with skin or mucous membrane must be avoided. If Jayempi comes into contact with skin or mucosa, it should be washed immediately and thoroughly with soap and water. Spillages must be wiped immediately.
+
+Women who are pregnant, planning to be or breast-feeding should not handle Jayempi.
+
 <div style=\"page-break-after: always\"></div>
 
 ## 4.3 Contraindications
 
 - -Hypersensitivity to the active substance azathioprine, 6-mercaptopurine (metabolite of azathioprine) or to any of the excipients listed in section 6.1.
-- -Any live vaccine, especially BCG, smallpox, yellow fever (see section 4.5).
+- -Any live vaccine, especially Bacillus Calmette-Guérin (BCG), measles, mumps and rubella (MMR), smallpox, yellow fever (see section 4.5).
 - -Lactation (see section 4.6).
 
 ## 4.4 Special warnings and precautions for use
@@ -255,9 +263,9 @@ Patients receiving azathioprine must be advised to inform their doctor immediate
 
 <div style=\"page-break-after: always\"></div>
 
-## Thiopurine methyltransferase (TPMT)
+## Thiopurine S-methyltransferase (TPMT)
 
-About 10% of patients have decreased activity of the enzyme thiopurine methyltransferase (TPMT) as a result of genetic polymorphism. Especially in homozygous individuals, the degradation of azathioprine is impaired, so there is a higher risk of myelotoxic effects.
+About 10% of patients have decreased activity of the enzyme thiopurine S-methyltransferase (TPMT) as a result of genetic polymorphism. Especially in homozygous individuals, the degradation of azathioprine is impaired, so there is a higher risk of myelotoxic effects.
 
 This effect can be enhanced by co-administration with medicinal products which inhibit the enzyme TPMT, e.g. olsalazine, mesalazine and sulfasalazine (see section 4.5). Also a possible link between decreased TPMT activity and secondary leukaemia and myelodysplasia has been reported in individual patients receiving 6-mercaptopurine (the active metabolite of azathioprine) in combination with other cytotoxics (see section 4.8).
 
@@ -265,7 +273,7 @@ Testing for TPMT deficiency is recommended before treatment, in particular for a
 
 ## Patients with the NUDT15 variant
 
-Patients with inherited mutated NUDT15 gene are at increased risk of severe azathioprine toxicity, such as early leucopenia and alopecia, with conventional doses of thiopurine therapy. They generally require dose reduction, particularly those being homozygous carriers of NUDT15 variants (see section 4.2). The frequency of NUDT15 c.415C&gt;T has an ethnic variability of approximately 10% in East Asians, 4% in Hispanics, 0.2% in Europeans and 0% in Africans. In any case, close monitoring of blood counts is necessary.
+Patients with inherited mutated nudix hydrolase 15 (NUDT15) gene are at increased risk of severe azathioprine toxicity, such as early leukopenia and alopecia, with conventional doses of thiopurine therapy. They generally require dose reduction, particularly those being homozygous carriers of NUDT15 variants (see section 4.2). The frequency of NUDT15 c.415C&gt;T has an ethnic variability of approximately 10% in East Asians, 4% in Hispanics, 0.2% in Europeans and 0% in Africans. In any case, close monitoring of blood counts is necessary.
 
 ## Lesch-Nyhan syndrome
 
@@ -279,9 +287,9 @@ Before starting the administration of immunosuppressants, the prescriber should 
 
 If the patient is infected with VZV, appropriate measures should be taken, which may include antiviral therapy, discontinuation of treatment with azathioprine and supportive care.
 
-## Progressive Multifocal Leucoencephalopathy (PML)
+## Progressive Multifocal Leukoencephalopathy (PML)
 
-PML, an opportunistic infection caused by the JC virus, has been reported in patients receiving azathioprine with other immunosuppressive agents (see section 4.8). Immunosuppressive therapy should be withheld at the first signs or symptoms indicating PML and appropriate evaluation should be undertaken to establish a diagnosis.
+PML, an opportunistic infection caused by the John Cunningham (JC) virus, has been reported in patients receiving azathioprine with other immunosuppressive agents (see section 4.8). Immunosuppressive therapy should be withheld at the first signs or symptoms indicating PML and appropriate evaluation should be undertaken to establish a diagnosis.
 
 ## Mutagenicity
 
@@ -299,11 +307,11 @@ Patients receiving immunosuppressive therapy, including azathioprine, are at inc
 
 A treatment regimen containing multiple immunosuppressants (including thiopurines) should therefore be used with caution as this could lead to lymphoproliferative disorders, some with reported fatalities. A combination of multiple immunosuppressants given concomitantly increases the risk of EpsteinBarr virus (EBV)-associated lymphoproliferative disorders.
 
-There are reports of hepatosplenic T-cell lymphoma in IBD patients who use azathioprine concomitantly with anti-TNF medicinal products.
+There are reports of hepatosplenic T-cell lymphoma in IBD patients who use azathioprine concomitantly with anti-TNF medicinal products (see section 4.8).
 
 Patients receiving multiple immunosuppressive agents may be at risk of over-immunosuppression. Therefore, such therapy should be maintained at the lowest effective dose level.
 
-The same as for patients with a high risk of developing skin cancers, exposure to sunlight and UV light should be limited and patients should wear protective clothing and use a sunscreen with a high protection factor to minimise the risk of skin cancer and photosensitivity (see also section 4.8).
+The same as for patients with a high risk of developing skin cancers, exposure to sunlight and UV light should be limited and patients should wear protective clothing and use a sunscreen with a high protection factor to minimise the risk of skin cancer and photosensitivity (see section 4.8).
 
 ## Macrophage activation syndrome
 
@@ -311,7 +319,7 @@ Macrophage activation syndrome (MAS) is a known, life-threatening disorder that 
 
 ## Teratogenicity/contraceptive measures
 
-In preclinical studies azathioprine was mutagenic and teratogenic (see section 5.3). Since there are conflicting findings on the teratogenic potential of azathioprine in humans, contraceptive measures must be taken by both male and female patients of reproductive age during azathioprine therapy for at least six months after the end of azathioprine therapy. This applies also to patients with impaired fertility due to chronic uraemia, since fertility usually returns to normal after transplantation. Azathioprine has been reported to interfere with the effectiveness of intrauterine contraceptive devices (coil or T-shaped 'copper coil'). Therefore, it is recommended to use other or additional contraceptive measures (see also section 4.6).
+In preclinical studies azathioprine was mutagenic and teratogenic (see section 5.3). Since there are conflicting findings on the teratogenic potential of azathioprine in humans, contraceptive measures must be taken by both male and female patients of reproductive age during azathioprine therapy for at least six months after the end of azathioprine therapy. This applies also to patients with impaired fertility due to chronic uraemia, since fertility usually returns to normal after transplantation. Azathioprine has been reported to interfere with the effectiveness of intrauterine contraceptive devices (coil or T-shaped 'copper coil'). Therefore, it is recommended to use other or additional contraceptive measures (see section 4.6).
 
 ## Neuromuscular blocking agents
 
@@ -325,29 +333,31 @@ Vaccination with live vaccines can cause infections in immunocompromised patient
 
 ## Metabolic and nutritional disorders
 
-The administration of purine analogues (azathioprine and mercaptopurine) may interfere with the niacin pathway, potentially leading to nicotinic acid deficiency/pellagra. Some cases have been reported with the use of azathioprine, particularly in patients with chronic inflammatory bowel disease. The diagnosis of pellagra should be considered in patients with a localised pigmented rash, gastroenteritis, and extensive neurological deficits including cognitive deterioration. Appropriate medical care with niacin/nicotinamide supplementation must be initiated, and dose reduction or discontinuation of azathioprine must be considered.
+The administration of purine analogues (azathioprine and mercaptopurine) may interfere with the niacin pathway, potentially leading to nicotinic acid deficiency/pellagra. Some cases have been reported with the use of azathioprine, particularly in patients with chronic inflammatory bowel disease (see section 4.8). The diagnosis of pellagra should be considered in patients with a localised pigmented rash, gastroenteritis, and extensive neurological deficits including cognitive deterioration. Appropriate medical care with niacin/nicotinamide supplementation must be initiated, and dose reduction or discontinuation of azathioprine must be considered.
 
 ## Ribavirin
 
 Concomitant use of ribavirin and azathioprine is not recommended. Ribavirin can reduce the efficacy of azathioprine and increase the toxicity levels of azathioprine (see section 4.5).
 
-## Myelosuppressive agents
+## Cytostatic/myelosuppressive agents
 
-The dose should be reduced with concomitant use of azathioprine and myelosuppressive agents.
+Where possible, concomitant administration of cytostatic medicinal products, or medicinal products which may have a myelosuppressive effect, such as penicillamine, should be avoided (see section 4.5). If combined with glucocorticosteroids, the azathioprine dose should be adjusted according to the clinical response (which may not be evident for weeks or months) and haematological tolerance and the glucocorticosteroid dose should be gradually reduced after several months of treatment (see section 4.2).
 
 ## Posterior reversible encephalopathy syndrome (PRES)
 
-Cases of posterior reversible encephalopathy syndrome (PRES) have been reported in patients using azathioprine. If patients using azathioprine present with symptoms indicating PRES such as headache, altered mental status, seizures, hypertension, and visual disturbances, a diagnostic imaging should be performed. If PRES is diagnosed, adequate blood pressure and seizure control and immediate discontinuation of azathioprine is advised. Most cases reported resolved following discontinuation of azathioprine and appropriate treatment.
+Cases of posterior reversible encephalopathy syndrome (PRES) have been reported in patients using azathioprine (see section 4.8). If patients using azathioprine present with symptoms indicating PRES such as headache, altered mental status, seizures, hypertension, and visual disturbances, a diagnostic imaging should be performed. If PRES is diagnosed, adequate blood pressure and seizure control and immediate discontinuation of azathioprine is advised. Most cases reported resolved following discontinuation of azathioprine and appropriate treatment.
 
-## Excipients
+## Excipients with known effect
 
 ## Sodium benzoate
 
-This medicinal product contains 1.5 mg sodium benzoate in each 1 ml which is equivalent to 300 mg/ 200 ml.
+This medicinal product contains 1.5 mg sodium benzoate in each 1 ml which is equivalent to 300 mg/200 ml. Sodium benzoate may increase jaundice (yellowing of the skin and eyes) in newborn babies (up to 4 weeks old).
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol (23mg) sodium per dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol (23 mg) sodium per dose, that is to say essentially 'sodium-free'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -361,8 +371,6 @@ A decreased immune response to inactivated or toxoid vaccines is likely. This ha
 
 Therefore, the vaccination success should always be checked with a titre determination.
 
-<div style=\"page-break-after: always\"></div>
-
 A small clinical study has indicated that standard therapeutic doses of azathioprine do not deleteriously affect the immune response to a polyvalent pneumococcal vaccine (as assessed on the basis of mean anti-capsular specific antibody concentration).
 
 ## Effects of concomitantly administered medicinal products on azathioprine
@@ -375,9 +383,7 @@ Ribavirin inhibits the enzyme inosine monophosphate dehydrogenase (IMPDH), leadi
 
 Where possible, concomitant administration of cytostatic medicinal products, or medicinal products which may have a myelosuppressive effect, such as penicillamine, should be avoided (see section 4.4). There are conflicting clinical reports of interactions, resulting in serious haematological abnormalities, between azathioprine and trimethoprim/sulfamethoxazole.
 
-There have been case reports suggesting that haematological abnormalities may develop due to the concomitant administration of azathioprine and ACE Inhibitors.
-
-It has been suggested that cimetidine and indometacin may have myelosuppressive effects which may be enhanced by concomitant administration of azathioprine.
+There have been case reports suggesting that haematological abnormalities may develop due to the concomitant administration of azathioprine and angiotensin-converting enzyme (ACE) inhibitors. It has been suggested that cimetidine and indomethacin may have myelosuppressive effects which may be enhanced by concomitant administration of azathioprine.
 
 ## Allopurinol/oxipurinol/thiopurinol and other xanthine oxidase inhibitors
 
@@ -389,6 +395,8 @@ Based on non-clinical data, other xanthine oxidase inhibitors, such as febuxosta
 
 There is in vitro and in vivo evidence that aminosalicylate derivatives (e.g. olsalazine, mesalazine and sulfasalazine) inhibit the TPMT enzyme. Therefore, lower doses of azathioprine should be considered when administered concomitantly with aminosalicylate derivatives (see also section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Methotrexate
 
 20 mg/m 2  oral methotrexate increased the AUC of 6-mercaptopurine by approximately 31% and 2 or 5 g/m 2 intravenous methotrexate increased the AUC of 6-mercaptopurine by 69% and 93% respectively. Therefore, when azathioprine is administered concomitantly with high-dose methotrexate, the dose should be adjusted to maintain a suitable white blood cell count.
@@ -396,8 +404,6 @@ There is in vitro and in vivo evidence that aminosalicylate derivatives (e.g. ol
 ## Infliximab
 
 An interaction has been observed between azathioprine and infliximab. Patients receiving ongoing azathioprine experienced transient increases in thioguanine nucleotide levels (an active metabolite of azathioprine) and a decrease in the mean leukocyte count in the initial weeks following infliximab infusion, which returned to previous levels after 3 months.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effects of azathioprine on concomitantly administered medicinal products
 
@@ -411,17 +417,21 @@ There is clinical evidence that azathioprine antagonises the effect of non-depol
 
 ## 4.6 Fertility, pregnancy and lactation
 
+## Men and women of childbearing potential
+
+Both male and female patients of reproductive age should use contraceptive methods while using azathioprine (see section 4.4). Men should not father children during and up to 6 months after the end of treatment. This also applies to patients with reduced fertility due to chronic uraemia, as fertility generally returns to normal after a transplant.
+
+Case reports indicate that intrauterine devices (IUD) (coil or T-shaped 'copper coil') can fail under azathioprine therapy. Therefore, other or additional contraceptive methods should be recommended.
+
 ## Pregnancy
 
 Malformations occurred in animal experiments due to azathioprine. In animal studies azathioprine was teratogenic and embryotoxic (see section 5.3). There are conflicting findings on the teratogenic potential of azathioprine in humans. Azathioprine must only be used during pregnancy after a careful benefit/risk analysis.
 
-Both male and female patients of reproductive age should use contraceptive methods while using azathioprine. Men should not father children during and up to 6 months after the end of treatment. This also applies to patients with reduced fertility due to chronic uraemia, as fertility generally returns to normal after a transplant.
-
-Case reports indicate that intrauterine devices (IUD) (coil or T-shaped 'copper coil') can fail under azathioprine therapy. Therefore, other or additional contraceptive methods should be recommended.
-
 It is known that considerable amounts of azathioprine and its metabolites pass through the placenta and amniotic sac, and are thereby transferred from the mother to the foetus.
 
-Blood count changes (leucopenia and/or thrombocytopenia) have been reported in a number of neonates whose mothers received azathioprine during pregnancy. Extra care in haematological monitoring of the mother is advised during pregnancy.
+Blood count changes (leukopenia and/or thrombocytopenia) have been reported in a number of neonates whose mothers received azathioprine during pregnancy. Extra care in haematological monitoring of the mother is advised during pregnancy.
+
+<div style=\"page-break-after: always\"></div>
 
 Temporary impairment of the immune response was detected in neonates from intrauterine exposure to a combination of azathioprine with prednisone. There have been reports of intrauterine growth retardation, premature births and low birth weights vis-à-vis azathioprine, in particular in combination with corticosteroids. Moreover, data is available on spontaneous abortions after both maternal and paternal exposure.
 
@@ -429,11 +439,9 @@ Chromosomal abnormalities, which disappear with time, have been demonstrated in 
 
 Cholestasis of pregnancy has occasionally been reported in association with azathioprine therapy. Early diagnosis and discontinuation of azathioprine may minimise the effects on the foetus. However, the maternal benefit and the effects on the foetus should be carefully assessed if cholestasis of pregnancy is confirmed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Breast-feeding
 
-6-Mercaptopurine, the active metabolite of azathioprine, has been identified in the colostrum and breast milk of women receiving azathioprine treatment. Breast-feeding and concomitant use of azathioprine are contra-indicated (see section 4.3). If treatment with azathioprine is unavoidable, breast-feeding should be discontinued.
+6-Mercaptopurine, the active metabolite of azathioprine, has been identified in the colostrum and breast milk of women receiving azathioprine treatment. Jayempi is contraindicated during breastfeeding (see section 4.3). If treatment with azathioprine is unavoidable, breast-feeding should be discontinued.
 
 ## Fertility
 
@@ -447,44 +455,46 @@ Jayempi has no or negligible influence on the ability to drive and use machines.
 
 ## Summary of the safety profile
 
-The most important adverse reactions include bone marrow depression, most frequently expressed as leukopenia and thrombocytopenia; viral, fungal and bacterial infections; life-threatening liver injury; hypersensitivity, Stevens-Johnson syndrome and toxic epidermal necrolysis.
+The most frequently reported adverse reactions include bone marrow depression, most frequently expressed as leukopenia and thrombocytopenia as well as viral, fungal and bacterial infections after using azathioprine in combination with other immunosuppressants. The most serious adverse reactions are usually rare to very rare and include life-threatening liver injury , neoplasms including hepatosplenic T-cell lymphoma, hypersensitivity, Stevens-Johnson syndrome and toxic epidermal necrolysis.
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions are listed below according to system organ class and frequency. The frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/ 10,000), not known (cannot be estimated from the available data).
-
-| System organ class                                                   | Frequency   | Adverse reactions                                                                                                                                                                                                                                             |
-|----------------------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                                          | Very common | Viral, fungal and bacterial infections (in transplant recipients who are treated with azathioprine in combination with other immune-suppressants)                                                                                                             |
-| Infections and infestations                                          | Uncommon    | Viral, fungal and bacterial infections (in other patients)                                                                                                                                                                                                    |
-| Infections and infestations                                          | Very rare   | Cases of progressive multifocal leukoencephalopathy (PML) caused by the JC virus have been reported after using azathioprine in combination with other immunosuppressants (see section 4.4)                                                                   |
-| Neoplasms benign, malignant and unspecified (incl. cysts and polyps) | Rare        | Neoplasms including lymphoproliferative disorders, skin cancers (malignant melanomas and non- melanomas), sarcomas (Kaposi's and non-Kaposi's), uterine cancer, cervix carcinoma, acute myeloid leukaemia and myelodysplastic syndrome (see also section 4.4) |
-| Neoplasms benign, malignant and unspecified (incl. cysts and polyps) | Very rare   | Hepatosplenic T-cell lymphoma (in IBD patients using other anti- TNF drugs concomitantly)                                                                                                                                                                     |
+The adverse reactions are listed below according to system organ class and frequency. The frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                              | Frequency   | Adverse reactions                                                                                                                           |
-|-------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders            | Very common | Leukopenia, bone marrow depression                                                                                                          |
-| Blood and lymphatic system disorders            | Common      | Thrombocytopenia                                                                                                                            |
-| Blood and lymphatic system disorders            | Uncommon    | Anaemia                                                                                                                                     |
-| Blood and lymphatic system disorders            | Rare        | Agranulocytosis, pancytopenia, aplastic anaemia, megaloblastic anaemia and erythroid hypoplasia                                             |
-| Blood and lymphatic system disorders            | Very rare   | Haemolytic anaemia                                                                                                                          |
-| Immune system disorders                         | Uncommon    | Hypersensitivity                                                                                                                            |
-| Immune system disorders                         | Very rare   | Stevens-Johnson syndrome and toxic epidermal necrolysis                                                                                     |
-| Nervous system disorders                        | Not known   | Posterior reversible encephalopathy syndrome (PRES), tremor                                                                                 |
-| Metabolism and nutrition disorders              | Not known   | Pellagra (see section 4.4)                                                                                                                  |
-| Respiratory, thoracic and mediastinal disorders | Very rare   | Pneumonitis (reversible)                                                                                                                    |
-| Gastrointestinal disorders                      | Common      | Nausea, vomiting                                                                                                                            |
-| Gastrointestinal disorders                      | Uncommon    | Pancreatitis                                                                                                                                |
-| Gastrointestinal disorders                      | Very rare   | Colitis, diverticulitis and intestinal perforation in transplant recipients, diarrhoea (severe) in patients with inflammatory bowel disease |
-| Gastrointestinal disorders                      | Not known   | Sialoadenitis                                                                                                                               |
-| Hepatobiliary disorders                         | Uncommon    | Cholestasis                                                                                                                                 |
-| Hepatobiliary disorders                         | Rare        | Liver injury                                                                                                                                |
-| Hepatobiliary disorders                         | Not known   | Non-cirrhotic portal hypertension, portosinusoidal vascular disease                                                                         |
-| Skin and subcutaneous tissue disorders          | Rare        | Alopecia                                                                                                                                    |
-| Skin and subcutaneous tissue disorders          | Not known   | Acute febrile neutrophilic dermatosis (Sweet's syndrome), photosensitivity reaction                                                         |
-| Investigations                                  | Uncommon    | Liver function test abnormal                                                                                                                |
+| System organ class                                                   | Frequency   | Adverse reactions                                                                                                                                                                                                                                             |
+|----------------------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                                          | Very common | Viral, fungal and bacterial infections (in transplant recipients who are treated with azathioprine in combination with other immunosuppressants)                                                                                                              |
+| Infections and infestations                                          | Uncommon    | Viral, fungal and bacterial infections (in other patients)                                                                                                                                                                                                    |
+| Infections and infestations                                          | Very rare   | Cases of progressive multifocal leukoencephalopathy (PML) caused by the JC virus have been reported after using azathioprine in combination with other immunosuppressants (see section 4.4)                                                                   |
+| Neoplasms benign, malignant and unspecified (incl. cysts and polyps) | Rare        | Neoplasms including lymphoproliferative disorders, skin cancers (malignant melanomas and non- melanomas), sarcomas (Kaposi's and non-Kaposi's), uterine cancer, cervix carcinoma, acute myeloid leukaemia and myelodysplastic syndrome (see also section 4.4) |
+| Neoplasms benign, malignant and unspecified (incl. cysts and polyps) | Very rare   | Hepatosplenic T-cell lymphoma (in IBD patients using other anti- TNF medicinal products concomitantly)                                                                                                                                                        |
+| Blood and lymphatic system disorders                                 | Very common | Bone marrow depression, leukopenia                                                                                                                                                                                                                            |
+| Blood and lymphatic system disorders                                 | Common      | Thrombocytopenia                                                                                                                                                                                                                                              |
+| Blood and lymphatic system disorders                                 | Uncommon    | Anaemia                                                                                                                                                                                                                                                       |
+| Blood and lymphatic system disorders                                 | Rare        | Aplastic anaemia, agranulocytosis, pancytopenia, megaloblastic anaemia and erythroid hypoplasia                                                                                                                                                               |
+| Blood and lymphatic system disorders                                 | Very rare   | Haemolytic anaemia                                                                                                                                                                                                                                            |
+| Immune system disorders                                              | Uncommon    | Hypersensitivity                                                                                                                                                                                                                                              |
+| Immune system disorders                                              | Very rare   | Stevens-Johnson syndrome and toxic epidermal necrolysis                                                                                                                                                                                                       |
+| Metabolism and nutrition disorders                                   | Not known   | Pellagra (see section 4.4)                                                                                                                                                                                                                                    |
+| Nervous system disorders                                             | Not known   | Posterior reversible encephalopathy syndrome (PRES), tremor                                                                                                                                                                                                   |
+| Respiratory, thoracic and mediastinal disorders                      | Very rare   | Pneumonitis (reversible)                                                                                                                                                                                                                                      |
+| Gastrointestinal disorders                                           | Common      | Nausea, vomiting                                                                                                                                                                                                                                              |
+| Gastrointestinal disorders                                           | Uncommon    | Pancreatitis                                                                                                                                                                                                                                                  |
+| Gastrointestinal disorders                                           | Very rare   | Colitis, diverticulitis and intestinal perforation in transplant recipients, diarrhoea (severe) in patients with inflammatory bowel disease                                                                                                                   |
+| Gastrointestinal disorders                                           | Not known   | Sialoadenitis                                                                                                                                                                                                                                                 |
+| Hepatobiliary disorders                                              | Uncommon    | Cholestasis                                                                                                                                                                                                                                                   |
+| Hepatobiliary disorders                                              | Rare        | Liver injury                                                                                                                                                                                                                                                  |
+| Hepatobiliary disorders                                              | Not known   | Non-cirrhotic portal hypertension, portosinusoidal vascular disease                                                                                                                                                                                           |
+| Skin and subcutaneous tissue disorders                               | Rare        | Alopecia                                                                                                                                                                                                                                                      |
+| Skin and subcutaneous tissue disorders                               | Not known   | Acute febrile neutrophilic dermatosis (Sweet's syndrome), photosensitivity reaction                                                                                                                                                                           |
+
+<div style=\"page-break-after: always\"></div>
+
+| System organ class   | Frequency   | Adverse reactions            |
+|----------------------|-------------|------------------------------|
+| Investigations       | Uncommon    | Liver function test abnormal |
 
 ## Description of selected adverse reactions
 
@@ -496,13 +506,11 @@ Patients receiving azathioprine alone or in combination with other immunosuppres
 
 The risk of developing non-Hodgkin's lymphoma and other malignancies, notably skin cancers (melanoma and non-melanoma), sarcomas (Kaposi's and non-Kaposi's) and uterine cervical cancer in situ , is increased in patients who receive immunosuppressants, particularly in transplant patients receiving aggressive treatment, and such therapy should be maintained at the lowest effective levels (see section 4.4). The increased risk of developing non-Hodgkin's lymphomas in immunosuppressed rheumatoid arthritis patients compared with the general population appears to be related at least in part to the disease itself.
 
-There have been rare reports of acute myeloid leucaemia and myelodysplasia (some in association with chromosomal abnormalities).
-
-<div style=\"page-break-after: always\"></div>
+There have been rare reports of acute myeloid leukaemia and myelodysplasia (some in association with chromosomal abnormalities).
 
 ## Blood and lymphatic system disorders
 
-The most common adverse reaction of azathioprine is a dose-related, generally reversible, depression of bone marrow function, most frequently expressed as leucopenia, but also sometimes as thrombocytopenia and anaemia, and rarely as agranulocytosis, pancytopenia and aplastic anaemia. These occur particularly in patients predisposed to myelosuppression, such as those with TPMT deficiency and renal or hepatic impairment and in patients failing to reduce the dose of azathioprine when receiving concurrent allopurinol therapy (see sections 4.2 and 4.5).
+The most common adverse reaction of azathioprine is a dose-related, generally reversible, depression of bone marrow function, most frequently expressed as leukopenia, but also sometimes as thrombocytopenia and anaemia, and rarely as agranulocytosis, pancytopenia and aplastic anaemia. These occur particularly in patients predisposed to myelosuppression, such as those with TPMT deficiency and renal or hepatic impairment and in patients failing to reduce the dose of azathioprine when receiving concurrent allopurinol therapy (see sections 4.2 and 4.5).
 
 Reversible, dose-related macrocytosis and increase in red cell haemoglobin content have occurred in association with azathioprine therapy. Megaloblastic bone marrow changes have also been observed but severe megaloblastic anaemia and erythroid hypoplasia are rare.
 
@@ -516,7 +524,11 @@ Immediate withdrawal of azathioprine and institution of circulatory support wher
 
 ## Gastrointestinal disorders
 
-Gastrointestinal disorders occur primarily in the form of nausea after taking oral azathioprine. A small number of patients experience nausea when first given azathioprine. To reduce nausea, the dose should be taken after a meal.
+Gastrointestinal disorders occur primarily in the form of nausea after taking oral azathioprine.
+
+<div style=\"page-break-after: always\"></div>
+
+A small number of patients experience nausea when first given azathioprine. To reduce nausea, the dose should be taken after a meal.
 
 Pancreatitis has been reported in patients on azathioprine therapy, particularly in renal transplant patients and those diagnosed as having inflammatory bowel disease. It is difficult to attribute pancreatitis to the administration of one particular medicinal product, although re-challenge has confirmed an association with azathioprine in some instances.
 
@@ -530,8 +542,6 @@ Dose-dependent cholestasis and deterioration of liver function have occasionally
 
 Rare, but life-threatening hepatic damage associated with chronic administration of azathioprine has been described. Histological findings include sinusoidal dilatation, peliosis hepatis, veno-occlusive disease and nodular regenerative hyperplasia. In some cases, withdrawal of azathioprine has resulted in either temporary or permanent improvement in liver histology and the symptoms.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Skin and subcutaneous tissue disorders
 
 Alopecia has been described for both monotherapy and combined therapy with azathioprine. In many instances, the condition resolved spontaneously despite continuing therapy. The relationship between alopecia and azathioprine treatment is still unclear.
@@ -544,7 +554,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## Symptoms
 
-The most common effect of overdose with azathioprine is myelosuppression with blood count disorders, which may be maximal after 9 to 14 days. The main symptoms of myelosuppression are mouth and throat ulceration, bruising, fever of unknown aetiology and unexplained infection. Furthermore, spontaneous bleeding and extreme fatigue may occur. These symptoms are more likely to present following prolonged mild overdose, rather than after a single acute overdose. A case of a patient who ingested a single dose of 7.5 g azathioprine has been reported. Acute symptoms included nausea, vomiting and diarrhoea, followed by moderate leucopenia and mild impairment of the liver function. Recovery was without sequelae.
+The most common effect of overdose with azathioprine is myelosuppression with blood count disorders, which may be maximal after 9 to 14 days. The main symptoms of myelosuppression are mouth and throat ulceration, bruising, fever of unknown aetiology and unexplained infection. Furthermore, spontaneous bleeding and extreme fatigue may occur. These symptoms are more likely to present following prolonged mild overdose, rather than after a single acute overdose. A case of a patient who ingested a single dose of 7.5 g azathioprine has been reported. Acute symptoms included nausea, vomiting and diarrhoea, followed by moderate leukopenia and mild impairment of the liver function. Recovery was without sequelae.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Management
 
@@ -570,9 +582,9 @@ Other potential mechanisms of azathioprine include:
 
 Because of these mechanisms, the therapeutic effect of azathioprine may be evident only after several weeks or months of treatment (see section 4.2).
 
-<div style=\"page-break-after: always\"></div>
-
 Unlike 6-MP, the activity of the azathioprine metabolite 1-methyl-4-nitro-5-thioimidazole has not been clearly determined. However, compared with 6-MP it appears to modify the activity of azathioprine in several systems.
+
+## Clinical efficacy
 
 In a controlled study in patients with myasthenia gravis, azathioprine (2.5 mg/kg body weight/day) in combination with prednisolone proved to be significantly better in comparison to prednisolone and placebo in terms of treatment failure. Furthermore, a glucocorticosteroid-sparing effect was seen after 15 months. After 36 months, 63% in the azathioprine group required no further glucocorticosteroids, compared with only 20% in the placebo group.
 
@@ -582,11 +594,15 @@ In a controlled study in patients with myasthenia gravis, azathioprine (2.5 mg/k
 
 Azathioprine is incompletely and variably absorbed. The mean absolute bioavailability of 6-MP after administration of azathioprine 50 mg is 47% (range: 27-80%). The extent of absorption of azathioprine is similar throughout the gastrointestinal tract, including the stomach, jejunum and caecum. The extent of 6-MP absorption after application of azathioprine however, varies depending on where the absorption occurs, with the highest level in the jejunum, followed by the stomach and caecum.
 
-In a comparative bioavailability study in healthy adult volunteers (n=29), 50 mg of azathioprine oral suspension was demonstrated to be bioequivalent to the reference 50 mg tablet for AUC, but not Cmax. The mean (90% CI) Cmax with the oral suspension was 12% (93% - 135%) higher than the tablet although the range of Cmax observations was more or less the same for the oral suspension and tablet; 5.7 - 40.0 and 4.4 - 39.5 ng/ml, respectively.
+<div style=\"page-break-after: always\"></div>
+
+In a comparative bioavailability study in healthy adult volunteers (n=29), 50 mg of azathioprine oral suspension was demonstrated to be bioequivalent to the reference 50 mg tablet for AUC, but not Cmax. The mean (90% CI) Cmax with the oral suspension was 12% (93-135%) higher than the tablet although the range of Cmax observations was more or less the same for the oral suspension and tablet; 5.7-40.0 and 4.4-39.5 ng/ml, respectively.
 
 Although interactions with food were not studied, pharmacokinetic studies with 6-mercaptopurine have been conducted that are relevant to azathioprine. The mean relative bioavailability of 6mercaptopurine was approximately 26% lower after administration with food and milk compared to after fasting.
 
 6-mercaptopurine is not stable in milk due to the presence of xanthine oxidase (30% degradation within 30 minutes) (see 'Biotransformation'). Azathioprine should be taken at least 1 hour before or 2 hours after a meal or milk (see section 4.2).
+
+## Pharmacokinetic/pharmacodynamic relationship
 
 There is no correlation between the plasma concentrations of azathioprine and 6-mercaptopurine and the therapeutic efficacy or toxicity of azathioprine.
 
@@ -594,9 +610,7 @@ There is no correlation between the plasma concentrations of azathioprine and 6-
 
 Azathioprine is rapidly distributed in the body. The steady-state volume of distribution (Vdss) of azathioprine is unknown. The mean (± SD) apparent Vdss of 6-MP is 0.9 (± 0.8) l/kg, although this value is probably too low, since 6-MP is metabolised throughout the body and not just in the liver. Approximately 30% of azathioprine is bound to plasma proteins.
 
-Azathioprine and its metabolites pass through the central nervous system. 6-MP concentration in the cerebrospinal fluid are low or negligible after intravenous or oral use.
-
-<div style=\"page-break-after: always\"></div>
+Azathioprine and its metabolites pass through the central nervous system. 6-MP concentrations in the cerebrospinal fluid are low or negligible after intravenous or oral use.
 
 ## Biotransformation
 
@@ -610,7 +624,11 @@ There are indications that polymorphisms in the genes which encode the various e
 
 TPMT activity is inversely related to red blood cell 6-mercaptopurine-derived thioguanine nucleotide concentration, with higher thioguanine nucleotide concentrations resulting in greater reductions in white blood cell and neutrophil counts. Individuals with TPMT deficiency develop very high cytotoxic TGN concentrations.
 
-Genotypic testing can determine a patient's allelic pattern. Currently, 3 alleles - TPMT*2, TPMT*3A and TPMT*3C - account for 95% of individuals with reduced levels of TPMT activity. Approximately 0.3% (1:300) of patients have two non-functional alleles (homozygous-deficient) of the TPMT gene and have little or no detectable enzyme activity. Approximately 10% of patients have one TPMT non-functional allele (heterozygous) leading to low or intermediate TPMT activity, whereas 90% of individuals have normal TPMT activity with two functional alleles. For a group of about 2% it can also lead to very high TPMT activity. Phenotypic testing determines the level of thiopurine nucleotides or TPMT activity in red blood cells and can further provide other information (see section 4.4).
+Genotypic testing can determine a patient's allelic pattern. Currently, 3 alleles - TPMT*2, TPMT*3A and TPMT*3C - account for 95% of individuals with reduced levels of TPMT activity.
+
+<div style=\"page-break-after: always\"></div>
+
+Approximately 0.3% (1:300) of patients have two non-functional alleles (homozygous-deficient) of the TPMT gene and have little or no detectable enzyme activity. Approximately 10% of patients have one TPMT non-functional allele (heterozygous) leading to low or intermediate TPMT activity, whereas 90% of individuals have normal TPMT activity with two functional alleles. For a group of about 2% it can also lead to very high TPMT activity. Phenotypic testing determines the level of thiopurine nucleotides or TPMT activity in red blood cells and can further provide other information (see section 4.4).
 
 ## Elimination
 
@@ -624,11 +642,13 @@ The plasma half-life is 3 to 5 hours. After oral administration of 100 mg 35 S-a
 
 No specific studies have been carried out in the elderly (see section 4.2).
 
-<div style=\"page-break-after: always\"></div>
+## Paediatric population
+
+No specific studies have been carried out with azathioprine in the general paediatric population (see section 4.2).
 
 ## Overweight children
 
-In a clinical trial in the United States, 18 children between the ages of 3 and 14 were evenly split into two groups; the crucial factor was whether the ratio of weight to height was greater or less than the 75th percentile. Each child was undergoing maintenance treatment with 6-MP, whereby the body surface was the basis for the dose calculation. The mean AUC (0∞) of 6 -MP in the group greater than the 75th percentile was 2.4 times smaller than that in the group less than the 75th percentile. Therefore, under certain circumstances, overweight children need azathioprine doses in the upper range of the dose spectrum, and close monitoring of their response to treatment (see section 4.2).
+In a clinical trial in the United States, 18 children between the ages of 3 and 14 were evenly split into two groups; the crucial factor was whether the ratio of weight to height was greater or less than the 75 th percentile. Each child was undergoing maintenance treatment with 6-MP, whereby the body surface was the basis for the dose calculation. The mean AUC (0∞) of 6 -MP in the group greater than the 75 th percentile was 2.4 times smaller than that in the group less than the 75 th percentile. Therefore, under certain circumstances, overweight children need azathioprine doses in the upper range of the dose spectrum, and close monitoring of their response to treatment (see section 4.2).
 
 ## Renal impairment
 
@@ -640,13 +660,15 @@ Azathioprine and/or its metabolites are removed by haemodialysis, with approxima
 
 In case of hepatic impairment, the metabolism of azathioprine is altered. Conversion into the active metabolites is restricted. However, the elimination of metabolites is reduced (see sections 4.2 and 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 An azathioprine study was carried out on a group of kidney transplant patients. They were split into three groups: patients with no liver disease, patients with hepatic dysfunction (but with no cirrhosis) and patients with hepatic dysfunction and cirrhosis. The study showed that the 6-mercaptopurine level was 1.6 times higher in patients with hepatic dysfunction (but with no cirrhosis) and 6 times higher in patients with hepatic dysfunction and cirrhosis, compared with patients with no liver disease. Therefore, a dose reduction should be considered in the case of patients with impaired liver function (see section 4.2).
 
 ## 5.3 Preclinical safety data
 
 ## Reproductive toxicity
 
-In embryotoxicity studies azathioprine showed teratogenicity or embryo lethality in various animal species. In rabbits, a dose of 5-15 mg/kg body weight/day produced skeletal abnormalities. In mice and rats, doses of 1-2 mg/kg body weight/day were lethal to embryos.
+In embryotoxicity studies azathioprine showed teratogenicity or embryo lethality in various animal species. In rabbits, a dose of 5-15 mg/kg body weight/day produced skeletal abnormalities. In mice and rats, doses of 1-2 mg/kg body weight/day were lethal to embryos. These findings occurred at doses similar to or higher than human therapeutic exposure.
 
 ## Mutagenicity
 
@@ -656,7 +678,9 @@ Azathioprine was mutagenic in a number of in vitro and in vivo genotoxicity assa
 
 In long-term carcinogenicity studies of azathioprine in mice and rats receiving doses that were up to 2fold the human therapeutic dose and in lower doses administered in immuno-compromised mice, an increased incidence of lymphosarcomas (mice) and squamous cell tumours and carcinomas (rats) were observed.
 
-<div style=\"page-break-after: always\"></div>
+## Juvenile animal data
+
+No juvenile animal studies were conducted.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -674,23 +698,21 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Do not store above 25°C. Keep the bottle tightly closed (see section 6.6).
+Do not store above 25°C.
+
+<div style=\"page-break-after: always\"></div>
+
+Keep the bottle tightly closed (see section 6.6).
 
 ## 6.5 Nature and contents of container
 
-Amber type III glass bottle with tamper evident child-resistant closure (HDPE with expanded polyethylene liner) containing 200 ml of oral suspension.
+200 ml of oral suspension in an amber type III glass bottle with tamper evident child-resistant closure (HDPE with expanded polyethylene liner).
 
 Each pack contains one bottle, an LDPE bottle adaptor, a 3 ml oral dosing syringe (0.1 ml dose graduations) and a 10 ml oral dosing syringe (0.25 ml dose graduations).
 
 ## 6.6 Special precautions for disposal and other handling
 
-Anyone handling Jayempi should wash their hands before and after administering a dose. To decrease the risk of exposure, parents and care givers should wear disposable gloves when handling Jayempi.
-
-Contact with skin or mucous membrane must be avoided. If Jayempi comes into contact with skin or mucosa, it should be washed immediately and thoroughly with soap and water. Spillages must be wiped immediately.
-
-Women who are pregnant, planning to be or breast-feeding should not handle Jayempi.
-
-Parents / care givers and patients should be advised to keep Jayempi out of the sight and reach of children, preferably in a locked cupboard. Accidental ingestion can be lethal for children.
+Parents, care givers and patients should be advised to keep Jayempi out of the sight and reach of children, preferably in a locked cupboard. Accidental ingestion can be lethal for children.
 
 Keep the bottle tightly closed to protect the integrity of the medicinal product and minimise the risk of accidental spillage.
 
@@ -699,8 +721,6 @@ The bottle should be shaken to ensure the oral suspension is well mixed.
 ## Disposal
 
 Jayempi is cytotoxic. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -714,24 +734,26 @@ EU/1/21/1557/001
 
 Date of first authorisation: 21 June 2021
 
+Date of latest renewal:
+
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
 Lipomed GmbH Hegenheimer Strasse 2 79576 Weil am Rhein Germany
 
@@ -826,7 +848,9 @@ Open date:
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 25°C. Keep the bottle tightly closed.
+Do not store above 25°C.
+
+Keep the bottle tightly closed.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -846,20 +870,19 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Jayempi
 
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
 
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
@@ -918,35 +941,37 @@ Open date:
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. SPECIAL STORAGE CONDITIONS
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Do not store above 25°C. Keep the bottle tightly closed.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Lipomed GmbH Hegenheimer Strasse 2 79576 Weil am Rhein Germany
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/21/1557/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -987,7 +1012,7 @@ These medicines reduce the activity of your immune system (the body's defences).
 - Prevent your body from rejecting an organ transplant. Jayempi is usually used together with other immunosuppressants for this purpose.
 - Treat some long-term diseases where the immune system is reacting against your body. Jayempi is usually used in combination with steroids or other anti-inflammatory medicines. These diseases include:
 - -severe rheumatoid arthritis or chronic polyarthritis (long term chronic inflammation of multiple joints) which cannot be controlled by other medicines
-- -chronic inflammatory bowel diseases (diseases of the gut such as Crohn's disease and ulcerative colitis)
+- -moderately severe to severe forms of chronic inflammatory bowel diseases (diseases of the gut such as Crohn's disease and ulcerative colitis)
 - -chronic hepatitis (autoimmune hepatitis), a liver disease
 - -systemic lupus erythematosus (a disease in which the immune system attacks different organs)
 - -dermatomyositis (worsening muscle inflammation together with skin rash)
@@ -996,8 +1021,8 @@ These medicines reduce the activity of your immune system (the body's defences).
 - -Behçet's disease (recurrent inflammation, especially of the eyes and the oral and genital mucous membranes
 - -refractory autoimmune haemolytic anaemia (a blood disease in which the red blood cells are destroyed)
 - -chronic refractory idiopathic thrombocytopenic purpura (bleeding under the skin due to damage to the platelets and reduction of their numbers)
-- Treat relapsing multiple sclerosis.
-- Treat generalised myasthenia gravis (a disease that affects nerves and causes muscle weakness). In some cases Jayempi is given in combination with a steroid at the start of treatment.
+- -generalised myasthenia gravis (a disease that affects nerves and causes muscle weakness)
+- -relapsing multiple sclerosis
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1007,7 +1032,7 @@ These medicines reduce the activity of your immune system (the body's defences).
 
 - -if you are allergic to azathioprine, another medicine called mercaptopurine or any of the other ingredients of this medicine (listed in section 6).
 - -if you are breastfeeding.
-- -if you have recently had a vaccination with a live vaccine such as tuberculosis (BCG), chickenpox, MMR or yellow fever.
+- -if you have recently had a vaccination with a live vaccine such as tuberculosis (BCG), chickenpox, measles, mumps and rubella (MMR) or yellow fever.
 
 ## Warnings and precautions
 
@@ -1017,9 +1042,11 @@ Talk to your doctor, pharmacist or nurse before taking Jayempi:
 - -if you have a serious liver disease.
 - -if you have a disease of the bone marrow or the pancreas.
 - -if you suffer from a condition known as Lesch-Nyhan syndrome (hereditary deficiency of the enzyme Hypoxanthine-guanine phosphoribosyl transferase).
-- -if you have a condition where your body produces too little of an enzyme called thiopurine methyltransferase (TPMT) or NUDT15 (nudix hydrolase 15).
+- -if you have a condition where your body produces too little of an enzyme called thiopurine methyltransferase (TPMT) or nudix hydrolase 15 (NUDT15).
 - -if you take medicines like mesalazine, olsalazine or sulfasalazine (for the treatment of inflammatory bowel disease).
 - -if you take medicines which affect bone marrow function (for producing blood cells), such as penicillamine and cytotoxic medicines.
+
+Tell your doctor if you experience any of the following symptoms: yellowing of the skin and the whites of the eyes (jaundice), bruising easily, abdominal discomfort, loss of appetite, fatigue, nausea, or vomiting. In some cases, discontinuing treatment with Jayempi may improve the symptoms.
 
 ## If you notice any unexplained bruising or bleeding during treatment or you have signs of infection, contact your doctor immediately.
 
@@ -1027,7 +1054,7 @@ Talk to your doctor, pharmacist or nurse before taking Jayempi:
 
 Treatment with Jayempi increases the risk of infections and the infections may become more serious (see also section 4).
 
-Because chickenpox (caused by varicella-zoster virus VZV) can be serious when you are taking Jayempi, you should avoid any contact with people suffering from chickenpox (varicella) or shingles (herpes zoster).
+Because chickenpox (caused by varicella-zoster virus; VZV) can be serious when you are taking Jayempi, you should avoid any contact with people suffering from chickenpox (varicella) or shingles (herpes zoster).
 
 Tell your doctor if you come into contact with anyone who has chickenpox or shingles.
 
@@ -1041,15 +1068,17 @@ You will need a blood test to check your blood cell count at least once a week d
 - -are elderly
 - -have a kidney or liver disorder
 
+Although changes in the blood count usually occur at the start of therapy, they can also occur later, during the therapy. Therefore, a regular check of blood cell count is advised even for patients who remain stable, during long-term treatment.
+
 After 8 weeks, your blood count should be checked once a month or at least every 3 months.
+
+<div style=\"page-break-after: always\"></div>
 
 ## TPMT and NUDT15 gene variants
 
 If you have inherited variants of the TPMT and/or the NUDT15 genes (genes which are involved in the break-down of azathioprine in the body), you have a higher risk of infections and hair loss and your doctor may in this case give you a lower dose.
 
 Your doctor may also ask you to have a test to check how well your body will be able to break-down this medicine. Your doctor may change your dose after these tests.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Vitamin B3 deficiency (pellagra)
 
@@ -1064,8 +1093,7 @@ Treatment with Jayempi may affect the liver and your doctor will monitor your li
 - -developing a serious condition called macrophage activation syndrome (excessive activation of white blood cells associated with inflammation), which usually occurs in people who have certain types of arthritis
 - -developing tumours, especially if you are receiving immunosuppressive therapy at high doses or for a long time
 - -developing cancers such as skin cancer caused by exposure to the sun. Therefore, you should avoid unnecessary exposure to the sunlight and UV light, wear protective clothing and use sunscreen (minimum of sun protection factor (SPF) 30)
-- -lymphoproliferative disorders (when the body produces white cells called lymphocytes in an uncontrolled way)
-- With treatments that include several immunosuppressants (including thiopurines like azathioprine) the condition can lead to death
+- -lymphoproliferative disorders (when the body produces white cells called lymphocytes in an uncontrolled way). With treatments that include several immunosuppressants (including thiopurines like azathioprine) the condition can lead to death
 - -viral infections of the lymphatic system (Epstein-Barr virus related lymphoproliferative disorders), especially if several immunosuppressants are given at the same time.
 
 ## Other medicines and Jayempi
@@ -1084,11 +1112,12 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 - -Cytotoxic medicines (to treat tumours, such as methotrexate )
 - -Vaccination with live vaccines during treatment with Jayempi can be harmful and must be avoided.
 - -Atracurium or suxamethonium chloride used as muscle relaxants in surgery.
-- -Infliximab (used for the treatment of inflammatory conditions such as rheumatoid arthritis. ulcerative colitis, Crohn's disease and psoriasis)
-
-Before an operation tell your doctor that you are taking azathioprine because muscle relaxants used during anaesthesia may interact with azathioprine.
 
 <div style=\"page-break-after: always\"></div>
+
+- -Infliximab (used for the treatment of inflammatory conditions such as rheumatoid arthritis. ulcerative colitis, Crohn's disease and psoriasis)
+
+## Before an operation tell your doctor that you are taking azathioprine because muscle relaxants used during anaesthesia may interact with azathioprine.
 
 ## Pregnancy, breast-feeding and fertility
 
@@ -1126,6 +1155,12 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 
 The dose of Jayempi depends on your weight, the condition being treated, how well it is being controlled and your overall health. Your doctor will work out the dose that is right for you and may adjust it during treatment. The doctor will tell you how long you should continue taking the medicine.
 
+<div style=\"page-break-after: always\"></div>
+
+Packaging Contents
+
+Bottle adaptor
+
 For preventing organ rejection after transplantation, the usual starting dose is 5 mg per kg of your weight each day and the dose is then reduced after a few weeks or months to between 1 and 4 mg per kg of your weight each day.
 
 The dose for other conditions is usually between 1 and 3 mg per kg of your weight each day.
@@ -1134,8 +1169,6 @@ The dose for other conditions is usually between 1 and 3 mg per kg of your weigh
 
 Your dose may be reduced if you have kidney or liver disease.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Use in children
 
 The dose for children and adolescents is the same as the adult dose.
@@ -1143,6 +1176,8 @@ The dose for children and adolescents is the same as the adult dose.
 The safety and efficacy of azathioprine in children have not yet been established for the treatment of chronic joint inflammation (juvenile idiopathic arthritis) and multiple sclerosis. Therefore, the use of Jayempi for these conditions in children is not recommended.
 
 ## Use in elderly patients
+
+(for doses less than or equal to 3ml)
 
 A reduced dose may be needed.
 
@@ -1154,16 +1189,18 @@ You should drink some water after each dose of Jayempi. This helps to make sure 
 
 ## Handling
 
-Your pack contains a 200-ml bottle of medicine, cap, a bottle adaptor and two dosing syringes (a 3-ml syringe and a 10-ml syringe). Always use the syringes provided to take your medicine.
+Your pack contains a 200 ml bottle of medicine, cap, a bottle adaptor and two dosing syringes (a 3 ml syringe and a 10 ml syringe). Always use the syringes provided to take your medicine.
 
 <!-- image -->
 
-- The smaller 3 ml oral syringe is marked from 0.5 ml to 3 ml with minor 0.1 ml graduations. It is used for measuring doses of up to 30 mg, in 1 mg (0.1 ml) step ups. For example:
-- -if the prescribed dose is 14 mg, use the 3 ml syringe and draw up a volume of 1.4 ml.
-- -if the prescribed dose is 26 mg, use the 3 ml syringe and draw up a volume of 2.6 ml.
-
 <div style=\"page-break-after: always\"></div>
 
+- The smaller 3 ml oral syringe is marked from 0.5 ml to 3 ml with minor 0.1 ml graduations. It is used for measuring doses of up to 30 mg, in 1 mg (0.1 ml) step ups. For example:
+- -if the prescribed dose is 14 mg, use the 3 ml syringe and draw up a volume of 1.4 ml.
+
+Koura 1
+
+- -if the prescribed dose is 26 mg, use the 3 ml syringe and draw up a volume of 2.6 ml.
 - The larger 10 ml oral syringe is marked from 1 ml to 10 ml with minor 0.25 ml graduations. It is used for measuring doses greater than 30 mg, in 2.5 mg (0.25 ml) step ups. For example:
 - -if the prescribed dose is 32 mg, use the 10 ml syringe and draw up a volume of 3.25 ml.
 - -if the prescribed dose is 54 mg, use the 10 ml syringe and draw up a volume of 5.5 ml.
@@ -1179,6 +1216,20 @@ When you use the medicine follow the instructions below:
 
 <!-- image -->
 
+Figure 1
+
+<!-- image -->
+
+Figure 2
+
+Figure 3
+
+<!-- image -->
+
+Figure 4
+
+<!-- image -->
+
 1. Put on disposable hand gloves before handling Jayempi.
 2. Shake the bottle to mix the medicine well ( figure 1 ).
 3. Remove the bottle cap ( figure 2 ) and push the adaptor firmly into the top of the bottle and leave in place for future doses ( figure 3 ).
@@ -1191,11 +1242,16 @@ When you use the medicine follow the instructions below:
 10. Remove the syringe from your mouth.
 11. Swallow the dose of oral suspension then drink some water, making sure no medicine is left in your mouth.
 12. Put the cap back on the bottle with the adaptor left in place. Ensure that the cap is tightly closed.
+
+Figure 5
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
 13. Wash the syringe with cold or warm tap water and rinse well. Hold the syringe under water and move the plunger up and down several times to make sure the inside of the syringe is clean. Let the syringe dry completely before you use it again for the next dose. Store the syringe in a clean place, with the medicine.
 
 Repeat the above for each dose as instructed by your doctor or pharmacist.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you take more Jayempi than you should
 
@@ -1221,7 +1277,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## If you get any of the following serious side effects, stop taking Jayempi and talk to your doctor or go to hospital immediately:
 
-- -Allergic reaction, the signs may include: general tiredness, dizziness, feeling sick (nausea), being sick (vomiting) or diarrhoea, high temperature (fever), shivering or chills, redness of the skin, skin nodules, or a skin rash, pain in the muscles or joints, changes in the colour of your urine (kidney problems), chest pain, shortness of breath or swollen legs (heart problems), confusion, feeling light headed or weak (caused by low blood pressure).
+- -Allergic reaction, the signs may include: general tiredness, dizziness, feeling sick (nausea), being sick (vomiting) or diarrhoea, high temperature (fever), shivering or chills, redness of the skin, skin nodules, or a skin rash, pain in the muscles or joints, changes in the colour of your urine (kidney problems), liver problems and blockage of the bile duct (biliary obstruction), chest pain, shortness of breath or swollen legs (heart problems), confusion, feeling light headed or weak (caused by low blood pressure).
 - -Problems with your blood and bone marrow, signs include weakness, tiredness, paleness, bruising easily, unusual bleeding or infections (these may be very common side effects which may affect more than 1 in 10 people).
 - -Reversible swelling of the brain with symptoms including severe headache, vision changes, seizures, confusion and reduced consciousness, with or without high blood pressure (Posterior Reversible Encephalopathy Syndrome or PRES).
 
@@ -1229,6 +1285,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 - -fever or you notice any signs of infection, such as headache and body aches, coughing or difficulty breathing (similar to a chest infection)
 - -if you come into contact with anyone who is suffering from chickenpox or shingles
+
+<div style=\"page-break-after: always\"></div>
+
 - -you notice any of the following: black (tar) stool, blood in the stool, abdominal pain or yellowing of the skin and the white of the eye
 - -you bruise easily or notice any unusual bleeding
 - -you feel extremely tired
@@ -1236,71 +1295,65 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - -you notice any changes to your skin, for example blisters or peeling
 - -your health suddenly gets worse
 
-<div style=\"page-break-after: always\"></div>
-
 ## Other side effects include:
 
 Very common (may affect more than 1 in 10 people)
 
-- -Low white blood cell level in your blood tests (leucopenia), which may cause infection
+- -Low cell count in bone marrow (symptoms see above)
+- -Low white blood cell level in your blood tests (leukopenia), which may cause infection
 - -Infections in transplant recipients who take Jayempi in combination with other immunosuppressants
 
 ## Common (may affect up to 1 in 10 people)
 
 - -Low blood platelet level (thrombocytopenia), which may cause you to bruise or bleed easily
-- -Nausea, occasionally combined with vomiting
+- -Nausea
+- -Vomiting
 
 ## Uncommon (may affect up to 1 in 100 people)
 
 - -Low red blood cell level (anaemia), which may cause you to be tired, get headaches, be short of breath when exercising, feel dizzy and look pale
 - -Inflammation of the pancreas, especially in transplant recipients and in patients with inflammatory bowel disease
 - -Infections in patients who have not received other immunosuppressants in combination with their azathioprine
-- -Hypersensitivity reactions. In very rare cases, fatal hypersensitivity reactions have occurred
+- -Hypersensitivity reactions (symptoms see above).
 - -Liver problems, which may cause pale stools, dark urine, itchiness and yellowing of your skin and eyes
 - -Bile congestion
 - -Worsening of liver function values
 
 Liver damage and bile congestion are dose-dependent and they are usually decreased after the discontinuation of treatment.
 
-## Rare (may affect up to 1 in 1,000 people)
+## Rare (may affect up to 1 in 1 000 people)
 
-- -Various types of cancer, including blood, lymph and skin cancer (malignant blood system disorders such as acute myeloid leukaemias and myelodysplasias, which are typical of immune system suppression)
-- -Reduction in the number of certain white or red blood cells (agranulocytosis, aplastic anaemia, erythroid hypoplasia), of all blood cells (pancytopenia), increased occurrence of abnormal, unusually large immature red blood cells (megaloblastic anaemia) and of small red blood cells in the blood.
-
-Although changes in the blood count usually occur at the start of therapy, they can also occur later, during the therapy. Therefore, a regular check of blood cell count is advised even for patients who remain stable, during long-term treatment
-
-- -Severe liver damage which can be life threatening, especially in patients who receive long-term treatment (like liver injury, non-cirrhotic portal hypertension, portosinusoidal vascular disease). Tell your doctor if you experience any of the following symptoms: yellowing of the skin and the whites of the eyes (jaundice), bruising easily, abdominal discomfort, loss of appetite, fatigue, nausea, or vomiting.
-
-In some cases, discontinuing treatment with Jayempi, may improve the symptoms
-
+- -Various types of cancer, including malignant blood system disorders such as acute myeloid leukaemia and myelodysplasia, which are typical of immune system suppression, lymph node cancer (Non-Hodgkin's lymphoma), soft tissue cancer (e.g. Kaposi's or non-Kaposi's sarcoma) or skin cancer (melanoma and non-melanoma) or solid cancer (e.g. of the womb or cervix)
+- -Reduction in the number of certain white or red blood cells (agranulocytosis, aplastic anaemia, erythroid hypoplasia), of all blood cells (pancytopenia), increased occurrence of abnormal, unusually large immature red blood cells (megaloblastic anaemia)
+- -Severe liver damage which can be life threatening, especially in patients who receive long-term treatment (like liver injury).
 - -Hair loss. In many cases, it may get better even though you continue to take azathioprine. The relation between hair loss and the use of azathioprine is not clear
 
-## Very rare (may affect up to 1 in 10,000 people )
+## Very rare (may affect up to 1 in 10 000 people )
 
 - -Anaemia due to increased red blood cell break down (haemolytic anaemia)
 
 <div style=\"page-break-after: always\"></div>
 
 - -Severe skin reactions with blistering and detachment of the skin, especially on the extremities, in the mouth, eyes and genital area, associated with poor general condition and fever (StevensJohnson syndrome, toxic epidermal necrolysis)
-
-A variety of reactions of possibly allergic origin have been reported. Signs of such hypersensitivity reactions can be feeling unwell, dizziness, drowsiness, nausea (feeling sick), vomiting, diarrhoea, fever, chills, skin rash, vascular inflammation, muscle and joint pain, drop in blood pressure, kidney and liver problems and blockage of the bile duct (biliary obstruction). In very rare cases, fatal hypersensitivity reactions have been reported
-
-- -Pneumonia gets better after stopping treatment with Jayempi
+- -Fatal hypersensitivity reactions (symptoms see above)
+- -Inflammation in your lung tissues without an infection (pneumonitis), which gets better after stopping treatment with Jayempi
 - -Severe inflammatory diseases of the colon (colitis, diverticulitis) and bowel perforation in transplant recipients
 - -Severe diarrhoea in patients with inflammatory bowel disease
 - -Gastrointestinal disturbance leading to diarrhoea, abdominal (belly) pain, constipation, nausea and vomiting
-- -A certain type of lymphoma (hepatosplenic T-cell lymphoma)
-- -A disease of the white matter of the brain (PML), caused by the JC virus
+- -A certain type of blood cancer (hepatosplenic T-cell lymphoma) in patients with inflammatory bowel disease treated with certain other medicinal products inhibiting tumor necrosis factor
+- -A disease of the white matter of the brain (progressive multifocal leukoencephalopathy; also known as PML), caused by the John Cunningham (JC) virus
 
 If you suffer from nausea with occasional vomiting, your doctor may ask you to take Jayempi after a meal to reduce these symptoms. Tell your doctor if you have severe diarrhoea or nausea and vomiting.
 
 Not known (frequency cannot be derived from the available data)
 
+- -Posterior Reversible Encephalopathy Syndrome (PRES; symptoms see above)
 - -Vitamin B3 deficiency (pellagra) associated with a localised pigmented skin rash, diarrhoea and decrease in memory, reasoning or other thinking skills
 - -You may develop a rash (raised red, pink or purple lumps which are sore to touch), particularly on your arms, hands, fingers, face and neck, which may also be accompanied by fever (Sweet's syndrome, also known as acute febrile neutrophilic dermatosis)
 - -Sensitivity to sunlight which can cause skin discoloration or a rash
 - -Inflammation of a salivary gland (sialoadenitis)
 - -Tremor
+- -Liver disorders of vascular origin (non-cirrhotic portal hypertension, portosinusoidal vascular disease)
 
 ## Reporting of side effects
 
@@ -1316,13 +1369,13 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. Contents of the pack and other information
 
 ## What Jayempi contains
 
 The active substance is azathioprine. One ml of suspension contains 10 mg azathioprine.
-
-<div style=\"page-break-after: always\"></div>
 
 The other ingredients are sodium benzoate (E211), sucralose (E955), banana flavour, citric acid monohydrate, microcrystalline cellulose and carmellose sodium, xanthan gum and purified water. See section 2 'Jayempi contains sodium benzoate' and 'Jayempi contains sodium'.
 
@@ -1338,7 +1391,9 @@ Lipomed GmbH Hegenheimer Strasse 2 79576 Weil am Rhein Germany
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -1352,10 +1407,10 @@ The table below shows, for a range of age, weight and doses, the dose (mg) to vo
 
 Table 1: Dose (mg) to volume (ml) conversion using the two oral syringes
 
-| Age (Years)   | Weight* (Kg)   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   |
+| Age (years)   | Weight* (kg)   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   | Dose†   |
 |---------------|----------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
-| Age (Years)   | Weight* (Kg)   | 1mg/kg  | 1mg/kg  | 2mg/kg  | 2mg/kg  | 3mg/kg  | 3mg/kg  | 4mg/kg  | 4mg/kg  | 5mg/kg  | 5mg/kg  |
-| Age (Years)   | Weight* (Kg)   | mg      | ml      | mg      | ml      | mg      | ml      | mg      | ml      | mg      | ml      |
+| Age (years)   | Weight* (kg)   | 1 mg/kg | 1 mg/kg | 2 mg/kg | 2 mg/kg | 3 mg/kg | 3 mg/kg | 4 mg/kg | 4 mg/kg | 5 mg/kg | 5 mg/kg |
+| Age (years)   | Weight* (kg)   | mg      | ml      | mg      | ml      | mg      | ml      | mg      | ml      | mg      | ml      |
 | 0             | 3.3            | 3.3     | 0.3     | 6.6     | 0.7     | 9.9     | 1.0     | 13.2    | 1.3     | 16.5    | 1.7     |
 | 1 month       | 4.5            | 4.5     | 0.5     | 9.0     | 0.9     | 13.5    | 1.4     | 18.0    | 1.8     | 22.5    | 2.3     |
 | 2 months      | 5.6            | 5.6     | 0.6     | 11.2    | 1.1     | 16.8    | 1.7     | 22.4    | 2.2     | 28.0    | 2.8     |
@@ -1378,56 +1433,8 @@ Table 1: Dose (mg) to volume (ml) conversion using the two oral syringes
 | 15.0          | 55.5           | 55.5    | 5.50    | 111.0   | 11.00   | 166.5   | 16.75   | 222.0   | 22.25   | 277.5   | 27.75   |
 | 18.0          | 67.0           | 67.0    | 6.75    | 134.0   | 13.50   | 201.0   | 20.00   | 268.0   | 26.75   | 335.0   | 33.50   |
 
-*50 th percentile for boys extracted from WHO (0-10 years) and UK (11-18 years) growth charts †Doses less than or equal to 30 mg to be drawn up using the 3 ml oral syringe with 0.1 ml graduations. Doses greater than 30 mg to be drawn up using the 10 ml oral syringe with 0.25 ml graduations (shaded cells).
+*50 th percentile for boys extracted from World Health Organization (0-10 years) and United Kingdom (11-18 years) growth charts
+
+†Doses less than or equal to 30 mg to be drawn up using the 3 ml oral syringe with 0.1 ml graduations. Doses greater than 30 mg to be drawn up using the 10 ml oral syringe with 0.25 ml graduations (shaded cells).
 
 The healthcare professional should advise the patient or carer which syringe to use to ensure that the correct volume is administered.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for azathioprine, the scientific conclusions of PRAC are as follows:
-
-## Cardiac dysfunction (as part of hypersensitivity reactions)
-
-In view of available data on cardiac dysfunction (as part of hypersensitivity reactions) from the literature, including in seven cases a close temporal relationship, a positive de-challenge and/or rechallenge and in view of a plausible mechanism of action, the PRAC considers a causal relationship between azathioprine and cardiac dysfunction (as part of hypersensitivity reactions) is at least a reasonable possibility. The PRAC concluded that the product information of products containing azathioprine should be amended accordingly.
-
-## Cholestasis of pregnancy
-
-In view of available data on cholestasis of pregnancy from the literature, spontaneous reports including in eight cases a close temporal relationship and a positive de-challenge, and in view of a plausible mechanism of action, the PRAC considers a causal relationship between azathioprine and cholestasis of pregnancy is at least a reasonable possibility. The PRAC concluded that the product information of products containing azathioprine should be amended accordingly.
-
-## Pellagra / nicotinic acid deficiency
-
-In view of available data on pellagra from the literature, including 8 literature cases with a close temporal relationship and a positive de-challenge, and in view of a plausible mechanism of action, the PRAC considers a causal relationship between azathioprine and pellagra is at least a reasonable possibility. The PRAC concluded that the product information of products containing azathioprine should be amended accordingly.
-
-## Posterior reversible encephalopathy syndrome (PRES)
-
-In view of available data on posterior reversible encephalopathy syndrome from the literature, spontaneous reports including in some cases a close temporal relationship, a positive de-challenge and in view of a plausible mechanism of action, the PRAC considers a causal relationship between azathioprine and posterior reversible encephalopathy syndrome is at least a reasonable possibility. The PRAC concluded that the product information of products containing azathioprine should be amended accordingly.
-
-## Sialoadenitis
-
-In view of available data on sialoadenitis from the literature, including 5 cases with a close temporal relationship, and a positive de-challenge and re-challenge, the PRAC considers a causal relationship between azathioprine and sialoadenitis is at least a reasonable possibility. The PRAC concluded that the product information of products containing azathioprine should be amended accordingly.
-
-## Tremor
-
-In view of available data on tremor from the literature and spontaneous reports, including in some cases a close temporal relationship and a positive de-challenge and/or re-challenge, the PRAC considers a causal relationship between azathioprine and tremor is at least a reasonable possibility. The PRAC concluded that the product information of products containing azathioprine should be amended accordingly.
-
-<div style=\"page-break-after: always\"></div>
-
-## Drug-drug interaction between azathioprine and allopurinol
-
-In view of available data on the interaction between azathioprine and allopurinol from spontaneous reports, the PRAC considers an amendment of the existing wording warranted. The PRAC concluded that the product information of products containing azathioprine should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the Marketing Authorisation(s)
-
-On the basis of the scientific conclusions for azathioprine the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing azathioprine is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the Marketing Authorisation(s) should be varied.

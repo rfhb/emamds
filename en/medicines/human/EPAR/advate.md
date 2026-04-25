@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 14:33:40
+document_datetime: 2026-04-24 14:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/advate.html
 document_name: advate.html
 version: success
-processing_time: 0.1173534
-conversion_datetime: 2025-12-31 01:43:02.983363
+processing_time: 0.1289677
+conversion_datetime: 2026-04-25 16:40:13.870516
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Advate
 
 [RSS](/en/individual-human-medicine.xml/66229)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-octocog alfa Medicine Human Authorised
+octocog alfa
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -109,275 +109,141 @@ Advate : EPAR - Summary for the public
 
 English (EN) (77.55 KB - PDF)
 
-**First published:** 16/04/2009
-
-**Last updated:** 15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/en/documents/overview/advate-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-601)
+[Other languages (22)](#file-language-dropdown-977)
 
 български (BG) (104.09 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/bg/documents/overview/advate-epar-summary-public_bg.pdf)
 
 español (ES) (77.22 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/es/documents/overview/advate-epar-summary-public_es.pdf)
 
 čeština (CS) (102.56 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/cs/documents/overview/advate-epar-summary-public_cs.pdf)
 
 dansk (DA) (76.02 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/da/documents/overview/advate-epar-summary-public_da.pdf)
 
 Deutsch (DE) (78.39 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/de/documents/overview/advate-epar-summary-public_de.pdf)
 
 eesti keel (ET) (75.82 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/et/documents/overview/advate-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (105.91 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/el/documents/overview/advate-epar-summary-public_el.pdf)
 
 français (FR) (78.05 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/fr/documents/overview/advate-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (96.65 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/hr/documents/overview/advate-epar-summary-public_hr.pdf)
 
 italiano (IT) (76.4 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/it/documents/overview/advate-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (99.64 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/lv/documents/overview/advate-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (101.98 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/lt/documents/overview/advate-epar-summary-public_lt.pdf)
 
 magyar (HU) (97.47 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/hu/documents/overview/advate-epar-summary-public_hu.pdf)
 
 Malti (MT) (124.75 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/mt/documents/overview/advate-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (76.86 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/nl/documents/overview/advate-epar-summary-public_nl.pdf)
 
 polski (PL) (103.23 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/pl/documents/overview/advate-epar-summary-public_pl.pdf)
 
 português (PT) (77.25 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/pt/documents/overview/advate-epar-summary-public_pt.pdf)
 
 română (RO) (99.76 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/ro/documents/overview/advate-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (101.88 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/sk/documents/overview/advate-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (95.64 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/sl/documents/overview/advate-epar-summary-public_sl.pdf)
 
 Suomi (FI) (75.91 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/fi/documents/overview/advate-epar-summary-public_fi.pdf)
 
 svenska (SV) (76.57 KB - PDF)
 
-**First published:**
-
-16/04/2009
-
-**Last updated:**
-
-15/01/2018
+**First published:** 16/04/2009 **Last updated:** 15/01/2018
 
 [View](/sv/documents/overview/advate-epar-summary-public_sv.pdf)
 
@@ -387,303 +253,159 @@ Advate : EPAR - Product Information
 
 English (EN) (1.58 MB - PDF)
 
-**First published:** 14/07/2009
-
-**Last updated:** 23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/en/documents/product-information/advate-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-334)
+[Other languages (24)](#file-language-dropdown-845)
 
 български (BG) (2.51 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/bg/documents/product-information/advate-epar-product-information_bg.pdf)
 
 español (ES) (994.66 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-04/06/2025
+**First published:** 14/07/2009 **Last updated:** 04/06/2025
 
 [View](/es/documents/product-information/advate-epar-product-information_es.pdf)
 
 čeština (CS) (1013.58 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-04/06/2025
+**First published:** 14/07/2009 **Last updated:** 04/06/2025
 
 [View](/cs/documents/product-information/advate-epar-product-information_cs.pdf)
 
 dansk (DA) (1.54 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/da/documents/product-information/advate-epar-product-information_da.pdf)
 
 Deutsch (DE) (1.63 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/de/documents/product-information/advate-epar-product-information_de.pdf)
 
 eesti keel (ET) (873.84 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-04/06/2025
+**First published:** 14/07/2009 **Last updated:** 04/06/2025
 
 [View](/et/documents/product-information/advate-epar-product-information_et.pdf)
 
 ελληνικά (EL) (1.03 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-04/06/2025
+**First published:** 14/07/2009 **Last updated:** 04/06/2025
 
 [View](/el/documents/product-information/advate-epar-product-information_el.pdf)
 
 français (FR) (1.61 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/fr/documents/product-information/advate-epar-product-information_fr.pdf)
 
 hrvatski (HR) (2.21 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/hr/documents/product-information/advate-epar-product-information_hr.pdf)
 
 íslenska (IS) (1.53 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/is/documents/product-information/advate-epar-product-information_is.pdf)
 
 italiano (IT) (952.65 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-04/06/2025
+**First published:** 14/07/2009 **Last updated:** 04/06/2025
 
 [View](/it/documents/product-information/advate-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (2.36 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/lv/documents/product-information/advate-epar-product-information_lv.pdf)
 
 lietuvių kalba (LT) (2.25 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/lt/documents/product-information/advate-epar-product-information_lt.pdf)
 
 magyar (HU) (2.07 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/hu/documents/product-information/advate-epar-product-information_hu.pdf)
 
 Malti (MT) (2.33 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/mt/documents/product-information/advate-epar-product-information_mt.pdf)
 
 Nederlands (NL) (1.59 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/nl/documents/product-information/advate-epar-product-information_nl.pdf)
 
 norsk (NO) (1.55 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/no/documents/product-information/advate-epar-product-information_no.pdf)
 
 polski (PL) (2.41 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/pl/documents/product-information/advate-epar-product-information_pl.pdf)
 
 português (PT) (1.61 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/pt/documents/product-information/advate-epar-product-information_pt.pdf)
 
 română (RO) (1008.23 KB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-04/06/2025
+**First published:** 14/07/2009 **Last updated:** 04/06/2025
 
 [View](/ro/documents/product-information/advate-epar-product-information_ro.pdf)
 
 slovenčina (SK) (2.29 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/sk/documents/product-information/advate-epar-product-information_sk.pdf)
 
 slovenščina (SL) (2.05 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/sl/documents/product-information/advate-epar-product-information_sl.pdf)
 
 Suomi (FI) (1.53 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/fi/documents/product-information/advate-epar-product-information_fi.pdf)
 
 svenska (SV) (1.56 MB - PDF)
 
-**First published:**
-
-14/07/2009
-
-**Last updated:**
-
-23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/sv/documents/product-information/advate-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000254887 21/05/2025
+**Latest procedure affecting product information:** VR/0000254887
+
+21/05/2025
 
 icon globe
 
@@ -703,305 +425,177 @@ Advate : EPAR - All Authorised presentations
 
 English (EN) (16.38 KB - PDF)
 
-**First published:** 04/07/2008
-
-**Last updated:** 28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/en/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-466)
+[Other languages (24)](#file-language-dropdown-243)
 
 български (BG) (80.56 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/bg/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (35.99 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/es/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (66.79 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/cs/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (34.47 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/da/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (20.75 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/de/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (16.16 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/et/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (55.29 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/el/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (36.29 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/fr/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (62.19 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/hr/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (16.92 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/is/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (16.37 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/it/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (50.45 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/lv/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (57.05 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/lt/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (50 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/hu/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (47.91 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/mt/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (17.07 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/nl/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (35.14 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/no/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (42.19 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/pl/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (36.22 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/pt/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (42.49 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/ro/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (67.01 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/sk/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (63.25 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/sl/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (34.77 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/fi/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (16.89 KB - PDF)
 
-**First published:**
-
-04/07/2008
-
-**Last updated:**
-
-28/08/2014
+**First published:** 04/07/2008 **Last updated:** 28/08/2014
 
 [View](/sv/documents/all-authorised-presentations/advate-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Advate Active substance octocog alfa International non-proprietary name (INN) or common name octocog alfa Therapeutic area (MeSH) Hemophilia A Anatomical therapeutic chemical (ATC) code B02BD02
+Name of medicine
+
+Advate
+
+Active substance
+
+octocog alfa
+
+International non-proprietary name (INN) or common name
+
+octocog alfa
+
+Therapeutic area (MeSH)
+
+Hemophilia A
+
+Anatomical therapeutic chemical (ATC) code
+
+B02BD02
 
 ### Pharmacotherapeutic group
 
@@ -1015,13 +609,23 @@ Advate does not contain von Willebrand factor in pharmacologically effective qua
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000520 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000520
+
+Marketing authorisation holder
 
 Takeda Manufacturing Austria AG
 
 Industriestrasse 67
 
-Marketing authorisation issued 02/03/2004 Revision 34
+Marketing authorisation issued
+
+02/03/2004
+
+Revision
+
+35
 
 ## Assessment history
 
@@ -1043,17 +647,23 @@ Advate : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (259 KB - PDF)
 
-**First published:** 14/07/2009
-
-**Last updated:** 23/05/2025
+**First published:** 14/07/2009 **Last updated:** 23/05/2025
 
 [View](/en/documents/procedural-steps-after/advate-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Advate-PAM-0000295686 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-2428017
+
+English (EN) (588.95 KB - PDF)
+
+**First published:** 24/04/2026
+
+[View](/en/documents/variation-report/advate-pam-0000295686-epar-assessment-report_en.pdf)
+
 Advate-H-C-000520-P46-104 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/558109/2024
+Adopted Reference Number: EMA/558109/2024
 
 English (EN) (641.37 KB - PDF)
 
@@ -1063,9 +673,7 @@ English (EN) (641.37 KB - PDF)
 
 Advate-H-C-000520-P46-101 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/148610/2024
+Adopted Reference Number: EMA/148610/2024
 
 English (EN) (1.99 MB - PDF)
 
@@ -1075,9 +683,7 @@ English (EN) (1.99 MB - PDF)
 
 Advate-H-C-000520-P46-0102 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/106772/202423
+Adopted Reference Number: EMA/106772/202423
 
 English (EN) (756.23 KB - PDF)
 
@@ -1087,9 +693,7 @@ English (EN) (756.23 KB - PDF)
 
 Advate-H-C-000520-P46-101 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/148610/2024
+Adopted Reference Number: EMA/148610/2024
 
 English (EN) (1.99 MB - PDF)
 
@@ -1099,15 +703,11 @@ English (EN) (1.99 MB - PDF)
 
 Advate-H-C-0520-A31-0078 : EPAR - Assessment Report - Article 31
 
-Adopted
-
-Reference Number: EMA/763977/2017
+Adopted Reference Number: EMA/763977/2017
 
 English (EN) (219.68 KB - PDF)
 
-**First published:** 05/12/2017
-
-**Last updated:** 05/12/2017
+**First published:** 05/12/2017 **Last updated:** 05/12/2017
 
 [View](/en/documents/variation-report/advate-h-c-0520-a31-0078-epar-assessment-report-article-31_en.pdf)
 
@@ -1117,31 +717,33 @@ Advate : EPAR - Scientific Discussion
 
 English (EN) (449.16 KB - PDF)
 
-**First published:** 03/04/2006
-
-**Last updated:** 03/04/2006
+**First published:** 03/04/2006 **Last updated:** 03/04/2006
 
 [View](/en/documents/scientific-discussion/advate-epar-scientific-discussion_en.pdf)
 
-#### News on Advate
+## News on Advate
 
-[Factor VIII medicines: no clear and consistent evidence of difference in risk of inhibitor development between classes](/en/news/factor-viii-medicines-no-clear-consistent-evidence-difference-risk-inhibitor-development-between-classes) 15/09/2017
+[Factor VIII medicines: no clear and consistent evidence of difference in risk of inhibitor development between classes](/en/news/factor-viii-medicines-no-clear-consistent-evidence-difference-risk-inhibitor-development-between-classes)
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 10-13 May 2016](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-10-13-may-2016) 13/05/2016
+15/09/2017
 
-#### More information on Advate
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 10-13 May 2016](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-10-13-may-2016)
+
+13/05/2016
+
+## More information on Advate
 
 - [Octocog alfa - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/octocog-alfa)
 - [Factor VIII - referral](/en/medicines/human/referrals/factor-viii)
 - [Advate / Rixubis - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/advate-rixubis)
 - [ADVATE 2 mL (reconstituted in 2 mL SWFI) POST-AUTHORIZATION SAFETY SURVEILLANCE STUDY (ADVATE 2 mL PASS) - post-authorisation study](https://catalogues.ema.europa.eu/study/46476)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 23/05/2025
+**This page was last updated on**
+
+24/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

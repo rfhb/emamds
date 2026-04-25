@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-17 10:46:05
-document_pages: 55
+document_datetime: 2026-04-22 15:39:28
+document_pages: 56
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vyndaqel-epar-product-information_en.pdf
 document_name: vyndaqel-epar-product-information_en.pdf
 version: success
-processing_time: 12.4185486
-conversion_datetime: 2025-12-27 16:59:13.874933
+processing_time: 11.7786772
+conversion_datetime: 2026-04-25 16:10:22.715434
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -96,6 +96,8 @@ Women of childbearing potential should use appropriate contraception when taking
 
 Tafamidis meglumine should be added to the standard of care for the treatment of patients with ATTR-PN. Physicians should monitor patients and continue to assess the need for other therapy, including the need for liver transplantation, as part of this standard of care. As there are no data available regarding the use of tafamidis meglumine post-liver transplantation, tafamidis meglumine should be discontinued in patients who undergo liver transplantation.
 
+Co-administration of tafamidis meglumine with substrates of the breast cancer resistant protein (BCRP) may increase exposure to the BCRP substrate. In case of co-administration, patients should be monitored for BCRP substrate related adverse reactions, and dose reduction of the BCRP substrate may be considered (see section 4.5).
+
 This medicinal product contains no more than 44 mg sorbitol in each capsule. Sorbitol is a source of fructose.
 
 The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
@@ -106,13 +108,13 @@ The content of sorbitol in medicinal products for oral use may affect the bioava
 
 In a clinical study in healthy volunteers, 20 mg tafamidis meglumine did not induce or inhibit the cytochrome P450 enzyme CYP3A4.
 
-In vitro tafamidis inhibits the efflux transporter BCRP (breast cancer resistant protein) with IC50=1.16 µM and may cause drug-drug interactions at clinically relevant concentrations with substrates of this transporter (e.g. methotrexate, rosuvastatin, imatinib). In a clinical study in healthy participants, the exposure of the BCRP substrate rosuvastatin increased approximately 2-fold following multiple doses of 61 mg tafamidis daily dosing.
-
-Likewise, tafamidis inhibits the uptake transporters OAT1 and OAT3 (organic anion transporters) with IC50=2.9 µM and IC50=2.36 µM, respectively, and may cause drug-drug interactions at clinically relevant concentrations with substrates of these transporters (e.g. non-steroidal anti-inflammatory
+In vitro tafamidis inhibits the efflux transporter BCRP with IC50=1.16 µM and may cause drug-drug interactions at clinically relevant concentrations with substrates of this transporter (e.g. methotrexate, rosuvastatin, atorvastatin, apixaban, rivaroxaban, imatinib). In a clinical study in healthy participants, the exposure of the BCRP substrate rosuvastatin increased approximately 2-fold following multiple
 
 <div style=\"page-break-after: always\"></div>
 
-drugs, bumetanide, furosemide, lamivudine, methotrexate, oseltamivir, tenofovir, ganciclovir, adefovir, cidofovir, zidovudine, zalcitabine). Based on in vitro data, the maximal predicted changes in AUC of OAT1 and OAT3 substrates were determined to be less than 1.25 for the tafamidis meglumine 20 mg dose, therefore, inhibition of OAT1 or OAT3 transporters by tafamidis is not expected to result in clinically significant interactions.
+daily doses of 61 mg tafamidis. Therefore, patients should be monitored for BCRP substrate related adverse reactions when used concomitantly with tafamidis. A dose reduction of the BCRP substrate may be considered (see section 4.4).
+
+Likewise, tafamidis inhibits the uptake transporters OAT1 and OAT3 (organic anion transporters) with IC50=2.9 µM and IC50=2.36 µM, respectively, and may cause drug-drug interactions at clinically relevant concentrations with substrates of these transporters (e.g. non-steroidal anti-inflammatory drugs, bumetanide, furosemide, lamivudine, methotrexate, oseltamivir, tenofovir, ganciclovir, adefovir, cidofovir, zidovudine, zalcitabine). Based on in vitro data, the maximal predicted changes in AUC of OAT1 and OAT3 substrates were determined to be less than 1.25 for the tafamidis meglumine 20 mg dose, therefore, inhibition of OAT1 or OAT3 transporters by tafamidis is not expected to result in clinically significant interactions.
 
 No interaction studies have been performed evaluating the effect of other medicinal products on tafamidis meglumine.
 
@@ -142,6 +144,8 @@ No impairment of fertility has been observed in nonclinical studies (see section
 
 On the basis of the pharmacodynamic and pharmacokinetic profile, tafamidis meglumine is believed to have no or negligible influence on the ability to drive or use machines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
@@ -150,11 +154,7 @@ The overall clinical data reflect exposure of 127 patients with ATTR-PN to 20 mg
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions are listed below by MedDRA System Organ Class (SOC) and frequency categories using the standard convention: Very common (  1/10), Common (  1/100 to &lt; 1/10), and Uncommon (  1/1,000 to &lt; 1/100). Within the frequency group, adverse reactions are presented in order of
-
-<div style=\"page-break-after: always\"></div>
-
-decreasing seriousness. Adverse reactions reported from the clinical programme in the tabular listing below reflect the rates at which they occurred in the Phase 3, double-blind, placebo-controlled study (Fx-005).
+Adverse reactions are listed below by MedDRA System Organ Class (SOC) and frequency categories using the standard convention: Very common (  1/10), Common (  1/100 to &lt; 1/10), and Uncommon (  1/1,000 to &lt; 1/100). Within the frequency group, adverse reactions are presented in order of decreasing seriousness. Adverse reactions reported from the clinical programme in the tabular listing below reflect the rates at which they occurred in the Phase 3, double-blind, placebo-controlled study (Fx-005).
 
 | System Organ Class          | Very Common             |
 |-----------------------------|-------------------------|
@@ -186,13 +186,13 @@ Pharmacotherapeutic group: Other nervous system drugs, ATC code N07XX08
 
 Tafamidis is a selective stabiliser of TTR. Tafamidis binds to TTR at the thyroxine binding sites, stabilising the tetramer and slowing dissociation into monomers, the rate-limiting step in the amyloidogenic process.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pharmacodynamic effects
 
 Transthyretin amyloidosis is a severely debilitating condition induced by the accumulation of various insoluble fibrillar proteins, or amyloid, within the tissues in amounts sufficient to impair normal function. The dissociation of the transthyretin tetramer to monomers is the rate-limiting step in the pathogenesis of transthyretin amyloidosis. The folded monomers undergo partial denaturation to produce alternatively folded monomeric amyloidogenic intermediates. These intermediates then misassemble into soluble oligomers, profilaments, filaments, and amyloid fibrils. Tafamidis binds with negative cooperativity to the two thyroxine binding sites on the native tetrameric form of transthyretin preventing dissociation into monomers. The inhibition of TTR tetramer dissociation forms the rationale for the use of tafamidis to slow disease progression in stage 1 ATTR-PN patients.
 
 A TTR stabilisation assay was utilised as a pharmacodynamic marker and assessed the stability of the TTR tetramer.
-
-<div style=\"page-break-after: always\"></div>
 
 Tafamidis stabilised both the wild-type TTR tetramer and the tetramers of 14 TTR variants tested clinically after once-daily dosing with tafamidis. Tafamidis also stabilised the TTR tetramer for 25 variants tested ex vivo , thus demonstrating TTR stabilisation of 40 amyloidogenic TTR genotypes.
 
@@ -209,12 +209,19 @@ Following 18 months of treatment, more tafamidis meglumine-treated patients were
 | NIS-LL Responders (% Patients)                                           | 29.5%                                                                 | 45.3%                                                                 |
 | Difference (Vyndaqel minus Placebo) 95% CI of Difference (p-value)       | 15.8% -0.9%, 32.5% (0.068)                                            | 15.8% -0.9%, 32.5% (0.068)                                            |
 | TQOL Change from Baseline LSMean (SE)                                    | 7.2 (2.36)                                                            | 2.0 (2.31)                                                            |
-| Difference in LSMeans (SE)                                               | -5.2 (3.31) -11.8, 1.3 (0.116)                                        | -5.2 (3.31) -11.8, 1.3 (0.116)                                        |
-| 95% CI of Difference (p-value) Pre-specified Efficacy Evaluable Analysis | N=42                                                                  | N=45                                                                  |
-| NIS-LL Responders (% Patients) Difference (Vyndaqel minus                | 38.1%                                                                 | 60.0%                                                                 |
-| Placebo) 95% CI of Difference (p-value)                                  | 21.9% 1.4%, 42.4% (0.041)                                             | 21.9% 1.4%, 42.4% (0.041)                                             |
-| TQOL Change from Baseline LSMean (SE) Difference in LSMeans (SE)         | 8.9 (3.08)                                                            | 0.1 (2.98)                                                            |
-| 95% CI of Difference (p-value)                                           | -8.8 (4.32) -17.4, -0.2 (0.045)                                       | -8.8 (4.32) -17.4, -0.2 (0.045)                                       |
+| Difference in LSMeans (SE)                                               | -5.2 (3.31)                                                           | -5.2 (3.31)                                                           |
+| 95% CI of Difference (p-value) Pre-specified Efficacy Evaluable Analysis | -11.8, N=42                                                           | (0.116) N=45                                                          |
+| NIS-LL Responders (% Patients)                                           | 38.1%                                                                 | 60.0%                                                                 |
+| Difference (Vyndaqel minus Placebo) 95% CI of Difference (p-value)       | 21.9% 1.4%, 42.4% (0.041)                                             | 21.9% 1.4%, 42.4% (0.041)                                             |
+| TQOL Change from Baseline LSMean (SE)                                    | 8.9 (3.08)                                                            | 0.1 (2.98)                                                            |
+| Difference in LSMeans (SE)                                               | -8.8 (4.32) -17.4, -0.2 (0.045)                                       | -8.8 (4.32) -17.4, -0.2 (0.045)                                       |
+
+<div style=\"page-break-after: always\"></div>
+
+| Vyndaqel versus Placebo: NIS-LL and TQOL at Month 18 (Study Fx-005)   | Vyndaqel versus Placebo: NIS-LL and TQOL at Month 18 (Study Fx-005)   | Vyndaqel versus Placebo: NIS-LL and TQOL at Month 18 (Study Fx-005)   |
+|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+|                                                                       | Placebo                                                               | Vyndaqel                                                              |
+| Pre-specified ITT Analysis                                            | N=61                                                                  | N=64                                                                  |
 
 In the pre-specified ITT NIS-LL Responder analysis, patients who discontinued prior to the 18-month time point due to liver transplantation were categorized as non-responders. The pre-specified Efficacy Evaluable analysis used observed data for those patients who completed the 18 month treatment per protocol.
 
@@ -225,21 +232,12 @@ The secondary endpoints demonstrated that tafamidis meglumine treatment resulted
 |                                                                                                                             | Placebo N=61                                                                                                                | Vyndaqel N=64                                                                                                               | P-value                                                                                                                     | Vyndaqel %change relative to Placebo                                                                                        |
 | NIS-LL change from BL LSMean (SE)                                                                                           | 5.8 (0.96)                                                                                                                  | 2.8 (0.95)                                                                                                                  | 0.027                                                                                                                       | -52%                                                                                                                        |
 | Large Fibre change from BL LSMean (SE)                                                                                      | 3.2 (0.63)                                                                                                                  | 1.5 (0.62)                                                                                                                  | 0.066                                                                                                                       | -53%                                                                                                                        |
-
-<div style=\"page-break-after: always\"></div>
-
-| Secondary Endpoints Changes from Baseline to Month 18 LSMean (Standard Error) (Intent-to-Treat Population) (Study Fx-005)   | Secondary Endpoints Changes from Baseline to Month 18 LSMean (Standard Error) (Intent-to-Treat Population) (Study Fx-005)   | Secondary Endpoints Changes from Baseline to Month 18 LSMean (Standard Error) (Intent-to-Treat Population) (Study Fx-005)   | Secondary Endpoints Changes from Baseline to Month 18 LSMean (Standard Error) (Intent-to-Treat Population) (Study Fx-005)   | Secondary Endpoints Changes from Baseline to Month 18 LSMean (Standard Error) (Intent-to-Treat Population) (Study Fx-005)   |
-|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                             | Placebo N=61                                                                                                                | Vyndaqel N=64                                                                                                               | P-value                                                                                                                     | Vyndaqel %change relative to Placebo                                                                                        |
 | Small Fibre change from BL LSMean (SE)                                                                                      | 1.6 (0.32)                                                                                                                  | 0.3 (0.31)                                                                                                                  | 0.005                                                                                                                       | -81%                                                                                                                        |
-| mBMI change from BL LSMean (SE)                                                                                             | -33.8                                                                                                                       | 39.3 (11.5)                                                                                                                 | < 0.0001                                                                                                                    | NA                                                                                                                          |
-|                                                                                                                             | (11.8)                                                                                                                      |                                                                                                                             |                                                                                                                             |                                                                                                                             |
+| mBMI change from BL LSMean (SE)                                                                                             | -33.8 (11.8)                                                                                                                | 39.3 (11.5)                                                                                                                 | < 0.0001                                                                                                                    | NA                                                                                                                          |
 
 mBMI was derived as the product of serum albumin and Body Mass Index.
 
-Based on repeated measures analysis of variance with change from baseline as the dependent variable, an unstructured covariance matrix, treatment, month and treatment-by-month as fixed effects, and subject as a random effect in the model.
-
-NA=not applicable.
+Based on repeated measures analysis of variance with change from baseline as the dependent variable, an unstructured covariance matrix, treatment, month and treatment-by-month as fixed effects, and subject as a random effect in the model. NA=not applicable.
 
 In the open-label extension study, the rate of change in the NIS-LL during the 12 months of treatment was similar to that observed in those patients randomised and treated with tafamidis in the previous double blind 18 month period.
 
@@ -253,6 +251,8 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 This medicinal product has been authorised under 'exceptional circumstances'. This means that due to the rarity of the disease it has not been possible to obtain complete information on this medicinal product. The European Medicines Agency will review any new information which may become available every year and this SmPC will be updated as necessary.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
@@ -263,11 +263,7 @@ After oral administration of the soft capsule once daily, the maximum peak conce
 
 Tafamidis is highly protein bound (&gt; 99%) in plasma. The apparent steady-state volume of distribution is 16 litres.
 
-The extent of tafamidis binding to plasma proteins has been evaluated using animal and human plasma. The affinity of tafamidis for TTR is greater than that for albumin. Therefore, in plasma,
-
-<div style=\"page-break-after: always\"></div>
-
-tafamidis is likely to bind preferentially to TTR despite the significantly higher concentration of albumin (600 μM) relative to TTR (3.6 μM).
+The extent of tafamidis binding to plasma proteins has been evaluated using animal and human plasma. The affinity of tafamidis for TTR is greater than that for albumin. Therefore, in plasma, tafamidis is likely to bind preferentially to TTR despite the significantly higher concentration of albumin (600 μM) relative to TTR (3.6 μM).
 
 ## Biotransformation and elimination
 
@@ -289,7 +285,11 @@ Pharmacokinetic data indicated decreased systemic exposure (approximately 40%) a
 
 ## Renal impairment
 
-Tafamidis has not specifically been evaluated in a dedicated study of patients with renal impairment. The influence of creatinine clearance on tafamidis pharmacokinetics was evaluated in a population pharmacokinetic analysis in patients with creatinine clearance greater than 18 mL/min. Pharmacokinetic estimates indicated no difference in apparent oral clearance of tafamidis in patients with creatinine clearance less than 80 mL/min compared to those with creatinine clearance greater than or equal to 80 mL/min. Dosage adjustment in patients with renal impairment is considered not necessary.
+Tafamidis has not specifically been evaluated in a dedicated study of patients with renal impairment. The influence of creatinine clearance on tafamidis pharmacokinetics was evaluated in a population pharmacokinetic analysis in patients with creatinine clearance greater than 18 mL/min.
+
+<div style=\"page-break-after: always\"></div>
+
+Pharmacokinetic estimates indicated no difference in apparent oral clearance of tafamidis in patients with creatinine clearance less than 80 mL/min compared to those with creatinine clearance greater than or equal to 80 mL/min. Dosage adjustment in patients with renal impairment is considered not necessary.
 
 ## Elderly
 
@@ -297,11 +297,7 @@ Based on population pharmacokinetic results, subjects ≥ 65 years had an averag
 
 ## Pharmacokinetic/pharmacodynamic relationships
 
-In vitro data indicated that tafamidis does not significantly inhibit cytochrome P450 enzymes CYP1A2, CYP3A4, CYP3A5, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP2D6. Tafamidis is
-
-<div style=\"page-break-after: always\"></div>
-
-not expected to cause clinically relevant drug interaction due to induction of CYP1A2, CYP2B6 or CYP3A4.
+In vitro data indicated that tafamidis does not significantly inhibit cytochrome P450 enzymes CYP1A2, CYP3A4, CYP3A5, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP2D6. Tafamidis is not expected to cause clinically relevant drug interaction due to induction of CYP1A2, CYP2B6 or CYP3A4.
 
 In vitro studies suggest that it is unlikely tafamidis will cause drug interactions at clinically relevant concentrations with substrates of UDP glucuronosyltransferase (UGT) systemically. Tafamidis may inhibit intestinal activities of UGT1A1.
 
@@ -315,23 +311,27 @@ In a developmental toxicity study in rabbits, a slight increase in skeletal malf
 
 In the rat pre- and postnatal development study with tafamidis, decreased pup survival and reduced pup weights were noted following maternal dose administration during pregnancy and lactation at doses of 15 and 30 mg/kg/day. Decreased pup weights in males were associated with delayed sexual maturation (preputial separation) at 15 mg/kg/day. Impaired performance in a water-maze test for learning and memory was observed at 15 mg/kg/day. The NOAEL for viability and growth in the F1 generation offspring following maternal dose administration during pregnancy and lactation with tafamidis was 5 mg/kg/day (human equivalent dose = 0.8 mg/kg/day), a dose approximately 4.6 times the clinical dose of 20 mg tafamidis meglumine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
 ## Capsule shell
 
-Gelatine (E 441) Glycerine (E 422) Yellow iron oxide (E 172) Sorbitan Sorbitol (E 420) Mannitol (E 421) Titanium dioxide (E 171) Purified water
+Gelatine (E 441) Glycerine (E 422) Yellow iron oxide (E 172) Sorbitan Sorbitol (E 420) Mannitol (E 421) Titanium dioxide (E 171)
+
+Purified water
 
 ## Capsule contents
 
 Macrogol 400 (E 1521) Sorbitan monooleate (E 494) Polysorbate 80 (E 433)
 
-<div style=\"page-break-after: always\"></div>
+Printing ink (Opacode purple)
 
-## Printing ink (Opacode purple)
+Ethyl alcohol Isopropyl alcohol Purified water Macrogol 400 (E 1521) Polyvinyl acetate phthalate Propylene glycol (E 1520) Carmine (E 120) Brilliant Blue FCF (E 133)
 
-Ethyl alcohol Isopropyl alcohol Purified water Macrogol 400 (E 1521) Polyvinyl acetate phthalate Propylene glycol (E 1520) Carmine (E 120) Brilliant Blue FCF (E 133) Ammonium hydroxide (E 527) 28%
+Ammonium hydroxide (E 527) 28%
 
 ## 6.2 Incompatibilities
 
@@ -353,6 +353,8 @@ Pack sizes: a pack of 30 x 1 soft capsules and a multipack containing 90 (3 pack
 
 Not all pack sizes may be marketed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.6 Special precautions for disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
@@ -363,7 +365,9 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/11/717/001 EU/1/11/717/002
+EU/1/11/717/001
+
+EU/1/11/717/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -371,11 +375,9 @@ Date of first authorisation: 16 November 2011
 
 Date of latest renewal: 22 July 2016
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency: http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -391,7 +393,7 @@ Vyndaqel 61 mg soft capsules
 
 Each soft capsule contains 61 mg of micronized tafamidis.
 
-Excipient with known effect
+## Excipient with known effect
 
 Each soft capsule contains no more than 44 mg of sorbitol (E 420).
 
@@ -461,11 +463,13 @@ Tafamidis should be added to the standard of care for the treatment of patients 
 
 Increase in liver function tests and decrease in thyroxine may occur (see section 4.5 and 4.8).
 
+Co-administration of tafamidis with substrates of the breast cancer resistant protein (BCRP) may increase exposure to the BCRP substrate. In case of co-administration, patients should be monitored for BCRP substrate related adverse reactions, and dose reduction of the BCRP substrate may be considered (see section 4.5).
+
 This medicinal product contains no more than 44 mg sorbitol in each capsule. Sorbitol is a source of fructose.
 
-The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
-
 <div style=\"page-break-after: always\"></div>
+
+The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
 
 The content of sorbitol in medicinal products for oral use may affect the bioavailability of other medicinal products for oral use administered concomitantly.
 
@@ -473,7 +477,7 @@ The content of sorbitol in medicinal products for oral use may affect the bioava
 
 In a clinical study in healthy volunteers, 20 mg tafamidis meglumine did not induce or inhibit the cytochrome P450 enzyme CYP3A4.
 
-In vitro tafamidis inhibits the efflux transporter BCRP (breast cancer resistant protein) at the 61 mg/day tafamidis dose with IC50=1.16 µM and may cause drug-drug interactions at clinically relevant concentrations with substrates of this transporter (e.g. methotrexate, rosuvastatin, imatinib). In a clinical study in healthy participants, the exposure of the BCRP substrate rosuvastatin increased approximately 2-fold following multiple doses of 61 mg tafamidis daily dosing.
+In vitro tafamidis inhibits the efflux transporter BCRP at the 61 mg/day tafamidis dose with IC50=1.16 µM and may cause drug-drug interactions at clinically relevant concentrations with substrates of this transporter (e.g. methotrexate, rosuvastatin, atorvastatin, apixaban, rivaroxaban, imatinib). In a clinical study in healthy participants, the exposure of the BCRP substrate rosuvastatin increased approximately 2-fold following multiple daily doses of 61 mg tafamidis. Therefore, patients should be monitored for BCRP substrate related adverse reactions when used concomitantly with tafamidis. A dose reduction of the BCRP substrate may be considered (see section 4.4).
 
 Likewise, tafamidis inhibits the uptake transporters OAT1 and OAT3 (organic anion transporters) with IC50=2.9 µM and IC50=2.36 µM, respectively, and may cause drug-drug interactions at clinically relevant concentrations with substrates of these transporters (e.g. non-steroidal anti-inflammatory drugs, bumetanide, furosemide, lamivudine, methotrexate, oseltamivir, tenofovir, ganciclovir, adefovir, cidofovir, zidovudine, zalcitabine). Based on in vitro data, the maximal predicted changes in AUC of OAT1 and OAT3 substrates were determined to be less than 1.25 for the tafamidis 61 mg dose, therefore, inhibition of OAT1 or OAT3 transporters by tafamidis is not expected to result in clinically significant interactions.
 
@@ -497,11 +501,11 @@ There are no data on the use of tafamidis in pregnant women. Studies in animals 
 
 Available data in animals have shown excretion of tafamidis in milk. A risk to the newborns/infants cannot be excluded. Tafamidis should not be used during breast-feeding.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fertility
 
 No impairment of fertility has been observed in nonclinical studies (see section 5.3).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -538,11 +542,11 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 There is minimal clinical experience with overdose. During clinical trials, two patients diagnosed with ATTR-CM accidentally ingested a single tafamidis meglumine dose of 160 mg without the occurrence of any associated adverse events. The highest dose of tafamidis meglumine given to healthy volunteers in a clinical trial was 480 mg as a single dose. There was one reported treatment-related adverse event of mild hordeolum at this dose.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Management
 
 In case of overdose, standard supportive measures should be instituted as required.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGIC PROPERTIES
 
@@ -600,11 +604,15 @@ This analysis demonstrated a significant reduction (p=0.0006) in all-cause morta
 
 Table 2: Primary analysis using Finkelstein-Schoenfeld (F-S) Method of all-cause mortality and frequency of cardiovascular-related hospitalisations
 
-| Primary analysis                                                                                             | Pooled Tafamidis N=264   | Placebo N=177   |
-|--------------------------------------------------------------------------------------------------------------|--------------------------|-----------------|
-| Number (%) of subjects alive* at month 30                                                                    | 186 (70.5)               | 101 (57.1)      |
-| Average cardiovascular-related hospitalisations during 30 months (per patient per year) among those alive at | 0.297                    | 0.455           |
-| p-value from F-S Method                                                                                      | 0.0006                   | 0.0006          |
+| Primary analysis                                       | Pooled Tafamidis N=264   | Placebo N=177   |
+|--------------------------------------------------------|--------------------------|-----------------|
+| Number (%) of subjects alive* at month 30              | 186 (70.5)               | 101 (57.1)      |
+| Average cardiovascular-related hospitalisations during | 0.297                    | 0.455           |
+| p-value from F-S Method                                | 0.0006                   | 0.0006          |
+
+* Heart transplantation and cardiac mechanical assist device implantation are considered indicators of approaching end stage. As such, these subjects are treated in the analysis as equivalent to death. Therefore, such subjects are not included in the count of 'Number of Subjects Alive at Month 30' even if such subjects are alive based on 30 month vital status follow-up assessment.
+
+† Descriptive mean among those who survived the 30 months.
 
 Analysis of the individual components of the primary analysis (all-cause mortality and cardiovascular-related hospitalisation) also demonstrated significant reductions for tafamidis versus placebo.
 
@@ -612,17 +620,33 @@ The hazard ratio from the all-cause mortality Cox-proportional hazard model for 
 
 <div style=\"page-break-after: always\"></div>
 
+Survival Probability
+
 Figure 1: All-cause mortality *
 
+0.0+
+
+0
+
+Subjects Remaining at Risk
+
+(Cumulative events)
+
+Pooled
+
+264
+
+VYNDAQEL
+
+Placebo
+
+177
+
+0
+
+* Heart transplants and cardiac mechanical assist devices treated as death. Hazard ratio from Cox-proportional hazards model with treatm
+
 <!-- image -->
-
-Subjects Remaining at Risk (Cumulativeevents)
-
-| Pooled   |   264 |   259 |   252 |   244 |   235 |   222 |   216 |   209 |   200 |   193 |   99 |   0 |
-|----------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|------|-----|
-| VYNDAQEL |     0 |     5 |    12 |    20 |    29 |    42 |    48 |    55 |    64 |    71 |   78 |  78 |
-| Placebo  |   177 |   173 |   171 |   163 |   161 |   150 |   141 |   131 |   118 |   113 |   51 |   0 |
-|          |     0 |     4 |     6 |    14 |    16 |    27 |    36 |    46 |    59 |    64 |   75 |  76 |
 
 There were significantly fewer cardiovascular-related hospitalisations with tafamidis compared with placebo with a reduction in risk of 32.4% (Table 3).
 
@@ -637,7 +661,41 @@ Table 3: Cardiovascular-related hospitalisation frequency
 
 The treatment effect of tafamidis on functional capacity and health status was assessed by the 6-Minute Walk Test (6MWT) and the Kansas City Cardiomyopathy Questionnaire-Overall Summary (KCCQ-OS) score (composed of the Total Symptom, Physical Limitation, Quality of Life, and Social Limitation domains), respectively. A significant treatment effect favouring tafamidis was first observed at Month 6 and remained consistent through Month 30 on both the 6MWT distance and KCCQ-OS score (Table 4).
 
+- Pooled VYNDAQEL
+
 <div style=\"page-break-after: always\"></div>
+
+Overall - Pooled
+
+VYNDAQEL vs Placebo
+
+TTR Genotype
+
+ATTRm (24%)
+
+ATTRwt (76%)
+
+NYHA Baseline
+
+Class 1 or lI (68%)
+
+Class III (32%)
+
+Dose
+
+80 mg (40%) vs Placebo (40%)
+
+20 mg (20%) VS Placebo (40%)
+
+F-S Method *
+
+(Win Ratio 95% CI)
+
+All-Cause Mortality
+
+Hazard Ratio (95% CI)
+
+Risk Ratio (95% CI)
 
 Table 4: 6MWT and KCCQ-OS and component domain scores
 
@@ -668,6 +726,8 @@ Efficacy data for tafamidis 61 mg are not available as this formulation was not 
 A supra-therapeutic, single, 400 mg oral dose of tafamidis meglumine solution in healthy volunteers demonstrated no prolongation of the QTc interval.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with tafamidis in all subsets of the paediatric population in transthyretin amyloidosis (see section 4.2 for information on paediatric use).
+
+Cardiovascular Hospitalization Frequency
 
 <div style=\"page-break-after: always\"></div>
 
@@ -737,9 +797,7 @@ In the rat pre- and postnatal development study with tafamidis, decreased pup su
 
 ## Capsule shell
 
-Red iron oxide (E 172)
-
-Gelatine (E 441) Glycerine (E 422) Sorbitan Sorbitol (E 420) Mannitol (E 421) Purified water
+Gelatine (E 441) Glycerine (E 422) Red iron oxide (E 172) Sorbitan Sorbitol (E 420) Mannitol (E 421) Purified water
 
 ## Capsule contents
 
@@ -747,9 +805,7 @@ Macrogol 400 (E 1521) Polysorbate 20 (E 432) Povidone (K-value 90) Butylated hyd
 
 Printing ink (Opacode white)
 
-Ethyl alcohol Isopropyl alcohol Purified water Macrogol 400 (E 1521) Polyvinyl acetate phthalate Propylene glycol (E 1520) Titanium dioxide (E 171)
-
-Ammonium hydroxide (E 527) 28%
+Ethyl alcohol Isopropyl alcohol Purified water Macrogol 400 (E 1521) Polyvinyl acetate phthalate Propylene glycol (E 1520) Titanium dioxide (E 171) Ammonium hydroxide (E 527) 28%
 
 ## 6.2 Incompatibilities
 
@@ -783,7 +839,9 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/11/717/003 EU/1/11/717/004
+EU/1/11/717/003
+
+EU/1/11/717/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -791,9 +849,11 @@ Date of first authorisation: 16 November 2011
 
 Date of latest renewal: 22 July 2016
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency: http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -811,7 +871,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Pfizer Service Company BV Hermeslaan 11 1932 Zaventem Belgium
+Pfizer Service Company BV
+
+Hermeslaan 11 1932 Zaventem Belgium
 
 Or
 
@@ -829,25 +891,25 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
+-  At the request of the European Medicines Agency;
 
 <div style=\"page-break-after: always\"></div>
 
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-## · Additional risk minimisation measures
+##  Additional risk minimisation measures
 
 Prior to the launch of Vyndaqel (tafamidis) in each Member State, the MAH must agree on the content and format of the Healthcare Professional Guide, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
 
@@ -923,7 +985,7 @@ EXP
 
 Do not store above 25°C.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1003,39 +1065,47 @@ EXP
 
 Do not store above 25°C.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSALOFUNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/11/717/002
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONSON USE   |
+|-------|----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Vyndaqel 20 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLEDATA   |
+|-------|-----------------------------------------|
 
 PC {number} SN {number}
 
 NN {number}
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1083,7 +1153,9 @@ EXP
 
 Do not store above 25°C.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1093,11 +1165,11 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 EU/1/11/717/002
 
-## 13. BATCH NUMBER
+13. BATCH NUMBER
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1115,11 +1187,9 @@ Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-## BLISTER
+BLISTER
 
 Perforated unit dose blisters of 10 x 20 mg Vyndaqel soft capsules
 
@@ -1139,7 +1209,10 @@ EXP
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1183,9 +1256,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1199,7 +1270,7 @@ EU/1/11/717/003
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1213,7 +1284,9 @@ Vyndaqel 61 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number} SN {number}
+PC {number}
+
+SN {number}
 
 NN {number}
 
@@ -1341,37 +1414,43 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSALOFUNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
+Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+Belgium
+
+12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/11/717/004
 
-## 13. BATCH NUMBER
+13. BATCH NUMBER
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Vyndaqel 61 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 Not applicable.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 Not applicable.
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1397,15 +1476,14 @@ EXP
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 ## Package leaflet: Information for the user
 
@@ -1417,10 +1495,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+-  Keep this leaflet. You may need to read it again.
+-  If you have any further questions, ask your doctor, pharmacist or nurse.
+-  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+-  If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1453,7 +1531,7 @@ Talk to your doctor, pharmacist or nurse before taking Vyndaqel.
 
 <div style=\"page-break-after: always\"></div>
 
-- Women that can become pregnant should use birth control while taking Vyndaqel and should continue using birth control for one month after stopping treatment with Vyndaqel. There are no data on the use of Vyndaqel in pregnant women.
+-  Women that can become pregnant should use birth control while taking Vyndaqel and should continue using birth control for one month after stopping treatment with Vyndaqel. There are no data on the use of Vyndaqel in pregnant women.
 
 ## Children and adolescents
 
@@ -1468,15 +1546,16 @@ You should inform your doctor or pharmacist if you are taking any of the followi
 - -non-steroidal anti-inflammatory drugs
 - -diuretic medicines (e.g. furosemide, bumetanide)
 - -anti-cancer medicines (e.g. methotrexate, imatinib)
-- -statins (e.g. rosuvastatin)
+- -statins (e.g. rosuvastatin, atorvastatin)
+- -anti-clotting medicines (e.g. apixaban, rivaroxaban)
 - -anti-viral medicines (e.g. oseltamivir, tenofovir, ganciclovir, adefovir, cidofovir, lamivudine, zidovudine, zalcitabine)
 
 ## Pregnancy, breast-feeding and fertility
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
 
-- You should not take Vyndaqel if you are pregnant or breast-feeding.
-- If you are able to become pregnant, you must use birth control during treatment and for one month after stopping treatment.
+-  You should not take Vyndaqel if you are pregnant or breast-feeding.
+-  If you are able to become pregnant, you must use birth control during treatment and for one month after stopping treatment.
 
 ## Driving and using machines
 
@@ -1494,18 +1573,16 @@ The recommended dose is one Vyndaqel 20 mg (tafamidis meglumine) capsule taken o
 
 If you vomit after taking this medicine and can identify the intact Vyndaqel capsule, then an additional dose of Vyndaqel should be taken in the same day; if you cannot identify the Vyndaqel capsule, then no additional dose of Vyndaqel is necessary, and you can resume taking Vyndaqel the next day as usual.
 
-## Method of administration
-
-Vyndaqel is for oral use. The soft capsule should be swallowed whole, not crushed or cut.
-
 <div style=\"page-break-after: always\"></div>
 
-The capsule may be taken with or without food.
+## Method of administration
+
+Vyndaqel is for oral use. The soft capsule should be swallowed whole, not crushed or cut. The capsule may be taken with or without food.
 
 ## Instructions for opening the blisters
 
-- Tear off one individual blister from the blister card along the perforated line.
-- Push capsule through the aluminium foil.
+-  Tear off one individual blister from the blister card along the perforated line.
+-  Push capsule through the aluminium foil.
 
 ## If you take more Vyndaqel than you should
 
@@ -1527,9 +1604,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Very common: may affect more than 1 in 10 people are listed below:
 
-- Diarrhoea
-- Urinary tract infection (symptoms may include: pain or a burning sensation when you urinate or a frequent need to urinate)
-- Stomach ache or abdominal pain
+-  Diarrhoea
+-  Urinary tract infection (symptoms may include: pain or a burning sensation when you urinate or a frequent need to urinate)
+-  Stomach ache or abdominal pain
 
 ## Reporting of side effects
 
@@ -1541,18 +1618,18 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the blister card and on the carton. The expiry date refers to the last day of that month.
 
-## Do not store above 25°C.
-
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+Do not store above 25°C.
 
 <div style=\"page-break-after: always\"></div>
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
 ## What Vyndaqel contains
 
-- The active substance is tafamidis. Each capsule contains 20 mg micronized tafamidis meglumine equivalent to 12.2 mg tafamidis.
-- The other ingredients are: gelatine (E 441), glycerine (E 422), sorbitol (E 420) [see section 2 'Vyndaqel contains sorbitol'], mannitol (E 421), sorbitan, yellow iron oxide (E 172), titanium dioxide (E 171), purified water, macrogol 400 (E 1521), sorbitan monooleate (E 494), polysorbate 80 (E 433), ethyl alcohol, isopropyl alcohol, polyvinyl acetate phthalate, propylene glycol (E 1520), carmine (E 120), brilliant blue FCF (E 133) and ammonium hydroxide (E 527).
+-  The active substance is tafamidis. Each capsule contains 20 mg micronized tafamidis meglumine equivalent to 12.2 mg tafamidis.
+-  The other ingredients are: gelatine (E 441), glycerine (E 422), sorbitol (E 420) [see section 2 'Vyndaqel contains sorbitol'], mannitol (E 421), sorbitan, yellow iron oxide (E 172), titanium dioxide (E 171), purified water, macrogol 400 (E 1521), sorbitan monooleate (E 494), polysorbate 80 (E 433), ethyl alcohol, isopropyl alcohol, polyvinyl acetate phthalate, propylene glycol (E 1520), carmine (E 120), brilliant blue FCF (E 133) and ammonium hydroxide (E 527).
 
 ## What Vyndaqel looks like and contents of the pack
 
@@ -1584,19 +1661,13 @@ Pfizer NV/SA Tél/Tel: +32 (0)2 554 62 11
 
 Pfizer Luxembourg SARL filialas Lietuvoje Tel: +370 5 251 4000
 
+<div style=\"page-break-after: always\"></div>
+
 ## България
 
 Пфайзер Люксембург САРЛ, Клон България
 
 Тел.: +359 2 970 4333
-
-## Magyarország
-
-Pfizer Kft.
-
-Tel.: +36 1 488 37 00
-
-<div style=\"page-break-after: always\"></div>
 
 ## Česká republika
 
@@ -1618,9 +1689,344 @@ Tel: +49 (0)30 550055-51000
 
 ## Eesti
 
-Pfizer Luxembourg SARL Eesti filiaal
+Pfizer Luxembourg SARL Eesti filiaal Tel: +372 666 7500
 
-Tel: +372 666 7500
+## Ελλάδα
+
+Pfizer Ελλάς A.E.
+
+Τηλ: +30 210 6785800
+
+## España
+
+Pfizer, S.L.
+
+Tel: +34 91 490 99 00
+
+## France
+
+Pfizer Tél +33 (0)1 58 07 34 40
+
+## Hrvatska
+
+Pfizer Croatia d.o.o.
+
+Tel: + 385 1 3908 777
+
+## Ireland
+
+Pfizer Healthcare Ireland Unlimited Company Tel: +1800 633 363 (toll free) Tel: +44 (0)1304 616161
+
+## Ísland
+
+Icepharma hf.
+
+Sími: +354 540 8000
+
+## Italia
+
+Pfizer S.r.l.
+
+Tel: +39 06 33 18 21
+
+## Κύπρος
+
+Pfizer Ελλάς Α.Ε. (Cyprus Branch)
+
+Τηλ: +357 22817690
+
+## Magyarország
+
+Pfizer Kft.
+
+Tel.: +36 1 488 37 00
+
+## Malta
+
+Vivian Corporation Ltd.
+
+Tel: +356 21344610
+
+## Nederland
+
+Pfizer bv
+
+Tel: +31 (0)800 63 34 636
+
+## Norge
+
+Pfizer AS
+
+Tlf: +47 67 52 61 00
+
+## Österreich
+
+Pfizer Corporation Austria Ges.m.b.H.
+
+Tel: +43 (0)1 521 15-0
+
+## Polska
+
+Pfizer Polska Sp. z o.o.,
+
+Tel.: +48 22 335 61 00
+
+## Portugal
+
+Laboratórios Pfizer, Lda.
+
+Tel: +351 21 423 5500
+
+## România
+
+Pfizer Romania S.R.L.
+
+Tel: +40 (0) 21 207 28 00
+
+## Slovenija
+
+Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: + 386 (0)1 52 11 400
+
+## Slovenská republika
+
+Pfizer Luxembourg SARL, organizačná zložka Tel: + 421 2 3355 5500
+
+## Suomi/Finland
+
+Pfizer Oy
+
+Puh/Tel: +358 (0)9 430 040
+
+## Sverige
+
+Pfizer AB
+
+Tel: +46 (0)8 550 520 00
+
+## Latvija
+
+Pfizer Luxembourg SARL filiāle Latvijā
+
+Tel: +371 670 35 775
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in &lt;{MM/YYYY}&gt;&lt;{month YYYY}&gt;.
+
+This medicine has been authorised under 'exceptional circumstances'. This means that because of the rarity of this disease it has been impossible to get complete information on this medicine.
+
+The European Medicines Agency will review any new information on this medicine every year and this leaflet will be updated as necessary.
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+
+If this leaflet is difficult to see or read or you would like it in a different format, please contact the Marketing Authorisation Holder's local office number that is provided in this leaflet.
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
+
+## Vyndaqel 61 mg soft capsules
+
+## tafamidis
+
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
+## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
+
+-  Keep this leaflet. You may need to read it again.
+-  If you have any further questions, ask your doctor, pharmacist or nurse.
+-  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+-  If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Vyndaqel is and what it is used for
+2. What you need to know before you take Vyndaqel
+3. How to take Vyndaqel
+4. Possible side effects
+5. How to store Vyndaqel
+6. Contents of the pack and other information
+
+## 1. What Vyndaqel is and what it is used for
+
+Vyndaqel contains the active substance tafamidis.
+
+Vyndaqel is a medicine which treats a disease called transthyretin amyloidosis. Transthyretin amyloidosis is caused by a protein called transthyretin (TTR) that does not work properly. TTR is a protein that carries other substances, such as hormones, through the body.
+
+In patients with this disease, TTR breaks up and may form fibres called amyloid. Amyloid can build up between cells in your heart (known as transthyretin amyloid cardiomyopathy or ATTR-CM) and in other places in your body. The amyloid causes the symptoms of this disease. When this occurs in your heart, it prevents your heart from working normally.
+
+Vyndaqel, can prevent TTR from breaking up and forming amyloid. This medicine is used to treat adult patients whose heart has been affected (people with symptomatic cardiomyopathy).
+
+## 2. What you need to know before you take Vyndaqel
+
+## Do not take Vyndaqel
+
+If you are allergic to tafamidis or any of the other ingredients of this medicine (listed in section 6).
+
+## Warnings and precautions
+
+Talk to your doctor, pharmacist or nurse before taking Vyndaqel.
+
+<div style=\"page-break-after: always\"></div>
+
+-  Women that can become pregnant should use birth control while taking Vyndaqel and should continue using birth control for one month after stopping treatment with Vyndaqel. There are no data on the use of Vyndaqel in pregnant women.
+
+## Children and adolescents
+
+Children and adolescents do not have the symptoms of transthyretin amyloidosis. Vyndaqel is therefore not used for children and adolescents.
+
+## Other medicines and Vyndaqel
+
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
+
+You should inform your doctor or pharmacist if you are taking any of the following:
+
+- -non-steroidal anti-inflammatory drugs
+- -diuretic medicines (e.g. furosemide, bumetanide)
+- -anti-cancer medicines (e.g. methotrexate, imatinib)
+- -statins (e.g. rosuvastatin, atorvastatin)
+- -anti-clotting medicines (e.g. apixaban, rivaroxaban)
+- -anti-viral medicines (e.g. oseltamivir, tenofovir, ganciclovir, adefovir, cidofovir, lamivudine, zidovudine, zalcitabine)
+
+## Pregnancy, breast-feeding and fertility
+
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
+
+-  You should not take Vyndaqel if you are pregnant or breast-feeding.
+-  If you are able to become pregnant, you must use birth control during treatment and for one month after stopping treatment.
+
+## Driving and using machines
+
+Vyndaqel is believed to have no or negligible influence on the ability to drive and use machines.
+
+## Vyndaqel contains sorbitol
+
+This medicine contains no more than 44 mg sorbitol in each capsule. Sorbitol is a source of fructose.
+
+## 3. How to take Vyndaqel
+
+Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
+
+The recommended dose is one Vyndaqel 61 mg (tafamidis) capsule taken once a day.
+
+If you vomit after taking this medicine and can identify the intact Vyndaqel capsule, then an additional dose of Vyndaqel should be taken in the same day; if you cannot identify the Vyndaqel capsule, then no additional dose of Vyndaqel is necessary, and you can resume taking Vyndaqel the next day as usual.
+
+<div style=\"page-break-after: always\"></div>
+
+## Method of administration
+
+Vyndaqel is for oral use. The soft capsule should be swallowed whole, not crushed or cut. The capsule may be taken with or without food.
+
+## Instructions for opening the blisters
+
+-  Tear off one individual blister from the blister card along the perforated line.
+-  Push capsule through the aluminium foil.
+
+## If you take more Vyndaqel than you should
+
+You should not take more capsules than your doctor tells you to. If you take more capsules than you have been told to take, contact your doctor.
+
+## If you forget to take Vyndaqel
+
+If you forget to take a dose, take your capsules as soon as you remember. If it is within 6 hours before your next dose, skip the missed dose and take the next dose at the usual time. Do not take a double dose to make up for a forgotten dose.
+
+## If you stop taking Vyndaqel
+
+Do not stop taking Vyndaqel without first speaking to your doctor. As Vyndaqel works by stabilising the TTR protein, if you stop taking Vyndaqel, the protein will no longer be stabilised, and your disease may progress.
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+Common: may affect up to 1 in 10 people
+
+-  Diarrhoea
+-  Rash, itching
+
+In clinical studies, the side effects in patients taking Vyndaqel were generally similar to that of patients not taking Vyndaqel. Flatulence and increase in liver function tests were reported more often in ATTR-CM patients treated with Vyndaqel.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Vyndaqel
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the blister card and on the carton. The expiry date refers to the last day of that month.
+
+<div style=\"page-break-after: always\"></div>
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Vyndaqel contains
+
+-  The active substance is tafamidis. Each capsule contains 61 mg micronized tafamidis.
+-  The other ingredients are: gelatine (E 441), glycerine (E 422), sorbitol (E 420) [see section 2 'Vyndaqel contains sorbitol'], mannitol (E 421), sorbitan, red iron oxide (E 172), purified water, macrogol 400 (E 1521), polysorbate 20 (E 432), povidone (K-value 90), butylated hydroxytoluene (E321), ethyl alcohol, isopropyl alcohol, polyvinyl acetate phthalate, propylene glycol (E 1520), titanium dioxide (E 171), and ammonium hydroxide (E 527).
+
+## What Vyndaqel looks like and contents of the pack
+
+Vyndaqel soft capsules are reddish brown, opaque, oblong (approximately 21 mm) printed with 'VYN 61' in white. Vyndaqel is available in two pack sizes of PVC/PA/alu/PVC-alu perforated unit dose blisters: a pack of 30 x 1 soft capsules and a multipack of 90 soft capsules comprising of 3 cartons, each containing 30 x 1 soft capsules. Not all pack sizes may be marketed.
+
+## Marketing Authorisation Holder
+
+Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
+
+## Manufacturer
+
+Pfizer Service Company BV Hermeslaan 11 1932 Zaventem Belgium
+
+Or
+
+Millmount Healthcare Limited Block 7, City North Business Campus Stamullen K32 YD60 Ireland
+
+Or
+
+Pfizer Manufacturing Deutschland GmbH Mooswaldallee 1 79108 Freiburg Im Breisgau Germany
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
+
+België/Belgique/Belgien Luxembourg/Luxemburg Pfizer NV/SA Tél/Tel: +32 (0)2 554 62 11
+
+## Lietuva
+
+Pfizer Luxembourg SARL filialas Lietuvoje Tel: +370 5 251 4000
+
+<div style=\"page-break-after: always\"></div>
+
+## България
+
+Пфайзер Люксембург САРЛ, Клон България
+
+Тел.: +359 2 970 4333
+
+## Česká republika
+
+Pfizer, spol. s r.o.
+
+Tel: +420 283 004 111
+
+## Danmark
+
+Pfizer ApS
+
+Tlf.: +45 44 20 11 00
+
+## Deutschland
+
+PFIZER PHARMA GmbH
+
+Tel: +49 (0)30 550055-51000
+
+## Eesti
+
+Pfizer Luxembourg SARL Eesti filiaal Tel: +372 666 7500
 
 ## Ελλάδα
 
@@ -1648,11 +2054,7 @@ Tel: + 385 1 3908 777
 
 ## Ireland
 
-Pfizer Healthcare Ireland Unlimited Company
-
-Tel: +1800 633 363 (toll free)
-
-Tel: +44 (0)1304 616161
+Pfizer Healthcare Ireland Unlimited Company Tel: +1800 633 363 (toll free) Tel: +44 (0)1304 616161
 
 ## Ísland
 
@@ -1672,13 +2074,11 @@ Pfizer Ελλάς Α.Ε. (Cyprus Branch)
 
 Τηλ: +357 22817690
 
-## Latvija
+## Magyarország
 
-Pfizer Luxembourg SARL filiāle Latvijā
+Pfizer Kft.
 
-Tel: +371 670 35 775
-
-This leaflet was last revised in &lt;{MM/YYYY}&gt;&lt;{month YYYY}&gt;.
+Tel.: +36 1 488 37 00
 
 ## Malta
 
@@ -1744,344 +2144,16 @@ Tel: +46 (0)8 550 520 00
 
 <div style=\"page-break-after: always\"></div>
 
-This medicine has been authorised under 'exceptional circumstances'. This means that because of the rarity of this disease it has been impossible to get complete information on this medicine.
-
-The European Medicines Agency will review any new information on this medicine every year and this leaflet will be updated as necessary.
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
-
-If this leaflet is difficult to see or read or you would like it in a different format, please contact the Marketing Authorisation Holder's local office number that is provided in this leaflet.
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-## Package leaflet: Information for the user
-
-## Vyndaqel 61 mg soft capsules
-
-## tafamidis
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
-
-## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
-
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-
-## What is in this leaflet
-
-1. What Vyndaqel is and what it is used for
-2. What you need to know before you take Vyndaqel
-3. How to take Vyndaqel
-4. Possible side effects
-5. How to store Vyndaqel
-6. Contents of the pack and other information
-
-## 1. What Vyndaqel is and what it is used for
-
-Vyndaqel contains the active substance tafamidis.
-
-Vyndaqel is a medicine which treats a disease called transthyretin amyloidosis. Transthyretin amyloidosis is caused by a protein called transthyretin (TTR) that does not work properly. TTR is a protein that carries other substances, such as hormones, through the body.
-
-In patients with this disease, TTR breaks up and may form fibres called amyloid. Amyloid can build up between cells in your heart (known as transthyretin amyloid cardiomyopathy or ATTR-CM) and in other places in your body. The amyloid causes the symptoms of this disease. When this occurs in your heart, it prevents your heart from working normally.
-
-Vyndaqel, can prevent TTR from breaking up and forming amyloid. This medicine is used to treat adult patients whose heart has been affected (people with symptomatic cardiomyopathy).
-
-## 2. What you need to know before you take Vyndaqel
-
-## Do not take Vyndaqel
-
-If you are allergic to tafamidis or any of the other ingredients of this medicine (listed in section 6).
-
-## Warnings and precautions
-
-Talk to your doctor, pharmacist or nurse before taking Vyndaqel.
-
-<div style=\"page-break-after: always\"></div>
-
-- Women that can become pregnant should use birth control while taking Vyndaqel and should continue using birth control for one month after stopping treatment with Vyndaqel. There are no data on the use of Vyndaqel in pregnant women.
-
-## Children and adolescents
-
-Children and adolescents do not have the symptoms of transthyretin amyloidosis. Vyndaqel is therefore not used for children and adolescents.
-
-## Other medicines and Vyndaqel
-
-Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
-
-You should inform your doctor or pharmacist if you are taking any of the following:
-
-- -non-steroidal anti-inflammatory drugs
-- -diuretic medicines (e.g. furosemide, bumetanide)
-- -anti-cancer medicines (e.g. methotrexate, imatinib)
-- -statins (e.g. rosuvastatin)
-- -anti-viral medicines (e.g. oseltamivir, tenofovir, ganciclovir, adefovir, cidofovir, lamivudine, zidovudine, zalcitabine)
-
-## Pregnancy, breast-feeding and fertility
-
-If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
-
-- You should not take Vyndaqel if you are pregnant or breast-feeding.
-- If you are able to become pregnant, you must use birth control during treatment and for one month after stopping treatment.
-
-## Driving and using machines
-
-Vyndaqel is believed to have no or negligible influence on the ability to drive and use machines.
-
-## Vyndaqel contains sorbitol
-
-This medicine contains no more than 44 mg sorbitol in each capsule. Sorbitol is a source of fructose.
-
-## 3. How to take Vyndaqel
-
-Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
-
-The recommended dose is one Vyndaqel 61 mg (tafamidis) capsule taken once a day.
-
-If you vomit after taking this medicine and can identify the intact Vyndaqel capsule, then an additional dose of Vyndaqel should be taken in the same day; if you cannot identify the Vyndaqel capsule, then no additional dose of Vyndaqel is necessary, and you can resume taking Vyndaqel the next day as usual.
-
-## Method of administration
-
-Vyndaqel is for oral use. The soft capsule should be swallowed whole, not crushed or cut.
-
-<div style=\"page-break-after: always\"></div>
-
-The capsule may be taken with or without food.
-
-## Instructions for opening the blisters
-
-- Tear off one individual blister from the blister card along the perforated line.
-- Push capsule through the aluminium foil.
-
-## If you take more Vyndaqel than you should
-
-You should not take more capsules than your doctor tells you to. If you take more capsules than you have been told to take, contact your doctor.
-
-## If you forget to take Vyndaqel
-
-If you forget to take a dose, take your capsules as soon as you remember. If it is within 6 hours before your next dose, skip the missed dose and take the next dose at the usual time. Do not take a double dose to make up for a forgotten dose.
-
-## If you stop taking Vyndaqel
-
-Do not stop taking Vyndaqel without first speaking to your doctor. As Vyndaqel works by stabilising the TTR protein, if you stop taking Vyndaqel, the protein will no longer be stabilised, and your disease may progress.
-
-If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
-
-## 4. Possible side effects
-
-Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-Common: may affect up to 1 in 10 people
-
-- Diarrhoea
-- Rash, itching
-
-In clinical studies, the side effects in patients taking Vyndaqel were generally similar to that of patients not taking Vyndaqel. Flatulence and increase in liver function tests were reported more often in ATTR-CM patients treated with Vyndaqel.
-
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-## 5. How to store Vyndaqel
-
-Keep this medicine out of the sight and reach of children.
-
-Do not use this medicine after the expiry date which is stated on the blister card and on the carton. The expiry date refers to the last day of that month.
-
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-<div style=\"page-break-after: always\"></div>
-
-## 6. Contents of the pack and other information
-
-## What Vyndaqel contains
-
-- The active substance is tafamidis. Each capsule contains 61 mg micronized tafamidis.
-- The other ingredients are: gelatine (E 441), glycerine (E 422), sorbitol (E 420) [see section 2 'Vyndaqel contains sorbitol'], mannitol (E 421), sorbitan, red iron oxide (E 172), purified water, macrogol 400 (E 1521), polysorbate 20 (E 432), povidone (K-value 90), butylated hydroxytoluene (E321), ethyl alcohol, isopropyl alcohol, polyvinyl acetate phthalate, propylene glycol (E 1520), titanium dioxide (E 171), and ammonium hydroxide (E 527).
-
-## What Vyndaqel looks like and contents of the pack
-
-Vyndaqel soft capsules are reddish brown, opaque, oblong (approximately 21 mm) printed with 'VYN 61' in white. Vyndaqel is available in two pack sizes of PVC/PA/alu/PVC-alu perforated unit dose blisters: a pack of 30 x 1 soft capsules and a multipack of 90 soft capsules comprising of 3 cartons, each containing 30 x 1 soft capsules. Not all pack sizes may be marketed.
-
-## Marketing Authorisation Holder
-
-Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
-
-## Manufacturer
-
-Pfizer Service Company BV Hermeslaan 11 1932 Zaventem Belgium
-
-Or
-
-Millmount Healthcare Limited Block 7, City North Business Campus Stamullen K32 YD60 Ireland
-
-Or
-
-Pfizer Manufacturing Deutschland GmbH Mooswaldallee 1 79108 Freiburg Im Breisgau Germany
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
-
-België/Belgique/Belgien Luxembourg/Luxemburg Pfizer NV/SA Tél/Tel: +32 (0)2 554 62 11
-
-## Lietuva
-
-Pfizer Luxembourg SARL filialas Lietuvoje Tel: +370 5 251 4000
-
-## България
-
-Пфайзер Люксембург САРЛ, Клон България
-
-Тел.: +359 2 970 4333
-
-## Magyarország
-
-Pfizer Kft.
-
-Tel.: +36 1 488 37 00
-
-<div style=\"page-break-after: always\"></div>
-
-## Česká republika
-
-Pfizer, spol. s r.o.
-
-Tel: +420 283 004 111
-
-## Danmark
-
-Pfizer ApS
-
-Tlf.: +45 44 20 11 00
-
-## Deutschland
-
-PFIZER PHARMA GmbH
-
-Tel: +49 (0)30 550055-51000
-
-## Eesti
-
-Pfizer Luxembourg SARL Eesti filiaal Tel: +372 666 7500
-
-## Ελλάδα
-
-Pfizer Ελλάς A.E.
-
-Τηλ: +30 210 6785800
-
-## España
-
-Pfizer, S.L.
-
-Tel: +34 91 490 99 00
-
-## France
-
-Pfizer
-
-Tél +33 (0)1 58 07 34 40
-
-## Hrvatska
-
-Pfizer Croatia d.o.o. Tel: + 385 1 3908 777
-
-## Ireland
-
-Pfizer Healthcare Ireland Unlimited Company Tel: +1800 633 363 (toll free) Tel: +44 (0)1304 616161
-
-## Ísland
-
-Icepharma hf.
-
-Sími: +354 540 8000
-
-## Italia
-
-Pfizer S.r.l.
-
-Tel: +39 06 33 18 21
-
-## Κύπρος
-
-Pfizer Ελλάς Α.Ε. (Cyprus Branch) Τηλ: +357 22817690
-
 ## Latvija
 
 Pfizer Luxembourg SARL filiāle Latvijā
 
 Tel: +371 670 35 775
 
-## Malta
-
-Vivian Corporation Ltd.
-
-Tel: +356 21344610
-
-## Nederland
-
-Pfizer bv
-
-Tel: +31 (0)800 63 34 636
-
-## Norge
-
-Pfizer AS
-
-Tlf: +47 67 52 61 00
-
-## Österreich
-
-Pfizer Corporation Austria Ges.m.b.H.
-
-Tel: +43 (0)1 521 15-0
-
-## Polska
-
-Pfizer Polska Sp. z o.o.,
-
-Tel.: +48 22 335 61 00
-
-## Portugal
-
-Laboratórios Pfizer, Lda.
-
-Tel: +351 21 423 5500
-
-## România
-
-Pfizer Romania S.R.L.
-
-Tel: +40 (0) 21 207 28 00
-
-## Slovenija
-
-Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: + 386 (0)1 52 11 400
-
-## Slovenská republika
-
-Pfizer Luxembourg SARL, organizačná zložka Tel: + 421 2 3355 5500
-
-## Suomi/Finland
-
-Pfizer Oy Puh/Tel: +358 (0)9 430 040
-
-## Sverige
-
-Pfizer AB
-
-Tel: +46 (0)8 550 520 00
-
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in &lt;{MM/YYYY}&gt;.
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
 If this leaflet is difficult to see or read or you would like it in a different format, please contact the Marketing Authorisation Holder's local office number that is provided in this leaflet.

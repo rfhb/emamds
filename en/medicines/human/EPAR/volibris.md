@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 07:33:57
+document_datetime: 2026-04-22 16:28:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/volibris.html
 document_name: volibris.html
 version: success
-processing_time: 0.1355884
-conversion_datetime: 2025-12-30 19:53:06.591282
+processing_time: 0.1580654
+conversion_datetime: 2026-04-25 16:05:06.237676
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Volibris
 
 [RSS](/en/individual-human-medicine.xml/66040)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-ambrisentan Medicine Human Authorised
+ambrisentan
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -38,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Volibris](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-85513)
 - [More information on Volibris](#more-information-on-volibris-595)
 - [More information on Volibris](#related-medicines)
 - [Topics](#topics)
@@ -106,275 +107,141 @@ Reference Number: EMA/178169/2019
 
 English (EN) (100.64 KB - PDF)
 
-**First published:** 29/04/2008
-
-**Last updated:** 16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/en/documents/overview/volibris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-388)
+[Other languages (22)](#file-language-dropdown-466)
 
 български (BG) (128.7 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/bg/documents/overview/volibris-epar-medicine-overview_bg.pdf)
 
 español (ES) (100.54 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/es/documents/overview/volibris-epar-medicine-overview_es.pdf)
 
 čeština (CS) (132.8 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/cs/documents/overview/volibris-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (99.36 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/da/documents/overview/volibris-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (101.46 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/de/documents/overview/volibris-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (99.38 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/et/documents/overview/volibris-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (134.72 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/el/documents/overview/volibris-epar-medicine-overview_el.pdf)
 
 français (FR) (100.93 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/fr/documents/overview/volibris-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (121.14 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/hr/documents/overview/volibris-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (99.94 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/it/documents/overview/volibris-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (130.68 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/lv/documents/overview/volibris-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (123.31 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/lt/documents/overview/volibris-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (121.7 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/hu/documents/overview/volibris-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (127.15 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/mt/documents/overview/volibris-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (99.69 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/nl/documents/overview/volibris-epar-medicine-overview_nl.pdf)
 
 polski (PL) (126.19 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/pl/documents/overview/volibris-epar-medicine-overview_pl.pdf)
 
 português (PT) (100.4 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/pt/documents/overview/volibris-epar-medicine-overview_pt.pdf)
 
 română (RO) (123.55 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/ro/documents/overview/volibris-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (126.18 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/sk/documents/overview/volibris-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (119.31 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/sl/documents/overview/volibris-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (99.63 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/fi/documents/overview/volibris-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (99.55 KB - PDF)
 
-**First published:**
-
-29/04/2008
-
-**Last updated:**
-
-16/07/2019
+**First published:** 29/04/2008 **Last updated:** 16/07/2019
 
 [View](/sv/documents/overview/volibris-epar-medicine-overview_sv.pdf)
 
@@ -382,9 +249,7 @@ Volibris : EPAR - Risk-management-plan
 
 English (EN) (2.58 MB - PDF)
 
-**First published:** 11/02/2019
-
-**Last updated:** 25/07/2025
+**First published:** 11/02/2019 **Last updated:** 25/07/2025
 
 [View](/en/documents/rmp-summary/volibris-epar-risk-management-plan_en.pdf)
 
@@ -392,305 +257,161 @@ English (EN) (2.58 MB - PDF)
 
 Volibris : EPAR - Product Information
 
-English (EN) (732.86 KB - PDF)
+English (EN) (611.03 KB - PDF)
 
-**First published:** 19/01/2010
-
-**Last updated:** 02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/en/documents/product-information/volibris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-244)
+[Other languages (24)](#file-language-dropdown-309)
 
-български (BG) (772.37 KB - PDF)
+български (BG) (670.14 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/bg/documents/product-information/volibris-epar-product-information_bg.pdf)
 
-español (ES) (654.2 KB - PDF)
+español (ES) (612.32 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/es/documents/product-information/volibris-epar-product-information_es.pdf)
 
-čeština (CS) (730.18 KB - PDF)
+čeština (CS) (663.02 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/cs/documents/product-information/volibris-epar-product-information_cs.pdf)
 
-dansk (DA) (702.23 KB - PDF)
+dansk (DA) (656.37 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/da/documents/product-information/volibris-epar-product-information_da.pdf)
 
-Deutsch (DE) (611.42 KB - PDF)
+Deutsch (DE) (581.6 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/de/documents/product-information/volibris-epar-product-information_de.pdf)
 
-eesti keel (ET) (839.69 KB - PDF)
+eesti keel (ET) (565.3 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/et/documents/product-information/volibris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (751.25 KB - PDF)
+ελληνικά (EL) (581.4 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/el/documents/product-information/volibris-epar-product-information_el.pdf)
 
-français (FR) (693.93 KB - PDF)
+français (FR) (638.63 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/fr/documents/product-information/volibris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (710.31 KB - PDF)
+hrvatski (HR) (554.92 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/hr/documents/product-information/volibris-epar-product-information_hr.pdf)
 
-íslenska (IS) (668.79 KB - PDF)
+íslenska (IS) (669.36 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/is/documents/product-information/volibris-epar-product-information_is.pdf)
 
-italiano (IT) (678.41 KB - PDF)
+italiano (IT) (618.02 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/it/documents/product-information/volibris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (727.35 KB - PDF)
+latviešu valoda (LV) (673.59 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/lv/documents/product-information/volibris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (789.73 KB - PDF)
+lietuvių kalba (LT) (600.05 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/lt/documents/product-information/volibris-epar-product-information_lt.pdf)
 
-magyar (HU) (675.05 KB - PDF)
+magyar (HU) (582.38 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/hu/documents/product-information/volibris-epar-product-information_hu.pdf)
 
-Malti (MT) (828 KB - PDF)
+Malti (MT) (677.88 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/mt/documents/product-information/volibris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (729.87 KB - PDF)
+Nederlands (NL) (637.19 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/nl/documents/product-information/volibris-epar-product-information_nl.pdf)
 
-norsk (NO) (582.07 KB - PDF)
+norsk (NO) (527.21 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/no/documents/product-information/volibris-epar-product-information_no.pdf)
 
-polski (PL) (704.19 KB - PDF)
+polski (PL) (565.14 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/pl/documents/product-information/volibris-epar-product-information_pl.pdf)
 
-português (PT) (640.75 KB - PDF)
+português (PT) (555.3 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/pt/documents/product-information/volibris-epar-product-information_pt.pdf)
 
-română (RO) (754.5 KB - PDF)
+română (RO) (614.92 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/ro/documents/product-information/volibris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (644.02 KB - PDF)
+slovenčina (SK) (549.21 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/sk/documents/product-information/volibris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (789.44 KB - PDF)
+slovenščina (SL) (662.69 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/sl/documents/product-information/volibris-epar-product-information_sl.pdf)
 
-Suomi (FI) (576.83 KB - PDF)
+Suomi (FI) (528.85 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/fi/documents/product-information/volibris-epar-product-information_fi.pdf)
 
-svenska (SV) (713.21 KB - PDF)
+svenska (SV) (598.03 KB - PDF)
 
-**First published:**
-
-19/01/2010
-
-**Last updated:**
-
-02/05/2024
+**First published:** 19/01/2010 **Last updated:** 22/04/2026
 
 [View](/sv/documents/product-information/volibris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0067 14/03/2024
+**Latest procedure affecting product information:** T/0000335136
+
+16/04/2026
 
 icon globe
 
@@ -710,299 +431,153 @@ Volibris : EPAR - All Authorised presentations
 
 English (EN) (19.73 KB - PDF)
 
-**First published:** 28/04/2008
-
-**Last updated:** 28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/en/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-775)
+[Other languages (24)](#file-language-dropdown-926)
 
 български (BG) (43.35 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/bg/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (19.58 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/es/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (35.1 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/cs/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (22.76 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/da/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (20.15 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/de/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (20.39 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/et/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (42.83 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/el/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (20.18 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/fr/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (35.8 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/hr/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (18.26 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/is/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (20.89 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/it/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (40.1 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/lv/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (42.19 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/lt/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (41.92 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/hu/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (34.79 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/mt/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (20.09 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/nl/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (19.52 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/no/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (29.89 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/pl/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (22.61 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/pt/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (38.98 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/ro/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (65.58 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/sk/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (19.84 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/sl/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (19.88 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/fi/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (20.41 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/09/2021
+**First published:** 28/04/2008 **Last updated:** 28/09/2021
 
 [View](/sv/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_sv.pdf)
 
@@ -1010,269 +585,159 @@ Volibris : EPAR - Conditions imposed on member states for safe and effective use
 
 English (EN) (23.24 KB - PDF)
 
-**First published:** 28/04/2008
-
-**Last updated:** 28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/en/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-832)
+[Other languages (21)](#file-language-dropdown-385)
 
 български (BG) (109.19 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/bg/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_bg.pdf)
 
 español (ES) (25.93 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/es/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_es.pdf)
 
 čeština (CS) (102.52 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/cs/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_cs.pdf)
 
 dansk (DA) (26.81 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/da/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_da.pdf)
 
 Deutsch (DE) (26.7 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/de/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_de.pdf)
 
 eesti keel (ET) (30.36 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/et/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_et.pdf)
 
 ελληνικά (EL) (108.28 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/el/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_el.pdf)
 
 français (FR) (32.87 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/fr/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fr.pdf)
 
 italiano (IT) (25.31 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/it/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_it.pdf)
 
 latviešu valoda (LV) (105.01 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/lv/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lv.pdf)
 
 lietuvių kalba (LT) (99.04 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/lt/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lt.pdf)
 
 magyar (HU) (72.75 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/hu/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_hu.pdf)
 
 Malti (MT) (102.57 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/mt/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_mt.pdf)
 
 Nederlands (NL) (25.6 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/nl/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_nl.pdf)
 
 polski (PL) (125.79 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/pl/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_pl.pdf)
 
 português (PT) (24.92 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/pt/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_pt.pdf)
 
 română (RO) (102.01 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/ro/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_ro.pdf)
 
 slovenčina (SK) (100.77 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/sk/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sk.pdf)
 
 slovenščina (SL) (92.55 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/sl/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sl.pdf)
 
 Suomi (FI) (22.76 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/fi/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fi.pdf)
 
 svenska (SV) (27.49 KB - PDF)
 
-**First published:**
-
-28/04/2008
-
-**Last updated:**
-
-28/04/2008
+**First published:** 28/04/2008 **Last updated:** 28/04/2008
 
 [View](/sv/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sv.pdf)
 
 ## Product details
 
-Name of medicine Volibris Active substance ambrisentan International non-proprietary name (INN) or common name ambrisentan Therapeutic area (MeSH) Hypertension, Pulmonary Anatomical therapeutic chemical (ATC) code C02KX02
+Name of medicine
+
+Volibris
+
+Active substance
+
+ambrisentan
+
+International non-proprietary name (INN) or common name
+
+ambrisentan
+
+Therapeutic area (MeSH)
+
+Hypertension, Pulmonary
+
+Anatomical therapeutic chemical (ATC) code
+
+C02KX02
 
 ### Pharmacotherapeutic group
 
@@ -1286,13 +751,23 @@ Volibris is indicated for treatment of PAH in adolescents and children (aged 8 t
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000839 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000839
+
+Marketing authorisation holder
 
 GlaxoSmithKline Trading Services Limited
 
 12 Riverwalk Citywest Business Campus Dublin 24 D24 YK11 Ireland
 
-Marketing authorisation issued 20/04/2008 Revision 26
+Marketing authorisation issued
+
+21/04/2008
+
+Revision
+
+27
 
 ## Assessment history
 
@@ -1304,9 +779,9 @@ Collapse section
 
 Volibris : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (138.14 KB - PDF)
+English (EN) (136.34 KB - PDF)
 
-**First published:** 25/07/2025
+**First published:** 25/07/2025 **Last updated:** 22/04/2026
 
 [View](/en/documents/procedural-steps-after/volibris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1314,17 +789,13 @@ Volibris : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (316.69 KB - PDF)
 
-**First published:** 19/01/2010
-
-**Last updated:** 25/07/2025
+**First published:** 19/01/2010 **Last updated:** 25/07/2025
 
 [View](/en/documents/procedural-steps-after/volibris-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Volibris-H-C-000839-II-0067 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/120148/2024
+Adopted Reference Number: EMA/120148/2024
 
 English (EN) (843.1 KB - PDF)
 
@@ -1334,9 +805,7 @@ English (EN) (843.1 KB - PDF)
 
 Volibris-H-C-839-P46-029 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/29478/2023
+Adopted Reference Number: EMA/29478/2023
 
 English (EN) (1.37 MB - PDF)
 
@@ -1346,9 +815,7 @@ English (EN) (1.37 MB - PDF)
 
 Volibris-H-C-839-X-0061-G: EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/476747/2021
+Adopted Reference Number: EMA/CHMP/476747/2021
 
 English (EN) (4.33 MB - PDF)
 
@@ -1358,9 +825,7 @@ English (EN) (4.33 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Volibris (X-61-G)
 
-Adopted
-
-Reference Number: EMA/CHMP/398036/2021
+Adopted Reference Number: EMA/CHMP/398036/2021
 
 English (EN) (130.65 KB - PDF)
 
@@ -1370,57 +835,41 @@ English (EN) (130.65 KB - PDF)
 
 Volibris-H-C-839-II-0041 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/605025/2015
+Adopted Reference Number: EMA/CHMP/605025/2015
 
 English (EN) (1.99 MB - PDF)
 
-**First published:** 12/01/2016
-
-**Last updated:** 12/01/2016
+**First published:** 12/01/2016 **Last updated:** 12/01/2016
 
 [View](/en/documents/variation-report/volibris-h-c-839-ii-0041-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Volibris
 
-Adopted
-
-Reference Number: EMA/CHMP/605508/2015
+Adopted Reference Number: EMA/CHMP/605508/2015
 
 English (EN) (51.29 KB - PDF)
 
-**First published:** 23/10/2015
-
-**Last updated:** 23/10/2015
+**First published:** 23/10/2015 **Last updated:** 23/10/2015
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-volibris_en.pdf)
 
 Volibris-H-C-839-II-0026 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/394431/2012
+Adopted Reference Number: EMA/CHMP/394431/2012
 
 English (EN) (367.18 KB - PDF)
 
-**First published:** 24/10/2012
-
-**Last updated:** 24/10/2012
+**First published:** 24/10/2012 **Last updated:** 24/10/2012
 
 [View](/en/documents/variation-report/volibris-h-c-839-ii-0026-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Volibris
 
-Adopted
-
-Reference Number: EMEA/CHMP/423444/2012
+Adopted Reference Number: EMEA/CHMP/423444/2012
 
 English (EN) (52.02 KB - PDF)
 
-**First published:** 22/06/2012
-
-**Last updated:** 22/06/2012
+**First published:** 22/06/2012 **Last updated:** 22/06/2012
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-volibris_en.pdf-0)
 
@@ -1430,9 +879,7 @@ Volibris : EPAR - Public assessment report
 
 English (EN) (409.97 KB - PDF)
 
-**First published:** 29/04/2008
-
-**Last updated:** 29/04/2008
+**First published:** 29/04/2008 **Last updated:** 29/04/2008
 
 [View](/en/documents/assessment-report/volibris-epar-public-assessment-report_en.pdf)
 
@@ -1442,32 +889,192 @@ Reference Number: EMEA/CHMP/31425/2008
 
 English (EN) (27.9 KB - PDF)
 
-**First published:** 21/02/2008
-
-**Last updated:** 21/02/2008
+**First published:** 21/02/2008 **Last updated:** 21/02/2008
 
 [View](/en/documents/smop-initial/committee-medicinal-products-human-use-summary-positive-opinion-volibris_en.pdf)
 
-#### News on Volibris
+## News on Volibris
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 July 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-july-2021) 23/07/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 July 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-july-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 October 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-october-2015) 23/10/2015
+23/07/2021
 
-#### More information on Volibris
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 October 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-october-2015)
+
+23/10/2015
+
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Volibris : EPAR - Product information - tracked changes
+
+English (EN) (362.28 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/en/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-412)
+
+български (BG) (868 KB - DOC)
+
+**First published:** 22/04/2026
+
+[View](/bg/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_bg.doc)
+
+español (ES) (376.7 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/es/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (366.65 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/cs/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (368.81 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/da/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (315.69 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/de/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (636.5 KB - DOC)
+
+**First published:** 22/04/2026
+
+[View](/et/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_et.doc)
+
+ελληνικά (EL) (321.07 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/el/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (696 KB - DOC)
+
+**First published:** 22/04/2026
+
+[View](/fr/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_fr.doc)
+
+hrvatski (HR) (654 KB - DOC)
+
+**First published:** 22/04/2026
+
+[View](/hr/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_hr.doc)
+
+íslenska (IS) (383.09 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/is/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (682.5 KB - DOC)
+
+**First published:** 22/04/2026
+
+[View](/it/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_it.doc)
+
+latviešu valoda (LV) (394.08 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/lv/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (794.5 KB - DOC)
+
+**First published:** 22/04/2026
+
+[View](/lt/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_lt.doc)
+
+magyar (HU) (708 KB - DOC)
+
+**First published:** 22/04/2026
+
+[View](/hu/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_hu.doc)
+
+Malti (MT) (338.9 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/mt/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (367.35 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/nl/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (228.65 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/no/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (321.66 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/pl/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (530 KB - DOC)
+
+**First published:** 22/04/2026
+
+[View](/pt/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_pt.doc)
+
+română (RO) (353.62 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/ro/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (317.69 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/sk/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (872 KB - DOC)
+
+**First published:** 22/04/2026
+
+[View](/sl/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_sl.doc)
+
+Suomi (FI) (624.5 KB - DOC)
+
+**First published:** 22/04/2026
+
+[View](/fi/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_fi.doc)
+
+svenska (SV) (504.98 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/sv/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_sv.docx)
+
+## More information on Volibris
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu305273) on 11 April 2005. Volibris was withdrawn from the Community register of orphan medicinal products in April 2018 at the end of the 10-year period of market exclusivity.
 
-#### More information on Volibris
+## More information on Volibris
 
 - [EMEA-000434-PIP01-08-M10 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000434-pip01-08-m10)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 25/07/2025
+**This page was last updated on**
+
+22/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

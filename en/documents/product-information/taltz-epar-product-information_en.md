@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-11 14:37:57
+document_datetime: 2026-04-23 12:27:54
 document_pages: 123
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/taltz-epar-product-information_en.pdf
 document_name: taltz-epar-product-information_en.pdf
 version: success
-processing_time: 43.6584398
-conversion_datetime: 2025-12-27 21:05:16.311379
+processing_time: 50.8679828
+conversion_datetime: 2026-04-25 16:13:34.673575
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -266,9 +266,9 @@ The most frequently reported adverse reactions were injection site reactions (15
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions from clinical studies and post-marketing reports (Table 1) are listed by MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/1 00); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000).
+Adverse reactions from clinical studies and post-marketing reports (Table 1) are listed by MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000).
 
-A total of 8 956 patients have been treated with Taltz in blinded and open-label clinical studies in plaque psoriasis, psoriatic arthritis, axial spondyloarthritis, and other autoimmune conditions. Of these, 6 385 patients were exposed to Taltz for at least one year, cumulatively representing 19 833 adult patient years of exposure and 196 children cumulatively representing 207 patient years of exposure.
+A total of 8 956 patients have been treated with Taltz in blinded and open-label clinical studies in plaque psoriasis, psoriatic arthritis, axial spondyloarthritis, and other autoimmune conditions. Of these, 6 385 patients were exposed to Taltz for at least one year, cumulatively representing 19 833 adult patient years of exposure and 196 children cumulatively representing 343 patient years of exposure.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -452,6 +452,42 @@ Ixekizumab was associated with a fast onset of efficacy with &gt; 50 % reduction
 
 <div style=\"page-break-after: always\"></div>
 
+PASI Percent Improvement from Baseline
+
+-20
+
+-30
+
+-40
+
+-50
+
+-60
+
+-70
+
+-80
+
+-90
+
+-100
+
+Treatment Week
+
+5
+
+6
+
+8
+
+9
+
+10
+
+11
+
+12
+
 Figure 1. PASI score, percent improvement at each post baseline visit (mBOCF)) in the intent-to-treat population during the induction dosing period - UNCOVER-2 and UNCOVER-3
 
 <!-- image -->
@@ -541,7 +577,19 @@ a Endpoints were gated in this order
 
 <div style=\"page-break-after: always\"></div>
 
+80
+
+60
+
+40
+
+20
+
+Patients achieving response (%)
+
 Figure 2: PASI 100 at weeks 4, 8, 12 and 24, NRI
+
+52
 
 *p&lt;0.001 vs guselkumab at weeks 4, 8, and 12
 
@@ -568,6 +616,8 @@ Table 8. Efficacy results at week 12 in Adults with genital psoriasis in trial I
 | N with baseline SFQ Item 2 Score ≥2                           | N=37         | N=42      |                                    |
 | SFQ-item 2 score, '0' (never limited) or '1' (rarely limited) | 78%          | 21%       | 57% (39%, 75%)                     |
 
+50
+
 <div style=\"page-break-after: always\"></div>
 
 all on patient's life. sPGA of '0' or '1' is equivalent to 'clear' or 'minimal'; NRS = Numeric Rating Scale
@@ -583,6 +633,10 @@ A randomised, double-blind, multicenter, placebo-controlled trial (IXORA-Peds) e
 &gt;50 kg: 160 mg at week 0 followed by 80 mg Q4W (n=147)
 
 Patients randomised to etanercept (patients with severe psoriasis) received 0.8 mg/kg, not exceeding 50 mg per dose, every week from week 0 through week 11.
+
+After the initial 12 week double-blind induction period, patients were eligible to enter a 48 week open-label maintenance period (from week 12 to week 60), with ixekizumab at the weight appropriate dose, followed by an extension period for up to 108 weeks.
+
+## Clinical response at week 12
 
 Response to treatment was assessed after 12 weeks and defined by the proportion of patients who achieved the co-primary endpoint of an sPGA score of '0' (clear) or '1' (almost clear) with at least a 2 point improvement from baseline and the proportion of patients that achieved a reduction in PASI score of at least 75% (PASI 75) from baseline.
 
@@ -609,17 +663,36 @@ Table 9. Efficacy results in paediatric patients with plaque psoriasis, NRI
 | PASI 100 d                               | 57 (50)                      | 1 (2)                  | 47.8 (38.0, 57.6) f              | 5 (17)                      | 43.9 (23.4, 64.3)                     |
 | Itch NRS (≥4 point improvement) d, e     | 59 (71)                      | 8 (20)                 | 51.1 (35.3, 66.9) f              | Not evaluated               | ---                                   |
 
-Abbreviations: N = Number of patients in the intent-to-treat population; NRI = Non-Responder Imputation.
-
-a At week 0, subjects received 160 mg, 80 mg, or 40 mg of ixekizumab, followed by 80 mg, 40 mg, or 20 mg every 4 weeks, depending on weight category, for 12 weeks.
-
 <div style=\"page-break-after: always\"></div>
 
+Figure 3.
+
+Percent of Responders
+
+Percent of patients achieving PASI 75 in paediatric psoriasis th
+
+100-
+
+80-
+
+60-
+
+Abbreviations: N = Number of patients in the intent-to-treat population; NRI = Non-Responder Imputation.
+
+40-
+
+20-
+
+0-
+
+- a At week 0, subjects received 160 mg, 80 mg, or 40 mg of ixekizumab, followed by 80 mg, 40 mg, or 20 mg every 4 weeks, depending on weight category, for 12 weeks.
 - b Comparisons to etanercept were performed within the sub-population of patients outside of US and Canada with severe Ps (N for ixekizumab = 38).
 - c Co-primary endpoints.
 - d Results at week 12.
 - e Itch NRS (≥4 improvement) in patients with baseline Itch NRS ≥4. The number of ITT patients with baseline Itch NRS Score ≥4 are as follows: ixekizumab, n = 83; PBO, n = 40.
 - f p&lt;0.001
+
+Time (Weeks)
 
 Figure 3. Percent of patients achieving PASI 75 in paediatric psoriasis through week 12
 
@@ -629,21 +702,30 @@ Patients in the ixekizumab treatment group had clinically meaningful higher CDLQ
 
 There were greater improvements at week 12 from baseline compared to placebo in nail psoriasis (as measured by the Nail Psoriasis Severity Index [NAPSI=0: ixekizumab 18% (6/34), placebo 0% (0/12)]), in scalp psoriasis (as measured by Psoriasis Scalp Severity Index [PSSI=0: ixekizumab 69% (70/102), placebo 16% (8/50)]) and in palmoplantar psoriasis (as measured by Psoriasis Palmoplantar Severity Index [PPASI 75: ixekizumab 53% (9/17), placebo 11% (1/9)]).
 
+## Maintenance of response at week 60 and up to 108 weeks
+
+In patients continuously treated with ixekizumab, clinically meaningful improvements in efficacy endpoints were sustained through week 108:
+
+- PASI 75: 83.0% at week 60; 76.6% at week 108 (NRI)
+- sPGA (0,1): 74.5% at week 60; 68.1% at week 108 (NRI)
+
 ## Psoriatic arthritis
 
-Ixekizumab was assessed in two randomised, double-blind, placebo-controlled phase III studies in 780 patients with active psoriatic arthritis (≥3 swollen and ≥3 tender  joints). Patients had a diagnosis of psoriatic arthritis (Classification Criteria for Psoriatic Arthritis [CASPAR] criteria) for a median of 5.33 years and had current plaque psoriasis skin lesions (94.0%) or a documented history of plaque psoriasis, with 12.1% of patients with moderate to severe plaque psoriasis at baseline. Over  58.9% and 22.3% of the psoriatic arthritis patients had enthesitis and dactylitis at baseline, respectively. Primary endpoint of both  studies was American College of Rheumatology (ACR) 20 response at week 24, followed by a long-term extension period from week 24 to week 156 (3 years).
-
-In Psoriatic Arthritis Study 1 (SPIRIT-P1), patients naive to biologic therapy with active psoriatic arthritis were randomised to placebo, adalimumab 40 mg once every 2 weeks (active control reference arm), ixekizumab 80 mg once every 2 weeks (Q2W), or 80 mg once every 4 weeks (Q4W). Both ixekizumab regimens included a 160 mg starting dose. 85.3% of patients in this study had received prior treatment with ≥1 conventional disease-modifying antirheumatic drug (cDMARD). 53% of patients had concomitant use of MTX at a mean weekly dose of 15.8 mg. 67% of patients who had concomitant use of MTX had a dose of 15 mg or greater. Patients with an inadequate response at week 16 received rescue therapy (modification to background therapy). Patients on ixekizumab Q2W
+Ixekizumab was assessed in two randomised, double-blind, placebo-controlled phase III studies in 780 patients with active psoriatic arthritis (≥3 swollen and ≥3 tender  joints). Patients had a diagnosis of psoriatic arthritis (Classification Criteria for Psoriatic Arthritis [CASPAR] criteria) for a median of 5.33 years and had current plaque psoriasis skin lesions (94.0%) or a documented history of plaque psoriasis, with 12.1% of patients with moderate to severe plaque psoriasis at baseline. Over  58.9% and 22.3% of the psoriatic arthritis patients had enthesitis and dactylitis at baseline, respectively.
 
 <div style=\"page-break-after: always\"></div>
 
-or Q4W remained on their originally assigned dose of ixekizumab. Patients receiving adalimumab or placebo were re-randomised 1:1 to ixekizumab Q2W or Q4W at week 16 or 24 based on responder status. 243 patients completed the extension period of 3 years on ixekizumab.
+Primary endpoint of both  studies was American College of Rheumatology (ACR) 20 response at week 24, followed by a long-term extension period from week 24 to week 156 (3 years).
+
+In Psoriatic Arthritis Study 1 (SPIRIT-P1), patients naive to biologic therapy with active psoriatic arthritis were randomised to placebo, adalimumab 40 mg once every 2 weeks (active control reference arm), ixekizumab 80 mg once every 2 weeks (Q2W), or 80 mg once every 4 weeks (Q4W). Both ixekizumab regimens included a 160 mg starting dose. 85.3% of patients in this study had received prior treatment with ≥1 conventional disease-modifying antirheumatic drug (cDMARD). 53% of patients had concomitant use of MTX at a mean weekly dose of 15.8 mg. 67% of patients who had concomitant use of MTX had a dose of 15 mg or greater. Patients with an inadequate response at week 16 received rescue therapy (modification to background therapy). Patients on ixekizumab Q2W or Q4W remained on their originally assigned dose of ixekizumab. Patients receiving adalimumab or placebo were re-randomised 1:1 to ixekizumab Q2W or Q4W at week 16 or 24 based on responder status. 243 patients completed the extension period of 3 years on ixekizumab.
 
 Psoriatic Arthritis Study 2 (SPIRIT-P2) enrolled patients who were previously treated with an anti-TNF agent and discontinued the  anti-TNF agent for either lack of efficacy or intolerance (anti-TNF-IR patients). Patients were randomised to placebo, ixekizumab 80 mg once every 2 weeks (Q2W), or 80 mg once every 4 weeks (Q4W). Both ixekizumab regimens included a 160 mg starting dose. 56% and 35% of patients were inadequate responders to 1 anti-TNF or 2 anti-TNF, respectively. SPIRIT-P2 evaluated 363 patients, of whom 41% had concomitant use of MTX at a mean weekly dose of 16.1 mg. 73.2% of patients who had concomitant use of MTX had a dose of 15 mg or greater. Patients with an inadequate response at week 16 received rescue therapy (modification to background therapy). Patients in ixekizumab Q2W or Q4W remained on their originally assigned dose of ixekizumab. Patients receiving placebo were re-randomised 1:1 to ixekizumab Q2W or Q4W at week 16 or 24 based on responder status. 168 patients completed the extension period of 3 years on ixekizumab.
 
 ## Signs and symptoms
 
 Treatment with ixekizumab resulted in significant improvement in measures of disease activity compared to placebo at week 24 (see Table 10).
+
+<div style=\"page-break-after: always\"></div>
 
 Table 10. Efficacy results in SPIRIT-P1 and SPIRIT-P2 at week 24
 
@@ -662,11 +744,7 @@ Table 10. Efficacy results in SPIRIT-P1 and SPIRIT-P2 at week 24
 | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) |
 | week 24                                                                                   | 1 (1.5)                                                                                   | 21 (28.8)                                                                                 | 19 (32.2)                                                                                 | 9 (13.2)                                                                                  | 27.3 (16.5, 38.1) c                                                                       | 30.7 (18.4, 43.0) b                                                                       | 0 (0.0)                                                                                   | 12 (17.6)                                                                                 | 10 (14.7)                                                                                 | 17.6 (8.6, 26.7) c                                                                        | 14.7 (6.3, 23.1) c                                                                        |
 
-Abbreviations: ACR 20/50/70 = American College of Rheumatology 20%/50%/70% response rate; ADA = adalimumab; BSA = body surface area; CI = confidence interval; Q4W = ixekizumab 80 mg every 4 weeks; Q2W = ixekizumab 80 mg every 2 weeks; N = number of patients in the analysis population; n = number of patients in the specified category; NRI = non-responder imputation; PASI
-
-<div style=\"page-break-after: always\"></div>
-
-100 = psoriasis area and severity index 100% improvement; PBO = placebo.
+Abbreviations: ACR 20/50/70 = American College of Rheumatology 20%/50%/70% response rate; ADA = adalimumab; BSA = body surface area; CI = confidence interval; Q4W = ixekizumab 80 mg every 4 weeks; Q2W = ixekizumab 80 mg every 2 weeks; N = number of patients in the analysis population; n = number of patients in the specified category; NRI = non-responder imputation; PASI 100 = psoriasis area and severity index 100% improvement; PBO = placebo.
 
 Note: patients who were rescued at week 16 or discontinued or with missing data were imputed as non-responders for week 24 analyses.
 
@@ -680,6 +758,8 @@ In patients with ≥3% BSA , the improvement in skin clearance at week 12 as mea
 
 Treatment responses on ixekizumab were significantly greater than those on placebo as early as week 1 for ACR 20, week 4 for ACR 50 and week 8 for ACR 70 and persisted through week 24; effects were maintained through 3 years for patients who remained in the study.
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 4. ACR 20 response in SPIRIT-P1 over time up to week 24
 
 <!-- image -->
@@ -689,8 +769,6 @@ For both ixekizumab Q2W and Q4W:  b  p&lt;0.01 and  c  p&lt;0.001 compared with 
 In SPIRIT-P1 and SPIRIT-P2, similar responses for ACR 20/50/70 were seen in patients with psoriatic arthritis regardless of  whether they were on concomitant cDMARDs, including MTX treatment, or not.
 
 In SPIRIT-P1and SPIRIT-P2, improvements were shown in all components of the ACR scores including patient assessment of pain.  At week 24 the proportion of patients achieving a modified Psoriatic Arthritis Response Criteria (PsARC) response was greater  in the ixekizumab -treated patients compared to placebo.
-
-<div style=\"page-break-after: always\"></div>
 
 In SPIRIT-P1, efficacy was maintained up to week 52 as assessed by ACR 20/50/70, MDA, enthesitis resolution, dactylitis resolution, and PASI 75/90/100 response rates.
 
@@ -702,9 +780,13 @@ In SPIRIT-P2, 70 patients completed 3 years of Q4W ixekizumab treatment. Among t
 
 ## Radiographic response
 
-In SPIRIT-P1, inhibition of progression of structural damage was assessed radiographically and expressed as the change in modified total Sharp Score (mTSS) and its components, the Erosion Score  (ES) and the Joint Space Narrowing score (JSN) at weeks 24 and 52, compared to baseline. week 24  data are presented in Table 11.
+In SPIRIT-P1, inhibition of progression of structural damage was assessed radiographically and expressed as the change in modified total Sharp Score (mTSS) and its components, the Erosion
 
-Table 11. Change in modified Total Sharp Score in SPIRIT-P1
+<div style=\"page-break-after: always\"></div>
+
+Score  (ES) and the Joint Space Narrowing score (JSN) at weeks 24 and 52, compared to baseline. week 24  data are presented in Table 11.
+
+## Table 11. Change in modified Total Sharp Score in SPIRIT-P1
 
 |                                           |               |                          |                          |               | Difference from placebo (95% CI)   | Difference from placebo (95% CI)   |
 |-------------------------------------------|---------------|--------------------------|--------------------------|---------------|------------------------------------|------------------------------------|
@@ -712,21 +794,13 @@ Table 11. Change in modified Total Sharp Score in SPIRIT-P1
 | Baseline score, mean (SD)                 | 17.6 (28.62)  | 19.2 (32.68)             | 15.2 (28.86)             | 15.9 (27.37)  | NA                                 | NA                                 |
 | Change from baseline at week 24, LSM (SE) | 0.51 (0.092)  | 0.18 (0.090)             | 0.09 (0.091)             | 0.13 (0.093)  | -0.33 (-0.57,-0.09) b              | -0.42 (-0.66,-0.19) c              |
 
-Abbreviations: ADA = adalimumab; CI = confidence interval; Q4W = ixekizumab 80 mg every 4 weeks; Q2W = ixekizumab 80 mg every 2 weeks; LSM = least squares mean; N = number of patients
-
-in the analysis population; PBO = placebo; SE = standard error; SD = standard deviation.
-
-b  p&lt;0.01;  c  p&lt;0.001 compared with placebo.
+Abbreviations: ADA = adalimumab; CI = confidence interval; Q4W = ixekizumab 80 mg every 4 weeks; Q2W = ixekizumab 80 mg every 2 weeks; LSM = least squares mean; N = number of patients in the analysis population; PBO = placebo; SE = standard error; SD = standard deviation. b  p&lt;0.01;  c  p&lt;0.001 compared with placebo.
 
 Radiographic joint damage progression was inhibited by ixekizumab (Table 11) at week 24, and the percentage of patients with no radiographic joint damage progression (defined as a change from baseline in mTSS of ≤0.5) from randomisation to week 24 was 94.8% for ixekizumab Q2W (p&lt;0.001), 89.0% for ixekizumab Q4W (p=0.026), 95.8% for adalimumab (p&lt;0.001), all compared to 77.4% for placebo. At week 52, the mean change from baseline in mTSS was 0.27 for placebo/ ixekizumab Q4W, 0.54 for ixekizumab Q4W/ ixekizumab Q4W, and 0.32 for adalimumab/ ixekizumab Q4W. The percentage of patients with no radiographic joint damage progression from randomisation to week 52 was 90.9% for placebo/ ixekizumab Q4W, 85.6% for ixekizumab Q4W/ ixekizumab Q4W, and 89.4% for adalimumab/ ixekizumab Q4W. Patients had no structural progression from baseline (defined as mTSS≤0.5) in the treatment arms as follows: Placebo/ ixekizumab Q4W 81.5% (N=22/27), ixekizumab Q4W/ ixekizumab Q4W 73.6% (N=53/72), and adalimumab/ ixekizumab Q4W 88.2% (N=30/34).
 
 ## Physical function and health-related quality of life
 
-In both SPIRIT-P1 and SPIRIT-P2, patients treated with ixekizumab Q2W (p&lt;0.001) and Q4W (p&lt;0.001) showed significant improvement in physical function compared to patients treated with
-
-<div style=\"page-break-after: always\"></div>
-
-placebo as assessed by Health  Assessment Questionnaire-Disability Index (HAQ-DI) at week 24, and maintained at week 52 in SPIRIT-P1.
+In both SPIRIT-P1 and SPIRIT-P2, patients treated with ixekizumab Q2W (p&lt;0.001) and Q4W (p&lt;0.001) showed significant improvement in physical function compared to patients treated with placebo as assessed by Health  Assessment Questionnaire-Disability Index (HAQ-DI) at week 24, and maintained at week 52 in SPIRIT-P1.
 
 Ixekizumab -treated patients reported improvements in health-related quality of life as  measured by the Physical Component Summary of the Short Form-36 Health Survey (SF-36 PCS) score (p&lt;0.001). There were also improvements demonstrated in fatigue as assessed by Fatigue severity NRS  scores (p&lt;0.001).
 
@@ -734,15 +808,43 @@ Ixekizumab -treated patients reported improvements in health-related quality of 
 
 Efficacy and safety of ixekizumab was investigated in a multicenter, randomised, open-label, rater-blinded, parallel-group study (SPIRIT-H2H) compared to adalimumab (ADA) in 566 patients with PsA who were naïve to biologic disease-modifying anti-rheumatic drugs (bDMARD). Patients were stratified at baseline based on concomitant cDMARD use and presence of moderate-to-severe psoriasis (PASI≥12, BSA≥10 and sPGA≥3).
 
-Ixekizumab was superior to ADA on the primary study objective: simultaneous achievement of ACR 50 and PASI 100 response at week 24 (ixekizumab 36.0% vs ADA 27.9%; p=0.036; 95% confidence interval [0.5%, 15.8%]). Ixekizumab also showed non-inferiority (pre-specified margin of 12%) to ADA on ACR 50 (ITT analysis: ixekizumab 50.5% vs ADA 46.6%; 3.9% difference vs. ADA; 95% confidence interval [-4.3%; 12.1%]; PPS analysis ixekizumab: 52.3%, ADA: 53.1%, difference: -0.8% [CI: -10.3%; 8.7%]) and superiority on PASI 100 at week 24 (60.1 % with ixekizumab vs 46.6% with ADA, p=0.001), which were the major secondary endpoints in the study. At week 52 a higher proportion of patients treated with ixekizumab versus ADA simultaneously achieved ACR50 and PASI 100 [39% (111/283) versus 26% (74/283)] and PASI 100 [64% (182/283) versus 41% (117/283)]. Ixekizumab and ADA treatment resulted in similar responses for ACR50 [49.8% (141/283) versus 49.8% (141/283)]. Responses to ixekizumab were consistent when used as monotherapy or with concomitant use of methotrexate.
+Ixekizumab was superior to ADA on the primary study objective: simultaneous achievement of ACR 50 and PASI 100 response at week 24 (ixekizumab 36.0% vs ADA 27.9%; p=0.036; 95% confidence interval [0.5%, 15.8%]). Ixekizumab also showed non-inferiority (pre-specified margin of 12%) to ADA on ACR 50 (ITT analysis: ixekizumab 50.5% vs ADA 46.6%; 3.9% difference vs. ADA; 95% confidence interval [-4.3%; 12.1%]; PPS analysis ixekizumab: 52.3%, ADA: 53.1%, difference: -0.8% [CI: -10.3%; 8.7%]) and superiority on PASI 100 at week 24 (60.1 % with ixekizumab vs 46.6% with ADA, p=0.001), which were the major secondary endpoints in the study.
+
+<div style=\"page-break-after: always\"></div>
+
+onse Rate (%)
+
+100
+
+80
+
+40 -
+
+20
+
+0
+
+ACR 50 &amp; PASI 100: ADA (N=283)
+
+·.., ACR 50: ADA (N=283)
+
+- PASI 100: ADA (N=283)
+
+CACR 50 &amp; PASI 100: TALTZ (N=283)
+
+-* ·ACR 50: TALTZ (N=283)
+
+-· PASI 100: TALTZ (N=283)
+
+At week 52 a higher proportion of patients treated with ixekizumab versus ADA simultaneously achieved ACR50 and PASI 100 [39% (111/283) versus 26% (74/283)] and PASI 100 [64% (182/283) versus 41% (117/283)]. Ixekizumab and ADA treatment resulted in similar responses for ACR50 [49.8% (141/283) versus 49.8% (141/283)]. Responses to ixekizumab were consistent when used as monotherapy or with concomitant use of methotrexate.
 
 Figure 5. Primary endpoint (simultaneous ACR 50 &amp; PASI 100) and major secondary endpoints (ACR 50; PASI 100) response rates week 0 - 24 [ITT population, NRI]**
 
 <!-- image -->
 
-** Ixekizumab 160 mg week 0, then 80 mg every 2 weeks to week 12 and every 4 weeks thereafter for patients with moderate to severe plaque psoriasis or 160 mg week 0, then 80 mg every 4 week for other patients, ADA 80 mg week 0, then 40 mg every 2 weeks from week 1 for patients with moderate to severe plaque psoriasis or 40 mg week 0, then 40 mg every 2 weeks for other patients. Significance level only provided for endpoint that was pre-defined and multiplicity tested.
+*ps.01 vs. ADA; Tp&lt;. 05 vs. ADA.
 
-<div style=\"page-break-after: always\"></div>
+** Ixekizumab 160 mg week 0, then 80 mg every 2 weeks to week 12 and every 4 weeks thereafter for patients with moderate to severe plaque psoriasis or 160 mg week 0, then 80 mg every 4 week for other patients, ADA 80 mg week 0, then 40 mg every 2 weeks from week 1 for patients with moderate to severe plaque psoriasis or 40 mg week 0, then 40 mg every 2 weeks for other patients. Significance level only provided for endpoint that was pre-defined and multiplicity tested.
 
 ## Axial spondyloarthritis
 
@@ -754,6 +856,8 @@ Ixekizumab was assessed in a total of 657 patients in two randomised, double-bli
 
 COAST-V evaluated 341 biologic-naive patients treated with either ixekizumab 80 mg or 160 mg at week 0 followed by 80 mg every 2 weeks (Q2W) or 4 weeks (Q4W), adalimumab 40 mg every 2 weeks, or with placebo. Patients receiving placebo were re-randomised at week 16 to receive ixekizumab (160 mg starting dose, followed by 80 mg Q2W or Q4W). Patients receiving adalimumab were re-randomised at week 16 to receive ixekizumab (80 mg Q2W or Q4W).
 
+<div style=\"page-break-after: always\"></div>
+
 COAST-W evaluated 316 patients who had prior experience with 1 or 2 TNF-inhibitors (90% were inadequate responders and 10% were intolerant to TNF inhibitors). All patients were treated with ixekizumab 80 or 160 mg at week 0 followed by 80 mg Q2W or Q4W, or with placebo. Patients receiving placebo were re-randomised at week 16 to receive ixekizumab (160 mg initial dose, followed by 80 mg Q2W or Q4W).
 
 The primary endpoint in both studies was the percentage of patients achieving an Assessment of Spondyloarthritis International Society 40 (ASAS40) response at week 16.
@@ -764,39 +868,57 @@ In both studies, patients treated with ixekizumab 80 mg Q2W or 80 mg Q4W demonst
 
 Table 12. Efficacy results in COAST-V and COAST-W at week 16
 
-|                                  | COAST-V, biologic-naive       | COAST-V, biologic-naive   | COAST-V, biologic-naive   | COAST-V, biologic-naive     | COAST-W, TNF-inhibitor experienced   | COAST-W, TNF-inhibitor experienced   | COAST-W, TNF-inhibitor experienced   |
-|----------------------------------|-------------------------------|---------------------------|---------------------------|-----------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
-|                                  | Ixekizumab 80 mg Q4W a (N=81) | Placebo (N=87)            | Difference from placebo g | Adalimumab 40 mg Q2W (N=90) | Ixekizum ab 80 mg Q4W c (N=114)      | Placebo (N=104)                      | Difference from placebo g            |
-| ASAS20 response b , n (%), NRI   | 52 (64.2%)                    | 35 (40.2%)                | 24.0 (9.3, 38.6) **       | 53 (58.9%)                  | 55 (48.2%)                           | 31 (29.8%)                           | 18.4 (5.7, 31.1) **                  |
-| ASAS40 response b,c , n (%), NRI | 39 (48.1%)                    | 16 (18.4%)                | 29.8 (16.2, 43.3) ***     | 32 (35.6%)                  | 29 (25.4%)                           | 13 (12.5%)                           | 12.9 (2.7, 23.2) *                   |
-| ASDAS                            |                               |                           |                           |                             |                                      |                                      |                                      |
-| Change from baseline Baseline    | -1.4 3.7                      | -0.5 3.9                  | -1.0 (-1.3, -0.7) ***     | -1.3*** 3.7                 | -1.2 4.2                             | -0.1 4.1                             | -1.1 (-1.3, -0.8) ***                |
-| BASDAI Score                     |                               |                           |                           |                             |                                      |                                      |                                      |
-| Change from baseline Baseline    | -2.9 6.8 i                    | -1.4 6.8 i                | -1.5 (-2.1, -0.9) ***     | -2.5*** 6.7 i               | -2.2 7.5                             | -0.9 7.3                             | -1.2 (-1.8, -0.7) ***                |
-| MRI Spine SPARCC d               |                               |                           |                           |                             |                                      |                                      |                                      |
-| Change from baseline Baseline    | -11.0 14.5                    | -1.5 15.8                 | -9.5 (-12.6, -6.4) ***    | -11.6*** 20.0               | -3.0 8.3                             | 3.3 6.4                              | -6.3 (-10.0, -2.5) **                |
-| BASDAI50 e n (%), NRI            | 34 (42.0%)                    | 15 (17.2%)                | 24.7 (11.4, 38.1) ***     | 29 (32.2%)*                 | 25 (21.9%) i                         | 10 (9.6%) i                          | 12.3 (2.8, 21.8)*                    |
+|                                               | COAST-V, biologic-naive       | COAST-V, biologic-naive   | COAST-V, biologic-naive   | COAST-V, biologic-naive     | COAST-W, TNF-inhibitor experienced   | COAST-W, TNF-inhibitor experienced   | COAST-W, TNF-inhibitor experienced   |
+|-----------------------------------------------|-------------------------------|---------------------------|---------------------------|-----------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+|                                               | Ixekizumab 80 mg Q4W a (N=81) | Placebo (N=87)            | Difference from placebo g | Adalimumab 40 mg Q2W (N=90) | Ixekizum ab 80 mg Q4W c (N=114)      | Placebo (N=104)                      | Difference from placebo g            |
+| ASAS20 response b , n (%), NRI                | 52 (64.2%)                    | 35 (40.2%)                | 24.0 (9.3, 38.6) **       | 53 (58.9%)                  | 55 (48.2%)                           | 31 (29.8%)                           | 18.4 (5.7, 31.1) **                  |
+| ASAS40 response b,c , n (%), NRI              | 39 (48.1%)                    | 16 (18.4%)                | 29.8 (16.2, 43.3) ***     | 32 (35.6%)                  | 29 (25.4%)                           | 13 (12.5%)                           | 12.9 (2.7, 23.2) *                   |
+| ASDAS                                         |                               |                           |                           |                             |                                      |                                      |                                      |
+| Change from baseline Baseline                 | -1.4 3.7                      | -0.5 3.9                  | -1.0 (-1.3, -0.7) ***     | -1.3*** 3.7                 | -1.2 4.2                             | -0.1 4.1                             | -1.1 (-1.3, -0.8) ***                |
+| BASDAI Score                                  |                               |                           |                           |                             |                                      |                                      |                                      |
+| Change from baseline Baseline                 | -2.9 6.8 i                    | -1.4 6.8 i                | -1.5 (-2.1, -0.9) ***     | -2.5*** 6.7 i               | -2.2 7.5                             | -0.9 7.3                             | -1.2 (-1.8, -0.7) ***                |
+| MRI Spine SPARCC d                            |                               |                           |                           |                             |                                      |                                      |                                      |
+| Change from baseline Baseline                 | -11.0 14.5                    | -1.5 15.8                 | -9.5 (-12.6, -6.4) ***    | -11.6*** 20.0               | -3.0 8.3                             | 3.3 6.4                              | -6.3 (-10.0, -2.5) **                |
+| BASDAI50 e n (%), NRI                         | 34 (42.0%)                    | 15 (17.2%)                | 24.7 (11.4, 38.1) ***     | 29 (32.2%)*                 | 25 (21.9%) i                         | 10 (9.6%) i                          | 12.3 (2.8, 21.8)*                    |
+| ASDAS <2.1, n (%) (low disease activity), NRI | 35 (43.2%) h                  | 11 (12.6%) h              | 30.6 (17.7, 43.4) ***     | 34 (37.8%)*** h             | 20 (17.5%)                           | 5 (4.8%)                             | 12.7 ( 4.6, 20.8) **                 |
+| ASDAS <1.3, n (%) (inactive disease), NRI     | 13 (16.0%)                    | 2 (2.3%)                  | 13.8 (5.2, 22.3) **       | 14 (15.6%)**                | 4 (3.5%) i                           | 1 (1.0%) i                           | 2.5 (-1.3, 6.4)                      |
+| ASAS HI f Change from baseline Baseline       | -2.4 7.5                      | -1.3 8.1                  | -1.1 (-2.0, -0.3) *       | -2.3* 8.2                   | -1.9 10.0                            | -0.9 9.0                             | -1.0 (-1.9, -0.1) *                  |
+| SF-36 PCS Change from baseline Baseline       | 7.7 34.0                      | 3.6 32.0                  | 4.1 (1.9, 6.2) ***        | 6.9** 33.5                  | 6.6 27.5                             | 1.4 30.6                             | 5.2 (3.0, 7.4) ***                   |
+
+Abbreviations: N = number of patients in the intent-to-treat population; NRI = Non-responder Imputation; patients with missing data were counted as non-responders. ASAS HI = Assessment of SpondyloArthritis International Society Health Index; ASDAS = Ankylosing Spondylitis Disease Activity Score; BASDAI = Bath Ankylosing Spondylitis Disease Activity Index; CFB = least square mean change from baseline at week 16; MRI Spine SPARCC = Spondyloarthritis Research Consortium of Canada Magnetic Resonance Imaging Scoring of the Spine (23 discovertebral unit scale)
+
+- a At week 0, patients received 80 mg or 160 mg of ixekizumab .
+
+b An ASAS20 response is defined as a ≥20% improvement and an absolute improvement from baseline of ≥1 unit (range 0 to 10) in ≥3 of 4 domains (Patient Global, Spinal Pain, Function, and Inflammation), and no worsening of ≥20% and ≥1 unit (range 0 to 10) in the remaining
 
 <div style=\"page-break-after: always\"></div>
 
-| ASDAS <2.1, n (%) (low disease activity), NRI   | 35 (43.2%) h   | 11 (12.6%) h   | 30.6 (17.7, 43.4) ***   | 34 (37.8%)*** h   | 20 (17.5%)   | 5 (4.8%)   | 12.7 ( 4.6, 20.8) **   |
-|-------------------------------------------------|----------------|----------------|-------------------------|-------------------|--------------|------------|------------------------|
-| ASDAS <1.3, n (%) (inactive disease), NRI       | 13 (16.0%)     | 2 (2.3%)       | 13.8 (5.2, 22.3) **     | 14 (15.6%)**      | 4 (3.5%) i   | 1 (1.0%) i | 2.5 (-1.3, 6.4)        |
-| ASAS HI f Change from baseline Baseline         | -2.4           | -1.3           | -1.1 (-2.0, -0.3)       | -2.3* 8.2         | -1.9         | -0.9       | -1.0 (-1.9, -0.1) *    |
-| SF-36 PCS                                       | 7.5            | 8.1            | *                       |                   | 10.0         | 9.0        | 5.2 (3.0, 7.4)         |
-| Change from baseline Baseline                   | 7.7 34.0       | 3.6 32.0       | 4.1 (1.9, 6.2) ***      | 6.9** 33.5        | 6.6 27.5     | 1.4 30.6   | ***                    |
+Percent of Responders
 
-Abbreviations: N = number of patients in the intent-to-treat population; NRI = Non-responder
+80
 
-Imputation; patients with missing data were counted as non-responders.
+60-
 
-ASAS HI = Assessment of SpondyloArthritis International Society Health Index; ASDAS = Ankylosing Spondylitis Disease Activity Score; BASDAI = Bath Ankylosing Spondylitis Disease Activity Index; CFB = least square mean change from baseline at week 16; MRI Spine SPARCC = Spondyloarthritis Research Consortium of Canada Magnetic Resonance Imaging Scoring of the Spine (23 discovertebral unit scale)
+40-
 
-- a At week 0, patients received 80 mg or 160 mg of ixekizumab .
-- b An ASAS20 response is defined as a ≥20% improvement and an absolute improvement from baseline of ≥1 unit (range 0 to 10) in ≥3 of 4 domains (Patient Global, Spinal Pain, Function, and Inflammation), and no worsening of ≥20% and ≥1 unit (range 0 to 10) in the remaining domain. An ASAS40 response is defined as a ≥40% improvement and an absolute improvement from baseline of ≥2 units in ≥3 of 4 domains without any worsening in the remaining domain.
+20-
+
+0
+
+0
+
+1
+
+COAST-V
+
+80-
+
+60-
+
+- domain. An ASAS40 response is defined as a ≥40% improvement and an absolute improvement from baseline of ≥2 units in ≥3 of 4 domains without any worsening in the remaining domain.
 - c Primary endpoint.
-- d The numbers of ITT patients with MRI data at baseline are as follows: COAST-V: ixekizumab , n = 81; PBO, n = 82; ADA, n=85. COAST-W: ixekizumab , n = 58; PBO, n = 51.
-- e BASDAI50 response defined as an improvement of ≥50% of the BASDAI score from baseline.
+- d The numbers of ITT patients with MRI data at baseline are as follows: COAST-V: ixekizumab , n = 81; PBO, n = 82; ADA, n=85. COAST-W: ixekizumab , n = 58; PBO, n = 51. · A
+- e BASDAI50 response defined as an improvement of ≥50% of the BASDAI score from baseline. 4
 - f ASAS HI: Assessment of SpondyloArthritis International Society Health Index (ASAS HI) across all domains.
 - g The reported values are difference in %( 95% CI) for categorical variables, and difference in LSM (95% CI) for continuous variables.
 - h post hoc analysis, not multiplicity corrected.
@@ -805,15 +927,9 @@ ASAS HI = Assessment of SpondyloArthritis International Society Health Index; AS
 
 There were improvements in the main components of the ASAS40 response criteria (spinal pain, BASFI, patient global assessment, stiffness) and other measures of disease activity, including CRP, at week 16.
 
-<div style=\"page-break-after: always\"></div>
-
 Figure 6. Percent of patients achieving ASAS40 responses in COAST-V and COAST-W through week 16, NRI a
 
 <!-- image -->
-
-a Patients with missing data were counted as non-responders.
-
-* p&lt;0.05; ** p&lt;0.01; *** p&lt;0.001 compared with placebo.
 
 Similar response in ASAS40 was seen in patients regardless of baseline CRP levels, baseline ASDAS scores and MRI spine SPARCC scores. The ASAS40 response was demonstrated regardless of age, gender, race, disease duration, baseline body weight, baseline BASDAI score and prior biologic treatment.
 
@@ -825,13 +941,17 @@ Spinal pain showed improvements versus placebo as early as week 1, maintained th
 
 ## Non-radiographic axial spondyloarthritis
 
-Ixekizumab was assessed in a randomised, double-blind study with a 52-week placebo-controlled period (COAST-X) in 303 adult patients with active axial spondyloarthritis for at least 3 months. Patients must have had objective signs of inflammation indicated by elevated C-reactive protein (CRP) and/or sacroiliitis on magnetic resonance imaging (MRI), and no definitive radiographic evidence of structural damage on sacroiliac joints. Patients had active disease as defined by the Bath Ankylosing Spondylitis Disease Activity In dex (BASDAI) ≥4, and spinal pain ≥4 on a 0 to 10 Numerical Rating Scale (NRS), despite non-steroidal anti-inflammatory drug (NSAID) therapy. Patients were treated with either ixekizumab 80 mg or 160 mg at week 0, followed by 80 mg every 2 weeks (Q2W) or 80 mg every 4 weeks (Q4W) or with placebo. Dose adjustment and/or initiation of concomitant medications (NSAIDs, cDMARDs, corticosteroids, analgesics) were permitted starting at week 16.
+Ixekizumab was assessed in a randomised, double-blind study with a 52-week placebo-controlled period (COAST-X) in 303 adult patients with active axial spondyloarthritis for at least 3 months. Patients must have had objective signs of inflammation indicated by elevated C-reactive protein (CRP)
+
+COAST-W
+
+<div style=\"page-break-after: always\"></div>
+
+and/or sacroiliitis on magnetic resonance imaging (MRI), and no definitive radiographic evidence of structural damage on sacroiliac joints. Patients had active disease as defined by the Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) ≥4, and spinal pain ≥4 on a 0 to 10 Numerical Rating Scale (NRS), despite non-steroidal anti-inflammatory drug (NSAID) therapy. Patients were treated with either ixekizumab 80 mg or 160 mg at week 0, followed by 80 mg every 2 weeks (Q2W) or 80 mg every 4 weeks (Q4W) or with placebo. Dose adjustment and/or initiation of concomitant medications (NSAIDs, cDMARDs, corticosteroids, analgesics) were permitted starting at week 16.
 
 At baseline, patients had symptoms of non-radiographic axSpA for an average of 11 years. Approximately 39% of the patients were on a concomitant cDMARD.
 
 The primary endpoint was the percentage of patients achieving an Assessment of Spondyloarthritis International Society 40 (ASAS40) response at week 16.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Clinical response
 
@@ -865,15 +985,36 @@ e Primary endpoint at week 16.
 
 f The numbers of ITT patients with MRI data at baseline and week 16 are as follows: ixekizumab, n = 85; PBO, n = 90.
 
+<div style=\"page-break-after: always\"></div>
+
+Figure 1.
+
+Percent of Responders
+
+Percent or patients achieving ASAS40 response through week 10 in cu
+
+80
+
+60-
+
 - g Patients with missing data were counted as non-responders. Percentages are based on the number of patients in the ITT population with baseline ASDAS ≥2.1.
-- h The reported values are difference in %( 95% CI) for categorical variables, and difference in LSM (95% CI) for continuous variables.
+
+40-
+
+20-
+
+0-
+
+- h The reported values are difference in %( 95% CI) for categorical variables, and difference in LSM (95% CI) for continuous variables. **
 * p&lt;0.05; ** p&lt;0.01; *** p&lt;0.001 compared with placebo.
+
+·
 
 The improvement in the main components of the ASAS40 response criteria (spinal pain, BASFI, patient global assessment, stiffness) and other measures of disease activity demonstrated significant clinical improvement at week 16.
 
-<div style=\"page-break-after: always\"></div>
-
 Figure 7. Percent of patients achieving ASAS40 response through week 16 in COAST-X, NRI a
+
+Time (Weeks)
 
 <!-- image -->
 
@@ -890,23 +1031,23 @@ Spinal pain showed improvements versus placebo as early as week 1 and was mainta
 
 Patients who completed one of the three pivotal studies COAST-V/W/X (52 weeks) were offered participation in a long-term extension and randomised withdrawal study (COAST-Y, with 350 and 423 patients enrolled on ixekizumab Q4W and Q2W, respectively). Among those who achieved remission 157/773 (20.3%) (Ankylosing Spondylitis Disease Activity Score [ASDAS] &lt;1.3 at least once, and no ASDAS score ≥2.1, at weeks 16 and 20), 155 patients exposed to ixekizumab up to 76 weeks were randomised at week 24 of the COAST-Y study (Placebo, N=53; ixekizumab Q4W, N=48; and ixekizumab Q2W, N=54); of these, 148 (95.5%) completed the week 64 visit (Placebo, N=50; ixekizumab Q4W, N=47; ixekizumab Q2W, N=51). The primary endpoint was the proportion of patients in the randomised withdrawal population who did not experience a flare during weeks 24-64 (combined ixekizumab Q2W and ixekizumab Q4W groups versus placebo). A significantly larger proportion of patients (NRI) in the combined ixekizumab groups (83.3% (85/102), p&lt;0.001) and ixekizumab Q4W (83.3 % (40/48), p=0.003) had no flare during weeks 24-64 compared with those who withdrew from ixekizumab to placebo (54.7 % (29/53)). ixekizumab (in both combined ixekizumab groups and ixekizumab Q4W group) significantly delayed the time to flare (Log-Rank Test p&lt;0.001 and p&lt;0.01, respectively) compared to Placebo.
 
+<div style=\"page-break-after: always\"></div>
+
 In patients who received ixekizumab Q4W continuously (N=157), the ASAS40, ASDAS &lt;2.1 and BASDAI50 responses were maintained to week 116.
 
 ## Juvenile Idiopathic Arthritis
 
 ## Juvenile psoriatic arthritis (JPsA)and enthesitis-related arthritis (ERA)
 
-A multicenter, open-label, efficacy, safety, tolerability, and pharmacokinetic study (COSPIRIT-JIA) of subcutaneous ixekizumab with adalimumab reference arm, in children from 2 to less than 18 years of age with JPsA or ERA was performed to evaluate the safety and efficacy of ixekizumab for 16
-
-<div style=\"page-break-after: always\"></div>
-
-weeks after treatment initiation. The primary endpoint of the study was to determine the percentage of patients meeting the JIA ACR 30 (30 % improvement in American College of Rheumatology criteria) response criteria at week 16.
+A multicenter, open-label, efficacy, safety, tolerability, and pharmacokinetic study (COSPIRIT-JIA) of subcutaneous ixekizumab with adalimumab reference arm, in children from 2 to less than 18 years of age with JPsA or ERA was performed to evaluate the safety and efficacy of ixekizumab for 16 weeks after treatment initiation. The primary endpoint of the study was to determine the percentage of patients meeting the JIA ACR 30 (30 % improvement in American College of Rheumatology criteria) response criteria at week 16.
 
 Twenty patients were randomly assigned to ixekizumab and 20 patients to adalimumab. Randomisation was stratified based on the category of JIA (JPsA or ERA). The remaining patients who were bDMARD-naive or bDMARD-experienced were assigned to ixekizumab. Patients entering the study were not required to have a documented inadequate response to prior treatment.
 
 In the ixekizumab group (N = 81), the JIA patient subtypes at study entry were: 33.3% JPsA and 66.7% ERA; with 74.1% (60/81) patients bDMARD naïve, and 33.3% (27/81) cDMARD naïve. Overall, 72.8% of ixekizumab treated patients received at least 1 concomitant JIA therapy during the Open Label Treatment (OLT) period. Baseline concomitant methotrexate use was reported for 40.7% of patients, baseline concomitant sulfasalazine use reported for 4.9%, baseline concomitant NSAIDs use reported for 49.4% and baseline concomitant glucocorticoids use reported for 11.1%.
 
-Patients assigned to ixekizumab (N = 81) received dosing stratified by weight as follows: 10 to &lt; 25 kg: 40 mg at week 0 followed by 20 mg Q4W (n = 6) 25 kg to 50 kg: 80 mg at week 0 followed by 40 mg Q4W (n = 20) &gt; 50 kg: 160 mg at week 0 followed by 80 mg Q4W (n = 55)
+Patients assigned to ixekizumab (N = 81) received dosing stratified by weight as follows:
+
+10 to &lt; 25 kg: 40 mg at week 0 followed by 20 mg Q4W (n = 6) 25 kg to 50 kg: 80 mg at week 0 followed by 40 mg Q4W (n = 20) &gt; 50 kg: 160 mg at week 0 followed by 80 mg Q4W (n = 55)
 
 For the randomized  bDMARD naïve patients, JIA ACR 30 response rate at week 16 was 18/20 (90%) for the ixekizumab group and 19/20 (95%) in the adalimumab group. In the overall ixekizumab population (n=81) the JIA ACR 30 response rate was 54/60 (90%) in the bDMARD naïve group and 18/21 (85.7%) in the bDMARD experienced group.
 
@@ -915,6 +1056,10 @@ JIA ACR 30 response rates at week 16 were also consistent across JPsA (24/27, 88
 In addition, the percentage of patients meeting the JIA ACR 30/50/70/90/100 response criteria were evaluated at week 16. The clinical response data are presented in Figure 8.
 
 <div style=\"page-break-after: always\"></div>
+
+IXEKIZUMAB (N =81)
+
+100
 
 Figure 8. JIA ACR 30/50/70/90/100 response rates in the ixekizumab group over 16 weeks - ITT Population (NRI method)
 
@@ -935,6 +1080,16 @@ The European Medicines Agency has deferred the obligation to submit the results 
 ## Absorption
 
 Following a single subcutaneous dose of ixekizumab in patients with psoriasis, mean peak concentrations were achieved within 4 to 7 days, across a dose range of 5 to 160 mg. The mean (SD)
+
+Response Rate (%)
+
+75
+
+25
+
+0
+
+0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -982,7 +1137,7 @@ Specific clinical pharmacology studies to evaluate the effects of renal impairme
 
 Paediatric psoriasis patients (age 6 to less than 18 years) were administered ixekizumab at the recommended paediatric dosing regimen for 12 weeks. Patients weighing &gt;50 kg and 25 to 50 kg had a mean ±SD steady-state trough concentration of 3.8 ±2.2 µg/mL and 3.9 ±2.4 µg/mL, respectively, at week 12.
 
-Paediatric juvenile idiopathic arthritis patients (age 6 to less than 18 years) were administered ixekizumab at the recommended paediatric dosing regimen for 16 weeks. Patients weighing &gt; 50 kg, and 25 to 50 kg had a mean ± SD steadystate trough concentration of 3.9 ± 1.8 and 3.5 ± 1.3 μg/m L, respectively, at week 16. There were limited PK data in patients weighing &lt; 25 kg.
+Paediatric juvenile idiopathic arthritis patients (age 6 to less than 18 years) were administered ixekizumab at the recommended paediatric dosing regimen for 16 weeks. Patients weighing &gt; 50 kg, and 25 to 50 kg had a mean ± SD steady-state trough concentra tion of 3.9 ± 1.8 and 3.5 ± 1.3 μg/m L, respectively, at week 16. There were limited PK data in patients weighing &lt; 25 kg.
 
 ## 5.3 Preclinical safety data
 
@@ -1062,7 +1217,13 @@ Eli Lilly and Company (Ireland) Limited, Dunderrow, Kinsale, Co. Cork, Ireland.
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/15/1085/004 EU/1/15/1085/005 EU/1/15/1085/006 EU/1/15/1085/007
+EU/1/15/1085/004
+
+EU/1/15/1085/005
+
+EU/1/15/1085/006
+
+EU/1/15/1085/007
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1316,9 +1477,9 @@ The most frequently reported adverse reactions were injection site reactions (15
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions from clinical studies and post-marketing reports (Table 1) are listed by MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000).
+Adverse reactions from clinical studies and post-marketing reports (Table 1) are listed by MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/10 0); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000).
 
-A total of 8 956 patients have been treated with Taltz in blinded and open-label clinical studies in plaque psoriasis, psoriatic arthritis, axial spondyloarthritis, and other autoimmune conditions. Of these, 6 385 patients were exposed to Taltz for at least one year, cumulatively representing 19 833 adult patient years of exposure and 196 children cumulatively representing 207 patient years of exposure.
+A total of 8 956 patients have been treated with Taltz in blinded and open-label clinical studies in plaque psoriasis, psoriatic arthritis, axial spondyloarthritis, and other autoimmune conditions. Of these, 6 385 patients were exposed to Taltz for at least one year, cumulatively representing 19 833 adult patient years of exposure and 196 children cumulatively representing 343 patient years of exposure.
 
 Table 1. List of adverse reactions in clinical studies and post-marketing reports
 
@@ -1506,6 +1667,48 @@ Ixekizumab was associated with a fast onset of efficacy with &gt; 50 % reduction
 
 <div style=\"page-break-after: always\"></div>
 
+PASI Percent Improvement from Baseline
+
+-10
+
+-20
+
+-30
+
+-40
+
+-50
+
+-60
+
+-70
+
+-80
+
+-90
+
+-100
+
+4
+
+Treatment Week
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
 Figure 1. PASI score, percent improvement at each post baseline visit (mBOCF)) in the intent-to-treat population during the induction dosing period - UNCOVER-2 and UNCOVER-3
 
 <!-- image -->
@@ -1569,9 +1772,7 @@ Table 6. PASI-response rates from comparative study ixekizumab versus ustekinuma
 | PASI 90, n (%)  | 99 (72.8%) § | 70 (42.2 %)   | 113 (83.1 %) | 98 (59.0 %)   | 104 (76.5%) | 98 (59.0 %)   |
 | PASI 100, n (%) | 49 (36.0 %)  | 24 (14.5 %)   | 67 (49.3%)   | 39 (23.5 %)   | 71 (52.2%)  | 59 (35.5 %)   |
 
-** Weight based dosing: Patients treated with ustekinumab received 45 mg or 90 mg at weeks 0 and 4, then every 12 weeks until week 52 (dosed by weight as per approved posology)
-
-§ p &lt; 0.001 versus ustekinumab (p value only provided for primary endpoint)
+** Weight based dosing: Patients treated with ustekinumab received 45 mg or 90 mg at weeks 0 and 4, then every 12 weeks until week 52 (dosed by weight as per approved posology) § p &lt; 0.001 versus ustekinumab (p value only provided for primary endpoint)
 
 IXORA-R: Efficacy and safety of ixekizumab was also investigated in a 24-week randomised, double-blind, parallel-group study comparing ixekizumab to guselkumab, with ixekizumab being superior as early as week 4 in achieving complete skin clearance and on the primary study objective (PASI 100 at week 12) and non-inferior on PASI 100 at week 24 (Table 7).
 
@@ -1597,7 +1798,19 @@ a Endpoints were gated in this order
 
 <div style=\"page-break-after: always\"></div>
 
+80
+
+60
+
+40
+
+20
+
+Patients achieving response (%)
+
 Figure 2: PASI 100 at weeks 4, 8, 12 and 24, NRI
+
+52
 
 *p&lt;0.001 vs guselkumab at weeks 4, 8, and 12
 
@@ -1624,6 +1837,8 @@ Table 8. Efficacy results at week 12 in Adults with genital psoriasis in trial I
 | N with baseline SFQ Item 2 Score ≥2                           | N=37         | N=42      |                                    |
 | SFQ-item 2 score, '0' (never limited) or '1' (rarely limited) | 78%          | 21%       | 57% (39%, 75%)                     |
 
+50
+
 <div style=\"page-break-after: always\"></div>
 
 effect at all on patient's life. sPGA of '0' or '1' is equivalent to 'clear' or 'minimal'; NRS = Numeric Rating Scale
@@ -1641,6 +1856,10 @@ Patients were randomised to placebo (n=56), etanercept (n=30) or ixekizumab (n=1
 - &gt;50 kg: 160 mg at week 0 followed by 80 mg Q4W (n=147)
 
 Patients randomised to etanercept (patients with severe psoriasis) received 0.8 mg/kg, not exceeding 50 mg per dose, every week from week 0 through week 11.
+
+After the initial 12 week double-blind induction period, patients were eligible to enter a 48 week open-label maintenance period (from week 12 to week 60), with ixekizumab at the weight appropriate dose, followed by an extension period for up to 108 weeks.
+
+## Clinical response at week 12
 
 Response to treatment was assessed after 12 weeks and defined by the proportion of patients who achieved the co-primary endpoint of an sPGA score of '0' (clear) or '1' (almost clear) with at least a 2 point improvement from baseline and the proportion of patients that achieved a reduction in PASI score of at least 75% (PASI 75) from baseline.
 
@@ -1667,20 +1886,43 @@ Table 9. Efficacy results in paediatric patients with plaque psoriasis, NRI
 | PASI 100 d                               | 57 (50)                      | 1 (2)                  | 47.8 (38.0, 57.6) f              | 5 (17)                      | 43.9 (23.4, 64.3)                     |
 | Itch NRS (≥4 point improvement) d, e     | 59 (71)                      | 8 (20)                 | 51.1 (35.3, 66.9) f              | Not evaluated               | ---                                   |
 
-Abbreviations: N = Number of patients in the intent-to-treat population; NRI = Non-Responder Imputation.
-
-a At week 0, subjects received 160 mg, 80 mg, or 40 mg of ixekizumab, followed by 80 mg, 40 mg, or 20 mg every 4 weeks, depending on weight category, for 12 weeks.
-
-b Comparisons to etanercept were performed within the sub-population of patients outside of US and Canada with severe Ps (N for ixekizumab = 38).
-
 <div style=\"page-break-after: always\"></div>
 
+Figure 3.
+
+Percent of Responders
+
+Percent of patients achieving PASI 75 in paediatric psoriasis through
+
+100
+
+80-
+
+Abbreviations: N = Number of patients in the intent-to-treat population; NRI = Non-Responder Imputation.
+
+60-
+
+40-
+
+20-
+
+0-
+
+- a At week 0, subjects received 160 mg, 80 mg, or 40 mg of ixekizumab, followed by 80 mg, 40 mg, or 20 mg every 4 weeks, depending on weight category, for 12 weeks.
+- b Comparisons to etanercept were performed within the sub-population of patients outside of US and Canada with severe Ps (N for ixekizumab = 38).
 - c Co-primary endpoints.
 - d Results at week 12.
+
+.....·
+
 - e Itch NRS (≥4 improvement) in patients with baseline Itch NRS ≥4. The number of ITT patients with baseline Itch NRS Score ≥4 are as follows: ixekizumab, n = 83; PBO, n = 40.
 - f p&lt;0.001
 
 Figure 3. Percent of patients achieving PASI 75 in paediatric psoriasis through week 12
+
+·· Placebo
+
+TALTZ Q4W
 
 <!-- image -->
 
@@ -1688,15 +1930,22 @@ Patients in the ixekizumab treatment group had clinically meaningful higher CDLQ
 
 There were greater improvements at week 12 from baseline compared to placebo in nail psoriasis (as measured by the Nail Psoriasis Severity Index [NAPSI=0: ixekizumab 18% (6/34), placebo 0% (0/12)]), in scalp psoriasis (as measured by Psoriasis Scalp Severity Index [PSSI=0: ixekizumab 69% (70/102), placebo 16% (8/50)]) and in palmoplantar psoriasis (as measured by Psoriasis Palmoplantar Severity Index [PPASI 75: ixekizumab 53% (9/17), placebo 11% (1/9)]).
 
+## Maintenance of response at week 60 and up to 108 weeks
+
+In patients continuously treated with ixekizumab, clinically meaningful improvements in efficacy endpoints were sustained through week 108:
+
+- PASI 75: 83.0% at week 60; 76.6% at week 108 (NRI)
+- sPGA (0,1): 74.5% at week 60; 68.1% at week 108 (NRI)
+
 ## Psoriatic arthritis
 
-Ixekizumab was assessed in two randomised, double-blind, placebo-controlled phase III studies in 780 patients with active psoriatic arthritis (≥3 swollen and ≥3 tender  joints). Patients had a diagnosis of psoriatic arthritis (Classification Criteria for Psoriatic Arthritis [CASPAR] criteria) for a median of 5.33 years and had current plaque psoriasis skin lesions (94.0%) or a documented history of plaque psoriasis, with 12.1% of patients with moderate to severe plaque psoriasis at baseline. Over  58.9% and 22.3% of the psoriatic arthritis patients had enthesitis and dactylitis at baseline, respectively. Primary endpoint of both  studies was American College of Rheumatology (ACR) 20 response at week 24, followed by a long-term extension period from week 24 to week 156 (3 years).
-
-In Psoriatic Arthritis Study 1 (SPIRIT-P1), patients naive to biologic therapy with active psoriatic arthritis were randomised to placebo, adalimumab 40 mg once every 2 weeks (active control reference arm), ixekizumab 80 mg once every 2 weeks (Q2W), or 80 mg once every 4 weeks (Q4W). Both ixekizumab regimens included a 160 mg starting dose. 85.3% of patients in this study had received prior treatment with ≥1 conventional disease-modifying antirheumatic drug (cDMARD). 53% of patients had concomitant use of MTX at a mean weekly dose of 15.8 mg. 67% of patients who had concomitant use of MTX had a dose of 15 mg or greater. Patients with an inadequate response at week 16 received rescue therapy (modification to background therapy). Patients on ixekizumab Q2W or
+Ixekizumab was assessed in two randomised, double-blind, placebo-controlled phase III studies in 780 patients with active psoriatic arthritis (≥3 swollen and ≥3 tender  joints). Patients had a diagnosis of psoriatic arthritis (Classification Criteria for Psoriatic Arthritis [CASPAR] criteria) for a median of 5.33 years and had current plaque psoriasis skin lesions (94.0%) or a documented history of plaque
 
 <div style=\"page-break-after: always\"></div>
 
-Q4W remained on their originally assigned dose of ixekizumab. Patients receiving adalimumab or placebo were re-randomised 1:1 to ixekizumab Q2W or Q4W at week 16 or 24 based on responder status. 243 patients completed the extension period of 3 years on ixekizumab.
+psoriasis, with 12.1% of patients with moderate to severe plaque psoriasis at baseline. Over  58.9% and 22.3% of the psoriatic arthritis patients had enthesitis and dactylitis at baseline, respectively. Primary endpoint of both  studies was American College of Rheumatology (ACR) 20 response at week 24, followed by a long-term extension period from week 24 to week 156 (3 years).
+
+In Psoriatic Arthritis Study 1 (SPIRIT-P1), patients naive to biologic therapy with active psoriatic arthritis were randomised to placebo, adalimumab 40 mg once every 2 weeks (active control reference arm), ixekizumab 80 mg once every 2 weeks (Q2W), or 80 mg once every 4 weeks (Q4W). Both ixekizumab regimens included a 160 mg starting dose. 85.3% of patients in this study had received prior treatment with ≥1 conventional disease-modifying antirheumatic drug (cDMARD). 53% of patients had concomitant use of MTX at a mean weekly dose of 15.8 mg. 67% of patients who had concomitant use of MTX had a dose of 15 mg or greater. Patients with an inadequate response at week 16 received rescue therapy (modification to background therapy). Patients on ixekizumab Q2W or Q4W remained on their originally assigned dose of ixekizumab. Patients receiving adalimumab or placebo were re-randomised 1:1 to ixekizumab Q2W or Q4W at week 16 or 24 based on responder status. 243 patients completed the extension period of 3 years on ixekizumab.
 
 Psoriatic Arthritis Study 2 (SPIRIT-P2) enrolled patients who were previously treated with an anti-TNF agent and discontinued the  anti-TNF agent for either lack of efficacy or intolerance (anti-TNF-IR patients). Patients were randomised to placebo, ixekizumab 80 mg once every 2 weeks (Q2W), or 80 mg once every 4 weeks (Q4W). Both ixekizumab regimens included a 160 mg starting dose. 56% and 35% of patients were inadequate responders to 1 anti-TNF or 2 anti-TNF, respectively. SPIRIT-P2 evaluated 363 patients, of whom 41% had concomitant use of MTX at a mean weekly dose of 16.1 mg. 73.2% of patients who had concomitant use of MTX had a dose of 15 mg or greater. Patients with an inadequate response at week 16 received rescue therapy (modification to background therapy). Patients in ixekizumab Q2W or Q4W remained on their originally assigned dose of ixekizumab. Patients receiving placebo were re-randomised 1:1 to ixekizumab Q2W or Q4W at week 16 or 24 based on responder status. 168 patients completed the extension period of 3 years on ixekizumab.
 
@@ -1704,24 +1953,27 @@ Psoriatic Arthritis Study 2 (SPIRIT-P2) enrolled patients who were previously tr
 
 Treatment with ixekizumab resulted in significant improvement in measures of disease activity compared to placebo at week 24 (see Table 10).
 
+<div style=\"page-break-after: always\"></div>
+
 Table 10. Efficacy results in SPIRIT-P1 and SPIRIT-P2 at week 24
 
-|                                                                                           | SPIRIT-P1                                                                                 | SPIRIT-P1                                                                                 | SPIRIT-P1                                                                                 | SPIRIT-P1                                                                                 | SPIRIT-P1                                                                                 | SPIRIT-P1                                                                                 | SPIRIT-P2                                                                                 | SPIRIT-P2                                                                                 | SPIRIT-P2                                                                                 | SPIRIT-P2                                                                                 | SPIRIT-P2                                                                                 |
-|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| Endpoints                                                                                 |                                                                                           |                                                                                           |                                                                                           |                                                                                           | Difference from placebo in response rate (95% CI)                                         | Difference from placebo in response rate (95% CI)                                         |                                                                                           |                                                                                           |                                                                                           | Difference from placebo in response rate (95% CI)                                         | Difference from placebo in response rate (95% CI)                                         |
-|                                                                                           | PBO (N = 106)                                                                             | Ixekizumab Q4W (N = 107)                                                                  | Ixekizumab Q2W (N = 103)                                                                  | ADA (N = 101)                                                                             | Ixekizumab Q4W                                                                            | Ixekizumab Q2W                                                                            | PBO (N = 118)                                                                             | Ixekizumab Q4W (N = 122)                                                                  | Ixekizumab Q2W (N = 123)                                                                  | Ixekizuma b Q4W                                                                           | Ixekizuma b Q2W                                                                           |
-| ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     |
-| week 24                                                                                   | 32 (30.2)                                                                                 | 62 (57.9)                                                                                 | 64 (62.1)                                                                                 | 58 (57.4)                                                                                 | 27.8 (15.0, 40.6) c                                                                       | 31.9 (19.1, 44.8) c                                                                       | 23 (19.5)                                                                                 | 65 (53.3)                                                                                 | 59 (48.0)                                                                                 | 33.8 (22.4, 45.2) c                                                                       | 28.5 (17.1, 39.8) c                                                                       |
-| ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     |
-| week 24                                                                                   | 16 (15.1)                                                                                 | 43 (40.2)                                                                                 | 48 (46.6)                                                                                 | 39 (38.6)                                                                                 | 25.1 (13.6, 36.6) c                                                                       | 31.5 (19.7, 43.3) c                                                                       | 6 (5.1)                                                                                   | 43 (35.2)                                                                                 | 41 (33.3)                                                                                 | 30.2 (20.8, 39.5) c                                                                       | 28.3 (19.0, 37.5) c                                                                       |
-| ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     |
-| week 24                                                                                   | 6 (5.7)                                                                                   | 25 (23.4)                                                                                 | 35 (34.0)                                                                                 | 26 (25.7)                                                                                 | 17.7 (8.6, 26.8) c                                                                        | 28.3 (18.2, 38.5) c                                                                       | 0                                                                                         | 27 (22.1)                                                                                 | 15 (12.2)                                                                                 | 22.1 (14.8, 29.5) c                                                                       | 12.2 (6.4, 18.0) c                                                                        |
-| Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      |
-| week 24                                                                                   | 16 (15.1)                                                                                 | 32 (29.9)                                                                                 | 42 (40.8)                                                                                 | 32 (31.7)                                                                                 | 14.8 (3.8, 25.8) a                                                                        | 25.7 (14.0, 37.4) c                                                                       | 4 (3.4)                                                                                   | 34 (27.9)                                                                                 | 29 (23.6)                                                                                 | 24.5 (15.9, 33.1) c                                                                       | 20.2 (12.0, 28.4) c                                                                       |
-| ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) |
-| week 24                                                                                   | 1 (1.5)                                                                                   | 21 (28.8)                                                                                 | 19 (32.2)                                                                                 | 9 (13.2)                                                                                  | 27.3 (16.5, c                                                                             | 30.7 (18.4, b                                                                             | 0 (0.0)                                                                                   | 12 (17.6)                                                                                 | 10 (14.7)                                                                                 | 17.6 (8.6, c                                                                              | 14.7 (6.3, c                                                                              |
-|                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           | 43.0)                                                                                     |                                                                                           |                                                                                           |                                                                                           | 26.7)                                                                                     | 23.1)                                                                                     |
-|                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           | 38.1)                                                                                     |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |
+|                                                                                           | SPIRIT-P1                                                                                 | SPIRIT-P1                                                                                 | SPIRIT-P1                                                                                 | SPIRIT-P1                                                                                 | SPIRIT-P1                                                                                 | SPIRIT-P1                                                                                 | SPIRIT-P2                                                                                 | SPIRIT-P2                                                                                 | SPIRIT-P2                                                                                 | SPIRIT-P2                                                                                 | SPIRIT-P2                                                                                 | SPIRIT-P2                                                                                 | SPIRIT-P2                                                                                 | SPIRIT-P2                                                                                 | SPIRIT-P2                                                                                 | SPIRIT-P2                                                                                 | SPIRIT-P2                                                                                 | SPIRIT-P2                                                                                 |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Endpoints                                                                                 |                                                                                           |                                                                                           |                                                                                           |                                                                                           | Difference from placebo in response rate (95% CI)                                         | Difference from placebo in response rate (95% CI)                                         |                                                                                           |                                                                                           |                                                                                           | Difference from placebo in response rate (95% CI)                                         | Difference from placebo in response rate (95% CI)                                         | Difference from placebo in response rate (95% CI)                                         | Difference from placebo in response rate (95% CI)                                         | Difference from placebo in response rate (95% CI)                                         | Difference from placebo in response rate (95% CI)                                         | Difference from placebo in response rate (95% CI)                                         | Difference from placebo in response rate (95% CI)                                         | Difference from placebo in response rate (95% CI)                                         |
+|                                                                                           | PBO (N = 106)                                                                             | Ixekizumab Q4W (N = 107)                                                                  | Ixekizumab Q2W (N = 103)                                                                  | ADA (N = 101)                                                                             | Ixekizumab Q4W                                                                            | Ixekizumab Q2W                                                                            | PBO (N = 118)                                                                             | Ixekizumab Q4W (N = 122)                                                                  | Ixekizumab Q2W (N = 123)                                                                  | Ixekizuma b Q4W                                                                           | Ixekizuma b Q2W                                                                           | Ixekizuma b Q2W                                                                           | Ixekizuma b Q2W                                                                           | Ixekizuma b Q2W                                                                           | Ixekizuma b Q2W                                                                           | Ixekizuma b Q2W                                                                           | Ixekizuma b Q2W                                                                           | Ixekizuma b Q2W                                                                           |
+| ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     | ACR20 response, n (%)                                                                     |
+| week 24                                                                                   | 32 (30.2)                                                                                 | 62 (57.9)                                                                                 | 64 (62.1)                                                                                 | 58 (57.4)                                                                                 | 27.8 (15.0, 40.6) c                                                                       | 31.9 (19.1, 44.8) c                                                                       | 23 (19.5)                                                                                 | 65 (53.3)                                                                                 | 59 (48.0)                                                                                 | 33.8 (22.4, 45.2) c                                                                       | 28.5 (17.1, 39.8) c                                                                       | 28.5 (17.1, 39.8) c                                                                       | 28.5 (17.1, 39.8) c                                                                       | 28.5 (17.1, 39.8) c                                                                       | 28.5 (17.1, 39.8) c                                                                       | 28.5 (17.1, 39.8) c                                                                       | 28.5 (17.1, 39.8) c                                                                       | 28.5 (17.1, 39.8) c                                                                       |
+| ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     | ACR50 response, n (%)                                                                     |
+| week 24                                                                                   | 16 (15.1)                                                                                 | 43 (40.2)                                                                                 | 48 (46.6)                                                                                 | 39 (38.6)                                                                                 | 25.1 (13.6, 36.6) c                                                                       | 31.5 (19.7, 43.3) c                                                                       | 6 (5.1)                                                                                   | 43 (35.2)                                                                                 | 41 (33.3)                                                                                 | 30.2 (20.8, 39.5) c                                                                       | 28.3 (19.0, 37.5) c                                                                       | 28.3 (19.0, 37.5) c                                                                       | 28.3 (19.0, 37.5) c                                                                       | 28.3 (19.0, 37.5) c                                                                       | 28.3 (19.0, 37.5) c                                                                       | 28.3 (19.0, 37.5) c                                                                       | 28.3 (19.0, 37.5) c                                                                       | 28.3 (19.0, 37.5) c                                                                       |
+| ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     | ACR70 response, n (%)                                                                     |
+| week 24                                                                                   | 6 (5.7)                                                                                   | 25 (23.4)                                                                                 | 35 (34.0)                                                                                 | 26 (25.7)                                                                                 | 17.7 (8.6, 26.8) c                                                                        | 28.3 (18.2, 38.5) c                                                                       | 0                                                                                         | 27 (22.1)                                                                                 | 15 (12.2)                                                                                 | 22.1 (14.8, 29.5) c                                                                       | 12.2 (6.4, 18.0) c                                                                        | 12.2 (6.4, 18.0) c                                                                        | 12.2 (6.4, 18.0) c                                                                        | 12.2 (6.4, 18.0) c                                                                        | 12.2 (6.4, 18.0) c                                                                        | 12.2 (6.4, 18.0) c                                                                        | 12.2 (6.4, 18.0) c                                                                        | 12.2 (6.4, 18.0) c                                                                        |
+| Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      | Minimal disease activity (MDA) n (%)                                                      |
+| week 24                                                                                   | 16 (15.1)                                                                                 | 32 (29.9)                                                                                 | 42 (40.8)                                                                                 | 32 (31.7)                                                                                 | 14.8 (3.8, 25.8) a                                                                        | 25.7 (14.0, 37.4) c                                                                       | 4 (3.4)                                                                                   | 34 (27.9)                                                                                 | 29 (23.6)                                                                                 | 24.5 (15.9, 33.1) c                                                                       | 20.2 (12.0, 28.4) c                                                                       | 20.2 (12.0, 28.4) c                                                                       | 20.2 (12.0, 28.4) c                                                                       | 20.2 (12.0, 28.4) c                                                                       | 20.2 (12.0, 28.4) c                                                                       | 20.2 (12.0, 28.4) c                                                                       | 20.2 (12.0, 28.4) c                                                                       | 20.2 (12.0, 28.4) c                                                                       |
+| ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) | ACR50 and PASI 100 in patients with ≥3% BSA psoriasis skin involvement at baseline, n (%) |
+| week 24                                                                                   | 1 (1.5)                                                                                   | 21 (28.8)                                                                                 | 19 (32.2)                                                                                 | 9 (13.2)                                                                                  | 27.3 (16.5, c                                                                             | 30.7 (18.4, b                                                                             | 0 (0.0)                                                                                   | 12 (17.6)                                                                                 | 10 (14.7)                                                                                 | 17.6 c                                                                                    | 14.7 (6.3, c                                                                              | 14.7 (6.3, c                                                                              | 14.7 (6.3, c                                                                              | 14.7 (6.3, c                                                                              | 14.7 (6.3, c                                                                              | 14.7 (6.3, c                                                                              | 14.7 (6.3, c                                                                              | 14.7 (6.3, c                                                                              |
+|                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           | 43.0)                                                                                     |                                                                                           |                                                                                           |                                                                                           | 26.7)                                                                                     | 23.1)                                                                                     | 23.1)                                                                                     | 23.1)                                                                                     | 23.1)                                                                                     | 23.1)                                                                                     | 23.1)                                                                                     | 23.1)                                                                                     | 23.1)                                                                                     |
+|                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           | 38.1)                                                                                     |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |
+|                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           | (8.6,                                                                                     |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |                                                                                           |
 
 Abbreviations: ACR 20/50/70 = American College of Rheumatology 20%/50%/70% response rate; ADA = adalimumab; BSA = body surface area; CI = confidence interval; Q4W = ixekizumab 80 mg every 4 weeks; Q2W = ixekizumab 80 mg every 2 weeks; N = number of patients in the analysis population; n = number of patients in the specified category; NRI = non-responder imputation; PASI 100 = psoriasis area and severity index 100% improvement; PBO = placebo.
 
@@ -1731,13 +1983,13 @@ Concomitant cDMARDs included MTX, leflunomide and sulfasalazine.
 
 a  p&lt;0.05;  b  p&lt;0.01;  c  p&lt;0.001 compared with placebo.
 
-<div style=\"page-break-after: always\"></div>
-
 In patients with pre-existing dactylitis or enthesitis, treatment with ixekizumab Q4W resulted in improvement in dactylitis and enthesitis at week 24 compared to placebo (resolution: 78% vs. 24%; p&lt;0.001, and 39% vs. 21%; p&lt;0.01, respectively).
 
 In patients with ≥3% BSA , the improvement in skin clearance at week 12 as measured by 75% improvement in Psoriasis Area Severity Index (PASI 75), was 67% (94/141) for those treated with the Q4W dosing regimen, and 9% (12/134) for those treated with placebo (p&lt;0.001). The proportion of patients achieving a PASI 75, PASI 90, and PASI 100 response at week 24 was greater with ixekizumab Q4W compared to placebo (p&lt;0.001). In patients with concomitant moderate to severe psoriasis and psoriatic arthritis, ixekizumab Q2W dose regimen showed significantly higher response rate for PASI75, PASI 90 and PASI 100 compared to placebo (p&lt;0.001) and demonstrated clinically meaningful benefit over the Q4W dose regimen.
 
 Treatment responses on ixekizumab were significantly greater than those on placebo as early as week 1 for ACR 20, week 4 for ACR 50 and week 8 for ACR 70 and persisted through week 24; effects were maintained through 3 years for patients who remained in the study.
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 4. ACR 20 response in SPIRIT-P1 over time up to week 24
 
@@ -1751,8 +2003,6 @@ In SPIRIT-P1and SPIRIT-P2, improvements were shown in all components of the ACR 
 
 In SPIRIT-P1, efficacy was maintained up to week 52 as assessed by ACR 20/50/70, MDA, enthesitis resolution, dactylitis resolution, and PASI 75/90/100 response rates.
 
-<div style=\"page-break-after: always\"></div>
-
 The efficacy and safety of ixekizumab was demonstrated regardless of age, gender, race, disease duration, baseline body weight, baseline psoriasis involvement, baseline CRP, baseline DAS28-CRP, concomitant corticosteroid use, and previous treatment with a biologic. Ixekizumab was efficacious in biologic-naive, biologic-exposed and biologic-failure patients.
 
 In SPIRIT-P1, 63 patients completed 3 years of Q4W ixekizumab treatment. Among the 107 patients who were randomised to ixekizumab Q4W (NRI analysis in ITT population), 54 patients (50%), 41 patients (38%), 29 patients (27%), and 36 patients (34%) were observed to have ACR20, ACR50, ACR70, and MDA response, respectively, at week 156.
@@ -1761,9 +2011,13 @@ In SPIRIT-P2, 70 patients completed 3 years of Q4W ixekizumab treatment. Among t
 
 ## Radiographic response
 
-In SPIRIT-P1, inhibition of progression of structural damage was assessed radiographically and expressed as the change in modified total Sharp Score (mTSS) and its components, the Erosion Score  (ES) and the Joint Space Narrowing score (JSN) at weeks 24 and 52, compared to baseline. week 24  data are presented in Table 11.
+In SPIRIT-P1, inhibition of progression of structural damage was assessed radiographically and expressed as the change in modified total Sharp Score (mTSS) and its components, the Erosion
 
-Table 11. Change in modified Total Sharp Score in SPIRIT-P1
+<div style=\"page-break-after: always\"></div>
+
+Score  (ES) and the Joint Space Narrowing score (JSN) at weeks 24 and 52, compared to baseline. week 24  data are presented in Table 11.
+
+## Table 11. Change in modified Total Sharp Score in SPIRIT-P1
 
 |                                           |               |                          |                          |               | Difference from placebo (95% CI)   | Difference from placebo (95% CI)   |
 |-------------------------------------------|---------------|--------------------------|--------------------------|---------------|------------------------------------|------------------------------------|
@@ -1779,25 +2033,49 @@ Radiographic joint damage progression was inhibited by ixekizumab (Table 11) at 
 
 In both SPIRIT-P1 and SPIRIT-P2, patients treated with ixekizumab Q2W (p&lt;0.001) and Q4W (p&lt;0.001) showed significant improvement in physical function compared to patients treated with placebo as assessed by Health  Assessment Questionnaire-Disability Index (HAQ-DI) at week 24, and maintained at week 52 in SPIRIT-P1.
 
-Ixekizumab-treated patients reported improvements in health-related quality of life as  measured by the Physical Component Summary of the Short Form-36 Health Survey (SF-36 PCS) score
-
-<div style=\"page-break-after: always\"></div>
-
-(p&lt;0.001). There were also improvements demonstrated in fatigue as assessed by Fatigue severity NRS  scores (p&lt;0.001).
+Ixekizumab-treated patients reported improvements in health-related quality of life as  measured by the Physical Component Summary of the Short Form-36 Health Survey (SF-36 PCS) score (p&lt;0.001). There were also improvements demonstrated in fatigue as assessed by Fatigue severity NRS  scores (p&lt;0.001).
 
 ## Post-marketing phase 4, direct comparative study
 
 Efficacy and safety of ixekizumab was investigated in a multicenter, randomised, open-label, rater-blinded, parallel-group study (SPIRIT-H2H) compared to adalimumab (ADA) in 566 patients with PsA who were naïve to biologic disease-modifying anti-rheumatic drugs (bDMARD). Patients were stratified at baseline based on concomitant cDMARD use and presence of moderate-to-severe psoriasis (PASI≥12, BSA≥10 and sPGA≥3).
 
-Ixekizumab was superior to ADA on the primary study objective: simultaneous achievement of ACR 50 and PASI 100 response at week 24 (ixekizumab 36.0% vs ADA 27.9%; p=0.036; 95% confidence interval [0.5%, 15.8%]). Ixekizumab also showed non-inferiority (pre-specified margin of 12%) to ADA on ACR 50 (ITT analysis: ixekizumab 50.5% vs ADA 46.6%; 3.9% difference vs. ADA; 95% confidence interval [-4.3%; 12.1%]; PPS analysis ixekizumab: 52.3%, ADA: 53.1%, difference: -0.8% [CI: -10.3%; 8.7%]) and superiority on PASI 100 at week 24 (60.1 % with ixekizumab vs 46.6% with ADA, p=0.001), which were the major secondary endpoints in the study. At week 52 a higher proportion of patients treated with ixekizumab versus ADA simultaneously achieved ACR50 and PASI 100 [39% (111/283) versus 26% (74/283)] and PASI 100 [64% (182/283) versus 41% (117/283)]. Ixekizumab and ADA treatment resulted in similar responses for ACR50 [49.8% (141/283) versus 49.8% (141/283)]. Responses to ixekizumab were consistent when used as monotherapy or with concomitant use of methotrexate.
+Ixekizumab was superior to ADA on the primary study objective: simultaneous achievement of ACR 50 and PASI 100 response at week 24 (ixekizumab 36.0% vs ADA 27.9%; p=0.036; 95% confidence interval [0.5%, 15.8%]). Ixekizumab also showed non-inferiority (pre-specified margin of 12%) to ADA on ACR 50 (ITT analysis: ixekizumab 50.5% vs ADA 46.6%; 3.9% difference vs. ADA; 95% confidence interval [-4.3%; 12.1%]; PPS analysis ixekizumab: 52.3%, ADA: 53.1%, difference: -0.8% [CI: -10.3%; 8.7%]) and superiority on PASI 100 at week 24 (60.1 % with ixekizumab vs 46.6% with ADA, p=0.001), which were the major secondary endpoints in the study. At week 52 a higher proportion of patients treated with ixekizumab versus ADA simultaneously
+
+<div style=\"page-break-after: always\"></div>
+
+esponse Rate (%)
+
+100
+
+80
+
+40 -
+
+20
+
+0
+
+ACR 50 &amp; PASI 100: ADA (N=283)
+
+..... ACR 50: ADA (N=283)
+
+-PASI 100: ADA (N=283)
+
+—ACR 50 &amp; PASI 100: TALTZ (N=283)
+
+-* ·ACR 50: TALTZ (N=283)
+
+-· PASI 100: TALTZ (N=283)
+
+achieved ACR50 and PASI 100 [39% (111/283) versus 26% (74/283)] and PASI 100 [64% (182/283) versus 41% (117/283)]. Ixekizumab and ADA treatment resulted in similar responses for ACR50 [49.8% (141/283) versus 49.8% (141/283)]. Responses to ixekizumab were consistent when used as monotherapy or with concomitant use of methotrexate.
 
 Figure 5. Primary endpoint (simultaneous ACR 50 &amp; PASI 100) and major secondary endpoints (ACR 50; PASI 100) response rates week 0 - 24 [ITT population, NRI]**
 
 <!-- image -->
 
-** Ixekizumab 160 mg week 0, then 80 mg every 2 weeks to week 12 and every 4 weeks thereafter for patients with moderate to severe plaque psoriasis or 160 mg week 0, then 80 mg every 4 week for other patients, ADA 80 mg week 0, then 40 mg every 2 weeks from week 1 for patients with moderate to severe plaque psoriasis or 40 mg week 0, then 40 mg every 2 weeks for other patients. Significance level only provided for endpoint that was pre-defined and multiplicity tested.
+*ps.01 vs. ADA; Tp&lt;.05 vs. ADA.
 
-<div style=\"page-break-after: always\"></div>
+** Ixekizumab 160 mg week 0, then 80 mg every 2 weeks to week 12 and every 4 weeks thereafter for patients with moderate to severe plaque psoriasis or 160 mg week 0, then 80 mg every 4 week for other patients, ADA 80 mg week 0, then 40 mg every 2 weeks from week 1 for patients with moderate to severe plaque psoriasis or 40 mg week 0, then 40 mg every 2 weeks for other patients. Significance level only provided for endpoint that was pre-defined and multiplicity tested.
 
 ## Axial spondyloarthritis
 
@@ -1809,6 +2087,8 @@ Ixekizumab was assessed in a total of 657 patients in two randomised, double-bli
 
 COAST-V evaluated 341 biologic-naive patients treated with either ixekizumab 80 mg or 160 mg at week 0 followed by 80 mg every 2 weeks (Q2W) or 4 weeks (Q4W), adalimumab 40 mg every 2 weeks, or with placebo. Patients receiving placebo were re-randomised at week 16 to receive ixekizumab (160 mg starting dose, followed by 80 mg Q2W or Q4W). Patients receiving adalimumab were re-randomised at week 16 to receive ixekizumab (80 mg Q2W or Q4W).
 
+<div style=\"page-break-after: always\"></div>
+
 COAST-W evaluated 316 patients who had prior experience with 1 or 2 TNF-inhibitors (90% were inadequate responders and 10% were intolerant to TNF inhibitors). All patients were treated with ixekizumab 80 or 160 mg at week 0 followed by 80 mg Q2W or Q4W, or with placebo. Patients receiving placebo were re-randomised at week 16 to receive ixekizumab (160 mg initial dose, followed by 80 mg Q2W or Q4W).
 
 The primary endpoint in both studies was the percentage of patients achieving an Assessment of Spondyloarthritis International Society 40 (ASAS40) response at week 16.
@@ -1817,39 +2097,54 @@ The primary endpoint in both studies was the percentage of patients achieving an
 
 In both studies, patients treated with ixekizumab 80 mg Q2W or 80 mg Q4W demonstrated greater improvements in ASAS40 and ASAS20 responses compared to placebo at week 16 (Table 12). Responses were similar in patients regardless of concomitant therapies. In COAST-W, responses were seen regardless of the number of prior TNF inhibitors.
 
-## Table 12. Efficacy results in COAST-V and COAST-W at week 16
+Table 12. Efficacy results in COAST-V and COAST-W at week 16
 
-|                                  | COAST-V, biologic-naive       | COAST-V, biologic-naive   | COAST-V, biologic-naive   | COAST-V, biologic-naive     | COAST-W, TNF-inhibitor experienced   | COAST-W, TNF-inhibitor experienced   | COAST-W, TNF-inhibitor experienced   |
-|----------------------------------|-------------------------------|---------------------------|---------------------------|-----------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
-|                                  | Ixekizumab 80 mg Q4W a (N=81) | Placebo (N=87)            | Difference from placebo g | Adalimumab 40 mg Q2W (N=90) | Ixekizumab 80 mg Q4W c (N=114)       | Placebo (N=104)                      | Difference from placebo g            |
-| ASAS20 response b , n (%), NRI   | 52 (64.2%)                    | 35 (40.2%)                | 24.0 (9.3, 38.6) **       | 53 (58.9%)                  | 55 (48.2%)                           | 31 (29.8%)                           | 18.4 (5.7, 31.1) **                  |
-| ASAS40 response b,c , n (%), NRI | 39 (48.1%)                    | 16 (18.4%)                | 29.8 (16.2, 43.3) ***     | 32 (35.6%)                  | 29 (25.4%)                           | 13 (12.5%)                           | 12.9 (2.7, 23.2) *                   |
-| ASDAS                            |                               |                           |                           |                             |                                      |                                      |                                      |
-| Change from baseline Baseline    | -1.4 3.7                      | -0.5 3.9                  | -1.0 (-1.3, - 0.7) ***    | -1.3*** 3.7                 | -1.2 4.2                             | -0.1 4.1                             | -1.1 (-1.3, - 0.8) ***               |
-| BASDAI Score                     |                               |                           |                           |                             |                                      |                                      |                                      |
-| Change from baseline Baseline    | - 2.9 6.8 i                   | -1.4 6.8 i                | -1.5 (-2.1, - 0.9) ***    | -2.5*** 6.7 i               | -2.2 7.5                             | -0.9 7.3                             | -1.2 (-1.8, - 0.7) ***               |
-| MRI Spine SPARCC d               |                               |                           |                           |                             |                                      |                                      |                                      |
-| Change from baseline Baseline    | -11.0 14.5                    | -1.5 15.8                 | -9.5 (-12.6, - 6.4) ***   | -11.6*** 20.0               | -3.0 8.3                             | 3.3 6.4                              | -6.3 (-10.0, - 2.5) **               |
-| BASDAI50 e n (%), NRI            | 34 (42.0%)                    | 15 (17.2%)                | 24.7 (11.4, 38.1) ***     | 29 (32.2%)*                 | 25 (21.9%) i                         | 10 (9.6%) i                          | 12.3 (2.8, 21.8)*                    |
+|                                               | COAST-V, biologic-naive       | COAST-V, biologic-naive   | COAST-V, biologic-naive   | COAST-V, biologic-naive     | COAST-W, TNF-inhibitor experienced   | COAST-W, TNF-inhibitor experienced   | COAST-W, TNF-inhibitor experienced   |
+|-----------------------------------------------|-------------------------------|---------------------------|---------------------------|-----------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+|                                               | Ixekizumab 80 mg Q4W a (N=81) | Placebo (N=87)            | Difference from placebo g | Adalimumab 40 mg Q2W (N=90) | Ixekizumab 80 mg Q4W c (N=114)       | Placebo (N=104)                      | Difference from placebo g            |
+| ASAS20 response b , n (%), NRI                | 52 (64.2%)                    | 35 (40.2%)                | 24.0 (9.3, 38.6) **       | 53 (58.9%)                  | 55 (48.2%)                           | 31 (29.8%)                           | 18.4 (5.7, 31.1) **                  |
+| ASAS40 response b,c , n (%), NRI              | 39 (48.1%)                    | 16 (18.4%)                | 29.8 (16.2, 43.3) ***     | 32 (35.6%)                  | 29 (25.4%)                           | 13 (12.5%)                           | 12.9 (2.7, 23.2) *                   |
+| ASDAS                                         |                               |                           |                           |                             |                                      |                                      |                                      |
+| Change from baseline Baseline                 | -1.4 3.7                      | -0.5 3.9                  | -1.0 (-1.3, - 0.7) ***    | -1.3*** 3.7                 | -1.2 4.2                             | -0.1 4.1                             | -1.1 (-1.3, - 0.8) ***               |
+| BASDAI Score                                  |                               |                           |                           |                             |                                      |                                      |                                      |
+| Change from baseline Baseline                 | - 2.9 6.8 i                   | -1.4 6.8 i                | -1.5 (-2.1, - 0.9) ***    | -2.5*** 6.7 i               | -2.2 7.5                             | -0.9 7.3                             | -1.2 (-1.8, - 0.7) ***               |
+| MRI Spine SPARCC d                            |                               |                           |                           |                             |                                      |                                      |                                      |
+| Change from baseline Baseline                 | -11.0 14.5                    | -1.5 15.8                 | -9.5 (-12.6, - 6.4) ***   | -11.6*** 20.0               | -3.0 8.3                             | 3.3 6.4                              | -6.3 (-10.0, - 2.5) **               |
+| BASDAI50 e n (%), NRI                         | 34 (42.0%)                    | 15 (17.2%)                | 24.7 (11.4, 38.1) ***     | 29 (32.2%)*                 | 25 (21.9%) i                         | 10 (9.6%) i                          | 12.3 (2.8, 21.8)*                    |
+| ASDAS <2.1, n (%) (low disease activity), NRI | 35 (43.2%) h                  | 11 (12.6%) h              | 30.6 (17.7,43.4) ***      | 34 (37.8%)*** h             | 20 (17.5%)                           | 5 (4.8%)                             | 12.7 ( 4.6, 20.8) **                 |
+| ASDAS <1.3, n (%) (inactive disease), NRI     | 13 (16.0%)                    | 2 (2.3%)                  | 13.8 (5.2, 22.3) **       | 14 (15.6%)**                | 4 (3.5%) i                           | 1 (1.0%) i                           | 2.5 (-1.3, 6.4)                      |
+| ASAS HI f Change from baseline Baseline       | -2.4 7.5                      | -1.3 8.1                  | -1.1 (-2.0, - 0.3) *      | -2.3* 8.2                   | -1.9 10.0                            | -0.9 9.0                             | -1.0 (-1.9, - 0.1) *                 |
+| SF-36 PCS Change from baseline Baseline       | 7.7 34.0                      | 3.6 32.0                  | 4.1 (1.9, 6.2) ***        | 6.9** 33.5                  | 6.6 27.5                             | 1.4 30.6                             | 5.2 (3.0, 7.4) ***                   |
 
-<div style=\"page-break-after: always\"></div>
-
-| ASDAS <2.1, n (%) (low disease activity), NRI   | 35 (43.2%) h   | 11 (12.6%) h   | 30.6 (17.7,43.4) ***   | 34 (37.8%)*** h   | 20 (17.5%)   | 5 (4.8%)   | 12.7 ( 4.6, 20.8) **   |
-|-------------------------------------------------|----------------|----------------|------------------------|-------------------|--------------|------------|------------------------|
-| ASDAS <1.3, n (%) (inactive disease), NRI       | 13 (16.0%)     | 2 (2.3%)       | 13.8 (5.2, 22.3) **    | 14 (15.6%)**      | 4 (3.5%) i   | 1 (1.0%) i | 2.5 (-1.3, 6.4)        |
-| ASAS HI f Change from baseline Baseline         | -2.4           | -1.3           | -1.1 (-2.0, - *        | -2.3* 8.2         | -1.9         | -0.9       | -1.0 (-1.9, -          |
-| SF-36 PCS                                       | 7.5            | 8.1            | 0.3)                   |                   | 10.0         | 9.0        | 0.1) *                 |
-| Change from baseline                            | 7.7            | 3.6            | 4.1 (1.9, 6.2)         | 6.9**             | 6.6          | 1.4        | 5.2 (3.0, 7.4)         |
-| Baseline                                        | 34.0           | 32.0           | ***                    | 33.5              | 27.5         | 30.6       | ***                    |
-
-Abbreviations: N = number of patients in the intent-to-treat population; NRI = Non-responder
-
-Imputation; patients with missing data were counted as non-responders.
+Abbreviations: N = number of patients in the intent-to-treat population; NRI = Non-responder Imputation; patients with missing data were counted as non-responders.
 
 ASAS HI = Assessment of SpondyloArthritis International Society Health Index; ASDAS = Ankylosing Spondylitis Disease Activity Score; BASDAI = Bath Ankylosing Spondylitis Disease Activity Index; CFB = least square mean change from baseline at week 16; MRI Spine SPARCC = Spondyloarthritis Research Consortium of Canada Magnetic Resonance Imaging Scoring of the Spine (23 discovertebral unit scale)
 
 - a At week 0, patients received 80 mg or 160 mg of ixekizumab.
-- b An ASAS20 response is defined as a ≥20% improvement and an absolute improvement from baseline of ≥1 unit (range 0 to 10) in ≥3 of 4 domains (Patient Global, Spinal Pain, Function, and Inflammation), and no worsening of ≥20% and ≥1 unit (range 0 to 10) in the remaining domain. An ASAS40 response is defined as a ≥40% improvement and an absolute improvement from baseline of ≥2 units in ≥3 of 4 domains without any worsening in the remaining domain.
+- b An ASAS20 response is defined as a ≥20% improvement and an absolute improvement from baseline of ≥1 unit (range 0 to 10) in ≥3 of 4 domains (Patient Global, Spinal Pain, Function, and Inflammation), and no worsening of ≥20% and ≥1 unit (range 0 to 10) in the remaining domain. An
+
+<div style=\"page-break-after: always\"></div>
+
+Percent of Responders
+
+80
+
+60-
+
+40-
+
+20-
+
+0
+
+0
+
+1
+
+80-
+
+ASAS40 response is defined as a ≥40% improvement and an absolute improvement from baseline of ≥2 units in ≥3 of 4 domains without any worsening in the remaining domain. 60-
+
 - c Primary endpoint.
 - d The numbers of ITT patients with MRI data at baseline are as follows: COAST-V: ixekizumab, n = 81; PBO, n = 82; ADA, n=85. COAST-W: ixekizumab, n = 58; PBO, n = 51.
 - e BASDAI50 response defined as an improvement of ≥50% of the BASDAI score from baseline.
@@ -1861,14 +2156,11 @@ ASAS HI = Assessment of SpondyloArthritis International Society Health Index; AS
 
 There were improvements in the main components of the ASAS40 response criteria (spinal pain, BASFI, patient global assessment, stiffness) and other measures of disease activity, including CRP, at week 16.
 
-<div style=\"page-break-after: always\"></div>
-
 Figure 6. Percent of patients achieving ASAS40 responses in COAST-V and COAST-W through week 16, NRI a
 
 <!-- image -->
 
-a Patients with missing data were counted as non-responders.
-
+- a Patients with missing data were counted as non-responders.
 * p&lt;0.05; ** p&lt;0.01; *** p&lt;0.001 compared with placebo.
 
 Similar response in ASAS40 was seen in patients regardless of baseline CRP levels, baseline ASDAS scores and MRI spine SPARCC scores. The ASAS40 response was demonstrated regardless of age, gender, race, disease duration, baseline body weight, baseline BASDAI score and prior biologic treatment.
@@ -1881,7 +2173,13 @@ Spinal pain showed improvements versus placebo as early as week 1, maintained th
 
 ## Non-radiographic axial spondyloarthritis
 
-Ixekizumab was assessed in a randomised, double-blind study with a 52-week placebo-controlled period (COAST-X) in 303 adult patients with active axial spondyloarthritis for at least 3 months. Patients must have had objective signs of inflammation indicated by elevated C-reactive protein (CRP) and/or sacroiliitis on magnetic resonance imaging (MRI), and no definitive radiographic evidence of structural damage on sacroiliac joints. Patients had active disease as defined by the Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) ≥4, and spinal pain ≥4 on a 0 to 10 Numerical Rating Scale (NRS), despite non-steroidal anti-inflammatory drug (NSAID) therapy. Patients were treated with either ixekizumab 80 mg or 160 mg at week 0, followed by 80 mg every 2 weeks (Q2W) or 80 mg every 4 weeks (Q4W) or with placebo. Dose adjustment and/or initiation of concomitant medications (NSAIDs, cDMARDs, corticosteroids, analgesics) were permitted starting at week 16.
+Ixekizumab was assessed in a randomised, double-blind study with a 52-week placebo-controlled period (COAST-X) in 303 adult patients with active axial spondyloarthritis for at least 3 months. Patients must have had objective signs of inflammation indicated by elevated C-reactive protein (CRP)
+
+COAST-W
+
+<div style=\"page-break-after: always\"></div>
+
+and/or sacroiliitis on magnetic resonance imaging (MRI), and no definitive radiographic evidence of structural damage on sacroiliac joints. Patients had active disease as defined by the Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) ≥4, and spinal pain ≥4 on a 0 to 10 Numerical Rating Scale (NRS), despite non-steroidal anti-inflammatory drug (NSAID) therapy. Patients were treated with either ixekizumab 80 mg or 160 mg at week 0, followed by 80 mg every 2 weeks (Q2W) or 80 mg every 4 weeks (Q4W) or with placebo. Dose adjustment and/or initiation of concomitant medications (NSAIDs, cDMARDs, corticosteroids, analgesics) were permitted starting at week 16.
 
 At baseline, patients had symptoms of non-radiographic axSpA for an average of 11 years. Approximately 39% of the patients were on a concomitant cDMARD.
 
@@ -1890,8 +2188,6 @@ The primary endpoint was the percentage of patients achieving an Assessment of S
 ## Clinical response
 
 Higher proportions of patients treated with ixekizumab 80 mg Q4W achieved ASAS40 response compared to placebo at week 16 (Table 13). Responses were similar regardless of concomitant therapies.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 13. Efficacy results at week 16 in COAST-X, NRI  a,b
 
@@ -1915,18 +2211,42 @@ b Patients with missing data were counted as non-responders.
 
 c At week 0, patients received 80 mg or 160 mg of ixekizumab.
 
-- d An ASAS20 response is defined as a ≥20% improvement and an absolute improvement from baseline of ≥1 units (range 0 to 10) in ≥3 of 4 domains (Patient Global, Spinal Pain, Function, and Inflammation), and no worsening of ≥20% and ≥1 unit (range 0 to 10) in the remaining domain. An ASAS40 response is defined as a ≥40% improvement and an absolute improvement from baseline of ≥2 units in ≥3 of 4 domains without any worsening in the remaining domain.
-- e Primary endpoint at week 16.
-- f The numbers of ITT patients with MRI data at baseline and week 16 are as follows: ixekizumab, n = 85; PBO, n = 90.
-- g Patients with missing data were counted as non-responders. Percentages are based on the number of patients in the ITT population with baseline ASDAS ≥2.1.
-- h The reported values are difference in %( 95% CI) for categorical variables, and difference in LSM (95% CI) for continuous variables.
-* p&lt;0.05; ** p&lt;0.01; *** p&lt;0.001 compared with placebo.
+d An ASAS20 response is defined as a ≥20% improvement and an absolute improvement from baseline of ≥1 units (range 0 to 10) in ≥3 of 4 domains (Patient Global, Spinal Pain, Function, and Inflammation), and no worsening of ≥20% and ≥1 unit (range 0 to 10) in the remaining domain. An ASAS40 response is defined as a ≥40% improvement and an absolute improvement from baseline of ≥2 units in ≥3 of 4 domains without any worsening in the remaining domain.
 
-The improvement in the main components of the ASAS40 response criteria (spinal pain, BASFI, patient global assessment, stiffness) and other measures of disease activity demonstrated significant clinical improvement at week 16.
+e Primary endpoint at week 16.
+
+f The numbers of ITT patients with MRI data at baseline and week 16 are as follows: ixekizumab, n = 85; PBO, n = 90.
 
 <div style=\"page-break-after: always\"></div>
 
+Figure 1.
+
+Percent of Responders
+
+Percent or patients achieving ASAS40 response through week 10 in cu
+
+80
+
+60-
+
+- g Patients with missing data were counted as non-responders. Percentages are based on the number of patients in the ITT population with baseline ASDAS ≥2.1.
+
+40-
+
+20-
+
+0-
+
+- h The reported values are difference in %( 95% CI) for categorical variables, and difference in LSM (95% CI) for continuous variables. **
+* p&lt;0.05; ** p&lt;0.01; *** p&lt;0.001 compared with placebo.
+
+·
+
+The improvement in the main components of the ASAS40 response criteria (spinal pain, BASFI, patient global assessment, stiffness) and other measures of disease activity demonstrated significant clinical improvement at week 16.
+
 Figure 7. Percent of patients achieving ASAS40 response through week 16 in COAST-X, NRI a
+
+Time (Weeks)
 
 <!-- image -->
 
@@ -1943,17 +2263,15 @@ Spinal pain showed improvements versus placebo as early as week 1 and was mainta
 
 Patients who completed one of the three pivotal studies COAST-V/W/X (52 weeks) were offered participation in a long-term extension and randomised withdrawal study (COAST-Y, with 350 and 423 patients enrolled on ixekizumab Q4W and Q2W, respectively). Among those who achieved remission 157/773 (20.3%) (Ankylosing Spondylitis Disease Activity Score [ASDAS] &lt;1.3 at least once, and no ASDAS score ≥2.1, at weeks 16 and 20), 155 patients exposed to ixekizumab up to 76 weeks were randomised at week 24 of the COAST-Y study (Placebo, N=53; ixekizumab Q4W, N=48; and ixekizumab Q2W, N=54); of these, 148 (95.5%) completed the week 64 visit (Placebo, N=50; ixekizumab Q4W, N=47; ixekizumab Q2W, N=51). The primary endpoint was the proportion of patients in the randomised withdrawal population who did not experience a flare during weeks 24-64 (combined ixekizumab Q2W and ixekizumab Q4W groups versus placebo). A significantly larger proportion of patients (NRI) in the combined ixekizumab groups (83.3% (85/102), p&lt;0.001) and ixekizumab Q4W (83.3 % (40/48), p=0.003) had no flare during weeks 24-64 compared with those who withdrew from ixekizumab to placebo (54.7 % (29/53)). Ixekizumab (in both combined ixekizumab groups and ixekizumab Q4W group) significantly delayed the time to flare (Log-Rank Test p&lt;0.001 and p&lt;0.01, respectively) compared to Placebo.
 
+<div style=\"page-break-after: always\"></div>
+
 In patients who received ixekizumab Q4W continuously (N=157), the ASAS40, ASDAS &lt;2.1 and BASDAI50 responses were maintained to week 116.
 
 ## Juvenile Idiopathic Arthritis
 
 ## Juvenile psoriatic arthritis (JPsA)and enthesitis-related arthritis (ERA)
 
-A multicenter, open-label, efficacy, safety, tolerability, and pharmacokinetic study (COSPIRIT-JIA) of subcutaneous ixekizumab with adalimumab reference arm, in children from 2 to less than 18 years of age with JPsA or ERA was performed to evaluate the safety and efficacy of ixekizumab for 16
-
-<div style=\"page-break-after: always\"></div>
-
-weeks after treatment initiation. The primary endpoint of the study was to determine the percentage of patients meeting the JIA ACR 30 (30 % improvement in American College of Rheumatology criteria) response criteria at week 16.
+A multicenter, open-label, efficacy, safety, tolerability, and pharmacokinetic study (COSPIRIT-JIA) of subcutaneous ixekizumab with adalimumab reference arm, in children from 2 to less than 18 years of age with JPsA or ERA was performed to evaluate the safety and efficacy of ixekizumab for 16 weeks after treatment initiation. The primary endpoint of the study was to determine the percentage of patients meeting the JIA ACR 30 (30 % improvement in American College of Rheumatology criteria) response criteria at week 16.
 
 Twenty patients were randomly assigned to ixekizumab and 20 patients to adalimumab. Randomisation was stratified based on the category of JIA (JPsA or ERA). The remaining patients who were bDMARD-naive or bDMARD-experienced were assigned to ixekizumab. Patients entering the study were not required to have a documented inadequate response to prior treatment.
 
@@ -1968,6 +2286,10 @@ JIA ACR 30 response rates at week 16 were also consistent across JPsA (24/27, 88
 In addition, the percentage of patients meeting the JIA ACR 30/50/70/90/100 response criteria were evaluated at week 16. The clinical response data are presented in Figure 8.
 
 <div style=\"page-break-after: always\"></div>
+
+IXEKIZUMAB (N =81)
+
+100
 
 Figure 8. JIA ACR 30/50/70/90/100 response rates in the ixekizumab group over 16 weeks - ITT Population (NRI method)
 
@@ -1988,6 +2310,16 @@ The European Medicines Agency has deferred the obligation to submit the results 
 ## Absorption
 
 Following a single subcutaneous dose of ixekizumab in patients with psoriasis, mean peak concentrations were achieved within 4 to 7 days, across a dose range of 5 to 160 mg. The mean (SD)
+
+Response Rate (%)
+
+75
+
+25
+
+0
+
+0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2111,9 +2443,7 @@ EU/1/15/1085/002
 
 EU/1/15/1085/003
 
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 25 April 2016
 
@@ -2125,7 +2455,7 @@ DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines
 
-Agency https://www.ema.europa.eu.
+[Agency https://www.ema.europa.eu.](https://www.ema.europa.eu/)
 
 67
 
@@ -2202,7 +2532,7 @@ Each pre-filled syringe contains 40 mg of ixekizumab in 0.5 mL solution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: sucrose; polysorbate 80; water for injections. In addition, sodium hydroxide may have been added for pH adjustment. See leaflet for further information.
+Excipients: sucrose; polysorbate 80; water for injections and sodium hydroxide. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2331,14 +2661,16 @@ Each pre-filled syringe contains 80 mg of ixekizumab in 1 mL solution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: sucrose; polysorbate 80; water for injections. In addition, sodium hydroxide may have been added for pH adjustment. See leaflet for further information.
+Excipients: sucrose; polysorbate 80; water for injections and sodium hydroxide. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 ## Solution for injection.
 
 - 1 pre-filled syringe of 1 mL solution
-- 2 pre-filled syringes of 1 mL solution
+
+2 pre-filled syringes of 1 mL solution
+
 - 3 pre-filled syringes of 1 mL solution
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -2466,7 +2798,7 @@ Each pre-filled pen contains 80 mg of ixekizumab in 1 mL solution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: sucrose; polysorbate 80; water for injections. In addition, sodium hydroxide may have been added for pH adjustment. See leaflet for further information.
+Excipients: sucrose; polysorbate 80; water for injections and sodium hydroxide. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2816,7 +3148,8 @@ Very common (may affect more than 1 in 10 people)
 ## Uncommon (may affect up to 1 in 100 people)
 
 - -oral thrush (oral candidiasis)
-- -influenza
+- -
+- influenza
 - -runny nose
 - -bacterial skin infection
 - -hives
@@ -3010,13 +3343,15 @@ Tel: + 421 220 663 111
 
 Oy Eli Lilly Finland Ab Puh/Tel: + 358-(0) 9 85 45 250
 
-<div style=\"page-break-after: always\"></div>
-
 ## Κύπρος
 
 Phadisco Ltd
 
-Τηλ: +357 22 715000
+Τηλ
+
+: +357 22 715000
+
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -3030,17 +3365,25 @@ Tel:
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency website:
+
+[https://www.ema.europa.eu.](https://www.ema.europa.eu/)
 
 --------------------------------------------------------------------------------------------------------------------------
 
-Sverige Eli Lilly Sweden AB Tel: + 46-(0) 8 7378800
+## Sverige
+
+Eli Lilly Sweden AB
+
+Tel: + 46-(0) 8 7378800
 
 <div style=\"page-break-after: always\"></div>
 
 ## Instructions for use
 
 ## Taltz 40 mg solution for injection in pre-filled syringe
+
+## ixekizumab
 
 <!-- image -->
 
@@ -3060,7 +3403,21 @@ Before you use the Taltz pre-filled syringe, read and carefully follow all the s
 
 <div style=\"page-break-after: always\"></div>
 
+30
+
+-
+
+minutes ody
+
+licine edle
+
+Th
+
 ## Guide to the parts
+
+Gr pli
+
+Nee
 
 ## 1 GET READY
 
@@ -3079,6 +3436,10 @@ DO NOT use any heat sources to warm the medicine, for example: a microwave, hot 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+Back of
+
+Expiry date arm
 
 <!-- image -->
 
@@ -3135,6 +3496,10 @@ Insert the needle at a 45-degree angle to inject under the skin (subcutaneous in
 Let go of your skin before you push the plunger in.
 
 <div style=\"page-break-after: always\"></div>
+
+Green plunger rod
+
+Grey syringe plunger
 
 2d
 
@@ -3630,7 +3995,7 @@ Oy Eli Lilly Finland Ab Puh/Tel: + 358-(0) 9 85 45 250
 
 ## Κύπρος
 
-Phadisco Ltd Τηλ: +357 22 715000
+Phadisco Ltd Τηλ : +357 22 715000
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3688,7 +4053,25 @@ Before you use the Taltz pre-filled syringe, read and carefully follow all the s
 
 <div style=\"page-break-after: always\"></div>
 
+30
+
+-
+
+minutes body
+
+licine dle
+
+Thu
+
+Gr
+
 ## Guide to the parts
+
+F
+
+G
+
+Nee
 
 ## 1 GET READY
 
@@ -3708,7 +4091,15 @@ DO NOT use any heat sources to warm the medicine, for example: a microwave, hot 
 
 <div style=\"page-break-after: always\"></div>
 
+Expiry date
+
+Back of arm
+
 1c
+
+Abdomen
+
+Thigh
 
 <!-- image -->
 
@@ -3763,7 +4154,15 @@ Insert the needle at a 45-degree angle. Then gently let go of your skin. Make su
 
 <div style=\"page-break-after: always\"></div>
 
+La
+
 2d
+
+Green plunger rod
+
+Grey syringe ·
+
+plunger
 
 <!-- image -->
 
@@ -4158,7 +4557,9 @@ Tel. +370 (5) 2649600
 
 ## България
 
-ТП \" Ели Лили Недерланд \" Б . В . - България тел. + 359 2 491 41 40
+ТП \" Ели Лили Недерланд \" Б . В . - България
+
+тел. + 359 2 491 41 40
 
 ## Luxembourg/Luxemburg
 
@@ -4274,13 +4675,17 @@ Eli Lilly farmacevtska družba, d.o.o.
 
 Tel: +386 (0)1 580 00 10
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ísland
 
 Icepharma hf.
 
 Sími + 354 540 8000
+
+## Slovenská republika
+
+Eli Lilly Slovakia s.r.o.
+
+Tel: + 421 220 663 111
 
 ## Italia
 
@@ -4288,11 +4693,25 @@ Eli Lilly Italia S.p.A.
 
 Tel: + 39- 055 42571
 
+## Suomi/Finland
+
+Oy Eli Lilly Finland Ab
+
+Puh/Tel: + 358-(0) 9 85 45 250
+
 ## Κύπρος
 
 Phadisco Ltd
 
-Τηλ: +357 22 715000
+Τηλ
+
+: +357 22 715000
+
+## Sverige
+
+Eli Lilly Sweden AB
+
+Tel: + 46-(0) 8 7378800
 
 ## Latvija
 
@@ -4306,27 +4725,13 @@ Tel:
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency website:
+
+https://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
 
 --------------------------------------------------------------------------------------------------------------------------
-
-## Slovenská republika
-
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
-
-## Suomi/Finland
-
-Oy Eli Lilly Finland Ab
-
-Puh/Tel: + 358-(0) 9 85 45 250
-
-## Sverige
-
-Eli Lilly Sweden AB
-
-Tel: + 46-(0) 8 7378800
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4355,7 +4760,19 @@ Before you use the Taltz pre-filled pen, read and carefully follow all the step-
 
 <div style=\"page-break-after: always\"></div>
 
+30
+
+minutes
+
+In bu
+
 ## Guide to the parts
+
+- Lo syr
+
+- M
+
+D00000000D
 
 ## 1 GET READY
 
@@ -4374,6 +4791,10 @@ DO NOT use any heat sources to warm the medicine, for example: a microwave, hot 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+Expiry date
+
+Back of arm
 
 <!-- image -->
 
@@ -4427,7 +4848,15 @@ Keep the base on your skin, and then turn the lock ring to the unlock position. 
 
 <div style=\"page-break-after: always\"></div>
 
+Click
+
 2d
+
+Grey plunger
+
+5-10
+
+seconds
 
 <!-- image -->
 

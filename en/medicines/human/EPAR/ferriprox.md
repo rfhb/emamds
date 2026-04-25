@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 09:29:42
+document_datetime: 2026-04-21 13:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ferriprox.html
 document_name: ferriprox.html
 version: success
-processing_time: 0.1323832
-conversion_datetime: 2025-12-31 03:34:04.866522
+processing_time: 0.1410107
+conversion_datetime: 2026-04-25 16:12:07.133611
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Ferriprox
 
 [RSS](/en/individual-human-medicine.xml/66027)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-deferiprone Medicine Human Authorised
+deferiprone
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -116,275 +116,141 @@ Reference Number: EMA/473109/2019
 
 English (EN) (107.27 KB - PDF)
 
-**First published:** 28/10/2009
-
-**Last updated:** 28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/en/documents/overview/ferriprox-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-450)
+[Other languages (22)](#file-language-dropdown-481)
 
 български (BG) (147.89 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/bg/documents/overview/ferriprox-epar-medicine-overview_bg.pdf)
 
 español (ES) (107.91 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/es/documents/overview/ferriprox-epar-medicine-overview_es.pdf)
 
 čeština (CS) (131.34 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/cs/documents/overview/ferriprox-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (105.52 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/da/documents/overview/ferriprox-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (108.39 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/de/documents/overview/ferriprox-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (104.81 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/et/documents/overview/ferriprox-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (154.99 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/el/documents/overview/ferriprox-epar-medicine-overview_el.pdf)
 
 français (FR) (108.28 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/fr/documents/overview/ferriprox-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (127.63 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/hr/documents/overview/ferriprox-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (106.68 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/it/documents/overview/ferriprox-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (129.87 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/lv/documents/overview/ferriprox-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (132.49 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/lt/documents/overview/ferriprox-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (126.05 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/hu/documents/overview/ferriprox-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (146.43 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/mt/documents/overview/ferriprox-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (105.91 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/nl/documents/overview/ferriprox-epar-medicine-overview_nl.pdf)
 
 polski (PL) (132.07 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/pl/documents/overview/ferriprox-epar-medicine-overview_pl.pdf)
 
 português (PT) (107.93 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/pt/documents/overview/ferriprox-epar-medicine-overview_pt.pdf)
 
 română (RO) (137.17 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/ro/documents/overview/ferriprox-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (131.46 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/sk/documents/overview/ferriprox-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (127.27 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/sl/documents/overview/ferriprox-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (105.82 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/fi/documents/overview/ferriprox-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (106.44 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-28/10/2019
+**First published:** 28/10/2009 **Last updated:** 28/10/2019
 
 [View](/sv/documents/overview/ferriprox-epar-medicine-overview_sv.pdf)
 
@@ -392,9 +258,7 @@ Ferriprox : EPAR - Risk management plan
 
 English (EN) (732.51 KB - PDF)
 
-**First published:** 26/03/2019
-
-**Last updated:** 27/02/2023
+**First published:** 26/03/2019 **Last updated:** 27/02/2023
 
 [View](/en/documents/rmp/ferriprox-epar-risk-management-plan_en.pdf)
 
@@ -402,305 +266,161 @@ English (EN) (732.51 KB - PDF)
 
 Ferriprox : EPAR - Product Information
 
-English (EN) (551.83 KB - PDF)
+English (EN) (560.54 KB - PDF)
 
-**First published:** 28/10/2009
-
-**Last updated:** 13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/en/documents/product-information/ferriprox-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-489)
+[Other languages (24)](#file-language-dropdown-193)
 
-български (BG) (703.32 KB - PDF)
+български (BG) (662.77 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/bg/documents/product-information/ferriprox-epar-product-information_bg.pdf)
 
-español (ES) (522.71 KB - PDF)
+español (ES) (555.21 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/es/documents/product-information/ferriprox-epar-product-information_es.pdf)
 
-čeština (CS) (635.62 KB - PDF)
+čeština (CS) (625.49 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/cs/documents/product-information/ferriprox-epar-product-information_cs.pdf)
 
-dansk (DA) (530.66 KB - PDF)
+dansk (DA) (560.02 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/da/documents/product-information/ferriprox-epar-product-information_da.pdf)
 
-Deutsch (DE) (561.84 KB - PDF)
+Deutsch (DE) (621.47 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/de/documents/product-information/ferriprox-epar-product-information_de.pdf)
 
-eesti keel (ET) (522.69 KB - PDF)
+eesti keel (ET) (586.65 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/et/documents/product-information/ferriprox-epar-product-information_et.pdf)
 
-ελληνικά (EL) (643.13 KB - PDF)
+ελληνικά (EL) (650.59 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/el/documents/product-information/ferriprox-epar-product-information_el.pdf)
 
-français (FR) (546 KB - PDF)
+français (FR) (596.85 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/fr/documents/product-information/ferriprox-epar-product-information_fr.pdf)
 
-hrvatski (HR) (565.57 KB - PDF)
+hrvatski (HR) (605.59 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/hr/documents/product-information/ferriprox-epar-product-information_hr.pdf)
 
-íslenska (IS) (517.83 KB - PDF)
+íslenska (IS) (595.03 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/is/documents/product-information/ferriprox-epar-product-information_is.pdf)
 
-italiano (IT) (554.91 KB - PDF)
+italiano (IT) (551.9 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/it/documents/product-information/ferriprox-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (613.9 KB - PDF)
+latviešu valoda (LV) (621.83 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/lv/documents/product-information/ferriprox-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (622.34 KB - PDF)
+lietuvių kalba (LT) (629.17 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/lt/documents/product-information/ferriprox-epar-product-information_lt.pdf)
 
-magyar (HU) (683.38 KB - PDF)
+magyar (HU) (645.13 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/hu/documents/product-information/ferriprox-epar-product-information_hu.pdf)
 
-Malti (MT) (718.06 KB - PDF)
+Malti (MT) (1.29 MB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/mt/documents/product-information/ferriprox-epar-product-information_mt.pdf)
 
-Nederlands (NL) (541.96 KB - PDF)
+Nederlands (NL) (584.97 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/nl/documents/product-information/ferriprox-epar-product-information_nl.pdf)
 
-norsk (NO) (582.78 KB - PDF)
+norsk (NO) (575.96 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/no/documents/product-information/ferriprox-epar-product-information_no.pdf)
 
-polski (PL) (619.66 KB - PDF)
+polski (PL) (620.26 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/pl/documents/product-information/ferriprox-epar-product-information_pl.pdf)
 
-português (PT) (546.04 KB - PDF)
+português (PT) (586.08 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/pt/documents/product-information/ferriprox-epar-product-information_pt.pdf)
 
-română (RO) (618.23 KB - PDF)
+română (RO) (591.19 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/ro/documents/product-information/ferriprox-epar-product-information_ro.pdf)
 
-slovenčina (SK) (611.92 KB - PDF)
+slovenčina (SK) (644.12 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/sk/documents/product-information/ferriprox-epar-product-information_sk.pdf)
 
-slovenščina (SL) (584.34 KB - PDF)
+slovenščina (SL) (606.55 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/sl/documents/product-information/ferriprox-epar-product-information_sl.pdf)
 
-Suomi (FI) (529.47 KB - PDF)
+Suomi (FI) (562.46 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/fi/documents/product-information/ferriprox-epar-product-information_fi.pdf)
 
-svenska (SV) (518.91 KB - PDF)
+svenska (SV) (594.33 KB - PDF)
 
-**First published:**
-
-28/10/2009
-
-**Last updated:**
-
-13/08/2025
+**First published:** 28/10/2009 **Last updated:** 21/04/2026
 
 [View](/sv/documents/product-information/ferriprox-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000291625 12/08/2025
+**Latest procedure affecting product information:** VR/0000342195
+
+20/04/2026
 
 icon globe
 
@@ -720,310 +440,178 @@ Ferriprox : EPAR - All Authorised presentations
 
 English (EN) (15.03 KB - PDF)
 
-**First published:** 27/11/2007
-
-**Last updated:** 07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/en/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-702)
+[Other languages (24)](#file-language-dropdown-647)
 
 български (BG) (88.79 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/bg/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (18.04 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/es/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (83.95 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/cs/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (17.66 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/da/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (17.9 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/de/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (18.08 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/et/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (85.61 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/el/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (18.43 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/fr/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (36.52 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/hr/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (13.42 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/is/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (17.47 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/it/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (87.97 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/lv/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (86.03 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/lt/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (88.07 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/hu/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (85.37 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/mt/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (17.29 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/nl/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (13.56 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/no/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (89.95 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/pl/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (17.87 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/pt/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (84.99 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/ro/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (86.83 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/sk/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (53.29 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/sl/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (17.53 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/fi/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (17.7 KB - PDF)
 
-**First published:**
-
-27/11/2007
-
-**Last updated:**
-
-07/09/2010
+**First published:** 27/11/2007 **Last updated:** 07/09/2010
 
 [View](/sv/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Ferriprox Active substance Deferiprone International non-proprietary name (INN) or common name deferiprone Therapeutic area (MeSH)
+Name of medicine
+
+Ferriprox
+
+Active substance
+
+Deferiprone
+
+International non-proprietary name (INN) or common name
+
+deferiprone
+
+Therapeutic area (MeSH)
 
 - beta-Thalassemia
 - Iron Overload
 
-Anatomical therapeutic chemical (ATC) code V03AC02
+Anatomical therapeutic chemical (ATC) code
+
+V03AC02
 
 ### Pharmacotherapeutic group
 
@@ -1037,13 +625,23 @@ Ferriprox in combination with another chelator is indicated in patients with tha
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000236 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000236
+
+Marketing authorisation holder
 
 Chiesi Farmaceutici S.p.A.
 
 Via Palermo 26/A
 
-Marketing authorisation issued 25/08/1999 Revision 33
+Marketing authorisation issued
+
+25/08/1999
+
+Revision
+
+34
 
 ## Assessment history
 
@@ -1055,9 +653,9 @@ Collapse section
 
 Ferriprox : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (535.4 KB - PDF)
+English (EN) (169.09 KB - PDF)
 
-**First published:** 13/08/2025
+**First published:** 13/08/2025 **Last updated:** 21/04/2026
 
 [View](/en/documents/procedural-steps-after/ferriprox-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1065,9 +663,7 @@ Ferriprox : EPAR - Procedural steps taken and scientific information after autho
 
 English (EN) (346.58 KB - PDF)
 
-**First published:** 28/10/2009
-
-**Last updated:** 13/08/2025
+**First published:** 28/10/2009 **Last updated:** 13/08/2025
 
 [View](/en/documents/procedural-steps-after/ferriprox-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1077,37 +673,27 @@ Reference Number: EMA/394748/2017
 
 English (EN) (69.65 KB - PDF)
 
-**First published:** 21/06/2017
-
-**Last updated:** 21/06/2017
+**First published:** 21/06/2017 **Last updated:** 21/06/2017
 
 [View](/en/documents/scientific-conclusion/ferriprox-h-c-psusa-00000940-201608-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
 
 Ferriprox-H-C-236-II-0103 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/ 591403/2015
+Adopted Reference Number: EMA/ 591403/2015
 
 English (EN) (817.78 KB - PDF)
 
-**First published:** 14/07/2016
-
-**Last updated:** 14/07/2016
+**First published:** 14/07/2016 **Last updated:** 14/07/2016
 
 [View](/en/documents/variation-report/ferriprox-h-c-236-ii-0103-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Ferriprox
 
-Adopted
-
-Reference Number: EMA/CHMP/284564/2016
+Adopted Reference Number: EMA/CHMP/284564/2016
 
 English (EN) (61.46 KB - PDF)
 
-**First published:** 29/04/2016
-
-**Last updated:** 29/04/2016
+**First published:** 29/04/2016 **Last updated:** 29/04/2016
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-ferriprox_en.pdf)
 
@@ -1115,9 +701,7 @@ Ferriprox : EPAR - Steps taken after authorisation when a cutoff date has been u
 
 English (EN) (104.13 KB - PDF)
 
-**First published:** 10/07/2006
-
-**Last updated:** 10/07/2006
+**First published:** 10/07/2006 **Last updated:** 10/07/2006
 
 [View](/en/documents/steps-after-cutoff/ferriprox-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
@@ -1127,9 +711,7 @@ Ferriprox : EPAR - Procedural steps taken before authorisation
 
 English (EN) (96.5 KB - PDF)
 
-**First published:** 10/07/2006
-
-**Last updated:** 10/07/2006
+**First published:** 10/07/2006 **Last updated:** 10/07/2006
 
 [View](/en/documents/procedural-steps/ferriprox-epar-procedural-steps-taken-authorisation_en.pdf)
 
@@ -1137,23 +719,25 @@ Ferriprox : EPAR - Scientific Discussion
 
 English (EN) (246.55 KB - PDF)
 
-**First published:** 10/07/2006
-
-**Last updated:** 10/07/2006
+**First published:** 10/07/2006 **Last updated:** 10/07/2006
 
 [View](/en/documents/scientific-discussion/ferriprox-epar-scientific-discussion_en.pdf)
 
-#### News on Ferriprox
+## News on Ferriprox
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 April 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-april-2016) 29/04/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 April 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-april-2016)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2016) 26/02/2016
+29/04/2016
 
-#### Related information
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2016)
+
+26/02/2016
+
+## Related information
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/search?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-1=1=EMEAHC000236II0103) (variation II/0103)
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1165,210 +749,162 @@ English (EN) (156.47 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-887)
+[Other languages (24)](#file-language-dropdown-478)
 
 български (BG) (157.32 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/bg/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (141.69 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/es/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (142.06 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/cs/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (139.52 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/da/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (164.32 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/de/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_de.docx)
 
 eesti keel (ET) (163.72 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/et/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (157.87 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/el/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (146.66 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/fr/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (136.06 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/hr/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_hr.docx)
 
 íslenska (IS) (140.61 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/is/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_is.docx)
 
 italiano (IT) (146.64 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/it/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_it.docx)
 
 latviešu valoda (LV) (171.94 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/lv/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_lv.docx)
 
 lietuvių kalba (LT) (166.21 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/lt/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (173.43 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/hu/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (145.09 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/mt/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (158.16 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/nl/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_nl.docx)
 
 norsk (NO) (153.69 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/no/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (148.41 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/pl/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (163.04 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/pt/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (139.04 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/ro/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (165.13 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/sk/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (143.2 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/sl/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_sl.docx)
 
 Suomi (FI) (155.77 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/fi/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (139.5 KB - DOCX)
 
-**First published:**
-
-13/08/2025
+**First published:** 13/08/2025
 
 [View](/sv/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Ferriprox
+## More information on Ferriprox
 
 - [Long-term observational safety study to evaluate the nature and incidence of adverse effects of deferiprone treatment in patients with beta-thalassaemia major aged from 1 month to less than 18 years. (DEEP-3) - post-authorisation study](https://catalogues.ema.europa.eu/study/12034)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 13/08/2025
+**This page was last updated on**
+
+21/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

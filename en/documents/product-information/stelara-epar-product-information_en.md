@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-04-14 15:12:14
-document_pages: 186
+document_datetime: 2026-04-24 09:16:00
+document_pages: 187
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/stelara-epar-product-information_en.pdf
 document_name: stelara-epar-product-information_en.pdf
 version: success
-processing_time: 53.9272058
-conversion_datetime: 2025-12-30 22:39:45.886524
+processing_time: 49.6274825
+conversion_datetime: 2026-04-25 16:27:52.310438
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,7 +30,7 @@ STELARA 130 mg concentrate for solution for infusion
 
 Each vial contains 130 mg ustekinumab in 26 mL (5 mg/mL).
 
-Ustekinumab is a fully human IgG1κ monoclonal antibody to interleukin (IL)-12/23 produced in a murine myeloma cell line using recombinant DNA technology.
+Ustekinumab is a fully human IgG1κ monoclonal antibody produced in a murine myeloma cell line using recombinant DNA technology.
 
 For the full list of excipients, see section 6.1.
 
@@ -38,19 +38,19 @@ For the full list of excipients, see section 6.1.
 
 Concentrate for solution for infusion.
 
-The solution is clear, colourless to light yellow.
+The solution is clear, colourless to light yellow, with a target pH of 6.0 and approximate osmolality of 288 mOsm/kg.
 
 ## 4. CLINICAL PARTICULARS
 
 ## 4.1 Therapeutic indications
 
-## Adult Crohn's Disease
+## Adult Crohn's disease
 
 STELARA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
 
-## Paediatric Crohn's Disease
+## Paediatric Crohn's disease
 
-STELARA is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients weighing at least 40 kg, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
+STELARA is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients from the age of 2 years and older, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
 
 ## Ulcerative colitis
 
@@ -64,25 +64,23 @@ STELARA concentrate for solution for infusion is intended for use under the guid
 
 ## Posology
 
-## Adults
-
-## Crohn's Disease and Ulcerative Colitis
+## Crohn's disease and ulcerative colitis
 
 STELARA treatment is to be initiated with a single intravenous dose based on body weight. The infusion solution is to be composed of the number of vials of STELARA 130 mg as specified in Table 1 (see section 6.6 for preparation).
 
-Table 1 Initial intravenous dosing of STELARA
+Table 1: Initial intravenous dose of STELARA
 
-| Body weight of patient at the time of dosing   | Recommended dose a   |   Number of 130 mg STELARA Vials |
-|------------------------------------------------|----------------------|----------------------------------|
-| ≤ 55 kg                                        | 260 mg               |                                2 |
-| > 55 kg to ≤ 85 kg                             | 390 mg               |                                3 |
-| > 85 kg                                        | 520 mg               |                                4 |
+| Body weight of patient at the time of dosing   | Recommended dose a   |   Number of 130 mg Vials |
+|------------------------------------------------|----------------------|--------------------------|
+| ≤ 55 kg                                        | 260 mg               |                        2 |
+| > 55 kg to ≤ 85 kg                             | 390 mg               |                        3 |
+| > 85 kg                                        | 520 mg               |                        4 |
 
 The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the STELARA solution for injection (vial) and solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC.
 
-## Elderly (≥ 65 years)
+## Elderly
 
-No dose adjustment is needed for elderly patients (see section 4.4).
+No dose adjustment is needed for elderly patients (≥ 65 years) (see section 4.4).
 
 ## Renal and hepatic impairment
 
@@ -90,21 +88,44 @@ STELARA has not been studied in these patient populations. No dose recommendatio
 
 ## Paediatric population
 
-## Paediatric Crohn's disease (patients weighing at least 40 kg)
+## Paediatric Crohn's disease (2 years and older)
 
-STELARA treatment is to be initiated with a single intravenous dose based on body weight. The infusion solution is to be composed of the number of vials of STELARA 130 mg as specified in Table 2 (see section 6.6 for preparation).
+## Patients weighing less than 40 kg (BSA-based dosing)
 
-Table 2 Initial intravenous dosing of STELARA
+Treatment is to be initiated with a single intravenous (IV) dose based on the patient's body surface area (BSA), see Table 2. The infusion solution is to be composed of infusion solution volume from the total number of vials of STELARA 130 mg as specified in Table 2.
 
-| Body weight of patient at the time of dosing   | Recommended dose a   |   Number of 130 mg STELARA Vials |
-|------------------------------------------------|----------------------|----------------------------------|
-| ≥ 40 kg to ≤ 55 kg                             | 260 mg               |                                2 |
-| > 55 kg to ≤ 85 kg                             | 390 mg               |                                3 |
-| > 85 kg                                        | 520 mg               |                                4 |
+Table 2: Initial intravenous dose of STELARA
 
-The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the STELARA solution for injection (vial) and solution for injection in prefilled syringe SmPC.
+| BSA Range (m²) of patient at time of dosing Body weight < 40 kg   | Recommended Dose (mg)   | Volume of Infusion solution (mL)   | Number of 130 mg Vials   |
+|-------------------------------------------------------------------|-------------------------|------------------------------------|--------------------------|
+| 0.40 to <0.62                                                     | 130 mg                  | 26 mL                              | 1 vial                   |
+| 0.62 to <0.95                                                     | 200 mg                  | 40 mL                              | 2 vials                  |
+| 0.95 to <1.25                                                     | 260 mg                  | 52 mL                              | 2 vials                  |
+| ≥1.25                                                             | 325 mg                  | 65 mL                              | 3 vials                  |
 
-The safety and efficacy of STELARA for the treatment of Crohn's disease in paediatric patients weighing less than 40 kg or ulcerative colitis in children less than 18 years have not yet been established. No data are available.
+## Patients weighing at least 40 kg (weight-based dosing)
+
+STELARA treatment is to be initiated with a single intravenous dose based on body weight. The infusion solution is to be composed of the number of vials of STELARA 130 mg as specified in Table 3 (see section 6.6 for preparation).
+
+Table 3: Initial intravenous dose of STELARA
+
+| Body weight of patient at the time of dosing   | Recommended dose a   |   Number of 130 mg Vials |
+|------------------------------------------------|----------------------|--------------------------|
+| ≥ 40 kg to ≤ 55 kg                             | 260 mg               |                        2 |
+| > 55 kg to ≤ 85 kg                             | 390 mg               |                        3 |
+| > 85 kg                                        | 520 mg               |                        4 |
+
+The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the STELARA solution
+
+<div style=\"page-break-after: always\"></div>
+
+for injection (vial) and solution for injection in prefilled syringe SmPC.
+
+The safety and efficacy of STELARA for the treatment of Crohn's disease in paediatric patients less than 2 years and less than 10 kg have not been established. No data are available.
+
+## Paediatric ulcerative colitis
+
+The safety and efficacy of STELARA in treatment of ulcerative colitis in paediatric patients less than 18 years have not yet been established. No data are available
 
 ## Method of administration
 
@@ -116,7 +137,888 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 Clinically important, active infection (e.g. active tuberculosis; see section 4.4).
 
+## 4.4 Special warnings and precautions for use
+
+## Traceability
+
+In order to improve the traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
+
+## Infections
+
+Ustekinumab may have the potential to increase the risk of infections and reactivate latent infections. In clinical studies and a post-marketing observational study in patients with psoriasis, serious bacterial, fungal, and viral infections have been observed in patients receiving STELARA (see section 4.8).
+
+Opportunistic infections including reactivation of tuberculosis, other opportunistic bacterial infections (including atypical mycobacterial infection, listeria meningitis, pneumonia legionella, and nocardiosis), opportunistic fungal infections, opportunistic viral infections (including encephalitis caused by herpes simplex 2), and parasitic infections (including ocular toxoplasmosis) have been reported in patients treated with ustekinumab.
+
+Caution should be exercised when considering the use of STELARA in patients with a chronic infection or a history of recurrent infection (see section 4.3).
+
+Prior to initiating treatment with STELARA, patients should be evaluated for tuberculosis infection. STELARA must not be given to patients with active tuberculosis (see section 4.3). Treatment of latent tuberculosis infection should be initiated prior to administering STELARA. Anti-tuberculosis therapy should also be considered prior to initiation of STELARA in patients with a history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed. Patients receiving STELARA should be monitored closely for signs and symptoms of active tuberculosis during and after treatment.
+
+Patients should be instructed to seek medical advice if signs or symptoms suggestive of an infection occur. If a patient develops a serious infection, the patient should be closely monitored and STELARA should not be administered until the infection resolves.
+
+## Malignancies
+
+Immunosuppressants like ustekinumab have the potential to increase the risk of malignancy. Some patients who received STELARA in clinical studies and in a post-marketing observational study in patients with psoriasis developed cutaneous and non-cutaneous malignancies (see section 4.8). The risk of malignancy may be higher in psoriasis patients who have been treated with other biologics
+
 <div style=\"page-break-after: always\"></div>
+
+during the course of their disease.
+
+No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving STELARA. Thus, caution should be exercised when considering the use of STELARA in these patients.
+
+All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of skin cancer (see section 4.8).
+
+## Systemic and respiratory hypersensitivity reactions
+
+Serious hypersensitivity reactions have been reported in the postmarketing setting, in some cases several days after treatment. Anaphylaxis and angioedema have occurred. If an anaphylactic or other serious hypersensitivity reaction occurs, appropriate therapy should be instituted and administration of STELARA should be discontinued (see section 4.8).
+
+Infusion-related reactions were observed in clinical trials (see section 4.8). Serious infusion-related reactions including anaphylactic reactions to the infusion have been reported in the post-marketing setting. If a serious or life-threatening reaction is observed, appropriate therapy should be instituted and ustekinumab should be discontinued.
+
+Cases of allergic alveolitis, eosinophilic pneumonia, and non-infectious organising pneumonia have been reported during post-approval use of ustekinumab. Clinical presentations included cough, dyspnoea, and interstitial infiltrates following one to three doses. Serious outcomes have included respiratory failure and prolonged hospitalisation. Improvement has been reported after discontinuation of ustekinumab and also, in some cases, administration of corticosteroids. If infection has been excluded and diagnosis is confirmed, discontinue ustekinumab and institute appropriate treatment (see section 4.8).
+
+## Cardiovascular events
+
+Cardiovascular events including myocardial infarction and cerebrovascular accident have been observed in patients with psoriasis exposed to STELARA in a post-marketing observational study. Risk factors for cardiovascular disease should be regularly assessed during treatment with STELARA.
+
+## Vaccinations
+
+It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with STELARA. Specific studies have not been conducted in patients who had recently received live viral or live bacterial vaccines. No data are available on the secondary transmission of infection by live vaccines in patients receiving STELARA. Before live viral or live bacterial vaccination, treatment with STELARA should be withheld for at least 15 weeks after the last dose and can be resumed at least 2 weeks after vaccination. Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance on concomitant use of immunosuppressive agents post-vaccination.
+
+Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.5 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+
+Patients receiving STELARA may receive concurrent inactivated or non-live vaccinations.
+
+Long term treatment with STELARA does not suppress the humoral immune response to pneumococcal polysaccharide or tetanus vaccines (see section 5.1).
+
+## Concomitant immunosuppressive therapy
+
+In psoriasis studies, the safety and efficacy of STELARA in combination with immunosuppressants,
+
+<div style=\"page-break-after: always\"></div>
+
+including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of STELARA. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of STELARA. Caution should be exercised when considering concomitant use of other immunosuppressants and STELARA or when transitioning from other immunosuppressive biologics (see section 4.5).
+
+## Immunotherapy
+
+STELARA has not been evaluated in patients who have undergone allergy immunotherapy. It is not known whether STELARA may affect allergy immunotherapy.
+
+## Serious skin conditions
+
+In patients with psoriasis, exfoliative dermatitis has been reported following ustekinumab treatment (see section 4.8). Patients with plaque psoriasis may develop erythrodermic psoriasis, with symptoms that may be clinically indistinguishable from exfoliative dermatitis, as part of the natural course of their disease. As part of the monitoring of the patient's psoriasis, physicians should be alert for symptoms of erythrodermic psoriasis or exfoliative dermatitis. If these symptoms occur, appropriate therapy should be instituted. STELARA should be discontinued if a drug reaction is suspected.
+
+## Lupus-related conditions
+
+Cases of lupus-related conditions have been reported in patients treated with ustekinumab, including cutaneous lupus erythematosus and lupus-like syndrome. If lesions occur, especially in sun exposed areas of the skin or if accompanied by arthralgia, the patient should seek medical attention promptly. If the diagnosis of a lupus-related condition is confirmed, ustekinumab should be discontinued and appropriate treatment initiated.
+
+## Special populations
+
+## Elderly
+
+No overall differences in efficacy or safety in patients age 65 and older who received STELARA were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
+
+## Excipients with known effect
+
+STELARA contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium-free'. STELARA is however, diluted in sodium chloride 9 mg/mL (0.9%) solution for infusion. This should be taken into consideration for patients on a controlled sodium diet (see section 6.6).
+
+STELARA contains 10.8 mg of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.40 mg/mL. Polysorbates may cause allergic reactions.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+## Live vaccines should not be given concurrently with STELARA.
+
+Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+
+In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was
+
+<div style=\"page-break-after: always\"></div>
+
+explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to anti-TNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. anti-TNFα agents and/or vedolizumab) in patients with ulcerative colitis.
+
+The results of an in vitro study and a phase 1 study in subjects with active Crohn's disease do not suggest the need for dose adjustments in patients who are receiving concomitant CYP450 substrates (see section 5.2).
+
+In psoriasis studies, the safety and efficacy of STELARA in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of STELARA. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of STELARA (see section 4.4).
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Women of childbearing potential
+
+Women of childbearing potential should use effective methods of contraception during treatment and for at least 15 weeks after treatment.
+
+## Pregnancy
+
+Data from a moderate number of prospectively collected pregnancies following exposure to STELARA with known outcomes, including more than 450 pregnancies exposed during the first trimester, do not indicate an increased risk of major congenital malformations in the newborn.
+
+Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonic/foetal development, parturition or postnatal development (see section 5.3).
+
+However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of STELARA in pregnancy.
+
+Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+
+## Breast-feeding
+
+Limited data from published literature suggests that ustekinumab is excreted in human breast milk in very small amounts. It is not known if ustekinumab is absorbed systemically after ingestion. Because of the potential for adverse reactions in nursing infants from ustekinumab, a decision on whether to discontinue breast-feeding during treatment and up to 15 weeks after treatment or to discontinue therapy with STELARA must be made taking into account the benefit of breast-feeding to the child and the benefit of STELARA therapy to the woman.
+
+## Fertility
+
+The effect of ustekinumab on human fertility has not been evaluated (see section 5.3).
+
+<div style=\"page-break-after: always\"></div>
+
+## 4.7 Effects on ability to drive and use machines
+
+STELARA has no or negligible influence on the ability to drive and use machines.
+
+## 4.8 Undesirable effects
+
+## Summary of the safety profile
+
+The most common adverse reactions in the controlled periods of the adult clinical studies were nasopharyngitis (occurring in 6.9% of ustekinumab-treated patients and 5.4% of patients on placebo) and headache (occurring in 7.0% of ustekinumab-treated patients and 5.2% of patients on placebo). The most serious adverse reaction that has been reported for STELARA is serious hypersensitivity reactions including anaphylaxis (see section 4.4). The overall safety profile was similar for patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
+
+## Tabulated list of adverse reactions
+
+The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to STELARA in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year (3,648 patients). 2,194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
+
+Table 4 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+Table 4 List of adverse reactions
+
+| System Organ Class                              | Frequency: Adverse reaction                                                                                                                                                                                                              |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                     | Common: Upper respiratory tract infection, nasopharyngitis, sinusitis Uncommon: Cellulitis, dental infections, herpes zoster, lower respiratory tract infection, viral upper respiratory tract infection, vulvovaginal mycotic infection |
+| Immune system disorders                         | Uncommon: Hypersensitivity reactions (including rash, urticaria) Rare: Serious hypersensitivity reactions (including anaphylaxis, angioedema)                                                                                            |
+| Psychiatric disorders                           | Uncommon: Depression                                                                                                                                                                                                                     |
+| Nervous system disorders                        | Common: Dizziness, headache Uncommon: Facial palsy                                                                                                                                                                                       |
+| Respiratory, thoracic and mediastinal disorders | Common: Oropharyngeal pain Uncommon: Nasal congestion Rare: Allergic alveolitis, eosinophilic pneumonia Very rare: Organising pneumonia*                                                                                                 |
+| Gastrointestinal disorders                      | Common: Diarrhoea, nausea, vomiting                                                                                                                                                                                                      |
+
+<div style=\"page-break-after: always\"></div>
+
+| Skin and subcutaneous tissue disorders               | Common: Pruritus Uncommon: Pustular psoriasis, skin exfoliation, acne Rare: Exfoliative dermatitis, hypersensitivity vasculitis Very rare: Bullous pemphigoid, cutaneous lupus erythematosus   |
+|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                          |
+| General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia               |
+
+* See section 4.4, Systemic and respiratory hypersensitivity reactions.
+
+## Description of selected adverse reactions
+
+## Infections
+
+In the placebo-controlled studies of patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis, the rates of infection or serious infection were similar between ustekinumab-treated patients and those treated with placebo. In the placebo-controlled period of these clinical studies, the rate of infection was 1.36 per patient-year of follow-up in ustekinumab-treated patients, and 1.34 in placebo-treated patients. Serious infections occurred at the rate of 0.03 per patient-year of follow-up in ustekinumab-treated patients (30 serious infections in 930 patient-years of follow-up) and 0.03 in placebo-treated patients (15 serious infections in 434 patient-years of follow-up) (see section 4.4).
+
+In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,227 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies, and 2.3 years for ulcerative colitis studies. The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15,227 patient-years of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
+
+In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
+
+## Malignancies
+
+In the placebo-controlled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of follow-up). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
+
+In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,205 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding non-melanoma skin cancers were reported in 76 patients in 15,205 patient-years of follow-up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers. The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated
+
+<div style=\"page-break-after: always\"></div>
+
+patients (69 patients in 15,165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
+
+## Hypersensitivity and infusion reactions
+
+In adult Crohn's disease and ulcerative colitis intravenous induction studies, no events of anaphylaxis or other serious infusion reactions were reported following the single intravenous dose. In these studies, 2.2% of 785 placebo-treated patients and 1.9% of 790 patients treated with the recommended dose of ustekinumab reported adverse events occurring during or within an hour of the infusion. In the paediatric Crohn's disease study, there was one serious and one non-serious infusion reaction. Serious infusion-related reactions including anaphylactic reactions to the infusion have been reported in the post-marketing setting (see section 4.4).
+
+## Paediatric population
+
+## Paediatric patients 6 years and older with plaque psoriasis
+
+The safety of ustekinumab has been studied in two phase 3 studies of paediatric patients with moderate to severe plaque psoriasis. The first study was in 110 patients from 12 to 17 years of age treated for up to 60 weeks and the second study was in 44 patients from 6 to 11 years of age treated for up to 56 weeks. In general, the adverse events reported in these two studies with safety data up to 1 year were similar to those seen in previous studies in adults with plaque psoriasis.
+
+## Paediatric patients 2 years and older with Crohn's disease
+
+The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn's disease. 34 patients in the Phase 1 study were followed up to 240 weeks and 101 patients in the Phase 3 study were followed up to 68 weeks, respectively. In general, the safety profile was similar to that seen in previous studies in adults with Crohn's disease.
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+Single doses up to 6 mg/kg have been administered intravenously in clinical studies without dose-limiting toxicity. In case of overdose, it is recommended that the patient be monitored for any signs or symptoms of adverse reactions and appropriate symptomatic treatment be instituted immediately.
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code: L04AC05.
+
+## Mechanism of action
+
+Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12Rβ1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12Rβ1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer
+
+<div style=\"page-break-after: always\"></div>
+
+(NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
+
+By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
+
+In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and faecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
+
+In patients with ulcerative colitis, treatment with ustekinumab resulted in a decrease in inflammatory markers including CRP and faecal calprotectin during the induction phase, which was maintained throughout the maintenance phase and study extension through week 200.
+
+## Immunisation
+
+During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients treated with STELARA for at least 3.5 years mounted similar antibody responses to both pneumococcal polysaccharide and tetanus vaccines as a non-systemically treated psoriasis control group. Similar proportions of adult patients developed protective levels of anti-pneumococcal and anti-tetanus antibodies and antibody titres were similar among STELARA-treated and control patients.
+
+## Clinical efficacy
+
+## Crohn's disease
+
+The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebo-controlled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development programme consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
+
+The induction studies included 1,409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
+
+Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNFα therapy and 52% had failed 2 or 3 prior anti-TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to anti-TNFα therapies.
+
+Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNF-α naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
+
+In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 5). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to
+
+<div style=\"page-break-after: always\"></div>
+
+improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
+
+Table 5: Induction of clinical response and remission in UNITI-1 and UNITI-2
+
+|                                       | UNITI-1 *       | UNITI-1 *                               | UNITI-2 **      | UNITI-2 **                              |
+|---------------------------------------|-----------------|-----------------------------------------|-----------------|-----------------------------------------|
+|                                       | Placebo N = 247 | Recommended dose of ustekinumab N = 249 | Placebo N = 209 | Recommended dose of ustekinumab N = 209 |
+| Clinical Remission, week 8            | 18 (7.3%)       | 52 (20.9%) a                            | 41 (19.6%)      | 84 (40.2%) a                            |
+| Clinical Response (100 point), week 6 | 53 (21.5%)      | 84 (33.7%) b                            | 60 (28.7%)      | 116 (55.5%) a                           |
+| Clinical Response (100 point), week 8 | 50 (20.2%)      | 94 (37.8%) a                            | 67 (32.1%)      | 121 (57.9%) a                           |
+| 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                           | 66 (31.6%)      | 106 (50.7%) a                           |
+| 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                           | 81 (38.8%)      | 135 (64.6%) a                           |
+
+Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission
+
+70 point response is defined as reduction in CDAI score by at least 70 points
+
+* Anti-TNFα failures
+- ** Conventional therapy failures
+- a p &lt; 0.001
+- b p &lt; 0.01
+
+The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC).
+
+Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 6).
+
+Table 6: Maintenance of clinical response and remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
+
+|                                                  | Placebo* N = 131 †   | 90 mg ustekinumab every 8 weeks N = 128 †   | 90 mg ustekinumab every 12 weeks N = 129 †   |
+|--------------------------------------------------|----------------------|---------------------------------------------|----------------------------------------------|
+| Clinical Remission                               | 36%                  | 53% a                                       | 49% b                                        |
+| Clinical Response                                | 44%                  | 59% b                                       | 58% b                                        |
+| Corticosteroid-Free Clinical Remission           | 30%                  | 47% a                                       | 43% c                                        |
+| Clinical Remission in patients:                  |                      |                                             |                                              |
+| in remission at the start of maintenance therapy | 46% (36/79)          | 67% (52/78) a                               | 56% (44/78)                                  |
+| who entered from study CRD3002 ‡                 | 44% (31/70)          | 63% (45/72) c                               | 57% (41/72)                                  |
+| who are Anti-TNFα naïve                          | 49% (25/51)          | 65% (34/52) c                               | 57% (30/53)                                  |
+| who entered from study CRD3001 §                 | 26% (16/61)          | 41% (23/56)                                 | 39% (22/57)                                  |
+
+<div style=\"page-break-after: always\"></div>
+
+Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
+
+* The placebo group consisted of patients who were in response to ustekinumab and were randomised to receive placebo at the start of maintenance therapy.
+- † Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy
+- ‡ Patients who failed conventional therapy but not anti-TNFα therapy
+- § Patients who are anti-TNFα refractory/intolerant
+- a p &lt; 0.01
+- b p &lt; 0.05
+- c nominally significant (p &lt; 0.05)
+
+In IM-UNITI, 29 of 129 patients did not maintain response to ustekinumab when treated every 12 weeks and were allowed to dose adjust to receive ustekinumab every 8 weeks. Loss of response was defined as a CDAI score ≥ 220 points and a ≥ 100 point increase from the CDAI score at baseline. In these patients, clinical remission was achieved in 41.4% of patients 16 weeks after dose adjustment.
+
+Patients who were not in clinical response to ustekinumab induction at week 8 of the UNITI-1 and UNITI-2 induction studies (476 patients) entered into the non-randomised portion of the maintenance study (IM-UNITI) and received a 90 mg subcutaneous injection of ustekinumab at that time. Eight weeks later, 50.5% of the patients achieved clinical response and continued to receive maintenance dosing every 8 weeks; among these patients with continued maintenance dosing, a majority maintained response (68.1%) and achieved remission (50.2%) at week 44, at proportions that were similar to the patients who initially responded to ustekinumab induction.
+
+Of 131 patients who responded to ustekinumab induction, and were randomised to the placebo group at the start of the maintenance study, 51 subsequently lost response and received 90 mg ustekinumab subcutaneously every 8 weeks. The majority of patients who lost response and resumed ustekinumab did so within 24 weeks of the induction infusion. Of these 51 patients, 70.6% achieved clinical response and 39.2% percent achieved clinical remission 16 weeks after receiving the first subcutaneous dose of ustekinumab.
+
+In IM-UNITI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 567 patients who entered on and were treated with ustekinumab in the study extension, clinical remission and response were generally maintained through week 252 for both patients who failed TNF-therapies and those who failed conventional therapies.
+
+No new safety concerns were identified in this study extension with up to 5 years of treatment in patients with Crohn's disease.
+
+## Endoscopy
+
+Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
+
+## Fistula response
+
+In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
+
+## Health-related quality of life
+
+Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly
+
+<div style=\"page-break-after: always\"></div>
+
+greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
+
+## Ulcerative colitis
+
+The safety and efficacy of ustekinumab was assessed in two randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥ 2). The clinical development programme consisted of one intravenous induction study (referred to as UNIFI-I) with treatment of up to 16 weeks followed by a 44 week subcutaneous randomised withdrawal maintenance study (referred to as UNIFI-M) representing at least 52 weeks of therapy.
+
+Efficacy results presented for UNIFI-I and UNIFI-M were based on central review of endoscopies.
+
+UNIFI-I included 961 patients. The primary endpoint for the induction study was the proportion of subjects in clinical remission at week 8. Patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
+
+Concomitant doses of oral corticosteroids, immunomodulators, and aminosalicylates were permitted and 90% of patients continued to receive at least one of these medications. Enrolled patients had to have failed conventional therapy (corticosteroids or immunomodulators) or at least one biologic (a TNFα antagonist and/or vedolizumab). 49% of patients had failed conventional therapy, but not a biologic (of which 94% where biological-naïve). 51% of patients had failed or were intolerant to a biologic. Approximately 50% of the patients had failed at least 1 prior anti-TNFα therapy (of which 48% were primary non-responders) and 17% had failed at least 1 anti-TNFα therapy and vedolizumab.
+
+In UNIFI-I a significantly greater proportion of patients were in clinical remission in the ustekinumab treated group compared to placebo at week 8 (Table 7). As early as week 2, the earliest scheduled study visit, and at each visit thereafter, a higher proportion of ustekinumab patients had no rectal bleeding or achieved normal stool frequency as compared with placebo patients. Significant differences in partial Mayo score and symptomatic remission were observed between ustekinumab and placebo as early as week 2.
+
+Efficacy was higher in the tiered dose group (6 mg/kg) compared to the 130 mg dose group in select endpoints, and tiered dosing is therefore the recommended intravenous induction dose.
+
+Table 7: Summary of key efficacy outcomes in UNIFI-I (week 8)
+
+|                                                                 | Placebo N = 319   | Recommended dose of ustekinumab £ N = 322   |
+|-----------------------------------------------------------------|-------------------|---------------------------------------------|
+| Clinical Remission*                                             | 5%                | 16% a                                       |
+| In patients who failed conventional therapy, but not a biologic | 9% (15/158)       | 19% (29/156) c                              |
+| In patients who failed biological therapy ¥                     | 1% (2/161)        | 13% (21/166) b                              |
+| In patients who failed both a TNF and vedolizumab               | 0% (0/47)         | 10% (6/58) c                                |
+| Clinical Response §                                             | 31%               | 62% a                                       |
+| In patients who failed conventional therapy, but not a biologic | 35% (56/158)      | 67% (104/156) b                             |
+| In patients who failed biological therapy ¥                     | 27% (44/161)      | 57% (95/166) b                              |
+| In patients who failed both a TNF and vedolizumab               | 28% (13/47)       | 52% (30/58) c                               |
+| Mucosal Healing †                                               | 14%               | 27% a                                       |
+| In patients who failed conventional therapy, but not a biologic | 21% (33/158)      | 33% (52/156) c                              |
+
+<div style=\"page-break-after: always\"></div>
+
+| In patients who failed biological therapy   | 7% (11/161)   | 21% (35/166) b   |
+|---------------------------------------------|---------------|------------------|
+| Symptomatic Remission ‡                     | 23%           | 45% b            |
+| Combined Symptomatic Remission and Mucosal  | 8%            | 21% b            |
+
+- £ Infusion dose of ustekinumab using the weight-based dosage regimen specified in Table 1 .
+* Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
+- § Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
+- ¥ A TNFα antagonist and/or vedolizumab.
+- † Mucosal healing is defined as a Mayo endoscopic subscore of 0 or 1.
+- ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
+- ⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
+- a p &lt; 0.001
+- b Nominally significant (p &lt; 0.001)
+- c Nominally significant (p &lt; 0.05)
+
+UNIFI-M, evaluated 523 patients who achieved clinical response with single IV administration of ustekinumab in UNIFI-I. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC).
+
+Significantly greater proportions of patients were in clinical remission in both ustekinumab treated groups compared to the placebo group at week 44 (see Table 8).
+
+Table 8: Summary of key efficacy measures in UNIFI-M (week 44; 52 weeks from initiation of the induction dose)
+
+|                                                                 | Placebo* N = 175   | 90 mg ustekinumab every 8 Weeks N = 176   | 90 mg ustekinumab every 12 Weeks N = 172   |
+|-----------------------------------------------------------------|--------------------|-------------------------------------------|--------------------------------------------|
+| Clinical Remission**                                            | 24%                | 44% a                                     | 38% b                                      |
+| In patients who failed conventional therapy, but not a biologic | 31% (27/87)        | 48% (41/85) d                             | 49% (50/102) d                             |
+| In patients who failed biological therapy ¥                     | 17% (15/88)        | 40% (36/91) c                             | 23% (16/70) d                              |
+| In patients who failed both a TNF and vedolizumab               | 15% (4/27)         | 33% (7/21) e                              | 23% (5/22) e                               |
+| Maintenance of Clinical Response through week 44 §              | 45%                | 71% a                                     | 68% a                                      |
+| In patients who failed conventional therapy, but not a biologic | 51% (44/87)        | 78% (66/85) c                             | 77% (78/102) c                             |
+| In patients who failed biological therapy ¥                     | 39% (34/88)        | 65% (59/91) c                             | 56% (39/70) d                              |
+| In patients who failed both a TNF and vedolizumab               | 41% (11/27)        | 67% (14/21) e                             | 50% (11/22) e                              |
+| Mucosal Healing †                                               | 29%                | 51% a                                     | 44% b                                      |
+| Maintenance of Clinical Remission through week 44 £             | 38% (17/45)        | 58% (22/38)                               | 65% (26/40) c                              |
+| Corticosteroid Free Clinical Remission €                        | 23%                | 42% a                                     | 38% b                                      |
+| Durable Remission ǁ                                             | 35%                | 57% c                                     | 48% d                                      |
+| Symptomatic Remission ‡                                         | 45%                | 68% c                                     | 62% d                                      |
+| Combined Symptomatic Remission and Mucosal Healing ⸸            | 28%                | 48% c                                     | 41% d                                      |
+
+<div style=\"page-break-after: always\"></div>
+
+* Following response to IV ustekinumab.
+- ** Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
+- § Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
+- ¥ A TNFα antagonist and/or vedolizumab.
+- † Mucosal healing is defined as a Mayo endoscopic sub-score of 0 or 1.
+- £ Maintenance of clinical remission through week 44 is defined as patients in clinical remission through week 44 among patients in clinical remission at maintenance baseline.
+- € Corticosteroid-free clinical remission is defined as patients in clinical remission and not receiving corticosteroids at week 44.
+- ǁ Durable Remission is defined as partial Mayo remission at ≥80% of all visits prior to week 44 and in partial Mayo remission at last visit (week 44).
+- ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
+- ⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
+- a p &lt; 0.001
+- b p &lt; 0.05
+- c Nominally significant (p &lt; 0.001)
+- d Nominally significant (p &lt; 0.05)
+- e Not statistically significant
+
+The beneficial effect of ustekinumab on clinical response, mucosal healing and clinical remission was observed in induction and in maintenance both in patients who failed conventional therapy but not a biologic therapy, as well as in those who had failed at least one prior TNFα antagonist therapy including in patients with a primary non-response to TNFα antagonist therapy. A beneficial effect was also observed in induction in patients who failed at least one prior TNFα antagonist therapy and vedolizumab, however the number of patients in this subgroup was too small to draw definitive conclusions about the beneficial effect in this group during maintenance.
+
+## Week 16 responders to ustekinumab induction
+
+Ustekinumab treated patients who were not in response at week 8 of UNIFI-I received an administration of 90 mg SC ustekinumab at week 8 (36% of patients). Of those patients, 9% of patients who were initially randomised to the recommended induction dose achieved clinical remission and 58% achieved clinical response at week 16.
+
+Patients who were not in clinical response to ustekinumab induction at week 8 of the UNFI-I study but were in response at week 16 (157 patients) entered into the non-randomised portion of UNIFI-M and continued to receive maintenance dosing every 8 weeks; among these patients, a majority (62%) maintained response and 30% achieved remission at week 44.
+
+## Study extension
+
+In UNIFI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 400 patients who entered on and were treated with ustekinumab every 12 or 8 weeks in the study extension, symptomatic remission was generally maintained through week 200 for patients who failed conventional therapy (but not a biologic therapy) and those who failed biologic therapy, including those who failed both anti-TNF and vedolizumab. Among patients who received 4 years of ustekinumab treatment and were assessed using the full Mayo score at maintenance week 200, 74.2% (69/93) and 68.3% (41/60) maintained mucosal healing and clinical remission, respectively.
+
+The safety analysis including 457 patients (1289.9 person-years) followed up to 220 weeks showed a safety profile between week 44 and 220 that was comparable with that observed up to week 44.
+
+No new safety concerns were identified in this study extension with up to 4 years of treatment in patients with ulcerative colitis.
+
+<div style=\"page-break-after: always\"></div>
+
+## Endoscopic normalisation
+
+Endoscopic normalisation was defined as a Mayo endoscopic subscore of 0 and was observed as early as week 8 of UNIFI-I. At week 44 of UNIFI-M, it was achieved in 24% and 29% of patients treated with ustekinumab every 12 or 8 weeks, respectively, as compared to 18% of patients in the placebo group.
+
+## Histologic &amp; histo-endoscopic mucosal healing
+
+Histologic healing (defined as neutrophil infiltration in &lt; 5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue) was assessed at week 8 of UNIFI-I and week 44 of UNIFIM. At week 8, after a single intravenous induction dose, significantly greater proportions of patients in the recommended dose group achieved histologic healing (36%) compared with patients in the placebo group (22%). At week 44 maintenance of this effect was observed with significantly more patients in histologic healing in the every 12 week (54%) and every 8 week (59%) ustekinumab groups as compared to placebo (33%).
+
+A combined endpoint of histo-endoscopic mucosal healing defined as subjects having both mucosal healing and histologic healing was evaluated at week 8 of UNIFI-I and week 44 of UNIFI-M. Patients receiving ustekinumab at the recommended dose showed significant improvements on the histoendoscopic mucosal healing endpoint at week 8 in the ustekinumab group (18%) as compared to the placebo group (9%). At week 44, maintenance of this effect was observed with significantly more patients in histo-endoscopic mucosal healing in the every 12 week (39%) and every 8 week (46%) ustekinumab groups compared to placebo (24%).
+
+## Health-related quality of life
+
+Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), SF-36 and EuroQoL-5D (EQ-5D) questionnaires.
+
+At week 8 of UNIFI-I, patients receiving ustekinumab showed significantly greater and clinically meaningful improvements on IBDQ total score, EQ-5D and EQ-5D VAS, and SF-36 Mental Component Summary Score and SF-36 Physical Component Summary Score when compared to placebo. These improvements were maintained in ustekinumab-treated patients in UNIFI-M through week 44. Improvement in health-related quality of life as measured by IBDQ and SF-36 was generally maintained during the extension through week 200.
+
+Patients receiving ustekinumab experienced significantly more improvements in work productivity as assessed by greater reductions in overall work impairment and in activity impairment as assessed by the WPAI-GH questionnaire than patients receiving placebo.
+
+## Hospitalisations and ulcerative colitis (UC) related surgeries
+
+Through week 8 of UNIFI-I, the proportions of subjects with UC disease related hospitalisations were significantly lower for subjects in the ustekinumab recommended dose group (1.6%, 5/322) compared with subjects in the placebo group (4.4%, 14/319) and no subjects underwent UC disease related surgeries in subjects receiving ustekinumab at the recommended induction dose compared to 0.6% (2/319) subjects in the placebo group.
+
+Through week 44 of UNIFI-M, a significantly lower number of UC-related hospitalisations was observed in subjects in the combined ustekinumab group (2.0%, 7/348) as compared with subjects in the placebo group (5.7%, 10/175). A numerically lower number of subjects in the ustekinumab group (0.6%, 2/348) underwent UC disease related surgeries compared with subjects in the placebo group (1.7%, 3/175) through week 44.
+
+## Immunogenicity
+
+Antibodies to ustekinumab may develop during ustekinumab treatment and most are neutralising. The formation of anti-ustekinumab antibodies is associated with increased clearance of ustekinumab in patients with Crohn's disease or ulcerative colitis. No reduced efficacy was observed. There is no apparent correlation between the presence of anti-ustekinumab antibodies and the occurrence of injection site reactions.
+
+<div style=\"page-break-after: always\"></div>
+
+## Paediatric Crohn's disease
+
+The safety and efficacy of ustekinumab was evaluated in 101 paediatric patients 2 years and older and weighing at least 10 kg in a multicentre phase 3 study (UNITI-Jr) for paediatric patients with moderately to severely active Crohn's disease (defined by a Paediatric Crohn's Disease Activity Index [PCDAI] score &gt;30) through 48 weeks of treatment (8 weeks of induction and 40 weeks of maintenance treatment). The study enrolled 2 patients between 2 to 5 years old and 18 patients between 6 to 11 years old; 29 patients weighed less than 40 kg, including 11 patients who weighed less than 30 kg. Patients included in the study either had not adequately responded to or had not tolerated prior biologic therapy or conventional therapy for Crohn's disease. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (patients weighing at least 40 kg) or 250 mg/m 2 (patients weighing less than 40 kg, based on BSA) (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab (patients weighing at least 40 kg) or 60 mg/m 2 (patients weighing less than 40 kg, based on BSA) (see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC) administered either every 8 weeks or every 12 weeks.
+
+## Efficacy results
+
+The primary endpoint of the study was clinical remission at induction week 8 (defined as PCDAI score ≤ 10). The proportion of patients who achieved clinical remission was 46.5% (47/101) and is comparable to that observed in the adult ustekinumab phase 3 studies.
+
+Clinical response was observed as early as week 3. The proportion of patients in clinical response at week 8 (defined as a reduction from baseline in the PCDAI score of &gt;12.5 points with a total PCDAI score not more than 30) was 84.2% (85/101).
+
+Of the 101 patients who received IV induction treatment, 97 (96.0%) entered the maintenance period of which 85 were induction responders.
+
+Table 9 presents the analyses for the secondary endpoints through maintenance week 44.
+
+Table 9: Summary of secondary endpoints through maintenance week 44
+
+|                                                                                      | 90 mg or 60 mg/m 2 ustekinumab every 8 weeks N = 41   | 90 mg or 60 mg/m 2 ustekinumab every 12 weeks N = 44   | Total number of patients N = 85   |
+|--------------------------------------------------------------------------------------|-------------------------------------------------------|--------------------------------------------------------|-----------------------------------|
+| Clinical Remission *                                                                 | 48.8% (20/41)                                         | 59.1% (26/44)                                          | 54.1% (46/85)                     |
+| Corticosteroid-free Clinical Remission §                                             | 46.3% (19/41)                                         | 59.1% (26/44)                                          | 52.9% (45/85)                     |
+| Clinical remission for patients who were in clinical remission at induction week 8 * | 73.9% (17/23)                                         | 62.5% (15/24)                                          | 68.1% (32/47)                     |
+| Clinical Response †                                                                  | 56.1% (23/41)                                         | 63.6% (28/44)                                          | 60.0% (51/85)                     |
+| Endoscopic response £                                                                | 25.0% (10/40)                                         | 30.2% (13/43)                                          | 27.7% (23/83)                     |
+
+*
+
+Clinical remission is defined as PCDAI score ≤10 points.
+
+§ Corticosteroid-free remission is defined as PCDAI score of ≤10 points and not receiving corticosteroids for at least 90 days prior to maintenance week 44.
+
+† Clinical response is defined as a reduction from baseline in the PCDAI score of ≥12.5 points with a total PCDAI score not more than 30.
+
+£ Endoscopic response is defined as a reduction in the SES-CD score of ≥50% or SES-CD score ≤2, in patients with a baseline SES-CD score of ≥3.
+
+## Dosing frequency adjustment
+
+Patients who entered the maintenance regimen and experienced loss of response based on PCDAI score were eligible for dose adjustment. Patients were either switched from treatment every 12 weeks to every 8 weeks or stayed on treatment every 8 weeks (sham adjustment). 2 patients were dose
+
+<div style=\"page-break-after: always\"></div>
+
+adjusted to the shorter dosing interval. In these patients, clinical remission was achieved in 100% (2/2) of patients 8 weeks after dose adjustment.
+
+Patients on both treatment regimens (treatment every 12 weeks or 8 weeks) who did not respond by maintenance week 8 or who lost response and had low levels of ustekinumab (steady state of 8-week ustekinumab trough concentration &lt;1.4 µg/mL) were eligible to enrol in an optional Exposure Optimisation Substudy. This open-label sub study was a minimum of 16 weeks with a subcutaneous maintenance regimen of 90 mg ustekinumab or 60 mg/m 2 (based on BSA) administered every 4 weeks. A total of 26 patients enrolled in the sub study. Among participating patients, 11 (42.3%) transitioned from 12-weekly to 4-weekly dosing, and 15 (57.7%) transitioned from 8-weekly to 4weekly dosing. At 16 weeks, after dosing frequency was changed, 95.0% (19/20) of evaluable patients were in clinical response and 50.0% (10/20) were in clinical remission.
+
+The safety profile of the induction dose regimen and both maintenance dose regimens in the paediatric population 2 years and older is comparable with that established in the adult Crohn's disease population (see section 4.8).
+
+## Serum and faecal inflammatory biomarkers
+
+The mean (SD) change from baseline at maintenance week 44 in C-Reactive protein (CRP) and faecal calprotectin concentrations were -6.65 (18.609) mg/L and -716.9 (2597.66) mg/kg, respectively.
+
+## Health-related quality of life
+
+The total IMPACT-III scores and all subdomains (bowel symptoms, fatigue-related systemic symptoms, and well-being) demonstrated clinically meaningful improvements after 52 weeks.
+
+## Paediatric population
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in ulcerative colitis (see section 4.2 for information on paediatric use).
+
+## 5.2 Pharmacokinetic properties
+
+Following the recommended intravenous induction dose, median peak serum ustekinumab concentration, observed 1 hour after the infusion, was 126.1 μg/mL in patients with Crohn's disease and 127.0 µg/mL in patients with ulcerative colitis.
+
+## Distribution
+
+Median volume of distribution during the terminal phase (Vz) following a single intravenous administration to patients with psoriasis ranged from 57 to 83 mL/kg.
+
+## Biotransformation
+
+The exact metabolic pathway for ustekinumab is unknown.
+
+## Elimination
+
+Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2 ) of ustekinumab was approximately 3 weeks in patients with ulcerative colitis, Crohn's disease, psoriasis and/or psoriatic arthritis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies.
+
+## Dose linearity
+
+The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately dose-proportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg.
+
+## Special populations
+
+No pharmacokinetic data are available in patients with impaired renal or hepatic function. No specific studies have been conducted with intravenous ustekinumab in elderly patients.
+
+<div style=\"page-break-after: always\"></div>
+
+In patients with Crohn's disease and ulcerative colitis, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ±20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
+
+## Regulation of CYP450 enzymes
+
+The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4; see section 4.5).
+
+A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conducted to evaluate the effect of ustekinumab on cytochrome P450 enzyme activities following induction and maintenance dosing in patients with active Crohn's disease (n=18). No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosing in patients with Crohn's disease (see section 4.5).
+
+## Paediatric population
+
+Serum ustekinumab concentrations in paediatric patients 2 years and older and weighing at least 10 kg with Crohn's disease, were generally comparable to those in the adult Crohn's disease population.
+
+## 5.3 Preclinical safety data
+
+Non-clinical data reveal no special hazard (e.g. organ toxicity) for humans based on studies of repeated-dose toxicity and developmental and reproductive toxicity, including safety pharmacology evaluations. In developmental and reproductive toxicity studies in cynomolgus monkeys, neither adverse effects on male fertility indices nor birth defects or developmental toxicity were observed. No adverse effects on female fertility indices were observed using an analogous antibody to IL-12/23 in mice.
+
+Dose levels in animal studies were up to approximately 45-fold higher than the highest equivalent dose intended to be administered to psoriasis patients and resulted in peak serum concentrations in monkeys that were more than 100-fold higher than observed in humans.
+
+Carcinogenicity studies were not performed with ustekinumab due to the lack of appropriate models for an antibody with no cross-reactivity to rodent IL-12/23 p40.
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+EDTA disodium salt dihydrate L-histidine L-histidine monohydrochloride monohydrate L-methionine Polysorbate 80 (E433) Sucrose Water for injections
+
+<div style=\"page-break-after: always\"></div>
+
+## 6.2 Incompatibilities
+
+In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products. STELARA should only be diluted with sodium chloride 9 mg/mL (0.9%) solution. STELARA should not be administered concomitantly in the same intravenous line with other medicinal products.
+
+## 6.3 Shelf life
+
+3 years. Do not freeze.
+
+Chemical and physical in-use stability has been demonstrated for 8 hours at 15-25 °C.
+
+From a microbiological point of view, unless the method of dilution precludes the risk of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of user.
+
+## 6.4 Special precautions for storage
+
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+
+For storage conditions after dilution of the medicinal product, (see section 6.3).
+
+## 6.5 Nature and contents of container
+
+26 mL solution in a type I glass 30 mL vial closed with a coated butyl rubber stopper. STELARA is available in a 1 vial pack.
+
+## 6.6 Special precautions for disposal and other handling
+
+The vial should not be shaken. The solution should be visually inspected for particulate matter or discolouration prior to administration. The solution is clear, colourless to light yellow. The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present.
+
+## Dilution
+
+STELARA concentrate for solution for infusion must be diluted and prepared by a healthcare professional using aseptic technique.
+
+1. For adult patients and paediatric patients who weigh at least 40 kg, calculate the dose and the number of STELARA vials needed based on patient weight (see section 4.2, Table 1, Table 3), or for paediatric patients who weigh less than 40 kg, calculate the dose and number of STELARA vials needed based on patient body surface area (BSA). Each 26 mL vial of STELARA contains 130 mg of ustekinumab.
+2. Withdraw and discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 250 mL infusion bag equal to the volume of STELARA to be added. (discard 26 mL sodium chloride for each vial of STELARA needed, for 2 vials-discard 52 mL, for 3 vials- discard 78 mL, for 4 vials- discard 104 mL)
+3. Withdraw 26 mL of STELARA from each vial needed and add it to the 250 mL infusion bag. The final volume in the infusion bag should be 250 mL. Gently mix.
+4. For paediatric patients with Crohn's disease weighing less than 40 kg the dose is based on the patient's BSA as a single intravenous (IV) dose of STELARA. Withdraw and then discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 100 mL infusion bag equal to the volume of STELARA to be added. Withdraw the appropriate volume of STELARA from
+
+<div style=\"page-break-after: always\"></div>
+
+- each vial needed and add it to the 100 mL infusion bag. The final volume in the infusion bag should be 100 mL. Gently mix.
+5. Visually inspect the diluted solution before administration. Do not use if visibly opaque particles, discolouration or foreign particles are observed.
+6. Administer the diluted solution over a period of at least one hour. Once diluted, the infusion should be completed within eight hours of the dilution in the infusion bag.
+7. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometre).
+8. Each vial is for single use only and any unused medicinal product should be disposed of in accordance with local requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/08/494/005
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 16 January 2009
+
+Date of latest renewal: 19 September 2013
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+STELARA 45 mg solution for injection STELARA 45 mg solution for injection in pre-filled syringe STELARA 90 mg solution for injection in pre-filled syringe
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+STELARA 45 mg solution for injection Each vial contains 45 mg ustekinumab in 0.5 mL.
+
+STELARA 45 mg solution for injection in pre-filled syringe Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL.
+
+STELARA 90 mg solution for injection in pre-filled syringe
+
+Each pre-filled syringe contains 90 mg ustekinumab in 1 mL.
+
+Ustekinumab is a fully human IgG1κ monoclonal antibody produced in a murine myeloma cell line using recombinant DNA technology.
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Solution for injection (injection)
+
+The solution is clear to slightly opalescent, colourless to light yellow, with a target pH of 6.0 and approximate osmolality of 314 mOsm/kg.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+## Plaque psoriasis
+
+STELARA is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A) (see section 5.1).
+
+## Paediatric plaque psoriasis
+
+STELARA is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies (see section 5.1).
+
+## Psoriatic arthritis (PsA)
+
+STELARA, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
+
+## Adult Crohn's disease
+
+STELARA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either
+
+<div style=\"page-break-after: always\"></div>
+
+conventional therapy or a TNFα antagonist.
+
+## Paediatric Crohn's disease
+
+STELARA is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients from the age of 2 years and older, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
+
+## Ulcerative colitis
+
+STELARA is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic.
+
+## 4.2 Posology and method of administration
+
+STELARA is intended for use under the guidance and supervision of physicians experienced in the diagnosis and treatment of conditions for which STELARA is indicated.
+
+## Posology
+
+## Plaque psoriasis
+
+The recommended posology of STELARA is an initial dose of 45 mg administered subcutaneously, followed by a 45 mg dose 4 weeks later, and then every 12 weeks thereafter.
+
+Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
+
+## Patients with body weight &gt; 100 kg
+
+For patients with a body weight &gt; 100 kg the initial dose is 90 mg administered subcutaneously, followed by a 90 mg dose 4 weeks later, and then every 12 weeks thereafter. In these patients, 45 mg was also shown to be efficacious. However, 90 mg resulted in greater efficacy (see section 5.1, Table 5).
+
+## Psoriatic arthritis (PsA)
+
+The recommended posology of STELARA is an initial dose of 45 mg administered subcutaneously, followed by a 45 mg dose 4 weeks later, and then every 12 weeks thereafter. Alternatively, 90 mg may be used in patients with a body weight &gt; 100 kg.
+
+Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
+
+## Elderly
+
+No dose adjustment is needed for elderly patients (≥ 65 years) (see section 4.4).
+
+## Renal and hepatic impairment
+
+STELARA has not been studied in these patient populations. No dose recommendations can be made.
+
+## Paediatric population
+
+The safety and efficacy of STELARA in children with psoriasis less than 6 years of age or in children with psoriatic arthritis less than 18 years of age have not yet been established.
+
+## Paediatric plaque psoriasis (6 years and older)
+
+The recommended dose of STELARA based on body weight is shown below (Tables 1 and 2). STELARA should be administered at weeks 0 and 4, then every 12 weeks thereafter.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 1 Recommended dose of STELARA for paediatric psoriasis
+
+| Body weight at the time of dosing   | Recommended Dose   |
+|-------------------------------------|--------------------|
+| < 60 kg                             | 0.75 mg/kg         |
+| ≥ 60-≤ 100 kg                       | 45 mg              |
+| > 100 kg                            | 90 mg              |
+
+To calculate the volume of injection (mL) for patients &lt; 60 kg, use the following formula: body weight (kg) x 0.0083 (mL/kg) or see Table 2. The calculated volume should be rounded to the nearest 0.01 mL and administered using a 1 mL graduated syringe. A 45 mg vial is available for paediatric patients who need to receive less than the full 45 mg dose.
+
+Table 2 Injection volumes of STELARA for paediatric psoriasis patients &lt; 60 kg
+
+|   Body weight at time of dosing (kg) |   Dose (mg) |   Volume of injection (mL) |
+|--------------------------------------|-------------|----------------------------|
+|                                   15 |        11.3 |                       0.12 |
+|                                   16 |        12.0 |                       0.13 |
+|                                   17 |        12.8 |                       0.14 |
+|                                   18 |        13.5 |                       0.15 |
+|                                   19 |        14.3 |                       0.16 |
+|                                   20 |        15.0 |                       0.17 |
+|                                   21 |        15.8 |                       0.17 |
+|                                   22 |        16.5 |                       0.18 |
+|                                   23 |        17.3 |                       0.19 |
+|                                   24 |        18.0 |                       0.20 |
+|                                   25 |        18.8 |                       0.21 |
+|                                   26 |        19.5 |                       0.22 |
+|                                   27 |        20.3 |                       0.22 |
+|                                   28 |        21.0 |                       0.23 |
+|                                   29 |        21.8 |                       0.24 |
+|                                   30 |        22.5 |                       0.25 |
+|                                   31 |        23.3 |                       0.26 |
+|                                   32 |        24.0 |                       0.27 |
+|                                   33 |        24.8 |                       0.27 |
+|                                   34 |        25.5 |                       0.28 |
+|                                   35 |        26.3 |                       0.29 |
+|                                   36 |        27.0 |                       0.30 |
+|                                   37 |        27.8 |                       0.31 |
+|                                   38 |        28.5 |                       0.32 |
+|                                   39 |        29.3 |                       0.32 |
+|                                   40 |        30.0 |                       0.33 |
+|                                   41 |        30.8 |                       0.34 |
+|                                   42 |        31.5 |                       0.35 |
+|                                   43 |        32.3 |                       0.36 |
+|                                   44 |        33.0 |                       0.37 |
+|                                   45 |        33.8 |                       0.37 |
+|                                   46 |        34.5 |                       0.38 |
+|                                   47 |        35.3 |                       0.39 |
+|                                   48 |        36.0 |                       0.40 |
+|                                   49 |        36.8 |                       0.41 |
+|                                   50 |        37.5 |                       0.42 |
+|                                   51 |        38.3 |                       0.42 |
+|                                   52 |        39.0 |                       0.43 |
+|                                   53 |        39.8 |                       0.44 |
+|                                   54 |        40.5 |                       0.45 |
+|                                   55 |        41.3 |                       0.46 |
+
+<div style=\"page-break-after: always\"></div>
+
+|   56 |   42.0 |   0.46 |
+|------|--------|--------|
+|   57 |   42.8 |   0.47 |
+|   58 |   43.5 |   0.48 |
+|   59 |   44.3 |   0.49 |
+
+Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
+
+## Crohn's disease and ulcerative colitis
+
+In the treatment regimen, the first dose of STELARA is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC.
+
+The first subcutaneous administration of 90 mg STELARA should take place at week 8 after the intravenous dose. After this, dosing every 12 weeks is recommended.
+
+Patients who have not shown adequate response at 8 weeks after the first subcutaneous dose, may receive a second subcutaneous dose at this time (see section 5.1).
+
+Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1, section 5.2).
+
+Patients may subsequently be dosed every 8 weeks or every 12 weeks according to clinical judgment (see section 5.1).
+
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after switching to the 8-weekly maintenance dose.
+
+Immunomodulators and/or corticosteroids may be continued during treatment with STELARA. In patients who have responded to treatment with STELARA, corticosteroids may be reduced or discontinued in accordance with standard of care.
+
+In Crohn's disease or ulcerative colitis, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
+
+## Elderly
+
+No dose adjustment is needed for elderly patients (≥ 65 years) (see section 4.4).
+
+## Renal and hepatic impairment
+
+STELARA has not been studied in these patient populations. No dose recommendations can be made.
+
+## Paediatric population
+
+## Paediatric Crohn's disease (2 years and older)
+
+In the treatment regimen, the first dose of STELARA is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC.
+
+## Patients weighing less than 40 kg (BSA-based dosing)
+
+In paediatric patients with Crohn's disease weighing less than 40 kg the recommended maintenance dose is a subcutaneous dose administered based on the patient's BSA, see Table 3. The calculated volume should be rounded to the nearest 0.1 mL and administered using a 1 mL graduated syringe.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 3 Injection volumes for paediatric patients with Crohn's disease weighing less than 40 kg
+
+| BSA Range (m 2 ) of patient at time of dosing Body weight < 40 kg   | Recommended Dose (mg)   |   Volume of injection (mL) | Number of 45 mg/0.5mL Vials   |
+|---------------------------------------------------------------------|-------------------------|----------------------------|-------------------------------|
+| 0.40 to <0.62                                                       | 36 mg                   |                        0.4 | 1 vial                        |
+| 0.62 to <0.95                                                       | 45 mg                   |                        0.5 | 1 vial*                       |
+| 0.95 to <1.25                                                       | 63 mg                   |                        0.7 | 2 vials                       |
+| ≥1.25                                                               | 90 mg                   |                        1.0 | 2 vials*                      |
+
+* The pre-filled syringe (PFS) presentation may be used as an alternative to the 45 mg/0.5 mL vial for administration of the required dose
+
+## Patients weighing at least 40 kg (weight-based dosing)
+
+In paediatric patients with Crohn's disease weighing at least 40 kg, the recommended maintenance dose is a subcutaneous 90 mg dose.
+
+## Dosing frequency in paediatric patients (2 years and older)
+
+The first subcutaneous administration of STELARA should take place at week 8 after the intravenous dose. After this, dosing every 12 weeks is recommended.
+
+Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1, section 5.2).
+
+Patients may subsequently be dosed every 8 weeks or every 12 weeks according to clinical judgment (see section 5.1).
+
+Patients receiving treatment every 12 weeks who have a loss of response may increase their frequency to every 8 weeks (see sections 5.1 and 5.2). Patients receiving treatment every 12 or 8 weeks who lose response and have low ustekinumab trough levels (&lt;1.4 μg/mL by a validated ECLIA or ELISA testing method or equivalent assay) may benefit from shortening the dosing interval to every 4 weeks if clinically indicated. A repeat trough level should be drawn at either 12 or 16 weeks after dose adjustment to every 4 weeks administration. If trough levels are &gt;7.2 µg/mL and the patient has achieved response and is maintaining a response, the dosage interval may be changed to every 8 weeks.
+
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after dose adjustment.
+
+Immunomodulators, 5-aminosalicylate (5-ASA) compounds, antibiotics, and/or corticosteroids may be continued during treatment with STELARA. In patients who have responded to treatment with STELARA, these medications maybe reduced or discontinued in accordance with standard of care.
+
+The safety and efficacy of STELARA for the treatment of Crohn's disease in paediatric patients less than 2 years and less than 10 kg have not been established. No data are available.
+
+## Paediatric ulcerative colitis
+
+The safety and efficacy of STELARA in treatment of ulcerative colitis in paediatric patients less than 18 years have not yet been established. No data are available.
+
+## Method of administration
+
+STELARA 45 mg vials or 45 mg and 90 mg pre-filled syringes are for subcutaneous injection only. If possible, areas of the skin that show psoriasis should be avoided as injection sites.
+
+After proper training in subcutaneous injection technique, patients or their caregivers may inject STELARA if a physician determines that it is appropriate. However, the physician should ensure appropriate follow up of patients. Patients or their caregivers should be instructed to inject the prescribed amount of STELARA according to the directions provided in the package leaflet. Comprehensive instructions for administration are given in the package leaflet.
+
+<div style=\"page-break-after: always\"></div>
+
+For further instructions on preparation and special precautions for handling, see section 6.6.
+
+## 4.3 Contraindications
+
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+
+Clinically important, active infection (e.g. active tuberculosis; see section 4.4).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -144,25 +1046,21 @@ No studies have been conducted that include patients with a history of malignanc
 
 All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of skin cancer (see section 4.8).
 
-## Systemic and respiratory hypersensitivity reactions
-
-## Systemic
-
-Serious hypersensitivity reactions have been reported in the postmarketing setting, in some cases several days after treatment. Anaphylaxis and angioedema have occurred. If an anaphylactic or other serious hypersensitivity reaction occurs, appropriate therapy should be instituted and administration of STELARA should be discontinued (see section 4.8).
-
 <div style=\"page-break-after: always\"></div>
 
-## Infusion-related reactions
+## Systemic and respiratory hypersensitivity reactions
 
-Infusion-related reactions were observed in clinical trials (see section 4.8). Serious infusion-related reactions including anaphylactic reactions to the infusion have been reported in the post-marketing setting. If a serious or life-threatening reaction is observed, appropriate therapy should be instituted and ustekinumab should be discontinued.
-
-## Respiratory
+Serious hypersensitivity reactions have been reported in the postmarketing setting, in some cases several days after treatment. Anaphylaxis and angioedema have occurred. If an anaphylactic or other serious hypersensitivity reaction occurs, appropriate therapy should be instituted and administration of STELARA should be discontinued (see section 4.8).
 
 Cases of allergic alveolitis, eosinophilic pneumonia, and non-infectious organising pneumonia have been reported during post-approval use of ustekinumab. Clinical presentations included cough, dyspnoea, and interstitial infiltrates following one to three doses. Serious outcomes have included respiratory failure and prolonged hospitalisation. Improvement has been reported after discontinuation of ustekinumab and also, in some cases, administration of corticosteroids. If infection has been excluded and diagnosis is confirmed, discontinue ustekinumab and institute appropriate treatment (see section 4.8).
 
 ## Cardiovascular events
 
 Cardiovascular events including myocardial infarction and cerebrovascular accident have been observed in patients with psoriasis exposed to STELARA in a post-marketing observational study. Risk factors for cardiovascular disease should be regularly assessed during treatment with STELARA.
+
+## Latex sensitivity
+
+The needle cover on the syringe in the STELARA pre-filled syringe is manufactured from dry natural rubber (a derivative of latex), which may cause allergic reactions in individuals sensitive to latex.
 
 ## Vaccinations
 
@@ -182,13 +1080,11 @@ In psoriasis studies, the safety and efficacy of STELARA in combination with imm
 
 STELARA has not been evaluated in patients who have undergone allergy immunotherapy. It is not known whether STELARA may affect allergy immunotherapy.
 
-## Serious skin conditions
-
-In patients with psoriasis, exfoliative dermatitis has been reported following ustekinumab treatment (see section 4.8). Patients with plaque psoriasis may develop erythrodermic psoriasis, with symptoms
-
 <div style=\"page-break-after: always\"></div>
 
-that may be clinically indistinguishable from exfoliative dermatitis, as part of the natural course of their disease. As part of the monitoring of the patient's psoriasis, physicians should be alert for symptoms of erythrodermic psoriasis or exfoliative dermatitis. If these symptoms occur, appropriate therapy should be instituted. STELARA should be discontinued if a drug reaction is suspected.
+## Serious skin conditions
+
+In patients with psoriasis, exfoliative dermatitis has been reported following ustekinumab treatment (see section 4.8). Patients with plaque psoriasis may develop erythrodermic psoriasis, with symptoms that may be clinically indistinguishable from exfoliative dermatitis, as part of the natural course of their disease. As part of the monitoring of the patient's psoriasis, physicians should be alert for symptoms of erythrodermic psoriasis or exfoliative dermatitis. If these symptoms occur, appropriate therapy should be instituted. STELARA should be discontinued if a drug reaction is suspected.
 
 ## Lupus-related conditions
 
@@ -196,17 +1092,13 @@ Cases of lupus-related conditions have been reported in patients treated with us
 
 ## Special populations
 
-## Elderly (≥ 65 years)
+## Elderly
 
 No overall differences in efficacy or safety in patients age 65 and older who received STELARA were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
-## Sodium content
+## Excipient with known effect
 
-STELARA contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium-free'. STELARA is however, diluted in sodium chloride 9 mg/mL (0.9%) solution for infusion. This should be taken into consideration for patients on a controlled sodium diet (see section 6.6).
-
-## Polysorbate 80
-
-STELARA contains 10.8 mg of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.40 mg/mL. Polysorbates may cause allergic reactions.
+STELARA contains 0.04 mg (90 mg/1.0 mL) or 0.02 mg (45 mg/0.5 mL) of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.04 mg/mL. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -222,7 +1114,7 @@ In psoriasis studies, the safety and efficacy of STELARA in combination with imm
 
 <div style=\"page-break-after: always\"></div>
 
-concomitant MTX use did not appear to influence the safety or efficacy of STELARA. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of STELARA (see section 4.4).
+concomitant MTX use did not appear to influence the safety or efficacy of STELARA. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of STELARA. (see section 4.4).
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -256,7 +1148,7 @@ STELARA has no or negligible influence on the ability to drive and use machines.
 
 ## Summary of the safety profile
 
-The most common adverse reactions (&gt; 5%) in controlled periods of the adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies with ustekinumab were nasopharyngitis and headache. Most were considered to be mild and did not necessitate discontinuation of study treatment. The most serious adverse reaction that has been reported for STELARA is serious hypersensitivity reactions including anaphylaxis (see section 4.4). The overall safety profile was similar for patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
+The most common adverse reactions in the controlled periods of the adult clinical studies were nasopharyngitis (occurring in 6.9% of ustekinumab-treated patients and 5.4% of patients on placebo) and headache (occurring in 7.0% of ustekinumab-treated patients and 5.2% of patients on placebo). The most serious adverse reaction that has been reported for STELARA is serious hypersensitivity reactions including anaphylaxis (see section 4.4). The overall safety profile was similar for patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
 
 ## Tabulated list of adverse reactions
 
@@ -266,9 +1158,9 @@ The safety data described below reflect exposure in adults to ustekinumab in 14 
 
 phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to STELARA in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year (3,648 patients). 2,194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
-Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Table 4 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 3 List of adverse reactions
+Table 4 List of adverse reactions
 
 | System Organ Class                                   | Frequency: Adverse reaction                                                                                                                                                                                                              |
 |------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -300,872 +1192,6 @@ In the placebo-controlled period of the psoriasis, psoriatic arthritis, Crohn's 
 
 In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,205 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding non-melanoma skin cancers were reported in 76 patients in 15,205 patient-years of follow-up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers. The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15,165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
-## Hypersensitivity and infusion reactions
-
-In Crohn's disease and ulcerative colitis intravenous induction studies, no events of anaphylaxis or other serious infusion reactions were reported following the single intravenous dose. In these studies, 2.2% of 785 placebo-treated patients and 1.9% of 790 patients treated with the recommended dose of ustekinumab reported adverse events occurring during or within an hour of the infusion. Serious infusion-related reactions including anaphylactic reactions to the infusion have been reported in the post-marketing setting (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
-
-## Paediatric population
-
-## Paediatric patients 6 years and older with plaque psoriasis
-
-The safety of ustekinumab has been studied in two phase 3 studies of paediatric patients with moderate to severe plaque psoriasis. The first study was in 110 patients from 12 to 17 years of age treated for up to 60 weeks and the second study was in 44 patients from 6 to 11 years of age treated for up to 56 weeks. In general, the adverse events reported in these two studies with safety data up to 1 year were similar to those seen in previous studies in adults with plaque psoriasis.
-
-## Paediatric patients weighing at least 40 kg with Crohn's disease
-
-The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn's disease up to week 240 and week 52, respectively. In general, the safety profile in this cohort (n = 71) was similar to that seen in previous studies in adults with Crohn's disease.
-
-## Reporting of suspected adverse reactions
-
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-## 4.9 Overdose
-
-Single doses up to 6 mg/kg have been administered intravenously in clinical studies without dose-limiting toxicity. In case of overdose, it is recommended that the patient be monitored for any signs or symptoms of adverse reactions and appropriate symptomatic treatment be instituted immediately.
-
-## 5. PHARMACOLOGICAL PROPERTIES
-
-## 5.1 Pharmacodynamic properties
-
-Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code: L04AC05.
-
-## Mechanism of action
-
-Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12R  1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12R  1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
-
-By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
-
-In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and fecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
-
-<div style=\"page-break-after: always\"></div>
-
-In patients with ulcerative colitis, treatment with ustekinumab resulted in a decrease in inflammatory markers including CRP and fecal calprotectin during the induction phase, which was maintained throughout the maintenance phase and study extension through week 200.
-
-## Immunisation
-
-During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients treated with STELARA for at least 3.5 years mounted similar antibody responses to both pneumococcal polysaccharide and tetanus vaccines as a non-systemically treated psoriasis control group. Similar proportions of adult patients developed protective levels of anti-pneumococcal and anti-tetanus antibodies and antibody titres were similar among STELARA-treated and control patients.
-
-## Clinical efficacy
-
-## Crohn's Disease
-
-The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebo-controlled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
-
-The induction studies included 1,409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
-
-Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNFα therapy and 52% had failed 2 or 3 prior anti-TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to anti-TNFα therapies.
-
-Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNF-α naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
-
-In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 4). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
-
-Table 4: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
-
-|                                       | UNITI-1 *       | UNITI-1 *                               | UNITI-2 **      | UNITI-2 **                              |
-|---------------------------------------|-----------------|-----------------------------------------|-----------------|-----------------------------------------|
-|                                       | Placebo N = 247 | Recommended dose of ustekinumab N = 249 | Placebo N = 209 | Recommended dose of ustekinumab N = 209 |
-| Clinical Remission, week 8            | 18 (7.3%)       | 52 (20.9%) a                            | 41 (19.6%)      | 84 (40.2%) a                            |
-| Clinical Response (100 point), week 6 | 53 (21.5%)      | 84 (33.7%) b                            | 60 (28.7%)      | 116 (55.5%) a                           |
-| Clinical Response (100 point), week 8 | 50 (20.2%)      | 94 (37.8%) a                            | 67 (32.1%)      | 121 (57.9%) a                           |
-| 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                           | 66 (31.6%)      | 106 (50.7%) a                           |
-
-<div style=\"page-break-after: always\"></div>
-
-| 70 Point Response, week 6   | 75 (30.4%)   | 109 (43.8%) b   | 81 (38.8%)   | 135 (64.6%) a   |
-|-----------------------------|--------------|-----------------|--------------|-----------------|
-
-Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission
-
-70 point response is defined as reduction in CDAI score by at least 70 points
-
-* Anti-TNFα failures
-- ** Conventional therapy failures
-- a p &lt; 0.001
-- b p &lt; 0.01
-
-The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC).
-
-Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 5).
-
-Table 5: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
-
-|                                                  | Placebo* N = 131 †   | 90 mg ustekinumab every 8 weeks N = 128 †   | 90 mg ustekinumab every 12 weeks N = 129 †   |
-|--------------------------------------------------|----------------------|---------------------------------------------|----------------------------------------------|
-| Clinical Remission                               | 36%                  | 53% a                                       | 49% b                                        |
-| Clinical Response                                | 44%                  | 59% b                                       | 58% b                                        |
-| Corticosteroid-Free Clinical Remission           | 30%                  | 47% a                                       | 43% c                                        |
-| Clinical Remission in patients:                  |                      |                                             |                                              |
-| in remission at the start of maintenance therapy | 46% (36/79)          | 67% (52/78) a                               | 56% (44/78)                                  |
-| who entered from study CRD3002 ‡                 | 44% (31/70)          | 63% (45/72) c                               | 57% (41/72)                                  |
-| who are Anti-TNFα naïve                          | 49% (25/51)          | 65% (34/52) c                               | 57% (30/53)                                  |
-| who entered from study CRD3001 §                 | 26% (16/61)          | 41% (23/56)                                 | 39% (22/57)                                  |
-
-Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
-
-* The placebo group consisted of patients who were in response to ustekinumab and were randomised to receive placebo at the start of maintenance therapy.
-- † Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy
-- ‡ Patients who failed conventional therapy but not anti-TNFα therapy
-- § Patients who are anti-TNFα refractory/intolerant
-- a p &lt; 0.01
-- b p &lt; 0.05
-- c nominally significant (p &lt; 0.05)
-
-In IM-UNITI, 29 of 129 patients did not maintain response to ustekinumab when treated every 12 weeks and were allowed to dose adjust to receive ustekinumab every 8 weeks. Loss of response was defined as a CDAI score ≥ 220 points and a ≥ 100 point increase from the CDAI score at baseline. In these patients, clinical remission was achieved in 41.4% of patients 16 weeks after dose adjustment.
-
-Patients who were not in clinical response to ustekinumab induction at week 8 of the UNITI-1 and UNITI-2 induction studies (476 patients) entered into the non-randomised portion of the maintenance study (IM-UNITI) and received a 90 mg subcutaneous injection of ustekinumab at that time. Eight weeks later, 50.5% of the patients achieved clinical response and continued to receive maintenance dosing every 8 weeks; among these patients with continued maintenance dosing, a majority maintained response (68.1%) and achieved remission (50.2%) at week 44, at proportions that were similar to the patients who initially responded to ustekinumab induction.
-
-<div style=\"page-break-after: always\"></div>
-
-Of 131 patients who responded to ustekinumab induction, and were randomised to the placebo group at the start of the maintenance study, 51 subsequently lost response and received 90 mg ustekinumab subcutaneously every 8 weeks. The majority of patients who lost response and resumed ustekinumab did so within 24 weeks of the induction infusion. Of these 51 patients, 70.6% achieved clinical response and 39.2% percent achieved clinical remission 16 weeks after receiving the first subcutaneous dose of ustekinumab.
-
-In IM-UNITI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 567 patients who entered on and were treated with ustekinumab in the study extension, clinical remission and response were generally maintained through week 252 for both patients who failed TNF-therapies and those who failed conventional therapies.
-
-No new safety concerns were identified in this study extension with up to 5 years of treatment in patients with Crohn's Disease.
-
-## Endoscopy
-
-Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
-
-## Fistula Response
-
-In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
-
-## Health-related quality of life
-
-Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
-
-## Ulcerative colitis
-
-The safety and efficacy of ustekinumab was assessed in two randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥ 2). The clinical development program consisted of one intravenous induction study (referred to as UNIFI-I) with treatment of up to 16 weeks followed by a 44 week subcutaneous randomised withdrawal maintenance study (referred to as UNIFI-M) representing at least 52 weeks of therapy.
-
-Efficacy results presented for UNIFI-I and UNIFI-M were based on central review of endoscopies.
-
-UNIFI-I included 961 patients. The primary endpoint for the induction study was the proportion of subjects in clinical remission at week 8. Patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
-
-<div style=\"page-break-after: always\"></div>
-
-Concomitant doses of oral corticosteroids, immunomodulators, and aminosalicylates were permitted and 90% of patients continued to receive at least one of these medications. Enrolled patients had to have failed conventional therapy (corticosteroids or immunomodulators) or at least one biologic (a TNFα antagonist and/or vedolizumab). 49% of patients had failed conventional therapy, but not a biologic (of which 94% where biological-naïve). 51% of patients had failed or were intolerant to a biologic. Approximately 50% of the patients had failed at least 1 prior anti-TNF  therapy (of which 48% were primary non-responders) and 17% had failed at least 1 anti-TNFα therapy and vedolizumab.
-
-In UNIFI-I a significantly greater proportion of patients were in clinical remission in the ustekinumab treated group compared to placebo at week 8 (Table 6). As early as Week 2, the earliest scheduled study visit, and at each visit thereafter, a higher proportion of ustekinumab patients had no rectal bleeding or achieved normal stool frequency as compared with placebo patients. Significant differences in partial Mayo score and symptomatic remission were observed between ustekinumab and placebo as early as Week 2.
-
-Efficacy was higher in the tiered dose group (6 mg/kg) compared to the 130 mg dose group in select endpoints, and tiered dosing is therefore the recommended intravenous induction dose.
-
-Table 6: Summary of Key Efficacy Outcomes in UNIFI-I (Week 8)
-
-|                                                                 | Placebo N = 319   | Recommended dose of ustekinumab £ N = 322   |
-|-----------------------------------------------------------------|-------------------|---------------------------------------------|
-| Clinical Remission*                                             | 5%                | 16% a                                       |
-| In patients who failed conventional therapy, but not a biologic | 9% (15/158)       | 19% (29/156) c                              |
-| In patients who failed biological therapy ¥                     | 1% (2/161)        | 13% (21/166) b                              |
-| In patients who failed both a TNF and vedolizumab               | 0% (0/47)         | 10% (6/58) c                                |
-| Clinical Response §                                             | 31%               | 62% a                                       |
-| In patients who failed conventional therapy, but not a biologic | 35% (56/158)      | 67% (104/156) b                             |
-| In patients who failed biological therapy ¥                     | 27% (44/161)      | 57% (95/166) b                              |
-| In patients who failed both a TNF and vedolizumab               | 28% (13/47)       | 52% (30/58) c                               |
-| Mucosal Healing †                                               | 14%               | 27% a                                       |
-| In patients who failed conventional therapy, but not a biologic | 21% (33/158)      | 33% (52/156) c                              |
-| In patients who failed biological therapy                       | 7% (11/161)       | 21% (35/166) b                              |
-| Symptomatic Remission ‡                                         | 23%               | 45% b                                       |
-| Combined Symptomatic Remission and Mucosal Healing ⸸            | 8%                | 21% b                                       |
-
-£ Infusion dose of ustekinumab using the weight-based dosage regimen specified in Table 1 .
-
-* Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
-
-§ Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
-
-- ¥ A TNFα antagonist and/or vedolizumab.
-- † Mucosal healing is defined as a Mayo endoscopic subscore of 0 or 1.
-- ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
-- ⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
-- a p &lt; 0.001
-- b Nominally significant (p &lt; 0.001)
-- c Nominally significant (p &lt; 0.05)
-
-UNIFI-M, evaluated 523 patients who achieved clinical response with single IV administration of ustekinumab in UNIFI-I. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC).
-
-<div style=\"page-break-after: always\"></div>
-
-Significantly greater proportions of patients were in clinical remission in both ustekinumab treated groups compared to the placebo group at week 44 (see Table 7).
-
-Table 7: Summary of Key Efficacy Measures in UNIFI-M (week 44; 52 weeks from initiation of the induction dose)
-
-|                                                                 | Placebo* N = 175   | 90 mg ustekinumab every 8 Weeks N = 176   | 90 mg ustekinumab every 12 Weeks N = 172   |
-|-----------------------------------------------------------------|--------------------|-------------------------------------------|--------------------------------------------|
-| Clinical Remission**                                            | 24%                | 44% a                                     | 38% b                                      |
-| In patients who failed conventional therapy, but not a biologic | 31% (27/87)        | 48% (41/85) d                             | 49% (50/102) d                             |
-| In patients who failed biological therapy ¥                     | 17% (15/88)        | 40% (36/91) c                             | 23% (16/70) d                              |
-| In patients who failed both a TNF and vedolizumab               | 15% (4/27)         | 33% (7/21) e                              | 23% (5/22) e                               |
-| Maintenance of Clinical Response through week 44 §              | 45%                | 71% a                                     | 68% a                                      |
-| In patients who failed conventional therapy, but not a biologic | 51% (44/87)        | 78% (66/85) c                             | 77% (78/102) c                             |
-| In patients who failed biological therapy ¥                     | 39% (34/88)        | 65% (59/91) c                             | 56% (39/70) d                              |
-| In patients who failed both a TNF and vedolizumab               | 41% (11/27)        | 67% (14/21) e                             | 50% (11/22) e                              |
-| Mucosal Healing †                                               | 29%                | 51% a                                     | 44% b                                      |
-| Maintenance of Clinical Remission through week 44 £             | 38% (17/45)        | 58% (22/38)                               | 65% (26/40) c                              |
-| Corticosteroid Free Clinical Remission €                        | 23%                | 42% a                                     | 38% b                                      |
-| Durable Remission ǁ                                             | 35%                | 57% c                                     | 48% d                                      |
-| Symptomatic Remission ‡                                         | 45%                | 68% c                                     | 62% d                                      |
-| Combined Symptomatic Remission and Mucosal Healing ⸸            | 28%                | 48% c                                     | 41% d                                      |
-
-* Following response to IV ustekinumab.
-
-** Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
-
-§ Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
-
-¥ A TNFα antagonist and/or vedolizumab.
-
-- † Mucosal healing is defined as a Mayo endoscopic sub-score of 0 or 1.
-- £ Maintenance of clinical remission through Week 44 is defined as patients in clinical remission through Week 44 among patients in clinical remission at maintenance baseline.
-- € Corticosteroid-free clinical remission is defined as patients in clinical remission and not receiving corticosteroids at Week 44.
-- ǁ Durable Remission is defined as partial Mayo remission at ≥80% of all visits prior to Week 44 and in partial Mayo remission at last visit (Week 44).
-- ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
-- ⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
-- a p &lt; 0.001
-- b p &lt; 0.05
-- c Nominally significant (p &lt; 0.001)
-- d Nominally significant (p &lt; 0.05)
-- e Not statistically significant
-
-The beneficial effect of ustekinumab on clinical response, mucosal healing and clinical remission was observed in induction and in maintenance both in patients who failed conventional therapy but not a biologic therapy, as well as in those who had failed at least one prior TNFα antagonist therapy including in patients with a primary non-response to TNFα antagonist therapy. A beneficial effect was also observed in induction in patients who failed at least one prior TNFα antagonist therapy and
-
-<div style=\"page-break-after: always\"></div>
-
-vedolizumab, however the number of patients in this subgroup was too small to draw definitive conclusions about the beneficial effect in this group during maintenance.
-
-## Week 16 Responders to Ustekinumab Induction
-
-Ustekinumab treated patients who were not in response at week 8 of UNIFI-I received an administration of 90 mg SC ustekinumab at week 8 (36% of patients). Of those patients, 9% of patients who were initially randomised to the recommended induction dose achieved clinical remission and 58% achieved clinical response at Week 16.
-
-Patients who were not in clinical response to ustekinumab induction at week 8 of the UNFI-I study but were in response at week 16 (157 patients) entered into the non-randomised portion of UNIFI-M and continued to receive maintenance dosing every 8 weeks; among these patients, a majority (62%) maintained response and 30% achieved remission at week 44.
-
-## Study Extension
-
-In UNIFI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 400 patients who entered on and were treated with ustekinumab every 12 or 8 weeks in the study extension, symptomatic remission was generally maintained through week 200 for patients who failed conventional therapy (but not a biologic therapy) and those who failed biologic therapy, including those who failed both anti-TNF and vedolizumab. Among patients who received 4 years of ustekinumab treatment and were assessed using the full Mayo score at maintenance week 200, 74.2% (69/93) and 68.3% (41/60) maintained mucosal healing and clinical remission, respectively.
-
-The safety analysis including 457 patients (1289.9 person-years) followed up to 220 weeks showed a safety profile between week 44 and 220 that was comparable with that observed up to week 44.
-
-No new safety concerns were identified in this study extension with up to 4 years of treatment in patients with ulcerative colitis.
-
-## Endoscopic Normalisation
-
-Endoscopic normalisation was defined as a Mayo endoscopic subscore of 0 and was observed as early as week 8 of UNIFI-I. At week 44 of UNIFI-M, it was achieved in 24% and 29% of patients treated with ustekinumab every 12 or 8 weeks, respectively, as compared to 18% of patients in the placebo group.
-
-## Histologic &amp; Histo-Endoscopic Mucosal Healing
-
-Histologic healing (defined as neutrophil infiltration in &lt; 5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue) was assessed at week 8 of UNIFI-I and Week 44 of UNIFI-M. At week 8, after a single intravenous induction dose, significantly greater proportions of patients in the recommended dose group achieved histologic healing (36%) compared with patients in the placebo group (22%). At Week 44 maintenance of this effect was observed with significantly more patients in histologic healing in the every 12 week (54%) and every 8 week (59%) ustekinumab groups as compared to placebo (33%).
-
-A combined endpoint of histo-endoscopic mucosal healing defined as subjects having both mucosal healing and histologic healing was evaluated at week 8 of UNIFI-I and week 44 of UNIFI-M. Patients receiving ustekinumab at the recommended dose showed significant improvements on the histoendoscopic mucosal healing endpoint at week 8 in the ustekinumab group (18%) as compared to the placebo group (9%). At week 44, maintenance of this effect was observed with significantly more patients in histo-endoscopic mucosal healing in the every 12 week (39%) and every 8 week (46%) ustekinumab groups compared to placebo (24%).
-
-## Health-related quality of life
-
-Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), SF-36 and EuroQoL-5D (EQ-5D) questionnaires.
-
-<div style=\"page-break-after: always\"></div>
-
-At week 8 of UNIFI-I, patients receiving ustekinumab showed significantly greater and clinically meaningful improvements on IBDQ total score, EQ-5D and EQ-5D VAS, and SF-36 Mental Component Summary Score and SF-36 Physical Component Summary Score when compared to placebo. These improvements were maintained in ustekinumab-treated patients in UNIFI-M through week 44. Improvement in health-related quality of life as measured by IBDQ and SF-36 was generally maintained during the extension through week 200.
-
-Patients receiving ustekinumab experienced significantly more improvements in work productivity as assessed by greater reductions in overall work impairment and in activity impairment as assessed by the WPAI-GH questionnaire than patients receiving placebo.
-
-## Hospitalisations and ulcerative colits (UC) related surgeries
-
-Through week 8 of UNIFI-I, the proportions of subjects with UC disease related hospitalisations were significantly lower for subjects in the ustekinumab recommended dose group (1.6%, 5/322) compared with subjects in the placebo group (4.4%, 14/319) and no subjects underwent UC disease related surgeries in subjects receiving ustekinumab at the recommended induction dose compared to 0.6% (2/319) subjects in the placebo group.
-
-Through week 44 of UNIFI-M, a significantly lower number of UC-related hospitalisations was observed in subjects in the combined ustekinumab group (2.0%, 7/348) as compared with subjects in the placebo group (5.7%, 10/175). A numerically lower number of subjects in the ustekinumab group (0.6%, 2/348) underwent UC disease related surgeries compared with subjects in the placebo group (1.7%, 3/175) through week 44.
-
-## Immunogenicity
-
-Antibodies to ustekinumab may develop during ustekinumab treatment and most are neutralising. The formation of anti-ustekinumab antibodies is associated with increased clearance of ustekinumab in patients with Crohn's disease or ulcerative colitis. No reduced efficacy was observed. There is no apparent correlation between the presence of anti-ustekinumab antibodies and the occurrence of injection site reactions.
-
-## Paediatric population
-
-The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in Crohn's Disease and ulcerative colitis (see section 4.2 for information on paediatric use).
-
-## Paediatric Crohn's disease
-
-The safety and efficacy of ustekinumab was evaluated in 48 paediatric patients weighing at least 40 kg, in an interim analysis of a multicentre phase 3 study (UNITI-Jr) for paediatric patients with moderately to severely active Crohn's disease (defined by a Paediatric Crohn's Disease Activity Index [PCDAI] score &gt;30) through 52 weeks of treatment (8 weeks of induction and 44 weeks of maintenance treatment). Patients included in the study either had not adequately responded to or had not tolerated prior biologic therapy or conventional therapy for Crohn's disease. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab administered either every 8 weeks or every 12 weeks.
-
-## Efficacy results
-
-The primary endpoint of the study was clinical remission at induction week 8 (defined as PCDAI score ≤ 10). The proportion of patients who achieved clinical remission was 52.1% (25/48) and is comparable to that observed in the adult ustekinumab phase 3 studies.
-
-Clinical response was observed as early as week 3. The proportion of patients in clinical response at week 8 (defined as a reduction from baseline in the PCDAI score of &gt;12.5 points with a total PCDAI score not more than 30) was 93.8% (45/48).
-
-Table 8 presents the analyses for the secondary endpoints through maintenance week 44.
-
-<div style=\"page-break-after: always\"></div>
-
-Table 8: Summary of Secondary endpoints through Maintenance week 44
-
-|                                                                                      | 90 mg ustekinumab every 8 weeks N = 23   | 90 mg ustekinumab every 12 weeks N = 25   | Total number of patients N = 48   |
-|--------------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------|-----------------------------------|
-| Clinical Remission *                                                                 | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
-| Corticosteroid-free Clinical Remission §                                             | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
-| Clinical remission for patients who were in clinical remission at induction week 8 * | 64.3% (9/14)                             | 54.5% (6/11)                              | 60.0% (15/25)                     |
-| Clinical Response †                                                                  | 52.2% (12/23)                            | 60.0% (15/25)                             | 56.3% (27/48)                     |
-| Endoscopic response £                                                                | 22.7% (5/22)                             | 28.0% (7/25)                              | 25.5% (12/47)                     |
-
-*
-
-Clinical remission is defined as PCDAI score ≤10 points.
-
-§ Corticosteroid-free remission is defined as PCDAI score of ≤10 points and not receiving corticosteroids for at least 90 days prior to Week M-44.
-
-† Clinical response is defined as a reduction from baseline in the PCDAI score of ≥12.5 points with a total PCDAI score not more than 30.
-
-£ Endoscopic response is defined as a reduction in the SES-CD score of ≥50% or SES-CD score ≤2, in patients with a baseline SES-CD score of ≥3.
-
-## Dosing frequency adjustment
-
-Patients who entered the maintenance regimen and experienced loss of response (LOR) based on PCDAI score were eligible for dose adjustment. Patients were either switched from treatment every 12 weeks to every 8 weeks or stayed on treatment every 8 weeks (sham adjustment). 2 patients were dose adjusted to the shorter dosing interval. In these patients, clinical remission was achieved in 100% (2/2) of patients 8 weeks after dose adjustment.
-
-The safety profile of the induction dose regimen and both maintenance dose regimens in the paediatric population weighing at least 40 kg is comparable with that established in the adult Crohn's disease population (see Section 4.8).
-
-## Serum and faecal inflammatory biomarkers
-
-The mean change from baseline at maintenance week 44 in C-Reactive protein (CRP) and faecal calprotectin concentrations were -11.17 mg/L (24.159) and -538.2 mg/kg (1271.33), respectively.
-
-## Health-related quality of life
-
-The total IMPACT-III scores and all subdomains (bowel symptoms, fatigue-related systemic symptoms, and well-being) demonstrated clinically meaningful improvements after 52 weeks.
-
-## 5.2 Pharmacokinetic properties
-
-Following the recommended intravenous induction dose, median peak serum ustekinumab concentration, observed 1 hour after the infusion, was 126.1 μg/mL in patients with Crohn's disease and 127.0 µg/mL in patients with ulcerative colitis.
-
-## Distribution
-
-Median volume of distribution during the terminal phase (Vz) following a single intravenous administration to patients with psoriasis ranged from 57 to 83 mL/kg.
-
-## Biotransformation
-
-The exact metabolic pathway for ustekinumab is unknown.
-
-<div style=\"page-break-after: always\"></div>
-
-## Elimination
-
-Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2 ) of ustekinumab was approximately 3 weeks in patients with ulcerative colitis, Crohn's disease, psoriasis and/or psoriatic arthritis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies.
-
-## Dose linearity
-
-The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately dose-proportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg.
-
-## Special populations
-
-No pharmacokinetic data are available in patients with impaired renal or hepatic function. No specific studies have been conducted with intravenous ustekinumab in elderly or paediatric patients weighing less than 40 kg.
-
-In patients with Crohn's disease and ulcerative colitis, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ±20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
-
-## Regulation of CYP450 enzymes
-
-The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4; see section 4.5).
-
-A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conducted to evaluate the effect of ustekinumab on cytochrome P450 enzyme activities following induction and maintenance dosing in patients with active Crohn's disease (n=18). No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosing in patients with Crohn's disease (see section 4.5).
-
-## Paediatric population
-
-Serum ustekinumab concentrations in paediatric Crohn's disease patients weighing at least 40 kg, treated with the recommended weight-based dose were generally comparable to those in the adult Crohn's disease population treated with the adult weight-based dose.
-
-## 5.3 Preclinical safety data
-
-Non-clinical data reveal no special hazard (e.g. organ toxicity) for humans based on studies of repeated-dose toxicity and developmental and reproductive toxicity, including safety pharmacology evaluations. In developmental and reproductive toxicity studies in cynomolgus monkeys, neither adverse effects on male fertility indices nor birth defects or developmental toxicity were observed. No adverse effects on female fertility indices were observed using an analogous antibody to IL-12/23 in mice.
-
-Dose levels in animal studies were up to approximately 45-fold higher than the highest equivalent dose intended to be administered to psoriasis patients and resulted in peak serum concentrations in monkeys that were more than 100-fold higher than observed in humans.
-
-Carcinogenicity studies were not performed with ustekinumab due to the lack of appropriate models for an antibody with no cross-reactivity to rodent IL-12/23 p40.
-
-<div style=\"page-break-after: always\"></div>
-
-## 6. PHARMACEUTICAL PARTICULARS
-
-## 6.1 List of excipients
-
-EDTA disodium salt dihydrate (E385) L-histidine L-histidine monohydrochloride monohydrate L-methionine Polysorbate 80 (E433) Sucrose Water for injection
-
-## 6.2 Incompatibilities
-
-In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products. STELARA should only be diluted with sodium chloride 9 mg/mL (0.9%) solution. STELARA should not be administered concomitantly in the same intravenous line with other medicinal products.
-
-## 6.3 Shelf life
-
-3 years.
-
-Do not freeze.
-
-Chemical and physical in-use stability has been demonstrated for 8 hours at 15-25°C.
-
-From a microbiological point of view, unless the method of dilution precludes the risk of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of user.
-
-## 6.4 Special precautions for storage
-
-Store in a refrigerator (2°C - 8°C). Do not freeze.
-
-Keep the vial in the outer carton in order to protect from light.
-
-For storage conditions after dilution of the medicinal product, see section 6.3.
-
-## 6.5 Nature and contents of container
-
-26 mL solution in a type I glass 30 mL vial closed with a coated butyl rubber stopper. STELARA is available in a 1 vial pack.
-
-## 6.6 Special precautions for disposal and other handling
-
-The solution in the STELARA vial should not be shaken. The solution should be visually inspected for particulate matter or discolouration prior to administration. The solution is clear, colourless to light yellow. The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present.
-
-## Dilution
-
-STELARA concentrate for solution for infusion must be diluted and prepared by a healthcare professional using aseptic technique.
-
-<div style=\"page-break-after: always\"></div>
-
-1. Calculate the dose and the number of STELARA vials needed based on patient weight (see section 4.2, Table 1). Each 26 mL vial of STELARA contains 130 mg of ustekinumab. Only use complete vials of STELARA.
-2. Withdraw and discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 250 mL infusion bag equal to the volume of STELARA to be added. (discard 26 mL sodium chloride for each vial of STELARA needed, for 2 vials-discard 52 mL, for 3 vials- discard 78 mL, for 4 vials- discard 104 mL)
-3. Withdraw 26 mL of STELARA from each vial needed and add it to the 250 mL infusion bag. The final volume in the infusion bag should be 250 mL. Gently mix.
-4. Visually inspect the diluted solution before administration. Do not use if visibly opaque particles, discolouration or foreign particles are observed.
-5. Administer the diluted solution over a period of at least one hour. Once diluted, the infusion should be completed within eight hours of the dilution in the infusion bag.
-6. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometer).
-7. Each vial is for single use only and any unused medicinal product should be disposed of in accordance with local requirements.
-
-## 7. MARKETING AUTHORISATION HOLDER
-
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
-
-## 8. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/08/494/005
-
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
-
-Date of first authorisation: 16 January 2009
-
-Date of latest renewal: 19 September 2013
-
-## 10. DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
-
-<div style=\"page-break-after: always\"></div>
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-STELARA 45 mg solution for injection STELARA 45 mg solution for injection in pre-filled syringe STELARA 90 mg solution for injection in pre-filled syringe
-
-## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
-
-STELARA 45 mg solution for injection
-
-Each vial contains 45 mg ustekinumab in 0.5 mL.
-
-STELARA 45 mg solution for injection in pre-filled syringe Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL.
-
-STELARA 90 mg solution for injection in pre-filled syringe
-
-Each pre-filled syringe contains 90 mg ustekinumab in 1 mL.
-
-Ustekinumab is a fully human IgG1κ monoclonal antibody to interleukin (IL)-12/23 produced in a murine myeloma cell line using recombinant DNA technology.
-
-For the full list of excipients, see section 6.1.
-
-## 3. PHARMACEUTICAL FORM
-
-STELARA 45 mg solution for injection Solution for injection.
-
-STELARA 45 mg solution for injection in pre-filled syringe
-
-Solution for injection.
-
-STELARA 90 mg solution for injection in pre-filled syringe Solution for injection.
-
-The solution is clear to slightly opalescent, colourless to light yellow.
-
-## 4. CLINICAL PARTICULARS
-
-## 4.1 Therapeutic indications
-
-## Plaque psoriasis
-
-STELARA is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A) (see section 5.1).
-
-## Paediatric plaque psoriasis
-
-STELARA is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies (see section 5.1).
-
-<div style=\"page-break-after: always\"></div>
-
-## Psoriatic arthritis (PsA)
-
-STELARA, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
-
-## Adult Crohn's Disease
-
-STELARA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
-
-## Paediatric Crohn's Disease
-
-STELARA is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients weighing at least 40 kg, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
-
-## Ulcerative colitis
-
-STELARA is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic.
-
-## 4.2 Posology and method of administration
-
-STELARA is intended for use under the guidance and supervision of physicians experienced in the diagnosis and treatment of conditions for which STELARA is indicated.
-
-## Posology
-
-## Plaque psoriasis
-
-The recommended posology of STELARA is an initial dose of 45 mg administered subcutaneously, followed by a 45 mg dose 4 weeks later, and then every 12 weeks thereafter.
-
-Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
-
-## Patients with body weight &gt; 100 kg
-
-For patients with a body weight &gt; 100 kg the initial dose is 90 mg administered subcutaneously, followed by a 90 mg dose 4 weeks later, and then every 12 weeks thereafter. In these patients, 45 mg was also shown to be efficacious. However, 90 mg resulted in greater efficacy. (see section 5.1, Table 4)
-
-## Psoriatic arthritis (PsA)
-
-The recommended posology of STELARA is an initial dose of 45 mg administered subcutaneously, followed by a 45 mg dose 4 weeks later, and then every 12 weeks thereafter. Alternatively, 90 mg may be used in patients with a body weight &gt; 100 kg.
-
-Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
-
-## Elderly (≥ 65 years)
-
-No dose adjustment is needed for elderly patients (see section 4.4).
-
-## Renal and hepatic impairment
-
-STELARA has not been studied in these patient populations. No dose recommendations can be made.
-
-<div style=\"page-break-after: always\"></div>
-
-## Paediatric population
-
-The safety and efficacy of STELARA in children with psoriasis less than 6 years of age or in children with psoriatic arthritis less than 18 years of age have not yet been established.
-
-## Paediatric plaque psoriasis (6 years and older)
-
-The recommended dose of STELARA based on body weight is shown below (Tables 1 and 2). STELARA should be administered at Weeks 0 and 4, then every 12 weeks thereafter.
-
-Table 1 Recommended dose of STELARA for paediatric psoriasis
-
-| Body weight at the time of dosing   | Recommended Dose   |
-|-------------------------------------|--------------------|
-| < 60 kg                             | 0.75 mg/kg         |
-| ≥ 60-≤ 100 kg                       | 45 mg              |
-| > 100 kg                            | 90 mg              |
-
-To calculate the volume of injection (mL) for patients &lt; 60 kg, use the following formula: body weight (kg) x 0.0083 (mL/kg) or see Table 2. The calculated volume should be rounded to the nearest 0.01 mL and administered using a 1 mL graduated syringe. A 45 mg vial is available for paediatric patients who need to receive less than the full 45 mg dose.
-
-Table 2 Injection volumes of STELARA for paediatric psoriasis patients &lt; 60 kg
-
-|   Body weight at time of dosing (kg) |   Dose (mg) |   Volume of injection (mL) |
-|--------------------------------------|-------------|----------------------------|
-|                                   15 |        11.3 |                       0.12 |
-|                                   16 |        12   |                       0.13 |
-|                                   17 |        12.8 |                       0.14 |
-|                                   18 |        13.5 |                       0.15 |
-|                                   19 |        14.3 |                       0.16 |
-|                                   20 |        15   |                       0.17 |
-|                                   21 |        15.8 |                       0.17 |
-|                                   22 |        16.5 |                       0.18 |
-|                                   23 |        17.3 |                       0.19 |
-|                                   24 |        18   |                       0.2  |
-|                                   25 |        18.8 |                       0.21 |
-|                                   26 |        19.5 |                       0.22 |
-|                                   27 |        20.3 |                       0.22 |
-|                                   28 |        21   |                       0.23 |
-|                                   29 |        21.8 |                       0.24 |
-|                                   30 |        22.5 |                       0.25 |
-|                                   31 |        23.3 |                       0.26 |
-|                                   32 |        24   |                       0.27 |
-|                                   33 |        24.8 |                       0.27 |
-|                                   34 |        25.5 |                       0.28 |
-|                                   35 |        26.3 |                       0.29 |
-|                                   36 |        27   |                       0.3  |
-|                                   37 |        27.8 |                       0.31 |
-|                                   38 |        28.5 |                       0.32 |
-|                                   39 |        29.3 |                       0.32 |
-|                                   40 |        30   |                       0.33 |
-|                                   41 |        30.8 |                       0.34 |
-|                                   42 |        31.5 |                       0.35 |
-|                                   43 |        32.3 |                       0.36 |
-|                                   44 |        33   |                       0.37 |
-|                                   45 |        33.8 |                       0.37 |
-|                                   46 |        34.5 |                       0.38 |
-|                                   47 |        35.3 |                       0.39 |
-
-<div style=\"page-break-after: always\"></div>
-
-|   48 |   36.0 |   0.40 |
-|------|--------|--------|
-|   49 |   36.8 |   0.41 |
-|   50 |   37.5 |   0.42 |
-|   51 |   38.3 |   0.42 |
-|   52 |   39   |   0.43 |
-|   53 |   39.8 |   0.44 |
-|   54 |   40.5 |   0.45 |
-|   55 |   41.3 |   0.46 |
-|   56 |   42   |   0.46 |
-|   57 |   42.8 |   0.47 |
-|   58 |   43.5 |   0.48 |
-|   59 |   44.3 |   0.49 |
-
-Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
-
-## Adults
-
-## Crohn's Disease and Ulcerative Colitis
-
-In the treatment regimen, the first dose of STELARA is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC.
-
-The first subcutaneous administration of 90 mg STELARA should take place at week 8 after the intravenous dose. After this, dosing every 12 weeks is recommended.
-
-Patients who have not shown adequate response at 8 weeks after the first subcutaneous dose, may receive a second subcutaneous dose at this time (see section 5.1).
-
-Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1, section 5.2).
-
-Patients may subsequently be dosed every 8 weeks or every 12 weeks according to clinical judgment (see section 5.1).
-
-Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after switching to the 8-weekly maintenance dose.
-
-Immunomodulators and/or corticosteroids may be continued during treatment with STELARA. In patients who have responded to treatment with STELARA, corticosteroids may be reduced or discontinued in accordance with standard of care.
-
-In Crohn's disease or Ulcerative Colitis, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
-
-## Elderly (≥ 65 years)
-
-No dose adjustment is needed for elderly patients (see section 4.4).
-
-## Renal and hepatic impairment
-
-STELARA has not been studied in these patient populations. No dose recommendations can be made.
-
-## Paediatric population
-
-## Paediatric Crohn's disease (patients weighing at least 40 kg)
-
-In the treatment regimen, the first dose of STELARA is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC.
-
-<div style=\"page-break-after: always\"></div>
-
-The first subcutaneous administration of 90 mg STELARA should take place at week 8 after the intravenous dose. After this, dosing every 12 weeks is recommended.
-
-Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1, section 5.2).
-
-Patients may subsequently be dosed every 8 weeks or every 12 weeks according to clinical judgment (see section 5.1).
-
-Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after dose adjustment.
-
-Immunomodulators, 5-aminosalicylate (5-ASA) compounds, antibiotics, and/or corticosteroids may be continued during treatment with STELARA. In patients who have responded to treatment with STELARA, these medications maybe reduced or discontinued in accordance with standard of care.
-
-The safety and efficacy of STELARA in treatment of Crohn's disease for paediatric patients weighing less than 40 kg or ulcerative colitis in children less than 18 years have not yet been established. No data are available.
-
-## Method of administration
-
-STELARA 45 mg vials or 45 mg and 90 mg pre-filled syringes are for subcutaneous injection only. If possible, areas of the skin that show psoriasis should be avoided as injection sites.
-
-After proper training in subcutaneous injection technique, patients or their caregivers may inject STELARA if a physician determines that it is appropriate. However, the physician should ensure appropriate follow-up of patients. Patients or their caregivers should be instructed to inject the prescribed amount of STELARA according to the directions provided in the package leaflet. Comprehensive instructions for administration are given in the package leaflet.
-
-For further instructions on preparation and special precautions for handling, see section 6.6.
-
-## 4.3 Contraindications
-
-Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-
-Clinically important, active infection (e.g. active tuberculosis; see section 4.4).
-
-## 4.4 Special warnings and precautions for use
-
-## Traceability
-
-In order to improve the traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
-
-## Infections
-
-Ustekinumab may have the potential to increase the risk of infections and reactivate latent infections. In clinical studies and a post-marketing observational study in patients with psoriasis, serious bacterial, fungal, and viral infections have been observed in patients receiving STELARA (see section 4.8).
-
-Opportunistic infections including reactivation of tuberculosis, other opportunistic bacterial infections (including atypical mycobacterial infection, listeria meningitis, pneumonia legionella, and nocardiosis), opportunistic fungal infections, opportunistic viral infections (including encephalitis caused by herpes simplex 2), and parasitic infections (including ocular toxoplasmosis) have been reported in patients treated with ustekinumab.
-
-Caution should be exercised when considering the use of STELARA in patients with a chronic
-
-<div style=\"page-break-after: always\"></div>
-
-infection or a history of recurrent infection (see section 4.3).
-
-Prior to initiating treatment with STELARA, patients should be evaluated for tuberculosis infection. STELARA must not be given to patients with active tuberculosis (see section 4.3). Treatment of latent tuberculosis infection should be initiated prior to administering STELARA. Anti-tuberculosis therapy should also be considered prior to initiation of STELARA in patients with a history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed. Patients receiving STELARA should be monitored closely for signs and symptoms of active tuberculosis during and after treatment.
-
-Patients should be instructed to seek medical advice if signs or symptoms suggestive of an infection occur. If a patient develops a serious infection, the patient should be closely monitored and STELARA should not be administered until the infection resolves.
-
-## Malignancies
-
-Immunosuppressants like ustekinumab have the potential to increase the risk of malignancy. Some patients who received STELARA in clinical studies and in a post-marketing observational study in patients with psoriasis developed cutaneous and non-cutaneous malignancies (see section 4.8). The risk of malignancy may be higher in psoriasis patients who have been treated with other biologics during the course of their disease.
-
-No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving STELARA. Thus, caution should be exercised when considering the use of STELARA in these patients.
-
-All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of skin cancer (see section 4.8).
-
-## Systemic and respiratory hypersensitivity reactions
-
-## Systemic
-
-Serious hypersensitivity reactions have been reported in the postmarketing setting, in some cases several days after treatment. Anaphylaxis and angioedema have occurred. If an anaphylactic or other serious hypersensitivity reaction occurs, appropriate therapy should be instituted and administration of STELARA should be discontinued (see section 4.8).
-
-## Respiratory
-
-Cases of allergic alveolitis, eosinophilic pneumonia, and non-infectious organising pneumonia have been reported during post-approval use of ustekinumab. Clinical presentations included cough, dyspnoea, and interstitial infiltrates following one to three doses. Serious outcomes have included respiratory failure and prolonged hospitalisation. Improvement has been reported after discontinuation of ustekinumab and also, in some cases, administration of corticosteroids. If infection has been excluded and diagnosis is confirmed, discontinue ustekinumab and institute appropriate treatment (see section 4.8).
-
-## Cardiovascular events
-
-Cardiovascular events including myocardial infarction and cerebrovascular accident have been observed in patients with psoriasis exposed to STELARA in a post-marketing observational study. Risk factors for cardiovascular disease should be regularly assessed during treatment with STELARA.
-
-## Latex sensitivity
-
-The needle cover on the syringe in the STELARA pre-filled syringe is manufactured from dry natural rubber (a derivative of latex), which may cause allergic reactions in individuals sensitive to latex.
-
-## Vaccinations
-
-It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with STELARA. Specific studies have not been conducted
-
-<div style=\"page-break-after: always\"></div>
-
-in patients who had recently received live viral or live bacterial vaccines. No data are available on the secondary transmission of infection by live vaccines in patients receiving STELARA. Before live viral or live bacterial vaccination, treatment with STELARA should be withheld for at least 15 weeks after the last dose and can be resumed at least 2 weeks after vaccination. Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance on concomitant use of immunosuppressive agents post-vaccination.
-
-Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.5 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
-
-Patients receiving STELARA may receive concurrent inactivated or non-live vaccinations.
-
-Long term treatment with STELARA does not suppress the humoral immune response to pneumococcal polysaccharide or tetanus vaccines (see section 5.1).
-
-## Concomitant immunosuppressive therapy
-
-In psoriasis studies, the safety and efficacy of STELARA in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of STELARA. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of STELARA. Caution should be exercised when considering concomitant use of other immunosuppressants and STELARA or when transitioning from other immunosuppressive biologics (see section 4.5).
-
-## Immunotherapy
-
-STELARA has not been evaluated in patients who have undergone allergy immunotherapy. It is not known whether STELARA may affect allergy immunotherapy.
-
-## Serious skin conditions
-
-In patients with psoriasis, exfoliative dermatitis has been reported following ustekinumab treatment (see section 4.8). Patients with plaque psoriasis may develop erythrodermic psoriasis, with symptoms that may be clinically indistinguishable from exfoliative dermatitis, as part of the natural course of their disease. As part of the monitoring of the patient's psoriasis, physicians should be alert for symptoms of erythrodermic psoriasis or exfoliative dermatitis. If these symptoms occur, appropriate therapy should be instituted. STELARA should be discontinued if a drug reaction is suspected.
-
-## Lupus-related conditions
-
-Cases of lupus-related conditions have been reported in patients treated with ustekinumab, including cutaneous lupus erythematosus and lupus-like syndrome. If lesions occur, especially in sun exposed areas of the skin or if accompanied by arthralgia, the patient should seek medical attention promptly. If the diagnosis of a lupus-related condition is confirmed, ustekinumab should be discontinued and appropriate treatment initiated.
-
-## Special populations
-
-## Elderly (≥ 65 years)
-
-No overall differences in efficacy or safety in patients age 65 and older who received STELARA were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
-
-## Polysorbate 80
-
-STELARA contains 0.04 mg (90 mg/1.0mL) or 0.02 mg (45 mg/0.5 mL) of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.04 mg/mL. Polysorbates may cause allergic reactions.
-
-<div style=\"page-break-after: always\"></div>
-
-## 4.5 Interaction with other medicinal products and other forms of interaction
-
-Live vaccines should not be given concurrently with STELARA.
-
-Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
-
-In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to anti-TNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. anti-TNFα agents and/or vedolizumab) in patients with ulcerative colitis.
-
-The results of an in vitro study and a phase 1 study in subjects with active Crohn's disease do not suggest the need for dose adjustments in patients who are receiving concomitant CYP450 substrates (see section 5.2).
-
-In psoriasis studies, the safety and efficacy of STELARA in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of STELARA. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of STELARA. (see section 4.4).
-
-## 4.6 Fertility, pregnancy and lactation
-
-## Women of childbearing potential
-
-Women of childbearing potential should use effective methods of contraception during treatment and for at least 15 weeks after treatment.
-
-## Pregnancy
-
-Data from a moderate number of prospectively collected pregnancies following exposure to STELARA with known outcomes, including more than 450 pregnancies exposed during the first trimester, do not indicate an increased risk of major congenital malformations in the newborn.
-
-Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonic/foetal development, parturition or postnatal development (see section 5.3).
-
-However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of STELARA in pregnancy.
-
-Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth.
-
-Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant,
-
-<div style=\"page-break-after: always\"></div>
-
-administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
-
-## Breast-feeding
-
-Limited data from published literature suggests that ustekinumab is excreted in human breast milk in very small amounts. It is not known if ustekinumab is absorbed systemically after ingestion. Because of the potential for adverse reactions in nursing infants from ustekinumab, a decision on whether to discontinue breast-feeding during treatment and up to 15 weeks after treatment or to discontinue therapy with STELARA must be made taking into account the benefit of breast-feeding to the child and the benefit of STELARA therapy to the woman.
-
-## Fertility
-
-The effect of ustekinumab on human fertility has not been evaluated (see section 5.3).
-
-## 4.7 Effects on ability to drive and use machines
-
-STELARA has no or negligible influence on the ability to drive and use machines.
-
-## 4.8 Undesirable effects
-
-## Summary of the safety profile
-
-The most common adverse reactions (&gt; 5%) in controlled periods of the adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies with ustekinumab were nasopharyngitis and headache. Most were considered to be mild and did not necessitate discontinuation of study treatment. The most serious adverse reaction that has been reported for STELARA is serious hypersensitivity reactions including anaphylaxis (see section 4.4). The overall safety profile was similar for patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
-
-## Tabulated list of adverse reactions
-
-The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to STELARA in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year ( 3,648 patients). 2,194 patients with psoriasis, Crohn's disease or ulcerative colitis for at least 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
-
-Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
-Table 3 List of adverse reactions
-
-| System Organ Class          | Frequency: Adverse reaction                                                                                                                                                                                                              |
-|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations | Common: Upper respiratory tract infection, nasopharyngitis, sinusitis Uncommon: Cellulitis, dental infections, herpes zoster, lower respiratory tract infection, viral upper respiratory tract infection, vulvovaginal mycotic infection |
-
-<div style=\"page-break-after: always\"></div>
-
-| Immune system disorders                              | Uncommon: Hypersensitivity reactions (including rash, urticaria) Rare: Serious hypersensitivity reactions (including anaphylaxis, angioedema)                                                |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Psychiatric disorders                                | Uncommon: Depression                                                                                                                                                                         |
-| Nervous system disorders                             | Common: Dizziness, headache Uncommon: Facial palsy                                                                                                                                           |
-| Respiratory, thoracic and mediastinal disorders      | Common: Oropharyngeal pain Uncommon: Nasal congestion Rare: Allergic alveolitis, eosinophilic pneumonia Very rare: Organising pneumonia*                                                     |
-| Gastrointestinal disorders                           | Common: Diarrhoea, nausea, vomiting                                                                                                                                                          |
-| Skin and subcutaneous tissue disorders               | Common: Pruritus Uncommon: Pustular psoriasis, skin exfoliation, acne Rare: Exfoliative dermatitis, hypersensitivity vasculitis Very rare: Bullous pemphigoid, cutaneous lupus erythematosus |
-| Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                        |
-| General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia             |
-
-* See section 4.4, Systemic and respiratory hypersensitivity reactions.
-
-## Description of selected adverse reactions
-
-## Infections
-
-In the placebo-controlled studies of patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis, the rates of infection or serious infection were similar between ustekinumab-treated patients and those treated with placebo. In the placebo-controlled period of these clinical studies, the rate of infection was 1.36 per patient-year of follow-up in ustekinumab-treated patients, and 1.34 in placebo-treated patients. Serious infections occurred at the rate of 0.03 per patient-year of follow-up in ustekinumab-treated patients (30 serious infections in 930 patient-years of follow-up) and 0.03 in placebo-treated patients (15 serious infections in 434 patient-years of follow-up) (see section 4.4).
-
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,227 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies, and 2.3 years for ulcerative colitis studies. The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15,227 patient-years of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
-
-In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
-
-## Malignancies
-
-In the placebo-controlled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years
-
-<div style=\"page-break-after: always\"></div>
-
-of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of follow-up). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
-
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,205 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding non-melanoma skin cancers were reported in 76 patients in 15,205 patient-years of follow-up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers. The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15,165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
-
 ## Hypersensitivity reactions
 
 During the controlled periods of the psoriasis and psoriatic arthritis clinical studies of ustekinumab, rash and urticaria have each been observed in &lt; 1% of patients (see section 4.4).
@@ -1174,11 +1200,15 @@ During the controlled periods of the psoriasis and psoriatic arthritis clinical 
 
 ## Paediatric patients 6 years and older with plaque psoriasis
 
-The safety of ustekinumab has been studied in two phase 3 studies of paediatric patients with moderate to severe plaque psoriasis. The first study was in 110 patients from 12 to 17 years of age treated for up to 60 weeks and the second study was in 44 patients from 6 to 11 years of age treated for up to 56 weeks. In general, the adverse events reported in these two studies with safety data up to 1 year were similar to those seen in previous studies in adults with plaque psoriasis.
+The safety of ustekinumab has been studied in two phase 3 studies of paediatric patients with moderate to severe plaque psoriasis. The first study was in 110 patients from 12 to 17 years of age treated for up to 60 weeks and the second study was in 44 patients from 6 to 11 years of age treated for up to
 
-## Paediatric patients weighing at least 40 kg with Crohn's disease
+<div style=\"page-break-after: always\"></div>
 
-The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn's disease up to week 240 and week 52, respectively. In general, the safety profile in this cohort (n = 71) was similar to that seen in previous studies in adults with Crohn's disease.
+56 weeks. In general, the adverse events reported in these two studies with safety data up to 1 year were similar to those seen in previous studies in adults with plaque psoriasis.
+
+## Paediatric patients 2 years and older with Crohn's disease
+
+The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn's disease. 34 patients in the Phase 1 study were followed up to 240 weeks and 101 patients in the Phase 3 study were followed up to 68 weeks, respectively. In general, the safety profile was similar to that seen in previous studies in adults with Crohn's disease.
 
 ## Reporting of suspected adverse reactions
 
@@ -1188,8 +1218,6 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Single doses up to 6 mg/kg have been administered intravenously in clinical studies without dose-limiting toxicity. In case of overdose, it is recommended that the patient be monitored for any signs or symptoms of adverse reactions and appropriate symptomatic treatment be instituted immediately.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -1198,13 +1226,15 @@ Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code:
 
 ## Mechanism of action
 
-Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12R  1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12R  1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
+Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12Rβ1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12Rβ1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
 
 By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
 
-In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and fecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
+In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and faecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
 
-In patients with ulcerative colitis, treatment with ustekinumab resulted in a decrease in inflammatory markers including CRP and fecal calprotectin during the induction phase, which was maintained throughout the maintenance phase and study extension through week 200.
+In patients with ulcerative colitis, treatment with ustekinumab resulted in a decrease in inflammatory markers including CRP and faecal calprotectin during the induction phase, which was maintained throughout the maintenance phase and study extension through week 200.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Immunisation
 
@@ -1216,21 +1246,19 @@ During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients 
 
 The safety and efficacy of ustekinumab was assessed in 1,996 patients in two randomised, double-blind, placebo-controlled studies in patients with moderate to severe plaque psoriasis and who were candidates for phototherapy or systemic therapy. In addition, a randomised, blinded assessor, active-controlled study compared ustekinumab and etanercept in patients with moderate to severe plaque psoriasis who had had an inadequate response to, intolerance to, or contraindication to ciclosporin, MTX, or PUVA.
 
-Psoriasis Study 1 (PHOENIX 1) evaluated 766 patients. 53% of these patients were either non-responsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 and followed by the same dose every 12 weeks. Patients randomised to receive placebo at Weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at Weeks 12 and 16 followed by dosing every 12 weeks. Patients originally randomised to ustekinumab who achieved Psoriasis Area and Severity Index 75 response (PASI improvement of at least 75% relative to baseline) at both Weeks 28 and 40 were re-randomised
+Psoriasis Study 1 (PHOENIX 1) evaluated 766 patients. 53% of these patients were either non-responsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at weeks 0 and 4 and followed by the same dose every 12 weeks. Patients randomised to receive placebo at weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at weeks 12 and 16 followed by dosing every 12 weeks. Patients originally randomised to ustekinumab who achieved Psoriasis Area and Severity Index 75 response (PASI improvement of at least 75% relative to baseline) at both weeks 28 and 40 were re-randomised to receive ustekinumab every 12 weeks or to placebo (i.e., withdrawal of therapy). Patients who were re-randomised to placebo at week 40 reinitiated ustekinumab at their original dosing regimen when they experienced at least a 50% loss of their PASI improvement obtained at week 40. All patients were followed for up to 76 weeks following first administration of study treatment.
 
-<div style=\"page-break-after: always\"></div>
+Psoriasis Study 2 (PHOENIX 2) evaluated 1,230 patients. 61% of these patients were either non-responsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at weeks 0 and 4 followed by an additional dose at 16 weeks. Patients randomised to receive placebo at weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at weeks 12 and 16. All patients were followed for up to 52 weeks following first administration of study treatment.
 
-to receive ustekinumab every 12 weeks or to placebo (i.e., withdrawal of therapy). Patients who were re-randomised to placebo at week 40 reinitiated ustekinumab at their original dosing regimen when they experienced at least a 50% loss of their PASI improvement obtained at week 40. All patients were followed for up to 76 weeks following first administration of study treatment.
-
-Psoriasis Study 2 (PHOENIX 2) evaluated 1,230 patients. 61% of these patients were either non-responsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 followed by an additional dose at 16 weeks. Patients randomised to receive placebo at Weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at Weeks 12 and 16. All patients were followed for up to 52 weeks following first administration of study treatment.
-
-Psoriasis Study 3 (ACCEPT) evaluated 903 patients with moderate to severe psoriasis who inadequately responded to, were intolerant to, or had a contraindication to other systemic therapy and compared the efficacy of ustekinumab to etanercept and evaluated the safety of ustekinumab and etanercept. During the 12-week active-controlled portion of the study, patients were randomised to receive etanercept (50 mg twice a week), ustekinumab 45 mg at Weeks 0 and 4, or ustekinumab 90 mg at Weeks 0 and 4.
+Psoriasis Study 3 (ACCEPT) evaluated 903 patients with moderate to severe psoriasis who inadequately responded to, were intolerant to, or had a contraindication to other systemic therapy and compared the efficacy of ustekinumab to etanercept and evaluated the safety of ustekinumab and etanercept. During the 12-week active-controlled portion of the study, patients were randomised to receive etanercept (50 mg twice a week), ustekinumab 45 mg at weeks 0 and 4, or ustekinumab 90 mg at weeks 0 and 4.
 
 Baseline disease characteristics were generally consistent across all treatment groups in Psoriasis Studies 1 and 2 with a median baseline PASI score from 17 to 18, median baseline Body Surface Area (BSA) ≥ 20, and median Dermatology Life Quality Index (DLQI) range from 10 to 12. Approximately one third (Psoriasis Study 1) and one quarter (Psoriasis Study 2) of subjects had Psoriatic Arthritis (PsA). Similar disease severity was also seen in Psoriasis Study 3.
 
-The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at week 12 (see Tables 4 and 5).
+The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at week 12 (see Tables 5 and 6).
 
-Table 4 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoriasis Study 2 (PHOENIX 2)
+<div style=\"page-break-after: always\"></div>
+
+Table 5 Summary of clinical response in psoriasis study 1 (PHOENIX 1) and psoriasis study 2 (PHOENIX 2)
 
 |                                   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 28 3 doses (week 0, week 4 and week 16)   | Week 28 3 doses (week 0, week 4 and week 16)   |
 |-----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -1252,39 +1280,31 @@ Table 4 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoria
 | PASI 90 response N (%)            | 3 (1%)                                | 173 (42%) a                           | 209 (51%) a                           | 178 (45%)                                      | 217 (54%)                                      |
 | PGA b of cleared or minimal N (%) | 18 (4%)                               | 277 (68%) a                           | 300 (73%) a                           | 241 (61%)                                      | 279 (70%)                                      |
 | Number of patients ≤ 100 kg       | 290                                   | 297                                   | 289                                   | 287                                            | 280                                            |
+| PASI 75 response N (%)            | 12 (4%)                               | 218 (73%)                             | 225 (78%)                             | 217 (76%)                                      | 226 (81%)                                      |
+| Number of patients > 100 kg       | 120                                   | 112                                   | 121                                   | 110                                            | 119                                            |
+| PASI 75 response N (%)            | 3 (3%)                                | 55 (49%)                              | 86 (71%)                              | 59 (54%)                                       | 88 (74%)                                       |
+
+Table 6 Summary of clinical response at week 12 in psoriasis study 3 (ACCEPT)
+
+|                                 | Psoriasis Study 3                        | Psoriasis Study 3                       | Psoriasis Study 3                       |
+|---------------------------------|------------------------------------------|-----------------------------------------|-----------------------------------------|
+|                                 | Etanercept 24 doses (50 mg twice a week) | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
+|                                 |                                          | 45 mg                                   | 90 mg                                   |
+| Number of patients randomised   | 347                                      | 209                                     | 347                                     |
+| PASI 50 response N (%)          | 286 (82%)                                | 181 (87%)                               | 320 (92%) a                             |
+| PASI 75 response N (%)          | 197 (57%)                                | 141 (67%) b                             | 256 (74%) a                             |
+| PASI 90 response N (%)          | 80 (23%)                                 | 76 (36%) a                              | 155 (45%) a                             |
+| PGA of cleared or minimal N (%) | 170 (49%)                                | 136 (65%) a                             | 245 (71%) a                             |
+| Number of patients ≤ 100 kg     | 251                                      | 151                                     | 244                                     |
+| PASI 75 response N (%)          | 154 (61%)                                | 109 (72%)                               | 189 (77%)                               |
+| Number of patients > 100 kg     | 96                                       | 58                                      | 103                                     |
+| PASI 75 response N (%)          | 43 (45%)                                 | 32 (55%)                                | 67 (65%)                                |
+
+In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal)
 
 <div style=\"page-break-after: always\"></div>
 
-| PASI 75 response N (%)      | 12 (4%)   | 218 (73%)   | 225 (78%)   | 217 (76%)   | 226 (81%)   |
-|-----------------------------|-----------|-------------|-------------|-------------|-------------|
-| Number of patients > 100 kg | 120       | 112         | 121         | 110         | 119         |
-| PASI 75 response N (%)      | 3 (3%)    | 55 (49%)    | 86 (71%)    | 59 (54%)    | 88 (74%)    |
-
-a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with placebo (PBO).
-
-b PGA = Physician Global Assessment
-
-Table 5 Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
-
-|                                 | Psoriasis Study 3                      | Psoriasis Study 3                       | Psoriasis Study 3                       |
-|---------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------------|
-|                                 | Etanercept 24 doses (50 mg twice week) | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
-|                                 | a                                      | 45 mg                                   | 90 mg                                   |
-| Number of patients randomised   | 347                                    | 209                                     | 347                                     |
-| PASI 50 response N (%)          | 286 (82%)                              | 181 (87%)                               | 320 (92%) a                             |
-| PASI 75 response N (%)          | 197 (57%)                              | 141 (67%) b                             | 256 (74%) a                             |
-| PASI 90 response N (%)          | 80 (23%)                               | 76 (36%) a                              | 155 (45%) a                             |
-| PGA of cleared or minimal N (%) | 170 (49%)                              | 136 (65%) a                             | 245 (71%) a                             |
-| Number of patients ≤ 100 kg     | 251                                    | 151                                     | 244                                     |
-| PASI 75 response N (%)          | 154 (61%)                              | 109 (72%)                               | 189 (77%)                               |
-| Number of patients > 100 kg     | 96                                     | 58                                      | 103                                     |
-| PASI 75 response N (%)          | 43 (45%)                               | 32 (55%)                                | 67 (65%)                                |
-
-a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
-
-b p = 0.012 for ustekinumab 45 mg in comparison with etanercept.
-
-In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal) (p &lt; 0.001). At 18 months (week 76), 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re-randomised to maintenance treatment were PASI 75 responders.
+(p &lt; 0.001). At 18 months (week 76), 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re-randomised to maintenance treatment were PASI 75 responders.
 
 In patients re-randomised to placebo, and who reinitiated their original ustekinumab treatment regimen after loss of ≥ 50% of PASI improvement 85% regained PASI 75 response within 12 weeks after re-initiating therapy.
 
@@ -1294,46 +1314,47 @@ In Psoriasis Study 1, at week 2 and week 12, significantly greater improvements 
 
 Ustekinumab has been shown to improve signs and symptoms, physical function and health-related quality of life, and reduce the rate of progression of peripheral joint damage in adult patients with active PsA.
 
-The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of
-
-<div style=\"page-break-after: always\"></div>
-
-PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
+The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
 
 In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with anti-tumour necrosis factor (TNF)α agent was not allowed. In Study 2, the majority of patients (58%, n = 180) had been previously treated with one or more anti-TNFα agent(s), of whom over 70% had discontinued their anti-TNFα treatment for lack of efficacy or intolerance at any time.
 
 ## Signs and symptoms
 
-Treatment with ustekinumab resulted in significant improvements in the measures of disease activity compared to placebo at week 24. The primary endpoint was the percentage of patients who achieved American College of Rheumatology (ACR) 20 response at week 24. The key efficacy results are shown in Table 6 below.
+Treatment with ustekinumab resulted in significant improvements in the measures of disease activity compared to placebo at week 24. The primary endpoint was the percentage of patients who achieved American College of Rheumatology (ACR) 20 response at week 24. The key efficacy results are shown in Table 7 below.
 
-Table 6 Number of patients who achieved clinical response in Psoriatic arthritis Study 1 (PSUMMIT I) and Study 2 (PSUMMIT II) at week 24
+Table 7 Number of patients who achieved clinical response in psoriatic arthritis study 1 (PSUMMIT I) and study 2 (PSUMMIT II) at week 24
 
-|                                             | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
-|---------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-|                                             | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
-| Number of patients randomised               | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
-| ACR 20 response, N (%)                      | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
-| ACR 50 response, N (%)                      | 18 (9%)                       | 51 (25%) a                    | 57 (28%) a                    | 7 (7%)                        | 18 (17%) b                    | 24 (23%) a                    |
-| ACR 70 response, N (%)                      | 5 (2%)                        | 25 (12%) a                    | 29 (14%) a                    | 3 (3%)                        | 7 (7%) c                      | 9 (9%) c                      |
-| Number of patients with ≥ 3% BSA d          | 146                           | 145                           | 149                           | 80                            | 80                            | 81                            |
-| PASI 75 response, N (%)                     | 16 (11%)                      | 83 (57%) a                    | 93 (62%) a                    | 4 (5%)                        | 41 (51%) a                    | 45 (56%) a                    |
-| PASI 90 response, N (%)                     | 4 (3%)                        | 60 (41%) a                    | 65 (44%) a                    | 3 (4%)                        | 24 (30%) a                    | 36 (44%) a                    |
-| Combined PASI 75 and ACR 20 response, N (%) | 8 (5%)                        | 40 (28%) a                    | 62 (42%) a                    | 2 (3%)                        | 24 (30%) a                    | 31 (38%) a                    |
-| Number of patients ≤ 100 kg                 | 154                           | 153                           | 154                           | 74                            | 74                            | 73                            |
-| ACR 20 response, N (%)                      | 39 (25%)                      | 67 (44%)                      | 78 (51%)                      | 17 (23%)                      | 32 (43%)                      | 34 (47%)                      |
-| Number of patients with ≥ 3% BSA d          | 105                           | 105                           | 111                           | 54                            | 58                            | 57                            |
-| PASI 75 response, N (%)                     | 14 (13%)                      | 64 (61%)                      | 73 (66%)                      | 4 (7%)                        | 31 (53%)                      | 32 (56%)                      |
-| Number of patients > 100 kg                 | 52                            | 52                            | 50                            | 30                            | 29                            | 31                            |
-| ACR 20 response, N (%)                      | 8 (15%)                       | 20 (38%)                      | 23 (46%)                      | 4 (13%)                       | 13 (45%)                      | 12 (39%)                      |
-| Number of patients with ≥ 3% BSA d          | 41                            | 40                            | 38                            | 26                            | 22                            | 24                            |
-| PASI 75 response, N (%)                     | 2 (5%)                        | 19 (48%)                      | 20 (53%)                      | 0                             | 10 (45%)                      | 13 (54%)                      |
+|                               | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
+|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+|                               | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
+| Number of patients randomised | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
+| ACR 20 response, N (%)        | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
 
 <div style=\"page-break-after: always\"></div>
 
-- a p &lt; 0.001
-- b p &lt; 0.05
-- c p = NS
-- d Number of patients with ≥ 3% BSA psoriasis skin involvement at baseline
+| ACR 50 response, N (%)                      | 18 (9%)   | 51 (25%) a   | 57 (28%) a   | 7 (7%)   | 18 (17%) b   | 24 (23%) a   |
+|---------------------------------------------|-----------|--------------|--------------|----------|--------------|--------------|
+| ACR 70 response, N (%)                      | 5 (2%)    | 25 (12%) a   | 29 (14%) a   | 3 (3%)   | 7 (7%) c     | 9 (9%) c     |
+| Number of patients with ≥ 3% BSA d          | 146       | 145          | 149          | 80       | 80           | 81           |
+| PASI 75 response, N (%)                     | 16 (11%)  | 83 (57%) a   | 93 (62%) a   | 4 (5%)   | 41 (51%) a   | 45 (56%) a   |
+| PASI 90 response, N (%)                     | 4 (3%)    | 60 (41%) a   | 65 (44%) a   | 3 (4%)   | 24 (30%) a   | 36 (44%) a   |
+| Combined PASI 75 and ACR 20 response, N (%) | 8 (5%)    | 40 (28%) a   | 62 (42%) a   | 2 (3%)   | 24 (30%) a   | 31 (38%) a   |
+| Number of patients ≤ 100 kg                 | 154       | 153          | 154          | 74       | 74           | 73           |
+| ACR 20 response, N (%)                      | 39 (25%)  | 67 (44%)     | 78 (51%)     | 17 (23%) | 32 (43%)     | 34 (47%)     |
+| Number of patients with ≥ 3% BSA d          | 105       | 105          | 111          | 54       | 58           | 57           |
+| PASI 75 response, N (%)                     | 14 (13%)  | 64 (61%)     | 73 (66%)     | 4 (7%)   | 31 (53%)     | 32 (56%)     |
+| Number of patients > 100 kg                 | 52        | 52           | 50           | 30       | 29           | 31           |
+| ACR 20 response, N (%)                      | 8 (15%)   | 20 (38%)     | 23 (46%)     | 4 (13%)  | 13 (45%)     | 12 (39%)     |
+| Number of patients with ≥ 3% BSA d          | 41        | 40           | 38           | 26       | 22           | 24           |
+| PASI 75 response, N (%)                     | 2 (5%)    | 19 (48%)     | 20 (53%)     | 0        | 10 (45%)     | 13 (54%)     |
+
+a p &lt; 0.001
+
+b p &lt; 0.05
+
+c p = NS
+
+d Number of patients with ≥ 3% BSA psoriasis skin involvement at baseline
 
 ACR 20, 50 and 70 responses continued to improve or were maintained through week 52 (PsA Study 1 and 2) and week 100 (PsA Study 1). In PsA Study 1, ACR 20 responses at week 100 were achieved by 57% and 64%, for 45 mg and 90 mg, respectively. In PsA Study 2, ACR 20 responses at week 52 were achieved by 47% and 48%, for 45 mg and 90 mg, respectively.
 
@@ -1341,23 +1362,244 @@ The proportion of patients achieving a modified PsA response criteria (PsARC) re
 
 Responses observed in the ustekinumab treated groups were similar in patients receiving and not receiving concomitant MTX, and were maintained through weeks 52 and 100. Patients previously treated with anti-TNFα agents who received ustekinumab achieved a greater response at week 24 than patients receiving placebo (ACR 20 response at week 24 for 45 mg and 90 mg was 37% and 34%, respectively, compared with placebo 15%; p &lt; 0.05), and responses were maintained through week 52.
 
-For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 significant improvement in enthesitis and dactylitis score was observed in the ustekinumab groups compared with placebo at week 24. In PsA Study 2 significant improvement in enthesitis score and numerical improvement (not statistically significant) in dactylitis score was observed in the ustekinumab 90 mg group compared with placebo at week 24. Improvements in enthesitis score and dactylitis score were maintained through weeks 52 and 100.
-
-## Radiographic Response
-
-Structural damage in both hands and feet was expressed as change in total van der Heijde-Sharp score (vdH-S score), modified for PsA by addition of hand distal interphalangeal joints, compared to baseline. A pre-specified integrated analysis combining data from 927 subjects in both PsA Study 1 and 2 was performed. Ustekinumab demonstrated a statistically significant decrease in the rate of progression of structural damage compared to placebo, as measured by change from baseline to week 24 in the total modified vdH-S score (mean ± SD score was 0.97 ± 3.85 in the placebo group compared with 0.40 ± 2.11 and 0.39 ± 2.40 in the ustekinumab 45 mg (p &lt; 0.05) and 90 mg (p &lt; 0.001) groups, respectively). This effect was driven by PsA Study 1. The effect is considered demonstrated irrespective of concomitant MTX use, and was maintained through Weeks 52 (integrated analysis) and 100 (PsA Study 1).
-
-## Physical function and health-related quality of life
-
-Ustekinumab-treated patients showed significant improvement in physical function as assessed by the Disability Index of the Health Assessment Questionnaire (HAQ-DI) at week 24. The proportion of patients achieving a clinically meaningful ≥ 0.3 improvement in HAQ-DI score from baseline was also significantly greater in the ustekinumab groups when compared with placebo. Improvement in HAQ-DI score from baseline was maintained through Weeks 52 and 100.
-
-There was significant improvement in DLQI scores in the ustekinumab groups as compared with placebo at week 24, which was maintained through weeks 52 and 100. In PsA Study 2 there was a significant improvement in Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) scores in the ustekinumab groups when compared with placebo at week 24. The proportion of patients achieving a clinically significant improvement in fatigue (4 points in FACIT-F) was also significantly greater in the ustekinumab groups compared with placebo. Improvements in FACIT scores were maintained through week 52.
+For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 significant improvement in enthesitis and dactylitis score was observed in the ustekinumab groups compared with placebo at week 24. In PsA Study 2 significant improvement in enthesitis score and numerical improvement (not statistically significant) in dactylitis score was observed in the ustekinumab 90 mg group compared
 
 <div style=\"page-break-after: always\"></div>
 
-## Paediatric population
+with placebo at week 24. Improvements in enthesitis score and dactylitis score were maintained through weeks 52 and 100.
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population with juvenile idiopathic arthritis (see section 4.2 for information on paediatric use).
+## Radiographic response
+
+Structural damage in both hands and feet was expressed as change in total van der Heijde-Sharp score (vdH-S score), modified for PsA by addition of hand distal interphalangeal joints, compared to baseline. A pre-specified integrated analysis combining data from 927 subjects in both PsA Study 1 and 2 was performed. Ustekinumab demonstrated a statistically significant decrease in the rate of progression of structural damage compared to placebo, as measured by change from baseline to week 24 in the total modified vdH-S score (mean ± SD score was 0.97 ± 3.85 in the placebo group compared with 0.40 ± 2.11 and 0.39 ± 2.40 in the ustekinumab 45 mg (p &lt; 0.05) and 90 mg (p &lt; 0.001) groups, respectively). This effect was driven by PsA Study 1. The effect is considered demonstrated irrespective of concomitant MTX use, and was maintained through weeks 52 (integrated analysis) and 100 (PsA Study 1).
+
+## Physical function and health-related quality of life
+
+Ustekinumab-treated patients showed significant improvement in physical function as assessed by the Disability Index of the Health Assessment Questionnaire (HAQ-DI) at week 24. The proportion of patients achieving a clinically meaningful ≥ 0.3 improvement in HAQ-DI score from baseline was also significantly greater in the ustekinumab groups when compared with placebo. Improvement in HAQ-DI score from baseline was maintained through weeks 52 and 100.
+
+There was significant improvement in DLQI scores in the ustekinumab groups as compared with placebo at week 24, which was maintained through weeks 52 and 100. In PsA Study 2 there was a significant improvement in Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) scores in the ustekinumab groups when compared with placebo at week 24. The proportion of patients achieving a clinically significant improvement in fatigue (4 points in FACIT-F) was also significantly greater in the ustekinumab groups compared with placebo. Improvements in FACIT scores were maintained through week 52.
+
+## Crohn's disease
+
+The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development programme consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
+
+The induction studies included 1,409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
+
+Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNFα therapy and 52% had failed 2 or 3 prior anti-TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
+
+Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNF-α naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
+
+<div style=\"page-break-after: always\"></div>
+
+In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 8). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
+
+Table 8: Induction of clinical response and remission in UNITI-1 and UNITI-2
+
+|                                       | UNITI-1 *       | UNITI-1 *                                | UNITI-2 **      | UNITI-2 **                               |
+|---------------------------------------|-----------------|------------------------------------------|-----------------|------------------------------------------|
+|                                       | Placebo N = 247 | Recommende d dose of ustekinumab N = 249 | Placebo N = 209 | Recommende d dose of ustekinumab N = 209 |
+| Clinical Remission, week 8            | 18 (7.3%)       | 52 (20.9%) a                             | 41 (19.6%)      | 84 (40.2%) a                             |
+| Clinical Response (100 point), week 6 | 53 (21.5%)      | 84 (33.7%) b                             | 60 (28.7%)      | 116 (55.5%) a                            |
+| Clinical Response (100 point), week 8 | 50 (20.2%)      | 94 (37.8%) a                             | 67 (32.1%)      | 121 (57.9%) a                            |
+| 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                            | 66 (31.6%)      | 106 (50.7%) a                            |
+| 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                            | 81 (38.8%)      | 135 (64.6%) a                            |
+
+Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission 70 point response is defined as reduction in CDAI score by at least 70 points
+
+* Anti-TNFα failures
+- ** Conventional therapy failures
+- a p &lt; 0.001
+- b p &lt; 0.01
+
+The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2).
+
+Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 9).
+
+Table 9: Maintenance of clinical response and remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
+
+|                                                  | Placebo* N = 131 †   | 90 mg ustekinumab every 8 weeks N = 128 †   | 90 mg ustekinumab every 12 weeks N = 129 †   |
+|--------------------------------------------------|----------------------|---------------------------------------------|----------------------------------------------|
+| Clinical Remission                               | 36%                  | 53% a                                       | 49% b                                        |
+| Clinical Response                                | 44%                  | 59% b                                       | 58% b                                        |
+| Corticosteroid-Free Clinical Remission           | 30%                  | 47% a                                       | 43% c                                        |
+| Clinical Remission in patients:                  |                      |                                             |                                              |
+| in remission at the start of maintenance therapy | 46% (36/79)          | 67% (52/78) a                               | 56% (44/78)                                  |
+| who entered from study CRD3002 ‡                 | 44% (31/70)          | 63% (45/72) c                               | 57% (41/72)                                  |
+| who are Anti-TNFα naïve                          | 49% (25/51)          | 65% (34/52) c                               | 57% (30/53)                                  |
+| who entered from study CRD3001 §                 | 26% (16/61)          | 41% (23/56)                                 | 39% (22/57)                                  |
+
+<div style=\"page-break-after: always\"></div>
+
+Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
+
+* The placebo group consisted of patients who were in response to ustekinumab and were randomised to receive placebo at the start of maintenance therapy.
+- † Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy
+- ‡ Patients who failed conventional therapy but not anti-TNFα therapy
+- § Patients who are anti-TNFα refractory/intolerant
+- a p &lt; 0.01
+- b p &lt; 0.05
+- c nominally significant (p &lt; 0.05)
+
+In IM-UNITI, 29 of 129 patients did not maintain response to ustekinumab when treated every 12 weeks and were allowed to dose adjust to receive ustekinumab every 8 weeks. Loss of response was defined as a CDAI score ≥ 220 points and a ≥ 100 point increase from the CDAI score at baseline. In these patients, clinical remission was achieved in 41.4% of patients 16 weeks after dose adjustment.
+
+Patients who were not in clinical response to ustekinumab induction at week 8 of the UNITI-1 and UNITI-2 induction studies (476 patients) entered into the non-randomised portion of the maintenance study (IM-UNITI) and received a 90 mg subcutaneous injection of ustekinumab at that time. Eight weeks later, 50.5% of the patients achieved clinical response and continued to receive maintenance dosing every 8 weeks; among these patients with continued maintenance dosing, a majority maintained response (68.1%) and achieved remission (50.2%) at week 44, at proportions that were similar to the patients who initially responded to ustekinumab induction.
+
+Of 131 patients who responded to ustekinumab induction, and were randomised to the placebo group at the start of the maintenance study, 51 subsequently lost response and received 90 mg ustekinumab subcutaneously every 8 weeks. The majority of patients who lost response and resumed ustekinumab did so within 24 weeks of the induction infusion. Of these 51 patients, 70.6% achieved clinical response and 39.2% percent achieved clinical remission 16 weeks after receiving the first subcutaneous dose of ustekinumab.
+
+In IM-UNITI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 567 patients who entered on and were treated with ustekinumab in the study extension, clinical remission and response were generally maintained through week 252 for both patients who failed TNF-therapies and those who failed conventional therapies.
+
+No new safety concerns were identified in this study extension with up to 5 years of treatment in patients with Crohn's disease.
+
+## Endoscopy
+
+Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
+
+## Fistula response
+
+In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
+
+## Health-related quality of life
+
+Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly
+
+<div style=\"page-break-after: always\"></div>
+
+greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
+
+## Ulcerative colitis
+
+The safety and efficacy of ustekinumab was assessed in two randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥ 2). The clinical development programme consisted of one intravenous induction study (referred to as UNIFI-I) with treatment of up to 16 weeks followed by a 44 week subcutaneous randomised withdrawal maintenance study (referred to as UNIFI-M) representing at least 52 weeks of therapy.
+
+Efficacy results presented for UNIFI-I and UNIFI-M were based on central review of endoscopies.
+
+UNIFI-I included 961 patients. The primary endpoint for the induction study was the proportion of subjects in clinical remission at week 8. Patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
+
+Concomitant doses of oral corticosteroids, immunomodulators, and aminosalicylates were permitted and 90% of patients continued to receive at least one of these medications. Enrolled patients had to have failed conventional therapy (corticosteroids or immunomodulators) or at least one biologic (a TNFα antagonist and/or vedolizumab). 49% of patients had failed conventional therapy, but not a biologic (of which 94% where biological-naïve). 51% of patients had failed or were intolerant to a biologic. Approximately 50% of the patients had failed at least 1 prior anti-TNFα therapy (of which 48% were primary non-responders) and 17% had failed at least 1 anti-TNFα therapy and vedolizumab.
+
+In UNIFI-I a significantly greater proportion of patients were in clinical remission in the ustekinumab treated group compared to placebo at week 8 (Table 10). As early as week 2, the earliest scheduled study visit, and at each visit thereafter, a higher proportion of ustekinumab patients had no rectal bleeding or achieved normal stool frequency as compared with placebo patients. Significant differences in partial Mayo score and symptomatic remission were observed between ustekinumab and placebo as early as week 2.
+
+Efficacy was higher in the tiered dose group (6 mg/kg) compared to the 130 mg dose group in select endpoints, and tiered dosing is therefore the recommended intravenous induction dose.
+
+Table 10: Summary of key efficacy outcomes in UNIFI-I (week 8)
+
+|                                                                 | Placebo N = 319   | Recommended dose of ustekinumab £ N = 322   |
+|-----------------------------------------------------------------|-------------------|---------------------------------------------|
+| Clinical Remission*                                             | 5%                | 16% a                                       |
+| In patients who failed conventional therapy, but not a biologic | 9% (15/158)       | 19% (29/156) c                              |
+| In patients who failed biological therapy ¥                     | 1% (2/161)        | 13% (21/166) b                              |
+| In patients who failed both a TNF and vedolizumab               | 0% (0/47)         | 10% (6/58) c                                |
+| Clinical Response §                                             | 31%               | 62% a                                       |
+| In patients who failed conventional therapy, but not a biologic | 35% (56/158)      | 67% (104/156) b                             |
+| In patients who failed biological therapy ¥                     | 27% (44/161)      | 57% (95/166) b                              |
+| In patients who failed both a TNF and vedolizumab               | 28% (13/47)       | 52% (30/58) c                               |
+| Mucosal Healing †                                               | 14%               | 27% a                                       |
+| In patients who failed conventional therapy, but not a biologic | 21% (33/158)      | 33% (52/156) c                              |
+
+<div style=\"page-break-after: always\"></div>
+
+| In patients who failed biological therapy   | 7% (11/161)   | 21% (35/166) b   |
+|---------------------------------------------|---------------|------------------|
+| Symptomatic Remission ‡                     | 23%           | 45% b            |
+| Combined Symptomatic Remission and Mucosal  | 8%            | 21% b            |
+
+- £ Infusion dose of ustekinumab using the weight-based dosage regimen specified in Table 1 .
+* Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
+- § Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
+- ¥ A TNFα antagonist and/or vedolizumab.
+- † Mucosal healing is defined as a Mayo endoscopic subscore of 0 or 1.
+- ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
+- ⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
+- a p &lt; 0.001
+- b Nominally significant (p &lt; 0.001)
+- c Nominally significant (p &lt; 0.05)
+
+UNIFI-M, evaluated 523 patients who achieved clinical response with single IV administration of ustekinumab in UNIFI-I. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC).
+
+Significantly greater proportions of patients were in clinical remission in both ustekinumab treated groups compared to the placebo group at week 44 (see Table 11).
+
+Table 11: Summary of key efficacy measures in UNIFI-M (week 44; 52 weeks from initiation of the induction dose)
+
+|                                                                 | Placebo* N = 175   | 90 mg ustekinumab every 8 Weeks N = 176   | 90 mg ustekinumab every 12 Weeks N = 172   |
+|-----------------------------------------------------------------|--------------------|-------------------------------------------|--------------------------------------------|
+| Clinical Remission**                                            | 24%                | 44% a                                     | 38% b                                      |
+| In patients who failed conventional therapy, but not a biologic | 31% (27/87)        | 48% (41/85) d                             | 49% (50/102) d                             |
+| In patients who failed biological therapy ¥                     | 17% (15/88)        | 40% (36/91) c                             | 23% (16/70) d                              |
+| In patients who failed both a TNF and vedolizumab               | 15% (4/27)         | 33% (7/21) e                              | 23% (5/22) e                               |
+| Maintenance of Clinical Response through week 44 §              | 45%                | 71% a                                     | 68% a                                      |
+| In patients who failed conventional therapy, but not a biologic | 51% (44/87)        | 78% (66/85) c                             | 77% (78/102) c                             |
+| In patients who failed biological therapy ¥                     | 39% (34/88)        | 65% (59/91) c                             | 56% (39/70) d                              |
+| In patients who failed both a TNF and vedolizumab               | 41% (11/27)        | 67% (14/21) e                             | 50% (11/22) e                              |
+| Mucosal Healing †                                               | 29%                | 51% a                                     | 44% b                                      |
+| Maintenance of Clinical Remission through week 44 £             | 38% (17/45)        | 58% (22/38)                               | 65% (26/40) c                              |
+| Corticosteroid Free Clinical Remission €                        | 23%                | 42% a                                     | 38% b                                      |
+| Durable Remission ǁ                                             | 35%                | 57% c                                     | 48% d                                      |
+| Symptomatic Remission ‡                                         | 45%                | 68% c                                     | 62% d                                      |
+| Combined Symptomatic Remission and Mucosal Healing ⸸            | 28%                | 48% c                                     | 41% d                                      |
+
+<div style=\"page-break-after: always\"></div>
+
+* Following response to IV ustekinumab.
+- ** Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
+- § Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
+- ¥ A TNFα antagonist and/or vedolizumab.
+- † Mucosal healing is defined as a Mayo endoscopic sub-score of 0 or 1.
+- £ Maintenance of clinical remission through week 44 is defined as patients in clinical remission through week 44 among patients in clinical remission at maintenance baseline.
+- € Corticosteroid-free clinical remission is defined as patients in clinical remission and not receiving corticosteroids at week 44.
+- ǁ Durable Remission is defined as partial Mayo remission at ≥80% of all visits prior to week 44 and in partial Mayo remission at last visit (week 44).
+- ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
+- ⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
+- a p &lt; 0.001
+- b p &lt; 0.05
+- c Nominally significant (p &lt; 0.001)
+- d Nominally significant (p &lt; 0.05)
+- e Not statistically significant
+
+The beneficial effect of ustekinumab on clinical response, mucosal healing and clinical remission was observed in induction and in maintenance both in patients who failed conventional therapy but not a biologic therapy, as well as in those who had failed at least one prior TNFα antagonist therapy including in patients with a primary non-response to TNFα antagonist therapy. A beneficial effect was also observed in induction in patients who failed at least one prior TNFα antagonist therapy and vedolizumab, however the number of patients in this subgroup was too small to draw definitive conclusions about the beneficial effect in this group during maintenance.
+
+## Week 16 responders to ustekinumab induction
+
+Ustekinumab treated patients who were not in response at week 8 of UNIFI-I received an administration of 90 mg SC ustekinumab at week 8 (36% of patients). Of those patients, 9% of patients who were initially randomised to the recommended induction dose achieved clinical remission and 58% achieved clinical response at week 16.
+
+Patients who were not in clinical response to ustekinumab induction at week 8 of the UNFI-I study but were in response at week 16 (157 patients) entered into the non-randomised portion of UNIFI-M and continued to receive maintenance dosing every 8 weeks; among these patients, a majority (62%) maintained response and 30% achieved remission at week 44.
+
+## Study extension
+
+In UNIFI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 400 patients who entered on and were treated with ustekinumab every 12 or 8 weeks in the study extension, symptomatic remission was generally maintained through week 200 for patients who failed conventional therapy (but not a biologic therapy) and those who failed biologic therapy, including those who failed both anti-TNF and vedolizumab. Among patients who received 4 years of ustekinumab treatment and were assessed using the full Mayo score at maintenance week 200, 74.2% (69/93) and 68.3% (41/60) maintained mucosal healing and clinical remission, respectively.
+
+The safety analysis including 457 patients (1289.9 person-years) followed up to 220 weeks showed a safety profile between week 44 and 220 that was comparable with that observed up to week 44.
+
+No new safety concerns were identified in this study extension with up to 4 years of treatment in patients with ulcerative colitis.
+
+<div style=\"page-break-after: always\"></div>
+
+## Endoscopic normalisation
+
+Endoscopic normalisation was defined as a Mayo endoscopic subscore of 0 and was observed as early as week 8 of UNIFI-I. At week 44 of UNIFI-M, it was achieved in 24% and 29% of patients treated with ustekinumab every 12 or 8 weeks, respectively, as compared to 18% of patients in the placebo group.
+
+## Histologic &amp; histo-endoscopic mucosal healing
+
+Histologic healing (defined as neutrophil infiltration in &lt; 5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue) was assessed at week 8 of UNIFI-I and week 44 of UNIFIM. At week 8, after a single intravenous induction dose, significantly greater proportions of patients in the recommended dose group achieved histologic healing (36%) compared with patients in the placebo group (22%). At week 44 maintenance of this effect was observed with significantly more patients in histologic healing in the every 12 week (54%) and every 8 week (59%) ustekinumab groups as compared to placebo (33%).
+
+A combined endpoint of histo-endoscopic mucosal healing defined as subjects having both mucosal healing and histologic healing was evaluated at week 8 of UNIFI-I and week 44 of UNIFI-M. Patients receiving ustekinumab at the recommended dose showed significant improvements on the histoendoscopic mucosal healing endpoint at week 8 in the ustekinumab group (18%) as compared to the placebo group (9%). At week 44, maintenance of this effect was observed with significantly more patients in histo-endoscopic mucosal healing in the every 12 week (39%) and every 8 week (46%) ustekinumab groups as compared to placebo (24%).
+
+## Health-related quality of life
+
+Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), SF-36 and EuroQoL-5D (EQ-5D) questionnaires.
+
+At week 8 of UNIFI-I, patients receiving ustekinumab showed significantly greater and clinically meaningful improvements on IBDQ total score, EQ-5D and EQ-5D VAS, and SF-36 Mental Component Summary Score and SF-36 Physical Component Summary Score when compared to placebo. These improvements were maintained in ustekinumab-treated patients in UNIFI-M through week 44. Improvement in health-related quality of life as measured by IBDQ and SF-36 was generally maintained during the extension through week 200.
+
+Patients receiving ustekinumab experienced significantly more improvements in work productivity as assessed by greater reductions in overall work impairment and in activity impairment as assessed by the WPAI-GH questionnaire than patients receiving placebo.
+
+## Hospitalisations and ulcerative colitis (UC) related surgeries
+
+Through week 8 of UNIFI-I, the proportions of subjects with UC disease related hospitalisations were significantly lower for subjects in the ustekinumab recommended dose group (1.6%, 5/322) compared with subjects in the placebo group (4.4%, 14/319) and no subjects underwent UC disease related surgeries in subjects receiving ustekinumab at the recommended induction dose compared to 0.6% (2/319) subjects in the placebo group.
+
+Through week 44 of UNIFI-M, a significantly lower number of UC-related hospitalisations was observed in subjects in the combined ustekinumab group (2.0%, 7/348) as compared with subjects in the placebo group (5.7%, 10/175). A numerically lower number of subjects in the ustekinumab group (0.6%, 2/348) underwent UC disease related surgeries compared with subjects in the placebo group (1.7%, 3/175) through week 44.
+
+## Immunogenicity
+
+Antibodies to ustekinumab may develop during ustekinumab treatment and most are neutralising. The formation of anti-ustekinumab antibodies is associated with both increased clearance and reduced efficacy of ustekinumab, except in patients with Crohn's disease or ulcerative colitis where no reduced efficacy was observed. There is no apparent correlation between the presence of anti-ustekinumab antibodies and the occurrence of injection site reactions.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric plaque psoriasis
 
@@ -1365,15 +1607,15 @@ Ustekinumab has been shown to improve signs and symptoms, and health-related qua
 
 ## Adolescent patients (12-17 years)
 
-The efficacy of ustekinumab was studied in 110 paediatric patients aged 12 to 17 years with moderate to severe plaque psoriasis in a multicentre, phase 3, randomised, double-blind, placebo-controlled study (CADMUS). Patients were randomised to receive either placebo (n = 37), or the recommended dose of ustekinumab (see section 4.2; n = 36) or half of the recommended dose of ustekinumab (n = 37) by subcutaneous injection at Weeks 0 and 4 followed by every 12 week (q12w) dosing. At week 12, placebo-treated patients crossed over to receive ustekinumab.
+The efficacy of ustekinumab was studied in 110 paediatric patients aged 12 to 17 years with moderate to severe plaque psoriasis in a multicentre, phase 3, randomised, double-blind, placebo-controlled study (CADMUS). Patients were randomised to receive either placebo (n = 37), or the recommended dose of ustekinumab (see section 4.2; n = 36) or half of the recommended dose of ustekinumab (n = 37) by subcutaneous injection at weeks 0 and 4 followed by every 12 week (q12w) dosing. At week 12, placebo-treated patients crossed over to receive ustekinumab.
 
 Patients with PASI ≥ 12, PGA ≥ 3 and BSA involvement of at least 10%, who were candidates for systemic therapy or phototherapy, were eligible for the study. Approximately 60% of the patients had prior exposure to conventional systemic therapy or phototherapy. Approximately 11% of the patients had prior exposure to biologics.
 
-The primary endpoint was the proportion of patients who achieved a PGA score of cleared (0) or minimal (1) at week 12. Secondary endpoints included PASI 75, PASI 90, change from baseline in Children's Dermatology Life Quality Index (CDLQI), change from baseline in the total scale score of PedsQL (Paediatric Quality of Life Inventory) at week 12. At week 12, subjects treated with ustekinumab showed significantly greater improvement in their psoriasis and health-related quality of life compared with placebo (Table 7).
+The primary endpoint was the proportion of patients who achieved a PGA score of cleared (0) or minimal (1) at week 12. Secondary endpoints included PASI 75, PASI 90, change from baseline in Children's Dermatology Life Quality Index (CDLQI), change from baseline in the total scale score of PedsQL (Paediatric Quality of Life Inventory) at week 12. At week 12, patients treated with ustekinumab showed significantly greater improvement in their psoriasis and health-related quality of life compared with placebo (Table 12).
 
-All patients were followed for efficacy for up to 52 weeks following first administration of study agent. The proportion of patients with a PGA score of cleared (0) or minimal (1) and the proportion achieving PASI 75 showed separation between the ustekinumab treated group and placebo at the first post-baseline visit at week 4, reaching a maximum by week 12. Improvements in PGA, PASI, CDLQI and PedsQL were maintained through week 52 (Table 7).
+All patients were followed for efficacy for up to 52 weeks following first administration of study agent. The proportion of patients with a PGA score of cleared (0) or minimal (1) and the proportion achieving PASI 75 showed separation between the ustekinumab treated group and placebo at the first post-baseline visit at week 4, reaching a maximum by week 12. Improvements in PGA, PASI, CDLQI and PedsQL were maintained through week 52 (Table 12).
 
-Table 7 Summary of primary and secondary endpoints at week 12 and week 52
+Table 12: Summary of primary and secondary endpoints at week 12 and week 52
 
 | Paediatric psoriasis study (CADMUS) (Age 12-17)   | Paediatric psoriasis study (CADMUS) (Age 12-17)   | Paediatric psoriasis study (CADMUS) (Age 12-17)   | Paediatric psoriasis study (CADMUS) (Age 12-17)   |
 |---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
@@ -1409,11 +1651,11 @@ The efficacy of ustekinumab was studied in 44 paediatric patients aged 6 to 11 y
 
 Patients with PASI ≥ 12, PGA ≥ 3 and BSA involvement of at least 10%, who were candidates for systemic therapy or phototherapy, were eligible for the study. Approximately 43% of the patients had prior exposure to conventional systemic therapy or phototherapy. Approximately 5% of the patients had prior exposure to biologics.
 
-The primary endpoint was the proportion of patients who achieved a PGA score of cleared (0) or minimal (1) at week 12. Secondary endpoints included PASI 75, PASI 90, and change from baseline in Children's Dermatology Life Quality Index (CDLQI) at week 12. At week 12, subjects treated with ustekinumab showed clinically meaningful improvements in their psoriasis and health-related quality of life (Table 8).
+The primary endpoint was the proportion of patients who achieved a PGA score of cleared (0) or minimal (1) at week 12. Secondary endpoints included PASI 75, PASI 90, and change from baseline in Children's Dermatology Life Quality Index (CDLQI) at week 12. At week 12, patients treated with ustekinumab showed clinically meaningful improvements in their psoriasis and health-related quality of life (Table 13).
 
-All patients were followed for efficacy for up to 52 weeks following first administration of study agent. The proportion of patients with a PGA score of cleared (0) or minimal (1) at week 12 was 77.3%. Efficacy (defined as PGA 0 or 1) was observed as early as the first post-baseline visit at week 4 and the proportion of subjects who achieved a PGA score of 0 or 1 increased through week 16 and then remained relatively stable through week 52. Improvements in PGA, PASI, and CDLQI were maintained through week 52 (Table 8).
+All patients were followed for efficacy for up to 52 weeks following first administration of study agent. The proportion of patients with a PGA score of cleared (0) or minimal (1) at week 12 was 77.3%. Efficacy (defined as PGA 0 or 1) was observed as early as the first post-baseline visit at week 4 and the proportion of subjects who achieved a PGA score of 0 or 1 increased through week 16 and then remained relatively stable through week 52. Improvements in PGA, PASI, and CDLQI were maintained through week 52 (Table 13).
 
-Table 8 Summary of primary and secondary endpoints at week 12 and week 52
+Table 13 Summary of primary and secondary endpoints at week 12 and week 52
 
 | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   |
 |------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
@@ -1438,285 +1680,59 @@ Table 8 Summary of primary and secondary endpoints at week 12 and week 52
 
 a CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin problem on the health-related quality of life in the paediatric population. CDLQI of 0 or 1 indicates no effect on child's quality of life.
 
-## Crohn's Disease
-
-The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
-
-The induction studies included 1409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
-
-Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNF  therapy and 52% had failed 2 or 3 prior anti-TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
-
-Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNF-α naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
-
-In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 9). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
-
-Table 9: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
-
-|                                       | UNITI-1 *       | UNITI-1 *                                | UNITI-2 **      | UNITI-2 **                               |
-|---------------------------------------|-----------------|------------------------------------------|-----------------|------------------------------------------|
-|                                       | Placebo N = 247 | Recommende d dose of ustekinumab N = 249 | Placebo N = 209 | Recommende d dose of ustekinumab N = 209 |
-| Clinical Remission, week 8            | 18 (7.3%)       | 52 (20.9%) a                             | 41 (19.6%)      | 84 (40.2%) a                             |
-| Clinical Response (100 point), week 6 | 53 (21.5%)      | 84 (33.7%) b                             | 60 (28.7%)      | 116 (55.5%) a                            |
-| Clinical Response (100 point), week 8 | 50 (20.2%)      | 94 (37.8%) a                             | 67 (32.1%)      | 121 (57.9%) a                            |
-| 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                            | 66 (31.6%)      | 106 (50.7%) a                            |
-| 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                            | 81 (38.8%)      | 135 (64.6%) a                            |
-
-<div style=\"page-break-after: always\"></div>
-
-Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission
-
-70 point response is defined as reduction in CDAI score by at least 70 points
-
-* Anti-TNFα failures
-- ** Conventional therapy failures
-- a p &lt; 0.001
-- b p &lt; 0.01
-
-The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2).
-
-Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 10).
-
-Table 10: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
-
-|                                                  | Placebo* N = 131 †   | 90 mg ustekinumab every 8 weeks N = 128 †   | 90 mg ustekinumab every 12 weeks N = 129 †   |
-|--------------------------------------------------|----------------------|---------------------------------------------|----------------------------------------------|
-| Clinical Remission                               | 36%                  | 53% a                                       | 49% b                                        |
-| Clinical Response                                | 44%                  | 59% b                                       | 58% b                                        |
-| Corticosteroid-Free Clinical Remission           | 30%                  | 47% a                                       | 43% c                                        |
-| Clinical Remission in patients:                  |                      |                                             |                                              |
-| in remission at the start of maintenance therapy | 46% (36/79)          | 67% (52/78) a                               | 56% (44/78)                                  |
-| who entered from study CRD3002 ‡                 | 44% (31/70)          | 63% (45/72) c                               | 57% (41/72)                                  |
-| who are Anti-TNFα naïve                          | 49% (25/51)          | 65% (34/52) c                               | 57% (30/53)                                  |
-| who entered from study CRD3001 §                 | 26% (16/61)          | 41% (23/56)                                 | 39% (22/57)                                  |
-
-Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
-
-* The placebo group consisted of patients who were in response to ustekinumab and were 41andomized to receive placebo at the start of maintenance therapy.
-- † Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy
-- ‡ Patients who failed conventional therapy but not anti-TNFα therapy
-- § Patients who are anti-TNFα refractory/intolerant
-- a p &lt; 0.01
-- b p &lt; 0.05
-- c nominally significant (p &lt; 0.05)
-
-In IM-UNITI, 29 of 129 patients did not maintain response to ustekinumab when treated every 12 weeks and were allowed to dose adjust to receive ustekinumab every 8 weeks. Loss of response was defined as a CDAI score ≥ 220 points and a ≥ 100 point increase from the CDAI score at baseline. In these patients, clinical remission was achieved in 41.4% of patients 16 weeks after dose adjustment.
-
-Patients who were not in clinical response to ustekinumab induction at week 8 of the UNITI-1 and UNITI-2 induction studies (476 patients) entered into the non-randomised portion of the maintenance study (IM-UNITI) and received a 90 mg subcutaneous injection of ustekinumab at that time. Eight weeks later, 50.5% of the patients achieved clinical response and continued to receive maintenance dosing every 8 weeks; among these patients with continued maintenance dosing, a majority maintained response (68.1%) and achieved remission (50.2%) at week 44, at proportions that were similar to the patients who initially responded to ustekinumab induction.
-
-<div style=\"page-break-after: always\"></div>
-
-Of 131 patients who responded to ustekinumab induction, and were randomised to the placebo group at the start of the maintenance study, 51 subsequently lost response and received 90 mg ustekinumab subcutaneously every 8 weeks. The majority of patients who lost response and resumed ustekinumab did so within 24 weeks of the induction infusion. Of these 51 patients, 70.6% achieved clinical response and 39.2% percent achieved clinical remission 16 weeks after receiving the first subcutaneous dose of ustekinumab.
-
-In IM-UNITI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 567 patients who entered on and were treated with ustekinumab in the study extension, clinical remission and response were generally maintained through week 252 for both patients who failed TNF-therapies and those who failed conventional therapies.
-
-No new safety concerns were identified in this study extension with up to 5 years of treatment in patients with Crohn's Disease.
-
-## Endoscopy
-
-Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
-
-## Fistula Response
-
-In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
-
-## Health-related quality of life
-
-Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
-
-## Ulcerative colitis
-
-The safety and efficacy of ustekinumab was assessed in two randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥ 2). The clinical development program consisted of one intravenous induction study (referred to as UNIFI-I) with treatment of up to 16 weeks followed by a 44 week subcutaneous randomised withdrawal maintenance study (referred to as UNIFI-M) representing at least 52 weeks of therapy.
-
-Efficacy results presented for UNIFI-I and UNIFI-M were based on central review of endoscopies.
-
-UNIFI-I included 961 patients. The primary endpoint for the induction study was the proportion of subjects in clinical remission at week 8. Patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
-
-<div style=\"page-break-after: always\"></div>
-
-Concomitant doses of oral corticosteroids, immunomodulators, and aminosalicylates were permitted and 90% of patients continued to receive at least one of these medications. Enrolled patients had to have failed conventional therapy (corticosteroids or immunomodulators) or at least one biologic (a TNFα antagonist and/or vedolizumab). 49% of patients had failed conventional therapy, but not a biologic (of which 94% where biological-naïve). 51% of patients had failed or were intolerant to a biologic. Approximately 50% of the patients had failed at least 1 prior anti-TNF  therapy (of which 48% were primary non-responders) and 17% had failed at least 1 anti-TNFα therapy and vedolizumab.
-
-In UNIFI-I a significantly greater proportion of patients were in clinical remission in the ustekinumab treated group compared to placebo at week 8 (Table 11). As early as Week 2, the earliest scheduled study visit, and at each visit thereafter, a higher proportion of ustekinumab patients had no rectal bleeding or achieved normal stool frequency as compared with placebo patients. Significant differences in partial Mayo score and symptomatic remission were observed between ustekinumab and placebo as early as Week 2.
-
-Efficacy was higher in the tiered dose group (6 mg/kg) compared to the 130 mg dose group in select endpoints, and tiered dosing is therefore the recommended intravenous induction dose.
-
-Table 11: Summary of Key Efficacy Outcomes in UNIFI-I (Week 8)
-
-|                                                                 | Placebo N = 319   | Recommended dose of ustekinumab £ N = 322   |
-|-----------------------------------------------------------------|-------------------|---------------------------------------------|
-| Clinical Remission*                                             | 5%                | 16% a                                       |
-| In patients who failed conventional therapy, but not a biologic | 9% (15/158)       | 19% (29/156) c                              |
-| In patients who failed biological therapy ¥                     | 1% (2/161)        | 13% (21/166) b                              |
-| In patients who failed both a TNF and vedolizumab               | 0% (0/47)         | 10% (6/58%) c                               |
-| Clinical Response §                                             | 31%               | 62% a                                       |
-| In patients who failed conventional therapy, but not a biologic | 35% (56/158)      | 67% (104/156) b                             |
-| In patients who failed biological therapy ¥                     | 27% (44/161)      | 57% (95/166) b                              |
-| In patients who failed both a TNF and vedolizumab               | 28% (13/47)       | 52% (30/58) c                               |
-| Mucosal Healing †                                               | 14%               | 27% a                                       |
-| In patients who failed conventional therapy, but not a biologic | 21% (33/158)      | 33% (52/156) c                              |
-| In patients who failed biological therapy                       | 7% (11/161)       | 21% (35/166) b                              |
-| Symptomatic Remission ‡                                         | 23%               | 45% b                                       |
-| Combined Symptomatic Remission and Mucosal Healing ⸸            | 8%                | 21% b                                       |
-
-£ Infusion dose of ustekinumab using the weight-based dosage regimen specified in Table 1 .
-
-* Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
-
-§ Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
-
-- ¥ A TNFα antagonist and/or vedolizumab.
-- † Mucosal healing is defined as a Mayo endoscopic subscore of 0 or 1.
-- ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
-- ⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
-- a p &lt; 0.001
-- b Nominally significant (p &lt; 0.001)
-- c Nominally significant (p &lt; 0.05)
-
-UNIFI-M, evaluated 523 patients who achieved clinical response with single IV administration of ustekinumab in UNIFI-I. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC).
-
-<div style=\"page-break-after: always\"></div>
-
-Significantly greater proportions of patients were in clinical remission in both ustekinumab treated groups compared to the placebo group at week 44 (see Table 12).
-
-Table 12: Summary of Key Efficacy Measures in UNIFI-M (week 44; 52 weeks from initiation of the induction dose)
-
-|                                                                 | Placebo* N = 175   | 90 mg ustekinumab every 8 Weeks N = 176   | 90 mg ustekinumab every 12 Weeks N = 172   |
-|-----------------------------------------------------------------|--------------------|-------------------------------------------|--------------------------------------------|
-| Clinical Remission**                                            | 24%                | 44% a                                     | 38% b                                      |
-| In patients who failed conventional therapy, but not a biologic | 31% (27/87)        | 48% (41/85) d                             | 49% (50/102) d                             |
-| In patients who failed biological therapy ¥                     | 17% (15/88)        | 40% (36/91) c                             | 23% (16/70) d                              |
-| In patients who failed both a TNF and vedolizumab               | 15% (4/27)         | 33% (7/21) e                              | 23% (5/22) e                               |
-| Maintenance of Clinical Response through week 44 §              | 45%                | 71% a                                     | 68% a                                      |
-| In patients who failed conventional therapy, but not a biologic | 51% (44/87)        | 78% (66/85) c                             | 77% (78/102) c                             |
-| In patients who failed biological therapy ¥                     | 39% (34/88)        | 65% (59/91) c                             | 56% (39/70) d                              |
-| In patients who failed both a TNF and vedolizumab               | 41% (11/27)        | 67% (14/21) e                             | 50% (11/22) e                              |
-| Mucosal Healing †                                               | 29%                | 51% a                                     | 44% b                                      |
-| Maintenance of Clinical Remission through week 44 £             | 38% (17/45)        | 58% (22/38)                               | 65% (26/40) c                              |
-| Corticosteroid Free Clinical Remission €                        | 23%                | 42% a                                     | 38% b                                      |
-| Durable Remission ǁ                                             | 35%                | 57% c                                     | 48% d                                      |
-| Symptomatic Remission ‡                                         | 45%                | 68% c                                     | 62% d                                      |
-| Combined Symptomatic Remission and Mucosal Healing ⸸            | 28%                | 48% c                                     | 41% d                                      |
-
-* Following response to IV ustekinumab.
-
-** Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
-
-§ Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
-
-¥ A TNFα antagonist and/or vedolizumab.
-
-- † Mucosal healing is defined as a Mayo endoscopic sub-score of 0 or 1.
-- £ Maintenance of clinical remission through Week 44 is defined as patients in clinical remission through Week 44 among patients in clinical remission at maintenance baseline.
-- € Corticosteroid-free clinical remission is defined as patients in clinical remission and not receiving corticosteroids at Week 44.
-- ǁ Durable Remission is defined as partial Mayo remission at ≥80% of all visits prior to Week 44 and in partial Mayo remission at last visit (Week 44).
-- ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
-- ⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
-- a p &lt; 0.001
-- b p &lt; 0.05
-- c Nominally significant (p &lt; 0.001)
-- d Nominally significant (p &lt; 0.05)
-- e Not statistically significant
-
-The beneficial effect of ustekinumab on clinical response, mucosal healing and clinical remission was observed in induction and in maintenance both in patients who failed conventional therapy but not a biologic therapy, as well as in those who had failed at least one prior TNFα antagonist therapy including in patients with a primary non-response to TNFα antagonist therapy. A beneficial effect was also observed in induction in patients who failed at least one prior TNFα antagonist therapy and
-
-<div style=\"page-break-after: always\"></div>
-
-vedolizumab, however the number of patients in this subgroup was too small to draw definitive conclusions about the beneficial effect in this group during maintenance.
-
-## Week 16 Responders to Ustekinumab Induction
-
-Ustekinumab treated patients who were not in response at week 8 of UNIFI-I received an administration of 90 mg SC ustekinumab at week 8 (36% of patients). Of those patients, 9% of patients who were initially randomised to the recommended induction dose achieved clinical remission and 58% achieved clinical response at Week 16.
-
-Patients who were not in clinical response to ustekinumab induction at week 8 of the UNFI-I study but were in response at week 16 (157 patients) entered into the non-randomised portion of UNIFI-M and continued to receive maintenance dosing every 8 weeks; among these patients, a majority (62%) maintained response and 30% achieved remission at week 44.
-
-## Study Extension
-
-In UNIFI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 400 patients who entered on and were treated with ustekinumab every 12 or 8 weeks in the study extension, symptomatic remission was generally maintained through week 200 for patients who failed conventional therapy (but not a biologic therapy) and those who failed biologic therapy, including those who failed both anti-TNF and vedolizumab. Among patients who received 4 years of ustekinumab treatment and were assessed using the full Mayo score at maintenance week 200, 74.2% (69/93) and 68.3% (41/60) maintained mucosal healing and clinical remission, respectively.
-
-The safety analysis including 457 patients (1289.9 person-years) followed up to 220 weeks showed a safety profile between week 44 and 220 that was comparable with that observed up to week 44.
-
-No new safety concerns were identified in this study extension with up to 4 years of treatment in patients with ulcerative colitis.
-
-## Endoscopic Normalisation
-
-Endoscopic normalisation was defined as a Mayo endoscopic subscore of 0 and was observed as early as week 8 of UNIFI-I. At week 44 of UNIFI-M, it was achieved in 24% and 29% of patients treated with ustekinumab every 12 or 8 weeks, respectively, as compared to 18% of patients in the placebo group.
-
-## Histologic &amp; Histo-Endoscopic Mucosal Healing
-
-Histologic healing (defined as neutrophil infiltration in &lt; 5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue) was assessed at week 8 of UNIFI-I and Week 44 of UNIFI-M. At week 8, after a single intravenous induction dose, significantly greater proportions of patients in the recommended dose group achieved histologic healing (36%) compared with patients in the placebo group (22%). At Week 44 maintenance of this effect was observed with significantly more patients in histologic healing in the every 12 week (54%) and every 8 week (59%) ustekinumab groups as compared to placebo (33%).
-
-A combined endpoint of histo-endoscopic mucosal healing defined as subjects having both mucosal healing and histologic healing was evaluated at week 8 of UNIFI-I and week 44 of UNIFI-M. Patients receiving ustekinumab at the recommended dose showed significant improvements on the histoendoscopic mucosal healing endpoint at week 8 in the ustekinumab group (18%) as compared to the placebo group (9%). At week 44, maintenance of this effect was observed with significantly more patients in histo-endoscopic mucosal healing in the every 12 week (39%) and every 8 week (46%) ustekinumab groups as compared to placebo (24%).
-
-## Health-related quality of life
-
-Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), SF-36 and EuroQoL-5D (EQ-5D) questionnaires.
-
-<div style=\"page-break-after: always\"></div>
-
-At week 8 of UNIFI-I, patients receiving ustekinumab showed significantly greater and clinically meaningful improvements on IBDQ total score, EQ-5D and EQ-5D VAS, and SF-36 Mental Component Summary Score and SF-36 Physical Component Summary Score when compared to placebo. These improvements were maintained in ustekinumab-treated patients in UNIFI-M through week 44. Improvement in health-related quality of life as measured by IBDQ and SF-36 was generally maintained during the extension through week 200.
-
-Patients receiving ustekinumab experienced significantly more improvements in work productivity as assessed by greater reductions in overall work impairment and in activity impairment as assessed by the WPAI-GH questionnaire than patients receiving placebo.
-
-## Hospitalisations and ulcerative colitis (UC) related surgeries
-
-Through week 8 of UNIFI-I, the proportions of subjects with UC disease related hospitalisations were significantly lower for subjects in the ustekinumab recommended dose group (1.6%, 5/322) compared with subjects in the placebo group (4.4%, 14/319) and no subjects underwent UC disease related surgeries in subjects receiving ustekinumab at the recommended induction dose compared to 0.6% (2/319) subjects in the placebo group.
-
-Through week 44 of UNIFI-M, a significantly lower number of UC-related hospitalisations was observed in subjects in the combined ustekinumab group (2.0%, 7/348) as compared with subjects in the placebo group (5.7%, 10/175). A numerically lower number of subjects in the ustekinumab group (0.6%, 2/348) underwent UC disease related surgeries compared with subjects in the placebo group (1.7%, 3/175) through week 44.
-
-## Immunogenicity
-
-Antibodies to ustekinumab may develop during ustekinumab treatment and most are neutralising. The formation of anti-ustekinumab antibodies is associated with both increased clearance and reduced efficacy of ustekinumab, except in patients with Crohn's disease or ulcerative colitis where no reduced efficacy was observed. There is no apparent correlation between the presence of anti-ustekinumab antibodies and the occurrence of injection site reactions.
-
-## Paediatric population
-
-The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in Crohn's Disease and ulcerative colitis (see section 4.2 for information on paediatric use).
-
 ## Paediatric Crohn's disease
 
-The safety and efficacy of ustekinumab was evaluated in 48 paediatric patients weighing at least 40 kg, in an interim analysis of a multicentre phase 3 study (UNITI-Jr) for paediatric patients with moderately to severely active Crohn's disease (defined by a Paediatric Crohn's Disease Activity Index [PCDAI] score &gt;30) through 52 weeks of treatment (8 weeks of induction and 44 weeks of maintenance treatment). Patients included in the study either had not adequately responded to or had not tolerated prior biologic therapy or conventional therapy for Crohn's disease. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab administered either every 8 weeks or every 12 weeks.
+The safety and efficacy of ustekinumab was evaluated in 101 paediatric patients 2 years and older and weighing at least 10 kg  in a multicentre phase 3 study (UNITI-Jr) for paediatric patients with moderately to severely active Crohn's disease (defined by a Paediatric Crohn's Disease Activity Index [PCDAI] score &gt;30) through 48 weeks of treatment (8 weeks of induction and 40 weeks of maintenance treatment). The study enrolled 2 patients between 2 to 5 years old and 18 patients between 6 to 11 years old; 29 patients weighed less than 40 kg, including 11 patients who weighed less than 30 kg. Patients included in the study either had not adequately responded to or had not tolerated prior biologic therapy or conventional therapy for Crohn's disease. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (patients weighing at least 40 kg) or 250 mg/m 2 (patients weighing less than 40 kg, based on BSA) (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab (patients weighing at least 40 kg) or 60 mg/m 2 (patients weighing less than 40 kg, based on BSA) (see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection prefilled syringe SmPC) administered either every 8 weeks or every 12 weeks.
 
 ## Efficacy results
 
-The primary endpoint of the study was clinical remission at induction week 8 (defined as PCDAI score ≤ 10). The proportion of patients who achieved clinical remission was 52.1% (25/48) and is comparable to that observed in the adult ustekinumab phase 3 studies.
+The primary endpoint of the study was clinical remission at induction week 8 (defined as PCDAI score ≤ 10). The proportion of patients who achieved clinical remission was 46.5% (47/101) and is comparable to that observed in the adult ustekinumab phase 3 studies.
 
-Clinical response was observed as early as week 3. The proportion of patients in clinical response at week 8 (defined as a reduction from baseline in the PCDAI score of &gt;12.5 points with a total PCDAI score not more than 30) was 93.8% (45/48).
+Clinical response was observed as early as week 3. The proportion of patients in clinical response at week 8 (defined as a reduction from baseline in the PCDAI score of &gt;12.5 points with a total PCDAI score not more than 30) was 84.2% (85/101).
 
-Table 13 presents the analyses for the secondary endpoints through maintenance week 44.
+Of the 101 patients who received IV induction treatment, 97 (96.0%) entered the maintenance period of which 85 were induction responders.
 
-<div style=\"page-break-after: always\"></div>
+Table 14 presents the analyses for the secondary endpoints through maintenance week 44.
 
-Table 13: Summary of Secondary endpoints through Maintenance week 44
+Table 14: Summary of secondary endpoints through maintenance week 44
 
-|                                                                                      | 90 mg ustekinumab every 8 weeks N = 23   | 90 mg ustekinumab every 12 weeks N = 25   | Total number of patients N = 48   |
-|--------------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------|-----------------------------------|
-| Clinical Remission *                                                                 | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
-| Corticosteroid-free Clinical Remission §                                             | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
-| Clinical remission for patients who were in clinical remission at induction week 8 * | 64.3% (9/14)                             | 54.5% (6/11)                              | 60.0% (15/25)                     |
-| Clinical Response †                                                                  | 52.2% (12/23)                            | 60.0% (15/25)                             | 56.3% (27/48)                     |
-| Endoscopic response £                                                                | 22.7% (5/22)                             | 28.0% (7/25)                              | 25.5% (12/47)                     |
+|                                                                                      | 90 mg or 60 mg/m 2 ustekinumab every 8 weeks N = 41   | 90 mg or 60 mg/m 2 ustekinumab every 12 weeks N = 44   | Total number of patients N = 85   |
+|--------------------------------------------------------------------------------------|-------------------------------------------------------|--------------------------------------------------------|-----------------------------------|
+| Clinical Remission *                                                                 | 48.8% (20/41)                                         | 59.1% (26/44)                                          | 54.1% (46/85)                     |
+| Corticosteroid-free Clinical Remission §                                             | 46.3% (19/41)                                         | 59.1% (26/44)                                          | 52.9% (45/85)                     |
+| Clinical remission for patients who were in clinical remission at induction week 8 * | 73.9% (17/23)                                         | 62.5% (15/24)                                          | 68.1% (32/47)                     |
+| Clinical Response †                                                                  | 56.1% (23/41)                                         | 63.6% (28/44)                                          | 60.0% (51/85)                     |
+| Endoscopic response £                                                                | 25.0% (10/40)                                         | 30.2% (13/43)                                          | 27.7% (23/83)                     |
 
-*
+* Clinical remission is defined as PCDAI score ≤10 points.
 
-Clinical remission is defined as PCDAI score ≤10 points.
-
-§ Corticosteroid-free remission is defined as PCDAI score of ≤10 points and not receiving corticosteroids for at least 90 days prior to Week M-44.
+§ Corticosteroid-free remission is defined as PCDAI score of ≤10 points and not receiving corticosteroids for at least 90 days prior to maintenance week 44.
 
 † Clinical response is defined as a reduction from baseline in the PCDAI score of ≥12.5 points with a total PCDAI score not more than 30.
+
+<div style=\"page-break-after: always\"></div>
 
 £ Endoscopic response is defined as a reduction in the SES-CD score of ≥50% or SES-CD score ≤2, in patients with a baseline SES-CD score of ≥3.
 
 ## Dosing frequency adjustment
 
-Patients who entered the maintenance regimen and experienced loss of response (LOR) based on PCDAI score were eligible for dose adjustment. Patients were either switched from treatment every 12 weeks to every 8 weeks or stayed on treatment every 8 weeks (sham adjustment). 2 patients were dose adjusted to the shorter dosing interval. In these patients, clinical remission was achieved in 100% (2/2) of patients 8 weeks after dose adjustment.
+Patients who entered the maintenance regimen and experienced loss of response based on PCDAI score were eligible for dose adjustment. Patients were either switched from treatment every 12 weeks to every 8 weeks or stayed on treatment every 8 weeks (sham adjustment). 2 patients were dose adjusted to the shorter dosing interval. In these patients, clinical remission was achieved in 100% (2/2) of patients 8 weeks after dose adjustment.
 
-The safety profile of the induction dose regimen and both maintenance dose regimens in the paediatric population weighing at least 40 kg is comparable with that established in the adult Crohn's disease population (see Section 4.8).
+Patients on both treatment regimens (treatment every 12 weeks or 8 weeks) who did not respond by maintenance week 8 or who lost response and had low levels of ustekinumab (steady state of 8-week ustekinumab trough concentration &lt;1.4 µg/mL) were eligible to enrol in an optional Exposure Optimisation Substudy. This open-label sub study was a minimum of 16 weeks with a subcutaneous maintenance regimen of 90 mg ustekinumab or 60 mg/m 2 (based on BSA) administered every 4 weeks. A total of 26 patients enrolled in the sub study. Among participating patients, 11 (42.3%) transitioned from 12-weekly to 4-weekly dosing, and 15 (57.7%) transitioned from 8-weekly to 4weekly dosing. At 16 weeks, after dosing frequency was changed, 95.0 % (19/20) of evaluable patients were in clinical response and 50.0% (10/20) were in clinical remission.
+
+The safety profile of the induction dose regimen and both maintenance dose regimens in the paediatric population 2 years and older is comparable with that established in the adult Crohn's disease population (see section 4.8).
 
 ## Serum and faecal inflammatory biomarkers
 
-The mean change from baseline at maintenance week 44 in C-Reactive protein (CRP) and faecal calprotectin concentrations were -11.17 mg/L (24.159) and -538.2 mg/kg (1271.33), respectively.
+The mean (SD) change from baseline at maintenance week 44 in C-Reactive protein (CRP) and faecal calprotectin concentrations were -6.65 (18.609) mg/L and -716.9 (2597.66) mg/kg, respectively.
 
 ## Health-related quality of life
 
 The total IMPACT-III scores and all subdomains (bowel symptoms, fatigue-related systemic symptoms, and well-being) demonstrated clinically meaningful improvements after 52 weeks.
+
+## Paediatric population
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in juvenile idiopathic arthritis and ulcerative colitis (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1730,11 +1746,11 @@ The absolute bioavailability of ustekinumab following a single subcutaneous admi
 
 Median volume of distribution during the terminal phase (Vz) following a single intravenous administration to patients with psoriasis ranged from 57 to 83 mL/kg.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Biotransformation
 
 The exact metabolic pathway for ustekinumab is unknown.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Elimination
 
@@ -1756,11 +1772,9 @@ In a population pharmacokinetic analysis using data from patients with psoriasis
 
 ## Dosing frequency adjustment
 
-In patients with Crohn's disease and ulcerative colitis, based on observed data and population PK analyses, randomised subjects who lost response to treatment had lower serum ustekinumab concentrations over time compared with subjects who did not lose response. In Crohn's disease, dose adjustment from 90 mg every 12 weeks to 90 mg every 8 weeks was associated with an increase in trough serum ustekinumab concentrations and an accompanying increase in efficacy. In ulcerative colitis, population PK model based simulations demonstrated that adjusting dosing from 90 mg every 12 weeks to every 8 weeks would be expected to result in a 3-fold increase in steady-state trough
+In patients with Crohn's disease and ulcerative colitis, based on observed data and population PK analyses, randomised subjects who lost response to treatment had lower serum ustekinumab concentrations over time compared with subjects who did not lose response. In Crohn's disease, dose adjustment from 90 mg every 12 weeks to 90 mg every 8 weeks was associated with an increase in trough serum ustekinumab concentrations and an accompanying increase in efficacy. In ulcerative colitis, population PK model based simulations demonstrated that adjusting dosing from 90 mg every 12 weeks to every 8 weeks would be expected to result in a 3-fold increase in steady-state trough ustekinumab concentrations. Additionally on the basis of clinical trial data in patients with ulcerative colitis, a positive exposure-response relationship was established between trough concentrations, and clinical remission and mucosal healing.
 
 <div style=\"page-break-after: always\"></div>
-
-ustekinumab concentrations. Additionally on the basis of clinical trial data in patients with ulcerative colitis, a positive exposure-response relationship was established between trough concentrations, and clinical remission and mucosal healing.
 
 ## Special populations
 
@@ -1774,25 +1788,29 @@ In the population pharmacokinetic analysis, there were no indications of an effe
 
 The bioavailability of ustekinumab following administration by syringe or pre-filled pen was comparable.
 
-Serum ustekinumab concentrations in paediatric psoriasis patients 6 to 17 years of age, treated with the recommended weight-based dose were generally comparable to those in the adult psoriasis population treated with the adult dose. Serum ustekinumab concentrations in paediatric psoriasis patients 12-17 years of age (CADMUS) treated with half of the recommended weight-based dose were generally lower than those in adults.
-
-The steady-state serum concentrations in paediatric patients with Crohn's disease weighing at least 40 kg were comparable to those in the adult Crohn's disease population.
-
 ## Regulation of CYP450 enzymes
 
 The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4; see section 4.5).
 
 A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conducted to evaluate the effect of ustekinumab on cytochrome P450 enzyme activities following induction and maintenance dosing in patients with active Crohn's disease (n=18). No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosing in patients with Crohn's disease (see section 4.5).
 
+## Paediatric population
+
+Serum ustekinumab concentrations in paediatric psoriasis patients 6 to 17 years of age, treated with the recommended weight-based dose were generally comparable to those in the adult psoriasis population treated with the adult dose. Serum ustekinumab concentrations in paediatric psoriasis patients 12-17 years of age (CADMUS) treated with half of the recommended weight-based dose were generally lower than those in adults.
+
+The steady-state serum concentrations in paediatric patients with Crohn's disease 2 years and older and weighing at least 10 kg were comparable to those in the adult Crohn's disease population.
+
+Patients who had loss of response and low ustekinumab levels were dose adjusted to maintenance treatment every 4 weeks. Serum ustekinumab concentrations increased following dose escalation and were within the range of the concentrations at the approved recommended dose in adults treated every 8 weeks.
+
 ## 5.3 Preclinical safety data
 
-Non-clinical data reveal no special hazard (e.g. organ toxicity) for humans based on studies of repeated-dose toxicity and developmental and reproductive toxicity, including safety pharmacology evaluations. In developmental and reproductive toxicity studies in cynomolgus monkeys, neither adverse effects on male fertility indices nor birth defects or developmental toxicity were observed. No adverse effects on female fertility indices were observed using an analogous antibody to IL-12/23 in mice.
-
-Dose levels in animal studies were up to approximately 45-fold higher than the highest equivalent
+Non-clinical data reveal no special hazard (e.g. organ toxicity) for humans based on studies of repeated-dose toxicity and developmental and reproductive toxicity, including safety pharmacology evaluations. In developmental and reproductive toxicity studies in cynomolgus monkeys, neither adverse effects on male fertility indices nor birth defects or developmental toxicity were observed. No
 
 <div style=\"page-break-after: always\"></div>
 
-dose intended to be administered to psoriasis patients and resulted in peak serum concentrations in monkeys that were more than 100-fold higher than observed in humans.
+adverse effects on female fertility indices were observed using an analogous antibody to IL-12/23 in mice.
+
+Dose levels in animal studies were up to approximately 45-fold higher than the highest equivalent dose intended to be administered to psoriasis patients and resulted in peak serum concentrations in monkeys that were more than 100-fold higher than observed in humans.
 
 Carcinogenicity studies were not performed with ustekinumab due to the lack of appropriate models for an antibody with no cross-reactivity to rodent IL-12/23 p40.
 
@@ -1800,15 +1818,7 @@ Carcinogenicity studies were not performed with ustekinumab due to the lack of a
 
 ## 6.1 List of excipients
 
-L-histidine
-
-L-histidine monohydrochloride monohydrate
-
-Polysorbate 80 (E433)
-
-Sucrose
-
-Water for injections
+L-histidine L-histidine monohydrochloride monohydrate Polysorbate 80 (E433) Sucrose Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -1842,11 +1852,11 @@ Keep the vial or pre-filled syringe in the outer carton in order to protect from
 
 0.5 mL solution in a type I glass 2 mL vial closed with a coated butyl rubber stopper.
 
+<div style=\"page-break-after: always\"></div>
+
 ## STELARA 45 mg solution for injection in pre-filled syringe
 
 0.5 mL solution in a type I glass 1 mL syringe with a fixed stainless steel needle and a needle cover containing dry natural rubber (a derivative of latex). The syringe is fitted with a passive safety guard.
-
-<div style=\"page-break-after: always\"></div>
 
 ## STELARA 90 mg solution for injection in pre-filled syringe
 
@@ -1856,7 +1866,7 @@ STELARA is available in a 1 vial pack or a pack of 1 pre-filled syringe.
 
 ## 6.6 Special precautions for disposal and other handling
 
-The solution in the STELARA vial or pre-filled syringe should not be shaken. The solution should be visually inspected for particulate matter or discolouration prior to subcutaneous administration. The solution is clear to slightly opalescent, colourless to light yellow and may contain a few small translucent or white particles of protein. This appearance is not unusual for proteinaceous solutions. The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present. Before administration, STELARA should be allowed to reach room temperature (approximately half an hour). Detailed instructions for use are provided in the package leaflet.
+The vial or pre-filled syringe should not be shaken. The solution should be visually inspected for particulate matter or discolouration prior to subcutaneous administration. The solution is clear to slightly opalescent, colourless to light yellow and may contain a few small translucent or white particles of protein. This appearance is not unusual for proteinaceous solutions. The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present. Before administration, STELARA should be allowed to reach room temperature (approximately half an hour). Detailed instructions for use are provided in the package leaflet.
 
 STELARA does not contain preservatives; therefore any unused medicinal product remaining in the vial and the syringe should not be used. STELARA is supplied as a sterile, single-use vial or singleuse pre-filled syringe. The syringe, needle and vial must never be re-used. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -1882,6 +1892,8 @@ Date of latest renewal: 19 September 2013
 
 ## 10. DATE OF REVISION OF THE TEXT
 
+<div style=\"page-break-after: always\"></div>
+
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
@@ -1896,17 +1908,15 @@ STELARA 45 mg solution for injection in pre-filled pen Each pre-filled pen conta
 
 STELARA 90 mg solution for injection in pre-filled pen Each pre-filled pen contains 90 mg ustekinumab in 1 mL.
 
-Ustekinumab is a fully human IgG1κ monoclonal antibody to interleukin (IL)-12/23 produced in a murine myeloma cell line using recombinant DNA technology.
+Ustekinumab is a fully human IgG1κ monoclonal antibody produced in a murine myeloma cell line using recombinant DNA technology.
 
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-STELARA 45 mg solution for injection in pre-filled pen Solution for injection.
+Solution for injection (injection)
 
-STELARA 90 mg solution for injection in pre-filled pen Solution for injection.
-
-The solution is clear to slightly opalescent, colourless to light yellow.
+The solution is clear to slightly opalescent, colourless to light yellow, with a target pH of 6.0 and approximate osmolality of 314 mOsm/kg.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -1920,17 +1930,15 @@ STELARA is indicated for the treatment of moderate to severe plaque psoriasis in
 
 STELARA, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
 
-## Crohn's Disease
+## Crohn's disease
 
 STELARA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
 
 ## Ulcerative colitis
 
-STELARA is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either
+STELARA is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic.
 
 <div style=\"page-break-after: always\"></div>
-
-conventional therapy or a biologic.
 
 ## 4.2 Posology and method of administration
 
@@ -1954,9 +1962,9 @@ The recommended posology of STELARA is an initial dose of 45 mg administered sub
 
 Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
 
-## Elderly (≥ 65 years)
+## Elderly
 
-No dose adjustment is needed for elderly patients (see section 4.4).
+No dose adjustment is needed for elderly patients (≥ 65 years) (see section 4.4).
 
 ## Renal and hepatic impairment
 
@@ -1964,9 +1972,9 @@ STELARA has not been studied in these patient populations. No dose recommendatio
 
 ## Paediatric population
 
-The safety and efficacy of STELARA in children with psoriasis less than 6 years of age or in children with psoriatic arthritis less than 18 years of age have not yet been established. The pre-filled pen has not been studied in the paediatric population and is not recommended for use in paediatric patients. See section 4.2 of the pre-filled syringe SmPC for posology and method of adminstation in paediatic patients 6 years and older with psoriasis.
+The safety and efficacy of STELARA in children with psoriasis less than 6 years of age or in children with psoriatic arthritis less than 18 years of age have not yet been established. The pre-filled pen has not been studied in the paediatric population and is not recommended for use in paediatric patients. See section 4.2 of the pre-filled syringe SmPC for posology and method of administration in paediatric patients 6 years and older with psoriasis.
 
-## Crohn's Disease and Ulcerative Colitis
+## Crohn's disease and ulcerative colitis
 
 In the treatment regimen, the first dose of STELARA is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC.
 
@@ -1976,9 +1984,9 @@ Patients who have not shown adequate response at 8 weeks after the first subcuta
 
 Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1, section 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 Patients may subsequently be dosed every 8 weeks or every 12 weeks according to clinical judgment (see section 5.1).
+
+<div style=\"page-break-after: always\"></div>
 
 Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after switching to the 8-weekly maintenance dose.
 
@@ -1986,9 +1994,9 @@ Immunomodulators and/or corticosteroids may be continued during treatment with S
 
 In Crohn's disease or Ulcerative Colitis, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
 
-## Elderly (≥ 65 years)
+## Elderly
 
-No dose adjustment is needed for elderly patients (see section 4.4).
+No dose adjustment is needed for elderly patients (≥ 65 years) (see section 4.4).
 
 ## Renal and hepatic impairment
 
@@ -1996,7 +2004,7 @@ STELARA has not been studied in these patient populations. No dose recommendatio
 
 ## Paediatric population
 
-The safety and efficacy of STELARA  for the treatment of Crohn's disease in paediatric patients weighing less than 40 kg or ulcerative colitis in children less than 18 years have not yet been established. No data are available. The pre-filled pen has not been studied in the paediatric population and is not recommended for use in paediatric patients. See section 4.2 of the Concentrate for solution for infusion and pre-filled syringe SmPC for posology and method of administration in paediatric patients weighing at least 40 kg with Crohn's disease.
+The safety and efficacy of STELARA for the treatment of Crohn's disease in paediatric patients less than 2 years or ulcerative colitis in children less than 18 years have not yet been established. No data are available. The pre-filled pen has not been studied in the paediatric population and is not recommended for use in paediatric patients. See section 4.2 of the Concentrate for solution for infusion and pre-filled syringe SmPC for posology and method of administration in paediatric patients 2 years and older with Crohn's disease.
 
 ## Method of administration
 
@@ -2042,11 +2050,7 @@ All patients, in particular those greater than 60 years of age, patients with a 
 
 ## Systemic and respiratory hypersensitivity reactions
 
-## Systemic
-
 Serious hypersensitivity reactions have been reported in the postmarketing setting, in some cases several days after treatment. Anaphylaxis and angioedema have occurred. If an anaphylactic or other serious hypersensitivity reaction occurs, appropriate therapy should be instituted and administration of STELARA should be discontinued (see section 4.8).
-
-## Respiratory
 
 Cases of allergic alveolitis, eosinophilic pneumonia, and non-infectious organising pneumonia have been reported during post-approval use of ustekinumab. Clinical presentations included cough, dyspnoea, and interstitial infiltrates following one to three doses. Serious outcomes have included respiratory failure and prolonged hospitalisation. Improvement has been reported after discontinuation of ustekinumab and also, in some cases, administration of corticosteroids. If infection has been excluded and diagnosis is confirmed, discontinue ustekinumab and institute appropriate treatment (see section 4.8).
 
@@ -2054,11 +2058,13 @@ Cases of allergic alveolitis, eosinophilic pneumonia, and non-infectious organis
 
 Cardiovascular events including myocardial infarction and cerebrovascular accident have been observed in patients with psoriasis exposed to STELARA in a post-marketing observational study. Risk factors for cardiovascular disease should be regularly assessed during treatment with STELARA.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Latex sensitivity
 
-The needle cover inside the bottom cap of the pre-filled pen is manufactured from dry natural rubber (a derivative of latex), which may cause allergic reactions in individuals sensitive to latex.
+The needle cover inside the bottom cap of the pre-filled pen is manufactured from dry natural rubber
+
+<div style=\"page-break-after: always\"></div>
+
+(a derivative of latex), which may cause allergic reactions in individuals sensitive to latex.
 
 ## Vaccinations
 
@@ -2088,17 +2094,17 @@ Cases of lupus-related conditions have been reported in patients treated with us
 
 ## Special populations
 
-## Elderly (≥ 65 years)
+## Elderly
 
-No overall differences in efficacy or safety in patients age 65 and older who received STELARA were
+No overall differences in efficacy or safety in patients age 65 and older who received STELARA were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently
 
 <div style=\"page-break-after: always\"></div>
 
-observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
+from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
-## Polysorbate 80
+## Excipient with known effect
 
-STELARA contains 0.04 mg (90 mg/1.0mL) or 0.02 mg (45 mg/0.5 mL) of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.04 mg/mL. Polysorbates may cause allergic reactions.
+STELARA contains 0.04 mg (90 mg/1.0 mL) or 0.02 mg (45 mg/0.5 mL) of polysorbate 80 (E433) in each dosage unit which is equivalent to 0.04 mg/mL. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -2148,11 +2154,11 @@ STELARA has no or negligible influence on the ability to drive and use machines.
 
 ## Summary of the safety profile
 
-The most common adverse reactions (&gt; 5%) in controlled periods of the adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies with ustekinumab were nasopharyngitis and headache. Most were considered to be mild and did not necessitate discontinuation of study treatment. The most serious adverse reaction that has been reported for STELARA is serious hypersensitivity reactions including anaphylaxis (see section 4.4). The overall safety profile was similar for patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
+The most common adverse reactions in the controlled periods of the adult clinical studies were nasopharyngitis (occurring in 6.9% of ustekinumab-treated patients and 5.4% of patients on placebo) and headache (occurring in 7.0% of ustekinumab-treated patients and 5.2% of patients on placebo). The most serious adverse reaction that has been reported for STELARA is serious hypersensitivity reactions including anaphylaxis (see section 4.4). The overall safety profile was similar for patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
 
 ## Tabulated list of adverse reactions
 
-The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to STELARA in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year (3,648 patients). 2,194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for atleast 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
+The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to STELARA in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year (3,648 patients). 2,194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
 Table 1 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -2190,7 +2196,7 @@ In clinical studies, patients with latent tuberculosis who were concurrently tre
 
 In the placebo-controlled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of follow-up). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
 
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,205 patient-years of exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding non-melanoma skin cancers were reported in 76 patients in 15,205 patient-years of follow-up (incidence of 0.50 per 100 patientyears of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers. The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15,165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
+In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,205 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding nonmelanoma skin cancers were reported in 76 patients in 15,205 patient years of follow up (incidence of 0.50 per 100 patient-years of follow-up for ustekinumab treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than nonmelanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers. The incidence of nonmelanoma skin cancer was 0.46 per 100 patient-years of follow up for ustekinumab-treated patients (69 patients in 15,165 patient years of follow up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
 ## Hypersensitivity reactions
 
@@ -2212,17 +2218,17 @@ Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code:
 
 ## Mechanism of action
 
-Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12R  1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is
+Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12Rβ1 receptor
 
 <div style=\"page-break-after: always\"></div>
 
-already bound to IL-12R  1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
+protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12Rβ1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
 
 By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
 
-In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and fecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
+In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and faecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
 
-In patients with ulcerative colitis, treatment with ustekinumab resulted in a decrease in inflammatory markers including CRP and fecal calprotectin during the induction phase, which was maintained throughout the maintenance phase and study extension through week 200.
+In patients with ulcerative colitis, treatment with ustekinumab resulted in a decrease in inflammatory markers including CRP and faecal calprotectin during the induction phase, which was maintained throughout the maintenance phase and study extension through week 200.
 
 ## Immunisation
 
@@ -2234,19 +2240,21 @@ During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients 
 
 The safety and efficacy of ustekinumab was assessed in 1,996 patients in two randomised, double-blind, placebo-controlled studies in patients with moderate to severe plaque psoriasis and who were candidates for phototherapy or systemic therapy. In addition, a randomised, blinded assessor, active-controlled study compared ustekinumab and etanercept in patients with moderate to severe plaque psoriasis who had had an inadequate response to, intolerance to, or contraindication to ciclosporin, MTX, or PUVA.
 
-Psoriasis Study 1 (PHOENIX 1) evaluated 766 patients. 53% of these patients were either non-responsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 and followed by the same dose every 12 weeks. Patients randomised to receive placebo at Weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at Weeks 12 and 16 followed by dosing every 12 weeks. Patients originally randomised to ustekinumab who achieved Psoriasis Area and Severity Index 75 response (PASI improvement of at least 75% relative to baseline) at both Weeks 28 and 40 were re-randomised to receive ustekinumab every 12 weeks or to placebo (i.e., withdrawal of therapy). Patients who were re-randomised to placebo at week 40 reinitiated ustekinumab at their original dosing regimen when they experienced at least a 50% loss of their PASI improvement obtained at week 40. All patients were followed for up to 76 weeks following first administration of study treatment.
+Psoriasis Study 1 (PHOENIX 1) evaluated 766 patients. 53% of these patients were either non-responsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at weeks 0 and 4 and followed by the same dose every 12 weeks. Patients randomised to receive placebo at weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at weeks 12 and 16 followed by dosing every 12 weeks. Patients originally randomised to ustekinumab who achieved Psoriasis Area and Severity Index 75 response (PASI improvement of at least 75% relative to baseline) at both weeks 28 and 40 were re-randomised to receive ustekinumab every 12 weeks or to placebo (i.e., withdrawal of therapy). Patients who were re-randomised to placebo at week 40 reinitiated ustekinumab at their original dosing regimen when they experienced at least a 50% loss of their PASI improvement obtained at week 40. All patients were followed for up to 76 weeks following first administration of study treatment.
 
-Psoriasis Study 2 (PHOENIX 2) evaluated 1,230 patients. 61% of these patients were either non-responsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 followed by an additional dose at 16 weeks. Patients randomised to receive placebo at Weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at Weeks 12 and 16. All patients were followed for up to 52 weeks following first administration of study treatment.
+Psoriasis Study 2 (PHOENIX 2) evaluated 1,230 patients. 61% of these patients were either non-responsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at weeks 0 and 4 followed by an additional dose at 16 weeks. Patients randomised to receive placebo at weeks 0 and 4 crossed over to receive
 
 <div style=\"page-break-after: always\"></div>
 
-Psoriasis Study 3 (ACCEPT) evaluated 903 patients with moderate to severe psoriasis who inadequately responded to, were intolerant to, or had a contraindication to other systemic therapy and compared the efficacy of ustekinumab to etanercept and evaluated the safety of ustekinumab and etanercept. During the 12-week active-controlled portion of the study, patients were randomised to receive etanercept (50 mg twice a week), ustekinumab 45 mg at Weeks 0 and 4, or ustekinumab 90 mg at Weeks 0 and 4.
+ustekinumab (either 45 mg or 90 mg) at weeks 12 and 16. All patients were followed for up to 52 weeks following first administration of study treatment.
+
+Psoriasis Study 3 (ACCEPT) evaluated 903 patients with moderate to severe psoriasis who inadequately responded to, were intolerant to, or had a contraindication to other systemic therapy and compared the efficacy of ustekinumab to etanercept and evaluated the safety of ustekinumab and etanercept. During the 12-week active-controlled portion of the study, patients were randomised to receive etanercept (50 mg twice a week), ustekinumab 45 mg at weeks 0 and 4, or ustekinumab 90 mg at Weeks 0 and 4.
 
 Baseline disease characteristics were generally consistent across all treatment groups in Psoriasis Studies 1 and 2 with a median baseline PASI score from 17 to 18, median baseline Body Surface Area (BSA) ≥ 20, and median Dermatology Life Quality Index (DLQI) range from 10 to 12. Approximately one third (Psoriasis Study 1) and one quarter (Psoriasis Study 2) of subjects had Psoriatic Arthritis (PsA). Similar disease severity was also seen in Psoriasis Study 3.
 
 The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at week 12 (see Tables 2 and 3).
 
-Table 2: Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoriasis Study 2 (PHOENIX 2)
+Table 2: Summary of clinical response in psoriasis study 1 (PHOENIX 1) and psoriasis study 2 (PHOENIX 2)
 
 |                                   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 28 3 doses (week 0, week 4 and week 16)   | Week 28 3 doses (week 0, week 4 and week 16)   |
 |-----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -2278,7 +2286,7 @@ b PGA = Physician Global Assessment
 
 <div style=\"page-break-after: always\"></div>
 
-Table 3: Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
+Table 3: Summary of clinical response at week 12 in psoriasis study 3 (ACCEPT)
 
 |                                 | Psoriasis Study 3                        | Psoriasis Study 3                       | Psoriasis Study 3                       |
 |---------------------------------|------------------------------------------|-----------------------------------------|-----------------------------------------|
@@ -2308,7 +2316,7 @@ In Psoriasis Study 1, at week 2 and week 12, significantly greater improvements 
 
 Ustekinumab has been shown to improve signs and symptoms, physical function and health-related quality of life, and reduce the rate of progression of peripheral joint damage in adult patients with active PsA.
 
-The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by
+The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite nonsteroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at weeks 0 and 4 followed by
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2320,7 +2328,7 @@ In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the pati
 
 Treatment with ustekinumab resulted in significant improvements in the measures of disease activity compared to placebo at week 24. The primary endpoint was the percentage of patients who achieved American College of Rheumatology (ACR) 20 response at week 24. The key efficacy results are shown in Table 4 below.
 
-Table 4 Number of patients who achieved clinical response in Psoriatic arthritis Study 1 (PSUMMIT I) and Study 2 (PSUMMIT II) at week 24
+Table 4 Number of patients who achieved clinical response in psoriatic arthritis study 1 (PSUMMIT I) and study 2 (PSUMMIT II) at week 24
 
 |                                             | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
 |---------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
@@ -2352,35 +2360,33 @@ Responses observed in the ustekinumab treated groups were similar in patients re
 
 For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 significant improvement in enthesitis and dactylitis score was observed in the ustekinumab groups compared with placebo at week 24. In PsA Study 2 significant improvement in enthesitis score and numerical improvement (not statistically significant) in dactylitis score was observed in the ustekinumab 90 mg group compared with placebo at week 24. Improvements in enthesitis score and dactylitis score were maintained through weeks 52 and 100.
 
-## Radiographic Response
+## Radiographic response
 
-Structural damage in both hands and feet was expressed as change in total van der Heijde-Sharp score (vdH-S score), modified for PsA by addition of hand distal interphalangeal joints, compared to baseline. A pre-specified integrated analysis combining data from 927 subjects in both PsA Study 1 and 2 was performed. Ustekinumab demonstrated a statistically significant decrease in the rate of progression of structural damage compared to placebo, as measured by change from baseline to week 24 in the total modified vdH-S score (mean ± SD score was 0.97 ± 3.85 in the placebo group compared with 0.40 ± 2.11 and 0.39 ± 2.40 in the ustekinumab 45 mg (p &lt; 0.05) and 90 mg (p &lt; 0.001) groups, respectively). This effect was driven by PsA Study 1. The effect is considered demonstrated irrespective of concomitant MTX use, and was maintained through Weeks 52 (integrated analysis) and 100 (PsA Study 1).
+Structural damage in both hands and feet was expressed as change in total van der Heijde-Sharp score (vdH-S score), modified for PsA by addition of hand distal interphalangeal joints, compared to baseline. A pre-specified integrated analysis combining data from 927 subjects in both PsA Study 1 and 2 was performed. Ustekinumab demonstrated a statistically significant decrease in the rate of progression of structural damage compared to placebo, as measured by change from baseline to week 24 in the total modified vdH-S score (mean ± SD score was 0.97 ± 3.85 in the placebo group compared with 0.40 ± 2.11 and 0.39 ± 2.40 in the ustekinumab 45 mg (p &lt; 0.05) and 90 mg (p &lt; 0.001) groups, respectively). This effect was driven by PsA Study 1. The effect is considered demonstrated irrespective of concomitant MTX use, and was maintained through weeks 52 (integrated analysis) and 100 (PsA Study 1).
 
 ## Physical function and health-related quality of life
 
-Ustekinumab-treated patients showed significant improvement in physical function as assessed by the Disability Index of the Health Assessment Questionnaire (HAQ-DI) at week 24. The proportion of patients achieving a clinically meaningful ≥ 0.3 improvement in HAQ-DI score from baseline was also significantly greater in the ustekinumab groups when compared with placebo. Improvement in HAQ-DI score from baseline was maintained through Weeks 52 and 100.
+Ustekinumab-treated patients showed significant improvement in physical function as assessed by the Disability Index of the Health Assessment Questionnaire (HAQ-DI) at week 24. The proportion of patients achieving a clinically meaningful ≥ 0.3 improvement in HAQ-DI score from baseline was also significantly greater in the ustekinumab groups when compared with placebo. Improvement in HAQ-DI score from baseline was maintained through weeks 52 and 100.
 
 There was significant improvement in DLQI scores in the ustekinumab groups as compared with placebo at week 24, which was maintained through weeks 52 and 100. In PsA Study 2 there was a significant improvement in Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) scores in the ustekinumab groups when compared with placebo at week 24. The proportion of patients achieving a clinically significant improvement in fatigue (4 points in FACIT-F) was also significantly greater in the ustekinumab groups compared with placebo. Improvements in FACIT scores were maintained through week 52.
 
-## Paediatric population
+## Crohn's disease
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population with juvenile idiopathic arthritis. The pre-filled pen has not been studied in the paediatric psoriasis population and is not recommended for use by paediatric patients.
+The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development programme consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed
 
 <div style=\"page-break-after: always\"></div>
 
-## Crohn's Disease
-
-The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
+by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
 
 The induction studies included 1,409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
-Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNF  therapy and 52% had failed 2 or 3 prior anti-TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
+Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNFα therapy and 52% had failed 2 or 3 prior anti-TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
 
 Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNF-α naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
 
 In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 5). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
 
-Table 5: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
+Table 5: Induction of clinical response and remission in UNITI-1 and UNITI 2
 
 |                                       | UNITI-1 *       | UNITI-1 *                                | UNITI-2 **      | UNITI-2 **                               |
 |---------------------------------------|-----------------|------------------------------------------|-----------------|------------------------------------------|
@@ -2402,15 +2408,13 @@ Clinical remission is defined as CDAI score &lt; 150; Clinical response is defin
 - a p &lt; 0.001
 - b p &lt; 0.01
 
-The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg
-
-<div style=\"page-break-after: always\"></div>
-
-ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2).
+The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2).
 
 Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 6).
 
-Table 6: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
+<div style=\"page-break-after: always\"></div>
+
+Table 6: Maintenance of clinical response and remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
 
 |                                                  | Placebo* N = 131 †   | 90 mg ustekinumab every 8 weeks N = 128 †   | 90 mg ustekinumab every 12 weeks N = 129 †   |
 |--------------------------------------------------|----------------------|---------------------------------------------|----------------------------------------------|
@@ -2426,7 +2430,9 @@ Table 6: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
 
 * The placebo group consisted of patients who were in response to ustekinumab and were randomised to receive placebo at the start of maintenance therapy.
-- † Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy.
+
+† Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy.
+
 - ‡ Patients who failed conventional therapy but not anti-TNFα therapy.
 - § Patients who are anti-TNFα refractory/intolerant.
 - a p &lt; 0.01
@@ -2441,15 +2447,15 @@ Of 131 patients who responded to ustekinumab induction, and were randomised to t
 
 In IM-UNITI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 567 patients who entered on and were treated with ustekinumab in the study extension, clinical remission and response were generally maintained through week 252 for both patients who failed TNF-therapies and those who failed conventional therapies.
 
-<div style=\"page-break-after: always\"></div>
-
 No new safety concerns were identified in this study extension with up to 5 years of treatment in patients with Crohn's Disease.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Endoscopy
 
 Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
 
-## Fistula Response
+## Fistula response
 
 In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
 
@@ -2459,30 +2465,28 @@ Health-related quality of life was assessed by Inflammatory Bowel Disease Questi
 
 ## Ulcerative colitis
 
-The safety and efficacy of ustekinumab was assessed in two randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥ 2). The clinical development program consisted of one intravenous induction study (referred to as UNIFI-I) with treatment of up to 16 weeks followed by a 44 week subcutaneous randomised withdrawal maintenance study (referred to as UNIFI-M) representing at least 52 weeks of therapy.
+The safety and efficacy of ustekinumab was assessed in two randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥ 2). The clinical development programme consisted of one intravenous induction study (referred to as UNIFI-I) with treatment of up to 16 weeks followed by a 44 week subcutaneous randomised withdrawal maintenance study (referred to as UNIFI-M) representing at least 52 weeks of therapy.
 
 Efficacy results presented for UNIFI-I and UNIFI-M were based on central review of endoscopies.
 
 UNIFI-I included 961 patients. The primary endpoint for the induction study was the proportion of subjects in clinical remission at week 8. Patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
-Concomitant doses of oral corticosteroids, immunomodulators, and aminosalicylates were permitted and 90% of patients continued to receive at least one of these medications. Enrolled patients had to have failed conventional therapy (corticosteroids or immunomodulators) or at least one biologic (a TNFα antagonist and/or vedolizumab). 49% of patients had failed conventional therapy, but not a biologic (of which 94% where biological-naïve). 51% of patients had failed or were intolerant to a biologic. Approximately 50% of the patients had failed at least 1 prior anti-TNF  therapy (of which 48% were primary non-responders) and 17% had failed at least 1 anti-TNFα therapy and vedolizumab.
+Concomitant doses of oral corticosteroids, immunomodulators, and aminosalicylates were permitted and 90% of patients continued to receive at least one of these medications. Enrolled patients had to have failed conventional therapy (corticosteroids or immunomodulators) or at least one biologic (a TNFα antagonist and/or vedolizumab). 49% of patients had failed conventional therapy, but not a biologic (of which 94% where biological-naïve). 51% of patients had failed or were intolerant to a biologic. Approximately 50% of the patients had failed at least 1 prior anti-TNFα therapy (of which 48% were primary non-responders) and 17% had failed at least 1 anti-TNFα therapy and vedolizumab.
 
-In UNIFI-I a significantly greater proportion of patients were in clinical remission in the ustekinumab treated group compared to placebo at week 8 (Table 7). As early as Week 2, the earliest scheduled study visit, and at each visit thereafter, a higher proportion of ustekinumab patients had no rectal bleeding or achieved normal stool frequency as compared with placebo patients. Significant
+In UNIFI-I a significantly greater proportion of patients were in clinical remission in the ustekinumab treated group compared to placebo at week 8 (Table 7). As early as week 2, the earliest scheduled study visit, and at each visit thereafter, a higher proportion of ustekinumab patients had no rectal bleeding or achieved normal stool frequency as compared with placebo patients. Significant differences in partial Mayo score and symptomatic remission were observed between ustekinumab and placebo as early as week 2.
 
 <div style=\"page-break-after: always\"></div>
 
-differences in partial Mayo score and symptomatic remission were observed between ustekinumab and placebo as early as Week 2.
-
 Efficacy was higher in the tiered dose group (6 mg/kg) compared to the 130 mg dose group in select endpoints, and tiered dosing is therefore the recommended intravenous induction dose.
 
-Table 7: Summary of Key Efficacy Outcomes in UNIFI-I (Week 8)
+Table 7: Summary of key efficacy outcomes in UNIFI-I (week 8)
 
 |                                                                 | Placebo N = 319   | Recommended dose of ustekinumab £ N = 322   |
 |-----------------------------------------------------------------|-------------------|---------------------------------------------|
 | Clinical Remission*                                             | 5%                | 16% a                                       |
 | In patients who failed conventional therapy, but not a biologic | 9% (15/158)       | 19% (29/156) c                              |
 | In patients who failed biological therapy ¥                     | 1% (2/161)        | 13% (21/166) b                              |
-| In patients who failed both a TNF and vedolizumab               | 0% (0/47)         | 10% (6/58%) c                               |
+| In patients who failed both a TNF and vedolizumab               | 0% (0/47)         | 10% (6/58) c                                |
 | Clinical Response §                                             | 31%               | 62% a                                       |
 | In patients who failed conventional therapy, but not a biologic | 35% (56/158)      | 67% (104/156) b                             |
 | In patients who failed biological therapy ¥                     | 27% (44/161)      | 57% (95/166) b                              |
@@ -2493,15 +2497,11 @@ Table 7: Summary of Key Efficacy Outcomes in UNIFI-I (Week 8)
 | Symptomatic Remission ‡                                         | 23%               | 45% b                                       |
 | Combined Symptomatic Remission and Mucosal Healing ⸸            | 8%                | 21% b                                       |
 
-- £ Infusion dose of ustekinumab using the weight-based dosage regimen specified in Table 1 .
-* Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
-
-§ Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
-
-- ¥ A TNFα antagonist and/or vedolizumab.
 - † Mucosal healing is defined as a Mayo endoscopic subscore of 0 or 1.
 - ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
-- ⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
+
+⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
+
 - a p &lt; 0.001
 - b Nominally significant (p &lt; 0.001)
 - c Nominally significant (p &lt; 0.05)
@@ -2510,37 +2510,37 @@ UNIFI-M, evaluated 523 patients who achieved clinical response with single IV ad
 
 Significantly greater proportions of patients were in clinical remission in both ustekinumab treated groups compared to the placebo group at week 44 (see Table 8).
 
-Table 8: Summary of Key Efficacy Measures in UNIFI-M (week 44; 52 weeks from initiation of the induction dose)
+Table 8: Summary of key efficacy measures in UNIFI-M (week 44; 52 weeks from initiation of the induction dose)
 
-|                      | Placebo* N = 175   | 90 mg ustekinumab every 8 Weeks N = 176   | 90 mg ustekinumab every 12 Weeks N = 172   |
-|----------------------|--------------------|-------------------------------------------|--------------------------------------------|
-| Clinical Remission** | 24%                | 44% a                                     | 38% b                                      |
+|                                                                 | Placebo* N = 175   | 90 mg ustekinumab every 8 Weeks N = 176   | 90 mg ustekinumab every 12 Weeks N = 172   |
+|-----------------------------------------------------------------|--------------------|-------------------------------------------|--------------------------------------------|
+| Clinical Remission**                                            | 24%                | 44% a                                     | 38% b                                      |
+| In patients who failed conventional therapy, but not a biologic | 31% (27/87)        | 48% (41/85) d                             | 49% (50/102) d                             |
+| In patients who failed biological therapy ¥                     | 17% (15/88)        | 40% (36/91) c                             | 23% (16/70) d                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| In patients who failed conventional therapy, but not a biologic   | 31% (27/87)   | 48% (41/85) d   | 49% (50/102) d   |
-|-------------------------------------------------------------------|---------------|-----------------|------------------|
-| In patients who failed biological therapy ¥                       | 17% (15/88)   | 40% (36/91) c   | 23% (16/70) d    |
-| In patients who failed both a TNF and vedolizumab                 | 15% (4/27)    | 33% (7/21) e    | 23% (5/22) e     |
-| Maintenance of Clinical Response through week 44 §                | 45%           | 71% a           | 68% a            |
-| In patients who failed conventional therapy, but not a biologic   | 51% (44/87)   | 78% (66/85) c   | 77% (78/102) c   |
-| In patients who failed biological therapy ¥                       | 39% (34/88)   | 65% (59/91) c   | 56% (39/70) d    |
-| In patients who failed both a TNF and vedolizumab                 | 41% (11/27)   | 67% (14/21) e   | 50% (11/22) e    |
-| Mucosal Healing †                                                 | 29%           | 51% a           | 44% b            |
-| Maintenance of Clinical Remission through week 44 £               | 38% (17/45)   | 58% (22/38)     | 65% (26/40) c    |
-| Corticosteroid Free Clinical Remission €                          | 23%           | 42% a           | 38% b            |
-| Durable Remission ǁ                                               | 35%           | 57% c           | 48% d            |
-| Symptomatic Remission ‡                                           | 45%           | 68% c           | 62% d            |
-| Combined Symptomatic Remission and Mucosal Healing ⸸              | 28%           | 48% c           | 41% d            |
+| In patients who failed both a TNF and vedolizumab               | 15% (4/27)   | 33% (7/21) e   | 23% (5/22) e   |
+|-----------------------------------------------------------------|--------------|----------------|----------------|
+| Maintenance of Clinical Response through week 44 §              | 45%          | 71% a          | 68% a          |
+| In patients who failed conventional therapy, but not a biologic | 51% (44/87)  | 78% (66/85) c  | 77% (78/102) c |
+| In patients who failed biological therapy ¥                     | 39% (34/88)  | 65% (59/91) c  | 56% (39/70) d  |
+| In patients who failed both a TNF and vedolizumab               | 41% (11/27)  | 67% (14/21) e  | 50% (11/22) e  |
+| Mucosal Healing †                                               | 29%          | 51% a          | 44% b          |
+| Maintenance of Clinical Remission through week 44 £             | 38% (17/45)  | 58% (22/38)    | 65% (26/40) c  |
+| Corticosteroid Free Clinical Remission €                        | 23%          | 42% a          | 38% b          |
+| Durable Remission ǁ                                             | 35%          | 57% c          | 48% d          |
+| Symptomatic Remission ‡                                         | 45%          | 68% c          | 62% d          |
+| Combined Symptomatic Remission and Mucosal Healing ⸸            | 28%          | 48% c          | 41% d          |
 
 * Following response to IV ustekinumab.
 - ** Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
 - § Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
 - ¥ A TNFα antagonist and/or vedolizumab.
 - † Mucosal healing is defined as a Mayo endoscopic sub-score of 0 or 1.
-- £ Maintenance of clinical remission through Week 44 is defined as patients in clinical remission through Week 44 among patients in clinical remission at maintenance baseline.
-- € Corticosteroid-free clinical remission is defined as patients in clinical remission and not receiving corticosteroids at Week 44.
-- ǁ Durable Remission is defined as partial Mayo remission at ≥80% of all visits prior to Week 44 and in partial Mayo remission at last visit (Week 44).
+- £ Maintenance of clinical remission through week 44 is defined as patients in clinical remission through week 44 among patients in clinical remission at maintenance baseline.
+- € Corticosteroid-free clinical remission is defined as patients in clinical remission and not receiving corticosteroids at week 44.
+- ǁ Durable Remission is defined as partial Mayo remission at ≥80% of all visits prior to week 44 and in partial Mayo remission at last visit (week 44).
 - ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
 - ⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
 - a p &lt; 0.001
@@ -2551,17 +2551,15 @@ Table 8: Summary of Key Efficacy Measures in UNIFI-M (week 44; 52 weeks from ini
 
 The beneficial effect of ustekinumab on clinical response, mucosal healing and clinical remission was observed in induction and in maintenance both in patients who failed conventional therapy but not a biologic therapy, as well as in those who had failed at least one prior TNFα antagonist therapy including in patients with a primary non-response to TNFα antagonist therapy. A beneficial effect was also observed in induction in patients who failed at least one prior TNFα antagonist therapy and vedolizumab, however the number of patients in this subgroup was too small to draw definitive conclusions about the beneficial effect in this group during maintenance.
 
-## Week 16 Responders to Ustekinumab Induction
+## Week 16 responders to ustekinumab induction
 
 Ustekinumab treated patients who were not in response at week 8 of UNIFI-I received an administration of 90 mg SC ustekinumab at week 8 (36% of patients). Of those patients, 9% of patients who were initially randomised to the recommended induction dose achieved clinical remission and 58% achieved clinical response at Week 16.
 
-Patients who were not in clinical response to ustekinumab induction at week 8 of the UNFI-I study but were in response at week 16 (157 patients) entered into the non-randomised portion of UNIFI-M and
+Patients who were not in clinical response to ustekinumab induction at week 8 of the UNFI-I study but were in response at week 16 (157 patients) entered into the non-randomised portion of UNIFI-M and continued to receive maintenance dosing every 8 weeks; among these patients, a majority (62%) maintained response and 30% achieved remission at week 44.
 
 <div style=\"page-break-after: always\"></div>
 
-continued to receive maintenance dosing every 8 weeks; among these patients, a majority (62%) maintained response and 30% achieved remission at week 44.
-
-## Study Extension
+## Study extension
 
 In UNIFI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 400 patients who entered on and were treated with ustekinumab every 12 or 8 weeks in the study extension, symptomatic remission was generally maintained through week 200 for patients who failed conventional therapy (but not a biologic therapy) and those who failed biologic therapy, including those who failed both anti-TNF and vedolizumab. Among patients who received 4 years of ustekinumab treatment and were assessed using the full Mayo score at maintenance week 200, 74.2% (69/93) and 68.3% (41/60) maintained mucosal healing and clinical remission, respectively.
 
@@ -2569,13 +2567,13 @@ The safety analysis including 457 patients (1289.9 person-years) followed up to 
 
 No new safety concerns were identified in this study extension with up to 4 years of treatment in patients with ulcerative colitis.
 
-## Endoscopic Normalisation
+## Endoscopic normalisation
 
 Endoscopic normalisation was defined as a Mayo endoscopic subscore of 0 and was observed as early as week 8 of UNIFI-I. At week 44 of UNIFI-M, it was achieved in 24% and 29% of patients treated with ustekinumab every 12 or 8 weeks, respectively, as compared to 18% of patients in the placebo group.
 
-## Histologic &amp; Histo-Endoscopic Mucosal Healing
+## Histologic &amp; histo-endoscopic mucosal healing
 
-Histologic healing (defined as neutrophil infiltration in &lt; 5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue) was assessed at week 8 of UNIFI-I and Week 44 of UNIFI-M. At week 8, after a single intravenous induction dose, significantly greater proportions of patients in the recommended dose group achieved histologic healing (36%) compared with patients in the placebo group (22%). At Week 44 maintenance of this effect was observed with significantly more patients in histologic healing in the every 12 week (54%) and every 8 week (59%) ustekinumab groups as compared to placebo (33%).
+Histologic healing (defined as neutrophil infiltration in &lt; 5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue) was assessed at week 8 of UNIFI-I and week 44 of UNIFIM. At week 8, after a single intravenous induction dose, significantly greater proportions of patients in the recommended dose group achieved histologic healing (36%) compared with patients in the placebo group (22%). At week 44 maintenance of this effect was observed with significantly more patients in histologic healing in the every 12 week (54%) and every 8 week (59%) ustekinumab groups as compared to placebo (33%).
 
 A combined endpoint of histo-endoscopic mucosal healing defined as subjects having both mucosal healing and histologic healing was evaluated at week 8 of UNIFI-I and week 44 of UNIFI-M. Patients receiving ustekinumab at the recommended dose showed significant improvements on the histoendoscopic mucosal healing endpoint at week 8 in the ustekinumab group (18%) as compared to the placebo group (9%). At week 44, maintenance of this effect was observed with significantly more patients in histo-endoscopic mucosal healing in the every 12 week (39%) and every 8 week (46%) ustekinumab groups as compared to placebo (24%).
 
@@ -2587,11 +2585,13 @@ At week 8 of UNIFI-I, patients receiving ustekinumab showed significantly greate
 
 Patients receiving ustekinumab experienced significantly more improvements in work productivity as assessed by greater reductions in overall work impairment and in activity impairment as assessed by the WPAI-GH questionnaire than patients receiving placebo.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hospitalisations and ulcerative colitis (UC) related surgeries
 
-Through week 8 of UNIFI-I, the proportions of subjects with UC disease related hospitalisations were significantly lower for subjects in the ustekinumab recommended dose group (1.6%, 5/322) compared with subjects in the placebo group (4.4%, 14/319) and no subjects underwent UC disease related surgeries in subjects receiving ustekinumab at the recommended induction dose compared to 0.6% (2/319) subjects in the placebo group.
+Through week 8 of UNIFI-I, the proportions of subjects with UC disease related hospitalisations were significantly lower for subjects in the ustekinumab recommended dose group (1.6%, 5/322) compared
+
+<div style=\"page-break-after: always\"></div>
+
+with subjects in the placebo group (4.4%, 14/319) and no subjects underwent UC disease related surgeries in subjects receiving ustekinumab at the recommended induction dose compared to 0.6% (2/319) subjects in the placebo group.
 
 Through week 44 of UNIFI-M, a significantly lower number of UC-related hospitalisations was observed in subjects in the combined ustekinumab group (2.0%, 7/348) as compared with subjects in the placebo group (5.7%, 10/175). A numerically lower number of subjects in the ustekinumab group (0.6%, 2/348) underwent UC disease related surgeries compared with subjects in the placebo group (1.7%, 3/175) through week 44.
 
@@ -2601,7 +2601,7 @@ Antibodies to ustekinumab may develop during ustekinumab treatment and most are 
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in Crohn's Disease and ulcerative colitis. The pre-filled pen has not been studied in the paediatric population and is not recommended for use by paediatric patients.
+The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in ulcerative colitis and juvenile idiopathic arthritis. The pre-filled pen has not been studied in the paediatric population and is not recommended for use by paediatric patients.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -2625,15 +2625,13 @@ Median systemic clearance (CL) following a single intravenous administration to 
 
 ## Dose linearity
 
-The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately dose-proportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg
+The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately dose proportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg or following a single subcutaneous administration at doses ranging from approximately 24 mg to 240 mg in patients with psoriasis.
 
 <div style=\"page-break-after: always\"></div>
 
-to 4.5 mg/kg or following a single subcutaneous administration at doses ranging from approximately 24 mg to 240 mg in patients with psoriasis.
-
 ## Single dose versus multiple doses
 
-Serum concentration-time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations. In patients with psoriasis, steady-state serum concentrations of ustekinumab were achieved by week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks. The median steady-state trough concentration ranged from 0.21 μg/mL to 0.26 μg/mL (45 mg) and from 0.47 μg/mL to 0.49 μg/mL (90 mg). There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
+Serum concentration time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations. In patients with psoriasis, steady state serum concentrations of ustekinumab were achieved by week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks. The median steady state trough concentration ranged from 0.21 μg/mL to 0.26 μg/mL (45 mg) and from 0.47 μg/mL to 0.49 μg/mL (90 mg). There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
 
 In patients with Crohn's disease and ulcerative colitis, following an intravenous dose of ~6 mg/kg, starting at week 8, subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 or 12 weeks. Steady state ustekinumab concentration was achieved by the start of the second maintenance dose. In patients with Crohn's disease, median steady-state trough concentrations ranged from 1.97 μg/mL to 2.24 μg/mL and from 0.61 μg/mL to 0.76 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks respectively. In patients with ulcerative colitis, median steady-state trough concentrations ranged from 2.69 μg/mL to 3.09 μg/mL and from 0.92 μg/mL to 1.19 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks. The steady-state trough ustekinumab levels resulting from 90 mg ustekinumab every 8 weeks were associated with higher clinical remission rates as compared to the steady-state trough levels following 90 mg every 12 weeks.
 
@@ -2647,17 +2645,13 @@ In patients with Crohn's disease and ulcerative colitis, based on observed data 
 
 ## Special populations
 
-No pharmacokinetic data are available in patients with impaired renal or hepatic function.
-
-No specific studies have been conducted in elderly patients.
+No pharmacokinetic data are available in patients with impaired renal or hepatic function. No specific studies have been conducted in elderly patients.
 
 The pharmacokinetics of ustekinumab were generally comparable between Asian and non-Asian patients with psoriasis and ulcerative colitis.
 
-In patients with Crohn's disease and ulcerative colitis, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ± 20% of the typical or reference value of the
+In patients with Crohn's disease and ulcerative colitis, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ± 20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
 
 <div style=\"page-break-after: always\"></div>
-
-respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
 
 In the population pharmacokinetic analysis, there were no indications of an effect of tobacco or alcohol on the pharmacokinetics of ustekinumab.
 
@@ -2701,9 +2695,7 @@ Individual pre-filled pens may be stored at room temperature up to 30°C for a m
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C). Do not freeze.
-
-Keep the pre-filled pen in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled pen in the outer carton in order to protect from light.
 
 If needed, individual pre-filled pens may be stored at room temperature up to 30°C (see section 6.3).
 
@@ -2721,15 +2713,15 @@ STELARA is available in a pack of 1 pre-filled pen.
 
 ## 6.6 Special precautions for disposal and other handling
 
-The solution in the STELARA pre-filled pen should not be shaken. The solution should be visually inspected for particulate matter or discolouration prior to subcutaneous administration. The solution is clear to slightly opalescent, colourless to light yellow and may contain a few small translucent or white particles of protein. This appearance is not unusual for proteinaceous solutions. The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present. Before administration, STELARA should be allowed to reach room temperature (approximately half an hour). Detailed instructions for use are provided in the package leaflet.
+The pre-filled pen should not be shaken. The solution should be visually inspected for particulate matter or discolouration prior to subcutaneous administration. The solution is clear to slightly opalescent, colourless to light yellow and may contain a few small translucent or white particles of protein. This appearance is not unusual for proteinaceous solutions. The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present. Before administration, STELARA should be allowed to reach room temperature (approximately half an hour). Detailed instructions for use are provided in the package leaflet.
 
 STELARA does not contain preservatives; therefore any unused medicinal product remaining in the pre-filled pen should not be used. STELARA is supplied as a sterile, single-use pre-filled pen. The pre-filled pen must never be re-used. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
-
-<div style=\"page-break-after: always\"></div>
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2746,8 +2738,6 @@ Date of latest renewal: 19 September 2013
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
-
-76
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2823,7 +2813,7 @@ Excipients: EDTA disodium salt dihydrate, L-histidine, L-histidine monohydrochlo
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Concentrate for Solution for infusion
+Concentrate for solution for infusion
 
 130 mg/26 mL
 
@@ -2863,7 +2853,9 @@ Keep the vial in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV Turnhoutseweg 30
+Janssen-Cilag International NV
+
+Turnhoutseweg 30
 
 B-2340 Beerse
 
@@ -2899,36 +2891,31 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-VIAL LABEL TEXT (130 mg)
+## VIAL LABEL TEXT (130 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-STELARA 130 mg concentrate for solution for infusion ustekinumab
+STELARA 130 mg concentrate for solution for infusion ustekinumab For IV use after dilution.
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
-For IV use after dilution. Do not shake.
+Do not shake.
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 130 mg/26 mL
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3046,7 +3033,8 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 45 mg/0.5 mL
 
@@ -3055,7 +3043,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## PRE-FILLED SYRINGE CARTON TEXT (45 mg)
+PRE-FILLED SYRINGE CARTON TEXT (45 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3071,7 +3059,7 @@ Excipients: Sucrose, L-histidine, L-histidine monohydrochloride monohydrate, pol
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection in pre-filled syringe
+Solution for injection
 
 45 mg/0.5 mL
 
@@ -3095,7 +3083,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Discard date, if stored at room temperature:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Discard date, if stored at room temperature: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3134,7 +3122,8 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 STELARA 45 mg
 
@@ -3198,9 +3187,11 @@ Excipients: Sucrose, L-histidine, L-histidine monohydrochloride monohydrate, pol
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection in pre-filled syringe
+Solution for injection
 
-90 mg/1 mL 1 pre-filled syringe
+90 mg/1 mL
+
+1 pre-filled syringe
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -3220,7 +3211,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Discard date, if stored at room temperature:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Discard date, if stored at room temperature: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3276,9 +3267,9 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-## PRE-FILLED SYRINGE LABEL TEXT (90 mg)
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL TEXT (90 mg)                            |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -3307,7 +3298,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## PRE-FILLED PEN CARTON TEXT (45 mg)
+PRE-FILLED PEN CARTON TEXT (45 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3323,7 +3314,7 @@ Excipients: Sucrose, L-histidine, L-histidine monohydrochloride monohydrate, pol
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection in pre-filled pen
+Solution for injection
 
 45 mg/0.5 mL
 
@@ -3351,7 +3342,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Discard date, if stored at room temperature:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Discard date, if stored at room temperature:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3400,8 +3391,8 @@ STELARA 45 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
+|-------|----------------------------------------|
 
 PC SN NN
 
@@ -3415,30 +3406,25 @@ Read Instructions for Use in full before use.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED PEN LABEL TEXT (45 mg)                                |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## PRE-FILLED PEN LABEL TEXT (45 mg)
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 STELARA 45 mg injection ustekinumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 45 mg/0.5 mL
 
@@ -3463,11 +3449,13 @@ Excipients: Sucrose, L-histidine, L-histidine monohydrochloride monohydrate, pol
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection in pre-filled pen
+Solution for injection
 
 90 mg/1 mL
 
-1 pre-filled pen Single-dose pre-filled pen
+1 pre-filled pen
+
+Single-dose pre-filled pen
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -3489,7 +3477,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Discard date, if stored at room temperature:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Discard date, if stored at room temperature: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3557,7 +3545,8 @@ Read Instructions for Use in full before use.
 
 ## PRE-FILLED PEN LABEL TEXT (90 mg)
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 STELARA 90 mg injection ustekinumab SC
 
@@ -3574,7 +3563,8 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 90 mg/1 mL
 
@@ -3622,7 +3612,7 @@ Stelara belongs to a group of medicines called 'immunosuppressants'. These medic
 
 Stelara is used to treat the following inflammatory diseases:
 
--  Moderate to severe Crohn's disease - in adults and children who weigh at least 40 kg
+-  Moderate to severe Crohn's disease - in adults and children aged 2 years and older
 -  Moderate to severe ulcerative colitis - in adults
 
 ## Crohn's disease
@@ -3675,7 +3665,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Stelara is not recommended for use in children who weigh less than 40 kg with Crohn's disease or children under 18 years of age with ulcerative colitis because it has not been studied in this age group.
+Stelara is not recommended for use in children under 2 years of age with Crohn's disease or children under 18 years of age with ulcerative colitis because it has not been studied in this age group.
 
 ## Other medicines, vaccines and Stelara
 
@@ -3683,11 +3673,10 @@ Tell your doctor or pharmacist:
 
 -  If you are taking, have recently taken or might take any other medicines.
 -  If you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Stelara.
--  If you received Stelara while pregnant, tell your baby's doctor about your Stelara treatment before the baby receives any vaccine, including live vaccines, such as the BCG vaccine (used to
 
 <div style=\"page-break-after: always\"></div>
 
-prevent tuberculosis). Live vaccines are not recommended for your baby in the first twelve months after birth if you received Stelara during the pregnancy unless your baby's doctor recommends otherwise.
+-  If you received Stelara while pregnant, tell your baby's doctor about your Stelara treatment before the baby receives any vaccine, including live vaccines, such as the BCG vaccine (used to prevent tuberculosis). Live vaccines are not recommended for your baby in the first twelve months after birth if you received Stelara during the pregnancy unless your baby's doctor recommends otherwise.
 
 ## Pregnancy and breast-feeding
 
@@ -3720,26 +3709,29 @@ Stelara 130 mg concentrate for solution for infusion will be given to you by you
 
 Your doctor will decide how much Stelara you need to receive and for how long.
 
-## Adults aged 18 years or older
+## Adults aged 18 years or older Crohn's disease or Ulcerative Colitis
 
 -  The doctor will work out the recommended intravenous infusion dose for you based on your body weight.
+
+<div style=\"page-break-after: always\"></div>
 
 | Your body weight   | Dose   |
 |--------------------|--------|
 | ≤ 55 kg            | 260 mg |
 | > 55 kg to ≤ 85 kg | 390 mg |
+| > 85 kg            | 520 mg |
 
-<div style=\"page-break-after: always\"></div>
+-  After the starting intravenous dose, you will have the next dose of 90 mg Stelara by an injection under your skin ('subcutaneously') 8 weeks later, and then every 12 weeks thereafter.
 
-| > 85 kg   | 520 mg   |
-|-----------|----------|
+## Children who weigh less than 40 kg Crohn's disease
 
--  After the starting intravenous dose, you will have the next dose of 90 mg Stelara by an injection under your skin (subcutaneous injection) 8 weeks later, and then every 12 weeks therafter.
+-  The doctor will work out the recommended intravenous infusion dose for you based on your body surface area (BSA)
+-  After the starting dose, your doctor will work out the next dose based on your BSA. You will receive this dose of Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin (subcutaneously').
 
-## Children with Crohn's disease who weigh at least 40 kg
+## Children who weigh at least 40 kg Crohn's disease
 
 -  The doctor will work out the recommended intravenous infusion dose for you based on your body weight.
--  After the starting intravenous dose, you will have the next dose of 90 mg Stelara by an injection under your skin (subcutaneous injection) 8 weeks later, and then every 12 weeks thereafter.
+-  After the starting intravenous dose, you will have the next dose of 90 mg Stelara by an injection under your skin ('subcutaneously') 8 weeks later, and then every 12 weeks thereafter.
 
 | Your body weight   | Dose   |
 |--------------------|--------|
@@ -3775,6 +3767,9 @@ Some patients may have serious side effects that may need urgent treatment.
 
 -  Serious allergic reactions ('anaphylaxis') are rare in people taking Stelara (may affect up to 1 in 1,000 people). Signs include:
 - o difficulty breathing or swallowing
+
+<div style=\"page-break-after: always\"></div>
+
 - o low blood pressure, which can cause dizziness or light-headedness
 - o swelling of the face, lips, mouth or throat.
 -  Common signs of an allergic reaction include skin rash and hives (these may affect up to 1 in 100 people).
@@ -3782,8 +3777,6 @@ Some patients may have serious side effects that may need urgent treatment.
 Infusion-related reactions - If you are being treated for Crohn's disease or ulcerative colitis, the first dose of Stelara is given through a drip into a vein (intravenous infusion). Some patients have experienced serious allergic reactions during the infusion.
 
 In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
-
-<div style=\"page-break-after: always\"></div>
 
 If you have a serious allergic reaction, your doctor may decide that you should not use Stelara again.
 
@@ -3815,6 +3808,9 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 Common side effects (may affect up to 1 in 10 people):
 
 -  Diarrhoea
+
+<div style=\"page-break-after: always\"></div>
+
 -  Nausea
 -  Vomiting
 -  Feeling tired
@@ -3826,12 +3822,9 @@ Common side effects (may affect up to 1 in 10 people):
 -  Redness and pain where the injection is given
 -  Sinus infection
 
-Uncommon side effects (may affect up to 1 in 100 people) :
+## Uncommon side effects (may affect up to 1 in 100 people) :
 
 -  Tooth infections
-
-<div style=\"page-break-after: always\"></div>
-
 -  Vaginal yeast infection
 -  Depression
 -  Blocked or stuffy nose
@@ -3862,7 +3855,9 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 -  Keep this medicine out of the sight and reach of children.
 -  Store in a refrigerator (2°C-8°C). Do not freeze.
 -  Keep the vial in the outer carton in order to protect from light.
--  Do not shake the Stelara vials. Prolonged vigorous shaking may damage the medicine.
+-  Do not shake the vials. Prolonged vigorous shaking may damage the medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Do not use this medicine:
 
@@ -3874,14 +3869,12 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Stelara is for single use only. Any diluted infusion solution or unused product remaining in the vial and the syringe should be thrown away in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. Contents of the pack and other information
 
 ## What Stelara contains
 
 -  The active substance is ustekinumab. Each vial contains130 mg ustekinumab in 26 mL.
--  The other ingredients are EDTA disodium salt dihydrate (E385), L-histidine, L-histidine monohydrochloride monohydrate, L-methionine, polysorbate 80 (E433), sucrose and water for injection.
+-  The other ingredients are EDTA disodium salt dihydrate, L-histidine, L-histidine monohydrochloride monohydrate, L-methionine, polysorbate 80 (E433), sucrose and water for injections.
 
 ## What Stelara looks like and contents of the pack
 
@@ -3899,11 +3892,13 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
 ## Lietuva
 
-UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\"
+
+Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## България
 
@@ -3911,7 +3906,11 @@ UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV
+
+Tél/Tel: 800 29 504
+
+info\\_belux@its.jnj.com
 
 ## Česká republika
 
@@ -3921,77 +3920,41 @@ Tel: +420 227 012 227
 
 ## Magyarország
 
-Janssen-Cilag Kft. Tel.: +36 1 884 2858
+Janssen-Cilag Kft.
+
+Tel.: +36 1 884 2858
 
 janssenhu@its.jnj.com
 
+<div style=\"page-break-after: always\"></div>
+
 ## Danmark
 
-Janssen-Cilag A/S Tlf.: +45 4594 8282
-
-jacdk@its.jnj.com
-
-## Malta
-
-AM MANGION LTD
-
-Tel: +356 2397 6000
+Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Deutschland
 
-Janssen-Cilag GmbH
-
-Tel: 0800 086 9247 / +49 2137 955 6955
-
-jancil@its.jnj.com
-
-## Nederland
-
-Janssen-Cilag B.V.
-
-Tel: +31 76 711 1111
-
-janssen@jacnl.jnj.com
-
-<div style=\"page-break-after: always\"></div>
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Eesti
 
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
-
-Tel: +372 617 7410
-
-ee@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
 
 ## Ελλάδα
 
-Janssen-Cilag Φαρμακευτική Μονοπρόσωπη
-
-Α.Ε.Β.Ε.
-
-Tηλ: +30 210 80 90 000
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
 
 ## España
 
-Janssen-Cilag, S.A.
-
-Tel: +34 91 722 81 00
-
-contacto@its.jnj.com
+Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
 
 ## France
 
-Janssen-Cilag
-
-Tél: 0 800 25 50 75 / +33 1 55 00 40 03
-
-medisource@its.jnj.com
+Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
 
 ## Hrvatska
 
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700
-
-jjsafety@JNJCR.JNJ.com
+Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
 
 ## Ireland
 
@@ -3999,73 +3962,53 @@ Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
 
 ## Ísland
 
-Janssen-Cilag AB c/o Vistor hf. Sími: +354 535 7000 janssen@vistor.is
+Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Italia
 
-Janssen-Cilag SpA
-
-Tel: 800.688.777 / +39 02 2510 1
-
-janssenita@its.jnj.com
+Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
 
 ## Κύπρος
 
-Βαρνάβας Χατζηπαναγής Λτδ
+Βαρνάβας Χατζηπαναγής Λτδ Tηλ: +357 22 207 700
 
-Tηλ: +357 22 207 700
+## Malta
 
-## Latvija
+AM MANGION LTD
 
-UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
+Tel: +356 2397 6000
 
-Tel: +371 678 93561 lv@its.jnj.com
+## Nederland
 
-## This leaflet was last revised in .
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 ## Norge
 
-Janssen-Cilag AS
-
-Tlf: +47 24 12 65 00
-
-jacno@its.jnj.com
+Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
 
 ## Österreich
 
-Janssen-Cilag Pharma GmbH
-
-Tel: +43 1 610 300
+Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
 
 ## Polska
 
-Janssen-Cilag Polska Sp. z o.o.
-
-Tel.: +48 22 237 60 00
+Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
 
 ## Portugal
 
-Janssen-Cilag Farmacêutica, Lda.
-
-Tel: +351 214 368 600
+Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
 
 ## România
 
-Johnson &amp; Johnson România SRL
-
-Tel: +40 21 207 1800
+Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
 
 ## Slovenija
 
-Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 Janssen\\_safety\\_slo@its.jnj.com
+Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
 
 ## Slovenská republika
 
-Johnson &amp; Johnson, s.r.o.
-
-Tel: +421 232 408 400
+Johnson &amp; Johnson, s.r.o. Tel: +421 232 408 400
 
 ## Suomi/Finland
 
@@ -4073,21 +4016,15 @@ Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 
 ## Sverige
 
-Janssen-Cilag AB
-
-Tfn: +46 8 626 50 00
-
-jacse@its.jnj.com
-
-## United Kingdom (Northern Ireland)
-
-Janssen Sciences Ireland UC
-
-Tel: +44 1 494 567 444
-
-medinfo@its.jnj.com
+Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
+
+Latvija UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
+
+## This leaflet was last revised in .
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -4101,13 +4038,14 @@ In order to improve the traceability of biological medicinal products, the trade
 
 STELARA concentrate for solution for infusion must be diluted, prepared and infused by a healthcare professional using aseptic technique.
 
-1. Calculate the dose and the number of STELARA vials needed based on patient weight (see section 3, Table 1, Table 2). Each 26 mL vial of STELARA contains 130 mg of ustekinumab.
+1. For adult patients and paediatric patients who weigh at least 40 kg, calculate the dose and the number of STELARA vials needed based on patient weight (see section 4.2, Table 1, Table 3) or for paediatric patients who weigh less than 40 kg, calculate the dose and number of STELARA vials needed based on the patient's body surface area (BSA) (see section 4.2, Table 2). Each 26 mL vial of STELARA contains 130 mg of ustekinumab.
 2. Withdraw and then discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 250 mL infusion bag equal to the volume of STELARA to be added (discard 26 mL sodium chloride for each vial of STELARA needed, for 2 vials- discard 52 mL, for 3 vials discard 78 mL, for 4 vials- discard 104 mL).
 3. Withdraw 26 mL of STELARA from each vial needed and add it to the 250 mL infusion bag. The final volume in the infusion bag should be 250 mL. Gently mix.
-4. Visually inspect the diluted solution before infusion. Do not use if visibly opaque particles, discolouration or foreign particles are observed.
-5. Infuse the diluted solution over a period of at least one hour. Once diluted, the infusion should be completed within eight hours of the dilution in the infusion bag.
-6. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometer).
-7. Each vial is for single use only and any unused medicinal product should be disposed of in accordance with local requirements.
+4. For paediatric patients with Crohn's disease weighing less than 40 kg the dose is based on the patient's BSA as a single intravenous (IV) dose of STELARA. Withdraw and then discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 100 mL infusion bag equal to the volume of STELARA to be added. Withdraw the appropriate volume of STELARA from each vial needed and add it to the 100 mL infusion bag. The final volume in the infusion bag should be 100 mL. Gently mix.
+5. Visually inspect the diluted solution before infusion. Do not use if visibly opaque particles, discolouration or foreign particles are observed.
+6. Infuse the diluted solution over a period of at least one hour. Once diluted, the infusion should be completed within eight hours of the dilution in the infusion bag.
+7. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometre).
+8. Each vial is for single use only and any unused medicinal product should be disposed of in accordance with local requirements.
 
 ## Storage
 
@@ -4117,9 +4055,7 @@ If necessary, the diluted infusion solution may be stored at room temperature. T
 
 <div style=\"page-break-after: always\"></div>
 
-## STELARA 45 mg solution for injection
-
-## ustekinumab
+## STELARA 45 mg solution for injection ustekinumab
 
 Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -4153,7 +4089,7 @@ Stelara is used to treat the following inflammatory diseases:
 
 -  Plaque psoriasis - in adults and children aged 6 years and older
 -  Psoriatic arthritis - in adults
--  Moderate to severe Crohn's disease - in adults and children who weigh at least 40 kg
+-  Moderate to severe Crohn's disease - in adults and children aged 2 years and older
 -  Moderate to severe ulcerative colitis - in adults
 
 ## Plaque psoriasis
@@ -4223,7 +4159,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Stelara is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease who weigh less than 40 kg or for use in children under 18 years of age with psoriatic arthritis, or ulcerative colitis because it has not been studied in this age group.
+Stelara is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease  under 2 years of age or for use in children under 18 years of age with psoriatic arthritis, or ulcerative colitis because it has not been studied in these age groups.
 
 ## Other medicines, vaccines and Stelara
 
@@ -4262,9 +4198,7 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 Your doctor will decide how much Stelara you need to use and for how long.
 
-## Adults aged 18 years or older
-
-## Psoriasis or Psoriatic Arthritis
+## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
 
 -  The recommended starting dose is 45 mg Stelara. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
@@ -4282,20 +4216,25 @@ Your doctor will decide how much Stelara you need to use and for how long.
 -  If you weigh more than 100 kg, the recommended dose is 90 mg Stelara.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks.
 
-## Children who weigh at least 40 kg
+## Children who weigh less than 40 kg Crohn's disease
 
-## Crohn's disease
+-  During treatment, your doctor will work out the recommended intravenous infusion dose for you based on your body surface area (BSA). This will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, your doctor will work out the next dose based on your BSA. You will receive this dose of Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+-  In some patients, after the first injection under the skin, Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
 
--  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
--  In some patients, after the first injection under the skin, 90 mg Stelara may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+## Children who weigh at least 40 kg Crohn's disease
+
+-  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will
+
+<div style=\"page-break-after: always\"></div>
+
+receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+
+In some patients, after the first injection under the skin, 90 mg Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
 
 ## How Stelara is given
 
 -  Stelara is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Stelara.
 -  However, you and your doctor may decide that you may inject Stelara yourself. In this case you will get training on how to inject Stelara yourself.
-
-<div style=\"page-break-after: always\"></div>
-
 -  For instructions on how to inject Stelara, see 'Instructions for administration' at the end of this leaflet.
 
 Talk to your doctor if you have any questions about giving yourself an injection.
@@ -4338,12 +4277,13 @@ If you have a serious allergic reaction, your doctor may decide that you should 
 
 -  Infections of the nose or throat and common cold are common (may affect up to 1 in 10 people)
 -  Infections of the chest are uncommon (may affect up to 1 in 100 people)
+
+<div style=\"page-break-after: always\"></div>
+
 -  Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
 -  Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
 
 Stelara may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
-
-<div style=\"page-break-after: always\"></div>
 
 You must look out for signs of infection while you are using Stelara. These include:
 
@@ -4384,6 +4324,9 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Bleeding, bruising, hardness, swelling and itching where the injection is given
 -  Feeling weak
 -  Drooping eyelid and sagging muscles on one side of the face ('facial palsy' or 'Bell's palsy'), which is usually temporary
+
+<div style=\"page-break-after: always\"></div>
+
 -  A change in psoriasis with redness and new tiny, yellow or white skin blisters, sometimes accompanied by fever (pustular psoriasis)
 -  Peeling of the skin (skin exfoliation)
 -  Acne
@@ -4391,9 +4334,6 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 ## Rare side effects (may affect up to 1 in 1,000 people)
 
 -  Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
-
-<div style=\"page-break-after: always\"></div>
-
 -  Inflammation of small blood vessels, which can lead to a skin rash with small red or purple bumps, fever or joint pain (vasculitis)
 
 ## Very rare side effects (may affect up to 1 in 10,000 people)
@@ -4410,7 +4350,7 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 -  Keep this medicine out of the sight and reach of children.
 -  Store in a refrigerator (2°C-8°C). Do not freeze.
 -  Keep the vial in the outer carton in order to protect from light.
--  Do not shake the Stelara vials. Prolonged vigorous shaking may damage the medicine.
+-  Do not shake the vials. Prolonged vigorous shaking may damage the medicine.
 
 ## Do not use this medicine:
 
@@ -4431,13 +4371,15 @@ Stelara is for single use only. Any unused product remaining in the vial and the
 
 ## What Stelara looks like and contents of the pack
 
-Stelara is a clear to slightly opalescent (having a pearl-like shine), colourless to light yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 2 mL vial. Each vial contains 45 mg ustekinumab in 0.5 mL of solution for injection.
+Stelara is a clear to slightly opalescent (having a pearl-like shine), colourless to light yellow solution
+
+<div style=\"page-break-after: always\"></div>
+
+for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 2 mL vial. Each vial contains 45 mg ustekinumab in 0.5 mL of solution for injection.
 
 ## Marketing Authorisation Holder
 
 Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
-
-<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
@@ -4447,9 +4389,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11
+Janssen-Cilag NV Tel/Tél: 0800 93 377
 
-janssen@jacbe.jnj.com
+info\\_belux@its.jnj.com
 
 ## България
 
@@ -4471,7 +4413,7 @@ jacdk@its.jnj.com
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Eesti
 
@@ -4479,21 +4421,9 @@ UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
 
 ## Ελλάδα
 
-Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε.
 
-## España
-
-Janssen-Cilag, S.A.
-
-Tel: +34 91 722 81 00
-
-contacto@its.jnj.com
-
-## France
-
-Janssen-Cilag medisource@its.jnj.com
-
-Tél: 0 800 25 50 75 / +33 1 55 00 40 03
+Tηλ: +30 210 80 90 000
 
 ## Lietuva
 
@@ -4501,11 +4431,13 @@ UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
 
 ## Magyarország
 
-Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
+Janssen-Cilag Kft. Tel.: +36 1 884 2858
+
+janssenhu@its.jnj.com
 
 ## Malta
 
@@ -4515,7 +4447,11 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+Janssen-Cilag B.V.
+
+Tel: 0800 242 42 42
+
+info\\_nl@its.jnj.com
 
 ## Norge
 
@@ -4527,11 +4463,29 @@ Janssen-Cilag Pharma GmbH
 
 Tel: +43 1 610 300
 
+<div style=\"page-break-after: always\"></div>
+
+## España
+
 ## Polska
+
+Janssen-Cilag, S.A.
+
+Tel: +34 91 722 81 00
+
+contacto@its.jnj.com
 
 Janssen-Cilag Polska Sp. z o.o.
 
 Tel.: +48 22 237 60 00
+
+## France
+
+Janssen-Cilag
+
+Tél: 0 800 25 50 75 / +33 1 55 00 40 03
+
+medisource@its.jnj.com
 
 ## Portugal
 
@@ -4539,13 +4493,19 @@ Janssen-Cilag Farmacêutica, Lda.
 
 Tel: +351 214 368 600
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hrvatska
 
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700
+Johnson &amp; Johnson S.E. d.o.o.
+
+Tel: +385 1 6610 700
 
 jjsafety@JNJCR.JNJ.com
+
+## România
+
+Johnson &amp; Johnson România SRL
+
+Tel: +40 21 207 1800
 
 ## Ireland
 
@@ -4555,13 +4515,29 @@ Tel: 1 800 709 122
 
 medinfo@its.jnj.com
 
+## Slovenija
+
+Johnson &amp; Johnson d.o.o.
+
+Tel: +386 1 401 18 00
+
+JNJ-SI-safety@its.jnj.com
+
 ## Ísland
 
-Janssen-Cilag AB c/o Vistor hf.
+Janssen-Cilag AB
+
+c/o Vistor ehf.
 
 Sími: +354 535 7000
 
 janssen@vistor.is
+
+## Slovenská republika
+
+Johnson &amp; Johnson, s.r.o.
+
+Tel: +421 232 408 400
 
 ## Italia
 
@@ -4571,11 +4547,23 @@ Tel: 800.688.777 / +39 02 2510 1
 
 janssenita@its.jnj.com
 
+## Suomi/Finland
+
+Janssen-Cilag Oy
+
+Puh/Tel: +358 207 531 300
+
+jacfi@its.jnj.com
+
 ## Κύπρος
 
 Βαρνάβας Χατζηπαναγής Λτδ
 
 Tηλ: +357 22 207 700
+
+## Sverige
+
+Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
 
 ## Latvija
 
@@ -4589,55 +4577,11 @@ lv@its.jnj.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-## România
-
-Johnson &amp; Johnson România SRL
-
-Tel: +40 21 207 1800
-
-## Slovenija
-
-Johnson &amp; Johnson d.o.o.
-
-Tel: +386 1 401 18 00
-
-Janssen\\_safety\\_slo@its.jnj.com
-
-## Slovenská republika
-
-Johnson &amp; Johnson, s.r.o.
-
-Tel: +421 232 408 400
-
-## Suomi/Finland
-
-Janssen-Cilag Oy
-
-Puh/Tel: +358 207 531 300
-
-jacfi@its.jnj.com
-
-## Sverige
-
-Janssen-Cilag AB
-
-Tfn: +46 8 626 50 00
-
-jacse@its.jnj.com
-
-## United Kingdom (Northern Ireland)
-
-Janssen Sciences Ireland UC
-
-Tel: +44 1 494 567 444
-
-medinfo@its.jnj.com
-
 <div style=\"page-break-after: always\"></div>
 
 ## Instructions for administration
 
-At the start of treatment, your healthcare provider will assist you with your first injection. However, you and your doctor may decide that you may inject Stelara yourself. If this happens, you will get training on how to inject Stelara. Talk to your doctor if you have any questions about giving yourself an injection.
+At the start of treatment, your healthcare provider will assist you with your first injection. However, you and your doctor may decide that you may inject Stelara yourself. If this happens, you will get training on how to inject Stelara. Talk to your doctor if you have any questions about giving yourself an injection. BIOHAZARD
 
 -  Do not mix Stelara with other liquids for injection
 -  Do not shake Stelara vials. This is because strong shaking may damage the medicine. Do not use the medicine if it has been shaken strongly.
@@ -4650,7 +4594,7 @@ Check the vial(s) to make sure:
 
 -  the number of vials and strength is correct
 - o If your dose is 45 mg or less, you will get one 45 mg vial of Stelara
-- o If your dose is 90 mg you will get two 45 mg vials of Stelara and you will need to give yourself two injections. Choose two different sites for these injections (for example one injection in the right thigh and the other injection in the left thigh), and give the injections one right after the other. Use a new needle and syringe for each injection.
+- o If your dose is more than 45 mg you will get two 45 mg vials of Stelara and you will need to give yourself two injections. Choose two different sites for these injections (for example one injection in the right thigh and the other injection in the left thigh), and give the injections one right after the other. Use a new needle and syringe for each injection.
 -  it is the right medicine
 -  it has not passed its expiry date
 -  the vial is not damaged and the seal is not broken
@@ -4658,7 +4602,7 @@ Check the vial(s) to make sure:
 -  the solution is not discoloured or cloudy and does not contain any foreign particles
 -  the solution is not frozen.
 
-Children with paediatric psoriasis weighing less than 60 kg need a dose lower than 45 mg. Make sure you know the proper amount (volume) to remove from the vial and type of syringe needed for dosing. If you don't know the amount or type of syringe needed, contact your healthcare provider for further instruction.
+Children with plaque psoriasis weighing less than 60 kg need a dose lower than 45 mg and children with Crohn's disease weighing less than 40 kg need a dose less than 90 mg. Make sure you know the proper amount (volume) to remove from the vial (s) and type of syringe (s) needed for dosing. If you don't know the amount or type of syringe (s) needed, contact your healthcare provider for further instruction.
 
 Get everything together that you need and lay out on a clean surface. This includes a syringe, needle, antiseptic wipes, a cotton ball or gauze, and a sharps container (see Figure 1).
 
@@ -4671,10 +4615,10 @@ Figure 1
 Choose an injection site (see Figure 2)
 
 -  Stelara is given by injection under the skin (subcutaneously)
--  Good places for the injection are the upper thigh or around the belly (abdomen) at least 5 cm away from the navel (belly button)
 
 <div style=\"page-break-after: always\"></div>
 
+-  Good places for the injection are the upper thigh or around the belly (abdomen) at least 5 cm away from the navel (belly button)
 -  If possible, do not use areas of skin that show signs of psoriasis
 -  If someone will assist in giving you the injection, then he or she may also choose the upper arms as an injection site
 
@@ -4707,10 +4651,6 @@ Figure 3
 
 <!-- image -->
 
-Figure 4
-
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
 
 -  Remove the needle from the vial
@@ -4732,15 +4672,18 @@ Figure 5
 
 ## 5. After the injection:
 
--  Press an antiseptic wipe over the injection site for a few seconds after the injection
 -  There may be a small amount of blood or liquid at the injection site. This is normal
--  You can press a cotton ball or gauze over the injection site and hold for 10 seconds
+-  Press a cotton ball or gauze over the injection site and hold for 10 seconds
 -  Do not rub the skin at the injection site. You may cover the injection site with a small adhesive bandage, if necessary.
 
 ## 6. Disposal:
 
 -  Used syringes and needles should be placed in a puncture-resistant container, like a sharps container. Never re-use needles and syringes, for your safety and health, and for the safety of others. Dispose of your sharps container according to your local regulations
 -  Empty vials, antiseptic wipes, and other supplies can be disposed of in your garbage.
+
+Figure 4
+
+<!-- image -->
 
 ## Package leaflet: Information for the user
 
@@ -4782,7 +4725,7 @@ Stelara is used to treat the following inflammatory diseases:
 
 -  Plaque psoriasis - in adults and children aged 6 years and older
 -  Psoriatic arthritis - in adults
--  Moderate to severe Crohn's disease - in adults and children who weigh at least 40 kg
+-  Moderate to severe Crohn's disease - in adults and children aged 2 years and older
 -  Moderate to severe ulcerative colitis - in adults
 
 ## Plaque psoriasis
@@ -4836,11 +4779,11 @@ Stelara can cause serious side effects, including allergic reactions and infecti
 -  If you have or have had a recent infection.
 -  If you have any new or changing lesions within psoriasis areas or on normal skin.
 -  If you have ever had an allergic reaction to latex or Stelara injection - the container of this medicinal product contains latex rubber, which may cause severe allergic reactions in people who are sensitive to latex. See 'Look out for serious side effects' in section 4 for the signs of an allergic reaction.
--  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using these therapies
+-  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using
 
 <div style=\"page-break-after: always\"></div>
 
-together with Stelara has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
+these therapies together with Stelara has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
 
 -  If you are having or have ever had injections to treat allergies - it is not known if Stelara may affect these.
 -  If you are 65 years of age or over - you may be more likely to get infections.
@@ -4855,7 +4798,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Stelara is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease who weigh less than 40 kg or for use in children under 18 years of age with psoriatic arthritis, or ulcerative colitis because it has not been studied in this age group.
+Stelara is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease under 2 years of age or for use in children under 18 years of age with psoriatic arthritis, or ulcerative colitis because it has not been studied in these age groups.
 
 ## Other medicines, vaccines and Stelara
 
@@ -4913,14 +4856,17 @@ Your doctor will decide how much Stelara you need to use and for how long.
 -  If you weigh more than 100 kg, the recommended dose is 90 mg Stelara.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks.
 
-## Children who weigh at least 40 kg
+## Children who weigh less than 40 kg Crohn's disease
 
-## Crohn's disease
-
--  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
--  In some patients, after the first injection under the skin, 90 mg Stelara may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+-  During treatment, your doctor will work out the recommended intravenous infusion dose for you based on your body surface area (BSA). This will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, your doctor will work out the next dose based on your BSA. You will receive this dose of Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+-  In some patients, after the first injection under the skin, Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
 
 <div style=\"page-break-after: always\"></div>
+
+## Children who weigh at least 40 kg Crohn's disease
+
+-  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+-  In some patients, after the first injection under the skin, 90 mg Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
 
 ## How Stelara is given
 
@@ -4964,14 +4910,14 @@ In rare cases, allergic lung reactions and lung inflammation have been reported 
 
 If you have a serious allergic reaction, your doctor may decide that you should not use Stelara again.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Infections - these may need urgent treatment. Tell your doctor straight away if you notice any of the following signs.
 
 -  Infections of the nose or throat and common cold are common (may affect up to 1 in 10 people)
 -  Infections of the chest are uncommon (may affect up to 1 in 100 people)
 -  Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
 -  Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
-
-<div style=\"page-break-after: always\"></div>
 
 Stelara may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
 
@@ -5010,6 +4956,9 @@ Uncommon side effects (may affect up to 1 in 100 people) :
 -  Tooth infections
 -  Vaginal yeast infection
 -  Depression
+
+<div style=\"page-break-after: always\"></div>
+
 -  Blocked or stuffy nose
 -  Bleeding, bruising, hardness, swelling and itching where the injection is given
 -  Feeling weak
@@ -5018,14 +4967,12 @@ Uncommon side effects (may affect up to 1 in 100 people) :
 -  Peeling of the skin (skin exfoliation)
 -  Acne
 
-<div style=\"page-break-after: always\"></div>
-
 ## Rare side effects (may affect up to 1 in 1,000 people)
 
 -  Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
 -  Inflammation of small blood vessels, which can lead to a skin rash with small red or purple bumps, fever or joint pain (vasculitis)
 
-Very rare side effects (may affect up to 1 in 10,000 people)
+## Very rare side effects (may affect up to 1 in 10,000 people)
 
 -  Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
 -  Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
@@ -5040,7 +4987,7 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 -  Store in a refrigerator (2°C-8°C). Do not freeze.
 -  Keep the pre-filled syringe in the outer carton in order to protect from light.
 -  If needed, individual Stelara pre-filled syringes may also be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled syringe is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a syringe has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
--  Do not shake Stelara pre-filled syringes. Prolonged vigorous shaking may damage the medicine.
+-  Do not shake the pre-filled syringes. Prolonged vigorous shaking may damage the medicine.
 
 ## Do not use this medicine:
 
@@ -5051,6 +4998,8 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Stelara is for single use only. Any unused product remaining in the syringe should be thrown away. Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. Contents of the pack and other information
 
 ## What Stelara contains
@@ -5058,15 +5007,15 @@ Stelara is for single use only. Any unused product remaining in the syringe shou
 -  The active substance is ustekinumab. Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL.
 -  The other ingredients are L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80 (E433), sucrose and water for injections.
 
-<div style=\"page-break-after: always\"></div>
-
 ## What Stelara looks like and contents of the pack
 
 Stelara is a clear to slightly opalescent (having a pearl-like shine), colourless to light yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled syringe. Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL of solution for injection.
 
 ## Marketing Authorisation Holder
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV
+
+Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## Manufacturer
 
@@ -5076,11 +5025,15 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377
+
+info\\_belux@its.jnj.com
 
 ## България
 
-'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
+'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00
+
+jjsafety@its.jnj.com
 
 ## Česká republika
 
@@ -5100,7 +5053,47 @@ jacdk@its.jnj.com
 
 Janssen-Cilag GmbH
 
-Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
+
+## Lietuva
+
+UAB \"JOHNSON &amp; JOHNSON\"
+
+Tel: +370 5 278 68 88
+
+lt@its.jnj.com
+
+## Luxembourg/Luxemburg
+
+Janssen-Cilag NV
+
+Tél/Tel: 800 29 504
+
+info\\_belux@its.jnj.com
+
+## Magyarország
+
+Janssen-Cilag Kft.
+
+Tel.: +36 1 884 2858
+
+janssenhu@its.jnj.com
+
+## Malta
+
+AM MANGION LTD
+
+Tel: +356 2397 6000
+
+## Nederland
+
+Janssen-Cilag B.V.
+
+Tel: 0800 242 42 42
+
+info\\_nl@its.jnj.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## Eesti
 
@@ -5112,43 +5105,11 @@ ee@its.jnj.com
 
 ## Ελλάδα
 
-Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη
 
-## Lietuva
+Α.Ε.Β.Ε.
 
-UAB \"JOHNSON &amp; JOHNSON\"
-
-Tel: +370 5 278 68 88 lt@its.jnj.com
-
-## Luxembourg/Luxemburg
-
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
-
-## Magyarország
-
-Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
-
-## Malta
-
-AM MANGION LTD
-
-Tel: +356 2397 6000
-
-## Nederland
-
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
-
-## Norge
-
-Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
-
-## Österreich
-
-Janssen-Cilag Pharma GmbH
-
-Tel: +43 1 610 300
-
-<div style=\"page-break-after: always\"></div>
+Tηλ: +30 210 80 90 000
 
 ## España
 
@@ -5174,15 +5135,11 @@ jjsafety@JNJCR.JNJ.com
 
 ## Ireland
 
-Janssen Sciences Ireland UC
-
-Tel: 1 800 709 122
-
-medinfo@its.jnj.com
+Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
 
 ## Ísland
 
-Janssen-Cilag AB c/o Vistor hf. Sími: +354 535 7000 janssen@vistor.is
+Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Italia
 
@@ -5210,6 +5167,20 @@ lv@its.jnj.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+## Norge
+
+Janssen-Cilag AS
+
+Tlf: +47 24 12 65 00
+
+jacno@its.jnj.com
+
+## Österreich
+
+Janssen-Cilag Pharma GmbH
+
+Tel: +43 1 610 300
+
 ## Polska
 
 Janssen-Cilag Polska Sp. z o.o.
@@ -5234,7 +5205,7 @@ Johnson &amp; Johnson d.o.o.
 
 Tel: +386 1 401 18 00
 
-Janssen\\_safety\\_slo@its.jnj.com
+JNJ-SI-safety@its.jnj.com
 
 ## Slovenská republika
 
@@ -5244,11 +5215,7 @@ Tel: +421 232 408 400
 
 ## Suomi/Finland
 
-Janssen-Cilag Oy
-
-Puh/Tel: +358 207 531 300
-
-jacfi@its.jnj.com
+Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 
 ## Sverige
 
@@ -5258,15 +5225,25 @@ Tfn: +46 8 626 50 00
 
 jacse@its.jnj.com
 
-## United Kingdom (Northern Ireland)
-
-Janssen Sciences Ireland UC
-
-Tel: +44 1 494 567 444
-
-medinfo@its.jnj.com
-
 <div style=\"page-break-after: always\"></div>
+
+PLUNGER
+
+PLUNGER
+
+HEAD
+
+NEEDLE GUARD
+
+ACTIVATION CLIPS
+
+BODY
+
+VIEWING
+
+WINDOW
+
+*
 
 ## Instructions for administration
 
@@ -5303,6 +5280,10 @@ Preparing for use of the pre-filled syringe
 -  the solution in the pre-filled syringe is clear to slightly opalescent (having a pearl-like shine) and colourless to light yellow
 -  the solution in the pre-filled syringe is not discoloured or cloudy and does not contain any foreign particles
 -  the solution in the pre-filled syringe is not frozen.
+
+NEEDLE
+
+COVER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5345,12 +5326,14 @@ Figure 3
 
 <div style=\"page-break-after: always\"></div>
 
+05 2023
+
 ## 4. Inject the dose:
 
 -  Hold the pre-filled syringe with one hand between the middle and index fingers and place the thumb on top of the plunger head and use the other hand to gently pinch the cleaned skin between your thumb and index finger. Do not squeeze it tightly
 -  Do not pull back on the plunger at any time
--  In a single and swift motion, insert the needle through the skin as far as it will go (see Figure 4)
--  Inject all of the medication by pushing in the plunger until the plunger head is completely between the needle guard wings (see Figure 5) (comS1oog）cS
+-  In a single and swift motion, insert the needle through the skin as far as it will go (see Figure 4) Fioure 6
+-  Inject all of the medication by pushing in the plunger until the plunger head is completely between the needle guard wings (see Figure 5)
 -  When the plunger is pushed as far as it will go, continue to keep the pressure on the plunger head, take out the needle and let go of the skin (see Figure 6)
 -  Slowly take your thumb off the plunger head to allow the empty syringe to move up until the entire needle is covered by the needle guard, as shown by Figure 7:
 
@@ -5368,11 +5351,12 @@ Figure 6
 
 <div style=\"page-break-after: always\"></div>
 
+BIOHAZARD
+
 ## 5. After the injection:
 
--  Press an antiseptic wipe over the injection site for a few seconds after the injection.
 -  There may be a small amount of blood or liquid at the injection site. This is normal.
--  You can press a cotton ball or gauze over the injection site and hold for 10 seconds.
+-  Press a cotton ball or gauze over the injection site and hold for 10 seconds.
 -  Do not rub the skin at the injection site. You may cover the injection site with a small adhesive bandage, if necessary.
 
 ## 6. Disposal:
@@ -5428,7 +5412,7 @@ Stelara is used to treat the following inflammatory diseases:
 
 -  Plaque psoriasis - in adults and children aged 6 years and older
 -  Psoriatic arthritis - in adults
--  Moderate to severe Crohn's disease - in adults and children who weigh at least 40 kg
+-  Moderate to severe Crohn's disease - in adults and children aged 2 years and older
 -  Moderate to severe ulcerative colitis - in adults
 
 ## Plaque psoriasis
@@ -5482,11 +5466,11 @@ Stelara can cause serious side effects, including allergic reactions and infecti
 -  If you have or have had a recent infection.
 -  If you have any new or changing lesions within psoriasis areas or on normal skin.
 -  If you have ever had an allergic reaction to latex or Stelara injection - the container of this medicinal product contains latex rubber, which may cause severe allergic reactions in people who are sensitive to latex. See 'Look out for serious side effects' in section 4 for the signs of an allergic reaction.
--  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using these therapies
+-  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using
 
 <div style=\"page-break-after: always\"></div>
 
-together with Stelara has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
+these therapies together with Stelara has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
 
 -  If you are having or have ever had injections to treat allergies - it is not known if Stelara may affect these.
 -  If you are 65 years of age or over - you may be more likely to get infections.
@@ -5501,7 +5485,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Stelara is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease who weigh less than 40 kg or for use in children under 18 years of age with psoriatic arthritis, or ulcerative colitis because it has not been studied in this age group.
+Stelara is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease under 2 years of age or for use in children under 18 years of age with psoriatic arthritis, or ulcerative colitis because it has not been studied in these age groups.
 
 ## Other medicines, vaccines and Stelara
 
@@ -5559,14 +5543,18 @@ Your doctor will decide how much Stelara you need to use and for how long.
 -  If you weigh more than 100 kg, the recommended dose is 90 mg Stelara.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks.
 
-## Children who weigh at least 40 kg
+## Children who weigh less than 40 kg Crohn's disease
 
-Crohn's disease
-
--  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
--  In some patients, after the first injection under the skin, 90 mg Stelara may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+-  During treatment, your doctor will work out the recommended intravenous infusion for you based on your body surface area (BSA). This will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, your doctor will work out the next dose based on your BSA. You will receive this dose of Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+-  In some patients, after the first injection under the skin, Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
 
 <div style=\"page-break-after: always\"></div>
+
+## Children who weigh at least 40 kg Crohn's disease
+
+-  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+
+In some patients, after the first injection under the skin, 90 mg Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
 
 ## How Stelara is given
 
@@ -5610,14 +5598,14 @@ In rare cases, allergic lung reactions and lung inflammation have been reported 
 
 If you have a serious allergic reaction, your doctor may decide that you should not use Stelara again.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Infections - these may need urgent treatment. Tell your doctor straight away if you notice any of the following signs.
 
 -  Infections of the nose or throat and common cold are common (may affect up to 1 in 10 people)
 -  Infections of the chest are uncommon (may affect up to 1 in 100 people)
 -  Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
 -  Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
-
-<div style=\"page-break-after: always\"></div>
 
 Stelara may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
 
@@ -5637,7 +5625,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 
 ## Other side effects
 
-Common side effects (may affect up to 1 in 10 people) :
+## Common side effects (may affect up to 1 in 10 people) :
 
 -  Diarrhoea
 -  Nausea
@@ -5656,6 +5644,9 @@ Common side effects (may affect up to 1 in 10 people) :
 -  Tooth infections
 -  Vaginal yeast infection
 -  Depression
+
+<div style=\"page-break-after: always\"></div>
+
 -  Blocked or stuffy nose
 -  Bleeding, bruising, hardness, swelling and itching where the injection is given
 -  Feeling weak
@@ -5663,8 +5654,6 @@ Common side effects (may affect up to 1 in 10 people) :
 -  A change in psoriasis with redness and new tiny, yellow or white skin blisters, sometimes accompanied by fever (pustular psoriasis)
 -  Peeling of the skin (skin exfoliation)
 -  Acne
-
-<div style=\"page-break-after: always\"></div>
 
 ## Rare side effects (may affect up to 1 in 1,000 people)
 
@@ -5686,7 +5675,7 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 -  Store in a refrigerator (2°C-8°C). Do not freeze.
 -  Keep the pre-filled syringe in the outer carton in order to protect from light.
 -  If needed, individual Stelara pre-filled syringes may also be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled syringe is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a syringe has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
--  Do not shake Stelara pre-filled syringes. Prolonged vigorous shaking may damage the medicine.
+-  Do not shake the pre-filled syringes. Prolonged vigorous shaking may damage the medicine.
 
 ## Do not use this medicine:
 
@@ -5697,6 +5686,8 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Stelara is for single use only. Any unused product remaining in the syringe should be thrown away. Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. Contents of the pack and other information
 
 ## What Stelara contains
@@ -5704,15 +5695,15 @@ Stelara is for single use only. Any unused product remaining in the syringe shou
 -  The active substance is ustekinumab. Each pre-filled syringe contains 90 mg ustekinumab in 1 mL.
 -  The other ingredients are L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80 (E433), sucrose and water for injections.
 
-<div style=\"page-break-after: always\"></div>
-
 ## What Stelara looks like and contents of the pack
 
 Stelara is a clear to slightly opalescent (having a pearl-like shine), colourless to light yellow solution for injection. The solution may contain a few small translucent or white particles of protein. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled syringe. Each pre-filled syringe contains 90 mg ustekinumab in 1 mL of solution for injection.
 
 ## Marketing Authorisation Holder
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV
+
+Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## Manufacturer
 
@@ -5722,7 +5713,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377
+
+info\\_belux@its.jnj.com
 
 ## България
 
@@ -5746,7 +5739,47 @@ jacdk@its.jnj.com
 
 Janssen-Cilag GmbH
 
-Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
+
+## Lietuva
+
+UAB \"JOHNSON &amp; JOHNSON\"
+
+Tel: +370 5 278 68 88
+
+lt@its.jnj.com
+
+## Luxembourg/Luxemburg
+
+Janssen-Cilag NV
+
+Tél/Tel: 800 29 504
+
+info\\_belux@its.jnj.com
+
+## Magyarország
+
+Janssen-Cilag Kft.
+
+Tel.: +36 1 884 2858
+
+janssenhu@its.jnj.com
+
+## Malta
+
+AM MANGION LTD
+
+Tel: +356 2397 6000
+
+## Nederland
+
+Janssen-Cilag B.V.
+
+Tel: 0800 242 42 42
+
+info\\_nl@its.jnj.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## Eesti
 
@@ -5758,41 +5791,11 @@ ee@its.jnj.com
 
 ## Ελλάδα
 
-Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη
 
-## Lietuva
+Α.Ε.Β.Ε.
 
-UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
-
-## Luxembourg/Luxemburg
-
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
-
-## Magyarország
-
-Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
-
-## Malta
-
-AM MANGION LTD
-
-Tel: +356 2397 6000
-
-## Nederland
-
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
-
-## Norge
-
-Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
-
-## Österreich
-
-Janssen-Cilag Pharma GmbH
-
-Tel: +43 1 610 300
-
-<div style=\"page-break-after: always\"></div>
+Tηλ: +30 210 80 90 000
 
 ## España
 
@@ -5818,19 +5821,11 @@ jjsafety@JNJCR.JNJ.com
 
 ## Ireland
 
-Janssen Sciences Ireland UC
-
-Tel: 1 800 709 122
-
-medinfo@its.jnj.com
+Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
 
 ## Ísland
 
-Janssen-Cilag AB c/o Vistor hf.
-
-Sími: +354 535 7000
-
-janssen@vistor.is
+Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Italia
 
@@ -5858,6 +5853,20 @@ lv@its.jnj.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+## Norge
+
+Janssen-Cilag AS
+
+Tlf: +47 24 12 65 00
+
+jacno@its.jnj.com
+
+## Österreich
+
+Janssen-Cilag Pharma GmbH
+
+Tel: +43 1 610 300
+
 ## Polska
 
 Janssen-Cilag Polska Sp. z o.o.
@@ -5882,7 +5891,7 @@ Johnson &amp; Johnson d.o.o.
 
 Tel: +386 1 401 18 00
 
-Janssen\\_safety\\_slo@its.jnj.com
+JNJ-SI-safety@its.jnj.com
 
 ## Slovenská republika
 
@@ -5892,11 +5901,7 @@ Tel: +421 232 408 400
 
 ## Suomi/Finland
 
-Janssen-Cilag Oy
-
-Puh/Tel: +358 207 531 300
-
-jacfi@its.jnj.com
+Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 
 ## Sverige
 
@@ -5906,15 +5911,21 @@ Tfn: +46 8 626 50 00
 
 jacse@its.jnj.com
 
-## United Kingdom (Northern Ireland)
-
-Janssen Sciences Ireland UC
-
-Tel: +44 1 494 567 444
-
-medinfo@its.jnj.com
-
 <div style=\"page-break-after: always\"></div>
+
+PLUNGER
+
+PLUNGER
+
+HEAD
+
+NEEDLE GUARD
+
+VIEWING
+
+ACTIVATION CLIPS
+
+WINDOW
 
 ## Instructions for administration
 
@@ -5940,7 +5951,7 @@ Preparing for use of the pre-filled syringe
 -  Do not remove the needle cover from the pre-filled syringe until instructed to do so
 -  Do not touch the needle guard activation clips (as indicated by asterisks * in Figure 1) to prevent prematurely covering the needle with the needle guard.
 
-Check the pre-filled syringe(s) to make sure
+## Check the pre-filled syringe(s) to make sure
 
 -  the number of pre-filled syringes and strength is correct
 - o If your dose is 90 mg you will get one 90 mg pre-filled syringe of Stelara.
@@ -5953,22 +5964,26 @@ Check the pre-filled syringe(s) to make sure
 
 Get everything together that you need and lay out on a clean surface. This includes antiseptic wipes, a cotton ball or gauze, and a sharps container.
 
+BODY
+
+NEEDLE
+
+COVER
+
+<div style=\"page-break-after: always\"></div>
+
 ## 2. Choose and prepare the injection site:
 
 Choose an injection site (see Figure 2)
-
-<div style=\"page-break-after: always\"></div>
 
 -  Stelara is given by injection under the skin (subcutaneously)
 -  Good places for the injection are the upper thigh or around the belly (abdomen) at least 5 cm away from the navel (belly button)
 -  If possible, do not use areas of skin that show signs of psoriasis
 -  If someone will assist in giving you the injection, then he or she may also choose the upper arms as an injection site.
 
-*Areas in gray are recommended injection sites.
+Figure 2 *Areas in gray are recommended injection sites.
 
 <!-- image -->
-
-Figure 2
 
 ## Prepare the injection site
 
@@ -5998,6 +6013,12 @@ Figure 3
 
 <div style=\"page-break-after: always\"></div>
 
+05 2023
+
+....-
+
+05 2023
+
 Figure 4
 
 <!-- image -->
@@ -6014,17 +6035,14 @@ Figure 6
 
 <!-- image -->
 
-Figure 7
-
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
 ## 5. After the injection:
 
--  Press an antiseptic wipe over the injection site for a few seconds after the injection.
 -  There may be a small amount of blood or liquid at the injection site. This is normal.
--  You can press a cotton ball or gauze over the injection site and hold for 10 seconds.
+-  Press a cotton ball or gauze over the injection site and hold for 10 seconds.
 -  Do not rub the skin at the injection site. You may cover the injection site with a small adhesive bandage, if necessary.
 
 ## 6. Disposal:
@@ -6142,9 +6160,9 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-The Stelara pre-filled pen is not recommended for use in children and adolescents under 18 years of age with psoriasis or Crohn's disease because it has not been studied in this age group. The pre-filled syringe or vial should be used instead for children 6 years of age and older and adolescents with psoriasis. The solution for infusion, pre-filled vial or syringe should be used instead for children weighing at least 40 kg with Crohn's disease.
+The Stelara pre-filled pen is not recommended for use in children and adolescents under 18 years of age with psoriasis or Crohn's disease because it has not been studied in this age group. The pre-filled syringe or vial should be used instead for children 6 years of age and older and adolescents with psoriasis. The solution for infusion, pre-filled vial or syringe should be used instead for children 2 years of age and older with Crohn's disease.
 
-Stelara is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis, or ulcerative colitis or children with Crohn's disease who weigh less than 40 kg because it has not been studied in this age group.
+Stelara is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis, or ulcerative colitis or children with Crohn's disease under 2 years of age because it has not been studied in these age groups.
 
 ## Other medicines, vaccines and Stelara
 
@@ -6215,11 +6233,11 @@ It is not dangerous to stop using Stelara. However, if you stop, your symptoms m
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Serious side effects
 
@@ -6258,11 +6276,13 @@ You must look out for signs of infection while you are using Stelara. These incl
 
 Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, or skin infections or shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Stelara until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
 
-Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
-
-## Other side effects
+Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin
 
 <div style=\"page-break-after: always\"></div>
+
+## conditions. You should tell your doctor straight away if you notice any of these signs.
+
+## Other side effects
 
 ## Common side effects (may affect up to 1 in 10 people) :
 
@@ -6310,13 +6330,11 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 -  Keep this medicine out of the sight and reach of children.
 -  Store in a refrigerator (2°C-8°C). Do not freeze.
 -  Keep the pre-filled pen in the outer carton in order to protect from light.
--  If needed, individual Stelara pre-filled pens may also be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the
 
 <div style=\"page-break-after: always\"></div>
 
-original expiry date printed on the carton. Once a pre-filled pen has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
-
--  Do not shake Stelara pre-filled pens. Prolonged vigorous shaking may damage the medicine.
+-  If needed, individual Stelara pre-filled pens may also be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a pre-filled pen has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
+-  Do not shake the pre-filled pens. Prolonged vigorous shaking may damage the medicine.
 
 ## Do not use this medicine:
 
@@ -6346,43 +6364,65 @@ Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden The Netherlands
 
+<div style=\"page-break-after: always\"></div>
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377
 
-Lietuva
-
-UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88
-
-lt@its.jnj.com
+info\\_belux@its.jnj.com
 
 ## България
 
-'Джонсън &amp; Джонсън България' ЕООД
-
-Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
-
-## Luxembourg/Luxemburg
-
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11
-
-janssen@jacbe.jnj.com
+'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
 
 ## Česká republika
 
-Janssen-Cilag s.r.o.
-
-Tel: +420 227 012 227
-
-## Magyarország
-
-Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
+Janssen-Cilag s.r.o. Tel: +420 227 012 227
 
 ## Danmark
 
 Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
+
+## Deutschland
+
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
+
+## Eesti
+
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
+
+## Ελλάδα
+
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
+
+## España
+
+Janssen-Cilag, S.A. Tel: +34 91 722 81 00
+
+contacto@its.jnj.com
+
+## France
+
+Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
+
+## Hrvatska
+
+Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
+
+## Lietuva
+
+UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
+
+## Luxembourg/Luxemburg
+
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
+
+## Magyarország
+
+Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
 
 ## Malta
 
@@ -6390,77 +6430,45 @@ AM MANGION LTD
 
 Tel: +356 2397 6000
 
-## Deutschland
-
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
-
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
-
-## Eesti
-
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 ## Norge
 
-Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
+Janssen-Cilag AS
 
-## Ελλάδα
+Tlf: +47 24 12 65 00
 
-Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
+jacno@its.jnj.com
 
 ## Österreich
 
-Janssen-Cilag Pharma GmbH
-
-Tel: +43 1 610 300
-
-## España
-
-Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
+Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
 
 ## Polska
 
 Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
 
-## France
-
-Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
-
 ## Portugal
 
 Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
-
-## Hrvatska
-
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
 
 ## România
 
 Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
 
+<div style=\"page-break-after: always\"></div>
+
 ## Ireland
 
-Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
+Janssen Sciences Ireland UC Tel: 1 800 709 122
 
-## Slovenija
-
-Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 Janssen\\_safety\\_slo@its.jnj.com
+medinfo@its.jnj.com
 
 ## Ísland
 
-Janssen-Cilag AB c/o Vistor hf. Sími: +354 535 7000 janssen@vistor.is
-
-## Slovenská republika
-
-Johnson &amp; Johnson, s.r.o.
-
-Tel: +421 232 408 400
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
+Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Italia
 
@@ -6478,7 +6486,9 @@ Tηλ: +357 22 207 700
 
 ## Latvija
 
-UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
+UAB \"JOHNSON &amp; JOHNSON\" filiāle
+
+Latvijā
 
 Tel: +371 678 93561
 
@@ -6488,6 +6498,16 @@ lv@its.jnj.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+## Slovenija
+
+Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
+
+## Slovenská republika
+
+Johnson &amp; Johnson, s.r.o.
+
+Tel: +421 232 408 400
+
 ## Suomi/Finland
 
 Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
@@ -6495,12 +6515,6 @@ Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 ## Sverige
 
 Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
-
-## United Kingdom (Northern Ireland)
-
-Janssen Sciences Ireland UC
-
-Tel: +44 1 494 567 444 medinfo@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6551,21 +6565,53 @@ Keep the pre-filled pen in the original carton to protect from light and physica
 
 <!-- image -->
 
-## Need help?
-
 Call your doctor to talk about any questions you may have. For additional assistance or to share your feedback refer to the Package Leaflet for your local representative contact information.
 
 <div style=\"page-break-after: always\"></div>
 
+Pre-filled pen injector parts
+
+Before use
+
+Handle
+
+Purple Body
+
+Window
+
+Needle
+
+Guard
+
+Bottom Cap
+
+Do not touch inside.
+
+Gather the following supplies.
+
+Provided in the carton:
+
+· Pre-filled pen injector
+
+Not provided in the carton:
+
+## · Alcohol swabs · Cotton balls or gauze pads
+
+- Adhesive bandages
+
+· Sharps container (See Step 3)
+
+After use
+
+30
+
+WAIT
+
+MIN
+
+-
+
 <!-- image -->
-
-Gather the following supplies. Provided in the carton:
-
-- . Pre-filled pen injector Not provided in the carton:
-- ·Alcohol swabs
-- . Cotton balls or gauze pads
-- ·Adhesive bandages
-- Sharps container (See Step 3)
 
 ## 1. Preparing to Inject Stelara
 
@@ -6581,13 +6627,15 @@ If your dose is 90 mg, you will receive one 90 mg or two 45 mg pre-filled pens. 
 
 <div style=\"page-break-after: always\"></div>
 
+EXP
+
 ## Choose a different injection site for the second injection.
 
 <!-- image -->
 
-## Check the expiration date ('EXP') and seals on the carton(s)
+## Check the expiry date ('EXP') and seals on the carton(s)
 
-Do not use the pre-filled pen if the seals on the carton are broken or if the expiration date has passed. Do not use the pre-filled pen if it has been kept at room temperature for longer than 30 days or if it has been stored above 30°C. Call your doctor or pharmacist for a new pre-filled pen.
+Do not use the pre-filled pen if the seals on the carton are broken or if the expiry date has passed. Do not use the pre-filled pen if it has been kept at room temperature for longer than 30 days or if it has been stored above 30°C. Call your doctor or pharmacist for a new pre-filled pen.
 
 <!-- image -->
 
@@ -6604,11 +6652,11 @@ If someone else is giving you the injection, they may also use:
 
 Do not inject into skin that is tender, bruised, red, or hard.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Use a different injection site for each injection.
 
 <!-- image -->
+
+<div style=\"page-break-after: always\"></div>
 
 ## Wash hands
 
@@ -6632,8 +6680,6 @@ Check the liquid in the viewing window. It should be clear to slightly opalescen
 
 Do not inject if the liquid is frozen, cloudy, discoloured, or has large particles. Call your doctor or pharmacist for a new pre-filled pen.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 2. Injecting Stelara
 
 <!-- image -->
@@ -6642,11 +6688,13 @@ Do not inject if the liquid is frozen, cloudy, discoloured, or has large particl
 
 Keep hands away from the needle guard after the cap is removed. It is normal to see a few drops of liquid.
 
-## Inject Stelara within 5 minutes of removing the cap.
+Inject Stelara within 5 minutes of removing the cap.
 
 Do not put the cap back on. This could damage the needle.
 
 Do not use a pre-filled pen if it is dropped after removing the cap. Call your doctor or pharmacist for a new pre-filled pen.
+
+<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
@@ -6658,11 +6706,9 @@ If you do, the needle guard will lock, showing a yellow band, and you will not g
 
 You may hear a click when the injection begins. Keep pushing.
 
-If you feel resistance, keep pushing. This is normal.
+## If you feel resistance, keep pushing. This is normal.
 
 The medication injects as you push. Do this at a speed that is comfortable for you.
-
-<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
@@ -6680,6 +6726,8 @@ Your injection is complete when:
 
 The yellow band indicates that the needle guard is locked into place.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 3. After your injection
 
 <!-- image -->
@@ -6691,8 +6739,6 @@ Put the used pre-filled pen in a sharps disposal container right away after use.
 Do not throw away (dispose of) the pre-filled pens in the household trash.
 
 Do not recycle your used sharps disposal container.
-
-<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
@@ -6812,9 +6858,9 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-The Stelara pre-filled pen is not recommended for use in children and adolescents under 18 years of age with psoriasis or Crohn's disease because it has not been studied in this age group. The pre-filled syringe or vial should be used instead for children 6 years of age and older and adolescents with psoriasis. The solution for infusion, pre-filled vial or syringe should be used instead for children weighing at least 40 kg with Crohn's disease.
+The Stelara pre-filled pen is not recommended for use in children and adolescents under 18 years of age with psoriasis or Crohn's disease because it has not been studied in this age group. The pre-filled syringe or vial should be used instead for children 6 years of age and older and adolescents with psoriasis. The solution for infusion, pre-filled vial or syringe should be used instead for children 2 years of age and older with Crohn's disease.
 
-Stelara is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis, ulcerative colitis or children with Crohn's disease who weigh less than 40 kg because it has not been studied in this age group.
+Stelara is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis, ulcerative colitis or children with Crohn's disease under 2 years of age because it has not been studied in these age groups.
 
 ## Other medicines, vaccines and Stelara
 
@@ -6853,9 +6899,7 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 Your doctor will decide how much Stelara you need to use and for how long.
 
-## Adults aged 18 years or older
-
-## Psoriasis or Psoriatic Arthritis
+## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
 
 -  The recommended starting dose is 45 mg Stelara. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
@@ -6887,11 +6931,11 @@ It is not dangerous to stop using Stelara. However, if you stop, your symptoms m
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Serious side effects
 
@@ -6932,9 +6976,9 @@ Tell your doctor straight away if you notice any of these signs of infection. Th
 
 Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
 
-## Other side effects
-
 <div style=\"page-break-after: always\"></div>
+
+## Other side effects
 
 ## Common side effects (may affect up to 1 in 10 people) :
 
@@ -6982,13 +7026,13 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 -  Keep this medicine out of the sight and reach of children.
 -  Store in a refrigerator (2°C-8°C). Do not freeze.
 -  Keep the pre-filled pen in the outer carton in order to protect from light.
--  If needed, individual Stelara pre-filled pens may also be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the
+-  If needed, individual Stelara pre-filled pens may also be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from
 
 <div style=\"page-break-after: always\"></div>
 
-original expiry date printed on the carton. Once a pre-filled pen has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
+light. Record the date when the pre-filled pen is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a pre-filled pen has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 
--  Do not shake Stelara pre-filled pen. Prolonged vigorous shaking may damage the medicine.
+-  Do not shake the pre-filled pen. Prolonged vigorous shaking may damage the medicine.
 
 ## Do not use this medicine:
 
@@ -7022,11 +7066,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
-Lietuva Tel: +370 5 278 68 88 lt@its.jnj.com
-
-UAB \"JOHNSON &amp; JOHNSON\"
+Lietuva UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## България
 
@@ -7034,7 +7076,7 @@ UAB \"JOHNSON &amp; JOHNSON\"
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
 
 ## Česká republika
 
@@ -7058,15 +7100,17 @@ Tel: +356 2397 6000
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 ## Eesti
 
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
+
+Tel: +372 617 7410 ee@its.jnj.com
 
 ## Norge
 
@@ -7110,11 +7154,11 @@ Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
 
 ## Slovenija
 
-Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 Janssen\\_safety\\_slo@its.jnj.com
+Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
 
 ## Ísland
 
-Janssen-Cilag AB c/o Vistor hf. Sími: +354 535 7000 janssen@vistor.is
+Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Slovenská republika
 
@@ -7142,7 +7186,9 @@ Tηλ: +357 22 207 700
 
 ## Latvija
 
-UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
+UAB \"JOHNSON &amp; JOHNSON\" filiāle
+
+Latvijā
 
 Tel: +371 678 93561
 
@@ -7160,13 +7206,9 @@ Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 
 Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
 
-## United Kingdom (Northern Ireland)
-
-Janssen Sciences Ireland UC
-
-Tel: +44 1 494 567 444 medinfo@its.jnj.com
-
 <div style=\"page-break-after: always\"></div>
+
+St
 
 <!-- image -->
 
@@ -7182,7 +7224,7 @@ If your doctor decides that you or a caregiver may be able to give your injectio
 
 Each pre-filled pen can only be used one time. Throw it away (see Step 3) after use even if there is medicine left in it.
 
-Do not reuse the pre-filled pen.
+## Do not reuse the pre-filled pen.
 
 Read these Instructions for Use before using the Stelara pre-filled pen and each time you get a new pre-filled pen. There may be new information. This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
 
@@ -7197,17 +7239,21 @@ The needle cover inside the bottom cap of the pre-filled pen contains latex. Do 
 
 Please also read the Package Leaflet carefully before starting your injection and discuss any questions you may have with your doctor or nurse.
 
-## Instructions for use Stelara (ustekinumab) injection, for subcutaneous use Pre-filled pen
+<!-- image -->
+
+Store in refrigerator at 2° to 8°C. If needed, store at room temperature up to 30°C for up to 30 days in
+
+## injection, for subcutaneous use
+
+## Instructions for use Stelara (ustekinumab) Pre-filled pen
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-Store in refrigerator at 2° to 8°C. If needed, store at room temperature up to 30°C for up to 30 days in the original carton. Do not return to refrigerator once stored at room temperature.
+the original carton. Do not return to refrigerator once stored at room temperature.
 
 Do not freeze the pre-filled pen.
 
-## Keep the pre-filled pen and all medicines out of reach of children.
+Keep the pre-filled pen and all medicines out of reach of children.
 
 Do not shake the pre-filled pen. Shaking may damage the Stelara medicine. If the pre-filled pen has been shaken, do not use it. Get a new pre-filled pen.
 
@@ -7215,11 +7261,53 @@ Keep the pre-filled pen in the original carton to protect from light and physica
 
 <!-- image -->
 
+## Need help?
+
 Call your doctor to talk about any questions you may have. For additional assistance or to share your feedback refer to the Package Leaflet for your local representative contact information.
 
 <div style=\"page-break-after: always\"></div>
 
+Pre-filled pen injector parts
+
+Before use
+
+Handle
+
+Purple Body
+
+Window
+
+Needle
+
+Guard
+
+Bottom Cap
+
+Do not touch inside.
+
+Gather the following supplies.
+
+Provided in the carton:
+
+· Pre-filled pen injector
+
+Not provided in the carton:
+
+WAIT
+
+30
+
+MIN
+
 <!-- image -->
+
+## · Alcohol swabs
+
+· Cotton balls or gauze pads
+
+- Adhesive bandages
+
+· Sharps container (See Step 3)
 
 ## 1. Preparing to Inject Stelara
 
@@ -7227,25 +7315,27 @@ Call your doctor to talk about any questions you may have. For additional assist
 
 ## Gather carton(s)
 
-If refrigerated, remove the pre-filled pen carton(s) from the refrigerator and place on a flat surface.
+If refrigerated, remove the pre-filled pen carton(s) from the refrigerator and place on a flat surface. Leave at room temperature for at least 30 minutes before use. Do not warm any other way.
 
-Leave at room temperature for at least 30 minutes before use.
+If your dose is 45 mg, you will receive one 45 mg pre-filled pen. If your dose is 90 mg, you will receive one 90 mg or two 45 mg pre-filled pens. If you receive two
 
-Do not warm any other way.
-
-<div style=\"page-break-after: always\"></div>
-
-If your dose is 45 mg, you will receive one 45 mg pre-filled pen.
-
-If your dose is 90 mg, you will receive one 90 mg or two 45 mg pre-filled pens. If you receive two 45 mg pre-filled pens, follow Steps 1-3 for both injections.
+45 mg pre-filled pens, follow Steps 1-3 for both injections.
 
 Choose a different injection site for the second injection.
 
+-
+
+After use
+
+<div style=\"page-break-after: always\"></div>
+
+EXP
+
 <!-- image -->
 
-## Check the expiration date ('EXP') and seals on the carton(s)
+## Check the expiry date ('EXP') and seals on the carton(s)
 
-Do not use the pre-filled pen if the seals on the carton are broken or if the expiration date has passed. Do not use the pre-filled pen if it has been kept at room temperature for longer than 30 days or if it has been stored above 30°C. Call your doctor or pharmacist for a new pre-filled pen.
+Do not use the pre-filled pen if the seals on the carton are broken or if the expiry date has passed. Do not use the pre-filled pen if it has been kept at room temperature for longer than 30 days or if it has been stored above 30°C. Call your doctor or pharmacist for a new pre-filled pen.
 
 <!-- image -->
 
@@ -7262,15 +7352,15 @@ If someone else is giving you the injection, they may also use:
 
 Do not inject into skin that is tender, bruised, red, or hard.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Use a different injection site for each injection.
+
+Wash hands
 
 <!-- image -->
 
-## Wash hands
-
 Wash your hands well with soap and warm water.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Clean injection site
 
@@ -7290,8 +7380,6 @@ Check the liquid in the viewing window. It should be clear to slightly opalescen
 
 Do not inject if the liquid is frozen, cloudy, discoloured, or has large particles. Call your doctor or pharmacist for a new pre-filled pen.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 2. Injecting Stelara
 
 <!-- image -->
@@ -7306,6 +7394,8 @@ Do not put the cap back on. This could damage the needle.
 
 Do not use a pre-filled pen if it is dropped after removing the cap. Call your doctor or pharmacist for a new pre-filled pen.
 
+<div style=\"page-break-after: always\"></div>
+
 <!-- image -->
 
 Place straight on skin. Push handle all the way down until purple body is not visible.
@@ -7316,11 +7406,9 @@ If you do, the needle guard will lock, showing a yellow band, and you will not g
 
 You may hear a click when the injection begins. Keep pushing.
 
-If you feel resistance, keep pushing. This is normal.
+## If you feel resistance, keep pushing. This is normal.
 
 The medication injects as you push. Do this at a speed that is comfortable for you.
-
-<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
@@ -7338,6 +7426,8 @@ Your injection is complete when:
 
 The yellow band indicates that the needle guard is locked into place.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 3. After your injection
 
 <!-- image -->
@@ -7349,8 +7439,6 @@ Put the used pre-filled pen in a sharps disposal container right away after use.
 Do not throw away (dispose of) the pre-filled pens in the household trash.
 
 Do not recycle your used sharps disposal container.
-
-<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 

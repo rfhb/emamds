@@ -1,25 +1,21 @@
 ---
-document_datetime: 2025-08-13 15:07:58
+document_datetime: 2026-04-21 13:23:27
 document_pages: 59
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ferriprox-epar-product-information_en.pdf
 document_name: ferriprox-epar-product-information_en.pdf
 version: success
-processing_time: 11.6884384
-conversion_datetime: 2025-12-25 07:01:00.861421
+processing_time: 13.7373092
+conversion_datetime: 2026-04-25 16:16:52.673225
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
-This document is the approved product information for Ferriprox, with the changes since the previous procedure affecting the product information EMEA/H/C/000236/IB/0158 tracked.
-
-For more information, see the European Medicines Agency's website: https://www.ema.europa.eu/en/medicines/human/epar/Ferriprox
-
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
@@ -32,7 +28,7 @@ Ferriprox 500 mg film-coated tablets Ferriprox 1 000 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-## Ferriprox 500 mg film-coated tablets
+Ferriprox 500 mg film-coated tablets
 
 Each tablet contains 500 mg deferiprone.
 
@@ -78,13 +74,13 @@ Table 1a: Dose table for Ferriprox 500 mg film-coated tablets
 
 |   Body weight (kg) | Total daily dose (mg)   | Dose (mg, three times/day)   |   Number of tablets (three times/day) |
 |--------------------|-------------------------|------------------------------|---------------------------------------|
-|                 20 | 1 500                   | 500                          |                                   1   |
+|                 20 | 1 500                   | 500                          |                                   1.0 |
 |                 30 | 2 250                   | 750                          |                                   1.5 |
-|                 40 | 3 000                   | 1 000                        |                                   2   |
+|                 40 | 3 000                   | 1 000                        |                                   2.0 |
 |                 50 | 3 750                   | 1 250                        |                                   2.5 |
-|                 60 | 4 500                   | 1 500                        |                                   3   |
+|                 60 | 4 500                   | 1 500                        |                                   3.0 |
 |                 70 | 5 250                   | 1 750                        |                                   3.5 |
-|                 80 | 6 000                   | 2 000                        |                                   4   |
+|                 80 | 6 000                   | 2 000                        |                                   4.0 |
 |                 90 | 6 750                   | 2 250                        |                                   4.5 |
 
 Table 1b: Dose table for Ferriprox 1 000 mg film-coated tablets
@@ -283,7 +279,7 @@ Neurological disorders (such as cerebellar symptoms, diplopia, lateral nystagmus
 
 The safety profile of combination therapy (deferiprone and deferoxamine) observed in clinical studies, post-marketing experience or published literature was consistent with that characterised for monotherapy.
 
-Data from the pooled safety database from clinical studies (1 343 patient-years exposure to Ferriprox monotherapy and 244 patient-years exposure to Ferriprox and deferoxamine) showed statistically significant (p &lt; 0.05) differences in the incidence of adverse reactions based on System Organ Class for 'Cardiac disorders\", \"Musculoskeletal and connective tissue disorders' and \"Renal and urinary disorders\". The incidences of 'Musculoskeletal and connective tissue disorders' and \"Renal and urinary disorders\" were lower during combination therapy than monotherapy, whereas the incidence of 'Cardiac disorders\" was higher during combination therapy than monotherapy. The higher rate of 'Cardiac disorders\" reported during combination therapy than monotherapy was possibly due to the higher incidence of pre-existing cardiac disorders in patients who received combination therapy. Careful monitoring of cardiac events in patients on combination therapy is warranted (see section 4.4).
+Data from the pooled safety database from clinical studies (1 343 patient-years exposure to Ferriprox monotherapy and 244 patient-years exposure to Ferriprox and deferoxamine) showed statistically significant (p &lt; 0.05) differences in the incidence of adverse reactions based on System Organ Class for 'Cardiac disorders\", \"Musculoskeletal and connective tissue disorders' and \"Renal and urinary disorders\". The incidences of 'Musculoskeletal and connective tissue disorders' and \"Renal and urinary disorders\" were lower during combination therapy than monotherapy, whereas the incidence of 'Cardiac disorders\" was higher during combination therapy than monotherapy. Th e higher rate of 'Cardiac disorders\" reported during combination therapy than monotherapy was possibly due to the higher incidence of pre-existing cardiac disorders in patients who received combination therapy. Careful monitoring of cardiac events in patients on combination therapy is warranted (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -355,13 +351,13 @@ In humans, deferiprone is eliminated mainly via the kidneys; 75% to 90% of the i
 
 ## Renal impairment
 
-An open-label, non-randomized, parallel group clinical study was conducted to evaluate the effect of impaired renal function on the safety, tolerability, and pharmacokinetics of a single 33 mg/kg oral dose of Ferriprox film-coated tablets. Subjects were categorized into 4 groups based on estimated glomerular filtration rate (eGFR): healthy volunteers (eGFR ≥ 90 mL/min/1.73m 2 ), mild renal impairment (eGFR 60-89 mL/min/1.73m 2 ), moderate renal impairment (eGFR 30-59 mL/min/1.73m 2 ), and severe renal impairment (eGFR 15-29 mL/min/1.73m 2 ). Systemic exposure to deferiprone and to its metabolite deferiprone 3O -glucuronide was assessed by the PK parameters Cmax and AUC.
+An open-label, non-randomized, parallel group clinical study was conducted to evaluate the effect of impaired renal function on the safety, tolerability, and pharmacokinetics of a single 33 mg/kg oral dose of Ferriprox film-coated tablets. Subjects were categorized into 4 groups based on estimated glomerular filtration rate (eGFR): healthy volunteers (eGFR ≥ 90 mL/min/1.73m 2 ), mild renal impairment (eGFR 60-89 mL/min/1.73m 2 ), moderate renal impairment (eGFR 30-59 mL/min/1.73m 2 ), and severe renal impairment (eGFR 15 -29 mL/min/1.73m 2 ). Systemic exposure to deferiprone and to its metabolite deferiprone 3O -glucuronide was assessed by the PK parameters Cmax and AUC.
 
 Regardless of the degree of renal impairment, the majority of the dose of Ferriprox was excreted in the urine over the first 24 hours as deferiprone 3O -glucuronide. No significant effect of renal impairment was seen on systemic exposure to deferiprone. Systemic exposure to the inactive 3O -glucuronide increased with decreasing eGFR. Based on the results of this study, no adjustment of the Ferriprox dose regimen is required in patients with impaired renal function. The safety and pharmacokinetics of Ferriprox in patients with end stage renal disease is unknown.
 
 ## Hepatic impairment
 
-An open-label, non-randomized, parallel group clinical study was conducted to evaluate the effect of impaired hepatic function on the safety, tolerability, and pharmacokinetics of a single 33 mg/kg oral dose of Ferriprox film-coated tablets. Subjects were categorized into 3 groups based on the Child-Pugh classification score: healthy volunteers, mild hepatic impairment (Class A: 5- 6 points), and moderate hepatic impairment (Class B: 7- 9 points). Systemic exposure to deferiprone and to its metabolite deferiprone 3O -glucuronide was assessed by the PK parameters Cmax and AUC. Deferiprone AUCs did not differ between treatment groups, but Cmax was decreased by 20% in mildly or moderately hepatically impaired subjects compared with healthy volunteers. Deferiprone-3O -glucuronide AUC was decreased by 10% and Cmax by 20% in mildly and moderately impaired subjects compared with healthy volunteers. A serious adverse event of acute liver and renal injury was seen in one subject with moderate hepatic impairment. Based on the results of this study, no adjustment of the Ferriprox dose regimen is required in patients with mildly or moderately impaired hepatic function.
+An open-label, non-randomized, parallel group clinical study was conducted to evaluate the effect of impaired hepatic function on the safety, tolerability, and pharmacokinetics of a single 33 mg/kg oral dose of Ferriprox film-coated tablets. Subjects were categorized into 3 groups based on the Child-Pugh classification score: healthy volunteers, mild hepatic impairment (Class A: 5 -6 points), and moderate hepatic impairment (Class B: 7 -9 points). Systemic exposure to deferiprone and to its metabolite deferiprone 3O -glucuronide was assessed by the PK parameters Cmax and AUC. Deferiprone AUCs did not differ between treatment groups, but Cmax was decreased by 20% in mildly or moderately hepatically impaired subjects compared with healthy volunteers. Deferiprone-3O -glucuronide AUC was decreased by 10% and Cmax by 20% in mildly and moderately impaired subjects compared with healthy volunteers. A serious adverse event of acute liver and renal injury was seen in one subject with moderate hepatic impairment. Based on the results of this study, no adjustment of the Ferriprox dose regimen is required in patients with mildly or moderately impaired hepatic function.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -391,7 +387,7 @@ Tablet core Microcrystalline cellulose Magnesium stearate Colloidal anhydrous si
 
 Coating Hypromellose Macrogol 3350 Titanium dioxide
 
-Ferriprox 1 000 mg film-coated tablets
+## Ferriprox 1 000 mg film-coated tablets
 
 Tablet core Methylcellulose 12 to 18 mPas Crospovidone Magnesium stearate
 
@@ -449,7 +445,9 @@ Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
 
 <div style=\"page-break-after: always\"></div>
 
-## 8. MARKETING AUTHORISATION NUMBER
+8.
+
+MARKETING AUTHORISATION NUMBER
 
 Ferriprox 500 mg film-coated tablets
 
@@ -521,13 +519,13 @@ Table 1: Dose table for Ferriprox 100 mg/ml oral solution
 
 |   Body weight (kg) | Total daily dose (mg)   | Dose (mg, three times/day)   |   ml of oral solution (three times/day) |
 |--------------------|-------------------------|------------------------------|-----------------------------------------|
-|                 20 | 1 500                   | 500                          |                                     5   |
+|                 20 | 1 500                   | 500                          |                                     5.0 |
 |                 30 | 2 250                   | 750                          |                                     7.5 |
-|                 40 | 3 000                   | 1 000                        |                                    10   |
+|                 40 | 3 000                   | 1 000                        |                                    10.0 |
 |                 50 | 3 750                   | 1 250                        |                                    12.5 |
-|                 60 | 4 500                   | 1 500                        |                                    15   |
+|                 60 | 4 500                   | 1 500                        |                                    15.0 |
 |                 70 | 5 250                   | 1 750                        |                                    17.5 |
-|                 80 | 6 000                   | 2 000                        |                                    20   |
+|                 80 | 6 000                   | 2 000                        |                                    20.0 |
 |                 90 | 6 750                   | 2 250                        |                                    22.5 |
 
 A total daily dose above 100 mg/kg body weight is not recommended because of the potentially increased risk of adverse reactions (see sections 4.4, 4.8, and 4.9).
@@ -718,7 +716,7 @@ Neurological disorders (such as cerebellar symptoms, diplopia, lateral nystagmus
 
 The safety profile of combination therapy (deferiprone and deferoxamine) observed in clinical studies, post-marketing experience or published literature was consistent with that characterised for monotherapy.
 
-Data from the pooled safety database from clinical studies (1 343 patient-years exposure to Ferriprox monotherapy and 244 patient-years exposure to Ferriprox and deferoxamine) showed statistically significant (p&lt;0.05) differences in the incidence of adverse reactions based on System Organ Class for 'Cardiac disorders\", \"Musculoskeletal and connective tissue disorders' and \"Renal and urinary disorders\". The incidences of 'Musculoskeletal and connective tissue disorders' and \"Renal and urinary disorders\" were lower during combination therapy than monotherapy, whereas the incidence of 'Cardiac disorders\" was higher during combination therapy than monotherapy. The higher rate of 'Cardiac disorders\" reported during combination therapy than monotherapy was possibly due to the higher incidence of pre-existing cardiac disorders in patients who received combination therapy. Careful monitoring of cardiac events in patients on combination therapy is warranted (see section 4.4).
+Data from the pooled safety database from clinical studies (1 343 patient-years exposure to Ferriprox monotherapy and 244 patient-years exposure to Ferriprox and deferoxamine) showed statistically significant (p&lt;0.05) differences in the incidence of adverse reactions based on System Organ Class for 'Cardiac disorders\", \"Musculoskeletal and connective tissue disorders' and \"Renal and urinary disorders\". The incidences of 'Musculoskeletal and connective tissue disorders' and \"Renal and urinary disorders\" were lower during combination therapy than monotherapy, whereas the incidence of 'Cardiac disorders\" was higher during combination therapy than monotherapy. The higher rate of 'Cardiac disorders\" reported during combination therapy than monotherapy was possibl y due to the higher incidence of pre-existing cardiac disorders in patients who received combination therapy. Careful monitoring of cardiac events in patients on combination therapy is warranted (see section 4.4).
 
 The incidences of adverse reactions experienced by 18 children and 97 adults treated with combination therapy were not significantly different between the two age groups except in the incidence of arthropathy (11.1% in children vs. none in adults, p=0.02). Evaluation of rate of reactions per 100 patient-years of exposure showed that only the rate of diarrhoea was significantly higher in children (11.1) than in adults (2.0, p=0.01).
 
@@ -790,13 +788,13 @@ In humans, deferiprone is eliminated mainly via the kidneys; 75% to 90% of the i
 
 ## Renal impairment
 
-An open-label, non-randomized, parallel group clinical study was conducted to evaluate the effect of impaired renal function on the safety, tolerability, and pharmacokinetics of a single 33 mg/kg oral dose of Ferriprox film-coated tablets. Subjects were categorized into 4 groups based on estimated glomerular filtration rate (eGFR): healthy volunteers (eGFR ≥ 90 mL/min/1.73m 2 ), mild renal impairment (eGFR 60-89 mL/min/1.73m 2 ), moderate renal impairment (eGFR 3059 mL/min/1.73m 2 ), and severe renal impairment (eGFR 15-29 mL/min/1.73m 2 ). Systemic exposure to deferiprone and to its metabolite deferiprone 3O -glucuronide was assessed by the PK parameters Cmax and AUC.
+An open-label, non-randomized, parallel group clinical study was conducted to evaluate the effect of impaired renal function on the safety, tolerability, and pharmacokinetics of a single 33 mg/kg oral dose of Ferriprox film-coated tablets. Subjects were categorized into 4 groups based on estimated glomerular filtration rate (eGFR): healthy volunteers (eGFR ≥ 90 mL/min/1.73m 2 ), mild renal impairment (eGFR 60-89 mL/min/1.73m 2 ), moderate renal impairment (eGFR 30 -59 mL/min/1.73m 2 ), and severe renal impairment (eGFR 15 -29 mL/min/1.73m 2 ). Systemic exposure to deferiprone and to its metabolite deferiprone 3O -glucuronide was assessed by the PK parameters Cmax and AUC.
 
 Regardless of the degree of renal impairment, the majority of the dose of Ferriprox was excreted in the urine over the first 24 hours as deferiprone 3O -glucuronide. No significant effect of renal impairment was seen on systemic exposure to deferiprone. Systemic exposure to the inactive 3O -glucuronide increased with decreasing eGFR. Based on the results of this study, no adjustment of the Ferriprox dose regimen is required in patients with impaired renal function. The safety and pharmacokinetics of Ferriprox in patients with end stage renal disease is unknown.
 
 ## Hepatic impairment
 
-An open-label, non-randomized, parallel group clinical study was conducted to evaluate the effect of impaired hepatic function on the safety, tolerability, and pharmacokinetics of a single 33 mg/kg oral dose of Ferriprox film-coated tablets. Subjects were categorized into 3 groups based on the Child-Pugh classification score: healthy volunteers, mild hepatic impairment (Class A: 5- 6 points), and moderate hepatic impairment (Class B: 7- 9 points). Systemic exposure to deferiprone and to its metabolite deferiprone 3O -glucuronide was assessed by the PK parameters Cmax and AUC. Deferiprone AUCs did not differ between treatment groups, but Cmax was decreased by 20% in mildly or moderately hepatically impaired subjects compared with healthy volunteers. Deferiprone-3O -glucuronide AUC was decreased by 10% and Cmax by 20% in mildly and moderately impaired subjects compared with healthy volunteers. A serious adverse event of acute liver and renal injury was seen in one subject with moderate hepatic impairment. Based on the results of this study, no adjustment of the Ferriprox dose regimen is required in patients with mildly or moderately impaired hepatic function.
+An open-label, non-randomized, parallel group clinical study was conducted to evaluate the effect of impaired hepatic function on the safety, tolerability, and pharmacokinetics of a single 33 mg/kg oral dose of Ferriprox film-coated tablets. Subjects were categorized into 3 groups based on the Child-Pugh classification score: healthy volunteers, mild hepatic impairment (Class A: 5 -6 points), and moderate hepatic impairment (Class B: 7 -9 points). Systemic exposure to deferiprone and to its metabolite deferiprone 3O -glucuronide was assessed by the PK parameters Cmax and AUC. Deferiprone AUCs did not differ between treatment groups, but Cmax was decreased by 20% in mildly or moderately hepatically impaired subjects compared with healthy volunteers. Deferiprone-3O -glucuronide AUC was decreased by 10% and Cmax by 20% in mildly and moderately impaired subjects compared with healthy volunteers. A serious adverse event of acute liver and renal injury was seen in one subject with moderate hepatic impairment. Based on the results of this study, no adjustment of the Ferriprox dose regimen is required in patients with mildly or moderately impaired hepatic function.
 
 The influence of severe hepatic impairment on the pharmacokinetics of deferiprone and deferiprone 3O -glucuronide has not been evaluated. The safety and pharmacokinetics of Ferriprox in patients with severe hepatic impairment is unknown.
 
@@ -858,9 +856,7 @@ Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
-EU/1/99/108/002
-
-EU/1/99/108/003
+EU/1/99/108/002 EU/1/99/108/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -887,7 +883,9 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer responsible for batch release Eurofins PROXY Laboratories B.V. Archimedesweg 25 2333 CM Leiden Netherlands
+Name and address of the manufacturer responsible for batch release
+
+Eurofins BioPharma Product Testing Leiden B.V. Archimedesweg 25 2333 CM Leiden Netherlands
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -927,6 +925,8 @@ The MAH should provide a patient card in each pack, the text of which is include
 <div style=\"page-break-after: always\"></div>
 
 ## A. LABELLING
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -972,14 +972,12 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Do not store above 30 °C.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -1015,9 +1013,7 @@ Ferriprox 500 mg
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -1063,7 +1059,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-Do not store above 30 ° C.
+Do not store above 30  C.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1153,51 +1149,41 @@ Date opened: \\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30 ° C.
+Do not store above 30  C.
 
 Store in the original package in order to protect from light.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/99/108/002
 
 EU/1/99/108/003
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Ferriprox 100 mg/ml
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -1253,7 +1239,7 @@ After first opening, use within 35 days.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30 ° C.
+Do not store above 30  C.
 
 Store in the original package in order to protect from light.
 
@@ -1315,7 +1301,7 @@ Read the package leaflet before use.
 
 Oral use
 
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -1333,9 +1319,11 @@ Date opened: \\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30 ° C.
+Do not store above 30  C.
 
 Keep the bottle tightly closed in order to protect from moisture.
 
@@ -1360,14 +1348,12 @@ EU/1/99/108/004
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Ferriprox 1000 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1378,8 +1364,6 @@ PC
 SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1427,7 +1411,9 @@ After first opening, use within 50 days.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30 °C. Keep the bottle tightly closed in order to protect from moisture.
+Do not store above 30 °C.
+
+Keep the bottle tightly closed in order to protect from moisture.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1540,7 +1526,7 @@ Ferriprox is used to treat iron overload caused by frequent blood transfusions i
 - -if you are allergic to deferiprone or any of the other ingredients of this medicine (listed in section 6).
 - -if you have a history of repeated episodes of neutropenia (low white blood cell (neutrophil) count).
 - -if you have a history of agranulocytosis (very low white blood cell (neutrophil) count).
-- -if you are currently taking medicines known to cause neutropenia or agranulocytosis (see 'Other medicines and Ferriprox').
+- -if you are currently taking medicines known to cause neutropenia or agranulocytosis (see ' Other medicines and Ferriprox ') .
 - -if you are pregnant or breast-feeding.
 
 ## Warnings and precautions
@@ -1657,7 +1643,9 @@ Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
 
 ## Manufacturer:
 
-Eurofins PROXY Laboratories B.V. Archimedesweg 25 2333 CM Leiden Netherlands
+Eurofins BioPharma Product Testing Leiden B.V. Archimedesweg 25 2333 CM Leiden
+
+Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1885,7 +1873,7 @@ Ferriprox is used to treat iron overload caused by frequent blood transfusions i
 - -if you are allergic to deferiprone or any of the other ingredients of this medicine (listed in section 6).
 - -if you have a history of repeated episodes of neutropenia (low white blood cell (neutrophil) count).
 - -if you have a history of agranulocytosis (very low white blood cell (neutrophil) count).
-- -if you are currently taking medicines known to cause neutropenia or agranulocytosis (see 'Other medicines and Ferriprox').
+- -if you are currently taking medicines known to cause neutropenia or agranulocytosis (see ' Other medicines and Ferriprox ') .
 - -if you are pregnant or breast-feeding.
 
 ## Warnings and precautions
@@ -2004,7 +1992,9 @@ Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
 
 ## Manufacturer:
 
-Eurofins PROXY Laboratories B.V. Archimedesweg 25 2333 CM Leiden Netherlands
+Eurofins BioPharma Product Testing Leiden B.V.
+
+Archimedesweg 25 2333 CM Leiden Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -2353,7 +2343,9 @@ Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
 
 ## Manufacturer:
 
-Eurofins PROXY Laboratories B.V. Archimedesweg 25 2333 CM Leiden Netherlands
+Eurofins BioPharma Product Testing Leiden B.V. Archimedesweg 25 2333 CM Leiden
+
+Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-04-09 14:12:00
+document_datetime: 2026-04-24 12:54:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ondibta.html
 document_name: ondibta.html
 version: success
-processing_time: 0.1062685
-conversion_datetime: 2026-04-13 13:56:12.53057
+processing_time: 0.1207036
+conversion_datetime: 2026-04-25 16:45:18.475871
 docling_version:
   docling-serve: 1.16.1
-  docling-jobkit: 1.16.0
-  docling: 2.87.0
-  docling-core: 2.73.0
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
   docling-ibm-models: 3.13.0
-  docling-parse: 5.8.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
@@ -109,7 +109,7 @@ English (EN) (120.65 KB - PDF)
 
 [View](/en/documents/overview/ondibta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-731)
+[Other languages (22)](#file-language-dropdown-777)
 
 български (BG) (135.21 KB - PDF)
 
@@ -255,157 +255,161 @@ English (EN) (928.49 KB - PDF)
 
 Ondibta : EPAR - Product information
 
-English (EN) (744.56 KB - PDF)
+English (EN) (985.93 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/en/documents/product-information/ondibta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-180)
+[Other languages (24)](#file-language-dropdown-940)
 
-български (BG) (1.15 MB - PDF)
+български (BG) (1.42 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/bg/documents/product-information/ondibta-epar-product-information_bg.pdf)
 
-español (ES) (1.03 MB - PDF)
+español (ES) (1.38 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/es/documents/product-information/ondibta-epar-product-information_es.pdf)
 
-čeština (CS) (1.23 MB - PDF)
+čeština (CS) (1.41 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/cs/documents/product-information/ondibta-epar-product-information_cs.pdf)
 
-dansk (DA) (740.64 KB - PDF)
+dansk (DA) (1.06 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/da/documents/product-information/ondibta-epar-product-information_da.pdf)
 
-Deutsch (DE) (1012 KB - PDF)
+Deutsch (DE) (1.24 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/de/documents/product-information/ondibta-epar-product-information_de.pdf)
 
-eesti keel (ET) (969.17 KB - PDF)
+eesti keel (ET) (1.23 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/et/documents/product-information/ondibta-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.35 MB - PDF)
+ελληνικά (EL) (1.6 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/el/documents/product-information/ondibta-epar-product-information_el.pdf)
 
-français (FR) (1.22 MB - PDF)
+français (FR) (1.35 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/fr/documents/product-information/ondibta-epar-product-information_fr.pdf)
 
-hrvatski (HR) (939.95 KB - PDF)
+hrvatski (HR) (1.16 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/hr/documents/product-information/ondibta-epar-product-information_hr.pdf)
 
-íslenska (IS) (859.49 KB - PDF)
+íslenska (IS) (1.23 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/is/documents/product-information/ondibta-epar-product-information_is.pdf)
 
-italiano (IT) (837.96 KB - PDF)
+italiano (IT) (1.02 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/it/documents/product-information/ondibta-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.03 MB - PDF)
+latviešu valoda (LV) (1.36 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/lv/documents/product-information/ondibta-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (852.28 KB - PDF)
+lietuvių kalba (LT) (1.27 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/lt/documents/product-information/ondibta-epar-product-information_lt.pdf)
 
-magyar (HU) (804.38 KB - PDF)
+magyar (HU) (953.54 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/hu/documents/product-information/ondibta-epar-product-information_hu.pdf)
 
-Malti (MT) (857.2 KB - PDF)
+Malti (MT) (987.39 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/mt/documents/product-information/ondibta-epar-product-information_mt.pdf)
 
-Nederlands (NL) (816.2 KB - PDF)
+Nederlands (NL) (1.12 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/nl/documents/product-information/ondibta-epar-product-information_nl.pdf)
 
-norsk (NO) (842.92 KB - PDF)
+norsk (NO) (1.27 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/no/documents/product-information/ondibta-epar-product-information_no.pdf)
 
-polski (PL) (822.56 KB - PDF)
+polski (PL) (1.15 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/pl/documents/product-information/ondibta-epar-product-information_pl.pdf)
 
-português (PT) (869.95 KB - PDF)
+português (PT) (1.24 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/pt/documents/product-information/ondibta-epar-product-information_pt.pdf)
 
-română (RO) (1.21 MB - PDF)
+română (RO) (1.34 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/ro/documents/product-information/ondibta-epar-product-information_ro.pdf)
 
-slovenčina (SK) (944.26 KB - PDF)
+slovenčina (SK) (995.56 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/sk/documents/product-information/ondibta-epar-product-information_sk.pdf)
 
-slovenščina (SL) (912.45 KB - PDF)
+slovenščina (SL) (1.15 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/sl/documents/product-information/ondibta-epar-product-information_sl.pdf)
 
-Suomi (FI) (814.06 KB - PDF)
+Suomi (FI) (1.22 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/fi/documents/product-information/ondibta-epar-product-information_fi.pdf)
 
-svenska (SV) (859.38 KB - PDF)
+svenska (SV) (1.13 MB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/sv/documents/product-information/ondibta-epar-product-information_sv.pdf)
+
+**Latest procedure affecting product information:** VR/0000338869
+
+23/04/2026
 
 icon globe
 
@@ -423,155 +427,155 @@ Product information documents contain:
 
 Ondibta : EPAR - All authorised presentations
 
-English (EN) (744.56 KB - PDF)
+English (EN) (40.71 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/en/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-805)
+[Other languages (24)](#file-language-dropdown-388)
 
-български (BG) (1.15 MB - PDF)
+български (BG) (90.3 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/bg/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (1.03 MB - PDF)
+español (ES) (45.84 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/es/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (1.23 MB - PDF)
+čeština (CS) (65.54 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/cs/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (740.64 KB - PDF)
+dansk (DA) (48.2 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/da/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (1012 KB - PDF)
+Deutsch (DE) (74.36 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/de/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (969.17 KB - PDF)
+eesti keel (ET) (44.7 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/et/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (1.35 MB - PDF)
+ελληνικά (EL) (62.45 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/el/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (1.22 MB - PDF)
+français (FR) (45.45 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/fr/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (939.95 KB - PDF)
+hrvatski (HR) (121.1 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/hr/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (859.49 KB - PDF)
+íslenska (IS) (46.66 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/is/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (837.96 KB - PDF)
+italiano (IT) (45.52 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/it/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (1.03 MB - PDF)
+latviešu valoda (LV) (63.16 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/lv/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (852.28 KB - PDF)
+lietuvių kalba (LT) (65.26 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/lt/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (804.38 KB - PDF)
+magyar (HU) (65.37 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/hu/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (857.2 KB - PDF)
+Malti (MT) (66.79 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/mt/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (816.2 KB - PDF)
+Nederlands (NL) (45.65 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/nl/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (842.92 KB - PDF)
+norsk (NO) (46.28 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/no/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (822.56 KB - PDF)
+polski (PL) (66.69 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/pl/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (869.95 KB - PDF)
+português (PT) (46.48 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/pt/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (1.21 MB - PDF)
+română (RO) (62.04 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/ro/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (944.26 KB - PDF)
+slovenčina (SK) (63.49 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/sk/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (912.45 KB - PDF)
+slovenščina (SL) (62.73 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/sl/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (814.06 KB - PDF)
+Suomi (FI) (44.83 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/fi/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (859.38 KB - PDF)
+svenska (SV) (46.57 KB - PDF)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 24/04/2026
 
 [View](/sv/documents/all-authorised-presentations/ondibta-epar-all-authorised-presentations_sv.pdf)
 
@@ -633,7 +637,25 @@ Marketing authorisation issued
 
 09/01/2026
 
+Revision
+
+1
+
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Ondibta : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (134.33 KB - PDF)
+
+**First published:** 24/04/2026
+
+[View](/en/documents/procedural-steps-after/ondibta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -665,6 +687,6 @@ English (EN) (124.07 KB - PDF)
 
 **This page was last updated on**
 
-09/04/2026
+24/04/2026
 
 ## Share this page

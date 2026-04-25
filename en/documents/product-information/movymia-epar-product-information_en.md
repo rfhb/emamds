@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-28 13:19:06
-document_pages: 44
+document_datetime: 2026-04-22 17:19:32
+document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/movymia-epar-product-information_en.pdf
 document_name: movymia-epar-product-information_en.pdf
 version: success
-processing_time: 9.8925097
-conversion_datetime: 2026-02-01 20:42:04.544922
+processing_time: 9.6576475
+conversion_datetime: 2026-04-25 16:28:46.292758
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -1165,7 +1165,9 @@ EG (Eurogenerics) NV Tél/Tel: + 32 24797878
 
 ## Magyarország
 
-STADA Hungary Kft Tel.: + 36 18009747
+STADA Hungary Kft
+
+Tel.: + 36 18009747
 
 ## Malta
 
@@ -1233,7 +1235,9 @@ Sími: + 49 61016030
 
 ## Slovenská republika
 
-STADA PHARMA Slovakia, s.r.o. Tel: + 421 252621933
+STADA PHARMA Slovakia, s.r.o.
+
+Tel: + 421 252621933
 
 ## Italia
 
@@ -1287,84 +1291,151 @@ QR code to be included
 
 ## Re-usable pen injector to be used with Movymia cartridges for subcutaneous injections
 
-Always follow instructions provided below and on the back page when using the Movymia Pen.
+## Intended purpose
+
+Movymia Pen is a non-sterile, reusable medical device intended for the subcutaneous administration of Movymia from compatible cartridges.
+
+The reusable Movymia Pen is intended to assist adult patients with osteoporosis, healthcare professionals, caregivers and third parties with the delivery of once-daily subcutaneous injections of Movymia either in a clinical environment or self-administered at home.
+
+Movymia Pen is part of a pen system which consists of the pen itself, a cartridge and a pen needle. The cartridge and the pen needles are not supplied in the package.
+
+## Intended patient population:
+
+Patients are persons for whom the prescribing physician has prescribed a therapy with Movymia using Movymia Pen. The responsible physician determines the suitability of the Movymia Pen for a specific patient.
+
+## Intended user population:
+
+Users are persons with sufficient visual, manual and tactile skills to operate the Movymia Pen according to the instructions for use (IFU). In case of impairments, a consultation with the prescribing physician is required.
+
+<div style=\"page-break-after: always\"></div>
+
+pen cap cartridge
+
+sleeve flange
+
+housing dose
+
+knob
 
 ## Movymia Pen parts
 
+- pen needle
+
 <!-- image -->
+
+*
+
+* The cartridge and the pen needles are not supplied in the package.
+
+## Getting Ready
+
+Before you start the administration of Movymia make sure you check the Movymia Pen for defects. Wash your hands carefully with soap to minimise the risk of infection.
+
+Make sure you have ready:
+
+- your Movymia Pen and a new Movymia cartridge / your Movymia Pen with inserted Movymia cartridge
+- a compatible pen needle
+- a puncture-resistant sharps disposal container for used needles
+- desinfection materials for treating the injection site.
+
+Do not use the pen if the cartridge is cloudy, discoloured or contains particles. Read the package leaflet for Movymia cartridge provided separately.
+
+outer needle cap
+
+## Always follow instructions provided below and on the back page when using the Movymia Pen.
+
+needle cap
+
+*
+
+<div style=\"page-break-after: always\"></div>
+
+B: Remove the cartridge sleeve by turni
+
+A: Remove the pen cap.
+
+the rod is already in the starting posit
 
 ## Pen preparation - First use/changing cartridges
 
-Write down the first injection date of each new cartridge. This helps you to know when the 28 daily doses per cartridge are used (see section 2 'Warnings and precautions' and section 3 'Preparing the pen for use' in the Package leaflet of Movymia).
+Follow the instructions every time you insert a new Movymia cartridge into your Movymia Pen. Do not repeat this before each daily injection, otherwise you will not have enough Movymia for 28 days. Read the package leaflet for Movymia cartridge provided separately.
 
-Follow the instructions every time you insert a new Movymia cartridge into your Movymia Pen. Do not repeat this before each daily injection, otherwise you will not have enough Movymia for 28 days. Read the patient information leaflet for Movymia cartridge provided separately.
+A: Remove the pen cap.
+
+<!-- image -->
+
+- B: Remove the cartridge sleeve by turning it 90 degrees, as shown in the picture.
+- C: Remove the empty cartridge, in the case of changing cartridge. Insert a new Movymia cartridge into the cartridge sleeve, with the silver metal cap of the cartridge first.
+
+<!-- image -->
+
+Warning: Ensure the use of the correct medicine. Check the label of the cartridge before its insertion into the cartridge sleeve. Do not use cartridge if it is damaged.
+
+<!-- image -->
+
+Write down the first injection date of each new cartridge. This helps you to remember when the 28 daily doses per cartridge are used.
+
+- D: Push the threaded rod with your finger carefully back into the housing, as far as it will go. The threaded rod cannot be pushed back entirely into the pen housing. This step is not necessary when the rod is already in the starting position, such as at the very first use.
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-- A: Remove the pen cap.
-- B: Remove the cartridge holder by turning it (bayonet coupling).
-- C: Remove the empty cartridge, in the case of changing cartridge. Insert a new Movymia cartridge into the cartridge holder, with the metal crimped cap of the cartridge first.
-- D: Push back the threaded rod carefully with your finger, in a straight line and as far as it will go. This is not necessary when the rod is already in the starting position, such as at the very first use. The threaded rod cannot be pushed back to the pen housing entirely.
-- E: Attach the cartridge holder to the housing by turning it 90 degrees, until it stops.
+· Pull off the peel foil.
 
-<!-- image -->
+E: Attach the cartridge sleeve to the hou correctly and sits firmly on the cartrid
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
+- E: Attach the cartridge sleeve to the housing by turning it 90 degrees, until it stops.
 - F: Attach a new pen needle as follows:
-- Screw the pen needle clockwise onto the cartridge holder. Make sure that the pen needle is attached correctly and sits firmly on the cartridge holder.
-- Remove the outer needle cap and save it.
+- Pull off the peel foil.
+- Screw the pen needle clockwise onto the cartridge sleeve. Make sure that the pen needle is attached correctly and sits firmly on the cartridge sleeve.
+- Remove the outer needle cap and keep it for later. You will need it for the safe removal of the needle after the injection.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+· Remove and dispose the inner needle c
+
 - Remove and dispose the inner needle cap.
 
-<!-- image -->
+1=
 
-<!-- image -->
-
-<!-- image -->
+While attachino the needle come drone
 
 <!-- image -->
 
 While attaching the needle some drops may escape, this is normal.
 
-<div style=\"page-break-after: always\"></div>
-
 ## G: Priming
 
-The pen must be primed and tested after inserting a new cartridge and prior the first injection from each cartridge.
+Caution: The pen must be primed and tested after inserting a new cartridge and prior the first injection from each cartridge.
 
 - Turn the dose knob clockwise until you see a droplet sign on the dose display. Make sure that the two indicator stripes are aligned. During dose dialling the pen provides an audible clicking sound and a noticeable resistance.
-- Hold the pen with the needle pointing upwards .
-- Press the push button fully in. Hold it pressed in until the dose indication has turned back to the start position. Some drops of medicine must be expelled from the needle tip.
 
 <!-- image -->
 
-If no drops emerge, repeat step G until you see some drops. Do not repeat step G more than four times, but follow the instructions given under Troubleshooting section on the back page.
+Caution: Hold the pen with the needle pointing upwards . Never hold the pen with exposed needle towards your face or other persons.
+
+- Press the push button fully in. Hold it pressed in until the dose indication has turned back to the start position. Some medicine must be expelled from the needle tip.
+
+If no liquid appears, repeat step G up to four times until some liquid appears at the needle tip. Do not repeat step G more than four times, but follow the instructions given under Troubleshooting section on the back page.
+
+<div style=\"page-break-after: always\"></div>
+
+correctly and sits firmly on the cartrid
+
+· Pull off the peel foil.
 
 <!-- image -->
 
 ## Administration using the Movymia Pen
-
-Wash your hands carefully with soap to minimise the risk of infection.
-
-Make sure you have ready:
-
-- your Movymia Pen with inserted cartridge
-- a compatible pen needle
-- a puncture-resistant sharps disposal container for used needles.
-
-## Do not use the pen if the cartridge is cloudy, discoloured or contains particles.
-
-Read the patient information leaflet for Movymia cartridge provided separately.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 1. Attach the pen needle
 
@@ -1373,13 +1444,20 @@ Use a new needle for every injection. Do not use the pen needle if the packaging
 Note: There is no need to change the needle when using directly after the pen preparation. In this case continue with step '2. Setting the dose and injection'.
 
 - Pull off the peel foil.
-- Screw the pen needle clockwise onto the cartridge holder. Make sure that the pen needle is attached correctly and sits firmly on the cartridge holder.
-- Remove the outer needle cap and save it.
+- Screw the pen needle clockwise onto the cartridge sleeve. Make sure that the pen needle is attached correctly and sits firmly on the cartridge sleeve.
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+· Remove and dispose the inner needle c after the injection.
+
+Do not try to force the dose knob any further..
+
+- Remove the outer needle cap and keep it for later. You will need it for the safe removal of the needle after the injection.
 - Remove and dispose the inner needle cap.
-
-<!-- image -->
-
-<!-- image -->
 
 <!-- image -->
 
@@ -1387,32 +1465,45 @@ Note: There is no need to change the needle when using directly after the pen pr
 
 While attaching the needle some drops may escape, this is normal.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 2. Setting the dose and injection
-
-Warning: Ensure the use of the correct medicine. Check the label of the cartridge before its insertion into the cartridge holder.
 
 - To set the fixed daily dose of 80 microliters, turn the dose knob clockwise until it stops and cannot be rotated any further. Make sure the display shows an arrow sign and it is aligned with the indicator stripe. During dose dialling the pen provides an audible clicking sound and a noticeable resistance. Do not try to force the dose knob any further.
 
 <!-- image -->
 
-Note: If the cartridge contains less than 80 microliters, the dose knob cannot be turned clockwise up to the arrow sign. In this case, remove the pen needle, change the cartridge and proceed with priming according the pen preparation steps.
+Caution: If the cartridge contains less than 80 microliters, the dose knob cannot be turned clockwise up to the arrow sign. In this case, remove the pen needle, according to step \"3. Removing the pen needle\", change the cartridge and proceed with priming according the pen preparation steps.
 
-- Select an appropriate injection site and prepare your skin as recommended by your doctor. Gently hold a skin fold between the thumb and index finger. Insert the needle straight and gently into the skin, as shown in the illustration.
+- Select an appropriate injection site and prepare your skin as recommended by your doctor.
+- Clean the injection site with an alcohol swab. Let the area air dry before you inject. Do not blow on the disinfected site to accelerate drying process.
+
+Gently hold a skin fold between the thumb and index finger. Insert the needle straight and gently into the skin, as shown in the illustration.
+
+<div style=\"page-break-after: always\"></div>
+
+the needle in the skin fold for a further 6 seconds.
+
+90°
 
 <!-- image -->
 
 Warning: Prevent the pen needle from bending or breaking. Do not tilt the pen after the needle has been inserted into the skin. Tilting the pen may result in bending or breaking of the needle. Broken needles can get stuck in the skin. Immediately consult the doctor if a broken needle gets stuck in the skin.
 
+- Press and hold down the push button until the dose indication has returned to the start position. Keep the needle in the skin fold for a further 6 seconds.
+- Pull out the pen slowly. Check if the display is at the start position as shown in the picture, to make sure that the full dose has been injected.
+
+<!-- image -->
+
+<!-- image -->
+
 <div style=\"page-break-after: always\"></div>
 
-- Press the push button until the dose indication has returned to the start position. Keep the needle in the skin fold for a further 6 seconds.
-- Pull out the pen slowly. Check if the display is at the start position to make sure that the full dose has been injected.
+in a puncture-resistant sharps disposal
 
-<!-- image -->
+· Carefully attach the outer needle cap o
 
-<!-- image -->
+· Re-attach the pen cap after each use.
+
+Movymia- Pen
 
 ## 3. Removing the pen needle
 
@@ -1423,19 +1514,21 @@ Warning: Prevent the pen needle from bending or breaking. Do not tilt the pen af
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Re-attach pen cap
 
 - Do not remove the cartridge from the Movymia Pen before it is empty.
 - Re-attach the pen cap after each use.
-- Put the Movymia Pen, with the cartridge inserted, back into the refrigerator between 2 and 8 °C immediately after use.
+- Put the Movymia Pen, with the cartridge inserted, back into the refrigerator between 2 and 8 °C immediately after each use.
 
 <!-- image -->
+
+If you see blood at the injection site after the needle is removed, gently apply pressure on your skin by using a cotton pad or similar. Do not rub the injection site.
 
 ## Note for healthcare professionals
 
 Local, healthcare professional or institutional policies may replace the instructions regarding needle handling and disposal.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Additional information
 
@@ -1445,11 +1538,11 @@ Each Movymia cartridge contains 28 doses of fixed 80 microlitres Movymia.
 
 Use your Movymia Pen only as prescribed by your doctor, in this instructions for use and the Movymia package leaflet.
 
-The Movymia Pen can be used by self-injecting patients above the age of 18 years, healthcare professionals or third parties such as, for instance, adult relatives.
+The Movymia Pen can be used by self-injecting patients above the age of 18 years, healthcare professionals, caregivers or third parties such as, for instance, adult relatives.
 
 The Movymia Pen must not be used by blind or visually impaired patients without help from a trained able-bodied person. Consult your doctor in the case of hearing or handling problems.
 
-The pen needles must be used only once and the Movymia cartridge must be used by one person only.
+Warning: The pen needles must be used only once and the Movymia Pen may only be used on one patient, otherwise there is a risk of transmitting infectious diseases.
 
 ## Storage and care of Movymia Pen
 
@@ -1457,14 +1550,14 @@ The pen needles must be used only once and the Movymia cartridge must be used by
 - A damp cloth is sufficient to clean the Movymia Pen. Do not use alcohol, other solvents or cleaning agents. Never immerse the Movymia Pen in water, as this could damage the pen.
 - Do not use your Movymia Pen if it is damaged or if you have any doubts about its correct functioning.
 - Transport and store the Movymia Pen with inserted cartridge at temperatures specified in the Movymia package leaflet, provided separately.
-- Store your Movymia Pen, cartridges and pen needles out of reach of children.
+- Warning: Store your Movymia Pen, cartridges and pen needles out of reach of others. Prevent access to pen, cartridges and pen needles especially for children. Movymia Pen contains small parts that might be swallowed.
 - Do not store the Movymia Pen with a needle attached as this may cause air bubbles to form in the cartridge.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Disposal of Movymia Pen and used accessories
 
-The Movymia Pen has a service life of two years. Before disposing of the Movymia Pen always remove the pen needle and the cartridge. Needles and used cartridges must be disposed of separately and safely. The Movymia Pen can be disposed of according to the instructions of the local authorities.
+Caution: The Movymia Pen has a service life of two years. Do not use the Movymia Pen after the end of service life.
+
+Before disposing of the Movymia Pen always remove the pen needle and the cartridge. Needles and used cartridges must be disposed separately and safely. The Movymia Pen can be disposed according to local waste regulations or along with your household waste.
 
 ## Warnings
 
@@ -1474,16 +1567,20 @@ Follow the instructions presented in this instructions for use. If the instructi
 
 Follow the instructions given in the table if you have any questions regarding the use of Movymia Pen:
 
-| Question                                                                                                                            | Answer                                                                                                                                                                                                                                                                                                   |
-|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. Small air bubbles are visible in the cartridge.                                                                                  | A small air bubble will not affect the dose, or harm.                                                                                                                                                                                                                                                    |
-| 2. Needle cannot be attached.                                                                                                       | Use another needle instead.                                                                                                                                                                                                                                                                              |
-| 3. Needle is broken/curved/kinked.                                                                                                  | Use another needle instead.                                                                                                                                                                                                                                                                              |
-| 4. During dose dialling the pen does not provide an audible signal.                                                                 | Do not use this pen.                                                                                                                                                                                                                                                                                     |
-| 5. No medicine comes out of the needle during pen preparation step 'G: Priming'.                                                    | Change the needle and repeat the priming as described in pen preparation sections 'F' and 'G'. If still no medicine is expelled, do not use this pen.                                                                                                                                                    |
-| 6. The dose knob cannot be turned clockwise up to the arrow sign.                                                                   | The amount of Movymia left in the cartridge is less than 80 microlitres. Change the cartridge and the pen needle and perform priming according to the pen preparation.                                                                                                                                   |
-| 7. Display does not return to start position after injection.                                                                       | Do not repeat the injection on the same day. Use a new needle for your injection on the following day. Set the dose and complete the injection as described in section '2. Setting the dose and injection'. If the display still does not return to start position after injection, do not use this pen. |
-| 8. Spillage from pen is observed.                                                                                                   | Do not use this pen.                                                                                                                                                                                                                                                                                     |
-| 9. The dose knob inadvertently turned clockwise after completing the injection. How do I reset the dose knob to the start position? | Do not press the push button. Reset the pen by simply turning back the dose knob anti- clockwise to the start position.                                                                                                                                                                                  |
+| Question                                           | Answer                                                |
+|----------------------------------------------------|-------------------------------------------------------|
+| 1. Small air bubbles are visible in the cartridge. | A small air bubble will not affect the dose, or harm. |
+
+<div style=\"page-break-after: always\"></div>
+
+| 2. Needle cannot be attached.                                                                                                       | Use another needle instead. Contact customer service if the second needle cannot be attached.                                                                                                                                                                                                                                      |
+|-------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3. Needle is broken/curved/kinked.                                                                                                  | Use another needle instead.                                                                                                                                                                                                                                                                                                        |
+| 4. During dose dialling the pen does not provide an audible clicking.                                                               | Do not use this pen, contact customer service.                                                                                                                                                                                                                                                                                     |
+| 5. No medicine comes out of the needle during pen preparation step 'G: Priming'.                                                    | Make sure a cartridge is inserted. Change the needle and repeat the priming as described in pen preparation sections 'F' and 'G'. If still no medicine is expelled, do not use this pen, contact customer service.                                                                                                                 |
+| 6. The dose knob cannot be turned clockwise up to the arrow sign.                                                                   | The amount of Movymia left in the cartridge is less than 80 microlitres. Change the cartridge and the pen needle and perform priming according to the pen preparation.                                                                                                                                                             |
+| 7. Display does not return to start position after injection.                                                                       | Do not repeat the injection on the same day. Use a new needle for your injection on the following day. Set the dose and complete the injection as described in section '2. Setting the dose and injection'. If the display still does not return to start position after injection, do not use this pen, contact customer service. |
+| 8. Spillage from pen is observed.                                                                                                   | Do not use this pen, contact customer service.                                                                                                                                                                                                                                                                                     |
+| 9. The dose knob inadvertently turned clockwise after completing the injection. How do I reset the dose knob to the start position? | Do not press the push button. Reset the pen by simply turning back the dose knob anti- clockwise to the start position.                                                                                                                                                                                                            |
 
 This instructions for use was last revised

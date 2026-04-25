@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-18 09:48:55
+document_datetime: 2026-04-24 10:30:50
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_en.pdf
 document_name: caelyx-pegylated-liposomal-epar-product-information_en.pdf
 version: success
-processing_time: 24.0284287
-conversion_datetime: 2026-01-03 12:13:36.107148
+processing_time: 13.5183582
+conversion_datetime: 2026-04-25 16:23:31.357616
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -315,108 +315,141 @@ Table 5 summarises the adverse drug reactions that occurred in patients receivin
 
 Table 5: Adverse reactions in patients treated with Caelyx pegylated liposomal
 
-| System Organ Class          | Frequency All Grades   | Adverse Drug Reaction                                                                 |
-|-----------------------------|------------------------|---------------------------------------------------------------------------------------|
-| Infections and infestations | Common                 | Sepsis                                                                                |
-| Infections and infestations | Common                 | Pneumonia                                                                             |
-| Infections and infestations | Common                 | Pneumocystis jirovecii pneumonia                                                      |
-| Infections and infestations | Common                 | Cytomegalovirus infection including cytomegalovirus chorioretinitis                   |
-| Infections and infestations | Common                 | Mycobacterium avium complex infection                                                 |
-| Infections and infestations | Common                 | Candidiasis                                                                           |
-| Infections and infestations | Common                 | Herpes zoster                                                                         |
-| Infections and infestations | Common                 | Urinary tract infection                                                               |
-| Infections and infestations | Common                 | Infection                                                                             |
-| Infections and infestations | Common                 | Upper respiratory tract infection                                                     |
-| Infections and infestations | Common                 | Oral candidiasis                                                                      |
-| Infections and infestations | Common                 | Folliculitis                                                                          |
-| Infections and infestations | Common                 | Pharyngitis                                                                           |
-| Infections and infestations | Common                 | Nasopharyngitis                                                                       |
-| Infections and infestations | Uncommon               | Herpes simplex                                                                        |
-| Infections and infestations | Uncommon               | Fungal infection                                                                      |
-| Infections and infestations | Rare                   | Opportunistic infection (including Aspergillus, Histoplasma , Isospora , Legionella , |
+| System Organ Class          | Frequency All Grades   | Adverse Drug Reaction                                                    |
+|-----------------------------|------------------------|--------------------------------------------------------------------------|
+| Infections and infestations | Common                 | Sepsis                                                                   |
+| Infections and infestations | Common                 | Pneumonia                                                                |
+| Infections and infestations | Common                 | Pneumocystis jirovecii pneumonia                                         |
+| Infections and infestations | Common                 | Cytomegalovirus infection including cytomegalovirus chorioretinitis      |
+| Infections and infestations | Common                 | Mycobacterium avium complex infection                                    |
+| Infections and infestations | Common                 | Candidiasis                                                              |
+| Infections and infestations | Common                 | Herpes zoster                                                            |
+| Infections and infestations | Common                 | Urinary tract infection                                                  |
+| Infections and infestations | Common                 | Infection                                                                |
+| Infections and infestations | Common                 | Upper respiratory tract infection                                        |
+| Infections and infestations | Common                 | Oral candidiasis                                                         |
+| Infections and infestations | Common                 | Folliculitis                                                             |
+| Infections and infestations | Common                 | Pharyngitis                                                              |
+| Infections and infestations | Common                 | Nasopharyngitis                                                          |
+| Infections and infestations | Uncommon               | Herpes simplex                                                           |
+| Infections and infestations | Uncommon               | Fungal infection                                                         |
+| Infections and infestations | Rare                   | Opportunistic infection (including Aspergillus, Histoplasma , Isospora , |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                                                 |                                                                | Microsporidium , Salmonella , Staphylococcus , Toxoplasma , Tuberculosis ) a                                                                                                                                                                                                                                                              |
-|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Neoplasms benign,                                                                               | Not known                                                      | Acute myeloid leukaemia b Myelodysplastic syndrome b                                                                                                                                                                                                                                                                                      |
-| malignant and unspecified (including cysts and polyps)                                          | Very common                                                    | Oral neoplasm b Leukopaenia Neutropaenia Lymphopaenia                                                                                                                                                                                                                                                                                     |
-| Blood and lymphatic system disorders Immune system disorders Metabolism and nutrition disorders | Common Uncommon Rare Uncommon Rare Very common Common Uncommon | Anaemia (including hypochromic) Thrombocytopaenia Febrile neutropaenia Pancytopaenia Thrombocytosis Bone marrow failure Hypersensitivity Anaphylactic reaction Anaphylactoid reaction Decreased appetite Cachexia Dehydration Hypokalaemia Hyponatraemia Hypocalcaemia Hyperkalaemia Hypomagnesaemia Confusional state Anxiety Depression |
-| Psychiatric disorders Nervous system disorders                                                  | Common                                                         | Insomnia                                                                                                                                                                                                                                                                                                                                  |
-|                                                                                                 | Common                                                         | Neuropathy peripheral Peripheral sensory neuropathy Neuralgia Paraesthesia Hypoaesthesia Dysgeusia Headache Lethargy                                                                                                                                                                                                                      |
-|                                                                                                 |                                                                | Dizziness Polyneuropathy                                                                                                                                                                                                                                                                                                                  |
-|                                                                                                 | Uncommon                                                       | Convulsion                                                                                                                                                                                                                                                                                                                                |
-| Eye disorders                                                                                   | Common                                                         | Syncope Dysaesthesia Somnolence                                                                                                                                                                                                                                                                                                           |
-|                                                                                                 | Uncommon                                                       | Conjunctivitis                                                                                                                                                                                                                                                                                                                            |
-|                                                                                                 |                                                                | Vision blurred Lacrimation                                                                                                                                                                                                                                                                                                                |
-|                                                                                                 | Rare                                                           | increased Retinitis                                                                                                                                                                                                                                                                                                                       |
-| Cardiac                                                                                         | Common                                                         | Tachycardia                                                                                                                                                                                                                                                                                                                               |
-| disorders a                                                                                     |                                                                |                                                                                                                                                                                                                                                                                                                                           |
-|                                                                                                 |                                                                | Palpitations                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                 |                                                                | Cardiac arrest                                                                                                                                                                                                                                                                                                                            |
-|                                                                                                 |                                                                | Cardiac failure                                                                                                                                                                                                                                                                                                                           |
-|                                                                                                 | Uncommon                                                       |                                                                                                                                                                                                                                                                                                                                           |
+|                                                                          |             | Legionella , Microsporidium , Salmonella , Staphylococcus , Toxoplasma , Tuberculosis ) a   |
+|--------------------------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------|
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Not known   | Acute myeloid leukaemia b                                                                   |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Not known   | Myelodysplastic syndrome b                                                                  |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Not known   | Oral neoplasm b                                                                             |
+| Blood and lymphatic system disorders                                     | Very common | Leukopaenia                                                                                 |
+| Blood and lymphatic system disorders                                     | Very common | Neutropaenia                                                                                |
+| Blood and lymphatic system disorders                                     | Very common | Lymphopaenia                                                                                |
+| Blood and lymphatic system disorders                                     | Very common | Anaemia (including hypochromic)                                                             |
+| Blood and lymphatic system disorders                                     | Common      | Thrombocytopaenia                                                                           |
+| Blood and lymphatic system disorders                                     | Common      | Febrile neutropaenia                                                                        |
+| Blood and lymphatic system disorders                                     | Uncommon    | Pancytopaenia                                                                               |
+| Blood and lymphatic system disorders                                     | Uncommon    | Thrombocytosis                                                                              |
+| Blood and lymphatic system disorders                                     | Rare        | Bone marrow failure                                                                         |
+| Immune system disorders                                                  | Uncommon    | Hypersensitivity                                                                            |
+| Immune system disorders                                                  | Uncommon    | Anaphylactic reaction                                                                       |
+| Immune system disorders                                                  | Rare        | Anaphylactoid reaction                                                                      |
+| Metabolism and nutrition disorders                                       | Very common | Decreased appetite                                                                          |
+| Metabolism and nutrition disorders                                       | Common      | Cachexia                                                                                    |
+| Metabolism and nutrition disorders                                       | Common      | Dehydration                                                                                 |
+| Metabolism and nutrition disorders                                       | Common      | Hypokalaemia                                                                                |
+| Metabolism and nutrition disorders                                       | Common      | Hyponatraemia                                                                               |
+| Metabolism and nutrition disorders                                       | Common      | Hypocalcaemia                                                                               |
+| Metabolism and nutrition disorders                                       | Uncommon    | Hyperkalaemia                                                                               |
+| Psychiatric disorders                                                    | Common      | Confusional state                                                                           |
+| Psychiatric disorders                                                    | Common      | Anxiety                                                                                     |
+| Psychiatric disorders                                                    | Common      | Depression                                                                                  |
+| Psychiatric disorders                                                    | Common      | Insomnia                                                                                    |
+| Nervous system disorders                                                 | Common      | Neuropathy peripheral                                                                       |
+| Nervous system disorders                                                 |             | Peripheral sensory neuropathy                                                               |
+| Nervous system disorders                                                 |             | Neuralgia                                                                                   |
+| Nervous system disorders                                                 |             | Paraesthesia                                                                                |
+| Nervous system disorders                                                 |             | Hypoaesthesia                                                                               |
+| Nervous system disorders                                                 |             | Dysgeusia                                                                                   |
+| Nervous system disorders                                                 |             | Headache                                                                                    |
+| Nervous system disorders                                                 |             | Lethargy                                                                                    |
+| Nervous system disorders                                                 |             | Dizziness                                                                                   |
+| Nervous system disorders                                                 | Uncommon    | Polyneuropathy                                                                              |
+| Nervous system disorders                                                 | Uncommon    | Convulsion                                                                                  |
+| Nervous system disorders                                                 | Uncommon    | Syncope                                                                                     |
+| Nervous system disorders                                                 | Uncommon    | Dysaesthesia                                                                                |
+| Nervous system disorders                                                 | Uncommon    | Somnolence                                                                                  |
+| Eye disorders                                                            | Common      | Conjunctivitis                                                                              |
+| Eye disorders                                                            | Uncommon    | Vision blurred                                                                              |
+| Eye disorders                                                            | Uncommon    | Lacrimation increased                                                                       |
+| Eye disorders                                                            | Rare        | Retinitis                                                                                   |
+| Cardiac disorders a                                                      | Common      | Tachycardia                                                                                 |
+| Cardiac disorders a                                                      | Uncommon    | Palpitations                                                                                |
+| Cardiac disorders a                                                      | Uncommon    | Cardiac arrest                                                                              |
+| Cardiac disorders a                                                      | Uncommon    | Cardiac failure                                                                             |
+| Cardiac disorders a                                                      | Uncommon    | Cardiac failure congestive                                                                  |
+| Cardiac disorders a                                                      | Uncommon    | Cardiomyopathy                                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                        |                | Cardiac failure congestive                                                |
-|----------------------------------------|----------------|---------------------------------------------------------------------------|
-|                                        |                | Cardiomyopathy                                                            |
-|                                        |                | Cardiotoxicity                                                            |
-|                                        | Rare           | Ventricular arrhythmia                                                    |
-|                                        |                | Bundle branch block right                                                 |
-|                                        |                | Conduction disorder                                                       |
-|                                        |                | Atrioventricular block                                                    |
-|                                        |                | Cyanosis                                                                  |
-| Vascular                               | Common         | Hypertension                                                              |
-| disorders                              |                | Hypotension                                                               |
-|                                        |                | Flushing                                                                  |
-|                                        | Uncommon       | Pulmonary embolism                                                        |
-|                                        |                | Infusion site necrosis (including soft tissue necrosis and skin necrosis) |
-|                                        |                | Phlebitis                                                                 |
-|                                        |                | Orthostatic hypotension                                                   |
-|                                        | Rare           | Thrombophlebitis                                                          |
-|                                        |                | Venous thrombosis                                                         |
-|                                        |                | Vasodilatation                                                            |
-| Respiratory, thoracic and mediastinal  | Common         | Dyspnoea                                                                  |
-|                                        |                | Dyspnoea exertional                                                       |
-|                                        |                | Epistaxis                                                                 |
-| disorders                              |                | Cough                                                                     |
-|                                        | Uncommon       | Asthma                                                                    |
-|                                        |                | Chest discomfort                                                          |
-|                                        | Rare Not Known | Throat tightness Interstitial lung disease                                |
-| Gastrointestinal                       | Very common    | Stomatitis                                                                |
-| disorders                              |                | Nausea                                                                    |
-|                                        |                | Vomiting                                                                  |
-|                                        |                | Diarrhoea                                                                 |
-|                                        |                | Constipation                                                              |
-|                                        | Common         | Gastritis                                                                 |
-|                                        |                | Aphthous stomatitis                                                       |
-|                                        |                | Mouth ulceration                                                          |
-|                                        |                | Dyspepsia                                                                 |
-|                                        |                | Dysphagia                                                                 |
-|                                        |                | Oesophagitis                                                              |
-|                                        |                | Abdominal pain                                                            |
-|                                        |                | Abdominal pain upper                                                      |
-|                                        |                | Oral pain                                                                 |
-|                                        |                | Dry mouth                                                                 |
-|                                        | Uncommon       | Flatulence                                                                |
-|                                        |                | Gingivitis                                                                |
-|                                        | Rare           | Glossitis                                                                 |
-|                                        |                | Lip ulceration                                                            |
-| Skin and subcutaneous tissue disorders | Very common    | Palmar plantar erythrodysaesthesia syndrome a                             |
-|                                        |                | Rash (including erythematous, maculo-papular, and papular)                |
-|                                        |                | Alopecia                                                                  |
-|                                        | Common         | Skin exfoliation                                                          |
-|                                        |                | Blister                                                                   |
-|                                        |                | Dry skin                                                                  |
-|                                        |                | Erythema                                                                  |
+|                                        |             | Cardiotoxicity                                                                      |
+|----------------------------------------|-------------|-------------------------------------------------------------------------------------|
+|                                        | Rare        | Ventricular arrhythmia                                                              |
+|                                        |             | Bundle branch block right                                                           |
+|                                        |             | Conduction disorder                                                                 |
+|                                        |             | Atrioventricular block                                                              |
+|                                        |             | Cyanosis                                                                            |
+| Vascular disorders                     | Common      | Hypertension                                                                        |
+|                                        |             | Hypotension                                                                         |
+|                                        |             | Flushing                                                                            |
+|                                        | Uncommon    | Pulmonary embolism                                                                  |
+|                                        |             | Infusion site necrosis (including soft tissue necrosis and skin necrosis) Phlebitis |
+|                                        |             | Orthostatic                                                                         |
+|                                        |             | hypotension                                                                         |
+|                                        | Rare        | Thrombophlebitis                                                                    |
+|                                        |             | Venous thrombosis                                                                   |
+|                                        |             | Vasodilatation                                                                      |
+| Respiratory, thoracic and mediastinal  | Common      | Dyspnoea                                                                            |
+|                                        |             | Dyspnoea exertional                                                                 |
+| disorders                              |             | Epistaxis                                                                           |
+|                                        |             | Cough                                                                               |
+|                                        | Uncommon    | Asthma                                                                              |
+|                                        |             | Chest discomfort                                                                    |
+|                                        | Rare        | Throat tightness                                                                    |
+|                                        | Not Known   | Interstitial lung disease                                                           |
+| Gastrointestinal                       | Very common | Stomatitis                                                                          |
+| disorders                              |             | Nausea                                                                              |
+|                                        |             | Vomiting                                                                            |
+|                                        |             | Diarrhoea                                                                           |
+|                                        |             | Constipation                                                                        |
+|                                        | Common      | Gastritis                                                                           |
+|                                        |             | Aphthous stomatitis                                                                 |
+|                                        |             | Mouth ulceration                                                                    |
+|                                        |             | Dyspepsia                                                                           |
+|                                        |             | Dysphagia                                                                           |
+|                                        |             | Oesophagitis                                                                        |
+|                                        |             | Abdominal pain                                                                      |
+|                                        |             | Abdominal pain upper                                                                |
+|                                        |             | Oral pain                                                                           |
+|                                        |             | Dry mouth                                                                           |
+|                                        | Uncommon    | Flatulence                                                                          |
+|                                        |             | Gingivitis                                                                          |
+|                                        | Rare        | Glossitis                                                                           |
+|                                        |             | Lip ulceration                                                                      |
+| Skin and subcutaneous tissue disorders | Very common | Palmar plantar erythrodysaesthesia syndrome a                                       |
+|                                        |             | Rash (including erythematous, and papular)                                          |
+|                                        |             | maculo-papular,                                                                     |
+|                                        |             | Alopecia                                                                            |
+|                                        | Common      | Skin exfoliation                                                                    |
+|                                        |             | Blister                                                                             |
+|                                        |             | Dry skin                                                                            |
+|                                        |             | Erythema                                                                            |
+|                                        |             | Pruritus                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                      |             | Pruritus                                                                                  |
-|------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------|
 |                                                      |             | Hyperhidrosis                                                                             |
+|------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------|
 |                                                      |             | Skin hyperpigmentation                                                                    |
 |                                                      | Uncommon    | Dermatitis                                                                                |
 |                                                      |             | Dermatitis exfoliative                                                                    |
@@ -431,34 +464,41 @@ Table 5: Adverse reactions in patients treated with Caelyx pegylated liposomal
 |                                                      | Rare        | Toxic epidermal necrolysis                                                                |
 |                                                      |             | Erythema multiforme                                                                       |
 |                                                      |             | Dermatitis bullous                                                                        |
+|                                                      |             | Lichenoid keratosis                                                                       |
 |                                                      | Not known   | Stevens-Johnson syndrome b                                                                |
 | Musculoskeletal and connective tissue disorders      | Very common | Musculoskeletal pain (including musculoskeletal chest pain, back pain, pain in extremity) |
-| Musculoskeletal and connective tissue disorders      | Common      | Muscle spasms                                                                             |
-| Musculoskeletal and connective tissue disorders      |             | Myalgia                                                                                   |
-| Musculoskeletal and connective tissue disorders      |             | Arthralgia                                                                                |
-| Musculoskeletal and connective tissue disorders      |             | Bone pain                                                                                 |
+|                                                      | Common      | Muscle spasms                                                                             |
+|                                                      |             | Myalgia                                                                                   |
+|                                                      |             | Arthralgia                                                                                |
+|                                                      |             | Bone pain                                                                                 |
 |                                                      | Uncommon    | Muscular weakness                                                                         |
-| Renal and urinary disorders                          | Common      | Dysuria                                                                                   |
+| Renal and urinary                                    | Common      | Dysuria                                                                                   |
+| disorders                                            | Not Known   | Renal-limited thrombotic microangiopathy                                                  |
 | Reproductive disorders                               | Uncommon    | Breast pain                                                                               |
-| Reproductive disorders                               | Rare        | Vaginal infection                                                                         |
-| Reproductive disorders                               |             | Scrotal erythema                                                                          |
+|                                                      | Rare        | Vaginal infection                                                                         |
+|                                                      |             | Scrotal erythema                                                                          |
 | General disorders and administration site conditions | Very common | Pyrexia                                                                                   |
-| General disorders and administration site conditions |             | Fatigue                                                                                   |
-| General disorders and administration site conditions | Common      | Infusion-related reaction                                                                 |
-| General disorders and administration site conditions |             | Chest pain                                                                                |
-| General disorders and administration site conditions |             | Influenza-like illness                                                                    |
-| General disorders and administration site conditions |             | Chills                                                                                    |
-| General disorders and administration site conditions |             | Mucosal inflammation                                                                      |
-| General disorders and administration site conditions |             | Asthenia                                                                                  |
-| General disorders and administration site conditions |             | Oedema                                                                                    |
-| General disorders and administration site conditions | Uncommon    | Administration site extravasation                                                         |
-| General disorders and administration site conditions |             | Injection site reaction                                                                   |
-| General disorders and administration site conditions |             | Face oedema                                                                               |
-| General disorders and administration site conditions | Rare        | Hyperthermia Mucous membrane disorder                                                     |
-| General disorders and administration site conditions | Uncommon    | Ejection fraction decreased                                                               |
+|                                                      |             | Fatigue                                                                                   |
+|                                                      | Common      | Infusion-related reaction                                                                 |
+|                                                      |             | Pain                                                                                      |
+|                                                      |             | Chest pain                                                                                |
+|                                                      |             | Influenza-like illness                                                                    |
+|                                                      |             | Chills                                                                                    |
+|                                                      |             | Mucosal inflammation                                                                      |
+|                                                      |             | Asthenia                                                                                  |
+|                                                      |             | Malaise                                                                                   |
+|                                                      |             | Oedema                                                                                    |
+|                                                      |             | Oedema peripheral                                                                         |
+|                                                      | Uncommon    | Administration site extravasation                                                         |
+|                                                      |             | Injection site reaction                                                                   |
+|                                                      |             | Face oedema                                                                               |
+|                                                      |             | Hyperthermia                                                                              |
+|                                                      | Rare        | Mucous membrane disorder                                                                  |
 | Investigations                                       | Common      | Weight decreased                                                                          |
-| General disorders and administration site conditions |             |                                                                                           |
-| General disorders and administration site conditions |             |                                                                                           |
+|                                                      | Uncommon    | Ejection fraction decreased                                                               |
+|                                                      | Rare        | Liver function test abnormal (including Blood bilirubin increased, Alanine                |
+|                                                      |             | aminotransferase increased and Aspartate                                                  |
+|                                                      |             | aminotransferase increased)                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -467,7 +507,8 @@ Table 5: Adverse reactions in patients treated with Caelyx pegylated liposomal
 | Injury, poisoning and procedural complications | Uncommon | Radiation recall phenomenon a |
 
 - a See Description of selected adverse reactions
-- b Post-marketing adverse reaction
+
+b Post-marketing adverse reaction
 
 ## Description of selected adverse reactions Palmar plantar erythrodysaesthesia
 
@@ -802,9 +843,7 @@ Cytotoxic
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Baxter Holding B.V. Kobaltweg 49, 3542 CE Utrecht,
-
-Netherlands
+Baxter Holding B.V. Kobaltweg 49, 3542 CE Utrecht, Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1202,6 +1241,7 @@ When Caelyx pegylated liposomal is used alone, some of these effects are less li
 
 - -cancer of the blood that develops quickly and affects the blood cells (acute myeloid leukaemia), bone marrow disease that affects the blood cells (myelodysplastic syndrome), cancer of the mouth or lip
 - -Coughing and shortness of breath, possibly accompanied by fever, that is not brought on by physical activity (Interstitial lung disease)
+- -clogging of very small blood vessels in the kidneys (renal-limited thrombotic microangiopathy)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1219,7 +1259,7 @@ Strategies to prevent and treat hand-foot syndrome include:
 - -avoiding exposure of skin to very hot water (e.g., jacuzzis, saunas);
 - -avoiding tight fitting footwear or high-heeled shoes.
 
-Pyridoxine (Vitamin B6):
+## Pyridoxine (Vitamin B6):
 
 - -vitamin B6 is available without prescription;
 - -take 50-150 mg daily beginning at the first signs of redness or tingling.
@@ -1297,9 +1337,9 @@ Baxter Deutschland GmbH Tel: +49 (0)89 31701-0 info\\_de@baxter.com
 
 ## Eesti
 
-OÜ Baxter Estonia
+Baxter Holding B.V.
 
-Tel: +372 651 5120
+Tel.: +31 (0)30 2488 911
 
 ## Ελλάδα
 
@@ -1307,7 +1347,9 @@ Baxter (Hellas) Ε . Π . Ε ., Τηλ: +30 210 28 80 000
 
 ## Lietuva
 
-UAB 'Baxter Lithuania' Tel: +37052527100
+Baxter Holding B.V.
+
+Tel.: +31 (0)30 2488 911
 
 ## Luxembourg/Luxemburg
 
@@ -1373,7 +1415,7 @@ Tel: +44 (0)1635 206345
 
 Baxter Medical AB
 
-Sími: +46 8 632 64 00
+Sími: +46 (0) 20 78 81 15
 
 ## Italia
 
@@ -1391,9 +1433,9 @@ Baxter Holding B.V.
 
 ## Latvija
 
-Baxter Latvia SIA
+Baxter Holding B.V.
 
-Tel: +371 677 84784
+Tel.: +31 (0)30 2488 911
 
 ## This leaflet was last approved on
 
@@ -1439,7 +1481,7 @@ Puh/Tel: +358 (0) 800 144 233
 
 Baxter Medical AB
 
-Tel: +46 (0)8 632 64 00
+Tel: +46 (0) 20 78 81 15
 
 ## United Kingdom (Northern Ireland)
 

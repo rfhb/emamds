@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-10-03 11:15:18
+document_datetime: 2026-04-24 08:48:26
 document_pages: 27
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/striascan-epar-product-information_en.pdf
 document_name: striascan-epar-product-information_en.pdf
 version: success
-processing_time: 5.1244811
-conversion_datetime: 2025-12-24 18:34:09.242425
+processing_time: 5.5680246
+conversion_datetime: 2026-04-25 16:14:51.595875
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,9 +30,9 @@ Striascan 74 MBq/mL solution for injection
 
 Each mL of solution contains 74 MBq of ioflupane ( 123 I) at reference time (0.07 to 0.13 µg/mL of ioflupane).
 
-Each 2.5 mL single dose vial contains 185 MBq ioflupane ( 123 4.5 x 10 14 Bq/mmol) at reference time.
-
 I) (specific activity range 2.5 to
+
+Each 2.5 mL single dose vial contains 185 MBq ioflupane ( 123 4.5 x 10 14 Bq/mmol) at reference time.
 
 Each 5 mL single dose vial contains 370 MBq ioflupane ( 123 I) (specific activity range 2.5 to 4.5 x 10 14 Bq/mmol) at reference time.
 
@@ -159,7 +159,7 @@ Precautions with respect to environmental hazard see section 6.6.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-No interaction studies have been performed in humans.
+## No interaction studies have been performed in humans.
 
 Ioflupane binds to the dopamine transporter. Active substances that bind to the dopamine transporter with high affinity may therefore interfere with Striascan diagnosis. These include:
 
@@ -172,7 +172,7 @@ Ioflupane binds to the dopamine transporter. Active substances that bind to the 
 - -modafinil,
 - -phentermine,
 
-Selective serotonin reuptake inhibitors, such as sertraline, may increase or decrease ioflupane binding to the dopamine transporter.
+Selective serotonin reuptake inhibitors (SSRIs), such as sertraline, may increase or decrease ioflupane binding to the dopamine transporter. Serotonin-norepinephrine reuptake inhibitors (SNRIs), such as venlafaxine, may decrease ioflupane binding to the dopamine transporter especially in patients on higher doses.
 
 Active substances shown during clinical trials not to interfere with Striascan imaging include:
 
@@ -539,7 +539,7 @@ Do not store above 25 ° C.
 
 Do not freeze. Store in the original lead shielding.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Handling and disposal - see package leaflet.
 
@@ -567,7 +567,7 @@ Medicinal product subject to medical prescription.
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -844,6 +844,7 @@ Tell your nuclear medicine doctor if you are taking or have recently taken any o
 - cocaine (sometimes used as an anaesthetic for nose surgery)
 - modafinil (used to treat narcolepsy (excessive sleepiness) and other sleep disorders)
 - codeine (used to relieve mild to moderate pain and suppress a dry cough)
+- venlafaxine, desvenlafaxine, duloxetine, milnacipran (used to treat depression)
 
 Some medicines may reduce the quality of the picture obtained. The doctor may ask you to stop taking them for a short time before you receive Striascan.
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-01 09:59:54
-document_pages: 213
+document_datetime: 2026-04-23 12:03:30
+document_pages: 235
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/remsima-epar-product-information_en.pdf
 document_name: remsima-epar-product-information_en.pdf
 version: success
-processing_time: 81.2731832
-conversion_datetime: 2026-04-05 12:27:39.159424
+processing_time: 83.6109005
+conversion_datetime: 2026-04-25 16:30:24.194842
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
   docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -128,7 +128,7 @@ Available data suggest that the clinical response is usually achieved within 12 
 In responding patients, the alternative strategies for continued treatment are:
 
 - Maintenance: Additional infusion of 5 mg/kg at 6 weeks after the initial dose, followed by infusions every 8 weeks or
-- Re-administration: Infusion of 5 mg/kg if signs and symptoms of the disease recur (see 'Re-administration' below and section 4.4).
+- Re-administration: Infusion of 5 mg/kg if signs and symptoms of the disease recur (see 'Re -administration' below and section 4.4).
 
 Although comparative data are lacking, limited data in patients who initially responded to 5 mg/kg but who lost response indicate that some patients may regain response with dose escalation (see section 5.1). Continued therapy should be carefully reconsidered in patients who show no evidence of therapeutic benefit after dose adjustment.
 
@@ -139,11 +139,11 @@ Although comparative data are lacking, limited data in patients who initially re
 In responding patients, the alternative strategies for continued treatment are:
 
 - Maintenance: Additional infusions of 5 mg/kg every 8 weeks or
-- Re-administration: Infusion of 5 mg/kg if signs and symptoms of the disease recur followed by infusions of 5 mg/kg every 8 weeks (see 'Re-administration' below and section 4.4).
+- Re-administration: Infusion of 5 mg/kg if signs and symptoms of the disease recur followed by infusions of 5 mg/kg every 8 weeks (see 'Re -administration' below and section 4.4).
 
 Although comparative data are lacking, limited data in patients who initially responded to 5 mg/kg but who lost response indicate that some patients may regain response with dose escalation (see section 5.1). Continued therapy should be carefully reconsidered in patients who show no evidence of therapeutic benefit after dose adjustment.
 
-In Crohn's disease, experience with re-administration if signs and symptoms of disease recur is limited and comparative data on the benefit/risk of the alternative strategies for continued treatment are lacking.
+In Crohn's disease, experience with re -administration if signs and symptoms of disease recur is limited and comparative data on the benefit/risk of the alternative strategies for continued treatment are lacking.
 
 ## Ulcerative colitis
 
@@ -165,7 +165,7 @@ Available data suggest that the clinical response is usually achieved within 14 
 
 5 mg/kg given as an intravenous infusion followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter. If a patient shows no response after 14 weeks (i.e. after 4 doses), no additional treatment with infliximab should be given.
 
-## Re-administration for Crohn's disease and rheumatoid arthritis
+## Readministration for Crohn's disease and rheumatoid arthritis
 
 If the signs and symptoms of disease recur, infliximab can be re-administered within 16 weeks following the last infusion. In clinical studies, delayed hypersensitivity reactions have been uncommon and have occurred after infliximab-free intervals of less than 1 year (see sections 4.4 and 4.8). The safety and efficacy of re-administration after an infliximab-free interval of more than 16 weeks has not been established. This applies to both Crohn's disease patients and rheumatoid arthritis patients.
 
@@ -353,7 +353,7 @@ Care should be taken and patients should continue to be monitored when switching
 
 It is recommended that patients, if possible, be brought up to date with all vaccinations in agreement with current vaccination guidelines prior to initiating Remsima therapy. Patients on infliximab may receive concurrent vaccinations, except for live vaccines (see sections 4.5 and 4.6).
 
-In a subset of 90 adult patients with rheumatoid arthritis from the ASPIRE study a similar proportion of patients in each treatment group (methotrexate plus: placebo [n = 17], 3 mg/kg [n = 27] or 6 mg/kg infliximab [n = 46]) mounted an effective two-fold increase in titers to a polyvalent pneumococcal vaccine, indicating that infliximab did not interfere with T-cell independent humoral immune responses. However, studies from the published literature in various indications (e.g. rheumatoid arthritis, psoriasis, Crohn's disease) suggest that non-live vaccinations received during treatment with anti-TNF therapies, including infliximab, may elicit a lower immune response than in patients not receiving anti-TNF therapy.
+In a subset of 90 adult patients with rheumatoid arthritis from the ASPIRE study a similar proportion of patients in each treatment group (methotrexate plus: placebo [n = 17], 3 mg/kg [n = 27] or 6 mg/kg infliximab [n = 46]) mounted an effective two-fold increase in titers to a polyvalent pneumococcal vaccine, indicating that infliximab did not interfere with T-cell independent humoral immune responses. However, studies from the published literature in various indications (e.g. rheumatoid arthritis, psorias is, Crohn's disease) suggest that non-live vaccinations received during treatment with anti-TNF therapies, including infliximab, may elicit a lower immune response than in patients not receiving anti-TNF therapy.
 
 ## Live vaccines/therapeutic infectious agents
 
@@ -401,7 +401,7 @@ Post-marketing cases of hepatosplenic T-cell lymphoma (HSTCL) have been reported
 
 Melanoma and Merkel cell carcinoma have been reported in patients treated with TNF blocker therapy, including infliximab (see section 4.8). Periodic skin examination is recommended, particularly for patients with risk factors for skin cancer.
 
-A population-based retrospective cohort study using data from Swedish national health registries found an increased incidence of cervical cancer in women with rheumatoid arthritis treated with infliximab compared to biologics-naïve patients or the general population, including those over 60 years of age. Periodic screening should continue in women treated with infliximab, including those over 60 years of age.
+A population-based retrospective cohort study using data from Swedish national health registries found an increased incidence of cervical cancer in women with rheumatoid arthritis treated with infliximab compared to biologics-naï ve patients or the general population, including those over 60 years of age. Periodic screening should continue in women treated with infliximab, including those over 60 years of age.
 
 All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course. This evaluation should include colonoscopy and biopsies per local recommendations. Current data do not indicate that infliximab treatment influences the risk for developing dysplasia or colon cancer.
 
@@ -441,7 +441,7 @@ It is recommended that paediatric patients, if possible, be brought up to date w
 
 ## Malignancies and lymphoproliferative disorders
 
-Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-blocking agents (in itiation of therapy ≤18 years of age), including infliximab in the post-marketing setting. Approximately half the cases were lymphomas. The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression. A risk for the development of malignancies in children and adolescents treated with TNF-blockers cannot be excluded.
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNFblocking agents (initiation of therapy ≤18 years of age), including infliximab in the post-marketing setting. Approximately half the cases were lymphomas. The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression. A risk for the development of malignancies in children and adolescents treated with TNF-blockers cannot be excluded.
 
 Post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients treated with TNF-blocking agents including infliximab. This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal. Almost all patients had received treatment with AZA or 6-MP concomitantly with or immediately prior to a TNF-blocker. The vast majority of infliximab cases have occurred in patients with Crohn's disease or ulcerative colitis and most were reported in adolescent or young adult males. The potential risk with the combination of AZA or 6-MP and infliximab should be carefully considered. A risk for the development for hepatosplenic T-cell lymphoma in patients treated with infliximab cannot be excluded (see section 4.8).
 
@@ -449,7 +449,7 @@ Post-marketing cases of hepatosplenic T-cell lymphoma have been reported in pati
 
 ## Sodium content
 
-Remsima contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium-free'. Remsima is however, diluted in sodium chloride 9 mg/ml (0.9%) solution for infusion. This should be taken into consideration for patients on a controlled sodium diet (see section 6.6).
+Remsima contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium -free'. Remsima is however, diluted in sodium chloride 9 mg/ml (0.9%) solution for infusion. This should be taken into consideration for patients on a controlled sodium diet (see section 6.6).
 
 ## Polysorbate 80
 
@@ -531,8 +531,8 @@ Table 1
 | Rare:                                                                    | Meningitis, opportunistic infections (such as invasive fungal infections [pneumocystosis, histoplasmosis, aspergillosis, coccidioidomycosis, cryptococcosis, blastomycosis], bacterial infections [atypical mycobacterial, listeriosis, salmonellosis], and viral infections [cytomegalovirus]), parasitic infections, hepatitis B reactivation. |
 | Not known:                                                               | Vaccine breakthrough infection (after in utero exposure to infliximab)*.                                                                                                                                                                                                                                                                         |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Neoplasms benign, malignant and unspecified (including cysts and polyps)                                                                                                                                                                                                                                                                         |
-| Rare:                                                                    | Lymphoma, non-Hodgkin's lymphoma, Hodgkin's disease, leukaemia, melanoma, cervical cancer.                                                                                                                                                                                                                                                       |
-| Not known:                                                               | Hepatosplenic T-cell lymphoma (primarily in adolescents and young adult males with Crohn's disease or ulcerative colitis), Merkel cell carcinoma, Kaposi's sarcoma.                                                                                                                                                                              |
+| Rare:                                                                    | Lymphoma, non- Hodgkin's lymphoma, Hodgkin's disease, leukaemia, melanoma, cervical cancer.                                                                                                                                                                                                                                                      |
+| Not known:                                                               | Hepatosplenic T-cell lymphoma (primarily in adolescents and young adult males with Crohn's disease or ulcerative colitis), Merkel cell carcinoma , Kaposi's sarcoma .                                                                                                                                                                            |
 | Blood and lymphatic system disorders                                     | Blood and lymphatic system disorders                                                                                                                                                                                                                                                                                                             |
 | Common:                                                                  | Neutropenia, leucopenia, anaemia, lymphadenopathy.                                                                                                                                                                                                                                                                                               |
 | Uncommon:                                                                | Thrombocytopenia, lymphopenia, lymphocytosis.                                                                                                                                                                                                                                                                                                    |
@@ -624,7 +624,7 @@ An infusion-related reaction was defined in clinical studies as any adverse even
 
 In a clinical study of patients with rheumatoid arthritis (ASPIRE), infusions were to be administered over 2 hours for the first 3 infusions. The duration of subsequent infusions could be shortened to not less than 40 minutes in patients who did not experience serious infusion reactions. In this trial, sixty six percent of the patients (686 out of 1,040) received at least one shortened infusion of 90 minutes or less and 44% of the patients (454 out of 1,040) received at least one shortened infusion of 60 minutes or less. Of the infliximab-treated patients who received at least one shortened infusion, infusion-related reactions occurred in 15% of patients and serious infusion reactions occurred in 0.4% of patients.
 
-In a clinical study of patients with Crohn's disease (SONIC), infusion-related reactions occurred in 16.6% (27/163) of patients receiving infliximab monotherapy, 5% (9/179) of patients receiving infliximab in combination with AZA, and 5.6% (9/161) of patients receiving AZA monotherapy. One serious infusion reaction (&lt;1%) occurred in a patient on infliximab monotherapy.
+In a clinical study of patients with Crohn's disease (SONIC), infusion -related reactions occurred in 16.6% (27/163) of patients receiving infliximab monotherapy, 5% (9/179) of patients receiving infliximab in combination with AZA, and 5.6% (9/161) of patients receiving AZA monotherapy. One serious infusion reaction (&lt;1%) occurred in a patient on infliximab monotherapy.
 
 In post-marketing experience, cases of anaphylactic-like reactions, including laryngeal/pharyngeal oedema and severe bronchospasm, and seizure have been associated with infliximab administration (see section 4.4). Cases of transient visual loss occurring during or within 2 hours of infliximab infusion have been reported. Events (some fatal) of myocardial ischaemia/infarction and arrhythmia have been reported, some in close temporal association with infusion of infliximab; cerebrovascular accidents have also been reported in close temporal association with infusion of infliximab.
 
@@ -670,7 +670,7 @@ Cases of malignancies, including lymphoma, have also been reported in the post-m
 
 In an exploratory clinical study involving patients with moderate to severe COPD who were either current smokers or ex-smokers, 157 adult patients were treated with infliximab at doses similar to those used in rheumatoid arthritis and Crohn's disease. Nine of these patients developed malignancies, including 1 lymphoma. The median duration of follow-up was 0.8 years (incidence 5.7% [95% CI 2.65%-10.6%]. There was one reported malignancy amongst 77 control patients (median duration of follow-up 0.8 years; incidence 1.3% [95% CI 0.03%-7.0%]). The majority of the malignancies developed in the lung or head and neck.
 
-A population-based retrospective cohort study found an increased incidence of cervical cancer in women with rheumatoid arthritis treated with infliximab compared to biologics-naïve patients or the general population, including those over 60 years of age (see section 4.4).
+A population-based retrospective cohort study found an increased incidence of cervical cancer in women with rheumatoid arthritis treated with infliximab compared to biologics-naï ve patients or the general population, including those over 60 years of age (see section 4.4).
 
 In addition, post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients treated with infliximab with the vast majority of cases occurring in Crohn's disease and ulcerative colitis, and most of whom were adolescent or young adult males (see section 4.4).
 
@@ -731,7 +731,7 @@ Infections occurred in 68% (41/60) of children receiving 3 mg/kg over 52 weeks, 
 
 ## Paediatric Crohn's disease patients
 
-The following adverse reactions were reported more commonly in paediatric Crohn's disease patients in the REACH study (see section 5.1) than in adult Crohn's disease patients: anaemia (10.7%), blood in stool (9.7%), leucopenia (8.7%), flushing (8.7%), viral infection (7.8%), neutropenia (6.8%), bacterial infection (5.8%), and respiratory tract allergic reaction (5.8%). In addition, bone fracture (6.8%) was reported, however, a causal association has not been established. Other special considerations are discussed below.
+The following adverse reaction s were reported more commonly in paediatric Crohn's disease patients in the REACH study (see section 5.1) than in adult Crohn's disease patients: anaemia (10.7%), blood in stool (9.7%), leucopenia (8.7%), flushing (8.7%), viral infection (7.8%), neutropenia (6.8%), bacterial infection (5.8%), and respiratory tract allergic reaction (5.8%). In addition, bone fracture (6.8%) was reported, however, a causal association has not been established. Other special considerations are discussed below.
 
 ## Infusion -related reactions
 
@@ -763,7 +763,7 @@ Antibodies to infliximab were detected in 4 (7.7%) patients through week 54.
 
 ## Infections
 
-Infections were reported in 31 (51.7%) of 60 treated patients in C0168T72 and 22 (36.7%) required oral or parenteral antimicrobial treatment. The proportion of patients with infections in C0168T72 was similar to that in the paediatric Crohn's disease study (REACH) but higher than the proportion in the adults ulcerative colitis studies (ACT 1 and ACT 2). The overall incidence of infections in C0168T72 was 13/22 (59%) in the every 8 week maintenance treatment group and 14/23 (60.9%) in the every 12 week maintenance treatment group. Upper respiratory tract infection (7/60 [12%]) and pharyngitis (5/60 [8%]) were the most frequently reported respiratory system infections. Serious infections were reported in 12% (7/60) of all treated patients.
+Infections were reported in 31 (51.7%) of 60 treated patients in C0168T72 and 22 (36.7%) required oral or parenteral antimicrobial treatment. The proportion of patients with infections in C0168T72 was similar to that in the paediatric Crohn's disease study (REACH) but higher than the proportion in th e adults ulcerative colitis studies (ACT 1 and ACT 2). The overall incidence of infections in C0168T72 was 13/22 (59%) in the every 8 week maintenance treatment group and 14/23 (60.9%) in the every 12 week maintenance treatment group. Upper respiratory tract infection (7/60 [12%]) and pharyngitis (5/60 [8%]) were the most frequently reported respiratory system infections. Serious infections were reported in 12% (7/60) of all treated patients.
 
 In this study, there were more patients in the 12 to 17 year age group than in the 6 to 11 year age group (45/60 [75.0%]) vs.15/60 [25.0%]). While the numbers of patients in each subgroup are too small to make any definitive conclusions about the effect of age on safety events, there were higher proportions of patients with serious adverse events and discontinuation due to adverse events in the younger age group than in the older age group. While the proportion of patients with infections was also higher in the younger age group, for serious infections, the proportions were similar in the two age groups. Overall proportions of adverse events and infusion reactions were similar between the 6 to 11 and 12 to 17 year age groups.
 
@@ -805,7 +805,7 @@ Infliximab inhibits the functional activity of TNF α in a wide variety of in vi
 
 Elevated concentrations of TNF α have been found in the joints of rheumatoid arthritis patients and correlate with elevated disease activity. In rheumatoid arthritis, treatment with infliximab reduced infiltration of inflammatory cells into inflamed areas of the joint as well as expression of molecules mediating cellular adhesion, chemoattraction and tissue degradation. After infliximab treatment, patients exhibited decreased levels of serum interleukin 6 (IL-6) and C-reactive protein (CRP), and increased haemoglobin levels in rheumatoid arthritis patients with reduced haemoglobin levels, compared with baseline. Peripheral blood lymphocytes further showed no significant decrease in number or in proliferative responses to in vitro mitogenic stimulation when compared with untreated patients' cells. In psoriasis patients, treatment with infliximab resulted in decreases in epidermal inflammation and normalisation of keratinocyte differentiation in psoriatic plaques. In psoriatic arthritis, short term treatment with infliximab reduced the number of T-cells and blood vessels in the synovium and psoriatic skin.
 
-Histological evaluation of colonic biopsies, obtained before and 4 weeks after administration of infliximab, revealed a substantial reduction in detectable TNF α . Infliximab treatment of Crohn's disease patients was also associated with a substantial reduction of the commonly elevated serum inflammatory marker, CRP. Total peripheral white blood cell counts were minimally affected in infliximab-treated patients, although changes in lymphocytes, monocytes and neutrophils reflected shifts towards normal ranges. Peripheral blood mononuclear cells (PBMC) from infliximab-treated patients showed undiminished proliferative responsiveness to stimuli compared with untreated patients, and no substantial changes in cytokine production by stimulated PBMC were observed following treatment with infliximab. Analysis of lamina propria mononuclear cells obtained by biopsy of the intestinal mucosa showed that infliximab treatment caused a reduction in the number of cells capable of expressing TNF α and interferon γ . Additional histological studies provided evidence that treatment with infliximab reduces the infiltration of inflammatory cells into affected areas of the intestine and the presence of inflammation markers at these sites. Endoscopic studies of intestinal mucosa have shown evidence of mucosal healing in infliximab-treated patients.
+Histological evaluation of colonic biopsies, obtained before and 4 weeks after administration of infliximab, revealed a substantial reduction in detectable TNF α. Infliximab treatment of Crohn's disease patients was also associated with a substantial reduction of the commonly elevated serum inflammatory marker, CRP. Total peripheral white blood cell counts were minimally affected in infliximab-treated patients, although changes in lymphocytes, monocytes and neutrophils reflected shifts towards normal ranges. Peripheral blood mononuclear cells (PBMC) from infliximab-treated patients showed undiminished proliferative responsiveness to stimuli compared with untreated patients, and no substantial changes in cytokine production by stimulated PBMC were observed following treatment with infliximab. Analysis of lamina propria mononuclear cells obtained by biopsy of the intestinal mucosa showed that infliximab treatment caused a reduction in the number of cells capable of expressing TNF α and interferon  . Additional histological studies provided evidence that treatment with infliximab reduces the infiltration of inflammatory cells into affected areas of the intestine and the presence of inflammation markers at these sites. Endoscopic studies of intestinal mucosa have shown evidence of mucosal healing in infliximab-treated patients.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -827,11 +827,10 @@ The effects observed at 54 weeks were maintained through 102 weeks. Due to a num
 
 Table 3 Effects on ACR20, Structural Joint Damage and Physical Function at week 54, ATTRACT
 
-|                                                     | Control a                                           | Infliximab b                                        | Infliximab b                                        | Infliximab b                                        | Infliximab b                                        | Infliximab b                                        |
+|                                                     | Control a                                           |                                                     |                                                     |                                                     |                                                     |                                                     |
 |-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
 |                                                     | Control a                                           | 3 mg/kg q 8 wks                                     | 3 mg/kg q 4 wks                                     | 10 mg/kg q 8 wks                                    | 10 mg/kg q 4 wks                                    | All infliximab b                                    |
-| Patients with ACR20                                 | 15/88                                               | 36/86                                               | 41/86                                               | 51/87                                               | 48/81                                               | 176/340                                             |
-| response/Patients                                   | (17%)                                               | (42%)                                               | (48%)                                               | (59%)                                               | (59%)                                               | (52%)                                               |
+| Patients with ACR20 response/Patients evaluated (%) | 15/88 (17%)                                         | 36/86 (42%)                                         | 41/86 (48%)                                         | 51/87 (59%)                                         | 48/81 (59%)                                         | 176/340 (52%)                                       |
 | Total score d (van der Heijde-modified Sharp score) | Total score d (van der Heijde-modified Sharp score) | Total score d (van der Heijde-modified Sharp score) | Total score d (van der Heijde-modified Sharp score) | Total score d (van der Heijde-modified Sharp score) | Total score d (van der Heijde-modified Sharp score) | Total score d (van der Heijde-modified Sharp score) |
 | Change from baseline (Mean ± SD c )                 | 7.0 ± 10.3                                          | 1.3 ± 6.0                                           | 1.6 ± 8.5                                           | 0.2 ± 3.6                                           | -0.7 ± 3.8                                          | 0.6 ± 5.9                                           |
 | Median                                              | 4.0                                                 | 0.5                                                 | 0.1                                                 | 0.5                                                 | -0.5                                                | 0.0                                                 |
@@ -863,15 +862,17 @@ In ASPIRE, more than 90% of patients had at least two evaluable X-rays. Reductio
 
 Table 4 Effects on ACRn, Structural Joint Damage and Physical Function at week 54, ASPIRE
 
-|                                                                                     |                                                                               | Infliximab + MTX                                                              | Infliximab + MTX                                                              | Infliximab + MTX                                                              |
-|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-|                                                                                     | Placebo + MTX                                                                 | 3 mg/kg                                                                       | 6 mg/kg                                                                       | Combined                                                                      |
-| Subjects randomised                                                                 | 282                                                                           | 359                                                                           | 363                                                                           | 722                                                                           |
-| Percentage ACR improvement Mean ± SD a                                              | 24.8 ± 59.7                                                                   | 37.3 ± 52.8                                                                   | 42.0 ± 47.3                                                                   | 39.6 ± 50.1                                                                   |
-| Change from baseline in total van der Heijde-modified Sharp Mean ± SD a 3.70 ± 9.61 |                                                                               | score 0.42 ± 5.82                                                             | 0.51 ± 5.55                                                                   | 0.46 ± 5.68                                                                   |
-| Median                                                                              | 0.43                                                                          | 0.00                                                                          | 0.00                                                                          | 0.00                                                                          |
-| Improvement from baseline in HAQ averaged over time from week 30 to week 54 c       | Improvement from baseline in HAQ averaged over time from week 30 to week 54 c | Improvement from baseline in HAQ averaged over time from week 30 to week 54 c | Improvement from baseline in HAQ averaged over time from week 30 to week 54 c | Improvement from baseline in HAQ averaged over time from week 30 to week 54 c |
-| Mean ± SD d                                                                         | 0.68 ± 0.63                                                                   | 0.80 ± 0.65                                                                   | 0.88 ± 0.65                                                                   | 0.84 ± 0.65                                                                   |
+|                                                                               |                                                                               | Infliximab + MTX                                                              | Infliximab + MTX                                                              | Infliximab + MTX                                                              |
+|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+|                                                                               | Placebo + MTX                                                                 | 3 mg/kg                                                                       | 6 mg/kg                                                                       | Combined                                                                      |
+| Subjects randomised                                                           | 282                                                                           | 359                                                                           | 363                                                                           | 722                                                                           |
+| Percentage ACR improvement                                                    |                                                                               |                                                                               |                                                                               |                                                                               |
+| Mean ± SD a                                                                   | 24.8 ± 59.7                                                                   | 37.3 ± 52.8                                                                   | 42.0 ± 47.3                                                                   | 39.6 ± 50.1                                                                   |
+| Change from baseline in total van der Heijde-modified Sharp score b           | Change from baseline in total van der Heijde-modified Sharp score b           | Change from baseline in total van der Heijde-modified Sharp score b           | Change from baseline in total van der Heijde-modified Sharp score b           | Change from baseline in total van der Heijde-modified Sharp score b           |
+| Mean ± SD a                                                                   | 3.70 ± 9.61                                                                   | 0.42 ± 5.82                                                                   | 0.51 ± 5.55                                                                   | 0.46 ± 5.68                                                                   |
+| Median                                                                        | 0.43                                                                          | 0.00                                                                          | 0.00                                                                          | 0.00                                                                          |
+| Improvement from baseline in HAQ averaged over time from week 30 to week 54 c | Improvement from baseline in HAQ averaged over time from week 30 to week 54 c | Improvement from baseline in HAQ averaged over time from week 30 to week 54 c | Improvement from baseline in HAQ averaged over time from week 30 to week 54 c | Improvement from baseline in HAQ averaged over time from week 30 to week 54 c |
+| Mean ± SD d                                                                   | 0.68 ± 0.63                                                                   | 0.80 ± 0.65                                                                   | 0.88 ± 0.65                                                                   | 0.84 ± 0.65                                                                   |
 
 a p &lt;0.001, for each infliximab treatment group vs. control.
 
@@ -915,7 +916,6 @@ Table 5
 |-------------------------------------------------|---------------------------------------------|--------------------------------------------------|---------------------------------------------------|
 |                                                 | Placebo Maintenance (n=110)                 | Infliximab Maintenance 5 mg/kg (n=113) (p value) | Infliximab Maintenance 10 mg/kg (n=112) (p value) |
 | Median time to loss of response through week 54 | 19 weeks                                    | 38 weeks (0.002)                                 | >54 weeks (<0.001)                                |
-| Week 30                                         |                                             |                                                  |                                                   |
 | Clinical Response a                             | 27.3                                        | 51.3 (<0.001)                                    | 59.1 (<0.001)                                     |
 | Clinical Remission                              | 20.9                                        | 38.9 (0.003)                                     | 45.5 (<0.001)                                     |
 | Steroid-Free Remission                          | 10.7 (6/56)                                 | 31.0 (18/58) (0.008)                             | 36.8 (21/57) (0.001)                              |
@@ -938,9 +938,7 @@ The primary endpoint of the study was corticosteroid-free clinical remission at 
 
 <div style=\"page-break-after: always\"></div>
 
-Table 6
-
-## Percent of patients achieving corticosteroid-free clinical remission at Week 26, SONIC
+Table 6 Percent of patients achieving corticosteroid-free clinical remission at Week 26, SONIC
 
 |                         | AZA Monotherapy   | Infliximab Monotherapy   | Infliximab + AZA Combination therapy   |
 |-------------------------|-------------------|--------------------------|----------------------------------------|
@@ -956,7 +954,7 @@ Similar trends in the achievement of corticosteroid-free clinical remission were
 
 The efficacy was assessed in a randomised, double-blinded, placebo-controlled study in 94 patients with fistulising Crohn's disease who had fistulae that were of at least 3 months' duration. Thirty one of these patients were treated with infliximab 5 mg/kg. Approximately 93% of the patients had previously received antibiotic or immunosuppressive therapy.
 
-Concurrent use of stable doses of conventional therapies was permitted, and 83% of patients continued to receive at least one of these therapies. Patients received three doses of either placebo or infliximab at weeks 0, 2 and 6. Patients were followed up to 26 weeks. The primary endpoint was the proportion of patients who experienced a clinical response, defined as ≥ 50% reduction from baseline in the number of fistulae draining upon gentle compression on at least two consecutive visits (4 weeks apart), without an increase in the use of medicinal products or surgery for Crohn's disease.
+Concurrent use of stable doses of conventional therapies was permitted, and 83% of patients continued to receive at least one of these therapies. Patients received three doses of either placebo or infliximab at weeks 0, 2 and 6. Patients were followed up to 26 weeks. The primary endpoint was the proportion of patients who experienced a clinical response, defined as ≥ 50% reduction from baseline in the number of fistulae draining upon gentle compression on at least two consecutive visits (4 weeks apart), with out an increase in the use of medicinal products or surgery for Crohn's disease.
 
 Sixty eight percent (21/31) of infliximab-treated patients receiving a 5 mg/kg dose regimen achieved a clinical response vs. 26% (8/31) placebo-treated patients (p=0.002). The median time to onset of response in the infliximab-treated group was 2 weeks. The median duration of response was 12 weeks. Additionally, closure of all fistulae was achieved in 55% of infliximab-treated patients compared with 13% of placebo-treated patients (p=0.001).
 
@@ -992,7 +990,9 @@ Maintenance therapy with infliximab every 8 weeks significantly reduced disease-
 
 The safety and efficacy of infliximab were assessed in two (ACT 1 and ACT 2) randomised, double-blind, placebo-controlled clinical studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥ 2) with an inadequate response to conventional therapies [oral corticosteroids, aminosalicylates and/or immunomodulators (6-MP, AZA)]. Concomitant stable doses of oral aminosalicylates, corticosteroids, and/or immunomodulatory agents were permitted. In both studies, patients were randomised to receive either placebo, 5 mg/kg infliximab, or 10 mg/kg infliximab at weeks 0, 2, 6, 14 and 22, and in ACT 1 at weeks 30, 38 and 46. Corticosteroid taper was permitted after week 8.
 
-Table 8 Effects on clinical response, clinical remission and mucosal healing at weeks 8 and 30. Combined data from ACT 1 &amp; 2
+Table 8 Effects on clinical response, clinical remission and mucosal healing at weeks 8 and 30. Combined
+
+## data from ACT 1 &amp; 2
 
 |                                                                                |                                                                                | Infliximab                                                                     | Infliximab                                                                     | Infliximab                                                                     |
 |--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
@@ -1012,7 +1012,7 @@ Table 8 Effects on clinical response, clinical remission and mucosal healing at 
 
 a p &lt;0.001, for each infliximab treatment group vs. placebo.
 
-The efficacy of infliximab through week 54 was assessed in the ACT 1 study.
+## The efficacy of infliximab through week 54 was assessed in the ACT 1 study.
 
 At 54 weeks, 44.9% of patients in the combined infliximab treatment group were in clinical response compared to 19.8% in the placebo treatment group (p&lt;0.001). Clinical remission and mucosal healing occurred in a greater proportion of patients in the combined infliximab treatment group compared to the placebo treatment group at week 54 (34.6% vs. 16.5%, p&lt;0.001 and 46.1% vs. 18.2%, p&lt;0.001, respectively). The proportions of patients in sustained response and sustained remission at week 54 were greater in the combined infliximab treatment group than in the placebo treatment group (37.9% vs. 14.0%, p&lt;0.001; and 20.2% vs. 6.6%, p&lt;0.001, respectively).
 
@@ -1058,16 +1058,16 @@ Key efficacy results for IMPACT and IMPACT 2 are shown in Table 9 below:
 
 Table 9 Effects on ACR and PASI in IMPACT and IMPACT 2
 
-|                                 | IMPACT            | IMPACT               | IMPACT               | IMPACT 2*         | IMPACT 2*            | IMPACT 2*            |
-|---------------------------------|-------------------|----------------------|----------------------|-------------------|----------------------|----------------------|
-|                                 | Placebo (Week 16) | Infliximab (Week 16) | Infliximab (Week 98) | Placebo (Week 24) | Infliximab (Week 24) | Infliximab (Week 54) |
-| Patients randomised             | 52                | 52                   | N/A a                | 100               | 100                  | 100                  |
-| ACR response (% of patients)    | 52                | 52                   | 78                   | 100               | 100                  | 100                  |
-| ACR 20 response*                | 5 (10%)           | 34 (65%)             | 48 (62%)             | 16 (16%)          | 54 (54%)             | 53 (53%)             |
-| ACR 50 response*                | 0 (0%)            | 24 (46%)             | 35 (45%)             | 4 (4%)            | 41 (41%)             | 33 (33%)             |
-| ACR 70 response*                | 0 (0%)            | 15 (29%)             | 27 (35%)             | 2 (2%)            | 27 (27%)             | 20 (20%)             |
-| PASI response (% of patients) b |                   |                      |                      | 87                | 83                   | 82                   |
-| N PASI 75 response**            |                   |                      |                      | 1 (1%)            | 50 (60%)             | 40 (48.8%)           |
+|                              | IMPACT            | IMPACT               | IMPACT               | IMPACT 2*         | IMPACT 2*            | IMPACT 2*            |
+|------------------------------|-------------------|----------------------|----------------------|-------------------|----------------------|----------------------|
+|                              | Placebo (Week 16) | Infliximab (Week 16) | Infliximab (Week 98) | Placebo (Week 24) | Infliximab (Week 24) | Infliximab (Week 54) |
+| Patients randomised          | 52                | 52                   | N/A a                | 100               | 100                  | 100                  |
+| ACR response (% of patients) | 52                | 52                   | 78                   | 100               | 100                  | 100                  |
+| ACR 20 response*             | 5 (10%)           | 34 (65%)             | 48 (62%)             | 16 (16%)          | 54 (54%)             | 53 (53%)             |
+| ACR 50 response*             | 0 (0%)            | 24 (46%)             | 35 (45%)             | 4 (4%)            | 41 (41%)             | 33 (33%)             |
+| ACR 70 response*             | 0 (0%)            | 15 (29%)             | 27 (35%)             | 2 (2%)            | 27 (27%)             | 20 (20%)             |
+| PASI response (% of          |                   |                      |                      | 87                | 83                   | 82                   |
+| N PASI 75 response**         |                   |                      |                      | 1 (1%)            | 50 (60%)             | 40 (48.8%)           |
 
 * ITT-analysis where subjects with missing data were included as non-responders.
 
@@ -1096,9 +1096,7 @@ EXPRESS evaluated the efficacy of infliximab induction and maintenance therapy i
 
 <div style=\"page-break-after: always\"></div>
 
-## Summary of PASI response, PGA response and percent of patients with all nails cleared at
-
-Table 10 weeks 10, 24 and 50. EXPRESS
+Table 10 Summary of PASI response, PGA response and percent of patients with all nails cleared at weeks 10, 24 and 50. EXPRESS
 
 |                                              | Placebo →Infliximab 5 mg/kg (at week 24)   | Infliximab 5 mg/kg   |
 |----------------------------------------------|--------------------------------------------|----------------------|
@@ -1117,8 +1115,8 @@ Table 10 weeks 10, 24 and 50. EXPRESS
 | PGA of cleared (0) or minimal (1)            | 2 (2.6%)                                   | 203 (73.6%) a        |
 | PGA of cleared (0), minimal (1), or mild (2) | 15 (19.5%)                                 | 246 (89.1%) a        |
 | Week 50                                      |                                            |                      |
-| N                                            | 68                                         | 281                  |
-| ≥90% improvement                             | 34 (50.0%)                                 | 127 (45.2%)          |
+| N                                            | 68 (50.0%)                                 | 281 127 (45.2%)      |
+| ≥90% improvement                             | 34                                         |                      |
 | ≥75% improvement                             | 52 (76.5%)                                 | 170 (60.5%)          |
 | ≥50% improvement                             | 61 (89.7%)                                 | 193 (68.7%)          |
 | PGA of cleared (0) or minimal (1)            | 46 (67.6%)                                 | 149 (53.0%)          |
@@ -1178,7 +1176,7 @@ on the administered dose and indicated that infliximab is predominantly distribu
 
 At single doses of 3, 5, or 10 mg/kg, the median Cmax values were 77, 118 and 277 micrograms/mL, respectively. The median terminal half-life at these doses ranged from 8 to 9.5 days. In most patients, infliximab could be detected in the serum for at least 8 weeks after the recommended single dose of 5 mg/kg for Crohn's disease and the rheumatoid arthritis maintenance dose of 3 mg/kg every 8 weeks.
 
-Repeated administration of infliximab (5 mg/kg at 0, 2 and 6 weeks in fistulising Crohn's disease, 3 or 10 mg/kg every 4 or 8 weeks in rheumatoid arthritis) resulted in a slight accumulation of infliximab in serum after the second dose. No further clinically relevant accumulation was observed. In most fistulising Crohn's disease patients, infliximab was detected in serum for 12 weeks (range 4-28 weeks) after administration of the regimen.
+Repeated administration of infliximab (5 mg/kg at 0, 2 and 6 weeks in fistulising Crohn ' s disease, 3 or 10 mg/kg every 4 or 8 weeks in rheumatoid arthritis) resulted in a slight accumulation of infliximab in serum after the second dose. No further clinically relevant accumulation was observed. In most fistulising Crohn's disease patients, infliximab was detected in serum for 12 weeks (range 4-28 weeks) after administration of the regimen.
 
 ## Paediatric population
 
@@ -1206,17 +1204,17 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## Before reconstitution:
 
-5 years at 2°C - 8°C.
+5 years at 2°C -8°C.
 
 Remsima may be stored at temperatures up to a maximum of 25°C for a single period of up to 6 months, but not exceeding the original expiry date. The new expiry date must be written on the carton. Upon removal from refrigerated storage, Remsima must not be returned to refrigerated storage.
 
 ## After reconstitution and dilution:
 
-Chemical and physical in use stability of the diluted solution has been demonstrated for up to 60 days at 2 °C to 8 °C and for an additional 24 hours at 25 ° C after removal from refrigeration. From a microbiological point of view, the infusion solution should be administered immediately, in use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C - 8°C, unless reconstitution/dilution has been taken place in controlled and validated aseptic conditions.
+Chemical and physical in use stability of the diluted solution has been demonstrated for up to 60 days at 2 °C to 8 °C and for an additional 24 hours at 25  C after removal from refrigeration. From a microbiological point of view, the infusion solution should be administered immediately, in use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C -8°C, unless reconstitution/dilution has been taken place in controlled and validated aseptic conditions.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C).
+Store in a refrigerator (2°C -8°C).
 
 For storage conditions up to 25°C before reconstitution of the medicinal product, see section 6.3.
 
@@ -1286,7 +1284,9 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Solution for injection (injection). Clear to opalescent, colourless to pale brown solution.
+Solution for injection (injection).
+
+Clear to opalescent, colourless to pale brown solution.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -1369,7 +1369,7 @@ The first treatment with Remsima administered subcutaneously should be initiated
 
 Limited data in patients who initially responded to induction regimen with infliximab but who lost response indicate that some patients may regain response with dose escalation (see section 5.1). Continued therapy should be carefully reconsidered in patients who show no evidence of therapeutic benefit after dose adjustment.
 
-In Crohn's disease, experience with re-administration if signs and symptoms of disease recur is limited and comparative data on the benefit/risk of the alternative strategies for continued treatment are lacking.
+In Crohn's disease, experience with re -administration if signs and symptoms of disease recur is limited and comparative data on the benefit/risk of the alternative strategies for continued treatment are lacking.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1393,7 +1393,7 @@ Treatment with Remsima administered subcutaneously should be initiated as mainte
 
 ## Re-administration for Crohn's disease and rheumatoid arthritis
 
-From experience with intravenous infliximab, if the signs and symptoms of disease recur, infliximab can be re-administered within 16 weeks following the last administration. In clinical studies with intravenous infliximab, delayed hypersensitivity reactions have been uncommon and have occurred after infliximab-free intervals of less than 1 year (see sections 4.4 and 4.8). The safety and efficacy of re-administration after an infliximab-free interval of more than 16 weeks has not been established. This applies to both Crohn's disease patients and rheumatoid arthritis patients.
+From experience with intravenous infliximab, if the signs and symptoms of disease recur, infliximab can be re-administered within 16 weeks following the last administration. In clinical studies with intravenous infliximab, delayed hypersensitivity reactions have been uncommon and have occurred after infliximab-free intervals of less than 1 year (see sections 4.4 and 4.8). The safety and efficacy of re-administration after an infliximab-free interval of more than 16 weeks has not been established. This appli es to both Crohn's disease patients and rheumatoid arthritis patients.
 
 ## Re-administration for ulcerative colitis
 
@@ -1489,9 +1489,9 @@ Patients must be monitored closely for infections including tuberculosis before,
 
 Caution should be exercised when considering the use of infliximab in patients with chronic infection or a history of recurrent infections, including concomitant immunosuppressive therapy. Patients should be advised of and avoid exposure to potential risk factors for infection as appropriate.
 
-Tumour necrosis factor alpha (TNFα) mediates inflammation and modulates cellu lar immune responses. Experimental data show that TNFα is essential for the clearing of intracellular infections. Clinical experience shows that host defence against infection is compromised in some patients treated with infliximab.
+Tumour necrosis factor alpha (TNFα) mediates inflammation and modulates cellular immune responses. Experimental data show that TNFα is essential for the clearing of intracellular infections. Clinical experience shows that host defence against infection is compromised in some patients treated with infliximab.
 
-It should be noted tha t suppression of TNFα may mask symptoms of infection such as fever. Early recognition of atypical clinical presentations of serious infections and of typical clinical presentation of rare and unusual infections is critical in order to minimise delays in diagnosis and treatment.
+It should be noted that suppression of TNFα may mask symptoms of infection such as fever. Early recognition of atypical clinical presentations of serious infections and of typical clinical presentation of rare and unusual infections is critical in order to minimise delays in diagnosis and treatment.
 
 Patients taking TNF-blockers are more susceptible to serious infections.
 
@@ -1511,7 +1511,7 @@ If latent tuberculosis is suspected, a physician with expertise in the treatment
 
 <div style=\"page-break-after: always\"></div>
 
-If inactive ('latent') tuberculosis is diagnosed, treatment for latent tuberculosis must be started with antituberculosis therapy before the initiation of infliximab, and in accordance with local recommendations.
+If inactive ( 'latent') tuberculosis is diagnosed, treatment for latent tuberculosis must be started with antituberculosis therapy before the initiation of infliximab, and in accordance with local recommendations.
 
 In patients who have several or significant risk factors for tuberculosis and have a negative test for latent tuberculosis, antituberculosis therapy should be considered before the initiation of infliximab.
 
@@ -1567,7 +1567,7 @@ Care should be taken and patients should continue to be monitored when switching
 
 It is recommended that patients, if possible, be brought up to date with all vaccinations in agreement with current vaccination guidelines prior to initiating Remsima therapy. Patients on infliximab may receive concurrent vaccinations, except for live vaccines (see sections 4.5 and 4.6).
 
-In a subset of 90 adult patients with rheumatoid arthritis from the ASPIRE study a similar proportion of patients in each treatment group (methotrexate plus: placebo [n = 17], 3 mg/kg [n = 27] or 6 mg/kg infliximab [n = 46]) mounted an effective two-fold increase in titers to a polyvalent pneumococcal vaccine, indicating that infliximab did not interfere with T-cell independent humoral immune responses. However, studies from the published literature in various indications (e.g. rheumatoid arthritis, psoriasis, Crohn's disease) suggest that non-live vaccinations received during treatment with anti-TNF therapies, including infliximab, may elicit a lower immune response than in patients not receiving anti-TNF therapy.
+In a subset of 90 adult patients with rheumatoid arthritis from the ASPIRE study a similar proportion of patients in each treatment group (methotrexate plus: placebo [n = 17], 3 mg/kg [n = 27] or 6 mg/kg infliximab [n = 46]) mounted an effective two-fold increase in titers to a polyvalent pneumococcal vaccine, indicating that infliximab did not interfere with T-cell independent humoral immune responses. However, studies from the published literature in various indications (e.g. rheumatoid arthritis, psorias is, Crohn's disease) suggest that non -live vaccinations received during treatment with anti-TNF therapies, including infliximab, may elicit a lower immune response than in patients not receiving anti-TNF therapy.
 
 ## Live vaccines/therapeutic infectious agents
 
@@ -1615,7 +1615,7 @@ Post-marketing cases of hepatosplenic T-cell lymphoma (HSTCL) have been reported
 
 Melanoma and Merkel cell carcinoma have been reported in patients treated with TNF blocker therapy, including infliximab (see section 4.8). Periodic skin examination is recommended, particularly for patients with risk factors for skin cancer.
 
-A population-based retrospective cohort study using data from Swedish national health registries found an increased incidence of cervical cancer in women with rheumatoid arthritis treated with infliximab compared to biologics-naïve patients or the general population, including those over 60 years of age. Periodic screening should continue in women treated with infliximab, including those over 60 years of age.
+A population-based retrospective cohort study using data from Swedish national health registries found an increased incidence of cervical cancer in women with rheumatoid arthritis treated with infliximab compared to biologics-naï ve patients or the general population, including those over 60 years of age. Periodic screening should continue in women treated with infliximab, including those over 60 years of age.
 
 All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course. This evaluation should include colonoscopy and biopsies per local recommendations. Current data do not indicate that infliximab treatment influences the risk for developing dysplasia or colon cancer.
 
@@ -1647,7 +1647,7 @@ The incidence of serious infections in infliximab-treated patients 65 years and 
 
 ## Sodium and sorbitol contents
 
-Remsima contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium-free' and 45 mg sorbitol per 1 mL (in each 120 mg dose).
+Remsima contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium -free' and 45 mg sorbitol per 1 mL (in each 120 mg dose).
 
 ## Polysorbate 80
 
@@ -1727,55 +1727,60 @@ Table 1
 | Rare:                                                                    | Meningitis, opportunistic infections (such as invasive fungal infections [pneumocystosis, histoplasmosis, aspergillosis, coccidioidomycosis, cryptococcosis, blastomycosis], bacterial infections [atypical mycobacterial, listeriosis, salmonellosis], and viral infections [cytomegalovirus]), parasitic infections, hepatitis B reactivation. |
 | Not known:                                                               | Vaccine breakthrough infection (after in utero exposure to infliximab)**.                                                                                                                                                                                                                                                                        |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Neoplasms benign, malignant and unspecified (including cysts and polyps)                                                                                                                                                                                                                                                                         |
-| Rare:                                                                    | Lymphoma, non-Hodgkin's lymphoma, Hodgkin's disease, leukaemia, melanoma, cervical cancer.                                                                                                                                                                                                                                                       |
-| Not known:                                                               | Hepatosplenic T-cell lymphoma (primarily in adolescents and young adult males with Crohn's disease or ulcerative colitis), Merkel cell carcinoma, Kaposi's sarcoma.                                                                                                                                                                              |
+| Rare:                                                                    | Lymphoma, non- Hodgkin's lymphoma, Hodgkin's disease, leukaemia, melanoma, cervical cancer.                                                                                                                                                                                                                                                      |
+| Not known:                                                               | Hepatosplenic T-cell lymphoma (primarily in adolescents and young adult males with Crohn's disease or ulcerative colitis), Merkel cell carcinoma , Kaposi's sarcoma .                                                                                                                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-| Blood and lymphatic system disorders                                                   |                                                                                                                                                                                                                                                                                    |              |
-|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| Common: Uncommon: Rare:                                                                | Neutropenia, leucopenia, anaemia, lymphadenopathy. Thrombocytopenia, lymphopenia, lymphocytosis. Agranulocytosis (including infants exposed in utero to infliximab), thrombotic thrombocytopenic purpura, pancytopenia, haemolytic anaemia, idiopathic thrombocytopenic purpura.   |              |
-| Immune system disorders                                                                |                                                                                                                                                                                                                                                                                    |              |
-| Common:                                                                                | Allergic respiratory symptom.                                                                                                                                                                                                                                                      |              |
-| Uncommon:                                                                              | Anaphylactic reaction, lupus-like syndrome, serum sickness or serum sickness-like reaction.                                                                                                                                                                                        |              |
-| Rare:                                                                                  | Anaphylactic shock, vasculitis, sarcoid-like reaction                                                                                                                                                                                                                              |              |
-| Metabolism and nutrition disorders                                                     |                                                                                                                                                                                                                                                                                    |              |
-| Uncommon:                                                                              | Dyslipidaemia.                                                                                                                                                                                                                                                                     |              |
-| Psychiatric disorders                                                                  |                                                                                                                                                                                                                                                                                    |              |
-| Common: Uncommon: Rare:                                                                | Depression, insomnia. Amnesia, agitation, confusion, somnolence, nervousness. Apathy.                                                                                                                                                                                              |              |
-| Nervous system disorders                                                               |                                                                                                                                                                                                                                                                                    |              |
-| Very common:                                                                           | Headache.                                                                                                                                                                                                                                                                          |              |
-| Common:                                                                                | Vertigo, dizziness, hypoaesthesia, paraesthesia.                                                                                                                                                                                                                                   |              |
-| Uncommon:                                                                              | Seizure, neuropathy.                                                                                                                                                                                                                                                               |              |
-| Rare:                                                                                  | Transverse myelitis, central nervous system demyelinating disorders (multiple sclerosis-like disease and optic neuritis), peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy and multifocal motor neuropathy). |              |
-| Not known:                                                                             | Cerebrovascular accidents in close temporal association with infusion.                                                                                                                                                                                                             |              |
-| Eye disorders                                                                          |                                                                                                                                                                                                                                                                                    |              |
-| Common:                                                                                | Conjunctivitis.                                                                                                                                                                                                                                                                    |              |
-| Uncommon:                                                                              | Keratitis, periorbital oedema, hordeolum.                                                                                                                                                                                                                                          |              |
-| Rare:                                                                                  | Endophthalmitis.                                                                                                                                                                                                                                                                   |              |
-| Not known:                                                                             | Transient visual loss occurring during or within 2 hours of infusion.                                                                                                                                                                                                              |              |
-| Cardiac disorders                                                                      |                                                                                                                                                                                                                                                                                    |              |
-| Common:                                                                                | Tachycardia, palpitation.                                                                                                                                                                                                                                                          |              |
-| Uncommon:                                                                              | Cardiac failure (new onset or worsening), arrhythmia, syncope, bradycardia.                                                                                                                                                                                                        |              |
-| Rare:                                                                                  | Cyanosis, pericardial effusion.                                                                                                                                                                                                                                                    |              |
-| Not known: Myocardial                                                                  | ischaemia/myocardial infarction.                                                                                                                                                                                                                                                   |              |
-| Vascular disorders Common: Hypotension, hypertension, ecchymosis, hot flush, flushing. |                                                                                                                                                                                                                                                                                    |              |
-| Uncommon:                                                                              | Peripheral ischaemia, thrombophlebitis, haematoma.                                                                                                                                                                                                                                 |              |
-| Rare:                                                                                  | Circulatory failure, petechia, vasospasm.                                                                                                                                                                                                                                          |              |
-|                                                                                        | oedema, bronchospasm, pleurisy, pleural effusion.                                                                                                                                                                                                                                  |              |
-| Rare:                                                                                  | Interstitial lung disease (including rapidly progressive disease,                                                                                                                                                                                                                  |              |
-|                                                                                        | lung                                                                                                                                                                                                                                                                               |              |
-|                                                                                        | fibrosis and pneumonitis).                                                                                                                                                                                                                                                         |              |
-| Uncommon:                                                                              |                                                                                                                                                                                                                                                                                    |              |
-|                                                                                        | Pulmonary                                                                                                                                                                                                                                                                          |              |
-|                                                                                        | dyspnoea, epistaxis.                                                                                                                                                                                                                                                               |              |
-|                                                                                        | Lower respiratory tract infection (e.g. bronchitis, pneumonia),                                                                                                                                                                                                                    |              |
-| Common:                                                                                |                                                                                                                                                                                                                                                                                    |              |
-|                                                                                        | Upper respiratory tract infection, sinusitis.                                                                                                                                                                                                                                      |              |
-| Very                                                                                   |                                                                                                                                                                                                                                                                                    |              |
-|                                                                                        | common:                                                                                                                                                                                                                                                                            |              |
-|                                                                                        | thoracic and mediastinal disorders                                                                                                                                                                                                                                                 |              |
-|                                                                                        |                                                                                                                                                                                                                                                                                    | Respiratory, |
+| Blood and lymphatic system disorders   |                                                                                                                                                                                                                                                                                    |
+|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Common:                                | Neutropenia, leucopenia, anaemia, lymphadenopathy.                                                                                                                                                                                                                                 |
+| Uncommon:                              | Thrombocytopenia, lymphopenia, lymphocytosis.                                                                                                                                                                                                                                      |
+| Rare:                                  | Agranulocytosis (including infants exposed in utero to infliximab), thrombotic thrombocytopenic purpura, pancytopenia, haemolytic                                                                                                                                                  |
+| Immune system                          |                                                                                                                                                                                                                                                                                    |
+| disorders                              | anaemia, idiopathic thrombocytopenic purpura.                                                                                                                                                                                                                                      |
+| Uncommon:                              | Anaphylactic reaction, lupus-like syndrome, serum sickness or serum sickness-like reaction.                                                                                                                                                                                        |
+| Rare:                                  | Anaphylactic shock, vasculitis, sarcoid-like reaction                                                                                                                                                                                                                              |
+| Metabolism and nutrition               |                                                                                                                                                                                                                                                                                    |
+|                                        | disorders                                                                                                                                                                                                                                                                          |
+|                                        | Dyslipidaemia.                                                                                                                                                                                                                                                                     |
+| Uncommon: Psychiatric disorders        |                                                                                                                                                                                                                                                                                    |
+| Common: Depression, Uncommon:          | insomnia. Amnesia, agitation, confusion, somnolence, nervousness. Apathy.                                                                                                                                                                                                          |
+| Rare:                                  |                                                                                                                                                                                                                                                                                    |
+| Nervous system disorders               |                                                                                                                                                                                                                                                                                    |
+|                                        | Headache.                                                                                                                                                                                                                                                                          |
+| Very common: Common:                   | Vertigo, dizziness, hypoaesthesia, paraesthesia.                                                                                                                                                                                                                                   |
+| Rare:                                  | Transverse myelitis, central nervous system demyelinating disorders (multiple sclerosis-like disease and optic neuritis), peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy and multifocal motor neuropathy). |
+|                                        | infusion.                                                                                                                                                                                                                                                                          |
+| Not known: disorders                   | Cerebrovascular accidents in close temporal association with                                                                                                                                                                                                                       |
+| Eye                                    | Conjunctivitis.                                                                                                                                                                                                                                                                    |
+| Common:                                | Keratitis, periorbital oedema, hordeolum.                                                                                                                                                                                                                                          |
+| Uncommon: Rare:                        | Endophthalmitis.                                                                                                                                                                                                                                                                   |
+| Not known:                             | Transient visual loss occurring during or within 2 hours of                                                                                                                                                                                                                        |
+|                                        | infusion.                                                                                                                                                                                                                                                                          |
+| Cardiac disorders                      |                                                                                                                                                                                                                                                                                    |
+| Common: Uncommon:                      | Tachycardia, palpitation. Cardiac failure (new onset or worsening), arrhythmia, syncope, bradycardia.                                                                                                                                                                              |
+| Rare:                                  | Cyanosis, pericardial effusion.                                                                                                                                                                                                                                                    |
+| Not                                    | Myocardial ischaemia/myocardial infarction.                                                                                                                                                                                                                                        |
+| known:                                 |                                                                                                                                                                                                                                                                                    |
+| disorders                              |                                                                                                                                                                                                                                                                                    |
+| Vascular                               | Hypotension, hypertension, ecchymosis, hot flush, flushing. Peripheral ischaemia, thrombophlebitis, haematoma.                                                                                                                                                                     |
+| Common:                                | Circulatory failure, petechia, vasospasm.                                                                                                                                                                                                                                          |
+| Uncommon:                              |                                                                                                                                                                                                                                                                                    |
+| Respiratory, thoracic and              |                                                                                                                                                                                                                                                                                    |
+|                                        | Upper respiratory tract infection, sinusitis.                                                                                                                                                                                                                                      |
+| Very                                   |                                                                                                                                                                                                                                                                                    |
+|                                        | Pulmonary oedema, bronchospasm, pleurisy, pleural effusion.                                                                                                                                                                                                                        |
+| Rare:                                  | Interstitial lung disease (including rapidly progressive disease,                                                                                                                                                                                                                  |
+|                                        | lung                                                                                                                                                                                                                                                                               |
+|                                        | fibrosis and pneumonitis).                                                                                                                                                                                                                                                         |
+| Uncommon:                              |                                                                                                                                                                                                                                                                                    |
+|                                        | dyspnoea, epistaxis.                                                                                                                                                                                                                                                               |
+|                                        | Lower respiratory tract infection (e.g. bronchitis, pneumonia),                                                                                                                                                                                                                    |
+| Common:                                |                                                                                                                                                                                                                                                                                    |
+|                                        | disorders                                                                                                                                                                                                                                                                          |
+| Rare:                                  | mediastinal                                                                                                                                                                                                                                                                        |
+|                                        | common:                                                                                                                                                                                                                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1812,10 +1817,10 @@ Table 1
 | Injury, poisoning, and procedural complications      | Injury, poisoning, and procedural complications                                                                                                                                                        |
 | Not known:                                           | Post-procedural complication (including infectious and non- infectious complications)).                                                                                                                |
 
-## * COVID-19 was seen with the SC administered Remsima
-
+* COVID-19 was seen with the SC administered Remsima
 - ** including bovine tuberculosis (disseminated BCG infection), see section 4.4
-- 1 At month 12 of the controlled period for adult clinical trials across all indications, the median weight increase was 3.50 kg for infliximab-treated subjects vs. 3.00 kg for placebo-treated subjects. The median weight increase for inflammatory bowel disease indications was 4.14 kg for infliximab-treated subjects vs. 3.00 kg for placebo-treated subjects, and the median weight increase for rheumatology indications was 3.40 kg for infliximab-treated subjects vs. 3.00 kg for placebo-treated subjects.
+
+1 At month 12 of the controlled period for adult clinical trials across all indications, the median weight increase was 3.50 kg for infliximab-treated subjects vs. 3.00 kg for placebo-treated subjects. The median weight increase for inflammatory bowel disease indications was 4.14 kg for infliximab-treated subjects vs. 3.00 kg for placebo-treated subjects, and the median weight increase for rheumatology indications was 3.40 kg for infliximab-treated subjects vs. 3.00 kg for placebo-treated subjects.
 
 ## Description of selected adverse drug reactions
 
@@ -1885,7 +1890,7 @@ Cases of malignancies, including lymphoma, have also been reported in the post-m
 
 In an exploratory clinical study involving patients with moderate to severe COPD who were either current smokers or ex-smokers, 157 adult patients were treated with infliximab at doses similar to those used in rheumatoid arthritis and Crohn's disease. Nine of these patients developed malignancies, including 1 lymphoma. The median duration of follow-up was 0.8 years (incidence 5.7% [95% CI 2.65%-10.6%]. There was one reported malignancy amongst 77 control patients (median duration of follow-up 0.8 years; incidence 1.3% [95% CI 0.03%-7.0%]). The majority of the malignancies developed in the lung or head and neck.
 
-A population-based retrospective cohort study found an increased incidence of cervical cancer in women with rheumatoid arthritis treated with infliximab compared to biologics-naïve patients or the general population, including those over 60 years of age (see section 4.4).
+A population-based retrospective cohort study found an increased incidence of cervical cancer in women with rheumatoid arthritis treated with infliximab compared to biologics-naï ve patients or the general population, including those over 60 years of age (see section 4.4).
 
 In addition, post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients treated with infliximab with the vast majority of cases occurring in Crohn's disease and ulcerative colitis, and most of whom were adolescent or young adult males (see section 4.4).
 
@@ -1960,11 +1965,11 @@ Infliximab inhibits the functional activity of TNFα in a wide variety of in vit
 
 Elevated concentrations of TNFα have been found in the joints of rheumatoid arthritis patients and correlate with elevated disease activity. In rheumatoid arthritis, treatment with infliximab reduced infiltration of inflammatory cells into inflamed areas of the joint as well as expression of molecules mediating cellular adhesion, chemoattraction and tissue degradation. After infliximab treatment, patients exhibited decreased levels of serum interleukin 6 (IL-6) and C-reactive protein (CRP), and increased haemoglobin levels in rheumatoid arthritis patients with reduced haemoglobin levels, compared with baseline. Peripheral blood lymphocytes further showed no significant decrease in number or in proliferative responses to in vitro mitogenic stimulation when compared with untreated patients' cells. In psoriasis patients, treatment with infliximab resulted in decreases in epidermal inflammation and normalisation of keratinocyte differentiation in psoriatic plaques. In psoriatic arthritis, short term treatment with infliximab reduced the number of T-cells and blood vessels in the synovium and psoriatic skin.
 
-Histological evaluation of colonic biopsies, obtained before and 4 weeks after administration of infliximab, revealed a substantial reduction in detectable TNF α . Infliximab treatment of Crohn's disease patients was also associated with a substantial reduction of the commonly elevated serum inflammatory marker, CRP. Total peripheral white blood cell counts were minimally affected in infliximab-treated patients, although changes in lymphocytes, monocytes and neutrophils reflected shifts towards normal ranges. Peripheral blood mononuclear cells (PBMC) from infliximab-treated patients showed undiminished proliferative responsiveness to stimuli compared with untreated patients, and no substantial changes in cytokine production by stimulated PBMC were observed following treatment with infliximab. Analysis of lamina propria mononuclear cells obtained by biopsy of the intestinal mucosa showed that infliximab treatment caused a reduction in the number of cells
+Histological evaluation of colonic biopsies, obtained before and 4 weeks after administration of infliximab, revealed a substantial reduction in detectable TNF α. Infliximab treatment of Crohn's disease patients was also associated with a substantial reduction of the commonly elevated serum inflammatory marker, CRP. Total peripheral white blood cell counts were minimally affected in infliximab-treated patients, although changes in lymphocytes, monocytes and neutrophils reflected shifts towards normal ranges. Peripheral blood mononuclear cells (PBMC) from infliximab-treated patients showed undiminished proliferative responsiveness to stimuli compared with untreated patients, and no substantial changes in cytokine production by stimulated PBMC were observed following treatment with infliximab. Analysis of lamina propria mononuclear cells obtained by biopsy of the intestinal mucosa showed that infliximab treatment caused a reduction in the number of cells
 
 <div style=\"page-break-after: always\"></div>
 
-capable of expressing TNF α and interferon γ . Additional histological studies provided evidence that treatment with infliximab reduces the infiltration of inflammatory cells into affected areas of the intestine and the presence of inflammation markers at these sites. Endoscopic studies of intestinal mucosa have shown evidence of mucosal healing in infliximab-treated patients.
+capable of expressing TNF α and interferon  . Additional histological studies provided evidence that treatment with infliximab reduces the infiltration of inflammatory cells into affected areas of the intestine and the presence of inflammation markers at these sites. Endoscopic studies of intestinal mucosa have shown evidence of mucosal healing in infliximab-treated patients.
 
 ## Clinical efficacy and safety
 
@@ -1974,7 +1979,7 @@ capable of expressing TNF α and interferon γ . Additional histological studies
 
 The efficacy of infliximab intravenous formulation was assessed in two multicentre, randomised, double-blind, pivotal clinical studies: ATTRACT and ASPIRE. In both studies concurrent use of stable doses of folic acid, oral corticosteroids (≤10 mg/day) and/or non-steroidal anti-inflammatory drugs (NSAIDs) was permitted.
 
-The primary endpoints were the reduction of signs and symptoms as assessed by the ACR criteria (ACR20 for ATTRACT, landmark ACR-N for ASPIRE), the prevention of structural joint damage, and the improvement in physical function. A reduction in signs and symptoms was defined to be at least a 20% improvement (ACR20) in both tender and swollen joint counts, and in 3 of the following 5 criteria: (1) evaluator's global assessment, (2) patient's global assessment, (3) functional/disability measure, (4) visual analogue pain scale and (5) erythrocyte sedimentation rate or C-reactive protein. ACR-N uses the same criteria as the ACR20, calculated by taking the lowest percent improvement in swollen joint count, tender joint count, and the median of the remaining 5 components of the ACR response. Structural joint damage (erosions and joint space narrowing) in both hands and feet was measured by the change from baseline in the total van der Heijde-modified Sharp score (0-440). The Health Assessment Questionnaire (HAQ; scale 0-3) was used to measure patients' average change from baseline scores over time, in physical function.
+The primary endpoints were the reduction of signs and symptoms as assessed by the ACR criteria (ACR20 for ATTRACT, landmark ACR-N for ASPIRE), the prevention of structural joint damage, and the improvement in physical function. A reduction in signs and symptoms was defined to be at least a 20% improvement (ACR20) in both tender and swollen joint counts, and in 3 of the following 5 criteria: (1) evaluator's global assessment, (2) patient's global assessment, (3) functional/disability measure, (4) visual analogue pain scale and (5) erythrocyte sedimentation rate or C-reactive protein. ACR-N uses the same criteria as the ACR20, calculated by taking the lowest percent improvement in swollen joint count, tender joint count, and the median of the remaining 5 components of the ACR response. Structural joint damage (erosions and joint space narrowing) in both hands and feet was measured by the change from baseline in the total van der Heijde-modified Sharp score (0-440). The Health Assessment Questionnaire (HAQ; scale 03) was used to measure patients' average change from baseline scores over time, in physical function.
 
 The ATTRACT study evaluated responses at 30, 54 and 102 weeks in a placebo-controlled study of 428 patients with active rheumatoid arthritis despite treatment with methotrexate. Approximately 50% of patients were in functional Class III. Patients received placebo, 3 mg/kg or 10 mg/kg infliximab at weeks 0, 2 and 6, and then every 4 or 8 weeks thereafter. All patients were on stable methotrexate doses (median 15 mg/wk) for 6 months prior to enrolment and were to remain on stable doses throughout the study.
 
@@ -1996,16 +2001,16 @@ Total score d (van der Heijde-modified Sharp score)
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                           |            | Infliximab b    | Infliximab b    | Infliximab b     | Infliximab b     | Infliximab b     |
-|-----------------------------------------------------------|------------|-----------------|-----------------|------------------|------------------|------------------|
-|                                                           | Control a  | 3 mg/kg q 8 wks | 3 mg/kg q 4 wks | 10 mg/kg q 8 wks | 10 mg/kg q 4 wks | All infliximab b |
-| Change from baseline (Mean ± SD c )                       | 7.0 ± 10.3 | 1.3 ± 6.0       | 1.6 ± 8.5       | 0.2 ± 3.6        | -0.7 ± 3.8       | 0.6 ± 5.9        |
-| Median                                                    | 4.0        | 0.5             | 0.1             | 0.5              | -0.5             | 0.0              |
-| (Interquartile range)                                     | (0.5,9.7)  | (-1.5,3.0)      | (-2.5,3.0)      | (-1.5,2.0)       | (-3.0,1.5)       | (-1.8,2.0)       |
-| Patients with no                                          | 13/64      | 34/71           | 35/71           | 37/77            | 44/66            | 150/285          |
-| deterioration/patients evaluated (%) c                    | (20%)      | (48%)           | (49%)           | (48%)            | (67%)            | (53%)            |
-| HAQ change from baseline over time e (patients evaluated) | 87         | 86              | 85              | 87               | 81               | 339              |
-| Mean ± SD c                                               | 0.2 ± 0.3  | 0.4 ± 0.3       | 0.5 ± 0.4       | 0.5 ± 0.5        | 0.4 ± 0.4        | 0.4 ± 0.4        |
+|                                        |            | Infliximab b    | Infliximab b    | Infliximab b     | Infliximab b     | Infliximab b     |
+|----------------------------------------|------------|-----------------|-----------------|------------------|------------------|------------------|
+|                                        | Control a  | 3 mg/kg q 8 wks | 3 mg/kg q 4 wks | 10 mg/kg q 8 wks | 10 mg/kg q 4 wks | All infliximab b |
+| Change from baseline (Mean ± SD c )    | 7.0 ± 10.3 | 1.3 ± 6.0       | 1.6 ± 8.5       | 0.2 ± 3.6        | -0.7 ± 3.8       | 0.6 ± 5.9        |
+| Median                                 | 4.0        | 0.5             | 0.1             | 0.5              | -0.5             | 0.0              |
+| (Interquartile range)                  | (0.5,9.7)  | (-1.5,3.0)      | (-2.5,3.0)      | (-1.5,2.0)       | (-3.0,1.5)       | (-1.8,2.0)       |
+| Patients with no                       | 13/64      | 34/71           | 35/71           | 37/77            | 44/66            | 150/285          |
+| deterioration/patients evaluated (%) c | (20%)      | (48%)           | (49%)           | (48%)            | (67%)            | (53%)            |
+| HAQ change from baseline over time e   | 87         | 86              | 85              | 87               | 81               | 339              |
+| (patients evaluated) Mean ± SD c       | 0.2 ± 0.3  | 0.4 ± 0.3       | 0.5 ± 0.4       | 0.5 ± 0.5        | 0.4 ± 0.4        | 0.4 ± 0.4        |
 
 a control = All patients had active RA despite treatment with stable methotrexate doses for 6 months prior to enrolment and were to remain on stable doses throughout the study. Concurrent use of stable doses of oral corticosteroids (≤10 mg/day) and/or NSAIDs was permitted, and folate supplementation was given.
 
@@ -2021,7 +2026,9 @@ After 54 weeks of treatment, both doses of infliximab + methotrexate resulted in
 
 In ASPIRE, more than 90% of patients had at least two evaluable X-rays. Reduction in the rate of progression of structural damage was observed at weeks 30 and 54 in the infliximab + methotrexate groups compared to methotrexate alone.
 
-Table 4 Effects on ACRn, Structural Joint Damage and Physical Function at week 54, ASPIRE
+Table 4
+
+## Effects on ACRn, Structural Joint Damage and Physical Function at week 54, ASPIRE
 
 |                                                                               |                                                                               | Infliximab + MTX                                                              | Infliximab + MTX                                                              | Infliximab + MTX                                                              |
 |-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
@@ -2029,7 +2036,7 @@ Table 4 Effects on ACRn, Structural Joint Damage and Physical Function at week 5
 | Subjects randomised                                                           | 282                                                                           | 359                                                                           | 363                                                                           | 722                                                                           |
 | Percentage ACR improvement                                                    |                                                                               |                                                                               |                                                                               |                                                                               |
 | Mean ± SD a                                                                   | 24.8 ± 59.7                                                                   | 37.3 ± 52.8                                                                   | 42.0 ± 47.3                                                                   | 39.6 ± 50.1                                                                   |
-| Change from baseline in total van der Heijde-modified Sharp score b           |                                                                               |                                                                               |                                                                               |                                                                               |
+| Change from baseline in total van der Heijde-modified Sharp score b           | Change from baseline in total van der Heijde-modified Sharp score b           | Change from baseline in total van der Heijde-modified Sharp score b           | Change from baseline in total van der Heijde-modified Sharp score b           |                                                                               |
 | Mean ± SD a                                                                   | 3.70 ± 9.61                                                                   | 0.42 ± 5.82                                                                   | 0.51 ± 5.55                                                                   | 0.46 ± 5.68                                                                   |
 | Median                                                                        | 0.43                                                                          | 0.00                                                                          | 0.00                                                                          | 0.00                                                                          |
 | Improvement from baseline in HAQ averaged over time from week 30 to week 54 c | Improvement from baseline in HAQ averaged over time from week 30 to week 54 c | Improvement from baseline in HAQ averaged over time from week 30 to week 54 c | Improvement from baseline in HAQ averaged over time from week 30 to week 54 c | Improvement from baseline in HAQ averaged over time from week 30 to week 54 c |
@@ -2073,7 +2080,9 @@ a Two-sided 95% CI for difference in the mean change from baseline for DAS28 (CR
 
 b Remsima IV was switched to Remsima SC at Week 30
 
-Table 6 Proportions of Patients Achieving Clinical Response According to the ACR Criteria
+Table 6
+
+## Proportions of Patients Achieving Clinical Response According to the ACR Criteria
 
 |        | ACR20                        | ACR20                     | ACR50                        | ACR50                     | ACR70                        | ACR70                     |
 |--------|------------------------------|---------------------------|------------------------------|---------------------------|------------------------------|---------------------------|
@@ -2085,7 +2094,7 @@ Table 6 Proportions of Patients Achieving Clinical Response According to the ACR
 |                       | ACR20                        | ACR20                     | ACR50                        | ACR50                     | ACR70                        | ACR70                     |
 |-----------------------|------------------------------|---------------------------|------------------------------|---------------------------|------------------------------|---------------------------|
 | Visit                 | Remsima IV 3 mg/kg a (N=174) | Remsima SC 120 mg (N=165) | Remsima IV 3 mg/kg a (N=174) | Remsima SC 120 mg (N=165) | Remsima IV 3 mg/kg a (N=174) | Remsima SC 120 mg (N=165) |
-| Week 22 137 (78.7%)   | 139                          | (84.2%)                   | 90 (51.7%)                   | 85 (51.5%)                | 46 (27.9%)                   | 49 (28.2%)                |
+| Week 22 137 (78.7%)   | 139                          | (84.2%)                   | 90 (51.7%)                   | 85 (51.5%)                | 49 (28.2%) 46 (27.9%)        |                           |
 | Week 54 125 (71.8%) a | 132 (80.0%)                  |                           | 101 (58.0%) a                | 108 (65.5%)               | 68 (39.1%) a                 | 77 (46.7%)                |
 
 a Remsima IV was switched to Remsima SC at Week 30
@@ -2118,27 +2127,23 @@ The co-primary endpoints were the proportion of patients in clinical remission (
 
 Table 7 Effects on response and remission rate, data from ACCENT I (week-2 responders)
 
-|                                                 |             | Infliximab Maintenance 5 mg/kg (n=113) (p value)   | Infliximab Maintenance 10 mg/kg (n=112) (p value)   |
-|-------------------------------------------------|-------------|----------------------------------------------------|-----------------------------------------------------|
-| Median time to loss of response through week 54 | 19 weeks    | 38 weeks (0.002)                                   | >54 weeks (<0.001)                                  |
-| Week 30                                         | 19 weeks    | 38 weeks (0.002)                                   | >54 weeks (<0.001)                                  |
-| Clinical Response a                             | 19 weeks    | 38 weeks (0.002)                                   | >54 weeks (<0.001)                                  |
-| Clinical Remission                              | 20.9        | (<0.001) 38.9                                      | (<0.001) 45.5                                       |
-| Steroid-Free Remission                          | 10.7 (6/56) | 31.0 (18/58)                                       | 36.8 (21/57)                                        |
-| Week 54                                         | 10.7 (6/56) | 31.0 (18/58)                                       | 36.8 (21/57)                                        |
-| Clinical Response a                             | 10.7 (6/56) | 31.0 (18/58)                                       | 36.8 (21/57)                                        |
-| Clinical Remission                              | 10.7 (6/56) | 31.0 (18/58)                                       | 36.8 (21/57)                                        |
-| Sustained Steroid-Free                          | 5.7 (3/53)  | 17.9 (10/56)                                       | 28.6 (16/56)                                        |
-| Remission b                                     | 5.7 (3/53)  | (0.075)                                            | (0.002)                                             |
-|                                                 | 10.7 (6/56) | 31.0 (18/58)                                       | 36.8 (21/57)                                        |
-|                                                 | 10.7 (6/56) | 31.0 (18/58)                                       | 36.8 (21/57)                                        |
-|                                                 | 10.7 (6/56) | 31.0 (18/58)                                       | 36.8 (21/57)                                        |
-|                                                 | 10.7 (6/56) | 31.0 (18/58)                                       | 36.8 (21/57)                                        |
-|                                                 | 10.7 (6/56) | 31.0 (18/58)                                       | 36.8 (21/57)                                        |
-|                                                 | 10.7 (6/56) | 31.0 (18/58)                                       | 36.8 (21/57)                                        |
-|                                                 | 10.7 (6/56) | 31.0 (18/58)                                       | 36.8 (21/57)                                        |
-|                                                 | 10.7 (6/56) | 31.0 (18/58)                                       | 36.8 (21/57)                                        |
-|                                                 | 10.7 (6/56) | 31.0 (18/58)                                       | 36.8 (21/57)                                        |
+|                                                 | ACCENT I (week-2 responders) %of patients   | ACCENT I (week-2 responders) %of patients        | ACCENT I (week-2 responders) %of patients         |
+|-------------------------------------------------|---------------------------------------------|--------------------------------------------------|---------------------------------------------------|
+|                                                 | Placebo Maintenance (n=110)                 | Infliximab Maintenance 5 mg/kg (n=113) (p value) | Infliximab Maintenance 10 mg/kg (n=112) (p value) |
+| Median time to loss of response through week 54 | 19 weeks                                    | 38 weeks (0.002)                                 | >54 weeks (<0.001)                                |
+| Week 30                                         | Week 30                                     | Week 30                                          | Week 30                                           |
+| Clinical Response a                             | 27.3                                        | 51.3                                             | 59.1                                              |
+|                                                 | Placebo Maintenance (n=110)                 | (<0.001)                                         | (<0.001)                                          |
+| Clinical Remission                              | 20.9                                        | 38.9                                             | 45.5                                              |
+|                                                 | Placebo Maintenance (n=110)                 | (0.003)                                          | (<0.001)                                          |
+| Steroid-Free Remission                          | 10.7 (6/56)                                 | 31.0 (18/58)                                     | 36.8 (21/57)                                      |
+|                                                 |                                             | (0.008)                                          | (0.001)                                           |
+| Week 54 Clinical Response a                     | 15.5                                        | 38.1                                             | 47.7                                              |
+|                                                 |                                             | (<0.001)                                         | (<0.001)                                          |
+| Clinical Remission                              | 13.6                                        | 28.3                                             | 38.4                                              |
+|                                                 |                                             | (0.075)                                          | (0.002)                                           |
+| Sustained Steroid-Free b                        | 5.7 (3/53)                                  | 17.9 (10/56)                                     | 28.6 (16/56)                                      |
+| Remission                                       |                                             |                                                  |                                                   |
 
 a Reduction in CDAI ≥25% and ≥70 points.
 
@@ -2156,12 +2161,14 @@ The primary endpoint of the study was corticosteroid-free clinical remission at 
 
 corticosteroids (prednisone or equivalent) or budesonide at a dose &gt;6 mg/day. For results see Table 8. The proportions of patients with mucosal healing at week 26 were significantly greater in the infliximab plus AZA combination (43.9%, p&lt;0.001) and infliximab monotherapy groups (30.1%, p=0.023) compared to the AZA monotherapy group (16.5%).
 
-| Table 8 Percent of patients achieving corticosteroid-free clinical remission at Week 26, SONIC   | Table 8 Percent of patients achieving corticosteroid-free clinical remission at Week 26, SONIC   | Table 8 Percent of patients achieving corticosteroid-free clinical remission at Week 26, SONIC   | Table 8 Percent of patients achieving corticosteroid-free clinical remission at Week 26, SONIC   |
-|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-|                                                                                                  | AZA Monotherapy                                                                                  | Infliximab Monotherapy                                                                           | Infliximab + AZA Combination therapy                                                             |
-| Week 26                                                                                          |                                                                                                  |                                                                                                  |                                                                                                  |
-| All randomised patients                                                                          | 30.0%                                                                                            | 44.4% (75/169)                                                                                   | 56.8% (96/169)                                                                                   |
-|                                                                                                  | (51/170)                                                                                         | (p=0.006)*                                                                                       | (p<0.001)*                                                                                       |
+Table 8 Percent of patients achieving corticosteroid-free clinical remission at Week 26, SONIC
+
+| Percent of patients achieving corticosteroid-free clinical remission at Week 26, SONIC   | Percent of patients achieving corticosteroid-free clinical remission at Week 26, SONIC   | Percent of patients achieving corticosteroid-free clinical remission at Week 26, SONIC   | Percent of patients achieving corticosteroid-free clinical remission at Week 26, SONIC   |
+|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|                                                                                          | AZA Monotherapy                                                                          | Infliximab Monotherapy                                                                   | Infliximab + AZA Combination therapy                                                     |
+| Week 26                                                                                  |                                                                                          |                                                                                          |                                                                                          |
+| All randomised patients                                                                  | 30.0%                                                                                    | 44.4% (75/169)                                                                           | 56.8% (96/169)                                                                           |
+|                                                                                          | (51/170)                                                                                 | (p=0.006)*                                                                               | (p<0.001)*                                                                               |
 
 * p-values represent each infliximab treatment group vs. AZA monotherapy.
 
@@ -2191,7 +2198,7 @@ Table 9
 |-------------------------------------------------|----------------------------------|-----------------------------------------|----------------------------------|
 |                                                 | Placebo Maintenance (n=99)       | Infliximab Maintenance (5 mg/kg) (n=96) | p-value                          |
 | Median time to loss of response through week 54 | 14 weeks                         | >40 weeks                               | <0.001                           |
-| Week 54                                         | Week 54                          | Week 54                                 | Week 54                          |
+| Week 54                                         |                                  |                                         |                                  |
 | Fistula Response (%) a                          | 23.5                             | 46.2                                    | 0.001                            |
 | Complete fistula response (%) b                 | 19.4                             | 36.3                                    | 0.009                            |
 
@@ -2211,13 +2218,13 @@ The efficacy of subcutaneous infliximab in active Crohn's disease and active ulc
 
 In Part 1 of this study, 45 patients with active Crohn's disease were enrolled to receive 2 doses of Remsima 5 mg/kg intravenously at Weeks 0 and 2 and subsequently 44 patients were randomised into four cohorts to receive Remsima 5 mg/kg intravenously (n=13) at Week 6 and every 8 weeks up to Week 54, Remsima 120 mg subcutaneously (n=11), Remsima 180 mg subcutaneously (n=12) or Remsima 240 mg subcutaneously (n=8) at Week 6 and every 2 weeks up to Week 54.
 
-In Part 2 of this study, among 136 patients (57 patients with active Crohn's disease and 79 patients with active ulcerative colitis) who were enrolled to receive 2 doses of Remsima 5 mg/kg intravenously at Weeks 0 and 2, 66 patients (28 patients with active Crohn's disease and 38 patients with active ulcerative colitis) were randomised to receive Remsima 120/ 240 mg subcutaneously at Week 6 and every 2 weeks up to Week 54, while 65 patients (25 patients with active Crohn's disease and 40 patients with active ulcerative colitis) were randomised to receive Remsima 5 mg/kg intravenously at Week 6, 14 and 22 and then switched to Remsima 120/ 240 mg subcutaneous formulation at Week 30 once-every 2 weeks up to Week 54. The dosage of Remsima 120/ 240 mg subcutaneous formulation was determined based on the patient's body weight at Week 6 for those who received Remsima subcutaneously and at Week 30 for those who switched to Remsima subcutaneous formulation (Remsima subcutaneous 120 mg for patients &lt;80 kg; 240 mg for patients ≥80 kg).
+In Part 2 of this study, among 136 patients (57 patients with active Crohn's disease and 79 patients with active ulcerative colitis) who were enrolled to receive 2 doses of Remsima 5 mg/kg intravenously at Weeks 0 and 2, 66 patients (28 patients with active Crohn's disease and 38 patients with active ulcerative colitis) were randomised to receive Remsima 120/ 240 mg subcutaneously at Week 6 and every 2 weeks up to Week 54, while 65 patients (25 patients with active Crohn's disease and 40 patients with active ulcerative colitis) were randomised to receive Remsima 5 mg/kg intravenously at Week 6, 14 and 22 and then switched to Remsima 120/ 240 mg subcutaneous formulation at Week 30 once-every 2 weeks up to Week 54. The dosage of Remsima 120/ 240 mg subcutaneous formulation was determined based on the patient's body weight at Week 6 for those who received Remsima subcutaneously and at Week 30 for those who switched to Remsima subcutaneous formulation (Remsima subcutaneous 120 mg for patients &lt;80 kg; 240 mg for p atients ≥80 kg).
 
 In active Crohn's disease patients, the descriptive efficacy results following Remsima 120 mg subcutaneous formulation were generally comparable to Remsima 5 mg/kg intravenous formulation in terms of clinical response (CDAI-70 response defined as a decrease in CDAI by ≥70 points and
 
 <div style=\"page-break-after: always\"></div>
 
-CDAI-100 response defined as ≥100 points from baseline), clinical remission (defined as an absolute CDAI score of &lt;150 points) and endoscopy assessments (endoscopic response defined as a decrease in ≥ 50% of overall Simplified Endoscopic Activity Score for Crohn's Disease (SES-CD) score from the baseline value and endoscopic remission defined as an absolute SES-CD score of ≤ 2 points).
+CDAI-100 response defined as ≥100 points from baseline), clinical remission (defined as an absolute CDAI score of &lt;150 points) and endoscopy assessments (endoscopic response defined as a decrease in ≥50% of overall Simplified Endoscopic Activity Score for Crohn's Disease (SES -CD) score from the baseline value and endoscopic remission defined as an absolute SES-CD score of ≤ 2 points).
 
 The efficacy of subcutaneous infliximab in active Crohn's disease patients was also assessed in a randomized, double-blind, placebo-controlled clinical study in 343 adult patients with moderately to severely active CD (CDAI of 220 to 450 points) with an inadequate response to conventional therapies (LIBERTY-CD). Concomitant treatment with stable doses of aminosalicylates, corticosteroids, antibiotics and/or immunomodulatory agents were permitted. Corticosteroids dose was tapered after Week 10. Patients who were classified as CDAI-100 responders at Week 10 following three IV infusions of infliximab 5 mg/kg at Weeks 0, 2 and 6 were randomized to receive an injection of either subcutaneous infliximab 120 mg or placebo every 2 weeks thereafter from Week 10 through Week 54.
 
@@ -2298,7 +2305,7 @@ In ACT 1 and ACT 2, infliximab improved quality of life, confirmed by statistica
 
 ## Subcutaneous formulation
 
-The efficacy of subcutaneous infliximab in active ulcerative colitis patients was assessed in Part 2 of an open-label, randomised, parallel-group, Phase I study. For study details, see Section 5.1 on Crohn's disease, subcutaneous formulation.
+The efficacy of subcutaneous infliximab in active ulcerative colitis patients was assessed in Part 2 of an open-label, randomised, parallel-group, Phase I study. For study details, see Section 5.1 on Crohn 's disease, subcutaneous formulation.
 
 In active ulcerative colitis patients, the descriptive efficacy results following Remsima 120 mg subcutaneous formulation were generally comparable to Remsima 5 mg/kg intravenous formulation in terms of clinical response (defined as a decrease from baseline in total Mayo score of at least 3 points and at least 30% or a decrease from baseline in partial Mayo score at least 2 points, with an accompanying decrease from baseline in the subscore for rectal bleeding of at least 1 point, or an absolute subscore for rectal bleeding of 0 or 1), clinical remission (defined as a total Mayo score of ≤ 2 points with no individual subscore exceeding 1 point, or partial Mayo score of ≤ 1 point) and mucosal healing (defined as absolute endoscopic subscore of 0 or 1 from Mayo Scoring System).
 
@@ -2306,7 +2313,7 @@ In active ulcerative colitis patients, the descriptive efficacy results followin
 
 ## Intravenous formulation
 
-Efficacy and safety of infliximab intravenous formulation were assessed in two multicentre, double-blind, placebo-controlled studies in patients with active ankylosing spondylitis (Bath Ankylosing Spondylitis Disease Activity Index [BASDAI] score ≥ 4 and spinal pain ≥ 4 on a scale of 1-10).
+Efficacy and safety of infliximab intravenous formulation were assessed in two multicentre, double-blind, placebo-controlled studies in patients with active ankylosing spondylitis (Bath Ankylosing Spondylitis Disease Activity Index [BASDAI] score ≥ 4 and s pinal pain ≥ 4 on a scale of 1-10).
 
 In the first study (P01522), which had a 3-month double-blind phase, 70 patients received either 5 mg/kg infliximab or placebo at weeks 0, 2, 6 (35 patients in each group). At week 12, placebo patients were switched to infliximab 5 mg/kg every 6 weeks up to week 54. After the first year of the study, 53 patients continued into an open-label extension to week 102.
 
@@ -2330,13 +2337,13 @@ Efficacy and safety of infliximab intravenous formulation were assessed in two m
 
 In the first clinical study (IMPACT), efficacy and safety of infliximab were studied in 104 patients with active polyarticular psoriatic arthritis. During the 16-week double-blind phase, patients received either 5 mg/kg infliximab or placebo at weeks 0, 2, 6, and 14 (52 patients in each group). Starting at week 16, placebo patients were switched to infliximab and all patients subsequently received 5 mg/kg infliximab every 8 weeks up to week 46. After the first year of the study, 78 patients continued into an open-label extension to week 98.
 
-In the second clinical study (IMPACT 2), efficacy and safety of infliximab were studied in 200 patients with active psoriatic arthritis (≥5 swollen joints and ≥5 tender joints). Forty six percent of p atients continued on stable doses of methotrexate (≤25 mg/week). During the 24-week double-blind phase, patients received either 5 mg/kg infliximab or placebo at weeks 0, 2, 6, 14, and 22 (100 patients in each group). At week 16, 47 placebo patients with &lt;10% improvement from baseline in both swollen and tender joint counts were switched to infliximab induction (early escape). At week 24, all placebo-treated patients crossed over to infliximab induction. Dosing continued for all patients through week 46.
+In the second clinical study (IMPACT 2), efficacy and safety of infliximab were studied in 200 patients with active psoriatic arthritis (≥5 swollen joints and ≥5 tender joints). Forty six percent of patients continued on stable doses of methotrexate (≤25 mg/week). During the 24-week double-blind phase, patients received either 5 mg/kg infliximab or placebo at weeks 0, 2, 6, 14, and 22 (100 patients in each group). At week 16, 47 placebo patients with &lt;10% improvement from baseline in both swollen and tender joint counts were switched to infliximab induction (early escape). At week 24, all placebo-treated patients crossed over to infliximab induction. Dosing continued for all patients through week 46.
 
 Key efficacy results for IMPACT and IMPACT 2 are shown in Table 12 below:
 
 Table 12 Effects on ACR and PASI in IMPACT and IMPACT 2
 
-|                                | IMPACT            | IMPACT               | IMPACT               | IMPACT            | IMPACT               | IMPACT               |
+|                                | IMPACT            | IMPACT               | IMPACT               | IMPACT 2*         | IMPACT 2*            | IMPACT 2*            |
 |--------------------------------|-------------------|----------------------|----------------------|-------------------|----------------------|----------------------|
 |                                | Placebo (Week 16) | Infliximab (Week 16) | Infliximab (Week 98) | Placebo (Week 24) | Infliximab (Week 24) | Infliximab (Week 54) |
 | Patients randomised            | 52                | 52                   | N/A a                | 100               | 100                  | 100                  |
@@ -2345,11 +2352,13 @@ Table 12 Effects on ACR and PASI in IMPACT and IMPACT 2
 
 <div style=\"page-break-after: always\"></div>
 
-| ACR 50 response*                | 0 (0%)   | 24 (46%)   | 35 (45%)   | 4 (4%)   | 41 (41%)   | 33 (33%)   |
-|---------------------------------|----------|------------|------------|----------|------------|------------|
-| ACR 70 response*                | 0 (0%)   | 15 (29%)   | 27 (35%)   | 2 (2%)   | 27 (27%)   | 20 (20%)   |
-| PASI response (% of patients) b |          |            |            | 87       | 83         | 82         |
-| PASI 75 response**              |          |            |            | 1 (1%)   | 50 (60%)   | 40 (48.8%) |
+| ACR 50 response*   | 0 (0%)   | 24 (46%)   | 35 (45%)   | 4 (4%)   | 41 (41%)   | 33 (33%)   |
+|--------------------|----------|------------|------------|----------|------------|------------|
+| ACR 70 response*   | 0 (0%)   | 15 (29%)   | 27 (35%)   | 2 (2%)   | 27 (27%)   | 20 (20%)   |
+| PASI response      |          |            |            |          |            |            |
+| (% of patients) b  |          |            |            | 87       | 83         | 82         |
+| N                  |          |            |            |          |            |            |
+| PASI 75 response** |          |            |            | 1 (1%)   | 50 (60%)   | 40 (48.8%) |
 
 * ITT-analysis where subjects with missing data were included as non-responders.
 
@@ -2369,9 +2378,9 @@ Infliximab-treated patients demonstrated significant improvement in physical fun
 
 ## Intravenous formulation
 
-The efficacy of infliximab intravenous formulation was assessed in two multicentre, randomised, double-blind studies: SPIRIT and EXPRESS. Patients in both studies had plaque psoriasis (Body Surface Area [BSA] ≥10% and Psoriasis Area and Severity Index [PASI] score ≥12). The primary endpoint in both stu dies was the percent of patients who achieved ≥75% improvement in PASI from baseline at week 10.
+The efficacy of infliximab intravenous formulation was assessed in two multicentre, randomised, double-blind studies: SPIRIT and EXPRESS. Patients in both studies had plaque psoriasis (Body Surface Area [BSA] ≥10% and Psoriasis Area and Severity Index [PASI] score ≥12). The primary endpoint in both studies was the percent of patients who achieved ≥75% improvement in PASI from baseline at week 10.
 
-SPIRIT evaluated the efficacy of infliximab induction therapy in 249 patients with plaque psoriasis that had previously received PUVA or systemic therapy. Patients received either 3 or 5 mg/kg infliximab or placebo infusions at weeks 0, 2 and 6. Patients with a PGA score ≥3 were eligible to receive an additional infusion of the same treatment at week 26.
+SPIRIT evaluated the efficacy of infliximab induction therapy in 249 patients with plaque psoriasis that had previously received PUVA or systemic therapy. Patients received either 3 or 5 mg/kg infliximab or placebo infusions at weeks 0, 2 and 6. Patients w ith a PGA score ≥3 were eligible to receive an additional infusion of the same treatment at week 26.
 
 In SPIRIT, the proportion of patients achieving PASI 75 at week 10 was 71.7% in the 3 mg/kg infliximab group, 87.9% in the 5 mg/kg infliximab group, and 5.9% in the placebo group (p&lt;0.001). By week 26, twenty weeks after the last induction dose, 30% of patients in the 5 mg/kg group and 13.8% of patients in the 3 mg/kg group were PASI 75 responders. Between weeks 6 and 26, symptoms of psoriasis gradually returned with a median time to disease relapse of &gt;20 weeks. No rebound was observed.
 
@@ -2398,8 +2407,8 @@ Table 13 Summary of PASI response, PGA response and percent of patients with all
 | PGA of cleared (0) or minimal (1)            | 2 (2.6%)                                   | 203 (73.6%) a        |
 | PGA of cleared (0), minimal (1), or mild (2) | 15 (19.5%)                                 | 246 (89.1%) a        |
 | Week 50                                      |                                            |                      |
-| N                                            | 68                                         | 281                  |
-| ≥90% improvement                             | 34 (50.0%)                                 | 127 (45.2%)          |
+| N                                            | 68                                         | 281 127 (45.2%)      |
+| ≥90% improvement                             | 34 (50.0%)                                 |                      |
 | ≥75% improvement                             | 52 (76.5%)                                 | 170 (60.5%)          |
 | ≥50% improvement                             | 61 (89.7%)                                 | 193 (68.7%)          |
 | PGA of cleared (0) or minimal (1)            | 46 (67.6%)                                 | 149 (53.0%)          |
@@ -2439,7 +2448,7 @@ After administration of infliximab 120 mg subcutaneously every 2 weeks (from Wee
 
 Based on PK results from clinical studies in patients with active rheumatoid arthritis, active Crohn's disease and active ulcerative colitis and population PK modelling, Ctrough levels at steady state would be higher after administration of infliximab 120 mg subcutaneous formulation given every 2 weeks compared with infliximab 5 mg/kg intravenous formulation given every 8 weeks.
 
-For the dosing regimen with subcutaneous loading in patients with rheumatoid arthritis, the predicted median AUC value was 17,400 μg·h/m L from Week 0 to 6 which was approximately 1.8 fold lower than the predicted median AUC value for the dosing regimen with infliximab intravenous loading doses (32,100 μ g·h/mL). Whereas, the predicted median AUC values from Week 6 to 14 were comparable between the two dosing regimens with subcutaneous loading and intravenous loading (19,600 and 18,100 μ g·h/mL, respectively).
+For the dosing regimen with subcutaneous loading in patients with rheumatoid arthritis, the predicted median AUC value was 17,400 μg·h/mL from Week 0 to 6 which was approximately 1.8 fold lower than the predicted median AUC value for the dosing regimen with infliximab intravenous loading doses (32,100 μ g·h/mL). Whereas, the predicted median AUC values from Week 6 to 14 were comparable between the two dosing regimens with subcutaneous loading and intravenous loading (19,600 and 18,100 μ g·h/mL, respectively).
 
 ## Elimination
 
@@ -2469,7 +2478,7 @@ Studies with infliximab have not been performed in patients with liver or renal 
 
 ## 5.3 Preclinical safety data
 
-Infliximab does not cross react with TNFα from species other than human and chimpanzees. Therefore, conventional preclinical safety data with infliximab are limited. In a developmental toxicity study conducted in mice using an analogous antibody that selectively inhibits the functional activity of mouse TNFα, there was no indication of maternal toxicity, embryotoxicity or teratogenicity. In a fertility and general reproductive function study, the number of pregnant mice was reduced following administration of the same analogous antibody. It is not known whether this finding was due to effects on the males and/or the females. In a 6-month repeated dose toxicity study in mice, using the same analo gous antibody against mouse TNFα, crystalline deposits were observed on the lens capsule of some of the treated male mice. No specific ophthalmologic examinations have been performed in patients to investigate the relevance of this finding for humans.
+Infliximab does not cross react with TNFα from species other than human and chimpanzees. Therefore, conventional preclinical safety data with infliximab are limited. In a developmental toxicity study conducted in mice using an analogous antibody that selectively inhibits the functional activity of mouse TNFα, there was no indication of maternal toxicity, embryotoxicity or teratogenicity. In a fertility and general reproductive function study, the number of pregnant mice was reduced following administration of the same analogous antibody. It is not known whether this finding was due to effects on the males and/or the females. In a 6-month repeated dose toxicity study in mice, using the same analogous antibody against mouse TNFα, crystalline deposits were obse rved on the lens capsule of some of the treated male mice. No specific ophthalmologic examinations have been performed in patients to investigate the relevance of this finding for humans.
 
 Long-term studies have not been performed to evaluate the carcinogenic potential of infliximab. Studies in mice deficient in TNFα demonstrated no increase in tumours when challenged with known tumour initiators and/or promoters.
 
@@ -2501,36 +2510,44 @@ The medicinal product may be stored at temperatures up to a maximum of 25°C for
 
 ## 6.5 Nature and contents of container
 
-Remsima 120 mg solution for injection in pre-filled syringe
+## Remsima 120 mg solution for injection in pre-filled syringe
 
 Remsima 120 mg solution for injection in single-use pre-filled syringe (type I glass) with a plunger stopper (flurotec-coated elastomer) and needle with a rigid needle shield.
 
 ## Packs of:
 
-- 1 prefilled syringe (1 mL sterile solution) with 2 alcohol pads.
-- 2 prefilled syringes (1 mL sterile solution) with 2 alcohol pads.
-- 4 prefilled syringes (1 mL sterile solution) with 4 alcohol pads.
-- 6 prefilled syringes (1 mL sterile solution) with 6 alcohol pads.
+- 1 pre-filled syringe (1 mL sterile solution) with 2 alcohol pads.
+- 2 pre-filled syringes (1 mL sterile solution) with 2 alcohol pads.
+- 4 pre-filled syringes (1 mL sterile solution) with 4 alcohol pads.
+- 6 pre-filled syringes (1 mL sterile solution) with 6 alcohol pads.
 
 Remsima 120 mg solution for injection in pre-filled syringe with automatic needle guard Remsima 120 mg solution for injection in single-use pre-filled syringe with automatic needle guard. The syringe is made from type I glass with a plunger stopper (flurotec-coated elastomer) and needle with a rigid needle shield.
 
 ## Packs of:
 
-- 1 prefilled syringe with automatic needle guard (1 mL sterile solution) with 2 alcohol pads.
-- 2 prefilled syringes with automatic needle guard (1 mL sterile solution) with 2 alcohol pads.
-- 4 prefilled syringes with automatic needle guard (1 mL sterile solution) with 4 alcohol pads.
-- 6 prefilled syringes with automatic needle guard (1 mL sterile solution) with 6 alcohol pads.
+- 1 pre-filled syringe with automatic needle guard (1 mL sterile solution) with 2 alcohol pads.
+- 2 pre-filled syringes with automatic needle guard (1 mL sterile solution) with 2 alcohol pads.
+- 4 pre-filled syringes with automatic needle guard (1 mL sterile solution) with 4 alcohol pads.
+- 6 pre-filled syringes with automatic needle guard (1 mL sterile solution) with 6 alcohol pads.
 
-## Remsima 120 mg solution for injection in pre-filled pen
+## Remsima 120 mg solution for injection in pre-filled pen (29-gauge staked needle, olive green plunger rod)
 
-Remsima 120 mg solution for injection in single-use pre-filled pen. The syringe inside the pen is made from type 1 glass with a plunger stopper (flurotec-coated elastomer) and needle with a rigid needle shield.
+Remsima 120 mg solution for injection in single-use pre-filled pen. The syringe inside the pen is made from type 1 glass with a plunger stopper (flurotec-coated elastomer) and a 29-gauge staked needle with a rigid needle shield.
 
 ## Packs of:
 
-- 1 prefilled pen (1 mL sterile solution) with 2 alcohol pads.
-- 2 prefilled pens (1 mL sterile solution) with 2 alcohol pads.
-- 4 prefilled pens (1 mL sterile solution) with 4 alcohol pads.
-- 6 prefilled pens (1 mL sterile solution) with 6 alcohol pads.
+- 1 pre-filled pen (1 mL sterile solution) with 2 alcohol pads.
+- 2 pre-filled pens (1 mL sterile solution) with 2 alcohol pads.
+- 4 pre-filled pens (1 mL sterile solution) with 4 alcohol pads.
+- 6 pre-filled pens (1 mL sterile solution) with 6 alcohol pads.
+
+Not all pack sizes may be marketed.
+
+Remsima 120 mg solution for injection in pre-filled pen (27-gauge staked needle, purple plunger rod) Remsima 120 mg solution for injection in single-use pre-filled pen. The syringe inside the pen is made from type 1 glass with a plunger stopper (flurotec-coated elastomer) and 27-gauge staked needle with a rigid needle shield.
+
+Packs of 2 pre-filled pens (1 mL sterile solution) with 2 alcohol pads.
+
+<div style=\"page-break-after: always\"></div>
 
 Not all pack sizes may be marketed.
 
@@ -2540,20 +2557,18 @@ Remsima is a solution that is clear to opalescent, colourless to pale brown. Do 
 
 After use, place the pre-filled syringe/ pre-filled syringe with automatic needle guard/ pre-filled pen into a puncture resistant container and discard as required by local regulations. Do not recycle the injecting device. Always keep the medicinal product out of the sight and reach of children.
 
-<div style=\"page-break-after: always\"></div>
-
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Celltrion Healthcare Hungary Kft. 1062 Budapest Hungary
-
 Váci út 1-3. WestEnd Office Building B torony
+
+Celltrion Healthcare Hungary Kft. 1062 Budapest Hungary
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 ```
-EU/1/13/853/006 EU/1/13/853/007 EU/1/13/853/008 EU/1/13/853/009 EU/1/13/853/010 EU/1/13/853/011 EU/1/13/853/012 EU/1/13/853/013 EU/1/13/853/014 EU/1/13/853/015 EU/1/13/853/016 EU/1/13/853/017
+EU/1/13/853/006 EU/1/13/853/007 EU/1/13/853/008 EU/1/13/853/009 EU/1/13/853/010 EU/1/13/853/011 EU/1/13/853/012 EU/1/13/853/013 EU/1/13/853/014 EU/1/13/853/015 EU/1/13/853/016 EU/1/13/853/017 EU/1/13/853/028
 ```
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
@@ -2672,7 +2687,7 @@ Available data suggest that the clinical response is usually achieved within 12 
 In responding patients, the alternative strategies for continued treatment are:
 
 - Maintenance: Additional infusion of 5 mg/kg at 6 weeks after the initial dose, followed by infusions every 8 weeks or
-- Re-administration: Infusion of 5 mg/kg if signs and symptoms of the disease recur (see 'Re-administration' below and section 4.4).
+- Re-administration: Infusion of 5 mg/kg if signs and symptoms of the disease recur (see 'Re -administration' below and section 4.4).
 
 Although comparative data are lacking, limited data in patients who initially responded to 5 mg/kg but who lost response indicate that some patients may regain response with dose escalation (see section 5.1). Continued therapy should be carefully reconsidered in patients who show no evidence of therapeutic benefit after dose adjustment.
 
@@ -2683,13 +2698,13 @@ Although comparative data are lacking, limited data in patients who initially re
 In responding patients, the alternative strategies for continued treatment are:
 
 - Maintenance: Additional infusions of 5 mg/kg every 8 weeks or
-- Re-administration: Infusion of 5 mg/kg if signs and symptoms of the disease recur followed by infusions of 5 mg/kg every 8 weeks (see 'Re-administration' below and section 4.4).
+- Re-administration: Infusion of 5 mg/kg if signs and symptoms of the disease recur followed by infusions of 5 mg/kg every 8 weeks (see 'Re -administration' below and section 4.4).
 
 Although comparative data are lacking, limited data in patients who initially responded to 5 mg/kg but who lost response indicate that some patients may regain response with dose escalation (see section 5.1). Continued therapy should be carefully reconsidered in patients who show no evidence of therapeutic benefit after dose adjustment.
 
 <div style=\"page-break-after: always\"></div>
 
-In Crohn's disease, experience with re-administration if signs and symptoms of disease recur is limited and comparative data on the benefit/risk of the alternative strategies for continued treatment are lacking.
+In Crohn's disease, experience with re -administration if signs and symptoms of disease recur is limited and comparative data on the benefit/risk of the alternative strategies for continued treatment are lacking.
 
 ## Ulcerative colitis
 
@@ -2709,7 +2724,7 @@ Available data suggest that the clinical response is usually achieved within 14 
 
 5 mg/kg given as an intravenous infusion followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter. If a patient shows no response after 14 weeks (i.e. after 4 doses), no additional treatment with infliximab should be given.
 
-## Re-administration for Crohn's disease and rheumatoid arthritis
+## Readministration for Crohn's disease and rheumatoid arthritis
 
 If the signs and symptoms of disease recur, infliximab can be re-administered within 16 weeks following the last infusion. In clinical studies, delayed hypersensitivity reactions have been uncommon and have occurred after infliximab-free intervals of less than 1 year (see sections 4.4 and 4.8). The safety and efficacy of re-administration after an infliximab-free interval of more than 16 weeks has not been established. This applies to both Crohn's disease patients and rheumatoid arthritis patients.
 
@@ -2899,7 +2914,7 @@ Care should be taken and patients should continue to be monitored when switching
 
 It is recommended that patients, if possible, be brought up to date with all vaccinations in agreement with current vaccination guidelines prior to initiating Remsima therapy. Patients on infliximab may receive concurrent vaccinations, except for live vaccines (see sections 4.5 and 4.6).
 
-In a subset of 90 adult patients with rheumatoid arthritis from the ASPIRE study a similar proportion of patients in each treatment group (methotrexate plus: placebo [n = 17], 3 mg/kg [n = 27] or 6 mg/kg infliximab [n = 46]) mounted an effective two-fold increase in titers to a polyvalent pneumococcal vaccine, indicating that infliximab did not interfere with T-cell independent humoral immune responses. However, studies from the published literature in various indications (e.g. rheumatoid arthritis, psoriasis, Crohn's disease) suggest that non-live vaccinations received during treatment with
+In a subset of 90 adult patients with rheumatoid arthritis from the ASPIRE study a similar proportion of patients in each treatment group (methotrexate plus: placebo [n = 17], 3 mg/kg [n = 27] or 6 mg/kg infliximab [n = 46]) mounted an effective two-fold increase in titers to a polyvalent pneumococcal vaccine, indicating that infliximab did not interfere with T-cell independent humoral immune responses. However, studies from the published literature in various indications (e.g. rheumatoid arthritis, psorias is, Crohn's disease) suggest that non-live vaccinations received during treatment with
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2947,7 +2962,7 @@ Post-marketing cases of hepatosplenic T-cell lymphoma (HSTCL) have been reported
 
 Melanoma and Merkel cell carcinoma have been reported in patients treated with TNF blocker therapy, including infliximab (see section 4.8). Periodic skin examination is recommended, particularly for patients with risk factors for skin cancer.
 
-A population-based retrospective cohort study using data from Swedish national health registries found an increased incidence of cervical cancer in women with rheumatoid arthritis treated with infliximab compared to biologics-naïve patients or the general population, including those over 60 years of age. Periodic screening should continue in women treated with infliximab, including those over 60 years of age.
+A population-based retrospective cohort study using data from Swedish national health registries found an increased incidence of cervical cancer in women with rheumatoid arthritis treated with infliximab compared to biologics-naï ve patients or the general population, including those over 60 years of age. Periodic screening should continue in women treated with infliximab, including those over 60 years of age.
 
 All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course. This evaluation should include colonoscopy and biopsies per local recommendations. Current data do not indicate that infliximab treatment influences the risk for developing dysplasia or colon cancer.
 
@@ -3005,7 +3020,7 @@ This medicine contains 1.3 mg of polysorbate 80 in each 100 mg vial which is equ
 
 ## Sodium
 
-Remsima contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium-free' . Remsima is however, diluted in sodium chloride 9 mg/ml (0.9%) solution for infusion. This should be taken into consideration for patients on a controlled sodium diet (see section 6.6).
+Remsima contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium -free' . Remsima is however, diluted in sodium chloride 9 mg/ml (0.9%) solution for infusion. This should be taken into consideration for patients on a controlled sodium diet (see section 6.6).
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -3077,53 +3092,51 @@ Table 1 Adverse reactions in clinical studies and from post-marketing experience
 | Rare:                                                                    | Meningitis, opportunistic infections (such as invasive fungal infections [pneumocystosis, histoplasmosis, aspergillosis, coccidioidomycosis, cryptococcosis, blastomycosis], bacterial infections [atypical mycobacterial, listeriosis, salmonellosis], and viral infections [cytomegalovirus]), parasitic infections, hepatitis B reactivation. |
 | Not known:                                                               | Vaccine breakthrough infection (after in utero exposure to infliximab)*.                                                                                                                                                                                                                                                                         |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Neoplasms benign, malignant and unspecified (including cysts and polyps)                                                                                                                                                                                                                                                                         |
-| Rare:                                                                    | Lymphoma, non-Hodgkin's lymphoma, Hodgkin's disease, leukaemia, melanoma, cervical cancer.                                                                                                                                                                                                                                                       |
-| Not known:                                                               | Hepatosplenic T-cell lymphoma (primarily in adolescents and young adult males with Crohn's disease and ulcerative colitis), Merkel cell carcinoma, Kaposi's sarcoma.                                                                                                                                                                             |
+| Rare:                                                                    | Lymphoma, non- Hodgkin's lymphoma, Hodgkin's disease, leukaemia, melanoma, cervical cancer.                                                                                                                                                                                                                                                      |
+| Not known:                                                               | Hepatosplenic T-cell lymphoma (primarily in adolescents and young adult males with Crohn's disease and ulcerative colitis), Merkel cell carcinoma , Kaposi's sarcoma .                                                                                                                                                                           |
 | Blood and lymphatic system disorders                                     | Blood and lymphatic system disorders                                                                                                                                                                                                                                                                                                             |
-| Common:                                                                  | Neutropenia, leukopenia, anaemia, lymphadenopathy. Thrombocytopenia, lymphopenia, lymphocytosis.                                                                                                                                                                                                                                                 |
-| Uncommon:                                                                |                                                                                                                                                                                                                                                                                                                                                  |
+| Common:                                                                  | Neutropenia, leukopenia, anaemia, lymphadenopathy.                                                                                                                                                                                                                                                                                               |
+| Uncommon:                                                                | Thrombocytopenia, lymphopenia, lymphocytosis.                                                                                                                                                                                                                                                                                                    |
 | Rare:                                                                    | Agranulocytosis (including infants exposed in utero to infliximab), thrombotic thrombocytopenic purpura, pancytopenia, haemolytic anaemia, idiopathic thrombocytopenic purpura.                                                                                                                                                                  |
 | Immune system disorders                                                  | Immune system disorders                                                                                                                                                                                                                                                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
-| Common:                                         | Allergic respiratory symptom.                                                                                                                                                                                                                                         |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Uncommon:                                       | Anaphylactic reaction, lupus-like syndrome, serum sickness or serum sickness-like reaction.                                                                                                                                                                           |
-| Rare                                            | Anaphylactic shock, vasculitis, sarcoid-like reaction                                                                                                                                                                                                                 |
-| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                                                                                                                                                                                                    |
-| Uncommon:                                       | Dyslipidaemia.                                                                                                                                                                                                                                                        |
-| Psychiatric disorders                           | Psychiatric disorders                                                                                                                                                                                                                                                 |
-| Common:                                         | Depression, insomnia.                                                                                                                                                                                                                                                 |
-| Uncommon:                                       | Amnesia, agitation, confusion, somnolence, nervousness.                                                                                                                                                                                                               |
-| Rare:                                           | Apathy.                                                                                                                                                                                                                                                               |
-| Nervous system disorders                        | Nervous system disorders                                                                                                                                                                                                                                              |
-| Very                                            | Headache.                                                                                                                                                                                                                                                             |
-| common:                                         | common:                                                                                                                                                                                                                                                               |
-| Common:                                         | Vertigo, dizziness, hypoaesthesia, paraesthesia.                                                                                                                                                                                                                      |
-| Uncommon:                                       | Seizure, neuropathy.                                                                                                                                                                                                                                                  |
-| Rare:                                           | Transverse myelitis, central nervous system demyelinating disorders (multiple sclerosis-like disease and optic neuritis), peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy and multifocal motor |
-| Not                                             | neuropathy).                                                                                                                                                                                                                                                          |
-| known:                                          | Cerebrovascular accidents in close temporal association with infusion.                                                                                                                                                                                                |
-| Eye disorders                                   | Eye disorders                                                                                                                                                                                                                                                         |
-| Common                                          | Conjunctivitis                                                                                                                                                                                                                                                        |
-| Uncommon                                        | Keratitis, periorbital oedema, hordeolum                                                                                                                                                                                                                              |
-| Rare                                            | Endophthalmitis                                                                                                                                                                                                                                                       |
-| Not known                                       | Transient visual loss occurring during or within 2 hours of infusion                                                                                                                                                                                                  |
-| Cardiac disorders                               | Cardiac disorders                                                                                                                                                                                                                                                     |
-| Common                                          | Tachycardia, palpitation                                                                                                                                                                                                                                              |
-| Uncommon                                        | Cardiac failure (new onset or worsening), arrhythmia, syncope, bradycardia                                                                                                                                                                                            |
-| Rare                                            | Cyanosis, pericardial effusion                                                                                                                                                                                                                                        |
-| Not known                                       | Myocardial ischaemia/myocardial infarction                                                                                                                                                                                                                            |
-| Vascular disorders                              | Vascular disorders                                                                                                                                                                                                                                                    |
-| Common                                          | Hypotension, hypertension, ecchymosis, hot flush, flushing                                                                                                                                                                                                            |
-| Uncommon                                        | Peripheral ischaemia, thrombophlebitis, haematoma                                                                                                                                                                                                                     |
-| Rare                                            | Circulatory failure, petechia, vasospasm                                                                                                                                                                                                                              |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                       |
-| Very common                                     | Upper respiratory tract infection, sinusitis                                                                                                                                                                                                                          |
-| Common                                          | Lower respiratory tract infection (e.g. bronchitis, pneumonia), dyspnoea, epistaxis                                                                                                                                                                                   |
-| Uncommon                                        | Pulmonary oedema, bronchospasm, pleurisy, pleural effusion lung disease (including rapidly progressive disease,                                                                                                                                                       |
-| Rare                                            | Interstitial lung fibrosis and pneumonitis)                                                                                                                                                                                                                           |
+| Common:                            | Allergic respiratory symptom.                                                                                                                                                                                                                                                      |
+|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Uncommon:                          | Anaphylactic reaction, lupus-like syndrome, serum sickness or serum sickness-like reaction.                                                                                                                                                                                        |
+| Rare                               | Anaphylactic shock, vasculitis, sarcoid-like reaction                                                                                                                                                                                                                              |
+| Metabolism and nutrition disorders | Metabolism and nutrition disorders                                                                                                                                                                                                                                                 |
+| Uncommon:                          | Dyslipidaemia.                                                                                                                                                                                                                                                                     |
+| Psychiatric disorders              | Psychiatric disorders                                                                                                                                                                                                                                                              |
+| Common:                            | Depression, insomnia.                                                                                                                                                                                                                                                              |
+| Uncommon:                          | Amnesia, agitation, confusion, somnolence, nervousness.                                                                                                                                                                                                                            |
+| Rare:                              | Apathy.                                                                                                                                                                                                                                                                            |
+| Nervous system disorders           | Nervous system disorders                                                                                                                                                                                                                                                           |
+| Very                               | Headache.                                                                                                                                                                                                                                                                          |
+| common:                            | common:                                                                                                                                                                                                                                                                            |
+| Common:                            | Vertigo, dizziness, hypoaesthesia, paraesthesia.                                                                                                                                                                                                                                   |
+| Uncommon:                          | Seizure, neuropathy.                                                                                                                                                                                                                                                               |
+| Rare:                              | Transverse myelitis, central nervous system demyelinating disorders (multiple sclerosis-like disease and optic neuritis), peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy and multifocal motor neuropathy). |
+|                                    | Cerebrovascular accidents in close temporal association with                                                                                                                                                                                                                       |
+| Not known:                         | infusion.                                                                                                                                                                                                                                                                          |
+| Eye disorders                      | Eye disorders                                                                                                                                                                                                                                                                      |
+| Common                             | Conjunctivitis                                                                                                                                                                                                                                                                     |
+| Uncommon                           | Keratitis, periorbital oedema, hordeolum                                                                                                                                                                                                                                           |
+| Rare                               | Endophthalmitis                                                                                                                                                                                                                                                                    |
+| Not                                | Transient visual loss occurring during or within 2                                                                                                                                                                                                                                 |
+| known                              | hours of infusion                                                                                                                                                                                                                                                                  |
+| Cardiac disorders                  | Cardiac disorders                                                                                                                                                                                                                                                                  |
+| Common                             | Tachycardia, palpitation                                                                                                                                                                                                                                                           |
+| Uncommon                           | Cardiac failure (new onset or worsening), arrhythmia, syncope, bradycardia                                                                                                                                                                                                         |
+| Rare                               | Cyanosis, pericardial effusion                                                                                                                                                                                                                                                     |
+| Not known                          | Myocardial ischaemia/myocardial infarction                                                                                                                                                                                                                                         |
+| Vascular disorders                 | Vascular disorders                                                                                                                                                                                                                                                                 |
+| Common                             | Hypotension, hypertension, ecchymosis, hot flush, flushing                                                                                                                                                                                                                         |
+| Uncommon                           | Peripheral ischaemia, thrombophlebitis, haematoma                                                                                                                                                                                                                                  |
+| Rare                               | Circulatory failure, petechia, vasospasm                                                                                                                                                                                                                                           |
+| Uncommon                           | Pulmonary oedema, bronchospasm, pleurisy, pleural effusion lung disease (including rapidly progressive disease,                                                                                                                                                                    |
+| Rare                               | Interstitial lung fibrosis and pneumonitis)                                                                                                                                                                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3175,7 +3188,7 @@ An infusion-related reaction was defined in clinical studies as any adverse even
 
 In a clinical study of patients with rheumatoid arthritis (ASPIRE), infusions were to be administered over 2 hours for the first 3 infusions. The duration of subsequent infusions could be shortened to not less than 40 minutes in patients who did not experience serious infusion reactions. In this trial, sixty six percent of the patients (686 out of 1,040) received at least one shortened infusion of 90 minutes or less and 44% of the patients (454 out of 1,040) received at least one shortened infusion of 60 minutes or less. Of the infliximab-treated patients who received at least one shortened infusion, infusion-related reactions occurred in 15% of patients and serious infusion reactions occurred in 0.4% of patients.
 
-In a clinical study of patients with Crohn's disease (SONIC), infusion-related reactions occurred in 16.6% (27/163) of patients receiving infliximab monotherapy, 5% (9/179) of patients receiving infliximab in combination with AZA, and 5.6% (9/161) of patients receiving AZA monotherapy. One serious infusion reaction (&lt;1%) occurred in a patient on infliximab monotherapy.
+In a clinical study of patients with Crohn's disease (SONIC), infusion -related reactions occurred in 16.6% (27/163) of patients receiving infliximab monotherapy, 5% (9/179) of patients receiving infliximab in combination with AZA, and 5.6% (9/161) of patients receiving AZA monotherapy. One serious infusion reaction (&lt;1%) occurred in a patient on infliximab monotherapy.
 
 In post-marketing experience, cases of anaphylactic-like reactions, including laryngeal/pharyngeal oedema and severe bronchospasm, and seizure have been associated with infliximab administration (see section 4.4). Cases of transient visual loss occurring during or within 2 hours of infliximab infusion have been reported. Events (some fatal) of myocardial ischaemia/infarction and arrhythmia have been reported, some in close temporal association with infusion of infliximab; cerebrovascular accidents have also been reported in close temporal association with infusion of infliximab.
 
@@ -3221,7 +3234,7 @@ Cases of malignancies, including lymphoma, have also been reported in the post-m
 
 In an exploratory clinical study involving patients with moderate to severe COPD who were either current smokers or ex-smokers, 157 adult patients were treated with infliximab at doses similar to those used in rheumatoid arthritis and Crohn's disease. Nine of these patients developed malignancies, including 1 lymphoma. The median duration of follow-up was 0.8 years (incidence 5.7% [95% CI 2.65%-10.6%]. There was one reported malignancy amongst 77 control patients (median duration of follow-up 0.8 years; incidence 1.3% [95% CI 0.03%-7.0%]). The majority of the malignancies developed in the lung or head and neck.
 
-A population-based retrospective cohort study found an increased incidence of cervical cancer in women with rheumatoid arthritis treated with infliximab compared to biologics-naïve patients or the general population, including those over 60 years of age (see section 4.4).
+A population-based retrospective cohort study found an increased incidence of cervical cancer in women with rheumatoid arthritis treated with infliximab compared to biologics-naï ve patients or the general population, including those over 60 years of age (see section 4.4).
 
 In addition, post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients treated with infliximab with the vast majority of cases occurring in Crohn's disease and ulcerative colitis, and most of whom were adolescent or young adult males (see section 4.4).
 
@@ -3286,7 +3299,7 @@ Infections occurred in 68% (41/60) of children receiving 3 mg/kg over 52 weeks, 
 
 ## Paediatric Crohn's disease patients
 
-The following adverse reactions were reported more commonly in paediatric Crohn's disease patients in the REACH study (see section 5.1) than in adult Crohn's disease patients: anaemia (10.7%), blood in stool (9.7%), leukopenia (8.7%), flushing (8.7%), viral infection (7.8%), neutropenia (6.8%), bacterial infection (5.8%), and respiratory tract allergic reaction (5.8%). In addition, bone fracture (6.8%) was reported, however, a causal association has not been established. Other special considerations are discussed below.
+The following adverse reaction s were reported more commonly in paediatric Crohn's disease patients in the REACH study (see section 5.1) than in adult Crohn's disease patients: anaemia (10.7%), blood in stool (9.7%), leukopenia (8.7%), flushing (8.7%), viral infection (7.8%), neutropenia (6.8%), bacterial infection (5.8%), and respiratory tract allergic reaction (5.8%). In addition, bone fracture (6.8%) was reported, however, a causal association has not been established. Other special considerations are discussed below.
 
 ## Infusion -related reactions
 
@@ -3362,7 +3375,7 @@ Infliximab inhibits the functional activity of TNF α in a wide variety of in vi
 
 Elevated concentrations of TNF α have been found in the joints of rheumatoid arthritis patients and correlate with elevated disease activity. In rheumatoid arthritis, treatment with infliximab reduced infiltration of inflammatory cells into inflamed areas of the joint as well as expression of molecules mediating cellular adhesion, chemoattraction and tissue degradation. After infliximab treatment, patients exhibited decreased levels of serum interleukin 6 (IL-6) and C-reactive protein (CRP), and increased haemoglobin levels in rheumatoid arthritis patients with reduced haemoglobin levels, compared with baseline. Peripheral blood lymphocytes further showed no significant decrease in number or in proliferative responses to in vitro mitogenic stimulation when compared with untreated patients' cells. In psoriasis patients, treatment with infliximab resulted in decreases in epidermal inflammation and normalisation of keratinocyte differentiation in psoriatic plaques. In psoriatic arthritis, short term treatment with infliximab reduced the number of T-cells and blood vessels in the synovium and psoriatic skin.
 
-Histological evaluation of colonic biopsies, obtained before and 4 weeks after administration of infliximab, revealed a substantial reduction in detectable TNF α . Infliximab treatment of Crohn's disease patients was also associated with a substantial reduction of the commonly elevated serum inflammatory marker, CRP. Total peripheral white blood cell counts were minimally affected in infliximab-treated patients, although changes in lymphocytes, monocytes and neutrophils reflected shifts towards normal ranges. Peripheral blood mononuclear cells (PBMC) from infliximab-treated patients showed undiminished proliferative responsiveness to stimuli compared with untreated patients, and no substantial changes in cytokine production by stimulated PBMC were observed following treatment with infliximab. Analysis of lamina propria mononuclear cells obtained by biopsy of the intestinal mucosa showed that infliximab treatment caused a reduction in the number of cells capable of expressing TNF α and interferon γ . Additional histological studies provided evidence that treatment with infliximab reduces the infiltration of inflammatory cells into affected areas of the intestine and the presence of inflammation markers at these sites. Endoscopic studies of intestinal mucosa have shown evidence of mucosal healing in infliximab-treated patients.
+Histological evaluation of colonic biopsies, obtained before and 4 weeks after administration of infliximab, revealed a substantial reduction in detectable TNF α. Infliximab treatment of Crohn's disease patients was also associated with a substantial reduction of the commonly elevated serum inflammatory marker, CRP. Total peripheral white blood cell counts were minimally affected in infliximab-treated patients, although changes in lymphocytes, monocytes and neutrophils reflected shifts towards normal ranges. Peripheral blood mononuclear cells (PBMC) from infliximab-treated patients showed undiminished proliferative responsiveness to stimuli compared with untreated patients, and no substantial changes in cytokine production by stimulated PBMC were observed following treatment with infliximab. Analysis of lamina propria mononuclear cells obtained by biopsy of the intestinal mucosa showed that infliximab treatment caused a reduction in the number of cells capable of expressing TNF α and interferon  . Additional histological studies provided evidence that treatment with infliximab reduces the infiltration of inflammatory cells into affected areas of the intestine and the presence of inflammation markers at these sites. Endoscopic studies of intestinal mucosa have shown evidence of mucosal healing in infliximab-treated patients.
 
 ## Clinical efficacy and safety
 
@@ -3370,11 +3383,11 @@ Histological evaluation of colonic biopsies, obtained before and 4 weeks after a
 
 The efficacy of infliximab was assessed in two multicentre, randomised, double-blind, pivotal clinical studies: ATTRACT and ASPIRE. In both studies concurrent use of stable doses of folic acid, oral corticosteroids (≤10 mg/day) and/or non-steroidal anti-inflammatory drugs (NSAIDs) was permitted.
 
-The primary endpoints were the reduction of signs and symptoms as assessed by the American College of Rheumatology criteria (ACR20 for ATTRACT, landmark ACR-N for ASPIRE), the prevention of structural joint damage, and the improvement in physical function. A reduction in signs and symptoms was defined to be at least a 20% improvement (ACR20) in both tender and swollen joint counts, and in 3 of the following 5 criteria: (1) evaluator's global assessment, (2) patient's global assessment, (3) functional/disability measure, (4) visual analogue pain scale and (5) erythrocyte sedimentation rate or C-reactive protein. ACR-N uses the same criteria as the ACR20, calculated by taking the lowest percent improvement in swollen joint count, tender joint count, and the median of the remaining 5 components of the ACR response. Structural joint damage (erosions and joint space narrowing) in both hands and feet was measured by the change from baseline in the
+The primary endpoints were the reduction of signs and symptoms as assessed by the American College of Rheumatology criteria (ACR20 for ATTRACT, landmark ACR-N for ASPIRE), the prevention of structural joint damage, and the improvement in physical function. A reduction in signs and symptoms was defined to be at least a 20% improvement (ACR20) in both tender and swollen joint counts, and in 3 of the following 5 criteria: (1) evaluator's global assessment, (2) patient's global assessment, (3) functional/disabi lity measure, (4) visual analogue pain scale and (5) erythrocyte sedimentation rate or C-reactive protein. ACR-N uses the same criteria as the ACR20, calculated by taking the lowest percent improvement in swollen joint count, tender joint count, and the median of the remaining 5 components of the ACR response. Structural joint damage (erosions and joint space narrowing) in both hands and feet was measured by the change from baseline in the
 
 <div style=\"page-break-after: always\"></div>
 
-total van der Heijde-modified Sharp score (0-440). The Health Assessment Questionnaire (HAQ; scale 0-3) was used to measure patients' average change from baseline scores over time, in physical function.
+total van der Heijde-modified Sharp score (0-440). The Health Assessment Questionnaire (HAQ; scale 03) was used to measure patients' average change from baseline scores over time, in physical function.
 
 The ATTRACT study evaluated responses at 30, 54 and 102 weeks in a placebo-controlled study of 428 patients with active rheumatoid arthritis despite treatment with methotrexate. Approximately 50% of patients were in functional Class III. Patients received placebo, 3 mg/kg or 10 mg/kg infliximab at weeks 0, 2 and 6, and then every 4 or 8 weeks thereafter. All patients were on stable methotrexate doses (median 15 mg/wk) for 6 months prior to enrolment and were to remain on stable doses throughout the study.
 
@@ -3392,20 +3405,19 @@ Table 3 Effects on ACR20, Structural Joint Damage and Physical Function at week 
 | Patients with                                       | 15/88                                               | 36/86                                               | 41/86                                               | 51/87                                               | 48/81                                               | 176/340                                             |
 | ACR20 response/Patients evaluated (%)               | (17%)                                               | (42%)                                               | (48%)                                               | (59%)                                               | (59%)                                               | (52%)                                               |
 | Total score d (van der Heijde-modified Sharp score) | Total score d (van der Heijde-modified Sharp score) | Total score d (van der Heijde-modified Sharp score) | Total score d (van der Heijde-modified Sharp score) | Total score d (van der Heijde-modified Sharp score) | Total score d (van der Heijde-modified Sharp score) | Total score d (van der Heijde-modified Sharp score) |
-| Change from                                         | 7.0 ± 10.3                                          | 1.3 ± 6.0                                           | 1.6 ± 8.5                                           | 0.2 ± 3.6                                           | -0.7 ± 3.8                                          | 0.6 ± 5.9                                           |
-| baseline (Mean ±                                    | baseline (Mean ±                                    | baseline (Mean ±                                    | baseline (Mean ±                                    | baseline (Mean ±                                    | baseline (Mean ±                                    | baseline (Mean ±                                    |
-| Median                                              | 4.0                                                 | 0.5                                                 | 0.1                                                 | 0.5                                                 | -0.5                                                | 0.0                                                 |
+| Change from baseline (Mean ±                        | 7.0 ± 10.3                                          | 1.3 ± 6.0                                           | 1.6 ± 8.5                                           | 0.2 ± 3.6                                           | -0.7 ± 3.8                                          | 0.6 ± 5.9                                           |
+| SD c ) Median                                       | 4.0                                                 | 0.5                                                 | 0.1                                                 | 0.5                                                 | -0.5                                                | 0.0                                                 |
 | (Interquartile range)                               | (0.5,9.7)                                           | (-1.5,3.0)                                          | (-2.5,3.0)                                          | (-1.5,2.0)                                          | (-3.0,1.5)                                          | (-1.8,2.0)                                          |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                      |           | Infliximab b    | Infliximab b    | Infliximab b     | Infliximab b     | Infliximab b     |
-|--------------------------------------|-----------|-----------------|-----------------|------------------|------------------|------------------|
-|                                      | Control a | 3 mg/kg q 8 wks | 3 mg/kg q 4 wks | 10 mg/kg q 8 wks | 10 mg/kg q 4 wks | All infliximab b |
-| Patients with no                     | 13/64     | 34/71           | 35/71           | 37/77            | 44/66            | 150/285          |
-| deterioration/pati ents evaluated    | (20%)     | (48%)           | (49%)           | (48%)            | (67%)            | (53%)            |
-| HAQ change from baseline over time e | 87        | 86              | 85              | 87               | 81               | 339              |
-| Mean ± SD c                          | 0.2 ± 0.3 | 0.4 ± 0.3       | 0.5 ± 0.4       | 0.5 ± 0.5        | 0.4 ± 0.4        | 0.4 ± 0.4        |
+|                                                    |             | Infliximab b    | Infliximab b    | Infliximab b     | Infliximab b     | Infliximab b     |
+|----------------------------------------------------|-------------|-----------------|-----------------|------------------|------------------|------------------|
+|                                                    | Control a   | 3 mg/kg q 8 wks | 3 mg/kg q 4 wks | 10 mg/kg q 8 wks | 10 mg/kg q 4 wks | All infliximab b |
+| Patients with no deterioration/pati ents evaluated | 13/64 (20%) | 34/71 (48%)     | 35/71 (49%)     | 37/77 (48%)      | 44/66 (67%)      | 150/285 (53%)    |
+| (%) c HAQ change                                   | 87          | 86              | 85              | 87               | 81               | 339              |
+| from baseline over time e (patients evaluated)     |             |                 |                 | 0.5 ±            | 0.4 ±            | 0.4 ±            |
+| Mean ± SD c                                        | 0.2 ± 0.3   | 0.4 ± 0.3       | 0.5 ± 0.4       | 0.5              | 0.4              | 0.4              |
 
 a control = All patients had active RA despite treatment with stable methotrexate doses for 6 months prior to enrolment and were to remain on stable doses throughout the study. Concurrent use of stable doses of oral corticosteroids (≤10 mg/day) and/or NSAIDs was permitted, and folate supplementation was given.
 
@@ -3429,7 +3441,7 @@ Table 4 Effects on ACRn, Structural Joint Damage and Physical Function at week 5
 | Subjects randomised                                                           | 282                                                                           | 359                                                                           | 363                                                                           | 722                                                                           |
 | Percentage ACR improvement                                                    |                                                                               |                                                                               |                                                                               |                                                                               |
 | Mean ± SD a                                                                   | 24.8 ± 59.7                                                                   | 37.3 ± 52.8                                                                   | 42.0 ± 47.3                                                                   | 39.6 ± 50.1                                                                   |
-| Change from baseline in total van der Heijde-modified Sharp score b           | Change from baseline in total van der Heijde-modified Sharp score b           | Change from baseline in total van der Heijde-modified Sharp score b           | Change from baseline in total van der Heijde-modified Sharp score b           | Change from baseline in total van der Heijde-modified Sharp score b           |
+| Change from baseline in total van der Heijde-modified Sharp score b           | Change from baseline in total van der Heijde-modified Sharp score b           | Change from baseline in total van der Heijde-modified Sharp score b           | Change from baseline in total van der Heijde-modified Sharp score b           |                                                                               |
 | Mean ± SD a                                                                   | 3.70 ± 9.61                                                                   | 0.42 ± 5.82                                                                   | 0.51 ± 5.55                                                                   | 0.46 ± 5.68                                                                   |
 | Median                                                                        | 0.43                                                                          | 0.00                                                                          | 0.00                                                                          | 0.00                                                                          |
 | Improvement from baseline in HAQ averaged over time from week 30 to week 54 c | Improvement from baseline in HAQ averaged over time from week 30 to week 54 c | Improvement from baseline in HAQ averaged over time from week 30 to week 54 c | Improvement from baseline in HAQ averaged over time from week 30 to week 54 c | Improvement from baseline in HAQ averaged over time from week 30 to week 54 c |
@@ -3475,7 +3487,6 @@ Table 5
 |-------------------------------------------------|---------------------------------------------|--------------------------------------------------|---------------------------------------------------|
 |                                                 | Placebo Maintenance (n=110)                 | Infliximab Maintenance 5 mg/kg (n=113) (p value) | Infliximab Maintenance 10 mg/kg (n=112) (p value) |
 | Median time to loss of response through week 54 | 19 weeks                                    | 38 weeks (0.002)                                 | >54 weeks (<0.001)                                |
-| Week 30                                         |                                             |                                                  |                                                   |
 | Clinical Response a                             | 27.3                                        | 51.3 (<0.001)                                    | 59.1 (<0.001)                                     |
 | Clinical Remission                              | 20.9                                        | 38.9 (0.003)                                     | 45.5 (<0.001)                                     |
 | Steroid-Free Remission                          | 10.7 (6/56)                                 | 31.0 (18/58) (0.008)                             | 36.8 (21/57) (0.001)                              |
@@ -3498,9 +3509,7 @@ The primary endpoint of the study was corticosteroid-free clinical remission at 
 
 <div style=\"page-break-after: always\"></div>
 
-Table 6
-
-## Percent of patients achieving corticosteroid-free clinical remission at Week 26, SONIC
+Table 6 Percent of patients achieving corticosteroid-free clinical remission at Week 26, SONIC
 
 |                         | AZA Monotherapy   | Infliximab Monotherapy   | Infliximab + AZA Combination therapy   |
 |-------------------------|-------------------|--------------------------|----------------------------------------|
@@ -3516,7 +3525,7 @@ Similar trends in the achievement of corticosteroid-free clinical remission were
 
 The efficacy was assessed in a randomised, double-blinded, placebo-controlled study in 94 patients with fistulising Crohn's disease who had fistulae that were of at least 3 months' duration. Thirty one of these patients were treated with infliximab 5 mg/kg. Approximately 93% of the patients had previously received antibiotic or immunosuppressive therapy.
 
-Concurrent use of stable doses of conventional therapies was permitted, and 83% of patients continued to receive at least one of these therapies. Patients received three doses of either placebo or infliximab at weeks 0, 2 and 6. Patients were followed up to 26 weeks. The primary endpoint was the proportion of patients who experienced a clinical response, defined as ≥ 50% reduction from baseline in the number of fistulae draining upon gentle compression on at least two consecutive visits (4 weeks apart), without an increase in the use of medicinal products or surgery for Crohn's disease.
+Concurrent use of stable doses of conventional therapies was permitted, and 83% of patients continued to receive at least one of these therapies. Patients received three doses of either placebo or infliximab at weeks 0, 2 and 6. Patients were followed up to 26 weeks. The primary endpoint was the proportion of patients who experienced a clinical response, defined as ≥ 50% reduction from baseline in the number of fistulae draining upon gentle compression on at least two consecutive visits (4 weeks apart), with out an increase in the use of medicinal products or surgery for Crohn's disease.
 
 Sixty eight percent (21/31) of infliximab-treated patients receiving a 5 mg/kg dose regimen achieved a clinical response vs. 26% (8/31) placebo-treated patients (p=0.002). The median time to onset of response in the infliximab-treated group was 2 weeks. The median duration of response was 12 weeks. Additionally, closure of all fistulae was achieved in 55% of infliximab-treated patients compared with 13% of placebo-treated patients (p=0.001).
 
@@ -3536,11 +3545,9 @@ Table 7 Effects on response rate, data from ACCENT II (Week-14 responders)
 | Fistula Response (%) a                          | 23.5                             | 46.2                                    | 0.001                            |
 | Complete fistula response (%) b                 | 19.4                             | 36.3                                    | 0.009                            |
 
-a A ≥ 50% reduction from baseline in the number of draining fistulas over a period of ≥
+a A ≥ 50% reduction from baseline in the number of draining fistulas over a period of ≥ 4 weeks.
 
 b Absence of any draining fistulas.
-
-4 weeks.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3554,9 +3561,9 @@ Maintenance therapy with infliximab every 8 weeks significantly reduced disease-
 
 The safety and efficacy of infliximab were assessed in two (ACT 1 and ACT 2) randomised, double-blind, placebo-controlled clinical studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥ 2) with an inadequate response to conventional therapies [oral corticosteroids, aminosalicylates and/or immunomodulators (6-MP, AZA)]. Concomitant stable doses of oral aminosalicylates, corticosteroids, and/or immunomodulatory agents were permitted. In both studies, patients were randomised to receive either placebo, 5 mg/kg infliximab, or 10 mg/kg infliximab at weeks 0, 2, 6, 14 and 22, and in ACT 1 at weeks 30, 38 and 46. Corticosteroid taper was permitted after week 8.
 
-Table 8 Effects on clinical response, clinical remission and mucosal healing at Weeks 8 and 30.
+Table 8
 
-## Combined data from ACT 1 &amp; 2
+Effects on clinical response, clinical remission and mucosal healing at Weeks 8 and 30. Combined data from ACT 1 &amp; 2
 
 |                                                                                |                                                                                | Infliximab                                                                     | Infliximab                                                                     | Infliximab                                                                     |
 |--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
@@ -3576,7 +3583,7 @@ Table 8 Effects on clinical response, clinical remission and mucosal healing at 
 
 a p &lt;0.001, for each infliximab treatment group vs. placebo.
 
-The efficacy of infliximab through week 54 was assessed in the ACT 1 study.
+## The efficacy of infliximab through week 54 was assessed in the ACT 1 study.
 
 At 54 weeks, 44.9% of patients in the combined infliximab treatment group were in clinical response compared to 19.8% in the placebo treatment group (p&lt;0.001). Clinical remission and mucosal healing occurred in a greater proportion of patients in the combined infliximab treatment group compared to the placebo treatment group at week 54 (34.6% vs. 16.5%, p&lt;0.001 and 46.1% vs. 18.2%, p&lt;0.001, respectively). The proportions of patients in sustained response and sustained remission at week 54 were greater in the combined infliximab treatment group than in the placebo treatment group (37.9% vs. 14.0%, p&lt;0.001; and 20.2% vs. 6.6%, p&lt;0.001, respectively).
 
@@ -3622,16 +3629,16 @@ Key efficacy results for IMPACT and IMPACT 2 are shown in Table 9 below:
 
 Table 9 Effects on ACR and PASI in IMPACT and IMPACT 2
 
-|                                 | IMPACT            | IMPACT               | IMPACT               | IMPACT 2*         | IMPACT 2*            | IMPACT 2*            |
-|---------------------------------|-------------------|----------------------|----------------------|-------------------|----------------------|----------------------|
-|                                 | Placebo (Week 16) | Infliximab (Week 16) | Infliximab (Week 98) | Placebo (Week 24) | Infliximab (Week 24) | Infliximab (Week 54) |
-| Patients randomised             | 52                | 52                   | N/A a                | 100               | 100                  | 100                  |
-| ACR response (% of patients)    | 52                | 52                   | 78                   | 100               | 100                  | 100                  |
-| ACR 20 response*                | 5 (10%)           | 34 (65%)             | 48 (62%)             | 16 (16%)          | 54 (54%)             | 53 (53%)             |
-| ACR 50 response*                | 0 (0%)            | 24 (46%)             | 35 (45%)             | 4 (4%)            | 41 (41%)             | 33 (33%)             |
-| ACR 70 response*                | 0 (0%)            | 15 (29%)             | 27 (35%)             | 2 (2%)            | 27 (27%)             | 20 (20%)             |
-| PASI response (% of patients) b |                   |                      |                      | 87                | 83                   | 82                   |
-| N PASI 75 response**            |                   |                      |                      | 1 (1%)            | 50 (60%)             | 40 (48.8%)           |
+|                              | IMPACT            | IMPACT               | IMPACT               | IMPACT 2*         | IMPACT 2*            | IMPACT 2*            |
+|------------------------------|-------------------|----------------------|----------------------|-------------------|----------------------|----------------------|
+|                              | Placebo (Week 16) | Infliximab (Week 16) | Infliximab (Week 98) | Placebo (Week 24) | Infliximab (Week 24) | Infliximab (Week 54) |
+| Patients randomised          | 52                | 52                   | N/A a                | 100               | 100                  | 100                  |
+| ACR response (% of patients) | 52                | 52                   | 78                   | 100               | 100                  | 100                  |
+| ACR 20 response*             | 5 (10%)           | 34 (65%)             | 48 (62%)             | 16 (16%)          | 54 (54%)             | 53 (53%)             |
+| ACR 50 response*             | 0 (0%)            | 24 (46%)             | 35 (45%)             | 4 (4%)            | 41 (41%)             | 33 (33%)             |
+| ACR 70 response*             | 0 (0%)            | 15 (29%)             | 27 (35%)             | 2 (2%)            | 27 (27%)             | 20 (20%)             |
+| PASI response (% of          |                   |                      |                      | 87                | 83                   | 82                   |
+| N PASI 75 response**         |                   |                      |                      | 1 (1%)            | 50 (60%)             | 40 (48.8%)           |
 
 * ITT-analysis where subjects with missing data were included as non-responders.
 
@@ -3660,9 +3667,7 @@ EXPRESS evaluated the efficacy of infliximab induction and maintenance therapy i
 
 <div style=\"page-break-after: always\"></div>
 
-## Summary of PASI response, PGA response and percent of patients with all nails cleared at
-
-Table 10 Weeks 10, 24 and 50. EXPRESS
+Table 10 Summary of PASI response, PGA response and percent of patients with all nails cleared at Weeks 10, 24 and 50. EXPRESS
 
 |                                              | Placebo →Infliximab 5 mg/kg (at week 24)   | Infliximab 5 mg/kg   |
 |----------------------------------------------|--------------------------------------------|----------------------|
@@ -3681,8 +3686,8 @@ Table 10 Weeks 10, 24 and 50. EXPRESS
 | PGA of cleared (0) or minimal (1)            | 2 (2.6%)                                   | 203 (73.6%) a        |
 | PGA of cleared (0), minimal (1), or mild (2) | 15 (19.5%)                                 | 246 (89.1%) a        |
 | Week 50                                      |                                            |                      |
-| N                                            | 68                                         | 281                  |
-| ≥90% improvement                             | 34 (50.0%)                                 | 127 (45.2%)          |
+| N                                            | 68 (50.0%)                                 | 281 127 (45.2%)      |
+| ≥90% improvement                             | 34                                         |                      |
 | ≥75% improvement                             | 52 (76.5%)                                 | 170 (60.5%)          |
 | ≥50% improvement                             | 61 (89.7%)                                 | 193 (68.7%)          |
 | PGA of cleared (0) or minimal (1)            | 46 (67.6%)                                 | 149 (53.0%)          |
@@ -3742,7 +3747,7 @@ on the administered dose and indicated that infliximab is predominantly distribu
 
 At single doses of 3, 5, or 10 mg/kg, the median Cmax values were 77, 118 and 277 micrograms/mL, respectively. The median terminal half-life at these doses ranged from 8 to 9.5 days. In most patients, infliximab could be detected in the serum for at least 8 weeks after the recommended single dose of 5 mg/kg for Crohn's disease and the rheumatoid arthritis maintenance dose of 3 mg/kg every 8 weeks.
 
-Repeated administration of infliximab (5 mg/kg at 0, 2 and 6 weeks in fistulising Crohn's disease, 3 or 10 mg/kg every 4 or 8 weeks in rheumatoid arthritis) resulted in a slight accumulation of infliximab in serum after the second dose. No further clinically relevant accumulation was observed. In most fistulising Crohn's disease patients, infliximab was detected in serum for 12 weeks (range 4-28 weeks) after administration of the regimen.
+Repeated administration of infliximab (5 mg/kg at 0, 2 and 6 weeks in fistulising Crohn ' s disease, 3 or 10 mg/kg every 4 or 8 weeks in rheumatoid arthritis) resulted in a slight accumulation of infliximab in serum after the second dose. No further clinically relevant accumulation was observed. In most fistulising Crohn's disease patients, infliximab was detected in serum for 12 weeks (range 4-28 weeks) after administration of the regimen.
 
 ## Paediatric population
 
@@ -3768,17 +3773,17 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-Before dilution: 4 years at 2°C - 8°C.
+Before dilution: 4 years at 2°C -8°C.
 
 Remsima may be stored at temperatures up to a maximum of 30°C for a single period of up to 15 days, but not exceeding the original expiry date. The new expiry date must be written on the carton. Upon removal from refrigerated storage, Remsima must not be returned to refrigerated storage.
 
 ## After dilution:
 
-Chemical and physical in use stability of the diluted solution has been demonstrated for up to 60 days at 2 °C to 8 °C and for an additional 24 hours at 30 ° C after removal from refrigeration. From a microbiological point of view, the infusion solution should be administered immediately, in use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C - 8°C, unless reconstitution/dilution has been taken place in controlled and validated aseptic conditions.
+Chemical and physical in use stability of the diluted solution has been demonstrated for up to 60 days at 2 °C to 8 °C and for an additional 24 hours at 30  C after removal from refrigeration. From a microbiological point of view, the infusion solution should be administered immediately, in use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C -8°C, unless reconstitution/dilution has been taken place in controlled and validated aseptic conditions.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C).
+Store in a refrigerator (2°C -8°C).
 
 For storage conditions up to 30°C before dilution of the medicinal product, see section 6.3.
 
@@ -3842,8 +3847,6 @@ CELLTRION, Inc.
 
 CELLTRION, Inc. (Plant III, CLT3) 20, Academy-ro 51 beon-gil, Yeonsu-gu, Incheon, 22014 Republic of Korea
 
-Lonza Biologics Tuas Pte Ltd 35 Tuas South Avenue 6, Singapore 637377, Singapore
-
 Name and address of the manufacturers responsible for batch release Nuvisan GmbH Wegenerstraße 13, 89231 Neu-Ulm, Germany
 
 Nuvisan France SARL 2400, Route des Colles, 06410, Biot, France
@@ -3860,11 +3863,11 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-<div style=\"page-break-after: always\"></div>
-
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+
+<div style=\"page-break-after: always\"></div>
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -3876,8 +3879,7 @@ An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-
-## · Additional risk minimisation measures
+- Additional risk minimisation measures
 
 The educational programme consists of a patient reminder card to be held by the patient. The card is aimed at both serving as a reminder to record the dates and outcomes of specific tests and to facilitate the patient sharing of special information with healthcare professionals(s) (HCPs) treating the patient about on-going treatment with the product.
 
@@ -3899,6 +3901,8 @@ The patient reminder card shall contain the following key messages:
 <div style=\"page-break-after: always\"></div>
 
 ## A. LABELLING
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -3947,8 +3951,6 @@ Keep out of the sight and reach of children.
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 ## 8. EXPIRY DATE
-
-<div style=\"page-break-after: always\"></div>
 
 EXP
 
@@ -4004,8 +4006,8 @@ Remsima 100 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE INDENTIFIER - HUMANREADABLEDATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE INDENTIFIER - HUMANREADABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -4130,7 +4132,7 @@ Lot
 
 Remsima 120 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -4187,10 +4189,10 @@ Excipients: acetic acid, sodium acetate trihydrate, sorbitol, polysorbate 80, wa
 
 ## Solution for injection
 
-- 1 pre-filled pen with 2 alcohol pads
-- 2 pre-filled pens with 2 alcohol pads
-- 4 pre-filled pens with 4 alcohol pads
-- 6 pre-filled pens with 6 alcohol pads
+- 1 pre-filled pen (Needle size 29G) with 2 alcohol pads
+- 2 pre-filled pens (Needle size 29G) with 2 alcohol pads
+- 4 pre-filled pens (Needle size 29G) with 4 alcohol pads
+- 6 pre-filled pens (Needle size 29G) with 6 alcohol pads
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -4208,6 +4210,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator. Do not freeze. Keep the pre-filled pen in the outer carton in order to protect from light.
@@ -4220,7 +4224,9 @@ CELLTRION Healthcare Hungary Kft.
 
 1062 Budapest
 
-Váci út 1-3. WestEnd Office Building B torony Hungary
+Váci út 1-3. WestEnd Office Building B torony
+
+Hungary
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -4244,15 +4250,129 @@ Lot
 
 Remsima 120 mg
 
+## 17. UNIQUE IDENTIFIER -2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+## LABEL FOR PRE-FILLED PEN
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+Remsima 120 mg injection infliximab Subcutaneous use
+
+## 2. METHOD OF ADMINISTRATION
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+120 mg
+
+## 6. OTHER
+
+Needle size 29G
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## OUTER CARTON FOR PRE-FILLED PEN
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Remsima 120 mg solution for injection in pre-filled pen infliximab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each 1 mL single dose pre-filled pen contains 120 mg of infliximab.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: acetic acid, sodium acetate trihydrate, sorbitol, polysorbate 80, water for injections
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection
+
+2 pre-filled pens (Needle size 27G) with 2 alcohol pads
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Subcutaneous use
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze. Keep the pre-filled pen in the outer carton in order to protect from light.
+
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+CELLTRION Healthcare Hungary Kft.
+
+1062 Budapest
+
+Váci út 1-3. WestEnd Office Building B torony Hungary
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/13/853/028 2 pre-filled pens
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+Remsima 120 mg
+
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC
 
-<div style=\"page-break-after: always\"></div>
+SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4278,11 +4398,13 @@ Lot
 
 ## 6. OTHER
 
+Needle size 27G
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -4328,9 +4450,9 @@ Patients with hereditary fructose intolerance (HFI) must not be given this medic
 
 ## 8. EXPIRY DATE
 
-EXP
-
 <div style=\"page-break-after: always\"></div>
+
+EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -4372,14 +4494,14 @@ Lot
 
 ## 16. INFORMATION IN BRAILLE
 
-## 17. UNIQUE INDENTIFIER - 2D BARCODE
+## 17. UNIQUE INDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE INDENTIFIER - HUMANREADABLEDATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE INDENTIFIER - HUMANREADABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -4397,13 +4519,11 @@ IV
 
 For intravenous use after dilution
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -4411,8 +4531,7 @@ Lot
 
 40 mg / mL 100 mg / 2.5  mL
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4504,18 +4623,18 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
-## 17. UNIQUE INDENTIFIER - 2D BARCODE
+## 17. UNIQUE INDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE INDENTIFIER - HUMANREADABLEDATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE INDENTIFIER - HUMANREADABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -4571,16 +4690,21 @@ Current administrations:
 
 It is important that you and your doctor record the brand name and batch number of your medicine.
 
-## Brand name:
-
-Batch number:
+Brand name: Batch number:
 
 Ask your doctor to record the type and date of last screening(s) for tuberculosis (TB) below:
 
-| Test:   | Test:   |
-|---------|---------|
-| Date:   | Date:   |
-| Result: | Result: |
+Test:
+
+Test:
+
+Date:
+
+Date:
+
+Result:
+
+Result:
 
 Please make sure you also have a list of all other medicines that you are using with you at any visit to a healthcare professional.
 
@@ -4598,11 +4722,11 @@ List of other medicines:
 
 ## During treatment with Remsima
 
-- Tell your doctor straight away if you have signs of an infection. Signs include a fever, feeling tired, (persistent) cough, shortness of breath, weight loss, night sweats, diarrhoea, wounds, dental problems, burning when urinating or 'flu-like' signs.
+- Tell your doctor straight away if you have signs of an infection. Signs include a fever, feeling tired, (persistent) cough, shortness of breath, weight loss, night sweats, diarrhoea, wounds, dental problems, burning when urinating or 'flu -like' signs.
 
 ## Pregnancy, Breast-feeding and Vaccinations
 
-- In case you have received Remsima while you were pregnant or if you are breast-feeding, it is important that you inform your baby's doctor about it before your baby receives any vaccine. Your baby should not receive a 'live vaccine', such as BCG (used to prevent tuberculosis) within 12 months after birth or while you are breast-feeding, unless your baby's doctor recommends otherwise.
+- In case you have received Remsima while you were pregnant or if you are breast-feeding, it is important that you inform your baby's doctor about it before your baby receives any vaccine. Your baby should not receive a 'live vaccine', such as BCG (used to prevent tuberculosis) within 12 months after birth or while you are breast-feeding, unless your baby's doctor recommends otherwise .
 
 ## Hereditary Fructose Intolerance
 
@@ -4615,9 +4739,9 @@ Keep this card with you for 4 months after your last dose of Remsima, or in case
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Remsima 100 mg powder for concentrate for solution for infusion infliximab
 
@@ -4712,7 +4836,7 @@ Do not use Remsima if any of the above applies to you. If you are not sure, talk
 
 Talk to your doctor before or during treatment with Remsima if you have:
 
-## Had treatment with any medicine containing infliximab before
+Had treatment with any medicine containing infliximab before
 
 - Tell your doctor if you have had treatment with medicines containing infliximab in the past and are now starting Remsima treatment again.
 - If you have had a break in your treatment with infliximab of more than 16 weeks, there is a higher risk for allergic reactions when you start the treatment again.
@@ -4838,7 +4962,7 @@ In particular, tell your doctor if you are using any of the following medicines:
 
 <div style=\"page-break-after: always\"></div>
 
-While using Remsima you should not receive live vaccines. If you were using Remsima during pregnancy or if you are receiving Remsima while breast-feeding, tell your baby's doctor and other health-care professionals caring for your baby about your Remsima use before the baby receives any vaccines.
+While using Remsima you should not receive live vaccines. If you were using Remsima during pregnancy or if you are receiving Remsima while breast-feeding , tell your baby's doctor and other health-care professionals caring for your baby about your Remsima use before the baby receives any vaccines.
 
 If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Remsima.
 
@@ -4847,8 +4971,8 @@ If you are not sure if any of the above applies to you, talk to your doctor or p
 - If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine. Remsima should only be used during pregnancy or while breast-feeding if your doctor feels it is necessary for you.
 - You should avoid getting pregnant when you are being treated with Remsima and for 6 months after you stop being treated with it. Discuss the use of contraception during this time with your doctor.
 - If you received Remsima during your pregnancy, your baby may have a higher risk for getting an infection.
-- It is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. If you received Remsima while pregnant, giving BCG vaccine (used to prevent tuberculosis) to your baby within 12 months after birth may result in infection with serious complications, including death. Live vaccines such as the BCG vaccine should not be given to your baby within 12 months after birth, unless your baby's doctor recommends otherwise. For more information see section on vaccination.
-- If you are breast-feeding, it is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. Live vaccines should not be given to your baby while you are breast-feeding unless your baby's doctor recommends otherwise.
+- It is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. If you received Remsima while pregnant, giving BCG vaccine (used to prevent tuberculosis) to your baby within 12 months after birth may result in infection with serious complications, including death. Live vaccines such as the BCG vaccine should not be given to your baby within 12 months after birth , unless your baby's doctor recommends otherwise. For more information see section on vaccination.
+- If you are breastfeeding, it is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. Live vaccines should not be given to your baby while you are breastfeeding unless your baby's doctor recommends otherwise.
 - Severely decreased numbers of white blood cells have been reported in infants born to women treated with infliximab during pregnancy. If your baby has continual fevers or infections, contact your baby's doctor immediately.
 
 ## Driving and using machines
@@ -4857,7 +4981,7 @@ Remsima is not likely to affect your ability to drive or use tools or machines. 
 
 ## Remsima contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose,  that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose,  that is to say essentially 'sodium -free'.
 
 However, before Remsima is given to you, it is mixed with a solution that contains sodium. Talk to your doctor if you are on a low salt diet.
 
@@ -5056,9 +5180,9 @@ Remsima will generally be stored by the health professionals. The storage detail
 
 - Keep this medicine out of the sight and reach of children.
 - Do not use this medicine after the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
-- Store in a refrigerator (2°C - 8°C).
+- Store in a refrigerator (2°C -8°C).
 - This medicine can also be stored in the original carton outside of refrigerated storage up to a maximum of 25°C for a single period of up to six months, but not beyond the original expiry date. In this situation, do not return to refrigerated storage again. Write the new expiry date on the carton including day/month/year. Discard this medicine if not used by the new expiry date or the expiry date printed on the carton, whichever is earlier.
-- It is recommended that when Remsima is prepared for infusion, it is used as soon as possible (within 3 hours). However, if the solution is prepared in germ-free conditions, it can be stored in a refrigerator at 2°C - 8°C up to 60 days and for an additional 24 hours at 25 °C after removal from the refrigerator.
+- It is recommended that when Remsima is prepared for infusion, it is used as soon as possible (within 3 hours). However, if the solution is prepared in germ-free conditions, it can be stored in a refrigerator at 2°C -8°C up to 60 days and for an additional 24 hours at 25 °C after removal from the refrigerator.
 - Do not use this medicine if it is discoloured or if there are particles present.
 
 <div style=\"page-break-after: always\"></div>
@@ -5084,9 +5208,7 @@ Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Bu
 
 Nuvisan GmbH Wegenerstraße 13, 89231 Neu-Ulm, Germany
 
-Nuvisan France SARL 2400, Route des Colles, 06410, Biot,
-
-France
+Nuvisan France SARL 2400, Route des Colles, 06410, Biot, France
 
 Kymos, SL Ronda De Can Fatjó 7B, Parc Tecnològic del Vallès, Cerdanyola del Vallès, Barcelona, 08290, Spain
 
@@ -5106,13 +5228,13 @@ Celltrion Healthcare Hungary Kft. Tel: + 36 1 231 0493
 
 Celltrion Healthcare Hungary Kft.
 
-Teл.: + 36 1 231 0493
+Teл.: +
+
+36 1 231 0493
 
 ## Luxembourg/Luxemburg
 
-Celltrion Healthcare Belgium BVBA
-
-Tél/Tel: + 32 1528 7418
+Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5134,7 +5256,7 @@ Orion Pharma Eesti OÜ Tel: + 372 6 644 550
 
 ## Ελλάδα
 
-ΒΙΑΝΕΞ Α.Ε. Τηλ: +30 210 8009111 - 120
+ΒΙΑΝΕΞ Α.Ε. Τηλ: +30 210 8009111 120
 
 ## España
 
@@ -5154,9 +5276,7 @@ Celltrion Healthcare Ireland Limited Tel: +353 1 223 4026
 
 ## Ísland
 
-Vistor hf.
-
-Sími: +354 535 7000
+Vistor hf. Sí mi: +354 535 7000
 
 ## Italia
 
@@ -5164,7 +5284,9 @@ Celltrion Healthcare Italy S.r.l. Via Luigi Galvani, 24 - 20124 Milano (MI) Tel:
 
 ## Κύπρος
 
-C.A. Papaellinas Ltd Τηλ : + 357 22741741
+C.A. Papaellinas Ltd
+
+Τηλ : + 357 22741741
 
 ## Magyarország
 
@@ -5180,15 +5302,11 @@ Celltrion Healthcare Netherlands B.V. Tel: +31 20 888 7300
 
 ## Norge
 
-Orion Pharma AS
+Orion Pharma AS Tlf: + 47 40 00 42 10
 
-Tlf: + 47 40 00 42 10
+## Ö sterreich
 
-## Österreich
-
-Astro-Pharma GmbH Tel.: +43 1 97 99 860
-
-office@astropharma.at
+Astro-Pharma GmbH Tel.: +43 1 97 99 860 office@astropharma.at
 
 ## Polska
 
@@ -5212,9 +5330,7 @@ Celltrion Healthcare Hungary Kft. Tel: + 36 1 231 0493
 
 ## Suomi/Finland
 
-Orion Pharma
-
-Puh/Tel: + 358 10 4261
+Orion Pharma Puh/Tel: + 358 10 4261
 
 ## Sverige
 
@@ -5242,20 +5358,20 @@ The following information is intended for healthcare professionals only:
 
 Patients treated with Remsima should be given the patient reminder card.
 
-## Instructions for use and handling - storage conditions
+## Instructions for use and handling -storage conditions
 
-Store at 2°C - 8°C.
+Store at 2°C -8°C.
 
 Remsima may be stored at temperatures up to a maximum of 25°C for a single period of up to 6 months, but not exceeding the original expiry date. The new expiry date must be written on the carton. Upon removal from refrigerated storage, Remsima must not be returned to refrigerated storage.
 
-## Instructions for use and handling - reconstitution, dilution and administration
+## Instructions for use and handling -reconstitution, dilution and administration
 
 In order to improve the traceability of biological medicinal products, the name and batch number of the administered medicinal product should be clearly recorded.
 
 1. The dose and the number of Remsima vials have to be calculated. Each Remsima vial contains 100 mg infliximab. The required total volume of reconstituted Remsima solution has to be calculated.
 2. Under aseptic conditions, each Remsima vial should be reconstituted with 10 mL of water for injections, using a syringe equipped with a 21-gauge (0.8 mm) or smaller needle. The flip-top from the vial has to be removed and the top has to be wiped with a 70% alcohol swab. The syringe needle should be inserted into the vial through the centre of the rubber stopper and the stream of water for injections directed to the glass wall of the vial. The solution has to be gently swirled by rotating the vial to dissolve the powder. Prolonged or vigorous agitation must be avoided. THE VIAL MUST NOT BE SHAKEN. Foaming of the solution on reconstitution may occur. The reconstituted solution should stand for 5 minutes. The solution should be colourless to light yellow and opalescent. The solution may develop a few fine translucent particles, as infliximab is a protein. The solution must not be used if opaque particles, discolouration, or other foreign particles are present.
 3. The required volume of the reconstituted Remsima solution should be diluted to 250 mL with sodium chloride 9 mg/mL (0.9%) solution for infusion. Do not dilute the reconstituted Remsima solution with any other diluent. The dilution can be accomplished by withdrawing a volume of the sodium chloride 9 mg/mL (0.9%) solution for infusion from the 250-mL glass bottle or infusion bag equal to the volume of reconstituted Remsima. The required volume of reconstituted Remsima solution should slowly be added to the 250-mL infusion bottle or bag and gently be mixed. For volumes greater than 250 mL, either use a larger infusion bag (e.g. 500 mL, 1000 mL) or use multiple 250 mL infusion bags to ensure that the concentration of the infusion solution does not exceed 4 mg/ mL. If stored refrigerated after reconstitution and dilution, the infusion solution must be allowed to equilibrate at room temperature to 25 °C for 3 hours prior to Step 4 (infusion). Storage beyond 24 hours at 2 °C - 8 °C applies to preparation of Remsima in the infusion bag only.
-4. The infusion solution has to be administered over a period of not less than the infusion time recommended (see section 3). Only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 1.2 micrometre or less) should be used. Since no preservative is present, it is recommended that the administration of the solution for infusion is to be started as soon as possible and within 3 hours of reconstitution and dilution. If not used immediately, in use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C - 8°C, unless reconstitution/dilution has been taken place in controlled and validated aseptic conditions. Any unused portion of the infusion solution should not be stored for reuse.
+4. The infusion solution has to be administered over a period of not less than the infusion time recommended (see section 3). Only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 1.2 micrometre or less) should be used. Since no preservative is present, it is recommended that the administration of the solution for infusion is to be started as soon as possible and within 3 hours of reconstitution and dilution. If not used immediately, in use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C -8°C, unless reconstitution/dilution has been taken place in controlled and validated aseptic conditions. Any unused portion of the infusion solution should not be stored for reuse.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5359,7 +5475,7 @@ Do not use Remsima if any of the above applies to you. If you are not sure, talk
 
 Talk to your doctor before or during treatment with Remsima if you have:
 
-## Had treatment with any medicine containing infliximab before
+Had treatment with any medicine containing infliximab before
 
 - Tell your doctor if you have had treatment with medicines containing infliximab in the past and are now starting Remsima treatment again.
 - If you have had a break in your treatment with infliximab of more than 16 weeks, there is a higher risk for allergic reactions when you start the treatment again.
@@ -5478,7 +5594,7 @@ In particular, tell your doctor if you are using any of the following medicines:
 - Kineret (which contains anakinra). Remsima and Kineret should not be used together.
 - Orencia (which contains abatacept). Remsima and Orencia should not be used together.
 
-While using Remsima you should not receive live vaccines. If you were using Remsima during pregnancy or if you are receiving Remsima while breast-feeding, tell your baby's doctor and other health-care professionals caring for your baby about your Remsima use before the baby receives any vaccines.
+While using Remsima you should not receive live vaccines. If you were using Remsima during pregnancy or if you are receiving Remsima while breast-feeding , tell your baby's doctor and other health-care professionals caring for your baby about your Remsima use before the baby receives any vaccines.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5489,8 +5605,8 @@ If you are not sure if any of the above applies to you, talk to your doctor, pha
 - If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine. Remsima should only be used during pregnancy or while breast-feeding if your doctor feels it is necessary for you.
 - You should avoid getting pregnant when you are being treated with Remsima and for 6 months after you stop being treated with it. Discuss the use of contraception during this time with your doctor.
 - If you received Remsima during your pregnancy, your baby may have a higher risk for getting an infection.
-- It is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. If you received Remsima while pregnant, giving BCG vaccine (used to prevent tuberculosis) to your baby within 12 months after birth may result in infection with serious complications, including death. Live vaccines such as the BCG vaccine should not be given to your baby within 12 months after birth, unless your baby's doctor recommends otherwise. For more information see section on vaccination.
-- If you are breast-feeding, it is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. Live vaccines should not be given to your baby while you are breast-feeding unless your baby's doctor recommends otherwise.
+- It is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. If you received Remsima while pregnant, giving BCG vaccine (used to prevent tuberculosis) to your baby within 12 months after birth may result in infection with serious complications, including death. Live vaccines such as the BCG vaccine should not be given to your baby within 12 months after birth , unless your baby's doctor recommends otherwise. For more information see section on vaccination.
+- If you are breastfeeding, it is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. Live vaccines should not be given to your baby while you are breastfeeding unless your baby's doctor recommends otherwise.
 - Severely decreased numbers of white blood cells have been reported in infants born to women treated with infliximab during pregnancy. If your baby has continual fevers or infections, contact your baby's doctor immediately.
 
 ## Driving and using machines
@@ -5499,7 +5615,7 @@ Remsima is not likely to affect your ability to drive or use tools or machines. 
 
 ## Remsima contains sodium and sorbitol
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree' and 45 mg sorbitol in each 120 mg dose.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free' and 45 mg sorbitol in each 120 mg dose.
 
 ## Remsima contains polysorbate 80
 
@@ -5653,7 +5769,7 @@ The following side effects have been observed with Remsima:
 - Kidney infections
 - Low platelet count, too many white blood cells
 - Infections of the vagina
-- Blood test result showing 'antibodies' against your own body
+- Blood test result showing ' antibod ies' against your own body
 - Changes in cholesterol and fat levels in the blood
 - Weight gain (for most patients, the weight gain was small).
 
@@ -5749,47 +5865,49 @@ Midas Pharma GmbH Rheinstraße 49 55218 Ingelheim am Rhein Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
-
-Celltrion Healthcare Belgium BVBA
-
-Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
-
-## България
-
-Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Унгария
-
-## Česká republika
-
-Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Maďarsko
-
-## Danmark
-
-Celltrion Healthcare Denmark ApS
-
-Tel: + 45 3535 2989 Contact\\_dk@celltrionhc.com
-
-## Deutschland
+België/Belgique/Belgien Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
 
 ## Lietuva
 
 Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Vengrija
 
+## България
+
+Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Унгария
+
 ## Luxembourg/Luxemburg
 
 Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
+
+## Česká republika
+
+Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony
+
+Maďarsko
 
 ## Magyarország
 
 Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Magyarország
 
+## Danmark
+
+Celltrion Healthcare Denmark ApS Tel: + 45 3535 2989 Contact\\_dk@celltrionhc.com
+
 ## Malta
 
 Mint Health Ltd. Tel: +356 2093 9800 info@mint.com.mt
 
+## Deutschland
+
+Celltrion Healthcare Deutschland GmbH
+
 ## Nederland
 
-Celltrion Healthcare Deutschland GmbH Tel: + 49 30346494150 infoDE@celltrionhc.com
+Celltrion Healthcare Netherlands B.V.
+
+Tel: + 49 30346494150
+
+infoDE@celltrionhc.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5799,11 +5917,17 @@ Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Bu
 
 ## Ελλάδα
 
-ΒΙΑΝΕΞ Α.Ε. Τηλ: +30 210 8009111 - 120
+ΒΙΑΝΕΞ Α.Ε.
+
+Τηλ:
+
++30 210 8009111 - 120
 
 ## España
 
-Kern Pharma, S.L. Tel: +34 93 700 25 25
+Kern Pharma, S.L.
+
+Tel: +34 93 700 25 25
 
 ## France
 
@@ -5823,21 +5947,25 @@ Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Bu
 
 ## Italia
 
-Celltrion Healthcare Italy S.r.l. Via Luigi Galvani, 24 - 20124 Milano (MI) Tel: +39 0247 927040
+Celltrion Healthcare Italy S.r.l. Via Luigi Galvani, 24 -20124 Milano (MI) Tel: +39 0247 927040
 
 ## Κύπρος
 
 C.A. Papaellinas Ltd Τηλ: + 3 57 22741741
 
-Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300 NLinfo@celltrionhc.com
+## Latvija
+
+Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Ungārija
+
+Tel: + 31 20 888 7300
+
+NLinfo@celltrionhc.com
 
 ## Norge
 
-Celltrion Healthcare Norway AS
+Celltrion Healthcare Norway AS Contact\\_no@celltrionhc.com
 
-Contact\\_no@celltrionhc.com
-
-## Österreich
+## Ö sterreich
 
 Astro-Pharma GmbH Tel: +43 1 97 99 860 office@astropharma.at
 
@@ -5873,19 +6001,19 @@ Celltrion Sweden AB Tel: +46 8 80 11 77 contact\\_se@celltrionhc.com
 
 <div style=\"page-break-after: always\"></div>
 
-Latvija Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Ungārija
-
 ## This leaflet was last revised in {MM/YYYY}.
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
-
 <div style=\"page-break-after: always\"></div>
 
+Parts of the syringe (see Figure A):
+
 ## 7. Instructions for use
+
+Plunger
 
 Read carefully these instructions before using the Remsima syringe. Consult your healthcare provider if you have questions about using the Remsima syringe.
 
@@ -5923,6 +6051,8 @@ Figure A
 
 *Items not included in the carton.
 
+Medicine
+
 <div style=\"page-break-after: always\"></div>
 
 ## 2. Inspect the syringe.
@@ -5936,7 +6066,9 @@ Do not use the syringe if:
 
 The liquid should be clear and colourless to pale brown.
 
-Do not use the syringe if the liquid is cloudy, discoloured or contains particles in it.
+Do not use the syringe if the liquid is cloudy,
+
+discoloured or contains particles in it.
 
 Note: You may see air bubbles in the liquid. This is normal.
 
@@ -5968,11 +6100,11 @@ Do not inject into skin that is within 5 cm of your belly button (navel), or is 
 
 Do not blow on or touch the injection site again before giving the injection.
 
-Figure C
+Figure B
 
 <!-- image -->
 
-Figure B
+Figure C
 
 <!-- image -->
 
@@ -5988,11 +6120,13 @@ Do not touch the needle. Doing so may result in a needle stick injury.
 
 Note: It is normal to see a few drops of liquid come out of the needle upon the cap removal.
 
+Dimmo D
+
 ## 9. Insert the syringe into the injection site (see Figure E ).
 
 - a. Hold the syringe by its body in one hand between your thumb and index finger.
 - b. Using your other hand, gently pinch a fold of skin you cleaned.
-- c. With a quick and 'dart-like' motion, insert the needle completely into the fold of the skin at a 45-degree angle.
+- c. With a quick and 'dart -like' motion, insert the needle completely into the fold of the skin at a 45-degree angle.
 
 ## 10. Give the injection (see Figure F ).
 
@@ -6012,6 +6146,8 @@ Figure F
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+).
 
 ## 11. Remove the needle from the injection site (see Figure G ).
 
@@ -6048,7 +6184,13 @@ Figure H
 
 <div style=\"page-break-after: always\"></div>
 
+Parts of the syringe (see Figure A):
+
+Plunger
+
 Read carefully these instructions before using the Remsima syringe. Consult your healthcare provider if you have questions about using the Remsima syringe.
+
+Viewing
 
 ## Important information
 
@@ -6084,6 +6226,10 @@ Figure A
 
 *Items not included in the carton.
 
+Medicine
+
+Needle
+
 <div style=\"page-break-after: always\"></div>
 
 ## 2. Inspect the syringe.
@@ -6095,9 +6241,7 @@ Do not use the syringe if:
 
 ## 3. Inspect the medicine (see Figure B ).
 
-The liquid should be clear and colourless to pale brown. Do not use the syringe if the liquid is cloudy, discoloured or contains particles in it.
-
-Note: You may see air bubbles in the liquid. This is normal.
+The liquid should be clear and colourless to pale brown. Do not use the syringe if the liquid is cloudy, discoloured or contains particles in it. Note: You may see air bubbles in the liquid. This is normal.
 
 ## 4. Wait 30 minutes.
 
@@ -6123,11 +6267,11 @@ Do not inject into skin that is within 5 cm of your belly button (navel), or is 
 
 Do not blow on or touch the injection site again before giving the injection.
 
-Figure C
+Figure B
 
 <!-- image -->
 
-Figure B
+Figure C
 
 <!-- image -->
 
@@ -6147,7 +6291,7 @@ Note: It is normal to see a few drops of liquid come out of the needle upon the 
 
 - a. Hold the syringe by its body in one hand between your thumb and index finger.
 - b. Using your other hand, gently pinch a fold of skin you cleaned.
-- c. With a quick and 'dart-like' motion, insert the needle completely into the fold of the skin at a 45-degree angle.
+- c. With a quick and 'dart -like' motion, insert the needle completely into the fold of the skin at a 45-degree angle.
 
 Figure D
 
@@ -6158,6 +6302,8 @@ Figure E
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+1).
 
 ## 10. Give the injection (see Figure F ).
 
@@ -6298,7 +6444,7 @@ Do not use Remsima if any of the above applies to you. If you are not sure, talk
 
 Talk to your doctor before or during treatment with Remsima if you have:
 
-## Had treatment with any medicine containing infliximab before
+Had treatment with any medicine containing infliximab before
 
 - Tell your doctor if you have had treatment with medicines containing infliximab in the past and are now starting Remsima treatment again.
 - If you have had a break in your treatment with infliximab of more than 16 weeks, there is a higher risk for allergic reactions when you start the treatment again.
@@ -6417,7 +6563,7 @@ In particular, tell your doctor if you are using any of the following medicines:
 - Kineret (which contains anakinra). Remsima and Kineret should not be used together.
 - Orencia (which contains abatacept). Remsima and Orencia should not be used together.
 
-While using Remsima you should not receive live vaccines. If you were using Remsima during pregnancy or if you are receiving Remsima while breast-feeding, tell your baby's doctor and other health-care professionals caring for your baby about your Remsima use before the baby receives any vaccines.
+While using Remsima you should not receive live vaccines. If you were using Remsima during pregnancy or if you are receiving Remsima while breast-feeding , tell your baby's doctor and other health-care professionals caring for your baby about your Remsima use before the baby receives any vaccines.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6428,8 +6574,8 @@ If you are not sure if any of the above applies to you, talk to your doctor, pha
 - If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine. Remsima should only be used during pregnancy or while breast-feeding if your doctor feels it is necessary for you.
 - You should avoid getting pregnant when you are being treated with Remsima and for 6 months after you stop being treated with it. Discuss the use of contraception during this time with your doctor.
 - If you received Remsima during your pregnancy, your baby may have a higher risk for getting an infection.
-- It is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. If you received Remsima while pregnant, giving BCG vaccine (used to prevent tuberculosis) to your baby within 12 months after birth may result in infection with serious complications, including death. Live vaccines such as the BCG vaccine should not be given to your baby within 12 months after birth, unless your baby's doctor recommends otherwise. For more information see section on vaccination.
-- If you are breast-feeding, it is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. Live vaccines should not be given to your baby while you are breast-feeding unless your baby's doctor recommends otherwise.
+- It is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. If you received Remsima while pregnant, giving BCG vaccine (used to prevent tuberculosis) to your baby within 12 months after birth may result in infection with serious complications, including death. Live vaccines such as the BCG vaccine should not be given to your baby within 12 months after birth , unless your baby's doctor recommends otherwise. For more information see section on vaccination.
+- If you are breastfeeding, it is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. Live vaccines should not be given to your baby while you are breastfeeding unless your baby's doctor recommends otherwise.
 - Severely decreased numbers of white blood cells have been reported in infants born to women treated with infliximab during pregnancy. If your baby has continual fevers or infections, contact your baby's doctor immediately.
 
 ## Driving and using machines
@@ -6438,7 +6584,7 @@ Remsima is not likely to affect your ability to drive or use tools or machines. 
 
 ## Remsima contains sodium and sorbitol
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree' and 45 mg sorbitol in each 120 mg dose.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free' and 45 mg sorbitol in each 120 mg dose.
 
 ## Remsima contains polysorbate 80
 
@@ -6592,7 +6738,7 @@ The following side effects have been observed with Remsima:
 - Kidney infections
 - Low platelet count, too many white blood cells
 - Infections of the vagina
-- Blood test result showing 'antibodies' against your own body
+- Blood test result showing ' antibod ies' against your own body
 - Changes in cholesterol and fat levels in the blood
 - Weight gain (for most patients, the weight gain was small).
 
@@ -6663,9 +6809,11 @@ If you get any side effects, talk to your doctor, pharmacist, or nurse. This inc
 
 Remsima is a clear to opalescent, colourless to pale brown solution which is supplied as a single use pre-filled pen.
 
-Each pack contains 1 pre-filled pen with 2 alcohol pads, 2 pre-filled pens with 2 alcohol pads, 4 pre-filled pens with 4 alcohol pads or 6 pre-filled pens with 6 alcohol pads.
+Remsima 120 mg solution for injection in pre-filled pen with 29-gauge staked needle and olive green plunger rod is supplied in packs containing 1 pre-filled pen with 2 alcohol pads, 2 pre-filled pens with 2 alcohol pads, 4 pre-filled pens with 4 alcohol pads or 6 pre-filled pens with 6 alcohol pads.
 
 Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -6681,8 +6829,6 @@ Kymos, SL Ronda De Can Fatjó 7B, Parc Tecnològic del Vallès, Cerdanyola del V
 
 Midas Pharma GmbH Rheinstraße 49 55218 Ingelheim am Rhein Germany
 
-<div style=\"page-break-after: always\"></div>
-
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
@@ -6695,15 +6841,13 @@ Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Bu
 
 ## Česká republika
 
-Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony
+Celltrion Healthcare Hungary Kft. 1062 Budapest
 
-Maďarsko
+Váci út 1-3. WestEnd Office Building B torony Maďarsko
 
 ## Danmark
 
-Celltrion Healthcare Denmark ApS
-
-Tlf: +45 3535 2989 Contact\\_dk@celltrionhc.com
+Celltrion Healthcare Denmark ApS Tlf: +45 3535 2989 Contact\\_dk@celltrionhc.com
 
 ## Deutschland
 
@@ -6737,11 +6881,15 @@ Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Bu
 
 ΒΙΑΝΕΞ Α.Ε.
 
-Τηλ: +30 210 8009111 - 120
+Τηλ:
+
++30 210 8009111 - 120
 
 ## España
 
-Kern Pharma, S.L. Tel: +34 93 700 25 25
+Kern Pharma, S.L.
+
+Tel: +34 93 700 25 25
 
 ## France
 
@@ -6757,7 +6905,9 @@ Celltrion Healthcare Ireland Limited Tel: +353 1 223 4026
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor hf.
+
+Sí mi: +354 535 7000
 
 ## Italia
 
@@ -6765,13 +6915,13 @@ Celltrion Healthcare Italy S.r.l. Via Luigi Galvani, 24 - 20124 Milano (MI) Tel:
 
 ## Κύπρος
 
-C.A. Papaellinas Ltd
-
-Τηλ: + 3 57 22741741
+C.A. Papaellinas Ltd Τηλ: + 3 57 22741741
 
 ## Latvija
 
-Celltrion Healthcare Hungary Kft.
+Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony
+
+Ungārija
 
 Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300 NLinfo@celltrionhc.com
 
@@ -6779,7 +6929,7 @@ Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300 NLinfo@celltrionhc.c
 
 Celltrion Healthcare Norway AS Contact\\_no@celltrionhc.com
 
-## Österreich
+## Ö sterreich
 
 Astro-Pharma GmbH Tel: +43 1 97 99 860 office@astropharma.at
 
@@ -6795,7 +6945,9 @@ Celltrion Portugal, Unipessoal Lda. Tel: +351 21 936 8542
 
 ## România
 
-Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Ungaria
+Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony
+
+Ungaria
 
 ## Slovenija
 
@@ -6817,17 +6969,19 @@ Celltrion Sweden AB Tel: +46 8 80 11 77 contact\\_se@celltrionhc.com
 
 <div style=\"page-break-after: always\"></div>
 
-1062 Budapest Váci út 1-3. WestEnd Office Building B torony Ungārija
-
 ## This leaflet was last revised in {MM/YYYY}.
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
-
 <div style=\"page-break-after: always\"></div>
+
+1):-
+
+Medicine
+
+U
 
 ## 7. Instructions for use
 
@@ -6838,6 +6992,11 @@ Read carefully these instructions before using the Remsima pen. Consult your hea
 - Use the pen ONLY if your healthcare provider has trained you on the right way to prepare for and to give an injection.
 - Ask your healthcare provider how often you will need to give an injection.
 - Rotate the injection site each time you give an injection. Each new injection site should be at least 3 cm away from the previous injection site.
+
+Before
+
+Use
+
 - Do not use the pen if it has been dropped or is visibly damaged. A damaged pen may not function properly.
 - Do not reuse the pen.
 - Do not shake the pen at any time.
@@ -6884,9 +7043,11 @@ Note: You may see air bubbles in the liquid. This is normal.
 
 ## 4. Wait 30 minutes.
 
-- a. Leave the pen at room temperature for 30 minutes to allow it to naturally warm up.
+- a.
 
-Do not warm the pen using heat sources such as hot water or a microwave.
+Do not
+
+Leave the pen at room temperature for 30 minutes to allow it to naturally warm up. warm the pen using heat sources such as hot water or a microwave.
 
 ## 5. Choose an injection site (see Figure C ).
 
@@ -6911,11 +7072,11 @@ Note: Rotate the injection site each time you give an injection. Each new inject
 
 Do not blow on or touch the injection site again before giving the injection.
 
-Figure C
+Figure B
 
 <!-- image -->
 
-Figure B
+Figure C
 
 <!-- image -->
 
@@ -6930,6 +7091,8 @@ Figure B
 Do not touch the needle cover. Doing so may result in a needle stick injury.
 
 Note: It is normal to see a few drops of liquid come out of the needle upon the cap removal.
+
+LiminaL
 
 ## 9. Place the pen on the injection site (see Figure E ).
 
@@ -6946,11 +7109,15 @@ Figure E
 
 <div style=\"page-break-after: always\"></div>
 
+1 st
+
+2nd
+
 ## 10. Start the injection (see Figure F ).
 
 - a. Press the pen firmly against the skin.
 
-Note: When the injection starts you will hear the 1 st loud 'click' and the olive green plunger rod will begin to fill the window.
+Note: When the injection starts you will hear the 1 st loud 'click' and the olive green p lunger rod will begin to fill the window.
 
 - b. Keep holding the pen firmly against the skin and listen for the 2 nd loud 'click.'
 
@@ -7006,6 +7173,869 @@ Do not recap the pen.
 Note: Keep the pen and sharps disposal container out of the sight and reach of children.
 
 Figure J
+
+<!-- image -->
+
+## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
+
+## Remsima 120 mg solution for injection in pre-filled pen
+
+infliximab
+
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+
+- Keep this leaflet. You may need to read it again.
+- Your doctor will also give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with Remsima.
+- When starting a new card, keep this card as a reference for 4 months after your last dose of Remsima.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Remsima is and what it is used for
+2. What you need to know before you use Remsima
+3. How to use Remsima
+4. Possible side effects
+5. How to store Remsima
+6. Contents of the pack and other information
+7. Instructions for use
+
+## 1. What Remsima is and what it is used for
+
+Remsima contains the active substance infliximab. Infliximab is a monoclonal antibody - a type of protein that attaches to a specific target in the body called TNF (tumour necrosis factor) alpha.
+
+Remsima belongs to a group of medicines called 'TNF blockers'. It is used in adults for the following inflammatory diseases:
+
+- Rheumatoid arthritis
+- Psoriatic arthritis
+- Ankylosing spondylitis (Bechterew's disease)
+- Psoriasis
+- Crohn's disease
+- Ulcerative colitis.
+
+Remsima works by selectively attaching to TNF alpha and blocking its action. TNF alpha is involved in inflammatory processes of the body so blocking it can reduce the inflammation in your body.
+
+## Rheumatoid arthritis
+
+Rheumatoid arthritis is an inflammatory disease of the joints . If you have active rheumatoid arthritis you will first be given other medicines. If these medicines do not work well enough, you will be given Remsima which you will take with another medicine called methotrexate to:
+
+- reduce the signs and symptoms of your disease,
+- slow down the damage in your joints,
+- improve your physical function.
+
+<div style=\"page-break-after: always\"></div>
+
+## Psoriatic arthritis
+
+Psoriatic arthritis is an inflammatory disease of the joints, usually accompanied by psoriasis. If you have active psoriatic arthritis you will first be given other medicines. If these medicines do not work well enough, you will be given Remsima to:
+
+- reduce the signs and symptoms of your disease,
+- slow down the damage in your joints,
+- improve your physical function.
+
+## Ankylosing spondylitis (Bechterew's disease)
+
+Ankylosing spondylitis is an inflammatory disease of the spine. If you have ankylosing spondylitis you will first be given other medicines. If these medicines do not work well enough, you will be given Remsima to:
+
+- reduce the signs and symptoms of your disease,
+- improve your physical function.
+
+## Psoriasis
+
+Psoriasis is an inflammatory disease of the skin. If you have moderate to severe plaque psoriasis, you will first be given other medicines or treatments, such as phototherapy. If these medicines or treatments do not work well enough, you will be given Remsima to reduce the signs and symptoms of your disease.
+
+## Ulcerative colitis
+
+Ulcerative colitis is an inflammatory disease of the bowel. If you have ulcerative colitis you will first be given other medicines. If these medicines do not work well enough, you will be given Remsima to treat your disease.
+
+## Crohn's disease
+
+Crohn's disease is an inflammatory disease of the bowel. If you have Crohn's disease you will first be given other medicines. If these medicines do not work well enough, you will be given Remsima to:
+
+- treat active Crohn's disease,
+- reduce the number of abnormal openings (fistulae) between your bowel and your skin that have not been controlled by other medicines or surgery.
+
+## 2. What you need to know before you use Remsima
+
+## You must not use Remsima if
+
+- you are allergic to infliximab or any of the other ingredients of this medicine (listed in section 6),
+- you are allergic to proteins that come from mice,
+- you have tuberculosis (TB) or another serious infection such as pneumonia or sepsis (serious bacterial infection of the blood),
+- you have heart failure that is moderate or severe.
+
+Do not use Remsima if any of the above applies to you. If you are not sure, talk to your doctor before you are given Remsima.
+
+## Warnings and precautions
+
+Talk to your doctor before or during treatment with Remsima if you have:
+
+Had treatment with any medicine containing infliximab before
+
+- Tell your doctor if you have had treatment with medicines containing infliximab in the past and are now starting Remsima treatment again.
+- If you have had a break in your treatment with infliximab of more than 16 weeks, there is a higher risk for allergic reactions when you start the treatment again.
+
+<div style=\"page-break-after: always\"></div>
+
+## Local injection site reactions
+
+- Some patients receiving infliximab via injection under the skin have experienced local injection site reactions. Signs of a local injection site reaction can include redness, pain, itching, swelling, hardness, bruising, bleeding, cold sensation, tingling sensation, irritation, rash, ulcer, hives, blisters and scab on the skin of the injection site.
+- Most of these reactions are mild to moderate and mostly resolve on their own within a day.
+
+## Infections
+
+- Tell your doctor before you are given Remsima if you have an infection even if it is a very minor one.
+- Tell your doctor before you are given Remsima if you have ever lived in or travelled to an area where infections called histoplasmosis, coccidioidomycosis, or blastomycosis are common. These infections are caused by specific types of fungi that can affect the lungs or other parts of your body.
+- You may get infections more easily when you are being treated with Remsima. If you are 65 years of age or older, you have a greater risk.
+- These infections may be serious and include tuberculosis, infections caused by viruses, fungi, bacteria or other organisms in the environment and sepsis that may be life-threatening.
+
+Tell your doctor straight away if you get signs of infection during treatment with Remsima. Signs include fever, cough, flu-like signs, feeling unwell, red or hot skin, wounds or dental problems. Your doctor may recommend temporarily stopping Remsima.
+
+## Tuberculosis (TB)
+
+- It is very important that you tell your doctor if you have ever had TB or if you have been in close contact with someone who has had or has TB.
+- Your doctor will test you to see if you have TB. Cases of TB have been reported in patients treated with infliximab, even in patients who have already been treated with medicines for TB. Your doctor will record these tests on your patient reminder card.
+- If your doctor feels that you are at risk for TB, you may be treated with medicines for TB before you are given Remsima.
+
+Tell your doctor straight away if you get signs of TB during treatment with Remsima. Signs include persistent cough, weight loss, feeling tired, fever, night sweats.
+
+## Hepatitis B virus
+
+- Tell your doctor before you are using Remsima if you are a carrier of hepatitis B or have ever had it.
+- Tell your doctor if you think you might be at risk of contracting hepatitis B.
+- Your doctor should test you for hepatitis B virus.
+- Treatment with TNF blockers such as Remsima may result in reactivation of hepatitis B virus in patients who carry this virus, which can be life-threatening in some cases.
+- If you experience reactivation of hepatitis B, your doctor may need to stop your treatment and may give you medicines such as effective antiviral therapy with supportive treatment.
+
+## Heart problems
+
+- Tell your doctor if you have any heart problems, such as mild heart failure.
+- Your doctor will want to closely monitor your heart.
+
+Tell your doctor straight away if you get new or worsening signs of heart failure during treatment with Remsima. Signs include shortness of breath or swelling of your feet.
+
+<div style=\"page-break-after: always\"></div>
+
+## Cancer and lymphoma
+
+- Tell your doctor before you are given Remsima if you have or have ever had lymphoma (a type of blood cancer) or any other cancer.
+- Patients with severe rheumatoid arthritis, who have had the disease for a long time, may be at higher risk of developing lymphoma.
+- Patients taking Remsima may have an increased risk of developing lymphoma or another cancer.
+- Some patients who have received TNF-blockers, including infliximab have developed a rare type of cancer called hepatosplenic T-cell lymphoma. Of these patients, most were teenage boys or young men and most had either Crohn's disease or ulcerative colitis. This type of cancer has usually resulted in death. Almost all patients had also received medicines containing azathioprine or 6-mercaptopurine in addition to TNF-blockers.
+- Some patients treated with infliximab have developed certain kinds of skin cancer. If there are any changes in your skin or growths on the skin during or after therapy, tell your doctor.
+- Some women being treated for rheumatoid arthritis with infliximab have developed cervical cancer. For women taking Remsima including those over 60 years of age, your doctor may recommend regular screening for cervical cancer.
+
+## Lung disease or heavy smoking
+
+- Tell your doctor before you are given Remsima if you have a lung disease called chronic obstructive pulmonary disease (COPD) or if you are a heavy smoker.
+- Patients with COPD and patients who are heavy smokers may have a higher risk of developing cancer with Remsima treatment.
+
+## Nervous system disease
+
+- Tell your doctor if you have or have ever had a problem that affects your nervous system before you are given Remsima. This includes multiple sclerosis, Guillain-Barré syndrome, if you have fits or have been diagnosed with 'optic neuritis'.
+
+Tell your doctor straight away if you get symptoms of a nerve disease during treatment with Remsima. Signs include changes in your vision, weakness in your arms or legs, numbness or tingling in any part of your body.
+
+## Abnormal skin openings
+
+- Tell your doctor if you have any abnormal skin openings (fistulae) before you are given Remsima.
+
+## Vaccinations
+
+- Talk to your doctor if you recently have had or are due to have a vaccine.
+- You should receive recommended vaccinations before starting Remsima treatment. You may receive some vaccines during treatment with Remsima but you should not receive live vaccines (vaccines that contain a living but weakened infectious agent) while using Remsima because they may cause infections.
+- If you received Remsima while you were pregnant, your baby may also be at higher risk for getting an infection as a result of receiving a live vaccine during the first year of life. It is important that you tell your baby's doctors and other health-care professionals about your Remsima use so they can decide when your baby should receive any vaccine, including live vaccines such as the BCG vaccine (used to prevent tuberculosis).
+- If you are breast-feeding, it is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. For more information see section on Pregnancy, breast-feeding and fertility.
+
+<div style=\"page-break-after: always\"></div>
+
+## Therapeutic infectious agents
+
+- Talk to your doctor if you have recently received or are scheduled to receive treatment with a therapeutic infectious agent (such as BCG instillation used for the treatment of cancer).
+
+## Operations or dental procedures
+
+- Tell your doctor if you are going to have any operations or dental procedures.
+- Tell your surgeon or dentist that you are having treatment with Remsima by showing them your patient reminder card.
+
+## Liver problems
+
+- Some patients receiving infliximab have developed serious liver problems.
+- Tell your doctor straight away if you get symptoms of liver problems during treatment with Remsima. Signs include yellowing of the skin and eyes, dark-brown coloured urine, pain or swelling in the upper right side of the stomach area, joint pain, skin rashes, or fever.
+
+## Low blood counts
+
+- In some patients receiving infliximab, the body may not make enough of the blood cells that help fight infections or help stop bleeding.
+- Tell your doctor straight away if you get symptoms of low blood counts during treatment with Remsima. Signs include persistent fever, bleeding or bruising more easily, small red or purple spots caused by bleeding under the skin, or looking pale.
+
+## Immune system disorder
+
+- Some patients receiving infliximab have developed symptoms of an immune system disorder called lupus.
+- Tell your doctor straight away if you develop symptoms of lupus during treatment with Remsima. Signs include joint pain or a rash on cheeks or arms that is sensitive to the sun.
+
+## Children and adolescents
+
+Do not give this medicine to children and adolescents under 18 years of age because there are no data that show that this medicine is safe and works in this age group.
+
+## Other medicines and Remsima
+
+Patients who have inflammatory diseases already take medicines to treat their problem. These medicines may cause side effects. Your doctor will advise you what other medicines you must keep using while you are having Remsima.
+
+Tell your doctor if you are using, have recently used or might use any other medicines, including any other medicines to treat Crohn's disease, ulcerative colitis, rheumatoid arthritis, ankylosing spondylitis, psoriatic arthritis or psoriasis or medicines obtained without a prescription, such as vitamins and herbal medicines.
+
+In particular, tell your doctor if you are using any of the following medicines:
+
+- Medicines that affect your immune system.
+- Kineret (which contains anakinra). Remsima and Kineret should not be used together.
+- Orencia (which contains abatacept). Remsima and Orencia should not be used together.
+
+While using Remsima you should not receive live vaccines. If you were using Remsima during pregnancy or if you are receiving Remsima while breast-feeding , tell your baby's doctor and other health-care professionals caring for your baby about your Remsima use before the baby receives any vaccines.
+
+<div style=\"page-break-after: always\"></div>
+
+If you are not sure if any of the above applies to you, talk to your doctor, pharmacist or nurse before using Remsima.
+
+## Pregnancy, breast-feeding and fertility
+
+- If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine. Remsima should only be used during pregnancy or while breast-feeding if your doctor feels it is necessary for you.
+- You should avoid getting pregnant when you are being treated with Remsima and for 6 months after you stop being treated with it. Discuss the use of contraception during this time with your doctor.
+- If you received Remsima during your pregnancy, your baby may have a higher risk for getting an infection.
+- It is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. If you received Remsima while pregnant, giving BCG vaccine (used to prevent tuberculosis) to your baby within 12 months after birth may result in infection with serious complications, including death. Live vaccines such as the BCG vaccine should not be given to your baby within 12 months after birth , unless your baby's doctor recommends otherwise. For more information see section on vaccination.
+- If you are breastfeeding, it is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. Live vaccines should not be given to your baby while you are breastfeeding unless your baby's doctor recommends otherwise.
+- Severely decreased numbers of white blood cells have been reported in infants born to women treated with infliximab during pregnancy. If your baby has continual fevers or infections, contact your baby's doctor immediately.
+
+## Driving and using machines
+
+Remsima is not likely to affect your ability to drive or use tools or machines. If you feel tired, dizzy, or unwell after having Remsima, do not drive or use any tools or machines.
+
+## Remsima contains sodium and sorbitol
+
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free' and 45 mg sorbitol in each 120 mg dose.
+
+## Remsima contains polysorbate 80
+
+This medicine contains 0.5 mg of polysorbate 80 in each pre-filled pen which is equivalent to 0.5 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+## 3. How to use Remsima
+
+Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure.
+
+## Rheumatoid arthritis
+
+Your doctor will start your treatment with or without two infliximab intravenous infusion doses of 3 mg for every kg of body weight (given to you into a vein, usually in your arm, over a period of 2 hours). If infliximab intravenous infusion doses are given to start the treatment, they are administered 2 weeks apart via intravenous infusion. After 4 weeks from the last intravenous infusion, you will be given Remsima via injection under the skin (subcutaneous injection). If Remsima subcutaneous injection doses are given to start the treatment, Remsima 120 mg should be given as a subcutaneous injection followed by additional subcutaneous injections at 1, 2, 3 and 4 weeks after the first injection, then every 2 weeks thereafter.
+
+The usual recommended dose of Remsima subcutaneous injection is 120 mg once every 2 weeks regardless of weight.
+
+<div style=\"page-break-after: always\"></div>
+
+## Psoriatic arthritis, ankylosing spondylitis (Bechterew's disease) and psoriasis
+
+Your doctor will start your treatment with two infliximab intravenous infusion doses of 5 mg for every kg of body weight (given to you into a vein, usually in your arm, over a period of 2 hours). They are administered 2 weeks apart via intravenous infusion. After 4 weeks from the last intravenous infusion, you will be given Remsima via injection under the skin (subcutaneous injection).
+
+The usual recommended dose of Remsima subcutaneous injection is 120 mg once every 2 weeks regardless of weight.
+
+## Crohn's disease and ulcerative colitis
+
+Your doctor will start your treatment with two or three infliximab intravenous infusion doses of 5 mg for every kg of body weight (given to you into a vein, usually in your arm, over a period of 2 hours). They are administered 2 weeks apart via intravenous infusion and additional intravenous infusion may be given 4 weeks after the second infusion. After 4 weeks from the last intravenous infusion, you will be given Remsima via injection under the skin (subcutaneous injection).
+
+The usual recommended dose of Remsima subcutaneous injection is 120 mg once every 2 weeks regardless of weight.
+
+## How Remsima is given
+
+- Remsima 120 mg solution for injection is administered by injection under the skin (subcutaneous use) only. It is important to check the product labels to ensure that the correct formulation is being given as prescribed.
+- For patients with rheumatoid arthritis, your doctor may start your Remsima treatment with or without infliximab intravenous infusion doses. For patients with ankylosing spondylitis, psoriatic arthritis or psoriasis, two infliximab intravenous infusion doses will be given to start your Remsima treatment. For patients with Crohn's disease or ulcerative colitis, two or three infliximab intravenous infusion doses will be given to start your Remsima treatment.
+- For rheumatoid arthritis patients, if Remsima treatment is initiated without two infliximab intravenous infusion doses, the table below shows how often you will usually have Remsima 120 mg subcutaneous after your first dose.
+- Infliximab intravenous infusion doses will be given 2 weeks apart by your doctor or nurse and additional intravenous infusion may be given 4 weeks after the second infusion for Crohn's disease and ulcerative colitis patients under your doctor's discretion to start your Remsima treatment. The first Remsima subcutaneous injection will be given 4 weeks after the last intravenous infusion followed by Remsima subcutaneous injections given every 2 weeks.
+- The first subcutaneous injection of Remsima will be administered under the supervision of your doctor.
+- After proper training, if you feel you are well-trained and confident to inject Remsima yourself, your doctor may allow you to inject subsequent doses of Remsima yourself at home.
+- Talk to your doctor if you have any questions about giving yourself an injection. You will find detailed 'Instructions for Use' at the end of this leaflet.
+
+| 2 nd dose     | 1 week after your 1 st dose                               |
+|---------------|-----------------------------------------------------------|
+| 3 rd dose     | 2 weeks after your 1 st dose                              |
+| 4 th dose     | 3 weeks after your 1 st dose                              |
+| 5 th dose     | 4 weeks after your 1 st dose                              |
+| Further doses | 6 weeks after your 1 st dose and every 2 weeks thereafter |
+
+## If you use more Remsima than you should
+
+If you have used more Remsima than you should (either by injecting too much on a single occasion or by using it too frequently), talk to a doctor, pharmacist or nurse immediately. Always have the outer carton of the medicine with you, even if it is empty.
+
+## If you forget to use Remsima
+
+<div style=\"page-break-after: always\"></div>
+
+## Missed dose for up to 7 days
+
+If you miss a dose of Remsima for up to 7 days, after the original scheduled dose, you should take the missed dose immediately. Take your next dose on the next originally planned date and then follow the original dosing schedule.
+
+## Missed dose for 8 days or more
+
+If you miss a dose of Remsima for 8 days or more, after the original scheduled dose, you should not take the missed dose. Take your next dose on the next originally planned date and then follow the original dosing schedule.
+
+If you are not sure when to inject Remsima, call your doctor.
+
+If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them. Most side effects are mild to moderate. However some patients may experience serious side effects and may require treatment. Side effects may also occur after your treatment with Remsima has stopped.
+
+## Tell your doctor straight away if you notice any of the following:
+
+- Signs of an allergic reaction such as swelling of your face, lips, mouth or throat which may cause difficulty in swallowing or breathing, skin rash, hives, swelling of the hands, feet or ankles. Some of these reactions may be serious or life-threatening. An allergic reaction could happen within 2 hours of your injection or later. More signs of allergic side effects that may happen up to 12 days after your injection include pain in the muscles, fever, joint or jaw pain, sore throat or headache.
+- Signs of a local injection site reaction such as redness, pain, itching, swelling, hardness, bruising, bleeding, cold sensation, tingling sensation, irritation, rash, ulcer, hives, blisters and scab.
+- Signs of a heart problem such as chest discomfort or pain, arm pain, stomach pain, shortness of breath, anxiety, lightheadedness, dizziness, fainting, sweating, nausea (feeling sick), vomiting, fluttering or pounding in your chest, a fast or a slow heartbeat, and swelling of your feet.
+- Signs of infection (including TB) such as fever, feeling tired, cough which may be persistent, shortness of breath, flu-like symptoms, weight loss, night sweats, diarrhoea, wounds, collection of pus in the gut or around the anus (abscess), dental problems or burning sensation when urinating.
+- Possible signs of cancer including but not limited to swelling of lymph nodes, weight loss, fever, unusual skin nodules, changes in moles or skin colouring, or unusual vaginal bleeding.
+- Signs of a lung problem such as coughing, breathing difficulties or tightness in the chest.
+- Signs of a nervous system problem (including eye problems) such as signs of a stroke (sudden numbness or weakness of your face, arm or leg, especially on one side of your body; sudden confusion, trouble speaking or understanding; trouble seeing in one or both eyes, trouble walking, dizziness, loss of balance or coordination or a severe headache), fits, tingling/numbness in any part of your body, or weakness in arms or legs, changes in eyesight such as double vision or other eye problems.
+- Signs of a liver problem (including hepatitis B infection when you have had hepatitis B in the past) such as yellowing of the skin or eyes, dark-brown coloured urine, pain or swelling in the upper right side of the stomach area, joint pain, skin rashes, or fever.
+- Signs of an immune system disorder such as joint pain or a rash on cheeks or arms that is sensitive to the sun (lupus) or cough, shortness of breath, fever or skin rash (sarcoidosis).
+
+<div style=\"page-break-after: always\"></div>
+
+- Signs of low blood counts such as persistent fever, bleeding or bruising more easily, small red or purple spots caused by bleeding under the skin, or looking pale.
+- Signs of serious skin problems such as reddish-target-like spots or circular patches often with central blisters on the trunk, large areas of peeling and shedding (exfoliating) skin, ulcers of mouth, throat, nose, genitals and eyes or small pus-filled bumps that can spread over the body. These skin reactions can be accompanied by fever.
+
+Tell your doctor straight away if you notice any of the above.
+
+The following side effects have been observed with Remsima:
+
+## Very common: may affect more than 1 in 10 people
+
+- Stomach pain, feeling sick
+- Viral infections such as herpes or flu
+- Upper respiratory infections such as sinusitis
+- Headache
+- Side effect due to an injection
+- Pain.
+
+## Common: may affect up to 1 in 10 people
+
+- Changes in how your liver works, increase in liver enzymes (shown in blood tests)
+- Lung or chest infections such as bronchitis or pneumonia
+- Difficult or painful breathing, chest pain
+- Bleeding in the stomach or intestines, diarrhoea, indigestion, heartburn, constipation
+- Nettle-type rash (hives), itchy rash or dry skin
+- Balance problems or feeling dizzy
+- Fever, increased sweating
+- Circulation problems such as low or high blood pressure
+- Bruising, hot flush or nosebleed, warm, red skin (flushing)
+- Feeling tired or weak
+- Bacterial infections such as blood poisoning, abscess or infection of the skin (cellulitis)
+- Infection of the skin due to a fungus
+- Blood problems such as anaemia or low white blood cell count
+- Swollen lymph nodes
+- Depression, problems sleeping
+- Eye problems, including red eyes and infections
+- Fast heart beat (tachycardia) or palpitations
+- Pain in the joints, muscles or back
+- Urinary tract infection
+- Psoriasis, skin problems such as eczema and hair loss
+- Reactions at the injection site such as pain, swelling, redness or itching
+- Chills, a build-up of fluid under the skin causing swelling
+- Feeling numb or having a tingling feeling.
+
+## Uncommon: may affect up to 1 in 100 people
+
+- Shortage of blood supply, swelling of a vein
+- Collection of blood outside the blood vessels (haematoma) or bruising
+- Skin problems such as blistering, warts, abnormal skin colouration or pigmentation, or swollen lips, or thickening of the skin, or red, scaly, and flaky skin
+- Severe allergic reactions (e.g. anaphylaxis), an immune system disorder called lupus, allergic reactions to foreign proteins
+- Wounds taking longer to heal
+- Swelling of the liver (hepatitis) or gall bladder, liver damage
+- Feeling forgetful, irritable, confused, nervous
+
+<div style=\"page-break-after: always\"></div>
+
+- Eye problems including blurred or reduced vision, puffy eyes or sties
+- New or worsening heart failure, slow heart rate
+- Fainting
+- Convulsions, nerve problems
+- A hole in the bowel or blockage of the intestine, stomach pain or cramps
+- Swelling of your pancreas (pancreatitis)
+- Fungal infections such as yeast infection, or fungal infection of the nails
+- Lung problems (such as oedema)
+- Fluid around the lungs (pleural effusion)
+- Narrowed airway in the lungs, causing difficulty breathing
+- Inflamed lining of the lung, causing sharp chest pains that feel worse with breathing (pleurisy)
+- Tuberculosis
+- Kidney infections
+- Low platelet count, too many white blood cells
+- Infections of the vagina
+- Blood test result showing ' antibod ies' against your own body
+- Changes in cholesterol and fat levels in the blood
+- Weight gain (for most patients, the weight gain was small).
+
+## Rare: may affect up to 1 in 1,000 people
+
+- A type of blood cancer (lymphoma)
+- Your blood not supplying enough oxygen to your body, circulation problems such as narrowing of a blood vessel
+- Inflammation of the lining of the brain (meningitis)
+- Infections due to a weakened immune system
+- Hepatitis B infection when you have had hepatitis B in the past
+- Inflamed liver caused by a problem with the immune system (autoimmune hepatitis)
+- Liver problem that causes yellowing of the skin or eyes (jaundice)
+- Abnormal tissue swelling or growth
+- Severe allergic reaction that may cause loss of consciousness and could be life-threatening (anaphylactic shock)
+- Swelling of small blood vessels (vasculitis)
+- Immune disorders that could affect the lungs, skin and lymph nodes (such as sarcoidosis)
+- Collections of immune cells resulting from an inflammatory response (granulomatous lesions)
+- Lack of interest or emotion
+- Serious skin problems such as toxic epidermal necrolysis, Stevens-Johnson syndrome and acute generalised exanthematous pustulosis
+- Other skin problems such as erythema multiforme, blisters and peeling skin, or boils (furunculosis)
+- Serious nervous system disorders such as transverse myelitis, multiple sclerosis-like disease, optic neuritis and Guillain-Barré syndrome
+- Inflammation in the eye that may cause changes in the vision, including blindness
+- Fluid in the lining of the heart (pericardial effusion)
+- Serious lung problems (such as interstitial lung disease)
+- Melanoma (a type of skin cancer)
+- Cervical cancer
+- Low blood counts, including a severely decreased number of white blood cells
+- Small red or purple spots caused by bleeding under the skin
+- Abnormal values of a blood protein called 'complement factor' which is part of the immune system
+- Lichenoid reactions (itchy reddish-purple skin rash and/or threadlike white-grey lines on mucous membranes).
+
+Not known: frequency cannot be estimated from the available data
+
+<div style=\"page-break-after: always\"></div>
+
+- Cancer
+- A rare blood cancer affecting mostly young men (hepatosplenic T-cell lymphoma)
+- Liver failure
+- Merkel cell carcinoma (a type of skin cancer)
+- Kaposi's sarcoma, a rare cancer related to infection with human herpes virus 8. Kaposi's sarcoma most commonly appears as purple lesions on the skin.
+- Worsening of a condition called dermatomyositis (seen as a skin rash accompanying muscle weakness)
+- Heart attack
+- Stroke
+- Temporary loss of sight during or within 2 hours of infusion
+- Infection due to a live vaccine because of a weakened immune system
+- Problems following a medical procedure (including infectious and non-infectious problems).
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Remsima
+
+- Keep this medicine out of the sight and reach of children.
+- Do not use this medicine after the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
+- Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled pen in the outer carton in order to protect from light.
+- This medicine can also be stored in the original carton outside of refrigerated storage up to a maximum of 25°C for a single period of up to 28 days, but not beyond the original expiry date. In this situation, do not return to refrigerated storage again. Write the new expiry date on the carton including day/month/year. Discard this medicine if not used by the new expiry date or the expiry date printed on the carton, whichever is earlier.
+- Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Remsima contains
+
+- The active substance is infliximab. Each 1 ml single dose pre-filled pen contains 120 mg of infliximab.
+- The other ingredients are acetic acid, sodium acetate trihydrate, sorbitol (E420), polysorbate 80 (E433) and water for injections.
+
+## What Remsima looks like and contents of the pack
+
+Remsima is a clear to opalescent, colourless to pale brown solution which is supplied as a single use pre-filled pen.
+
+Remsima 120 mg solution for injection in pre-filled pen with 27-gauge staked needle, purple plunger rod is supplied in pack containing 2 pre-filled pens with 2 alcohol pads.
+
+Not all pack sizes may be marketed.
+
+## Marketing Authorisation Holder
+
+Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Hungary
+
+## Manufacturer
+
+Nuvisan GmbH Wegenerstraße 13, 89231 Neu-Ulm, Germany
+
+Nuvisan France SARL 2400, Route des Colles, 06410, Biot, France
+
+Kymos, SL Ronda De Can Fatjó 7B, Parc Tecnològic del Vallès, Cerdanyola del Vallès, Barcelona, 08290, Spain
+
+Midas Pharma GmbH Rheinstraße 49 55218 Ingelheim am Rhein Germany
+
+<div style=\"page-break-after: always\"></div>
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
+
+## България
+
+Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Унгария
+
+## Česká republika
+
+Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony
+
+Maďarsko
+
+## Danmark
+
+Celltrion Healthcare Denmark ApS Tlf: +45 3535 2989 Contact\\_dk@celltrionhc.com
+
+## Deutschland
+
+Celltrion Healthcare Deutschland GmbH
+
+## Lietuva
+
+Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Vengrija
+
+## Luxembourg/Luxemburg
+
+Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
+
+## Magyarország
+
+Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Magyarország
+
+## Malta
+
+Mint Health Ltd. Tel: +356 2093 9800 info@mint.com.mt
+
+## Nederland
+
+Celltrion Healthcare Netherlands B.V.
+
+Tel: + 49 30346494150
+
+infoDE@celltrionhc.com
+
+<div style=\"page-break-after: always\"></div>
+
+## Eesti
+
+Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Ungari
+
+## Ελλάδα
+
+ΒΙΑΝΕΞ Α.Ε.
+
+Τηλ:
+
++30 210 8009111 - 120
+
+## España
+
+Kern Pharma, S.L.
+
+Tel: +34 93 700 25 25
+
+## France
+
+Celltrion Healthcare France SAS
+
+Tél: + 33 (0)1 71 25 27 00
+
+## Hrvatska
+
+OKTAL PHARMA d.o.o. Tel: +385 1 6595 777
+
+oktal-pharma@oktal-pharma.hr
+
+## Ireland
+
+Celltrion Healthcare Ireland Limited
+
+Tel: +353 1 223 4026
+
+## Ísland
+
+Vistor hf.
+
+Sí mi: +354 535 7000
+
+## Italia
+
+Celltrion Healthcare Italy S.r.l. Via Luigi Galvani, 24 - 20124 Milano (MI) Tel: +39 0247 927040
+
+## Κύπρος
+
+C.A. Papaellinas Ltd Τηλ: + 3 57 22741741
+
+## Latvija
+
+Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Ungārija
+
+Tel: + 31 20 888 7300
+
+NLinfo@celltrionhc.com
+
+## Norge
+
+Celltrion Healthcare Norway AS Contact\\_no@celltrionhc.com
+
+## Ö sterreich
+
+Astro-Pharma GmbH
+
+Tel: +43 1 97 99 860
+
+office@astropharma.at
+
+## Polska
+
+Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony
+
+Węgry
+
+## Portugal
+
+Celltrion Portugal, Unipessoal Lda.
+
+Tel: +351 21 936 8542
+
+## România
+
+Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony
+
+Ungaria
+
+## Slovenija
+
+OKTAL PHARMA d.o.o. Tel: +386 1 519 29 22 info@oktal-pharma.si
+
+## Slovenská republika
+
+Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony
+
+Maďarsko
+
+## Suomi/Finland
+
+Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755 contact\\_fi@celltrionhc.com
+
+## Sverige
+
+Celltrion Sweden AB Tel: +46 8 80 11 77
+
+contact\\_se@celltrionhc.com
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in {MM/YYYY}.
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+I LN
+
+Medicine
+
+## 7. Instructions for use
+
+Needle
+
+Cover
+
+Read carefully these instructions before using the Remsima pen. Consult your healthcare provider if you have questions about using the Remsima pen.
+
+## Important information
+
+Rod
+
+- Use the pen ONLY if your healthcare provider has trained you on the right way to prepare for and to give an injection.
+- Ask your healthcare provider how often you will need to give an injection.
+- Rotate the injection site each time you give an injection. Each new injection site should be at least 3 cm away from the previous injection site.
+- Do not use the pen if it has been dropped or is visibly damaged. A damaged pen may not function properly.
+- Do not reuse the pen.
+- Do not shake the pen at any time.
+
+## About the Remsima pen
+
+## Parts of the pen (see Figure A ):
+
+Figure A
+
+<!-- image -->
+
+- Do not remove the cap until you are ready to inject. Once you remove the cap, do not recap the pen.
+
+## Prepare for the injection
+
+## 1. Gather the supplies for the injection.
+
+- a. Prepare a clean, flat surface, such as a table or countertop, in a well-lit area.
+- b. Remove the pen from the carton stored in your refrigerator.
+- c. Ensure you have the following supplies:
+- Pen
+- Alcohol swab
+- Cotton ball or gauze*
+- Adhesive bandage*
+- Sharps disposal container*
+
+*Items not included in the carton.
+
+<div style=\"page-break-after: always\"></div>
+
+Front
+
+## 2. Inspect the pen.
+
+Do not use the pen if:
+
+- It is cracked or damaged.
+- The expiration date has passed.
+
+## 3. Inspect the medicine (see Figure B ).
+
+The liquid should be clear and colourless to pale brown. Do not use the pen if the liquid is cloudy, discoloured or contains particles in it.
+
+Note: You may see air bubbles in the liquid. This is normal.
+
+## 4. Wait 30 minutes.
+
+Do not a. Leave the pen at room temperature for 30 minutes to allow it to naturally warm up. warm the pen using heat sources such as hot water or a microwave.
+
+## 5. Choose an injection site (see Figure C ).
+
+- a. Select an injection site. You may inject into:
+- The front of the thighs.
+- The abdomen except for the 5 cm around the belly button (navel).
+- The outer area of the upper arms (caregiver ONLY).
+
+Do not inject into skin that is within 5 cm of your belly button (navel), or is tender, damaged, bruised, or scarred.
+
+Note: Rotate the injection site each time you give an injection. Each new injection site should be at least 3 cm away from the previous injection site.
+
+## 6. Wash your hands.
+
+- a. Wash your hands with soap and water and dry them thoroughly.
+
+## 7. Clean the injection site.
+
+- a. Clean the injection site with an alcohol swab.
+- b. Let the skin dry before injecting.
+
+Figure B
+
+<!-- image -->
+
+Figure C
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+Do not blow on or touch the injection site again before giving the injection.
+
+## Give the injection
+
+## 8. Remove the cap (see Figure D ).
+
+- a. Pull the cap straight off and set it aside.
+
+Do not recap the pen.
+
+Do not remove the Cap until you are ready to inject.
+
+Do not touch the needle cover. Doing so may result in a needle stick injury.
+
+Note: It is normal to see a few drops of liquid come out of the needle upon the cap removal.
+
+- b. Throw away (dispose of) the cap in a sharps container (see Step 12 and Figure I).
+
+## 9. Place the pen on the injection site (see Figure E ).
+
+- a. Hold the pen so that you can see the window.
+- b. Without pinching or stretching the skin, place the pen over the injection site at a 90-degree angle.
+
+Figure D
+
+<!-- image -->
+
+Figure E
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+Start of Injection
+
+First
+
+## 10. Start the injection (see Figure F ).
+
+(ClIck))
+
+Second
+
+(ClIck))
+
+Count slowly
+
+to 5
+
+End of Injection
+
+## 11. Remove the pen from your skin.
+
+- a. Look at the pen and confirm that the purple plunger rod is filling the window completely.
+- b. Remove the pre-filled pen from your skin (see Figure G).
+
+Note: After you remove the pen from the injection site, the needle will be automatically covered (see Figure H). Note: If the window has not turned completely purple or if the medicine is still injecting, this means you have not received a full dose. Call your healthcare provider immediately.
+
+Note: You may see grey stopper in the Window. This is normal. Some bleeding may occur. Do not reuse the pen. Do not rub the injection site.
+
+- a. Press the pen firmly against the skin.
+
+Note: When the injection starts you will hear the 1 st loud 'click' and the purple plunger rod will begin to fill the window.
+
+- b. Keep holding the pen firmly against the skin and listen for the 2 nd loud 'click.' This can take up to 10 seconds.
+
+Note: Do not change the position of the pre-filled pen after the injection has started.
+
+- c. After you hear the second loud ' click ' continue to hold the pre-filled pen firmly against the skin and count slowly to 5 to make sure you inject the full dose.
+
+Fiouro H
+
+5
+
+Sec
+
+Figure F
+
+<!-- image -->
+
+Figure H
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## After the injection
+
+## 12. Throw away (dispose of) the pre-filled pen.
+
+- a. Put the used pen in an approved sharps disposal container immediately after use (see Figure I).
+
+Note: Do not throw away (dispose of) the pre-filled pen in your household trash.
+
+- b. If you do not have an approved sharps disposal container, you may use a household container that is:
+- made of a heavy-duty plastic;
+- able to close with a tight-fitting, puncture-resistant lid, without sharps being able to come out;
+- upright and stable during use;
+- leak-resistant; and
+- properly labelled to warn of hazardous waste inside the container.
+- c. When your sharps disposal container is almost full, it should be disposed of in accordance with local requirements.
+
+Do not recap the pen.
+
+Note: Keep the pen and sharps disposal container out of the sight and reach of children.
+
+## 13. Care for the injection site.
+
+- a. Treat the injection site by gently pressing, not rubbing, a cotton ball or gauze to the site and apply an adhesive bandage, if necessary.
+
+Figure I
 
 <!-- image -->
 
@@ -7233,7 +8263,7 @@ In particular, tell your doctor if you are using any of the following medicines:
 - Kineret (which contains anakinra). Remsima and Kineret should not be used together.
 - Orencia (which contains abatacept). Remsima and Orencia should not be used together.
 
-While using Remsima you should not receive live vaccines. If you were using Remsima during pregnancy or if you are receiving Remsima while breast-feeding, tell your baby's doctor and other health care professionals caring for your baby about your Remsima use before the baby receives any vaccines.
+While using Remsima you should not receive live vaccines. If you were using Remsima during pregnancy or if you are receiving Remsima while breast-feeding , tell your baby's doctor and other health care professionals caring for your baby about your Remsima use before the baby receives any vaccines.
 
 If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Remsima.
 
@@ -7242,8 +8272,8 @@ If you are not sure if any of the above applies to you, talk to your doctor or p
 - If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine. Remsima should only be used during pregnancy or while breast-feeding if your doctor feels it is necessary for you.
 - You should avoid getting pregnant when you are being treated with Remsima and for 6 months after you stop being treated with it. Discuss the use of contraception during this time with your doctor.
 - If you received Remsima during your pregnancy, your baby may have a higher risk for getting an infection.
-- It is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. If you received Remsima while pregnant, giving BCG vaccine (used to prevent tuberculosis) to your baby within 12 months after birth may result in infection with serious complications, including death. Live vaccines such as the the BCG vaccine should not be given to your baby within 12 months after birth, unless your baby's doctor recommends otherwise. For more information see section on vaccination.
-- If you are breast-feeding, it is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. Live vaccines should not be given to your baby while you are breast-feeding unless your baby's doctor recommends otherwise.
+- It is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. If you received Remsima while pregnant, giving BCG vaccine (used to prevent tuberculosis) to your baby within 12 months after birth may result in infection with serious complications, including death. Live vaccines such as the the BCG vaccine should not be given to your baby within 12 months after birth, unless your baby's doctor recommends otherwise . For more information see section on vaccination.
+- If you are breastfeeding, it is important that you tell your baby's doctors and other healthcare professionals about your Remsima use before your baby is given any vaccine. Live vaccines should not be given to your baby while you are breastfeeding unless your baby's doctor recommends otherwise.
 - Severely decreased numbers of white blood cells have been reported in infants born to women treated with infliximab during pregnancy. If your baby has continual fevers or infections, contact your baby's doctor immediately.
 
 ## Driving and using machines
@@ -7264,7 +8294,7 @@ This medicine contains 1.3 mg of polysorbate 80 in each 100 mg vial which is equ
 
 ## Remsima contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'. However, before Remsima is given to you, it is mixed with a solution that contains sodium. Talk to your doctor if you are on a low salt diet.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'. However, before Remsima is given to you, it is mixed with a solution that contains sodium. Talk to your doctor if you are on a low salt diet.
 
 ## 3. How Remsima will be given
 
@@ -7456,9 +8486,9 @@ Remsima will generally be stored by the health professionals. The storage detail
 
 - Keep this medicine out of the sight and reach of children.
 - Do not use this medicine after the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
-- Store in a refrigerator (2°C - 8°C).
+- Store in a refrigerator (2°C -8°C).
 - This medicine can also be stored in the original carton outside of refrigerated storage up to a maximum of 30°C for a single period of up to 15 days, but not beyond the original expiry date. In this situation, do not return to refrigerated storage again. Write the new expiry date on the carton including day/month/year. Discard this medicine if not used by the new expiry date or the expiry date printed on the carton, whichever is earlier.
-- It is recommended that when Remsima is prepared for infusion, it is used as soon as possible (within 3 hours). However, if the solution is prepared in germ-free conditions, it can be stored in a refrigerator at 2°C - 8°C up to 60 days and for an additional 24 hours at 30 °C after removal from the refrigerator.
+- It is recommended that when Remsima is prepared for infusion, it is used as soon as possible (within 3 hours). However, if the solution is prepared in germ-free conditions, it can be stored in a refrigerator at 2°C -8°C up to 60 days and for an additional 24 hours at 30 °C after removal from the refrigerator.
 - Do not use this medicine if it is discoloured or if there are particles present.
 
 ## 6. Contents of the pack and other information
@@ -7482,17 +8512,17 @@ Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Bu
 
 Nuvisan France SARL 2400, Route des Colles, 06410, Biot, France
 
-<div style=\"page-break-after: always\"></div>
-
 Kymos, SL Ronda De Can Fatjó 7B, Parc Tecnològic del Vallès, Cerdanyola del Vallès, Barcelona, 08290, Spain
 
 Midas Pharma GmbH Rheinstraße 49 55218 Ingelheim am Rhein Germany
 
+<div style=\"page-break-after: always\"></div>
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Celltrion Healthcare Belgium BVBA
+## België/Belgique/Belgien
 
-Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
+Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
 
 ## България
 
@@ -7504,25 +8534,35 @@ Celltrion Healthcare Hungary Kft. Tel: + 36 1 231 0493
 
 ## Danmark
 
-Celltrion Healthcare Denmark ApS Contact\\_dk@celltrionhc.com Tlf: +45 3535 2989
+Celltrion Healthcare Denmark ApS
+
+Contact\\_dk@celltrionhc.com
+
+Tlf: +45 3535 2989
 
 ## Deutschland
 
-Celltrion Healthcare Deutschland GmbH Tel: + 49 30346494150 infoDE@celltrionhc.com
+Celltrion Healthcare Deutschland GmbH Tel: + 49 30346494150
+
+infoDE@celltrionhc.com
 
 ## Eesti
 
-Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493 contact\\_fi@celltrionhc.com
+Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
+
+contact\\_fi@celltrionhc.com
 
 ## Ελλάδα
 
-ΒΙΑΝΕΞ Α.Ε.
-
-Τηλ: +30 210 8009111
+ΒΙΑΝΕΞ Α.Ε. Τηλ: +30 210 8009111
 
 ## España
 
 Kern Pharma, S.L. Tel: + 34 93 700 25 25
+
+## France
+
+Celltrion Healthcare France SAS
 
 ## Lietuva
 
@@ -7538,13 +8578,13 @@ Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 ## Malta
 
-Mint Health Ltd.
-
-Tel: + 356 2093 9800
+Mint Health Ltd. Tel: + 356 2093 9800
 
 ## Nederland
 
-Celltrion Healthcare Netherlands B.V. Tel: +31 20 888 7300 NLinfo@celltrionhc.com
+Celltrion Healthcare Netherlands B.V. Tel: +31 20 888 7300
+
+NLinfo@celltrionhc.com
 
 ## Norge
 
@@ -7552,23 +8592,21 @@ Celltrion Healthcare Norway AS
 
 Contact\\_no@celltrionhc.com
 
-## Österreich
+## Ö sterreich
 
-Astro-Pharma GmbH
-
-Tel.: +43 1 97 99 860
+Astro-Pharma GmbH Tel.: +43 1 97 99 860
 
 ## Polska
 
 CELLTRION Healthcare Hungary Kft. Tel.: + 36 1 231 0493
 
-<div style=\"page-break-after: always\"></div>
+## Portugal
 
-## France
-
-Celltrion Healthcare France SAS
+CELLTRION PORTUGAL, UNIPESSOAL LDA
 
 Tel: +33 (0)1 71 25 27 00
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hrvatska
 
@@ -7588,23 +8626,19 @@ enquiry\\_ie@celltrionhc.com
 
 Celltrion Healthcare Hungary Kft.
 
-Sími: +36 1 231 0493
+Sí mi: +36 1 231 0493
 
 contact\\_fi@celltrionhc.com
 
 ## Italia
 
-Celltrion Healthcare Italy S.R.L.
-
-Tel: +39 0247927040
+Celltrion Healthcare Italy S.R.L. Tel: +39 0247927040
 
 celltrionhealthcare\\_italy@legalmail.it
 
 ## Κύπρος
 
-C.A. Papaellinas Ltd
-
-Τηλ: + 3 57 22741741
+C.A. Papaellinas Ltd Τηλ: + 3 57 22741741
 
 ## Latvija
 
@@ -7617,10 +8651,6 @@ Tel: + 36 1 231 0493
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-## Portugal
-
-CELLTRION PORTUGAL, UNIPESSOAL LDA
 
 Tel: +351 21 936 8542
 
@@ -7658,9 +8688,9 @@ The following information is intended for healthcare professionals only:
 
 Patients treated with Remsima should be given the patient reminder card.
 
-## Instructions for use and handling - storage conditions
+## Instructions for use and handling -storage conditions
 
-Store at 2°C - 8°C.
+Store at 2°C -8°C.
 
 Remsima may be stored at temperatures up to a maximum of 30°C for a single period of up to 15 days, but not exceeding the original expiry date. The new expiry date must be written on the carton. Upon removal from refrigerated storage, Remsima must not be returned to refrigerated storage.
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-16 09:24:20
+document_datetime: 2026-04-23 12:40:29
 document_pages: 61
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/opsumit-epar-product-information_en.pdf
 document_name: opsumit-epar-product-information_en.pdf
 version: success
-processing_time: 12.3155579
-conversion_datetime: 2026-01-03 13:14:16.028926
+processing_time: 13.3088198
+conversion_datetime: 2026-04-25 16:24:53.42157
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -52,7 +52,7 @@ Opsumit, as monotherapy or in combination, is indicated for the long-term treatm
 
 ## Paediatric population
 
-Opsumit, as monotherapy or in combination, is indicated for the long-term treatment of pulmonary arterial hypertension (PAH) in paediatric patients aged less than 18 years and bodyweight ≥ 40 kg with WHO Functional Class (FC) II to III (see section 5.1).
+Opsumit, as monotherapy or in combination, is indicated for the long-term treatment of pulmonary arterial hypertension (PAH) in paediatric patients aged less than 18 years and bodyweight ≥40 kg with WHO Functional Class (FC) II to III (see section 5.1).
 
 ## 4.2 Posology and method of administration
 
@@ -76,7 +76,7 @@ No dose adjustment is required in patients over the age of 65 years (see section
 
 ## Hepatic impairment
 
-Based on pharmacokinetic (PK) data, no dose adjustment is required in patients with mild, moderate or severe hepatic impairment (see sections 4.4 and 5.2). However, there is no clinical experience with the use of macitentan in PAH patients with moderate or severe hepatic impairment. Opsumit must not be initiated in patients with severe hepatic impairment, or clinically significant elevated hepatic aminotransferases (greater than 3 times the Upper Limit of Normal (&gt; 3 × ULN); see sections 4.3 and 4.4).
+Based on pharmacokinetic (PK) data, no dose adjustment is required in patients with mild, moderate or severe hepatic impairment (see sections 4.4 and 5.2). However, there is no clinical experience with the use of macitentan in PAH patients with moderate or severe hepatic impairment. Opsumit must not be initiated in patients with severe hepatic impairment, or clinically significant elevated hepatic aminotransferases (greater than 3 times the upper limit of normal (&gt;3 × ULN); see sections 4.3 and 4.4).
 
 ## Renal impairment
 
@@ -97,7 +97,7 @@ The film-coated tablets are not breakable and are to be swallowed whole, with wa
 -  Women of childbearing potential who are not using reliable contraception (see sections 4.4 and 4.6).
 -  Breastfeeding (see section 4.6).
 -  Patients with severe hepatic impairment (with or without cirrhosis) (see section 4.2).
--  Baseline values of hepatic aminotransferases (aspartate aminotransferases (AST) and/or alanine aminotransferases (ALT) &gt; 3 × ULN) (see sections 4.2 and 4.4).
+-  Baseline values of hepatic aminotransferases (aspartate aminotransferases (AST) and/or alanine aminotransferases (ALT) &gt;3 × ULN) (see sections 4.2 and 4.4).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -105,9 +105,9 @@ The benefit/risk balance of macitentan has not been established in patients with
 
 ## Liver function
 
-Elevations of liver aminotransferases (AST, ALT) have been associated with PAH and with endothelin receptor antagonists (ERAs). Opsumit is not to be initiated in patients with severe hepatic impairment or elevated aminotransferases (&gt; 3 × ULN) (see sections 4.2 and 4.3) and is not recommended in patients with moderate hepatic impairment. Liver enzyme tests should be obtained prior to initiation of Opsumit.
+Elevations of liver aminotransferases (AST, ALT) have been associated with PAH and with endothelin receptor antagonists (ERAs). Opsumit is not to be initiated in patients with severe hepatic impairment or elevated aminotransferases (&gt;3 × ULN) (see sections 4.2 and 4.3) and is not recommended in patients with moderate hepatic impairment. Liver enzyme tests should be obtained prior to initiation of Opsumit.
 
-Patients should be monitored for signs of hepatic injury and monthly monitoring of ALT and AST is recommended. If sustained, unexplained, clinically relevant aminotransferase elevations occur, or if elevations are accompanied by an increase in bilirubin &gt; 2 × ULN, or by clinical symptoms of liver injury (e.g., jaundice), Opsumit treatment should be discontinued.
+Patients should be monitored for signs of hepatic injury and monthly monitoring of ALT and AST is recommended. If sustained, unexplained, clinically relevant aminotransferase elevations occur, or if elevations are accompanied by an increase in bilirubin &gt;2 × ULN, or by clinical symptoms of liver injury (e.g., jaundice), Opsumit treatment should be discontinued.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -115,7 +115,7 @@ Reinitiation of Opsumit may be considered following the return of hepatic enzyme
 
 ## Haemoglobin concentration
 
-Decrease in haemoglobin concentrations has been associated with endothelin receptor antagonists (ERAs) including macitentan (see section 4.8). In placebo-controlled studies, macitentan-related decreases in haemoglobin concentration were not progressive, stabilised after the first 4-12 weeks of treatment and remained stable during chronic treatment. Cases of anaemia requiring blood cell transfusion have been reported with macitentan and other ERAs. Initiation of Opsumit is not recommended in patients with severe anaemia. It is recommended that haemoglobin concentrations be measured prior to initiation of treatment and tests repeated during treatment as clinically indicated.
+Decrease in haemoglobin concentrations has been associated with endothelin receptor antagonists (ERAs) including macitentan (see section 4.8). In placebo-controlled studies, macitentan-related decreases in haemoglobin concentration were not progressive, stabilised after the first 4 to 12 weeks of treatment and remained stable during chronic treatment. Cases of anaemia requiring blood cell transfusion have been reported with macitentan and other ERAs. Initiation of Opsumit is not recommended in patients with severe anaemia. It is recommended that haemoglobin concentrations be measured prior to initiation of treatment and tests repeated during treatment as clinically indicated.
 
 ## Pulmonary veno-occlusive disease
 
@@ -245,7 +245,7 @@ The most commonly reported adverse reactions in the SERAPHIN study were nasophar
 
 The safety of macitentan has been evaluated in a long-term placebo-controlled trial of 742 adult and adolescent patients with symptomatic PAH (SERAPHIN study). The mean treatment duration was 103.9 weeks in the macitentan 10 mg group, and 85.3 weeks in the placebo group. Adverse reactions associated with macitentan obtained from this clinical study are tabulated below. Post-marketing adverse reactions are also included.
 
-Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data).
+Frequencies are defined as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); not known (cannot be estimated from the available data).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -261,7 +261,7 @@ Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/
 | Blood and lymphatic system disorders                 | Common      | Thrombocytopenia 7                                              |
 | Immune system disorders                              | Uncommon    | Hypersensitivity reactions (e.g., angioedema, pruritus, rash) 1 |
 | Nervous system disorders                             | Very common | Headache                                                        |
-| Vascular disorders                                   | Common      | Hypotension 2 , flushing                                        |
+| Vascular disorders                                   | Common      | Hypotension, 2 flushing                                         |
 | Respiratory, thoracic and mediastinal disorders      | Common      | Nasal congestion 1                                              |
 | Hepatobiliary disorders                              | Common      | Aminotransferase elevations 4                                   |
 | Reproductive system and breast disorders             | Common      | Increased uterine bleeding 8                                    |
@@ -281,7 +281,7 @@ Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/
 
 ## 4  Liver aminotransferases
 
-The incidence of aminotransferase elevations (ALT/AST) &gt; 3 × ULN was 3.4% on macitentan 10 mg and 4.5% on placebo in SERAPHIN, a double-blind study in patients with PAH. Elevations &gt; 5 × ULN occurred in 2.5% of patients on macitentan 10 mg versus 2% of patients on placebo.
+The incidence of aminotransferase elevations (ALT/AST) &gt;3 × ULN was 3.4% on macitentan 10 mg and 4.5% on placebo in SERAPHIN, a double-blind study in patients with PAH. Elevations &gt;5 × ULN occurred in 2.5% of patients on macitentan 10 mg versus 2% of patients on placebo.
 
 ## 5  Haemoglobin
 
@@ -303,27 +303,27 @@ Of the 742 patients who participated in the pivotal SERAPHIN double-blind study,
 
 Long-term follow-up of these 550 patients for a median exposure of 3.3 years and a maximum exposure of 10.9 years showed a safety profile that was consistent as described above during the SERAPHIN double-blind phase.
 
-## Paediatric population (aged ≥ 2 years to less than 18 years)
+## Paediatric population (aged ≥2 years to less than 18 years)
 
-The safety of macitentan was evaluated in TOMORROW, a Phase 3 study in paediatric patients with PAH. A total of 72 patients aged ≥ 2 years to less than 18 years were randomised and received Opsumit. The mean age at enrolment was 10.5 years (range 2.1 years-17.9 years). The median duration of treatment in the randomised study was 168.4 weeks (range 12.9 weeks-312.4 weeks) in the Opsumit arm.
+The safety of macitentan was evaluated in TOMORROW, a Phase 3 study in paediatric patients with PAH. A total of 72 patients aged ≥2 years to less than 18 years were randomised and received Opsumit. The mean age at enrolment was 10.5 years (range 2.1 years to 17.9 years). The median duration of treatment in the randomised study was 168.4 weeks (range 12.9 weeks to 312.4 weeks) in the Opsumit arm.
 
 Overall, the safety profile in this paediatric population was consistent with that observed in the adult population. In addition to the adverse reactions tabulated above, the following paediatric adverse reactions were reported: upper respiratory tract infection (31.9%), rhinitis (8.3%), and gastroenteritis (11.1%).
 
-## Paediatric population (aged ≥ 1 month to less than 2 years)
+An additional 5 Japanese patients (aged ≥2 years to less than 18 years) were treated with macitentan in the open-label Phase 3 study PAH3001. The median age at enrolment was 9 years (range 2 years to 13 years). The median duration of macitentan treatment in the study was 51.1 weeks (range 50.1 weeks to 52.6 weeks). Overall, the safety profile in this paediatric population was consistent with that observed in the TOMORROW study.
 
-An additional 11 patients, aged ≥ 1 month to less than 2 years old were enroled to receive Opsumit without randomisation, 9 patients from the open-label arm of the TOMORROW study and 2 Japanese patients from the PAH3001 study. At enrolment, the age range of the patients from the TOMORROW study was 1.2 years to 1.9 years and the median duration of treatment was 37.1 weeks (range 7.0-72.9 weeks). At enrolment, the ages of the 2 patients from PAH3001 were 21 months and 22 months.
+## Paediatric population (aged ≥1 month to less than 2 years)
 
-Overall, the safety profile in this paediatric population was consistent with that observed in the adult population and paediatric population aged ≥ 2 years to less than 18 years, however, very limited clinical safety data are available to establish a robust safety conclusion in paediatric population below 2 years.
+An additional 11 patients, aged ≥1 month to less than 2 years old, were enroled to receive Opsumit without randomisation, 9 patients from the open-label arm of the TOMORROW study and 2 Japanese patients from the PAH3001 study. At enrolment, the age range of the patients from the TOMORROW study was 1.2 years to 1.9 years and the median duration of treatment was 37.1 weeks (range 7.0 to 72.9 weeks). At enrolment, the ages of the 2 patients from PAH3001 were 21 months and 22 months and the duration of treatment was 52.7 weeks and 51.6 weeks, respectively.
+
+Overall, the safety profile in this paediatric population was consistent with that observed in the adult population and paediatric population aged ≥2 years to less than 18 years, however, very limited clinical safety data are available to establish a robust safety conclusion in the paediatric population below 2 years.
+
+<div style=\"page-break-after: always\"></div>
 
 The safety of macitentan in children below 2 years of age has not been established (see section 4.2).
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
-
-<div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -345,23 +345,47 @@ Macitentan is an orally active potent endothelin receptor antagonist, active on 
 
 ## Efficacy in patients with pulmonary arterial hypertension
 
-A multi-centre, double-blind, placebo-controlled, parallel-group, event-driven, Phase 3 outcome study (AC-055-302/SERAPHIN) was conducted in 742 patients with symptomatic PAH, who were randomised to three treatment groups (placebo [N = 250], 3 mg [N = 250] or 10 mg [N = 242] of macitentan once daily), to assess the long-term effect on morbidity or mortality.
+A multi-centre, double-blind, placebo-controlled, parallel-group, event-driven, Phase 3 outcome study (AC-055-302/SERAPHIN) was conducted in 742 patients with symptomatic PAH, who were randomised to three treatment groups (placebo [N=250], 3 mg [N=250] or 10 mg [N=242] of macitentan once daily), to assess the long-term effect on morbidity or mortality.
 
 At baseline, the majority of enroled patients (64%) were treated with a stable dose of specific therapy for PAH, either oral phosphodiesterase inhibitors (61%) and/or inhaled/oral prostanoids (6%).
 
 The primary endpoint was the time to first occurrence of a morbidity or mortality event, up to the end of double-blind treatment, defined as death, or atrial septostomy, or lung transplantation, or initiation of intravenous (i.v.) or subcutaneous (s.c.) prostanoids, or other worsening of PAH. Other worsening of PAH was defined as the presence of all of the three following components: a sustained decrease in 6-minute walk distance (6MWD) of at least 15% from baseline; worsening of PAH symptoms (worsening of WHO FC or right heart failure); and need for new treatment for PAH. All events were confirmed by an independent adjudication committee, blinded to treatment allocation.
 
-All patients were followed up to end-of-study (EOS) for vital status. EOS was declared when the predefined number of primary endpoint events was reached. In the period between end-of-treatment (EOT) and EOS, patients could receive open-label macitentan 10 mg or alternative PAH therapy. The overall median double-blind treatment duration was 115 weeks (up to a maximum of 188 weeks on macitentan).
-
 <div style=\"page-break-after: always\"></div>
 
-The mean age of all patients was 46 years (range 12-85 years of age, including 20 patients below 18, 706 patients between 18-74 years, and 16 patients aged 75 and older) with the majority of subjects being Caucasian (55%) and female (77%). Approximately 52%, 46%, and 2% of patients were in WHO FC II, III, and IV, respectively.
+Kaplan-Meier estimates of the first morbidity-mortality event in SERAPHII
 
-Idiopathic or heritable PAH was the most common aetiology in the study population (57%), followed by PAH due to connective tissue disorders (31%), PAH associated with corrected simple congenital heart disease (8%), and PAH associated with other aetiologies (medicinal products and toxins [3%] and HIV [1%]).
+100
+
+80
+
+60 -
+
+40 -
+
+20-
+
+OPSUMIT 10 mg
+
+% patients event free (Kaplan-Meier)
+
+-
+
+Placebo
+
+All patients were followed up to end-of-study (EOS) for vital status. EOS was declared when the predefined number of primary endpoint events was reached. In the period between end-of-treatment (EOT) and EOS, patients could receive open-label macitentan 10 mg or alternative PAH therapy. The overall median double-blind treatment duration was 115 weeks (up to a maximum of 188 weeks on macitentan).
+
+The mean age of all patients was 46 years (range 12 to 85 years of age, including 20 patients below 18, 706 patients between 18 to 74 years, and 16 patients aged 75 and older) with the majority of subjects being Caucasian (55%) and female (77%). Approximately 52%, 46%, and 2% of patients were in WHO FC II, III, and IV, respectively.
+
+Idiopathic or heritable PAH was the most common aetiology in the study population (57%), followed by PAH due to connective tissue disorders (31%), PAH associated with corrected simple congenital heart disease (8%), and PAH associated with other aetiologies (medicinal products and toxins [3%] and HIV [1%]). T
+
+12
+
+6
 
 ## Outcome endpoints
 
-Treatment with macitentan 10 mg resulted in a 45% risk reduction (hazard ratio [HR] 0.55; 97.5% CI: 0.39 to 0.76; logrank p &lt; 0.0001) of the composite morbidity-mortality endpoint up to EOT when compared to placebo [Figure 1 and Table 1]. The treatment effect was established early and was sustained.
+Treatment with macitentan 10 mg resulted in a 45% risk reduction (hazard ratio [HR] 0.55; 97.5% CI: 0.39 to 0.76; logrank p&lt; 0.0001) of the composite morbidity-mortality endpoint up to EOT when compared to placebo [Figure 1 and Table 1]. The treatment effect was established early and was sustained.
 
 Efficacy of macitentan 10 mg on the primary endpoint was consistent across subgroups of age, sex, ethnic origin, geographical region, aetiology, by monotherapy or in combination with another PAH therapy and by WHO FC (I/II and III/IV).
 
@@ -369,33 +393,35 @@ Figure 1 Kaplan-Meier estimates of the first morbidity-mortality event in SERAPH
 
 <!-- image -->
 
+24
+
 <div style=\"page-break-after: always\"></div>
 
 Table 1: Summary of outcome events
 
-|                                       | Patients with events   | Patients with events       | Treatment comparison: macitentan 10 mg vs placebo   | Treatment comparison: macitentan 10 mg vs placebo   | Treatment comparison: macitentan 10 mg vs placebo   | Treatment comparison: macitentan 10 mg vs placebo   |
-|---------------------------------------|------------------------|----------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-| Endpoints &statistics                 | Placebo (N = 250)      | Macitentan 10 mg (N = 242) | Absolute risk reduction                             | Relative risk reduction (97.5% CI)                  | HR a (97.5% CI)                                     | Logrank p-value                                     |
-| Morbidity- mortality event b          | 53%                    | 37%                        | 16%                                                 | 45% (24%; 61%)                                      | 0.55 (0.39; 0.76)                                   | < 0.0001                                            |
-| Death c n (%)                         | 19 (7.6%)              | 14 (5.8%)                  | 2%                                                  | 36% (-42%; 71%)                                     | 0.64 (0.29; 1.42)                                   | 0.20                                                |
-| Worsening of PAH n (%)                | 93 (37.2%)             | 59 (24.4%)                 | 13%                                                 | 49% (27%; 65%)                                      | 0.51 (0.35; 0.73)                                   | < 0.0001                                            |
-| i.v./s.c. prostanoid initiation n (%) | 6 (2.4%)               | 1 (0.4%)                   | 2%                                                  | 49% (27%; 65%)                                      | 0.51 (0.35; 0.73)                                   | < 0.0001                                            |
+|                                       | Patients with events   | Patients with events     | Treatment comparison: macitentan 10 mg vs placebo   | Treatment comparison: macitentan 10 mg vs placebo   | Treatment comparison: macitentan 10 mg vs placebo   | Treatment comparison: macitentan 10 mg vs placebo   |
+|---------------------------------------|------------------------|--------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
+| Endpoints &statistics                 | Placebo (N=250)        | Macitentan 10 mg (N=242) | Absolute risk reduction                             | Relative risk reduction (97.5% CI)                  | HR a (97.5% CI)                                     | Logrank p-value                                     |
+| Morbidity- mortality event b          | 53%                    | 37%                      | 16%                                                 | 45% (24%; 61%)                                      | 0.55 (0.39; 0.76)                                   | <0.0001                                             |
+| Death c n (%)                         | 19 (7.6%)              | 14 (5.8%)                | 2%                                                  | 36% (-42%; 71%)                                     | 0.64 (0.29; 1.42)                                   | 0.20                                                |
+| Worsening of PAH n (%)                | 93 (37.2%)             | 59 (24.4%)               | 13%                                                 | 49% (27%; 65%)                                      | 0.51 (0.35; 0.73)                                   | <0.0001                                             |
+| i.v./s.c. prostanoid initiation n (%) | 6 (2.4%)               | 1 (0.4%)                 | 2%                                                  | 49% (27%; 65%)                                      | 0.51 (0.35; 0.73)                                   | <0.0001                                             |
 
 The number of deaths of all causes up to EOS on macitentan 10 mg was 35 versus 44 on placebo (HR 0.77; 97.5% CI: 0.46 to 1.28).
 
-The risk of PAH-related death or hospitalisation for PAH up to EOT was reduced by 50% (HR 0.50; 97.5% CI: 0.34 to 0.75; logrank p &lt; 0.0001) in patients receiving macitentan 10 mg (50 events) compared to placebo (84 events). At 36 months, 44.6% of patients on placebo and 29.4% of patients on macitentan 10 mg (Absolute Risk Reduction = 15.2%) had been hospitalised for PAH or died from a PAH-related cause.
+The risk of PAH-related death or hospitalisation for PAH up to EOT was reduced by 50% (HR 0.50; 97.5% CI: 0.34 to 0.75; logrank p&lt; 0.0001) in patients receiving macitentan 10 mg (50 events) compared to placebo (84 events). At 36 months, 44.6% of patients on placebo and 29.4% of patients on macitentan 10 mg (Absolute Risk Reduction = 15.2%) had been hospitalised for PAH or died from a PAH-related cause.
 
 ## Symptomatic endpoints
 
-Exercise capacity was evaluated as a secondary endpoint. Treatment with macitentan 10 mg at Month 6 resulted in a placebo-corrected mean increase in 6MWD of 22 meters (97.5% CI: 3 to 41; p = 0.0078). Evaluation of 6MWD by functional class resulted in a placebo-corrected mean increase from baseline to Month 6 in FC III/IV patients of 37 meters (97.5% CI: 5 to 69) and in FC I/II of 12 meters (97.5% CI:  8 to 33). The increase in 6MWD achieved with macitentan was maintained for the duration of the study.
+Exercise capacity was evaluated as a secondary endpoint. Treatment with macitentan 10 mg at Month 6 resulted in a placebo-corrected mean increase in 6MWD of 22 metres (97.5% CI: 3 to 41; p=0.0078). Evaluation of 6MWD by functional class resulted in a placebo-corrected mean increase from baseline to Month 6 in FC III/IV patients of 37 metres (97.5% CI: 5 to 69) and in FC I/II of 12 metres (97.5% CI:  8 to 33). The increase in 6MWD achieved with macitentan was maintained for the duration of the study.
 
-Treatment with macitentan 10 mg at Month 6 led to a 74% higher chance of WHO FC improvement relative to placebo (risk ratio 1.74; 97.5% CI: 1.10 to 2.74; p = 0.0063).
+Treatment with macitentan 10 mg at Month 6 led to a 74% higher chance of WHO FC improvement relative to placebo (risk ratio 1.74; 97.5% CI: 1.10 to 2.74; p=0.0063).
 
 Macitentan 10 mg improved quality of life assessed by the SF-36 questionnaire.
 
 ## Haemodynamic endpoints
 
-Haemodynamic parameters were assessed in a subset of patients (placebo [N = 67], macitentan 10 mg [N = 57]) after 6 months of treatment. Patients treated with macitentan 10 mg achieved a median reduction of 36.5% (97.5% CI: 21.7 to 49.2%) in pulmonary vascular resistance and an increase of 0.58 L/min/m 2 (97.5% CI: 0.28 to 0.93 L/min/m 2 ) in cardiac index compared to placebo.
+Haemodynamic parameters were assessed in a subset of patients (placebo [N=67], macitentan 10 mg [N=57]) after 6 months of treatment. Patients treated with macitentan 10 mg achieved a median reduction of 36.5% (97.5% CI: 21.7 to 49.2%) in pulmonary vascular resistance and an increase of 0.58 L/min/m 2 (97.5% CI: 0.28 to 0.93 L/min/m 2 ) in cardiac index compared to placebo.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -405,7 +431,7 @@ In long-term follow-up of 242 patients who were treated with macitentan 10 mg in
 
 ## Paediatric population
 
-Efficacy in paediatric population is mainly based in an extrapolation exercise based upon exposure-matching to the adult efficacious dose range given the similarity of the disease in children and adults, as well as on supportive efficacy and safety data from the TOMORROW phase 3 study described below.
+Efficacy in the paediatric population is mainly based in an extrapolation exercise based upon exposure-matching to the adult efficacious dose range given the similarity of the disease in children and adults, as well as on supportive efficacy and safety data from the TOMORROW Phase 3 study described below.
 
 A multi-centre, open-label, randomised, Phase 3 study with an open-label single-arm extension period (TOMORROW) was conducted to assess pharmacokinetics, efficacy and safety of macitentan in paediatric patients with symptomatic PAH.
 
@@ -415,45 +441,47 @@ The key secondary combined endpoint was the time to first Clinical Events Commit
 
 Other secondary endpoints included time to first CEC-confirmed hospitalisation for PAH, time to CEC-confirmed death due to PAH both between randomisation and EOCP, time to all-cause death between randomisation and EOCP, change in WHO FC, and N-terminal prohormone of brain natriuretic peptide (NT-proBNP) data.
 
-## Paediatric population (aged ≥ 2 years to less than 18 years)
+## Paediatric population (aged ≥2 years to less than 18 years)
 
-A total of 148 patients aged ≥ 2 years to &lt; 18 years were randomised 1:1 to receive either macitentan or Standard of Care (SoC). SoC included PAH non-specific treatment and/or up to 2 PAH-specific medications (including another ERA) and excluding macitentan and IV/SC prostanoids. The mean age was 9.8 years (range 2.1 years-17.9 years), with 35 (23.6%) aged ≥ 2 to &lt; 6 years, 61 (41.2%) aged ≥ 6 to &lt; 12 years, and 52 (35.1%) aged ≥ 12 to &lt; 18 years. The majority of patients were white (51.4%) and female (59.5%). Patients were either WHO FC I (25.0%), FC II (56.1%), or FC III (18.9%).
+A total of 148 patients aged ≥2 years to &lt;18 years were randomised 1:1 to receive either macitentan or Standard of Care (SoC). SoC included PAH non-specific treatment and/or up to 2 PAH-specific medications (including another ERA) and excluding macitentan and IV/SC prostanoids. The mean age was 9.8 years (range 2.1 years to 17.9 years), with 35 (23.6%) aged ≥2 to &lt;6 years, 61 (41.2%) aged ≥6 to &lt;12 years, and 52 (35.1%) aged ≥12 to &lt;18 years. The majority of patients were white (51.4%) and female (59.5%). Patients were either WHO FC I (25.0%), FC II (56.1%), or FC III (18.9%).
 
 Idiopathic PAH was the most common aetiology in the study population (48.0%), followed by PAH associated with post-operative congenital heart disease (28.4%), PAH with co-incidental congenital heart disease (17.6%), heritable PAH (4.1%) and PAH associated with connective tissue disease (2.0%). Co-incidental CHD only included typically small coincidental defects such as pre-tricuspid, post-tricuspid shunts, atrial septal defect, ventricular septal defect, patent ductus arteriosus, none considered causative of the degree of PAH.
 
 The mean treatment duration in the randomised study was 183.4 weeks in the macitentan arm and 130.6 weeks in the SoC arm.
 
-Fewer events for the key secondary endpoint of CEC-confirmed disease progression were observed in the macitentan arm (21 events/73 patients, 29%) versus the SoC arm (24 events/75 patients, 32%),
+Fewer events for the key secondary endpoint of CEC-confirmed disease progression were observed in the macitentan arm (21 events/73 patients, 29%) versus the SoC arm (24 events/75 patients, 32%), absolute risk reduction of 3%. The hazard ratio was 0.828 (95% CI 0.460; 1.492; 2-sided stratified
 
 <div style=\"page-break-after: always\"></div>
 
-absolute risk reduction of 3%. The hazard ratio was 0.828 (95% CI 0.460; 1.492; 2-sided stratified p-value = 0.567). The numerical trend towards benefit was mainly driven by the clinical worsening of PAH.
+p-value=0.567). The numerical trend towards benefit was mainly driven by the clinical worsening of PAH.
 
 ## Other secondary efficacy analyses
 
-The same number of events for first-confirmed hospitalisation for PAH were observed in both groups (macitentan 11 vs. SoC 11; adjusted HR=0.912, 95% CI= [0.393; 2.118]). In terms of the time to CEC-confirmed death due to PAH and death from all causes, a total of 7 deaths (6 of which were due to PAH as per CEC) were observed in the macitentan arm compared to 6 deaths (4 of which were due to PAH as per CEC) in the SoC arm.
+The same number of events for first-confirmed hospitalisation for PAH were observed in both groups (macitentan 11 vs. SoC 11; adjusted HR=0.912, 95% CI=[0.393; 2.118]). In terms of the time to CECconfirmed death due to PAH and death from all causes, a total of 7 deaths (6 of which were due to PAH as per CEC) were observed in the macitentan arm compared to 6 deaths (4 of which were due to PAH as per CEC) in the SoC arm.
 
 There was a numerically higher proportion of patients at WHO FC I or II reported at Week 12 in the macitentan arm compared with the SoC arm (88.7% in macitentan arm versus 81.7% in SoC arm) and at Week 24 (90.0% in macitentan arm versus 82.5% in SoC arm).
 
 Macitentan treatment tended to reduce the percent of baseline NT-proBNP (pmol/L) at Week 12 compared with the SoC arm (geometric mean ratio: 0.72; 95% CI: 0.49 to 1.05) but the results were not statistically significant (2-sided p-value of 0.086). The non-significant trend was less pronounced at Week 24 (geometric mean ratio: 0.97;95% CI: 0.66 to 1.43;2-sided p-value of 0.884).
 
-Efficacy results from patients aged ≥ 2 years to less than 18 years were similar to those of adult patients.
+An additional 5 Japanese patients (aged ≥2 years to less than 18 years) were treated with macitentan in the PAH3001 study. PAH3001 was a multi-centre, open-label, single-arm, Phase 3 study in Japanese paediatric participants (between ≥3 months and &lt;15 years of age) with PAH, conducted to assess the pharmacokinetics and efficacy of macitentan. The median age at enrolment was 9 years (range 2 years to 13 years). NT-proBNP median fold change from baseline was 1.81 (range 0.53 to 3.47) at Week 12 and 1.26 (range 0.52 to 1.90) at Week 24. PVRI (pulmonary vascular resistance index) median reduction from baseline at Week 24 was 0.21 WU m 2  (Wood units per square metre) (range reduction of 5 to an increase of 2.84).
 
-## Paediatric population (aged ≥ 1 month to less than 2 years)
+Efficacy results from patients aged ≥2 years to less than 18 years were similar to those of adult patients.
 
-An additional 11 patients, aged ≥ 1 month to less than 2 years old were enroled to receive macitentan without randomisation, 9 patients from the open-label arm of the TOMORROW study and 2 Japanese patients from the PAH3001 study. PAH3001 was a multi-centre, open-label, single-arm, Phase 3 study in Japanese paediatric participants (between ≥ 3 months and &lt; 15 years of age) with PAH, conducted to assess the pharmacokinetics and efficacy of macitentan.
+## Paediatric population (aged ≥1 month to less than 2 years)
 
-At baseline, 6 patients from the TOMORROW study were on PDE5i therapy. At enrolment, the age range of the patients ranged from 1.2 years-1.9 years. Patients were either WHO FC II (4) or FC I (5). PAH associated with congenital heart disease was the most common aetiology (5 patients), followed by idiopathic PAH (4 patients). The initially administered daily dose was 2.5 mg macitentan until the patients reached the 2 years of age. After a median follow-up of 37.3 weeks, none of the patients had experienced a CEC-confirmed disease progression event, a CEC-confirmed hospitalisation for PAH, a CEC-confirmed death due to PAH, or an event of death from all causes. NT-proBNP was reduced by 42.9% (n=6) at Week 12, 53.2% (n=5) at Week 24 and 26.1% (n=6) at Week 36.
+An additional 11 patients, aged ≥1 month to less than 2 years old were enroled to receive macitentan without randomisation, 9 patients from the open-label arm of the TOMORROW study and 2 Japanese patients from the PAH3001 study.
 
-At baseline, 1 Japanese patient from the PAH3001 study was on PDE5i therapy. Both Japanese patients were male and their ages at enrolment were 21 months and 22 months. Both patients were in Panama FC I and II and the leading aetiology was post-operative PAH. At Week 24, a reduction in baseline NT-proBNP levels of -3.894 pmol/L and -16.402 pmol/L was observed.
+At baseline, 6 patients from the TOMORROW study were on PDE5i therapy. At enrolment, the age range of the patients ranged from 1.2 years to 1.9 years. Patients were either WHO FC II (4) or FC I (5). PAH associated with congenital heart disease was the most common aetiology (5 patients), followed by idiopathic PAH (4 patients). The initially administered daily dose was 2.5 mg macitentan until the patients reached 2 years of age. After a median follow-up of 37.3 weeks, none of the patients had experienced a CEC-confirmed disease progression event, a CEC-confirmed hospitalisation for PAH, a CEC-confirmed death due to PAH, or an event of death from all causes. NT-proBNP was reduced by 42.9% (N=6) at Week 12, 53.2% (N=5) at Week 24 and 26.1% (N=6) at Week 36.
+
+At baseline, 1 Japanese patient from the PAH3001 study was on PDE5i therapy. Both Japanese patients were male and their ages at enrolment were 21 months and 22 months. The leading aetiology in both patients was post-operative PAH. The initially administered daily dose was 2.5 mg macitentan until the patients reached 2 years of age. At Week 24, a reduction in baseline NT-proBNP levels of -3.894 pmol/L and -16.402 pmol/L was observed. PVRI reduction from baseline at Week 24 was 2.64 WU m 2 in 1 patient. In the second patient, PVRI reduction from baseline was determined at Week 39 and was 5.39 WU m 2 . Both patients remained stable in Panama FC through Week 52, maintaining their baseline classifications of FC II and FC I, respectively.
 
 Exposure-matching to adult patients was not established in this age group (see sections 4.2 and 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
 The pharmacokinetics of macitentan and its active metabolite have mainly been documented in healthy adult subjects. Exposure to macitentan in patients with PAH was approximately 1.2-fold greater than in healthy subjects. The exposure to the active metabolite in patients, which is approximately 5-fold less potent than macitentan, was approximately 1.3-fold higher than in healthy subjects. The pharmacokinetics of macitentan in PAH patients were not influenced by the severity of the disease.
-
-<div style=\"page-break-after: always\"></div>
 
 After repeated administration, the pharmacokinetics of macitentan are dose-proportional up to and including 30 mg.
 
@@ -465,7 +493,7 @@ In healthy subjects, the exposure to macitentan and its active metabolite is unc
 
 ## Distribution
 
-Macitentan and its active metabolite aprocitentan are highly bound to plasma proteins (&gt; 99%), primarily to albumin and to a lesser extent to alpha1-acid glycoprotein. Macitentan and its active metabolite aprocitentan are well distributed into tissues as indicated by an apparent volume of distribution (Vss/F) of approximately 50 L and 40 L for macitentan and aprocitentan, respectively.
+Macitentan and its active metabolite aprocitentan are highly bound to plasma proteins (&gt;99%), primarily to albumin and to a lesser extent to alpha1-acid glycoprotein. Macitentan and its active metabolite aprocitentan are well distributed into tissues as indicated by an apparent volume of distribution (Vss/F) of approximately 50 L and 40 L for macitentan and aprocitentan, respectively.
 
 ## Biotransformation
 
@@ -483,6 +511,8 @@ Bioequivalence of macitentan 10 mg was established between the film-coated table
 
 There is no clinically relevant effect of age, sex or ethnic origin on the pharmacokinetics of macitentan and its active metabolite.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Renal impairment
 
 Exposure to macitentan and its active metabolite was increased by 1.3- and 1.6-fold, respectively, in adult patients with severe renal impairment. This increase is not considered clinically relevant (see sections 4.2 and 4.4).
@@ -491,15 +521,13 @@ Exposure to macitentan and its active metabolite was increased by 1.3- and 1.6-f
 
 Exposure to macitentan was decreased by 21%, 34%, and 6% and, for the active metabolite by 20%, 25%, and 25% in adult subjects with mild, moderate or severe hepatic impairment, respectively. This decrease is not considered clinically relevant (see sections 4.2 and 4.4).
 
-<div style=\"page-break-after: always\"></div>
+## Paediatric population (aged ≥1 month to less than 18 years)
 
-## Paediatric population (aged ≥ 1 month to less than 18 years)
-
-Pharmacokinetics of macitentan and its active metabolite aprocitentan were characterised in 47 paediatric patients who were ≥ 2 years and in 11 patients who were ≥ 1 month to less than 2 years old.
+Pharmacokinetics of macitentan and its active metabolite aprocitentan were characterised in 52 paediatric patients who were ≥2 years and in 11 patients who were ≥1 month to less than 2 years old. These include 5 and 2 Japanese patients in the respective age categories from the PAH3001 study.
 
 Weight-based dose regimens of macitentan resulted in observed / simulated exposures in paediatric patients aged 2 years to less than 18 years that were comparable to exposures observed in adult PAH patients and healthy subjects who received 10 mg once daily.
 
-Exposures of macitentan comparable to that of adult PAH patients receiving 10 mg once daily were not achieved for the age group of ≥ 1 month to less than 2 years old (see section 4.2).
+Exposures of macitentan comparable to that of adult PAH patients receiving 10 mg once daily were not achieved for the age group of ≥1 month to less than 2 years old (see section 4.2).
 
 ## 5.3 Preclinical safety data
 
@@ -515,11 +543,11 @@ Testicular tubular dilatation was observed in chronic toxicity studies with male
 
 Macitentan was teratogenic in rabbits and rats at all doses tested. In both species there were cardiovascular and mandibular arch fusion abnormalities.
 
+<div style=\"page-break-after: always\"></div>
+
 Administration of macitentan to female rats from late pregnancy through lactation at maternal exposures 5-fold the human exposure, caused reduced pup survival and impairment of the reproductive capability of the offspring, which was exposed to macitentan during late intrauterine life and via the milk during the suckling period.
 
 Treatment of juvenile rats from postnatal Day 4 to Day 114 caused reduced body weight gain leading to secondary effects on development (slight delay of descensus testis, reversible reduction of long-bone length, prolonged estrous cycle). Slightly increased pre- and post-implantation loss, decreased mean number of pups, and decreased testis and epididymis weights, were observed at exposures 7-fold the human exposure. Testicular tubular atrophy, and minimal effects on reproductive variables and sperm morphology were recorded at exposures 3.8-fold the human exposure.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -539,7 +567,7 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Do not store above 30°C.
+Do not store above 30 °C.
 
 ## 6.5 Nature and contents of container
 
@@ -551,17 +579,17 @@ Not all pack sizes may be marketed.
 
 No special requirements.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30 B 2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B 2340 Beerse Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/13/893/001 EU/1/13/893/002
+EU/1/13/893/001
 
-<div style=\"page-break-after: always\"></div>
+EU/1/13/893/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -609,15 +637,15 @@ Posology
 
 Paediatric population (aged ≥ 2 years to less than 18 years)
 
-The recommended daily dose of Opsumit is based on body weight (Table 1). Opsumit should be taken every day at about the same time.
+The recommended daily dose of Opsumit is based on bodyweight (Table 1). Opsumit should be taken every day at about the same time.
 
-Table 1: Dosing regimen based on body weight
+Table 1: Dosing regimen based on bodyweight
 
-| Body weight (kg)   | Daily dose   | Recommended number of tablets to be dispersed   |
-|--------------------|--------------|-------------------------------------------------|
-| ≥ 10 and < 20      | 5 mg         | 2 × 2.5 mg                                      |
-| ≥ 20 and < 40      | 7.5 mg       | 3 × 2.5 mg                                      |
-| ≥ 40               | 10 mg        | 4 × 2.5 mg*                                     |
+| Bodyweight (kg)   | Daily dose   | Recommended number of tablets to be dispersed   |
+|-------------------|--------------|-------------------------------------------------|
+| ≥10 and <20       | 5 mg         | 2 × 2.5 mg                                      |
+| ≥20 and <40       | 7.5 mg       | 3 × 2.5 mg                                      |
+| ≥40               | 10 mg        | 4 × 2.5 mg*                                     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -631,7 +659,7 @@ No dose adjustment is required in patients over the age of 65 years (see section
 
 ## Hepatic impairment
 
-Based on pharmacokinetic (PK) data, no dose adjustment is required in patients with mild, moderate or severe hepatic impairment (see sections 4.4 and 5.2). However, there is no clinical experience with the use of macitentan in PAH patients with moderate or severe hepatic impairment. Opsumit must not be initiated in patients with severe hepatic impairment, or clinically significant elevated hepatic aminotransferases (greater than 3 times the Upper Limit of Normal (&gt; 3 × ULN); see sections 4.3 and 4.4).
+Based on pharmacokinetic (PK) data, no dose adjustment is required in patients with mild, moderate or severe hepatic impairment (see sections 4.4 and 5.2). However, there is no clinical experience with the use of macitentan in PAH patients with moderate or severe hepatic impairment. Opsumit must not be initiated in patients with severe hepatic impairment, or clinically significant elevated hepatic aminotransferases (greater than 3 times the upper limit of normal (&gt;3 × ULN); see sections 4.3 and 4.4).
 
 ## Renal impairment
 
@@ -666,7 +694,7 @@ The prescribed daily dose of dispersible tablet(s) should be placed in a small g
 -  Women of childbearing potential who are not using reliable contraception (see sections 4.4 and 4.6).
 -  Breastfeeding (see section 4.6).
 -  Patients with severe hepatic impairment (with or without cirrhosis) (see section 4.2).
--  Baseline values of hepatic aminotransferases (aspartate aminotransferases (AST) and/or alanine aminotransferases (ALT) &gt; 3 × ULN) (see sections 4.2 and 4.4).
+-  Baseline values of hepatic aminotransferases (aspartate aminotransferases (AST) and/or alanine aminotransferases (ALT) &gt;3 × ULN) (see sections 4.2 and 4.4).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -674,15 +702,15 @@ The benefit/risk balance of macitentan has not been established in patients with
 
 ## Liver function
 
-Elevations of liver aminotransferases (AST, ALT) have been associated with PAH and with endothelin receptor antagonists (ERAs). Opsumit is not to be initiated in patients with severe hepatic impairment or elevated aminotransferases (&gt; 3 × ULN) (see sections 4.2 and 4.3) and is not recommended in patients with moderate hepatic impairment. Liver enzyme tests should be obtained prior to initiation of Opsumit.
+Elevations of liver aminotransferases (AST, ALT) have been associated with PAH and with endothelin receptor antagonists (ERAs). Opsumit is not to be initiated in patients with severe hepatic impairment or elevated aminotransferases (&gt;3 × ULN) (see sections 4.2 and 4.3) and is not recommended in patients with moderate hepatic impairment. Liver enzyme tests should be obtained prior to initiation of Opsumit.
 
-Patients should be monitored for signs of hepatic injury and monthly monitoring of ALT and AST is recommended. If sustained, unexplained, clinically relevant aminotransferase elevations occur, or if elevations are accompanied by an increase in bilirubin &gt; 2 × ULN, or by clinical symptoms of liver injury (e.g., jaundice), Opsumit treatment should be discontinued.
+Patients should be monitored for signs of hepatic injury and monthly monitoring of ALT and AST is recommended. If sustained, unexplained, clinically relevant aminotransferase elevations occur, or if elevations are accompanied by an increase in bilirubin &gt;2 × ULN, or by clinical symptoms of liver injury (e.g., jaundice), Opsumit treatment should be discontinued.
 
 Reinitiation of Opsumit may be considered following the return of hepatic enzyme levels to within the normal range in patients who have not experienced clinical symptoms of liver injury. The advice of a hepatologist is recommended.
 
 ## Haemoglobin concentration
 
-Decrease in haemoglobin concentrations has been associated with endothelin receptor antagonists (ERAs) including macitentan (see section 4.8). In placebo-controlled studies, macitentan-related decreases in haemoglobin concentration were not progressive, stabilised after the first 4-12 weeks of treatment and remained stable during chronic treatment. Cases of anaemia requiring blood cell transfusion have been reported with macitentan and other ERAs. Initiation of Opsumit is not recommended in patients with severe anaemia. It is recommended that haemoglobin concentrations be measured prior to initiation of treatment and tests repeated during treatment as clinically indicated.
+Decrease in haemoglobin concentrations has been associated with endothelin receptor antagonists (ERAs) including macitentan (see section 4.8). In placebo-controlled studies, macitentan-related decreases in haemoglobin concentration were not progressive, stabilised after the first 4 to 12 weeks of treatment and remained stable during chronic treatment. Cases of anaemia requiring blood cell transfusion have been reported with macitentan and other ERAs. Initiation of Opsumit is not recommended in patients with severe anaemia. It is recommended that haemoglobin concentrations be measured prior to initiation of treatment and tests repeated during treatment as clinically indicated.
 
 ## Pulmonary veno-occlusive disease
 
@@ -810,7 +838,7 @@ The most commonly reported adverse reactions in the SERAPHIN study were nasophar
 
 The safety of macitentan has been evaluated in a long-term placebo-controlled trial of 742 adult and adolescent patients with symptomatic PAH (SERAPHIN study). The mean treatment duration was 103.9 weeks in the macitentan 10 mg group, and 85.3 weeks in the placebo group. Adverse reactions associated with macitentan obtained from this clinical study are tabulated below. Post-marketing adverse reactions are also included.
 
-Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data).
+Frequencies are defined as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); not known (cannot be estimated from the available data).
 
 | System organ class                                   | Frequency   | Adverse reaction                                                |
 |------------------------------------------------------|-------------|-----------------------------------------------------------------|
@@ -824,7 +852,7 @@ Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/
 | Blood and lymphatic system disorders                 | Common      | Thrombocytopenia 7                                              |
 | Immune system disorders                              | Uncommon    | Hypersensitivity reactions (e.g., angioedema, pruritus, rash) 1 |
 | Nervous system disorders                             | Very common | Headache                                                        |
-| Vascular disorders                                   | Common      | Hypotension 2 , flushing                                        |
+| Vascular disorders                                   | Common      | Hypotension, 2 flushing                                         |
 | Respiratory, thoracic and mediastinal disorders      | Common      | Nasal congestion 1                                              |
 | Hepatobiliary disorders                              | Common      | Aminotransferase elevations 4                                   |
 | Reproductive system and breast disorders             | Common      | Increased uterine bleeding 8                                    |
@@ -844,19 +872,19 @@ Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/
 
 ## Laboratory abnormalities
 
-## 4  Liver aminotransferases
+## 4 Liver aminotransferases
 
-The incidence of aminotransferase elevations (ALT/AST) &gt; 3 × ULN was 3.4% on macitentan 10 mg and 4.5% on placebo in SERAPHIN, a double-blind study in adult patients with PAH. Elevations &gt; 5 × ULN occurred in 2.5% of patients on macitentan 10 mg versus 2% of patients on placebo.
+The incidence of aminotransferase elevations (ALT/AST) &gt;3 × ULN was 3.4% on macitentan 10 mg and 4.5% on placebo in SERAPHIN, a double-blind study in adult patients with PAH. Elevations &gt;5 × ULN occurred in 2.5% of patients on macitentan 10 mg versus 2% of patients on placebo.
 
-## 5  Haemoglobin
+## 5 Haemoglobin
 
 In SERAPHIN, a double-blind study in adult patients with PAH, macitentan 10 mg was associated with a mean decrease in haemoglobin versus placebo of 1 g/dL. A decrease from baseline in haemoglobin concentration to below 10 g/dL was reported in 8.7% of patients treated with macitentan 10 mg and 3.4% of placebo-treated patients.
 
-## 6  White blood cells
+## 6 White blood cells
 
 In SERAPHIN, a double-blind study in adult patients with PAH, macitentan 10 mg was associated with a decrease in mean leucocyte count from baseline of 0.7 × 10 9 /L versus no change in placebotreated patients.
 
-## 7  Platelets
+## 7 Platelets
 
 In SERAPHIN, a double-blind study in adult patients with PAH, macitentan 10 mg was associated with a decrease in mean platelet count of 17 × 10 9 /L, versus a mean decrease of 11 × 10 9 /L in placebo-treated patients.
 
@@ -866,21 +894,21 @@ Of the 742 patients who participated in the pivotal SERAPHIN double-blind study,
 
 Long-term follow-up of these 550 patients for a median exposure of 3.3 years and a maximum exposure of 10.9 years showed a safety profile that was consistent as described above during the SERAPHIN double-blind phase.
 
-## Paediatric population (aged ≥ 2 years to less than 18 years)
+## Paediatric population (aged ≥2 years to less than 18 years)
 
-The safety of macitentan was evaluated in TOMORROW, a Phase 3 study in paediatric patients with PAH. A total of 72 patients aged ≥ 2 years to less than 18 years were randomised and received Opsumit. The mean age at enrolment was 10.5 years (range 2.1 years-17.9 years). The median duration of treatment in the randomised study was 168.4 weeks (range 12.9 weeks-312.4 weeks) in the Opsumit arm.
+The safety of macitentan was evaluated in TOMORROW, a Phase 3 study in paediatric patients with PAH. A total of 72 patients aged ≥2 years to less than 18 years were randomised and received Opsumit. The mean age at enrolment was 10.5 years (range 2.1 years to 17.9 years). The median duration of treatment in the randomised study was 168.4 weeks (range 12.9 weeks to 312.4 weeks) in the Opsumit arm.
 
 Overall, the safety profile in this paediatric population was consistent with that observed in the adult population. In addition to the adverse reactions tabulated above, the following paediatric adverse reactions were reported: upper respiratory tract infection (31.9%), rhinitis (8.3%), and gastroenteritis (11.1%).
 
-## Paediatric population (aged ≥ 1 month to less than 2 years)
-
-An additional 11 patients, aged ≥ 1 month to less than 2 years old were enroled to receive Opsumit without randomisation, 9 patients from the open-label arm of the TOMORROW study and 2 Japanese patients from the PAH3001 study. At enrolment, the age range of the patients from the TOMORROW study was 1.2 years to 1.9 years and the median duration of treatment was 37.1 weeks (range
+An additional 5 Japanese patients (aged ≥2 years to less than 18 years) were treated with macitentan in the open-label Phase 3 study PAH3001. The median age at enrolment was 9 years (range 2 years to 13 years). The median duration of macitentan treatment in the study was 51.1 weeks (range 50.1 weeks to 52.6 weeks). Overall, the safety profile in this paediatric population was consistent with that observed in the TOMORROW study.
 
 <div style=\"page-break-after: always\"></div>
 
-7.0-72.9 weeks). At enrolment, the ages of the 2 patients from PAH3001 were 21 months and 22 months.
+## Paediatric population (aged ≥1 month to less than 2 years)
 
-Overall, the safety profile in this paediatric population was consistent with that observed in the adult population and paediatric population aged ≥ 2 years to less than 18 years, however, very limited clinical safety data are available to establish a robust safety conclusion in paediatric population below 2 years.
+An additional 11 patients, aged ≥1 month to less than 2 years old, were enroled to receive Opsumit without randomisation, 9 patients from the open-label arm of the TOMORROW study and 2 Japanese patients from the PAH3001 study. At enrolment, the age range of the patients from the TOMORROW study was 1.2 years to 1.9 years and the median duration of treatment was 37.1 weeks (range 7.0 to 72.9 weeks). At enrolment, the ages of the 2 patients from PAH3001 were 21 months and 22 months and the duration of treatment was 52.7 weeks and 51.6 weeks, respectively.
+
+Overall, the safety profile in this paediatric population was consistent with that observed in the adult population and paediatric population aged ≥2 years to less than 18 years, however, very limited clinical safety data are available to establish a robust safety conclusion in the paediatric population below 2 years.
 
 The safety of macitentan in children below 2 years of age has not been established (see section 4.2).
 
@@ -908,61 +936,95 @@ Macitentan is an orally active potent endothelin receptor antagonist, active on 
 
 ## Efficacy in patients with pulmonary arterial hypertension
 
-A multi-centre, double-blind, placebo-controlled, parallel-group, event-driven, Phase 3 outcome study (AC-055-302/SERAPHIN) was conducted in 742 patients with symptomatic PAH, who were randomised to three treatment groups (placebo [N = 250], 3 mg [N = 250] or 10 mg [N = 242] of macitentan once daily), to assess the long-term effect on morbidity or mortality.
-
-At baseline, the majority of enroled patients (64%) were treated with a stable dose of specific therapy for PAH, either oral phosphodiesterase inhibitors (61%) and/or inhaled/oral prostanoids (6%).
+A multi-centre, double-blind, placebo-controlled, parallel-group, event-driven, Phase 3 outcome study (AC-055-302/SERAPHIN) was conducted in 742 patients with symptomatic PAH, who were
 
 <div style=\"page-break-after: always\"></div>
+
+randomised to three treatment groups (placebo [N=250], 3 mg [N=250] or 10 mg [N=242] of macitentan once daily), to assess the long-term effect on morbidity or mortality.
+
+At baseline, the majority of enroled patients (64%) were treated with a stable dose of specific therapy for PAH, either oral phosphodiesterase inhibitors (61%) and/or inhaled/oral prostanoids (6%).
 
 The primary endpoint was the time to first occurrence of a morbidity or mortality event, up to the end of double-blind treatment, defined as death, or atrial septostomy, or lung transplantation, or initiation of intravenous (i.v.) or subcutaneous (s.c.) prostanoids, or other worsening of PAH. Other worsening of PAH was defined as the presence of all of the three following components: a sustained decrease in 6-minute walk distance (6MWD) of at least 15% from baseline; worsening of PAH symptoms (worsening of WHO FC or right heart failure); and need for new treatment for PAH. All events were confirmed by an independent adjudication committee, blinded to treatment allocation.
 
 All patients were followed up to end-of-study (EOS) for vital status. EOS was declared when the predefined number of primary endpoint events was reached. In the period between end-of-treatment (EOT) and EOS, patients could receive open-label macitentan 10 mg or alternative PAH therapy. The overall median double-blind treatment duration was 115 weeks (up to a maximum of 188 weeks on macitentan).
 
-The mean age of all patients was 46 years (range 12-85 years of age, including 20 patients below 18, 706 patients between 18-74 years, and 16 patients aged 75 and older) with the majority of subjects being Caucasian (55%) and female (77%). Approximately 52%, 46%, and 2% of patients were in WHO FC II, III, and IV, respectively.
+The mean age of all patients was 46 years (range 12 to 85 years of age, including 20 patients below 18, 706 patients between 18 to 74 years, and 16 patients aged 75 and older) with the majority of subjects being Caucasian (55%) and female (77%). Approximately 52%, 46%, and 2% of patients were in WHO FC II, III, and IV, respectively.
 
 Idiopathic or heritable PAH was the most common aetiology in the study population (57%), followed by PAH due to connective tissue disorders (31%), PAH associated with corrected simple congenital heart disease (8%), and PAH associated with other aetiologies (medicinal products and toxins [3%] and HIV [1%]).
 
 ## Outcome endpoints
 
-Treatment with macitentan 10 mg resulted in a 45% risk reduction (hazard ratio [HR] 0.55; 97.5% CI: 0.39 to 0.76; logrank p &lt; 0.0001) of the composite morbidity-mortality endpoint up to EOT when compared to placebo [Figure 1 and Table 2]. The treatment effect was established early and was sustained.
+Treatment with macitentan 10 mg resulted in a 45% risk reduction (hazard ratio [HR] 0.55; 97.5% CI: 0.39 to 0.76; logrank p&lt; 0.0001) of the composite morbidity-mortality endpoint up to EOT when compared to placebo [Figure 1 and Table 2]. The treatment effect was established early and was sustained.
 
 Efficacy of macitentan 10 mg on the primary endpoint was consistent across subgroups of age, sex, ethnic origin, geographical region, aetiology, by monotherapy or in combination with another PAH therapy and by WHO FC (I/II and III/IV).
 
 <div style=\"page-break-after: always\"></div>
 
+Kaplan-Meier estimates of the first morbidity-mortality event in SERAPHI
+
+100
+
+80
+
+60-
+
+40 -
+
+20-
+
+OPSUMIT 10 mg
+
+Placebo
+
 Figure 1 Kaplan-Meier estimates of the first morbidity-mortality event in SERAPHIN
+
+Logrank p-value: &lt;0.0001
+
+6
+
+Number at risk
+
+OPSUMIT 10 mg 242
 
 <!-- image -->
 
+Placebo 250
+
+208
+
+188
+
 Table 2: Summary of outcome events
 
-|                                       | Patients with events   | Patients with events       | Treatment comparison: macitentan 10 mg vs placebo   | Treatment comparison: macitentan 10 mg vs placebo   | Treatment comparison: macitentan 10 mg vs placebo   | Treatment comparison: macitentan 10 mg vs placebo   |
-|---------------------------------------|------------------------|----------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-| Endpoints& statistics                 | Placebo (N = 250)      | Macitentan 10 mg (N = 242) | Absolute risk reduction                             | Relative risk reduction (97.5% CI)                  | HR a (97.5% CI)                                     | Logrank p-value                                     |
-| Morbidity- mortality event b          | 53%                    | 37%                        | 16%                                                 | 45% (24%; 61%)                                      | 0.55 (0.39; 0.76)                                   | < 0.0001                                            |
-| Death c n (%)                         | 19 (7.6%)              | 14 (5.8%)                  | 2%                                                  | 36% (-42%; 71%)                                     | 0.64 (0.29; 1.42)                                   | 0.20                                                |
-| Worsening of PAH n (%)                | 93 (37.2%)             | 59 (24.4%)                 | 13%                                                 | 49% (27%; 65%)                                      | 0.51 (0.35; 0.73)                                   | < 0.0001                                            |
-| i.v./s.c. prostanoid initiation n (%) | 6 (2.4%)               | 1 (0.4%)                   | 2%                                                  | 49% (27%; 65%)                                      | 0.51 (0.35; 0.73)                                   | < 0.0001                                            |
+|                                       | Patients with events   | Patients with events     | Treatment comparison: macitentan 10 mg vs placebo   | Treatment comparison: macitentan 10 mg vs placebo   | Treatment comparison: macitentan 10 mg vs placebo   | Treatment comparison: macitentan 10 mg vs placebo   |
+|---------------------------------------|------------------------|--------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
+| Endpoints& statistics                 | Placebo (N=250)        | Macitentan 10 mg (N=242) | Absolute risk reduction                             | Relative risk reduction (97.5% CI)                  | HR a (97.5% CI)                                     | Logrank p-value                                     |
+| Morbidity- mortality event b          | 53%                    | 37%                      | 16%                                                 | 45% (24%; 61%)                                      | 0.55 (0.39; 0.76)                                   | <0.0001                                             |
+| Death c n (%)                         | 19 (7.6%)              | 14 (5.8%)                | 2%                                                  | 36% (-42%; 71%)                                     | 0.64 (0.29; 1.42)                                   | 0.20                                                |
+| Worsening of PAH n (%)                | 93 (37.2%)             | 59 (24.4%)               | 13%                                                 | 49% (27%; 65%)                                      | 0.51 (0.35; 0.73)                                   | <0.0001                                             |
+| i.v./s.c. prostanoid initiation n (%) | 6 (2.4%)               | 1 (0.4%)                 | 2%                                                  | 49% (27%; 65%)                                      | 0.51 (0.35; 0.73)                                   | <0.0001                                             |
 
 The number of deaths of all causes up to EOS on macitentan 10 mg was 35 versus 44 on placebo (HR 0.77; 97.5% CI: 0.46 to 1.28).
 
-The risk of PAH-related death or hospitalisation for PAH up to EOT was reduced by 50% (HR 0.50; 97.5% CI: 0.34 to 0.75; logrank p &lt; 0.0001) in patients receiving macitentan 10 mg (50 events) compared to placebo (84 events). At 36 months, 44.6% of patients on placebo and 29.4% of patients
+The risk of PAH-related death or hospitalisation for PAH up to EOT was reduced by 50% (HR 0.50; 97.5% CI: 0.34 to 0.75; logrank p&lt; 0.0001) in patients receiving macitentan 10 mg (50 events)
+
+% patients event free (Kaplan-Meier)
 
 <div style=\"page-break-after: always\"></div>
 
-on macitentan 10 mg (Absolute Risk Reduction = 15.2%) had been hospitalised for PAH or died from a PAH-related cause.
+compared to placebo (84 events). At 36 months, 44.6% of patients on placebo and 29.4% of patients on macitentan 10 mg (Absolute Risk Reduction = 15.2%) had been hospitalised for PAH or died from a PAH-related cause.
 
 ## Symptomatic endpoints
 
-Exercise capacity was evaluated as a secondary endpoint. Treatment with macitentan 10 mg at Month 6 resulted in a placebo-corrected mean increase in 6MWD of 22 meters (97.5% CI: 3 to 41; p = 0.0078). Evaluation of 6MWD by functional class resulted in a placebo-corrected mean increase from baseline to Month 6 in FC III/IV patients of 37 meters (97.5% CI: 5 to 69) and in FC I/II of 12 meters (97.5% CI:  8 to 33). The increase in 6MWD achieved with macitentan was maintained for the duration of the study.
+Exercise capacity was evaluated as a secondary endpoint. Treatment with macitentan 10 mg at Month 6 resulted in a placebo-corrected mean increase in 6MWD of 22 metres (97.5% CI: 3 to 41; p=0.0078). Evaluation of 6MWD by functional class resulted in a placebo-corrected mean increase from baseline to Month 6 in FC III/IV patients of 37 metres (97.5% CI: 5 to 69) and in FC I/II of 12 metres (97.5% CI:  8 to 33). The increase in 6MWD achieved with macitentan was maintained for the duration of the study.
 
-Treatment with macitentan 10 mg at Month 6 led to a 74% higher chance of WHO FC improvement relative to placebo (risk ratio 1.74; 97.5% CI: 1.10 to 2.74; p = 0.0063).
+Treatment with macitentan 10 mg at Month 6 led to a 74% higher chance of WHO FC improvement relative to placebo (risk ratio 1.74; 97.5% CI: 1.10 to 2.74; p=0.0063).
 
 Macitentan 10 mg improved quality of life assessed by the SF-36 questionnaire.
 
 ## Haemodynamic endpoints
 
-Haemodynamic parameters were assessed in a subset of patients (placebo [N = 67], macitentan 10 mg [N = 57]) after 6 months of treatment. Patients treated with macitentan 10 mg achieved a median reduction of 36.5% (97.5% CI: 21.7 to 49.2%) in pulmonary vascular resistance and an increase of 0.58 L/min/m 2 (97.5% CI: 0.28 to 0.93 L/min/m 2 ) in cardiac index compared to placebo.
+Haemodynamic parameters were assessed in a subset of patients (placebo [N=67], macitentan 10 mg [N=57]) after 6 months of treatment. Patients treated with macitentan 10 mg achieved a median reduction of 36.5% (97.5% CI: 21.7 to 49.2%) in pulmonary vascular resistance and an increase of 0.58 L/min/m 2 (97.5% CI: 0.28 to 0.93 L/min/m 2 ) in cardiac index compared to placebo.
 
 ## Long-term data in PAH
 
@@ -970,11 +1032,11 @@ In long-term follow-up of 242 patients who were treated with macitentan 10 mg in
 
 ## Paediatric population
 
-Efficacy in paediatric population is mainly based in an extrapolation exercise based upon exposurematching to the adult efficacious dose range given the similarity of the disease in children and adults, as well as on supportive efficacy and safety data from the TOMORROW phase 3 study described below.
+Efficacy in the paediatric population is mainly based in an extrapolation exercise based upon exposure-matching to the adult efficacious dose range given the similarity of the disease in children and adults, as well as on supportive efficacy and safety data from the TOMORROW Phase 3 study described below.
 
 A multi-centre, open-label, randomised, Phase 3 study with an open-label single-arm extension period (TOMORROW) was conducted to assess pharmacokinetics, efficacy and safety of macitentan in paediatric patients with symptomatic PAH.
 
-## The primary endpoint was the characterisation of pharmacokinetics (see section 5.2).
+The primary endpoint was the characterisation of pharmacokinetics (see section 5.2).
 
 The key secondary combined endpoint was the time to first Clinical Events Committee (CEC) confirmed disease progression occurring between randomisation and the end of the core period (EOCP) visit defined as, deaths (all causes), or atrial septostomy or Potts' anastomosis, or registration on lung transplant list, or hospitalisation due to worsening PAH or clinical worsening of PAH. Clinical worsening of PAH was defined as: need for, or initiation of new PAH-specific therapy or IV diuretics or continuous oxygen use AND at least 1 of the following: worsening in WHO FC, or new occurrence or worsening of syncope, or new occurrence or worsening of at least 2 PAH symptoms or new occurrence or worsening of signs of right heart failure not responding to oral diuretics.
 
@@ -984,35 +1046,37 @@ Other secondary endpoints included time to first CEC-confirmed hospitalisation f
 
 between randomisation and EOCP, change in WHO FC, and N-terminal prohormone of brain natriuretic peptide (NT-proBNP) data.
 
-## Paediatric population (aged ≥ 2 years to less than 18 years)
+## Paediatric population (aged ≥2 years to less than 18 years)
 
-A total of 148 patients aged ≥ 2 years to &lt; 18 years were randomised 1:1 to receive either macitentan or Standard of Care (SoC). SoC included PAH non-specific treatment and/or up to 2 PAH-specific medications (including another ERA) and excluding macitentan and IV/SC prostanoids. The mean age was 9.8 years (range 2.1 years-17.9 years), with 35 (23.6%) aged ≥ 2 to &lt;6 years, 61 (41.2%) aged ≥ 6 to &lt; 12 years, and 52 (35.1%) aged ≥ 12 to &lt; 18 years. The majority of patients were white (51.4%) and female (59.5%). Patients were either WHO FC I (25.0%), FC II (56.1%), or FC III (18.9%).
+A total of 148 patients aged ≥2 years to &lt;18 years were randomised 1:1 to receive either macitentan or Standard of Care (SoC). SoC included PAH non-specific treatment and/or up to 2 PAH-specific medications (including another ERA) and excluding macitentan and IV/SC prostanoids. The mean age was 9.8 years (range 2.1 years to 17.9 years), with 35 (23.6%) aged ≥2 to &lt;6 years, 61 (41.2%) aged ≥6 to &lt;12 years, and 52 (35.1%) aged ≥12 to &lt;18 years. The majority of patients were white (51.4%) and female (59.5%). Patients were either WHO FC I (25.0%), FC II (56.1%), or FC III (18.9%).
 
 Idiopathic PAH was the most common aetiology in the study population (48.0%), followed by PAH associated with post-operative congenital heart disease (28.4%), PAH with co-incidental congenital heart disease (17.6%), heritable PAH (4.1%) and PAH associated with connective tissue disease (2.0%). Co-incidental CHD only included typically small coincidental defects such as pre-tricuspid, post-tricuspid shunts, atrial septal defect, ventricular septal defect, patent ductus arteriosus, none considered causative of the degree of PAH.
 
 The mean treatment duration in the randomised study was 183.4 weeks in the macitentan arm and 130.6 weeks in the SoC arm.
 
-Fewer events for the key secondary endpoint of CEC-confirmed disease progression were observed in the macitentan arm (21 events/73 patients, 29%) versus the SoC arm (24 events/75 patients, 32%), absolute risk reduction of 3%. The hazard ratio was 0.828 (95% CI 0.460; 1.492; 2-sided stratified p-value = 0.567). The numerical trend towards benefit was mainly driven by the clinical worsening of PAH.
+Fewer events for the key secondary endpoint of CEC-confirmed disease progression were observed in the macitentan arm (21 events/73 patients, 29%) versus the SoC arm (24 events/75 patients, 32%), absolute risk reduction of 3%. The hazard ratio was 0.828 (95% CI 0.460; 1.492; 2-sided stratified p-value=0.567). The numerical trend towards benefit was mainly driven by the clinical worsening of PAH.
 
 ## Other secondary efficacy analyses
 
-The same number of events for first-confirmed hospitalisation for PAH were observed in both groups (macitentan 11 vs. SoC 11; adjusted HR=0.912, 95% CI= [0.393; 2.118]). In terms of the time to CEC-confirmed death due to PAH and death from all causes, a total of 7 deaths (6 of which were due to PAH as per CEC) were observed in the macitentan arm compared to 6 deaths (4 of which were due to PAH as per CEC) in the SoC arm.
+The same number of events for first-confirmed hospitalisation for PAH were observed in both groups (macitentan 11 vs. SoC 11; adjusted HR=0.912, 95% CI=[0.393; 2.118]). In terms of the time to CEC-confirmed death due to PAH and death from all causes, a total of 7 deaths (6 of which were due to PAH as per CEC) were observed in the macitentan arm compared to 6 deaths (4 of which were due to PAH as per CEC) in the SoC arm.
 
 There was a numerically higher proportion of patients at WHO FC I or II reported at Week 12 in the macitentan arm compared with the SoC arm (88.7% in macitentan arm versus 81.7% in SoC arm) and at Week 24 (90.0% in macitentan arm versus 82.5% in SoC arm).
 
 Macitentan treatment tended to reduce the percent of baseline NT-proBNP (pmol/L) at Week 12 compared with the SoC arm (geometric mean ratio: 0.72; 95% CI: 0.49 to 1.05) but the results were not statistically significant (2-sided p-value of 0.086). The non-significant trend was less pronounced at Week 24 (geometric mean ratio: 0.97;95% CI: 0.66 to 1.43;2-sided p-value of 0.884).
 
-Efficacy results from patients aged ≥ 2 years to less than 18 years were similar to those of adult patients.
+An additional 5 Japanese patients (aged ≥2 years to less than 18 years) were treated with macitentan in the PAH3001 study. PAH3001 was a multi-centre, open-label, single-arm, Phase 3 study in Japanese paediatric participants (between ≥3 months and &lt;15 years of age) with PAH, conducted to assess the pharmacokinetics and efficacy of macitentan. The median age at enrolment was 9 years (range 2 years to 13 years). NT-proBNP median fold change from baseline was 1.81 (range 0.53 to 3.47) at Week 12 and 1.26 (range 0.52 to 1.90) at Week 24. PVRI (pulmonary vascular resistance index) median reduction from baseline at Week 24 was 0.21 WU m 2  (Wood units per square metre) (range reduction of 5 to an increase of 2.84).
 
-## Paediatric population (aged ≥ 1 month to less than 2 years)
-
-An additional 11 patients, aged ≥ 1 month to less than 2 years old were enroled to receive macitentan without randomisation, 9 patients from the open-label arm of the TOMORROW study and 2 Japanese patients from the PAH3001 study. PAH3001 was a multi-centre, open-label, single-arm, Phase 3 study in Japanese paediatric participants (between ≥ 3 months and &lt; 15 years of age) with PAH, conducted to assess the pharmacokinetics and efficacy of macitentan.
+Efficacy results from patients aged ≥2 years to less than 18 years were similar to those of adult patients.
 
 <div style=\"page-break-after: always\"></div>
 
-At baseline, 6 patients from the TOMORROW study were on PDE5i therapy. At enrolment, the age range of the patients ranged from 1.2 years-1.9 years. Patients were either WHO FC II (4) or FC I (5). PAH associated with congenital heart disease was the most common aetiology (5 patients), followed by idiopathic PAH (4 patients). The initially administered daily dose was 2.5 mg macitentan until the patients reached the 2 years of age. After a median follow-up of 37.3 weeks, none of the patients had experienced a CEC-confirmed disease progression event, a CEC-confirmed hospitalisation for PAH, a CEC-confirmed death due to PAH, or an event of death from all causes. NT-proBNP was reduced by 42.9% (n=6) at Week 12, 53.2% (n=5) at Week 24 and 26.1% (n=6) at Week 36.
+## Paediatric population (aged ≥1 month to less than 2 years)
 
-At baseline, 1 Japanese patient from the PAH3001 study was on PDE5i therapy. Both Japanese patients were male and their ages at enrolment were 21 months and 22 months. Both patients were in Panama FC I and II and the leading aetiology was post-operative PAH. At Week 24, a reduction in baseline NT-proBNP levels of -3.894 pmol/L and -16.402 pmol/L was observed.
+An additional 11 patients, aged ≥1 month to less than 2 years old were enroled to receive macitentan without randomisation, 9 patients from the open-label arm of the TOMORROW study and 2 Japanese patients from the PAH3001 study.
+
+At baseline, 6 patients from the TOMORROW study were on PDE5i therapy. At enrolment, the age range of the patients ranged from 1.2 years to 1.9 years. Patients were either WHO FC II (4) or FC I (5). PAH associated with congenital heart disease was the most common aetiology (5 patients), followed by idiopathic PAH (4 patients). The initially administered daily dose was 2.5 mg macitentan until the patients reached 2 years of age. After a median follow-up of 37.3 weeks, none of the patients had experienced a CEC-confirmed disease progression event, a CEC-confirmed hospitalisation for PAH, a CEC-confirmed death due to PAH, or an event of death from all causes. NT-proBNP was reduced by 42.9% (N=6) at Week 12, 53.2% (N=5) at Week 24 and 26.1% (N=6) at Week 36.
+
+At baseline, 1 Japanese patient from the PAH3001 study was on PDE5i therapy. Both Japanese patients were male and their ages at enrolment were 21 months and 22 months. The leading aetiology in both patients was post-operative PAH. The initially administered daily dose was 2.5 mg macitentan until the patients reached 2 years of age. At Week 24, a reduction in baseline NT-proBNP levels of -3.894 pmol/L and -16.402 pmol/L was observed. PVRI reduction from baseline at Week 24 was 2.64 WU m 2 in 1 patient. In the second patient, PVRI reduction from baseline was determined at Week 39 and was 5.39 WU m 2 . Both patients remained stable in Panama FC through Week 52, maintaining their baseline classifications of FC II and FC I, respectively.
 
 Exposure-matching to adult patients was not established in this age group (see sections 4.2 and 5.2).
 
@@ -1030,13 +1094,13 @@ In healthy adult subjects, the exposure to macitentan and its active metabolite 
 
 ## Distribution
 
-Macitentan and its active metabolite aprocitentan are highly bound to plasma proteins (&gt; 99%), primarily to albumin and to a lesser extent to alpha1-acid glycoprotein. Macitentan and its active metabolite aprocitentan are well distributed into tissues as indicated by an apparent volume of distribution (Vss/F) of approximately 50 L and 40 L for macitentan and aprocitentan, respectively.
+Macitentan and its active metabolite aprocitentan are highly bound to plasma proteins (&gt;99%), primarily to albumin and to a lesser extent to alpha1-acid glycoprotein. Macitentan and its active metabolite aprocitentan are well distributed into tissues as indicated by an apparent volume of distribution (Vss/F) of approximately 50 L and 40 L for macitentan and aprocitentan, respectively.
 
 ## Biotransformation
 
-Macitentan has four primary metabolic pathways. Oxidative depropylation of the sulfamide yields a pharmacologically active metabolite aprocitentan. This reaction is dependent on the cytochrome P450 system, mainly CYP3A4 (approximately 99%) with minor contributions of CYP2C8, CYP2C9 and CYP2C19. The active metabolite circulates in human plasma and may contribute to the pharmacological effect. Other metabolic pathways yield products without pharmacological activity. For these pathways, CYP2C9 plays a predominant role with minor contributions from CYP2C8, CYP2C19 and CYP3A4.
-
 <div style=\"page-break-after: always\"></div>
+
+Macitentan has four primary metabolic pathways. Oxidative depropylation of the sulfamide yields a pharmacologically active metabolite aprocitentan. This reaction is dependent on the cytochrome P450 system, mainly CYP3A4 (approximately 99%) with minor contributions of CYP2C8, CYP2C9 and CYP2C19. The active metabolite circulates in human plasma and may contribute to the pharmacological effect. Other metabolic pathways yield products without pharmacological activity. For these pathways, CYP2C9 plays a predominant role with minor contributions from CYP2C8, CYP2C19 and CYP3A4.
 
 ## Elimination
 
@@ -1058,25 +1122,25 @@ Exposure to macitentan and its active metabolite was increased by 1.3- and 1.6-f
 
 Exposure to macitentan was decreased by 21%, 34%, and 6% and, for the active metabolite by 20%, 25%, and 25% in adult subjects with mild, moderate or severe hepatic impairment, respectively. This decrease is not considered clinically relevant (see sections 4.2 and 4.4).
 
-## Paediatric population (aged ≥ 1 month to less than 18 years)
+## Paediatric population (aged ≥1 month to less than 18 years)
 
-Pharmacokinetics of macitentan and its active metabolite aprocitentan were characterised in 47 paediatric patients who were ≥ 2 years and in 11 patients who were ≥ 1 month to less than 2 years old.
+Pharmacokinetics of macitentan and its active metabolite aprocitentan were characterised in 52 paediatric patients who were ≥2 years and in 11 patients who were ≥1 month to less than 2 years old. These include 5 and 2 Japanese patients in the respective age categories from the PAH3001 study.
 
 Weight-based dose regimens of macitentan resulted in observed / simulated exposures in paediatric patients aged 2 years to less than 18 years that were comparable to exposures observed in adult PAH patients and healthy subjects who received 10 mg once daily.
 
-Exposures of macitentan comparable to that of adult PAH patients receiving 10 mg once daily were not achieved for the age group of ≥ 1 month to less than 2 years old (see section 4.2).
+Exposures of macitentan comparable to that of adult PAH patients receiving 10 mg once daily were not achieved for the age group of ≥1 month to less than 2 years old (see section 4.2).
 
 ## 5.3 Preclinical safety data
 
 In dogs, macitentan decreased blood pressure at exposures similar to the therapeutic human exposure. Intimal thickening of coronary arteries was observed at 17-fold the human exposure after 4 to 39 weeks of treatment. Due to the species-specific sensitivity and the safety margin, this finding is considered not relevant for humans.
+
+<div style=\"page-break-after: always\"></div>
 
 Increased liver weight and hepatocellular hypertrophy were observed in mice, rats and dogs after treatment with macitentan. These changes were largely reversible and considered non-adverse adaptations of the liver to increased metabolic demand.
 
 Macitentan induced minimal to slight mucosal hyperplasia and inflammatory infiltration in the submucosa of the nasal cavity in the mouse carcinogenicity study at all doses. No nasal cavity findings were noted in the 3-month mouse toxicity study or in rat and dog studies.
 
 Macitentan was not genotoxic in a standard battery of in vitro and in vivo assays. Macitentan was not phototoxic in vivo after single dose at exposures of up to 24-fold the human exposure. Carcinogenicity studies of 2 years' duration did not reveal a carcinogenic potential at exposures 18-fold and 116-fold the human exposure in rats and mice, respectively.
-
-<div style=\"page-break-after: always\"></div>
 
 Testicular tubular dilatation was observed in chronic toxicity studies with male rats and dogs with safety margins of 11.6 and 5.8, respectively. Tubular dilatation was fully reversible. After 2 years of treatment, testicular tubular atrophy was seen in rats at 4-fold the human exposure. Hypospermatogenesis was observed in the life-long carcinogenicity study in rats and in the repeat-dose toxicity studies in dogs at exposures that provide safety margins of 9.7 in rats and 23 in dogs. The safety margins for fertility were 18 for male and 44 for female rats. No testicular findings were noted in mice after treatment up to 2 years.
 
@@ -1104,13 +1168,13 @@ Not applicable.
 
 Store in original package to protect from moisture.
 
+<div style=\"page-break-after: always\"></div>
+
 This medicinal product does not require any special temperature storage conditions.
 
 ## 6.5 Nature and contents of container
 
 30 x 1 dispersible tablets in Alu/Alu perforated unit dose blisters consisting of an aluminium cold form film with integrated desiccant and an aluminium push through lidding foil.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -1120,7 +1184,9 @@ Hands must be thoroughly washed and dried before and after preparation of the me
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV Turnhoutseweg 30 B 2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B 2340 Beerse
+
+Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1194,7 +1260,7 @@ The MAH shall ensure that in each Member State where Opsumit is marketed, all pa
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON for BLISTERS
+OUTER CARTON for BLISTERS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1243,7 +1309,9 @@ Do not store above 30°C.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV Turnhoutseweg 30 B 2340 Beerse Belgium
+Janssen-Cilag International NV
+
+Turnhoutseweg 30 B 2340 Beerse Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1317,7 +1385,7 @@ Store in original package to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1727,7 +1795,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
 ## България
 
@@ -1743,7 +1811,7 @@ Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Eesti
 
@@ -1775,7 +1843,7 @@ UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
 
 ## Magyarország
 
@@ -1789,7 +1857,7 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 ## Norge
 
@@ -2150,7 +2218,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
 ## Lietuva
 
@@ -2162,7 +2230,7 @@ UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
 
 ## Česká republika
 
@@ -2172,9 +2240,7 @@ Tel: +420 227 012 227
 
 ## Magyarország
 
-Janssen-Cilag Kft. Tel.: +36 1 884 2858
-
-janssenhu@its.jnj.com
+Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
 
 ## Danmark
 
@@ -2188,13 +2254,11 @@ Tel: +356 2397 6000
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
-Nederland
+## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111
-
-janssen@jacnl.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
 

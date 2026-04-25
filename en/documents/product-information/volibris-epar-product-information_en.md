@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-05-02 09:38:56
+document_datetime: 2026-04-22 15:35:10
 document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/volibris-epar-product-information_en.pdf
 document_name: volibris-epar-product-information_en.pdf
 version: success
-processing_time: 9.2276667
-conversion_datetime: 2025-12-22 13:35:38.078799
+processing_time: 10.1346107
+conversion_datetime: 2026-04-25 16:04:18.941745
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -60,15 +60,15 @@ Film-coated tablet (tablet)
 
 ## Volibris 2.5 mg film-coated tablets
 
-White, 7 mm round, convex, film-coated tablet with 'GS' debossed on one side and 'K11' on the other side.
+White, 7 mm round, convex, film-coated tablet with 'GS' debossed on one side and 'K 11 ' on the other side.
 
 ## Volibris 5 mg film-coated tablets
 
-Pale-pink, 6.6 mm square, convex, film-coated tablet with 'GS' debossed on one side and 'K2C' on the other side.
+Pale-pink, 6.6 mm square, convex, filmcoated tablet with 'GS' debossed on one side and 'K2C' on the other side.
 
 ## Volibris 10 mg film-coated tablets
 
-Deep-pink, 9.8 mm × 4.9 mm oval, convex, film-coated tablet with 'GS' debossed on one side and 'KE3' on the other side.
+Deep-pink, 9.8 mm × 4.9 mm oval, convex, filmcoated tablet with 'GS' debossed on one side and 'KE3' on the other side.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -86,7 +86,7 @@ Treatment must be initiated by a physician experienced in the treatment of PAH.
 
 Posology
 
-Adults
+## Adults
 
 Ambrisentan monotherapy
 
@@ -205,9 +205,7 @@ Patients on ambrisentan therapy should be closely monitored when starting treatm
 
 ## Excipients
 
-## Volibris 2.5 mg, 5 mg and 10 mg film-coated tablets
-
-## Lactose
+## Volibris 2.5 mg, 5 mg and 10 mg film-coated tablets Lactose
 
 This medicinal product contains lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
@@ -217,7 +215,7 @@ This medicinal product contains lecithin derived from soya. If a patient is hype
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## Volibris 5 mg and 10 mg film-coated tablets
 
@@ -349,7 +347,7 @@ Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt;1/1
 | General disorders and administration site conditions | Very common   | Peripheral oedema, fluid retention, chest pain/discomfort 5 , fatigue    |
 | General disorders and administration site conditions | Common        | Asthenia                                                                 |
 
-- 1 See section ' Description of selected adverse reactions '.
+- 1 See section ' Description of selected adverse reactions ' .
 - 2 The frequency of headache appeared higher with 10 mg ambrisentan.
 - 3 Cases were only observed in a placebo-controlled clinical study of ambrisentan in combination with tadalafil.
 - 4 Most of the reported cases of cardiac failure were associated with fluid retention.
@@ -432,7 +430,11 @@ A multi-centre, double-blind, active comparator, event-driven, Phase 3 outcome s
 
 <div style=\"page-break-after: always\"></div>
 
-was combination group vs. pooled monotherapy groups. Supportive comparisons of combination therapy group vs. the individual monotherapy groups were also made. Patients with significant anaemia, fluid retention or rare retinal diseases were excluded according to the investigators' criteria. Patients with ALT and AST values &gt;2xULN at baseline were also excluded.
+Combination:
+
+100 - was combination group vs. pooled monotherapy groups. Supportive comparisons of combination therapy group vs. the individual monotherapy groups were also made. Patients with significant anaemia, fluid retention or rare retinal diseases were excluded according to the investigators' criteria. Patients with ALT and AST values &gt;2xULN at baseline were also excluded.
+
+2 year 63.2%
 
 At baseline, 96% of patients were naive to any previous PAH-specific treatment, and the median time from diagnosis to entry into the study was 22 days. Patients started on ambrisentan 5 mg and tadalafil 20 mg, and were titrated to 40 mg tadalafil at week 4 and 10 mg ambrisentan at week 8, unless there were tolerability issues. The median double-blind treatment duration for combination therapy was greater than 1.5 years.
 
@@ -440,20 +442,30 @@ The primary endpoint was the time to first occurrence of a clinical failure even
 
 - -death, or
 - -hospitalisation for worsening PAH,
+
+36
+
 - -disease progression;
+
+25
+
 - -unsatisfactory long-term clinical response.
 
-The mean age of all patients was 54 years (SD 15; range 18-75 years of age). Patients WHO FC at baseline was II (31%) and FC III (69%). Idiopathic or heritable PAH was the most common aetiology in the study population (56%), followed by PAH due to connective tissue disorders (37%), PAH associated with drugs and toxins (3%), corrected simple congenital heart disease (2%), and HIV (2%). Patients with WHO FC II and III had a mean baseline 6MWD of 353 m.
+The mean age of all patients was 54 years (SD 15; range 18 -75 years of age). Patients WHO FC at baseline was II (31%) and FC III (69%). Idiopathic or heritable PAH was the most common aetiology in the study population (56%), followed by PAH due to connective tissue disorders (37%), PAH associated with drugs and toxins (3%), corrected simple congenital heart disease (2%), and HIV (2%). Patients with WHO FC II and III had a mean baseline 6MWD of 353 m.
 
 ## Outcome endpoints
 
 Treatment with combination therapy resulted in a 50% risk reduction (hazard ratio [HR] 0.502; 95% CI: 0.348 to 0.724; p= 0.0002) of the composite clinical failure endpoint up to final assessment visit when compared to the pooled monotherapy group [Figure 1 and Table 1]. The treatment effect was driven by a 63% reduction in hospitalisations on combination therapy, was established early and was sustained. Efficacy of combination therapy on the primary endpoint was consistent on the comparison to individual monotherapy and across the subgroups of age, ethnic origin, geographical region, aetiology (IPAH /hPAH and PAH-CTD). The effect was significant for both FC II and FC III patients.
 
-Figure 1
-
-## Time to clinical failure
+## Figure 1
 
 <!-- image -->
+
+4
+
+5
+
+Time to clinical failure
 
 <div style=\"page-break-after: always\"></div>
 
@@ -484,8 +496,8 @@ Table 2
 | Secondary endpoints (change from baseline to week 24)           |   Ambrisentan + tadalafil |   Monotherapy pooled | Difference and confidence interval      | p value   |
 |-----------------------------------------------------------------|---------------------------|----------------------|-----------------------------------------|-----------|
 | NT-proBNP (% reduction)                                         |                     -67.2 |                -50.4 | %difference -33.8; 95% CI: -44.8, -20.7 | P< 0.0001 |
-| %subjects achieving a satisfactory clinical response at week 24 |                      39   |                 29   | Odds ratio 1.56; 95% CI: 1.05, 2.32     | p= 0.026  |
-| 6MWD(m, median change)                                          |                      49   |                 23.8 | 22.75 m; 95% CI: 12.00, 33.50           | p< 0.0001 |
+| %subjects achieving a satisfactory clinical response at week 24 |                        39 |                   29 | Odds ratio 1.56; 95% CI: 1.05, 2.32     | p= 0.026  |
+| 6MWD(m, median change)                                          |                      49.0 |                 23.8 | 22.75 m; 95% CI: 12.00, 33.50           | p< 0.0001 |
 
 ## Idiopathic Pulmonary Fibrosis
 
@@ -503,13 +515,13 @@ The safety and tolerability of ambrisentan once daily for 24 weeks was evaluated
 
 There was no dose trend observed in the effect of ambrisentan on the main efficacy outcome of exercise capacity (6MWD). The mean change from baseline at week 24 in 6MWD for patients in the low and high dose groups with a measurement at baseline and at 24 weeks was + 55.14 m (95% CI: 4.32 to 105.95) in 18 patients and + 26.25 m (95% CI: -4.59 to 57.09) in 18 patients, respectively. The mean change from baseline at week 24 in 6MWD for the 36 total patients (both doses pooled) was + 40.69 m (95% CI: 12.08 to 69.31). These results were consistent with those observed in adults. At week 24, 95% and 100% of patients in the low and high dose groups, respectively, remained stable (functional class unchanged or improved). The Kaplan-Meier event-free survivor estimate for worsening of PAH (death [all cause], lung transplantation, or hospitalisation for PAH worsening or PAH-related deterioration) at 24 weeks was 86% and 85% in the low- and high dose groups, respectively.
 
-Haemodynamics were measured in 5 patients (low dose group). The mean increase from baseline in cardiac index was + 0.94 L/min/m 2 , the mean decrease in mean pulmonary arterial pressure was - 2.2 mmHg, and the mean decrease in PVR was - 277 dyn s/cm 5 (- 3.46 mmHg/L/min).
+Haemodynamics were measured in 5 patients (low dose group). The mean increase from baseline in cardiac index was + 0.94 L/min/m 2 , the mean decrease in mean pulmonary arterial pressure was - 2.2 mmHg, and the mean decrease in PVR was - 277 dyn s/cm 5  (- 3.46 mmHg/L/min).
 
 In paediatric patients with PAH who received ambrisentan for 24 weeks, geometric mean decrease from baseline in NT-pro-BNP was 31% in the low dose group (2.5 and 5 mg) and 28% in the high dose group (5, 7.5, and 10 mg).
 
 ## AMB114588 study
 
-Long-term data were generated from 38 of the 41 paediatric patients with PAH aged 8 to less than 18 years who were treated with ambrisentan in the 24-week randomised study. Most of the subjects who transitioned into this long-term extension had idiopathic or heritable PAH (68%) as per AMB112529 Baseline. The mean duration of exposure  (± standard deviation) to ambrisentan treatment was approximately 4.0 ± 2.5 years (range: 3 months to 10.0 years). Patients could receive additional PAH treatment as required in the open-label extension and ambrisentan dose could be adjusted by 2.5 mg increments. Overall, 66% of patients who continued in the extension study remained on the same dose of ambrisentan used in AMB112529.
+Long-term data were generated from 38 of the 41 paediatric patients with PAH aged 8 to less than 18 years who were treated with ambrisentan in the 24-week randomised study. Most of the subjects who transitioned into this long-term extension had idiopathic or heritable PAH (68%) as per AMB112529 Baseline. The mean duration of exposure (± standard deviation) to ambrisentan treatment was approximately 4.0 ± 2.5 years (range: 3 months to 10.0 years). Patients could receive additional PAH treatment as required in the open-label extension and ambrisentan dose could be adjusted by 2.5 mg increments. Overall, 66% of patients who continued in the extension study remained on the same dose of ambrisentan used in AMB112529.
 
 Clinical worsening was defined as death (all cause), listing for lung transplant or atrial septostomy, or PAH deterioration leading to hospitalisation, change in ambrisentan dose, addition of or change in dose of existing targeted PAH therapeutic agent, increase in WHO Functional class; 20% decrease in 6MWD or signs/symptoms of right sided heart failure. At the same timepoints, a total of 71% of patients remained free from PAH worsening, while 11 participants (29%) across all 4 dose groups experienced an occurrence of clinical worsening of PAH based on at least 1 criterion, with more than 1 clinical worsening criterion met by 5 of 11 participants (45%). Kaplan-Meier estimates of survival were 94.74% and 92.11% at 3 and 4 years after the start of treatment.
 
@@ -531,7 +543,7 @@ A food-effect study involving administration of ambrisentan to healthy volunteer
 
 ## Distribution
 
-Ambrisentan is highly plasma protein bound. The in vitro plasma protein binding of ambrisentan was, on average, 98.8% and independent of concentration over the range of 0.2-20 microgram/ml. Ambrisentan is primarily bound to albumin (96.5%) and to a lesser extent to alpha1-acid glycoprotein.
+Ambrisentan is highly plasma protein bound. The in vitro plasma protein binding of ambrisentan was, on average, 98.8% and independent of concentration over the range of 0.2 -20 microgram/ml. Ambrisentan is primarily bound to albumin (96.5%) and to a lesser extent to alpha1-acid glycoprotein.
 
 The distribution of ambrisentan into red blood cells is low, with a mean blood:plasma ratio of 0.57 and 0.61 in males and females, respectively.
 
@@ -553,13 +565,13 @@ The effects of steady-state ambrisentan (10 mg once daily) on the pharmacokineti
 
 The effects of repeat dosing of ketoconazole (400 mg once daily) on the pharmacokinetics of a single dose of 10 mg ambrisentan were investigated in 16 healthy volunteers. Exposures of ambrisentan as measured by AUC(0-inf) and Cmax were increased by 35% and 20%, respectively. This change in exposure is unlikely to be of any clinical relevance and therefore ambrisentan may be co-administered with ketoconazole.
 
-The effects of repeat dosing of cyclosporine A (100-150 mg twice daily) on the steady-state pharmacokinetics of ambrisentan (5 mg once daily), and the effects of repeat dosing of ambrisentan (5 mg once daily) on the steady-state pharmacokinetics of cyclosporine A (100-150 mg twice daily) were studied in healthy volunteers. The Cmax and AUC(0τ ) of ambrisentan increased (48% and 121%, respectively) in the presence of multiple doses of cyclosporine A. Based on these changes, when co-administered with cyclosporine A, the dose of ambrisentan in adult patients or paediatric patients wei ghing ≥ 50 kg should be limited to 5 mg once daily; for paediatric patients ≥ 20 to &lt; 50 kg the dose should be limited to 2.5 mg once daily (see section 4.2). However, multiple doses of ambrisentan had no clinically relevant effect on cyclosporine A exposure, and no dose adjustment of cyclosporine A is warranted.
+The effects of repeat dosing of cyclosporine A (100 -150 mg twice daily) on the steady-state pharmacokinetics of ambrisentan (5 mg once daily), and the effects of repeat dosing of ambrisentan (5 mg once daily) on the steady-state pharmacokinetics of cyclosporine A (100 -150 mg twice daily) were studied in healthy volunteers. The Cmax and AUC(0τ ) of ambrisentan increased (48% and 121%, respectively) in the presence of multiple doses of cyclosporine A. Based on these changes, when co-administered with cyclosporine A, the dose of ambrisentan in adult patients or paediatric patients weighing ≥ 50 kg should be limited to 5 mg once daily; for paediatric patients ≥ 20 to &lt; 50 kg the dose should be limited to 2.5 mg once daily (see section 4.2). However, multiple doses of ambrisentan had no clinically relevant effect on cyclosporine A exposure, and no dose adjustment of cyclosporine A is warranted.
 
-The effects of acute and repeat dosing of rifampicin (600 mg once daily) on the steady-state pharmacokinetics of ambrisentan (10 mg once daily) were studied in healthy volunteers. Following initial doses of rifampicin, a transient increase in ambrisentan AUC(0τ ) (121% and 116% after first and second doses of rifampicin, respectively) was observed, presumably due to a rifampicin-mediated OATP inhibition. However, there was no clinically relevant effect on ambrisentan exposure by day 8, following administration of multiple doses of rifampicin. Patients on ambrisentan therapy should be closely monitored when starting treatment with rifampicin (see sections 4.4 and 4.5).
+The effects of acute and repeat dosing of rifampicin (600 mg once daily) on the steady-state pharmacokinetics of ambrisentan (10 mg once daily) were studied in healthy volunteers. Following initial doses of rifampicin, a transient increase in ambrisentan AUC(0 -τ ) (121% and 116% after first and second doses of rifampicin, respectively) was observed, presumably due to a rifampicin-mediated OATP inhibition. However, there was no clinically relevant effect on ambrisentan exposure by day 8, following administration of multiple doses of rifampicin. Patients on ambrisentan therapy should be closely monitored when starting treatment with rifampicin (see sections 4.4 and 4.5).
 
 The effects of repeat dosing of ambrisentan (10 mg) on the pharmacokinetics of single dose digoxin were studied in 15 healthy volunteers. Multiple doses of ambrisentan resulted in slight increases in digoxin AUC0-last and trough concentrations, and a 29% increase in digoxin Cmax. The increase in digoxin exposure observed in the presence of multiple doses of ambrisentan was not considered clinically relevant, and no dose adjustment of digoxin is warranted (see section 4.5).
 
-The effects of 12 days dosing with ambrisentan (10 mg once daily) on the pharmacokinetics of a single dose of oral contraceptive containing ethinyl estradiol (35 μg) and norethindrone (1 mg) were studied in healthy female volunteers. The Cmax and AUC(0-∞) were slightly decreased for ethinyl estradiol (8% and 4%, respectively), and slightly increased for norethindrone (13% and 14%, respectively). These changes in exposure to ethinyl estradiol or norethindrone were small and are unlikely to be clinically significant (see section 4.5).
+The effects of 12 days dosing with ambrisentan (10 mg once daily) on the pharmacokinetics of a single dose of oral contraceptive containing ethinyl estradiol (35 μg) and norethindrone (1 mg) were studied in healthy female volunteers. The Cmax and AUC(0 -∞) were slightly decreased for ethinyl estradiol (8% and 4%, respectively), and slightly increased for norethindrone (13% and 14%, respectively). These changes in exposure to ethinyl estradiol or norethindrone were small and are unlikely to be clinically significant (see section 4.5).
 
 ## Elimination
 
@@ -595,7 +607,7 @@ Due to the class primary pharmacologic effect, a large single dose of ambrisenta
 
 Ambrisentan was not shown to be an inhibitor of bile acid transport or to produce overt hepatotoxicity.
 
-Inflammation and changes in the nasal cavity epithelium have been seen in rodents after chronic administration at exposures below the therapeutic levels in humans. In dogs, slight inflammatory responses were observed following chronic high dose administration of ambrisentan at exposures greater than 20-fold that observed in patients.
+Inflammation and changes in the nasal cavity epithelium have been seen in rodents after chronic administration at exposures below the therapeutic levels in humans. In dogs, slight inflammatory responses were observed following chronic high dose administration of ambrisentan at exposures greater than 20 -fold that observed in patients.
 
 Nasal bone hyperplasia of the ethmoid turbinates has been observed in the nasal cavity of rats treated with ambrisentan, at exposure levels 3-fold the clinical AUC. Nasal bone hyperplasia has not been observed with ambrisentan in mice or dogs. In the rat, hyperplasia of nasal turbinate bone is a recognised response to nasal inflammation, based on experience with other compounds.
 
@@ -605,7 +617,7 @@ Ambrisentan was clastogenic when tested at high concentrations in mammalian cell
 
 There was no evidence of carcinogenic potential in 2 year oral studies in rats and mice. There was a small increase in mammary fibroadenomas, a benign tumor, in male rats at the highest dose only. Systemic exposure to ambrisentan in male rats at this dose (based on steady-state AUC) was 6-fold that achieved at the 10 mg/day clinical dose.
 
-Testicular tubular atrophy, which was occasionally associated with aspermia, was observed in oral repeat dose toxicity and fertility studies with male rats and mice without safety margin. The testicular changes were not fully recoverable during the off-dose periods evaluated. However no testicular changes were observed in dog studies of up to 39 weeks duration at an exposure 35-fold that seen in humans based on AUC. In male rats, there were no effects of ambrisentan on sperm motility at all doses tested (up to 300 mg/kg/day). A slight (&lt; 10%) decrease in the percentage of morphologically normal sperms was noted at 300 mg/kg/day but not at 100 mg/kg/day (&gt; 9-fold clinical exposure at 10 mg/day). The effect of ambrisentan on male human fertility is not known.
+Testicular tubular atrophy, which was occasionally associated with aspermia, was observed in oral repeat dose toxicity and fertility studies with male rats and mice without safety margin. The testicular changes were not fully recoverable during the off-dose periods evaluated. However no testicular changes were observed in dog studies of up to 39 weeks duration at an exposure 35 -fold that seen in humans based on AUC. In male rats, there were no effects of ambrisentan on sperm motility at all doses tested (up to 300 mg/kg/day). A slight (&lt; 10%) decrease in the percentage of morphologically normal sperms was noted at 300 mg/kg/day but not at 100 mg/kg/day (&gt; 9-fold clinical exposure at 10 mg/day). The effect of ambrisentan on male human fertility is not known.
 
 Ambrisentan has been shown to be teratogenic in rats and rabbits. Abnormalities of the lower jaw, tongue, and/or palate were seen at all doses tested. In addition, the rat study showed an increased incidence of interventricular septal defects, trunk vessel defects, thyroid and thymus abnormalities, ossification of the basisphenoid bone, and the occurrence of the umbilical artery located on the left side of the urinary bladder instead of the right side. Teratogenicity is a suspected class effect of ERAs.
 
@@ -693,7 +705,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 <div style=\"page-break-after: always\"></div>
 
-GlaxoSmithKline (Ireland) Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -733,7 +745,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -839,7 +851,7 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline (Ireland) Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -849,11 +861,11 @@ EU/1/08/451/005
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 volibris 2.5 mg
 
@@ -863,11 +875,13 @@ volibris 2.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
 
-<div style=\"page-break-after: always\"></div>
+SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -893,7 +907,9 @@ Contains lactose, lecithin (soya) (E322). See leaflet for further information.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use.
+Read the package leaflet before use.
+
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -909,13 +925,11 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline (Ireland) Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -926,10 +940,16 @@ EU/1/08/451/005
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
+
 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -979,15 +999,7 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline (Ireland) Limited
-
-12 Riverwalk
-
-Citywest Business Campus
-
-Dublin 24
-
-Ireland
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -998,18 +1010,16 @@ EU/1/08/451/001 10 film-coated tablets EU/1/08/451/002 30 film-coated tablets
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 volibris 5 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 PC
 
@@ -1019,19 +1029,19 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blisters                                            |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blisters                                             |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 Volibris 5 mg tablets ambrisentan
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
-GlaxoSmithKline (Ireland) Limited GSK (Ireland) Ltd
+GlaxoSmithKline Trading Services Limited GSK TS Ltd
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1064,7 +1074,7 @@ Contains lactose, lecithin (soya) (E322) and allura red AC aluminium lake (E129)
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## film-coated tablet
+film-coated tablet
 
 10 x 1 film-coated tablets
 
@@ -1090,11 +1100,13 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline (Ireland) Limited
+GlaxoSmithKline Trading Services Limited
 
 12 Riverwalk
 
@@ -1103,6 +1115,8 @@ Citywest Business Campus
 Dublin 24
 
 Ireland
+
+D24 YK11
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1113,42 +1127,38 @@ EU/1/08/451/003 10 film-coated tablets EU/1/08/451/004 30 film-coated tablets
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 volibris 10 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 PC
 
 SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blisters                                            |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blisters                                             |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 Volibris 10 mg tablets ambrisentan
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
-GlaxoSmithKline (Ireland) Limited GSK (Ireland) Ltd
+GlaxoSmithKline Trading Services Limited GSK TS Ltd
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1205,7 +1215,7 @@ Volibris may also be used in combination with other medicines used to treat PAH.
 
 - if you are allergic to ambrisentan, soya, or any of the other ingredients of this medicine (listed in section 6)
 - if you are pregnant, if you are planning to become pregnant, or if you could become pregnant because you are not using reliable birth control (contraception). Please read the information under 'Pregnancy'
-- if you are breast-feeding . Read the information under 'Breast-feeding'
+- if you are breast-feeding . Rea d the information under 'Breast -feeding'
 - if you have liver disease . Talk to your doctor, who will decide whether this medicine is suitable for you
 - if you have scarring of the lungs , of unknown cause ( idiopathic pulmonary fibrosis ).
 
@@ -1298,7 +1308,7 @@ Volibris tablets contain small amounts of a sugar called lactose. If you have be
 
 ## Volibris contains lecithin derived from soya
 
-If you are allergic to soya, do not use this medicine (see section 2 'Don't take Volibris').
+If you are allergic to soya, do not use this medicine (see section 2 'Don't take Volibris' ).
 
 ## Volibris 5 mg and 10 mg tablets contain a colouring called allura red AC aluminium lake (E129 )
 
@@ -1306,7 +1316,7 @@ This may cause allergic reactions (see section 4).
 
 ## Volibris contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 3. How to take Volibris
 
@@ -1341,7 +1351,7 @@ It is best to take your tablet at the same time each day. Swallow the tablet who
 
 These tablets come in special packaging to prevent children removing them.
 
-1. Separate one tablet: tear along the cutting lines to separate one 'pocket' from the strip.
+1. Separate one tablet: tear along the cutting lines to separate one 'pocket' from the strip .
 2. Peel back the outer layer: starting at the coloured corner, lift and peel over the pocket.
 3. Push out the tablet: gently push one end of the tablet through the foil layer.
 
@@ -1465,7 +1475,7 @@ In addition to the above, (except abnormal blood test results for liver function
 ## Uncommon (may affect up to 1 in 100 people)
 
 - liver injury
-- inflammation of the liver caused by the body's own defences ( autoimmune hepatitis ).
+- inflammation of the live r caused by the body's own defences ( autoimmune hepatitis ).
 
 ## In combination with tadalafil
 
@@ -1511,7 +1521,7 @@ The other ingredients are: lactose monohydrate, microcrystalline cellulose, cros
 
 ## What Volibris looks like and contents of the pack
 
-Volibris 2.5 mg film-coated tablet (tablet) is a white, 7 mm round, convex tablet engraved with 'GS' on one side and 'K11' on the other.
+Volibris 2.5 mg film-coated tablet (tablet) is a white, 7 mm round, convex tablet engraved with ' GS ' on one side and ' K 11' on the other.
 
 Volibris 5 mg film-coated tablet (tablet) is a pale pink, 6.6 mm square, convex tablet engraved with 'GS' on one side and 'K2C' on the other.
 
@@ -1519,13 +1529,13 @@ Volibris 10 mg film-coated tablet (tablet) is a deep pink, 9.8 mm × 4.9 mm oval
 
 Volibris is supplied as 2.5 mg film-coated tablets in bottles. Each bottle contains 30 tablets.
 
-Volibris is supplied as 5 mg and 10 mg film-coated tablets in unit dose blister packs of 10 × 1 or 30 ×1  tablets.
+Volibris is supplied as 5 mg and 10 mg film-coated tablets in unit dose blister packs of 10 × 1 or 30 × 1  tablets.
 
 Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-GlaxoSmithKline (Ireland) Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 ## Manufacturer
 
@@ -1539,21 +1549,21 @@ GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0) 10 85 52 00
 
 ## Lietuva
 
-GlaxoSmithKline (Ireland) Limited Tel: + 370 80000334
+GlaxoSmithKline Trading Services Limited Tel: + 370 80000334
 
 <div style=\"page-break-after: always\"></div>
 
 ## България
 
-GlaxoSmithKline (Ireland) Limited Teл.: + 359 80018205
+GlaxoSmithKline Trading Services Limited Teл.: + 359 80018205
 
 ## Česká republika
 
-GlaxoSmithKline s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
+GlaxoSmithKline, s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
 
 ## Danmark
 
-GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 dk-info@gsk.com
+GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
 ## Deutschland
 
@@ -1561,7 +1571,7 @@ GlaxoSmithKline GmbH &amp; Co. KG Tel.: + 49 (0)89 36044 8701 produkt.info@gsk.c
 
 ## Eesti
 
-GlaxoSmithKline (Ireland) Limited Tel: + 372 8002640
+GlaxoSmithKline Trading Services Limited Tel: + 372 8002640
 
 ## Ελλάδα
 
@@ -1577,7 +1587,7 @@ Laboratoire GlaxoSmithKline Tél: + 33 (0)1 39 17 84 44 diam@gsk.com
 
 ## Hrvatska
 
-GlaxoSmithKline (Ireland) Limited Tel: + 385 800787089
+GlaxoSmithKline Trading Services Limited Tel: + 385 800787089
 
 ## Ireland
 
@@ -1585,23 +1595,25 @@ GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
 
 ## Ísland
 
-Vistor hf. Sími: + 354 535 7000
+Vistor ehf. Sími: + 354 53 5 7000
 
 ## Italia
 
-GlaxoSmithKline S.p.A. Tel: + 39 (0)45 7741 111
+GlaxoSmithKline S.p.A.
+
+Tel: + 39 (0)45 7741 111
 
 ## Luxembourg/Luxemburg
 
-GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0) 10 85 52 00
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0)10 85 52 00
 
 ## Magyarország
 
-GlaxoSmithKline (Ireland) Limited Tel.: + 36 80088309
+GlaxoSmithKline Trading Services Limited Tel.: + 36 80088309
 
 ## Malta
 
-GlaxoSmithKline (Ireland) Limited Tel: + 356 80065004
+GlaxoSmithKline Trading Services Limited Tel: + 356 80065004
 
 ## Nederland
 
@@ -1617,23 +1629,25 @@ GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
 
 ## Polska
 
-GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
+GSK Services Sp. z o.o.
+
+Tel.: + 48 (0)22 576 9000
 
 ## Portugal
 
-GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
+GlaxoSmithKline -Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
 
 ## România
 
-GlaxoSmithKline (Ireland) Limited Tel: + 40 800672524
+GlaxoSmithKline Trading Services Limited Tel: + 40 800672524
 
 ## Slovenija
 
-GlaxoSmithKline (Ireland) Limited Tel: + 386 80688869
+GlaxoSmithKline Trading Services Limited Tel: + 386 80688869
 
 ## Slovenská republika
 
-GlaxoSmithKline (Ireland) Limited Tel: + 421 800500589
+GlaxoSmithKline Trading Services Limited Tel: + 421 800500589
 
 ## Suomi/Finland
 
@@ -1643,15 +1657,13 @@ GlaxoSmithKline Oy Puh/Tel: + 358 (0)10 30 30 30
 
 ## Κύπρος
 
-GlaxoSmithKline (Ireland) Limited
+GlaxoSmithKline Trading Services Limited
 
-Τηλ
-
-: + 357 80070017
+Τηλ: + 357 80070017
 
 ## Latvija
 
-GlaxoSmithKline (Ireland) Limited
+GlaxoSmithKline Trading Services Limited
 
 Tel: + 371 80205045
 
@@ -1661,12 +1673,4 @@ Tel: + 371 80205045
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
-Sverige Tel: + 46 (0)8 638 93 00
-
-GlaxoSmithKline AB info.produkt@gsk.com
-
-## United Kingdom (Northern Ireland)
-
-GlaxoSmithKline (Ireland) Limited
-
-Tel: + 44 (0)800 221441 customercontactuk@gsk.com
+Sverige GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com

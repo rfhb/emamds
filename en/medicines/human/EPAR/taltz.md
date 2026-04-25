@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-26 17:00:00
+document_datetime: 2026-04-23 14:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/taltz.html
 document_name: taltz.html
 version: success
-processing_time: 0.1104178
-conversion_datetime: 2026-03-01 19:33:37.426268
+processing_time: 0.1425555
+conversion_datetime: 2026-04-25 16:53:17.591395
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Taltz
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-ixekizumab Medicine Human Authorised
+ixekizumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -149,275 +151,141 @@ Reference Number: EMA/263354/2025
 
 English (EN) (110.04 KB - PDF)
 
-**First published:** 02/05/2016
-
-**Last updated:** 11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/en/documents/overview/taltz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-672)
+[Other languages (22)](#file-language-dropdown-284)
 
 български (BG) (137.64 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/bg/documents/overview/taltz-epar-medicine-overview_bg.pdf)
 
 español (ES) (107.33 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/es/documents/overview/taltz-epar-medicine-overview_es.pdf)
 
 čeština (CS) (136.31 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/cs/documents/overview/taltz-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (108.89 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/da/documents/overview/taltz-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (113.48 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/de/documents/overview/taltz-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (104.56 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/et/documents/overview/taltz-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (139.42 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/el/documents/overview/taltz-epar-medicine-overview_el.pdf)
 
 français (FR) (108.78 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/fr/documents/overview/taltz-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (142.74 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/hr/documents/overview/taltz-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (106.62 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/it/documents/overview/taltz-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (149.59 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/lv/documents/overview/taltz-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (131.72 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/lt/documents/overview/taltz-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (134.97 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/hu/documents/overview/taltz-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (144.54 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/mt/documents/overview/taltz-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (110.94 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/nl/documents/overview/taltz-epar-medicine-overview_nl.pdf)
 
 polski (PL) (146.87 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/pl/documents/overview/taltz-epar-medicine-overview_pl.pdf)
 
 português (PT) (108.1 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/pt/documents/overview/taltz-epar-medicine-overview_pt.pdf)
 
 română (RO) (130.03 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/ro/documents/overview/taltz-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (133.48 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/sk/documents/overview/taltz-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (131.65 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/sl/documents/overview/taltz-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (103.94 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/fi/documents/overview/taltz-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (106.55 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 11/09/2025
 
 [View](/sv/documents/overview/taltz-epar-medicine-overview_sv.pdf)
 
@@ -425,9 +293,7 @@ Taltz : EPAR - Risk management plan
 
 English (EN) (1.13 MB - PDF)
 
-**First published:** 11/06/2020
-
-**Last updated:** 26/02/2026
+**First published:** 11/06/2020 **Last updated:** 26/02/2026
 
 [View](/en/documents/rmp/taltz-epar-risk-management-plan_en.pdf)
 
@@ -435,305 +301,161 @@ English (EN) (1.13 MB - PDF)
 
 Taltz : EPAR - Product Information
 
-English (EN) (2.93 MB - PDF)
+English (EN) (2.38 MB - PDF)
 
-**First published:** 02/05/2016
-
-**Last updated:** 11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/en/documents/product-information/taltz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-280)
+[Other languages (24)](#file-language-dropdown-344)
 
-български (BG) (3.35 MB - PDF)
+български (BG) (2.53 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/bg/documents/product-information/taltz-epar-product-information_bg.pdf)
 
-español (ES) (3.01 MB - PDF)
+español (ES) (2.37 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/es/documents/product-information/taltz-epar-product-information_es.pdf)
 
-čeština (CS) (3.21 MB - PDF)
+čeština (CS) (2.6 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/cs/documents/product-information/taltz-epar-product-information_cs.pdf)
 
-dansk (DA) (2.19 MB - PDF)
+dansk (DA) (2.32 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/da/documents/product-information/taltz-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.13 MB - PDF)
+Deutsch (DE) (2.5 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/de/documents/product-information/taltz-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.63 MB - PDF)
+eesti keel (ET) (2.08 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/et/documents/product-information/taltz-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.02 MB - PDF)
+ελληνικά (EL) (3.04 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/el/documents/product-information/taltz-epar-product-information_el.pdf)
 
-français (FR) (3.04 MB - PDF)
+français (FR) (2.65 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/fr/documents/product-information/taltz-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.33 MB - PDF)
+hrvatski (HR) (2.71 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/hr/documents/product-information/taltz-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.1 MB - PDF)
+íslenska (IS) (2.32 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/is/documents/product-information/taltz-epar-product-information_is.pdf)
 
-italiano (IT) (4.79 MB - PDF)
+italiano (IT) (2.38 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/it/documents/product-information/taltz-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (3.24 MB - PDF)
+latviešu valoda (LV) (2.74 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/lv/documents/product-information/taltz-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (3.09 MB - PDF)
+lietuvių kalba (LT) (2.48 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/lt/documents/product-information/taltz-epar-product-information_lt.pdf)
 
-magyar (HU) (2.85 MB - PDF)
+magyar (HU) (2.26 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/hu/documents/product-information/taltz-epar-product-information_hu.pdf)
 
-Malti (MT) (4.49 MB - PDF)
+Malti (MT) (2.43 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/mt/documents/product-information/taltz-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.34 MB - PDF)
+Nederlands (NL) (2.37 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/nl/documents/product-information/taltz-epar-product-information_nl.pdf)
 
-norsk (NO) (2.87 MB - PDF)
+norsk (NO) (2.28 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/no/documents/product-information/taltz-epar-product-information_no.pdf)
 
-polski (PL) (2.83 MB - PDF)
+polski (PL) (2.84 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/pl/documents/product-information/taltz-epar-product-information_pl.pdf)
 
-português (PT) (2.94 MB - PDF)
+português (PT) (2.41 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/pt/documents/product-information/taltz-epar-product-information_pt.pdf)
 
-română (RO) (5.07 MB - PDF)
+română (RO) (2.25 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/ro/documents/product-information/taltz-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.91 MB - PDF)
+slovenčina (SK) (2.39 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/sk/documents/product-information/taltz-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.8 MB - PDF)
+slovenščina (SL) (2.5 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/sl/documents/product-information/taltz-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.92 MB - PDF)
+Suomi (FI) (2.46 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/fi/documents/product-information/taltz-epar-product-information_fi.pdf)
 
-svenska (SV) (2.58 MB - PDF)
+svenska (SV) (2 MB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-11/09/2025
+**First published:** 02/05/2016 **Last updated:** 23/04/2026
 
 [View](/sv/documents/product-information/taltz-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0053 22/08/2025
+**Latest procedure affecting product information:** VR/0000323136
+
+26/03/2026
 
 icon globe
 
@@ -753,312 +475,180 @@ Taltz : EPAR - All Authorised presentations
 
 English (EN) (65.61 KB - PDF)
 
-**First published:** 02/05/2016
-
-**Last updated:** 07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/en/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-612)
+[Other languages (24)](#file-language-dropdown-536)
 
 български (BG) (62.7 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/bg/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (71.41 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/es/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (82.34 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/cs/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (66.72 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/da/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (72.03 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/de/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (63.45 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/et/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (74.96 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/el/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (71.43 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/fr/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (72.93 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/hr/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (65.49 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/is/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (46.34 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/it/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (91.69 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/lv/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (83.47 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/lt/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (86.08 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/hu/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (88.86 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/mt/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (66.63 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/nl/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (66.55 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/no/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (93 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/pl/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (72.63 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/pt/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (55.29 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/ro/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (80.84 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/sk/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (74.23 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/sl/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (63.87 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/fi/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (53.62 KB - PDF)
 
-**First published:**
-
-02/05/2016
-
-**Last updated:**
-
-07/04/2025
+**First published:** 02/05/2016 **Last updated:** 07/04/2025
 
 [View](/sv/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Taltz Active substance ixekizumab International non-proprietary name (INN) or common name ixekizumab Therapeutic area (MeSH)
+Name of medicine
+
+Taltz
+
+Active substance
+
+ixekizumab
+
+International non-proprietary name (INN) or common name
+
+ixekizumab
+
+Therapeutic area (MeSH)
 
 - Psoriasis
 - Arthritis, Psoriatic
 - Axial Spondyloarthritis
 - Arthritis, Juvenile
 
-Anatomical therapeutic chemical (ATC) code L04AC13
+Anatomical therapeutic chemical (ATC) code
+
+L04AC13
 
 ### Pharmacotherapeutic group
 
@@ -1076,13 +666,27 @@ Taltz is indicated for the treatment of adult patients with active non-radiograp
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/003943 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/003943
+
+Marketing authorisation holder
 
 Eli Lilly and Company (Ireland) Limited
 
 Dunderrow
 
-Opinion adopted 25/02/2016 Marketing authorisation issued 25/04/2016 Revision 20
+Opinion adopted
+
+25/02/2016
+
+Marketing authorisation issued
+
+25/04/2016
+
+Revision
+
+21
 
 ## Assessment history
 
@@ -1094,11 +698,9 @@ Collapse section
 
 Taltz : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (150.04 KB - PDF)
+English (EN) (147.31 KB - PDF)
 
-**First published:** 22/07/2025
-
-**Last updated:** 26/02/2026
+**First published:** 22/07/2025 **Last updated:** 23/04/2026
 
 [View](/en/documents/procedural-steps-after/taltz-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1106,11 +708,39 @@ Taltz : EPAR - Procedural steps taken and scientific information after authorisa
 
 English (EN) (236.12 KB - PDF)
 
-**First published:** 15/12/2016
-
-**Last updated:** 11/09/2025
+**First published:** 15/12/2016 **Last updated:** 11/09/2025
 
 [View](/en/documents/procedural-steps-after/taltz-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Taltz : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
+
+Reference Number: EMADOC-1700519818-2999860
+
+English (EN) (135.09 KB - PDF)
+
+**First published:** 23/04/2026
+
+[View](/en/documents/pip-compliance/taltz-epar-statement-indicating-compliance-agreed-completed-paediatric-investigation-plan_en.pdf)
+
+Taltz-VR-0000323136 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-2842112
+
+English (EN) (314.68 KB - PDF)
+
+**First published:** 23/04/2026
+
+[View](/en/documents/variation-report/taltz-vr-0000323136-epar-assessment-report-variation_en.pdf)
+
+Taltz-PAM-0000293431 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3071916
+
+English (EN) (580.48 KB - PDF)
+
+**First published:** 23/04/2026
+
+[View](/en/documents/variation-report/taltz-pam-0000293431-epar-assessment-report_en.pdf)
 
 Taltz-H-C-003943-II-0053 : EPAR - Assessment report - Variation
 
@@ -1124,9 +754,7 @@ English (EN) (3.35 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Taltz (II-53)
 
-Adopted
-
-Reference Number: EMA/226344/2025
+Adopted Reference Number: EMA/226344/2025
 
 English (EN) (179.89 KB - PDF)
 
@@ -1136,9 +764,7 @@ English (EN) (179.89 KB - PDF)
 
 Taltz-H-C-3943-II-0031 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/366227/2020
+Adopted Reference Number: EMA/366227/2020
 
 English (EN) (3.84 MB - PDF)
 
@@ -1148,9 +774,7 @@ English (EN) (3.84 MB - PDF)
 
 Taltz-H-C-003943-II-0030 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/251895/2020
+Adopted Reference Number: EMA/CHMP/251895/2020
 
 English (EN) (6.2 MB - PDF)
 
@@ -1160,9 +784,7 @@ English (EN) (6.2 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Taltz (II-31)
 
-Adopted
-
-Reference Number: EMA/178694/2020
+Adopted Reference Number: EMA/178694/2020
 
 English (EN) (141.57 KB - PDF)
 
@@ -1172,9 +794,7 @@ English (EN) (141.57 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Taltz (II-30)
 
-Adopted
-
-Reference Number: EMA/178688/2020
+Adopted Reference Number: EMA/178688/2020
 
 English (EN) (155.02 KB - PDF)
 
@@ -1188,37 +808,27 @@ Reference Number: EMA/59447/2018
 
 English (EN) (6.4 MB - PDF)
 
-**First published:** 05/02/2018
-
-**Last updated:** 05/02/2018
+**First published:** 05/02/2018 **Last updated:** 05/02/2018
 
 [View](/en/documents/variation-report/taltz-h-c-3943-ii-0009-epar-assessment-report-variation_en.pdf)
 
 Taltz-H-C-PSUSA-00010493-201709 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/12771/2018
+Adopted Reference Number: EMA/12771/2018
 
 English (EN) (63.41 KB - PDF)
 
-**First published:** 11/01/2018
-
-**Last updated:** 11/01/2018
+**First published:** 11/01/2018 **Last updated:** 11/01/2018
 
 [View](/en/documents/scientific-conclusion/taltz-h-c-psusa-00010493-201709-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Taltz (II-09)
 
-Adopted
-
-Reference Number: EMA/CHMP/811414/2017
+Adopted Reference Number: EMA/CHMP/811414/2017
 
 English (EN) (62.07 KB - PDF)
 
-**First published:** 15/12/2017
-
-**Last updated:** 15/12/2017
+**First published:** 15/12/2017 **Last updated:** 15/12/2017
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-taltz-ii-09_en.pdf)
 
@@ -1226,43 +836,45 @@ English (EN) (62.07 KB - PDF)
 
 Taltz : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/190631/2016
+Adopted Reference Number: EMA/CHMP/190631/2016
 
 English (EN) (6.44 MB - PDF)
 
-**First published:** 02/05/2016
-
-**Last updated:** 02/05/2016
+**First published:** 02/05/2016 **Last updated:** 02/05/2016
 
 [View](/en/documents/assessment-report/taltz-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Taltz
 
-Adopted
-
-Reference Number: EMA/CHMP/78341/2016
+Adopted Reference Number: EMA/CHMP/78341/2016
 
 English (EN) (68.8 KB - PDF)
 
-**First published:** 26/02/2016
-
-**Last updated:** 26/02/2016
+**First published:** 26/02/2016 **Last updated:** 26/02/2016
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-taltz_en.pdf)
 
 ## News on Taltz
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025) 25/07/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 May 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-may-2020) 29/05/2020
+25/07/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-30 April 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-30-april-2020) 30/04/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 May 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-may-2020)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 December 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-december-2017) 15/12/2017
+29/05/2020
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2016) 26/02/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-30 April 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-30-april-2020)
+
+30/04/2020
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 December 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-december-2017)
+
+15/12/2017
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2016)
+
+26/02/2016
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/search?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-1=1=EMEAHC0039430000) (initial marketing authorisation)
 
@@ -1276,8 +888,8 @@ English (EN) (68.8 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 26/02/2026
+**This page was last updated on**
+
+23/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

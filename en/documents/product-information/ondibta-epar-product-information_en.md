@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-04-09 12:31:20
-document_pages: 39
+document_datetime: 2026-04-24 08:43:20
+document_pages: 44
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ondibta-epar-product-information_en.pdf
 document_name: ondibta-epar-product-information_en.pdf
 version: success
-processing_time: 8.6049668
-conversion_datetime: 2026-04-13 13:43:56.415789
+processing_time: 9.0212389
+conversion_datetime: 2026-04-25 16:53:41.165878
 docling_version:
   docling-serve: 1.16.1
-  docling-jobkit: 1.16.0
-  docling: 2.87.0
-  docling-core: 2.73.0
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
   docling-ibm-models: 3.13.0
-  docling-parse: 5.8.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
@@ -62,7 +62,7 @@ The potency of this medicinal product is stated in units. These units are exclus
 
 ## Special populations
 
-## Elderly population ( ≥ 65 years old)
+## Elderly population (≥ 65 years old)
 
 In the elderly, progressive deterioration of renal function may lead to a steady decrease in insulin requirements.
 
@@ -78,11 +78,11 @@ In patients with hepatic impairment, insulin requirements may be diminished due 
 
 ## Paediatric population
 
-- Adolescents and children aged 2 years and older patients
+-  Adolescents and children aged 2 years and older patients
 
 The safety and efficacy of Ondibta in adolescents and children aged 2 years and older have been established (see section 5.1). The dose regimen (dose and timing) should be individually adjusted.
 
-- Children below 2 years of age
+-  Children below 2 years of age
 
 The safety and efficacy of Ondibta have not been established. No data are available.
 
@@ -202,7 +202,7 @@ Pioglitazone should be discontinued if any deterioration in cardiac symptoms occ
 
 ## Excipients with known effect
 
-This medicinal product contains less than 1 mmol (23 mg) sodium per dose, that is to say essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol (23 mg) sodium per dose, that is to say essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -350,8 +350,6 @@ Glucose Utilization
 
 Rate* (mg/kg/min)
 
-6
-
 4
 
 3
@@ -368,7 +366,7 @@ Activity profile in patients with type 1 diabetes especially by skeletal muscle 
 
 In clinical pharmacology studies, intravenous insulin glargine and human insulin have been shown to be equipotent when given at the same doses. As with all insulins, the time course of action of insulin glargine may be affected by physical activity and other variables.
 
-— NPH insulin
+—NPH insulin
 
 In euglycaemic clamp studies in healthy subjects or in patients with type 1 diabetes, the onset of action of subcutaneous insulin glargine was slower than with human NPH insulin, its effect profile was smooth and peakless, and the duration of its effect was prolonged.
 
@@ -380,13 +378,7 @@ The following graph shows the results from a study in patients:
 
 ## Activity profile in patients with type 1 diabetes
 
-period
-
-*Jatorminoddamount of luardd inflidad to mointin anatont loomo cluedda larrala
-
 <!-- image -->
-
-* determined as amount of glucose infused to maintain constant plasma glucose levels (hourly mean values)
 
 The longer duration of action of subcutaneous insulin glargine is directly related to its slower rate of absorption and supports once daily administration. The time course of action of insulin and insulin analogues such as insulin glargine may vary considerably in different individuals or within the same individual.
 
@@ -464,7 +456,7 @@ This medicinal product must not be mixed with other medicinal products.
 
 ## 6.3 Shelf-life
 
-## 3 years
+3 years
 
 ## Shelf-life after first use of the pen
 
@@ -494,7 +486,7 @@ The cartridge is sealed in a disposable pen injector.
 
 Needles are not included in the pack.
 
-Packs of 1 and 5 Ondibta pre-filled pens.
+Packs of 1, 5 or a multipack of 10 (2 packs of 5) Ondibta pre-filled pens.
 
 Not all pack sizes may be marketed.
 
@@ -506,9 +498,11 @@ Ondibta must not be mixed with any other insulin or diluted. Mixing or diluting 
 
 Insulin label must always be checked before each injection to avoid medication errors between insulin glargine and other insulins (see section 4.4).
 
-Ondibta 100 units/ml in pre-filled pen is only suitable for subcutaneous injections. Before first use, the pre-filled pen must be stored at room temperature for 1 to 2 hours. Empty pre-filled pens must never be reused and must be properly discarded.
+Ondibta 100 units/ml in pre-filled pen is only suitable for subcutaneous injections. pre-filled pens must never be reused and must be properly discarded.
 
-To prevent the possible transmission of disease, each pen must be used by one patient only. Before using the pre-filled pen, the instructions for use included in the package leaflet must be read carefully.
+To prevent the possible transmission of disease, each pen must be used by one patient only. carefully.
+
+Before first use, the pre-filled pen must be stored at room temperature for 1 to 2 hours. Empty Before using the pre-filled pen, the instructions for use included in the package leaflet must be read
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -518,11 +512,15 @@ Gan &amp; Lee Pharmaceuticals Europe GmbH, Prinzenallee 11a, 40549 Dü sseldorf,
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/2000/001 EU/1/25/2000/002
+EU/1/25/2000/001
+
+EU/1/25/2000/002
+
+EU/1/25/2000/003
 
 ## 9. DATE OF FIRST AUTHORISATION/ RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 09 January 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -567,8 +565,8 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 If the dates for submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
 
@@ -586,7 +584,7 @@ If the dates for submission of a PSUR and the update of a RMP coincide, they can
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+OUTER CARTON - Pack of 1 and 5
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -652,13 +650,7 @@ Do not refrigerate. Keep the pen protected from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Gan &amp; Lee Pharmaceuticals
-
-Europe GmbH
-
-40549 Dü sseldorf
-
-Germany
+Gan &amp; Lee Pharmaceuticals Europe GmbH 40549 Dü sseldorf Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -678,27 +670,213 @@ Lot
 
 Ondibta
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
 PC: SN: NN:
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PEN LABEL                                                          |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT ANDROUTEOFADMINISTRATION   |
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON (with blue box) multipack
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Ondibta 100 units/ml solution for injection in pre-filled pen insulin glargine
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+1 ml contains 100 units (3.64 mg) insulin glargine.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: zinc chloride, metacresol, glycerol, hydrochloric acid and sodium hydroxide (for pH adjustment) and water for injections
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection in pre-filled pen (VitaClick) Multipack: 10 (2 packs of 5) pens of 3 ml
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Subcutaneous use
+
+OPEN HERE
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Use only clear and colourless solutions.
+
+Only use needles that are compatible for use with Ondibta.
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
+
+## Unopened:
+
+Store in a refrigerator.
+
+Do not freeze or place next to the freezer or a freezer pack.
+
+Keep the pre-filled pen in the outer carton in order to protect from light.
+
+## In use conditions:
+
+After its first use, the pen may be stored for a maximum of 4 weeks not above 30° C.
+
+Do not refrigerate. Keep the pen protected from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Gan &amp; Lee Pharmaceuticals Europe GmbH 40549 Dü sseldorf Germany
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/25/2000/003
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Ondibta
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC:
+
+SN:
+
+NN:
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+INTERMEDIATE CARTON (without blue box) component of a multipack
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Ondibta 100 units/ml solution for injection in pre-filled pen insulin glargine
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+1 ml contains 100 units (3.64 mg) insulin glargine.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: zinc chloride, metacresol, glycerol, hydrochloric acid and sodium hydroxide (for pH adjustment) and water for injections
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection in pre-filled pen (VitaClick)
+
+5 pens of 3 ml. Component of a multipack, can't be sold separately.
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Subcutaneous use
+
+OPEN HERE
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Use only clear and colourless solutions.
+
+Only use needles that are compatible for use with Ondibta.
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
+
+## Unopened:
+
+Store in a refrigerator.
+
+Do not freeze or place next to the freezer or a freezer pack.
+
+Keep the pre-filled pen in the outer carton in order to protect from light.
+
+## In use conditions:
+
+After its first use, the pen may be stored for a maximum of 4 weeks not above 30° C. Do not refrigerate. Keep the pen protected from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Gan &amp; Lee Pharmaceuticals Europe GmbH 40549 Dü sseldorf Germany
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/25/2000/003
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Ondibta
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
+|-----------------------------------------------------------------|
+| PEN LABEL                                                       |
+
+| 1.   | NAMEOF THE MEDICINAL PRODUCT ANDROUTEOF ADMINISTRATION   |
 |------|----------------------------------------------------------|
 
 Ondibta 100 units/ml solution for injection insulin glargine Subcutaneous use
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOF ADMINISTRATION   |
+|------|---------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -710,8 +888,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
+|------|-----------------------------------------|
 
 3 ml
 
@@ -750,13 +928,13 @@ Read all of this leaflet carefully including the Instructions for Use of Ondibta
 5. How to store Ondibta
 6. Contents of the pack and other information
 
-## What Ondibta is and what it is used for
+## 1. What Ondibta is and what it is used for
 
 Ondibta contains insulin glargine. This is a modified insulin, very similar to human insulin.
 
 Ondibta is used to treat diabetes mellitus in adults, adolescents and children aged 2 years and above. Diabetes mellitus is a disease where your body does not produce enough insulin to control the level of blood sugar. Insulin glargine has a long and steady blood-sugar-lowering action.
 
-## What you need to know before you use Ondibta
+## 2. What you need to know before you use Ondibta
 
 ## Do not use Ondibta
 
@@ -886,9 +1064,9 @@ Keep this possible problem in mind in all situations where you might put yoursel
 
 ## Important information about some of the ingredients of Ondibta
 
-This medicine contains less than 1 mmol (23 mg) sodium per dose, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol (23 mg) sodium per dose, that is to say essentially 'sodium-free'.
 
-## How to use Ondibta
+## 3. How to use Ondibta
 
 Always use this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
 
@@ -928,7 +1106,7 @@ Ondibta is a pre-filled disposable pen containing insulin glargine. Ondibta in p
 
 ## Read carefully the \"Ondibta Instructions for Use\" included in this package leaflet. You must use the pen as described in these Instructions for Use.
 
-A new needle must be attached before each use. Only use needles that are compatible for use with Ondibta (see ' Ondibta Instructions for Use').
+A new needle must be attached before each use. Only use needles that are compatible for use with Ondibta (see 'Ondibta Instructions for Use').
 
 A safety test must be performed before each injection.
 
@@ -950,12 +1128,12 @@ You must always check the insulin label before each injection to avoid mix-ups b
 
 ## If you use more Ondibta than you should
 
-- -If you have injected too much Ondibta , your blood sugar level may become too low (hypoglycaemia). Check your blood sugar frequently. In general, to prevent hypoglycaemia you must eat more food and monitor your blood sugar. For information on the treatment of hypoglycaemia, see box at the end of this leaflet.
+-  If you have injected too much Ondibta , your blood sugar level may become too low (hypoglycaemia). Check your blood sugar frequently. In general, to prevent hypoglycaemia you must eat more food and monitor your blood sugar. For information on the treatment of hypoglycaemia, see box at the end of this leaflet.
 
 ## If you forget to use Ondibta
 
-- -If you have missed a dose of Ondibta or if you have not injected enough insulin , your blood sugar level may become too high (hyperglycaemia). Check your blood sugar frequently. For information on the treatment of hyperglycaemia, see box at the end of this leaflet.
-- -Do not take a double dose to make up for a forgotten dose.
+-  If you have missed a dose of Ondibta or if you have not injected enough insulin , your blood sugar level may become too high (hyperglycaemia). Check your blood sugar frequently. For information on the treatment of hyperglycaemia, see box at the end of this leaflet.
+-  Do not take a double dose to make up for a forgotten dose.
 
 ## If you stop using Ondibta
 
@@ -965,13 +1143,13 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 <div style=\"page-break-after: always\"></div>
 
-## Possible side effects
+## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
 If you notice signs of you blood sugar being too low (hypoglycaemia), take action to increase your blood sugar level straight away (see the box at the end of this leaflet). Hypoglycaemia (low blood sugar) can be very serious and is very common with insulin treatment (may affect more than 1 in 10 people). Low blood sugar means that there is not enough sugar in your blood. If your blood sugar level falls too low, you may pass out (become unconscious). Serious hypoglycaemia may cause brain damage and may be life-threatening. For more information, see the box at the end of this leaflet.
 
-Severe allergic reactions (rare, may affect up to 1 in 1 000 people) -the signs may include large-scale skin reactions (rash and itching all over the body), severe swelling of skin or mucous membranes (angiooedema), shortness of breath, a fall in blood pressure with rapid heart beat and sweating. Severe allergic reactions to insulins may become life-threatening. Tell a doctor straight away if you notice signs of severe allergic reaction.
+Severe allergic reactions (rare, may affect up to 1 in 1 000 people) - the signs may include large-scale skin reactions (rash and itching all over the body), severe swelling of skin or mucous membranes (angiooedema), shortness of breath, a fall in blood pressure with rapid heart beat and sweating. Severe allergic reactions to insulins may become life-threatening. Tell a doctor straight away if you notice signs of severe allergic reaction.
 
 ## Skin changes at the injection site
 
@@ -993,7 +1171,7 @@ A marked change (improvement or worsening) in your blood sugar control can distu
 
 In rare cases, insulin treatment may also cause temporary build-up of water in the body, with swelling in the calves and ankles.
 
-Very rare (may affect up to 1 in 10 000 people)
+## Very rare (may affect up to 1 in 10 000 people)
 
 In very rare cases, dysgeusia (taste disorders) and myalgia (muscular pain) can occur.
 
@@ -1013,7 +1191,7 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-## How to store Ondibta
+## 5. How to store Ondibta
 
 Keep this medicine out of the sight and reach of children.
 
@@ -1031,7 +1209,9 @@ Pre-filled pens in use or carried as a spare may be stored for a maximum of 4 we
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
-## Contents of the pack and other information What Ondibta contains
+## 6. Contents of the pack and other information
+
+## What Ondibta contains
 
 - -The active substance is insulin glargine. Each ml of the solution contains 100 units of insulin glargine (equivalent to 3.64 mg).
 - -The other ingredients are: zinc chloride, metacresol, glycerol, sodium hydroxide (see section 2 'Important information about some of the ingredients of Ondibta) and hydrochloric acid (for pH adjustment) and water for injections.
@@ -1040,7 +1220,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 Ondibta 100 units/ml solution for injection in pre-filled pen is a clear and colourless solution. Each pen contains 3 ml of solution for injection (equivalent to 300 units).
 
-Pack sizes of 1 and 5 pre-filled pens.
+Pack sizes of 1, 5 or a multipack containing 10 (2 packs of 5) pre-filled pens.
 
 Not all pack sizes may be marketed.
 
@@ -1153,9 +1333,11 @@ It is advisable to test your blood sugar immediately after taking glucose to che
 
 Pen body
 
-% Ondibta'
+A Ondibta'
 
-## INSTRUCTIONS FOR USE Ondibta solution for injection in pre-filled pen
+## INSTRUCTIONS FOR USE
+
+## Ondibta solution for injection in pre-filled pen
 
 Ondibta is a pre-filled pen for the injection of insulin glargine. Your doctor has decided that Ondibta is appropriate for you based on your ability to handle Ondibta.
 
@@ -1177,15 +1359,13 @@ Dose window
 
 Injection button
 
-Rioure A
+Fioure A
 
 Keep this leaflet for future reference.
 
-Figure A
+Figure A Schematic diagram of the pen
 
 <!-- image -->
-
-Schematic diagram of the pen
 
 Important information you need to know before injecting Ondibta
 
@@ -1215,10 +1395,10 @@ Ondibta solution for injection in pre-filled pen (see Figure A ), containing a t
 Not included in the carton (to be obtained separately)
 
 - New sterile needles with sizes compatible with this pen:
-- -31G, 5 mm
-- -32G, 4-6 mm
-- -33G, 4 mm
-- -34G, 4 mm
+- 31G, 5 mm
+- 32G, 4-6 mm
+- 33G, 4 mm
+- 34G, 4 mm
 - Alcohol swab
 - Sharps disposal container for used needles
 
@@ -1226,14 +1406,14 @@ Not included in the carton (to be obtained separately)
 
 If your Ondibta pen is in the refrigerator, take it out 1 to 2 hours before you inject to allow it to reach room temperature (below 30° C). Injecting cold insulin can be uncomfortable.
 
-- A. Check the label on your Ondibta pen, to make sure you have the correct insulin (see Figure B ) -this is especially important if you have other pens.
+- A. Check the label on your Ondibta pen, to make sure you have the correct insulin (see Figure B ) - this is especially important if you have other pens.
 - Ondibta pen is white with a blue injection button.
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-ndibte
+Andibto
 
 - B. Check the expiry date (EXP).
 - Do not use your pen after the expiry date.
@@ -1248,7 +1428,7 @@ Always use a new sterile needle for each injection. This helps prevent contamina
 - A. Wipe the rubber seal with an alcohol swab.
 - B. Remove the protective seal from a new needle.
 - C. Keep the needle straight and screw it onto the pen until fixed (see Figure C ).
-- If the needle is not kept straight while you attach it, it can damage the rubber seal, cause the insulin to leak, or break the needle.
+4.  If the needle is not kept straight while you attach it, it can damage the rubber seal, cause the insulin to leak, or break the needle.
 
 Step 3. Perform a safety test
 
@@ -1259,7 +1439,7 @@ Step 3. Perform a safety test
 - make sure the pen and needle work properly.
 - make sure you get the correct dose by removing air bubbles.
 - A. Select a dose of 2 units by turning the dose selector (see Figure D ).
-- If necessary, the selected dose can be corrected by turning the dose selector back down.
+-  If necessary, the selected dose can be corrected by turning the dose selector back down.
 - B. Pull off the outer needle cap (see Figure E ) and keep it to remove the used needle after injection.
 - C. Pull off the inner needle cap (see Figure E ) and discard it.
 
@@ -1271,11 +1451,11 @@ Keep outer needle cap
 
 Figure E
 
-Figure G
+Figure F
 
 <!-- image -->
 
-Figure F
+Figure G
 
 - D. Hold the pen with the needle pointing upwards. Tap the insulin reservoir (see Figure F ) so that any air bubbles rise up towards the needle.
 - E. Press the injection button all the way in (see Figure G ).
@@ -1287,46 +1467,44 @@ Figure F
 
 You may have to perform the safety test several times before insulin comes out of the needle tip.
 
-- If no insulin comes out of the needle tip, check for air bubbles and repeat the safety test two more times to remove them.
-- If still no insulin comes out, the needle may be blocked. Change the needle and repeat the safety test.
-- If no insulin comes out after changing the needle, your pen may be damaged. Do not use this pen.
+-  If no insulin comes out of the needle tip, check for air bubbles and repeat the safety test two more times to remove them.
+-  If still no insulin comes out, the needle may be blocked. Change the needle and repeat the safety test.
+-  If no insulin comes out after changing the needle, your pen may be damaged. Do not use this pen.
 
 ## Step 4. Select your dose
 
 You can set the dose from 1 to 60 units in steps of 1 unit of insulin (one step equals 1 unit of insulin). If you need a dose greater than 60 units, you should give it as two or more injections.
 
-- A. Check that the dose window shows '0' following the safety test .
+- A. Check that the dose window shows '0' following the safety test.
+
+120
+
+180
 
 <div style=\"page-break-after: always\"></div>
 
-IZO
-
--30
-
-522
-
 - B. Select your required dose by turning the dose selector (see Figure H : selected dose is 30 units in this example).
 
-Figure |
+Figure I
 
 <!-- image -->
 
-- If you turn past your dose, you can turn back down.
-- You will hear a click for every single unit dialed. Do not set the dose by counting the number of clicks you hear because you may get an incorrect dose.
-- Do not push the injection button while turning, as insulin will come out.
-- You cannot turn the dose selector past the number of units left in the pen.
-- If the medicine left in the pen is less than your dose, inject what is remaining in the pen and complete your dose with a new pen, or use a new pen for your full dose.
-- You can see roughly how many units of insulin are left by looking at where the plunger is on the insulin scale. Do not use this scale printed on the cartridge to measure your dose of insulin.
+-  If you turn past your dose, you can turn back down.
+-  You will hear a click for every single unit dialed. Do not set the dose by counting the number of clicks you hear because you may get an incorrect dose.
+-  Do not push the injection button while turning, as insulin will come out.
+-  You cannot turn the dose selector past the number of units left in the pen.
+-  If the medicine left in the pen is less than your dose, inject what is remaining in the pen and complete your dose with a new pen, or use a new pen for your full dose.
+-  You can see roughly how many units of insulin are left by looking at where the plunger is on the insulin scale. Do not use this scale printed on the cartridge to measure your dose of insulin.
 
 ## Step 5. Inject the dose
 
 Use the injection method as instructed by your doctor, pharmacist or nurse.
 
 - A. Choose your injection site.
-- The pen can be injected into your thigh, stomach area (abdomen) or upper arm (see Figure I ).
-- Change (rotate) your injection site for each injection.
-- Do not inject where the skin has pits, is thickened or has lumps.
-- Do not inject where the skin is tender, bruised, scaly or hard or into scars or damaged skin.
+2.  The pen can be injected into your thigh, stomach area (abdomen) or upper arm (see Figure I ).
+3.  Change (rotate) your injection site for each injection.
+4.  Do not inject where the skin has pits, is thickened or has lumps.
+5.  Do not inject where the skin is tender, bruised, scaly or hard or into scars or damaged skin.
 - B. Clean the injection site with an alcohol swab. Let it dry before injecting.
 - C. Insert the needle into the skin (see Figure J) .
 
@@ -1334,7 +1512,9 @@ Use the injection method as instructed by your doctor, pharmacist or nurse.
 
 <div style=\"page-break-after: always\"></div>
 
-10 sec egoo
+L..
+
+10 sec
 
 Figure L
 
@@ -1361,8 +1541,8 @@ The pen plunger moves with each dose. The plunger will reach the end of the cart
 
 Always remove the needle after each injection and store the pen without a needle attached. This helps prevent:
 
-- Contamination and/or infection.
-- Entry of air into the insulin reservoir and leakage of insulin, which can cause inaccurate dosing.
+-  Contamination and/or infection.
+-  Entry of air into the insulin reservoir and leakage of insulin, which can cause inaccurate dosing.
 - A. Carefully put the outer needle cap back on the needle (see Figure L ), to reduce the risk of accidental needle injury.
 - Never replace the inner needle cap.
 - B. Pinch the base of the outer needle cap to unscrew the used needle (See Figure M ).
@@ -1380,20 +1560,20 @@ Always remove the needle after each injection and store the pen without a needle
 
 ## Before first use
 
-- Keep your pen in the refrigerator between 2 ° C to 8 ° C until first use.
-- Do not freeze. Throw away your pen if it has been frozen.
+-  Keep your pen in the refrigerator between 2 ° C to 8 ° C until first use.
+-  Do not freeze. Throw away your pen if it has been frozen.
 
 ## After first use
 
-- Store the pen you are currently using at room temperature below 30 ° C, and away from light, dust and dirt.
-- The pen in use must not be stored in a refrigerator.
-- Once you take your pen out of the refrigerator, you can use it for up to 28 days. Do not use it after this time.
-- Do not store your pen with the needle attached.
-- Keep your pen out of the reach and sight of children and any other persons who are not supposed to handle it.
-- When the pen is empty, throw it away without a needle on, as instructed by your doctor, pharmacist or nurse.
+-  Store the pen you are currently using at room temperature below 30 ° C, and away from light, dust and dirt.
+-  The pen in use must not be stored in a refrigerator.
+-  Once you take your pen out of the refrigerator, you can use it for up to 28 days. Do not use it after this time.
+-  Do not store your pen with the needle attached.
+-  Keep your pen out of the reach and sight of children and any other persons who are not supposed to handle it.
+-  When the pen is empty, throw it away without a needle on, as instructed by your doctor, pharmacist or nurse.
 
 ## Maintenance
 
-- You can clean the outside of your pen by wiping it with a damp cloth (water only).
-- Do not soak, wash or lubricate the pen as this may damage it.
-- Your pen should be handled with care. Avoid situations where the pen might be damaged. If you are concerned that your pen may be damaged, use a new one.
+-  You can clean the outside of your pen by wiping it with a damp cloth (water only).
+-  Do not soak, wash or lubricate the pen as this may damage it.
+-  Your pen should be handled with care. Avoid situations where the pen might be damaged. If you are concerned that your pen may be damaged, use a new one.

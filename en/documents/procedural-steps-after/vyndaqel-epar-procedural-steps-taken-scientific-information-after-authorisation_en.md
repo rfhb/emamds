@@ -1,36 +1,36 @@
 ---
-document_datetime: 2025-09-17 10:46:38
-document_pages: 2
+document_datetime: 2026-04-22 15:39:55
+document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/vyndaqel-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: vyndaqel-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 3.7452555
-conversion_datetime: 2025-12-22 21:54:37.896408
+processing_time: 1.8282968
+conversion_datetime: 2026-04-25 16:41:14.863863
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+EUROPEAN MEDICINES AGENCY
+
+SCIENCE MEDICINES
+
 ## Vyndaqel
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency' s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessmenthistory'section.Forthe completeproduct lifecycleprocedures,you mayneedtoalsorefertoEPAR-Proceduralsteps taken andscientific information after authorisation (archive).
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Applicationnumber    | Scope                               | Opinion/ Notification 1 issued on   | Commission Decision Issued²/ amendedon   | Product Information affected3   | Summary   |
-|----------------------|-------------------------------------|-------------------------------------|------------------------------------------|---------------------------------|-----------|
-| Variation typeIA_IN/ | B.II.b.2.cReplacementor additionofa | 11/09/2025                          |                                          | Annex II and                    |           |
+| Application number   | Scope                                | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|--------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type IB /  | B.II.b.3 Change in the manufacturing | 23/03/2026                          |                                             |                                  |           |
 
-1 Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions areissuedforallotherprocedures.
-
-3SmPC(Summary ofProductCharacteristics),AnnexII,Labelling,PL(PackageLeaflet).
-
-2 A Commission decision(CD) is issued for procedures that affect the terms of the marketing authorisation(e.g.summary of product characteristics, annexII, labelling,package leaflet).The CDisissuedwithintwomonths of the opinionforvariationsfallingunderthescope ofArticle23.1a(a)ofRegulation(EU)No.712/2012,orwithinoneyearforotherprocedures.
+HEALTH
 
 <!-- image -->
 
@@ -38,7 +38,15 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-|                                       | manufacturerresponsibleforimportation and/or batch release - B.1I.b.2.c.1 Not includingbatchcontrol/testing-Accepted                                                                                                                                                                                                                                                                                                                                                                          |            | PL   | EMA/VR/0000278463   |
-|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------|---------------------|
-| Variation type IA / EMA/VR/0000237698 | A. ADMINISTRATIVE CHANGES -A.4 Change in thename and/or address of:a manufacturer(includingwhererelevant quality control testing sites); or an ASMF holder; or a supplier of the active substance, startingmaterial,reagentorintermediate usedinthemanufactureof the active substance (where specified in the technical dossier)wherenoPh.Eur.Certificateof Suitabilityispart of the approved dossier;or amanufacturerof anovelexcipient(where specified in the technical dossier) - Accepted | 07/03/2025 | N/A  |                     |
-| Article 61(3) / EMA/N/0000245541      | Updateofthepackageleafletwithrevised contactdetailsoflocalrepresentativeand deletion of 'United Kingdom (Northern Ireland)'from thelist of local representatives in line with the QRD templatev10.4.Additionally,theMAH took the opportunity to introduce a minor editorial amendment.                                                                                                                                                                                                        | 17/02/2025 | PL   |                     |
+| EMA/VR/0000319490                        | process of the finished product, including an intermediate used in the manufacture of the finished product - B.II.b.3.z Other changes - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |            |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variation type II / EMA/VR/0000297114    | C.I.3 Change(s) in the Summary of Product Characteristics, Labelling or Package Leaflet of human medicinal products intended to implement the outcome of a procedure concerning PSUR or PASS, or the outcome of the assessment done by the competent authority under Articles 45 or 46 of Regulation 1901/2006 - C.I.3.z Other variation - Accepted Update of sections 4.4 and 4.5 of the SmPC in order to add a new warning on co- administration tafamidis meglumine/tafamidis and BCRP substrates, update drug-drug interaction information with BCRP sustrates following the PRAC PSUR assessment report for procedure no.: EMEA/H/C/PSUSA/00002842/202405. The Package Leaflet is updated accordingly. In addition, the MAH took the opportunity to update the European Medicines Agency website address in line with the latest EU CP QRD template version 10.4. | 12/03/2026 | SmPC and PL | Update of sections 4.4 and 4.5 of the SmPC in order to add a new warning on co-administration of tafamidis meglumine/tafamidis and BCRP substrates, which may increase exposure to the BCRP substrate. In case of co-administration, patients should be monitored for BCRP substrate related adverse reactions, and dose reduction of the BCRP substrate may be considered. For more information, please refer to the Summary of Product Characteristics. |
+| Annual reassessment - H EMA/S/0000287643 | - Annual Reassessment - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 13/11/2025 |             | The CHMP, having reviewed the evidence of compliance with the specific obligations and the                                                                                                                                                                                                                                                                                                                                                                |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |            |            |                 | impact of the data submitted by the MAH on the benefit/risk profile of the medicinal product, concluded that marketing authorisation of Vyndaqel should be maintained.   |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variation type IA_IN / EMA/VR/0000278463 | B.II.b.2.c Replacement or addition of a manufacturer responsible for importation and/or batch release - B.II.b.2.c.1 Not including batch control/testing - Accepted                                                                                                                                                                                                                                                                                                        | 11/09/2025 |            | Annex II and PL |                                                                                                                                                                          |
+| Variation type IA / EMA/VR/0000237698    | A. ADMINISTRATIVE CHANGES - A.4 Change in the name and/or address of: a manufacturer (including where relevant quality control testing sites); or an ASMF holder; or a supplier of the active substance, starting material, reagent or intermediate used in the manufacture of the active substance (where specified in the technical dossier) where no Ph. Eur. Certificate of Suitability is part of the approved dossier; or a manufacturer of a novel excipient (where | 07/03/2025 |            |                 |                                                                                                                                                                          |
+| Article 61(3) / EMA/N/0000245541         | specified in the technical dossier) - Accepted Update of the package leaflet with revised contact details of local representative and deletion of 'United Kingdom (Northern Ireland)' from the list of local representatives in line with the QRD template v10.4. Additionally, the MAH took                                                                                                                                                                               | 17/02/2025 | 24/09/2025 | PL              |                                                                                                                                                                          |

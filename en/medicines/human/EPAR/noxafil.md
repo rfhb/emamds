@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-24 17:00:00
+document_datetime: 2026-04-22 15:24:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/noxafil.html
 document_name: noxafil.html
 version: success
-processing_time: 0.1737755
-conversion_datetime: 2026-03-25 12:35:41.014348
+processing_time: 0.1638989
+conversion_datetime: 2026-04-25 16:52:46.775937
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Noxafil
 
@@ -147,7 +147,7 @@ English (EN) (174.14 KB - PDF)
 
 [View](/en/documents/overview/noxafil-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-660)
+[Other languages (22)](#file-language-dropdown-420)
 
 български (BG) (205.53 KB - PDF)
 
@@ -283,7 +283,7 @@ svenska (SV) (170.88 KB - PDF)
 
 Noxafil : EPAR - Risk management plan
 
-English (EN) (161.21 KB - PDF)
+English (EN) (699.79 KB - PDF)
 
 **First published:** 22/10/2019 **Last updated:** 24/03/2026
 
@@ -299,7 +299,7 @@ English (EN) (1.78 MB - PDF)
 
 [View](/en/documents/product-information/noxafil-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-187)
+[Other languages (24)](#file-language-dropdown-15)
 
 български (BG) (4.08 MB - PDF)
 
@@ -471,7 +471,7 @@ English (EN) (19.86 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/noxafil-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-580)
+[Other languages (24)](#file-language-dropdown-859)
 
 български (BG) (30.51 KB - PDF)
 
@@ -952,157 +952,11 @@ The approved product information for this medicine is available below showing th
 
 Noxafil : EPAR - Product information - tracked changes
 
-English (EN) (1.61 MB - DOCX)
+English (EN) (1.32 MB - DOCX)
 
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
+**First published:** 23/04/2025 **Last updated:** 22/04/2026
 
 [View](/en/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_en.docx)
-
-[Other languages (24)](#file-language-dropdown-950)
-
-български (BG) (2.84 MB - DOC)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/bg/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_bg.doc)
-
-español (ES) (2.66 MB - DOC)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/es/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_es.doc)
-
-čeština (CS) (1.19 MB - DOCX)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/cs/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_cs.docx)
-
-dansk (DA) (2.41 MB - DOC)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/da/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_da.doc)
-
-Deutsch (DE) (1.87 MB - DOCX)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/de/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_de.docx)
-
-eesti keel (ET) (1.5 MB - DOCX)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/et/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_et.docx)
-
-ελληνικά (EL) (2.8 MB - DOC)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/el/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_el.doc)
-
-français (FR) (2.43 MB - DOC)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/fr/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_fr.doc)
-
-hrvatski (HR) (2.6 MB - DOC)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/hr/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_hr.doc)
-
-íslenska (IS) (2.31 MB - DOCX)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/is/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_is.docx)
-
-italiano (IT) (2.14 MB - DOCX)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/it/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_it.docx)
-
-latviešu valoda (LV) (2.41 MB - DOC)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/lv/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_lv.doc)
-
-lietuvių kalba (LT) (2.47 MB - DOC)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/lt/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_lt.doc)
-
-magyar (HU) (1.74 MB - DOCX)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/hu/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_hu.docx)
-
-Malti (MT) (1.24 MB - DOCX)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/mt/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_mt.docx)
-
-Nederlands (NL) (1.78 MB - DOCX)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/nl/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (2.52 MB - DOC)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/no/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_no.doc)
-
-polski (PL) (3.12 MB - DOC)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/pl/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_pl.doc)
-
-português (PT) (2.58 MB - DOC)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/pt/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_pt.doc)
-
-română (RO) (2.9 MB - DOC)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/ro/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_ro.doc)
-
-slovenčina (SK) (1.76 MB - DOCX)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/sk/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_sk.docx)
-
-slovenščina (SL) (2.68 MB - DOC)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/sl/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_sl.doc)
-
-Suomi (FI) (2.45 MB - DOC)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/fi/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_fi.doc)
-
-svenska (SV) (1.63 MB - DOCX)
-
-**First published:** 23/04/2025 **Last updated:** 17/06/2025
-
-[View](/sv/documents/product-information-tracked-changes/noxafil-epar-product-information-tracked-changes_sv.docx)
 
 ## Preventing medication errors
 
@@ -1116,7 +970,7 @@ English (EN) (75.15 KB - PDF)
 
 [View](/en/documents/medication-error/noxafil-ema-warns-tablets-and-oral-suspension-have-different-doses-and-are-not-interchangeable_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-203)
+[Other languages (22)](#file-language-dropdown-676)
 
 български (BG) (110.54 KB - PDF)
 
@@ -1270,6 +1124,6 @@ English (EN) (591.29 KB - PDF)
 
 **This page was last updated on**
 
-24/03/2026
+22/04/2026
 
 ## Share this page

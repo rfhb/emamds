@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:02:42
+document_datetime: 2026-04-21 13:10:18
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/arsenic-trioxide-medac-epar-product-information_en.pdf
 document_name: arsenic-trioxide-medac-epar-product-information_en.pdf
 version: success
-processing_time: 10.3974289
-conversion_datetime: 2025-12-22 09:51:19.106007
+processing_time: 10.5642926
+conversion_datetime: 2026-04-25 16:17:17.862668
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,7 +28,9 @@ Arsenic trioxide medac 1 mg/ml concentrate for solution for infusion
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each ml of concentrate contains 1 mg of arsenic trioxide. One vial of 10 ml contains 10 mg of arsenic trioxide.
+Each ml of concentrate contains 1 mg of arsenic trioxide.
+
+One vial of 10 ml contains 10 mg of arsenic trioxide.
 
 For the full list of excipients, see section 6.1.
 
@@ -105,7 +107,7 @@ Arsenic trioxide medac must be administered intravenously over 1-2 hours. The in
 
 <div style=\"page-break-after: always\"></div>
 
-Precautions to be taken before handling or administering the medicinal product
+## Precautions to be taken before handling or administering the medicinal product
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
 
@@ -246,7 +248,7 @@ In a phase 3, multicentre, noninferiority trial comparing ATRA plus chemotherapy
 
 ## Tabulated list of adverse reactions
 
-The following undesirable effects have been reported in the APL0406 study in newly diagnosed patients and in clinical trials and/or post-marketing experience in relapsed/refractory APL patients. Undesirable effects are listed in table 2 below as MedDRA preferred term by system organ class and frequencies observed during arsenic trioxide clinical trials in 52 patients with refractory/relapsed APL. Frequencies are defined as: (very common ≥ 1/10), (common ≥ 1/100 to &lt; 1/10), (uncommon ≥ 1/1,000 to &lt; 1/100), not known (cannot be estimated from available data).
+The following undesirable effects have been reported in clinical trials and/or post-marketing experience in newly diagnosed and relapsed/refractory APL patients. Undesirable effects are listed in table 2 below as MedDRA preferred term by system organ class and frequencies observed during arsenic trioxide clinical trials in 52 patients with refractory/relapsed APL. Frequencies are defined as: (very common ≥ 1/10), (common ≥ 1/100 to &lt; 1/10), (uncommon ≥ 1/1,000 to &lt; 1/100), not known (cannot be estimated from available data).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -287,60 +289,62 @@ Table 2
 
 <div style=\"page-break-after: always\"></div>
 
-| encephalopathy                                  |             |             |
-|-------------------------------------------------|-------------|-------------|
-| Eye disorders                                   |             |             |
-| Vision blurred                                  | Common      | Not known   |
-| Cardiac disorders                               |             |             |
-| Tachycardia                                     | Very Common | Common      |
-| Pericardial effusion                            | Common      | Common      |
-| Ventricular extrasystoles                       | Common      | Not known   |
-| Cardiac failure                                 | Not known   | Not known   |
-| Ventricular tachycardia                         | Not known   | Not known   |
-| Vascular disorders                              |             |             |
-| Vasculitis                                      | Common      | Common      |
-| Hypotension                                     | Common      | Not known   |
-| Respiratory, thoracic and mediastinal disorders |             |             |
-| Differentiation syndrome                        | Very Common | Very Common |
-| Dyspnoea                                        | Very Common | Common      |
-| Hypoxia                                         | Common      | Common      |
-| Pleural effusion                                | Common      | Common      |
-| Pleuritic pain                                  | Common      | Common      |
-| Pulmonary alveolar haemorrhage                  | Common      | Common      |
-| Pneumonitis                                     | Not known   | Not known   |
-| Gastrointestinal disorders                      |             |             |
-| Diarrhoea                                       | Very Common | Common      |
-| Vomiting                                        | Very Common | Not known   |
-| Nausea                                          | Very Common | Not known   |
-| Abdominal pain                                  | Common      | Common      |
-| Skin and subcutaneous tissue disorders          |             |             |
-| Pruritus                                        | Very Common | Not known   |
-| Rash                                            | Very Common | Not known   |
-| Erythema                                        | Common      | Common      |
-| Face oedema                                     | Common      | Not known   |
-| Musculoskeletal and connective tissue disorders |             |             |
-| Myalgia                                         | Very Common | Common      |
-| Arthralgia                                      | Common      | Common      |
-| Bone pain                                       | Common      | Common      |
-| Renal and urinary disorders                     |             |             |
-| Renal failure                                   | Common      | Not known   |
-| General disorders and administration site       | conditions  |             |
-| Pyrexia                                         | Very Common | Common      |
-| Pain                                            | Very Common | Common      |
-| Fatigue                                         | Very Common | Not known   |
-| Oedema                                          | Very Common | Not known   |
-| Chest pain                                      | Common      | Common      |
-| Chills                                          | Common      | Not known   |
-| Investigations                                  |             |             |
-| Alanine amino transferase increased             | Very Common | Common      |
-| Aspartate amino transferase increased           | Very Common | Common      |
-| Electrocardiogram QT prolonged                  | Very Common | Common      |
-| Hyperbilirubinaemia                             | Common      | Common      |
-| Blood creatinine increased                      | Common      | Not known   |
-| Weight increased                                | Common      | Not known   |
-| Gamma-glutamyltransferase increased*            | Not known*  | Not known*  |
+| encephalopathy                                  |                                                 |             |
+|-------------------------------------------------|-------------------------------------------------|-------------|
+| Eye disorders                                   |                                                 |             |
+| Vision blurred                                  | Common                                          | Not known   |
+| Cardiac disorders                               |                                                 |             |
+| Tachycardia                                     | Very Common                                     | Common      |
+| Pericardial effusion                            | Common                                          | Common      |
+| Ventricular extrasystoles                       | Common                                          | Not known   |
+| Cardiac failure                                 | Not known                                       | Not known   |
+| Ventricular tachycardia                         | Not known                                       | Not known   |
+| Vascular disorders                              |                                                 |             |
+| Vasculitis                                      | Common                                          | Common      |
+| Hypotension                                     | Common                                          | Not known   |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders |             |
+| Differentiation syndrome                        | Very Common                                     | Very Common |
+| Dyspnoea                                        | Very Common                                     | Common      |
+| Hypoxia                                         | Common                                          | Common      |
+| Pleural effusion                                | Common                                          | Common      |
+| Pleuritic pain                                  | Common                                          | Common      |
+| Pulmonary alveolar haemorrhage                  | Common                                          | Common      |
+| Pneumonitis                                     | Not known                                       | Not known   |
+| Gastrointestinal disorders                      |                                                 |             |
+| Diarrhoea                                       | Very Common                                     | Common      |
+| Vomiting                                        | Very Common                                     | Not known   |
+| Nausea                                          | Very Common                                     | Not known   |
+| Abdominal pain                                  | Common                                          | Common      |
+| Skin and subcutaneous tissue disorders          |                                                 |             |
+| Pruritus                                        | Very Common                                     | Not known   |
+| Rash                                            | Very Common                                     | Not known   |
+| Erythema                                        | Common                                          | Common      |
+| Face oedema                                     | Common                                          | Not known   |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders |             |
+| Myalgia                                         | Very Common                                     | Common      |
+| Arthralgia                                      | Common                                          | Common      |
+| Bone pain                                       | Common                                          | Common      |
+| Renal and urinary disorders                     |                                                 |             |
+| Renal failure                                   | Common                                          | Not known   |
+| General disorders and administration site       | conditions                                      |             |
+| Pyrexia                                         | Very Common                                     | Common      |
+| Pain                                            | Very Common                                     | Common      |
+| Fatigue                                         | Very Common                                     | Not known   |
+| Oedema                                          | Very Common                                     | Not known   |
+| Chest pain                                      | Common                                          | Common      |
+| Chills                                          | Common                                          | Not known   |
+| Investigations                                  |                                                 |             |
+| Alanine amino transferase increased             | Very Common                                     | Common      |
+| Aspartate amino transferase increased           | Very Common                                     | Common      |
+| Electrocardiogram QT prolonged                  | Very Common                                     | Common      |
+| Hyperbilirubinaemia                             | Common                                          | Common      |
+| Blood creatinine increased                      | Common                                          | Not known   |
+| Weight increased                                | Common                                          | Not known   |
+| Gamma-glutamyltransferase increased*            | Not known*                                      | Not known*  |
 
-* In the CALGB study C9710, 2 cases of grade ≥ 3 increased GGT were reported out of the 200 patients who received arsenic trioxide consolidation cycles (cycle 1 and cycle 2) versus none in the control arm.
+* In the CALGB study C9710, 2 cases of grade ≥ 3 increased GGT were reported out of the
+
+200 patients who received arsenic trioxide consolidation cycles (cycle 1 and cycle 2) versus none in the control arm.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -438,9 +442,25 @@ The single institution study included 2 paediatric patients (&lt; 18 years old),
 
 <div style=\"page-break-after: always\"></div>
 
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
 In a follow-up treatment after consolidation, 7 patients in the single institution study and 18 patients in the multicentre study received further maintenance therapy with arsenic trioxide. Three patients from the single institution study and 15 patients from the multicentre study had stem cell transplants after completing arsenic trioxide. The Kaplan-Meier median CR duration for the single institution study is 14 months and has not been reached for the multicentre study. At last follow-up, 6 of 12 patients in the single institution study were alive with a median follow--up time of 28 months (range 25 to 29). In the multicentre study 27 of 40 patients were alive with a median follow-up time of 16 months (range 9 to 25). Kaplan-Meier estimates of 18-month survival for each study are shown below.
 
+At Risk Deaths 18-Month
+
 <!-- image -->
+
+0
 
 Cytogenetic confirmation of conversion to a normal genotype and reverse transcriptase-polymerase chain reaction (RT-PCR) detection of PML/RAR α conversion to normal are shown in table 5 below.
 
@@ -448,16 +468,16 @@ Cytogenetic confirmation of conversion to a normal genotype and reverse transcri
 
 Table 5
 
-|                                      | Single centre pilot study Nwith CR = 11   | Multicentre study Nwith CR = 34   |
-|--------------------------------------|-------------------------------------------|-----------------------------------|
-| Conventional Cytogenetics [t(15;17)] |                                           |                                   |
-| Absent                               | 8 (73 %)                                  | 31 (91 %) 0%                      |
-| Present                              | 1 (9 %)                                   |                                   |
-| Not evaluable                        | 2 (18 %)                                  | 3 (9 %)                           |
-| RT-PCR for PML/ RAR α                |                                           |                                   |
-| Negative                             | 8 (73 %)                                  | 27 (79 %) 4 (12 %)                |
-| Positive                             | 3 (27 %)                                  |                                   |
-| Not evaluable                        | 0                                         | 3 (9 %)                           |
+|                                      | Single centre pilot study N with CR = 11   | Multicentre study N with CR = 34   |
+|--------------------------------------|--------------------------------------------|------------------------------------|
+| Conventional Cytogenetics [t(15;17)] |                                            |                                    |
+| Absent                               | 8 (73 %)                                   | 31 (91 %) 0%                       |
+| Present                              | 1 (9 %)                                    |                                    |
+| Not evaluable                        | 2 (18 %)                                   | 3 (9 %)                            |
+| RT-PCR for PML/ RAR α                |                                            |                                    |
+| Negative                             | 8 (73 %)                                   | 27 (79 %) 4 (12 %)                 |
+| Positive                             | 3 (27 %)                                   |                                    |
+| Not evaluable                        | 0                                          | 3 (9 %)                            |
 
 Responses were seen across all age groups tested, ranging from 6 to 75 years. The response rate was similar for both genders. There is no experience on the effect of arsenic trioxide on the variant APL containing the t(11;17) and t(5;17) chromosomal translocations.
 
@@ -477,25 +497,25 @@ The volume of distribution (Vd) for As III is large (&gt; 400 L) indicating sign
 
 ## Biotransformation
 
-The metabolism of arsenic trioxide involves oxidation of arsenious acid (As III ), the active species of arsenic trioxide, to arsenic acid (As V ), as well as oxidative methylation to monomethylarsonic acid (MMA V ) and dimethylarsinic acid (DMA V ) by methyltransferases, primarily in the liver. The pentavalent metabolites, MMA V and DMA V , are slow to appear in plasma (approximately 10-24 hours after first administration of arsenic trioxide), but due to their longer half-life, accumulate more upon multiple dosing than does As III . The extent of accumulation of these metabolites is dependent on the dosing regimen. Approximate accumulation ranged from 1.4- to 8-fold following multiple as compared to single dose administration. As V is present in plasma only at relatively low levels.
+The metabolism of arsenic trioxide involves oxidation of arsenious acid (As III ), the active species of arsenic trioxide, to arsenic acid (As V ), as well as oxidative methylation to monomethylarsonic acid (MMA V ) and dimethylarsinic acid (DMA V ) by methyltransferases, primarily in the liver. The pentavalent metabolites, MMA V and DMA V , are slow to appear in plasma (approximately 10-24 hours after first administration of arsenic trioxide), but due to their longer half-life, accumulate more upon multiple dosing than does As III . The extent of accumulation of these metabolites is dependent on the dosing regimen. Approximate accumulation ranged from 1.4- to 8-fold following multiple as compared to single dose administration. As V  is present in plasma only at relatively low levels.
 
 In vitro enzymatic studies with human liver microsomes revealed that arsenic trioxide has no inhibitory activity on substrates of the major cytochrome P450 enzymes such as 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, 3A4/5, 4A9/11. Substances that are substrates for these P450 enzymes are not expected to interact with Arsenic trioxide medac.
 
 ## Elimination
 
-Approximately 15 % of the administered arsenic trioxide dose is excreted in the urine as unchanged As III . The methylated metabolites of As III (MMA V , DMA V ) are primarily excreted in the urine. The plasma concentration of As III declines from peak plasma concentration in a biphasic manner with a mean terminal elimination half-life of 10 to 14 hours. The total clearance of As III over the single-dose range of 7-32 mg (administered as 0.15 mg/kg) is 49 L/h and the renal clearance is 9 L/h. Clearance is not dependent on the weight of the subject or the dose administered over the dose range studied. The mean estimated terminal elimination half-lives of the metabolites MMA V and DMA V are 32 hours and 70 hours, respectively.
+Approximately 15 % of the administered arsenic trioxide dose is excreted in the urine as unchanged As III . The methylated metabolites of As III (MMA V , DMA V ) are primarily excreted in the urine. The plasma concentration of As III declines from peak plasma concentration in a biphasic manner with a mean terminal elimination half-life of 10 to 14 hours. The total clearance of As III over the single-dose range of 7-32 mg (administered as 0.15 mg/kg) is 49 L/h and the renal clearance is 9 L/h. Clearance is not dependent on the weight of the subject or the dose administered over the dose range studied. The mean estimated terminal elimination half-lives of the metabolites MMA V  and DMA V are 32 hours and 70 hours, respectively.
 
 ## Renal impairment
 
 Plasma clearance of As III was not altered in patients with mild renal impairment (creatinine clearance of 50-80 mL/min) or moderate renal impairment (creatinine clearance of 30-49 mL/min). The plasma clearance of As III in patients with severe renal impairment (creatinine clearance less than 30 mL/min) was 40 % lower when compared with patients with normal renal function (see section 4.4).
 
-Systemic exposure to MMA V and DMA V tended to be larger in patients with renal impairment; the clinical consequence of this is unknown but no increased toxicity was noted.
+Systemic exposure to MMA V  and DMA V  tended to be larger in patients with renal impairment; the clinical consequence of this is unknown but no increased toxicity was noted.
 
 ## Hepatic impairment
 
 <div style=\"page-break-after: always\"></div>
 
-Pharmacokinetic data from patients with hepatocellular carcinoma having mild to moderate hepatic impairment indicate that As III or As V do not accumulate following twice-weekly infusions. No clear trend toward an increase in systemic exposure to As III , As V , MMA V or DMA V was observed with decreasing level of hepatic function as assessed by dose-normalised (per mg dose) area under the curve (AUC).
+Pharmacokinetic data from patients with hepatocellular carcinoma having mild to moderate hepatic impairment indicate that As III or As V  do not accumulate following twice-weekly infusions. No clear trend toward an increase in systemic exposure to As III , As V , MMA V  or DMA V was observed with decreasing level of hepatic function as assessed by dose-normalised (per mg dose) area under the curve (AUC).
 
 ## Linearity/non-linearity
 
@@ -569,11 +589,13 @@ EU/1/20/1475/001
 
 Date of first authorisation: 17 September 2020
 
+Date of latest renewal: 17.07.2025
+
 ## 10. DATE OF REVISION OF THE TEXT
 
 <div style=\"page-break-after: always\"></div>
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -685,11 +707,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -698,8 +717,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN
 
@@ -707,15 +726,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| VIAL                                                             |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Arsenic trioxide medac 1 mg/ml sterile concentrate arsenic trioxide IV use after dilution.
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 Single use only.
 
@@ -729,8 +750,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 10 mg/10 ml
 
@@ -803,7 +824,7 @@ Arsenic trioxide medac is not recommended in children and adolescents below 18 y
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines, including medicines obtained without a prescription.
 
-In particular tell your doctor or pharmacist
+## In particular tell your doctor or pharmacist
 
 - if you are taking any of various types of medicines which could cause a change in the rhythm of your heartbeat. These include:
 - -some types of antiarrhythmics (medicines used to correct irregular heart beats, e.g. quinidine, amiodarone, sotalol, dofetilide)
@@ -962,7 +983,7 @@ medac Gesellschaft für klinische Spezialpräparate mbH Theaterstr. 6 22880 Wede
 
 ## This leaflet was last revised in {MM/YYYY}
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 There are also links to other websites about rare diseases and treatments.
 

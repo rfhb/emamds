@@ -1,36 +1,36 @@
 ---
-document_datetime: 2025-02-11 14:25:37
-document_pages: 2
+document_datetime: 2026-04-23 13:59:38
+document_pages: 4
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/kinpeygo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: kinpeygo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.2842149
-conversion_datetime: 2025-12-21 18:37:07.711972
+processing_time: 2.1234598
+conversion_datetime: 2026-04-25 16:46:05.980291
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+EUROPEAN MEDICINES AGENCY
+
+SCIENCE MEDICINES
+
 ## Kinpeygo
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, please also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Application number   | Scope                                  | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
-|----------------------|----------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| Variation type IB /  | This was an application for a group of | 11/02/2025                          |                                             | SmPC,                            |           |
+| Application number   | Scope                              | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type II /  | C.I HUMAN AND VETERINARY MEDICINAL | 19/03/2026                          |                                             | SmPC                             |           |
 
-1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
-
-2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
-
-3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+HEALTH
 
 <!-- image -->
 
@@ -38,5 +38,19 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/VR/0000245976   | variations. B.II.e.5 Change in pack size of the finished product - B.II.e.5.b Deletion of pack size(s) - Accepted B.II.e.1.b Change in type of container or addition of a new container - B.II.e.1.b.3 Deletion of an immediate packaging container that does not lead to the complete deletion of a strength or pharmaceutical form - Accepted B.II.f.1.b Extension of the shelf life of the finished product - B.II.f.1.b.1 As packaged for sale (supported by real time data) -   | Labelling and PL   |
-|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| EMA/VR/0000321405                     | PRODUCTS - C.I.4 Change(s) in the Summary of Product Characteristics, Labelling or Package Leaflet due to new quality, preclinical, clinical or pharmacovigilance data - Accepted Update of sections 4.2, 4.8 and 5.1 of the SmPC in order to update efficacy and safety information regarding re-treatment, based on results from the Phase 3b Nef-301 OLE study. This is an Open-Label Extension (OLE) study to evaluate the efficacy and safety of Nefecon treatment in patients with IgA nephropathy who have completed study Nef- 301. In addition, the MAH took the opportunity to introduce minor formatting changes to the PI.   |            |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Variation type IB / EMA/VR/0000323441 | B.II.c.1 Change in the specification parameters and/or limits of an excipient - B.II.c.1.a Tightening of specification limits - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 02/02/2026 |
+| Variation type IA / EMA/VR/0000316210 | This was an application for a group of variations. B.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - B.II.b.3.a Minor change in the manufacturing process - Accepted                                                                                                                                                                                                                                                                                                                                                                     | 04/12/2025 |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | B.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - B.II.b.3.a Minor change in the manufacturing process - Accepted B.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - B.II.b.3.a Minor change in the manufacturing process - Accepted B.II.e.7 Change in supplier of packaging components or devices (when mentioned in the dossier) - B.II.e.7.a Change in the name of a supplier of a packaging component. If the information is not needed in the dossier CMDh recommends deletion of this information. - Accepted B.II.e.6 Change in any part of the (primary) packaging material not in contact with the finished product formulation (such as colour of flip-off caps, colour code rings on ampoules, change of needle shield (different plastic used)) - B.II.e.6.b Change that does   |            |                        |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------|
+| Variation type IB / EMA/VR/0000245976 | This was an application for a group of variations. B.II.e.5 Change in pack size of the finished product - B.II.e.5.b Deletion of pack size(s) - Accepted B.II.e.1.b Change in type of container or                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 11/02/2025 | SmPC, Labelling and PL |
+
+<div style=\"page-break-after: always\"></div>
+
+|                            | addition of a new container - B.II.e.1.b.3 Deletion of an immediate packaging container that does not lead to the complete deletion of a strength or pharmaceutical form - Accepted B.II.f.1.b Extension of the shelf life of the finished product - B.II.f.1.b.1 As packaged for sale (supported by real time data) - Accepted   |             |
+|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| PSUR / EMA/PSUR/0000257894 | n/a                                                                                                                                                                                                                                                                                                                               | Maintenance |

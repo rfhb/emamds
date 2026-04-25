@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-27 12:48:59
-document_pages: 93
+document_datetime: 2026-04-22 12:19:28
+document_pages: 91
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rybelsus-epar-product-information_en.pdf
 document_name: rybelsus-epar-product-information_en.pdf
 version: success
-processing_time: 41.5071218
-conversion_datetime: 2026-01-29 11:42:52.154954
+processing_time: 38.7846581
+conversion_datetime: 2026-04-25 16:18:11.630192
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -159,7 +159,7 @@ In order to improve the traceability of biological medicinal products, the name 
 
 ## General
 
-Semaglutide should not be used in patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis. Diabetic ketoacidosis has been reported in insulin-dependent patients  who had rapid discontinuation or dose reduction of insulin when treatment with a GLP-1 receptor agonist is started (see section 4.2).
+Semaglutide should not be used for the treatment of diabetic ketoacidosis. Diabetic ketoacidosis has been reported in insulin-dependent patients  who had rapid discontinuation or dose reduction of insulin when treatment with a GLP-1 receptor agonist is started (see section 4.2).
 
 There is no therapeutic experience in patients with congestive heart failure New York Heart Association (NYHA) class IV and semaglutide is therefore not recommended in these patients.
 
@@ -477,16 +477,13 @@ Table 3 Results of a 52-week trial comparing semaglutide with empagliflozin (PIO
 
 In a 78-week, double-blind, double-dummy trial, 1 864 patients with type 2 diabetes were randomised to semaglutide 3 mg, semaglutide 7 mg, semaglutide 14 mg or sitagliptin 100 mg once daily, all in combination with metformin alone or metformin and sulfonylurea. Reductions in HbA1c and body weight were sustained throughout the trial duration of 78 weeks.
 
-Table 4 Results of a 78-week trial comparing semaglutide with sitagliptin (PIONEER 3)
-
-|                       |   Semaglutide 7 mg 2 (Bioequivalent to 4 mg) |   Semaglutide 14 mg 2 (Bioequivalent to 9 mg) |   Sitagliptin 100 mg |
-|-----------------------|----------------------------------------------|-----------------------------------------------|----------------------|
-| Full analysis set (N) |                                          465 |                                           465 |                  467 |
-
 <div style=\"page-break-after: always\"></div>
+
+Table 4 Results of a 78-week trial comparing semaglutide with sitagliptin (PIONEER 3)
 
 |                                        | Semaglutide 7 mg 2 (Bioequivalent to 4 mg)   | Semaglutide 14 mg 2 (Bioequivalent to 9 mg)   | Sitagliptin 100 mg   |
 |----------------------------------------|----------------------------------------------|-----------------------------------------------|----------------------|
+| Full analysis set (N)                  | 465                                          | 465                                           | 467                  |
 | Week 26                                |                                              |                                               |                      |
 | HbA 1c (%)                             |                                              |                                               |                      |
 | Baseline                               | 8.4                                          | 8.3                                           | 8.3                  |
@@ -532,13 +529,13 @@ Table 5 Results of a 52-week trial comparing semaglutide with liraglutide and pl
 | Baseline                               | 9.3                                           | 9.3                  | 9.2       |
 | Change from baseline 1                 | - 2.0                                         | - 1.9                | - 0.4     |
 | Difference from liraglutide 1 [95% CI] | - 0.1 [ - 0.4; 0.1]                           | -                    | -         |
-| Difference from placebo 1 [95% CI]     | - 1.6 [ - 2.0; - 1.3] §                       | -                    | -         |
-| Body weight (kg)                       |                                               |                      |           |
 
 <div style=\"page-break-after: always\"></div>
 
 |                                        | Semaglutide 14 mg 2 (Bioequivalent to 9 mg)   | Liraglutide 1.8 mg   | Placebo   |
 |----------------------------------------|-----------------------------------------------|----------------------|-----------|
+| Difference from placebo 1 [95% CI]     | - 1.6 [ - 2.0; - 1.3] §                       | -                    | -         |
+| Body weight (kg)                       |                                               |                      |           |
 | Baseline                               | 92.9                                          | 95.5                 | 93.2      |
 | Change from baseline 1                 | - 4.4                                         | - 3.1                | - 0.5     |
 | Difference from liraglutide 1 [95% CI] | - 1.2 [ - 1.9; - 0.6]*                        | -                    | -         |
@@ -579,13 +576,11 @@ Table 6 Results of a 26-week trial comparing semaglutide with placebo in patient
 
 1 Irrespective of treatment discontinuation or initiation of rescue medication (pattern mixture model using multiple imputation).  * p&lt; 0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity. § p&lt; 0.05, not controlled for multiplicity; for 'Patients achieving HbA1c &lt; 7.0%', the p-value is for the odds ratio.  2  Bioequivalence has been confirmed between 9 mg and 14 mg doses, see section 5.2 Pharmacokinetic properties.
 
-PIONEER 7 - Semaglutide vs. sitagliptin, both in combination with metformin, SGLT2 inhibitors, sulfonylurea or thiazolidinediones. Flexible-dose-adjustment trial
-
-In a 52-week open-label trial, 504 patients with type 2 diabetes were randomised to semaglutide (flexible dose adjustment of 3 mg, 7 mg, and 14 mg once daily) or sitagliptin 100 mg once daily, all in
-
 <div style=\"page-break-after: always\"></div>
 
-combination with 1-2 oral glucose-lowering medicinal products (metformin, SGLT2 inhibitors, sulfonylurea or thiazolidinediones). The dose of semaglutide was adjusted every 8 weeks based on patient's glycaemic response and tolerability. The sitagliptin 100 mg dose was fixed. The efficacy and safety of semaglutide were evaluated at week 52.
+PIONEER 7 - Semaglutide vs. sitagliptin, both in combination with metformin, SGLT2 inhibitors, sulfonylurea or thiazolidinediones. Flexible-dose-adjustment trial
+
+In a 52-week open-label trial, 504 patients with type 2 diabetes were randomised to semaglutide (flexible dose adjustment of 3 mg, 7 mg, and 14 mg once daily) or sitagliptin 100 mg once daily, all in combination with 1-2 oral glucose-lowering medicinal products (metformin, SGLT2 inhibitors, sulfonylurea or thiazolidinediones). The dose of semaglutide was adjusted every 8 weeks based on patient's glycaemic response and tolerability. The sitagliptin 100 mg dose was fixed. The efficacy and safety of semaglutide were evaluated at week 52.
 
 At week 52, the proportion of patients on treatment with semaglutide 3 mg, 7 mg and 14 mg was approximately 10%, 30% and 60%, respectively.
 
@@ -624,24 +619,66 @@ Table 8 Results of a 52-week trial comparing semaglutide with placebo in combina
 | Body weight (kg)                                |                                              |                                               |           |
 | Baseline                                        | 87.1                                         | 84.6                                          | 86.0      |
 | Change from baseline 1                          | - 2.4                                        | - 3.7                                         | - 0.4     |
-| Difference from placebo 1 [95% CI]              | - 2.0 [ - 3.0; - 1.0]*                       | - 3.3 [ - 4.2; - 2.3]*                        | -         |
-| Week 52 (uncapped insulin dose) +               |                                              |                                               |           |
-| HbA 1c (%)                                      |                                              |                                               |           |
-| Change from baseline 1                          | - 0.8                                        | - 1.2                                         | - 0.2     |
 
 <div style=\"page-break-after: always\"></div>
 
+HbAlc (%)
+
+98-
+
+95-
+
+96-
+
+9.0-
+
+94
+
+8.5-
+
+8.0-
+
+92-
+
+7.5-
+
+7.0-
+
+Body Weight (kg)
+
+88-
+
+6.5-
+
+86 -
+
+0
+
+-
+
+8
+
+12 16 20
+
+Oral sema 14 mg
+
 |                                      | Semaglutide 7 mg 2 (Bioequivalent to 4 mg)   | Semaglutide 14 mg 2 (Bioequivalent to 9 mg)   | Placebo   |
 |--------------------------------------|----------------------------------------------|-----------------------------------------------|-----------|
+| Difference from placebo 1 [95% CI]   | - 2.0 [ - 3.0; - 1.0]*                       | - 3.3 [ - 4.2; - 2.3]*                        | -         |
+| Week 52 (uncapped insulin dose) +    |                                              |                                               |           |
+| HbA 1c (%)                           |                                              |                                               |           |
+| Change from baseline 1               | - 0.8                                        | - 1.2                                         | - 0.2     |
 | Difference from placebo 1 [95% CI]   | - 0.6 [ - 0.8; - 0.4] §                      | - 0.9 [ - 1.1; - 0.7] §                       | -         |
 | Patients (%) achieving HbA 1c < 7.0% | 40 §                                         | 54 §                                          | 9         |
 | Body weight (kg)                     |                                              |                                               |           |
 | Change from baseline 1               | - 2.0                                        | - 3.7                                         | 0.5       |
 | Difference from placebo 1 [95% CI]   | - 2.5 [ - 3.6; - 1.4] §                      | - 4.3 [ - 5.3; - 3.2] §                       | -         |
 
+Oral sema 14 mg
+
 1 Irrespective of treatment discontinuation or initiation of rescue medication (pattern mixture model using multiple imputation). * p&lt; 0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity. § p&lt; 0.05, not controlled for multiplicity; for 'Patients achieving HbA1c &lt; 7.0%', the p-value is for the odds ratio. + The total daily insulin dose was statistically significantly lower with semaglutide than with placebo at week 52.  2  Bioequivalence has been confirmed between 4 mg and 7 mg doses, as well as, between 9 mg and 14 mg doses, see section 5.2 Pharmacokinetic properties.
 
-## PIONEER PLUS - Efficacy and safety of semaglutide 25 mg and 50 mg compared with semaglutide 14 mg once daily in subjects with type 2 diabetes
+PIONEER PLUS - Efficacy and safety of semaglutide 25 mg and 50 mg compared with semaglutide 14 mg once daily in subjects with type 2 diabetes
 
 In a 68-week double-blinded clinical trial 1 606 patients with type 2 diabetes on stable doses of 1-3 oral anti-diabetic drugs (metformin, sulfonylureas, SGLT2 inhibitors or DPP-4 inhibitors*) were randomized to receive maintenance doses of either semaglutide 14 mg, semaglutide 25 mg or semaglutide 50 mg once daily.
 
@@ -649,71 +686,29 @@ In a 68-week double-blinded clinical trial 1 606 patients with type 2 diabetes o
 
 Treatment with semaglutide 25 mg and 50 mg once daily was superior in reducing HbA1c and body weight compared to semaglutide 14 mg (see Table 9). Week 68 data support a sustained effect of oral semaglutide 14 mg, 25 mg and 50 mg on HbA1c and body weight (see Figure 1).
 
+Figure 1 Mean HbA1c and mean body weight (kg) from baseline to week 68
+
 <!-- image -->
 
-0
-
-4
-
-121620
-
-26
-
-32
-
-38
-
-44
-
-52
-
-Time since randomisation (weeks)
-
-Oral sema 14 mg
-
-Oral sema 25 mg
-
-60
-
-89
-
-Oral sema 50 mg
-
-Figure 1 Mean HbA1c and mean body weight (kg) from baseline to week 68
+<!-- image -->
 
 Table 9 Results of a 52-week trial comparing semaglutide 25 mg and 50 mg with semaglutide 14 mg (PIONEER PLUS)
 
-|                                           | Semaglutide 14 mg 2 (Bioequivalent to 9 mg)   | Semaglutide 25 mg         | Semaglutide 50 mg         |
-|-------------------------------------------|-----------------------------------------------|---------------------------|---------------------------|
-| Full analysis set (N)                     | 536                                           | 535                       | 535                       |
-| Week 52                                   |                                               |                           |                           |
-| HbA 1c (%)                                |                                               |                           |                           |
-| Baseline                                  | 8.9                                           | 9.0                       | 8.9                       |
-| Change from baseline 1                    | - 1.5                                         | - 1.8                     | - 2.0                     |
-| Difference from Rybelsus 14 mg 1 [95% CI] |                                               | - 0.27 [ - 0.42; - 0.12]* | - 0.53 [ - 0.68: - 0.38]* |
-| Patients (%) achieving HbA 1c < 7.0%      | 39.0 §                                        | 50.5 §                    | 63.0 §                    |
-| Patients (%) achieving HbA 1c ≤ 6.5%      | 25.8 §                                        | 39.6 §                    | 51.2 §                    |
-
-98
-
-96
-
-94
-
-92
-
-06
-
-88
-
-86
-
-Body Weight (kg)
+|                        | Semaglutide 14 mg 2 (Bioequivalent to 9 mg)   | Semaglutide 25 mg   | Semaglutide 50 mg   |
+|------------------------|-----------------------------------------------|---------------------|---------------------|
+| Full analysis set (N)  | 536                                           | 535                 | 535                 |
+| Week 52                |                                               |                     |                     |
+| HbA 1c (%)             |                                               |                     |                     |
+| Baseline               | 8.9                                           | 9.0                 | 8.9                 |
+| Change from baseline 1 | - 1.5                                         | - 1.8               | - 2.0               |
 
 <div style=\"page-break-after: always\"></div>
 
 |                                           | Semaglutide 14 mg 2 (Bioequivalent to 9 mg)   | Semaglutide 25 mg          | Semaglutide 50 mg          |
 |-------------------------------------------|-----------------------------------------------|----------------------------|----------------------------|
+| Difference from Rybelsus 14 mg 1 [95% CI] |                                               | - 0.27 [ - 0.42; - 0.12]*  | - 0.53 [ - 0.68: - 0.38]*  |
+| Patients (%) achieving HbA 1c < 7.0%      | 39.0 §                                        | 50.5 §                     | 63.0 §                     |
+| Patients (%) achieving HbA 1c ≤ 6.5%      | 25.8 §                                        | 39.6 §                     | 51.2 §                     |
 | FPG (mmol/L)                              |                                               |                            |                            |
 | Baseline                                  | 10.8                                          | 11.0                       | 10.8                       |
 | Change from baseline 1                    | - 2.3                                         | - 2.8                      | - 3.2                      |
@@ -739,9 +734,21 @@ Superiority of semaglutide versus placebo for MACE was confirmed with a hazard r
 
 <div style=\"page-break-after: always\"></div>
 
+Patients with Event (%)
+
 reduction of MACE with semaglutide was consistent across subgroups of age, sex, race, ethnicity, BMI at baseline, or level of kidney function impairment.
 
 Analysis of the first composite kidney event (the first confirmatory secondary endpoint) resulted in a hazard ratio of 0.91 [0.80; 1.05] [95% CI].
+
+4 -
+
+2-
+
+0
+
+Patients at risk
+
+Oral Semaglutide
 
 <!-- image -->
 
@@ -751,7 +758,25 @@ CV: cardiovascular, EAC: event adjudication committee, MACE: major adverse cardi
 
 Figure 2: Time from randomisation to first MACE Cumulative incidence function plot
 
+Placebo
+
 <div style=\"page-break-after: always\"></div>
+
+Primary endpoint and components
+
+CV death
+
+Non-fatal MI
+
+Non-fatal stroke
+
+Other secondary endpoints
+
+Composite kidney event
+
+MALE
+
+All-cause death
 
 <!-- image -->
 
@@ -770,6 +795,8 @@ Figure 2: Time from randomisation to first MACE Cumulative incidence function pl
 0.6
 
 0.8
+
+HR 195% CH
 
 1.0
 
@@ -796,6 +823,12 @@ The total number of first MACE was 137: 61 (3.8%) with semaglutide and 76 (4.8%)
 By end-of-treatment, 27-65.7 % of the patients had achieved a weight loss of ≥ 5% and 6-34.7% had achieved a weight loss of ≥ 10% with semaglutide, compared with 12-39% and 2-8%, respectively, with the active comparators.
 
 In the cardiovascular outcomes trial SOUL, a reduction in body weight from baseline to week 104 was observed with semaglutide vs. placebo, in addition to standard-ofcare (-4.22 kg vs. -1.27 kg).
+
+Number of events/
+
+(Oral sema; Placebo)
+
+analysed subjects
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1113,7 +1146,7 @@ In order to improve the traceability of biological medicinal products, the name 
 
 ## General
 
-Semaglutide should not be used in patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis. Diabetic ketoacidosis has been reported in insulin-dependent patients who had rapid discontinuation or dose reduction of insulin when treatment with a GLP-1 receptor agonist is started (see section 4.2).
+Semaglutide should not be used for the treatment of diabetic ketoacidosis. Diabetic ketoacidosis has been reported in insulin-dependent patients who had rapid discontinuation or dose reduction of insulin when treatment with a GLP-1 receptor agonist is started (see section 4.2).
 
 There is no therapeutic experience in patients with congestive heart failure New York Heart Association (NYHA) class IV and semaglutide is therefore not recommended in these patients.
 
@@ -1139,9 +1172,9 @@ Patients treated with semaglutide in combination with a sulfonylurea or insulin 
 
 In patients with diabetic retinopathy treated with insulin and subcutaneous semaglutide, an increased risk of developing diabetic retinopathy complications has been observed, a risk that cannot be excluded for orally administered semaglutide (see section 4.8). Caution should be exercised when using semaglutide in patients with diabetic retinopathy. These patients should be monitored closely and treated according to clinical guidelines. Rapid improvement in glucose control has been associated with a temporary worsening of diabetic retinopathy, but other mechanisms cannot be excluded. Longterm glycaemic control decreases the risk of diabetic retinopathy.
 
-<div style=\"page-break-after: always\"></div>
-
 There is no experience with oral semaglutide 25 mg and 50 mg in patients with type 2 diabetes with uncontrolled or potentially unstable diabetic retinopathy.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Non-arteritic anterior ischaemic optic neuropathy (NAION)
 
@@ -1177,11 +1210,11 @@ Semaglutide did not change the AUC or Cmax of R- and S-warfarin following a sing
 
 AUC of rosuvastatin was increased by 41% [90% CI: 24;60] when co-administered with semaglutide. Based on the wide therapeutic index of rosuvastatin the magnitude of changes in the exposure is not considered clinically relevant.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Digoxin, oral contraceptives, metformin, furosemide
 
 No clinically relevant change in AUC or Cmax of digoxin, oral contraceptives (containing ethinylestradiol and levonorgestrel), metformin or furosemide was observed when concurrently administered with semaglutide.
+
+<div style=\"page-break-after: always\"></div>
 
 Interactions with medicinal products with very low bioavailability (1%) have not been evaluated.
 
@@ -1217,13 +1250,15 @@ Semaglutide has no or negligible influence on the ability to drive and use machi
 
 When it is used in combination with a sulfonylurea or insulin, patients should be advised to take precautions to avoid hypoglycaemia while driving and using machines (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-In 10 phase 3a trials, 5 707 patients were exposed to semaglutide alone or in combination with other glucose-lowering medicinal products. The duration of the treatment ranged from 26 weeks to 78 weeks. The most frequently reported adverse reactions in clinical trials were gastrointestinal disorders, including nausea (very common), diarrhoea (very common) and vomiting (common).
+In 10 phase 3a trials, 5 707 patients were exposed to semaglutide alone or in combination with other glucose-lowering medicinal products. The duration of the treatment ranged from 26 weeks to
+
+<div style=\"page-break-after: always\"></div>
+
+78 weeks. The most frequently reported adverse reactions in clinical trials were gastrointestinal disorders, including nausea (very common), diarrhoea (very common) and vomiting (common).
 
 ## Tabulated list of adverse reactions
 
@@ -1233,23 +1268,23 @@ The reactions are listed below by system organ class and absolute frequency. Fre
 
 Table 1 Frequency of adverse reactions of oral semaglutide
 
-| MedDRA system organ class          | Very common                                             | Common                                                                              | Uncommon                            | Rare                   | Very Rare                                                     | Not known                   |
-|------------------------------------|---------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------|------------------------|---------------------------------------------------------------|-----------------------------|
-| Immune system disorders            |                                                         |                                                                                     | Hypersensitiv ity c                 | Anaphylac tic reaction |                                                               |                             |
-| Metabolism and nutrition disorders | Hypoglycae mia when used with insulin or sulfonylurea a | Hypoglycae mia when used with other oral antidiabetic products a Decreased appetite |                                     |                        |                                                               |                             |
-| Nervous system disorders           |                                                         | Dizziness Dysaesthesia e Headache                                                   | Dysgeusia                           |                        |                                                               |                             |
-| Eye disorders                      |                                                         | Diabetic retinopathy complication s b                                               |                                     |                        | Non- arteritic anterior ischaemi c optic neuropat hy (NAION ) |                             |
-| Cardiac disorders                  |                                                         |                                                                                     | Increased heart rate                |                        |                                                               |                             |
-| Gastrointesti nal disorders        | Nausea Diarrhoea                                        | Vomiting Abdominal pain                                                             | Eructation Delayed gastric emptying | Acute pancreatiti s    |                                                               | Intestinal obstructio n d,f |
+| MedDRA system organ class          | Very common                                             | Common                                                                                            | Uncommon                            | Rare                   | Very Rare                                                     | Not known                   |
+|------------------------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------|------------------------|---------------------------------------------------------------|-----------------------------|
+| Immune system disorders            |                                                         |                                                                                                   | Hypersensitiv ity c                 | Anaphylac tic reaction |                                                               |                             |
+| Metabolism and nutrition disorders | Hypoglycae mia when used with insulin or sulfonylurea a | Hypoglycae mia when used with other oral antidiabetic products a Decreased appetite               |                                     |                        |                                                               |                             |
+| Nervous system disorders           |                                                         | Dizziness Dysaesthesia e Headache                                                                 | Dysgeusia                           |                        |                                                               |                             |
+| Eye disorders                      |                                                         | Diabetic retinopathy complication s b                                                             |                                     |                        | Non- arteritic anterior ischaemi c optic neuropat hy (NAION ) |                             |
+| Cardiac disorders                  |                                                         |                                                                                                   | Increased heart rate                |                        |                                                               |                             |
+| Gastrointesti nal disorders        | Nausea Diarrhoea                                        | Vomiting Abdominal pain Abdominal distension Constipation Dyspepsia Gastritis Gastro- oesophageal | Eructation Delayed gastric emptying | Acute pancreatiti s    |                                                               | Intestinal obstructio n d,f |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA system organ class                             | Very common   | Common                                                                                              | Uncommon         | Rare   | Very Rare   | Not known   |
-|-------------------------------------------------------|---------------|-----------------------------------------------------------------------------------------------------|------------------|--------|-------------|-------------|
-|                                                       |               | Abdominal distension Constipation Dyspepsia Gastritis Gastro- oesophageal reflux disease Flatulence |                  |        |             |             |
-| Hepatobiliar y disorders                              |               |                                                                                                     | Cholelithiasis   |        |             |             |
-| General disorders and administrati on site conditions |               | Fatigue                                                                                             |                  |        |             |             |
-| Investigation s                                       |               | Increased lipase Increased amylase                                                                  | Weight decreased |        |             |             |
+| MedDRA system organ class                             | Very common   | Common                             | Uncommon         | Rare   | Very Rare   | Not known   |
+|-------------------------------------------------------|---------------|------------------------------------|------------------|--------|-------------|-------------|
+|                                                       |               | reflux disease Flatulence          |                  |        |             |             |
+| Hepatobiliar y disorders                              |               |                                    | Cholelithiasis   |        |             |             |
+| General disorders and administrati on site conditions |               | Fatigue                            |                  |        |             |             |
+| Investigation s                                       |               | Increased lipase Increased amylase | Weight decreased |        |             |             |
 
 ## Description of selected adverse reactions
 
@@ -1265,11 +1300,11 @@ In PIONEER PLUS when treated with semaglutide 25 mg and 50 mg nausea occurred in
 
 Most events were mild to moderate in severity and of short duration. The events were most frequently reported during dose escalation the first months on treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 Patients with gastroparesis may experience more serious or severe gastrointestinal effects when treated with semaglutide.
 
 Acute pancreatitis confirmed by adjudication has been reported in phase 3a trials, semaglutide (&lt; 0.1%) and comparator (0.2%). In the cardiovascular outcomes trial PIONEER 6 the frequency of acute pancreatitis confirmed by adjudication was 0.1% for semaglutide and 0.2% for placebo (see section 4.4.). In phase 3b cardiovascular outcomes trial SOUL, the frequency of acute pancreatitis confirmed by adjudication was 0.4% for semaglutide and 0.4% for placebo.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Diabetic retinopathy complications
 
@@ -1297,11 +1332,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-Effects of overdose with semaglutide in clinical studies may be associated with gastrointestinal disorders. In the event of overdose, appropriate supportive treatment should be initiated according to the patient's clinical signs and symptoms. A prolonged period of observation and treatment of the
+Effects of overdose with semaglutide in clinical studies may be associated with gastrointestinal disorders. In the event of overdose, appropriate supportive treatment should be initiated according to the patient's clinical signs and symptoms. A prolonged period of observation and treatment of the symptoms may be necessary, taking into account the long half-life of semaglutide of approximately 1 week (see section 5.2). There is no specific antidote for overdose with semaglutide.
 
 <div style=\"page-break-after: always\"></div>
-
-symptoms may be necessary, taking into account the long half-life of semaglutide of approximately 1 week (see section 5.2). There is no specific antidote for overdose with semaglutide.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -1335,11 +1368,11 @@ Semaglutide reduces fasting and postprandial glucose concentrations. In patients
 
 Semaglutide lowers the postprandial glucagon concentrations. In patients with type 2 diabetes, semaglutide resulted in the following relative reductions in glucagon compared to placebo: postprandial glucagon response of 29% [15; 41].
 
-<div style=\"page-break-after: always\"></div>
-
 ## Gastric emptying
 
 Semaglutide causes a minor delay in early postprandial gastric emptying, with paracetamol exposure (AUC0-1h) 31% [13; 46] lower in the first hour after the meal, thereby reducing the rate at which glucose appears in the circulation postprandially.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Fasting and postprandial lipids
 
@@ -1363,31 +1396,33 @@ In a 26-week double-blind trial, 703 patients with type 2 diabetes inadequately 
 
 Table 2 Results of a 26-week monotherapy trial comparing semaglutide with placebo (PIONEER 1)
 
-|                                      | Semaglutide 7 mg       | Semaglutide 14 mg      | Placebo   |
-|--------------------------------------|------------------------|------------------------|-----------|
-| Full analysis set (N)                | 175                    | 175                    | 178       |
-| HbA 1c (%)                           |                        |                        |           |
-| Baseline                             | 8.0                    | 8.0                    | 7.9       |
-| Change from baseline 1               | - 1.2                  | - 1.4                  | - 0.3     |
-| Difference from placebo 1 [95% CI]   | - 0.9 [ - 1.1; - 0.6]* | - 1.1 [ - 1.3; - 0.9]* | -         |
-| Patients (%) achieving HbA 1c < 7.0% | 69 §                   | 77 §                   | 31        |
-| FPG (mmol/L)                         |                        |                        |           |
-| Baseline                             | 9.0                    | 8.8                    | 8.9       |
-| Change from baseline 1               | - 1.5                  | - 1.8                  | - 0.2     |
+|                                      | Semaglutide 7 mg        | Semaglutide 14 mg       | Placebo   |
+|--------------------------------------|-------------------------|-------------------------|-----------|
+| Full analysis set (N)                | 175                     | 175                     | 178       |
+| HbA 1c (%)                           |                         |                         |           |
+| Baseline                             | 8.0                     | 8.0                     | 7.9       |
+| Change from baseline 1               | - 1.2                   | - 1.4                   | - 0.3     |
+| Difference from placebo 1 [95% CI]   | - 0.9 [ - 1.1; - 0.6]*  | - 1.1 [ - 1.3; - 0.9]*  | -         |
+| Patients (%) achieving HbA 1c < 7.0% | 69 §                    | 77 §                    | 31        |
+| FPG (mmol/L)                         |                         |                         |           |
+| Baseline                             | 9.0                     | 8.8                     | 8.9       |
+| Change from baseline 1               | - 1.5                   | - 1.8                   | - 0.2     |
+| Difference from placebo 1 [95% CI]   | - 1.4 [ - 1.9; - 0.8] § | - 1.6 [ - 2.1; - 1.2] § | -         |
+| Body weight (kg)                     |                         |                         |           |
+| Baseline                             | 89.0                    | 88.1                    | 88.6      |
+| Change from baseline 1               | - 2.3                   | - 3.7                   | - 1.4     |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                    | Semaglutide 7 mg        | Semaglutide 14 mg       | Placebo   |
-|------------------------------------|-------------------------|-------------------------|-----------|
-| Difference from placebo 1 [95% CI] | - 1.4 [ - 1.9; - 0.8] § | - 1.6 [ - 2.1; - 1.2] § | -         |
-| Body weight (kg)                   |                         |                         |           |
-| Baseline                           | 89.0                    | 88.1                    | 88.6      |
-| Change from baseline 1             | - 2.3                   | - 3.7                   | - 1.4     |
-| Difference from placebo 1 [95% CI] | - 0.9 [ - 1.9; 0.1]     | - 2.3 [ - 3.1; - 1.5]*  | -         |
+|                                    | Semaglutide 7 mg    | Semaglutide 14 mg      | Placebo   |
+|------------------------------------|---------------------|------------------------|-----------|
+| Difference from placebo 1 [95% CI] | - 0.9 [ - 1.9; 0.1] | - 2.3 [ - 3.1; - 1.5]* | -         |
 
 1 Irrespective of treatment discontinuation or initiation of rescue medication (pattern mixture model using multiple imputation).  * p&lt; 0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity. § p&lt; 0.05, not controlled for multiplicity; for 'Patients achieving HbA1c &lt; 7.0%', the p-value is for the odds ratio.
 
-PIONEER 2 - Semaglutide vs. empagliflozin, both in combination with metformin In a 52-week open-label trial, 822 patients with type 2 diabetes were randomised to semaglutide 14 mg once daily or empagliflozin 25 mg once daily, both in combination with metformin.
+## PIONEER 2 - Semaglutide vs. empagliflozin, both in combination with metformin
+
+In a 52-week open-label trial, 822 patients with type 2 diabetes were randomised to semaglutide 14 mg once daily or empagliflozin 25 mg once daily, both in combination with metformin.
 
 Table 3 Results of a 52-week trial comparing semaglutide with empagliflozin (PIONEER 2)
 
@@ -1423,16 +1458,19 @@ Table 3 Results of a 52-week trial comparing semaglutide with empagliflozin (PIO
 
 In a 78-week, double-blind, double-dummy trial, 1 864 patients with type 2 diabetes were randomised to semaglutide 3 mg, semaglutide 7 mg, semaglutide 14 mg or sitagliptin 100 mg once daily, all in combination with metformin alone or metformin and sulfonylurea. Reductions in HbA1c and body weight were sustained throughout the trial duration of 78 weeks.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 4 Results of a 78-week trial comparing semaglutide with sitagliptin (PIONEER 3)
+
+|                       |   Semaglutide 7 mg |   Semaglutide 14 mg |   Sitagliptin 100 mg |
+|-----------------------|--------------------|---------------------|----------------------|
+| Full analysis set (N) |                465 |                 465 |                  467 |
+| Week 26               |                    |                     |                      |
+| HbA 1c (%)            |                    |                     |                      |
+| Baseline              |                8.4 |                 8.3 |                  8.3 |
+
+<div style=\"page-break-after: always\"></div>
 
 |                                        | Semaglutide 7 mg        | Semaglutide 14 mg       | Sitagliptin 100 mg   |
 |----------------------------------------|-------------------------|-------------------------|----------------------|
-| Full analysis set (N)                  | 465                     | 465                     | 467                  |
-| Week 26                                |                         |                         |                      |
-| HbA 1c (%)                             |                         |                         |                      |
-| Baseline                               | 8.4                     | 8.3                     | 8.3                  |
 | Change from baseline 1                 | - 1.0                   | - 1.3                   | - 0.8                |
 | Difference from sitagliptin 1 [95% CI] | - 0.3 [ - 0.4; - 0.1] * | - 0.5 [ - 0.6; - 0.4] * | -                    |
 | Patients (%) achieving HbA 1c < 7.0%   | 44 §                    | 56 §                    | 32                   |
@@ -1477,16 +1515,16 @@ Table 5 Results of a 52-week trial comparing semaglutide with liraglutide and pl
 | Difference from liraglutide 1 [95% CI] | - 0.1 [ - 0.4; 0.1]     | -                    | -         |
 | Difference from placebo 1 [95% CI]     | - 1.6 [ - 2.0; - 1.3] § | -                    | -         |
 | Body weight (kg)                       |                         |                      |           |
-
-<div style=\"page-break-after: always\"></div>
-
-|                                        | Semaglutide 14 mg       | Liraglutide 1.8 mg   | Placebo   |
-|----------------------------------------|-------------------------|----------------------|-----------|
 | Baseline                               | 92.9                    | 95.5                 | 93.2      |
 | Change from baseline 1                 | - 4.4                   | - 3.1                | - 0.5     |
 | Difference from liraglutide 1 [95% CI] | - 1.2 [ - 1.9; - 0.6]*  | -                    | -         |
 | Difference from placebo 1 [95% CI]     | - 3.8 [ - 4.7; - 3.0]*  | -                    | -         |
 | Week 52                                |                         |                      |           |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                        | Semaglutide 14 mg       | Liraglutide 1.8 mg   | Placebo   |
+|----------------------------------------|-------------------------|----------------------|-----------|
 | HbA 1c (%)                             |                         |                      |           |
 | Change from baseline 1                 | - 1.2                   | - 0.9                | - 0.2     |
 | Difference from liraglutide 1 [95% CI] | - 0.3 [ - 0.5; - 0.1] § | -                    | -         |
@@ -1524,13 +1562,11 @@ Table 6 Results of a 26-week trial comparing semaglutide with placebo in patient
 
 ## PIONEER 7 - Semaglutide vs. sitagliptin, both in combination with metformin, SGLT2 inhibitors, sulfonylurea or thiazolidinediones. Flexible-dose-adjustment trial
 
-In a 52-week open-label trial, 504 patients with type 2 diabetes were randomised to semaglutide (flexible dose adjustment of 3 mg, 7 mg, and 14 mg once daily) or sitagliptin 100 mg once daily, all in combination with 1-2 oral glucose-lowering medicinal products (metformin, SGLT2 inhibitors, sulfonylurea or thiazolidinediones). The dose of semaglutide was adjusted every 8 weeks based on
-
-<div style=\"page-break-after: always\"></div>
-
-patient's glycaemic response and tolerability. The sitagliptin 100 mg dose was fixed. The efficacy and safety of semaglutide were evaluated at week 52.
+In a 52-week open-label trial, 504 patients with type 2 diabetes were randomised to semaglutide (flexible dose adjustment of 3 mg, 7 mg, and 14 mg once daily) or sitagliptin 100 mg once daily, all in combination with 1-2 oral glucose-lowering medicinal products (metformin, SGLT2 inhibitors, sulfonylurea or thiazolidinediones). The dose of semaglutide was adjusted every 8 weeks based on patient's glycaemic response and tolerability. The sitagliptin 100 mg dose was fixed. The efficacy and safety of semaglutide were evaluated at week 52.
 
 At week 52, the proportion of patients on treatment with semaglutide 3 mg, 7 mg and 14 mg was approximately 10%, 30% and 60%, respectively.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 7 Results of a 52-week flexible-dose-adjustment trial comparing semaglutide with sitagliptin (PIONEER 7)
 
@@ -1573,16 +1609,49 @@ Table 8 Results of a 52-week trial comparing semaglutide with placebo in combina
 | Change from baseline 1                          | - 0.8                   | - 1.2                   | - 0.2     |
 | Difference from placebo 1 [95% CI]              | - 0.6 [ - 0.8; - 0.4] § | - 0.9 [ - 1.1; - 0.7] § | -         |
 | Patients (%) achieving HbA 1c < 7.0%            | 40 §                    | 54 §                    | 9         |
+| Body weight (kg)                                |                         |                         |           |
+| Change from baseline 1                          | - 2.0                   | - 3.7                   | 0.5       |
+| Difference from placebo 1 [95% CI]              | - 2.5 [ - 3.6; - 1.4] § | - 4.3 [ - 5.3; - 3.2] § | -         |
+
+1 Irrespective of treatment discontinuation or initiation of rescue medication (pattern mixture model using multiple imputation). * p&lt; 0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity. § p&lt; 0.05, not controlled for multiplicity; for 'Patients achieving HbA1c &lt; 7.0%', the p-value is for the odds ratio. + The total daily insulin dose was statistically significantly lower with semaglutide than with placebo at week 52.
 
 <div style=\"page-break-after: always\"></div>
 
-|                                    | Semaglutide 7 mg        | Semaglutide 14 mg       | Placebo   |
-|------------------------------------|-------------------------|-------------------------|-----------|
-| Body weight (kg)                   |                         |                         |           |
-| Change from baseline 1             | - 2.0                   | - 3.7                   | 0.5       |
-| Difference from placebo 1 [95% CI] | - 2.5 [ - 3.6; - 1.4] § | - 4.3 [ - 5.3; - 3.2] § | -         |
+HbAlc (%)
 
-1 Irrespective of treatment discontinuation or initiation of rescue medication (pattern mixture model using multiple imputation). * p&lt; 0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity. § p&lt; 0.05, not controlled for multiplicity; for 'Patients achieving HbA1c &lt; 7.0%', the p-value is for the odds ratio. + The total daily insulin dose was statistically significantly lower with semaglutide than with placebo at week 52.
+Body Weight (kg)
+
+98 -
+
+9,51
+
+9.0-
+
+96 -
+
+8.5
+
+94
+
+8.0-
+
+92-
+
+7.5-
+
+7.0-
+
+88
+
+6.5-
+
+86
+
+4
+
+4
+
+Oral sema 14 mg
 
 PIONEER PLUS - Efficacy and safety of semaglutide 25 mg and 50 mg compared with semaglutide 14 mg once daily in subjects with type 2 diabetes
 
@@ -1592,79 +1661,50 @@ In a 68-week double-blinded clinical trial 1 606 patients with type 2 diabetes o
 
 Treatment with semaglutide 25 mg and 50 mg once daily was superior in reducing HbA1c and body weight compared to semaglutide 14 mg (see Table 9). Week 68 data support a sustained effect of oral semaglutide 14 mg, 25 mg and 50 mg on HbA1c and body weight (see Figure 1).
 
-F56
-
-9.0-
-
-8.5-
-
-8.0-
-
-7.5
-
-7.0-
-
-6.5
+Figure 1 Mean HbA1c and mean body weight (kg) from baseline to week 68
 
 <!-- image -->
 
-048121620
-
-26
-
-32
-
-38
-
-44
-
-52
-
-Time since randomisation (weeks)
-
-Oral sema 14 mg
-
-Oral sema 25 mg
-
-60
-
-68
-
-Oral sema 50 mg
-
-Figure 1 Mean HbA1c and mean body weight (kg) from baseline to week 68
-
 Table 9 Results of a 52-week trial comparing semaglutide 25 mg and 50 mg with semaglutide 14 mg (PIONEER PLUS)
-
-|                                           | Semaglutide 14 mg 2 (Bioequivalent to 9 mg)   | Semaglutide 25 mg         | Semaglutide 50 mg         |
-|-------------------------------------------|-----------------------------------------------|---------------------------|---------------------------|
-| Full analysis set (N)                     | 536                                           | 535                       | 535                       |
-| Week 52                                   |                                               |                           |                           |
-| HbA 1c (%)                                |                                               |                           |                           |
-| Baseline                                  | 8.9                                           | 9.0                       | 8.9                       |
-| Change from baseline 1                    | - 1.5                                         | - 1.8                     | - 2.0                     |
-| Difference from Rybelsus 14 mg 1 [95% CI] |                                               | - 0.27 [ - 0.42; - 0.12]* | - 0.53 [ - 0.68: - 0.38]* |
-| Patients (%) achieving HbA 1c < 7.0%      | 39.0 §                                        | 50.5 §                    | 63.0 §                    |
-| Patients (%) achieving HbA 1c ≤ 6.5%      | 25.8 §                                        | 39.6 §                    | 51.2 §                    |
-| FPG (mmol/L)                              |                                               |                           |                           |
-| Baseline                                  | 10.8                                          | 11.0                      | 10.8                      |
-| Change from baseline 1                    | - 2.3                                         | - 2.8                     | - 3.2                     |
-
-HbA1c (%)
-
-<div style=\"page-break-after: always\"></div>
 
 |                                           | Semaglutide 14 mg 2 (Bioequivalent to 9 mg)   | Semaglutide 25 mg          | Semaglutide 50 mg          |
 |-------------------------------------------|-----------------------------------------------|----------------------------|----------------------------|
+| Full analysis set (N)                     | 536                                           | 535                        | 535                        |
+| Week 52                                   |                                               |                            |                            |
+| HbA 1c (%)                                |                                               |                            |                            |
+| Baseline                                  | 8.9                                           | 9.0                        | 8.9                        |
+| Change from baseline 1                    | - 1.5                                         | - 1.8                      | - 2.0                      |
+| Difference from Rybelsus 14 mg 1 [95% CI] |                                               | - 0.27 [ - 0.42; - 0.12]*  | - 0.53 [ - 0.68: - 0.38]*  |
+| Patients (%) achieving HbA 1c < 7.0%      | 39.0 §                                        | 50.5 §                     | 63.0 §                     |
+| Patients (%) achieving HbA 1c ≤ 6.5%      | 25.8 §                                        | 39.6 §                     | 51.2 §                     |
+| FPG (mmol/L)                              |                                               |                            |                            |
+| Baseline                                  | 10.8                                          | 11.0                       | 10.8                       |
+| Change from baseline 1                    | - 2.3                                         | - 2.8                      | - 3.2                      |
 | Difference from Rybelsus 14 mg 1 [95% CI] |                                               | - 0.46 [ - 0.79; - 0.13] § | - 0.82 [ - 1.15; - 0.49] § |
 | Body weight (kg)                          |                                               |                            |                            |
 | Baseline                                  | 96.4                                          | 96.6                       | 96.1                       |
 | Change from baseline 1                    | - 4.4                                         | - 6.7                      | - 8.0                      |
 | Difference from Rybelsus 14 mg 1 [95% CI] |                                               | - 2.32 [ - 3.11: - 1.53]*  | - 3.63 [ - 4.42; - 2.84]*  |
 
-1 Irrespective of treatment discontinuation or initiation of rescue medication (pattern mixture model using multiple imputation). * p&lt; 0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity. § p&lt; 0.05, not controlled for multiplicity; for 'Patients achieving HbA1c &lt; 7.0%', the p-value is for the odds ratio.  2  Bioequivalence has been confirmed between 9 mg and 14 mg doses, see section 5.2 Pharmacokinetic properties.
+1 Irrespective of treatment discontinuation or initiation of rescue medication (pattern mixture model using multiple imputation). * p&lt; 0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity. § p&lt; 0.05, not controlled for
+
+<div style=\"page-break-after: always\"></div>
+
+Patients with Event (%)
+
+4
+
+2
+
+0
+
+Patients at risk
+
+Placebo multiplicity; for 'Patients achieving HbA1c &lt; 7.0%', the p-value is for the odds ratio.  2  Bioequivalence has been confirmed between 9 mg and 14 mg doses, see section 5.2 Pharmacokinetic properties.
 
 ## Cardiovascular outcomes
+
+Oral Semaglutide
 
 ## SOUL: Cardiovascular outcomes trial in patients with type 2 diabetes
 
@@ -1674,21 +1714,39 @@ In total, 5 468 patients (56.7%) had established cardiovascular disease without 
 
 The primary endpoint was time from randomisation to first occurrence of a major adverse cardiovascular event (MACE): cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke. The primary endpoint, time to first MACE, occurred in 1 247 of the 9 650 included patients, 579 first MACE (12.0%) were recorded among the 4 825 patients treated with semaglutide, compared to 668 first MACE (13.8%) among the 4 825 patients treated with placebo.
 
-Superiority of semaglutide versus placebo for MACE was confirmed with a hazard ratio of 0.86 [0.77; 0.96] [95% CI], corresponding to a relative risk reduction in MACE of 14% (see Figure 2).
-
-<div style=\"page-break-after: always\"></div>
-
-The reduction of MACE with semaglutide was consistent across subgroups of age, sex, race, ethnicity, BMI at baseline, or level of kidney function impairment.
+Superiority of semaglutide versus placebo for MACE was confirmed with a hazard ratio of 0.86 [0.77; 0.96] [95% CI], corresponding to a relative risk reduction in MACE of 14% (see Figure 2). The reduction of MACE with semaglutide was consistent across subgroups of age, sex, race, ethnicity, BMI at baseline, or level of kidney function impairment.
 
 Analysis of the first composite kidney event (the first confirmatory secondary endpoint) resulted in a hazard ratio of 0.91 [0.80; 1.05] [95% CI].
 
 <!-- image -->
 
-Data from the in-trial period and based on full analysis set. Cumulative incidence estimates are based on time from randomisation to first EAC-confirmed MACE with non-CV death modelled as competing risk using the Aalen-Johansen estimator. Subjects without events of interest were censored at the end of their in-trial observation period. Time from randomisation to first MACE was analysed using a Cox proportional hazards model with treatment as categorical fixed factor. The hazard ratio and confidence interval are adjusted for the group sequential design using the likelihood ratio ordering.
+Data from the in-trial period and based on full analysis set. Cumulative incidence estimates are based on time from randomisation to first EAC-confirmed MACE with non-CV death modelled as competing risk using the Aalen-Johansen estimator. Subjects without events of interest were censored at the end of their in-trial observation period. Time from randomisation to first MACE was analysed using a Cox
+
+<div style=\"page-break-after: always\"></div>
+
+Primary endpoint and components proportional hazards model with treatment as categorical fixed factor. The hazard ratio and confidence interval are adjusted for the group sequential design using the likelihood ratio ordering. 0.86 [0.77; 0.96]
 
 CV: cardiovascular, EAC: event adjudication committee, MACE: major adverse cardiovascular event.
 
+0.93 [0.80; 1.09]
+
+CV death
+
 Figure 2: Time from randomisation to first MACE Cumulative incidence function plot
+
+Non-fatal MI
+
+Other secondary endpoints
+
+Composite kidney event
+
+MALE
+
+All-cause death
+
+0.74 [0.61; 0.89]
+
+191/4 825; 253/4 825
 
 <!-- image -->
 
@@ -1708,10 +1766,6 @@ Figure 2: Time from randomisation to first MACE Cumulative incidence function pl
 
 0.8
 
-1.0
-
-<div style=\"page-break-after: always\"></div>
-
 Data from the in-trial period and based on full analysis set. Time from randomisation to each endpoint was analysed using a Cox proportional hazards model with treatment as categorical fixed factor. Subjects without events of interest were censored at the end of their in-trial period. For the primary endpoint the HR and CI were adjusted for the group sequential design using likelihood ratio ordering. CV death includes both cardiovascular death and undetermined cause of death.
 
 HR: hazard ratio CI: Confidence interval CV: cardiovascular, MI: myocardial infarction.
@@ -1720,7 +1774,7 @@ Composite kidney event: endpoint consisting of cardiovascular death, kidney deat
 
 MALE: major adverse limb events; composite endpoint consisting of acute or chronic limb ischemia hospitalisation.
 
-## Figure 3: Treatment effect for the primary endpoint, its components and other secondary endpoints (SOUL)
+Figure 3: Treatment effect for the primary endpoint, its components and other secondary endpoints (SOUL)
 
 ## PIONEER 6: Cardiovascular outcomes trial in patients with type 2 diabetes
 
@@ -1733,6 +1787,16 @@ The total number of first MACE was 137: 61 (3.8%) with semaglutide and 76 (4.8%)
 ## Body weight
 
 By end-of-treatment, 27-65.7% of the patients had achieved a weight loss of ≥ 5% and 6-34.7% had achieved a weight loss of ≥ 10% with semaglutide, compared with 12-39% and 2-8%, respectively, with the active comparators.
+
+HR [95% CI]
+
+Number of events/
+
+analysed subjects
+
+(Oral sema; Placebo)
+
+<div style=\"page-break-after: always\"></div>
 
 In the cardiovascular outcome trial SOUL, a reduction in body weight from baseline to week 104 was observed with semaglutide vs. placebo, in addition to standard-ofcare (-4.22 kg vs. -1.27 kg).
 
@@ -1753,15 +1817,13 @@ Two formulations of the semaglutide tablets exist:
 
 Similar efficacy and safety can be expected for both formulations. Bioequivalent doses of the two formulations are outlined in the table below.
 
-Table 10 Equal effect of the two oral formulations
+## Table 10 Equal effect of the two oral formulations
 
 | Dose              | One round tablet   |                 | One oval tablet   |
 |-------------------|--------------------|-----------------|-------------------|
 | Starting dose     | 1.5 mg             | Equal effect to | 3 mg              |
 | Maintenance doses | 4 mg               | Equal effect to | 7 mg              |
 | Maintenance doses | 9 mg               | Equal effect to | 14 mg             |
-
-<div style=\"page-break-after: always\"></div>
 
 ## Absorption
 
@@ -1781,7 +1843,11 @@ Systemic exposure of semaglutide increased in a dose-proportional manner within 
 
 Based on in vitro data, salcaprozate sodium facilitates absorption of semaglutide. The absorption of semaglutide predominantly occurs in the stomach.
 
-The estimated bioavailability of semaglutide is approximately 1% for the 3 mg, 7 mg and 14 mg strengths and up to 2% for the 25 mg and 50 mg strengths following oral administration. The betweensubject variability in absorption was high (coefficient of variation was approximately 100%). The estimation of the within-subject variability in bioavailability was not reliable.
+The estimated bioavailability of semaglutide is approximately 1% for the 3 mg, 7 mg and 14 mg strengths and up to 2% for the 25 mg and 50 mg strengths following oral administration. The between-
+
+<div style=\"page-break-after: always\"></div>
+
+subject variability in absorption was high (coefficient of variation was approximately 100%). The estimation of the within-subject variability in bioavailability was not reliable.
 
 Absorption of semaglutide is decreased if taken with food or large volumes of water. Different dosing schedules of semaglutide have been investigated. Studies show that longer pre- and post-dose fasting period results in higher absorption (see section 4.2).
 
@@ -1798,8 +1864,6 @@ Semaglutide is metabolised through proteolytic cleavage of the peptide backbone 
 The primary excretion routes of semaglutide-related material are via the urine and faeces. Approximately 3% of the absorbed dose is excreted as intact semaglutide via the urine.
 
 With an elimination half-life of approximately 1 week, semaglutide will be present in the circulation for about 5 weeks after the last dose. The clearance of semaglutide in patients with type 2 diabetes is approximately 0.04 L/h.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Special populations
 
@@ -1827,6 +1891,8 @@ Renal impairment did not impact the pharmacokinetics of semaglutide in a clinica
 
 Hepatic impairment did not impact the pharmacokinetics of semaglutide in a clinically relevant manner. The pharmacokinetics of semaglutide were evaluated in patients with mild, moderate or severe hepatic impairment compared with subjects with normal hepatic function in a study with 10 consecutive days of once-daily doses of semaglutide.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Upper GI tract disease
 
 Upper GI tract disease (chronic gastritis and/or gastroesophageal reflux disease) did not impact the pharmacokinetics of semaglutide in a clinically relevant manner. The pharmacokinetics were evaluated in patients with type 2 diabetes with or without upper GI tract disease dosed for 10 consecutive days with once-daily doses of semaglutide. This was also shown for subjects with type 2 diabetes and upper GI tract disease based on data from phase 3a studies.
@@ -1843,8 +1909,6 @@ Non-lethal thyroid C-cell tumours observed in rodents are a class effect for GLP
 
 In fertility studies in rats, semaglutide did not affect mating performance or male fertility. In female rats, an increase in oestrous cycle length and a small reduction in corpora lutea (ovulations) were observed at doses associated with maternal body weight loss.
 
-<div style=\"page-break-after: always\"></div>
-
 In embryo-foetal development studies in rats, semaglutide caused embryotoxicity below clinically relevant exposures. Semaglutide caused marked reductions in maternal body weight and reductions in embryonic survival and growth. In foetuses, major skeletal and visceral malformations were observed, including effects on long bones, ribs, vertebrae, tail, blood vessels and brain ventricles. Mechanistic evaluations indicated that the embryotoxicity involved a GLP-1 receptor mediated impairment of the nutrient supply to the embryo across the rat yolk sac. Due to species differences in yolk sac anatomy and function, and due to the lack of GLP-1 receptor expression in the yolk sac of non-human primates, this mechanism is considered unlikely to be of relevance to humans. However, a direct effect of semaglutide on the foetus cannot be excluded.
 
 In developmental toxicity studies in rabbits and cynomolgus monkeys, increased pregnancy loss and slightly increased incidence of foetal abnormalities were observed at clinically relevant exposures. The findings coincided with marked maternal body weight loss of up to 16%. Whether these effects are related to the decreased maternal food consumption as a direct GLP-1 effect is unknown.
@@ -1852,6 +1916,8 @@ In developmental toxicity studies in rabbits and cynomolgus monkeys, increased p
 Postnatal growth and development were evaluated in cynomolgus monkeys. Infants were slightly smaller at delivery, but recovered during the lactation period.
 
 In juvenile rats, semaglutide caused delayed sexual maturation in both males and females. These delays had no impact upon fertility and reproductive capacity of either sex, or on the ability of the females to maintain pregnancy.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1881,8 +1947,6 @@ Not applicable.
 
 Store in the original blister package in order to protect from light and moisture. This medicinal product does not require any special temperature storage conditions.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.5 Nature and contents of container
 
 Alu/Alu blisters.
@@ -1899,6 +1963,8 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Denmark
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. MARKETING AUTHORISATION NUMBERS
 
 ```
@@ -1910,8 +1976,6 @@ EU/1/20/1430/001 EU/1/20/1430/002 EU/1/20/1430/003 EU/1/20/1430/004 EU/1/20/1430
 Date of first authorisation: 03 April 2020
 
 Date of latest renewal: 22 November 2024
-
-<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1958,7 +2022,7 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
-## An updated RMP should be submitted:
+An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
@@ -2037,7 +2101,13 @@ EXP
 
 Store in the original blister package in order to protect from light and moisture.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10.
+
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2108,7 +2178,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-56
+55
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2200,7 +2270,8 @@ EU/1/20/1430/011 100 tablets
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -2248,7 +2319,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-59
+58
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2310,22 +2381,25 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original blister package in order to protect from light and moisture.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Denmark
 
-| 12.   | MARKETING AUTHORISATION NUMBERS   |
-|-------|-----------------------------------|
+## 12. MARKETING AUTHORISATION NUMBERS
 
-EU/1/20/1430/021 10 tablets EU/1/20/1430/022 30 tablets EU/1/20/1430/023 60 tablets EU/1/20/1430/024 90 tablets
+EU/1/20/1430/021 10 tablets
+
+EU/1/20/1430/022 30 tablets
+
+EU/1/20/1430/023 60 tablets
+
+EU/1/20/1430/024 90 tablets
 
 EU/1/20/1430/025 100 tablets
 
@@ -2333,25 +2407,23 @@ EU/1/20/1430/025 100 tablets
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 ## 15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 rybelsus 4 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -2384,7 +2456,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-62
+61
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2448,7 +2520,7 @@ EXP
 
 Store in the original blister package in order to protect from light and moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2470,11 +2542,9 @@ EU/1/20/1430/012 100 tablets
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 rybelsus 7 mg
 
@@ -2519,7 +2589,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-65
+64
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2585,7 +2655,7 @@ EXP
 
 Store in the original blister package in order to protect from light and moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2656,7 +2726,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-68
+67
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2714,8 +2784,6 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original blister package in order to protect from light and moisture.
@@ -2749,7 +2817,9 @@ EU/1/20/1430/013 100 tablets
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 rybelsus 14 mg
@@ -2763,6 +2833,8 @@ rybelsus 14 mg
 PC
 
 SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -2795,7 +2867,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-71
+70
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2985,8 +3057,6 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNINGS, IF NECESSARY
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
 EXP
@@ -2999,7 +3069,13 @@ Store in the original blister package in order to protect from light and moistur
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Denmark
+Novo Nordisk A/S
+
+Novo Allé
+
+DK-2880 Bagsværd
+
+Denmark
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
@@ -3028,6 +3104,8 @@ rybelsus 50 mg
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3065,7 +3143,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-79
+78
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3128,7 +3206,6 @@ In order to improve the traceability of biological medicinal products, record th
 
 This medicine is not the same as insulin and you should not use it if:
 
-- you have type 1 diabetes (your body does not produce any insulin)
 - you develop diabetic ketoacidosis. This is a complication of diabetes with high blood sugar, breathing difficulty, confusion, excessive thirst, a sweet smell to the breath or a sweet or metallic taste in the mouth.
 
 If you know that you are due to have surgery where you will be under anaesthesia (sleeping), please tell your doctor that you are taking Rybelsus.
@@ -3163,11 +3240,11 @@ If you notice a sudden loss of vision or rapidly worsening eyesight during treat
 
 If you have slow (delayed) stomach emptying (called gastroparesis), use of Rybelsus may lead to serious or severe gastrointestinal adverse events. Talk to your doctor before using Rybelsus.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Children and adolescents
 
 This medicine is not recommended in children and adolescents aged under 18 years as the safety and efficacy in this age group have not been established.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other medicines and Rybelsus
 
@@ -3251,19 +3328,21 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - Serious allergic reactions (anaphylactic reactions). You must get immediate medical help and inform your doctor straight away if you get symptoms such as breathing problems, swelling of face and throat, wheezing, fast heartbeat, pale and cold skin, feeling dizzy or weak.
 - Inflamed pancreas (acute pancreatitis) which could cause severe pain in the stomach and back which does not go away. You should see a doctor immediately if you experience such symptoms.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Very Rare (may affect up to 1 in 10 000 people)
 
-- A medical condition of the eye called non-arteritic anterior ischaemic optic neuropathy (NAION), which may cause loss of vision to one of your eyes without any pain. You should immediately contact your doctor if you notice sudden or gradually worsening eyesight (see section 2: 'Sudden changes to your eyesight')
+- A medical condition of the eye called non-arteritic anterior ischaemic optic neuropathy (NAION), which may cause loss of vision to one of your eyes without any pain. You should immediately
 
-## Not known (frequency cannot be estimated from the available data)
+<div style=\"page-break-after: always\"></div>
+
+contact your doctor if you notice sudden or gradually worsening eyesight (see section 2: 'Sudden changes to your eyesight')
+
+Not known (frequency cannot be estimated from the available data)
 
 - Bowel obstruction. A severe form of constipation with additional symptoms such as stomach ache, bloating, vomiting etc.
 
 ## Other side effects
 
-## Very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
 - Low blood sugar (hypoglycaemia) when this medicine is used with medicines that contain a sulfonylurea or insulin. Your doctor may reduce your dose of these medicines before you start using this medicine.
 - Feeling sick (nausea) - this usually goes away over time
@@ -3301,11 +3380,13 @@ Your doctor will tell you how to treat low blood sugar and what to do if you not
 - Gallstones
 - Weight loss.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting
+
+<div style=\"page-break-after: always\"></div>
+
+system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Rybelsus
 
@@ -3340,11 +3421,11 @@ The 1.5 mg, 4 mg, 9 mg, 25 mg and 50 mg tablets are available in alu/alu blister
 
 Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Marketing Authorisation Holder and Manufacturer
 
-Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Denmark
+Novo Nordisk A/S Novo Allé DK-2880 Bagsværd
+
+Denmark
 
 ## This leaflet was last revised in
 
@@ -3409,7 +3490,6 @@ In order to improve the traceability of biological medicinal products, record th
 
 This medicine is not the same as insulin and you should not use it if:
 
-- you have type 1 diabetes (your body does not produce any insulin)
 - you develop diabetic ketoacidosis. This is a complication of diabetes with high blood sugar, breathing difficulty, confusion, excessive thirst, a sweet smell to the breath or a sweet or metallic taste in the mouth.
 
 If you know that you are due to have surgery where you will be under anaesthesia (sleeping), please tell your doctor that you are taking Rybelsus.
@@ -3444,11 +3524,11 @@ If you notice a sudden loss of vision or rapidly worsening eyesight during treat
 
 If you have slow (delayed) stomach emptying (called gastroparesis), use of Rybelsus may lead to serious or severe gastrointestinal adverse events. Talk to your doctor before using Rybelsus.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Children and adolescents
 
 This medicine is not recommended in children and adolescents aged under 18 years as the safety and efficacy in this age group have not been established.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other medicines and Rybelsus
 
@@ -3488,10 +3568,10 @@ Always take this medicine exactly as your doctor has told you. Check with your d
 
 - The starting dose is one 3 mg tablet once a day for one month.
 - After one month, your doctor will increase your dose to one 7 mg tablet once a day.
+- Your doctor will instruct you to stay on a dose for minimum one month before increasing to a higher dose.
 
 <div style=\"page-break-after: always\"></div>
 
-- Your doctor will instruct you to stay on a dose for minimum one month before increasing to a higher dose.
 - Your doctor may step-wise increase your dose to one 14 mg, 25 mg or 50 mg tablet once a day if needed.
 - Your doctor will prescribe the strength that is right for you. Do not change your dose unless your doctor has told you so.
 - Rybelsus should always be taken as one tablet per day. You should not take two tablets to get the effect of a higher dose.
@@ -3535,15 +3615,15 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 - A medical condition of the eye called non-arteritic anterior ischaemic optic neuropathy (NAION), which may cause loss of vision to one of your eyes without any pain. You should immediately contact your doctor if you notice sudden or gradually worsening eyesight (see section 2: 'Sudden changes to your eyesight')
 
-<div style=\"page-break-after: always\"></div>
-
 ## Not known (frequency cannot be estimated from the available data)
 
 - Bowel obstruction. A severe form of constipation with additional symptoms such as stomach ache, bloating, vomiting etc.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other side effects
 
-## Very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
 - Low blood sugar (hypoglycaemia) when this medicine is used with medicines that contain a sulfonylurea or insulin. Your doctor may reduce your dose of these medicines before you start using this medicine.
 - Feeling sick (nausea) - this usually goes away over time
@@ -3583,17 +3663,15 @@ The warning signs of low blood sugar may come on suddenly. They can include: col
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. How to store Rybelsus
 
 Keep this medicine out of the sight and reach of children.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not use this medicine after the expiry date which is stated on the blister and carton after 'EXP'. The expiry date refers to the last day of that month.
 
-Store in the original package in order to protect from light and moisture.
-
-This medicine does not require any special temperature storage conditions.
+Store in the original package in order to protect from light and moisture. This medicine does not require any special temperature storage conditions.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-13 12:29:33
+document_datetime: 2026-04-21 14:22:16
 document_pages: 26
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/orphacol-epar-product-information_en.pdf
 document_name: orphacol-epar-product-information_en.pdf
 version: success
-processing_time: 5.4943277
-conversion_datetime: 2026-03-17 19:00:41.977835
+processing_time: 5.200375
+conversion_datetime: 2026-04-25 16:45:03.21997
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.80.0
-  docling-core: 2.70.1
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -512,6 +512,12 @@ SN: {number} NN: {number}
 |------------------------------------------------------|
 | BLISTERS                                             |
 
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
+
+| 5.   | OTHER   |
+|------|---------|
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 BLISTERS
@@ -673,7 +679,7 @@ Medicines should not be disposed of via wasterwater or household waste. Ask your
 
 ## What Orphacol contains
 
-- -
+-
 
 The active substance is cholic acid.
 
@@ -717,21 +723,19 @@ Norgine B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Norgine N.V./S.A.
-
-Tél/Tel: +32 16 39 27 43 medinfo@norgine.com
+België/Belgique/Belgien Norgine N.V./S.A. Tél/Tel: +32 16 39 27 43 medinfo@norgine.com
 
 Lietuva
 
-Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
+THERAVIA Tel.: +33 (0)1 72 69 01 86
 
 <div style=\"page-break-after: always\"></div>
 
 ## България
 
-THERAVIA .: +33 (0)1 72 69 01 86
+THERAVIA
 
-Te л question@theravia.com
+Te л .: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Česká republika
 
@@ -743,11 +747,11 @@ Immedica Pharma AB Tlf: +46 (0)8 533 39 500 info@immedica.com
 
 ## Deutschland
 
-THERAVIA Tel: Tel: 08001090001 question@theravia.com
+Norgine GmbH Tel: +4964198497235 medinfo@norgine.com
 
 ## Eesti
 
-Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
+THERAVIA Tel.: +33 (0)1 72 69 01 86
 
 ## Ελλάδα
 
@@ -759,7 +763,7 @@ Norgine de España, S.L.U. Tel:+34 913275320 medinfo@norgine.com
 
 ## France
 
-THERAVIA Tél: +33 (0)1 72 69 01 86 question@theravia.com
+Norgine SAS Tél: +33 (0)1 41 39 93 90 medinfo@norgine.com
 
 ## Hrvatska
 
@@ -771,7 +775,7 @@ THERAVIA Tel: Tel : +353-(0)1-903 8043 question@theravia.com
 
 ## Luxembourg/Luxemburg
 
-THERAVIA Tél/Tel: +352 278 62 329 question@theravia.com
+Norgine N.V./S.A. Tél/Tel: +32 16 39 27 43 medinfo@norgine.com
 
 ## Magyarország
 
@@ -783,7 +787,9 @@ THERAVIA Tel: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Nederland
 
-THERAVIA Tel: Tel : +31 (0)20 208 2161 question@theravia.com
+Norgine Pharma B.V. Tel: +31 20 567 0998
+
+medinfo@norgine.com
 
 ## Norge
 
@@ -793,9 +799,7 @@ Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
 
 THERAVIA
 
-Tel: +33 (0)1 72 69 01 86
-
-question@theravia.com
+Tel: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Polska
 
@@ -811,9 +815,9 @@ THERAVIA Tel: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Slovenija
 
-Medis d.o.o.
+Tel: +386 (1) 589 6900
 
-Tel: +386 (1) 589 6900 info@medis.si
+Medis d.o.o. info@medis.si
 
 <div style=\"page-break-after: always\"></div>
 
@@ -827,31 +831,23 @@ info@immedica.com
 
 ## Italia
 
-THERAVIA
+Norgine Italia, S.r.l.
 
-Tel:
+Tel : +390267977222
 
-Tel : 800 959 161
-
-question@theravia.com
+medinfo@norgine.com
 
 ## Κύπρος
 
 THERAVIA
 
-Τηλ
-
-: +33 (0)1 72 69 01 86
-
-question@theravia.com
+Τηλ : +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Latvija
 
-Immedica Pharma AB
+THERAVIA
 
-Tel: +46 (0)8 533 39 500
-
-info@immedica.com
+Tel.: +33 (0)1 72 69 01 86
 
 ## This leaflet was last revised in
 
@@ -875,16 +871,10 @@ question@theravia.com
 
 ## Suomi/Finland
 
-Immedica Pharma AB
-
-Tel/Puh: +46 (0)8 533 39 500
-
-info@immedica.com
+Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
 
 ## Sverige
 
-Immedica Pharma AB
-
-Tel: +46 (0)8 533 39 500
+Immedica Pharma AB Tel: +46 (0)8 533 39 500
 
 info@immedica.com

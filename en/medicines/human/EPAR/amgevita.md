@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 13:01:16
+document_datetime: 2026-04-23 13:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/amgevita.html
 document_name: amgevita.html
 version: success
-processing_time: 0.1185838
-conversion_datetime: 2025-12-29 21:56:36.681264
+processing_time: 0.145167
+conversion_datetime: 2026-04-25 16:44:28.976234
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Amgevita
 
 [RSS](/en/individual-human-medicine.xml/66301)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-adalimumab Medicine Human Authorised
+adalimumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -38,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Amgevita](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-85552)
 - [Related content](#related-content-658)
 - [More information on Amgevita](#related-medicines)
 - [Topics](#topics)
@@ -130,275 +131,141 @@ Reference Number: EMA/196798/2017
 
 English (EN) (109.92 KB - PDF)
 
-**First published:** 06/04/2017
-
-**Last updated:** 06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/en/documents/overview/amgevita-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-738)
+[Other languages (22)](#file-language-dropdown-7)
 
 български (BG) (116.26 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/bg/documents/overview/amgevita-epar-summary-public_bg.pdf)
 
 español (ES) (86.33 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/es/documents/overview/amgevita-epar-summary-public_es.pdf)
 
 čeština (CS) (114.82 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/cs/documents/overview/amgevita-epar-summary-public_cs.pdf)
 
 dansk (DA) (84.03 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/da/documents/overview/amgevita-epar-summary-public_da.pdf)
 
 Deutsch (DE) (87.61 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/de/documents/overview/amgevita-epar-summary-public_de.pdf)
 
 eesti keel (ET) (83.24 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/et/documents/overview/amgevita-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (117.8 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/el/documents/overview/amgevita-epar-summary-public_el.pdf)
 
 français (FR) (87.08 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/fr/documents/overview/amgevita-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (106.59 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/hr/documents/overview/amgevita-epar-summary-public_hr.pdf)
 
 italiano (IT) (84.82 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/it/documents/overview/amgevita-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (108.74 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/lv/documents/overview/amgevita-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (112.45 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/lt/documents/overview/amgevita-epar-summary-public_lt.pdf)
 
 magyar (HU) (107.91 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/hu/documents/overview/amgevita-epar-summary-public_hu.pdf)
 
 Malti (MT) (113.39 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/mt/documents/overview/amgevita-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (85.98 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/nl/documents/overview/amgevita-epar-summary-public_nl.pdf)
 
 polski (PL) (114.07 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/pl/documents/overview/amgevita-epar-summary-public_pl.pdf)
 
 português (PT) (86.18 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/pt/documents/overview/amgevita-epar-summary-public_pt.pdf)
 
 română (RO) (110.56 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/ro/documents/overview/amgevita-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (113.67 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/sk/documents/overview/amgevita-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (105.2 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/sl/documents/overview/amgevita-epar-summary-public_sl.pdf)
 
 Suomi (FI) (83.95 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/fi/documents/overview/amgevita-epar-summary-public_fi.pdf)
 
 svenska (SV) (83.82 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/sv/documents/overview/amgevita-epar-summary-public_sv.pdf)
 
@@ -406,9 +273,7 @@ Amgevita : EPAR - Risk management plan
 
 English (EN) (1.12 MB - PDF)
 
-**First published:** 25/04/2019
-
-**Last updated:** 22/05/2024
+**First published:** 25/04/2019 **Last updated:** 22/05/2024
 
 [View](/en/documents/rmp/amgevita-epar-risk-management-plan_en.pdf)
 
@@ -416,305 +281,161 @@ English (EN) (1.12 MB - PDF)
 
 Amgevita : EPAR - Product Information
 
-English (EN) (2.86 MB - PDF)
+English (EN) (2.68 MB - PDF)
 
-**First published:** 06/04/2017
-
-**Last updated:** 31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/en/documents/product-information/amgevita-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-370)
+[Other languages (24)](#file-language-dropdown-697)
 
-български (BG) (4.04 MB - PDF)
+български (BG) (3.66 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/bg/documents/product-information/amgevita-epar-product-information_bg.pdf)
 
-español (ES) (8.46 MB - PDF)
+español (ES) (5.72 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/es/documents/product-information/amgevita-epar-product-information_es.pdf)
 
-čeština (CS) (7.58 MB - PDF)
+čeština (CS) (5.36 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/cs/documents/product-information/amgevita-epar-product-information_cs.pdf)
 
-dansk (DA) (3.77 MB - PDF)
+dansk (DA) (3.37 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/da/documents/product-information/amgevita-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.85 MB - PDF)
+Deutsch (DE) (3.43 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/de/documents/product-information/amgevita-epar-product-information_de.pdf)
 
-eesti keel (ET) (6.53 MB - PDF)
+eesti keel (ET) (4.7 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/et/documents/product-information/amgevita-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.86 MB - PDF)
+ελληνικά (EL) (3.39 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/el/documents/product-information/amgevita-epar-product-information_el.pdf)
 
-français (FR) (8.58 MB - PDF)
+français (FR) (5.88 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/fr/documents/product-information/amgevita-epar-product-information_fr.pdf)
 
-hrvatski (HR) (7.66 MB - PDF)
+hrvatski (HR) (5.39 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/hr/documents/product-information/amgevita-epar-product-information_hr.pdf)
 
-íslenska (IS) (7.38 MB - PDF)
+íslenska (IS) (5.19 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/is/documents/product-information/amgevita-epar-product-information_is.pdf)
 
-italiano (IT) (6.15 MB - PDF)
+italiano (IT) (4.55 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/it/documents/product-information/amgevita-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (7.48 MB - PDF)
+latviešu valoda (LV) (5.33 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/lv/documents/product-information/amgevita-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (7.7 MB - PDF)
+lietuvių kalba (LT) (5.45 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/lt/documents/product-information/amgevita-epar-product-information_lt.pdf)
 
-magyar (HU) (4.09 MB - PDF)
+magyar (HU) (3.66 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/hu/documents/product-information/amgevita-epar-product-information_hu.pdf)
 
-Malti (MT) (8.97 MB - PDF)
+Malti (MT) (6.15 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/mt/documents/product-information/amgevita-epar-product-information_mt.pdf)
 
-Nederlands (NL) (3.73 MB - PDF)
+Nederlands (NL) (3.33 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/nl/documents/product-information/amgevita-epar-product-information_nl.pdf)
 
-norsk (NO) (7.23 MB - PDF)
+norsk (NO) (5.08 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/no/documents/product-information/amgevita-epar-product-information_no.pdf)
 
-polski (PL) (8.77 MB - PDF)
+polski (PL) (5.94 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/pl/documents/product-information/amgevita-epar-product-information_pl.pdf)
 
-português (PT) (7.25 MB - PDF)
+português (PT) (4.95 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/pt/documents/product-information/amgevita-epar-product-information_pt.pdf)
 
-română (RO) (5.66 MB - PDF)
+română (RO) (4.37 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/ro/documents/product-information/amgevita-epar-product-information_ro.pdf)
 
-slovenčina (SK) (7.62 MB - PDF)
+slovenčina (SK) (5.36 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/sk/documents/product-information/amgevita-epar-product-information_sk.pdf)
 
-slovenščina (SL) (7.72 MB - PDF)
+slovenščina (SL) (5.34 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/sl/documents/product-information/amgevita-epar-product-information_sl.pdf)
 
-Suomi (FI) (8.21 MB - PDF)
+Suomi (FI) (5.56 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/fi/documents/product-information/amgevita-epar-product-information_fi.pdf)
 
-svenska (SV) (6.36 MB - PDF)
+svenska (SV) (4.76 MB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-31/03/2025
+**First published:** 06/04/2017 **Last updated:** 23/04/2026
 
 [View](/sv/documents/product-information/amgevita-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000248712 31/03/2025
+**Latest procedure affecting product information:** N/0000327651
+
+23/04/2026
 
 icon globe
 
@@ -734,305 +455,171 @@ Amgevita : EPAR - All Authorised presentations
 
 English (EN) (73.45 KB - PDF)
 
-**First published:** 06/04/2017
-
-**Last updated:** 22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/en/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-256)
+[Other languages (24)](#file-language-dropdown-82)
 
 български (BG) (127.84 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/bg/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (91.69 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/es/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (79.38 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/cs/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (74.79 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/da/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (75.23 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/de/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (68.69 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/et/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (114.14 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/el/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (98.03 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/fr/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (75.74 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/hr/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (73.06 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/is/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (77.82 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/it/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (76.74 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/lv/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (73.57 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/lt/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (104.52 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/hu/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (81.91 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/mt/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (78.51 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/nl/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (96.38 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/no/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (321.32 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/pl/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (92.53 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/pt/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (77.16 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/ro/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (81.89 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/sk/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (102.75 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/sl/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (78.9 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/fi/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (74.72 KB - PDF)
 
-**First published:**
-
-06/04/2017
-
-**Last updated:**
-
-22/05/2024
+**First published:** 06/04/2017 **Last updated:** 22/05/2024
 
 [View](/sv/documents/all-authorised-presentations/amgevita-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Amgevita Active substance adalimumab International non-proprietary name (INN) or common name adalimumab Therapeutic area (MeSH)
+Name of medicine
+
+Amgevita
+
+Active substance
+
+adalimumab
+
+International non-proprietary name (INN) or common name
+
+adalimumab
+
+Therapeutic area (MeSH)
 
 - Arthritis, Psoriatic
 - Colitis, Ulcerative
@@ -1042,7 +629,9 @@ Name of medicine Amgevita Active substance adalimumab International non-propriet
 - Crohn Disease
 - Arthritis, Rheumatoid
 
-Anatomical therapeutic chemical (ATC) code L04AB04
+Anatomical therapeutic chemical (ATC) code
+
+L04AB04
 
 ### Pharmacotherapeutic group
 
@@ -1119,7 +708,9 @@ Amgevita is indicated for the treatment of paediatric chronic non-infectious ant
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004212
+EMA product number
+
+EMEA/H/C/004212
 
 Biosimilar
 
@@ -1131,7 +722,17 @@ Amgen Europe B.V.
 
 Minervum 7061
 
-Opinion adopted 25/01/2017 Marketing authorisation issued 21/03/2017 Revision 14
+Opinion adopted
+
+25/01/2017
+
+Marketing authorisation issued
+
+21/03/2017
+
+Revision
+
+15
 
 ## Assessment history
 
@@ -1143,9 +744,9 @@ Collapse section
 
 Amgevita : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (141.29 KB - PDF)
+English (EN) (152.17 KB - PDF)
 
-**First published:** 31/03/2025
+**First published:** 31/03/2025 **Last updated:** 23/04/2026
 
 [View](/en/documents/procedural-steps-after/amgevita-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1153,17 +754,13 @@ Amgevita : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (151.22 KB - PDF)
 
-**First published:** 17/01/2018
-
-**Last updated:** 31/03/2025
+**First published:** 17/01/2018 **Last updated:** 31/03/2025
 
 [View](/en/documents/procedural-steps-after/amgevita-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Amgevita-H-C-004212-X-0036-G : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/146658/2024
+Adopted Reference Number: EMA/146658/2024
 
 English (EN) (1.22 MB - PDF)
 
@@ -1175,65 +772,213 @@ English (EN) (1.22 MB - PDF)
 
 Amgevita : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/106922/2017
+Adopted Reference Number: EMA/106922/2017
 
 English (EN) (5.49 MB - PDF)
 
-**First published:** 06/04/2017
-
-**Last updated:** 06/04/2017
+**First published:** 06/04/2017 **Last updated:** 06/04/2017
 
 [View](/en/documents/assessment-report/amgevita-epar-public-assessment-report_en.pdf)
 
 Amgevita : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/106922/2017
+Adopted Reference Number: EMA/106922/2017
 
 English (EN) (5.49 MB - PDF)
 
-**First published:** 05/04/2017
-
-**Last updated:** 05/04/2017
+**First published:** 05/04/2017 **Last updated:** 05/04/2017
 
 [View](/en/documents/assessment-report/amgevita-epar-public-assessment-report_en.pdf-0)
 
 CHMP summary of positive opinion for Amgevita
 
-Adopted
-
-Reference Number: EMA/CHMP/39045/2017
+Adopted Reference Number: EMA/CHMP/39045/2017
 
 English (EN) (90.28 KB - PDF)
 
-**First published:** 27/01/2017
-
-**Last updated:** 27/01/2017
+**First published:** 27/01/2017 **Last updated:** 27/01/2017
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-amgevita_en.pdf)
 
-#### News on Amgevita
+## News on Amgevita
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 January 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-january-2017) 27/01/2017
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 January 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-january-2017)
 
-#### Related content
+27/01/2017
+
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Amgevita : EPAR - Product information - tracked changes
+
+English (EN) (17.26 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/en/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-317)
+
+български (BG) (9.69 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/bg/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (17.22 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/es/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (17.4 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/cs/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (17.35 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/da/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (16.01 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/de/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (10.14 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/et/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (16.26 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/el/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (17.64 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/fr/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (10.12 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/hr/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (10.29 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/is/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (7.64 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/it/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (17.49 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/lv/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (7.75 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/lt/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (10.16 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/hu/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (10.41 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/mt/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (16.1 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/nl/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (17.54 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/no/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (14.3 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/pl/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (17.47 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/pt/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (17.81 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/ro/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (10.71 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/sk/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (16.82 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/sl/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (17.83 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/fi/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (17.03 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/sv/documents/product-information-tracked-changes/amgevita-epar-product-information-tracked-changes_sv.docx)
+
+## Related content
 
 - [Biosimilar medicines](/en/human-regulatory/overview/biosimilar-medicines)
 
-#### More information on Amgevita
+## More information on Amgevita
 
 - [Persistence of AMGEVITA® in patients with plaque psoriasis: a retrospective database analysis from the British Association of Dermatology Biologics and Immunomodulators Register (20210149) - post-authorisation study](https://catalogues.ema.europa.eu/study/47125)
 
-#### Topics
+## Topics
 
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 31/03/2025
+**This page was last updated on**
+
+23/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

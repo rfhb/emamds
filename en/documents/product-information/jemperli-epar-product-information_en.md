@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-31 12:53:03
-document_pages: 44
+document_datetime: 2026-04-23 12:55:54
+document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/jemperli-epar-product-information_en.pdf
 document_name: jemperli-epar-product-information_en.pdf
 version: success
-processing_time: 14.0718495
-conversion_datetime: 2026-04-01 12:24:02.187441
+processing_time: 12.3121995
+conversion_datetime: 2026-04-25 16:31:22.130773
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
   docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -64,6 +64,12 @@ The identification of dMMR/MSI-H tumour status should be determined using a vali
 
 <div style=\"page-break-after: always\"></div>
 
+Table 2. Dosage regimen for JEMPERLI as monotherapy
+
+500 mg Once Every 3 Weeks
+
+Cycle 1
+
 ## Posology
 
 JEMPERLI in combination with carboplatin and paclitaxel
@@ -95,16 +101,47 @@ The dosage regimen as monotherapy is presented in Table 2.
 
 Table 2. Dosage regimen for JEMPERLI as monotherapy
 
-|       | 500mgOnceEvery3Weeks (1 Cycle=3weeks)   | 500mgOnceEvery3Weeks (1 Cycle=3weeks)   | 500mgOnceEvery3Weeks (1 Cycle=3weeks)   | 500mgOnceEvery3Weeks (1 Cycle=3weeks)   | 1000mgOnceEvery6Weeksuntildiseaseprogressionor unacceptabletoxicity(1cycle=6weeks)   | 1000mgOnceEvery6Weeksuntildiseaseprogressionor unacceptabletoxicity(1cycle=6weeks)   | 1000mgOnceEvery6Weeksuntildiseaseprogressionor unacceptabletoxicity(1cycle=6weeks)   | 1000mgOnceEvery6Weeksuntildiseaseprogressionor unacceptabletoxicity(1cycle=6weeks)   |
-|-------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| Cycle | Cycle 1                                 | Cycle 2                                 | Cycle3                                  | Cycle 4                                 | Cycle5                                                                               | Cycle6                                                                               | Cycle7                                                                               | Continue dosing Q6W                                                                  |
-| Week  | 1                                       | 4                                       | 7                                       | 10                                      | 13                                                                                   | 19                                                                                   | 25                                                                                   | Continue dosing Q6W                                                                  |
-
 ## 3 weeks between cycle 4 and cycle 5
 
 Administration of dostarlimab should continue according to the recommended schedule until disease progression or unacceptable toxicity (see section 5.1).
 
 Dose modifications
+
+(1 Cycle = 3 weeks)
+
+Cycle 2
+
+Cycle 3
+
+4
+
+7
+
+1000 mg Once Every 6 Weeks until disease progression or unacceptable toxicity (1 cycle = 6 weeks)
+
+Cycle 5
+
+13
+
+Cycle 6
+
+19
+
+Cycle 7
+
+25
+
+Continue dosing
+
+Q6W
+
+Cycle
+
+Week
+
+Cycle 4
+
+10
 
 <div style=\"page-break-after: always\"></div>
 
@@ -283,9 +320,9 @@ No interaction studies have been performed. Monoclonal antibodies (mAb) such as 
 
 There is a risk associated with the administration of dostarlimab to women of childbearing potential. Women of childbearing potential must use effective contraception during treatment with dostarlimab and until 4 months after the last dose of dostarlimab.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pregnancy
+
+<div style=\"page-break-after: always\"></div>
 
 There are no or limited amount of data on the use of dostarlimab in pregnant women. Based on its mechanism of action, dostarlimab can cause foetal harmful pharmacological effects when administered during pregnancy .
 
@@ -321,11 +358,11 @@ The safety of dostarlimab has been evaluated in 605 patients with EC or other ad
 
 In patients with advanced or recurrent solid tumours (N = 605), the most common adverse reactions (&gt; 10 %) were anaemia (28.6 %), diarrhoea (26.0 %), nausea (25.8 %), vomiting (19.0 %), arthralgia (17.0 %), pruritus (14.2 %), rash (13.2 %), pyrexia (12.4 %), aspartate aminotransferase increased (11.2 %) and hypothyroidism (11.2 %). JEMPERLI was permanently discontinued due to adverse reactions in 38 (6.3 %) patients; most of them were immune-related events. Adverse reactions were serious in 11.2 % of patients; most serious adverse reactions were immune-related adverse reactions (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 The safety profile for patients with dMMR/MSI-H EC in the GARNET study (N = 153) was not different from that of the overall monotherapy population presented in Table 4.
 
-Dostarlimab in combination with carboplatin and paclitaxel
+<div style=\"page-break-after: always\"></div>
+
+## Dostarlimab in combination with carboplatin and paclitaxel
 
 The safety of dostarlimab has been evaluated in 241 patients with primary advanced or recurrent EC who received dostarlimab in combination with carboplatin and paclitaxel in the RUBY study. Patients received doses of 500 mg dostarlimab every 3 weeks for 6 cycles followed by 1000 mg every 6 weeks for all cycles thereafter.
 
@@ -339,22 +376,22 @@ Adverse reactions known to occur with dostarlimab as monotherapy, or with carbop
 
 Table 4: Adverse reactions in patients treated with dostarlimab
 
-|                                      | Dostarlimab monotherapy                  | Dostarlimab in combination with chemotherapy   |
-|--------------------------------------|------------------------------------------|------------------------------------------------|
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders     | Blood and lymphatic system disorders           |
-| Very common                          | Anaemia a                                |                                                |
-| Endocrine disorders                  | Endocrine disorders                      | Endocrine disorders                            |
-| Very common                          | Hypothyroidism* b                        | Hypothyroidism e                               |
-| Common                               | Hyperthyroidism*, adrenal insufficiency* | Hyperthyroidism                                |
-| Uncommon                             | Thyroiditis* c , hypophysitis d          | Thyroiditis, adrenal insufficiency             |
-| Metabolism and nutrition disorders   | Metabolism and nutrition disorders       | Metabolism and nutrition disorders             |
+|                                      | Dostarlimab monotherapy                         | Dostarlimab in combination with chemotherapy   |
+|--------------------------------------|-------------------------------------------------|------------------------------------------------|
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders            | Blood and lymphatic system disorders           |
+| Very common                          | Anaemia a                                       |                                                |
+| Endocrine disorders                  | Endocrine disorders                             | Endocrine disorders                            |
+| Very common                          | Hypothyroidism* b                               | Hypothyroidism e                               |
+| Common                               | Hyperthyroidism*, adrenal insufficiency*        | Hyperthyroidism                                |
+| Uncommon                             | Thyroiditis* c , hypophysitis d                 | Thyroiditis, adrenal insufficiency             |
+| Metabolism and nutrition disorders   | Metabolism and nutrition disorders              | Metabolism and nutrition disorders             |
+| Uncommon                             | Type 1 diabetes mellitus, diabetic ketoacidosis | Type 1 diabetes mellitus                       |
+| Nervous system disorders             | Nervous system disorders                        | Nervous system disorders                       |
 
 <div style=\"page-break-after: always\"></div>
 
 |                                                      | Dostarlimab monotherapy                                                      | Dostarlimab in combination with chemotherapy                             |
 |------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| Uncommon                                             | Type 1 diabetes mellitus, diabetic ketoacidosis                              | Type 1 diabetes mellitus                                                 |
-| Nervous system disorders                             | Nervous system disorders                                                     | Nervous system disorders                                                 |
 | Uncommon                                             | Encephalitis, myasthenia gravis                                              | Myasthenic syndrome † , Guillain-Barré syndrome †f                       |
 | Eye disorders                                        | Eye disorders                                                                | Eye disorders                                                            |
 | Uncommon                                             | Uveitis g                                                                    | Uveitis                                                                  |
@@ -388,19 +425,15 @@ Table 4: Adverse reactions in patients treated with dostarlimab
 
 <div style=\"page-break-after: always\"></div>
 
-- g Includes uveitis and iridocyclitis
-
-h  Includes myocarditis and immune-mediated myocarditis i Includes pneumonitis, interstitial lung disease and immune-mediated lung disease
-
-j Includes colitis, enterocolitis and immune-mediated enterocolitis k Includes pancreatitis and pancreatitis acute
-
-l Includes colitis and enteritis m  Includes hepatitis, autoimmune hepatitis and hepatic cytolysis
-
-n Includes rash, rash maculo-papular, erythema, rash macular, rash pruritic, rash erythematous, rash papular, erythema multiforme, skin toxicity, drug eruption, toxic skin eruption, exfoliative rash and pemphigoid o  Includes rash and rash maculo-papular
-
-p Includes nephritis and tubulointerstitial nephritis q Includes transaminases increased, alanine aminotransferases increased, aspartate aminotransferases increased and hypertransaminasaemia
-
-r Includes infusion-related reaction and hypersensitivity.
+- j Includes colitis, enterocolitis and immune-mediated enterocolitis
+- k Includes pancreatitis and pancreatitis acute
+- l Includes colitis and enteritis
+- m  Includes hepatitis, autoimmune hepatitis and hepatic cytolysis
+- n Includes rash, rash maculo-papular, erythema, rash macular, rash pruritic, rash erythematous, rash papular, erythema multiforme, skin toxicity, drug eruption, toxic skin eruption, exfoliative rash and pemphigoid
+- o  Includes rash and rash maculo-papular
+- p Includes nephritis and tubulointerstitial nephritis
+- q Includes transaminases increased, alanine aminotransferases increased, aspartate aminotransferases increased and hypertransaminasaemia
+- r Includes infusion-related reaction and hypersensitivity.
 
 ## Description of selected adverse reactions
 
@@ -432,9 +465,9 @@ Hyperthyroidism occurred in 14 (2.3 %) patients, including grade 2 (2.1 %) and g
 
 Thyroiditis occurred in 3 (0.5 %) patients; all were grade 2. None of the events of thyroiditis resolved; there were no discontinuations of dostarlimab due to thyroiditis.
 
-<div style=\"page-break-after: always\"></div>
-
 Adrenal insufficiency occurred in 7 (1.2 %) patients, including grade 2 (0.5 %), and grade 3 (0.7 %). Adrenal insufficiency resulted in discontinuation of dostarlimab in 1 (0.2 %) patient and resolved in 4 (57.1 %) patients.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Immune-mediated nephritis
 
@@ -466,9 +499,9 @@ In the patients who developed ADAs, there was no evidence of altered efficacy or
 
 Of the 605 patients treated with dostarlimab monotherapy, 51.6 % were under 65 years, 36.9 % were 65 to less than 75 years, and 11.5 % were 75 years or older. Of the 241 patients treated with dostarlimab in combination with carboplatin-paclitaxel, 52.3% were under 65 years, 36.5% were 65 to less than 75 years, and 11.2% were 75 years or older. No overall differences in safety were reported between elderly (≥ 65 years) and younger patients (&lt; 65 years).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Reporting of suspected adverse reactions
+
+<div style=\"page-break-after: always\"></div>
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
@@ -492,13 +525,13 @@ RUBY: Randomised controlled study of dostarlimab in combination with carboplatin
 
 The efficacy and safety of dostarlimab in combination with carboplatin-paclitaxel were investigated in a multicentre, randomised, double blinded, placebo-controlled Phase 3 study conducted in patients with primary advanced or recurrent EC.
 
-Patients were randomised (1:1) to receive dostarlimab 500 mg plus carboplatin AUC 5 mg/mL/min and paclitaxel 175 mg/m 2 every 3 weeks for 6 cycles followed by dostarlimab 1000 mg every 6 weeks (n = 245) or placebo plus carboplatin AUC 5 mg/mL/min and paclitaxel 175 mg/m 2  every 3 weeks for 6 cycles followed by placebo every 6 weeks (n = 249). Randomisation was stratified by MMR/MSI status, prior external pelvic radiotherapy, and disease status (recurrent, primary Stage III, or primary Stage IV). Treatment continued for up to 3 years or until unacceptable toxicity, disease progression or investigator decision. Assessment of tumour status was performed every 6 weeks through week 25, every 9 weeks through week 52 and every 12 weeks thereafter. After a median follow-up of 37 months, 27 out of 245 patients randomised to dostarlimab plus carboplatin-paclitaxel have received treatment for &gt;3 years (cut-off date 22 Sep 2023).
+Patients were randomised (1:1) to receive dostarlimab 500 mg plus carboplatin AUC 5 mg/mL/min and paclitaxel 175 mg/m 2 every 3 weeks for 6 cycles followed by dostarlimab 1000 mg every 6 weeks (n = 245) or placebo plus carboplatin AUC 5 mg/mL/min and paclitaxel 175 mg/m 2  every 3 weeks for 6 cycles followed by placebo every 6 weeks (n = 249). Randomisation was stratified by MMR/MSI status, prior external pelvic radiotherapy, and disease status (recurrent, primary Stage III, or primary Stage IV). Treatment continued for up to 3 years or until unacceptable toxicity, disease progression or investigator decision. Assessment of tumour status was performed every 6 weeks through week 25, every 9 weeks through week 52 and every 12 weeks thereafter. After a median follow-up of 37 months, 27 out of 245 patients randomised to dostarlimab plus carboplatin-paclitaxel have received treatment for &gt;3 years (cutoff date 22 Sep 2023).
 
-The key eligibility criteria for the study were International Federation of Gynaecology and Obstetrics (FIGO) primary Stage III or Stage IV disease, including Stage IIIA to IIIC1 disease with presence of evaluable or measurable disease per RECIST v.1.1, Stage IIIC1 patients with carcinosarcoma, clear cell, serous, or mixed histology (containing ≥10 % carcinosarcoma, clear cell, or serous histology) regardless of presence of evaluable or measurable disease on imaging, Stage IIIC2 or Stage IV disease regardless of presence of evaluable or measurable disease. The study also included patients with first recurrent EC with
+The key eligibility criteria for the study were International Federation of Gynaecology and Obstetrics (FIGO) primary Stage III or Stage IV disease, including Stage IIIA to IIIC1 disease with presence of evaluable or measurable disease per RECIST v.1.1, Stage IIIC1 patients with carcinosarcoma, clear cell, serous, or mixed histology (containing ≥10 % carcinosarcoma, clear cell, or serous histology) regardless of presence of evaluable or measurable disease on imaging, Stage IIIC2 or Stage IV disease regardless of presence of evaluable or measurable disease. The study also included patients with first recurrent EC with a low potential for cure by radiation therapy or surgery alone or in combination, including patients who had first recurrent disease and were naïve to systemic anticancer therapy or who had received prior
 
 <div style=\"page-break-after: always\"></div>
 
-a low potential for cure by radiation therapy or surgery alone or in combination, including patients who had first recurrent disease and were naïve to systemic anticancer therapy or who had received prior neo-adjuvant/adjuvant systemic anticancer therapy and had a recurrence or progressive disease ≥6 months after completing treatment (first recurrence). Prior radiation was not permitted within 21 days of study treatment excluding palliative radiotherapy which was permitted within up to 1 week of study treatment.
+neo-adjuvant/adjuvant systemic anticancer therapy and had a recurrence or progressive disease ≥6 months after completing treatment (first recurrence). Prior radiation was not permitted within 21 days of study treatment excluding palliative radiotherapy which was permitted within up to 1 week of study treatment.
 
 The primary efficacy outcome measures were progression-free survival (PFS) assessed by the investigator according to RECIST v1.1 in patients with dMMR/MSI-H primary advanced or recurrent EC and in all patients (overall population) with primary advanced or recurrent EC, and overall survival (OS) in all patients (overall population) with primary advanced or recurrent EC.
 
@@ -512,7 +545,7 @@ Table 5: Efficacy results in RUBY for overall population and patients with dMMR/
 
 | Endpoint                          | Overall population                            | Overall population                        | dMMR/MSI-H population                        | dMMR/MSI-H population                    |
 |-----------------------------------|-----------------------------------------------|-------------------------------------------|----------------------------------------------|------------------------------------------|
-| Endpoint                          | Dostarlimab + carboplatin- paclitaxel (N=245) | Placebo + carboplatin- paclitaxel (N=249) | Dostarlimab + carboplatin- paclitaxel (N=53) | Placebo + carboplatin- paclitaxel (N=65) |
+|                                   | Dostarlimab + carboplatin- paclitaxel (N=245) | Placebo + carboplatin- paclitaxel (N=249) | Dostarlimab + carboplatin- paclitaxel (N=53) | Placebo + carboplatin- paclitaxel (N=65) |
 | Progression free-survival (PFS) a |                                               |                                           |                                              |                                          |
 | Median in months (95% CI) b       | 11.8 (9.6, 17.1)                              | 7.9 (7.6, 9.5)                            | Not reached (11.8, NR)                       | 7.7 (5.6, 9.7)                           |
 | Number (%) of patients with event | 135 (55.1)                                    | 177 (71.1)                                | 19 (35.8)                                    | 47 (72.3)                                |
@@ -524,13 +557,13 @@ Table 5: Efficacy results in RUBY for overall population and patients with dMMR/
 | Hazard ratio (95% CI) c           | 0.69 (0.54, 0.89)                             | 0.69 (0.54, 0.89)                         | 0.32 (0.17, 0.63)                            | 0.32 (0.17, 0.63)                        |
 | p-value d                         | 0.0020                                        | 0.0020                                    | NA g                                         | NA g                                     |
 | Objective response rate (ORR) h   |                                               |                                           |                                              |                                          |
+| ORR, n (%) (95% CI)               | 149 (70.3) (63.6, 76.3)                       | 142 (64.8) (58.1, 71.2)                   | 38 (77.6) (63.4, 88.2)                       | 40 (69.0) (55.5, 80.5)                   |
 
 <div style=\"page-break-after: always\"></div>
 
 | Endpoint                        | Overall population                            | Overall population                        | dMMR/MSI-H population                        | dMMR/MSI-H population                    |
 |---------------------------------|-----------------------------------------------|-------------------------------------------|----------------------------------------------|------------------------------------------|
 |                                 | Dostarlimab + carboplatin- paclitaxel (N=245) | Placebo + carboplatin- paclitaxel (N=249) | Dostarlimab + carboplatin- paclitaxel (N=53) | Placebo + carboplatin- paclitaxel (N=65) |
-| ORR, n (%) (95% CI)             | 149 (70.3) (63.6, 76.3)                       | 142 (64.8) (58.1, 71.2)                   | 38 (77.6) (63.4, 88.2)                       | 40 (69.0) (55.5, 80.5)                   |
 | Duration of response (DOR) h, i |                                               |                                           |                                              |                                          |
 | Median in months (95% CI) b     | 10.6 (8.2, 17.6)                              | 6.2 (4.4, 6.7)                            | Not reached (10.1, NR)                       | 5.4 (3.9, 8.1)                           |
 
@@ -558,15 +591,43 @@ Pre-specified exploratory analyses of PFS and OS were performed in patients with
 
 <div style=\"page-break-after: always\"></div>
 
+Progression-free survival probability
+
+- Dostarlimab + Carboplatin-Paclitaxel
+
+— · Placebo + Carboplatin-Paclitaxel
+
 Figure 1. Kaplan-Meier curve of progression-free survival per investigator assessment in all patients (overall population) with EC (RUBY study)
 
-<!-- image -->
+0.2
 
-Figure 2. Kaplan-Meier curve of overall survival in all patients (overall population) with EC (RUBY study)
+0.0
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+Overall survival Probability
+
+1.0
+
+Treatment
+
+Dostarlimab + Carboplatin-
+
+Paclitaxel
+
+Figure 2. Kaplan-Meier curve of overall survival in all patients (overall population) with EC (RUBY study)
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+<!-- image -->
 
 GARNET: adult patients with recurrent or advanced dMMR/MSI-H EC who have progressed on or after treatment with a platinum-containing regimen
 
@@ -577,6 +638,8 @@ Patients received 500 mg dostarlimab every 3 weeks for 4 cycles followed by 1000
 The major efficacy outcome measures were objective response rate (ORR) and duration of response (DOR) as assessed by blinded independent central radiologists' (BICR) review according to response evaluation criteria in solid tumours (RECIST) v 1.1. The efficacy population was defined as patients who had measurable disease by BICR at baseline and had minimum of 24 weeks follow-up or had less than 24 weeks of follow-up and discontinued due to adverse events or disease progression.
 
 A total of 143 patients with dMMR/MSI-H EC were evaluated for efficacy in the GARNET study. Among these 143 patients, the baseline characteristics were: median age of 65 years (52 % aged 65 years or older); 77 % white, 3.5 % Asian, 2.8 % black; and ECOG PS 0 (39 %) or 1 (61 %). At the time of diagnosis, 21 % of the patients with dMMR/MSI-H EC were FIGO Stage IV. At study entry (the most recent FIGO stage), 67 % of the patients were FIGO Stage IV. The median number of prior lines of therapy was one: 63 % of patients had one prior line, 37 % had two or more prior lines. Forty-nine patients (34 %) received treatment only in the neoadjuvant or adjuvant setting before participating in the study.
+
+<div style=\"page-break-after: always\"></div>
 
 The identification of dMMR/MSI-H tumour status was prospectively determined based on local testing. Local diagnostic assays (IHC, PCR or NGS) available at the sites were used for the detection of the dMMR/MSI-H expression in tumour material. Most of the sites used IHC as it was the most common assay available.
 
@@ -605,8 +668,6 @@ b For patients with a partial or complete response.
 
 c Includes patient with complete response, partial response and stable disease for at least 12 weeks.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Efficacy and PD-L1 status
 
 Clinical activity was observed regardless of tumour PD-L1 combined positive score (CPS) by IHC. The relationship between PD-L1 status and efficacy was analysed post-hoc in patients with available tissue samples (N = 81) among the efficacy population from Cohort A1 of the GARNET study using a data cutoff date of 01 March 2020. Among 23 patients with PD-L1 CPS &lt; 1 %, ORR was 30.4 % (7/23, 95 % CI 13.2, 52.9) and among 58 patients with PD-L1 CPS ≥ 1 %, ORR was 55.2 % (32/58, 95 % CI 41.5, 68.3).
@@ -620,6 +681,8 @@ Consistent results were observed in the elderly population, where the ORR by BIC
 ## Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with dostarlimab in all subsets of the paediatric population in the treatment of all conditions included in the category of malignant neoplasms, except haematopoietic and lymphoid tissue (see section 4.2 for information on paediatric use).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -639,8 +702,6 @@ The mean volume of distribution of dostarlimab at steady state is approximately 
 
 Dostarlimab is a therapeutic mAb IgG4 that is expected to be catabolised into small peptides, amino acids, and small carbohydrates by lysosome through fluid-phase or receptor-mediated endocytosis. The degradation products are eliminated by renal excretion or returned to the nutrient pool without biological effects.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Elimination
 
 The mean clearance is 0.007 L/h (CV % of 30.2 %) at steady state. The t1/2 at steady state is 23.2 days (CV % of 20.8 %).
@@ -659,6 +720,8 @@ Based on exposure efficacy and safety relationships, there are no clinically sig
 
 A population PK analysis of the patient data indicates that there are no clinically important effects of age (range: 24 to 86 years), gender or race, ethnicity, or tumour type on the clearance of dostarlimab.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Renal impairment
 
 Renal impairment was evaluated based on the estimated creatinine clearance [CLCR mL/min] (normal: CLCR ≥ 90 mL/min, n = 305; mild: CLCR = 60-89 mL/min, n = 397; moderate: CLCR = 30-59 mL/min, n = 164; severe: CLCR = 15-29 mL/min, n = 3 and ESRD: CLCR &lt; 15 mL/min, n = 1). The effect of renal impairment on the clearance of dostarlimab was evaluated by population pharmacokinetic analyses in patients with mild or moderate renal impairment compared to patients with normal renal function. No clinically important differences in the clearance of dostarlimab were found between patients with mild or moderate renal impairment and patients with normal renal function. There are limited data in patients with severe renal impairment.
@@ -669,11 +732,7 @@ Hepatic impairment was evaluated as defined using the US National Cancer Institu
 
 ## 5.3 Preclinical safety data
 
-Nonclinical data reveal no special hazard for humans based on repeat-dose toxicity studies of duration up to 3 months in the cynomolgus monkey. No studies have been performed to assess the potential of dostarlimab for carcinogenicity or genotoxicity. Animal reproduction and development toxicity studies have not been conducted with dostarlimab. Blockade of PD-L1 signaling has been shown in murine models of pregnancy to disrupt tolerance to the foetus and to result in an increase in foetal loss. These
-
-<div style=\"page-break-after: always\"></div>
-
-results indicate a potential risk that administration of dostarlimab during pregnancy could cause foetal harm, including increased rates of abortion or stillbirth.
+Nonclinical data reveal no special hazard for humans based on repeat-dose toxicity studies of duration up to 3 months in the cynomolgus monkey. No studies have been performed to assess the potential of dostarlimab for carcinogenicity or genotoxicity. Animal reproduction and development toxicity studies have not been conducted with dostarlimab. Blockade of PD-L1 signaling has been shown in murine models of pregnancy to disrupt tolerance to the foetus and to result in an increase in foetal loss. These results indicate a potential risk that administration of dostarlimab during pregnancy could cause foetal harm, including increased rates of abortion or stillbirth.
 
 No notable effects on the male and female reproductive organs were observed in monkeys in the 1-month and 3-month repeat-dose toxicology studies; however, these results may not be representative at all of the potential clinical risk because of the immaturity of the reproductive system of animals used in the studies. Therefore, fertility toxicity remains unknown.
 
@@ -686,6 +745,8 @@ Trisodium citrate dihydrate (E331) Citric acid monohydrate (E330) L-arginine hyd
 ## 6.2 Incompatibilities
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -713,8 +774,6 @@ For storage conditions after dilution of the medicinal product, see section 6.3.
 
 Each carton contains one vial.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.6 Special precautions for disposal and other handling
 
 ## Preparation/dilution
@@ -727,7 +786,11 @@ For the 500 mg dose, withdraw 10 mL of JEMPERLI from a vial and transfer into an
 
 - -For example, if preparing a 500 mg dose in a 250 mL diluent intravenous bag, to achieve a 2 mg/mL concentration would require withdrawing 10 mL of diluent from the 250 mL intravenous bag. Then, 10 mL of JEMPERLI would be withdrawn from the vial and transferred into the intravenous bag.
 
-For the 1000 mg dose, withdraw 10 mL of JEMPERLI from each of two vials (withdraw 20 mL total) and transfer into an intravenous bag containing sodium chloride 9 mg/mL (0.9 %) solution for injection, or glucose 50 mg/mL (5 %) solution for injection. The final concentration of the diluted solution should be between 4 mg/mL and 10 mg/mL. The total volume of the infusion solution must not exceed 250 mL. This may require withdrawing a volume of diluent from the IV bag prior to adding a volume of JEMPERLI into the intravenous bag.
+For the 1000 mg dose, withdraw 10 mL of JEMPERLI from each of two vials (withdraw 20 mL total) and transfer into an intravenous bag containing sodium chloride 9 mg/mL (0.9 %) solution for injection, or glucose 50 mg/mL (5 %) solution for injection. The final concentration of the diluted solution should be between 4 mg/mL and 10 mg/mL. The total volume of the infusion solution must not exceed 250 mL. This
+
+<div style=\"page-break-after: always\"></div>
+
+may require withdrawing a volume of diluent from the IV bag prior to adding a volume of JEMPERLI into the intravenous bag.
 
 - -For example, if preparing a 1000 mg dose in a 250 mL diluent intravenous bag, to achieve a 4 mg/mL concentration would require withdrawing 20 mL of diluent from the 250 mL intravenous bag. Then, 10 mL of JEMPERLI would be withdrawn from each of two vials, totaling 20 mL, and transferred into the intravenous bag.
 
@@ -748,8 +811,6 @@ JEMPERLI must not be administered as an intravenous push or bolus injection.
 
 Do not co-administer other medicinal products through the same infusion line.
 
-<div style=\"page-break-after: always\"></div>
-
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
@@ -766,11 +827,11 @@ Date of first authorisation: 21 April 2021
 
 Date of latest renewal: 15 February 2023
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
-
-24
 
 <div style=\"page-break-after: always\"></div>
 
@@ -782,7 +843,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -794,11 +855,11 @@ WuXi Biologics Co., Ltd., 108 Meiliang Road, Mashan, Binhu District, WuXi, Jiang
 
 GlaxoSmithKline LLC 893 River Road Conshohocken, PA, 19428 USA
 
+Samsung Biologics Co., Ltd. 300, Songdo bio-daero Yeonsu-gu, Incheon, 21987, Republic of Korea
+
 Name and address of the manufacturer responsible for batch release
 
-GlaxoSmithKline Trading Services Ltd.
-
-12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Ltd. 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 GlaxoSmithKline Manufacturing S.p.A. Strada Provinciale Asolana, 90 43056 San Polo di Torrile Parma, Italy
 
@@ -814,11 +875,11 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
+<div style=\"page-break-after: always\"></div>
+
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-- Risk management plan (RMP)
-
-<div style=\"page-break-after: always\"></div>
+## · Risk management plan (RMP)
 
 The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -936,7 +997,8 @@ EU/1/21/1538/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1112,7 +1174,7 @@ Your doctor will decide how many treatments you need.
 
 ## If you forget an appointment to receive JEMPERLI
 
-## ➔ Contact your doctor or hospital immediately to reschedule your appointment.
+- ➔ Contact your doctor or hospital immediately to reschedule your appointment.
 
 It is very important that you do not miss a dose of this medicine.
 
@@ -1148,13 +1210,13 @@ JEMPERLI can cause serious side effects. If you develop symptoms you must tell y
 | Type 1 diabetes, including diabetic ketoacidosis (acid in the blood produced from diabetes) | • feeling more hungry or thirsty than usual • needing to urinate more often including at night • weight loss • feeling sick (nausea) , being sick (vomiting) • stomach pain • feeling tired • unusual sleepiness • having difficulty thinking clearly • breath that smells sweet or fruity • deep or fast breathing |
 | Inflammation of kidneys (nephritis)                                                         | • changes in amount or colour of urine • swelling of the ankles • loss of appetite • blood in the urine                                                                                                                                                                                                             |
 | Inflammation of skin (pemphigoid, Stevens-Johnson syndrome)                                 | • rash, itching, skin blistering • reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes; these serious skin rashes can be preceded by fever and flu-like symptoms                                        |
-| Inflammation of heart muscle (myocarditis)                                                  | • trouble breathing                                                                                                                                                                                                                                                                                                 |
+| Inflammation of heart muscle (myocarditis)                                                  | • trouble breathing • dizziness or fainting                                                                                                                                                                                                                                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
 | Conditions                                                                                                              | Possible symptoms                                                                                                                                                                                                                                                                                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                         | • dizziness or fainting • fever • chest pain and chest tightness • flu like symptoms                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                         | • fever • chest pain and chest tightness • flu like symptoms                                                                                                                                                                                                                                                                                                                                       |
 | Inflammation of brain and nervous system (myasthenic syndrome/myasthenia gravis, Guillain-Barré syndrome, encephalitis) | • neck stiffness • headache • fever, chills • vomiting • eye sensitivity to light • weakness of eye muscles, drooping eyelids • dry eyes and blurred vision • difficulty swallowing, dry mouth • impaired speech • confusion and sleepiness • dizziness • numbness, pricking, or pins and needles sensations in the hands and feet • pain • aching muscles • difficulty walking or lifting objects |
 | Inflammation of spinal cord (myelitis)                                                                                  | • abnormal heart beat/rate or blood pressure • pain • numbness • tingling, or weakness in the arms or legs • bladder or bowel problems including needing to urinate more frequently, urinary incontinence, difficulty urinating and constipation                                                                                                                                                   |
 | Inflammation of eyes                                                                                                    | • changes in eyesight                                                                                                                                                                                                                                                                                                                                                                              |
@@ -1250,7 +1312,7 @@ The following side effects have been reported with JEMPERLI when given in combin
 - inflammation of the pancreas.
 - ➔ Check the table above for symptoms of possible serious side effects.
 
-Uncommon side effects (may affect up to 1 in 100 people):
+## Uncommon side effects (may affect up to 1 in 100 people):
 
 - inflammation of the thyroid gland;
 - decreased secretion of adrenal hormones (adrenal insufficiency);
@@ -1316,11 +1378,13 @@ GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus D
 
 ## Manufacturer
 
-GlaxoSmithKline Trading Services Ltd. 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Ltd. 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 <div style=\"page-break-after: always\"></div>
 
-GlaxoSmithKline Manufacturing S.p.A. Strada Provinciale Asolana, 90 43056 San Polo di Torrile Parma, Italy
+## GlaxoSmithKline Manufacturing S.p.A.
+
+Strada Provinciale Asolana, 90 43056 San Polo di Torrile Parma, Italy
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1334,13 +1398,9 @@ GlaxoSmithKline Trading Services Limited Teл.: + 359 80018205
 
 ## Česká republika
 
-GlaxoSmithKline, s.r.o.
+GlaxoSmithKline, s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
 
-Tel: + 420 222 001 111
-
-cz.info@gsk.com
-
-Danmark
+## Danmark
 
 GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
@@ -1354,23 +1414,15 @@ GlaxoSmithKline Trading Services Limited Tel: + 372 8002640
 
 ## Ελλάδα
 
-GlaxoSmithKline Μονοπρόσωπη A.E.B.E.
-
-Τηλ: + 30 210 68 82 100
+GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ: + 30 210 68 82 100
 
 ## España
 
-GlaxoSmithKline, S.A.
-
-Tel: + 34 900 202 700
-
-es-ci@gsk.com
+GlaxoSmithKline, S.A. Tel: + 34 900 202 700 es-ci@gsk.com
 
 ## France
 
 Laboratoire GlaxoSmithKline Tél: + 33 (0)1 39 17 84 44 diam@gsk.com
-
-## Hrvatska
 
 ## Lietuva
 
@@ -1394,9 +1446,7 @@ GlaxoSmithKline BV Tel: + 31 (0) 33 2081100
 
 ## Norge
 
-GlaxoSmithKline AS
-
-Tlf: + 47 22 70 20 00
+GlaxoSmithKline AS Tlf: + 47 22 70 20 00
 
 ## Österreich
 
@@ -1404,21 +1454,17 @@ GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
 
 ## Polska
 
-GSK Services Sp. z o.o.
-
-Tel.: + 48 (0)22 576 9000
+GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
 
 ## Portugal
 
-GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
-
-## România
-
-GlaxoSmithKline Trading Services Limited
-
-Tel: +385 800787089
+GlaxoSmithKline -Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
 
 <div style=\"page-break-after: always\"></div>
+
+## Hrvatska
+
+GlaxoSmithKline Trading Services Limited Tel: +385 800787089
 
 ## Ireland
 
@@ -1428,7 +1474,7 @@ Tel: + 353 (0)1 4955000
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: + 354 535 7000
 
@@ -1444,9 +1490,7 @@ GlaxoSmithKline Trading Services Limited Τηλ: + 357 80070017
 
 ## Latvija
 
-GlaxoSmithKline Trading Services Limited
-
-Tel: + 371 80205045
+GlaxoSmithKline Trading Services Limited Tel: + 371 80205045
 
 ## This leaflet was last revised in
 
@@ -1465,15 +1509,13 @@ Preparation/dilution, storage and administration of the solution for infusion:
 - For the 500 mg dose, withdraw 10 mL of JEMPERLI from a vial and transfer into an intravenous bag containing sodium chloride 9 mg/mL (0.9 %) solution for injection or glucose 50 mg/mL (5 %) solution for injection. The final concentration of the diluted solution should be between 2 mg/mL and 10 mg/mL. The total volume of the infusion solution must not exceed 250 mL. This may require withdrawing a volume of diluent from the IV bag prior to adding a volume of JEMPERLI into the IV bag.
 - -For example, if preparing a 500 mg dose in a 250 mL diluent IV bag, to achieve a 2 mg/mL concentration would require withdrawing 10 mL of diluent from the 250 mL IV bag. Then, 10 mL of JEMPERLI would be withdrawn from the vial and transferred into the IV bag.
 
-GlaxoSmithKline Trading Services Limited
+## România
 
-Tel: + 40 800672524
+GlaxoSmithKline Trading Services Limited Tel: + 40 800672524
 
 ## Slovenija
 
-GlaxoSmithKline Trading Services Limited
-
-Tel: + 386 80688869
+GlaxoSmithKline Trading Services Limited Tel: + 386 80688869
 
 ## Slovenská republika
 
@@ -1481,9 +1523,7 @@ GlaxoSmithKline Trading Services Limited Tel: + 421 800500589
 
 ## Suomi/Finland
 
-GlaxoSmithKline Oy
-
-Puh/Tel: + 358 (0)10 30 30 30
+GlaxoSmithKline Oy Puh/Tel: + 358 (0)10 30 30 30
 
 ## Sverige
 

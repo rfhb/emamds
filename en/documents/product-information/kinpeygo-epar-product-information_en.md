@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-02-11 14:23:33
-document_pages: 35
+document_datetime: 2026-04-23 13:59:13
+document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kinpeygo-epar-product-information_en.pdf
 document_name: kinpeygo-epar-product-information_en.pdf
 version: success
-processing_time: 6.976937
-conversion_datetime: 2025-12-26 19:48:36.402875
+processing_time: 7.2906849
+conversion_datetime: 2026-04-25 16:12:28.275282
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,7 +24,7 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Kinpeygo 4 mg modified-release hard capsules
+Kinpeygo 4 mg modified--release hard capsules
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -46,7 +46,7 @@ Modified-release hard capsule.
 
 ## 4.1 Therapeutic indications
 
-Kinpeygo is indicated for the treatment of adults with primary immunoglobulin A nephropathy (IgAN) with a urine protein excretion ≥1.0 g/day (or urine protein -tocreatinine ratio ≥0.8 g/g) .
+Kinpeygo is indicated for the treatment of adults with primary immunoglobulin A nephropathy (IgAN) with a urine protein excre tion ≥1.0 g/day (or urine protein -tocreatinine ratio ≥0.8 g/g).
 
 ## 4.2 Posology and method of administration
 
@@ -54,11 +54,13 @@ Kinpeygo is indicated for the treatment of adults with primary immunoglobulin A 
 
 The recommended dose is 16 mg once daily in the morning, at least one hour before a meal, for an initial duration of 9 months. When treatment is to be discontinued, the dose should be reduced to 8 mg once daily for 2 weeks of therapy; the dose may be reduced to 4 mg once daily for an additional 2 weeks, at the discretion of the treating physician.
 
-Re-treatment may be considered at the discretion of the treating physician. Safety and efficacy of treatment with subsequent courses of Kinpeygo have not been established.
+Re-treatment may be considered at the discretion of the treating physician (see Section 5.1).
 
 If the patient forgets to take Kinpeygo, the patient should take Kinpeygo the next day, in the morning as usual. The patient should not double the daily dose to make up for a missed dose.
 
-## Special populations Elderly
+## Special populations
+
+Elderly
 
 Experience of the use of Kinpeygo in the elderly is limited. However, from the clinical data available, the efficacy and safety of Kinpeygo are expected to be similar to that of other age groups studied.
 
@@ -98,7 +100,7 @@ Since Kinpeygo contains a glucocorticosteroid, general warnings concerning gluco
 
 ## Hepatic impairment
 
-Patients with moderate or severe hepatic impairment (Child-Pugh Class B or C respectively) could be at an increased risk of hypercorticism and adrenal axis suppression due to an increased systemic exposure of oral budesonide. Patients with moderate hepatic impairment (Child-Pugh Class B) should be monitored for increased signs and/or symptoms of hypercorticism .
+Patients with moderate or severe hepatic impairment (Child-Pugh Class B or C respectively) could be at an increased risk of hypercorticism and adrenal axis suppression due to an increased systemic exposure of oral budesonide. Patients with moderate hepatic impairment (Child-Pugh Class B) should be monitored for increased signs and/or symptoms of hypercorticism.
 
 ## Symptoms of steroid withdrawal in patients transferred from systemic corticosteroids
 
@@ -130,9 +132,9 @@ Concomitant treatment with potent CYP3A4 inhibitors, including ketoconazole and 
 
 After extensive intake of grapefruit juice (which inhibits CYP3A4 activity predominantly in the intestinal mucosa), the systemic exposure to budesonide after oral administration increased approximately two-fold. As with other medicinal products primarily metabolised through CYP3A4, regular ingestion of grapefruit or its juice should be avoided in connection with Kinpeygo administration (other juices such as orange juice or apple juice do not inhibit CYP3A4). See also section 4.5.
 
-## ACTH stimulation test
-
 <div style=\"page-break-after: always\"></div>
+
+## ACTH stimulation test
 
 Because adrenal function may be suppressed, an ACTH stimulation test for diagnosing pituitary insufficiency might show false results (low values).
 
@@ -144,7 +146,7 @@ Patients with rare hereditary problems of fructose intolerance, glucose-galactos
 
 ## Medicinal products/substances inhibiting CYP3A4
 
-Budesonide is metabolised via CYP3A4.  Potent inhibitors of CYP3A4 can increase plasma levels of budesonide. Co-administration of the potent CYP3A4 inhibitor ketoconazole or intake of grapefruit juice resulted in a 6.5-fold and 2-fold increase, respectively in the bioavailability of budesonide, compared to budesonide alone.
+Budesonide is metabolised via CYP3A4. Potent inhibitors of CYP3A4 can increase plasma levels of budesonide. Co-administration of the potent CYP3A4 inhibitor ketoconazole or intake of grapefruit juice resulted in a 6.5-fold and 2-fold increase, respectively in the bioavailability of budesonide, compared to budesonide alone.
 
 Thus, clinically relevant interactions with potent CYP3A inhibitors, such as ketoconazole, itraconazole, ritonavir, indinavir, saquinavir, erythromycin, cyclosporine, and grapefruit juice, are to be expected, and may increase systemic budesonide concentrations (see sections 4.4 and 5.2).
 
@@ -168,11 +170,11 @@ The pharmacokinetics of budesonide have not been evaluated in combination with p
 
 Budesonide treatment may reduce serum potassium, which should be considered when Kinpeygo is coadministered with a medicinal product where the pharmacological effects may be potentiated by low serum potassium, such as cardiac glucosides, or when co-administered with diuretics that lower serum potassium.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Pregnancy
-
-<div style=\"page-break-after: always\"></div>
 
 Administration during pregnancy should be avoided unless there are compelling reasons for therapy with Kinpeygo. There are only few data of pregnancy outcomes after oral administration of budesonide in humans. Although data on the use of inhaled budesonide in a large number of exposed pregnancies indicate no adverse effect, the maximal concentration of budesonide in plasma is expected to be higher in association with treatment with Kinpeygo compared to inhaled budesonide. In pregnant animals budesonide, like other glucocorticosteroids, has been shown to cause abnormalities of fetal development (see section 5.3). The relevance of this to man has not been established.
 
@@ -204,13 +206,15 @@ No studies on the effects of Kinpeygo on the ability to drive and use machines h
 
 In the Kinpeygo phase 3 clinical study the most commonly reported adverse drug reactions were acne reported in approximately 10% of patients, peripheral oedema, face oedema, weight increased and white blood cell count increased, each occurring in approximately 5% of patients; these were mainly of mild or moderate severity and reversible, reflecting the low systemic exposure to budesonide after oral administration.
 
-## Tabulated list of adverse reactions
-
 <div style=\"page-break-after: always\"></div>
+
+Data for re-treatment of patients who were re-treated as part of an open-label extension study to the previous phase 3 study suggested a safety profile for re-treatment consistent with that observed in the phase 3 clinical study.
+
+## Tabulated list of adverse reactions
 
 Adverse drug reactions reported in the pivotal phase 3 clinical study and from post-marketing data with Kinpeygo are presented in Table 1.
 
-Adverse reactions reported are listed according to the following frequency: Very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000).
+Adverse reactions repo rted are listed according to the following frequency: Very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000).
 
 Table 1: Adverse drug reactions by frequency and system organ class
 
@@ -236,11 +240,11 @@ Adverse drug reactions typical of systemic glucocorticosteroids may occur (e.g.,
 
 No data available.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -266,15 +270,33 @@ Kinpeygo is an oral, modified-release hard capsule formulation of budesonide whi
 
 The efficacy of Kinpeygo has been evaluated in 2 randomised, double-blind, placebo-controlled studies of patients with primary IgAN, who were receiving optimised dose (maximum allowed dose or maximum tolerated dose) of Renin-Angiotensin System (RAS) inhibitor therapy as a standard of care (SOC). The effect of Kinpeygo on kidney function decline based on estimated glomerular filtration rate (eGFR) and proteinuria reduction based on urine protein creatinine ratio (UPCR) was assessed in a randomised, double-blind, multicentre phase 3 study in patients with biopsy proven IgAN. 364 patients in the Full Analysis Set were randomised 1:1 to either Kinpeygo 16 mg once daily or placebo and treated for 9 months followed by a 2-week taper phase of 8 mg and 15 months of observational follow-up.
 
-The final analysis of the study demonstrated that over the 2-year period, a 9-month treatment course of Kinpeygo (Nefecon) 16 mg/day reduced the loss of kidney function at 2 years in patients with primary IgAN in a statistically significant manner. The eGFR benefit accrued by the end of 9 months of treatment was maintained during 15 months of observational follow-up (Figure 1).
+The final analysis of the study demonstrated that over the 2-year period, a 9-month treatment course of Kinpeygo (Nefecon) 16 mg/day reduced the loss of kidney function at 2 years in patients with primary IgAN in
 
 <div style=\"page-break-after: always\"></div>
 
+Mean Absolute Change in eGFR from Baseline
+
+(mL/min/1.73m2)
+
+5
+
+0
+
+-10 -
+
+-15
+
+wastillin
+
+Nuuy a statistically significant manner. The eGFR benefit accrued by the end of 9 months of treatment was maintained during 15 months of observational follow-up (Figure 1).
+
 Figure 1: Mean absolute change in eGFR from baseline in Phase 3 NefIgArd Study
+
+- 4
 
 <!-- image -->
 
-The treatment effect eGFR difference at 2 years was 6.00 mL/min/1.73 m2 using the MMRM analysis without explicit missing data assumptions (MAR assumption) and was statistically significant. The change from baseline in eGFR at 24 months was 7.50 mL/min/1.73 m2 in the Kinpeygo group compared to -13.50 mL/min/1.73 m2 in the placebo group; there was a treatment benefit of 6.00 mL/min/1.73 m2 (95% CI: 2.76 to 10.08) with Kinpeygo treatment compare d to placebo (Table 2).
+The treatment effect eGFR difference at 2 years was 6.00 mL/min/1.73 m2 using the MMRM analysis without explicit missing data assumptions (MAR assumption) and was statistically significant. The change from baseline in eGFR at 24 months was 7.50 mL/min/1.73 m2 in the Kinpeygo group compared to -13.50 mL/min/1.73 m2 in the placebo group; there was a treatment benefit of 6.00 mL/min/1.73 m2 (95% CI: 2.76 to 10.08) with Kinpeygo treatment compared to placebo (Table 2).
 
 A supplementary analysis of 2-year eGFR total slope using a linear spline mixed effects analysis method to account for the acute (baseline to 3 months) and chronic (from 3 months onwards) phases estimated an overall treatment benefit of 2.62 mL/min/1.73 m 2 per year (95% CI 1.23 to 4.00) in favour of Kinpeygo (Table 2).
 
@@ -287,15 +309,11 @@ Table 2: Analysis of eGFR at 24 months in Phase 3 NefIgArd Study
 | Change from baseline in eGFR at 24 months (mL/min/1.73m 2 ) b                                          | 6.00 (2.76 to 10.08)     | 6.00 (2.76 to 10.08) |
 | 2- year eGFR total slope (mL/min/1.73 m 2 per year) c                                                  | 2.62 (1.23 to 4.00)      | 2.62 (1.23 to 4.00)  |
 
-- b Adjusted geometric least squares mean ratio of eGFR relative to baseline analysed using mixed model repeated measures analysis. Mean changes derived directly from the analysis performed on a log scale.
-- c Linear-spline mixed effects model in which eGFR was modelled simultaneously and separately over the acute (baseline to 3 months) and chronic (from 3 months onwards) phases and then combined to estimate the overall total slope. Data not log-transformed and including all observed eGFR data regardless of the use of prohibited medications or starting dialysis or having a renal transplant.
-- CI: confidence interval; eGFR (CKD-EPI): estimated glomerular filtration rate based on Chronic Kidney Disease Epidemiology Collaboration calculation
+<div style=\"page-break-after: always\"></div>
 
 The 2-year eGFR treatment effect was consistent across all key subgroups, including key demographic (such as age, sex, race) and baseline disease (such as baseline proteinuria) characteristics.
 
-<div style=\"page-break-after: always\"></div>
-
-The time to a confirmed 30% reduction in eGFR or end-stage renal disease (defined as renal-related death, renal transplantation, dialysis, or sustained eGFR &lt;15 mL/min/1.73 m 2 ) was delayed in patients who received Kinpeygo compared with those who received placebo (HR 0.45; 95% CI 0.26 to 0.75). The proportion of patients with a confirmed event over the 2-year study period was 11.5% in the Kinpeygo group versus 21.4% of patients in the placebo group.
+The time to a confirmed 30% reduction in eGFR or end-stage renal disease (defined as renal-related death, renal transplantat ion, dialysis, or sustained eGFR &lt;15 mL/min/1.73 m 2 ) was delayed in patients who received Kinpeygo compared with those who received placebo (HR 0.45; 95% CI 0.26 to 0.75). The proportion of patients with a confirmed event over the 2-year study period was 11.5% in the Kinpeygo group versus 21.4% of patients in the placebo group.
 
 The final analysis of treatment effect on proteinuria at 2 years was consistent with that observed at the end of the 9 months course of Kinpeygo treatment. However, in the Kinpeygo treatment arm proteinuria increased after a peak reduction at 12 months (Table 3). The UPCR treatment effect at 9 months was highly consistent across subgroups, including key demographic (such as age, sex, race) and baseline disease (such as baseline proteinuria) characteristics. A similarly consistent pattern in UPCR across subgroups was observed at 2 years.
 
@@ -309,8 +327,10 @@ Table 3: Proteinuria reduction at 9, 12, and 24 months and averaged over 12 to 2
 | Kinpeygo 16 mg versus placebo : Average UPCR percentage reduction over 12 to 24 months compared to baseline d (95% CI) | 41% (32% to 49%)         | 41% (32% to 49%)  |
 
 - b Adjusted geometric least squares mean ratio of UPCR relative to baseline were based on a longitudinal repeated measures model.
-- c Percent reduction in UPCR was previously evaluated in the first 199 patients randomised (p=0.0003). The final analysis in all 364 patients confirmed a 30% reduction in UPCR at 9 months with Kinpeygo compared with placebo (95% CI 20% to 39%).
-- d Average UPCR percentage reduction during follow-up (over 12 to 24 months) based on longitudinal repeated measures model.
+
+c Percent reduction in UPCR was previously evaluated in the first 199 patients randomised (p=0.0003). The final analysis in all 364 patients confirmed a 30% reduction in UPCR at 9 months with Kinpeygo compared with placebo (95% CI 20% to 39%).
+
+d Average UPCR percentage reduction during follow-up (over 12 to 24 months) based on longitudinal repeated measures model.
 
 CI: confidence interval; UPCR: urine protein creatinine ratio.
 
@@ -320,11 +340,23 @@ The primary objective was met at an interim analysis that compared Kinpeygo to p
 
 Using the same statistical methodology as in the phase 3 study, a statistically significant 26% reduction in the primary endpoint UPCR was shown at 9 months for the 16 mg dose of Kinpeygo versus placebo (p=0.0100) and a 29% reduction at 12 months (p=0.0027).
 
-The difference in eGFR CKD-EPI (serum creatinine) for the 16 mg dose of Kinpeygo versus placebo was 3.57 mL/min/1.73m 2 at 9 months (p=0.0271), and 4.46 mL/min/1.73 m 2 at 12 months (p=0.0256). The improvement in 1-year eGFR slope was estimated to be 5.69 mL/min/1.73 m 2 per year with Kinpeygo 16 mg once daily compared to placebo (p=0.0007).
-
-## Paediatric population
+The difference in eGFR CKD-EPI (serum creatinine) for the 16 mg dose of Kinpeygo versus placebo was 3.57 mL/min/1.73m 2 at 9 months (p=0.0271), and 4.46 mL/min/1.73 m 2 at 12 months (p=0.0256). The
 
 <div style=\"page-break-after: always\"></div>
+
+improvement in 1-year eGFR slope was estimated to be 5.69 mL/min/1.73 m 2 per year with Kinpeygo 16 mg once daily compared to placebo (p=0.0007).
+
+## Clinical efficacy of re-treatment (Nef-301 OLE)
+
+## Primary IgA nephropathy
+
+The efficacy of re-treatment with Kinpeygo has been evaluated in an open-label extension (OLE) study for patients who had completed the pivotal phase 3 study, either on Kinpeygo or on placebo, and who continued to be treated with a stable dose of RAS inhibitor therapy (angiotensinconverting enzyme inhibitors and/or angiotensin II type I receptor blockers). Patients who had previously received Kinpeygo in the phase 3 study received re-treatment, whereas patients who previously received placebo received Kinpeygo as a first course. 119 patients were enrolled in total (62.2% of which were previously on placebo and were treated with Kinpeygo for the first time) and received Kinpeygo 16 mg/day for a 9 -month period, with a possibility for reduction to 8 mg/day if clinically relevant and causally related adverse events develo ped.
+
+In order to enter Nef-301 OLE patients must have had proteinuria based on two consecutive measurements separated by at least 2 weeks showing either ≥1 g/day (≥1000 mg/day) or UPCR ≥0.8 g/gram (≥90 mg/mmol). Patients must also have had eGFR ≥30 mL/min per 1.73 m 2 using the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) formula.
+
+The final analysis of the open-label extension study demonstrated a similar treatment benefit in both primary endpoints (eGFR and UPCR) after 9 months of treatment with Kinpeygo regardless of whether patients received Kinpeygo or placebo in the previous Phase 3 study. At 9 months, the absolute change from baseline in eGFR was 1.28 mL/min/1.73 m 2 (95% CI -3.20 to 0.72) for patients previously treated with Kinpeygo 16 mg and -1.53 mL/min/1.73 m 2 (95% CI -3.07 to 0.05) for patients previously on placebo. After 9 months of treatment with Kinpeygo 16 mg/day, UPCR was reduced from baseline by 33.3% (95% CI -44.4 to -19.9) in patients previously treated with Kinpeygo 16 mg and by 31.0% (95% CI -40.2 to -20.2) in patients previously treated with placebo.
+
+## Paediatric population
 
 Kinpeygo has not been studied in the paediatric population.
 
@@ -334,23 +366,25 @@ Kinpeygo has not been studied in the paediatric population.
 
 The Kinpeygo formulation is designed to deliver budesonide topically in the ileum. Oral absorption of budesonide seems to be complete and is rapid, whereas systemic bioavailability due to high first-pass metabolism is low (approximately 10%).
 
-Following single oral administration of Kinpeygo 16 mg to healthy subjects, the geometric mean Cmax ranged between 3.2 and 4.4 ng/mL, and AUC (0-24) ranged between 24.1 and 24.8 ng/mL×h.
+Following single oral administration of Kinpeygo 16 mg to healthy subjects, the geometric mean Cmax ranged between 3.2 and 4.4 ng/mL, and AUC(0-24) ranged between 24.1 and 24.8 ng/mL×h.
 
 There was no clinically relevant food effect observed on the overall systemic exposure of budesonide when either a moderate or high fat meal was consumed 1 hour after dosing.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Distribution
 
-Budesonide is rapidly and extensively distributed into tissues and organs. Approximately 85 to 90% of budesonide binds to plasma proteins in blood over the concentration range of 1 to 100 nmol/L. The volume of distribution at steady state is 3 to 4 L/kg.
+Budesonide is ra pidly and extensively distributed into tissues and organs. Approximately 85 to 90% of budesonide binds to plasma proteins in blood over the concentration range of 1 to 100 nmol/L. The volume of distribution at steady state is 3 to 4 L/kg.
 
 ## Biotransformation
 
 Budesonide is rapidly metabolised by the liver (and to lesser extent the gut), primarily by oxidative pathways via CYP3A4 to two main metabolites, 16α -hydroxyprednisolone and 6β -hydroxybudesonide, which have less than 1% of the glucocorticosteroid receptor affinity and anti-inflammatory activity of budesonide.
 
-The metabolism of budesonide is 2- to 5-fold faster than that of hydrocortisone and 8 - to 15-fold faster than that of prednisolone.
+The metabolism of budesonide is 2- to 5fold faster than that of hydrocortisone and 8 - to 15-fold faster than that of prednisolone.
 
 ## Elimination
 
-Budesonide has a high clearance rate of approximately 72 to 80 L/h , which is close to the estimated liver blood flow, and, accordingly, suggests that budesonide is a high hepatic clearance medicinal product.
+Budesonide has a high clearance rate of approximately 72 to 80 L/h, which is close to the estimated liver blood flow, and, accordingly, suggests that budesonide is a high hepatic clearance medicinal product.
 
 T½ for budesonide after dosing with Kinpeygo ranged from 5 to 6.8 hours in healthy volunteer studies.
 
@@ -361,8 +395,6 @@ Budesonide is excreted in urine and feces in the form of metabolites. The major 
 Budesonide is predominantly metabolised by hepatic biotransformation. In subjects with moderate hepatic impairment (Child-Pugh class B), systemic availability of orally administered budesonide was 3.5-fold higher (27%) compared with healthy volunteers (systemic availability 7.4%); there was no clinically relevant increase in systemic availability in patients with mild hepatic impairment (Child-Pugh class A).
 
 Patients with severe hepatic impairment have not been studied.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -375,6 +407,8 @@ Kinpeygo was not studied in the paediatric population.
 ## 5.3 Preclinical safety data
 
 The preclinical safety of budesonide has been documented in studies during the development of other formulations of this compound. No preclinical studies have been conducted with the Kinpeygo formulation itself.
+
+<div style=\"page-break-after: always\"></div>
 
 Results from acute, subacute and chronic toxicity studies show that the systemic effects of budesonide, e.g. decreased body-weight gain and atrophy of lymphoid tissues and adrenal cortex, are less severe or similar to those observed after administration of other glucocorticosteroids.
 
@@ -396,17 +430,13 @@ The toxicity of budesonide modified-release hard capsules, with focus on the gas
 
 ## Capsule content
 
-Sugar spheres (sucrose and corn starch)
+Sugar spheres (sucrose and corn starch) Hypromellose Macrogol Citric acid monohydrate Ethylcellulose Medium chain triglycerides Oleic acid
 
-<div style=\"page-break-after: always\"></div>
-
-Hypromellose Macrogol Citric acid monohydrate Ethylcellulose Medium chain triglycerides
-
-Oleic acid
-
-Capsule shell
+## Capsule shell
 
 Hypromellose Macrogol Titanium dioxide (E171) Methacrylic acid - methyl methacrylate co-polymers Talc Dibutylsebacate
+
+<div style=\"page-break-after: always\"></div>
 
 Printing ink
 
@@ -440,23 +470,23 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-STADA Arzneimittel AG Stadastrasse 218
-
-61118 Bad Vilbel
-
-<div style=\"page-break-after: always\"></div>
-
-## Germany
+STADA Arzneimittel AG Stadastrasse 218 61118 Bad Vilbel Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/22/1657/001 EU/1/22/1657/002 EU/1/22/1657/003
+EU/1/22/1657/001
+
+EU/1/22/1657/002
+
+EU/1/22/1657/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 15 July 2022
 
 Date of latest renewal: 17 June 2024
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -554,11 +584,11 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
 
 Do not store above 25°C .
 
@@ -566,31 +596,34 @@ Do not store above 25°C .
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-STADA Arzneimittel AG Stadastrasse 2- 18 61118 Bad Vilbel Germany
+STADA Arzneimittel AG Stadastrasse 218 61118 Bad Vilbel Germany
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-EU/1/22/1657/00 3
+EU/1/22/1657/003
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Kinpeygo 4 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -632,11 +665,9 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
 
 Do not store above 25°C .
 
@@ -648,7 +679,7 @@ STADA Arzneimittel AG Stadastrasse 2- 18 61118 Bad Vilbel Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/ 1 / 22 / 1657 /00 1
+EU/1/22/1657/001
 
 ## 13. BATCH NUMBER
 
@@ -669,6 +700,8 @@ Kinpeygo 4 mg
 PC SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -736,18 +769,15 @@ EU/1/22/1657/001 120 modified-release hard capsules
 
 EU/1/22/1657/002 360 modified -release hard capsules (3 packs of 120)
 
-EU/1/22/1657/003 28 modified-release hard capsules
+EU/1/22/1657/003 28 modified -release hard capsules
 
 ## 13. BATCH NUMBER
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 16. INFORMATION IN BRAILLE
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
+17. UNIQUE IDENTIFIER - 2D BARCODE
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -1008,9 +1038,9 @@ Do not take this medicine during pregnancy without checking with your doctor fir
 
 Do not take this medicine if you are breast-feeding unless you have checked with your doctor. Budesonide passes in small amounts into the breast milk. Your doctor will help you decide whether you should continue treatment and not breast-feed or if you should stop treatment over the period your baby is being breast-fed.
 
-## Driving and using machines
-
 <div style=\"page-break-after: always\"></div>
+
+## Driving and using machines
 
 Kinpeygo is not expected to affect your ability to drive or use any machines.
 
@@ -1062,10 +1092,10 @@ Tell your doctor if you notice any of the following side effects with this medic
 ## Common (may affect up to 1 in 10 people)
 
 - Increased blood pressure
-- Swelling of arms or legs - such as ankle swelling
 
 <div style=\"page-break-after: always\"></div>
 
+- Swelling of arms or legs - such as ankle swelling
 - Swelling of the face
 - Cushingoid features such as a rounded face, increased body hair and weight gain
 - Indigestion
@@ -1097,7 +1127,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Kinpeygo contains
 
 - -The active substance is budesonide. Each modified-release hard capsule contains 4 mg of budesonide.
-- -The other ingredients are:
+
+## -The other ingredients are:
 
 Capsule content: Sugar spheres (sucrose and corn starch), hypromellose, macrogol, citric acid monohydrate, ethylcellulose, medium chain triglycerides, oleic acid (see also section 2 'Kinpeygo contains sucrose').
 
@@ -1113,9 +1144,9 @@ The capsules are supplied in a white high-density polyethylene (HDPE) bottle wit
 
 This medicine is available in bottles containing 28 or 120 modified-release hard capsules and in multipacks of 360 modified-release hard capsules comprising 3 bottles, each containing 120 modifiedrelease hard capsules.
 
-<div style=\"page-break-after: always\"></div>
-
 Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -1129,23 +1160,33 @@ STADA Arzneimittel AG Stadastrasse 2 18 61118 Bad Vilbel Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder :
 
-## België/Belgique/Belgien
+België/Belgique/Belgien EG (Eurogenerics) NV Tél/Tel: +32 24797878
+
+## Lietuva
+
+UAB 'STADA Baltics' Tel: +370 52603926
+
+България STADA Bulgaria EOOD Teл.: +359 29624626
+
+## Luxembourg/Luxemburg
 
 EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
-## България
-
-STADA Bulgaria EOOD Te л.: +359 29624626
-
-## Česká republika
-
-STADA PHARMA CZ s.r.o.
+Česká republika STADA PHARMA CZ s.r.o.
 
 Tel: +420 257888111
+
+## Magyarország
+
+STADA Hungary Kft Tel.: +36 18009747
 
 ## Danmark
 
 STADA Nordic ApS Tlf: +45 44859999
+
+## Malta
+
+Pharma.MT Ltd. Tel: + 356 21337008
 
 ## Deutschland
 
@@ -1153,9 +1194,19 @@ STADAPHARM GmbH
 
 Tel: +49 61016030
 
+## Nederland
+
+Centrafarm B.V.
+
+Tel.: +31 765081000
+
 ## Eesti
 
 UAB 'STADA Baltics' Tel: +370 52603926
+
+## Norge
+
+STADA Nordic ApS Tlf: +45 44859999
 
 ## Ελλάδα
 
@@ -1163,41 +1214,17 @@ F Α RAN S.A.
 
 Τηλ: +30 2106254175
 
+## Österreich
+
+STADA Arzneimittel GmbH
+
+Tel: +43 136785850
+
 ## España
 
 Laboratorio STADA, S.L.
 
 Tel: +34 934738889
-
-## Lietuva
-
-UAB 'STADA Baltics' Tel: +370 52603926
-
-## Luxembourg/Luxemburg
-
-EG (Eurogenerics) NV Tél/Tel: +32 24797878
-
-## Magyarország
-
-STADA Hungary Kft Tel.: +36 18009747
-
-## Malta
-
-Pharma.MT Ltd. Tel: + 356 21337008
-
-## Nederland
-
-Centrafarm B.V.
-
-Tel.: +31 765081000
-
-## Norge
-
-STADA Nordic ApS Tlf: +45 44859999
-
-## Österreich
-
-STADA Arzneimittel GmbH Tel: +43 136785850
 
 ## Polska
 
@@ -1209,9 +1236,7 @@ Tel: +48 227377920
 
 ## France
 
-EG Labo - Laboratoires EuroGenerics
-
-Tél: +33 146948686
+EG Labo - Laboratoires EuroGenerics Tél: +33 146948686
 
 ## Hrvatska
 
@@ -1227,15 +1252,11 @@ Tel: +353 526177777
 
 ## Ísland
 
-STADA Nordic ApS
-
-Tlf: +45 44859999
+STADA Nordic ApS Tlf: +45 44859999
 
 ## Italia
 
-EG SpA
-
-Tel: +39 028310371
+EG SpA Tel: +39 028310371
 
 ## Κύπρος
 
@@ -1263,9 +1284,7 @@ Tel: +40 213160640
 
 ## Slovenija
 
-Stada d.o.o.
-
-Tel: +386 15896710
+Stada d.o.o. Tel: +386 15896710
 
 ## Slovenská republika
 

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 14:36:14
+document_datetime: 2026-04-23 16:48:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jayempi.html
 document_name: jayempi.html
 version: success
-processing_time: 0.1062698
-conversion_datetime: 2025-12-31 02:09:04.106812
+processing_time: 0.1183486
+conversion_datetime: 2026-04-25 16:04:34.049225
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Jayempi
 
 [RSS](/en/individual-human-medicine.xml/67455)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-azathioprine Medicine Human Authorised
+azathioprine
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -123,181 +123,137 @@ English (EN) (147.94 KB - PDF)
 
 [View](/en/documents/overview/jayempi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-828)
+[Other languages (22)](#file-language-dropdown-358)
 
 български (BG) (168.25 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/bg/documents/overview/jayempi-epar-medicine-overview_bg.pdf)
 
 español (ES) (145.61 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/es/documents/overview/jayempi-epar-medicine-overview_es.pdf)
 
 čeština (CS) (166.67 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/cs/documents/overview/jayempi-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (143.86 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/da/documents/overview/jayempi-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (149.35 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/de/documents/overview/jayempi-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (133.43 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/et/documents/overview/jayempi-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (170.85 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/el/documents/overview/jayempi-epar-medicine-overview_el.pdf)
 
 français (FR) (147.57 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/fr/documents/overview/jayempi-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (165.88 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/hr/documents/overview/jayempi-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (144.21 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/it/documents/overview/jayempi-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (182.99 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/lv/documents/overview/jayempi-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (167.33 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/lt/documents/overview/jayempi-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (167.56 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/hu/documents/overview/jayempi-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (169.97 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/mt/documents/overview/jayempi-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (146.14 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/nl/documents/overview/jayempi-epar-medicine-overview_nl.pdf)
 
 polski (PL) (169.38 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/pl/documents/overview/jayempi-epar-medicine-overview_pl.pdf)
 
 português (PT) (145.41 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/pt/documents/overview/jayempi-epar-medicine-overview_pt.pdf)
 
 română (RO) (164.56 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/ro/documents/overview/jayempi-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (167.77 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/sk/documents/overview/jayempi-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (165.15 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/sl/documents/overview/jayempi-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (143.14 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/fi/documents/overview/jayempi-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (143.9 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/sv/documents/overview/jayempi-epar-medicine-overview_sv.pdf)
 
@@ -305,9 +261,7 @@ Jayempi : EPAR - Risk-management-plan summary
 
 English (EN) (623.05 KB - PDF)
 
-**First published:** 23/06/2021
-
-**Last updated:** 12/02/2024
+**First published:** 23/06/2021 **Last updated:** 12/02/2024
 
 [View](/en/documents/rmp-summary/jayempi-epar-risk-management-plan-summary_en.pdf)
 
@@ -315,305 +269,161 @@ English (EN) (623.05 KB - PDF)
 
 Jayempi : EPAR - Product Information
 
-English (EN) (382.15 KB - PDF)
+English (EN) (382.53 KB - PDF)
 
-**First published:** 23/06/2021
-
-**Last updated:** 22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/en/documents/product-information/jayempi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-104)
+[Other languages (24)](#file-language-dropdown-486)
 
-български (BG) (542.69 KB - PDF)
+български (BG) (543.84 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/bg/documents/product-information/jayempi-epar-product-information_bg.pdf)
 
-español (ES) (399.48 KB - PDF)
+español (ES) (397.91 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/es/documents/product-information/jayempi-epar-product-information_es.pdf)
 
-čeština (CS) (512.36 KB - PDF)
+čeština (CS) (511.12 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/cs/documents/product-information/jayempi-epar-product-information_cs.pdf)
 
-dansk (DA) (387.44 KB - PDF)
+dansk (DA) (409.05 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/da/documents/product-information/jayempi-epar-product-information_da.pdf)
 
-Deutsch (DE) (411.25 KB - PDF)
+Deutsch (DE) (407.14 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/de/documents/product-information/jayempi-epar-product-information_de.pdf)
 
-eesti keel (ET) (388.83 KB - PDF)
+eesti keel (ET) (385.17 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/et/documents/product-information/jayempi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (564.74 KB - PDF)
+ελληνικά (EL) (562.98 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/el/documents/product-information/jayempi-epar-product-information_el.pdf)
 
-français (FR) (412.67 KB - PDF)
+français (FR) (736.79 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/fr/documents/product-information/jayempi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (493.61 KB - PDF)
+hrvatski (HR) (490.47 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/hr/documents/product-information/jayempi-epar-product-information_hr.pdf)
 
-íslenska (IS) (389.38 KB - PDF)
+íslenska (IS) (692.39 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/is/documents/product-information/jayempi-epar-product-information_is.pdf)
 
-italiano (IT) (405.37 KB - PDF)
+italiano (IT) (700.22 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/it/documents/product-information/jayempi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (507.14 KB - PDF)
+latviešu valoda (LV) (504.43 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/lv/documents/product-information/jayempi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (521.64 KB - PDF)
+lietuvių kalba (LT) (783.24 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/lt/documents/product-information/jayempi-epar-product-information_lt.pdf)
 
-magyar (HU) (523.28 KB - PDF)
+magyar (HU) (809.42 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/hu/documents/product-information/jayempi-epar-product-information_hu.pdf)
 
-Malti (MT) (555.34 KB - PDF)
+Malti (MT) (837.65 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/mt/documents/product-information/jayempi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (431.01 KB - PDF)
+Nederlands (NL) (367.3 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/nl/documents/product-information/jayempi-epar-product-information_nl.pdf)
 
-norsk (NO) (375.82 KB - PDF)
+norsk (NO) (374.76 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/no/documents/product-information/jayempi-epar-product-information_no.pdf)
 
-polski (PL) (522.87 KB - PDF)
+polski (PL) (523.3 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/pl/documents/product-information/jayempi-epar-product-information_pl.pdf)
 
-português (PT) (395.97 KB - PDF)
+português (PT) (395.37 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/pt/documents/product-information/jayempi-epar-product-information_pt.pdf)
 
-română (RO) (521.34 KB - PDF)
+română (RO) (665.95 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/ro/documents/product-information/jayempi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (508.76 KB - PDF)
+slovenčina (SK) (507.36 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/sk/documents/product-information/jayempi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (497.4 KB - PDF)
+slovenščina (SL) (605.14 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/sl/documents/product-information/jayempi-epar-product-information_sl.pdf)
 
-Suomi (FI) (366.76 KB - PDF)
+Suomi (FI) (364.18 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/fi/documents/product-information/jayempi-epar-product-information_fi.pdf)
 
-svenska (SV) (384.66 KB - PDF)
+svenska (SV) (383.03 KB - PDF)
 
-**First published:**
-
-23/06/2021
-
-**Last updated:**
-
-22/09/2025
+**First published:** 23/06/2021 **Last updated:** 23/04/2026
 
 [View](/sv/documents/product-information/jayempi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000257799 17/09/2025
+**Latest procedure affecting product information:** R/0000296298
+
+13/04/2026
 
 icon globe
 
@@ -637,203 +447,173 @@ English (EN) (63.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-92)
+[Other languages (24)](#file-language-dropdown-980)
 
 български (BG) (57.16 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/bg/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (48.97 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/es/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (55.51 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/cs/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (48.01 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/da/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (49.56 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/de/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (45.86 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/et/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (63.97 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/el/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (48.62 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/fr/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (67.06 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/hr/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (76.43 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/is/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (48.04 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/it/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (66.16 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/lv/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (66.63 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/lt/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (67.79 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/hu/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (68.26 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/mt/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (46.02 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/nl/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (88.6 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/no/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (66.75 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/pl/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (47.15 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/pt/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (56.86 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/ro/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (65.94 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/sk/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (65.24 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/sl/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (45.64 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/fi/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (46.1 KB - PDF)
 
-**First published:**
-
-23/06/2021
+**First published:** 23/06/2021
 
 [View](/sv/documents/all-authorised-presentations/jayempi-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Jayempi Active substance azathioprine International non-proprietary name (INN) or common name azathioprine Therapeutic area (MeSH) Graft Rejection Anatomical therapeutic chemical (ATC) code L04AX01
+Name of medicine
+
+Jayempi
+
+Active substance
+
+azathioprine
+
+International non-proprietary name (INN) or common name
+
+azathioprine
+
+Therapeutic area (MeSH)
+
+Graft Rejection
+
+Anatomical therapeutic chemical (ATC) code
+
+L04AX01
 
 ### Pharmacotherapeutic group
 
@@ -865,13 +645,27 @@ Jayempi is indicated for the treatment of generalised myasthenia gravis. Dependi
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005055 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/005055
+
+Marketing authorisation holder
 
 Lipomed GmbH
 
 Hegenheimer Strasse 2
 
-Opinion adopted 22/04/2021 Marketing authorisation issued 21/06/2021 Revision 8
+Opinion adopted
+
+22/04/2021
+
+Marketing authorisation issued
+
+21/06/2021
+
+Revision
+
+9
 
 ## Assessment history
 
@@ -883,11 +677,9 @@ Collapse section
 
 Jayempi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (135.5 KB - PDF)
+English (EN) (146.58 KB - PDF)
 
-**First published:** 19/03/2025
-
-**Last updated:** 22/09/2025
+**First published:** 19/03/2025 **Last updated:** 23/04/2026
 
 [View](/en/documents/procedural-steps-after/jayempi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -895,13 +687,21 @@ Jayempi : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (117.25 KB - PDF)
 
-**First published:** 02/03/2022
-
-**Last updated:** 19/03/2025
+**First published:** 02/03/2022 **Last updated:** 19/03/2025
 
 [View](/en/documents/procedural-steps-after/jayempi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-Jayempi-PSUSA-00000275-202412 : EPAR - Scientific conclusions and grounds for the variation to  the terms of the marketing authorisation -
+Jayempi-PSUSA-00000275-202412 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-2276504
+
+English (EN) (201.43 KB - PDF)
+
+**First published:** 23/04/2026
+
+[View](/en/documents/scientific-conclusion/jayempi-psusa-00000275-202412-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf-0)
+
+Jayempi-PSUSA-00000275-202412 : EPAR - Scientific conclusions and grounds for the variation to  the terms of the marketing authorisation
 
 Reference Number: EMADOC-1700519818-2276504
 
@@ -915,9 +715,7 @@ English (EN) (201.43 KB - PDF)
 
 Jayempi : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/303143/2021
+Adopted Reference Number: EMA/303143/2021
 
 English (EN) (834.27 KB - PDF)
 
@@ -927,9 +725,7 @@ English (EN) (834.27 KB - PDF)
 
 CHMP summary of positive opinion for Jayempi
 
-Adopted
-
-Reference Number: EMA/CHMP/213654/2021
+Adopted Reference Number: EMA/CHMP/213654/2021
 
 English (EN) (154.47 KB - PDF)
 
@@ -937,8 +733,8 @@ English (EN) (154.47 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-jayempi_en.pdf)
 
-**This page was last updated on** 22/09/2025
+**This page was last updated on**
+
+23/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 08:35:41
+document_datetime: 2026-04-23 16:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aptivus.html
 document_name: aptivus.html
 version: success
-processing_time: 0.1169477
-conversion_datetime: 2025-12-29 23:41:34.874884
+processing_time: 0.1316475
+conversion_datetime: 2026-04-25 16:30:39.712607
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Aptivus
 
 [RSS](/en/individual-human-medicine.xml/66699)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-tipranavir Medicine Human Authorised
+tipranavir
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -120,275 +120,141 @@ Aptivus : EPAR - Summary for the public
 
 English (EN) (78.47 KB - PDF)
 
-**First published:** 16/07/2009
-
-**Last updated:** 27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/en/documents/overview/aptivus-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-489)
+[Other languages (22)](#file-language-dropdown-265)
 
 български (BG) (109.85 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/bg/documents/overview/aptivus-epar-summary-public_bg.pdf)
 
 español (ES) (80.92 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/es/documents/overview/aptivus-epar-summary-public_es.pdf)
 
 čeština (CS) (107.28 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/cs/documents/overview/aptivus-epar-summary-public_cs.pdf)
 
 dansk (DA) (101.41 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/da/documents/overview/aptivus-epar-summary-public_da.pdf)
 
 Deutsch (DE) (81.98 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/de/documents/overview/aptivus-epar-summary-public_de.pdf)
 
 eesti keel (ET) (77.9 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/et/documents/overview/aptivus-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (110.71 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/el/documents/overview/aptivus-epar-summary-public_el.pdf)
 
 français (FR) (82.66 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/fr/documents/overview/aptivus-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (101.67 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/hr/documents/overview/aptivus-epar-summary-public_hr.pdf)
 
 italiano (IT) (79.86 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/it/documents/overview/aptivus-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (104.34 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/lv/documents/overview/aptivus-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (104.27 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/lt/documents/overview/aptivus-epar-summary-public_lt.pdf)
 
 magyar (HU) (104.42 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/hu/documents/overview/aptivus-epar-summary-public_hu.pdf)
 
 Malti (MT) (109.03 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/mt/documents/overview/aptivus-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (79.93 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/nl/documents/overview/aptivus-epar-summary-public_nl.pdf)
 
 polski (PL) (107.58 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/pl/documents/overview/aptivus-epar-summary-public_pl.pdf)
 
 português (PT) (102.51 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/pt/documents/overview/aptivus-epar-summary-public_pt.pdf)
 
 română (RO) (127.16 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/ro/documents/overview/aptivus-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (106.08 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/sk/documents/overview/aptivus-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (101.39 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/sl/documents/overview/aptivus-epar-summary-public_sl.pdf)
 
 Suomi (FI) (78.01 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/fi/documents/overview/aptivus-epar-summary-public_fi.pdf)
 
 svenska (SV) (78.43 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-27/08/2014
+**First published:** 16/07/2009 **Last updated:** 27/08/2014
 
 [View](/sv/documents/overview/aptivus-epar-summary-public_sv.pdf)
 
@@ -396,305 +262,155 @@ svenska (SV) (78.43 KB - PDF)
 
 Aptivus : EPAR - Product Information
 
-English (EN) (396.87 KB - PDF)
+English (EN) (817.76 KB - PDF)
 
-**First published:** 17/12/2009
-
-**Last updated:** 23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/en/documents/product-information/aptivus-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-515)
+[Other languages (23)](#file-language-dropdown-110)
 
-български (BG) (376.23 KB - PDF)
+български (BG) (1.71 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/bg/documents/product-information/aptivus-epar-product-information_bg.pdf)
 
-español (ES) (362.94 KB - PDF)
+español (ES) (1.68 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/es/documents/product-information/aptivus-epar-product-information_es.pdf)
 
-čeština (CS) (383.09 KB - PDF)
+čeština (CS) (2.12 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/cs/documents/product-information/aptivus-epar-product-information_cs.pdf)
 
-dansk (DA) (360.59 KB - PDF)
+dansk (DA) (1.68 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/da/documents/product-information/aptivus-epar-product-information_da.pdf)
 
-Deutsch (DE) (363.49 KB - PDF)
+Deutsch (DE) (1.8 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/de/documents/product-information/aptivus-epar-product-information_de.pdf)
 
-eesti keel (ET) (347.32 KB - PDF)
+eesti keel (ET) (1.83 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/et/documents/product-information/aptivus-epar-product-information_et.pdf)
 
-ελληνικά (EL) (388.56 KB - PDF)
+ελληνικά (EL) (1.78 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/el/documents/product-information/aptivus-epar-product-information_el.pdf)
 
-français (FR) (360.35 KB - PDF)
+français (FR) (1.9 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/fr/documents/product-information/aptivus-epar-product-information_fr.pdf)
 
-hrvatski (HR) (327.48 KB - PDF)
+hrvatski (HR) (1.7 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/hr/documents/product-information/aptivus-epar-product-information_hr.pdf)
 
-íslenska (IS) (354.49 KB - PDF)
+íslenska (IS) (1.84 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/is/documents/product-information/aptivus-epar-product-information_is.pdf)
 
-italiano (IT) (358.13 KB - PDF)
+italiano (IT) (1.95 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/it/documents/product-information/aptivus-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (340.1 KB - PDF)
+latviešu valoda (LV) (1.74 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/lv/documents/product-information/aptivus-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (333.06 KB - PDF)
+lietuvių kalba (LT) (1.7 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/lt/documents/product-information/aptivus-epar-product-information_lt.pdf)
 
-magyar (HU) (360.97 KB - PDF)
+magyar (HU) (1.88 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/hu/documents/product-information/aptivus-epar-product-information_hu.pdf)
 
-Malti (MT) (403.45 KB - PDF)
+Malti (MT) (2.35 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/mt/documents/product-information/aptivus-epar-product-information_mt.pdf)
 
-Nederlands (NL) (354.59 KB - PDF)
+Nederlands (NL) (1.72 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/nl/documents/product-information/aptivus-epar-product-information_nl.pdf)
 
-norsk (NO) (338.75 KB - PDF)
+norsk (NO) (1.67 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/no/documents/product-information/aptivus-epar-product-information_no.pdf)
 
-polski (PL) (373.85 KB - PDF)
+polski (PL) (2.06 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/pl/documents/product-information/aptivus-epar-product-information_pl.pdf)
 
-português (PT) (343.2 KB - PDF)
+português (PT) (1.63 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/pt/documents/product-information/aptivus-epar-product-information_pt.pdf)
 
-română (RO) (382.71 KB - PDF)
+română (RO) (1.73 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/ro/documents/product-information/aptivus-epar-product-information_ro.pdf)
 
-slovenčina (SK) (369.44 KB - PDF)
+slovenčina (SK) (2.25 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/sk/documents/product-information/aptivus-epar-product-information_sk.pdf)
 
-slovenščina (SL) (376.22 KB - PDF)
+slovenščina (SL) (1.95 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/sl/documents/product-information/aptivus-epar-product-information_sl.pdf)
 
-Suomi (FI) (385.94 KB - PDF)
+Suomi (FI) (1.78 MB - PDF)
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
 [View](/fi/documents/product-information/aptivus-epar-product-information_fi.pdf)
 
-svenska (SV) (341.36 KB - PDF)
+**Latest procedure affecting product information:** N/0000342540
 
-**First published:**
-
-17/12/2009
-
-**Last updated:**
-
-23/08/2022
-
-[View](/sv/documents/product-information/aptivus-epar-product-information_sv.pdf)
-
-**Latest procedure affecting product information:** IAIN/0092 28/07/2022
+23/04/2026
 
 icon globe
 
@@ -714,305 +430,177 @@ Aptivus : EPAR - All Authorised presentations
 
 English (EN) (23.14 KB - PDF)
 
-**First published:** 16/07/2009
-
-**Last updated:** 28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/en/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-675)
+[Other languages (24)](#file-language-dropdown-439)
 
 български (BG) (24.85 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/bg/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (29.63 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/es/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (24.5 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/cs/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (23.9 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/da/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (36.81 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/de/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (21.85 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/et/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (24.39 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/el/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (43.81 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/fr/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (22.65 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/hr/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (29.83 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/is/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (22.11 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/it/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (30.19 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/lv/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (24 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/lt/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (23.46 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/hu/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (23.93 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/mt/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (22.55 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/nl/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (30.55 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/no/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (23.91 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/pl/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (29.58 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/pt/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (22.66 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/ro/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (24.04 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/sk/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (22.62 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/sl/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (29.08 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/fi/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (51.17 KB - PDF)
 
-**First published:**
-
-16/07/2009
-
-**Last updated:**
-
-28/03/2022
+**First published:** 16/07/2009 **Last updated:** 28/03/2022
 
 [View](/sv/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Aptivus Active substance tipranavir International non-proprietary name (INN) or common name tipranavir Therapeutic area (MeSH) HIV Infections Anatomical therapeutic chemical (ATC) code J05AE09
+Name of medicine
+
+Aptivus
+
+Active substance
+
+tipranavir
+
+International non-proprietary name (INN) or common name
+
+tipranavir
+
+Therapeutic area (MeSH)
+
+HIV Infections
+
+Anatomical therapeutic chemical (ATC) code
+
+J05AE09
 
 ### Pharmacotherapeutic group
 
@@ -1030,13 +618,27 @@ In deciding to initiate treatment with Aptivus, co-administered with low dose ri
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000631 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000631
+
+Marketing authorisation holder
 
 Boehringer Ingelheim International GmbH
 
 Binger Strasse 173
 
-Opinion adopted 27/07/2005 Marketing authorisation issued 25/10/2005 Revision 42
+Opinion adopted
+
+27/07/2005
+
+Marketing authorisation issued
+
+25/10/2005
+
+Revision
+
+44
 
 ## Assessment history
 
@@ -1048,39 +650,37 @@ Collapse section
 
 Aptivus : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (151.85 KB - PDF)
+
+**First published:** 23/04/2026
+
+[View](/en/documents/procedural-steps-after/aptivus-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Aptivus : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (317.15 KB - PDF)
 
-**First published:** 17/12/2009
+**First published:** 17/12/2009 **Last updated:** 23/04/2026
 
-**Last updated:** 23/08/2022
-
-[View](/en/documents/procedural-steps-after/aptivus-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/aptivus-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Aptivus-H-C-631-II-60 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/40711/2014
+Adopted Reference Number: EMA/CHMP/40711/2014
 
 English (EN) (124.95 KB - PDF)
 
-**First published:** 04/02/2014
-
-**Last updated:** 04/02/2014
+**First published:** 04/02/2014 **Last updated:** 04/02/2014
 
 [View](/en/documents/variation-report/aptivus-h-c-631-ii-60-epar-assessment-report-variation_en.pdf)
 
 Aptivus-H-C-631-II-49-G : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/567400/2011
+Adopted Reference Number: EMA/567400/2011
 
 English (EN) (180.54 KB - PDF)
 
-**First published:** 02/08/2011
-
-**Last updated:** 02/08/2011
+**First published:** 02/08/2011 **Last updated:** 02/08/2011
 
 [View](/en/documents/variation-report/aptivus-h-c-631-ii-49-g-epar-assessment-report-variation_en.pdf)
 
@@ -1088,9 +688,7 @@ Aptivus-H-C-631-X-30 : EPAR - Assessment Report - Extension
 
 English (EN) (405.67 KB - PDF)
 
-**First published:** 16/07/2009
-
-**Last updated:** 16/07/2009
+**First published:** 16/07/2009 **Last updated:** 16/07/2009
 
 [View](/en/documents/variation-report/aptivus-h-c-631-x-30-epar-assessment-report-extension_en.pdf)
 
@@ -1098,37 +696,27 @@ Aptivus-H-C-631-II-29 : EPAR - Assessment Report - Variation
 
 English (EN) (651.71 KB - PDF)
 
-**First published:** 16/07/2009
-
-**Last updated:** 16/07/2009
+**First published:** 16/07/2009 **Last updated:** 16/07/2009
 
 [View](/en/documents/variation-report/aptivus-h-c-631-ii-29-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Aptivus on 23 April 2009
 
-Adopted
-
-Reference Number: EMEA/CHMP/232607/2009
+Adopted Reference Number: EMEA/CHMP/232607/2009
 
 English (EN) (33.25 KB - PDF)
 
-**First published:** 23/04/2009
-
-**Last updated:** 23/04/2009
+**First published:** 23/04/2009 **Last updated:** 23/04/2009
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-aptivus-23-april-2009_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Aptivus on 23 April 2009
 
-Adopted
-
-Reference Number: EMEA/CHMP/232469/2009
+Adopted Reference Number: EMEA/CHMP/232469/2009
 
 English (EN) (33.14 KB - PDF)
 
-**First published:** 23/04/2009
-
-**Last updated:** 23/04/2009
+**First published:** 23/04/2009 **Last updated:** 23/04/2009
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-aptivus-23-april-2009_en.pdf-0)
 
@@ -1138,9 +726,7 @@ Aptivus : EPAR - Procedural steps taken before authorisation
 
 English (EN) (18.99 KB - PDF)
 
-**First published:** 04/11/2005
-
-**Last updated:** 04/11/2005
+**First published:** 04/11/2005 **Last updated:** 04/11/2005
 
 [View](/en/documents/procedural-steps/aptivus-epar-procedural-steps-taken-authorisation_en.pdf)
 
@@ -1148,24 +734,26 @@ Aptivus : EPAR - Scientific Discussion
 
 English (EN) (368.71 KB - PDF)
 
-**First published:** 04/11/2005
-
-**Last updated:** 04/11/2005
+**First published:** 04/11/2005 **Last updated:** 04/11/2005
 
 [View](/en/documents/scientific-discussion/aptivus-epar-scientific-discussion_en.pdf)
 
-#### News on Aptivus
+## News on Aptivus
 
-[Updated advice on body fat changes and lactic acidosis with HIV medicines](/en/news/updated-advice-body-fat-changes-lactic-acidosis-hiv-medicines) 23/10/2015
+[Updated advice on body fat changes and lactic acidosis with HIV medicines](/en/news/updated-advice-body-fat-changes-lactic-acidosis-hiv-medicines)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 October 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-october-2015) 23/10/2015
+23/10/2015
 
-#### Topics
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 October 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-october-2015)
+
+23/10/2015
+
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 23/08/2022
+**This page was last updated on**
+
+23/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

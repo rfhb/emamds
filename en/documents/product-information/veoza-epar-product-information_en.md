@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-10 11:00:25
-document_pages: 27
+document_datetime: 2026-04-21 14:50:18
+document_pages: 25
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/veoza-epar-product-information_en.pdf
 document_name: veoza-epar-product-information_en.pdf
 version: success
-processing_time: 8.5028417
-conversion_datetime: 2026-03-13 18:22:46.740671
+processing_time: 7.1051404
+conversion_datetime: 2026-04-25 16:42:43.272439
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.79.0
-  docling-core: 2.69.0
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,7 +24,7 @@ docling_version:
 
 <!-- image -->
 
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+▼ This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -50,7 +50,7 @@ Veoza is indicated for the treatment of moderate to severe vasomotor symptoms (V
 
 ## 4.2 Posology and method of administration
 
-## Posology
+Posology
 
 The recommended dose is 45 mg once daily.
 
@@ -161,7 +161,7 @@ Fezolinetant is not a substrate of P-glycoprotein (P-gp). Major metabolite ES259
 
 Fezolinetant and ES259564 are not inhibitors of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4. Fezolinetant and ES259564 are not inducers of CYP1A2, CYP2B6, and CYP3A4.
 
-## Transporters In vitro data
+Transporters In vitro data
 
 Fezolinetant and ES259564 are not inhibitors of P-gp, BCRP, OATP1B1, OATP1B3, OCT2, MATE1, and MATE2-K (IC50 &gt; 70 µmol/l). Fezolinetant inhibited OAT1 and OAT3 with IC50 values of 18.9 µmol/l (30 × Cmax,u) and 27.5 µmol/l (44 × Cmax,u), respectively. ES259564 does not inhibit OAT1 and OAT3 (IC50 &gt; 70 µmol/l).
 
@@ -420,7 +420,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-4 years
+5 years
 
 ## 6.4 Special precautions for storage
 
@@ -442,7 +442,9 @@ This medicinal product may pose a risk to the aquatic environment (see section 5
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
+
+MARKETING AUTHORISATION HOLDER
 
 Astellas Pharma Europe B.V.
 
@@ -468,7 +470,9 @@ Date of first authorisation: 07 December 2023
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+Agency https://www.ema.europa.eu.
 
 12
 
@@ -497,7 +501,9 @@ Medicinal product subject to medical prescription.
 
 ## · Periodic safety update reports (PSURs)
 
-The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+
+The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -538,7 +544,7 @@ Each film-coated tablet contains 45 mg of fezolinetant
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablets (tablets)
+Film-coated tablets (tablets)
 
 28 × 1 tablets
 
@@ -550,7 +556,11 @@ Each film-coated tablet contains 45 mg of fezolinetant
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Do not break, crush, or chew the tablets. Read the package leaflet before use. Oral use.
+Do not break, crush, or chew the tablets.
+
+Read the package leaflet before use.
+
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -622,7 +632,7 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON BLISTERS OR STRIPS   |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
 |------------------------------------------------------|
 | BLISTER                                              |
 
@@ -649,8 +659,6 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-19
-
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
@@ -663,7 +671,7 @@ Lot
 
 ## Veoza 45 mg film-coated tablets fezolinetant
 
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+▼ This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -706,8 +714,8 @@ Talk to your doctor or pharmacist before taking Veoza
 - -your doctor may ask for your full medical history, including family history.
 - -if you have ongoing liver disease or liver problems.
 - -if you have kidney problems. Your doctor may not prescribe this medicine to you.
-- if you currently have or previously had breast cancer or another oestrogen-related cancer.
-- -During treatment, your doctor may not prescribe this medicine to you.
+- -
+- if you currently have or previously had breast cancer or another oestrogen-related cancer. During treatment, your doctor may not prescribe this medicine to you.
 - -if you are taking hormone replacement therapy with oestrogens (medicines used to treat oestrogen deficiency symptoms). Your doctor may not prescribe this medicine to you.
 - -if you have a history of seizures. Your doctor may not prescribe this medicine to you.
 
@@ -840,9 +848,7 @@ Astellas Pharma B.V. Branch Tél/Tel: + 32 (0)2 5580710
 
 ## Lietuva
 
-Astellas Pharma d.o.o.
-
-Tel: + 370 37 408 681
+Astellas Pharma d.o.o. Tel: + 370 37 408 681
 
 ## България
 
@@ -876,7 +882,7 @@ Tlf.: + 45 43 430355
 
 ## Malta
 
-Astellas Pharmaceuticals AEBE Tel: + 30 210 8189900
+Vivian Corporation Ltd. Tel: +356 22588600
 
 ## Deutschland
 
@@ -942,11 +948,9 @@ Tel: + 39 (0)2 921381
 
 ## Κύπρος
 
-Ελλάδα
+Novagem Ltd
 
-Astellas Pharmaceuticals AEBE
-
-Τηλ: + 30 210 8189900
+Τηλ: +357 22 483858
 
 ## Latvija
 
@@ -990,7 +994,9 @@ Tel: + 40 (0)21 361 04 95
 
 ## Slovenija
 
-Astellas Pharma d.o.o. Tel: + 386 14011400
+Astellas Pharma d.o.o.
+
+Tel: + 386 14011400
 
 ## Slovenská republika
 
@@ -1006,26 +1012,6 @@ Puh/Tel: + 358 (0)9 85606000
 
 ## Sverige
 
-Astellas Pharma AB Tel: + 46 (0)40-650 15 00
+Astellas Pharma AB
 
-<div style=\"page-break-after: always\"></div>
-
-## Annex IV
-
-Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for fezolinetant, the scientific conclusions of PRAC are as follows:
-
-In view of available data from clinical trials and information provided in the present PSUSA, the PRAC recommended to remove information about incidence rates of ALT/AST elevations calculated from pooled data of clinical trials in SmPC Section 4.8, due to the heterogeneity of clinical studies on fezolinetant and since it was decided that such information does not provide relevant additional value for HCPs. There is also a consequential removal of the asterisk in the respective cell of the Adverse reactions table.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for fezolinetant the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing fezolinetant is unchanged subject to the proposed changes to the product information
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.
+Tel: + 46 (0)40-650 15 00

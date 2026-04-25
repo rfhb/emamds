@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-12 17:32:00
+document_datetime: 2026-04-22 16:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/forxiga.html
 document_name: forxiga.html
 version: success
-processing_time: 0.1299646
-conversion_datetime: 2026-03-13 18:30:53.336839
+processing_time: 0.1854099
+conversion_datetime: 2026-04-25 16:19:55.442314
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.79.0
-  docling-core: 2.69.0
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Forxiga
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-dapagliflozin Medicine Human Authorised
+dapagliflozin
+
+Medicine Human Authorised
 
 Page contents
 
@@ -36,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Forxiga](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-85509)
 - [More information on Forxiga](#related-medicines)
 - [Topics](#topics)
 
@@ -129,9 +132,7 @@ Reference Number: EMA/12370/2023
 
 English (EN) (125.83 KB - PDF)
 
-**First published:** 07/12/2012
-
-**Last updated:** 06/03/2023
+**First published:** 07/12/2012 **Last updated:** 06/03/2023
 
 [View](/en/documents/overview/forxiga-epar-medicine-overview_en.pdf)
 
@@ -139,9 +140,7 @@ Forxiga : EPAR - Risk Management Plan
 
 English (EN) (1007.96 KB - PDF)
 
-**First published:** 28/06/2023
-
-**Last updated:** 24/09/2024
+**First published:** 28/06/2023 **Last updated:** 24/09/2024
 
 [View](/en/documents/rmp/forxiga-epar-risk-management-plan_en.pdf)
 
@@ -151,303 +150,159 @@ Forxiga : EPAR - Product Information
 
 English (EN) (998.05 KB - PDF)
 
-**First published:** 07/12/2012
-
-**Last updated:** 12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/en/documents/product-information/forxiga-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-223)
+[Other languages (24)](#file-language-dropdown-150)
 
 български (BG) (884.4 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/bg/documents/product-information/forxiga-epar-product-information_bg.pdf)
 
 español (ES) (867.53 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/es/documents/product-information/forxiga-epar-product-information_es.pdf)
 
 čeština (CS) (902.23 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/cs/documents/product-information/forxiga-epar-product-information_cs.pdf)
 
 dansk (DA) (746.93 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/da/documents/product-information/forxiga-epar-product-information_da.pdf)
 
 Deutsch (DE) (1001.53 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/de/documents/product-information/forxiga-epar-product-information_de.pdf)
 
 eesti keel (ET) (744.7 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/et/documents/product-information/forxiga-epar-product-information_et.pdf)
 
 ελληνικά (EL) (914.41 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/el/documents/product-information/forxiga-epar-product-information_el.pdf)
 
 français (FR) (1.01 MB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/fr/documents/product-information/forxiga-epar-product-information_fr.pdf)
 
 hrvatski (HR) (971.04 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/hr/documents/product-information/forxiga-epar-product-information_hr.pdf)
 
 íslenska (IS) (839.8 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/is/documents/product-information/forxiga-epar-product-information_is.pdf)
 
 italiano (IT) (2.1 MB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/it/documents/product-information/forxiga-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (1.1 MB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/lv/documents/product-information/forxiga-epar-product-information_lv.pdf)
 
 lietuvių kalba (LT) (1.12 MB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/lt/documents/product-information/forxiga-epar-product-information_lt.pdf)
 
 magyar (HU) (1.05 MB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/hu/documents/product-information/forxiga-epar-product-information_hu.pdf)
 
 Malti (MT) (1.04 MB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/mt/documents/product-information/forxiga-epar-product-information_mt.pdf)
 
 Nederlands (NL) (913.36 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/nl/documents/product-information/forxiga-epar-product-information_nl.pdf)
 
 norsk (NO) (917.11 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/no/documents/product-information/forxiga-epar-product-information_no.pdf)
 
 polski (PL) (899.93 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/pl/documents/product-information/forxiga-epar-product-information_pl.pdf)
 
 português (PT) (892.27 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/pt/documents/product-information/forxiga-epar-product-information_pt.pdf)
 
 română (RO) (1.09 MB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/ro/documents/product-information/forxiga-epar-product-information_ro.pdf)
 
 slovenčina (SK) (844.58 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/sk/documents/product-information/forxiga-epar-product-information_sk.pdf)
 
 slovenščina (SL) (989.75 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/sl/documents/product-information/forxiga-epar-product-information_sl.pdf)
 
 Suomi (FI) (1010.39 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/fi/documents/product-information/forxiga-epar-product-information_fi.pdf)
 
 svenska (SV) (896.26 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-12/03/2026
+**First published:** 07/12/2012 **Last updated:** 12/03/2026
 
 [View](/sv/documents/product-information/forxiga-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000310736 12/03/2026
+**Latest procedure affecting product information:** VR/0000310736
+
+12/03/2026
 
 icon globe
 
@@ -467,312 +322,180 @@ Forxiga : EPAR - All Authorised presentations
 
 English (EN) (32.46 KB - PDF)
 
-**First published:** 07/12/2012
-
-**Last updated:** 19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/en/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-383)
+[Other languages (24)](#file-language-dropdown-941)
 
 български (BG) (34.99 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/bg/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (31.77 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/es/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (33.72 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/cs/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (32.45 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/da/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (34.26 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/de/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (31.82 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/et/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (35.66 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/el/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (32.16 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/fr/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (34.18 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/hr/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (38.53 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/is/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (32.62 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/it/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (32.94 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/lv/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (33.11 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/lt/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (55.56 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/hu/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (33.99 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/mt/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (31.61 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/nl/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (31.81 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/no/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (34.55 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/pl/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (32.2 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/pt/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (38.96 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/ro/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (32.84 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/sk/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (31.02 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/sl/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (32.04 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/fi/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (31.68 KB - PDF)
 
-**First published:**
-
-07/12/2012
-
-**Last updated:**
-
-19/05/2021
+**First published:** 07/12/2012 **Last updated:** 19/05/2021
 
 [View](/sv/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Forxiga Active substance dapagliflozin propanediol monohydrate International non-proprietary name (INN) or common name dapagliflozin Therapeutic area (MeSH)
+Name of medicine
+
+Forxiga
+
+Active substance
+
+dapagliflozin propanediol monohydrate
+
+International non-proprietary name (INN) or common name
+
+dapagliflozin
+
+Therapeutic area (MeSH)
 
 - Diabetes Mellitus, Type 2
 - Heart Failure, Systolic
 - Heart Failure
 - Renal Insufficiency, Chronic
 
-Anatomical therapeutic chemical (ATC) code A10BK01
+Anatomical therapeutic chemical (ATC) code
+
+A10BK01
 
 ### Pharmacotherapeutic group
 
@@ -799,13 +522,23 @@ Forxiga is indicated in adults for the treatment of chronic kidney disease.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/002322 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/002322
+
+Marketing authorisation holder
 
 AstraZeneca AB
 
 151 85 Sodertalje
 
-Marketing authorisation issued 11/11/2012 Revision 33
+Marketing authorisation issued
+
+11/11/2012
+
+Revision
+
+33
 
 ## Assessment history
 
@@ -827,9 +560,7 @@ Forxiga : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (348.55 KB - PDF)
 
-**First published:** 16/09/2013
-
-**Last updated:** 12/03/2026
+**First published:** 16/09/2013 **Last updated:** 12/03/2026
 
 [View](/en/documents/procedural-steps-after/forxiga-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -845,9 +576,7 @@ English (EN) (129.13 KB - PDF)
 
 Forxiga-H-C-WS-2299 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/954956/2022
+Adopted Reference Number: EMA/954956/2022
 
 English (EN) (2.27 MB - PDF)
 
@@ -857,9 +586,7 @@ English (EN) (2.27 MB - PDF)
 
 CHMP post-authorisation summary of opinion for Forxiga (WS-2299)
 
-Adopted
-
-Reference Number: EMA/CHMP/938370/2022
+Adopted Reference Number: EMA/CHMP/938370/2022
 
 English (EN) (172.62 KB - PDF)
 
@@ -889,9 +616,7 @@ English (EN) (104.52 KB - PDF)
 
 Forxiga-H-C-WS-1952 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/622203/2021
+Adopted Reference Number: EMA/622203/2021
 
 English (EN) (1.96 MB - PDF)
 
@@ -901,9 +626,7 @@ English (EN) (1.96 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Forxiga (WS-1952)
 
-Adopted
-
-Reference Number: EMA/CHMP/589419/2021
+Adopted Reference Number: EMA/CHMP/589419/2021
 
 English (EN) (145.83 KB - PDF)
 
@@ -913,9 +636,7 @@ English (EN) (145.83 KB - PDF)
 
 Forxiga-H-C-WS-1941 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/431093/2021
+Adopted Reference Number: EMA/431093/2021
 
 English (EN) (5.42 MB - PDF)
 
@@ -925,9 +646,7 @@ English (EN) (5.42 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Forxiga (WS-1941)
 
-Adopted
-
-Reference Number: EMA/CHMP/347888/2021
+Adopted Reference Number: EMA/CHMP/347888/2021
 
 English (EN) (124.78 KB - PDF)
 
@@ -937,9 +656,7 @@ English (EN) (124.78 KB - PDF)
 
 Forxiga-H-C-2322-WS-1737: EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/574301/2020
+Adopted Reference Number: EMA/574301/2020
 
 English (EN) (6.72 MB - PDF)
 
@@ -949,9 +666,7 @@ English (EN) (6.72 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Forxiga (WS-1737)
 
-Adopted
-
-Reference Number: EMA/CHMP/535224/2020
+Adopted Reference Number: EMA/CHMP/535224/2020
 
 English (EN) (143.48 KB - PDF)
 
@@ -961,9 +676,7 @@ English (EN) (143.48 KB - PDF)
 
 Forxiga-H-C-2322-WS-1539: EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/476671/2019
+Adopted Reference Number: EMA/476671/2019
 
 English (EN) (1.46 MB - PDF)
 
@@ -973,9 +686,7 @@ English (EN) (1.46 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Forxiga (WS-1344)
 
-Adopted
-
-Reference Number: EMA/56302/2019
+Adopted Reference Number: EMA/56302/2019
 
 English (EN) (75.98 KB - PDF)
 
@@ -989,23 +700,17 @@ Reference Number: EMA/465597/2017
 
 English (EN) (67.22 KB - PDF)
 
-**First published:** 27/07/2017
-
-**Last updated:** 27/07/2017
+**First published:** 27/07/2017 **Last updated:** 27/07/2017
 
 [View](/en/documents/scientific-conclusion/forxiga-h-c-psusa-00010029-201610-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Forxiga-H-A20-1442-C-2322-0029 : EPAR - Assessment Report - Article 20
 
-Adopted
-
-Reference Number: EMA/PRAC/637349/2016
+Adopted Reference Number: EMA/PRAC/637349/2016
 
 English (EN) (254.07 KB - PDF)
 
-**First published:** 05/07/2017
-
-**Last updated:** 05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/en/documents/variation-report/forxiga-h-a20-1442-c-2322-0029-epar-assessment-report-article-20_en.pdf)
 
@@ -1013,313 +718,163 @@ Forxiga-H-A20-1442-C-2322-0029 : EPAR - Scientific Conclusion - Article 20
 
 English (EN) (41.36 KB - PDF)
 
-**First published:** 05/07/2017
-
-**Last updated:** 05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/en/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-744)
+[Other languages (24)](#file-language-dropdown-160)
 
 български (BG) (84.18 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/bg/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_bg.pdf)
 
 español (ES) (41.99 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/es/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_es.pdf)
 
 čeština (CS) (78.08 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/cs/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_cs.pdf)
 
 dansk (DA) (41.03 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/da/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_da.pdf)
 
 Deutsch (DE) (44.39 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/de/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_de.pdf)
 
 eesti keel (ET) (40.46 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/et/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_et.pdf)
 
 ελληνικά (EL) (84.71 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/el/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_el.pdf)
 
 français (FR) (42.93 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/fr/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_fr.pdf)
 
 hrvatski (HR) (76.27 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/hr/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_hr.pdf)
 
 íslenska (IS) (40.74 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/is/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_is.pdf)
 
 italiano (IT) (40.72 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/it/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_it.pdf)
 
 latviešu valoda (LV) (76.13 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/lv/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_lv.pdf)
 
 lietuvių kalba (LT) (72.25 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/lt/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_lt.pdf)
 
 magyar (HU) (60.56 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/hu/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_hu.pdf)
 
 Malti (MT) (83.36 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/mt/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_mt.pdf)
 
 Nederlands (NL) (42.37 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/nl/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_nl.pdf)
 
 norsk (NO) (40.5 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/no/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_no.pdf)
 
 polski (PL) (62.96 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/pl/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_pl.pdf)
 
 português (PT) (42.06 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/pt/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_pt.pdf)
 
 română (RO) (78.32 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/ro/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_ro.pdf)
 
 slovenčina (SK) (70.79 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/sk/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_sk.pdf)
 
 slovenščina (SL) (75.63 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/sl/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_sl.pdf)
 
 Suomi (FI) (40.53 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/fi/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_fi.pdf)
 
 svenska (SV) (41.68 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/sv/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_sv.pdf)
 
 Forxiga-H-C-2322-A20-1419-0021 : EPAR - Assessment Report - Article 20
 
-Adopted
-
-Reference Number: EMA/PRAC/50218/2016
+Adopted Reference Number: EMA/PRAC/50218/2016
 
 English (EN) (264.09 KB - PDF)
 
-**First published:** 18/05/2016
-
-**Last updated:** 18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/en/documents/variation-report/forxiga-h-c-2322-a20-1419-0021-epar-assessment-report-article-20_en.pdf)
 
@@ -1327,289 +882,151 @@ Forxiga : EPAR - Scientific Conclusion
 
 English (EN) (44.81 KB - PDF)
 
-**First published:** 18/05/2016
-
-**Last updated:** 18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/en/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-303)
+[Other languages (22)](#file-language-dropdown-856)
 
 български (BG) (78.43 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/bg/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_bg.pdf)
 
 español (ES) (43.44 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/es/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_es.pdf)
 
 čeština (CS) (76.84 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/cs/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_cs.pdf)
 
 dansk (DA) (43.59 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/da/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_da.pdf)
 
 Deutsch (DE) (46.48 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/de/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_de.pdf)
 
 eesti keel (ET) (41.47 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/et/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_et.pdf)
 
 ελληνικά (EL) (80.16 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/el/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_el.pdf)
 
 français (FR) (44.35 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/fr/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_fr.pdf)
 
 hrvatski (HR) (70.99 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/hr/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_hr.pdf)
 
 italiano (IT) (41.93 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/it/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_it.pdf)
 
 latviešu valoda (LV) (70.95 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/lv/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_lv.pdf)
 
 lietuvių kalba (LT) (76.52 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/lt/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_lt.pdf)
 
 magyar (HU) (63.53 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/hu/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_hu.pdf)
 
 Malti (MT) (79.84 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/mt/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_mt.pdf)
 
 Nederlands (NL) (43.19 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/nl/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_nl.pdf)
 
 polski (PL) (65.88 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/pl/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_pl.pdf)
 
 português (PT) (43.27 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/pt/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_pt.pdf)
 
 română (RO) (75.81 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/ro/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_ro.pdf)
 
 slovenčina (SK) (74.17 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/sk/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_sk.pdf)
 
 slovenščina (SL) (70.64 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/sl/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_sl.pdf)
 
 Suomi (FI) (42.19 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/fi/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_fi.pdf)
 
 svenska (SV) (44.07 KB - PDF)
 
-**First published:**
-
-18/05/2016
-
-**Last updated:**
-
-18/05/2016
+**First published:** 18/05/2016 **Last updated:** 18/05/2016
 
 [View](/sv/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_sv.pdf)
 
 Forxiga-H-C-2322-P46-016 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/784877/2015
+Adopted Reference Number: EMA/CHMP/784877/2015
 
 English (EN) (1.11 MB - PDF)
 
-**First published:** 05/01/2016
-
-**Last updated:** 05/01/2016
+**First published:** 05/01/2016 **Last updated:** 05/01/2016
 
 [View](/en/documents/variation-report/forxiga-h-c-2322-p46-016-epar-assessment-report_en.pdf)
 
@@ -1617,51 +1034,219 @@ English (EN) (1.11 MB - PDF)
 
 Forxiga : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/689976/2012
+Adopted Reference Number: EMA/689976/2012
 
 English (EN) (2.23 MB - PDF)
 
-**First published:** 07/12/2012
-
-**Last updated:** 07/12/2012
+**First published:** 07/12/2012 **Last updated:** 07/12/2012
 
 [View](/en/documents/assessment-report/forxiga-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Forxiga
 
-Adopted
-
-Reference Number: EMA/CHMP/259852/2012
+Adopted Reference Number: EMA/CHMP/259852/2012
 
 English (EN) (57.03 KB - PDF)
 
-**First published:** 20/04/2012
-
-**Last updated:** 20/04/2012
+**First published:** 20/04/2012 **Last updated:** 20/04/2012
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-forxiga_en.pdf)
 
 ## News on Forxiga
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2022) 16/12/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 October 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-october-2021) 15/10/2021
+16/12/2022
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 June 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-june-2021) 25/06/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 October 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-october-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020) 16/10/2020
+15/10/2021
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2019) 28/06/2019
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 June 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-june-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-31 January 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-31-january-2019) 01/02/2019
+25/06/2021
 
-[First oral add-on treatment to insulin for treatment of certain patients with type 1 diabetes](/en/news/first-oral-add-treatment-insulin-treatment-certain-patients-type-1-diabetes) 01/02/2019
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020)
 
-[SGLT2 inhibitors: PRAC makes recommendations to minimise risk of diabetic ketoacidosis](/en/news/sglt2-inhibitors-prac-makes-recommendations-minimise-risk-diabetic-ketoacidosis) 12/02/2016
+16/10/2020
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 8-11 June 2015](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-june-2015) 12/06/2015
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2019)
+
+28/06/2019
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-31 January 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-31-january-2019)
+
+01/02/2019
+
+[First oral add-on treatment to insulin for treatment of certain patients with type 1 diabetes](/en/news/first-oral-add-treatment-insulin-treatment-certain-patients-type-1-diabetes)
+
+01/02/2019
+
+[SGLT2 inhibitors: PRAC makes recommendations to minimise risk of diabetic ketoacidosis](/en/news/sglt2-inhibitors-prac-makes-recommendations-minimise-risk-diabetic-ketoacidosis)
+
+12/02/2016
+
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 8-11 June 2015](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-june-2015)
+
+12/06/2015
+
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Forxiga : EPAR - Product information - tracked changes
+
+English (EN) (1.04 MB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/en/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-860)
+
+български (BG) (887.2 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/bg/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (982.77 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/es/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (1.34 MB - DOC)
+
+**First published:** 22/04/2026
+
+[View](/cs/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_cs.doc)
+
+dansk (DA) (818.74 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/da/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (814.1 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/de/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (611.73 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/et/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (1.07 MB - DOC)
+
+**First published:** 22/04/2026
+
+[View](/el/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_el.doc)
+
+français (FR) (1.06 MB - DOC)
+
+**First published:** 22/04/2026
+
+[View](/fr/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_fr.doc)
+
+hrvatski (HR) (1.11 MB - DOC)
+
+**First published:** 22/04/2026
+
+[View](/hr/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_hr.doc)
+
+íslenska (IS) (721.77 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/is/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (764.47 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/it/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (887.22 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/lv/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (945.28 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/lt/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (976.5 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/hu/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (1.22 MB - DOC)
+
+**First published:** 22/04/2026
+
+[View](/mt/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_mt.doc)
+
+Nederlands (NL) (650.88 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/nl/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (720.71 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/no/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (753.28 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/pl/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (797.86 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/pt/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (993.5 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/ro/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (673.49 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/sk/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (935.9 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/sl/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (773.59 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/fi/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (812.8 KB - DOCX)
+
+**First published:** 22/04/2026
+
+[View](/sv/documents/product-information-tracked-changes/forxiga-epar-product-information-tracked-changes_sv.docx)
 
 ## More information on Forxiga
 
@@ -1682,8 +1267,8 @@ English (EN) (57.03 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 12/03/2026
+**This page was last updated on**
+
+22/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

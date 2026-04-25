@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 09:09:11
+document_datetime: 2026-04-24 12:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/striascan.html
 document_name: striascan.html
 version: success
-processing_time: 0.1252345
-conversion_datetime: 2025-12-30 22:55:23.335007
+processing_time: 0.1321915
+conversion_datetime: 2026-04-25 16:28:22.789951
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Striascan
 
 [RSS](/en/individual-human-medicine.xml/67215)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-ioflupane (123l) Medicine Human Authorised
+ioflupane (123l)
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -112,181 +112,137 @@ English (EN) (201.61 KB - PDF)
 
 [View](/en/documents/overview/striascan-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-77)
+[Other languages (22)](#file-language-dropdown-528)
 
 български (BG) (127.6 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/bg/documents/overview/striascan-epar-medicine-overview_bg.pdf)
 
 español (ES) (99.82 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/es/documents/overview/striascan-epar-medicine-overview_es.pdf)
 
 čeština (CS) (124.38 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/cs/documents/overview/striascan-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (98.43 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/da/documents/overview/striascan-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (100.36 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/de/documents/overview/striascan-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (96.95 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/et/documents/overview/striascan-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (134.27 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/el/documents/overview/striascan-epar-medicine-overview_el.pdf)
 
 français (FR) (99.89 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/fr/documents/overview/striascan-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (118.53 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/hr/documents/overview/striascan-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (99.06 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/it/documents/overview/striascan-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (128.29 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/lv/documents/overview/striascan-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (121.18 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/lt/documents/overview/striascan-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (120.18 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/hu/documents/overview/striascan-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (123.83 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/mt/documents/overview/striascan-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (99.59 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/nl/documents/overview/striascan-epar-medicine-overview_nl.pdf)
 
 polski (PL) (123.07 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/pl/documents/overview/striascan-epar-medicine-overview_pl.pdf)
 
 português (PT) (99.5 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/pt/documents/overview/striascan-epar-medicine-overview_pt.pdf)
 
 română (RO) (121.49 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/ro/documents/overview/striascan-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (122.16 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/sk/documents/overview/striascan-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (117.67 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/sl/documents/overview/striascan-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (98.81 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/fi/documents/overview/striascan-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (98.89 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/sv/documents/overview/striascan-epar-medicine-overview_sv.pdf)
 
@@ -294,9 +250,7 @@ Striascan : EPAR - Risk Management Plan
 
 English (EN) (626.4 KB - PDF)
 
-**First published:** 02/08/2019
-
-**Last updated:** 12/03/2024
+**First published:** 02/08/2019 **Last updated:** 12/03/2024
 
 [View](/en/documents/rmp/striascan-epar-risk-management-plan_en.pdf)
 
@@ -304,305 +258,161 @@ English (EN) (626.4 KB - PDF)
 
 Striascan : EPAR - Product information
 
-English (EN) (459.53 KB - PDF)
+English (EN) (464.19 KB - PDF)
 
-**First published:** 02/08/2019
-
-**Last updated:** 03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/en/documents/product-information/striascan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-93)
+[Other languages (24)](#file-language-dropdown-693)
 
-български (BG) (554.44 KB - PDF)
+български (BG) (421.85 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/bg/documents/product-information/striascan-epar-product-information_bg.pdf)
 
-español (ES) (468.11 KB - PDF)
+español (ES) (465.16 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/es/documents/product-information/striascan-epar-product-information_es.pdf)
 
-čeština (CS) (443.24 KB - PDF)
+čeština (CS) (587.46 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/cs/documents/product-information/striascan-epar-product-information_cs.pdf)
 
-dansk (DA) (488.49 KB - PDF)
+dansk (DA) (490.92 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/da/documents/product-information/striascan-epar-product-information_da.pdf)
 
-Deutsch (DE) (334.4 KB - PDF)
+Deutsch (DE) (339.82 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-11/02/2025
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/de/documents/product-information/striascan-epar-product-information_de.pdf)
 
-eesti keel (ET) (471.93 KB - PDF)
+eesti keel (ET) (475.37 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/et/documents/product-information/striascan-epar-product-information_et.pdf)
 
-ελληνικά (EL) (586.17 KB - PDF)
+ελληνικά (EL) (438.77 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/el/documents/product-information/striascan-epar-product-information_el.pdf)
 
-français (FR) (342.57 KB - PDF)
+français (FR) (397.06 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/fr/documents/product-information/striascan-epar-product-information_fr.pdf)
 
-hrvatski (HR) (548.76 KB - PDF)
+hrvatski (HR) (549.3 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/hr/documents/product-information/striascan-epar-product-information_hr.pdf)
 
-íslenska (IS) (463.58 KB - PDF)
+íslenska (IS) (465.87 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/is/documents/product-information/striascan-epar-product-information_is.pdf)
 
-italiano (IT) (524.46 KB - PDF)
+italiano (IT) (528.65 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/it/documents/product-information/striascan-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (415.5 KB - PDF)
+latviešu valoda (LV) (558.22 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/lv/documents/product-information/striascan-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (563.87 KB - PDF)
+lietuvių kalba (LT) (561.73 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/lt/documents/product-information/striascan-epar-product-information_lt.pdf)
 
-magyar (HU) (572.78 KB - PDF)
+magyar (HU) (574.92 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/hu/documents/product-information/striascan-epar-product-information_hu.pdf)
 
-Malti (MT) (653.57 KB - PDF)
+Malti (MT) (478.18 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/mt/documents/product-information/striascan-epar-product-information_mt.pdf)
 
-Nederlands (NL) (477.2 KB - PDF)
+Nederlands (NL) (482.57 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/nl/documents/product-information/striascan-epar-product-information_nl.pdf)
 
-norsk (NO) (465.17 KB - PDF)
+norsk (NO) (474.13 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/no/documents/product-information/striascan-epar-product-information_no.pdf)
 
-polski (PL) (385.45 KB - PDF)
+polski (PL) (516.29 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/pl/documents/product-information/striascan-epar-product-information_pl.pdf)
 
-português (PT) (446.76 KB - PDF)
+português (PT) (454.85 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/pt/documents/product-information/striascan-epar-product-information_pt.pdf)
 
-română (RO) (525.8 KB - PDF)
+română (RO) (529.96 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/ro/documents/product-information/striascan-epar-product-information_ro.pdf)
 
-slovenčina (SK) (555.72 KB - PDF)
+slovenčina (SK) (562.13 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/sk/documents/product-information/striascan-epar-product-information_sk.pdf)
 
-slovenščina (SL) (547.78 KB - PDF)
+slovenščina (SL) (550.9 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/sl/documents/product-information/striascan-epar-product-information_sl.pdf)
 
-Suomi (FI) (465.08 KB - PDF)
+Suomi (FI) (467.18 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/fi/documents/product-information/striascan-epar-product-information_fi.pdf)
 
-svenska (SV) (472.24 KB - PDF)
+svenska (SV) (475.36 KB - PDF)
 
-**First published:**
-
-02/08/2019
-
-**Last updated:**
-
-03/10/2024
+**First published:** 02/08/2019 **Last updated:** 24/04/2026
 
 [View](/sv/documents/product-information/striascan-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0015 02/10/2024
+**Latest procedure affecting product information:** VR/0000341575
+
+24/04/2026
 
 icon globe
 
@@ -626,209 +436,175 @@ English (EN) (26.02 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-535)
+[Other languages (24)](#file-language-dropdown-868)
 
 български (BG) (28.69 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/bg/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (25.25 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/es/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (28.43 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/cs/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (27.78 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/da/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (27.75 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/de/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (25.28 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/et/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (25.39 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/el/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (27.07 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/fr/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (26.15 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/hr/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (27.05 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/is/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (25.16 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/it/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (26.04 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/lv/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (26.06 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/lt/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (26.16 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/hu/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (26.03 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/mt/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (24.38 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/nl/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (26.94 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/no/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (26.68 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/pl/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (26.83 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/pt/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (25.81 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/ro/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (26.59 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/sk/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (26.14 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/sl/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (25.85 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/fi/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (25.36 KB - PDF)
 
-**First published:**
-
-02/08/2019
+**First published:** 02/08/2019
 
 [View](/sv/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Striascan Active substance ioflupane (123l) International non-proprietary name (INN) or common name ioflupane (123l) Therapeutic area (MeSH)
+Name of medicine
+
+Striascan
+
+Active substance
+
+ioflupane (123l)
+
+International non-proprietary name (INN) or common name
+
+ioflupane (123l)
+
+Therapeutic area (MeSH)
 
 - Radionuclide Imaging
 - Dementia
 - Movement Disorders
 
-Anatomical therapeutic chemical (ATC) code V09AB03
+Anatomical therapeutic chemical (ATC) code
+
+V09AB03
 
 ### Pharmacotherapeutic group
 
@@ -845,7 +621,9 @@ Striascan is indicated for detecting loss of functional dopaminergic neuron term
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004745
+EMA product number
+
+EMEA/H/C/004745
 
 Generic
 
@@ -857,7 +635,17 @@ CIS bio international
 
 Route Nationale 306, Saclay
 
-Opinion adopted 25/06/2019 Marketing authorisation issued 25/06/2019 Revision 4
+Opinion adopted
+
+25/06/2019
+
+Marketing authorisation issued
+
+25/06/2019
+
+Revision
+
+5
 
 ## Assessment history
 
@@ -867,23 +655,27 @@ Collapse section
 
 ## Changes since initial authorisation of medicine
 
-Striascan : EPAR - Procedural steps taken and scientific information after the authorisation
+Striascan : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (138.51 KB - PDF)
+
+**First published:** 24/04/2026
+
+[View](/en/documents/procedural-steps-after/striascan-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Striascan : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
 English (EN) (115.02 KB - PDF)
 
-**First published:** 16/07/2021
+**First published:** 16/07/2021 **Last updated:** 24/04/2026
 
-**Last updated:** 03/10/2024
-
-[View](/en/documents/procedural-steps-after/striascan-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/striascan-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Striascan : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/280752/2019
+Adopted Reference Number: EMA/280752/2019
 
 English (EN) (364.22 KB - PDF)
 
@@ -893,9 +685,7 @@ English (EN) (364.22 KB - PDF)
 
 CHMP summary of positive opinion for Striascan
 
-Adopted
-
-Reference Number: EMA/CHMP/225317/2019
+Adopted Reference Number: EMA/CHMP/225317/2019
 
 English (EN) (69.67 KB - PDF)
 
@@ -903,11 +693,13 @@ English (EN) (69.67 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-striascan_en.pdf)
 
-#### News on Striascan
+## News on Striascan
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 April 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-april-2019) 26/04/2019
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 April 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-april-2019)
 
-#### More information on Striascan
+26/04/2019
+
+## More information on Striascan
 
 Questions and answers on generic medicines
 
@@ -915,285 +707,151 @@ Reference Number: EMA/393905/2006 Rev. 2
 
 English (EN) (66.45 KB - PDF)
 
-**First published:** 09/07/2007
-
-**Last updated:** 07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-10)
 
 български (BG) (93.16 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
 
 español (ES) (68.3 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
 
 čeština (CS) (87.71 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
 
 dansk (DA) (66.79 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
 
 Deutsch (DE) (67.55 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
 
 eesti keel (ET) (65.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
 
 ελληνικά (EL) (91.29 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
 
 français (FR) (68.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
 
 hrvatski (HR) (87.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
 
 italiano (IT) (67.62 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
 
 latviešu valoda (LV) (111.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
 
 lietuvių kalba (LT) (86.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
 
 magyar (HU) (85.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
 
 Malti (MT) (89.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
 
 Nederlands (NL) (66.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
 
 polski (PL) (88.51 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
 
 português (PT) (68.32 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
 
 română (RO) (86.9 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
 
 slovenčina (SK) (87.73 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
 
 slovenščina (SL) (84.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
 
 Suomi (FI) (66.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
 
 svenska (SV) (67.11 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 03/10/2024
+**This page was last updated on**
+
+24/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

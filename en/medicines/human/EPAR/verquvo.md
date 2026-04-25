@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 09:23:44
+document_datetime: 2026-04-21 16:24:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/verquvo.html
 document_name: verquvo.html
 version: success
-processing_time: 0.1095409
-conversion_datetime: 2025-12-31 03:46:35.141512
+processing_time: 0.2366863
+conversion_datetime: 2026-04-25 16:16:10.218048
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Verquvo
 
 [RSS](/en/individual-human-medicine.xml/67461)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-vericiguat Medicine Human Authorised
+vericiguat
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -102,275 +102,141 @@ Reference Number: EMA/425562/2021
 
 English (EN) (128.8 KB - PDF)
 
-**First published:** 27/07/2021
-
-**Last updated:** 10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/en/documents/overview/verquvo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-14)
+[Other languages (22)](#file-language-dropdown-199)
 
 български (BG) (151.34 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/bg/documents/overview/verquvo-epar-medicine-overview_bg.pdf)
 
 español (ES) (126.56 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/es/documents/overview/verquvo-epar-medicine-overview_es.pdf)
 
 čeština (CS) (149.69 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/cs/documents/overview/verquvo-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (126.11 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/da/documents/overview/verquvo-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (129.25 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/de/documents/overview/verquvo-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (125.26 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/et/documents/overview/verquvo-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (150.21 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/el/documents/overview/verquvo-epar-medicine-overview_el.pdf)
 
 français (FR) (128.77 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/fr/documents/overview/verquvo-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (147.17 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/hr/documents/overview/verquvo-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (124.86 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/it/documents/overview/verquvo-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (157.18 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/lv/documents/overview/verquvo-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (149.75 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/lt/documents/overview/verquvo-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (147.81 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/hu/documents/overview/verquvo-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (151.67 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/mt/documents/overview/verquvo-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (125.86 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/nl/documents/overview/verquvo-epar-medicine-overview_nl.pdf)
 
 polski (PL) (152.49 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/pl/documents/overview/verquvo-epar-medicine-overview_pl.pdf)
 
 português (PT) (127.1 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/pt/documents/overview/verquvo-epar-medicine-overview_pt.pdf)
 
 română (RO) (148.27 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/ro/documents/overview/verquvo-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (149.25 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/sk/documents/overview/verquvo-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (146.52 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/sl/documents/overview/verquvo-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (124.96 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/fi/documents/overview/verquvo-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (125.5 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 10/11/2025
 
 [View](/sv/documents/overview/verquvo-epar-medicine-overview_sv.pdf)
 
@@ -386,305 +252,161 @@ English (EN) (74.09 KB - PDF)
 
 Verquvo : EPAR - Product information
 
-English (EN) (783.7 KB - PDF)
+English (EN) (590.6 KB - PDF)
 
-**First published:** 27/07/2021
-
-**Last updated:** 10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/en/documents/product-information/verquvo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-420)
+[Other languages (24)](#file-language-dropdown-891)
 
-български (BG) (1.27 MB - PDF)
+български (BG) (576.63 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/bg/documents/product-information/verquvo-epar-product-information_bg.pdf)
 
-español (ES) (1.37 MB - PDF)
+español (ES) (670.02 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/es/documents/product-information/verquvo-epar-product-information_es.pdf)
 
-čeština (CS) (1.37 MB - PDF)
+čeština (CS) (550.61 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/cs/documents/product-information/verquvo-epar-product-information_cs.pdf)
 
-dansk (DA) (1.3 MB - PDF)
+dansk (DA) (627.69 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/da/documents/product-information/verquvo-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.49 MB - PDF)
+Deutsch (DE) (697.83 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/de/documents/product-information/verquvo-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.21 MB - PDF)
+eesti keel (ET) (533.02 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/et/documents/product-information/verquvo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.22 MB - PDF)
+ελληνικά (EL) (564.39 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/el/documents/product-information/verquvo-epar-product-information_el.pdf)
 
-français (FR) (1.72 MB - PDF)
+français (FR) (597.66 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/fr/documents/product-information/verquvo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.45 MB - PDF)
+hrvatski (HR) (709.03 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/hr/documents/product-information/verquvo-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.34 MB - PDF)
+íslenska (IS) (634.81 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/is/documents/product-information/verquvo-epar-product-information_is.pdf)
 
-italiano (IT) (1.45 MB - PDF)
+italiano (IT) (699.11 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/it/documents/product-information/verquvo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.42 MB - PDF)
+latviešu valoda (LV) (707.53 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/lv/documents/product-information/verquvo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.59 MB - PDF)
+lietuvių kalba (LT) (769.11 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/lt/documents/product-information/verquvo-epar-product-information_lt.pdf)
 
-magyar (HU) (1.36 MB - PDF)
+magyar (HU) (553.81 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/hu/documents/product-information/verquvo-epar-product-information_hu.pdf)
 
-Malti (MT) (1.46 MB - PDF)
+Malti (MT) (574.58 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/mt/documents/product-information/verquvo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.45 MB - PDF)
+Nederlands (NL) (695.95 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/nl/documents/product-information/verquvo-epar-product-information_nl.pdf)
 
-norsk (NO) (1.27 MB - PDF)
+norsk (NO) (628.87 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/no/documents/product-information/verquvo-epar-product-information_no.pdf)
 
-polski (PL) (1.51 MB - PDF)
+polski (PL) (616.28 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/pl/documents/product-information/verquvo-epar-product-information_pl.pdf)
 
-português (PT) (1.11 MB - PDF)
+português (PT) (467.02 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/pt/documents/product-information/verquvo-epar-product-information_pt.pdf)
 
-română (RO) (1.22 MB - PDF)
+română (RO) (517.13 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/ro/documents/product-information/verquvo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.35 MB - PDF)
+slovenčina (SK) (544.19 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/sk/documents/product-information/verquvo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.29 MB - PDF)
+slovenščina (SL) (529.83 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/sl/documents/product-information/verquvo-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.26 MB - PDF)
+Suomi (FI) (563.44 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/fi/documents/product-information/verquvo-epar-product-information_fi.pdf)
 
-svenska (SV) (1.29 MB - PDF)
+svenska (SV) (640.61 KB - PDF)
 
-**First published:**
-
-27/07/2021
-
-**Last updated:**
-
-10/11/2025
+**First published:** 27/07/2021 **Last updated:** 21/04/2026
 
 [View](/sv/documents/product-information/verquvo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000257213 24/10/2025
+**Latest procedure affecting product information:** R/0000304275
+
+26/03/2026
 
 icon globe
 
@@ -708,203 +430,173 @@ English (EN) (99.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-198)
+[Other languages (24)](#file-language-dropdown-811)
 
 български (BG) (105.48 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/bg/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (11.09 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/es/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (24.17 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/cs/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (10.55 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/da/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (169.09 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/de/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (99.28 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/et/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (35.38 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/el/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (165.04 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/fr/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (102.89 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/hr/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (10.56 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/is/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (165.84 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/it/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (102.87 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/lv/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (174.42 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/lt/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (181.84 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/hu/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (171.19 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/mt/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (231.9 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/nl/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (10.92 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/no/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (170.04 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/pl/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (102.98 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/pt/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (173.53 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/ro/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (24.78 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/sk/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (169.07 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/sl/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (11.12 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/fi/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (230.08 KB - PDF)
 
-**First published:**
-
-27/07/2021
+**First published:** 27/07/2021
 
 [View](/sv/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Verquvo Active substance vericiguat International non-proprietary name (INN) or common name vericiguat Therapeutic area (MeSH) Heart Failure Anatomical therapeutic chemical (ATC) code C01
+Name of medicine
+
+Verquvo
+
+Active substance
+
+vericiguat
+
+International non-proprietary name (INN) or common name
+
+vericiguat
+
+Therapeutic area (MeSH)
+
+Heart Failure
+
+Anatomical therapeutic chemical (ATC) code
+
+C01
 
 ### Pharmacotherapeutic group
 
@@ -916,11 +608,9 @@ Treatment of symptomatic chronic heart failure
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005319
+EMA product number
 
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+EMEA/H/C/005319
 
 Marketing authorisation holder
 
@@ -928,7 +618,17 @@ Bayer AG
 
 51368 Leverkusen Germany
 
-Opinion adopted 20/05/2021 Marketing authorisation issued 16/07/2021 Revision 1
+Opinion adopted
+
+20/05/2021
+
+Marketing authorisation issued
+
+16/07/2021
+
+Revision
+
+2
 
 ## Assessment history
 
@@ -940,17 +640,15 @@ Collapse section
 
 Verquvo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (130.83 KB - PDF)
+English (EN) (139.33 KB - PDF)
 
-**First published:** 10/11/2025
+**First published:** 10/11/2025 **Last updated:** 21/04/2026
 
 [View](/en/documents/procedural-steps-after/verquvo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Verquvo-VR-0000257213 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMADOC-1700519818-1988760
+Adopted Reference Number: EMADOC-1700519818-1988760
 
 English (EN) (839.7 KB - PDF)
 
@@ -962,9 +660,7 @@ English (EN) (839.7 KB - PDF)
 
 Verquvo : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/394228/2021
+Adopted Reference Number: EMA/394228/2021
 
 English (EN) (4.71 MB - PDF)
 
@@ -974,9 +670,7 @@ English (EN) (4.71 MB - PDF)
 
 CHMP summary of positive opinion for Verquvo
 
-Adopted
-
-Reference Number: EMA/CHMP/259029/2021
+Adopted Reference Number: EMA/CHMP/259029/2021
 
 English (EN) (135.15 KB - PDF)
 
@@ -984,17 +678,19 @@ English (EN) (135.15 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-verquvo_en.pdf)
 
-#### News on Verquvo
+## News on Verquvo
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 May 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-may-2021) 21/05/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 May 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-may-2021)
 
-#### More information on Verquvo
+21/05/2021
+
+## More information on Verquvo
 
 - [EMEA-001636-PIP01-14-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001636-pip01-14-m03)
 - [Real World Outcomes of Patients Treated with Vericiguat in German Routine Care (ROVER) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000221)
 
-**This page was last updated on** 10/11/2025
+**This page was last updated on**
+
+21/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

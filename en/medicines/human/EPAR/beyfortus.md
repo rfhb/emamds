@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-01 17:20:00
+document_datetime: 2026-04-24 14:38:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/beyfortus.html
 document_name: beyfortus.html
 version: success
-processing_time: 0.1236771
-conversion_datetime: 2026-04-05 12:27:54.209877
+processing_time: 0.1395407
+conversion_datetime: 2026-04-25 16:18:26.820337
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
   docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Beyfortus
 
@@ -109,7 +109,7 @@ English (EN) (100.35 KB - PDF)
 
 [View](/en/documents/overview/beyfortus-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-584)
+[Other languages (22)](#file-language-dropdown-732)
 
 български (BG) (179.21 KB - PDF)
 
@@ -261,7 +261,7 @@ English (EN) (456.83 KB - PDF)
 
 [View](/en/documents/product-information/beyfortus-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-97)
+[Other languages (24)](#file-language-dropdown-517)
 
 български (BG) (638.36 KB - PDF)
 
@@ -433,7 +433,7 @@ English (EN) (25.07 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-108)
+[Other languages (24)](#file-language-dropdown-226)
 
 български (BG) (30.06 KB - PDF)
 
@@ -637,7 +637,7 @@ Marketing authorisation issued
 
 Revision
 
-14
+15
 
 ## Assessment history
 
@@ -662,6 +662,16 @@ English (EN) (180.41 KB - PDF)
 **First published:** 21/03/2023 **Last updated:** 24/06/2025
 
 [View](/en/documents/procedural-steps-after/beyfortus-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Beyfortus-PAM-0000303330 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-2500371
+
+English (EN) (3.34 MB - PDF)
+
+**First published:** 24/04/2026
+
+[View](/en/documents/variation-report/beyfortus-pam-0000303330-epar-assessment-report_en.pdf)
 
 Beyfortus-H-C-005304-II-0005 : EPAR - Assessment report - Variation
 
@@ -743,7 +753,7 @@ English (EN) (196.38 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-245)
+[Other languages (24)](#file-language-dropdown-48)
 
 български (BG) (186.88 KB - DOCX)
 
@@ -895,6 +905,6 @@ svenska (SV) (170.29 KB - DOCX)
 
 **This page was last updated on**
 
-01/04/2026
+24/04/2026
 
 ## Share this page

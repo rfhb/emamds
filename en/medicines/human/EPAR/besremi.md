@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-13 16:02:00
+document_datetime: 2026-04-24 14:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/besremi.html
 document_name: besremi.html
 version: success
-processing_time: 0.2366335
-conversion_datetime: 2026-01-14 07:14:40.239841
+processing_time: 0.1179026
+conversion_datetime: 2026-04-25 16:09:42.18191
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Besremi
 
 [RSS](/en/individual-human-medicine.xml/67181)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-ropeginterferon alfa-2b Medicine Human Authorised
+ropeginterferon alfa-2b
+
+Medicine Human Authorised
 
 Page contents
 
@@ -109,181 +111,137 @@ English (EN) (77.32 KB - PDF)
 
 [View](/en/documents/overview/besremi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-776)
+[Other languages (22)](#file-language-dropdown-878)
 
 български (BG) (103.91 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/bg/documents/overview/besremi-epar-medicine-overview_bg.pdf)
 
 español (ES) (76.57 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/es/documents/overview/besremi-epar-medicine-overview_es.pdf)
 
 čeština (CS) (100.65 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/cs/documents/overview/besremi-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (75.29 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/da/documents/overview/besremi-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (77.1 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/de/documents/overview/besremi-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (74.32 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/et/documents/overview/besremi-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (109.8 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/el/documents/overview/besremi-epar-medicine-overview_el.pdf)
 
 français (FR) (77.09 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/fr/documents/overview/besremi-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (95.27 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/hr/documents/overview/besremi-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (75.88 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/it/documents/overview/besremi-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (99.1 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/lv/documents/overview/besremi-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (98.02 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/lt/documents/overview/besremi-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (96.4 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/hu/documents/overview/besremi-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (100.42 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/mt/documents/overview/besremi-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (75.54 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/nl/documents/overview/besremi-epar-medicine-overview_nl.pdf)
 
 polski (PL) (100.33 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/pl/documents/overview/besremi-epar-medicine-overview_pl.pdf)
 
 português (PT) (76.36 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/pt/documents/overview/besremi-epar-medicine-overview_pt.pdf)
 
 română (RO) (98.2 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/ro/documents/overview/besremi-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (99.93 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/sk/documents/overview/besremi-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (95.37 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/sl/documents/overview/besremi-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (75.26 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/fi/documents/overview/besremi-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (75.74 KB - PDF)
 
-**First published:**
-
-08/05/2019
+**First published:** 08/05/2019
 
 [View](/sv/documents/overview/besremi-epar-medicine-overview_sv.pdf)
 
@@ -291,9 +249,7 @@ Besremi : EPAR - Risk management plan
 
 English (EN) (338.88 KB - PDF)
 
-**First published:** 08/05/2019
-
-**Last updated:** 21/10/2025
+**First published:** 08/05/2019 **Last updated:** 21/10/2025
 
 [View](/en/documents/rmp/besremi-epar-risk-management-plan_en.pdf)
 
@@ -301,305 +257,161 @@ English (EN) (338.88 KB - PDF)
 
 Besremi : EPAR - Product information
 
-English (EN) (1.88 MB - PDF)
+English (EN) (1.3 MB - PDF)
 
-**First published:** 25/01/2023
-
-**Last updated:** 13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/en/documents/product-information/besremi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-662)
+[Other languages (24)](#file-language-dropdown-491)
 
-български (BG) (1.73 MB - PDF)
+български (BG) (1.68 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/bg/documents/product-information/besremi-epar-product-information_bg.pdf)
 
-español (ES) (1.83 MB - PDF)
+español (ES) (1.08 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/es/documents/product-information/besremi-epar-product-information_es.pdf)
 
-čeština (CS) (2 MB - PDF)
+čeština (CS) (1.64 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/cs/documents/product-information/besremi-epar-product-information_cs.pdf)
 
-dansk (DA) (1.84 MB - PDF)
+dansk (DA) (1.63 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/da/documents/product-information/besremi-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.74 MB - PDF)
+Deutsch (DE) (1.07 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/de/documents/product-information/besremi-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.52 MB - PDF)
+eesti keel (ET) (1.08 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/et/documents/product-information/besremi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.12 MB - PDF)
+ελληνικά (EL) (1.9 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/el/documents/product-information/besremi-epar-product-information_el.pdf)
 
-français (FR) (1.7 MB - PDF)
+français (FR) (1 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/fr/documents/product-information/besremi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.12 MB - PDF)
+hrvatski (HR) (7.63 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/hr/documents/product-information/besremi-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.44 MB - PDF)
+íslenska (IS) (1.39 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/is/documents/product-information/besremi-epar-product-information_is.pdf)
 
-italiano (IT) (2.04 MB - PDF)
+italiano (IT) (1.84 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/it/documents/product-information/besremi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.94 MB - PDF)
+latviešu valoda (LV) (1.85 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/lv/documents/product-information/besremi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.01 MB - PDF)
+lietuvių kalba (LT) (1.6 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/lt/documents/product-information/besremi-epar-product-information_lt.pdf)
 
-magyar (HU) (1.98 MB - PDF)
+magyar (HU) (1.46 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/hu/documents/product-information/besremi-epar-product-information_hu.pdf)
 
-Malti (MT) (2.34 MB - PDF)
+Malti (MT) (1.97 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/mt/documents/product-information/besremi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.69 MB - PDF)
+Nederlands (NL) (1.68 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/nl/documents/product-information/besremi-epar-product-information_nl.pdf)
 
-norsk (NO) (1.78 MB - PDF)
+norsk (NO) (1.67 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/no/documents/product-information/besremi-epar-product-information_no.pdf)
 
-polski (PL) (2.07 MB - PDF)
+polski (PL) (1.6 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/pl/documents/product-information/besremi-epar-product-information_pl.pdf)
 
-português (PT) (1.92 MB - PDF)
+português (PT) (2.2 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/pt/documents/product-information/besremi-epar-product-information_pt.pdf)
 
-română (RO) (1.74 MB - PDF)
+română (RO) (1.73 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/ro/documents/product-information/besremi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.88 MB - PDF)
+slovenčina (SK) (1.87 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/sk/documents/product-information/besremi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.77 MB - PDF)
+slovenščina (SL) (1.76 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/sl/documents/product-information/besremi-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.86 MB - PDF)
+Suomi (FI) (1014.86 KB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/fi/documents/product-information/besremi-epar-product-information_fi.pdf)
 
-svenska (SV) (1.65 MB - PDF)
+svenska (SV) (1.46 MB - PDF)
 
-**First published:**
-
-25/01/2023
-
-**Last updated:**
-
-13/01/2026
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/sv/documents/product-information/besremi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000314219 09/01/2026
+**Latest procedure affecting product information:** VR/0000334453
+
+24/04/2026
 
 icon globe
 
@@ -619,305 +431,177 @@ Besremi : EPAR - All authorised presentations
 
 English (EN) (62.13 KB - PDF)
 
-**First published:** 08/05/2019
-
-**Last updated:** 22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/en/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-886)
+[Other languages (24)](#file-language-dropdown-523)
 
 български (BG) (71.37 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/bg/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (48.46 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/es/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (65.4 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/cs/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (50.74 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/da/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (50.39 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/de/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (47.31 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/et/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (63.66 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/el/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (48.31 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/fr/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (152.3 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/hr/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (49.28 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/is/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (46.93 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/it/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (64.97 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/lv/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (67.16 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/lt/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (66.46 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/hu/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (65.67 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/mt/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (48.04 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/nl/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (49.78 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/no/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (67.85 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/pl/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (49.45 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/pt/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (65.69 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/ro/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (65.47 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/sk/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (63.42 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/sl/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (47.43 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/fi/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (48.26 KB - PDF)
 
-**First published:**
-
-08/05/2019
-
-**Last updated:**
-
-22/02/2021
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/sv/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Besremi Active substance ropeginterferon alfa-2b International non-proprietary name (INN) or common name ropeginterferon alfa-2b Therapeutic area (MeSH) Polycythemia Vera Anatomical therapeutic chemical (ATC) code L03AB15
+Name of medicine
+
+Besremi
+
+Active substance
+
+ropeginterferon alfa-2b
+
+International non-proprietary name (INN) or common name
+
+ropeginterferon alfa-2b
+
+Therapeutic area (MeSH)
+
+Polycythemia Vera
+
+Anatomical therapeutic chemical (ATC) code
+
+L03AB15
 
 ### Pharmacotherapeutic group
 
@@ -929,13 +613,27 @@ Besremi is indicated as monotherapy in adults for the treatment of polycythaemia
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004128 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/004128
+
+Marketing authorisation holder
 
 AOP Orphan Pharmaceuticals GmbH
 
 Leopold-Ungar-Platz 2
 
-Opinion adopted 15/02/2019 Marketing authorisation issued 15/02/2019 Revision 9
+Opinion adopted
+
+15/02/2019
+
+Marketing authorisation issued
+
+15/02/2019
+
+Revision
+
+10
 
 ## Assessment history
 
@@ -947,11 +645,9 @@ Collapse section
 
 Besremi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (154.85 KB - PDF)
+English (EN) (154.37 KB - PDF)
 
-**First published:** 21/10/2025
-
-**Last updated:** 13/01/2026
+**First published:** 21/10/2025 **Last updated:** 24/04/2026
 
 [View](/en/documents/procedural-steps-after/besremi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -959,9 +655,7 @@ Besremi : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (141.88 KB - PDF)
 
-**First published:** 22/02/2021
-
-**Last updated:** 21/10/2025
+**First published:** 22/02/2021 **Last updated:** 21/10/2025
 
 [View](/en/documents/procedural-steps-after/besremi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -969,9 +663,7 @@ English (EN) (141.88 KB - PDF)
 
 Besremi : Orphan designation withdrawal assessment report (initial authorisation)
 
-Adopted
-
-Reference Number: EMA/47444/2019
+Adopted Reference Number: EMA/47444/2019
 
 English (EN) (158.65 KB - PDF)
 
@@ -981,9 +673,7 @@ English (EN) (158.65 KB - PDF)
 
 Besremi : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/11025/2019
+Adopted Reference Number: EMA/11025/2019
 
 English (EN) (1.95 MB - PDF)
 
@@ -993,9 +683,7 @@ English (EN) (1.95 MB - PDF)
 
 CHMP summary of positive opinion for Besremi
 
-Adopted
-
-Reference Number: EMA/CHMP/867687/2018
+Adopted Reference Number: EMA/CHMP/867687/2018
 
 English (EN) (67.87 KB - PDF)
 
@@ -1003,22 +691,24 @@ English (EN) (67.87 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-besremi_en.pdf)
 
-#### News on Besremi
+## News on Besremi
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 December 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-december-2018) 14/12/2018
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 December 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-december-2018)
 
-#### More information on Besremi
+14/12/2018
+
+## More information on Besremi
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu-3-11-932) on 9 December 2011.
 
 Besremi was withdrawn from the Community register of orphan medicinal products in December 2018 upon request of the marketing authorisation holder at the time of the granting of a marketing authorisation.
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 13/01/2026
+**This page was last updated on**
+
+24/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-18 12:15:00
+document_datetime: 2026-04-24 13:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/caelyx-pegylated-liposomal.html
 document_name: caelyx-pegylated-liposomal.html
 version: success
-processing_time: 0.1434821
-conversion_datetime: 2026-01-03 12:52:00.741446
+processing_time: 0.1531481
+conversion_datetime: 2026-04-25 16:33:10.143031
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Caelyx pegylated liposomal
 
 [RSS](/en/individual-human-medicine.xml/66746)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-doxorubicin Medicine Human Authorised
+doxorubicin
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -115,275 +115,141 @@ Reference Number: EMA/635791/2019
 
 English (EN) (181.04 KB - PDF)
 
-**First published:** 10/03/2008
-
-**Last updated:** 02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/en/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-597)
+[Other languages (22)](#file-language-dropdown-665)
 
 български (BG) (195.38 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/bg/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_bg.pdf)
 
 español (ES) (169.5 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/es/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_es.pdf)
 
 čeština (CS) (192.24 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/cs/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (168.32 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/da/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (172.61 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/de/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (157.54 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/et/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (197.06 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/el/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_el.pdf)
 
 français (FR) (170.04 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/fr/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (193.68 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/hr/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (168.05 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/it/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (211.08 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/lv/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (194.32 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/lt/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (190.56 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/hu/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (196.13 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/mt/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (169.18 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/nl/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_nl.pdf)
 
 polski (PL) (195.61 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/pl/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_pl.pdf)
 
 português (PT) (170.21 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/pt/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_pt.pdf)
 
 română (RO) (190.05 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/ro/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (193.28 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/sk/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (191.94 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/sl/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (167.15 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/fi/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (168.12 KB - PDF)
 
-**First published:**
-
-10/03/2008
-
-**Last updated:**
-
-02/04/2020
+**First published:** 10/03/2008 **Last updated:** 02/04/2020
 
 [View](/sv/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_sv.pdf)
 
@@ -399,305 +265,161 @@ English (EN) (1.25 MB - PDF)
 
 Caelyx pegylated liposomal : EPAR - Product Information
 
-English (EN) (308.32 KB - PDF)
+English (EN) (308.58 KB - PDF)
 
-**First published:** 09/03/2009
-
-**Last updated:** 18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/en/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-819)
+[Other languages (24)](#file-language-dropdown-140)
 
-български (BG) (446.41 KB - PDF)
+български (BG) (446.98 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/bg/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_bg.pdf)
 
-español (ES) (356.01 KB - PDF)
+español (ES) (356.25 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/es/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_es.pdf)
 
-čeština (CS) (402.03 KB - PDF)
+čeština (CS) (402.6 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/cs/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_cs.pdf)
 
-dansk (DA) (296.32 KB - PDF)
+dansk (DA) (296.29 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/da/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_da.pdf)
 
-Deutsch (DE) (324.02 KB - PDF)
+Deutsch (DE) (324.03 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/de/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_de.pdf)
 
-eesti keel (ET) (320.97 KB - PDF)
+eesti keel (ET) (321.86 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/et/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_et.pdf)
 
-ελληνικά (EL) (450.9 KB - PDF)
+ελληνικά (EL) (451.95 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/el/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_el.pdf)
 
-français (FR) (282.21 KB - PDF)
+français (FR) (284.36 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/fr/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_fr.pdf)
 
-hrvatski (HR) (386.02 KB - PDF)
+hrvatski (HR) (396.31 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/hr/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_hr.pdf)
 
-íslenska (IS) (309.8 KB - PDF)
+íslenska (IS) (310.21 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/is/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_is.pdf)
 
-italiano (IT) (342.66 KB - PDF)
+italiano (IT) (348.14 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/it/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (411.31 KB - PDF)
+latviešu valoda (LV) (410.17 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/lv/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (397.32 KB - PDF)
+lietuvių kalba (LT) (399.97 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/lt/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_lt.pdf)
 
-magyar (HU) (398.91 KB - PDF)
+magyar (HU) (399.48 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/hu/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_hu.pdf)
 
-Malti (MT) (438.5 KB - PDF)
+Malti (MT) (438.91 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/mt/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_mt.pdf)
 
-Nederlands (NL) (347.43 KB - PDF)
+Nederlands (NL) (347.75 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/nl/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_nl.pdf)
 
-norsk (NO) (304.94 KB - PDF)
+norsk (NO) (305.26 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/no/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_no.pdf)
 
-polski (PL) (415.54 KB - PDF)
+polski (PL) (416.69 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/pl/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_pl.pdf)
 
-português (PT) (313.14 KB - PDF)
+português (PT) (314.33 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/pt/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_pt.pdf)
 
-română (RO) (463.61 KB - PDF)
+română (RO) (465.03 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/ro/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_ro.pdf)
 
-slovenčina (SK) (380.52 KB - PDF)
+slovenčina (SK) (380.84 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/sk/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_sk.pdf)
 
-slovenščina (SL) (398.05 KB - PDF)
+slovenščina (SL) (399.41 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/sl/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_sl.pdf)
 
-Suomi (FI) (313.51 KB - PDF)
+Suomi (FI) (314.62 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/fi/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_fi.pdf)
 
-svenska (SV) (302.41 KB - PDF)
+svenska (SV) (303.16 KB - PDF)
 
-**First published:**
-
-09/03/2009
-
-**Last updated:**
-
-18/12/2025
+**First published:** 09/03/2009 **Last updated:** 24/04/2026
 
 [View](/sv/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000319530 17/12/2025
+**Latest procedure affecting product information:** VR/0000340616
+
+24/04/2026
 
 icon globe
 
@@ -717,312 +439,180 @@ Caelyx pegylated liposomal : EPAR - All Authorised presentations
 
 English (EN) (27.29 KB - PDF)
 
-**First published:** 21/10/2005
-
-**Last updated:** 27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/en/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-957)
+[Other languages (24)](#file-language-dropdown-941)
 
 български (BG) (35.55 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/bg/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (27.47 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/es/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (39.49 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/cs/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (27.15 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/da/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (27.86 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/de/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (24.43 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/et/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (27.37 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/el/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (25.14 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/fr/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (25.42 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/hr/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (26.12 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/is/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (26.55 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/it/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (25.9 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/lv/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (26.6 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/lt/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (25.5 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/hu/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (29.8 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/mt/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (24.51 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/nl/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (26.66 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/no/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (29.26 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/pl/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (25.85 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/pt/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (27.93 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/ro/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (26.33 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/sk/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (24.99 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/sl/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (24.48 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/fi/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (25.27 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-27/03/2020
+**First published:** 21/10/2005 **Last updated:** 27/03/2020
 
 [View](/sv/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Caelyx pegylated liposomal Active substance doxorubicin hydrochloride International non-proprietary name (INN) or common name doxorubicin Therapeutic area (MeSH)
+Name of medicine
+
+Caelyx pegylated liposomal
+
+Active substance
+
+doxorubicin hydrochloride
+
+International non-proprietary name (INN) or common name
+
+doxorubicin
+
+Therapeutic area (MeSH)
 
 - Sarcoma, Kaposi
 - Multiple Myeloma
 - Ovarian Neoplasms
 - Breast Neoplasms
 
-Anatomical therapeutic chemical (ATC) code L01DB
+Anatomical therapeutic chemical (ATC) code
+
+L01DB
 
 ### Pharmacotherapeutic group
 
@@ -1041,13 +631,27 @@ Caelyx pegylated liposomal may be used as first-line systemic chemotherapy, or a
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000089 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000089
+
+Marketing authorisation holder
 
 Baxter Holding B.V.
 
 Kobaltweg 49 3542 CE Utrecht Netherlands
 
-Opinion adopted 15/02/1996 Marketing authorisation issued 20/06/1996 Revision 39
+Opinion adopted
+
+15/02/1996
+
+Marketing authorisation issued
+
+20/06/1996
+
+Revision
+
+40
 
 ## Assessment history
 
@@ -1059,11 +663,9 @@ Collapse section
 
 Caelyx pegylated liposomal : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.09 KB - PDF)
+English (EN) (155.18 KB - PDF)
 
-**First published:** 02/09/2025
-
-**Last updated:** 18/12/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/en/documents/procedural-steps-after/caelyx-pegylated-liposomal-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1071,9 +673,7 @@ Caelyx pegylated liposomal : EPAR - Procedural steps taken and scientific inform
 
 English (EN) (295.34 KB - PDF)
 
-**First published:** 10/03/2009
-
-**Last updated:** 02/09/2025
+**First published:** 10/03/2009 **Last updated:** 02/09/2025
 
 [View](/en/documents/procedural-steps-after/caelyx-pegylated-liposomal-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1089,9 +689,7 @@ English (EN) (102.22 KB - PDF)
 
 Caelyx-H-C-PSUSA-00001172-201811 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/553936/2019
+Adopted Reference Number: EMA/553936/2019
 
 English (EN) (70.79 KB - PDF)
 
@@ -1101,15 +699,11 @@ English (EN) (70.79 KB - PDF)
 
 Caelyx-H-C-89-A20-0061 : EPAR - Assessment Report - Article 20
 
-Adopted
-
-Reference Number: EMA/303401/2012
+Adopted Reference Number: EMA/303401/2012
 
 English (EN) (111.85 KB - PDF)
 
-**First published:** 31/05/2012
-
-**Last updated:** 31/05/2012
+**First published:** 31/05/2012 **Last updated:** 31/05/2012
 
 [View](/en/documents/variation-report/caelyx-h-c-89-a20-0061-epar-assessment-report-article-20_en.pdf)
 
@@ -1117,9 +711,7 @@ Caelyx : EPAR - Steps taken after authorisation when a cutoff date has been used
 
 English (EN) (113.4 KB - PDF)
 
-**First published:** 21/10/2005
-
-**Last updated:** 21/10/2005
+**First published:** 21/10/2005 **Last updated:** 21/10/2005
 
 [View](/en/documents/steps-after-cutoff/caelyx-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
@@ -1129,9 +721,7 @@ Caelyx : EPAR - Scientific Discussion
 
 English (EN) (454.19 KB - PDF)
 
-**First published:** 21/10/2005
-
-**Last updated:** 21/10/2005
+**First published:** 21/10/2005 **Last updated:** 21/10/2005
 
 [View](/en/documents/scientific-discussion/caelyx-epar-scientific-discussion_en.pdf)
 
@@ -1139,233 +729,195 @@ Caelyx : EPAR - Procedural steps taken before authorisation
 
 English (EN) (93.1 KB - PDF)
 
-**First published:** 21/10/2005
-
-**Last updated:** 21/10/2005
+**First published:** 21/10/2005 **Last updated:** 21/10/2005
 
 [View](/en/documents/procedural-steps/caelyx-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### News on Caelyx pegylated liposomal
+## News on Caelyx pegylated liposomal
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2013) 26/04/2013
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2013)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 March 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-march-2012) 16/03/2012
+26/04/2013
 
-[European Medicines Agency recommends transfer of manufacturing sites for Caelyx and Ceplene](/en/news/european-medicines-agency-recommends-transfer-manufacturing-sites-caelyx-ceplene) 16/03/2012
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 March 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-march-2012)
 
-[European Medicines Agency recommends precautionary recall of remaining batch of Vistide manufactured at Ben Venue Laboratories](/en/news/european-medicines-agency-recommends-precautionary-recall-remaining-batch-vistide-manufactured-ben-venue-laboratories) 13/12/2011
+16/03/2012
 
-[European Medicines Agency gives further interim recommendations on dealing with shortcomings in quality assurance at Ben Venue Laboratories](/en/news/european-medicines-agency-gives-further-interim-recommendations-dealing-shortcomings-quality-assurance-ben-venue-laboratories) 09/12/2011
+[European Medicines Agency recommends transfer of manufacturing sites for Caelyx and Ceplene](/en/news/european-medicines-agency-recommends-transfer-manufacturing-sites-caelyx-ceplene)
 
-[European Medicines Agency gives interim recommendations to deal with shortcomings in quality assurance at Ben Venue Laboratories](/en/news/european-medicines-agency-gives-interim-recommendations-deal-shortcomings-quality-assurance-ben-venue-laboratories) 22/11/2011
+16/03/2012
 
-#### Product information - with tracked changes
+[European Medicines Agency recommends precautionary recall of remaining batch of Vistide manufactured at Ben Venue Laboratories](/en/news/european-medicines-agency-recommends-precautionary-recall-remaining-batch-vistide-manufactured-ben-venue-laboratories)
+
+13/12/2011
+
+[European Medicines Agency gives further interim recommendations on dealing with shortcomings in quality assurance at Ben Venue Laboratories](/en/news/european-medicines-agency-gives-further-interim-recommendations-dealing-shortcomings-quality-assurance-ben-venue-laboratories)
+
+09/12/2011
+
+[European Medicines Agency gives interim recommendations to deal with shortcomings in quality assurance at Ben Venue Laboratories](/en/news/european-medicines-agency-gives-interim-recommendations-deal-shortcomings-quality-assurance-ben-venue-laboratories)
+
+22/11/2011
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Caelyx pegylated liposomal : EPAR - Product information - tracked changes
 
-English (EN) (137.31 KB - DOCX)
+English (EN) (204.07 KB - DOCX)
 
-**First published:** 02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/en/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-85)
+[Other languages (24)](#file-language-dropdown-87)
 
-български (BG) (565 KB - DOC)
+български (BG) (156.37 KB - DOCX)
 
-**First published:**
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
-02/09/2025
+[View](/bg/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_bg.docx)
 
-[View](/bg/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_bg.doc)
+español (ES) (488 KB - DOC)
 
-español (ES) (447.5 KB - DOC)
-
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/es/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_es.doc)
 
-čeština (CS) (558.5 KB - DOC)
+čeština (CS) (561.5 KB - DOC)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/cs/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_cs.doc)
 
-dansk (DA) (377 KB - DOC)
+dansk (DA) (392 KB - DOC)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/da/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_da.doc)
 
-Deutsch (DE) (138.95 KB - DOCX)
+Deutsch (DE) (202.11 KB - DOCX)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/de/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (483 KB - DOC)
+eesti keel (ET) (485.5 KB - DOC)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/et/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_et.doc)
 
-ελληνικά (EL) (530.5 KB - DOC)
+ελληνικά (EL) (534 KB - DOC)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/el/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_el.doc)
 
-français (FR) (378 KB - DOC)
+français (FR) (379 KB - DOC)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/fr/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_fr.doc)
 
-hrvatski (HR) (159.38 KB - DOCX)
+hrvatski (HR) (161.02 KB - DOCX)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/hr/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (443.5 KB - DOC)
+íslenska (IS) (459 KB - DOC)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/is/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_is.doc)
 
-italiano (IT) (119.66 KB - DOCX)
+italiano (IT) (121 KB - DOCX)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/it/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (545 KB - DOC)
+latviešu valoda (LV) (563 KB - DOC)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/lv/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_lv.doc)
 
-lietuvių kalba (LT) (523.5 KB - DOC)
+lietuvių kalba (LT) (121.97 KB - DOCX)
 
-**First published:**
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
-02/09/2025
+[View](/lt/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_lt.docx)
 
-[View](/lt/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_lt.doc)
+magyar (HU) (146.8 KB - DOCX)
 
-magyar (HU) (143.35 KB - DOCX)
-
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/hu/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (152.18 KB - DOCX)
+Malti (MT) (213.5 KB - DOCX)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/mt/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (143.72 KB - DOCX)
+Nederlands (NL) (151.97 KB - DOCX)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/nl/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (425.5 KB - DOC)
+norsk (NO) (430.5 KB - DOC)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/no/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_no.doc)
 
-polski (PL) (566 KB - DOC)
+polski (PL) (581 KB - DOC)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/pl/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_pl.doc)
 
-português (PT) (439.5 KB - DOC)
+português (PT) (431.5 KB - DOC)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/pt/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_pt.doc)
 
-română (RO) (538 KB - DOC)
+română (RO) (538.5 KB - DOC)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/ro/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_ro.doc)
 
-slovenčina (SK) (128.75 KB - DOCX)
+slovenčina (SK) (133.08 KB - DOCX)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/sk/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (568 KB - DOC)
+slovenščina (SL) (583.5 KB - DOC)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/sl/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_sl.doc)
 
-Suomi (FI) (136.74 KB - DOCX)
+Suomi (FI) (140.1 KB - DOCX)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/fi/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (413.5 KB - DOC)
+svenska (SV) (415 KB - DOC)
 
-**First published:**
-
-02/09/2025
+**First published:** 02/09/2025 **Last updated:** 24/04/2026
 
 [View](/sv/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_sv.doc)
 
-#### More information on Caelyx
+## More information on Caelyx
 
 Questions and answers on the supply situation of Caelyx
 
@@ -1373,9 +925,7 @@ Reference Number: EMA/254938/2013
 
 English (EN) (71.22 KB - PDF)
 
-**First published:** 26/04/2013
-
-**Last updated:** 26/04/2013
+**First published:** 26/04/2013 **Last updated:** 26/04/2013
 
 [View](/en/documents/medicine-qa/questions-and-answers-supply-situation-caelyx_en.pdf)
 
@@ -1385,9 +935,7 @@ Reference Number: EMA/664564/2012
 
 English (EN) (81.05 KB - PDF)
 
-**First published:** 30/10/2012
-
-**Last updated:** 30/10/2012
+**First published:** 30/10/2012 **Last updated:** 30/10/2012
 
 [View](/en/documents/medicine-qa/questions-and-answers-updated-recommendations-use-caelyx-doxorubicin-hydrochloride_en.pdf)
 
@@ -1397,9 +945,7 @@ Reference Number: EMA/178766/2012
 
 English (EN) (173.81 KB - PDF)
 
-**First published:** 16/03/2012
-
-**Last updated:** 16/03/2012
+**First published:** 16/03/2012 **Last updated:** 16/03/2012
 
 [View](/en/documents/medicine-qa/questions-and-answers-final-recommendations-caelyx-and-ceplene-manufactured-ben-venue-laboratories_en.pdf)
 
@@ -1409,9 +955,7 @@ Reference Number: EMA/946321/2011
 
 English (EN) (71.91 KB - PDF)
 
-**First published:** 13/12/2011
-
-**Last updated:** 13/12/2011
+**First published:** 13/12/2011 **Last updated:** 13/12/2011
 
 [View](/en/documents/medicine-qa/questions-and-answers-shortcomings-quality-assurance-ben-venue-laboratories_en.pdf)
 
@@ -1421,9 +965,7 @@ Reference Number: EMA/914175/2011
 
 English (EN) (79.05 KB - PDF)
 
-**First published:** 22/11/2011
-
-**Last updated:** 22/11/2011
+**First published:** 22/11/2011 **Last updated:** 22/11/2011
 
 [View](/en/documents/medicine-qa/recommendations-use-caelyx-doxorubicin-hydrochloride_en.pdf)
 
@@ -1433,9 +975,7 @@ Reference Number: EMA/718827/2011
 
 English (EN) (79.06 KB - PDF)
 
-**First published:** 09/09/2011
-
-**Last updated:** 09/09/2011
+**First published:** 09/09/2011 **Last updated:** 09/09/2011
 
 [View](/en/documents/medicine-qa/shortage-caelyx-doxorubicin-hydrochloride_en.pdf)
 
@@ -1445,18 +985,16 @@ Reference Number: EMA/615191/2011
 
 English (EN) (79.13 KB - PDF)
 
-**First published:** 08/08/2011
-
-**Last updated:** 08/08/2011
+**First published:** 08/08/2011 **Last updated:** 08/08/2011
 
 [View](/en/documents/medicine-qa/likely-shortage-caelyx-doxorubicin-hydrochloride_en.pdf)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 18/12/2025
+**This page was last updated on**
+
+24/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

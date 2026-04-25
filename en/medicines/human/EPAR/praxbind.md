@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 09:47:21
+document_datetime: 2026-04-23 16:28:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/praxbind.html
 document_name: praxbind.html
 version: success
-processing_time: 0.1140742
-conversion_datetime: 2025-12-30 00:26:25.493423
+processing_time: 0.1245012
+conversion_datetime: 2026-04-25 16:23:04.046831
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Praxbind
 
 [RSS](/en/individual-human-medicine.xml/65580)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-idarucizumab Medicine Human Authorised
+idarucizumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -102,275 +102,141 @@ Praxbind : EPAR - Summary for the public
 
 English (EN) (72.87 KB - PDF)
 
-**First published:** 01/12/2015
-
-**Last updated:** 01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/en/documents/overview/praxbind-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-257)
+[Other languages (22)](#file-language-dropdown-645)
 
 български (BG) (97.14 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/bg/documents/overview/praxbind-epar-summary-public_bg.pdf)
 
 español (ES) (71.87 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/es/documents/overview/praxbind-epar-summary-public_es.pdf)
 
 čeština (CS) (95.92 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/cs/documents/overview/praxbind-epar-summary-public_cs.pdf)
 
 dansk (DA) (77.5 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/da/documents/overview/praxbind-epar-summary-public_da.pdf)
 
 Deutsch (DE) (73.78 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/de/documents/overview/praxbind-epar-summary-public_de.pdf)
 
 eesti keel (ET) (70.68 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/et/documents/overview/praxbind-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (98.61 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/el/documents/overview/praxbind-epar-summary-public_el.pdf)
 
 français (FR) (72.57 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/fr/documents/overview/praxbind-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (91.46 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/hr/documents/overview/praxbind-epar-summary-public_hr.pdf)
 
 italiano (IT) (71.21 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/it/documents/overview/praxbind-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (92.77 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/lv/documents/overview/praxbind-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (93.39 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/lt/documents/overview/praxbind-epar-summary-public_lt.pdf)
 
 magyar (HU) (92.02 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/hu/documents/overview/praxbind-epar-summary-public_hu.pdf)
 
 Malti (MT) (95.89 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/mt/documents/overview/praxbind-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (71.33 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/nl/documents/overview/praxbind-epar-summary-public_nl.pdf)
 
 polski (PL) (96.28 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/pl/documents/overview/praxbind-epar-summary-public_pl.pdf)
 
 português (PT) (71.79 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/pt/documents/overview/praxbind-epar-summary-public_pt.pdf)
 
 română (RO) (91.78 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/ro/documents/overview/praxbind-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (94.95 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/sk/documents/overview/praxbind-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (88.39 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/sl/documents/overview/praxbind-epar-summary-public_sl.pdf)
 
 Suomi (FI) (71.25 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/fi/documents/overview/praxbind-epar-summary-public_fi.pdf)
 
 svenska (SV) (71.27 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/sv/documents/overview/praxbind-epar-summary-public_sv.pdf)
 
@@ -378,9 +244,7 @@ Praxbind : EPAR - Risk management plan
 
 English (EN) (715.9 KB - PDF)
 
-**First published:** 01/12/2015
-
-**Last updated:** 21/11/2024
+**First published:** 01/12/2015 **Last updated:** 21/11/2024
 
 [View](/en/documents/rmp/praxbind-epar-risk-management-plan_en.pdf)
 
@@ -388,305 +252,161 @@ English (EN) (715.9 KB - PDF)
 
 Praxbind : EPAR - Product Information
 
-English (EN) (527.58 KB - PDF)
+English (EN) (607.07 KB - PDF)
 
-**First published:** 01/12/2015
-
-**Last updated:** 21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/en/documents/product-information/praxbind-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-664)
+[Other languages (24)](#file-language-dropdown-866)
 
-български (BG) (441.23 KB - PDF)
+български (BG) (777.12 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/bg/documents/product-information/praxbind-epar-product-information_bg.pdf)
 
-español (ES) (939.87 KB - PDF)
+español (ES) (711.71 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/es/documents/product-information/praxbind-epar-product-information_es.pdf)
 
-čeština (CS) (415.23 KB - PDF)
+čeština (CS) (758.31 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/cs/documents/product-information/praxbind-epar-product-information_cs.pdf)
 
-dansk (DA) (405.46 KB - PDF)
+dansk (DA) (687.75 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/da/documents/product-information/praxbind-epar-product-information_da.pdf)
 
-Deutsch (DE) (422.5 KB - PDF)
+Deutsch (DE) (708.59 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/de/documents/product-information/praxbind-epar-product-information_de.pdf)
 
-eesti keel (ET) (839.97 KB - PDF)
+eesti keel (ET) (678 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/et/documents/product-information/praxbind-epar-product-information_et.pdf)
 
-ελληνικά (EL) (441.24 KB - PDF)
+ελληνικά (EL) (774.8 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/el/documents/product-information/praxbind-epar-product-information_el.pdf)
 
-français (FR) (924.54 KB - PDF)
+français (FR) (1.04 MB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/fr/documents/product-information/praxbind-epar-product-information_fr.pdf)
 
-hrvatski (HR) (410.59 KB - PDF)
+hrvatski (HR) (749.5 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/hr/documents/product-information/praxbind-epar-product-information_hr.pdf)
 
-íslenska (IS) (442.43 KB - PDF)
+íslenska (IS) (526.49 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/is/documents/product-information/praxbind-epar-product-information_is.pdf)
 
-italiano (IT) (420.33 KB - PDF)
+italiano (IT) (752.73 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/it/documents/product-information/praxbind-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (392.36 KB - PDF)
+latviešu valoda (LV) (729.33 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/lv/documents/product-information/praxbind-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (426.28 KB - PDF)
+lietuvių kalba (LT) (769.25 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/lt/documents/product-information/praxbind-epar-product-information_lt.pdf)
 
-magyar (HU) (327.91 KB - PDF)
+magyar (HU) (665.19 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/hu/documents/product-information/praxbind-epar-product-information_hu.pdf)
 
-Malti (MT) (644.3 KB - PDF)
+Malti (MT) (712.04 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/mt/documents/product-information/praxbind-epar-product-information_mt.pdf)
 
-Nederlands (NL) (430.96 KB - PDF)
+Nederlands (NL) (714.69 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/nl/documents/product-information/praxbind-epar-product-information_nl.pdf)
 
-norsk (NO) (403.62 KB - PDF)
+norsk (NO) (691.12 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/no/documents/product-information/praxbind-epar-product-information_no.pdf)
 
-polski (PL) (865.68 KB - PDF)
+polski (PL) (739.05 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/pl/documents/product-information/praxbind-epar-product-information_pl.pdf)
 
-português (PT) (857.01 KB - PDF)
+português (PT) (701.98 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/pt/documents/product-information/praxbind-epar-product-information_pt.pdf)
 
-română (RO) (372.2 KB - PDF)
+română (RO) (720.7 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/ro/documents/product-information/praxbind-epar-product-information_ro.pdf)
 
-slovenčina (SK) (388.84 KB - PDF)
+slovenčina (SK) (729.95 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/sk/documents/product-information/praxbind-epar-product-information_sk.pdf)
 
-slovenščina (SL) (436.49 KB - PDF)
+slovenščina (SL) (735.46 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/sl/documents/product-information/praxbind-epar-product-information_sl.pdf)
 
-Suomi (FI) (414.67 KB - PDF)
+Suomi (FI) (705.99 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/fi/documents/product-information/praxbind-epar-product-information_fi.pdf)
 
-svenska (SV) (410.12 KB - PDF)
+svenska (SV) (698.38 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-21/11/2024
+**First published:** 01/12/2015 **Last updated:** 23/04/2026
 
 [View](/sv/documents/product-information/praxbind-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0035 20/11/2024
+**Latest procedure affecting product information:** N/0000342414
+
+23/04/2026
 
 icon globe
 
@@ -706,305 +426,177 @@ Praxbind : EPAR - All Authorised presentations
 
 English (EN) (22.05 KB - PDF)
 
-**First published:** 01/12/2015
-
-**Last updated:** 01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/en/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-35)
+[Other languages (24)](#file-language-dropdown-59)
 
 български (BG) (24.37 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/bg/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (21.75 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/es/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (22.78 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/cs/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (22.7 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/da/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (23.44 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/de/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (21.26 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/et/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (23.05 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/el/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (22.01 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/fr/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (22.15 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/hr/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (22.8 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/is/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (21.36 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/it/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (22.57 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/lv/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (22.62 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/lt/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (21.85 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/hu/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (22.75 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/mt/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (21.46 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/nl/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (22.62 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/no/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (23.11 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/pl/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (22.3 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/pt/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (22.09 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/ro/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (22.99 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/sk/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (21.78 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/sl/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (20.59 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/fi/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (21 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/sv/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Praxbind Active substance idarucizumab International non-proprietary name (INN) or common name idarucizumab Therapeutic area (MeSH) Hemorrhage Anatomical therapeutic chemical (ATC) code V03AB
+Name of medicine
+
+Praxbind
+
+Active substance
+
+idarucizumab
+
+International non-proprietary name (INN) or common name
+
+idarucizumab
+
+Therapeutic area (MeSH)
+
+Hemorrhage
+
+Anatomical therapeutic chemical (ATC) code
+
+V03AB
 
 ### Pharmacotherapeutic group
 
@@ -1019,7 +611,9 @@ Praxbind is a specific reversal agent for dabigatran and is indicated in adult p
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/003986
+EMA product number
+
+EMEA/H/C/003986
 
 Accelerated assessment
 
@@ -1031,7 +625,17 @@ Boehringer Ingelheim International GmbH
 
 Binger Strasse 173
 
-Opinion adopted 24/09/2015 Marketing authorisation issued 20/11/2015 Revision 13
+Opinion adopted
+
+24/09/2015
+
+Marketing authorisation issued
+
+20/11/2015
+
+Revision
+
+14
 
 ## Assessment history
 
@@ -1043,65 +647,67 @@ Collapse section
 
 Praxbind : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (137.32 KB - PDF)
+English (EN) (148.11 KB - PDF)
 
-**First published:** 07/09/2016
-
-**Last updated:** 21/11/2024
+**First published:** 23/04/2026
 
 [View](/en/documents/procedural-steps-after/praxbind-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Praxbind : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (137.32 KB - PDF)
+
+**First published:** 07/09/2016 **Last updated:** 23/04/2026
+
+[View](/en/documents/procedural-steps-after/praxbind-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Praxbind : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/713107/2015
+Adopted Reference Number: EMA/713107/2015
 
 English (EN) (3.39 MB - PDF)
 
-**First published:** 01/12/2015
-
-**Last updated:** 01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/en/documents/assessment-report/praxbind-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Praxbind
 
-Adopted
-
-Reference Number: EMA/CHMP/575990/2015
+Adopted Reference Number: EMA/CHMP/575990/2015
 
 English (EN) (68.01 KB - PDF)
 
-**First published:** 25/09/2015
-
-**Last updated:** 25/09/2015
+**First published:** 25/09/2015 **Last updated:** 25/09/2015
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-praxbind_en.pdf)
 
-#### News on Praxbind
+## News on Praxbind
 
-[EMA fast-tracks antidote to anticoagulant Pradaxa](/en/news/ema-fast-tracks-antidote-anticoagulant-pradaxa) 25/09/2015
+[EMA fast-tracks antidote to anticoagulant Pradaxa](/en/news/ema-fast-tracks-antidote-anticoagulant-pradaxa)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 September 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-september-2015) 25/09/2015
+25/09/2015
 
-#### Related information
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 September 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-september-2015)
+
+25/09/2015
+
+## Related information
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/search?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-1=1=EMEAHC0039860000) (initial marketing authorisation)
 
-#### More information on Praxbind
+## More information on Praxbind
 
 - [EMEA-001438-PIP01-13-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001438-pip01-13-m01)
 - [Post marketing surveillance program of PraxbindTM use in (PraxbindTM India PMS program) - post-authorisation study](https://catalogues.ema.europa.eu/study/34131)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 21/11/2024
+**This page was last updated on**
+
+23/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

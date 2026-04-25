@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-16 15:45:00
+document_datetime: 2026-04-23 17:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/terrosa.html
 document_name: terrosa.html
 version: success
-processing_time: 0.1207461
-conversion_datetime: 2026-01-17 13:20:34.519204
+processing_time: 0.1151382
+conversion_datetime: 2026-04-25 16:21:23.134907
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Terrosa
 
 [RSS](/en/individual-human-medicine.xml/65525)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-teriparatide Medicine Human Authorised
+teriparatide
+
+Medicine Human Authorised
 
 Page contents
 
@@ -36,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Terrosa](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-85581)
 - [Related content](#related-content-455)
 - [Topics](#topics)
 
@@ -107,227 +110,117 @@ Terrosa : EPAR - Summary for the public
 
 English (EN) (81.3 KB - PDF)
 
-**First published:** 16/03/2017
-
-**Last updated:** 16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/en/documents/overview/terrosa-epar-summary-public_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-41)
+[Other languages (18)](#file-language-dropdown-496)
 
 español (ES) (80.41 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/es/documents/overview/terrosa-epar-summary-public_es.pdf)
 
 eesti keel (ET) (78.6 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/et/documents/overview/terrosa-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (108.58 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/el/documents/overview/terrosa-epar-summary-public_el.pdf)
 
 français (FR) (80.94 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/fr/documents/overview/terrosa-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (100.09 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/hr/documents/overview/terrosa-epar-summary-public_hr.pdf)
 
 italiano (IT) (73.93 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/it/documents/overview/terrosa-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (101.78 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/lv/documents/overview/terrosa-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (103.41 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/lt/documents/overview/terrosa-epar-summary-public_lt.pdf)
 
 magyar (HU) (99.61 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/hu/documents/overview/terrosa-epar-summary-public_hu.pdf)
 
 Malti (MT) (105.81 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/mt/documents/overview/terrosa-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (80.71 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/nl/documents/overview/terrosa-epar-summary-public_nl.pdf)
 
 polski (PL) (105.78 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/pl/documents/overview/terrosa-epar-summary-public_pl.pdf)
 
 português (PT) (80.22 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/pt/documents/overview/terrosa-epar-summary-public_pt.pdf)
 
 română (RO) (101.05 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/ro/documents/overview/terrosa-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (103.58 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/sk/documents/overview/terrosa-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (97.28 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/sl/documents/overview/terrosa-epar-summary-public_sl.pdf)
 
 Suomi (FI) (78.71 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/fi/documents/overview/terrosa-epar-summary-public_fi.pdf)
 
 svenska (SV) (79.77 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/sv/documents/overview/terrosa-epar-summary-public_sv.pdf)
 
@@ -335,9 +228,7 @@ Terrosa : EPAR - Risk-management-plan summary
 
 English (EN) (86.18 KB - PDF)
 
-**First published:** 28/10/2020
-
-**Last updated:** 03/11/2021
+**First published:** 28/10/2020 **Last updated:** 03/11/2021
 
 [View](/en/documents/rmp-summary/terrosa-epar-risk-management-plan-summary_en.pdf)
 
@@ -345,305 +236,161 @@ English (EN) (86.18 KB - PDF)
 
 Terrosa : EPAR - Product Information
 
-English (EN) (1.44 MB - PDF)
+English (EN) (1.47 MB - PDF)
 
-**First published:** 16/03/2017
-
-**Last updated:** 16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/en/documents/product-information/terrosa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-238)
+[Other languages (24)](#file-language-dropdown-186)
 
 български (BG) (1.55 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/bg/documents/product-information/terrosa-epar-product-information_bg.pdf)
 
-español (ES) (1.52 MB - PDF)
+español (ES) (1.6 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/es/documents/product-information/terrosa-epar-product-information_es.pdf)
 
-čeština (CS) (1.47 MB - PDF)
+čeština (CS) (1.54 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/cs/documents/product-information/terrosa-epar-product-information_cs.pdf)
 
 dansk (DA) (1.53 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/da/documents/product-information/terrosa-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.5 MB - PDF)
+Deutsch (DE) (1.53 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/de/documents/product-information/terrosa-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.47 MB - PDF)
+eesti keel (ET) (1.6 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/et/documents/product-information/terrosa-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.64 MB - PDF)
+ελληνικά (EL) (1.71 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/el/documents/product-information/terrosa-epar-product-information_el.pdf)
 
-français (FR) (1.41 MB - PDF)
+français (FR) (1.76 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/fr/documents/product-information/terrosa-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.66 MB - PDF)
+hrvatski (HR) (1.75 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/hr/documents/product-information/terrosa-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.6 MB - PDF)
+íslenska (IS) (1.67 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/is/documents/product-information/terrosa-epar-product-information_is.pdf)
 
-italiano (IT) (1.55 MB - PDF)
+italiano (IT) (1.62 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/it/documents/product-information/terrosa-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.58 MB - PDF)
+latviešu valoda (LV) (1.64 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/lv/documents/product-information/terrosa-epar-product-information_lv.pdf)
 
 lietuvių kalba (LT) (1.43 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/lt/documents/product-information/terrosa-epar-product-information_lt.pdf)
 
-magyar (HU) (1.74 MB - PDF)
+magyar (HU) (1.8 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/hu/documents/product-information/terrosa-epar-product-information_hu.pdf)
 
-Malti (MT) (1.57 MB - PDF)
+Malti (MT) (1.69 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/mt/documents/product-information/terrosa-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.4 MB - PDF)
+Nederlands (NL) (1.42 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/nl/documents/product-information/terrosa-epar-product-information_nl.pdf)
 
-norsk (NO) (1.63 MB - PDF)
+norsk (NO) (1.56 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/no/documents/product-information/terrosa-epar-product-information_no.pdf)
 
-polski (PL) (1.71 MB - PDF)
+polski (PL) (1.8 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/pl/documents/product-information/terrosa-epar-product-information_pl.pdf)
 
-português (PT) (1.72 MB - PDF)
+português (PT) (1.81 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/pt/documents/product-information/terrosa-epar-product-information_pt.pdf)
 
-română (RO) (1.6 MB - PDF)
+română (RO) (1.67 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/ro/documents/product-information/terrosa-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.53 MB - PDF)
+slovenčina (SK) (1.61 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/sk/documents/product-information/terrosa-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.51 MB - PDF)
+slovenščina (SL) (1.67 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/sl/documents/product-information/terrosa-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.44 MB - PDF)
+Suomi (FI) (1.49 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/fi/documents/product-information/terrosa-epar-product-information_fi.pdf)
 
-svenska (SV) (1.63 MB - PDF)
+svenska (SV) (1.7 MB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 16/03/2017 **Last updated:** 23/04/2026
 
 [View](/sv/documents/product-information/terrosa-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000320160 16/01/2026
+**Latest procedure affecting product information:** N/0000332460
+
+23/04/2026
 
 icon globe
 
@@ -663,305 +410,177 @@ Terrosa : EPAR - All Authorised presentations
 
 English (EN) (16.07 KB - PDF)
 
-**First published:** 16/03/2017
-
-**Last updated:** 23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/en/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-306)
+[Other languages (24)](#file-language-dropdown-854)
 
 български (BG) (42.41 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/bg/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (16.12 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/es/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (37.35 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/cs/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (18.35 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/da/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (18.18 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/de/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (18.09 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/et/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (38.61 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/el/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (17.91 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/fr/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (26.92 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/hr/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (18.34 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/is/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (15.92 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/it/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (39.14 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/lv/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (27.2 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/lt/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (33.28 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/hu/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (39 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/mt/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (17.8 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/nl/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (18.72 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/no/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (39.59 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/pl/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (17.88 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/pt/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (37.42 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/ro/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (33.09 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/sk/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (24.11 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/sl/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (18.17 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/fi/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (18.42 KB - PDF)
 
-**First published:**
-
-16/03/2017
-
-**Last updated:**
-
-23/03/2023
+**First published:** 16/03/2017 **Last updated:** 23/03/2023
 
 [View](/sv/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Terrosa Active substance teriparatide International non-proprietary name (INN) or common name teriparatide Therapeutic area (MeSH) Osteoporosis Anatomical therapeutic chemical (ATC) code H05AA02
+Name of medicine
+
+Terrosa
+
+Active substance
+
+teriparatide
+
+International non-proprietary name (INN) or common name
+
+teriparatide
+
+Therapeutic area (MeSH)
+
+Osteoporosis
+
+Anatomical therapeutic chemical (ATC) code
+
+H05AA02
 
 ### Pharmacotherapeutic group
 
@@ -977,7 +596,9 @@ Treatment of osteoporosis associated with sustained systemic glucocorticoid ther
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/003916
+EMA product number
+
+EMEA/H/C/003916
 
 Biosimilar
 
@@ -989,7 +610,17 @@ Gedeon Richter Plc.
 
 Gyomroi ut 19-21
 
-Opinion adopted 10/11/2016 Marketing authorisation issued 04/01/2017 Revision 7
+Opinion adopted
+
+10/11/2016
+
+Marketing authorisation issued
+
+04/01/2017
+
+Revision
+
+8
 
 ## Assessment history
 
@@ -1001,9 +632,9 @@ Collapse section
 
 Terrosa : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (123.88 KB - PDF)
+English (EN) (146.06 KB - PDF)
 
-**First published:** 16/01/2026
+**First published:** 16/01/2026 **Last updated:** 23/04/2026
 
 [View](/en/documents/procedural-steps-after/terrosa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1011,9 +642,7 @@ Terrosa : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (133.71 KB - PDF)
 
-**First published:** 05/05/2017
-
-**Last updated:** 16/01/2026
+**First published:** 05/05/2017 **Last updated:** 16/01/2026
 
 [View](/en/documents/procedural-steps-after/terrosa-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1021,47 +650,199 @@ English (EN) (133.71 KB - PDF)
 
 Terrosa : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/84371/2017
+Adopted Reference Number: EMA/84371/2017
 
 English (EN) (659.21 KB - PDF)
 
-**First published:** 16/03/2017
-
-**Last updated:** 16/03/2017
+**First published:** 16/03/2017 **Last updated:** 16/03/2017
 
 [View](/en/documents/assessment-report/terrosa-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Terrosa
 
-Adopted
-
-Reference Number: EMA/CHMP/714649/2016
+Adopted Reference Number: EMA/CHMP/714649/2016
 
 English (EN) (61.63 KB - PDF)
 
-**First published:** 11/11/2016
-
-**Last updated:** 11/11/2016
+**First published:** 11/11/2016 **Last updated:** 11/11/2016
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-terrosa_en.pdf)
 
-#### News on Terrosa
+## News on Terrosa
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2016) 11/11/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2016)
 
-#### Related content
+11/11/2016
+
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Terrosa : EPAR - Product information - tracked changes
+
+English (EN) (1.43 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/en/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-562)
+
+български (BG) (1.5 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/bg/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (1.25 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/es/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (1.31 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/cs/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (1.46 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/da/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (1.31 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/de/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (1.39 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/et/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (1.53 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/el/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (1.64 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/fr/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (1.45 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/hr/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (1.39 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/is/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (1.39 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/it/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (1.44 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/lv/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (1.4 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/lt/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (1.42 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/hu/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (1.5 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/mt/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (1.39 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/nl/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (1.41 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/no/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (1.32 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/pl/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (1.74 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/pt/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (1.42 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/ro/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (1.39 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/sk/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (1.43 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/sl/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (1.35 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/fi/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (1.42 MB - DOCX)
+
+**First published:** 23/04/2026
+
+[View](/sv/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_sv.docx)
+
+## Related content
 
 - [Biosimilar medicines](/en/human-regulatory/overview/biosimilar-medicines)
 
-#### Topics
+## Topics
 
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 16/01/2026
+**This page was last updated on**
+
+23/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

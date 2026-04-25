@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-31 13:07:49
+document_datetime: 2026-04-22 14:09:28
 document_pages: 103
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/erleada-epar-product-information_en.pdf
 document_name: erleada-epar-product-information_en.pdf
 version: success
-processing_time: 25.0013122
-conversion_datetime: 2026-04-01 12:25:26.524641
+processing_time: 20.8128416
+conversion_datetime: 2026-04-25 16:56:48.277099
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
+  docling-serve: 1.16.1
+  docling-jobkit: 1.17.1
+  docling: 2.90.0
+  docling-core: 2.74.0
   docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-parse: 5.9.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -216,6 +216,10 @@ Based on in vitro data, inhibition of organic cation transporter 2 (OCT2), organ
 
 In mHSPC subjects receiving leuprolide acetate (a GnRH analogue), co-administration with apalutamide had no apparent effect on the steady-state exposure of leuprolide.
 
+## Laboratory test interference
+
+Falsely elevated digoxin plasma level results with the chemiluminescent microparticle immunoassay (CMIA) have been identified in patients treated with apalutamide, independently of being treated with digoxin. Therefore, results of digoxin plasma levels obtained by CMIA should be interpreted with caution and confirmed by another type of assay before taking any action with digoxin doses.
+
 ## Medicinal products which prolong the QT interval
 
 Since androgen deprivation treatment may prolong the QT interval, the concomitant use of Erleada with medicinal products known to prolong the QT interval or medicinal products able to induce Torsade de pointes such as class IA (e.g., quinidine, disopyramide) or class III (e.g., amiodarone, sotalol, dofetilide, ibutilide) antiarrhythmic medicinal products, methadone, moxifloxacin, antipsychotics (e.g. haloperidol), etc. should be carefully evaluated (see section 4.4).
@@ -234,11 +238,11 @@ It is not known whether apalutamide or its metabolites are present in semen. Erl
 
 Erleada is contraindicated in women who are or may become pregnant (see section 4.3). Based on an animal reproductive study and its mechanism of action, Erleada may cause foetal harm and loss of pregnancy when administered to a pregnant woman. There are no data available from the use of Erleada in pregnant women.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Breast-feeding
 
 It is unknown whether apalutamide/metabolites are excreted in human milk. A risk to the suckling child cannot be excluded. Erleada should not be used during breast-feeding.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -293,7 +297,9 @@ Table 1: Adverse reactions
 d Includes angina pectoris, angina unstable, myocardial infarction, acute myocardial infarction, coronary artery occlusion, coronary artery stenosis, acute coronary syndrome, arteriosclerosis coronary artery, cardiac stress test abnormal, troponin increased, myocardial ischaemia
 
 - e See section 4.4
-- f See 'Skin rash' under 'Description of selected adverse reactions'
+
+f See 'Skin rash' under 'Description of selected adverse reactions'
+
 - g Includes rib fracture, lumbar vertebral fracture, spinal compression fracture, spinal fracture, foot fracture, hip fracture, humerus fracture, thoracic vertebral fracture, upper limb fracture, fractured sacrum, hand fracture, pubis fracture, acetabulum fracture, ankle fracture, compression fracture, costal cartilage fracture, facial bones fracture, lower limb fracture, osteoporotic fracture, wrist fracture, avulsion fracture, fibula fracture, fractured coccyx, pelvic fracture, radius fracture, sternal fracture, stress fracture, traumatic fracture, cervical vertebral fracture, femoral neck fracture, tibia fracture. See below.
 
 ## Description of selected adverse reactions
@@ -394,6 +400,10 @@ A statistically significant improvement in OS and rPFS was demonstrated in patie
 
 <div style=\"page-break-after: always\"></div>
 
+% of subjects without event population (TITAN)
+
+100·
+
 with a median follow-up of 44 months. Results from this updated analysis were consistent with those from the pre-specified interim analysis. The improvement in OS was demonstrated even though 39% of patients in the placebo arm crossed over to receive Erleada, with a median treatment of 15 months on Erleada crossover.
 
 Consistent improvement in rPFS was observed across patient subgroups including high- or lowvolume disease, metastasis stage at diagnosis (M0 or M1), prior docetaxel use (yes or no), age (&lt; 65, ≥ 65, or ≥ 75 years old), baseline PSA above median (yes or no), and number of bone lesions (≤ 10 or &gt; 10).
@@ -402,11 +412,37 @@ Consistent improvement in OS was observed across patient subgroups including hig
 
 Figure 1: Kaplan-Meier plot of updated overall survival (OS); Intent-to-treat mHSPC population (TITAN)
 
+20-
+
+0-
+
+Subjects at risk
+
+Placebo
+
+Apalutamide
+
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
+% of subjects without event
+
+BOOI
+
 Figure 2: Kaplan-Meier plot of radiographic progression-free survival (rPFS); Intent-to-treat mHSPC population (TITAN)
+
+60 1
+
+40-
+
+20-
+
+Subjects at risk
+
+Placebo
+
+Apalutamide
 
 <!-- image -->
 
@@ -416,15 +452,31 @@ Treatment with Erleada statistically significantly delayed the initiation of cyt
 
 A total of 1207 subjects with NM-CRPC were randomised 2:1 to receive either apalutamide orally at a dose of 240 mg once daily in combination with androgen deprivation therapy (ADT) (medical castration or prior surgical castration) or placebo with ADT in a multicentre, double-blind, clinical study (Study ARN-509-003). Subjects enrolled had a Prostate Specific Antigen (PSA) Doubling Time (PSADT) ≤ 10 months, considered to be at high risk of imminent metastatic disease and prostate cancer-specific death. All subjects who were not surgically castrated received ADT continuously throughout the study. PSA results were blinded and were not used for treatment discontinuation. Subjects randomised to either arm were to continue treatment until disease progression defined by blinded central imaging review (BICR), initiation of new treatment, unacceptable toxicity or withdrawal.
 
-The following patient demographics and baseline disease characteristics were balanced between the treatment arms. The median age was 74 years (range 48-97) and 26% of subjects were 80 years of age or older. The racial distribution was 66% Caucasian, 5.6% Black, 12% Asian, and 0.2% Other. Seventy-seven percent (77%) of subjects in both treatment arms had prior surgery or radiotherapy of the prostate. A majority of subjects had a Gleason score of 7 or higher (81%). Fifteen percent (15%) of subjects had &lt; 2 cm pelvic lymph nodes at study entry. Seventy-three percent (73%) of subjects received prior treatment with a first generation anti-androgen; 69% of subjects received bicalutamide
+The following patient demographics and baseline disease characteristics were balanced between the treatment arms. The median age was 74 years (range 48-97) and 26% of subjects were 80 years of age or older. The racial distribution was 66% Caucasian, 5.6% Black, 12% Asian, and 0.2% Other. Seventy-seven percent (77%) of subjects in both treatment arms had prior surgery or radiotherapy of the prostate. A majority of subjects had a Gleason score of 7 or higher (81%). Fifteen percent (15%) of subjects had &lt; 2 cm pelvic lymph nodes at study entry. Seventy-three percent (73%) of subjects received prior treatment with a first generation anti-androgen; 69% of subjects received bicalutamide mHSPC population (TITAN)
+
+100
 
 <div style=\"page-break-after: always\"></div>
 
+Figure 3: Kaplan-Meier metastasis-free survival (MFS) curve in Study ARN-509-003
+
+100
+
 and 10% of subjects received flutamide. All subjects enrolled were confirmed to be non-metastatic by blinded central imaging review and had an Eastern Cooperative Oncology Group Performance Status (ECOG PS) performance status score of 0 or 1 at study entry.
+
+60-
 
 Metastasis-free survival (MFS) was the primary endpoint, defined as the time from randomisation to the time of first evidence of BICR-confirmed bone or soft tissue distant metastasis or death due to any cause, whichever occurred first. Treatment with Erleada significantly improved MFS. Erleada decreased the relative risk of distant metastasis or death by 70% compared to placebo (HR = 0.30; 95% CI: 0.24, 0.36; p &lt; 0.0001). The median MFS for Erleada was 41 months and was 16 months for placebo (see Figure 3). Consistent improvement in MFS with Erleada was observed for all pre-specified subgroups, including age, race, region of the world, nodal status, prior number of hormonal therapies, baseline PSA, PSA doubling time, baseline ECOG status and use of bone-sparing agents.
 
+% of Subjects without Metastasis or Death
+
 Figure 3: Kaplan-Meier metastasis-free survival (MFS) curve in Study ARN-509-003
+
+Subjects at risk
+
+Placebo
+
+Apalutamide
 
 <!-- image -->
 
@@ -434,9 +486,25 @@ Time to symptomatic progression was defined as time from randomisation to develo
 
 <div style=\"page-break-after: always\"></div>
 
+Figure 4:
+
+100 - of Subjects without Death
+
+Kaplan-Meier overall survival (OS) curve in Study ARN-509-003 at final analys
+
+80-
+
 With median follow-up time of 52.0 months, results showed that treatment with Erleada significantly decreased the risk of death by 22% compared with placebo (HR = 0.784; 95% CI: 0.643, 0.956; 2-sided p = 0.0161). The median OS was 73.9 months for the Erleada arm and 59.9 months for the placebo arm. The pre-specified alpha boundary (p ≤ 0.046) was crossed and statistical significance was achieved. This improvement was demonstrated even though 19% of patients in the placebo arm received Erleada as subsequent therapy.
 
 Figure 4: Kaplan-Meier overall survival (OS) curve in Study ARN-509-003 at final analysis
+
+20-
+
+Subjects at risk
+
+Apalutamide
+
+Placebo
 
 <!-- image -->
 
@@ -793,6 +861,10 @@ Based on in vitro data, inhibition of organic cation transporter 2 (OCT2), organ
 
 In mHSPC subjects receiving leuprolide acetate (a GnRH analogue), co-administration with apalutamide had no apparent effect on the steady-state exposure of leuprolide.
 
+## Laboratory test interference
+
+Falsely elevated digoxin plasma level results with the chemiluminescent microparticle immunoassay (CMIA) have been identified in patients treated with apalutamide, independently of being treated with digoxin. Therefore, results of digoxin plasma levels obtained by CMIA should be interpreted with caution and confirmed by another type of assay before taking any action with digoxin doses.
+
 ## Medicinal products which prolong the QT interval
 
 Since androgen deprivation treatment may prolong the QT interval, the concomitant use of Erleada with medicinal products known to prolong the QT interval or medicinal products able to induce Torsade de pointes such as class IA (e.g., quinidine, disopyramide) or class III (e.g., amiodarone, sotalol, dofetilide, ibutilide) antiarrhythmic medicinal products, methadone, moxifloxacin, antipsychotics (e.g. haloperidol), etc. should be carefully evaluated (see section 4.4).
@@ -811,11 +883,11 @@ It is not known whether apalutamide or its metabolites are present in semen. Erl
 
 Erleada is contraindicated in women who are or may become pregnant (see section 4.3). Based on an animal reproductive study and its mechanism of action, Erleada may cause foetal harm and loss of pregnancy when administered to a pregnant woman. There are no data available from the use of Erleada in pregnant women.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Breast-feeding
 
 It is unknown whether apalutamide/metabolites are excreted in human milk. A risk to the suckling child cannot be excluded. Erleada should not be used during breast-feeding.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -839,33 +911,31 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Table 1: Adverse reactions
 
-| System Organ Class                              | Adverse reaction and frequency                                                                                                               |
-|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders            | common: neutropenia                                                                                                                          |
-| Blood and lymphatic system disorders            | not known: agranulocytosis                                                                                                                   |
-| Endocrine disorders                             | common: hypothyroidism a                                                                                                                     |
-| Metabolism and nutrition disorders              | very common: decreased appetite                                                                                                              |
-| Metabolism and nutrition disorders              | common: hypercholesterolaemia, hypertriglyceridaemia                                                                                         |
-| Nervous system disorders                        | common: dysgeusia, ischaemic cerebrovascular disorders b                                                                                     |
-| Nervous system disorders                        | uncommon: seizure c (see section 4.4), restless legs syndrome                                                                                |
-| Cardiac disorders                               | common: ischaemic heart disease d                                                                                                            |
-| Cardiac disorders                               | not known: QT prolongation (see sections 4.4 and 4.5)                                                                                        |
-| Vascular disorders                              | very common: hot flush, hypertension                                                                                                         |
-| Respiratory, thoracic and mediastinal disorders | not known: interstitial lung disease e                                                                                                       |
-| Gastrointestinal disorders                      | very common: diarrhoea                                                                                                                       |
-| Skin and subcutaneous tissue disorders          | very common: skin rash f                                                                                                                     |
-| Skin and subcutaneous tissue disorders          | common: pruritus, alopecia                                                                                                                   |
-| Skin and subcutaneous tissue disorders          | uncommon: lichenoid eruption                                                                                                                 |
-| Skin and subcutaneous tissue disorders          | not known: drug reaction with eosinophilia and systemic symptoms (DRESS) e , Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN) e |
-| Musculoskeletal and connective tissue disorders | very common: fracture g , arthralgia                                                                                                         |
-| Musculoskeletal and connective tissue disorders | common: muscle spasm                                                                                                                         |
+| System Organ Class                              | Adverse reaction and frequency                                |
+|-------------------------------------------------|---------------------------------------------------------------|
+| Blood and lymphatic system disorders            | common: neutropenia                                           |
+| Blood and lymphatic system disorders            | not known: agranulocytosis                                    |
+| Endocrine disorders                             | common: hypothyroidism a                                      |
+| Metabolism and nutrition disorders              | very common: decreased appetite                               |
+| Metabolism and nutrition disorders              | common: hypercholesterolaemia, hypertriglyceridaemia          |
+| Nervous system disorders                        | common: dysgeusia, ischaemic cerebrovascular disorders b      |
+| Nervous system disorders                        | uncommon: seizure c (see section 4.4), restless legs syndrome |
+| Cardiac disorders                               | common: ischaemic heart disease d                             |
+| Cardiac disorders                               | not known: QT prolongation (see sections 4.4 and 4.5)         |
+| Vascular disorders                              | very common: hot flush, hypertension                          |
+| Respiratory, thoracic and mediastinal disorders | not known: interstitial lung disease e                        |
+| Gastrointestinal disorders                      | very common: diarrhoea                                        |
+| Skin and subcutaneous tissue disorders          | very common: skin rash f                                      |
+| Skin and subcutaneous tissue disorders          | common: pruritus, alopecia                                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| General disorders and administration site conditions   | very common: fatigue          |
-|--------------------------------------------------------|-------------------------------|
-| Investigations                                         | very common: weight decreased |
-| Injury, poisoning and procedural complications         | very common: fall             |
+|                                                      | uncommon: lichenoid eruption                              |
+|------------------------------------------------------|-----------------------------------------------------------|
+| Musculoskeletal and connective tissue disorders      | very common: fracture g , arthralgia common: muscle spasm |
+| General disorders and administration site conditions | very common: fatigue                                      |
+| Investigations                                       | very common: weight decreased                             |
+| Injury, poisoning and procedural complications       | very common: fall                                         |
 
 - a Includes hypothyroidism, blood thyroid stimulating hormone increased, thyroxine decreased, autoimmune thyroiditis, thyroxine free decreased, tri-iodothyronine decreased
 - b Includes transient ischaemic attack, cerebrovascular accident, cerebrovascular disorder, ischaemic stroke, carotid arteriosclerosis, carotid artery stenosis, hemiparesis, lacunar infarction, lacunar stroke, thrombotic cerebral infarction, vascular encephalopathy, cerebellar infarction, cerebral infarction, and cerebral ischaemia
@@ -889,9 +959,11 @@ In Study ARN-509-003, fracture was reported for 11.7% of patients treated with a
 
 ## Ischaemic heart disease and ischaemic cerebrovascular disorders
 
-In a randomised study (SPARTAN) of patients with nmCRPC, ischaemic heart disease occurred in 4% of patients treated with apalutamide and 3% of patients treated with placebo. In a randomised study (TITAN) in patients with mHSPC, ischaemic heart disease occurred in 4% of patients treated with apalutamide and 2% of patients treated with placebo. Across the SPARTAN and TITAN studies, 6 patients (0.5%) treated with apalutamide and 2 patients (0.2%) treated with placebo died from ischaemic heart disease (see section 4.4).
+In a randomised study (SPARTAN) of patients with nmCRPC, ischaemic heart disease occurred in 4% of patients treated with apalutamide and 3% of patients treated with placebo. In a randomised study
 
 <div style=\"page-break-after: always\"></div>
+
+(TITAN) in patients with mHSPC, ischaemic heart disease occurred in 4% of patients treated with apalutamide and 2% of patients treated with placebo. Across the SPARTAN and TITAN studies, 6 patients (0.5%) treated with apalutamide and 2 patients (0.2%) treated with placebo died from ischaemic heart disease (see section 4.4).
 
 In the SPARTAN study, with a median exposure of 32.9 months for apalutamide and 11.5 months for placebo, ischaemic cerebrovascular disorders occurred in 4% of patients treated with apalutamide and 1% of patients treated with placebo (see above). In the TITAN study, ischaemic cerebrovascular disorders occurred in a similar proportion of patients in the apalutamide (1.5%) and placebo (1.5%) groups. Across the SPARTAN and TITAN studies, 2 patients (0.2%) treated with apalutamide and no patients treated with placebo died from an ischaemic cerebrovascular disorder (see section 4.4).
 
@@ -919,13 +991,13 @@ Apalutamide is an orally administered, selective Androgen Receptor (AR) inhibito
 
 ## Prostate Specific Antigen (PSA) reduction
 
-Apalutamide 240 mg daily in combination with ADT in patients with mHSPC (in TITAN study) reduced PSA to undetectable levels (&lt;0.2 ng/mL) at any time in 68% of patients compared to 32% of patients taking ADT alone. Median time to undetectable PSA for patients receiving apalutamide in combination with ADT was 1.9 months. Apalutamide in combination with ADT led to a ≥ 50% PSA reduction from baseline at any time in 90% of patients compared to 55% of patients taking ADT alone.
-
-Apalutamide 240 mg daily in combination with ADT in patients with nmCRPC (in SPARTAN study) reduced PSA to undetectable levels (&lt;0.2 ng/mL) at any time in 38% of patients compared to no
+Apalutamide 240 mg daily in combination with ADT in patients with mHSPC (in TITAN study) reduced PSA to undetectable levels (&lt;0.2 ng/mL) at any time in 68% of patients compared to 32% of patients taking ADT alone. Median time to undetectable PSA for patients receiving apalutamide in
 
 <div style=\"page-break-after: always\"></div>
 
-patients (0%) taking ADT alone. Median time to undetectable PSA for patients receiving apalutamide in combination with ADT was 2.8 months. Apalutamide in combination with ADT led to a ≥ 50% PSA reduction from baseline at any time in 90% of patients compared to 2.2% of patients taking ADT alone.
+combination with ADT was 1.9 months. Apalutamide in combination with ADT led to a ≥ 50% PSA reduction from baseline at any time in 90% of patients compared to 55% of patients taking ADT alone.
+
+Apalutamide 240 mg daily in combination with ADT in patients with nmCRPC (in SPARTAN study) reduced PSA to undetectable levels (&lt;0.2 ng/mL) at any time in 38% of patients compared to no patients (0%) taking ADT alone. Median time to undetectable PSA for patients receiving apalutamide in combination with ADT was 2.8 months. Apalutamide in combination with ADT led to a ≥ 50% PSA reduction from baseline at any time in 90% of patients compared to 2.2% of patients taking ADT alone.
 
 ## Cardiac electrophysiology
 
@@ -941,9 +1013,9 @@ TITAN was a randomised, double-blind, placebo-controlled, multinational, multice
 
 The following patient demographics and baseline disease characteristics were balanced between the treatment arms. The median age was 68 years (range 43-94) and 23% of patients were 75 years of age or older. The racial distribution was 68% Caucasian, 22% Asian, and 2% Black. Sixty-three percent (63%) of patients had high-volume disease and 37% had low-volume disease. Sixteen percent (16%) of patients had prior surgery, radiotherapy of the prostate or both. A majority of patients had a Gleason score of 7 or higher (92%). Sixty-eight percent (68%) of patients received prior treatment with a first-generation anti-androgen in the non-metastatic setting. Although criteria for castration resistance were not determined at baseline, 94% of patients demonstrated a decrease in prostate specific antigen (PSA) from initiation of androgen deprivation therapy (ADT) to first dose of apalutamide or placebo. All patients except one in the placebo group, had an Eastern Cooperative Oncology Group Performance Status (ECOG PS) score of 0 or 1 at study entry. Among the patients who discontinued study treatment (N = 271 for placebo and N = 170 for Erleada), the most common reason for discontinuation in both arms was disease progression. A greater proportion (73%) of patients treated with placebo received subsequent anti-cancer therapy compared to patients treated with Erleada (54%).
 
-The major efficacy outcome measures of the study were overall survival (OS) and radiographic progression-free survival (rPFS). Efficacy results of TITAN are summarised in Table 2 and Figures 1 and 2.
-
 <div style=\"page-break-after: always\"></div>
+
+The major efficacy outcome measures of the study were overall survival (OS) and radiographic progression-free survival (rPFS). Efficacy results of TITAN are summarised in Table 2 and Figures 1 and 2.
 
 Table 2: Summary of efficacy results - Intent-to-treat mHSPC population (TITAN)
 
@@ -965,8 +1037,6 @@ Table 2: Summary of efficacy results - Intent-to-treat mHSPC population (TITAN)
 | Hazard ratio (95% CI) b                | 0.484 (0.391, 0.600) |                      |
 | p-value c                              | <0.0001              |                      |
 
-NE=Not Estimable
-
 A statistically significant improvement in OS and rPFS was demonstrated in patients randomised to receive Erleada compared with patients randomised to receive placebo in the primary analysis. An updated OS analysis was conducted at the time of final study analysis when 405 deaths were observed with a median follow-up of 44 months. Results from this updated analysis were consistent with those from the pre-specified interim analysis. The improvement in OS was demonstrated even though 39% of patients in the placebo arm crossed over to receive Erleada, with a median treatment of 15 months on Erleada crossover.
 
 Consistent improvement in rPFS was observed across patient subgroups including high- or lowvolume disease, metastasis stage at diagnosis (M0 or M1), prior docetaxel use (yes or no), age (&lt; 65, ≥ 65, or ≥ 75 years old), baseline PSA above median (yes or no), and number of bone lesions (≤ 10 or &gt; 10).
@@ -975,13 +1045,49 @@ Consistent improvement in OS was observed across patient subgroups including hig
 
 <div style=\"page-break-after: always\"></div>
 
+% of subjects without event population (TITAN)
+
+100
+
 Figure 1: Kaplan-Meier plot of updated overall survival (OS); Intent-to-treat mHSPC population (TITAN)
+
+80·
+
+60 -
+
+40-
+
+20-
+
+0
+
+Subjects at risk
+
+Placebo
+
+Apalutamide
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
+% of subjects without event
+
+BOOI
+
 Figure 2: Kaplan-Meier plot of radiographic progression-free survival (rPFS); Intent-to-treat mHSPC population (TITAN)
+
+60 1
+
+40-
+
+20-
+
+Subjects at risk
+
+Placebo
+
+Apalutamide
 
 <!-- image -->
 
@@ -991,15 +1097,31 @@ Treatment with Erleada statistically significantly delayed the initiation of cyt
 
 A total of 1207 subjects with NM-CRPC were randomised 2:1 to receive either apalutamide orally at a dose of 240 mg once daily in combination with androgen deprivation therapy (ADT) (medical castration or prior surgical castration) or placebo with ADT in a multicentre, double-blind, clinical study (Study ARN-509-003). Subjects enrolled had a Prostate Specific Antigen (PSA) Doubling Time (PSADT) ≤ 10 months, considered to be at high risk of imminent metastatic disease and prostate cancer-specific death. All subjects who were not surgically castrated received ADT continuously throughout the study. PSA results were blinded and were not used for treatment discontinuation. Subjects randomised to either arm were to continue treatment until disease progression defined by blinded central imaging review (BICR), initiation of new treatment, unacceptable toxicity or withdrawal.
 
-The following patient demographics and baseline disease characteristics were balanced between the treatment arms. The median age was 74 years (range 48-97) and 26% of subjects were 80 years of age or older. The racial distribution was 66% Caucasian, 5.6% Black, 12% Asian, and 0.2% Other. Seventy-seven percent (77%) of subjects in both treatment arms had prior surgery or radiotherapy of the prostate. A majority of subjects had a Gleason score of 7 or higher (81%). Fifteen percent (15%) of subjects had &lt; 2 cm pelvic lymph nodes at study entry. Seventy-three percent (73%) of subjects received prior treatment with a first generation anti-androgen; 69% of subjects received bicalutamide
+The following patient demographics and baseline disease characteristics were balanced between the treatment arms. The median age was 74 years (range 48-97) and 26% of subjects were 80 years of age or older. The racial distribution was 66% Caucasian, 5.6% Black, 12% Asian, and 0.2% Other. Seventy-seven percent (77%) of subjects in both treatment arms had prior surgery or radiotherapy of the prostate. A majority of subjects had a Gleason score of 7 or higher (81%). Fifteen percent (15%) of subjects had &lt; 2 cm pelvic lymph nodes at study entry. Seventy-three percent (73%) of subjects received prior treatment with a first generation anti-androgen; 69% of subjects received bicalutamide mHSPC population (TITAN)
+
+100
 
 <div style=\"page-break-after: always\"></div>
 
+Figure 3: Kaplan-Meier metastasis-free survival (MFS) curve in Study ARN-509-003
+
+100
+
 and 10% of subjects received flutamide. All subjects enrolled were confirmed to be non-metastatic by blinded central imaging review and had an Eastern Cooperative Oncology Group Performance Status (ECOG PS) performance status score of 0 or 1 at study entry.
+
+60-
 
 Metastasis-free survival (MFS) was the primary endpoint, defined as the time from randomisation to the time of first evidence of BICR-confirmed bone or soft tissue distant metastasis or death due to any cause, whichever occurred first. Treatment with Erleada significantly improved MFS. Erleada decreased the relative risk of distant metastasis or death by 70% compared to placebo (HR = 0.30; 95% CI: 0.24, 0.36; p &lt; 0.0001). The median MFS for Erleada was 41 months and was 16 months for placebo (see Figure 3). Consistent improvement in MFS with Erleada was observed for all pre-specified subgroups, including age, race, region of the world, nodal status, prior number of hormonal therapies, baseline PSA, PSA doubling time, baseline ECOG status and use of bone-sparing agents.
 
+% of Subjects without Metastasis or Death
+
 Figure 3: Kaplan-Meier metastasis-free survival (MFS) curve in Study ARN-509-003
+
+Subjects at risk
+
+Placebo
+
+Apalutamide
 
 <!-- image -->
 
@@ -1009,9 +1131,25 @@ Time to symptomatic progression was defined as time from randomisation to develo
 
 <div style=\"page-break-after: always\"></div>
 
+Figure 4:
+
+100 - of Subjects without Death
+
+Kaplan-Meier overall survival (OS) curve in Study ARN-509-003 at final analys
+
+80-
+
 With median follow-up time of 52.0 months, results showed that treatment with Erleada significantly decreased the risk of death by 22% compared with placebo (HR = 0.784; 95% CI: 0.643, 0.956; 2-sided p = 0.0161). The median OS was 73.9 months for the Erleada arm and 59.9 months for the placebo arm. The pre-specified alpha boundary (p ≤ 0.046) was crossed and statistical significance was achieved. This improvement was demonstrated even though 19% of patients in the placebo arm received Erleada as subsequent therapy.
 
 Figure 4: Kaplan-Meier overall survival (OS) curve in Study ARN-509-003 at final analysis
+
+20-
+
+Subjects at risk
+
+Apalutamide
+
+Placebo
 
 <!-- image -->
 
@@ -1393,7 +1531,7 @@ Erleada 60 mg film-coated tablets apalutamide
 
 Each film-coated tablet contains 60 mg apalutamide.
 
-3. LIST OF EXCIPIENTS
+## 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1892,7 +2030,7 @@ EXP
 
 Store in the original package in order to protect from moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Discard unused contents appropriately in accordance with local requirements.
 
@@ -2464,7 +2602,7 @@ Janssen-Cilag International NV
 
 EXP
 
-4. BATCH NUMBER
+## 4. BATCH NUMBER
 
 Lot
 
@@ -2821,7 +2959,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
 ## Lietuva
 
@@ -2835,7 +2973,9 @@ Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## Česká republika
 
@@ -2849,7 +2989,7 @@ Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Eesti
 
@@ -2861,17 +3001,13 @@ Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ
 
 ## España
 
-Janssen-Cilag, S.A.
-
-Tel: +34 91 722 81 00
-
-contacto@its.jnj.com
+Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
 
 ## France
 
 Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
 
-Hrvatska
+## Hrvatska
 
 Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
 
@@ -2891,8 +3027,6 @@ Tel: 800.688.777 / +39 02 2510 1
 
 janssenita@its.jnj.com
 
-<div style=\"page-break-after: always\"></div>
-
 ## Magyarország
 
 Janssen-Cilag Kft. Tel.: +36 1 884 2858
@@ -2907,7 +3041,7 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 ## Norge
 
@@ -2927,9 +3061,7 @@ Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
 
 ## România
 
-Johnson &amp; Johnson România SRL
-
-Tel: +40 21 207 1800
+Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
 
 ## Slovenija
 
@@ -3319,15 +3451,11 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
-## Lietuva
+Lietuva Tel: +370 5 278 68 88 lt@its.jnj.com
 
 UAB \"JOHNSON &amp; JOHNSON\"
-
-Tel: +370 5 278 68 88
-
-lt@its.jnj.com
 
 ## България
 
@@ -3335,7 +3463,7 @@ lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
 
 ## Česká republika
 
@@ -3349,7 +3477,7 @@ Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Eesti
 
@@ -3405,7 +3533,7 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 ## Norge
 
@@ -3425,9 +3553,7 @@ Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
 
 ## România
 
-Johnson &amp; Johnson România SRL
-
-Tel: +40 21 207 1800
+Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
 
 ## Slovenija
 
@@ -3451,7 +3577,7 @@ Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 
 ## Latvija
 
-## UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
+UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
 
 Tel: +371 678 93561
 

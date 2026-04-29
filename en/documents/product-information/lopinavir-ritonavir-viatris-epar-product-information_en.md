@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-08 15:12:16
-document_pages: 88
+document_datetime: 2026-04-28 14:06:39
+document_pages: 91
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lopinavir-ritonavir-viatris-epar-product-information_en.pdf
 document_name: lopinavir-ritonavir-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 31.8516727
-conversion_datetime: 2025-12-25 12:38:57.870804
+processing_time: 25.1689049
+conversion_datetime: 2026-04-29 13:16:22.736439
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,7 +28,7 @@ Lopinavir/Ritonavir Viatris 100 mg/25 mg film-coated tablets Lopinavir/Ritonavir
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-## Lopinavir/Ritonavir Viatris 100 mg/25 mg film-coated tablets
+Lopinavir/Ritonavir Viatris 100 mg/25 mg film-coated tablets
 
 Each film-coated tablet contains 100 mg of lopinavir co-formulated with 25 mg of ritonavir as a pharmacokinetic enhancer.
 
@@ -42,7 +42,7 @@ For the full list of excipients, see section 6.1.
 
 Film-coated tablet.
 
-## Lopinavir/Ritonavir Viatris 100 mg/25 mg film-coated tablets
+Lopinavir/Ritonavir Viatris 100 mg/25 mg film-coated tablets
 
 Approx 15.0 mm x 8.0 mm, white, film coated, ovaloid, biconvex beveled edge tablet debossed with 'MLR4' on one side of the tablet and plain on the other side.
 
@@ -74,7 +74,7 @@ The standard recommended dosage of lopinavir/ritonavir tablets is 400/100 mg (tw
 
 ## Paediatric population (2 years of age and above)
 
-The adult dose of lopinavir/ritonavir tablets (400/100 mg twice daily) may be used in children 40 kg or greater or with a Body Surface Area (BSA)* greater than 1.4 m 2 . For children weighing less than 40 kg or with a BSA between 0.5 and 1.4 m 2  and able to swallow tablets, please refer to the dosing guideline tables below. Based on the current data available, lopinavir/ritonavir should not be administered once daily in paediatric patients (see section 5.1).
+The adult dose of lopinavir/ritonavir tablets (400/100 mg twice daily) may be used in children 40 kg or greater or with a Body Surface Area (BSA)* greater than 1.4 m 2 . For children weighing less than 40 kg or with a BSA between 0.5 and 1.4 m 2 and able to swallow tablets, please refer to the dosing guideline tables below. Based on the current data available, lopinavir/ritonavir should not be administered once daily in paediatric patients (see section 5.1).
 
 Before prescribing lopinavir/ritonavir 100/25 mg tablets, infants and young children should be assessed for the ability to swallow intact tablets. For infants and young children unable to swallow tablets, more suitable formulations containing lopinavir/ritonavir should be checked for their availability.
 
@@ -149,21 +149,22 @@ Lopinavir/Ritonavir Viatris tablets contain lopinavir and ritonavir, both of whi
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product class                              | Medicinal products within class                             | Rationale                                                                                                                                                                            |
-|------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Antibiotic                                           | Fusidic Acid                                                | Increased plasma concentrations of fusidic acid. The concomitant administration with fusidic acid is contraindicated in dermatological infections (see section 4.5).                 |
-| Anticancer                                           | Neratinib                                                   | Increased plasma concentrations of neratinib which may increase the potential for serious and/or life-threatening reactions (see section 4.5).                                       |
-| Anticancer                                           | Venetoclax                                                  | Increased plasma concentrations of venetoclax. Increased risk of tumor lysis syndrome at the dose initiation and during the ramp-up phase (see section 4.5).                         |
-| Anti-gout                                            | Colchicine                                                  | Increased plasma concentrations of colchicine. Potential for serious and/or life- threatening reactions in patients with renal and/or hepatic impairment (see sections 4.4 and 4.5). |
-| Antihistamines                                       | Astemizole, terfenadine                                     | Increased plasma concentrations of astemizole and terfenadine. Thereby, increasing the risk of serious arrhythmias from these agents (see section 4.5).                              |
-| Antipsychotics/ Neuroleptics                         | Lurasidone                                                  | Increased plasma concentrations of lurasidone which may increase the potential for serious and/or life threatening reactions (see section 4.5)                                       |
-| Antipsychotics/ Neuroleptics                         | Pimozide                                                    | Increased plasma concentrations of pimozide. Thereby, increasing the risk of serious haematologic abnormalities, or other serious adverse effects from this agent (see section 4.5). |
-| Antipsychotics/ Neuroleptics                         | Quetiapine                                                  | Increased plasma concentrations of quetiapine which may lead to coma. The concomitant administration with quetiapine is contraindicated (see section 4.5).                           |
-| Ergot alkaloids                                      | Dihydroergotamine, ergonovine, ergotamine, methylergonovine | Increased plasma concentrations of ergot derivatives leading to acute ergot toxicity, including vasospasm and ischaemia (see section 4.5).                                           |
-| GI motility agent                                    | Cisapride                                                   | Increased plasma concentrations of cisapride. Thereby, increasing the risk of serious arrhythmias from this agent (see section 4.5).                                                 |
-| Hepatitis C virus direct acting antivirals           | Elbasvir/grazoprevir                                        | Increased risk of alanine transaminase (ALT) elevations (see section 4.5).                                                                                                           |
-| Hepatitis C virus direct acting antivirals           | Ombitasvir/paritaprevir/ritonavir with or without dasabuvir | Increased plasma concentrations of paritaprevir; thereby, increasing the risk of alanine transaminase (ALT) elevations (see section 4.5).                                            |
-| Lipid-modifying agents HMG Co-A Reductase Inhibitors | Lovastatin, simvastatin                                     | Increased plasma concentrations of lovastatin and simvastatin; thereby, increasing the risk of myopathy including rhabdomyolysis (see section 4.5).                                  |
+| Medicinal product class                    | Medicinal products within class                             | Rationale                                                                                                                                                                            |
+|--------------------------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Antibiotic                                 | Fusidic Acid                                                | Increased plasma concentrations of fusidic acid. The concomitant administration with fusidic acid is contraindicated in dermatological infections (see section 4.5).                 |
+| Anticancer                                 | Neratinib                                                   | Increased plasma concentrations of neratinib which may increase the potential for serious and/or life-threatening reactions (see section 4.5).                                       |
+| Anticancer                                 | Venetoclax                                                  | Increased plasma concentrations of venetoclax. Increased risk of tumor lysis syndrome at the dose initiation and during the ramp-up phase (see section 4.5).                         |
+| Anti-gout                                  | Colchicine                                                  | Increased plasma concentrations of colchicine. Potential for serious and/or life- threatening reactions in patients with renal and/or hepatic impairment (see sections 4.4 and 4.5). |
+| Antihistamines                             | Astemizole, terfenadine                                     | Increased plasma concentrations of astemizole and terfenadine. Thereby, increasing the risk of serious arrhythmias from these agents (see section 4.5).                              |
+| Antipsychotics/ Neuroleptics               | Lurasidone                                                  | Increased plasma concentrations of lurasidone which may increase the potential for serious and/or life threatening reactions (see section 4.5)                                       |
+| Antipsychotics/ Neuroleptics               | Pimozide                                                    | Increased plasma concentrations of pimozide. Thereby, increasing the risk of serious haematologic abnormalities, or other serious adverse effects from this agent (see section 4.5). |
+| Antipsychotics/ Neuroleptics               | Quetiapine                                                  | Increased plasma concentrations of quetiapine which may lead to coma. The concomitant administration with quetiapine is contraindicated (see section 4.5).                           |
+| Ergot alkaloids                            | Dihydroergotamine, ergonovine, ergotamine, methylergonovine | Increased plasma concentrations of ergot derivatives leading to acute ergot toxicity, including vasospasm and ischaemia (see section 4.5).                                           |
+| GI motility agent                          | Cisapride                                                   | Increased plasma concentrations of cisapride. Thereby, increasing the risk of serious arrhythmias from this agent (see section 4.5).                                                 |
+| Hepatitis C virus direct acting antivirals | Elbasvir/grazoprevir                                        | Increased risk of alanine transaminase (ALT) elevations (see section 4.5).                                                                                                           |
+| Hepatitis C virus direct acting antivirals | Ombitasvir/paritaprevir/ritonavir with or without dasabuvir | Increased plasma concentrations of paritaprevir; thereby, increasing the risk of alanine transaminase (ALT) elevations (see section 4.5).                                            |
+| Lipid-modifying agents                     | Lipid-modifying agents                                      | Lipid-modifying agents                                                                                                                                                               |
+| HMGCo-A Reductase Inhibitors               | Lovastatin, simvastatin                                     | Increased plasma concentrations of lovastatin and simvastatin; thereby, increasing the risk of myopathy including rhabdomyolysis (see section 4.5).                                  |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -219,11 +220,9 @@ Although the etiology is considered to be multifactorial (including corticostero
 
 ## PR interval prolongation
 
-Lopinavir/ritonavir has been shown to cause modest asymptomatic prolongation of the PR interval in some healthy adult subjects. Rare reports of 2 nd  or 3 rd  degree atroventricular block in patients with underlying structural heart disease and pre-existing conduction system abnormalities or in patients receiving drugs
+Lopinavir/ritonavir has been shown to cause modest asymptomatic prolongation of the PR interval in some healthy adult subjects. Rare reports of 2 nd or 3 rd degree atroventricular block in patients with underlying structural heart disease and pre-existing conduction system abnormalities or in patients receiving drugs known to prolong the PR interval (such as verapamil or atazanavir) have been reported in patients receiving lopinavir/ritonavir. Lopinavir/ritonavir should be used with caution in such patients (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-known to prolong the PR interval (such as verapamil or atazanavir) have been reported in patients receiving lopinavir/ritonavir. Lopinavir/ritonavir should be used with caution in such patients (see section 5.1).
 
 ## Weight and metabolic parameters
 
@@ -337,11 +336,11 @@ Unless otherwise stated, studies detailed below have been performed with the rec
 | Antianginal                                 |                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Ranolazine                                  | Due to CYP3A inhibition by lopinavir/ritonavir, concentrations of ranolazine are expected to increase.                                                                               | The concomitant administration of Lopinavir/Ritonavir Viatris and ranolazine is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Antiarrhythmics                             |                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Amiodarone, Dronedarone                     | Amiodarone, Dronedarone: Concentrationsmay be increased due to CYP3A4 inhibition by lopinavir/ritonavir.                                                                             | Concomitant administration of Lopinavir/Ritonavir Viatris and amiodarone or dronedarone is contraindicated (see section 4.3) as the risk of arrhythmias or other serious adverse reactions may be increased.                                                                                                                                                                                                                                                                                                                                                           |
+| Amiodarone, Dronedarone                     | Amiodarone, Dronedarone: Concentrations may be increased due to CYP3A4 inhibition by lopinavir/ritonavir.                                                                            | Concomitant administration of Lopinavir/Ritonavir Viatris and amiodarone or dronedarone is contraindicated (see section 4.3) as the risk of arrhythmias or other serious adverse reactions may be increased.                                                                                                                                                                                                                                                                                                                                                           |
 | Digoxin                                     | Digoxin: Plasma concentrations may be increased due to P-glycoprotein inhibition by lopinavir/ritonavir. The increased digoxin level may lessen over time as Pgp induction develops. | Caution is warranted and therapeutic drug monitoring of digoxin concentrations, if available, is recommended in case of co- administration of Lopinavir/Ritonavir Viatris and digoxin. Particular caution should be used when prescribing Lopinavir/Ritonavir Viatris in patients taking digoxin as the acute inhibitory effect of ritonavir on Pgp is expected to significantly increase digoxin levels. Initiation of digoxin in patients already taking Lopinavir/Ritonavir Viatris is likely to result in lower than expected increases of digoxin concentrations. |
 | Bepridil, Systemic Lidocaine, and Quinidine | Bepridil, Systemic Lidocaine, Quinidine: Concentrations may be increased when co-administered with lopinavir/ritonavir.                                                              | Caution is warranted and therapeutic drug concentration monitoring is recommended when available.                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Antibiotics                                 |                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Clarithromycin                              | Clarithromycin: Moderate increases in clarithromycin AUC are expected due to CYP3A inhibition by lopinavir/ritonavir.                                                                | For patients with renal impairment (CrCL< 30 ml/min) dose reduction of clarithromycin should be considered (see section 4.4). Caution should be exercised in administering clarithromycin with Lopinavir/Ritonavir Viatris to patients with impaired hepatic or renal function.                                                                                                                                                                                                                                                                                        |
+| Clarithromycin                              | Clarithromycin: Moderate increases in clarithromycin AUC are expected due to CYP3A inhibition by lopinavir/ritonavir.                                                                | For patients with renal impairment (CrCL < 30 ml/min) dose reduction of clarithromycin should be considered (see section 4.4). Caution should be exercised in administering clarithromycin with Lopinavir/Ritonavir Viatris to patients with impaired hepatic or renal function.                                                                                                                                                                                                                                                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -351,7 +350,7 @@ Unless otherwise stated, studies detailed below have been performed with the rec
 | Abemaciclib                                                                               | Serum concentrations may be increased due to CYP3A inhibition by ritonavir.                                                                                                                                                 | Co administration of abemaciclib and Lopinavir/Ritonavir Viatris should be avoided. If this co administration is judged unavoidable, refer to the abemaciclib SmPC for dosage adjustment recommendations. Monitor for ADRs related to abemaciclib.                                                                                                               |
 | Apalutamide                                                                               | Apalutamide is a moderate to strong CYP3A4 inducer and this may lead to a decreased exposure of lopinavir/ritonavir. Serum concentrations of apalutamide may be increased due to CYP3A inhibition by lopinavir/ritonavir.   | Decreased exposure of Lopinavir/Ritonavir Viatris may result in potential loss of virological response. In addition, co-administration of apalutamide and Lopinavir/Ritonavir Viatris may lead to serious adverse events including seizure due to higher apalutamide levels. Concomitant use of Lopinavir/Ritonavir Viatris with apalutamide is not recommended. |
 | Afatinib (Ritonavir 200 mg twice daily)                                                   | Afatinib: AUC: ↑ C max : ↑ The extent of increase depends on the timing of ritonavir administration. Due to BCRP (breast cancer resistance protein/ABCG2) and acute P-gp inhibition by lopinavir/ritonavir                  | Caution should be exercised in administering afatinib with Lopinavir/Ritonavir Viatris. Refer to the afatinib SmPC for dosage adjustment recommendations. Monitor for ADRs related to afatinib                                                                                                                                                                   |
-| Ceritinib                                                                                 | Serum concentrations may be increased due to CYP3A and P-gp inhibition by lopinavir/ritonavir                                                                                                                               | Caution should be exercised in administering ceritinib with Lopinavir/Ritonavir Viatris. Refer to the ceritinib SmPC for dosage adjustment recommendations. Monitor for ADRsrelated to ceritinib.                                                                                                                                                                |
+| Ceritinib                                                                                 | Serum concentrations may be increased due to CYP3A and P-gp inhibition by lopinavir/ritonavir                                                                                                                               | Caution should be exercised in administering ceritinib with Lopinavir/Ritonavir Viatris. Refer to the ceritinib SmPC for dosage adjustment recommendations. Monitor for ADRs related to ceritinib.                                                                                                                                                               |
 | Most tyrosine kinase inhibitors such as dasatinib and nilotinib, vincristine, vinblastine | Most tyrosine kinase inhibitors such as dasatinib and nilotinib, also vincristine and vinblastine: Risk of increased adverse events due to higher serum concentrations because of CYP3A4 inhibition by lopinavir/ritonavir. | Careful monitoring of the tolerance of these anticancer agents.                                                                                                                                                                                                                                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
@@ -365,22 +364,22 @@ Unless otherwise stated, studies detailed below have been performed with the rec
 
 <div style=\"page-break-after: always\"></div>
 
-| Co-administered drug by therapeutic area   | Effects on drug levels Geometric Mean Change (%) in AUC, C max , C min Mechanism of interaction                      | Clinical recommendation concerning co-administration with Lopinavir/Ritonavir Viatris                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Venetoclax                                 | Due to CYP3A inhibition by lopinavir/ritonavir.                                                                      | Serum concentrations may be increased due to CYP3Ainhibition by lopinavir/ritonavir, resulting in increased risk of tumor lysis syndrome at the dose initiation and during the ramp-up phase (see section 4.3 and refer to the venetoclax SmPC). For patients who have completed the ramp-up phase and are on a steady daily dose of venetoclax, reduce the venetoclax dose by at least 75% when used with strong CYP3A inhibitors (refer to the venetoclax SmPC for dosing instructions). Patients should be closely monitored for signs related to venetoclax toxicities. |
-| Anticoagulants                             |                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Warfarin                                   | Warfarin: Concentrationsmay be affected when co-administered with lopinavir/ritonavir due to CYP2C9                  | It is recommended that INR (international normalised ratio) be monitored.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Rivaroxaban (Ritonavir 600 mg twice daily) | Rivaroxaban: AUC: ↑ 153% C max : ↑ 55% Due to CYP3A and P-gp inhibition by lopinavir/ritonavir.                      | Co-administration of rivaroxaban and Lopinavir/Ritonavir Viatris may increase rivaroxaban exposure which may increase the risk of bleeding. The use of rivaroxaban is not recommended in patients receiving concomitant treatment with Lopinavir/Ritonavir Viatris (see section 4.4).                                                                                                                                                                                                                                                                                       |
-| Dabigatran etexilate, Edoxaban             | Dabigatran etexilate, Edoxaban: Serum concentrations may be increased due to P-gp inhibition by lopinavir/ritonavir. | Clinical monitoring and/or dose reduction of the direct oral anticoagulants (DOAC) should be considered when a DOAC transported by P-gp but not metabolised by CYP3A4, including dabigatran etexilate and edoxaban, is co-administered with Lopinavir/Ritonavir Viatris.                                                                                                                                                                                                                                                                                                    |
-| Vorapaxar                                  | Serum concentrations may be increased due to CYP3A inhibition by lopinavir/ritonavir                                 | The coadministration of vorapaxar with Lopinavir/Ritonavir Viatris is not recommended (see section 4.4 and refer to the vorapaxar SmPC).                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Anticonvulsants                            |                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Co-administered drug by therapeutic area   | Effects on drug levels Geometric Mean Change (%) in AUC, C max , C min Mechanism of interaction                      | Clinical recommendation concerning co-administration with Lopinavir/Ritonavir Viatris                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Venetoclax                                 | Due to CYP3A inhibition by lopinavir/ritonavir.                                                                      | Serum concentrations may be increased due to CYP3A inhibition by lopinavir/ritonavir, resulting in increased risk of tumor lysis syndrome at the dose initiation and during the ramp-up phase (see section 4.3 and refer to the venetoclax SmPC). For patients who have completed the ramp-up phase and are on a steady daily dose of venetoclax, reduce the venetoclax dose by at least 75% when used with strong CYP3A inhibitors (refer to the venetoclax SmPC for dosing instructions). Patients should be closely monitored for signs related to venetoclax toxicities. |
+| Anticoagulants                             |                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Warfarin                                   | Warfarin: Concentrations may be affected when co-administered with lopinavir/ritonavir due to CYP2C9 induction.      | It is recommended that INR (international normalised ratio) be monitored.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Rivaroxaban (Ritonavir 600 mg twice daily) | Rivaroxaban: AUC: ↑ 153% C max : ↑ 55% Due to CYP3A and P-gp inhibition by lopinavir/ritonavir.                      | Co-administration of rivaroxaban and Lopinavir/Ritonavir Viatris may increase rivaroxaban exposure which may increase the risk of bleeding. The use of rivaroxaban is not recommended in patients receiving concomitant treatment with Lopinavir/Ritonavir Viatris (see section 4.4).                                                                                                                                                                                                                                                                                        |
+| Dabigatran etexilate, Edoxaban             | Dabigatran etexilate, Edoxaban: Serum concentrations may be increased due to P-gp inhibition by lopinavir/ritonavir. | Clinical monitoring and/or dose reduction of the direct oral anticoagulants (DOAC) should be considered when a DOAC transported by P-gp but not metabolised by CYP3A4, including dabigatran etexilate and edoxaban, is co-administered with Lopinavir/Ritonavir Viatris.                                                                                                                                                                                                                                                                                                     |
+| Vorapaxar                                  | Serum concentrations may be increased due to CYP3A inhibition by lopinavir/ritonavir                                 | The coadministration of vorapaxar with Lopinavir/Ritonavir Viatris is not recommended (see section 4.4 and refer to the vorapaxar SmPC).                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Anticonvulsants                            |                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| Co-administered drug by therapeutic area   | Effects on drug levels Geometric Mean Change (%) in AUC, C max , C min Mechanism of interaction                                                                                                           | Clinical recommendation concerning co-administration with Lopinavir/Ritonavir Viatris                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Phenytoin                                  | Phenytoin: Steady-state concentrations was moderately decreased due to CYP2C9 and CYP2C19 induction by lopinavir/ritonavir. Lopinavir: Concentrations are decreased due to CYP3A induction by phenytoin.  | Caution should be exercised in administering phenytoin with Lopinavir/Ritonavir Viatris. Phenytoin levels should be monitored when co-administering with Lopinavir/Ritonavir Viatris. When co-administered with phenytoin, an increase of Lopinavir/Ritonavir Viatris dosage may be envisaged. Dose adjustment has not been evaluated in clinical practice. Lopinavir/Ritonavir Viatris must not be administered once daily in combination with phenytoin.                                                                                        |
-| Carbamazepine and Phenobarbital            | Carbamazepine: Serum concentrations may be increased due to CYP3A inhibition by lopinavir/ritonavir. Lopinavir: Concentrationsmay be decreased due to CYP3A induction by carbamazepine and phenobarbital. | Caution should be exercised in administering carbamazepine or phenobarbital with Lopinavir/Ritonavir Viatris. Carbamazepine and phenobarbital levels should be monitored when co- administering with Lopinavir/Ritonavir Viatris. When co-administered with carbamazepine or phenobarbital, an increase of Lopinavir/Ritonavir Viatris dosage may be envisaged. Dose adjustment has not been evaluated in clinical practice. Lopinavir/Ritonavir Viatris must not be administered once daily in combination with carbamazepine and phenobarbital. |
+| Co-administered drug by therapeutic area   | Effects on drug levels Geometric Mean Change (%) in AUC, C max , C min Mechanism of interaction                                                                                                            | Clinical recommendation concerning co-administration with Lopinavir/Ritonavir Viatris                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Phenytoin                                  | Phenytoin: Steady-state concentrations was moderately decreased due to CYP2C9 and CYP2C19 induction by lopinavir/ritonavir. Lopinavir: Concentrations are decreased due to CYP3A induction by phenytoin.   | Caution should be exercised in administering phenytoin with Lopinavir/Ritonavir Viatris. Phenytoin levels should be monitored when co-administering with Lopinavir/Ritonavir Viatris. When co-administered with phenytoin, an increase of Lopinavir/Ritonavir Viatris dosage may be envisaged. Dose adjustment has not been evaluated in clinical practice. Lopinavir/Ritonavir Viatris must not be administered once daily in combination with phenytoin.                                                                                        |
+| Carbamazepine and Phenobarbital            | Carbamazepine: Serum concentrations may be increased due to CYP3A inhibition by lopinavir/ritonavir. Lopinavir: Concentrations may be decreased due to CYP3A induction by carbamazepine and phenobarbital. | Caution should be exercised in administering carbamazepine or phenobarbital with Lopinavir/Ritonavir Viatris. Carbamazepine and phenobarbital levels should be monitored when co- administering with Lopinavir/Ritonavir Viatris. When co-administered with carbamazepine or phenobarbital, an increase of Lopinavir/Ritonavir Viatris dosage may be envisaged. Dose adjustment has not been evaluated in clinical practice. Lopinavir/Ritonavir Viatris must not be administered once daily in combination with carbamazepine and phenobarbital. |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -407,7 +406,7 @@ Unless otherwise stated, studies detailed below have been performed with the rec
 | Co-administered drug by therapeutic area                                      | Effects on drug levels Geometric Mean Change (%) in AUC, C max , C min Mechanism of interaction                                                                                                                             | Clinical recommendation concerning co-administration with Lopinavir/Ritonavir Viatris                                                                                                                                                                                                                                                                                                                                                |
 |-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Anti-infectives                                                               | Anti-infectives                                                                                                                                                                                                             | Anti-infectives                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Fusidic acid                                                                  | Fusidic acid: Concentrationsmay be increased due to CYP3A inhibition by lopinavir/ritonavir.                                                                                                                                | Concomitant administration of Lopinavir/Ritonavir Viatris with fusidic acid is contra-indicated in dermatological indications due to the increased risk of adverse events related to fusidic acid, notably rhabdomyolysis (see section 4.3). When used for osteo-articular infections, where the co- administration is unavoidable, close clinical monitoring for muscular adverse events is strongly recommended (see section 4.4). |
+| Fusidic acid                                                                  | Fusidic acid: Concentrations may be increased due to CYP3A inhibition by lopinavir/ritonavir.                                                                                                                               | Concomitant administration of Lopinavir/Ritonavir Viatris with fusidic acid is contra-indicated in dermatological indications due to the increased risk of adverse events related to fusidic acid, notably rhabdomyolysis (see section 4.3). When used for osteo-articular infections, where the co- administration is unavoidable, close clinical monitoring for muscular adverse events is strongly recommended (see section 4.4). |
 | Antimycobacterials                                                            | Antimycobacterials                                                                                                                                                                                                          | Antimycobacterials                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Bedaquiline (single dose) (Lopinavir/ritonavir 400/100 mg BID, multiple dose) | Bedaquiline: AUC: ↑ 22% C max :↔ A more pronounced effect on bedaquiline plasma exposures may be observed during prolonged co-administration with lopinavir/ritonavir. CYP3A4 inhibition likely due to lopinavir/ritonavir. | Due to the risk of bedaquiline related adverse events, the combination of bedaquiline and Lopinavir/Ritonavir Viatris should be avoided. If the benefit outweighs the risk, co-administration of bedaquiline with Lopinavir/Ritonavir Viatris must be done with caution. More frequent electrocardiogram monitoring and monitoring of transaminases is recommended (see section 4.4 and refer to the bedaquiline SmPC).              |
 | Delamanid (100 mg BID) (Lopinavir/ritonavir 400/100 mg BID)                   | Delamanid: AUC: ↑ 22% DM-6705 (delamanid active metabolite): AUC: ↑ 30% A more pronounced effect on DM-6705 exposure may be observed during prolonged co-administration with lopinavir/ritonavir.                           | Due to the risk of QTc prolongation associated with DM-6705, if co- administration of delamanid with Lopinavir/Ritonavir Viatris is considered necessary, very frequent ECG monitoring throughout the full delamanid treatment period is recommended (see section 4.4 and refer to the delamanid SmPC).                                                                                                                              |
@@ -421,40 +420,40 @@ Unless otherwise stated, studies detailed below have been performed with the rec
 
 <div style=\"page-break-after: always\"></div>
 
-| Co-administered drug by therapeutic area   | Effects on drug levels Geometric Mean Change (%) in AUC, C max , C min Mechanism of interaction                     | Clinical recommendation concerning co-administration with Lopinavir/Ritonavir Viatris                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Antipsychotics                             |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Lurasidone                                 | Due to CYP3A inhibition by lopinavir/ritonavir, concentrations of lurasidone are expected to increase.              | The concomitant administration with lurasidone is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Pimozide                                   | Due to CYP3A inhibition by lopinavir/ritonavir, concentrations of pimozide are expected to increase.                | Concomitant administration of Lopinavir/Ritonavir Viatris and pimozide is contraindicated as it may increase the risk of serious haematologic abnormalities or other serious adverse effects from this agent (see section 4.3)                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Quetiapine                                 | Due to CYP3A inhibition by lopinavir/ritonavir, concentrations of quetiapine are expected to increase.              | Concomitant administration of Lopinavir/Ritonavir Viatris and quetiapine is contraindicated as it may increase quetiapine-related toxicity.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Benzodiazepines                            |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Midazolam                                  | Oral Midazolam: AUC: ↑ 13-fold Parenteral Midazolam: AUC: ↑ 4-fold Due to CYP3A inhibition by lopinavir/ritonavir   | Lopinavir/Ritonavir Viatris must not be co-administered with oral midazolam (see section 4.3), whereas caution should be used with co- administration of Lopinavir/Ritonavir Viatris and parenteral midazolam. If Lopinavir/Ritonavir Viatris is co- administered with parenteral midazolam, it should be done in an intensive care unit (ICU) or similar setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dosage adjustment for midazolam should be considered especially if more than a single dose of midazolam is administered. |
-| Beta 2 -adrenoceptor agonist (long         | acting)                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Salmeterol                                 | Salmeterol: Concentrations are expected to increase due to CYP3A inhibition by lopinavir/ritonavir.                 | The combination may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations and sinus tachycardia. Therefore, concomitant administration of Lopinavir/Ritonavir Viatris with salmeterol is not recommended (see section 4.4).                                                                                                                                                                                                                                                                                                                                |
-| Calcium channel blockers                   |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Felodipine, Nifedipine, and Nicardipine    | Felodipine, Nifedipine, Nicardipine: Concentrationsmay be increased due to CYP3A inhibition by lopinavir/ritonavir. | Clinical monitoring of therapeutic and adverse effects is recommended when these medicines are concomitantly administered with Lopinavir/Ritonavir Viatris.                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Co-administered drug by therapeutic area   | Effects on drug levels Geometric Mean Change (%) in AUC, C max , C min Mechanism of interaction                      | Clinical recommendation concerning co-administration with Lopinavir/Ritonavir Viatris                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Antipsychotics                             | Antipsychotics                                                                                                       | Antipsychotics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Lurasidone                                 | Due to CYP3A inhibition by lopinavir/ritonavir, concentrations of lurasidone are expected to increase.               | The concomitant administration with lurasidone is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Pimozide                                   | Due to CYP3A inhibition by lopinavir/ritonavir, concentrations of pimozide are expected to increase.                 | Concomitant administration of Lopinavir/Ritonavir Viatris and pimozide is contraindicated as it may increase the risk of serious haematologic abnormalities or other serious adverse effects from this agent (see section 4.3)                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Quetiapine                                 | Due to CYP3A inhibition by lopinavir/ritonavir, concentrations of quetiapine are expected to increase.               | Concomitant administration of Lopinavir/Ritonavir Viatris and quetiapine is contraindicated as it may increase quetiapine-related toxicity.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Benzodiazepines                            | Benzodiazepines                                                                                                      | Benzodiazepines                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Midazolam                                  | Oral Midazolam: AUC: ↑ 13-fold Parenteral Midazolam: AUC: ↑ 4-fold Due to CYP3A inhibition by lopinavir/ritonavir    | Lopinavir/Ritonavir Viatris must not be co-administered with oral midazolam (see section 4.3), whereas caution should be used with co- administration of Lopinavir/Ritonavir Viatris and parenteral midazolam. If Lopinavir/Ritonavir Viatris is co- administered with parenteral midazolam, it should be done in an intensive care unit (ICU) or similar setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dosage adjustment for midazolam should be considered especially if more than a single dose of midazolam is administered. |
+| Beta 2 -adrenoceptor agonist (long acting) | Beta 2 -adrenoceptor agonist (long acting)                                                                           | Beta 2 -adrenoceptor agonist (long acting)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Salmeterol                                 | Salmeterol: Concentrations are expected to increase due to CYP3A inhibition by lopinavir/ritonavir.                  | The combination may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations and sinus tachycardia. Therefore, concomitant administration of Lopinavir/Ritonavir Viatris with salmeterol is not recommended (see section 4.4).                                                                                                                                                                                                                                                                                                                                |
+| Calcium channel blockers                   | Calcium channel blockers                                                                                             | Calcium channel blockers                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Felodipine, Nifedipine, and Nicardipine    | Felodipine, Nifedipine, Nicardipine: Concentrations may be increased due to CYP3A inhibition by lopinavir/ritonavir. | Clinical monitoring of therapeutic and adverse effects is recommended when these medicines are concomitantly administered with Lopinavir/Ritonavir Viatris.                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Co-administered drug by therapeutic area                                            | Effects on drug levels Geometric Mean Change (%) in AUC, C max , C min Mechanism of interaction       | Clinical recommendation concerning co-administration with Lopinavir/Ritonavir Viatris                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Corticosteroids                                                                     | Corticosteroids                                                                                       | Corticosteroids                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Dexamethasone                                                                       | Lopinavir: Concentrationsmay be decreased due to CYP3A induction by dexamethasone.                    | Clinical monitoring of antiviral efficacy is recommended when these medicines are concomitantly administered with Lopinavir/Ritonavir Viatris.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Inhaled, injectable or intranasal fluticasone propionate, budesonide, triamcinolone | Fluticasone propionate, 50 μg intranasal 4 times daily: Plasma concentrations ↑ Cortisol levels ↓ 86% | Greater effectsmay be expected when fluticasone propionate is inhaled. Systemic corticosteroid effects including Cushing's syndrome and adrenal suppression have been reported in patients receiving ritonavir and inhaled or intranasally administered fluticasone propionate; this could also occur with other corticosteroids metabolised via the P450 3A pathway e.g. budesonide and triamcinolone. Consequently, concomitant administration of Lopinavir/Ritonavir Viatris and these glucocorticoids is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects (see section 4.4). A dose reduction of the glucocorticoid should be considered with close monitoring of local and systemic effects or a switch to a glucocorticoid, which is not a substrate for CYP3A4 (e.g. beclomethasone). Moreover, in case of withdrawal of glucocorticoids progressive dose reduction may have to be performed over a longer period. |
+| Co-administered drug by therapeutic area                                            | Effects on drug levels Geometric Mean Change (%) in AUC, C max , C min Mechanism of interaction       | Clinical recommendation concerning co-administration with Lopinavir/Ritonavir Viatris                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Corticosteroids                                                                     | Corticosteroids                                                                                       | Corticosteroids                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Dexamethasone                                                                       | Lopinavir: Concentrations may be decreased due to CYP3A induction by dexamethasone.                   | Clinical monitoring of antiviral efficacy is recommended when these medicines are concomitantly administered with Lopinavir/Ritonavir Viatris.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Inhaled, injectable or intranasal fluticasone propionate, budesonide, triamcinolone | Fluticasone propionate, 50 μg intranasal 4 times daily: Plasma concentrations ↑ Cortisol levels ↓ 86% | Greater effects may be expected when fluticasone propionate is inhaled. Systemic corticosteroid effects including Cushing's syndrome and adrenal suppression have been reported in patients receiving ritonavir and inhaled or intranasally administered fluticasone propionate; this could also occur with other corticosteroids metabolised via the P450 3A pathway e.g. budesonide and triamcinolone. Consequently, concomitant administration of Lopinavir/Ritonavir Viatris and these glucocorticoids is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects (see section 4.4). A dose reduction of the glucocorticoid should be considered with close monitoring of local and systemic effects or a switch to a glucocorticoid, which is not a substrate for CYP3A4 (e.g. beclomethasone). Moreover, in case of withdrawal of glucocorticoids progressive dose reduction may have to be performed over a longer period. |
 
 <div style=\"page-break-after: always\"></div>
 
-| Co-administered drug by therapeutic area                    | Effects on drug levels Geometric Mean Change (%) in AUC, C max , C min Mechanism of interaction   | Clinical recommendation concerning co-administration with Lopinavir/Ritonavir Viatris                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|-------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Phosphodiesterase (PDE5) inhibitors                         | Phosphodiesterase (PDE5) inhibitors                                                               | Phosphodiesterase (PDE5) inhibitors                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Avanafil (ritonavir 600 mg BID)                             | Avanafil: AUC: ↑ 13-fold Due to CYP3A inhibition by lopinavir/ritonavir.                          | The use of avanafil with Lopinavir/Ritonavir Viatris is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Tadalafil                                                   | Tadalafil: AUC: ↑ 2-fold Due to CYP3A4 inhibition by lopinavir/ritonavir.                         | For the treatment of pulmonary arterial hypertension: Co- administration of Lopinavir/Ritonavir Viatris with sildenafil is contraindicated (see section 4.3). Co-                                                                                                                                                                                                                                                                                                                                                  |
-| Sildenafil                                                  | Sildenafil: AUC: ↑ 11-fold Due to CYP3A inhibition by lopinavir/ritonavir.                        | administration of Lopinavir/Ritonavir Viatris with tadalafil is not recommended. For erectile dysfunction: Particular caution must be used when prescribing sildenafil or tadalafil in patients receiving Lopinavir/Ritonavir Viatris with increased monitoring for adverse events including hypotension, syncope, visual changes and prolonged erection (see section 4.4). When co-administered with Lopinavir/Ritonavir Viatris, sildenafil doses must not exceed 25 mg in 48 hours and tadalafil doses must not |
-| Vardenafil                                                  | Vardenafil: AUC: ↑ 49-fold Due to CYP3A inhibition by lopinavir/ritonavir.                        | The use of vardenafil with Lopinavir/Ritonavir Viatris is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Ergot alkaloids                                             | Ergot alkaloids                                                                                   | Ergot alkaloids                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Dihydroergotamine, ergonovine, ergotamine, methylergonovine | Serum concentrations may be increased due to CYP3A inhibition by lopinavir/ritonavir.             | Concomitant administration of Lopinavir/Ritonavir Viatris and ergot alkaloids are contraindicated as it may lead to acute ergot toxicity, including vasospasm and ischaemia (see section 4.3).                                                                                                                                                                                                                                                                                                                     |
-| GI motility agent                                           | GI motility agent                                                                                 | GI motility agent                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Cisapride                                                   | Serum concentrations may be increased due to CYP3A inhibition by lopinavir/ritonavir.             | Concomitant administration of Lopinavir/Ritonavir Viatris and cisapride is contraindicated as it may increase the risk of serious arrhythmias from this agent (see section 4.3).                                                                                                                                                                                                                                                                                                                                   |
+| Co-administered drug by therapeutic area                    | Effects on drug levels Geometric Mean Change (%) in AUC, C max , C min Mechanism of interaction   | Clinical recommendation concerning co-administration with Lopinavir/Ritonavir Viatris                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|-------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Phosphodiesterase (PDE5) inhibitors                         | Phosphodiesterase (PDE5) inhibitors                                                               | Phosphodiesterase (PDE5) inhibitors                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Avanafil (ritonavir 600 mg BID)                             | Avanafil: AUC: ↑ 13-fold Due to CYP3A inhibition by lopinavir/ritonavir.                          | The use of avanafil with Lopinavir/Ritonavir Viatris is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Tadalafil                                                   | Tadalafil: AUC: ↑ 2-fold Due to CYP3A4 inhibition by lopinavir/ritonavir.                         | For the treatment of pulmonary arterial hypertension: Co- administration of Lopinavir/Ritonavir Viatris with sildenafil is contraindicated (see section 4.3). Co-                                                                                                                                                                                                                                                                                                                                                                               |
+| Sildenafil                                                  | Sildenafil: AUC: ↑ 11-fold Due to CYP3A inhibition by lopinavir/ritonavir.                        | administration of Lopinavir/Ritonavir Viatris with tadalafil is not recommended. For erectile dysfunction: Particular caution must be used when prescribing sildenafil or tadalafil in patients receiving Lopinavir/Ritonavir Viatris with increased monitoring for adverse events including hypotension, syncope, visual changes and prolonged erection (see section 4.4). When co-administered with Lopinavir/Ritonavir Viatris, sildenafil doses must not exceed 25 mg in 48 hours and tadalafil doses must not exceed 10 mg every 72 hours. |
+| Vardenafil                                                  | Vardenafil: AUC: ↑ 49-fold Due to CYP3A inhibition by lopinavir/ritonavir.                        | The use of vardenafil with Lopinavir/Ritonavir Viatris is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Ergot alkaloids                                             | Ergot alkaloids                                                                                   | Ergot alkaloids                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Dihydroergotamine, ergonovine, ergotamine, methylergonovine | Serum concentrations may be increased due to CYP3A inhibition by lopinavir/ritonavir.             | Concomitant administration of Lopinavir/Ritonavir Viatris and ergot alkaloids are contraindicated as it may lead to acute ergot toxicity, including vasospasm and ischaemia (see section 4.3).                                                                                                                                                                                                                                                                                                                                                  |
+| GI motility agent                                           | GI motility agent                                                                                 | GI motility agent                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Cisapride                                                   | Serum concentrations may be increased due to CYP3A inhibition by lopinavir/ritonavir.             | Concomitant administration of Lopinavir/Ritonavir Viatris and cisapride is contraindicated as it may increase the risk of serious arrhythmias from this agent (see section 4.3).                                                                                                                                                                                                                                                                                                                                                                |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -474,7 +473,7 @@ Unless otherwise stated, studies detailed below have been performed with the rec
 | Herbal products                                    | Herbal products                                                                                                                                                                                                                 | Herbal products                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | St John's wort ( Hypericum perforatum)             | Lopinavir: Concentrations may be reduced due to induction of CYP3A by the herbal preparation St John's wort.                                                                                                                    | Herbal preparations containing St John's wort must not be combined with lopinavir and ritonavir. If a patient is already taking St John's wort, stop St John's wort and if possible check viral levels. Lopinavir and ritonavir levels may increase on stopping St John's wort. The dose of Lopinavir/Ritonavir Viatris may need adjusting. The inducing effect may persist for at least 2 weeks after cessation of treatment with St John's wort (see section 4.3). Therefore, Lopinavir/Ritonavir Viatris can be started safely 2 weeks after cessation of St John's wort. |
 | Immunosuppressants                                 | Immunosuppressants                                                                                                                                                                                                              | Immunosuppressants                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Cyclosporin, Sirolimus (rapamycin), and Tacrolimus | Cyclosporin, Sirolimus (rapamycin), Tacrolimus: Concentrationsmay be increased due to CYP3A inhibition by lopinavir/ritonavir.                                                                                                  | More frequent therapeutic concentration monitoring is recommended until plasma levels of these products have been stabilised.                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Cyclosporin, Sirolimus (rapamycin), and Tacrolimus | Cyclosporin, Sirolimus (rapamycin), Tacrolimus: Concentrations may be increased due to CYP3A inhibition by lopinavir/ritonavir.                                                                                                 | More frequent therapeutic concentration monitoring is recommended until plasma levels of these products have been stabilised.                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Lipid lowering agents                              | Lipid lowering agents                                                                                                                                                                                                           | Lipid lowering agents                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Lovastatin and Simvastatin                         | Lovastatin, Simvastatin: Markedly increased plasma concentrations due to CYP3A inhibition by lopinavir/ritonavir.                                                                                                               | Since increased concentrations of HMG-CoA reductase inhibitors may cause myopathy, including rhabdomyolysis, the combination of these agents with Lopinavir/Ritonavir Viatris is contraindicated (see section 4.3).                                                                                                                                                                                                                                                                                                                                                          |
 | Lipid-modifying agents                             | Lipid-modifying agents                                                                                                                                                                                                          | Lipid-modifying agents                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
@@ -499,13 +498,13 @@ Unless otherwise stated, studies detailed below have been performed with the rec
 
 <div style=\"page-break-after: always\"></div>
 
-| Co-administered drug by therapeutic area                                                        | Effects on drug levels Geometric Mean Change (%) in AUC, C max , C min Mechanism of interaction                                                                                                                                                                      | Clinical recommendation concerning co-administration with Lopinavir/Ritonavir Viatris                                                                                                                                                                                                                                                            |
-|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Vasodilating agents                                                                             | Vasodilating agents                                                                                                                                                                                                                                                  | Vasodilating agents                                                                                                                                                                                                                                                                                                                              |
-| Bosentan                                                                                        | Lopinavir - ritonavir: Lopinavir/ritonavir plasma concentrations may decrease due to CYP3A4 induction by bosentan. Bosentan: AUC: ↑ 5-fold C max : ↑ 6-fold Initially, bosentan C min : ↑ by approximately 48-fold. Due to CYP3A4 inhibition by lopinavir/ritonavir. | Caution should be exercised in administering Lopinavir/Ritonavir Viatris with bosentan. When Lopinavir/Ritonavir Viatris is administered concomitantly with bosentan, the efficacy of the HIV therapy should be monitored and patients should be closely observed for bosentan toxicity, especially during the first week of co- administration. |
-| Riociguat                                                                                       | Serum concentrations may be increased due to CYP3A and P-gp inhibition by lopinavir/ritonavir                                                                                                                                                                        | The co-administration of riociguat with Lopinavir/Ritonavir Viatris is not recommended (see section 4.4 and refer to riociguat SmPC).                                                                                                                                                                                                            |
-| Other medicinal products                                                                        | Other medicinal products                                                                                                                                                                                                                                             | Other medicinal products                                                                                                                                                                                                                                                                                                                         |
-| Based on known metabolic profiles, clinically significant interactions are not expected between | Based on known metabolic profiles, clinically significant interactions are not expected between                                                                                                                                                                      | Based on known metabolic profiles, clinically significant interactions are not expected between                                                                                                                                                                                                                                                  |
+| Co-administered drug by therapeutic area                                                                                                                                                             | Effects on drug levels Geometric Mean Change (%) in AUC, C max , C min Mechanism of interaction                                                                                                                                                                      | Clinical recommendation concerning co-administration with Lopinavir/Ritonavir Viatris                                                                                                                                                                                                                                                            |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Vasodilating agents                                                                                                                                                                                  | Vasodilating agents                                                                                                                                                                                                                                                  | Vasodilating agents                                                                                                                                                                                                                                                                                                                              |
+| Bosentan                                                                                                                                                                                             | Lopinavir - ritonavir: Lopinavir/ritonavir plasma concentrations may decrease due to CYP3A4 induction by bosentan. Bosentan: AUC: ↑ 5-fold C max : ↑ 6-fold Initially, bosentan C min : ↑ by approximately 48-fold. Due to CYP3A4 inhibition by lopinavir/ritonavir. | Caution should be exercised in administering Lopinavir/Ritonavir Viatris with bosentan. When Lopinavir/Ritonavir Viatris is administered concomitantly with bosentan, the efficacy of the HIV therapy should be monitored and patients should be closely observed for bosentan toxicity, especially during the first week of co- administration. |
+| Riociguat                                                                                                                                                                                            | Serum concentrations may be increased due to CYP3A and P-gp inhibition by lopinavir/ritonavir                                                                                                                                                                        | The co-administration of riociguat with Lopinavir/Ritonavir Viatris is not recommended (see section 4.4 and refer to riociguat SmPC).                                                                                                                                                                                                            |
+| Other medicinal products                                                                                                                                                                             | Other medicinal products                                                                                                                                                                                                                                             | Other medicinal products                                                                                                                                                                                                                                                                                                                         |
+| Based on known metabolic profiles, clinically significant interactions are not expected between Lopinavir/Ritonavir Viatris and dapsone, trimethoprim/sulfamethoxazole, azithromycin or fluconazole. | Based on known metabolic profiles, clinically significant interactions are not expected between Lopinavir/Ritonavir Viatris and dapsone, trimethoprim/sulfamethoxazole, azithromycin or fluconazole.                                                                 | Based on known metabolic profiles, clinically significant interactions are not expected between Lopinavir/Ritonavir Viatris and dapsone, trimethoprim/sulfamethoxazole, azithromycin or fluconazole.                                                                                                                                             |
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -543,7 +542,9 @@ It is important to note that cases of pancreatitis have been reported in patient
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions from clinical trials and post-marketing experience in adult and paediatric patients: The following events have been identified as adverse reactions. The frequency category includes all reported events of moderate to severe intensity, regardless of the individual causality assessment. The adverse reactions are displayed by system organ class. Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1000 to &lt; 1/100), rare (≥1/10,000 to &lt;1/1000) and not known (cannot be estimated from the available data).
+## Adverse reactions from clinical trials and post-marketing experience in adult and paediatric patients:
+
+The following events have been identified as adverse reactions. The frequency category includes all reported events of moderate to severe intensity, regardless of the individual causality assessment. The adverse reactions are displayed by system organ class. Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1000 to &lt; 1/100), rare (≥1/10,000 to &lt;1/1000) and not known (cannot be estimated from the available data).
 
 ## Undesirable effects in clinical studies and post-marketing in adult patients
 
@@ -632,11 +633,9 @@ Lopinavir provides the antiviral activity of lopinavir/ritonavir. Lopinavir is a
 
 ## Effects on the electrocardiogram
 
-QTcF interval was evaluated in a randomised, placebo and active (moxifloxacin 400 mg once daily) controlled crossover study in 39 healthy adults, with 10 measurements over 12 hours on Day 3. The maximum mean (95% upper confidence bound) differences in QTcF from placebo were 3.6 (6.3) and 13.1(15.8) for 400/100 mg twice daily and supratherapeutic 800/200 mg twice daily LPV/r, respectively. The induced QRS interval prolongation from 6 ms to 9.5 ms with high dose lopinavir/ritonavir (800/200 mg twice daily) contributes to QT prolongation. The two regimens resulted in exposures on Day 3 which were approximately 1.5 and 3-fold higher than those observed with recommended once daily or twice daily LPV/r
+QTcF interval was evaluated in a randomised, placebo and active (moxifloxacin 400 mg once daily) controlled crossover study in 39 healthy adults, with 10 measurements over 12 hours on Day 3. The maximum mean (95% upper confidence bound) differences in QTcF from placebo were 3.6 (6.3) and 13.1(15.8) for 400/100 mg twice daily and supratherapeutic 800/200 mg twice daily LPV/r, respectively. The induced QRS interval prolongation from 6 ms to 9.5 ms with high dose lopinavir/ritonavir (800/200 mg twice daily) contributes to QT prolongation. The two regimens resulted in exposures on Day 3 which were approximately 1.5 and 3-fold higher than those observed with recommended once daily or twice daily LPV/r doses at steady state. No subject experienced an increase in QTcF of ≥ 60 ms from baseline or a QTcF interval exceeding the potentially clinically relevant threshold of 500 ms.
 
 <div style=\"page-break-after: always\"></div>
-
-doses at steady state. No subject experienced an increase in QTcF of ≥ 60 ms from baseline or a QTcF interval exceeding the potentially clinically relevant threshold of 500 ms.
 
 Modest prolongation of the PR interval was also noted in subjects receiving lopinavir/ritonavir in the same study on Day 3. The mean changes from baseline in PR interval ranged from 11.6 ms to 24.4 ms in the 12 hour interval post dose. Maximum PR interval was 286 ms and no second or third degree heart block was observed (see section 4.4).
 
@@ -658,21 +657,19 @@ In clinical studies with a limited number of isolates analysed, the selection of
 
 The selection of resistance to lopinavir in patients having failed prior protease inhibitor therapy was characterised by analysing the longitudinal isolates from 19 protease inhibitor-experienced subjects in 2 Phase II and one Phase III studies who either experienced incomplete virologic suppression or viral rebound subsequent to initial response to lopinavir/ritonavir and who demonstrated incremental in vitro resistance between baseline and rebound (defined as emergence of new mutations or 2-fold change in phenotypic susceptibility to lopinavir). Incremental resistance was most common in subjects whose baseline isolates had several protease inhibitor-associated mutations, but &lt; 40-fold reduced susceptibility to lopinavir at baseline. Mutations V82A, I54V and M46I emerged most frequently. Mutations L33F, I50V and V32I combined with I47V/A were also observed. The 19 isolates demonstrated a 4.3-fold increase in IC50 compared to baseline isolates (from 6.2- to 43-fold, compared to wild-type virus).
 
-Genotypic correlates of reduced phenotypic susceptibility to lopinavir in viruses selected by other protease inhibitors. The in vitro antiviral activity of lopinavir against 112 clinical isolates taken from patients failing therapy with one or more protease inhibitors was assessed. Within this panel, the following mutations in HIV protease were associated with reduced in vitro susceptibility to lopinavir: L10F/I/R/V, K20M/R, L24I, M46I/L, F53L, I54L/T/V, L63P, A71I/L/T/V, V82A/F/T, I84V and L90M. The median EC50 of lopinavir against isolates with 0 - 3, 4 - 5, 6 - 7 and 8 - 10 mutations at the above amino acid positions was 0.8, 2.7, 13.5 and 44.0-fold higher than the EC50 against wild type HIV, respectively. The 16 viruses that displayed &gt; 20-fold change in susceptibility all contained mutations at positions 10, 54, 63 plus 82 and/or 84. In addition, they contained a median of 3 mutations at amino acid positions 20, 24, 46, 53, 71 and 90. In addition to the mutations described above, mutations V32I and I47A have been observed in rebound isolates with reduced
+Genotypic correlates of reduced phenotypic susceptibility to lopinavir in viruses selected by other protease inhibitors. The in vitro antiviral activity of lopinavir against 112 clinical isolates taken from patients failing therapy with one or more protease inhibitors was assessed. Within this panel, the following mutations in HIV protease were associated with reduced in vitro susceptibility to lopinavir: L10F/I/R/V, K20M/R, L24I, M46I/L, F53L, I54L/T/V, L63P, A71I/L/T/V, V82A/F/T, I84V and L90M. The median EC50 of lopinavir against isolates with 0 - 3, 4 - 5, 6 - 7 and 8 - 10 mutations at the above amino acid positions was 0.8, 2.7, 13.5 and 44.0-fold higher than the EC 50 against wild type HIV, respectively. The 16 viruses that displayed &gt; 20-fold change in susceptibility all contained mutations at positions 10, 54, 63 plus 82 and/or 84. In addition, they contained a median of 3 mutations at amino acid positions 20, 24, 46, 53, 71 and 90. In addition to the mutations described above, mutations V32I and I47A have been observed in rebound isolates with reduced lopinavir susceptibility from protease inhibitor experienced patients receiving lopinavir/ritonavir therapy, and mutations I47A and L76V have been observed in rebound isolates with reduced lopinavir susceptibility from patients receiving lopinavir/ritonavir therapy.
 
 <div style=\"page-break-after: always\"></div>
-
-lopinavir susceptibility from protease inhibitor experienced patients receiving lopinavir/ritonavir therapy, and mutations I47A and L76V have been observed in rebound isolates with reduced lopinavir susceptibility from patients receiving lopinavir/ritonavir therapy.
 
 Conclusions regarding the relevance of particular mutations or mutational patterns are subject to change with additional data, and it is recommended to always consult current interpretation systems for analysing resistance test results.
 
 ## Antiviral activity of lopinavir/ritonavir in patients failing protease inhibitor therapy
 
-The clinical relevance of reduced in vitro susceptibility to lopinavir has been examined by assessing the virologic response to lopinavir/ritonavir therapy, with respect to baseline viral genotype and phenotype, in 56 patients previous failing therapy with multiple protease inhibitors. The EC50 of lopinavir against the 56 baseline viral isolates ranged from 0.6 to 96-fold higher than the EC50 against wild type HIV. After 48 weeks of treatment with lopinavir/ritonavir, efavirenz and nucleoside reverse transcriptase inhibitors, plasma HIV RNA ≤ 400 copies/ml was observed in 93% (25/27), 73% (11/15), and 25% (2/8) of patients with &lt; 10-fold, 10 to 40-fold, and &gt; 40-fold reduced susceptibility to lopinavir at baseline, respectively. In addition, virologic response was observed in 91% (21/23), 71% (15/21) and 33% (2/6) patients with 0 - 5, 6 - 7, and 8 - 10 mutations of the above mutations in HIV protease associated with reduced in vitro susceptibility to lopinavir. Since these patients had not previously been exposed to either lopinavir/ritonavir or efavirenz, part of the response may be attributed to the antiviral activity of efavirenz, particularly in patients harbouring highly lopinavir resistant virus. The study did not contain a control arm of patients not receiving lopinavir/ritonavir.
+The clinical relevance of reduced in vitro susceptibility to lopinavir has been examined by assessing the virologic response to lopinavir/ritonavir therapy, with respect to baseline viral genotype and phenotype, in 56 patients previous failing therapy with multiple protease inhibitors. The EC 50 of lopinavir against the 56 baseline viral isolates ranged from 0.6 to 96-fold higher than the EC 50 against wild type HIV. After 48 weeks of treatment with lopinavir/ritonavir, efavirenz and nucleoside reverse transcriptase inhibitors, plasma HIV RNA ≤ 400 copies/ml was observed in 93% (25/27), 73% (11/15), and 25% (2/8) of patients with &lt; 10-fold, 10 to 40-fold, and &gt; 40-fold reduced susceptibility to lopinavir at baseline, respectively. In addition, virologic response was observed in 91% (21/23), 71% (15/21) and 33% (2/6) patients with 0 - 5, 6 - 7, and 8 - 10 mutations of the above mutations in HIV protease associated with reduced in vitro susceptibility to lopinavir. Since these patients had not previously been exposed to either lopinavir/ritonavir or efavirenz, part of the response may be attributed to the antiviral activity of efavirenz, particularly in patients harbouring highly lopinavir resistant virus. The study did not contain a control arm of patients not receiving lopinavir/ritonavir.
 
 ## Cross-resistance
 
-Activity of other protease inhibitors against isolates that developed incremental resistance to lopinavir after lopinavir/ritonavir therapy in protease inhibitor experienced patients: The presence of cross resistance to other protease inhibitors was analysed in 18 rebound isolates that had demonstrated evolution of resistance to lopinavir during 3 Phase II and one Phase III studies of lopinavir/ritonavir in protease inhibitor-experienced patients. The median fold IC50 of lopinavir for these 18 isolates at baseline and rebound was 6.9- and 63-fold, respectively, compared to wild type virus. In general, rebound isolates either retained (if cross-resistant at baseline) or developed significant cross-resistance to indinavir, saquinavir and atazanavir. Modest decreases in amprenavir activity were noted with a median increase of IC50 from 3.7- to 8-fold in the baseline and rebound isolates, respectively. Isolates retained susceptibility to tipranavir with a median increase of IC50 in baseline and rebound isolates of 1.9- and 1.8-fold, respectively, compared to wild type virus. Please refer to the Aptivus Summary of Product Characteristics for additional information on the use of tipranavir, including genotypic predictors of response, in treatment of lopinavir-resistant HIV-1 infection.
+Activity of other protease inhibitors against isolates that developed incremental resistance to lopinavir after lopinavir/ritonavir therapy in protease inhibitor experienced patients: The presence of cross resistance to other protease inhibitors was analysed in 18 rebound isolates that had demonstrated evolution of resistance to lopinavir during 3 Phase II and one Phase III studies of lopinavir/ritonavir in protease inhibitor-experienced patients. The median fold IC 50 of lopinavir for these 18 isolates at baseline and rebound was 6.9- and 63-fold, respectively, compared to wild type virus. In general, rebound isolates either retained (if cross-resistant at baseline) or developed significant cross-resistance to indinavir, saquinavir and atazanavir. Modest decreases in amprenavir activity were noted with a median increase of IC 50 from 3.7- to 8-fold in the baseline and rebound isolates, respectively. Isolates retained susceptibility to tipranavir with a median increase of IC 50 in baseline and rebound isolates of 1.9- and 1.8-fold, respectively, compared to wild type virus. Please refer to the Aptivus Summary of Product Characteristics for additional information on the use of tipranavir, including genotypic predictors of response, in treatment of lopinavir-resistant HIV-1 infection.
 
 ## Clinical results
 
@@ -682,7 +679,7 @@ The effects of lopinavir/ritonavir (in combination with other antiretroviral age
 
 Patients without prior antiretroviral therapy
 
-Study M98-863 was a randomised, double-blind trial of 653 antiretroviral treatment naïve patients investigating lopinavir/ritonavir (400/100 mg twice daily) compared to nelfinavir (750 mg three times daily) plus stavudine and lamivudine. Mean baseline CD4+ T-cell count was 259 cells/mm 3  (range: 2 to 949 cells/mm 3 ) and mean baseline plasma HIV-1 RNA was 4.9 log10 copies/ml (range: 2.6 to 6.8 log10 copies/ml).
+Study M98-863 was a randomised, double-blind trial of 653 antiretroviral treatment naïve patients investigating lopinavir/ritonavir (400/100 mg twice daily) compared to nelfinavir (750 mg three times daily) plus stavudine and lamivudine. Mean baseline CD4+ T-cell count was 259 cells/mm 3 (range: 2 to 949 cells/mm 3 ) and mean baseline plasma HIV-1 RNA was 4.9 log10 copies/ml (range: 2.6 to 6.8 log 10 copies/ml).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -695,8 +692,6 @@ Table 1
 | HIV RNA < 50 copies/ml*†                                       | 67%                                  | 52%                                  |
 | Mean increase from baseline in CD4+ T-cell count (cells/mm 3 ) | 207                                  | 195                                  |
 
-* intent to treat analysis where patients with missing values are considered virologic failures † p&lt;0.001
-
 One-hundred thirteen nelfinavir-treated patients and 74 lopinavir/ritonavir-treated patients had an HIV RNA above 400 copies/ml while on treatment from Week 24 through Week 96. Of these, isolates from 96 nelfinavir-treated patients and 51 lopinavir/ritonavir-treated patients could be amplified for resistance testing. Resistance to nelfinavir, defined as the presence of the D30N or L90M mutation in protease, was observed in 41/96 (43%) patients. Resistance to lopinavir, defined as the presence of any primary or active site mutations in protease (see above), was observed in 0/51 (0%) patients. Lack of resistance to lopinavir was confirmed by phenotypic analysis.
 
 Study M05-730 was a randomised, open-label, multicentre trial comparing treatment with lopinavir/ritonavir 800/200 mg once daily plus tenofovir DF and emtricitabine versus lopinavir/ritonavir 400/100 mg twice daily plus tenofovir DF and emtricitabine in 664 antiretroviral treatment-naïve patients. Given the pharmacokinetic interaction between lopinavir/ritonavir and tenofovir (see section 4.5), the results of this study might not be strictly extrapolable when other backbone regimens are used with lopinavir/ritonavir. Patients were randomised in a 1:1 ratio to receive either lopinavir/ritonavir 800/200 mg once daily (n = 333) or lopinavir/ritonavir 400/100 mg twice daily (n = 331). Further stratification within each group was 1:1 (tablet versus. soft capsule). Patients were administered either the tablet or the soft capsule formulation for 8 weeks, after which all patients were administered the tablet formulation once daily or twice daily for the remainder of the study. Patients were administered emtricitabine 200 mg once daily and tenofovir DF 300 mg once daily (equivalent to 245 mg tenofovir disoproxil). Protocol defined non-inferiority of once daily dosing compared with twice daily dosing was demonstrated if the lower bound of the 95% confidence interval for the difference in proportion of subjects responding (once daily minus twice daily) excluded -12% at Week 48. Mean age of patients enrolled was 39 years (range: 19 to 71); 75% were Caucasian, and 78% were male. Mean baseline CD4+ T-cell count was 216 cells/mm3 (range: 20 to 775 cells/mm 3 ) and mean baseline plasma HIV-1 RNA was 5.0 log10 copies/ml (range: 1.7 to 7.0 log10 copies/ml).
@@ -707,15 +702,13 @@ Table 2
 |---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
 |                                                               | Week 48                                                       | Week 48                                                       | Week 48                                                       | Week 96                                                       | Week 96                                                       | Week 96                                                       |
 |                                                               | QD                                                            | BID                                                           | Difference [95% CI]                                           | QD                                                            | BID                                                           | Difference [95% CI]                                           |
-| NC= Failure                                                   | 257/333 (77.2%)                                               | 251/331 (75.8%)                                               | 1.3 % [-5.1, 7.8]                                             | 216/333 (64.9%)                                               | 229/331 (69.2%)                                               | -4.3% [-11.5, 2.8]                                            |
+| NC= Failure                                                   | 257/333 (77.2%)                                               | 251/331 (75.8%)                                               | 1.3% [-5.1, 7.8]                                              | 216/333 (64.9%)                                               | 229/331 (69.2%)                                               | -4.3% [-11.5, 2.8]                                            |
 | Observed data                                                 | 257/295 (87.1%)                                               | 250/280 (89.3%)                                               | -2.2% [-7.4, 3.1]                                             | 216/247 (87.4%)                                               | 229/248 (92.3%)                                               | -4.9% [-10.2, 0.4]                                            |
 | Mean increase from baseline in CD4+ T-cell count (cells/mm3)  | 186                                                           | 198                                                           |                                                               | 238                                                           | 254                                                           |                                                               |
 
-Through Week 96, genotypic resistance testing results were available from 25 patients in the QD group and 26 patients in the BID group who had incomplete virologic response. In the QD group, no patient
+Through Week 96, genotypic resistance testing results were available from 25 patients in the QD group and 26 patients in the BID group who had incomplete virologic response. In the QD group, no patient demonstrated lopinavir resistance, and in the BID group, 1 patient who had significant protease inhibitor resistance at baseline demonstrated additional lopinavir resistance on study.
 
 <div style=\"page-break-after: always\"></div>
-
-demonstrated lopinavir resistance, and in the BID group, 1 patient who had significant protease inhibitor resistance at baseline demonstrated additional lopinavir resistance on study.
 
 Sustained virological response to lopinavir/ritonavir (in combination with nucleoside/nucleotide reverse transcriptase inhibitors) has been also observed in a small Phase II study (M97-720) through 360 weeks of treatment. One hundred patients were originally treated with lopinavir/ritonavir in the study (including 51 patients receiving 400/100 mg twice daily and 49 patients at either 200/100 mg twice daily or 400/200 mg twice daily). All patients converted to open-label lopinavir/ritonavir at the 400/100 mg twice daily dose between week 48 and week 72. Thirty-nine patients (39%) discontinued the study, including 16 (16%) discontinuations due to adverse events, one of which was associated with a death. Sixty-one patients completed the study (35 patients received the recommended 400/100 mg twice daily dose throughout the study).
 
@@ -732,7 +725,7 @@ Through 360 weeks of treatment, genotypic analysis of viral isolates was success
 
 ## Patients with prior antiretroviral therapy
 
-M06-802 was a randomised open-label study comparing the safety, tolerability and antiviral activity of once daily and twice daily dosing of lopinavir/ritonavir tablets in 599 subjects with detectable viral loads while receiving their current antiviral therapy. Patients had not been on prior lopinavir/ritonavir therapy. They were randomised in a 1:1 ratio to receive either lopinavir/ritonavir 800/200 mg once daily (n = 300) or lopinavir/ritonavir 400/100 mg twice daily (n = 299). Patients were administered at least two nucleoside/nucleotide reverse transcriptase inhibitors selected by the investigator. The enrolled population was moderately PI-experienced with more than half of patients having never received prior PI and around 80% of patients presenting a viral strain with less than 3 PI mutations. Mean age of patients enrolled was 41 years (range: 21 to 73); 51% were Caucasian and 66% were male. Mean baseline CD4+ T-cell count was 254 cells/mm 3  (range: 4 to 952 cells/mm 3 ) and mean baseline plasma HIV-1 RNA was 4.3 log10 copies/ml (range: 1.7 to 6.6 log10 copies/ml). Around 85% of patients had a viral load of &lt; 100,000 copies/ml.
+M06-802 was a randomised open-label study comparing the safety, tolerability and antiviral activity of once daily and twice daily dosing of lopinavir/ritonavir tablets in 599 subjects with detectable viral loads while receiving their current antiviral therapy. Patients had not been on prior lopinavir/ritonavir therapy. They were randomised in a 1:1 ratio to receive either lopinavir/ritonavir 800/200 mg once daily (n = 300) or lopinavir/ritonavir 400/100 mg twice daily (n = 299). Patients were administered at least two nucleoside/nucleotide reverse transcriptase inhibitors selected by the investigator. The enrolled population was moderately PI-experienced with more than half of patients having never received prior PI and around 80% of patients presenting a viral strain with less than 3 PI mutations. Mean age of patients enrolled was 41 years (range: 21 to 73); 51% were Caucasian and 66% were male. Mean baseline CD4+ T-cell count was 254 cells/mm 3 (range: 4 to 952 cells/mm 3 ) and mean baseline plasma HIV-1 RNA was 4.3 log10 copies/ml (range: 1.7 to 6.6 log 10 copies/ml). Around 85% of patients had a viral load of &lt; 100,000 copies/ml.
 
 Table 4
 
@@ -749,7 +742,7 @@ Through Week 48, genotypic resistance testing results were available from 75 pat
 
 ## Paediatric Use
 
-M98-940 was an open-label study of a liquid formulation of lopinavir/ritonavir in 100 antiretroviral naïve (44%) and experienced (56%) paediatric patients. All patients were non-nucleoside reverse transcriptase inhibitor naïve. Patients were randomised to either 230 mg lopinavir/57.5 mg ritonavir per m 2  or 300 mg lopinavir/75 mg ritonavir per m 2 . Naïve patients also received nucleoside reverse transcriptase inhibitors. Experienced patients received nevirapine plus up to two nucleoside reverse transcriptase inhibitors. Safety, efficacy and pharmacokinetic profiles of the two dose regimens were assessed after 3 weeks of therapy in each patient. Subsequently, all patients were continued on the 300/75 mg per m 2  dose. Patients had a mean age of 5 years (range 6 months to 12 years) with 14 patients less than 2 years old and 6 patients one year or less. Mean baseline CD4+ T-cell count was 838 cells/mm 3  and mean baseline plasma HIV-1 RNA was 4.7 log10 copies/ml.
+M98-940 was an open-label study of a liquid formulation of lopinavir/ritonavir in 100 antiretroviral naïve (44%) and experienced (56%) paediatric patients. All patients were non-nucleoside reverse transcriptase inhibitor naïve. Patients were randomised to either 230 mg lopinavir/57.5 mg ritonavir per m 2 or 300 mg lopinavir/75 mg ritonavir per m 2 . Naïve patients also received nucleoside reverse transcriptase inhibitors. Experienced patients received nevirapine plus up to two nucleoside reverse transcriptase inhibitors. Safety, efficacy and pharmacokinetic profiles of the two dose regimens were assessed after 3 weeks of therapy in each patient. Subsequently, all patients were continued on the 300/75 mg per m 2 dose. Patients had a mean age of 5 years (range 6 months to 12 years) with 14 patients less than 2 years old and 6 patients one year or less. Mean baseline CD4+ T-cell count was 838 cells/mm 3 and mean baseline plasma HIV-1 RNA was 4.7 log 10 copies/ml.
 
 Table 5
 
@@ -763,7 +756,7 @@ KONCERT/PENTA 18 is a prospective multicentre, randomised, open-label study that
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetic properties of lopinavir co-administered with ritonavir have been evaluated in healthy adult volunteers and in HIV-infected patients; no substantial differences were observed between the two groups. Lopinavir is essentially completely metabolised by CYP3A. Ritonavir inhibits the metabolism of lopinavir, thereby increasing the plasma levels of lopinavir. Across studies, administration of lopinavir/ritonavir 400/100 mg twice daily yields mean steady-state lopinavir plasma concentrations 15 to 20-fold higher than those of ritonavir in HIV-infected patients. The plasma levels of ritonavir are less than 7% of those obtained after the ritonavir dose of 600 mg twice daily. The in vitro antiviral EC50 of lopinavir is approximately 10-fold lower than that of ritonavir. Therefore, the antiviral activity of lopinavir/ritonavir is due to lopinavir.
+The pharmacokinetic properties of lopinavir co-administered with ritonavir have been evaluated in healthy adult volunteers and in HIV-infected patients; no substantial differences were observed between the two groups. Lopinavir is essentially completely metabolised by CYP3A. Ritonavir inhibits the metabolism of lopinavir, thereby increasing the plasma levels of lopinavir. Across studies, administration of lopinavir/ritonavir 400/100 mg twice daily yields mean steady-state lopinavir plasma concentrations 15 to 20-fold higher than those of ritonavir in HIV-infected patients. The plasma levels of ritonavir are less than 7% of those obtained after the ritonavir dose of 600 mg twice daily. The in vitro antiviral EC 50 of lopinavir is approximately 10-fold lower than that of ritonavir. Therefore, the antiviral activity of lopinavir/ritonavir is due to lopinavir.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -773,7 +766,7 @@ Multiple dosing with 400/100 mg lopinavir/ritonavir twice daily for 2 weeks and 
 
 ## Effects of food on oral absorption
 
-Administration of a single 400/100 mg dose of lopinavir/ritonavir tablets under fed conditions (high fat, 872 kcal, 56% from fat) compared to fasted state was associated with no significant changes in Cmax and AUCinf. Therefore, lopinavir/ritonavir tablets may be taken with or without food. Lopinavir/ritonavir tablets have also shown less pharmacokinetic variability under all meal conditions compared to lopinavir/ritonavir soft capsules.
+Administration of a single 400/100 mg dose of lopinavir/ritonavir tablets under fed conditions (high fat, 872 kcal, 56% from fat) compared to fasted state was associated with no significant changes in C max and AUCinf. Therefore, lopinavir/ritonavir tablets may be taken with or without food. Lopinavir/ritonavir tablets have also shown less pharmacokinetic variability under all meal conditions compared to lopinavir/ritonavir soft capsules.
 
 ## Distribution
 
@@ -781,15 +774,15 @@ At steady state, lopinavir is approximately 98 - 99% bound to serum proteins. Lo
 
 ## Biotransformation
 
-In vitro experiments with human hepatic microsomes indicate that lopinavir primarily undergoes oxidative metabolism. Lopinavir is extensively metabolised by the hepatic cytochrome P450 system, almost exclusively by isozyme CYP3A. Ritonavir is a potent CYP3A inhibitor which inhibits the metabolism of lopinavir and therefore, increases plasma levels of lopinavir. A  14 C-lopinavir study in humans showed that 89% of the plasma radioactivity after a single 400/100 mg lopinavir/ritonavir dose was due to parent active substance. At least 13 lopinavir oxidative metabolites have been identified in man. The 4-oxo and 4hydroxymetabolite epimeric pair are the major metabolites with antiviral activity, but comprise only minute amounts of total plasma radioactivity. Ritonavir has been shown to induce metabolic enzymes, resulting in the induction of its own metabolism, and likely the induction of lopinavir metabolism. Pre-dose lopinavir concentrations decline with time during multiple dosing, stabilising after approximately 10 days to 2 weeks.
+In vitro experiments with human hepatic microsomes indicate that lopinavir primarily undergoes oxidative metabolism. Lopinavir is extensively metabolised by the hepatic cytochrome P450 system, almost exclusively by isozyme CYP3A. Ritonavir is a potent CYP3A inhibitor which inhibits the metabolism of lopinavir and therefore, increases plasma levels of lopinavir. A 14 C-lopinavir study in humans showed that 89% of the plasma radioactivity after a single 400/100 mg lopinavir/ritonavir dose was due to parent active substance. At least 13 lopinavir oxidative metabolites have been identified in man. The 4-oxo and 4hydroxymetabolite epimeric pair are the major metabolites with antiviral activity, but comprise only minute amounts of total plasma radioactivity. Ritonavir has been shown to induce metabolic enzymes, resulting in the induction of its own metabolism, and likely the induction of lopinavir metabolism. Pre-dose lopinavir concentrations decline with time during multiple dosing, stabilising after approximately 10 days to 2 weeks.
 
 ## Elimination
 
-After a 400/100 mg  14 C-lopinavir/ritonavir dose, approximately 10.4 ± 2.3% and 82.6 ± 2.5% of an administered dose of  14 C-lopinavir can be accounted for in urine and faeces, respectively. Unchanged lopinavir accounted for approximately 2.2% and 19.8% of the administered dose in urine and faeces, respectively. After multiple dosing, less than 3% of the lopinavir dose is excreted unchanged in the urine. The effective (peak to trough) half-life of lopinavir over a 12 hour dosing interval averaged 5 - 6 hours, and the apparent oral clearance (CL/F) of lopinavir is 6 to 7 l /h.
+After a 400/100 mg 14 C-lopinavir/ritonavir dose, approximately 10.4 ± 2.3% and 82.6 ± 2.5% of an administered dose of 14 C-lopinavir can be accounted for in urine and faeces, respectively. Unchanged lopinavir accounted for approximately 2.2% and 19.8% of the administered dose in urine and faeces, respectively. After multiple dosing, less than 3% of the lopinavir dose is excreted unchanged in the urine. The effective (peak to trough) half-life of lopinavir over a 12 hour dosing interval averaged 5 - 6 hours, and the apparent oral clearance (CL/F) of lopinavir is 6 to 7 l /h.
 
 Once-daily dosing: the pharmacokinetics of once daily lopinavir/ritonavir have been evaluated in HIVinfected subjects naïve to antiretroviral treatment. Lopinavir/ritonavir 800/200 mg was administered in combination with emtricitabine 200 mg and tenofovir DF 300 mg as part of a once-daily regimen. Multiple dosing of 800/200 mg lopinavir/ritonavir once daily for 2 weeks without meal restriction (n=16) produced a mean ± SD lopinavir peak plasma concentration (Cmax) of 14.8 ± 3.5 μg/ml, occurring approximately 6 hours after administration. The mean steady-state trough concentration prior to the morning dose was 5.5 ± 5.4 μg/ml. Lopinavir AUC over a 24 hour dosing interval averaged 206.5 ± 89.7 μg h/ml.
 
-As compared to the BID regimen, the once-daily dosing is associated with a reduction in the Cmin/Ctrough values of approximately 50%.
+As compared to the BID regimen, the once-daily dosing is associated with a reduction in the C min /Ctrough values of approximately 50%.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -797,7 +790,7 @@ As compared to the BID regimen, the once-daily dosing is associated with a reduc
 
 ## Paediatrics
 
-There are limited pharmacokinetic data in children below 2 years of age. The pharmacokinetics of lopinavir/ritonavir oral solution 300/75 mg/m 2  twice daily and 230/57.5 mg/m 2  twice daily have been studied in a total of 53 paediatric patients, ranging in age from 6 months to 12 years. The lopinavir mean steady-state AUC, Cmax, and Cmin were 72.6 ± 31.1 μg·h/ml, 8.2 ± 2.9 μg/ml and 3.4 ± 2.1 μg/ml, respectively after lopinavir/ritonavir oral solution 230/57.5 mg/m 2  twice daily without nevirapine (n=12), and were 85.8 ± 36.9 μg·h/ml, 10.0 ± 3.3 μg/ml and 3.6 ± 3.5 μg/ml, respectively after 300/75 mg/m 2  twice daily with nevirapine (n=12). The 230/57.5 mg/m 2  twice daily regimen without nevirapine and the 300/75 mg/m 2  twice daily regimen with nevirapine provided lopinavir plasma concentrations similar to those obtained in adult patients receiving the 400/100 mg twice daily regimen without nevirapine.
+There are limited pharmacokinetic data in children below 2 years of age. The pharmacokinetics of lopinavir/ritonavir oral solution 300/75 mg/m 2 twice daily and 230/57.5 mg/m 2 twice daily have been studied in a total of 53 paediatric patients, ranging in age from 6 months to 12 years. The lopinavir mean steady-state AUC, Cmax, and Cmin were 72.6 ± 31.1 μg·h/ml, 8.2 ± 2.9 μg/ml and 3.4 ± 2.1 μg/ml, respectively after lopinavir/ritonavir oral solution 230/57.5 mg/m 2 twice daily without nevirapine (n=12), and were 85.8 ± 36.9 μg·h/ml, 10.0 ± 3.3 μg/ml and 3.6 ± 3.5 μg/ml, respectively after 300/75 mg/m 2 twice daily with nevirapine (n=12). The 230/57.5 mg/m 2 twice daily regimen without nevirapine and the 300/75 mg/m 2 twice daily regimen with nevirapine provided lopinavir plasma concentrations similar to those obtained in adult patients receiving the 400/100 mg twice daily regimen without nevirapine.
 
 ## Gender, race and age
 
@@ -865,19 +858,19 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-3 years
+2 years
 
 HDPE bottle: After first opening, use within 120 days.
 
 ## 6.4 Special precautions for storage
 
-This medicinal product does not require any special storage conditions.
+Do not store above 25°C.
 
 For storage conditions after first opening of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
-## Lopinavir/Ritonavir Viatris 100 mg/25 mg film-coated tablets
+Lopinavir/Ritonavir Viatris 100 mg/25 mg film-coated tablets
 
 OPA/Al/PVC-aluminium blister pack. Pack sizes available are:
 
@@ -887,9 +880,7 @@ HDPE bottle with white opaque polypropylene screw cap with aluminium induction s
 
 - -1 bottle of 60 film-coated tablets.
 
-## Lopinavir/Ritonavir Viatris 200 mg/50 mg film-coated tablets
-
-OPA/Al/PVC-aluminium blister pack. Pack sizes available are:
+Lopinavir/Ritonavir Viatris 200 mg/50 mg film-coated tablets OPA/Al/PVC-aluminium blister pack. Pack sizes available are:
 
 - -120 (4 cartons of 30 or 4 cartons of 30 x1 unit dose) or 360 (12 cartons of 30) film-coated tablets.
 
@@ -904,9 +895,9 @@ Not all pack sizes may be marketed.
 
 No special requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -914,9 +905,7 @@ Viatris LimitedDamastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/15/1067/001 EU/1/15/1067/002 EU/1/15/1067/003 EU/1/15/1067/004 EU/1/15/1067/005 EU/1/15/1067/006 EU/1/15/1067/007
-
-EU/1/15/1067/008
+EU/1/15/1067/001 EU/1/15/1067/002 EU/1/15/1067/003 EU/1/15/1067/004 EU/1/15/1067/005 EU/1/15/1067/006 EU/1/15/1067/007 EU/1/15/1067/008
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -930,11 +919,11 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX II A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE OTHER CONDITIONS AND REQUIREMENTS OF THE
+## ANNEX II
 
-## C. MARKETING AUTHORISATION
+## A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -952,26 +941,24 @@ Medicinal product subject to restricted medical prescription (See Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX III
-
-## LABELLING AND PACKAGE LEAFLET
+## ANNEX III LABELLING AND PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -981,11 +968,13 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON OF BLISTER
+## OUTER CARTON OF BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lopinavir/Ritonavir Viatris 200 mg/50 mg film-coated tablets lopinavir/ritonavir
+Lopinavir/Ritonavir Viatris 200 mg/50 mg film-coated tablets
+
+lopinavir/ritonavir
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -997,7 +986,9 @@ Each film-coated tablet contains 200 mg of lopinavir co-formulated with 50 mg ri
 
 ## Film-coated tablet
 
-120 (4 packs of 30) film-coated tablets 120x1 (4 packs of 30x1) film-coated tablets 360 (12 packs of 30) film-coated tablets
+120 (4 packs of 30) film-coated tablets
+
+120x1 (4 packs of 30x1) film-coated tablets 360 (12 packs of 30) film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1015,55 +1006,61 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+Do not store above 25°C.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris LimitedDamastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Viatris LimitedDamastown Industrial Park,
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+Mulhuddart, Dublin 15,
 
-EU/1/15/1067/004 EU/1/15/1067/006 EU/1/15/1067/005
+DUBLIN
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/15/1067/004
+
+EU/1/15/1067/006
+
+EU/1/15/1067/005
+
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Lopinavir/Ritonavir Viatris 200 mg/50 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC
 
 <div style=\"page-break-after: always\"></div>
 
+SN
+
+<div style=\"page-break-after: always\"></div>
+
+NN
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-INNER CARTON OF BLISTER
+## INNER CARTON OF BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1077,7 +1074,7 @@ Each film-coated tablet contains 200 mg of lopinavir co-formulated with 50 mg ri
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
 30 film-coated tablets
 
@@ -1101,7 +1098,11 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
+
+Do not store above 25°C.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1129,12 +1130,9 @@ EU/1/15/1067/005 - 360 Film-coated tablets
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 17. UNIQUE IDENTIFIER - 2D BARCODE
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -1144,8 +1142,7 @@ Lot
 |-------------------------------------------------------|
 | BLISTER                                               |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Lopinavir/Ritonavir Viatris 200 mg/50 mg film-coated tablets lopinavir/ritonavir
 
@@ -1209,51 +1206,43 @@ EXP
 
 After first opening, use within 120 days.
 
-<div style=\"page-break-after: always\"></div>
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+Do not store above 25°C.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
-Ireland
-
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/15/1067/008
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Lopinavir/Ritonavir Viatris 200 mg/50 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1275,7 +1264,7 @@ Each film-coated tablet contains 200 mg of lopinavir co-formulated with 50 mg of
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablet
+Film-coated tablet
 
 Multipack: 360 (3 bottles of 120) film-coated tablets
 
@@ -1299,55 +1288,55 @@ EXP
 
 After first opening, use within 120 days.
 
-<div style=\"page-break-after: always\"></div>
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+Do not store above 25°C.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
+Viatris Limited
+
+Damastown Industrial Park,
+
+Mulhuddart, Dublin 15,
+
+DUBLIN
 
 Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/15/1067/007
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Lopinavir/Ritonavir Viatris 200 mg/50 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
-
-NN
+PC
 
 <div style=\"page-break-after: always\"></div>
+
+SN
+
+<div style=\"page-break-after: always\"></div>
+
+NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1365,7 +1354,7 @@ Each film-coated tablet contains 200 mg of lopinavir co-formulated with 50 mg ri
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablet
+Film-coated tablet
 
 120 film-coated tablets
 
@@ -1387,16 +1376,19 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-EXP
+<div style=\"page-break-after: always\"></div>
 
-After first opening, use within 120 days.
+EXP
 
 <div style=\"page-break-after: always\"></div>
 
+After first opening, use within 120 days.
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+Do not store above 25°C.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1413,13 +1405,12 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
+
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
-
-<div style=\"page-break-after: always\"></div>
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -1437,7 +1428,7 @@ Each film-coated tablet contains 200 mg of lopinavir co-formulated with 50 mg ri
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
 120 film-coated tablets
 
@@ -1461,47 +1452,39 @@ After first opening, use within 120 days.
 
 <div style=\"page-break-after: always\"></div>
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+Do not store above 25°C.
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Ireland
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
-| 12. MARKETING AUTHORISATION NUMBER   |
-|--------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/15/1067/007
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 Not applicable
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 Not applicable
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1511,7 +1494,9 @@ OUTER CARTON OF BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lopinavir/Ritonavir Viatris 100 mg/25 mg film-coated tablets lopinavir/ritonavir
+Lopinavir/Ritonavir Viatris 100 mg/25 mg film-coated tablets
+
+lopinavir/ritonavir
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1523,11 +1508,15 @@ Each film-coated tablet contains 100 mg of lopinavir co-formulated with 25 mg ri
 
 Film-coated tablet
 
-60 (2 packs of 30) film-coated tablets 60x1 (2 packs of 30x1) film-coated tablets
+60 (2 packs of 30) film-coated tablets
+
+60x1 (2 packs of 30x1) film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use.
+Read the package leaflet before use.
+
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1540,6 +1529,8 @@ Keep out of the sight and reach of children.
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
+
+Do not store above 25°C.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1587,15 +1578,15 @@ SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 INNER CARTON OF BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lopinavir/Ritonavir Viatris 100 mg/25 mg film-coated tablets lopinavir/ritonavir
+Lopinavir/Ritonavir Viatris 100 mg/25 mg film-coated tablets
+
+lopinavir/ritonavir
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1631,6 +1622,10 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+Do not store above 25°C.
+
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -1655,8 +1650,7 @@ EU/1/15/1067/002 - 60x1 Film-coated tablets
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 17. UNIQUE IDENTIFIER - 2D BARCODE
@@ -1664,34 +1658,25 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER                                               |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Lopinavir/Ritonavir Viatris 100 mg/25 mg film-coated tablets lopinavir/ritonavir
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Viatris Limited
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
-
-<div style=\"page-break-after: always\"></div>
+## 5. OTHER
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1737,30 +1722,33 @@ After first opening, use within 120 days.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10.
+Do not store above 25°C.
 
-SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR
-
-WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
-
-APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Viatris Limited
+
+Damastown Industrial Park,
+
+Mulhuddart, Dublin 15,
+
+DUBLIN
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/15/1067/003
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1770,14 +1758,17 @@ Lopinavir/Ritonavir Viatris 100 mg/25 mg
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
-
-NN
+PC
 
 <div style=\"page-break-after: always\"></div>
+
+SN
+
+<div style=\"page-break-after: always\"></div>
+
+NN
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -1801,7 +1792,9 @@ Film-coated tablet
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use.
+Read the package leaflet before use.
+
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1817,59 +1810,51 @@ After first opening, use within 120 days.
 
 <div style=\"page-break-after: always\"></div>
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+Do not store above 25°C.
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Ireland
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/15/1067/003
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 Not applicable
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 Not applicable
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Lopinavir/Ritonavir Viatris 200 mg/50 mg film-coated tablets
 
-lopinavir/ritonavir
+## lopinavir/ritonavir
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you or your child.
 
@@ -1905,8 +1890,7 @@ lopinavir/ritonavir
 ## Do not take Lopinavir/Ritonavir Viatris with any of the following medicines:
 
 - -astemizole or terfenadine (commonly used to treat allergy symptoms - these medicines may be available without prescription);
-- -
-- midazolam taken orally (taken by mouth), triazolam (used to relieve anxiety and/or trouble sleeping);
+- -midazolam taken orally (taken by mouth), triazolam (used to relieve anxiety and/or trouble sleeping);
 - -pimozide (used to treat schizophrenia);
 - -quetiapine (used to treat schizophrenia, bipolar disorder and major depressive disorder);
 - -lurasidone (used to treat depression);
@@ -1926,11 +1910,11 @@ lopinavir/ritonavir
 - -ombitasvir/paritaprevir/ritonavir with or without dasabuvir (used to treat chronic hepatitis C virus [HCV]);
 - -neratinib (used to treat breast cancer);
 - -avanafil or vardenafil (used to treat erectile dysfunction);
-- -
-- sildenafil used to treat pulmonary arterial hypertension (high blood pressure in the pulmonary artery). Sildenafil used to treat erectile dysfunction may be taken under doctor's supervision (see Other medicines and Lopinavir/ritonavir Viatris section);
+- -sildenafil used to treat pulmonary arterial hypertension (high blood pressure in the pulmonary artery).
+- Sildenafil used to treat erectile dysfunction may be taken under doctor's supervision (see Other medicines and Lopinavir/ritonavir Viatris section);
 - -products that contain St John's wort ( Hypericum perforatum ).
 
-## Read the list of medicines below under 'Other medicines and Lopinavir/Ritonavir Viatris' for information on certain other medicines which require special care.
+Read the list of medicines below under 'Other medicines and Lopinavir/Ritonavir Viatris' for information on certain other medicines which require special care.
 
 If you are currently taking any of these medicines, ask your doctor about making necessary changes either in the treatment for your other condition(s) or in your antiretroviral treatment.
 
@@ -1953,11 +1937,10 @@ Talk to your doctor or pharmacist before taking Lopinavir/Ritonavir Viatris.
 - -Nausea, vomiting, abdominal pain, difficulty breathing and severe weakness of the muscles in the legs and arms as these symptoms may indicate raised lactic acid levels.
 - -Thirst, frequent urination, blurred vision or weight loss as this may indicate raised sugar levels in the blood.
 - -Nausea, vomiting, abdominal pain as large increases in the amount of triglycerides (fats in the blood) have been considered a risk factor for pancreatitis (inflammation of the pancreas) and these symptoms may suggest this condition.
-- In some patients with advanced HIV infection and a history of opportunistic infection, signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started. It is believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms. In addition to the opportunistic infections, autoimmune disorders (a condition that occurs when the immune system attacks healthy body tissue) may also occur after you start taking medicines for the treatment of your HIV infection. Autoimmune disorders may occur many months after the start of treatment. If you notice any symptoms of infection or other symptoms such as muscle weakness,
+
+In some patients with advanced HIV infection and a history of opportunistic infection, signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started. It is believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms. In addition to the opportunistic infections, autoimmune disorders (a condition that occurs when the immune system attacks healthy body tissue) may also occur after you start taking medicines for the treatment of your HIV infection. Autoimmune disorders may occur many months after the start of treatment. If you notice any symptoms of infection or other symptoms such as muscle weakness, weakness beginning in the hands and feet and moving up towards the trunk of the body, palpitations, tremor or hyperactivity, please inform your doctor immediately to seek necessary treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-weakness beginning in the hands and feet and moving up towards the trunk of the body, palpitations, tremor or hyperactivity, please inform your doctor immediately to seek necessary treatment.
 
 - -Joint stiffness, aches and pains (especially of the hip, knee and shoulder) and difficulty in movement as some patients taking these medicines may develop a bone disease called osteonecrosis (death of bone tissue caused by loss of blood supply to the bone). The length of combination antiretroviral therapy, corticosteroid use, alcohol consumption, severe immunosuppression (reduction in the activity of the immune system), higher body mass index, among others, may be some of the many risk factors for developing this disease.
 - -Muscle pain, tenderness or weakness, particularly in combination with these medicines. On rare occasions these muscle disorders have been serious.
@@ -2103,7 +2086,7 @@ Common: may affect up to 1 in 10 people
 
 - -inflammation of the pancreas;
 - -vomiting, enlarged abdomen, pain in the lower and upper stomach area, passing wind, indigestion, decreased appetite, reflux from your stomach to your oesophagus which may cause pain;
-- -Tell your doctor if you experience nausea, vomiting or abdominal pain as these may be suggestive of pancreatitis (inflammation of the pancreas).
+-  Tell your doctor if you experience nausea, vomiting or abdominal pain as these may be suggestive of pancreatitis (inflammation of the pancreas).
 - -swelling or inflammation of the stomach, intestines and colon;
 - -increased cholesterol levels in your blood, increased triglycerides (a form of fat) levels in your blood, high blood pressure;
 - -decreased ability of the body to handle sugar including diabetes mellitus, weight loss;
@@ -2177,7 +2160,7 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-This medicinal product does not require any special storage conditions.
+Do not store above 25°C.
 
 Do not use this medicine after the expiry date which is stated on the carton after EXP. The expiry date refers to the last day of that month.
 
@@ -2218,7 +2201,7 @@ Viatris
 
 Tél/Tel: + 32 (0)2 658 61 00
 
-Lietuva
+## Lietuva
 
 Viatris UAB
 
@@ -2272,7 +2255,9 @@ Viatris Hellas Ltd
 
 ## España
 
-Viatris Pharmaceuticals, S.L. Tel: + 34 900 102 712
+Viatris Pharmaceuticals, S.L.
+
+Tel: + 34 900 102 712
 
 ## France
 
@@ -2320,7 +2305,9 @@ Tel.: + 36 1 465 2100
 
 ## Malta
 
-V.J. Salomone Pharma Ltd Tel: + 356 21 22 01 74
+V.J. Salomone Pharma Ltd
+
+Tel: + 356 21 22 01 74
 
 ## Nederland
 
@@ -2342,7 +2329,9 @@ Tel: +43 1 416 2418
 
 ## Polska
 
-Viatris Healthcare Sp. z o.o. Tel: + 48 22 546 64 00
+Viatris Healthcare Sp. z o.o.
+
+Tel: + 48 22 546 64 00
 
 ## Portugal
 
@@ -2358,7 +2347,9 @@ Tel: + 40 372 579 000
 
 ## Slovenija
 
-Viatris d.o.o. Tel: + 386 1 23 63 180
+Viatris d.o.o.
+
+Tel: + 386 1 23 63 180
 
 ## Slovenská republika
 
@@ -2388,13 +2379,13 @@ Tel: +371 676 055 80
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Lopinavir/Ritonavir Viatris 100 mg/25 mg film-coated tablets
 
-lopinavir/ritonavir
+## lopinavir/ritonavir
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you or your child.
 
@@ -2428,24 +2419,34 @@ lopinavir/ritonavir
 
 ## Do not take Lopinavir/Ritonavir Viatris with any of the following medicines:
 
-- -astemizole or terfenadine (commonly used to treat allergy symptoms - these medicines may be available without prescription);
-- -midazolam taken orally (taken by mouth), triazolam (used to relieve anxiety and/or trouble sleeping);
-- -pimozide (used to treat schizophrenia);
-- -quetiapine (used to treat schizophrenia, bipolar disorder and major depressive disorder);
-- -lurasidone (used to treat depression);
-- -ranolazine (used to treat chronic chest pain [angina]);
-- -cisapride (used to relieve certain stomach problems);
-- -ergotamine, dihydroergotamine, ergonovine, methylergonovine (used to treat headaches);
-- -amiodarone, dronedarone (used to treat abnormal heart beat);
-- -lovastatin, simvastatin (used to lower blood cholesterol);
-- -lomitapide (used to lower blood cholesterol);
+- astemizole or terfenadine (commonly used to treat allergy symptoms - these medicines may be available without prescription);
+
+- midazolam taken orally (taken by mouth), triazolam (used to relieve anxiety and/or trouble sleeping);
+
+- pimozide (used to treat schizophrenia);
+
+- quetiapine (used to treat schizophrenia, bipolar disorder and major depressive disorder);
+
+- lurasidone (used to treat depression);
+
+- ranolazine (used to treat chronic chest pain [angina]);
+
+- cisapride (used to relieve certain stomach problems);
+
+- ergotamine, dihydroergotamine, ergonovine, methylergonovine (used to treat headaches);
+
+- amiodarone, dronedarone (used to treat abnormal heart beat);
+
+- lovastatin, simvastatin (used to lower blood cholesterol);
+
+- lomitapide (used to lower blood cholesterol);
 
 <div style=\"page-break-after: always\"></div>
 
 - -alfuzosin (used in men to treat symptoms of an enlarged prostate (benign prostatic hyperplasia (BPH));
 - -fusidic acid (used to treat skin infections caused by Staphylococcus bacteria such as impetigo and infected dermatitis. Fusidic acid used to treat long-term infections of the bones and joints may be taken under doctor's supervision (see Other medicines and Lopinavir/Ritonavir Viatris section);
-- -colchicine (used to treat gout) if you have kidney and/or liver problems (see the section on Other medicines and Lopinavir/Ritonavir ); elbasvir/grazoprevir (used to treat chronic hepatitis C virus [HCV]);
-- -ombitasvir/paritaprevir/ritonavir with or without dasabuvir (used to treat chronic hepatitis C virus [HCV]);
+-  colchicine (used to treat gout) if you have kidney and/or liver problems (see the section on Other medicines and Lopinavir/Ritonavir ); elbasvir/grazoprevir (used to treat chronic hepatitis C virus [HCV]);
+-  ombitasvir/paritaprevir/ritonavir with or without dasabuvir (used to treat chronic hepatitis C virus [HCV]);
 - -neratinib (used to treat breast cancer);
 - -avanafil or vardenafil (used to treat erectile dysfunction);
 - -sildenafil used to treat pulmonary arterial hypertension (high blood pressure in the pulmonary artery). Sildenafil used to treat erectile dysfunction may be taken under doctor's supervision (see Other medicines and Lopinavir/Ritonavir Viatris section);
@@ -2475,11 +2476,9 @@ Talk to your doctor or pharmacist before taking Lopinavir/Ritonavir Viatris.
 - -Thirst, frequent urination, blurred vision or weight loss as this may indicate raised sugar levels in the blood.
 - -Nausea, vomiting, abdominal pain as large increases in the amount of triglycerides (fats in the blood) have been considered a risk factor for pancreatitis (inflammation of the pancreas) and these symptoms may suggest this condition.
 
-In some patients with advanced HIV infection and a history of opportunistic infection, signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started. It is believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms. In addition to the opportunistic infections, autoimmune disorders (a condition that occurs when the immune system attacks healthy body tissue) may also occur after you start taking medicines for the treatment of your HIV infection. Autoimmune disorders may occur many months after the start of treatment. If you notice any symptoms of infection or other symptoms such as muscle weakness,
+In some patients with advanced HIV infection and a history of opportunistic infection, signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started. It is believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms. In addition to the opportunistic infections, autoimmune disorders (a condition that occurs when the immune system attacks healthy body tissue) may also occur after you start taking medicines for the treatment of your HIV infection. Autoimmune disorders may occur many months after the start of treatment. If you notice any symptoms of infection or other symptoms such as muscle weakness, weakness beginning in the hands and feet and moving up towards the trunk of the body, palpitations, tremor or hyperactivity, please inform your doctor immediately to seek necessary treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-weakness beginning in the hands and feet and moving up towards the trunk of the body, palpitations, tremor or hyperactivity, please inform your doctor immediately to seek necessary treatment.
 
 - -Joint stiffness, aches and pains (especially of the hip, knee and shoulder) and difficulty in movement as some patients taking these medicines may develop a bone disease called osteonecrosis (death of bone tissue caused by loss of blood supply to the bone). The length of combination antiretroviral therapy, corticosteroid use, alcohol consumption, severe immunosuppression (reduction in the activity of the immune system), higher body mass index, among others, may be some of the many risk factors for developing this disease.
 - -Muscle pain, tenderness or weakness, particularly in combination with these medicines. On rare occasions these muscle disorders have been serious.
@@ -2622,7 +2621,7 @@ Very common: may affect more than 1 in 10 people.
 Common: may affect up to 1 in 10 people
 
 - -inflammation of the pancreas;
-- --vomiting, enlarged abdomen, pain in the lower and upper stomach area, passing wind, indigestion, decreased appetite, reflux from your stomach to your oesophagus which may cause pain; Tell your doctor if you experience nausea, vomiting or abdominal pain as these may be suggestive of pancreatitis (inflammation of the pancreas).
+-  -vomiting, enlarged abdomen, pain in the lower and upper stomach area, passing wind, indigestion, decreased appetite, reflux from your stomach to your oesophagus which may cause pain; Tell your doctor if you experience nausea, vomiting or abdominal pain as these may be suggestive of pancreatitis (inflammation of the pancreas).
 - -swelling or inflammation of the stomach, intestines and colon;
 - -increased cholesterol levels in your blood, increased triglycerides (a form of fat) levels in your blood, high blood pressure;
 - -decreased ability of the body to handle sugar including diabetes mellitus, weight loss;
@@ -2664,8 +2663,7 @@ Uncommon: may affect up to 1 in 100 people
 - -lack of functioning of the testes;
 - -a flare-up of symptoms related to an inactive infection in your body (immune reconstitution);
 - -increased appetite;
-- -abnormally high level of bilirubin (a pigment produced from the breakdown of red blood cells) in the
-- blood;
+- -abnormally high level of bilirubin (a pigment produced from the breakdown of red blood cells) in the blood;
 - -decreased sexual desire;
 - -inflammation of the kidney;
 - -bone death caused by poor blood supply to the area;
@@ -2697,7 +2695,7 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-This medicinal product does not require any special storage conditions.
+Do not store above 25°C.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2732,19 +2730,33 @@ Mylan Hungary Kft H-2900 Komárom, Mylan utca 1 Hungary
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-<div style=\"page-break-after: always\"></div>
-
 ## België/Belgique/Belgien
 
 Viatris
 
 Tél/Tel: + 32 (0)2 658 61 00
 
+Lietuva
+
+Viatris UAB
+
+Tel: + 370 5 205 1288
+
 ## България
 
 Майлан ЕООД
 
 Тел: +359 2 44 55 400
+
+## Luxembourg/Luxemburg
+
+Viatris
+
+Tél/Tel: + 32 (0)2 658 61 00
+
+(Belgique/Belgien)
+
+<div style=\"page-break-after: always\"></div>
 
 ## Česká republika
 
@@ -2806,19 +2818,17 @@ Icepharma hf.
 
 Sími: +354 540 8000
 
-## Lietuva
+## Italia
 
-Viatris UAB
+Viatris Italia S.r.l.
 
-Tel: + 370 5 205 1288
+Tel: + 39 (0) 2 612 46921
 
-## Luxembourg/Luxemburg
+## Κύπρος
 
-Viatris
+CPO Pharmaceuticals Limited
 
-Tél/Tel: + 32 (0)2 658 61 00
-
-(Belgique/Belgien)
+Τηλ: +357 22863100
 
 ## Magyarország
 
@@ -2880,30 +2890,6 @@ Viatris Slovakia s.r.o.
 
 Tel: +421 2 32 199 100
 
-<div style=\"page-break-after: always\"></div>
-
-## Italia
-
-Viatris Italia S.r.l.
-
-Tel: + 39 (0) 2 612 46921
-
-## Κύπρος
-
-CPO Pharmaceuticals Limited
-
-Τηλ: +357 22863100
-
-## Latvija
-
-Viatris SIA
-
-Tel: + 371 676 055 80
-
-## This leaflet was last revised in (to be completed nationally) .
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
 ## Suomi/Finland
 
 Viatris Oy
@@ -2915,3 +2901,13 @@ Puh/Tel: +358 20 720 9555
 Viatris AB
 
 Tel: + 46 (0)8 630 19 00
+
+<div style=\"page-break-after: always\"></div>
+
+## Latvija
+
+Viatris SIA Tel: + 371 676 055 80
+
+## This leaflet was last revised in (to be completed nationally) .
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.

@@ -1,32 +1,108 @@
 ---
-document_datetime: 2025-12-29 11:27:18
+document_datetime: 2026-04-28 11:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/balversa.html
 document_name: balversa.html
 version: success
-processing_time: 0.1084727
-conversion_datetime: 2025-12-30 02:52:05.995719
+processing_time: 0.1116912
+conversion_datetime: 2026-04-29 13:12:19.461801
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Balversa
+
 # Balversa
 
 [RSS](/en/individual-human-medicine.xml/244576)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-erdafitinib Medicine Human Authorised
+erdafitinib
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -107,181 +183,137 @@ English (EN) (113.25 KB - PDF)
 
 [View](/en/documents/overview/balversa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-513)
+[Other languages (22)](#file-language-dropdown-227)
 
 български (BG) (144.88 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/bg/documents/overview/balversa-epar-medicine-overview_bg.pdf)
 
 español (ES) (121.01 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/es/documents/overview/balversa-epar-medicine-overview_es.pdf)
 
 čeština (CS) (143.51 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/cs/documents/overview/balversa-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (121.94 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/da/documents/overview/balversa-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (123.6 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/de/documents/overview/balversa-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (119.77 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/et/documents/overview/balversa-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (154.16 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/el/documents/overview/balversa-epar-medicine-overview_el.pdf)
 
 français (FR) (121.7 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/fr/documents/overview/balversa-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (146.1 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/hr/documents/overview/balversa-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (121.19 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/it/documents/overview/balversa-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (152.32 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/lv/documents/overview/balversa-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (142.5 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/lt/documents/overview/balversa-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (142.64 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/hu/documents/overview/balversa-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (145.36 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/mt/documents/overview/balversa-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (120.38 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/nl/documents/overview/balversa-epar-medicine-overview_nl.pdf)
 
 polski (PL) (145.54 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/pl/documents/overview/balversa-epar-medicine-overview_pl.pdf)
 
 português (PT) (121.13 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/pt/documents/overview/balversa-epar-medicine-overview_pt.pdf)
 
 română (RO) (141.46 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/ro/documents/overview/balversa-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (142.91 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/sk/documents/overview/balversa-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (140.98 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/sl/documents/overview/balversa-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (118.51 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/fi/documents/overview/balversa-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (119.63 KB - PDF)
 
-**First published:**
-
-29/08/2024
+**First published:** 29/08/2024
 
 [View](/sv/documents/overview/balversa-epar-medicine-overview_sv.pdf)
 
@@ -289,9 +321,7 @@ Balversa : EPAR - Risk management plan
 
 English (EN) (979.7 KB - PDF)
 
-**First published:** 29/08/2024
-
-**Last updated:** 29/08/2024
+**First published:** 29/08/2024 **Last updated:** 29/08/2024
 
 [View](/en/documents/rmp/balversa-epar-risk-management-plan_en.pdf)
 
@@ -299,305 +329,161 @@ English (EN) (979.7 KB - PDF)
 
 Balversa : EPAR - Product information
 
-English (EN) (364.53 KB - PDF)
+English (EN) (505.85 KB - PDF)
 
-**First published:** 29/08/2024
-
-**Last updated:** 19/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/en/documents/product-information/balversa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-249)
+[Other languages (24)](#file-language-dropdown-985)
 
-български (BG) (533.77 KB - PDF)
+български (BG) (532.24 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/bg/documents/product-information/balversa-epar-product-information_bg.pdf)
 
-español (ES) (502.26 KB - PDF)
+español (ES) (503.08 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/es/documents/product-information/balversa-epar-product-information_es.pdf)
 
-čeština (CS) (543.16 KB - PDF)
+čeština (CS) (544.44 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/cs/documents/product-information/balversa-epar-product-information_cs.pdf)
 
-dansk (DA) (508.32 KB - PDF)
+dansk (DA) (509 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/da/documents/product-information/balversa-epar-product-information_da.pdf)
 
-Deutsch (DE) (529.51 KB - PDF)
+Deutsch (DE) (531.75 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/de/documents/product-information/balversa-epar-product-information_de.pdf)
 
-eesti keel (ET) (522.65 KB - PDF)
+eesti keel (ET) (524.15 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/et/documents/product-information/balversa-epar-product-information_et.pdf)
 
-ελληνικά (EL) (529.42 KB - PDF)
+ελληνικά (EL) (530.48 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/el/documents/product-information/balversa-epar-product-information_el.pdf)
 
-français (FR) (565.69 KB - PDF)
+français (FR) (567 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/fr/documents/product-information/balversa-epar-product-information_fr.pdf)
 
-hrvatski (HR) (502.24 KB - PDF)
+hrvatski (HR) (502.81 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/hr/documents/product-information/balversa-epar-product-information_hr.pdf)
 
-íslenska (IS) (525.6 KB - PDF)
+íslenska (IS) (526.87 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/is/documents/product-information/balversa-epar-product-information_is.pdf)
 
-italiano (IT) (500.25 KB - PDF)
+italiano (IT) (500.7 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/it/documents/product-information/balversa-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (519.19 KB - PDF)
+latviešu valoda (LV) (520.34 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/lv/documents/product-information/balversa-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (382.15 KB - PDF)
+lietuvių kalba (LT) (383.47 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/lt/documents/product-information/balversa-epar-product-information_lt.pdf)
 
-magyar (HU) (531.57 KB - PDF)
+magyar (HU) (532.67 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/hu/documents/product-information/balversa-epar-product-information_hu.pdf)
 
-Malti (MT) (552 KB - PDF)
+Malti (MT) (553.49 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/mt/documents/product-information/balversa-epar-product-information_mt.pdf)
 
-Nederlands (NL) (509.67 KB - PDF)
+Nederlands (NL) (510.64 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/nl/documents/product-information/balversa-epar-product-information_nl.pdf)
 
-norsk (NO) (539.28 KB - PDF)
+norsk (NO) (543.12 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/no/documents/product-information/balversa-epar-product-information_no.pdf)
 
-polski (PL) (520.79 KB - PDF)
+polski (PL) (525.09 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/pl/documents/product-information/balversa-epar-product-information_pl.pdf)
 
-português (PT) (506.82 KB - PDF)
+português (PT) (507.98 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/pt/documents/product-information/balversa-epar-product-information_pt.pdf)
 
-română (RO) (513.16 KB - PDF)
+română (RO) (514.42 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/ro/documents/product-information/balversa-epar-product-information_ro.pdf)
 
-slovenčina (SK) (506.44 KB - PDF)
+slovenčina (SK) (507.49 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/sk/documents/product-information/balversa-epar-product-information_sk.pdf)
 
-slovenščina (SL) (740.1 KB - PDF)
+slovenščina (SL) (740.98 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/sl/documents/product-information/balversa-epar-product-information_sl.pdf)
 
-Suomi (FI) (507.49 KB - PDF)
+Suomi (FI) (508.49 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/fi/documents/product-information/balversa-epar-product-information_fi.pdf)
 
-svenska (SV) (503.87 KB - PDF)
+svenska (SV) (504.66 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 28/04/2026
 
 [View](/sv/documents/product-information/balversa-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000248998 18/02/2025
+**Latest procedure affecting product information:** VR/0000340655
+
+24/04/2026
 
 icon globe
 
@@ -617,305 +503,177 @@ Balversa : EPAR - All authorised presentations
 
 English (EN) (24.01 KB - PDF)
 
-**First published:** 29/08/2024
-
-**Last updated:** 19/02/2025
+**First published:** 29/08/2024 **Last updated:** 19/02/2025
 
 [View](/en/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-894)
+[Other languages (24)](#file-language-dropdown-699)
 
 български (BG) (26.21 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/bg/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (24.52 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/es/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (24.2 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/cs/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (24.32 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/da/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (24.25 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/de/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (24.07 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/et/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (25.69 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/el/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (24.07 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/fr/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (23.02 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/hr/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (23.79 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/is/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (22.9 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/it/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (24.01 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/lv/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (23.99 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/lt/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (24.28 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/hu/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (24.85 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/mt/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (23.4 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/nl/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (24.42 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/no/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (24.33 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/pl/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (23.99 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/pt/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (24.32 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/ro/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (24.52 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/sk/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (24.12 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/sl/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (23.5 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/fi/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (23.07 KB - PDF)
 
-**First published:**
-
-29/08/2024
-
-**Last updated:**
-
-18/02/2025
+**First published:** 29/08/2024 **Last updated:** 18/02/2025
 
 [View](/sv/documents/all-authorised-presentations/balversa-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Balversa Active substance Erdafitinib International non-proprietary name (INN) or common name erdafitinib Therapeutic area (MeSH) Urologic Neoplasms Anatomical therapeutic chemical (ATC) code L01EN01
+Name of medicine
+
+Balversa
+
+Active substance
+
+Erdafitinib
+
+International non-proprietary name (INN) or common name
+
+erdafitinib
+
+Therapeutic area (MeSH)
+
+Urologic Neoplasms
+
+Anatomical therapeutic chemical (ATC) code
+
+L01EN01
 
 ### Pharmacotherapeutic group
 
@@ -927,7 +685,9 @@ Balversa as monotherapy is indicated for the treatment of adult patients with un
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006050
+EMA product number
+
+EMEA/H/C/006050
 
 Additional monitoring
 
@@ -939,7 +699,17 @@ Janssen-Cilag International N.V.
 
 Turnhoutseweg 30
 
-Opinion adopted 27/06/2024 Marketing authorisation issued 22/08/2024 Revision 2
+Opinion adopted
+
+27/06/2024
+
+Marketing authorisation issued
+
+22/08/2024
+
+Revision
+
+3
 
 ## Assessment history
 
@@ -951,19 +721,17 @@ Collapse section
 
 Balversa : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (222.51 KB - PDF)
+English (EN) (146.86 KB - PDF)
 
-**First published:** 19/02/2025
+**First published:** 19/02/2025 **Last updated:** 28/04/2026
 
 [View](/en/documents/procedural-steps-after/balversa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Balversa : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (140.75 KB - PDF)
+English (EN) (143.74 KB - PDF)
 
-**First published:** 17/01/2025
-
-**Last updated:** 19/02/2025
+**First published:** 17/01/2025 **Last updated:** 20/04/2026
 
 [View](/en/documents/procedural-steps-after/balversa-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -971,9 +739,7 @@ English (EN) (140.75 KB - PDF)
 
 Balversa : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/336561/2024
+Adopted Reference Number: EMA/336561/2024
 
 English (EN) (6.85 MB - PDF)
 
@@ -983,9 +749,7 @@ English (EN) (6.85 MB - PDF)
 
 CHMP summary of positive opinion for Balversa
 
-Adopted
-
-Reference Number: EMA/CHMP/267474/2024
+Adopted Reference Number: EMA/CHMP/267474/2024
 
 English (EN) (132.46 KB - PDF)
 
@@ -993,12 +757,14 @@ English (EN) (132.46 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-balversa_en.pdf)
 
-#### News on Balversa
+## News on Balversa
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024) 28/06/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024)
 
-**This page was last updated on** 19/02/2025
+28/06/2024
+
+**This page was last updated on**
+
+28/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,24 +1,22 @@
 ---
-document_datetime: 2025-11-21 12:42:20
+document_datetime: 2026-04-28 16:54:16
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/neuraceq-epar-product-information_en.pdf
 document_name: neuraceq-epar-product-information_en.pdf
 version: success
-processing_time: 6.5356135
-conversion_datetime: 2025-12-20 14:12:12.094148
+processing_time: 6.7361105
+conversion_datetime: 2026-04-29 13:15:10.643914
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -64,11 +62,9 @@ Neuraceq images should only be interpreted by readers trained in the interpretat
 
 ## Posology
 
-The recommended activity for an adult is 300 MBq florbetaben ( 18 F). The maximum dose should not exceed 360 MBq and not fall below 240 MBq at time of administration. The volume of Neuraceq to be
+The recommended activity for an adult is 300 MBq florbetaben ( 18 F). The maximum dose should not exceed 360 MBq and not fall below 240 MBq at time of administration. The volume of Neuraceq to be injected can be from 0.5 to 10 mL in order to provide the target activity of 300 MBq at the time of intravenous administration.
 
 <div style=\"page-break-after: always\"></div>
-
-injected can be from 0.5 to 10 mL in order to provide the target activity of 300 MBq at the time of intravenous administration.
 
 ## Special populations
 
@@ -293,11 +289,9 @@ In completed clinical trials, uptake of florbetaben ( 18 F) in 7 predefined cort
 
 A pivotal study in 31 end-of-life patients was aimed at establishing the diagnostic performance of florbetaben ( 18 F) to detect the cortical neuritic plaque density (no or sparse vs. moderate or frequent) as established by the CERAD criteria. The PET results were compared with the maximal neuritic plaque density measured on sections of middle frontal gyrus, superior and middle temporal gyri, inferior parietal lobe, hippocampus and other brain regions at the patient's autopsy. The cognitive status of the subjects could not be determined reliably. In all 31 subjects, a blinded visual subject-level PET reading by 3 blinded readers resulted in a majority read sensitivity of 100% (95% CI: 80.5-100%) and specificity 85.7% (95% CI: 67.4 - 100%). In a post-hoc analysis sensitivity and specificity of the majority read of the visual subject-level PET reading vs histopathology in a larger population (74 patients) was 97.9% (95% CI: 93.8 - 100%) and 88.9% (95% CI: 77-100%). Sensitivity and specificity to estimate beta-amyloid deposition of florbetaben ( 18 F) was further investigated in one additional study, in which a different set of 5 electronically-trained blinded readers interpreted images from 54 subjects followed to autopsy in the pivotal study. The histopathology criteria did not match the CERAD criteria. The results were lower than the results obtained in the pivotal trial: a sensitivity range between 77.5% to 90% and specificity range between 62.5-85.7%. Inter-rater agreement using Fleiss' kappa values ranged from 0.68 to 0.87. Comparing the results of PET scan reading with the histopathology assessment collected for all subjects (same as used for the original pivotal study and its post-hoc analysis), the majority read sensitivity and specificity were 100% (95%CI: 89.4-100%) and 71.4% (95%CI: 52.1-90.8%), respectively.
 
-In a longitudinal study, 45 subjects clinically diagnosed with mild cognitive impairment (MCI), underwent baseline florbetaben ( 18 F) PET scans, and were followed for 24 months to evaluate the relationship between florbetaben ( 18 F) imaging and changes in diagnostic status. 29 (64.4%) of MCI patients were positive by florbetaben ( 18 F) PET scan. At the 24-month follow-up, 19 (42.2%) converted to clinical AD. Of the 29 MCI subjects who had a positive PET scan, 19 (65.5%) were classified clinically as converted to clinical AD after 24 months compared to 0 (0%) of 16 who had a negative scan. Sensitivity of florbetaben ( 18 F) scan to show the MCI conversion rate to AD in 19 converters was 100%, specificity in 26 non-converters was 61.5% (95% CI: 42.8-80.2%) and
+In a longitudinal study, 45 subjects clinically diagnosed with mild cognitive impairment (MCI), underwent baseline florbetaben ( 18 F) PET scans, and were followed for 24 months to evaluate the relationship between florbetaben ( 18 F) imaging and changes in diagnostic status. 29 (64.4%) of MCI patients were positive by florbetaben ( 18 F) PET scan. At the 24-month follow-up, 19 (42.2%) converted to clinical AD. Of the 29 MCI subjects who had a positive PET scan, 19 (65.5%) were classified clinically as converted to clinical AD after 24 months compared to 0 (0%) of 16 who had a negative scan. Sensitivity of florbetaben ( 18 F) scan to show the MCI conversion rate to AD in 19 converters was 100%, specificity in 26 non-converters was 61.5% (95% CI: 42.8-80.2%) and positive likelihood ratio was 2.60 (1.60-4.23). The design of this study does not allow estimating the risk of MCI progression to clinical AD.
 
 <div style=\"page-break-after: always\"></div>
-
-positive likelihood ratio was 2.60 (1.60-4.23). The design of this study does not allow estimating the risk of MCI progression to clinical AD.
 
 ## Adjunctive use of quantitative information for image interpretation
 
@@ -399,7 +393,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Life Molecular Imaging GmbH Tegeler Strasse 6-7 Wedding Berlin 13353 Germany e-mail: gra@life-mi.com
+Lantheus Germany GmbH Heidestraße 37-38 Berlin 10557 Germany e-mail: gra@lantheus.com
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -411,9 +405,9 @@ Date of first authorisation: 20. February 2014
 
 Date of latest renewal: 20. November 2018
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. DATE OF REVISION OF THE TEXT
+
+<div style=\"page-break-after: always\"></div>
 
 ## 11. DOSIMETRY
 
@@ -423,35 +417,35 @@ The estimated absorbed radiation doses to organs are listed in Table 4, providin
 
 Table 4: Estimated radiation absorbed doses from intravenous injection of Neuraceq to Caucasian subjects
 
-| Organ                    | Dose absorbed per activity administered [mGy/MBq]   |
+| Organ                    |   Dose absorbed per activity administered [mGy/MBq] |
 |--------------------------|-----------------------------------------------------|
-| Adrenal                  | 0.0130                                              |
-| Brain                    | 0.0125                                              |
-| Breasts                  | 0.0074                                              |
-| Gallbladder              | 0.137                                               |
+| Adrenal                  |                                              0.0130 |
+| Brain                    |                                              0.0125 |
+| Breasts                  |                                              0.0074 |
+| Gallbladder              |                                               0.137 |
 | Gastrointestinal tract   |                                                     |
-| Lower large intestine    | 0.0351                                              |
-| Small intestine          | 0.0314                                              |
-| Stomach                  | 0.0116                                              |
-| Upper large intestine    | 0.0382                                              |
-| Heart                    | 0.0139                                              |
-| Kidneys                  | 0.0238                                              |
-| Liver                    | 0.0386                                              |
-| Lungs                    | 0.0148                                              |
-| Muscles                  | 0.00948                                             |
-| Ovaries                  | 0.0156                                              |
-| Pancreas                 | 0.0139                                              |
-| Red marrow               | 0.0122                                              |
-| Osteogenic cells         | 0.0148                                              |
-| Skin                     | 0.00689                                             |
-| Spleen                   | 0.0102                                              |
-| Testes                   | 0.00913                                             |
-| Thymus                   | 0.00892                                             |
-| Thyroid                  | 0.00842                                             |
-| Bladder                  | 0.0695                                              |
-| Uterus                   | 0.0163                                              |
-| Remaining organs         | 0.0110                                              |
-| Effective dose (mSv/MBq) | 0.0193                                              |
+| Lower large intestine    |                                              0.0351 |
+| Small intestine          |                                              0.0314 |
+| Stomach                  |                                              0.0116 |
+| Upper large intestine    |                                              0.0382 |
+| Heart                    |                                              0.0139 |
+| Kidneys                  |                                              0.0238 |
+| Liver                    |                                              0.0386 |
+| Lungs                    |                                              0.0148 |
+| Muscles                  |                                             0.00948 |
+| Ovaries                  |                                              0.0156 |
+| Pancreas                 |                                              0.0139 |
+| Red marrow               |                                              0.0122 |
+| Osteogenic cells         |                                              0.0148 |
+| Skin                     |                                             0.00689 |
+| Spleen                   |                                              0.0102 |
+| Testes                   |                                             0.00913 |
+| Thymus                   |                                             0.00892 |
+| Thyroid                  |                                             0.00842 |
+| Bladder                  |                                              0.0695 |
+| Uterus                   |                                              0.0163 |
+| Remaining organs         |                                              0.0110 |
+| Effective dose (mSv/MBq) |                                              0.0193 |
 
 The effective dose resulting from the administration of a maximal recommended activity of 360 MBq dose for an adult weighing 70 kg is about 7.0 mSv. If a CT scan is simultaneously performed as part of the PET procedure, exposure to ionising radiation will increase in an amount dependent on the settings used in the CT acquisition. For an administered activity of 360 MBq the typical radiation dose to the target organ (brain) is 4.5 mGy.
 
@@ -510,43 +504,9 @@ Alliance Medical RP Berlin GmbH Max-Planck-Strasse 4 Adlershof Berlin 12489 Germ
 
 Alliance Medical RP sp. z o.o. ul. Szeligowska 3 05-850 Szeligi Poland
 
-Alliance Medical RP GmbH Spessartstr. 9 53119 Bonn Germany
+Alliance Medical RP GmbH Spessartstr. 9 53119 Bonn Germany Curium Italy S.R.L. via Pergolesi, 33 20900 Monza Italy Curium Italy S.R.L. Viale Oxford 81 (loc. Tor Vergata) 00133 Rome Italy Curium Italy S.R.L. Piazzale Santa Maria della Misericordia, 15 33100 Udine Italy ITEL Telecomunicazioni S.R.L. Via Antonio Labriola Zona Industriale SNC 70037 Ruvo di Puglia (BA) Italy Curium Pharma Ireland Limited Blackrock Clinic Blackrock Co. Dublin, A94 E4X7 Ireland Curium Pharma Spain, S.A. Thomas Alba Edison, s/n 41092 Seville Spain Curium Pharma Spain, S.A. Pol. Ind. Conpisa, C/ Veguillas, 2 Nave 16, Ajalvir 28864 (Madrid) Spain Seibersdorf Labor GMBH Grundstueck Nr. 482/2 EZ 98 KG 2444 Seibersdorf Austria BetaPlus Pharma SA Avenue Hippocrate 10 bte 1527 1200 Brussels Belgium Institut Radiofarmacia Aplicada Barcelona-IRAB c/Doctor Aiguader 88, planta -1 08003 Barcelona Spain Biokosmos S.A. Lakkoma Industrial Area Ν ea Propontida Halkidiki 630 80 Greece Biokosmos S.A. Thesi Panormos Lavrio Athens 195 00 Greece Radboud Translational Medicine B.V. Geert Grooteplein Noord 21 Route 142 Nijmegen Gelderland 6525 EZ Netherlands Karolinska University Hospital Akademiska Straket 1 Solna Stockholms Lan 171 64 Sweden The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 <div style=\"page-break-after: always\"></div>
-
-Curium Italy S.R.L. via Pergolesi, 33 20900 Monza Italy
-
-Curium Italy S.R.L. Viale Oxford 81 (loc. Tor Vergata) 00133 Rome Italy
-
-Curium Italy S.R.L. Piazzale Santa Maria della Misericordia, 15 33100 Udine Italy
-
-ITEL Telecomunicazioni S.R.L. Via Antonio Labriola Zona Industriale SNC 70037 Ruvo di Puglia (BA) Italy
-
-Curium Pharma Ireland Limited Blackrock Clinic Blackrock Co. Dublin, A94 E4X7 Ireland
-
-Curium Pharma Spain, S.A. Thomas Alba Edison, s/n 41092 Seville Spain
-
-Curium Pharma Spain, S.A. Pol. Ind. Conpisa, C/ Veguillas, 2 Nave 16, Ajalvir 28864 (Madrid) Spain
-
-Seibersdorf Labor GMBH Grundstueck Nr. 482/2 EZ 98 KG 2444 Seibersdorf Austria
-
-BetaPlus Pharma SA Avenue Hippocrate 10 bte 1527 1200 Brussels Belgium
-
-Institut Radiofarmacia Aplicada Barcelona-IRAB c/Doctor Aiguader 88, planta -1 08003 Barcelona Spain
-
-Biokosmos S.A. Lakkoma Industrial Area Νea Propontida Halkidiki 630 80 Greece
-
-<div style=\"page-break-after: always\"></div>
-
-Biokosmos S.A. Thesi Panormos Lavrio Athens 195 00 Greece
-
-Radboud Translational Medicine B.V. Geert Grooteplein Noord 21 Route 142 Nijmegen Gelderland 6525 EZ
-
-Netherlands
-
-Karolinska University Hospital Akademiska Straket 1 Solna Stockholms Lan 171 64 Sweden
-
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -691,7 +651,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Life Molecular Imaging GmbH, Tegeler Strasse 6-7, Wedding, Berlin, 13353, Germany
+Lantheus Germany GmbH, Heidestraße 37-38, Berlin, 10557, Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -705,7 +665,7 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -733,7 +693,7 @@ Intravenous use
 
 ## 3. EXPIRY DATE
 
-EXP: ToC + 6h (see outer label)
+EXP: see outer label
 
 ## 4. BATCH NUMBER
 
@@ -767,33 +727,7 @@ Alliance Medical RP GmbH, Germany
 
 Curium Italy S.R.L., Monza, Italy
 
-Curium Italy S.R.L., Rome, Italy
-
-<div style=\"page-break-after: always\"></div>
-
-Curium Italy S.R.L., Udine, Italy
-
-Curium Pharma Spain, S.A., Seville, Spain
-
-Curium Pharma Spain, S.A., Madrid, Spain
-
-Seibersdorf Labor GmbH, Austria
-
-BetaPlus Pharma SA, Brussels, Belgium
-
-Institut Radiofarmacia Aplicada Barcelona-IRAB, Barcelona, Spain
-
-ITEL Telecomunicazioni S.R.L., Bari, Italy
-
-Curium Pharma Ireland Limited, Dublin, Ireland
-
-Biokosmos S.A., Halkidiki, Greece
-
-Biokosmos S.A., Athens (Lavrio), Greece
-
-Radboud Translational Medicine B.V., Nijmegen, Netherlands
-
-Karolinska University Hospital, Stockholm, Sweden
+Curium Italy S.R.L., Rome, Italy Curium Italy S.R.L., Udine, Italy Curium Pharma Spain, S.A., Seville, Spain Curium Pharma Spain, S.A., Madrid, Spain Seibersdorf Labor GmbH, Austria BetaPlus Pharma SA, Brussels, Belgium Institut Radiofarmacia Aplicada Barcelona-IRAB, Barcelona, Spain ITEL Telecomunicazioni S.R.L., Bari, Italy Curium Pharma Ireland Limited, Dublin, Ireland Biokosmos S.A., Halkidiki, Greece Biokosmos S.A., Athens (Lavrio), Greece Radboud Translational Medicine B.V., Nijmegen, Netherlands Karolinska University Hospital, Stockholm, Sweden
 
 <div style=\"page-break-after: always\"></div>
 
@@ -985,7 +919,9 @@ Pack size of 1 vial.
 
 ## Marketing Authorization Holder
 
-Life Molecular Imaging GmbH Tegeler Strasse 6-7 Wedding Berlin 13353 Germany e-mail: gra@life-mi.com
+Lantheus Germany GmbH
+
+Heidestraße 37-38 Berlin 10557 Germany e-mail: gra@lantheus.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1009,37 +945,9 @@ Alliance Medical RP GmbH Spessartstr. 9 53119 Bonn Germany
 
 Curium Italy S.R.L. via Pergolesi, 33 20900 Monza Italy
 
-Curium Italy S.R.L. Viale Oxford 81 (loc. Tor Vergata) 00133 Rome Italy
+Curium Italy S.R.L. Viale Oxford 81 (loc. Tor Vergata) 00133 Rome Italy Curium Italy S.R.L. Piazzale Santa Maria della Misericordia, 15 33100 Udine Italy ITEL Telecomunicazioni S.R.L. Via Antonio Labriola Zona Industriale SNC 70037 Ruvo di Puglia (BA) Italy Curium Pharma Ireland Limited Blackrock Clinic Blackrock Co. Dublin, A94 E4X7 Ireland Curium Pharma Spain, S.A. Thomas Alba Edison, s/n 41092 Seville Spain Curium Pharma Spain, S.A. Pol. Ind. Conpisa, C/ Veguillas - 2 Nave 16, Ajalvir 28864 (Madrid) Spain Seibersdorf Labor GmbH Grundstueck Nr. 482/2 EZ 98 KG 2444 Seibersdorf Austria BetaPlus Pharma SA Avenue Hippocrate 10 bte 1527 1200 Brussels Belgium Institut Radiofarmacia Aplicada Barcelona-IRAB c/Doctor Aiguader 88, planta -1 08003 Barcelona Spain Biokosmos S.A. Lakkoma Industrial Area Ν ea Propontida Halkidiki 630 80 Greece Biokosmos S.A. Thesi Panormos Lavrio Athens 195 00 Greece Radboud Translational Medicine B.V. Geert Grooteplein Noord 21 Route 142 Nijmegen Gelderland 6525 EZ Netherlands Karolinska University Hospital Akademiska Straket 1 Solna Stockholms Lan 171 64 Sweden For any information about this medicine, please contact the Marketing Authorisation Holder.
 
 <div style=\"page-break-after: always\"></div>
-
-Curium Italy S.R.L. Piazzale Santa Maria della Misericordia, 15 33100 Udine Italy
-
-ITEL Telecomunicazioni S.R.L. Via Antonio Labriola Zona Industriale SNC 70037 Ruvo di Puglia (BA) Italy
-
-Curium Pharma Ireland Limited Blackrock Clinic Blackrock Co. Dublin, A94 E4X7 Ireland
-
-Curium Pharma Spain, S.A. Thomas Alba Edison, s/n 41092 Seville Spain
-
-Curium Pharma Spain, S.A. Pol. Ind. Conpisa, C/ Veguillas - 2 Nave 16, Ajalvir 28864 (Madrid) Spain
-
-Seibersdorf Labor GmbH Grundstueck Nr. 482/2 EZ 98 KG 2444 Seibersdorf Austria
-
-BetaPlus Pharma SA Avenue Hippocrate 10 bte 1527 1200 Brussels Belgium
-
-Institut Radiofarmacia Aplicada Barcelona-IRAB c/Doctor Aiguader 88, planta -1 08003 Barcelona Spain
-
-Biokosmos S.A. Lakkoma Industrial Area Νea Propontida Halkidiki 630 80 Greece
-
-<div style=\"page-break-after: always\"></div>
-
-Biokosmos S.A. Thesi Panormos Lavrio Athens 195 00 Greece
-
-Radboud Translational Medicine B.V. Geert Grooteplein Noord 21 Route 142 Nijmegen Gelderland 6525 EZ Netherlands
-
-Karolinska University Hospital Akademiska Straket 1 Solna Stockholms Lan 171 64 Sweden
-
-For any information about this medicine, please contact the Marketing Authorisation Holder.
 
 ## This leaflet was last revised in {month YYYY}.
 

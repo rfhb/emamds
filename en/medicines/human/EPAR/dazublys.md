@@ -1,32 +1,108 @@
 ---
-document_datetime: 2025-12-29 14:36:41
+document_datetime: 2026-04-28 13:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dazublys.html
 document_name: dazublys.html
 version: success
-processing_time: 0.1035578
-conversion_datetime: 2025-12-31 07:55:01.513415
+processing_time: 0.1106422
+conversion_datetime: 2026-04-29 13:12:03.978225
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [Glossaries](/en/about-us/glossaries)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Dazublys
+
 # Dazublys
 
 [RSS](/en/individual-human-medicine.xml/258596)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-trastuzumab Medicine Human Authorised
+trastuzumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -134,181 +210,137 @@ English (EN) (128.12 KB - PDF)
 
 [View](/en/documents/overview/dazublys-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-373)
+[Other languages (22)](#file-language-dropdown-880)
 
 български (BG) (147.78 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/bg/documents/overview/dazublys-epar-medicine-overview_bg.pdf)
 
 español (ES) (132.92 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/es/documents/overview/dazublys-epar-medicine-overview_es.pdf)
 
 čeština (CS) (165.47 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/cs/documents/overview/dazublys-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (131.95 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/da/documents/overview/dazublys-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (139.06 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/de/documents/overview/dazublys-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (129.63 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/et/documents/overview/dazublys-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (148.14 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/el/documents/overview/dazublys-epar-medicine-overview_el.pdf)
 
 français (FR) (140 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/fr/documents/overview/dazublys-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (135.28 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/hr/documents/overview/dazublys-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (135.46 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/it/documents/overview/dazublys-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (150.15 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/lv/documents/overview/dazublys-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (135.27 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/lt/documents/overview/dazublys-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (140.68 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/hu/documents/overview/dazublys-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (154.11 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/mt/documents/overview/dazublys-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (137.33 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/nl/documents/overview/dazublys-epar-medicine-overview_nl.pdf)
 
 polski (PL) (142.11 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/pl/documents/overview/dazublys-epar-medicine-overview_pl.pdf)
 
 português (PT) (133.99 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/pt/documents/overview/dazublys-epar-medicine-overview_pt.pdf)
 
 română (RO) (134.54 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/ro/documents/overview/dazublys-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (149.18 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/sk/documents/overview/dazublys-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (135.13 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/sl/documents/overview/dazublys-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (130.16 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/fi/documents/overview/dazublys-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (130.83 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025
 
 [View](/sv/documents/overview/dazublys-epar-medicine-overview_sv.pdf)
 
@@ -324,207 +356,161 @@ English (EN) (665.57 KB - PDF)
 
 Dazublys: EPAR - Product information
 
-English (EN) (747.93 KB - PDF)
+English (EN) (793.42 KB - PDF)
 
-**First published:** 12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/en/documents/product-information/dazublys-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-190)
+[Other languages (24)](#file-language-dropdown-442)
 
-български (BG) (1.36 MB - PDF)
+български (BG) (801.38 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/bg/documents/product-information/dazublys-epar-product-information_bg.pdf)
 
-español (ES) (1.03 MB - PDF)
+español (ES) (695 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/es/documents/product-information/dazublys-epar-product-information_es.pdf)
 
-čeština (CS) (1.35 MB - PDF)
+čeština (CS) (797.73 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/cs/documents/product-information/dazublys-epar-product-information_cs.pdf)
 
-dansk (DA) (1.03 MB - PDF)
+dansk (DA) (700.01 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/da/documents/product-information/dazublys-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.15 MB - PDF)
+Deutsch (DE) (810.12 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/de/documents/product-information/dazublys-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.2 MB - PDF)
+eesti keel (ET) (691.62 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/et/documents/product-information/dazublys-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.33 MB - PDF)
+ελληνικά (EL) (844.65 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/el/documents/product-information/dazublys-epar-product-information_el.pdf)
 
-français (FR) (1.45 MB - PDF)
+français (FR) (729.38 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/fr/documents/product-information/dazublys-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.33 MB - PDF)
+hrvatski (HR) (756.05 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/hr/documents/product-information/dazublys-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.28 MB - PDF)
+íslenska (IS) (687.74 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/is/documents/product-information/dazublys-epar-product-information_is.pdf)
 
-italiano (IT) (1.32 MB - PDF)
+italiano (IT) (713.8 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/it/documents/product-information/dazublys-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.25 MB - PDF)
+latviešu valoda (LV) (795.66 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/lv/documents/product-information/dazublys-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.31 MB - PDF)
+lietuvių kalba (LT) (779.83 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/lt/documents/product-information/dazublys-epar-product-information_lt.pdf)
 
-magyar (HU) (1.26 MB - PDF)
+magyar (HU) (835.33 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/hu/documents/product-information/dazublys-epar-product-information_hu.pdf)
 
-Malti (MT) (1.51 MB - PDF)
+Malti (MT) (824.51 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/mt/documents/product-information/dazublys-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.26 MB - PDF)
+Nederlands (NL) (658.51 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/nl/documents/product-information/dazublys-epar-product-information_nl.pdf)
 
-norsk (NO) (1.23 MB - PDF)
+norsk (NO) (680.91 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/no/documents/product-information/dazublys-epar-product-information_no.pdf)
 
-polski (PL) (1.41 MB - PDF)
+polski (PL) (838.3 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/pl/documents/product-information/dazublys-epar-product-information_pl.pdf)
 
-português (PT) (1.23 MB - PDF)
+português (PT) (683.28 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/pt/documents/product-information/dazublys-epar-product-information_pt.pdf)
 
-română (RO) (1.2 MB - PDF)
+română (RO) (760.87 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/ro/documents/product-information/dazublys-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.02 MB - PDF)
+slovenčina (SK) (762.19 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/sk/documents/product-information/dazublys-epar-product-information_sk.pdf)
 
-slovenščina (SL) (861.07 KB - PDF)
+slovenščina (SL) (735.12 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/sl/documents/product-information/dazublys-epar-product-information_sl.pdf)
 
-Suomi (FI) (1013.31 KB - PDF)
+Suomi (FI) (668.67 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/fi/documents/product-information/dazublys-epar-product-information_fi.pdf)
 
-svenska (SV) (1018.92 KB - PDF)
+svenska (SV) (684.89 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/sv/documents/product-information/dazublys-epar-product-information_sv.pdf)
 
-30/06/2025
+**Latest procedure affecting product information:** VR/0000304280
+
+19/03/2026
 
 icon globe
 
@@ -542,214 +528,180 @@ Product information documents contain:
 
 Dazublys: EPAR - All authorised presentations
 
-English (EN) (63.87 KB - PDF)
+English (EN) (49.58 KB - PDF)
 
-**First published:** 12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/en/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-894)
+[Other languages (24)](#file-language-dropdown-160)
 
-български (BG) (51.56 KB - PDF)
+български (BG) (67.46 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/bg/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (20.14 KB - PDF)
+español (ES) (49.43 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/es/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (51.91 KB - PDF)
+čeština (CS) (63 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/cs/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (52.8 KB - PDF)
+dansk (DA) (50.59 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/da/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (20.09 KB - PDF)
+Deutsch (DE) (50.94 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/de/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (43.47 KB - PDF)
+eesti keel (ET) (48.82 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/et/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (52.75 KB - PDF)
+ελληνικά (EL) (66.55 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/el/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (19.91 KB - PDF)
+français (FR) (48.55 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/fr/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (50.58 KB - PDF)
+hrvatski (HR) (61.48 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/hr/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (19.78 KB - PDF)
+íslenska (IS) (50.56 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/is/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (19.89 KB - PDF)
+italiano (IT) (48.24 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/it/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (47.76 KB - PDF)
+latviešu valoda (LV) (63.77 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/lv/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (32.85 KB - PDF)
+lietuvių kalba (LT) (62.65 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/lt/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (32.79 KB - PDF)
+magyar (HU) (56.18 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/hu/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (51.34 KB - PDF)
+Malti (MT) (63.08 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/mt/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (19.79 KB - PDF)
+Nederlands (NL) (49.39 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/nl/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (21.33 KB - PDF)
+norsk (NO) (51 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/no/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (52.44 KB - PDF)
+polski (PL) (63.97 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/pl/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (19.86 KB - PDF)
+português (PT) (49.75 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/pt/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (50.91 KB - PDF)
+română (RO) (62.81 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/ro/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (52.23 KB - PDF)
+slovenčina (SK) (62.59 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/sk/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (50.03 KB - PDF)
+slovenščina (SL) (56.02 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/sl/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (20.14 KB - PDF)
+Suomi (FI) (48.69 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/fi/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (19.87 KB - PDF)
+svenska (SV) (49.76 KB - PDF)
 
-**First published:**
-
-12/08/2025
+**First published:** 12/08/2025 **Last updated:** 28/04/2026
 
 [View](/sv/documents/all-authorised-presentations/dazublys-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Dazublys Active substance trastuzumab International non-proprietary name (INN) or common name trastuzumab Therapeutic area (MeSH)
+Name of medicine
+
+Dazublys
+
+Active substance
+
+trastuzumab
+
+International non-proprietary name (INN) or common name
+
+trastuzumab
+
+Therapeutic area (MeSH)
 
 - Breast Neoplasms
 - Stomach Neoplasms
 
-Anatomical therapeutic chemical (ATC) code L01FD01
+Anatomical therapeutic chemical (ATC) code
+
+L01FD01
 
 ### Pharmacotherapeutic group
 
@@ -787,7 +739,9 @@ Dazublys should only be used in patients with metastatic gastric cancer (MGC) wh
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006219
+EMA product number
+
+EMEA/H/C/006219
 
 Additional monitoring
 
@@ -803,17 +757,39 @@ CuraTeQ Biologics s.r.o
 
 Trtinova 260/1 Cakovice 196 00 Prague-Cakovice Czechia
 
-Opinion adopted 25/04/2025 Marketing authorisation issued 30/06/2025
+Opinion adopted
+
+25/04/2025
+
+Marketing authorisation issued
+
+30/06/2025
+
+Revision
+
+1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Dazublys : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (164.36 KB - PDF)
+
+**First published:** 28/04/2026
+
+[View](/en/documents/procedural-steps-after/dazublys-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Dazublys: EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/86926/2025
+Adopted Reference Number: EMA/CHMP/86926/2025
 
 English (EN) (2.73 MB - PDF)
 
@@ -823,9 +799,7 @@ English (EN) (2.73 MB - PDF)
 
 CHMP summary of positive opinion for Dazublys
 
-Adopted
-
-Reference Number: EMA/CHMP/126052/2025
+Adopted Reference Number: EMA/CHMP/126052/2025
 
 English (EN) (125.17 KB - PDF)
 
@@ -833,8 +807,8 @@ English (EN) (125.17 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-dazublys_en.pdf)
 
-**This page was last updated on** 12/08/2025
+**This page was last updated on**
+
+28/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

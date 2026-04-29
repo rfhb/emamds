@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-04-17 15:44:00
+document_datetime: 2026-04-28 16:26:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/micardis.html
 document_name: micardis.html
 version: success
-processing_time: 0.1427243
-conversion_datetime: 2026-04-21 14:58:32.066601
+processing_time: 0.1562435
+conversion_datetime: 2026-04-29 13:11:16.393653
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
@@ -114,6 +114,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Micardis](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-85793)
 - [More information on Micardis](#more-information-on-micardis-433)
 - [More information on Micardis](#related-medicines)
 - [Topics](#topics)
@@ -194,7 +195,7 @@ English (EN) (77.12 KB - PDF)
 
 [View](/en/documents/overview/micardis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-381)
+[Other languages (22)](#file-language-dropdown-297)
 
 български (BG) (109.19 KB - PDF)
 
@@ -346,7 +347,7 @@ English (EN) (808.01 KB - PDF)
 
 [View](/en/documents/product-information/micardis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-389)
+[Other languages (24)](#file-language-dropdown-959)
 
 български (BG) (1.84 MB - PDF)
 
@@ -518,7 +519,7 @@ English (EN) (30.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-53)
+[Other languages (24)](#file-language-dropdown-207)
 
 български (BG) (27.09 KB - PDF)
 
@@ -773,7 +774,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/micardis-h-c-209-a31-0099-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommend_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-662)
+[Other languages (22)](#file-language-dropdown-692)
 
 български (BG) (87.49 KB - PDF)
 
@@ -1005,6 +1006,164 @@ English (EN) (239.29 KB - PDF)
 
 24/04/2008
 
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Micardis : EPAR - Product information - tracked changes
+
+English (EN) (188.04 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/en/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-350)
+
+български (BG) (201.39 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/bg/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (175.72 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/es/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (178.96 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/cs/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (166.03 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/da/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (176.02 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/de/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (176.09 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/et/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (145.81 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/el/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (155.82 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/fr/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (148.55 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/hr/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (162.33 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/is/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (173.42 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/it/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (173.82 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/lv/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (148.28 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/lt/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (174.85 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/hu/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (173.57 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/mt/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (183.01 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/nl/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (166.5 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/no/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (184.06 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/pl/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (160.87 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/pt/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (190.49 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/ro/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (172.97 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/sk/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (168.63 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/sl/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (182.68 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/fi/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (166.45 KB - DOCX)
+
+**First published:** 28/04/2026
+
+[View](/sv/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_sv.docx)
+
 ## More information on Micardis
 
 - [Renin-angiotensin-system (RAS)-acting agents: Article-31 referral](/en/medicines/human/referrals/renin-angiotensin-system-ras-acting-agents)
@@ -1029,6 +1188,6 @@ English (EN) (511.41 KB - PDF)
 
 **This page was last updated on**
 
-17/04/2026
+28/04/2026
 
 ## Share this page

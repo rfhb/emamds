@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-30 13:58:53
-document_pages: 176
+document_datetime: 2026-04-28 11:57:37
+document_pages: 175
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tecentriq-epar-product-information_en.pdf
 document_name: tecentriq-epar-product-information_en.pdf
 version: success
-processing_time: 112.6279258
-conversion_datetime: 2026-04-01 12:28:55.870234
+processing_time: 113.6208106
+conversion_datetime: 2026-04-29 13:21:22.646528
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -313,11 +313,9 @@ Asymptomatic patients with abnormal thyroid function tests can receive atezolizu
 
 For symptomatic adrenal insufficiency, atezolizumab should be withheld and treatment with intravenous corticosteroids (1 to 2 mg/kg bw/day methylprednisolone or equivalent) should be started. Once symptoms improve, treatment with 1 to 2 mg/kg bw/day of prednisone or equivalent should follow. If symptoms improve to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month. Treatment may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day and the patient is stable on replacement therapy (if required).
 
-For Grade 2 or Grade 3 hypophysitis, atezolizumab should be withheld and treatment with intravenous corticosteroids (1 to 2 mg/kg bw/day methylprednisolone or equivalent) should be started, and hormone replacement should be initiated as needed. Once symptoms improve, treatment with 1 to 2 mg/kg bw/day of prednisone or equivalent should follow. If symptoms improve to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month. Treatment may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent
+For Grade 2 or Grade 3 hypophysitis, atezolizumab should be withheld and treatment with intravenous corticosteroids (1 to 2 mg/kg bw/day methylprednisolone or equivalent) should be started, and hormone replacement should be initiated as needed. Once symptoms improve, treatment with 1 to 2 mg/kg bw/day of prednisone or equivalent should follow. If symptoms improve to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month. Treatment may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day and the patient is stable on replacement therapy (if required). Treatment with atezolizumab should be permanently discontinued for Grade 4 hypophysitis.
 
 <div style=\"page-break-after: always\"></div>
-
-per day and the patient is stable on replacement therapy (if required). Treatment with atezolizumab should be permanently discontinued for Grade 4 hypophysitis.
 
 Treatment with insulin should be initiated for type 1 diabetes mellitus. For ≥ Grade 3 hyperglycaemia (fasting glucose &gt; 250 mg/dL or 13.9 mmol/L), atezolizumab should be withheld. Treatment with atezolizumab may be resumed if metabolic control is achieved on insulin replacement therapy.
 
@@ -329,7 +327,7 @@ Treatment with atezolizumab must be permanently discontinued for any grade of me
 
 ## Immune-mediated neuropathies
 
-Myasthenic syndrome/myasthenia gravis or Guillain-Barré syndrome, which may be life threatening, and facial paresis were observed in patients receiving atezolizumab. Patients should be monitored for symptoms of motor and sensory neuropathy.
+Myasthenic syndrome/myasthenia gravis or Guillain-Barré syndrome, which may be life threatening, and facial paresis were observed in patients receiving atezolizumab. Patients should be monitored for symptoms of motor and sensory neuropathy (also see 'Immune-mediated myocarditis-myositismyasthenia gravis overlap syndrome' in this section).
 
 Myelitis has been observed in clinical trials with atezolizumab (see section 4.8). Patients should be closely monitored for signs and symptoms that are suggestive of myelitis.
 
@@ -349,7 +347,7 @@ Treatment with atezolizumab should be withheld for ≥ Grade 3 serum amylase or 
 
 ## Immune-mediated myocarditis
 
-Cases of myocarditis, including fatal cases, have been observed with atezolizumab (see section 4.8). Patients should be monitored for signs and symptoms of myocarditis. Myocarditis may also be a clinical manifestation of myositis and should be managed accordingly.
+Cases of myocarditis, including fatal cases, have been observed with atezolizumab (see section 4.8). Patients should be monitored for signs and symptoms of myocarditis (also see 'Immune-mediated myocarditis-myositis-myasthenia gravis overlap syndrome' in this section).
 
 Patients with cardiac or cardiopulmonary symptoms should be assessed for potential myocarditis, to ensure the initiation of appropriate measures at an early stage. If myocarditis is suspected, treatment with atezolizumab should be withheld, prompt initiation of systemic corticosteroids at a dose of 1 to 2 mg/kg bw/day of prednisone or equivalent should be started, and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated. Once a diagnosis of myocarditis is established, treatment with atezolizumab must be permanently discontinued for Grade ≥ 2 myocarditis (see section 4.2).
 
@@ -361,7 +359,7 @@ Treatment with atezolizumab should be withheld for Grade 2 nephritis, and treatm
 
 ## Immune-mediated myositis
 
-Cases of myositis, including fatal cases, have been observed with atezolizumab (see section 4.8). Patients should be monitored for signs and symptoms of myositis. Patients with possible myositis should be monitored for signs of myocarditis.
+Cases of myositis, including fatal cases, have been observed with atezolizumab (see section 4.8). Patients should be monitored for signs and symptoms of myositis (also see 'Immune-mediated myocarditis-myositis-myasthenia gravis overlap syndrome' in this section).
 
 If a patient develops signs and symptoms of myositis, close monitoring should be implemented, and the patient referred to a specialist for assessment and treatment without delay. Treatment with atezolizumab should be withheld for Grade 2 or 3 myositis and corticosteroid therapy (1 to 2 mg/kg bw/day prednisone or equivalent) should be initiated. If symptoms improve to ≤ Grade 1, taper corticosteroids as clinically indicated. Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg oral prednisone or equivalent per day. Treatment with atezolizumab should be permanently discontinued for Grade 4 or Grade 3 recurrent myositis, or when unable to reduce the corticosteroid dose to the equivalent of ≤ 10 mg prednisone per day within 12 weeks after onset.
 
@@ -387,11 +385,19 @@ For suspected Grade 1 pericarditis, treatment with atezolizumab should be withhe
 
 Haemophagocytic lymphohistiocytosis (HLH), including fatal cases, has been reported in patients receiving atezolizumab (see section 4.8). HLH should be considered when the presentation of cytokine release syndrome is atypical or prolonged. Patients should be monitored for clinical signs and symptoms of HLH. For suspected HLH, atezolizumab must be permanently discontinued and patients should be referred to a specialist for further diagnosis and management.
 
+## Immune-mediated myocarditis-myositis-myasthenia gravis overlap syndrome
+
+Cases of myocarditis-myositis-myasthenia gravis overlap syndrome (presenting as an overlap of either two or all three conditions), some with fatal outcome, have been observed in the post-marketing setting and clinical trials with atezolizumab. Early recognition and aggressive management are essential to address associated morbidity and risk of mortality.
+
+It is important to recognise overlapping symptoms, which can complicate diagnosis and management and could have a higher risk of mortality. Patients presenting with signs or symptoms of one condition should also be monitored for the other two conditions and should be managed as clinically indicated. Refer to section 4.2, Table 2 for recommended dose modification guidance for the individual conditions (myocarditis, myositis, myasthenia gravis) and adhere to the most stringent recommendations.
+
 ## Other immune-mediated adverse reactions
 
 Given the mechanism of action of atezolizumab, other potential immune-mediated adverse reactions may occur, including noninfective cystitis, uveitis and autoimmune haemolytic anaemia.
 
 Evaluate all suspected immune-mediated adverse reactions to exclude other causes. Patients should be monitored for signs and symptoms of immune-mediated adverse reactions and, based on the severity of the reaction, managed with treatment modifications and corticosteroids as clinically indicated (see section 4.2 and section 4.8).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Infusion-related reactions
 
@@ -402,8 +408,6 @@ Infusion-related reactions have been observed with atezolizumab, including anaph
 ## Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in metastatic non-squamous NSCLC
 
 Physicians should carefully consider the combined risks of the four-drug regimen of atezolizumab bevacizumab, paclitaxel, and carboplatin before initiating treatment (see section 4.8).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Use of atezolizumab in combination with nab-paclitaxel in metastatic TNBC
 
@@ -427,11 +431,11 @@ In study IMpower150, there are no data on the efficacy of atezolizumab in combin
 
 Data in HCC patients with Child-Pugh B liver disease treated with atezolizumab in combination with bevacizumab are very limited and there are currently no data available in HCC patients with ChildPugh C liver disease.
 
+<div style=\"page-break-after: always\"></div>
+
 Patients treated with bevacizumab have an increased risk of haemorrhage, and cases of severe gastrointestinal haemorrhage, including fatal events, were reported in patients with HCC treated with atezolizumab in combination with bevacizumab. In patients with HCC, screening for and subsequent treatment of oesophageal varices should be performed as per clinical practice prior to starting treatment with the combination of atezolizumab and bevacizumab. Bevacizumab should be permanently discontinued in patients who experience Grade 3 or 4 bleeding with the combination treatment. Please refer to the bevacizumab Summary of Product Characteristics.
 
 Diabetes mellitus can occur during treatment with atezolizumab in combination with bevacizumab. Physicians should monitor blood glucose levels prior to and periodically during treatment with atezolizumab in combination with bevacizumab as clinically indicated.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Use of atezolizumab as monotherapy for first-line treatment in metastatic NSCLC
 
@@ -455,13 +459,13 @@ No formal pharmacokinetic interaction studies have been conducted with atezolizu
 
 The use of systemic corticosteroids or immunosuppressants before starting atezolizumab should be avoided because of their potential interference with the pharmacodynamic activity and efficacy of atezolizumab. However, systemic corticosteroids or other immunosuppressants can be used to treat immune-mediated adverse reactions after starting atezolizumab (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Women of childbearing potential
 
 Women of childbearing potential have to use effective contraception during and for 5 months after treatment with atezolizumab.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -489,15 +493,13 @@ Tecentriq has minor influence on the ability to drive and use machines. Patients
 
 The safety of atezolizumab as monotherapy is based on pooled data in 5 039 patients across multiple tumour types. The most common adverse reactions (&gt; 10%) were fatigue (29.3%), decreased appetite (20.1%), rash (19.7%), nausea (18.8%), cough (18.2%), diarrhoea (18.1%), pyrexia (17.9%), dyspnoea (16.6%), arthralgia (16.2%), pruritus (13.3%), asthenia (13%), back pain (12.2%), vomiting (11.7%), urinary tract infection (11%) and headache (10.2%).
 
+<div style=\"page-break-after: always\"></div>
+
 The safety of atezolizumab given in combination with other medicinal products, has been evaluated in 4 535 patients across multiple tumour types. The most common adverse reactions ( ≥ 20%) were anaemia (36.8%), neutropenia (36.6%), nausea (35.5%), fatigue (33.1%), alopecia (28.1%), rash (27.8%), diarrhoea (27.6%), thrombocytopenia (27.1%), constipation (25.8%), decreased appetite (24.7%) and peripheral neuropathy (24.4%).
 
 ## Use of atezolizumab in the adjuvant NSCLC setting
 
-The safety profile of atezolizumab in the adjuvant setting in the non-small cell lung cancer (NSCLC) patient population (IMpower010) was generally consistent with the overall pooled monotherapy safety
-
-<div style=\"page-break-after: always\"></div>
-
-profile in the advanced setting. Nevertheless, the incidence of immune-mediated adverse reactions of atezolizumab in IMpower010 was 51.7% compared to 38.4% in the pooled monotherapy population with advanced disease. No new immune-mediated adverse reactions were identified in the adjuvant setting.
+The safety profile of atezolizumab in the adjuvant setting in the non-small cell lung cancer (NSCLC) patient population (IMpower010) was generally consistent with the overall pooled monotherapy safety profile in the advanced setting. Nevertheless, the incidence of immune-mediated adverse reactions of atezolizumab in IMpower010 was 51.7% compared to 38.4% in the pooled monotherapy population with advanced disease. No new immune-mediated adverse reactions were identified in the adjuvant setting.
 
 ## Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin
 
@@ -511,92 +513,100 @@ The adverse reactions (ARs) are listed by MedDRA system organ class (SOC) and ca
 
 Table 3: Summary of adverse reactions occurring in patients treated with atezolizumab
 
-| Atezolizumab monotherapy             | Atezolizumab monotherapy                                              | Atezolizumab in combination therapy                                   |
-|--------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
-| Infections and infestations          | Infections and infestations                                           |                                                                       |
-| Very common                          | urinary tract infection a                                             | lung infection b                                                      |
-| Common                               |                                                                       | sepsis aj                                                             |
-| Rare                                 | cytomegalovirus infection                                             | cytomegalovirus infection                                             |
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                  |                                                                       |
-| Very common                          |                                                                       | anaemia, thrombocytopenia d , neutropenia e , leukopenia f            |
-| Common                               | thrombocytopenia d , neutropenia e                                    | lymphopenia g                                                         |
-| Rare                                 | haemophagocytic lymphohistiocytosis, autoimmune haemolytic anaemia av | haemophagocytic lymphohistiocytosis, autoimmune haemolytic anaemia av |
-| Immune system disorders              | Immune system disorders                                               |                                                                       |
-| Common                               | infusion-related reaction h                                           | infusion-related reaction h                                           |
-| Rare                                 | sarcoidosis ar                                                        |                                                                       |
-| Endocrine disorders                  | Endocrine disorders                                                   |                                                                       |
-| Very common                          |                                                                       | hypothyroidism i                                                      |
+| Atezolizumab monotherapy             | Atezolizumab monotherapy             | Atezolizumab in combination therapy                        |
+|--------------------------------------|--------------------------------------|------------------------------------------------------------|
+| Infections and infestations          | Infections and infestations          |                                                            |
+| Very common                          | urinary tract infection a            | lung infection b                                           |
+| Common                               |                                      | sepsis aj                                                  |
+| Rare                                 | cytomegalovirus infection            | cytomegalovirus infection                                  |
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders |                                                            |
+| Very common                          |                                      | anaemia, thrombocytopenia d , neutropenia e , leukopenia f |
+| Common                               | thrombocytopenia d , neutropenia e   | lymphopenia g                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| Atezolizumab monotherapy                         | Atezolizumab monotherapy                                                | Atezolizumab in combination therapy                    |
-|--------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------|
-| Common                                           | hypothyroidism i , hyperthyroidism j                                    | hyperthyroidism j                                      |
-| Uncommon                                         | diabetes mellitus k , adrenal insufficiency l , hypophysitis m          | hypophysitis m                                         |
-| Metabolism and nutrition disorders               | Metabolism and nutrition disorders                                      | Metabolism and nutrition disorders                     |
-| Very common                                      | decreased appetite                                                      | decreased appetite                                     |
-| Common                                           | hypokalaemia ae , hyponatraemia af , hyperglycaemia                     | hypokalaemia ae , hyponatraemia af , hypomagnesaemia n |
-| Nervous system disorders                         | Nervous system disorders                                                | Nervous system disorders                               |
-| Very common                                      | headache                                                                | peripheral neuropathy o , headache                     |
-| Common                                           | peripheral neuropathy o                                                 | syncope, dizziness                                     |
-| Uncommon                                         | Guillain-Barré syndrome p , meningoencephalitis q                       |                                                        |
-| Rare                                             | myasthenic syndrome r , facial paresis, myelitis                        | facial paresis                                         |
-| Eye disorders                                    | Eye disorders                                                           | Eye disorders                                          |
-| Uncommon                                         | uveitis as                                                              |                                                        |
-| Rare                                             |                                                                         | uveitis as                                             |
-| Cardiac disorders                                | Cardiac disorders                                                       | Cardiac disorders                                      |
-| Common                                           | pericardial disorders ao                                                |                                                        |
-| Uncommon                                         |                                                                         | pericardial disorders ao                               |
-| Rare                                             | myocarditis s                                                           |                                                        |
-| Vascular disorders                               | Vascular disorders                                                      | Vascular disorders                                     |
-| Very common                                      |                                                                         | hypertension ai                                        |
-| Common                                           | hypotension                                                             |                                                        |
-| Respiratory, thoracic, and mediastinal disorders | Respiratory, thoracic, and mediastinal disorders                        | Respiratory, thoracic, and mediastinal disorders       |
-| Very common                                      | dyspnoea, cough                                                         | dyspnoea, cough, nasopharyngitis am                    |
-| Common                                           | pneumonitis t , hypoxia ag , nasopharyngitis am                         | dysphonia                                              |
-| Gastrointestinal disorders                       | Gastrointestinal disorders                                              | Gastrointestinal disorders                             |
-| Very common                                      | nausea, vomiting, diarrhoea u                                           | nausea, vomiting, diarrhoea u , constipation           |
-| Common                                           | colitis v , abdominal pain, dysphagia, oropharyngeal pain w , dry mouth | stomatitis, dysgeusia, colitis v                       |
-| Uncommon                                         | pancreatitis x                                                          |                                                        |
-| Rare                                             | coeliac disease                                                         | coeliac disease                                        |
-| Hepatobiliary disorders                          | Hepatobiliary disorders                                                 | Hepatobiliary disorders                                |
-| Common                                           | AST increased, ALT increased, hepatitis y                               | AST increased, ALT increased                           |
-| Skin and subcutaneous tissue disorders           | Skin and subcutaneous tissue disorders                                  | Skin and subcutaneous tissue disorders                 |
-| Very common                                      | rash z , pruritus                                                       | rash z , pruritus, alopecia ah                         |
+| Atezolizumab monotherapy                         | Atezolizumab monotherapy                                                                                | Atezolizumab in combination therapy                                                                         |
+|--------------------------------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Rare                                             | haemophagocytic lymphohistiocytosis, autoimmune haemolytic anaemia av                                   | haemophagocytic lymphohistiocytosis, autoimmune haemolytic anaemia av                                       |
+| Immune system disorders                          | Immune system disorders                                                                                 | Immune system disorders                                                                                     |
+| Common                                           | infusion-related reaction h                                                                             | infusion-related reaction h                                                                                 |
+| Rare                                             | sarcoidosis ar                                                                                          |                                                                                                             |
+| Endocrine disorders                              | Endocrine disorders                                                                                     | Endocrine disorders                                                                                         |
+| Very common                                      | Very common                                                                                             | hypothyroidism i                                                                                            |
+| Common                                           | hypothyroidism i , hyperthyroidism j                                                                    | hyperthyroidism j                                                                                           |
+| Uncommon                                         | diabetes mellitus k , adrenal insufficiency l , hypophysitis m                                          | hypophysitis m                                                                                              |
+| Metabolism and nutrition disorders               | Metabolism and nutrition disorders                                                                      | Metabolism and nutrition disorders                                                                          |
+| Very common                                      | decreased appetite                                                                                      | decreased appetite                                                                                          |
+| Common                                           | hypokalaemia ae , hyponatraemia af , hyperglycaemia, hypoalbuminaemia, hypophosphataemia, hypocalcaemia | hypokalaemia ae , hyponatraemia af , hypomagnesaemia n , hypoalbuminaemia, hypophosphataemia, hypocalcaemia |
+| Nervous system disorders                         | Nervous system disorders                                                                                | Nervous system disorders                                                                                    |
+| Very common                                      | headache                                                                                                | peripheral neuropathy o , headache                                                                          |
+| Common                                           | peripheral neuropathy o                                                                                 | syncope, dizziness                                                                                          |
+| Uncommon                                         | Guillain-Barré syndrome p , meningoencephalitis q                                                       |                                                                                                             |
+| Rare                                             | myasthenic syndrome r , facial paresis, myelitis                                                        | facial paresis                                                                                              |
+| Eye disorders                                    | Eye disorders                                                                                           | Eye disorders                                                                                               |
+| Uncommon                                         | uveitis as                                                                                              |                                                                                                             |
+| Rare                                             |                                                                                                         | uveitis as                                                                                                  |
+| Cardiac disorders                                | Cardiac disorders                                                                                       | Cardiac disorders                                                                                           |
+| Common                                           | pericardial disorders ao                                                                                |                                                                                                             |
+| Uncommon                                         |                                                                                                         | pericardial disorders ao                                                                                    |
+| Rare                                             | myocarditis s                                                                                           |                                                                                                             |
+| Vascular disorders                               | Vascular disorders                                                                                      | Vascular disorders                                                                                          |
+| Very common                                      |                                                                                                         | hypertension ai                                                                                             |
+| Common                                           | hypotension                                                                                             |                                                                                                             |
+| Respiratory, thoracic, and mediastinal disorders | Respiratory, thoracic, and mediastinal disorders                                                        | Respiratory, thoracic, and mediastinal disorders                                                            |
+| Very common                                      | dyspnoea, cough                                                                                         | dyspnoea, cough, nasopharyngitis am                                                                         |
+| Common                                           | pneumonitis t , hypoxia ag , nasopharyngitis am                                                         | dysphonia                                                                                                   |
+| Gastrointestinal disorders                       | Gastrointestinal disorders                                                                              | Gastrointestinal disorders                                                                                  |
+| Very common                                      | nausea, vomiting, diarrhoea u                                                                           | nausea, vomiting, diarrhoea u , constipation                                                                |
 
 <div style=\"page-break-after: always\"></div>
 
-| Atezolizumab monotherapy                             | Atezolizumab monotherapy                                                   | Atezolizumab in combination therapy                  |
-|------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------|
-| Common                                               | dry skin ap                                                                |                                                      |
-| Uncommon                                             | severe cutaneous adverse reactions ak , psoriasis an , lichen disorders aq | severe cutaneous adverse reactions ak , psoriasis an |
-| Rare                                                 | pemphigoid                                                                 | pemphigoid, lichen disorders aq                      |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders      |
-| Very common                                          | arthralgia, back pain                                                      | arthralgia, musculoskeletal pain aa , back pain      |
-| Common                                               | musculoskeletal pain aa , arthritis at                                     | arthritis at                                         |
-| Uncommon                                             | myositis ab , tenosynovitis au                                             | tenosynovitis au                                     |
-| Renal and urinary disorders                          | Renal and urinary disorders                                                | Renal and urinary disorders                          |
-| Common                                               | blood creatinine increased c                                               | proteinuria ac , blood creatinine increased c        |
-| Uncommon                                             | nephritis ad                                                               |                                                      |
-| Not known                                            | cystitis noninfective al                                                   |                                                      |
-| General disorders and administration site conditions | General disorders and administration site conditions                       | General disorders and administration site conditions |
-| Very common                                          | pyrexia, fatigue, asthenia                                                 | pyrexia, fatigue, asthenia, oedema peripheral        |
-| Common                                               | influenza like illness, chills                                             |                                                      |
-| Investigations                                       | Investigations                                                             | Investigations                                       |
-| Common                                               |                                                                            | blood alkaline phosphatase increased                 |
-| Uncommon                                             | blood creatine phosphokinase increased                                     |                                                      |
+| Atezolizumab monotherapy                             | Atezolizumab monotherapy                                                   | Atezolizumab in combination therapy                                        |
+|------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Common                                               | colitis v , abdominal pain, dysphagia, oropharyngeal pain w , dry mouth    | stomatitis, dysgeusia, colitis v                                           |
+| Uncommon                                             | pancreatitis x                                                             |                                                                            |
+| Rare                                                 | coeliac disease                                                            | coeliac disease                                                            |
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                    | Hepatobiliary disorders                                                    |
+| Common                                               | AST increased, ALT increased, hepatitis y                                  | AST increased, ALT increased                                               |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                     | Skin and subcutaneous tissue disorders                                     |
+| Very common                                          | rash z , pruritus                                                          | rash z , pruritus, alopecia ah                                             |
+| Common                                               | dry skin ap                                                                |                                                                            |
+| Uncommon                                             | severe cutaneous adverse reactions ak , psoriasis an , lichen disorders aq | severe cutaneous adverse reactions ak , psoriasis an                       |
+| Rare                                                 | pemphigoid                                                                 | pemphigoid, lichen disorders aq                                            |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders                            |
+| Very common                                          | arthralgia, back pain                                                      | arthralgia, musculoskeletal pain aa , back pain                            |
+| Common                                               | musculoskeletal pain aa , arthritis at                                     | arthritis at                                                               |
+| Uncommon                                             | myositis ab , tenosynovitis au                                             | tenosynovitis au                                                           |
+| Renal and urinary disorders                          | Renal and urinary disorders                                                | Renal and urinary disorders                                                |
+| Common                                               | blood creatinine increased c                                               | proteinuria ac , blood creatinine increased c                              |
+| Uncommon                                             | nephritis ad                                                               |                                                                            |
+| Not known                                            | cystitis noninfective al                                                   |                                                                            |
+| General disorders and administration site conditions | General disorders and administration site conditions                       | General disorders and administration site conditions                       |
+| Very common                                          | pyrexia, fatigue, asthenia                                                 | pyrexia, fatigue, asthenia, oedema peripheral                              |
+| Common                                               | influenza like illness, chills                                             |                                                                            |
+| Investigations                                       | Investigations                                                             | Investigations                                                             |
+| Common                                               | gamma-glutamyl transferase increased                                       | blood alkaline phosphatase increased, gamma-glutamyl transferase increased |
+| Uncommon                                             | blood creatine phosphokinase increased                                     |                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-i Includes reports of anti-thyroid antibody positive, autoimmune hypothyroidism, autoimmune thyroiditis, blood thyroid stimulating hormone decreased, blood thyroid stimulating hormone increased, euthyroid sick syndrome, goitre, hypothyroidism, immune-mediated hypothyroidism, immune-mediated thyroiditis, myxoedema, primary hypothyroidism, thyroid disorder, thyroid hormones decreased, thyroid function test abnormal, thyroiditis, thyroiditis acute, thyroxine decreased, thyroxine free decreased, thyroxine free increased, thyroxine increased, tri-iodothyronine decreased, tri-iodothyronine increased, tri-iodothyronine free abnormal, tri-iodothyronine free decreased, triiodothyronine free increased, silent thyroiditis.
+e Includes reports of neutropenia, neutrophil count decreased, febrile neutropenia, neutropenic sepsis, granulocytopenia.
 
-j
+f
 
-Includes reports of hyperthyroidism, Basedow's disease, endocrine ophthalmopathy, exophthalmos. k Includes reports of diabetes mellitus, type 1 diabetes mellitus, diabetic ketoacidosis, ketoacidosis. l Includes reports of adrenal insufficiency, blood corticotropin decreased, glucocorticoid deficiency, primary adrenal insufficiency, secondary adrenocortical insufficiency. m  Includes reports of hypophysitis, hypopituitarism, secondary adrenocortical insufficiency, temperature regulation disorder. n  Includes reports of hypomagnesaemia, blood magnesium decreased. o Includes reports of neuropathy peripheral, autoimmune neuropathy, peripheral sensory neuropathy, polyneuropathy, herpes zoster, peripheral motor neuropathy, neuralgic amyotrophy, peripheral sensorimotor neuropathy, toxic neuropathy, axonal neuropathy, lumbosacral plexopathy, neuropathic arthropathy, peripheral nerve infection, neuritis, immune-mediated neuropathy. p Includes reports of Guillain-Barré syndrome, ascending flaccid paralysis, demyelinating polyneuropathy. q Includes reports of encephalitis, encephalitis autoimmune, meningitis, meningitis aseptic, photophobia. r Includes reports of myasthenia gravis. s  Includes reports of myocarditis, autoimmune myocarditis, and immune-mediated myocarditis. t Includes reports of pneumonitis, lung infiltration, bronchiolitis, immune-mediated lung disease, immune-mediated pneumonitis, interstitial lung disease, alveolitis, lung opacity, pulmonary fibrosis, pulmonary toxicity, radiation pneumonitis. u Includes reports of diarrhoea, defaecation urgency, frequent bowel movements, gastrointestinal hypermotility. v Includes reports of colitis, autoimmune colitis, colitis ischaemic, colitis microscopic, colitis ulcerative, diversion colitis, eosinophilic colitis, immune-mediated enterocolitis. w Includes reports of oropharyngeal pain, oropharyngeal discomfort, throat irritation. x Includes reports of autoimmune pancreatitis, pancreatitis, pancreatitis acute, lipase increased, amylase increased. y Includes reports of ascites, autoimmune hepatitis, hepatic cytolysis, hepatitis, hepatitis acute, hepatitis toxic, hepatotoxicity, immune-mediated hepatitis, liver disorder, drug-induced liver injury, hepatic failure, hepatic steatosis, hepatic lesion, liver injury, oesophageal varices haemorrhage, varices oesophageal, spontaneous bacterial peritonitis. z Includes reports of acne, blister, dermatitis, dermatitis acneiform, dermatitis allergic, drug eruption, eczema, eczema infected, erythema, erythema of eyelid, eyelid rash, fixed eruption, folliculitis, furuncle, hand dermatitis, immune-mediated dermatitis, lip blister, oral blood blister, palmar-plantar erythrodysaesthesia syndrome, pemphigoid, rash, rash erythematous, rash macular, rash maculopapular, rash morbilliform, rash papular, rash papulosquamous, rash pruritic, rash pustular, rash vesicular, scrotal dermatitis, seborrhoeic dermatitis, skin exfoliation, skin toxicity, skin ulcer, vascular access site rash. aa Includes reports of musculoskeletal pain, myalgia, bone pain. ab Includes reports of myositis, rhabdomyolysis, polymyalgia rheumatica, dermatomyositis, muscle abscess, myoglobin urine present, myopathy, polymyositis. ac Includes reports of proteinuria, protein urine present, haemoglobinurea, urine abnormality, nephrotic syndrome, albuminuria. ad Includes reports of nephritis, autoimmune nephritis, Henoch-Schonlein purpura nephritis, paraneoplastic glomerulonephritis, tubulointerstitial nephritis. ae Includes reports of hypokalaemia, blood potassium decreased. af Includes reports of hyponatraemia, blood sodium decreased. ag Includes reports of hypoxia, oxygen saturation decreased, pO2 decreased.
+ac syndrome, albuminuria.
+
+Includes reports of white blood cell count decreased, leukopenia. g Includes reports of lymphopenia, lymphocyte count decreased. h Includes reports of infusion-related reaction, cytokine release syndrome, hypersensitivity, anaphylaxis. i Includes reports of anti-thyroid antibody positive, autoimmune hypothyroidism, autoimmune thyroiditis, blood thyroid stimulating hormone decreased, blood thyroid stimulating hormone increased, euthyroid sick syndrome, goitre, hypothyroidism, immune-mediated hypothyroidism, immune-mediated thyroiditis, myxoedema, primary hypothyroidism, thyroid disorder, thyroid hormones decreased, thyroid function test abnormal, thyroiditis, thyroiditis acute, thyroxine decreased, thyroxine free decreased, thyroxine free increased, thyroxine increased, tri-iodothyronine decreased, tri-iodothyronine increased, tri-iodothyronine free abnormal, tri-iodothyronine free decreased, triiodothyronine free increased, silent thyroiditis. j Includes reports of hyperthyroidism, Basedow's disease, endocrine ophthalmopathy, exophthalmos. k Includes reports of diabetes mellitus, type 1 diabetes mellitus, diabetic ketoacidosis, ketoacidosis. l Includes reports of adrenal insufficiency, blood corticotropin decreased, glucocorticoid deficiency, primary adrenal insufficiency, secondary adrenocortical insufficiency. m  Includes reports of hypophysitis, hypopituitarism, secondary adrenocortical insufficiency, temperature regulation disorder. n  Includes reports of hypomagnesaemia, blood magnesium decreased. o Includes reports of neuropathy peripheral, autoimmune neuropathy, peripheral sensory neuropathy, polyneuropathy, herpes zoster, peripheral motor neuropathy, neuralgic amyotrophy, peripheral sensorimotor neuropathy, toxic neuropathy, axonal neuropathy, lumbosacral plexopathy, neuropathic arthropathy, peripheral nerve infection, neuritis, immune-mediated neuropathy. p Includes reports of Guillain-Barré syndrome, ascending flaccid paralysis, demyelinating polyneuropathy. q Includes reports of encephalitis, encephalitis autoimmune, meningitis, meningitis aseptic, photophobia. r Includes reports of myasthenia gravis. s  Includes reports of myocarditis, autoimmune myocarditis, and immune-mediated myocarditis. t Includes reports of pneumonitis, lung infiltration, bronchiolitis, immune-mediated lung disease, immune-mediated pneumonitis, interstitial lung disease, alveolitis, lung opacity, pulmonary fibrosis, pulmonary toxicity, radiation pneumonitis. u Includes reports of diarrhoea, defaecation urgency, frequent bowel movements, gastrointestinal hypermotility. v Includes reports of colitis, autoimmune colitis, colitis ischaemic, colitis microscopic, colitis ulcerative, diversion colitis, eosinophilic colitis, immune-mediated enterocolitis. w Includes reports of oropharyngeal pain, oropharyngeal discomfort, throat irritation. x Includes reports of autoimmune pancreatitis, pancreatitis, pancreatitis acute, lipase increased, amylase increased. y Includes reports of ascites, autoimmune hepatitis, hepatic cytolysis, hepatitis, hepatitis acute, hepatitis toxic, hepatotoxicity, immune-mediated hepatitis, liver disorder, drug-induced liver injury, hepatic failure, hepatic steatosis, hepatic lesion, liver injury, oesophageal varices haemorrhage, varices oesophageal, spontaneous bacterial peritonitis. z Includes reports of acne, blister, dermatitis, dermatitis acneiform, dermatitis allergic, drug eruption, eczema, eczema infected, erythema, erythema of eyelid, eyelid rash, fixed eruption, folliculitis, furuncle, hand dermatitis, immune-mediated dermatitis, lip blister, oral blood blister, palmar-plantar erythrodysaesthesia syndrome, pemphigoid, rash, rash erythematous, rash macular, rash maculopapular, rash morbilliform, rash papular, rash papulosquamous, rash pruritic, rash pustular, rash vesicular, scrotal dermatitis, seborrhoeic dermatitis, skin exfoliation, skin toxicity, skin ulcer, vascular access site rash. aa Includes reports of musculoskeletal pain, myalgia, bone pain. ab Includes reports of myositis, rhabdomyolysis, polymyalgia rheumatica, dermatomyositis, muscle abscess, myoglobin urine present, myopathy, polymyositis. Includes reports of proteinuria, protein urine present, haemoglobinurea, urine abnormality, nephrotic ad Includes reports of nephritis, autoimmune nephritis, Henoch-Schonlein purpura nephritis, paraneoplastic glomerulonephritis, tubulointerstitial nephritis.
+
+<div style=\"page-break-after: always\"></div>
+
+ae Includes reports of hypokalaemia, blood potassium decreased.
+
+af Includes reports of hyponatraemia, blood sodium decreased.
+
+ag Includes reports of hypoxia, oxygen saturation decreased, pO2 decreased.
 
 ah Includes reports of alopecia, madarosis, alopecia areata, alopecia totalis, hypotrichosis.
-
-<div style=\"page-break-after: always\"></div>
 
 ai Includes reports of hypertension, blood pressure increased, hypertensive crisis, blood pressure systolic increased, diastolic hypertension, blood pressure inadequately controlled, retinopathy hypertensive, hypertensive nephropathy, essential hypertension, orthostatic hypertension.
 
@@ -638,11 +648,11 @@ Pneumonitis occurred in 3.0% (151/5 039) of patients who received atezolizumab m
 
 Hepatitis occurred in 1.7% (88/5 039) of patients who received atezolizumab monotherapy. Of the 88 patients, three experienced fatal events. The median time to onset was 1.4 months (range: 0 days to 26.3 months). The median duration was 1 month (range: 0 day to 52.1+ months; + denotes a censored value). Hepatitis led to discontinuation of atezolizumab in 46 (0.9%) patients. Hepatitis requiring the use of corticosteroids occurred in 2.6% (130/5 039) of patients receiving atezolizumab monotherapy.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Immune-mediated colitis
 
 Colitis occurred in 1.2% (62/5 039) of patients who received atezolizumab monotherapy. The median time to onset was 4.5 months (range: 15 days to 36.4 months). The median duration was 1.4 months (range: 3 days to 50.2+ months; + denotes a censored value). Colitis led to discontinuation of atezolizumab in 24 (0.5%) patients. Colitis requiring the use of corticosteroids occurred in 0.6% (30/5 039) of patients receiving atezolizumab monotherapy.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Immune-mediated endocrinopathies
 
@@ -666,6 +676,8 @@ Hypophysitis occurred in 0.8% (3/393) of patients who received atezolizumab with
 
 Hypophysitis occurred in 0.4% (2/473) of patients who received atezolizumab in combination with nab-paclitaxel and carboplatin. The median time to onset was 5.2 months (range: 5.1 to 5.3 months). Both patients required the use of corticosteroids.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Diabetes mellitus
 
 Diabetes mellitus occurred in 0.6% (30/5 039) of patients who received atezolizumab monotherapy. The median time to onset was 5.5 months (range: 3 days to 29.0 months). Diabetes mellitus led to the discontinuation of atezolizumab in &lt; 0.1% (3/5 039) patients. Four (&lt; 0.1%) patients required the use of corticosteroids.
@@ -675,8 +687,6 @@ Diabetes mellitus occurred in 2.0% (10/493) of HCC patients who received atezoli
 ## Immune-mediated meningoencephalitis
 
 Meningoencephalitis occurred in 0.4% (22/5 039) of patients who received atezolizumab monotherapy. The median time to onset was 15 days (range: 0 days to 12.5 months). The median duration was 24 days (range: 6 days to 14.5+ months; + denotes a censored value).
-
-<div style=\"page-break-after: always\"></div>
 
 Meningoencephalitis requiring the use of corticosteroids occurred in 0.2% (12/5 039) of patients receiving atezolizumab and eight patients (0.2%) discontinued atezolizumab.
 
@@ -698,6 +708,8 @@ Myelitis occurred in &lt; 0.1% (1/5 039) of patients who received atezolizumab m
 
 Myasthenia gravis occurred in &lt; 0.1% (2/5 039) of patients (including 1 fatal case) who received atezolizumab monotherapy. The median time to onset was 2.6 months (range: 1.2 months to 4 months).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Immune-mediated pancreatitis
 
 Pancreatitis, including amylase increased and lipase increased, occurred in 0.8% (40/5 039) of patients who received atezolizumab monotherapy. The median time to onset was 5 months (range: 0 days to 24.8 months). The median duration was 24 days (range: 3 days to 40.4+ months; + denotes a censored value). Pancreatitis led to the discontinuation of atezolizumab in 3 (&lt; 0.1%) patients. Pancreatitis requiring the use of corticosteroids occurred in 0.2% (8/5 039) of patients receiving atezolizumab monotherapy.
@@ -710,8 +722,6 @@ Myocarditis occurred in &lt; 0.1% (5/5 039) of patients who received atezolizuma
 
 Nephritis occurred in 0.2% (11/5 039) of patients who received atezolizumab. The median time to onset was 5.1 months (range: 3 days to 17.5 months). Nephritis led to discontinuation of atezolizumab in 5 ( ≤ 0.1%) patients. Five (0.1%) patients required the use of corticosteroids.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Immune-mediated myositis
 
 Myositis occurred in 0.6% (32/5 039) of patients who received atezolizumab monotherapy. The median time to onset was 3.5 months (range: 12 days to 11.5 months). The median duration was 3.2 months (range: 9 days to 51.1+ months; + denotes a censored value). Myositis led to discontinuation of atezolizumab in 6 (0.1%) patients. Ten (0.2%) patients required the use of corticosteroids.
@@ -723,6 +733,8 @@ Severe cutaneous adverse reactions (SCARs) occurred in 0.6% (30/5 039) of patien
 ## Immune-mediated pericardial disorders
 
 Pericardial disorders occurred in 1% (49/5 039) of patients who received atezolizumab monotherapy. The median time to onset was 1.4 months (range: 6 days to 17.5 months). The median duration was 2.5 months (range: 0 to 51.5+ months; + denotes a censored value). Pericardial disorders led to discontinuation of Tecentriq in 3 (&lt; 0.1%) patients. Pericardial disorders requiring the use of corticosteroids occurred in 0.2% (7/5 039) of patients.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Immune checkpoint inhibitor class effects
 
@@ -738,8 +750,6 @@ Across pooled datasets for patients treated with atezolizumab monotherapy (N=3 4
 
 The safety of atezolizumab in children and adolescents has not been established. No new safety signals were observed in a clinical trial with 69 paediatric patients (&lt; 18 years) and the safety profile was comparable to adults.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Elderly
 
 No overall differences in safety were observed between patients &lt; 65, 65-74, and 75-84 years of age receiving atezolizumab monotherapy. The data for patients ≥ 85 years of age are too limited to draw meaningful conclusions about this population.
@@ -749,6 +759,8 @@ In study IMpower150, age ≥ 65 was associated with an increased risk of develop
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -774,23 +786,19 @@ Atezolizumab is an Fc-engineered, humanised immunoglobulin G1 (IgG1) monoclonal 
 
 IMvigor211 (GO29294): Randomised trial in locally advanced or metastatic UC patients previously treated with chemotherapy
 
-<div style=\"page-break-after: always\"></div>
-
 A phase III, open-label, multi-centre, international, randomised study, (IMvigor211), was conducted to evaluate the efficacy and safety of atezolizumab compared with chemotherapy (investigator's choice of vinflunine, docetaxel, or paclitaxel) in patients with locally advanced or metastatic UC who progressed during or following a platinum-containing regimen. This study excluded patients who had a history of autoimmune disease; active or corticosteroid-dependent brain metastases; administration of a live, attenuated vaccine within 28 days prior to enrolment; and administration of systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal product within 2 weeks prior to enrolment. Tumour assessments were conducted every 9 weeks for the first 54 weeks, and every 12 weeks thereafter. Tumour specimens were evaluated prospectively for PD-L1 expression on tumour-infiltrating immune cells (IC) and the results were used to define the PD-L1 expression subgroups for the analyses described below.
 
 A total of 931 patients were enrolled. Patients were randomised (1:1) to receive either atezolizumab or chemotherapy. Randomisation was stratified by chemotherapy (vinflunine vs. taxane), PD-L1 expression status on IC (&lt; 5% vs. ≥ 5%), number of prognostic risk factors (0 vs. 1-3), and liver metastases (yes vs. no). Prognostic risk factors included time from prior chemotherapy of  3 months, ECOG performance status  0 and haemoglobin  10 g/dL.
 
 Atezolizumab was administered as a fixed dose of 1 200 mg by intravenous infusion every 3 weeks. No dose reduction of atezolizumab was allowed. Patients were treated until loss of clinical benefit as assessed by the investigator or unacceptable toxicity. Vinflunine was administered 320 mg/m 2 by intravenous infusion on day 1 of each 3-week cycle until disease progression or unacceptable toxicity. Paclitaxel was administered 175 mg/m 2 by intravenous infusion over 3 hours on day 1 of each 3-week cycle until disease progression or unacceptable toxicity. Docetaxel was administered 75 mg/m 2 by intravenous infusion on day 1 of each 3-week cycle until disease progression or unacceptable toxicity. For all treated patients, the median duration of treatment was 2.8 months for the atezolizumab arm, 2.1 months for the vinflunine and paclitaxel arms and 1.6 months for the docetaxel arm.
 
+<div style=\"page-break-after: always\"></div>
+
 The demographic and baseline disease characteristics of the primary analysis population were well balanced between the treatment arms. The median age was 67 years (range: 31 to 88), and 77.1% of patients were male. The majority of patients were white (72.1%), 53.9% of patients within the chemotherapy arm received vinflunine, 71.4% of patients had at least one poor prognostic risk factor and 28.8% had liver metastases at baseline. Baseline ECOG performance status was 0 (45.6%) or 1 (54.4%). Bladder was the primary tumour site for 71.1% of patients and 25.4% of patients had upper tract UC. There were 24.2% of patients who received only prior platinum-containing adjuvant or neoadjuvant therapy and progressed within 12 months.
 
 The primary efficacy endpoint for IMvigor211 is overall survival (OS). Secondary efficacy endpoints evaluated per investigator-assessed Response Evaluation Criteria in Solid Tumours (RECIST) v1.1 are objective response rate (ORR), progression-free survival (PFS), and duration of response (DOR). Comparisons with respect to OS between the treatment arm and control arm within the IC2/3, IC1/2/3, and ITT (Intention-to-treat, i.e. all comers) populations were tested using a hierarchical fixed-sequence procedure based on a stratified log-rank test at two-sided level of 5% as follows: step 1) IC2/3 population; step 2) IC1/2/3 population; step 3) all comers population. OS results for each of steps 2 and 3 could be formally tested for statistical significance only if the result in the preceding step was statistically significant.
 
-The median survival follow-up is 17 months. The primary analysis of study IMvigor211 did not meet its primary endpoint of OS. Atezolizumab did not demonstrate a statistically significant survival benefit compared to chemotherapy in patients with previously treated, locally advanced or metastatic UC. Per the pre-specified hierarchical testing order, the IC2/3 population was tested first, with an OS HR of 0.87 (95% CI: 0.63, 1.21; median OS of 11.1 vs. 10.6 months for atezolizumab and chemotherapy respectively). The stratified log-rank p-value was 0.41 and therefore the results are considered not statistically significant in this population. As a consequence, no formal tests of statistical significance could be performed for OS in the IC1/2/3 or all comer populations, and results of those analyses would be considered exploratory. The key results in the all comer population are
-
-<div style=\"page-break-after: always\"></div>
-
-summarised in Table 4. The Kaplan-Meier curve for OS in the all comer population is presented in Figure 1.
+The median survival follow-up is 17 months. The primary analysis of study IMvigor211 did not meet its primary endpoint of OS. Atezolizumab did not demonstrate a statistically significant survival benefit compared to chemotherapy in patients with previously treated, locally advanced or metastatic UC. Per the pre-specified hierarchical testing order, the IC2/3 population was tested first, with an OS HR of 0.87 (95% CI: 0.63, 1.21; median OS of 11.1 vs. 10.6 months for atezolizumab and chemotherapy respectively). The stratified log-rank p-value was 0.41 and therefore the results are considered not statistically significant in this population. As a consequence, no formal tests of statistical significance could be performed for OS in the IC1/2/3 or all comer populations, and results of those analyses would be considered exploratory. The key results in the all comer population are summarised in Table 4. The Kaplan-Meier curve for OS in the all comer population is presented in Figure 1.
 
 An exploratory updated survival analysis was performed with a median duration of survival follow up of 34 months in the ITT population. The median OS was 8.6 months (95% CI: 7.8, 9.6) in the atezolizumab arm and 8.0 months (95% CI: 7.2, 8.6) in the chemotherapy arm with a hazard ratio of 0.82 (95% CI: 0.71, 0.94). Consistent with the trend observed at primary analysis for 12-month OS rates, numerically higher 24-month and 30-month OS rates were observed for patients in the atezolizumab arm compared with the chemotherapy arm in the ITT population. The percentage of patients alive at 24 months (KM estimate) was 12.7% in the chemotherapy arm and 22.5% in the atezolizumab arm; and at 30 months (KM estimate) was 9.8% in the chemotherapy arm and 18.1% in the atezolizumab arm.
 
@@ -827,7 +835,7 @@ CI = confidence interval; DOR = duration of response; ORR = objective response r
 
 * An analysis of OS in the all comer population was performed based on the stratified log-rank test and the result is provided for descriptive purposes only (p = 0.0378); according to the pre-specified analysis hierarchy, the p-value for the OS analysis in the all comer population cannot be considered statistically significant.
 
-- ǂ Stratified by chemotherapy (vinflunine vs. taxane), status on IC (&lt; 5% vs. ≥ 5%), number of prognostic risk factors (0 vs. 1-3), and liver metastases (yes vs. no).
+ǂ Stratified by chemotherapy (vinflunine vs. taxane), status on IC (&lt; 5% vs. ≥ 5%), number of prognostic risk factors (0 vs. 1-3), and liver metastases (yes vs. no).
 
 ** Based on Kaplan-Meier estimate
 
@@ -962,7 +970,7 @@ Table 7: Summary of efficacy in the PD-L1 expression ≥ 50% TC stage II - IIIA 
 | 95% CI                             | (NE)                   | (72.0, NE)                     |
 | Stratified ǂ hazard ratio (95% CI) | 0.47 (0.28, 0.80)      | 0.47 (0.28, 0.80)              |
 
-DFS = Disease-free survival; CI = confidence interval; NE = not estimable
+DFS = Disease-free survival; CI = confidence interval; NE = not estimable The observed DFS improvement in the atezolizumab arm compared with the BSC arm was consistently shown across the majority of pre-specified subgroups in the PD-L1 ≥ 50% TC stage II -IIIA patient population without EGFR mutations or ALK rearrangements, including both non-squamous NSCLC patients (unstratified HR of 0.40, 95% CI: 0.23, 0.70; median DFS NE vs. 36.8 months) and squamous NSCLC patients (unstratified HR of 0.67, 95% CI: 0.34, 1.32; median DFS could not be estimated).
 
 * Updated DFS and OS analysis at clinical cut-off 26 January 2024
 
@@ -973,8 +981,6 @@ Figure 3: Kaplan-Meier curve for disease-free survival in the PD-L1 expression �
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-The observed DFS improvement in the atezolizumab arm compared with the BSC arm was consistently shown across the majority of pre-specified subgroups in the PD-L1 ≥ 50% TC stage II -IIIA patient population without EGFR mutations or ALK rearrangements, including both non-squamous NSCLC patients (unstratified HR of 0.40, 95% CI: 0.23, 0.70; median DFS NE vs. 36.8 months) and squamous NSCLC patients (unstratified HR of 0.67, 95% CI: 0.34, 1.32; median DFS could not be estimated).
 
 First-line treatment of advanced NSCLC
 
@@ -1010,13 +1016,14 @@ Table 9: Summary of updated efficacy in the ITT population (IMpower150)
 | Investigator-assessed PFS (RECIST v1.1)*                                                                 | n = 402                                             | n = 400                                                         | n = 400                                          |
 | No. of events (%) Median duration of PFS (months) 95% CI Stratified hazard ratio ‡^ (95% CI) p-value 1,2 | 330 (82.1%) 6.7 (5.7, 6.9) 0.91 (0.78, 1.06) 0.2194 | 291 (72.8%) 8.4 (8.0, 9.9) 0.59 (0.50, 0.69) < 0.0001           | 355 (88.8%) 6.8 (6.0, 7.0) ---                   |
 | 12-month PFS (%) OS interim analysis*                                                                    | 24 = 402                                            | 38 n = 400                                                      | 20                                               |
-|                                                                                                          | n 206 19.5                                          |                                                                 |                                                  |
-|                                                                                                          | (51.2%) (16.3, 21.3) (0.71,                         | 19.8                                                            | n = 400                                          |
-| No. of deaths (%) Median time to events (months) 95% CI Stratified hazard ratio ‡^ (95% CI) 1,2          | 0.85 1.03)                                          | 192 (48.0%) (17.4, 24.2) 0.76 (0.63, 0.93) 0.006                | 230 (57.5%) 14.9 (13.4, 17.1) ---                |
+|                                                                                                          | n 206 (51.2%) 19.5                                  |                                                                 |                                                  |
+|                                                                                                          | (16.3, 21.3) (0.71,                                 |                                                                 | n = 400                                          |
+| No. of deaths (%) Median time to events (months) 95% CI Stratified hazard ratio ‡^ (95% CI) 1,2          | 0.85 1.03)                                          | 192 (48.0%) 19.8 (17.4, 24.2) 0.76 (0.63, 0.93) 0.006           | 230 (57.5%) 14.9 (13.4, 17.1) ---                |
 | p-value 6-month OS (%)                                                                                   | 0.0983 84                                           | 85                                                              | 81                                               |
-| Best                                                                                                     | n = 401                                             | 68 n = 397                                                      |                                                  |
-| 12-month OS (%)                                                                                          | 66                                                  |                                                                 | 61 n = 393                                       |
-| Investigator-assessed Overall Response 3 * (RECIST 1.1) No. of responders (%)                            | 163 (40.6%) (35.8, 45.6)                            | 224 (56.4%)                                                     | 158 (40.2%)                                      |
+|                                                                                                          | n = 401                                             | 68 n = 397                                                      |                                                  |
+|                                                                                                          |                                                     |                                                                 | 61                                               |
+| 12-month OS (%)                                                                                          | 66                                                  |                                                                 | n = 393                                          |
+| Investigator-assessed Overall Best Response 3 * (RECIST 1.1) No. of responders (%)                       | 163 (40.6%) (35.8, 45.6)                            | 224 (56.4%)                                                     | 158 (40.2%)                                      |
 | 95% CI No. of complete response (%)                                                                      | 8 (2.0%)                                            | (51.4, 61.4) 11 (2.8%)                                          | (35.3, 45.2) 3 (0.8%)                            |
 | No. of partial response (%)                                                                              | 155 (38.7%)                                         |                                                                 | 155 (39.4%)                                      |
 |                                                                                                          |                                                     | 213 (53.7%)                                                     |                                                  |
@@ -1304,7 +1311,9 @@ CI = confidence interval; DOR = duration of response; NE = not estimable; ORR = 
 
 * The primary analysis population consists of the first 850 randomised patients
 
-ǂ Stratified by PD-L1 expression in tumour infiltrating immune cells, the number of prior chemotherapy regimens, and histology
+ǂ Stratified by PD-L1 expression in tumour infiltrating immune cells, the number of prior
+
+chemotherapy regimens, and histology
 
 ** Based on the stratified log-rank test
 
@@ -1322,11 +1331,9 @@ Figure 16: Forest plot of overall survival by PD-L1 expression in the primary an
 
 <!-- image -->
 
-An improvement in OS was observed with atezolizumab compared to docetaxel in both non-squamous NSCLC patients (hazard ratio [HR] of 0.73, 95% CI: 0.60, 0.89; median OS of 15.6 vs. 11.2 months for atezolizumab and docetaxel, respectively) and squamous NSCLC patients (HR of 0.73, 95% CI: 0.54, 0.98; median OS of 8.9 vs. 7.7 months for atezolizumab and docetaxel, respectively). The observed OS improvement was consistently demonstrated across subgroups of patients including those with brain metastases at baseline (HR of 0.54, 95% CI: 0.31, 0.94; median OS of 20.1 vs. 11.9 months for atezolizumab and docetaxel respectively) and patients who were never smokers (HR of 0.71, 95% CI: 0.47, 1.08; median OS of 16.3 vs. 12.6 months for atezolizumab and docetaxel, respectively). However, patients with EGFR mutations did not show improved OS with atezolizumab
+An improvement in OS was observed with atezolizumab compared to docetaxel in both non-squamous NSCLC patients (hazard ratio [HR] of 0.73, 95% CI: 0.60, 0.89; median OS of 15.6 vs. 11.2 months for atezolizumab and docetaxel, respectively) and squamous NSCLC patients (HR of 0.73, 95% CI: 0.54, 0.98; median OS of 8.9 vs. 7.7 months for atezolizumab and docetaxel, respectively). The observed OS improvement was consistently demonstrated across subgroups of patients including those with brain metastases at baseline (HR of 0.54, 95% CI: 0.31, 0.94; median OS of 20.1 vs. 11.9 months for atezolizumab and docetaxel respectively) and patients who were never smokers (HR of 0.71, 95% CI: 0.47, 1.08; median OS of 16.3 vs. 12.6 months for atezolizumab and docetaxel, respectively). However, patients with EGFR mutations did not show improved OS with atezolizumab compared to docetaxel (HR of 1.24, 95% CI: 0.71, 2.18; median OS of 10.5 vs. 16.2 months for atezolizumab and docetaxel, respectively).
 
 <div style=\"page-break-after: always\"></div>
-
-compared to docetaxel (HR of 1.24, 95% CI: 0.71, 2.18; median OS of 10.5 vs. 16.2 months for atezolizumab and docetaxel, respectively).
 
 Prolonged time to deterioration of patient-reported pain in chest as measured by the EORTC QLQ-LC13 was observed with atezolizumab compared to docetaxel (HR of 0.71, 95% CI: 0.49, 1.05; median not reached in either arm). The time to deterioration in other lung cancer symptoms (i.e. cough, dyspnoea, and arm/shoulder pain) as measured by the EORTC QLQ-LC13 was similar between atezolizumab and docetaxel. These results should be interpreted with caution due to the open-label design of the study.
 
@@ -1491,7 +1498,7 @@ Table 20: Summary of efficacy in patients with PD-L1 expression ≥ 1% (IMpassio
 
 PFS=progression-free survival; RECIST=Response Evaluation Criteria in Solid Tumours v1.1.;
 
-CI=confidence interval; ORR=objective response rate; DOR=duration of response; OS=overall survival, NE=not estimable
+CI=confidence interval; ORR=objective response rate; DOR=duration of response; OS=overall survival, NE=not estimable The time to deterioration (a sustained  10-point decline from baseline score) of patient-reported global health status/health-related quality of life as measured by the EORTC QLQ-C30 was similar in each treatment group indicating that all patients maintained their baseline HRQoL for a comparable duration of time.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1502,8 +1509,6 @@ Figure 19: Kaplan-Meier curve for progression free survival in patients with PD-
 Figure 20: Kaplan-Meier curve for overall survival in patients with PD-L1 expression ≥ 1% (IMpassion130)
 
 <!-- image -->
-
-The time to deterioration (a sustained  10-point decline from baseline score) of patient-reported global health status/health-related quality of life as measured by the EORTC QLQ-C30 was similar in each treatment group indicating that all patients maintained their baseline HRQoL for a comparable duration of time.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1521,11 +1526,9 @@ The demographic and baseline disease characteristics of the study population wer
 
 The co-primary efficacy endpoints were OS and IRF-assessed PFS according to RECIST v1.1. At the time of the primary analysis, patients had a median survival follow up time of 8.6 months. The data demonstrated a statistically significant improvement in OS and PFS as assessed by IRF per RECIST v1.1 with atezolizumab + bevacizumab compared to sorafenib. A statistically significant improvement was also observed in confirmed objective response rate (ORR) by IRF per RECIST v1.1 and HCC modified RECIST (mRECIST). The key efficacy results from the primary analysis are summarized in Table 21.
 
-A descriptive updated efficacy analysis was performed with a median survival follow up time of 15.6 months. The median OS was 19.2 months (95% CI: 17.0, 23.7) in the atezolizumab + bevacizumab
+A descriptive updated efficacy analysis was performed with a median survival follow up time of 15.6 months. The median OS was 19.2 months (95% CI: 17.0, 23.7) in the atezolizumab + bevacizumab arm versus 13.4 months (95% CI: 11.4, 16.9) in the sorafenib arm with a HR of 0.66 (95% CI: 0.52, 0.85). The median PFS by IRF-assessment per RECIST v1.1 was 6.9 months (95% CI: 5.8, 8.6) in the atezolizumab + bevacizumab arm versus 4.3 months (95% CI: 4.0, 5.6) in the sorafenib arm with a HR of 0.65 (95% CI: 0.53, 0.81).
 
 <div style=\"page-break-after: always\"></div>
-
-arm versus 13.4 months (95% CI: 11.4, 16.9) in the sorafenib arm with a HR of 0.66 (95% CI: 0.52, 0.85). The median PFS by IRF-assessment per RECIST v1.1 was 6.9 months (95% CI: 5.8, 8.6) in the atezolizumab + bevacizumab arm versus 4.3 months (95% CI: 4.0, 5.6) in the sorafenib arm with a HR of 0.65 (95% CI: 0.53, 0.81).
 
 The IRF-assessed ORR per RECIST v1.1 was 29.8% (95% CI: 24.8, 35.0) in the atezolizumab + bevacizumab arm and 11.3% (95% CI: 6.9, 17.3) in the sorafenib arm. The median duration of response (DOR) by IRF-assessment per RECIST v1.1 in confirmed responders was 18.1 months (95% CI: 14.6, NE) in the atezolizumab + bevacizumab arm compared to 14.9 months (95% CI: 4.9, 17.0) in the sorafenib arm.
 
@@ -1765,7 +1768,7 @@ Date of latest renewal: 25 April 2022
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu .
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2063,15 +2066,13 @@ Treatment with insulin should be initiated for type 1 diabetes mellitus. For ≥
 
 Meningoencephalitis has been observed in clinical trials with atezolizumab (see section 4.8). Patients should be monitored for clinical signs and symptoms of meningitis or encephalitis.
 
-Treatment with atezolizumab must be permanently discontinued for any grade of meningitis or encephalitis. Treatment with intravenous corticosteroids (1 to 2 mg/kg bw/day methylprednisolone or
+Treatment with atezolizumab must be permanently discontinued for any grade of meningitis or encephalitis. Treatment with intravenous corticosteroids (1 to 2 mg/kg bw/day methylprednisolone or equivalent) should be started. Once symptoms improve, treatment with 1 to 2 mg/kg bw/day of prednisone or equivalent should follow.
 
 <div style=\"page-break-after: always\"></div>
 
-equivalent) should be started. Once symptoms improve, treatment with 1 to 2 mg/kg bw/day of prednisone or equivalent should follow.
-
 ## Immune-mediated neuropathies
 
-Myasthenic syndrome/myasthenia gravis or Guillain-Barré syndrome, which may be life threatening, and facial paresis were observed in patients receiving atezolizumab. Patients should be monitored for symptoms of motor and sensory neuropathy.
+Myasthenic syndrome/myasthenia gravis or Guillain-Barré syndrome, which may be life threatening, and facial paresis were observed in patients receiving atezolizumab. Patients should be monitored for symptoms of motor and sensory neuropathy (also see 'Immune-mediated myocarditis-myositismyasthenia gravis overlap syndrome' in this section).
 
 Myelitis has been observed in clinical trials with atezolizumab (see section 4.8). Patients should be closely monitored for signs and symptoms that are suggestive of myelitis.
 
@@ -2089,7 +2090,7 @@ Treatment with atezolizumab should be withheld for ≥ Grade 3 serum amylase or 
 
 ## Immune-mediated myocarditis
 
-Cases of myocarditis, including fatal cases, have been observed with atezolizumab (see section 4.8). Patients should be monitored for signs and symptoms of myocarditis. Myocarditis may also be a clinical manifestation of myositis and should be managed accordingly.
+Cases of myocarditis, including fatal cases, have been observed with atezolizumab (see section 4.8). Patients should be monitored for signs and symptoms of myocarditis (also see 'Immune-mediated myocarditis-myositis-myasthenia gravis overlap syndrome' in this section).
 
 Patients with cardiac or cardiopulmonary symptoms should be assessed for potential myocarditis, to ensure the initiation of appropriate measures at an early stage. If myocarditis is suspected, treatment with atezolizumab should be withheld, prompt initiation of systemic corticosteroids at a dose of 1 to 2 mg/kg bw/day of prednisone or equivalent should be started, and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated. Once a diagnosis of myocarditis is established, treatment with atezolizumab must be permanently discontinued for Grade ≥ 2 myocarditis (see section 4.2).
 
@@ -2103,7 +2104,7 @@ Treatment with atezolizumab should be withheld for Grade 2 nephritis, and treatm
 
 ## Immune-mediated myositis
 
-Cases of myositis, including fatal cases, have been observed with atezolizumab (see section 4.8). Patients should be monitored for signs and symptoms of myositis. Patients with possible myositis should be monitored for signs of myocarditis.
+Cases of myositis, including fatal cases, have been observed with atezolizumab (see section 4.8). Patients should be monitored for signs and symptoms of myositis (also see 'Immune-mediated myocarditis-myositis-myasthenia gravis overlap syndrome' in this section).
 
 If a patient develops signs and symptoms of myositis, close monitoring should be implemented, and the patient referred to a specialist for assessment and treatment without delay. Treatment with atezolizumab should be withheld for Grade 2 or 3 myositis and corticosteroid therapy (1 to 2 mg/kg bw/day prednisone or equivalent) should be initiated. If symptoms improve to ≤ Grade 1, taper corticosteroids as clinically indicated. Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg oral prednisone or equivalent per day. Treatment with atezolizumab should be permanently discontinued for Grade 4 or Grade 3 recurrent myositis, or when unable to reduce the corticosteroid dose to the equivalent of ≤ 10 mg prednisone per day within 12 weeks after onset.
 
@@ -2121,15 +2122,19 @@ Caution should be used when considering the use of atezolizumab in a patient who
 
 Pericardial disorders, including pericarditis, pericardial effusion and cardiac tamponade, some leading to fatal outcomes, have been observed with atezolizumab (see section 4.8). Patients should be monitored for clinical signs and symptoms of pericardial disorders.
 
-For suspected Grade 1 pericarditis, treatment with atezolizumab should be withheld and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be
+For suspected Grade 1 pericarditis, treatment with atezolizumab should be withheld and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated. For suspected Grade ≥ 2 pericardial disorders, treatment with atezolizumab should be withheld, prompt treatment with systemic corticosteroids at a dose of 1 to 2 mg/kg bw/day of prednisone or equivalent should be started and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated. Once a diagnosis of a pericardial disorder event is established, treatment with atezolizumab must be permanently discontinued for Grade ≥ 2 pericardial disorders (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-initiated. For suspected Grade ≥ 2 pericardial disorders, treatment with atezolizumab should be withheld, prompt treatment with systemic corticosteroids at a dose of 1 to 2 mg/kg bw/day of prednisone or equivalent should be started and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated. Once a diagnosis of a pericardial disorder event is established, treatment with atezolizumab must be permanently discontinued for Grade ≥ 2 pericardial disorders (see section 4.2).
 
 ## Haemophagocytic lymphohistiocytosis
 
 Haemophagocytic lymphohistiocytosis (HLH), including fatal cases, has been reported in patients receiving atezolizumab (see section 4.8). HLH should be considered when the presentation of cytokine release syndrome is atypical or prolonged. Patients should be monitored for clinical signs and symptoms of HLH. For suspected HLH, atezolizumab must be permanently discontinued and patients should be referred to a specialist for further diagnosis and management.
+
+## Immune-mediated myocarditis-myositis-myasthenia gravis overlap syndrome
+
+Cases of myocarditis-myositis-myasthenia gravis overlap syndrome (presenting as an overlap of either two or all three conditions), some with fatal outcome, have been observed in the post-marketing setting and clinical trials with atezolizumab. Early recognition and aggressive management are essential to address associated morbidity and risk of mortality.
+
+It is important to recognise overlapping symptoms, which can complicate diagnosis and management and could have a higher risk of mortality. Patients presenting with signs or symptoms of one condition should also be monitored for the other two conditions and should be managed as clinically indicated. Refer to section 4.2, Table 2 for recommended dose modification guidance for the individual conditions (myocarditis, myositis, myasthenia gravis) and adhere to the most stringent recommendations.
 
 ## Other immune-mediated adverse reactions
 
@@ -2147,17 +2152,15 @@ Infusion-related reactions have been observed with atezolizumab, including anaph
 
 Physicians should carefully consider the combined risks of the four-drug regimen of atezolizumab bevacizumab, paclitaxel, and carboplatin before initiating treatment (see section 4.8).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Use of atezolizumab in combination with nab-paclitaxel in metastatic TNBC
 
 Neutropenia and peripheral neuropathies occurring during treatment with atezolizumab and nabpaclitaxel may be reversible with interruptions of nab-paclitaxel. Physicians should consult the nabpaclitaxel summary of product characteristics (SmPC) for specific precautions and contraindications of this medicine.
 
 ## Use of atezolizumab in UC for previously untreated patients who are considered cisplatin ineligible
 
-The baseline and prognostic disease characteristics of the IMvigor210 Cohort 1 study population were overall comparable to patients in the clinic who would be considered cisplatin ineligible but would be eligible for a carboplatin-based combination chemotherapy. There are insufficient data for the subgroup of patients that would be unfit for any chemotherapy; therefore, atezolizumab should be used
-
-<div style=\"page-break-after: always\"></div>
-
-with caution in these patients, after careful consideration of the potential balance of risks and benefits on an individual basis.
+The baseline and prognostic disease characteristics of the IMvigor210 Cohort 1 study population were overall comparable to patients in the clinic who would be considered cisplatin ineligible but would be eligible for a carboplatin-based combination chemotherapy. There are insufficient data for the subgroup of patients that would be unfit for any chemotherapy; therefore, atezolizumab should be used with caution in these patients, after careful consideration of the potential balance of risks and benefits on an individual basis.
 
 ## Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin
 
@@ -2177,17 +2180,15 @@ Patients treated with bevacizumab have an increased risk of haemorrhage, and cas
 
 Diabetes mellitus can occur during treatment with atezolizumab in combination with bevacizumab. Physicians should monitor blood glucose levels prior to and periodically during treatment with atezolizumab in combination with bevacizumab as clinically indicated.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Use of atezolizumab as monotherapy for first-line treatment in metastatic NSCLC
 
 Physicians should consider the delayed onset of atezolizumab effect before initiating first-line treatment as monotherapy in patients with NSCLC. A higher number of deaths within 2.5 months after randomisation followed by a long-term survival benefit was observed with atezolizumab compared with chemotherapy. No specific factor(s) associated with early deaths could be identified (see section 5.1).
 
 ## Patients excluded from clinical trials
 
-Patients with the following conditions were excluded from clinical trials: a history of autoimmune disease, history of pneumonitis, active brain metastasis, ECOG PS ≥ 2 (except for patients with advanced NSCLC ineligible for a platinum-based therapy), HIV, hepatitis B or hepatitis C infection (for non-HCC patients), significant cardiovascular disease and patients with inadequate hematologic and end-organ function. Patients who were administered a live, attenuated vaccine within 28 days prior to enrolment; systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal products within 2 weeks prior to study entry; therapeutic oral or
-
-<div style=\"page-break-after: always\"></div>
-
-intravenous antibiotics within 2 weeks prior to initiation of study treatment were excluded from clinical trials.
+Patients with the following conditions were excluded from clinical trials: a history of autoimmune disease, history of pneumonitis, active brain metastasis, ECOG PS ≥ 2 (except for patients with advanced NSCLC ineligible for a platinum-based therapy), HIV, hepatitis B or hepatitis C infection (for non-HCC patients), significant cardiovascular disease and patients with inadequate hematologic and end-organ function. Patients who were administered a live, attenuated vaccine within 28 days prior to enrolment; systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal products within 2 weeks prior to study entry; therapeutic oral or intravenous antibiotics within 2 weeks prior to initiation of study treatment were excluded from clinical trials.
 
 ## Excipients with known effect
 
@@ -2209,6 +2210,8 @@ The use of systemic corticosteroids or immunosuppressants before starting atezol
 
 Women of childbearing potential have to use effective contraception during and for 5 months after treatment with atezolizumab.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pregnancy
 
 There are no data from the use of atezolizumab in pregnant women. No developmental and reproductive studies were conducted with atezolizumab. Animal studies have demonstrated that inhibition of the PD-L1/PD-1 pathway in murine pregnancy models can lead to immune-mediated rejection of the developing foetus resulting in foetal death (see section 5.3). These results indicate a potential risk, based on its mechanism of action, that administration of atezolizumab during pregnancy could cause foetal harm, including increased rates of abortion or stillbirth.
@@ -2220,8 +2223,6 @@ Atezolizumab should not be used during pregnancy unless the clinical condition o
 ## Breast-feeding
 
 It is unknown whether atezolizumab is excreted in human milk. Atezolizumab is a monoclonal antibody and is expected to be present in the first milk and at low levels afterwards. A risk to the newborns/infants cannot be excluded. A decision must be made whether to discontinue breast-feeding or to discontinue Tecentriq therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -2241,6 +2242,8 @@ The safety of intravenous atezolizumab given in combination with other medicinal
 
 The safety profile of Tecentriq solution for injection was overall similar to the known safety profile of the intravenous formulation, with an additional adverse reaction of injection site reaction (4.5% in the subcutaneous Tecentriq arm vs 0% in the intravenous atezolizumab arm).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Use of atezolizumab in the adjuvant NSCLC setting
 
 The safety profile of atezolizumab in the adjuvant setting in the non-small cell lung cancer (NSCLC) patient population (IMpower010) was generally consistent with the overall pooled monotherapy safety profile in the advanced setting. Nevertheless, the incidence of immune-mediated adverse reactions of atezolizumab in IMpower010 was 51.7% compared to 38.4% in the pooled monotherapy population with advanced disease. No new immune-mediated adverse reactions were identified in the adjuvant setting.
@@ -2248,8 +2251,6 @@ The safety profile of atezolizumab in the adjuvant setting in the non-small cell
 ## Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin
 
 In the first-line NSCLC study (IMpower150), an overall higher frequency of adverse events was observed in the four-drug regimen of atezolizumab, bevacizumab, paclitaxel, and carboplatin compared to atezolizumab, paclitaxel and carboplatin, including Grade 3 and 4 events (63.6% compared to 57.5%), Grade 5 events (6.1% compared to 2.5%), adverse events of special interest to atezolizumab (52.4% compared to 48.0%), as well as adverse events leading to withdrawal of any study treatment (33.8% compared to 13.3%). Nausea, diarrhoea, stomatitis, fatigue, pyrexia, mucosal inflammation, decreased appetite, weight decreased, hypertension and proteinuria were reported higher (  5% difference) in patients receiving atezolizumab in combination with bevacizumab, paclitaxel and carboplatin. Other clinically significant adverse events which were observed more frequently in the atezolizumab, bevacizumab, paclitaxel, and carboplatin arm were epistaxis, haemoptysis, cerebrovascular accident, including fatal events.
-
-<div style=\"page-break-after: always\"></div>
 
 Further details on serious adverse reactions are provided in section 4.4.
 
@@ -2261,37 +2262,37 @@ The adverse reactions (ARs) are listed by MedDRA system organ class (SOC) and ca
 
 Table 3: Summary of adverse reactions occurring in patients treated with atezolizumab
 
-| Atezolizumab monotherapy             | Atezolizumab monotherapy                                              | Atezolizumab in combination therapy                                   |
-|--------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
-| Infections and infestations          | Infections and infestations                                           | Infections and infestations                                           |
-| Very common                          | urinary tract infection a                                             | lung infection b                                                      |
-| Common                               |                                                                       | sepsis aj                                                             |
-| Rare                                 | cytomegalovirus infection                                             | cytomegalovirus infection                                             |
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                  | Blood and lymphatic system disorders                                  |
-| Very common                          |                                                                       | anaemia, thrombocytopenia d , neutropenia e , leukopenia f            |
-| Common                               | thrombocytopenia d , neutropenia e                                    | lymphopenia g                                                         |
-| Rare                                 | haemophagocytic lymphohistiocytosis, autoimmune haemolytic anaemia aw | haemophagocytic lymphohistiocytosis, autoimmune haemolytic anaemia aw |
-| Immune system disorders              | Immune system disorders                                               |                                                                       |
-| Common                               | infusion-related reaction h                                           | infusion-related reaction h                                           |
-| Rare                                 | sarcoidosis as                                                        |                                                                       |
-| Endocrine disorders                  | Endocrine disorders                                                   |                                                                       |
-| Very common                          |                                                                       | hypothyroidism i                                                      |
-| Common                               | hypothyroidism i , hyperthyroidism j                                  | hyperthyroidism j                                                     |
-| Uncommon                             | diabetes mellitus k , adrenal insufficiency l , hypophysitis m        | hypophysitis m                                                        |
-| Metabolism and nutrition disorders   | Metabolism and nutrition disorders                                    |                                                                       |
-| Very common                          | decreased appetite                                                    | decreased appetite                                                    |
-| Common                               | hypokalaemia ae , hyponatraemia af , hyperglycaemia                   | hypokalaemia ae , hyponatraemia af , hypomagnesaemia n                |
-| Nervous system disorders             | Nervous system disorders                                              |                                                                       |
-| Very common                          | headache                                                              | peripheral neuropathy o , headache                                    |
-| Common                               | peripheral neuropathy o                                               | syncope, dizziness                                                    |
-| Uncommon                             | Guillain-Barré syndrome p , meningoencephalitis q                     |                                                                       |
-| Rare                                 | myasthenic syndrome r , facial paresis, myelitis                      | facial paresis                                                        |
-| Eye disorders                        | Eye disorders                                                         |                                                                       |
-| Uncommon                             | uveitis at                                                            |                                                                       |
-| Rare                                 |                                                                       | uveitis at                                                            |
-| Cardiac disorders                    | Cardiac disorders                                                     | Cardiac disorders                                                     |
-| Common                               | pericardial disorders ao                                              |                                                                       |
-| Uncommon                             |                                                                       | pericardial disorders ao                                              |
+| Atezolizumab monotherapy             | Atezolizumab monotherapy                                                                                | Atezolizumab in combination therapy                                                                         |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Infections and infestations          | Infections and infestations                                                                             |                                                                                                             |
+| Very common                          | urinary tract infection a                                                                               | lung infection b                                                                                            |
+| Common                               |                                                                                                         | sepsis aj                                                                                                   |
+| Rare                                 | cytomegalovirus infection                                                                               | cytomegalovirus infection                                                                                   |
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                                    |                                                                                                             |
+| Very common                          |                                                                                                         | anaemia, thrombocytopenia d , neutropenia e , leukopenia f                                                  |
+| Common                               | thrombocytopenia d , neutropenia e                                                                      | lymphopenia g                                                                                               |
+| Rare                                 | haemophagocytic lymphohistiocytosis, autoimmune haemolytic anaemia aw                                   | haemophagocytic lymphohistiocytosis, autoimmune haemolytic anaemia aw                                       |
+| Immune system disorders              | Immune system disorders                                                                                 |                                                                                                             |
+| Common                               | infusion-related reaction h                                                                             | infusion-related reaction h                                                                                 |
+| Rare                                 | sarcoidosis as                                                                                          |                                                                                                             |
+| Endocrine disorders                  | Endocrine disorders                                                                                     |                                                                                                             |
+| Very common                          |                                                                                                         | hypothyroidism i                                                                                            |
+| Common                               | hypothyroidism i , hyperthyroidism j                                                                    | hyperthyroidism j                                                                                           |
+| Uncommon                             | diabetes mellitus k , adrenal insufficiency l , hypophysitis m                                          | hypophysitis m                                                                                              |
+| Metabolism and nutrition disorders   | Metabolism and nutrition disorders                                                                      |                                                                                                             |
+| Very common                          | decreased appetite                                                                                      | decreased appetite                                                                                          |
+| Common                               | hypokalaemia ae , hyponatraemia af , hyperglycaemia, hypoalbuminaemia, hypophosphataemia, hypocalcaemia | hypokalaemia ae , hyponatraemia af , hypomagnesaemia n , hypoalbuminaemia, hypophosphataemia, hypocalcaemia |
+| Nervous system disorders             | Nervous system disorders                                                                                |                                                                                                             |
+| Very common                          | headache                                                                                                | peripheral neuropathy o , headache                                                                          |
+| Common                               | peripheral neuropathy o                                                                                 | syncope, dizziness                                                                                          |
+| Uncommon                             | Guillain-Barré syndrome p , meningoencephalitis q                                                       |                                                                                                             |
+| Rare                                 | myasthenic syndrome r , facial paresis, myelitis                                                        | facial paresis                                                                                              |
+| Eye disorders                        | Eye disorders                                                                                           |                                                                                                             |
+| Uncommon                             | uveitis at                                                                                              |                                                                                                             |
+| Rare                                 |                                                                                                         | uveitis at                                                                                                  |
+| Cardiac disorders                    | Cardiac disorders                                                                                       |                                                                                                             |
+| Common                               | pericardial disorders ao                                                                                |                                                                                                             |
+| Uncommon                             |                                                                                                         | pericardial disorders ao                                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2304,12 +2305,12 @@ Table 3: Summary of adverse reactions occurring in patients treated with atezoli
 | Respiratory, thoracic, and mediastinal disorders     | Respiratory, thoracic, and mediastinal disorders                           | Respiratory, thoracic, and mediastinal disorders     |
 | Very common                                          | dyspnoea, cough                                                            | dyspnoea, cough, nasopharyngitis am                  |
 | Common                                               | pneumonitis t , hypoxia ag , nasopharyngitis am                            | dysphonia                                            |
-| Gastrointestinal disorders                           | Gastrointestinal disorders                                                 |                                                      |
+| Gastrointestinal disorders                           | Gastrointestinal disorders                                                 | Gastrointestinal disorders                           |
 | Very common                                          | nausea, vomiting, diarrhoea u                                              | nausea, vomiting, diarrhoea u , constipation         |
 | Common                                               | colitis v , abdominal pain, dysphagia, oropharyngeal pain w , dry mouth    | stomatitis, dysgeusia, colitis v                     |
 | Uncommon                                             | pancreatitis x                                                             |                                                      |
 | Rare                                                 | coeliac disease                                                            | coeliac disease                                      |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                    |                                                      |
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                    | Hepatobiliary disorders                              |
 | Common                                               | AST increased, ALT increased, hepatitis y                                  | AST increased, ALT increased                         |
 | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                     | Skin and subcutaneous tissue disorders               |
 | Very common                                          | rash z , pruritus                                                          | rash z , pruritus, alopecia ah                       |
@@ -2327,14 +2328,14 @@ Table 3: Summary of adverse reactions occurring in patients treated with atezoli
 | General disorders and administration site conditions | General disorders and administration site conditions                       | General disorders and administration site conditions |
 | Very common                                          | pyrexia, fatigue, asthenia                                                 | pyrexia, fatigue, asthenia, oedema peripheral        |
 | Common                                               | influenza like illness, chills, injection site reaction ap                 |                                                      |
-| Investigations                                       |                                                                            |                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
-| Atezolizumab monotherapy   | Atezolizumab monotherapy               | Atezolizumab in combination therapy   |
-|----------------------------|----------------------------------------|---------------------------------------|
-| Common                     |                                        | blood alkaline phosphatase increased  |
-| Uncommon                   | blood creatine phosphokinase increased |                                       |
+| Atezolizumab monotherapy   | Atezolizumab monotherapy               | Atezolizumab in combination therapy                                        |
+|----------------------------|----------------------------------------|----------------------------------------------------------------------------|
+| Investigations             | Investigations                         |                                                                            |
+| Common                     | gamma-glutamyl transferase increased   | blood alkaline phosphatase increased, gamma-glutamyl transferase increased |
+| Uncommon                   | blood creatine phosphokinase increased |                                                                            |
 
 - a Includes reports of urinary tract infection, cystitis, pyelonephritis, escherichia urinary tract infection, urinary tract infection bacterial, kidney infection, pyelonephritis acute, pyelonephritis chronic, pyelitis, renal abscess, streptococcal urinary tract infection, urethritis, urinary tract infection fungal, urinary tract infection pseudomonal.
 - b Includes reports of pneumonia, bronchitis, lower respiratory tract infection, infectious pleural effusion, tracheobronchitis, atypical pneumonia, lung abscess, infective exacerbation of chronic obstructive airways disease, paracancerous pneumonia, pyopneumothorax, pleural infection, post procedural pneumonia.
@@ -2357,11 +2358,14 @@ Table 3: Summary of adverse reactions occurring in patients treated with atezoli
 - s  Includes reports of myocarditis, autoimmune myocarditis, and immune-mediated myocarditis.
 - t Includes reports of pneumonitis, lung infiltration, bronchiolitis, immune-mediated lung disease, immune-mediated pneumonitis, interstitial lung disease, alveolitis, lung opacity, pulmonary fibrosis, pulmonary toxicity, radiation pneumonitis.
 - u Includes reports of diarrhoea, defaecation urgency, frequent bowel movements, gastrointestinal hypermotility.
-- v Includes reports of colitis, autoimmune colitis, colitis ischaemic, colitis microscopic, colitis ulcerative, diversion colitis, eosinophilic colitis, immune-mediated enterocolitis.
-- w Includes reports of oropharyngeal pain, oropharyngeal discomfort, throat irritation.
-- x Includes reports of autoimmune pancreatitis, pancreatitis, pancreatitis acute, lipase increased, amylase increased.
 
 <div style=\"page-break-after: always\"></div>
+
+v Includes reports of colitis, autoimmune colitis, colitis ischaemic, colitis microscopic, colitis ulcerative, diversion colitis, eosinophilic colitis, immune-mediated enterocolitis.
+
+w Includes reports of oropharyngeal pain, oropharyngeal discomfort, throat irritation.
+
+x Includes reports of autoimmune pancreatitis, pancreatitis, pancreatitis acute, lipase increased, amylase increased.
 
 y Includes reports of ascites, autoimmune hepatitis, hepatic cytolysis, hepatitis, hepatitis acute, hepatitis toxic, hepatotoxicity, immune-mediated hepatitis, liver disorder, drug-induced liver injury, hepatic failure, hepatic steatosis, hepatic lesion, liver injury, oesophageal varices haemorrhage, varices oesophageal, spontaneous bacterial peritonitis.
 
@@ -2377,29 +2381,13 @@ ad Includes reports of nephritis, autoimmune nephritis, Henoch-Schonlein purpura
 
 ae Includes reports of hypokalaemia, blood potassium decreased.
 
-af Includes reports of hyponatraemia, blood sodium decreased.
+af
 
-ag Includes reports of hypoxia, oxygen saturation decreased, pO2 decreased.
+Includes reports of hyponatraemia, blood sodium decreased. ag Includes reports of hypoxia, oxygen saturation decreased, pO2 decreased. ah Includes reports of alopecia, madarosis, alopecia areata, alopecia totalis, hypotrichosis. ai Includes reports of hypertension, blood pressure increased, hypertensive crisis, blood pressure systolic increased, diastolic hypertension, blood pressure inadequately controlled, retinopathy hypertensive, hypertensive nephropathy, essential hypertension, orthostatic hypertension. aj Includes reports of sepsis, septic shock, urosepsis, neutropenic sepsis, pulmonary sepsis, bacterial sepsis, klebsiella sepsis, abdominal sepsis, candida sepsis, escherichia sepsis, pseudomonal sepsis, staphylococcal sepsis. ak Includes reports of dermatitis bullous, exfoliative rash, erythema multiforme, dermatitis exfoliative, dermatitis exfoliative generalised, toxic skin eruption, Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms, toxic epidermal necrolysis, cutaneous vasculitis. al Includes reports of cystitis noninfective and immune-mediated cystitis. am Includes reports of nasopharyngitis, nasal congestion and rhinorrhoea. an Includes reports of psoriasis, dermatitis psoriasiform.
 
-ah Includes reports of alopecia, madarosis, alopecia areata, alopecia totalis, hypotrichosis.
+ao Includes reports of pericarditis, pericardial effusion, cardiac tamponade and pericarditis constrictive
 
-ai Includes reports of hypertension, blood pressure increased, hypertensive crisis, blood pressure systolic increased, diastolic hypertension, blood pressure inadequately controlled, retinopathy hypertensive, hypertensive nephropathy, essential hypertension, orthostatic hypertension.
-
-aj Includes reports of sepsis, septic shock, urosepsis, neutropenic sepsis, pulmonary sepsis, bacterial sepsis, klebsiella sepsis, abdominal sepsis, candida sepsis, escherichia sepsis, pseudomonal sepsis, staphylococcal sepsis.
-
-ak Includes reports of dermatitis bullous, exfoliative rash, erythema multiforme, dermatitis exfoliative, dermatitis exfoliative generalised, toxic skin eruption, Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms, toxic epidermal necrolysis, cutaneous vasculitis.
-
-al Includes reports of cystitis noninfective and immune-mediated cystitis.
-
-am Includes reports of nasopharyngitis, nasal congestion and rhinorrhoea.
-
-an Includes reports of psoriasis, dermatitis psoriasiform.
-
-ao Includes reports of pericarditis, pericardial effusion, cardiac tamponade and pericarditis constrictive ap
-
-Reported in a study outside the pooled dataset (subcutaneous administration related). The frequency is based on exposure to Tecentriq solution for injection in IMscin001 and IMscin002 and includes
-
-reports of injection site reaction, injection site pain, injection site erythema, and injection site rash.
+ap Reported in a study outside the pooled dataset (subcutaneous administration related). The frequency is based on exposure to Tecentriq solution for injection in IMscin001 and IMscin002 and includes reports of injection site reaction, injection site pain, injection site erythema, and injection site rash.
 
 aq Includes reports of dry skin, xerosis.
 
@@ -2511,11 +2499,9 @@ Severe cutaneous adverse reactions (SCARs) occurred in 0.6% (30/5 039) of patien
 
 ## Immune-mediated pericardial disorders
 
-Pericardial disorders occurred in 1% (49/5 039) of patients who received atezolizumab monotherapy. The median time to onset was 1.4 months (range: 6 days to 17.5 months). The median duration was 2.5 months (range: 0 to 51.5+ months; + denotes a censored value). Pericardial disorders led to
+Pericardial disorders occurred in 1% (49/5 039) of patients who received atezolizumab monotherapy. The median time to onset was 1.4 months (range: 6 days to 17.5 months). The median duration was 2.5 months (range: 0 to 51.5+ months; + denotes a censored value). Pericardial disorders led to discontinuation of Tecentriq in 3 (&lt; 0.1%) patients. Pericardial disorders requiring the use of corticosteroids occurred in 0.2% (7/5 039) of patients.
 
 <div style=\"page-break-after: always\"></div>
-
-discontinuation of Tecentriq in 3 (&lt; 0.1%) patients. Pericardial disorders requiring the use of corticosteroids occurred in 0.2% (7/5 039) of patients.
 
 ## Immune checkpoint inhibitor class effects
 
@@ -2577,11 +2563,9 @@ Atezolizumab is an Fc-engineered, humanised immunoglobulin G1 (IgG1) monoclonal 
 
 IMvigor211 (GO29294): Randomised trial in locally advanced or metastatic UC patients previously treated with chemotherapy
 
-A phase III, open-label, multi-centre, international, randomised study, (IMvigor211), was conducted to evaluate the efficacy and safety of atezolizumab compared with chemotherapy (investigator's choice of vinflunine, docetaxel, or paclitaxel) in patients with locally advanced or metastatic UC who progressed during or following a platinum-containing regimen. This study excluded patients who had a history of autoimmune disease; active or corticosteroid-dependent brain metastases; administration of a live, attenuated vaccine within 28 days prior to enrolment; and administration of systemic
+A phase III, open-label, multi-centre, international, randomised study, (IMvigor211), was conducted to evaluate the efficacy and safety of atezolizumab compared with chemotherapy (investigator's choice of vinflunine, docetaxel, or paclitaxel) in patients with locally advanced or metastatic UC who progressed during or following a platinum-containing regimen. This study excluded patients who had a history of autoimmune disease; active or corticosteroid-dependent brain metastases; administration of a live, attenuated vaccine within 28 days prior to enrolment; and administration of systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal product within 2 weeks prior to enrolment. Tumour assessments were conducted every 9 weeks for the first 54 weeks, and every 12 weeks thereafter. Tumour specimens were evaluated prospectively for PD-L1 expression on tumour-infiltrating immune cells (IC) and the results were used to define the PD-L1 expression subgroups for the analyses described below.
 
 <div style=\"page-break-after: always\"></div>
-
-immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal product within 2 weeks prior to enrolment. Tumour assessments were conducted every 9 weeks for the first 54 weeks, and every 12 weeks thereafter. Tumour specimens were evaluated prospectively for PD-L1 expression on tumour-infiltrating immune cells (IC) and the results were used to define the PD-L1 expression subgroups for the analyses described below.
 
 A total of 931 patients were enrolled. Patients were randomised (1:1) to receive either atezolizumab or chemotherapy. Randomisation was stratified by chemotherapy (vinflunine vs. taxane), PD-L1 expression status on IC (&lt; 5% vs. ≥ 5%), number of prognostic risk factors (0 vs. 1-3), and liver metastases (yes vs. no). Prognostic risk factors included time from prior chemotherapy of  3 months, ECOG performance status  0 and haemoglobin  10 g/dL.
 
@@ -2732,11 +2716,11 @@ A total of 1 280 enrolled patients had complete tumour resection and were eligib
 
 Table 6: Adjuvant chemotherapy regimens (IMpower010)
 
-| Adjuvant cisplatin-based chemotherapy: Cisplatin 75 mg/m 2 intravenous on 1 of each 21 day cycle with of the following treatment regimens   | Vinorelbine 30 mg/m 2 intravenous, Days 1 and 8        |
-|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| Adjuvant cisplatin-based chemotherapy: Cisplatin 75 mg/m 2 intravenous on 1 of each 21 day cycle with of the following treatment regimens   | Docetaxel 75 mg/m 2 intravenous, Day 1                 |
-| Day one                                                                                                                                     | Gemcitabine 1 250 mg/m 2 intravenous, Days 1 and 8     |
-| Day one                                                                                                                                     | Pemetrexed 500 mg/m 2 intravenous, Day 1(non-squamous) |
+| Adjuvant cisplatin-based chemotherapy: Cisplatin 75 mg/m 2 intravenous on Day 1 of each 21 day cycle with one of the following treatment regimens   | Vinorelbine 30 mg/m 2 intravenous, Days 1 and 8        |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Adjuvant cisplatin-based chemotherapy: Cisplatin 75 mg/m 2 intravenous on Day 1 of each 21 day cycle with one of the following treatment regimens   | Docetaxel 75 mg/m 2 intravenous, Day 1                 |
+| Adjuvant cisplatin-based chemotherapy: Cisplatin 75 mg/m 2 intravenous on Day 1 of each 21 day cycle with one of the following treatment regimens   | Gemcitabine 1 250 mg/m 2 intravenous, Days 1 and 8     |
+| Adjuvant cisplatin-based chemotherapy: Cisplatin 75 mg/m 2 intravenous on Day 1 of each 21 day cycle with one of the following treatment regimens   | Pemetrexed 500 mg/m 2 intravenous, Day 1(non-squamous) |
 
 After completion of cisplatin-based chemotherapy (up to four cycles), a total of 1 005 patients were randomised in a 1:1 ratio to receive atezolizumab (Arm A) or best supportive care (BSC) (Arm B). Atezolizumab was administered as a fixed dose of 1 200 mg by IV infusion every 3 weeks for 16 cycles unless there was disease recurrence or unacceptable toxicity. Randomisation was stratified by sex, stage of disease, histology, and PD-L1 expression.
 
@@ -3088,11 +3072,9 @@ Patients were excluded if they had a history of autoimmune disease; active or co
 
 The median age was 64 years (range: 27 to 85), and 69% of patients were male. The majority of patients were white (67%). Approximately two-third of patients (65%) had non-squamous disease, 5% had known EGFR mutation, 2% had known ALK rearrangements, 40% were PD-L1 positive (TC ≥ 1% and/or IC ≥ 1%), 16% had non-active CNS metastases at baseline, 26% had an ECOG PS of 0, 74% had an ECOG PS of 1, and most patients were current or previous smokers (70%). 80% received one prior therapeutic regimen.
 
-At the time of primary analysis, the median survival follow-up was 4.7 months and OS results were immature. There were 86 (35%) deaths in the subcutaneous Tecentriq arm and 37 (30%) deaths in the
+At the time of primary analysis, the median survival follow-up was 4.7 months and OS results were immature. There were 86 (35%) deaths in the subcutaneous Tecentriq arm and 37 (30%) deaths in the intravenous atezolizumab arm. A post hoc updated analysis was performed 9 months after the primary analysis with a median survival duration of follow-up of 9.5 months. The efficacy results of the updated analyses are summarized in Table 17 below.
 
 <div style=\"page-break-after: always\"></div>
-
-intravenous atezolizumab arm. A post hoc updated analysis was performed 9 months after the primary analysis with a median survival duration of follow-up of 9.5 months. The efficacy results of the updated analyses are summarized in Table 17 below.
 
 Table 17: Summary of updated efficacy analyses (IMscin001)
 
@@ -3179,11 +3161,9 @@ Figure 16: Forest plot of overall survival by PD-L1 expression in the primary an
 
 <!-- image -->
 
-An improvement in OS was observed with atezolizumab compared to docetaxel in both non-squamous NSCLC patients (hazard ratio [HR] of 0.73, 95% CI: 0.60, 0.89; median OS of 15.6 vs. 11.2 months for atezolizumab and docetaxel, respectively) and squamous NSCLC patients (HR of 0.73, 95% CI: 0.54, 0.98; median OS of 8.9 vs. 7.7 months for atezolizumab and docetaxel, respectively). The observed OS improvement was consistently demonstrated across subgroups of patients including those with brain metastases at baseline (HR of 0.54, 95% CI: 0.31, 0.94; median OS of 20.1 vs. 11.9 months for atezolizumab and docetaxel respectively) and patients who were never smokers (HR of 0.71, 95% CI: 0.47, 1.08; median OS of 16.3 vs. 12.6 months for atezolizumab and docetaxel, respectively). However, patients with EGFR mutations did not show improved OS with atezolizumab
+An improvement in OS was observed with atezolizumab compared to docetaxel in both non-squamous NSCLC patients (hazard ratio [HR] of 0.73, 95% CI: 0.60, 0.89; median OS of 15.6 vs. 11.2 months for atezolizumab and docetaxel, respectively) and squamous NSCLC patients (HR of 0.73, 95% CI: 0.54, 0.98; median OS of 8.9 vs. 7.7 months for atezolizumab and docetaxel, respectively). The observed OS improvement was consistently demonstrated across subgroups of patients including those with brain metastases at baseline (HR of 0.54, 95% CI: 0.31, 0.94; median OS of 20.1 vs. 11.9 months for atezolizumab and docetaxel respectively) and patients who were never smokers (HR of 0.71, 95% CI: 0.47, 1.08; median OS of 16.3 vs. 12.6 months for atezolizumab and docetaxel, respectively). However, patients with EGFR mutations did not show improved OS with atezolizumab compared to docetaxel (HR of 1.24, 95% CI: 0.71, 2.18; median OS of 10.5 vs. 16.2 months for atezolizumab and docetaxel, respectively).
 
 <div style=\"page-break-after: always\"></div>
-
-compared to docetaxel (HR of 1.24, 95% CI: 0.71, 2.18; median OS of 10.5 vs. 16.2 months for atezolizumab and docetaxel, respectively).
 
 Prolonged time to deterioration of patient-reported pain in chest as measured by the EORTC QLQ-LC13 was observed with atezolizumab compared to docetaxel (HR of 0.71, 95% CI: 0.49, 1.05; median not reached in either arm). The time to deterioration in other lung cancer symptoms (i.e. cough, dyspnoea, and arm/shoulder pain) as measured by the EORTC QLQ-LC13 was similar between atezolizumab and docetaxel. These results should be interpreted with caution due to the open-label design of the study.
 
@@ -3350,7 +3330,7 @@ Table 21: Summary of efficacy in patients with PD-L1 expression ≥ 1% (IMpassio
 
 ‡ Stratified by presence of liver metastases, and by prior taxane treatment.
 
-PFS=progression-free survival; RECIST=Response Evaluation Criteria in Solid Tumours v1.1.; CI=confidence interval; ORR=objective response rate; DOR=duration of response; OS=overall survival, NE=not estimable
+PFS=progression-free survival; RECIST=Response Evaluation Criteria in Solid Tumours v1.1.; CI=confidence interval; ORR=objective response rate; DOR=duration of response; OS=overall survival, NE=not estimable The time to deterioration (a sustained  10-point decline from baseline score) of patient-reported global health status/health-related quality of life as measured by the EORTC QLQ-C30 was similar in each treatment group indicating that all patients maintained their baseline HRQoL for a comparable duration of time.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3361,8 +3341,6 @@ Figure 19: Kaplan-Meier curve for progression free survival in patients with PD-
 Figure 20: Kaplan-Meier curve for overall survival in patients with PD-L1 expression ≥ 1% (IMpassion130)
 
 <!-- image -->
-
-The time to deterioration (a sustained  10-point decline from baseline score) of patient-reported global health status/health-related quality of life as measured by the EORTC QLQ-C30 was similar in each treatment group indicating that all patients maintained their baseline HRQoL for a comparable duration of time.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3525,11 +3503,9 @@ Based on population PK and exposure-response analyses age (21-89 years), region,
 
 ## Elderly
 
-No dedicated studies of atezolizumab have been conducted in elderly patients. The effect of age on the pharmacokinetics of atezolizumab was assessed in a population PK analysis. Age was not identified as a significant covariate influencing the PK of intravenous atezolizumab based on patients of age range of 21  89 years (n  472), and median of 62 years of age. No clinically important difference was
+No dedicated studies of atezolizumab have been conducted in elderly patients. The effect of age on the pharmacokinetics of atezolizumab was assessed in a population PK analysis. Age was not identified as a significant covariate influencing the PK of intravenous atezolizumab based on patients of age range of 21  89 years (n  472), and median of 62 years of age. No clinically important difference was observed in the pharmacokinetics of atezolizumab among patients  65 years (n  274), patients between 65  75 years (n  152) and patients  75 years (n  46) (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-observed in the pharmacokinetics of atezolizumab among patients  65 years (n  274), patients between 65  75 years (n  152) and patients  75 years (n  46) (see section 4.2).
 
 No clinically relevant difference was observed in the PK of subcutaneous atezolizumab among patients &lt; 65 years (n = 138), patients between 65 - 75 years (n  89), and patients &gt; 75 years of age (n = 19).
 
@@ -3643,7 +3619,7 @@ If the dose is not administered immediately, refer to 'Storage of the syringe' b
 -  If the dose is not to be administered immediately, use aseptic technique to withdraw the entire contents of Tecentriq solution for injection from the vial into the syringe to account for the dose volume (15 mL) and priming volume for the subcutaneous infusion set. Replace the transfer needle with a syringe closing cap. DO NOT attach a subcutaneous infusion set for storage.
 -  If the syringe is stored in a refrigerator, allow the syringe to reach room temperature prior to administration.
 
-## Disposal
+Disposal
 
 The release of Tecentriq in the environment should be minimised. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -3663,7 +3639,7 @@ Date of latest renewal: 25 April 2022
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 135
 
@@ -3776,7 +3752,7 @@ After dilution, the final concentration of the diluted solution should be betwee
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: L-histidine, glacial acetic acid, sucrose, polysorbate 20, water for injections
+Excipients: L-histidine, glacial acetic acid, sucrose, polysorbate 20, water for injections. See leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -3808,9 +3784,9 @@ Store in a refrigerator.
 
 Do not freeze.
 
-Keep the vial in the outer carton in order to protect from light.
-
 <div style=\"page-break-after: always\"></div>
+
+Keep the vial in the outer carton in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -3840,7 +3816,9 @@ Justification for not including Braille accepted
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -3890,13 +3868,13 @@ After dilution, the final concentration of the diluted solution should be betwee
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: L-histidine, glacial acetic acid, sucrose, polysorbate 20, water for injections
+Excipients: L-histidine, glacial acetic acid, sucrose, polysorbate 20, water for injections. See leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 Concentrate for solution for infusion
 
-- 1 200 mg/20 mL
+1 200 mg/20 mL
 
 1 vial
 
@@ -3922,9 +3900,11 @@ Store in a refrigerator.
 
 Do not freeze.
 
+<div style=\"page-break-after: always\"></div>
+
 Keep the vial in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3938,7 +3918,7 @@ EU/1/17/1220/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -3952,9 +3932,9 @@ Justification for not including Braille accepted
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
 
-<div style=\"page-break-after: always\"></div>
+SN
 
 NN
 
@@ -4002,7 +3982,7 @@ One vial contains 1 875 mg atezolizumab in 15 mL solution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: recombinant human hyaluronidase (rHuPH20), L-histidine, acetic acid, L-methionine, polysorbate 20, sucrose, water for injections.
+Excipients: recombinant human hyaluronidase (rHuPH20), L-histidine, acetic acid, L-methionine, polysorbate 20, sucrose, water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -4036,7 +4016,7 @@ Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -4213,15 +4193,15 @@ breathing problems, easy bruising, kidney abnormalities, and heart problems
 -  inflammation of the middle layer of the eye (uveitis): symptoms may include painful red eye, changes in eyesight or sensitivity to light
 -  abnormal breakdown of red blood cells (autoimmune haemolytic anaemia): signs and symptoms may include pale skin, tiredness, breathlessness, dark urine
 
-If you notice any of the symptoms above, tell your doctor straight away.
+<div style=\"page-break-after: always\"></div>
+
+If you notice any of the symptoms above, tell your doctor straight away. It is especially important to tell your doctor straight away if you experience a combination of symptoms from the different conditions listed above, for example, if you have symptoms affecting your heart, your muscles, and your vision at the same time.
 
 Do not try to treat yourself with other medicines. Your doctor may:
 
 -  Give you other medicines to prevent complications and reduce symptoms.
 -  Delay giving your next dose of Tecentriq.
 -  Stop your treatment with Tecentriq.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Tests and checks
 
@@ -4264,14 +4244,14 @@ Important information from this package leaflet can be found in the Patient Card
 
 You will be given Tecentriq by a doctor experienced in cancer treatment in a hospital or clinic.
 
+<div style=\"page-break-after: always\"></div>
+
 Two different types (formulations) of Tecentriq exist:
 
 - one is given as an infusion into a vein (intravenous infusion)
 - the other is given as an injection under the skin (subcutaneous injection).
 
 Your doctor may consider switching your intravenous Tecentriq treatment to subcutaneous Tecentriq treatment (and vice versa) if considered appropriate for you.
-
-<div style=\"page-break-after: always\"></div>
 
 ## How much intravenous Tecentriq is given
 
@@ -4314,7 +4294,7 @@ Tell your doctor straight away if you notice any of the side effects below or if
 
 The following side effects have been reported in clinical trials with Tecentriq used alone:
 
-## Very common: may affect more than 1 in 10 people
+Very common: may affect more than 1 in 10 people
 
 -  fever
 -  nausea
@@ -4325,14 +4305,15 @@ The following side effects have been reported in clinical trials with Tecentriq 
 -  diarrhoea
 -  joint pain
 -  rash
+
+<div style=\"page-break-after: always\"></div>
+
 -  loss of appetite
 -  shortness of breath
 -  urinary tract infection
 -  back pain
 -  cough
 -  headache
-
-<div style=\"page-break-after: always\"></div>
 
 ## Common: may affect up to 1 in 10 people
 
@@ -4361,6 +4342,8 @@ The following side effects have been reported in clinical trials with Tecentriq 
 -  nerve damage resulting in possible numbness, pain, and/or loss of motor function (peripheral neuropathy)
 -  inflammation of the joints (arthritis)
 -  low white blood cell count with and without fever, which can increase the risk of infection (neutropenia)
+-  blood tests showing high level of gamma-glutamyltransferase
+-  blood tests showing low levels albumin (hypoalbuminaemia), phosphate (hypophosphataemia) or calcium (hypocalcaemia)
 
 ## Uncommon: may affect up to 1 in 100 people
 
@@ -4373,6 +4356,9 @@ The following side effects have been reported in clinical trials with Tecentriq 
 -  red, dry, scaly patches of thickened skin (psoriasis)
 -  inflammation of the kidneys
 -  itching, skin blistering, peeling or sores, and/or ulcers in the mouth or in lining of nose, throat, or genital area which can be severe (severe skin reactions)
+
+<div style=\"page-break-after: always\"></div>
+
 -  inflammation of the pituitary gland situated at the base of the brain
 -  elevated creatine phosphokinase in the blood (shown in test), which may be a sign of muscle or heart inflammation
 -  changes in any area of the skin and/or genital area that are associated with drying out, thinning, itching and pain (lichen disorders)
@@ -4383,9 +4369,6 @@ The following side effects have been reported in clinical trials with Tecentriq 
 
 -  inflammation of the heart muscle
 -  myasthenia gravis, an illness that can cause muscle weakness
-
-<div style=\"page-break-after: always\"></div>
-
 -  haemophagocytic lymphohistiocytosis, a condition where the immune system makes too many infection-fighting cells called histiocytes and lymphocytes that may cause various symptoms
 -  inflammation of the spinal cord (myelitis)
 -  weakness of facial nerves and muscles (facial paresis)
@@ -4426,6 +4409,9 @@ The following side effects have been reported in clinical trials when Tecentriq 
 -  vomiting
 -  back pain
 -  lack of energy
+
+<div style=\"page-break-after: always\"></div>
+
 -  infection of the lung
 -  common cold (nasopharyngitis)
 -  hair loss
@@ -4437,12 +4423,7 @@ The following side effects have been reported in clinical trials when Tecentriq 
 -  blood tests showing low levels of potassium (hypokalaemia) or sodium (hyponatremia)
 -  inflammation of the mouth or lips
 -  hoarse voice (dysphonia)
--  low levels of magnesium (hypomagnesaemia), which can cause weakness and muscle cramping,
-
-<div style=\"page-break-after: always\"></div>
-
-numbness and pain in the arms and legs
-
+-  low levels of magnesium (hypomagnesaemia), which can cause weakness and muscle cramping, numbness and pain in the arms and legs
 -  protein in urine (proteinuria)
 -  inflammation of the intestines
 -  fainting
@@ -4455,6 +4436,8 @@ numbness and pain in the arms and legs
 -  reactions related to the infusion of the medicine (infusion-related reaction, hypersensitivity, cytokine release syndrome or anaphylaxis)
 -  severe infection in the blood (sepsis)
 -  inflammation of the joints (arthritis)
+-  blood tests showing high level of gamma-glutamyltransferase
+-  blood tests showing low levels albumin (hypoalbuminaemia), phosphate (hypophosphataemia) or calcium (hypocalcaemia)
 
 ## Uncommon: may affect up to 1 in 100 people
 
@@ -4474,17 +4457,19 @@ numbness and pain in the arms and legs
 -  a type of herpes virus infection (cytomegalovirus infection)
 -  abnormal breakdown of red blood cells (autoimmune haemolytic anaemia)
 
-## Other side effects that have been reported with frequency not known ( cannot be estimated from the available data):
+## Other side effects that have been reported with frequency not known ( cannot be estimated from
+
+the available data):
 
 -  lack or reduction of digestive enzymes made by the pancreas (pancreatic exocrine insufficiency)
+
+<div style=\"page-break-after: always\"></div>
 
 If you notice any of the side effects above or if they get worse, tell your doctor straight away.
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Tecentriq
 
@@ -4502,8 +4487,8 @@ Do not throw away any medicines via wastewater or household waste. Your healthca
 
 ## What Tecentriq contains
 
--  The active substance is atezolizumab. Each mL contains 60 mg of atezolizumab.
-- Each 14 mL vial contains 840 mg of atezolizumab. Each 20 mL vial contains 1 200 mg of atezolizumab.
+- 
+- The active substance is atezolizumab. Each mL contains 60 mg of atezolizumab. Each 14 mL vial contains 840 mg of atezolizumab. Each 20 mL vial contains 1 200 mg of atezolizumab.
 -  After dilution, the final concentration of the diluted solution should be between 3.2 and 16.8 mg/mL.
 -  The other ingredients are L-histidine, glacial acetic acid, sucrose, polysorbate 20 (E 432) (see section 2 'Tecentriq contains Polysorbate') and water for injections.
 
@@ -4539,7 +4524,7 @@ Tél/Tel: +32 (0) 2 525 82 11
 
 Тел
 
-: +359 2 818 44 44
+: +359 2 474 5444
 
 ## Č eská republika
 
@@ -4685,7 +4670,7 @@ Tel: +371 - 6 7039831
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/
 
 Sverige Roche AB
 
@@ -4840,15 +4825,15 @@ breathing problems, easy bruising, kidney abnormalities, and heart problems
 -  inflammation of the middle layer of the eye (uveitis): symptoms may include painful red eye, changes in eyesight or sensitivity to light
 -  abnormal breakdown of red blood cells (autoimmune haemolytic anaemia): signs and symptoms may include pale skin, tiredness, breathlessness, dark urine
 
-If you notice any of the symptoms above, tell your doctor straight away.
+<div style=\"page-break-after: always\"></div>
+
+If you notice any of the symptoms above, tell your doctor straight away. It is especially important to tell your doctor straight away if you experience a combination of symptoms from the different conditions listed above, for example, if you have symptoms affecting your heart, your muscles, and your vision at the same time.
 
 Do not try to treat yourself with other medicines. Your doctor may:
 
 -  Give you other medicines to prevent complications and reduce symptoms.
 -  Delay giving your next dose of Tecentriq.
 -  Stop your treatment with Tecentriq.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Tests and checks
 
@@ -4896,13 +4881,13 @@ Two different types (formulations) of Tecentriq exist:
 - one is given as an infusion into a vein (intravenous infusion)
 - the other is given as an injection under the skin (subcutaneous injection).
 
+<div style=\"page-break-after: always\"></div>
+
 Your doctor may consider switching your subcutaneous Tecentriq treatment to intravenous Tecentriq treatment (and vice versa) if considered appropriate for you.
 
 ## How much subcutaneous Tecentriq is given
 
 The recommended dose of Tecentriq solution for injection is 1 875 mg every three weeks.
-
-<div style=\"page-break-after: always\"></div>
 
 ## How subcutaneous Tecentriq is given
 
@@ -4954,15 +4939,15 @@ Very common: may affect more than 1 in 10 people
 -  back pain
 -  cough
 -  headache
+
+<div style=\"page-break-after: always\"></div>
+
+## Common: may affect up to 1 in 10 people
+
 -  inflammation of the lungs (pneumonitis)
 -  low oxygen levels, which may cause shortness of breath as a consequence of inflamed lungs (hypoxia)
 -  stomach pain
 -  pain in the muscles and bones
-
-Common: may affect up to 1 in 10 people
-
-<div style=\"page-break-after: always\"></div>
-
 -  inflammation of the liver
 -  elevated liver enzymes (shown in tests), which may be a sign of an inflamed liver
 -  difficulty swallowing
@@ -4985,6 +4970,8 @@ Common: may affect up to 1 in 10 people
 -  nerve damage resulting in possible numbness, pain, and/or loss of motor function (peripheral neuropathy)
 -  inflammation of the joints (arthritis)
 -  low white blood cell count with and without fever, which can increase the risk of infection (neutropenia)
+-  blood tests showing high level of gamma-glutamyltransferase
+-  blood tests showing low levels albumin (hypoalbuminaemia), phosphate (hypophosphataemia) or calcium (hypocalcaemia)
 
 ## Uncommon: may affect up to 1 in 100 people
 
@@ -5001,6 +4988,9 @@ Common: may affect up to 1 in 10 people
 -  elevated creatine phosphokinase in the blood (shown in test), which may be a sign of muscle or heart inflammation
 -  changes in any area of the skin and/or genital area that are associated with drying out, thinning, itching and pain (lichen disorders)
 -  inflammation of the eye (uveitis)
+
+<div style=\"page-break-after: always\"></div>
+
 -  inflammation around tendons (tenosynovitis)
 
 ## Rare: may affect up to 1 in 1,000 people
@@ -5010,15 +5000,14 @@ Common: may affect up to 1 in 10 people
 -  haemophagocytic lymphohistiocytosis, a condition where the immune system makes too many infection-fighting cells called histiocytes and lymphocytes that may cause various symptoms
 -  inflammation of the spinal cord (myelitis)
 -  weakness of facial nerves and muscles (facial paresis)
-
-<div style=\"page-break-after: always\"></div>
-
 -  coeliac disease (characterised by symptoms such as stomach pain, diarrhoea, and bloating after consuming gluten-containing foods)
 -  a type of herpes virus infection (cytomegalovirus infection)
 -  inflammatory disease mainly affecting the skin, lung and eye (sarcoidosis)
 -  abnormal breakdown of red blood cells (autoimmune haemolytic anaemia)
 
-## Other side effects that have been reported with frequency not known (cannot be estimated from the available data):
+## Other side effects that have been reported with frequency not known (cannot be estimated from
+
+the available data):
 
 -  inflammation of the bladder; signs and symptoms may include frequent and/or painful urination, urge to pass urine, blood in urine, pain or pressure in lower abdomen
 -  lack or reduction of digestive enzymes made by the pancreas (pancreatic exocrine insufficiency)
@@ -5056,6 +5045,8 @@ The following side effects have been reported in clinical trials when Tecentriq 
 -  high blood pressure (hypertension)
 -  swelling in arms or legs
 
+<div style=\"page-break-after: always\"></div>
+
 ## Common: may affect up to 1 in 10 people
 
 -  blood tests showing low levels of potassium (hypokalaemia) or sodium (hyponatremia)
@@ -5065,9 +5056,6 @@ The following side effects have been reported in clinical trials when Tecentriq 
 -  protein in urine (proteinuria)
 -  inflammation of the intestines
 -  fainting
-
-<div style=\"page-break-after: always\"></div>
-
 -  elevated liver enzymes (shown in tests), which may be a sign of an inflamed liver
 -  changes to sense of taste (dysgeusia)
 -  decreased number of lymphocyte (a type of white blood cells), which is associated with an increased risk of infection
@@ -5077,6 +5065,8 @@ The following side effects have been reported in clinical trials when Tecentriq 
 -  reactions related to the infusion of the medicine (infusion-related reaction, hypersensitivity, cytokine release syndrome or anaphylaxis)
 -  severe infection in the blood (sepsis)
 -  inflammation of the joints (arthritis)
+-  blood tests showing high level of gamma-glutamyltransferase
+-  blood tests showing low levels albumin (hypoalbuminaemia), phosphate (hypophosphataemia) or calcium (hypocalcaemia)
 
 ## Uncommon: may affect up to 1 in 100 people
 
@@ -5102,6 +5092,8 @@ The following side effects have been reported in clinical trials when Tecentriq 
 
 If you notice any of the side effects above or if they get worse, tell your doctor straight away.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
@@ -5113,9 +5105,6 @@ Tecentriq will be stored by the healthcare professionals at the hospital or clin
 -  Do not use this medicine after the expiry date which is stated on the carton and the vial label after EXP. The expiry date refers to the last day of that month.
 -  Store in a refrigerator (2 °C - 8 °C). Do not freeze.
 -  Keep the vial in the outer carton in order to protect from light.
-
-<div style=\"page-break-after: always\"></div>
-
 -  Do not use if this medicine is cloudy, discoloured or contains particles.
 
 Do not throw away any medicines via wastewater or household waste. Your healthcare professional will throw away any medicines that are no longer being used. These measures will help to protect the environment.
@@ -5137,19 +5126,13 @@ Tecentriq is available in a pack containing 1 glass vial.
 
 Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
-## Manufacturer
+Manufacturer Roche Pharma AG Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-Roche Pharma AG Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
+<div style=\"page-break-after: always\"></div>
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+## België/Belgique/Belgien, Luxembourg/Luxemburg
 
-België/Belgique/Belgien, Luxembourg/Luxemburg N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
-
-## Lietuva
-
-UAB 'Roche Lietuva'
-
-Tel: +370 5 2546799
+N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
 ## България
 
@@ -5157,11 +5140,7 @@ Tel: +370 5 2546799
 
 Тел
 
-: +359 2 818 44 44
-
-## Magyarország
-
-Roche (Magyarország) Kft. Tel.: +36 - 1 279 4500
+: +359 2 474 5444
 
 ## Č eská republika
 
@@ -5169,21 +5148,11 @@ Roche s. r. O.
 
 Tel: +420 - 2 20382111
 
-## Nederland
-
-Roche Nederland B.V. Tel: +31 (0) 348 438050
-
 ## Danmark
 
 Roche Pharmaceuticals A/S
 
 Tlf.: +45 - 36 39 99 99
-
-Norge
-
-Roche Norge AS
-
-Tlf: +47 - 22 78 90 00
 
 ## Deutschland
 
@@ -5191,35 +5160,19 @@ Roche Pharma AG
 
 Tel: +49 (0) 7624 140
 
-## Österreich
-
-Roche Austria GmbH
-
-Tel: +43 (0) 1 27739
-
 ## Eesti
 
 Roche Eesti OÜ
 
 Tel: + 372 - 6 177 380
 
-## Polska
-
-Roche Polska Sp.z o.o.
-
-Tel.: +48 - 22 345 18 88
-
 ## Ελλάδα , Κύπρος
 
 Roche (Hellas) A.E. Ελλάδα
 
-Τηλ : +30 210 61 66 100
+Τηλ
 
-## Portugal
-
-Roche Farmacêutica Química, Lda
-
-Tel: +351 - 21 425 70 00
+: +30 210 61 66 100
 
 ## España
 
@@ -5227,23 +5180,11 @@ Roche Farma S.A.
 
 Tel: +34 - 91 324 81 00
 
-## România
-
-Roche România S.R.L.
-
-Tel: +40 21 206 47 01
-
 ## France
 
-## Roche
+Roche
 
 Tél: +33 (0) 1 47 61 40 00
-
-## Slovenija
-
-Roche farmacevtska družba d.o.o.
-
-Tel: +386 - 1 360 26 00
 
 ## Hrvatska
 
@@ -5251,19 +5192,71 @@ Roche d.o.o.
 
 Tel: +385 1 4722 333
 
+## Ireland, Malta
+
+Roche Products (Ireland) Ltd. Ireland/L-Irlanda
+
+Tel: +353 (0) 1 469 0700
+
+## Lietuva
+
+UAB 'Roche Lietuva'
+
+Tel: +370 5 2546799
+
+## Magyarország
+
+Roche (Magyarország) Kft.
+
+Tel.: +36 - 1 279 4500
+
+## Nederland
+
+Roche Nederland B.V.
+
+Tel: +31 (0) 348 438050
+
+## Norge
+
+Roche Norge AS
+
+Tlf: +47 - 22 78 90 00
+
+## Österreich
+
+Roche Austria GmbH
+
+Tel: +43 (0) 1 27739
+
+## Polska
+
+Roche Polska Sp.z o.o.
+
+Tel.: +48 - 22 345 18 88
+
+## Portugal
+
+Roche Farmacêutica Química, Lda
+
+Tel: +351 - 21 425 70 00
+
+## România
+
+Roche România S.R.L.
+
+Tel: +40 21 206 47 01
+
+## Slovenija
+
+Roche farmacevtska družba d.o.o.
+
+Tel: +386 - 1 360 26 00
+
 ## Slovenská republika
 
 Roche Slovensko, s.r.o.
 
 Tel: +421 - 2 52638201
-
-## Ireland, Malta
-
-Roche Products (Ireland) Ltd.
-
-Ireland/L-Irlanda
-
-Tel: +353 (0) 1 469 0700
 
 ## Suomi/Finland
 
@@ -5271,19 +5264,13 @@ Roche Oy
 
 Puh/Tel: +358 (0) 10 554 500
 
+<div style=\"page-break-after: always\"></div>
+
 ## Ísland
 
-Roche Pharmaceuticals A/S
-
-c/o Icepharma hf
+Roche Pharmaceuticals A/S c/o Icepharma hf
 
 Sími: +354 540 8000
-
-## Sverige
-
-Roche AB
-
-Tel: +46 (0) 8 726 1200
 
 ## Italia
 
@@ -5297,13 +5284,15 @@ Roche Latvija SIA
 
 Tel: +371 - 6 7039831
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/
+
+Sverige Roche AB
+
+Tel: +46 (0) 8 726 1200
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5356,27 +5345,3 @@ The injection site should be alternated between the left and right thigh only. N
 ## Disposal
 
 The release of Tecentriq in the environment should be minimised. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for atezolizumab, the scientific conclusions of PRAC are as follows:
-
-In view of available data on autoimmune haemolytic anaemia from spontaneous reports and in view of a plausible mechanism of action, the PRAC considers that a causal relationship between atezolizumab and autoimmune haemolytic anaemia is at least a reasonable possibility, given the potential classeffect. The PRAC concluded that the product information of products containing atezolizumab should be amended accordingly.
-
-In view of available data on neutropenia from clinical trial, postmarketing and the literature, the PRAC considers a causal relationship between atezolizumab (in monotherapy) and neutropenia is at least a reasonable possibility. The PRAC concluded that the product information of products containing atezolizumab should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the Marketing Authorisation(s)
-
-On the basis of the scientific conclusions for atezolizumab the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing atezolizumab is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the Marketing Authorisation(s) should be varied.

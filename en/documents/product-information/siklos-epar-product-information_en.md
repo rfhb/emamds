@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-11 16:04:01
+document_datetime: 2026-04-28 17:26:33
 document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/siklos-epar-product-information_en.pdf
 document_name: siklos-epar-product-information_en.pdf
 version: success
-processing_time: 7.6076718
-conversion_datetime: 2026-02-13 18:59:44.853674
+processing_time: 7.5614072
+conversion_datetime: 2026-04-29 13:12:40.998322
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.2
-  docling: 2.73.1
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -46,7 +46,7 @@ Film-coated tablet (tablet).
 
 Off-white oblong-shaped, film-coated tablet with half-scoring on both sides.
 
-The tablet can be divided into two equal parts. Each half of tablet is embossed ' H ' on one side.
+The tablet can be divided into two equal parts. Each half of tablet is embossed 'H' on one side.
 
 ## Siklos 1 000 mg film-coated tablet
 
@@ -90,7 +90,9 @@ Neutrophils
 
 &lt; 1 500/mm 3
 
-Platelets &lt; 80 000/mm 3
+Platelets
+
+&lt; 80 000/mm 3
 
 Haemoglobin
 
@@ -98,7 +100,7 @@ Haemoglobin
 
 Reticulocytes
 
-&lt; 80 000/mm 3 if the haemoglobin concentration &lt; 9 g/dL
+&lt; 80 000/mm 3  if the haemoglobin concentration &lt; 9 g/dL
 
 Long-term data on the continued use of hydroxycarbamide in patients with sickle cell syndrome are available in children and adolescents, with a follow-up of 12 years in children and adolescents and over 13 years in adults. It is currently unknown how long patients should be treated with Siklos. The duration of treatment is the responsibility of the prescribing physician and should be based on the clinical and haematological status of each patient.
 
@@ -154,21 +156,23 @@ Since there are limited data in patients with mild to moderate liver impairment,
 
 In patients with leg ulcers, Siklos should be used with caution. Leg ulcers are a common complication of sickle cell syndrome, but have also been reported in patients treated with hydroxycarbamide. Cutaneous vasculitic toxicities, including vasculitic ulcerations and gangrene, have occurred in patients with myeloproliferative disorders during therapy with hydroxycarbamide. These vasculitic toxicities were reported most often in patients with a history of, or currently receiving, interferon therapy. Due to potentially severe clinical outcomes for the cutaneous vasculitic ulcers reported in patients with myeloproliferative disease, hydroxycarbamide should be discontinued and/or its dose reduced if cutaneous vasculitic ulcerations develop. Rarely, ulcers are caused by leukocytoclastic vasculitis.
 
+## Limbal stem cell deficiency
+
+Cases of limbal stem cell deficiency have been reported during treatment with hydroxycarbamide. In some cases, limbal stem cell deficiency improved after treatment discontinuation. Patients presenting with relevant signs and symptoms (reduced/impaired vision, photophobia, redness, and pain) should be referred to an ophthalmologist. If limbal stem cell deficiency is confirmed, discontinuation of the treatment should be considered.
+
 ## Macrocytosis
 
 Hydroxycarbamide causes macrocytosis, which may mask the incidental development of folic acid and vitamin B12 deficiency. Prophylactic administration of folic acid is recommended.
 
 ## Carcinogenicity
 
-Hydroxycarbamide is unequivocally genotoxic in a wide range of test systems. Hydroxycarbamide is presumed to be a transspecies carcinogen. In patients receiving long-term hydroxycarbamide for myeloproliferative disorders, secondary leukaemia has been reported. It is unknown whether this leuka emogenic effect is secondary to hydroxycarbamide or is associated with the patient's underlying disease. Skin cancer has also been reported in patients receiving long-term hydroxycarbamide.
+Hydroxycarbamide is unequivocally genotoxic in a wide range of test systems. Hydroxycarbamide is presumed to be a transspecies carcinogen. In patients receiving long-term hydroxycarbamide for myeloproliferative disorders, secondary leukaemia has been reported. It is unknown whether this leukaemogenic effect is secondary to hydroxycarbamide or is associated with the patient's underlying disease. Skin cancer has also been reported in patients receiving long-term hydroxycarbamide.
 
-## Safe administration and monitoring
-
-Patients and/or parents or the legal responsible person must be able to follow directions regarding the administration of this medicinal product, their monitoring and care.
-
-## 4.5 Interaction with other medicinal products and other forms of interaction
+Safe administration and monitoring Patients and/or parents or the legal responsible person must be able to follow directions regarding the administration of this medicinal product, their monitoring and care.
 
 <div style=\"page-break-after: always\"></div>
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Specific interaction studies have not been performed with hydroxycarbamide.
 
@@ -184,7 +188,7 @@ Hydroxycarbamide may falsely elevate sensor glucose results from certain continu
 
 ## 4.6 Fertility, pregnancy and lactation
 
-## Women of childbearing potential/Contraception in males and females
+Women of childbearing potential/Contraception in males and females
 
 Women of childbearing age receiving hydroxycarbamide should be advised to avoid becoming pregnant, and to inform the treating physician immediately should this occur. An effective method of contraception is strongly recommended in women of childbearing potential. Male and female patients on hydroxycarbamide wishing to conceive should stop treatment 3 to 6 months before pregnancy if possible. The evaluation of the risk-benefit ratio should be made on an individual basis taking into consideration the respective risk of hydroxycarbamide therapy against the switch to a blood transfusion programme.
 
@@ -204,11 +208,11 @@ Hydroxycarbamide is excreted in human milk. Because of the potential for serious
 
 Fertility in males might be affected by treatment. Very common reversible oligo- and azoospermia have been observed in man, although these disorders are also associated with the underlying disease. Impaired fertility was observed in male rats (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 Siklos has minor influence on the ability to drive and use machines. Patients should be advised not to drive or operate machines, if dizziness is experienced while taking Siklos.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -224,46 +228,40 @@ The clinical data obtained in patients with sickle cell syndrome have not shown 
 
 The adverse reactions are listed below by system organ class and absolute frequency. Frequencies are defined as very common (&gt;1/10), common (&gt;1/100 to &lt;1/10), uncommon (&gt;1/1 000 to &lt;1/100), rare (&gt;1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness:
 
-| Neoplasms, benign, malignant and unspecified:         | Neoplasms, benign, malignant and unspecified:                                                                     |
-|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Not known:                                            | Leukaemia and in elderly patients, skin cancers                                                                   |
-| Blood and lymphatic system disorders:                 | Blood and lymphatic system disorders:                                                                             |
-| Very common: Bone                                     | marrow depression 1 including neutropenia (< 1.5 x 10 9 /L), reticulocytopenia (< 80 x 10 9 /L), macrocytosis 2 9 |
-| Common:                                               | Thrombocytopenia (< 80 x 10 /L), anaemia (haemoglobin < 4.5 g/dL) 3                                               |
-| Nervous system disorders:                             | Nervous system disorders:                                                                                         |
-| Common:                                               | Headache                                                                                                          |
-| Uncommon:                                             | Dizziness                                                                                                         |
-| Vascular disorders:                                   | Vascular disorders:                                                                                               |
-| Not known:                                            | Bleeding                                                                                                          |
-| Gastrointestinal disorders:                           | Gastrointestinal disorders:                                                                                       |
-| Uncommon:                                             | Nausea                                                                                                            |
-| Not known:                                            | Gastrointestinal disturbances, vomiting, gastrointestinal ulcer, severe hypomagnesaemia                           |
-| Hepatobiliary disorders:                              | Hepatobiliary disorders:                                                                                          |
-| Rare:                                                 | Elevated liver enzymes                                                                                            |
-| Skin and subcutaneous tissue disorders:               | Skin and subcutaneous tissue disorders:                                                                           |
-| Common Skin                                           | reactions (for example oral, ungual and cutaneous pigmentation) and oral mucositis.                               |
-| Uncommon:                                             | Rash, melanonychia, alopecia                                                                                      |
-| Rare:                                                 | Leg ulcers                                                                                                        |
-| Very rare:                                            | Systemic and cutaneous lupus erythematous                                                                         |
-| Not known:                                            | Cutaneous dryness                                                                                                 |
-| Reproductive system and breast disorders:             | Reproductive system and breast disorders:                                                                         |
-| Very common:                                          | Oligospermia, azoospermia 4                                                                                       |
-| Not known:                                            | Amenorrhea                                                                                                        |
-| General disorders and administration site conditions: | General disorders and administration site conditions:                                                             |
-| Not known:                                            | Fever                                                                                                             |
-| Investigations:                                       | Investigations:                                                                                                   |
+| Neoplasms, benign, malignant and unspecified:   | Neoplasms, benign, malignant and unspecified:                                                                        |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Not known:                                      | Leukaemia and in elderly patients, skin cancers                                                                      |
+| Blood and lymphatic system disorders:           | Blood and lymphatic system disorders:                                                                                |
+| Very common:                                    | Bone marrow depression 1 including neutropenia (< 1.5 x 10 9 /L), reticulocytopenia (< 80 x 10 9 /L), macrocytosis 2 |
+| Common:                                         | Thrombocytopenia (< 80 x 10 9 /L), anaemia (haemoglobin < 4.5 g/dL) 3                                                |
+| Nervous system disorders:                       | Nervous system disorders:                                                                                            |
+| Common:                                         | Headache                                                                                                             |
+| Eye disorders:                                  | Eye disorders:                                                                                                       |
+| Not known:                                      | Limbal stem cell deficiency                                                                                          |
+| Vascular disorders:                             | Vascular disorders:                                                                                                  |
+| Not known:                                      | Bleeding                                                                                                             |
+| Gastrointestinal disorders:                     | Gastrointestinal disorders:                                                                                          |
+| Uncommon:                                       | Nausea                                                                                                               |
+| Not known:                                      | Gastrointestinal disturbances, vomiting, gastrointestinal ulcer, severe hypomagnesaemia                              |
+| Hepatobiliary disorders:                        | Hepatobiliary disorders:                                                                                             |
+| Rare:                                           | Elevated liver enzymes                                                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
-1  Haematological recovery usually occurs within two weeks of withdrawal of hydroxycarbamide.
-
-2 The macrocytosis caused by hydroxycarbamide is not vitamin B12 or folic acid dependent.
-
-3 Mainly due to infection with Parvovirus, splenic or hepatic sequestration, renal impairment.
-
-4 Oligospermia and azoospermia are in general reversible but have to be taken into account when fatherhood is desired (see section 5.3). These disorders are also associated with the underlying disease.
-
-5 Weight gain may be an effect of improved general conditions.
+| Skin and subcutaneous tissue disorders:               | Skin and subcutaneous tissue disorders:                                                         |
+|-------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|                                                       | Common Skin reactions (for example oral, ungual and cutaneous pigmentation) and oral mucositis. |
+|                                                       | Uncommon: Rash, melanonychia, alopecia                                                          |
+|                                                       | Rare: Leg ulcers                                                                                |
+|                                                       | Very rare: Systemic and cutaneous lupus erythematous                                            |
+|                                                       | known: Cutaneous dryness                                                                        |
+| Reproductive system and breast disorders:             | Reproductive system and breast disorders:                                                       |
+|                                                       | Very common: Oligospermia, azoospermia 4                                                        |
+|                                                       | known: Amenorrhea                                                                               |
+| General disorders and administration site conditions: | General disorders and administration site conditions:                                           |
+|                                                       | known: Fever                                                                                    |
+| Investigations:                                       | Investigations:                                                                                 |
+|                                                       | known: Weight gain 5                                                                            |
 
 ## Pediatric population
 
@@ -285,17 +283,15 @@ Treatment of overdose consists of gastric lavage, followed by symptomatic treatm
 
 ## 5.1 Pharmacodynamic properties
 
+<div style=\"page-break-after: always\"></div>
+
 Pharmacotherapeutic group: Antineoplastic agents, other antineoplastic agents, ATC code: L01XX05.
 
 ## Mechanism of action
 
 All mechanisms of action of hydroxycarbamide are not fully understood. One of the mechanisms is the increase in foetal haemoglobin (HbF) concentrations in sickle cell patients. HbF interferes with the polymerisation of HbS and thus impedes the sickling of red blood cell and in turn decreases vasocclusion and haemolysis. In all clinical studies, there was a significant increase in HbF from baseline after hydroxycarbamide use. Increased HbF also increases red blood cell survival and total haemoglobin level and thus reduces anaemia in these patients.
 
-Hydroxycarbamide has shown to be associated with the generation of nitric oxide suggesting that nitric oxide stimulates cyclic guanosine monophosphatase (cGMP) production, which then activates a protein kinase and increases the production of HbF. Other known pharmacological effects of hydroxycarbamide which may contribute to its beneficial effects in sickle cell syndrome include
-
-<div style=\"page-break-after: always\"></div>
-
-decrease in neutrophils, increase in water content of red blood cells, increased deformability of sickled cells, and altered adhesion of red blood cells to the endothelium.
+Hydroxycarbamide has shown to be associated with the generation of nitric oxide suggesting that nitric oxide stimulates cyclic guanosine monophosphatase (cGMP) production, which then activates a protein kinase and increases the production of HbF. Other known pharmacological effects of hydroxycarbamide which may contribute to its beneficial effects in sickle cell syndrome include decrease in neutrophils, increase in water content of red blood cells, increased deformability of sickled cells, and altered adhesion of red blood cells to the endothelium.
 
 In addition hydroxycarbamide causes an immediate inhibition of DNA synthesis by acting as a ribonucleotide reductase inhibitor, without interfering with the synthesis of ribonucleic acid or protein.
 
@@ -315,11 +311,11 @@ In 1 906 patients included in the cohort study ESCORT HU, after twelve and twent
 
 In NOHARM trial (Opoka 2017) children of mean age of 2.2 years old (from 1 to 3.99 years) were randomized to either hydroxycarbamide (n=104) or placebo (n=104). Treatment was administered once daily at 20 ± 2.5 mg/kg for 12 months. A composite SCD-related clinical outcome (vasoocclusive painful crisis, dactylitis, acute chest syndrome, splenic sequestration, or blood transfusion) was less frequent with hydroxyurea (45%) than placebo (69%, p=0.001). Regarding the risk of increased infection in children with drug-induced neutropenia, it was rare in NOHARM and did not differ on hydroxyurea versus placebo treatment.
 
-At the end of the NOHARM trial, children were enrolled in the NOHARM extension trial (John 2020), and randomly assigned in a 1:1 ratio either to receive hydroxycarbamide at a fixed standard dose (mean [±SD], 20±5 mg per kilogram per day) or to escalate hydroxycarbamide to the maximum tolerated dose. 187 children were randomized: 94 (age 4.6 ± 1.0) in the fixed dose group (19.2±1.8 mg /kg/d) and 93 (age 4.8 ± 0.9) in the dose escalation group (29.5±3.6 mg/kg/d). After 18 months, an increase in Hb level (+0.3 g/dL) and % HbF (+8%) was found in the escalation group. Clinical adverse events of any grade were more frequent in the fixed-dose group, including all sickle cell -related events (245 vs 105) and specific events: vaso-occlusive pain crisis (200 vs 86) and acute chest syndrome or pneumonia (30 vs 8). The number of key medical interventions were also fewer in the dose-escalation group than in the fixed-dose group, both for transfusions (34 vs. 116) and hospitalizations (19 vs. 90).
-
 <div style=\"page-break-after: always\"></div>
 
-In infants with SS/Sb0 aged 9 -23 months, a decrease of episodes of pain (-52%, 177 events vs 375), dactylitis (- 80%, 24 vs 123), acute chest syndrome (8 vs 27) and hospitalizations (- 28%, 232 vs 324) has been reported with hydroxycarbamide (n=96) compared to placebo (n=97) respectively in the randomized controlled trial Baby Hug. In 25 patients treated for 1 year in the uncontrolled ESCORT HU over 1 year, compared to 1 year prior to enrolment (n=25), reduction of vaso-occlusive crises: 42% and hospitalizations: -55%.
+At the end of the NOHARM trial, children were enrolled in the NOHARM extension trial (John 2020), and randomly assigned in a 1:1 ratio either to receive hydroxycarbamide at a fixed standard dose (mean [±SD], 20±5 mg per kilogram per day) or to escalate hydroxycarbamide to the maximum tolerated dose. 187 children were randomized: 94 (age 4.6 ± 1.0) in the fixed dose group (19.2±1.8 mg /kg/d) and 93 (age 4.8 ± 0.9) in the dose escalation group (29.5±3.6 mg/kg/d). After 18 months, an increase in Hb level (+0.3 g/dL) and % HbF (+8%) was found in the escalation group. Clinical adverse events of any grade were more frequent in the fixed-dose group, including all sickle cell-related events (245 vs 105) and specific events: vaso-occlusive pain crisis (200 vs 86) and acute chest syndrome or pneumonia (30 vs 8). The number of key medical interventions were also fewer in the dose-escalation group than in the fixed-dose group, both for transfusions (34 vs. 116) and hospitalizations (19 vs. 90).
+
+In infants with SS/Sb0 aged 9-23 months, a decrease of episodes of pain (-52%, 177 events vs 375), dactylitis (- 80%, 24 vs 123), acute chest syndrome (8 vs 27) and hospitalizations (- 28%, 232 vs 324) has been reported with hydroxycarbamide (n=96) compared to placebo (n=97) respectively in the randomized controlled trial Baby Hug. In 25 patients treated for 1 year in the uncontrolled ESCORT HU over 1 year, compared to 1 year prior to enrolment (n=25), reduction of vaso-occlusive crises: 42% and hospitalizations: -55%.
 
 The benefit risk ratio and long-term safety remain to be established in this population.
 
@@ -341,15 +337,15 @@ The biotransformation pathways as well as the metabolites are not fully characte
 
 Hydroxycarbamide at 30, 100 and 300 µM is not metabolised in vitro by cytochrome P450s of human liver microsomes. At concentrations ranging from 10 to 300 µM, hydroxycarbamide does not stimulate the in vitro ATPase activity of recombinant human P glycoprotein (PGP), indicating that hydroxycarbamide is not a PGP substrate. Hence, no interaction is to be expected in case of concomitant administration with substances being substrates of cytochromes P450 or P-glycoprotein.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elimination
 
 In a repeated dose study in adult patients with sickle cell syndrome approximately 60% of the hydroxycarbamide dose was detected in urine at steady state. In adults, the total clearance adjusted for bioavailability was 9.89 L/h (0.16 L/h/kg) thereof 5.64 and 4.25 L/h by renal and non-renal clearance, respectively. The respective value for total clearance in children was 7.25 L/h (0.20 L/h/kg) with 2.91 and 4.34 L/h by renal and non-renal pathways.
 
-In adults with sickle cell syndrome, mean cumulative urinary hydroxycarbamide excretion was 62% of the administered dose at 8 hours, and thus higher than in cancer patients (35 -40%). In patients with sickle cell syndrome hydroxycarbamide was eliminated with a half-life of approximately six to seven hours, which is longer than reported in other indications.
+In adults with sickle cell syndrome, mean cumulative urinary hydroxycarbamide excretion was 62% of the administered dose at 8 hours, and thus higher than in cancer patients (35-40%). In patients with sickle cell syndrome hydroxycarbamide was eliminated with a half-life of approximately six to seven hours, which is longer than reported in other indications.
 
 ## Geriatric, gender, race
-
-<div style=\"page-break-after: always\"></div>
 
 No information is available regarding pharmacokinetic differences due to age (except paediatric patients), gender or race.
 
@@ -359,7 +355,7 @@ In paediatric and adult patients with sickle cell syndrome the systemic exposure
 
 ## Renal impairment
 
-As renal excretion is a pathway of elimination, consideration should be given to decreasing the dose of Siklos in patients with renal impairment. In an open single-dose study in adult patients with sickle cell syndrome ( Yan JH et al, 2005 ) the influence of renal function on pharmacokinetics of hydroxycarbamide was assessed. Patients with normal (creatinine clearance CrCl&gt;80 mL/min), mild (CrCl 60 -80 mL/min), moderate (CrCl 30 - 60 mL/min), or severe (&lt;30 mL/min) renal impairment received hydroxycarbamide as a single dose of 15 mg/kg b.w. by using 200 mg, 300 mg, or 400 mg capsules. In patients, whose CrCl was below 60 mL/min or patients with end-stage renal disease the mean exposure to hydroxycarbamide was approximately 64% higher than in patients with normal renal function. As evaluated in a further study, in patients with a CrCl&lt;60 mL/min the area under the curve was approximately 51% higher than in patients with a CrCl ≥60 mL/min, which suggests that a dose reduction of hydroxycarbamide by 50% may be appropriate in patients with a CrCl &lt; 60 mL/min. Haemodialysis reduced the exposure to hydroxycarbamide by 33% (see sections 4.2 and 4.4). Close monitoring of blood parameters is advised in these patients.
+As renal excretion is a pathway of elimination, consideration should be given to decreasing the dose of Siklos in patients with renal impairment. In an open single-dose study in adult patients with sickle cell syndrome ( Yan JH et al, 2005 ) the influence of renal function on pharmacokinetics of hydroxycarbamide was assessed. Patients with normal (creatinine clearance CrCl&gt;80 mL/min), mild (CrCl 60-80 mL/min), moderate (CrCl 30 - 60 mL/min), or severe (&lt;30 mL/min) renal impairment received hydroxycarbamide as a single dose of 15 mg/kg b.w. by using 200 mg, 300 mg, or 400 mg capsules. In patients, whose CrCl was below 60 mL/min or patients with end-stage renal disease the mean exposure to hydroxycarbamide was approximately 64% higher than in patients with normal renal function. As evaluated in a further study, in patients with a CrCl&lt;60 mL/min the area under the curve was approximately 51% higher than in patients with a CrCl ≥60 mL/min, which suggests that a dose reduction of hydroxycarbamide by 50% may be appropriate in patients with a CrCl &lt; 60 mL/min. Haemodialysis reduced the exposure to hydroxycarbamide by 33% (see sections 4.2 and 4.4). Close monitoring of blood parameters is advised in these patients.
 
 ## Hepatic impairment
 
@@ -369,15 +365,17 @@ There are no data that support specific guidance for dose adjustment in patients
 
 In preclinical toxicity studies the most common effects noted included bone marrow depression, lymphoid atrophy and degenerative changes in the epithelium of the small and large intestines. Cardiovascular effects and haematological changes were observed in some species. Also, in rats testicular atrophy with decreased spermatogenesis occurred, while in dogs reversible spermatogenic arrest was noted.
 
-Hydroxycarbamide is unequivocally genotoxic in a wide range of test systems. Conventional long-term studies to evaluate the carcinogenic potential of hydroxycarbamide have not been performed. However, hydroxycarbamide is presumed to be a transspecies carcinogen.
+## Hydroxycarbamide is unequivocally genotoxic in a wide range of test systems.
+
+Conventional long-term studies to evaluate the carcinogenic potential of hydroxycarbamide have not been performed. However, hydroxycarbamide is presumed to be a transspecies carcinogen.
+
+<div style=\"page-break-after: always\"></div>
 
 Hydroxycarbamide crosses the placenta barrier and has been demonstrated to be a potent teratogen and embryotoxic in a wide variety of animal models at or below the human therapeutic dose. Teratogenicity was characterised by partially ossified cranial bones, absence of eye sockets, hydrocephaly, bipartite sternebrae, missing lumbar vertebrae. Embryotoxicity was characterized by decreased foetal viability, reduced live litter sizes, and developmental delays.
 
 Hydroxycarbamide administered to male rats at 60 mg/kg b.w./day (about double the recommended usual maximum dose in humans) produced testicular atrophy, decreased spermatogenesis and significantly reduced their ability to impregnate females.
 
 ## 6. PHARMACEUTICAL PARTICULARS
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.1 List of excipients
 
@@ -409,11 +407,11 @@ Siklos 1 000 mg film-coated tablet Pack size of 30 tablets.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Siklos is a medicinal product that must be handled with care. People who are not taking Siklos and in particular pregnant women should avoid being in contact with hydroxycarbamide.
-
-Anyone handling Siklos should wash their hands before and after contact with the tablets. Any unused product or waste material should be disposed of in accordance with local requirements.
+Siklos is a medicinal product that must be handled with care. People who are not taking Siklos and in particular pregnant women should avoid being in contact with hydroxycarbamide. Anyone handling Siklos should wash their hands before and after contact with the tablets. Any unused product or waste material should be disposed of in accordance with local requirements.
 
 In case the prescribed dose requires breaking the tablet in halves or quarters, this should be done out of the reach of food. Powder eventually spilled from the broken tablet should be wiped up with a damp disposable towel, which must be discarded.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -427,8 +425,6 @@ Fax: +33 1 73 72 94 13
 
 E-mail : question@theravia.com
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 Siklos 100 mg film-coated tablet
@@ -439,7 +435,9 @@ EU/1/07/397/003
 
 EU/1/07/397/004
 
-Siklos 1 000 mg film-coated tablet EU/1/07/397/001
+Siklos 1 000 mg film-coated tablet
+
+EU/1/07/397/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -456,9 +454,12 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -476,47 +477,47 @@ Medicinal product subject to restricted medical prescription (See Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing autorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 If the dates for submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
 
-## · Additional risk minimisation measures
+##  Additional risk minimisation measures
 
 The Marketing Authorisation Holder (MAH) shall ensure that all physicians who are expected to prescribe Siklos are provided with a physician information pack containing the following:
 
-- Treatment guide for physicians
-- Patient treatment guide
-- Dosing sheet (in countries where both strengths are available)
+-  Treatment guide for physicians
+-  Patient treatment guide
+-  Dosing sheet (in countries where both strengths are available)
 
 The treatment guide for physicians should contain the following key elements:
 
 <div style=\"page-break-after: always\"></div>
 
-- The Summary of Product Characteristics
-- Need for contraception
-- Risk to male and female fertility, potential risk to foetus and breast feedingManagement of adverse drug reactions
-- Risk of medication error due to the availability of two different strengths (where both strengths are available)
+-  The Summary of Product Characteristics
+-  Need for contraception
+-  Risk to male and female fertility, potential risk to foetus and breast feedingManagement of adverse drug reactions
+-  Risk of medication error due to the availability of two different strengths (where both strengths are available)
 
 The treatment guide for the patient should contain the following key elements:
 
-- Package leaflet
-- Handling of broken tablets
-- Need for contraception
-- Risk to male and female fertility, potential risk to foetus and breast feeding
-- Risk of medication error due to the availability of two different strengths (where both strengths are available)
+-  Package leaflet
+-  Handling of broken tablets
+-  Need for contraception
+-  Risk to male and female fertility, potential risk to foetus and breast feeding
+-  Risk of medication error due to the availability of two different strengths (where both strengths are available)
 
 If necessary, pharmacists should receive targeted communication on the risk of medication error due to the confusion between the two strengths where both are available.
 
@@ -540,7 +541,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Siklos 100 mg film-coated tablet hydroxycarbamide
+Siklos 100 mg film-coated tablet
+
+hydroxycarbamide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -584,8 +587,7 @@ Store below 30 °C.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -593,7 +595,9 @@ THERAVIA, 16 Rue Montrosier, 92200 Neuilly-sur-Seine, France
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/07/397/002 60 tablets EU/1/07/397/003 90 tablets
+EU/1/07/397/002 60 tablets
+
+EU/1/07/397/003 90 tablets
 
 EU/1/07/397/004 120 tablets
 
@@ -603,7 +607,7 @@ Lot:
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -623,17 +627,17 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| BOTTLE                                                           |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| BOTTLE                                                             |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Siklos 100 mg tablet hydroxycarbamide Oral use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHODOF ADMINISTRATION   |
+|------|---------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -645,8 +649,8 @@ EXP:
 
 Lot:
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
+|------|-------------------------------------|
 
 60 tablets 90 tablets 120 tablets
 
@@ -656,6 +660,8 @@ Lot:
 Cytotoxic
 
 20
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -705,13 +711,8 @@ Store below 30 °C.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
-
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OFUNUSEDMEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -728,7 +729,6 @@ Lot:
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 siklos 1 000 mg
@@ -739,9 +739,13 @@ siklos 1 000 mg
 
 ## 18. UNIQUE IDENTIFIER- HUMAN READABLE DATA
 
-PC: SN:
+PC:
+
+SN:
 
 NN:
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -783,17 +787,15 @@ EXP:
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Store below 30 °C.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OFUNUSEDMEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 THERAVIA
 
@@ -807,8 +809,8 @@ EU/1/07/397/001
 
 Lot:
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
 | 15.   | INSTRUCTIONS ON USE   |
 |-------|-----------------------|
@@ -820,9 +822,9 @@ Lot:
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: information for the user
 
 ## Siklos 100 mg film-coated tablet Siklos 1 000 mg film-coated tablet
 
@@ -861,8 +863,14 @@ The active substance of Siklos, hydroxycarbamide, is a substance which inhibits 
 - -if you are allergic to hydroxycarbamide or any of the other ingredients of this medicine (listed in section 6),
 - -if you suffer from severe liver disease,
 - -if you suffer from severe kidney disease,
-- -if you are myelosuppressed (if you have decreased production of red, white, or coagulating blood cells) as described in section 3 ' How to take Siklos, Treatment follow-up ' ,
-- -if you are breastfeeding (see section 'Pregnancy , breast-feeding and fertility ').
+
+-
+
+if you are myelosuppressed (if you have decreased production of red, white, or coagulating
+
+blood cells) as described in section 3 'How to take Siklos, Treatment follow-up',
+
+- -if you are breast-feeding (see section 'Pregnancy, breast-feeding and fertility').
 
 <div style=\"page-break-after: always\"></div>
 
@@ -877,6 +885,8 @@ Talk to your doctor or pharmacist or nurse before taking Siklos
 - -if you have a known lack of vitamin B12 or folate.
 
 If you experience (or have experienced) any of the above, please tell your doctor. If you have any question, please ask your doctor or pharmacist or nurse.
+
+If you experience persistent ocular symptoms such as redness and pain of the eyes, sensitivity to light, and/or reduced vision while taking hydroxycarbamide, please consult a doctor promptly because these can be indicative of a rare but serious ocular disease called limbal stem cell deficiency. See also section 4.
 
 Patients and/or parents or the legal responsible person must be able to follow directions regarding the administration of this medicine, their monitoring and care.
 
@@ -907,11 +917,11 @@ Hydroxycarbamide may decrease sperm production in male patients while they are b
 
 ## Driving and using machines
 
+<div style=\"page-break-after: always\"></div>
+
 Some people may experience dizziness when using Siklos. Do not drive or use any tools or machines if you experience dizziness whilst taking Siklos.
 
 ## 3. How to take Siklos
-
-<div style=\"page-break-after: always\"></div>
 
 Always take Siklos exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
 
@@ -923,9 +933,9 @@ The prescribed dose of Siklos must be taken once daily, preferably in the mornin
 
 If you cannot swallow the tablets, you can disintegrate them in water immediately before use :
 
-- Place the required dose (preferably broken if Siklos 1 000 mg tablet is used) in a teaspoon and add some water.
-- As soon as the tablet is disintegrated, swallow the content of the teaspoon. You can add a drop of syrup or mix the content with food to mask a possible bitter taste.
-- Then drink a large glass of water or any other drink.
+-  Place the required dose (preferably broken if Siklos 1 000 mg tablet is used) in a teaspoon and add some water.
+-  As soon as the tablet is disintegrated, swallow the content of the teaspoon. You can add a drop of syrup or mix the content with food to mask a possible bitter taste.
+-  Then drink a large glass of water or any other drink.
 
 ## Handling
 
@@ -954,11 +964,13 @@ If you take more Siklos than you should or if a child has taken any, contact you
 
 Do not take a double dose to make up for a forgotten tablet. Continue as normal when it is time to take the next dose as prescribed by your doctor.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you stop taking Siklos
 
-Do not stop your treatment unless advised by your doctor. If you have any further question on the use of this medicine, ask your doctor or pharmacist.
+Do not stop your treatment unless advised by your doctor.
 
-<div style=\"page-break-after: always\"></div>
+If you have any further question on the use of this medicine, ask your doctor or pharmacist.
 
 ## 4. Possible side effects
 
@@ -1003,17 +1015,17 @@ Wounds on the legs (leg ulcers), and modification of liver function.
 
 Inflammation of the skin causing red scaly patches and possibly occurring together with pain in the joints.
 
-Isolated cases of malignant disease of blood cells (leukaemia), skin cancer in elderly patients, bleeding, gastrointestinal disturbances, vomiting, skin dryness, fever, absence of menstrual cycles (amenorrhoea), and weight gain.
+Isolated cases of malignant disease of blood cells (leukaemia), skin cancer in elderly patients, bleeding, gastrointestinal disturbances, vomiting, skin dryness, fever, absence of menstrual cycles (amenorrhoea), eye disease causing redness and pain of the eyes, sensitivity to light, and/or reduced vision (limbal stem cell deficiency). See also section 2. and weight gain.
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How to store Siklos
 
 Keep this medicine out of the sight and reach of children.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not use Siklos after the expiry date which is stated on the carton and the bottle after EXP.
 
@@ -1037,7 +1049,7 @@ Each Siklos 1 000 mg film-coated tablet contains 1 000 mg hydroxycarbamide.
 
 Siklos 100 mg film-coated tablets are off-white, oblong-shaped tablets with a break line on both sides. The tablet can be divided into two equal parts.
 
-Each half of tablet is embossed ' H ' on one side.
+Each half of tablet is embossed 'H' on one side.
 
 Siklos 100 mg is supplied in plastic bottles containing 60, 90 or 120 tablets.
 
@@ -1045,25 +1057,25 @@ Siklos 1 000 mg film-coated tablets are off-white, capsule-shaped tablets marked
 
 All pack sizes may not be marketed.
 
-Marketing Authorisation Holder THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine France
+## Marketing Authorisation Holder
 
-## Manufacturer
+THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine France
 
-Delpharm Lille Parc d'Activités Roubaix -Est 22 rue de Toufflers CS 50070 59452 Lys-lez-Lannoy
+Manufacturer Parc d'Activités Roubaix-Est
 
-France
+Delpharm Lille 22 rue de Toufflers CS 50070 59452 Lys-lez-Lannoy
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-België/Belgique/Belgien Norgine N.V./S.A. Tél/Tel: +32 16 39 27 43 medinfo@norgine.com
-
-Lietuva THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine Prancūzija
+France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
+## België/Belgique/Belgien
+
+Norgine N.V./S.A. Tél/Tel: +32 16 39 27 43 medinfo@norgine.com
+
 ## България
 
-THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine Франция Tel: +33 (0)1 72 69 01 86
+THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Франция Tel: +33 (0)1 72 69 01 86
 
 ## Česká republika
 
@@ -1071,7 +1083,7 @@ THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Francie Tel: +33 (0)1 72 69
 
 ## Danmark
 
-Norgine Danmark A/S Kirsten Walthers Vej 8A - 2500 Valby -Danmark Tlf: 80200355
+Norgine Danmark A/S Tlf.: +4570715000 medinfo@norgine.com
 
 ## Deutschland
 
@@ -1085,27 +1097,27 @@ THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Prantsusmaa Tel: +33 (0)1 7
 
 ## Ελλάδα
 
-Specialty Therapeutics IKE Τηλ : +30 213 02 33 913
+Specialty Therapeutics IKE Τηλ: +30 213 02 33 913
 
 ## España
 
 Norgine de España, S.L.U. Tel: +34 913275320 medinfo@norgine.com
 
-## France
-
-THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine Tel: +33 (0)1 72 69 01 86
+France Norgine SAS Tél: +33 (0)1 41 39 93 90 medinfo@norgine.com
 
 ## Hrvatska
 
-THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine Tel: +33 (0)1 72 69 01 86
+## Lietuva
 
-Tel: +33 (0)1 72 69 01 86
+THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Prancūzija Tel: +33 (0)1 72 69 01 86
 
 ## Luxembourg/Luxemburg
 
 Norgine N.V./S.A. Tél/Tel: +32 16 39 27 43 medinfo@norgine.com
 
-Magyarország THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Franciaország Tel.: +33 (0)1 72 69 01 86
+## Magyarország
+
+THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Franciaország Tel.: +33 (0)1 72 69 01 86
 
 ## Malta
 
@@ -1117,7 +1129,9 @@ Norgine Pharma B.V. Tel: +31 20 567 0998 medinfo@norgine.com
 
 ## Norge
 
-Norgine Danmark A/S Kirsten Walthers Vej 8A - 2500 Valby -Danmark Tlf: 80031531
+Norgine Danmark A/S Tlf: +4570715000
+
+medinfo@norgine.com
 
 ## Österreich
 
@@ -1125,7 +1139,9 @@ THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Frankreich Tel: +33 (0)1 72
 
 ## Polska
 
-THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Francja Tel: +33 (0)1 72 69 01 86
+THERAVIA
+
+16 Rue Montrosier 92200 Neuilly-sur-Seine - Francja Tel: +33 (0)1 72 69 01 86
 
 ## Portugal
 
@@ -1133,9 +1149,9 @@ Norgine Portugal Farmacêutica Unipessoal, Lda. Tel:+35 1218945581 medinfo@norgi
 
 ## România
 
-THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine Franţa Tel: +33 (0)1 72 69 01 86
-
 <div style=\"page-break-after: always\"></div>
+
+THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine Tel: +33 (0)1 72 69 01 86
 
 ## Ireland
 
@@ -1155,7 +1171,7 @@ Tel: 800 959 161
 
 ## Κύπρος
 
-THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine Γαλλία Τηλ : +33 (0)1 72 69 01 86
+THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Γαλλία Τηλ: +33 (0)1 72 69 01 86
 
 ## Latvija
 
@@ -1164,6 +1180,8 @@ THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Francija Tel: +33 (0)1 72 6
 ## This leaflet was last revised in MM/YYYY .
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+
+THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Franţa Tel: +33 (0)1 72 69 01 86
 
 ## Slovenija
 
@@ -1175,8 +1193,12 @@ THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Francúzsko Tel: +33 (0)1 7
 
 ## Suomi/Finland
 
-Norgine Danmark A/S Kirsten Walthers Vej 8A 2500 Valby Tanska Tel: 0800392969
+Norgine Danmark A/S Puh/Tel: +4570715000
+
+medinfo@norgine.com
 
 ## Sverige
 
-Norgine Danmark A/S Kirsten Walthers Vej 8A - 2500 Valby Danmark Tel: +46(0)201604784
+Norgine Danmark A/S Tel: +4570715000
+
+medinfo@norgine.com

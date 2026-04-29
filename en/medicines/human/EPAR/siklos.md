@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-11 16:35:00
+document_datetime: 2026-04-28 16:38:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/siklos.html
 document_name: siklos.html
 version: success
-processing_time: 0.1012753
-conversion_datetime: 2026-02-13 18:57:02.692671
+processing_time: 0.1151338
+conversion_datetime: 2026-04-29 13:19:12.937295
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.2
-  docling: 2.73.1
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Search
 
@@ -96,11 +96,13 @@ docling_version:
 
 [RSS](/en/individual-human-medicine.xml/66649)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-hydroxycarbamide Medicine Human Authorised
+hydroxycarbamide
+
+Medicine Human Authorised
 
 Page contents
 
@@ -184,275 +186,141 @@ Siklos : EPAR - Summary for the public
 
 English (EN) (79.25 KB - PDF)
 
-**First published:** 10/08/2007
-
-**Last updated:** 27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/en/documents/overview/siklos-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-998)
+[Other languages (22)](#file-language-dropdown-454)
 
 български (BG) (109.59 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/bg/documents/overview/siklos-epar-summary-public_bg.pdf)
 
 español (ES) (79.63 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/es/documents/overview/siklos-epar-summary-public_es.pdf)
 
 čeština (CS) (105.91 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/cs/documents/overview/siklos-epar-summary-public_cs.pdf)
 
 dansk (DA) (78.74 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/da/documents/overview/siklos-epar-summary-public_da.pdf)
 
 Deutsch (DE) (103.83 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/de/documents/overview/siklos-epar-summary-public_de.pdf)
 
 eesti keel (ET) (79.91 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/et/documents/overview/siklos-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (112.53 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/el/documents/overview/siklos-epar-summary-public_el.pdf)
 
 français (FR) (82.56 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/fr/documents/overview/siklos-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (102.32 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/hr/documents/overview/siklos-epar-summary-public_hr.pdf)
 
 italiano (IT) (79.17 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/it/documents/overview/siklos-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (104.39 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/lv/documents/overview/siklos-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (104.69 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/lt/documents/overview/siklos-epar-summary-public_lt.pdf)
 
 magyar (HU) (103.52 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/hu/documents/overview/siklos-epar-summary-public_hu.pdf)
 
 Malti (MT) (110.27 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/mt/documents/overview/siklos-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (79.23 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/nl/documents/overview/siklos-epar-summary-public_nl.pdf)
 
 polski (PL) (106.93 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/pl/documents/overview/siklos-epar-summary-public_pl.pdf)
 
 português (PT) (79.91 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/pt/documents/overview/siklos-epar-summary-public_pt.pdf)
 
 română (RO) (105.87 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/ro/documents/overview/siklos-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (107.09 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/sk/documents/overview/siklos-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (100.95 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/sl/documents/overview/siklos-epar-summary-public_sl.pdf)
 
 Suomi (FI) (78.43 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/fi/documents/overview/siklos-epar-summary-public_fi.pdf)
 
 svenska (SV) (79.17 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-27/05/2014
+**First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/sv/documents/overview/siklos-epar-summary-public_sv.pdf)
 
@@ -468,305 +336,161 @@ English (EN) (296.17 KB - PDF)
 
 Siklos : EPAR - Product Information
 
-English (EN) (358.67 KB - PDF)
+English (EN) (685.98 KB - PDF)
 
-**First published:** 11/08/2008
-
-**Last updated:** 11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/en/documents/product-information/siklos-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-703)
+[Other languages (24)](#file-language-dropdown-234)
 
-български (BG) (451 KB - PDF)
+български (BG) (896.21 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/bg/documents/product-information/siklos-epar-product-information_bg.pdf)
 
-español (ES) (373.44 KB - PDF)
+español (ES) (721.98 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/es/documents/product-information/siklos-epar-product-information_es.pdf)
 
-čeština (CS) (390.73 KB - PDF)
+čeština (CS) (701.94 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/cs/documents/product-information/siklos-epar-product-information_cs.pdf)
 
-dansk (DA) (462.72 KB - PDF)
+dansk (DA) (698.08 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/da/documents/product-information/siklos-epar-product-information_da.pdf)
 
-Deutsch (DE) (412.9 KB - PDF)
+Deutsch (DE) (730.93 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/de/documents/product-information/siklos-epar-product-information_de.pdf)
 
-eesti keel (ET) (375.35 KB - PDF)
+eesti keel (ET) (688.14 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/et/documents/product-information/siklos-epar-product-information_et.pdf)
 
-ελληνικά (EL) (450.15 KB - PDF)
+ελληνικά (EL) (919.54 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/el/documents/product-information/siklos-epar-product-information_el.pdf)
 
-français (FR) (366.33 KB - PDF)
+français (FR) (701.02 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/fr/documents/product-information/siklos-epar-product-information_fr.pdf)
 
-hrvatski (HR) (383.56 KB - PDF)
+hrvatski (HR) (693.16 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/hr/documents/product-information/siklos-epar-product-information_hr.pdf)
 
-íslenska (IS) (364.08 KB - PDF)
+íslenska (IS) (654.27 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/is/documents/product-information/siklos-epar-product-information_is.pdf)
 
-italiano (IT) (355.44 KB - PDF)
+italiano (IT) (632.81 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/it/documents/product-information/siklos-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (403.46 KB - PDF)
+latviešu valoda (LV) (867.96 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/lv/documents/product-information/siklos-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (400.71 KB - PDF)
+lietuvių kalba (LT) (813.99 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/lt/documents/product-information/siklos-epar-product-information_lt.pdf)
 
-magyar (HU) (391.23 KB - PDF)
+magyar (HU) (708.24 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/hu/documents/product-information/siklos-epar-product-information_hu.pdf)
 
-Malti (MT) (422.36 KB - PDF)
+Malti (MT) (644.58 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/mt/documents/product-information/siklos-epar-product-information_mt.pdf)
 
-Nederlands (NL) (382.4 KB - PDF)
+Nederlands (NL) (718.34 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/nl/documents/product-information/siklos-epar-product-information_nl.pdf)
 
-norsk (NO) (364.37 KB - PDF)
+norsk (NO) (688.01 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/no/documents/product-information/siklos-epar-product-information_no.pdf)
 
-polski (PL) (400.04 KB - PDF)
+polski (PL) (717.03 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/pl/documents/product-information/siklos-epar-product-information_pl.pdf)
 
-português (PT) (404.72 KB - PDF)
+português (PT) (698.57 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/pt/documents/product-information/siklos-epar-product-information_pt.pdf)
 
-română (RO) (377.91 KB - PDF)
+română (RO) (697.99 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/ro/documents/product-information/siklos-epar-product-information_ro.pdf)
 
-slovenčina (SK) (387.96 KB - PDF)
+slovenčina (SK) (679.23 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/sk/documents/product-information/siklos-epar-product-information_sk.pdf)
 
-slovenščina (SL) (394.14 KB - PDF)
+slovenščina (SL) (711.86 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/sl/documents/product-information/siklos-epar-product-information_sl.pdf)
 
-Suomi (FI) (370.65 KB - PDF)
+Suomi (FI) (842.99 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/fi/documents/product-information/siklos-epar-product-information_fi.pdf)
 
-svenska (SV) (380.77 KB - PDF)
+svenska (SV) (692.72 KB - PDF)
 
-**First published:**
-
-11/08/2008
-
-**Last updated:**
-
-11/02/2026
+**First published:** 11/08/2008 **Last updated:** 28/04/2026
 
 [View](/sv/documents/product-information/siklos-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000326005 11/02/2026
+**Latest procedure affecting product information:** N/0000341113
+
+28/04/2026
 
 icon globe
 
@@ -786,293 +510,171 @@ Siklos : EPAR - All Authorised presentations
 
 English (EN) (53.56 KB - PDF)
 
-**First published:** 10/08/2007
-
-**Last updated:** 31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/en/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-293)
+[Other languages (23)](#file-language-dropdown-766)
 
 български (BG) (55.18 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/bg/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (53.65 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/es/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (52.09 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/cs/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (55.43 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/da/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (54 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/de/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (53.54 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/et/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (49.85 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/el/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (53.53 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/fr/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_fr.pdf)
 
 íslenska (IS) (53.08 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/is/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (52.29 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/it/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (55.12 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/lv/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (55.82 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/lt/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (53.58 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/hu/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (55.77 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/mt/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (53.64 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/nl/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (53.5 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/no/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (57.26 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/pl/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (53.4 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/pt/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (51.85 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/ro/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (54.49 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/sk/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (54.25 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/sl/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (52.78 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/fi/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (52.86 KB - PDF)
 
-**First published:**
-
-10/08/2007
-
-**Last updated:**
-
-31/03/2011
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/sv/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Siklos Active substance hydroxycarbamide International non-proprietary name (INN) or common name hydroxycarbamide Therapeutic area (MeSH) Anemia, Sickle Cell Anatomical therapeutic chemical (ATC) code L01XX05
+Name of medicine
+
+Siklos
+
+Active substance
+
+hydroxycarbamide
+
+International non-proprietary name (INN) or common name
+
+hydroxycarbamide
+
+Therapeutic area (MeSH)
+
+Anemia, Sickle Cell
+
+Anatomical therapeutic chemical (ATC) code
+
+L01XX05
 
 ### Pharmacotherapeutic group
 
@@ -1084,13 +686,23 @@ Siklos is indicated for the prevention of recurrent painful vaso-occlusive crise
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000689 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000689
+
+Marketing authorisation holder
 
 Theravia
 
 16 rue Montrosier
 
-Marketing authorisation issued 29/06/2007 Revision 29
+Marketing authorisation issued
+
+29/06/2007
+
+Revision
+
+31
 
 ## Assessment history
 
@@ -1102,11 +714,9 @@ Collapse section
 
 Siklos : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.19 KB - PDF)
+English (EN) (148.61 KB - PDF)
 
-**First published:** 30/09/2025
-
-**Last updated:** 11/02/2026
+**First published:** 30/09/2025 **Last updated:** 28/04/2026
 
 [View](/en/documents/procedural-steps-after/siklos-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1114,17 +724,23 @@ Siklos : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (203.71 KB - PDF)
 
-**First published:** 11/08/2008
-
-**Last updated:** 30/09/2025
+**First published:** 11/08/2008 **Last updated:** 30/09/2025
 
 [View](/en/documents/procedural-steps-after/siklos-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Siklos-PSUSA-00001692-202506 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-2830238
+
+English (EN) (166.24 KB - PDF)
+
+**First published:** 28/04/2026
+
+[View](/en/documents/scientific-conclusion/siklos-psusa-00001692-202506-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
+
 Questions and answers on the outcome of assessment on use of Siklos in the treatment of severe chronic anaemia in sickle cell syndrome
 
-Adopted
-
-Reference Number: EMA/412082/2021
+Adopted Reference Number: EMA/412082/2021
 
 English (EN) (102.32 KB - PDF)
 
@@ -1138,9 +754,7 @@ Reference Number: EMA/CHMP/86556/2014
 
 English (EN) (66.63 KB - PDF)
 
-**First published:** 27/05/2014
-
-**Last updated:** 27/05/2014
+**First published:** 27/05/2014 **Last updated:** 27/05/2014
 
 [View](/en/documents/scientific-conclusion/siklos-h-c-689-psuv-0020-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
@@ -1150,9 +764,7 @@ Siklos : EPAR - Scientific Discussion
 
 English (EN) (307.67 KB - PDF)
 
-**First published:** 10/08/2007
-
-**Last updated:** 10/08/2007
+**First published:** 10/08/2007 **Last updated:** 10/08/2007
 
 [View](/en/documents/scientific-discussion/siklos-epar-scientific-discussion_en.pdf)
 
@@ -1160,31 +772,31 @@ Siklos : EPAR - Procedural steps taken before authorisation
 
 English (EN) (29.71 KB - PDF)
 
-**First published:** 10/08/2007
-
-**Last updated:** 10/08/2007
+**First published:** 10/08/2007 **Last updated:** 10/08/2007
 
 [View](/en/documents/procedural-steps/siklos-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### News on Siklos
+## News on Siklos
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 July 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-july-2021) 23/07/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 July 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-july-2021)
 
-#### More information on Siklos
+23/07/2021
+
+## More information on Siklos
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu303154) on 9 July 2003. Siklos was withdrawn from the Community register of orphan medicinal products in July 2017 at the end of the 10-year period of market exclusivity.
 
-#### More information on Siklos
+## More information on Siklos
 
 - [European Sickle Cell Disease Cohort - Hydroxyurea - Extension study (ESCORT-HU Extension) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000066)
 - [ESCORT-HU : European Sickle Cell Disease Cohort - Hydroxyurea - post-authorisation study](https://catalogues.ema.europa.eu/study/33716)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 11/02/2026
+**This page was last updated on**
+
+28/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

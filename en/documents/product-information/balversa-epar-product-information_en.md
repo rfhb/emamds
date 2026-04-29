@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-02-19 12:36:46
+document_datetime: 2026-04-28 09:10:14
 document_pages: 48
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/balversa-epar-product-information_en.pdf
 document_name: balversa-epar-product-information_en.pdf
 version: success
-processing_time: 10.8219611
-conversion_datetime: 2025-12-23 20:21:32.982321
+processing_time: 10.5343277
+conversion_datetime: 2026-04-29 13:22:54.581419
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -111,11 +111,11 @@ Hyperphosphataemia is an expected, transient pharmacodynamic effect of FGFR inhi
 
 Table 2: Recommended dose modifications based on serum phosphate concentrations with the use of Balversa after up-titration
 
-| Serum phosphate concentration                                                                        | Balversa management                                                                                  |
-|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| For phosphate concentrations ≥5.5 mg/dL (1.75 mmol/L), restrict phosphate intake to 600- 800 mg/day. | For phosphate concentrations ≥5.5 mg/dL (1.75 mmol/L), restrict phosphate intake to 600- 800 mg/day. |
-| <6.99 mg/dL (<2.24 mmol/L)                                                                           | Continue Balversa at current dose.                                                                   |
-| 7.00-8.99 mg/dL (2.25-2.90 mmol/L)                                                                   | Continue Balversa treatment. Start phosphate binder with food until phosphate level is <7.00 mg/dL.  |
+| Serum phosphate concentration                                                                       | Balversa management                                                                                 |
+|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| For phosphate concentrations ≥5.5 mg/dL (1.75 mmol/L), restrict phosphate intake to 600-800 mg/day. | For phosphate concentrations ≥5.5 mg/dL (1.75 mmol/L), restrict phosphate intake to 600-800 mg/day. |
+| <6.99 mg/dL (<2.24 mmol/L)                                                                          | Continue Balversa at current dose.                                                                  |
+| 7.00-8.99 mg/dL (2.25-2.90 mmol/L)                                                                  | Continue Balversa treatment. Start phosphate binder with food until phosphate level is <7.00 mg/dL. |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -131,19 +131,16 @@ Treatment with Balversa should be discontinued or modified based on erdafitinib-
 
 Table 3: Guideline for management of eye disorders with use of Balversa
 
-| Severity grading                                                                                               | Balversa dose management                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 1 Asymptomatic or mild symptoms; clinical or diagnostic observations only, or abnormal Amsler grid test. | Refer for an ophthalmologic examination (OE). If an OE cannot be performed within 7 days, withhold Balversa until an OE can be performed. If no evidence of eye toxicity on OE, continue Balversa at same dose level. If diagnosis from OE is keratitis or retinal abnormality (e.g., CSR a ), withhold Balversa until resolution. If reversible in 4 weeks on OE, resume at next lower dose. Upon restarting Balversa, monitor for recurrence every 1-2 weeks for a month and as clinically appropriate thereafter. Consider dose re- escalation if no recurrence. |
-| Grade 2 Moderate; limiting age appropriate instrumental activities of daily living (ADL).                      | Immediately withhold Balversa and refer for an OE. If there is no evidence of eye toxicity, resume erdafitinib therapy at the next lower dose level upon resolution. If resolved (complete resolution or stabilisation and asymptomatic) within 4 weeks on OE, resume Balversa at the next lower dose level. Upon restarting Balversa, monitor for recurrence every 1 to 2 weeks for a month and as clinically appropriate thereafter.                                                                                                                              |
-| Grade 3                                                                                                        | Immediately withhold Balversa and refer for an OE.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Severity grading                                                                                               | Balversa dose management                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grade 1 Asymptomatic or mild symptoms; clinical or diagnostic observations only, or abnormal Amsler grid test. | Refer for an ophthalmologic examination (OE). If an OE cannot be performed within 7 days, withhold Balversa until an OE can be performed. If no evidence of eye toxicity on OE, continue Balversa at same dose level. If diagnosis from OE is keratitis or retinal abnormality (e.g., CSR a ), withhold Balversa until resolution. If reversible in 4 weeks on OE, resume at next lower dose. Upon restarting Balversa, monitor for recurrence every 1-2 weeks for a month and as clinically appropriate thereafter. Consider dose re-escalation if no recurrence. |
+| Grade 2 Moderate; limiting age appropriate instrumental activities of daily living (ADL).                      | Immediately withhold Balversa and refer for an OE. If there is no evidence of eye toxicity, resume erdafitinib therapy at the next lower dose level upon resolution. If resolved (complete resolution or stabilisation and asymptomatic) within 4 weeks on OE, resume Balversa at the next lower dose level. Upon restarting Balversa, monitor for recurrence every 1 to 2 weeks for a month and as clinically appropriate thereafter.                                                                                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-| Severe or medically significant but not immediate sight-threatening; limiting self-care ADL.   | If resolved (complete resolution or stabilisation and asymptomatic) within 4 weeks, then Balversa may be resumed at 2 dose levels lower. Upon restarting Balversa, monitor for recurrence every 1 to 2 weeks for a month and as clinically appropriate thereafter. Consider permanent discontinuation of Balversa for recurrence.   |
-|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 4 Sight-threatening consequences; blindness (20/200 or worse).                           | Permanently discontinue Balversa. Monitor until complete resolution or stabilisation.                                                                                                                                                                                                                                               |
-
-a CSR-central serous retinopathy, see section 4.4
+| Grade 3 Severe or medically significant but not immediate sight-threatening; limiting self-care ADL.   | Immediately withhold Balversa and refer for an OE. If resolved (complete resolution or stabilisation and asymptomatic) within 4 weeks, then Balversa may be resumed at 2 dose levels lower. Upon restarting Balversa, monitor for recurrence every 1 to 2 weeks for a month and as clinically appropriate thereafter. Consider permanent discontinuation of Balversa for recurrence.   |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grade 4 Sight-threatening consequences; blindness (20/200 or worse).                                   | Permanently discontinue Balversa. Monitor until complete resolution or stabilisation.                                                                                                                                                                                                                                                                                                  |
 
 ## Nail, skin, and mucosal changes
 
@@ -184,8 +181,6 @@ Table 4: Recommended dose modifications for nail, skin and mucosal adverse react
 | Grade 3                     | Withhold Balversa until toxicity resolves to Grade 1 or baseline, then may resume Balversa at the next lower dose. |
 | Grade 4                     | Permanently discontinue.                                                                                           |
 
-a Dose adjustment graded using the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAEv5.0).
-
 ## Special populations
 
 ## Renal impairment
@@ -204,7 +199,7 @@ Limited data are available in patients older than 85 years old.
 
 ## Paediatric population
 
-There is no relevant use of erdafitinib in the paediatric population for the treatment of urothelial carcinoma.
+There is no relevant use of erdafitinib in the paediatric population for the treatment of urothelial carcinoma. The safety and efficacy of erdafitinib in paediatric patients (&lt; 18 years of age) have not been established. Currently available safety data are described in section 4.8.
 
 ## Method of administration
 
@@ -222,11 +217,9 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 Prior to initiating Balversa, a baseline ophthalmological exam including an Amsler grid test, fundoscopy, visual acuity and, if available, an optical coherence tomography (OCT) should be performed.
 
-Balversa can cause ocular disorders, including central serous retinopathy (CSR) (a grouped term including retinal pigment epithelial detachment (RPED)) resulting in visual field defect (see sections 4.7 and 4.8). The overall incidence of central serous retinopathy was higher in patients
+Balversa can cause ocular disorders, including central serous retinopathy (CSR) (a grouped term including retinal pigment epithelial detachment (RPED)) resulting in visual field defect (see sections 4.7 and 4.8). The overall incidence of central serous retinopathy was higher in patients ≥65 years of age (33.3%) compared with patients &lt;65 years of age (28.8%). Events of RPED were reported more frequently in patients ≥65 years of age (6.3%) compared with patients &lt;65 years of age (2.1%). Close clinical monitoring is recommended in patients aged 65 years and older as well as with patients that have clinically significant medical eye disorders, such as retinal disorders, including but not limited to, central serous retinopathy, macular/retinal degeneration, diabetic retinopathy, and previous retinal detachment (see section 4.8).
 
 <div style=\"page-break-after: always\"></div>
-
-≥65 years of age (33.3%) compared with patients &lt;65 years of age (28.8%). Events of RPED were reported more frequently in patients ≥65 years of age (6.3%) compared with patients &lt;65 years of age (2.1%). Close clinical monitoring is recommended in patients aged 65 years and older as well as with patients that have clinically significant medical eye disorders, such as retinal disorders, including but not limited to, central serous retinopathy, macular/retinal degeneration, diabetic retinopathy, and previous retinal detachment (see section 4.8).
 
 Dry eye symptoms occurred in 16.7% of patients during treatment with Balversa and were Grade 3 or 4 in 0.3% of patients (see section 4.8). All patients should receive dry eye prophylaxis or treatment with ocular demulcents (for example artificial tear substitutes, hydrating or lubricating eye gels or ointment) at least every 2 hours during waking hours. Severe treatment-related dry eye should be evaluated by an ophthalmologist.
 
@@ -248,11 +241,9 @@ Caution is advised when administering Balversa with medicinal products known to 
 
 ## Hypophosphataemia
 
-Hypophosphataemia can occur during treatment with Balversa. Serum phosphate level should be monitored during erdafitinib treatment and erdafitinib treatment breaks. If the serum phosphate level falls below normal, phosphate-lowering therapy and dietary phosphate restrictions (if applicable) should be discontinued. Severe hypophosphataemia may present with confusion, seizures, focal neurologic findings, heart failure, respiratory failure, muscle weakness, rhabdomyolysis, and
+Hypophosphataemia can occur during treatment with Balversa. Serum phosphate level should be monitored during erdafitinib treatment and erdafitinib treatment breaks. If the serum phosphate level falls below normal, phosphate-lowering therapy and dietary phosphate restrictions (if applicable) should be discontinued. Severe hypophosphataemia may present with confusion, seizures, focal neurologic findings, heart failure, respiratory failure, muscle weakness, rhabdomyolysis, and haemolytic anaemia. For dose modifications see section 4.2. Hypophosphataemia reactions were Grade 3-4 in 1.0% of patients.
 
 <div style=\"page-break-after: always\"></div>
-
-haemolytic anaemia. For dose modifications see section 4.2. Hypophosphataemia reactions were Grade 3-4 in 1.0% of patients.
 
 ## Nail disorders
 
@@ -374,7 +365,7 @@ Balversa has moderate influence on the ability to drive and use machines. Eye di
 
 ## Summary of the safety profile
 
-The most common adverse reactions were hyperphosphataemia (78.5%), diarrhoea (55.5%), stomatitis (52.8%), dry mouth (39.9%), decreased appetite (31.7%), dry skin (28.0%), central serous retinopathy (28.0%), anaemia (28.2%), constipation (27.3%), dysgeusia (26.3%), palmar-plantar erythrodysaesthesia syndrome (PPES) (25.5%), alopecia (23.2%), asthenia (23.0%), alanine aminotransferase increased (21.7%), onycholysis (21.7%), fatigue (20.3%), nausea (18.6%), weight decreased (18.4%), aspartate aminotransferase increased (18.0%), dry eye (16.7%), nail discolouration (15.9%), vomiting (13.8%), blood creatinine increased (13.8%), hyponatraemia (13.4%), paronychia (12.5%), nail dystrophy (11.9%), onychomadesis (11.5%), epistaxis (10.6%), nail disorder (10.2%) and abdominal pain (10.0%).
+The most common adverse reactions were hyperphosphataemia (78.5%), diarrhoea (55.5%), stomatitis (52.8%), dry mouth (39.9%), decreased appetite (31.7%), anaemia (28.2%), dry skin (28.0%), central serous retinopathy (28.0%), constipation (27.3%), dysgeusia (26.3%), palmar-plantar erythrodysaesthesia syndrome (PPES) (25.5%), alopecia (23.2%), asthenia (23.0%), alanine aminotransferase increased (21.7%), onycholysis (21.7%), fatigue (20.3%), nausea (18.6%), weight decreased (18.4%), aspartate aminotransferase increased (18.0%), dry eye (16.7%), nail discolouration (15.9%), vomiting (13.8%), blood creatinine increased (13.8%), hyponatraemia (13.4%), paronychia (12.5%), nail dystrophy (11.9%), onychomadesis (11.5%), epistaxis (10.6%), nail disorder (10.2%) and abdominal pain (10.0%).
 
 Most common Grade 3 or higher ADRs were stomatitis (10.6%), hyponatraemia (8.8%), palmar-plantar erythrodysaesthesia syndrome (7.9%), onycholysis (4.8%), diarrhoea (4.0%), hyperphosphataemia (2.9%), decreased appetite (2.5%), and nail dystrophy (2.5%). Grade 3 or 4 related TEAEs (47.6% vs 43.5%) and related serious adverse events (14.6% vs 10.5%) were reported more frequently for patients 65 years and older versus patients &lt;65 years.
 
@@ -396,7 +387,7 @@ Table 6: Adverse reactions identified in clinical studies
 |------------------------------------|-------------|-------------------------------------------------------|
 | Endocrine disorders                | common      | hyperparathyroidism                                   |
 | Metabolism and nutrition disorders | very common | hyperphosphataemia, hyponatraemia, decreased appetite |
-| Metabolism and nutrition disorders | common      | Hypercalcaemia, hypophosphataemia                     |
+| Metabolism and nutrition disorders | common      | hypercalcaemia, hypophosphataemia                     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -427,7 +418,7 @@ b Stomatitis includes mouth ulceration.
 
 ## Central serous retinopathy (CSR)
 
-Adverse reactions of CSR were reported in 31.5% of patients with a median time to first onset, for an event of any grade, of 51 days (see section 4.4). The most commonly reported events were vision blurred, chorioretinopathy, detachment of RPE, visual acuity reduced, visual impairment, retinal detachment, retinopathy, and subretinal fluid. Grade 3 or 4 CSR was reported in 2.7% of patients. The majority of central serous retinopathy events occurred within the first 90 days of treatment. At the time of data cutoff, CSR had resolved for 43.0% of patients. In patients with CSR, 11.3% had dose interruptions and 14.6% had dose reductions. There were 3.3% of patients who discontinued Balversa due to: detachment of RPE (1.7%), chorioretinopathy ( 0.6%), visual acuity reduced (0.6%), maculopathy ( 0.4%), vision blurred (0.2%), visual impairment (0.2%), retinal detachment (0.2%), and subretinal fluid (0.2%).
+Adverse reactions of CSR were reported in 31.5% of patients with a median time to first onset, for an event of any grade, of 51 days (see section 4.4). The most commonly reported events were vision blurred, chorioretinopathy, detachment of RPE, visual acuity reduced, visual impairment, retinal detachment, retinopathy, and subretinal fluid. Grade 3 or 4 CSR was reported in 2.7% of patients. The majority of central serous retinopathy events occurred within the first 90 days of treatment. At the time of data cutoff, CSR had resolved for 43.0% of patients. In patients with CSR, 11.3% had dose interruptions and 14.6% had dose reductions. There were 3.3% of patients who discontinued Balversa due to: detachment of RPE (1.7%), chorioretinopathy (0.6%), visual acuity reduced (0.6%), maculopathy (0.4%), vision blurred (0.2%), visual impairment (0.2%), retinal detachment (0.2%), and subretinal fluid (0.2%).
 
 ## Other eye disorders
 
@@ -461,15 +452,19 @@ Erdafitinib can cause hypophosphataemia. Hypophosphataemia occurred in 5.6% of p
 
 Abnormal laboratory findings (other than hyperphosphataemia, which is described separately), occurred in 53.4% of patients. The most commonly reported laboratory abnormalities were anaemia (28.2% (135 patients); median time to onset 44 days, 38.5% (52/135) resolved), alanine aminotransferase increased (21.7% (104 patients); median time to onset 41 days; 75% (78/104) resolved), aspartate aminotransferase increased (18% (86 patients); median time to onset 37 days; 73.3% (63/86) resolved), blood creatinine increased (14.2% (68 patients); median time to onset 57 days; 44.1% (30/68) resolved), and hyponatraemia (13.4% (64 patients); median time to onset 55 days; 51.6% (33/64) resolved).
 
+## Paediatric population
+
+Growth acceleration and epiphysiolysis of the femoral head have been reported in paediatric patients (&lt; 18 years of age) receiving erdafitinib in clinical trials outside of the authorised indication and off label in the post-marketing setting.
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.9 Overdose
 
 There is no known specific antidote for Balversa overdose. In the event of an overdose, stop Balversa, undertake general supportive measures until clinical toxicity has diminished or resolved.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -497,9 +492,9 @@ In the study, eligible patients were required to have at least 1 of the followin
 
 In the study cohort, 99.2% of patients had FGFR genetic alterations (2 patients did not have FGFR alterations: 80.8% of patients had FGFR3 mutations, 16.5% of patients had FGFR3 fusions, and 1.9% of patients had both FGFR3 mutations and fusions). No patients were observed with FGFR2 alterations in this study cohort. A tumour harbouring susceptible FGFR3 genetic alterations is a tumour with at least 1 of the following FGFR fusions: FGFR3-TACC3, FGFR3-BAIAP2L1; or 1 of the following FGFR3 gene mutations: R248C, S249C, G370C, Y373C. All patients in the study cohort with FGFR alterations had at least 1 FGFR3 alteration. FGFR3-S249C was the most prevalent alteration (46.6%) followed by FGFR3-Y373C (16.9%), and FGFR3-TACC3 fusion (9.8%).
 
-The demographic characteristics were balanced across the erdafitinib and chemotherapy treatment groups. The median age at full-study screening was 67 years (range: 32 to 86 years). The majority of patients were 65 years or older: 19.9% 65 to 69 years; 19.9% 70 to 74 years; 21.1% 75 years or older. The majority of patients were male (71.4%), white (54.1%), and from Europe (60.9%).
-
 <div style=\"page-break-after: always\"></div>
+
+The demographic characteristics were balanced across the erdafitinib and chemotherapy treatment groups. The median age at full-study screening was 67 years (range: 32 to 86 years). The majority of patients were 65 years or older: 19.9% 65 to 69 years; 19.9% 70 to 74 years; 21.1% 75 years or older. The majority of patients were male (71.4%), white (54.1%), and from Europe (60.9%).
 
 All patients had transitional cell carcinoma, with a small percentage (5.3%) of patients having minor components (&lt;50% overall) of variant histology. The primary tumour location was the upper tract for 33.5% of patients and lower tract for 66.5%. Patients had baseline ECOG scores of 0 (42.9%), 1 (47.7%), or 2 (9.4%).
 
@@ -511,7 +506,7 @@ Treatment with erdafitinib showed a statistically significant improvement in OS 
 
 Efficacy results are summarised in Table 7.
 
-Table 7: Overview of Efficacy Results for Study BLC3001 Cohort 1
+Table 7: Overview of efficacy results for Study BLC3001 Cohort 1
 
 |                                                              | Erdafitinib (N=136)   | Chemotherapy (N=130)   |
 |--------------------------------------------------------------|-----------------------|------------------------|
@@ -548,7 +543,7 @@ In the clinical study of Balversa, 60.9% of patients were 65 years and older (39
 
 ## Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with erdafitinib in all subsets of the paediatric population in urothelial carcinoma (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with erdafitinib in all subsets of the paediatric population in urothelial carcinoma (see sections 4.2 and 4.8 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -592,11 +587,9 @@ No clinically meaningful differences in the pharmacokinetics of erdafitinib were
 
 ## Hepatic impairment
 
-The pharmacokinetics of erdafitinib was examined in participants with preexisting mild n=8) or moderate n=8) hepatic impairment (Child-Pugh Class A and B, respectively) and in healthy control participants with normal hepatic function (n=8). The total AUC∞ were 82% and 61% in participants with mild and moderate hepatic impairment compared with participants with normal hepatic function, respectively. The total C max were 83% and 74% in participants with mild and moderate hepatic impairment compared with participants with normal hepatic function, respectively. The free AUC∞ were 95% and 88% in participants with mild and moderate hepatic impairment compared with participants with normal hepatic function, respectively. The free C max were 96% and 105% in participants with mild and moderate hepatic impairment compared with participants with normal hepatic function, respectively. No clinically meaningful differences in the pharmacokinetics of
+The pharmacokinetics of erdafitinib was examined in participants with preexisting mild n=8) or moderate n=8) hepatic impairment (Child-Pugh Class A and B, respectively) and in healthy control participants with normal hepatic function (n=8). The total AUC∞ were 82% and 61% in participants with mild and moderate hepatic impairment compared with participants with normal hepatic function, respectively. The total C max were 83% and 74% in participants with mild and moderate hepatic impairment compared with participants with normal hepatic function, respectively. The free AUC∞ were 95% and 88% in participants with mild and moderate hepatic impairment compared with participants with normal hepatic function, respectively. The free C max were 96% and 105% in participants with mild and moderate hepatic impairment compared with participants with normal hepatic function, respectively. No clinically meaningful differences in the pharmacokinetics of erdafitinib were observed in subjects with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment and subjects with normal hepatic function. The pharmacokinetics of erdafitinib in subjects with severe hepatic impairment is unknown due to limited data.
 
 <div style=\"page-break-after: always\"></div>
-
-erdafitinib were observed in subjects with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment and subjects with normal hepatic function. The pharmacokinetics of erdafitinib in subjects with severe hepatic impairment is unknown due to limited data.
 
 ## Drug interactions
 
@@ -704,13 +697,15 @@ EU/1/24/1841/003
 
 EU/1/24/1841/004
 
-EU/1/24/1841/008 EU/1/24/1841/009 EU/1/24/1841/011
+EU/1/24/1841/008
 
-<div style=\"page-break-after: always\"></div>
+EU/1/24/1841/009
+
+EU/1/24/1841/011
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 22 August 2024
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -778,7 +773,7 @@ Balversa 3 mg film-coated tablets erdafitinib
 
 Each film-coated tablet contains 3 mg of erdafitinib.
 
-3. LIST OF EXCIPIENTS
+## 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -925,7 +920,7 @@ Each film-coated tablet contains 4 mg of erdafitinib.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-28 film-coated tablets
+- 28 film-coated tablets
 
 56 film-coated tablets
 
@@ -955,7 +950,9 @@ Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
+
+Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -979,7 +976,9 @@ balversa 4 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -1001,7 +1000,9 @@ Each tablet contains 4 mg of erdafitinib.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-28 tablets 56 tablets
+28 tablets
+
+56 tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1043,10 +1044,8 @@ EU/1/24/1841/008 28 tablets EU/1/24/1841/009 56 tablets
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1074,7 +1073,9 @@ Each film-coated tablet contains 5 mg of erdafitinib.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral Use. Swallow the tablet whole.
+Read the package leaflet before use.
+
+Oral Use. Swallow the tablet whole.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1156,7 +1157,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -1198,7 +1199,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-Balversa 3 mg film-coated tablets Balversa 4 mg film-coated tablets Balversa 5 mg film-coated tablets erdafitinib
+Balversa 3 mg film-coated tablets Balversa 4 mg film-coated tablets Balversa 5 mg film-coated tablets
+
+erdafitinib
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -1296,7 +1299,7 @@ When taking Balversa you may experience dry mouth and or mouth sores. You should
 
 ## Children and adolescents
 
-This medicine is not for use in children and adolescents. This is because there is no experience with using Balversa in this age group.
+This medicine is not for use in children and adolescents. This is because there is limited experience with using Balversa in this age group. See section 4 for more information.
 
 ## Other medicines and Balversa
 
@@ -1473,7 +1476,9 @@ The following symptoms may be signs of mucosal disorders:
 
 Tell your doctor immediately if you notice any of the above signs of 'central serous retinopathy',
 
-'hyperphosphataemia', 'nail disorders', 'skin disorders' or 'mucosal disorders'. Your doctor may ask you to stop taking Balversa or send you to a specialist if you have eye or sight problems.
+'hyperphosphataemia', 'nail disorders', 'skin disorders' or 'mucosal disorders'. Your doctor may ask you to stop taking Balversa or send you to a specialist if you have eye or
+
+sight problems.
 
 ## Other side effects may occur with the following frequencies:
 
@@ -1537,6 +1542,10 @@ Very common (may affect more than 1 in 10 people):
 
 Talk to your doctor if you get any of the above side effects.
 
+## Additional side effects in children and adolescents
+
+Balversa may cause accelerated growth or irregular hip joint growth or damage in paediatric patients (&lt; 18 years of age). If you or your child experience pain in the hip or knee or have an unexplained limp, talk to your doctor.
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
@@ -1599,11 +1608,7 @@ Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## Manufacturer
 
-Janssen Cilag SpA Via C. Janssen Borgo San Michele Latina 04100 Italy
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Janssen Cilag SpA Via C. Janssen Borgo San Michele Latina 04100 Italy For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -1652,6 +1657,8 @@ medisource@its.jnj.com
 ## Hrvatska
 
 Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## Lietuva
 
@@ -1706,8 +1713,6 @@ Tel: +40 21 207 1800
 Janssen Sciences Ireland UC
 
 Tel: 1 800 709 122
-
-medinfo@its.jnj.com
 
 ## Ísland
 

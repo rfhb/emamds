@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-18 10:44:20
-document_pages: 36
+document_datetime: 2026-04-28 16:24:09
+document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xromi-epar-product-information_en.pdf
 document_name: xromi-epar-product-information_en.pdf
 version: success
-processing_time: 7.0605705
-conversion_datetime: 2025-12-14 14:51:44.156296
+processing_time: 8.3022984
+conversion_datetime: 2026-04-29 13:17:53.893834
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,7 +56,7 @@ The posology should be based on the patient's body weight (kg).
 
 The usual starting dose of hydroxycarbamide is 15 mg/kg/day and the usual maintenance dose is between 20-25 mg/kg/day. The maximum dose is 35 mg/kg/day. Full blood cell count with white cell differential and reticulocyte count should be monitored once a month for the first 2 months following treatment initiation.
 
-A target absolute neutrophil count 1,500 - 4,000/ μL should be aimed for, whilst maintaining platelet count &gt; 80,000/ μL. If neutropenia or thrombocytopenia occurs, hydroxycarbamide dosing should be temporarily withheld and full blood cell count with white cell differential should be monitored weekly. When blood counts have recovered, hydroxycarbamide should be reinstated at a dose 5 mg/kg/day lower than the dose given before onset of cytopenias.
+A target absolute neutrophil count 1,500 - 4,000/ μL should be aimed for, whilst maintaining platelet count &gt; 80,000/ μL . If neutropenia or thrombocytopenia occurs, hydroxycarbamide dosing should be temporarily withheld and full blood cell count with white cell differential should be monitored weekly. When blood counts have recovered, hydroxycarbamide should be reinstated at a dose 5 mg/kg/day lower than the dose given before onset of cytopenias.
 
 If dose escalation is warranted based on clinical and laboratory findings, the following steps should be taken:
 
@@ -124,7 +124,7 @@ Breast-feeding (see section 4.6).
 
 Pregnancy (see section 4.6)
 
-Concomitant antiretroviral medicinal products for HIV disease (see sections 4.4 and 4.5)
+Concomitant anti-retroviral medicinal products for HIV disease (see sections 4.4 and 4.5)
 
 ## 4.4 Special warnings and precautions for use
 
@@ -150,13 +150,13 @@ Blood parameters for renal and hepatic impairment should be closely monitored, a
 
 ## HIV patients
 
-Hydroxycarbamide must not be used in combination with antiretroviral medicinal products for HIV disease and it may cause treatment failure and toxicities (in some cases fatal) in HIV patients (see sections 4.3 and 4.5).
+Hydroxycarbamide must not be used in combination with anti-retroviral medicinal products for HIV disease and it may cause treatment failure and toxicities (in some cases fatal) in HIV patients (see sections 4.3 and 4.5).
 
 <div style=\"page-break-after: always\"></div>
 
 ## Secondary leukaemia and skin cancer
 
-In patients receiving long -term therapy with hydroxycarbamide for myeloproliferative disorders, such as polycytha emia, secondary leukaemia has been reported. It is unknown whether this leukaemogenic effect is secondary to hydroxycarbamide or associated with the patient's underlying disease. Skin cancer has been reported in patients receiving long-term hydroxycarbamide. Patients should be advised to protect skin from sun exposure. In addition patients should conduct self - inspection of the skin during the treatment and after discontinuation of the therapy with hydroxycarbamide and be screened for secondary malignancies during routine follow-up visits.
+In patients receiving long-term therapy with hydroxycarbamide for myeloproliferative disorders, such as polycythaemia, secondary leukaemia has been reported. It is unknown whether this leukaemogenic effect is secondary to hydroxycarbamide or associated with the patient's underlying disease. Skin cancer has been reported in patients receiving long-term hydroxycarbamide. Patients should be advised to protect skin from sun exposure. In addition patients should conduct self - inspection of the skin during the treatment and after discontinuation of the therapy with hydroxycarbamide and be screened for secondary malignancies during routine follow-up visits.
 
 ## Cutaneous vasculitic toxicities
 
@@ -174,6 +174,10 @@ In patients with leg ulcers, hydroxycarbamide should be used with caution. Leg u
 
 Hydroxycarbamide is unequivocally genotoxic in a wide range of test systems. Hydroxycarbamide is presumed to be a transspecies carcinogen (see section 5.3).
 
+## Limbal stem cell deficiency
+
+Cases of limbal stem cell deficiency have been reported during treatment with hydroxycarbamide. In some cases, limbal stem cell deficiency improved after treatment discontinuation. Patients presenting with relevant signs and symptoms (reduced/impaired vision, photophobia, redness, and pain) should be referred to an ophthalmologist. If limbal stem cell deficiency is confirmed, discontinuation of the treatment should be considered.
+
 ## Safe handling of the solution
 
 Parents and care givers should avoid hydroxycarbamide contact with skin or mucous membrane. If the solution comes into contact with skin or mucosa, it should be washed immediately and thoroughly with soap and water (see section 6.6).
@@ -186,17 +190,21 @@ This medicinal product contains methyl parahydroxybenzoate (E218) which may caus
 
 The myelosuppressive activity may be potentiated by previous or concomitant radiotherapy or cytotoxic therapy.
 
-Concurrent use of hydroxycarbamide and other myelosuppressive medicinal products or radiation therapy may increase bone marrow depression, gastro-intestinal disturbances or mucositis. An erythema caused by radiation therapy may be aggravated by hydroxycarbamide.
-
-Patients must not be treated with hydroxycarbamide and anti-retroviral medicinal products concurrently (see sections 4.3 and 4.4).
-
-Fatal and nonfatal pancreatitis has occurred in HIV -infected patients during therapy with hydroxycarbamide and didanosine, with or without stavudine.
-
 <div style=\"page-break-after: always\"></div>
 
-Hepatotoxicity and hepatic failure resulting in death were reported during post-marketing surveillance in HIV -infected patients treated with hydroxycarbamide and other antiretroviral medicinal products. Fatal hepatic events were reported most often in patients treated with the combination of hydroxycarbamide, didanosine, and stavudine.
+Concurrent use of hydroxycarbamide and other myelosuppressive medicinal products or radiation therapy may increase bone marrow depression, gastro-intestinal disturbances or mucositis. An
 
-Peripheral neuropathy, which was severe in some cases, has been reported in HIV -infected patients receiving hydroxycarbamide in combination with anti-retroviral medicinal products, including didanosine, with or without stavudine (see section 4.4).
+erythema caused by radiation therapy may be aggravated by hydroxycarbamide. Patients must not be treated with hydroxycarbamide and anti-retroviral medicinal products
+
+concurrently (see sections 4.3 and 4.4).
+
+Fatal and non-fatal pancreatitis has occurred in HIV-infected patients during therapy with hydroxycarbamide and didanosine, with or without stavudine.
+
+Hepatotoxicity and hepatic failure resulting in death were reported during post-marketing surveillance in HIV-infected patients treated with hydroxycarbamide and other antiretroviral medicinal products.
+
+Fatal hepatic events were reported most often in patients treated with the combination of hydroxycarbamide, didanosine, and stavudine.
+
+Peripheral neuropathy, which was severe in some cases, has been reported in HIV-infected patients receiving hydroxycarbamide in combination with anti-retroviral medicinal products, including didanosine, with or without stavudine (see section 4.4).
 
 Patients treated with hydroxycarbamide in combination with didanosine, stavudine, and indinavir showed a median decline in CD4 cells of approximately 100/ mm 3 .
 
@@ -226,11 +234,11 @@ Both male and female patients should be advised to use contraceptive measures be
 
 Studies in animals have shown reproductive toxicity (see section 5.3). Patients on hydroxycarbamide should be made aware of the risks to the foetus.
 
+<div style=\"page-break-after: always\"></div>
+
 There is limited amount of data from the use of hydroxycarbamide in pregnant women.
 
 Hydroxycarbamide can cause foetal harm when administered to a pregnant woman. Therefore it must not be administered to patients who are pregnant.
-
-<div style=\"page-break-after: always\"></div>
 
 Patients on hydroxycarbamide wishing to conceive should stop treatment 3 to 6 months before pregnancy if possible.
 
@@ -279,17 +287,19 @@ Table 1: Adverse reactions
 | Blood and lymphatic system disorders                                     | Common      | Thrombocytopenia (< 80,000 / μL ), anaemia (haemoglobin < 4.5 g/dl)                                            |
 | Metabolism and nutrition disorders                                       | Not known   | Weight gain, vitamin D deficiency                                                                              |
 | Nervous system disorders                                                 | Common      | Headache, dizziness                                                                                            |
-| Vascular disorders                                                       | Not known   | Bleeding                                                                                                       |
-| Gastrointestinal disorders                                               | Common      | Nausea, constipation                                                                                           |
-| Gastrointestinal disorders                                               | Uncommon    | Stomatitis, diarrhoea, vomiting                                                                                |
-| Gastrointestinal disorders                                               | Not known   | Gastrointestinal disturbances, gastrointestinal ulcer, severe hypomagnesaemia                                  |
+| Eye disorders                                                            | Not known   | Limbal stem cell deficiency                                                                                    |
+| Vascular disorders Gastrointestinal disorders                            | Not known   | Bleeding                                                                                                       |
+| Vascular disorders Gastrointestinal disorders                            | Common      | Nausea, constipation                                                                                           |
+| Vascular disorders Gastrointestinal disorders                            | Uncommon    | Stomatitis, diarrhoea, vomiting                                                                                |
+| Vascular disorders Gastrointestinal disorders                            | Not known   | Gastrointestinal disturbances, gastrointestinal ulcer, severe hypomagnesaemia                                  |
 | Hepatobiliary disorders                                                  | Uncommon    | Elevated liver enzymes, Hepatotoxicity                                                                         |
 | Skin and subcutaneous tissue disorders                                   | Common      | Skin ulcer, oral, nail and skin hyperpigmentation, dry skin, alopecia                                          |
 | Skin and subcutaneous tissue disorders                                   | Uncommon    | Rash                                                                                                           |
 | Skin and subcutaneous tissue disorders                                   | Rare        | Leg ulcers                                                                                                     |
 | Skin and subcutaneous tissue disorders                                   | Very Rare   | Systemic and cutaneous lupus erythematosus                                                                     |
-| Reproductive system and breast disorders                                 | Very common | Oligospermia, azoospermia                                                                                      |
-| Reproductive system and breast disorders                                 | Not known   | Amenorrhea                                                                                                     |
+| Skin and subcutaneous tissue disorders                                   | Very common | Oligospermia, azoospermia                                                                                      |
+| Reproductive system and breast disorders                                 |             | Amenorrhea                                                                                                     |
+| Reproductive system and breast disorders                                 | Not known   |                                                                                                                |
 | General disorders and administration site conditions                     | Not known   | Fever                                                                                                          |
 
 ## Description of selected adverse reactions
@@ -308,7 +318,7 @@ Oligospermia and azoospermia caused by hydroxycarbamide are in general reversibl
 
 Frequency, type and severity of adverse reactions in children are expected to be similar to adults. Data from an observational study (ESCORT-HU) of hydroxycarbamide in a large set of patients (n=1 906) with sickle cell disease showed that patients aged 2 to 10 years were at higher risk for neutropenia and at lower risk for dry skin, alopecia, headache and anaemia. Patients aged 10 to 18 years were at lower risk for dry skin, skin ulcer, alopecia, weight increase and anaemia compared to adults.
 
-Safety data in children under the age of 2 years is limited. The BABY HUG trial, a phase III double -blinded, multi-centre, randomised, controlled study in infants aged 9 - 18 months, compared fixed moderate dose hydroxycarbamide at 20 mg/kg/day with placebo (Wang et al. 2011). Mild-to-moderate neutropenia (absolute neutrophil count [ANC] 500-1249/ μL), occurred more frequently in the hydroxycarbamide group; 107 times in 45 participants versus 34 times in 18 participants in the placebo group. Recurrent or persistent neutropenia resulted in nine long-term dose decreases (to 17·5 mg/kg per day) in the hydroxycarbamide group and five in the placebo group (p=0·20).  Infants treated with hydroxycarbamide did not have significant differences from those treated with placebo in rates of severe neutropenia (ANC &lt;500/ µL), thrombocytopenia (platelet count &lt;80,000/ µL), anaemia (haemoglobin  &lt;7 g/dL), reticulocytopenia (absolute reticulocyte count  &lt;80,000/ µL), or abnormal tests of liver function (alanine aminotransferase  &gt;150 units/L or bilirubin &gt;10 mg/dL).
+Safety data in children under the age of 2 years is limited. The BABY HUG trial, a phase III doubleblinded, multi-centre, randomised, controlled study in infants aged 9 - 18 months, compared fixed moderate dose hydroxycarbamide at 20 mg/kg/day with placebo (Wang et al. 2011). Mild-to-moderate neutropenia (absolute neutrophil count [ANC] 500-1249/ μL), occurred more frequently in the hydroxycarbamide group; 107 times in 45 participants versus 34 times in 18 participants in the placebo group. Recurrent or persistent neutropenia resulted in nine long-term dose decreases (to 17·5 mg/kg per day) in the hydroxycarbamide group and five in the placebo group (p=0·20).  Infants treated with hydroxycarbamide did not have significant differences from those treated with placebo in rates of severe neutropenia (ANC &lt;500/ µL), thrombocytopenia (platelet count &lt;80,000/ µL), anaemia (haemoglobin  &lt;7 g/dL), reticulocytopenia (absolute reticulocyte count  &lt;80,000/ µL), or abnormal tests of liver function (alanine aminotransferase  &gt;150 units/L or bilirubin &gt;10 mg/dL).
 
 The safety of Xromi has been assessed in 32 children aged 9 months - 18 years with sickle cell anaemia in a single-arm, open-label, prospective, multi-center, pharmacokinetic, safety and efficacy study (HUPK study). The total number of hydroxycarbamide-related adverse events was 28 (8.3%) in 9 (28%) patients. Haematological toxicity dominated with 21 reports (75%) of cytopenias and then skin and subcutaneous disorders (5 reports; 18%). The 9 months to 2 year age group had 19 related events (29.2%), a higher proportion compared to the 2 to 6 year group (5 events; 3.4% ) and 6 to 16 year group (4 events; 3.2%). The reported cytopenias were typically isolated, transient and benign.
 
@@ -372,7 +382,7 @@ In keeping with the mechanism of action of hydroxycarbamide, the MSH study also 
 
 A randomized cross-over study was conducted in 25 children and young adults (age range: 2 to 22 years) with homozygous sickle cell anaemia and severe clinical manifestations (defined as &gt; 3 vaso- occlusive crises in the year before study entry and/or with previous history of stroke, acute chest syndrome, recurrent crises without a free interval, or splenic sequestration). The primary outcome measure of the study was the number and duration of hospitalisations. Patients were randomly assigned to receive either hydroxycarbamide first for 6 months, followed by placebo for 6 months, or placebo first, followed by hydroxycarbamide for 6 months. Hydroxycarbamide was administered at an initial dose of 20 mg/kg/day. The dose was increased to 25 mg/kg per day if change in HbF was &lt;2% after 2 months. Dose was reduced by 50% for bone marrow toxicity.
 
-The study reported 16 patients out of 22 (73%) did not require any hospitalisation for painful episodes when treated with hydroxycarbamide as compared with only 3 of 22 (14%) when treated with placebo. In addition, there was a reduction in mean hospital st ay; 5.3 days in the hydroxycarbamide group and 15.2 days in the placebo group. There were no deaths reported in the study. An increase in HbF and a decrease in absolute neutrophil count were reported in the hydroxycarbamide group. Similarly after six months of treatment, haemoglobin and MCV increased significantly whilst platelet count and white blood cells (WBC) decreased significantly in the hydroxycarbamide group. Results of this study are presented in Tables 2 and 3 below.
+The study reported 16 patients out of 22 (73%) did not require any hospitalisation for painful episodes when treated with hydroxycarbamide as compared with only 3 of 22 (14%) when treated with placebo. In addition, there was a reduction in mean hospital stay; 5.3 days in the hydroxycarbamide group and 15.2 days in the placebo group. There were no deaths reported in the study. An increase in HbF and a decrease in absolute neutrophil count were reported in the hydroxycarbamide group. Similarly after six months of treatment, haemoglobin and MCV increased significantly whilst platelet count and white blood cells (WBC) decreased significantly in the hydroxycarbamide group. Results of this study are presented in Tables 2 and 3 below.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -407,7 +417,7 @@ Table 3: Mean haematologic values before and after 6 months of treatment with hy
 
 Low fixed dose hydroxycarbamide in children with Sickle Cell Disease (Jain et al 2012)
 
-In a randomised, double-blind, placebocontrolled study conducted in a tertiary hospital in India, 60 children (aged 5- 18 years) with three or more blood transfusions or vaso-occlusive crises requiring hospitalisation per year, were randomised to fixed dose 10 mg/mg per day hydroxycarbamide (n=30) or to a matched placebo (n=30). The primary outcome was the decrease in the frequency of vaso-occlusive crises per patient per year. Secondary outcomes included the decrease in frequency of blood transfusions and hospitalizations, and increase in HbF levels.
+In a randomised, double-blind, placebo-controlled study conducted in a tertiary hospital in India, 60 children (aged 5- 18 years) with three or more blood transfusions or vaso-occlusive crises requiring hospitalisation per year, were randomised to fixed dose 10 mg/mg per day hydroxycarbamide (n=30) or to a matched placebo (n=30). The primary outcome was the decrease in the frequency of vaso-occlusive crises per patient per year. Secondary outcomes included the decrease in frequency of blood transfusions and hospitalizations, and increase in HbF levels.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -430,7 +440,7 @@ Table 4: Comparison of the number of clinical events before and after interventi
 
 ## Efficacy and safety in infants (BABY HUG study)
 
-BABY HUG was a phase III double -blinded, multi-centre, randomised, placebo-controlled study in infants aged 9 - 18 months. Subjects received oral liquid hydroxycarbamide 20 mg/kg/day without escalation, or placebo for two years. Infants were initially monitored every 2 weeks for adverse events and laboratory toxicities until tolerability of the dose was confirmed, then every 4 weeks. Primary study endpoints were splenic function (qualitative uptake on 99mTc spleen scan) and renal function (glomerular filtration rate by 99mTc-DTPA clearance). Additional evaluations included blood counts, HbF, chemistry profiles, spleen function biomarkers, urine osmolality, neurodevelopment, TCD ultrasonography, growth, and mutagenicity. Ninety-six subjects received hydroxycarbamide and 97 placebo; 86% completed the study.
+BABY HUG was a phase III double-blinded, multi-centre, randomised, placebo-controlled study in infants aged 9 - 18 months. Subjects received oral liquid hydroxycarbamide 20 mg/kg/day without escalation, or placebo for two years. Infants were initially monitored every 2 weeks for adverse events and laboratory toxicities until tolerability of the dose was confirmed, then every 4 weeks. Primary study endpoints were splenic function (qualitative uptake on 99mTc spleen scan) and renal function (glomerular filtration rate by 99mTc-DTPA clearance). Additional evaluations included blood counts, HbF, chemistry profiles, spleen function biomarkers, urine osmolality, neurodevelopment, TCD ultrasonography, growth, and mutagenicity. Ninety-six subjects received hydroxycarbamide and 97 placebo; 86% completed the study.
 
 Regarding primary endpoints, 19 of 70 patients had decreased spleen function at exit in the hydroxycarbamide group vs 28 of 74 patients in the placebo group and a difference in the mean increase in DTPA glomerular filtration rate in the hydroxycarbamide group versus the placebo group of 2 mL/min per 1·73 m². Regarding secondary endpoints, the following were observed: 177 events of pain in 62 patients in the hydroxycarbamide group vs 375 events in 75 patients in the placebo group and 24 events of dactylitis in 14 patients in the hydroxycarbamide group vs 123 events in 42 patients in the placebo group. Haemoglobin and foetal haemoglobin increased in the hydroxycarbamide group compared to the placebo group, whereas the white blood-cell count decreased. The difference in the endpoints between groups was not statistically significant. Toxicity included mild-to-moderate neutropenia.
 
@@ -440,7 +450,7 @@ Transcranial Doppler (TCD) with Transfusions Changing to Hydroxycarbamide (TWiTC
 
 <div style=\"page-break-after: always\"></div>
 
-Subjects assigned to standard treatment (n = 61) continued to receive monthly blood transfusions to maintain 30% HbS or lower, while those assigned to the alternative treatment (n = 60), after having received blood transfusions for a mean duration of 4.5 years (±2.8), started oral hydroxycarbamide at 20 mg/kg/day, which was escalated to each participant's maximum tolerated dose. This study used a non-inferiority study design with a primary endpoint of TCD velocity at 24 months, controlling for baseline (enrolment) values. The non-inferiority margin was 15 cm/s. At the first scheduled interim analysis, non-inferiority was shown and the sponsor terminated the study. Final model-based TCD velocities were 143 cm/s (95% CI 140-146) in children who received standard transfusions and 138 cm/s (95% CI 135-142) in those who received hydroxycarbamide, with a difference of 4.54 cm/s (95% CI 0.10-8.98). Non-inferiority (p = 8.82×10 -16 ) and post-hoc superiority (p = 0.023) were met. There was no difference in lifethreatening neurological events between the treatment groups. Iron overload improved more in the hydroxycarbamide than the transfusion arm, with a greater average change in serum ferritin (-1805 versus -38 ng/mL; p &lt; 0.0001) and liver iron concentration (average = -1.9 mg/g versus +2.4 mg/g dry weight liver; p = 0.0011).
+Subjects assigned to standard treatment (n = 61) continued to receive monthly blood transfusions to maintain 30% HbS or lower, while those assigned to the alternative treatment (n = 60), after having received blood transfusions for a mean duration of 4.5 years (±2.8), started oral hydroxycarbamide at 20 mg/kg/day, which was escalated to each participant's maximum tolerated dose. This study used a non-inferiority study design with a primary endpoint of TCD velocity at 24 months, controlling for baseline (enrolment) values. The non-inferiority margin was 15 cm/s. At the first scheduled interim analysis, non-inferiority was shown and the sponsor terminated the study. Final model-based TCD velocities were 143 cm/s (95% CI 140-146) in children who received standard transfusions and 138 cm/s (95% CI 135-142) in those who received hydroxycarbamide, with a difference of 4.54 cm/s (95% CI 0.10-8.98). Non-inferiority (p = 8.82×10 -16 ) and post-hoc superiority (p = 0.023) were met. There was no difference in life-threatening neurological events between the treatment groups. Iron overload improved more in the hydroxycarbamide than the transfusion arm, with a greater average change in serum ferritin (-1805 versus -38 ng/mL; p &lt; 0.0001) and liver iron concentration (average = -1.9 mg/g versus +2.4 mg/g dry weight liver; p = 0.0011).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -458,7 +468,7 @@ Hydroxycarbamide distributes rapidly throughout the human body, enters the cereb
 
 ## Biotransformation
 
-It appears that nitroxyl , the corresponding carboxylic acid and nitric oxide are metabolites: Urea has also been shown to be a metabolite of hydroxycarbamide. Hydroxycarbamide at 30, 100 and 300 µM is not metabolised in vitro by cytochrome P450s of human liver microsomes. At concentrations ranging from 10 to 300 µM, hydroxycarbamide does not stimulate the in vitro ATPase activity of recombinant human P glycoprotein (P-gp), indicating that hydroxycarbamide is not a P-gp substrate. Hence, no interaction is to be expected in case of concomitant administration with substances being substrates of cytochromes P450 or P-gp.
+It appears that nitroxyl, the corresponding carboxylic acid and nitric oxide are metabolites: Urea has also been shown to be a metabolite of hydroxycarbamide. Hydroxycarbamide at 30, 100 and 300 µM is not metabolised in vitro by cytochrome P450s of human liver microsomes. At concentrations ranging from 10 to 300 µM, hydroxycarbamide does not stimulate the in vitro ATPase activity of recombinant human P glycoprotein (P-gp), indicating that hydroxycarbamide is not a P-gp substrate. Hence, no interaction is to be expected in case of concomitant administration with substances being substrates of cytochromes P450 or P-gp.
 
 ## Elimination
 
@@ -468,9 +478,9 @@ The total body clearance of hydroxycarbamide in adult patients with Sickle Cell 
 
 ## The respective value in children was similar, 0.22 L/h/kg.
 
-A significant fraction of hydroxycarbamide is eliminated by nonrenal (mainly hepatic) mechanisms. In adults, the urinary recovery of unchanged drug is reported to be approximately 37% of the oral dose when renal function is normal. In children, the fractio n of hydroxycarbamide excreted unchanged into the urine comprised about 50%.
+A significant fraction of hydroxycarbamide is eliminated by nonrenal (mainly hepatic) mechanisms. In adults, the urinary recovery of unchanged drug is reported to be approximately 37% of the oral dose when renal function is normal. In children, the fraction of hydroxycarbamide excreted unchanged into the urine comprised about 50%.
 
-In adult cancer patients, hydroxycarbamide was eliminated with a half -life of approximately 2-3 hours. In children with Sickle Cell Disease, the mean half -life was reported to be 3.9 hours.
+In adult cancer patients, hydroxycarbamide was eliminated with a half-life of approximately 2-3 hours. In children with Sickle Cell Disease, the mean half-life was reported to be 3.9 hours.
 
 ## Elderly
 
@@ -478,7 +488,7 @@ Although there is no evidence of an age effect on the pharmacokinetic-pharmacody
 
 ## Renal impairment
 
-As renal excretion is a pathway of elimination, consideration should be given to decreasing the dose of hydroxycarbamide in patients with renal impairment. In an open single -dose study in adult patients with Sickle Cell Disease the influence of renal function on pharmacokinetics of hydroxycarbamide was assessed. Patients with normal (CrCl &gt; 90 ml/min), mild (CrCl 60-89 ml/min), moderate (CrCl 30- 59 ml/min), severe (CrCl 15-29 ml/min) renal impairment, and End Stage Renal Disease (CrCL &lt; 15 ml/min) received hydroxycarbamide as a single dose of 15 mg/kg body weight. In patients, whose CrCl was below 60 ml/min or patients with End Stage Renal Disease the mean exposure to hydroxycarbamide was approximately 64% higher than in patients with normal renal function.
+As renal excretion is a pathway of elimination, consideration should be given to decreasing the dose of hydroxycarbamide in patients with renal impairment. In an open single-dose study in adult patients with Sickle Cell Disease the influence of renal function on pharmacokinetics of hydroxycarbamide was assessed. Patients with normal (CrCl &gt; 90 ml/min), mild (CrCl 60-89 ml/min), moderate (CrCl 30- 59 ml/min), severe (CrCl 15-29 ml/min) renal impairment, and End Stage Renal Disease (CrCL &lt; 15 ml/min) received hydroxycarbamide as a single dose of 15 mg/kg body weight. In patients, whose CrCl was below 60 ml/min or patients with End Stage Renal Disease the mean exposure to hydroxycarbamide was approximately 64% higher than in patients with normal renal function.
 
 It is recommended that the starting dose is reduced by 50% in patients with CrCl &lt;60 ml/min (see sections 4.2 and 4.3).
 
@@ -522,7 +532,7 @@ Store in a refrigerator (2 °C - 8 °C).
 
 ## 6.5 Nature and contents of container
 
-Amber type III glass bottle with tamper evident child -resistant closure (HDPE with expanded polyethylene liner) containing 150 ml of oral solution.
+Amber type III glass bottle with tamper evident child-resistant closure (HDPE with expanded polyethylene liner) containing 150 ml of oral solution.
 
 Each pack contains one bottle, an L DPE bottle adaptor and 2 dosing syringes (a syringe graduated to 3 ml and a syringe graduated to 10 ml).
 
@@ -542,7 +552,9 @@ Keep the bottle tightly closed to protect the integrity of the product and minim
 
 <div style=\"page-break-after: always\"></div>
 
-Syringes should be rinsed and washed with cold or warm water and dried completely before the next use. Store syringes in a hygienic place with the medicinal product.
+Syringes should be rinsed and washed with cold or warm water and dried completely before the next
+
+use. Store syringes in a hygienic place with the medicinal product.
 
 Disposal
 
@@ -564,7 +576,9 @@ Date of first authorisation: 01 July 2019
 
 Date of latest renewal: 16 May 2024
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
+
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -662,13 +676,17 @@ The MAH shall ensure that in each Member State where Xromi is marketed, all heal
 
 ## A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Xromi 100 mg/ml oral solution hydroxycarbamide
+Xromi 100 mg/ml oral solution
+
+hydroxycarbamide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -713,8 +731,6 @@ EXP:
 Discard 12 weeks after first opening.
 
 Open date:
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -789,7 +805,7 @@ Take as directed by your doctor using the dosing syringes provided.
 
 Do not shake.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -916,6 +932,8 @@ Talk to your doctor immediately during taking Xromi
 
 You should protect your skin from the sun and regularly inspect your skin yourself during the treatment and after discontinuation of the therapy with Xromi. Your doctor will also inspect your skin during routine follow-up visits.
 
+- -if you experience persistent ocular symptoms such as redness and pain of the eyes, sensitivity to light, and/or reduced vision while taking hydroxycarbamide, please consult a doctor promptly because these can be indicative of a rare but serious ocular disease called limbal stem cell deficiency. See also section 4.
+
 ## Children
 
 Do not give this medicine to children from birth to 9 months of age because it is unlikely to be safe.
@@ -927,12 +945,12 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 In particular, tell your doctor, nurse or pharmacist if you are taking any of the following:
 
 - -other myelosuppressive medicines (those that decrease production of red, white, or coagulating blood cells)
-- -radiation therapy or chemotherapy
-- -any medicines for cancer treatment, especially interferon therapy - when used with Xromi there is a greater chance of side effects, such as anaemia
-- -antiretroviral medicines (those that inhibit or destroy a retrovirus such as HIV), e.g. didanosine, stavudine, and indinavir (a drop in your white cell count may occur)
 
 <div style=\"page-break-after: always\"></div>
 
+- -radiation therapy or chemotherapy
+- -any medicines for cancer treatment, especially interferon therapy - when used with Xromi there is a greater chance of side effects, such as anaemia
+- -antiretroviral medicines (those that inhibit or destroy a retrovirus such as HIV), e.g. didanosine, stavudine, and indinavir (a drop in your white cell count may occur)
 - -live vaccines, e.g. measles, mumps, rubella (MMR), chicken pox
 - -continuous glucose monitor (CGM), used to test your blood glucose (hydroxycarbamide may falsely elevate sensor glucose results from certain CGM systems and may lead to hypoglycaemia if sensor glucose results are relied upon to dose insulin).
 
@@ -968,9 +986,9 @@ Xromi should only be given to you by a specialist doctor who is experienced in t
 - -Depending on the dose you take, these tests may be performed initially once a month and then every 2-3 months.
 - -Depending on these results your doctor may change your dose of Xromi.
 
-Check with your doctor or pharmacist if you are not sure. The usual starting dose for adults, adolescents and children over the age of 9 months is 15 mg/kg each day and the usual maintenance dose is between 20-25 mg/kg. Your doctor will prescribe the correct dose for you. Sometimes the doctor may change your dose of Xromi, for example as a result of different tests. If you are not sure how much medicine to take, always ask your doctor or nurse.
-
 <div style=\"page-break-after: always\"></div>
+
+Check with your doctor or pharmacist if you are not sure. The usual starting dose for adults, adolescents and children over the age of 9 months is 15 mg/kg each day and the usual maintenance dose is between 20-25 mg/kg. Your doctor will prescribe the correct dose for you. Sometimes the doctor may change your dose of Xromi, for example as a result of different tests. If you are not sure how much medicine to take, always ask your doctor or nurse.
 
 ## Xromi with food and drink
 
@@ -998,9 +1016,9 @@ The smaller 3 ml syringe, marked from 0.5 ml to 3 ml, is for measuring doses of 
 
 The larger 10 ml syringe, marked from 1 ml to 10 ml, is for measuring doses of more than 3 ml. You should use this one if the total amount you have to take is more than 3 ml (each graduation of 0.5 ml contains 50 mg of hydroxycarbamide).
 
-If you are a parent or care giver administering the medicine, wash your hands before and after administering a dose. Wipe up spillages immediately. To decrease the risk of exposure disposable gloves should be used when handling Xromi. To minimise air bubbles, do not shake the bottle before administering a dose.
-
 <div style=\"page-break-after: always\"></div>
+
+If you are a parent or care giver administering the medicine, wash your hands before and after administering a dose. Wipe up spillages immediately. To decrease the risk of exposure disposable gloves should be used when handling Xromi. To minimise air bubbles, do not shake the bottle before administering a dose.
 
 If Xromi comes into contact with skin, eyes or nose, it should be washed immediately and thoroughly with soap and water.
 
@@ -1037,66 +1055,44 @@ If you take more Xromi than you should, tell your doctor or go to a hospital imm
 - -Redness of the skin,
 - -Soreness (touch is painful) and swelling of the palms of hands and soles of feet followed by the hands and feet becoming scaly,
 - -Skin becoming strongly pigmented (locally changes of colour),
-- -Soreness or swelling in the mouth.
-
-## If you forget to take Xromi
-
-Tell your doctor. Do not take a double dose to make up for a forgotten dose.
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-## If you stop taking Xromi
-
-Do not stop taking your medicine unless advised by your doctor. If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
-
-## 4. Possible side effects
-
-Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-## If you get any of the following serious side effects, talk to your doctor or go to hospital immediately:
-
-## Very common (may affect more than 1 in 10 people):
-
-- -A severe infection
-- -Fever or chills
-- -Tiredness and/or looking pale
-
-## Common (may affect up to 1 in 10 people):
-
-- -Unexplained bruising (accumulation of blood under the skin) or bleeding
-- -Sore (open skin infection) on your skin
-
-## Uncommon (may affect up to 1 in 100 people):
-
-- -Any yellowing of the whites of the eyes or skin (jaundice)
-
-## Rare (may affect up to 1 in 1000 people):
-
-- -Ulcers or wounds on your legs
-
-## Very rare (may affect up to 1 in 10,000 people):
-
-- -Inflammation of the skin causing red scaly patches and possibly occurring together with pain in the joints
-
-## Other side effects which are not mentioned above are listed below. Speak to your doctor if you are concerned by any of these side effects.
-
-## Very common (may affect more than 1 in 10 people):
-
-- -Absence or low amount of sperm in the semen (azoospermia or oligospermia).
-
-## Common (may affect up to 1 in 10 people):
-
-- -Nausea
-- -Headache
-- -Dizziness
-- -Constipation
-- -Darkening of the skin, nails and mouth
-- -Dry skin
-- -Hair loss
+| -                                                                                                                                                             | Soreness or swelling in the mouth.                                                                                                                            |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| If you forget to take Xromi                                                                                                                                   | If you forget to take Xromi                                                                                                                                   |
+| Tell your doctor. Do not take a double dose to make up for a forgotten dose.                                                                                  | Tell your doctor. Do not take a double dose to make up for a forgotten dose.                                                                                  |
+| If you stop taking Xromi                                                                                                                                      | If you stop taking Xromi                                                                                                                                      |
+| Do not stop taking your medicine unless advised by your doctor. If you have any further questions on the use of this medicine, ask your doctor or pharmacist. | Do not stop taking your medicine unless advised by your doctor. If you have any further questions on the use of this medicine, ask your doctor or pharmacist. |
+| 4.                                                                                                                                                            | Possible side effects                                                                                                                                         |
+| Like all medicines, this medicine can cause side effects, although not everybody gets them.                                                                   | Like all medicines, this medicine can cause side effects, although not everybody gets them.                                                                   |
+| If you get any of the following serious side effects, talk to your doctor or go to hospital immediately:                                                      | If you get any of the following serious side effects, talk to your doctor or go to hospital immediately:                                                      |
+| Very common (may affect more than 1 in 10 people):                                                                                                            | Very common (may affect more than 1 in 10 people):                                                                                                            |
+| -                                                                                                                                                             | A severe infection                                                                                                                                            |
+| -                                                                                                                                                             | Fever or chills                                                                                                                                               |
+| -                                                                                                                                                             | Tiredness and/or looking pale                                                                                                                                 |
+| Common (may affect up to 1 in 10 people):                                                                                                                     | Common (may affect up to 1 in 10 people):                                                                                                                     |
+| - -                                                                                                                                                           | Unexplained bruising (accumulation of blood under the skin) or bleeding Sore (open skin infection) on your skin                                               |
+| Uncommon (may affect up to 1 in 100 people):                                                                                                                  | Uncommon (may affect up to 1 in 100 people):                                                                                                                  |
+| -                                                                                                                                                             | Any yellowing of the whites of the eyes or skin (jaundice)                                                                                                    |
+| Rare (may affect up to 1 in 1000 people):                                                                                                                     | Rare (may affect up to 1 in 1000 people):                                                                                                                     |
+| -                                                                                                                                                             | Ulcers or wounds on your legs                                                                                                                                 |
+| Very rare (may affect up to 1 in 10,000 people):                                                                                                              | Very rare (may affect up to 1 in 10,000 people):                                                                                                              |
+| -                                                                                                                                                             | Inflammation of the skin causing red scaly patches and possibly occurring together with pain in the joints                                                    |
+| Other side effects which are not mentioned above are listed below. Speak to your doctor if you are concerned by any of these side effects.                    | Other side effects which are not mentioned above are listed below. Speak to your doctor if you are concerned by any of these side effects.                    |
+| Very common (may affect more than 1 in 10 people):                                                                                                            | Very common (may affect more than 1 in 10 people):                                                                                                            |
+| -                                                                                                                                                             | Absence or low amount of sperm in the semen (azoospermia or oligospermia).                                                                                    |
+| Common (may affect up to 1 in 10 people):                                                                                                                     | Common (may affect up to 1 in 10 people):                                                                                                                     |
+| - -                                                                                                                                                           | Nausea Headache                                                                                                                                               |
+| -                                                                                                                                                             | Dizziness                                                                                                                                                     |
+| - -                                                                                                                                                           | Constipation Darkening of the skin, nails and mouth                                                                                                           |
 
 <div style=\"page-break-after: always\"></div>
+
+- -Dry skin
+- -Hair loss
 
 ## Uncommon (may affect up to 1 in 100 people):
 
@@ -1118,6 +1114,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - -Low Vitamin D level in blood test
 - -Low magnesium level in blood test
 - -Bleeding
+- -Eye disease causing redness and pain of the eyes, sensitivity to light, and/or reduced vision (limbal stem cell deficiency). See also section 2.
 
 ## Reporting of side effects
 
@@ -1139,9 +1136,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The active substance is hydroxycarbamide. One ml of solution contains 100 mg of hydroxycarbamide.
 
-The other ingredients are xanthan gum, sucralose (E955), strawberry flavour, methyl parahydroxybenzoate (E218), sodium hydroxide, and purified water. See section 2 'Xromi contains methyl parahydroxybenzoate'.
-
 <div style=\"page-break-after: always\"></div>
+
+The other ingredients are xanthan gum, sucralose (E955), strawberry flavour, methyl parahydroxybenzoate (E218), sodium hydroxide, and purified water. See section 2 'Xromi contains methyl parahydroxybenzoate'.
 
 ## What Xromi looks like and contents of the pack
 
@@ -1160,3 +1157,25 @@ Pronav Clinical Ltd. Unit 5 Dublin Road Business Park Carraroe, Sligo F91 D439 I
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for hydroxycarbamide (for centrally authorised product only), the scientific conclusions of PRAC are as follows:
+
+In view of available data on limbal stem cell deficiency risk from the literature, spontaneous reports including in some cases a close temporal relationship, a positive de-challenge and/or re-challenge and in view of a plausible mechanism of action, the PRAC considers a causal relationship between hydroxycarbamide and limbal stem cell deficiency is at least a reasonable possibility. The PRAC concluded that the product information of products containing hydroxycarbamide should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for hydroxycarbamide (for centrally authorised product only) the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing hydroxycarbamide (for centrally authorised product only) is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-31 10:33:17
+document_datetime: 2026-04-28 14:12:22
 document_pages: 91
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/micardisplus-epar-product-information_en.pdf
 document_name: micardisplus-epar-product-information_en.pdf
 version: success
-processing_time: 24.9672437
-conversion_datetime: 2025-12-25 13:19:33.81854
+processing_time: 28.0329997
+conversion_datetime: 2026-04-29 13:13:23.09892
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -121,11 +121,9 @@ The concomitant use of telmisartan/HCTZ with aliskiren-containing products is co
 
 ## Pregnancy
 
-Angiotensin II receptor blockers should not be initiated during pregnancy. Unless continued angiotensin II receptor blocker therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with angiotensin II receptor blockers should be
+Angiotensin II receptor blockers should not be initiated during pregnancy. Unless continued angiotensin II receptor blocker therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with angiotensin II receptor blockers should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
 
 <div style=\"page-break-after: always\"></div>
-
-stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
 
 ## Hepatic impairment
 
@@ -306,9 +304,7 @@ Absorption of HCTZ is impaired in the presence of anionic exchange resins.
 
 ## Non-steroidal anti-inflammatory medicinal products
 
-NSAIDs (i.e. acetylsalicylic acid at anti-inflammatory dose regimens, COX-2 inhibitors and nonselective NSAIDs) may reduce the diuretic, natriuretic and antihypertensive effects of thiazide diuretics and the antihypertensive effects of angiotensin II receptor blockers.
-
-In some patients with compromised renal function (e.g. dehydrated patients or elderly patients with compromised renal function) the co-administration of angiotensin II receptor blockers and agents that inhibit cyclo-oxygenase may result in further deterioration of renal function, including possible acute renal failure, which is usually reversible. Therefore the combination should be administered with caution, especially in the elderly. Patients should be adequately hydrated and consideration should be given to monitoring of renal function after initiation of concomitant therapy and periodically thereafter.
+NSAIDs (i.e. acetylsalicylic acid at anti-inflammatory dose regimens, COX-2 inhibitors and nonselective NSAIDs) may reduce the diuretic, natriuretic and antihypertensive effects of thiazide diuretics and the antihypertensive effects of angiotensin II receptor blockers. In some patients with compromised renal function (e.g. dehydrated patients or elderly patients with compromised renal function) the co-administration of angiotensin II receptor blockers and agents that inhibit cyclo-oxygenase may result in further deterioration of renal function, including possible acute renal failure, which is usually reversible. Therefore the combination should be administered with caution, especially in the elderly. Patients should be adequately hydrated and consideration should be given to monitoring of renal function after initiation of concomitant therapy and periodically thereafter.
 
 In one study the co-administration of telmisartan and ramipril led to an increase of up to 2.5 fold in the AUC0-24 and Cmax of ramipril and ramiprilat. The clinical relevance of this observation is not known.
 
@@ -530,7 +526,9 @@ Table 1: Tabulated list of adverse reactions (MedDRA) from placebo-controlled st
 
 - 1 Based on post-marketing experience
 
-2 See subsections below for additional information a Adverse reactions occurred with similar frequency in placebo and telmisartan treated patients. The overall incidence of adverse reactions reported with telmisartan (41.4%) was usually comparable to placebo (43.9%) in placebo controlled trials. The adverse reactions listed above have been accumulated from all clinical trials in patients treated with telmisartan for hypertension or in patients 50 years or older at high risk of cardiovascular events.
+2 See subsections below for additional information
+
+a Adverse reactions occurred with similar frequency in placebo and telmisartan treated patients. The overall incidence of adverse reactions reported with telmisartan (41.4%) was usually comparable to placebo (43.9%) in placebo controlled trials. The adverse reactions listed above have been accumulated from all clinical trials in patients treated with telmisartan for hypertension or in patients 50 years or older at high risk of cardiovascular events.
 
 ## Description of selected adverse reactions Hepatic function abnormal/liver disorder
 
@@ -566,11 +564,9 @@ The most prominent manifestations of telmisartan overdose were hypotension and t
 
 ## Treatment
 
-Telmisartan is not removed by haemofiltration and is not dialysable. The patient should be closely monitored, and the treatment should be symptomatic and supportive. Management depends on the time since ingestion and the severity of the symptoms. Suggested measures include induction of emesis and/or gastric lavage. Activated charcoal may be useful in the treatment of overdose. Serum
+Telmisartan is not removed by haemofiltration and is not dialysable. The patient should be closely monitored, and the treatment should be symptomatic and supportive. Management depends on the time since ingestion and the severity of the symptoms. Suggested measures include induction of emesis and/or gastric lavage. Activated charcoal may be useful in the treatment of overdose. Serum electrolytes and creatinine should be monitored frequently. If hypotension occurs, the patient should be placed in a supine position, with salt and volume replacements given quickly.
 
 <div style=\"page-break-after: always\"></div>
-
-electrolytes and creatinine should be monitored frequently. If hypotension occurs, the patient should be placed in a supine position, with salt and volume replacements given quickly.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -618,17 +614,17 @@ Cough and angioedema were less frequently reported in patients treated with telm
 
 Combining telmisartan with ramipril did not add further benefit over ramipril or telmisartan alone. CV mortality and all cause mortality were numerically higher with the combination. In addition, there was a significantly higher incidence of hyperkalaemia, renal failure, hypotension and syncope in the combination arm. Therefore the use of a combination of telmisartan and ramipril is not recommended in this population.
 
-In the 'Prevention Regimen For Effectively avoiding Second Strokes' (PRoFESS) trial in patients 50 years and older, who recently experienced stroke, an increased incidence of sepsis was noted for telmisartan compared with placebo, 0.70% vs. 0.49% [RR 1.43 (95% confidence interval 1.00-2.06)]; the incidence of fatal sepsis cases was increased for patients taking telmisartan (0.33%) vs. patients taking placebo (0.16%) [RR 2.07 (95% confidence interval 1.14-3.76)]. The observed increased
+In the 'Prevention Regimen For Effectively avoiding Second Strokes' (PRoFESS) trial in patients 50 years and older, who recently experienced stroke, an increased incidence of sepsis was noted for telmisartan compared with placebo, 0.70% vs. 0.49% [RR 1.43 (95% confidence interval 1.00-2.06)]; the incidence of fatal sepsis cases was increased for patients taking telmisartan (0.33%) vs. patients taking placebo (0.16%) [RR 2.07 (95% confidence interval 1.14-3.76)]. The observed increased occurrence rate of sepsis associated with the use of telmisartan may be either a chance finding or related to a mechanism not currently known.
 
 <div style=\"page-break-after: always\"></div>
-
-occurrence rate of sepsis associated with the use of telmisartan may be either a chance finding or related to a mechanism not currently known.
 
 Two large randomised, controlled trials (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) and VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes)) have examined the use of the combination of an ACE-inhibitor with an angiotensin II receptor blocker.
 
 ONTARGET was a study conducted in patients with a history of cardiovascular or cerebrovascular disease, or type 2 diabetes mellitus accompanied by evidence of end-organ damage. For more detailed information see above under the heading 'Cardiovascular prevention'.
 
-VA NEPHRON-D was a study in patients with type 2 diabetes mellitus and diabetic nephropathy. These studies have shown no significant beneficial effect on renal and/or cardiovascular outcomes and mortality, while an increased risk of hyperkalaemia, acute kidney injury and/or hypotension as compared to monotherapy was observed. Given their similar pharmacodynamic properties, these results are also relevant for other ACE-inhibitors and angiotensin II receptor blockers. ACE-inhibitors and angiotensin II receptor blockers should therefore not be used concomitantly in patients with diabetic nephropathy.
+VA NEPHRON-D was a study in patients with type 2 diabetes mellitus and diabetic nephropathy. These studies have shown no significant beneficial effect on renal and/or cardiovascular outcomes and mortality, while an increased risk of hyperkalaemia, acute kidney injury and/or hypotension as compared to monotherapy was observed. Given their similar pharmacodynamic properties, these results are also relevant for other ACE-inhibitors and angiotensin II receptor blockers. ACE-inhibitors and angiotensin II receptor blockers should therefore not be used concomitantly in
+
+patients with diabetic nephropathy.
 
 ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease Endpoints) was a study designed to test the benefit of adding aliskiren to a standard therapy of an ACE-inhibitor or an angiotensin II receptor blocker in patients with type 2 diabetes mellitus and chronic kidney disease, cardiovascular disease, or both. The study was terminated early because of an increased risk of adverse outcomes. Cardiovascular death and stroke were both numerically more frequent in the aliskiren group than in the placebo group and adverse events and serious adverse events of interest (hyperkalaemia, hypotension and renal dysfunction) were more frequently reported in the aliskiren group than in the placebo group.
 
@@ -690,11 +686,9 @@ Plasma concentrations of telmisartan are generally 2-3 times higher in females t
 
 ## Renal impairment
 
-Lower plasma concentrations were observed in patients with renal insufficiency undergoing dialysis. Telmisartan is highly bound to plasma protein in renal-insufficient subjects and cannot be removed by
+Lower plasma concentrations were observed in patients with renal insufficiency undergoing dialysis. Telmisartan is highly bound to plasma protein in renal-insufficient subjects and cannot be removed by dialysis. The elimination half-life is not changed in patients with renal impairment. In patients with impaired renal function the rate of HCTZ elimination is reduced. In a typical study in patients with a mean creatinine clearance of 90 mL/min the elimination half-life of HCTZ was increased. In functionally anephric patients the elimination half-life is about 34 hours.
 
 <div style=\"page-break-after: always\"></div>
-
-dialysis. The elimination half-life is not changed in patients with renal impairment. In patients with impaired renal function the rate of HCTZ elimination is reduced. In a typical study in patients with a mean creatinine clearance of 90 mL/min the elimination half-life of HCTZ was increased. In functionally anephric patients the elimination half-life is about 34 hours.
 
 ## Hepatic impairment
 
@@ -710,9 +704,7 @@ No effects of telmisartan on male or female fertility were observed.
 
 No clear evidence of a teratogenic effect was observed, however at toxic dose levels of telmisartan an effect on the postnatal development of the offsprings such as lower body weight and delayed eye opening was observed.
 
-Telmisartan showed no evidence of mutagenicity and relevant clastogenic activity in in vitro studies and no evidence of carcinogenicity in rats and mice. Studies with HCTZ have shown equivocal evidence for a genotoxic or carcinogenic effect in some experimental models.
-
-For the foetotoxic potential of the telmisartan/hydrochlorothiazide combination see section 4.6.
+Telmisartan showed no evidence of mutagenicity and relevant clastogenic activity in in vitro studies and no evidence of carcinogenicity in rats and mice. Studies with HCTZ have shown equivocal evidence for a genotoxic or carcinogenic effect in some experimental models. For the foetotoxic potential of the telmisartan/hydrochlorothiazide combination see section 4.6.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -736,7 +728,9 @@ This medicinal product does not require any special temperature storage conditio
 
 ## 6.5 Nature and contents of container
 
-Aluminium/aluminium blisters (PA/Al/PVC/Al or PA/PA/Al/PVC/Al). One blister contains 7 or 10 tablets.
+Aluminium/aluminium blisters (PA/Al/PVC/Al or PA/PA/Al/PVC/Al). One blister contains 7 or
+
+10 tablets.
 
 Pack sizes:
 
@@ -750,7 +744,11 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-MicardisPlus should be kept in the sealed blister due to the hygroscopic property of the tablets. Tablets should be taken out of the blister shortly before administration. Occasionally, the outer layer of the blister pack has been observed to separate from the inner layer between the blister pockets. No action needs to be taken if this is observed.
+MicardisPlus should be kept in the sealed blister due to the hygroscopic property of the tablets. Tablets should be taken out of the blister shortly before administration.
+
+Occasionally, the outer layer of the blister pack has been observed to separate from the inner layer
+
+between the blister pockets. No action needs to be taken if this is observed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -948,11 +946,9 @@ Hypersensitivity reactions to HCTZ may occur in patients with or without a histo
 
 Exacerbation or activation of systemic lupus erythematosus has been reported with the use of thiazide diuretics, including HCTZ.
 
-Cases of photosensitivity reactions have been reported with thiazide diuretics (see section 4.8). If a photosensitivity reaction occurs during treatment, it is recommended to stop the treatment. If a re-
+Cases of photosensitivity reactions have been reported with thiazide diuretics (see section 4.8). If a photosensitivity reaction occurs during treatment, it is recommended to stop the treatment. If a re- administration of the diuretic is deemed necessary, it is recommended to protect exposed areas to the sun or to artificial UVA.
 
 <div style=\"page-break-after: always\"></div>
-
-administration of the diuretic is deemed necessary, it is recommended to protect exposed areas to the sun or to artificial UVA.
 
 ## Choroidal Effusion, Acute Myopia and Angle-Closure Glaucoma
 
@@ -1025,11 +1021,9 @@ When telmisartan was co-administered with digoxin, median increases in digoxin p
 
 Telmisartan may increase the hypotensive effect of other antihypertensive agents.
 
-Clinical trial data has shown that dual blockade of the renin-angiotensin-aldosterone-system (RAAS) through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is associated
+Clinical trial data has shown that dual blockade of the renin-angiotensin-aldosterone-system (RAAS) through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is associated with a higher frequency of adverse events such as hypotension, hyperkalaemia and decreased renal function (including acute renal failure) compared to the use of a single RAAS-acting agent (see sections 4.3, 4.4 and 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-with a higher frequency of adverse events such as hypotension, hyperkalaemia and decreased renal function (including acute renal failure) compared to the use of a single RAAS-acting agent (see sections 4.3, 4.4 and 5.1).
 
 ## Antidiabetic medicinal products (oral agents and insulin)
 
@@ -1073,7 +1067,7 @@ Anticholinergic agents (e.g. atropine, biperiden) may increase the bioavailabili
 
 Thiazides may increase the risk of adverse effects caused by amantadine.
 
-## Cytotoxic agents (e.g. cyclophosphamide, methotrexate)
+Cytotoxic agents (e.g. cyclophosphamide, methotrexate)
 
 Thiazides may reduce the renal excretion of cytotoxic medicinal products and potentiate their myelosuppressive effects.
 
@@ -1306,11 +1300,9 @@ The most prominent manifestations of telmisartan overdose were hypotension and t
 
 ## Treatment
 
-Telmisartan is not removed by haemofiltration and is not dialysable. The patient should be closely monitored, and the treatment should be symptomatic and supportive. Management depends on the time since ingestion and the severity of the symptoms. Suggested measures include induction of emesis and/or gastric lavage. Activated charcoal may be useful in the treatment of overdose. Serum
+Telmisartan is not removed by haemofiltration and is not dialysable. The patient should be closely monitored, and the treatment should be symptomatic and supportive. Management depends on the time since ingestion and the severity of the symptoms. Suggested measures include induction of emesis and/or gastric lavage. Activated charcoal may be useful in the treatment of overdose. Serum electrolytes and creatinine should be monitored frequently. If hypotension occurs, the patient should be placed in a supine position, with salt and volume replacements given quickly.
 
 <div style=\"page-break-after: always\"></div>
-
-electrolytes and creatinine should be monitored frequently. If hypotension occurs, the patient should be placed in a supine position, with salt and volume replacements given quickly.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -1489,7 +1481,9 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-MicardisPlus should be kept in the sealed blister due to the hygroscopic property of the tablets. Tablets should be taken out of the blister shortly before administration. Occasionally, the outer layer of the blister pack has been observed to separate from the inner layer between the blister pockets. No action needs to be taken if this is observed.
+MicardisPlus should be kept in the sealed blister due to the hygroscopic property of the tablets. Tablets should be taken out of the blister shortly before administration. Occasionally, the outer layer of the blister pack has been observed to separate from the inner layer
+
+between the blister pockets. No action needs to be taken if this is observed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -2025,8 +2019,7 @@ Lot
 
 ## 15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 MicardisPlus 80 mg/25 mg
 
@@ -2166,8 +2159,10 @@ Talk to your doctor before taking MicardisPlus if you are suffering or have ever
 
 Talk to your doctor before taking MicardisPlus:
 
-- •
-- if you are taking any of the following medicines used to treat high blood pressure: - an ACE-inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems. - aliskiren.
+- ·
+- if you are taking any of the following medicines used to treat high blood pressure:
+
+- an ACE-inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems. - aliskiren.
 
 Your doctor may check your kidney function, blood pressure, and the amount of electrolytes (e.g. potassium) in your blood at regular intervals. See also information under the heading 'Do not take MicardisPlus'.
 
@@ -2178,11 +2173,9 @@ Talk to your doctor if you experience abdominal pain, nausea, vomiting or diarrh
 
 You must tell your doctor if you think you are (or might become) pregnant. MicardisPlus is not recommended in early pregnancy, and must not be taken if you are more than 3 months pregnant, as it may cause serious harm to your baby if used at that stage (see pregnancy section).
 
-Treatment with hydrochlorothiazide may cause electrolyte imbalance in your body. Typical symptoms of fluid or electrolyte imbalance include dry mouth, weakness, lethargy, drowsiness, restlessness,
+Treatment with hydrochlorothiazide may cause electrolyte imbalance in your body. Typical symptoms of fluid or electrolyte imbalance include dry mouth, weakness, lethargy, drowsiness, restlessness, muscle pain or cramps, nausea (feeling sick), vomiting, tired muscles, and an abnormally fast heart rate (faster than 100 beats per minute). If you experience any of these you should tell your doctor.
 
 <div style=\"page-break-after: always\"></div>
-
-muscle pain or cramps, nausea (feeling sick), vomiting, tired muscles, and an abnormally fast heart rate (faster than 100 beats per minute). If you experience any of these you should tell your doctor.
 
 You should also tell your doctor, if you experience an increased sensitivity of the skin to the sun with symptoms of sunburn (such as redness, itching, swelling, blistering) occurring more quickly than normal.
 
@@ -2203,7 +2196,8 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 - -Iodinated contrast product used in the context of an imaging examination.
 - -Medicines that may increase blood potassium levels such as potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium, ACE inhibitors, cyclosporin (an immunosuppressant medicine) and other medicinal products such as heparin sodium (an anticoagulant).
 - -Medicines that are affected by changes of the blood potassium level such as heart medicines (e.g. digoxin) or medicines to control the rhythm of your heart (e.g. quinidine, disopyramide, amiodarone, sotalol), medicines used for mental disorders (e.g. thioridazine, chlorpromazine, levomepromazine) and other medicines such as certain antibiotics (e.g. sparfloxacine, pentamidine) or certain medicines to treat allergic reactions (e.g. terfenadine).
-- -Medicines for the treatment of diabetes (insulins or oral agents such as metformin).
+- -
+- Medicines for the treatment of diabetes (insulins or oral agents such as metformin).
 - -Cholestyramine and colestipol, medicines for lowering blood fat levels.
 - -Medicines to increase blood pressure, such as noradrenaline.
 - -Muscle relaxing medicines, such as tubocurarine.
@@ -2395,15 +2389,15 @@ Boehringer Ingelheim International GmbH Binger Str. 173 55216 Ingelheim am Rhein
 
 ## Manufacturer
 
-Boehringer Ingelheim Hellas Single Member S.A. 5th km Paiania - Markopoulo Koropi Attiki, 19441 Greece and
+Boehringer Ingelheim Hellas Single Member S.A. 5th km Paiania - Markopoulo Koropi Attiki, 19441 Greece
 
-Rottendorf Pharma GmbH Ostenfelder Strasse 51 - 61 59320 Ennigerloh Germany and
+and
 
-Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France
+Rottendorf Pharma GmbH Ostenfelder Strasse 51 - 61 59320 Ennigerloh Germany
 
-<div style=\"page-break-after: always\"></div>
+and
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -2451,7 +2445,7 @@ Boehringer Ingelheim RCV GmbH &amp; Co KG Eesti filiaal Tel: +372 612 8000
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Ελλάδα
 
@@ -2492,6 +2486,8 @@ Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 ## Slovenija
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Podružnica Ljubljana Tel: +386 1 586 40 00
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2623,11 +2619,9 @@ Talk to your doctor if you experience abdominal pain, nausea, vomiting or diarrh
 
 You must tell your doctor if you think you are (or might become) pregnant. MicardisPlus is not recommended in early pregnancy, and must not be taken if you are more than 3 months pregnant, as it may cause serious harm to your baby if used at that stage (see pregnancy section).
 
-Treatment with hydrochlorothiazide may cause electrolyte imbalance in your body. Typical symptoms of fluid or electrolyte imbalance include dry mouth, weakness, lethargy, drowsiness, restlessness,
+Treatment with hydrochlorothiazide may cause electrolyte imbalance in your body. Typical symptoms of fluid or electrolyte imbalance include dry mouth, weakness, lethargy, drowsiness, restlessness, muscle pain or cramps, nausea (feeling sick), vomiting, tired muscles, and an abnormally fast heart rate (faster than 100 beats per minute). If you experience any of these you should tell your doctor.
 
 <div style=\"page-break-after: always\"></div>
-
-muscle pain or cramps, nausea (feeling sick), vomiting, tired muscles, and an abnormally fast heart rate (faster than 100 beats per minute). If you experience any of these you should tell your doctor.
 
 You should also tell your doctor, if you experience an increased sensitivity of the skin to the sun with symptoms of sunburn (such as redness, itching, swelling, blistering) occurring more quickly than normal.
 
@@ -2707,11 +2701,9 @@ If your liver is not working properly, the usual dose should not exceed 40 mg te
 
 ## If you take more MicardisPlus than you should
 
-If you accidentally take too many tablets you may experience symptoms such as low blood pressure and rapid heartbeat. Slow heartbeat, dizziness, vomiting, reduced kidney function including kidney failure, have also been reported. Due to the hydrochlorothiazide component, markedly low blood pressure and low blood levels of potassium can also happen, which may result in nausea, sleepiness
+If you accidentally take too many tablets you may experience symptoms such as low blood pressure and rapid heartbeat. Slow heartbeat, dizziness, vomiting, reduced kidney function including kidney failure, have also been reported. Due to the hydrochlorothiazide component, markedly low blood pressure and low blood levels of potassium can also happen, which may result in nausea, sleepiness and muscle cramps and/or irregular heartbeat associated with the concomitant use of medicines such as digitalis or certain anti-arrhythmic treatments. Contact your doctor, pharmacist, or your nearest hospital emergency department immediately.
 
 <div style=\"page-break-after: always\"></div>
-
-and muscle cramps and/or irregular heartbeat associated with the concomitant use of medicines such as digitalis or certain anti-arrhythmic treatments. Contact your doctor, pharmacist, or your nearest hospital emergency department immediately.
 
 ## If you forget to take MicardisPlus
 
@@ -2797,11 +2789,9 @@ Abnormal breakdown of red blood cells (haemolytic anaemia), inability of the bon
 
 ## Not known (frequency cannot be estimated from the available data)
 
-Skin and lip cancer (non-melanoma skin cancer), blood cell deficiency (aplastic anaemia), decrease in vision and eye pain (possible signs of fluid accumulation in the vascular layer of the eye (choroidal
+Skin and lip cancer (non-melanoma skin cancer), blood cell deficiency (aplastic anaemia), decrease in vision and eye pain (possible signs of fluid accumulation in the vascular layer of the eye (choroidal effusion) or acute-angle closure glaucoma), skin disorders such as inflamed blood vessels in the skin, increased sensitivity to sunlight, rash, redness of the skin, blistering of the lips, eyes or mouth, skin peeling, fever (possible signs of erythema multiforme), weakness, kidney impairment.
 
 <div style=\"page-break-after: always\"></div>
-
-effusion) or acute-angle closure glaucoma), skin disorders such as inflamed blood vessels in the skin, increased sensitivity to sunlight, rash, redness of the skin, blistering of the lips, eyes or mouth, skin peeling, fever (possible signs of erythema multiforme), weakness, kidney impairment.
 
 Low levels of sodium accompanied by symptoms relating to the brain or nerves (feeling sick, progressive disorientation, lack of interest or energy) occurs in isolated cases.
 
@@ -2842,17 +2832,9 @@ Boehringer Ingelheim International GmbH Binger Str. 173 55216 Ingelheim am Rhein
 
 ## Manufacturer
 
-Boehringer Ingelheim Hellas Single Member S.A. 5th km Paiania - Markopoulo Koropi Attiki, 19441 Greece and
+Boehringer Ingelheim Hellas Single Member S.A. 5th km Paiania - Markopoulo Koropi Attiki, 19441 Greece
 
-<div style=\"page-break-after: always\"></div>
-
-Rottendorf Pharma GmbH Ostenfelder Strasse 51 - 61 59320 Ennigerloh Germany and
-
-Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+and Rottendorf Pharma GmbH Ostenfelder Strasse 51 - 61 59320 Ennigerloh Germany and Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -2900,7 +2882,7 @@ Boehringer Ingelheim RCV GmbH &amp; Co KG Eesti filiaal Tel: +372 612 8000
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Ελλάδα
 
@@ -2941,6 +2923,8 @@ Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 ## Slovenija
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Podružnica Ljubljana Tel: +386 1 586 40 00
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3060,8 +3044,10 @@ Talk to your doctor before taking MicardisPlus if you are suffering or have ever
 
 Talk to your doctor before taking MicardisPlus:
 
-- •
-- if you are taking any of the following medicines used to treat high blood pressure: - an ACE-inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems. - aliskiren.
+- ·
+- if you are taking any of the following medicines used to treat high blood pressure:
+- an ACE-inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems.
+- aliskiren.
 
 Your doctor may check your kidney function, blood pressure, and the amount of electrolytes (e.g. potassium) in your blood at regular intervals. See also information under the heading 'Do not take MicardisPlus'.
 
@@ -3106,11 +3092,9 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 - -If you are taking an ACE-inhibitor or aliskiren (see also information under the headings 'Do not take MicardisPlus' and 'Warnings and precautions').
 - -Digoxin.
 
-MicardisPlus may increase the blood pressure lowering effect of other medicines used to treat high blood pressure or of medicines with blood pressure lowering potential (e.g. baclofen, amifostine). Furthermore, low blood pressure may be aggravated by alcohol, barbiturates, narcotics or
+MicardisPlus may increase the blood pressure lowering effect of other medicines used to treat high blood pressure or of medicines with blood pressure lowering potential (e.g. baclofen, amifostine). Furthermore, low blood pressure may be aggravated by alcohol, barbiturates, narcotics or antidepressants. You may notice this as dizziness when standing up. You should consult with your doctor if you need to adjust the dose of your other medicine while taking MicardisPlus.
 
 <div style=\"page-break-after: always\"></div>
-
-antidepressants. You may notice this as dizziness when standing up. You should consult with your doctor if you need to adjust the dose of your other medicine while taking MicardisPlus.
 
 The effect of MicardisPlus may be reduced when you take NSAIDs (non-steroidal anti-inflammatory medicines, e.g. aspirin or ibuprofen).
 
@@ -3287,19 +3271,7 @@ Boehringer Ingelheim International GmbH Binger Str. 173 55216 Ingelheim am Rhein
 
 ## Manufacturer
 
-Boehringer Ingelheim Hellas Single Member S.A. 5th km Paiania - Markopoulo Koropi Attiki, 19441 Greece
-
-<div style=\"page-break-after: always\"></div>
-
-and
-
-Rottendorf Pharma GmbH Ostenfelder Strasse 51 - 61 59320 Ennigerloh Germany and
-
-Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Boehringer Ingelheim Hellas Single Member S.A. 5th km Paiania - Markopoulo Koropi Attiki, 19441 Greece and Rottendorf Pharma GmbH Ostenfelder Strasse 51 - 61 59320 Ennigerloh Germany and Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -3347,7 +3319,7 @@ Boehringer Ingelheim RCV GmbH &amp; Co KG Eesti filiaal Tel: +372 612 8000
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Ελλάδα
 
@@ -3388,6 +3360,8 @@ Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 ## Slovenija
 
 Boehringer Ingelheim RCV GmbH &amp; Co KG Podružnica Ljubljana Tel: +386 1 586 40 00
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-04-09 10:02:32
-document_pages: 115
+document_datetime: 2026-04-28 15:49:36
+document_pages: 122
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/darzalex-epar-product-information_en.pdf
 document_name: darzalex-epar-product-information_en.pdf
 version: success
-processing_time: 39.3526633
-conversion_datetime: 2026-04-13 13:55:01.062063
+processing_time: 51.7754644
+conversion_datetime: 2026-04-29 13:22:29.07194
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.16.0
-  docling: 2.87.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.8.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
@@ -466,11 +466,9 @@ Of the 2459 patients who received DARZALEX at the recommended dose, 38% were 65 
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -522,24 +520,6 @@ With a median follow-up of 28 months, the primary analysis of PFS in study MMY30
 
 <div style=\"page-break-after: always\"></div>
 
-1.0
-
-Proportion surviving without progression
-
-0.8
-
-0.6 -
-
-0.4 -
-
-0.2-
-
-No. at risk
-
-D-Rd
-
-Rd
-
 Figure 1: Kaplan-Meier curve of PFS in study MMY3008
 
 <!-- image -->
@@ -548,27 +528,13 @@ With a median follow-up of 56 months, DRd has shown an OS advantage over the Rd 
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 2:
-
-Kaplan-Meier curve of OS in study MMY3008
-
-1.0
-
-0.8-
-
-0.6 -
-
-0.4-
-
-0.2-
-
-0.0 +
-
-No. at risk
-
 Figure 2: Kaplan-Meier curve of OS in study MMY3008
 
 <!-- image -->
+
+No.atrisk
+
+11 2 0 0
 
 Additional efficacy results from study MMY3008 are presented in table 7 below.
 
@@ -590,10 +556,6 @@ Table 7: Additional efficacy results from study MMY3008 a
 | 95% CI (%)                               | (19.9%, 28.9%)    | (4.9%, 10.5%) |
 | Odds ratio with 95% CI d                 | 4.04 (2.55, 6.39) |               |
 | p-value e                                | < 0.0001          |               |
-
-surviving
-
-Proportion
 
 <div style=\"page-break-after: always\"></div>
 
@@ -617,43 +579,7 @@ With a median follow-up of 16.5 months, the primary analysis of PFS in study MMY
 
 <div style=\"page-break-after: always\"></div>
 
-1.0
-
-Proportion surviving without progression
-
-No. at risk
-
-VMP
-
-D-VMP
-
-0.8
-
--
-
-0.4
-
-0.2-
-
-0+
-
-D-VMP
-
-(N = 350)
-
-Median progression-free survival - months
-
-36.4
-
-VMP
-
-(N = 356)
-
-19.3
-
 Figure 3: Kaplan-Meier curve of PFS in study MMY3007
-
-P&lt;0.0001
 
 <!-- image -->
 
@@ -661,33 +587,9 @@ After a median follow-up of 40 months, D-VMP has shown an OS advantage over the 
 
 <div style=\"page-break-after: always\"></div>
 
-Proportion surviving
-
-1.0
-
-0.8
-
-0.6 -
-
-0.4 -
-
-0.2 -
-
-0
-
-No. at risk
-
-VMP
-
-D-VMP
-
 Figure 4: Kaplan-Meier curve of OS in study MMY3007
 
 <!-- image -->
-
-356 323 311 291
-
-350 327 318 301
 
 Additional efficacy results from study MMY3007 are presented in table 8 below.
 
@@ -765,31 +667,11 @@ With a median follow-up of 18.8 months, the primary analysis of PFS by censoring
 
 <div style=\"page-break-after: always\"></div>
 
-without progression ving
-
-portion survi
-
-1.0 -
-
-0.8 -
-
-0.6 -
-
-0.4 -
-
-0.2 -
-
-0
-
-No. at risk
-
-- A
-
 Figure 5: Kaplan-Meier curve of PFS in study MMY3006
 
-- V
-
 <!-- image -->
+
+No. at risk
 
 ## Relapsed/refractory multiple myeloma
 
@@ -800,6 +682,26 @@ The clinical efficacy and safety of DARZALEX monotherapy for the treatment of ad
 In study MMY2002, 106 patients with relapsed and refractory multiple myeloma received 16 mg/kg DARZALEX until disease progression. The median patient age was 63.5 years (range, 31 to 84 years), 11% of patients were ≥ 75 years of age, 49% were male and 79% were Caucasian. Patients had received a median of 5 prior lines of therapy. Eighty percent of patients had received prior autologous stem cell transplantation (ASCT). Prior therapies included bortezomib (99%), lenalidomide (99%), pomalidomide (63%) and carfilzomib (50%). At baseline, 97% of patients were refractory to the last line of treatment, 95% were refractory to both, a proteasome inhibitor (PI) and immunomodulatory agent (IMiD), 77% were refractory to alkylating agents, 63% were refractory to pomalidomide and 48% of patients were refractory to carfilzomib.
 
 Efficacy results of the pre-planned interim analysis based on Independent Review Committee (IRC) assessment are presented in table 10 below.
+
+34
+
+067
+
+24
+
+45
+
+13
+
+16
+
+0
+
+1
+
+0
+
+0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -834,73 +736,31 @@ A total of 569 patients were randomised; 286 to the DRd arm and 283 to the Rd ar
 
 <div style=\"page-break-after: always\"></div>
 
-1.0
-
-Proportion surviving without progression
-
-No. at risk
-
-Rd
-
-D-Rd
-
-0.6
-
-0.4
-
--
-
-0.2
-
-0+
-
-Median progression-free survival - months
-
-D-Rd
-
-(N = 286)
-
-45.0
-
-Rd
-
-(N= 283)
-
-17.5
-
 With a median follow-up of 13.5 months, the primary analysis of PFS in study MMY3003 demonstrated an improvement in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 18.4 months in the Rd arm (HR=0.37; 95% CI: 0.27, 0.52; p &lt; 0.0001). Results of an updated PFS analysis after a median follow-up of 55 months continued to show an improvement in PFS for patients in the DRd arm compared with the Rd arm. Median PFS was 45.0 months in the DRd arm and 17.5 months in the Rd arm (HR=0.44; 95% CI: 0.35, 0.54; p &lt; 0.0001), representing a 56% reduction in the risk of disease progression or death in patients treated with DRd (see figure 6).
 
 Figure 6: Kaplan-Meier curve of PFS in study MMY3003
 
 <!-- image -->
 
+No. at risk
+
+Rd
+
+D-Rd 28626624923822921520419518416815615114313613413112511576 1630
+
 After a median follow-up of 80 months, DRd has shown an OS advantage over the Rd arm (HR=0.73; 95% CI: 0.58, 0.91; p=0.0044). The median OS was 67.6 months in the DRd arm and 51.8 months in the Rd arm.
 
 <div style=\"page-break-after: always\"></div>
 
-Proportion surviving
+Figure 7: Kaplan-Meier curve of OS in study MMY3003
 
-1.0
-
-0.8
-
-0.6
-
-0.4 -
-
-0.2 -
-
-OT
+<!-- image -->
 
 No. at risk
 
 Rd
 
-'A
-
-Figure 7: Kaplan-Meier curve of OS in study MMY3003
-
-<!-- image -->
+D-Rd
 
 Additional efficacy results from study MMY3003 are presented in table 11 below.
 
@@ -932,37 +792,9 @@ d p-value is from a Fisher's exact test.
 
 ## Combination treatment with bortezomib
 
-Study MMY3004, an open-label, randomised, active-controlled phase III study, compared treatment with DARZALEX 16 mg/kg in combination with bortezomib and dexamethasone (DVd), to treatment with bortezomib and dexamethasone (Vd) in patients with relapsed or refractory multiple myeloma who had received at least one prior therapy. Bortezomib was administered by subcutaneous injection or intravenous injection at a dose of 1.3 mg/m 2 body surface area twice weekly for two weeks (days 1, 4, 8, and 11) of repeated 21 day (3-week) treatment cycles, for a total of 8 cycles. Dexamethasone was administered orally at a dose of 20 mg on days 1, 2, 4, 5, 8, 9, 11, and 12 of each of the 8 bortezomib
+Study MMY3004, an open-label, randomised, active-controlled phase III study, compared treatment with DARZALEX 16 mg/kg in combination with bortezomib and dexamethasone (DVd), to treatment with bortezomib and dexamethasone (Vd) in patients with relapsed or refractory multiple myeloma who had received at least one prior therapy. Bortezomib was administered by subcutaneous injection or intravenous injection at a dose of 1.3 mg/m 2 body surface area twice weekly for two weeks (days 1, 4, 8, and 11) of repeated 21 day (3-week) treatment cycles, for a total of 8 cycles. Dexamethasone was administered orally at a dose of 20 mg on days 1, 2, 4, 5, 8, 9, 11, and 12 of each of the 8 bortezomib cycles (80 mg/week for two out of three weeks of the bortezomib cycle) or a reduced dose of 20 mg/week for patients &gt; 75 years, BMI &lt; 18.5, poorly controlled diabetes mellitus or prior intolerance to steroid therapy. On the days of DARZALEX infusion, 20 mg of the dexamethasone dose was administered as a pre-infusion medicinal product. DARZALEX treatment was continued until disease progression or unacceptable toxicity.
 
 <div style=\"page-break-after: always\"></div>
-
-1.0
-
-Proportion surviving without progression
-
-0.4
-
-No. at risk
-
-Vd
-
-D-Vd
-
-Median progression-free survival - months
-
-D-Vd
-
-(N = 251)
-
-16.7
-
-Vd
-
-(N = 247)
-
-7.1
-
-cycles (80 mg/week for two out of three weeks of the bortezomib cycle) or a reduced dose of 20 mg/week for patients &gt; 75 years, BMI &lt; 18.5, poorly controlled diabetes mellitus or prior intolerance to steroid therapy. On the days of DARZALEX infusion, 20 mg of the dexamethasone dose was administered as a pre-infusion medicinal product. DARZALEX treatment was continued until disease progression or unacceptable toxicity. Hazard ratio for D-Vd vs. Vd (95% CI)
 
 A total of 498 patients were randomised; 251 to the DVd arm and 247 to the Vd arm. The baseline demographic and disease characteristics were similar between the DARZALEX and the control arm. The median patient age was 64 years (range 30 to 88 years) and 12% were ≥ 75 years. Sixty-nine percent (69%) of patients had received a prior PI (66% received bortezomib) and 76% of patients received an IMiD (42% received lenalidomide). At baseline, 32% of patients were refractory to the last line of treatment. Thirty-three percent (33%) of patients were refractory to an IMiD only, and 28% were refractory to lenalidomide. Patients refractory to bortezomib were excluded from the study.
 
@@ -970,29 +802,9 @@ With a median follow-up of 7.4 months, the primary analysis of PFS in study MMY3
 
 Figure 8: Kaplan-Meier curve of PFS in study MMY3004
 
-1 0 000
-
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-Proportion surviving
-
-1.0
-
-0.8
-
-0.6 -
-
-0.4·
-
-0.2 -
-
-No. at risk
-
-D-Vd
-
-A,
 
 After a median follow-up of 73 months, DVd has shown an OS advantage over the Vd arm (HR=0.74; 95% CI: 0.59, 0.92; p=0.0075). The median OS was 49.6 months in the DVd arm and 38.5 months in the Vd arm.
 
@@ -1054,11 +866,9 @@ Four population PK analyses were performed to describe the PK characteristics of
 
 Based on the population PK analysis of daratumumab monotherapy (analysis 1), daratumumab steady state is achieved approximately 5 months into the every 4-week dosing period (by the 21 st infusion), and the mean (SD) ratio of Cmax at steady-state to C max  after the first dose was 1.6 (0.5). The mean (SD) central volume of distribution is 56.98 (18.07) mL/kg.
 
-Three additional population PK analyses (analysis 2, analysis 3 and analysis 4) were conducted in patients with multiple myeloma that received daratumumab combination therapies. Daratumumab concentration-time profiles were similar following the monotherapy and combination therapies. The
+Three additional population PK analyses (analysis 2, analysis 3 and analysis 4) were conducted in patients with multiple myeloma that received daratumumab combination therapies. Daratumumab concentration-time profiles were similar following the monotherapy and combination therapies. The mean estimated terminal half-life associated with linear clearance in combination therapy was approximately 15-23 days.
 
 <div style=\"page-break-after: always\"></div>
-
-mean estimated terminal half-life associated with linear clearance in combination therapy was approximately 15-23 days.
 
 Based on the four population PK analyses (analyses 1-4) body weight was identified as a statistically significant covariate for daratumumab clearance. Therefore, body weight based dosing is an appropriate dosing strategy for the multiple myeloma patients.
 
@@ -1237,7 +1047,9 @@ DARZALEX is indicated in combination with cyclophosphamide, bortezomib and dexam
 
 DARZALEX subcutaneous formulation is not intended for intravenous administration and should be given by subcutaneous injection only, using the doses specified.
 
-DARZALEX should be administered by a healthcare professional, and the first dose should be administered in an environment where resuscitation facilities are available.
+The first 4 doses of DARZALEX should be administered by a healthcare professional, and the first dose should be administered in an environment where resuscitation facilities are available.
+
+DARZALEX is intended for use under the guidance of a healthcare professional. After receiving proper training in product preparation and subcutaneous injection technique, a patient or a patient's caregiver may administer the subsequent doses of DARZALEX after the initial 4 doses, if a healthcare professional determines that it is appropriate and with medical follow-up, as necessary. Patients should be instructed to contact their healthcare professional if there are any symptoms from subcutaneous injection or illness.
 
 It is important to check the vial labels to ensure that the appropriate formulation (intravenous or subcutaneous formulation) and dose is being given to the patient as prescribed.
 
@@ -1247,7 +1059,7 @@ Pre- and post-injection medicinal products should be administered to reduce the 
 
 ## Posology
 
-## Multiple myeloma
+Multiple myeloma
 
 Dosing schedule in combination with lenalidomide and dexamethasone or pomalidomide and dexamethasone (4-week cycle regimen) and for monotherapy
 
@@ -1263,9 +1075,9 @@ Table 1: DARZALEX dosing schedule in combination with lenalidomide and dexametha
 
 Dexamethasone should be administered at 40 mg/week (or a reduced dose of 20 mg/week for patients &gt; 75 years).
 
-For dose and schedule of medicinal products administered with DARZALEX solution for subcutaneous injection, see section 5.1 and the corresponding Summary of Product Characteristics.
-
 <div style=\"page-break-after: always\"></div>
+
+For dose and schedule of medicinal products administered with DARZALEX solution for subcutaneous injection, see section 5.1 and the corresponding Summary of Product Characteristics.
 
 Dosing schedule in combination with bortezomib, melphalan and prednisone (6-week cycle regimens)
 
@@ -1616,51 +1428,51 @@ Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/1
 
 Table 9: Adverse reactions in multiple myeloma, including smouldering multiple myeloma at high risk of developing multiple myeloma, and AL amyloidosis patients treated with intravenous daratumumab or subcutaneous daratumumab
 
-| System organ class                     | Adverse reaction                    | Frequency          | Incidence (%)   | Incidence (%)   |
-|----------------------------------------|-------------------------------------|--------------------|-----------------|-----------------|
-| System organ class                     | Adverse reaction                    | Frequency          | Any grade       | Grade 3-4       |
-| Infections and infestations            | Upper respiratory tract infection a | Very common        | 46              | 3               |
-| Infections and infestations            | COVID-19 a,g                        | Very common        | 23              | 6               |
-| Infections and infestations            | Pneumonia a                         | Very common        | 19              | 11              |
-| Infections and infestations            | Bronchitis a                        | Very common        | 14              | 1               |
-| Infections and infestations            | Urinary tract infection             | Common             | 7               | 1               |
-| Infections and infestations            | Sepsis a                            | Common             | 4               | 4               |
-| Infections and infestations            | Cytomegalovirus infection a         | Uncommon           | < 1             | < 1 #           |
-| Infections and infestations            | Hepatitis B Virus reactivation a    | Uncommon           | < 1             | < 1             |
-| Blood and lymphatic system disorders   | Neutropenia a                       | Very common        | 42              | 36              |
-| Blood and lymphatic system disorders   | Thrombocytopenia a                  | Very common        | 30              | 18              |
-| Blood and lymphatic system disorders   | Anaemia a                           | Very common        | 26              | 11              |
-| Blood and lymphatic system disorders   | Lymphopenia a                       | Very common        | 12              | 10              |
-| Blood and lymphatic system disorders   | Leukopenia a                        | Very common        | 11              | 6               |
-| Immune system disorders                | Hypogammaglobulinaemia a            | Common             | 3               | < 1 #           |
-| Immune system disorders                | Anaphylactic reaction b             | Rare               | -               | -               |
-| Metabolism and nutrition disorders     | Hypokalaemia a                      | Very common Common | 10              | 3               |
-| Metabolism and nutrition disorders     | Decreased appetite                  | Very common Common | 10              | < 1             |
-| Metabolism and nutrition disorders     | Hyperglycaemia                      |                    | 6               | 3               |
-| Metabolism and nutrition disorders     | Hypocalcaemia                       |                    | 6               | 1               |
-| Metabolism and nutrition disorders     | Dehydration                         |                    | 2               | 1 #             |
-| Psychiatric disorders                  | Insomnia                            | Very common        | 17              | 1 #             |
-| Nervous system disorders               | Peripheral neuropathy               | Very common        | 31              | 4               |
-| Nervous system disorders               | Headache                            | Very common        | 11              | < 1 #           |
-| Nervous system disorders               | Dizziness                           | Common             | 9               | < 1 #           |
-| Nervous system disorders               | Paraesthesia                        | Common             | 9               | < 1             |
-| Nervous system disorders               | Syncope                             | Common             | 3               | 2 #             |
-| Cardiac disorders                      | Atrial fibrillation                 | Common             | 4               | 1               |
-| Vascular disorders                     | Hypertension a                      | Common             | 9               | 4               |
-| Respiratory, thoracic and mediastinal  | Cough a                             | Very common        | 22              | < 1 #           |
-| Respiratory, thoracic and mediastinal  | Dyspnoea a                          | Very common        | 18              | 2               |
-| disorders                              | Pulmonary oedema a                  | Common             | 1               | < 1             |
-| Gastrointestinal disorders             | Diarrhoea                           | Very common        | 33              | 5               |
-| Gastrointestinal disorders             | Constipation                        | Very common        | 28              | 1               |
-| Gastrointestinal disorders             | Nausea                              | Very common        | 22              | 1 #             |
-| Gastrointestinal disorders             | Abdominal pain a                    | Very common        | 14              | 1               |
-| Gastrointestinal disorders             | Vomiting                            | Very common        | 13              | 1 #             |
-| Gastrointestinal disorders             | Pancreatitis a                      | Common             | 1               | < 1             |
-| Skin and subcutaneous tissue disorders | Rash                                | Very common        | 12              | 1 #             |
-|                                        | Pruritus                            | Common             | 6               | < 1 #           |
-| Musculoskeletal and                    | Musculoskeletal pain a,h            | Very common        | 35              | 3               |
-| connective tissue                      | Arthralgia                          | Very common        | 14              | 1               |
-| disorders                              | Muscle spasms                       | Very common        | 12              | < 1 #           |
+| System organ class                     | Adverse reaction                    | Frequency   | Incidence (%)   | Incidence (%)   |
+|----------------------------------------|-------------------------------------|-------------|-----------------|-----------------|
+|                                        |                                     |             | Any grade       | Grade 3-4       |
+| Infections and infestations            | Upper respiratory tract infection a | Very common | 46              | 3               |
+| Infections and infestations            | COVID-19 a,g                        |             | 23              | 6               |
+| Infections and infestations            | Pneumonia a                         |             | 19              | 11              |
+| Infections and infestations            | Bronchitis a                        |             | 14              | 1               |
+| Infections and infestations            | Urinary tract infection             | Common      | 7               | 1               |
+| Infections and infestations            | Sepsis a                            |             | 4               | 4               |
+| Infections and infestations            | Cytomegalovirus infection a         | Uncommon    | < 1             | < 1 #           |
+| Infections and infestations            | Hepatitis B Virus reactivation a    |             | < 1             | < 1             |
+| Blood and lymphatic system disorders   | Neutropenia a                       | Very common | 42              | 36              |
+| Blood and lymphatic system disorders   | Thrombocytopenia a                  |             | 30              | 18              |
+| Blood and lymphatic system disorders   | Anaemia a                           |             | 26              | 11              |
+| Blood and lymphatic system disorders   | Lymphopenia a                       |             | 12              | 10              |
+| Blood and lymphatic system disorders   | Leukopenia a                        |             | 11              | 6               |
+| Immune system                          | Hypogammaglobulinaemia a            | Common      | 3               | < 1 #           |
+| disorders                              | Anaphylactic reaction b             | Rare        | -               | -               |
+| Metabolism and nutrition disorders     | Hypokalaemia a                      | Very common | 10              | 3               |
+| Metabolism and nutrition disorders     | Decreased appetite                  |             | 10              | < 1             |
+| Metabolism and nutrition disorders     | Hyperglycaemia                      | Common      | 6               | 3               |
+| Metabolism and nutrition disorders     | Hypocalcaemia                       |             | 6               | 1               |
+| Metabolism and nutrition disorders     | Dehydration                         |             | 2               | 1 #             |
+| Psychiatric disorders                  | Insomnia                            | Very common | 17              | 1 #             |
+| Nervous system disorders               | Peripheral neuropathy               | Very common | 31              | 4               |
+| Nervous system disorders               | Headache                            |             | 11              | < 1 #           |
+| Nervous system disorders               | Dizziness                           | Common      | 9               | < 1 #           |
+| Nervous system disorders               | Paraesthesia                        |             | 9               | < 1             |
+| Nervous system disorders               | Syncope                             |             | 3               | 2 #             |
+| Cardiac disorders                      | Atrial fibrillation                 | Common      | 4               | 1               |
+| Vascular disorders                     | Hypertension a                      | Common      | 9               | 4               |
+| Respiratory, thoracic and mediastinal  | Cough a                             | Very common | 22              | < 1 #           |
+| Respiratory, thoracic and mediastinal  | Dyspnoea a                          |             | 18              | 2               |
+| disorders                              | Pulmonary oedema a                  | Common      | 1               | < 1             |
+| Gastrointestinal disorders             | Diarrhoea                           | Very common | 33              | 5               |
+| Gastrointestinal disorders             | Constipation                        |             | 28              | 1               |
+| Gastrointestinal disorders             | Nausea                              |             | 22              | 1 #             |
+| Gastrointestinal disorders             | Abdominal pain a                    |             | 14              | 1               |
+| Gastrointestinal disorders             | Vomiting                            |             | 13              | 1 #             |
+| Gastrointestinal disorders             | Pancreatitis a                      | Common      | 1               | < 1             |
+| Skin and subcutaneous tissue disorders | Rash                                | Very common | 12              | 1 #             |
+|                                        | Pruritus                            | Common      | 6               | < 1 #           |
+| Musculoskeletal and                    | Musculoskeletal pain a,h            | Very common | 35              | 3               |
+| connective tissue                      | Arthralgia                          |             | 14              | 1               |
+| disorders                              | Muscle spasms                       |             | 12              | < 1 #           |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1739,11 +1551,9 @@ With a median follow-up of 11.4 months, overall deaths (D-VCd 14% vs . VCd 15%) 
 
 ## Other special populations
 
-In the phase III study MMY3007, which compared treatment with D-VMP to treatment with VMP in patients with newly diagnosed multiple myeloma who are ineligible for autologous stem cell
+In the phase III study MMY3007, which compared treatment with D-VMP to treatment with VMP in patients with newly diagnosed multiple myeloma who are ineligible for autologous stem cell transplant, safety analysis of the subgroup of patients with an ECOG performance score of 2 (D-VMP: n=89, VMP: n=84), was consistent with the overall population (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-transplant, safety analysis of the subgroup of patients with an ECOG performance score of 2 (D-VMP: n=89, VMP: n=84), was consistent with the overall population (see section 5.1).
 
 ## Elderly patients
 
@@ -1832,11 +1642,9 @@ Results from the modified-CTSQ, a patient reported outcome questionnaire that as
 
 Combination therapies in multiple myeloma
 
-Combination treatment with bortezomib, lenalidomide and dexamethasone (VRd) in patients with newly diagnosed multiple myeloma eligible for autologous stem cell transplant (ASCT) Study MMY3014 was an open-label, randomised, active-controlled phase III study that compared induction and consolidation treatment with DARZALEX subcutaneous formulation (1800 mg) in combination with bortezomib, lenalidomide and dexamethasone (D-VRd), followed by maintenance with DARZALEX in combination with lenalidomide, to treatment with bortezomib, lenalidomide and dexamethasone (VRd), followed by maintenance with lenalidomide, in patients 70 years of age and younger with newly diagnosed multiple myeloma eligible for ASCT until documented disease
+Combination treatment with bortezomib, lenalidomide and dexamethasone (VRd) in patients with newly diagnosed multiple myeloma eligible for autologous stem cell transplant (ASCT) Study MMY3014 was an open-label, randomised, active-controlled phase III study that compared induction and consolidation treatment with DARZALEX subcutaneous formulation (1800 mg) in combination with bortezomib, lenalidomide and dexamethasone (D-VRd), followed by maintenance with DARZALEX in combination with lenalidomide, to treatment with bortezomib, lenalidomide and dexamethasone (VRd), followed by maintenance with lenalidomide, in patients 70 years of age and younger with newly diagnosed multiple myeloma eligible for ASCT until documented disease progression or unacceptable toxicity. An emergency short course of corticosteroid (equivalent of dexamethasone 40 mg/day for a maximum 4 days) was permitted before treatment. Patients received DARZALEX subcutaneous formulation (1800 mg) administered subcutaneously once weekly (days 1, 8, 15, and 22) for cycles 1-2 followed by once every two weeks (days 1 and 15) for cycles 3-6. For maintenance (cycles 7+), patients received DARZALEX subcutaneous formulation (1800 mg) once every four weeks. Patients who achieved MRD negativity that was sustained for 12 months and had been treated on maintenance for at least 24 months discontinued treatment with DARZALEX subcutaneous formulation (1800 mg). Bortezomib was administered by subcutaneous (SC) injection at a dose of 1.3 mg/m 2 body surface area twice weekly for two weeks (days 1, 4, 8, and 11) of repeated 28-day (4-week) cycles 1-6. Lenalidomide was administered orally at 25 mg daily on days 1 to 21 during cycles 1-6. For maintenance (cycles 7+), patients received 10 mg lenalidomide daily on days 1-28 (continuously) of each cycle until documented disease progression or unacceptable toxicity. Dexamethasone (oral or intravenous) was administered at 40 mg on days 1-4 and days 9-12 of cycles 1-6. On the days of DARZALEX subcutaneous formulation (1800 mg) injection, the dexamethasone dose was administered orally or intravenously as a pre-injection medicinal product. Dose adjustments for bortezomib, lenalidomide and dexamethasone were applied according to manufacturer's prescribing information.
 
 <div style=\"page-break-after: always\"></div>
-
-progression or unacceptable toxicity. An emergency short course of corticosteroid (equivalent of dexamethasone 40 mg/day for a maximum 4 days) was permitted before treatment. Patients received DARZALEX subcutaneous formulation (1800 mg) administered subcutaneously once weekly (days 1, 8, 15, and 22) for cycles 1-2 followed by once every two weeks (days 1 and 15) for cycles 3-6. For maintenance (cycles 7+), patients received DARZALEX subcutaneous formulation (1800 mg) once every four weeks. Patients who achieved MRD negativity that was sustained for 12 months and had been treated on maintenance for at least 24 months discontinued treatment with DARZALEX subcutaneous formulation (1800 mg). Bortezomib was administered by subcutaneous (SC) injection at a dose of 1.3 mg/m 2 body surface area twice weekly for two weeks (days 1, 4, 8, and 11) of repeated 28-day (4-week) cycles 1-6. Lenalidomide was administered orally at 25 mg daily on days 1 to 21 during cycles 1-6. For maintenance (cycles 7+), patients received 10 mg lenalidomide daily on days 1-28 (continuously) of each cycle until documented disease progression or unacceptable toxicity. Dexamethasone (oral or intravenous) was administered at 40 mg on days 1-4 and days 9-12 of cycles 1-6. On the days of DARZALEX subcutaneous formulation (1800 mg) injection, the dexamethasone dose was administered orally or intravenously as a pre-injection medicinal product. Dose adjustments for bortezomib, lenalidomide and dexamethasone were applied according to manufacturer's prescribing information.
 
 A total of 709 patients were randomised: 355 to the D-VRd arm and 354 to the VRd arm. The baseline demographic and disease characteristics were similar between the two treatment groups. The median age was 60 (range: 31 to 70 years). The majority were male (59%), 64% had an ECOG performance score of 0, 31% had an ECOG performance score of 1 and 5% had an ECOG performance score of 2. Additionally, 51% had ISS stage I, 34% had ISS stage II, 15% had ISS stage III disease, 75% had a standard cytogenetic risk, 22% had a high cytogenetic risk (del17p, t[4;14], t[14;16]), and 3% had an indeterminate cytogenetic risk.
 
@@ -1844,37 +1652,11 @@ With a median follow-up of 47.5 months, the primary analysis of PFS in study MMY
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1:
-
-Kaplan-Meier curve of PFS in study MMY3014
-
 Figure 1: Kaplan-Meier curve of PFS in study MMY3014
-
-progression
-
-Proportion surviving without
-
-0.8 -
-
-0.6-
-
-0.4-
-
-0.2-
-
-0.0 +
-
-No. at risk
-
-Đ D-VRd
 
 <!-- image -->
 
-VRd 354 335 321 311 304 297 291 283 278 270 258 247 238 228 219 175 67
-
-D-VRd 355 345 335 329 327 322 318 316 313 309 305 302 299 295 286 226 90
-
-Additional efficacy results from study MMV3014 are presented in table 11 helow.
+No. at risk
 
 Additional efficacy results from study MMY3014 are presented in table 11 below.
 
@@ -1894,6 +1676,8 @@ Table 11: Efficacy results from study MMY3014 a
 | Overall MRDnegativity rate a,c    | 267 (75.2%)     | 168 (47.5%)    | 3.40 (2.47, 4.69)       |
 | 95% CI (%)                        | (70.4%, 79.6%)  | (42.2%, 52.8%) |                         |
 | P-value b                         |                 |                | < 0.0001                |
+
+Months
 
 0
 
@@ -1920,35 +1704,9 @@ With a median follow-up of 39 months, an interim analysis of PFS in Study MMY301
 
 <div style=\"page-break-after: always\"></div>
 
-Proportion surviving without progression
-
-1.0-00
-
 Figure 2: Kaplan-Meier curve of PFS at final analysis in study MMY3019
 
-0.8-00
-
-0.6 m
-
-0.4 —
-
-0.2 -
-
-0
-
-0
-
-No. at risk
-
-VRd
-
-198
-
-197
-
 <!-- image -->
-
-D-VRd
 
 At the time of interim PFS analysis, an improvement in 1-year sustained MRD negativity rate (by NGS at or below 10 -5 ) for patients reaching CR or better was observed in the D-VRd arm as compared to the VRd arm. Sustained MRD negativity rates were 42.6% (95% CI: 35.6, 49.9) in the D-VRd arm and 25.3% (95% CI: 19.4, 31.9) in the VRd arm (odds ratio [D-VRd versus VRd] 2.18 with 95% CI: 1.42, 3.34; p=0.0003).
 
@@ -2010,11 +1768,9 @@ a Based on treated subjects.
 
 ## Combination treatment with pomalidomide and dexamethasone (Pd)
 
-Study MMY3013 was an open-label, randomised, active-controlled phase III study that compared treatment with DARZALEX subcutaneous formulation (1800 mg) in combination with pomalidomide
+Study MMY3013 was an open-label, randomised, active-controlled phase III study that compared treatment with DARZALEX subcutaneous formulation (1800 mg) in combination with pomalidomide and low-dose dexamethasone (D-Pd) to treatment with pomalidomide and low-dose dexamethasone (Pd) in patients with multiple myeloma who had received at least one prior line of therapy with lenalidomide and a proteasome inhibitor (PI). Pomalidomide (4 mg once daily orally on days 1-21 of repeated 28-day [4-week] cycles) was given with low dose oral or intravenous dexamethasone 40 mg/week (or a reduced dose of 20 mg/week for patients &gt; 75 years). On DARZALEX subcutaneous formulation administration days, 20 mg of the dexamethasone dose was given as a preadministration medicinal product and the remainder given the day after the administration. For patients on a reduced dexamethasone dose, the entire 20 mg dose was given as a DARZALEX subcutaneous formulation pre-administration medicinal product. Dose adjustments for pomalidomide and dexamethasone were applied according to manufacturer's prescribing information. Treatment was continued in both arms until disease progression or unacceptable toxicity.
 
 <div style=\"page-break-after: always\"></div>
-
-and low-dose dexamethasone (D-Pd) to treatment with pomalidomide and low-dose dexamethasone (Pd) in patients with multiple myeloma who had received at least one prior line of therapy with lenalidomide and a proteasome inhibitor (PI). Pomalidomide (4 mg once daily orally on days 1-21 of repeated 28-day [4-week] cycles) was given with low dose oral or intravenous dexamethasone 40 mg/week (or a reduced dose of 20 mg/week for patients &gt; 75 years). On DARZALEX subcutaneous formulation administration days, 20 mg of the dexamethasone dose was given as a preadministration medicinal product and the remainder given the day after the administration. For patients on a reduced dexamethasone dose, the entire 20 mg dose was given as a DARZALEX subcutaneous formulation pre-administration medicinal product. Dose adjustments for pomalidomide and dexamethasone were applied according to manufacturer's prescribing information. Treatment was continued in both arms until disease progression or unacceptable toxicity.
 
 A total of 304 patients were randomised: 151 to the D-Pd arm and 153 to the Pd arm. Patients with documented evidence of disease progression on or after the last regimen were included in the study. Patients who had ≥ grade 3 rash during prior therapy were excluded as per the pomalidomide Summary of Product Characteristics. The baseline demographic and disease characteristics were similar between the two treatment groups. The median patient age was 67 years (range 35 to 90 years), 18% were ≥ 75 years, 53% were male, and 89% Caucasian. Patients had received a median of 2 prior lines of therapy. All patients received a prior treatment with a proteasome inhibitor (PI) and lenalidomide, and 56% of patients received prior stem cell transplantation (ASCT). Ninety-six percent (96%) of patients received prior treatment with bortezomib. The majority of patients were refractory to lenalidomide (80%), a PI (48%), or both an immunomodulator and a PI (42%). Eleven percent of patients received 1 prior line of therapy; all were refractory to lenalidomide and 32.4% were refractory to both lenalidomide and a PI. Efficacy was evaluated by progression free survival (PFS) based on International Myeloma Working Group (IMWG) criteria.
 
@@ -2022,43 +1778,7 @@ With a median follow-up of 16.9 months, the primary analysis of PFS in study MMY
 
 <div style=\"page-break-after: always\"></div>
 
-Proportion surviving without progression
-
-1.0
-
-0.8
-
-0.6
-
-0.4
-
-0.2
-
-0+
-
-No. at risk
-
-Pd
-
-D-Pd
-
-D-Pd
-
-(N = 151)
-
-Median progression-free survival - months
-
-12.4
-
-Pd
-
-(N= 153)
-
-6.9
-
 Figure 3: Kaplan-Meier curve of PFS in study MMY3013
-
-P = 0.0018
 
 <!-- image -->
 
@@ -2101,27 +1821,9 @@ The primary endpoint of the study was PFS as assessed by the independent review 
 
 <div style=\"page-break-after: always\"></div>
 
-1.0·
-
 Figure 4: Kaplan-Meier curve of PFS in study SMM3001
 
-Proportion surviving without progression
-
-0.8
-
-0.6
-
-0.4 mard
-
-0.2-
-
-No. at risk
-
-Daratumumab
-
 <!-- image -->
-
-Active monitoring
 
 Table 15: Efficacy results from study SMM3001 a
 
@@ -2149,11 +1851,9 @@ d p-value based on the log-rank test stratified by the stratification factor.
 
 Combination treatment with bortezomib, cyclophosphamide and dexamethasone in patients with AL amyloidosis
 
-Study AMY3001, an open-label, randomised, active-controlled phase III study, compared treatment with DARZALEX subcutaneous formulation (1800 mg) in combination with bortezomib,
+Study AMY3001, an open-label, randomised, active-controlled phase III study, compared treatment with DARZALEX subcutaneous formulation (1800 mg) in combination with bortezomib, cyclophosphamide and dexamethasone (D-VCd) to treatment with bortezomib, cyclophosphamide and dexamethasone (VCd) alone in patients with newly diagnosed systemic AL amyloidosis. Randomisation was stratified by AL amyloidosis Cardiac Staging System, countries that typically offer autologous stem cell transplant (ASCT) for patients with AL amyloidosis, and renal function.
 
 <div style=\"page-break-after: always\"></div>
-
-cyclophosphamide and dexamethasone (D-VCd) to treatment with bortezomib, cyclophosphamide and dexamethasone (VCd) alone in patients with newly diagnosed systemic AL amyloidosis. Randomisation was stratified by AL amyloidosis Cardiac Staging System, countries that typically offer autologous stem cell transplant (ASCT) for patients with AL amyloidosis, and renal function.
 
 All patients enroled in study AMY3001 had newly diagnosed AL amyloidosis with at least one affected organ, measurable haematologic disease, cardiac stage I-IIIA (based on European Modification of Mayo 2004 cardiac stage), and NYHA class I-IIIA. Patients with NYHA class IIIB and IV were excluded.
 
@@ -2185,29 +1885,11 @@ With a median follow-up of 11.4 months, in responders, the median time to HemCR 
 
 <div style=\"page-break-after: always\"></div>
 
-Proportion surviving without progression
+After a median follow-up of 61.4 months, the overall HemCR rates were 59.5% (95% CI: 52.2, 66.4) in the D-VCd group and 19.2% (95% CI: 13.9, 25.4) in the VCd group (odds ratio [D-VCd versus VCd] 6.03 with 95% CI: 3.80, 9.58).
 
-1.0
-
-0.4-
-
-0.2-
-
-0.0-
-
-No. at risk
-
-VCd 193
-
-D-VCd 195
-
-After a median follow-up of 61.4 months, the overall HemCR rates were 59.5% (95% CI: 52.2, 66.4) in the D-VCd group and 19.2% (95% CI: 13.9, 25.4) in the VCd group (odds ratio [D-VCd versus VCd] 6.03 with 95% CI: 3.80, 9.58). D-VCd (N=195)
-
-Results of a MOD-PFS analysis after a median follow-up of 61.4 months showed an improvement in MOD-PFS for patients in the D-VCd group compared with the VCd group. The hazard ratio (HR) for MOD-PFS was 0.44 (95% CI: 0.31, 0.63) and the p-value was &lt;0.0001. The median MOD-PFS was not reached in the D-VCd arm and was 30.2 months in the VCd arm. The Kaplan-Meier estimated 60-month MOD-PFS rate was 60% (95% CI: 52, 67) in the D-VCd arm and was 33% (95% CI: 23, 44) in the VCd arm. VCd (N= 193)
+Results of a MOD-PFS analysis after a median follow-up of 61.4 months showed an improvement in MOD-PFS for patients in the D-VCd group compared with the VCd group. The hazard ratio (HR) for MOD-PFS was 0.44 (95% CI: 0.31, 0.63) and the p-value was &lt;0.0001. The median MOD-PFS was not reached in the D-VCd arm and was 30.2 months in the VCd arm. The Kaplan-Meier estimated 60-month MOD-PFS rate was 60% (95% CI: 52, 67) in the D-VCd arm and was 33% (95% CI: 23, 44) in the VCd arm.
 
 Figure 5: Kaplan-Meier curve of MOD-PFS in study AMY3001
-
-· DO
 
 <!-- image -->
 
@@ -2215,29 +1897,7 @@ After a median follow-up of 61.4 months, a total of 112 deaths were observed [n=
 
 <div style=\"page-break-after: always\"></div>
 
-Proportion surviving
-
-1.0
-
-0.8
-
-0.6·
-
-0.4-
-
-0.2-
-
-0.0 -
-
-No. at risk
-
-VCd 193
-
-D-VCd 195
-
 Figure 6: Kaplan-Meier curve of OS in study AMY3001
-
-D-VCd (N=195)
 
 <!-- image -->
 
@@ -2253,63 +1913,21 @@ A total of 737 patients were randomised: 368 to the DRd arm and 369 to the Rd ar
 
 <div style=\"page-break-after: always\"></div>
 
-1.0
-
-Proportion surviving without progression
-
-0.8
-
--
-
-0.6
-
-0.4 -
-
-0.2-
-
-No. at risk
-
-D-Rd
-
-Rd
-
 With a median follow-up of 28 months, the primary analysis of PFS in study MMY3008 showed an improvement in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 31.9 months in the Rd arm (HR=0.56; 95% CI: 0.43, 0.73; p &lt; 0.0001), representing 44% reduction in the risk of disease progression or death in patients treated with DRd. Results of an updated PFS analysis after a median follow-up of 64 months continued to show an improvement in PFS for patients in the DRd arm compared with the Rd arm. Median PFS was 61.9 months in the DRd arm and 34.4 months in the Rd arm (HR=0.55; 95% CI: 0.45, 0.67).
 
 Figure 7: Kaplan-Meier curve of PFS in study MMY3008
 
-(N= 368)
-
-aoRd
-
 <!-- image -->
-
-(N = 369)
 
 With a median follow-up of 56 months, DRd has shown an OS advantage over the Rd arm (HR=0.68; 95% CI: 0.53, 0.86; p=0.0013). Results of an updated OS analysis after a median of 89 months continued to show an improvement in OS for patients in the DRd arm compared to the Rd arm. Median OS was 90.3 months in the DRd arm and was 64.1 months in the Rd arm (HR= 0.67; 95% CI: 0.55, 0.82).
 
 <div style=\"page-break-after: always\"></div>
 
-Proportion surviving
-
-1.0·
-
-0.8 -
-
-0.6 -
-
-0.4-
-
-0.2-
-
-0.0-
-
-No. at risk
-
 Figure 8: Kaplan-Meier curve of OS in study MMY3008
 
-#--01-008-0-0-0000
-
 <!-- image -->
+
+No.atrisk
 
 Additional efficacy results from study MMY3008 are presented in table 17 below.
 
@@ -2331,6 +1949,8 @@ Table 17: Additional efficacy results from study MMY3008 a
 | 95% CI (%)                               | (19.9%, 28.9%)    | (4.9%, 10.5%) |
 | Odds ratio with 95% CI d                 | 4.04 (2.55, 6.39) |               |
 | p-value e                                | < 0.0001          |               |
+
+2 0 0 0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2354,71 +1974,13 @@ With a median follow-up of 16.5 months, the primary analysis of PFS in study MMY
 
 <div style=\"page-break-after: always\"></div>
 
-1.0
-
-Proportion surviving without progression
-
-No. at risk
-
-VMP
-
-D-VMP
-
-0.8
-
--
-
-0.4
-
-0.2-
-
-0+
-
-D-VMP
-
-(N = 350)
-
-Median progression-free survival - months
-
-36.4
-
-VMP
-
-(N = 356)
-
-19.3
-
 Figure 9: Kaplan-Meier curve of PFS in study MMY3007
-
-P&lt;0.0001
 
 <!-- image -->
 
 After a median follow-up of 40 months, D-VMP has shown an OS advantage over the VMP arm (HR=0.60; 95% CI: 0.46, 0.80; p=0.0003), representing a 40% reduction in the risk of death in patients treated in the D-VMP arm. After a median follow-up of 87 months, the median OS was 83 months (95% CI: 72.5, NE) in the D-VMP arm and 53.6 months (95% CI: 46.3, 60.9) in the VMP arm.
 
 <div style=\"page-break-after: always\"></div>
-
-Proportion surviving
-
-1.0
-
-0.8
-
-0.6 -
-
-0.4-
-
-0.2 -
-
-0.
-
-0
-
-No. at risk
-
-VMP 356 323 311 291
-
-D-VMP 350 327 318 301
 
 Figure 10: Kaplan-Meier curve of OS in study MMY3007
 
@@ -2483,26 +2045,6 @@ Table 19: Efficacy results from study MMY3006 a
 
 <div style=\"page-break-after: always\"></div>
 
-g without progression surviving 1
-
-Proportio
-
-1.0 -
-
-0.8 -
-
-0.6 -
-
-0.4-
-
-0.2 -
-
-0
-
-0
-
-No. at risk
-
 | MRDnegativity in combination with CR or better c n(%)   | 183 (33.7%)       | 108 (19.9%)    | < 0.0001   |
 |---------------------------------------------------------|-------------------|----------------|------------|
 | 95% CI (%)                                              | (29.7%, 37.9%)    | (16.6%, 23.5%) |            |
@@ -2520,13 +2062,9 @@ With a median follow-up of 18.8 months, the primary analysis of PFS by censoring
 
 Figure 11: Kaplan-Meier curve of PFS in study MMY3006
 
-3
-
-6
-
-9 12 15 18 21 24 27 30 33 36 39 42
-
 <!-- image -->
+
+## No. at risk
 
 ## Relapsed/refractory multiple myeloma
 
@@ -2534,11 +2072,19 @@ Figure 11: Kaplan-Meier curve of PFS in study MMY3006
 
 The clinical efficacy and safety of intravenous daratumumab monotherapy for the treatment of adult patients with relapsed and refractory multiple myeloma whose prior therapy included a proteasome
 
-45
+934
 
-48 51
+13
 
-54 57 60
+16
+
+0
+
+1
+
+0
+
+0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2575,11 +2121,9 @@ At a survival update with a median duration of follow-up of 15.2 months, median 
 
 ## Combination treatment with lenalidomide
 
-Study MMY3003, an open-label, randomised, active-controlled phase III study, compared treatment with intravenous daratumumab 16 mg/kg in combination with lenalidomide and low-dose dexamethasone (DRd) to treatment with lenalidomide and low-dose dexamethasone (Rd) in patients
+Study MMY3003, an open-label, randomised, active-controlled phase III study, compared treatment with intravenous daratumumab 16 mg/kg in combination with lenalidomide and low-dose dexamethasone (DRd) to treatment with lenalidomide and low-dose dexamethasone (Rd) in patients with relapsed or refractory multiple myeloma who had received at least one prior therapy. Lenalidomide (25 mg once daily orally on days 1-21 of repeated 28-day [4-week] cycles) was given with low dose dexamethasone at 40 mg/week (or a reduced dose of 20 mg/week for patients &gt; 75 years or BMI &lt; 18.5). On intravenous daratumumab infusion days, 20 mg of the dexamethasone dose was given as a pre-infusion medicinal product and the remainder given the day after the infusion. Treatment was continued in both arms until disease progression or unacceptable toxicity.
 
 <div style=\"page-break-after: always\"></div>
-
-with relapsed or refractory multiple myeloma who had received at least one prior therapy. Lenalidomide (25 mg once daily orally on days 1-21 of repeated 28-day [4-week] cycles) was given with low dose dexamethasone at 40 mg/week (or a reduced dose of 20 mg/week for patients &gt; 75 years or BMI &lt; 18.5). On intravenous daratumumab infusion days, 20 mg of the dexamethasone dose was given as a pre-infusion medicinal product and the remainder given the day after the infusion. Treatment was continued in both arms until disease progression or unacceptable toxicity.
 
 A total of 569 patients were randomised; 286 to the DRd arm and 283 to the Rd arm. The baseline demographic and disease characteristics were similar between the intravenous daratumumab and the control arm. The median patient age was 65 years (range 34 to 89 years) and 11% were ≥ 75 years. The majority of patients (86%) received a prior PI, 55% of patients had received a prior IMiD, including 18% of patients who had received prior lenalidomide; and 44% of patients had received both a prior PI and IMiD. At baseline, 27% of patients were refractory to the last line of treatment. Eighteen percent (18%) of patients were refractory to a PI only, and 21% were refractory to bortezomib. Patients refractory to lenalidomide were excluded from the study.
 
@@ -2587,73 +2131,29 @@ With a median follow-up of 13.5 months, the primary analysis of PFS in study MMY
 
 <div style=\"page-break-after: always\"></div>
 
-1.0
+Figure 12: Kaplan-Meier curve of PFS in study MMY3003
 
-Proportion surviving without progression
+<!-- image -->
 
 No. at risk
 
-Rd
+Rd 28324920618116014412711210291837566635348454028510
 
 D-Rd
-
-0.6
-
-0.4
-
-0.2
-
-0-
-
-Median progression-free survival - months
-
-D-Rd
-
-Rd
-
-(N = 286)
-
-(N= 283)
-
-45.0
-
-Figure 12: Kaplan-Meier curve of PFS in study MMY3003
-
-17.5
-
-0.44 (0.35-0.54)
-
-P&lt;0.0001
-
-<!-- image -->
 
 After a median follow-up of 80 months, DRd has shown an OS advantage over the Rd arm (HR=0.73; 95% CI: 0.58, 0.91; p=0.0044). The median OS was 67.6 months in the DRd arm and 51.8 months in the Rd arm.
 
 <div style=\"page-break-after: always\"></div>
 
-Proportion surviving
+Figure 13: Kaplan-Meier curve of OS in study MMY3003
 
-1.0
-
-0.8
-
-0.6
-
-0.4 -
-
-0.2 -
-
-OT
+<!-- image -->
 
 No. at risk
 
 Rd
 
-'A
-
-Figure 13: Kaplan-Meier curve of OS in study MMY3003
-
-<!-- image -->
+D-Rd
 
 Additional efficacy results from study MMY3003 are presented in table 21 below.
 
@@ -2686,75 +2186,31 @@ Study MMY3004, an open-label, randomised, active-controlled phase III study, com
 
 <div style=\"page-break-after: always\"></div>
 
-1.0
-
-Proportion surviving without progression
-
-0.8
-
-0.4
-
-0.2
-
-No. at risk
-
-D-Vd
-
-Median progression-free survival - months
-
-D-Vd
-
-(N = 251)
-
-16.7
-
-Vd
-
-(N= 247)
-
-7.1
-
 Dexamethasone was administered orally at a dose of 20 mg on days 1, 2, 4, 5, 8, 9, 11, and 12 of each of the 8 bortezomib cycles (80 mg/week for two out of three weeks of the bortezomib cycle) or a reduced dose of 20 mg/week for patients &gt; 75 years, BMI &lt; 18.5, poorly controlled diabetes mellitus or prior intolerance to steroid therapy. On the days of intravenous daratumumab infusion, 20 mg of the dexamethasone dose was administered as a pre-infusion medicinal product. intravenous daratumumab treatment was continued until disease progression or unacceptable toxicity.
 
 A total of 498 patients were randomised; 251 to the DVd arm and 247 to the Vd arm. The baseline demographic and disease characteristics were similar between the intravenous daratumumab and the control arm. The median patient age was 64 years (range 30 to 88 years) and 12% were ≥ 75 years. Sixty-nine percent (69%) of patients had received a prior PI (66% received bortezomib) and 76% of patients received an IMiD (42% received lenalidomide). At baseline, 32% of patients were refractory to the last line of treatment. Thirty-three percent (33%) of patients were refractory to an IMiD only, and 28% were refractory to lenalidomide. Patients refractory to bortezomib were excluded from the study.
 
-With a median follow-up of 7.4 months, the primary analysis of PFS in study MMY3004 demonstrated an improvement in the DVd arm as compared to the Vd arm; the median PFS had not been reached in the DVd arm and was 7.2 months in the Vd arm (HR [95% CI]: 0.39 [0.28, 0.53]; p-value &lt; 0.0001). Results of an updated PFS analysis after a median follow-up of 50 months continued to show an improvement in PFS for patients in the DVd arm compared with the Vd arm. Median PFS was 16.7 months in the DVd arm and 7.1 months in the Vd arm (HR [95% CI]: 0.31 [0.24, 0.39]; p-value &lt; 0.0001), representing a 69% reduction in the risk of disease progression or death in patients treated with DVd versus Vd (see figure 14). T
+With a median follow-up of 7.4 months, the primary analysis of PFS in study MMY3004 demonstrated an improvement in the DVd arm as compared to the Vd arm; the median PFS had not been reached in the DVd arm and was 7.2 months in the Vd arm (HR [95% CI]: 0.39 [0.28, 0.53]; p-value &lt; 0.0001). Results of an updated PFS analysis after a median follow-up of 50 months continued to show an improvement in PFS for patients in the DVd arm compared with the Vd arm. Median PFS was 16.7 months in the DVd arm and 7.1 months in the Vd arm (HR [95% CI]: 0.31 [0.24, 0.39]; p-value &lt; 0.0001), representing a 69% reduction in the risk of disease progression or death in patients treated with DVd versus Vd (see figure 14).
 
 Figure 14: Kaplan-Meier curve of PFS in study MMY3004
-
-251 215198161 138123109 92 85 77 68 61 54 50 48 46 38 20
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Proportion surviving
-
-1.0
-
-0.8
-
-0.6 -
-
-0.4 -
-
-0.2 -
-
-No. at risk
-
-D-Vd
-
--A·
-
 After a median follow-up of 73 months, DVd has shown an OS advantage over the Vd arm (HR=0.74; 95% CI: 0.59, 0.92; p=0.0075). The median OS was 49.6 months in the DVd arm and 38.5 months in the Vd arm.
 
 Figure 15: Kaplan-Meier curve of OS in study MMY3004
 
-T
-
-3
-
 <!-- image -->
+
+No. at risk
+
+Vd
+
+D-Vd
+
+251231225211207201189182172159154150144138132128120113109107103100 96 88 54 24 9
 
 Additional efficacy results from study MMY3004 are presented in table 22 below.
 
@@ -2788,6 +2244,10 @@ d p-value is from Fisher's exact test.
 
 Daratumumab as a large protein has a low likelihood of direct ion channel interactions. The effect of daratumumab on the QTc interval was evaluated in an open-label study for 83 patients (Study
 
+0
+
+0
+
 <div style=\"page-break-after: always\"></div>
 
 GEN501) with relapsed and refractory multiple myeloma following daratumumab infusions (4 to 24 mg/kg). Linear mixed PK-PD analyses indicated no large increase in mean QTcF interval (i.e. greater than 20 ms) at daratumumab Cmax.
@@ -2812,11 +2272,9 @@ In patients with newly diagnosed multiple myeloma for whom ASCT was not planned 
 
 In patients with multiple myeloma, daratumumab exposure in a combination study with pomalidomide and dexamethasone (study MMY3013) was similar to that in monotherapy, with the maximum Ctrough (cycle 3 day 1 pre-dose) mean ± SD of 537 ± 277 µg/mL following the recommended 1800 mg administration of DARZALEX solution for subcutaneous injection (weekly for 8 weeks, biweekly for 16 weeks, monthly thereafter).
 
-In patients with smouldering multiple myeloma at high risk of developing multiple myeloma, daratumumab exposure in a monotherapy study (SMM3001) was similar to that in multiple myeloma
+In patients with smouldering multiple myeloma at high risk of developing multiple myeloma, daratumumab exposure in a monotherapy study (SMM3001) was similar to that in multiple myeloma monotherapy with the maximum Ctrough (cycle 3 day 1 pre-dose) mean ± SD of 654 ± 243 µg/mL following the recommended 1800 mg administration of DARZALEX solution for subcutaneous injection (weekly for 8 weeks, biweekly for 16 weeks, monthly thereafter).
 
 <div style=\"page-break-after: always\"></div>
-
-monotherapy with the maximum Ctrough (cycle 3 day 1 pre-dose) mean ± SD of 654 ± 243 µg/mL following the recommended 1800 mg administration of DARZALEX solution for subcutaneous injection (weekly for 8 weeks, biweekly for 16 weeks, monthly thereafter).
 
 ## Absorption and distribution
 
@@ -3090,7 +2548,9 @@ The Patient Alert Card , shall contain the following key elements:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-DARZALEX 20 mg/mL concentrate for solution for infusion daratumumab
+DARZALEX 20 mg/mL concentrate for solution for infusion
+
+daratumumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3392,7 +2852,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-DARZALEX 1800 mg solution for injection daratumumab
+DARZALEX 1800 mg solution for injection
+
+daratumumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3460,7 +2922,7 @@ Lot
 
 16. INFORMATION IN BRAILLE
 
-Justification for not including Braille accepted
+darzalex
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
@@ -3476,9 +2938,7 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL                                                             |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
 |------|----------------------------------------------------------|
@@ -3741,7 +3201,7 @@ Very common (may affect more than 1 in 10 people):
 -  unusual feeling in the skin (such as a tingling or crawling feeling)
 -  COVID-19.
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
 -  irregular heart beat (atrial fibrillation)
 -  build up of fluid in the lungs making you short of breath
@@ -4095,6 +3555,10 @@ DARZALEX will be given to you by a doctor or nurse as an injection under your sk
 
 If you experience pain during the injection, the doctor or nurse may interrupt the injection and give you the remaining injection in another area of your abdomen.
 
+Your doctor will decide if you or your caregiver can administer DARZALEX after proper training.
+
+Always use this medicine exactly as the doctor or nurse has told you. Check with the doctor, pharmacist or nurse if you are not sure. If you feel unwell talk to your doctor or pharmacist. Talk to your doctor about when you will have your injections and follow-up appointments.
+
 ## Medicines given during treatment with DARZALEX
 
 You may be given medicines to lower the chance of getting shingles.
@@ -4105,6 +3569,8 @@ Before each injection of DARZALEX you will be given medicines which help to lowe
 -  medicines for inflammation (corticosteroids)
 -  medicines for fever (such as paracetamol).
 
+<div style=\"page-break-after: always\"></div>
+
 After each injection of DARZALEX you will be given medicines (such as corticosteroids) to lower the chance of infusion-related reactions.
 
 ## People with breathing problems
@@ -4112,9 +3578,6 @@ After each injection of DARZALEX you will be given medicines (such as corticoste
 If you have breathing problems, such as asthma or Chronic Obstructive Pulmonary Disease (COPD), you will be given medicines to inhale which help your breathing problems:
 
 -  medicines to help the airways in your lungs stay open (bronchodilators)
-
-<div style=\"page-break-after: always\"></div>
-
 -  medicines to lower swelling and irritation in your lungs (corticosteroids).
 
 ## If you are given more DARZALEX than you should
@@ -4165,6 +3628,8 @@ If you get any of the infusion-related reactions above, tell your doctor or nurs
 
 Skin reactions at or near the injection site (local), including injection site reactions, can happen with DARZALEX solution for subcutaneous injection. These reactions are very common (may affect more than 1 in 10 people). Symptoms at the site of injection may include redness of the skin, itching, swelling, pain, bruising, rash, bleeding.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other side effects
 
 Very common (may affect more than 1 in 10 people):
@@ -4173,9 +3638,6 @@ Very common (may affect more than 1 in 10 people):
 -  feeling very tired
 -  diarrhoea
 -  constipation
-
-<div style=\"page-break-after: always\"></div>
-
 -  abdominal pain
 -  decreased appetite
 -  difficulty sleeping
@@ -4222,13 +3684,11 @@ Very common (may affect more than 1 in 10 people):
 
 If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How to store DARZALEX
 
-DARZALEX solution for subcutaneous injection will be stored at the hospital or clinic.
-
 Keep this medicine out of the sight and reach of children.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not use this medicine after the expiry date which is stated on the carton and the vial label after EXP. The expiry date refers to the last day of that month.
 
@@ -4259,29 +3719,19 @@ Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 Janssen Biologics B.V. Einsteinweg 101 NL-2333 CB Leiden The Netherlands
 
-## Janssen Pharmaceutica NV
-
-Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen Pharmaceutica NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Tel/Tél: +32 14 64 94 11
+## België/Belgique/Belgien
 
-Janssen-Cilag NV janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com Lietuva UAB 'JOHNSON &amp; JOHNSON' Tel: +370 5 278 68 88 lt@its.jnj.com
 
-## Lietuva
-
-UAB 'JOHNSON &amp; JOHNSON' Tel: +370 5 278 68 88 lt@its.jnj.com
+<div style=\"page-break-after: always\"></div>
 
 ## България
 
 'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
-
-## Luxembourg/Luxemburg
-
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
-
-<div style=\"page-break-after: always\"></div>
 
 ## Česká republika
 
@@ -4325,11 +3775,9 @@ Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
 
 Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
-## Italia
+## Luxembourg/Luxemburg
 
-Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1
-
-janssenita@its.jnj.com
+Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
 
 ## Magyarország
 
@@ -4373,19 +3821,27 @@ Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
 
 Johnson &amp; Johnson, s.r.o. Tel: +421 232 408 400
 
-## Suomi/Finland
+<div style=\"page-break-after: always\"></div>
 
-Puh/Tel: +358 207 531 300
+## Italia
 
-Janssen-Cilag Oy jacfi@its.jnj.com
+Janssen-Cilag SpA
+
+Tel: 800.688.777 / +39 02 2510 1
+
+janssenita@its.jnj.com
 
 ## Κύπρος
 
-Βαρνάβας Χατζηπαναγής Λτδ Τηλ: +357 22 207 700
+Βαρνάβας Χατζηπαναγής Λτδ
 
-<div style=\"page-break-after: always\"></div>
+Τηλ: +357 22 207 700
 
-Latvija UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
+## Latvija
+
+UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
+
+Tel: +371 678 93561 lv@its.jnj.com
 
 ## This leaflet was last revised in
 
@@ -4401,7 +3857,7 @@ DARZALEX solution for subcutaneous injection should be administered by a healthc
 
 To prevent medication errors, it is important to check the vial labels to ensure that the appropriate formulation (intravenous or subcutaneous formulation) and dose is being given to the patient as prescribed. DARZALEX solution for injection should be given by subcutaneous injection only, using the dose specified. DARZALEX subcutaneous formulation is not intended for intravenous administration.
 
-DARZALEX solution for subcutaneous injection is for single use only and is ready to use.
+## DARZALEX solution for subcutaneous injection is for single use only and is ready to use.
 
 -  DARZALEX solution for subcutaneous injection is compatible with polypropylene or polyethylene syringe material; polypropylene, polyethylene, or polyvinyl chloride (PVC) subcutaneous infusion sets; and stainless steel transfer and injection needles.
 -  DARZALEX solution for subcutaneous injection should be a clear to opalescent and colourless to yellow solution. Do not use if opaque particles, discolouration or other foreign particles are present.
@@ -4411,18 +3867,17 @@ DARZALEX solution for subcutaneous injection is for single use only and is ready
 
 ## Storage of prepared syringe
 
--  If the syringe containing DARZALEX is not used immediately, store the solution of DARZALEX for up to 24 hours refrigerated followed by up to 12 hours at 15 °C-25 °C and ambient light. If stored in the refrigerator, allow the solution to reach ambient temperature before administration.
+-  If the syringe containing DARZALEX is not used immediately, store the solution of DARZALEX for up to 24 hours refrigerated followed by up to 12 hours at 15 °C-25 °C and
 
-## Administration
+Suomi/Finland Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 
--  Inject 15 mL DARZALEX solution for subcutaneous injection into the subcutaneous tissue of the abdomen approximately 7.5 cm to the right or left of the navel over approximately 3-
-
-Sverige Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
+Sverige Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com ambient light. If stored in the refrigerator, allow the solution to reach ambient temperature before administration.
 
 <div style=\"page-break-after: always\"></div>
 
-5 minutes. Do not inject DARZALEX solution for subcutaneous injection at other sites of the body as no data are available.
+## Administration
 
+-  Inject 15 mL DARZALEX solution for subcutaneous injection into the subcutaneous tissue of the abdomen approximately 7.5 cm to the right or left of the navel over approximately 35 minutes. Do not inject DARZALEX solution for subcutaneous injection at other sites of the body as no data are available.
 -  Injection sites should be rotated for successive injections.
 -  DARZALEX solution for subcutaneous injection should never be injected into areas where the skin is red, bruised, tender, hard or areas where there are scars.
 -  Pause or slow down delivery rate if the patient experiences pain. In the event pain is not alleviated by slowing down the injection, a second injection site may be chosen on the opposite side of the abdomen to deliver the remainder of the dose.
@@ -4432,3 +3887,303 @@ Sverige Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+<div style=\"page-break-after: always\"></div>
+
+## The following information is intended for Patients and Caregivers only: Instructions for Use
+
+Your healthcare provider will administer the initial injections of DARZALEX subcutaneously (under the skin), hereafter referred to as DARZALEX. Afterwards you and your doctor may decide that you or a caregiver may inject DARZALEX. If this happens, you or a caregiver will get training from your healthcare provider on how to prepare and inject DARZALEX. Talk to your doctor if you have any questions about giving yourself an injection.
+
+## Storage
+
+## Storage of unopened vial
+
+Store in refrigerator at 2 °C to 8 °C. Once the vial of DARZALEX is removed from the refrigerator, it should not be returned to the refrigerator.
+
+Keep the medication out of the sight and reach of children.
+
+## Supplies
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. Inspect carton and check the vial
+
+<!-- image -->
+
+<!-- image -->
+
+## Allow medication to come to room temperature
+
+Take the box with the vial out of the refrigerator.
+
+Check the box with the vial to make sure it has not passed its expiration date.
+
+Do not use the medication if the expiration date has passed.
+
+Let the box with the vial stand for about 30 minutes.
+
+This will let the liquid come to a comfortable temperature for injection (room temperature).
+
+Keep out of direct sunlight.
+
+Do not shake the box with the vial.
+
+## Check the liquid in the vial
+
+Remove the vial from the box.
+
+Do not shake the vial.
+
+The liquid in the vial should be clear and colourless to light yellow.
+
+Do not use if the liquid is discoloured or cloudy or contains any foreign particles and contact your healthcare provider for assistance.
+
+## 2. Prepare for the injection
+
+<!-- image -->
+
+* Areas in grey are recommended injection sites.
+
+<!-- image -->
+
+## Choose an injection site on the abdomen
+
+DARZALEX is given by injection under the skin (subcutaneously).
+
+Inject around the belly (abdomen) at least 7.5 cm away from the navel (belly-button).
+
+Use a different injection site for each injection.
+
+Do not inject into skin that is tender, bruised, red, scaly, thick or hard. Avoid areas with scars or stretch marks.
+
+## Wash hands and put on gloves
+
+Wash your hands very well with soap and warm water.
+
+Put on gloves. Keep gloves on until dose has been administered and materials have been discarded.
+
+<div style=\"page-break-after: always\"></div>
+
+## 3. Prepare vial and syringe
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Remove cap
+
+Lift the thin grey cap up to remove it from the top of the vial.
+
+Do not remove the rubber stopper.
+
+## Clean rubber stopper
+
+Clean the rubber stopper with an antiseptic wipe.
+
+Put the vial on a flat surface.
+
+## Prepare vial adapter
+
+Hold sterile blister as shown.
+
+Peel back and remove paper backing.
+
+Do not touch vial adapter at any time.
+
+This may result in contamination.
+
+## Connect vial adapter to vial
+
+Place vial on a flat surface and hold by the base.
+
+Centre vial adapter over the grey rubber stopper.
+
+Push vial adapter straight down onto vial top until it snaps securely into place.
+
+Do not place vial adapter on at an angle or liquid may leak upon transfer to the syringe.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Remove sterile blister
+
+Do not remove sterile blister from vial adapter until you are ready to attach the syringe to the vial adapter.
+
+Keep vial vertical to prevent leakage.
+
+Hold base of vial and pull up on the sterile blister to remove.
+
+Do not touch the exposed opening on vial adapter.
+
+This may result in contamination.
+
+## Fill the syringe with air
+
+Pull the plunger down until the top line of the black rubber plunger is lined up with the 15 mL marker (see image).
+
+## Connect syringe to vial adapter
+
+Firmly hold the bottom of the vial adapter.
+
+Attach the syringe to the vial adapter by twisting the tip of the syringe clockwise onto the vial adapter.
+
+Do not over-tighten.
+
+## Inject all of the air into the vial
+
+Inject all of the air from the syringe into the vial, this will make the transfer of liquid from the vial to the syringe easier.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Transfer all liquid from vial to the syringe
+
+Turn the vial and syringe upside-down.
+
+Firmly grip the vial and syringe, then pull the syringe plunger to transfer all liquid into the syringe.
+
+Due to the medication's thickness, you may feel resistance when transferring from vial to syringe.
+
+Check to make sure the vial is empty.
+
+## Remove any air pockets or air bubbles
+
+Hold the syringe pointing up.
+
+Tap the side of the syringe until the air bubbles go to the top.
+
+Push the plunger up until the air bubbles have been pushed out of the syringe back into the vial.
+
+Check if air pockets or bubbles remain.
+
+Repeat steps if necessary.
+
+## Remove syringe from vial adapter
+
+When all of the liquid has been transferred to the syringe and air bubbles have been removed, gently twist the syringe off of the vial adapter. There may be a small amount of liquid in the vial, this is normal.
+
+See Disposal steps on how to discard vial with the vial adapter in sharps container.
+
+## Attach syringe to subcutaneous administration set
+
+Twist to attach the Luer Lock 25G subcutaneous administration set to the syringe.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## 4. Inject medication
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Push syringe plunger to 15 mL
+
+Do not remove needle protection cap.
+
+Hold the needle over a sharps container or disposable cup to collect liquid from the needle.
+
+Hold the syringe with the tip pointing up.
+
+Slowly push the plunger until the top line of the black rubber plunger is lined up with the 15 mL marker to set a 15 mL dose.
+
+Do not push the plunger past 15 mL because you will not receive the full dose.
+
+You will see liquid come out of the needle. This is normal. Dispose of the liquid per local regulations.
+
+Place the syringe on a flat surface.
+
+## Clean injection site on the abdomen
+
+Wipe the chosen injection site with an antiseptic wipe and allow it to dry.
+
+Do not touch, fan, or blow on the injection site after you have cleaned it.
+
+## Remove the needle protection cap
+
+Remove the needle protection cap from the subcutaneous administration set needle by pulling it straight off.
+
+Do not touch the needle or let the needle touch anything.
+
+## Pinch skin and insert needle
+
+Gently pinch the cleaned skin at the injection site.
+
+Push the needle into the pinched skin at around 45 degrees to the belly (abdomen).
+
+Release the fold of skin.
+
+You may secure the needle to the injection site with surgical tape.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Inject 15 mL dose
+
+Push the plunger steadily until the entire dose is delivered from the syringe. This should take approximately 3 to 5 minutes.
+
+You may feel resistance when pushing the plunger. This is normal. Continue to push the plunger slowly.
+
+If you feel pain at the injection site, pause or slow down the injection. If the pain persists, stop the injection and contact your healthcare provider.
+
+## Confirm the dose is complete
+
+After 3 to 5 minutes, check that the plunger is fully pressed down as far as it will go in the barrel of the syringe.
+
+This means the dose is complete.
+
+If the plunger is not fully to the end of the barrel of the syringe, continue to press until the dose is complete.
+
+After delivering the full dose, carefully remove the subcutaneous administration set needle from the injection site.
+
+Do not recap the needle.
+
+## After the injection
+
+There may be a small amount of liquid at the injection site.
+
+This is normal.
+
+You can press a cotton ball or gauze gently over the injection site and hold for 10 seconds.
+
+Do not rub the skin at the injection site. You may cover the injection site with a bandage, if necessary.
+
+## Disposal
+
+Do not recap needle before disposing.
+
+Used syringe, subcutaneous administration set and vial with vial adapter should be placed in a puncture-resistant container, like a sharps container.
+
+Dispose of your sharps container according to your local regulations.
+
+Antiseptic wipes and other supplies can be disposed of in your garbage.

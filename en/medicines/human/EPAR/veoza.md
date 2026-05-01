@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-04-21 16:16:00
+document_datetime: 2026-05-01 02:08:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/veoza.html
 document_name: veoza.html
 version: success
-processing_time: 0.1341702
-conversion_datetime: 2026-04-25 16:58:08.251493
+processing_time: 0.1020149
+conversion_datetime: 2026-05-01 12:34:59.911592
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
@@ -105,7 +105,7 @@ English (EN) (117.21 KB - PDF)
 
 [View](/en/documents/overview/veoza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-831)
+[Other languages (22)](#file-language-dropdown-503)
 
 български (BG) (141.05 KB - PDF)
 
@@ -249,7 +249,7 @@ English (EN) (282.1 KB - PDF)
 
 [View](/en/documents/product-information/veoza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-304)
+[Other languages (24)](#file-language-dropdown-606)
 
 български (BG) (310.77 KB - PDF)
 
@@ -421,7 +421,7 @@ English (EN) (250.66 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/veoza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-95)
+[Other languages (24)](#file-language-dropdown-171)
 
 български (BG) (182.2 KB - PDF)
 
@@ -708,7 +708,7 @@ English (EN) (170.5 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-414)
+[Other languages (24)](#file-language-dropdown-436)
 
 български (BG) (181.54 KB - DOCX)
 

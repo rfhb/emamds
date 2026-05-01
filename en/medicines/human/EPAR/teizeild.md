@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-04-17 10:18:00
+document_datetime: 2026-05-01 06:33:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/teizeild.html
 document_name: teizeild.html
 version: success
-processing_time: 0.1013383
-conversion_datetime: 2026-04-17 15:42:53.802992
+processing_time: 0.1094881
+conversion_datetime: 2026-05-01 12:35:31.05393
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.0
-  docling: 2.89.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
@@ -105,7 +105,7 @@ English (EN) (121.1 KB - PDF)
 
 [View](/en/documents/overview/teizeild-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-539)
+[Other languages (22)](#file-language-dropdown-667)
 
 български (BG) (145.57 KB - PDF)
 
@@ -257,7 +257,7 @@ English (EN) (632.19 KB - PDF)
 
 [View](/en/documents/product-information/teizeild-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-540)
+[Other languages (24)](#file-language-dropdown-299)
 
 български (BG) (679.78 KB - PDF)
 
@@ -427,7 +427,7 @@ English (EN) (72.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/teizeild-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-628)
+[Other languages (24)](#file-language-dropdown-916)
 
 български (BG) (645.78 KB - PDF)
 

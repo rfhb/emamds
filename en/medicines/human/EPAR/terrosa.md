@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-04-23 17:05:00
+document_datetime: 2026-05-01 09:56:01
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/terrosa.html
 document_name: terrosa.html
 version: success
-processing_time: 0.1151382
-conversion_datetime: 2026-04-25 16:21:23.134907
+processing_time: 0.1269925
+conversion_datetime: 2026-05-01 12:36:02.456368
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
@@ -114,7 +114,7 @@ English (EN) (81.3 KB - PDF)
 
 [View](/en/documents/overview/terrosa-epar-summary-public_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-496)
+[Other languages (18)](#file-language-dropdown-210)
 
 español (ES) (80.41 KB - PDF)
 
@@ -242,7 +242,7 @@ English (EN) (1.47 MB - PDF)
 
 [View](/en/documents/product-information/terrosa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-186)
+[Other languages (24)](#file-language-dropdown-651)
 
 български (BG) (1.55 MB - PDF)
 
@@ -414,7 +414,7 @@ English (EN) (16.07 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-854)
+[Other languages (24)](#file-language-dropdown-658)
 
 български (BG) (42.41 KB - PDF)
 
@@ -686,7 +686,7 @@ English (EN) (1.43 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/terrosa-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-562)
+[Other languages (24)](#file-language-dropdown-232)
 
 български (BG) (1.5 MB - DOCX)
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-04-24 10:10:00
+document_datetime: 2026-05-01 02:07:44
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vysribli-previously-denosumab-intas.html
 document_name: vysribli-previously-denosumab-intas.html
 version: success
-processing_time: 0.1349315
-conversion_datetime: 2026-04-25 16:25:59.237694
+processing_time: 0.1051007
+conversion_datetime: 2026-05-01 12:34:39.250232
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
@@ -119,7 +119,7 @@ English (EN) (135.56 KB - PDF)
 
 [View](/en/documents/overview/denosumab-intas-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-402)
+[Other languages (22)](#file-language-dropdown-424)
 
 български (BG) (161.49 KB - PDF)
 
@@ -271,7 +271,7 @@ English (EN) (1.02 MB - PDF)
 
 [View](/en/documents/product-information/vysribli-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-785)
+[Other languages (24)](#file-language-dropdown-953)
 
 български (BG) (1.09 MB - PDF)
 
@@ -443,7 +443,7 @@ English (EN) (75.14 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vysribli-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-808)
+[Other languages (24)](#file-language-dropdown-236)
 
 български (BG) (85.09 KB - PDF)
 
@@ -695,7 +695,7 @@ English (EN) (133.16 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-denosumab-intas_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-342)
+[Other languages (22)](#file-language-dropdown-861)
 
 български (BG) (154.2 KB - PDF)
 

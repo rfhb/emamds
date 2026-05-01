@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-04-22 16:28:00
+document_datetime: 2026-05-01 02:03:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/volibris.html
 document_name: volibris.html
 version: success
-processing_time: 0.1580654
-conversion_datetime: 2026-04-25 16:05:06.237676
+processing_time: 0.3575894
+conversion_datetime: 2026-05-01 12:35:15.513214
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
@@ -111,7 +111,7 @@ English (EN) (100.64 KB - PDF)
 
 [View](/en/documents/overview/volibris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-466)
+[Other languages (22)](#file-language-dropdown-829)
 
 български (BG) (128.7 KB - PDF)
 
@@ -263,7 +263,7 @@ English (EN) (611.03 KB - PDF)
 
 [View](/en/documents/product-information/volibris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-309)
+[Other languages (24)](#file-language-dropdown-594)
 
 български (BG) (670.14 KB - PDF)
 
@@ -435,7 +435,7 @@ English (EN) (19.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/volibris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-926)
+[Other languages (24)](#file-language-dropdown-521)
 
 български (BG) (43.35 KB - PDF)
 
@@ -589,7 +589,7 @@ English (EN) (23.24 KB - PDF)
 
 [View](/en/documents/conditions-member-states/volibris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-385)
+[Other languages (21)](#file-language-dropdown-860)
 
 български (BG) (109.19 KB - PDF)
 
@@ -915,7 +915,7 @@ English (EN) (362.28 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/volibris-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-412)
+[Other languages (24)](#file-language-dropdown-984)
 
 български (BG) (868 KB - DOC)
 

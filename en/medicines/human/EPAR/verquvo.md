@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-04-21 16:24:00
+document_datetime: 2026-05-01 02:08:24
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/verquvo.html
 document_name: verquvo.html
 version: success
-processing_time: 0.2366863
-conversion_datetime: 2026-04-25 16:16:10.218048
+processing_time: 0.1111362
+conversion_datetime: 2026-05-01 12:35:47.03987
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
@@ -106,7 +106,7 @@ English (EN) (128.8 KB - PDF)
 
 [View](/en/documents/overview/verquvo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-199)
+[Other languages (22)](#file-language-dropdown-546)
 
 български (BG) (151.34 KB - PDF)
 
@@ -258,7 +258,7 @@ English (EN) (590.6 KB - PDF)
 
 [View](/en/documents/product-information/verquvo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-891)
+[Other languages (24)](#file-language-dropdown-244)
 
 български (BG) (576.63 KB - PDF)
 
@@ -430,7 +430,7 @@ English (EN) (99.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-811)
+[Other languages (24)](#file-language-dropdown-489)
 
 български (BG) (105.48 KB - PDF)
 

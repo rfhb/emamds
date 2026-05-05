@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-02 11:46:17
-document_pages: 34
+document_datetime: 2026-05-04 16:04:38
+document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/leqembi-epar-product-information_en.pdf
 document_name: leqembi-epar-product-information_en.pdf
 version: success
-processing_time: 6.6994012
-conversion_datetime: 2025-12-30 20:44:43.306594
+processing_time: 7.6908387
+conversion_datetime: 2026-05-05 19:37:40.406026
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -100,11 +100,9 @@ Use clinical judgment in considering whether to continue dosing in patients with
 
 ## ARIA-H
 
-Dosing may continue in asymptomatic, mild radiographic ARIA-H cases. Suspend dosing for any symptomatic mild or moderate or radiographically moderate ARIA-H. A follow-up MRI to assess for stabilisation 2 to 4 months after initial identification should be performed. Once the MRI demonstrates radiographic stabilisation and symptoms, if present, resolve, resumption of dosing should be guided by clinical judgement (see section 4.8). In the event of radiographically or symptomatic severe ARIA-H,
+Dosing may continue in asymptomatic, mild radiographic ARIA-H cases. Suspend dosing for any symptomatic mild or moderate or radiographically moderate ARIA-H. A follow-up MRI to assess for stabilisation 2 to 4 months after initial identification should be performed. Once the MRI demonstrates radiographic stabilisation and symptoms, if present, resolve, resumption of dosing should be guided by clinical judgement (see section 4.8). In the event of radiographically or symptomatic severe ARIA-H, treatment with lecanemab should be permanently discontinued. See Table 1 for MRI radiographic severity (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-treatment with lecanemab should be permanently discontinued. See Table 1 for MRI radiographic severity (see section 4.4).
 
 ## Intracerebral Haemorrhage
 
@@ -203,7 +201,7 @@ Table 1: ARIA MRI Classification Criteria
 
 For patients with asymptomatic radiographic findings of ARIA-E, enhanced clinical vigilance for symptoms of ARIA is recommended (see section 4.8 for symptoms). Obtain additional MRIs after 1 to 2 months to assess for resolution, or sooner if symptoms present.
 
-## Ap oE ε4 Carrier Status and Risk of ARIA
+## ApoE ε4 Carrier Status and Risk of ARIA
 
 Patients treated with lecanemab who are ApoE ε4 homozygote carriers have a higher incidence of ARIA, including symptomatic serious and recurrent ARIA, compared to heterozygote carriers and non-carriers (see section 4.8). Lecanemab is not indicated for use in patients who are homozygotes (see section 4.1).
 
@@ -298,11 +296,9 @@ Lecanemab has no or negligible influence on the ability to drive and use machine
 
 The safety of lecanemab has been evaluated in 2203 patients who received at least one dose of lecanemab.
 
-In the double-blind, placebo-controlled period of Study 301 in patients with mild cognitive impairment due to Alzheimer's disease or mild Alzheimer's disease dementia, a total of 898 patients received
+In the double-blind, placebo-controlled period of Study 301 in patients with mild cognitive impairment due to Alzheimer's disease or mild Alzheimer's disease dementia, a total of 898 patients received lecanemab at the recommended dose of 10 mg/kg every 2 weeks, of which 757 patients were noncarriers or heterozygotes (the indicated population).
 
 <div style=\"page-break-after: always\"></div>
-
-lecanemab at the recommended dose of 10 mg/kg every 2 weeks, of which 757 patients were noncarriers or heterozygotes (the indicated population).
 
 Of the patients treated with lecanemab 31% (278/898) were non-carriers, 53% (479/898) were heterozygotes and 16% (141/898) were homozygotes. With the exception of events of ARIA, the safety profile was the same across genotypes.
 
@@ -389,7 +385,7 @@ The recommendations on management of ARIA do not differ between ApoE ε4 carrier
 
 ## Infusion related reactions
 
-Infusion-related reactions were observed in Study 301 in 26% (237/898) patients treated with lecanemab and 75% (178/237) occurred with the first infusion. Infusion-related reactions were mostly mild (69%) or moderate (28%) in severity, severe infusion-related reactions were reported in less than 1% patients. Serious infusion-related reactions have also occurred. Infusion-related reactions resulted in discontinuations in 1% (12/898) patients on lecanemab. Symptoms of infusion-related reactions include fever and flu-like symptoms (chills, generalized aches, feeling shaky, and joint pain), nausea, vomiting, hypotension, hypertension and oxygen desaturation). Over 63% of patients who initially experienced infusion-related reactions had no further reactions with preventative medications (see section 4.4). The incidence of infusion-related reactions was similar regardles s of ApoE ε4 genotype.
+Infusion-related reactions were observed in Study 301 in 26% (237/898) patients treated with lecanemab and 75% (178/237) occurred with the first infusion. Infusion-related reactions were mostly mild (69%) or moderate (28%) in severity, severe infusion-related reactions were reported in less than 1% patients. Serious infusion-related reactions have also occurred. Infusion-related reactions resulted in discontinuations in 1% (12/898) patients on lecanemab. Symptoms of infusion-related reactions include fever and flu-like symptoms (chills, generalized aches, feeling shaky, and joint pain), nausea, vomiting, hypotension, hypertension and oxygen desaturation). Over 63% of patients who initially experienced infusion-related reactions had no further reactions with preventative medications (see section 4.4). The incidence of infusionrelated reactions was similar regardless of ApoE ε4 genotype.
 
 ## Reporting of suspected adverse reactions
 
@@ -585,9 +581,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eisai GmbH 60549 Frankfurt am Main
+Eisai GmbH
 
-Edmund-Rumpler-Straße 3 Germany e-mail: medinfo\\_de@eisai.net
+Edmund-Rumpler-Straße 3 60549 Frankfurt am Main Germany e-mail: medinfo\\_de@eisai.net
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
@@ -601,7 +597,7 @@ Date of first authorisation: 15 April 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-MM/YYYY
+## MM/YYYY
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -687,11 +683,11 @@ The Patient Card should contain the following key elements:
 - A warning message for physicians treating the patient at any time, including in conditions of emergency, that the patient is using lecanemab.
 - Signs or symptoms of the safety concern and when to seek attention from a healthcare professional.
 
+<div style=\"page-break-after: always\"></div>
+
 ## · Controlled Access Program
 
 The MAH shall agree to the details of a Controlled Access Program with each National Competent Authority and must implement such programme nationally to ensure that a Controlled Access Programme (CAP) promotes the safe and effective use of lecanemab and prevents off-label use.
-
-<div style=\"page-break-after: always\"></div>
 
 The Controlled Access Program includes the following key principles that will be incorporated within each system in all Member States. These are:
 
@@ -806,7 +802,9 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -848,9 +846,9 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## LEQEMBI 100 mg/mL concentrate for solution for infusion lecanemab
 
@@ -915,11 +913,13 @@ LEQEMBI can cause a side effect called amyloid related imaging abnormalities, or
 - -The build-up of fluid in one or more areas of the brain (this is called ARIA-E).
 - -Spots of bleeding in the brain, or on the surface of the brain (this is called ARIA-H).
 
-Most people with ARIA do not experience symptoms. ARIA symptoms may occur in 2 out of 100 people. Symptoms include headache, confusion, dizziness, blurry vision, feeling sick (nausea), difficulty walking or seizures (fits). In a small number of people (less than 1 out of 100 people), these symptoms may be severe.
+Most people with ARIA do not experience symptoms. However, ARIA symptoms may occur in 2 out of 100 people, and in a small number of people (less than 1 out of 100 people) ARIA symptoms may lead to serious or even fatal outcomes.
+
+Symptoms of ARIA include headache, confusion, dizziness, blurry vision, feeling sick (nausea), difficulty walking or seizures (fits).
 
 ## Contact your doctor urgently if you experience any of these symptoms.
 
-## ARIA is visible on an MRI brain scan.
+ARIA is visible on an MRI brain scan.
 
 Your doctor will arrange MRI scans before your third, fifth, seventh and fourteenth doses of LEQEMBI. This is routine safety monitoring to check if you have ARIA. Additional scans might be performed at any time during treatment if your doctor thinks you need them.
 
@@ -933,13 +933,11 @@ Some people carry a gene called 'apolipoprotein E4', also known as ApoE4. This m
 
 The risks of having a larger bleed in the brain (known as intracerebral haemorrhage) with LEQEMBI treatment is increased in patients receiving medicines used to prevent blood clots (anticoagulants) or to dissolve them (thrombolytic agents). Tell your doctor that you are being treated with LEQEMBI before you receive any medication to prevent blood clots or dissolve them. LEQEMBI can be used together with aspirin and other medicines that prevent your blood cells sticking together (antiplatelet agents).
 
-## Infusion-related reactions
-
-Infusion-related reactions are a very common side effect which can be serious (see section 4 for symptoms). If you have an infusion-related reaction, you may be given medicines before your infusions to decrease your chance of having an infusion-related reaction. These medicines may include
-
 <div style=\"page-break-after: always\"></div>
 
-antihistamines, paracetamol, anti-inflammatory medicines or steroids. You will be observed for 2.5 hours after your first infusion to monitor for any signs of an infusion-related reaction.
+## Infusion-related reactions
+
+Infusion-related reactions are a very common side effect which can be serious (see section 4 for symptoms). If you have an infusion-related reaction, you may be given medicines before your infusions to decrease your chance of having an infusion-related reaction. These medicines may include antihistamines, paracetamol, anti-inflammatory medicines or steroids. You will be observed for 2.5 hours after your first infusion to monitor for any signs of an infusion-related reaction.
 
 ## Autosomal Dominant Alzheimer's disease and adults with Down syndrome
 
@@ -977,13 +975,13 @@ If you are breastfeeding, you and your doctor can discuss if you should carry on
 
 When taking LEQEMBI, some patients may experience symptoms such as dizziness or confusion. This could affect the ability to drive and use machines. If you are experiencing these side effects due to LEQEMBI, ask your doctor whether you can continue to drive and use machines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## LEQEMBI contains polysorbate 80
 
 This medicine contains 0.5 mg of polysorbate in each 1 mL of LEQEMBI. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 This medicine contains no sodium but the concentrate needs to be diluted with sodium chloride solution, to be taken into consideration for daily dietary intake of sodium.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Patient card
 
@@ -1027,15 +1025,14 @@ Up to 1 in 100 people may experience the following side effect:
 
 Contact your doctor urgently if you experience these side effects.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other side effects
 
 Over 1 in 10 people may experience the following side effects:
 
 - -Infusion-related reactions. Signs include fever, flu-like symptoms such as chills, body aches, feeling shaky and joint pain, feeling sick (nausea), being sick (vomiting), low blood pressure, high blood pressure or low oxygen in your blood which can cause difficulty breathing or shortness of breath, changes in your heart rate, feeling like your chest is pounding or restlessness.
 - -Headache.
-
-<div style=\"page-break-after: always\"></div>
-
 - -ARIA. Signs of ARIA include headache, confusion, dizziness, blurry vision, feeling sick (nausea), difficulty walking or seizures (fits). One of two main types of ARIA, ARIA-H is linked to small areas of bleeding in the brain.
 
 Up to 1 in 10 people may experience the following side effects:
@@ -1072,13 +1069,11 @@ LEQEMBI is a concentrate for solution for infusion. Each carton contains 1 vial 
 
 Not all pack sizes may be marketed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder and Manufacturer
 
-Eisai GmbH 60549 Frankfurt am Main
-
-Edmund-Rumpler-Straße 3 Germany e-mail: medinfo\\_de@eisai.net
-
-<div style=\"page-break-after: always\"></div>
+Eisai GmbH Edmund-Rumpler-Straße 3 60549 Frankfurt am Main Germany e-mail: medinfo\\_de@eisai.net
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1144,14 +1139,6 @@ Eisai SAS
 
 Tél: + (33) 1 47 67 00 05
 
-## Hrvatska
-
-Eisai GmbH
-
-Tel: + 49 (0) 69 66 58 50
-
-(Germany)
-
 ## Lietuva
 
 Eisai GmbH
@@ -1170,7 +1157,11 @@ Tél/Tel: + 32 (0) 2 502 58 04
 
 ## Magyarország
 
-Eisai GmbH Tel: + 49 (0) 69 66 58 50 (Germany)
+Eisai GmbH
+
+Tel: + 49 (0) 69 66 58 50
+
+(Germany)
 
 ## Malta
 
@@ -1214,6 +1205,14 @@ Eisai Farmacêutica, Unipessoal Lda
 
 Tel: + 351 214 875 540
 
+## Hrvatska
+
+Eisai GmbH
+
+Tel: + 49 (0) 69 66 58 50
+
+(Germany)
+
 ## România
 
 Eisai GmbH
@@ -1252,7 +1251,7 @@ Eisai GesmbH organizačni složka
 
 Tel.: + 420 242 485 839
 
-Italia
+## Italia
 
 Eisai S.r.l.
 
@@ -1302,7 +1301,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 See section 3 for Posology of the medicine.
 
-## Instructions for preparation
+Instructions for preparation
 
 LEQEMBI is for single use only.
 
@@ -1316,9 +1315,9 @@ The prescribed dose for the patient is given in mg/kg (see section 3). Based on 
 
 The total LEQEMBI dose in mg = the patient's weight in kg × the prescribed dose in mg/kg.
 
-The volume of LEQEMBI concentrate to prepare the dose (mL) = the total dose in mg, divided by 100 (the LEQEMBI concentrate strength is 100 mg/mL).
-
 <div style=\"page-break-after: always\"></div>
+
+The volume of LEQEMBI concentrate to prepare the dose (mL) = the total dose in mg, divided by 100 (the LEQEMBI concentrate strength is 100 mg/mL).
 
 ## Preparing the LEQEMBI infusion
 
@@ -1341,3 +1340,25 @@ LEQEMBI is diluted prior to intravenous infusion (as per above instructions for 
 The diluted medicinal product should be visually inspected for particles or discolouration prior to administration. Do not use if it is discoloured or if opaque particles are seen.
 
 The diluted solution is infused through an intravenous line over approximately 1 hour. Use of a sterile, low-protein binding 0.2 micron in-line filter (compatible filter materials include polytetrafluoroethylene, polyethersulfone, polycarbonate, polyvinylidenedifluoride, polypropylene, polyurethane and polysulfone) is recommended.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for lecanemab, the scientific conclusions of PRAC are as follows:
+
+In view of available data on amyloid related imaging abnormalities (ARIA) from pivotal clinical trial(s), spontaneous reports including 3 fatal cases of ARIA (intracerebral haemorrhage &gt; 1 cm in diameter) from the current PSUR period and in view of a fact that EU SmPC and Patient card already mention that ARIAs can be life-threatening events, the PRAC considers necessary to update Package Leaflet to follow the safety information in the SmPC and Patient card. The PRAC concluded that the product information of products containing lecanemab should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for lecanemab the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing lecanemab is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

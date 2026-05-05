@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-30 10:03:55
-document_pages: 45
+document_datetime: 2026-04-28 10:16:42
+document_pages: 44
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/perjeta-epar-product-information_en.pdf
 document_name: perjeta-epar-product-information_en.pdf
 version: success
-processing_time: 24.4880125
-conversion_datetime: 2025-12-30 22:37:24.407331
+processing_time: 25.1523925
+conversion_datetime: 2026-05-05 19:39:43.48148
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -40,7 +40,9 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Concentrate for solution for infusion. Clear to slightly opalescent, colourless to pale yellow, liquid.
+Concentrate for solution for infusion.
+
+Clear to slightly opalescent, colourless to pale yellow, liquid.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -81,7 +83,7 @@ or
 
 In patients receiving a taxane, Perjeta and trastuzumab should be administered prior to the taxane.
 
-When administered with Perjeta, docetaxel can be started at 75 mg/m 2 , and subsequently escalated to 100 mg/m 2  depending on the chosen regimen and tolerability of the initial dose. Alternatively, docetaxel can be given at 100 mg/m 2 on a 3 weekly schedule from the start, again depending on the chosen regimen. If a carboplatin-based regimen is used, the recommended dose for docetaxel is 75 mg/m 2  throughout (no dose escalation). When administered with Perjeta in the adjuvant setting, the recommended dose of paclitaxel is 80 mg/m 2 once weekly for 12 weekly cycles.
+When administered with Perjeta, docetaxel can be started at 75 mg/m 2 , and subsequently escalated to 100 mg/m 2 depending on the chosen regimen and tolerability of the initial dose. Alternatively, docetaxel can be given at 100 mg/m 2 on a 3 weekly schedule from the start, again depending on the chosen regimen. If a carboplatin-based regimen is used, the recommended dose for docetaxel is 75 mg/m 2 throughout (no dose escalation). When administered with Perjeta in the adjuvant setting, the recommended dose of paclitaxel is 80 mg/m 2 once weekly for 12 weekly cycles.
 
 In patients receiving an anthracycline-based regimen, Perjeta and trastuzumab should be administered following completion of the entire anthracycline regimen (see section 4.4).
 
@@ -101,13 +103,13 @@ For recommendations on delayed or missed doses, please refer to Table 1 below.
 
 <div style=\"page-break-after: always\"></div>
 
-## Table 1 Recommendations regarding delayed or missed doses
+Table 1 Recommendations regarding delayed or missed doses
 
-| Time between two sequential   | Perjeta                                                                                                                                                                     | trastuzumab                                                                                                                                                                                 | trastuzumab                                                                                                                 |
-|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| infusions                     |                                                                                                                                                                             | IV                                                                                                                                                                                          | SC                                                                                                                          |
-| < 6 weeks                     | The 420 mg dose of pertuzumab should be administered as soon as possible. Do not wait until the next planned dose. Thereafter, revert to the original planned schedule.     | The 6 mg/kg dose of trastuzumab IV should be administered as soon as possible. Do not wait until the next planned dose. Thereafter, revert to the original planned schedule.                | The fixed dose of 600mg trastuzumab SC should be administered as soon as possible. Do not wait until the next planned dose. |
-| ≥ 6 weeks                     | The 840 mg loading dose of pertuzumab should be re-administered as a 60 minute infusion, followed by a maintenance dose of 420 mg IV administered every 3 weeks thereafter. | The loading dose of 8 mg/kg of trastuzumab IV should be re- administered over approximately 90 minutes, followed by a maintenance dose of 6 mg/kg IV administered every 3 weeks thereafter. | The fixed dose of 600mg trastuzumab SC should be administered as soon as possible. Do not wait until the next planned dose. |
+| Time between two sequential   | Perjeta                                                                                                                                                                     | trastuzumab                                                                                                                                                                                 | trastuzumab                                                                                                                  |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| infusions                     |                                                                                                                                                                             | IV                                                                                                                                                                                          | SC                                                                                                                           |
+| < 6 weeks                     | The 420 mg dose of pertuzumab should be administered as soon as possible. Do not wait until the next planned dose. Thereafter, revert to the original planned schedule.     | The 6 mg/kg dose of trastuzumab IV should be administered as soon as possible. Do not wait until the next planned dose. Thereafter, revert to the original planned schedule.                | The fixed dose of 600 mg trastuzumab SC should be administered as soon as possible. Do not wait until the next planned dose. |
+| ≥ 6 weeks                     | The 840 mg loading dose of pertuzumab should be re-administered as a 60 minute infusion, followed by a maintenance dose of 420 mg IV administered every 3 weeks thereafter. | The loading dose of 8 mg/kg of trastuzumab IV should be re- administered over approximately 90 minutes, followed by a maintenance dose of 6 mg/kg IV administered every 3 weeks thereafter. | The fixed dose of 600 mg trastuzumab SC should be administered as soon as possible. Do not wait until the next planned dose. |
 
 ## Dose modification
 
@@ -126,9 +128,9 @@ Perjeta and trastuzumab should be withheld for at least 3 weeks for any signs an
 Patients should have a pretreatment left ventricular ejection fraction (LVEF) of ≥ 50%. Perjeta and trastuzumab should be withheld for at least 3 weeks for:
 
 - a drop in LVEF to less than 40%
-- a LVEF of 40%-45% associated with a fall of ≥ 10% points below pre-treatment value.
+- a LVEF of 40% -45% associated with a fall of ≥ 10% points bel ow pre-treatment value.
 
-Perjeta and trastuzumab may be resumed if the LVEF has recovered to &gt; 45%, or to 40-45% associated with a difference of &lt; 10% points below pre-treatment values.
+Perjeta and trastuzumab may be resumed if the LVEF has recovered to &gt; 45% , or to 4045% associated with a difference of &lt; 10% points below pre-treatment values.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -136,9 +138,9 @@ Perjeta and trastuzumab may be resumed if the LVEF has recovered to &gt; 45%, or
 
 Patients should have a pretreatment LVEF of ≥ 55% (≥ 50% after completion of the anthracycline component of chemotherapy, if given). Perjeta and trastuzumab should be withheld for at least 3 weeks for:
 
-- a drop in LVEF to less than 50% associated with a fall of ≥ 10% points below pre-treatment values.
+- a drop in LVEF to less than 50% associated with a fall of ≥ 10% points below pre -treatment values.
 
-Perjeta and trastuzumab may be resumed if the LVEF has recovered to ≥50% or to a difference of &lt; 10% points below pre-treatment values.
+Perjeta and trastuzumab may be resumed if the LVEF has recovered to ≥50% or to a difference of &lt; 10% points below pre -treatment values.
 
 ## Elderly patients
 
@@ -162,9 +164,9 @@ Perjeta is administered intravenously by infusion. It should not be administered
 
 For the initial dose, the recommended infusion period is 60 minutes. If the first infusion is well tolerated, subsequent infusions may be administered over a period of 30 minutes to 60 minutes (see section 4.4).
 
-## Infusion reactions
+## Infusion-related reactions (IRRs)
 
-The infusion rate may be slowed or interrupted if the patient develops an infusion reaction (see section 4.8). The infusion may be resumed when symptoms abate. Treatment including oxygen, beta agonists, antihistamines, rapid i.v. fluids and antipyretics may also help alleviate symptoms.
+The infusion rate may be slowed or interrupted if the patient develops an infusion-related reaction (see section 4.8). The infusion may be resumed when symptoms abate. Treatment including oxygen, beta agonists, antihistamines, rapid i.v. fluids and antipyretics may also help alleviate symptoms.
 
 ## Hypersensitivity reactions/anaphylaxis
 
@@ -194,13 +196,11 @@ Cardiac risk should be carefully considered and balanced against the medical nee
 
 Sequential use of Perjeta (in combination with trastuzumab and a taxane) has been evaluated following the epirubicin or doxorubicin component of many anthracycline-based regimens in the APHINITY and BERENICE studies. However, only limited safety data are available on concurrent use of Perjeta and an anthracycline. In the TRYPHAENA study, Perjeta was given concurrently with epirubicin, as part of the FEC (5-fluorouracil, epirubicin, cyclophosphamide) regimen (see sections 4.8 and 5.1). Only chemotherapy-naive patients were treated and they received low cumulative doses of epirubicin (up to 300 mg/m 2 ). In this study, cardiac safety was similar to that observed in patients given the same regimen but with Perjeta administered sequentially (following FEC chemotherapy).
 
-## Infusion reactions
+## Infusion-related reactions (IRRs)
 
-Perjeta has been associated with infusion reactions, including events with a fatal outcome (see section 4.8). Close observation of the patient during and for 60 minutes after the first infusion and during and for 30-60 minutes after subsequent infusions of Perjeta is recommended. If a significant infusion reaction occurs, the infusion should be slowed down or interrupted and appropriate medical therapies should be administered. Patients should be evaluated and carefully monitored until complete resolution of signs and symptoms. Permanent discontinuation should be considered in patients with
+Perjeta has been associated with infusion-related reactions, including events with a fatal outcome (see section 4.8). Close observation of the patient during and for 60 minutes after the first infusion and during and for 30-60 minutes after subsequent infusions of Perjeta is recommended. If a significant infusion-related reaction occurs, the infusion should be slowed down or interrupted and appropriate medical therapies should be administered. Patients should be evaluated and carefully monitored until complete resolution of signs and symptoms. Permanent discontinuation should be considered in patients with severe infusion-related reactions. This clinical assessment should be based on the severity of the preceding reaction and response to administered treatment for the adverse reaction (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-severe infusion reactions. This clinical assessment should be based on the severity of the preceding reaction and response to administered treatment for the adverse reaction (see section 4.2).
 
 ## Hypersensitivity reactions/anaphylaxis
 
@@ -216,7 +216,9 @@ Perjeta may elicit severe diarrhoea. Diarrhoea is most frequent during concurren
 
 ## Excipients with known effect
 
-Perjeta contains polysorbate20. Each 14 ml vial contains 2.8 mg of polysorbate20. Polysorbates may cause allergic reactions.
+Perjeta contains less than 1 mmol of sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+
+Perjeta contains polysorbate 20. Each 14 ml vial contains 2.8 mg of polysorbate 20. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -246,7 +248,7 @@ No specific fertility studies in animals have been performed to evaluate the eff
 
 ## 4.7 Effects on ability to drive and use machines
 
-On the basis of reported adverse reactions, Perjeta has a minor influence on the ability to drive or use machines. Dizziness may occur during treatment with Perjeta (see section 4.8). Patients experiencing infusion reactions should be advised not to drive and use machines until symptoms abate.
+On the basis of reported adverse reactions, Perjeta has a minor influence on the ability to drive or use machines. Dizziness may occur during treatment with Perjeta (see section 4.8). Patients experiencing infusion-related reactions should be advised not to drive and use machines until symptoms abate.
 
 ## 4.8 Undesirable effects
 
@@ -278,7 +280,7 @@ Table 2 Summary of ADRs in patients treated with Perjeta in clinical trials^, an
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------|--------------------------------------------|-----------------------------|
 | Infections and infestations                     | Nasopharyngitis                                                                               | Paronychia Upper respiratory tract infection   |                                            |                             |
 | Blood and lymphatic system disorders            | Febrile neutropenia* Neutropenia Leucopenia Anaemia                                           |                                                |                                            |                             |
-| Immune system disorders                         | Infusion reaction°°, *                                                                        | Hypersensitivity°, * Drug hypersensitivity°, * | Anaphylactic reaction°, *                  | Cytokine release syndrome°° |
+| Immune system disorders                         | Infusion-related reaction°°, *                                                                | Hypersensitivity°, * Drug hypersensitivity°, * | Anaphylactic reaction°, *                  | Cytokine release syndrome°° |
 | Metabolism and nutrition disorders              | Decreased appetite                                                                            |                                                |                                            | Tumour lysis syndrome†      |
 | Psychiatric disorders                           | Insomnia                                                                                      |                                                |                                            |                             |
 | Nervous system disorders                        | Neuropathy peripheral Headache Dysgeusia Peripheral sensory neuropathy Dizziness Paraesthesia |                                                |                                            |                             |
@@ -297,83 +299,79 @@ Table 2 Summary of ADRs in patients treated with Perjeta in clinical trials^, an
 | Musculoskeletal and connective tissue disorders      | Myalgia Arthralgia Pain in extremity                            |                    |            |        |
 | General disorders and administration site conditions | Mucosal inflammation Oedema peripheral Pyrexia Fatigue Asthenia | Chills Pain Oedema |            |        |
 
-^ Table 2 shows pooled data from the overall treatment period in CLEOPATRA (data cutoff 11 February 2014; median number of cycles of Perjeta was 24); and from the neoadjuvant  treatment period in NEOSPHERE (median number of cycles of Perjeta was 4, across all treatment arms) and TRYPHAENA (median number of cycles of Perjeta was 3 - 6 across treatment arms) and from the treatment period of APHINITY (median number of cycles of Perjeta was 18).
+^ Table 2 shows pooled data from the overall treatment period in CLEOPATRA (data cutoff 11 February 2014 ; median number of cycles of Perjeta was 24); and from the neoadjuvant  treatment period in NEOSPHERE (median number of cycles of Perjeta was 4, across all treatment arms) and TRYPHAENA (median number of cycles of Perjeta was 3 - 6 across treatment arms) and from the treatment period of APHINITY (median number of cycles of Perjeta was 18).
 
 * ADRs with a fatal outcome have been reported.
 - ** For the overall treatment period across the 4 studies. The incidence of left ventricular dysfunction and cardiac failure congestive reflect the MedDRA Preferred Terms reported in the individual studies.
 - ° Hypersensitivity/anaphylactic reaction is based on a group of terms.
-- °° Infusion reaction includes a range of different terms within a time window, see 'Description of selected adverse reactions' below.
+- °° Infusion-related reaction (IRRs) includes a range of different terms within a time window, see 'Description of selected adverse reactions' below.
 - † ADRs reported in the post marketing setting-
 
 ## Description of selected adverse reactions
 
 ## Left ventricular dysfunction (LVD)
 
-In  the  pivotal  trial  CLEOPATRA  in  metastatic  breast  cancer,  the  incidence  of  LVD  during  study treatment was higher in the placebo-treated group than in the Perjeta-treated group (8.6% and 6.6%, respectively). The incidence of symptomatic LVD was also lower in the Perjeta-treated group (1.8% in the placebo-treated group vs. 1.5% in the Perjeta-treated group) (see section 4.4).
+In  the  pivotal  trial  CLEOPATRA  in  metastatic  breast  cancer,  the  incidence  of  LVD  during  study treatment was higher in the placebo-treated group than in the Perjetatreated group (8.6% and 6.6%, respectively). The incidence of symptomatic LVD was also lower in the Perjetatreated group (1.8% in the placebotreated group vs. 1.5% in the Perjeta -treated group) (see section 4.4).
 
-In the neoadjuvant trial NEOSPHERE, in which patients received 4 cycles of Perjeta as neoadjuvant treatment,  the  incidence  of  LVD  (during  the  overall  treatment  period)  was  higher  in  the  Perjeta, trastuzumab and docetaxel-treated group (7.5%) compared to the trastuzumab and docetaxel-treated group (1.9%). There was one case of symptomatic LVD in the Perjeta and trastuzumab-treated group. In the neoadjuvant trial TRYPHAENA, the incidence of LVD (during the overall treatment period) was 8.3%  in  the  group  treated  with  Perjeta  plus  trastuzumab  and  FEC  (5-fluorouracil,  epirubicin, cyclophosphamide) followed by Perjeta plus trastuzumab and docetaxel; 9.3% in the group treated with Perjeta plus trastuzumab and docetaxel following FEC; and 6.6% in the group treated with Perjeta in combination with TCH (docetaxel, carboplatin and trastuzumab). The incidence of symptomatic LVD (congestive heart failure) was 1.3% in the group treated with Perjeta plus trastuzumab and docetaxel following FEC (this excludes a patient who experienced symptomatic LVD during FEC treatment prior to receiving Perjeta plus trastuzumab and docetaxel) and also 1.3% in the group treated with Perjeta in combination with TCH. No patients in the group treated with Perjeta plus trastuzumab and FEC followed by Perjeta plus trastuzumab and docetaxel experienced symptomatic LVD.
+In the neoadjuvant trial NEOSPHERE, in which patients received 4 cycles of Perjeta as neoadjuvant treatment,  the  incidence  of  LVD  (during  the  overall  treatment  period)  was  higher  in  the  Perjeta, trastuzumab and docetaxeltreated  group  (7.5%)  compared to th e  trastuzumab  and  docetaxel-treated group (1.9%). There was one case of symptomatic LVD in the Perjeta and trastuzumab -treated group. In the neoadjuvant trial TRYPHAENA, the incidence of LVD (during the overall treatment period) was 8.3%  in  the  group  treated  with  Perjeta  plus  trastuzumab  and  FEC (5-fluorouracil,  epirubicin, cyclophosphamide) followed by Perjeta plus trastuzumab and docetaxel; 9.3% in the group treated with Perjeta plus trastuzumab and docetaxel following FEC; and 6.6% in the group treated with Perjeta in combination with TCH (docetaxel, carboplatin and trastuzumab). The incidence of symptomatic LVD (congestive heart failu re) was 1.3% in the group treated with Perjeta plus trastuzumab and docetaxel following FEC (this excludes a patient who experienced symptomatic LVD during FEC treatment prior to receiving Perjeta plus trastuzumab and docetaxel) and also 1.3% in the group treated with Perjeta in combination with TCH. No patients in the group treated with Perjeta plus trastuzumab and FEC followed by Perjeta plus trastuzumab and docetaxel experienced symptomatic LVD.
 
-In the neoadjuvant period of the BERENICE trial, the incidence of NYHA Class III/IV symptomatic LVD (congestive heart failure according to NCI-CTCAE v.4) was 1.5% in the group treated with dose dense doxorubicin and cyclophosphamide (AC) followed by Perjeta plus trastuzumab and paclitaxel and none of the patients (0%) experienced symptomatic LVD in the group treated with FEC followed
+In the neoadjuvant period of the BERENICE trial, the incidence of NYHA Class III/IV symptomatic LVD (congestive heart failure according to NCI-CTCAE v.4) was 1.5% in the group treated with dose dense doxorubicin and cyclophosphamide (AC) followed by Perjeta plus trastuzumab and paclitaxel and none of the patients ( 0% ) experienced symptomatic LVD in the group treated with FEC followed by Perjeta in combination with trastuzumab and docetaxel. The incidence of asymptomatic LVD (ejection fraction decrease according to NCI-CTCAE v.4) was 7% in the group treated with dose dense AC followed by Perjeta plus trastuzumab and paclitaxel and 3.5% in the group treated with FEC followed by Perjeta plus trastuzumab and docetaxel.
 
 <div style=\"page-break-after: always\"></div>
 
-by Perjeta in combination with trastuzumab and docetaxel. The incidence of asymptomatic LVD (ejection fraction decrease according to NCI-CTCAE v.4) was 7% in the group treated with dose dense AC followed by Perjeta plus trastuzumab and paclitaxel and 3.5% in the group treated with FEC followed by Perjeta plus trastuzumab and docetaxel.
+In APHINITY, the incidence of symptomatic heart failure (NYHA class III or IV) with a LVEF decline of at least 10% points from baseline and to &lt;50% was &lt;1% (0. 9 % of Perjeta -treated patients vs 0.5 % of placebo-treated patients). Of the patients who experienced symptomatic heart failure, 55.6 % of Perjeta -treated patients and 71.4 % of placebo -treated patients had recovered (defined as 2 consecutive LVEF measurements above 50%) at the data cutoff. The majority of the events were reported in anthracycline -treated patients. Asymptomatic or mildly symptomatic (NYHA class II) declines in LVEF of at least 10% points from baseline and to &lt;50% were reported in 2. 9 % of Perjeta -treated patients and 3.0 % of placebo-treated  patients,  of  whom  82.4 %  of  Perjeta -treated  patients  and  83.3 %  of  placebo -treated patients had recovered at the data cutoff.
 
-In APHINITY, the incidence of symptomatic heart failure (NYHA class III or IV) with a LVEF decline of at least 10% points from baseline and to &lt;50% was &lt;1% (0.8% of Perjeta-treated patients vs 0.4% of placebo-treated patients). Of the patients who experienced symptomatic heart failure, 62.5% of Perjetatreated patients and 66.7% of placebo-treated patients had recovered (defined as 2 consecutive LVEF measurements above 50%) at the data cutoff. The majority of the events were reported in anthracyclinetreated patients. Asymptomatic or mildly symptomatic (NYHA class II) declines in LVEF of at least 10% points from baseline and to &lt;50% were reported in 2.7% of Perjeta-treated patients and 2.9% of placebo-treated  patients,  of  whom  84.4%  of  Perjeta-treated  patients  and  87.0%  of  placebo-treated patients had recovered at the data cutoff.
+## Infusion-related reactions (IRRs)
 
-## Infusion reactions
+An infusion-related reaction was defined in the pivotal trials as any event reported as hypersensitivity, anaphylactic reaction, acute infusion-related reaction or cytokine release syndrome occurring during an infusion or on the same day as the infusion. In the pivotal trial CLEOPATRA, the initial dose of Perjeta was given the day before trastuzumab and docetaxel to allow for the examination of Perjetaassociated reactions. On the first day when only Perjeta was administered, the overall frequency of infusion-related reactions was 9.8% in the placebo -treated group and 13.2 % in the Perjeta-treated group, with the majority of infusion-related reactions being mild or moderate. The most common infusion-related reactions ( ≥ 1.0%) in the Perjeta-treated group were pyrexia, chills, fatigue, headache, asthenia, hypersensitivity and vomiting.
 
-An infusion reaction was defined in the pivotal trials as any event reported as hypersensitivity, anaphylactic reaction, acute infusion reaction or cytokine release syndrome occurring during an infusion or on the same day as the infusion. In the pivotal trial CLEOPATRA, the initial dose of Perjeta was given the day before trastuzumab and docetaxel to allow for the examination of Perjetaassociated reactions. On the first day when only Perjeta was administered, the overall frequency of infusion reactions was 9.8% in the placebo-treated group and 13.2% in the Perjeta-treated group, with the majority of infusion reactions being mild or moderate. The most common infusion reactions ( ≥ 1.0%) in the Perjeta-treated group were pyrexia, chills, fatigue, headache, asthenia, hypersensitivity and vomiting.
+During the second cycle when all medicinal products were administered on the same day, the most common infusion-related reactions in the Perjeta-treated group ( ≥ 1.0%) were fatigue, dysgeusia, drug hypersensitivity, myalgia and vomiting (see section 4.4).
 
-During the second cycle when all medicinal products were administered on the same day, the most common infusion reactions in the Perjeta-treated group ( ≥ 1.0%) were fatigue, dysgeusia, drug hypersensitivity, myalgia and vomiting (see section 4.4).
-
-In neoadjuvant and adjuvant trials, Perjeta was administered on the same day as other study treatments in all cycles. Infusion reactions occurred in 18.6% - 25.0% of patients on the first day of Perjeta administration (in combination with trastuzumab and chemotherapy). The type and severity of events were consistent with those observed in CLEOPATRA at the cycles when Perjeta was given on the same day as trastuzumab and docetaxel, with the majority of reactions being mild or moderate in severity.
+In neoadjuvant and adjuvant trials, Perjeta was administered on the same day as other study treatments in all cycles. Infusion-related reactions occurred in 18.6% -25.0% of patients on the first day of Perjeta administration (in combination with trastuzumab and chemotherapy). The type and severity of events were consistent with those observed in CLEOPATRA at the cycles when Perjeta was given on the same day as trastuzumab and docetaxel, with the majority of reactions being mild or moderate in severity.
 
 ## Hypersensitivity reactions/anaphylaxis
 
-In the pivotal trial CLEOPATRA in metastatic breast cancer, the overall frequency of investigator reported hypersensitivity/anaphylaxis events during the entire treatment period was 9.3% in the placebo-treated group and 11.3% in the Perjeta-treated group, of which 2.5% and 2.0% were NCI-CTCAE Grade 3-4, respectively. Overall, 2 patients in the placebo-treated group and 4 patients in the Perjeta-treated group experienced events described as anaphylaxis by the investigator (see section 4.4).
+In the pivotal trial CLEOPATRA in metastatic breast cancer, the overall frequency of investigator reported hypersensitivity/anaphylaxis events during the entire treatment period was 9.3 % in the placebo-treated group and 11.3 % in the Perjeta-treated group , of which 2.5% and 2 .0 % were NCI-CTCAE Grade 3-4, respectively. Overall, 2 patients in the placebo-treated group and 4 patients in the Perjeta-treated group experienced events described as anaphylaxis by the investigator (see section 4.4).
 
 Overall, the majority of hypersensitivity reactions were mild or moderate in severity and resolved upon treatment. Based on modifications made to the study treatment, most reactions were assessed as secondary to docetaxel infusions.
 
-In the neoadjuvant and adjuvant trials, hypersensitivity/anaphylaxis events were consistent with those observed in CLEOPATRA. In NEOSPHERE, two patients in the Perjeta and docetaxel-treated group experienced anaphylaxis. In both the TRYPHAENA and APHINITY trials, the overall frequency of hypersensitivity/anaphylaxis was highest in the Perjeta and TCH treated group (13.2% and 7.6%, respectively), of which 2.6% and 1.3% of events, respectively, were NCI-CTCAE Grade 3-4.
+In the neoadjuvant and adjuvant trials, hypersensitivity/anaphylaxis events were consistent with those observed in CLEOPATRA. In NEOSPHERE, two patients in the Perjeta and docetaxel-treated group experienced anaphylaxis. In both the TRYPHAENA and APHINITY trials, the overall frequency of hypersensitivity/anaphylaxis was highest in the Perjeta and TCH treated group (13.2% and 7.6%, respectively ), of which 2.6% and 1.3% of events, respectively, were NCI-CTCAE Grade 3-4.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Febrile neutropenia
 
-In the pivotal trial CLEOPATRA, the majority of patients in both treatment groups experienced at least one leucopenic event (63.0% of patients in the Perjeta-treated group and 58.3% of patients in the placebo-treated group), of which the majority were neutropenic events (see section 4.4). Febrile neutropenia occurred in 13.7% of Perjeta-treated patients and 7.6% of placebo-treated patients. In both treatment groups, the proportion of patients experiencing febrile neutropenia was highest in the first cycle of therapy and declined steadily thereafter. An increased incidence of febrile neutropenia was observed among Asian patients in both treatment groups compared with patients of other races and from other geographic regions. Among Asian patients, the incidence of febrile neutropenia was higher in the Perjeta-treated group (25.8%) compared with the placebo-treated group (11.3%).
+In the pivotal trial CLEOPATRA, the majority of patients in both treatment groups experienced at least one leucopenic event (63.0 % of patients in the Perjeta-treated group and 58.3 % of patients in the placebo-treated group), of which the majority were neutropenic events (see section 4.4). Febrile neutropenia occurred in 13.7 % of Perjetatreated patients and 7.6% of placebo -treated patients. In both treatment groups, the proportion of patients experiencing febrile neutropenia was highest in the first cycle of therapy and declined steadily thereafter. An increased incidence of febrile neutropenia was observed among Asian patients in both treatment groups compared with patients of other races and from other geographic regions. Among Asian patients, the incidence of febrile neutropenia was higher in the Perjeta-treated group (25.8 %) compared with the placebo -treated group (11.3 %).
 
 In the NEOSPHERE trial, 8.4% of patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel experienced febrile neutropenia compared with 7.5% of patients treated with trastuzumab and docetaxel. In the TRYPHAENA trial, febrile neutropenia occurred in 17.1% of patients treated with neoadjuvant Perjeta + TCH, and 9.3% of patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel following FEC. In TRYPHAENA, the incidence of febrile neutropenia was higher in patients who received six cycles of Perjeta compared with patients who received three cycles of Perjeta, independent of the chemotherapy given. As in the CLEOPATRA trial, a higher incidence of neutropenia and febrile neutropenia was observed among Asian patients compared with other patients in both neoadjuvant trials. In NEOSPHERE, 8.3% of Asian patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel experienced febrile neutropenia compared with 4.0% of Asian patients treated with neoadjuvant trastuzumab and docetaxel.
 
-In the APHINITY trial, febrile neutropenia occurred in 12.1% of Perjeta-treated patients and 11.1% of placebo-treated patients. As in the CLEOPATRA, TRYPHAENA, and NEOSPHERE trials, a higher incidence of febrile neutropenia was observed among Perjeta-treated Asian patients compared with other races in the APHINITY trial (15.9% of Perjeta-treated patients and 9.9% of placebo-treated patients).
+In the APHINITY trial, febrile neutropenia occurred in 12.1% of Perjeta -treated patients and 11.1% of placebo-treated patients. As in the CLEOPATRA, TRYPHAENA, and NEOSPHERE trials, a higher incidence of febrile neutropenia was observed among Perjeta-treated Asian patients compared with other races in the APHINITY trial (15.9% of Perjeta -treated patients and 9.9% of placebo -treated patients).
 
 ## Diarrhoea
 
-In the pivotal trial CLEOPATRA in metastatic breast cancer, diarrhoea occurred in 68.4% of Perjetatreated patients and 48.7% of placebo-treated patients (see section 4.4). Most events were mild to moderate in severity and occurred in the first few cycles of treatment. The incidence of NCI-CTCAE Grade 3-4 diarrhoea was 9.3% in Perjeta-treated patients vs 5.1% in placebo-treated patients. The median duration of the longest episode was 18 days in Perjeta-treated patients and 8 days in placebotreated patients. Diarrhoeal events responded well to proactive management with anti-diarrhoeal agents.
+In the pivotal trial CLEOPATRA in metastatic breast cancer, diarrhoea occurred in 68.4 % of Perjetatreated patients and 48.7 % of placebo -treated patients (see section 4.4). Most events were mild to moderate in severity and occurred in the first few cycles of treatment. The incidence of NCI-CTCAE Grade 3-4 diarrhoea was 9.3 % in Perjeta-treated patients vs 5.1 % in placebo -treated patients. The median duration of the longest episode was 18 days in Perjeta-treated patients and 8 days in placebotreated patients. Diarrhoeal events responded well to proactive management with anti-diarrhoeal agents.
 
-In the NEOSPHERE trial, diarrhoea occurred in 45.8% of patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel compared with 33.6% of patients treated with trastuzumab and docetaxel. In the TRYPHAENA trial, diarrhoea occurred in 72.3% of patients treated with neoadjuvant Perjeta+TCH and 61.4% of patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel following FEC. In both studies most events were mild to moderate in severity.
+In the NEOSPHERE trial, diarrhoea occurred in 45.8% of patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel compared with 33.6% of patients treated with trastuzumab and docetaxel. In the TRYPHAENA trial, diarrhoea occurred in 72.3% of patie nts treated with neoadjuvant Perjeta+TCH and 61.4% of patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel following FEC. In both studies most events were mild to moderate in severity.
 
-In the APHINITY trial, a higher incidence of diarrhoea was reported in the Perjeta-treated arm (71.2%) compared to the placebo arm (45.2%).  Grade ≥ 3 diarrhoea was reported in 9.8% of patients in the Perjeta arm vs. 3.7% in the placebo arm. The majority of the reported events were Grade 1 or 2 in severity. The highest incidence of diarrhoea (all Grades) was reported during the targeted therapy+taxane chemotherapy period (61.4% of patients in the Perjeta arm vs. 33.8% of patients in the placebo arm).The incidence of diarrhoea was much lower after chemotherapy cessation, affecting 18.1% of patients in the Perjeta arm vs. 9.2% of patients in the placebo arm in the post-chemotherapy targeted therapy period.
+In the APHINITY trial, a higher incidence of diarrhoea was reported in the Perjeta-treated arm (71.2%) compared to the placebo arm (45.2%).  Grade ≥ 3 diarrhoea was reported in 9.8% of patients in the Perjeta arm vs. 3.7% in the placebo arm. The majority o f the reported events were Grade 1 or 2 in severity. The highest incidence of diarrhoea (all Grades) was reported during the targeted therapy+taxane chemotherapy period (61.4% of patients in the Perjeta arm vs. 33.8% of patients in the placebo arm).The incidence of diarrhoea was much lower after chemotherapy cessation, affecting 18.1% of patients in the Perjeta arm vs. 9.2% of patients in the placebo arm in the post -chemotherapy targeted therapy period.
 
 ## Rash
 
-In the pivotal trial CLEOPATRA in metastatic breast cancer, rash occurred in 51.7% of Perjeta-treated patients, compared with 38.9% of placebo-treated patients. Most events were Grade 1 or 2 in severity,
+In the pivotal trial CLEOPATRA in metastatic breast cancer, rash occurred in 51.7 % of Perjeta-treated patients, compared with 38.9 % of placebo-treated patients. Most events were Grade 1 or 2 in severity, occurred in the first two cycles, and responded to standard therapies, such as topical or oral treatment for acne.
 
 <div style=\"page-break-after: always\"></div>
 
-occurred in the first two cycles, and responded to standard therapies, such as topical or oral treatment for acne.
-
-In the NEOSPHERE trial, rash occurred in 40.2% of patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel compared with 29.0% of patients treated with trastuzumab and docetaxel. In the TRYPHAENA trial, rash occurred in 36.8% of patients treated with neoadjuvant Perjeta + TCH and 20.0% of patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel following FEC. The incidence of rash was higher in patients who received six cycles of Perjeta compared with patients who received three cycles of Perjeta, independent of the chemotherapy given.
+In the NEOSPHERE trial, rash occurred in 40.2% of patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel compared with 29.0% of patients treated with trastuzumab and docetaxel. In the TRYPHAENA trial, rash occurred in 36.8% of patients treate d with neoadjuvant Perjeta + TCH and 20.0% of patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel following FEC. The incidence of rash was higher in patients who received six cycles of Perjeta compared with patients who received three cycles of Perjeta, independent of the chemotherapy given.
 
 In the APHINITY trial, the adverse event of rash occurred in 25.8% of patients in Perjeta arm vs. 20.3% of patients in placebo arm. The majority of rash events were Grade 1 or 2.
 
 ## Laboratory abnormalities
 
-In the pivotal trial CLEOPATRA in metastatic breast cancer, the incidence of NCI-CTCAE v.3 Grade 3-4 neutropenia was balanced in the two treatment groups (86.3% of Perjeta-treated patients and 86.6% of placebo-treated patients, including 60.7% and 64.8% Grade 4 neutropenia, respectively).
+In the pivotal trial CLEOPATRA in metastatic breast cancer, the incidence of NCI-CTCAE v.3 Grade 3-4 neutropenia was balanced in the two treatment groups (86.3 % of Perjeta-treated patients and 86.6% of placebo -treated patients, including 60.7 % and 64.8 % Grade 4 neutropenia , respectively).
 
-In the NEOSPHERE trial, the incidence of NCI-CTCAE v.3 Grade 3-4 neutropenia was 74.5% in patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel compared with 84.5% in patients treated with trastuzumab and docetaxel, including 50.9% and 60.2% Grade 4 neutropenia, respectively. In the TRYPHAENA trial, the incidence of NCI-CTCAE v.3 Grade 3-4 neutropenia was 85.3% in patients treated with neoadjuvant Perjeta + TCH and 77.0% in patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel following FEC, including 66.7% and 59.5% Grade 4 neutropenia, respectively.
+In the NEOSPHERE trial, the incidence of NCI-CTCAE v.3 Grade 34 neutropenia was 74.5% in patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel compared with 84.5% in patients treated with trastuzumab and docetaxel, including 50.9% and 60.2% Grade 4 neutropenia, respectively. In the TRYPHAENA trial, the incidence of NCI-CTCAE v.3 Grade 3-4 neutropenia was 85.3% in patients treated with neoadjuvant Perjeta + TCH and 77.0% in patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel following FEC, including 66.7% and 59.5% Grade 4 neutropenia, respectively.
 
-In the APHINITY trial, the incidence of NCI-CTCAE v.4 Grade 3-4 neutropenia was 40.6% in patients treated with Perjeta, trastuzumab and chemotherapy compared with 39.1% in patients treated with placebo, trastuzumab and chemotherapy, including 28.3% and 26.5% Grade 4 neutropenia, respectively.
+In the APHINITY trial, the incidence of NCI-CTCAE v.4 Grade 34 neutropenia was 40.6% in patients treated with Perjeta, trastuzumab and chemotherapy compared with 39.1% in patients treated with placebo, trastuzumab and chemotherapy, including 28.3% and 26.5% Grade 4 neutropenia, respectively.
 
 ## Elderly Patients
 
@@ -419,32 +417,43 @@ Perjeta and trastuzumab were given at standard doses in a 3-weekly regimen. Pati
 
 The primary endpoint of the study was progression-free survival (PFS) as assessed by an independent review facility (IRF) and defined as the time from the date of randomisation to the date of disease progression or death (from any cause) if the death occurred within 18 weeks of the last tumour assessment. Secondary efficacy endpoints were overall survival (OS), PFS (investigator-assessed), objective response rate (ORR), duration of response, and time to symptom progression according to the FACT B Quality of Life questionnaire.
 
-Approximately half the patients in each treatment group had hormone receptor-positive disease (defined as oestrogen receptor (ER) positive and/or progesterone receptor (PgR) positive) and
+Approximately half the patients in each treatment group had hormone receptor-positive disease (defined as oestrogen receptor (ER) positive and/or progesterone receptor (PgR) positive) and approximately half of the patients in each treatment group had received prior adjuvant or neoadjuvant therapy. Most of these patients had received prior anthracycline therapy and 11 % of all patients had received prior trastuzumab. A total of 43% of patients in both treatment groups had previously received radiotherapy. Patients' median LVEF at baseline was 65.0% (range 50% -88% ) in both groups.
 
 <div style=\"page-break-after: always\"></div>
-
-approximately half of the patients in each treatment group had received prior adjuvant or neoadjuvant therapy. Most of these patients had received prior anthracycline therapy and 11% of all patients had received prior trastuzumab. A total of 43% of patients in both treatment groups had previously received radiotherapy. Patients' median LVEF at baseline was 65.0% (range 50% - 88%) in both groups.
 
 The efficacy results from the CLEOPATRA study are summarised in Table 3. A statistically significant improvement in IRF-assessed PFS was demonstrated in the Perjeta-treated group compared with the placebo-treated group. The results for investigator-assessed PFS were similar to those observed for IRF-assessed PFS.
 
 Table 3   Summary of efficacy from CLEOPATRA study
 
-| Parameter                                                                                                                                                                                 | Placebo+ trastuzumab + docetaxel n=406             | Perjeta+ trastuzumab + docetaxel n=402             | HR (95% CI)                         | p-value   | p-value   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|----------------------------------------------------|-------------------------------------|-----------|-----------|
-| Progression-Free Survival (independent review) - primary endpoint* no. of patients with an event Median months                                                                            | 242 (59%) 12.4                                     | 191 (47.5%) 18.5                                   | 0.62 [0.51;0.75]                    | <0.0001   | <0.0001   |
-| Overall Survival - secondary endpoint** no. of patients with an event Median months                                                                                                       | 221 (54.4%) 40.8                                   | 168 (41.8%) 56.5                                   | 0.68 [0.56;0.84]                    | 0.0002    | 0.0002    |
-| Objective Response Rate (ORR)^ - secondary endpoint no. of patients with measurable disease Responders*** 95% CI for ORR Complete response (CR) Partial Response (PR) Stable disease (SD) | 336 233 (69.3%) [64.1; 74.2] 14 (4.2%) 219 (65.2%) | 343 275 (80.2%) [75.6; 84.3] 19 (5.5%) 256 (74.6%) | Difference in ORR: 10.8% [4.2,17.5] | 0.0011    | 0.0011    |
-| Duration of Response † ^ n=                                                                                                                                                               | 70 (20.8%)                                         | 50 (14.6%) 13 (3.8 %)                              |                                     |           |           |
-| Progressive disease (PD)                                                                                                                                                                  |                                                    |                                                    |                                     |           |           |
-|                                                                                                                                                                                           | 28 (8.3%)                                          |                                                    |                                     |           |           |
-| Median weeks                                                                                                                                                                              |                                                    |                                                    |                                     |           |           |
-| 95% CI for Median                                                                                                                                                                         | [46;64]                                            | [71;106]                                           |                                     |           |           |
-|                                                                                                                                                                                           | 54.1                                               |                                                    |                                     |           |           |
-|                                                                                                                                                                                           |                                                    | 87.6                                               |                                     |           |           |
-|                                                                                                                                                                                           |                                                    |                                                    | 275                                 |           |           |
-|                                                                                                                                                                                           | 233                                                |                                                    |                                     |           |           |
+| Parameter                                                                                                                                                             | Placebo+ trastuzumab + docetaxel n=406   | Perjeta+ trastuzumab + docetaxel n=402             | HR (95% CI)                           | p-value   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------|---------------------------------------|-----------|
+| Progression-Free Survival (independent review) - primary endpoint* no. of patients with an event Median months                                                        | 242 (59%) 12.4                           | 191 (47.5%) 18.5                                   | 0.62 [0.51; 0.75]                     | <0.0001   |
+| Overall Survival - secondary endpoint** no. of patients with an event Median months                                                                                   | 221 (54.4%) 40.8                         | 168 (41.8%) 56.5                                   | 0.68 [0.56; 0.84]                     | 0.0002    |
+| Objective Response Rate (ORR)^ - secondary endpoint no. of patients with measurable disease Responders*** 95% CI for ORR Complete response (CR) Partial Response (PR) | 336 233 (69.3%) [64.1; 74.2] 14 (4.2%)   | 343 275 (80.2%) [75.6; 84.3] 19 (5.5%) 256 (74.6%) | Difference in ORR: 10.8% [4.2 ; 17.5] | 0.0011    |
+|                                                                                                                                                                       | 219 (65.2%)                              |                                                    |                                       |           |
+| Stable disease (SD)                                                                                                                                                   |                                          | 50 (14.6%)                                         |                                       |           |
+|                                                                                                                                                                       | 70 (20.8%)                               |                                                    |                                       |           |
+| Progressive disease (PD)                                                                                                                                              |                                          |                                                    |                                       |           |
+|                                                                                                                                                                       | 28 (8.3%)                                |                                                    |                                       |           |
+|                                                                                                                                                                       |                                          | 13 (3.8 %)                                         |                                       |           |
+| Duration of Response † ^ n=                                                                                                                                           |                                          |                                                    |                                       |           |
+| 95% CI for Median                                                                                                                                                     | [46; 64]                                 | [71; 106]                                          | 275                                   |           |
+|                                                                                                                                                                       | 54.1                                     |                                                    |                                       |           |
+|                                                                                                                                                                       | 233                                      |                                                    |                                       |           |
+|                                                                                                                                                                       |                                          | 87.6                                               |                                       |           |
+| Median weeks                                                                                                                                                          |                                          |                                                    |                                       |           |
 
-Consistent results were observed across pre-specified patient subgroups including the subgroups based on stratification factors of geographic region and prior adjuvant/neoadjuvant therapy or de novo metastatic breast cancer (see Figure 1). A post hoc exploratory analysis revealed that for patients who had received prior trastuzumab (n = 88), the hazard ratio for IRF-assessed PFS was 0.62 (95% CI 0.35, 1.07), compared with 0.60 (95% CI 0.43, 0.83) for patients who had received prior therapy which did not include trastuzumab (n = 288).
+* Primary progression-free survival analysis, cutoff date 13 th  May 2011.
+
+** Event-driven final overall survival analysis, cutoff date 11 th February 2014.
+
+*** Patients with best overall response of confirmed CR or PR by RECIST.
+
+† Evaluated in patients with Best Overall Response of CR or PR.
+
+^ Objective response rate and duration of response are based on IRF-assessed tumour assessments.
+
+Consistent results were observed across pre-specified patient subgroups including the subgroups based on stratification factors of geographic region and prior adjuvant/neoadjuvant therapy or de novo metastatic breast cancer (see Figure 1). A post hoc exploratory analysis revealed that for patients who had received prior trastuzumab (n = 88), the hazard ratio for IRFassessed PFS was 0.62 (95% CI 0.35; 1.07), compared with 0.60 (95% CI 0.43; 0.83) for patients who had received prior therapy which did not include trastuzumab (n = 288).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -454,7 +463,7 @@ Figure 1 IRF-assessed PFS by patient subgroup
 
 The event-driven final analysis of OS was performed when 389 patients had died (221 in the placebotreated group and 168 in the Perjeta-treated group). The statistically significant OS benefit in favour of the Perjeta-treated group, previously observed at an interim analysis of OS (performed one year after the primary analysis), was maintained (HR 0.68, p = 0.0002 log-rank test). The median time to death was 40.8 months in the placebo-treated group and 56.5 months in the Perjeta-treated group (see Table 3, Figure 2).
 
-A descriptive analysis of OS performed at the end of the study when 515 patients had died (280 in the placebo-treated group and 235 in the Perjeta-treated group) showed that the statistically significant OS benefit in favour of the Perjeta-treated group was maintained over time after a median follow-up of 99 months (HR 0.69, p &lt; 0.0001 log-rank test; median time to death 40.8 months [placebo-treated group] versus 57.1 months [Perjeta-treated group]). Landmark survival estimates at 8 years were 37% in the Perjeta-treated group and 23% in the placebo-treated group.
+A descriptive analysis of OS performed at the end of the study when 515 patients had died (280 in the placebo-treated group and 235 in the Perjeta-treated group) showed that the statistically significant OS benefit in favour of the Perjeta-treated group was maintained over time after a median follow-up of 99 months (HR 0.69, p &lt; 0.0001 logrank test; median time to death 40.8 months [placebo -treated group] versus 57.1 months [Perjetatreated group]). Landmark survival estimates at 8 years were 37% in the Perjetatreated group and 23% in the placebo -treated group.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -470,7 +479,7 @@ Additional supportive clinical trial information
 
 ## BO17929 -single-arm trial in metastatic breast cancer
 
-BO17929 was a phase II, non-randomised study in patients with metastatic breast cancer whose tumours had progressed during treatment with trastuzumab. Treatment with Perjeta and trastuzumab resulted in a response rate of 24.2%, with a further 25.8% of patients experiencing stabilisation of disease lasting at least 6 months, indicating that Perjeta is active following progression on trastuzumab.
+BO17929 was a phase II, non-randomised study in patients with metastatic breast cancer whose tumours had progressed during treatment with trastuzumab. Treatment with Perjeta and trastuzumab resulted in a response rate of 24.2% , with a further 25.8% of patients experiencing stabilisation of disease lasting at least 6 months, indicating that Perjeta is active following progression on trastuzumab.
 
 Early Breast Cancer
 
@@ -482,11 +491,9 @@ The indication in the neoadjuvant treatment of breast cancer is based on demonst
 
 ## NEOSPHERE (WO20697)
 
-NEOSPHERE is a phase II, multicentre, multinational randomised controlled trial with Perjeta and was conducted in 417 adult female patients with newly diagnosed, early, inflammatory or locally advanced HER2-positive breast cancer (T2-4d; primary tumour &gt; 2cm in diameter) who had not
+NEOSPHERE is a phase II, multicentre, multinational randomised controlled trial with Perjeta and was conducted in 417 adult female patients with newly diagnosed, early, inflammatory or locally advanced HER2-positive breast cancer (T2-4d ; primary tumour &gt; 2cm in diameter) who had not received prior trastuzumab, chemotherapy or radiotherapy. Patients with metastases, bilateral breast cancer, clinically important cardiac risk factors (see section 4.4) or LVEF &lt; 55% were not included. The majority of patients were less than 65 years old.
 
 <div style=\"page-break-after: always\"></div>
-
-received prior trastuzumab, chemotherapy or radiotherapy. Patients with metastases, bilateral breast cancer, clinically important cardiac risk factors (see section 4.4) or LVEF &lt; 55% were not included. The majority of patients were less than 65 years old.
 
 Patients were randomised to receive one of the following neoadjuvant regimens for 4 cycles prior to surgery:
 
@@ -501,17 +508,17 @@ Pertuzumab was given intravenously at an initial dose of 840 mg, followed by 420
 
 The primary endpoint of the study was pathological complete response (pCR) rate in the breast (ypT0/is).  Secondary efficacy endpoints were clinical response rate, breast conserving surgery rate (T2-3 tumours only), disease-free survival (DFS), and PFS. Additional exploratory pCR rates included nodal status (ypT0/isN0 and ypT0N0).
 
-Demographics were well balanced (median age was 49-50 years, the majority were caucasian (71%)) and all patients were female. Overall 7% of patients had inflammatory breast cancer, 32% had locally advanced breast cancer and 61% had operable breast cancer.  Approximately half the patients in each treatment group had hormone receptor-positive disease (defined as ER positive and/or PgR positive).
+Demographics were well balanced (median age was 4950 years, the majority were caucasian (71%)) and all patients were female. Overall 7% of patients had inflammatory breast cancer, 32% had locally advanced breast cancer and 61% had operable breast cancer. Approximately half the patients in each treatment group had hormone receptor-positive disease (defined as ER positive and/or PgR positive).
 
-The efficacy results are presented in Table 4. A statistically significant  improvement in pCR rate (ypT0/is) was observed in patients receiving Perjeta plus trastuzumab and docetaxel compared to patients receiving trastuzumab and docetaxel (45.8% vs 29.0%, p value = 0.0141). A consistent pattern of results was observed regardless of pCR definition. The difference in pCR rate is considered likely to translate into a clinically meaningful difference in long term outcomes and is supported by positive trends in PFS (HR 0.69, 95% CI 0.34, 1.40) and DFS (HR 0.60, 95% CI 0.28, 1.27).
+The efficacy results are presented in Table 4. A statistically significant  improvement in pCR rate (ypT0/is) was observed in patients receiving Perjeta plus trastuzumab and docetaxel compared to patients receiving trastuzumab and docetaxel (45.8% vs 29.0%, p value = 0.0141). A consistent pattern of results was observed regardless of pCR definition. The difference in pCR rate is considered likely to translate into a clinically meaningful difference in long term outcomes and is supported by positive trends in PFS (HR 0.69, 95% CI 0.34 ; 1.40) and DFS (HR 0.60, 95% CI 0.28 ; 1.27).
 
-The pCR rates as well as the magnitude of benefit with Perjeta (Perjeta plus trastuzumab and docetaxel compared to patients receiving trastuzumab and docetaxel) were lower in the subgroup of patients with hormone receptor-positive tumours (difference of 6% in pCR in the breast) than in patients with hormone receptor-negative tumours (difference of 26.4% in pCR in the breast). pCR rates were similar in patients with operable versus locally advanced disease. There were too few patients with inflammatory breast cancer to draw any firm conclusions but the pCR rate was higher in patients who received Perjeta plus trastuzumab and docetaxel.
+The pCR rates as well as the magnitude of benefit with Perjeta (Perjeta plus trastuzumab and docetaxel compared to patients receiving trastuzumab and docetaxel) were lower in the subgroup of patients with hormone receptorpositive tumours (difference of 6% in pCR in the breast) than in patients with hormone receptornegative tumours (difference of 26.4% in pCR in the breast). pCR rates were similar in patients with operable versus locally advanced disease. There were too few patients with inflammatory breast cancer to draw any firm conclusions but the pCR rate was higher in patients who received Perjeta plus trastuzumab and docetaxel.
 
 <div style=\"page-break-after: always\"></div>
 
 ## TRYPHAENA (BO22280)
 
-TRYPHAENA is a multicentre, randomised phase II clinical trial conducted in 225 adult female patients with HER2-positive locally advanced, operable, or inflammatory breast cancer (T2-4d; primary tumour  &gt; 2cm in diameter) who had not received prior trastuzumab, chemotherapy or radiotherapy.  Patients with metastases, bilateral breast cancer, clinically important cardiac risk factors (see section 4.4) or LVEF  &lt;  55% were not included. The majority of patients were less than 65 years old. Patients were randomised to receive one of three neoadjuvant regimens prior to surgery as follows:
+TRYPHAENA is a multicentre, randomised phase II clinical trial conducted in 225 adult female patients with HER2-positive locally advanced, operable, or inflammatory breast cancer (T24d; primary tumour  &gt; 2cm in diameter) who had not received prior trastuzumab, chemotherapy or radiotherapy.  Patients with metastases, bilateral breast cancer, clinically important cardiac risk factors (s ee section 4.4) or LVEF  &lt;  55% were not included. The majority of patients were less than 65 years old. Patients were randomised to receive one of three neoadjuvant regimens prior to surgery as follows:
 
 - 3 cycles of FEC followed by 3 cycles of docetaxel, all given concurrently with Perjeta and trastuzumab
 - 3 cycles of FEC alone followed by 3 cycles of docetaxel, with trastuzumab and Perjeta given concurrently
@@ -523,9 +530,9 @@ Pertuzumab was given intravenously at an initial dose of 840 mg, followed by 420
 
 The primary endpoint of this study was cardiac safety during the neoadjuvant treatment period of the study.  Secondary efficacy endpoints were pCR rate in the breast (ypT0/is), DFS, PFS and OS.
 
-Demographics were well balanced between arms (median age was 49-50 years, the majority were Caucasian [77%]) and all patients were female. Overall 6% of patients had inflammatory breast cancer, 25% had locally advanced breast cancer and 69% had operable breast cancer. Approximately half the patients in each treatment group had ER-positive and/or PgR-positive disease.
+Demographics were well balanced between arms (median age was 49-50 years, the majority were Caucasian [77%]) and all patients were female. Overall 6% of patients had inflammatory breast cancer, 25% had locally advanced breast cancer and 69% had operable br east cancer. Approximately half the patients in each treatment group had ER-positive and/or PgR-positive disease.
 
-Compared with published data for similar regimens without pertuzumab, high pCR rates were observed in all 3 treatment arms (see Table 4). A consistent pattern of results was observed regardless of pCR definition used. The pCR rates were lower in the subgroup of patients with hormone receptorpositive tumours (range 46.2% to 50.0%) than in patients with hormone receptor-negative tumours (range 65.0% to 83.8%).
+Compared with published data for similar regimens without pertuzumab, high pCR rates were observed in all 3 treatment arms (see Table 4). A consistent pattern of results was observed regardless of pCR definition used. The pCR rates were lower in the subgroup of patients with hormone receptorpositive tumours (range 46.2% to 50.0%) than in patients with hormone receptor -negative tumours (r ange 65.0% to 83.8%).
 
 pCR rates were similar in patients with operable and locally advanced disease. There were too few patients with inflammatory breast cancer to draw any firm conclusions.
 
@@ -533,35 +540,32 @@ pCR rates were similar in patients with operable and locally advanced disease. T
 
 Table 4 NEOSPHERE (WO20697) and TRYPHAENA (BO22280): Overview of efficacy (Intent to Treat Population)
 
-|                                                                   | NEOSPHERE (WO20697)           | NEOSPHERE (WO20697)                    | NEOSPHERE (WO20697)                 | NEOSPHERE (WO20697)                         | TRYPHAENA (BO22280)                                                | TRYPHAENA (BO22280)                         | TRYPHAENA (BO22280)     |
-|-------------------------------------------------------------------|-------------------------------|----------------------------------------|-------------------------------------|---------------------------------------------|--------------------------------------------------------------------|---------------------------------------------|-------------------------|
-| Paramete r                                                        | Trastuzum ab +Docetaxel N=107 | Perjeta+ Trastuzuma b+ Docetaxel N=107 | Perjeta+ Trastuzuma b N=107         | Perjeta +Docetaxel N=96                     | Perjeta+ Trastuzumab + FEC  Perjeta+ Trastuzumab + Docetaxel N=73 | FEC  Perjeta+ Trastuzumab + Docetaxel N=75 | Perjeta +TCH N=77       |
-| pCR rate in the breast (ypT0/is) n (%) [95% CI] 1                 | 31 (29.0%) [20.6; 38.5]       | 49 (45.8%) [36.1; 55.7]                | 18 (16.8%) [10.3; 25.3]             | 23 (24.0%) [15.8; 33.7]                     | 45 (61.6%) [49.5; 72.8]                                            | 43 (57.3%) [45.4; 68.7]                     | 51 (66.2%) [54.6; 76.6] |
-| Difference in pCR rates 2 [95% CI] 3                              |                               | +16.8% [3.5; 30.1]                     | -12.2% [-23.8; -0.5]                | -21.8% [-35.1; -8.5]                        | NA                                                                 | NA                                          | NA                      |
-| p-value (with Simes corr. for CMH test) 4                         |                               | 0.0141 (vs. Trastuzumab +Docetaxel)    | 0.0198 (vs. Trastuzumab +Docetaxel) | 0.0030 (vs Perjeta+ Trastuzumab +Docetaxel) | NA                                                                 | NA                                          | NA                      |
-| pCR rate in the breast and lymph node (ypT0/is N0) n (%) [95% CI] | 23 (21.5%) [14.1; 30.5]       | 42 (39.3%) [30.3; 49.2]                | 12 (11.2%) [5.9; 18.8]              | 17 (17.7%) [10.7; 26.8]                     | 41 (56.2%) [44.1; 67.8]                                            | 41 (54.7%) [42.7; 66.2]                     | 49 (63.6%) [51.9; 74.3] |
-| ypT0 N0 n (%) [95% CI]                                            | 13 (12.1%) [6.6; 19.9]        | 35 (32.7%) [24.0; 42.5]                | 6 (5.6%) [2.1; 11.8]                | 13 (13.2%) [7.4; 22.0]                      | 37 (50.7%) [38.7; 62.6]                                            | 34 (45.3%) [33.8; 57.3]                     | 40 (51.9%) [40.3; 63.5] |
-| Clinical Response 5                                               | 79 (79.8%)                    | 89 (88.1%)                             | 69 (67.6%)                          | 65 (71.4%)                                  | 67 (91.8%)                                                         | 71 (94.7%)                                  | 69 (89.6%)              |
+|                                                          | NEOSPHERE (WO20697)           | NEOSPHERE (WO20697)                    | NEOSPHERE (WO20697)                 | NEOSPHERE (WO20697)                         | TRYPHAENA (BO22280)                                                | TRYPHAENA (BO22280)                         | TRYPHAENA (BO22280)     |
+|----------------------------------------------------------|-------------------------------|----------------------------------------|-------------------------------------|---------------------------------------------|--------------------------------------------------------------------|---------------------------------------------|-------------------------|
+| Parameter                                                | Trastuzum ab +Docetaxel N=107 | Perjeta+ Trastuzumab + Docetaxel N=107 | Perjeta+ Trastuzumab N=107          | Perjeta +Docetaxel N=96                     | Perjeta+ Trastuzuma b+ FEC  Perjeta+ Trastuzumab + Docetaxel N=73 | FEC  Perjeta+ Trastuzumab + Docetaxel N=75 | Perjeta +TCH N=77       |
+| pCR rate in the breast (ypT0/is) n (%) [95% CI] 1        | 31 (29.0%) [20.6; 38.5]       | 49 (45.8%) [36.1; 55.7]                | 18 (16.8%) [10.3; 25.3]             | 23 (24.0%) [15.8; 33.7]                     | 45 (61.6%) [49.5; 72.8]                                            | 43 (57.3%) [45.4; 68.7]                     | 51 (66.2%) [54.6; 76.6] |
+| Difference in pCR rates 2 [95% CI] 3                     |                               | +16.8% [3.5; 30.1]                     | - 12.2% [- 23.8; -0.5]              | - 21.8% [- 35.1; -8.5]                      | NA                                                                 | NA                                          | NA                      |
+| p-value (with Simes corr. for CMH test) 4                |                               | 0.0141 (vs. Trastuzumab+ Docetaxel)    | 0.0198 (vs. Trastuzumab+ Docetaxel) | 0.0030 (vs Perjeta+ Trastuzumab +Docetaxel) | NA                                                                 | NA                                          | NA                      |
+| pCR rate in the breast and lymph node (ypT0/is N0) n (%) | 23 (21.5%) [14.1; 30.5]       | 42 (39.3%) [30.3; 49.2]                | 12 (11.2%) [5.9; 18.8]              | 17 (17.7%) [10.7; 26.8]                     | 41 (56.2%) [44.1; 67.8]                                            | 41 (54.7%) [42.7; 66.2]                     | 49 (63.6%) [51.9; 74.3] |
+| ypT0 N0 n (%) [95% CI]                                   | 13 (12.1%) [6.6; 19.9]        | 35 (32.7%) [24.0; 42.5]                | 6 (5.6 % ) [2.1; 11.8]              | 13 (13.2%) [7.4; 22.0]                      | 37 (50.7%) [38.7; 62.6]                                            | 34 (45.3%) [33.8; 57.3]                     | 40 (51.9%) [40.3; 63.5] |
+| Clinical Response 5                                      | 79 (79.8%)                    | 89 (88.1%)                             | 69 (67.6%)                          | 65 (71.4%)                                  | 67 (91.8%)                                                         | 71 (94.7%)                                  | 69 (89.6%)              |
 
-FEC: 5-fluorouracil, epirubicin, cyclophosphamide; TCH: docetaxel, carboplatin and trastuzumab, CMH: Cochran-Mantel-Haenszel
+FEC: 5fluorouracil, epirubicin, cyclophosphamide; TCH: docetaxel, carboplatin and trastuzumab, CMH: Cochran-Mantel-Haenszel
 
-1. 95% CI for one sample binomial using Pearson-Clopper method.
-
+1. 95% CI for one sample binomial using Pearson -Clopper method.
 2. Treatment Perjeta+Trastuzumab+Docetaxel and Perjeta+Trastuzumab are compared to Trastuzumab+
 
 Docetaxel while Perjeta+Docetaxel  is compared to Perjeta+Trastuzumab+Docetaxel.
 
-3. Approximate 95% CI for difference of two response rates using Hauck-Anderson method.
-
+3. Approximate 95% CI for difference of two response rates using Hauck -Anderson method.
 4. p-value from Cochran-Mantel-Haenszel  test, with Simes multiplicity adjustment.
-
 5. Clinical response represents patients with a best overall response of CR or PR during the neoadjuvant period (in the primary breast lesion).
-
-<div style=\"page-break-after: always\"></div>
 
 ## BERENICE (WO29217)
 
 BERENICE is a non-randomized, open-label, multicentre, multinational, Phase II trial conducted in 401 patients with HER2-positive locally advanced, inflammatory, or early-stage breast cancer (with primary tumours &gt; 2cm in diameter or node-positive disease).
+
+<div style=\"page-break-after: always\"></div>
 
 The BERENICE study included two parallel groups of patients. Patients considered suitable for neoadjuvant treatment with trastuzumab plus anthracycline/taxane-based chemotherapy were allocated to receive one of the two following regimens prior to surgery as follows:
 
@@ -590,42 +594,43 @@ The primary endpoint of the study was invasive disease-free survival (IDFS), def
 
 <div style=\"page-break-after: always\"></div>
 
-Demographics were well balanced between the two treatment arms. The median age was 51 years, and over 99% of patients were female. The majority of patients had node-positive (63%) and/or hormone receptor-positive disease (64%), and were Caucasian (71%).
+Demographics were well balanced between the two treatment arms. The median age was 51 years, and over 99% of patients were female. The majority of patients had node -positive (63%) and/or hormone receptorpositive disease (64%), and were Caucasian (71%).
 
-After a median follow-up of 45.4 months, the APHINITY study showed a 19% (hazard ratio [HR] = 0.81; 95% CI 0.66, 1.00 p-value 0.0446) reduction in risk of recurrence or death in patients randomised to receive Perjeta compared with patients randomised to receive placebo.
+After a median followup of 45.4 months, the APHINITY study showed a 19% (hazard ratio [HR] = 0.81; 95% CI 0.66, 1.00 p -value 0.0446) reduction in risk of recurrence or death in patients randomised to receive Perjeta compared with patients randomised to receive placebo.
 
-After a median follow-up of 101.2 months (8.4 years), at the third OS interim analysis, the number of deaths in patients randomised to the Perjeta arm was 168 deaths [7.0%] compared with 202 deaths [8.4%] in the placebo arm; HR=0.83, 95% CI [0.68, 1.02].
+After a median follow-up of 101.2 months (8.4 years), at the third OS interim analysis, the number of deaths in patients randomised to the Perjeta arm was 168 deaths [7.0%] compared with 202 deaths [8.4%] in the placebo arm; HR=0.83, 95% CI [0.68; 1.02].
 
 The efficacy results from the APHINITY trial are summarised in Table 5 and in Figure 3.
 
 Table 5 Overall Efficacy: ITT Population
 
-|                                                                                                       | Perjeta + trastuzumab + Chemotherapy N=2400   | Placebo + trastuzumab + Chemotherapy N=2404   |
-|-------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Primary Endpoint                                                                                      |                                               |                                               |
-| Invasive Disease Free Survival (IDFS) * Number (%) of patients with event                             | 171 (7.1%) 210 (8.7%)                         | 171 (7.1%) 210 (8.7%)                         |
-| HR [95% CI] p-value (Log-Rank test, stratified 1 )                                                    | 0.81 [0.66, 1.00] 0.0446                      | 0.81 [0.66, 1.00] 0.0446                      |
-| 3 year event-free rate 2 [95% CI]                                                                     | 94.1 [93.1, 95.0]                             | 93.2 [92.2, 94.3]                             |
-| Secondary Endpoints 1                                                                                 |                                               |                                               |
-| IDFS including second primary non-breast cancer* Number (%) of patients with event HR [95% CI]        | 189 (7.9%) 0.82 [0.68,                        | 230 (9.6%) 0.99]                              |
-| p-value (Log-Rank test, stratified 1 ) 3 year event-free rate 2 [95% CI] Disease Free Survival (DFS)* | 0.0430                                        | [91.4, 93.6]                                  |
-| Number (%) of patients with                                                                           | 93.5 [92.5, 94.5] 192 (8.0%)                  | 92.5 236 (9.8%)                               |
-| event HR [95% CI] p-value (Log-Rank test, stratified 1 ) 3 year event-free rate 2 [95% CI]            | 0.81 [0.67, 0.0327 93.4 [92.4, 94.4]          | 0.98] 92.3 [91.2, 93.4]                       |
-| Overall Survival (OS)** Number (%) of patients with event HR [95% CI]                                 | 168 (7.0%) 0.83 [0.68, 1.02]                  | 202 (8.4%)                                    |
+|                                                                                                                                                                         | Perjeta + trastuzumab + Chemotherapy N=2400                 | Placebo + trastuzumab + Chemotherapy N=2404   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------|
+| Primary Endpoint                                                                                                                                                        |                                                             |                                               |
+| Invasive Disease Free Survival (IDFS)* Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified 1 ) 3 year event-free rate 2 [95% CI]           | 171 (7.1%) 0.81 [0.66, 1.00] 0.0446 94.1 [93.1 ; 95.0] 93.2 | 210 (8.7%) [92.2 ; 94.3]                      |
+| Secondary Endpoints 1                                                                                                                                                   |                                                             |                                               |
+| IDFS including second primary non-breast cancer* Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified 1 ) 3 year event-free rate 2 [95% CI] | 189 (7.9%) 0.82 [0.68 ; 0.0430 93.5 [92.5 ;                 | 230 (9.6%) 0.99]                              |
+| Disease Free Survival (DFS)* Number (%) of patients with                                                                                                                | 94.5] 192 (8.0%)                                            | 92.5 [91.4 ; 93.6] 236 (9.8%)                 |
+| event HR [95% CI] p-value (Log-Rank test, stratified 1 ) 3 year event-free rate 2 [95% CI]                                                                              | 0.81 [0.67 ; 0.0327 93.4 [92.4 ; 94.4]                      | 0.98] 92.3 [91.2 ; 93.4]                      |
+| Overall Survival (OS)** Number (%) of patients with event HR [95% CI]                                                                                                   | 205 (8.5 %)                                                 |                                               |
+| p-value (Log-Rank test, stratified 1 )                                                                                                                                  | 0.83 [0.69 ; 0.0441                                         | 247 (10.3 %) 1.00]                            |
+| 10 year event-free rate 2 [95% CI]                                                                                                                                      | 91.55 [90.38 ; 92.71]                                       | 89.79 [88.53 ; 91.06]                         |
 
 Key to abbreviations (Table 5): HR: Hazard Ratio; CI: Confidence Interval
 
 * Primary Invasive Disease Free Survival analysis, cutoff date 19 th  December 2016.
 
-** Data from 3 rd interim analysis for overall survival, cutoff date 10 th January 2022.1. All analyses stratified by nodal status, protocol version, central hormone receptor status, and adjuvant chemotherapy regimen.
+** Data from final analysis for overall survival, cutoff date 28 th  November 202 4; p -value boundary 0.0496
 
-2. 3-year event-free rate derived from Kaplan-Meier estimates.
+1. All analyses stratified by nodal status, protocol version, central hormone receptor status, and adjuvant chemotherapy regimen.
+
+2. 3-year event-free rate and 10 year event-free rate derived from Kaplan-Meier estimates.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Figure 3 Kaplan-Meier Curve of Invasive Disease Free Survival
 
-Kaplan-MeierPlot of Time to First IDFS Event(Months)by Treatment Regimen, ITT Population Protocol:BIG4-11/BO25126/TOC4939G
+Kaplan-MeierPlot of Time to First IDFS Event (Months)by Treatment Regimen, ITT Population Protocol:BIG4-11/BO25126/TOC4939G
 
 <!-- image -->
 
@@ -633,7 +638,7 @@ Time (months)
 
 IDFS= invasive disease free survival; CI= confidence interval; Pla= placebo; Ptz= pertuzumab (Perjeta); T= trastuzumab.
 
-The estimate of IDFS at 4-years was 92.3% in the Perjeta-treated group versus 90.6% in the placebotreated group. At the time of the estimate the median follow-up was 45.4 months.
+The estimate of IDFS at 4years was 92.3% in the Perjeta -treated group versus 90.6% in the placebo -treated group. At the time of the estimate the median follow-up was 45.4 months.
 
 ## Results of Subgroup Analysis
 
@@ -643,29 +648,31 @@ At the time of the primary analysis, the benefits of Perjeta were more apparent 
 
 Table 6  Efficacy results in subgroups by nodal status and hormone receptor status 1
 
-|                         | Number of IDFS events/Total N(%)     | Number of IDFS events/Total N(%)     | UnstratifiedHR (95% CI)   |
-|-------------------------|--------------------------------------|--------------------------------------|---------------------------|
-| Population              | Perjeta + trastuzumab + chemotherapy | Placebo + trastuzumab + chemotherapy |                           |
-| Nodal status            |                                      |                                      |                           |
-| Positive                | 139/1503 (9.2%)                      | 181/1502 (12.1%)                     | 0.77 (0.62, 0.96)         |
-| Negative                | 32/897 (3.6%)                        | 29/902 (3.2%)                        | 1.13 (0.68, 1.86)         |
-| Hormone receptor status |                                      |                                      |                           |
-| Negative                | 71/864 (8.2%)                        | 91/858 (10.6%)                       | 0.76 (0.56, 1.04)         |
-| Positive                | 100/1536 (6.5%)                      | 119/1546 (7.7%)                      | 0.86 (0.66, 1.13)         |
+|                         | Number of IDFS events/Total N (%)    | Number of IDFS events/Total N (%)    | Unstratified HR (95% CI)   |
+|-------------------------|--------------------------------------|--------------------------------------|----------------------------|
+| Population              | Perjeta + trastuzumab + chemotherapy | Placebo + trastuzumab + chemotherapy |                            |
+| Nodal status            |                                      |                                      |                            |
+| Positive                | 139/1503 (9.2%)                      | 181/1502 (12.1%)                     | 0.77 (0.62 ; 0.96)         |
+| Negative                | 32/897 (3.6%)                        | 29/902 (3.2%)                        | 1.13 (0.68 ; 1.86)         |
+| Hormone receptor status |                                      |                                      |                            |
+| Negative                | 71/864 (8.2%)                        | 91/858 (10.6%)                       | 0.76 (0.56 ; 1.04)         |
+| Positive                | 100/1536 (6.5%)                      | 119/1546 (7.7%)                      | 0.86 (0.66 ; 1.13)         |
 
-Estimates of IDFS rates in the lymph node- positive subgroup were 92.0% versus 90.2% at 3 years and 89.9% vs. 86.7% at 4 years in Perjeta-treated patients versus placebo-treated patients, respectively. In the lymph node- negative subgroup, estimates of IDFS rates were 97.5% versus 98.4% at 3 years and 96.2% versus 96.7% at 4 years in Perjeta-treated patients versus placebo-treated patients, respectively. In the hormone receptor-negative subgroup, estimates of IDFS rates were 92.8% versus 91.2% at 3 years and 91.0% versus 88.7% at 4 years in Perjeta-treated patients versus placebo-treated patients, respectively. In the hormone receptor-positive subgroup estimates of IDFS rates were 94.8% versus 94.4% at 3 years and 93.0% versus 91.6% at 4 years in Perjeta-treated patients versus placebo-treated patients, respectively.
+1 Prespecified subgroup analyses without adjusting for multiple comparisons, therefore, results are considered descriptive.
+
+Estimates of IDFS rates in the lymph nodepositive subgroup were 92.0% versus 90.2% at 3 years and 89.9% vs. 86.7% at 4 years in Perjeta -treated patients versus placebo-treated patients, respectively. In the lymph node- negative subgroup, estimates of IDF S rates were 97.5% versus 98.4% at 3 years and 96.2% versus 96.7% at 4 years in Perjeta -treated patients versus placebo-treated patients, respectively. In the hormone receptornegative subgroup, estimates of IDFS rates were 92.8% versus 91.2% at 3 years an d 91.0% versus 88.7% at 4 years in Perjeta -treated patients versus placebo-treated patients, respectively. In the hormone receptorpositive subgroup estimates of IDFS rates were 94.8% versus 94.4% at 3 years and 93.0% versus 91.6% at 4 years in Perjeta -treated patients versus placebo-treated patients, respectively.
 
 ## Patient Reported Outcomes (PRO)
 
 Secondary endpoints included the assessment of patient-reported global health status, role and physical function, and treatment symptoms using the EORTC QLQ-C30 and EORTC QLQ-BR23 questionnaires. In the analyses of patient-reported outcomes, a 10-point difference was considered clinically meaningful.
 
-Patients' physical function, global health status and diarrhoea scores showed a clinically meaningful change during chemotherapy in both treatment arms. The mean decrease from baseline at that time for physical function was -10.7 (95% CI-11.4, -10.0) in the Perjeta arm and -10.6 (95% CI -11.4, -9.9) in the placebo arm; global health status was -11.2 (95% CI -12.2, -10.2) in the Perjeta arm and -10.2 (95% CI -11.1,-9.2) in the placebo arm. Change in diarrhoea symptoms increased to +22.3 (95% CI 21.0, 23.6) in the Perjeta arm versus +9.2 (95% CI 8.2, 10.2) in the placebo arm.
+Patients' physical function, global health status and diarrhoea scores showed a clinically meaningful change during chemotherapy in both treatment arms. The mean decrease from baseline at that time for physical function was 10.7 (95% CI -11.4 ; -10.0) in the Perjeta arm and 10.6 (95% CI -11.4 ; -9.9) in the placebo arm; global health status was -11.2 (95% CI -12.2 ; -10.2) in the Perjeta arm and -10.2 (95% CI -11.1 ; -9.2) in the placebo arm. Change in diarrhoea symptoms increased to +22.3 (95% CI 21.0 ; 23.6) i n the Perjeta arm versus +9.2 (95% CI 8.2; 10.2) in the placebo arm.
 
 Thereafter in both arms physical function and global health status scores returned to baseline levels during targeted treatment. Diarrhoea symptoms returned to baseline after HER2 therapy in the Perjetaarm. The addition of Perjeta to trastuzumab plus chemotherapy did not affect patients' overall role function over the course of the study.
 
 ## Immunogenicity
 
-Patients in the pivotal trial CLEOPATRA were tested at multiple time-points for anti-drug antibodies (ADA) to Perjeta. 3.3% (13/389 patients) of Perjeta-treated patients and 6.7% (25/372 patients) of placebo-treated patients tested positive for ADA. In BERENICE, 4.1% (16/392) of the patients treated with Perjeta tested positive for ADA.  None of these patients experienced anaphylactic/hypersensitivity reactions that were clearly related to ADA.
+Patients in the pivotal trial CLEOPATRA were tested at multiple time-points for anti-drug antibodies (ADA) to Perjeta. 3.3 % ( 13/389 patients) of Perjeta-treated patients and 6.7 % ( 25/372 patients) of placebo-treated patients tested positive for ADA. In BERENICE, 4.1 % (1 6/392) of the patients treated with Perjeta tested positive for ADA.  None of these patients experienced anaphylactic/hypersensitivity reactions that were clearly related to ADA.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -707,11 +714,9 @@ No dedicated renal impairment trial for Perjeta has been conducted. Based on the
 
 ## Other special populations
 
-The population PK analysis suggested no PK differences based on age, gender and ethnicity (Japanese versus non-Japanese). Baseline albumin and lean body weight were the most significant covariates influencing CL. CL decreased in patients with higher baseline albumin concentrations and increased in patients with greater lean body weight. However sensitivity analyses performed at the recommended dose and schedule of Perjeta showed that at the extreme values of these two covariates, there was no
+The population PK analysis suggested no PK differences based on age, gender and ethnicity (Japanese versus non-Japanese). Baseline albumin and lean body weight were the most significant covariates influencing CL. CL decreased in patients with higher baseline albumin concentrations and increased in patients with greater lean body weight. However sensitivity analyses performed at the recommended dose and schedule of Perjeta showed that at the extreme values of these two covariates, there was no significant impact on the ability to achieve target steady-state concentrations identified in preclinical tumour xenograft models. Therefore, there is no need to adjust the dosage of pertuzumab based on these covariates.
 
 <div style=\"page-break-after: always\"></div>
-
-significant impact on the ability to achieve target steady-state concentrations identified in preclinical tumour xenograft models. Therefore, there is no need to adjust the dosage of pertuzumab based on these covariates.
 
 The PK results of pertuzumab in the NEOSPHERE and APHINITY studies were consistent with the predictions from the previous population PK model. No differences in pertuzumab PK were observed in patients with early breast cancer compared to patients with metastatic breast cancer.
 
@@ -719,7 +724,7 @@ The PK results of pertuzumab in the NEOSPHERE and APHINITY studies were consiste
 
 No specific fertility studies in animals have been performed to evaluate the effect of pertuzumab. No definitive conclusion on adverse effects can be drawn on the male reproductive organs in cynomolgus monkey repeated dose toxicity study.
 
-Reproductive toxicology studies have been conducted in pregnant cynomolgus monkeys (Gestational Day (GD) 19 through to GD 50) at initial doses of 30 to 150 mg/kg followed by bi-weekly doses of 10 to 100 mg/kg. These dose levels resulted in clinically relevant exposures of 2.5 to 20-fold greater than the recommended human dose, based on Cmax. Intravenous administration of pertuzumab from GD19 through GD50 (period of organogenesis) was embryotoxic, with dose-dependent increases in embryo-foetal death between GD25 to GD70. The incidences of embryo-foetal loss were 33, 50, and 85% for pregnant female monkeys treated with bi-weekly pertuzumab doses of 10, 30, and 100 mg/kg, respectively (2.5 to 20-fold greater than the recommended human dose, based on Cmax). At Caesarean section on GD100, oligohydramnios, decreased relative lung and kidney weights and microscopic evidence of renal hypoplasia consistent with delayed renal development were identified in all pertuzumab dose groups. In addition, consistent with foetal growth restrictions, secondary to oligohydramnios, lung hypoplasia (1 of 6 in 30 mg/kg and 1 of 2 in100 mg/kg groups), ventricular septal defects (1 of 6 in 30 mg/kg group), thin ventricular wall (1 of 2 in 100 mg/kg group) and minor skeletal defects (external - 3 of 6 in 30 mg/kg group) were also noted.  Pertuzumab exposure was reported in offspring from all treated groups, at levels of 29% to 40% of maternal serum levels at GD100.
+Reproductive toxicology studies have been conducted in pregnant cynomolgus monkeys (Gestational Day (GD) 19 through to GD 50) at initial doses of 30 to 150 mg/kg followed by bi-weekly doses of 10 to 100 mg/kg. These dose levels resulted in clinically relevant exposures of 2.5 to 20-fold greater than the recommended human dose, based on Cmax. Intravenous administration of pertuzumab from GD19 through GD50 (period of organogenesis) was embryotoxic, with dose-dependent increases in embryo-foetal death between GD25 to GD70. The incidences of embryo-foetal loss were 33, 50, and 85% for pregnant female monkeys treated with bi-weekly pertuzumab doses of 10, 30, and 100 mg/kg, respectively (2.5 to 20-fold greater than the recommended human dose, based on Cmax). At Caesarean section on GD100, oligohydramnios, decreased relative lung and kidney weights and microscopic evidence of renal hypoplasia consistent with delayed renal development were identified in all pertuzumab dose groups. In addition, consistent with foetal growth restrictions, secondary to oligohydramnios, lung hypoplasia (1 of 6 in 30 mg/kg and 1 of 2 in 100 mg/kg groups), ventricular septal defects (1 of 6 in 30 mg/kg group), thin ventricular wall (1 of 2 in 100 mg/kg group) and minor skeletal defects (external - 3 of 6 in 30 mg/kg group) were also noted.  Pertuzumab exposure was reported in offspring from all treated groups, at levels of 29% to 40% of maternal serum levels at GD100.
 
 In cynomolgus monkeys, weekly intravenous administration of pertuzumab at doses up to 150 mg/kg/dose was generally well tolerated. With doses of 15 mg/kg and higher, intermittent mild treatment-associated diarrhoea was noted. In a subset of monkeys, chronic dosing (7 to 26 weekly doses) resulted in episodes of severe secretory diarrhoea. The diarrhoea was managed (with the exception of euthanasia of one animal, 50 mg/kg/dose) with supportive care including intravenous fluid replacement therapy.
 
@@ -727,7 +732,7 @@ In cynomolgus monkeys, weekly intravenous administration of pertuzumab at doses 
 
 ## 6.1 List of excipients
 
-Glacial acetic acid L-Histidine Sucrose Polysorbate 20 Water for injections
+Histidine Glacial acetic acid Sucrose Polysorbate 20 (E432) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -767,11 +772,13 @@ Pack of 1 vial.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Perjeta does not contain any antimicrobial preservative. Therefore, care must be taken to ensure the sterility of the prepared solution for infusion and should be prepared by a healthcare professional.
+Perjeta does not contain any antimicrobial preservative. Therefore, care must be taken to ensure the sterility of the prepared solution for infusion and should be prepared by a healthcare professional in controlled and validated aseptic conditions (see section 6.3).
 
 Perjeta is for single use only.
 
-The vial must not be shaken. 14 ml of Perjeta concentrate should be withdrawn from the vial using a sterile needle and syringe and diluted into a 250 ml PVC or non-PVC polyolefin infusion bag of sodium chloride 9 mg/ml (0.9%), or alternatively 4.5 mg/ml (0.45%), solution for infusion. After dilution, one ml of solution should contain approximately 3.02 mg of pertuzumab (840 mg/278 ml) for the initial dose where two vials are required and approximately 1.59 mg of pertuzumab (420 mg/264 ml) for the maintenance dose where one vial is required. The bag should be gently inverted to mix the solution in order to avoid foaming.
+The vial must not be shaken. 14 ml of Perjeta concentrate should be withdrawn from the vial using a sterile needle and syringe and diluted into a 250 ml PVC or non-PVC polyolefin infusion bag of sodium chloride 9 mg/ml (0.9%) , or alternatively 4.5 mg/ml (0.45%), solution for infusion. After dilution, one ml of solution should contain approximately 3.02 mg of pertuzumab (840 mg/278 ml) for the initial dose where two vials are required and approximately 1.59 mg of pertuzumab (420 mg/264 ml) for the maintenance dose where one vial is required.
+
+The bag should be gently inverted to mix the solution in order to avoid foaming.
 
 Parenteral medicinal products should be inspected visually for particulates and discolouration prior to administration. If particulates or discoloration are observed, the solution should not be used. Once the infusion is prepared it should be administered immediately (see section 6.3).
 
@@ -793,15 +800,15 @@ EU/1/13/813/001
 
 Date of first authorisation: 4
 
-th  March 2013
+th March 2013
 
 Date of latest renewal: 8
 
-th  December 2017
+th December 2017
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -816,11 +823,15 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer of the biological active substance(s) Lonza Manufacturing LLC 1000 New Horizons Way Vacaville, CA 95688 USA
+Name and address of the manufacturer of the biological active substance
+
+Lonza Manufacturing LLC 1000 New Horizons Way Vacaville, CA 95688 USA
 
 Genentech, Inc. 1 Antibody Way Oceanside, CA 92056 USA
 
-Name and address of the manufacturer responsible for batch release Roche Pharma AG Emil-Barell-Strasse 1 D-79639 Grenzach-Whylen Germany
+Name and address of the manufacturer responsible for batch release
+
+Roche Pharma AG Emil-Barell-Strasse 1 79639 Grenzach-Whylen Germany
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -840,16 +851,6 @@ The marketing authorisation holder (MAH) shall perform the required  pharmacovig
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-
-<div style=\"page-break-after: always\"></div>
-
-## · Obligation to conduct post-authorisation measures
-
-The MAH shall complete, within the stated timeframe, the following measures:
-
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                            | Due date      |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| Post-authorisation efficacy study (PAES): In order to provide long-term efficacy data in terms of DFS and OS, theMAH should submit the results of study BO25126 (APHINITY), a randomized multicenter, double-blind, placebo-controlled comparison of chemotherapy plus trastuzumab plus placebo versus chemotherapy plus trastuzumab plus pertuzumab as adjuvant therapy in patients with operable HER2-positive primary breast cancer | November 2025 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -877,9 +878,9 @@ One 14 ml vial contains 420 mg of pertuzumab at a concentration of 30 mg/ml.
 
 ## 3. LIST OF EXCIPIENTS
 
-Glacial acetic acid, L-histidine, sucrose and polysorbate 20.
+Also contains: histidine, glacial acetic acid, sucrose, polysorbate 20 and water for injections.
 
-Water for injections
+See leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -941,7 +942,7 @@ Medicinal product subject to medical prescription
 
 Justification for not including Braille accepted
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -963,11 +964,13 @@ Perjeta 420 mg concentrate for solution for infusion pertuzumab IV
 
 For intravenous use after dilution
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -982,13 +985,11 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-## Package Leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
 
-## Perjeta 420 mg concentrate for solution for infusion
+## Package Leaflet: Information for the user
 
-## pertuzumab
+## Perjeta 420 mg concentrate for solution for infusion pertuzumab
 
 ## Read all of this leaflet carefully before you start being given this medicine because it contains important information for you.
 
@@ -1014,7 +1015,7 @@ Perjeta contains the active substance pertuzumab and is used to treat adult pati
 - The cancer has not spread to other parts of the body and treatment is going to be given before surgery takes place (treatment before surgery is called neoadjuvant therapy)
 - The cancer has not spread to other parts of the body and treatment is going to be given after surgery (treatment after surgery is called adjuvant therapy)
 
-As well as Perjeta you will also receive trastuzumab and medicines called chemotherapy Information about these medicines is described in separate package leaflets. Ask your doctor or nurse to give you information about these other medicines.
+As well as Perjeta you will also receive trastuzumab and medicines called chemotherapy. Information about these medicines is described in separate package leaflets. Ask your doctor or nurse to give you information about these other medicines.
 
 ## How Perjeta works
 
@@ -1042,13 +1043,13 @@ Treatment with Perjeta may affect the heart.  Talk to your doctor or nurse befor
 
 If any of the above applies to you (or you are not sure), talk to your doctor or nurse before you are given Perjeta. See section 4 'Serious side effects' for more details about signs of heart problems to look out for.
 
-## Infusion reactions
+## Infusion-related reactions (IRRs)
 
-Infusion reactions, allergic or anaphylactic (more severe allergic) reactions can happen. Your doctor or nurse will check for side effects during your infusion and for 30 to 60 minutes afterwards. If you get any serious reaction, your doctor may stop treatment with Perjeta. Very rarely, patients have died due to anaphylactic reactions during Perjeta infusion. See section 4 'Serious side effects' for more details about infusion reactions to look out for during the infusion and thereafter.
+Infusion-related reactions, allergic or anaphylactic (more severe allergic) reactions can happen. Your doctor or nurse will check for side effects during your infusion and for 30 to 60 minutes afterwards. If you get any serious reaction, your doctor may stop treatment with Perjeta. Very rarely, patients have died due to anaphylactic reactions during Perjeta infusion. See section 4 'Serious side effects' for more details about infusion-related reactions to look out for during the infusion and thereafter.
 
 ## Febrile neutropenia (Low white blood cells with fever)
 
-When Perjeta is given with other cancer treatments (trastuzumab and chemotherapy), the number of white blood cells may drop and fever (raised temperature) may develop. If you have inflammation of the digestive tract (e.g.sore mouth or diarrhoea) you may be more likely to develop this side effect.
+When Perjeta is given with other cancer treatments (trastuzumab and chemotherapy), the number of white blood cells may drop and fever (raised temperature) may develop. If you have inflammation of the digestive tract (e.g. sore mouth or diarrhoea) you may be more likely to develop this side effect.
 
 ## Diarrhoea
 
@@ -1060,11 +1061,9 @@ Perjeta should not be given to patients under the age of 18 years because there 
 
 ## Use in the elderly
 
-Patients over 65 years of age who are treated with Perjeta are more likely to experience side effects such as reduced appetite, decrease in the number of red blood cells, weight loss, feeling tired, loss or
+Patients over 65 years of age who are treated with Perjeta are more likely to experience side effects such as reduced appetite, decrease in the number of red blood cells, weight loss, diarrhoea, feeling tired, loss or altered taste, weak, numb and tingling or prickling sensations mainly affecting the feet and legs compared to patients younger than 65 years of age.
 
 <div style=\"page-break-after: always\"></div>
-
-altered taste, weak, numb, tingling or prickling sensations mainly affecting the feet and legs and diarrhoea, compared to patients younger than 65 years of age.
 
 ## Other medicines and Perjeta
 
@@ -1081,15 +1080,15 @@ Perjeta may harm the unborn baby. You should use effective contraception during 
 
 ## Driving and using machines
 
-Perjeta may have a minor effect on you being able to drive or use machines. However, if you get any dizziness, infusion reactions, allergic or anaphylactic reactions, wait until these have gone away before driving or using machines.
+Perjeta may have a minor effect on you being able to drive or use machines. However, if you get any dizziness, infusion-related reactions, allergic or anaphylactic reactions, wait until these have gone away before driving or using machines.
 
 ## Perjeta contains Sodium
 
-Perjeta contains less than 1 mmol of sodium per dose, i.e. it is essentially sodium-free.
+Perjeta contains less than 1 mmol of sodium (23 mg) per dose, i.e. it is essentially sodium-free.
 
 ## Perjeta contains Polysorbate
 
-Perjeta contains polysorbate 20. Each 14 ml vial contains 2.8 mg of polysorbate 20. Polysorbate 20 may cause allergic reactions. Tell your doctor if you have any known allergies.
+Perjeta contains polysorbate 20. Each 14 ml vial contains 2.8 mg of polysorbate 20. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How you are given Perjeta
 
@@ -1100,12 +1099,12 @@ Perjeta will be given to you by a doctor or nurse in a hospital or clinic.
 - It is given by a drip into a vein (intravenous infusion) once every three weeks.
 - The amount of medicine you are given and how long the infusion will last are different for the first dose and following doses.
 - The number of infusions you will be given depends on how you respond to treatment and whether you are receiving treatment before or after surgery (neoadjuvant or adjuvant therapy) or for disease which has spread.
-- Perjeta is given with other cancer treatments (trastuzumab andchemotherapy).
+- Perjeta is given with other cancer treatments (trastuzumab and chemotherapy).
 
 ## For the first infusion :
 
 - You will be given 840 mg of Perjeta over 60 minutes. Your doctor or nurse will check for side effects during your infusion and for 60 minutes afterwards.
-- You will also be given trastuzumab and chemotherapyl.
+- You will also be given trastuzumab and chemotherapy.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1136,23 +1135,23 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 - Very severe or persistent diarrhoea (7 or more stools per day).
 - A decrease in the number or low amount of white blood cells (shown in a blood test), with or without fever, which may increase the risk of an infection.
-- Infusion reactions with symptoms that can either be mild or more severe and may include feeling sick (nausea), fever, chills, feeling tired, headache, loss of appetite, joint and muscle pains, and hot flushes.
+- Infusion-related reactions with symptoms that can either be mild or more severe and may include feeling sick (nausea), fever, chills, feeling tired, headache, loss of appetite, joint and muscle pains, and hot flushes.
 - Allergic and anaphylactic (more severe allergic) reactions with symptoms that may include swelling of your face and throat, with difficulty in breathing. Very rarely, patients have died due to anaphylactic reactions during Perjeta infusion.
 - Heart problems (heart failure) with symptoms that can include cough, shortness of breath, and swelling (fluid retention) in your legs or arms.
-- Tumour lysis syndrome (a condition which may happen when cancer cells die quickly, causing changes in blood levels of minerals and metabolites shown in a blood test). Symptoms may include kidney problems (weakness, shortness of breath, fatigue and confusion), heart problems (fluttering of the heart at a faster or slower heartbeat), seizures, vomiting or diarrhoea and tingling in the mouth, hands or feet
+- Tumour lysis syndrome (a condition which may happen when cancer cells die quickly, causing changes in blood levels of minerals and metabolites shown in a blood test). Symptoms may include kidney problems (weakness, shortness of breath, fatigue and confusion), heart problems (fluttering of the heart of a faster or slower heartbeat), seizures, vomiting or diarrhoea and tingling in the mouth, hands or feet.
 
 Tell a doctor or nurse straight away, if you notice any of the side effects above.
 
-## Other side effects include:
+## Other side effects include
 
 ## Very common (may affect more than 1 in 10 people):
 
 - Diarrhoea
 - Hair loss
-- Feeling sick or being sick
 
 <div style=\"page-break-after: always\"></div>
 
+- Feeling sick or being sick
 - Feeling tired
 - Rash
 - Inflammation of your digestive tract (e.g. sore mouth)
@@ -1217,7 +1216,7 @@ Perjeta will be stored by the health professionals at the hospital or clinic. Th
 ## What Perjeta contains
 
 - The active substance is pertuzumab. Each vial contains a total of 420 mg pertuzumab at a concentration of 30 mg/ml
-- The other ingredients are glacial acetic acid, L-histidine, sucrose, polysorbate 20 and water for injections (see section 2 'Perjeta contains polysorbate')
+- The other ingredients are histidine, glacial acetic acid, sucrose, polysorbate 20 (E432) and water for injections (see section 2 'Perjeta contains polysorbate')
 
 ## What Perjeta looks like and contents of the pack
 
@@ -1229,19 +1228,19 @@ Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 ## Manufacturer
 
-Roche Pharma AG Emil-Barell-Strasse 1 D-79639 Grenzach-Wyhlen Germany
+Roche Pharma AG Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-België/Belgique/Belgien, Luxembourg/Luxemburg N.V. Roche S.A. België/Belgique/Belgien
+België/Belgique/Belgien, Luxembourg/Luxemburg
 
-Tél/Tel: +32 (0) 2 525 82 11
+N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
 ## България
 
-Рош България ЕООД Тел : +359 2 474 5444
+Рош България ЕООД Тел: + 359 2 474 5444
 
 ## Česká republika
 
@@ -1253,15 +1252,15 @@ Roche Pharmaceuticals A/S Tlf: +45 - 36 39 99 99
 
 ## Deutschland
 
-Roche Pharma AG
-
-Tel: +49 (0) 7624 140
+Roche Pharma AG Tel: +49 (0) 7624 140
 
 ## Eesti
 
-Roche Eesti OÜ Tel: + 372 - 6 177 380
+Roche Eesti OÜ
 
-## Ελλάδα , K ύπρος
+Tel: + 372 - 6 177 380
+
+## Ελλάδα, Kύπρος
 
 Roche (Hellas) A.E. Ελλάδα Τηλ: +30 210 61 66 100
 
@@ -1303,7 +1302,7 @@ Roche (Magyarország) Kft. Tel: +36 - 1 279 4500
 
 Roche Nederland B.V.
 
-Tel: +31 (0) 348 438050
+Tel: +31 (0) 348 438000
 
 ## Norge
 
@@ -1331,7 +1330,9 @@ Roche farmacevtska družba d.o.o. Tel: +386 - 1 360 26 00
 
 ## Slovenská republika
 
-Roche Slovensko, s.r.o. Tel: +421 - 2 52638201
+Roche Slovensko, s.r.o.
+
+Tel: +421 - 2 52638201
 
 ## Suomi/Finland
 
@@ -1349,6 +1350,6 @@ Tel: +39 - 039 2471
 
 ## This leaflet was last revised in.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 Sverige Roche AB Tel: +46 (0) 8 726 1200

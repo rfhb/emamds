@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-11 09:56:31
+document_datetime: 2026-04-30 14:55:37
 document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mresvia-epar-product-information_en.pdf
 document_name: mresvia-epar-product-information_en.pdf
 version: success
-processing_time: 5.8784482
-conversion_datetime: 2025-12-24 23:29:19.627362
+processing_time: 6.2627188
+conversion_datetime: 2026-05-05 19:33:05.445907
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -50,10 +50,7 @@ White to off-white dispersion (pH: 7.0 - 8.0).
 
 ## 4.1 Therapeutic indications
 
-mRESVIA is indicated for active immunisation for the prevention of lower respiratory tract disease (LRTD) caused by Respiratory Syncytial Virus (RSV) in:
-
-- adults 60 years of age and older;
-- adults 18 through 59 years of age who are at increased risk for LRTD caused by RSV.
+mRESVIA is indicated for active immunisation for the prevention of lower respiratory tract disease (LRTD) caused by Respiratory Syncytial Virus (RSV) in adults 18 years of age and older.
 
 The use of this vaccine should be in accordance with official recommendations.
 
@@ -71,9 +68,9 @@ The safety and efficacy of mRESVIA in children (from birth to less than 18 years
 
 For intramuscular injection only.
 
-<div style=\"page-break-after: always\"></div>
-
 mRESVIA should be administered preferably in the deltoid muscle of the upper arm. The injection should be given using standard aseptic technique.
+
+<div style=\"page-break-after: always\"></div>
 
 The vaccine must not be injected intravenously, subcutaneously or intradermally.
 
@@ -115,11 +112,11 @@ Safety and immunogenicity data on mRESVIA are not available for immunocompromise
 
 As with all vaccines, vaccination with mRESVIA may not protect all vaccine recipients.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Excipient - sodium
 
 This vaccine contains less than 1 mmol sodium (23 mg) per 0.5 mL dose, that is to say essentially 'sodium-free'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -162,11 +159,11 @@ The safety profile and the frequencies of adverse reactions presented below are 
 
 In Study 1, which enrolled individuals 60 years of age and older, the most commonly reported adverse reactions were injection site pain (55.9%), fatigue (30.8%), headache (26.7%), myalgia (25.6%) and arthralgia (21.7%). The onset of most solicited local and systemic adverse reactions was within 1 to 2 days after injection and resolved within 1 to 2 days after onset. The majority of local and systemic solicited adverse reactions were mild in intensity.
 
-Individuals 18 through 59 years of age at increased risk for LRTD caused by RSV
+## Individuals 18 through 59 years of age
+
+In Study 2, which enrolled individuals 18 through 59 years of age at increased risk for LRTD caused by RSV, the most commonly reported adverse reactions were injection site pain (73.9%), fatigue (36.9%), headache (33.3%), myalgia (28.9%) and arthralgia (22.7%). Most solicited local and systemic adverse reactions had onset within 1 to 2 days after injection, and a median duration of 2 days.
 
 <div style=\"page-break-after: always\"></div>
-
-In Study 2, which enrolled individuals 18 through 59 years of age, the most commonly reported adverse reactions were injection site pain (73.9%), fatigue (36.9%), headache (33.3%), myalgia (28.9%) and arthralgia (22.7%). Most solicited local and systemic adverse reactions had onset within 1 to 2 days after injection, and a median duration of 2 days.
 
 ## Tabulated list of adverse reactions
 
@@ -194,9 +191,7 @@ Table 1: Adverse reactions following administration of mRESVIA
 
 <div style=\"page-break-after: always\"></div>
 
-* Lymphadenopathy was collected as 'Axillary (underarm) swelling or tenderness ipsilateral to the side of injection'.
-
-† In Study 1, one participant in the vaccine group had a serious adverse event of facial paralysis with onset on Day 5 assessed by the investigator as related to injection. Within the 42-day risk window following injection, Bell's palsy and/or facial paralysis was reported by 2 participants in the mRESVIA group and 2 participants in the placebo group. All 4 of these participants had risk factors for Bell's palsy. In Study 2, one participant who had multiple confounding underlying medical conditions and received a lower dose of the investigational vaccine had an SAE of Bell's palsy on Day 43 that was assessed by the investigator as related to injection.
+2 participants in the mRESVIA group and 2 participants in the placebo group. All 4 of these participants had risk factors for Bell's palsy. In Study 2, one participant who had multiple confounding underlying medical conditions and received a lower dose of the investigational vaccine had an SAE of Bell's palsy on Day 43.
 
 ‡ Reported as common in individuals 60 years of age and older (Study 1).
 
@@ -230,11 +225,9 @@ mRESVIA stimulates production of RSV-A and RSV-B neutralising antibodies and ind
 
 Study 1 (EUDRA CT number 2021-005026-20) is an ongoing phase 2/3 randomised, observer-blind, placebo-controlled, pivotal study conducted in 22 countries in Central and Latin America, Africa, Asia Pacific, North America and Europe. The study evaluated the safety and efficacy of a single dose of mRESVIA for the prevention of RSVLRTD in adults ≥ 60 years, with or without underlying medical conditions.
 
-The primary efficacy analysis population (per-protocol efficacy set) included 35 088 participants who received either mRESVIA (n=17 572) or placebo (n=17 516). Among all participants, 50.9% were male, 63.5% were White, 12.2% were Black or African American, 8.7% were Asian, and 34.6% were Hispanic or Latino. The median age was 67 years (range: 60-96), with 63.5% aged 60-69, 30.9% aged
+The primary efficacy analysis population (per-protocol efficacy set) included 35 088 participants who received either mRESVIA (n=17 572) or placebo (n=17 516). Among all participants, 50.9% were male, 63.5% were White, 12.2% were Black or African American, 8.7% were Asian, and 34.6% were Hispanic or Latino. The median age was 67 years (range: 60-96), with 63.5% aged 60-69, 30.9% aged 70-79, and 5.5% aged ≥ 80 years. A total of 6.9% had protocol-defined LRTD risk factors [congestive heart failure (CHF) and/or chronic obstructive pulmonary disease (COPD)] and 29.3% had ≥ 1 comorbidity of interest. A total of 21.8% scored 'vulnerable' or 'frail' according to Edmonton Frail Scale.
 
 <div style=\"page-break-after: always\"></div>
-
-70-79, and 5.5% aged ≥ 80 years. A total of 6.9% had protocol-defined LRTD risk factors [congestive heart failure (CHF) and/or chronic obstructive pulmonary disease (COPD)] and 29.3% had ≥ 1 comorbidity of interest. A total of 21.8% scored 'vulnerable' or 'frail' according to Edmonton Frail Scale.
 
 The primary efficacy endpoints were the prevention of a first episode of RSV-LRTD with ≥ 2 or ≥ 3 symptoms, occurring between 14 days and 12 months post injection. RSV-LRTD was defined as reverse transcription polymerase chain reaction (RT-PCR) confirmed RSV infection and radiologic evidence of pneumonia or experienced new or worsening of ≥ 2 of predefined symptoms lasting ≥ 24 hours including shortness of breath, cough and/or fever, wheezing, sputum production, tachypnoea, hypoxemia and pleuritic chest pain.
 
@@ -260,17 +253,19 @@ Table 2: Additional analysis of vaccine efficacy (VE) of mRESVIA to prevent firs
 | Fit (0-3)                | 37/13 417              | 104/13 274             | 65.0 (49.0, 75.9)  |
 | Vulnerable/Frailty (≥ 4) | 9/3 817                | 17/3 884               | 46.5 (-20.0, 76.2) |
 
-<div style=\"page-break-after: always\"></div>
-
 * Based on the number of participants in each subgroup.
 
 † NA = not applicable due to low number of total cases accrued in this subgroup.
 
 ‡  Comorbidities included in this analysis were chronic cardiopulmonary conditions, including CHF, COPD, asthma and chronic respiratory conditions as well as diabetes, advanced liver, and advanced kidney disease.
 
+<div style=\"page-break-after: always\"></div>
+
 As shortness of breath is associated with more severe RSV disease, an exploratory analysis was conducted. A total of 54 cases of RSV-LRTD with shortness of breath occurred: 43 in placebo recipients and 11 in mRESVIA recipients.
 
-Study 2 - in individuals 18 through 59 years of age at increased risk for LRTD caused by RSV Study 2 is a phase 3 randomised, double-blind trial to evaluate the immunogenicity and safety of mRESVIA in individuals 18 through 59 years of age at increased risk for LRTD caused by RSV. The clinical study was conducted in the US, Canada and United Kingdom.
+## Study 2 - in individuals 18 through 59 years
+
+Study 2 is a phase 3 randomised, double-blind trial to evaluate the immunogenicity and safety of mRESVIA in individuals 18 through 59 years of age at increased risk for LRTD caused by RSV. The clinical study was conducted in the US, Canada and United Kingdom.
 
 Eligible participants enrolled in the study had at least one of the conditions that increased their risk for developing RSV-LRTD. Of the 494 participants in the Per-Protocol (PP) Set, diabetes mellitus (DM) was reported in 59.7%, persistent asthma in 38.1%, coronary artery disease (CAD) in 20.9%, chronic obstructive pulmonary disease (COPD) in 10.1%, congestive heart failure (CHF) in 8.9%, and chronic respiratory disease other than COPD or asthma in approximately 2.4%. Additionally, 63.6% of participants had a BMI of 30 kg/m² or higher, indicating a significant prevalence of obesity within the study population. The median age was 53 years (range: 19-59). Most participants were White (80.2%), 53.6% were female and 27.5% of participants were Hispanic or Latino.
 
@@ -289,6 +284,8 @@ CI=confidence interval; GMT=geometric mean titre; GMR=geometric mean ratio; LRTD
 N1 = Number of participants with non-missing antibody data at baseline (Day 1) and Day 29.
 
 a  The model-based GMT is estimated on Analysis of covariance (ANCOVA) model.
+
+RSV immune responses following vaccination with mRESVIA were consistent across demographic and clinical subgroups, including those with chronic medical conditions or increased BMI. Similar immune responses and vaccine effectiveness are expected in healthy adults aged 18 through 59 years of age.
 
 ## Paediatric population
 
@@ -681,9 +678,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## 1. What mRESVIA is and what it is used for
 
-mRESVIA is a vaccine that helps to protect adults aged 60 years and older against a virus called 'respiratory syncytial virus' (RSV).
-
-mRESVIA also helps to protect against RSV in adults 18 through 59 years of age at increased risk for RSV disease.
+mRESVIA is a vaccine that helps to protect adults aged 18 years and older against a virus called 'respiratory syncytial virus' (RSV).
 
 RSV is a common virus that spreads very easily and causes respiratory tract disease in people of all ages. RSV infection can be mild, with cold-like symptoms including blocked nose, cough and/or sore throat. However, the virus can also cause more serious problems, such as lung infections and pneumonia. Older adults are at risk of more serious complications that can lead to hospital admission or even death.
 
@@ -699,10 +694,11 @@ mRESVIA activates the immune system (the body's natural defences) to protect aga
 
 Talk to your doctor, pharmacist or nurse before you are given mRESVIA if:
 
-<div style=\"page-break-after: always\"></div>
-
 - -you have ever had a severe allergic reaction after any other vaccine injection in the past.
 - -you have a bleeding problem or bruise easily.
+
+<div style=\"page-break-after: always\"></div>
+
 - -you have a weakened immune system which may prevent you from getting the full benefit from mRESVIA.
 - -you are feeling nervous about getting the vaccine or have ever fainted after any injection.
 - -you have an infection with a high fever. If this is the case, then vaccination will be postponed. There is no need to delay vaccination for a minor infection, such as a cold, but talk to your doctor first.
@@ -751,21 +747,21 @@ Very common (may affect more than 1 in 10 people)
 - -headache
 - -feeling sick (nausea)/vomiting
 - -muscle ache (myalgia)
-
-<div style=\"page-break-after: always\"></div>
-
 - -joint ache (arthralgia)
 - -pain at the injection site
 - -feeling tired (fatigue)
+
+<div style=\"page-break-after: always\"></div>
+
 - -chills
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
 - -redness (erythema) at the injection site
 - -swelling/hardening (induration) at the injection site
 - -fever (pyrexia)
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - -reaction of increased sensitivity or intolerance by the immune system (hypersensitivity)
 - -dizziness
@@ -804,9 +800,9 @@ Once thawed, the vaccine should not be refrozen.
 
 Upon moving the vaccine to 2 °C to 8 °C storage, the outer carton should be marked with the new expiry date at 2 °C to 8 °C.
 
-<div style=\"page-break-after: always\"></div>
-
 If the vaccine is received at 2 °C to 8 °C, it should be stored at 2 °C to 8 °C. The expiry date on the outer carton should have been marked with the new expiry date at 2 °C to 8 °C.
+
+<div style=\"page-break-after: always\"></div>
 
 The pre-filled syringes may be stored at 8 °C to 25 °C for up to 24 hours after removal from the refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Do not refrigerate after being stored at 8 °C to 25 °C. Discard the syringe if not used within this time.
 
@@ -820,7 +816,9 @@ One pre-filled syringe of 0.5 mL contains 50 micrograms of Respiratory Syncytial
 
 The active substance is a single-stranded 5' capped mRNA encoding the Respiratory Syncytial Virus glycoprotein F stabilised in the prefusion conformation.
 
-The other excipients are SM-102 (heptadecan-9-yl 8-((2-hydroxyethyl) (6-oxo-6-(undecyloxy) hexyl) amino)octanoate), cholesterol, 1,2-distearoyl-sn-glycero-3-phosphocholine (DSPC), 1,2-dimyristoyl-rac-glycero-3-methoxypolyethylene glycol-2000 (PEG2000-DMG), trometamol, trometamol hydrochloride, acetic acid, sodium acetate trihydrate, sucrose and water for injections.
+The other excipients are SM-102 (heptadecan-9-yl 8-((2-hydroxyethyl) (6-oxo-6-(undecyloxy) hexyl)
+
+amino)octanoate), cholesterol, 1,2-distearoyl-sn-glycero-3-phosphocholine (DSPC), 1,2-dimyristoyl-rac-glycero-3-methoxypolyethylene glycol-2000 (PEG2000-DMG), trometamol, trometamol hydrochloride, acetic acid, sodium acetate trihydrate, sucrose and water for injections.
 
 See Section 2 'mRESVIA contains sodium'.
 
@@ -850,19 +848,17 @@ Tel: 88 003 1114
 
 България
 
-Teл
-
-: 0800 115 4477
+Teл: 0800 115 4477
 
 Luxembourg/Luxemburg
 
 Tél/Tel: 800 85 499
 
-## Česká republika
+Česká republika
 
 Tel: 800 050 719
 
-## Magyarország
+Magyarország
 
 Tel: 06 809 87488
 
@@ -892,9 +888,7 @@ Tlf: 800 31 401
 
 ## Ελλάδα
 
-Τηλ:
-
-+30 800 000 0030
+Τηλ: +30 800 000 0030
 
 ## Österreich
 
@@ -950,15 +944,13 @@ Puh/Tel: 0800 774198
 
 ## Κύπρος
 
-Τηλ:
+Τηλ: 80091080
 
-80091080
-
-Sverige
+## Sverige
 
 Tel: 020 10 92 13
 
-## Latvija
+Latvija
 
 Tel: 80 005 898
 
@@ -978,9 +970,9 @@ Detailed information on this vaccine is available on the European Medicines Agen
 
 ## The following information is intended for healthcare professionals only:
 
-<div style=\"page-break-after: always\"></div>
-
 This vaccine should be administered by a trained healthcare professional using aseptic techniques to ensure sterility.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Handling instructions for mRESVIA before use
 
@@ -1015,10 +1007,12 @@ Table 1: Thawing conditions and times based on pack size and temperature before 
 ## Administration
 
 - -Remove a pre-filled syringe from the blister or tray.
+- -The vaccine should be inspected visually for particulate matter and discolouration prior to administration. mRESVIA is a white to off-white dispersion. It may contain white or translucent
 
 <div style=\"page-break-after: always\"></div>
 
-- -The vaccine should be inspected visually for particulate matter and discolouration prior to administration. mRESVIA is a white to off-white dispersion. It may contain white or translucent product-related particulates. Do not administer if vaccine is discoloured or contains other particulate matter.
+product-related particulates. Do not administer if vaccine is discoloured or contains other particulate matter.
+
 - -With tip cap upright, remove tip cap by twisting counter-clockwise until tip cap releases. Remove tip cap in a slow, steady motion. Avoid pulling tip cap while twisting.
 - -The vaccine should be administered immediately after uncapping.
 - -Needles are not provided in the pack.

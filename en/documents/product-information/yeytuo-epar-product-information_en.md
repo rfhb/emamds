@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-26 12:02:21
-document_pages: 64
+document_datetime: 2026-05-04 09:34:27
+document_pages: 71
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/yeytuo-epar-product-information_en.pdf
 document_name: yeytuo-epar-product-information_en.pdf
 version: success
-processing_time: 20.3720621
-conversion_datetime: 2026-03-05 12:18:31.078667
+processing_time: 23.2604745
+conversion_datetime: 2026-05-05 19:31:41.033997
 docling_version:
-  docling-serve: 1.14.1
-  docling-jobkit: 1.13.0
-  docling: 2.76.0
-  docling-core: 2.66.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.4.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -354,11 +354,9 @@ The safety of lenacapavir was evaluated in 59 adolescents aged 16 to &lt;18 year
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -392,11 +390,9 @@ HIV-1 variants with reduced susceptibility to lenacapavir have been selected in 
 
 There were 2 incident infections (infections that occurred after starting lenacapavir for HIV-1 PrEP) among participants in the lenacapavir group of the PURPOSE 1 trial. Both infections occurred after the time of the primary analysis. Genotyping of virus in one of the participants revealed no lenacapavir resistance-associated capsid substitutions. The second participant had viral loads that were too low for genotyping.
 
-There were 3 incident infections among participants in the lenacapavir group of the PURPOSE 2 trial. One of the infections occurred after the time of the primary analysis. Lenacapavir resistance-
+There were 3 incident infections among participants in the lenacapavir group of the PURPOSE 2 trial. One of the infections occurred after the time of the primary analysis. Lenacapavir resistance- associated substitutions were detected in viruses from the 3 participants, 2 with N74D, and 1 with Q67H/K70R.
 
 <div style=\"page-break-after: always\"></div>
-
-associated substitutions were detected in viruses from the 3 participants, 2 with N74D, and 1 with Q67H/K70R.
 
 ## Cross resistance
 
@@ -504,11 +500,9 @@ Population pharmacokinetic analysis using data from trials in adults, including 
 
 ## Hepatic impairment
 
-The pharmacokinetics of a single 300 mg oral dose of lenacapavir were evaluated in a dedicated Phase 1 trial in participants with moderate hepatic impairment (Child-Pugh Class B). Lenacapavir mean
+The pharmacokinetics of a single 300 mg oral dose of lenacapavir were evaluated in a dedicated Phase 1 trial in participants with moderate hepatic impairment (Child-Pugh Class B). Lenacapavir mean exposures (total and unbound) were 1.47- to 2.84-fold and 2.61- to 5.03-fold higher for AUCinf and Cmax, respectively in individuals with moderate hepatic impairment (Child-Pugh B) compared to participants with normal hepatic function. However, this increase is not considered clinically relevant based on lenacapavir exposure-response. The pharmacokinetics of lenacapavir have not been studied in individuals with severe hepatic impairment (Child-Pugh C) (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-exposures (total and unbound) were 1.47- to 2.84-fold and 2.61- to 5.03-fold higher for AUCinf and Cmax, respectively in individuals with moderate hepatic impairment (Child-Pugh B) compared to participants with normal hepatic function. However, this increase is not considered clinically relevant based on lenacapavir exposure-response. The pharmacokinetics of lenacapavir have not been studied in individuals with severe hepatic impairment (Child-Pugh C) (see section 4.2).
 
 ## Renal impairment
 
@@ -534,11 +528,9 @@ In a 2-year rat carcinogenicity study, there were lenacapavir-treatment induced 
 
 In offspring from rat and rabbit dams treated with lenacapavir during pregnancy, there were no toxicologically significant effects on developmental endpoints.
 
-In rats, male and female fertility was not affected at lenacapavir exposures up to 9 (male) and 6 (female) times the human exposure at the RHD. In rats and rabbits, embryofoetal development was not affected at exposures up to 20 and 159 times the human exposure, respectively, at the RHD. In rats,
+In rats, male and female fertility was not affected at lenacapavir exposures up to 9 (male) and 6 (female) times the human exposure at the RHD. In rats and rabbits, embryofoetal development was not affected at exposures up to 20 and 159 times the human exposure, respectively, at the RHD. In rats, pre- and postnatal development was not affected at exposures up to 6 times the human exposure at the RHD.
 
 <div style=\"page-break-after: always\"></div>
-
-pre- and postnatal development was not affected at exposures up to 6 times the human exposure at the RHD.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -564,32 +556,37 @@ This medicinal product does not require any special temperature storage conditio
 
 ## 6.5 Nature and contents of container
 
-Yeytuo injection is packaged in a dosing kit containing:
+Yeytuo injections are available in two different kits.
+
+The withdrawal needle injection kit contains:
 
 - 2 clear glass vials, each containing 1.5 mL solution for injection. Vials are sealed with an elastomeric butyl rubber closure and aluminium overseal with flip off cap;
 - 2 withdrawal needles (18-gauge, 40 mm), 2 disposable syringes, and 2 injection safety needles for subcutaneous injection (22-gauge, 13 mm).
+
+The withdrawal safety needle injection kit contains:
+
+- 2 clear glass vials, each containing 1.5 mL solution for injection. Vials are sealed with an elastomeric butyl rubber closure and aluminium overseal with flip off cap;
+- 2 withdrawal safety needles (18-gauge, 40 mm), 2 disposable syringes, and 2 injection safety needles for subcutaneous injection (22-gauge, 13 mm).
+
+The Withdrawal Needle Injection Kit contains withdrawal needles that may be supplied with or without a safety shield. The presence or absence of a safety shield does not change how the Yeytuo injection is prepared.
 
 ## 6.6 Special precautions for disposal and other handling
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-Use aseptic technique. Visually inspect the solution in the vials for particulate matter and discoloration prior to administration. Yeytuo injection is a yellow to brown solution. Do not use Yeytuo injection if the solution is discoloured or if it contains particulate matter. Once the solution is withdrawn from the vials, the subcutaneous injections should be administered as soon as possible.
-
-The injection kit components are for single use only. 18-gauge needle is for withdrawal only. Two 1.5 mL injections are required for a complete dose.
-
-Full instructions for use and handling of Yeytuo injection are provided in the package leaflet (see Instructions for Use).
+Use aseptic technique. Visually inspect the solution in the vials for particulate matter and discoloration prior to administration. Yeytuo injection is a yellow to brown solution. Do not use Yeytuo injection if the solution is discoloured or if it contains particulate matter. Once the solution is withdrawn from the vials, the subcutaneous injections should be administered as soon as possible. The injection kit components are for single use only. 18-gauge needle is for withdrawal only. Two 1.5 mL injections are required for a complete dose.
 
 <div style=\"page-break-after: always\"></div>
 
+Full instructions for use and handling of Yeytuo injection are provided in the package leaflet (see Instructions for Use).
+
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Gilead Sciences Ireland UC
-
-Carrigtohill County Cork, T45 DP77 Ireland
+Gilead Sciences Ireland UC Carrigtohill County Cork, T45 DP77 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1976/002
+EU/1/25/1976/002 EU/1/25/1976/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -654,7 +651,6 @@ Table 1: Dosing schedule for lenacapavir initiation
 | Day 1  | 927 mg subcutaneous injection (2 x 1.5 mL injections b ) 600 mg orally (2 x 300 mg tablets) |
 | Day 2  | 600 mg orally (2 x 300 mg tablets)                                                          |
 
-- a The complete initiation dosing schedule, consisting of subcutaneous injections and oral tablets, is required; the efficacy of lenacapavir has only been established with this dosing schedule.
 - b Two injections, with the second injection at least 5 centimetres from the first injection (see Method of Administration in the Yeytuo solution for injection SmPC).
 
 ## Missed initiation dose
@@ -691,11 +687,9 @@ Safety and efficacy of lenacapavir in children and adolescents weighing less tha
 
 ## For oral use.
 
-Lenacapavir tablets should be taken orally with or without food (see section 5.2). The film-coated tablet should not be chewed, or crushed, because the effects on lenacapavir absorption have not been
+Lenacapavir tablets should be taken orally with or without food (see section 5.2). The film-coated tablet should not be chewed, or crushed, because the effects on lenacapavir absorption have not been studied. For individuals who are unable to swallow the tablet whole, the tablet may be split in half and both halves taken one after the other, ensuring that the full dose is taken immediately.
 
 <div style=\"page-break-after: always\"></div>
-
-studied. For individuals who are unable to swallow the tablet whole, the tablet may be split in half and both halves taken one after the other, ensuring that the full dose is taken immediately.
 
 ## 4.3 Contraindications
 
@@ -775,9 +769,9 @@ Table 2: Interactions between Yeytuo and other medicinal products
 | ANTIRETROVIRAL AGENTS                                                                                                   | ANTIRETROVIRAL AGENTS                                                                                                              | ANTIRETROVIRAL AGENTS                                                                                                                                                                                                                                                                                                                                                                         |
 | Atazanavir/cobicistat b,c,d (300 mg/150 mg once daily) (strong inhibitor of CYP3A, and an inhibitor UGT1A1 and P-gp.)   | Lenacapavir: AUC: ↑ 321% C max : ↑ 560%                                                                                            | Co-administration of lenacapavir and strong inhibitors of CYP3A, P-gp, and UGT1A1 is not recommended (see section 4.4).                                                                                                                                                                                                                                                                       |
 | Efavirenz b,c,d (600 mg once daily) (moderate inducer of CYP3A and an inducer of P-gp)                                  | Lenacapavir: AUC:↓ 56% C max :↓ 36%                                                                                                | Co-administration is not recommended (see section 4.4).                                                                                                                                                                                                                                                                                                                                       |
-| Cobicistat b,c,d (150 mg once daily) (strong inhibitor of CYP3A and an                                                  | Lenacapavir: AUC: ↑ 128% C max :↑ 110%                                                                                             | No dose adjustment of lenacapavir is required.                                                                                                                                                                                                                                                                                                                                                |
+| Cobicistat b,c,d (150 mg once daily) (strong inhibitor of CYP3A and an inhibitor of P-gp)                               | Lenacapavir: AUC: ↑ 128% C max :↑ 110%                                                                                             | No dose adjustment of lenacapavir is required.                                                                                                                                                                                                                                                                                                                                                |
 | Darunavir/cobicistat b,c,d (800 mg/150 mg once daily) (strong inhibitor of CYP3A, and an inhibitor and inducer of P-gp) | Lenacapavir: AUC:↑ 94% C max :↑ 130%                                                                                               | No dose adjustment of lenacapavir is required.                                                                                                                                                                                                                                                                                                                                                |
-| Tenofovir alafenamide c,e (25 mg) (substrate of P-gp)                                                                   | Tenofovir alafenamide: AUC:↑ 32% C max :↑ 24% Tenofovir f : AUC:↑ 47%                                                              | No dose adjustment of tenofovir alafenamide is required.                                                                                                                                                                                                                                                                                                                                      |
+| Tenofovir alafenamide c,e (25 mg) (substrate of P-gp)                                                                   | Tenofovir alafenamide: AUC:↑ 32% C max :↑ 24% Tenofovir f : AUC:↑ 47% C :↑ 23%                                                     | No dose adjustment of tenofovir alafenamide is required.                                                                                                                                                                                                                                                                                                                                      |
 | ERGOT DERIVATIVES                                                                                                       | ERGOT DERIVATIVES                                                                                                                  | ERGOT DERIVATIVES                                                                                                                                                                                                                                                                                                                                                                             |
 | Dihydroergotamine Ergotamine                                                                                            | Interaction not studied. Plasma concentrations of these medicinal products may be increased when co-administered with lenacapavir. | Caution is warranted when dihydroergotamine or ergotamine, is co-administered with lenacapavir.                                                                                                                                                                                                                                                                                               |
 | PHOSPHODIESTERASE-5 (PDE-5) INHIBITORS                                                                                  | PHOSPHODIESTERASE-5 (PDE-5) INHIBITORS                                                                                             | PHOSPHODIESTERASE-5 (PDE-5) INHIBITORS                                                                                                                                                                                                                                                                                                                                                        |
@@ -785,17 +779,17 @@ Table 2: Interactions between Yeytuo and other medicinal products
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas                                                            | Effects on concentrations. Mean percent change in AUC, C max                                                                                                                                                                   | Recommendation concerning co-administration with lenacapavir                                                                                                                                                                                                                                                                                                                                                                                   |
-|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| CORTICOSTEROIDS (systemic)                                                                        | CORTICOSTEROIDS (systemic)                                                                                                                                                                                                     | CORTICOSTEROIDS (systemic)                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Dexamethasone Hydrocortisone/cortisone                                                            | Interaction not studied. Plasma concentrations of corticosteroids may be increased when co-administered with lenacapavir. Plasma concentrations of lenacapavir may decrease when co- administered with systemic dexamethasone. | Co-administration of lenacapavir with corticosteroids whose exposures are significantly increased by CYP3A inhibitors can increase the risk for Cushing's syndrome and adrenal suppression. Initiate with the lowest starting dose and titrate carefully while monitoring for safety. Caution is warranted when systemic dexamethasone is co-administered with lenacapavir, particularly for long-term use. Alternative corticosteroids should |
-| HMG-CoA REDUCTASE INHIBITORS                                                                      | HMG-CoA REDUCTASE INHIBITORS                                                                                                                                                                                                   | HMG-CoA REDUCTASE INHIBITORS                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Lovastatin Simvastatin                                                                            | Interaction not studied. Plasma concentrations of these medicinal products may be increased when co-administered with lenacapavir.                                                                                             | Initiate lovastatin and simvastatin with the lowest starting dose and titrate carefully while monitoring for safety (e.g. myopathy).                                                                                                                                                                                                                                                                                                           |
-| Atorvastatin                                                                                      | Interaction not studied. Plasma concentrations of these medicinal products may be increased when co-administered with lenacapavir.                                                                                             | No dose adjustment of atorvastatin is required.                                                                                                                                                                                                                                                                                                                                                                                                |
-| Pitavastatin c,e (2 mg single dose; simultaneous or 3 days after lenacapavir) (substrate of OATP) | Pitavastatin: AUC: ↔ C max : ↔                                                                                                                                                                                                 | No dose adjustment of pitavastatin and rosuvastatin is required.                                                                                                                                                                                                                                                                                                                                                                               |
-| Rosuvastatin c,e (5 mg single dose) (substrate of BCRP and OATP)                                  | Rosuvastatin: AUC:↑ 31% C max :↑ 57%                                                                                                                                                                                           | No dose adjustment of pitavastatin and rosuvastatin is required.                                                                                                                                                                                                                                                                                                                                                                               |
-| ANTIARRHYTHMICS                                                                                   | ANTIARRHYTHMICS                                                                                                                                                                                                                | ANTIARRHYTHMICS                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Digoxin                                                                                           | Interaction not studied. Plasma concentration of digoxin may be increased when co-administered with lenacapavir.                                                                                                               | Caution is warranted and therapeutic concentration monitoring of digoxin is recommended.                                                                                                                                                                                                                                                                                                                                                       |
+| Medicinal product by therapeutic areas                                                            | Effects on concentrations. Mean percent change in AUC, C max                                                                                                                                                                   | Recommendation concerning co-administration with lenacapavir                                                                                                                                                                                                                                                                                                                                                                                                  |
+|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CORTICOSTEROIDS (systemic)                                                                        | CORTICOSTEROIDS (systemic)                                                                                                                                                                                                     | CORTICOSTEROIDS (systemic)                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Dexamethasone Hydrocortisone/cortisone                                                            | Interaction not studied. Plasma concentrations of corticosteroids may be increased when co-administered with lenacapavir. Plasma concentrations of lenacapavir may decrease when co- administered with systemic dexamethasone. | Co-administration of lenacapavir with corticosteroids whose exposures are significantly increased by CYP3A inhibitors can increase the risk for Cushing's syndrome and adrenal suppression. Initiate with the lowest starting dose and titrate carefully while monitoring for safety. Caution is warranted when systemic dexamethasone is co-administered with lenacapavir, particularly for long-term use. Alternative corticosteroids should be considered. |
+| HMG-CoA REDUCTASE INHIBITORS                                                                      | HMG-CoA REDUCTASE INHIBITORS                                                                                                                                                                                                   | HMG-CoA REDUCTASE INHIBITORS                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Lovastatin Simvastatin                                                                            | Interaction not studied. Plasma concentrations of these medicinal products may be increased when co-administered with lenacapavir.                                                                                             | Initiate lovastatin and simvastatin with the lowest starting dose and titrate carefully while monitoring for safety (e.g. myopathy).                                                                                                                                                                                                                                                                                                                          |
+| Atorvastatin                                                                                      | Interaction not studied. Plasma concentrations of these medicinal products may be increased when co-administered with lenacapavir.                                                                                             | No dose adjustment of atorvastatin is required.                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Pitavastatin c,e (2 mg single dose; simultaneous or 3 days after lenacapavir) (substrate of OATP) | Pitavastatin: AUC: ↔ C max : ↔                                                                                                                                                                                                 | No dose adjustment of pitavastatin and rosuvastatin is required.                                                                                                                                                                                                                                                                                                                                                                                              |
+| Rosuvastatin c,e (5 mg single dose) (substrate of BCRP and OATP)                                  | Rosuvastatin: AUC:↑ 31% C max :↑ 57%                                                                                                                                                                                           | No dose adjustment of pitavastatin and rosuvastatin is required.                                                                                                                                                                                                                                                                                                                                                                                              |
+| ANTIARRHYTHMICS                                                                                   | ANTIARRHYTHMICS                                                                                                                                                                                                                | ANTIARRHYTHMICS                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Digoxin                                                                                           | Interaction not studied. Plasma concentration of digoxin may be increased when co-administered with lenacapavir.                                                                                                               | Caution is warranted and therapeutic concentration monitoring of digoxin is recommended.                                                                                                                                                                                                                                                                                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -825,7 +819,9 @@ Table 2: Interactions between Yeytuo and other medicinal products
 | Anti-androgens Progestogen                              | Interaction not studied. Plasma concentrations of these medicinal products may be increased when co-administered with lenacapavir. |                                                                    |
 
 - b This study was conducted using lenacapavir 300 mg single dose administered orally.
-- c Fed.
+
+c Fed.
+
 - d These antiretroviral medicinal products are probes for the referenced enzymes/transporters and are not to be coadministered with lenacapavir for PrEP.
 - e This study was conducted using lenacapavir 600 mg single dose following a loading regimen of 600 mg twice daily for 2 days, single 600 mg doses of lenacapavir were administered orally with each co-administered medicinal product.
 - f Tenofovir alafenamide is converted to tenofovir in vivo .
@@ -1154,11 +1150,13 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## CARTON (SOLUTION FOR INJECTION)
+CARTON (SOLUTION FOR INJECTION)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Yeytuo 464 mg solution for injection lenacapavir
+Yeytuo 464 mg solution for injection
+
+lenacapavir
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1199,8 +1197,8 @@ Store in the original package in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -1220,8 +1218,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1242,16 +1240,16 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL (SOLUTION FOR INJECTION)                              |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL (SOLUTION FOR INJECTION)                                |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Yeytuo 464 mg solution for injection lenacapavir SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1263,8 +1261,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1.5 mL
 
@@ -1366,7 +1364,7 @@ all components are for single use
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING AND THE IMMEDIATE PACKAGING
 
-BOTTLE AND CARTON LABELLING (FILM-COATED TABLET)
+## BOTTLE AND CARTON LABELLING (FILM-COATED TABLET)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1380,15 +1378,13 @@ Each film-coated tablet contains lenacapavir sodium equivalent to 300 mg of lena
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
 - 4 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use
+Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1406,14 +1402,15 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Gilead Sciences Ireland UC Carrigtohill County Cork, T45 DP77 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/25/1976/001
 
@@ -1425,8 +1422,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1443,6 +1440,185 @@ Yeytuo [Carton only]
 PC SN NN
 
 [Carton only]
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON (SOLUTION FOR INJECTION)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Yeytuo 464 mg solution for injection
+
+lenacapavir
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each single-dose vial contains lenacapavir sodium equivalent to 463.5 mg of lenacapavir.
+
+## 3. LIST OF EXCIPIENTS
+
+It also contains macrogol (E1521) and water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Solution for injection
+
+- 2 single-dose vials
+- 2 withdrawal needles
+- 2 syringes
+- 2 injection needles
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+For subcutaneous use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in the original package in order to protect from light.
+
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+Gilead Sciences Ireland UC Carrigtohill County Cork, T45 DP77 Ireland
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+EU/1/25/1976/003
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Justification for not including Braille accepted.
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## INSTRUCTIONS FOR USE CARD FOR HEALTHCARE PROFESSIONALS ONLY (SOLUTION FOR INJECTION)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Yeytuo 464 mg solution for injection lenacapavir
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+463.5 mg/1.5 mL
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+For Healthcare Professionals Only
+
+INSTRUCTIONS FOR USE
+
+VIAL x2
+
+<!-- image -->
+
+SYRINGE x2
+
+<!-- image -->
+
+18G, 40 mm WITHDRAWAL NEEDLE x2
+
+22G, 13 mm INJECTION NEEDLE x2
+
+NOTE:
+
+all components are for single use
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+## ATTENTION!
+
+- TWO 1.5 mL subcutaneous injections are required to complete dose
+- 18G needle is for withdrawal only
+
+## Make sure that:
+
+- Vial and prepared syringe contain a yellow-to-brown solution with no particles
+- Contents are not damaged
+- Product is not expired
+
+<div style=\"page-break-after: always\"></div>
+
+## Prepare Vial
+
+<!-- image -->
+
+## Attach 18G Withdrawal Needle to Syringe
+
+<!-- image -->
+
+## Fill Syringe
+
+<!-- image -->
+
+## Remove 18G Withdrawal Needle from Syringe
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Attach 22G Injection Needle to Syringe, Expel Air Bubbles, and Prime to 1.5 mL
+
+<!-- image -->
+
+## Select and Clean an Injection Site
+
+<!-- image -->
+
+## Inject 1.5 mL of Yeytuo Subcutaneously
+
+<!-- image -->
+
+## Administer 2nd Injection
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1514,7 +1690,9 @@ Yeytuo is used to help prevent HIV-1 infection in adults and adolescents weighin
 
 Talk to your doctor or nurse if you have any more questions about how to prevent getting HIV.
 
-## · Yeytuo injection is a long-acting medicine
+## ·
+
+- Yeytuo injection is a long-acting medicine
 
 If you stop Yeytuo injections, lenacapavir (the active substance in Yeytuo) may remain in your body for a year or more after your last injection, but the amount in your body may be too low to protect you from getting HIV .
 
@@ -1545,10 +1723,7 @@ Tell your doctor, nurse or pharmacist if you are taking, have recently taken or 
 - anticonvulsants used to treat epilepsy and prevent seizures, containing:
 - -oxcarbazepine or phenobarbital
 - medicines used to treat migraine, containing:
-
--
-
-- dihydroergotamine or ergotamine
+- -dihydroergotamine or ergotamine
 - medicines used to treat impotence and pulmonary hypertension, containing:
 - -sildenafil or tadalafil
 - medicine used to treat impotence, containing:
@@ -1673,11 +1848,13 @@ Macrogol (E1521), water for injections.
 
 Yeytuo solution for injection (injection) is a clear, yellow to brown solution with no visible particles. Yeytuo comes in two glass vials, each containing 1.5 ml of solution for injection. These vials are included in an injection kit also containing 2 withdrawal needles (to allow your doctor or a nurse to withdraw Yeytuo from the vial), 2 disposable syringes and 2 injection needles.
 
+The injection kit contains withdrawal needles that may be supplied with or without a safety shield. The presence or absence of a safety shield does not change how the Yeytuo injection is prepared.
+
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder
 
 Gilead Sciences Ireland UC Carrigtohill County Cork, T45 DP77 Ireland
-
-<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
@@ -1727,14 +1904,6 @@ Gilead Sciences Tél: + 33 (0) 1 46 09 41 00
 
 Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
 
-## Ireland
-
-Gilead Sciences Ireland UC Tel: + 353 (0) 214 825 999
-
-## Ísland
-
-Gilead Sciences Sweden AB
-
 ## Lietuva
 
 Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
@@ -1761,9 +1930,7 @@ Gilead Sciences Sweden AB Tlf: + 46 (0) 8 5057 1849
 
 ## Österreich
 
-Gilead Sciences GesmbH
-
-Tel: + 43 1 260 830
+Gilead Sciences GesmbH Tel: + 43 1 260 830
 
 ## Polska
 
@@ -1777,17 +1944,29 @@ Gilead Sciences, Lda. Tel: + 351 21 7928790
 
 Gilead Sciences (GSR) S.R.L. Tel: + 40 31 631 18 00
 
+## Ireland
+
+Gilead Sciences Ireland UC
+
+Tel: + 353 (0) 214 825 999
+
 ## Slovenija
 
-Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
+Gilead Sciences Ireland UC
+
+Tel: + 353 (0) 1 686 1888
+
+## Ísland
+
+Gilead Sciences Sweden AB
+
+Sími: + 46 (0) 8 5057 1849
 
 ## Slovenská republika
 
 Gilead Sciences Slovakia s.r.o.
 
-Sími: + 46 (0) 8 5057 1849
-
-<div style=\"page-break-after: always\"></div>
+Tel: + 421 232 121 210
 
 ## Italia
 
@@ -1795,17 +1974,31 @@ Gilead Sciences S.r.l.
 
 Tel: + 39 02 439201
 
+## Suomi/Finland
+
+Gilead Sciences Sweden AB
+
+Puh/Tel: + 46 (0) 8 5057 1849
+
 ## Κύπρος
 
 Gilead Sciences Ελλάς Μ.ΕΠΕ.
 
 Τηλ: + 30 210 8930 100
 
+## Sverige
+
+Gilead Sciences Sweden AB
+
+Tel: + 46 (0) 8 5057 1849
+
 ## Latvija
 
 Gilead Sciences Ireland UC
 
 Tel: + 353 (0) 1 686 1888
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in MM/YYYY.
 
@@ -1815,7 +2008,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## The following information is intended for healthcare professionals only
 
-## Instructions for Use - Yeytuo 464 mg solution for injection
+## Instructions for Use - Yeytuo 464 mg solution for injection (withdrawal needle without safety shield)
 
 ## Each pack contains
 
@@ -1823,9 +2016,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 All the components are for single use.
 
-A complete dose requires two 1.5 mL injections. 18G needle is for
-
-withdrawal only .
+A complete dose requires two 1.5 mL subcutaneous injections. 18G needle is for withdrawal only .
 
 ## Make sure that:
 
@@ -1833,25 +2024,11 @@ withdrawal only .
 - Contents are not damaged
 - Product is not expired
 
-Tel: + 421 232 121 210
-
-## Suomi/Finland
-
-Gilead Sciences Sweden AB
-
-Puh/Tel: + 46 (0) 8 5057 1849
-
-## Sverige
-
-Gilead Sciences Sweden AB
-
-Tel: + 46 (0) 8 5057 1849
-
 ## 1. Prepare Vial
 
 Remove cap.
 
-- Clean vial stopper with alcohol wipe.
+Clean vial stopper with alcohol wipe.
 
 2.
 
@@ -1875,8 +2052,6 @@ Pink
 
 hub
 
-2
-
 3
 
 4
@@ -1884,6 +2059,72 @@ hub
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## Instructions for Use - Yeytuo 464 mg solution for injection (withdrawal needle with safety shield)
+
+## Each pack contains
+
+| 2 x vials                        |
+|----------------------------------|
+| 2 x syringes                     |
+| 2 x 18G, 40 mmwithdrawal needles |
+| 2 x 22G, 13 mminjection needles  |
+
+<div style=\"page-break-after: always\"></div>
+
+All the components are for single use.
+
+A complete dose requires two 1.5 mL subcutaneous injections. 18G needle is for withdrawal only .
+
+## Make sure that:
+
+- Vial contains a yellow-to-brown solution with no particles
+- Contents are not damaged
+- Product is not expired
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## 1. Prepare Vial
+
+Remove cap.
+
+Clean vial stopper with alcohol wipe.
+
+2. Attach 18G Withdrawal Needle to Syringe
+
+3. Fill Syringe
+
+- Inject 1.5 mL of air into vial.
+
+- Withdraw all contents.
+
+4. Remove 18G Withdrawal Needle from Syringe
+
+Pink
+
+hub
+
+Pink
+
+hub
+
+1
+
+2
+
+3
+
+4
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1980,7 +2221,10 @@ Tell your doctor, nurse or pharmacist if you are taking, have recently taken or 
 ## Talk to your doctor or nurse in particular if you are taking:
 
 - medicines used to treat some bacterial infections, such as tuberculosis, containing:
-- -rifabutin or rifapentine
+
+-
+
+- rifabutin or rifapentine
 - anticonvulsants used to treat epilepsy and prevent seizures, containing:
 - -oxcarbazepine or phenobarbital
 - medicines used to treat migraine, containing:
@@ -2106,7 +2350,9 @@ Polyvinyl alcohol (E1203), titanium dioxide (E171), macrogol (E1521), talc (E553
 
 Yeytuo film-coated tablets are beige, capsule-shaped, film-coated tablets, debossed with 'GSI' on one side of the tablet and '62L' on the other side of the tablet. Yeytuo comes in a bottle of 4 tablets. Each bottle contains a silica gel desiccant that must be kept in the bottle to help protect your tablets. The silica gel desiccant is contained in a separate packet and should not be swallowed.
 
-Marketing Authorisation Holder Gilead Sciences Ireland UC Carrigtohill County Cork, T45 DP77 Ireland
+Marketing Authorisation Holder Gilead Sciences Ireland UC
+
+Carrigtohill County Cork, T45 DP77 Ireland
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2146,7 +2392,9 @@ Gilead Sciences Ελλάς Μ.ΕΠΕ. Τηλ: + 30 210 8930 100
 
 ## España
 
-Gilead Sciences, S.L. Tel: + 34 91 378 98 30
+Gilead Sciences, S.L.
+
+Tel: + 34 91 378 98 30
 
 ## France
 

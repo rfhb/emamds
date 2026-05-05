@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-08 10:49:45
-document_pages: 47
+document_datetime: 2026-04-30 17:35:58
+document_pages: 51
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/scemblix-epar-product-information_en.pdf
 document_name: scemblix-epar-product-information_en.pdf
 version: success
-processing_time: 9.8572727
-conversion_datetime: 2025-12-28 11:15:28.572133
+processing_time: 11.9366408
+conversion_datetime: 2026-05-05 19:32:27.91023
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -29,6 +29,8 @@ This medicinal product is subject to additional monitoring. This will allow quic
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Scemblix 20 mg film-coated tablets Scemblix 40 mg film-coated tablets
+
+Scemblix 100 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -48,6 +50,14 @@ Each film-coated tablet contains 43.24 mg asciminib hydrochloride, equivalent to
 
 Each film-coated tablet contains 86 mg lactose monohydrate.
 
+## Scemblix 100 mg film-coated tablets
+
+Each film-coated tablet contains 108.10 mg asciminib hydrochloride, equivalent to 100 mg asciminib.
+
+## Excipient with known effect
+
+Each film-coated tablet contains 216 mg lactose monohydrate.
+
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
@@ -56,11 +66,17 @@ Film-coated tablet (tablet).
 
 ## Scemblix 20 mg film-coated tablets
 
-Pale yellow, round, biconvex film-coated tablets with bevelled edges of approximately 6 mm diameter, debossed with company logo on one side and '20' on the other side .
+Pale yellow, round, biconvex film-coated tablets with bevelled edges of approximately 6 mm diameter, debossed with company logo on one side and '20' on the other side.
 
 ## Scemblix 40 mg film-coated tablets
 
 Violet white, round, biconvex film-coated tablets with bevelled edges of approximately 8 mm diameter, debossed with company logo on one side and '40' on the other side.
+
+## Scemblix 100 mg film-coated tablets
+
+Light red, round, biconvex film-coated tablets with bevelled edges of approximately 11 mm diameter, debossed with company logo on one side and '100' on the other side.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4. CLINICAL PARTICULARS
 
@@ -68,13 +84,15 @@ Violet white, round, biconvex film-coated tablets with bevelled edges of approxi
 
 Scemblix is indicated for the treatment of adult patients with Philadelphia chromosome-positive chronic myeloid leukaemia in chronic phase (Ph+ CML-CP) (see section 5.1).
 
+Scemblix is indicated for the treatment of adult patients with Ph+ CML-CP with the T315I mutation who are resistant to, intolerant to or ineligible for ponatinib (see section 5.1).
+
 ## 4.2 Posology and method of administration
 
 Treatment should be initiated by a physician experienced in the diagnosis and treatment of patients with leukaemia.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Posology
+
+## Ph+ CML-CP
 
 The recommended total daily dose of asciminib is 80 mg. Asciminib can be taken orally either as 80 mg once daily at approximately the same time each day, or as 40 mg twice daily at approximately 12-hour intervals (see section 4.4).
 
@@ -84,6 +102,10 @@ Patients switching from 80 mg once daily to 40 mg twice daily should start takin
 
 The decision on the appropriate dosage regimen should be taken at the prescriber's discretion as necessary for the benefit of the patient.
 
+Ph+ CML-CP with the T315I mutation in patients resistant to, intolerant to or ineligible for ponatinib The recommended dose is 200 mg twice daily at approximately 12-hour intervals.
+
+Use of the 100 mg film-coated tablets is restricted to patients with Ph+ CML-CP with the T315I mutation.
+
 ## Missed dose
 
 ## Once-daily dosage regimen:
@@ -91,6 +113,8 @@ The decision on the appropriate dosage regimen should be taken at the prescriber
 If a dose is missed by less than 12 hours, it should be taken and the next dose should be taken as scheduled.
 
 If a dose is missed by more than approximately 12 hours, it should be skipped and the next dose should be taken as scheduled.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Twice-daily dosage regimen:
 
@@ -104,35 +128,39 @@ Treatment with asciminib should be continued as long as clinical benefit is obse
 
 ## Dose adjustments for adverse reactions
 
+Ph+ CML-CP
+
 The starting dose is 80 mg once daily or 40 mg twice daily, while the reduced dose is 40 mg once daily or 20 mg twice daily, respectively. The dose can be modified based on individual safety and tolerability as shown in Table 1. Asciminib should be permanently discontinued in patients unable to tolerate a dose of 40 mg once daily or 20 mg twice daily.
 
-<div style=\"page-break-after: always\"></div>
+Ph+ CML-CP with the T315I mutation in patients resistant to, intolerant to or ineligible for ponatinib The starting dose is 200 mg twice daily, while the reduced dose is 160 mg twice daily. The dose can be modified based on individual safety and tolerability as shown in Table 1. Asciminib should be permanently discontinued in patients unable to tolerate a dose of 160 mg twice daily.
 
 Table 1 Asciminib dose modification schedule for the management of adverse reactions
 
-| Adverse reaction                                                                                                                                                                   | Dose modification                                                                                                                                                                                                                                                                                                                                              |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Thrombocytopenia and/or neutropenia                                                                                                                                                | Thrombocytopenia and/or neutropenia                                                                                                                                                                                                                                                                                                                            |
-| ANC <1.0 x 10 9 /l and/or PLT <50 x 10 9 /l                                                                                                                                        | Withhold asciminib until resolved to ANC ≥1 x 10 9 /l and/or PLT ≥50 x 10 9 /l. If resolved: • Within 2 weeks: resume at starting dose. • After more than 2 weeks: resume at reduced dose. For recurrent severe thrombocytopenia and/or neutropenia, withhold asciminib until resolved to ANC ≥1 x 10 9 /l and PLT ≥50 x 10 9 /l, then resume at reduced dose. |
-| Asymptomatic amylase and/or lipase elevation                                                                                                                                       | Asymptomatic amylase and/or lipase elevation                                                                                                                                                                                                                                                                                                                   |
-| Elevation >2.0 x ULN                                                                                                                                                               | Withhold asciminib until resolved to <1.5 x ULN. • If resolved: resume at reduced dose. If events reoccur at reduced dose, permanently discontinue. • If not resolved: permanently discontinue. Perform diagnostic tests to exclude pancreatitis.                                                                                                              |
-| Non-haematological adverse reactions                                                                                                                                               | Non-haematological adverse reactions                                                                                                                                                                                                                                                                                                                           |
-| Grade 3 or higher 1 adverse reactions                                                                                                                                              | Withhold asciminib until resolved to grade 1 or lower. • If resolved: resume at a reduced dose. • If not resolved: permanently discontinue.                                                                                                                                                                                                                    |
-| ANC: absolute neutrophil count; PLT: platelets; ULN: upper limit of normal 1 Based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) v 4.03. | ANC: absolute neutrophil count; PLT: platelets; ULN: upper limit of normal 1 Based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) v 4.03.                                                                                                                                                                             |
+| Adverse reaction                                                             | Dose modification                                                                                                                                                                                                                                                                                                                                              |
+|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Thrombocytopenia and/or neutropenia                                          | Thrombocytopenia and/or neutropenia                                                                                                                                                                                                                                                                                                                            |
+| ANC <1.0 x 10 9 /l and/or PLT <50 x 10 9 /l                                  | Withhold asciminib until resolved to ANC ≥1 x 10 9 /l and/or PLT ≥50 x 10 9 /l. If resolved: • Within 2 weeks: resume at starting dose. • After more than 2 weeks: resume at reduced dose. For recurrent severe thrombocytopenia and/or neutropenia, withhold asciminib until resolved to ANC ≥1 x 10 9 /l and PLT ≥50 x 10 9 /l, then resume at reduced dose. |
+| Asymptomatic amylase and/or lipase elevation                                 | Asymptomatic amylase and/or lipase elevation                                                                                                                                                                                                                                                                                                                   |
+| Elevation >2.0 x ULN                                                         | Withhold asciminib until resolved to <1.5 x ULN. • If resolved: resume at reduced dose. If events reoccur at reduced dose, permanently discontinue. • If not resolved: permanently discontinue. Perform diagnostic tests to exclude pancreatitis.                                                                                                              |
+| Non-haematological adverse reactions                                         | Non-haematological adverse reactions                                                                                                                                                                                                                                                                                                                           |
+| Grade 3 or higher 1 adverse reactions                                        | Withhold asciminib until resolved to grade 1 or lower. • If resolved: resume at a reduced dose. • If not resolved: permanently discontinue.                                                                                                                                                                                                                    |
+| ANC: absolute neutrophil count; PLT: platelets; ULN: upper limit of normal 1 | ANC: absolute neutrophil count; PLT: platelets; ULN: upper limit of normal 1                                                                                                                                                                                                                                                                                   |
 
 ## Special populations
 
-## Elderly
+Elderly
 
 No dose adjustment is required in patients aged 65 years or above.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Renal impairment
 
-No dose adjustment is required in patients with mild, moderate or severe renal impairment (see section 5.2).
+No starting dose adjustment is required in patients with mild or moderate renal impairment at all recommended doses and in patients with severe renal impairment at the 80 mg total daily dose. No clinical data are available in patients with severe renal impairment at the 200 mg asciminib twice daily dose. Therefore, no recommendations for dose adjustment can be given. Caution should be exercised in patients with severe renal impairment receiving the 200 mg twice daily dose (see sections 4.4 and 5.2).
 
 ## Hepatic impairment
 
-No dose adjustment is required in patients with mild, moderate or severe hepatic impairment (see section 5.2).
+No starting dose adjustment is required in patients with mild or moderate hepatic impairment at all recommended doses and in patients with severe hepatic impairment at the 80 mg total daily dose. No clinical data are available in patients with severe hepatic impairment at the 200 mg asciminib twice daily dose. Therefore, no recommendations for dose adjustment can be given. Caution should be exercised in patients with severe hepatic impairment receiving the 200 mg twice daily dose (see sections 4.4 and 5.2).
 
 ## Paediatric population
 
@@ -148,13 +176,17 @@ The tablets should be taken orally without food. Food consumption should be avoi
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.4 Special warnings and precautions for use
+
+## Ph+ CML-CP with the T315I mutation in patients resistant to, intolerant to or ineligible for ponatinib
+
+In patients with Ph+ CML-CP with the T315I mutation treated with the 200 mg twice-daily dose, close monitoring should be considered since there are uncertainties regarding a potential increase of safety risks compared to the 80 mg total daily dose due to the small dataset of 48 patients, of whom 34 had a treatment intensity of &gt;90%.
 
 ## Myelosuppression
 
 Thrombocytopenia, neutropenia and anaemia occurred in patients receiving asciminib. Severe (NCI CTCAE grade 3 or 4) thrombocytopenia and neutropenia were reported during treatment with asciminib (see section 4.8). Myelosuppression was generally reversible and managed by temporarily withholding treatment. Complete blood counts should be performed every two weeks for the first 3 months of treatment and then monthly thereafter, or as clinically indicated. Patients should be monitored for signs and symptoms of myelosuppression.
+
+<div style=\"page-break-after: always\"></div>
 
 Based on the severity of thrombocytopenia and/or neutropenia, the dose should be temporarily withheld, reduced or permanently discontinued as described in Table 1 (see section 4.2).
 
@@ -172,7 +204,9 @@ QT prolongation occurred in patients receiving asciminib (see section 4.8).
 
 It is recommended that an electrocardiogram is performed prior to the start of treatment with asciminib, and monitored during treatment as clinically indicated. Hypokalaemia and hypomagnesaemia should be corrected prior to asciminib administration and monitored during treatment as clinically indicated.
 
-Caution should be exercised when administering asciminib concomitantly with medicinal products with known risk of torsades de pointes (see sections 4.5 and 5.1).
+Caution should be exercised when administering asciminib at a total daily dose of 80 mg concomitantly with medicinal products with known risk of torsades de pointes .
+
+Concomitant administration of asciminib at 200 mg twice daily with medicinal products with a known risk of torsades de pointes should be avoided (see sections 4.5 and 5.1).
 
 ## Hypertension
 
@@ -180,11 +214,21 @@ Hypertension, including severe hypertension, occurred in patients receiving asci
 
 Hypertension and other cardiovascular risk factors should be monitored regularly and managed using the standard therapies during treatment with asciminib.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatitis B reactivation
 
 Reactivation of hepatitis B virus (HBV) has occurred in patients who are chronic carriers of this virus following administration of other BCR::ABL1 tyrosine kinase inhibitors (TKIs). Patients should be tested for HBV infection before the start of treatment with asciminib. HBV carriers who require treatment with asciminib should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy.
 
-<div style=\"page-break-after: always\"></div>
+## Special populations
+
+## Renal impairment
+
+In the absence of clinical data, caution should be exercised when administering asciminib at 200 mg twice daily in patients with severe renal impairment (see sections 4.2 and 5.2).
+
+## Hepatic impairment
+
+In the absence of clinical data, caution should be exercised when administering asciminib at 200 mg twice daily in patients with severe hepatic impairment (see sections 4.2 and 5.2).
 
 ## Potential for lower efficacy with the 80 mg once-daily regimen compared with the 40 mg twice-daily regimen
 
@@ -196,13 +240,23 @@ Patients with rare hereditary problems of galactose intolerance, total lactase d
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 ## Medicinal products with known risk of torsades de pointes
 
-Caution should be exercised during concomitant administration of asciminib and medicinal products with known risk of torsades de pointes , including, but not limited to, bepridil, chloroquine, clarithromycin, halofantrine, haloperidol, methadone, moxifloxacin or pimozide (see section 5.1).
+Caution should be exercised during concomitant administration of asciminib at a total daily dose of 80 mg and medicinal products with known risk of torsades de pointes , including, but not limited to, bepridil, chloroquine, clarithromycin, halofantrine, haloperidol, methadone, moxifloxacin or pimozide.
+
+Concomitant administration of asciminib 200 mg twice daily with medicinal products with a known risk of torsades de pointes should be avoided (see section 5.1).
+
+## Medicinal products that may increase asciminib plasma concentrations
+
+## Strong CYP3A4 inhibitors
+
+Caution should be exercised during concomitant administration of asciminib at 200 mg twice daily with strong CYP3A4 inhibitors, including, but not limited to, clarithromycin, telithromycin, troleandomycin, itraconazole, ketoconazole, voriconazole, ritonavir, indinavir, nelfinavir or saquinavir. Dose adjustment of asciminib is not required.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Medicinal products that may decrease asciminib plasma concentrations
 
@@ -210,7 +264,7 @@ Caution should be exercised during concomitant administration of asciminib and m
 
 Co-administration of a strong CYP3A4 inducer (rifampicin) decreased asciminib AUCinf by 15% and increased Cmax by 9% in healthy subjects receiving a single asciminib dose of 40 mg. Coadministration of a strong CYP3A4 inducer (phenytoin) decreased asciminib AUCinf and Cmax by 34% and 22%, respectively, in healthy subjects receiving a single asciminib dose of 200 mg.
 
-Caution should be exercised during concomitant administration of asciminib with strong CYP3A4 inducers, including, but not limited to, carbamazepine, phenobarbital, phenytoin or St. John's wort ( Hypericum perforatum ), which may result in lower efficacy of asciminib.
+Caution should be exercised during concomitant administration of asciminib at all recommended doses with strong CYP3A4 inducers, including, but not limited to, carbamazepine, phenobarbital, phenytoin or St. John's wort ( Hypericum perforatum ), which may result in lower efficacy of asciminib.
 
 ## Medicinal products that may have their plasma concentrations altered by asciminib
 
@@ -218,25 +272,27 @@ Caution should be exercised during concomitant administration of asciminib with 
 
 Co-administration of asciminib with a CYP3A4 substrate (midazolam) increased midazolam AUCinf and Cmax by 28% and 11%, respectively, in healthy subjects receiving asciminib 40 mg twice daily.
 
-Caution should be exercised during concomitant administration of asciminib with CYP3A4 substrates known to have a narrow therapeutic index, including, but not limited to, the CYP3A4 substrates fentanyl, alfentanil, dihydroergotamine or ergotamine (see section 5.2). Dose adjustment of asciminib is not required.
+Caution should be exercised during concomitant administration of asciminib at all recommended doses with CYP3A4 substrates known to have a narrow therapeutic index, including, but not limited to, the CYP3A4 substrates fentanyl, alfentanil, dihydroergotamine or ergotamine (see section 5.2). Dose adjustment of asciminib is not required.
 
 ## CYP2C9 substrates
 
 Co-administration of asciminib with a CYP2C9 substrate (warfarin) increased S-warfarin AUCinf and Cmax by 41% and 8%, respectively, in healthy subjects receiving asciminib 40 mg twice daily.
 
-Caution should be exercised during concomitant administration of asciminib with CYP2C9 substrates known to have a narrow therapeutic index, including, but not limited to, phenytoin or warfarin (see section 5.2). Dose adjustment of asciminib is not required.
+Caution should be exercised during concomitant administration of asciminib at a total daily dose of 80 mg with CYP2C9 substrates known to have a narrow therapeutic index, including, but not limited to, phenytoin or warfarin (see section 5.2). Dose adjustment of asciminib is not required.
 
-<div style=\"page-break-after: always\"></div>
+Concomitant administration of asciminib at 200 mg twice daily with CYP2C9-sensitive substrates and CYP2C9 substrates known to have a narrow therapeutic index should be avoided and alternative medicines should be considered (see section 5.2). If co-administration cannot be avoided, the CYP2C9 substrate dose should be reduced. If co-administration with warfarin cannot be avoided, the frequency of international normalised ratio (INR) monitoring should be increased as the anticoagulant effect of warfarin may be enhanced.
 
 ## Substrates of OATP1B or BCRP
 
-Based on physiologically-based pharmacokinetic (PBPK) modelling, caution should be exercised during concomitant administration of asciminib with BCRP substrates, including, but not limited to, sulfasalazine, methotrexate and rosuvastatin. No clinical drug interaction study with BCRP was performed.
+Based on physiologically-based pharmacokinetic (PBPK) modelling, caution should be exercised during concomitant administration of asciminib at all recommended doses with BCRP substrates, including, but not limited to, sulfasalazine, methotrexate and rosuvastatin. No clinical drug interaction study with BCRP was performed.
 
 Co-administration of asciminib at 80 mg once daily with an OATP1B, CYP3A4 and P-gp substrate (atorvastatin) increased atorvastatin AUCinf and Cmax by 14% and 24%, respectively, in healthy subjects. Clinically relevant interactions between Scemblix and OATP1B substrates are unlikely to occur.
 
-## P-gp substrates of narrow therapeutic index
+## P-gp substrates with narrow therapeutic index
 
-Caution should be exercised during concomitant administration of asciminib with P-gp substrates known to have a narrow therapeutic index, including, but not limited to digoxin, dabigatran and colchicine (see section 5.2). Dose adjustment of asciminib is not required.
+Caution should be exercised during concomitant administration of asciminib at all recommended doses with P-gp substrates known to have a narrow therapeutic index, including, but not limited to digoxin, dabigatran and colchicine (see section 5.2). Dose adjustment of asciminib is not required.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -262,21 +318,33 @@ There are no data on the effect of asciminib on human fertility. In rat fertilit
 
 Asciminib has no or negligible influence on the ability to drive and use machines. However, it is recommended that patients experiencing dizziness, fatigue or other undesirable effects (see section 4.8) with a potential impact on the ability to drive or use machines safely should refrain from these activities as long as the undesirable effects persist.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
+
+## Ph+ CML (ASCEMBL, X2101, ASC4FIRST studies)
 
 The most common adverse reactions of any grade (incidence ≥20%) in patients receiving asciminib were musculoskeletal pain (34.4%), thrombocytopenia (28.1%), fatigue (25.4%), upper respiratory tract infections (24.8%), headache (22.8%), neutropenia (21.8%), arthralgia (20.7%) and diarrhoea (20.7%).
 
 The most common adverse reactions of ≥ grade 3 (incidence ≥5%) in patients receiving asciminib were thrombocytopenia (16.5%), neutropenia (13.8%), increased pancreatic enzymes (9.4%) and hypertension (9.2%).
 
-Serious adverse reactions occurred in 9.9% of patients receiving asciminib. The most frequent serious adverse reactions (incidence ≥1%) were pleural effusion ( 1.6%), lower respiratory tract infections (1.6%), thrombocytopenia (1.3%), pancreatitis (1.1%) and pyrexia (1.1%).
+<div style=\"page-break-after: always\"></div>
+
+Serious adverse reactions occurred in 9.9% of patients receiving asciminib. The most frequent serious adverse reactions (incidence ≥1%) were pleural effusion (1.6%), lower respiratory tract infections (1.6%), thrombocytopenia (1.3%), pancreatitis (1.1%) and pyrexia (1.1%).
+
+## Ph+ CML-CP with the T315I mutation in patients resistant to, intolerant to or ineligible for ponatinib (X2101 study )
+
+The safety dataset for the 200 mg twice-daily dose is limited to 48 patients, of whom 34 had a treatment intensity of &gt;90%.
+
+The most common adverse reactions of any grade (incidence ≥20%) in patients receiving asciminib were musculoskeletal pain (41.7%), fatigue (35.4%), increased pancreatic enzymes (31.3%), diarrhoea (27.1%), nausea (27.1%), increased hepatic enzymes (25.0%), arthralgia (25.0%), cough (22.9%), thrombocytopenia (20.8%), vomiting (20.8%) and headache (20.8%).
+
+The most common adverse reactions of ≥grade 3 (incidence ≥5%) in patients receiving asciminib were increased pancreatic enzymes (22.9%), thrombocytopenia (16.7%), neutropenia (12.5%), increased hepatic enzymes (10.4%), hypertension (8.3%), anaemia (6.3%), vomiting (6.3%) and abdominal pain (6.3%).
+
+Serious adverse reactions occurred in 12.5% of patients receiving asciminib. The most frequent serious adverse reactions (incidence ≥1%) were abdominal pain (4.2%), vomiting (4.2%), lower respiratory tract infections (4.2%), constipation (2.1%), headache (2.1%), non-cardiac chest pain (2.1%) and pleural effusion (2.1%).
 
 ## Tabulated list of adverse reactions
 
-The overall safety profile of asciminib has been evaluated in 556 patients with Ph+ CML in chronic (CP) and accelerated (AP) phases in the pivotal phase III study A2301 (ASCEMBL) and the phase I study X2101, and with newly diagnosed Ph+ CML-CP in the pivotal phase III study J12301 (ASC4FIRST). In ASCEMBL, patients received asciminib as monotherapy at a dose of 40 mg twice daily. In X2101, patients received asciminib as monotherapy at doses ranging from 10 to 200 mg twice daily and 80 to 200 mg once daily. In ASC4FIRST, patients received asciminib as monotherapy at a dose of 80 mg once daily. In the pooled dataset, the median duration of exposure to asciminib was 123.29 weeks (range: 0.1 to 439 weeks).
+The overall safety profile of asciminib has been evaluated in 556 patients with Ph+ CML in chronic (CP) and accelerated (AP) phases in the pivotal phase III study A2301 (ASCEMBL) and the phase I study X2101, and with newly diagnosed Ph+ CML-CP in the pivotal phase III study J12301 (ASC4FIRST). In ASCEMBL (N=156), patients received asciminib as monotherapy at a dose of 40 mg twice daily. In X2101 (N=200), patients received asciminib as monotherapy at doses ranging from 10 to 200 mg twice daily and 80 to 200 mg once daily. Of these patients, 48 with the T315I mutation received asciminib 200 mg twice daily. In ASC4FIRST (N=200), patients received asciminib as monotherapy at a dose of 80 mg once daily. In the pooled dataset, the median duration of exposure to asciminib was 123.29 weeks (range: 0.1 to 439 weeks).
 
 Adverse reactions from clinical studies (Table 2) are listed by MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000).
 
@@ -339,13 +407,23 @@ Table 2 Adverse reactions observed with asciminib in clinical studies
 
 Thrombocytopenia occurred in 28.1% of patients receiving asciminib, with grade 3 and 4 reactions reported in 7% and 9.5% of patients, respectively. Among the patients with thrombocytopenia ≥ grade 3, the median time to first occurrence of reactions was 6 weeks (range: 0.14 to 64.14 weeks), with median duration of any occurring reaction of 1.57 weeks (95% CI, range: 1.14 to 2 weeks). 2% of patients receiving asciminib permanently discontinued due to thrombocytopenia, while asciminib was temporarily withheld in 12.6% of patients due to the adverse reaction.
 
+Thrombocytopenia occurred in 20.8% of patients with the T315I mutation receiving asciminib, with grade 3 and 4 reactions reported in 16.7% of patients. Among the patients with thrombocytopenia ≥ grade 3, the median time to first occurrence of reactions was 8.36 weeks (range: 1.43 to 38.43 weeks), with median duration of any occurring reaction of 4.29 weeks (95% CI, range: 1.71 to 5.71 weeks). 2.1% of patients with the T315I mutation receiving asciminib permanently discontinued due to thrombocytopenia, while asciminib was temporarily withheld in 6.3% of patients due to the adverse reaction.
+
 Neutropenia occurred in 21.8% of patients receiving asciminib, with grade 3 and 4 reactions reported in 7.6% and 6.3% of patients , respectively. Among the patients with neutropenia ≥ grade 3, the median time to first occurrence of reactions was 7.14 weeks (range: 0.14 to 180.14 weeks), with median duration of any occurring reaction of 1.86 weeks (95% CI, range: 1.29 to 2 weeks). 1.3% of patients receiving asciminib permanently discontinued due to neutropenia, while asciminib was temporarily withheld in 9.4% of patients due to the adverse reaction.
 
+Neutropenia occurred in 16.7% of patients with the T315I mutation receiving asciminib, with grade 3 and 4 reactions reported in 12.5% of patients. Among the patients with neutropenia ≥ grade 3, the median time to first occurrence of reactions was 4.14 weeks (range: 0.14 to 16.57 weeks), with median duration of any occurring reaction of 2.86 weeks (95% CI, range: 1.57 to 4.57 weeks). 2.1% of patients with the T315I mutation receiving asciminib permanently discontinued due to neutropenia, while asciminib was temporarily withheld in 2.1% of patients due to the adverse reaction.
+
 Anaemia occurred in 12.9% of patients receiving asciminib, with grade 3 reactions occurring in 4.1% of patients. Among the patients with anaemia ≥ grade 3, the median time to first occurrence of reactions was 24.14 weeks (range: 0.14 to 207 weeks), with median duration of any occurring reaction of 0.86 weeks (95% CI, range: 0.29 to 1.71 weeks). Asciminib was temporarily withheld in 0.5% of patients due to the adverse reaction.
+
+Anaemia occurred in 10.4% of patients with the T315I mutation receiving asciminib, with grade 3 and 4 reactions reported in 6.3% of patients. Among the patients with anaemia ≥ grade 3, the median time to first occurrence of reactions was 38.43 weeks (range: 24.14 to 131 weeks), with median duration of any occurring reaction of 0.86 weeks (95% CI, range: 0.14 to NE [not estimable] weeks).
 
 ## Pancreatic toxicity
 
 Pancreatitis occurred in 2% of patients receiving asciminib, with grade 3 reactions occurring in 1.1% of patients. 0.5% of patients receiving asciminib permanently discontinued due to pancreatitis, while asciminib was temporarily withheld in 1.1% of patients due to the adverse reaction. Asymptomatic elevations of serum lipase and amylase occurred in 19.8% of patients receiving asciminib, with grade 3 and 4 reactions occurring in 7.4% and 2% of patients, respectively. Of the patients with elevation of pancreatic enzymes, asciminib was permanently discontinued in 2% of patients due to the adverse reaction.
+
+Pancreatitis occurred in 2.1% of patients with the T315I mutation receiving asciminib. Elevations of serum lipase and amylase occurred in 31.3% of patients with the T315I mutation receiving asciminib, with grade 3 and 4 reactions occurring in 22.9% of patients. 2.1% of patients with the T315I mutation receiving asciminib permanently discontinued due to elevation of pancreatic enzymes, while asciminib was temporarily withheld in 16.7% of patients due to the adverse reaction.
+
+<div style=\"page-break-after: always\"></div>
 
 ## QT prolongation
 
@@ -355,21 +433,27 @@ Electrocardiogram QT prolongation occurred in 0.9% of patients receiving ascimin
 
 Hypertension occurred in 17.1% of patients receiving asciminib, with grade 3 and 4 reactions reported in 9% and 0.2% of patients, respectively. Among the patients with hypertension ≥ grade 3, the median time to first occurrence of reactions was 40.14 weeks (range: 0.14 to 365 weeks). Asciminib was temporarily withheld in 0.9% of patients due to the adverse reaction.
 
+Hypertension occurred in 14.6% of patients with the T315I mutation receiving asciminib, with grade 3 and 4 reactions reported in 8.3% of patients. Among the patients with hypertension ≥ grade 3, the median time to first occurrence of reactions was 32.64 weeks (range: 11.14 to 277.3 weeks), with median duration of any occurring reaction of 7.57 weeks (95% CI, range: 2.14 to NE weeks).
+
 ## Laboratory abnormalities
 
 In the ASCEMBL study, decrease in phosphate levels occurred as a laboratory abnormality in 17.9% (all grades) and 7.1% (grade 3/4) of 156 patients receiving asciminib at 40 mg twice daily. In the ASC4FIRST study, decrease in phosphate levels based on normal ranges occurred as a laboratory abnormality in 20.5% (all grades) of 200 patients receiving asciminib at 80 mg once daily.
 
+In the X2101 study, decrease in phosphate levels occurred as a laboratory abnormality in 47.9% (all grades) and 8.3% (grade 3/4) of 48 patients receiving asciminib at 200 mg twice daily.
+
+Increases in ALT, AST and bilirubin levels occurred as laboratory abnormalities in 50%, 37.5% and 25% (all grades) of 48 patients receiving asciminib at 200 mg twice daily, respectively. Among these patients, increased ALT ≥ grade 3 events and increased AST ≥ grade 3 events were reported in 8.3% and 2.1% of patients, respectively.
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
 In clinical studies, asciminib has been administered at doses up to 280 mg twice daily with no evidence of increased toxicity.
 
 General supportive measures and symptomatic treatment should be initiated in cases of suspected overdose.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -391,7 +475,7 @@ In mouse xenograft models of CML, asciminib dose-dependently inhibited the growt
 
 Asciminib treatment is associated with an exposure-related prolongation of the QT interval.
 
-The correlation between asciminib concentration and the estimated mean change from baseline of the QT interval with Fridericia's correction (ΔQTcF) was evaluated in 239 patients with Ph+ CML or Ph+ acute lymphoblastic leukaemia (ALL) receiving asciminib at doses ranging from 10 to 280 mg twice daily and 80 to 200 mg once daily. The estimated mean ΔQTcF was 3. 35 ms (upper bound of 90% CI: 4.43 ms) for the asciminib 40 mg twice-daily dose and 3.64 ms (upper bound of 90% CI: 4.68 ms) for the 80 mg once-daily dose. See section 4.4.
+The correlation between asciminib concentration and the estimated mean change from baseline of the QT interval with Fridericia's correction (ΔQTcF) was evaluated in 239 patients with Ph+ CML or Ph+ acute lymphoblastic leukaemia (ALL) receiving asciminib at doses ranging from 10 to 280 mg twice daily and 80 to 200 mg once daily. The estimated mean ΔQTcF was 3. 35 ms (upper bound of 90% CI: 4.43 ms) for the asciminib 40 mg twice-daily dose, 3.64 ms (upper bound of 90% CI: 4.68 ms) for the 80 mg once daily dose and 5.37 ms (upper bound of 90% CI: 6.77 ms) for the 200 mg twice-daily dose (see section 4.4).
 
 ## Clinical efficacy and safety
 
@@ -401,13 +485,13 @@ The clinical efficacy and safety of asciminib in the treatment of patients with 
 
 In this study, a total of 405 patients were randomised in a 1:1 ratio to receive either asciminib or investigator-selected tyrosine kinase inhibitors (IS TKIs). Prior to randomisation, the investigator selected the TKI (imatinib or second-generation [2G] TKI) to be used in the event of randomisation in the comparator arm, based on patient characteristics and comorbidities. Patients were stratified according to European Treatment and Outcome Study (EUTOS) long-term survival (ELTS) risk group (low, intermediate, high) and pre-randomisation selection of TKI (imatinib or 2G TKI stratum). Patients continued treatment until unacceptable toxicity or treatment failure occurred.
 
-<div style=\"page-break-after: always\"></div>
-
 Patients were 36.8% female and 63.2% male, with a median age of 51 years (range: 18 to 86 years). Of the 405 patients, 23.5% were aged 65 years or older, while 6.2% were aged 75 years or older. Patients were Caucasian (53.8%), Asian (44.4%), Black (1%) and 0.7% unknown. The demographic characteristics within the imatinib (N=203) and 2G TKI strata (N=202) were as follows:
 
 - Median age: 55 years and 43 years, respectively;
 - ELTS high-risk group: 8.4% and 13.9%, respectively;
 - Framingham group with high risk for cardiovascular disorders: 35.5% and 17.8%, respectively.
+
+<div style=\"page-break-after: always\"></div>
 
 The demographic characteristics were balanced across asciminib and IS TKIs, as well as across the two arms within the imatinib and 2G TKI strata.
 
@@ -420,8 +504,6 @@ The median duration of the randomised treatment was 26.6 months (range: 0.16 to 
 The study had multiple primary objectives assessing major molecular response (MMR) at 48 weeks. One primary objective evaluated asciminib compared to IS TKIs. The other primary objective evaluated asciminib compared to IS TKIs within the imatinib stratum. The key secondary objective evaluated MMR at 96 weeks for asciminib compared both to IS-TKIs and to IS-TKIs within the imatinib stratum. Secondary objectives evaluated MMR at 48 and 96 weeks for asciminib compared to IS TKIs within the 2G TKI stratum.
 
 The main efficacy outcomes from the ASC4FIRST study are summarised in Table 3.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 3 Efficacy results in newly diagnosed Ph+ CML-CP patients (ASC4FIRST)
 
@@ -437,7 +519,7 @@ Table 3 Efficacy results in newly diagnosed Ph+ CML-CP patients (ASC4FIRST)
 | Imatinib stratum (N=101)       | 76.24 (66.74, 84.14)           |                                            | 47.06 (37.10, 57.20)                       |                                            | 29.68 (17.57, 41.79)           | <0.001 4                       |
 | 2G TKIs stratum (N=100)        | 72 (62.13, 80.52)              |                                            |                                            | 56.86 (46.68, 66.63)                       | 15.14 (2.32, 27.95)            | Not formally tested            |
 
-Abbreviations: MMR, major molecular response (BCR::ABL1IS ≤0.1%); IS TKIs, investigator-selected tyrosine kinase inhibitors; 2G TKIs, second-generation tyrosine kinase inhibitors; PRS TKI, pre-randomisation selection of TKI.
+Abbreviations: MMR, major molecular response (BCR:: ABL1IS ≤0.1%); IS TKIs, investigator-selected tyrosine kinase inhibitors; 2G TKIs, second-generation tyrosine kinase inhibitors; PRS TKI, pre-randomisation selection of TKI.
 
 1 IS TKIs include imatinib (400 mg once daily) and 2G TKIs, i.e. nilotinib (300 mg twice daily), dasatinib (100 mg once daily) or bosutinib (400 mg once daily).
 
@@ -449,15 +531,17 @@ Abbreviations: MMR, major molecular response (BCR::ABL1IS ≤0.1%); IS TKIs, inv
 
 The median time to MMR in patients who received asciminib, IS TKIs, IS TKIs within the imatinib stratum and IS TKIs within the 2G TKI stratum was: 24.3 weeks (95% CI: 24.1 to 24.6 weeks), 36.4 weeks (95% CI: 36.1 to 48.6 weeks), 48.6 weeks (95% CI: 36 to 60.0 weeks) and 36.1 weeks (95% CI: 24.4 to 48.1 weeks), respectively.
 
+<div style=\"page-break-after: always\"></div>
+
 MMR rates at 96 weeks by ELTS risk group in patients receiving asciminib, IS TKIs, IS TKIs within the imatinib stratum, and IS TKIs within the 2G TKIs stratum were: 80.3%, 64.8%, 62.5% and 67.2% for low risk, respectively; 66.1%, 35.1%, 23.3% and 48.2% for intermediate risk, respectively; 60.9%, 22.7%, 12.5% and 28.6% for high risk, respectively.
 
 By 96 weeks, MR4.0 achieved by patients receiving asciminib, IS TKIs, IS TKIs within the imatinib stratum, and IS TKIs within the 2G TKIs stratum was: 52.7%, 34.3%, 28.4% and 40.2%, respectively. By 96 weeks, MR4.5 achieved by patients receiving asciminib, IS TKIs, IS TKIs within the imatinib stratum and IS TKIs within 2G TKIs stratum was: 36.3%, 21.6%, 15.7% and 27.5%, respectively.
 
 The hazard ratio of time to discontinuation of study treatment due to adverse events (TTDAE) for patients receiving asciminib versus 2G TKIs and asciminib versus imatinib is 0.46 (95% CI: 0.215, 0.997) and 0.38 (95% CI: 0.178, 0.818), respectively. The probability of discontinuation due to AEs during the first 24 months of treatment was 5.5% (95% CI: 2.9, 9.3), 13.1% (95% CI: 7.4, 20.6) and 12.7% (95% CI: 7.1, 20) for patients receiving asciminib, imatinib and 2G TKIs, respectively.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ph+ CML-CP previously treated with two or more TKIs
+
+## ASCEMBL
 
 The clinical efficacy and safety of asciminib in the treatment of patients with Ph+ CML-CP with treatment failure or intolerance to two or more tyrosine kinase inhibitors were evaluated in the multicentre, randomised, active-controlled and open-label phase III study ASCEMBL. Resistance to last TKI was defined as any of the following: failure to achieve either haematological or cytogenetic response at 3 months; BCR::ABL1 (on the International Scale, IS) &gt;10% at 6 months or thereafter; &gt;65% Ph+ metaphases at 6 months or &gt;35% at 12 months or thereafter; loss of complete haematological response (CHR), partial cytogenetic response (PCyR), complete cytogenetic response (CCyR) or major molecular response (MMR) at any time; new BCR::ABL1 mutations which potentially cause resistance to study medicinal product or clonal evolution in Ph+ metaphases at any time. Intolerance to last TKI was defined as non-haematological toxicities unresponsive to optimal management, or as haematological toxicities recurring after dose reduction to the lowest recommended dose.
 
@@ -472,6 +556,8 @@ The median duration of the randomised treatment was 156 weeks (range: 0.1 to 256
 The primary endpoint of the study was MMR rate at 24 weeks and the key secondary endpoint was MMR rate at 96 weeks. MMR is defined as BCR::ABL1 IS ratio ≤0.1%. Other secondary endpoints were CCyR rate at 24 and 96 weeks, defined as no Philadelphia-positive metaphases in bone marrow with a minimum of 20 metaphases examined.
 
 The main efficacy outcomes from the ASCEMBL study are summarised in Table 4.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 4 Efficacy results in Ph+ CML-CP patients previously treated with two or more tyrosine kinase inhibitors (ASCEMBL)
 
@@ -488,25 +574,34 @@ Table 4 Efficacy results in Ph+ CML-CP patients previously treated with two or m
 
 3 CCyR analysis based on patients who were not in CCyR at baseline
 
-<div style=\"page-break-after: always\"></div>
-
 The primary and key secondary endpoints were the only ones formally tested for statistical significance according to protocol.
 
 In ASCEMBL, 12.7% of patients treated with asciminib and 13.2% of patients receiving bosutinib had one or more BCR::ABL1 mutations detected at baseline. MMR at 24 weeks was observed in 35.3% and 24.8% of patients receiving asciminib with or without any BCR::ABL1 mutation at baseline, respectively. MMR at 24 weeks was observed in 25% and 11.1% of patients receiving bosutinib with or without any mutation at baseline, respectively. The MMR rate at 24 weeks in patients in whom the randomised treatment represented the third, fourth, or fifth or more line of TKI was 29.3%, 25%, and 16.1% in patients treated with asciminib and 20%, 13.8%, and 0% in patients receiving bosutinib, respectively.
 
 The Kaplan-Meier estimated proportion of patients receiving asciminib and maintaining MMR for at least 120 weeks was 97% (95% CI: 88.6, 99.2).
 
-## Evaluation of the 80 mg once-daily and 40 mg twice-daily regimens in Ph+ CML-CP previously treated with two or more TKIs in study A2302 (ASC4OPT)
+## ASC4OPT
 
 The clinical efficacy and safety of asciminib 40 mg twice daily and 80 mg once daily in patients with Ph+ CML-CP previously treated with two or more TKIs were evaluated in a multicentre, open-label phase III, treatment optimisation study A2302 (ASC4OPT). In this study 169 patients were randomised 1:1 to either 40 mg twice daily (n=85) or 80 mg once daily (n=84). The primary objective was to estimate overall MMR of asciminib at 48 weeks. Results are shown in Table 5.
 
 Table 5 Efficacy results in Ph+ CML-CP patients previously treated with two or more tyrosine kinase inhibitors (ASC4OPT)
 
-|                   | Asciminib 40 mg twice daily and 80 mg once daily                   | Asciminib 40 mg twice daily                                        | Asciminib 80 mg once daily   | Difference (95%CI) 2   | p-value      |
-|-------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------|------------------------|--------------|
-| MMRrate, %(95%    | N=169 38.46                                                        | N=85 42.35                                                         | N=84 34.52                   | -7.83                  | Not formally |
-| CI) 1 at 48 weeks | (31.09, 46.24)                                                     | (31.70, 53.55)                                                     | (24.48, 45.69)               | (-22.45, 6.79)         | tested       |
-| 1 2               | Clopper-Pearson 95% CI for response rates Unstratified Wald 95% CI | Clopper-Pearson 95% CI for response rates Unstratified Wald 95% CI |                              |                        |              |
+|                   | Asciminib 40 mg twice daily and 80 mg once daily   | Asciminib 40 mg twice daily   | Asciminib 80 mg once daily   | Difference (95%CI) 2   | p-value      |
+|-------------------|----------------------------------------------------|-------------------------------|------------------------------|------------------------|--------------|
+| MMRrate, %(95%    | N=169 38.46                                        | N=85 42.35                    | N=84 34.52                   | -7.83                  | Not formally |
+| CI) 1 at 48 weeks | (31.09, 46.24)                                     | (31.70, 53.55)                | (24.48, 45.69)               | (-22.45, 6.79)         | tested       |
+
+<div style=\"page-break-after: always\"></div>
+
+Ph+ CML-CP with the T315I mutation in patients resistant to, intolerant to or ineligible for ponatinib The clinical efficacy and safety of asciminib in the treatment of patients with Ph+ CML-CP with the T315I mutation were assessed in the first-in-human, multicentre, open-label phase I study X2101.
+
+This study included patients with Ph+ CML-CP with the T315I mutation who received asciminib at different doses. Patients (N=48) with Ph+ CML-CP with the T315I mutation received asciminib at a dose of 200 mg twice daily. Of these 48 patients, 29 were previously treated with ponatinib and 19 were ponatinib-naive. Patients continued treatment until unacceptable toxicity or treatment failure occurred.
+
+Patients with Ph+ CML-CP with the T315I mutation who received asciminib at a dose of 200 mg twice daily (N=48) were 77.1% male and 22.9% female, with median age 57 years (range: 26 to 86 years). Of these 48 patients, 33.3% were 65 years or older, while 8.3% were 75 years or older. Patients were Caucasian (47.9%), Asian (25%) and Black (2.1%). Seventy-five percent and 25% had ECOG performance status 0 or 1, respectively. Patients who had previously received 1, 2, 3, 4 and 5 or more prior lines of TKIs were 16.7%, 31.3%, 35.4%, 14.6% and 2.1%, respectively. The median duration of treatment was 181.7 weeks (range: 2 to 312 weeks).
+
+## Results
+
+Major molecular response (MMR) is defined as BCR::ABL1 IS ratio ≤0.1%. The MMR rate of the evaluable patients (N=45) treated with asciminib by week 24 was 30.8% (90% CI: 16.3%, 48.7%) for the patients previously treated with ponatinib (N=26). MMR by 96 weeks was achieved in 34.6% of the patients previously treated with ponatinib.
 
 ## Paediatric population
 
@@ -516,15 +611,15 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Absorption
 
-Asciminib is rapidly absorbed, with median maximum plasma level (Tmax) reached 2 to 3 hours after oral administration, independent of the dose. The geometric mean (geoCV%) of Cmax, AUCtau and Cmin at steady state is 793 ng/ml (49%), 5 262 ng*h/ml (48%) and 263 ng/ml (68%), respectively, following administration of asciminib at the 40 mg twice-daily dose. The geometric mean (geoCV%) of Cmax, AUCtau and Cmin at steady state is 1 781 ng/ml (23%), 15 112 ng*h/ml (28%) and 193 ng/ml (40%), respectively, following administration of asciminib at 80 mg once-daily dose. PBPK models predict that asciminib absorption is approximately 100%, while bioavailability is approximately 73%.
-
-<div style=\"page-break-after: always\"></div>
+Asciminib is rapidly absorbed, with median maximum plasma level (Tmax) reached 2 to 3 hours after oral administration, independent of the dose. The geometric mean (geoCV%) of Cmax, AUCtau and Cmin at steady state is 793 ng/ml (49%), 5 262 ng*h/ml (48%) and 263 ng/ml (68%), respectively, following administration of asciminib at the 40 mg twice-daily dose. The geometric mean (geoCV%) of Cmax, AUCtau and Cmin at steady state is 1 781 ng/ml (23%), 15 112 ng*h/ml (28%) and 193 ng/ml (40%), respectively, following administration of asciminib at 80 mg once-daily dose. The geometric mean (geoCV%) of Cmax, AUCtau and Cmin at steady state is 5 642 ng/ml (40%), 37 547 ng*h/ml (41%) and 2 715 ng/ml (58%), respectively, following administration of asciminib at the 200 mg twice-daily dose. PBPK models predict that asciminib absorption is approximately 100%, while bioavailability is approximately 73%.
 
 Asciminib bioavailability may be reduced by co-administration of oral medicinal products containing hydroxypropylβ -cyclodextrin as an excipient. Co-administration of multiple doses of an itraconazole oral solution containing hydroxypropylβ -cyclodextrin at a total of 8 g per dose with a 40 mg dose of asciminib decreased asciminib AUCinf by 40.2% in healthy subjects.
 
 ## Food effect
 
 Food consumption decreases asciminib bioavailability, with a high-fat meal having a higher impact on asciminib pharmacokinetics than a low-fat meal. Asciminib AUC is decreased by 62.3% with a highfat meal and by 30% with a low-fat meal compared to the fasted state (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
@@ -556,17 +651,17 @@ Based on exposure-response modelling from study A2302 (ASC4OPT) in patients with
 
 Asciminib is metabolised by several pathways, including the CYP3A4, UGT2B7 and UGT2B17 enzymes, and biliary secreted by the transporter BCRP. Medicinal products inhibiting or inducing the CYP3A4, UGT and/or BCRP pathways may alter asciminib exposure.
 
-<div style=\"page-break-after: always\"></div>
-
 ## CYP450 and UGT enzymes
 
-In vitro , asciminib reversibly inhibits CYP3A4/5, CYP2C9 and UGT1A1 at plasma concentrations reached at a 40 mg twice-daily dose. Asciminib may increase the exposure of medicinal products which are substrates of CYP3A4/5 and CYP2C9 (see section 4.5).
+In vitro , asciminib reversibly inhibits CYP3A4/5, CYP2C9 and UGT1A1 at plasma concentrations reached at a 40 mg twice-daily dose. Asciminib may increase the exposure of medicinal products which are substrates of CYP3A4/5 and CYP2C9 (see section 4.5). In addition, asciminib reversibly inhibits CYP2C8 and CYP2C19 at plasma concentrations reached at a 200 mg twice-daily dose.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Transporters
 
 Asciminib is a substrate of BCRP and P-gp.
 
-Asciminib inhibits BCRP, P-gp and OATP1B with Ki values of 24, 22 and 2 micromolar, respectively. Based on PBPK models, asciminib may increase the exposure of medicinal products which are substrates of P-gp and BCRP transporters.
+Asciminib inhibits BCRP, P-gp, OATP1B and OCT1 with Ki values of 24, 22, 2 and 3 micromolar, respectively. Based on PBPK models, asciminib may increase the exposure of medicinal products which are substrates of P-gp and BCRP transporters. The clinical relevance of the interaction with OCT1 is currently unknown at an asciminib 200 mg twice-daily dose.
 
 ## Special populations
 
@@ -576,37 +671,37 @@ Asciminib systemic exposure is not affected by gender, race or body weight to an
 
 ## Renal impairment
 
-A dedicated renal impairment study including 6 subjects with normal renal function (absolute glomerular filtration rate [aGFR] ≥90 ml/min) and 8 subjects with severe renal impairment not requiring dialysis (aGFR 15 to &lt;30 ml/min) has been conducted. Asciminib AUCinf and Cmax were increased by 56% and 8%, respectively, in subjects with severe renal impairment compared to subjects with normal renal function, following oral administration of a single 40 mg dose of asciminib (see section 4.2). Population pharmacokinetic models indicate an increase in asciminib median steady-state AUC0-24h by 11.5% in subjects with mild to moderate renal impairment, compared to subjects with normal renal function.
+A dedicated renal impairment study including 6 subjects with normal renal function (absolute glomerular filtration rate [aGFR] ≥90 ml/min) and 8 subjects with severe renal impairment not requiring dialysis (aGFR 15 to &lt;30 ml/min) has been conducted. Asciminib AUCinf and Cmax were increased by 56% and 8%, respectively, in subjects with severe renal impairment compared to subjects with normal renal function, following oral administration of a single 40 mg dose of asciminib (see sections 4.2 and 4.4). Population pharmacokinetic models indicate an increase in asciminib median steady-state AUC0-24h by 11.5% in subjects with mild to moderate renal impairment, compared to subjects with normal renal function.
 
 ## Hepatic impairment
 
-A dedicated hepatic impairment study including 8 subjects each with normal hepatic function, mild hepatic impairment (Child-Pugh A score 5-6), moderate hepatic impairment (Child-Pugh B score 7-9) or severe hepatic impairment (Child-Pugh C score 10-15) was conducted. Asciminib AUCinf was increased by 22%, 3% and 66% in subjects with mild, moderate and severe hepatic impairment, respectively, compared to subjects with normal hepatic function, following oral administration of a single 40 mg dose of asciminib (see section 4.2).
+A dedicated hepatic impairment study including 8 subjects each with normal hepatic function, mild hepatic impairment (Child-Pugh A score 5-6), moderate hepatic impairment (Child-Pugh B score 7-9) or severe hepatic impairment (Child-Pugh C score 10-15) was conducted. Asciminib AUCinf was increased by 22%, 3% and 66% in subjects with mild, moderate and severe hepatic impairment, respectively, compared to subjects with normal hepatic function, following oral administration of a single 40 mg dose of asciminib (see sections 4.2 and 4.4).
 
 ## 5.3 Preclinical safety data
 
 ## Safety pharmacology
 
-Moderate cardiovascular effects (increased heart rate, decreased systolic pressure, decreased mean arterial pressure, and decreased arterial pulse pressure) were observed in in vivo cardiac safety studies in dogs, likely at AUC exposures 12- and 8-fold higher than those achieved in patients at the recommended dose (RD) of 40 mg twice daily and 80 mg once daily, respectively.
+Moderate cardiovascular effects (increased heart rate, decreased systolic pressure, decreased mean arterial pressure, and decreased arterial pulse pressure) were observed in in vivo cardiac safety studies in dogs, likely at AUC exposures 12-fold, 8-fold or 1.7-fold higher than those achieved in patients at the recommended dose (RD) of 40 mg twice daily, 80 mg once daily or 200 mg twice daily, respectively.
 
 ## Repeat dose toxicity
 
-Pancreatic effects (serum amylase and lipase increases, acinar cell lesions) occurred in dogs at AUC exposures below those achieved in patients at the RD of 40 mg twice daily or 80 mg once daily. A trend towards recovery was observed.
+Pancreatic effects (serum amylase and lipase increases, acinar cell lesions) occurred in dogs at AUC exposures below those achieved in patients at the RD of 40 mg twice daily, 80 mg once daily or 200 mg twice daily. A trend towards recovery was observed.
+
+Elevations in liver enzymes and/or bilirubin were observed in rats, dogs and monkeys. Histopathological hepatic changes (centrilobular hepatocyte hypertrophy, slight bile duct hyperplasia, increased individual hepatocyte necrosis and diffuse hepatocellular hypertrophy) were seen in rats and monkeys. These changes occurred at AUC exposures either equivalent to (rats) or 8- to 18-fold (dogs and monkeys) higher than those achieved in patients at the RD of 40 mg twice daily or 80 mg once daily. AUC exposures were below (rats), equivalent to (dogs) or approximately 2-fold higher than (monkeys) those achieved in patients at the RD of 200 mg twice daily. These changes were fully reversible.
 
 <div style=\"page-break-after: always\"></div>
 
-Elevations in liver enzymes and/or bilirubin were observed in rats, dogs and monkeys. Histopathological hepatic changes (centrilobular hepatocyte hypertrophy, slight bile duct hyperplasia, increased individual hepatocyte necrosis and diffuse hepatocellular hypertrophy) were seen in rats and monkeys. These changes occurred at AUC exposures either equivalent to (rats) or 8- to 18-fold (dogs and monkeys) higher than those achieved in patients at the RD of 40 mg twice daily or 80 mg once daily. These changes were fully reversible.
+Effects on the haematopoietic system (reduction in red blood cell mass, increased splenic or bone marrow pigment and increased reticulocytes) were consistent with a mild and regenerative, extravascular, haemolytic anaemia in all species. These changes occurred at AUC exposures either equivalent to (rats) or 8- to 14-fold (dogs and monkeys) higher than those achieved in patients at the RD of 40 mg twice daily or 80 mg once daily. AUC exposures were below (rats), equivalent to (dogs) or approximately 2-fold higher than (monkeys) those achieved in patients at the RD of 200 mg twice daily. These changes were fully reversible.
 
-Effects on the haematopoietic system (reduction in red blood cell mass, increased splenic or bone marrow pigment and increased reticulocytes) were consistent with a mild and regenerative, extravascular, haemolytic anaemia in all species. These changes occurred at AUC exposures either equivalent to (rats) or 8- to 14-fold (dogs and monkeys) higher than those achieved in patients at the RD of 40 mg twice daily or 80 mg once daily. These changes were fully reversible.
+Minimal mucosal hypertrophy/hyperplasia (increase in thickness of the mucosa with frequent elongation of villi) was present in the duodenum of rats at AUC exposures 30- or 22-fold higher than those achieved in patients at the RD of 40 mg twice daily or 80 mg once daily, respectively. AUC exposures were 4-fold higher than those achieved in patients at the RD of 200 mg twice daily. This change was fully reversible.
 
-Minimal mucosal hypertrophy/hyperplasia (increase in thickness of the mucosa with frequent elongation of villi) was present in the duodenum of rats at AUC exposures 30- or 22-fold higher than those achieved in patients at the RD of 40 mg twice daily or 80 mg once daily, respectively. This change was fully reversible.
-
-Minimal or slight hypertrophy of the adrenal gland and mild to moderate decreased vacuolation in the zona fasciculata occurred at AUC exposures either equivalent to (monkeys) or 19-fold higher than (rats) those achieved in patients at the RD of 40 mg twice daily or at AUC exposures either equivalent to (monkeys) or 13-fold higher than (rats) those at the RD of 80 mg once daily. These changes were fully reversible.
+Minimal or slight hypertrophy of the adrenal gland and mild to moderate decreased vacuolation in the zona fasciculata occurred at AUC exposures either equivalent to (monkeys) or 19-fold higher than (rats) those achieved in patients at the RD of 40 mg twice daily or at AUC exposures either equivalent to (monkeys) or 13-fold higher than (rats) those at the RD of 80 mg once daily. AUC exposures were below (monkeys) or 2-fold higher than (rats) those achieved in patients at the RD of 200 mg twice daily. These changes were fully reversible.
 
 ## Carcinogenicity and mutagenicity
 
 Asciminib did not have mutagenic, clastogenic or aneugenic potential either in vitro nor in vivo .
 
-In a 2-year rat carcinogenicity study, non-neoplastic proliferative changes consisting of ovarian Sertoli cell hyperplasia were observed in female animals at doses equal to or above 30 mg/kg/day. Benign Sertoli cell tumours in the ovaries were observed in female rats at the highest dose of 66 mg/kg/day. AUC exposures to asciminib in female rats at 66 mg/kg/day were generally 8- or 5-fold higher than those achieved in patients at the dose of 40 mg twice daily, or 80 mg once daily, respectively.
+In a 2-year rat carcinogenicity study, non-neoplastic proliferative changes consisting of ovarian Sertoli cell hyperplasia were observed in female animals at doses equal to or above 30 mg/kg/day. Benign Sertoli cell tumours in the ovaries were observed in female rats at the highest dose of 66 mg/kg/day. AUC exposures to asciminib in female rats at 66 mg/kg/day were generally 8- or 5-fold higher than those achieved in patients at the RD of 40 mg twice daily, or 80 mg once daily, respectively, and equivalent to those achieved in patients at the RD of 200 mg twice daily.
 
 The clinical relevance of these findings is currently unknown.
 
@@ -614,9 +709,9 @@ The clinical relevance of these findings is currently unknown.
 
 Animal reproduction studies in pregnant rats and rabbits demonstrated that oral administration of asciminib during organogenesis induced embryotoxicity, foetotoxicity and teratogenicity.
 
-In embryo-foetal development studies, a slight increase in foetal malformations (anasarca and cardiac malformations) and increased visceral and skeletal variants were observed in rats. Increased incidence of resorptions indicative of embryo-foetal mortality and a low incidence of cardiac malformations indicative of teratogenicity were observed in rabbits. In rats, at the foetal no observed adverse effect level (NOAEL) of 25 mg/kg/day, the AUC exposures were equivalent to or below those achieved in patients at the RD of 40 mg twice daily or 80 mg once daily, respectively. In rabbits, at the foetal NOAEL of 15 mg/kg/day, the AUC exposures were equivalent to or below those achieved in patients at the RD of 40 mg twice daily or 80 mg once daily, respectively.
+In embryo-foetal development studies, a slight increase in foetal malformations (anasarca and cardiac malformations) and increased visceral and skeletal variants were observed in rats. Increased incidence of resorptions indicative of embryo-foetal mortality and a low incidence of cardiac malformations indicative of teratogenicity were observed in rabbits. In rats, at the foetal no observed adverse effect level (NOAEL) of 25 mg/kg/day, the AUC exposures were equivalent to or below those achieved in patients at the RD of 40 mg twice daily or 80 mg once daily, respectively, and below those achieved in patients at the RD of 200 mg twice daily. In rabbits, at the foetal NOAEL of 15 mg/kg/day, the AUC exposures were equivalent to or below those achieved in patients at the RD of 40 mg twice daily or 80 mg once daily, respectively, and below those achieved in patients at the RD of 200 mg twice daily.
 
-In the rat fertility study, asciminib did not affect reproductive function in male and female rats. A slight effect on male sperm motility and sperm count was observed at doses of 200 mg/kg/day, likely at AUC exposures 19- or 13-fold higher than those achieved in patients at the RD of 40 mg twice daily or 80 mg once daily, respectively.
+In the rat fertility study, asciminib did not affect reproductive function in male and female rats. A slight effect on male sperm motility and sperm count was observed at doses of 200 mg/kg/day, likely at AUC exposures 19-, 13- or 2-fold higher than those achieved in patients at the RD of 40 mg twice daily, 80 mg once daily or 200 mg twice daily, respectively.
 
 A pre- and postnatal developmental toxicity study was not performed.
 
@@ -624,13 +719,13 @@ A pre- and postnatal developmental toxicity study was not performed.
 
 ## Phototoxicity
 
-In mice, asciminib showed dose-dependent phototoxic effects starting at 200 mg/kg/day. At the NOAEL of 60 mg/kg/day, exposure based on Cmax in plasma was 15- or 6-fold higher than the exposure in patients at the RD of 40 mg twice daily or 80 mg once daily, respectively.
+In mice, asciminib showed dose-dependent phototoxic effects starting at 200 mg/kg/day. At the NOAEL of 60 mg/kg/day, exposure based on Cmax in plasma was 15-, 6- or 2-fold higher than the exposure in patients at the RD of 40 mg twice daily, 80 mg once daily or 200 mg twice daily, respectively.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Scemblix 20 mg and 40 mg film-coated tablets
+## Scemblix 20 mg, 40 mg and 100 mg film-coated tablets
 
 Lactose monohydrate Microcrystalline cellulose (E460i) Hydroxypropylcellulose (E463) Croscarmellose sodium (E468) Polyvinyl alcohol (E1203) Titanium dioxide (E171) Magnesium stearate Talc (E553b) Colloidal silicon dioxide Lecithin (E322) Xanthan gum (E415) Iron oxide red (E172)
 
@@ -638,7 +733,7 @@ Scemblix 20 mg film-coated tablets only
 
 Iron oxide yellow (E172)
 
-Scemblix 40 mg film-coated tablets only
+Scemblix 40 mg and 100 mg film-coated tablets only
 
 Iron oxide black (E172)
 
@@ -648,7 +743,13 @@ Not applicable.
 
 ## 6.3 Shelf life
 
+Scemblix 20 mg and 40 mg film-coated tablets
+
 3 years.
+
+Scemblix 100 mg film-coated tablets
+
+2 years.
 
 ## 6.4 Special precautions for storage
 
@@ -660,11 +761,21 @@ Store in the original package in order to protect from moisture.
 
 ## 6.5 Nature and contents of container
 
-Scemblix is supplied in PCTFE/PVC/Alu blisters containing 10 film-coated tablets.
+Scemblix is supplied in PCTFE/PVC/alu (20 mg and 40 mg film-coated tablets) or PA/alu/PVC/alu (100 mg film-coated tablets) blisters containing 10 film-coated tablets.
 
-The following pack sizes are available: Packs containing 20 or 60 film-coated tablets.
+The following pack sizes are available:
 
-Scemblix 40 mg film-coated tablets are also available in multipacks containing 180 (3 packs of 60) film-coated tablets.
+Scemblix 20 mg film-coated tablets
+
+Packs containing 20 or 60 film-coated tablets.
+
+Scemblix 40 mg film-coated tablets
+
+Packs containing 20 or 60 film-coated tablets. Multipacks containing 180 (3 packs of 60) film-coated tablets.
+
+Scemblix 100 mg film-coated tablets
+
+Packs containing 60 or 120 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
@@ -674,13 +785,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/22/1670/001-005
+EU/1/22/1670/001-007
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -709,7 +818,7 @@ Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
-Novartis Pharmaceutical Manufacturing LLC Verov š kova Ulica 57 1000 Ljubljana Slovenia
+Novartis Pharmaceutical Manufacturing LLC Verovškova Ulica 57 1000 Ljubljana Slovenia
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -729,12 +838,12 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
-<div style=\"page-break-after: always\"></div>
-
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
+<div style=\"page-break-after: always\"></div>
 
 ## · Obligation to conduct post-authorisation measures
 
@@ -775,9 +884,9 @@ Contains lactose. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablet
+Film-coated tablet
 
-- 20 film-coated tablets
+20 film-coated tablets
 
 60 film-coated tablets
 
@@ -825,15 +934,13 @@ EU/1/22/1670/002
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Scemblix 20 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included
 
@@ -847,17 +954,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Scemblix 20 mg tablets asciminib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Novartis Europharm Limited
 
@@ -944,15 +1051,13 @@ EU/1/22/1670/004
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Scemblix 40 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included
 
@@ -1026,7 +1131,7 @@ EU/1/22/1670/005
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1096,11 +1201,10 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
@@ -1112,9 +1216,7 @@ EU/1/22/1670/005 180 (3 x 60) film-coated tablets of 40 mg
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 | 16.   | INFORMATION IN BRAILLE   |
@@ -1122,24 +1224,141 @@ Lot
 
 Scemblix 40 mg
 
-17. UNIQUE IDENTIFIER -2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Scemblix 40 mg tablets asciminib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+Novartis Europharm Limited
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Scemblix 100 mg film-coated tablets asciminib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each film-coated tablet contains asciminib hydrochloride, equivalent to 100 mg asciminib.
+
+## 3. LIST OF EXCIPIENTS
+
+Contains lactose. See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Film-coated tablet
+
+60 film-coated tablets
+
+120 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Do not store above 25°C.
+
+Store in the original package in order to protect from moisture.
+
+<div style=\"page-break-after: always\"></div>
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/22/1670/006
+
+60 film-coated tablets of 100 mg
+
+EU/1/22/1670/007
+
+120 film-coated tablets of 100 mg
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
+Scemblix 100 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+Scemblix 100 mg tablets asciminib
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Novartis Europharm Limited
 
@@ -1162,11 +1381,13 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
 ## Package leaflet: Information for the patient
 
-## Scemblix 20 mg film-coated tablets Scemblix 40 mg film-coated tablets
+Scemblix 20 mg film-coated tablets Scemblix 40 mg film-coated tablets Scemblix 100 mg film-coated tablets
 
-asciminib
+## asciminib
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -1196,6 +1417,8 @@ Scemblix contains the active substance asciminib, which belongs to a group of me
 
 Scemblix is a cancer medicine used to treat adults with a type of blood cancer (leukaemia) called Philadelphia chromosome-positive chronic myeloid leukaemia in chronic phase (Ph+ CML-CP).
 
+Scemblix is also used to treat adults with Ph+ CML-CP who have developed a certain genetic difference (mutation) called T315I and who are not benefiting from or could not be given a medicine called ponatinib.
+
 ## How Scemblix works
 
 In Ph+ CML, the body produces large numbers of abnormal white blood cells. Scemblix blocks the action of a protein (BCR::ABL1) that is produced by these abnormal white blood cells and stops their division and growth.
@@ -1216,6 +1439,8 @@ Talk to your doctor or pharmacist before taking Scemblix if any of the following
 
 - -if you have or have ever had severe upper stomach pain that could be due to problems with your pancreas (inflamed pancreas, pancreatitis).
 - -if you have ever had or might now have a hepatitis B infection. This is because Scemblix could cause hepatitis B to become active again. You will be carefully checked by your doctor for signs of this infection before treatment is started.
+- -if you have severe kidney problems.
+- -if you have severe liver problems.
 
 ## Tell your doctor or pharmacist immediately if you get any of the following during treatment with Scemblix:
 
@@ -1223,7 +1448,7 @@ Talk to your doctor or pharmacist before taking Scemblix if any of the following
 - -if blood tests show that you have high levels of enzymes called lipase and amylase (signs of damage to the pancreas, also known as pancreatic toxicity).
 - -if you have a heart disorder or a heart rhythm disorder, such as an irregular heartbeat or an abnormal electrical activity of the heart called QT interval prolongation that can be seen on an electrocardiogram (ECG).
 - -if blood tests show that you have a low level of potassium or magnesium (hypokalaemia or hypomagnesaemia).
-- -if you are being treated with medicines that may have an unwanted effect on the function of the heart ( torsades de pointes ) (see 'Other medicines and Scemblix ') .
+- -if you are being treated with medicines that may have an unwanted effect on the function of the heart ( torsades de pointes ) (see 'Other medicines and Scemblix').
 - -if you experience headache, dizziness, chest pain or shortness of breath (possible signs of high blood pressure, also known as hypertension).
 
 ## Monitoring during your treatment with Scemblix
@@ -1243,15 +1468,18 @@ Do not give this medicine to children or adolescents aged under 18 years.
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. In particular, tell your doctor or pharmacist if you are using:
 
+- -medicines used to treat bacterial infections, such as clarithromycin, telithromycin or troleandomycin.
+- -medicines used to treat fungal infections, such as itraconazole, ketoconazole or voriconazole.
+- -medicines used to treat human immunodeficiency virus (HIV), such as ritonavir, indinavir, nelfinavir or saquinavir.
 - -medicines usually used to treat seizures (fits), such as carbamazepine, phenobarbital or phenytoin.
 - -medicines used to treat pain and/or as sedatives before or during medical or surgical procedures, such as alfentanil or fentanyl.
+
+<div style=\"page-break-after: always\"></div>
+
 - -medicines used to treat migraine or dementia, such as dihydroergotamine or ergotamine.
 - -medicines that may have an unwanted effect on the electrical activity of the heart ( torsades de pointes ), such as bepridil, chloroquine, clarithromycin, halofantrine, haloperidol, methadone, moxifloxacin or pimozide.
 - -medicines used to reduce the blood's ability to clot, such as warfarin or dabigatran.
 - -medicines used to treat severe inflammation of the bowel or severe rheumatic or painful joint inflammation, such as sulfasalazine or colchicine.
-
-<div style=\"page-break-after: always\"></div>
-
 - -medicines used to treat cancer, severe rheumatic joint inflammation or psoriasis, such as methotrexate.
 - -rosuvastatin, a medicine used to reduce blood cholesterol levels.
 - -medicines used to treat high blood pressure and other heart conditions, such as digoxin.
@@ -1263,7 +1491,7 @@ Ask your doctor or pharmacist if you are not sure whether your medicine is one o
 
 ## Scemblix with food and drink
 
-Do not take this medicine with food. Take it at least 2 hours after and 1 hour before any food. For more information, see 'When to take Scemblix ' in section 3.
+Do not take this medicine with food. Take it at least 2 hours after and 1 hour before any food. For more information, see 'When to take Scemblix' in section 3.
 
 ## Pregnancy and breast-feeding
 
@@ -1289,13 +1517,13 @@ It is not known if Scemblix passes into breast milk. Therefore, you should disco
 
 This medicine has no or negligible influence on the ability to drive and use machines. If you experience side effects (such as dizziness or visual disorders) with a potential impact on the ability to safely drive or use any tools or machines after taking this medicine, you should refrain from these activities until the effect has disappeared.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Scemblix contains lactose and sodium
 
 If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
 
-This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
-
-<div style=\"page-break-after: always\"></div>
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodiumfree'.
 
 ## 3. How to take Scemblix
 
@@ -1307,10 +1535,20 @@ Your doctor will tell you exactly how many tablets you should take per day, and 
 
 Depending on how you respond to treatment and on possible side effects, your doctor may ask you to change to a lower dose or to temporarily or permanently stop the treatment.
 
+## Ph+ CML-CP
+
 The recommended total daily dose of Scemblix is 80 mg. You may take your daily dose:
 
 - Once daily: Take 2 tablets at approximately the same time each day, OR
 - Twice daily: Take 1 tablet, then take another one approximately 12 hours later.
+
+## Ph+ CML-CP with the T315I mutation in patients who are not benefiting from or could not be given a medicine called ponatinib
+
+The recommended dose of Scemblix is 200 mg twice per day. Take 1 dose, then take another one approximately 12 hours later.
+
+Your doctor may monitor you more closely when taking the 200 mg twice-daily dose since possible side effects may occur more frequently than with the 80 mg total daily dose.
+
+Use of the 100 mg film-coated tablets is restricted to patients with Ph+ CML-CP with the T315I mutation.
 
 ## When to take Scemblix
 
@@ -1335,6 +1573,8 @@ If you have questions about how long to take this medicine, talk to your doctor 
 
 If you have taken more tablets than you should have, or if someone else accidentally takes your medicine, contact a doctor for advice straight away. Show them the pack. Medical treatment may be necessary.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you forget to take Scemblix
 
 If you take Scemblix once daily:
@@ -1355,8 +1595,6 @@ Do not stop taking this medicine unless your doctor tells you to.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
@@ -1365,7 +1603,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 If you experience any serious side effects, stop taking this medicine and tell your doctor immediately.
 
-## Very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
 - -spontaneous bleeding or bruising (signs of low level of platelets, thrombocytopenia)
 - -fever, sore throat, frequent infections (signs of low level of white blood cells, neutropenia)
@@ -1399,7 +1637,9 @@ Other side effects include the following listed below. If these side effects bec
 - -joint pain (arthralgia)
 - -tiredness (fatigue)
 
-## Common (may affect up to 1 in every 10 people)
+<div style=\"page-break-after: always\"></div>
+
+Common (may affect up to 1 in every 10 people)
 
 - -fever, coughing, difficulty breathing, wheezing (signs of lower respiratory tract infections)
 - -influenza
@@ -1416,8 +1656,6 @@ Other side effects include the following listed below. If these side effects bec
 - -generalised swelling (oedema)
 - -fever (pyrexia)
 
-<div style=\"page-break-after: always\"></div>
-
 Uncommon (may affect up to 1 in every 100 people)
 
 - -allergic reaction which may include rash, hives, difficulty breathing or low blood pressure (hypersensitivity)
@@ -1432,7 +1670,7 @@ Very common (may affect more than 1 in 10 people)
 - -high level of the enzymes lipase and amylase (pancreas function)
 - -high level of the enzymes transaminases, which include alanine aminotransferase (ALT), aspartate aminotransferase (AST) and gamma-glutamyltransferase (GGT) (liver function)
 
-## Common (may affect up to 1 in every 10 people)
+Common (may affect up to 1 in every 10 people)
 
 - -high level of the substance bilirubin (liver function)
 - -high level of the enzyme creatine phosphokinase (muscle function)
@@ -1452,25 +1690,21 @@ Do not store above 25°C.
 
 Store in the original package in order to protect from moisture.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not use this medicine if you notice any damage to the packaging or if there are any signs of tampering.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
 ## What Scemblix contains
 
-- -The active substance is asciminib.
+-The active substance is asciminib. Each 20 mg film-coated tablet contains asciminib hydrochloride, equivalent to 20 mg asciminib. Each 40 mg film-coated tablet contains asciminib hydrochloride, equivalent to 40 mg asciminib. Each 100 mg film-coated tablet contains asciminib hydrochloride, equivalent to 100 mg asciminib.
 
-Each 20 mg film-coated tablet contains asciminib hydrochloride, equivalent to 20 mg asciminib. Each 40 mg film-coated tablet contains asciminib hydrochloride, equivalent to 40 mg asciminib.
+- -
 
-- -The other ingredients are:
-
-20 mg and 40 mg film-coated tablets: lactose monohydrate, microcrystalline cellulose (E460i), hydroxypropylcellulose (E463), croscarmellose sodium (E468), polyvinyl alcohol (E1203), titanium dioxide (E171), magnesium stearate, talc (E553b), colloidal silicon dioxide, lecithin (E322), xanthan gum (E415), iron oxide red (E172).
-
-20 mg film-coated tablets only: iron oxide yellow (E172) 40 mg film-coated tablets only: iron oxide black (E172). See 'Scemblix contains lactose and sodium' in section 2.
+The other ingredients are: 20 mg, 40 mg and 100 mg film-coated tablets: lactose monohydrate, microcrystalline cellulose (E460i), hydroxypropylcellulose (E463), croscarmellose sodium (E468), polyvinyl alcohol (E1203), titanium dioxide (E171), magnesium stearate, talc (E553b), colloidal silicon dioxide, lecithin (E322), xanthan gum (E415), iron oxide red (E172). 20 mg film-coated tablets only: iron oxide yellow (E172). 40 mg and 100 mg film-coated tablets only: iron oxide black (E172). See 'Scemblix contains lactose and sodium' in section 2.
 
 ## What Scemblix looks like and contents of the pack
 
@@ -1478,11 +1712,17 @@ Scemblix 20 mg film-coated tablets (tablets): pale yellow, round, biconvex table
 
 Scemblix 40 mg film-coated tablets (tablets): violet white, round, biconvex tablet with bevelled edges of approximately 8 mm diameter, debossed with company logo on one side and '40' on the other side.
 
+Scemblix 100 mg film-coated tablets (tablets): light red, round, biconvex tablet with bevelled edges of approximately 11 mm diameter, debossed with company logo on one side and '100' on the other side.
+
 Scemblix is supplied in blisters containing 10 film-coated tablets.
 
-The following pack sizes are available: Packs containing 20 or 60 film-coated tablets.
+The following pack sizes are available:
 
-Scemblix 40 mg film-coated tablets are also available in multipacks containing 180 (3 packs of 60) film-coated tablets.
+Scemblix 20 mg film-coated tablets: Packs containing 20 or 60 film-coated tablets.
+
+Scemblix 40 mg film-coated tablets: Packs containing 20 or 60 film-coated tablets and multipacks containing 180 (3 packs of 60) film-coated tablets.
+
+Scemblix 100 mg film-coated tablets: Packs containing 60 or 120 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
@@ -1490,25 +1730,37 @@ Not all pack sizes may be marketed.
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
+<div style=\"page-break-after: always\"></div>
+
 ## Manufacturer
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
-Novartis Pharmaceutical Manufacturing LLC Verov š kova Ulica 57 1000 Ljubljana Slovenia
-
-<div style=\"page-break-after: always\"></div>
+Novartis Pharmaceutical Manufacturing LLC Verovškova Ulica 57 1000 Ljubljana Slovenia
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
+
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
 Novartis Bulgaria EOOD Тел .: +359 2 489 98 28
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
@@ -1516,11 +1768,21 @@ Novartis s.r.o.
 
 Tel: +420 225 775 111
 
+## Magyarország
+
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
+
 ## Danmark
 
 Novartis Healthcare A/S
 
 Tlf.: +45 39 16 84 00
+
+## Malta
+
+Novartis Pharma Services Inc. Tel: +356 2122 2872
 
 ## Deutschland
 
@@ -1528,15 +1790,37 @@ Novartis Pharma GmbH
 
 Tel: +49 911 273 0
 
+## Nederland
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
+
 ## Eesti
 
 SIA Novartis Baltics Eesti filiaal
 
 Tel: +372 66 30 810
 
+## Norge
+
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
+
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ : +30 210 281 17 12
+Novartis (Hellas) A.E.B.E.
+
+Τηλ
+
+: +30 210 281 17 12
+
+## Österreich
+
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
 
 ## España
 
@@ -1544,17 +1828,35 @@ Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
 
+## Polska
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
+
 ## France
 
-Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hrvatska
 
-Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+Novartis Hrvatska d.o.o.
+
+Tel. +385 1 6274 220
 
 ## Ireland
 
-Novartis Ireland Limited Tel: +353 1 260 12 55
+Novartis Ireland Limited
+
+Tel: +353 1 260 12 55
 
 ## Ísland
 
@@ -1567,68 +1869,6 @@ Sími: +354 535 7000
 Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
-
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
-
-## Magyarország
-
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
-
-## Malta
-
-Novartis Pharma Services Inc. Tel: +356 2122 2872
-
-## Nederland
-
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Norge AS Tlf: +47 23 05 20 00
-
-## Österreich
-
-Novartis Pharma GmbH Tel: +43 1 86 6570
-
-## Polska
-
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
-
-## Suomi/Finland
-
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
-
-<div style=\"page-break-after: always\"></div>
 
 ## Κύπρος
 
@@ -1648,22 +1888,32 @@ Tel: +371 67 887 070
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
+
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
+
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
+
 ## Sverige
 
 Novartis Sverige AB
 
 Tel: +46 8 732 32 00
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## CONCLUSIONS ON THE REQUEST FOR ONE-YEAR MARKETING PROTECTION PRESENTED BY THE EUROPEAN MEDICINES AGENCY
-
-<div style=\"page-break-after: always\"></div>
-
-## Conclusions presented by the European Medicines Agency on:
-
-## · one-year marketing protection
-
-The CHMP reviewed the data submitted by the Marketing Authorisation Holder, taking into account the provisions of Article 14(11) of Regulation (EC) No 726/2004, and considers that the new therapeutic indication brings significant clinical benefit in comparison with existing therapies as further explained in the European Public Assessment Report.

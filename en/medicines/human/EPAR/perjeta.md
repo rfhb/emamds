@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 08:39:20
+document_datetime: 2026-04-28 13:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/perjeta.html
 document_name: perjeta.html
 version: success
-processing_time: 0.1278871
-conversion_datetime: 2025-12-30 08:20:40.484844
+processing_time: 0.1419039
+conversion_datetime: 2026-05-05 19:40:47.082923
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Perjeta
 
 [RSS](/en/individual-human-medicine.xml/65678)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-pertuzumab Medicine Human Authorised
+pertuzumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -108,275 +108,141 @@ Reference Number: EMA/824939/2012
 
 English (EN) (84.02 KB - PDF)
 
-**First published:** 02/04/2013
-
-**Last updated:** 28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/en/documents/overview/perjeta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-946)
+[Other languages (22)](#file-language-dropdown-350)
 
 български (BG) (111.21 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/bg/documents/overview/perjeta-epar-medicine-overview_bg.pdf)
 
 español (ES) (83.39 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/es/documents/overview/perjeta-epar-medicine-overview_es.pdf)
 
 čeština (CS) (110.56 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/cs/documents/overview/perjeta-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (81.74 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/da/documents/overview/perjeta-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (84.41 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/de/documents/overview/perjeta-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (81.15 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/et/documents/overview/perjeta-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (117.66 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/el/documents/overview/perjeta-epar-medicine-overview_el.pdf)
 
 français (FR) (84.5 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/fr/documents/overview/perjeta-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (104.7 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/hr/documents/overview/perjeta-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (82.74 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/it/documents/overview/perjeta-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (108.01 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/lv/documents/overview/perjeta-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (107.71 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/lt/documents/overview/perjeta-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (104.19 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/hu/documents/overview/perjeta-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (110.48 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/mt/documents/overview/perjeta-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (82.4 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/nl/documents/overview/perjeta-epar-medicine-overview_nl.pdf)
 
 polski (PL) (109.2 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/pl/documents/overview/perjeta-epar-medicine-overview_pl.pdf)
 
 português (PT) (83.23 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/pt/documents/overview/perjeta-epar-medicine-overview_pt.pdf)
 
 română (RO) (106.98 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/ro/documents/overview/perjeta-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (108.13 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/sk/documents/overview/perjeta-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (102.65 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/sl/documents/overview/perjeta-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (82.37 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/fi/documents/overview/perjeta-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (82.77 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-28/06/2018
+**First published:** 02/04/2013 **Last updated:** 28/06/2018
 
 [View](/sv/documents/overview/perjeta-epar-medicine-overview_sv.pdf)
 
@@ -384,9 +250,7 @@ Perjeta : EPAR - Risk management plan
 
 English (EN) (1.63 MB - PDF)
 
-**First published:** 29/07/2020
-
-**Last updated:** 05/04/2024
+**First published:** 29/07/2020 **Last updated:** 05/04/2024
 
 [View](/en/documents/rmp/perjeta-epar-risk-management-plan_en.pdf)
 
@@ -394,305 +258,161 @@ English (EN) (1.63 MB - PDF)
 
 Perjeta : EPAR - Product Information
 
-English (EN) (624.37 KB - PDF)
+English (EN) (762.07 KB - PDF)
 
-**First published:** 02/04/2013
-
-**Last updated:** 30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/en/documents/product-information/perjeta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-370)
+[Other languages (24)](#file-language-dropdown-293)
 
-български (BG) (644.38 KB - PDF)
+български (BG) (640.71 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/bg/documents/product-information/perjeta-epar-product-information_bg.pdf)
 
-español (ES) (674.74 KB - PDF)
+español (ES) (669.45 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/es/documents/product-information/perjeta-epar-product-information_es.pdf)
 
-čeština (CS) (578.62 KB - PDF)
+čeština (CS) (602.71 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/cs/documents/product-information/perjeta-epar-product-information_cs.pdf)
 
-dansk (DA) (451.21 KB - PDF)
+dansk (DA) (446.83 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/da/documents/product-information/perjeta-epar-product-information_da.pdf)
 
-Deutsch (DE) (713.8 KB - PDF)
+Deutsch (DE) (775.09 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/de/documents/product-information/perjeta-epar-product-information_de.pdf)
 
-eesti keel (ET) (499.46 KB - PDF)
+eesti keel (ET) (497.65 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/et/documents/product-information/perjeta-epar-product-information_et.pdf)
 
-ελληνικά (EL) (964.45 KB - PDF)
+ελληνικά (EL) (497.65 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/el/documents/product-information/perjeta-epar-product-information_el.pdf)
 
-français (FR) (535.01 KB - PDF)
+français (FR) (491.95 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/fr/documents/product-information/perjeta-epar-product-information_fr.pdf)
 
-hrvatski (HR) (708.55 KB - PDF)
+hrvatski (HR) (749.07 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/hr/documents/product-information/perjeta-epar-product-information_hr.pdf)
 
-íslenska (IS) (486.5 KB - PDF)
+íslenska (IS) (486.8 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/is/documents/product-information/perjeta-epar-product-information_is.pdf)
 
-italiano (IT) (460.85 KB - PDF)
+italiano (IT) (449.46 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/it/documents/product-information/perjeta-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (975.72 KB - PDF)
+latviešu valoda (LV) (884.4 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/lv/documents/product-information/perjeta-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (666.08 KB - PDF)
+lietuvių kalba (LT) (668.73 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/lt/documents/product-information/perjeta-epar-product-information_lt.pdf)
 
-magyar (HU) (636.17 KB - PDF)
+magyar (HU) (629.05 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/hu/documents/product-information/perjeta-epar-product-information_hu.pdf)
 
-Malti (MT) (664.53 KB - PDF)
+Malti (MT) (663.98 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/mt/documents/product-information/perjeta-epar-product-information_mt.pdf)
 
-Nederlands (NL) (415.66 KB - PDF)
+Nederlands (NL) (415.44 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/nl/documents/product-information/perjeta-epar-product-information_nl.pdf)
 
-norsk (NO) (536.45 KB - PDF)
+norsk (NO) (537.23 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/no/documents/product-information/perjeta-epar-product-information_no.pdf)
 
-polski (PL) (595.87 KB - PDF)
+polski (PL) (590.36 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/pl/documents/product-information/perjeta-epar-product-information_pl.pdf)
 
-português (PT) (508.01 KB - PDF)
+português (PT) (499.94 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/pt/documents/product-information/perjeta-epar-product-information_pt.pdf)
 
-română (RO) (591.2 KB - PDF)
+română (RO) (590.78 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/ro/documents/product-information/perjeta-epar-product-information_ro.pdf)
 
-slovenčina (SK) (588.96 KB - PDF)
+slovenčina (SK) (588.97 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/sk/documents/product-information/perjeta-epar-product-information_sk.pdf)
 
-slovenščina (SL) (547.8 KB - PDF)
+slovenščina (SL) (544.98 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/sl/documents/product-information/perjeta-epar-product-information_sl.pdf)
 
-Suomi (FI) (644.31 KB - PDF)
+Suomi (FI) (641.58 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/fi/documents/product-information/perjeta-epar-product-information_fi.pdf)
 
-svenska (SV) (456.27 KB - PDF)
+svenska (SV) (455.84 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-30/10/2025
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/sv/documents/product-information/perjeta-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000280837 04/09/2025
+**Latest procedure affecting product information:** VR/0000307073
+
+12/03/2026
 
 icon globe
 
@@ -710,295 +430,179 @@ Product information documents contain:
 
 Perjeta : EPAR - All Authorised presentations
 
-English (EN) (17.08 KB - PDF)
+English (EN) (40.52 KB - PDF)
 
-**First published:** 02/04/2013
-
-**Last updated:** 02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/en/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-17)
+[Other languages (24)](#file-language-dropdown-735)
 
-български (BG) (37.42 KB - PDF)
+български (BG) (41.29 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/bg/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (23.03 KB - PDF)
+español (ES) (17.1 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/es/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (37.14 KB - PDF)
+čeština (CS) (28.74 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/cs/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (22.64 KB - PDF)
+dansk (DA) (17.62 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/da/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (17.39 KB - PDF)
+Deutsch (DE) (11.18 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/de/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (26.43 KB - PDF)
+eesti keel (ET) (11.79 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/et/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (38.74 KB - PDF)
+ελληνικά (EL) (39.83 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/el/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (17.28 KB - PDF)
+français (FR) (16.5 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/fr/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_fr.pdf)
 
-íslenska (IS) (22.77 KB - PDF)
+hrvatski (HR) (30.95 KB - PDF)
 
-**First published:**
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
-02/04/2013
+[View](/hr/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_hr.pdf)
 
-**Last updated:**
+íslenska (IS) (17.03 KB - PDF)
 
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/is/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (22.71 KB - PDF)
+italiano (IT) (15.95 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/it/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (35.37 KB - PDF)
+latviešu valoda (LV) (32.1 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/lv/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (35.21 KB - PDF)
+lietuvių kalba (LT) (27.21 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/lt/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (29.14 KB - PDF)
+magyar (HU) (24.61 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/hu/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (33.98 KB - PDF)
+Malti (MT) (33.3 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/mt/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (22.64 KB - PDF)
+Nederlands (NL) (17.13 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/nl/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (22.84 KB - PDF)
+norsk (NO) (16.62 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/no/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (39.64 KB - PDF)
+polski (PL) (37.46 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/pl/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (22.93 KB - PDF)
+português (PT) (14.19 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/pt/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (33.55 KB - PDF)
+română (RO) (31.17 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/ro/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (37.34 KB - PDF)
+slovenčina (SK) (29.06 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/sk/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (28.81 KB - PDF)
+slovenščina (SL) (18.32 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/sl/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (22.66 KB - PDF)
+Suomi (FI) (17.35 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/fi/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (17.53 KB - PDF)
+svenska (SV) (16.91 KB - PDF)
 
-**First published:**
-
-02/04/2013
-
-**Last updated:**
-
-02/04/2013
+**First published:** 02/04/2013 **Last updated:** 28/04/2026
 
 [View](/sv/documents/all-authorised-presentations/perjeta-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Perjeta Active substance pertuzumab International non-proprietary name (INN) or common name pertuzumab Therapeutic area (MeSH) Breast Neoplasms Anatomical therapeutic chemical (ATC) code L01FD02
+Name of medicine
+
+Perjeta
+
+Active substance
+
+pertuzumab
+
+International non-proprietary name (INN) or common name
+
+pertuzumab
+
+Therapeutic area (MeSH)
+
+Breast Neoplasms
+
+Anatomical therapeutic chemical (ATC) code
+
+L01FD02
 
 ### Pharmacotherapeutic group
 
@@ -1017,13 +621,23 @@ Perjeta is indicated for use in combination with trastuzumab and chemotherapy fo
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/002547 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/002547
+
+Marketing authorisation holder
 
 Roche Registration GmbH
 
 Emil-Barell-Strasse 1
 
-Marketing authorisation issued 04/03/2013 Revision 26
+Marketing authorisation issued
+
+04/03/2013
+
+Revision
+
+27
 
 ## Assessment history
 
@@ -1035,11 +649,9 @@ Collapse section
 
 Perjeta : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (173.79 KB - PDF)
+English (EN) (168.61 KB - PDF)
 
-**First published:** 03/04/2025
-
-**Last updated:** 30/10/2025
+**First published:** 03/04/2025 **Last updated:** 28/04/2026
 
 [View](/en/documents/procedural-steps-after/perjeta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1047,9 +659,7 @@ Perjeta : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (270.05 KB - PDF)
 
-**First published:** 23/04/2014
-
-**Last updated:** 03/04/2025
+**First published:** 23/04/2014 **Last updated:** 03/04/2025
 
 [View](/en/documents/procedural-steps-after/perjeta-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1065,29 +675,21 @@ English (EN) (104.95 KB - PDF)
 
 Perjeta-H-C-002547-II-0034 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/366182/2018
+Adopted Reference Number: EMA/CHMP/366182/2018
 
 English (EN) (6.77 MB - PDF)
 
-**First published:** 28/06/2018
-
-**Last updated:** 28/06/2018
+**First published:** 28/06/2018 **Last updated:** 28/06/2018
 
 [View](/en/documents/variation-report/perjeta-h-c-002547-ii-0034-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Perjeta (II-0034)
 
-Adopted
-
-Reference Number: EMA/258941/2018
+Adopted Reference Number: EMA/258941/2018
 
 English (EN) (74.12 KB - PDF)
 
-**First published:** 27/04/2018
-
-**Last updated:** 27/04/2018
+**First published:** 27/04/2018 **Last updated:** 27/04/2018
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-perjeta-ii-0034_en.pdf)
 
@@ -1097,37 +699,27 @@ Reference Number: EMA/667576/2015
 
 English (EN) (65.28 KB - PDF)
 
-**First published:** 08/10/2015
-
-**Last updated:** 08/10/2015
+**First published:** 08/10/2015 **Last updated:** 08/10/2015
 
 [View](/en/documents/scientific-conclusion/perjeta-h-c-psusa-00010125-201412-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Perjeta-H-C-2547-II-0010 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/285991/2015
+Adopted Reference Number: EMA/CHMP/285991/2015
 
 English (EN) (7.5 MB - PDF)
 
-**First published:** 14/08/2015
-
-**Last updated:** 14/08/2015
+**First published:** 14/08/2015 **Last updated:** 14/08/2015
 
 [View](/en/documents/variation-report/perjeta-h-c-2547-ii-0010-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Perjeta
 
-Adopted
-
-Reference Number: EMA/CHMP/334570/2015
+Adopted Reference Number: EMA/CHMP/334570/2015
 
 English (EN) (67.89 KB - PDF)
 
-**First published:** 26/06/2015
-
-**Last updated:** 26/06/2015
+**First published:** 26/06/2015 **Last updated:** 26/06/2015
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-perjeta_en.pdf)
 
@@ -1135,15 +727,11 @@ English (EN) (67.89 KB - PDF)
 
 Perjeta : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/17250/2013
+Adopted Reference Number: EMA/17250/2013
 
 English (EN) (6.63 MB - PDF)
 
-**First published:** 02/04/2013
-
-**Last updated:** 05/04/2013
+**First published:** 02/04/2013 **Last updated:** 05/04/2013
 
 [View](/en/documents/assessment-report/perjeta-epar-public-assessment-report_en.pdf)
 
@@ -1153,234 +741,188 @@ Reference Number: EMA/CHMP/803313/2012
 
 English (EN) (122.14 KB - PDF)
 
-**First published:** 14/12/2012
-
-**Last updated:** 14/12/2012
+**First published:** 14/12/2012 **Last updated:** 14/12/2012
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-perjeta_en.pdf)
 
-#### News on Perjeta
+## News on Perjeta
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 April 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-april-2018) 27/04/2018
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 April 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-april-2018)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 June 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2015) 26/06/2015
+27/04/2018
 
-#### Product information - with tracked changes
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 June 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2015)
+
+26/06/2015
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Perjeta : EPAR - Product information - tracked changes
 
-English (EN) (574.94 KB - DOCX)
+English (EN) (531.81 KB - DOCX)
 
-**First published:** 30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/en/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-660)
+[Other languages (24)](#file-language-dropdown-625)
 
-български (BG) (349.17 KB - DOCX)
+български (BG) (352.76 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/bg/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (491.34 KB - DOCX)
+español (ES) (494.53 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/es/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (322.39 KB - DOCX)
+čeština (CS) (462.35 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/cs/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (318.43 KB - DOCX)
+dansk (DA) (360.44 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/da/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (387.4 KB - DOCX)
+Deutsch (DE) (1.7 MB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/de/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (310.51 KB - DOCX)
+eesti keel (ET) (319.38 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/et/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (694.1 KB - DOCX)
+ελληνικά (EL) (698.13 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/el/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (301.02 KB - DOCX)
+français (FR) (303.87 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/fr/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (465.05 KB - DOCX)
+hrvatski (HR) (652.11 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/hr/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (385.44 KB - DOCX)
+íslenska (IS) (389.39 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/is/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (306.51 KB - DOCX)
+italiano (IT) (275 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/it/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (555.77 KB - DOCX)
+latviešu valoda (LV) (569.22 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/lv/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (375.3 KB - DOCX)
+lietuvių kalba (LT) (381.04 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/lt/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (380.08 KB - DOCX)
+magyar (HU) (389.87 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/hu/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (439.5 KB - DOCX)
+Malti (MT) (445.44 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/mt/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (267.58 KB - DOCX)
+Nederlands (NL) (270.89 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/nl/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (415.38 KB - DOCX)
+norsk (NO) (416.73 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/no/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (352.84 KB - DOCX)
+polski (PL) (361.4 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/pl/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (241.83 KB - DOCX)
+português (PT) (245.79 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/pt/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (320.78 KB - DOCX)
+română (RO) (328.88 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/ro/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (384.78 KB - DOCX)
+slovenčina (SK) (392.04 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/sk/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (267.24 KB - DOCX)
+slovenščina (SL) (283.13 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/sl/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (409.87 KB - DOCX)
+Suomi (FI) (426.48 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/fi/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (284.46 KB - DOCX)
+svenska (SV) (291.84 KB - DOCX)
 
-**First published:**
-
-30/10/2025
+**First published:** 30/10/2025 **Last updated:** 28/04/2026
 
 [View](/sv/documents/product-information-tracked-changes/perjeta-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Perjeta
+## More information on Perjeta
 
 - [UK - A DISEASE REGISTRY STUDY TO PROSPECTIVELY OBSERVE TREATMENT PATTERNS AND OUTCOMES IN PATIENTS WITH HER2-POSITIVE UNRESECTABLE LOCALLY ADVANCED OR METASTATIC BREAST CANCER (ESTHER) - post-authorisation study](https://catalogues.ema.europa.eu/study/26411)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 30/10/2025
+**This page was last updated on**
+
+28/04/2026
 
 ## Share this page
-
-[Back to top](#main-content)

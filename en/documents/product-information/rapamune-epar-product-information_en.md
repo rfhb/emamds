@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-17 10:36:55
+document_datetime: 2026-05-04 09:56:46
 document_pages: 83
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rapamune-epar-product-information_en.pdf
 document_name: rapamune-epar-product-information_en.pdf
 version: success
-processing_time: 18.6299942
-conversion_datetime: 2025-12-24 04:29:37.031368
+processing_time: 23.8566197
+conversion_datetime: 2026-05-05 19:33:59.08901
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -94,11 +94,9 @@ Following the discontinuation of ciclosporin therapy, a target trough range of 1
 
 If further dose adjustment(s) are required during maintenance therapy (after discontinuation of ciclosporin), in most patients these adjustments can be based on simple proportion: new Rapamune dose=current dose x (target concentration/current concentration). A loading dose should be considered in addition to a new maintenance dose when it is necessary to considerably increase sirolimus trough concentrations: Rapamune loading dose=3 x (new maintenance dose - current maintenance dose). The maximum Rapamune dose administered on any day should not exceed 40 mg. If an estimated daily dose exceeds 40 mg due to the addition of a loading dose, the loading dose should be administered over 2 days. Sirolimus trough concentrations should be monitored at least 3 to 4 days after a loading dose(s).
 
-The recommended 24-hour trough concentration ranges for sirolimus are based on chromatographic methods. Several assay methodologies have been used to measure the whole blood concentrations of
+The recommended 24-hour trough concentration ranges for sirolimus are based on chromatographic methods. Several assay methodologies have been used to measure the whole blood concentrations of sirolimus. Currently in clinical practice, sirolimus whole blood concentrations are being measured by both chromatographic and immunoassay methodologies. The concentration values obtained by these different methodologies are not interchangeable. All sirolimus concentrations reported in this Summary of Product Characteristics were either measured using chromatographic methods or have been converted to chromatographic method equivalents. Adjustments to the targeted range should be made according to the assay being utilised to determine the sirolimus trough concentrations. Since results are assay and laboratory dependent, and the results may change over time, adjustment to the targeted therapeutic range must be made with a detailed knowledge of the site-specific assay used. Physicians should therefore remain continuously informed by responsible representatives for their local laboratory on the performance of the locally used method for concentration determination of sirolimus.
 
 <div style=\"page-break-after: always\"></div>
-
-sirolimus. Currently in clinical practice, sirolimus whole blood concentrations are being measured by both chromatographic and immunoassay methodologies. The concentration values obtained by these different methodologies are not interchangeable. All sirolimus concentrations reported in this Summary of Product Characteristics were either measured using chromatographic methods or have been converted to chromatographic method equivalents. Adjustments to the targeted range should be made according to the assay being utilised to determine the sirolimus trough concentrations. Since results are assay and laboratory dependent, and the results may change over time, adjustment to the targeted therapeutic range must be made with a detailed knowledge of the site-specific assay used. Physicians should therefore remain continuously informed by responsible representatives for their local laboratory on the performance of the locally used method for concentration determination of sirolimus.
 
 ## Patients with sporadic lymphangioleiomyomatosis (S-LAM)
 
@@ -174,11 +172,9 @@ Sirolimus has been administered concurrently with the following agents in clinic
 
 Renal function should be monitored during concomitant administration of Rapamune and ciclosporin. Appropriate adjustment of the immunosuppression regimen should be considered in patients with elevated serum creatinine levels. Caution should be exercised when co-administering other agents that are known to have a deleterious effect on renal function.
 
-Patients treated with ciclosporin and Rapamune beyond 3 months had higher serum creatinine levels and lower calculated glomerular filtration rates compared to patients treated with ciclosporin and placebo or azathioprine controls. Patients who were successfully withdrawn from ciclosporin had
+Patients treated with ciclosporin and Rapamune beyond 3 months had higher serum creatinine levels and lower calculated glomerular filtration rates compared to patients treated with ciclosporin and placebo or azathioprine controls. Patients who were successfully withdrawn from ciclosporin had lower serum creatinine levels and higher calculated glomerular filtration rates, as well as lower incidence of malignancy, compared to patients remaining on ciclosporin. The continued co-administration of ciclosporin and Rapamune as maintenance therapy cannot be recommended.
 
 <div style=\"page-break-after: always\"></div>
-
-lower serum creatinine levels and higher calculated glomerular filtration rates, as well as lower incidence of malignancy, compared to patients remaining on ciclosporin. The continued co-administration of ciclosporin and Rapamune as maintenance therapy cannot be recommended.
 
 Based on information from subsequent clinical studies, the use of Rapamune, mycophenolate mofetil, and corticosteroids, in combination with IL-2 receptor antibody (IL2R Ab) induction, is not recommended in the de novo renal transplant setting (see section 5.1).
 
@@ -294,11 +290,9 @@ There have been reports of increased blood levels of sirolimus during concomitan
 
 ## Oral contraceptives
 
-No clinically significant pharmacokinetic interaction was observed between Rapamune oral solution and 0.3 mg norgestrel/0.03 mg ethinyl estradiol. Although the results of a single-dose interaction study with an oral contraceptive suggest the lack of a pharmacokinetic interaction, the results cannot exclude
+No clinically significant pharmacokinetic interaction was observed between Rapamune oral solution and 0.3 mg norgestrel/0.03 mg ethinyl estradiol. Although the results of a single-dose interaction study with an oral contraceptive suggest the lack of a pharmacokinetic interaction, the results cannot exclude the possibility of changes in the pharmacokinetics that might affect the efficacy of the oral contraceptive during long-term treatment with Rapamune.
 
 <div style=\"page-break-after: always\"></div>
-
-the possibility of changes in the pharmacokinetics that might affect the efficacy of the oral contraceptive during long-term treatment with Rapamune.
 
 ## Other possible interactions
 
@@ -422,11 +416,9 @@ Ovarian cysts and menstrual disorders (including amenorrhoea and menorrhagia) ha
 
 Controlled clinical studies with posology comparable to that currently indicated for the use of Rapamune in adults have not been conducted in children or adolescents below 18 years of age.
 
-Safety was assessed in a controlled clinical study enrolling renal transplant patients below 18 years of age considered of high immunologic risk, defined as a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy (see section 5.1). The use of Rapamune in combination with calcineurin inhibitors and corticosteroids was associated with an increased risk of deterioration of renal function, serum lipid abnormalities (including, but not limited to, increased serum triglycerides and cholesterol), and urinary tract infections. The treatment
+Safety was assessed in a controlled clinical study enrolling renal transplant patients below 18 years of age considered of high immunologic risk, defined as a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy (see section 5.1). The use of Rapamune in combination with calcineurin inhibitors and corticosteroids was associated with an increased risk of deterioration of renal function, serum lipid abnormalities (including, but not limited to, increased serum triglycerides and cholesterol), and urinary tract infections. The treatment regimen studied (continuous use of Rapamune in combination with calcineurin inhibitor) is not indicated for adult or paediatric patients (see section 4.1).
 
 <div style=\"page-break-after: always\"></div>
-
-regimen studied (continuous use of Rapamune in combination with calcineurin inhibitor) is not indicated for adult or paediatric patients (see section 4.1).
 
 In another study enrolling renal transplant patients 20 years of age and below that was intended to assess the safety of progressive corticosteroid withdrawal (beginning at six months post-transplantation) from an immunosuppressive regimen initiated at transplantation that included full-dose immunosuppression with both Rapamune and a calcineurin inhibitor in combination with basiliximab induction, of the 274 patients enrolled, 19 (6.9%) were reported to have developed post-transplant lymphoproliferative disorder (PTLD). Among 89 patients known to be Epstein-Barr virus (EBV) seronegative prior to transplantation, 13 (15.6%) were reported to have developed PTLD. All patients who developed PTLD were aged below 18 years.
 
@@ -472,11 +464,9 @@ The safety and efficacy of conversion from calcineurin inhibitors to Rapamune in
 
 In the patient stratum with baseline calculated GFR above 40 mL/min, renal function was not improved overall. The rates of acute rejection, graft loss, and death were similar at 1 and 2 years. Treatment emergent adverse events occurred more frequently during the first 6 months after Rapamune conversion. In the stratum with baseline calculated GFR above 40 mL/min, the mean and median urinary protein to creatinine ratios were significantly higher in the Rapamune conversion group as compared to those of the calcineurin inhibitors continuation group at 24 months (see section 4.4). New onset nephrosis (nephrotic syndrome) was also reported (see section 4.8).
 
-At 2 years, the rate of non-melanoma skin malignancies was significantly lower in the Rapamune conversion group as compared to the calcineurin inhibitors continuation group (1.8% and 6.9%). In a subset of the study patients with a baseline GFR above 40 mL/min and normal urinary protein excretion, calculated GFR was higher at 1 and 2 years in patients converted to Rapamune than for the
+At 2 years, the rate of non-melanoma skin malignancies was significantly lower in the Rapamune conversion group as compared to the calcineurin inhibitors continuation group (1.8% and 6.9%). In a subset of the study patients with a baseline GFR above 40 mL/min and normal urinary protein excretion, calculated GFR was higher at 1 and 2 years in patients converted to Rapamune than for the corresponding subset of calcineurin inhibitor continuation patients. The rates of acute rejection, graft loss, and death were similar, but urinary protein excretion was increased in the Rapamune treatment arm of this subset.
 
 <div style=\"page-break-after: always\"></div>
-
-corresponding subset of calcineurin inhibitor continuation patients. The rates of acute rejection, graft loss, and death were similar, but urinary protein excretion was increased in the Rapamune treatment arm of this subset.
 
 In an open-label, randomised, comparative, multi-centre study where renal transplant patients were either converted from tacrolimus to sirolimus 3 to 5 months post-transplant or remained on tacrolimus, there was no significant difference in renal function at 2 years. There were more adverse events (99.2% vs. 91.1%, p=0.002*) and more discontinuations from the treatment due to adverse events (26.7% vs. 4.1%, p&lt;0.001*) in the group converted to sirolimus compared to the tacrolimus group. The incidence of biopsy confirmed acute rejection was higher (p=0.020*) for patients in the sirolimus group (11, 8.4%) compared to the tacrolimus group (2, 1.6%) through 2 years; most rejections were mild in severity (8 of 9 [89%] T-cell BCAR, 2 of 4 [50%] antibody mediated BCAR) in the sirolimus group. Patients who had both antibody-mediated rejection and T-cell-mediated rejection on the same biopsy were counted once for each category. More patients converted to sirolimus developed new onset diabetes mellitus defined as 30 days or longer of continuous or at least 25 days non-stop (without gap) use of any diabetic treatment after randomisation, a fasting glucose ≥126 mg/dL or a non-fasting glucose ≥200 mg/dL after randomisation (18.3% vs. 5.6%, p=0.025*). A lower incidence of squamous cell carcinoma of the skin was observed in the sirolimus group (0% vs. 4.9%). *Note: p-values not controlled for multiple testing.
 
@@ -488,11 +478,9 @@ In a randomised, comparative evaluation of ramipril versus placebo for the preve
 
 The safety and efficacy of Rapamune for treatment of S-LAM were assessed in a randomised, double-blind, multicentre, controlled trial. This study compared Rapamune (dose adjusted to 5-15 ng/mL) with placebo for a 12-month treatment period, followed by a 12-month observation period in patients with TSC-LAM or S-LAM. Eighty-nine (89) patients were enrolled at 13 study sites in the United States, Canada, and Japan of which 81 patients had S-LAM; of these patients with S-LAM, 39 were randomised to receive placebo and 42 to receive Rapamune. The key inclusion criteria was post-bronchodilator forced expiratory volume in 1 second (FEV1) ≤70% of predicted during the baseline visit. In patients with S-LAM, enrolled patients had moderately advanced lung disease, with baseline FEV1 of 49.2±13.6% (mean ±SD) of the predicted value. The primary endpoint was the difference between the groups in the rate of change (slope) in FEV1. During the treatment period in patients with S-LAM, the mean ±SE FEV1 slope was -12±2 mL per month in the placebo group and 0.3±2 mL per month in the Rapamune group (p&lt;0.001). The absolute between-group difference in the mean change in FEV1 during the treatment period was 152 mL, or approximately 11% of the mean FEV1 at enrollment.
 
-As compared with the placebo group, the sirolimus group had improvement from baseline to 12 months in measures of forced vital capacity (-12±3 vs. 7±3 mL per month, respectively, p&lt;0.001), serum vascular endothelial growth factor D (VEGF-D; -8.6±15.2 vs. -85.3±14.2 pg/mL per month, respectively, p&lt;0.001), and quality of life (Visual Analogue Scale - Quality of Life [VAS-QOL] score: -0.3±0.2 vs. 0.4±0.2 per month, respectively, p=0.022) and functional performance (-0.009±0.005 vs. 0.004±0.004 per month, respectively, p=0.044) in patients with S-LAM. There was
+As compared with the placebo group, the sirolimus group had improvement from baseline to 12 months in measures of forced vital capacity (-12±3 vs. 7±3 mL per month, respectively, p&lt;0.001), serum vascular endothelial growth factor D (VEGF-D; -8.6±15.2 vs. -85.3±14.2 pg/mL per month, respectively, p&lt;0.001), and quality of life (Visual Analogue Scale - Quality of Life [VAS-QOL] score: -0.3±0.2 vs. 0.4±0.2 per month, respectively, p=0.022) and functional performance (-0.009±0.005 vs. 0.004±0.004 per month, respectively, p=0.044) in patients with S-LAM. There was no significant between-group difference in this interval in the change in functional residual capacity, 6-minute walk distance, diffusing capacity of the lung for carbon monoxide, or general well-being score in patients with S-LAM.
 
 <div style=\"page-break-after: always\"></div>
-
-no significant between-group difference in this interval in the change in functional residual capacity, 6-minute walk distance, diffusing capacity of the lung for carbon monoxide, or general well-being score in patients with S-LAM.
 
 ## Paediatric population
 
@@ -512,11 +500,9 @@ Sirolimus is a substrate for both cytochrome P450 IIIA4 (CYP3A4) and P-glycoprot
 
 Clinical studies of Rapamune did not include a sufficient number of patients above 65 years of age to determine whether they will respond differently than younger patients. Sirolimus trough concentration data in 35 renal transplant patients above 65 years of age were similar to those in the adult population (n=822) from 18 to 65 years of age.
 
-In paediatric patients on dialysis (30% to 50% reduction in glomerular filtration rate) within age ranges of 5 to 11 years and 12 to 18 years, the mean weight-normalised CL/F was larger for younger
+In paediatric patients on dialysis (30% to 50% reduction in glomerular filtration rate) within age ranges of 5 to 11 years and 12 to 18 years, the mean weight-normalised CL/F was larger for younger paediatric patients (580 mL/h/kg) than for older paediatric patients (450 mL/h/kg) as compared with adults (287 mL/h/kg). There was a large variability for individuals within the age groups.
 
 <div style=\"page-break-after: always\"></div>
-
-paediatric patients (580 mL/h/kg) than for older paediatric patients (450 mL/h/kg) as compared with adults (287 mL/h/kg). There was a large variability for individuals within the age groups.
 
 Sirolimus concentrations were measured in concentration-controlled studies of paediatric renal-transplant patients who were also receiving ciclosporin and corticosteroids. The target for trough concentrations was 10-20 ng/mL. At steady-state, 8 children aged 6-11 years received mean  SD doses of 1.75  0.71 mg/day (0.064  0.018 mg/kg, 1.65  0.43 mg/m 2 ) while 14 adolescents aged 12-18 years received mean  SD doses of 2.79  1.25 mg/day (0.053  0.0150 mg/kg, 1.86  0.61 mg/m 2 ). The younger children had a higher weight-normalized Cl/F (214 mL/h/kg) compared with the adolescents (136 mL/h/kg). These data indicate that younger children might require higher bodyweight-adjusted doses than adolescents and adults to achieve similar target concentrations. However, the development of such special dosing recommendations for children requires more data to be definitely confirmed.
 
@@ -538,11 +524,9 @@ Sirolimus was not mutagenic in the in vitro bacterial reverse mutation assays, t
 
 Carcinogenicity studies conducted in mouse and rat showed increased incidences of lymphomas (male and female mouse), hepatocellular adenoma and carcinoma (male mouse) and granulocytic leukaemia (female mouse). It is known that malignancies (lymphoma) secondary to the chronic use of immunosuppressive agents can occur and have been reported in patients in rare instances. In mouse, chronic ulcerative skin lesions were increased. The changes may be related to chronic immunosuppression. In rat, testicular interstitial cell adenomas were likely indicative of a species-dependent response to lutenising hormone levels and are usually considered of limited clinical relevance.
 
-In reproduction toxicity studies decreased fertility in male rats was observed. Partly reversible reductions in sperm counts were reported in a 13-week rat study. Reductions in testicular weights and/or histological lesions (e.g. tubular atrophy and tubular giant cells) were observed in rats and in a
+In reproduction toxicity studies decreased fertility in male rats was observed. Partly reversible reductions in sperm counts were reported in a 13-week rat study. Reductions in testicular weights and/or histological lesions (e.g. tubular atrophy and tubular giant cells) were observed in rats and in a monkey study. In rats, sirolimus caused embryo/foetotoxicity that was manifested as mortality and reduced foetal weights (with associated delays in skeletal ossification) (see section 4.6).
 
 <div style=\"page-break-after: always\"></div>
-
-monkey study. In rats, sirolimus caused embryo/foetotoxicity that was manifested as mortality and reduced foetal weights (with associated delays in skeletal ossification) (see section 4.6).
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -902,11 +886,9 @@ Multiple-dose administration of verapamil and sirolimus oral solution significan
 
 ## Erythromycin (CYP3A4 inhibitor)
 
-Multiple-dose administration of erythromycin and sirolimus oral solution significantly increased the rate and extent of absorption of both medicinal products. Whole blood sirolimus Cmax, t max , and AUC were increased 4.4-fold, 1.4-fold, and 4.2-fold, respectively. The C max , t max , and AUC of plasma
+Multiple-dose administration of erythromycin and sirolimus oral solution significantly increased the rate and extent of absorption of both medicinal products. Whole blood sirolimus Cmax, t max , and AUC were increased 4.4-fold, 1.4-fold, and 4.2-fold, respectively. The C max , t max , and AUC of plasma erythromycin base were increased 1.6-fold, 1.3-fold, and 1.7-fold, respectively. Sirolimus levels should be monitored and appropriate dose reductions of both medicinal products should be considered.
 
 <div style=\"page-break-after: always\"></div>
-
-erythromycin base were increased 1.6-fold, 1.3-fold, and 1.7-fold, respectively. Sirolimus levels should be monitored and appropriate dose reductions of both medicinal products should be considered.
 
 ## Ciclosporin (CYP3A4 substrate)
 
@@ -1060,11 +1042,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-At present, there is minimal experience with overdose. One patient experienced an episode of atrial fibrillation after ingestion of 150 mg of Rapamune. In general, the adverse effects of overdose are consistent with those listed in section 4.8. General supportive measures should be initiated in all cases
+At present, there is minimal experience with overdose. One patient experienced an episode of atrial fibrillation after ingestion of 150 mg of Rapamune. In general, the adverse effects of overdose are consistent with those listed in section 4.8. General supportive measures should be initiated in all cases of overdose. Based on the poor aqueous solubility and high erythrocyte and plasma protein binding of Rapamune, it is anticipated that Rapamune will not be dialysable to any significant extent.
 
 <div style=\"page-break-after: always\"></div>
-
-of overdose. Based on the poor aqueous solubility and high erythrocyte and plasma protein binding of Rapamune, it is anticipated that Rapamune will not be dialysable to any significant extent.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -1086,11 +1066,9 @@ Patients at low to moderate immunological risk were studied in the phase 3 ciclo
 
 At 12, 24 and 36 months, graft and patient survival were similar for both groups. At 48 months, there was a statistically significant difference in graft survival in favour of the Rapamune following ciclosporin elimination group compared to the Rapamune with ciclosporin therapy group (including and excluding loss to follow-up). There was a significantly higher rate of first biopsy-proven rejection in the ciclosporin elimination group compared to the ciclosporin maintenance group during the period post-randomisation to 12 months (9.8% vs. 4.2%, respectively). Thereafter, the difference between the two groups was not significant.
 
-The mean calculated glomerular filtration rate (GFR) at 12, 24, 36, 48 and 60 months was significantly higher for patients receiving Rapamune following ciclosporin elimination than for those in the Rapamune with ciclosporin therapy group. Based upon the analysis of data from 36 months and beyond, which showed a growing difference in graft survival and renal function, as well as significantly lower blood pressure in the ciclosporin elimination group, it was decided to discontinue subjects from the Rapamune with ciclosporin group. By 60 months, the incidence of non-skin malignancies was significantly higher in the cohort who continued ciclosporin as compared with the
+The mean calculated glomerular filtration rate (GFR) at 12, 24, 36, 48 and 60 months was significantly higher for patients receiving Rapamune following ciclosporin elimination than for those in the Rapamune with ciclosporin therapy group. Based upon the analysis of data from 36 months and beyond, which showed a growing difference in graft survival and renal function, as well as significantly lower blood pressure in the ciclosporin elimination group, it was decided to discontinue subjects from the Rapamune with ciclosporin group. By 60 months, the incidence of non-skin malignancies was significantly higher in the cohort who continued ciclosporin as compared with the cohort who had ciclosporin withdrawn (8.4% vs. 3.8%, respectively). For skin carcinoma, the median time to first occurrence was significantly delayed.
 
 <div style=\"page-break-after: always\"></div>
-
-cohort who had ciclosporin withdrawn (8.4% vs. 3.8%, respectively). For skin carcinoma, the median time to first occurrence was significantly delayed.
 
 The safety and efficacy of conversion from calcineurin inhibitors to Rapamune in maintenance renal transplant patients (6-120 months after transplantation) was assessed in a randomised, multicentre, controlled trial, stratified by calculated GFR at baseline (20-40 mL/min vs. above 40 mL/min). Concomitant immunosuppressive agents included mycophenolate mofetil, azathioprine, and corticosteroids. Enrollment in the patient stratum with baseline calculated GFR below40 mL/min was discontinued due to an imbalance in safety events (see section 4.8).
 
@@ -1335,7 +1313,7 @@ Pfizer Service Company BV Hermeslaan 11 1932 Zaventem Belgium
 
 ## Rapamune 0.5 mg coated tablets, Rapamune 1 mg coated tablets, Rapamune 2 mg coated tablets:
 
-Pfizer Ireland Pharmaceuticals Unlimited Company Little Connell, Newbridge, Co. Kildare Ireland
+Pfizer Ireland Pharmaceuticals Unlimited Company Little Connell, Newbridge, Co. Kildare, W12 HX57 Ireland
 
 Pfizer Manufacturing Deutschland GmbH Mooswaldallee 1 79108 Freiburg Im Breisgau Germany
 
@@ -1382,7 +1360,9 @@ TEXT FOR 60 mL OUTER CARTON (CONTAINING SYRINGES/BOTTLE IN CARTON)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Rapamune 1 mg/mL oral solution sirolimus
+Rapamune 1 mg/mL oral solution
+
+sirolimus
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1600,7 +1580,9 @@ After dilution, the preparation should be used immediately.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
+Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles
+
+Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1697,8 +1679,8 @@ Lot
 
 Rapamune 0.5 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -1746,7 +1728,9 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Rapamune 1 mg coated tablets sirolimus
+Rapamune 1 mg coated tablets
+
+sirolimus
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1864,7 +1848,9 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Rapamune 2 mg coated tablets sirolimus
+Rapamune 2 mg coated tablets
+
+sirolimus
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2152,11 +2138,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Allergic reactions
 
-You should see your doctor immediately if you experience symptoms, such as swollen face, tongue and/or back of the mouth (pharynx) and/or difficulties in breathing (angioedema), or a skin condition
+You should see your doctor immediately if you experience symptoms, such as swollen face, tongue and/or back of the mouth (pharynx) and/or difficulties in breathing (angioedema), or a skin condition whereby the skin can peel off (exfoliative dermatitis). These may be symptoms of a serious allergic reaction.
 
 <div style=\"page-break-after: always\"></div>
-
-whereby the skin can peel off (exfoliative dermatitis). These may be symptoms of a serious allergic reaction.
 
 ## Kidney damage with low blood cell counts (thrombocytopaenic purpura/haemolytic uraemic syndrome)
 
@@ -2446,9 +2430,9 @@ Tel: +39 06 33 18 21
 
 PFIZER ΕΛΛΑΣ Α.Ε. (Cyprus Branch)
 
-T 
-
 : +357 22 817690
+
+T 
 
 ## Latvija
 
@@ -2482,7 +2466,9 @@ Tel: +46 (0)8 550 520 00
 
 <div style=\"page-break-after: always\"></div>
 
-Rapamune 0.5 mg coated tablets Rapamune 1 mg coated tablets Rapamune 2 mg coated tablets sirolimus
+Rapamune 0.5 mg coated tablets Rapamune 1 mg coated tablets Rapamune 2 mg coated tablets
+
+sirolimus
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -2594,11 +2580,9 @@ Rapamune should be taken consistently, either with or without food.
 
 ## Kidney Transplant
 
-Your doctor will give you an initial dose of 6 mg as soon as possible after the kidney transplant operation. Then you will need to take 2 mg of Rapamune each day, until otherwise directed by your
+Your doctor will give you an initial dose of 6 mg as soon as possible after the kidney transplant operation. Then you will need to take 2 mg of Rapamune each day, until otherwise directed by your doctor. Your dose will be adjusted depending on the level of Rapamune in your blood. Your doctor will need to perform blood tests to measure Rapamune concentrations.
 
 <div style=\"page-break-after: always\"></div>
-
-doctor. Your dose will be adjusted depending on the level of Rapamune in your blood. Your doctor will need to perform blood tests to measure Rapamune concentrations.
 
 If you are also taking ciclosporin, then you must take the two medicines approximately 4 hours apart.
 
@@ -2758,18 +2742,14 @@ The tablets are supplied in blister packs of 30 and 100 tablets. Not all pack si
 
 ## Marketing Authorisation Holder and Manufacturer
 
-| Marketing Authorisation Holder: Pfizer Europe MAEEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium   | Manufacturer: Pfizer Ireland Pharmaceuticals Unlimited Company Little Connell Newbridge Co. Kildare Ireland   |
-|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Marketing Authorisation Holder: Pfizer Europe MAEEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium   | Manufacturer: Pfizer Ireland Pharmaceuticals Unlimited Company Little Connell Newbridge Co. Kildare W12 HX57 Ireland Pfizer Manufacturing Deutschland GmbH Mooswaldallee 1   |
+|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Luxembourg/Luxemburg
+België/Belgique/Belgien Luxembourg/Luxemburg Pfizer NV/SA Tél/Tel: +32 (0)2 554 62 11
 
-Pfizer NV/SA
-
-Tél/Tel: +32 (0)2 554 62 11
-
-Lietuva
+## Lietuva
 
 Pfizer Luxembourg SARL filialas Lietuvoje Tel. +3705 2514000
 

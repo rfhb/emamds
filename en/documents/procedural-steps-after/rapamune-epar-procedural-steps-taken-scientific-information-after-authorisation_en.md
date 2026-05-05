@@ -1,30 +1,30 @@
 ---
-document_datetime: 2025-09-17 10:37:39
-document_pages: 2
+document_datetime: 2026-05-04 09:59:22
+document_pages: 4
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/rapamune-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: rapamune-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 3.4458057
-conversion_datetime: 2025-12-25 01:30:13.235036
+processing_time: 2.2213493
+conversion_datetime: 2026-05-05 19:37:18.56498
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## Rapamune
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency' s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessmenthistory'section.Forthe completeproduct lifecycleprocedures,you mayneedtoalsorefertoEPAR-Proceduralsteps taken andscientific information after authorisation (archive).
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Applicationnumber    | Scope                               | Opinion/ Notification 1 issued on   | Commission Decision Issued²/ amendedon   | Product Information affected3   | Summary   |
-|----------------------|-------------------------------------|-------------------------------------|------------------------------------------|---------------------------------|-----------|
-| Variation typeIA_IN/ | B.II.b.2.cReplacementor additionofa | 11/09/2025                          |                                          | Annex II and                    |           |
+| Application number   | Scope                                  | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                            |
+|----------------------|----------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|----------------------------------------------------|
+| Variation type II /  | This was an application for a group of | 10/04/2026                          |                                             | Annex II and                     | The Annex II and IIIB have been updated to reflect |
 
 <!-- image -->
 
@@ -32,6 +32,18 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/VR/0000278463                        | manufacturerresponsibleforimportation and/or batch release - B.1I.b.2.c.1 Not including batch control/testing - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                       |            | PL              |
-|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------|
-| Variation type IA_IN / EMA/VR/0000248168 | Thiswasanapplicationforagroupof variations. A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites)-A.5.b The activities for which the manufacturer/importer is responsibledonotincludebatchrelease- Accepted A.5Change in the name and/or addressof a manufacturer/importer of the finished product (including batch release or quality control testing sites)-A.5.aThe activities for which the manufacturer/importer is responsibleincludebatchrelease-Accepted | 04/02/2025 | Annex II and PL |
+| EMA/VR/0000324329                     | variations. Q.II.b.1 Change in the manufacturing site for part or all of the manufacturing process of the finished product (except for batch release and batch control testing sites) - Q.II.b.1.c) Addition or replacement of a site responsible for any manufacturing operation(s) of finished product manufactured by novel or complex manufacturing processes - Accepted E.4 Change in the name and/or address of the marketing Term name: E.4 authorisation holder, ASMF holder, storage site of the master and/or working cell bank, manufacturing site for an active substance, intermediate or finished product, primary and/or secondary packaging site, manufacturer responsible for batch release, site where quality control takes place, and/or supplier of a packaging component, medical device (part), starting material, reagent and/or excipient (when mentioned in the dossier - E.4.b) The change in the name and/or address concerns a manufacturer(s)whose activities include   |            | PL   | the updated address of the finished product manufacturer from \"Pfizer Ireland Pharmaceuticals Unlimited Company, Little Connell, Newbridge, Co. Kildare, Ireland\" to \"Pfizer Ireland Pharmaceuticals Unlimited Company, Little Connell, Newbridge, Co. Kildare, W12 HX57 Ireland\"   |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variation type IB / EMA/VR/0000296878 | This was an application for a group of variations.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 08/10/2025 |      |                                                                                                                                                                                                                                                                                     |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                          | B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance - B.I.b.1.d Deletion of a non-significant specification parameter (e.g. deletion of an obsolete parameter) - Accepted B.I.b.2 Change in test procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - B.I.b.2.e Other changes to a test procedure (including replacement or addition) for the active substance or a starting material/intermediate - Accepted   |            |            |                 |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|-----------------|
+| Variation type IA_IN / EMA/VR/0000278463 | B.II.b.2.c Replacement or addition of a manufacturer responsible for importation and/or batch release - B.II.b.2.c.1 Not including batch control/testing - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 11/09/2025 |            | Annex II and PL |
+| Variation type IA_IN / EMA/VR/0000248168 | This was an application for a group of variations. A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.b The activities for which the manufacturer/importer is                                                                                                                                                                                                                                                                                                                                                                  | 04/02/2025 | 08/09/2025 | Annex II and PL |
+
+<div style=\"page-break-after: always\"></div>
+
+| responsible do not include batch release - Accepted A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.a The activities for which the manufacturer/importer is responsible include batch release - Accepted A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.a The activities for which the manufacturer/importer is responsible include batch release - Accepted   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

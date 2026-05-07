@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-24 11:35:22
+document_datetime: 2026-05-06 10:04:46
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/korjuny-epar-product-information_en.pdf
 document_name: korjuny-epar-product-information_en.pdf
 version: success
-processing_time: 11.641235
-conversion_datetime: 2025-12-22 21:22:29.214967
+processing_time: 10.2650222
+conversion_datetime: 2026-05-07 20:24:27.501989
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -76,7 +76,9 @@ Korjuny must be administered under the supervision of a physician experienced in
 
 ## EpCAM testing
 
-EpCAM positivity (≥ 400 EpCAM- positive cells/10 6 analysed ascites cells) should be assessed by a CE-marked IVD with the corresponding intended purpose. If the CE-marked IVD is not available, an alternative validated test should be used (see section 5.1).
+EpCAM expression in the clinical studies was determined using a validated immunocytochemical assay applied to malignant ascites samples, with a positivity threshold of ≥ 400 EpCAM-positive cells per 10⁶ analysed ascites cells.
+
+Where a CE-marked in vitro diagnostic device with the appropriate intended purpose is not available, alternative assays used in clinical practice should be validated and demonstrate appropriate analytical performance characteristics for this intended use.
 
 ## Posology
 
@@ -86,7 +88,7 @@ Side effects of catumaxomab treatment should be treated as medically indicated a
 
 Korjuny dosing schedule comprises the 4 intraperitoneal infusions listed in table 1.
 
-## Table 1 Korjuny dosing schedule
+Table 1 Korjuny dosing schedule
 
 |   Infusion number | Dose           |   Day |
 |-------------------|----------------|-------|
@@ -115,15 +117,13 @@ The safety and efficacy of Korjuny in children aged less than 18 years have not 
 
 ## Method of administration
 
-## Korjuny must be administered as an intraperitoneal infusion only.
+Korjuny must be administered as an intraperitoneal infusion only.
 
 Korjuny must not be administered by intraperitoneal bolus or by any other route of administration. For information on the perfusion system to be used see section 6.5.
 
-Korjuny has to be administered as constant rate intraperitoneal infusion with an infusion time of at least 3 hours. In clinical studies infusion times of 3 hours and 6 hours were investigated. For the first
-
 <div style=\"page-break-after: always\"></div>
 
-of the 4 doses, an infusion time of 6 hours may be considered depending on the patient's health condition.
+Korjuny has to be administered as constant rate intraperitoneal infusion with an infusion time of at least 3 hours. In clinical studies infusion times of 3 hours and 6 hours were investigated. For the first of the 4 doses, an infusion time of 6 hours may be considered depending on the patient's health condition.
 
 ## Precautions to be taken before administering the medicinal product
 
@@ -159,13 +159,11 @@ Appropriate medical management of ascites drainage is a prerequisite for Korjuny
 
 Blood volume, blood protein, blood pressure, pulse and renal function should be assessed before each Korjuny infusion. Conditions such as hypovolaemia, hypoproteinaemia, hypotension, circulatory decompensation and acute renal impairment must be resolved prior to each Korjuny infusion.
 
-## Hepatic function
-
-No dose adjustment is needed for patients with mild to moderate hepatic impairment. Transient
-
 <div style=\"page-break-after: always\"></div>
 
-elevations of liver parameters after catumaxomab infusions were observed in clinical studies which subsequently improved in the majority of patients shortly after completion of the last catumaxomab infusion. In rare cases, catumaxomab -drug induced liver injury (DILI) or hepatitis may occur, potentially leading to hepatic failure including fatal outcome. Patients treated with Korjuny should be closely monitored for signs of clinically significant elevated liver parameters.
+## Hepatic function
+
+No dose adjustment is needed for patients with mild to moderate hepatic impairment. Transient elevations of liver parameters after catumaxomab infusions were observed in clinical studies which subsequently improved in the majority of patients shortly after completion of the last catumaxomab infusion. In rare cases, catumaxomab -drug induced liver injury (DILI) or hepatitis may occur, potentially leading to hepatic failure including fatal outcome. Patients treated with Korjuny should be closely monitored for signs of clinically significant elevated liver parameters.
 
 Patients with severe hepatic impairment and/or with more than 70% of the liver volume involved by metastatic disease and/or portal vein thrombosis/obstruction have not been investigated. Treatment of these patients with catumaxomab should only be considered after a thorough evaluation of benefit/risk (see section 5.2).
 
@@ -193,9 +191,11 @@ The prescriber must discuss the risks of Korjuny therapy with the patient. The p
 
 This medicine contains 21.6 micrograms polysorbate 80 in each pre-filled syringe Korjuny 10 micrograms and 108 micrograms of polysorbate 80 in each pre-filled syringe Korjuny 50 micrograms. Polysorbates may cause allergic reactions.
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose unit, that is to say essentially 'sodium-free'. The amount of sodium administered per infusion is higher than that contained in the medicinal product due to the dilution of the concentrate with sodium chloride 9 mg/mL (0.9%) solution for injection. An additional 500 mL of sodium chloride 9 mg/mL (0.9%) solution for injection is given before each Korjuny administration and 250 mL of sodium chloride 9 mg/mL (0.9%) solution for injection is given in parallel with each Korjuny administration. See section 6.6.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose unit, that is to say essentially 'sodium-free'. The amount of sodium administered per infusion is higher than that contained in the medicinal product due to the dilution of the concentrate with sodium chloride 9 mg/mL (0.9%) solution for injection. An additional 500 mL of sodium chloride 9 mg/mL (0.9%) solution for injection is given before each Korjuny administration and 250 mL of sodium chloride
 
 <div style=\"page-break-after: always\"></div>
+
+9 mg/mL (0.9%) solution for injection is given in parallel with each Korjuny administration. See section 6.6.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -350,11 +350,9 @@ Catumaxomab is a trifunctional rat-mouse hybrid monoclonal antibody that is spec
 
 ## Pharmacodynamic effects
 
-The anti-tumour activity of catumaxomab has been demonstrated in vitro and in vivo . Effective catumaxomab-mediated killing of tumour cells in vitro was observed for target cells with low and  high
+The anti-tumour activity of catumaxomab has been demonstrated in vitro and in vivo . Effective catumaxomab-mediated killing of tumour cells in vitro was observed for target cells with low and  high expression of the EpCAM antigen, independent of the primary tumour type. The in vivo anti-tumour activity of catumaxomab was confirmed in an immunologically compromised mouse  model of ovarian carcinoma, where tumour development was delayed by an intraperitoneal treatment  with catumaxomab and human peripheral blood mononuclear cells.
 
 <div style=\"page-break-after: always\"></div>
-
-expression of the EpCAM antigen, independent of the primary tumour type. The in vivo anti-tumour activity of catumaxomab was confirmed in an immunologically compromised mouse  model of ovarian carcinoma, where tumour development was delayed by an intraperitoneal treatment  with catumaxomab and human peripheral blood mononuclear cells.
 
 ## Clinical efficacy
 
@@ -408,8 +406,6 @@ Table 4  Overall survival of study IP-REM-AC-01
 | 1 year survival rate           | 11.4%                               | 2.6%                             |
 | Median overall survival (days) | 72                                  | 71                               |
 
-1 Crossover patients were counted as control patients despite crossing over to paracentesis and catumaxomab treatment; this were 45 of 88 (51%) patients in the control arm.
-
 <div style=\"page-break-after: always\"></div>
 
 ## Immunogenicity
@@ -454,11 +450,9 @@ No studies have been conducted.
 
 Administration of catumaxomab in animal models did not result in any signs of abnormal or product related acute toxicity or signs of local intolerance at the injection/infusion site. However, these findings are of limited value due to the high species-specificity of catumaxomab.
 
-Repeated-dose toxicity, genotoxicity, carcinogenicity, reproductive and developmental toxicity
+Repeated-dose toxicity, genotoxicity, carcinogenicity, reproductive and developmental toxicity studies have not been performed.
 
 <div style=\"page-break-after: always\"></div>
-
-studies have not been performed.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -610,9 +604,13 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer of the biological active substance Celonic Deutschland GmbH &amp; Co. KG Czernyring 22 Weststadt, Heidelberg 69115 Baden-Wuerttemberg Germany
+Name and address of the manufacturer of the biological active substance Celonic Deutschland GmbH &amp; Co. KG Czernyring 22 Weststadt, Heidelberg 69115 Baden-Wuerttemberg
 
-Name and address of the manufacturer responsible for batch release Eurofins PHAST GmbH, Kardinal-Wendel-Strasse 16 Homburg 66424 Saarland Germany
+Germany
+
+Name and address of the manufacturer responsible for batch release
+
+Eurofins PHAST GmbH, Kardinal-Wendel-Strasse 16 Homburg 66424 Saarland Germany
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -639,11 +637,9 @@ An updated RMP should be submitted:
 
 ## · Additional risk minimisation measure
 
-The MAH shall ensure that in each Member State where Korjuny is marketed, all patients/carers who are expected to use catumaxomab have access to/are provided with the Patient Card which will inform
+The MAH shall ensure that in each Member State where Korjuny is marketed, all patients/carers who are expected to use catumaxomab have access to/are provided with the Patient Card which will inform and explain to patients the risks of cytokine release syndrome (CRS) and systemic inflammatory response syndrome (SIRS). The Patient Card also includes a warning message for healthcare professionals treating the patient that the patient is receiving catumaxomab.
 
 <div style=\"page-break-after: always\"></div>
-
-and explain to patients the risks of cytokine release syndrome (CRS) and systemic inflammatory response syndrome (SIRS). The Patient Card also includes a warning message for healthcare professionals treating the patient that the patient is receiving catumaxomab.
 
 The Patient Card shall contain the following key messages:
 
@@ -983,11 +979,9 @@ Do not drive or use machines if you have side effects such as dizziness or infus
 
 This medicine contains 21.6 micrograms polysorbate 80 in each pre-filled syringe Korjuny 10 micrograms and 108 micrograms of polysorbate 80 in each pre-filled syringe Korjuny 50 micrograms. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'. The amount of sodium administered per infusion is higher than that contained in the medicinal product due to the dilution of the concentrate with sodium chloride 9 mg/mL (0.9%) solution. An
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'. The amount of sodium administered per infusion is higher than that contained in the medicinal product due to the dilution of the concentrate with sodium chloride 9 mg/mL (0.9%) solution. An additional 500 mL of sodium chloride 9 mg/mL (0.9%) solution for injection is given before each Korjuny administration and 250 mL of sodium chloride 9 mg/mL (0.9%) solution for injection is given in parallel with each Korjuny administration.
 
 <div style=\"page-break-after: always\"></div>
-
-additional 500 mL of sodium chloride 9 mg/mL (0.9%) solution for injection is given before each Korjuny administration and 250 mL of sodium chloride 9 mg/mL (0.9%) solution for injection is given in parallel with each Korjuny administration.
 
 ## 3. How to use Korjuny
 
@@ -1179,7 +1173,7 @@ The prepared infusion solution should be used immediately.
 
 ## What Korjuny contains
 
-- •
+- ·
 - The active substance is catumaxomab.
 
 One pre-filled syringe Korjuny 10 micrograms contains 10 micrograms of catumaxomab in 0.1 mL concentrate, corresponding to 0.1 mg/mL.
@@ -1241,10 +1235,10 @@ Korjuny should be prepared by a healthcare professional using appropriate asepti
 - The entire content of the pre-filled syringe is injected into the sodium chloride 9 mg/mL (0.9%) solution for injection.
 - The plunger rod must not be drawn back to rinse the pre-filled syringe, to avoid contamination and to ensure that the correct volume is ejected.
 - Based on the table, the previous steps are repeated to inject the required number of pre-filled syringes into the 50 mL syringe.
+- The 50 mL syringe is closed with a cap and shaken gently to mix the solution.
 
 <div style=\"page-break-after: always\"></div>
 
-- The 50 mL syringe is closed with a cap and shaken gently to mix the solution.
 - After removing the cap, any air bubbles are eliminated from the 50 mL syringe.
 - The red peelable sticker, which is provided inside the carton lid, displaying the text 'Diluted Korjuny. Intraperitoneal use only.' must be attached to the 50 mL syringe. This is a precautionary measure to ensure Korjuny is intraperitoneally infused only.
 - The 50 mL syringe is inserted in the infusion pump.

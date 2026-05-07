@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:49:25
+document_datetime: 2026-05-05 15:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bimervax.html
 document_name: bimervax.html
 version: success
-processing_time: 0.1203694
-conversion_datetime: 2025-12-29 22:39:35.032974
+processing_time: 0.268963
+conversion_datetime: 2026-05-07 20:00:57.030076
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Bimervax
 
 [RSS](/en/individual-human-medicine.xml/67672)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-COVID-19 Vaccine (recombinant, adjuvanted) Medicine Human Authorised
+COVID-19 Vaccine (recombinant, adjuvanted)
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -189,275 +189,141 @@ Reference Number: EMADOC-1700519818-2486748
 
 English (EN) (148.15 KB - PDF)
 
-**First published:** 31/03/2023
-
-**Last updated:** 11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/en/documents/overview/bimervax-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-714)
+[Other languages (22)](#file-language-dropdown-865)
 
 български (BG) (186.97 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/bg/documents/overview/bimervax-epar-medicine-overview_bg.pdf)
 
 español (ES) (149.27 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/es/documents/overview/bimervax-epar-medicine-overview_es.pdf)
 
 čeština (CS) (184.8 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/cs/documents/overview/bimervax-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (146.95 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/da/documents/overview/bimervax-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (155.19 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/de/documents/overview/bimervax-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (144.29 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/et/documents/overview/bimervax-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (188.15 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/el/documents/overview/bimervax-epar-medicine-overview_el.pdf)
 
 français (FR) (151.63 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/fr/documents/overview/bimervax-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (175.45 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/hr/documents/overview/bimervax-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (148.34 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/it/documents/overview/bimervax-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (188.08 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/lv/documents/overview/bimervax-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (179.47 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/lt/documents/overview/bimervax-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (177.2 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/hu/documents/overview/bimervax-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (186.58 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/mt/documents/overview/bimervax-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (151.38 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/nl/documents/overview/bimervax-epar-medicine-overview_nl.pdf)
 
 polski (PL) (183.4 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/pl/documents/overview/bimervax-epar-medicine-overview_pl.pdf)
 
 português (PT) (149.33 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/pt/documents/overview/bimervax-epar-medicine-overview_pt.pdf)
 
 română (RO) (171.43 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/ro/documents/overview/bimervax-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (185.47 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/sk/documents/overview/bimervax-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (175.54 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/sl/documents/overview/bimervax-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (144.12 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/fi/documents/overview/bimervax-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (145.53 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-11/11/2025
+**First published:** 31/03/2023 **Last updated:** 11/11/2025
 
 [View](/sv/documents/overview/bimervax-epar-medicine-overview_sv.pdf)
 
@@ -465,9 +331,7 @@ Bimervax : EPAR - Risk-management-plan
 
 English (EN) (6.21 MB - PDF)
 
-**First published:** 31/03/2023
-
-**Last updated:** 11/06/2025
+**First published:** 31/03/2023 **Last updated:** 11/06/2025
 
 [View](/en/documents/rmp/bimervax-epar-risk-management-plan_en.pdf)
 
@@ -475,293 +339,161 @@ English (EN) (6.21 MB - PDF)
 
 Bimervax : EPAR - Product information
 
-English (EN) (936.13 KB - PDF)
+English (EN) (982.83 KB - PDF)
 
-**First published:** 30/03/2023
-
-**Last updated:** 21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/en/documents/product-information/bimervax-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-47)
+[Other languages (24)](#file-language-dropdown-186)
 
-български (BG) (1.04 MB - PDF)
+български (BG) (1.11 MB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/bg/documents/product-information/bimervax-epar-product-information_bg.pdf)
 
-español (ES) (808.03 KB - PDF)
+español (ES) (861.06 KB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/es/documents/product-information/bimervax-epar-product-information_es.pdf)
 
-čeština (CS) (933.51 KB - PDF)
+čeština (CS) (991.42 KB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/cs/documents/product-information/bimervax-epar-product-information_cs.pdf)
 
-dansk (DA) (884 KB - PDF)
+dansk (DA) (938.94 KB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/da/documents/product-information/bimervax-epar-product-information_da.pdf)
 
-Deutsch (DE) (907.09 KB - PDF)
+Deutsch (DE) (965.27 KB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/de/documents/product-information/bimervax-epar-product-information_de.pdf)
 
-eesti keel (ET) (834.98 KB - PDF)
+eesti keel (ET) (885.03 KB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/et/documents/product-information/bimervax-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.02 MB - PDF)
+ελληνικά (EL) (1.09 MB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/el/documents/product-information/bimervax-epar-product-information_el.pdf)
 
-français (FR) (883.98 KB - PDF)
+français (FR) (939.77 KB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/fr/documents/product-information/bimervax-epar-product-information_fr.pdf)
 
-hrvatski (HR) (988.94 KB - PDF)
+hrvatski (HR) (1.02 MB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/hr/documents/product-information/bimervax-epar-product-information_hr.pdf)
 
-íslenska (IS) (872.67 KB - PDF)
+íslenska (IS) (934.52 KB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/is/documents/product-information/bimervax-epar-product-information_is.pdf)
 
-italiano (IT) (881.47 KB - PDF)
+italiano (IT) (991.91 KB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/it/documents/product-information/bimervax-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (970 KB - PDF)
+latviešu valoda (LV) (1.01 MB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/lv/documents/product-information/bimervax-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (966.8 KB - PDF)
+lietuvių kalba (LT) (1022.42 KB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/lt/documents/product-information/bimervax-epar-product-information_lt.pdf)
 
-magyar (HU) (971.7 KB - PDF)
+magyar (HU) (1.01 MB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/hu/documents/product-information/bimervax-epar-product-information_hu.pdf)
 
-Malti (MT) (1011.56 KB - PDF)
+Malti (MT) (1.05 MB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/mt/documents/product-information/bimervax-epar-product-information_mt.pdf)
 
-Nederlands (NL) (824.32 KB - PDF)
+Nederlands (NL) (878.44 KB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/nl/documents/product-information/bimervax-epar-product-information_nl.pdf)
 
-norsk (NO) (834.44 KB - PDF)
+norsk (NO) (878.9 KB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/no/documents/product-information/bimervax-epar-product-information_no.pdf)
 
-polski (PL) (994.9 KB - PDF)
+polski (PL) (1.03 MB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/pl/documents/product-information/bimervax-epar-product-information_pl.pdf)
 
-português (PT) (900.93 KB - PDF)
+português (PT) (958.24 KB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/pt/documents/product-information/bimervax-epar-product-information_pt.pdf)
 
-română (RO) (983.99 KB - PDF)
+română (RO) (1.02 MB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/ro/documents/product-information/bimervax-epar-product-information_ro.pdf)
 
-slovenčina (SK) (944.84 KB - PDF)
+slovenčina (SK) (997.67 KB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/sk/documents/product-information/bimervax-epar-product-information_sk.pdf)
 
-Suomi (FI) (866.05 KB - PDF)
+slovenščina (SL) (988.06 KB - PDF)
 
-**First published:**
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
-30/03/2023
+[View](/sl/documents/product-information/bimervax-epar-product-information_sl.pdf)
 
-**Last updated:**
+Suomi (FI) (921.5 KB - PDF)
 
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/fi/documents/product-information/bimervax-epar-product-information_fi.pdf)
 
-svenska (SV) (850.77 KB - PDF)
+svenska (SV) (1.02 MB - PDF)
 
-**First published:**
-
-30/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/03/2023 **Last updated:** 05/05/2026
 
 [View](/sv/documents/product-information/bimervax-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000257408 02/10/2025
+**Latest procedure affecting product information:** VR/0000312996
+
+05/03/2026
 
 icon globe
 
@@ -779,307 +511,179 @@ Product information documents contain:
 
 Bimervax : EPAR - All Authorised presentations
 
-English (EN) (110.47 KB - PDF)
+English (EN) (104.71 KB - PDF)
 
-**First published:** 31/03/2023
-
-**Last updated:** 21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/en/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-217)
+[Other languages (24)](#file-language-dropdown-701)
 
-български (BG) (129.32 KB - PDF)
+български (BG) (125.84 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/bg/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (97.84 KB - PDF)
+español (ES) (101.34 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/es/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (116.75 KB - PDF)
+čeština (CS) (114.98 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/cs/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (100.87 KB - PDF)
+dansk (DA) (105.1 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/da/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (108.21 KB - PDF)
+Deutsch (DE) (106.19 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/de/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (97.19 KB - PDF)
+eesti keel (ET) (99.38 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/et/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (126.12 KB - PDF)
+ελληνικά (EL) (124.89 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/el/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (124.38 KB - PDF)
+français (FR) (123.75 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/fr/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (138.57 KB - PDF)
+hrvatski (HR) (139.6 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/hr/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (105.23 KB - PDF)
+íslenska (IS) (102.8 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/is/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (102.6 KB - PDF)
+italiano (IT) (100.64 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/it/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (135.79 KB - PDF)
+latviešu valoda (LV) (138.96 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/lv/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (142.61 KB - PDF)
+lietuvių kalba (LT) (134.75 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/lt/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (127.76 KB - PDF)
+magyar (HU) (125.62 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/hu/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (130.28 KB - PDF)
+Malti (MT) (129.39 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/mt/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (109.98 KB - PDF)
+Nederlands (NL) (112.85 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/nl/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (99.08 KB - PDF)
+norsk (NO) (103.17 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/no/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (144.11 KB - PDF)
+polski (PL) (140.59 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/pl/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (216.38 KB - PDF)
+português (PT) (115.55 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/pt/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (150.47 KB - PDF)
+română (RO) (136.05 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/ro/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (135.59 KB - PDF)
+slovenčina (SK) (123.19 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/sk/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (127.27 KB - PDF)
+slovenščina (SL) (127.23 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/sl/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (103.75 KB - PDF)
+Suomi (FI) (101.38 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/fi/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (101.89 KB - PDF)
+svenska (SV) (100.93 KB - PDF)
 
-**First published:**
-
-31/03/2023
-
-**Last updated:**
-
-21/10/2025
+**First published:** 31/03/2023 **Last updated:** 05/05/2026
 
 [View](/sv/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Bimervax Active substance SARS-CoV-2 virus recombinant spike (S) protein receptor binding domain (RBD) fusion dimer produced by recombinant DNA technology International non-proprietary name (INN) or common name COVID-19 Vaccine (recombinant, adjuvanted) Therapeutic area (MeSH) COVID-19 virus infection Anatomical therapeutic chemical (ATC) code J07BN
+Name of medicine
+
+Bimervax
+
+Active substance
+
+SARS-CoV-2 virus recombinant spike (S) protein receptor binding domain (RBD) fusion dimer produced by recombinant DNA technology
+
+International non-proprietary name (INN) or common name
+
+COVID-19 Vaccine (recombinant, adjuvanted)
+
+Therapeutic area (MeSH)
+
+COVID-19 virus infection
+
+Anatomical therapeutic chemical (ATC) code
+
+J07BN
 
 ### Pharmacotherapeutic group
 
@@ -1095,7 +699,9 @@ Bimervax LP.8.1 is indicated for active immunisation to prevent COVID-19 caused 
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006058
+EMA product number
+
+EMEA/H/C/006058
 
 Additional monitoring
 
@@ -1107,7 +713,13 @@ Hipra Human Health S.L.
 
 Avinguda Selva 135
 
-Marketing authorisation issued 30/03/2023 Revision 12
+Marketing authorisation issued
+
+30/03/2023
+
+Revision
+
+13
 
 ## Assessment history
 
@@ -1119,11 +731,9 @@ Collapse section
 
 Bimervax : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (134.71 KB - PDF)
+English (EN) (166.96 KB - PDF)
 
-**First published:** 26/05/2025
-
-**Last updated:** 21/10/2025
+**First published:** 26/05/2025 **Last updated:** 05/05/2026
 
 [View](/en/documents/procedural-steps-after/bimervax-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1131,17 +741,13 @@ Bimervax : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (196.98 KB - PDF)
 
-**First published:** 29/06/2023
-
-**Last updated:** 30/04/2025
+**First published:** 29/06/2023 **Last updated:** 30/04/2025
 
 [View](/en/documents/procedural-steps-after/bimervax-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Bimervax-VR-0000257408 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2307180
+Adopted Reference Number: EMADOC-1700519818-2307180
 
 English (EN) (1.02 MB - PDF)
 
@@ -1151,23 +757,17 @@ English (EN) (1.02 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Bimervax (EMAVR0000257408)
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2450542 Rev. 1
+Adopted Reference Number: EMADOC-1700519818-2450542 Rev. 1
 
 English (EN) (123.09 KB - PDF)
 
-**First published:** 19/09/2025
-
-**Last updated:** 21/10/2025
+**First published:** 19/09/2025 **Last updated:** 21/10/2025
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-bimervax-emavr0000257408_en.pdf)
 
 Bimervax-H-C-006058-X-0014-G : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/510906/2024
+Adopted Reference Number: EMA/510906/2024
 
 English (EN) (2.43 MB - PDF)
 
@@ -1179,9 +779,7 @@ English (EN) (2.43 MB - PDF)
 
 Bimervax : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/175278/2023
+Adopted Reference Number: EMA/175278/2023
 
 English (EN) (5.85 MB - PDF)
 
@@ -1191,9 +789,7 @@ English (EN) (5.85 MB - PDF)
 
 CHMP summary of positive opinion for Bimervax
 
-Adopted
-
-Reference Number: EMA/141306/2023
+Adopted Reference Number: EMA/141306/2023
 
 English (EN) (128.27 KB - PDF)
 
@@ -1201,7 +797,7 @@ English (EN) (128.27 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-bimervax_en.pdf)
 
-#### Safety updates
+## Safety updates
 
 Bimervax: Periodic safety update report assessment 30 September 2024 - 29 March 2025
 
@@ -1221,17 +817,25 @@ English (EN) (3.95 MB - PDF)
 
 [View](/en/documents/covid-19-vaccine-safety-update/bimervax-periodic-safety-update-report-assessment-30-march-2023-29-september-2023_en.pdf)
 
-#### News on Bimervax
+## News on Bimervax
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 September 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-september-2025) 19/09/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 September 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-september-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025) 28/02/2025
+19/09/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27 - 30 March 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-march-2023) 31/03/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025)
 
-[EMA recommends approval of Bimervax as a COVID-19 booster vaccine](/en/news/ema-recommends-approval-bimervax-covid-19-booster-vaccine) 30/03/2023
+28/02/2025
 
-#### More information on Bimervax
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27 - 30 March 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-march-2023)
+
+31/03/2023
+
+[EMA recommends approval of Bimervax as a COVID-19 booster vaccine](/en/news/ema-recommends-approval-bimervax-covid-19-booster-vaccine)
+
+30/03/2023
+
+## More information on Bimervax
 
 - [EMEA-003191-PIP01-22-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-003191-pip01-22-m01)
 - [Bimervax - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/bimervax)
@@ -1241,8 +845,8 @@ English (EN) (3.95 MB - PDF)
 - [Vaccine Effectiveness, Burden and Impact Studies (VEBIS), Vaccine effectiveness against COVID-19 and seasonal influenza among patients presenting to primary care physicians in EU/EEA - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000095)
 - [Vaccine Effectiveness, Burden and Impact Studies (VEBIS) - Vaccine effectiveness and the impact of COVID-19 vaccines through routinely collected exposure and outcome data using health registries - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000101)
 
-**This page was last updated on** 09/12/2025
+**This page was last updated on**
+
+05/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

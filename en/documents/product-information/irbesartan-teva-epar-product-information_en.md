@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-01-29 10:18:51
-document_pages: 56
+document_datetime: 2026-05-06 09:44:53
+document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/irbesartan-teva-epar-product-information_en.pdf
 document_name: irbesartan-teva-epar-product-information_en.pdf
 version: success
-processing_time: 11.8207166
-conversion_datetime: 2025-12-26 11:21:48.770981
+processing_time: 15.197434
+conversion_datetime: 2026-05-07 20:16:43.969713
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -110,11 +110,9 @@ Symptomatic hypotension, especially after the first dose, may occur in patients 
 
 ## Renovascular hypertension
 
-There is an increased risk of severe hypotension and renal insufficiency when patients with bilateral renal artery stenosis or stenosis of the artery to a single functioning kidney are treated with medicinal
+There is an increased risk of severe hypotension and renal insufficiency when patients with bilateral renal artery stenosis or stenosis of the artery to a single functioning kidney are treated with medicinal products that affect the renin-angiotensin-aldosterone system. While this is not documented with irbesartan, a similar effect should be anticipated with angiotensin-II receptor antagonists.
 
 <div style=\"page-break-after: always\"></div>
-
-products that affect the renin-angiotensin-aldosterone system. While this is not documented with irbesartan, a similar effect should be anticipated with angiotensin-II receptor antagonists.
 
 ## Renal impairment and kidney transplantation
 
@@ -154,11 +152,9 @@ Patients with primary aldosteronism generally will not respond to antihypertensi
 
 ## General
 
-In patients whose vascular tone and renal function depend predominantly on the activity of the reninangiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with angiotensin converting enzyme inhibitors or
+In patients whose vascular tone and renal function depend predominantly on the activity of the reninangiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with angiotensin converting enzyme inhibitors or angiotensin-II receptor antagonists that affect this system has been associated with acute hypotension, azotaemia, oliguria, or rarely acute renal failure (see section 4.5). As with any antihypertensive agent, excessive blood pressure decrease in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke.
 
 <div style=\"page-break-after: always\"></div>
-
-angiotensin-II receptor antagonists that affect this system has been associated with acute hypotension, azotaemia, oliguria, or rarely acute renal failure (see section 4.5). As with any antihypertensive agent, excessive blood pressure decrease in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke.
 
 As observed for angiotensin converting enzyme inhibitors, irbesartan and the other angiotensin antagonists are apparently less effective in lowering blood pressure in black people than in non-blacks, possibly because of higher prevalence of low-renin states in the black hypertensive population (see section 5.1).
 
@@ -428,15 +424,13 @@ Reduction of blood pressure with 0.5 mg/kg (low), 1.5 mg/kg (medium) and 4.5 mg/
 
 ## Hypertension and type 2 diabetes with renal disease
 
-The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreases the progression of renal disease in patients with chronic renal insufficiency and overt proteinuria. IDNT was a double blind, controlled, morbidity and mortality trial comparing irbesartan, amlodipine and placebo. In 1,715 hypertensive patients with type 2 diabetes, proteinuria ≥ 900 mg/day and serum creatinine ranging from 1.0-3.0 mg/dl, the long-term effects (mean 2.6 years) of irbesartan on the progression of renal disease and all-cause mortality were examined. Patients were titrated from 75 mg to a maintenance dose of 300 mg irbesartan, from 2.5 mg to 10 mg amlodipine, or placebo as tolerated. Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a pred efined blood pressure goal of ≤ 135/85 mm Hg or a 10 mm Hg reduction in systolic pressure if baseline was &gt; 160 mm Hg. Sixty per cent (60 %) of patients in the placebo group reached this target blood pressure whereas this figure was 76 % and 78 % in the irbesartan and amlodipine groups respectively. Irbesartan significantly reduced the relative risk in the primary combined endpoint of doubling serum creatinine, end-stage renal disease (ESRD) or allcause mortality. Approximately 33 % of patients in the irbesartan group reached the primary renal composite endpoint compared to 39 % and 41 % in the placebo and amlodipine groups [20 % relative risk reduction versus placebo (p = 0.024) and 23 % relative risk reduction compared to amlodipine (p = 0.006)]. When the individual components of the primary endpoint were analysed, no
+The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreases the progression of renal disease in patients with chronic renal insufficiency and overt proteinuria. IDNT was a double blind, controlled, morbidity and mortality trial comparing irbesartan, amlodipine and placebo. In 1,715 hypertensive patients with type 2 diabetes, proteinuria ≥ 900 mg/day and serum creatinine ranging from 1.0-3.0 mg/dl, the long-term effects (mean 2.6 years) of irbesartan on the progression of renal disease and all-cause mortality were examined. Patients were titrated from 75 mg to a maintenance dose of 300 mg irbesartan, from 2.5 mg to 10 mg amlodipine, or placebo as tolerated. Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a pred efined blood pressure goal of ≤ 135/85 mm Hg or a 10 mm Hg reduction in systolic pressure if baseline was &gt; 160 mm Hg. Sixty per cent (60 %) of patients in the placebo group reached this target blood pressure whereas this figure was 76 % and 78 % in the irbesartan and amlodipine groups respectively. Irbesartan significantly reduced the relative risk in the primary combined endpoint of doubling serum creatinine, end-stage renal disease (ESRD) or allcause mortality. Approximately 33 % of patients in the irbesartan group reached the primary renal composite endpoint compared to 39 % and 41 % in the placebo and amlodipine groups [20 % relative risk reduction versus placebo (p = 0.024) and 23 % relative risk reduction compared to amlodipine (p = 0.006)]. When the individual components of the primary endpoint were analysed, no effect in all cause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
 
 <div style=\"page-break-after: always\"></div>
 
-effect in all cause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
-
 Subgroups consisting of gender, race, age, duration of diabetes, baseline blood pressure, serum creatinine, and albumin excretion rate were assessed for treatment effect. In the female and black subgroups which represented 32 % and 26 % of the overall study population respectively, a renal benefit was not evident, although the confidence intervals do not exclude it. As for the secondary endpoint of fatal and non-fatal cardiovascular events, there was no difference among the three groups in the overall population, although an increased incidence of non-fatal MI was seen for women and a decreased incidence of non-fatal MI was seen in males in the irbesartan group versus the placebobased regimen. An increased incidence of non-fatal MI and stroke was seen in females in the irbesartan-based regimen versus the amlodipine-based regimen, while hospitalization due to heart failure was reduced in the overall population. However, no proper explanation for these findings in women has been identified.
 
-The study of the 'Effects of Irbesartan on Microalbuminuria in Hypertensive Patients with type 2 Diabetes Mellitus (IRMA 2)' shows that irbesartan 300 mg delays progression to overt proteinuria in patients with microalbuminuria. IRMA 2 was a placebo-controlled double blind morbidity study in 590 patients with type 2 diabetes, microalbuminuria (30-300 mg/day) and normal renal function (serum creatinine ≤ 1.5 mg/dl in males and &lt; 1.1 mg/dl in females). The study examined the long-term effects (2 years) of irbesartan on the progression to clinical (overt) proteinuria (urinary albumin excretion rate (UAER) &gt; 300 mg/day, and an increase in UAER of at least 30 % from baseline). The prede fined blood pressure goal was ≤ 135/85 mm Hg. Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and dihydropyridine calcium blockers) were added as needed to help achieve the blood pressure goal. While similar blood pressure was achieved in all treatment groups, fewer subjects in the irbesartan 300 mg group (5.2 %) than in the placebo (14.9 %) or in the irbesartan 150 mg group (9.7 %) reached the endpoint of overt proteinuria, demonstrating a 70 % relative risk reduction versus placebo (p = 0.0004) for the higher dose. An accompanying improvement in the glomerular filtration rate (GFR) was not observed during the first three months of treatment. The slowing in the progression to clinical proteinuria was evident as early as three months and continued over the 2 year period. Regression to normoalbuminuria (&lt; 30 mg/day) was more frequent in the irbesartan 300 mg group (34 %) than in the placebo group (21 %).
+The study of the 'Effects of Irbesartan on Microalbuminuria in Hypertensive Patients with type 2 Diabetes Mellitus (IRMA 2)' shows that irbesartan 300 mg delays progression to overt proteinuria in patients with microalbuminuria. IRMA 2 was a placebo-controlled double blind morbidity study in 590 patients with type 2 diabetes, microalbuminuria (30-300 mg/day) and normal renal function (serum c reatinine ≤ 1.5 mg/dl in males and &lt; 1.1 mg/dl in females). The study examined the long-term effects (2 years) of irbesartan on the progression to clinical (overt) proteinuria (urinary albumin excretion rate (UAER) &gt; 300 mg/day, and an increase in UAER of at least 30 % from baseline). The prede fined blood pressure goal was ≤ 135/85 mm Hg. Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and dihydropyridine calcium blockers) were added as needed to help achieve the blood pressure goal. While similar blood pressure was achieved in all treatment groups, fewer subjects in the irbesartan 300 mg group (5.2 %) than in the placebo (14.9 %) or in the irbesartan 150 mg group (9.7 %) reached the endpoint of overt proteinuria, demonstrating a 70 % relative risk reduction versus placebo (p = 0.0004) for the higher dose. An accompanying improvement in the glomerular filtration rate (GFR) was not observed during the first three months of treatment. The slowing in the progression to clinical proteinuria was evident as early as three months and continued over the 2 year period. Regression to normoalbuminuria (&lt; 30 mg/day) was more frequent in the irbesartan 300 mg group (34 %) than in the placebo group (21 %).
 
 ## Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
 
@@ -492,13 +486,11 @@ In patients with mild to moderate cirrhosis, the pharmacokinetic parameters of i
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studi es, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxt aglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan  caused a reduction of red blood cell parameters At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan. with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -506,11 +498,7 @@ Animal studies with irbesartan showed transient toxic effects (increased renal p
 
 Tablet Core: Povidone Pregelatinized starch (maize) Poloxamer 188 Microcrystalline cellulose Croscarmellose sodium Silica, colloidal hydrated Magnesium stearate
 
-Film coating: Polydextrose (E1200) Titanium dioxide (E171) Hypromellose (E464)
-
-<div style=\"page-break-after: always\"></div>
-
-Macrogol 4000
+Film coating: Polydextrose (E1200) Titanium dioxide (E171) Hypromellose (E464) Macrogol 4000
 
 ## 6.2 Incompatibilities
 
@@ -518,7 +506,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-2 years
+<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -547,19 +535,13 @@ Teva B.V. Swensweg 5 2031GA Haarlem The Netherlands
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 ```
-Irbesartan Teva 75 mg film-coated tablets EU/1/09/576/001  7 tablets EU/1/09/576/002  14 tablets EU/1/09/576/003  28 tablets EU/1/09/576/004  30 tablets EU/1/09/576/005  56 tablets EU/1/09/576/006  60 tablets EU/1/09/576/007  80 tablets EU/1/09/576/008  84 tablets EU/1/09/576/009  90 tablets EU/1/09/576/010  98 tablets EU/1/09/576/011  100 tablets EU/1/09/576/012  50 x 1 tablet (unit dose) EU/1/09/576/013  56 x 1 tablet (unit dose) EU/1/09/576/040  28 tablets (calendar pack)
+Irbesartan Teva 75 mg film-coated tablets EU/1/09/576/001  7 tablets EU/1/09/576/002  14 tablets EU/1/09/576/003  28 tablets EU/1/09/576/004  30 tablets EU/1/09/576/005  56 tablets EU/1/09/576/006  60 tablets EU/1/09/576/007  80 tablets EU/1/09/576/008  84 tablets EU/1/09/576/009  90 tablets EU/1/09/576/010  98 tablets EU/1/09/576/011  100 tablets EU/1/09/576/012  50 x 1 tablet (unit dose) EU/1/09/576/013  56 x 1 tablet (unit dose) EU/1/09/576/040  28 tablets (calendar pack) Irbesartan Teva 150 mg film-coated tablets EU/1/09/576/014  7 tablets EU/1/09/576/015  14 tablets EU/1/09/576/016  28 tablets EU/1/09/576/017  30 tablets EU/1/09/576/018  56 tablets EU/1/09/576/019  60 tablets EU/1/09/576/020  80 tablets EU/1/09/576/021  84 tablets EU/1/09/576/022  90 tablets
 ```
-
-```
-Irbesartan Teva 150 mg film-coated tablets
-```
-
-EU/1/09/576/014  7 tablets
 
 <div style=\"page-break-after: always\"></div>
 
 ```
-EU/1/09/576/015  14 tablets EU/1/09/576/016  28 tablets EU/1/09/576/017  30 tablets EU/1/09/576/018  56 tablets EU/1/09/576/019  60 tablets EU/1/09/576/020  80 tablets EU/1/09/576/021  84 tablets EU/1/09/576/022  90 tablets EU/1/09/576/023  98 tablets EU/1/09/576/024  100 tablets EU/1/09/576/025  50 x 1 tablet (unit dose) EU/1/09/576/026  56 x 1 tablet (unit dose) EU/1/09/576/041  28 tablets (calendar pack) Irbesartan Teva 300 mg film-coated tablets EU/1/09/576/027  7 tablets EU/1/09/576/028  14 tablets EU/1/09/576/029  28 tablets EU/1/09/576/030  30 tablets EU/1/09/576/031  56 tablets EU/1/09/576/032  60 tablets EU/1/09/576/033  80 tablets EU/1/09/576/034  84 tablets EU/1/09/576/035  90 tablets EU/1/09/576/036  98 tablets EU/1/09/576/037  100 tablets EU/1/09/576/038  50 x 1 tablet (unit dose) EU/1/09/576/039  56 x 1 tablet (unit dose) EU/1/09/576/042  28 tablets (calendar pack)
+EU/1/09/576/023  98 tablets EU/1/09/576/024  100 tablets EU/1/09/576/025  50 x 1 tablet (unit dose) EU/1/09/576/026  56 x 1 tablet (unit dose) EU/1/09/576/041  28 tablets (calendar pack) Irbesartan Teva 300 mg film-coated tablets EU/1/09/576/027  7 tablets EU/1/09/576/028  14 tablets EU/1/09/576/029  28 tablets EU/1/09/576/030  30 tablets EU/1/09/576/031  56 tablets EU/1/09/576/032  60 tablets EU/1/09/576/033  80 tablets EU/1/09/576/034  84 tablets EU/1/09/576/035  90 tablets EU/1/09/576/036  98 tablets EU/1/09/576/037  100 tablets EU/1/09/576/038  50 x 1 tablet (unit dose) EU/1/09/576/039  56 x 1 tablet (unit dose) EU/1/09/576/042  28 tablets (calendar pack)
 ```
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
@@ -570,7 +552,7 @@ Date of latest renewal: 18 July 2014
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency: http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency: https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -671,7 +653,8 @@ Keep out of the sight and reach of children.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
+|-------|-----------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -691,15 +674,14 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-Medicinal product subject to medical prescription.
-
 ## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Irbesartan Teva 75 mg film-coated tablets
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -737,8 +719,6 @@ LOT
 
 | 5.   | OTHER   |
 |------|---------|
-
-23
 
 <div style=\"page-break-after: always\"></div>
 
@@ -841,8 +821,6 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-Medicinal product subject to medical prescription.
-
 ## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -851,9 +829,9 @@ Irbesartan Teva 150 mg film-coated tablets
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-<div style=\"page-break-after: always\"></div>
-
 2D barcode carrying the unique identifier included.
+
+<div style=\"page-break-after: always\"></div>
 
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
@@ -971,7 +949,13 @@ Keep out of the sight and reach of children.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10.
+
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -990,8 +974,6 @@ EU/1/09/576/042  28 tablets (calendar pack)
 Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-Medicinal product subject to medical prescription.
 
 ## 15. INSTRUCTIONS ON USE
 
@@ -1213,11 +1195,9 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.  Some of these effects may be serious and may require medical attention.
 
-As with similar medicines, rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. If you get any
+As with similar medicines, rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. If you get any of these symptoms or get short of breath, stop taking Irbesartan Teva and contact your doctor immediately.
 
 <div style=\"page-break-after: always\"></div>
-
-of these symptoms or get short of breath, stop taking Irbesartan Teva and contact your doctor immediately.
 
 ## List of side effects:
 
@@ -1289,13 +1269,15 @@ Teva Pharma Belgium N.V./S.A./AG Belgique/Belgien Tél/Tel: +32 38207373
 
 Тева Фарма ЕАД
 
-Teл: +359 2489958 5
+Teл
+
+.: +359 24899585
 
 ## Magyarország
 
 Teva Gyógyszergyár Zrt.
 
-Tel: +36 12886400
+Tel.: +36 12886400
 
 ## Česká republika
 
@@ -1305,17 +1287,17 @@ Tel: +420 251007111
 
 ## Malta
 
-Teva Pharmaceuticals Ireland L-Irlanda
+TEVA HELLAS Α.Ε. il- Greċja
 
 Τel: +
 
-44 2075407117
+30 2118805000
 
 ## Danmark
 
 Teva Denmark A/S
 
-Tlf: +45 44985511
+Tlf.: +45 44985511
 
 ## Nederland
 
@@ -1339,7 +1321,9 @@ Tel: +372 6610801
 
 ## Ελλάδα
 
-Specifar A.B.E.E.
+TEVA HELLAS Α . Ε
+
+.
 
 Τηλ: +30
 
@@ -1349,7 +1333,7 @@ Specifar A.B.E.E.
 
 Teva Pharma, S.L.U.
 
-Tel: +34 913873280
+Tel: +34 915359180
 
 ## France
 
@@ -1371,11 +1355,9 @@ Tel: +44 2075407117
 
 ## Ísland
 
-Teva Finland Oy
+Teva Pharma Iceland ehf.
 
-Finnland
-
-Sími: +358 201805900
+Sími: +354 5503300
 
 ## Italia
 
@@ -1385,7 +1367,7 @@ Tel: +39 028917981
 
 ## Κύπρος
 
-Specifar A.B.E.E.
+TEVA HELLAS Α . Ε .
 
 Ελλάδα
 
@@ -1405,7 +1387,9 @@ UAB Teva Baltics
 
 Tel: +370 52660203
 
-This leaflet was last revised in {MM/YYYY}.
+## This leaflet was last revised in {MM/YYYY}.
+
+Detailed information on Irbesartan Teva is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ## Norge
 
@@ -1415,13 +1399,15 @@ Tlf: +47 66775590
 
 ## Österreich
 
-ratiopharm Arzneimittel Vertriebs-GmbH Tel: +43 1970070
+ratiopharm Arzneimittel Vertriebs-GmbH
+
+Tel: +43 1970070
 
 ## Polska
 
 Teva Pharmaceuticals Polska Sp. z o.o.
 
-Tel: +48 223459300
+Tel.: +48 223459300
 
 ## Portugal
 
@@ -1439,11 +1425,15 @@ Tel: +40 212306524
 
 ## Slovenija
 
-Pliva Ljubljana d.o.o. Tel: +386 15890390
+Pliva Ljubljana d.o.o.
+
+Tel: +386 15890390
 
 ## Slovenská republika
 
-TEVA Pharmaceuticals Slovakia s.r.o. Tel: +421 257267911
+TEVA Pharmaceuticals Slovakia s.r.o.
+
+Tel: +421 257267911
 
 ## Suomi/Finland
 
@@ -1456,10 +1446,6 @@ Puh/Tel: +358 201805900
 Teva Sweden AB
 
 Tel: +46 42121100
-
-<div style=\"page-break-after: always\"></div>
-
-Detailed information on Irbesartan Teva is available on the European Medicines Agency web site: http://www.ema.europa.eu/
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1601,11 +1587,9 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.  Some of these effects may be serious and may require medical attention.
 
-As with similar medicines, rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. If you get any
+As with similar medicines, rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. If you get any of these symptoms or get short of breath, stop taking Irbesartan Teva and contact your doctor immediately.
 
 <div style=\"page-break-after: always\"></div>
-
-of these symptoms or get short of breath, stop taking Irbesartan Teva and contact your doctor immediately.
 
 List of side effects:
 
@@ -1669,7 +1653,9 @@ For any information about this medicinal product, please contact the local repre
 
 ## België/Belgique/Belgien
 
-Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
+Teva Pharma Belgium N.V./S.A./AG
+
+Tél/Tel: +32 38207373
 
 ## Luxembourg/Luxemburg
 
@@ -1679,13 +1665,15 @@ Teva Pharma Belgium N.V./S.A./AG Belgique/Belgien Tél/Tel: +32 38207373
 
 Тева Фарма ЕАД
 
-Teл: +359 2489958 5
+Teл
+
+.: +359 24899585
 
 ## Magyarország
 
 Teva Gyógyszergyár Zrt.
 
-Tel: +36 12886400
+Tel.: +36 12886400
 
 ## Česká republika
 
@@ -1695,19 +1683,17 @@ Tel: +420 251007111
 
 ## Malta
 
-Teva Pharmaceuticals Ireland
-
-L-Irlanda
+TEVA HELLAS Α.Ε. il- Greċja
 
 Τel: +
 
-44 2075407117
+30 2118805000
 
 ## Danmark
 
 Teva Denmark A/S
 
-Tlf: +45 44985511
+Tlf.: +45 44985511
 
 ## Nederland
 
@@ -1731,7 +1717,9 @@ Tel: +372 6610801
 
 ## Ελλάδα
 
-Specifar A.B.E.E.
+TEVA HELLAS Α . Ε
+
+.
 
 Τηλ: +30
 
@@ -1741,7 +1729,7 @@ Specifar A.B.E.E.
 
 Teva Pharma, S.L.U.
 
-Tel: +34 913873280
+Tel: +34 915359180
 
 ## France
 
@@ -1763,11 +1751,9 @@ Tel: +44 2075407117
 
 ## Ísland
 
-Teva Finland Oy
+Teva Pharma Iceland ehf.
 
-Finnland
-
-Sími: +358 201805900
+Sími: +354 5503300
 
 ## Italia
 
@@ -1777,7 +1763,7 @@ Tel: +39 028917981
 
 ## Κύπρος
 
-Specifar A.B.E.E.
+TEVA HELLAS Α . Ε .
 
 Ελλάδα
 
@@ -1797,7 +1783,9 @@ UAB Teva Baltics
 
 Tel: +370 52660203
 
-This leaflet was last revised in {MM/YYYY}.
+## This leaflet was last revised in {MM/YYYY}.
+
+Detailed information on Irbesartan Teva is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ## Norge
 
@@ -1807,13 +1795,15 @@ Tlf: +47 66775590
 
 ## Österreich
 
-ratiopharm Arzneimittel Vertriebs-GmbH Tel: +43 1970070
+ratiopharm Arzneimittel Vertriebs-GmbH
+
+Tel: +43 1970070
 
 ## Polska
 
 Teva Pharmaceuticals Polska Sp. z o.o.
 
-Tel: +48 223459300
+Tel.: +48 223459300
 
 ## Portugal
 
@@ -1831,11 +1821,15 @@ Tel: +40 212306524
 
 ## Slovenija
 
-Pliva Ljubljana d.o.o. Tel: +386 15890390
+Pliva Ljubljana d.o.o.
+
+Tel: +386 15890390
 
 ## Slovenská republika
 
-TEVA Pharmaceuticals Slovakia s.r.o. Tel: +421 257267911
+TEVA Pharmaceuticals Slovakia s.r.o.
+
+Tel: +421 257267911
 
 ## Suomi/Finland
 
@@ -1848,10 +1842,6 @@ Puh/Tel: +358 201805900
 Teva Sweden AB
 
 Tel: +46 42121100
-
-<div style=\"page-break-after: always\"></div>
-
-Detailed information on Irbesartan Teva is available on the European Medicines Agency web site: http://www.ema.europa.eu/
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1991,11 +1981,9 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.  Some of these effects may be serious and may require medical attention.
 
-As with similar medicines, rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. If you get any
+As with similar medicines, rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. If you get any of these symptoms or get short of breath, stop taking Irbesartan Teva and contact your doctor immediately.
 
 <div style=\"page-break-after: always\"></div>
-
-of these symptoms or get short of breath, stop taking Irbesartan Teva and contact your doctor immediately.
 
 ## List of side effects:
 
@@ -2067,13 +2055,15 @@ Teva Pharma Belgium N.V./S.A./AG Belgique/Belgien Tél/Tel: +32 38207373
 
 Тева Фарма ЕАД
 
-Teл: +359 2489958 5
+Teл
+
+.: +359 24899585
 
 ## Magyarország
 
 Teva Gyógyszergyár Zrt.
 
-Tel: +36 12886400
+Tel.: +36 12886400
 
 ## Česká republika
 
@@ -2083,17 +2073,17 @@ Tel: +420 251007111
 
 ## Malta
 
-Teva Pharmaceuticals Ireland L-Irlanda
+TEVA HELLAS Α.Ε. il- Greċja
 
 Τel: +
 
-44 2075407117
+30 2118805000
 
 ## Danmark
 
 Teva Denmark A/S
 
-Tlf: +45 44985511
+Tlf.: +45 44985511
 
 ## Nederland
 
@@ -2117,7 +2107,9 @@ Tel: +372 6610801
 
 ## Ελλάδα
 
-Specifar A.B.E.E.
+TEVA HELLAS Α . Ε
+
+.
 
 Τηλ: +30
 
@@ -2127,7 +2119,7 @@ Specifar A.B.E.E.
 
 Teva Pharma, S.L.U.
 
-Tel: +34 913873280
+Tel: +34 915359180
 
 ## France
 
@@ -2149,11 +2141,9 @@ Tel: +44 2075407117
 
 ## Ísland
 
-Teva Finland Oy
+Teva Pharma Iceland ehf.
 
-Finnland
-
-Sími: +358 201805900
+Sími: +354 5503300
 
 ## Italia
 
@@ -2163,7 +2153,7 @@ Tel: +39 028917981
 
 ## Κύπρος
 
-Specifar A.B.E.E.
+TEVA HELLAS Α . Ε .
 
 Ελλάδα
 
@@ -2183,7 +2173,9 @@ UAB Teva Baltics
 
 Tel: +370 52660203
 
-This leaflet was last revised in {MM/YYYY}.
+## This leaflet was last revised in {MM/YYYY}.
+
+Detailed information on Irbesartan Teva is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ## Norge
 
@@ -2193,13 +2185,15 @@ Tlf: +47 66775590
 
 ## Österreich
 
-ratiopharm Arzneimittel Vertriebs-GmbH Tel: +43 1970070
+ratiopharm Arzneimittel Vertriebs-GmbH
+
+Tel: +43 1970070
 
 ## Polska
 
 Teva Pharmaceuticals Polska Sp. z o.o.
 
-Tel: +48 223459300
+Tel.: +48 223459300
 
 ## Portugal
 
@@ -2217,11 +2211,15 @@ Tel: +40 212306524
 
 ## Slovenija
 
-Pliva Ljubljana d.o.o. Tel: +386 15890390
+Pliva Ljubljana d.o.o.
+
+Tel: +386 15890390
 
 ## Slovenská republika
 
-TEVA Pharmaceuticals Slovakia s.r.o. Tel: +421 257267911
+TEVA Pharmaceuticals Slovakia s.r.o.
+
+Tel: +421 257267911
 
 ## Suomi/Finland
 
@@ -2234,7 +2232,3 @@ Puh/Tel: +358 201805900
 Teva Sweden AB
 
 Tel: +46 42121100
-
-<div style=\"page-break-after: always\"></div>
-
-Detailed information on Irbesartan Teva is available on the European Medicines Agency web site: http://www.ema.europa.eu/

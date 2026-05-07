@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 08:42:52
+document_datetime: 2026-05-05 14:24:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ilaris.html
 document_name: ilaris.html
 version: success
-processing_time: 0.1586833
-conversion_datetime: 2025-12-30 22:20:05.29407
+processing_time: 0.1767226
+conversion_datetime: 2026-05-07 20:10:17.298965
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Ilaris
 
 [RSS](/en/individual-human-medicine.xml/66419)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-canakinumab Medicine Human Authorised
+canakinumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -128,275 +128,141 @@ Ilaris : EPAR - Summary for the public
 
 English (EN) (85.94 KB - PDF)
 
-**First published:** 12/11/2009
-
-**Last updated:** 17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/en/documents/overview/ilaris-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-474)
+[Other languages (22)](#file-language-dropdown-684)
 
 български (BG) (115.5 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/bg/documents/overview/ilaris-epar-summary-public_bg.pdf)
 
 español (ES) (118.28 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/es/documents/overview/ilaris-epar-summary-public_es.pdf)
 
 čeština (CS) (114.46 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/cs/documents/overview/ilaris-epar-summary-public_cs.pdf)
 
 dansk (DA) (83.9 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/da/documents/overview/ilaris-epar-summary-public_da.pdf)
 
 Deutsch (DE) (117.5 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/de/documents/overview/ilaris-epar-summary-public_de.pdf)
 
 eesti keel (ET) (94 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/et/documents/overview/ilaris-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (115.98 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/el/documents/overview/ilaris-epar-summary-public_el.pdf)
 
 français (FR) (86.81 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/fr/documents/overview/ilaris-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (103.54 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/hr/documents/overview/ilaris-epar-summary-public_hr.pdf)
 
 italiano (IT) (84.96 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/it/documents/overview/ilaris-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (109.56 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/lv/documents/overview/ilaris-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (110.3 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/lt/documents/overview/ilaris-epar-summary-public_lt.pdf)
 
 magyar (HU) (108.21 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/hu/documents/overview/ilaris-epar-summary-public_hu.pdf)
 
 Malti (MT) (114.66 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/mt/documents/overview/ilaris-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (85.68 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/nl/documents/overview/ilaris-epar-summary-public_nl.pdf)
 
 polski (PL) (119.74 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/pl/documents/overview/ilaris-epar-summary-public_pl.pdf)
 
 português (PT) (114.49 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/pt/documents/overview/ilaris-epar-summary-public_pt.pdf)
 
 română (RO) (116.59 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/ro/documents/overview/ilaris-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (113.98 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/sk/documents/overview/ilaris-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (108.72 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/sl/documents/overview/ilaris-epar-summary-public_sl.pdf)
 
 Suomi (FI) (83.48 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/fi/documents/overview/ilaris-epar-summary-public_fi.pdf)
 
 svenska (SV) (84.37 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-17/05/2017
+**First published:** 12/11/2009 **Last updated:** 17/05/2017
 
 [View](/sv/documents/overview/ilaris-epar-summary-public_sv.pdf)
 
@@ -412,305 +278,155 @@ English (EN) (2.93 MB - PDF)
 
 Ilaris : EPAR - Product Information
 
-English (EN) (1.26 MB - PDF)
+English (EN) (841.74 KB - PDF)
 
-**First published:** 12/11/2009
-
-**Last updated:** 05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/en/documents/product-information/ilaris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-812)
+[Other languages (23)](#file-language-dropdown-838)
 
-български (BG) (1.36 MB - PDF)
+български (BG) (986.71 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/bg/documents/product-information/ilaris-epar-product-information_bg.pdf)
 
-español (ES) (1.32 MB - PDF)
+español (ES) (890.66 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/es/documents/product-information/ilaris-epar-product-information_es.pdf)
 
-čeština (CS) (1.29 MB - PDF)
+dansk (DA) (988.35 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
-
-[View](/cs/documents/product-information/ilaris-epar-product-information_cs.pdf)
-
-dansk (DA) (1.33 MB - PDF)
-
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/da/documents/product-information/ilaris-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.3 MB - PDF)
+Deutsch (DE) (912.72 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/de/documents/product-information/ilaris-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.28 MB - PDF)
+eesti keel (ET) (871.03 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/et/documents/product-information/ilaris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.43 MB - PDF)
+ελληνικά (EL) (950.68 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/el/documents/product-information/ilaris-epar-product-information_el.pdf)
 
-français (FR) (1.41 MB - PDF)
+français (FR) (949.74 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/fr/documents/product-information/ilaris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.32 MB - PDF)
+hrvatski (HR) (868.44 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/hr/documents/product-information/ilaris-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.31 MB - PDF)
+íslenska (IS) (889.67 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/is/documents/product-information/ilaris-epar-product-information_is.pdf)
 
-italiano (IT) (1.37 MB - PDF)
+italiano (IT) (925.5 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/it/documents/product-information/ilaris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.38 MB - PDF)
+latviešu valoda (LV) (927.4 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/lv/documents/product-information/ilaris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.38 MB - PDF)
+lietuvių kalba (LT) (916.08 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/lt/documents/product-information/ilaris-epar-product-information_lt.pdf)
 
-magyar (HU) (1.46 MB - PDF)
+magyar (HU) (976.33 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/hu/documents/product-information/ilaris-epar-product-information_hu.pdf)
 
-Malti (MT) (1.48 MB - PDF)
+Malti (MT) (974.98 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/mt/documents/product-information/ilaris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.32 MB - PDF)
+Nederlands (NL) (895.5 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/nl/documents/product-information/ilaris-epar-product-information_nl.pdf)
 
-norsk (NO) (1.29 MB - PDF)
+norsk (NO) (912.08 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/no/documents/product-information/ilaris-epar-product-information_no.pdf)
 
-polski (PL) (1.42 MB - PDF)
+polski (PL) (990.34 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/pl/documents/product-information/ilaris-epar-product-information_pl.pdf)
 
-português (PT) (1.32 MB - PDF)
+português (PT) (890.23 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/pt/documents/product-information/ilaris-epar-product-information_pt.pdf)
 
-română (RO) (1.49 MB - PDF)
+română (RO) (959.73 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/ro/documents/product-information/ilaris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.46 MB - PDF)
+slovenčina (SK) (997.21 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/sk/documents/product-information/ilaris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.4 MB - PDF)
+slovenščina (SL) (935.38 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/sl/documents/product-information/ilaris-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.33 MB - PDF)
+Suomi (FI) (896.44 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/fi/documents/product-information/ilaris-epar-product-information_fi.pdf)
 
-svenska (SV) (1.29 MB - PDF)
+svenska (SV) (875.08 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-05/02/2025
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/sv/documents/product-information/ilaris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000246279 04/02/2025
+**Latest procedure affecting product information:** VR/0000340976
+
+30/04/2026
 
 icon globe
 
@@ -728,301 +444,149 @@ Product information documents contain:
 
 Ilaris : EPAR - All Authorised presentations
 
-English (EN) (48.49 KB - PDF)
+English (EN) (82.65 KB - PDF)
 
-**First published:** 12/11/2009
-
-**Last updated:** 11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/en/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-147)
+[Other languages (23)](#file-language-dropdown-44)
 
-български (BG) (65.69 KB - PDF)
+български (BG) (90.83 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/bg/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (57 KB - PDF)
+español (ES) (82.51 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/es/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (62 KB - PDF)
+čeština (CS) (87.51 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/cs/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (59.18 KB - PDF)
+Deutsch (DE) (85.83 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
-
-[View](/da/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_da.pdf)
-
-Deutsch (DE) (55.21 KB - PDF)
-
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/de/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (53.98 KB - PDF)
+eesti keel (ET) (80.74 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/et/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (61.99 KB - PDF)
+ελληνικά (EL) (88.01 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/el/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (58.35 KB - PDF)
+français (FR) (64.19 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/fr/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (59.3 KB - PDF)
+hrvatski (HR) (84.33 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/hr/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (58.85 KB - PDF)
+íslenska (IS) (84.62 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/is/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (56.86 KB - PDF)
+italiano (IT) (82.31 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/it/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (62.07 KB - PDF)
+latviešu valoda (LV) (87.83 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/lv/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (51.23 KB - PDF)
+lietuvių kalba (LT) (66.61 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/lt/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (62.3 KB - PDF)
+magyar (HU) (87.36 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/hu/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (64.54 KB - PDF)
+Malti (MT) (88.15 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/mt/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (56.45 KB - PDF)
+Nederlands (NL) (82.33 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/nl/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (59.28 KB - PDF)
+norsk (NO) (85.27 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/no/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (62.54 KB - PDF)
+polski (PL) (87.4 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/pl/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (59.36 KB - PDF)
+português (PT) (84.83 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/pt/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (61.05 KB - PDF)
+română (RO) (85.95 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/ro/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (62.02 KB - PDF)
+slovenčina (SK) (87.26 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/sk/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (59.52 KB - PDF)
+slovenščina (SL) (82.76 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/sl/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (54.68 KB - PDF)
+Suomi (FI) (80.14 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/fi/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (57.75 KB - PDF)
+svenska (SV) (83.45 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-11/12/2024
+**First published:** 12/11/2009 **Last updated:** 05/05/2026
 
 [View](/sv/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_sv.pdf)
 
@@ -1030,275 +594,161 @@ Ilaris : EPAR - Conditions imposed on member states for safe and effective use -
 
 English (EN) (32.38 KB - PDF)
 
-**First published:** 12/11/2009
-
-**Last updated:** 12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/en/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-70)
+[Other languages (21)](#file-language-dropdown-510)
 
 български (BG) (116.95 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/bg/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_bg.pdf)
 
 español (ES) (32.86 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/es/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_es.pdf)
 
 čeština (CS) (119.3 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/cs/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_cs.pdf)
 
 dansk (DA) (32.68 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/da/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_da.pdf)
 
 Deutsch (DE) (33.04 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/de/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_de.pdf)
 
 eesti keel (ET) (32.6 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/et/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_et.pdf)
 
 ελληνικά (EL) (111.7 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/el/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_el.pdf)
 
 français (FR) (31.16 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/fr/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fr.pdf)
 
 italiano (IT) (32.56 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/it/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_it.pdf)
 
 latviešu valoda (LV) (119.26 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/lv/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lv.pdf)
 
 lietuvių kalba (LT) (116.21 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/lt/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lt.pdf)
 
 magyar (HU) (114.46 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/hu/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_hu.pdf)
 
 Malti (MT) (119.4 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/mt/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_mt.pdf)
 
 Nederlands (NL) (75.03 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/nl/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_nl.pdf)
 
 polski (PL) (120.41 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/pl/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_pl.pdf)
 
 português (PT) (32.86 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/pt/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_pt.pdf)
 
 română (RO) (116.08 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/ro/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_ro.pdf)
 
 slovenčina (SK) (117.88 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/sk/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sk.pdf)
 
 slovenščina (SL) (110.03 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/sl/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sl.pdf)
 
 Suomi (FI) (36.76 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/fi/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fi.pdf)
 
 svenska (SV) (32.63 KB - PDF)
 
-**First published:**
-
-12/11/2009
-
-**Last updated:**
-
-12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/sv/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sv.pdf)
 
 ## Product details
 
-Name of medicine Ilaris Active substance Canakinumab International non-proprietary name (INN) or common name canakinumab Therapeutic area (MeSH)
+Name of medicine
+
+Ilaris
+
+Active substance
+
+canakinumab
+
+International non-proprietary name (INN) or common name
+
+canakinumab
+
+Therapeutic area (MeSH)
 
 - Cryopyrin-Associated Periodic Syndromes
 - Arthritis, Juvenile Rheumatoid
 - Arthritis, Gouty
 
-Anatomical therapeutic chemical (ATC) code L04AC08
+Anatomical therapeutic chemical (ATC) code
+
+L04AC08
 
 ### Pharmacotherapeutic group
 
@@ -1342,13 +792,23 @@ Ilaris is indicated for the symptomatic treatment of adult patients with frequen
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/001109 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/001109
+
+Marketing authorisation holder
 
 Novartis Europharm Limited
 
 Vista Building
 
-Marketing authorisation issued 23/10/2009 Revision 34
+Marketing authorisation issued
+
+23/10/2009
+
+Revision
+
+35
 
 ## Assessment history
 
@@ -1360,9 +820,9 @@ Collapse section
 
 Ilaris : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (121.66 KB - PDF)
+English (EN) (146.04 KB - PDF)
 
-**First published:** 05/02/2025
+**First published:** 05/02/2025 **Last updated:** 05/05/2026
 
 [View](/en/documents/procedural-steps-after/ilaris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1370,17 +830,13 @@ Ilaris : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (307.52 KB - PDF)
 
-**First published:** 27/04/2010
-
-**Last updated:** 05/02/2025
+**First published:** 27/04/2010 **Last updated:** 05/02/2025
 
 [View](/en/documents/procedural-steps-after/ilaris-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Ilaris-PAM-0000280285 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2226547
+Adopted Reference Number: EMADOC-1700519818-2226547
 
 English (EN) (474.83 KB - PDF)
 
@@ -1390,9 +846,7 @@ English (EN) (474.83 KB - PDF)
 
 Ilaris-H-C-001109-P46-059 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/112036/2024
+Adopted Reference Number: EMA/112036/2024
 
 English (EN) (351.12 KB - PDF)
 
@@ -1402,9 +856,7 @@ English (EN) (351.12 KB - PDF)
 
 Ilaris-H-C-001109-P46-058 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/760908/2022
+Adopted Reference Number: EMA/760908/2022
 
 English (EN) (835.3 KB - PDF)
 
@@ -1414,9 +866,7 @@ English (EN) (835.3 KB - PDF)
 
 Ilaris-H-C-1109-P46-053 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/269473/2019
+Adopted Reference Number: EMA/CHMP/269473/2019
 
 English (EN) (522.07 KB - PDF)
 
@@ -1426,9 +876,7 @@ English (EN) (522.07 KB - PDF)
 
 Ilaris-H-C-1109-P46-052 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/269480/2019
+Adopted Reference Number: EMA/CHMP/269480/2019
 
 English (EN) (503.02 KB - PDF)
 
@@ -1440,23 +888,17 @@ Ilaris-H-C-1109-X-0045-G : EPAR - Assessment Report - Variation
 
 English (EN) (1.56 MB - PDF)
 
-**First published:** 02/03/2017
-
-**Last updated:** 02/03/2017
+**First published:** 02/03/2017 **Last updated:** 02/03/2017
 
 [View](/en/documents/variation-report/ilaris-h-c-1109-x-0045-g-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Ilaris
 
-Adopted
-
-Reference Number: EMA/CHMP/827091/2016
+Adopted Reference Number: EMA/CHMP/827091/2016
 
 English (EN) (80.1 KB - PDF)
 
-**First published:** 16/12/2016
-
-**Last updated:** 16/12/2016
+**First published:** 16/12/2016 **Last updated:** 16/12/2016
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-ilaris_en.pdf-3)
 
@@ -1464,51 +906,37 @@ Ilaris-H-C-1109-P46-049 : EPAR - Assessment Report
 
 English (EN) (187.83 KB - PDF)
 
-**First published:** 07/10/2016
-
-**Last updated:** 07/10/2016
+**First published:** 07/10/2016 **Last updated:** 07/10/2016
 
 [View](/en/documents/variation-report/ilaris-h-c-1109-p46-049-epar-assessment-report_en.pdf)
 
 Ilaris-H-C-1109-P46-048 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/577659/2016
+Adopted Reference Number: EMA/CHMP/577659/2016
 
 English (EN) (160.88 KB - PDF)
 
-**First published:** 13/09/2016
-
-**Last updated:** 13/09/2016
+**First published:** 13/09/2016 **Last updated:** 13/09/2016
 
 [View](/en/documents/variation-report/ilaris-h-c-1109-p46-048-epar-assessment-report_en.pdf)
 
 Ilaris-H-C-1109-II-0043 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/493970/2016
+Adopted Reference Number: EMA/493970/2016
 
 English (EN) (2.98 MB - PDF)
 
-**First published:** 08/09/2016
-
-**Last updated:** 08/09/2016
+**First published:** 08/09/2016 **Last updated:** 08/09/2016
 
 [View](/en/documents/variation-report/ilaris-h-c-1109-ii-0043-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Ilaris
 
-Adopted
-
-Reference Number: EMA/CHMP/421628/2016
+Adopted Reference Number: EMA/CHMP/421628/2016
 
 English (EN) (76 KB - PDF)
 
-**First published:** 24/06/2016
-
-**Last updated:** 24/06/2016
+**First published:** 24/06/2016 **Last updated:** 24/06/2016
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-ilaris_en.pdf-1)
 
@@ -1518,51 +946,37 @@ Reference Number: EMA/850660/2015
 
 English (EN) (69.12 KB - PDF)
 
-**First published:** 08/01/2016
-
-**Last updated:** 08/01/2016
+**First published:** 08/01/2016 **Last updated:** 08/01/2016
 
 [View](/en/documents/pip-compliance/ilaris-epar-paediatric-investigation-plan-compliance-statement_en.pdf)
 
 Ilaris-H-C-1109-P46-0043 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/554401/2015
+Adopted Reference Number: EMA/554401/2015
 
 English (EN) (303.74 KB - PDF)
 
-**First published:** 05/10/2015
-
-**Last updated:** 05/10/2015
+**First published:** 05/10/2015 **Last updated:** 05/10/2015
 
 [View](/en/documents/variation-report/ilaris-h-c-1109-p46-0043-epar-assessment-report_en.pdf)
 
 Ilaris-H-C-1109-P46-0040 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/334385/2015
+Adopted Reference Number: EMA/334385/2015
 
 English (EN) (220.13 KB - PDF)
 
-**First published:** 20/05/2015
-
-**Last updated:** 20/05/2015
+**First published:** 20/05/2015 **Last updated:** 20/05/2015
 
 [View](/en/documents/variation-report/ilaris-h-c-1109-p46-0040-epar-assessment-report_en.pdf)
 
 Ilaris-H-C-1109-P46-0041 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/334374/2015
+Adopted Reference Number: EMA/334374/2015
 
 English (EN) (434.31 KB - PDF)
 
-**First published:** 20/05/2015
-
-**Last updated:** 20/05/2015
+**First published:** 20/05/2015 **Last updated:** 20/05/2015
 
 [View](/en/documents/variation-report/ilaris-h-c-1109-p46-0041-epar-assessment-report_en.pdf)
 
@@ -1572,65 +986,47 @@ Reference Number: EMA/602161/2014
 
 English (EN) (61.39 KB - PDF)
 
-**First published:** 01/10/2014
-
-**Last updated:** 01/10/2014
+**First published:** 01/10/2014 **Last updated:** 01/10/2014
 
 [View](/en/documents/scientific-conclusion/ilaris-h-c-1109-psuv-0032-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Ilaris-H-C-1109-II-0026 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/427081/2013
+Adopted Reference Number: EMA/CHMP/427081/2013
 
 English (EN) (4.68 MB - PDF)
 
-**First published:** 11/10/2013
-
-**Last updated:** 11/10/2013
+**First published:** 11/10/2013 **Last updated:** 11/10/2013
 
 [View](/en/documents/variation-report/ilaris-h-c-1109-ii-0026-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Ilaris
 
-Adopted
-
-Reference Number: EMA/CHMP/433406/2013
+Adopted Reference Number: EMA/CHMP/433406/2013
 
 English (EN) (76.12 KB - PDF)
 
-**First published:** 26/07/2013
-
-**Last updated:** 26/07/2013
+**First published:** 26/07/2013 **Last updated:** 26/07/2013
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-ilaris_en.pdf-0)
 
 Ilaris-H-C-1109-II-0021 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/748727/2012
+Adopted Reference Number: EMA/CHMP/748727/2012
 
 English (EN) (3.07 MB - PDF)
 
-**First published:** 02/04/2013
-
-**Last updated:** 02/04/2013
+**First published:** 02/04/2013 **Last updated:** 02/04/2013
 
 [View](/en/documents/variation-report/ilaris-h-c-1109-ii-0021-epar-assessment-report-variation_en.pdf)
 
 Ilaris-H-C-1109-II-0010 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/1634/2013
+Adopted Reference Number: EMA/CHMP/1634/2013
 
 English (EN) (5.75 MB - PDF)
 
-**First published:** 02/04/2013
-
-**Last updated:** 02/04/2013
+**First published:** 02/04/2013 **Last updated:** 02/04/2013
 
 [View](/en/documents/variation-report/ilaris-h-c-1109-ii-0010-epar-assessment-report-variation_en.pdf)
 
@@ -1640,9 +1036,7 @@ Reference Number: EMA/CHMP/789757/2012
 
 English (EN) (58.75 KB - PDF)
 
-**First published:** 14/12/2012
-
-**Last updated:** 14/12/2012
+**First published:** 14/12/2012 **Last updated:** 14/12/2012
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-ilaris_en.pdf-2)
 
@@ -1652,9 +1046,7 @@ Ilaris : EPAR - Public assessment report
 
 English (EN) (853.49 KB - PDF)
 
-**First published:** 12/11/2009
-
-**Last updated:** 12/11/2009
+**First published:** 12/11/2009 **Last updated:** 12/11/2009
 
 [View](/en/documents/assessment-report/ilaris-epar-public-assessment-report_en.pdf)
 
@@ -1664,33 +1056,43 @@ Reference Number: EMEA/CHMP/447829/2009
 
 English (EN) (78.35 KB - PDF)
 
-**First published:** 24/07/2009
-
-**Last updated:** 24/07/2009
+**First published:** 24/07/2009 **Last updated:** 24/07/2009
 
 [View](/en/documents/smop-initial/committee-medicinal-products-human-use-summary-positive-opinion-ilaris_en.pdf)
 
-#### News on Ilaris
+## News on Ilaris
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2022) 11/11/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2016) 16/12/2016
+11/11/2022
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 June 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-june-2016) 24/06/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2016)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2013) 26/07/2013
+16/12/2016
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 January 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-january-2013) 18/01/2013
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 June 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-june-2016)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 December 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-december-2012) 14/12/2012
+24/06/2016
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2013)
+
+26/07/2013
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 January 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-january-2013)
+
+18/01/2013
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 December 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-december-2012)
+
+14/12/2012
 
 - [Clinical data (variation II/0043)](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC001109II0043)
 
-#### More information on Ilaris
+## More information on Ilaris
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu307439) on 20 March 2007. Upon request of the marketing-authorisation holder, Ilaris has now been removed from the Community register of orphan medicinal products.
 
-#### More information on Ilaris
+## More information on Ilaris
 
 - [EMEA-000060-PIP01-07-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000060-pip01-07-m03)
 - [EMEA-000060-PIP02-08-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000060-pip02-08-m06)
@@ -1702,12 +1104,12 @@ This product is no longer an orphan medicine. It was originally [designated an o
 - [Ilaris - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/ilaris)
 - [Pharmacovigilance In Juvenile Idiopathic Arthritis Patients Treated With Biologic Agents And/Or Methotrexate. A Pediatric Rheumatology International Trials Organisation (PRINTO)/Pediatric Rheumatology European Society (PRES) Registry (Pharmachild JIA registry) - post-authorisation study](https://catalogues.ema.europa.eu/study/49777)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 13/10/2025
+**This page was last updated on**
+
+05/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

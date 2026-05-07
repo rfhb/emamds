@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:03:45
+document_datetime: 2026-05-06 10:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/truqap.html
 document_name: truqap.html
 version: success
-processing_time: 0.1103225
-conversion_datetime: 2025-12-30 09:56:08.960082
+processing_time: 0.111404
+conversion_datetime: 2026-05-07 20:10:01.294156
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Truqap
 
 [RSS](/en/individual-human-medicine.xml/241791)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-capivasertib Medicine Human Authorised
+capivasertib
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -116,181 +116,137 @@ English (EN) (133.08 KB - PDF)
 
 [View](/en/documents/overview/truqap-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-393)
+[Other languages (22)](#file-language-dropdown-776)
 
 български (BG) (165.69 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/bg/documents/overview/truqap-epar-medicine-overview_bg.pdf)
 
 español (ES) (131.09 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/es/documents/overview/truqap-epar-medicine-overview_es.pdf)
 
 čeština (CS) (154.79 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/cs/documents/overview/truqap-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (132.21 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/da/documents/overview/truqap-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (124.94 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/de/documents/overview/truqap-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (129.59 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/et/documents/overview/truqap-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (161.46 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/el/documents/overview/truqap-epar-medicine-overview_el.pdf)
 
 français (FR) (132.56 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/fr/documents/overview/truqap-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (152.55 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/hr/documents/overview/truqap-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (130.84 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/it/documents/overview/truqap-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (169.8 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/lv/documents/overview/truqap-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (152.78 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/lt/documents/overview/truqap-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (153.26 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/hu/documents/overview/truqap-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (154.51 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/mt/documents/overview/truqap-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (132.52 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/nl/documents/overview/truqap-epar-medicine-overview_nl.pdf)
 
 polski (PL) (157.87 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/pl/documents/overview/truqap-epar-medicine-overview_pl.pdf)
 
 português (PT) (133.74 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/pt/documents/overview/truqap-epar-medicine-overview_pt.pdf)
 
 română (RO) (150.53 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/ro/documents/overview/truqap-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (155.36 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/sk/documents/overview/truqap-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (152.55 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/sl/documents/overview/truqap-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (128.88 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/fi/documents/overview/truqap-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (130.27 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/sv/documents/overview/truqap-epar-medicine-overview_sv.pdf)
 
@@ -298,9 +254,7 @@ Truqap : EPAR - Risk management plan
 
 English (EN) (711.08 KB - PDF)
 
-**First published:** 11/07/2024
-
-**Last updated:** 07/03/2025
+**First published:** 11/07/2024 **Last updated:** 07/03/2025
 
 [View](/en/documents/rmp/truqap-epar-risk-management-plan_en.pdf)
 
@@ -308,305 +262,161 @@ English (EN) (711.08 KB - PDF)
 
 Truqap : EPAR - Product information
 
-English (EN) (446.27 KB - PDF)
+English (EN) (453.92 KB - PDF)
 
-**First published:** 11/07/2024
-
-**Last updated:** 04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/en/documents/product-information/truqap-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-877)
+[Other languages (24)](#file-language-dropdown-642)
 
-български (BG) (490.72 KB - PDF)
+български (BG) (480.56 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/bg/documents/product-information/truqap-epar-product-information_bg.pdf)
 
-español (ES) (442.1 KB - PDF)
+español (ES) (432.92 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/es/documents/product-information/truqap-epar-product-information_es.pdf)
 
-čeština (CS) (467.87 KB - PDF)
+čeština (CS) (470.78 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/cs/documents/product-information/truqap-epar-product-information_cs.pdf)
 
-dansk (DA) (438.19 KB - PDF)
+dansk (DA) (429.32 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/da/documents/product-information/truqap-epar-product-information_da.pdf)
 
-Deutsch (DE) (455.03 KB - PDF)
+Deutsch (DE) (432.1 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/de/documents/product-information/truqap-epar-product-information_de.pdf)
 
-eesti keel (ET) (411.35 KB - PDF)
+eesti keel (ET) (403.25 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/et/documents/product-information/truqap-epar-product-information_et.pdf)
 
-ελληνικά (EL) (513.3 KB - PDF)
+ελληνικά (EL) (516.56 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/el/documents/product-information/truqap-epar-product-information_el.pdf)
 
-français (FR) (457.56 KB - PDF)
+français (FR) (461.11 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/fr/documents/product-information/truqap-epar-product-information_fr.pdf)
 
-hrvatski (HR) (474.01 KB - PDF)
+hrvatski (HR) (459.33 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/hr/documents/product-information/truqap-epar-product-information_hr.pdf)
 
-íslenska (IS) (444.2 KB - PDF)
+íslenska (IS) (435.88 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/is/documents/product-information/truqap-epar-product-information_is.pdf)
 
-italiano (IT) (430.85 KB - PDF)
+italiano (IT) (424.35 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/it/documents/product-information/truqap-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (443.01 KB - PDF)
+latviešu valoda (LV) (432.83 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/lv/documents/product-information/truqap-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (472.96 KB - PDF)
+lietuvių kalba (LT) (463.31 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/lt/documents/product-information/truqap-epar-product-information_lt.pdf)
 
-magyar (HU) (501.02 KB - PDF)
+magyar (HU) (490.84 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/hu/documents/product-information/truqap-epar-product-information_hu.pdf)
 
-Malti (MT) (469.24 KB - PDF)
+Malti (MT) (459.12 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/mt/documents/product-information/truqap-epar-product-information_mt.pdf)
 
-Nederlands (NL) (414.14 KB - PDF)
+Nederlands (NL) (406.6 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/nl/documents/product-information/truqap-epar-product-information_nl.pdf)
 
-norsk (NO) (406.35 KB - PDF)
+norsk (NO) (373.23 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/no/documents/product-information/truqap-epar-product-information_no.pdf)
 
-polski (PL) (484.6 KB - PDF)
+polski (PL) (472.74 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/pl/documents/product-information/truqap-epar-product-information_pl.pdf)
 
-português (PT) (455.45 KB - PDF)
+português (PT) (447.14 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/pt/documents/product-information/truqap-epar-product-information_pt.pdf)
 
-română (RO) (498.5 KB - PDF)
+română (RO) (485.03 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/ro/documents/product-information/truqap-epar-product-information_ro.pdf)
 
-slovenčina (SK) (454.96 KB - PDF)
+slovenčina (SK) (458.81 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/sk/documents/product-information/truqap-epar-product-information_sk.pdf)
 
-slovenščina (SL) (425.48 KB - PDF)
+slovenščina (SL) (416.99 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/sl/documents/product-information/truqap-epar-product-information_sl.pdf)
 
-Suomi (FI) (437.85 KB - PDF)
+Suomi (FI) (428.33 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/fi/documents/product-information/truqap-epar-product-information_fi.pdf)
 
-svenska (SV) (391.92 KB - PDF)
+svenska (SV) (379.66 KB - PDF)
 
-**First published:**
-
-11/07/2024
-
-**Last updated:**
-
-04/11/2025
+**First published:** 11/07/2024 **Last updated:** 06/05/2026
 
 [View](/sv/documents/product-information/truqap-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000284700 18/09/2025
+**Latest procedure affecting product information:** VR/0000320727
+
+12/03/2026
 
 icon globe
 
@@ -630,203 +440,173 @@ English (EN) (66.09 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-626)
+[Other languages (24)](#file-language-dropdown-42)
 
 български (BG) (73.01 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/bg/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (56.45 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/es/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (71.02 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/cs/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (70.25 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/da/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (68.79 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/de/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (54.42 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/et/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (85.69 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/el/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (68.75 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/fr/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (63.51 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/hr/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (71.63 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/is/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (62.16 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/it/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (73.78 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/lv/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (69.66 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/lt/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (75.15 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/hu/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (68.65 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/mt/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (56.58 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/nl/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (70.89 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/no/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (59.39 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/pl/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (53.67 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/pt/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (70.77 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/ro/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (59.4 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/sk/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (57.43 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/sl/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (68.75 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/fi/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (68.31 KB - PDF)
 
-**First published:**
-
-11/07/2024
+**First published:** 11/07/2024
 
 [View](/sv/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Truqap Active substance capivasertib International non-proprietary name (INN) or common name capivasertib Therapeutic area (MeSH) Breast Neoplasms Anatomical therapeutic chemical (ATC) code L01EX27
+Name of medicine
+
+Truqap
+
+Active substance
+
+capivasertib
+
+International non-proprietary name (INN) or common name
+
+capivasertib
+
+Therapeutic area (MeSH)
+
+Breast Neoplasms
+
+Anatomical therapeutic chemical (ATC) code
+
+L01EX27
 
 ### Pharmacotherapeutic group
 
@@ -842,7 +622,9 @@ For men, administration of LHRH agonist according to current clinical practice s
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006017
+EMA product number
+
+EMEA/H/C/006017
 
 Additional monitoring
 
@@ -854,7 +636,17 @@ AstraZeneca AB
 
 151 85 Sodertalje
 
-Opinion adopted 25/04/2024 Marketing authorisation issued 17/06/2024 Revision 3
+Opinion adopted
+
+25/04/2024
+
+Marketing authorisation issued
+
+17/06/2024
+
+Revision
+
+4
 
 ## Assessment history
 
@@ -866,11 +658,9 @@ Collapse section
 
 Truqap : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (185.69 KB - PDF)
+English (EN) (209.31 KB - PDF)
 
-**First published:** 25/08/2025
-
-**Last updated:** 04/11/2025
+**First published:** 25/08/2025 **Last updated:** 06/05/2026
 
 [View](/en/documents/procedural-steps-after/truqap-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -886,9 +676,7 @@ English (EN) (134.85 KB - PDF)
 
 Truqap : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/236868/2024
+Adopted Reference Number: EMA/236868/2024
 
 English (EN) (4.78 MB - PDF)
 
@@ -898,9 +686,7 @@ English (EN) (4.78 MB - PDF)
 
 CHMP summary of positive opinion for Truqap
 
-Adopted
-
-Reference Number: EMA/151857/2024
+Adopted Reference Number: EMA/151857/2024
 
 English (EN) (143.65 KB - PDF)
 
@@ -908,16 +694,18 @@ English (EN) (143.65 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-truqap_en.pdf)
 
-#### News on Truqap
+## News on Truqap
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2024) 26/04/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2024)
 
-#### More information on Truqap
+26/04/2024
+
+## More information on Truqap
 
 - [Safety and Effectiveness of Capivasertib with Fulvestrant in Patients with Advanced Breast Cancer and Diabetes - a Multi-country Observational Study using Secondary Real-World Data (CAPIseid) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000805)
 
-**This page was last updated on** 04/11/2025
+**This page was last updated on**
+
+06/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

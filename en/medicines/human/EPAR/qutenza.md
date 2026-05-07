@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-23 16:38:00
+document_datetime: 2026-05-05 10:49:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/qutenza.html
 document_name: qutenza.html
 version: success
-processing_time: 0.2173399
-conversion_datetime: 2026-03-25 12:26:52.601128
+processing_time: 0.1181521
+conversion_datetime: 2026-05-07 20:24:01.905185
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Qutenza
 
@@ -112,7 +112,7 @@ English (EN) (75.69 KB - PDF)
 
 [View](/en/documents/overview/qutenza-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-870)
+[Other languages (22)](#file-language-dropdown-198)
 
 български (BG) (106.3 KB - PDF)
 
@@ -250,155 +250,161 @@ svenska (SV) (81.53 KB - PDF)
 
 Qutenza : EPAR - Product Information
 
-English (EN) (245.62 KB - PDF)
+English (EN) (183.85 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/en/documents/product-information/qutenza-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-524)
+[Other languages (24)](#file-language-dropdown-34)
 
-български (BG) (218.45 KB - PDF)
+български (BG) (207.25 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/bg/documents/product-information/qutenza-epar-product-information_bg.pdf)
 
-español (ES) (205.57 KB - PDF)
+español (ES) (205.27 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/es/documents/product-information/qutenza-epar-product-information_es.pdf)
 
-čeština (CS) (201.59 KB - PDF)
+čeština (CS) (190.95 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/cs/documents/product-information/qutenza-epar-product-information_cs.pdf)
 
-dansk (DA) (201.38 KB - PDF)
+dansk (DA) (190.82 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/da/documents/product-information/qutenza-epar-product-information_da.pdf)
 
-Deutsch (DE) (211.46 KB - PDF)
+Deutsch (DE) (200.63 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/de/documents/product-information/qutenza-epar-product-information_de.pdf)
 
-ελληνικά (EL) (217.38 KB - PDF)
+eesti keel (ET) (175.13 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
+
+[View](/et/documents/product-information/qutenza-epar-product-information_et.pdf)
+
+ελληνικά (EL) (212.49 KB - PDF)
+
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/el/documents/product-information/qutenza-epar-product-information_el.pdf)
 
-français (FR) (197.75 KB - PDF)
+français (FR) (192.96 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/fr/documents/product-information/qutenza-epar-product-information_fr.pdf)
 
-hrvatski (HR) (200.03 KB - PDF)
+hrvatski (HR) (195.11 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/hr/documents/product-information/qutenza-epar-product-information_hr.pdf)
 
-íslenska (IS) (195.45 KB - PDF)
+íslenska (IS) (190.58 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/is/documents/product-information/qutenza-epar-product-information_is.pdf)
 
-italiano (IT) (194.96 KB - PDF)
+italiano (IT) (190.04 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/it/documents/product-information/qutenza-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (184.82 KB - PDF)
+latviešu valoda (LV) (179.93 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/lv/documents/product-information/qutenza-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (187.35 KB - PDF)
+lietuvių kalba (LT) (182.55 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/lt/documents/product-information/qutenza-epar-product-information_lt.pdf)
 
-magyar (HU) (197.3 KB - PDF)
+magyar (HU) (192.38 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/hu/documents/product-information/qutenza-epar-product-information_hu.pdf)
 
-Malti (MT) (221.25 KB - PDF)
+Malti (MT) (216.29 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/mt/documents/product-information/qutenza-epar-product-information_mt.pdf)
 
-Nederlands (NL) (199.32 KB - PDF)
+Nederlands (NL) (194.32 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/nl/documents/product-information/qutenza-epar-product-information_nl.pdf)
 
-norsk (NO) (200.14 KB - PDF)
+norsk (NO) (195 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/no/documents/product-information/qutenza-epar-product-information_no.pdf)
 
-polski (PL) (207.23 KB - PDF)
+polski (PL) (202.29 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/pl/documents/product-information/qutenza-epar-product-information_pl.pdf)
 
-português (PT) (191.26 KB - PDF)
+português (PT) (186.53 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/pt/documents/product-information/qutenza-epar-product-information_pt.pdf)
 
-română (RO) (196.37 KB - PDF)
+română (RO) (191.4 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/ro/documents/product-information/qutenza-epar-product-information_ro.pdf)
 
-slovenčina (SK) (205.65 KB - PDF)
+slovenčina (SK) (200.68 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/sk/documents/product-information/qutenza-epar-product-information_sk.pdf)
 
-slovenščina (SL) (186.26 KB - PDF)
+slovenščina (SL) (181.45 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/sl/documents/product-information/qutenza-epar-product-information_sl.pdf)
 
-Suomi (FI) (184.95 KB - PDF)
+Suomi (FI) (180.13 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/fi/documents/product-information/qutenza-epar-product-information_fi.pdf)
 
-svenska (SV) (189.21 KB - PDF)
+svenska (SV) (184.33 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 16/11/2009 **Last updated:** 05/05/2026
 
 [View](/sv/documents/product-information/qutenza-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000294536
+**Latest procedure affecting product information:** N/0000340388
 
-12/02/2026
+29/04/2026
 
 icon globe
 
@@ -422,7 +428,7 @@ English (EN) (12.25 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/qutenza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-656)
+[Other languages (21)](#file-language-dropdown-38)
 
 български (BG) (77.75 KB - PDF)
 
@@ -602,7 +608,7 @@ Marketing authorisation issued
 
 Revision
 
-20
+21
 
 ## Assessment history
 
@@ -614,11 +620,19 @@ Collapse section
 
 Qutenza : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.37 KB - PDF)
+English (EN) (148.34 KB - PDF)
 
-**First published:** 16/11/2009 **Last updated:** 23/03/2026
+**First published:** 23/03/2026 **Last updated:** 05/05/2026
 
 [View](/en/documents/procedural-steps-after/qutenza-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Qutenza : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (180.62 KB - PDF)
+
+**First published:** 16/11/2009 **Last updated:** 04/12/2023
+
+[View](/en/documents/procedural-steps-after/qutenza-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Qutenza-H/C-909-II-0039 : EPAR - Assessment Report - Variation
 
@@ -650,7 +664,7 @@ English (EN) (543.26 KB - PDF)
 
 [View](/en/documents/assessment-report/qutenza-epar-public-assessment-report_en.pdf)
 
-Committee for medicinal products for human use, summary of positive opinion for Qutenza
+CHMP summary of positive opinion for Qutenza
 
 Reference Number: EMEA/CHMP/162956/2009
 
@@ -658,7 +672,7 @@ English (EN) (33.03 KB - PDF)
 
 **First published:** 19/03/2009 **Last updated:** 19/03/2009
 
-[View](/en/documents/smop-initial/committee-medicinal-products-human-use-summary-positive-opinion-qutenza_en.pdf)
+[View](/en/documents/smop-initial/chmp-summary-positive-opinion-qutenza_en.pdf)
 
 ## News on Qutenza
 
@@ -669,14 +683,6 @@ English (EN) (33.03 KB - PDF)
 ## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
-
-Qutenza : EPAR - Product information - tracked changes
-
-English (EN) (95.54 KB - DOCX)
-
-**First published:** 25/03/2026
-
-[View](/en/documents/product-information-tracked-changes/qutenza-epar-product-information-tracked-changes_en.docx)
 
 ## More information on Qutenza
 
@@ -690,6 +696,6 @@ English (EN) (95.54 KB - DOCX)
 
 **This page was last updated on**
 
-23/03/2026
+05/05/2026
 
 ## Share this page

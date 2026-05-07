@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-31 10:10:00
+document_datetime: 2026-05-06 09:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ogsiveo.html
 document_name: ogsiveo.html
 version: success
-processing_time: 0.1082168
-conversion_datetime: 2026-04-01 12:33:19.262657
+processing_time: 0.111006
+conversion_datetime: 2026-05-07 20:08:52.281482
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Ogsiveo
 
@@ -50,7 +50,7 @@ Ogsiveo is a medicine used to treat adults with progressing desmoid tumours who 
 
 Desmoid tumours develop from the soft, supporting tissues of the body. They can grow rapidly and damage nearby tissues and organs.
 
-Progressing desmoid tumours are rare, and Ogsiveo was designated an 'orphan medicine' (a medicine used in rare diseases) on 17 October 2019. Further information on the orphan designation can be found on the EMA [website](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-19-2214) .
+Progressing desmoid tumours are rare, and Ogsiveo was designated an 'orphan medicine' (a medicine used in rare diseases) on 17 October 2019.
 
 Ogsiveo contains the active substance nirogacestat.
 
@@ -124,7 +124,7 @@ English (EN) (115.73 KB - PDF)
 
 [View](/en/documents/overview/ogsiveo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-4)
+[Other languages (22)](#file-language-dropdown-908)
 
 български (BG) (137.9 KB - PDF)
 
@@ -270,161 +270,161 @@ English (EN) (1.26 MB - PDF)
 
 Ogsiveo : EPAR - Product information
 
-English (EN) (493.87 KB - PDF)
+English (EN) (484.39 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/en/documents/product-information/ogsiveo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-34)
+[Other languages (24)](#file-language-dropdown-787)
 
-български (BG) (548.17 KB - PDF)
+български (BG) (545.69 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/bg/documents/product-information/ogsiveo-epar-product-information_bg.pdf)
 
-español (ES) (575.67 KB - PDF)
+español (ES) (573.86 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/es/documents/product-information/ogsiveo-epar-product-information_es.pdf)
 
-čeština (CS) (523.58 KB - PDF)
+čeština (CS) (520.06 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/cs/documents/product-information/ogsiveo-epar-product-information_cs.pdf)
 
-dansk (DA) (473.51 KB - PDF)
+dansk (DA) (471.1 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/da/documents/product-information/ogsiveo-epar-product-information_da.pdf)
 
-Deutsch (DE) (524.13 KB - PDF)
+Deutsch (DE) (522.05 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/de/documents/product-information/ogsiveo-epar-product-information_de.pdf)
 
-eesti keel (ET) (497.32 KB - PDF)
+eesti keel (ET) (495.41 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/et/documents/product-information/ogsiveo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (631.06 KB - PDF)
+ελληνικά (EL) (614.89 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/el/documents/product-information/ogsiveo-epar-product-information_el.pdf)
 
-français (FR) (542.49 KB - PDF)
+français (FR) (540.18 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/fr/documents/product-information/ogsiveo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (578.9 KB - PDF)
+hrvatski (HR) (575.68 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/hr/documents/product-information/ogsiveo-epar-product-information_hr.pdf)
 
-íslenska (IS) (461.12 KB - PDF)
+íslenska (IS) (458.53 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/is/documents/product-information/ogsiveo-epar-product-information_is.pdf)
 
-italiano (IT) (553.71 KB - PDF)
+italiano (IT) (552.62 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/it/documents/product-information/ogsiveo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (523 KB - PDF)
+latviešu valoda (LV) (521.29 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/lv/documents/product-information/ogsiveo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (523.98 KB - PDF)
+lietuvių kalba (LT) (520.99 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/lt/documents/product-information/ogsiveo-epar-product-information_lt.pdf)
 
-magyar (HU) (605.93 KB - PDF)
+magyar (HU) (602.13 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/hu/documents/product-information/ogsiveo-epar-product-information_hu.pdf)
 
-Malti (MT) (576.26 KB - PDF)
+Malti (MT) (572.85 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/mt/documents/product-information/ogsiveo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (517.22 KB - PDF)
+Nederlands (NL) (514.37 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/nl/documents/product-information/ogsiveo-epar-product-information_nl.pdf)
 
-norsk (NO) (508.14 KB - PDF)
+norsk (NO) (506.95 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/no/documents/product-information/ogsiveo-epar-product-information_no.pdf)
 
-polski (PL) (588.93 KB - PDF)
+polski (PL) (585.3 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/pl/documents/product-information/ogsiveo-epar-product-information_pl.pdf)
 
-português (PT) (541.3 KB - PDF)
+português (PT) (540.78 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/pt/documents/product-information/ogsiveo-epar-product-information_pt.pdf)
 
-română (RO) (611.75 KB - PDF)
+română (RO) (610.33 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/ro/documents/product-information/ogsiveo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (620.19 KB - PDF)
+slovenčina (SK) (618.64 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/sk/documents/product-information/ogsiveo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (610.25 KB - PDF)
+slovenščina (SL) (608.29 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/sl/documents/product-information/ogsiveo-epar-product-information_sl.pdf)
 
-Suomi (FI) (474.2 KB - PDF)
+Suomi (FI) (471.69 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/fi/documents/product-information/ogsiveo-epar-product-information_fi.pdf)
 
-svenska (SV) (503.22 KB - PDF)
+svenska (SV) (501.36 KB - PDF)
 
-**First published:** 03/10/2025 **Last updated:** 31/03/2026
+**First published:** 03/10/2025 **Last updated:** 06/05/2026
 
 [View](/sv/documents/product-information/ogsiveo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000296267
+**Latest procedure affecting product information:** T/0000334320
 
-23/09/2025
+08/04/2026
 
 icon globe
 
@@ -448,7 +448,7 @@ English (EN) (48.87 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ogsiveo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-434)
+[Other languages (22)](#file-language-dropdown-189)
 
 български (BG) (68.94 KB - PDF)
 
@@ -628,9 +628,9 @@ This medicine was designated an orphan medicine. This means that it was develope
 
 Marketing authorisation holder
 
-SpringWorks Therapeutics Ireland Limited
+Merck Europe B.V.
 
-70 Sir John Rogerson's Quay Dublin 2 D02 R296 Ireland
+Gustav Mahlerplein 102
 
 Opinion adopted
 
@@ -642,7 +642,7 @@ Marketing authorisation issued
 
 Revision
 
-1
+2
 
 ## Assessment history
 
@@ -654,9 +654,9 @@ Collapse section
 
 Ogsiveo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (176.5 KB - PDF)
+English (EN) (143.68 KB - PDF)
 
-**First published:** 31/03/2026
+**First published:** 31/03/2026 **Last updated:** 06/05/2026
 
 [View](/en/documents/procedural-steps-after/ogsiveo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -704,6 +704,6 @@ English (EN) (136.7 KB - PDF)
 
 **This page was last updated on**
 
-31/03/2026
+06/05/2026
 
 ## Share this page

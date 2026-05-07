@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 07:48:27
+document_datetime: 2026-05-06 16:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tolucombi.html
 document_name: tolucombi.html
 version: success
-processing_time: 0.1417393
-conversion_datetime: 2025-12-30 22:51:45.207921
+processing_time: 0.163973
+conversion_datetime: 2026-05-07 20:27:19.143634
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Tolucombi
 
 [RSS](/en/individual-human-medicine.xml/65696)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-telmisartan / hydrochlorothiazide Medicine Human Authorised
+telmisartan / hydrochlorothiazide
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -106,263 +106,135 @@ Reference Number: EMA/40538/2013
 
 English (EN) (75.2 KB - PDF)
 
-**First published:** 08/04/2013
-
-**Last updated:** 08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/en/documents/overview/tolucombi-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-243)
+[Other languages (21)](#file-language-dropdown-802)
 
 български (BG) (127.95 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/bg/documents/overview/tolucombi-epar-summary-public_bg.pdf)
 
 español (ES) (97.32 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/es/documents/overview/tolucombi-epar-summary-public_es.pdf)
 
 čeština (CS) (122.74 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/cs/documents/overview/tolucombi-epar-summary-public_cs.pdf)
 
 dansk (DA) (96.23 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/da/documents/overview/tolucombi-epar-summary-public_da.pdf)
 
 Deutsch (DE) (98.14 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/de/documents/overview/tolucombi-epar-summary-public_de.pdf)
 
 eesti keel (ET) (73.52 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/et/documents/overview/tolucombi-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (127.42 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/el/documents/overview/tolucombi-epar-summary-public_el.pdf)
 
 français (FR) (99.84 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/fr/documents/overview/tolucombi-epar-summary-public_fr.pdf)
 
 italiano (IT) (76.13 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/it/documents/overview/tolucombi-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (97.83 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/lv/documents/overview/tolucombi-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (98.09 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/lt/documents/overview/tolucombi-epar-summary-public_lt.pdf)
 
 magyar (HU) (96.18 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/hu/documents/overview/tolucombi-epar-summary-public_hu.pdf)
 
 Malti (MT) (102.31 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/mt/documents/overview/tolucombi-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (76.67 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/nl/documents/overview/tolucombi-epar-summary-public_nl.pdf)
 
 polski (PL) (123.52 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/pl/documents/overview/tolucombi-epar-summary-public_pl.pdf)
 
 português (PT) (99.13 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/pt/documents/overview/tolucombi-epar-summary-public_pt.pdf)
 
 română (RO) (96.59 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/ro/documents/overview/tolucombi-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (122.79 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/sk/documents/overview/tolucombi-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (116.89 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/sl/documents/overview/tolucombi-epar-summary-public_sl.pdf)
 
 Suomi (FI) (96.93 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/fi/documents/overview/tolucombi-epar-summary-public_fi.pdf)
 
 svenska (SV) (95.99 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/sv/documents/overview/tolucombi-epar-summary-public_sv.pdf)
 
@@ -370,305 +242,161 @@ svenska (SV) (95.99 KB - PDF)
 
 Tolucombi : EPAR - Product Information
 
-English (EN) (363.91 KB - PDF)
+English (EN) (684.14 KB - PDF)
 
-**First published:** 08/04/2013
-
-**Last updated:** 24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/en/documents/product-information/tolucombi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-757)
+[Other languages (24)](#file-language-dropdown-803)
 
-български (BG) (392.52 KB - PDF)
+български (BG) (817.03 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/bg/documents/product-information/tolucombi-epar-product-information_bg.pdf)
 
-español (ES) (475.76 KB - PDF)
+español (ES) (777.38 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/es/documents/product-information/tolucombi-epar-product-information_es.pdf)
 
-čeština (CS) (366.89 KB - PDF)
+čeština (CS) (586.1 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/cs/documents/product-information/tolucombi-epar-product-information_cs.pdf)
 
-dansk (DA) (358.49 KB - PDF)
+dansk (DA) (728.38 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/da/documents/product-information/tolucombi-epar-product-information_da.pdf)
 
-Deutsch (DE) (385.64 KB - PDF)
+Deutsch (DE) (363.66 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/de/documents/product-information/tolucombi-epar-product-information_de.pdf)
 
-eesti keel (ET) (372.82 KB - PDF)
+eesti keel (ET) (711.94 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/et/documents/product-information/tolucombi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (404.23 KB - PDF)
+ελληνικά (EL) (810.72 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/el/documents/product-information/tolucombi-epar-product-information_el.pdf)
 
-français (FR) (380.29 KB - PDF)
+français (FR) (354.32 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/fr/documents/product-information/tolucombi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (357.47 KB - PDF)
+hrvatski (HR) (729.52 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/hr/documents/product-information/tolucombi-epar-product-information_hr.pdf)
 
-íslenska (IS) (355.71 KB - PDF)
+íslenska (IS) (341.86 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/is/documents/product-information/tolucombi-epar-product-information_is.pdf)
 
-italiano (IT) (463.66 KB - PDF)
+italiano (IT) (788.17 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/it/documents/product-information/tolucombi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (365.35 KB - PDF)
+latviešu valoda (LV) (737.04 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/lv/documents/product-information/tolucombi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (368.6 KB - PDF)
+lietuvių kalba (LT) (355.29 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/lt/documents/product-information/tolucombi-epar-product-information_lt.pdf)
 
-magyar (HU) (380.7 KB - PDF)
+magyar (HU) (827.08 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/hu/documents/product-information/tolucombi-epar-product-information_hu.pdf)
 
-Malti (MT) (455.6 KB - PDF)
+Malti (MT) (963.73 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/mt/documents/product-information/tolucombi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (492.14 KB - PDF)
+Nederlands (NL) (762.65 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/nl/documents/product-information/tolucombi-epar-product-information_nl.pdf)
 
-norsk (NO) (354.88 KB - PDF)
+norsk (NO) (651.6 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/no/documents/product-information/tolucombi-epar-product-information_no.pdf)
 
-polski (PL) (384.69 KB - PDF)
+polski (PL) (786.56 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/pl/documents/product-information/tolucombi-epar-product-information_pl.pdf)
 
-português (PT) (372.24 KB - PDF)
+português (PT) (711.97 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/pt/documents/product-information/tolucombi-epar-product-information_pt.pdf)
 
-română (RO) (384.03 KB - PDF)
+română (RO) (760.55 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/ro/documents/product-information/tolucombi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (379.41 KB - PDF)
+slovenčina (SK) (784.37 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/sk/documents/product-information/tolucombi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (350.45 KB - PDF)
+slovenščina (SL) (730.42 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/sl/documents/product-information/tolucombi-epar-product-information_sl.pdf)
 
-Suomi (FI) (355.81 KB - PDF)
+Suomi (FI) (340.09 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/fi/documents/product-information/tolucombi-epar-product-information_fi.pdf)
 
-svenska (SV) (435.12 KB - PDF)
+svenska (SV) (734.64 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-24/06/2025
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/sv/documents/product-information/tolucombi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000242380 19/06/2025
+**Latest procedure affecting product information:** VR/0000236862
+
+24/07/2025
 
 icon globe
 
@@ -686,307 +414,165 @@ Product information documents contain:
 
 Tolucombi : EPAR - All Authorised presentations
 
-English (EN) (34.91 KB - PDF)
+English (EN) (57.81 KB - PDF)
 
-**First published:** 08/04/2013
-
-**Last updated:** 28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/en/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-169)
+[Other languages (24)](#file-language-dropdown-339)
 
-български (BG) (73.74 KB - PDF)
+български (BG) (92.94 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/bg/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (38.63 KB - PDF)
+español (ES) (63.62 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/es/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (46.93 KB - PDF)
+čeština (CS) (43.65 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/cs/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (40.01 KB - PDF)
+dansk (DA) (64.28 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/da/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (36.47 KB - PDF)
+Deutsch (DE) (61.64 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/de/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (38.24 KB - PDF)
+eesti keel (ET) (61.16 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/et/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (68.53 KB - PDF)
+ελληνικά (EL) (83.56 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/el/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (44.44 KB - PDF)
+français (FR) (68.13 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/fr/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (49.77 KB - PDF)
+hrvatski (HR) (90.17 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/hr/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (40.16 KB - PDF)
+íslenska (IS) (64 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/is/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (36.15 KB - PDF)
+italiano (IT) (60.64 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/it/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (68.54 KB - PDF)
+latviešu valoda (LV) (86.88 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/lv/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (66.74 KB - PDF)
+lietuvių kalba (LT) (72.99 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/lt/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (65.04 KB - PDF)
+magyar (HU) (91.08 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/hu/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (61.96 KB - PDF)
+Malti (MT) (84.39 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/mt/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (38.93 KB - PDF)
+Nederlands (NL) (63.18 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/nl/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (37.99 KB - PDF)
+norsk (NO) (64.26 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/no/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (55.61 KB - PDF)
+polski (PL) (80.3 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/pl/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (44.1 KB - PDF)
+português (PT) (107.37 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/pt/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (58.04 KB - PDF)
+română (RO) (81.24 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/ro/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (47.75 KB - PDF)
+slovenčina (SK) (71.48 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/sk/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (48.68 KB - PDF)
+slovenščina (SL) (45.99 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/sl/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (40.96 KB - PDF)
+Suomi (FI) (61.72 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/fi/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (37.1 KB - PDF)
+svenska (SV) (62.09 KB - PDF)
 
-**First published:**
-
-08/04/2013
-
-**Last updated:**
-
-28/09/2020
+**First published:** 08/04/2013 **Last updated:** 06/05/2026
 
 [View](/sv/documents/all-authorised-presentations/tolucombi-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Tolucombi Active substance
+Name of medicine
+
+Tolucombi
+
+Active substance
 
 - telmisartan
 - hydrochlorothiazide
@@ -996,7 +582,13 @@ International non-proprietary name (INN) or common name
 - telmisartan
 - hydrochlorothiazide
 
-Therapeutic area (MeSH) Hypertension Anatomical therapeutic chemical (ATC) code C09DA07
+Therapeutic area (MeSH)
+
+Hypertension
+
+Anatomical therapeutic chemical (ATC) code
+
+C09DA07
 
 ### Pharmacotherapeutic group
 
@@ -1008,7 +600,9 @@ Tolucombi fixed-dose combination (80 mg telmisartan/25 mg hydrochlorothiazide) i
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/002549
+EMA product number
+
+EMEA/H/C/002549
 
 Generic
 
@@ -1020,7 +614,17 @@ Krka, d.d., Novo mesto
 
 Šmarješka cesta 6
 
-Opinion adopted 17/01/2013 Marketing authorisation issued 13/03/2013 Revision 12
+Opinion adopted
+
+17/01/2013
+
+Marketing authorisation issued
+
+13/03/2013
+
+Revision
+
+13
 
 ## Assessment history
 
@@ -1032,9 +636,9 @@ Collapse section
 
 Tolucombi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.44 KB - PDF)
+English (EN) (166.14 KB - PDF)
 
-**First published:** 24/06/2025
+**First published:** 24/06/2025 **Last updated:** 06/05/2026
 
 [View](/en/documents/procedural-steps-after/tolucombi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1042,23 +646,17 @@ Tolucombi : EPAR - Procedural steps taken and scientific information after autho
 
 English (EN) (143.5 KB - PDF)
 
-**First published:** 23/07/2014
-
-**Last updated:** 24/06/2025
+**First published:** 23/07/2014 **Last updated:** 24/06/2025
 
 [View](/en/documents/procedural-steps-after/tolucombi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Tolucombi-H-C-2549-A31-0007 : EPAR - Assessment Report - Article 31
 
-Adopted
-
-Reference Number: EMA/PRAC/294920/2014
+Adopted Reference Number: EMA/PRAC/294920/2014
 
 English (EN) (301.42 KB - PDF)
 
-**First published:** 26/09/2014
-
-**Last updated:** 26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/en/documents/variation-report/tolucombi-h-c-2549-a31-0007-epar-assessment-report-article-31_en.pdf)
 
@@ -1066,275 +664,141 @@ Tolucombi-H-C-2549-A31-0007 : EPAR - Scientific conclusions, grounds for variati
 
 English (EN) (48.81 KB - PDF)
 
-**First published:** 26/09/2014
-
-**Last updated:** 26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/en/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-10)
+[Other languages (22)](#file-language-dropdown-729)
 
 български (BG) (87.49 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/bg/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_bg.pdf)
 
 español (ES) (50.51 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/es/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_es.pdf)
 
 čeština (CS) (82.81 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/cs/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_cs.pdf)
 
 dansk (DA) (49.01 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/da/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_da.pdf)
 
 Deutsch (DE) (53.54 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/de/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_de.pdf)
 
 eesti keel (ET) (50.6 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/et/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_et.pdf)
 
 ελληνικά (EL) (89.54 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/el/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_el.pdf)
 
 français (FR) (51.91 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/fr/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_fr.pdf)
 
 hrvatski (HR) (80.12 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/hr/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_hr.pdf)
 
 italiano (IT) (51.13 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/it/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_it.pdf)
 
 latviešu valoda (LV) (81.63 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/lv/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_lv.pdf)
 
 lietuvių kalba (LT) (82.54 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/lt/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_lt.pdf)
 
 magyar (HU) (68.7 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/hu/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_hu.pdf)
 
 Malti (MT) (84.23 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/mt/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_mt.pdf)
 
 Nederlands (NL) (49.82 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/nl/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_nl.pdf)
 
 polski (PL) (83.62 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/pl/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_pl.pdf)
 
 português (PT) (49.74 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/pt/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_pt.pdf)
 
 română (RO) (88.19 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/ro/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_ro.pdf)
 
 slovenčina (SK) (81.5 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/sk/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_sk.pdf)
 
 slovenščina (SL) (79.79 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/sl/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_sl.pdf)
 
 Suomi (FI) (49.15 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/fi/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_fi.pdf)
 
 svenska (SV) (50.18 KB - PDF)
 
-**First published:**
-
-26/09/2014
-
-**Last updated:**
-
-26/09/2014
+**First published:** 26/09/2014 **Last updated:** 26/09/2014
 
 [View](/sv/documents/scientific-conclusion/tolucombi-h-c-2549-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendation_sv.pdf)
 
@@ -1342,37 +806,29 @@ svenska (SV) (50.18 KB - PDF)
 
 Tolucombi : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/84367/2013
+Adopted Reference Number: EMA/84367/2013
 
 English (EN) (323.66 KB - PDF)
 
-**First published:** 08/04/2013
-
-**Last updated:** 08/04/2013
+**First published:** 08/04/2013 **Last updated:** 08/04/2013
 
 [View](/en/documents/assessment-report/tolucombi-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Tolucombi
 
-Adopted
-
-Reference Number: EMA/CHMP/6036/2013
+Adopted Reference Number: EMA/CHMP/6036/2013
 
 English (EN) (118.71 KB - PDF)
 
-**First published:** 18/01/2013
-
-**Last updated:** 18/01/2013
+**First published:** 18/01/2013 **Last updated:** 18/01/2013
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-tolucombi_en.pdf)
 
-#### Related information
+## Related information
 
 - [Renin-angiotensin-system (RAS)-acting agents](/en/medicines/human/referrals/renin-angiotensin-system-ras-acting-agents)
 
-#### More information on Tolucombi
+## More information on Tolucombi
 
 Questions and answers on generic medicines
 
@@ -1380,289 +836,155 @@ Reference Number: EMA/393905/2006 Rev. 2
 
 English (EN) (66.45 KB - PDF)
 
-**First published:** 09/07/2007
-
-**Last updated:** 07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-709)
 
 български (BG) (93.16 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
 
 español (ES) (68.3 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
 
 čeština (CS) (87.71 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
 
 dansk (DA) (66.79 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
 
 Deutsch (DE) (67.55 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
 
 eesti keel (ET) (65.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
 
 ελληνικά (EL) (91.29 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
 
 français (FR) (68.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
 
 hrvatski (HR) (87.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
 
 italiano (IT) (67.62 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
 
 latviešu valoda (LV) (111.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
 
 lietuvių kalba (LT) (86.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
 
 magyar (HU) (85.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
 
 Malti (MT) (89.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
 
 Nederlands (NL) (66.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
 
 polski (PL) (88.51 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
 
 português (PT) (68.32 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
 
 română (RO) (86.9 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
 
 slovenčina (SK) (87.73 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
 
 slovenščina (SL) (84.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
 
 Suomi (FI) (66.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
 
 svenska (SV) (67.11 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### More information on Tolucombi
+## More information on Tolucombi
 
 - [Renin-angiotensin-system (RAS)-acting agents - referral](/en/medicines/human/referrals/renin-angiotensin-system-ras-acting-agents)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 24/06/2025
+**This page was last updated on**
+
+06/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

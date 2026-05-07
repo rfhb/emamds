@@ -1,26 +1,24 @@
 ---
-document_datetime: 2025-05-23 18:49:05
-document_pages: 47
+document_datetime: 2026-05-06 09:54:44
+document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ifirmasta-epar-product-information_en.pdf
 document_name: ifirmasta-epar-product-information_en.pdf
 version: success
-processing_time: 9.3938563
-conversion_datetime: 2025-12-18 11:30:10.616013
+processing_time: 10.2034279
+conversion_datetime: 2026-05-07 20:25:37.687878
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
 
-1
-
-## CONFIDENTIAL
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -38,9 +36,7 @@ Ifirmasta 300 mg film-coated tablets Each film-coated tablet contains 300 mg irb
 
 Excipient with known effect Ifirmasta 75 mg film-coated tablets Each film-coated tablet contains 4 mg castor oil.
 
-Ifirmasta 150 mg film-coated tablets
-
-Each film-coated tablet contains 8 mg castor oil.
+Ifirmasta 150 mg film-coated tablets Each film-coated tablet contains 8 mg castor oil.
 
 Ifirmasta 300 mg film-coated tablets Each film-coated tablet contains 16 mg castor oil. For the full list of excipients, see section 6.1.
 
@@ -110,11 +106,9 @@ Symptomatic hypotension, especially after the first dose, may occur in patients 
 
 ## Renovascular hypertension
 
-There is an increased risk of severe hypotension and renal insufficiency when patients with bilateral renal artery stenosis or stenosis of the artery to a single functioning kidney are treated with medicinal
+There is an increased risk of severe hypotension and renal insufficiency when patients with bilateral renal artery stenosis or stenosis of the artery to a single functioning kidney are treated with medicinal products that affect the renin-angiotensin-aldosterone system. While this is not documented with Ifirmasta, a similar effect should be anticipated with angiotensin-II receptor antagonists.
 
 <div style=\"page-break-after: always\"></div>
-
-products that affect the renin-angiotensin-aldosterone system. While this is not documented with Ifirmasta, a similar effect should be anticipated with angiotensin-II receptor antagonists.
 
 ## Renal impairment and kidney transplantation
 
@@ -154,11 +148,9 @@ Patients with primary aldosteronism generally will not respond to antihypertensi
 
 ## General
 
-In patients whose vascular tone and renal function depend predominantly on the activity of the reninangiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal
+In patients whose vascular tone and renal function depend predominantly on the activity of the reninangiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with angiotensin converting enzyme inhibitors or angiotensin-II receptor antagonists that affect this system has been associated with acute hypotension, azotaemia, oliguria, or rarely acute renal failure (see section 4.5). As with any antihypertensive agent, excessive blood pressure decrease in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke.
 
 <div style=\"page-break-after: always\"></div>
-
-disease, including renal artery stenosis), treatment with angiotensin converting enzyme inhibitors or angiotensin-II receptor antagonists that affect this system has been associated with acute hypotension, azotaemia, oliguria, or rarely acute renal failure (see section 4.5). As with any antihypertensive agent, excessive blood pressure decrease in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke.
 
 As observed for angiotensin converting enzyme inhibitors, irbesartan and the other angiotensin antagonists are apparently less effective in lowering blood pressure in black people than in non-blacks, possibly because of higher prevalence of low-renin states in the black hypertensive population (see section 5.1).
 
@@ -190,13 +182,9 @@ Rreversible increases in serum lithium concentrations and toxicity have been rep
 
 ## Non-steroidal anti-inflammatory medicinal products:
 
-When angiotensin II antagonists are administered simultaneously with non-steroidal antiinflammatory medicinal products (i.e. selective COX-2 inhibitors, acetylsalicylic acid (&gt; 3 g/day) and non-selective NSAIDs), attenuation of the antihypertensive effect may occur.
-
-As with ACE inhibitors, concomitant use of angiotensin II antagonists and NSAIDs may lead to an increased risk of worsening of renal function, including possible acute renal failure, and an increase in
+When angiotensin II antagonists are administered simultaneously with non-steroidal antiinflammatory medicinal products (i.e. selective COX-2 inhibitors, acetylsalicylic acid (&gt; 3 g/day) and non-selective NSAIDs), attenuation of the antihypertensive effect may occur. As with ACE inhibitors, concomitant use of angiotensin II antagonists and NSAIDs may lead to an increased risk of worsening of renal function, including possible acute renal failure, and an increase in serum potassium, especially in patients with poor pre-existing renal function. The combination should be administered with caution, especially in the elderly. Patients should be adequately hydrated and consideration should be given to monitoring renal function after initiation of concomitant therapy, and periodically thereafter.
 
 <div style=\"page-break-after: always\"></div>
-
-serum potassium, especially in patients with poor pre-existing renal function. The combination should be administered with caution, especially in the elderly. Patients should be adequately hydrated and consideration should be given to monitoring renal function after initiation of concomitant therapy, and periodically thereafter.
 
 ## Repaglinide:
 
@@ -314,9 +302,11 @@ nausea/vomiting
 
 Uncommon:
 
+diarrhoea, dyspepsia/heartburn
+
 Rare:
 
-diarrhoea, dyspepsia/heartburn intestinal angioedema
+intestinal angioedema
 
 Not known:
 
@@ -326,9 +316,11 @@ dysgeusia
 
 Uncommon:
 
+jaundice
+
 Not known:
 
-jaundice hepatitis, abnormal liver function
+hepatitis, abnormal liver function
 
 ## Skin and subcutaneous tissue disorders:
 
@@ -360,7 +352,11 @@ sexual dysfunction
 
 Common:
 
+fatigue
+
 Uncommon:
+
+chest pain
 
 ## Investigations:
 
@@ -374,13 +370,9 @@ In 1.7% of hypertensive patients with advanced diabetic renal disease treated wi
 
 ## Paediatric population
 
-In a randomised trial of 318 hypertensive children and adolescents aged 6 to 16 years, the following adverse reactions occurred in the 3-week double-blind phase: headache (7.9%), hypotension (2.2%), fatigue
-
-chest pain
+In a randomised trial of 318 hypertensive children and adolescents aged 6 to 16 years, the following adverse reactions occurred in the 3-week double-blind phase: headache (7.9%), hypotension (2.2%), dizziness (1.9%), cough (0.9%). In the 26-week open-label period of this trial the most frequent laboratory abnormalities observed were creatinine increases (6.5%) and elevated CK values in 2% of child recipients.
 
 <div style=\"page-break-after: always\"></div>
-
-dizziness (1.9%), cough (0.9%). In the 26-week open-label period of this trial the most frequent laboratory abnormalities observed were creatinine increases (6.5%) and elevated CK values in 2% of child recipients.
 
 ## Reporting of suspected adverse reactions
 
@@ -450,7 +442,7 @@ ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Dise
 
 After oral administration, irbesartan is well absorbed: studies of absolute bioavailability gave values of approximately 60-80%. Concomitant food intake does not significantly influence the bioavailability of irbesartan.
 
-Distribution
+## Distribution
 
 <div style=\"page-break-after: always\"></div>
 
@@ -484,17 +476,13 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit).
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 <div style=\"page-break-after: always\"></div>
 
-At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
-
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -514,17 +502,17 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Do not store above 30  C. Store in the original package in order to protect from moisture.
+Do not store above 30°C. Store in the original package in order to protect from moisture.
 
 ## 6.5 Nature and contents of container
-
-<div style=\"page-break-after: always\"></div>
 
 Blister (PVC/PE/PVDC/Alu): 14, 28, 30, 56, 84, 90 or 98 film-coated tablets in box are available. Blister (PVC/PE/PVDC/Alu): 56 x 1 film-coated tablets in perforated unit dose blisters in box. Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal
 
-Any  unused  medicinal product  or  waste  material  should  be  disposed  of  in accordance  with  local requirements.
+Any  unused  medicinal product  or  waste  material  should  be  disposed  of  in  accordance  with  local requirements.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -543,8 +531,6 @@ Date of first authorisation: 1 December 2008
 Date of latest renewal: 26 August 2013
 
 ## 10. DATE OF REVISION OF THE TEXT
-
-<div style=\"page-break-after: always\"></div>
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
@@ -575,13 +561,13 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
--  Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
--  Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 Not applicable.
 
@@ -591,19 +577,9 @@ Not applicable.
 
 ## LABELLING AND PACKAGE LEAFLET
 
-18
-
-## CONFIDENTIAL
-
 <div style=\"page-break-after: always\"></div>
 
 ## A. LABELLING
-
-19
-
-CONFIDENTIAL
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -611,7 +587,9 @@ CONFIDENTIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ifirmasta 75 mg film-coated tablets irbesartan
+Ifirmasta 75 mg film-coated tablets
+
+irbesartan
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -624,12 +602,19 @@ Each film-coated tablet contains 75 mg irbesartan (as hydrochloride).
 ## Film-coated tablet
 
 - 14 film-coated tablets
+
 - 28 film-coated tablets
+
 - 30 film-coated tablets
+
 - 56 film-coated tablets
+
 - 56x1 film-coated tablets
+
 - 84 film-coated tablets
+
 - 90 film-coated tablets
+
 - 98 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -646,13 +631,15 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
+<div style=\"page-break-after: always\"></div>
+
 EXP
 
 <div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30  C. Store in the original package in order to protect from moisture.
+Do not store above 30°C. Store in the original package in order to protect from moisture.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -682,8 +669,7 @@ KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovenia
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -702,34 +688,31 @@ SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| PVC/PE/PVDC/Alu                                     |
+PVC/PE/PVDC/Alu
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ifirmasta 75 mg film-coated tablets irbesartan
+Ifirmasta 75 mg film-coated tablets
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+irbesartan
+
+2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 KRKA
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -781,15 +764,15 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-EXP
-
 <div style=\"page-break-after: always\"></div>
+
+EXP
 
 <div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30  C. Store in the original package in order to protect from moisture.
+Do not store above 30°C. Store in the original package in order to protect from moisture.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -819,8 +802,7 @@ KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovenia
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -839,31 +821,31 @@ SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| PVC/PE/PVDC/Alu                                     |
+PVC/PE/PVDC/Alu
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ifirmasta 150 mg film-coated tablets irbesartan
+Ifirmasta 150 mg film-coated tablets
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+irbesartan
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 KRKA
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+4. BATCH NUMBER
 
 Lot
+
+5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 | 5.   | OTHER   |
 |------|---------|
@@ -876,7 +858,9 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ifirmasta 300 mg film-coated tablets irbesartan
+Ifirmasta 300 mg film-coated tablets
+
+irbesartan
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -917,7 +901,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30  C. Store in the original package in order to protect from moisture.
+Do not store above 30°C. Store in the original package in order to protect from moisture.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -947,8 +931,7 @@ KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovenia
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -967,42 +950,35 @@ SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS ORSTRIPS   |
-|------------------------------------------------------|
-| PVC/PE/PVDC/Alu                                      |
+PVC/PE/PVDC/Alu
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ifirmasta 300 mg film-coated tablets irbesartan
+Ifirmasta 300 mg film-coated tablets
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+irbesartan
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 KRKA
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
-
-29
-
-CONFIDENTIAL
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1122,9 +1098,9 @@ Ifirmasta is for oral use . Swallow the tablets with a sufficient amount of flui
 
 The usual dose is 150 mg once a day (two tablets a day). The dose may later be increased to 300 mg (four tablets a day) once daily depending on blood pressure response.
 
-- -Patients with high blood pressure and type 2 diabetes with kidney disease In patients with high blood pressure and type 2 diabetes, 300 mg (four tablets a day) once daily
+## -Patients with high blood pressure and type 2 diabetes with kidney disease
 
-is the preferred maintenance dose for the treatment of associated kidney disease.
+In patients with high blood pressure and type 2 diabetes, 300 mg (four tablets a day) once daily is the preferred maintenance dose for the treatment of associated kidney disease.
 
 The doctor may advise a lower dose, especially when starting treatment in certain patients such as those on haemodialysis , or those over the age of 75 years.
 
@@ -1148,11 +1124,9 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Some of these effects may be serious and may require medical attention.
 
-As with similar medicines, rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. If you get any
+As with similar medicines, rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. If you get any of these symptoms or get short of breath, stop taking irbesartan and contact your doctor immediately.
 
 <div style=\"page-break-after: always\"></div>
-
-of these symptoms or get short of breath, stop taking irbesartan and contact your doctor immediately.
 
 The frequency of the side effects listed below is defined using the following convention: Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people
 
@@ -1175,9 +1149,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and on the blister after EXP. The expiry date refers to the last day of that month.
 
-Do not store above 30  C.
-
-Store in the original package in order to protect from moisture.
+Do not store above 30°C. Store in the original package in order to protect from moisture.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1280,13 +1252,13 @@ KRKA Sverige AB
 
 Tlf: + 46 (0)8 643 67 66 (SE)
 
+<div style=\"page-break-after: always\"></div>
+
 ## Ελλάδα
 
-KRKA ΕΛΛΑΣ ΕΠΕ Τηλ: + 30 2100101613
+KRKA ΕΛΛΑΣ ΕΠΕ
 
-## Österreich
-
-KRKA Pharma GmbH, Wien Tel: + 43 (0)1 66 24 300
+Τηλ: + 30 2100101613
 
 ## España
 
@@ -1294,25 +1266,17 @@ KRKA Farmacéutica, S.L.
 
 Tel: + 34 911 61 03 80
 
-## Polska
-
-KRKA-POLSKA Sp. z o.o. Tel.: + 48 (0)22 573 7500
-
 ## France
 
-KRKA France Eurl Tél: + 33 (0)1 57 40 82 25
+KRKA France Eurl
 
-## Portugal
-
-KRKA Farmacêutica, Sociedade Unipessoal Lda. Tel: + 351 (0)21 46 43 650
+Tél: + 33 (0)1 57 40 82 25
 
 ## Hrvatska
 
-KRKA - FARMA d.o.o. Tel: + 385 1 6312 101
+KRKA - FARMA d.o.o.
 
-## România
-
-KRKA Romania S.R.L., Bucharest Tel: + 4 021 310 66 05
+Tel: + 385 1 6312 101
 
 ## Ireland
 
@@ -1320,39 +1284,23 @@ KRKA Pharma Dublin, Ltd.
 
 Tel: + 353 1 413 3710
 
-## Slovenija
-
-KRKA, d.d., Novo mesto
-
-Tel: + 386 (0) 1 47 51 100
-
 ## Ísland
 
-LYFIS ehf. Sími: + 354 534 3500
+LYFIS ehf.
 
-## Slovenská republika
-
-KRKA Slovensko, s.r.o.
-
-Tel: + 421 (0) 2 571 04 501
+Sími: + 354 534 3500
 
 ## Italia
 
-KRKA Farmaceutici Milano S.r.l. Tel: + 39 02 3300 8841
+KRKA Farmaceutici Milano S.r.l.
 
-## Suomi/Finland
-
-KRKA Finland Oy Puh/Tel: + 358 20 754 5330
+Tel: + 39 02 3300 8841
 
 ## Κύπρος
 
-KI.PA. (PHARMACAL) LIMITED Τηλ: + 357 24 651 882
+KI.PA. (PHARMACAL) LIMITED
 
-## Sverige
-
-KRKA Sverige AB
-
-Tel: + 46 (0)8 643 67 66 (SE)
+Τηλ: + 357 24 651 882
 
 ## Latvija
 
@@ -1360,11 +1308,53 @@ KRKA Latvija SIA
 
 Tel: + 371 6 733 86 10
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in .
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+## Österreich
+
+KRKA Pharma GmbH, Wien
+
+Tel: + 43 (0)1 66 24 300
+
+## Polska
+
+KRKA-POLSKA Sp. z o.o.
+
+Tel.: + 48 (0)22 573 7500
+
+## Portugal
+
+KRKA Farmacêutica, Sociedade Unipessoal Lda. Tel: + 351 (0)21 46 43 650
+
+## România
+
+KRKA Romania S.R.L., Bucharest
+
+Tel: + 4 021 310 66 05
+
+## Slovenija
+
+KRKA, d.d., Novo mesto
+
+Tel: + 386 (0) 1 47 51 100
+
+## Slovenská republika
+
+KRKA Slovensko, s.r.o.
+
+Tel: + 421 (0) 2 571 04 501
+
+## Suomi/Finland
+
+KRKA Finland Oy Puh/Tel: + 358 20 754 5330
+
+## Sverige
+
+KRKA Sverige AB
+
+Tel: + 46 (0)8 643 67 66 (SE)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1484,7 +1474,9 @@ Ifirmasta is for oral use . Swallow the tablets with a sufficient amount of flui
 
 The usual dose is 150 mg once a day. The dose may later be increased to 300 mg (two tablets a day) once daily depending on blood pressure response.
 
-- -Patients with high blood pressure and type 2 diabetes with kidney disease In patients with high blood pressure and type 2 diabetes, 300 mg (two tablets a day) once daily is the preferred maintenance dose for the treatment of associated kidney disease.
+## -Patients with high blood pressure and type 2 diabetes with kidney disease
+
+In patients with high blood pressure and type 2 diabetes, 300 mg (two tablets a day) once daily is the preferred maintenance dose for the treatment of associated kidney disease.
 
 The doctor may advise a lower dose, especially when starting treatment in certain patients such as those on haemodialysis , or those over the age of 75 years.
 
@@ -1508,15 +1500,11 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Some of these effects may be serious and may require medical attention.
 
-As with similar medicines, rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. If you get any
+As with similar medicines, rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. If you get any of these symptoms or get short of breath stop taking irbesartan and contact your doctor immediately.
 
 <div style=\"page-break-after: always\"></div>
 
-of these symptoms or get short of breath stop taking irbesartan and contact your doctor immediately.
-
-The frequency of the side effects listed below is defined using the following convention:
-
-Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people
+The frequency of the side effects listed below is defined using the following convention: Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people
 
 Side effects reported in clinical studies for patients treated with irbesartan were:
 
@@ -1537,9 +1525,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and on the blister after EXP. The expiry date refers to the last day of that month.
 
-Do not store above 30  C.
-
-Store in the original package in order to protect from moisture.
+Do not store above 30°C. Store in the original package in order to protect from moisture.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1642,41 +1628,87 @@ KRKA Sverige AB
 
 Tlf: + 46 (0)8 643 67 66 (SE)
 
+<div style=\"page-break-after: always\"></div>
+
 ## Ελλάδα
 
-KRKA ΕΛΛΑΣ ΕΠΕ Τηλ: + 30 2100101613
+KRKA ΕΛΛΑΣ ΕΠΕ
 
-## Österreich
-
-KRKA Pharma GmbH, Wien Tel: + 43 (0)1 66 24 300
+Τηλ: + 30 2100101613
 
 ## España
 
-KRKA Farmacéutica, S.L. Tel: + 34 911 61 03 80
+KRKA Farmacéutica, S.L.
 
-## Polska
-
-KRKA-POLSKA Sp. z o.o. Tel.: + 48 (0)22 573 7500
+Tel: + 34 911 61 03 80
 
 ## France
 
-KRKA France Eurl Tél: + 33 (0)1 57 40 82 25
+KRKA France Eurl
+
+Tél: + 33 (0)1 57 40 82 25
+
+## Hrvatska
+
+KRKA - FARMA d.o.o.
+
+Tel: + 385 1 6312 101
+
+## Ireland
+
+KRKA Pharma Dublin, Ltd.
+
+Tel: + 353 1 413 3710
+
+## Ísland
+
+LYFIS ehf.
+
+Sími: + 354 534 3500
+
+## Italia
+
+KRKA Farmaceutici Milano S.r.l.
+
+Tel: + 39 02 3300 8841
+
+## Κύπρος
+
+KI.PA. (PHARMACAL) LIMITED
+
+Τηλ: + 357 24 651 882
+
+## Latvija
+
+KRKA Latvija SIA
+
+Tel: + 371 6 733 86 10
+
+## This leaflet was last revised in .
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+## Österreich
+
+KRKA Pharma GmbH, Wien
+
+Tel: + 43 (0)1 66 24 300
+
+## Polska
+
+KRKA-POLSKA Sp. z o.o.
+
+Tel.: + 48 (0)22 573 7500
 
 ## Portugal
 
 KRKA Farmacêutica, Sociedade Unipessoal Lda. Tel: + 351 (0)21 46 43 650
 
-## Hrvatska
-
-KRKA - FARMA d.o.o. Tel: + 385 1 6312 101
-
 ## România
 
-KRKA Romania S.R.L., Bucharest Tel: + 4 021 310 66 05
+KRKA Romania S.R.L., Bucharest
 
-## Ireland
-
-KRKA Pharma Dublin, Ltd. Tel: + 353 1 413 3710
+Tel: + 4 021 310 66 05
 
 ## Slovenija
 
@@ -1684,41 +1716,21 @@ KRKA, d.d., Novo mesto
 
 Tel: + 386 (0) 1 47 51 100
 
-## Ísland
-
-LYFIS ehf. Sími: + 354 534 3500
-
 ## Slovenská republika
 
 KRKA Slovensko, s.r.o.
 
 Tel: + 421 (0) 2 571 04 501
 
-## Italia
-
-KRKA Farmaceutici Milano S.r.l. Tel: + 39 02 3300 8841
-
 ## Suomi/Finland
 
 KRKA Finland Oy Puh/Tel: + 358 20 754 5330
 
-## Κύπρος
+## Sverige
 
-KI.PA. (PHARMACAL) LIMITED Τηλ: + 357 24 651 882
-
-Sverige KRKA Sverige AB
+KRKA Sverige AB
 
 Tel: + 46 (0)8 643 67 66 (SE)
-
-## Latvija
-
-KRKA Latvija SIA Tel: + 371 6 733 86 10
-
-<div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in .
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1836,11 +1848,11 @@ Ifirmasta is for oral use . Swallow the tablets with a sufficient amount of flui
 
 ## -Patients with high blood pressure
 
-- The usual dose is 150 mg once a day. The dose may later be increased to 300 mg once daily
+The usual dose is 150 mg once a day. The dose may later be increased to 300 mg once daily depending on blood pressure response.
 
-depending on blood pressure response.
+## -Patients with high blood pressure and type 2 diabetes with kidney disease
 
-- -Patients with high blood pressure and type 2 diabetes with kidney disease In patients with high blood pressure and type 2 diabetes, 300 mg once daily is the preferred maintenance dose for the treatment of associated kidney disease.
+In patients with high blood pressure and type 2 diabetes, 300 mg once daily is the preferred maintenance dose for the treatment of associated kidney disease.
 
 The doctor may advise a lower dose, especially when starting treatment in certain patients such as those on haemodialysis , or those over the age of 75 years .
 
@@ -1864,15 +1876,11 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Some of these effects may be serious and may require medical attention.
 
-As with similar medicines, rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. If you get any
+As with similar medicines, rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. If you get any of these symptoms or get short of breath stop taking irbesartan and contact your doctor immediately.
 
 <div style=\"page-break-after: always\"></div>
 
-of these symptoms or get short of breath stop taking irbesartan and contact your doctor immediately.
-
-The frequency of the side effects listed below is defined using the following convention:
-
-Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people
+The frequency of the side effects listed below is defined using the following convention: Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people
 
 Side effects reported in clinical studies for patients treated with irbesartan were:
 
@@ -1893,9 +1901,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and on the blister after EXP. The expiry date refers to the last day of that month.
 
-Do not store above 30  C.
-
-Store in the original package in order to protect from moisture.
+Do not store above 30°C. Store in the original package in order to protect from moisture.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -2002,7 +2008,9 @@ Tlf: + 46 (0)8 643 67 66 (SE)
 
 ## Ελλάδα
 
-KRKA ΕΛΛΑΣ ΕΠΕ Τηλ: + 30 2100101613
+KRKA ΕΛΛΑΣ ΕΠΕ
+
+Τηλ: + 30 2100101613
 
 ## España
 
@@ -2012,11 +2020,15 @@ Tel: + 34 911 61 03 80
 
 ## France
 
-KRKA France Eurl Tél: + 33 (0)1 57 40 82 25
+KRKA France Eurl
+
+Tél: + 33 (0)1 57 40 82 25
 
 ## Hrvatska
 
-KRKA - FARMA d.o.o. Tel: + 385 1 6312 101
+KRKA - FARMA d.o.o.
+
+Tel: + 385 1 6312 101
 
 ## Ireland
 
@@ -2026,19 +2038,27 @@ Tel: + 353 1 413 3710
 
 ## Ísland
 
-LYFIS ehf. Sími: + 354 534 3500
+LYFIS ehf.
+
+Sími: + 354 534 3500
 
 ## Italia
 
-KRKA Farmaceutici Milano S.r.l. Tel: + 39 02 3300 8841
+KRKA Farmaceutici Milano S.r.l.
+
+Tel: + 39 02 3300 8841
 
 ## Κύπρος
 
-KI.PA. (PHARMACAL) LIMITED Τηλ: + 357 24 651 882
+KI.PA. (PHARMACAL) LIMITED
+
+Τηλ: + 357 24 651 882
 
 ## Latvija
 
-KRKA Latvija SIA Tel: + 371 6 733 86 10
+KRKA Latvija SIA
+
+Tel: + 371 6 733 86 10
 
 ## This leaflet was last revised in .
 
@@ -2046,11 +2066,15 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Österreich
 
-KRKA Pharma GmbH, Wien Tel: + 43 (0)1 66 24 300
+KRKA Pharma GmbH, Wien
+
+Tel: + 43 (0)1 66 24 300
 
 ## Polska
 
-KRKA-POLSKA Sp. z o.o. Tel.: + 48 (0)22 573 7500
+KRKA-POLSKA Sp. z o.o.
+
+Tel.: + 48 (0)22 573 7500
 
 ## Portugal
 
@@ -2058,7 +2082,9 @@ KRKA Farmacêutica, Sociedade Unipessoal Lda. Tel: + 351 (0)21 46 43 650
 
 ## România
 
-KRKA Romania S.R.L., Bucharest Tel: + 4 021 310 66 05
+KRKA Romania S.R.L., Bucharest
+
+Tel: + 4 021 310 66 05
 
 ## Slovenija
 
@@ -2068,7 +2094,9 @@ Tel: + 386 (0) 1 47 51 100
 
 ## Slovenská republika
 
-KRKA Slovensko, s.r.o. Tel: + 421 (0) 2 571 04 501
+KRKA Slovensko, s.r.o.
+
+Tel: + 421 (0) 2 571 04 501
 
 ## Suomi/Finland
 

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 08:14:10
+document_datetime: 2026-05-05 11:17:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zabdeno.html
 document_name: zabdeno.html
 version: success
-processing_time: 0.1106688
-conversion_datetime: 2025-12-30 13:04:24.962579
+processing_time: 0.1070047
+conversion_datetime: 2026-05-07 20:16:14.713977
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Zabdeno
 
 [RSS](/en/individual-human-medicine.xml/67332)
 
-##### Authorised
+Withdrawn
 
-This medicine is authorised for use in the European Union
+This medicine's authorisation has been withdrawn
 
-ebola vaccine (Ad26.ZEBOV-GP [recombinant]) Medicine Human Authorised
+ebola vaccine (Ad26.ZEBOV-GP [recombinant])
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Withdrawn
 
 Page contents
 
@@ -47,253 +47,163 @@ Page contents
 
 ## Overview
 
-Zabdeno is a vaccine to protect adults and children aged one year and older against Ebola virus disease caused by *Zaire ebolavirus* . It is used with another Ebola vaccine called Mvabea as part of a vaccine regimen.
+On 1 May 2026, the European Commission withdrew the marketing authorisation for Zabdeno (Ebola vaccine (Ad26.ZEBOV-GP [recombinant])) in the European Union (EU). The withdrawal was at the request of the marketing authorisation holder, Janssen-Cilag International N.V., which notified the European Commission of its decision not to market the product in the EU for commercial reasons.
 
-Zabdeno contains a virus known as adenovirus which has been modified to allow the production of a protein from *Zaire ebolavirus* . The adenovirus itself has no effect on humans. Zabdeno only contains a small part of *Zaire ebolavirus* and cannot cause Ebola virus disease.
+Zabdeno was granted marketing authorisation under exceptional circumstances in the EU on 1 July 2020; the vaccine was indicated for prevention of disease caused by Ebola virus in people aged 1 year and older. The marketing authorisation was initially valid for a 5-year period. It was then granted unlimited validity in 2025. The product had not been marketed in the EU.
 
-Expand section
+Zabdeno was to be used with another Ebola vaccine called Mvabea, as part of a vaccine regimen; the marketing authorisation for Mvabea has also been withdrawn.
 
-Collapse section
-
-## How is Zabdeno used?
-
-Zabdeno can only be obtained with a prescription and is given by a trained healthcare worker. It is given as a single injection, followed by an injection of Mvabea about 8 weeks later. People who are at imminent risk of infection with Ebola virus and have received the Zabdeno and Mvabea injections more than 4 months earlier can receive a booster dose of Zabdeno.
-
-Injections are given into the muscle around the shoulder (the deltoid) or a muscle of the thigh.
-
-For more information about using Zabdeno, see the package leaflet or contact your doctor or pharmacist.
-
-## How does Zabdeno work?
-
-The active substance in Zabdeno will lead to the production of a viral protein found on *Zaire ebolavirus* . When a person receives the vaccine, the viral protein triggers an immune response. If later on the person comes into contact with the actual virus, the immune system recognises the viral proteins and is prepared to attack the virus, so protecting the person from the disease caused by Ebola virus.
-
-## What benefits of Zabdeno have been shown in studies?
-
-Five main studies showed that Zabdeno, when used with Mvabea, can trigger the production of antibodies capable of providing protection against *Zaire ebolavirus* . The studies involved a total of 3,585 adults and children. Based on animal studies with a fully lethal dose of the virus, the antibody level generated in humans following vaccination with Zabdeno and Mvabea would be expected to lead to around 53% survival if infected with a fully lethal dose. However, the method used in the animal studies results in more severe infection than natural infection in humans. Although the vaccine regimen can provide protection against Ebola virus disease, the level and duration of protection are not yet known and the company will provide further data.
-
-## What are the risks associated with Zabdeno?
-
-The most common side effects in adults with Zabdeno (which may affect more than 1 in 10 people) are pain, warmth and swelling at the injection site, tiredness, headache, muscle pain, joint pain and chills.
-
-In children and adolescents aged 1 to 17 years, the most common side effects (which may affect more than 1 in 10 people) are pain at the injection site, tiredness, decreased activity, decreased appetite and irritability.
-
-For the full list of side effects and restrictions of Zabdeno, see the package leaflet.
-
-## Why is Zabdeno authorised in the EU?
-
-Zabdeno, used with Mvabea as part of a 2-dose vaccine regimen, triggers an immune response that can provide protection against Ebola virus disease. Although the level and duration of protection against the virus have not yet been determined, the European Medicines Agency considered that the vaccine's benefits could be of great importance to help control an outbreak and prevent death. Regarding safety, most side effects are mild to moderate in severity and of short duration. The Agency therefore decided that Zabdeno's benefits are greater than its risks and it can be authorised for use in the EU.
-
-Zabdeno has been authorised under 'exceptional circumstances'. This is because it has not been possible to obtain complete information about Zabdeno for scientific and ethical reasons. Every year, the Agency will review any new information that becomes available and this overview will be updated as necessary.
-
-## What information is still awaited for Zabdeno?
-
-Since Zabdeno has been authorised under exceptional circumstances, the company that markets Zabdeno will provide an update on the collection of data on the effectiveness of the vaccine regimen in the intended population on a yearly basis.
-
-## What measures are being taken to ensure the safe and effective use of Zabdeno?
-
-Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Zabdeno have been included in the summary of product characteristics and the package leaflet.
-
-As for all medicines, data on the use of Zabdeno are continuously monitored. Side effects reported with Zabdeno are carefully evaluated and any necessary action taken to protect patients.
-
-## Other information about Zabdeno
-
-Zabdeno received a marketing authorisation under exceptional circumstances valid throughout the EU on 01 July 2020.
+There is another vaccine authorised in the EU to protect people against Ebola virus disease.
 
 Zabdeno : EPAR - Medicine overview
 
 Reference Number: EMA/298997/2020
 
-English (EN) (127.3 KB - PDF)
+English (EN) (130.79 KB - PDF)
 
 **First published:** 23/07/2020
 
 [View](/en/documents/overview/zabdeno-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-890)
+[Other languages (22)](#file-language-dropdown-404)
 
-български (BG) (157.38 KB - PDF)
+български (BG) (166.26 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/bg/documents/overview/zabdeno-epar-medicine-overview_bg.pdf)
 
-español (ES) (141.27 KB - PDF)
+español (ES) (145.82 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/es/documents/overview/zabdeno-epar-medicine-overview_es.pdf)
 
-čeština (CS) (148.32 KB - PDF)
+čeština (CS) (153.34 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/cs/documents/overview/zabdeno-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (123.78 KB - PDF)
+dansk (DA) (128.1 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/da/documents/overview/zabdeno-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (128.59 KB - PDF)
+Deutsch (DE) (132.82 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/de/documents/overview/zabdeno-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (119.9 KB - PDF)
+eesti keel (ET) (124.14 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/et/documents/overview/zabdeno-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (157.16 KB - PDF)
+ελληνικά (EL) (166.84 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/el/documents/overview/zabdeno-epar-medicine-overview_el.pdf)
 
-français (FR) (127.58 KB - PDF)
+français (FR) (132.13 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/fr/documents/overview/zabdeno-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (145.73 KB - PDF)
+hrvatski (HR) (150.32 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/hr/documents/overview/zabdeno-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (125.46 KB - PDF)
+italiano (IT) (129.52 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/it/documents/overview/zabdeno-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (154.72 KB - PDF)
+latviešu valoda (LV) (159.65 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/lv/documents/overview/zabdeno-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (154.68 KB - PDF)
+lietuvių kalba (LT) (159.9 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/lt/documents/overview/zabdeno-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (148.15 KB - PDF)
+magyar (HU) (153.69 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/hu/documents/overview/zabdeno-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (150.44 KB - PDF)
+Malti (MT) (155.03 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/mt/documents/overview/zabdeno-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (124.97 KB - PDF)
+Nederlands (NL) (129.15 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/nl/documents/overview/zabdeno-epar-medicine-overview_nl.pdf)
 
-polski (PL) (150.96 KB - PDF)
+polski (PL) (155.95 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/pl/documents/overview/zabdeno-epar-medicine-overview_pl.pdf)
 
-português (PT) (126.88 KB - PDF)
+português (PT) (131.33 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/pt/documents/overview/zabdeno-epar-medicine-overview_pt.pdf)
 
-română (RO) (146.03 KB - PDF)
+română (RO) (150.86 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/ro/documents/overview/zabdeno-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (150.1 KB - PDF)
+slovenčina (SK) (155.4 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/sk/documents/overview/zabdeno-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (146.5 KB - PDF)
+slovenščina (SL) (150.99 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/sl/documents/overview/zabdeno-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (122.63 KB - PDF)
+Suomi (FI) (126.66 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/fi/documents/overview/zabdeno-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (123.61 KB - PDF)
+svenska (SV) (127.7 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/sv/documents/overview/zabdeno-epar-medicine-overview_sv.pdf)
 
 Zabdeno : EPAR - Risk management plan
 
-English (EN) (662.15 KB - PDF)
+English (EN) (721.76 KB - PDF)
 
-**First published:** 23/07/2020
-
-**Last updated:** 25/03/2025
+**First published:** 23/07/2020 **Last updated:** 25/03/2025
 
 [View](/en/documents/rmp/zabdeno-epar-risk-management-plan_en.pdf)
 
@@ -301,305 +211,161 @@ English (EN) (662.15 KB - PDF)
 
 Zabdeno : EPAR - Product information
 
-English (EN) (379.99 KB - PDF)
+English (EN) (418.23 KB - PDF)
 
-**First published:** 23/07/2020
-
-**Last updated:** 14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/en/documents/product-information/zabdeno-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-779)
+[Other languages (24)](#file-language-dropdown-755)
 
-български (BG) (416.91 KB - PDF)
+български (BG) (460.43 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/bg/documents/product-information/zabdeno-epar-product-information_bg.pdf)
 
-español (ES) (412.03 KB - PDF)
+español (ES) (444.43 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/es/documents/product-information/zabdeno-epar-product-information_es.pdf)
 
-čeština (CS) (547.48 KB - PDF)
+čeština (CS) (585.72 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/cs/documents/product-information/zabdeno-epar-product-information_cs.pdf)
 
-dansk (DA) (498.78 KB - PDF)
+dansk (DA) (534.03 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/da/documents/product-information/zabdeno-epar-product-information_da.pdf)
 
-Deutsch (DE) (679.28 KB - PDF)
+Deutsch (DE) (714.46 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/de/documents/product-information/zabdeno-epar-product-information_de.pdf)
 
-eesti keel (ET) (522.55 KB - PDF)
+eesti keel (ET) (560.77 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/et/documents/product-information/zabdeno-epar-product-information_et.pdf)
 
-ελληνικά (EL) (369.74 KB - PDF)
+ελληνικά (EL) (415.14 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/el/documents/product-information/zabdeno-epar-product-information_el.pdf)
 
-français (FR) (333.34 KB - PDF)
+français (FR) (371.99 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/fr/documents/product-information/zabdeno-epar-product-information_fr.pdf)
 
-hrvatski (HR) (360.1 KB - PDF)
+hrvatski (HR) (397.4 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/hr/documents/product-information/zabdeno-epar-product-information_hr.pdf)
 
-íslenska (IS) (520.52 KB - PDF)
+íslenska (IS) (555.94 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/is/documents/product-information/zabdeno-epar-product-information_is.pdf)
 
-italiano (IT) (341.7 KB - PDF)
+italiano (IT) (378.54 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/it/documents/product-information/zabdeno-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (458.21 KB - PDF)
+latviešu valoda (LV) (495.76 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/lv/documents/product-information/zabdeno-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (455.76 KB - PDF)
+lietuvių kalba (LT) (493.92 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/lt/documents/product-information/zabdeno-epar-product-information_lt.pdf)
 
-magyar (HU) (399.05 KB - PDF)
+magyar (HU) (436.24 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/hu/documents/product-information/zabdeno-epar-product-information_hu.pdf)
 
-Malti (MT) (434.14 KB - PDF)
+Malti (MT) (472.15 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/mt/documents/product-information/zabdeno-epar-product-information_mt.pdf)
 
-Nederlands (NL) (473.58 KB - PDF)
+Nederlands (NL) (509.56 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/nl/documents/product-information/zabdeno-epar-product-information_nl.pdf)
 
-norsk (NO) (412.44 KB - PDF)
+norsk (NO) (446.14 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/no/documents/product-information/zabdeno-epar-product-information_no.pdf)
 
-polski (PL) (598.46 KB - PDF)
+polski (PL) (639.22 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/pl/documents/product-information/zabdeno-epar-product-information_pl.pdf)
 
-português (PT) (426.84 KB - PDF)
+português (PT) (463.22 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/pt/documents/product-information/zabdeno-epar-product-information_pt.pdf)
 
-română (RO) (600.1 KB - PDF)
+română (RO) (635.27 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/ro/documents/product-information/zabdeno-epar-product-information_ro.pdf)
 
-slovenčina (SK) (656.68 KB - PDF)
+slovenčina (SK) (697.01 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/sk/documents/product-information/zabdeno-epar-product-information_sk.pdf)
 
-slovenščina (SL) (785.97 KB - PDF)
+slovenščina (SL) (820.54 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/sl/documents/product-information/zabdeno-epar-product-information_sl.pdf)
 
-Suomi (FI) (450.06 KB - PDF)
+Suomi (FI) (487.61 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/fi/documents/product-information/zabdeno-epar-product-information_fi.pdf)
 
-svenska (SV) (369.88 KB - PDF)
+svenska (SV) (405.06 KB - PDF)
 
-**First published:**
-
-23/07/2020
-
-**Last updated:**
-
-14/05/2025
+**First published:** 23/07/2020 **Last updated:** 14/05/2025
 
 [View](/sv/documents/product-information/zabdeno-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** R/0022 28/03/2025
+**Latest procedure affecting product information:** R/0022
+
+28/03/2025
 
 icon globe
 
@@ -617,209 +383,179 @@ Product information documents contain:
 
 Zabdeno : EPAR - All authorised presentations
 
-English (EN) (41.02 KB - PDF)
+English (EN) (56.23 KB - PDF)
 
 **First published:** 23/07/2020
 
 [View](/en/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-173)
+[Other languages (24)](#file-language-dropdown-961)
 
-български (BG) (43.72 KB - PDF)
+български (BG) (61.58 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/bg/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (40.81 KB - PDF)
+español (ES) (56.08 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/es/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (36.71 KB - PDF)
+čeština (CS) (57 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/cs/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (37.56 KB - PDF)
+dansk (DA) (57.95 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/da/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (36.65 KB - PDF)
+Deutsch (DE) (51.18 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/de/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (30.87 KB - PDF)
+eesti keel (ET) (50.29 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/et/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (42.58 KB - PDF)
+ελληνικά (EL) (61.48 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/el/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (41.3 KB - PDF)
+français (FR) (56.54 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/fr/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (44.05 KB - PDF)
+hrvatski (HR) (64.8 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/hr/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (37.59 KB - PDF)
+íslenska (IS) (57.85 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/is/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (35.94 KB - PDF)
+italiano (IT) (55.99 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/it/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (37.45 KB - PDF)
+latviešu valoda (LV) (57.73 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/lv/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (37.34 KB - PDF)
+lietuvių kalba (LT) (57.3 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/lt/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (36.95 KB - PDF)
+magyar (HU) (57.25 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/hu/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (44.5 KB - PDF)
+Malti (MT) (60.09 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/mt/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (41.26 KB - PDF)
+Nederlands (NL) (56.46 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/nl/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (41.85 KB - PDF)
+norsk (NO) (57.04 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/no/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (43.04 KB - PDF)
+polski (PL) (58.34 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/pl/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (41.4 KB - PDF)
+português (PT) (56.85 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/pt/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (41.02 KB - PDF)
+română (RO) (56.23 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/ro/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (41.99 KB - PDF)
+slovenčina (SK) (57.67 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/sk/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (41.22 KB - PDF)
+slovenščina (SL) (56.5 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/sl/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (40.21 KB - PDF)
+Suomi (FI) (55.54 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/fi/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (40.24 KB - PDF)
+svenska (SV) (55.6 KB - PDF)
 
-**First published:**
-
-23/07/2020
+**First published:** 23/07/2020
 
 [View](/sv/documents/all-authorised-presentations/zabdeno-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Zabdeno Active substance recombinant adenovirus type 26 (Ad26) encoding the glycoprotein (GP) of the Ebola virus Zaire (ZEBOV) Mayinga strain International non-proprietary name (INN) or common name ebola vaccine (Ad26.ZEBOV-GP [recombinant]) Therapeutic area (MeSH) Hemorrhagic Fever, Ebola Anatomical therapeutic chemical (ATC) code J07
+Name of medicine
+
+Zabdeno
+
+Active substance
+
+recombinant adenovirus type 26 (Ad26) encoding the glycoprotein (GP) of the Ebola virus Zaire (ZEBOV) Mayinga strain
+
+International non-proprietary name (INN) or common name
+
+ebola vaccine (Ad26.ZEBOV-GP [recombinant])
+
+Therapeutic area (MeSH)
+
+Hemorrhagic Fever, Ebola
+
+Anatomical therapeutic chemical (ATC) code
+
+J07
 
 ### Pharmacotherapeutic group
 
@@ -831,11 +567,9 @@ Active immunization for prevention of disease caused by Ebola virus (Zaire ebola
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005337
+EMA product number
 
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+EMEA/H/C/005337
 
 Exceptional circumstances
 
@@ -847,7 +581,21 @@ Janssen-Cilag International N.V.
 
 Turnhoutseweg 30
 
-Opinion adopted 28/05/2020 Marketing authorisation issued 01/07/2020 Revision 9
+Opinion adopted
+
+28/05/2020
+
+Marketing authorisation issued
+
+01/07/2020
+
+Withdrawal of marketing authorisation
+
+01/05/2026
+
+Revision
+
+10
 
 ## Assessment history
 
@@ -859,21 +607,17 @@ Collapse section
 
 Zabdeno : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (205.23 KB - PDF)
+English (EN) (213.04 KB - PDF)
 
-**First published:** 12/10/2021
-
-**Last updated:** 07/04/2025
+**First published:** 12/10/2021 **Last updated:** 07/04/2025
 
 [View](/en/documents/procedural-steps-after/zabdeno-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Zabdeno-H-C-5337-P46-009 : EPAR - Assessment report
 
-Adopted
+Adopted Reference Number: EMA/529497/2023
 
-Reference Number: EMA/529497/2023
-
-English (EN) (604.91 KB - PDF)
+English (EN) (638.07 KB - PDF)
 
 **First published:** 24/11/2023
 
@@ -883,11 +627,9 @@ English (EN) (604.91 KB - PDF)
 
 Zabdeno : EPAR - Public assessment report
 
-Adopted
+Adopted Reference Number: EMA/323670/2020
 
-Reference Number: EMA/323670/2020
-
-English (EN) (2.66 MB - PDF)
+English (EN) (2.88 MB - PDF)
 
 **First published:** 23/07/2020
 
@@ -895,33 +637,35 @@ English (EN) (2.66 MB - PDF)
 
 CHMP summary of positive opinion for Zabdeno
 
-Adopted
+Adopted Reference Number: EMA/CHMP/138172/2020
 
-Reference Number: EMA/CHMP/138172/2020
-
-English (EN) (126.89 KB - PDF)
+English (EN) (152.57 KB - PDF)
 
 **First published:** 29/05/2020
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-zabdeno_en.pdf)
 
-#### News on Zabdeno
+## News on Zabdeno
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 May 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-may-2020) 29/05/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 May 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-may-2020)
 
-[New vaccine for prevention of Ebola virus disease recommended for approval in the European Union](/en/news/new-vaccine-prevention-ebola-virus-disease-recommended-approval-european-union) 29/05/2020
+29/05/2020
 
-#### More information on Zabdeno
+[New vaccine for prevention of Ebola virus disease recommended for approval in the European Union](/en/news/new-vaccine-prevention-ebola-virus-disease-recommended-approval-european-union)
+
+29/05/2020
+
+## More information on Zabdeno
 
 - [EMEA-002307-PIP01-17-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002307-pip01-17-m02)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Vaccines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A76)
 
-**This page was last updated on** 14/05/2025
+**This page was last updated on**
+
+05/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

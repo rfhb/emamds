@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-31 10:08:48
+document_datetime: 2026-05-06 09:26:13
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ogsiveo-epar-product-information_en.pdf
 document_name: ogsiveo-epar-product-information_en.pdf
 version: success
-processing_time: 8.9040205
-conversion_datetime: 2026-04-01 12:37:35.320039
+processing_time: 10.4938899
+conversion_datetime: 2026-05-07 20:21:36.730702
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,7 +36,7 @@ Ogsiveo 150 mg film -coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-## Ogsiveo 50 mg film -coated tablets
+Ogsiveo 50 mg film -coated tablets
 
 Each film -coated tablet contains 50 mg of nirogacestat (as nirogacestat dihydrobromide).
 
@@ -80,11 +80,9 @@ Ogsiveo 100 mg film -coated tablets
 
 Round, light orange film -coated tablets 10 mm diameter, debossed with '100' on one side.
 
-Ogsiveo 150 mg film -coated tablets
+Ogsiveo 150 mg film -coated tablets Oval, yellow orange film -coated tablets 8.5 mm in width, 17.5 mm in length, debossed with '150' on one side.
 
 <div style=\"page-break-after: always\"></div>
-
-Oval, yellow orange film -coated tablets 8.5 mm in width, 17.5 mm in length, debossed with '150' on one side.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -199,11 +197,9 @@ ALT or AST elevations were reported in patients who received nirogacestat (see s
 
 ## Non -melanoma skin cancers
 
-Non -melanoma skin cancers (basal cell carcinoma and squamous cell carcinoma) were reported in patients receiving nirogacestat (see section 4.8). Skin examinations should be performed prior to initiation of nirogacestat and routinely during treatment with nirogacestat. Cases should be managed
+Non -melanoma skin cancers (basal cell carcinoma and squamous cell carcinoma) were reported in patients receiving nirogacestat (see section 4.8). Skin examinations should be performed prior to initiation of nirogacestat and routinely during treatment with nirogacestat. Cases should be managed according to clinical practices and patients may continue with nirogacestat treatment without dose adjustment.
 
 <div style=\"page-break-after: always\"></div>
-
-according to clinical practices and patients may continue with nirogacestat treatment without dose adjustment.
 
 ## Embryo -foetal toxicity - Contraception in males and females
 
@@ -357,9 +353,8 @@ Table 2: Adverse reactions reported
 
 b  Rash includes rash maculo-papular, dermatitis acneiform, rash, rash erythematous, rash pruritic, and rash papular.
 
-c  Squamous cell carcinoma included squamous cell carcinoma of skin and squamous cell carcinoma.
-
-- d  Bone fracture includes fracture, foot fracture, hand fracture, radius fracture, hip fracture and rib fracture.
+- c  Squamous cell carcinoma included squamous cell carcinoma of skin and squamous cell carcinoma.
+- d Bone fracture includes fracture, foot fracture, hand fracture, radius fracture, hip fracture and rib fracture.
 - e  Ovarian toxicity includes ovarian failure, premature menopause, amenorrhoea, oligomenorrhoea, menstruation irregular, dysmenorrhoea, heavy menstrual bleeding, vulvovaginal dryness, hot flush, decreased anti-Müllerian hormone (AMH) and increased follicle-stimulating hormone (FSH).
 - f  Upper respiratory tract infection (URTI) includes URTI, viral URTI, acute sinusitis, and sinusitis.
 - -- Represents no cases were reported.
@@ -378,11 +373,9 @@ In the double -blind phase of the DeFi study, dermatologic reactions were report
 
 ## Ovarian toxicity
 
-In the double -blind phase of the DeFi study, 75% of women of childbearing potential receiving nirogacestat reported ovarian toxicity (defined as ovarian failure, premature menopause, amenorrhea, oligomenorrhea, and menopause) compared to no patients receiving placebo. There were three serious adverse reactions of ovarian toxicity, all premature menopause, representing 11% of all participants reporting ovarian toxicity. The median time to first onset of ovarian toxicity was 8.9 weeks (range 1 day to 54 weeks), and the overall median duration was 18.9 weeks (range 11 days to 215 weeks). Ovarian toxicity has been reported to resolve in 79% of women of childbearing potential during treatment. Follow up information is available for all but two out of 27 patients; after stopping treatment, ovarian toxicity was reported to resolve in all women of childbearing potential for whom data are available. The median time to resolution after discontinuing nirogacestat was 10.9 weeks (range 4 to 18 weeks). Effects of nirogacestat on fertility are unknown (see section 4.4). An exposure-
+In the double -blind phase of the DeFi study, 75% of women of childbearing potential receiving nirogacestat reported ovarian toxicity (defined as ovarian failure, premature menopause, amenorrhea, oligomenorrhea, and menopause) compared to no patients receiving placebo. There were three serious adverse reactions of ovarian toxicity, all premature menopause, representing 11% of all participants reporting ovarian toxicity. The median time to first onset of ovarian toxicity was 8.9 weeks (range 1 day to 54 weeks), and the overall median duration was 18.9 weeks (range 11 days to 215 weeks). Ovarian toxicity has been reported to resolve in 79% of women of childbearing potential during treatment. Follow up information is available for all but two out of 27 patients; after stopping treatment, ovarian toxicity was reported to resolve in all women of childbearing potential for whom data are available. The median time to resolution after discontinuing nirogacestat was 10.9 weeks (range 4 to 18 weeks). Effects of nirogacestat on fertility are unknown (see section 4.4). An exposure- response relationship was identified between nirogacestat and serum follicular stimulating hormone (FSH) levels, with FSH increasing linearly with increasing serum concentrations of nirogacestat.
 
 <div style=\"page-break-after: always\"></div>
-
-response relationship was identified between nirogacestat and serum follicular stimulating hormone (FSH) levels, with FSH increasing linearly with increasing serum concentrations of nirogacestat.
 
 ## Electrolyte abnormalities
 
@@ -478,9 +471,8 @@ Abbreviations: CI: confidence interval; CR: complete response; ORR: objective re
 
 b  Obtained using Kaplan-Meier Methodology.
 
-c  p-value was from a one-sided stratified log-rank test.
-
-d Obtained using exact method based on binomial distribution.
+- c  p-value was from a one-sided stratified log-rank test.
+- d Obtained using exact method based on binomial distribution.
 
 e  p-value was from a two-sided Cochran-Mantel-Haenszel test.
 
@@ -538,11 +530,9 @@ The effects of renal impairment on nirogacestat pharmacokinetics have not been e
 
 ## 5.3 Preclinical safety data
 
-In repeat dose toxicity studies in rats and dogs, most of the toxicities were associated with gamma secretase inhibition. The effects included ovarian atrophy, alterations in the estrous cycle, decreased cellularity in gut -associated lymphoid tissue, and decreased cellularity of mesenteric lymph nodes. In the rat study, growth plate thickening was observed. In addition, all dose levels evaluated in the rat study showed chronic progressive nephropathy, pulmonary phospholipidosis, and salivary gland
+In repeat dose toxicity studies in rats and dogs, most of the toxicities were associated with gamma secretase inhibition. The effects included ovarian atrophy, alterations in the estrous cycle, decreased cellularity in gut -associated lymphoid tissue, and decreased cellularity of mesenteric lymph nodes. In the rat study, growth plate thickening was observed. In addition, all dose levels evaluated in the rat study showed chronic progressive nephropathy, pulmonary phospholipidosis, and salivary gland necrosis in a dose -dependent manner. In the dog study, treatment -related effects were present within the intestines, spleen, gall bladder, liver, kidney, testes, and ovary. The intestinal and liver findings were associated with generalized inflammation and associated clinical pathology changes in most of the dogs. A NOAEL was not identified in the 3-month oral toxicity studies in rats or dogs. The lowest dose in the rat study was 5 mg/kg/day (human equivalent dose 50 mg/day) and in the dog the lowest dose was 2 mg/kg/day (human equivalent dose of 70 mg/day). Systemic exposures were also below the human systemic exposures (AUC) administered 150 mg BID of nirogacestat.
 
 <div style=\"page-break-after: always\"></div>
-
-necrosis in a dose -dependent manner. In the dog study, treatment -related effects were present within the intestines, spleen, gall bladder, liver, kidney, testes, and ovary. The intestinal and liver findings were associated with generalized inflammation and associated clinical pathology changes in most of the dogs. A NOAEL was not identified in the 3-month oral toxicity studies in rats or dogs. The lowest dose in the rat study was 5 mg/kg/day (human equivalent dose 50 mg/day) and in the dog the lowest dose was 2 mg/kg/day (human equivalent dose of 70 mg/day). Systemic exposures were also below the human systemic exposures (AUC) administered 150 mg BID of nirogacestat.
 
 ## Carcinogenicity
 
@@ -586,7 +576,9 @@ HDPE bottle with child resistant closure and induction seal containing 120 or 18
 
 Ogsiveo 100 mg film -
 
-Ogsiveo 150 mg film - coated tablets coated tablets
+Ogsiveo 150 mg film -
+
+coated tablets coated tablets
 
 Clear PVC/PVDC blisters with aluminium lidding containing 14 tablets. One pack contains 56 tablets in 4 blisters.
 
@@ -598,7 +590,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-SpringWorks Therapeutics Ireland Limited Hamilton House, 28 Fitzwilliam Place Dublin 2, D02 P283 Ireland
+Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -623,8 +615,7 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
@@ -727,7 +718,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ogsiveo 50 mg film -coated tablets nirogacestat
+Ogsiveo 50 mg film -coated tablets
+
+nirogacestat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -767,19 +760,17 @@ EXP
 
 Store below 25°C.
 
-<div style=\"page-break-after: always\"></div>
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-SpringWorks Therapeutics Ireland Limited Hamilton House, 28 Fitzwilliam Place Dublin 2, D02 P283 Ireland
+Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/25/1932/001 120 film - coated tablets EU/1/25/1932/002 180 film - coated tablets
 
-## 13. BATCH NUMBER
+13. BATCH NUMBER
 
 Lot
 
@@ -798,6 +789,8 @@ Ogsiveo 50 mg
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -851,11 +844,12 @@ Store below 25°.C
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-SpringWorks Therapeutics
+Merck Europe B.V.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -865,12 +859,15 @@ EU/1/25/1932/001 120 film -coated tablets EU/1/25/1932/002 180 film -coated tabl
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 17. UNIQUE IDENTIFIER - 2D BARCODE
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -880,7 +877,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ogsiveo 100 mg film -coated tablets nirogacestat
+Ogsiveo 100 mg film -coated tablets
+
+nirogacestat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -910,7 +909,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -918,11 +917,11 @@ EXP
 
 Store below 25°C.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-SpringWorks Therapeutics Ireland Limited Hamilton House, 28 Fitzwilliam Place Dublin 2, D02 P283 Ireland
+Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -946,9 +945,7 @@ Ogsiveo 100 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -964,7 +961,7 @@ Ogsiveo 100 mg film - coated tablets nirogacestat
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
-SpringWorks Therapeutics Ireland Limited
+Merck Europe B.V.
 
 ## 3. EXPIRY DATE
 
@@ -974,7 +971,7 @@ EXP
 
 Lot
 
-## 5. OTHER
+5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -986,7 +983,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ogsiveo 150 mg film -coated tablets nirogacestat
+Ogsiveo 150 mg film -coated tablets
+
+nirogacestat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1024,11 +1023,11 @@ EXP
 
 Store below 25°C.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-SpringWorks Therapeutics Ireland Limited Hamilton House, 28 Fitzwilliam Place Dublin 2, D02 P283 Ireland
+Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1042,7 +1041,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Ogsiveo 150 mg
 
@@ -1060,9 +1059,28 @@ SN
 
 NN
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+<div style=\"page-break-after: always\"></div>
 
-## BLISTERS
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTERS                                            |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+| 4.   | BATCHNUMBER   |
+|------|---------------|
+
+| 5.   | OTHER   |
+|------|---------|
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTERS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1070,7 +1088,7 @@ Ogsiveo 150 mg film - coated tablets nirogacestat
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
-SpringWorks Therapeutics Ireland Limited
+Merck Europe B.V.
 
 ## 3. EXPIRY DATE
 
@@ -1084,8 +1102,6 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
@@ -1094,7 +1110,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-Ogsiveo 50 mg film -coated tablets Ogsiveo 100 mg film -coated tablets Ogsiveo 150 mg film -coated tablets nirogacestat
+Ogsiveo 50 mg film -coated tablets Ogsiveo 100 mg film -coated tablets Ogsiveo 150 mg film -coated tablets
+
+nirogacestat
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -1344,7 +1362,7 @@ The tablets are supplied in cartons containing 56 film -coated tablets in clear 
 
 ## Marketing Authorisation Holder
 
-SpringWorks Therapeutics Ireland Limited Hamilton House, 28 Fitzwilliam Place Dublin 2, D02 P283 Ireland Tel: +49 800 428 3289
+Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
 
 ## Manufacturer
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-04 09:38:43
-document_pages: 40
+document_datetime: 2026-05-06 09:59:21
+document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/truqap-epar-product-information_en.pdf
 document_name: truqap-epar-product-information_en.pdf
 version: success
-processing_time: 10.9811293
-conversion_datetime: 2025-12-27 19:53:06.40243
+processing_time: 12.3163907
+conversion_datetime: 2026-05-07 20:23:46.824186
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -78,10 +78,10 @@ The recommended dose of TRUQAP is 400 mg (two 200 mg tablets) twice daily, appro
 
 Table 1 TRUQAP dosing schedule for each week
 
-| Day     | 1          | 2              | 3          | 4          | 5*   | 6*   | 7*   |
-|---------|------------|----------------|------------|------------|------|------|------|
-| Morning | 2 x 200 mg | 2 x 200 mg 2 x | 200 mg     | 2 x 200 mg |      |      |      |
-| Evening | 2 x 200 mg | 2 x 200 mg     | 2 x 200 mg | 2 x 200 mg |      |      |      |
+| Day     | 1          | 2          | 3          | 4          | 5*   | 6*   | 7*   |
+|---------|------------|------------|------------|------------|------|------|------|
+| Morning | 2 x 200 mg | 2 x 200 mg | 2 x 200 mg | 2 x 200 mg |      |      |      |
+| Evening | 2 x 200 mg | 2 x 200 mg | 2 x 200 mg | 2 x 200 mg |      |      |      |
 
 TRUQAP should be co-administered with fulvestrant. The recommended dose of fulvestrant is 500 mg administered on Days 1, 15, and 29, and once monthly thereafter. Refer to the Summary of Product Characteristics (SmPC) of fulvestrant for more information.
 
@@ -115,16 +115,24 @@ Table 3 Recommended dose modification for TRUQAP for hyperglycaemia a
 
 | CTCAE Grade b and fasting glucose (FG) values prior to TRUQAP dose   | Recommendations d                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 1 ˃ ULN-160 mg/dL or ˃ ULN-8.9 mmol/L or HbA1C ˃ 7%            | No TRUQAP dose adjustment required. Consider initiation or intensification of oral anti-diabetic treatment e .                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Grade 1 ˃ ULN-160 mg/dL or ˃ ULN-8.9 mmol/L                          | No TRUQAP dose adjustment required. Consider initiation or intensification of oral anti-diabetic treatment e .                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Grade 2 ˃ 160-250 mg/dL or ˃ 8.9-13.9 mmol/L                         | Withhold TRUQAP and initiate or intensify oral anti-diabetic treatment. If improvement to ≤ 160 mg/dL (or ≤ 8.9 mmol/L) is reached within 28 days, restart TRUQAP at the same dose level and maintain initiated or intensified anti-diabetic treatment. If improvement to ≤ 160 mg/dL (or ≤ 8.9 mmol/L) is reached after 28 days, restart TRUQAP at one lower dose level and maintain initiated or intensified anti-diabetic treatment.                                                                                                                                                                                |
 | Grade 3 ˃ 250-500 mg/dL or ˃ 13.9-27.8 mmol/L                        | Withhold TRUQAP and consult a diabetologist. Initiate or intensify oral anti-diabetic treatment. Consider additional anti-diabetic medicinal products such as insulin f , as clinically indicated. Consider intravenous hydration and provide appropriate clinical management as per local guidelines. If FG decreases to ≤ 160 mg/dL (or ≤ 8.9 mmol/L) within 28 days, restart TRUQAP at one lower dose level and maintain initiated or intensified anti- diabetic treatment. If FG does not decrease to ≤ 160 mg/dL (or ≤ 8.9 mmol/L) within 28 days following appropriate treatment permanently discontinue TRUQAP. |
 | Grade 4 ˃ 500 mg/dL or ˃ 27.8 mmol/L                                 | Withhold TRUQAP and consult with a diabetologist. Initiate or intensify appropriate anti-diabetic treatment. Consider insulin f , (dosing and duration as clinically indicated), intravenous hydration and provide appropriate clinical management as per local guidelines. If FG decreases to ≤ 500 mg/dL (or ≤ 27.8 mmol/L) within 24 hours, then follow the guidance in the table for the relevant grade. If FG is confirmed at ˃ 500 mg/dL (or ˃ 27.8 mmol/L) after 24 hours, permanently discontinue TRUQAP treatment.                                                                                            |
 
-Metformin is currently the preferred oral antidiabetic recommended for the management of hyperglycaemia occurring in patients participating in studies of capivasertib. Dosing and management of patients receiving the
+a  For the management of suspected or confirmed diabetic ketoacidosis (DKA) refer to section 4.4.
+
+b  Grading according to NCI CTCAE Version 4.03.
+
+c  Considerations should be also given to increases in HbA1C.
+
+d  See section 4.4 Special warnings and precautions for use for further recommendations on monitoring of glycaemia and other metabolic parameters.
+
+e Consultation with a diabetologist should be considered when selecting the anti-diabetic medicinal product. A potential for hypoglycaemia with anti-diabetic medicinal product administration on non-TRUQAP dosing days should be taken into account. Patients should also consider consultation with a dietician to make lifestyle changes that may reduce hyperglycaemia (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
 
-metformin and capivasertib combination requires caution. Due to the potential interaction of metformin and capivasertib (caused by the inhibition of renal transporters [e.g. OCT2] involved in the excretion of metformin), when taking both capivasertib and metformin concurrently, it is recommended weekly monitoring of creatinine after initiation of metformin, for up to 3 weeks and then on Day 1 of each cycle thereafter.
+Metformin is currently the preferred oral antidiabetic recommended for the management of hyperglycaemia occurring in patients participating in studies of capivasertib. Dosing and management of patients receiving the metformin and capivasertib combination requires caution. Due to the potential interaction of metformin and capivasertib (caused by the inhibition of renal transporters [e.g. OCT2] involved in the excretion of metformin), when taking both capivasertib and metformin concurrently, it is recommended weekly monitoring of creatinine after initiation of metformin, for up to 3 weeks and then on Day 1 of each cycle thereafter.
 
 Metformin should only be given on the days when capivasertib is also administered (the half-life of capivasertib is approximately 8 hours) and should be withdrawn when treatment with capivasertib is withdrawn, unless otherwise clinically indicated.
 
@@ -154,17 +162,17 @@ Table 5 Recommended dose modification for TRUQAP for rash and other skin drug re
 | CTCAE Grade a   | Recommendations                                                                                                                                                   |
 |-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Grade 1         | No TRUQAP dose adjustment required. Initiate emollients and consider adding oral non-sedating antihistamine treatment as clinically indicated to manage symptoms. |
-| Grade 2         | Initiate or intensify topical steroid treatment and consider non-sedating oral antihistamines. If no improvement with treatment, interrupt TRUQAP.                |
+| Grade 2         | Initiate or intensify topical steroid treatment and consider non-sedating oral antihistamines.                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
 | CTCAE Grade a   | Recommendations                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                 | Resume at the same dose level once the rash becomes clinically tolerable.                                                                                                                                                                                                                                                                                                                                                                                   |
+|                 | If no improvement with treatment, interrupt TRUQAP. Resume at the same dose level once the rash becomes clinically tolerable.                                                                                                                                                                                                                                                                                                                               |
 | Grade 3         | Interrupt TRUQAP. Initiate appropriate dermatological treatment with topical steroid of moderate/higher strength, non-sedating oral antihistamines and/or systemic steroids. If symptoms improve within 28 days to ≤ Grade 1, restart TRUQAP on one lower dose level. If the symptoms do not improve to ≤ Grade 1 in 28 days discontinue TRUQAP. In patients with reoccurrence of intolerable ≥ Grade 3 rash, consider permanent discontinuation of TRUQAP. |
 | Grade 4         | Permanently discontinue TRUQAP.                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-## Other toxicities
+Other toxicities
 
 Table 6 Recommended dose modification and management for other toxicities (excluding hyperglycaemia, diarrhoea, rash and other skin drug reactions)
 
@@ -185,13 +193,13 @@ After discontinuation of a strong or moderate CYP3A4 inhibitor, TRUQAP dosage (a
 
 See section 4.5 for further information.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Special populations
 
 ## Elderly
 
 No dose adjustment is required for elderly patients (see section 5.2). There are limited data in patients aged ≥ 75 years .
-
-<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -217,15 +225,13 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Hyperglycaemia
 
-The safety and efficacy of TRUQAP in patients with pre-existing Type 1 diabetes or Type 2 diabetes requiring insulin and/or in patients with HbA1C ˃ 8.0% (63.9 mmol/mol) has not been studied as these patients were excluded from the phase III clinical study. This study included 21 (5.9%) patients in the TRUQAP plus fulvestrant arm with HbA1C ≥ 6.5%. Hyperglycaemia was more frequently reported in patients with a baseline HbA1C ≥ 6.5% (33.3% of patients) than those with a baseline HbA1C &lt; 6.5% (16.0%). Severe hyperglycaemia, associated with diabetic ketoacidosis (DKA) and with fatal outcomes occurred in patients treated with TRUQAP (see section 4.8). DKA can occur at any time during TRUQAP treatment. In some reported cases, DKA developed in less than 10 days. Patients with history of diabetes mellitus may require intensified anti-diabetic treatment and should be closely monitored. Consultation with a diabetologist or a healthcare professional experienced in the treatment of hyperglycaemia is recommended for patients with diabetes.
+The safety and efficacy of TRUQAP in patients with preexisting Type 1 diabetes or Type 2 diabetes requiring insulin and/or in patients with HbA1C ˃ 8.0% (63.9 mmol/mol) has not been studied as these patients were excluded from the phase III clinical study. This study included 21 (5.9%) patients in the TRUQAP plus fulvestrant arm with HbA1C ≥ 6.5%. Hyperglycaemia was more frequently reported in patients with a baseline HbA1C ≥ 6.5% (38.1% of patients) than those with a baseline HbA1C &lt; 6.5% (17.8%). Severe hyperglycaemia, associated with diabetic ketoacidosis (DKA) and with fatal outcomes occurred in patients treated with TRUQAP (see section 4.8). DKA can occur at any time during TRUQAP treatment. In some reported cases, DKA developed in less than 10 days. Patients with history of diabetes mellitus may require intensified anti-diabetic treatment and should be closely monitored. Consultation with a diabetologist or a healthcare professional experienced in the treatment of hyperglycaemia is recommended for patients with diabetes.
 
 Before initiating treatment with TRUQAP, patients should be informed about TRUQAP's potential to cause hyperglycaemia (see section 4.8) and requested to immediately contact their healthcare professional if hyperglycaemia symptoms (e.g. excessive thirst, urinating more often than usual or greater amount of urine than usual, or increased appetite with weight loss) occur. In a setting of additional co-morbidities and treatments (e.g. dehydration, malnourishment, concurrent chemotherapy/steroids, sepsis), the risk of hyperglycaemia progressing to diabetic ketoacidosis may be higher. DKA should be considered as one of the differential diagnoses in the event of additional nonspecific symptoms such as nausea, vomiting, abdominal pain, difficulty breathing, fruity odour on breath, confusion, unusual fatigue, or sleepiness. In patients where DKA is suspected, TRUQAP treatment should be interrupted immediately. If DKA is confirmed, then TRUQAP should be permanently discontinued.
 
-Patients must be tested for fasting blood glucose (FG) levels and HbA1C prior to start of treatment with TRUQAP and in accordance with the intervals stated in Table 7. Based on the severity of
-
 <div style=\"page-break-after: always\"></div>
 
-hyperglycaemia, TRUQAP dosing may be interrupted, reduced, or permanently discontinued (see section 4.2, Table 3).
+Patients must be tested for fasting blood glucose (FG) levels and HbA1C prior to start of treatment with TRUQAP and in accordance with the intervals stated in Table 7. Based on the severity of hyperglycaemia, TRUQAP dosing may be interrupted, reduced, or permanently discontinued (see section 4.2, Table 3).
 
 More frequent blood glucose monitoring is recommended in patients that develop hyperglycaemia during treatment, those with baseline risk factors for DKA (including but not exclusive to diabetes mellitus, pre-diabetes, those receiving regular oral steroids) and in those that develop risk factors for DKA during treatment (e.g. infection, sepsis, raised HbA1c) (see Table 7). In addition to FG, monitoring of ketones (preferably in blood) and other metabolic parameters (as indicated) is recommended when a patient experiences hyperglycaemia.
 
@@ -233,22 +239,19 @@ In addition to the recommended management of hyperglycaemia described in Section
 
 Table 7 Schedule of monitoring of fasting glucose and HbA1c levels in patients treated with TRUQAP
 
-|                                                                   | Recommended schedule for the monitoring of fasting glucose and HbA1c levels in all patients treated with TRUQAP                                                                                                                                                                                                                                                                                                                                                                                                 | Recommended schedule of monitoring of fasting glucose and HbA1c levels in patients with diabetes and treated withTRUQAP 1                                                                                                                                                                                                                                                                                                                                                                                       |
-|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| At screening, before initiating treatment with TRUQAP             | Test for fasting blood glucose (FG) levels, HbA1c, and optimise the patient's level of blood glucose (see Table 3).                                                                                                                                                                                                                                                                                                                                                                                             | Test for fasting blood glucose (FG) levels, HbA1c, and optimise the patient's level of blood glucose (see Table 3).                                                                                                                                                                                                                                                                                                                                                                                             |
-| After initiating treatment with TRUQAP                            | Monitor fasting glucose at weeks 1, 2, 4, 6 and 8 after treatment start and monthly thereafter. It is recommended to test FG pre-dose at Day 3 or 4 of the dosing week. HbA1c should be monitored every 3 months.                                                                                                                                                                                                                                                                                               | Monitor fasting glucose at weeks 1, 2, 4, 6 and 8 after treatment start and monthly thereafter. It is recommended to test FG pre-dose at Day 3 or 4 of the dosing week. HbA1c should be monitored every 3 months.                                                                                                                                                                                                                                                                                               |
-| After initiating treatment with TRUQAP                            | Monitor/self-monitor fasting glucose regularly, more frequently in the first 4 weeks and especially within the first 2 weeks of treatment, according to the instructions of a healthcare professional * .                                                                                                                                                                                                                                                                                                       | Monitor/self-monitor fasting glucose daily for the first 2 weeks of treatment. Then continue to monitor fasting glucose as frequently as needed to manage hyperglycaemia according to the instructions of a healthcare professional * . Additional HbA1c testing is recommended at week 4 with diabetes, pre-diabetes, or hyperglycaemia at baseline.                                                                                                                                                           |
-| If hyperglycaemia develops after initiating treatment with TRUQAP | Monitor fasting glucose as clinically indicated (at least twice weekly, i.e. on days on and off capivasertib treatment) until FG decreases to baseline levels 2 . Consultation with a healthcare practitioner with expertise in the treatment of hyperglycaemia should be considered. Based on the severity of hyperglycaemia, TRUQAP dosing may be interrupted, reduced, or permanently discontinued (see section 4.2, Table 3). During treatment with anti-diabetic medication, FG should be monitored for at | Monitor fasting glucose as clinically indicated (at least twice weekly, i.e. on days on and off capivasertib treatment) until FG decreases to baseline levels 2 . Consultation with a healthcare practitioner with expertise in the treatment of hyperglycaemia should be considered. Based on the severity of hyperglycaemia, TRUQAP dosing may be interrupted, reduced, or permanently discontinued (see section 4.2, Table 3). During treatment with anti-diabetic medication, FG should be monitored for at |
+|                                                                   | Recommended schedule for the monitoring of fasting glucose and HbA1c levels in all patients treated with TRUQAP                                                                                                                                                                       | Recommended schedule of monitoring of fasting glucose and HbA1c levels in patients with diabetes and treated withTRUQAP 1                                                                                                                                                                                                                             |
+|-------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| At screening, before initiating treatment with TRUQAP             | Test for fasting blood glucose (FG) levels, HbA1c, and optimise the patient's level of blood glucose (see Table 3).                                                                                                                                                                   | Test for fasting blood glucose (FG) levels, HbA1c, and optimise the patient's level of blood glucose (see Table 3).                                                                                                                                                                                                                                   |
+| After initiating treatment with TRUQAP                            | Monitor fasting glucose at weeks 1, 2, 4, 6 and 8 after treatment start and monthly thereafter. It is recommended to test FG pre-dose at Day 3 or 4 of the dosing week. HbA1c should be monitored every 3 months.                                                                     | Monitor fasting glucose at weeks 1, 2, 4, 6 and 8 after treatment start and monthly thereafter. It is recommended to test FG pre-dose at Day 3 or 4 of the dosing week. HbA1c should be monitored every 3 months.                                                                                                                                     |
+| After initiating treatment with TRUQAP                            | Monitor/self-monitor fasting glucose regularly, more frequently in the first 4 weeks and especially within the first 2 weeks of treatment, according to the instructions of a healthcare professional * .                                                                             | Monitor/self-monitor fasting glucose daily for the first 2 weeks of treatment. Then continue to monitor fasting glucose as frequently as needed to manage hyperglycaemia according to the instructions of a healthcare professional * . Additional HbA1c testing is recommended at week 4 with diabetes, pre-diabetes, or hyperglycaemia at baseline. |
+| If hyperglycaemia develops after initiating treatment with TRUQAP | Monitor fasting glucose as clinically indicated (at least twice weekly, i.e. on days on and off capivasertib treatment) until FG decreases to baseline levels 2 . Consultation with a healthcare practitioner with expertise in the treatment of hyperglycaemia should be considered. | Monitor fasting glucose as clinically indicated (at least twice weekly, i.e. on days on and off capivasertib treatment) until FG decreases to baseline levels 2 . Consultation with a healthcare practitioner with expertise in the treatment of hyperglycaemia should be considered.                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-Recommended schedule for the monitoring of fasting glucose and HbA1c levels in all patients treated with TRUQAP
-
-Recommended schedule of monitoring of fasting glucose and HbA1c levels in patients with diabetes and treated with TRUQAP 1
-
-* All glucose monitoring should be performed at the physician's discretion as clinically indicated. 1 More frequent FG testing is required in patients with medical history of diabetes mellitus, in patients without prior history of diabetes mellitus and showing FG of &gt; ULN 160 mg/dL (&gt; ULN 8.9 mmol/L) during treatment, in patient with concomitant use of corticosteroids, or in those with intercurrent infections, or other conditions which may require intensified glycaemia management to prevent worsening of impaired glucose metabolism and potential complications, namely diabetic ketoacidosis.
-
-2 It is recommended to test FG pre-dose at Day 3 or 4 of the dosing week.
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Recommended schedule for the monitoring of fasting glucose and HbA1c levels in all patients treated with TRUQAP                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Recommended schedule of monitoring of fasting glucose and HbA1c levels in patients with diabetes and treated withTRUQAP 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Based on the severity of hyperglycaemia, TRUQAP dosing may be interrupted, reduced, or permanently discontinued (see section 4.2, Table 3).                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Based on the severity of hyperglycaemia, TRUQAP dosing may be interrupted, reduced, or permanently discontinued (see section 4.2, Table 3).                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| * All glucose monitoring should be performed at the physician's discretion as clinically indicated. 1 More frequent FG testing is required in patients with medical history of diabetes mellitus, in patients without prior history of diabetes mellitus and showing FG of > ULN 160 mg/dL (> ULN 8.9 mmol/L) during treatment, in patient with concomitant use of corticosteroids, or in those with intercurrent infections, or other conditions which may require intensified glycaemia management to prevent worsening of impaired glucose metabolism and potential complications, namely diabetic ketoacidosis. 2 | * All glucose monitoring should be performed at the physician's discretion as clinically indicated. 1 More frequent FG testing is required in patients with medical history of diabetes mellitus, in patients without prior history of diabetes mellitus and showing FG of > ULN 160 mg/dL (> ULN 8.9 mmol/L) during treatment, in patient with concomitant use of corticosteroids, or in those with intercurrent infections, or other conditions which may require intensified glycaemia management to prevent worsening of impaired glucose metabolism and potential complications, namely diabetic ketoacidosis. 2 | * All glucose monitoring should be performed at the physician's discretion as clinically indicated. 1 More frequent FG testing is required in patients with medical history of diabetes mellitus, in patients without prior history of diabetes mellitus and showing FG of > ULN 160 mg/dL (> ULN 8.9 mmol/L) during treatment, in patient with concomitant use of corticosteroids, or in those with intercurrent infections, or other conditions which may require intensified glycaemia management to prevent worsening of impaired glucose metabolism and potential complications, namely diabetic ketoacidosis. 2 |
 
 ## Diarrhoea
 
@@ -268,13 +271,13 @@ Co-administration of strong or moderate CYP3A4 inhibitors with TRUQAP may lead t
 
 On the contrary, co-administration of strong and moderate CYP3A4 inducers may lead to decreased capivasertib exposure. Concomitant administration of strong and moderate CYP3A4 inducers and TRUQAP should be avoided.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Sodium content
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
-
-<div style=\"page-break-after: always\"></div>
 
 Capivasertib is primarily metabolised by CYP3A4 and UGT2B7 enzymes. In vivo , capivasertib is a weak, time-dependent inhibitor of CYP3A.
 
@@ -304,11 +307,11 @@ Co-administration of capivasertib with moderate CYP3A4 inducer has the potential
 
 Concentration of medicinal products that are primarily eliminated via CYP3A metabolism may increase when co-administered with TRUQAP which may then lead to increased toxicity depending on their therapeutic window. Capivasertib increased the midazolam AUC by 15% to 77% and is therefore a weak CYP3A inhibitor (see section 5.2). Dose adjustment may be required for medicinal products that are primarily eliminated via CYP3A metabolism and have narrow therapeutic window (e.g. carbamazepine, cyclosporine, fentanyl, pimozide, simvastatin, tacrolimus). The SmPC of the other medicinal products should be consulted for the recommendations regarding co-administration with weak CYP3A4 inhibitors.
 
+<div style=\"page-break-after: always\"></div>
+
 ## CYP2D6 substrates with a narrow therapeutic index
 
 In vitro evaluations indicated that capivasertib has a potential to inhibit the activities of CYP2D6 enzymes. Capivasertib should be used with caution in combination with sensitive substrates of CYP2D6 enzymes which exhibit a narrow therapeutic index because capivasertib may increase the systemic exposure of these substrates.
-
-<div style=\"page-break-after: always\"></div>
 
 ## CYP2B6 substrates with a narrow therapeutic index
 
@@ -338,11 +341,11 @@ Patients should be advised to use effective contraception during the use of TRUQ
 
 There are no data from the use of TRUQAP in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). Therefore, TRUQAP is not recommended during pregnancy and in women of childbearing potential not using contraception.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Breast-feeding
 
 It is not known whether capivasertib or its metabolites are excreted in human milk. Exposure to capivasertib was confirmed in suckling rat pups which may indicate the excretion of capivasertib in milk. A risk to the breast-fed child cannot be excluded (see section 5.3). Breast-feeding should be discontinued during treatment with TRUQAP.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -358,17 +361,17 @@ TRUQAP may have a minor influence on the ability to drive and use machines becau
 
 ## Summary of safety profile
 
-The summary of safety profile of TRUQAP is based on data from 355 patients who received TRUQAP plus fulvestrant in the phase III (CAPItello-291) study. The median duration of exposure to capivasertib in CAPItello-291 was 5.42 months, with 27% patients exposed ≥ 12 months.
+The summary of safety profile of TRUQAP is based on data from 355 patients who received TRUQAP plus fulvestrant in the phase III (CAPItello-291) study. The median duration of exposure to capivasertib in CAPItello-291 was 5.4 months, with 28.2% patients exposed ≥ 12 months.
 
-The most common adverse reactions were diarrhoea (72.4%), rash (40.3%), nausea (34.6%), fatigue (32.1%), vomiting (20.6%), stomatitis (17.2%), hyperglycaemia (17.2%), headache (16.9%) and decreased appetite (16.6%).
+The most common adverse reactions were diarrhoea (72.4%), rash (40.6%), nausea (34.6%), fatigue (32.1%), vomiting (21.4%), hyperglycaemia (19.2%), stomatitis (18.6%), , headache (17.2%),decreased appetite (16.9%), and urinary tract infection (16.6%).
 
-The most common grade 3 or 4 adverse reactions were rash (12.4%), diarrhoea (9.3%), hyperglycaemia (2.3%), hypokalaemia (2.3%), anaemia (2.0%) and stomatitis (2.0%).
+The most common grade 3 or 4 adverse reactions were rash (12.4%), diarrhoea (10.4%), anaemia (3.4%) hypokalaemia (2.8%), hyperglycaemia (2.5%), and stomatitis (2.3%).
 
-Serious adverse reactions were seen in 7.0% of patients receiving TRUQAP plus fulvestrant. Most common serious adverse reactions reported in patients receiving TRUQAP plus fulvestrant included rash (2.3%), diarrhoea (1.7%) and vomiting (1.1%).
+Serious adverse reactions were seen in 9% of patients receiving TRUQAP plus fulvestrant. Most common serious adverse reactions reported in patients receiving TRUQAP plus fulvestrant included rash (2.3%), diarrhoea (2.5%) and vomiting (1.1%).
 
-Dose reductions due to adverse reactions were reported in 17.7% of patients. The most common adverse reactions leading to dose reduction of TRUQAP were diarrhoea (7.9%) and rash (4.5%).
+Dose reductions due to adverse reactions were reported in 18.9% of patients. The most common adverse reactions leading to dose reduction of TRUQAP were diarrhoea (8.7%) and rash (4.5%).
 
-Treatment discontinuation due to adverse reactions occurred in 9.9% of patients. The most common adverse reactions leading to treatment discontinuation were rash (4.5%), diarrhoea (2%) and vomiting (2%).
+Treatment discontinuation due to adverse reactions occurred in 10.4% of patients. The most common adverse reactions leading to treatment discontinuation were rash (4.5%), diarrhoea (2.3%) and vomiting (2%).
 
 ## Tabulated list of adverse reactions
 
@@ -376,40 +379,36 @@ Table 8 lists the adverse reactions based on pooled data from patients treated w
 
 Adverse drug reactions (ADRs) are organised by MedDRA System Organ Class (SOC). Within each SOC, preferred terms are arranged by decreasing frequency and then by decreasing seriousness. Frequencies of occurrence of adverse reactions are defined as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000) and not known (cannot be estimated from available data).
 
-## Table 8 Adverse drug reactions observed in patients treated with TRUQAP
-
-| MedDRA SOC                  | MedDRA term               | Any grade (%)   |
-|-----------------------------|---------------------------|-----------------|
-| Infections and infestations | Urinary tract infection 1 | Very common     |
-
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA SOC                             | MedDRA term             | Any grade (%)   |
-|----------------------------------------|-------------------------|-----------------|
-| Blood and lymphatic system disorders   | Anaemia                 | Very common     |
-| Immune system disorders                | Hypersensitivity 2      | Common          |
-| Metabolism and nutrition disorders     | Hyperglycaemia 3        | Very common     |
-| Metabolism and nutrition disorders     | Decreased appetite      | Very common     |
-| Metabolism and nutrition disorders     | Hypokalaemia 4          | Common          |
-| Metabolism and nutrition disorders     | Diabetic ketoacidosis 5 | Uncommon        |
-| Nervous system disorders               | Headache                | Very common     |
-| Nervous system disorders               | Dysgeusia               | Common          |
-| Nervous system disorders               | Dizziness               | Common          |
-| Nervous system disorders               | Syncope                 | Common          |
-| Renal and urinary disorders            | Acute kidney injury     | Common          |
-| Gastrointestinal disorder              | Dry Mouth               | Common          |
-| Gastrointestinal disorder              | Abdominal pain          | Common          |
-| Gastrointestinal disorder              | Diarrhoea 2             | Very common     |
-| Gastrointestinal disorder              | Nausea                  | Very common     |
-| Gastrointestinal disorder              | Vomiting                | Very common     |
-| Gastrointestinal disorder              | Stomatitis 6            | Very common     |
-| Gastrointestinal disorder              | Dyspepsia               | Common          |
-| Skin and subcutaneous tissue disorders | Rash 7                  | Very common     |
-| Skin and subcutaneous tissue disorders | Pruritus                | Very common     |
-| Skin and subcutaneous tissue disorders | Dry skin                | Common          |
-| Skin and subcutaneous tissue disorders | Erythema multiforme     | Common          |
-| Skin and subcutaneous tissue disorders | Drug eruption           | Uncommon        |
-| Skin and subcutaneous tissue disorders | Dermatitis              | Uncommon        |
+Table 8 Adverse drug reactions observed in patients treated with TRUQAP
+
+| MedDRA SOC                             | MedDRA term               | Any grade (%)   |
+|----------------------------------------|---------------------------|-----------------|
+| Infections and infestations            | Urinary tract infection 1 | Very common     |
+| Blood and lymphatic system disorders   | Anaemia                   | Very common     |
+| Immune system disorders                | Hypersensitivity 2        | Common          |
+| Metabolism and nutrition disorders     | Hyperglycaemia 3          | Very common     |
+| Metabolism and nutrition disorders     | Decreased appetite        | Very common     |
+| Metabolism and nutrition disorders     | Hypokalaemia 4            | Common          |
+| Metabolism and nutrition disorders     | Diabetic ketoacidosis 5   | Uncommon        |
+| Nervous system disorders               | Headache                  | Very common     |
+| Nervous system disorders               | Dysgeusia                 | Common          |
+| Nervous system disorders               | Dizziness                 | Common          |
+| Nervous system disorders               | Syncope                   | Common          |
+| Gastrointestinal disorder              | Diarrhoea 2               | Very common     |
+| Gastrointestinal disorder              | Nausea                    | Very common     |
+| Gastrointestinal disorder              | Vomiting                  | Very common     |
+| Gastrointestinal disorder              | Stomatitis 6              | Very common     |
+| Gastrointestinal disorder              | Dyspepsia                 | Common          |
+| Gastrointestinal disorder              | Dry Mouth                 | Common          |
+| Gastrointestinal disorder              | Abdominal pain            | Common          |
+| Skin and subcutaneous tissue disorders | Rash 7                    | Very common     |
+| Skin and subcutaneous tissue disorders | Pruritus                  | Very common     |
+| Skin and subcutaneous tissue disorders | Dry skin                  | Common          |
+| Skin and subcutaneous tissue disorders | Erythema multiforme       | Common          |
+| Skin and subcutaneous tissue disorders | Drug eruption             | Uncommon        |
+| Skin and subcutaneous tissue disorders | Dermatitis                | Uncommon        |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -417,6 +416,7 @@ Adverse drug reactions (ADRs) are organised by MedDRA System Organ Class (SOC). 
 |------------------------------------------------------|------------------------------------|-----------------|
 |                                                      | Dermatitis exfoliative generalised | Uncommon        |
 |                                                      | Toxic skin eruption                | Uncommon        |
+| Renal and urinary disorders                          | Acute kidney injury                | Common          |
 | General disorders and administration site conditions | Fatigue 8                          | Very common     |
 | General disorders and administration site conditions | Mucosal inflammation               | Common          |
 | General disorders and administration site conditions | Pyrexia 9                          | Common          |
@@ -424,29 +424,23 @@ Adverse drug reactions (ADRs) are organised by MedDRA System Organ Class (SOC). 
 | Investigations                                       | Weight Decreased                   | Common          |
 | Investigations                                       | Glycosylated haemoglobin increased | Common          |
 
-- 7 Rash includes erythema, rash, rash erythematous, rash macular, rash maculo-papular, rash papular and rash pruritic.
-
-8 Fatigue includes asthenia and fatigue.
-
-9  Pyrexia includes body temperature increased and pyrexia.
-
 ## Description of selected adverse reactions
 
 ## Hyperglycaemia
 
-Hyperglycaemia of any grade occurred in 61 (17.2%) patients and grade 3 or 4 occurred in 8 (2.3%) patients receiving TRUQAP. The median time to first occurrence of hyperglycaemia was 15 days (range: 1 to 367). In the study, dose reduction was required in 2 (0.60%) patients and 1 (0.30%) patient discontinued treatment due to hyperglycaemia. In the 61 patients with hyperglycaemia, 29 (47.5%) patients were treated using anti-hyperglycaemic medication (including insulin in 16.4%). See section 4.4.
+Hyperglycaemia of any grade occurred in 68 (19.2%) patients and grade 3 or 4 occurred in 9 (2.5%) patients receiving TRUQAP. The median time to first occurrence of hyperglycaemia was 16 days (range: 1 to 1221). In the study, dose reduction was required in 4 (1.1%) patients and 2 (0.6%) patients discontinued treatment due to hyperglycaemia. In the 68 patients with hyperglycaemia, 35 (51.5%) patients were treated using anti-hyperglycaemic medication (including insulin in 17.6%). See section 4.4.
 
 ## Diarrhoea
 
-Diarrhoea occurred in 257 (72.4%) patients receiving TRUQAP. Grade 3 and/or 4 diarrhoea occurred in 33 (9.3%) patients. The median time to first occurrence was 8 days (range 1 to 519). Dose reduction was required in 28 (7.9%) patients and 7 (2.0%) patients discontinued TRUQAP due to diarrhoea. In the 257 patients with diarrhoea, anti-diarrheal medication was required in 59% (151/257) of patients to manage diarrhoea symptoms.
+Diarrhoea occurred in 257 (72.4%) patients receiving TRUQAP. Grade 3 and/or 4 diarrhoea occurred in 37 (10.4%) patients. The median time to first occurrence was 8 days (range 1 to 519). Dose reduction was required in 31 (8.7%) patients and 8 (2.3%) patients discontinued TRUQAP due to diarrhoea. In the 257 patients with diarrhoea, anti-diarrheal medication was required in 59.5% (153/257) of patients to manage diarrhoea symptoms.
 
 ## Rash
 
-Rash (including erythema, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, and rash pruritic) was reported in 143 (40.3%) patients. The median time to first occurrence of rash was 12 days (range 1-226). Grade 3 and/or 4 occurred in 44 (12.4%) of patients who received capivasertib. Erythema multiforme occurred in 6 (1.7%) patients and the highest grade was grade 3 in 3 (0.8%) of the patients.  Dermatitis exfoliative generalised occurred in 2 (0.6%) patients, these events were grade 3 in severity. Dose reduction was required in 16 (4.5%) patients and 16 (4.5%) patients discontinued TRUQAP due to rash.
-
-## Reporting of suspected adverse reactions
+Rash (including erythema, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, and rash pruritic) was reported in 144 (40.6%) patients. The median time to first occurrence of rash was 12 days (range 1 to1529). Grade 3 and/or 4 occurred in 44 (12.4%) of patients who received capivasertib. Erythema multiforme occurred in 6 (1.7%) patients and the highest grade was grade 3 in 3 (0.8%) of the patients. Dermatitis exfoliative generalised occurred in 2 (0.6%) patients, these events were grade 3 in severity. Dose reduction was required in 16 (4.5%) patients and 16 (4.5%) patients discontinued TRUQAP due to rash.
 
 <div style=\"page-break-after: always\"></div>
+
+## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
@@ -476,9 +470,11 @@ Based on an exposure-response analysis of data from 180 patients with advanced s
 
 CAPItello-291 was a randomised, double-blind, placebo-controlled study that enrolled 708 patients, designed to study the efficacy and safety of TRUQAP in combination with fulvestrant in adult females, pre- or post-menopausal, and adult males with locally advanced (inoperable) or metastatic ER-positive and HER2-negative (defined as IHC 0 or 1+, or IHC 2+/ISH-) breast cancer of which 289 patients had tumors with one or more eligible PIK3CA/AKT1/PTEN alterations following recurrence or progression on or after aromatase inhibitor (AI)-based treatment.
 
-Patients were excluded if they had more than 2 lines of endocrine therapy for locally advanced (inoperable) or metastatic disease, more than 1 line of chemotherapy for locally advanced (inoperable) or metastatic disease, prior treatment with AKT, PI3K, mTOR inhibitors, fulvestrant and/or other SERDs, clinically significant abnormalities of glucose metabolism (defined as patients with diabetes mellitus Type 1 or Type 2 requiring insulin treatment, and/or HbA1c ˃ 8.0% (63.9 mmol/mol)), history of clinically significant cardiac disease, and symptomatic visceral disease or any disease burden that makes the patient ineligible for endocrine therapy.
+Patients were excluded if they had more than 2 lines of endocrine therapy for locally advanced (inoperable) or metastatic disease, more than 1 line of chemotherapy for locally advanced (inoperable)
 
 <div style=\"page-break-after: always\"></div>
+
+or metastatic disease, prior treatment with AKT, PI3K, mTOR inhibitors, fulvestrant and/or other SERDs, clinically significant abnormalities of glucose metabolism (defined as patients with diabetes mellitus Type 1 or Type 2 requiring insulin treatment, and/or HbA1c ˃ 8.0% (63.9 mmol/mol)), history of clinically significant cardiac disease, and symptomatic visceral disease or any disease burden that makes the patient ineligible for endocrine therapy.
 
 Patients were randomised 1:1 to receive either 400 mg of TRUQAP (N=355) or placebo (N=353) given twice daily for 4 days followed by 3 days off treatment each week of 28-day treatment cycle. Fulvestrant 500 mg was administered on cycle 1 days 1 and 15 and then at day 1 of a 28-day cycle. Pre- or perimenopausal women were treated with an LHRH agonist. Randomisation was stratified by presence of liver metastases, prior treatment with CDK4/6 inhibitors and geographical region. Treatment was administered until disease progression, death, withdrawal of consent, or unacceptable toxicity. A tumour sample was collected prior to randomisation to determine PIK3CA/AKT1/PTEN alteration status retrospectively by central testing.
 
@@ -486,27 +482,31 @@ Demographic and baseline characteristics were well balanced between arms. Of the
 
 The dual primary endpoints were investigator assessed progression free survival (PFS) in the overall population and PFS in the PIK3CA/AKT1/PTEN -altered subgroup per Response Evaluation Criteria in Solid Tumours (RECIST) v1.1.
 
-At the data cutoff date (DCO) of 15 August 2022, the study showed statistically significant improvement in PFS for patients receiving TRUQAP plus fulvestrant compared to patients receiving placebo plus fulvestrant, in both the overall population and the PIK3CA/AKT1/PTEN -altered subgroup (see table 9). An exploratory analysis of PFS in the 313 (44%) patients whose tumours did not have a PIK3CA/AKT1/PTEN alterations showed a HR of 0.79 (95% CI: 0.61, 1.02), indicating that the difference in the overall population was primarily attributed to the results seen in the population of patients whose tumours have PIK3CA/AKT1/PTEN alteration. PFS results by investigator assessment were supported by consistent results from a blinded independent central review (BICR) assessment. The investigator-assessed ORR in patients receiving TRUQAP plus fulvestrant and placebo plus fulvestrant was 22.9% and 12.2%, respectively, in the overall population and 28.8% and 9.7%, respectively, in the altered subgroup.
+At the data cutoff date (DCO) of 15 August 2022, the study showed statistically significant improvement in PFS for patients receiving TRUQAP plus fulvestrant compared to patients receiving placebo plus fulvestrant, in both the overall population and the PIK3CA/AKT1/PTEN -altered subgroup (see table 9). An exploratory analysis of PFS in the 313 (44%) patients whose tumours did not have PIK3CA/AKT1/PTEN alterations showed a HR of 0.79 (95% CI: 0.61, 1.02), indicating that the difference in the overall population was primarily attributed to the results seen in the population of patients whose tumours have PIK3CA/AKT1/PTEN alterations. PFS results by investigator assessment were supported by consistent results from a blinded independent central review (BICR) assessment. The investigator-assessed ORR in patients receiving TRUQAP plus fulvestrant and placebo plus fulvestrant was 22.9% and 12.2%, respectively, in the overall population and 28.8% and 9.7%, respectively, in the altered subgroup.
 
-A prespecified interim analysis of OS (DCO 15 April 2024, 59% of patients had died) showed a HR of 0.88 (95% CI: 0.65, 1.19) in the PIK3CA/AKT1/PTEN -altered subgroup.
+The prespecified final analysis of OS (DCO 16 June 2025) showed a HR of 0.83 (95% CI 0.63, 1.10) in the PIK3CA/AKT1/PTEN -altered subgroup, which was not statistically significant.
 
 Efficacy results are presented in Table 9 and Figure 1.
 
-Table 9 Progression-free survival, by investigator assessment in PIK3CA/AKT1/PTEN -altered subgroup
+<div style=\"page-break-after: always\"></div>
 
-|                              | PIK3CA/AKT1/PTEN -altered subgroup N = 289   | PIK3CA/AKT1/PTEN -altered subgroup N = 289   |
+Table 9 Progression-free survival, by investigator assessment and Overall Survival in PIK3CA/AKT1/PTEN -altered subgroup
+
+|                              | PIK3CA/AKT1/PTEN- altered subgroup N = 289   | PIK3CA/AKT1/PTEN- altered subgroup N = 289   |
 |------------------------------|----------------------------------------------|----------------------------------------------|
 |                              | TRUQAP plus fulvestrant N = 155              | Placebo plus fulvestrant N = 134             |
+| PFS (DCO 15 August 2022)     |                                              |                                              |
 | Number of PFS events - n (%) | 121 (78.1)                                   | 115 (85.8)                                   |
 | Median PFS months (95% CI)   | 7.3 (5.5, 9.0)                               | 3.1 (2.0, 3.7)                               |
 | Hazard ratio (95% CI) a      | 0.50 (0.38, 0.65)                            | 0.50 (0.38, 0.65)                            |
 | p-value b                    | < 0.001                                      | < 0.001                                      |
+| OS (DCO 16 June 2025)        |                                              |                                              |
+| Number of OS events - n (%)  | 109 (70.3)                                   | 98 (73.1)                                    |
+| Median OS months (95% CI) c  | 28.5 (24.2, 34.6)                            | 30.4 (20.4, 34.0)                            |
+| Hazard ratio (95% CI) d      | 0.83 (0.63, 1.10)                            | 0.83 (0.63, 1.10)                            |
+| p-value e                    | 0.201                                        | 0.201                                        |
 
 <div style=\"page-break-after: always\"></div>
-
-Australia, and Israel, Region 2: Latin America, Eastern Europe and Russia vs Region 3: Asia). For the altered population, the log rank test and Cox model stratified by presence of liver metastases (yes vs no), and prior use of CDK4/6 inhibitors (yes vs no).
-
-b Stratified log-rank test.
 
 Figure 1 - Kaplan-Meier plot of progression-free survival - CAPItello-291 (investigator assessment, PIK3CA/AKT1/PTEN -altered subgroup)
 
@@ -552,9 +552,7 @@ Based on population pharmacokinetic analysis, AUC and Cmax showed that race (inc
 
 ## Renal impairment
 
-Based on population pharmacokinetic analyses, AUC and Cmax were 1% higher in patients with mild renal impairment (creatinine clearance 60 to 89 mL/min), compared to patients with normal renal function. AUC and Cmax were 16% higher in patients with moderate renal impairment (creatinine clearance 30 to 59 mL/min), compared to patients with normal renal function.
-
-There is no data in severe renal impairment or end-stage renal disease (creatinine clearance &lt; 30 ml/min).
+Based on population pharmacokinetic analyses, AUC and Cmax were 1% higher in patients with mild renal impairment (creatinine clearance 60 to 89 mL/min), compared to patients with normal renal function. AUC and Cmax were 16% higher in patients with moderate renal impairment (creatinine clearance 30 to 59 mL/min), compared to patients with normal renal function. There is no data in severe renal impairment or end-stage renal disease (creatinine clearance &lt; 30 ml/min).
 
 ## Hepatic impairment
 
@@ -564,9 +562,11 @@ Based on population pharmacokinetic analyses, AUC and Cmax were 5% higher in pat
 
 Co-administration of a single dose of capivasertib 400 mg after repeated dosing of acid-reducing agent rabeprazole 20 mg BID for 3 days in healthy subjects did not result in clinically relevant changes of the capivasertib exposure.
 
+In vitro studies have demonstrated that capivasertib is primarily metabolised by CYP3A4 and UGT2B7 enzymes. Results of clinical drug-drug interaction (DDI) studies investigating potential DDI
+
 <div style=\"page-break-after: always\"></div>
 
-In vitro studies have demonstrated that capivasertib is primarily metabolised by CYP3A4 and UGT2B7 enzymes. Results of clinical drug-drug interaction (DDI) studies investigating potential DDI based on CYP3A4 interactions (itraconazole and enzalutamide) are included in section 4.5 above. Clinical DDI studies investigating potential DDIs based on UGT2B7 interactions have not been performed.
+based on CYP3A4 interactions (itraconazole and enzalutamide) are included in section 4.5 above. Clinical DDI studies investigating potential DDIs based on UGT2B7 interactions have not been performed.
 
 Capivasertib inhibited CYP2C9, CYP2D6, CYP3A4 and UGT1A1 and induced CYP1A2, CYP2B6 and CYP3A4 metabolising enzymes in in vitro studies. It also inhibited BCRP, OATP1B1, OATP1B3, OAT3, OCT2, MATE1 and MATE2K drug transporters in vitro . Results of clinical DDI study investigating potential DDIs based on CYP3A4 interactions (midazolam) are included in section 4.5 above. Clinical DDI studies investigating potential DDIs based on CYP1A2, CYP2B6, CYP2C9, CYP2D6, UGT1A1, BCRP, OATP1B1, OATP1B3, OAT3, OCT2, MATE1 and MATE2K interactions have not been performed.
 
@@ -594,9 +594,9 @@ In a rat embryofoetal study, capivasertib caused an increase in post implantatio
 
 Exposure to capivasertib was confirmed in suckling pups which may indicate the potential for excretion of capivasertib in human milk.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Fertility
+
+<div style=\"page-break-after: always\"></div>
 
 Capivasertib has resulted in testicular toxicity and may impair fertility in males of reproductive potential. Effects on female fertility have not been studied in animals. In females, repeat-dose toxicity studies have reported some weight changes of the uterus in rats which were attributed to estrous cycle changes. Histopathological examination conducted in rat and dog studies did not show any treatmentrelated effects on female reproductive organs, which may be indicative of an adverse effect on female fertility.
 
@@ -634,9 +634,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-<div style=\"page-break-after: always\"></div>
-
 AstraZeneca AB SE-151 85 Södertälje Sweden
+
+<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -649,6 +649,8 @@ Date of first authorisation: 17 June 2024
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+22
 
 <div style=\"page-break-after: always\"></div>
 
@@ -742,10 +744,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -774,6 +773,8 @@ truqap 160 mg
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -841,7 +842,7 @@ Lot
 
 truqap 200 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -884,7 +885,7 @@ Lot
 
 Day 1 Day 2 Day 3 Day 4
 
-Sun/moon symbols
+Sun/moon symbols TRUQAP 200 mg tablets capivasertib AstraZeneca EXP
 
 <div style=\"page-break-after: always\"></div>
 
@@ -895,17 +896,11 @@ Sun/moon symbols
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
-TRUQAP 200 mg tablets capivasertib
-
 | 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
 |------|------------------------------------------|
 
-AstraZeneca
-
 | 3.   | EXPIRY DATE   |
 |------|---------------|
-
-EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
@@ -1049,9 +1044,9 @@ TRUQAP may affect your ability to drive or use machines. If you feel tired while
 
 This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium free'.
 
-## 3. How to take TRUQAP
-
 <div style=\"page-break-after: always\"></div>
+
+## 3. How to take TRUQAP
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
@@ -1066,6 +1061,8 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 |---------|------------|------------|------------|------------|------|------|------|
 | Morning | 2 x 200 mg | 2 x 200 mg | 2 x 200 mg | 2 x 200 mg |      |      |      |
 | Evening | 2 x 200 mg | 2 x 200 mg | 2 x 200 mg | 2 x 200 mg |      |      |      |
+
+* No dosing on day 5, 6 and 7.
 
 Record the day you take your first dose on the carton.
 
@@ -1097,11 +1094,11 @@ If you miss a dose, you can still take it within 4 hours from the time you usual
 
 If it has been more than 4 hours after you usually take your dose, skip that dose. Take the next dose at your usual time. Refer to table 1 for dosing schedule. Do not take two doses to make up for a missed dose.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you stop taking TRUQAP
 
 Do not stop taking TRUQAP unless your doctor tells you to. If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
@@ -1154,12 +1151,12 @@ Tell your doctor, pharmacist or nurse if you notice any of the following side ef
 - Pain, redness and swelling of mucosa in different parts of the body, e.g. of genital mucosa (mucosal inflammation)
 - High blood level of creatinine seen in blood tests, which may be a sign of kidney problems.
 - High blood level of glycosylated haemoglobin (a marker of blood sugar level over the last 8 to 12 weeks)
-- Reduced level of potassium in the blood
-- Dizziness
-- Syncope (fainting)
 
 <div style=\"page-break-after: always\"></div>
 
+- Reduced level of potassium in the blood
+- Dizziness
+- Syncope (fainting)
 - Stomach pain
 - Fever
 - Kidney problems including rapid loss of kidney function (acute kidney injury)
@@ -1207,11 +1204,11 @@ The active substance of TRUQAP is capivasertib.
 
 Round, biconvex, beige film-coated tablets debossed with 'CAV' above '160' on one side and plain on the reverse. Approximate diameter: 10 mm.
 
+<div style=\"page-break-after: always\"></div>
+
 ## TRUQAP 200 mg film-coated tablets
 
 Capsule shaped, biconvex, beige film-coated tablets debossed with 'CAV 200' on one side and plain on the reverse. Approximate size: 14.5 mm (length), 7.25 mm (width).
-
-<div style=\"page-break-after: always\"></div>
 
 TRUQAP is supplied in aluminium blisters (with symbols of sun for the morning/moon for the evening) containing 16 film-coated tablets. Each pack contains 64 tablets (4 blisters).
 
@@ -1227,9 +1224,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-AstraZeneca S.A./N.V.
-
-Tel: +32 2 370 48 11
+AstraZeneca S.A./N.V. Tel: +32 2 370 48 11
 
 ## България
 
@@ -1275,21 +1270,13 @@ AstraZeneca
 
 Tél: +33 1 41 29 40 00
 
-## Hrvatska
-
-AstraZeneca d.o.o.
-
-Tel: +385 1 4628 000
-
 ## Lietuva
 
 UAB AstraZeneca Lietuva Tel: +370 5 2660550
 
 ## Luxembourg/Luxemburg
 
-AstraZeneca S.A./N.V.
-
-Tél/Tel: +32 2 370 48 11
+AstraZeneca S.A./N.V. Tél/Tel: +32 2 370 48 11
 
 ## Magyarország
 
@@ -1299,7 +1286,9 @@ Tel.: +36 1 883 6500
 
 ## Malta
 
-Associated Drug Co. Ltd Tel: +356 2277 8000
+Associated Drug Co. Ltd
+
+Tel: +356 2277 8000
 
 ## Nederland
 
@@ -1321,19 +1310,25 @@ Tel: +43 1 711 31 0
 
 ## Polska
 
-AstraZeneca Pharma Poland Sp. z o.o. Tel.: +48 22 245 73 00
+AstraZeneca Pharma Poland Sp. z o.o.
+
+Tel.: +48 22 245 73 00
 
 ## Portugal
 
-AstraZeneca Produtos Farmacêuticos, Lda. Tel: +351 21 434 61 00
+AstraZeneca Produtos Farmacêuticos, Lda.
+
+Tel: +351 21 434 61 00
+
+## Hrvatska
+
+AstraZeneca d.o.o.
+
+Tel: +385 1 4628 000
 
 ## România
 
-AstraZeneca Pharma SRL
-
-Tel: +40 21 317 60 41
-
-<div style=\"page-break-after: always\"></div>
+AstraZeneca Pharma SRL Tel: +40 21 317 60 41
 
 ## Ireland
 
@@ -1367,9 +1362,7 @@ AstraZeneca Oy Puh/Tel: +358 10 23 010
 
 ## Κύπρος
 
-Αλέκτωρ Φαρµακευτική Λτδ
-
-Τηλ: +357 22490305
+Αλέκτωρ Φαρµακευτική Λτδ Τηλ: +357 22490305
 
 ## Sverige
 
@@ -1380,6 +1373,8 @@ AstraZeneca AB Tel: +46 8 553 26 000
 SIA AstraZeneca Latvija
 
 Tel: +371 67377100
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 

@@ -1,21 +1,19 @@
 ---
-document_datetime: 2023-09-21 19:12:54
+document_datetime: 2026-05-06 08:59:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/all-authorised-presentations/integrilin-epar-all-authorised-presentations_en.pdf
 document_name: integrilin-epar-all-authorised-presentations_en.pdf
 version: success
-processing_time: 0.3367326
-conversion_datetime: 2025-12-14 23:28:09.094097
+processing_time: 0.5618692
+conversion_datetime: 2026-05-07 20:01:12.433993
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
-## EU numbers Invented name Strengths Pharmaceutical Forms Route of administration Packaging Content Package size
-
-EU/1/99/109/001 Integrilin 0.75 mg/ml Solution for infusion Intravenous use Vial (glass) 100 ml 1 vial EU/1/99/109/002 Integrilin 2 mg/ml Solution for injection Intravenous use Vial (glass) 10 ml 1 vial
+<!-- image -->

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-23 16:19:52
-document_pages: 30
+document_datetime: 2026-05-05 10:39:00
+document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/qutenza-epar-product-information_en.pdf
 document_name: qutenza-epar-product-information_en.pdf
 version: success
-processing_time: 6.1932238
-conversion_datetime: 2026-03-25 12:25:21.431633
+processing_time: 6.0919476
+conversion_datetime: 2026-05-07 20:20:56.184127
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -96,11 +96,9 @@ When treating feet, Qutenza patches can be wrapped around the dorsal, lateral an
 
 To ensure Qutenza maintains contact to the treatment area, stretchable socks or rolled gauze may be used.
 
-The Qutenza patches should be removed gently and slowly by rolling them inward to minimize the risk of aerosolisation of capsaicin. After removal of Qutenza, cleansing gel should be applied liberally to the treatment area and left on for at least one minute. Cleansing gel should be wiped off with dry
+The Qutenza patches should be removed gently and slowly by rolling them inward to minimize the risk of aerosolisation of capsaicin. After removal of Qutenza, cleansing gel should be applied liberally to the treatment area and left on for at least one minute. Cleansing gel should be wiped off with dry gauze to remove any remaining capsaicin from the skin. After the cleansing gel has been wiped off, the area should be gently washed with soap and water.
 
 <div style=\"page-break-after: always\"></div>
-
-gauze to remove any remaining capsaicin from the skin. After the cleansing gel has been wiped off, the area should be gently washed with soap and water.
 
 Patients experiencing pain during and after patch application should be provided with supportive treatment (see section 4.4)
 
@@ -178,42 +176,41 @@ The most commonly reported adverse reactions were transient local application si
 
 ## Tabulated list of adverse reactions
 
-In Table 1 below all adverse reactions, which occurred at an incidence greater than control and in more than one patient in controlled clinical trials in patients with postherpetic neuralgia (PHN), painful Human Imunodeficiency Virus - Associated Neuropathy (HIV-AN) and painful diabetic peripheral neuropathy, are listed by system organ class and frequency: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100) and not known (cannot be estimated from the available data).
+In Table 1 below all adverse reactions, which occurred at an incidence greater than control and in more than one patient in controlled clinical trials in patients with postherpetic neuralgia (PHN), painful Human Imunodeficiency Virus - Associated Neuropathy (HIV-AN) and painful diabetic peripheral neuropathy, are listed by system organ class and frequency: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100) and not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1: Tabulated list of adverse reactions
 
-| System organ class and frequency                     | Adverse reaction                                                                                                                                                                                                                                        |
-|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                          |                                                                                                                                                                                                                                                         |
-| Uncommon                                             | Herpes zoster                                                                                                                                                                                                                                           |
-| Nervous system disorders                             |                                                                                                                                                                                                                                                         |
-| Common                                               | Burning sensation                                                                                                                                                                                                                                       |
-| Uncommon                                             | Dysgeusia, hypoaesthesia                                                                                                                                                                                                                                |
-| Eye disorders                                        |                                                                                                                                                                                                                                                         |
-| Uncommon                                             | Eye irritation                                                                                                                                                                                                                                          |
-| Cardiac disorders                                    |                                                                                                                                                                                                                                                         |
-| Uncommon                                             | First degree atrio-ventricular (AV) block, tachycardia, palpitations                                                                                                                                                                                    |
-| Vascular disorders                                   |                                                                                                                                                                                                                                                         |
-| Common                                               | Hypertension                                                                                                                                                                                                                                            |
-| Respiratory, thoracic and mediastinal disorders      |                                                                                                                                                                                                                                                         |
-| Common                                               | Cough                                                                                                                                                                                                                                                   |
-| Uncommon                                             | Throat irritation                                                                                                                                                                                                                                       |
-| Gastrointestinal disorders                           |                                                                                                                                                                                                                                                         |
-| Common                                               | Nausea                                                                                                                                                                                                                                                  |
-| Skin and subcutaneous tissue disorders               |                                                                                                                                                                                                                                                         |
-| Common                                               | Pruritus                                                                                                                                                                                                                                                |
-| Musculoskeletal and connective tissue disorders      |                                                                                                                                                                                                                                                         |
-| Common                                               | Pain in extremity, muscle spasms                                                                                                                                                                                                                        |
-| General disorders and administration site conditions |                                                                                                                                                                                                                                                         |
-| Very common                                          | Application site pain, application site erythema                                                                                                                                                                                                        |
-|                                                      | application site oedema, application site swelling, application site dryness, peripheral oedema Application site urticaria, application site paraesthesia, application site dermatitis, application site hyperaesthesia, application site inflammation, |
-| Common Uncommon                                      | application site reaction, application site irritation, application site bruising                                                                                                                                                                       |
-| Investigations                                       |                                                                                                                                                                                                                                                         |
-| Common                                               | Increased blood pressure                                                                                                                                                                                                                                |
-| Injury, poisoning and procedural complications       |                                                                                                                                                                                                                                                         |
-| Not known                                            | Application site burns (including second- and third-degree burns), accidental exposure (including eye pain, eye and throat irritation and cough)                                                                                                        |
+| System organ class and frequency                     | Adverse reaction                                                                                                                                              |
+|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                          |                                                                                                                                                               |
+| Uncommon                                             | Herpes zoster                                                                                                                                                 |
+| Nervous system disorders                             |                                                                                                                                                               |
+| Common                                               | Burning sensation                                                                                                                                             |
+| Uncommon                                             | Dysgeusia, hypoaesthesia                                                                                                                                      |
+| Eye disorders                                        |                                                                                                                                                               |
+| Uncommon                                             | Eye irritation                                                                                                                                                |
+| Cardiac disorders                                    |                                                                                                                                                               |
+| Uncommon                                             | First degree atrio-ventricular (AV) block, tachycardia, palpitations                                                                                          |
+| Vascular disorders                                   |                                                                                                                                                               |
+| Common                                               | Hypertension                                                                                                                                                  |
+| Respiratory, thoracic and mediastinal disorders      |                                                                                                                                                               |
+| Common                                               | Cough                                                                                                                                                         |
+| Uncommon                                             | Throat irritation                                                                                                                                             |
+| Gastrointestinal disorders                           |                                                                                                                                                               |
+| Common                                               | Nausea                                                                                                                                                        |
+| Skin and subcutaneous tissue disorders               |                                                                                                                                                               |
+| Common                                               | Pruritus                                                                                                                                                      |
+| Musculoskeletal and connective tissue disorders      |                                                                                                                                                               |
+| Common                                               | Pain in extremity, muscle spasms                                                                                                                              |
+| General disorders and administration site conditions |                                                                                                                                                               |
+| Very common                                          | Application site pain, application site erythema                                                                                                              |
+| Uncommon                                             | dermatitis, application site hyperaesthesia, application site inflammation, application site reaction, application site irritation, application site bruising |
+|                                                      | Increased blood pressure                                                                                                                                      |
+| Common                                               |                                                                                                                                                               |
+| Injury, poisoning and procedural complications       |                                                                                                                                                               |
+| Not known                                            | Application site burns (including second- and third-degree burns), accidental exposure (including eye pain, eye and throat irritation and cough)              |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -247,11 +244,9 @@ Following capsaicin exposure, cutaneous nociceptors become less sensitive to a v
 
 ## Clinical efficacy and safety
 
-Efficacy of a single 30-minute application of Qutenza to the feet has been shown in controlled clinical trials of 12 weeks duration conducted in patients with painful Human Imunodeficiency Virus Associated Neuropathy (HIV-AN) and painful diabetic peripheral neuropathy (pDPN). Efficacy of a single 60-minute application of Qutenza to locations other than the feet has been shown in controlled
+Efficacy of a single 30-minute application of Qutenza to the feet has been shown in controlled clinical trials of 12 weeks duration conducted in patients with painful Human Imunodeficiency Virus Associated Neuropathy (HIV-AN) and painful diabetic peripheral neuropathy (pDPN). Efficacy of a single 60-minute application of Qutenza to locations other than the feet has been shown in controlled clinical trials of 12 weeks duration conducted in patients with postherpetic neuralgia (PHN). The average pain reduction after single application of Qutenza compared to baseline at week 2 to12 across the pivotal trials ranged between -22.8 % and -32.3%, compared to a range of -10.7% to -25.0% for the control patches Responder rates (response defined as a 30% decrease in average pain score from baseline) ranged between 34% and 47%, compared to a range of 18% to 36% for the control patches. These results were statistically significant versus low dose capsaicin (PHN and HIV-AN) or placebo (pDPN). Pain reduction was observed at week 1 in PHN, week 2 in HIV-AN and week 3 in pDPN. For all three aetiologies efficacy was maintained throughout the 12-week study period.
 
 <div style=\"page-break-after: always\"></div>
-
-clinical trials of 12 weeks duration conducted in patients with postherpetic neuralgia (PHN). The average pain reduction after single application of Qutenza compared to baseline at week 2 to12 across the pivotal trials ranged between -22.8 % and -32.3%, compared to a range of -10.7% to -25.0% for the control patches Responder rates (response defined as a 30% decrease in average pain score from baseline) ranged between 34% and 47%, compared to a range of 18% to 36% for the control patches. These results were statistically significant versus low dose capsaicin (PHN and HIV-AN) or placebo (pDPN). Pain reduction was observed at week 1 in PHN, week 2 in HIV-AN and week 3 in pDPN. For all three aetiologies efficacy was maintained throughout the 12-week study period.
 
 Consistent and reproducible efficacy and tolerability was demonstrated with repeated treatments during a 52-week period in two clinical trials (STRIDE and PACE). In these two trials, one in pDPN patients (PACE) and one in patients with HIV-AN, Post Traumatic Nerve Injury (PNI) and PHN (STRIDE), the mean time (Standard Deviation) to retreatment was 68.4 (23.31) and 107 (43.58) days respectively. Repeated treatment with Qutenza in PACE and STRIDE was associated with progressively decreasing 24-hour average pain intensity and increasing responder rates, improvement in sleep and improvement in QoL. Likewise, in real world data, repeated treatments with Qutenza could be correlated with a decrease in neuropathic pain symptoms, improvement in quality of life and sleep. In these trials 25% of patients had a retreatment time shorter than 61.5 and 78.8 days respectively and 25% of patients had a retreatment time longer than 64.6 and 118.7 days respectively. A frequency increase of up to approximately 5% of known application site reactions, such as pain and burning sensation, was reported in patients retreated with Qutenza earlier than 90 days.
 
@@ -277,7 +272,7 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 Genotoxicity studies performed with capsaicin show a weak mutagenic response in the mouse lymphoma assay and negative responses in the Ames, mouse micronucleus and chromosomal aberrationin human peripheral blood lymphocytes assays.
 
-A carcinogenicity study performed in mice indicates that capsaicin is not carcinogenic.
+Acarcinogenicity study performed in mice indicates that capsaicin is not carcinogenic.
 
 A reproductive toxicology study conducted in rats showed a statistically significant reduction in the number and percent of motile sperms in rats treated 3 hours/day beginning 28 days before cohabitation, through cohabitation and continuing through the day before sacrifice. Although neither statistically significant nor dose dependent, the Fertility Index and the number of pregnancies per number of rats in cohabitation were reduced in all capsaicin-treated groups.
 
@@ -289,7 +284,7 @@ A mild sensitization was seen in a cutaneous sensitization study with guinea pig
 
 ## 6.1 List of excipients
 
-## Patch
+Patch
 
 Matrix silicone adhesives diethylene glycol monoethyl ether silicone oil ethylcellulose N50 (E462)
 
@@ -299,11 +294,9 @@ Removable protective layer (release liner) polyester film, fluoropolymer-coated
 
 ## Cleansing gel
 
-macrogol 300 carbomer purified water sodium hydroxide (E524) disodium edetate
+macrogol 300 carbomer purified water sodium hydroxide (E524) disodium edetate butylhydroxyanisole (E320)
 
 <div style=\"page-break-after: always\"></div>
-
-butylhydroxyanisole (E320)
 
 ## 6.2 Incompatibilities
 
@@ -321,9 +314,7 @@ Qutenza cutaneous patch: Store flat in the original sachet and carton. Store bel
 
 Cleansing gel: Store below 25°C.
 
-6.5
-
-Nature and contents of container
+## 6.5 Nature and contents of container
 
 The cutaneous patch is stored in a paper-polyethylene terephtalate-aluminium foil sachet with cycloolefin copolymer-extrudate layer.
 
@@ -333,19 +324,13 @@ Qutenza is available in packs containing one or two sachets of individually seal
 
 Not all pack sizes may be marketed.
 
-6.6
-
-Special precautions for disposal and other handling
+## 6.6 Special precautions for disposal and other handling
 
 Health care professionals should wear nitrile gloves when handling patches and cleansing treatment areas. The use of a mask and protective glasses is recommended, see section 4.2.
 
-Used and unused patches and all other materials that have been in contact with the treated area should be disposed of immediately after use by sealing them in a polyethylene medical waste bag and placing
+Used and unused patches and all other materials that have been in contact with the treated area should be disposed of immediately after use by sealing them in a polyethylene medical waste bag and placing in an appropriate medical waste container.
 
-in an appropriate medical waste container.
-
-7.
-
-MARKETING AUTHORISATION HOLDER
+## 7. MARKETING AUTHORISATION HOLDER
 
 Grünenthal GmbH Zieglerstraße 6 52078 Aachen Germany
 
@@ -353,9 +338,7 @@ Grünenthal GmbH Zieglerstraße 6 52078 Aachen Germany
 
 EU/1/09/524/001-002
 
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 15 May 2009
 
@@ -394,7 +377,7 @@ Medicinal product subject to medical prescription.
 
 -  Periodic safety update reports (PSURs)
 
-The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference  dates  (EURD  list)  provided  for  under  Article  107c(7)  of  Directive  2001/83/EC  and  any subsequent updates published on the European medicines web-portal.
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference  dates  (EURD  list)  provided for  under  Article  107c(7)  of  Directive  2001/83/EC  and  any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -457,7 +440,9 @@ Each 280 cm 2 cutaneous patch contains a total of 179 mg of capsaicin or 640 mic
 
 ## Patch
 
-Matrix silicone adhesives diethylene glycol monoethyl ether silicone oil ethylcellulose N50 (E462)
+Matrix
+
+silicone adhesives diethylene glycol monoethyl ether silicone oil ethylcellulose N50 (E462)
 
 Backing layer
 
@@ -475,7 +460,7 @@ See package leaflet for further information.
 
 1 sachet containing 1 cutaneous patch and 1 tube of cleansing gel (50 g).
 
-2 sachets, each containing 1 cutaneous patch and 1 tube of cleansing gel (50 g).
+- 2 sachets, each containing 1 cutaneous patch and 1 tube of cleansing gel (50 g).
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -572,13 +557,17 @@ Each 280 cm 2 cutaneous patch contains a total of 179 mg of capsaicin or 640 mic
 
 ## Patch
 
-Matrix silicone adhesives diethylene glycol monoethyl ether silicone oil ethylcellulose N50 (E462)
+Matrix
+
+silicone adhesives diethylene glycol monoethyl ether silicone oil ethylcellulose N50 (E462)
 
 Backing layer
 
 Polyethylene Terephthalate (PET) Film, inner side siliconizedprinting ink containing Pigment White 6
 
-Removable protective layer (release liner) polyester film, fluoropolymer coated
+Removable protective layer (release liner)
+
+polyester film, fluoropolymer coated
 
 See the package leaflet for further information
 
@@ -620,7 +609,9 @@ Grünenthal GmbH Zieglerstraße 6 52078 Aachen Germany
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
-EU/1/09/524/001 1 patch EU/1/09/524/002 2 patches
+EU/1/09/524/001 1 patch
+
+EU/1/09/524/002 2 patches
 
 ## 13. BATCH NUMBER
 
@@ -628,8 +619,7 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
@@ -717,7 +707,7 @@ Justification for not including Braille accepted
 
 ## Qutenza 179 mg cutaneous patch
 
-## capsaicin
+capsaicin
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -856,7 +846,10 @@ Tell your doctor if the following side effects occur or get worse:
 
 Very common: may affect more than 1 in 10 people
 
--  Redness or pain on the area where the patch is applied which lasts for more than a day. Common: may affect up to 1 in 10 people
+-  Redness or pain on the area where the patch is applied which lasts for more than a day.
+
+Common: may affect up to 1 in 10 people
+
 -  Itching, bumps, blisters, swelling, dryness on the area where the patch is applied
 -  Burning sensation, high blood pressure, cough, nausea, itching, pain in limbs, muscle spasms, swelling of limbs.
 
@@ -899,7 +892,9 @@ The other ingredients of the Qutenza cutaneous patch are:
 
 Matrix silicone adhesives diethylene glycol monoethyl ether silicone oil ethylcellulose N50 (E462)
 
-Backing layer Polyethylene Terephthalate (PET) Film, inner side siliconizedprinting ink containing Pigment White 6
+Backing layer
+
+Polyethylene Terephthalate (PET) Film, inner side siliconizedprinting ink containing Pigment White 6
 
 Removable protective layer (release liner) polyester film, fluoropolymer-coated
 
@@ -926,7 +921,3 @@ Grünenthal GmbH Zieglerstraße 6 52078 Aachen Germany
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
-<div style=\"page-break-after: always\"></div>
-
-The following information is intended for medical or healthcare professionals only: A complete Summary of Product Characteristics (SPC) is provided with this leaflet.

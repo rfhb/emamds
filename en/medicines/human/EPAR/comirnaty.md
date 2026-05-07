@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-08 16:32:00
+document_datetime: 2026-05-05 10:21:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/comirnaty.html
 document_name: comirnaty.html
 version: success
-processing_time: 0.2347387
-conversion_datetime: 2026-04-09 12:31:06.181997
+processing_time: 0.2489758
+conversion_datetime: 2026-05-07 20:07:36.148935
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Comirnaty
 
@@ -227,7 +227,7 @@ English (EN) (165.99 KB - PDF)
 
 [View](/en/documents/overview/comirnaty-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-957)
+[Other languages (22)](#file-language-dropdown-796)
 
 български (BG) (204.05 KB - PDF)
 
@@ -363,9 +363,9 @@ svenska (SV) (177.37 KB - PDF)
 
 Comirnaty : EPAR - Risk management plan
 
-English (EN) (4.15 MB - PDF)
+English (EN) (2.67 MB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 05/07/2024
+**First published:** 23/12/2020 **Last updated:** 05/05/2026
 
 [View](/en/documents/rmp/comirnaty-epar-risk-management-plan_en.pdf)
 
@@ -379,7 +379,7 @@ English (EN) (2.38 MB - PDF)
 
 [View](/en/documents/product-information/comirnaty-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-326)
+[Other languages (24)](#file-language-dropdown-384)
 
 български (BG) (2.99 MB - PDF)
 
@@ -525,9 +525,9 @@ svenska (SV) (2.65 MB - PDF)
 
 [View](/sv/documents/product-information/comirnaty-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000340001
+**Latest procedure affecting product information:** VR/0000302705
 
-08/04/2026
+10/04/2026
 
 icon globe
 
@@ -551,7 +551,7 @@ English (EN) (43.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-116)
+[Other languages (24)](#file-language-dropdown-59)
 
 български (BG) (85.87 KB - PDF)
 
@@ -763,7 +763,7 @@ Marketing authorisation issued
 
 Revision
 
-60
+61
 
 ## Assessment history
 
@@ -775,9 +775,9 @@ Collapse section
 
 Comirnaty : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (293.64 KB - PDF)
+English (EN) (254.36 KB - PDF)
 
-**First published:** 08/10/2024 **Last updated:** 08/04/2026
+**First published:** 08/10/2024 **Last updated:** 05/05/2026
 
 [View](/en/documents/procedural-steps-after/comirnaty-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -788,6 +788,16 @@ English (EN) (637.91 KB - PDF)
 **First published:** 12/01/2021 **Last updated:** 28/11/2024
 
 [View](/en/documents/procedural-steps-after/comirnaty-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Comirnaty-VR-0000302705 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-2492155
+
+English (EN) (2.84 MB - PDF)
+
+**First published:** 05/05/2026
+
+[View](/en/documents/variation-report/comirnaty-vr-0000302705-epar-assessment-report-variation_en.pdf)
 
 Comirnaty-PAM-0000316475 : EPAR - Assessment report
 
@@ -1425,6 +1435,10 @@ English (EN) (163.12 KB - PDF)
 
 ## News on Comirnaty
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 April 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-april-2026)
+
+24/04/2026
+
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025)
 
 25/07/2025
@@ -1707,9 +1721,13 @@ English (EN) (3.84 MB - ZIP)
 
 Comirnaty : 2.3.S drug substance
 
-English (EN) (20.14 MB - ZIP)
+Summary:
 
-**First published:** 25/07/2025 **Last updated:** 31/03/2026
+Comirnaty Module 2.3.S drug substance
+
+English (EN) (22.73 MB - ZIP)
+
+**First published:** 25/07/2025 **Last updated:** 29/04/2026
 
 [View](/en/documents/other/comirnaty-23s-drug-substance_en.zip)
 
@@ -1847,11 +1865,12 @@ English (EN) (813.79 KB - PDF)
 
 - [EMA/PE/0000221583 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000221583)
 - [Comirnaty / Spikevax (previously COVID-19 Vaccine Moderna) - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/comirnaty-spikevax-previously-covid-19-vaccine-moderna)
+- [Comirnaty - opinion on variation to marketing authorisation](/en/medicines/human/variation/comirnaty)
+- [Human genetics of myocarditis: overall, after mRNA COVID-19 vaccination, and after SARS-CoV-2 infection - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000728)
 - [Interim Analysis of Myocarditis and Pericarditis Associated with COMIRNATY in Persons Less Than 21 Years of Age - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000600)
 - [Non-Interventional Postmarketing Safety Study of the COMIRNATY 2025-2026 Formula (LP.8.1) in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000932)
 - [id.DRIVE (former COVIDRIVE) study of brand-specific COVID-19 vaccine effectiveness against severe COVID-19 disease in Europe - post-authorisation study](https://catalogues.ema.europa.eu/study/49374)
 - [Post Conditional Approval Active Surveillance Study Among Individuals in Europe Receiving the Pfizer-BioNTech Coronavirus Disease 2019 (COVID-19) Vaccine - post-authorisation study](https://catalogues.ema.europa.eu/study/46939)
-- [Human genetics of myocarditis: overall, after mRNA COVID-19 vaccination, and after SARS-CoV-2 infection - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000728)
 - [Assessment of risk factors for Myocarditis in the United States (US) using Electronic Health Records and Claims data - post-authorisation study](https://catalogues.ema.europa.eu/study/104404)
 - [Post-Authorisation Active Surveillance Study of Myocarditis and Pericarditis Among Individuals in Europe Receiving the Pfizer-BioNTech Coronavirus Disease 2019 (COVID-19) Vaccine - post-authorisation study](https://catalogues.ema.europa.eu/study/47709)
 - [Post-Authorisation Safety Study of Comirnaty Original/Omicron BA.1 and Comirnaty Original/Omicron BA.4-5 in Europe - post-authorisation study](https://catalogues.ema.europa.eu/study/199012)
@@ -1873,6 +1892,6 @@ English (EN) (813.79 KB - PDF)
 
 **This page was last updated on**
 
-08/04/2026
+05/05/2026
 
 ## Share this page

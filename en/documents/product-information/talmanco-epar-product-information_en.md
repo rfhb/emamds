@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-06 12:46:58
+document_datetime: 2026-05-08 11:52:44
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/talmanco-epar-product-information_en.pdf
 document_name: talmanco-epar-product-information_en.pdf
 version: success
-processing_time: 6.62259
-conversion_datetime: 2026-01-10 11:33:06.88554
+processing_time: 7.6168872
+conversion_datetime: 2026-05-10 12:24:44.065699
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -162,7 +162,7 @@ Tadalafil has systemic vasodilatory properties that may result in transient decr
 
 <div style=\"page-break-after: always\"></div>
 
-In patients who are taking alpha 1 blockers concomitant administration of tadalafil may lead to symptomatic hypotension in some patients (see section 4.5). Therefore, the combination of tadalafil and doxazosin is not recommended.
+In patients who are taking alpha1 blockers concomitant administration of tadalafil may lead to symptomatic hypotension in some patients (see section 4.5). Therefore, the combination of tadalafil and doxazosin is not recommended.
 
 ## Vision
 
@@ -182,7 +182,7 @@ Patients with severe hepatic cirrhosis (Child-Pugh Class C) have not been studie
 
 Priapism has been reported in men treated with PDE5 inhibitors. Patients who experience erections lasting 4 hours or more should be instructed to seek immediate medical assistance. If priapism is not treated immediately, penile tissue damage and permanent loss of potency may result.
 
-Tadalafil should be used with caution in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis or Peyronie's disease), or in patients who have conditions which may predispose them to priapism (such as sickle cell anaemia, multiple myeloma or leukaemia).
+Tadalafil should be used with caution in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis or Peyronie's disea se), or in patients who have conditions which may predispose them to priapism (such as sickle cell anaemia, multiple myeloma or leukaemia).
 
 ## Use with CYP3A4 inducers or inhibitors
 
@@ -216,17 +216,17 @@ Talmanco tablets contain lactose. Patients with rare hereditary problems of gala
 
 ## Azole antifungals (e.g. ketoconazole)
 
-Ketoconazole (200 mg daily), increased tadalafil (10 mg) single dose exposure (AUC) 2-fold and Cmax by 15 %, relative to the AUC and Cmax values for tadalafil alone. Ketoconazole (400 mg daily) increased tadalafil (20 mg) single dose exposure (AUC) 4-fold and C max by 22 %.
+Ketoconazole (200 mg daily), increased tadalafil (10 mg) single dose exposure (AUC) 2-fold and Cmax by 15 %, relative to the AUC and Cmax values for tadalafil alone. Ketoconazole (400 mg daily) increased tadalafil (20 mg) single dose exposure (AUC) 4-fold and Cmax by 22 %.
 
 ## Protease inhibitors (e.g. ritonavir)
 
-Ritonavir (200 mg twice daily), which is an inhibitor of CYP3A4, CYP2C9, CYP2C19, and CYP2D6, increased tadalafil (20 mg) single dose exposure (AUC) 2-fold with no change in C max . Ritonavir (500 mg or 600 mg twice daily) increased tadalafil (20 mg) single-dose exposure (AUC) by 32 % and decreased Cmax by 30 %.
+Ritonavir (200 mg twice daily), which is an inhibitor of CYP3A4, CYP2C9, CYP2C19, and CYP2D6, increased tadalafil (20 mg) single dose exposure (AUC) 2-fold with no change in Cmax. Ritonavir (500 mg or 600 mg twice daily) increased tadalafil (20 mg) single-dose exposure (AUC) by 32 % and decreased Cmax by 30 %.
 
 ## Cytochrome P450 inducers
 
 ## Endothelin-1 receptor antagonists (e.g. bosentan)
 
-Bosentan (125 mg twice daily), a substrate of CYP2C9 and CYP3A4 and a moderate inducer of CYP3A4, CYP2C9 and possibly CYP2C19, reduced tadalafil (40 mg once per day) systemic exposure by 42 % and Cmax by 27 % following multiple dose co-administration. The efficacy of tadalafil in patients already on bosentan therapy has not been conclusively demonstrated (see sections 4.4 and 5.1). Tadalafil did not affect the exposure (AUC and C max ) of bosentan or its metabolites.
+Bosentan (125 mg twice daily), a substrate of CYP2C9 and CYP3A4 and a moderate inducer of CYP3A4, CYP2C9 and possibly CYP2C19, reduced tadalafil (40 mg once per day) systemic exposure by 42 % and Cmax by 27 % following multiple dose co-administration. The efficacy of tadalafil in patients already on bosentan therapy has not been conclusively demonstrated (see sections 4.4 and 5.1). Tadalafil did not affect the exposure (AUC and Cmax) of bosentan or its metabolites.
 
 The safety and efficacy of combinations of tadalafil and other endothelin-1 receptor antagonists have not been studied.
 
@@ -322,7 +322,7 @@ In the pivotal placebo-controlled study of tadalafil for the treatment of PAH, a
 
 The table below lists the adverse reactions reported during the placebo-controlled clinical trial in patients with PAH treated with tadalafil. Also included in the table are some adverse reactions which have been reported in clinical trials and/or post marketing with tadalafil in the treatment of male erectile dysfunction. These events have either been assigned a frequency of 'Not known,' as the frequency in PAH patients cannot be estimated from the available data or assigned a frequency based on the clinical trial data from the pivotal placebo-controlled study of tadalafil.
 
-Frequency estimate: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data).
+Frequency estimate: Very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data).
 
 Very common
 
@@ -415,7 +415,10 @@ Myalgia, Back pain, Pain in extremity (including limb discomfort)
 | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
 |                                                      | Facial oedema, Chest pain 2                          |                                                      |                                                      |                                                      |
 
-- 1 Events not reported in registration trials and cannot be estimated from the available data. The adverse reactions have been included in the table as a result of postmarketing or clinical trial data from the use of tadalafil in the treatment of erectile dysfunction.
+1
+
+Events not reported in registration trials and cannot be estimated from the available data. The adverse reactions have been included in the table as a result of postmarketing or clinical trial data from the use of tadalafil in the treatment of erectile dysfunction.
+
 - 2 Most of the patients in whom these events have been reported had pre-existing cardiovascular risk factors.
 - 3 Actual MedDRA terms included are abdominal discomfort, abdominal pain, abdominal pain lower, abdominal pain upper, and stomach discomfort.
 - 4 Clinical non-MedDRA term to include reports of abnormal/excessive menstrual bleeding conditions such as menorrhagia, metrorrhagia, menometrorrhagia, or vaginal haemorrhage.
@@ -436,11 +439,11 @@ In a paediatric multiple ascending dose study, 19 patients with a median age of 
 
 ## Post-marketing study in paediatric patients (H6D-JE-TD01)
 
-Safety data were collected during an observational post-marketing study in Japan including 391 paediatric PAH patients (2 years maximum observational period). The mean age of patients in the study was 5.7 ± 5.3 years, including 79 patients aged &lt; 1 year, 41 aged 1 to &lt; 2 years, 122 aged 2 to 6 years, 110 aged 7 to 14 years, and 39 aged 15 to 17 years. AEs were reported in 123 patients (31.5 %). The incidences of AEs (≥ 5 patients) were pulmonary hypertension (3.6 %); headache
+Safety data were collected during an observational post-marketing study in Japan including 391 paediatric PAH patients (2 years maximum observational period). The mean age of patients in the study was 5.7 ± 5.3 years, including 79 patients aged &lt; 1 year, 41 aged 1 to &lt; 2 years, 122 aged 2 to 6 years, 110 aged 7 to 14 years, and 39 aged 15 to 17 years. AEs were reported in 123 patients (31.5 %). The incidences of AEs ( ≥ 5 patients) were pulmonary hypertension (3.6 %); headache
 
 <div style=\"page-break-after: always\"></div>
 
-(2.8 %); heart failure and decreased platelet count (2.0 % each); epistaxis and upper respiratory tract infection (1.8 % each); bronchitis, diarrhoea, and abnormal hepatic function (1.5 % each); and gastroenteritis, protein losing gastroenteropathy, and increased aspartate aminotransferase (1.3 % each). The incidence of SAEs was 12.0 % (≥ 3 patients), including pulmonary hypertension (3.6 %), heart failure (1.5 %), and pneumonia (0.8 %). Sixteen deaths (4.1 %) were reported; none were related to tadalafil.
+(2.8 %); heart failure and decreased platelet count (2.0 % each); epistaxis and upper respiratory tract infection (1.8 % each); bronchitis, diarrhoea, and abnormal hepatic function (1.5 % each); and gastroenteritis, protein losing gastroenteropathy, and increased aspartate aminotransferase (1.3 % each). The incidence of SAEs was 12.0 % ( ≥ 3 patients), including pulmonary hypertension (3.6 %), heart failure (1.5 %), and pneumonia (0.8 %). Sixteen deaths (4.1 %) were reported; none were related to tadalafil.
 
 ## Reporting of suspected adverse reactions
 
@@ -490,11 +493,9 @@ Cardiopulmonary haemodynamics was performed in 93 patients. Tadalafil 40 mg incr
 
 357 patients from the placebo-controlled study entered a long-term extension study. Of these, 311 patients had been treated with tadalafil for at least 6 months and 293 for 1 year (median exposure 365 days; range 2 days to 415 days). For those patients for which there are data, the survival rate at 1 year is 96.4 %. Additionally, 6 minute walk distance and WHO functional class status appeared to be stable in those treated with tadalafil for 1 year.
 
-Tadalafil 20 mg administered to healthy subjects produced no significant difference compared to placebo in supine systolic and diastolic blood pressure (mean maximal decrease of 1.6/0.8 mm Hg,
+Tadalafil 20 mg administered to healthy subjects produced no significant difference compared to placebo in supine systolic and diastolic blood pressure (mean maximal decrease of 1.6/0.8 mm Hg, respectively), in standing systolic and diastolic blood pressure (mean maximal decrease of 0.2/4.6 mm Hg, respectively), and no significant change in heart rate.
 
 <div style=\"page-break-after: always\"></div>
-
-respectively), in standing systolic and diastolic blood pressure (mean maximal decrease of 0.2/4.6 mm Hg, respectively), and no significant change in heart rate.
 
 In a study to assess the effects of tadalafil on vision, no impairment of colour discrimination (blue/green) was detected using the Farnsworth-Munsell 100-hue test. This finding is consistent with the low affinity of tadalafil for PDE6 compared to PDE5. Across all clinical trials, reports of changes in colour vision were rare (&lt; 0.1 %).
 
@@ -516,11 +517,9 @@ There were no confirmed cases of clinical worsening in either treatment group du
 
 ## Long term extension data
 
-A total of 32 patients from the placebo-controlled study (H6D-MC-LVHV) entered the open-label 2 year extension period (period 2) during which all patients received tadalafil at their appropriate
+A total of 32 patients from the placebo-controlled study (H6D-MC-LVHV) entered the open-label 2 year extension period (period 2) during which all patients received tadalafil at their appropriate weight cohort-related dose. The primary objective of period 2 was to evaluate the long-term safety of tadalafil.
 
 <div style=\"page-break-after: always\"></div>
-
-weight cohort-related dose. The primary objective of period 2 was to evaluate the long-term safety of tadalafil.
 
 In total, 26 patients completed the follow-up, during which time no new safety signals were observed. Clinical worsening was experienced in 5 patients; 1 had new onset syncope, 2 had an increase in endothelin receptor antagonist dose, 1 had addition of new PAH-specific concomitant therapy and 1 was hospitalized for PAH progression. WHO functional class was maintained or improved in the majority of patients at the end of period 2.
 
@@ -536,11 +535,11 @@ A single study has been performed in paediatric patients with Duchenne Muscular 
 
 ## 5.2 Pharmacokinetic properties
 
-Pharmacokinetic studies have shown that tadalafil tablets and oral suspension are bioequivalent based upon AUC(0-∞) in the fasted state. The t max of the oral suspension is approximately 1 hour later than the tablets, however the difference was not considered clinically relevant. While the tablets may be taken with or without food, the oral suspension should be taken on an empty stomach at least 1 hour before or 2 hours after a meal.
+Pharmacokinetic studies have shown that tadalafil tablets and oral suspension are bioequivalent based upon AUC(0-∞ ) in the fasted state. The tmax of the oral suspension is approximately 1 hour later than the tablets, however the difference was not considered clinically relevant. While the tablets may be taken with or without food, the oral suspension should be taken on an empty stomach at least 1 hour before or 2 hours after a meal.
 
 ## Absorption
 
-Tadalafil is readily absorbed after oral administration and the mean maximum observed plasma concentration (Cmax ) is achieved at a median time of 4 hours after dosing. Pharmacokinetic studies have shown that tadalafil tablets and oral suspension are bioequivalent based upon AUC(0-∞). Absolute bioavailability of tadalafil following oral dosing has not been determined.
+Tadalafil is readily absorbed after oral administration and the mean maximum observed plasma concentration (Cmax) is achieved at a median time of 4 hours after dosing. Pharmacokinetic studies have shown that tadalafil tablets and oral suspension are bioequivalent based upon AUC(0-∞ ). Absolute bioavailability of tadalafil following oral dosing has not been determined.
 
 The rate and extent of absorption of tadalafil film-coated tablets are not influenced by food, thus tadalafil tablets may be taken with or without food. The effect of food on the rate and extent of absorption with the tadalafil oral suspension has not been investigated; therefore, tadalafil suspension should be taken on an empty stomach at least 1 hour before or 2 hours after a meal. The time of dosing (morning versus evening after a single 10 mg administration) had no clinically relevant effects on the rate and extent of absorption. For children, tadalafil was dosed in clinical trials and post-marketing trials without regard to food with no safety concerns.
 
@@ -578,7 +577,7 @@ Healthy elderly subjects (65 years or over), had a lower oral clearance of tadal
 
 ## Renal impairment
 
-In clinical pharmacology studies using single-dose tadalafil (5 to 20 mg), tadalafil exposure (AUC) approximately doubled in subjects with mild (creatinine clearance 51 to 80 mL/min) or moderate (creatinine clearance 31 to 50 mL/min) renal impairment and in subjects with end-stage renal disease on dialysis. In haemodialysis patients, C max was 41 % higher than that observed in healthy subjects.
+In clinical pharmacology studies using single-dose tadalafil (5 to 20 mg), tadalafil exposure (AUC) approximately doubled in subjects with mild (creatinine clearance 51 to 80 mL/min) or moderate (creatinine clearance 31 to 50 mL/min) renal impairment and in subjects with end-stage renal disease on dialysis. In haemodialysis patients, Cmax was 41 % higher than that observed in healthy subjects.
 
 Haemodialysis contributes negligibly to tadalafil elimination.
 
@@ -606,7 +605,7 @@ In healthy female and male subjects following single and multiple-doses of tadal
 
 ## Paediatric population
 
-Based on data from 36 paediatric patients with PAH aged 2 to &lt; 18 years, body weight did not have an impact on the clearance of tadalafil; the AUC values in all paediatric weight groups are similar to those in adult patients at the same dose. Body weight was shown to be a predictor of peak exposure in children; due to this weight effect, the dose is 20 mg daily for paediatric patients ≥ 2 years and weighing &lt; 40 kg, and the Cmax is expected to be similar to paediatric patients weighing ≥ 40 kg taking 40 mg daily. T max for the tablet formulation was estimated at approximately 4 hours and was independent of body weight. Tadalafil half-life values were estimated to range from 13.6 to 24.2 hours for a range of 10 to 80 kg of body weight and did not show any clinically relevant differences.
+Based on data from 36 paediatric patients with PAH aged 2 to &lt; 18 years, body weight did not have an impact on the clearance of tadalafil; the AUC values in all paediatric weight groups are similar to those in adult patients at the same dose. Body weight was shown to be a predictor of peak exposure in children; due to this weight effect, the dose is 20 mg daily for paediatric patients ≥ 2 years and weighing &lt; 40 kg, and the Cmax is expected to be similar to paediatric patients weighing ≥ 40 kg taking 40 mg daily. Tmax for the tablet formulation was estimated at approximately 4 hours and was independent of body weight. Tadalafil half-life values were estimated to range from 13.6 to 24.2 hours for a range of 10 to 80 kg of body weight and did not show any clinically relevant differences.
 
 ## 5.3 Preclinical safety data
 
@@ -620,11 +619,11 @@ There was no impairment of fertility in male and female rats. In dogs given tada
 
 ## 6.1 List of excipients
 
-Tablet core: Povidone (K-25) Sodium laurilsulfate Poloxamer 188 Anhydrous lactose Microcrsytalline cellulose (PH 101) Croscarmellose sodium Colloidal anhydrous silica Magnesium stearate
+Tablet core: Povidone (K-25) Sodium laurilsulfate Poloxamer 188 Anhydrous lactose Microcrsytalline cellulose (PH 101) Croscarmellose sodium Colloidal anhydrous silica Magnesium stearate Film-coating: Lactose monohydrate Hypromellose (2910/15 mPa·s) (E464) Titanium dioxide (E171)
 
 <div style=\"page-break-after: always\"></div>
 
-Film-coating: Lactose monohydrate Hypromellose (2910/15 mPaꞏs) (E464) Titanium dioxide (E171) Triacetin
+Triacetin
 
 ## 6.2 Incompatibilities
 
@@ -697,7 +696,7 @@ McDermott Laboratories Limited t/a Gerard Laboratories t/a Mylan Dublin 35/36 Ba
 
 Mylan Hungary Kft Mylan utca 1 Komárom, 2900 Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -707,20 +706,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic Safety Update Reports (PSURs)
+## · Periodic Safety Update Reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk Management Plan (RMP)
+## · Risk Management Plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
 
 <div style=\"page-break-after: always\"></div>
 
@@ -752,7 +751,7 @@ Contains lactose. See leaflet for further information.
 
 ## Film-coated tablet
 
-28 film-coated tablets
+- 28 film-coated tablets
 
 28 x 1 film-coated tablets
 
@@ -784,7 +783,9 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -801,13 +802,14 @@ EU/1/16/1153/004
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Talmanco 20 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -821,12 +823,12 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER                                               |
+| MINIMUM PARTICULARS TO APPEARON BLISTERSOR STRIPS   |
+|-----------------------------------------------------|
+| BLISTER                                             |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Talmanco 20 mg film-coated tablets tadalafil
 
@@ -969,9 +971,7 @@ Talmanco is supplied as a 20 mg tablet. Swallow the tablet(s) whole with a drink
 
 The usual dose is two 20 mg tablets taken once a day. You should take both tablets at the same time, one after the other. If you have a mild or moderate liver or kidney problem, your doctor may advise you to take only one 20 mg tablet per day.
 
-## Pulmonary arterial hypertension in children (age 2 years and above) weighing at least 40 kg
-
-The recommended dose is two 20 mg tablets taken once a day. Both tablets should be taken at the same time, one after the other. If you have a mild or moderate liver or kidney problem, your doctor may advise you to take only one 20 mg tablet per day.
+Pulmonary arterial hypertension in children (age 2 years and above) weighing at least 40 kg The recommended dose is two 20 mg tablets taken once a day. Both tablets should be taken at the same time, one after the other. If you have a mild or moderate liver or kidney problem, your doctor may advise you to take only one 20 mg tablet per day.
 
 Pulmonary arterial hypertension in children (age 2 years and above) weighing less than 40 kg The recommended dose is one 20 mg tablet taken once a day. If you have a mild or moderate liver or kidney problem, your doctor may advise you to take 10 mg once per day.
 
@@ -1018,14 +1018,14 @@ Not known (frequency cannot be estimated from the available data)
 
 ## Other side effects have been reported:
 
-## Very Common (may affect more than 1 in 10 people)
+Very Common (may affect more than 1 in 10 people)
 
 - -headache.
 - -flushing, nasal and sinus congestion (blocked nose).
 - -nausea, indigestion (including abdominal pain or discomfort).
 - -muscle aches, back pain and pain in the extremity (including limb discomfort).
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
 - -blurred vision.
 - -low blood pressure.
@@ -1114,7 +1114,7 @@ Komárom, 2900
 
 Hungary
 
-## Mylan Germany GmbH
+Viatris Germany GmbH
 
 Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1
 
@@ -1140,9 +1140,11 @@ Tel: +370 5 205 1288
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
-Teл.: +359 2 44 55400
+Te л
+
+.: +359 2 44 55400
 
 ## Luxembourg/Luxemburg
 
@@ -1152,7 +1154,7 @@ Tél/Tel: +32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
-## Česká republika
+## Č eská republika
 
 Viatris CZ s.r.o.
 
@@ -1204,7 +1206,7 @@ Tlf: +47 66 75 33 00
 
 Viatris Hellas Ltd
 
-Τηλ: +30 2100 100 002
+Τηλ : +30 2100 100 002
 
 ## Österreich
 
@@ -1236,47 +1238,11 @@ Mylan, Lda.
 
 Tel: +351 214 127 200
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hrvatska
 
 Viatris Hrvatska d.o.o.
 
 Tel: +385 1 23 50 599
-
-## Ireland
-
-Viatris Limited
-
-Tel: +353 1 8711600
-
-## Ísland
-
-Icepharma hf.
-
-Sími: +354 540 8000
-
-## Italia
-
-Viatris Italia S.r.l.
-
-Tel: +39 (0) 2 612 46921
-
-## Κύπρος
-
-CPO Pharmaceuticals Limited
-
-Τηλ: +357 22863100
-
-## Latvija
-
-Viatris SIA
-
-Tel: +371 676 055 80
-
-## This leaflet was last revised in { MM/YYYY}.
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 ## România
 
@@ -1284,11 +1250,23 @@ BGP Products SRL
 
 Tel: +40 372 579 000
 
+## Ireland
+
+Viatris Limited
+
+Tel: +353 1 8711600
+
 ## Slovenija
 
 Viatris d.o.o.
 
 Tel: +386 1 236 31 80
+
+## Ísland
+
+Icepharma hf.
+
+Sími: +354 540 8000
 
 ## Slovenská republika
 
@@ -1296,14 +1274,40 @@ Viatris Slovakia s.r.o.
 
 Tel: +421 2 32 199 100
 
+## Italia
+
+Viatris Italia S.r.l.
+
+Tel: +39 (0) 2 612 46921
+
 ## Suomi/Finland
 
 Viatris Oy
 
 Puh/Tel: +358 20 720 9555
 
+## Κύπρος
+
+CPO Pharmaceuticals Limited
+
+Τηλ
+
+: +357 22863100
+
 ## Sverige
 
 Viatris AB
 
 Tel: +46 (0) 8 630 19 00
+
+## Latvija
+
+Viatris SIA
+
+Tel: +371 676 055 80
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in { MM/YYYY}.
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.

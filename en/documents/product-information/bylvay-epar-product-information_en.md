@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-06 12:31:35
+document_datetime: 2026-05-08 14:25:40
 document_pages: 47
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bylvay-epar-product-information_en.pdf
 document_name: bylvay-epar-product-information_en.pdf
 version: success
-processing_time: 21.895843
-conversion_datetime: 2025-12-19 21:19:14.845375
+processing_time: 21.3675527
+conversion_datetime: 2026-05-10 12:20:25.60973
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -58,7 +58,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Hard capsule
+Hard capsule.
 
 ## Bylvay 200 mcg hard capsules
 
@@ -150,7 +150,7 @@ No dose adjustment is required for patients with mild or moderate hepatic impair
 
 ## Paediatric population
 
-The safety and efficacy of odevixibat in children aged less than 6 months has not been established. No data are available.
+The safety and efficacy of odevixibat in children aged less than 6 months have not been established. No data are available.
 
 ## Method of administration
 
@@ -199,7 +199,7 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Enterohepatic circulation
 
-The mechanism of action of odevixibat requires that the enterohepatic circulation of bile acids and bile salt transport into biliary canaliculi is preserved. Conditions, medications or surgical procedures that impair either gastrointestinal motility, or enterohepatic circulation of bile acids, including bile salt transport to biliary canaliculi have the potential to reduce the efficacy of odevixibat. For this reason, e.g. patients with PFIC2 who have a complete absence or lack of function of Bile Salt Export Pump (BSEP) protein (i.e. patients with BSEP3 subtype of PFIC2) will not respond to odevixibat.
+The mechanism of action of odevixibat requires that the enterohepatic circulation of bile acids and bile salt transport into biliary canaliculi is preserved. Conditions, medicinal products or surgical procedures that impair either gastrointestinal motility, or enterohepatic circulation of bile acids, including bile salt transport to biliary canaliculi have the potential to reduce the efficacy of odevixibat. For this reason, e.g. patients with PFIC2 who have a complete absence or lack of function of Bile Salt Export Pump (BSEP) protein (i.e. patients with BSEP3 subtype of PFIC2) will not respond to odevixibat.
 
 There are limited clinical data with odevixibat in PFIC subtypes other than 1 and 2.
 
@@ -271,7 +271,7 @@ Odevixibat has no or negligible influence on the ability to drive and use machin
 
 ## Summary of the safety profile
 
-The most commonly reported adverse reaction was diarrhoea (32.2%). Other reported adverse reactions were mild to moderate increases in blood bilirubin (24.8%), ALT (14%) and AST (9.1%), vomiting (16.5%), stomach pain (11.6%), and decreases in Vitamin D (11%) and E levels (5%).
+The most commonly reported adverse reaction was diarrhoea (30.6%). Other reported adverse reactions were mild to moderate increases in blood bilirubin (24.8%), ALT (14%) and AST (9.1%), vomiting (16.5%), stomach pain (11.6%), and decreases in Vitamin D (11%) and E levels (5%).
 
 ## Tabulated list of adverse reactions
 
@@ -288,14 +288,6 @@ Table 3: Frequency of adverse reactions in PFIC patients
 | Hepatobiliary disorders                 | Common      | hepatomegaly, AST increased              |
 | Metabolism and nutrition site disorders | Very common | vitamin D deficiency                     |
 | Metabolism and nutrition site disorders | Common      | vitamin E deficiency                     |
-
-a Based on the combined frequency of diarrhoea, diarrhoea haemorrhagic and faeces soft
-
-b  Includes abdominal pain upper and abdominal pain lower
-
-ALT = alanine aminotransferase
-
-AST = aspartate aminotransferase
 
 ## Description of selected adverse reactions
 
@@ -343,11 +335,9 @@ Odevixibat acts locally in the distal ileum to decrease the reuptake of bile aci
 
 ## Clinical efficacy
 
-The efficacy of Bylvay in patients with PFIC was evaluated in two phase 3 trials and in a Phase 2 dose-finding study (A4250-003) in paediatric patients with cholestatic liver disease, including PFIC. Study A4250-005 was a 24-week, randomised, double-blind, placebo-controlled trial conducted in 62 patients with a confirmed diagnosis of PFIC Type 1 or Type 2. Patients were randomised 1:1:1 to placebo, or 40 or 120 mcg/kg/day odevixibat and stratified by PFIC Type (1 or 2) and age (6 months
+The efficacy of Bylvay in patients with PFIC was evaluated in two phase 3 trials and in a Phase 2 dose-finding study (A4250-003) in paediatric patients with cholestatic liver disease, including PFIC. Study A4250-005 was a 24-week, randomised, double-blind, placebo-controlled trial conducted in 62 patients with a confirmed diagnosis of PFIC Type 1 or Type 2. Patients were randomised 1:1:1 to placebo, or 40 or 120 mcg/kg/day odevixibat and stratified by PFIC Type (1 or 2) and age (6 months to 5 years, 6 to 12 years, and 13 to ≤ 18 years). Patients with pathologic variations of the ABCB11 gene that predict complete absence of the BSEP protein and those with ALT &gt; 10 × ULN or bilirubin &gt; 10 × ULN were excluded. 13% of the patients had prior biliary diversion surgery. Patients completing Study A4250-005 were eligible to enrol in Study A4250-008, a 72-week open-label extension trial. In total, 116 patients were enrolled in Study A4250-008, including 37 patients who received odevixibat in Study A4250-005 and 79 patients who were treatment naïve. Results were analysed for Study A4250-005 and pooled for Studies A4250-005 and A4250-008, representing 96 weeks of treatment for patients that completed treatment with odevixibat in both trials. The primary endpoint in Studies A4250-005 and A4250-008 was the proportion of patients with at least a 70% reduction in fasting serum bile acid levels or who achieved a level ≤ 70 µmol/L at week 24.
 
 <div style=\"page-break-after: always\"></div>
-
-to 5 years, 6 to 12 years, and 13 to ≤ 18 years). Patients with pathologic variations of the ABCB11 gene that predict complete absence of the BSEP protein and those with ALT &gt; 10 × ULN or bilirubin &gt; 10 × ULN were excluded. 13% of the patients had prior biliary diversion surgery. Patients completing Study A4250-005 were eligible to enrol in Study A4250-008, a 72-week open-label extension trial. In total, 116 patients were enrolled in Study A4250-008, including 37 patients who received odevixibat in Study A4250-005 and 79 patients who were treatment naïve. Results were analysed for Study A4250-005 and pooled for Studies A4250-005 and A4250-008, representing 96 weeks of treatment for patients that completed treatment with odevixibat in both trials. The primary endpoint in Studies A4250-005 and A4250-008 was the proportion of patients with at least a 70% reduction in fasting serum bile acid levels or who achieved a level ≤ 70 µmol/L at week 24.
 
 The proportion of positive pruritus assessments at the patient level over the 24-week treatment period based on an observer-reported outcome (ObsRO) instrument was a secondary endpoint. A positive pruritus assessment was a score of ≤ 1 or at least 1-point improvement from baseline. Pruritus assessments were conducted in the morning and evening using a 5-point scale (0-4). Additional secondary endpoints included changes from baseline to end of treatment in growth, sleep parameters (per ObsRO) and ALT.
 
@@ -370,18 +360,15 @@ Table 4: Comparison of key efficacy results for odevixibat vs. placebo over the 
 | Proportion                                                                                    | 28.74                                                                                         | 58.31                                                                                         | 47.69                                                                                         | 53.51                                                                                         |
 | Difference in proportion (SE) vs. placebo (95% CI) c                                          |                                                                                               | 28.23 (9.18) (9.83, 46.64)                                                                    | 21.71 (9.89) (1.87, 41.54)                                                                    | 24.97 (8.24) (8.45, 41.49)                                                                    |
 
-a Responders were defined as at least a 70% reduction in serum bile acids concentration from baseline or reaching a level ≤ 70 µmol/L.
-
 b Based on Cochran Mantel Haenszel test stratified by PFIC Type. P-values for the dose groups are adjusted for multiplicity.
 
 c Based on least squares means from an analysis of covariance model with daytime and night-time baseline pruritus scores as covariates and treatment group and stratification factors (PFIC Type and age category) as fixed effects.
 
-| Number of Patients   |   Number of Patients |    |    |    |    |    |    |
-|----------------------|----------------------|----|----|----|----|----|----|
-| Placebo              |                   20 | 20 | 18 | 17 | 16 | 12 | 11 |
-| 40 mcg/kg/day        |                   23 | 21 | 21 | 20 | 15 | 14 | 17 |
-| 120 mcg/kg/day       |                   19 | 19 | 16 | 16 | 11 | 11 | 15 |
-| All doses            |                   42 | 40 | 37 | 36 | 26 | 25 | 32 |
+| Placebo        |   20 |   20 |   18 |   17 |   16 |   12 |   11 |
+|----------------|------|------|------|------|------|------|------|
+| 40 mcg/kg/day  |   23 |   21 |   21 |   20 |   15 |   14 |   17 |
+| 120 mcg/kg/day |   19 |   19 |   16 |   16 |   11 |   11 |   15 |
+| All doses      |   42 |   40 |   37 |   36 |   26 |   25 |   32 |
 
 Figure 1:  Mean (±SE) change from baseline in serum bile acid concentration (µmol/L) over time
 
@@ -395,11 +382,11 @@ Figure 2: Mean (±SE) change from baseline in pruritus (scratching) severity sco
 
 ## Number of Patients
 
-| Placebo        |   20 |   20 |   20 |   20 |   20 |   20 |   20 | 20 20   |   20 |    |   20 20 |   20 |   18 |    |   18 17 |   17 |   17 |   16 |       | 15    | 15 15   |   15 13 12 |
-|----------------|------|------|------|------|------|------|------|---------|------|----|---------|------|------|----|---------|------|------|------|-------|-------|---------|------------|
-| 40 mcg/kg/day  |   23 |   23 |   23 |   23 |   23 |   23 |   23 | 22 22   |   23 | 23 |      23 |   23 |   19 | 19 |      19 |   19 |   20 |   19 | 18 19 | 19    | 19 19   |         17 |
-| 120 mcg/kg/day |   19 |   19 |   19 |   19 |   19 |   19 |   19 | 19 19   |   18 | 18 |      18 |   18 |   16 | 16 |      16 |   16 |   16 |   16 | 16 16 | 16 16 | 15      |         14 |
-| All doses      |   42 |   42 |   42 |   42 |   42 |   42 |   42 | 41 41   |   41 | 41 |      41 |   41 |   35 | 35 |      35 |   35 |   36 |   35 | 34 35 | 35 35 | 34      |         31 |
+| Placebo        | 20 20   |   20 |   20 |   20 |   20 | 20    | 20    |   20 20 | 20    |   20 20 |   18 |    |   18 17 |   17 |   17 |   16 |       | 15 15 15   | 15 13   |   12 |
+|----------------|---------|------|------|------|------|-------|-------|---------|-------|---------|------|----|---------|------|------|------|-------|------------|---------|------|
+| 40 mcg/kg/day  | 23 23   |   23 |   23 |   23 |   23 | 23    | 22 22 |      23 | 23 23 |      23 |   19 | 19 |      19 |   19 |   20 |   19 | 18 19 | 19 19      | 19      |   17 |
+| 120 mcg/kg/day | 19 19   |   19 |   19 |   19 |   19 | 19    | 19 19 |      18 | 18 18 |      18 |   16 | 16 |      16 |   16 |   16 |   16 | 16 16 | 16 16      | 15      |   14 |
+| All doses      | 42 42   |   42 |   42 |   42 |   42 | 42 41 | 41    |      41 | 41 41 |      41 |   35 | 35 |      35 |   35 |   36 |   35 | 34 35 | 35         | 35 34   |   31 |
 
 In line with the results for reduction of pruritus (scratching), odevixibat reduced the percentage of days the patient required soothing, and patients less often required help falling asleep and had fewer days needing to sleep with a caregiver. Treatment with odevixibat also led to improvements from baseline in liver function test results (Table 5). The effect of odevixibat on growth parameters over 24 weeks is also presented.
 
@@ -441,11 +428,9 @@ Mean (SD) changes from baseline at week 72 in ALT, AST, and total bilirubin in t
 
 ## Exceptional circumstances
 
-This medicinal product has been authorised under 'Exceptional Circumstances'. This means that due to the rarity of the disease it has not been possible to obtain complete information on this medicinal
+This medicinal product has been authorised under 'Exceptional Circumstances'. This means that due to the rarity of the disease it has not been possible to obtain complete information on this medicinal product. The European Medicines Agency will review any new information which may become available every year and this SmPC will be updated as necessary.
 
 <div style=\"page-break-after: always\"></div>
-
-product. The European Medicines Agency will review any new information which may become available every year and this SmPC will be updated as necessary.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -525,9 +510,9 @@ The presence of odevixibat in breast milk was not measured in animal studies. Ex
 
 ## Capsule content
 
-Microcrystalline cellulose Hypromellose Ph.Eur
+Microcrystalline cellulose Hypromellose
 
-## Capsule shell
+Capsule shell
 
 Bylvay 200 mcg and 600 mcg hard capsules Hypromellose Titanium dioxide (E171) Yellow iron oxide (E172)
 
@@ -535,7 +520,7 @@ Bylvay 400 mcg and 1 200 mcg hard capsules Hypromellose Titanium dioxide (E171) 
 
 ## Printing ink
 
-Shellac Propylene glycol Black iron oxide (E172)
+Shellac Propylene glycol (E1520) Black iron oxide (E172)
 
 ## 6.2 Incompatibilities
 
@@ -543,7 +528,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-4 years
+4 years.
 
 ## 6.4 Special precautions for storage
 
@@ -551,7 +536,9 @@ Store in the original package in order to protect from light. Do not store above
 
 ## 6.5 Nature and contents of container
 
-High-density polyethylene (HDPE) bottle with a tamper evident, child resistant polypropylene closure. Pack size: 30 hard capsules
+High-density polyethylene (HDPE) bottle with a tamper evident, child resistant polypropylene closure.
+
+Pack size: 30 hard capsules
 
 ## 6.6 Special precautions for disposal
 
@@ -567,17 +554,17 @@ France
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1566/001 EU/1/21/1566/002 EU/1/21/1566/003
-
-EU/1/21/1566/004
+EU/1/21/1566/001 EU/1/21/1566/002 EU/1/21/1566/003 EU/1/21/1566/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 16 July 2021
 
+Date of latest renewal:
+
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -607,8 +594,6 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
-
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
@@ -624,11 +609,15 @@ An updated RMP should be submitted:
 
 This being an approval under exceptional circumstances and pursuant to Article 14(8) of Regulation (EC) No 726/2004, the MAH shall conduct, within the stated timeframe, the following measures:
 
+| Description                                                                                                                                                                                                                                                                    | Due data                                                                        |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| In order to investigate whether odevixibat treatment delays surgical biliary diversion (SBD) and/or liver transplantation (OLT), with matched comparison against untreated PFIC patients, the MAHshould conduct and submit the results of a study based on data from a disease | Annual interim reports are to be submitted along with the annual reassessments. |
+
 <div style=\"page-break-after: always\"></div>
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                           | Due data                                                                        |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| In order to investigate whether odevixibat treatment delays surgical biliary diversion (SBD) and/or liver transplantation (OLT), with matched comparison against untreated PFIC patients, the MAHshould conduct and submit the results of a study based on data from a disease registry of patients aged 6 months or older with progressive familial intrahepatic cholestasis (PFIC) according to an agreed protocol. | Annual interim reports are to be submitted along with the annual reassessments. |
+| Description                                                                                                                            | Due data   |
+|----------------------------------------------------------------------------------------------------------------------------------------|------------|
+| registry of patients aged 6 months or older with progressive familial intrahepatic cholestasis (PFIC) according to an agreed protocol. |            |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -639,8 +628,6 @@ This being an approval under exceptional circumstances and pursuant to Article 1
 <div style=\"page-break-after: always\"></div>
 
 - A. LABELLING
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -684,13 +671,15 @@ Store in the original package in order to protect from light. Do not store above
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
 Ipsen Pharma 70 rue Balard 75015 Paris France
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/21/1566/001
 
@@ -715,8 +704,8 @@ Bylvay 200 mcg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -769,8 +758,8 @@ Store in the original package in order to protect from light. Do not store above
 
 Ipsen Pharma 70 rue Balard 75015 Paris France
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/21/1566/001
 
@@ -791,8 +780,8 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -818,7 +807,7 @@ hard capsule
 
 Read the package leaflet before use. Oral use
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -843,8 +832,8 @@ Store in the original package in order to protect from light. Do not store above
 
 Ipsen Pharma 70 rue Balard 75015 Paris France
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/21/1566/002
 
@@ -869,12 +858,14 @@ Bylvay 400 mcg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING BOTTLE LABEL FOR 400 MICROGRAMS
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+
+## BOTTLE LABEL FOR 400 MICROGRAMS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -894,17 +885,15 @@ hard capsule
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
+Read the package leaflet before use. Oral use
 
-Oral use
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -923,8 +912,8 @@ Store in the original package in order to protect from light. Do not store above
 
 Ipsen Pharma 70 rue Balard 75015 Paris France
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/21/1566/002
 
@@ -945,10 +934,8 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
-
-29
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING CARTON FOR 600 MICROGRAMS
 
@@ -997,7 +984,9 @@ Store in the original package in order to protect from light. Do not store above
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
-Ipsen Pharma 70 rue Balard 75015 Paris France
+Ipsen Pharma 70 rue Balard 75015 Paris
+
+France
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -1025,10 +1014,12 @@ Bylvay 600 mcg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING BOTTLE LABEL FOR 600 MICROGRAMS
 
@@ -1101,8 +1092,8 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 33
 
@@ -1153,7 +1144,9 @@ Store in the original package in order to protect from light. Do not store above
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
-Ipsen Pharma 70 rue Balard 75015 Paris France
+Ipsen Pharma 70 rue Balard 75015 Paris
+
+France
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -1181,10 +1174,12 @@ Bylvay 1 200 mcg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING BOTTLE LABEL FOR 1 200 MICROGRAMS
 
@@ -1257,8 +1252,8 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 37
 
@@ -1272,7 +1267,9 @@ Lot
 
 Bylvay 200 micrograms hard capsules Bylvay 400 micrograms hard capsules Bylvay 600 micrograms hard capsules
 
-Bylvay 1 200 micrograms hard capsules odevixibat
+Bylvay 1 200 micrograms hard capsules
+
+odevixibat
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -1318,9 +1315,9 @@ since these may reduce the effect of odevixibat
 
 Talk to your doctor if you develop diarrhoea while taking Bylvay. Drinking sufficient liquid is recommended in patients with diarrhoea to prevent dehydration.
 
-Increased levels in liver enzymes might be seen in liver function tests when taking Bylvay. Before you start taking Bylvay, your doctor will measure your liver function to check how well your liver is working. Your doctor will do regular checks to monitor your liver function..
+Increased levels in liver enzymes might be seen in liver function tests when taking Bylvay. Before you start taking Bylvay, your doctor will measure your liver function to check how well your liver is working. Your doctor will do regular checks to monitor your liver function.
 
-Before and during treatment, your doctor may  also check your blood levels of vitamin A, D and E and your INR (international normalised ratio, which measures your risk for bleeding).
+Before and during treatment, your doctor may also check your blood levels of vitamin A, D and E and your INR (international normalised ratio, which measures your risk for bleeding).
 
 ## Children
 
@@ -1328,7 +1325,9 @@ Bylvay is not recommended for babies under 6 months because it is not known if t
 
 ## Other medicines and Bylvay
 
-Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines. Treatment with odevixibat may affect the absorption of fat-soluble vitamins such as Vitamin A, D and E, and some medicines.
+Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines.
+
+Treatment with odevixibat may affect the absorption of fat-soluble vitamins such as vitamin A, D and E, and other fat-soluble medicines.
 
 ## Pregnancy and breast-feeding
 
@@ -1346,8 +1345,6 @@ Bylvay has no or negligible influence on the ability to drive or capacity to use
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
-Treatment must be started and supervised by a doctor experienced in the management of progressive liver disease with reduced bile flow.
-
 The dose of Bylvay is based on your weight. Your doctor will work out the right number and strength of capsules for you to take.
 
 ## The recommended dose is
@@ -1355,9 +1352,9 @@ The dose of Bylvay is based on your weight. Your doctor will work out the right 
 - 40 micrograms odevixibat per kilogram body weight once daily
 - If the medicine is not working well enough after 3 months, your doctor may increase the dose to 120 micrograms odevixibat per kilogram body weight (up to a maximum of 7 200 micrograms once daily).
 
-<div style=\"page-break-after: always\"></div>
-
 No dose differences are recommended for adults.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Method of use
 
@@ -1400,16 +1397,23 @@ Very common (may affect more than 1 in 10 people)
 - diarrhoea, including diarrhoea with bloody stool, soft stools
 - vomiting
 - abdominal (belly) pain
+- increase in bilirubin (a substance produced by the liver) as measured in the blood
+- increase in liver enzyme (ALT) as measured in the blood
+- low vitamin D blood level
 
 Common (may affect up to 1 in 10 people)
 
 - enlarged liver
+- increase in liver enzyme (AST) as measured in the blood
+- low vitamin E blood level
+
+If you have abnormal laboratory values, talk to your doctor about what this means to you.
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
-
 <div style=\"page-break-after: always\"></div>
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Bylvay
 
@@ -1435,37 +1439,39 @@ Each Bylvay 600 micrograms hard capsule contains 600 micrograms odevixibat (as s
 
 Each Bylvay 1 200 micrograms hard capsule contains 1 200 micrograms odevixibat (as sesquihydrate).
 
-- Other ingredients are:
+- The other ingredients are:
 
 ## Capsule content
 
 Microcrystalline cellulose Hypromellose
 
-## Capsule shell
+Capsule shell
 
 Bylvay 200 micrograms and 600 micrograms hard capsules Hypromellose Titanium dioxide (E171) Yellow iron oxide (E172)
 
 Bylvay 400 micrograms and 1 200 micrograms hard capsules Hypromellose Titanium dioxide (E171) Yellow iron oxide (E172) Red iron oxide (E172)
 
-## Printing ink
+Printing ink
 
-Shellac Propylene glycol
+Shellac
+
+Propylene glycol (E1520)
 
 Black iron oxide (E172)
+
+<div style=\"page-break-after: always\"></div>
 
 ## What Bylvay looks like and contents of the pack
 
 Bylvay 200 micrograms hard capsules:
 
-<div style=\"page-break-after: always\"></div>
-
 Size 0 capsules (21.7 mm × 7.64 mm) with ivory opaque cap and white opaque body; imprinted 'A200' with black ink.
 
-## Bylvay 400 micrograms hard capsules:
+Bylvay 400 micrograms hard capsules:
 
 Size 3 capsules (15.9 mm × 5.82 mm) with orange opaque cap and white opaque body; imprinted 'A400' with black ink.
 
-## Bylvay 600 micrograms hard capsules:
+Bylvay 600 micrograms hard capsules:
 
 Size 0 capsules (21.7 mm × 7.64 mm) with ivory opaque cap and body; imprinted 'A600' with black ink.
 
@@ -1481,29 +1487,25 @@ Ipsen Pharma 70 rue Balard 75015 Paris France
 
 ## Manufacturer
 
-Almac Pharma Services Limited Seagoe Industrial Estate Portadown, Craigavon County Armagh BT63 5UA United Kingdom (Northern Ireland)
+Almac Pharma Services Limited Seagoe Industrial Estate Portadown, Craigavon County Armagh BT63 5UA
+
+United Kingdom (Northern Ireland)
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien/Luxembourg/
-
-## Luxemburg
+## België/Belgique/Belgien/Luxembourg/ Luxemburg
 
 Ipsen NV België/Belgique/Belgien Tél/Tel: +32 9 243 96 00
 
 ## Italia
 
-Ipsen SpA
-
-Tel: + 39 02 39 22 41
+Ipsen SpA Tel: + 39 02 39 22 41
 
 ## България
 
 Swixx Biopharma EOOD
 
-Te л
-
-.: +359 (0)2 4942 480
+Teл.: +359 (0)2 4942 480
 
 ## Latvija
 
@@ -1511,23 +1513,31 @@ Ipsen Pharma representative office
 
 Tel: + 371 67622233
 
+<div style=\"page-break-after: always\"></div>
+
 ## Česká republika
+
+## Lietuva
 
 Ipsen Pharma s.r.o
 
 Tel: +
 
-420 242 481 821
-
-## Lietuva
+   
 
 Ipsen Pharma SAS Lietuvos filialas
 
 Tel: +370 700 33305
 
-## Danmark, Norge, Suomi/Finland, Sverige, Ísland
+## Danmark, Norge, Suomi/Finland, Sverige,
 
-Institut Produits Synthèse (IPSEN) AB Sverige/Ruotsi/Svíþjóð Tlf/Puh/Tel/Sími: +46 8 451 60 00
+## Ísland
+
+Institut Produits Synthèse (IPSEN) AB
+
+Sverige/Ruotsi/Svíþjóð
+
+Tlf/Puh/Tel/Sími: +46 8 451 60 00
 
 ## Magyarország
 
@@ -1535,13 +1545,15 @@ IPSEN Pharma Hungary Kft.
 
 Tel.: + 36 1 555 5930
 
-<div style=\"page-break-after: always\"></div>
-
 ## Deutschland, Österreich
 
 Ipsen Pharma GmbH Deutschland
 
 Tel: +49 89 2620 432 89
+
+## Nederland
+
+Ipsen Farmaceutica B.V.Tel: +31 (0) 23 554 1600
 
 ## Eesti
 
@@ -1549,13 +1561,21 @@ Centralpharma Communications OÜ
 
 Tel: +372 60 15 540
 
-## Ελλάδα , Κύπρος, Malta
+## Polska
+
+Ipsen Poland Sp. z o.o.
+
+Tel.: + 48 22 653 68 00
+
+## Ελλάδα, Κύπρος, Malta
 
 Ipsen Μονοπρόσωπη EΠΕ Ελλάδα
 
-Τηλ: +
+Τηλ: +30 210 984 3324
 
-30 210 984 3324
+## Portugal
+
+Ipsen Portugal - Produtos Farmacêuticos S.A. Tel: + 351 21 412 3550
 
 ## España
 
@@ -1563,55 +1583,17 @@ Ipsen Pharma, S.A.U.
 
 Tel: +34 936 858 100
 
-## France
-
-Ipsen Pharma
-
-Tél : +33 (0)1 58 33 50 00
-
-## Hrvatska
-
-Swixx Biopharma d.o.o.
-
-Tel: +385 1 2078 500
-
-## Ireland, United Kingdom (Northern Ireland)
-
-Ipsen Pharmaceuticals Limited
-
-Tel: +44 (0)1753 62 77 77
-
-## This leaflet was last revised in
-
-This medicine has been authorised under 'exceptional circumstances'. This means that because of the rarity of this disease it has been impossible to get complete information on this medicine. The European Medicines Agency will review any new information on this medicine every year and this leaflet will be updated as necessary.
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-There are also links to other websites about rare diseases and treatments.
-
-## Nederland
-
-Ipsen Farmaceutica B.V.Tel: +31 (0) 23 554 1600
-
-## Polska
-
-Ipsen Poland Sp. z o.o.
-
-Tel.: + 48 22 653 68 00
-
-## Portugal
-
-Ipsen Portugal - Produtos Farmacêuticos S.A.
-
-Tel: + 351 21 412 3550
-
 ## România
 
 Ipsen Pharma România SRL
 
 Tel: + 40 21 231 27 20
+
+## France
+
+Ipsen Pharma
+
+Tél : +33 (0)1 58 33 50 00
 
 ## Slovenija
 
@@ -1619,11 +1601,37 @@ Swixx Biopharma d.o.o.
 
 Tel: + 386 1 2355 100
 
+## Hrvatska
+
+Swixx Biopharma d.o.o.
+
+Tel: +385 1 2078 500
+
 ## Slovenská republika
 
 Ipsen Pharma, organizačná zložka
 
 Tel: + 420 242 481 821
+
+## Ireland
+
+Ipsen Pharmaceuticals Limited
+
+Tel: +353 1 8098256
+
+## This leaflet was last revised in
+
+This medicine has been authorised under 'exceptional circumstances'. This means that because of the rarity of this disease it has been impossible to get complete information on this medicine.
+
+The European Medicines Agency will review any new information on this medicine every year and
+
+this leaflet will be updated as necessary.
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+There are also links to other websites about rare diseases and treatments.
 
 <div style=\"page-break-after: always\"></div>
 

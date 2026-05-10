@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/all-authorised-presentations/kerendia-epar-all-authorised-presentations_en.pdf
 document_name: kerendia-epar-all-authorised-presentations_en.pdf
 version: success
-processing_time: 1.6772653
-conversion_datetime: 2026-05-10 13:10:36.563325
+processing_time: 2.3261289
+conversion_datetime: 2026-05-10 13:25:27.696631
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

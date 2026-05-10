@@ -4,8 +4,8 @@ document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/emtricitabine-rilpivirine-tenofovir-alafenamide-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: emtricitabine-rilpivirine-tenofovir-alafenamide-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 2.2175126
-conversion_datetime: 2026-05-10 13:25:27.423238
+processing_time: 1.5764291
+conversion_datetime: 2026-05-10 13:25:10.21524
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0
